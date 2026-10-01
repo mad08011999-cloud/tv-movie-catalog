@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>TV and Movie Research Catalog</title>
+<meta name="description" content="Screen story-pattern index: 855 film and TV catalog records, mirrored from the muse.ai share page with search and filters.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,500;6..72,650&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+</head>
+<body>
+<div class="topbar"><div class="wrap">
+  <span>Mirror of <a id="srcLink" href="https://muse.ai/s/tv-and-movie-research-catalog-xla62ucxbx02u5" target="_blank" rel="noopener">muse.ai/s/tv-and-movie-research-catalog</a> · source notes: “Content is user generated and unverified.”</span>
+  <span><a href="data.json" download>Download data.json</a> · <a href="original/index.html">Original layout (archived copy)</a></span>
+</div></div>
+
+<section class="wrap intro" aria-labelledby="page-heading">
+  <div>
+    <p class="kicker" id="kicker"></p>
+    <h1 id="page-heading"><span id="total">…</span> catalog records, sorted by the plot turn that matters.</h1>
+    <p class="dek" id="dek"></p>
+    <div class="legend" id="legend" aria-label="Category legend (click to filter)"></div>
+  </div>
+  <div class="snapshot" aria-label="Research snapshot information">
+    <strong id="total2">…</strong>
+    <div id="breakdowns"></div>
+  </div>
+</section>
+
+<div class="controls-shell">
+  <div class="wrap controls">
+    <label class="search">
+      <span style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)">Search titles or plot details</span>
+      <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="m16.2 16.2 4.2 4.2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="2"/></svg>
+      <input id="search" type="search" placeholder="Search titles, characters, countries…" autocomplete="off">
+    </label>
+    <select id="category" aria-label="Category"><option value="all">All categories</option></select>
+    <select id="format" aria-label="Format"><option value="all">All formats</option></select>
+    <div class="view-toggle" role="group" aria-label="View">
+      <button type="button" data-view="grid" aria-pressed="true">Unique records</button>
+      <button type="button" data-view="sections" aria-pressed="false">By section</button>
+    </div>
+  </div>
+</div>
+
+<main class="wrap">
+  <div class="results-head"><h2>Catalog</h2><p id="count" aria-live="polite"></p></div>
+  <section id="grid" class="grid" aria-label="Catalog entries"></section>
+  <section class="research-notes" id="notes"></section>
+</main>
+<footer class="wrap"><span id="snapdate">Research snapshot: 30 September 2026</span><span>Source links open in a new tab · <a href="https://github.com/mad08011999-cloud/tv-movie-catalog">Source code &amp; daily sync</a></span></footer>
+
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-label="Video clip">
+  <div class="modal-box">
+    <div class="modal-head"><strong id="modalTitle"></strong><span><a id="modalLink" href="#" target="_blank" rel="noopener">Open on YouTube ↗</a> &nbsp;<button type="button" id="modalClose">Close</button></span></div>
+    <div class="frame"><iframe id="modalFrame" title="Video player" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe></div>
+  </div>
+</div>
+<script src="assets/data.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

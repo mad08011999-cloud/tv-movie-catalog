@@ -1,0 +1,184 @@
+:root {
+  color-scheme: light dark;
+  --paper:#f4f1ea; --surface:#fffdf8; --ink:#181716; --muted:#635f59; --line:#d3cec4;
+  --accent:#b6242a; --accent-ink:#fff8f4; --gold:#a66800; --teal:#0d6a63; --blue:#315c86; --rose:#91445c; --olive:#53642f; --burnt:#8b4d15; --walkin:#76501f; --navy:#24566a; --regional:#2f6f4e;
+  --soft-red:#f6dfdc; --soft-gold:#f4e6c4; --soft-teal:#dbece6; --soft-blue:#dfe8f1; --soft-rose:#f2dfe5; --soft-olive:#e6ead5; --soft-burnt:#f1e1d2; --soft-walkin:#eee2cf; --soft-navy:#dce9eb; --soft-regional:#dfeadf;
+  --shadow:0 14px 36px rgba(55,41,24,.08); --focus:#006f9a;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper:#141311; --surface:#1d1b18; --ink:#f4efe7; --muted:#bcb4a8; --line:#39342e;
+    --accent:#ee6b6f; --accent-ink:#1a1110; --gold:#e0a84d; --teal:#60bdb0; --blue:#83add3; --rose:#ee91ad; --olive:#b7c77f; --burnt:#e0a16a; --walkin:#e2b570; --navy:#8ac4d4; --regional:#8cc5a1;
+    --soft-red:#3b2422; --soft-gold:#372d1d; --soft-teal:#18332f; --soft-blue:#1e2c3a; --soft-rose:#3a232d; --soft-olive:#2b3020; --soft-burnt:#37271d; --soft-walkin:#34291e; --soft-navy:#1c3036; --soft-regional:#23352a;
+    --shadow:0 18px 44px rgba(0,0,0,.28); --focus:#7fd4f0;
+  }
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:Archivo,system-ui,sans-serif;line-height:1.52}
+a{color:inherit}
+button,input,select{font:inherit}
+.wrap{width:min(1180px,calc(100% - 32px));margin-inline:auto}
+.intro{display:grid;grid-template-columns:minmax(0,1.45fr) minmax(260px,.55fr);gap:42px;padding:56px 0 34px;border-bottom:1px solid var(--line)}
+.kicker{margin:0 0 12px;color:var(--accent);font-size:.82rem;font-weight:700;letter-spacing:.05em}
+h1{font-family:Newsreader,Georgia,serif;font-size:clamp(2.75rem,6vw,5.5rem);line-height:.92;letter-spacing:-.045em;margin:0;max-width:780px;font-weight:650}
+.dek{max-width:760px;margin:22px 0 0;font-size:1.08rem;color:var(--muted)}
+.snapshot{align-self:end;border-top:3px solid var(--ink);padding-top:14px}
+.snapshot strong{display:block;font-family:Newsreader,Georgia,serif;font-size:2.25rem;line-height:1}
+.snapshot span{display:block;margin-top:8px;color:var(--muted);font-size:.84rem}
+.snapshot .breakdown{color:var(--ink);font-weight:600;line-height:1.45}
+.snapshot .breakdown b{color:var(--accent);font-variant-numeric:tabular-nums}
+.legend{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}
+.legend span,.tag{display:inline-flex;align-items:center;gap:6px;padding:5px 9px;border-radius:999px;font-size:.72rem;font-weight:700;line-height:1.2}
+.legend i{width:8px;height:8px;border-radius:50%;display:inline-block;background:currentColor}
+.legend .love,.legend .forced-obedience{color:var(--accent);background:var(--soft-red)}
+.legend .adult-hypnosis{color:var(--navy);background:var(--soft-navy)}
+.legend .adult-pregnancy{color:var(--rose);background:var(--soft-rose)}
+.legend .cheat-control,.legend .another-man{color:var(--rose);background:var(--soft-rose)}
+.legend .wife{color:var(--gold);background:var(--soft-gold)}
+.legend .partner-control,.legend .partner-commissioned{color:var(--gold);background:var(--soft-gold)}
+.legend .mom-partner-control{color:var(--accent);background:var(--soft-red)}
+.legend .family,.legend .stepmom-pregnancy{color:var(--teal);background:var(--soft-teal)}
+.legend .stepmom-control{color:var(--navy);background:var(--soft-navy)}
+.legend .adopt-pregnancy{color:var(--blue);background:var(--soft-blue)}
+.legend .mother{color:var(--accent);background:var(--soft-red)}
+.legend .pregnant{color:var(--blue);background:var(--soft-blue)}
+.legend .pregnancy-adjacent{color:var(--muted);background:color-mix(in srgb,var(--line) 48%,transparent)}
+.legend .pregnant-sex{color:var(--rose);background:var(--soft-rose)}
+.legend .pregnant-intimate{color:var(--olive);background:var(--soft-olive)}
+.legend .pregnancy-evil,.legend .devil-deal-pregnancy{color:var(--burnt);background:var(--soft-burnt)}
+.legend .regional-pregnancy,.legend .india-pregnancy,.legend .india-control{color:var(--regional);background:var(--soft-regional)}
+.legend .evil-female{color:var(--navy);background:var(--soft-navy)}
+.legend .villain,.legend .tantrik,.legend .occult{color:var(--burnt);background:var(--soft-burnt)}
+.legend .human{color:var(--gold);background:var(--soft-gold)}
+.legend .vampire,.legend .fantasy{color:var(--rose);background:var(--soft-rose)}
+.legend .spirit{color:var(--navy);background:var(--soft-navy)}
+.legend .scifi{color:var(--blue);background:var(--soft-blue)}
+.legend .cult{color:var(--olive);background:var(--soft-olive)}
+.legend .medical,.legend .therapist-wife{color:var(--teal);background:var(--soft-teal)}
+.legend .exwife-control{color:var(--navy);background:var(--soft-navy)}
+.legend .remarried-wife-control{color:var(--teal);background:var(--soft-teal)}
+.legend .stepfather-control{color:var(--burnt);background:var(--soft-burnt)}
+.legend .crime{color:var(--gold);background:var(--soft-gold)}
+.legend .tech{color:var(--blue);background:var(--soft-blue)}
+.legend .other-control{color:var(--teal);background:var(--soft-teal)}
+.legend .child-controller,.legend .pregnant-child{color:var(--navy);background:var(--soft-navy)}
+.legend .walkin,.legend .pregnant-walkin,.legend .parents-sleeping{color:var(--walkin);background:var(--soft-walkin)}
+.controls-shell{position:sticky;top:0;z-index:10;background:color-mix(in srgb,var(--paper) 93%,transparent);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+.controls{display:grid;grid-template-columns:minmax(220px,1fr) auto auto;gap:10px;padding:14px 0}
+.search{position:relative}
+.search svg{position:absolute;left:13px;top:50%;transform:translateY(-50%);width:18px;height:18px;color:var(--muted)}
+input,select{width:100%;height:44px;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:8px;padding:0 13px;outline:none}
+input{padding-left:40px}
+select{min-width:178px}
+input:focus,select:focus,button:focus-visible,a:focus-visible{outline:3px solid color-mix(in srgb,var(--focus) 55%,transparent);outline-offset:2px}
+.results-head{display:flex;justify-content:space-between;gap:16px;align-items:end;padding:34px 0 18px}
+.results-head h2{font-family:Newsreader,Georgia,serif;font-size:2rem;margin:0;line-height:1}
+.results-head p{margin:0;color:var(--muted);font-size:.88rem}
+.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;padding-bottom:48px}
+.card{display:flex;flex-direction:column;min-height:270px;background:var(--surface);border:1px solid var(--line);box-shadow:var(--shadow);padding:20px;border-radius:10px}
+.card[hidden]{display:none}
+.card-top{display:flex;justify-content:space-between;gap:12px;color:var(--muted);font-size:.77rem;font-weight:600}
+.year{font-variant-numeric:tabular-nums}
+.card h3{font-family:Newsreader,Georgia,serif;font-size:1.48rem;line-height:1.08;margin:15px 0 9px;letter-spacing:-.015em}
+.card h3 small{display:block;font-family:Archivo,sans-serif;color:var(--muted);font-size:.75rem;font-weight:500;line-height:1.35;margin-top:6px;letter-spacing:0}
+.category-heading{grid-column:1/-1;padding:28px 0 4px;border-top:3px solid var(--ink)}
+.category-heading h2{font-family:Newsreader,Georgia,serif;font-size:clamp(2rem,4vw,3.25rem);line-height:1.02;letter-spacing:-.025em;margin:0;max-width:850px}
+.category-heading p{color:var(--muted);margin:9px 0 0;font-size:.9rem}
+.subcategory-heading{grid-column:1/-1;margin:12px 0 0;padding-bottom:8px;border-bottom:1px solid var(--line);font-family:Newsreader,Georgia,serif;font-size:1.45rem;line-height:1.2}
+.character{margin:0 0 8px;font-size:.78rem;color:var(--ink)}
+.character strong,.entry-note strong{color:var(--muted);font-weight:700}
+.entry-note{margin:-8px 0 18px;padding:9px 11px;background:var(--soft-gold);color:var(--ink);font-size:.8rem;border-radius:6px}
+.category-note{grid-column:1/-1;margin:8px 0 6px;padding:16px 18px;background:var(--soft-teal);border-top:2px solid var(--teal);color:var(--ink);font-size:.86rem}
+.category-note strong{color:var(--teal)}
+.summary{font-size:.9rem;color:var(--muted);margin:0 0 18px}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:auto}
+.tag.love,.tag.forced-obedience{color:var(--accent);background:var(--soft-red)}
+.tag.adult-hypnosis{color:var(--navy);background:var(--soft-navy)}
+.tag.adult-pregnancy{color:var(--rose);background:var(--soft-rose)}
+.tag.cheat-control,.tag.another-man{color:var(--rose);background:var(--soft-rose)}
+.tag.wife{color:var(--gold);background:var(--soft-gold)}
+.tag.partner-control,.tag.partner-commissioned{color:var(--gold);background:var(--soft-gold)}
+.tag.mom-partner-control{color:var(--accent);background:var(--soft-red)}
+.tag.family,.tag.stepmom-pregnancy{color:var(--teal);background:var(--soft-teal)}
+.tag.stepmom-control{color:var(--navy);background:var(--soft-navy)}
+.tag.adopt-pregnancy{color:var(--blue);background:var(--soft-blue)}
+.tag.mother{color:var(--accent);background:var(--soft-red)}
+.tag.pregnant{color:var(--blue);background:var(--soft-blue)}
+.tag.pregnancy-adjacent{color:var(--muted);background:color-mix(in srgb,var(--line) 48%,transparent)}
+.tag.pregnant-sex{color:var(--rose);background:var(--soft-rose)}
+.tag.pregnant-intimate{color:var(--olive);background:var(--soft-olive)}
+.tag.pregnancy-evil,.tag.devil-deal-pregnancy{color:var(--burnt);background:var(--soft-burnt)}
+.tag.regional-pregnancy,.tag.india-pregnancy,.tag.india-control{color:var(--regional);background:var(--soft-regional)}
+.tag.evil-female{color:var(--navy);background:var(--soft-navy)}
+.tag.villain,.tag.tantrik,.tag.occult{color:var(--burnt);background:var(--soft-burnt)}
+.tag.human{color:var(--gold);background:var(--soft-gold)}
+.tag.vampire,.tag.fantasy{color:var(--rose);background:var(--soft-rose)}
+.tag.spirit{color:var(--navy);background:var(--soft-navy)}
+.tag.scifi{color:var(--blue);background:var(--soft-blue)}
+.tag.cult{color:var(--olive);background:var(--soft-olive)}
+.tag.medical,.tag.therapist-wife{color:var(--teal);background:var(--soft-teal)}
+.tag.exwife-control{color:var(--navy);background:var(--soft-navy)}
+.tag.remarried-wife-control{color:var(--teal);background:var(--soft-teal)}
+.tag.stepfather-control{color:var(--burnt);background:var(--soft-burnt)}
+.tag.crime{color:var(--gold);background:var(--soft-gold)}
+.tag.tech{color:var(--blue);background:var(--soft-blue)}
+.tag.other-control{color:var(--teal);background:var(--soft-teal)}
+.tag.child-controller,.tag.pregnant-child{color:var(--navy);background:var(--soft-navy)}
+.tag.walkin,.tag.pregnant-walkin,.tag.parents-sleeping{color:var(--walkin);background:var(--soft-walkin)}
+.tag.flag{color:var(--blue);background:var(--soft-blue)}
+.sources{display:flex;flex-wrap:wrap;gap:8px 12px;border-top:1px solid var(--line);padding-top:13px;margin-top:14px}
+.sources a{font-size:.75rem;font-weight:700;color:var(--muted);text-decoration-thickness:1px;text-underline-offset:3px}
+.sources a:hover{color:var(--accent)}
+.provenance{border-top:1px solid var(--line);padding-top:11px;margin:14px 0 0;color:var(--muted);font-size:.72rem;line-height:1.45}
+.empty{grid-column:1/-1;padding:48px 20px;text-align:center;border:1px dashed var(--line);color:var(--muted);background:var(--surface)}
+.research-notes{padding:12px 0 70px}
+.research-notes>h2{font-family:Newsreader,Georgia,serif;font-size:2.15rem;margin:0 0 18px}
+details{border-top:1px solid var(--line);padding:15px 0}
+details:last-child{border-bottom:1px solid var(--line)}
+summary{cursor:pointer;font-weight:700;list-style:none;display:flex;align-items:center;justify-content:space-between;gap:16px}
+summary::-webkit-details-marker{display:none}
+summary:after{content:'+';font-size:1.35rem;color:var(--accent)}
+details[open] summary:after{content:'−'}
+.note-body{padding-top:10px;color:var(--muted);font-size:.9rem;max-width:920px}
+.note-body ul{margin:7px 0 0;padding-left:20px}
+.note-body li+li{margin-top:7px}
+.note-body a{text-underline-offset:3px}
+footer{border-top:1px solid var(--line);padding:20px 0 38px;color:var(--muted);font-size:.78rem;display:flex;justify-content:space-between;gap:16px}
+@media(max-width:900px){.intro{grid-template-columns:1fr}.snapshot{max-width:340px}.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:640px){.wrap{width:min(100% - 22px,1180px)}.intro{padding:34px 0 26px;gap:26px}h1{font-size:clamp(2.65rem,13vw,4rem)}.dek{font-size:.98rem}.controls{grid-template-columns:1fr 1fr}.search{grid-column:1/-1}.controls select{min-width:0}.results-head{align-items:start}.grid{grid-template-columns:1fr;gap:10px}.card{min-height:0}.results-head h2{font-size:1.75rem}footer{flex-direction:column}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+/* ---- mirror additions ---- */
+.topbar{border-bottom:1px solid var(--line);font-size:.78rem;color:var(--muted)}
+.topbar .wrap{display:flex;justify-content:space-between;gap:12px;padding:9px 0;flex-wrap:wrap}
+.topbar a{font-weight:700;text-underline-offset:3px}
+.legend button{border:0;cursor:pointer}
+.legend button[aria-pressed="true"]{outline:2px solid currentColor;outline-offset:1px}
+.snapshot details{border:0;padding:6px 0 0}
+.snapshot details summary{font-size:.8rem;color:var(--accent)}
+.controls{grid-template-columns:minmax(240px,1.3fr) minmax(180px,1fr) 170px auto}
+.controls select{min-width:0;text-overflow:ellipsis}
+.view-toggle{display:flex;border:1px solid var(--line);border-radius:8px;overflow:hidden;height:44px}
+.view-toggle button{border:0;background:var(--surface);color:var(--muted);padding:0 12px;cursor:pointer;font-size:.8rem;font-weight:700;white-space:nowrap}
+.view-toggle button[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+.thumb{position:relative;display:block;margin:-20px -20px 14px;aspect-ratio:16/9;overflow:hidden;border-radius:10px 10px 0 0;background:#000;border:0;padding:0;cursor:pointer;width:calc(100% + 40px)}
+.thumb img{width:100%;height:100%;object-fit:cover;display:block;opacity:.92;transition:opacity .2s}
+.thumb:hover img{opacity:1}
+.thumb .play{position:absolute;inset:0;display:grid;place-items:center}
+.thumb .play span{width:58px;height:40px;border-radius:10px;background:rgba(182,36,42,.92);display:grid;place-items:center}
+.thumb .play span:after{content:'';border-left:15px solid #fff;border-top:9px solid transparent;border-bottom:9px solid transparent;margin-left:4px}
+.thumb .lbl{position:absolute;left:10px;bottom:8px;color:#fff;font-size:.7rem;font-weight:700;background:rgba(0,0,0,.6);padding:3px 7px;border-radius:5px}
+.mech{margin:-6px 0 12px;font-size:.78rem;color:var(--ink)}
+.mech strong{color:var(--muted)}
+.card .badge-id{font-variant-numeric:tabular-nums;opacity:.7}
+.modal{position:fixed;inset:0;z-index:50;background:rgba(0,0,0,.78);display:none;align-items:center;justify-content:center;padding:20px}
+.modal.open{display:flex}
+.modal-box{width:min(960px,100%);background:var(--surface);border-radius:12px;overflow:hidden}
+.modal-box .frame{aspect-ratio:16/9;background:#000}
+.modal-box iframe{width:100%;height:100%;border:0;display:block}
+.modal-head{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:10px 14px;font-size:.85rem}
+.modal-head button{border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:6px;padding:5px 12px;cursor:pointer}
+.more-wrap{grid-column:1/-1;text-align:center;padding:10px 0 30px}
+.more-wrap button{border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:8px;padding:10px 22px;font-weight:700;cursor:pointer}
+@media(max-width:900px){.controls{grid-template-columns:1fr 1fr}.search{grid-column:1/-1}.view-toggle{grid-column:1/-1}}
