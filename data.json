@@ -1048,6 +1048,55 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "agegap-marriage",
+   "label": "Young wife, older / rich husband research",
+   "kind": "local",
+   "share_url": "sources/agegap-marriage.json",
+   "description": "Young adult women (18+) who marry an old or rich old man, with intimate scenes between them. Minors and underage-marriage storylines excluded. Cards show pregnancy outcome, kids together and prior children.",
+   "dropped": [
+    {
+     "title": "The Second Wife (الزوجة الثانية)",
+     "year": "1967",
+     "reason": "unverified: intimacy between Fatma and the mayor not confirmed"
+    },
+    {
+     "title": "Days of Our Lives (Nicole / Victor Kiriakis)",
+     "year": "2002",
+     "reason": "unverified: intimacy not confirmed"
+    },
+    {
+     "title": "Aitraaz",
+     "year": "2004",
+     "reason": "unverified: intimacy between Sonia and Ranjit Roy not confirmed"
+    },
+    {
+     "title": "Anna Nicole (Lifetime)",
+     "year": "2013",
+     "reason": "unverified: review implies no physical intimacy with Marshall"
+    },
+    {
+     "title": "The Tudors (Catherine Parr)",
+     "year": "2010",
+     "reason": "no confirmed intimate scene with Henry"
+    },
+    {
+     "title": "Ju Dou / Baby Doll / Red Sorghum / Citizen Kane",
+     "year": "",
+     "reason": "excluded: no intimacy between the couple"
+    },
+    {
+     "title": "Lolita, The Duchess, Effi Briest, Arráncame la vida, Verdades Secretas, Bazaar, Balika Vadhu, The Third Wife, Eungyo, Catherine Howard storylines, Priscilla",
+     "year": "",
+     "reason": "excluded: minor / underage-marriage storyline"
+    }
+   ],
+   "check": {
+    "raw_count": 14,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -1059,10 +1108,11 @@
   "devil-deal-hypnosis": 1,
   "pregnant-intimacy": 47,
   "occult-pregnancy-nearmiss": 3,
-  "rich-wife-hypnosis": 45
+  "rich-wife-hypnosis": 45,
+  "agegap-marriage": 14
  },
- "raw_total": 3219,
- "entry_count": 1932,
+ "raw_total": 3233,
+ "entry_count": 1946,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -1248,7 +1298,7 @@
    "key": "stepmom-pregnancy",
    "label": "Pregnant stepmother / bonus mom",
    "legend_label": "Pregnant stepmother / bonus mom",
-   "entry_count": 6
+   "entry_count": 12
   },
   {
    "key": "pregnant-child",
@@ -1332,7 +1382,7 @@
    "key": "family",
    "label": "Single mom remarries and gets pregnant with new partner",
    "legend_label": "Single mom remarries and gets pregnant with new partner",
-   "entry_count": 21
+   "entry_count": 22
   },
   {
    "key": "spirit",
@@ -1393,6 +1443,12 @@
    "label": "Woman bargains with devil / demon for pregnancy or a child",
    "legend_label": "Woman bargains with devil / demon for pregnancy or a child",
    "entry_count": 22
+  },
+  {
+   "key": "agegap-marriage",
+   "label": "Young wife, older / rich husband",
+   "legend_label": "Young wife, older / rich husband",
+   "entry_count": 14
   }
  ],
  "formats": [
@@ -210252,6 +210308,1072 @@
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
+  },
+  {
+   "id": 1933,
+   "title": "Raise the Red Lantern",
+   "subtitle": "大红灯笼高高挂",
+   "year": "1991",
+   "meta": "Film · China · Mandarin (大红灯笼高高挂)",
+   "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+   "confidence_flag": "High · single source (Wikipedia plot)",
+   "summary": "19-year-old Songlian becomes the fourth wife of the wealthy, much older Master Chen, who chooses nightly — by a lantern ritual — which wife he spends the night with. She fakes a pregnancy to win his favour until a doctor exposes it.",
+   "character": "Character: Songlian (Gong Li) and Master Chen",
+   "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+   "note": "",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "she only fakes a pregnancy, which is exposed",
+   "kids_status": "no",
+   "kids_note": "none before the marriage",
+   "kids_together": "no",
+   "format": "movie",
+   "categories": [
+    "agegap-marriage"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Raise_the_Red_Lantern"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "agegap-marriage"
+   ],
+   "source_records": [
+    "agegap-marriage:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "agegap-marriage:1": {
+     "title": "Raise the Red Lantern",
+     "subtitle": "大红灯笼高高挂",
+     "year": "1991",
+     "format": "movie",
+     "meta": "Film · China · Mandarin (大红灯笼高高挂)",
+     "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+     "confidence_flag": "High · single source (Wikipedia plot)",
+     "summary": "19-year-old Songlian becomes the fourth wife of the wealthy, much older Master Chen, who chooses nightly — by a lantern ritual — which wife he spends the night with. She fakes a pregnancy to win his favour until a doctor exposes it.",
+     "character": "Character: Songlian (Gong Li) and Master Chen",
+     "categories": [
+      "agegap-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Raise_the_Red_Lantern"
+      }
+     ],
+     "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+     "note": "",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "she only fakes a pregnancy, which is exposed",
+     "kids_together": "no",
+     "kids_status": "no",
+     "kids_note": "none before the marriage",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 1934,
+   "title": "Ryan's Daughter",
+   "subtitle": "",
+   "year": "1970",
+   "meta": "Film · United Kingdom / Ireland · English",
+   "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+   "confidence_flag": "Medium · single source; husband older but not rich (borderline fit)",
+   "summary": "Young Rosy Ryan marries the older widowed village schoolmaster Charles Shaughnessy; the marriage is consummated but leaves her unfulfilled, and she starts an affair with Major Doryan.",
+   "character": "Character: Rosy Ryan (Sarah Miles) and Charles Shaughnessy (Robert Mitchum)",
+   "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+   "note": "",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "no pregnancy in the cited plot",
+   "kids_status": "no",
+   "kids_note": "none before the marriage",
+   "kids_together": "no",
+   "format": "movie",
+   "categories": [
+    "agegap-marriage"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ryan%27s_Daughter"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "agegap-marriage"
+   ],
+   "source_records": [
+    "agegap-marriage:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "agegap-marriage:2": {
+     "title": "Ryan's Daughter",
+     "subtitle": "",
+     "year": "1970",
+     "format": "movie",
+     "meta": "Film · United Kingdom / Ireland · English",
+     "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+     "confidence_flag": "Medium · single source; husband older but not rich (borderline fit)",
+     "summary": "Young Rosy Ryan marries the older widowed village schoolmaster Charles Shaughnessy; the marriage is consummated but leaves her unfulfilled, and she starts an affair with Major Doryan.",
+     "character": "Character: Rosy Ryan (Sarah Miles) and Charles Shaughnessy (Robert Mitchum)",
+     "categories": [
+      "agegap-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Ryan%27s_Daughter"
+      }
+     ],
+     "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+     "note": "",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy in the cited plot",
+     "kids_together": "no",
+     "kids_status": "no",
+     "kids_note": "none before the marriage",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 1935,
+   "title": "Aşk-ı Memnu",
+   "subtitle": "Forbidden Love · Bihter / Adnan arc",
+   "year": "2008–2010",
+   "meta": "TV series · Turkey · Turkish (Kanal D) · English: Forbidden Love",
+   "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+   "confidence_flag": "High · multiple sources",
+   "summary": "Young Bihter marries the wealthy, much older widower Adnan Ziyagil, stepmother to his children Nihal and Bülent, then begins an affair with his nephew Behlül. She becomes pregnant (Adnan learns in ep. 67), secretly ends the pregnancy (ep. 69) and Adnan finds out (ep. 70); the series ends with Bihter's death.",
+   "character": "Character: Bihter Yöreoğlu Ziyagil (Beren Saat) and Adnan Ziyagil (Selçuk Yöntem)",
+   "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+   "note": "",
+   "pregnancy_outcome": "becomes pregnant by the end",
+   "pregnancy_note": "by her husband Adnan as presented (eps. 67–70); she ends the pregnancy without telling him",
+   "kids_status": "no",
+   "kids_note": "none before the marriage (Adnan's two children are her stepchildren)",
+   "kids_together": "no",
+   "format": "tv",
+   "categories": [
+    "agegap-marriage",
+    "stepmom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/A%C5%9Fk-%C4%B1_Memnu_(2008_TV_series)"
+    },
+    {
+     "label": "Turkish Wikipedia episode list",
+     "url": "https://tr.wikipedia.org/wiki/A%C5%9Fk-%C4%B1_Memnu_b%C3%B6l%C3%BCmleri_listesi"
+    },
+    {
+     "label": "Kanal D episode 70 summary",
+     "url": "https://www.kanald.com.tr/askimemnu/ozetler/70-bolum"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "agegap-marriage"
+   ],
+   "source_records": [
+    "agegap-marriage:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "agegap-marriage:3": {
+     "title": "Aşk-ı Memnu",
+     "subtitle": "Forbidden Love · Bihter / Adnan arc",
+     "year": "2008–2010",
+     "format": "tv",
+     "meta": "TV series · Turkey · Turkish (Kanal D) · English: Forbidden Love",
+     "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+     "confidence_flag": "High · multiple sources",
+     "summary": "Young Bihter marries the wealthy, much older widower Adnan Ziyagil, stepmother to his children Nihal and Bülent, then begins an affair with his nephew Behlül. She becomes pregnant (Adnan learns in ep. 67), secretly ends the pregnancy (ep. 69) and Adnan finds out (ep. 70); the series ends with Bihter's death.",
+     "character": "Character: Bihter Yöreoğlu Ziyagil (Beren Saat) and Adnan Ziyagil (Selçuk Yöntem)",
+     "categories": [
+      "agegap-marriage",
+      "stepmom-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/A%C5%9Fk-%C4%B1_Memnu_(2008_TV_series)"
+      },
+      {
+       "label": "Turkish Wikipedia episode list",
+       "url": "https://tr.wikipedia.org/wiki/A%C5%9Fk-%C4%B1_Memnu_b%C3%B6l%C3%BCmleri_listesi"
+      },
+      {
+       "label": "Kanal D episode 70 summary",
+       "url": "https://www.kanald.com.tr/askimemnu/ozetler/70-bolum"
+      }
+     ],
+     "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+     "note": "",
+     "pregnancy_outcome": "becomes pregnant by the end",
+     "pregnancy_note": "by her husband Adnan as presented (eps. 67–70); she ends the pregnancy without telling him",
+     "kids_together": "no",
+     "kids_status": "no",
+     "kids_note": "none before the marriage (Adnan's two children are her stepchildren)",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 1936,
+   "title": "Pasión prohibida",
+   "subtitle": "Bianca / Ariel arc",
+   "year": "2013",
+   "meta": "Telenovela · United States (Telemundo) · Spanish · remake of Aşk-ı Memnu",
+   "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+   "confidence_flag": "Medium · episode guides; later-pregnancy paternity unclear",
+   "summary": "Bianca Santillana marries the older millionaire widower Ariel Piamonte to spite her mother; episode guides include their romantic night together before her affair with his nephew Bruno. In eps. 21–22 she discovers she is pregnant and decides to end it; Ariel finds out and forgives her.",
+   "character": "Character: Bianca Santillana (Mónica Spear) and Ariel Piamonte (Jorge Luis Pila)",
+   "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+   "note": "",
+   "pregnancy_outcome": "becomes pregnant by the end",
+   "pregnancy_note": "pregnant in eps. 21–22, presented as Ariel's; she decides to terminate and Ariel forgives her (a later summary has her telling Bruno she is pregnant — paternity not confirmed)",
+   "kids_status": "no",
+   "kids_note": "none before the marriage",
+   "kids_together": "no",
+   "format": "tv",
+   "categories": [
+    "agegap-marriage"
+   ],
+   "sources": [
+    {
+     "label": "Spanish Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Pasi%C3%B3n_prohibida"
+    },
+    {
+     "label": "Peacock ep. 22 “El dolor de Ariel”",
+     "url": "https://www.peacocktv.com/watch-online/tv/pasion-prohibida/9094011477180759112/seasons/1/episodes/el-dolor-de-ariel-episode-22/1f9bca32-c98c-33a2-a03b-eef8b8f55222"
+    },
+    {
+     "label": "Prime Video episode guide",
+     "url": "https://www.primevideo.com/detail/0QDZSVV2LRY1SW5B2EKDBV5BHQ"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "agegap-marriage"
+   ],
+   "source_records": [
+    "agegap-marriage:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "agegap-marriage:4": {
+     "title": "Pasión prohibida",
+     "subtitle": "Bianca / Ariel arc",
+     "year": "2013",
+     "format": "tv",
+     "meta": "Telenovela · United States (Telemundo) · Spanish · remake of Aşk-ı Memnu",
+     "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+     "confidence_flag": "Medium · episode guides; later-pregnancy paternity unclear",
+     "summary": "Bianca Santillana marries the older millionaire widower Ariel Piamonte to spite her mother; episode guides include their romantic night together before her affair with his nephew Bruno. In eps. 21–22 she discovers she is pregnant and decides to end it; Ariel finds out and forgives her.",
+     "character": "Character: Bianca Santillana (Mónica Spear) and Ariel Piamonte (Jorge Luis Pila)",
+     "categories": [
+      "agegap-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Spanish Wikipedia",
+       "url": "https://es.wikipedia.org/wiki/Pasi%C3%B3n_prohibida"
+      },
+      {
+       "label": "Peacock ep. 22 “El dolor de Ariel”",
+       "url": "https://www.peacocktv.com/watch-online/tv/pasion-prohibida/9094011477180759112/seasons/1/episodes/el-dolor-de-ariel-episode-22/1f9bca32-c98c-33a2-a03b-eef8b8f55222"
+      },
+      {
+       "label": "Prime Video episode guide",
+       "url": "https://www.primevideo.com/detail/0QDZSVV2LRY1SW5B2EKDBV5BHQ"
+      }
+     ],
+     "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+     "note": "",
+     "pregnancy_outcome": "becomes pregnant by the end",
+     "pregnancy_note": "pregnant in eps. 21–22, presented as Ariel's; she decides to terminate and Ariel forgives her (a later summary has her telling Bruno she is pregnant — paternity not confirmed)",
+     "kids_together": "no",
+     "kids_status": "no",
+     "kids_note": "none before the marriage",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 1937,
+   "title": "Dil Sambhal Jaa Zara",
+   "subtitle": "Ahana / Anant arc",
+   "year": "2017–2018",
+   "meta": "TV series · India · Hindi (Star Plus)",
+   "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+   "confidence_flag": "Medium-high · two sources",
+   "summary": "Young Ahana marries Anant Mathur, a rich, much older widower and friend of her father. She becomes pregnant by Anant but aborts amid misunderstandings, and the story ends with Anant confronting Ahana and Rehaan.",
+   "character": "Character: Ahana (Smriti Kalra) and Anant Mathur (Sanjay Kapoor)",
+   "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+   "note": "",
+   "pregnancy_outcome": "becomes pregnant by the end",
+   "pregnancy_note": "by her husband Anant; she aborts the pregnancy",
+   "kids_status": "no",
+   "kids_note": "none before the marriage",
+   "kids_together": "no",
+   "format": "tv",
+   "categories": [
+    "agegap-marriage"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Dil_Sambhal_Jaa_Zara"
+    },
+    {
+     "label": "TellyReviews",
+     "url": "https://tellyreviews.com/2018/01/01/ahana-get-affected-rehaans-comeback-dil-sambhal-jaa-zara/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "agegap-marriage"
+   ],
+   "source_records": [
+    "agegap-marriage:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "agegap-marriage:5": {
+     "title": "Dil Sambhal Jaa Zara",
+     "subtitle": "Ahana / Anant arc",
+     "year": "2017–2018",
+     "format": "tv",
+     "meta": "TV series · India · Hindi (Star Plus)",
+     "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+     "confidence_flag": "Medium-high · two sources",
+     "summary": "Young Ahana marries Anant Mathur, a rich, much older widower and friend of her father. She becomes pregnant by Anant but aborts amid misunderstandings, and the story ends with Anant confronting Ahana and Rehaan.",
+     "character": "Character: Ahana (Smriti Kalra) and Anant Mathur (Sanjay Kapoor)",
+     "categories": [
+      "agegap-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Dil_Sambhal_Jaa_Zara"
+      },
+      {
+       "label": "TellyReviews",
+       "url": "https://tellyreviews.com/2018/01/01/ahana-get-affected-rehaans-comeback-dil-sambhal-jaa-zara/"
+      }
+     ],
+     "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+     "note": "",
+     "pregnancy_outcome": "becomes pregnant by the end",
+     "pregnancy_note": "by her husband Anant; she aborts the pregnancy",
+     "kids_together": "no",
+     "kids_status": "no",
+     "kids_note": "none before the marriage",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 1938,
+   "title": "Yasak Elma",
+   "subtitle": "Forbidden Fruit · Yıldız / Halit arc",
+   "year": "2018–2023",
+   "meta": "TV series · Turkey · Turkish (FOX) · English: Forbidden Fruit",
+   "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+   "confidence_flag": "Medium · single source; intimacy implied by the in-marriage pregnancy",
+   "summary": "Ambitious young Yıldız marries the rich, much older businessman Halit Argun (S1); she is pregnant when he throws her out (S2), their son Halit Can “Junior” follows (S3), then divorce, and Halit dies (S4).",
+   "character": "Character: Yıldız (Eda Ece) and Halit Argun (Talat Bulut)",
+   "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+   "note": "",
+   "pregnancy_outcome": "becomes pregnant by the end",
+   "pregnancy_note": "by her husband Halit; son born",
+   "kids_status": "no",
+   "kids_note": "none before the marriage",
+   "kids_together": "yes — son Halit Can “Junior”",
+   "format": "tv",
+   "categories": [
+    "agegap-marriage"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Yasak_Elma"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "agegap-marriage"
+   ],
+   "source_records": [
+    "agegap-marriage:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "agegap-marriage:6": {
+     "title": "Yasak Elma",
+     "subtitle": "Forbidden Fruit · Yıldız / Halit arc",
+     "year": "2018–2023",
+     "format": "tv",
+     "meta": "TV series · Turkey · Turkish (FOX) · English: Forbidden Fruit",
+     "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+     "confidence_flag": "Medium · single source; intimacy implied by the in-marriage pregnancy",
+     "summary": "Ambitious young Yıldız marries the rich, much older businessman Halit Argun (S1); she is pregnant when he throws her out (S2), their son Halit Can “Junior” follows (S3), then divorce, and Halit dies (S4).",
+     "character": "Character: Yıldız (Eda Ece) and Halit Argun (Talat Bulut)",
+     "categories": [
+      "agegap-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Yasak_Elma"
+      }
+     ],
+     "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+     "note": "",
+     "pregnancy_outcome": "becomes pregnant by the end",
+     "pregnancy_note": "by her husband Halit; son born",
+     "kids_together": "yes — son Halit Can “Junior”",
+     "kids_status": "no",
+     "kids_note": "none before the marriage",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 1939,
+   "title": "Dynasty",
+   "subtitle": "Krystle / Blake Carrington arc",
+   "year": "1981–1989",
+   "meta": "Prime-time soap · United States · English (ABC)",
+   "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+   "confidence_flag": "High · single source (well-documented arc)",
+   "summary": "Krystle Jennings marries her much older oil-tycoon boss Blake Carrington, becoming stepmother to Fallon and Steven. Pregnant in S2, she loses the baby after a riding accident; pregnant again in S4, she gives birth to daughter Krystina in S5.",
+   "character": "Character: Krystle Carrington (Linda Evans) and Blake Carrington (John Forsythe)",
+   "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+   "note": "",
+   "pregnancy_outcome": "becomes pregnant by the end",
+   "pregnancy_note": "by her husband Blake — S2 miscarriage, then daughter Krystina born in S5",
+   "kids_status": "no",
+   "kids_note": "none before the marriage",
+   "kids_together": "yes — daughter Krystina",
+   "format": "tv",
+   "categories": [
+    "agegap-marriage",
+    "stepmom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Krystle_Carrington"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "agegap-marriage"
+   ],
+   "source_records": [
+    "agegap-marriage:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "agegap-marriage:7": {
+     "title": "Dynasty",
+     "subtitle": "Krystle / Blake Carrington arc",
+     "year": "1981–1989",
+     "format": "tv",
+     "meta": "Prime-time soap · United States · English (ABC)",
+     "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+     "confidence_flag": "High · single source (well-documented arc)",
+     "summary": "Krystle Jennings marries her much older oil-tycoon boss Blake Carrington, becoming stepmother to Fallon and Steven. Pregnant in S2, she loses the baby after a riding accident; pregnant again in S4, she gives birth to daughter Krystina in S5.",
+     "character": "Character: Krystle Carrington (Linda Evans) and Blake Carrington (John Forsythe)",
+     "categories": [
+      "agegap-marriage",
+      "stepmom-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Krystle_Carrington"
+      }
+     ],
+     "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+     "note": "",
+     "pregnancy_outcome": "becomes pregnant by the end",
+     "pregnancy_note": "by her husband Blake — S2 miscarriage, then daughter Krystina born in S5",
+     "kids_together": "yes — daughter Krystina",
+     "kids_status": "no",
+     "kids_note": "none before the marriage",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 1940,
+   "title": "Dynasty",
+   "subtitle": "Season 2 · Cristal / Blake arc",
+   "year": "2017–2022",
+   "meta": "TV series · United States · English (The CW)",
+   "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+   "confidence_flag": "Medium · single source",
+   "summary": "Cristal Jennings, Blake Carrington's much younger new wife (S2), becomes pregnant (“A Champagne Mood”) unsure whether it is Blake's or her ex-husband Mark's; the test confirms Blake, but after Alexis fires at her and her horse throws her she loses the baby (“Parisian Legend Has It...”).",
+   "character": "Character: Cristal Jennings Carrington (Ana Brenda Contreras) and Blake Carrington (Grant Show)",
+   "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+   "note": "",
+   "pregnancy_outcome": "becomes pregnant by the end",
+   "pregnancy_note": "by her husband Blake (paternity test); she miscarries after being thrown by her horse",
+   "kids_status": "no",
+   "kids_note": "none before the marriage",
+   "kids_together": "no",
+   "format": "tv",
+   "categories": [
+    "agegap-marriage",
+    "stepmom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Krystle_Carrington"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "agegap-marriage"
+   ],
+   "source_records": [
+    "agegap-marriage:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "agegap-marriage:8": {
+     "title": "Dynasty",
+     "subtitle": "Season 2 · Cristal / Blake arc",
+     "year": "2017–2022",
+     "format": "tv",
+     "meta": "TV series · United States · English (The CW)",
+     "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+     "confidence_flag": "Medium · single source",
+     "summary": "Cristal Jennings, Blake Carrington's much younger new wife (S2), becomes pregnant (“A Champagne Mood”) unsure whether it is Blake's or her ex-husband Mark's; the test confirms Blake, but after Alexis fires at her and her horse throws her she loses the baby (“Parisian Legend Has It...”).",
+     "character": "Character: Cristal Jennings Carrington (Ana Brenda Contreras) and Blake Carrington (Grant Show)",
+     "categories": [
+      "agegap-marriage",
+      "stepmom-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Krystle_Carrington"
+      }
+     ],
+     "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+     "note": "",
+     "pregnancy_outcome": "becomes pregnant by the end",
+     "pregnancy_note": "by her husband Blake (paternity test); she miscarries after being thrown by her horse",
+     "kids_together": "no",
+     "kids_status": "no",
+     "kids_note": "none before the marriage",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 1941,
+   "title": "The Bold and the Beautiful",
+   "subtitle": "Brooke / Eric Forrester arc",
+   "year": "1987–",
+   "meta": "Daytime soap · United States · English (CBS)",
+   "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+   "confidence_flag": "High · single source",
+   "summary": "Young Brooke Logan turns to Eric Forrester, Ridge's much older and wealthy father; she becomes pregnant, so Eric marries her, and they later have a second child, Bridget.",
+   "character": "Character: Brooke Logan (Katherine Kelly Lang) and Eric Forrester (John McCook)",
+   "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+   "note": "",
+   "pregnancy_outcome": "becomes pregnant by the end",
+   "pregnancy_note": "by Eric — son Rick (Eric Jr.), later daughter Bridget",
+   "kids_status": "no",
+   "kids_note": "an earlier miscarriage only; no children before the marriage",
+   "kids_together": "yes — Rick (Eric Jr.) and Bridget",
+   "format": "tv",
+   "categories": [
+    "agegap-marriage",
+    "stepmom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Brooke_Logan"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "agegap-marriage"
+   ],
+   "source_records": [
+    "agegap-marriage:9"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "agegap-marriage:9": {
+     "title": "The Bold and the Beautiful",
+     "subtitle": "Brooke / Eric Forrester arc",
+     "year": "1987–",
+     "format": "tv",
+     "meta": "Daytime soap · United States · English (CBS)",
+     "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+     "confidence_flag": "High · single source",
+     "summary": "Young Brooke Logan turns to Eric Forrester, Ridge's much older and wealthy father; she becomes pregnant, so Eric marries her, and they later have a second child, Bridget.",
+     "character": "Character: Brooke Logan (Katherine Kelly Lang) and Eric Forrester (John McCook)",
+     "categories": [
+      "agegap-marriage",
+      "stepmom-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Brooke_Logan"
+      }
+     ],
+     "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+     "note": "",
+     "pregnancy_outcome": "becomes pregnant by the end",
+     "pregnancy_note": "by Eric — son Rick (Eric Jr.), later daughter Bridget",
+     "kids_together": "yes — Rick (Eric Jr.) and Bridget",
+     "kids_status": "no",
+     "kids_note": "an earlier miscarriage only; no children before the marriage",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 1942,
+   "title": "The Young and the Restless",
+   "subtitle": "Jill / Phillip Chancellor II arc",
+   "year": "1973–",
+   "meta": "Daytime soap · United States · English (CBS)",
+   "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+   "confidence_flag": "Medium-high · single source; the encounter precedes the deathbed-era marriage",
+   "summary": "Young Jill Foster has a sexual encounter with Phillip Chancellor II, the much older, rich husband of her employer Katherine, and becomes pregnant; Phillip divorces Kay to marry Jill and dies soon afterwards, leaving their son Phillip III.",
+   "character": "Character: Jill Foster (Brenda Dickson) and Phillip Chancellor II (Donnelly Rhodes)",
+   "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+   "note": "",
+   "pregnancy_outcome": "becomes pregnant by the end",
+   "pregnancy_note": "by Phillip — son Phillip Chancellor III",
+   "kids_status": "no",
+   "kids_note": "none before the marriage",
+   "kids_together": "yes — son Phillip Chancellor III",
+   "format": "tv",
+   "categories": [
+    "agegap-marriage"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Jill_Abbott"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "agegap-marriage"
+   ],
+   "source_records": [
+    "agegap-marriage:10"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "agegap-marriage:10": {
+     "title": "The Young and the Restless",
+     "subtitle": "Jill / Phillip Chancellor II arc",
+     "year": "1973–",
+     "format": "tv",
+     "meta": "Daytime soap · United States · English (CBS)",
+     "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+     "confidence_flag": "Medium-high · single source; the encounter precedes the deathbed-era marriage",
+     "summary": "Young Jill Foster has a sexual encounter with Phillip Chancellor II, the much older, rich husband of her employer Katherine, and becomes pregnant; Phillip divorces Kay to marry Jill and dies soon afterwards, leaving their son Phillip III.",
+     "character": "Character: Jill Foster (Brenda Dickson) and Phillip Chancellor II (Donnelly Rhodes)",
+     "categories": [
+      "agegap-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Jill_Abbott"
+      }
+     ],
+     "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+     "note": "",
+     "pregnancy_outcome": "becomes pregnant by the end",
+     "pregnancy_note": "by Phillip — son Phillip Chancellor III",
+     "kids_together": "yes — son Phillip Chancellor III",
+     "kids_status": "no",
+     "kids_note": "none before the marriage",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 1943,
+   "title": "Emmerdale",
+   "subtitle": "Kim / Frank Tate arc",
+   "year": "1989–1999",
+   "meta": "Soap · United Kingdom · English (ITV)",
+   "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+   "confidence_flag": "High · two sources",
+   "summary": "Secretary Kim Barker has an affair with her much older, wealthy boss Frank Tate and marries him after his wife dies, becoming stepmother to Chris and Zoe. Their son James is born; his paternity is doubted because of her affair with Dave Glover, but DNA tests prove Frank is the father.",
+   "character": "Character: Kim Tate (Claire King) and Frank Tate (Norman Bowler)",
+   "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+   "note": "",
+   "pregnancy_outcome": "becomes pregnant by the end",
+   "pregnancy_note": "by her husband Frank (DNA-confirmed) — son James",
+   "kids_status": "no",
+   "kids_note": "none before the marriage",
+   "kids_together": "yes — son James (Jamie) Tate",
+   "format": "tv",
+   "categories": [
+    "agegap-marriage",
+    "stepmom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kim_Tate"
+    },
+    {
+     "label": "Wikipedia — Emmerdale characters (1996)",
+     "url": "https://en.wikipedia.org/wiki/List_of_Emmerdale_characters_introduced_in_1996"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "agegap-marriage"
+   ],
+   "source_records": [
+    "agegap-marriage:11"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "agegap-marriage:11": {
+     "title": "Emmerdale",
+     "subtitle": "Kim / Frank Tate arc",
+     "year": "1989–1999",
+     "format": "tv",
+     "meta": "Soap · United Kingdom · English (ITV)",
+     "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+     "confidence_flag": "High · two sources",
+     "summary": "Secretary Kim Barker has an affair with her much older, wealthy boss Frank Tate and marries him after his wife dies, becoming stepmother to Chris and Zoe. Their son James is born; his paternity is doubted because of her affair with Dave Glover, but DNA tests prove Frank is the father.",
+     "character": "Character: Kim Tate (Claire King) and Frank Tate (Norman Bowler)",
+     "categories": [
+      "agegap-marriage",
+      "stepmom-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Kim_Tate"
+      },
+      {
+       "label": "Wikipedia — Emmerdale characters (1996)",
+       "url": "https://en.wikipedia.org/wiki/List_of_Emmerdale_characters_introduced_in_1996"
+      }
+     ],
+     "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+     "note": "",
+     "pregnancy_outcome": "becomes pregnant by the end",
+     "pregnancy_note": "by her husband Frank (DNA-confirmed) — son James",
+     "kids_together": "yes — son James (Jamie) Tate",
+     "kids_status": "no",
+     "kids_note": "none before the marriage",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 1944,
+   "title": "Coronation Street",
+   "subtitle": "Linda Sykes / Mike Baldwin arc",
+   "year": "1999–2001",
+   "meta": "Soap · United Kingdom · English (ITV)",
+   "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+   "confidence_flag": "High · multiple sources",
+   "summary": "Factory machinist Linda Sykes seduces her boss Mike Baldwin, about forty years older and wealthy, and they marry in September 2000; her affair with his son Mark Redman and a later fling end the marriage when Mike throws her out in 2001.",
+   "character": "Character: Linda Sykes / Baldwin (Jacqueline Pirie) and Mike Baldwin (Johnny Briggs)",
+   "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+   "note": "",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "no pregnancy in the storyline",
+   "kids_status": "no",
+   "kids_note": "none before the marriage",
+   "kids_together": "no",
+   "format": "tv",
+   "categories": [
+    "agegap-marriage"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mike_Baldwin_(Coronation_Street)"
+    },
+    {
+     "label": "Coronation Street Past & Present wiki",
+     "url": "https://coronation-street-past-and-present.fandom.com/wiki/Linda_Baldwin"
+    },
+    {
+     "label": "Radio Times",
+     "url": "https://www.radiotimes.com/tv/soaps/coronation-street/coronation-street-linda-baldwin-jacqueline-pirie-explained/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "agegap-marriage"
+   ],
+   "source_records": [
+    "agegap-marriage:12"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "agegap-marriage:12": {
+     "title": "Coronation Street",
+     "subtitle": "Linda Sykes / Mike Baldwin arc",
+     "year": "1999–2001",
+     "format": "tv",
+     "meta": "Soap · United Kingdom · English (ITV)",
+     "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+     "confidence_flag": "High · multiple sources",
+     "summary": "Factory machinist Linda Sykes seduces her boss Mike Baldwin, about forty years older and wealthy, and they marry in September 2000; her affair with his son Mark Redman and a later fling end the marriage when Mike throws her out in 2001.",
+     "character": "Character: Linda Sykes / Baldwin (Jacqueline Pirie) and Mike Baldwin (Johnny Briggs)",
+     "categories": [
+      "agegap-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Mike_Baldwin_(Coronation_Street)"
+      },
+      {
+       "label": "Coronation Street Past & Present wiki",
+       "url": "https://coronation-street-past-and-present.fandom.com/wiki/Linda_Baldwin"
+      },
+      {
+       "label": "Radio Times",
+       "url": "https://www.radiotimes.com/tv/soaps/coronation-street/coronation-street-linda-baldwin-jacqueline-pirie-explained/"
+      }
+     ],
+     "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+     "note": "",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy in the storyline",
+     "kids_together": "no",
+     "kids_status": "no",
+     "kids_note": "none before the marriage",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 1945,
+   "title": "Modern Family",
+   "subtitle": "Gloria / Jay Pritchett marriage arc",
+   "year": "2009–2020",
+   "meta": "TV sitcom · United States · English (ABC)",
+   "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+   "confidence_flag": "High · single source",
+   "summary": "Gloria, a much younger Colombian woman, is married to wealthy closet-company owner Jay Pritchett, with comic bedroom scenes; she is revealed pregnant in the S3 finale and son Fulgencio “Joe” is born in S4 “Party Crasher”.",
+   "character": "Character: Gloria Pritchett (Sofía Vergara) and Jay Pritchett (Ed O'Neill)",
+   "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+   "note": "Note: the existing card “Modern Family · S02E13 “Caught in the Act” / Season 4 pregnancy arc” covers a different (walk-in) storyline and is left unchanged.",
+   "pregnancy_outcome": "becomes pregnant by the end",
+   "pregnancy_note": "by her husband Jay — son Joe born in S4",
+   "kids_status": "yes",
+   "kids_note": "son Manny from her first marriage to Javier",
+   "kids_together": "yes — son Fulgencio “Joe”",
+   "format": "tv",
+   "categories": [
+    "agegap-marriage",
+    "stepmom-pregnancy",
+    "family"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Modern Family characters",
+     "url": "https://en.wikipedia.org/wiki/List_of_Modern_Family_characters"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "agegap-marriage"
+   ],
+   "source_records": [
+    "agegap-marriage:13"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "agegap-marriage:13": {
+     "title": "Modern Family",
+     "subtitle": "Gloria / Jay Pritchett marriage arc",
+     "year": "2009–2020",
+     "format": "tv",
+     "meta": "TV sitcom · United States · English (ABC)",
+     "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+     "confidence_flag": "High · single source",
+     "summary": "Gloria, a much younger Colombian woman, is married to wealthy closet-company owner Jay Pritchett, with comic bedroom scenes; she is revealed pregnant in the S3 finale and son Fulgencio “Joe” is born in S4 “Party Crasher”.",
+     "character": "Character: Gloria Pritchett (Sofía Vergara) and Jay Pritchett (Ed O'Neill)",
+     "categories": [
+      "agegap-marriage",
+      "stepmom-pregnancy",
+      "family"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia — Modern Family characters",
+       "url": "https://en.wikipedia.org/wiki/List_of_Modern_Family_characters"
+      }
+     ],
+     "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+     "note": "Note: the existing card “Modern Family · S02E13 “Caught in the Act” / Season 4 pregnancy arc” covers a different (walk-in) storyline and is left unchanged.",
+     "pregnancy_outcome": "becomes pregnant by the end",
+     "pregnancy_note": "by her husband Jay — son Joe born in S4",
+     "kids_together": "yes — son Fulgencio “Joe”",
+     "kids_status": "yes",
+     "kids_note": "son Manny from her first marriage to Javier",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 1946,
+   "title": "Mad Men",
+   "subtitle": "Jane / Roger Sterling arc",
+   "year": "2009–2012",
+   "meta": "TV series · United States · English (AMC)",
+   "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+   "confidence_flag": "Medium · two sources; intimacy is non-sexual (bath scene)",
+   "summary": "Roger Sterling leaves his wife for 20-year-old secretary Jane Siegel and marries her; in S5 “Far Away Places” they take LSD, bathe together and talk candidly, which leads to their divorce.",
+   "character": "Character: Jane Siegel Sterling (Peyton List) and Roger Sterling (John Slattery)",
+   "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+   "note": "Note: separate from the existing Mad Men (2008) card about Betty Draper.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "no pregnancy in the storyline",
+   "kids_status": "no",
+   "kids_note": "none before the marriage",
+   "kids_together": "no",
+   "format": "tv",
+   "categories": [
+    "agegap-marriage"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Roger_Sterling"
+    },
+    {
+     "label": "Wikipedia — “Far Away Places”",
+     "url": "https://en.wikipedia.org/wiki/Far_Away_Places_(Mad_Men)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "agegap-marriage"
+   ],
+   "source_records": [
+    "agegap-marriage:14"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "agegap-marriage:14": {
+     "title": "Mad Men",
+     "subtitle": "Jane / Roger Sterling arc",
+     "year": "2009–2012",
+     "format": "tv",
+     "meta": "TV series · United States · English (AMC)",
+     "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+     "confidence_flag": "Medium · two sources; intimacy is non-sexual (bath scene)",
+     "summary": "Roger Sterling leaves his wife for 20-year-old secretary Jane Siegel and marries her; in S5 “Far Away Places” they take LSD, bathe together and talk candidly, which leads to their divorce.",
+     "character": "Character: Jane Siegel Sterling (Peyton List) and Roger Sterling (John Slattery)",
+     "categories": [
+      "agegap-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Roger_Sterling"
+      },
+      {
+       "label": "Wikipedia — “Far Away Places”",
+       "url": "https://en.wikipedia.org/wiki/Far_Away_Places_(Mad_Men)"
+      }
+     ],
+     "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
+     "note": "Note: separate from the existing Mad Men (2008) card about Betty Draper.",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy in the storyline",
+     "kids_together": "no",
+     "kids_status": "no",
+     "kids_note": "none before the marriage",
+     "standalone": true
+    }
+   }
   }
  ],
  "sections": [
@@ -225513,7 +226635,8 @@
    ],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "agegap-marriage"
    ],
    "groups": [
     {
@@ -225621,10 +226744,42 @@
        "from_source": "xla62ucxbx02u5"
       }
      ]
+    },
+    {
+     "title": "Young wife, older / rich husband additions (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1935,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 1941,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 1939,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 1940,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 1943,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 1945,
+       "from_source": "agegap-marriage"
+      }
+     ],
+     "from_source": "agegap-marriage"
     }
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 6
+    "ig6qlxqxoxvcxla": 6,
+    "agegap-marriage": null
    }
   },
   {
@@ -229257,7 +230412,8 @@
    "notes": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "agegap-marriage"
    ],
    "groups": [
     {
@@ -229562,10 +230718,22 @@
        "from_source": "xla62ucxbx02u5"
       }
      ]
+    },
+    {
+     "title": "Young wife, older / rich husband additions (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1945,
+       "from_source": "agegap-marriage"
+      }
+     ],
+     "from_source": "agegap-marriage"
     }
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 23
+    "ig6qlxqxoxvcxla": 23,
+    "agegap-marriage": null
    }
   },
   {
@@ -234236,6 +235404,83 @@
     "ig6qlxqxoxvcxla": 21,
     "devil-deal-hypnosis": null
    }
+  },
+  {
+   "title": "Young wife, older / rich husband",
+   "category": "agegap-marriage",
+   "description": "",
+   "notes": [],
+   "from_sources": [
+    "agegap-marriage"
+   ],
+   "declared_count_by_source": {
+    "agegap-marriage": null
+   },
+   "groups": [
+    {
+     "title": "Young wife, older / rich husband additions (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1935,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 1941,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 1944,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 1937,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 1939,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 1940,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 1943,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 1946,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 1945,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 1936,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 1933,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 1934,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 1938,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 1942,
+       "from_source": "agegap-marriage"
+      }
+     ],
+     "from_source": "agegap-marriage"
+    }
+   ]
   }
  ],
  "unplaced_entry_ids": [],
