@@ -6,7 +6,7 @@
   const catLabel = Object.fromEntries(D.categories.map(c => [c.key, c.label]));
   const legendLabel = Object.fromEntries(D.categories.map(c => [c.key, c.legend_label || c.label]));
   const PAGE = 120;
-  let state = {q:'', cat:'all', fmt:'all', src:'all', yr:'all', ymin:'', ymax:'', view:'grid', limit:PAGE};
+  let state = {q:'', cat:'all', fmt:'all', src:'all', tag:'all', yr:'all', ymin:'', ymax:'', view:'grid', limit:PAGE};
 
   // A-Z ordering (done at render time so it survives every sync): accents folded, case-insensitive,
   // leading punctuation and a leading 'The' / 'A' / 'An' ignored; year is the tiebreaker
@@ -44,6 +44,10 @@
   $('#legend').innerHTML = legendCats.map(c => `<button type="button" class="${esc(c.key)}" data-cat="${esc(c.key)}" aria-pressed="false" title="${c.entry_count} records"><i></i>${esc(c.legend_label)}</button>`).join('');
   $('#category').insertAdjacentHTML('beforeend', cats.map(c => `<option value="${esc(c.key)}">${esc(c.label)} (${c.entry_count})</option>`).join(''));
   $('#format').insertAdjacentHTML('beforeend', D.formats.map(f => `<option value="${esc(f.key)}">${esc(f.label)}</option>`).join(''));
+  // reference tags (e.g. 'moaning'): not categories; filterable and searchable
+  const tagCounts = {};
+  D.entries.forEach(e => (e.tags || []).forEach(t => { tagCounts[t] = (tagCounts[t] || 0) + 1; }));
+  $('#tag').insertAdjacentHTML('beforeend', Object.keys(tagCounts).sort().map(t => `<option value="${esc(t)}">Tag: ${esc(t)} (${tagCounts[t]})</option>`).join(''));
   $('#source').insertAdjacentHTML('beforeend', (D.sources || []).map(s => `<option value="${esc(s.id)}">${esc(srcLabel[s.id])}</option>`).join(''));
   const extra = (D.sources || []).filter(s => s.kind === 'index').map(s => `
     <details><summary>${esc(srcLabel[s.id])}: research notes (${s.boundaries.length})</summary><div class="note-body"><ul>${s.boundaries.map(b => `<li>${esc(b)}</li>`).join('')}</ul></div></details>
@@ -54,7 +58,7 @@
 
   // search index
   D.entries.forEach(e => {
-    e._hay = [e.title, e.subtitle, e.year, e.meta, e.summary, e.character, e.mechanism, e.confidence_flag, e.note, e.provenance, e.pregnancy_outcome, e.pregnancy_note,
+    e._hay = [e.title, e.subtitle, e.year, e.meta, e.summary, e.character, e.mechanism, e.confidence_flag, e.note, e.provenance, e.pregnancy_outcome, e.pregnancy_note, e.pregnant_has_children, ...(e.tags || []).map(t => 'tag:' + t + ' ' + t), ...(e.episodes || []).map(x => [x.episode, x.air_date, x.gist].join(' ')),
       ...e.categories.map(c => catLabel[c] || c), ...(e.merged_from || []).map(m => [m.label, m.summary, m.character, m.note].join(' '))].join(' \u0001 ').toLowerCase();
   });
   // year filter: a release period and/or an optional min-max range; records without a year only
@@ -72,6 +76,7 @@
   const baseMatch = e => (state.cat === 'all' || e.categories.includes(state.cat)) &&
     (state.fmt === 'all' || e.format === state.fmt) &&
     (state.src === 'all' || e.from_sources.includes(state.src)) &&
+    (state.tag === 'all' || (e.tags || []).includes(state.tag)) &&
     (!state.q || state.q.split(/\s+/).every(t => e._hay.includes(t)));
   const matches = e => baseMatch(e) && yearOk(e);
   function periodCounts(){   // live counts per period under the other active filters
@@ -103,7 +108,7 @@
     const distinct = copies.filter(m => m.distinct_story).length;
     const copyRow = (m, i) => {
       const plot = m.summary ? esc(m.summary) : `<em>${m.index_title ? 'title-index listing only; the source gives no plot for this copy' : 'no plot in the source for this copy'}</em>`;
-      const extra = [m.character ? `<strong>Character:</strong> ${esc(m.character)}` : '', m.note ? `<strong>Note:</strong> ${esc(m.note)}` : '', (m.categories || []).length ? `<strong>Listed under:</strong> ${m.categories.map(c => esc(catLabel[c] || c)).join(', ')}` : '',
+      const extra = [m.character ? `<strong>Character:</strong> ${esc(m.character)}` : '', (m.episodes || []).length ? `<strong>Episodes:</strong> ${m.episodes.map(x => esc(x.episode) + ' — ' + esc(x.gist)).join('; ')}` : '', m.pregnant_has_children ? `<strong>Already has children:</strong> ${esc(m.pregnant_has_children)}` : '', (m.tags || []).length ? `<strong>Tags:</strong> ${m.tags.map(esc).join(', ')}` : '', m.note ? `<strong>Note:</strong> ${esc(m.note)}` : '', (m.categories || []).length ? `<strong>Listed under:</strong> ${m.categories.map(c => esc(catLabel[c] || c)).join(', ')}` : '',
         m.identifiers.length ? '' : '<span class="noid">no episode, date or alternate title given in the source</span>'].filter(Boolean).join(' · ');
       const links = (m.sources || []).length ? ` <span class="clinks">${m.sources.map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label || 'Source')} ↗</a>`).join(' ')}</span>` : '';
       return `<li class="${m.distinct_story ? 'distinct' : ''}"><span class="csrc" title="${esc(srcLabel[m.source])}">${esc(srcShort[m.source])}</span> <strong class="clabel">${esc(m.label)}</strong>${i === 0 ? ' <span class="cmain">shown above</span>' : ''} — <span class="cplot">${plot}</span>${extra ? `<span class="cextra">${extra}</span>` : ''}${links}</li>`;
@@ -118,8 +123,10 @@
       ${ch ? `<p class="character">${lab(esc(ch))}</p>` : ''}
       ${summary ? `<p class="summary">${esc(summary)}</p>` : ''}
       ${note ? `<p class="entry-note">${lab(esc(note))}</p>` : ''}${idxNote}
+      ${e.pregnant_has_children ? `<p class="entry-note"><strong>Pregnant character already has children:</strong> ${esc(e.pregnant_has_children)}</p>` : ''}
+      ${(e.episodes || []).length ? `<div class="episodes"><strong>Episodes</strong><ul>${e.episodes.map(x => `<li><b>${esc(x.episode)}</b>${x.air_date ? ` <span class="epdate">(${esc(x.air_date)})</span>` : ''}${x.number_verified === false ? ' <em>episode number not verified</em>' : ''} — ${esc(x.gist)}</li>`).join('')}</ul></div>` : ''}
       ${e.pregnancy_outcome ? `<p class="entry-note"><strong>Pregnancy outcome:</strong> ${esc(e.pregnancy_outcome)}${e.pregnancy_note ? ' — ' + esc(e.pregnancy_note) : ''}</p>` : ''}
-      <div class="tags">${tags || appTags}</div>
+      <div class="tags">${tags || appTags}${(e.tags || []).map(t => `<button type="button" class="tag reftag" data-tag="${esc(t)}" title="Reference tag — click to filter">#${esc(t)}</button>`).join('')}</div>
       ${sources.length ? `<div class="sources" aria-label="Sources">${sources.map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)} ↗</a>`).join('')}</div>` : ''}
       ${merged}
       ${prov ? `<p class="provenance">${lab(esc(prov))}</p>` : ''}
@@ -164,26 +171,27 @@
   }
 
   function sync(push){
-    $('#category').value = state.cat; $('#format').value = state.fmt; $('#source').value = state.src;
+    $('#category').value = state.cat; $('#format').value = state.fmt; $('#source').value = state.src; $('#tag').value = state.tag;
     $('#period').value = state.yr;
     ['ymin', 'ymax'].forEach(k => { const el = $('#' + k); if (document.activeElement !== el) el.value = state[k]; });   // don't clobber a year being typed
     document.querySelectorAll('.view-toggle button').forEach(b => b.setAttribute('aria-pressed', b.dataset.view === state.view));
     document.querySelectorAll('#legend button').forEach(b => b.setAttribute('aria-pressed', b.dataset.cat === state.cat));
     const p = new URLSearchParams();
     if (state.q) p.set('q', state.q); if (state.cat !== 'all') p.set('cat', state.cat);
-    if (state.fmt !== 'all') p.set('fmt', state.fmt); if (state.src !== 'all') p.set('src', state.src);
+    if (state.fmt !== 'all') p.set('fmt', state.fmt); if (state.src !== 'all') p.set('src', state.src); if (state.tag !== 'all') p.set('tag', state.tag);
     if (state.yr !== 'all') p.set('yr', state.yr); if (state.ymin) p.set('ymin', state.ymin); if (state.ymax) p.set('ymax', state.ymax); if (state.view !== 'grid') p.set('view', state.view);
     if (push) history.replaceState(null, '', (p.toString() ? '#' + p : location.pathname));
     render();
   }
   const init = new URLSearchParams(location.hash.slice(1));
-  state.q = (init.get('q') || '').toLowerCase(); state.cat = init.get('cat') || 'all'; state.fmt = init.get('fmt') || 'all'; state.src = init.get('src') || 'all';
+  state.q = (init.get('q') || '').toLowerCase(); state.cat = init.get('cat') || 'all'; state.fmt = init.get('fmt') || 'all'; state.src = init.get('src') || 'all'; state.tag = init.get('tag') || 'all';
   state.yr = periodOf[init.get('yr')] ? init.get('yr') : 'all'; state.ymin = init.get('ymin') || ''; state.ymax = init.get('ymax') || ''; state.view = init.get('view') || 'grid';
   let t;
   $('#search').addEventListener('input', e => { clearTimeout(t); t = setTimeout(() => { state.q = e.target.value.trim().toLowerCase(); state.limit = PAGE; sync(true); }, 120); });
   $('#category').addEventListener('change', e => { state.cat = e.target.value; state.limit = PAGE; sync(true); });
   $('#format').addEventListener('change', e => { state.fmt = e.target.value; state.limit = PAGE; sync(true); });
   $('#source').addEventListener('change', e => { state.src = e.target.value; state.limit = PAGE; sync(true); });
+  $('#tag').addEventListener('change', e => { state.tag = e.target.value; state.limit = PAGE; sync(true); });
   $('#period').insertAdjacentHTML('beforeend', PERIODS.map(p => `<option value="${p.key}">${esc(p.label)}</option>`).join(''));
   $('#period').addEventListener('change', e => { state.yr = e.target.value; state.limit = PAGE; sync(true); });
   let yt;
@@ -194,6 +202,7 @@
   $('#legend').addEventListener('click', e => { const b = e.target.closest('button'); if (!b) return; state.cat = state.cat === b.dataset.cat ? 'all' : b.dataset.cat; state.limit = PAGE; sync(true); $('#grid').scrollIntoView({behavior:'smooth'}); });
   document.querySelector('.view-toggle').addEventListener('click', e => { const b = e.target.closest('button'); if (!b) return; state.view = b.dataset.view; sync(true); });
   $('#grid').addEventListener('click', e => {
+    const rt = e.target.closest('.reftag'); if (rt){ state.tag = state.tag === rt.dataset.tag ? 'all' : rt.dataset.tag; state.limit = PAGE; sync(true); return; }
     if (e.target.id === 'more'){ state.limit += PAGE; render(); return; }
     const th = e.target.closest('.thumb'); if (!th) return;
     $('#modalTitle').textContent = th.dataset.title;

@@ -50,6 +50,8 @@ SOURCES = [
      "required": False},
     {"id": "devil-deal-hypnosis", "label": "Devil's deal + pregnancy (hypnotized) research",
      "local": "sources/devil-deal-hypnosis.json", "required": False},
+    {"id": "pregnant-intimacy", "label": "Pregnant-character intimacy research", "local": "sources/pregnant-intimacy.json",
+     "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -484,10 +486,14 @@ def parse_local(src, payload, known_labels):
         records.append(r)
         for c in r["categories"]:
             sec = sections.setdefault(c, {"title": known_labels.get(c) or payload.get("category_labels", {}).get(c, c), "category": c, "description": "",
-                                          "notes": [], "from_sources": [src["id"]],
-                                          "groups": [{"title": payload.get("group_title") or src["label"],
-                                                      "items": [], "notes": []}]})
-            sec["groups"][0]["items"].append({"rid": r["rid"]})
+                                          "notes": [], "from_sources": [src["id"]], "groups": []})
+            # a record may name its own plot sub-group ("group"); otherwise the source's group title is used
+            gt = x.get("group") or payload.get("group_title") or src["label"]
+            grp = next((g for g in sec["groups"] if g["title"] == gt), None)
+            if grp is None:
+                grp = {"title": gt, "items": [], "notes": []}
+                sec["groups"].append(grp)
+            grp["items"].append({"rid": r["rid"]})
     check = {"raw_count": len(records), "ok": bool(records)}
     meta = {"id": src["id"], "label": src["label"], "kind": "local", "share_url": src["local"],
             "description": payload.get("description", ""), "dropped": payload.get("dropped", [])}
@@ -646,7 +652,10 @@ FILL_FIELDS = ("subtitle", "year", "meta", "mechanism", "confidence_flag", "summ
 STORY_FIELDS = ("subtitle", "mechanism", "summary", "character", "note")
 # optional fields only some (local) sources carry; filled from the first member that has them, and only
 # written to an entry when present, so entries without them are unchanged
-OPTIONAL_FIELDS = ("pregnancy_outcome", "pregnancy_note", "pregnancy_highlight")
+OPTIONAL_FIELDS = ("pregnancy_outcome", "pregnancy_note", "pregnancy_highlight", "pregnant_has_children",
+                   "episodes", "tags")
+# list-valued optional fields are unioned across all merged copies (in primary-first, source order)
+UNION_FIELDS = ("episodes", "tags")
 
 
 def norm_summary(t):
@@ -708,7 +717,17 @@ def merge_group(g, new_id):
         pool = same_story if f in STORY_FIELDS else members
         rec[f] = primary[f] or next((m[f] for m in pool if m[f]), "")
     for f in OPTIONAL_FIELDS:
-        v = next((m[f] for m in sorted(members, key=lambda m: m is not primary) if m.get(f)), None)
+        ordered = sorted(members, key=lambda m: (m is not primary, m["source_rank"], m["order"]))
+        if f in UNION_FIELDS:
+            vals = []
+            for m in ordered:
+                for v in m.get(f) or []:
+                    if v not in vals:
+                        vals.append(v)
+            if vals:
+                rec[f] = vals
+            continue
+        v = next((m[f] for m in ordered if m.get(f)), None)
         if v:
             rec[f] = v
     rec["format"] = primary["format"]

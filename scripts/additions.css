@@ -57,3 +57,10 @@ details.merged .clinks a{font-size:.7rem}
 #yclear{height:44px;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:8px;padding:0 13px;cursor:pointer}
 .entry-note.subgroup{margin-top:-4px;font-size:.8rem;opacity:.85}
 @media(max-width:640px){.yearbar select{flex:1 1 100%}.yr-range{flex:1 1 auto}.yr-range input{width:100%}}
+
+.reftag{cursor:pointer;font:inherit;border:1px dashed var(--line);background:transparent}
+.reftag:hover{border-style:solid}
+.episodes{font-size:.8rem;margin:6px 0 10px}
+.episodes ul{margin:4px 0 0;padding-left:1.1em}
+.episodes li{margin:0 0 4px;line-height:1.4}
+.episodes .epdate{color:var(--muted)}
