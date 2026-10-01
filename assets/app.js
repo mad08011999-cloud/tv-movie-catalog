@@ -10,7 +10,7 @@
   // arrives in source HTML (the muse.ai research notes ship with <details open>)
   const closedDetails = html => String(html ?? '').replace(/<details\b([^>]*)>/gi, (m, a) =>
     '<details' + a.replace(/\s+open(?:\s*=\s*(?:"[^"]*"|'[^']*'|[^\s>]+))?(?=\s|$)/gi, '') + '>');
-  let state = {q:'', cat:'all', fmt:'all', src:'all', tag:'all', yr:'all', ymin:'', ymax:'', free:false, view:'grid', limit:PAGE};
+  let state = {q:'', cat:'all', fmt:'all', src:'all', tag:'all', yr:'all', ymin:'', ymax:'', free:false, again:'all', view:'grid', limit:PAGE};
 
   // A-Z ordering (done at render time so it survives every sync): accents folded, case-insensitive,
   // leading punctuation and a leading 'The' / 'A' / 'An' ignored; year is the tiebreaker
@@ -62,7 +62,7 @@
 
   // search index
   D.entries.forEach(e => {
-    e._hay = [e.title, e.subtitle, e.year, e.meta, e.summary, e.character, e.mechanism, e.confidence_flag, e.note, e.provenance, e.pregnancy_outcome, e.pregnancy_note, e.pregnant_has_children, e.kids_together, e.kids_together_note, e.married && 'marries her ' + e.married, e.married_note, e.pregnant_end && 'pregnant by the end ' + e.pregnant_end, e.pregnant_end_note, e.evidence, e.source_conflict, e.fit_note, e.child_witness, ...(e.watch_links || []).map(l => [l.service, l.channel].join(' ')), ...(e.tags || []).map(t => 'tag:' + t + ' ' + t), ...(e.episodes || []).map(x => [x.episode, x.air_date, x.gist].join(' ')),
+    e._hay = [e.title, e.subtitle, e.year, e.meta, e.summary, e.character, e.mechanism, e.confidence_flag, e.note, e.provenance, e.pregnancy_outcome, e.pregnancy_note, e.pregnant_has_children, e.kids_together, e.kids_together_note, e.married && 'marries her ' + e.married, e.married_note, e.pregnant_end && 'pregnant by the end ' + e.pregnant_end, e.pregnant_end_note, e.evidence, e.source_conflict, e.fit_note, e.child_witness, e.rating && 'rating ' + e.rating, e.adult && 'adult title ' + e.adult, e.existing_kids && 'children before ' + e.existing_kids, e.pregnancy_again && 'pregnant again ' + e.pregnancy_again, e.pregnancy_again_note, ...(e.watch_links || []).map(l => [l.service, l.channel].join(' ')), ...(e.tags || []).map(t => 'tag:' + t + ' ' + t), ...(e.episodes || []).map(x => [x.episode, x.air_date, x.gist].join(' ')),
       ...e.categories.map(c => catLabel[c] || c), ...(e.merged_from || []).map(m => [m.label, m.summary, m.character, m.note].join(' '))].join(' \u0001 ').toLowerCase();
   });
   // year filter: a release period and/or an optional min-max range; records without a year only
@@ -81,6 +81,7 @@
     (state.fmt === 'all' || e.format === state.fmt) &&
     (state.src === 'all' || e.from_sources.includes(state.src)) &&
     (state.tag === 'all' || (e.tags || []).includes(state.tag)) &&
+    (state.again === 'all' || (state.again === 'any' ? !!e.pregnancy_again : e.pregnancy_again === state.again)) &&
     (!state.q || state.q.split(/\s+/).every(t => e._hay.includes(t)));
   const freeOk = e => !state.free || (e.watch_links || []).length > 0;
   const matches = e => baseMatch(e) && yearOk(e) && freeOk(e);
@@ -115,7 +116,7 @@
     const distinct = copies.filter(m => m.distinct_story).length;
     const copyRow = (m, i) => {
       const plot = m.summary ? esc(m.summary) : `<em>${m.index_title ? 'title-index listing only; the source gives no plot for this copy' : 'no plot in the source for this copy'}</em>`;
-      const extra = [m.character ? `<strong>Character:</strong> ${esc(m.character.replace(/^Character:\s*/i, ''))}` : '', (m.episodes || []).length ? `<strong>Episodes:</strong> ${m.episodes.map(x => esc(x.episode) + ' — ' + esc(x.gist)).join('; ')}` : '', m.pregnant_has_children ? `<strong>Already has children:</strong> ${esc(m.pregnant_has_children)}` : '', m.married ? `<strong>Marries her:</strong> ${esc(m.married)}` : '', m.pregnant_end ? `<strong>Pregnant by the end:</strong> ${esc(m.pregnant_end)}` : '', m.kids_together ? `<strong>Kids together:</strong> ${esc(m.kids_together)}` : '', m.kids_status ? `<strong>Already has children:</strong> ${esc(m.kids_status)}` : '', m.evidence ? `<strong>${/^single source/i.test(m.evidence) ? 'Single source' : 'Sources cross-checked'}:</strong> ${esc(m.evidence.replace(/^single source\s*[—-]\s*/i, ''))}` : '', m.source_conflict ? `<strong>Source conflict:</strong> ${esc(m.source_conflict)}` : '', m.fit_note ? `<strong>Fit:</strong> ${esc(m.fit_note)}` : '', (m.tags || []).length ? `<strong>Tags:</strong> ${m.tags.map(esc).join(', ')}` : '', m.note ? `<strong>Note:</strong> ${esc(m.note)}` : '', (m.categories || []).length ? `<strong>Listed under:</strong> ${m.categories.map(c => esc(catLabel[c] || c)).join(', ')}` : '',
+      const extra = [m.character ? `<strong>Character:</strong> ${esc(m.character.replace(/^Character:\s*/i, ''))}` : '', (m.episodes || []).length ? `<strong>Episodes:</strong> ${m.episodes.map(x => esc(x.episode) + ' — ' + esc(x.gist)).join('; ')}` : '', m.pregnant_has_children ? `<strong>Already has children:</strong> ${esc(m.pregnant_has_children)}` : '', m.married ? `<strong>Marries her:</strong> ${esc(m.married)}` : '', m.pregnant_end ? `<strong>Pregnant by the end:</strong> ${esc(m.pregnant_end)}` : '', m.kids_together ? `<strong>Kids together:</strong> ${esc(m.kids_together)}` : '', m.kids_status ? `<strong>Already has children:</strong> ${esc(m.kids_status)}` : '', m.pregnancy_again ? `<strong>Pregnant again:</strong> ${esc(m.pregnancy_again)}` : '', m.rating ? `<strong>Rating:</strong> ${esc(m.rating)}` : '', m.evidence ? `<strong>${/^single source/i.test(m.evidence) ? 'Single source' : 'Sources cross-checked'}:</strong> ${esc(m.evidence.replace(/^single source\s*[—-]\s*/i, ''))}` : '', m.source_conflict ? `<strong>Source conflict:</strong> ${esc(m.source_conflict)}` : '', m.fit_note ? `<strong>Fit:</strong> ${esc(m.fit_note)}` : '', (m.tags || []).length ? `<strong>Tags:</strong> ${m.tags.map(esc).join(', ')}` : '', m.note ? `<strong>Note:</strong> ${esc(m.note)}` : '', (m.categories || []).length ? `<strong>Listed under:</strong> ${m.categories.map(c => esc(catLabel[c] || c)).join(', ')}` : '',
         m.identifiers.length ? '' : '<span class="noid">no episode, date or alternate title given in the source</span>'].filter(Boolean).join(' · ');
       const links = (m.sources || []).length ? ` <span class="clinks">${m.sources.map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label || 'Source')} ↗</a>`).join(' ')}</span>` : '';
       return `<li class="${m.distinct_story ? 'distinct' : ''}"><span class="csrc" title="${esc(srcLabel[m.source])}">${esc(srcShort[m.source])}</span> <strong class="clabel">${esc(m.label)}</strong>${i === 0 ? ' <span class="cmain">shown above</span>' : ''} — <span class="cplot">${plot}</span>${extra ? `<span class="cextra">${extra}</span>` : ''}${links}</li>`;
@@ -135,6 +136,8 @@
       ${e.married ? `<p class="entry-note outcome"><strong>Marries her:</strong> ${esc(e.married)}${e.married_note ? ' — ' + esc(e.married_note) : ''}</p>` : ''}
       ${e.pregnant_end ? `<p class="entry-note outcome"><strong>Pregnant by the end:</strong> ${esc(e.pregnant_end)}${e.pregnant_end_note ? ' — ' + esc(e.pregnant_end_note) : ''}</p>` : ''}
       ${e.kids_status ? `<p class="entry-note"><strong>Already has children:</strong> ${esc(e.kids_status)}${e.kids_note ? ' — ' + esc(e.kids_note) : ''}</p>` : ''}
+      ${e.pregnancy_again ? `<p class="entry-note outcome"><strong>Pregnant again — outcome:</strong> ${esc(e.pregnancy_again)}${e.pregnancy_again_note ? ' — ' + esc(e.pregnancy_again_note) : ''}</p>` : ''}
+      ${e.rating || e.adult || e.existing_kids ? `<p class="entry-note">${[e.existing_kids ? `<strong>Children before this pregnancy:</strong> ${esc(e.existing_kids)}` : '', e.rating ? `<strong>Rating:</strong> ${esc(e.rating)}` : '', e.adult ? `<strong>Adult title:</strong> ${esc(e.adult)}` : ''].filter(Boolean).join(' · ')}</p>` : ''}
       ${e.child_witness ? `<p class="entry-note witness"><strong>Who saw it:</strong> ${esc(e.child_witness)}</p>` : ''}
       ${e.kids_together ? `<p class="entry-note"><strong>${e.married ? 'Kids together' : 'Kids together with husband'}:</strong> ${esc(e.kids_together)}${e.kids_together_note ? ' — ' + esc(e.kids_together_note) : ''}</p>` : ''}
       ${e.evidence ? `<p class="entry-note evidence${/^single source/i.test(e.evidence) ? ' single' : ''}"><strong>${/^single source/i.test(e.evidence) ? 'Single source' : 'Sources cross-checked'}:</strong> ${esc(e.evidence.replace(/^single source\s*[—-]\s*/i, ''))}</p>` : ''}
@@ -188,14 +191,14 @@
   }
 
   function sync(push){
-    $('#category').value = state.cat; $('#format').value = state.fmt; $('#source').value = state.src; $('#tag').value = state.tag;
+    $('#category').value = state.cat; $('#format').value = state.fmt; $('#source').value = state.src; $('#tag').value = state.tag; $('#again').value = state.again;
     $('#period').value = state.yr; $('#freeToggle').setAttribute('aria-pressed', state.free);
     ['ymin', 'ymax'].forEach(k => { const el = $('#' + k); if (document.activeElement !== el) el.value = state[k]; });   // don't clobber a year being typed
     document.querySelectorAll('.view-toggle button').forEach(b => b.setAttribute('aria-pressed', b.dataset.view === state.view));
     document.querySelectorAll('#legend button').forEach(b => b.setAttribute('aria-pressed', b.dataset.cat === state.cat));
     const p = new URLSearchParams();
     if (state.q) p.set('q', state.q); if (state.cat !== 'all') p.set('cat', state.cat);
-    if (state.fmt !== 'all') p.set('fmt', state.fmt); if (state.src !== 'all') p.set('src', state.src); if (state.tag !== 'all') p.set('tag', state.tag);
+    if (state.fmt !== 'all') p.set('fmt', state.fmt); if (state.src !== 'all') p.set('src', state.src); if (state.tag !== 'all') p.set('tag', state.tag); if (state.again !== 'all') p.set('again', state.again);
     if (state.yr !== 'all') p.set('yr', state.yr); if (state.ymin) p.set('ymin', state.ymin); if (state.ymax) p.set('ymax', state.ymax); if (state.free) p.set('free', '1'); if (state.view !== 'grid') p.set('view', state.view);
     if (push) history.replaceState(null, '', (p.toString() ? '#' + p : location.pathname));
     updateMore();
@@ -204,7 +207,7 @@
   // 'More filters' disclosure: source, tag, view, years and free-link live in a panel that is collapsed by
   // default; the button shows how many of those hidden filters are active
   const moreBtn = $('#moreBtn'), morePanel = $('#morePanel');
-  const hiddenActive = () => [state.src !== 'all', state.tag !== 'all', state.view !== 'grid', state.yr !== 'all',
+  const hiddenActive = () => [state.src !== 'all', state.tag !== 'all', state.again !== 'all', state.view !== 'grid', state.yr !== 'all',
     !!(state.ymin || state.ymax), state.free].filter(Boolean).length;
   function setMore(open){ morePanel.hidden = !open; moreBtn.setAttribute('aria-expanded', String(open)); }
   function updateMore(){
@@ -216,6 +219,7 @@
   document.addEventListener('keydown', e => { if (e.key === 'Escape' && !morePanel.hidden && morePanel.contains(document.activeElement)) { setMore(false); moreBtn.focus(); } });
   const init = new URLSearchParams(location.hash.slice(1));
   state.q = (init.get('q') || '').toLowerCase(); state.cat = init.get('cat') || 'all'; state.fmt = init.get('fmt') || 'all'; state.src = init.get('src') || 'all'; state.tag = init.get('tag') || 'all';
+  state.again = ['any', 'birth', 'miscarriage', 'ongoing', 'unknown'].includes(init.get('again')) ? init.get('again') : 'all';
   state.yr = periodOf[init.get('yr')] ? init.get('yr') : 'all'; state.ymin = init.get('ymin') || ''; state.ymax = init.get('ymax') || ''; state.free = init.get('free') === '1'; state.view = init.get('view') || 'grid';
   if (hiddenActive()) setMore(true);   // a hidden filter set from the URL hash opens the panel
   let t;
@@ -224,6 +228,11 @@
   $('#format').addEventListener('change', e => { state.fmt = e.target.value; state.limit = PAGE; sync(true); });
   $('#source').addEventListener('change', e => { state.src = e.target.value; state.limit = PAGE; sync(true); });
   $('#tag').addEventListener('change', e => { state.tag = e.target.value; state.limit = PAGE; sync(true); });
+  // pregnant-again outcome filter (records carrying 'pregnancy_again': birth / miscarriage / ongoing / unknown)
+  const againCounts = {}; D.entries.forEach(e => { if (e.pregnancy_again) againCounts[e.pregnancy_again] = (againCounts[e.pregnancy_again] || 0) + 1; });
+  $('#again').insertAdjacentHTML('beforeend', `<option value="any">Pregnant again: any outcome (${Object.values(againCounts).reduce((a, b) => a + b, 0)})</option>` +
+    ['birth', 'miscarriage', 'ongoing', 'unknown'].filter(k => againCounts[k]).map(k => `<option value="${k}">Pregnant again: ${k} (${againCounts[k]})</option>`).join(''));
+  $('#again').addEventListener('change', e => { state.again = e.target.value; state.limit = PAGE; sync(true); });
   $('#period').insertAdjacentHTML('beforeend', PERIODS.map(p => `<option value="${p.key}">${esc(p.label)}</option>`).join(''));
   $('#period').addEventListener('change', e => { state.yr = e.target.value; state.limit = PAGE; sync(true); });
   let yt;

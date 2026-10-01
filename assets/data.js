@@ -1580,6 +1580,170 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "kids-pregnant-again",
+   "label": "Parents with children get pregnant again",
+   "kind": "local",
+   "share_url": "sources/kids-pregnant-again.json",
+   "description": "Worldwide screen titles where an adult couple who already has children, in a prominent consensual romantic relationship, conceives again. Only existing categories are used: mainly mom-pregnancy, plus adopt-pregnancy, family or stepmom-pregnancy where accurate. Each record adds rating, adult (yes/no), existing_kids (number), pregnancy_again (birth / miscarriage / ongoing / unknown) and a short non-explicit note. Adults only. Minors, child-witness plots and non-consensual or hypnosis-assault plots are excluded, and no child walk-in card is extended. Matching existing cards only gain missing fields.",
+   "dropped": [
+    {
+     "title": "Revolutionary Road",
+     "year": "2008",
+     "reason": "pregnancy ends in a self-induced abortion (outside the birth / miscarriage / ongoing / unknown outcomes); card left unchanged"
+    },
+    {
+     "title": "Neighbors 2: Sorority Rising",
+     "year": "2016",
+     "reason": "the catalog's only card for this pregnancy is a child walk-in research card (pregnant-walkin); not extended, per the hard exclusion on child-witness records"
+    },
+    {
+     "title": "Look Who's Talking Too",
+     "year": "1990",
+     "reason": "the catalog's only card for this pregnancy is a child walk-in research card (pregnant-walkin); not extended, per the hard exclusion on child-witness records"
+    },
+    {
+     "title": "This Is 40",
+     "year": "2012",
+     "reason": "the catalog's only card for this pregnancy is a child walk-in research card (pregnant-walkin); not extended, per the hard exclusion on child-witness records"
+    },
+    {
+     "title": "Badhaai Ho",
+     "year": "2018",
+     "reason": "the catalog's only card for this pregnancy is a child walk-in research card (pregnant-walkin); not extended, per the hard exclusion on child-witness records"
+    },
+    {
+     "title": "Father of the Bride Part II",
+     "year": "1995",
+     "reason": "the catalog's only card for this pregnancy is a child walk-in research card (pregnant-walkin); not extended, per the hard exclusion on child-witness records"
+    },
+    {
+     "title": "Malcolm in the Middle",
+     "year": "2002–03 / 2006",
+     "reason": "the catalog's only card for this pregnancy is a child walk-in research card (pregnant-walkin); not extended, per the hard exclusion on child-witness records"
+    },
+    {
+     "title": "black-ish",
+     "year": "2016–17",
+     "reason": "the catalog's only card for this pregnancy is a child walk-in research card (pregnant-walkin); not extended, per the hard exclusion on child-witness records"
+    },
+    {
+     "title": "How I Met Your Mother",
+     "year": "2012–14",
+     "reason": "the catalog's only card for this pregnancy is a child walk-in research card (pregnant-walkin); not extended, per the hard exclusion on child-witness records"
+    },
+    {
+     "title": "Desperate Housewives",
+     "year": "2009–10",
+     "reason": "the catalog's only card for this pregnancy is a child walk-in research card (pregnant-walkin); not extended, per the hard exclusion on child-witness records"
+    },
+    {
+     "title": "Catastrophe",
+     "year": "2016",
+     "reason": "the catalog's only card for this pregnancy is a child walk-in research card (pregnant-walkin); not extended, per the hard exclusion on child-witness records"
+    },
+    {
+     "title": "The Simpsons",
+     "year": "1992 / 1995",
+     "reason": "this title already has a child walk-in card in the catalog; skipped entirely so nothing builds on a child-witness record"
+    },
+    {
+     "title": "Once Upon a Time",
+     "year": "2014 / 2018",
+     "reason": "this title already has a child walk-in card in the catalog; skipped entirely so nothing builds on a child-witness record"
+    },
+    {
+     "title": "Scrubs",
+     "year": "2009–10",
+     "reason": "this title already has a child walk-in card in the catalog; skipped entirely so nothing builds on a child-witness record"
+    },
+    {
+     "title": "Life in Pieces",
+     "year": "2016–17",
+     "reason": "this title already has a child walk-in card in the catalog; skipped entirely so nothing builds on a child-witness record"
+    },
+    {
+     "title": "Un medico in famiglia",
+     "year": "2000",
+     "reason": "walk-in research card, and Alice's earlier children are stepchildren (also dropped by the mom-pregnancy pass)"
+    },
+    {
+     "title": "In the Club",
+     "year": "2009–10",
+     "reason": "Rosie is 15 when her storyline starts (minor); excluded"
+    },
+    {
+     "title": "Private Parts",
+     "year": "1997",
+     "reason": "no existing child: the new pregnancy follows a miscarriage, so it is their first child"
+    },
+    {
+     "title": "Dallas (Pam Ewing)",
+     "year": "1979",
+     "reason": "no existing child at the time (second miscarriage)"
+    },
+    {
+     "title": "Game of Thrones (Cersei Lannister)",
+     "year": "2017",
+     "reason": "her children are all dead before this pregnancy; incest storyline; excluded"
+    },
+    {
+     "title": "The Hand That Rocks the Cradle",
+     "year": "1992",
+     "reason": "sexual-assault plot (hard exclusion)"
+    },
+    {
+     "title": "One Life to Live (Blair & Todd)",
+     "year": "2001",
+     "reason": "paternity and relationship too tangled (she is with another man); not a clear couple pregnancy"
+    },
+    {
+     "title": "Unstoppable / Heaven Is for Real / Number 1",
+     "year": "2010 / 2014 / 2020",
+     "reason": "the couple's relationship is not a prominent part of the story"
+    },
+    {
+     "title": "Shortland Street (Chris Warner & Toni)",
+     "year": "",
+     "reason": "storyline year not verified"
+    },
+    {
+     "title": "Familie (Anna & Pierre)",
+     "year": "",
+     "reason": "storyline year not verified"
+    },
+    {
+     "title": "Uttaran / Cinta Fitri / General's Lady",
+     "year": "",
+     "reason": "existing children or father not clear in sources"
+    },
+    {
+     "title": "The Young and the Restless (Sharon & Nick, Faith)",
+     "year": "2009",
+     "reason": "pregnancy from an affair while she was married to another man; too tangled for this list"
+    },
+    {
+     "title": "Upstairs, Downstairs (Sarah)",
+     "year": "1973",
+     "reason": "no living child before this pregnancy"
+    },
+    {
+     "title": "The Bold and the Beautiful (Brooke & Eric, Bridget)",
+     "year": "1987–",
+     "reason": "already covered by the existing Brooke/Eric card; the merge engine would attach this record to the unrelated 1998 hypnosis card of the same title, so it was left out rather than misfiled"
+    },
+    {
+     "title": "House of the Dragon (Alicent)",
+     "year": "2022",
+     "reason": "duty marriage, not a passionate relationship; existing card is about a different storyline"
+    }
+   ],
+   "check": {
+    "raw_count": 77,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -1600,16 +1764,17 @@ window.CATALOG = {
   "field-fixes": 2,
   "hypnosis-assault": 35,
   "mom-pregnancy": 84,
-  "hypnosis-assault-loose": 39
+  "hypnosis-assault-loose": 39,
+  "kids-pregnant-again": 77
  },
- "raw_total": 3511,
- "entry_count": 1995,
+ "raw_total": 3588,
+ "entry_count": 2056,
  "categories": [
   {
    "key": "adopt-pregnancy",
    "label": "Adopt a child, then become pregnant",
    "legend_label": "Adopt a child, then become pregnant",
-   "entry_count": 28
+   "entry_count": 29
   },
   {
    "key": "adult-hypnosis",
@@ -1741,7 +1906,7 @@ window.CATALOG = {
    "key": "mom-pregnancy",
    "label": "Mother with children gets pregnant in a passionate relationship (husband, new partner or lover)",
    "legend_label": "Mother with children gets pregnant in a passionate relationship (husband, new partner or lover)",
-   "entry_count": 84
+   "entry_count": 145
   },
   {
    "key": "other-control",
@@ -1801,7 +1966,7 @@ window.CATALOG = {
    "key": "stepmom-pregnancy",
    "label": "Pregnant stepmother / bonus mom",
    "legend_label": "Pregnant stepmother / bonus mom",
-   "entry_count": 13
+   "entry_count": 14
   },
   {
    "key": "pregnant-child",
@@ -1885,7 +2050,7 @@ window.CATALOG = {
    "key": "family",
    "label": "Single mom remarries and gets pregnant with new partner",
    "legend_label": "Single mom remarries and gets pregnant with new partner",
-   "entry_count": 29
+   "entry_count": 32
   },
   {
    "key": "spirit",
@@ -21250,6 +21415,11 @@ window.CATALOG = {
    "pregnant_end": "yes",
    "pregnant_end_note": "by Dexter; son Harrison born",
    "evidence": "4 sources on the card (Source, IMDb parents guide (episode), Dexter wiki, Wikipedia: Dexter season 3)",
+   "rating": "TV-MA",
+   "adult": "yes",
+   "existing_kids": "2",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "son Harrison born",
    "format": "tv",
    "categories": [
     "family",
@@ -21272,6 +21442,10 @@ window.CATALOG = {
     {
      "label": "Wikipedia: Dexter season 3",
      "url": "https://en.wikipedia.org/wiki/Dexter_season_3"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Rita_Bennett"
     }
    ],
    "youtube_ids": [],
@@ -21279,13 +21453,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "pregnant-intimacy",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "kids-pregnant-again"
    ],
    "source_records": [
     "xla62ucxbx02u5:91",
     "ig6qlxqxoxvcxla:378",
     "pregnant-intimacy:40",
-    "mom-pregnancy:60"
+    "mom-pregnancy:60",
+    "kids-pregnant-again:13"
    ],
    "index_only": false,
    "local_only": false,
@@ -21423,6 +21599,46 @@ window.CATALOG = {
      "evidence": "4 sources on the card (Source, IMDb parents guide (episode), Dexter wiki, Wikipedia: Dexter season 3)",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "kids-pregnant-again:13",
+     "source": "kids-pregnant-again",
+     "label": "Dexter (2008)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dexter",
+     "subtitle": "",
+     "year": "2008",
+     "meta": "TV series · United States · English",
+     "summary": "Rita, mother of Astor and Cody, learns in the Season 3 opener that she is pregnant by Dexter; they marry and Harrison is born.",
+     "character": "Rita Bennett (Julie Benz) and Dexter Morgan (Michael C. Hall)",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "High · Wikipedia",
+     "categories": [
+      "mom-pregnancy",
+      "family"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Rita_Bennett"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_note": "Astor and Cody (from her first marriage)",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Harrison born",
+     "evidence": "single source — Wikipedia",
+     "rating": "TV-MA",
+     "adult": "yes",
+     "existing_kids": "2",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Harrison born",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -21519,6 +21735,39 @@ window.CATALOG = {
      "married": "yes",
      "married_note": "marries Dexter at the end of Season 3",
      "evidence": "4 sources on the card (Source, IMDb parents guide (episode), Dexter wiki, Wikipedia: Dexter season 3)"
+    },
+    "kids-pregnant-again:13": {
+     "title": "Dexter",
+     "year": "2008",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Rita Bennett (Julie Benz) and Dexter Morgan (Michael C. Hall)",
+     "summary": "Rita, mother of Astor and Cody, learns in the Season 3 opener that she is pregnant by Dexter; they marry and Harrison is born.",
+     "categories": [
+      "mom-pregnancy",
+      "family"
+     ],
+     "rating": "TV-MA",
+     "adult": "yes",
+     "existing_kids": "2",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Harrison born",
+     "kids_status": "yes",
+     "kids_note": "Astor and Cody (from her first marriage)",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Harrison born",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Rita_Bennett"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "match_title": "Dexter",
+     "match_year": "2008"
     }
    }
   },
@@ -77367,6 +77616,11 @@ window.CATALOG = {
    "pregnant_end": "yes",
    "pregnant_end_note": "by husband Harry; daughter Rose born",
    "evidence": "2 sources on the card (Sex and the City Wiki, Marie Claire)",
+   "rating": "R",
+   "adult": "yes",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "daughter Rose born",
    "format": "movie",
    "categories": [
     "adopt-pregnancy",
@@ -77380,18 +77634,24 @@ window.CATALOG = {
     {
      "label": "Marie Claire",
      "url": "https://www.marieclaire.co.uk/news/celebrity-news/sex-and-the-city-spoiler-alert-182103"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Sex_and_the_City"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "kids-pregnant-again"
    ],
    "source_records": [
     "xla62ucxbx02u5:463",
     "ig6qlxqxoxvcxla:385",
-    "mom-pregnancy:83"
+    "mom-pregnancy:83",
+    "kids-pregnant-again:11"
    ],
    "index_only": false,
    "local_only": false,
@@ -77489,6 +77749,46 @@ window.CATALOG = {
      "evidence": "2 sources on the card (Sex and the City Wiki, Marie Claire)",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "kids-pregnant-again:11",
+     "source": "kids-pregnant-again",
+     "label": "Sex and the City (2008)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Sex and the City",
+     "subtitle": "",
+     "year": "2008",
+     "meta": "Film · United States · English",
+     "summary": "After adopting Lily, Charlotte unexpectedly becomes pregnant and gives birth to Rose.",
+     "character": "Charlotte York (Kristin Davis) and Harry Goldenblatt (Evan Handler)",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "High · Wikipedia",
+     "categories": [
+      "mom-pregnancy",
+      "adopt-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Sex_and_the_City"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_note": "adopted daughter Lily",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — daughter Rose born",
+     "evidence": "single source — Wikipedia",
+     "rating": "R",
+     "adult": "yes",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "daughter Rose born",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -77550,6 +77850,39 @@ window.CATALOG = {
      "married": "yes",
      "married_note": "already married to Harry",
      "evidence": "2 sources on the card (Sex and the City Wiki, Marie Claire)"
+    },
+    "kids-pregnant-again:11": {
+     "title": "Sex and the City",
+     "year": "2008",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "character": "Charlotte York (Kristin Davis) and Harry Goldenblatt (Evan Handler)",
+     "summary": "After adopting Lily, Charlotte unexpectedly becomes pregnant and gives birth to Rose.",
+     "categories": [
+      "mom-pregnancy",
+      "adopt-pregnancy"
+     ],
+     "rating": "R",
+     "adult": "yes",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "daughter Rose born",
+     "kids_status": "yes",
+     "kids_note": "adopted daughter Lily",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — daughter Rose born",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Sex_and_the_City"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "match_title": "Sex and the City",
+     "match_year": "2008"
     }
    }
   },
@@ -77887,6 +78220,11 @@ window.CATALOG = {
    "pregnant_end": "yes",
    "pregnant_end_note": "by husband Derek; son Bailey born",
    "evidence": "2 sources on the card (Grey's Anatomy Fans, Vidan)",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "son Bailey born in the Season 9 finale; daughter Ellis born after Season 11",
    "format": "tv",
    "categories": [
     "adopt-pregnancy",
@@ -77900,18 +78238,28 @@ window.CATALOG = {
     {
      "label": "Vidan",
      "url": "https://vidan.org/a-complete-timeline-of-meredith-grey-and-derek-shepherds-iconic-love-story-on-greys-anatomy/"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Meredith_Grey"
+    },
+    {
+     "label": "Wikipedia (List of Grey%27s Anatomy characters)",
+     "url": "https://en.wikipedia.org/wiki/List_of_Grey%27s_Anatomy_characters"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "kids-pregnant-again"
    ],
    "source_records": [
     "xla62ucxbx02u5:466",
     "ig6qlxqxoxvcxla:388",
-    "mom-pregnancy:84"
+    "mom-pregnancy:84",
+    "kids-pregnant-again:12"
    ],
    "index_only": false,
    "local_only": false,
@@ -78006,6 +78354,50 @@ window.CATALOG = {
      "evidence": "2 sources on the card (Grey's Anatomy Fans, Vidan)",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "kids-pregnant-again:12",
+     "source": "kids-pregnant-again",
+     "label": "Grey's Anatomy (2005–)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Grey's Anatomy",
+     "subtitle": "",
+     "year": "2005–",
+     "meta": "TV series · United States · English",
+     "summary": "After adopting Zola, Meredith becomes pregnant with Derek's child again (Bailey, Season 9) and later with Ellis, born after Derek's death.",
+     "character": "Meredith Grey (Ellen Pompeo) and Derek Shepherd (Patrick Dempsey)",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "High · 2 Wikipedia articles",
+     "categories": [
+      "mom-pregnancy",
+      "adopt-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Meredith_Grey"
+      },
+      {
+       "label": "Wikipedia (List of Grey%27s Anatomy characters)",
+       "url": "https://en.wikipedia.org/wiki/List_of_Grey%27s_Anatomy_characters"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_note": "adopted daughter Zola (then Bailey)",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Bailey born in the Season 9 finale; daughter Ellis born after Season 11",
+     "evidence": "Wikipedia, Wikipedia (List of Grey%27s Anatomy characters)",
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Bailey born in the Season 9 finale; daughter Ellis born after Season 11",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -78068,6 +78460,43 @@ window.CATALOG = {
      "married": "yes",
      "married_note": "already married to Derek",
      "evidence": "2 sources on the card (Grey's Anatomy Fans, Vidan)"
+    },
+    "kids-pregnant-again:12": {
+     "title": "Grey's Anatomy",
+     "year": "2005–",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Meredith Grey (Ellen Pompeo) and Derek Shepherd (Patrick Dempsey)",
+     "summary": "After adopting Zola, Meredith becomes pregnant with Derek's child again (Bailey, Season 9) and later with Ellis, born after Derek's death.",
+     "categories": [
+      "mom-pregnancy",
+      "adopt-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Bailey born in the Season 9 finale; daughter Ellis born after Season 11",
+     "kids_status": "yes",
+     "kids_note": "adopted daughter Zola (then Bailey)",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Bailey born in the Season 9 finale; daughter Ellis born after Season 11",
+     "confidence_flag": "High · 2 Wikipedia articles",
+     "evidence": "Wikipedia, Wikipedia (List of Grey%27s Anatomy characters)",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Meredith_Grey"
+      },
+      {
+       "label": "Wikipedia (List of Grey%27s Anatomy characters)",
+       "url": "https://en.wikipedia.org/wiki/List_of_Grey%27s_Anatomy_characters"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "match_title": "Grey's Anatomy",
+     "match_year": "2005–"
     }
    }
   },
@@ -101816,26 +102245,48 @@ window.CATALOG = {
    "confidence_flag": "Medium confidence · depiction unconfirmed",
    "summary": "On her due date, Bernadette tells Howard that sex can induce labor and he volunteers. The dialogue verifies the intention, but whether intercourse is shown or only implied remains unconfirmed.",
    "character": "",
-   "provenance": "",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
    "note": "",
+   "kids_status": "yes",
+   "kids_note": "daughter Halley",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — son Neil born in Season 11",
+   "evidence": "Wikipedia, Wikipedia (Howard Wolowitz)",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "son Neil born in Season 11",
    "format": "tv",
    "categories": [
-    "pregnant-intimate"
+    "pregnant-intimate",
+    "mom-pregnancy"
    ],
    "sources": [
     {
      "label": "Big Bang Theory Wiki",
      "url": "https://bigbangtheory.fandom.com/wiki/The_Neonatal_Nomenclature"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Proposal_Proposal"
+    },
+    {
+     "label": "Wikipedia (Howard Wolowitz)",
+     "url": "https://en.wikipedia.org/wiki/Howard_Wolowitz"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "kids-pregnant-again"
    ],
    "source_records": [
     "xla62ucxbx02u5:629",
-    "ig6qlxqxoxvcxla:932"
+    "ig6qlxqxoxvcxla:932",
+    "kids-pregnant-again:15"
    ],
    "index_only": false,
    "local_only": false,
@@ -101892,6 +102343,49 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "The Big Bang Theory (2018)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kids-pregnant-again:15",
+     "source": "kids-pregnant-again",
+     "label": "The Big Bang Theory (2018)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Big Bang Theory",
+     "subtitle": "",
+     "year": "2018",
+     "meta": "TV series · United States · English",
+     "summary": "Soon after their daughter Halley, Bernadette is shocked to learn she is pregnant again (Season 11); son Neil is born in 'The Neonatal Nomenclature'.",
+     "character": "Bernadette (Melissa Rauch) and Howard Wolowitz (Simon Helberg)",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "High · 2 Wikipedia articles",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Proposal_Proposal"
+      },
+      {
+       "label": "Wikipedia (Howard Wolowitz)",
+       "url": "https://en.wikipedia.org/wiki/Howard_Wolowitz"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_note": "daughter Halley",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Neil born in Season 11",
+     "evidence": "Wikipedia, Wikipedia (Howard Wolowitz)",
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Neil born in Season 11",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -101921,6 +102415,42 @@ window.CATALOG = {
      "group": "Labor-induction discussion / attempted",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "kids-pregnant-again:15": {
+     "title": "The Big Bang Theory",
+     "year": "2018",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Bernadette (Melissa Rauch) and Howard Wolowitz (Simon Helberg)",
+     "summary": "Soon after their daughter Halley, Bernadette is shocked to learn she is pregnant again (Season 11); son Neil is born in 'The Neonatal Nomenclature'.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Neil born in Season 11",
+     "kids_status": "yes",
+     "kids_note": "daughter Halley",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Neil born in Season 11",
+     "confidence_flag": "High · 2 Wikipedia articles",
+     "evidence": "Wikipedia, Wikipedia (Howard Wolowitz)",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Proposal_Proposal"
+      },
+      {
+       "label": "Wikipedia (Howard Wolowitz)",
+       "url": "https://en.wikipedia.org/wiki/Howard_Wolowitz"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "match_title": "The Big Bang Theory",
+     "match_year": "2018"
     }
    }
   },
@@ -232901,6 +233431,11 @@ window.CATALOG = {
    "pregnant_end": "yes",
    "pregnant_end_note": "by husband Walt; daughter Holly born in Season 2",
    "evidence": "single source — Wikipedia: Pilot (Breaking Bad)",
+   "rating": "not stated in sources",
+   "adult": "yes",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "daughter Holly born at the end of Season 2",
    "format": "tv",
    "categories": [
     "pregnant-sex",
@@ -232910,16 +233445,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia: Pilot (Breaking Bad)",
      "url": "https://en.wikipedia.org/wiki/Pilot_(Breaking_Bad)"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Breaking_Bad"
+    },
+    {
+     "label": "Wikipedia (Walter White (Breaking Bad))",
+     "url": "https://en.wikipedia.org/wiki/Walter_White_(Breaking_Bad)"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "pregnant-intimacy",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "kids-pregnant-again"
    ],
    "source_records": [
     "pregnant-intimacy:38",
-    "mom-pregnancy:80"
+    "mom-pregnancy:80",
+    "kids-pregnant-again:9"
    ],
    "index_only": false,
    "local_only": true,
@@ -232997,6 +233542,49 @@ window.CATALOG = {
      "evidence": "single source — Wikipedia: Pilot (Breaking Bad)",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "kids-pregnant-again:9",
+     "source": "kids-pregnant-again",
+     "label": "Breaking Bad (2008)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Breaking Bad",
+     "subtitle": "",
+     "year": "2008",
+     "meta": "TV series · United States · English",
+     "summary": "Skyler is pregnant with the couple's second child when the series opens; Holly is born at the end of Season 2.",
+     "character": "Skyler (Anna Gunn) and Walter White (Bryan Cranston)",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "High · 2 Wikipedia articles",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Breaking_Bad"
+      },
+      {
+       "label": "Wikipedia (Walter White (Breaking Bad))",
+       "url": "https://en.wikipedia.org/wiki/Walter_White_(Breaking_Bad)"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_note": "teenage son Walter Jr.",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — daughter Holly born at the end of Season 2",
+     "evidence": "Wikipedia, Wikipedia (Walter White (Breaking Bad))",
+     "rating": "not stated in sources",
+     "adult": "yes",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "daughter Holly born at the end of Season 2",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -233056,6 +233644,42 @@ window.CATALOG = {
      "married": "yes",
      "married_note": "already married to Walt",
      "evidence": "single source — Wikipedia: Pilot (Breaking Bad)"
+    },
+    "kids-pregnant-again:9": {
+     "title": "Breaking Bad",
+     "year": "2008",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Skyler (Anna Gunn) and Walter White (Bryan Cranston)",
+     "summary": "Skyler is pregnant with the couple's second child when the series opens; Holly is born at the end of Season 2.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "yes",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "daughter Holly born at the end of Season 2",
+     "kids_status": "yes",
+     "kids_note": "teenage son Walter Jr.",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — daughter Holly born at the end of Season 2",
+     "confidence_flag": "High · 2 Wikipedia articles",
+     "evidence": "Wikipedia, Wikipedia (Walter White (Breaking Bad))",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Breaking_Bad"
+      },
+      {
+       "label": "Wikipedia (Walter White (Breaking Bad))",
+       "url": "https://en.wikipedia.org/wiki/Walter_White_(Breaking_Bad)"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "match_title": "Breaking Bad",
+     "match_year": "2008"
     }
    }
   },
@@ -233089,6 +233713,11 @@ window.CATALOG = {
    "pregnant_end": "yes",
    "pregnant_end_note": "by husband Don; son Gene born in Season 3",
    "evidence": "3 sources on the card (Mad Men wiki, Los Angeles Times recap, AMC episode guide (archived))",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "2",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "son Eugene ('Gene') born in Season 3, episode 5",
    "format": "tv",
    "categories": [
     "pregnant-sex",
@@ -233106,16 +233735,26 @@ window.CATALOG = {
     {
      "label": "AMC episode guide (archived)",
      "url": "https://web.archive.org/web/20130509030706/http:/www.amctv.com/shows/mad-men/episodes/season-2/meditations-in-an-emergency"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mad_Men_season_2"
+    },
+    {
+     "label": "Wikipedia (Betty Draper)",
+     "url": "https://en.wikipedia.org/wiki/Betty_Draper"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "pregnant-intimacy",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "kids-pregnant-again"
    ],
    "source_records": [
     "pregnant-intimacy:39",
-    "mom-pregnancy:81"
+    "mom-pregnancy:81",
+    "kids-pregnant-again:10"
    ],
    "index_only": false,
    "local_only": true,
@@ -233201,6 +233840,49 @@ window.CATALOG = {
      "evidence": "3 sources on the card (Mad Men wiki, Los Angeles Times recap, AMC episode guide (archived))",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "kids-pregnant-again:10",
+     "source": "kids-pregnant-again",
+     "label": "Mad Men (2008)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Mad Men",
+     "subtitle": "",
+     "year": "2008",
+     "meta": "TV series · United States · English",
+     "summary": "Separated from Don, Betty learns in the Season 2 finale that she is expecting another child and asks him to come home; Gene is born in Season 3.",
+     "character": "Betty (January Jones) and Don Draper (Jon Hamm)",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "High · 2 Wikipedia articles",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Mad_Men_season_2"
+      },
+      {
+       "label": "Wikipedia (Betty Draper)",
+       "url": "https://en.wikipedia.org/wiki/Betty_Draper"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_note": "Sally and Bobby",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Eugene ('Gene') born in Season 3, episode 5",
+     "evidence": "Wikipedia, Wikipedia (Betty Draper)",
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "2",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Eugene ('Gene') born in Season 3, episode 5",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -233268,6 +233950,42 @@ window.CATALOG = {
      "married": "yes",
      "married_note": "already married to Don",
      "evidence": "3 sources on the card (Mad Men wiki, Los Angeles Times recap, AMC episode guide (archived))"
+    },
+    "kids-pregnant-again:10": {
+     "title": "Mad Men",
+     "year": "2008",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Betty (January Jones) and Don Draper (Jon Hamm)",
+     "summary": "Separated from Don, Betty learns in the Season 2 finale that she is expecting another child and asks him to come home; Gene is born in Season 3.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "2",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Eugene ('Gene') born in Season 3, episode 5",
+     "kids_status": "yes",
+     "kids_note": "Sally and Bobby",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Eugene ('Gene') born in Season 3, episode 5",
+     "confidence_flag": "High · 2 Wikipedia articles",
+     "evidence": "Wikipedia, Wikipedia (Betty Draper)",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Mad_Men_season_2"
+      },
+      {
+       "label": "Wikipedia (Betty Draper)",
+       "url": "https://en.wikipedia.org/wiki/Betty_Draper"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "match_title": "Mad Men",
+     "match_year": "2008"
     }
    }
   },
@@ -234946,6 +235664,16 @@ window.CATALOG = {
    "kids_status": "no",
    "kids_note": "none before the marriage",
    "kids_together": "yes — daughter Krystina",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — daughter Krystina born in 1984",
+   "evidence": "Wikipedia, Wikipedia (List of Dynasty (1981 TV series) characters)",
+   "fit_note": "existing children are Blake's (Krystle's stepchildren); she had none of her own",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "2",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "daughter Krystina born in 1984",
    "format": "tv",
    "categories": [
     "agegap-marriage",
@@ -234963,20 +235691,111 @@ window.CATALOG = {
     {
      "label": "You Miserable Bitch",
      "url": "https://youmiserablebitch.com/blog/2022/9/5/dynasty-top-scenes-alexis-causes-krystles-miscarriage"
+    },
+    {
+     "label": "Wikipedia (List of Dynasty (1981 TV series) characters)",
+     "url": "https://en.wikipedia.org/wiki/List_of_Dynasty_(1981_TV_series)_characters"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "agegap-marriage"
+    "agegap-marriage",
+    "kids-pregnant-again"
    ],
    "source_records": [
-    "agegap-marriage:7"
+    "agegap-marriage:7",
+    "kids-pregnant-again:16"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "agegap-marriage:7",
+    "source": "agegap-marriage",
+    "label": "Dynasty · Krystle / Blake Carrington arc (1981–1989)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Dynasty",
+    "subtitle": "Krystle / Blake Carrington arc",
+    "year": "1981–1989",
+    "meta": "Prime-time soap · United States · English (ABC)",
+    "summary": "Krystle Jennings marries her much older oil-tycoon boss Blake Carrington, becoming stepmother to Fallon and Steven. Pregnant in S2, she loses the baby after a fall from her horse that Alexis provokes (S2E7 “The Miscarriage”); pregnant again in S4, she gives birth to daughter Krystina (December 1984, S5).",
+    "character": "Character: Krystle Carrington (Linda Evans) and Blake Carrington (John Forsythe)",
+    "note": "",
+    "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+    "confidence_flag": "High · 3 sources",
+    "categories": [
+     "agegap-marriage",
+     "stepmom-pregnancy"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Krystle_Carrington"
+     },
+     {
+      "label": "TheTVDB · S2E7 “The Miscarriage”",
+      "url": "https://www.thetvdb.com/series/dynasty/episodes/47298"
+     },
+     {
+      "label": "You Miserable Bitch",
+      "url": "https://youmiserablebitch.com/blog/2022/9/5/dynasty-top-scenes-alexis-causes-krystles-miscarriage"
+     }
+    ],
+    "pregnancy_outcome": "becomes pregnant by the end",
+    "pregnancy_note": "by her husband Blake — S2 miscarriage, then daughter Krystina born in S5",
+    "kids_status": "no",
+    "kids_note": "none before the marriage",
+    "kids_together": "yes — daughter Krystina",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "kids-pregnant-again:16",
+     "source": "kids-pregnant-again",
+     "label": "Dynasty (1981–1989)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dynasty",
+     "subtitle": "",
+     "year": "1981–1989",
+     "meta": "TV series · United States · English",
+     "summary": "Told she could no longer have children after a riding accident, Krystle is overjoyed to find she is pregnant again; Krystina is born in 1984.",
+     "character": "Krystle (Linda Evans) and Blake Carrington (John Forsythe)",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "High · 2 Wikipedia articles",
+     "categories": [
+      "stepmom-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Krystle_Carrington"
+      },
+      {
+       "label": "Wikipedia (List of Dynasty (1981 TV series) characters)",
+       "url": "https://en.wikipedia.org/wiki/List_of_Dynasty_(1981_TV_series)_characters"
+      }
+     ],
+     "kids_note": "stepchildren Fallon and Steven (Blake's)",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — daughter Krystina born in 1984",
+     "evidence": "Wikipedia, Wikipedia (List of Dynasty (1981 TV series) characters)",
+     "fit_note": "existing children are Blake's (Krystle's stepchildren); she had none of her own",
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "2",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "daughter Krystina born in 1984",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "agegap-marriage:7": {
      "title": "Dynasty",
@@ -235014,6 +235833,42 @@ window.CATALOG = {
      "kids_status": "no",
      "kids_note": "none before the marriage",
      "standalone": true
+    },
+    "kids-pregnant-again:16": {
+     "title": "Dynasty",
+     "year": "1981–1989",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Krystle (Linda Evans) and Blake Carrington (John Forsythe)",
+     "summary": "Told she could no longer have children after a riding accident, Krystle is overjoyed to find she is pregnant again; Krystina is born in 1984.",
+     "categories": [
+      "stepmom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "2",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "daughter Krystina born in 1984",
+     "kids_note": "stepchildren Fallon and Steven (Blake's)",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — daughter Krystina born in 1984",
+     "confidence_flag": "High · 2 Wikipedia articles",
+     "evidence": "Wikipedia, Wikipedia (List of Dynasty (1981 TV series) characters)",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Krystle_Carrington"
+      },
+      {
+       "label": "Wikipedia (List of Dynasty (1981 TV series) characters)",
+       "url": "https://en.wikipedia.org/wiki/List_of_Dynasty_(1981_TV_series)_characters"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "fit_note": "existing children are Blake's (Krystle's stepchildren); she had none of her own",
+     "match_title": "Dynasty",
+     "match_year": "1981–1989"
     }
    }
   },
@@ -235468,6 +236323,11 @@ window.CATALOG = {
    "pregnant_end": "yes",
    "pregnant_end_note": "by husband Jay; son Joe born in S4E12",
    "evidence": "3 sources on the card (Wikipedia — Modern Family characters, Wikipedia · “Party Crasher”, TV Fanatic · S4E12 recap)",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "son Joe born in Season 4",
    "format": "tv",
    "categories": [
     "agegap-marriage",
@@ -235492,11 +236352,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "agegap-marriage",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "kids-pregnant-again"
    ],
    "source_records": [
     "agegap-marriage:13",
-    "mom-pregnancy:62"
+    "mom-pregnancy:62",
+    "kids-pregnant-again:14"
    ],
    "index_only": false,
    "local_only": true,
@@ -235582,6 +236444,45 @@ window.CATALOG = {
      "evidence": "3 sources on the card (Wikipedia — Modern Family characters, Wikipedia · “Party Crasher”, TV Fanatic · S4E12 recap)",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "kids-pregnant-again:14",
+     "source": "kids-pregnant-again",
+     "label": "Modern Family (2009–2020)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Modern Family",
+     "subtitle": "",
+     "year": "2009–2020",
+     "meta": "TV series · United States · English",
+     "summary": "Gloria, mother of Manny, is revealed pregnant in the Season 3 finale; Joe is born in 'Party Crasher' (Season 4).",
+     "character": "Gloria (Sofía Vergara) and Jay Pritchett (Ed O'Neill)",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "High · Wikipedia",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/List_of_Modern_Family_characters"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_note": "Manny (plus Jay's adult children)",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Joe born in Season 4",
+     "evidence": "single source — Wikipedia",
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Joe born in Season 4",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -235649,6 +236550,38 @@ window.CATALOG = {
      "married": "yes",
      "married_note": "already married to Jay",
      "evidence": "3 sources on the card (Wikipedia — Modern Family characters, Wikipedia · “Party Crasher”, TV Fanatic · S4E12 recap)"
+    },
+    "kids-pregnant-again:14": {
+     "title": "Modern Family",
+     "year": "2009–2020",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Gloria (Sofía Vergara) and Jay Pritchett (Ed O'Neill)",
+     "summary": "Gloria, mother of Manny, is revealed pregnant in the Season 3 finale; Joe is born in 'Party Crasher' (Season 4).",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Joe born in Season 4",
+     "kids_status": "yes",
+     "kids_note": "Manny (plus Jay's adult children)",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Joe born in Season 4",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/List_of_Modern_Family_characters"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "match_title": "Modern Family",
+     "match_year": "2009–2020"
     }
    }
   },
@@ -238752,7 +239685,7 @@ window.CATALOG = {
    "year": "1995",
    "meta": "TV sitcom · United States · English · ABC",
    "mechanism": "",
-   "confidence_flag": "",
+   "confidence_flag": "High · Wikipedia",
    "summary": "Roseanne Conner, mother of Becky, Darlene and D.J., becomes pregnant again in her forties by husband Dan, whose sex life with her is a running theme. Son Jerry Garcia Conner is born on Halloween 1995 in Season 8.",
    "character": "Roseanne Conner",
    "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)",
@@ -238774,6 +239707,11 @@ window.CATALOG = {
    "pregnant_end": "yes",
    "pregnant_end_note": "by husband Dan; son Jerry Garcia Conner born in Season 8",
    "evidence": "2+ independent sources (Wikipedia, Roseanne wiki)",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "3",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "son Jerry Garcia Conner born in Season 8",
    "format": "tv",
    "categories": [
     "mom-pregnancy"
@@ -238790,20 +239728,118 @@ window.CATALOG = {
     {
      "label": "Roseanne fandom wiki",
      "url": "https://roseanne.fandom.com/wiki/Jerry_Garcia_Conner"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/List_of_Roseanne_and_The_Conners_characters"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "kids-pregnant-again"
    ],
    "source_records": [
-    "mom-pregnancy:2"
+    "mom-pregnancy:2",
+    "kids-pregnant-again:3"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "mom-pregnancy:2",
+    "source": "mom-pregnancy",
+    "label": "Roseanne · Roseanne / Dan · Jerry Garcia pregnancy arc (Seasons 7–8) (1995)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Roseanne",
+    "subtitle": "Roseanne / Dan · Jerry Garcia pregnancy arc (Seasons 7–8)",
+    "year": "1995",
+    "meta": "TV sitcom · United States · English · ABC",
+    "summary": "Roseanne Conner, mother of Becky, Darlene and D.J., becomes pregnant again in her forties by husband Dan, whose sex life with her is a running theme. Son Jerry Garcia Conner is born on Halloween 1995 in Season 8.",
+    "character": "Roseanne Conner",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "",
+    "categories": [
+     "mom-pregnancy"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Roseanne_Conner"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Roseanne_(TV_series)"
+     },
+     {
+      "label": "Roseanne fandom wiki",
+      "url": "https://roseanne.fandom.com/wiki/Jerry_Garcia_Conner"
+     }
+    ],
+    "episodes": [
+     {
+      "episode": "Season 7–8 arc",
+      "air_date": "1995",
+      "gist": "pregnancy with Dan's fourth child; Jerry Garcia born 31 Oct 1995 (in-story)",
+      "number_verified": false
+     }
+    ],
+    "kids_status": "yes",
+    "kids_note": "three: Becky, Darlene and D.J.",
+    "kids_together": "yes",
+    "kids_together_note": "Becky, Darlene, D.J. and Jerry",
+    "married": "yes",
+    "married_note": "already married to Dan",
+    "pregnant_end": "yes",
+    "pregnant_end_note": "by husband Dan; son Jerry Garcia Conner born in Season 8",
+    "evidence": "2+ independent sources (Wikipedia, Roseanne wiki)",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "kids-pregnant-again:3",
+     "source": "kids-pregnant-again",
+     "label": "Roseanne (1995)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Roseanne",
+     "subtitle": "",
+     "year": "1995",
+     "meta": "TV series · United States · English",
+     "summary": "Roseanne and Dan, parents of Becky, Darlene and D.J., have a fourth child in Season 8.",
+     "character": "Roseanne (Roseanne Barr) and Dan Conner (John Goodman)",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "High · Wikipedia",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/List_of_Roseanne_and_The_Conners_characters"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_note": "Becky, Darlene and D.J.",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Jerry Garcia Conner born in Season 8",
+     "evidence": "single source — Wikipedia",
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "3",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Jerry Garcia Conner born in Season 8",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "mom-pregnancy:2": {
      "title": "Roseanne",
@@ -238848,6 +239884,38 @@ window.CATALOG = {
       "mom-pregnancy"
      ],
      "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)"
+    },
+    "kids-pregnant-again:3": {
+     "title": "Roseanne",
+     "year": "1995",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Roseanne (Roseanne Barr) and Dan Conner (John Goodman)",
+     "summary": "Roseanne and Dan, parents of Becky, Darlene and D.J., have a fourth child in Season 8.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "3",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Jerry Garcia Conner born in Season 8",
+     "kids_status": "yes",
+     "kids_note": "Becky, Darlene and D.J.",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Jerry Garcia Conner born in Season 8",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/List_of_Roseanne_and_The_Conners_characters"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "match_title": "Roseanne",
+     "match_year": "1995"
     }
    }
   },
@@ -238858,7 +239926,7 @@ window.CATALOG = {
    "year": "1992–93",
    "meta": "TV sitcom · United States · English · NBC",
    "mechanism": "",
-   "confidence_flag": "",
+   "confidence_flag": "High · Wikipedia",
    "summary": "Vivian Banks, mother of Hilary, Carlton and Ashley, becomes pregnant by husband Philip in Season 3; son Nicky is born near the end of the season in “The Baby Comes Out”.",
    "character": "Vivian Banks",
    "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)",
@@ -238884,6 +239952,11 @@ window.CATALOG = {
    "pregnant_end_note": "by husband Philip; son Nicky born",
    "evidence": "2+ sources (Wikipedia: baby Nicky introduced in Season 3; Fresh Prince wiki: born to Philip and Vivian in “The Baby Comes Out”)",
    "fit_note": "Loose fit: a marital sitcom pregnancy with no affair; the couple's romance is played lightly.",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "3",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "son Nicholas 'Nicky' Banks born in 1993",
    "format": "tv",
    "categories": [
     "mom-pregnancy"
@@ -238900,20 +239973,122 @@ window.CATALOG = {
     {
      "label": "Fresh Prince fandom wiki (Vivian Banks)",
      "url": "https://freshprince.fandom.com/wiki/Vivian_Banks"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Philip_Banks_(The_Fresh_Prince_of_Bel-Air)"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "kids-pregnant-again"
    ],
    "source_records": [
-    "mom-pregnancy:3"
+    "mom-pregnancy:3",
+    "kids-pregnant-again:4"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "mom-pregnancy:3",
+    "source": "mom-pregnancy",
+    "label": "The Fresh Prince of Bel-Air · Vivian / Philip · Nicky pregnancy (Season 3) (1992–93)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "The Fresh Prince of Bel-Air",
+    "subtitle": "Vivian / Philip · Nicky pregnancy (Season 3)",
+    "year": "1992–93",
+    "meta": "TV sitcom · United States · English · NBC",
+    "summary": "Vivian Banks, mother of Hilary, Carlton and Ashley, becomes pregnant by husband Philip in Season 3; son Nicky is born near the end of the season in “The Baby Comes Out”.",
+    "character": "Vivian Banks",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "",
+    "categories": [
+     "mom-pregnancy"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Fresh_Prince_of_Bel-Air"
+     },
+     {
+      "label": "Fresh Prince fandom wiki (Nicky Banks)",
+      "url": "https://freshprince.fandom.com/wiki/Nicky_Banks"
+     },
+     {
+      "label": "Fresh Prince fandom wiki (Vivian Banks)",
+      "url": "https://freshprince.fandom.com/wiki/Vivian_Banks"
+     }
+    ],
+    "episodes": [
+     {
+      "episode": "Season 3 · “The Baby Comes Out”",
+      "air_date": "1993",
+      "gist": "Vivian gives birth to Nicky (22 Feb 1993 in-story)",
+      "number_verified": false
+     }
+    ],
+    "tags": [
+     "loose fit"
+    ],
+    "kids_status": "yes",
+    "kids_note": "three: Hilary, Carlton and Ashley",
+    "kids_together": "yes",
+    "kids_together_note": "Hilary, Carlton, Ashley and Nicky",
+    "married": "yes",
+    "married_note": "already married to Philip",
+    "pregnant_end": "yes",
+    "pregnant_end_note": "by husband Philip; son Nicky born",
+    "evidence": "2+ sources (Wikipedia: baby Nicky introduced in Season 3; Fresh Prince wiki: born to Philip and Vivian in “The Baby Comes Out”)",
+    "fit_note": "Loose fit: a marital sitcom pregnancy with no affair; the couple's romance is played lightly.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "kids-pregnant-again:4",
+     "source": "kids-pregnant-again",
+     "label": "The Fresh Prince of Bel-Air (1992–93)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Fresh Prince of Bel-Air",
+     "subtitle": "",
+     "year": "1992–93",
+     "meta": "TV series · United States · English",
+     "summary": "In the fall of 1992 Phil learns Vivian is pregnant with her fourth child; Nicky is born in 1993.",
+     "character": "Vivian (Daphne Reid) and Philip Banks (James Avery)",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "High · Wikipedia",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Philip_Banks_(The_Fresh_Prince_of_Bel-Air)"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_note": "Hilary, Carlton and Ashley",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Nicholas 'Nicky' Banks born in 1993",
+     "evidence": "single source — Wikipedia",
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "3",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Nicholas 'Nicky' Banks born in 1993",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "mom-pregnancy:3": {
      "title": "The Fresh Prince of Bel-Air",
@@ -238962,6 +240137,38 @@ window.CATALOG = {
       "mom-pregnancy"
      ],
      "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)"
+    },
+    "kids-pregnant-again:4": {
+     "title": "The Fresh Prince of Bel-Air",
+     "year": "1992–93",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Vivian (Daphne Reid) and Philip Banks (James Avery)",
+     "summary": "In the fall of 1992 Phil learns Vivian is pregnant with her fourth child; Nicky is born in 1993.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "3",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Nicholas 'Nicky' Banks born in 1993",
+     "kids_status": "yes",
+     "kids_note": "Hilary, Carlton and Ashley",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Nicholas 'Nicky' Banks born in 1993",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Philip_Banks_(The_Fresh_Prince_of_Bel-Air)"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "match_title": "The Fresh Prince of Bel-Air",
+     "match_year": "1992–93"
     }
    }
   },
@@ -239176,7 +240383,7 @@ window.CATALOG = {
    "year": "1989",
    "meta": "Feature film · United States · English",
    "mechanism": "",
-   "confidence_flag": "",
+   "confidence_flag": "High · Wikipedia plot",
    "summary": "Karen Buckman, mother of Kevin, Taylor and Justin, becomes pregnant with her fourth child by husband Gil. Gil's divorced sister Helen, mother of Julie and Garry, starts dating Garry's science teacher George Bowman, and the film ends at the hospital as Helen gives birth to a baby girl, with Gil and Karen now parents of four.",
    "character": "Karen Buckman (Mary Steenburgen); Helen Buckman (Dianne Wiest)",
    "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)",
@@ -239192,6 +240399,11 @@ window.CATALOG = {
    "evidence": "2+ independent sources (Wikipedia, IMDb plot summary, PlotExplained); Helen's baby's father is implied, not stated",
    "source_conflict": "Final hospital scene: Wikipedia and IMDb say it is Helen who gives birth to a baby girl; PlotExplained calls it the birth of Gil and Karen's fourth child.",
    "fit_note": "Teen daughter Julie's own pregnancy subplot is left out on purpose (adults only).",
+   "rating": "PG-13",
+   "adult": "no",
+   "existing_kids": "3",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "fourth child born in the closing hospital scene",
    "format": "movie",
    "categories": [
     "mom-pregnancy",
@@ -239213,16 +240425,105 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "kids-pregnant-again"
    ],
    "source_records": [
-    "mom-pregnancy:6"
+    "mom-pregnancy:6",
+    "kids-pregnant-again:1"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "mom-pregnancy:6",
+    "source": "mom-pregnancy",
+    "label": "Parenthood · Karen / Gil and Helen pregnancies (1989)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Parenthood",
+    "subtitle": "Karen / Gil and Helen pregnancies",
+    "year": "1989",
+    "meta": "Feature film · United States · English",
+    "summary": "Karen Buckman, mother of Kevin, Taylor and Justin, becomes pregnant with her fourth child by husband Gil. Gil's divorced sister Helen, mother of Julie and Garry, starts dating Garry's science teacher George Bowman, and the film ends at the hospital as Helen gives birth to a baby girl, with Gil and Karen now parents of four.",
+    "character": "Karen Buckman (Mary Steenburgen); Helen Buckman (Dianne Wiest)",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "",
+    "categories": [
+     "mom-pregnancy",
+     "family"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Parenthood_(film)"
+     },
+     {
+      "label": "IMDb plot summary",
+      "url": "https://www.imdb.com/title/tt0098067/plotsummary/"
+     },
+     {
+      "label": "PlotExplained",
+      "url": "https://www.plotexplained.com/movie/parenthood"
+     }
+    ],
+    "kids_status": "yes",
+    "kids_note": "Karen: three (Kevin, Taylor, Justin); Helen: two (Julie and Garry)",
+    "kids_together": "yes",
+    "kids_together_note": "Gil and Karen: Kevin, Taylor, Justin and the new baby; Helen and George: the new baby girl",
+    "married": "not stated",
+    "married_note": "Karen is married to Gil; whether Helen marries George is not stated",
+    "pregnant_end": "yes",
+    "pregnant_end_note": "Karen by husband Gil (fourth child born by the end); Helen gives birth to a girl at the end, by implication with new partner George Bowman (sources do not name the father)",
+    "evidence": "2+ independent sources (Wikipedia, IMDb plot summary, PlotExplained); Helen's baby's father is implied, not stated",
+    "source_conflict": "Final hospital scene: Wikipedia and IMDb say it is Helen who gives birth to a baby girl; PlotExplained calls it the birth of Gil and Karen's fourth child.",
+    "fit_note": "Teen daughter Julie's own pregnancy subplot is left out on purpose (adults only).",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "kids-pregnant-again:1",
+     "source": "kids-pregnant-again",
+     "label": "Parenthood (1989)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Parenthood",
+     "subtitle": "",
+     "year": "1989",
+     "meta": "Film · United States · English",
+     "summary": "Karen and Gil, already parents of three, learn she is pregnant with their fourth child; the film ends with the family at the hospital.",
+     "character": "Karen Buckman (Mary Steenburgen) and Gil (Steve Martin)",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "High · Wikipedia plot",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Parenthood_(film)"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_note": "Kevin, Taylor and Justin",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — fourth child born in the closing hospital scene",
+     "evidence": "single source — Wikipedia",
+     "rating": "PG-13",
+     "adult": "no",
+     "existing_kids": "3",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "fourth child born in the closing hospital scene",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "mom-pregnancy:6": {
      "title": "Parenthood",
@@ -239263,6 +240564,38 @@ window.CATALOG = {
       "family"
      ],
      "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)"
+    },
+    "kids-pregnant-again:1": {
+     "title": "Parenthood",
+     "year": "1989",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "character": "Karen Buckman (Mary Steenburgen) and Gil (Steve Martin)",
+     "summary": "Karen and Gil, already parents of three, learn she is pregnant with their fourth child; the film ends with the family at the hospital.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "PG-13",
+     "adult": "no",
+     "existing_kids": "3",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "fourth child born in the closing hospital scene",
+     "kids_status": "yes",
+     "kids_note": "Kevin, Taylor and Justin",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — fourth child born in the closing hospital scene",
+     "confidence_flag": "High · Wikipedia plot",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Parenthood_(film)"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "match_title": "Parenthood",
+     "match_year": "1989"
     }
    }
   },
@@ -239572,7 +240905,7 @@ window.CATALOG = {
    "year": "1968",
    "meta": "Feature film · United States · English",
    "mechanism": "",
-   "confidence_flag": "",
+   "confidence_flag": "High · Wikipedia plot",
    "summary": "Widowed nurse Helen North, mother of eight, marries widowed Navy officer Frank Beardsley, father of ten; Helen becomes pregnant, and the birth of their son Joseph finally unites the 18 children, who agree to be adopted under the Beardsley name.",
    "character": "Helen North Beardsley (Lucille Ball)",
    "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)",
@@ -239586,6 +240919,11 @@ window.CATALOG = {
    "pregnant_end": "yes",
    "pregnant_end_note": "pregnant by new husband Frank; son Joseph John born",
    "evidence": "2+ independent sources (Wikipedia, PlotExplained; TCM background)",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "18",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "son Joseph born",
    "format": "movie",
    "categories": [
     "mom-pregnancy",
@@ -239607,16 +240945,103 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "kids-pregnant-again"
    ],
    "source_records": [
-    "mom-pregnancy:10"
+    "mom-pregnancy:10",
+    "kids-pregnant-again:2"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "mom-pregnancy:10",
+    "source": "mom-pregnancy",
+    "label": "Yours, Mine and Ours (1968)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Yours, Mine and Ours",
+    "subtitle": "",
+    "year": "1968",
+    "meta": "Feature film · United States · English",
+    "summary": "Widowed nurse Helen North, mother of eight, marries widowed Navy officer Frank Beardsley, father of ten; Helen becomes pregnant, and the birth of their son Joseph finally unites the 18 children, who agree to be adopted under the Beardsley name.",
+    "character": "Helen North Beardsley (Lucille Ball)",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "",
+    "categories": [
+     "mom-pregnancy",
+     "family"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yours,_Mine_and_Ours_(1968_film)"
+     },
+     {
+      "label": "TCM article",
+      "url": "https://www.tcm.com/articles/18945/yours-mine-and-ours-1968"
+     },
+     {
+      "label": "PlotExplained",
+      "url": "https://www.plotexplained.com/movie/yours-mine-andours-1968"
+     }
+    ],
+    "kids_status": "yes",
+    "kids_note": "eight children from her first marriage",
+    "kids_together": "yes",
+    "kids_together_note": "son Joseph",
+    "married": "yes",
+    "married_note": "marries Frank",
+    "pregnant_end": "yes",
+    "pregnant_end_note": "pregnant by new husband Frank; son Joseph John born",
+    "evidence": "2+ independent sources (Wikipedia, PlotExplained; TCM background)",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "kids-pregnant-again:2",
+     "source": "kids-pregnant-again",
+     "label": "Yours, Mine and Ours (1968)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Yours, Mine and Ours",
+     "subtitle": "",
+     "year": "1968",
+     "meta": "Film · United States · English",
+     "summary": "Widowed Helen (8 children) marries widower Frank (10 children); her pregnancy and the birth of their son unite the blended family of 18.",
+     "character": "Helen North (Lucille Ball) and Frank Beardsley (Henry Fonda)",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "High · Wikipedia plot",
+     "categories": [
+      "mom-pregnancy",
+      "family"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Yours,_Mine_and_Ours_(1968_film)"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_note": "8 hers and 10 his",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Joseph born",
+     "evidence": "single source — Wikipedia",
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "18",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Joseph born",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "mom-pregnancy:10": {
      "title": "Yours, Mine and Ours",
@@ -239653,6 +241078,39 @@ window.CATALOG = {
       "family"
      ],
      "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)"
+    },
+    "kids-pregnant-again:2": {
+     "title": "Yours, Mine and Ours",
+     "year": "1968",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "character": "Helen North (Lucille Ball) and Frank Beardsley (Henry Fonda)",
+     "summary": "Widowed Helen (8 children) marries widower Frank (10 children); her pregnancy and the birth of their son unite the blended family of 18.",
+     "categories": [
+      "mom-pregnancy",
+      "family"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "18",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Joseph born",
+     "kids_status": "yes",
+     "kids_note": "8 hers and 10 his",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Joseph born",
+     "confidence_flag": "High · Wikipedia plot",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Yours,_Mine_and_Ours_(1968_film)"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "match_title": "Yours, Mine and Ours",
+     "match_year": "1968"
     }
    }
   },
@@ -240083,7 +241541,7 @@ window.CATALOG = {
    "year": "2007",
    "meta": "TV series · United States · English · NBC",
    "mechanism": "",
-   "confidence_flag": "",
+   "confidence_flag": "High · Wikipedia",
    "summary": "Tami Taylor, mother of teenage Julie, becomes pregnant by husband Eric near the end of Season 1; daughter Gracie Belle is born before Season 2 opens, with Tami at home in Dillon with the newborn while Eric coaches in Austin.",
    "character": "Tami Taylor (Connie Britton)",
    "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)",
@@ -240105,6 +241563,11 @@ window.CATALOG = {
    "pregnant_end": "yes",
    "pregnant_end_note": "by husband Eric; daughter Gracie Belle born (summer 2007 in-story)",
    "evidence": "2+ independent sources (Wikipedia, Friday Night Lights wiki)",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "daughter Gracie Belle born before Season 2",
    "format": "tv",
    "categories": [
     "mom-pregnancy"
@@ -240117,20 +241580,114 @@ window.CATALOG = {
     {
      "label": "Friday Night Lights fandom wiki",
      "url": "https://fridaynightlights.fandom.com/wiki/Tami_Taylor"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/State_(Friday_Night_Lights)"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "kids-pregnant-again"
    ],
    "source_records": [
-    "mom-pregnancy:15"
+    "mom-pregnancy:15",
+    "kids-pregnant-again:5"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "mom-pregnancy:15",
+    "source": "mom-pregnancy",
+    "label": "Friday Night Lights · Tami / Eric Taylor · Gracie pregnancy (Seasons 1–2) (2007)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Friday Night Lights",
+    "subtitle": "Tami / Eric Taylor · Gracie pregnancy (Seasons 1–2)",
+    "year": "2007",
+    "meta": "TV series · United States · English · NBC",
+    "summary": "Tami Taylor, mother of teenage Julie, becomes pregnant by husband Eric near the end of Season 1; daughter Gracie Belle is born before Season 2 opens, with Tami at home in Dillon with the newborn while Eric coaches in Austin.",
+    "character": "Tami Taylor (Connie Britton)",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "",
+    "categories": [
+     "mom-pregnancy"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Friday_Night_Lights_(TV_series)"
+     },
+     {
+      "label": "Friday Night Lights fandom wiki",
+      "url": "https://fridaynightlights.fandom.com/wiki/Tami_Taylor"
+     }
+    ],
+    "episodes": [
+     {
+      "episode": "Late Season 1 → Season 2 premiere",
+      "air_date": "2007",
+      "gist": "Tami's pregnancy; Gracie born between seasons",
+      "number_verified": false
+     }
+    ],
+    "kids_status": "yes",
+    "kids_note": "one daughter, Julie",
+    "kids_together": "yes",
+    "kids_together_note": "Julie and Gracie",
+    "married": "yes",
+    "married_note": "already married to Eric",
+    "pregnant_end": "yes",
+    "pregnant_end_note": "by husband Eric; daughter Gracie Belle born (summer 2007 in-story)",
+    "evidence": "2+ independent sources (Wikipedia, Friday Night Lights wiki)",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "kids-pregnant-again:5",
+     "source": "kids-pregnant-again",
+     "label": "Friday Night Lights (2007)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Friday Night Lights",
+     "subtitle": "",
+     "year": "2007",
+     "meta": "TV series · United States · English",
+     "summary": "After trying for over a decade for another baby, Tami learns in the Season 1 finale 'State' that she is pregnant; daughter Gracie Belle follows.",
+     "character": "Tami (Connie Britton) and Eric Taylor (Kyle Chandler)",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "High · Wikipedia",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/State_(Friday_Night_Lights)"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_note": "teenage daughter Julie",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — daughter Gracie Belle born before Season 2",
+     "evidence": "single source — Wikipedia",
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "daughter Gracie Belle born before Season 2",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "mom-pregnancy:15": {
      "title": "Friday Night Lights",
@@ -240171,6 +241728,38 @@ window.CATALOG = {
       "mom-pregnancy"
      ],
      "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)"
+    },
+    "kids-pregnant-again:5": {
+     "title": "Friday Night Lights",
+     "year": "2007",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Tami (Connie Britton) and Eric Taylor (Kyle Chandler)",
+     "summary": "After trying for over a decade for another baby, Tami learns in the Season 1 finale 'State' that she is pregnant; daughter Gracie Belle follows.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "daughter Gracie Belle born before Season 2",
+     "kids_status": "yes",
+     "kids_note": "teenage daughter Julie",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — daughter Gracie Belle born before Season 2",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/State_(Friday_Night_Lights)"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "match_title": "Friday Night Lights",
+     "match_year": "2007"
     }
    }
   },
@@ -240181,7 +241770,7 @@ window.CATALOG = {
    "year": "1988",
    "meta": "TV sitcom · United States · English · ABC",
    "mechanism": "",
-   "confidence_flag": "",
+   "confidence_flag": "High · Wikipedia",
    "summary": "Maggie Seaver, mother of Mike, Carol and Ben, becomes pregnant by husband Jason in Season 3; daughter Chrissy is born at the start of Season 4 (“Birth of a Seaver”), a day after Ben's 12th birthday.",
    "character": "Maggie Seaver",
    "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)",
@@ -240207,6 +241796,11 @@ window.CATALOG = {
    "pregnant_end_note": "by husband Jason; daughter Chrissy born",
    "evidence": "2+ independent sources (Wikipedia, Growing Pains wiki)",
    "fit_note": "Loose fit: a marital sitcom pregnancy with no affair.",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "3",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "daughter Chrissy born at the start of Season 4",
    "format": "tv",
    "categories": [
     "mom-pregnancy"
@@ -240223,16 +241817,110 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "kids-pregnant-again"
    ],
    "source_records": [
-    "mom-pregnancy:16"
+    "mom-pregnancy:16",
+    "kids-pregnant-again:6"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "mom-pregnancy:16",
+    "source": "mom-pregnancy",
+    "label": "Growing Pains · Maggie / Jason · Chrissy pregnancy (Seasons 3–4) (1988)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Growing Pains",
+    "subtitle": "Maggie / Jason · Chrissy pregnancy (Seasons 3–4)",
+    "year": "1988",
+    "meta": "TV sitcom · United States · English · ABC",
+    "summary": "Maggie Seaver, mother of Mike, Carol and Ben, becomes pregnant by husband Jason in Season 3; daughter Chrissy is born at the start of Season 4 (“Birth of a Seaver”), a day after Ben's 12th birthday.",
+    "character": "Maggie Seaver",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "",
+    "categories": [
+     "mom-pregnancy"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Growing_Pains"
+     },
+     {
+      "label": "Growing Pains fandom wiki",
+      "url": "https://growing-pains.fandom.com/wiki/Chrissy_Seaver"
+     }
+    ],
+    "episodes": [
+     {
+      "episode": "Season 3 arc → Season 4 “Birth of a Seaver”",
+      "air_date": "1988",
+      "gist": "pregnancy storyline; Chrissy born at the start of Season 4",
+      "number_verified": false
+     }
+    ],
+    "tags": [
+     "loose fit"
+    ],
+    "kids_status": "yes",
+    "kids_note": "three: Mike, Carol and Ben",
+    "kids_together": "yes",
+    "kids_together_note": "Mike, Carol, Ben and Chrissy",
+    "married": "yes",
+    "married_note": "already married to Jason",
+    "pregnant_end": "yes",
+    "pregnant_end_note": "by husband Jason; daughter Chrissy born",
+    "evidence": "2+ independent sources (Wikipedia, Growing Pains wiki)",
+    "fit_note": "Loose fit: a marital sitcom pregnancy with no affair.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "kids-pregnant-again:6",
+     "source": "kids-pregnant-again",
+     "label": "Growing Pains (1988)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Growing Pains",
+     "subtitle": "",
+     "year": "1988",
+     "meta": "TV series · United States · English",
+     "summary": "A fourth child for the Seavers: Chrissy is born at the start of Season 4.",
+     "character": "Maggie (Joanna Kerns) and Jason Seaver (Alan Thicke)",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "High · Wikipedia",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Growing_Pains"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_note": "Mike, Carol and Ben",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — daughter Chrissy born at the start of Season 4",
+     "evidence": "single source — Wikipedia",
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "3",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "daughter Chrissy born at the start of Season 4",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "mom-pregnancy:16": {
      "title": "Growing Pains",
@@ -240277,6 +241965,38 @@ window.CATALOG = {
       "mom-pregnancy"
      ],
      "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)"
+    },
+    "kids-pregnant-again:6": {
+     "title": "Growing Pains",
+     "year": "1988",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Maggie (Joanna Kerns) and Jason Seaver (Alan Thicke)",
+     "summary": "A fourth child for the Seavers: Chrissy is born at the start of Season 4.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "3",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "daughter Chrissy born at the start of Season 4",
+     "kids_status": "yes",
+     "kids_note": "Mike, Carol and Ben",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — daughter Chrissy born at the start of Season 4",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Growing_Pains"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "match_title": "Growing Pains",
+     "match_year": "1988"
     }
    }
   },
@@ -240287,7 +242007,7 @@ window.CATALOG = {
    "year": "1984–85",
    "meta": "TV sitcom · United States · English · NBC",
    "mechanism": "",
-   "confidence_flag": "",
+   "confidence_flag": "High · Wikipedia",
    "summary": "Elyse Keaton, mother of Alex, Mallory and Jennifer, learns in “Here We Go Again” that she is pregnant by husband Steven (written around Meredith Baxter's real pregnancy); son Andrew is born in early 1985 and she quits her architecture firm.",
    "character": "Elyse Keaton",
    "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)",
@@ -240313,6 +242033,11 @@ window.CATALOG = {
    "pregnant_end_note": "by husband Steven; son Andrew born",
    "evidence": "2+ independent sources (Wikipedia, Family Ties wiki)",
    "fit_note": "Loose fit: a marital sitcom pregnancy with no affair.",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "3",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "son Andrew born early 1985",
    "format": "tv",
    "categories": [
     "mom-pregnancy"
@@ -240329,16 +242054,110 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "kids-pregnant-again"
    ],
    "source_records": [
-    "mom-pregnancy:17"
+    "mom-pregnancy:17",
+    "kids-pregnant-again:7"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "mom-pregnancy:17",
+    "source": "mom-pregnancy",
+    "label": "Family Ties · Elyse / Steven · Andrew pregnancy (Season 3) (1984–85)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Family Ties",
+    "subtitle": "Elyse / Steven · Andrew pregnancy (Season 3)",
+    "year": "1984–85",
+    "meta": "TV sitcom · United States · English · NBC",
+    "summary": "Elyse Keaton, mother of Alex, Mallory and Jennifer, learns in “Here We Go Again” that she is pregnant by husband Steven (written around Meredith Baxter's real pregnancy); son Andrew is born in early 1985 and she quits her architecture firm.",
+    "character": "Elyse Keaton",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "",
+    "categories": [
+     "mom-pregnancy"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Family_Ties"
+     },
+     {
+      "label": "Family Ties fandom wiki",
+      "url": "https://familyties.fandom.com/wiki/Elyse_Keaton"
+     }
+    ],
+    "episodes": [
+     {
+      "episode": "Season 3 · “Here We Go Again” → Andrew's birth",
+      "air_date": "1984–85",
+      "gist": "pregnancy revealed; Andrew born in early 1985",
+      "number_verified": false
+     }
+    ],
+    "tags": [
+     "loose fit"
+    ],
+    "kids_status": "yes",
+    "kids_note": "three: Alex, Mallory and Jennifer",
+    "kids_together": "yes",
+    "kids_together_note": "Alex, Mallory, Jennifer and Andrew",
+    "married": "yes",
+    "married_note": "already married to Steven",
+    "pregnant_end": "yes",
+    "pregnant_end_note": "by husband Steven; son Andrew born",
+    "evidence": "2+ independent sources (Wikipedia, Family Ties wiki)",
+    "fit_note": "Loose fit: a marital sitcom pregnancy with no affair.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "kids-pregnant-again:7",
+     "source": "kids-pregnant-again",
+     "label": "Family Ties (1984–85)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Family Ties",
+     "subtitle": "",
+     "year": "1984–85",
+     "meta": "TV series · United States · English",
+     "summary": "Steven and Elyse have a fourth child, Andrew, born in early 1985 (written around Baxter's real pregnancy).",
+     "character": "Elyse (Meredith Baxter) and Steven Keaton (Michael Gross)",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "High · Wikipedia",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Family_Ties"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_note": "Alex, Mallory and Jennifer",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Andrew born early 1985",
+     "evidence": "single source — Wikipedia",
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "3",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Andrew born early 1985",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "mom-pregnancy:17": {
      "title": "Family Ties",
@@ -240383,6 +242202,38 @@ window.CATALOG = {
       "mom-pregnancy"
      ],
      "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)"
+    },
+    "kids-pregnant-again:7": {
+     "title": "Family Ties",
+     "year": "1984–85",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Elyse (Meredith Baxter) and Steven Keaton (Michael Gross)",
+     "summary": "Steven and Elyse have a fourth child, Andrew, born in early 1985 (written around Baxter's real pregnancy).",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "3",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Andrew born early 1985",
+     "kids_status": "yes",
+     "kids_note": "Alex, Mallory and Jennifer",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Andrew born early 1985",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Family_Ties"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "match_title": "Family Ties",
+     "match_year": "1984–85"
     }
    }
   },
@@ -240393,7 +242244,7 @@ window.CATALOG = {
    "year": "2010",
    "meta": "TV series · United Kingdom · English · ITV",
    "mechanism": "",
-   "confidence_flag": "",
+   "confidence_flag": "High · Wikipedia",
    "summary": "Cora, Countess of Grantham, mother of adult daughters Mary, Edith and Sybil, becomes pregnant by husband Robert for the first time in eighteen years, which could produce a male heir; she miscarries after slipping on a bar of soap left by her maid O'Brien.",
    "character": "Cora Crawley, Countess of Grantham",
    "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)",
@@ -240415,6 +242266,11 @@ window.CATALOG = {
    "pregnant_end": "yes",
    "pregnant_end_note": "pregnant by husband Robert; miscarriage (a boy)",
    "evidence": "2+ independent sources (Wikipedia list of characters, Downton Abbey wiki)",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "3",
+   "pregnancy_again": "miscarriage",
+   "pregnancy_again_note": "miscarried after slipping on soap left by O'Brien",
    "format": "tv",
    "categories": [
     "mom-pregnancy"
@@ -240427,20 +242283,114 @@ window.CATALOG = {
     {
      "label": "Downton Abbey fandom wiki",
      "url": "https://downtonabbey.fandom.com/wiki/Cora_Crawley"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Downton_Abbey"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "kids-pregnant-again"
    ],
    "source_records": [
-    "mom-pregnancy:18"
+    "mom-pregnancy:18",
+    "kids-pregnant-again:8"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "mom-pregnancy:18",
+    "source": "mom-pregnancy",
+    "label": "Downton Abbey · Series 1 · Cora / Robert pregnancy (2010)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Downton Abbey",
+    "subtitle": "Series 1 · Cora / Robert pregnancy",
+    "year": "2010",
+    "meta": "TV series · United Kingdom · English · ITV",
+    "summary": "Cora, Countess of Grantham, mother of adult daughters Mary, Edith and Sybil, becomes pregnant by husband Robert for the first time in eighteen years, which could produce a male heir; she miscarries after slipping on a bar of soap left by her maid O'Brien.",
+    "character": "Cora Crawley, Countess of Grantham",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "",
+    "categories": [
+     "mom-pregnancy"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_Downton_Abbey_characters"
+     },
+     {
+      "label": "Downton Abbey fandom wiki",
+      "url": "https://downtonabbey.fandom.com/wiki/Cora_Crawley"
+     }
+    ],
+    "episodes": [
+     {
+      "episode": "Series 1, episodes 6–7",
+      "air_date": "2010",
+      "gist": "pregnancy after 18 years; miscarriage caused by O'Brien's soap",
+      "number_verified": false
+     }
+    ],
+    "kids_status": "yes",
+    "kids_note": "three adult daughters: Mary, Edith and Sybil",
+    "kids_together": "yes",
+    "kids_together_note": "Mary, Edith and Sybil",
+    "married": "yes",
+    "married_note": "already married to Robert",
+    "pregnant_end": "yes",
+    "pregnant_end_note": "pregnant by husband Robert; miscarriage (a boy)",
+    "evidence": "2+ independent sources (Wikipedia list of characters, Downton Abbey wiki)",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "kids-pregnant-again:8",
+     "source": "kids-pregnant-again",
+     "label": "Downton Abbey (2010)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Downton Abbey",
+     "subtitle": "",
+     "year": "2010",
+     "meta": "TV series · United Kingdom · English",
+     "summary": "Cora, mother of three adult daughters, becomes pregnant again, raising hopes of a male heir, but she miscarries after a fall.",
+     "character": "Cora (Elizabeth McGovern) and Robert Crawley (Hugh Bonneville)",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "High · Wikipedia",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Downton_Abbey"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_note": "Mary, Edith and Sybil (adults)",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "miscarriage — miscarried after slipping on soap left by O'Brien",
+     "evidence": "single source — Wikipedia",
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "3",
+     "pregnancy_again": "miscarriage",
+     "pregnancy_again_note": "miscarried after slipping on soap left by O'Brien",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "mom-pregnancy:18": {
      "title": "Downton Abbey",
@@ -240481,6 +242431,38 @@ window.CATALOG = {
       "mom-pregnancy"
      ],
      "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)"
+    },
+    "kids-pregnant-again:8": {
+     "title": "Downton Abbey",
+     "year": "2010",
+     "format": "tv",
+     "meta": "TV series · United Kingdom · English",
+     "character": "Cora (Elizabeth McGovern) and Robert Crawley (Hugh Bonneville)",
+     "summary": "Cora, mother of three adult daughters, becomes pregnant again, raising hopes of a male heir, but she miscarries after a fall.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "3",
+     "pregnancy_again": "miscarriage",
+     "pregnancy_again_note": "miscarried after slipping on soap left by O'Brien",
+     "kids_status": "yes",
+     "kids_note": "Mary, Edith and Sybil (adults)",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "miscarriage — miscarried after slipping on soap left by O'Brien",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Downton_Abbey"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "match_title": "Downton Abbey",
+     "match_year": "2010"
     }
    }
   },
@@ -241345,6 +243327,4877 @@ window.CATALOG = {
      "catalog_ids": []
     }
    }
+  },
+  {
+   "id": 2000,
+   "title": "Marley & Me",
+   "subtitle": "",
+   "year": "2008",
+   "meta": "Film · United States · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia plot",
+   "summary": "After first son Patrick, Jenny and John's family keeps growing: a second son, Conor, then a daughter, Colleen.",
+   "character": "Jenny (Jennifer Aniston) and John Grogan (Owen Wilson)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "son Patrick (then Conor)",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — son Conor, later daughter Colleen",
+   "evidence": "single source — Wikipedia",
+   "rating": "PG",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "son Conor, later daughter Colleen",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Marley_%26_Me_(film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:17"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:17": {
+     "title": "Marley & Me",
+     "year": "2008",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "character": "Jenny (Jennifer Aniston) and John Grogan (Owen Wilson)",
+     "summary": "After first son Patrick, Jenny and John's family keeps growing: a second son, Conor, then a daughter, Colleen.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "PG",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Conor, later daughter Colleen",
+     "kids_status": "yes",
+     "kids_note": "son Patrick (then Conor)",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Conor, later daughter Colleen",
+     "confidence_flag": "High · Wikipedia plot",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Marley_%26_Me_(film)"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2001,
+   "title": "The Five-Year Engagement",
+   "subtitle": "",
+   "year": "2012",
+   "meta": "Film · United States · English",
+   "mechanism": "",
+   "confidence_flag": "Medium · Wikipedia plot",
+   "summary": "Alex and Suzie, who married quickly after an unplanned pregnancy, return with daughter Vanessa and reveal Suzie is pregnant again.",
+   "character": "Suzie (Alison Brie) and Alex (Chris Pratt)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "daughter Vanessa",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "ongoing — announced near the end",
+   "evidence": "single source — Wikipedia",
+   "rating": "R",
+   "adult": "yes",
+   "existing_kids": "1",
+   "pregnancy_again": "ongoing",
+   "pregnancy_again_note": "announced near the end",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Five-Year_Engagement"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:18"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:18": {
+     "title": "The Five-Year Engagement",
+     "year": "2012",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "character": "Suzie (Alison Brie) and Alex (Chris Pratt)",
+     "summary": "Alex and Suzie, who married quickly after an unplanned pregnancy, return with daughter Vanessa and reveal Suzie is pregnant again.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "R",
+     "adult": "yes",
+     "existing_kids": "1",
+     "pregnancy_again": "ongoing",
+     "pregnancy_again_note": "announced near the end",
+     "kids_status": "yes",
+     "kids_note": "daughter Vanessa",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "ongoing — announced near the end",
+     "confidence_flag": "Medium · Wikipedia plot",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Five-Year_Engagement"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2002,
+   "title": "Fifty Shades Freed",
+   "subtitle": "",
+   "year": "2018",
+   "meta": "Film · United States · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia plot",
+   "summary": "The erotic-romance trilogy ends with the married couple's son Teddy and Ana already pregnant with their second child.",
+   "character": "Anastasia Steele (Dakota Johnson) and Christian Grey (Jamie Dornan)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "son Teddy",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "ongoing — second pregnancy shown in the epilogue",
+   "evidence": "single source — Wikipedia",
+   "rating": "R",
+   "adult": "yes (erotic romance)",
+   "existing_kids": "1",
+   "pregnancy_again": "ongoing",
+   "pregnancy_again_note": "second pregnancy shown in the epilogue",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Fifty_Shades_Freed_(film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:19"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:19": {
+     "title": "Fifty Shades Freed",
+     "year": "2018",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "character": "Anastasia Steele (Dakota Johnson) and Christian Grey (Jamie Dornan)",
+     "summary": "The erotic-romance trilogy ends with the married couple's son Teddy and Ana already pregnant with their second child.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "R",
+     "adult": "yes (erotic romance)",
+     "existing_kids": "1",
+     "pregnancy_again": "ongoing",
+     "pregnancy_again_note": "second pregnancy shown in the epilogue",
+     "kids_status": "yes",
+     "kids_note": "son Teddy",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "ongoing — second pregnancy shown in the epilogue",
+     "confidence_flag": "High · Wikipedia plot",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Fifty_Shades_Freed_(film)"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2003,
+   "title": "Furious 7",
+   "subtitle": "",
+   "year": "2015",
+   "meta": "Film · United States · English",
+   "mechanism": "",
+   "confidence_flag": "Medium · Wikipedia plot",
+   "summary": "Brian retires to be with Mia and their son, with another baby on the way.",
+   "character": "Mia Toretto (Jordana Brewster) and Brian O'Conner (Paul Walker)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "son Jack",
+   "married": "no",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "ongoing — another baby on the way at the end",
+   "evidence": "single source — Wikipedia",
+   "rating": "PG-13",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "ongoing",
+   "pregnancy_again_note": "another baby on the way at the end",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Furious_7"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:20"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:20": {
+     "title": "Furious 7",
+     "year": "2015",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "character": "Mia Toretto (Jordana Brewster) and Brian O'Conner (Paul Walker)",
+     "summary": "Brian retires to be with Mia and their son, with another baby on the way.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "PG-13",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "ongoing",
+     "pregnancy_again_note": "another baby on the way at the end",
+     "kids_status": "yes",
+     "kids_note": "son Jack",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "ongoing — another baby on the way at the end",
+     "confidence_flag": "Medium · Wikipedia plot",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Furious_7"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "no",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2004,
+   "title": "Ip Man 2",
+   "subtitle": "",
+   "year": "2010",
+   "meta": "Film · Hong Kong · Cantonese",
+   "mechanism": "",
+   "confidence_flag": "Medium-high · Wikipedia",
+   "summary": "Ip's wife, mother of their son, is pregnant with their second child and goes into labour as he prepares for his final match.",
+   "character": "Cheung Wing-sing (Lynn Hung) and Ip Man (Donnie Yen)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "son Ip Chun",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — goes into labour during the climax; second son born",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "goes into labour during the climax; second son born",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ip_Man_2"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:21"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:21": {
+     "title": "Ip Man 2",
+     "year": "2010",
+     "format": "movie",
+     "meta": "Film · Hong Kong · Cantonese",
+     "character": "Cheung Wing-sing (Lynn Hung) and Ip Man (Donnie Yen)",
+     "summary": "Ip's wife, mother of their son, is pregnant with their second child and goes into labour as he prepares for his final match.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "goes into labour during the climax; second son born",
+     "kids_status": "yes",
+     "kids_note": "son Ip Chun",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — goes into labour during the climax; second son born",
+     "confidence_flag": "Medium-high · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Ip_Man_2"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2005,
+   "title": "Patriot Games",
+   "subtitle": "",
+   "year": "1992",
+   "meta": "Film · United States · English",
+   "mechanism": "",
+   "confidence_flag": "Medium · Wikipedia plot",
+   "summary": "Jack learns Cathy is pregnant again shortly before terrorists target the family.",
+   "character": "Cathy (Anne Archer) and Jack Ryan (Harrison Ford)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "daughter Sally",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "ongoing — pregnancy continues through the film",
+   "evidence": "single source — Wikipedia",
+   "rating": "R",
+   "adult": "yes (R, violence)",
+   "existing_kids": "1",
+   "pregnancy_again": "ongoing",
+   "pregnancy_again_note": "pregnancy continues through the film",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Patriot_Games_(film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:22"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:22": {
+     "title": "Patriot Games",
+     "year": "1992",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "character": "Cathy (Anne Archer) and Jack Ryan (Harrison Ford)",
+     "summary": "Jack learns Cathy is pregnant again shortly before terrorists target the family.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "R",
+     "adult": "yes (R, violence)",
+     "existing_kids": "1",
+     "pregnancy_again": "ongoing",
+     "pregnancy_again_note": "pregnancy continues through the film",
+     "kids_status": "yes",
+     "kids_note": "daughter Sally",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "ongoing — pregnancy continues through the film",
+     "confidence_flag": "Medium · Wikipedia plot",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Patriot_Games_(film)"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2006,
+   "title": "Dragon: The Bruce Lee Story",
+   "subtitle": "",
+   "year": "1993",
+   "meta": "Film · United States · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "After son Brandon, Linda tells Bruce at a cast party that she is pregnant with their second child, Shannon.",
+   "character": "Linda Lee (Lauren Holly) and Bruce Lee (Jason Scott Lee)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "son Brandon",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — daughter Shannon (biopic)",
+   "evidence": "single source — Wikipedia",
+   "rating": "PG-13",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "daughter Shannon (biopic)",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Dragon:_The_Bruce_Lee_Story"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:23"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:23": {
+     "title": "Dragon: The Bruce Lee Story",
+     "year": "1993",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "character": "Linda Lee (Lauren Holly) and Bruce Lee (Jason Scott Lee)",
+     "summary": "After son Brandon, Linda tells Bruce at a cast party that she is pregnant with their second child, Shannon.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "PG-13",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "daughter Shannon (biopic)",
+     "kids_status": "yes",
+     "kids_note": "son Brandon",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — daughter Shannon (biopic)",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Dragon:_The_Bruce_Lee_Story"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2007,
+   "title": "Ordet",
+   "subtitle": "",
+   "year": "1955",
+   "meta": "Film · Denmark · Danish",
+   "mechanism": "",
+   "confidence_flag": "Medium-high · Wikipedia",
+   "summary": "Happily married Inger, mother of two daughters, is pregnant with their third child; a difficult labour costs the baby.",
+   "character": "Inger (Birgitte Federspiel) and Mikkel Borgen (Emil Hass Christensen)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "two daughters",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "miscarriage — baby lost during a difficult labour (stillbirth)",
+   "evidence": "single source — Wikipedia",
+   "rating": "unrated",
+   "adult": "no",
+   "existing_kids": "2",
+   "pregnancy_again": "miscarriage",
+   "pregnancy_again_note": "baby lost during a difficult labour (stillbirth)",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ordet"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:24"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:24": {
+     "title": "Ordet",
+     "year": "1955",
+     "format": "movie",
+     "meta": "Film · Denmark · Danish",
+     "character": "Inger (Birgitte Federspiel) and Mikkel Borgen (Emil Hass Christensen)",
+     "summary": "Happily married Inger, mother of two daughters, is pregnant with their third child; a difficult labour costs the baby.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "unrated",
+     "adult": "no",
+     "existing_kids": "2",
+     "pregnancy_again": "miscarriage",
+     "pregnancy_again_note": "baby lost during a difficult labour (stillbirth)",
+     "kids_status": "yes",
+     "kids_note": "two daughters",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "miscarriage — baby lost during a difficult labour (stillbirth)",
+     "confidence_flag": "Medium-high · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Ordet"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2008,
+   "title": "The Rose Tattoo",
+   "subtitle": "",
+   "year": "1955",
+   "meta": "Film · United States · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia plot",
+   "summary": "Serafina, fiercely devoted to her husband, is pregnant with their second child when he is killed; she miscarries.",
+   "character": "Serafina Delle Rose (Anna Magnani) and Rosario",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "daughter Rosa",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "miscarriage — miscarries after learning of Rosario's death",
+   "evidence": "single source — Wikipedia",
+   "rating": "unrated (1955)",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "miscarriage",
+   "pregnancy_again_note": "miscarries after learning of Rosario's death",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Rose_Tattoo_(film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:25"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:25": {
+     "title": "The Rose Tattoo",
+     "year": "1955",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "character": "Serafina Delle Rose (Anna Magnani) and Rosario",
+     "summary": "Serafina, fiercely devoted to her husband, is pregnant with their second child when he is killed; she miscarries.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "unrated (1955)",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "miscarriage",
+     "pregnancy_again_note": "miscarries after learning of Rosario's death",
+     "kids_status": "yes",
+     "kids_note": "daughter Rosa",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "miscarriage — miscarries after learning of Rosario's death",
+     "confidence_flag": "High · Wikipedia plot",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Rose_Tattoo_(film)"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2009,
+   "title": "The Case for Christ",
+   "subtitle": "",
+   "year": "2017",
+   "meta": "Film · United States · English",
+   "mechanism": "",
+   "confidence_flag": "Medium · Wikipedia",
+   "summary": "Journalist Lee and wife Leslie have a daughter and are expecting their second child as her new faith strains the marriage.",
+   "character": "Leslie (Erika Christensen) and Lee Strobel (Mike Vogel)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "daughter Alison",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "ongoing — second child expected",
+   "evidence": "single source — Wikipedia",
+   "rating": "PG",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "ongoing",
+   "pregnancy_again_note": "second child expected",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Case_for_Christ"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:26"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:26": {
+     "title": "The Case for Christ",
+     "year": "2017",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "character": "Leslie (Erika Christensen) and Lee Strobel (Mike Vogel)",
+     "summary": "Journalist Lee and wife Leslie have a daughter and are expecting their second child as her new faith strains the marriage.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "PG",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "ongoing",
+     "pregnancy_again_note": "second child expected",
+     "kids_status": "yes",
+     "kids_note": "daughter Alison",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "ongoing — second child expected",
+     "confidence_flag": "Medium · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Case_for_Christ"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2010,
+   "title": "Starfish",
+   "subtitle": "",
+   "year": "2016",
+   "meta": "Film · United Kingdom · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia plot",
+   "summary": "Happily married with daughter Grace and another baby on the way, the couple's life is upended when Tom loses his limbs to sepsis; Nicola gives birth to Freddie.",
+   "character": "Nicola (Joanne Froggatt) and Tom Ray (Tom Riley)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "daughter Grace",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — son Freddie born while Tom recovers",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "son Freddie born while Tom recovers",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Starfish_(2016_film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:27"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:27": {
+     "title": "Starfish",
+     "year": "2016",
+     "format": "movie",
+     "meta": "Film · United Kingdom · English",
+     "character": "Nicola (Joanne Froggatt) and Tom Ray (Tom Riley)",
+     "summary": "Happily married with daughter Grace and another baby on the way, the couple's life is upended when Tom loses his limbs to sepsis; Nicola gives birth to Freddie.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Freddie born while Tom recovers",
+     "kids_status": "yes",
+     "kids_note": "daughter Grace",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Freddie born while Tom recovers",
+     "confidence_flag": "High · Wikipedia plot",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Starfish_(2016_film)"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2011,
+   "title": "Ugly Me",
+   "subtitle": "",
+   "year": "2006",
+   "meta": "Film · Chile · Spanish",
+   "mechanism": "",
+   "confidence_flag": "Medium · Wikipedia",
+   "summary": "The romantic comedy ends with Amanda and Marcelo happily married with three children and expecting another baby.",
+   "character": "Amanda and Marcelo",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "three children",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "ongoing — expecting another baby at the end",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "3",
+   "pregnancy_again": "ongoing",
+   "pregnancy_again_note": "expecting another baby at the end",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ugly_Me"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:28"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:28": {
+     "title": "Ugly Me",
+     "year": "2006",
+     "format": "movie",
+     "meta": "Film · Chile · Spanish",
+     "character": "Amanda and Marcelo",
+     "summary": "The romantic comedy ends with Amanda and Marcelo happily married with three children and expecting another baby.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "3",
+     "pregnancy_again": "ongoing",
+     "pregnancy_again_note": "expecting another baby at the end",
+     "kids_status": "yes",
+     "kids_note": "three children",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "ongoing — expecting another baby at the end",
+     "confidence_flag": "Medium · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Ugly_Me"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2012,
+   "title": "Weekend in Taipei",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "Film · Taiwan / France · English, Mandarin",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "Reunited former lovers Joey and John reconcile with their son Raymond, and in Paris Joey reveals she is pregnant with their second child.",
+   "character": "Joey (Gwei Lun-mei) and John Lawlor (Luke Evans)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "son Raymond",
+   "married": "no",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "ongoing — announced in the final scene",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "ongoing",
+   "pregnancy_again_note": "announced in the final scene",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Weekend_in_Taipei"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:29"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:29": {
+     "title": "Weekend in Taipei",
+     "year": "2024",
+     "format": "movie",
+     "meta": "Film · Taiwan / France · English, Mandarin",
+     "character": "Joey (Gwei Lun-mei) and John Lawlor (Luke Evans)",
+     "summary": "Reunited former lovers Joey and John reconcile with their son Raymond, and in Paris Joey reveals she is pregnant with their second child.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "ongoing",
+     "pregnancy_again_note": "announced in the final scene",
+     "kids_status": "yes",
+     "kids_note": "son Raymond",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "ongoing — announced in the final scene",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Weekend_in_Taipei"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "no",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2013,
+   "title": "Shadow Force",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Film · United States · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "Former special-forces lovers on the run with their son Ky; at his birthday Kyrah reveals she is pregnant with their second child.",
+   "character": "Kyrah (Kerry Washington) and Isaac (Omar Sy)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "son Ky",
+   "married": "no",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "ongoing — announced at the end",
+   "evidence": "single source — Wikipedia",
+   "rating": "R",
+   "adult": "yes",
+   "existing_kids": "1",
+   "pregnancy_again": "ongoing",
+   "pregnancy_again_note": "announced at the end",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Shadow_Force_(2025_film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:30"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:30": {
+     "title": "Shadow Force",
+     "year": "2025",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "character": "Kyrah (Kerry Washington) and Isaac (Omar Sy)",
+     "summary": "Former special-forces lovers on the run with their son Ky; at his birthday Kyrah reveals she is pregnant with their second child.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "R",
+     "adult": "yes",
+     "existing_kids": "1",
+     "pregnancy_again": "ongoing",
+     "pregnancy_again_note": "announced at the end",
+     "kids_status": "yes",
+     "kids_note": "son Ky",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "ongoing — announced at the end",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Shadow_Force_(2025_film)"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "no",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2014,
+   "title": "Sharknado 3: Oh Hell No!",
+   "subtitle": "",
+   "year": "2015",
+   "meta": "TV film (Syfy) · United States · English",
+   "mechanism": "",
+   "confidence_flag": "Medium · Wikipedia",
+   "summary": "Fin races to Florida to protect his pregnant wife April and their daughter; the baby is born during the shark-attack climax.",
+   "character": "April (Tara Reid) and Fin Shepard (Ian Ziering)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "Matt and Claudia",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — son born during the climax",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "2",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "son born during the climax",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Sharknado_3:_Oh_Hell_No!"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:31"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:31": {
+     "title": "Sharknado 3: Oh Hell No!",
+     "year": "2015",
+     "format": "movie",
+     "meta": "TV film (Syfy) · United States · English",
+     "character": "April (Tara Reid) and Fin Shepard (Ian Ziering)",
+     "summary": "Fin races to Florida to protect his pregnant wife April and their daughter; the baby is born during the shark-attack climax.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "2",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son born during the climax",
+     "kids_status": "yes",
+     "kids_note": "Matt and Claudia",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son born during the climax",
+     "confidence_flag": "Medium · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Sharknado_3:_Oh_Hell_No!"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2015,
+   "title": "Son of the Mask",
+   "subtitle": "",
+   "year": "2005",
+   "meta": "Film · United States · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "After the chaos caused by their mask-powered son Alvey, Tonya reveals she is pregnant again.",
+   "character": "Tonya (Traylor Howard) and Tim Avery (Jamie Kennedy)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "son Alvey",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "ongoing — announced in the final scene",
+   "evidence": "single source — Wikipedia",
+   "rating": "PG",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "ongoing",
+   "pregnancy_again_note": "announced in the final scene",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Son_of_the_Mask"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:32"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:32": {
+     "title": "Son of the Mask",
+     "year": "2005",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "character": "Tonya (Traylor Howard) and Tim Avery (Jamie Kennedy)",
+     "summary": "After the chaos caused by their mask-powered son Alvey, Tonya reveals she is pregnant again.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "PG",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "ongoing",
+     "pregnancy_again_note": "announced in the final scene",
+     "kids_status": "yes",
+     "kids_note": "son Alvey",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "ongoing — announced in the final scene",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Son_of_the_Mask"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2016,
+   "title": "My Blue Heaven",
+   "subtitle": "",
+   "year": "1950",
+   "meta": "Film · United States · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "After a miscarriage the show-business couple adopt two babies, then learn Kitty is pregnant again.",
+   "character": "Kitty Moran (Betty Grable) and Jack Moran (Dan Dailey)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "two adopted babies",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "ongoing — pregnancy announced at the end",
+   "evidence": "single source — Wikipedia",
+   "rating": "unrated (1950)",
+   "adult": "no",
+   "existing_kids": "2",
+   "pregnancy_again": "ongoing",
+   "pregnancy_again_note": "pregnancy announced at the end",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy",
+    "adopt-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/My_Blue_Heaven_(1950_film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:33"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:33": {
+     "title": "My Blue Heaven",
+     "year": "1950",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "character": "Kitty Moran (Betty Grable) and Jack Moran (Dan Dailey)",
+     "summary": "After a miscarriage the show-business couple adopt two babies, then learn Kitty is pregnant again.",
+     "categories": [
+      "mom-pregnancy",
+      "adopt-pregnancy"
+     ],
+     "rating": "unrated (1950)",
+     "adult": "no",
+     "existing_kids": "2",
+     "pregnancy_again": "ongoing",
+     "pregnancy_again_note": "pregnancy announced at the end",
+     "kids_status": "yes",
+     "kids_note": "two adopted babies",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "ongoing — pregnancy announced at the end",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/My_Blue_Heaven_(1950_film)"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2017,
+   "title": "Gangs of Wasseypur – Part 1",
+   "subtitle": "",
+   "year": "2012",
+   "meta": "Film · India · Hindi",
+   "mechanism": "",
+   "confidence_flag": "Medium · Wikipedia",
+   "summary": "Sardar and his wife Nagma's volatile, passionate marriage produces several sons; when she becomes pregnant again, Sardar turns to his lover Durga.",
+   "character": "Nagma Khatoon (Richa Chadha) and Sardar Khan (Manoj Bajpayee)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "sons including Danish and Faizal",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "unknown — outcome not stated in sources",
+   "evidence": "single source — Wikipedia",
+   "rating": "A (India)",
+   "adult": "yes",
+   "existing_kids": "2",
+   "pregnancy_again": "unknown",
+   "pregnancy_again_note": "outcome not stated in sources",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Gangs_of_Wasseypur"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:34"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:34": {
+     "title": "Gangs of Wasseypur – Part 1",
+     "year": "2012",
+     "format": "movie",
+     "meta": "Film · India · Hindi",
+     "character": "Nagma Khatoon (Richa Chadha) and Sardar Khan (Manoj Bajpayee)",
+     "summary": "Sardar and his wife Nagma's volatile, passionate marriage produces several sons; when she becomes pregnant again, Sardar turns to his lover Durga.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "A (India)",
+     "adult": "yes",
+     "existing_kids": "2",
+     "pregnancy_again": "unknown",
+     "pregnancy_again_note": "outcome not stated in sources",
+     "kids_status": "yes",
+     "kids_note": "sons including Danish and Faizal",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "unknown — outcome not stated in sources",
+     "confidence_flag": "Medium · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Gangs_of_Wasseypur"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2018,
+   "title": "The Iron Claw",
+   "subtitle": "",
+   "year": "2023",
+   "meta": "Film · United States · English",
+   "mechanism": "",
+   "confidence_flag": "Medium-high · Wikipedia",
+   "summary": "After their first child, Pam becomes pregnant again; the epilogue shows Kevin with his sons and notes four children.",
+   "character": "Pam (Lily James) and Kevin Von Erich (Zac Efron)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "one child",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — epilogue: four children",
+   "evidence": "single source — Wikipedia",
+   "rating": "R",
+   "adult": "yes",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "epilogue: four children",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Iron_Claw_(film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:35"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:35": {
+     "title": "The Iron Claw",
+     "year": "2023",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "character": "Pam (Lily James) and Kevin Von Erich (Zac Efron)",
+     "summary": "After their first child, Pam becomes pregnant again; the epilogue shows Kevin with his sons and notes four children.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "R",
+     "adult": "yes",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "epilogue: four children",
+     "kids_status": "yes",
+     "kids_note": "one child",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — epilogue: four children",
+     "confidence_flag": "Medium-high · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Iron_Claw_(film)"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2019,
+   "title": "In Good Company",
+   "subtitle": "",
+   "year": "2004",
+   "meta": "Film · United States · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "Demoted ad executive Dan learns his wife is pregnant with a third child; she gives birth late in the film.",
+   "character": "Ann (Marg Helgenberger) and Dan Foreman (Dennis Quaid)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "Alex and Jana",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — third child born",
+   "evidence": "single source — Wikipedia",
+   "rating": "PG-13",
+   "adult": "no",
+   "existing_kids": "2",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "third child born",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/In_Good_Company_(2004_film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:36"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:36": {
+     "title": "In Good Company",
+     "year": "2004",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "character": "Ann (Marg Helgenberger) and Dan Foreman (Dennis Quaid)",
+     "summary": "Demoted ad executive Dan learns his wife is pregnant with a third child; she gives birth late in the film.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "PG-13",
+     "adult": "no",
+     "existing_kids": "2",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "third child born",
+     "kids_status": "yes",
+     "kids_note": "Alex and Jana",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — third child born",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/In_Good_Company_(2004_film)"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2020,
+   "title": "Nine Months",
+   "subtitle": "",
+   "year": "1995",
+   "meta": "Film · United States · English",
+   "mechanism": "",
+   "confidence_flag": "Medium · Wikipedia",
+   "summary": "Boisterous married couple Marty and Gail, parents of three, are expecting their fourth child alongside the lead couple's first.",
+   "character": "Gail (Joan Cusack) and Marty Dwyer (Tom Arnold)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "three children",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "unknown — outcome not stated in the source used",
+   "evidence": "single source — Wikipedia",
+   "fit_note": "secondary couple",
+   "rating": "PG-13",
+   "adult": "no",
+   "existing_kids": "3",
+   "pregnancy_again": "unknown",
+   "pregnancy_again_note": "outcome not stated in the source used",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Nine_Months"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:37"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:37": {
+     "title": "Nine Months",
+     "year": "1995",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "character": "Gail (Joan Cusack) and Marty Dwyer (Tom Arnold)",
+     "summary": "Boisterous married couple Marty and Gail, parents of three, are expecting their fourth child alongside the lead couple's first.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "PG-13",
+     "adult": "no",
+     "existing_kids": "3",
+     "pregnancy_again": "unknown",
+     "pregnancy_again_note": "outcome not stated in the source used",
+     "kids_status": "yes",
+     "kids_note": "three children",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "unknown — outcome not stated in the source used",
+     "confidence_flag": "Medium · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Nine_Months"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "fit_note": "secondary couple",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2021,
+   "title": "The Legend of Paul and Paula",
+   "subtitle": "",
+   "year": "1973",
+   "meta": "Film · East Germany · German",
+   "mechanism": "",
+   "confidence_flag": "Medium · Wikipedia",
+   "summary": "Single mother Paula's passionate affair with married Paul becomes a love story; she becomes pregnant again by him.",
+   "character": "Paula (Angelica Domröse) and Paul (Winfried Glatzeder)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "two children (by earlier partners)",
+   "married": "no",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "unknown — outcome not stated in the source used",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "2",
+   "pregnancy_again": "unknown",
+   "pregnancy_again_note": "outcome not stated in the source used",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy",
+    "family"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Legend_of_Paul_and_Paula"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:38"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:38": {
+     "title": "The Legend of Paul and Paula",
+     "year": "1973",
+     "format": "movie",
+     "meta": "Film · East Germany · German",
+     "character": "Paula (Angelica Domröse) and Paul (Winfried Glatzeder)",
+     "summary": "Single mother Paula's passionate affair with married Paul becomes a love story; she becomes pregnant again by him.",
+     "categories": [
+      "mom-pregnancy",
+      "family"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "2",
+     "pregnancy_again": "unknown",
+     "pregnancy_again_note": "outcome not stated in the source used",
+     "kids_status": "yes",
+     "kids_note": "two children (by earlier partners)",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "unknown — outcome not stated in the source used",
+     "confidence_flag": "Medium · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Legend_of_Paul_and_Paula"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "no",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2022,
+   "title": "Yesterday, Today and Tomorrow",
+   "subtitle": "",
+   "year": "1963",
+   "meta": "Film · Italy · Italian",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "In the Naples segment, Adelina avoids jail by staying pregnant continuously, exhausting her devoted husband Carmine as the family grows.",
+   "character": "Adelina (Sophia Loren) and Carmine (Marcello Mastroianni)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "one child at first, growing",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — repeated births (based on a real case)",
+   "evidence": "single source — Wikipedia",
+   "rating": "unrated (1963)",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "repeated births (based on a real case)",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Yesterday,_Today_and_Tomorrow"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:39"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:39": {
+     "title": "Yesterday, Today and Tomorrow",
+     "year": "1963",
+     "format": "movie",
+     "meta": "Film · Italy · Italian",
+     "character": "Adelina (Sophia Loren) and Carmine (Marcello Mastroianni)",
+     "summary": "In the Naples segment, Adelina avoids jail by staying pregnant continuously, exhausting her devoted husband Carmine as the family grows.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "unrated (1963)",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "repeated births (based on a real case)",
+     "kids_status": "yes",
+     "kids_note": "one child at first, growing",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — repeated births (based on a real case)",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Yesterday,_Today_and_Tomorrow"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2023,
+   "title": "Veetla Vishesham",
+   "subtitle": "",
+   "year": "2022",
+   "meta": "Film · India · Tamil",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "Tamil remake of Badhaai Ho: a middle-aged couple's surprise third pregnancy embarrasses their adult sons; she gives birth to a girl.",
+   "character": "Krishnaveni (Urvashi) and Unnikrishnan (Sathyaraj)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "two sons",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — baby girl born",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "2",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "baby girl born",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Veetla_Vishesham"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:40"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:40": {
+     "title": "Veetla Vishesham",
+     "year": "2022",
+     "format": "movie",
+     "meta": "Film · India · Tamil",
+     "character": "Krishnaveni (Urvashi) and Unnikrishnan (Sathyaraj)",
+     "summary": "Tamil remake of Badhaai Ho: a middle-aged couple's surprise third pregnancy embarrasses their adult sons; she gives birth to a girl.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "2",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "baby girl born",
+     "kids_status": "yes",
+     "kids_note": "two sons",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — baby girl born",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Veetla_Vishesham"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2024,
+   "title": "What to Expect When You're Expecting",
+   "subtitle": "",
+   "year": "2012",
+   "meta": "Film · United States · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "Race-car legend Ramsey and his much younger wife Skyler, who dotes on his adult son Gary, reveal they are also expecting and have twin girls.",
+   "character": "Skyler (Brooklyn Decker) and Ramsey Cooper (Dennis Quaid)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "Ramsey's adult son Gary (her stepson)",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — twin daughters",
+   "evidence": "single source — Wikipedia",
+   "rating": "PG-13",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "twin daughters",
+   "format": "movie",
+   "categories": [
+    "stepmom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/What_to_Expect_When_You%27re_Expecting_(film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:41"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:41": {
+     "title": "What to Expect When You're Expecting",
+     "year": "2012",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "character": "Skyler (Brooklyn Decker) and Ramsey Cooper (Dennis Quaid)",
+     "summary": "Race-car legend Ramsey and his much younger wife Skyler, who dotes on his adult son Gary, reveal they are also expecting and have twin girls.",
+     "categories": [
+      "stepmom-pregnancy"
+     ],
+     "rating": "PG-13",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "twin daughters",
+     "kids_status": "yes",
+     "kids_note": "Ramsey's adult son Gary (her stepson)",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — twin daughters",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/What_to_Expect_When_You%27re_Expecting_(film)"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2025,
+   "title": "Tully",
+   "subtitle": "",
+   "year": "2018",
+   "meta": "Film · United States · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "Exhausted Marlo, mother of two, gives birth to an unplanned third child; a night nanny helps her rediscover herself and her marriage.",
+   "character": "Marlo (Charlize Theron) and Drew (Ron Livingston)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "Sarah and Jonah",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — daughter Mia born",
+   "evidence": "single source — Wikipedia",
+   "rating": "R",
+   "adult": "yes",
+   "existing_kids": "2",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "daughter Mia born",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Tully_(2018_film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:42"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:42": {
+     "title": "Tully",
+     "year": "2018",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "character": "Marlo (Charlize Theron) and Drew (Ron Livingston)",
+     "summary": "Exhausted Marlo, mother of two, gives birth to an unplanned third child; a night nanny helps her rediscover herself and her marriage.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "R",
+     "adult": "yes",
+     "existing_kids": "2",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "daughter Mia born",
+     "kids_status": "yes",
+     "kids_note": "Sarah and Jonah",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — daughter Mia born",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Tully_(2018_film)"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2026,
+   "title": "Jhankaar Beats",
+   "subtitle": "",
+   "year": "2003",
+   "meta": "Film · India · Hindi",
+   "mechanism": "",
+   "confidence_flag": "Medium · Wikipedia",
+   "summary": "Happily married Deep and Shanti have a little daughter and another baby on the way.",
+   "character": "Shanti (Riya Sen) and Deep (Rahul Bose)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "daughter Muskaan",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "unknown — outcome not stated in sources",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "unknown",
+   "pregnancy_again_note": "outcome not stated in sources",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Jhankaar_Beats"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:43"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:43": {
+     "title": "Jhankaar Beats",
+     "year": "2003",
+     "format": "movie",
+     "meta": "Film · India · Hindi",
+     "character": "Shanti (Riya Sen) and Deep (Rahul Bose)",
+     "summary": "Happily married Deep and Shanti have a little daughter and another baby on the way.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "unknown",
+     "pregnancy_again_note": "outcome not stated in sources",
+     "kids_status": "yes",
+     "kids_note": "daughter Muskaan",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "unknown — outcome not stated in sources",
+     "confidence_flag": "Medium · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Jhankaar_Beats"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2027,
+   "title": "Sakal, Sakali, Saklolo",
+   "subtitle": "",
+   "year": "2007",
+   "meta": "Film · Philippines · Filipino",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "The young married couple's comedy about raising son Rafa ends with the joyful revelation that Angie is pregnant again.",
+   "character": "Angie (Judy Ann Santos) and Jed (Ryan Agoncillo)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "son Rafa",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "ongoing — announced at the family Christmas",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "ongoing",
+   "pregnancy_again_note": "announced at the family Christmas",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Sakal,_Sakali,_Saklolo"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:44"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:44": {
+     "title": "Sakal, Sakali, Saklolo",
+     "year": "2007",
+     "format": "movie",
+     "meta": "Film · Philippines · Filipino",
+     "character": "Angie (Judy Ann Santos) and Jed (Ryan Agoncillo)",
+     "summary": "The young married couple's comedy about raising son Rafa ends with the joyful revelation that Angie is pregnant again.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "ongoing",
+     "pregnancy_again_note": "announced at the family Christmas",
+     "kids_status": "yes",
+     "kids_note": "son Rafa",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "ongoing — announced at the family Christmas",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Sakal,_Sakali,_Saklolo"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2028,
+   "title": "Bewitched",
+   "subtitle": "Season 5–6",
+   "year": "1969",
+   "meta": "TV series · United States · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "Samantha tells Darrin of her second pregnancy in 'Samantha's Good News'; son Adam follows in Season 6.",
+   "character": "Samantha (Elizabeth Montgomery) and Darrin Stephens",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "daughter Tabitha",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — son Adam born in Season 6",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "son Adam born in Season 6",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Bewitched"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:45"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:45": {
+     "title": "Bewitched",
+     "year": "1969",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Samantha (Elizabeth Montgomery) and Darrin Stephens",
+     "summary": "Samantha tells Darrin of her second pregnancy in 'Samantha's Good News'; son Adam follows in Season 6.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Adam born in Season 6",
+     "kids_status": "yes",
+     "kids_note": "daughter Tabitha",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Adam born in Season 6",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Bewitched"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Season 5–6",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2029,
+   "title": "The Office",
+   "subtitle": "Season 8",
+   "year": "2011–12",
+   "meta": "TV series · United States · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "At the start of Season 8, Pam is pregnant with her and Jim's second child; Phillip is born in 'The Delivery'.",
+   "character": "Pam Beesly (Jenna Fischer) and Jim Halpert (John Krasinski)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "daughter Cece",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — son Phillip born in Season 8",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "son Phillip born in Season 8",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Pam_Beesly"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:46"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:46": {
+     "title": "The Office",
+     "year": "2011–12",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Pam Beesly (Jenna Fischer) and Jim Halpert (John Krasinski)",
+     "summary": "At the start of Season 8, Pam is pregnant with her and Jim's second child; Phillip is born in 'The Delivery'.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Phillip born in Season 8",
+     "kids_status": "yes",
+     "kids_note": "daughter Cece",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Phillip born in Season 8",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Pam_Beesly"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Season 8",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2030,
+   "title": "Friday Night Lights",
+   "subtitle": "Season 5 — Billy & Mindy",
+   "year": "2010–11",
+   "meta": "TV series · United States · English",
+   "mechanism": "",
+   "confidence_flag": "Medium · Wikipedia",
+   "summary": "In Season 5's 'Gut Check', Mindy feels sick at work and discovers she is pregnant again.",
+   "character": "Mindy (Stacey Oristano) and Billy Riggins (Derek Phillips)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "son Stevie",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "ongoing — pregnancy continues to the series end",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "ongoing",
+   "pregnancy_again_note": "pregnancy continues to the series end",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Gut_Check_(Friday_Night_Lights)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:47"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:47": {
+     "title": "Friday Night Lights",
+     "year": "2010–11",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Mindy (Stacey Oristano) and Billy Riggins (Derek Phillips)",
+     "summary": "In Season 5's 'Gut Check', Mindy feels sick at work and discovers she is pregnant again.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "ongoing",
+     "pregnancy_again_note": "pregnancy continues to the series end",
+     "kids_status": "yes",
+     "kids_note": "son Stevie",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "ongoing — pregnancy continues to the series end",
+     "confidence_flag": "Medium · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Gut_Check_(Friday_Night_Lights)"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Season 5 — Billy & Mindy",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2031,
+   "title": "Gilmore Girls",
+   "subtitle": "Season 5",
+   "year": "2004–05",
+   "meta": "TV series · United States · English",
+   "mechanism": "",
+   "confidence_flag": "High · 2 Wikipedia articles",
+   "summary": "Sookie becomes pregnant again in Season 5 and has a daughter before telling Jackson to get a vasectomy.",
+   "character": "Sookie St. James (Melissa McCarthy) and Jackson Belleville (Jackson Douglas)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "son Davey",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — daughter born in Season 5",
+   "evidence": "Wikipedia, Wikipedia (Sookie St. James)",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "daughter born in Season 5",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Gilmore_Girls_season_5"
+    },
+    {
+     "label": "Wikipedia (Sookie St. James)",
+     "url": "https://en.wikipedia.org/wiki/Sookie_St._James"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:48"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:48": {
+     "title": "Gilmore Girls",
+     "year": "2004–05",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Sookie St. James (Melissa McCarthy) and Jackson Belleville (Jackson Douglas)",
+     "summary": "Sookie becomes pregnant again in Season 5 and has a daughter before telling Jackson to get a vasectomy.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "daughter born in Season 5",
+     "kids_status": "yes",
+     "kids_note": "son Davey",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — daughter born in Season 5",
+     "confidence_flag": "High · 2 Wikipedia articles",
+     "evidence": "Wikipedia, Wikipedia (Sookie St. James)",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Gilmore_Girls_season_5"
+      },
+      {
+       "label": "Wikipedia (Sookie St. James)",
+       "url": "https://en.wikipedia.org/wiki/Sookie_St._James"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Season 5",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2032,
+   "title": "Marriage Lines",
+   "subtitle": "",
+   "year": "1966",
+   "meta": "TV series (sitcom) · United Kingdom · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "The newlyweds' sitcom ends with Kate pregnant again; she gives birth in the final episode.",
+   "character": "Kate (Prunella Scales) and George Starling (Richard Briers)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "daughter Helen",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — born in the final episode",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "born in the final episode",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Marriage_Lines"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:49"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:49": {
+     "title": "Marriage Lines",
+     "year": "1966",
+     "format": "tv",
+     "meta": "TV series (sitcom) · United Kingdom · English",
+     "character": "Kate (Prunella Scales) and George Starling (Richard Briers)",
+     "summary": "The newlyweds' sitcom ends with Kate pregnant again; she gives birth in the final episode.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "born in the final episode",
+     "kids_status": "yes",
+     "kids_note": "daughter Helen",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — born in the final episode",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Marriage_Lines"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2033,
+   "title": "One Tree Hill",
+   "subtitle": "Season 8",
+   "year": "2010–11",
+   "meta": "TV series · United States · English",
+   "mechanism": "",
+   "confidence_flag": "Medium-high · Wikipedia",
+   "summary": "In Season 8 the Scotts are expecting their second child, which Haley feels will be a girl.",
+   "character": "Haley James Scott (Bethany Joy Lenz) and Nathan Scott (James Lafferty)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "son Jamie",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — daughter Lydia born in Season 8",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "daughter Lydia born in Season 8",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/One_Tree_Hill_season_8"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:50"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:50": {
+     "title": "One Tree Hill",
+     "year": "2010–11",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Haley James Scott (Bethany Joy Lenz) and Nathan Scott (James Lafferty)",
+     "summary": "In Season 8 the Scotts are expecting their second child, which Haley feels will be a girl.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "daughter Lydia born in Season 8",
+     "kids_status": "yes",
+     "kids_note": "son Jamie",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — daughter Lydia born in Season 8",
+     "confidence_flag": "Medium-high · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/One_Tree_Hill_season_8"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Season 8",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2034,
+   "title": "The Last Man on Earth",
+   "subtitle": "Season 4",
+   "year": "2018",
+   "meta": "TV series · United States · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "In Mexico Carol gives birth to twin daughters and becomes pregnant again a few weeks later.",
+   "character": "Carol (Kristen Schaal) and Phil Miller (Will Forte)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "twin daughters",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "ongoing — series ends during the pregnancy",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "2",
+   "pregnancy_again": "ongoing",
+   "pregnancy_again_note": "series ends during the pregnancy",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Last_Man_on_Earth_(TV_series)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:51"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:51": {
+     "title": "The Last Man on Earth",
+     "year": "2018",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Carol (Kristen Schaal) and Phil Miller (Will Forte)",
+     "summary": "In Mexico Carol gives birth to twin daughters and becomes pregnant again a few weeks later.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "2",
+     "pregnancy_again": "ongoing",
+     "pregnancy_again_note": "series ends during the pregnancy",
+     "kids_status": "yes",
+     "kids_note": "twin daughters",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "ongoing — series ends during the pregnancy",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Last_Man_on_Earth_(TV_series)"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Season 4",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2035,
+   "title": "Charmed",
+   "subtitle": "\"Forever Charmed\"",
+   "year": "2006",
+   "meta": "TV series · United States · English",
+   "mechanism": "",
+   "confidence_flag": "Medium · Wikipedia",
+   "summary": "The series finale 'Forever Charmed' flashes forward to Phoebe and Coop married with two daughters and Phoebe pregnant with a third.",
+   "character": "Phoebe Halliwell (Alyssa Milano) and Coop (Victor Webster)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "two daughters",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "ongoing — flash-forward",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "2",
+   "pregnancy_again": "ongoing",
+   "pregnancy_again_note": "flash-forward",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Forever_Charmed"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:52"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:52": {
+     "title": "Charmed",
+     "year": "2006",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Phoebe Halliwell (Alyssa Milano) and Coop (Victor Webster)",
+     "summary": "The series finale 'Forever Charmed' flashes forward to Phoebe and Coop married with two daughters and Phoebe pregnant with a third.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "2",
+     "pregnancy_again": "ongoing",
+     "pregnancy_again_note": "flash-forward",
+     "kids_status": "yes",
+     "kids_note": "two daughters",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "ongoing — flash-forward",
+     "confidence_flag": "Medium · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Forever_Charmed"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "\"Forever Charmed\"",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2036,
+   "title": "Shameless",
+   "subtitle": "Season 11",
+   "year": "2021",
+   "meta": "TV series · United States · English",
+   "mechanism": "",
+   "confidence_flag": "Medium · Wikipedia",
+   "summary": "In the final season Tami tells Lip she might be pregnant again.",
+   "character": "Tami Tamietti (Kate Miner) and Lip Gallagher (Jeremy Allen White)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "son Fred",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "unknown — only a possible pregnancy by the series end",
+   "evidence": "single source — Wikipedia",
+   "rating": "TV-MA",
+   "adult": "yes",
+   "existing_kids": "1",
+   "pregnancy_again": "unknown",
+   "pregnancy_again_note": "only a possible pregnancy by the series end",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Father_Frank,_Full_of_Grace_(Shameless_season_11)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:53"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:53": {
+     "title": "Shameless",
+     "year": "2021",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Tami Tamietti (Kate Miner) and Lip Gallagher (Jeremy Allen White)",
+     "summary": "In the final season Tami tells Lip she might be pregnant again.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "TV-MA",
+     "adult": "yes",
+     "existing_kids": "1",
+     "pregnancy_again": "unknown",
+     "pregnancy_again_note": "only a possible pregnancy by the series end",
+     "kids_status": "yes",
+     "kids_note": "son Fred",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "unknown — only a possible pregnancy by the series end",
+     "confidence_flag": "Medium · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Father_Frank,_Full_of_Grace_(Shameless_season_11)"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Season 11",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2037,
+   "title": "Sons of Anarchy",
+   "subtitle": "Season 3–4",
+   "year": "2010–11",
+   "meta": "TV series · United States · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "Tara, raising Jax's son Abel, becomes pregnant by Jax at the end of Season 3; son Thomas is born in Season 4.",
+   "character": "Tara Knowles (Maggie Siff) and Jax Teller (Charlie Hunnam)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "Abel (Jax's son, raised by Tara)",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — son Thomas born in Season 4",
+   "evidence": "single source — Wikipedia",
+   "rating": "TV-MA",
+   "adult": "yes",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "son Thomas born in Season 4",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Tara_Knowles"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:54"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:54": {
+     "title": "Sons of Anarchy",
+     "year": "2010–11",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Tara Knowles (Maggie Siff) and Jax Teller (Charlie Hunnam)",
+     "summary": "Tara, raising Jax's son Abel, becomes pregnant by Jax at the end of Season 3; son Thomas is born in Season 4.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "TV-MA",
+     "adult": "yes",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Thomas born in Season 4",
+     "kids_status": "yes",
+     "kids_note": "Abel (Jax's son, raised by Tara)",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Thomas born in Season 4",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Tara_Knowles"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Season 3–4",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2038,
+   "title": "The Walking Dead",
+   "subtitle": "Season 2–3",
+   "year": "2011–12",
+   "meta": "TV series · United States · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "Lori, mother of Carl, learns she is pregnant again in Season 2; paternity between Rick and Shane is uncertain, and Judith is born in Season 3 as Lori dies.",
+   "character": "Lori (Sarah Wayne Callies) and Rick Grimes (Andrew Lincoln)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "son Carl",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — daughter Judith born (Lori dies in childbirth)",
+   "evidence": "single source — Wikipedia",
+   "rating": "TV-MA",
+   "adult": "yes",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "daughter Judith born (Lori dies in childbirth)",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Lori_Grimes"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:55"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:55": {
+     "title": "The Walking Dead",
+     "year": "2011–12",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Lori (Sarah Wayne Callies) and Rick Grimes (Andrew Lincoln)",
+     "summary": "Lori, mother of Carl, learns she is pregnant again in Season 2; paternity between Rick and Shane is uncertain, and Judith is born in Season 3 as Lori dies.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "TV-MA",
+     "adult": "yes",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "daughter Judith born (Lori dies in childbirth)",
+     "kids_status": "yes",
+     "kids_note": "son Carl",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — daughter Judith born (Lori dies in childbirth)",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Lori_Grimes"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Season 2–3",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2039,
+   "title": "Kiralık Aşk",
+   "subtitle": "Finale",
+   "year": "2017",
+   "meta": "TV series · Turkey · Turkish",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "The romantic comedy's finale jumps four years: Ömer and Defne celebrate daughter Emine's birthday, pregnant with another child.",
+   "character": "Defne (Elçin Sangu) and Ömer İplikçi (Barış Arduç)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "daughter Emine",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "ongoing — flash-forward finale",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "ongoing",
+   "pregnancy_again_note": "flash-forward finale",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kiral%C4%B1k_A%C5%9Fk"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:56"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:56": {
+     "title": "Kiralık Aşk",
+     "year": "2017",
+     "format": "tv",
+     "meta": "TV series · Turkey · Turkish",
+     "character": "Defne (Elçin Sangu) and Ömer İplikçi (Barış Arduç)",
+     "summary": "The romantic comedy's finale jumps four years: Ömer and Defne celebrate daughter Emine's birthday, pregnant with another child.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "ongoing",
+     "pregnancy_again_note": "flash-forward finale",
+     "kids_status": "yes",
+     "kids_note": "daughter Emine",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "ongoing — flash-forward finale",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Kiral%C4%B1k_A%C5%9Fk"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Finale",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2040,
+   "title": "Kuruluş: Osman",
+   "subtitle": "Season 3–4",
+   "year": "2021–22",
+   "meta": "TV series · Turkey · Turkish",
+   "mechanism": "",
+   "confidence_flag": "Medium-high · Wikipedia",
+   "summary": "Bala, Osman's beloved first wife, is revealed pregnant with his fourth child and gives birth to Halime (a fifth pregnancy follows in Season 4).",
+   "character": "Bala Hatun (Özge Törer) and Osman Bey (Burak Özçivit)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "Osman's three sons",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — daughter Halime born",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "3",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "daughter Halime born",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kurulu%C5%9F:_Osman"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:57"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:57": {
+     "title": "Kuruluş: Osman",
+     "year": "2021–22",
+     "format": "tv",
+     "meta": "TV series · Turkey · Turkish",
+     "character": "Bala Hatun (Özge Törer) and Osman Bey (Burak Özçivit)",
+     "summary": "Bala, Osman's beloved first wife, is revealed pregnant with his fourth child and gives birth to Halime (a fifth pregnancy follows in Season 4).",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "3",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "daughter Halime born",
+     "kids_status": "yes",
+     "kids_note": "Osman's three sons",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — daughter Halime born",
+     "confidence_flag": "Medium-high · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Kurulu%C5%9F:_Osman"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Season 3–4",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2041,
+   "title": "Oshin",
+   "subtitle": "",
+   "year": "1983",
+   "meta": "TV series (asadora) · Japan · Japanese",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "Oshin discovers she is pregnant with their second child while struggling in her in-laws' house, and later a third time; the pregnancy draws her and Ryūzō closer.",
+   "character": "Oshin and Ryūzō",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "son Yū",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — sons including Hitoshi born",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "sons including Hitoshi born",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Oshin"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:58"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:58": {
+     "title": "Oshin",
+     "year": "1983",
+     "format": "tv",
+     "meta": "TV series (asadora) · Japan · Japanese",
+     "character": "Oshin and Ryūzō",
+     "summary": "Oshin discovers she is pregnant with their second child while struggling in her in-laws' house, and later a third time; the pregnancy draws her and Ryūzō closer.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "sons including Hitoshi born",
+     "kids_status": "yes",
+     "kids_note": "son Yū",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — sons including Hitoshi born",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Oshin"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2042,
+   "title": "Kuch Rang Pyar Ke Aise Bhi",
+   "subtitle": "",
+   "year": "2016–2021",
+   "meta": "TV series · India · Hindi",
+   "mechanism": "",
+   "confidence_flag": "Medium · Wikipedia",
+   "summary": "Reunited after seven years apart, Dev and Sonakshi learn she is pregnant again; Dev relives the journey he missed with Suhana, and Shubh is born.",
+   "character": "Sonakshi (Erica Fernandes) and Dev Dixit (Shaheer Sheikh)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "daughter Suhana",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — son Shubh born",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "son Shubh born",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kuch_Rang_Pyar_Ke_Aise_Bhi"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:59"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:59": {
+     "title": "Kuch Rang Pyar Ke Aise Bhi",
+     "year": "2016–2021",
+     "format": "tv",
+     "meta": "TV series · India · Hindi",
+     "character": "Sonakshi (Erica Fernandes) and Dev Dixit (Shaheer Sheikh)",
+     "summary": "Reunited after seven years apart, Dev and Sonakshi learn she is pregnant again; Dev relives the journey he missed with Suhana, and Shubh is born.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Shubh born",
+     "kids_status": "yes",
+     "kids_note": "daughter Suhana",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Shubh born",
+     "confidence_flag": "Medium · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Kuch_Rang_Pyar_Ke_Aise_Bhi"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2043,
+   "title": "Saath Nibhaana Saathiya",
+   "subtitle": "",
+   "year": "2010–2017",
+   "meta": "TV series · India · Hindi",
+   "mechanism": "",
+   "confidence_flag": "Medium · Wikipedia",
+   "summary": "Gopi becomes pregnant again after daughter Meera; blamed for Meera's apparent death, she leaves the house pregnant and raises second daughter Vidya.",
+   "character": "Gopi and Ahem Modi (Mohammad Nazim)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "daughter Meera",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — second daughter Vidya",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "second daughter Vidya",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Saath_Nibhaana_Saathiya"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:60"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:60": {
+     "title": "Saath Nibhaana Saathiya",
+     "year": "2010–2017",
+     "format": "tv",
+     "meta": "TV series · India · Hindi",
+     "character": "Gopi and Ahem Modi (Mohammad Nazim)",
+     "summary": "Gopi becomes pregnant again after daughter Meera; blamed for Meera's apparent death, she leaves the house pregnant and raises second daughter Vidya.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "second daughter Vidya",
+     "kids_status": "yes",
+     "kids_note": "daughter Meera",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — second daughter Vidya",
+     "confidence_flag": "Medium · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Saath_Nibhaana_Saathiya"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2044,
+   "title": "Athmasakhi",
+   "subtitle": "",
+   "year": "2016–2018",
+   "meta": "TV series · India · Malayalam",
+   "mechanism": "",
+   "confidence_flag": "Medium · Wikipedia",
+   "summary": "Nanditha, mother of Kingini, becomes pregnant again and her family life with husband Abhilash blossoms.",
+   "character": "Nanditha and Abhilash",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "daughter Kingini",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "ongoing — expecting at the end of the arc",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "ongoing",
+   "pregnancy_again_note": "expecting at the end of the arc",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy",
+    "family"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Athmasakhi"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:61"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:61": {
+     "title": "Athmasakhi",
+     "year": "2016–2018",
+     "format": "tv",
+     "meta": "TV series · India · Malayalam",
+     "character": "Nanditha and Abhilash",
+     "summary": "Nanditha, mother of Kingini, becomes pregnant again and her family life with husband Abhilash blossoms.",
+     "categories": [
+      "mom-pregnancy",
+      "family"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "ongoing",
+     "pregnancy_again_note": "expecting at the end of the arc",
+     "kids_status": "yes",
+     "kids_note": "daughter Kingini",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "ongoing — expecting at the end of the arc",
+     "confidence_flag": "Medium · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Athmasakhi"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2045,
+   "title": "María la del Barrio",
+   "subtitle": "",
+   "year": "1995",
+   "meta": "Telenovela · Mexico · Spanish",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "After separation and reunion, María and Luis Fernando celebrate a new life with their children and María reveals she is pregnant again.",
+   "character": "María (Thalía) and Luis Fernando de la Vega (Fernando Colunga)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "Nando and Fernando",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "ongoing — announced in the finale",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "2",
+   "pregnancy_again": "ongoing",
+   "pregnancy_again_note": "announced in the finale",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mar%C3%ADa_la_del_Barrio"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:62"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:62": {
+     "title": "María la del Barrio",
+     "year": "1995",
+     "format": "tv",
+     "meta": "Telenovela · Mexico · Spanish",
+     "character": "María (Thalía) and Luis Fernando de la Vega (Fernando Colunga)",
+     "summary": "After separation and reunion, María and Luis Fernando celebrate a new life with their children and María reveals she is pregnant again.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "2",
+     "pregnancy_again": "ongoing",
+     "pregnancy_again_note": "announced in the finale",
+     "kids_status": "yes",
+     "kids_note": "Nando and Fernando",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "ongoing — announced in the finale",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Mar%C3%ADa_la_del_Barrio"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2046,
+   "title": "Solsidan",
+   "subtitle": "Season 3",
+   "year": "2012",
+   "meta": "TV series · Sweden · Swedish",
+   "mechanism": "",
+   "confidence_flag": "Medium · Wikipedia",
+   "summary": "In Season 3, Anna and Alex are expecting their second child and finally buy their dream home.",
+   "character": "Anna (Mia Skäringer) and Alex (Felix Herngren)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "one child",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "ongoing — expecting in Season 3",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "ongoing",
+   "pregnancy_again_note": "expecting in Season 3",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Solsidan_(TV_series)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:63"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:63": {
+     "title": "Solsidan",
+     "year": "2012",
+     "format": "tv",
+     "meta": "TV series · Sweden · Swedish",
+     "character": "Anna (Mia Skäringer) and Alex (Felix Herngren)",
+     "summary": "In Season 3, Anna and Alex are expecting their second child and finally buy their dream home.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "ongoing",
+     "pregnancy_again_note": "expecting in Season 3",
+     "kids_status": "yes",
+     "kids_note": "one child",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "ongoing — expecting in Season 3",
+     "confidence_flag": "Medium · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Solsidan_(TV_series)"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Season 3",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2047,
+   "title": "The Unit",
+   "subtitle": "Season 4",
+   "year": "2009",
+   "meta": "TV series · United States · English",
+   "mechanism": "",
+   "confidence_flag": "Medium · Wikipedia",
+   "summary": "Mack takes a training post at the end of the series after Tiffy becomes pregnant with their third child.",
+   "character": "Tiffy (Abby Brammell) and Mack Gerhardt (Max Martini)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "two children",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "ongoing — series ends during the pregnancy",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "2",
+   "pregnancy_again": "ongoing",
+   "pregnancy_again_note": "series ends during the pregnancy",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Unit"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:64"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:64": {
+     "title": "The Unit",
+     "year": "2009",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Tiffy (Abby Brammell) and Mack Gerhardt (Max Martini)",
+     "summary": "Mack takes a training post at the end of the series after Tiffy becomes pregnant with their third child.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "2",
+     "pregnancy_again": "ongoing",
+     "pregnancy_again_note": "series ends during the pregnancy",
+     "kids_status": "yes",
+     "kids_note": "two children",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "ongoing — series ends during the pregnancy",
+     "confidence_flag": "Medium · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Unit"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Season 4",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2048,
+   "title": "Falling Skies",
+   "subtitle": "Season 5 finale",
+   "year": "2015",
+   "meta": "TV series · United States · English",
+   "mechanism": "",
+   "confidence_flag": "Medium-high · Wikipedia",
+   "summary": "Months after the war ends, Anne is pregnant with their second child.",
+   "character": "Anne Glass (Moon Bloodgood) and Tom Mason (Noah Wyle)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "daughter Lexi (plus Tom's three sons)",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "ongoing — epilogue",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "ongoing",
+   "pregnancy_again_note": "epilogue",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Tom_Mason_(Falling_Skies)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:65"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:65": {
+     "title": "Falling Skies",
+     "year": "2015",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Anne Glass (Moon Bloodgood) and Tom Mason (Noah Wyle)",
+     "summary": "Months after the war ends, Anne is pregnant with their second child.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "ongoing",
+     "pregnancy_again_note": "epilogue",
+     "kids_status": "yes",
+     "kids_note": "daughter Lexi (plus Tom's three sons)",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "ongoing — epilogue",
+     "confidence_flag": "Medium-high · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Tom_Mason_(Falling_Skies)"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Season 5 finale",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2049,
+   "title": "Brotherhood",
+   "subtitle": "Season 3",
+   "year": "2008",
+   "meta": "TV series · United States · English",
+   "mechanism": "",
+   "confidence_flag": "Medium · Wikipedia",
+   "summary": "By Season 3 Tommy and Eileen reach an uneasy reconciliation as she is pregnant with their fourth child, a son.",
+   "character": "Eileen (Annabeth Gish) and Tommy Caffee (Jason Clarke)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "three daughters",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "ongoing — son expected",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "3",
+   "pregnancy_again": "ongoing",
+   "pregnancy_again_note": "son expected",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Brotherhood_(American_TV_series)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:66"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:66": {
+     "title": "Brotherhood",
+     "year": "2008",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Eileen (Annabeth Gish) and Tommy Caffee (Jason Clarke)",
+     "summary": "By Season 3 Tommy and Eileen reach an uneasy reconciliation as she is pregnant with their fourth child, a son.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "3",
+     "pregnancy_again": "ongoing",
+     "pregnancy_again_note": "son expected",
+     "kids_status": "yes",
+     "kids_note": "three daughters",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "ongoing — son expected",
+     "confidence_flag": "Medium · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Brotherhood_(American_TV_series)"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Season 3",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2050,
+   "title": "Petticoat Junction",
+   "subtitle": "",
+   "year": "1969",
+   "meta": "TV series · United States · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "Steve and Betty Jo announce they are going to have another baby, but the storyline was dropped in the final season.",
+   "character": "Betty Jo (Linda Kaye Henning) and Steve Elliott (Mike Minor)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "daughter Kathy Jo",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "unknown — storyline dropped, never referred to again",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "unknown",
+   "pregnancy_again_note": "storyline dropped, never referred to again",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Petticoat_Junction"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:67"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:67": {
+     "title": "Petticoat Junction",
+     "year": "1969",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "character": "Betty Jo (Linda Kaye Henning) and Steve Elliott (Mike Minor)",
+     "summary": "Steve and Betty Jo announce they are going to have another baby, but the storyline was dropped in the final season.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "unknown",
+     "pregnancy_again_note": "storyline dropped, never referred to again",
+     "kids_status": "yes",
+     "kids_note": "daughter Kathy Jo",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "unknown — storyline dropped, never referred to again",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Petticoat_Junction"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2051,
+   "title": "EastEnders",
+   "subtitle": "Pauline & Arthur Fowler",
+   "year": "1985",
+   "meta": "TV soap · United Kingdom · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "In the first episode Pauline, aged 40 and mother of two teenagers, is pregnant with her third child; Martin is born that year.",
+   "character": "Pauline (Wendy Richard) and Arthur Fowler (Bill Treacher)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "teenagers Mark and Michelle",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — son Martin born in 1985",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "2",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "son Martin born in 1985",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Martin_Fowler_(EastEnders)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:68"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:68": {
+     "title": "EastEnders",
+     "year": "1985",
+     "format": "tv",
+     "meta": "TV soap · United Kingdom · English",
+     "character": "Pauline (Wendy Richard) and Arthur Fowler (Bill Treacher)",
+     "summary": "In the first episode Pauline, aged 40 and mother of two teenagers, is pregnant with her third child; Martin is born that year.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "2",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Martin born in 1985",
+     "kids_status": "yes",
+     "kids_note": "teenagers Mark and Michelle",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Martin born in 1985",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Martin_Fowler_(EastEnders)"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Pauline & Arthur Fowler",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2052,
+   "title": "EastEnders",
+   "subtitle": "Honey & Billy Mitchell",
+   "year": "2007",
+   "meta": "TV soap · United Kingdom · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "After daughter Janet, Honey discovers in March 2007 that she is pregnant again; William initially appears stillborn but is resuscitated.",
+   "character": "Honey (Emma Barton) and Billy Mitchell (Perry Fenwick)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "daughter Janet",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — son William born",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "son William born",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Honey_Mitchell"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:69"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:69": {
+     "title": "EastEnders",
+     "year": "2007",
+     "format": "tv",
+     "meta": "TV soap · United Kingdom · English",
+     "character": "Honey (Emma Barton) and Billy Mitchell (Perry Fenwick)",
+     "summary": "After daughter Janet, Honey discovers in March 2007 that she is pregnant again; William initially appears stillborn but is resuscitated.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son William born",
+     "kids_status": "yes",
+     "kids_note": "daughter Janet",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son William born",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Honey_Mitchell"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Honey & Billy Mitchell",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2053,
+   "title": "EastEnders",
+   "subtitle": "Kat & Alfie Moon",
+   "year": "2010",
+   "meta": "TV soap · United Kingdom · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "Soon after Kat is reunited with her baby son, she falls pregnant by Alfie despite his believed infertility, but miscarries.",
+   "character": "Kat (Jessie Wallace) and Alfie Moon (Shane Richie)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "son Tommy (and adult daughter Zoe)",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "miscarriage — miscarriage shortly after the discovery",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "miscarriage",
+   "pregnancy_again_note": "miscarriage shortly after the discovery",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kat_Slater"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:70"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:70": {
+     "title": "EastEnders",
+     "year": "2010",
+     "format": "tv",
+     "meta": "TV soap · United Kingdom · English",
+     "character": "Kat (Jessie Wallace) and Alfie Moon (Shane Richie)",
+     "summary": "Soon after Kat is reunited with her baby son, she falls pregnant by Alfie despite his believed infertility, but miscarries.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "miscarriage",
+     "pregnancy_again_note": "miscarriage shortly after the discovery",
+     "kids_status": "yes",
+     "kids_note": "son Tommy (and adult daughter Zoe)",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "miscarriage — miscarriage shortly after the discovery",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Kat_Slater"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Kat & Alfie Moon",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2054,
+   "title": "Coronation Street",
+   "subtitle": "Sally & Kevin Webster",
+   "year": "1994",
+   "meta": "TV soap · United Kingdom · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "Sally, mother of Rosie, falls pregnant again in 1994 and gives birth to a second daughter that November.",
+   "character": "Sally (Sally Dynevor) and Kevin Webster (Michael Le Vell)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "daughter Rosie",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — second daughter (Sophie) born November 1994",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "second daughter (Sophie) born November 1994",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Sally_Webster"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:71"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:71": {
+     "title": "Coronation Street",
+     "year": "1994",
+     "format": "tv",
+     "meta": "TV soap · United Kingdom · English",
+     "character": "Sally (Sally Dynevor) and Kevin Webster (Michael Le Vell)",
+     "summary": "Sally, mother of Rosie, falls pregnant again in 1994 and gives birth to a second daughter that November.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "second daughter (Sophie) born November 1994",
+     "kids_status": "yes",
+     "kids_note": "daughter Rosie",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — second daughter (Sophie) born November 1994",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Sally_Webster"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Sally & Kevin Webster",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2055,
+   "title": "Emmerdale",
+   "subtitle": "Chas & Paddy",
+   "year": "2018–19",
+   "meta": "TV soap · United Kingdom · English",
+   "mechanism": "",
+   "confidence_flag": "High · 2 Wikipedia articles",
+   "summary": "Reunited, Chas and Paddy lose baby Grace in 2018; in 2019 Chas is pregnant again and gives birth to Eve.",
+   "character": "Chas Dingle (Lucy Pargeter) and Paddy Kirk (Dominic Brunt)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "Chas's adult children",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — daughter Eve born in 2019",
+   "evidence": "Wikipedia, Wikipedia (Chas Dingle)",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "2",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "daughter Eve born in 2019",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Paddy_Kirk"
+    },
+    {
+     "label": "Wikipedia (Chas Dingle)",
+     "url": "https://en.wikipedia.org/wiki/Chas_Dingle"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:72"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:72": {
+     "title": "Emmerdale",
+     "year": "2018–19",
+     "format": "tv",
+     "meta": "TV soap · United Kingdom · English",
+     "character": "Chas Dingle (Lucy Pargeter) and Paddy Kirk (Dominic Brunt)",
+     "summary": "Reunited, Chas and Paddy lose baby Grace in 2018; in 2019 Chas is pregnant again and gives birth to Eve.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "2",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "daughter Eve born in 2019",
+     "kids_status": "yes",
+     "kids_note": "Chas's adult children",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — daughter Eve born in 2019",
+     "confidence_flag": "High · 2 Wikipedia articles",
+     "evidence": "Wikipedia, Wikipedia (Chas Dingle)",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Paddy_Kirk"
+      },
+      {
+       "label": "Wikipedia (Chas Dingle)",
+       "url": "https://en.wikipedia.org/wiki/Chas_Dingle"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Chas & Paddy",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2056,
+   "title": "Home and Away",
+   "subtitle": "Pippa & Michael Ross",
+   "year": "1991–92",
+   "meta": "TV soap · Australia · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "Widowed foster mother Pippa marries Michael, falls pregnant again and gives birth to Dale, who later dies of SIDS.",
+   "character": "Pippa (Debra Lawrance) and Michael Ross (Dennis Coard)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "son Christopher (plus foster children)",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — son Dale born (later dies of SIDS)",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "son Dale born (later dies of SIDS)",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy",
+    "family"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Pippa_Ross"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:73"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:73": {
+     "title": "Home and Away",
+     "year": "1991–92",
+     "format": "tv",
+     "meta": "TV soap · Australia · English",
+     "character": "Pippa (Debra Lawrance) and Michael Ross (Dennis Coard)",
+     "summary": "Widowed foster mother Pippa marries Michael, falls pregnant again and gives birth to Dale, who later dies of SIDS.",
+     "categories": [
+      "mom-pregnancy",
+      "family"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "son Dale born (later dies of SIDS)",
+     "kids_status": "yes",
+     "kids_note": "son Christopher (plus foster children)",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — son Dale born (later dies of SIDS)",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Pippa_Ross"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Pippa & Michael Ross",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2057,
+   "title": "General Hospital",
+   "subtitle": "Frisco & Felicia",
+   "year": "1994–95",
+   "meta": "TV soap · United States · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "Supercouple Frisco and Felicia, parents of Maxie, have a second daughter, Georgie, born in March 1995.",
+   "character": "Felicia (Kristina Wagner) and Frisco Jones (Jack Wagner)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "daughter Maxie",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — daughter Georgie born March 1995",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "daughter Georgie born March 1995",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Georgie_Jones"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:74"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:74": {
+     "title": "General Hospital",
+     "year": "1994–95",
+     "format": "tv",
+     "meta": "TV soap · United States · English",
+     "character": "Felicia (Kristina Wagner) and Frisco Jones (Jack Wagner)",
+     "summary": "Supercouple Frisco and Felicia, parents of Maxie, have a second daughter, Georgie, born in March 1995.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "daughter Georgie born March 1995",
+     "kids_status": "yes",
+     "kids_note": "daughter Maxie",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — daughter Georgie born March 1995",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Georgie_Jones"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Frisco & Felicia",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2058,
+   "title": "General Hospital",
+   "subtitle": "Carly & Jax",
+   "year": "2009",
+   "meta": "TV soap · United States · English",
+   "mechanism": "",
+   "confidence_flag": "Medium-high · Wikipedia",
+   "summary": "Carly, mother of Michael and Morgan, discovers a high-risk pregnancy in 2009; Josslyn is born.",
+   "character": "Carly Corinthos (Laura Wright) and Jax (Ingo Rademacher)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "sons Michael and Morgan",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — daughter Josslyn born",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "2",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "daughter Josslyn born",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Carly_Corinthos"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:75"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:75": {
+     "title": "General Hospital",
+     "year": "2009",
+     "format": "tv",
+     "meta": "TV soap · United States · English",
+     "character": "Carly Corinthos (Laura Wright) and Jax (Ingo Rademacher)",
+     "summary": "Carly, mother of Michael and Morgan, discovers a high-risk pregnancy in 2009; Josslyn is born.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "2",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "daughter Josslyn born",
+     "kids_status": "yes",
+     "kids_note": "sons Michael and Morgan",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — daughter Josslyn born",
+     "confidence_flag": "Medium-high · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Carly_Corinthos"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Carly & Jax",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2059,
+   "title": "Days of Our Lives",
+   "subtitle": "Bo & Hope",
+   "year": "2006–07",
+   "meta": "TV soap · United States · English",
+   "mechanism": "",
+   "confidence_flag": "Medium-high · Wikipedia",
+   "summary": "Hope, mother of adult Shawn, gives birth to Ciara, delivered by Bo in a warehouse; fake DNA results first point to another man.",
+   "character": "Hope (Kristian Alfonso) and Bo Brady (Peter Reckell)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "son Shawn",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "birth — daughter Ciara born",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "birth",
+   "pregnancy_again_note": "daughter Ciara born",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ciara_Brady"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:76"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:76": {
+     "title": "Days of Our Lives",
+     "year": "2006–07",
+     "format": "tv",
+     "meta": "TV soap · United States · English",
+     "character": "Hope (Kristian Alfonso) and Bo Brady (Peter Reckell)",
+     "summary": "Hope, mother of adult Shawn, gives birth to Ciara, delivered by Bo in a warehouse; fake DNA results first point to another man.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "birth",
+     "pregnancy_again_note": "daughter Ciara born",
+     "kids_status": "yes",
+     "kids_note": "son Shawn",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "birth — daughter Ciara born",
+     "confidence_flag": "Medium-high · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Ciara_Brady"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Bo & Hope",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2060,
+   "title": "One Life to Live",
+   "subtitle": "Marcie & Michael",
+   "year": "2011",
+   "meta": "TV soap · United States · English",
+   "mechanism": "",
+   "confidence_flag": "High · Wikipedia",
+   "summary": "Marcie and Michael, parents of Gabriel, return in October 2011 announcing she is pregnant with their second child.",
+   "character": "Marcie (Kathy Brier) and Michael McBain (Nathaniel Marston)",
+   "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "son Gabriel",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "ongoing — announced on their return",
+   "evidence": "single source — Wikipedia",
+   "rating": "not stated in sources",
+   "adult": "no",
+   "existing_kids": "1",
+   "pregnancy_again": "ongoing",
+   "pregnancy_again_note": "announced on their return",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Marcie_Walsh_McBain"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kids-pregnant-again"
+   ],
+   "source_records": [
+    "kids-pregnant-again:77"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kids-pregnant-again:77": {
+     "title": "One Life to Live",
+     "year": "2011",
+     "format": "tv",
+     "meta": "TV soap · United States · English",
+     "character": "Marcie (Kathy Brier) and Michael McBain (Nathaniel Marston)",
+     "summary": "Marcie and Michael, parents of Gabriel, return in October 2011 announcing she is pregnant with their second child.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "rating": "not stated in sources",
+     "adult": "no",
+     "existing_kids": "1",
+     "pregnancy_again": "ongoing",
+     "pregnancy_again_note": "announced on their return",
+     "kids_status": "yes",
+     "kids_note": "son Gabriel",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "ongoing — announced on their return",
+     "confidence_flag": "High · Wikipedia",
+     "evidence": "single source — Wikipedia",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Marcie_Walsh_McBain"
+      }
+     ],
+     "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
+     "married": "yes",
+     "subtitle": "Marcie & Michael",
+     "standalone": true
+    }
+   }
   }
  ],
  "sections": [
@@ -241355,7 +248208,8 @@ window.CATALOG = {
    "notes": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "kids-pregnant-again"
    ],
    "groups": [
     {
@@ -241411,6 +248265,16 @@ window.CATALOG = {
         "High confidence · index-sourced",
         "High confidence",
         "Special-needs adoption"
+       ],
+       "sources": [
+        {
+         "label": "Grey's Anatomy Fans",
+         "url": "https://greysanatomyfans.com/a-complete-timeline-of-meredith-grey-and-derek-shepherds-iconic-love-story-on-greys-anatomy/"
+        },
+        {
+         "label": "Vidan",
+         "url": "https://vidan.org/a-complete-timeline-of-meredith-grey-and-derek-shepherds-iconic-love-story-on-greys-anatomy/"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -241523,6 +248387,16 @@ window.CATALOG = {
         "Fertility struggle → adoption → later pregnancy",
         "High confidence · index-sourced",
         "High confidence"
+       ],
+       "sources": [
+        {
+         "label": "Sex and the City Wiki",
+         "url": "https://sexandthecity.fandom.com/wiki/Charlotte_York"
+        },
+        {
+         "label": "Marie Claire",
+         "url": "https://www.marieclaire.co.uk/news/celebrity-news/sex-and-the-city-spoiler-alert-182103"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -241706,10 +248580,22 @@ window.CATALOG = {
       }
      ],
      "from_source": "ig6qlxqxoxvcxla"
+    },
+    {
+     "title": "Parents with children get pregnant again (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2016,
+       "from_source": "kids-pregnant-again"
+      }
+     ],
+     "from_source": "kids-pregnant-again"
     }
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 25
+    "ig6qlxqxoxvcxla": 25,
+    "kids-pregnant-again": null
    }
   },
   {
@@ -255480,10 +262366,12 @@ window.CATALOG = {
    "description": "",
    "notes": [],
    "from_sources": [
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "kids-pregnant-again"
    ],
    "declared_count_by_source": {
-    "mom-pregnancy": null
+    "mom-pregnancy": null,
+    "kids-pregnant-again": null
    },
    "groups": [
     {
@@ -255828,6 +262716,257 @@ window.CATALOG = {
       }
      ],
      "from_source": "mom-pregnancy"
+    },
+    {
+     "title": "Parents with children get pregnant again (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2044,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2028,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 596,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2049,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2009,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2035,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2054,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2059,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2006,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2051,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2052,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2053,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2055,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2048,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2002,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2001,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2030,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2003,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2017,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2057,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2058,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2031,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2056,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2019,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2004,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2018,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2026,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2039,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2042,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2040,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2034,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2021,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2045,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2000,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2032,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2016,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2020,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2029,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2060,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2033,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2007,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2041,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2005,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2050,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2008,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2043,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2027,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2013,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2036,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2014,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2046,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2015,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2037,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2010,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2025,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2011,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2047,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2023,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2038,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2012,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2022,
+       "from_source": "kids-pregnant-again"
+      }
+     ],
+     "from_source": "kids-pregnant-again"
     }
    ]
   },
@@ -257953,6 +265092,12 @@ window.CATALOG = {
         "Sex proposed to induce labor",
         "Medium confidence · depiction unconfirmed"
        ],
+       "sources": [
+        {
+         "label": "Big Bang Theory Wiki",
+         "url": "https://bigbangtheory.fandom.com/wiki/The_Neonatal_Nomenclature"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -258485,7 +265630,8 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "agegap-marriage"
+    "agegap-marriage",
+    "kids-pregnant-again"
    ],
    "groups": [
     {
@@ -258628,11 +265774,23 @@ window.CATALOG = {
       }
      ],
      "from_source": "agegap-marriage"
+    },
+    {
+     "title": "Parents with children get pregnant again (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2024,
+       "from_source": "kids-pregnant-again"
+      }
+     ],
+     "from_source": "kids-pregnant-again"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 6,
-    "agegap-marriage": null
+    "agegap-marriage": null,
+    "kids-pregnant-again": null
    }
   },
   {
@@ -262502,7 +269660,8 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "agegap-marriage",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "kids-pregnant-again"
    ],
    "groups": [
     {
@@ -262853,12 +270012,32 @@ window.CATALOG = {
       }
      ],
      "from_source": "mom-pregnancy"
+    },
+    {
+     "title": "Parents with children get pregnant again (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2044,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2056,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2021,
+       "from_source": "kids-pregnant-again"
+      }
+     ],
+     "from_source": "kids-pregnant-again"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 23,
     "agegap-marriage": null,
-    "mom-pregnancy": null
+    "mom-pregnancy": null,
+    "kids-pregnant-again": null
    }
   },
   {

@@ -2445,6 +2445,13 @@
      "subtitle": "",
      "year": "2008",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "kids-pregnant-again:13",
+     "title": "Dexter",
+     "subtitle": "",
+     "year": "2008",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -10703,6 +10710,13 @@
      "subtitle": "",
      "year": "2008",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "kids-pregnant-again:11",
+     "title": "Sex and the City",
+     "subtitle": "",
+     "year": "2008",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -10773,6 +10787,13 @@
     },
     {
      "rid": "mom-pregnancy:84",
+     "title": "Grey's Anatomy",
+     "subtitle": "",
+     "year": "2005–",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "kids-pregnant-again:12",
      "title": "Grey's Anatomy",
      "subtitle": "",
      "year": "2005–",
@@ -14031,6 +14052,13 @@
      "subtitle": "",
      "year": "2018",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kids-pregnant-again:15",
+     "title": "The Big Bang Theory",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -21106,6 +21134,13 @@
      "subtitle": "",
      "year": "2008",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "kids-pregnant-again:9",
+     "title": "Breaking Bad",
+     "subtitle": "",
+     "year": "2008",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -21122,6 +21157,13 @@
     },
     {
      "rid": "mom-pregnancy:81",
+     "title": "Mad Men",
+     "subtitle": "",
+     "year": "2008",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "kids-pregnant-again:10",
      "title": "Mad Men",
      "subtitle": "",
      "year": "2008",
@@ -21150,6 +21192,26 @@
    ]
   },
   {
+   "kept_id": 1939,
+   "kept": "Dynasty (1981–1989)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "agegap-marriage:7",
+     "title": "Dynasty",
+     "subtitle": "Krystle / Blake Carrington arc",
+     "year": "1981–1989"
+    },
+    {
+     "rid": "kids-pregnant-again:16",
+     "title": "Dynasty",
+     "subtitle": "",
+     "year": "1981–1989",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 1945,
    "kept": "Modern Family (2009–2020)",
    "scope": "cross-source",
@@ -21162,6 +21224,13 @@
     },
     {
      "rid": "mom-pregnancy:62",
+     "title": "Modern Family",
+     "subtitle": "",
+     "year": "2009–2020",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "kids-pregnant-again:14",
      "title": "Modern Family",
      "subtitle": "",
      "year": "2009–2020",
@@ -21192,6 +21261,166 @@
      "title": "Law & Order: Special Victims Unit",
      "subtitle": "S18E18 · “Spellbound”",
      "year": "2017",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1974,
+   "kept": "Roseanne (1995)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "mom-pregnancy:2",
+     "title": "Roseanne",
+     "subtitle": "Roseanne / Dan · Jerry Garcia pregnancy arc (Seasons 7–8)",
+     "year": "1995"
+    },
+    {
+     "rid": "kids-pregnant-again:3",
+     "title": "Roseanne",
+     "subtitle": "",
+     "year": "1995",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1975,
+   "kept": "The Fresh Prince of Bel-Air (1992–93)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "mom-pregnancy:3",
+     "title": "The Fresh Prince of Bel-Air",
+     "subtitle": "Vivian / Philip · Nicky pregnancy (Season 3)",
+     "year": "1992–93"
+    },
+    {
+     "rid": "kids-pregnant-again:4",
+     "title": "The Fresh Prince of Bel-Air",
+     "subtitle": "",
+     "year": "1992–93",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1978,
+   "kept": "Parenthood (1989)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "mom-pregnancy:6",
+     "title": "Parenthood",
+     "subtitle": "Karen / Gil and Helen pregnancies",
+     "year": "1989"
+    },
+    {
+     "rid": "kids-pregnant-again:1",
+     "title": "Parenthood",
+     "subtitle": "",
+     "year": "1989",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1982,
+   "kept": "Yours, Mine and Ours (1968)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "mom-pregnancy:10",
+     "title": "Yours, Mine and Ours",
+     "subtitle": "",
+     "year": "1968"
+    },
+    {
+     "rid": "kids-pregnant-again:2",
+     "title": "Yours, Mine and Ours",
+     "subtitle": "",
+     "year": "1968",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1987,
+   "kept": "Friday Night Lights (2007)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "mom-pregnancy:15",
+     "title": "Friday Night Lights",
+     "subtitle": "Tami / Eric Taylor · Gracie pregnancy (Seasons 1–2)",
+     "year": "2007"
+    },
+    {
+     "rid": "kids-pregnant-again:5",
+     "title": "Friday Night Lights",
+     "subtitle": "",
+     "year": "2007",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1988,
+   "kept": "Growing Pains (1988)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "mom-pregnancy:16",
+     "title": "Growing Pains",
+     "subtitle": "Maggie / Jason · Chrissy pregnancy (Seasons 3–4)",
+     "year": "1988"
+    },
+    {
+     "rid": "kids-pregnant-again:6",
+     "title": "Growing Pains",
+     "subtitle": "",
+     "year": "1988",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1989,
+   "kept": "Family Ties (1984–85)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "mom-pregnancy:17",
+     "title": "Family Ties",
+     "subtitle": "Elyse / Steven · Andrew pregnancy (Season 3)",
+     "year": "1984–85"
+    },
+    {
+     "rid": "kids-pregnant-again:7",
+     "title": "Family Ties",
+     "subtitle": "",
+     "year": "1984–85",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1990,
+   "kept": "Downton Abbey (2010)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "mom-pregnancy:18",
+     "title": "Downton Abbey",
+     "subtitle": "Series 1 · Cora / Robert pregnancy",
+     "year": "2010"
+    },
+    {
+     "rid": "kids-pregnant-again:8",
+     "title": "Downton Abbey",
+     "subtitle": "",
+     "year": "2010",
      "matched_by": "match_title"
     }
    ]
@@ -21269,11 +21498,12 @@
   "field-fixes": 2,
   "hypnosis-assault": 35,
   "mom-pregnancy": 84,
-  "hypnosis-assault-loose": 39
+  "hypnosis-assault-loose": 39,
+  "kids-pregnant-again": 77
  },
- "entry_count_after_dedupe": 1995,
+ "entry_count_after_dedupe": 2056,
  "within_source_groups": 1,
- "cross_source_groups": 816,
+ "cross_source_groups": 825,
  "index_only_records": 39,
- "local_only_records": 1133
+ "local_only_records": 1194
 }
