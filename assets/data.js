@@ -909,6 +909,145 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "rich-wife-hypnosis",
+   "label": "Rich woman / wife hypnotized for gain",
+   "kind": "local",
+   "share_url": "sources/rich-wife-hypnosis.json",
+   "description": "Screen works worldwide where a rich woman or a wife is hypnotized or mesmerized (hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices) or love-potion enchanted so that someone gains money, an inheritance, sex, love, a marriage, a crime or her madness. Possession, ghosts and black-magic possession excluded; adult women only. Each record states who hypnotized her and why, the method, whether she has children, and her pregnancy status; TV records list the relevant episodes.",
+   "dropped": [
+    {
+     "title": "Gaslight",
+     "year": "1944",
+     "reason": "no hypnosis: psychological gaslighting only"
+    },
+    {
+     "title": "Svengali / Trilby (1914–1983 versions)",
+     "year": "",
+     "reason": "Trilby is neither rich nor a wife; already catalogued under Hypnotized to love"
+    },
+    {
+     "title": "Kolchak: The Night Stalker — \"Bad Medicine\"",
+     "year": "1974",
+     "reason": "the jewel-killer is a shaman spirit (Diablero), so the spirit exclusion applies"
+    },
+    {
+     "title": "The Castle of Cagliostro",
+     "year": "1979",
+     "reason": "the catalog and sources describe drugging, not hypnosis"
+    },
+    {
+     "title": "Perfect Little Angels",
+     "year": "1998",
+     "reason": "mind-control drug pills, not hypnosis"
+    },
+    {
+     "title": "Creepy",
+     "year": "2016",
+     "reason": "drug-based control; gain motive not clear"
+    },
+    {
+     "title": "Upstream Color",
+     "year": "2013",
+     "reason": "the victim is not shown to be rich or a wife (parasite drug control)"
+    },
+    {
+     "title": "Haunting Fear",
+     "year": "1990",
+     "reason": "hypnosis is genuine therapy; the scheming husband is not shown using it"
+    },
+    {
+     "title": "The Dukes of Hazzard — \"Heiress Daisy Duke\"",
+     "year": "1984",
+     "reason": "Daisy is neither rich nor a wife (hypnotized to pose as an heiress)"
+    },
+    {
+     "title": "Kung Fu: The Legend Continues — \"Magic Trick\"",
+     "year": "1994",
+     "reason": "victims are young women, not shown to be rich or married"
+    },
+    {
+     "title": "Paraíso — \"El poder de la mente\"",
+     "year": "",
+     "reason": "the victim is a girlfriend/employee, not rich or a wife"
+    },
+    {
+     "title": "Ana Antar",
+     "year": "",
+     "reason": "the hypnotized singer is not rich or a wife"
+    },
+    {
+     "title": "Murder, She Wrote — \"Death Casts a Spell\"",
+     "year": "1984",
+     "reason": "the claim that she was mesmerized into the affair turns out to be false"
+    },
+    {
+     "title": "Main Hoon Aparajita",
+     "year": "2022",
+     "reason": "who gains and why is not stated in sources"
+    },
+    {
+     "title": "Hypnotic",
+     "year": "2021",
+     "reason": "no gain motive for the hypnotist toward the wife"
+    },
+    {
+     "title": "The Vise",
+     "year": "1954",
+     "reason": "synopsis readings conflict over who is hypnotized"
+    },
+    {
+     "title": "White Zombie",
+     "year": "1932",
+     "reason": "voodoo zombification (black-magic exclusion)"
+    },
+    {
+     "title": "Mar de Amor / Cuidado con el Ángel / Enamorándome de Ramón",
+     "year": "",
+     "reason": "therapeutic or confession hypnosis with no gain; Ramón's heroine is a minor"
+    },
+    {
+     "title": "Susana y Mariano — \"El Hipnotizador\"",
+     "year": "",
+     "reason": "the hypnosis fails; she is faking"
+    },
+    {
+     "title": "Gutur Gu — \"Smita in Balu's Control\"",
+     "year": "",
+     "reason": "comic hypnosis with no gain motive"
+    },
+    {
+     "title": "La Traición — Episode 56",
+     "year": "2008",
+     "reason": "Helena's wealth or marriage could not be verified"
+    },
+    {
+     "title": "Jewelpet — \"Operation Proposal\"",
+     "year": "",
+     "reason": "the victim is a minor"
+    },
+    {
+     "title": "Amir Garib",
+     "year": "1974",
+     "reason": "no source shows a rich woman hypnotized for gain"
+    },
+    {
+     "title": "Wish Ko Lang: \"Gayuma\"",
+     "year": "2021",
+     "reason": "Regina is neither rich nor a wife, and the gayuma is framed as a spell"
+    },
+    {
+     "title": "Flash Gordon (serial / 1980)",
+     "year": "",
+     "reason": "Dale Arden is neither rich nor married; the forced marriage never takes place"
+    }
+   ],
+   "check": {
+    "raw_count": 45,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -919,10 +1058,11 @@ window.CATALOG = {
   "hypnotized-love": 30,
   "devil-deal-hypnosis": 1,
   "pregnant-intimacy": 47,
-  "occult-pregnancy-nearmiss": 3
+  "occult-pregnancy-nearmiss": 3,
+  "rich-wife-hypnosis": 45
  },
- "raw_total": 3174,
- "entry_count": 1928,
+ "raw_total": 3219,
+ "entry_count": 1932,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -982,19 +1122,19 @@ window.CATALOG = {
    "key": "partner-control",
    "label": "Female controlled by husband / boyfriend / ex-partner",
    "legend_label": "Female controlled by husband / boyfriend / ex-partner",
-   "entry_count": 26
+   "entry_count": 29
   },
   {
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 128
+   "entry_count": 130
   },
   {
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 33
+   "entry_count": 34
   },
   {
    "key": "human",
@@ -1006,7 +1146,7 @@ window.CATALOG = {
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 26
+   "entry_count": 33
   },
   {
    "key": "index-54",
@@ -1018,19 +1158,19 @@ window.CATALOG = {
    "key": "cheat-control",
    "label": "Hypnotized / controlled into infidelity",
    "legend_label": "Hypnotized / controlled into infidelity",
-   "entry_count": 10
+   "entry_count": 13
   },
   {
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 62
+   "entry_count": 72
   },
   {
    "key": "love",
    "label": "Hypnotized to love",
    "legend_label": "Hypnotized to love",
-   "entry_count": 145
+   "entry_count": 147
   },
   {
    "key": "medical",
@@ -1048,7 +1188,7 @@ window.CATALOG = {
    "key": "mother",
    "label": "Mother with child hypnotized / mind-controlled",
    "legend_label": "Mother with child hypnotized / mind-controlled",
-   "entry_count": 31
+   "entry_count": 33
   },
   {
    "key": "other-control",
@@ -1066,7 +1206,7 @@ window.CATALOG = {
    "key": "partner-commissioned",
    "label": "Partner hires a third party to control wife / girlfriend",
    "legend_label": "Partner hires a third-party controller",
-   "entry_count": 9
+   "entry_count": 10
   },
   {
    "key": "index-48",
@@ -1153,6 +1293,12 @@ window.CATALOG = {
    "entry_count": 4
   },
   {
+   "key": "rich-wife-gain",
+   "label": "Rich woman / wife hypnotized for someone's gain",
+   "legend_label": "Rich woman / wife hypnotized for someone's gain",
+   "entry_count": 45
+  },
+  {
    "key": "index-51",
    "label": "Rich woman hypnotized — love / marriage",
    "legend_label": "Rich woman hypnotized — love / marriage",
@@ -1186,7 +1332,7 @@ window.CATALOG = {
    "key": "scifi",
    "label": "Sci-fi / alien / technological control",
    "legend_label": "Sci-fi / alien / technological control",
-   "entry_count": 316
+   "entry_count": 317
   },
   {
    "key": "family",
@@ -1240,7 +1386,7 @@ window.CATALOG = {
    "key": "therapist-wife",
    "label": "Wife hypnotized / controlled by a therapist",
    "legend_label": "Wife hypnotized / controlled by a therapist",
-   "entry_count": 11
+   "entry_count": 13
   },
   {
    "key": "another-man",
@@ -4168,14 +4314,24 @@ window.CATALOG = {
    "confidence_flag": "High confidence",
    "summary": "After Jin-su is forcibly committed by her husband, therapist Suk-kwon treats her with deep hypnosis. When they meet again, he resumes treatment and gradually falls in love with his vulnerable patient, crossing therapeutic boundaries.",
    "character": "",
-   "provenance": "",
+   "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only.",
    "note": "",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "cited sources do not mention a pregnancy",
+   "hypnotist": "psychiatrist Suk-kwon",
+   "gain_motive": [
+    "love",
+    "sex"
+   ],
+   "method": "hypnotherapy misuse",
+   "kids_status": "unknown",
    "format": "movie",
    "categories": [
     "love",
     "therapist-wife",
     "adult-hypnosis",
-    "partner-control"
+    "partner-control",
+    "rich-wife-gain"
    ],
    "sources": [
     {
@@ -4206,13 +4362,15 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:18",
     "ig6qlxqxoxvcxla:66",
     "ig6qlxqxoxvcxla:281",
-    "ig6qlxqxoxvcxla:306"
+    "ig6qlxqxoxvcxla:306",
+    "rich-wife-hypnosis:26"
    ],
    "index_only": false,
    "local_only": false,
@@ -4366,6 +4524,65 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "The Hypnotized / Faceless Beauty (2004)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:26",
+     "source": "rich-wife-hypnosis",
+     "label": "The Hypnotized / Faceless Beauty (2004)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Hypnotized / Faceless Beauty",
+     "subtitle": "",
+     "year": "2004",
+     "meta": "",
+     "summary": "Psychiatrist Suk-kwon treats married patient Jin-su with deep hypnosis and uses the sessions to pursue her romantically, crossing therapeutic boundaries. Hypnotist: psychiatrist Suk-kwon. Gain: love, sex. Method: hypnotherapy misuse. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Low-medium · existing catalog sources",
+     "categories": [
+      "rich-wife-gain",
+      "therapist-wife",
+      "love"
+     ],
+     "sources": [
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0419730"
+      },
+      {
+       "label": "KOFIC",
+       "url": "http://www.kofic.org/eng/films/index/filmsView.jsp?movieCd=20040625"
+      },
+      {
+       "label": "Letterboxd",
+       "url": "https://letterboxd.com/film/hypnotized/"
+      },
+      {
+       "label": "YesAsia",
+       "url": "https://www.yesasia.com/global/the-hypnotized-vcd-korea-version/1003882986-0-0-0-en/info.html"
+      },
+      {
+       "label": "AllMovie",
+       "url": "https://www.allmovie.com/movie/the-hypnotized-am54419"
+      },
+      {
+       "label": "moviefone.com",
+       "url": "https://www.moviefone.com/movie/hypnotized/6xiSsZiEnZgh9dfWFgVMA/main/"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "hypnotist": "psychiatrist Suk-kwon",
+     "gain_motive": [
+      "love",
+      "sex"
+     ],
+     "method": "hypnotherapy misuse",
+     "kids_status": "unknown",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -4485,6 +4702,57 @@ window.CATALOG = {
      "group": "Therapeutic turning romantic / obsessive",
      "confidence": "Strict match",
      "note": ""
+    },
+    "rich-wife-hypnosis:26": {
+     "title": "The Hypnotized / Faceless Beauty",
+     "year": "2004",
+     "format": "movie",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Low-medium · existing catalog sources",
+     "summary": "Psychiatrist Suk-kwon treats married patient Jin-su with deep hypnosis and uses the sessions to pursue her romantically, crossing therapeutic boundaries. Hypnotist: psychiatrist Suk-kwon. Gain: love, sex. Method: hypnotherapy misuse. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "categories": [
+      "rich-wife-gain",
+      "therapist-wife",
+      "love"
+     ],
+     "match_title": "The Hypnotized / Faceless Beauty",
+     "match_year": "2004",
+     "sources": [
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0419730"
+      },
+      {
+       "label": "KOFIC",
+       "url": "http://www.kofic.org/eng/films/index/filmsView.jsp?movieCd=20040625"
+      },
+      {
+       "label": "Letterboxd",
+       "url": "https://letterboxd.com/film/hypnotized/"
+      },
+      {
+       "label": "YesAsia",
+       "url": "https://www.yesasia.com/global/the-hypnotized-vcd-korea-version/1003882986-0-0-0-en/info.html"
+      },
+      {
+       "label": "AllMovie",
+       "url": "https://www.allmovie.com/movie/the-hypnotized-am54419"
+      },
+      {
+       "label": "moviefone.com",
+       "url": "https://www.moviefone.com/movie/hypnotized/6xiSsZiEnZgh9dfWFgVMA/main/"
+      }
+     ],
+     "hypnotist": "psychiatrist Suk-kwon",
+     "gain_motive": [
+      "love",
+      "sex"
+     ],
+     "method": "hypnotherapy misuse",
+     "kids_status": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -5588,12 +5856,22 @@ window.CATALOG = {
    "confidence_flag": "High confidence",
    "summary": "A Svengali-like figure uses hypnotism in an attempt to win the widowed Mrs. Morgan’s love away from her fiancé.",
    "character": "",
-   "provenance": "",
+   "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only.",
    "note": "",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "cited sources do not mention a pregnancy",
+   "hypnotist": "a Svengali-like hypnotist",
+   "gain_motive": [
+    "love",
+    "marriage"
+   ],
+   "method": "hypnosis",
+   "kids_status": "unknown",
    "format": "short",
    "categories": [
     "love",
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "rich-wife-gain"
    ],
    "sources": [
     {
@@ -5603,16 +5881,84 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "xla62ucxbx02u5:29"
+    "xla62ucxbx02u5:29",
+    "rich-wife-hypnosis:3"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:29",
+    "source": "xla62ucxbx02u5",
+    "label": "The Hypnotist (1911)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Hypnotist",
+    "subtitle": "",
+    "year": "1911",
+    "meta": "Silent comedy short",
+    "summary": "A Svengali-like figure uses hypnotism in an attempt to win the widowed Mrs. Morgan’s love away from her fiancé.",
+    "character": "",
+    "note": "",
+    "mechanism": "Literal hypnosis",
+    "confidence_flag": "High confidence",
+    "categories": [
+     "love",
+     "adult-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt1098341"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:3",
+     "source": "rich-wife-hypnosis",
+     "label": "The Hypnotist (1911)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Hypnotist",
+     "subtitle": "",
+     "year": "1911",
+     "meta": "",
+     "summary": "A hypnotist tries to win the widowed Mrs. Morgan away from her fiancé by hypnotism. Hypnotist: a Svengali-like hypnotist. Gain: love, marriage. Method: hypnosis. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · surviving silent-film synopsis",
+     "categories": [
+      "rich-wife-gain",
+      "love"
+     ],
+     "sources": [
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt1098341"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "hypnotist": "a Svengali-like hypnotist",
+     "gain_motive": [
+      "love",
+      "marriage"
+     ],
+     "method": "hypnosis",
+     "kids_status": "unknown",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:29": {
      "t": "The Hypnotist",
@@ -5633,6 +5979,36 @@ window.CATALOG = {
      ],
      "ahg": "comedy",
      "flag": "High confidence"
+    },
+    "rich-wife-hypnosis:3": {
+     "title": "The Hypnotist",
+     "year": "1911",
+     "format": "short",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · surviving silent-film synopsis",
+     "summary": "A hypnotist tries to win the widowed Mrs. Morgan away from her fiancé by hypnotism. Hypnotist: a Svengali-like hypnotist. Gain: love, marriage. Method: hypnosis. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "categories": [
+      "rich-wife-gain",
+      "love"
+     ],
+     "match_title": "The Hypnotist",
+     "match_year": "1911",
+     "sources": [
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt1098341"
+      }
+     ],
+     "hypnotist": "a Svengali-like hypnotist",
+     "gain_motive": [
+      "love",
+      "marriage"
+     ],
+     "method": "hypnosis",
+     "kids_status": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -6534,33 +6910,118 @@ window.CATALOG = {
    "year": "1940",
    "meta": "Movie",
    "mechanism": "Magical spell",
-   "confidence_flag": "",
+   "confidence_flag": "Medium · Wikipedia plot",
    "summary": "Jaffar uses the Blue Rose of Forgetfulness to erase the Princess’s love for Ahmad and persuade her she loves him; Ahmad breaks the spell.",
    "character": "",
-   "provenance": "",
+   "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only.",
    "note": "",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "no pregnancy for her in the cited plot sources",
+   "hypnotist": "the Grand Vizier Jaffar",
+   "gain_motive": [
+    "marriage",
+    "love"
+   ],
+   "method": "love potion-style enchantment (the Blue Rose of Forgetfulness)",
+   "kids_status": "no",
    "format": "movie",
    "categories": [
-    "love"
+    "love",
+    "rich-wife-gain"
    ],
    "sources": [
     {
      "label": "BFI Screenonline",
      "url": "http://www.screenonline.org.uk/film/id/438437/synopsis.html"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Thief_of_Bagdad_(1940_film)"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "xla62ucxbx02u5:33"
+    "xla62ucxbx02u5:33",
+    "rich-wife-hypnosis:21"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:33",
+    "source": "xla62ucxbx02u5",
+    "label": "The Thief of Bagdad (1940)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Thief of Bagdad",
+    "subtitle": "",
+    "year": "1940",
+    "meta": "Movie",
+    "summary": "Jaffar uses the Blue Rose of Forgetfulness to erase the Princess’s love for Ahmad and persuade her she loves him; Ahmad breaks the spell.",
+    "character": "",
+    "note": "",
+    "mechanism": "Magical spell",
+    "confidence_flag": "",
+    "categories": [
+     "love"
+    ],
+    "sources": [
+     {
+      "label": "BFI Screenonline",
+      "url": "http://www.screenonline.org.uk/film/id/438437/synopsis.html"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:21",
+     "source": "rich-wife-hypnosis",
+     "label": "The Thief of Bagdad (1940)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Thief of Bagdad",
+     "subtitle": "",
+     "year": "1940",
+     "meta": "",
+     "summary": "Jaffar uses the Blue Rose of Forgetfulness to wipe the Princess's love for Ahmad so she will accept him. Hypnotist: the Grand Vizier Jaffar. Gain: marriage, love. Method: love potion-style enchantment (the Blue Rose of Forgetfulness). Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Wikipedia plot",
+     "categories": [
+      "rich-wife-gain",
+      "love"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Thief_of_Bagdad_(1940_film)"
+      },
+      {
+       "label": "BFI Screenonline",
+       "url": "http://www.screenonline.org.uk/film/id/438437/synopsis.html"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "hypnotist": "the Grand Vizier Jaffar",
+     "gain_motive": [
+      "marriage",
+      "love"
+     ],
+     "method": "love potion-style enchantment (the Blue Rose of Forgetfulness)",
+     "kids_status": "no",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:33": {
      "t": "The Thief of Bagdad",
@@ -6578,6 +7039,40 @@ window.CATALOG = {
        "http://www.screenonline.org.uk/film/id/438437/synopsis.html"
       ]
      ]
+    },
+    "rich-wife-hypnosis:21": {
+     "title": "The Thief of Bagdad",
+     "year": "1940",
+     "format": "movie",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Wikipedia plot",
+     "summary": "Jaffar uses the Blue Rose of Forgetfulness to wipe the Princess's love for Ahmad so she will accept him. Hypnotist: the Grand Vizier Jaffar. Gain: marriage, love. Method: love potion-style enchantment (the Blue Rose of Forgetfulness). Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "categories": [
+      "rich-wife-gain",
+      "love"
+     ],
+     "match_title": "The Thief of Bagdad",
+     "match_year": "1940",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Thief_of_Bagdad_(1940_film)"
+      },
+      {
+       "label": "BFI Screenonline",
+       "url": "http://www.screenonline.org.uk/film/id/438437/synopsis.html"
+      }
+     ],
+     "hypnotist": "the Grand Vizier Jaffar",
+     "gain_motive": [
+      "marriage",
+      "love"
+     ],
+     "method": "love potion-style enchantment (the Blue Rose of Forgetfulness)",
+     "kids_status": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    },
    "watch_links": [
@@ -6604,13 +7099,23 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "hypnotist": "her husband Richard Courtland, with accomplice Charles Vernay posing as a psychiatrist",
+   "gain_motive": [
+    "money",
+    "inheritance",
+    "love"
+   ],
+   "method": "hypnosis (drug-assisted)",
+   "kids_status": "no",
+   "kids_note": "none in the plot",
    "format": "movie",
    "categories": [
     "wife",
     "adult-hypnosis",
     "partner-control",
     "partner-commissioned",
-    "medical"
+    "medical",
+    "rich-wife-gain"
    ],
    "sources": [
     {
@@ -6646,7 +7151,8 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:34",
@@ -6654,7 +7160,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla:58",
     "ig6qlxqxoxvcxla:251",
     "ig6qlxqxoxvcxla:293",
-    "worldwide-hypnosis:772"
+    "worldwide-hypnosis:772",
+    "rich-wife-hypnosis:1"
    ],
    "index_only": false,
    "local_only": false,
@@ -6849,6 +7356,72 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:1",
+     "source": "rich-wife-hypnosis",
+     "label": "Sleep, My Love (1948)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Sleep, My Love",
+     "subtitle": "",
+     "year": "1948",
+     "meta": "",
+     "summary": "Wealthy Alison Courtland is drugged and hypnotized so she appears insane and is pushed toward suicide, letting her husband inherit her money and be free for his mistress Daphne. Hypnotist: her husband Richard Courtland, with accomplice Charles Vernay posing as a psychiatrist. Gain: money, inheritance, love. Method: hypnosis (drug-assisted). Kids: no (none in the plot). Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "High · Wikipedia plot",
+     "categories": [
+      "rich-wife-gain",
+      "wife",
+      "partner-control",
+      "partner-commissioned"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Sleep,_My_Love"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "http://en.wikipedia.org/wiki/Sleep,_My_Love"
+      },
+      {
+       "label": "Film Comment",
+       "url": "https://www.filmcomment.com/blog/sleep-my-love-1948-douglas-sirk/?print"
+      },
+      {
+       "label": "Classic Film Noir",
+       "url": "https://www.classicfilmnoir.com/2024/01/sleep-my-love-1948.html"
+      },
+      {
+       "label": "Film Comment",
+       "url": "https://www.filmcomment.com/article/stanley-milgram-experimenter-michael-almereyda/"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Sleep%2C_My_Love"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Sleep%2C_My_Love"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "hypnotist": "her husband Richard Courtland, with accomplice Charles Vernay posing as a psychiatrist",
+     "gain_motive": [
+      "money",
+      "inheritance",
+      "love"
+     ],
+     "method": "hypnosis (drug-assisted)",
+     "kids_status": "no",
+     "kids_note": "none in the plot",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -6996,6 +7569,64 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "rich-wife-hypnosis:1": {
+     "title": "Sleep, My Love",
+     "year": "1948",
+     "format": "movie",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "High · Wikipedia plot",
+     "summary": "Wealthy Alison Courtland is drugged and hypnotized so she appears insane and is pushed toward suicide, letting her husband inherit her money and be free for his mistress Daphne. Hypnotist: her husband Richard Courtland, with accomplice Charles Vernay posing as a psychiatrist. Gain: money, inheritance, love. Method: hypnosis (drug-assisted). Kids: no (none in the plot). Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "categories": [
+      "rich-wife-gain",
+      "wife",
+      "partner-control",
+      "partner-commissioned"
+     ],
+     "match_title": "Sleep, My Love",
+     "match_year": "1948",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Sleep,_My_Love"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "http://en.wikipedia.org/wiki/Sleep,_My_Love"
+      },
+      {
+       "label": "Film Comment",
+       "url": "https://www.filmcomment.com/blog/sleep-my-love-1948-douglas-sirk/?print"
+      },
+      {
+       "label": "Classic Film Noir",
+       "url": "https://www.classicfilmnoir.com/2024/01/sleep-my-love-1948.html"
+      },
+      {
+       "label": "Film Comment",
+       "url": "https://www.filmcomment.com/article/stanley-milgram-experimenter-michael-almereyda/"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Sleep%2C_My_Love"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Sleep%2C_My_Love"
+      }
+     ],
+     "hypnotist": "her husband Richard Courtland, with accomplice Charles Vernay posing as a psychiatrist",
+     "gain_motive": [
+      "money",
+      "inheritance",
+      "love"
+     ],
+     "method": "hypnosis (drug-assisted)",
+     "kids_status": "no",
+     "kids_note": "none in the plot",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    },
    "watch_links": [
@@ -11771,11 +12402,20 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "hypnotist": "her husband, stage magician Diijon",
+   "gain_motive": [
+    "crime",
+    "other (jealous revenge)"
+   ],
+   "method": "hypnosis",
+   "kids_status": "no",
    "format": "movie",
    "categories": [
     "wife",
     "partner-control",
-    "human"
+    "human",
+    "rich-wife-gain",
+    "crime"
    ],
    "sources": [
     {
@@ -11791,12 +12431,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:58",
     "ig6qlxqxoxvcxla:253",
-    "worldwide-hypnosis:930"
+    "worldwide-hypnosis:930",
+    "rich-wife-hypnosis:11"
    ],
    "index_only": false,
    "local_only": false,
@@ -11887,6 +12529,50 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:11",
+     "source": "rich-wife-hypnosis",
+     "label": "The Mask of Diijon (1946)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Mask of Diijon",
+     "subtitle": "",
+     "year": "1946",
+     "meta": "",
+     "summary": "Diijon hypnotizes his young wife Victoria and orders her to kill her former lover. Hypnotist: her husband, stage magician Diijon. Gain: crime, other (jealous revenge). Method: hypnosis. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Mental Block + existing catalog",
+     "categories": [
+      "rich-wife-gain",
+      "wife",
+      "partner-control",
+      "crime"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/The_Mask_of_Diijon"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Mask_of_Diijon"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "hypnotist": "her husband, stage magician Diijon",
+     "gain_motive": [
+      "crime",
+      "other (jealous revenge)"
+     ],
+     "method": "hypnosis",
+     "kids_status": "no",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -11941,6 +12627,42 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "rich-wife-hypnosis:11": {
+     "title": "The Mask of Diijon",
+     "year": "1946",
+     "format": "movie",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Mental Block + existing catalog",
+     "summary": "Diijon hypnotizes his young wife Victoria and orders her to kill her former lover. Hypnotist: her husband, stage magician Diijon. Gain: crime, other (jealous revenge). Method: hypnosis. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "categories": [
+      "rich-wife-gain",
+      "wife",
+      "partner-control",
+      "crime"
+     ],
+     "match_title": "The Mask of Diijon",
+     "match_year": "1946",
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/The_Mask_of_Diijon"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Mask_of_Diijon"
+      }
+     ],
+     "hypnotist": "her husband, stage magician Diijon",
+     "gain_motive": [
+      "crime",
+      "other (jealous revenge)"
+     ],
+     "method": "hypnosis",
+     "kids_status": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -11954,12 +12676,24 @@ window.CATALOG = {
    "confidence_flag": "Cataloged",
    "summary": "Hypnotic husband Ribadier puts his wife to sleep by fixing his eyes on her so he can sneak out for affairs, then wakes her on return.",
    "character": "",
-   "provenance": "",
+   "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only.",
    "note": "",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "no pregnancy for her in the cited plot sources",
+   "hypnotist": "her husband Ribadier",
+   "gain_motive": [
+    "sex",
+    "other (freedom to have affairs)"
+   ],
+   "method": "hypnosis (gaze)",
+   "kids_status": "no",
+   "kids_note": "none in Feydeau's plot",
    "format": "tv",
    "categories": [
     "wife",
-    "partner-control"
+    "partner-control",
+    "rich-wife-gain",
+    "cheat-control"
    ],
    "sources": [
     {
@@ -11974,11 +12708,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:59",
-    "ig6qlxqxoxvcxla:254"
+    "ig6qlxqxoxvcxla:254",
+    "rich-wife-hypnosis:12"
    ],
    "index_only": false,
    "local_only": false,
@@ -12040,6 +12776,51 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Le Système Ribadier (1975)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:12",
+     "source": "rich-wife-hypnosis",
+     "label": "Le Système Ribadier (1975)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Le Système Ribadier",
+     "subtitle": "",
+     "year": "1975",
+     "meta": "",
+     "summary": "Ribadier puts his wife Angèle to sleep with his gaze so he can slip out to his mistress, then wakes her when he returns. Hypnotist: her husband Ribadier. Gain: sex, other (freedom to have affairs). Method: hypnosis (gaze). Kids: no (none in Feydeau's plot). Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Feydeau play adaptation",
+     "categories": [
+      "rich-wife-gain",
+      "wife",
+      "partner-control",
+      "cheat-control"
+     ],
+     "sources": [
+      {
+       "label": "Captain Watch",
+       "url": "https://www.captainwatch.com/film/494532/le-systeme-ribadier"
+      },
+      {
+       "label": "DVD Critiques",
+       "url": "http://www.dvdcritiques.com/Dvd/3964"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "hypnotist": "her husband Ribadier",
+     "gain_motive": [
+      "sex",
+      "other (freedom to have affairs)"
+     ],
+     "method": "hypnosis (gaze)",
+     "kids_status": "no",
+     "kids_note": "none in Feydeau's plot",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -12074,6 +12855,43 @@ window.CATALOG = {
      "group": "Literal hypnosis",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "rich-wife-hypnosis:12": {
+     "title": "Le Système Ribadier",
+     "year": "1975",
+     "format": "tv",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Feydeau play adaptation",
+     "summary": "Ribadier puts his wife Angèle to sleep with his gaze so he can slip out to his mistress, then wakes her when he returns. Hypnotist: her husband Ribadier. Gain: sex, other (freedom to have affairs). Method: hypnosis (gaze). Kids: no (none in Feydeau's plot). Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "categories": [
+      "rich-wife-gain",
+      "wife",
+      "partner-control",
+      "cheat-control"
+     ],
+     "match_title": "Le Système Ribadier",
+     "match_year": "1975",
+     "sources": [
+      {
+       "label": "Captain Watch",
+       "url": "https://www.captainwatch.com/film/494532/le-systeme-ribadier"
+      },
+      {
+       "label": "DVD Critiques",
+       "url": "http://www.dvdcritiques.com/Dvd/3964"
+      }
+     ],
+     "hypnotist": "her husband Ribadier",
+     "gain_motive": [
+      "sex",
+      "other (freedom to have affairs)"
+     ],
+     "method": "hypnosis (gaze)",
+     "kids_status": "no",
+     "kids_note": "none in Feydeau's plot",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -42431,19 +43249,41 @@ window.CATALOG = {
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "cited sources do not mention a pregnancy",
+   "hypnotist": "Delfin",
+   "gain_motive": [
+    "love",
+    "sex"
+   ],
+   "method": "love potion",
+   "kids_status": "no",
+   "kids_note": "young unmarried woman",
    "format": "movie",
    "categories": [
-    "love"
+    "love",
+    "rich-wife-gain"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "label": "ScreenAnarchy review (Cinemalaya 2011)",
+     "url": "https://screenanarchy.com/2011/07/cinemalaya-2011-gayuma-review.html"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt1732648/"
+    }
+   ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:240",
-    "ig6qlxqxoxvcxla:160"
+    "ig6qlxqxoxvcxla:160",
+    "rich-wife-hypnosis:4"
    ],
    "index_only": false,
    "local_only": false,
@@ -42492,6 +43332,49 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Pilgrim Lovers / Gayuma",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:4",
+     "source": "rich-wife-hypnosis",
+     "label": "Pilgrim Lovers / Gayuma (2011)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Pilgrim Lovers / Gayuma",
+     "subtitle": "",
+     "year": "2011",
+     "meta": "",
+     "summary": "Delfin gives rich girl Carla a gayuma (love potion), and she gives in to his advances until a pilgrimage breaks its hold. Hypnotist: Delfin. Gain: love, sex. Method: love potion. Kids: no (young unmarried woman). Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "character": "",
+     "note": "",
+     "mechanism": "Love-potion enchantment",
+     "confidence_flag": "Medium · festival review + IMDb",
+     "categories": [
+      "rich-wife-gain",
+      "love"
+     ],
+     "sources": [
+      {
+       "label": "ScreenAnarchy review (Cinemalaya 2011)",
+       "url": "https://screenanarchy.com/2011/07/cinemalaya-2011-gayuma-review.html"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt1732648/"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "hypnotist": "Delfin",
+     "gain_motive": [
+      "love",
+      "sex"
+     ],
+     "method": "love potion",
+     "kids_status": "no",
+     "kids_note": "young unmarried woman",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -42514,6 +43397,41 @@ window.CATALOG = {
      "group": "Hypnotist's assistant / love-potion variants",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "rich-wife-hypnosis:4": {
+     "title": "Pilgrim Lovers / Gayuma",
+     "year": "2011",
+     "format": "movie",
+     "mechanism": "Love-potion enchantment",
+     "confidence_flag": "Medium · festival review + IMDb",
+     "summary": "Delfin gives rich girl Carla a gayuma (love potion), and she gives in to his advances until a pilgrimage breaks its hold. Hypnotist: Delfin. Gain: love, sex. Method: love potion. Kids: no (young unmarried woman). Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "categories": [
+      "rich-wife-gain",
+      "love"
+     ],
+     "match_title": "Pilgrim Lovers / Gayuma",
+     "match_year": "2011",
+     "sources": [
+      {
+       "label": "ScreenAnarchy review (Cinemalaya 2011)",
+       "url": "https://screenanarchy.com/2011/07/cinemalaya-2011-gayuma-review.html"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt1732648/"
+      }
+     ],
+     "hypnotist": "Delfin",
+     "gain_motive": [
+      "love",
+      "sex"
+     ],
+     "method": "love potion",
+     "kids_status": "no",
+     "kids_note": "young unmarried woman",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -42862,25 +43780,41 @@ window.CATALOG = {
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "no pregnancy for her in the cited plot sources",
+   "hypnotist": "Dr. Mabuse",
+   "gain_motive": [
+    "sex",
+    "other (possession of her)"
+   ],
+   "method": "hypnosis",
+   "kids_status": "no",
    "format": "movie",
    "categories": [
     "human",
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "rich-wife-gain"
    ],
    "sources": [
     {
      "label": "German Wikipedia",
      "url": "https://de.wikipedia.org/wiki/Dr._Mabuse,_der_Spieler"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Dr._Mabuse_the_Gambler"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:244",
-    "ig6qlxqxoxvcxla:480"
+    "ig6qlxqxoxvcxla:480",
+    "rich-wife-hypnosis:15"
    ],
    "index_only": false,
    "local_only": false,
@@ -42937,6 +43871,48 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Dr. Mabuse the Gambler (1922)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:15",
+     "source": "rich-wife-hypnosis",
+     "label": "Dr. Mabuse the Gambler (1922)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dr. Mabuse the Gambler",
+     "subtitle": "",
+     "year": "1922",
+     "meta": "",
+     "summary": "Mabuse hypnotizes the wealthy Countess Told into inviting him into her home, then abducts her. Hypnotist: Dr. Mabuse. Gain: sex, other (possession of her). Method: hypnosis. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "High · Wikipedia plot",
+     "categories": [
+      "rich-wife-gain",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Dr._Mabuse_the_Gambler"
+      },
+      {
+       "label": "German Wikipedia",
+       "url": "https://de.wikipedia.org/wiki/Dr._Mabuse,_der_Spieler"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "hypnotist": "Dr. Mabuse",
+     "gain_motive": [
+      "sex",
+      "other (possession of her)"
+     ],
+     "method": "hypnosis",
+     "kids_status": "no",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -42967,6 +43943,40 @@ window.CATALOG = {
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "rich-wife-hypnosis:15": {
+     "title": "Dr. Mabuse the Gambler",
+     "year": "1922",
+     "format": "movie",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "High · Wikipedia plot",
+     "summary": "Mabuse hypnotizes the wealthy Countess Told into inviting him into her home, then abducts her. Hypnotist: Dr. Mabuse. Gain: sex, other (possession of her). Method: hypnosis. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "categories": [
+      "rich-wife-gain",
+      "human"
+     ],
+     "match_title": "Dr. Mabuse the Gambler",
+     "match_year": "1922",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Dr._Mabuse_the_Gambler"
+      },
+      {
+       "label": "German Wikipedia",
+       "url": "https://de.wikipedia.org/wiki/Dr._Mabuse,_der_Spieler"
+      }
+     ],
+     "hypnotist": "Dr. Mabuse",
+     "gain_motive": [
+      "sex",
+      "other (possession of her)"
+     ],
+     "method": "hypnosis",
+     "kids_status": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    },
    "watch_links": [
@@ -43205,6 +44215,14 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "hypnotist": "society hypnotist David Korvo",
+   "gain_motive": [
+    "crime",
+    "money"
+   ],
+   "method": "hypnosis (post-hypnotic suggestion)",
+   "kids_status": "no",
+   "kids_note": "none in the plot",
    "format": "movie",
    "categories": [
     "human",
@@ -43212,7 +44230,9 @@ window.CATALOG = {
     "forced-obedience",
     "adult-hypnosis",
     "index-48",
-    "index-49"
+    "index-49",
+    "rich-wife-gain",
+    "crime"
    ],
    "sources": [
     {
@@ -43246,13 +44266,18 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Whirlpool_%281950_film%29"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Whirlpool_(1949_film)"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:248",
@@ -43263,7 +44288,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla:230",
     "ig6qlxqxoxvcxla:301",
     "ig6qlxqxoxvcxla:484",
-    "worldwide-hypnosis:1051"
+    "worldwide-hypnosis:1051",
+    "rich-wife-hypnosis:2"
    ],
    "index_only": false,
    "local_only": false,
@@ -43548,6 +44574,71 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "rich-wife-hypnosis:2",
+     "source": "rich-wife-hypnosis",
+     "label": "Whirlpool (1949)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Whirlpool",
+     "subtitle": "",
+     "year": "1949",
+     "meta": "",
+     "summary": "Korvo hypnotizes Ann Sutton, wife of a prominent psychoanalyst, and plants suggestions that put her at the scene of the murder of Theresa Randolph, a woman he had swindled, so she is framed for his crime. Hypnotist: society hypnotist David Korvo. Gain: crime, money. Method: hypnosis (post-hypnotic suggestion). Kids: no (none in the plot). Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "High · Wikipedia plot",
+     "categories": [
+      "rich-wife-gain",
+      "therapist-wife",
+      "crime",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Whirlpool_(1949_film)"
+      },
+      {
+       "label": "TCM",
+       "url": "https://www.tcm.com/video/1105320/whirlpool-1949-movie-clip-your-soul-can-undress"
+      },
+      {
+       "label": "knightleyemma.com",
+       "url": "https://knightleyemma.com/2022/08/18/whirlpool/"
+      },
+      {
+       "label": "DigiGuide",
+       "url": "https://digiguide.tv/programme/Film/Whirlpool/29671/"
+      },
+      {
+       "label": "TV Tropes",
+       "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/BungledHypnotism"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Whirlpool_%281950%29"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Whirlpool_%281950_film%29"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "hypnotist": "society hypnotist David Korvo",
+     "gain_motive": [
+      "crime",
+      "money"
+     ],
+     "method": "hypnosis (post-hypnotic suggestion)",
+     "kids_status": "no",
+     "kids_note": "none in the plot",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -43748,6 +44839,63 @@ window.CATALOG = {
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
      "match_title": "Whirlpool",
      "match_year": "1949"
+    },
+    "rich-wife-hypnosis:2": {
+     "title": "Whirlpool",
+     "year": "1949",
+     "format": "movie",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "High · Wikipedia plot",
+     "summary": "Korvo hypnotizes Ann Sutton, wife of a prominent psychoanalyst, and plants suggestions that put her at the scene of the murder of Theresa Randolph, a woman he had swindled, so she is framed for his crime. Hypnotist: society hypnotist David Korvo. Gain: crime, money. Method: hypnosis (post-hypnotic suggestion). Kids: no (none in the plot). Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "categories": [
+      "rich-wife-gain",
+      "therapist-wife",
+      "crime",
+      "forced-obedience"
+     ],
+     "match_title": "Whirlpool",
+     "match_year": "1949",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Whirlpool_(1949_film)"
+      },
+      {
+       "label": "TCM",
+       "url": "https://www.tcm.com/video/1105320/whirlpool-1949-movie-clip-your-soul-can-undress"
+      },
+      {
+       "label": "knightleyemma.com",
+       "url": "https://knightleyemma.com/2022/08/18/whirlpool/"
+      },
+      {
+       "label": "DigiGuide",
+       "url": "https://digiguide.tv/programme/Film/Whirlpool/29671/"
+      },
+      {
+       "label": "TV Tropes",
+       "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/BungledHypnotism"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Whirlpool_%281950%29"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Whirlpool_%281950_film%29"
+      }
+     ],
+     "hypnotist": "society hypnotist David Korvo",
+     "gain_motive": [
+      "crime",
+      "money"
+     ],
+     "method": "hypnosis (post-hypnotic suggestion)",
+     "kids_status": "no",
+     "kids_note": "none in the plot",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -45176,11 +46324,42 @@ window.CATALOG = {
    "note": "The pregnancy, paternity resolution and blended-family structure are verified, but the exact marriage and stepmother chronology during conception is complicated by Brooke’s engagement to Nick in the same arc.",
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
+   "episodes": [
+    {
+     "episode": "Ep. 2868",
+     "gist": "Pierce hypnotizes a sceptical Taylor and has her act 16 again.",
+     "number_verified": false
+    },
+    {
+     "episode": "Ep. 2873",
+     "gist": "Pierce removes that suggestion but plants a bell trigger that puts her back in trance.",
+     "number_verified": false
+    },
+    {
+     "episode": "Ep. 2884",
+     "gist": "Assistant Bailey keeps the bell and uses it to tell Taylor to break up her marriage and fall for Pierce.",
+     "number_verified": false
+    },
+    {
+     "episode": "Ep. 2908",
+     "gist": "Pierce learns what happened and hypnotizes Taylor one last time to undo the programming.",
+     "number_verified": false
+    }
+   ],
+   "hypnotist": "Pierce Peterson, then his assistant Bailey using Pierce's trigger bell",
+   "gain_motive": [
+    "love",
+    "other (breaking up her marriage for his boss)"
+   ],
+   "method": "hypnosis (post-hypnotic bell trigger)",
+   "kids_status": "yes",
+   "kids_note": "at least 1: son Thomas with Ridge; exact count at this point not confirmed",
    "format": "tv",
    "categories": [
     "human",
     "stepmom-pregnancy",
-    "love"
+    "love",
+    "rich-wife-gain"
    ],
    "sources": [
     {
@@ -45208,14 +46387,16 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:258",
     "ig6qlxqxoxvcxla:79",
     "ig6qlxqxoxvcxla:357",
     "ig6qlxqxoxvcxla:494",
-    "worldwide-hypnosis:863"
+    "worldwide-hypnosis:863",
+    "rich-wife-hypnosis:38"
    ],
    "index_only": false,
    "local_only": false,
@@ -45372,6 +46553,84 @@ window.CATALOG = {
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "rich-wife-hypnosis:38",
+     "source": "rich-wife-hypnosis",
+     "label": "The Bold and the Beautiful (1998)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Bold and the Beautiful",
+     "subtitle": "",
+     "year": "1998",
+     "meta": "",
+     "summary": "Taylor, wife of Ridge Forrester of the wealthy fashion family, gets a post-hypnotic bell trigger; Bailey uses it to sour her marriage and make her love Pierce. Hypnotist: Pierce Peterson, then his assistant Bailey using Pierce's trigger bell. Gain: love, other (breaking up her marriage for his boss). Method: hypnosis (post-hypnotic bell trigger). Kids: yes (at least 1: son Thomas with Ridge; exact count at this point not confirmed). Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Mental Block episode summaries",
+     "categories": [
+      "rich-wife-gain",
+      "love",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/The_Bold_and_the_Beautiful"
+      },
+      {
+       "label": "Soap Opera Digest",
+       "url": "https://www.soapoperadigest.com/content/rj-forrester-on-the-bold-and-the-beautiful/"
+      },
+      {
+       "label": "Soap Central recap",
+       "url": "https://www.soapcentral.com/bold-and-beautiful/bold-and-beautiful-weekly-recap-for-040628"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Bold_and_the_Beautiful"
+      },
+      {
+       "label": "TV Tropes: Hypno Fool",
+       "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoFool"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "episodes": [
+      {
+       "episode": "Ep. 2868",
+       "gist": "Pierce hypnotizes a sceptical Taylor and has her act 16 again.",
+       "number_verified": false
+      },
+      {
+       "episode": "Ep. 2873",
+       "gist": "Pierce removes that suggestion but plants a bell trigger that puts her back in trance.",
+       "number_verified": false
+      },
+      {
+       "episode": "Ep. 2884",
+       "gist": "Assistant Bailey keeps the bell and uses it to tell Taylor to break up her marriage and fall for Pierce.",
+       "number_verified": false
+      },
+      {
+       "episode": "Ep. 2908",
+       "gist": "Pierce learns what happened and hypnotizes Taylor one last time to undo the programming.",
+       "number_verified": false
+      }
+     ],
+     "hypnotist": "Pierce Peterson, then his assistant Bailey using Pierce's trigger bell",
+     "gain_motive": [
+      "love",
+      "other (breaking up her marriage for his boss)"
+     ],
+     "method": "hypnosis (post-hypnotic bell trigger)",
+     "kids_status": "yes",
+     "kids_note": "at least 1: son Thomas with Ridge; exact count at this point not confirmed",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -45477,6 +46736,76 @@ window.CATALOG = {
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
      "match_title": "The Bold and the Beautiful",
      "match_year": "1998"
+    },
+    "rich-wife-hypnosis:38": {
+     "title": "The Bold and the Beautiful",
+     "year": "1998",
+     "format": "tv",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Mental Block episode summaries",
+     "summary": "Taylor, wife of Ridge Forrester of the wealthy fashion family, gets a post-hypnotic bell trigger; Bailey uses it to sour her marriage and make her love Pierce. Hypnotist: Pierce Peterson, then his assistant Bailey using Pierce's trigger bell. Gain: love, other (breaking up her marriage for his boss). Method: hypnosis (post-hypnotic bell trigger). Kids: yes (at least 1: son Thomas with Ridge; exact count at this point not confirmed). Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "categories": [
+      "rich-wife-gain",
+      "love",
+      "human"
+     ],
+     "match_title": "The Bold and the Beautiful",
+     "match_year": "1998",
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/The_Bold_and_the_Beautiful"
+      },
+      {
+       "label": "Soap Opera Digest",
+       "url": "https://www.soapoperadigest.com/content/rj-forrester-on-the-bold-and-the-beautiful/"
+      },
+      {
+       "label": "Soap Central recap",
+       "url": "https://www.soapcentral.com/bold-and-beautiful/bold-and-beautiful-weekly-recap-for-040628"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Bold_and_the_Beautiful"
+      },
+      {
+       "label": "TV Tropes: Hypno Fool",
+       "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoFool"
+      }
+     ],
+     "hypnotist": "Pierce Peterson, then his assistant Bailey using Pierce's trigger bell",
+     "gain_motive": [
+      "love",
+      "other (breaking up her marriage for his boss)"
+     ],
+     "method": "hypnosis (post-hypnotic bell trigger)",
+     "kids_status": "yes",
+     "kids_note": "at least 1: son Thomas with Ridge; exact count at this point not confirmed",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "episodes": [
+      {
+       "episode": "Ep. 2868",
+       "gist": "Pierce hypnotizes a sceptical Taylor and has her act 16 again.",
+       "number_verified": false
+      },
+      {
+       "episode": "Ep. 2873",
+       "gist": "Pierce removes that suggestion but plants a bell trigger that puts her back in trance.",
+       "number_verified": false
+      },
+      {
+       "episode": "Ep. 2884",
+       "gist": "Assistant Bailey keeps the bell and uses it to tell Taylor to break up her marriage and fall for Pierce.",
+       "number_verified": false
+      },
+      {
+       "episode": "Ep. 2908",
+       "gist": "Pierce learns what happened and hypnotizes Taylor one last time to undo the programming.",
+       "number_verified": false
+      }
+     ],
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -80489,10 +81818,21 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "hypnotist": "her husband Otto, a hypnotherapist",
+   "gain_motive": [
+    "crime (cover-up)"
+   ],
+   "method": "hypnotherapy misuse (memory manipulation)",
+   "kids_status": "yes",
+   "kids_note": "1 daughter, Jordan",
    "format": "tv",
    "categories": [
     "remarried-wife-control",
-    "medical"
+    "medical",
+    "rich-wife-gain",
+    "wife",
+    "therapist-wife",
+    "mother"
    ],
    "sources": [
     {
@@ -80510,19 +81850,25 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/My_Husband%27s_Deadly_Past"
+    },
+    {
+     "label": "Lifetime Uncorked review",
+     "url": "https://lifetimeuncorked.com/2020/05/31/my-husbands-deadly-past-2020-lifetime/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:540",
     "ig6qlxqxoxvcxla:69",
     "ig6qlxqxoxvcxla:345",
-    "worldwide-hypnosis:615"
+    "worldwide-hypnosis:615",
+    "rich-wife-hypnosis:13"
    ],
    "index_only": false,
    "local_only": false,
@@ -80656,6 +82002,63 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:13",
+     "source": "rich-wife-hypnosis",
+     "label": "My Husband's Deadly Past (2020)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "My Husband's Deadly Past",
+     "subtitle": "",
+     "year": "2020",
+     "meta": "",
+     "summary": "Otto hypnotizes his wife Karen and alters her memories so she believes she committed a murder he is hiding. Hypnotist: her husband Otto, a hypnotherapist. Gain: crime (cover-up). Method: hypnotherapy misuse (memory manipulation). Kids: yes (1 daughter, Jordan). Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "High · Lifetime review + Mental Block plot",
+     "categories": [
+      "rich-wife-gain",
+      "wife",
+      "therapist-wife",
+      "medical",
+      "mother"
+     ],
+     "sources": [
+      {
+       "label": "Lifetime Uncorked review",
+       "url": "https://lifetimeuncorked.com/2020/05/31/my-husbands-deadly-past-2020-lifetime/"
+      },
+      {
+       "label": "FilmAffinity",
+       "url": "https://www.filmaffinity.com/en/film638122.html"
+      },
+      {
+       "label": "TheTVDB",
+       "url": "https://thetvdb.com/movies/my-husbands-deadly-past"
+      },
+      {
+       "label": "The Cinemaholic",
+       "url": "https://thecinemaholic.com/my-husbands-deadly-past-lifetime/"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/My_Husband%27s_Deadly_Past"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "hypnotist": "her husband Otto, a hypnotherapist",
+     "gain_motive": [
+      "crime (cover-up)"
+     ],
+     "method": "hypnotherapy misuse (memory manipulation)",
+     "kids_status": "yes",
+     "kids_note": "1 daughter, Jordan",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -80745,6 +82148,55 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "rich-wife-hypnosis:13": {
+     "title": "My Husband's Deadly Past",
+     "year": "2020",
+     "format": "movie",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "High · Lifetime review + Mental Block plot",
+     "summary": "Otto hypnotizes his wife Karen and alters her memories so she believes she committed a murder he is hiding. Hypnotist: her husband Otto, a hypnotherapist. Gain: crime (cover-up). Method: hypnotherapy misuse (memory manipulation). Kids: yes (1 daughter, Jordan). Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "categories": [
+      "rich-wife-gain",
+      "wife",
+      "therapist-wife",
+      "medical",
+      "mother"
+     ],
+     "match_title": "My Husband's Deadly Past",
+     "match_year": "2020",
+     "sources": [
+      {
+       "label": "Lifetime Uncorked review",
+       "url": "https://lifetimeuncorked.com/2020/05/31/my-husbands-deadly-past-2020-lifetime/"
+      },
+      {
+       "label": "FilmAffinity",
+       "url": "https://www.filmaffinity.com/en/film638122.html"
+      },
+      {
+       "label": "TheTVDB",
+       "url": "https://thetvdb.com/movies/my-husbands-deadly-past"
+      },
+      {
+       "label": "The Cinemaholic",
+       "url": "https://thecinemaholic.com/my-husbands-deadly-past-lifetime/"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/My_Husband%27s_Deadly_Past"
+      }
+     ],
+     "hypnotist": "her husband Otto, a hypnotherapist",
+     "gain_motive": [
+      "crime (cover-up)"
+     ],
+     "method": "hypnotherapy misuse (memory manipulation)",
+     "kids_status": "yes",
+     "kids_note": "1 daughter, Jordan",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -96663,13 +98115,29 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "S01E11 “The Seance”",
+     "air_date": "1976-12-15",
+     "gist": "The Angels look into a rich widow's vanishing jewellery and find she takes them herself in a trance; undercover as a wealthy widow, Kelly is hypnotized and programmed to attack Jill.",
+     "number_verified": true
+    }
+   ],
+   "hypnotist": "a fake medium's crooked assistant",
+   "gain_motive": [
+    "money",
+    "crime"
+   ],
+   "method": "hypnosis",
+   "kids_status": "unknown",
    "format": "tv",
    "categories": [
     "forced-obedience",
     "index-49",
     "scifi",
     "crime",
-    "human"
+    "human",
+    "rich-wife-gain"
    ],
    "sources": [
     {
@@ -96683,20 +98151,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Charlie%27s_Angels"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Charlie%27s_Angels_season_1"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:644",
     "ig6qlxqxoxvcxla:54",
     "ig6qlxqxoxvcxla:141",
     "ig6qlxqxoxvcxla:228",
-    "worldwide-hypnosis:169"
+    "worldwide-hypnosis:169",
+    "rich-wife-hypnosis:30"
    ],
    "index_only": false,
    "local_only": false,
@@ -96849,6 +98323,65 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:30",
+     "source": "rich-wife-hypnosis",
+     "label": "Charlie’s Angels (1976)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Charlie’s Angels",
+     "subtitle": "",
+     "year": "1976",
+     "meta": "",
+     "summary": "A rich widow who runs her affairs through séances is hypnotized into taking her own jewels for the medium's gang; Kelly, posing as a rich Texan widow, is hypnotized too. Hypnotist: a fake medium's crooked assistant. Gain: money, crime. Method: hypnosis. Kids: unknown. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "High · Wikipedia episode guide + Mental Block",
+     "categories": [
+      "rich-wife-gain",
+      "forced-obedience",
+      "crime"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Charlie%27s_Angels_season_1"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0539260"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Charlie%27s_Angels"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Charlie%27s_Angels"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "episodes": [
+      {
+       "episode": "S01E11 “The Seance”",
+       "air_date": "1976-12-15",
+       "gist": "The Angels look into a rich widow's vanishing jewellery and find she takes them herself in a trance; undercover as a wealthy widow, Kelly is hypnotized and programmed to attack Jill.",
+       "number_verified": true
+      }
+     ],
+     "hypnotist": "a fake medium's crooked assistant",
+     "gain_motive": [
+      "money",
+      "crime"
+     ],
+     "method": "hypnosis",
+     "kids_status": "unknown",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -96951,6 +98484,57 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "rich-wife-hypnosis:30": {
+     "title": "Charlie’s Angels",
+     "year": "1976",
+     "format": "tv",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "High · Wikipedia episode guide + Mental Block",
+     "summary": "A rich widow who runs her affairs through séances is hypnotized into taking her own jewels for the medium's gang; Kelly, posing as a rich Texan widow, is hypnotized too. Hypnotist: a fake medium's crooked assistant. Gain: money, crime. Method: hypnosis. Kids: unknown. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "categories": [
+      "rich-wife-gain",
+      "forced-obedience",
+      "crime"
+     ],
+     "match_title": "Charlie’s Angels",
+     "match_year": "1976",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Charlie%27s_Angels_season_1"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0539260"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Charlie%27s_Angels"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Charlie%27s_Angels"
+      }
+     ],
+     "hypnotist": "a fake medium's crooked assistant",
+     "gain_motive": [
+      "money",
+      "crime"
+     ],
+     "method": "hypnosis",
+     "kids_status": "unknown",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "episodes": [
+      {
+       "episode": "S01E11 “The Seance”",
+       "air_date": "1976-12-15",
+       "gist": "The Angels look into a rich widow's vanishing jewellery and find she takes them herself in a trance; undercover as a wealthy widow, Kelly is hypnotized and programmed to attack Jill.",
+       "number_verified": true
+      }
+     ],
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -97256,12 +98840,23 @@ window.CATALOG = {
    "confidence_flag": "Medium-high confidence",
    "summary": "Fraudulent swami Baroudi places heiress Anne Sinclair under his hypnotic spell and commands her to bring him her necklace at ten that night. She returns in a daze and obeys.",
    "character": "",
-   "provenance": "",
+   "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only.",
    "note": "",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "cited sources do not mention a pregnancy",
+   "hypnotist": "fake swami Baroudi",
+   "gain_motive": [
+    "money",
+    "crime"
+   ],
+   "method": "hypnosis",
+   "kids_status": "unknown",
    "format": "short",
    "categories": [
     "forced-obedience",
-    "index-49"
+    "index-49",
+    "rich-wife-gain",
+    "crime"
    ],
    "sources": [
     {
@@ -97272,12 +98867,14 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:647",
     "ig6qlxqxoxvcxla:142",
-    "ig6qlxqxoxvcxla:234"
+    "ig6qlxqxoxvcxla:234",
+    "rich-wife-hypnosis:5"
    ],
    "index_only": false,
    "local_only": false,
@@ -97362,6 +98959,45 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "In the Grip of a Charlatan (1913)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:5",
+     "source": "rich-wife-hypnosis",
+     "label": "In the Grip of a Charlatan (1913)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "In the Grip of a Charlatan",
+     "subtitle": "",
+     "year": "1913",
+     "meta": "",
+     "summary": "A fake swami hypnotizes heiress Anne Sinclair and orders her to bring him her necklace that night; she comes back in a daze and obeys. Hypnotist: fake swami Baroudi. Gain: money, crime. Method: hypnosis. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · trade-press synopsis",
+     "categories": [
+      "rich-wife-gain",
+      "forced-obedience",
+      "crime"
+     ],
+     "sources": [
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0233930"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "hypnotist": "fake swami Baroudi",
+     "gain_motive": [
+      "money",
+      "crime"
+     ],
+     "method": "hypnosis",
+     "kids_status": "unknown",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -97413,6 +99049,37 @@ window.CATALOG = {
      "group": "Cult leader / charlatan",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "rich-wife-hypnosis:5": {
+     "title": "In the Grip of a Charlatan",
+     "year": "1913",
+     "format": "short",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · trade-press synopsis",
+     "summary": "A fake swami hypnotizes heiress Anne Sinclair and orders her to bring him her necklace that night; she comes back in a daze and obeys. Hypnotist: fake swami Baroudi. Gain: money, crime. Method: hypnosis. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "categories": [
+      "rich-wife-gain",
+      "forced-obedience",
+      "crime"
+     ],
+     "match_title": "In the Grip of a Charlatan",
+     "match_year": "1913",
+     "sources": [
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0233930"
+      }
+     ],
+     "hypnotist": "fake swami Baroudi",
+     "gain_motive": [
+      "money",
+      "crime"
+     ],
+     "method": "hypnosis",
+     "kids_status": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -99332,12 +100999,21 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "hypnotist": "her husband, businessman-hypnotist Joe Siu",
+   "gain_motive": [
+    "crime",
+    "other (hiding his affairs)"
+   ],
+   "method": "hypnosis",
+   "kids_status": "unknown",
    "format": "movie",
    "categories": [
     "adult-hypnosis",
     "partner-control",
     "crime",
-    "human"
+    "human",
+    "rich-wife-gain",
+    "wife"
    ],
    "sources": [
     {
@@ -99352,11 +101028,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:662",
-    "worldwide-hypnosis:1006"
+    "worldwide-hypnosis:1006",
+    "rich-wife-hypnosis:14"
    ],
    "index_only": false,
    "local_only": false,
@@ -99421,6 +101099,50 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:14",
+     "source": "rich-wife-hypnosis",
+     "label": "To Seduce an Enemy (2003)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "To Seduce an Enemy",
+     "subtitle": "",
+     "year": "2003",
+     "meta": "",
+     "summary": "After Daisy learns of his affairs, Joe hypnotizes her into killing the detective she hired, then orders her to kill herself. Hypnotist: her husband, businessman-hypnotist Joe Siu. Gain: crime, other (hiding his affairs). Method: hypnosis. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · existing catalog sources",
+     "categories": [
+      "rich-wife-gain",
+      "wife",
+      "partner-control",
+      "crime"
+     ],
+     "sources": [
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0378884"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/To_Seduce_An_Enemy"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "hypnotist": "her husband, businessman-hypnotist Joe Siu",
+     "gain_motive": [
+      "crime",
+      "other (hiding his affairs)"
+     ],
+     "method": "hypnosis",
+     "kids_status": "unknown",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -99467,6 +101189,42 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "rich-wife-hypnosis:14": {
+     "title": "To Seduce an Enemy",
+     "year": "2003",
+     "format": "movie",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · existing catalog sources",
+     "summary": "After Daisy learns of his affairs, Joe hypnotizes her into killing the detective she hired, then orders her to kill herself. Hypnotist: her husband, businessman-hypnotist Joe Siu. Gain: crime, other (hiding his affairs). Method: hypnosis. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "categories": [
+      "rich-wife-gain",
+      "wife",
+      "partner-control",
+      "crime"
+     ],
+     "match_title": "To Seduce an Enemy",
+     "match_year": "2003",
+     "sources": [
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0378884"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/To_Seduce_An_Enemy"
+      }
+     ],
+     "hypnotist": "her husband, businessman-hypnotist Joe Siu",
+     "gain_motive": [
+      "crime",
+      "other (hiding his affairs)"
+     ],
+     "method": "hypnosis",
+     "kids_status": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -100557,11 +102315,22 @@ window.CATALOG = {
    "confidence_flag": "High confidence",
    "summary": "Dr. Mabuse hypnotizes Marion Menil and uses her to get close to Travers, marry him, and seize his wealth after his planned murder.",
    "character": "",
-   "provenance": "",
+   "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only.",
    "note": "",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "no pregnancy for her in the cited plot sources",
+   "hypnotist": "Dr. Mabuse (as psychiatrist Dr. Jordan)",
+   "gain_motive": [
+    "marriage",
+    "money"
+   ],
+   "method": "hypnosis",
+   "kids_status": "no",
    "format": "movie",
    "categories": [
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "rich-wife-gain",
+    "forced-obedience"
    ],
    "sources": [
     {
@@ -100571,16 +102340,83 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "xla62ucxbx02u5:676"
+    "xla62ucxbx02u5:676",
+    "rich-wife-hypnosis:16"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:676",
+    "source": "xla62ucxbx02u5",
+    "label": "Die 1000 Augen des Dr. Mabuse / The Thousand Eyes of Dr. Mabuse (1960)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Die 1000 Augen des Dr. Mabuse / The Thousand Eyes of Dr. Mabuse",
+    "subtitle": "",
+    "year": "1960",
+    "meta": "film · 1960, West Germany/France/Italy",
+    "summary": "Dr. Mabuse hypnotizes Marion Menil and uses her to get close to Travers, marry him, and seize his wealth after his planned murder.",
+    "character": "",
+    "note": "",
+    "mechanism": "Criminal mastermind or villain hypnotist",
+    "confidence_flag": "High confidence",
+    "categories": [
+     "adult-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "filmportal.de",
+      "url": "http://www.filmportal.de/film/die-1000-augen-des-dr-mabuse_05ab3755b25840f996f40a62d14f0a6b"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:16",
+     "source": "rich-wife-hypnosis",
+     "label": "Die 1000 Augen des Dr. Mabuse / The Thousand Eyes of Dr. Mabuse (1960)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Die 1000 Augen des Dr. Mabuse / The Thousand Eyes of Dr. Mabuse",
+     "subtitle": "",
+     "year": "1960",
+     "meta": "",
+     "summary": "Mabuse hypnotizes Marion Menil and uses her to get close to and marry millionaire Henry Travers, so he can take Travers's fortune after a planned murder. Hypnotist: Dr. Mabuse (as psychiatrist Dr. Jordan). Gain: marriage, money. Method: hypnosis. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · existing catalog sources",
+     "categories": [
+      "rich-wife-gain",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "filmportal.de",
+       "url": "http://www.filmportal.de/film/die-1000-augen-des-dr-mabuse_05ab3755b25840f996f40a62d14f0a6b"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "hypnotist": "Dr. Mabuse (as psychiatrist Dr. Jordan)",
+     "gain_motive": [
+      "marriage",
+      "money"
+     ],
+     "method": "hypnosis",
+     "kids_status": "no",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:676": {
      "t": "Die 1000 Augen des Dr. Mabuse / The Thousand Eyes of Dr. Mabuse",
@@ -100600,6 +102436,36 @@ window.CATALOG = {
        "http://www.filmportal.de/film/die-1000-augen-des-dr-mabuse_05ab3755b25840f996f40a62d14f0a6b"
       ]
      ]
+    },
+    "rich-wife-hypnosis:16": {
+     "title": "Die 1000 Augen des Dr. Mabuse / The Thousand Eyes of Dr. Mabuse",
+     "year": "1960",
+     "format": "movie",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · existing catalog sources",
+     "summary": "Mabuse hypnotizes Marion Menil and uses her to get close to and marry millionaire Henry Travers, so he can take Travers's fortune after a planned murder. Hypnotist: Dr. Mabuse (as psychiatrist Dr. Jordan). Gain: marriage, money. Method: hypnosis. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "categories": [
+      "rich-wife-gain",
+      "forced-obedience"
+     ],
+     "match_title": "Die 1000 Augen des Dr. Mabuse / The Thousand Eyes of Dr. Mabuse",
+     "match_year": "1960",
+     "sources": [
+      {
+       "label": "filmportal.de",
+       "url": "http://www.filmportal.de/film/die-1000-augen-des-dr-mabuse_05ab3755b25840f996f40a62d14f0a6b"
+      }
+     ],
+     "hypnotist": "Dr. Mabuse (as psychiatrist Dr. Jordan)",
+     "gain_motive": [
+      "marriage",
+      "money"
+     ],
+     "method": "hypnosis",
+     "kids_status": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    },
    "watch_links": [
@@ -123029,14 +124895,23 @@ window.CATALOG = {
    "year": "1936",
    "meta": "Adult/stag short film · United States · silent/English",
    "mechanism": "",
-   "confidence_flag": "",
+   "confidence_flag": "Low-medium · stag-film catalog listing",
    "summary": "A married couple visits a fortune-teller/hypnotist. The wife is hypnotized first and sexually used; the husband is then hypnotized as well.",
    "character": "",
-   "provenance": "",
+   "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only.",
    "note": "Loose match: both spouses are hypnotized, but the available synopsis does not establish that the wife brought her husband there for treatment. It also belongs to the adult/erotic variant.",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "cited sources do not mention a pregnancy",
+   "hypnotist": "a fortune-teller / hypnotist",
+   "gain_motive": [
+    "sex"
+   ],
+   "method": "hypnosis",
+   "kids_status": "unknown",
    "format": "movie",
    "categories": [
-    "index-48"
+    "index-48",
+    "rich-wife-gain"
    ],
    "sources": [
     {
@@ -123046,16 +124921,83 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:125"
+    "ig6qlxqxoxvcxla:125",
+    "rich-wife-hypnosis:6"
    ],
-   "index_only": true,
+   "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "ig6qlxqxoxvcxla:125",
+    "source": "ig6qlxqxoxvcxla",
+    "label": "The Hypnotist (1936)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Hypnotist",
+    "subtitle": "",
+    "year": "1936",
+    "meta": "Adult/stag short film · United States · silent/English",
+    "summary": "A married couple visits a fortune-teller/hypnotist. The wife is hypnotized first and sexually used; the husband is then hypnotized as well.",
+    "character": "",
+    "note": "Loose match: both spouses are hypnotized, but the available synopsis does not establish that the wife brought her husband there for treatment. It also belongs to the adult/erotic variant.",
+    "mechanism": "",
+    "confidence_flag": "",
+    "categories": [
+     "index-48"
+    ],
+    "sources": [
+     {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0289230"
+     }
+    ],
+    "distinct_story": false,
+    "index_title": "The Hypnotist"
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:6",
+     "source": "rich-wife-hypnosis",
+     "label": "The Hypnotist (1936)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Hypnotist",
+     "subtitle": "",
+     "year": "1936",
+     "meta": "",
+     "summary": "A married couple visits a fortune-teller who hypnotizes the wife and sexually exploits her, then hypnotizes the husband too. Hypnotist: a fortune-teller / hypnotist. Gain: sex. Method: hypnosis. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Low-medium · stag-film catalog listing",
+     "categories": [
+      "rich-wife-gain",
+      "index-48"
+     ],
+     "sources": [
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0289230"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "hypnotist": "a fortune-teller / hypnotist",
+     "gain_motive": [
+      "sex"
+     ],
+     "method": "hypnosis",
+     "kids_status": "unknown",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "ig6qlxqxoxvcxla:125": {
      "detailed": {
@@ -123079,6 +125021,35 @@ window.CATALOG = {
        }
       ]
      }
+    },
+    "rich-wife-hypnosis:6": {
+     "title": "The Hypnotist",
+     "year": "1936",
+     "format": "movie",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Low-medium · stag-film catalog listing",
+     "summary": "A married couple visits a fortune-teller who hypnotizes the wife and sexually exploits her, then hypnotizes the husband too. Hypnotist: a fortune-teller / hypnotist. Gain: sex. Method: hypnosis. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "categories": [
+      "rich-wife-gain",
+      "index-48"
+     ],
+     "match_title": "The Hypnotist",
+     "match_year": "1936",
+     "sources": [
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0289230"
+      }
+     ],
+     "hypnotist": "a fortune-teller / hypnotist",
+     "gain_motive": [
+      "sex"
+     ],
+     "method": "hypnosis",
+     "kids_status": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -124101,12 +126072,20 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "hypnotist": "stage hypnotist / ventriloquist the Great Vorelli",
+   "gain_motive": [
+    "money",
+    "marriage"
+   ],
+   "method": "hypnosis",
+   "kids_status": "no",
    "format": "movie",
    "categories": [
     "index-50",
     "love",
     "fantasy",
-    "human"
+    "human",
+    "rich-wife-gain"
    ],
    "sources": [
     {
@@ -124129,11 +126108,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
     "ig6qlxqxoxvcxla:148",
-    "worldwide-hypnosis:255"
+    "worldwide-hypnosis:255",
+    "rich-wife-hypnosis:9"
    ],
    "index_only": false,
    "local_only": false,
@@ -124206,6 +126187,49 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:9",
+     "source": "rich-wife-hypnosis",
+     "label": "Devil Doll (1964)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Devil Doll",
+     "subtitle": "",
+     "year": "1964",
+     "meta": "",
+     "summary": "Vorelli hypnotizes wealthy heiress Marianne and puts her under his control, planning to marry her for her fortune. Hypnotist: stage hypnotist / ventriloquist the Great Vorelli. Gain: money, marriage. Method: hypnosis. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "High · Mental Block plot + Wikipedia",
+     "categories": [
+      "rich-wife-gain",
+      "love",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Devil_Doll"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Devil_Doll_%28film%29"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "hypnotist": "stage hypnotist / ventriloquist the Great Vorelli",
+     "gain_motive": [
+      "money",
+      "marriage"
+     ],
+     "method": "hypnosis",
+     "kids_status": "no",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -124263,6 +126287,41 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "rich-wife-hypnosis:9": {
+     "title": "Devil Doll",
+     "year": "1964",
+     "format": "movie",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "High · Mental Block plot + Wikipedia",
+     "summary": "Vorelli hypnotizes wealthy heiress Marianne and puts her under his control, planning to marry her for her fortune. Hypnotist: stage hypnotist / ventriloquist the Great Vorelli. Gain: money, marriage. Method: hypnosis. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "categories": [
+      "rich-wife-gain",
+      "love",
+      "human"
+     ],
+     "match_title": "Devil Doll",
+     "match_year": "1964",
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Devil_Doll"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Devil_Doll_%28film%29"
+      }
+     ],
+     "hypnotist": "stage hypnotist / ventriloquist the Great Vorelli",
+     "gain_motive": [
+      "money",
+      "marriage"
+     ],
+     "method": "hypnosis",
+     "kids_status": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    },
    "watch_links": [
@@ -126900,11 +128959,26 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "Ep. 1363 “Sammohit Chori”",
+     "gist": "Disguised as a salesman, Sohan hypnotizes Amrita and he and Rinky loot her locker; a chain of events leads to her husband Kunal's murder.",
+     "number_verified": false
+    }
+   ],
+   "hypnotist": "con man Sohan (disguised as a salesman), with accomplice Rinky",
+   "gain_motive": [
+    "money",
+    "crime"
+   ],
+   "method": "hypnosis (gaze)",
+   "kids_status": "unknown",
    "format": "tv",
    "categories": [
     "human",
     "crime",
-    "india-control"
+    "india-control",
+    "rich-wife-gain"
    ],
    "sources": [
     {
@@ -126915,11 +128989,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "india-catalog",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
     "india-catalog:9",
-    "worldwide-hypnosis:155"
+    "worldwide-hypnosis:155",
+    "rich-wife-hypnosis:29"
    ],
    "index_only": false,
    "local_only": true,
@@ -126985,6 +129061,52 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:29",
+     "source": "rich-wife-hypnosis",
+     "label": "C.I.D. (1998–2018)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "C.I.D.",
+     "subtitle": "",
+     "year": "1998–2018",
+     "meta": "",
+     "summary": "Sohan hypnotizes Kunal's wife Amrita through eye contact and the gang empties her locker of cash and jewellery. Hypnotist: con man Sohan (disguised as a salesman), with accomplice Rinky. Gain: money, crime. Method: hypnosis (gaze). Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Mental Block episode summary",
+     "categories": [
+      "rich-wife-gain",
+      "india-control",
+      "crime"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/C.I.D._%281998_TV_Series%29"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "episodes": [
+      {
+       "episode": "Ep. 1363 “Sammohit Chori”",
+       "gist": "Disguised as a salesman, Sohan hypnotizes Amrita and he and Rinky loot her locker; a chain of events leads to her husband Kunal's murder.",
+       "number_verified": false
+      }
+     ],
+     "hypnotist": "con man Sohan (disguised as a salesman), with accomplice Rinky",
+     "gain_motive": [
+      "money",
+      "crime"
+     ],
+     "method": "hypnosis (gaze)",
+     "kids_status": "unknown",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -127031,6 +129153,44 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "rich-wife-hypnosis:29": {
+     "title": "C.I.D.",
+     "year": "1998–2018",
+     "format": "tv",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Mental Block episode summary",
+     "summary": "Sohan hypnotizes Kunal's wife Amrita through eye contact and the gang empties her locker of cash and jewellery. Hypnotist: con man Sohan (disguised as a salesman), with accomplice Rinky. Gain: money, crime. Method: hypnosis (gaze). Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "categories": [
+      "rich-wife-gain",
+      "india-control",
+      "crime"
+     ],
+     "match_title": "C.I.D.",
+     "match_year": "1998–2018",
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/C.I.D._%281998_TV_Series%29"
+      }
+     ],
+     "hypnotist": "con man Sohan (disguised as a salesman), with accomplice Rinky",
+     "gain_motive": [
+      "money",
+      "crime"
+     ],
+     "method": "hypnosis (gaze)",
+     "kids_status": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "episodes": [
+      {
+       "episode": "Ep. 1363 “Sammohit Chori”",
+       "gist": "Disguised as a salesman, Sohan hypnotizes Amrita and he and Rinky loot her locker; a chain of events leads to her husband Kunal's murder.",
+       "number_verified": false
+      }
+     ],
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    },
    "watch_links": [
@@ -130416,10 +132576,27 @@ window.CATALOG = {
    "character": "",
    "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
    "note": "",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "cited sources do not mention a pregnancy",
+   "episodes": [
+    {
+     "episode": "Ep. 128",
+     "gist": "Thieves entrance Mihri with a powder and she gives them her earrings and jewels.",
+     "number_verified": false
+    }
+   ],
+   "hypnotist": "a gang of thieves",
+   "gain_motive": [
+    "money",
+    "crime"
+   ],
+   "method": "trance-inducing powder (hypnotic device)",
+   "kids_status": "unknown",
    "format": "tv",
    "categories": [
     "tantrik",
-    "india-control"
+    "india-control",
+    "rich-wife-gain"
    ],
    "sources": [
     {
@@ -130429,16 +132606,91 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "india-catalog"
+    "india-catalog",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "india-catalog:52"
+    "india-catalog:52",
+    "rich-wife-hypnosis:40"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "india-catalog:52",
+    "source": "india-catalog",
+    "label": "Sindoor Ki Keemat (2023)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Sindoor Ki Keemat",
+    "subtitle": "",
+    "year": "2023",
+    "meta": "TV serial · Dangal · ep. 128 · India · Hindi",
+    "summary": "Thieves throw a magic powder at Mihri, and in a trance she takes off her jewels and hands them over.",
+    "character": "",
+    "note": "",
+    "mechanism": "Magic trance powder",
+    "confidence_flag": "Medium",
+    "categories": [
+     "tantrik",
+     "india-control"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Sindoor_Ki_Keemat"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:40",
+     "source": "rich-wife-hypnosis",
+     "label": "Sindoor Ki Keemat (2023)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Sindoor Ki Keemat",
+     "subtitle": "",
+     "year": "2023",
+     "meta": "",
+     "summary": "Thieves throw a powder at married Mihri; in a trance she takes off her jewellery and hands it to them. Hypnotist: a gang of thieves. Gain: money, crime. Method: trance-inducing powder (hypnotic device). Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Low-medium · Mental Block scene notes only (powder described as magic)",
+     "categories": [
+      "rich-wife-gain",
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Sindoor_Ki_Keemat"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "episodes": [
+      {
+       "episode": "Ep. 128",
+       "gist": "Thieves entrance Mihri with a powder and she gives them her earrings and jewels.",
+       "number_verified": false
+      }
+     ],
+     "hypnotist": "a gang of thieves",
+     "gain_motive": [
+      "money",
+      "crime"
+     ],
+     "method": "trance-inducing powder (hypnotic device)",
+     "kids_status": "unknown",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "india-catalog:52": {
      "title": "Sindoor Ki Keemat",
@@ -130459,6 +132711,43 @@ window.CATALOG = {
        "url": "https://mentalblock.miraheze.org/wiki/Sindoor_Ki_Keemat"
       }
      ]
+    },
+    "rich-wife-hypnosis:40": {
+     "title": "Sindoor Ki Keemat",
+     "year": "2023",
+     "format": "tv",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Low-medium · Mental Block scene notes only (powder described as magic)",
+     "summary": "Thieves throw a powder at married Mihri; in a trance she takes off her jewellery and hands it to them. Hypnotist: a gang of thieves. Gain: money, crime. Method: trance-inducing powder (hypnotic device). Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "categories": [
+      "rich-wife-gain",
+      "india-control"
+     ],
+     "match_title": "Sindoor Ki Keemat",
+     "match_year": "2023",
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Sindoor_Ki_Keemat"
+      }
+     ],
+     "hypnotist": "a gang of thieves",
+     "gain_motive": [
+      "money",
+      "crime"
+     ],
+     "method": "trance-inducing powder (hypnotic device)",
+     "kids_status": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "episodes": [
+      {
+       "episode": "Ep. 128",
+       "gist": "Thieves entrance Mihri with a powder and she gives them her earrings and jewels.",
+       "number_verified": false
+      }
+     ],
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -135201,9 +137490,18 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "hypnotist": "hypnotist Raven, hired by stepmother Victoria",
+   "gain_motive": [
+    "inheritance",
+    "money"
+   ],
+   "method": "hypnosis (memory erasure)",
+   "kids_status": "no",
    "format": "movie",
    "categories": [
-    "other-control"
+    "other-control",
+    "rich-wife-gain",
+    "partner-commissioned"
    ],
    "sources": [
     {
@@ -135213,16 +137511,86 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "worldwide-hypnosis:12"
+    "worldwide-hypnosis:12",
+    "rich-wife-hypnosis:7"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:12",
+    "source": "worldwide-hypnosis",
+    "label": "A Snow White Christmas (2018)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "A Snow White Christmas",
+    "subtitle": "",
+    "year": "2018",
+    "meta": "Film · United States · English",
+    "summary": "Blanca Snow (Randolph) wishes to use her half of her late father's inheritance to start her own business and fulfill his wish that she \"create new memories\" for herself and her family. Her wicked stepmother Victoria (Hennessy), jealous and hoping to have the entire inheritance to herself, hires Raven (Celeste Oliva), a hypnotist, to erase Blanca's memories. Scene notes: Her eyes close as she falls into a trance",
+    "character": "",
+    "note": "",
+    "mechanism": "Traditional hypnosis (pendulum, watch, voice or gaze); post-hypnotic trigger",
+    "confidence_flag": "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed",
+    "categories": [
+     "other-control"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/A_Snow_White_Christmas"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:7",
+     "source": "rich-wife-hypnosis",
+     "label": "A Snow White Christmas (2018)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "A Snow White Christmas",
+     "subtitle": "",
+     "year": "2018",
+     "meta": "",
+     "summary": "Blanca Snow, heir to half her late father's fortune, is hypnotized into forgetting her past so her jealous stepmother can take the whole inheritance. Hypnotist: hypnotist Raven, hired by stepmother Victoria. Gain: inheritance, money. Method: hypnosis (memory erasure). Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Mental Block plot + TV-movie listings",
+     "categories": [
+      "rich-wife-gain",
+      "other-control",
+      "partner-commissioned"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/A_Snow_White_Christmas"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "hypnotist": "hypnotist Raven, hired by stepmother Victoria",
+     "gain_motive": [
+      "inheritance",
+      "money"
+     ],
+     "method": "hypnosis (memory erasure)",
+     "kids_status": "no",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:12": {
      "title": "A Snow White Christmas",
@@ -135244,6 +137612,37 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "rich-wife-hypnosis:7": {
+     "title": "A Snow White Christmas",
+     "year": "2018",
+     "format": "movie",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Mental Block plot + TV-movie listings",
+     "summary": "Blanca Snow, heir to half her late father's fortune, is hypnotized into forgetting her past so her jealous stepmother can take the whole inheritance. Hypnotist: hypnotist Raven, hired by stepmother Victoria. Gain: inheritance, money. Method: hypnosis (memory erasure). Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "categories": [
+      "rich-wife-gain",
+      "other-control",
+      "partner-commissioned"
+     ],
+     "match_title": "A Snow White Christmas",
+     "match_year": "2018",
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/A_Snow_White_Christmas"
+      }
+     ],
+     "hypnotist": "hypnotist Raven, hired by stepmother Victoria",
+     "gain_motive": [
+      "inheritance",
+      "money"
+     ],
+     "method": "hypnosis (memory erasure)",
+     "kids_status": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    },
    "watch_links": [
@@ -138229,9 +140628,18 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "hypnotist": "her uncle, Count Montebruno",
+   "gain_motive": [
+    "inheritance",
+    "drive her mad"
+   ],
+   "method": "hypnosis",
+   "kids_status": "no",
    "format": "movie",
    "categories": [
-    "human"
+    "human",
+    "rich-wife-gain",
+    "crime"
    ],
    "sources": [
     {
@@ -138245,16 +140653,94 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "worldwide-hypnosis:62"
+    "worldwide-hypnosis:62",
+    "rich-wife-hypnosis:17"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:62",
+    "source": "worldwide-hypnosis",
+    "label": "An Angel for Satan (1966)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "An Angel for Satan",
+    "subtitle": "",
+    "year": "1966",
+    "meta": "Film · Italy",
+    "summary": "An Angel for Satan (original title Un Angelo per Satana) is a 1966 Italian horror movie about a young woman (Barbara Steele) who begins acting strangely after an old statue is recovered from a nearby lake.",
+    "character": "",
+    "note": "",
+    "mechanism": "Traditional hypnosis (pendulum, watch, voice or gaze)",
+    "confidence_flag": "Medium · fan-wiki scene log; title/year confirmed on Wikipedia",
+    "categories": [
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/An_Angel_for_Satan"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/An_Angel_for_Satan"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:17",
+     "source": "rich-wife-hypnosis",
+     "label": "An Angel for Satan (1966)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "An Angel for Satan",
+     "subtitle": "",
+     "year": "1966",
+     "meta": "",
+     "summary": "The Count hypnotizes his niece Harriet into causing havoc so the villagers will lynch her and her large inheritance will pass to him. Hypnotist: her uncle, Count Montebruno. Gain: inheritance, drive her mad. Method: hypnosis. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "High · Mental Block plot",
+     "categories": [
+      "rich-wife-gain",
+      "human",
+      "crime"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/An_Angel_for_Satan"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/An_Angel_for_Satan"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "hypnotist": "her uncle, Count Montebruno",
+     "gain_motive": [
+      "inheritance",
+      "drive her mad"
+     ],
+     "method": "hypnosis",
+     "kids_status": "no",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:62": {
      "title": "An Angel for Satan",
@@ -138280,6 +140766,41 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "rich-wife-hypnosis:17": {
+     "title": "An Angel for Satan",
+     "year": "1966",
+     "format": "movie",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "High · Mental Block plot",
+     "summary": "The Count hypnotizes his niece Harriet into causing havoc so the villagers will lynch her and her large inheritance will pass to him. Hypnotist: her uncle, Count Montebruno. Gain: inheritance, drive her mad. Method: hypnosis. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "categories": [
+      "rich-wife-gain",
+      "human",
+      "crime"
+     ],
+     "match_title": "An Angel for Satan",
+     "match_year": "1966",
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/An_Angel_for_Satan"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/An_Angel_for_Satan"
+      }
+     ],
+     "hypnotist": "her uncle, Count Montebruno",
+     "gain_motive": [
+      "inheritance",
+      "drive her mad"
+     ],
+     "method": "hypnosis",
+     "kids_status": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    },
    "watch_links": [
@@ -147259,9 +149780,27 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "S02E07 “Nowhere TV (segment 7a)”",
+     "air_date": "2001-04-13",
+     "gist": "Le Quack sabotages the TV, then uses a hypnotic spiral on screen to make Muriel and Eustace rob the lottery vault; Courage leaves a trail of bills for the police.",
+     "number_verified": true
+    }
+   ],
+   "hypnotist": "Le Quack (posing as a TV repairman)",
+   "gain_motive": [
+    "money",
+    "crime"
+   ],
+   "method": "hypnotic device (rigged television)",
+   "kids_status": "no",
+   "kids_note": "Courage is their adopted dog",
    "format": "tv",
    "categories": [
-    "scifi"
+    "scifi",
+    "rich-wife-gain",
+    "crime"
    ],
    "sources": [
     {
@@ -147271,20 +149810,119 @@ window.CATALOG = {
     {
      "label": "TV Tropes: Mind-Control Eyes",
      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/MindControlEyes"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/List_of_Courage_the_Cowardly_Dog_episodes"
+    },
+    {
+     "label": "Courage wiki: Nowhere TV",
+     "url": "https://courage.fandom.com/wiki/Nowhere_TV"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "worldwide-hypnosis:195"
+    "worldwide-hypnosis:195",
+    "rich-wife-hypnosis:27"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:195",
+    "source": "worldwide-hypnosis",
+    "label": "Courage the Cowardly Dog",
+    "identifiers": [],
+    "title": "Courage the Cowardly Dog",
+    "subtitle": "",
+    "year": "",
+    "meta": "Animated series · United States · English",
+    "summary": "Courage the Cowardly Dog is an American animated comedy horror television series created by John R.",
+    "character": "",
+    "note": "",
+    "mechanism": "Technological hypnosis (device, screen or signal)",
+    "confidence_flag": "High · fan-wiki scene log + TV Tropes example",
+    "categories": [
+     "scifi"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Courage_the_Cowardly_Dog"
+     },
+     {
+      "label": "TV Tropes: Mind-Control Eyes",
+      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/MindControlEyes"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:27",
+     "source": "rich-wife-hypnosis",
+     "label": "Courage the Cowardly Dog",
+     "identifiers": [],
+     "title": "Courage the Cowardly Dog",
+     "subtitle": "",
+     "year": "",
+     "meta": "",
+     "summary": "Le Quack rigs the Bagges' TV to hypnotize Muriel and her husband Eustace into stealing Nowhere's lottery money for him. Hypnotist: Le Quack (posing as a TV repairman). Gain: money, crime. Method: hypnotic device (rigged television). Kids: no (Courage is their adopted dog). Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "High · Wikipedia episode list + fan wiki",
+     "categories": [
+      "rich-wife-gain",
+      "scifi",
+      "crime"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/List_of_Courage_the_Cowardly_Dog_episodes"
+      },
+      {
+       "label": "Courage wiki: Nowhere TV",
+       "url": "https://courage.fandom.com/wiki/Nowhere_TV"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Courage_the_Cowardly_Dog"
+      },
+      {
+       "label": "TV Tropes: Mind-Control Eyes",
+       "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/MindControlEyes"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "episodes": [
+      {
+       "episode": "S02E07 “Nowhere TV (segment 7a)”",
+       "air_date": "2001-04-13",
+       "gist": "Le Quack sabotages the TV, then uses a hypnotic spiral on screen to make Muriel and Eustace rob the lottery vault; Courage leaves a trail of bills for the police.",
+       "number_verified": true
+      }
+     ],
+     "hypnotist": "Le Quack (posing as a TV repairman)",
+     "gain_motive": [
+      "money",
+      "crime"
+     ],
+     "method": "hypnotic device (rigged television)",
+     "kids_status": "no",
+     "kids_note": "Courage is their adopted dog",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:195": {
      "title": "Courage the Cowardly Dog",
@@ -147310,6 +149948,58 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "rich-wife-hypnosis:27": {
+     "title": "Courage the Cowardly Dog",
+     "year": "",
+     "format": "tv",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "High · Wikipedia episode list + fan wiki",
+     "summary": "Le Quack rigs the Bagges' TV to hypnotize Muriel and her husband Eustace into stealing Nowhere's lottery money for him. Hypnotist: Le Quack (posing as a TV repairman). Gain: money, crime. Method: hypnotic device (rigged television). Kids: no (Courage is their adopted dog). Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "categories": [
+      "rich-wife-gain",
+      "scifi",
+      "crime"
+     ],
+     "match_title": "Courage the Cowardly Dog",
+     "match_year": "",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/List_of_Courage_the_Cowardly_Dog_episodes"
+      },
+      {
+       "label": "Courage wiki: Nowhere TV",
+       "url": "https://courage.fandom.com/wiki/Nowhere_TV"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Courage_the_Cowardly_Dog"
+      },
+      {
+       "label": "TV Tropes: Mind-Control Eyes",
+       "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/MindControlEyes"
+      }
+     ],
+     "hypnotist": "Le Quack (posing as a TV repairman)",
+     "gain_motive": [
+      "money",
+      "crime"
+     ],
+     "method": "hypnotic device (rigged television)",
+     "kids_status": "no",
+     "kids_note": "Courage is their adopted dog",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "episodes": [
+      {
+       "episode": "S02E07 “Nowhere TV (segment 7a)”",
+       "air_date": "2001-04-13",
+       "gist": "Le Quack sabotages the TV, then uses a hypnotic spiral on screen to make Muriel and Eustace rob the lottery vault; Courage leaves a trail of bills for the police.",
+       "number_verified": true
+      }
+     ],
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -149512,9 +152202,18 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "hypnotist": "her guardian Dr. Lomas",
+   "gain_motive": [
+    "inheritance",
+    "drive her mad"
+   ],
+   "method": "hypnosis",
+   "kids_status": "no",
+   "kids_note": "unmarried, engaged",
    "format": "movie",
    "categories": [
-    "human"
+    "human",
+    "rich-wife-gain"
    ],
    "sources": [
     {
@@ -149524,20 +152223,106 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/The_Daughter_of_Dr._Jekyll"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Daughter_of_Dr._Jekyll"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "worldwide-hypnosis:232"
+    "worldwide-hypnosis:232",
+    "rich-wife-hypnosis:8"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:232",
+    "source": "worldwide-hypnosis",
+    "label": "Daughter of Dr. Jekyll (1886)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Daughter of Dr. Jekyll",
+    "subtitle": "",
+    "year": "1886",
+    "meta": "Film · United States · English",
+    "summary": "Janet Smith (Gloria Talbott) and fiancé George Hastings (John Agar) arrive at the English manor house that Janet will inherit the next day, when she turns 21. They meet Mrs. Scene notes: Lomas hypnotizes Janet with a candle by pretending to examine her reflexes / George breaks Janet's trance, saving her from hanging herself.",
+    "character": "",
+    "note": "",
+    "mechanism": "Traditional hypnosis (pendulum, watch, voice or gaze)",
+    "confidence_flag": "High · fan-wiki scene log + Wikipedia plot mentions hypnosis",
+    "categories": [
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Daughter_of_Dr._Jekyll"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Daughter_of_Dr._Jekyll"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:8",
+     "source": "rich-wife-hypnosis",
+     "label": "Daughter of Dr. Jekyll (1957)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Daughter of Dr. Jekyll",
+     "subtitle": "",
+     "year": "1957",
+     "meta": "",
+     "summary": "On the eve of inheriting the family estate at 21, Janet is hypnotized by her guardian into believing she has her father's monstrous curse and is nearly driven to suicide. (Release year is 1957; the existing card shows 1886.) Hypnotist: her guardian Dr. Lomas. Gain: inheritance, drive her mad. Method: hypnosis. Kids: no (unmarried, engaged). Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Wikipedia + Mental Block scene notes",
+     "categories": [
+      "rich-wife-gain",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Daughter_of_Dr._Jekyll"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Daughter_of_Dr._Jekyll"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Daughter_of_Dr._Jekyll"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "hypnotist": "her guardian Dr. Lomas",
+     "gain_motive": [
+      "inheritance",
+      "drive her mad"
+     ],
+     "method": "hypnosis",
+     "kids_status": "no",
+     "kids_note": "unmarried, engaged",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:232": {
      "title": "Daughter of Dr. Jekyll",
@@ -149563,6 +152348,45 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "rich-wife-hypnosis:8": {
+     "title": "Daughter of Dr. Jekyll",
+     "year": "1957",
+     "format": "movie",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Wikipedia + Mental Block scene notes",
+     "summary": "On the eve of inheriting the family estate at 21, Janet is hypnotized by her guardian into believing she has her father's monstrous curse and is nearly driven to suicide. (Release year is 1957; the existing card shows 1886.) Hypnotist: her guardian Dr. Lomas. Gain: inheritance, drive her mad. Method: hypnosis. Kids: no (unmarried, engaged). Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "categories": [
+      "rich-wife-gain",
+      "human"
+     ],
+     "match_title": "Daughter of Dr. Jekyll",
+     "match_year": "1886",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Daughter_of_Dr._Jekyll"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Daughter_of_Dr._Jekyll"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Daughter_of_Dr._Jekyll"
+      }
+     ],
+     "hypnotist": "her guardian Dr. Lomas",
+     "gain_motive": [
+      "inheritance",
+      "drive her mad"
+     ],
+     "method": "hypnosis",
+     "kids_status": "no",
+     "kids_note": "unmarried, engaged",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -150674,29 +153498,116 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "hypnotist": "her royal counsellor",
+   "gain_motive": [
+    "money",
+    "other (her throne)"
+   ],
+   "method": "hypnosis",
+   "kids_status": "no",
    "format": "movie",
    "categories": [
     "scifi",
-    "other-control"
+    "other-control",
+    "rich-wife-gain"
    ],
    "sources": [
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/Dennis_the_Menace%3A_Cruise_Control"
+    },
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Dennis_the_Menace:_Cruise_Control"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "worldwide-hypnosis:251"
+    "worldwide-hypnosis:251",
+    "rich-wife-hypnosis:25"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:251",
+    "source": "worldwide-hypnosis",
+    "label": "Dennis the Menace: Cruise Control (2002)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Dennis the Menace: Cruise Control",
+    "subtitle": "",
+    "year": "2002",
+    "meta": "Animated film · country unverified",
+    "summary": "Princess Liana is hypnotized by her counsellor to give all her money and her throne to him. Also Dennis discovers that his portable game console can hypnotize people too which he uses on some of the guards.",
+    "character": "",
+    "note": "",
+    "mechanism": "Technological hypnosis (device, screen or signal); Traditional hypnosis (pendulum, watch, voice or gaze)",
+    "confidence_flag": "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed",
+    "categories": [
+     "scifi",
+     "other-control"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Dennis_the_Menace%3A_Cruise_Control"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:25",
+     "source": "rich-wife-hypnosis",
+     "label": "Dennis the Menace: Cruise Control (2002)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dennis the Menace: Cruise Control",
+     "subtitle": "",
+     "year": "2002",
+     "meta": "",
+     "summary": "Princess Liana is hypnotized by her counsellor to hand him all her money and her throne. Hypnotist: her royal counsellor. Gain: money, other (her throne). Method: hypnosis. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Low-medium · Mental Block plot (princess's age not stated)",
+     "categories": [
+      "rich-wife-gain",
+      "scifi",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Dennis_the_Menace:_Cruise_Control"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Dennis_the_Menace%3A_Cruise_Control"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "hypnotist": "her royal counsellor",
+     "gain_motive": [
+      "money",
+      "other (her throne)"
+     ],
+     "method": "hypnosis",
+     "kids_status": "no",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:251": {
      "title": "Dennis the Menace: Cruise Control",
@@ -150719,6 +153630,41 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "rich-wife-hypnosis:25": {
+     "title": "Dennis the Menace: Cruise Control",
+     "year": "2002",
+     "format": "movie",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Low-medium · Mental Block plot (princess's age not stated)",
+     "summary": "Princess Liana is hypnotized by her counsellor to hand him all her money and her throne. Hypnotist: her royal counsellor. Gain: money, other (her throne). Method: hypnosis. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "categories": [
+      "rich-wife-gain",
+      "scifi",
+      "other-control"
+     ],
+     "match_title": "Dennis the Menace: Cruise Control",
+     "match_year": "2002",
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Dennis_the_Menace:_Cruise_Control"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Dennis_the_Menace%3A_Cruise_Control"
+      }
+     ],
+     "hypnotist": "her royal counsellor",
+     "gain_motive": [
+      "money",
+      "other (her throne)"
+     ],
+     "method": "hypnosis",
+     "kids_status": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    },
    "watch_links": [
@@ -150746,9 +153692,17 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "hypnotist": "psychology student Alberto (her neighbour)",
+   "gain_motive": [
+    "sex"
+   ],
+   "method": "hypnosis (trigger phrase)",
+   "kids_status": "unknown",
    "format": "movie",
    "categories": [
-    "medical"
+    "medical",
+    "rich-wife-gain",
+    "cheat-control"
    ],
    "sources": [
     {
@@ -150758,16 +153712,80 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "worldwide-hypnosis:252"
+    "worldwide-hypnosis:252",
+    "rich-wife-hypnosis:24"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:252",
+    "source": "worldwide-hypnosis",
+    "label": "De Mesmer con amor",
+    "identifiers": [],
+    "title": "De Mesmer con amor",
+    "subtitle": "",
+    "year": "",
+    "meta": "Film · country unverified · Spanish",
+    "summary": "Scene notes: Alberto tries to hypnotize her / She thinks about the situation for a few seconds and finally approves of being hypnotized. / She is totally hypnotized",
+    "character": "",
+    "note": "",
+    "mechanism": "Traditional hypnosis (pendulum, watch, voice or gaze)",
+    "confidence_flag": "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed",
+    "categories": [
+     "medical"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/De_Mesmer_con_amor"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:24",
+     "source": "rich-wife-hypnosis",
+     "label": "De Mesmer con amor",
+     "identifiers": [],
+     "title": "De Mesmer con amor",
+     "subtitle": "",
+     "year": "",
+     "meta": "",
+     "summary": "Alberto hypnotizes his married neighbour while her husband is away and makes her kiss him and cheat; she later says only the first trance was real. Hypnotist: psychology student Alberto (her neighbour). Gain: sex. Method: hypnosis (trigger phrase). Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Low-medium · Mental Block summary (she later says the trance only worked once)",
+     "categories": [
+      "rich-wife-gain",
+      "cheat-control"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/De_Mesmer_con_amor"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "hypnotist": "psychology student Alberto (her neighbour)",
+     "gain_motive": [
+      "sex"
+     ],
+     "method": "hypnosis (trigger phrase)",
+     "kids_status": "unknown",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:252": {
      "title": "De Mesmer con amor",
@@ -150789,6 +153807,35 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "rich-wife-hypnosis:24": {
+     "title": "De Mesmer con amor",
+     "year": "",
+     "format": "movie",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Low-medium · Mental Block summary (she later says the trance only worked once)",
+     "summary": "Alberto hypnotizes his married neighbour while her husband is away and makes her kiss him and cheat; she later says only the first trance was real. Hypnotist: psychology student Alberto (her neighbour). Gain: sex. Method: hypnosis (trigger phrase). Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "categories": [
+      "rich-wife-gain",
+      "cheat-control"
+     ],
+     "match_title": "De Mesmer con amor",
+     "match_year": "",
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/De_Mesmer_con_amor"
+      }
+     ],
+     "hypnotist": "psychology student Alberto (her neighbour)",
+     "gain_motive": [
+      "sex"
+     ],
+     "method": "hypnosis (trigger phrase)",
+     "kids_status": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -151603,9 +154650,23 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "S01E13 “Dick Tracy vs. The Swami”",
+     "gist": "Tracy goes after a con man posing as a swami who hypnotizes a wealthy woman and swindles her.",
+     "number_verified": false
+    }
+   ],
+   "hypnotist": "a con artist posing as a fortune-telling swami",
+   "gain_motive": [
+    "money"
+   ],
+   "method": "hypnosis",
+   "kids_status": "unknown",
    "format": "tv",
    "categories": [
-    "human"
+    "human",
+    "rich-wife-gain"
    ],
    "sources": [
     {
@@ -151619,16 +154680,99 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "worldwide-hypnosis:270"
+    "worldwide-hypnosis:270",
+    "rich-wife-hypnosis:33"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:270",
+    "source": "worldwide-hypnosis",
+    "label": "Dick Tracy (1950–1951)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Dick Tracy",
+    "subtitle": "",
+    "year": "1950–1951",
+    "meta": "TV series · United States · English",
+    "summary": "Dick Tracy, a tough and skilled detective of unimpeachable character, tackles a rogue's gallery of dangerous and oddball criminals with the help of his fellow detectives and his high-tech gadgets. Scene notes: The Swami hypnotizes the woman.",
+    "character": "",
+    "note": "",
+    "mechanism": "Traditional hypnosis (pendulum, watch, voice or gaze)",
+    "confidence_flag": "Medium · fan-wiki scene log; title/year confirmed on Wikipedia",
+    "categories": [
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Dick_Tracy"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dick_Tracy_%28TV_series%29"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:33",
+     "source": "rich-wife-hypnosis",
+     "label": "Dick Tracy (1950–1951)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dick Tracy",
+     "subtitle": "",
+     "year": "1950–1951",
+     "meta": "",
+     "summary": "A fake swami hypnotizes and swindles a wealthy woman (Florence Bates). Hypnotist: a con artist posing as a fortune-telling swami. Gain: money. Method: hypnosis. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Mental Block episode summary",
+     "categories": [
+      "rich-wife-gain",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Dick_Tracy"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Dick_Tracy_%28TV_series%29"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "episodes": [
+      {
+       "episode": "S01E13 “Dick Tracy vs. The Swami”",
+       "gist": "Tracy goes after a con man posing as a swami who hypnotizes a wealthy woman and swindles her.",
+       "number_verified": false
+      }
+     ],
+     "hypnotist": "a con artist posing as a fortune-telling swami",
+     "gain_motive": [
+      "money"
+     ],
+     "method": "hypnosis",
+     "kids_status": "unknown",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:270": {
      "title": "Dick Tracy",
@@ -151654,6 +154798,46 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "rich-wife-hypnosis:33": {
+     "title": "Dick Tracy",
+     "year": "1950–1951",
+     "format": "tv",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Mental Block episode summary",
+     "summary": "A fake swami hypnotizes and swindles a wealthy woman (Florence Bates). Hypnotist: a con artist posing as a fortune-telling swami. Gain: money. Method: hypnosis. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "categories": [
+      "rich-wife-gain",
+      "human"
+     ],
+     "match_title": "Dick Tracy",
+     "match_year": "1950–1951",
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Dick_Tracy"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Dick_Tracy_%28TV_series%29"
+      }
+     ],
+     "hypnotist": "a con artist posing as a fortune-telling swami",
+     "gain_motive": [
+      "money"
+     ],
+     "method": "hypnosis",
+     "kids_status": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "episodes": [
+      {
+       "episode": "S01E13 “Dick Tracy vs. The Swami”",
+       "gist": "Tracy goes after a con man posing as a swami who hypnotizes a wealthy woman and swindles her.",
+       "number_verified": false
+      }
+     ],
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    },
    "watch_links": [
@@ -154841,9 +158025,20 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "hypnotist": "her husband, a successful businessman; then the butler takes advantage",
+   "gain_motive": [
+    "sex",
+    "other (freedom to cheat)"
+   ],
+   "method": "hypnosis",
+   "kids_status": "unknown",
    "format": "movie",
    "categories": [
-    "other-control"
+    "other-control",
+    "rich-wife-gain",
+    "wife",
+    "partner-control",
+    "cheat-control"
    ],
    "sources": [
     {
@@ -154853,16 +158048,87 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "worldwide-hypnosis:325"
+    "worldwide-hypnosis:325",
+    "rich-wife-hypnosis:23"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:325",
+    "source": "worldwide-hypnosis",
+    "label": "El Gato con Gatas (1992)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "El Gato con Gatas",
+    "subtitle": "",
+    "year": "1992",
+    "meta": "Film · country unverified · Spanish",
+    "summary": "Is a Mexican Movie where the protagonists using hypnosis cheats on his wife or her husband. Scene notes: The husband hypnotizes his wife so he can go out at night without being disturbed. / The butler realizes that in her trance-like state, the beautiful blonde has become completely obedient. / Mesmerized, the woman follows the butler to the bedroom.",
+    "character": "",
+    "note": "",
+    "mechanism": "Traditional hypnosis (pendulum, watch, voice or gaze)",
+    "confidence_flag": "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed",
+    "categories": [
+     "other-control"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/El_Gato_con_Gatas"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:23",
+     "source": "rich-wife-hypnosis",
+     "label": "El Gato con Gatas (1992)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "El Gato con Gatas",
+     "subtitle": "",
+     "year": "1992",
+     "meta": "",
+     "summary": "A businessman learns hypnosis to keep his wife asleep while he goes out with other women; the butler uses her trance to start an affair with her. Hypnotist: her husband, a successful businessman; then the butler takes advantage. Gain: sex, other (freedom to cheat). Method: hypnosis. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Mental Block segment summary",
+     "categories": [
+      "rich-wife-gain",
+      "wife",
+      "partner-control",
+      "cheat-control"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/El_Gato_con_Gatas"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "hypnotist": "her husband, a successful businessman; then the butler takes advantage",
+     "gain_motive": [
+      "sex",
+      "other (freedom to cheat)"
+     ],
+     "method": "hypnosis",
+     "kids_status": "unknown",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:325": {
      "title": "El Gato con Gatas",
@@ -154884,6 +158150,38 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "rich-wife-hypnosis:23": {
+     "title": "El Gato con Gatas",
+     "year": "1992",
+     "format": "movie",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Mental Block segment summary",
+     "summary": "A businessman learns hypnosis to keep his wife asleep while he goes out with other women; the butler uses her trance to start an affair with her. Hypnotist: her husband, a successful businessman; then the butler takes advantage. Gain: sex, other (freedom to cheat). Method: hypnosis. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "categories": [
+      "rich-wife-gain",
+      "wife",
+      "partner-control",
+      "cheat-control"
+     ],
+     "match_title": "El Gato con Gatas",
+     "match_year": "1992",
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/El_Gato_con_Gatas"
+      }
+     ],
+     "hypnotist": "her husband, a successful businessman; then the butler takes advantage",
+     "gain_motive": [
+      "sex",
+      "other (freedom to cheat)"
+     ],
+     "method": "hypnosis",
+     "kids_status": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -156634,9 +159932,25 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "S02E13 “What You Don't Know Can Kill You”",
+     "air_date": "1990-01-08",
+     "gist": "A psychiatrist who hypnotizes and seduces his female patients is caught by a colleague and plots to avoid prison.",
+     "number_verified": true
+    }
+   ],
+   "hypnotist": "lecherous psychiatrist Dr. Crowley",
+   "gain_motive": [
+    "sex"
+   ],
+   "method": "hypnotherapy misuse",
+   "kids_status": "unknown",
    "format": "tv",
    "categories": [
-    "medical"
+    "medical",
+    "rich-wife-gain",
+    "therapist-wife"
    ],
    "sources": [
     {
@@ -156646,20 +159960,113 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Freddy%27s_Nightmares"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/List_of_Freddy%27s_Nightmares_episodes"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "worldwide-hypnosis:356"
+    "worldwide-hypnosis:356",
+    "rich-wife-hypnosis:34"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:356",
+    "source": "worldwide-hypnosis",
+    "label": "Freddy's Nightmares (1988)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Freddy's Nightmares",
+    "subtitle": "",
+    "year": "1988",
+    "meta": "TV series · United States · English",
+    "summary": "Each week Freddy's Nightmares told a different story of a dark rooted and/or grim nature that took place in the fictitious town of Springwood, Ohio, and in particular, on Elm Street; the same setting as the A Nightmare on Elm Street films. Though the Freddy Krueger character would occasionally play a part in the plot, most of the stories did not involve him (it was, however, often hinted that Krueger indirectly influ Scene notes: in a trance, Mrs Lowell is induced to believe that Dr. Crowley is her husband",
+    "character": "",
+    "note": "",
+    "mechanism": "Traditional hypnosis (pendulum, watch, voice or gaze); post-hypnotic trigger",
+    "confidence_flag": "Medium · fan-wiki scene log; title/year confirmed on Wikipedia",
+    "categories": [
+     "medical"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Freddy%27s_Nightmares"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Freddy%27s_Nightmares"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:34",
+     "source": "rich-wife-hypnosis",
+     "label": "Freddy's Nightmares (1988)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Freddy's Nightmares",
+     "subtitle": "",
+     "year": "1988",
+     "meta": "",
+     "summary": "A psychiatrist hypnotizes married patient Mrs. Lowell into believing he is her husband so he can seduce her. Hypnotist: lecherous psychiatrist Dr. Crowley. Gain: sex. Method: hypnotherapy misuse. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Wikipedia episode list + Mental Block scene notes",
+     "categories": [
+      "rich-wife-gain",
+      "medical",
+      "therapist-wife"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/List_of_Freddy%27s_Nightmares_episodes"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Freddy%27s_Nightmares"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Freddy%27s_Nightmares"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "episodes": [
+      {
+       "episode": "S02E13 “What You Don't Know Can Kill You”",
+       "air_date": "1990-01-08",
+       "gist": "A psychiatrist who hypnotizes and seduces his female patients is caught by a colleague and plots to avoid prison.",
+       "number_verified": true
+      }
+     ],
+     "hypnotist": "lecherous psychiatrist Dr. Crowley",
+     "gain_motive": [
+      "sex"
+     ],
+     "method": "hypnotherapy misuse",
+     "kids_status": "unknown",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:356": {
      "title": "Freddy's Nightmares",
@@ -156685,6 +160092,52 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "rich-wife-hypnosis:34": {
+     "title": "Freddy's Nightmares",
+     "year": "1988",
+     "format": "tv",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Wikipedia episode list + Mental Block scene notes",
+     "summary": "A psychiatrist hypnotizes married patient Mrs. Lowell into believing he is her husband so he can seduce her. Hypnotist: lecherous psychiatrist Dr. Crowley. Gain: sex. Method: hypnotherapy misuse. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "categories": [
+      "rich-wife-gain",
+      "medical",
+      "therapist-wife"
+     ],
+     "match_title": "Freddy's Nightmares",
+     "match_year": "1988",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/List_of_Freddy%27s_Nightmares_episodes"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Freddy%27s_Nightmares"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Freddy%27s_Nightmares"
+      }
+     ],
+     "hypnotist": "lecherous psychiatrist Dr. Crowley",
+     "gain_motive": [
+      "sex"
+     ],
+     "method": "hypnotherapy misuse",
+     "kids_status": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "episodes": [
+      {
+       "episode": "S02E13 “What You Don't Know Can Kill You”",
+       "air_date": "1990-01-08",
+       "gist": "A psychiatrist who hypnotizes and seduces his female patients is caught by a colleague and plots to avoid prison.",
+       "number_verified": true
+      }
+     ],
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    },
    "watch_links": [
@@ -168274,9 +171727,18 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "hypnotist": "her husband, a hypnotist, and his mistress",
+   "gain_motive": [
+    "money"
+   ],
+   "method": "hypnosis (necklace trigger)",
+   "kids_status": "unknown",
    "format": "movie",
    "categories": [
-    "other-control"
+    "other-control",
+    "rich-wife-gain",
+    "wife",
+    "partner-control"
    ],
    "sources": [
     {
@@ -168286,16 +171748,85 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "worldwide-hypnosis:551"
+    "worldwide-hypnosis:551",
+    "rich-wife-hypnosis:22"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:551",
+    "source": "worldwide-hypnosis",
+    "label": "Listen To Your Husband (2025)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Listen To Your Husband",
+    "subtitle": "",
+    "year": "2025",
+    "meta": "Film · China",
+    "summary": "A hypnotist and his sadistic lover hypnotize his wife, planning to steal her money. Scene notes: the husband hypnotized his wife. / The lovers order the hypnotized woman to walk barefoot on the road. / But they didn't count on the fact that in her hypnotic state, the woman has superhuman strength, and attacks anyone who tries to wake her up.",
+    "character": "",
+    "note": "",
+    "mechanism": "Traditional hypnosis (pendulum, watch, voice or gaze)",
+    "confidence_flag": "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed",
+    "categories": [
+     "other-control"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Listen_To_Your_Husband"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:22",
+     "source": "rich-wife-hypnosis",
+     "label": "Listen To Your Husband (2025)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Listen To Your Husband",
+     "subtitle": "",
+     "year": "2025",
+     "meta": "",
+     "summary": "A hypnotist and his sadistic lover hypnotize his wife Luo Fei as part of a plan to steal her money. Hypnotist: her husband, a hypnotist, and his mistress. Gain: money. Method: hypnosis (necklace trigger). Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Mental Block plot + scene notes",
+     "categories": [
+      "rich-wife-gain",
+      "wife",
+      "partner-control"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Listen_To_Your_Husband"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "hypnotist": "her husband, a hypnotist, and his mistress",
+     "gain_motive": [
+      "money"
+     ],
+     "method": "hypnosis (necklace trigger)",
+     "kids_status": "unknown",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:551": {
      "title": "Listen To Your Husband",
@@ -168317,6 +171848,36 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "rich-wife-hypnosis:22": {
+     "title": "Listen To Your Husband",
+     "year": "2025",
+     "format": "movie",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Mental Block plot + scene notes",
+     "summary": "A hypnotist and his sadistic lover hypnotize his wife Luo Fei as part of a plan to steal her money. Hypnotist: her husband, a hypnotist, and his mistress. Gain: money. Method: hypnosis (necklace trigger). Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "categories": [
+      "rich-wife-gain",
+      "wife",
+      "partner-control"
+     ],
+     "match_title": "Listen To Your Husband",
+     "match_year": "2025",
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Listen_To_Your_Husband"
+      }
+     ],
+     "hypnotist": "her husband, a hypnotist, and his mistress",
+     "gain_motive": [
+      "money"
+     ],
+     "method": "hypnosis (necklace trigger)",
+     "kids_status": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -180330,10 +183891,25 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "Ep. 172 “Chapter 172”",
+     "gist": "Camila learns Bóris is El Achid; to keep his revenge plot going he hypnotizes her into acting out a suicide.",
+     "number_verified": false
+    }
+   ],
+   "hypnotist": "Lebanese millionaire El Achid, hiding as Bóris Aidan",
+   "gain_motive": [
+    "crime",
+    "other (silencing her)"
+   ],
+   "method": "hypnosis",
+   "kids_status": "no",
    "format": "tv",
    "categories": [
     "crime",
-    "human"
+    "human",
+    "rich-wife-gain"
    ],
    "sources": [
     {
@@ -180343,16 +183919,94 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "worldwide-hypnosis:757"
+    "worldwide-hypnosis:757",
+    "rich-wife-hypnosis:35"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:757",
+    "source": "worldwide-hypnosis",
+    "label": "Sassaricando (1987)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Sassaricando",
+    "subtitle": "",
+    "year": "1987",
+    "meta": "Soap opera / telenovela · Brazil",
+    "summary": "Aparício Varella is a man who was poor and left Rebeca, the great love of his life, to scam the millionaire Teodora Abdalla, one of the three heiresses of Tecelagens Abdalla. At another point in the plot is Aldonza, a Spanish market vendor who raised her four children with great difficulty – Tancinha, Guel, Isabel and Juana. Scene notes: Under mind control, she picks up a chalice of poison. / When someone knocks on the door, Camila begins to wake up from her hypnotic trance before taking the poison, much to Boris's frustration, who runs away.",
+    "character": "",
+    "note": "",
+    "mechanism": "Traditional hypnosis (pendulum, watch, voice or gaze)",
+    "confidence_flag": "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed",
+    "categories": [
+     "crime",
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Sassaricando"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:35",
+     "source": "rich-wife-hypnosis",
+     "label": "Sassaricando (1987)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Sassaricando",
+     "subtitle": "",
+     "year": "1987",
+     "meta": "",
+     "summary": "When heiress Camila Abdalla uncovers his real identity, Bóris hypnotizes her into staging a fake suicide. Hypnotist: Lebanese millionaire El Achid, hiding as Bóris Aidan. Gain: crime, other (silencing her). Method: hypnosis. Kids: no. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Mental Block chapter summary",
+     "categories": [
+      "rich-wife-gain",
+      "crime",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Sassaricando"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "episodes": [
+      {
+       "episode": "Ep. 172 “Chapter 172”",
+       "gist": "Camila learns Bóris is El Achid; to keep his revenge plot going he hypnotizes her into acting out a suicide.",
+       "number_verified": false
+      }
+     ],
+     "hypnotist": "Lebanese millionaire El Achid, hiding as Bóris Aidan",
+     "gain_motive": [
+      "crime",
+      "other (silencing her)"
+     ],
+     "method": "hypnosis",
+     "kids_status": "no",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:757": {
      "title": "Sassaricando",
@@ -180375,6 +184029,44 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "rich-wife-hypnosis:35": {
+     "title": "Sassaricando",
+     "year": "1987",
+     "format": "tv",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Mental Block chapter summary",
+     "summary": "When heiress Camila Abdalla uncovers his real identity, Bóris hypnotizes her into staging a fake suicide. Hypnotist: Lebanese millionaire El Achid, hiding as Bóris Aidan. Gain: crime, other (silencing her). Method: hypnosis. Kids: no. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "categories": [
+      "rich-wife-gain",
+      "crime",
+      "human"
+     ],
+     "match_title": "Sassaricando",
+     "match_year": "1987",
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Sassaricando"
+      }
+     ],
+     "hypnotist": "Lebanese millionaire El Achid, hiding as Bóris Aidan",
+     "gain_motive": [
+      "crime",
+      "other (silencing her)"
+     ],
+     "method": "hypnosis",
+     "kids_status": "no",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "episodes": [
+      {
+       "episode": "Ep. 172 “Chapter 172”",
+       "gist": "Camila learns Bóris is El Achid; to keep his revenge plot going he hypnotizes her into acting out a suicide.",
+       "number_verified": false
+      }
+     ],
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -181968,9 +185660,24 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "S01E06 “Judgment”",
+     "air_date": "2016-12-07",
+     "gist": "Hypnotist-thief Gina puts a couple in a trance and takes the wife's valuable ring.",
+     "number_verified": true
+    }
+   ],
+   "hypnotist": "hypnotist thief Gina",
+   "gain_motive": [
+    "money"
+   ],
+   "method": "hypnosis (bracelet)",
+   "kids_status": "unknown",
    "format": "tv",
    "categories": [
-    "other-control"
+    "other-control",
+    "rich-wife-gain"
    ],
    "sources": [
     {
@@ -181984,16 +185691,100 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "worldwide-hypnosis:784"
+    "worldwide-hypnosis:784",
+    "rich-wife-hypnosis:36"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:784",
+    "source": "worldwide-hypnosis",
+    "label": "Shut Eye (2016)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Shut Eye",
+    "subtitle": "",
+    "year": "2016",
+    "meta": "TV series · United States · English",
+    "summary": "To Add Scene notes: Gina hypnotizes the couple with her bracelet. / Hypnotized, the wife feels great pleasure in giving her valuable ring to her husband.",
+    "character": "",
+    "note": "",
+    "mechanism": "Traditional hypnosis (pendulum, watch, voice or gaze)",
+    "confidence_flag": "High · fan-wiki scene log + Wikipedia plot mentions hypnosis",
+    "categories": [
+     "other-control"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Shut_Eye"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shut_Eye"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:36",
+     "source": "rich-wife-hypnosis",
+     "label": "Shut Eye (2016)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Shut Eye",
+     "subtitle": "",
+     "year": "2016",
+     "meta": "",
+     "summary": "Gina hypnotizes a married couple; the entranced wife happily hands her valuable ring to her husband, who gives it to Gina. Hypnotist: hypnotist thief Gina. Gain: money. Method: hypnosis (bracelet). Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Wikipedia episode list + Mental Block scene notes",
+     "categories": [
+      "rich-wife-gain",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Shut_Eye"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Shut_Eye"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "episodes": [
+      {
+       "episode": "S01E06 “Judgment”",
+       "air_date": "2016-12-07",
+       "gist": "Hypnotist-thief Gina puts a couple in a trance and takes the wife's valuable ring.",
+       "number_verified": true
+      }
+     ],
+     "hypnotist": "hypnotist thief Gina",
+     "gain_motive": [
+      "money"
+     ],
+     "method": "hypnosis (bracelet)",
+     "kids_status": "unknown",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:784": {
      "title": "Shut Eye",
@@ -182019,6 +185810,47 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "rich-wife-hypnosis:36": {
+     "title": "Shut Eye",
+     "year": "2016",
+     "format": "tv",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Wikipedia episode list + Mental Block scene notes",
+     "summary": "Gina hypnotizes a married couple; the entranced wife happily hands her valuable ring to her husband, who gives it to Gina. Hypnotist: hypnotist thief Gina. Gain: money. Method: hypnosis (bracelet). Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "categories": [
+      "rich-wife-gain",
+      "other-control"
+     ],
+     "match_title": "Shut Eye",
+     "match_year": "2016",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Shut_Eye"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Shut_Eye"
+      }
+     ],
+     "hypnotist": "hypnotist thief Gina",
+     "gain_motive": [
+      "money"
+     ],
+     "method": "hypnosis (bracelet)",
+     "kids_status": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "episodes": [
+      {
+       "episode": "S01E06 “Judgment”",
+       "air_date": "2016-12-07",
+       "gist": "Hypnotist-thief Gina puts a couple in a trance and takes the wife's valuable ring.",
+       "number_verified": true
+      }
+     ],
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    },
    "watch_links": [
@@ -183776,11 +187608,33 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "S02E09 “Made for Each Other (Part 1)”",
+     "gist": "Zach goes back to school and finds a teacher programming female students through implants to marry rich men.",
+     "number_verified": true
+    },
+    {
+     "episode": "S02E10 “Made for Each Other (Part 2)”",
+     "gist": "The scheme is to have the brides kill their wealthy husbands in staged accidents and hand the inheritance to the professor.",
+     "number_verified": true
+    }
+   ],
+   "hypnotist": "a college professor",
+   "gain_motive": [
+    "marriage",
+    "inheritance",
+    "crime"
+   ],
+   "method": "hypnotic device (mind-control implant)",
+   "kids_status": "no",
    "format": "tv",
    "categories": [
     "scifi",
     "fantasy",
-    "human"
+    "human",
+    "rich-wife-gain",
+    "crime"
    ],
    "sources": [
     {
@@ -183794,16 +187648,109 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "worldwide-hypnosis:812"
+    "worldwide-hypnosis:812",
+    "rich-wife-hypnosis:37"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:812",
+    "source": "worldwide-hypnosis",
+    "label": "Super Force (1990–1992)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Super Force",
+    "subtitle": "",
+    "year": "1990–1992",
+    "meta": "TV series · United States · English",
+    "summary": "Super Force is a 1990 - 1992 syndicated American television series about astronaut Zach Stone (Ken Olandt) who becomes a super-powered crime fighter with the help of a futuristic combat suit, weapons, and motorcycle designed by his scientist friend F.X.",
+    "character": "",
+    "note": "",
+    "mechanism": "Technological hypnosis (device, screen or signal)",
+    "confidence_flag": "Medium · fan-wiki scene log; title/year confirmed on Wikipedia",
+    "categories": [
+     "scifi",
+     "fantasy",
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Super_Force"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Super_Force"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:37",
+     "source": "rich-wife-hypnosis",
+     "label": "Super Force (1990–1992)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Super Force",
+     "subtitle": "",
+     "year": "1990–1992",
+     "meta": "",
+     "summary": "A professor plants mind-control chips in female students and programs them to marry rich men, kill them and pass her the inherited wealth. Hypnotist: a college professor. Gain: marriage, inheritance, crime. Method: hypnotic device (mind-control implant). Kids: no. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Low-medium · Wikipedia episode list + Mental Block (Mental Block numbers the episodes 10–11)",
+     "categories": [
+      "rich-wife-gain",
+      "scifi",
+      "crime"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Super_Force"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Super_Force"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "episodes": [
+      {
+       "episode": "S02E09 “Made for Each Other (Part 1)”",
+       "gist": "Zach goes back to school and finds a teacher programming female students through implants to marry rich men.",
+       "number_verified": true
+      },
+      {
+       "episode": "S02E10 “Made for Each Other (Part 2)”",
+       "gist": "The scheme is to have the brides kill their wealthy husbands in staged accidents and hand the inheritance to the professor.",
+       "number_verified": true
+      }
+     ],
+     "hypnotist": "a college professor",
+     "gain_motive": [
+      "marriage",
+      "inheritance",
+      "crime"
+     ],
+     "method": "hypnotic device (mind-control implant)",
+     "kids_status": "no",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:812": {
      "title": "Super Force",
@@ -183831,6 +187778,54 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "rich-wife-hypnosis:37": {
+     "title": "Super Force",
+     "year": "1990–1992",
+     "format": "tv",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Low-medium · Wikipedia episode list + Mental Block (Mental Block numbers the episodes 10–11)",
+     "summary": "A professor plants mind-control chips in female students and programs them to marry rich men, kill them and pass her the inherited wealth. Hypnotist: a college professor. Gain: marriage, inheritance, crime. Method: hypnotic device (mind-control implant). Kids: no. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "categories": [
+      "rich-wife-gain",
+      "scifi",
+      "crime"
+     ],
+     "match_title": "Super Force",
+     "match_year": "1990–1992",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Super_Force"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Super_Force"
+      }
+     ],
+     "hypnotist": "a college professor",
+     "gain_motive": [
+      "marriage",
+      "inheritance",
+      "crime"
+     ],
+     "method": "hypnotic device (mind-control implant)",
+     "kids_status": "no",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "episodes": [
+      {
+       "episode": "S02E09 “Made for Each Other (Part 1)”",
+       "gist": "Zach goes back to school and finds a teacher programming female students through implants to marry rich men.",
+       "number_verified": true
+      },
+      {
+       "episode": "S02E10 “Made for Each Other (Part 2)”",
+       "gist": "The scheme is to have the brides kill their wealthy husbands in staged accidents and hand the inheritance to the professor.",
+       "number_verified": true
+      }
+     ],
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -184203,9 +188198,25 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "S03E16 “Domovoy”",
+     "gist": "A wife falls to her death and the safe is empty; police trace a psychic who hypnotized clients for safe locations and alarm codes and catch him mid-robbery.",
+     "number_verified": false
+    }
+   ],
+   "hypnotist": "a psychic she was seeing",
+   "gain_motive": [
+    "money",
+    "crime"
+   ],
+   "method": "hypnosis",
+   "kids_status": "unknown",
    "format": "tv",
    "categories": [
-    "human"
+    "human",
+    "rich-wife-gain",
+    "crime"
    ],
    "sources": [
     {
@@ -184219,16 +188230,101 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "worldwide-hypnosis:819"
+    "worldwide-hypnosis:819",
+    "rich-wife-hypnosis:32"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:819",
+    "source": "worldwide-hypnosis",
+    "label": "Streets of Broken Lights (1995–2019)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Streets of Broken Lights",
+    "subtitle": "",
+    "year": "1995–2019",
+    "meta": "TV series · Russia",
+    "summary": "Streets of Broken Lights (Russian title: Улицы разбитых фонарей) was a 1995 - 2019 Russian detective series about police officers working in contemporary St.",
+    "character": "",
+    "note": "",
+    "mechanism": "Traditional hypnosis (pendulum, watch, voice or gaze)",
+    "confidence_flag": "Medium · fan-wiki scene log; title/year confirmed on Wikipedia",
+    "categories": [
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Streets_of_Broken_Lights"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Streets_of_Broken_Lights"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:32",
+     "source": "rich-wife-hypnosis",
+     "label": "Streets of Broken Lights (1995–2019)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Streets of Broken Lights",
+     "subtitle": "",
+     "year": "1995–2019",
+     "meta": "",
+     "summary": "A psychic hypnotizes his clients, including a married woman, into telling him where their valuables are and what their alarm codes are, then robs them. Hypnotist: a psychic she was seeing. Gain: money, crime. Method: hypnosis. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Mental Block episode summary",
+     "categories": [
+      "rich-wife-gain",
+      "human",
+      "crime"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Streets_of_Broken_Lights"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Streets_of_Broken_Lights"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "episodes": [
+      {
+       "episode": "S03E16 “Domovoy”",
+       "gist": "A wife falls to her death and the safe is empty; police trace a psychic who hypnotized clients for safe locations and alarm codes and catch him mid-robbery.",
+       "number_verified": false
+      }
+     ],
+     "hypnotist": "a psychic she was seeing",
+     "gain_motive": [
+      "money",
+      "crime"
+     ],
+     "method": "hypnosis",
+     "kids_status": "unknown",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:819": {
      "title": "Streets of Broken Lights",
@@ -184254,6 +188350,48 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "rich-wife-hypnosis:32": {
+     "title": "Streets of Broken Lights",
+     "year": "1995–2019",
+     "format": "tv",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Mental Block episode summary",
+     "summary": "A psychic hypnotizes his clients, including a married woman, into telling him where their valuables are and what their alarm codes are, then robs them. Hypnotist: a psychic she was seeing. Gain: money, crime. Method: hypnosis. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "categories": [
+      "rich-wife-gain",
+      "human",
+      "crime"
+     ],
+     "match_title": "Streets of Broken Lights",
+     "match_year": "1995–2019",
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Streets_of_Broken_Lights"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Streets_of_Broken_Lights"
+      }
+     ],
+     "hypnotist": "a psychic she was seeing",
+     "gain_motive": [
+      "money",
+      "crime"
+     ],
+     "method": "hypnosis",
+     "kids_status": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "episodes": [
+      {
+       "episode": "S03E16 “Domovoy”",
+       "gist": "A wife falls to her death and the safe is empty; police trace a psychic who hypnotized clients for safe locations and alarm codes and catch him mid-robbery.",
+       "number_verified": false
+      }
+     ],
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -185302,11 +189440,21 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "hypnotist": "crime boss 'The Giant'",
+   "gain_motive": [
+    "inheritance",
+    "money",
+    "signing papers"
+   ],
+   "method": "brainwashing / hypnotic conditioning",
+   "kids_status": "no",
    "format": "movie",
    "categories": [
     "scifi",
     "fantasy",
-    "human"
+    "human",
+    "rich-wife-gain",
+    "crime"
    ],
    "sources": [
     {
@@ -185320,16 +189468,97 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "worldwide-hypnosis:840"
+    "worldwide-hypnosis:840",
+    "rich-wife-hypnosis:18"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:840",
+    "source": "worldwide-hypnosis",
+    "label": "Target for Killing (1966)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Target for Killing",
+    "subtitle": "",
+    "year": "1966",
+    "meta": "Film · Italy",
+    "summary": "Target for Killing (also known as Das Geheimnis der glen Mönche and The Secret of the Yellow Monks) is a 1966 Italian-West German spy movie starring Stewart Granger as secret agent James Vine, who protects a young woman (Karin Dor) from assassins while he tracks down a crime boss known as The Giant (Curd Jurgens).",
+    "character": "",
+    "note": "",
+    "mechanism": "Technological hypnosis (device, screen or signal)",
+    "confidence_flag": "Medium · fan-wiki scene log; title/year confirmed on Wikipedia",
+    "categories": [
+     "scifi",
+     "fantasy",
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Target_for_Killing"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Target_for_Killing"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:18",
+     "source": "rich-wife-hypnosis",
+     "label": "Target for Killing (1966)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Target for Killing",
+     "subtitle": "",
+     "year": "1966",
+     "meta": "",
+     "summary": "On learning that Sandra Perkins is about to inherit millions, The Giant kidnaps her and brainwashes her so she will sign the money over to him. Hypnotist: crime boss 'The Giant'. Gain: inheritance, money, signing papers. Method: brainwashing / hypnotic conditioning. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Low-medium · Mental Block plot (brainwashing; how hypnotic it is is not clear)",
+     "categories": [
+      "rich-wife-gain",
+      "crime",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Target_for_Killing"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Target_for_Killing"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "hypnotist": "crime boss 'The Giant'",
+     "gain_motive": [
+      "inheritance",
+      "money",
+      "signing papers"
+     ],
+     "method": "brainwashing / hypnotic conditioning",
+     "kids_status": "no",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:840": {
      "title": "Target for Killing",
@@ -185357,6 +189586,42 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "rich-wife-hypnosis:18": {
+     "title": "Target for Killing",
+     "year": "1966",
+     "format": "movie",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Low-medium · Mental Block plot (brainwashing; how hypnotic it is is not clear)",
+     "summary": "On learning that Sandra Perkins is about to inherit millions, The Giant kidnaps her and brainwashes her so she will sign the money over to him. Hypnotist: crime boss 'The Giant'. Gain: inheritance, money, signing papers. Method: brainwashing / hypnotic conditioning. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "categories": [
+      "rich-wife-gain",
+      "crime",
+      "human"
+     ],
+     "match_title": "Target for Killing",
+     "match_year": "1966",
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Target_for_Killing"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Target_for_Killing"
+      }
+     ],
+     "hypnotist": "crime boss 'The Giant'",
+     "gain_motive": [
+      "inheritance",
+      "money",
+      "signing papers"
+     ],
+     "method": "brainwashing / hypnotic conditioning",
+     "kids_status": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -185510,11 +189775,27 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "S02E04 “'Til Death”",
+     "air_date": "1990-04-24",
+     "gist": "Logan uses a love potion on the snobbish heiress Margaret for her money; he ignores the warning, and she dies and comes back as a devoted corpse.",
+     "number_verified": true
+    }
+   ],
+   "hypnotist": "land owner Logan Andrews (potion from his ex, Psyche)",
+   "gain_motive": [
+    "money",
+    "marriage"
+   ],
+   "method": "love potion",
+   "kids_status": "no",
    "format": "tv",
    "categories": [
     "scifi",
     "love",
-    "human"
+    "human",
+    "rich-wife-gain"
    ],
    "sources": [
     {
@@ -185524,20 +189805,115 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Tales_from_the_Crypt_%28TV_series%29"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/List_of_Tales_from_the_Crypt_episodes"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "worldwide-hypnosis:844"
+    "worldwide-hypnosis:844",
+    "rich-wife-hypnosis:41"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:844",
+    "source": "worldwide-hypnosis",
+    "label": "Tales From The Crypt (1989–1996)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Tales From The Crypt",
+    "subtitle": "",
+    "year": "1989–1996",
+    "meta": "TV series · United States · English",
+    "summary": "Tales from the Crypt (AKA HBO's Tales from the Crypt) is a 1989 - 1996 American horror anthology television series that originally aired on the HBO cable channel.",
+    "character": "",
+    "note": "",
+    "mechanism": "Technological hypnosis (device, screen or signal)",
+    "confidence_flag": "Medium · fan-wiki scene log; title/year confirmed on Wikipedia",
+    "categories": [
+     "scifi",
+     "love",
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Tales_From_The_Crypt_%28TV_Series%29"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tales_from_the_Crypt_%28TV_series%29"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:41",
+     "source": "rich-wife-hypnosis",
+     "label": "Tales From The Crypt (1990)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Tales From The Crypt",
+     "subtitle": "",
+     "year": "1990",
+     "meta": "",
+     "summary": "To get money for his development, Logan wins wealthy Margaret Richardson with a love potion; too big a dose kills her, but her undead body keeps loving him. Hypnotist: land owner Logan Andrews (potion from his ex, Psyche). Gain: money, marriage. Method: love potion. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "character": "",
+     "note": "",
+     "mechanism": "Love-potion enchantment",
+     "confidence_flag": "High · Wikipedia episode list + TV Tropes",
+     "categories": [
+      "rich-wife-gain",
+      "love"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/List_of_Tales_from_the_Crypt_episodes"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Tales_From_The_Crypt_%28TV_Series%29"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Tales_from_the_Crypt_%28TV_series%29"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "episodes": [
+      {
+       "episode": "S02E04 “'Til Death”",
+       "air_date": "1990-04-24",
+       "gist": "Logan uses a love potion on the snobbish heiress Margaret for her money; he ignores the warning, and she dies and comes back as a devoted corpse.",
+       "number_verified": true
+      }
+     ],
+     "hypnotist": "land owner Logan Andrews (potion from his ex, Psyche)",
+     "gain_motive": [
+      "money",
+      "marriage"
+     ],
+     "method": "love potion",
+     "kids_status": "no",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:844": {
      "title": "Tales From The Crypt",
@@ -185565,6 +189941,52 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "rich-wife-hypnosis:41": {
+     "title": "Tales From The Crypt",
+     "year": "1990",
+     "format": "tv",
+     "mechanism": "Love-potion enchantment",
+     "confidence_flag": "High · Wikipedia episode list + TV Tropes",
+     "summary": "To get money for his development, Logan wins wealthy Margaret Richardson with a love potion; too big a dose kills her, but her undead body keeps loving him. Hypnotist: land owner Logan Andrews (potion from his ex, Psyche). Gain: money, marriage. Method: love potion. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "categories": [
+      "rich-wife-gain",
+      "love"
+     ],
+     "match_title": "Tales From The Crypt",
+     "match_year": "1989–1996",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/List_of_Tales_from_the_Crypt_episodes"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Tales_From_The_Crypt_%28TV_Series%29"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Tales_from_the_Crypt_%28TV_series%29"
+      }
+     ],
+     "hypnotist": "land owner Logan Andrews (potion from his ex, Psyche)",
+     "gain_motive": [
+      "money",
+      "marriage"
+     ],
+     "method": "love potion",
+     "kids_status": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "episodes": [
+      {
+       "episode": "S02E04 “'Til Death”",
+       "air_date": "1990-04-24",
+       "gist": "Logan uses a love potion on the snobbish heiress Margaret for her money; he ignores the warning, and she dies and comes back as a devoted corpse.",
+       "number_verified": true
+      }
+     ],
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    },
    "watch_links": [
@@ -188747,10 +193169,26 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "S01E12 “The Romany Lie Affair”",
+     "air_date": "1966-12-06",
+     "gist": "In the South of France, April goes undercover as a trapeze artist to expose a circus scheme that hypnotizes rich women into selling their shares before they die in 'accidents'.",
+     "number_verified": true
+    }
+   ],
+   "hypnotist": "circus owner Sadvaricci and fortune-teller Mama Rosha",
+   "gain_motive": [
+    "money"
+   ],
+   "method": "hypnosis",
+   "kids_status": "unknown",
    "format": "tv",
    "categories": [
     "scifi",
-    "human"
+    "human",
+    "rich-wife-gain",
+    "crime"
    ],
    "sources": [
     {
@@ -188764,16 +193202,102 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "worldwide-hypnosis:900"
+    "worldwide-hypnosis:900",
+    "rich-wife-hypnosis:31"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:900",
+    "source": "worldwide-hypnosis",
+    "label": "The Girl from U.N.C.L.E. (1966–1967)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Girl from U.N.C.L.E.",
+    "subtitle": "",
+    "year": "1966–1967",
+    "meta": "TV series · United States · English",
+    "summary": "The Girl from U.N.C.L.E.",
+    "character": "",
+    "note": "",
+    "mechanism": "Technological hypnosis (device, screen or signal)",
+    "confidence_flag": "Medium · fan-wiki scene log; title/year confirmed on Wikipedia",
+    "categories": [
+     "scifi",
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/The_Girl_from_U.N.C.L.E."
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Girl_from_U.N.C.L.E."
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:31",
+     "source": "rich-wife-hypnosis",
+     "label": "The Girl from U.N.C.L.E. (1966–1967)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Girl from U.N.C.L.E.",
+     "subtitle": "",
+     "year": "1966–1967",
+     "meta": "",
+     "summary": "A circus owner and his fortune-teller use hypnosis to make wealthy women sell their stock, then kill them in staged accidents. Hypnotist: circus owner Sadvaricci and fortune-teller Mama Rosha. Gain: money. Method: hypnosis. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "High · Wikipedia episode list + Mental Block",
+     "categories": [
+      "rich-wife-gain",
+      "human",
+      "crime"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Girl_from_U.N.C.L.E."
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/The_Girl_from_U.N.C.L.E."
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "episodes": [
+      {
+       "episode": "S01E12 “The Romany Lie Affair”",
+       "air_date": "1966-12-06",
+       "gist": "In the South of France, April goes undercover as a trapeze artist to expose a circus scheme that hypnotizes rich women into selling their shares before they die in 'accidents'.",
+       "number_verified": true
+      }
+     ],
+     "hypnotist": "circus owner Sadvaricci and fortune-teller Mama Rosha",
+     "gain_motive": [
+      "money"
+     ],
+     "method": "hypnosis",
+     "kids_status": "unknown",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:900": {
      "title": "The Girl from U.N.C.L.E.",
@@ -188800,6 +193324,48 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "rich-wife-hypnosis:31": {
+     "title": "The Girl from U.N.C.L.E.",
+     "year": "1966–1967",
+     "format": "tv",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "High · Wikipedia episode list + Mental Block",
+     "summary": "A circus owner and his fortune-teller use hypnosis to make wealthy women sell their stock, then kill them in staged accidents. Hypnotist: circus owner Sadvaricci and fortune-teller Mama Rosha. Gain: money. Method: hypnosis. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "categories": [
+      "rich-wife-gain",
+      "human",
+      "crime"
+     ],
+     "match_title": "The Girl from U.N.C.L.E.",
+     "match_year": "1966–1967",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Girl_from_U.N.C.L.E."
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/The_Girl_from_U.N.C.L.E."
+      }
+     ],
+     "hypnotist": "circus owner Sadvaricci and fortune-teller Mama Rosha",
+     "gain_motive": [
+      "money"
+     ],
+     "method": "hypnosis",
+     "kids_status": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "episodes": [
+      {
+       "episode": "S01E12 “The Romany Lie Affair”",
+       "air_date": "1966-12-06",
+       "gist": "In the South of France, April goes undercover as a trapeze artist to expose a circus scheme that hypnotizes rich women into selling their shares before they die in 'accidents'.",
+       "number_verified": true
+      }
+     ],
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -194113,10 +198679,18 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "hypnotist": "the Wazir Jaudur",
+   "gain_motive": [
+    "marriage",
+    "other (the throne)"
+   ],
+   "method": "hypnosis (mesmeric gaze)",
+   "kids_status": "no",
    "format": "movie",
    "categories": [
     "fantasy",
-    "love"
+    "love",
+    "rich-wife-gain"
    ],
    "sources": [
     {
@@ -194135,11 +198709,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "worldwide-hypnosis",
-    "hypnotized-love"
+    "hypnotized-love",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
     "worldwide-hypnosis:980",
-    "hypnotized-love:10"
+    "hypnotized-love:10",
+    "rich-wife-hypnosis:20"
    ],
    "index_only": false,
    "local_only": true,
@@ -194212,6 +198788,53 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:20",
+     "source": "rich-wife-hypnosis",
+     "label": "The Thief of Baghdad (1978)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Thief of Baghdad",
+     "subtitle": "",
+     "year": "1978",
+     "meta": "",
+     "summary": "Jaudur mesmerizes Princess Yasmine, the Caliph's heiress, so she agrees to marry him and walks to the altar. Hypnotist: the Wazir Jaudur. Gain: marriage, other (the throne). Method: hypnosis (mesmeric gaze). Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Mental Block plot + scene notes",
+     "categories": [
+      "rich-wife-gain",
+      "love",
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/The_Thief_of_Baghdad"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Thief_of_Baghdad_%281978_film%29"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Thief_of_Baghdad_(1978_film)"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "hypnotist": "the Wazir Jaudur",
+     "gain_motive": [
+      "marriage",
+      "other (the throne)"
+     ],
+     "method": "hypnosis (mesmeric gaze)",
+     "kids_status": "no",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -194265,6 +198888,45 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
      "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
+    },
+    "rich-wife-hypnosis:20": {
+     "title": "The Thief of Baghdad",
+     "year": "1978",
+     "format": "movie",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Mental Block plot + scene notes",
+     "summary": "Jaudur mesmerizes Princess Yasmine, the Caliph's heiress, so she agrees to marry him and walks to the altar. Hypnotist: the Wazir Jaudur. Gain: marriage, other (the throne). Method: hypnosis (mesmeric gaze). Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "categories": [
+      "rich-wife-gain",
+      "love",
+      "fantasy"
+     ],
+     "match_title": "The Thief of Baghdad",
+     "match_year": "1978",
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/The_Thief_of_Baghdad"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Thief_of_Baghdad_%281978_film%29"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Thief_of_Baghdad_(1978_film)"
+      }
+     ],
+     "hypnotist": "the Wazir Jaudur",
+     "gain_motive": [
+      "marriage",
+      "other (the throne)"
+     ],
+     "method": "hypnosis (mesmeric gaze)",
+     "kids_status": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -198418,11 +203080,19 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+   "hypnotist": "the usurping sorcerer Shurka",
+   "gain_motive": [
+    "marriage",
+    "other (the throne)"
+   ],
+   "method": "hypnosis",
+   "kids_status": "no",
    "format": "movie",
    "categories": [
     "love",
     "fantasy",
-    "other-control"
+    "other-control",
+    "rich-wife-gain"
    ],
    "sources": [
     {
@@ -198437,11 +203107,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "worldwide-hypnosis",
-    "hypnotized-love"
+    "hypnotized-love",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
     "worldwide-hypnosis:1047",
-    "hypnotized-love:12"
+    "hypnotized-love:12",
+    "rich-wife-hypnosis:19"
    ],
    "index_only": false,
    "local_only": true,
@@ -198508,6 +203180,49 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true
+    },
+    {
+     "rid": "rich-wife-hypnosis:19",
+     "source": "rich-wife-hypnosis",
+     "label": "Wizards of the Lost Kingdom (1985)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Wizards of the Lost Kingdom",
+     "subtitle": "",
+     "year": "1985",
+     "meta": "",
+     "summary": "Shurka hypnotizes the princess into agreeing to be his bride so he can secure the kingdom. Hypnotist: the usurping sorcerer Shurka. Gain: marriage, other (the throne). Method: hypnosis. Kids: no. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Low-medium · Mental Block stub + existing catalog",
+     "categories": [
+      "rich-wife-gain",
+      "love",
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Wizards_of_the_Lost_Kingdom"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Wizards_of_the_Lost_Kingdom"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "hypnotist": "the usurping sorcerer Shurka",
+     "gain_motive": [
+      "marriage",
+      "other (the throne)"
+     ],
+     "method": "hypnosis",
+     "kids_status": "no",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -198557,6 +203272,41 @@ window.CATALOG = {
      "pregnancy_outcome": "unknown",
      "pregnancy_note": "Pregnancy status is not stated in the available sources.",
      "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
+    },
+    "rich-wife-hypnosis:19": {
+     "title": "Wizards of the Lost Kingdom",
+     "year": "1985",
+     "format": "movie",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Low-medium · Mental Block stub + existing catalog",
+     "summary": "Shurka hypnotizes the princess into agreeing to be his bride so he can secure the kingdom. Hypnotist: the usurping sorcerer Shurka. Gain: marriage, other (the throne). Method: hypnosis. Kids: no. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "categories": [
+      "rich-wife-gain",
+      "love",
+      "fantasy"
+     ],
+     "match_title": "Wizards of the Lost Kingdom",
+     "match_year": "1985",
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Wizards_of_the_Lost_Kingdom"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Wizards_of_the_Lost_Kingdom"
+      }
+     ],
+     "hypnotist": "the usurping sorcerer Shurka",
+     "gain_motive": [
+      "marriage",
+      "other (the throne)"
+     ],
+     "method": "hypnosis",
+     "kids_status": "no",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    },
    "watch_links": [
@@ -200903,9 +205653,32 @@ window.CATALOG = {
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "Postpartum depression after she breaks free of the hypnosis implies a recent birth, but the recaps don't say whether Filiz was pregnant while hypnotized (possible intersection).",
    "pregnancy_highlight": true,
+   "episodes": [
+    {
+     "episode": "Habitación 309, Spanish broadcast chapters (week of 19–23 Oct 2020, Nova)",
+     "air_date": "2020-10-19/2020-10-23",
+     "gist": "Betül and Erol learn hypnosis and use it on Filiz, turning her into the worst version of herself and against the Sarıhans."
+    },
+    {
+     "episode": "Habitación 309, Spanish broadcast chapters (week of 26–30 Oct 2020, Nova)",
+     "air_date": "2020-10-26/2020-10-30",
+     "gist": "Filiz breaks free of the hypnosis and falls into postpartum depression."
+    }
+   ],
+   "hypnotist": "her husband Erol Sarıhan and her mother-in-law Betül",
+   "gain_motive": [
+    "inheritance",
+    "other (the family company)"
+   ],
+   "method": "hypnosis",
+   "kids_status": "no",
+   "kids_note": "she and Erol are only planning children when introduced",
    "format": "tv",
    "categories": [
-    "human"
+    "human",
+    "rich-wife-gain",
+    "wife",
+    "partner-control"
    ],
    "sources": [
     {
@@ -200919,20 +205692,136 @@ window.CATALOG = {
     {
      "label": "Turkish Wikipedia",
      "url": "https://tr.wikipedia.org/wiki/No:_309"
+    },
+    {
+     "label": "NOW TV character page: Filiz Sarıhan",
+     "url": "https://www.nowtv.com.tr/No-309/oyuncular/336/filiz-sarihan"
+    },
+    {
+     "label": "İnternet Haber character guide",
+     "url": "https://www.internethaber.com/no-309-24-yeni-bolum-fragmani-1733544h.htm"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "worldwide-hypnosis:1084"
+    "worldwide-hypnosis:1084",
+    "rich-wife-hypnosis:28"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:1084",
+    "source": "worldwide-hypnosis",
+    "label": "No: 309 (2016–2017)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "No: 309",
+    "subtitle": "",
+    "year": "2016–2017",
+    "meta": "TV series · Turkey · Turkish",
+    "summary": "Betül and Erol use hypnosis on Filiz to turn her into the worst version of herself and against the Sarıhan family; once Filiz breaks free she falls into postpartum depression.",
+    "character": "",
+    "note": "",
+    "mechanism": "Traditional hypnosis",
+    "confidence_flag": "Medium · episode recaps (Diez Minutos) + Turkish Wikipedia",
+    "categories": [
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "Diez Minutos recap",
+      "url": "https://www.diezminutos.es/telenovela/turcas/a34390738/habitacion-309-capitulos-19-al-23-octubre/"
+     },
+     {
+      "label": "Diez Minutos recap 2",
+      "url": "https://www.diezminutos.es/telenovela/turcas/a34458011/habitacion-309-capitulos-26-al-30-octubre/"
+     },
+     {
+      "label": "Turkish Wikipedia",
+      "url": "https://tr.wikipedia.org/wiki/No:_309"
+     }
+    ],
+    "pregnancy_outcome": "unknown",
+    "pregnancy_note": "Postpartum depression after she breaks free of the hypnosis implies a recent birth, but the recaps don't say whether Filiz was pregnant while hypnotized (possible intersection).",
+    "pregnancy_highlight": true,
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:28",
+     "source": "rich-wife-hypnosis",
+     "label": "No: 309 (2016–2017)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "No: 309",
+     "subtitle": "",
+     "year": "2016–2017",
+     "meta": "",
+     "summary": "Erol married Filiz to get ahead of his cousin in the race for their grandfather's inheritance; he and his mother learn hypnosis and use it on her to turn her against the Sarıhan family. Hypnotist: her husband Erol Sarıhan and her mother-in-law Betül. Gain: inheritance, other (the family company). Method: hypnosis. Kids: no (she and Erol are only planning children when introduced). Pregnancy: pregnant around or after the hypnosis (unconfirmed) — she has postpartum depression after breaking free, which implies a birth; the recaps don't say whether she was pregnant during the trance.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Spanish recaps (Diez Minutos) + official character guide",
+     "categories": [
+      "rich-wife-gain",
+      "wife",
+      "partner-control"
+     ],
+     "sources": [
+      {
+       "label": "NOW TV character page: Filiz Sarıhan",
+       "url": "https://www.nowtv.com.tr/No-309/oyuncular/336/filiz-sarihan"
+      },
+      {
+       "label": "İnternet Haber character guide",
+       "url": "https://www.internethaber.com/no-309-24-yeni-bolum-fragmani-1733544h.htm"
+      },
+      {
+       "label": "Diez Minutos recap",
+       "url": "https://www.diezminutos.es/telenovela/turcas/a34390738/habitacion-309-capitulos-19-al-23-octubre/"
+      },
+      {
+       "label": "Diez Minutos recap 2",
+       "url": "https://www.diezminutos.es/telenovela/turcas/a34458011/habitacion-309-capitulos-26-al-30-octubre/"
+      },
+      {
+       "label": "Turkish Wikipedia",
+       "url": "https://tr.wikipedia.org/wiki/No:_309"
+      }
+     ],
+     "pregnancy_outcome": "pregnant around or after the hypnosis (unconfirmed)",
+     "pregnancy_note": "she has postpartum depression after breaking free, which implies a birth; the recaps don't say whether she was pregnant during the trance",
+     "episodes": [
+      {
+       "episode": "Habitación 309, Spanish broadcast chapters (week of 19–23 Oct 2020, Nova)",
+       "air_date": "2020-10-19/2020-10-23",
+       "gist": "Betül and Erol learn hypnosis and use it on Filiz, turning her into the worst version of herself and against the Sarıhans."
+      },
+      {
+       "episode": "Habitación 309, Spanish broadcast chapters (week of 26–30 Oct 2020, Nova)",
+       "air_date": "2020-10-26/2020-10-30",
+       "gist": "Filiz breaks free of the hypnosis and falls into postpartum depression."
+      }
+     ],
+     "hypnotist": "her husband Erol Sarıhan and her mother-in-law Betül",
+     "gain_motive": [
+      "inheritance",
+      "other (the family company)"
+     ],
+     "method": "hypnosis",
+     "kids_status": "no",
+     "kids_note": "she and Erol are only planning children when introduced",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:1084": {
      "title": "No: 309",
@@ -200963,6 +205852,66 @@ window.CATALOG = {
      "pregnancy_note": "Postpartum depression after she breaks free of the hypnosis implies a recent birth, but the recaps don't say whether Filiz was pregnant while hypnotized (possible intersection).",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): TV Tropes hypnosis trope pages, Wikipedia 'Films about hypnosis' and targeted web searches.",
      "pregnancy_highlight": true
+    },
+    "rich-wife-hypnosis:28": {
+     "title": "No: 309",
+     "year": "2016–2017",
+     "format": "tv",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Spanish recaps (Diez Minutos) + official character guide",
+     "summary": "Erol married Filiz to get ahead of his cousin in the race for their grandfather's inheritance; he and his mother learn hypnosis and use it on her to turn her against the Sarıhan family. Hypnotist: her husband Erol Sarıhan and her mother-in-law Betül. Gain: inheritance, other (the family company). Method: hypnosis. Kids: no (she and Erol are only planning children when introduced). Pregnancy: pregnant around or after the hypnosis (unconfirmed) — she has postpartum depression after breaking free, which implies a birth; the recaps don't say whether she was pregnant during the trance.",
+     "categories": [
+      "rich-wife-gain",
+      "wife",
+      "partner-control"
+     ],
+     "match_title": "No: 309",
+     "match_year": "2016–2017",
+     "sources": [
+      {
+       "label": "NOW TV character page: Filiz Sarıhan",
+       "url": "https://www.nowtv.com.tr/No-309/oyuncular/336/filiz-sarihan"
+      },
+      {
+       "label": "İnternet Haber character guide",
+       "url": "https://www.internethaber.com/no-309-24-yeni-bolum-fragmani-1733544h.htm"
+      },
+      {
+       "label": "Diez Minutos recap",
+       "url": "https://www.diezminutos.es/telenovela/turcas/a34390738/habitacion-309-capitulos-19-al-23-octubre/"
+      },
+      {
+       "label": "Diez Minutos recap 2",
+       "url": "https://www.diezminutos.es/telenovela/turcas/a34458011/habitacion-309-capitulos-26-al-30-octubre/"
+      },
+      {
+       "label": "Turkish Wikipedia",
+       "url": "https://tr.wikipedia.org/wiki/No:_309"
+      }
+     ],
+     "hypnotist": "her husband Erol Sarıhan and her mother-in-law Betül",
+     "gain_motive": [
+      "inheritance",
+      "other (the family company)"
+     ],
+     "method": "hypnosis",
+     "kids_status": "no",
+     "kids_note": "she and Erol are only planning children when introduced",
+     "pregnancy_outcome": "pregnant around or after the hypnosis (unconfirmed)",
+     "pregnancy_note": "she has postpartum depression after breaking free, which implies a birth; the recaps don't say whether she was pregnant during the trance",
+     "episodes": [
+      {
+       "episode": "Habitación 309, Spanish broadcast chapters (week of 19–23 Oct 2020, Nova)",
+       "air_date": "2020-10-19/2020-10-23",
+       "gist": "Betül and Erol learn hypnosis and use it on Filiz, turning her into the worst version of herself and against the Sarıhans."
+      },
+      {
+       "episode": "Habitación 309, Spanish broadcast chapters (week of 26–30 Oct 2020, Nova)",
+       "air_date": "2020-10-26/2020-10-30",
+       "gist": "Filiz breaks free of the hypnosis and falls into postpartum depression."
+      }
+     ],
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -201164,11 +206113,19 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "Suzanne is a widowed mother; no pregnancy in the plot sources.",
+   "hypnotist": "dentist Frank",
+   "gain_motive": [
+    "love"
+   ],
+   "method": "hypnosis (post-hypnotic trigger)",
+   "kids_status": "yes",
+   "kids_note": "1 son",
    "format": "movie",
    "categories": [
     "love",
     "medical",
-    "mother"
+    "mother",
+    "rich-wife-gain"
    ],
    "sources": [
     {
@@ -201182,16 +206139,97 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnotized-love"
+    "hypnotized-love",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "hypnotized-love:8"
+    "hypnotized-love:8",
+    "rich-wife-hypnosis:10"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnotized-love:8",
+    "source": "hypnotized-love",
+    "label": "Don't Go Breaking My Heart (1999)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Don't Go Breaking My Heart",
+    "subtitle": "",
+    "year": "1999",
+    "meta": "Movie · United Kingdom · English",
+    "summary": "Dentist Frank hypnotizes widowed patient Suzanne to fall for him, but the trigger is accidentally set off by sports coach Tony, so she falls for Tony instead; she later learns her feelings were induced by hypnosis.",
+    "character": "",
+    "note": "",
+    "mechanism": "Hypnotic suggestion by a dentist",
+    "confidence_flag": "Strong · review-verified",
+    "categories": [
+     "love",
+     "medical",
+     "mother"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Don%27t_Go_Breaking_My_Heart_(1999_film)"
+     },
+     {
+      "label": "Fulvue Drive-in review",
+      "url": "https://fulvuedrive-in.com/review/11304/Don+t+Go+Breaking+My+Heart+1999+MVD+Visual+DVD+"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "Suzanne is a widowed mother; no pregnancy in the plot sources.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:10",
+     "source": "rich-wife-hypnosis",
+     "label": "Don't Go Breaking My Heart (1999)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Don't Go Breaking My Heart",
+     "subtitle": "",
+     "year": "1999",
+     "meta": "",
+     "summary": "Dentist Frank hypnotizes widowed patient Suzanne so she will fall for him; the trigger misfires onto Tony. Hypnotist: dentist Frank. Gain: love. Method: hypnosis (post-hypnotic trigger). Kids: yes (1 son). Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · existing catalog sources",
+     "categories": [
+      "rich-wife-gain",
+      "love",
+      "medical",
+      "mother"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Don%27t_Go_Breaking_My_Heart_(1999_film)"
+      },
+      {
+       "label": "Fulvue Drive-in review",
+       "url": "https://fulvuedrive-in.com/review/11304/Don+t+Go+Breaking+My+Heart+1999+MVD+Visual+DVD+"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "hypnotist": "dentist Frank",
+     "gain_motive": [
+      "love"
+     ],
+     "method": "hypnosis (post-hypnotic trigger)",
+     "kids_status": "yes",
+     "kids_note": "1 son",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnotized-love:8": {
      "title": "Don't Go Breaking My Heart",
@@ -201219,6 +206257,42 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "Suzanne is a widowed mother; no pregnancy in the plot sources.",
      "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
+    },
+    "rich-wife-hypnosis:10": {
+     "title": "Don't Go Breaking My Heart",
+     "year": "1999",
+     "format": "movie",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · existing catalog sources",
+     "summary": "Dentist Frank hypnotizes widowed patient Suzanne so she will fall for him; the trigger misfires onto Tony. Hypnotist: dentist Frank. Gain: love. Method: hypnosis (post-hypnotic trigger). Kids: yes (1 son). Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "categories": [
+      "rich-wife-gain",
+      "love",
+      "medical",
+      "mother"
+     ],
+     "match_title": "Don't Go Breaking My Heart",
+     "match_year": "1999",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Don%27t_Go_Breaking_My_Heart_(1999_film)"
+      },
+      {
+       "label": "Fulvue Drive-in review",
+       "url": "https://fulvuedrive-in.com/review/11304/Don+t+Go+Breaking+My+Heart+1999+MVD+Visual+DVD+"
+      }
+     ],
+     "hypnotist": "dentist Frank",
+     "gain_motive": [
+      "love"
+     ],
+     "method": "hypnosis (post-hypnotic trigger)",
+     "kids_status": "yes",
+     "kids_note": "1 son",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -201543,10 +206617,23 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
+   "episodes": [
+    {
+     "episode": "Season 3 “Herne's Son, Part 2”",
+     "gist": "With Robin of Loxley dead, Marion is held by Owen of Clun; Gulnar hypnotizes her and gives her a love potion so she marries Owen willingly."
+    }
+   ],
+   "hypnotist": "sorcerer Gulnar, for Lord Owen of Clun",
+   "gain_motive": [
+    "marriage"
+   ],
+   "method": "hypnosis + love potion",
+   "kids_status": "no",
    "format": "tv",
    "categories": [
     "love",
-    "fantasy"
+    "fantasy",
+    "rich-wife-gain"
    ],
    "sources": [
     {
@@ -201560,16 +206647,101 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnotized-love"
+    "hypnotized-love",
+    "rich-wife-hypnosis"
    ],
    "source_records": [
-    "hypnotized-love:21"
+    "hypnotized-love:21",
+    "rich-wife-hypnosis:39"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnotized-love:21",
+    "source": "hypnotized-love",
+    "label": "Robin of Sherwood · “Herne's Son, Part 2” · S03E02 (1986)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Robin of Sherwood",
+    "subtitle": "“Herne's Son, Part 2” · S03E02",
+    "year": "1986",
+    "meta": "TV episode · United Kingdom · English · ITV",
+    "summary": "Lord Owen of Clun captures Lady Marion and wants to marry her; his sorcerer Gulnar hypnotizes her and gives her a love potion, so she takes part enthusiastically in the wedding ceremony until she is rescued.",
+    "character": "",
+    "note": "",
+    "mechanism": "Sorcerer's hypnosis plus a love potion",
+    "confidence_flag": "Borderline · mixed hypnosis and potion",
+    "categories": [
+     "love",
+     "fantasy"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block",
+      "url": "https://mentalblock.miraheze.org/wiki/Robin_of_Sherwood"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robin_of_Sherwood"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "rich-wife-hypnosis:39",
+     "source": "rich-wife-hypnosis",
+     "label": "Robin of Sherwood (1986)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Robin of Sherwood",
+     "subtitle": "",
+     "year": "1986",
+     "meta": "",
+     "summary": "Owen of Clun wants to marry the captured Lady Marion; Gulnar hypnotizes her and gives her a love potion, and she goes through the wedding eagerly. Hypnotist: sorcerer Gulnar, for Lord Owen of Clun. Gain: marriage. Method: hypnosis + love potion. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis + love potion",
+     "confidence_flag": "Medium · Mental Block + existing catalog",
+     "categories": [
+      "rich-wife-gain",
+      "love",
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Robin_of_Sherwood"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Robin_of_Sherwood"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "episodes": [
+      {
+       "episode": "Season 3 “Herne's Son, Part 2”",
+       "gist": "With Robin of Loxley dead, Marion is held by Owen of Clun; Gulnar hypnotizes her and gives her a love potion so she marries Owen willingly."
+      }
+     ],
+     "hypnotist": "sorcerer Gulnar, for Lord Owen of Clun",
+     "gain_motive": [
+      "marriage"
+     ],
+     "method": "hypnosis + love potion",
+     "kids_status": "no",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnotized-love:21": {
      "title": "Robin of Sherwood",
@@ -201597,6 +206769,46 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
      "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
+    },
+    "rich-wife-hypnosis:39": {
+     "title": "Robin of Sherwood",
+     "year": "1986",
+     "format": "tv",
+     "mechanism": "Hypnosis + love potion",
+     "confidence_flag": "Medium · Mental Block + existing catalog",
+     "summary": "Owen of Clun wants to marry the captured Lady Marion; Gulnar hypnotizes her and gives her a love potion, and she goes through the wedding eagerly. Hypnotist: sorcerer Gulnar, for Lord Owen of Clun. Gain: marriage. Method: hypnosis + love potion. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+     "categories": [
+      "rich-wife-gain",
+      "love",
+      "fantasy"
+     ],
+     "match_title": "Robin of Sherwood",
+     "match_year": "1986",
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Robin_of_Sherwood"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Robin_of_Sherwood"
+      }
+     ],
+     "hypnotist": "sorcerer Gulnar, for Lord Owen of Clun",
+     "gain_motive": [
+      "marriage"
+     ],
+     "method": "hypnosis + love potion",
+     "kids_status": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for her in the cited plot sources",
+     "episodes": [
+      {
+       "episode": "Season 3 “Herne's Son, Part 2”",
+       "gist": "With Robin of Loxley dead, Marion is held by Owen of Clun; Gulnar hypnotizes her and gives her a love potion so she marries Owen willingly."
+      }
+     ],
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     }
    }
   },
@@ -204647,6 +209859,459 @@ window.CATALOG = {
      "provenance": "Occult-pregnancy near-miss research pass (30 Sep 2026), from the devil's-deal + pregnancy + hypnosis search: hypnosis/trance and a demonic or occult pregnancy, but the woman makes no deal; approved for the catalog by the user; not placed in devil-deal-pregnancy-hypnosis."
     }
    }
+  },
+  {
+   "id": 1929,
+   "title": "The Twilight Zone",
+   "subtitle": "“The Chaser” · S1E31",
+   "year": "1960",
+   "meta": "TV anthology episode · United States · English",
+   "mechanism": "Love-potion enchantment",
+   "confidence_flag": "High · Wikipedia episode article",
+   "summary": "Roger gives the indifferent Leila a $1 love potion; she marries him and smothers him with love until he buys poison to get out, then learns she is expecting. Hypnotist: Roger Shackleforth (potion bought from Professor A. Daemon). Gain: love, marriage. Method: love potion. Kids: no (none before the potion). Pregnancy: becomes pregnant after the enchantment — as his potion-made wife, Leila tells Roger she is pregnant just as he is about to poison her.",
+   "character": "",
+   "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only.",
+   "note": "",
+   "pregnancy_outcome": "becomes pregnant after the enchantment",
+   "pregnancy_note": "as his potion-made wife, Leila tells Roger she is pregnant just as he is about to poison her",
+   "episodes": [
+    {
+     "episode": "S01E31 “The Chaser”",
+     "air_date": "1960-05-13",
+     "gist": "A love potion makes Leila marry Roger; when he goes to poison her, she reveals she is pregnant and he drops the glass.",
+     "number_verified": true
+    }
+   ],
+   "hypnotist": "Roger Shackleforth (potion bought from Professor A. Daemon)",
+   "gain_motive": [
+    "love",
+    "marriage"
+   ],
+   "method": "love potion",
+   "kids_status": "no",
+   "kids_note": "none before the potion",
+   "format": "tv",
+   "categories": [
+    "rich-wife-gain",
+    "love"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Chaser_(The_Twilight_Zone)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "rich-wife-hypnosis"
+   ],
+   "source_records": [
+    "rich-wife-hypnosis:42"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "rich-wife-hypnosis:42": {
+     "title": "The Twilight Zone",
+     "year": "1960",
+     "format": "tv",
+     "subtitle": "“The Chaser” · S1E31",
+     "meta": "TV anthology episode · United States · English",
+     "mechanism": "Love-potion enchantment",
+     "confidence_flag": "High · Wikipedia episode article",
+     "summary": "Roger gives the indifferent Leila a $1 love potion; she marries him and smothers him with love until he buys poison to get out, then learns she is expecting. Hypnotist: Roger Shackleforth (potion bought from Professor A. Daemon). Gain: love, marriage. Method: love potion. Kids: no (none before the potion). Pregnancy: becomes pregnant after the enchantment — as his potion-made wife, Leila tells Roger she is pregnant just as he is about to poison her.",
+     "categories": [
+      "rich-wife-gain",
+      "love"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Chaser_(The_Twilight_Zone)"
+      }
+     ],
+     "hypnotist": "Roger Shackleforth (potion bought from Professor A. Daemon)",
+     "gain_motive": [
+      "love",
+      "marriage"
+     ],
+     "method": "love potion",
+     "kids_status": "no",
+     "kids_note": "none before the potion",
+     "pregnancy_outcome": "becomes pregnant after the enchantment",
+     "pregnancy_note": "as his potion-made wife, Leila tells Roger she is pregnant just as he is about to poison her",
+     "episodes": [
+      {
+       "episode": "S01E31 “The Chaser”",
+       "air_date": "1960-05-13",
+       "gist": "A love potion makes Leila marry Roger; when he goes to poison her, she reveals she is pregnant and he drops the glass.",
+       "number_verified": true
+      }
+     ],
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    }
+   }
+  },
+  {
+   "id": 1930,
+   "title": "The Green Hornet",
+   "subtitle": "",
+   "year": "1966–1967",
+   "meta": "TV series · ABC · United States · English",
+   "mechanism": "Hypnosis",
+   "confidence_flag": "High · Wikipedia episode list + Mental Block",
+   "summary": "Rich, prominent spa clients, socialite Vanessa Vane among them, commit crimes they then forget, after spa owner Peter Eden implants hypnotic suggestions during their treatments. Hypnotist: Peter Eden, owner of the Vale of Eden spa. Gain: crime, money. Method: hypnotic device (subliminal 'dream machine' treatments). Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+   "character": "",
+   "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only.",
+   "note": "",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "cited sources do not mention a pregnancy",
+   "episodes": [
+    {
+     "episode": "S01E07 “Beautiful Dreamer: Part 1”",
+     "air_date": "1966-10-21",
+     "gist": "Wealthy citizens commit crimes and then forget them; Miss Case is programmed to nearly kill Britt; the trail leads to Peter Eden's Vale of Eden spa.",
+     "number_verified": true
+    },
+    {
+     "episode": "S01E08 “Beautiful Dreamer: Part 2”",
+     "air_date": "1966-10-28",
+     "gist": "Eden uses socialite Vanessa Vane in an attempt to double-cross the Hornet, who turns the dream machine on Eden and makes him confess.",
+     "number_verified": true
+    }
+   ],
+   "hypnotist": "Peter Eden, owner of the Vale of Eden spa",
+   "gain_motive": [
+    "crime",
+    "money"
+   ],
+   "method": "hypnotic device (subliminal 'dream machine' treatments)",
+   "kids_status": "unknown",
+   "format": "tv",
+   "categories": [
+    "rich-wife-gain",
+    "scifi",
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/List_of_The_Green_Hornet_episodes"
+    },
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/The_Green_Hornet_(TV_series)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "rich-wife-hypnosis"
+   ],
+   "source_records": [
+    "rich-wife-hypnosis:43"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "rich-wife-hypnosis:43": {
+     "title": "The Green Hornet",
+     "year": "1966–1967",
+     "format": "tv",
+     "meta": "TV series · ABC · United States · English",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "High · Wikipedia episode list + Mental Block",
+     "summary": "Rich, prominent spa clients, socialite Vanessa Vane among them, commit crimes they then forget, after spa owner Peter Eden implants hypnotic suggestions during their treatments. Hypnotist: Peter Eden, owner of the Vale of Eden spa. Gain: crime, money. Method: hypnotic device (subliminal 'dream machine' treatments). Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "categories": [
+      "rich-wife-gain",
+      "scifi",
+      "crime"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/List_of_The_Green_Hornet_episodes"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/The_Green_Hornet_(TV_series)"
+      }
+     ],
+     "hypnotist": "Peter Eden, owner of the Vale of Eden spa",
+     "gain_motive": [
+      "crime",
+      "money"
+     ],
+     "method": "hypnotic device (subliminal 'dream machine' treatments)",
+     "kids_status": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "episodes": [
+      {
+       "episode": "S01E07 “Beautiful Dreamer: Part 1”",
+       "air_date": "1966-10-21",
+       "gist": "Wealthy citizens commit crimes and then forget them; Miss Case is programmed to nearly kill Britt; the trail leads to Peter Eden's Vale of Eden spa.",
+       "number_verified": true
+      },
+      {
+       "episode": "S01E08 “Beautiful Dreamer: Part 2”",
+       "air_date": "1966-10-28",
+       "gist": "Eden uses socialite Vanessa Vane in an attempt to double-cross the Hornet, who turns the dream machine on Eden and makes him confess.",
+       "number_verified": true
+      }
+     ],
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    }
+   }
+  },
+  {
+   "id": 1931,
+   "title": "Yeh Hai Chahatein",
+   "subtitle": "",
+   "year": "2019–2024",
+   "meta": "TV serial · StarPlus · India · Hindi",
+   "mechanism": "Hypnosis",
+   "confidence_flag": "Medium · Indian TV spoiler and written-update sites",
+   "summary": "After a one-year leap, Armaan keeps Preesha, wife of rich rock star Rudraksh Khurana, drugged and hypnotized into believing her marriage was abusive and that she is happily married to him. Hypnotist: Armaan. Gain: love, marriage. Method: hypnosis (with memory-erasing drugs). Kids: yes (2: son Saaransh and a newborn taken away by Revathi). Pregnancy: pregnant before the hypnosis — she gave birth before the one-year leap; not pregnant while under Armaan's control.",
+   "character": "",
+   "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only.",
+   "note": "",
+   "pregnancy_outcome": "pregnant before the hypnosis",
+   "pregnancy_note": "she gave birth before the one-year leap; not pregnant while under Armaan's control",
+   "episodes": [
+    {
+     "episode": "Episode of 16 Jun 2022 week (post-leap)",
+     "air_date": "2022-06",
+     "gist": "Post-leap, Preesha lives as Armaan's 'wife', drugged and hypnotized so she believes what he says; Rudra turns to drink."
+    },
+    {
+     "episode": "Episode of 8 Jul 2022",
+     "air_date": "2022-07-08",
+     "gist": "Armaan tells Ruhi and Saaransh that Preesha has lost her memory and must not be reminded of the past."
+    },
+    {
+     "episode": "Episode of 22–23 Aug 2022",
+     "air_date": "2022-08-22",
+     "gist": "Preesha has a flash of memory during the puja; Armaan increases her dose to stop her remembering."
+    },
+    {
+     "episode": "Episode of 5 Sep 2022",
+     "air_date": "2022-09-05",
+     "gist": "Rudraksh opens Armaan's safe, finds the drugs and plans to swap them for memory medicine."
+    }
+   ],
+   "hypnotist": "Armaan",
+   "gain_motive": [
+    "love",
+    "marriage"
+   ],
+   "method": "hypnosis (with memory-erasing drugs)",
+   "kids_status": "yes",
+   "kids_note": "2: son Saaransh and a newborn taken away by Revathi",
+   "format": "tv",
+   "categories": [
+    "rich-wife-gain",
+    "wife",
+    "india-control",
+    "mother",
+    "love"
+   ],
+   "sources": [
+    {
+     "label": "SerialGossip spoiler (16 Jun 2022)",
+     "url": "https://www.serialgossip.com/spoiler-76371-a"
+    },
+    {
+     "label": "TellyChakkar (22 Aug 2022)",
+     "url": "https://www.tellychakkar.com/spoiler-alert/yeh-hai-chahatein-cruel-preesha-gets-flash-of-memory-armaan-increases-her-dosage"
+    },
+    {
+     "label": "TellyReviews written update (8 Jul 2022)",
+     "url": "https://tellyreviews.com/2022/07/08/yeh-hai-chahatein-8th-july-2022-written-update/"
+    },
+    {
+     "label": "JustShowBiz written update (5 Sep 2022)",
+     "url": "https://www.justshowbiz.net/yeh-hai-chahatein-5th-september-2022-written-update/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "rich-wife-hypnosis"
+   ],
+   "source_records": [
+    "rich-wife-hypnosis:44"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "rich-wife-hypnosis:44": {
+     "title": "Yeh Hai Chahatein",
+     "year": "2019–2024",
+     "format": "tv",
+     "meta": "TV serial · StarPlus · India · Hindi",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · Indian TV spoiler and written-update sites",
+     "summary": "After a one-year leap, Armaan keeps Preesha, wife of rich rock star Rudraksh Khurana, drugged and hypnotized into believing her marriage was abusive and that she is happily married to him. Hypnotist: Armaan. Gain: love, marriage. Method: hypnosis (with memory-erasing drugs). Kids: yes (2: son Saaransh and a newborn taken away by Revathi). Pregnancy: pregnant before the hypnosis — she gave birth before the one-year leap; not pregnant while under Armaan's control.",
+     "categories": [
+      "rich-wife-gain",
+      "wife",
+      "india-control",
+      "mother",
+      "love"
+     ],
+     "sources": [
+      {
+       "label": "SerialGossip spoiler (16 Jun 2022)",
+       "url": "https://www.serialgossip.com/spoiler-76371-a"
+      },
+      {
+       "label": "TellyChakkar (22 Aug 2022)",
+       "url": "https://www.tellychakkar.com/spoiler-alert/yeh-hai-chahatein-cruel-preesha-gets-flash-of-memory-armaan-increases-her-dosage"
+      },
+      {
+       "label": "TellyReviews written update (8 Jul 2022)",
+       "url": "https://tellyreviews.com/2022/07/08/yeh-hai-chahatein-8th-july-2022-written-update/"
+      },
+      {
+       "label": "JustShowBiz written update (5 Sep 2022)",
+       "url": "https://www.justshowbiz.net/yeh-hai-chahatein-5th-september-2022-written-update/"
+      }
+     ],
+     "hypnotist": "Armaan",
+     "gain_motive": [
+      "love",
+      "marriage"
+     ],
+     "method": "hypnosis (with memory-erasing drugs)",
+     "kids_status": "yes",
+     "kids_note": "2: son Saaransh and a newborn taken away by Revathi",
+     "pregnancy_outcome": "pregnant before the hypnosis",
+     "pregnancy_note": "she gave birth before the one-year leap; not pregnant while under Armaan's control",
+     "episodes": [
+      {
+       "episode": "Episode of 16 Jun 2022 week (post-leap)",
+       "air_date": "2022-06",
+       "gist": "Post-leap, Preesha lives as Armaan's 'wife', drugged and hypnotized so she believes what he says; Rudra turns to drink."
+      },
+      {
+       "episode": "Episode of 8 Jul 2022",
+       "air_date": "2022-07-08",
+       "gist": "Armaan tells Ruhi and Saaransh that Preesha has lost her memory and must not be reminded of the past."
+      },
+      {
+       "episode": "Episode of 22–23 Aug 2022",
+       "air_date": "2022-08-22",
+       "gist": "Preesha has a flash of memory during the puja; Armaan increases her dose to stop her remembering."
+      },
+      {
+       "episode": "Episode of 5 Sep 2022",
+       "air_date": "2022-09-05",
+       "gist": "Rudraksh opens Armaan's safe, finds the drugs and plans to swap them for memory medicine."
+      }
+     ],
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    }
+   }
+  },
+  {
+   "id": 1932,
+   "title": "Mann Sundar",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "TV serial · Dangal TV · India · Hindi",
+   "mechanism": "Hypnosis",
+   "confidence_flag": "Low-medium · single spoiler report of an upcoming twist; episode numbers not published",
+   "summary": "Short of money after business losses, Yuvraj poses as Nahar, hypnotizes Nahar's wife Ruhi into obeying him and takes the household's property. Hypnotist: Yuvraj, a look-alike passing himself off as her husband Nahar. Gain: money, other (control of the family and its property). Method: hypnosis (a power he says a holy man gave him). Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+   "character": "",
+   "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only.",
+   "note": "",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "cited sources do not mention a pregnancy",
+   "episodes": [
+    {
+     "episode": "Episodes from late May 2026 (upcoming-twist report)",
+     "air_date": "2026-05-21",
+     "gist": "Yuvraj transfers Agni's property to himself, hypnotizes Ruhi into dancing with him and doing his bidding, puts the whole family under his control and throws out the real Nahar as a 'fake'."
+    }
+   ],
+   "hypnotist": "Yuvraj, a look-alike passing himself off as her husband Nahar",
+   "gain_motive": [
+    "money",
+    "other (control of the family and its property)"
+   ],
+   "method": "hypnosis (a power he says a holy man gave him)",
+   "kids_status": "unknown",
+   "format": "tv",
+   "categories": [
+    "rich-wife-gain",
+    "wife",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "SerialGossip upcoming-twist report (21 May 2026)",
+     "url": "https://www.serialgossip.com/mann-sundar-nahar-out-yuvrajs-hypnotism-pulls-ruhi-119552-a"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "rich-wife-hypnosis"
+   ],
+   "source_records": [
+    "rich-wife-hypnosis:45"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "rich-wife-hypnosis:45": {
+     "title": "Mann Sundar",
+     "year": "2026",
+     "format": "tv",
+     "meta": "TV serial · Dangal TV · India · Hindi",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Low-medium · single spoiler report of an upcoming twist; episode numbers not published",
+     "summary": "Short of money after business losses, Yuvraj poses as Nahar, hypnotizes Nahar's wife Ruhi into obeying him and takes the household's property. Hypnotist: Yuvraj, a look-alike passing himself off as her husband Nahar. Gain: money, other (control of the family and its property). Method: hypnosis (a power he says a holy man gave him). Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
+     "categories": [
+      "rich-wife-gain",
+      "wife",
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "SerialGossip upcoming-twist report (21 May 2026)",
+       "url": "https://www.serialgossip.com/mann-sundar-nahar-out-yuvrajs-hypnotism-pulls-ruhi-119552-a"
+      }
+     ],
+     "hypnotist": "Yuvraj, a look-alike passing himself off as her husband Nahar",
+     "gain_motive": [
+      "money",
+      "other (control of the family and its property)"
+     ],
+     "method": "hypnosis (a power he says a holy man gave him)",
+     "kids_status": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "cited sources do not mention a pregnancy",
+     "episodes": [
+      {
+       "episode": "Episodes from late May 2026 (upcoming-twist report)",
+       "air_date": "2026-05-21",
+       "gist": "Yuvraj transfers Agni's property to himself, hypnotizes Ruhi into dancing with him and doing his bidding, puts the whole family under his control and throws out the real Nahar as a 'fake'."
+      }
+     ],
+     "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    }
+   }
   }
  ],
  "sections": [
@@ -205685,6 +211350,12 @@ window.CATALOG = {
         "Adult female hypnosis — R-rated-equivalent worldwide",
         "Human-villain hypnosis / mind control",
         "Research report · web-verified"
+       ],
+       "sources": [
+        {
+         "label": "German Wikipedia",
+         "url": "https://de.wikipedia.org/wiki/Dr._Mabuse,_der_Spieler"
+        }
        ],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
@@ -208544,7 +214215,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla",
     "india-catalog",
     "worldwide-hypnosis",
-    "hypnotized-love"
+    "hypnotized-love",
+    "rich-wife-hypnosis"
    ],
    "groups": [
     {
@@ -209410,7 +215082,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla": 9,
     "india-catalog": null,
     "worldwide-hypnosis": null,
-    "hypnotized-love": null
+    "hypnotized-love": null,
+    "rich-wife-hypnosis": null
    }
   },
   {
@@ -210082,13 +215755,15 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla",
     "india-catalog",
     "worldwide-hypnosis",
-    "hypnotized-love"
+    "hypnotized-love",
+    "rich-wife-hypnosis"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 41,
     "india-catalog": null,
     "worldwide-hypnosis": null,
-    "hypnotized-love": null
+    "hypnotized-love": null,
+    "rich-wife-hypnosis": null
    },
    "groups": [
     {
@@ -210856,6 +216531,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "worldwide-hypnosis"
+    },
+    {
+     "title": "Rich woman or wife hypnotized for someone's gain (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1932,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1931,
+       "from_source": "rich-wife-hypnosis"
+      }
+     ],
+     "from_source": "rich-wife-hypnosis"
     }
    ]
   },
@@ -210879,7 +216569,8 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "india-catalog",
-    "hypnotized-love"
+    "hypnotized-love",
+    "rich-wife-hypnosis"
    ],
    "groups": [
     {
@@ -211349,12 +217040,32 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnotized-love"
+    },
+    {
+     "title": "Rich woman or wife hypnotized for someone's gain (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1224,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1421,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1875,
+       "from_source": "rich-wife-hypnosis"
+      }
+     ],
+     "from_source": "rich-wife-hypnosis"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 24,
     "india-catalog": null,
-    "hypnotized-love": null
+    "hypnotized-love": null,
+    "rich-wife-hypnosis": null
    }
   },
   {
@@ -211367,7 +217078,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla",
     "india-catalog",
     "worldwide-hypnosis",
-    "hypnotized-love"
+    "hypnotized-love",
+    "rich-wife-hypnosis"
    ],
    "groups": [
     {
@@ -211488,6 +217200,12 @@ window.CATALOG = {
         "Adult female hypnosis — R-rated-equivalent worldwide",
         "Human-villain hypnosis / mind control",
         "Research report · web-verified"
+       ],
+       "sources": [
+        {
+         "label": "German Wikipedia",
+         "url": "https://de.wikipedia.org/wiki/Dr._Mabuse,_der_Spieler"
+        }
        ],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
@@ -213915,7 +219633,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla": 31,
     "india-catalog": null,
     "worldwide-hypnosis": null,
-    "hypnotized-love": null
+    "hypnotized-love": null,
+    "rich-wife-hypnosis": null
    }
   },
   {
@@ -213936,7 +219655,8 @@ window.CATALOG = {
    ],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "rich-wife-hypnosis"
    ],
    "groups": [
     {
@@ -214101,10 +219821,22 @@ window.CATALOG = {
       }
      ],
      "from_source": "ig6qlxqxoxvcxla"
+    },
+    {
+     "title": "Rich woman or wife hypnotized for someone's gain (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 952,
+       "from_source": "rich-wife-hypnosis"
+      }
+     ],
+     "from_source": "rich-wife-hypnosis"
     }
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 4
+    "ig6qlxqxoxvcxla": 4,
+    "rich-wife-hypnosis": null
    }
   },
   {
@@ -214116,7 +219848,8 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "india-catalog",
-    "hypnotized-love"
+    "hypnotized-love",
+    "rich-wife-hypnosis"
    ],
    "groups": [
     {
@@ -214504,12 +220237,48 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnotized-love"
+    },
+    {
+     "title": "Rich woman or wife hypnotized for someone's gain (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1224,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1421,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1932,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 508,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1875,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 629,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1931,
+       "from_source": "rich-wife-hypnosis"
+      }
+     ],
+     "from_source": "rich-wife-hypnosis"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 24,
     "india-catalog": null,
-    "hypnotized-love": null
+    "hypnotized-love": null,
+    "rich-wife-hypnosis": null
    }
   },
   {
@@ -214573,7 +220342,8 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "india-catalog",
-    "hypnotized-love"
+    "hypnotized-love",
+    "rich-wife-hypnosis"
    ],
    "groups": [
     {
@@ -214743,12 +220513,32 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnotized-love"
+    },
+    {
+     "title": "Rich woman or wife hypnotized for someone's gain (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1164,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1224,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 59,
+       "from_source": "rich-wife-hypnosis"
+      }
+     ],
+     "from_source": "rich-wife-hypnosis"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 5,
     "india-catalog": null,
-    "hypnotized-love": null
+    "hypnotized-love": null,
+    "rich-wife-hypnosis": null
    }
   },
   {
@@ -214766,7 +220556,8 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "india-catalog",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "groups": [
     {
@@ -215047,12 +220838,60 @@ window.CATALOG = {
       }
      ],
      "from_source": "worldwide-hypnosis"
+    },
+    {
+     "title": "Rich woman or wife hypnotized for someone's gain (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 996,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1116,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1713,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1930,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 614,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 58,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1650,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1644,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1665,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 235,
+       "from_source": "rich-wife-hypnosis"
+      }
+     ],
+     "from_source": "rich-wife-hypnosis"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 2,
     "india-catalog": null,
-    "worldwide-hypnosis": null
+    "worldwide-hypnosis": null,
+    "rich-wife-hypnosis": null
    }
   },
   {
@@ -215076,7 +220915,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla",
     "india-catalog",
     "worldwide-hypnosis",
-    "hypnotized-love"
+    "hypnotized-love",
+    "rich-wife-hypnosis"
    ],
    "groups": [
     {
@@ -215599,6 +221439,7 @@ window.CATALOG = {
         "Romance / marriage compulsion",
         "Research report · web-verified"
        ],
+       "sources": [],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -215721,6 +221562,12 @@ window.CATALOG = {
        "tags": [
         "Hypnotized to love",
         "Magical spell"
+       ],
+       "sources": [
+        {
+         "label": "BFI Screenonline",
+         "url": "http://www.screenonline.org.uk/film/id/438437/synopsis.html"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -216177,13 +222024,29 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnotized-love"
+    },
+    {
+     "title": "Rich woman or wife hypnotized for someone's gain (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1929,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1931,
+       "from_source": "rich-wife-hypnosis"
+      }
+     ],
+     "from_source": "rich-wife-hypnosis"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 61,
     "india-catalog": null,
     "worldwide-hypnosis": null,
-    "hypnotized-love": null
+    "hypnotized-love": null,
+    "rich-wife-hypnosis": null
    }
   },
   {
@@ -216196,7 +222059,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla",
     "india-catalog",
     "worldwide-hypnosis",
-    "hypnotized-love"
+    "hypnotized-love",
+    "rich-wife-hypnosis"
    ],
    "groups": [
     {
@@ -216627,7 +222491,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla": 9,
     "india-catalog": null,
     "worldwide-hypnosis": null,
-    "hypnotized-love": null
+    "hypnotized-love": null,
+    "rich-wife-hypnosis": null
    }
   },
   {
@@ -216695,7 +222560,8 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "india-catalog",
-    "hypnotized-love"
+    "hypnotized-love",
+    "rich-wife-hypnosis"
    ],
    "groups": [
     {
@@ -217042,12 +222908,28 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnotized-love"
+    },
+    {
+     "title": "Rich woman or wife hypnotized for someone's gain (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 508,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1931,
+       "from_source": "rich-wife-hypnosis"
+      }
+     ],
+     "from_source": "rich-wife-hypnosis"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 29,
     "india-catalog": null,
-    "hypnotized-love": null
+    "hypnotized-love": null,
+    "rich-wife-hypnosis": null
    }
   },
   {
@@ -217059,7 +222941,8 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "india-catalog",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "rich-wife-hypnosis"
    ],
    "groups": [
     {
@@ -218104,7 +223987,8 @@ window.CATALOG = {
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 6,
     "india-catalog": null,
-    "worldwide-hypnosis": null
+    "worldwide-hypnosis": null,
+    "rich-wife-hypnosis": null
    }
   },
   {
@@ -218236,10 +224120,12 @@ window.CATALOG = {
    "description": "A worldwide search found no exact match, two loose matches and 13 clearly labeled non-qualifying near-misses. Existing titles are merged rather than duplicated.",
    "notes": [],
    "from_sources": [
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "rich-wife-hypnosis"
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 15
+    "ig6qlxqxoxvcxla": 15,
+    "rich-wife-hypnosis": null
    },
    "groups": [
     {
@@ -221388,6 +227274,207 @@ window.CATALOG = {
    }
   },
   {
+   "title": "Rich woman / wife hypnotized for someone's gain",
+   "category": "rich-wife-gain",
+   "description": "",
+   "notes": [],
+   "from_sources": [
+    "rich-wife-hypnosis"
+   ],
+   "declared_count_by_source": {
+    "rich-wife-hypnosis": null
+   },
+   "groups": [
+    {
+     "title": "Rich woman or wife hypnotized for someone's gain (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 996,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 244,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 873,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 611,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1116,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1147,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1164,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1163,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 832,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1177,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 643,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1879,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 233,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1224,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1251,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1713,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1930,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 29,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 818,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 18,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 614,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 59,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1421,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1932,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 58,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 508,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1875,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 229,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1884,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1596,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1620,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 902,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 34,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 952,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1650,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1644,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1668,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1665,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 33,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1785,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 629,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1929,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 235,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1843,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 1931,
+       "from_source": "rich-wife-hypnosis"
+      }
+     ],
+     "from_source": "rich-wife-hypnosis"
+    }
+   ]
+  },
+  {
    "title": "Rich woman hypnotized — love / marriage",
    "category": "index-51",
    "description": "One high-confidence forced-remarriage case involving a hypnotized socialite.",
@@ -221656,7 +227743,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla",
     "india-catalog",
     "worldwide-hypnosis",
-    "hypnotized-love"
+    "hypnotized-love",
+    "rich-wife-hypnosis"
    ],
    "groups": [
     {
@@ -223288,13 +229376,25 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnotized-love"
+    },
+    {
+     "title": "Rich woman or wife hypnotized for someone's gain (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1930,
+       "from_source": "rich-wife-hypnosis"
+      }
+     ],
+     "from_source": "rich-wife-hypnosis"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 35,
     "india-catalog": null,
     "worldwide-hypnosis": null,
-    "hypnotized-love": null
+    "hypnotized-love": null,
+    "rich-wife-hypnosis": null
    }
   },
   {
@@ -226449,7 +232549,8 @@ window.CATALOG = {
    ],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "rich-wife-hypnosis"
    ],
    "groups": [
     {
@@ -226928,10 +233029,22 @@ window.CATALOG = {
       }
      ],
      "from_source": "ig6qlxqxoxvcxla"
+    },
+    {
+     "title": "Rich woman or wife hypnotized for someone's gain (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 643,
+       "from_source": "rich-wife-hypnosis"
+      }
+     ],
+     "from_source": "rich-wife-hypnosis"
     }
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 31
+    "ig6qlxqxoxvcxla": 31,
+    "rich-wife-hypnosis": null
    }
   },
   {
@@ -226947,7 +233060,8 @@ window.CATALOG = {
    ],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "rich-wife-hypnosis"
    ],
    "groups": [
     {
@@ -227107,10 +233221,26 @@ window.CATALOG = {
       }
      ],
      "from_source": "ig6qlxqxoxvcxla"
+    },
+    {
+     "title": "Rich woman or wife hypnotized for someone's gain (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1251,
+       "from_source": "rich-wife-hypnosis"
+      },
+      {
+       "id": 508,
+       "from_source": "rich-wife-hypnosis"
+      }
+     ],
+     "from_source": "rich-wife-hypnosis"
     }
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 7
+    "ig6qlxqxoxvcxla": 7,
+    "rich-wife-hypnosis": null
    }
   },
   {

@@ -54,6 +54,8 @@ SOURCES = [
      "required": False},
     {"id": "occult-pregnancy-nearmiss", "label": "Occult pregnancy + trance near-misses",
      "local": "sources/occult-pregnancy-nearmiss.json", "required": False},
+    {"id": "rich-wife-hypnosis", "label": "Rich woman / wife hypnotized for gain",
+     "local": "sources/rich-wife-hypnosis.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -655,7 +657,7 @@ STORY_FIELDS = ("subtitle", "mechanism", "summary", "character", "note")
 # optional fields only some (local) sources carry; filled from the first member that has them, and only
 # written to an entry when present, so entries without them are unchanged
 OPTIONAL_FIELDS = ("pregnancy_outcome", "pregnancy_note", "pregnancy_highlight", "pregnant_has_children",
-                   "episodes", "tags")
+                   "episodes", "tags", "hypnotist", "gain_motive", "method", "kids_status", "kids_note")
 # list-valued optional fields are unioned across all merged copies (in primary-first, source order)
 UNION_FIELDS = ("episodes", "tags")
 

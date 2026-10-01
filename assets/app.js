@@ -127,6 +127,8 @@
       ${summary ? `<p class="summary">${esc(summary)}</p>` : ''}
       ${note ? `<p class="entry-note">${lab(esc(note))}</p>` : ''}${idxNote}
       ${e.pregnant_has_children ? `<p class="entry-note"><strong>Pregnant character already has children:</strong> ${esc(e.pregnant_has_children)}</p>` : ''}
+      ${e.hypnotist ? `<p class="entry-note"><strong>Hypnotized for gain:</strong> by ${esc(e.hypnotist)}${(e.gain_motive || []).length ? ' · gain: ' + esc([].concat(e.gain_motive).join(', ')) : ''}${e.method ? ' · method: ' + esc(e.method) : ''}</p>` : ''}
+      ${e.kids_status ? `<p class="entry-note"><strong>Already has children:</strong> ${esc(e.kids_status)}${e.kids_note ? ' — ' + esc(e.kids_note) : ''}</p>` : ''}
       ${(e.episodes || []).length ? `<div class="episodes"><strong>Episodes</strong><ul>${e.episodes.map(x => `<li><b>${esc(x.episode)}</b>${x.air_date ? ` <span class="epdate">(${esc(x.air_date)})</span>` : ''}${x.number_verified === false ? ' <em>episode number not verified</em>' : ''} — ${esc(x.gist)}</li>`).join('')}</ul></div>` : ''}
       ${e.pregnancy_outcome ? `<p class="entry-note"><strong>Pregnancy outcome:</strong> ${esc(e.pregnancy_outcome)}${e.pregnancy_note ? ' — ' + esc(e.pregnancy_note) : ''}</p>` : ''}
       ${watch}

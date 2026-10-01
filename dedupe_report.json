@@ -348,6 +348,13 @@
      "subtitle": "",
      "year": "2004",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:26",
+     "title": "The Hypnotized / Faceless Beauty",
+     "subtitle": "",
+     "year": "2004",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -448,6 +455,26 @@
      "subtitle": "",
      "year": "1910",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 29,
+   "kept": "The Hypnotist (1911)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:29",
+     "title": "The Hypnotist",
+     "subtitle": "",
+     "year": "1911"
+    },
+    {
+     "rid": "rich-wife-hypnosis:3",
+     "title": "The Hypnotist",
+     "subtitle": "",
+     "year": "1911",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -568,6 +595,26 @@
    ]
   },
   {
+   "kept_id": 33,
+   "kept": "The Thief of Bagdad (1940)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:33",
+     "title": "The Thief of Bagdad",
+     "subtitle": "",
+     "year": "1940"
+    },
+    {
+     "rid": "rich-wife-hypnosis:21",
+     "title": "The Thief of Bagdad",
+     "subtitle": "",
+     "year": "1940",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 34,
    "kept": "Sleep, My Love (1948)",
    "scope": "cross-source",
@@ -612,6 +659,13 @@
      "subtitle": "",
      "year": "1948",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:1",
+     "title": "Sleep, My Love",
+     "subtitle": "",
+     "year": "1948",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -1244,6 +1298,13 @@
      "subtitle": "",
      "year": "1946",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:11",
+     "title": "The Mask of Diijon",
+     "subtitle": "",
+     "year": "1946",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -1264,6 +1325,13 @@
      "subtitle": "",
      "year": "1975",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:12",
+     "title": "Le Système Ribadier",
+     "subtitle": "",
+     "year": "1975",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -5807,6 +5875,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:4",
+     "title": "Pilgrim Lovers / Gayuma",
+     "subtitle": "",
+     "year": "2011",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -5894,6 +5969,13 @@
      "subtitle": "",
      "year": "1922",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:15",
+     "title": "Dr. Mabuse the Gambler",
+     "subtitle": "",
+     "year": "1922",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -5989,6 +6071,13 @@
      "title": "Whirlpool",
      "subtitle": "",
      "year": "1950",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "rich-wife-hypnosis:2",
+     "title": "Whirlpool",
+     "subtitle": "",
+     "year": "1949",
      "matched_by": "match_title"
     }
    ]
@@ -6225,6 +6314,13 @@
      "title": "The Bold and the Beautiful",
      "subtitle": "",
      "year": "1987",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "rich-wife-hypnosis:38",
+     "title": "The Bold and the Beautiful",
+     "subtitle": "",
+     "year": "1998",
      "matched_by": "match_title"
     }
    ]
@@ -11561,6 +11657,13 @@
      "subtitle": "",
      "year": "2020",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:13",
+     "title": "My Husband's Deadly Past",
+     "subtitle": "",
+     "year": "2020",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -13823,6 +13926,13 @@
      "subtitle": "",
      "year": "1976–1981",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:30",
+     "title": "Charlie’s Angels",
+     "subtitle": "",
+     "year": "1976",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -13890,6 +14000,13 @@
      "subtitle": "",
      "year": "1913",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:5",
+     "title": "In the Grip of a Charlatan",
+     "subtitle": "",
+     "year": "1913",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -14178,6 +14295,13 @@
      "subtitle": "",
      "year": "2003",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:14",
+     "title": "To Seduce an Enemy",
+     "subtitle": "",
+     "year": "2003",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -14245,6 +14369,26 @@
      "subtitle": "",
      "year": "2025",
      "matched_by": "alias"
+    }
+   ]
+  },
+  {
+   "kept_id": 643,
+   "kept": "Die 1000 Augen des Dr. Mabuse / The Thousand Eyes of Dr. Mabuse (1960)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:676",
+     "title": "Die 1000 Augen des Dr. Mabuse / The Thousand Eyes of Dr. Mabuse",
+     "subtitle": "",
+     "year": "1960"
+    },
+    {
+     "rid": "rich-wife-hypnosis:16",
+     "title": "Die 1000 Augen des Dr. Mabuse / The Thousand Eyes of Dr. Mabuse",
+     "subtitle": "",
+     "year": "1960",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -17003,6 +17147,26 @@
    ]
   },
   {
+   "kept_id": 818,
+   "kept": "The Hypnotist (1936)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "ig6qlxqxoxvcxla:125",
+     "title": "The Hypnotist",
+     "subtitle": "",
+     "year": "1936"
+    },
+    {
+     "rid": "rich-wife-hypnosis:6",
+     "title": "The Hypnotist",
+     "subtitle": "",
+     "year": "1936",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 819,
    "kept": "How to Be Very, Very Popular (1955)",
    "scope": "cross-source",
@@ -17059,6 +17223,13 @@
      "subtitle": "",
      "year": "1964",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:9",
+     "title": "Devil Doll",
+     "subtitle": "",
+     "year": "1964",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -17199,6 +17370,13 @@
      "subtitle": "",
      "year": "1998",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:29",
+     "title": "C.I.D.",
+     "subtitle": "",
+     "year": "1998–2018",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -17550,6 +17728,26 @@
    ]
   },
   {
+   "kept_id": 902,
+   "kept": "Sindoor Ki Keemat (2023)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:52",
+     "title": "Sindoor Ki Keemat",
+     "subtitle": "",
+     "year": "2023"
+    },
+    {
+     "rid": "rich-wife-hypnosis:40",
+     "title": "Sindoor Ki Keemat",
+     "subtitle": "",
+     "year": "2023",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 915,
    "kept": "Dracula 2012 (2013)",
    "scope": "cross-source",
@@ -17890,6 +18088,46 @@
    ]
   },
   {
+   "kept_id": 952,
+   "kept": "A Snow White Christmas (2018)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:12",
+     "title": "A Snow White Christmas",
+     "subtitle": "",
+     "year": "2018"
+    },
+    {
+     "rid": "rich-wife-hypnosis:7",
+     "title": "A Snow White Christmas",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 996,
+   "kept": "An Angel for Satan (1966)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:62",
+     "title": "An Angel for Satan",
+     "subtitle": "",
+     "year": "1966"
+    },
+    {
+     "rid": "rich-wife-hypnosis:17",
+     "title": "An Angel for Satan",
+     "subtitle": "",
+     "year": "1966",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 1043,
    "kept": "Beyond (2012)",
    "scope": "cross-source",
@@ -17970,6 +18208,146 @@
    ]
   },
   {
+   "kept_id": 1116,
+   "kept": "Courage the Cowardly Dog (no year)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:195",
+     "title": "Courage the Cowardly Dog",
+     "subtitle": "",
+     "year": ""
+    },
+    {
+     "rid": "rich-wife-hypnosis:27",
+     "title": "Courage the Cowardly Dog",
+     "subtitle": "",
+     "year": "",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1147,
+   "kept": "Daughter of Dr. Jekyll (1886)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:232",
+     "title": "Daughter of Dr. Jekyll",
+     "subtitle": "",
+     "year": "1886"
+    },
+    {
+     "rid": "rich-wife-hypnosis:8",
+     "title": "Daughter of Dr. Jekyll",
+     "subtitle": "",
+     "year": "1957",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1163,
+   "kept": "Dennis the Menace: Cruise Control (2002)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:251",
+     "title": "Dennis the Menace: Cruise Control",
+     "subtitle": "",
+     "year": "2002"
+    },
+    {
+     "rid": "rich-wife-hypnosis:25",
+     "title": "Dennis the Menace: Cruise Control",
+     "subtitle": "",
+     "year": "2002",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1164,
+   "kept": "De Mesmer con amor (no year)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:252",
+     "title": "De Mesmer con amor",
+     "subtitle": "",
+     "year": ""
+    },
+    {
+     "rid": "rich-wife-hypnosis:24",
+     "title": "De Mesmer con amor",
+     "subtitle": "",
+     "year": "",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1177,
+   "kept": "Dick Tracy (1950–1951)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:270",
+     "title": "Dick Tracy",
+     "subtitle": "",
+     "year": "1950–1951"
+    },
+    {
+     "rid": "rich-wife-hypnosis:33",
+     "title": "Dick Tracy",
+     "subtitle": "",
+     "year": "1950–1951",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1224,
+   "kept": "El Gato con Gatas (1992)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:325",
+     "title": "El Gato con Gatas",
+     "subtitle": "",
+     "year": "1992"
+    },
+    {
+     "rid": "rich-wife-hypnosis:23",
+     "title": "El Gato con Gatas",
+     "subtitle": "",
+     "year": "1992",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1251,
+   "kept": "Freddy's Nightmares (1988)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:356",
+     "title": "Freddy's Nightmares",
+     "subtitle": "",
+     "year": "1988"
+    },
+    {
+     "rid": "rich-wife-hypnosis:34",
+     "title": "Freddy's Nightmares",
+     "subtitle": "",
+     "year": "1988",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 1263,
    "kept": "Flying wooden donkey (2011)",
    "scope": "cross-source",
@@ -17986,6 +18364,26 @@
      "subtitle": "ep. 62",
      "year": "2011",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1421,
+   "kept": "Listen To Your Husband (2025)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:551",
+     "title": "Listen To Your Husband",
+     "subtitle": "",
+     "year": "2025"
+    },
+    {
+     "rid": "rich-wife-hypnosis:22",
+     "title": "Listen To Your Husband",
+     "subtitle": "",
+     "year": "2025",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -18010,6 +18408,46 @@
    ]
   },
   {
+   "kept_id": 1596,
+   "kept": "Sassaricando (1987)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:757",
+     "title": "Sassaricando",
+     "subtitle": "",
+     "year": "1987"
+    },
+    {
+     "rid": "rich-wife-hypnosis:35",
+     "title": "Sassaricando",
+     "subtitle": "",
+     "year": "1987",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1620,
+   "kept": "Shut Eye (2016)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:784",
+     "title": "Shut Eye",
+     "subtitle": "",
+     "year": "2016"
+    },
+    {
+     "rid": "rich-wife-hypnosis:36",
+     "title": "Shut Eye",
+     "subtitle": "",
+     "year": "2016",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 1635,
    "kept": "Stalked by My Doctor: A Sleepwalker's Nightmare (2019)",
    "scope": "cross-source",
@@ -18030,6 +18468,46 @@
    ]
   },
   {
+   "kept_id": 1644,
+   "kept": "Super Force (1990–1992)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:812",
+     "title": "Super Force",
+     "subtitle": "",
+     "year": "1990–1992"
+    },
+    {
+     "rid": "rich-wife-hypnosis:37",
+     "title": "Super Force",
+     "subtitle": "",
+     "year": "1990–1992",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1650,
+   "kept": "Streets of Broken Lights (1995–2019)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:819",
+     "title": "Streets of Broken Lights",
+     "subtitle": "",
+     "year": "1995–2019"
+    },
+    {
+     "rid": "rich-wife-hypnosis:32",
+     "title": "Streets of Broken Lights",
+     "subtitle": "",
+     "year": "1995–2019",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 1659,
    "kept": "Super Models (1999)",
    "scope": "cross-source",
@@ -18046,6 +18524,66 @@
      "subtitle": "“Smoke and Mirrors” (ep. 22) · “Mind of Models” (ep. 24)",
      "year": "1997–99",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1665,
+   "kept": "Target for Killing (1966)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:840",
+     "title": "Target for Killing",
+     "subtitle": "",
+     "year": "1966"
+    },
+    {
+     "rid": "rich-wife-hypnosis:18",
+     "title": "Target for Killing",
+     "subtitle": "",
+     "year": "1966",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1668,
+   "kept": "Tales From The Crypt (1989–1996)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:844",
+     "title": "Tales From The Crypt",
+     "subtitle": "",
+     "year": "1989–1996"
+    },
+    {
+     "rid": "rich-wife-hypnosis:41",
+     "title": "Tales From The Crypt",
+     "subtitle": "",
+     "year": "1990",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1713,
+   "kept": "The Girl from U.N.C.L.E. (1966–1967)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:900",
+     "title": "The Girl from U.N.C.L.E.",
+     "subtitle": "",
+     "year": "1966–1967"
+    },
+    {
+     "rid": "rich-wife-hypnosis:31",
+     "title": "The Girl from U.N.C.L.E.",
+     "subtitle": "",
+     "year": "1966–1967",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -18086,6 +18624,13 @@
      "subtitle": "",
      "year": "1978",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:20",
+     "title": "The Thief of Baghdad",
+     "subtitle": "",
+     "year": "1978",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -18126,6 +18671,13 @@
      "subtitle": "",
      "year": "1985",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "rich-wife-hypnosis:19",
+     "title": "Wizards of the Lost Kingdom",
+     "subtitle": "",
+     "year": "1985",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -18148,6 +18700,66 @@
      "matched_by": "title+year"
     }
    ]
+  },
+  {
+   "kept_id": 1875,
+   "kept": "No: 309 (2016–2017)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:1084",
+     "title": "No: 309",
+     "subtitle": "",
+     "year": "2016–2017"
+    },
+    {
+     "rid": "rich-wife-hypnosis:28",
+     "title": "No: 309",
+     "subtitle": "",
+     "year": "2016–2017",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1879,
+   "kept": "Don't Go Breaking My Heart (1999)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnotized-love:8",
+     "title": "Don't Go Breaking My Heart",
+     "subtitle": "",
+     "year": "1999"
+    },
+    {
+     "rid": "rich-wife-hypnosis:10",
+     "title": "Don't Go Breaking My Heart",
+     "subtitle": "",
+     "year": "1999",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1884,
+   "kept": "Robin of Sherwood (1986)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnotized-love:21",
+     "title": "Robin of Sherwood",
+     "subtitle": "“Herne's Son, Part 2” · S03E02",
+     "year": "1986"
+    },
+    {
+     "rid": "rich-wife-hypnosis:39",
+     "title": "Robin of Sherwood",
+     "subtitle": "",
+     "year": "1986",
+     "matched_by": "match_title"
+    }
+   ]
   }
  ],
  "raw_counts": {
@@ -18158,11 +18770,12 @@
   "hypnotized-love": 30,
   "devil-deal-hypnosis": 1,
   "pregnant-intimacy": 47,
-  "occult-pregnancy-nearmiss": 3
+  "occult-pregnancy-nearmiss": 3,
+  "rich-wife-hypnosis": 45
  },
- "entry_count_after_dedupe": 1928,
+ "entry_count_after_dedupe": 1932,
  "within_source_groups": 1,
- "cross_source_groups": 727,
- "index_only_records": 42,
- "local_only_records": 1063
+ "cross_source_groups": 752,
+ "index_only_records": 41,
+ "local_only_records": 1067
 }
