@@ -40,19 +40,22 @@
     </label>
     <select id="category" aria-label="Category"><option value="all">All categories</option></select>
     <select id="format" aria-label="Format"><option value="all">All formats</option></select>
-    <select id="source" aria-label="Source"><option value="all">All sources</option></select>
-    <div class="yearbar" role="group" aria-label="Release year">
+    <button type="button" id="moreBtn" class="more-btn" aria-expanded="false" aria-controls="morePanel">More filters<span id="moreCount" class="more-count" hidden></span></button>
+    <div id="morePanel" class="more-panel" role="group" aria-label="More filters" hidden>
+      <select id="source" aria-label="Source"><option value="all">All sources</option></select>
       <select id="tag" aria-label="Reference tag"><option value="all">All tags</option></select>
-      <select id="period" aria-label="Release period"><option value="all">All years</option></select>
-      <span class="yr-range"><input id="ymin" type="number" inputmode="numeric" min="1800" max="2100" placeholder="From year" aria-label="From year (optional)">
-      <span aria-hidden="true">–</span>
-      <input id="ymax" type="number" inputmode="numeric" min="1800" max="2100" placeholder="To year" aria-label="To year (optional)"></span>
-      <button type="button" id="yclear">Reset years</button>
-      <button type="button" id="freeToggle" aria-pressed="false" title="Only records with a verified free / legal streaming link">Has free link</button>
-    </div>
-    <div class="view-toggle" role="group" aria-label="View">
-      <button type="button" data-view="grid" aria-pressed="true">Unique records</button>
-      <button type="button" data-view="sections" aria-pressed="false">By section</button>
+      <div class="view-toggle" role="group" aria-label="View">
+        <button type="button" data-view="grid" aria-pressed="true">Unique records</button>
+        <button type="button" data-view="sections" aria-pressed="false">By section</button>
+      </div>
+      <div class="yearbar" role="group" aria-label="Release year">
+        <select id="period" aria-label="Release period"><option value="all">All years</option></select>
+        <span class="yr-range"><input id="ymin" type="number" inputmode="numeric" min="1800" max="2100" placeholder="From year" aria-label="From year (optional)">
+        <span aria-hidden="true">–</span>
+        <input id="ymax" type="number" inputmode="numeric" min="1800" max="2100" placeholder="To year" aria-label="To year (optional)"></span>
+        <button type="button" id="yclear">Reset years</button>
+        <button type="button" id="freeToggle" aria-pressed="false" title="Only records with a verified free / legal streaming link">Has free link</button>
+      </div>
     </div>
   </div>
 </div>

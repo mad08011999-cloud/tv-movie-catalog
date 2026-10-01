@@ -185,11 +185,26 @@
     if (state.fmt !== 'all') p.set('fmt', state.fmt); if (state.src !== 'all') p.set('src', state.src); if (state.tag !== 'all') p.set('tag', state.tag);
     if (state.yr !== 'all') p.set('yr', state.yr); if (state.ymin) p.set('ymin', state.ymin); if (state.ymax) p.set('ymax', state.ymax); if (state.free) p.set('free', '1'); if (state.view !== 'grid') p.set('view', state.view);
     if (push) history.replaceState(null, '', (p.toString() ? '#' + p : location.pathname));
+    updateMore();
     render();
   }
+  // 'More filters' disclosure: source, tag, view, years and free-link live in a panel that is collapsed by
+  // default; the button shows how many of those hidden filters are active
+  const moreBtn = $('#moreBtn'), morePanel = $('#morePanel');
+  const hiddenActive = () => [state.src !== 'all', state.tag !== 'all', state.view !== 'grid', state.yr !== 'all',
+    !!(state.ymin || state.ymax), state.free].filter(Boolean).length;
+  function setMore(open){ morePanel.hidden = !open; moreBtn.setAttribute('aria-expanded', String(open)); }
+  function updateMore(){
+    const n = hiddenActive(), c = $('#moreCount');
+    c.hidden = !n; c.textContent = n ? String(n) : '';
+    moreBtn.setAttribute('aria-label', n ? `More filters, ${n} active` : 'More filters');
+  }
+  moreBtn.addEventListener('click', () => setMore(morePanel.hidden));
+  document.addEventListener('keydown', e => { if (e.key === 'Escape' && !morePanel.hidden && morePanel.contains(document.activeElement)) { setMore(false); moreBtn.focus(); } });
   const init = new URLSearchParams(location.hash.slice(1));
   state.q = (init.get('q') || '').toLowerCase(); state.cat = init.get('cat') || 'all'; state.fmt = init.get('fmt') || 'all'; state.src = init.get('src') || 'all'; state.tag = init.get('tag') || 'all';
   state.yr = periodOf[init.get('yr')] ? init.get('yr') : 'all'; state.ymin = init.get('ymin') || ''; state.ymax = init.get('ymax') || ''; state.free = init.get('free') === '1'; state.view = init.get('view') || 'grid';
+  if (hiddenActive()) setMore(true);   // a hidden filter set from the URL hash opens the panel
   let t;
   $('#search').addEventListener('input', e => { clearTimeout(t); t = setTimeout(() => { state.q = e.target.value.trim().toLowerCase(); state.limit = PAGE; sync(true); }, 120); });
   $('#category').addEventListener('change', e => { state.cat = e.target.value; state.limit = PAGE; sync(true); });
