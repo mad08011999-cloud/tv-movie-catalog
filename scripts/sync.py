@@ -52,6 +52,8 @@ SOURCES = [
      "local": "sources/devil-deal-hypnosis.json", "required": False},
     {"id": "pregnant-intimacy", "label": "Pregnant-character intimacy research", "local": "sources/pregnant-intimacy.json",
      "required": False},
+    {"id": "occult-pregnancy-nearmiss", "label": "Occult pregnancy + trance near-misses",
+     "local": "sources/occult-pregnancy-nearmiss.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "

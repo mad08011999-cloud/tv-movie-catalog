@@ -861,6 +861,19 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "occult-pregnancy-nearmiss",
+   "label": "Occult pregnancy + trance near-misses",
+   "kind": "local",
+   "share_url": "sources/occult-pregnancy-nearmiss.json",
+   "description": "Titles from the devil's-deal + pregnancy + hypnosis search where a woman is hypnotized or entranced and carries a demonic or occult pregnancy, but makes no deal herself. Placed in existing categories only (not devil-deal-pregnancy or devil-deal-pregnancy-hypnosis). Each record carries the pregnancy outcome and a confidence note.",
+   "dropped": [],
+   "check": {
+    "raw_count": 4,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -870,10 +883,11 @@
   "worldwide-hypnosis": 1085,
   "hypnotized-love": 30,
   "devil-deal-hypnosis": 1,
-  "pregnant-intimacy": 47
+  "pregnant-intimacy": 47,
+  "occult-pregnancy-nearmiss": 4
  },
- "raw_total": 3155,
- "entry_count": 1923,
+ "raw_total": 3159,
+ "entry_count": 1925,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -897,13 +911,13 @@
    "key": "cult",
    "label": "Cult / coercive brainwashing",
    "legend_label": "Cult / coercive brainwashing",
-   "entry_count": 16
+   "entry_count": 17
   },
   {
    "key": "occult",
    "label": "Demonic / occult control",
    "legend_label": "Demonic / occult control",
-   "entry_count": 39
+   "entry_count": 42
   },
   {
    "key": "devil-deal-pregnancy-hypnosis",
@@ -1071,13 +1085,13 @@
    "key": "pregnant",
    "label": "Pregnant woman hypnotized / mind-controlled",
    "legend_label": "Pregnant woman hypnotized / mind-controlled",
-   "entry_count": 17
+   "entry_count": 18
   },
   {
    "key": "pregnancy-evil",
    "label": "Pregnant women controlled / possessed by evil forces",
    "legend_label": "Pregnant women controlled / possessed by evil forces",
-   "entry_count": 47
+   "entry_count": 50
   },
   {
    "key": "regional-pregnancy",
@@ -84794,7 +84808,9 @@
    "categories": [
     "pregnant-child",
     "vampire",
-    "pregnancy-evil"
+    "pregnancy-evil",
+    "occult",
+    "pregnant"
    ],
    "sources": [
     {
@@ -84812,18 +84828,24 @@
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Angel_%281999_TV_series%29"
+    },
+    {
+     "label": "Wikipedia: Angel season 1",
+     "url": "https://en.wikipedia.org/wiki/Angel_season_1"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "occult-pregnancy-nearmiss"
    ],
    "source_records": [
     "xla62ucxbx02u5:588",
     "ig6qlxqxoxvcxla:780",
-    "worldwide-hypnosis:66"
+    "worldwide-hypnosis:66",
+    "occult-pregnancy-nearmiss:2"
    ],
    "index_only": false,
    "local_only": false,
@@ -84921,6 +84943,43 @@
      "pregnancy_highlight": true,
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "occult-pregnancy-nearmiss:2",
+     "source": "occult-pregnancy-nearmiss",
+     "label": "Angel · “Expecting” · S01E12 · aired 25 January 2000 (2000)",
+     "identifiers": [
+      "subtitle",
+      "year/date"
+     ],
+     "title": "Angel",
+     "subtitle": "“Expecting” · S01E12 · aired 25 January 2000",
+     "year": "2000",
+     "meta": "TV series episode · United States · English · The WB",
+     "summary": "After one night with photographer Wilson Christopher, who has a deal with a Haxil demon to impregnate women in exchange for success, Cordelia wakes up heavily pregnant with demon offspring. The demon mesmerizes the pregnant women into going to its lair; Angel kills it, the demon babies are destroyed and the women snap out of the trance.",
+     "character": "Cordelia Chase (Charisma Carpenter)",
+     "note": "",
+     "mechanism": "Demonic mesmerism of the pregnant women by the Haxil demon (through its human surrogate's deal)",
+     "confidence_flag": "Medium · the mesmerized pregnant women are documented by Mental Block screenshot captions (\"Mesmerized, the mothers of the demon's children go to the monster's lair\"); the deal is the surrogate Wilson's, not Cordelia's",
+     "categories": [
+      "pregnancy-evil",
+      "occult",
+      "pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Angel"
+      },
+      {
+       "label": "Wikipedia: Angel season 1",
+       "url": "https://en.wikipedia.org/wiki/Angel_season_1"
+      }
+     ],
+     "pregnancy_outcome": "pregnant at start; pregnancy ends",
+     "pregnancy_note": "Cordelia's demon pregnancy ends when Angel kills the Haxil demon and the demon babies are destroyed.",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -84983,6 +85042,35 @@
      "pregnancy_highlight": true,
      "match_title": "Angel",
      "match_year": "2000"
+    },
+    "occult-pregnancy-nearmiss:2": {
+     "title": "Angel",
+     "subtitle": "“Expecting” · S01E12 · aired 25 January 2000",
+     "year": "2000",
+     "format": "tv",
+     "meta": "TV series episode · United States · English · The WB",
+     "mechanism": "Demonic mesmerism of the pregnant women by the Haxil demon (through its human surrogate's deal)",
+     "confidence_flag": "Medium · the mesmerized pregnant women are documented by Mental Block screenshot captions (\"Mesmerized, the mothers of the demon's children go to the monster's lair\"); the deal is the surrogate Wilson's, not Cordelia's",
+     "summary": "After one night with photographer Wilson Christopher, who has a deal with a Haxil demon to impregnate women in exchange for success, Cordelia wakes up heavily pregnant with demon offspring. The demon mesmerizes the pregnant women into going to its lair; Angel kills it, the demon babies are destroyed and the women snap out of the trance.",
+     "character": "Cordelia Chase (Charisma Carpenter)",
+     "categories": [
+      "pregnancy-evil",
+      "occult",
+      "pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Angel"
+      },
+      {
+       "label": "Wikipedia: Angel season 1",
+       "url": "https://en.wikipedia.org/wiki/Angel_season_1"
+      }
+     ],
+     "pregnancy_outcome": "pregnant at start; pregnancy ends",
+     "pregnancy_note": "Cordelia's demon pregnancy ends when Angel kills the Haxil demon and the demon babies are destroyed.",
+     "provenance": "Occult-pregnancy near-miss research pass (30 Sep 2026), from the devil's-deal + pregnancy + hypnosis search: hypnosis/trance and a demonic or occult pregnancy, but the woman makes no deal; approved for the catalog by the user; not placed in devil-deal-pregnancy-hypnosis."
     }
    }
   },
@@ -111778,14 +111866,17 @@
    "confidence_flag": "High confidence · literal hypnosis · rating not verified",
    "summary": "Wilbur Whateley drugs and hypnotizes Nancy as part of an occult scheme; the film ends by revealing that she is pregnant with his “ill-conceived child.” The control caused the pregnancy.",
    "character": "Nancy Wagner",
-   "provenance": "",
+   "provenance": "Occult-pregnancy near-miss research pass (30 Sep 2026), from the devil's-deal + pregnancy + hypnosis search: hypnosis/trance and a demonic or occult pregnancy, but the woman makes no deal; approved for the catalog by the user; not placed in devil-deal-pregnancy-hypnosis.",
    "note": "",
+   "pregnancy_outcome": "becomes pregnant by the end",
+   "pregnancy_note": "The final scene reveals Nancy is pregnant with Wilbur Whateley's child; the birth is not shown.",
    "format": "movie",
    "categories": [
     "adult-pregnancy",
     "human",
     "occult",
-    "pregnant"
+    "pregnant",
+    "pregnancy-evil"
    ],
    "sources": [
     {
@@ -111808,14 +111899,16 @@
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "occult-pregnancy-nearmiss"
    ],
    "source_records": [
     "xla62ucxbx02u5:811",
     "ig6qlxqxoxvcxla:24",
     "ig6qlxqxoxvcxla:150",
     "ig6qlxqxoxvcxla:493",
-    "ig6qlxqxoxvcxla:544"
+    "ig6qlxqxoxvcxla:544",
+    "occult-pregnancy-nearmiss:1"
    ],
    "index_only": false,
    "local_only": false,
@@ -111975,6 +112068,38 @@
      "distinct_story": false,
      "index_title": "The Dunwich Horror (1970)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "occult-pregnancy-nearmiss:1",
+     "source": "occult-pregnancy-nearmiss",
+     "label": "The Dunwich Horror (1970)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Dunwich Horror",
+     "subtitle": "",
+     "year": "1970",
+     "meta": "Feature film · United States · English · dir. Daniel Haller",
+     "summary": "Wilbur Whateley uses his hypnotic gaze and drugs on Nancy Wagner, keeps her at the Whateley house and uses her in a ritual to the Old Ones on a clifftop altar. Nancy never seeks a child or makes a pact, but the film ends by revealing she is pregnant with Wilbur's child.",
+     "character": "Nancy Wagner (Sandra Dee)",
+     "note": "",
+     "mechanism": "Hypnotic gaze plus drugging by the sorcerer Wilbur Whateley · occult ritual on a clifftop altar",
+     "confidence_flag": "Strong · Wikipedia plot states the hypnosis (\"under the influence of his hypnotic gaze\", \"drugged and hypnotized Nancy\") and the final pregnancy; no deal by Nancy",
+     "categories": [
+      "pregnancy-evil",
+      "occult",
+      "pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Dunwich_Horror_(film)"
+      }
+     ],
+     "pregnancy_outcome": "becomes pregnant by the end",
+     "pregnancy_note": "The final scene reveals Nancy is pregnant with Wilbur Whateley's child; the birth is not shown.",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -112069,6 +112194,30 @@
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "occult-pregnancy-nearmiss:1": {
+     "title": "The Dunwich Horror",
+     "year": "1970",
+     "format": "movie",
+     "meta": "Feature film · United States · English · dir. Daniel Haller",
+     "mechanism": "Hypnotic gaze plus drugging by the sorcerer Wilbur Whateley · occult ritual on a clifftop altar",
+     "confidence_flag": "Strong · Wikipedia plot states the hypnosis (\"under the influence of his hypnotic gaze\", \"drugged and hypnotized Nancy\") and the final pregnancy; no deal by Nancy",
+     "summary": "Wilbur Whateley uses his hypnotic gaze and drugs on Nancy Wagner, keeps her at the Whateley house and uses her in a ritual to the Old Ones on a clifftop altar. Nancy never seeks a child or makes a pact, but the film ends by revealing she is pregnant with Wilbur's child.",
+     "character": "Nancy Wagner (Sandra Dee)",
+     "categories": [
+      "pregnancy-evil",
+      "occult",
+      "pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Dunwich_Horror_(film)"
+      }
+     ],
+     "pregnancy_outcome": "becomes pregnant by the end",
+     "pregnancy_note": "The final scene reveals Nancy is pregnant with Wilbur Whateley's child; the birth is not shown.",
+     "provenance": "Occult-pregnancy near-miss research pass (30 Sep 2026), from the devil's-deal + pregnancy + hypnosis search: hypnosis/trance and a demonic or occult pregnancy, but the woman makes no deal; approved for the catalog by the user; not placed in devil-deal-pregnancy-hypnosis."
     }
    }
   },
@@ -196691,6 +196840,136 @@
      ]
     }
    }
+  },
+  {
+   "id": 1924,
+   "title": "The X-Files — \"Terms of Endearment\"",
+   "subtitle": "S06E07",
+   "year": "1999",
+   "meta": "TV series episode · United States · English · Fox · aired 3 January 1999",
+   "mechanism": "Demon husband attacks the pregnancy in a dream; trance only as the husband's cover story",
+   "confidence_flag": "Low for hypnosis · Wikipedia's only trance element is Wayne's claim that Laura aborted the child \"while in a trance-like state\", which is his lie; she is attacked in a nightmare and later has her soul drawn out, so no real hypnosis is documented; no deal by Laura",
+   "summary": "Pregnant Laura Weinsider dreams that a demon-like figure takes the baby from her womb and wakes to find she has seemingly miscarried. Her husband Wayne, secretly a demon who ends pregnancies that show demonic traits, tells her she aborted the child in a trance-like state; when she grows suspicious he draws out her soul, leaving her comatose until he returns it as he dies.",
+   "character": "Laura Weinsider (Lisa Jane Persky)",
+   "provenance": "Occult-pregnancy near-miss research pass (30 Sep 2026), from the devil's-deal + pregnancy + hypnosis search: hypnosis/trance and a demonic or occult pregnancy, but the woman makes no deal; approved for the catalog by the user; not placed in devil-deal-pregnancy-hypnosis.",
+   "note": "",
+   "pregnancy_outcome": "pregnant at start; pregnancy ends",
+   "pregnancy_note": "Laura's pregnancy ends when the demon husband removes the fetus (presented as a miscarriage or abortion); she survives and recovers at the end.",
+   "format": "tv",
+   "categories": [
+    "pregnancy-evil",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Terms_of_Endearment_(The_X-Files)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "occult-pregnancy-nearmiss"
+   ],
+   "source_records": [
+    "occult-pregnancy-nearmiss:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "occult-pregnancy-nearmiss:3": {
+     "title": "The X-Files — \"Terms of Endearment\"",
+     "subtitle": "S06E07",
+     "year": "1999",
+     "format": "tv",
+     "meta": "TV series episode · United States · English · Fox · aired 3 January 1999",
+     "standalone": true,
+     "mechanism": "Demon husband attacks the pregnancy in a dream; trance only as the husband's cover story",
+     "confidence_flag": "Low for hypnosis · Wikipedia's only trance element is Wayne's claim that Laura aborted the child \"while in a trance-like state\", which is his lie; she is attacked in a nightmare and later has her soul drawn out, so no real hypnosis is documented; no deal by Laura",
+     "summary": "Pregnant Laura Weinsider dreams that a demon-like figure takes the baby from her womb and wakes to find she has seemingly miscarried. Her husband Wayne, secretly a demon who ends pregnancies that show demonic traits, tells her she aborted the child in a trance-like state; when she grows suspicious he draws out her soul, leaving her comatose until he returns it as he dies.",
+     "character": "Laura Weinsider (Lisa Jane Persky)",
+     "categories": [
+      "pregnancy-evil",
+      "occult"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Terms_of_Endearment_(The_X-Files)"
+      }
+     ],
+     "pregnancy_outcome": "pregnant at start; pregnancy ends",
+     "pregnancy_note": "Laura's pregnancy ends when the demon husband removes the fetus (presented as a miscarriage or abortion); she survives and recovers at the end.",
+     "provenance": "Occult-pregnancy near-miss research pass (30 Sep 2026), from the devil's-deal + pregnancy + hypnosis search: hypnosis/trance and a demonic or occult pregnancy, but the woman makes no deal; approved for the catalog by the user; not placed in devil-deal-pregnancy-hypnosis."
+    }
+   }
+  },
+  {
+   "id": 1925,
+   "title": "The Lords of Salem",
+   "subtitle": "",
+   "year": "2012",
+   "meta": "Feature film · United States · English · dir. Rob Zombie",
+   "mechanism": "Trance-inducing music: a coven's record, created to control the women of Salem, puts them into a trance",
+   "confidence_flag": "Medium · Wikipedia states the record \"causes all of the women in Salem to enter a trance\" and that the coven made the music \"to control the women of Salem\"; Heidi's later visions and drug relapse blur how far she herself is entranced; no deal by Heidi (a curse on her bloodline)",
+   "summary": "Salem radio DJ Heidi, a descendant of the witch-hunter who executed a Satan-worshipping coven, receives the coven's record, whose music puts the town's women into a trance. Lacy and her sisters, coven members, draw her into a satanic rite at the Lords' concert, where she gives birth to a strange creature amid surreal visions.",
+   "character": "Heidi Hawthorne (Sheri Moon Zombie)",
+   "provenance": "Occult-pregnancy near-miss research pass (30 Sep 2026), from the devil's-deal + pregnancy + hypnosis search: hypnosis/trance and a demonic or occult pregnancy, but the woman makes no deal; approved for the catalog by the user; not placed in devil-deal-pregnancy-hypnosis.",
+   "note": "",
+   "pregnancy_outcome": "gives birth",
+   "pregnancy_note": "In the climactic rite Heidi gives birth to a small, crawfish-like creature (the devil's child of the coven's curse); no conventional pregnancy is shown beforehand.",
+   "format": "movie",
+   "categories": [
+    "pregnancy-evil",
+    "occult",
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Lords_of_Salem_(film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "occult-pregnancy-nearmiss"
+   ],
+   "source_records": [
+    "occult-pregnancy-nearmiss:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "occult-pregnancy-nearmiss:4": {
+     "title": "The Lords of Salem",
+     "year": "2012",
+     "format": "movie",
+     "meta": "Feature film · United States · English · dir. Rob Zombie",
+     "mechanism": "Trance-inducing music: a coven's record, created to control the women of Salem, puts them into a trance",
+     "confidence_flag": "Medium · Wikipedia states the record \"causes all of the women in Salem to enter a trance\" and that the coven made the music \"to control the women of Salem\"; Heidi's later visions and drug relapse blur how far she herself is entranced; no deal by Heidi (a curse on her bloodline)",
+     "summary": "Salem radio DJ Heidi, a descendant of the witch-hunter who executed a Satan-worshipping coven, receives the coven's record, whose music puts the town's women into a trance. Lacy and her sisters, coven members, draw her into a satanic rite at the Lords' concert, where she gives birth to a strange creature amid surreal visions.",
+     "character": "Heidi Hawthorne (Sheri Moon Zombie)",
+     "categories": [
+      "pregnancy-evil",
+      "occult",
+      "cult"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Lords_of_Salem_(film)"
+      }
+     ],
+     "pregnancy_outcome": "gives birth",
+     "pregnancy_note": "In the climactic rite Heidi gives birth to a small, crawfish-like creature (the devil's child of the coven's curse); no conventional pregnancy is shown beforehand.",
+     "provenance": "Occult-pregnancy near-miss research pass (30 Sep 2026), from the devil's-deal + pregnancy + hypnosis search: hypnosis/trance and a demonic or occult pregnancy, but the woman makes no deal; approved for the catalog by the user; not placed in devil-deal-pregnancy-hypnosis."
+    }
+   }
   }
  ],
  "sections": [
@@ -199811,7 +200090,8 @@
     "ig6qlxqxoxvcxla",
     "india-catalog",
     "hypnotized-love",
-    "devil-deal-hypnosis"
+    "devil-deal-hypnosis",
+    "occult-pregnancy-nearmiss"
    ],
    "groups": [
     {
@@ -199979,13 +200259,25 @@
       }
      ],
      "from_source": "devil-deal-hypnosis"
+    },
+    {
+     "title": "Occult pregnancy + hypnosis/trance near-misses (Sep 2026 research)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1925,
+       "from_source": "occult-pregnancy-nearmiss"
+      }
+     ],
+     "from_source": "occult-pregnancy-nearmiss"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 12,
     "india-catalog": null,
     "hypnotized-love": null,
-    "devil-deal-hypnosis": null
+    "devil-deal-hypnosis": null,
+    "occult-pregnancy-nearmiss": null
    }
   },
   {
@@ -199998,7 +200290,8 @@
     "ig6qlxqxoxvcxla",
     "india-catalog",
     "hypnotized-love",
-    "devil-deal-hypnosis"
+    "devil-deal-hypnosis",
+    "occult-pregnancy-nearmiss"
    ],
    "groups": [
     {
@@ -200392,13 +200685,33 @@
       }
      ],
      "from_source": "devil-deal-hypnosis"
+    },
+    {
+     "title": "Occult pregnancy + hypnosis/trance near-misses (Sep 2026 research)",
+     "notes": [],
+     "items": [
+      {
+       "id": 555,
+       "from_source": "occult-pregnancy-nearmiss"
+      },
+      {
+       "id": 1925,
+       "from_source": "occult-pregnancy-nearmiss"
+      },
+      {
+       "id": 1924,
+       "from_source": "occult-pregnancy-nearmiss"
+      }
+     ],
+     "from_source": "occult-pregnancy-nearmiss"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 32,
     "india-catalog": null,
     "hypnotized-love": null,
-    "devil-deal-hypnosis": null
+    "devil-deal-hypnosis": null,
+    "occult-pregnancy-nearmiss": null
    }
   },
   {
@@ -211747,7 +212060,8 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "occult-pregnancy-nearmiss"
    ],
    "groups": [
     {
@@ -211965,11 +212279,27 @@
       }
      ],
      "from_source": "worldwide-hypnosis"
+    },
+    {
+     "title": "Occult pregnancy + hypnosis/trance near-misses (Sep 2026 research)",
+     "notes": [],
+     "items": [
+      {
+       "id": 555,
+       "from_source": "occult-pregnancy-nearmiss"
+      },
+      {
+       "id": 774,
+       "from_source": "occult-pregnancy-nearmiss"
+      }
+     ],
+     "from_source": "occult-pregnancy-nearmiss"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 13,
-    "worldwide-hypnosis": null
+    "worldwide-hypnosis": null,
+    "occult-pregnancy-nearmiss": null
    }
   },
   {
@@ -212487,7 +212817,8 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "occult-pregnancy-nearmiss"
    ],
    "groups": [
     {
@@ -212909,11 +213240,31 @@
       }
      ],
      "from_source": "worldwide-hypnosis"
+    },
+    {
+     "title": "Occult pregnancy + hypnosis/trance near-misses (Sep 2026 research)",
+     "notes": [],
+     "items": [
+      {
+       "id": 774,
+       "from_source": "occult-pregnancy-nearmiss"
+      },
+      {
+       "id": 1925,
+       "from_source": "occult-pregnancy-nearmiss"
+      },
+      {
+       "id": 1924,
+       "from_source": "occult-pregnancy-nearmiss"
+      }
+     ],
+     "from_source": "occult-pregnancy-nearmiss"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 47,
-    "worldwide-hypnosis": null
+    "worldwide-hypnosis": null,
+    "occult-pregnancy-nearmiss": null
    }
   },
   {

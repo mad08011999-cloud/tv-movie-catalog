@@ -12523,6 +12523,13 @@
      "subtitle": "",
      "year": "1999–2004",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "occult-pregnancy-nearmiss:2",
+     "title": "Angel",
+     "subtitle": "“Expecting” · S01E12 · aired 25 January 2000",
+     "year": "2000",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -15755,6 +15762,13 @@
      "subtitle": "",
      "year": "1970",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "occult-pregnancy-nearmiss:1",
+     "title": "The Dunwich Horror",
+     "subtitle": "",
+     "year": "1970",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -18007,11 +18021,12 @@
   "worldwide-hypnosis": 1085,
   "hypnotized-love": 30,
   "devil-deal-hypnosis": 1,
-  "pregnant-intimacy": 47
+  "pregnant-intimacy": 47,
+  "occult-pregnancy-nearmiss": 4
  },
- "entry_count_after_dedupe": 1923,
+ "entry_count_after_dedupe": 1925,
  "within_source_groups": 1,
  "cross_source_groups": 723,
  "index_only_records": 38,
- "local_only_records": 1065
+ "local_only_records": 1067
 }
