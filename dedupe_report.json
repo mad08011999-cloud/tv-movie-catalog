@@ -845,6 +845,13 @@
      "subtitle": "",
      "year": "1980",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "older-man-hypnosis:14",
+     "title": "Flash Gordon",
+     "subtitle": "",
+     "year": "1980",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -912,6 +919,13 @@
      "subtitle": "",
      "year": "1984",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "older-man-hypnosis:7",
+     "title": "Murder, She Wrote",
+     "subtitle": "“Death Casts a Spell” · S01E10",
+     "year": "1984",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -3564,6 +3578,13 @@
     },
     {
      "rid": "hypnotized-love:7",
+     "title": "Hypnotic",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "older-man-hypnosis:13",
      "title": "Hypnotic",
      "subtitle": "",
      "year": "2021",
@@ -13736,6 +13757,13 @@
      "subtitle": "",
      "year": "2013",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "older-man-hypnosis:3",
+     "title": "LFO",
+     "subtitle": "",
+     "year": "2013",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -13953,6 +13981,13 @@
      "subtitle": "",
      "year": "1961",
      "matched_by": "alias"
+    },
+    {
+     "rid": "older-man-hypnosis:5",
+     "title": "Nisf Azraa / نصف عذراء",
+     "subtitle": "",
+     "year": "1961",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -14302,6 +14337,13 @@
      "subtitle": "",
      "year": "2003",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "older-man-hypnosis:4",
+     "title": "To Seduce an Enemy",
+     "subtitle": "",
+     "year": "2003",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -14449,6 +14491,13 @@
      "subtitle": "",
      "year": "1966",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "older-man-hypnosis:1",
+     "title": "Rasputin the Mad Monk",
+     "subtitle": "",
+     "year": "1966",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -14575,6 +14624,26 @@
      "title": "Oldboy",
      "subtitle": "",
      "year": "2003",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 655,
+   "kept": "Saimin / Hypnosis / The Hypnotist (1999)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:688",
+     "title": "Saimin / Hypnosis / The Hypnotist",
+     "subtitle": "",
+     "year": "1999"
+    },
+    {
+     "rid": "older-man-hypnosis:9",
+     "title": "Saimin / Hypnosis / The Hypnotist",
+     "subtitle": "",
+     "year": "1999",
      "matched_by": "match_title"
     }
    ]
@@ -14807,6 +14876,26 @@
    ]
   },
   {
+   "kept_id": 685,
+   "kept": "Mesmer (1994)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:719",
+     "title": "Mesmer",
+     "subtitle": "",
+     "year": "1994"
+    },
+    {
+     "rid": "older-man-hypnosis:8",
+     "title": "Mesmer",
+     "subtitle": "",
+     "year": "1994",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 686,
    "kept": "Looker (1981)",
    "scope": "cross-source",
@@ -14994,6 +15083,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:805",
      "title": "Black Magic Part 2 (1976)",
+     "subtitle": "",
+     "year": "1976",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "older-man-hypnosis:15",
+     "title": "Black Magic Part 2",
      "subtitle": "",
      "year": "1976",
      "matched_by": "title+year"
@@ -17230,6 +17326,13 @@
      "subtitle": "",
      "year": "1964",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "older-man-hypnosis:2",
+     "title": "Devil Doll",
+     "subtitle": "",
+     "year": "1964",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -17269,6 +17372,13 @@
      "title": "Diagnosis: Murder",
      "subtitle": "",
      "year": "1993–2001",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "older-man-hypnosis:10",
+     "title": "Diagnosis: Murder",
+     "subtitle": "S04E19 · “Delusions of Murder”",
+     "year": "1997",
      "matched_by": "match_title"
     }
    ]
@@ -18088,6 +18198,26 @@
    ]
   },
   {
+   "kept_id": 939,
+   "kept": "Payal (Part 1) (2024)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:153",
+     "title": "Payal (Part 1)",
+     "subtitle": "",
+     "year": "2024"
+    },
+    {
+     "rid": "older-man-hypnosis:6",
+     "title": "Payal (Part 1)",
+     "subtitle": "",
+     "year": "2024",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 952,
    "kept": "A Snow White Christmas (2018)",
    "scope": "cross-source",
@@ -18184,6 +18314,26 @@
      "subtitle": "",
      "year": "1938",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1099,
+   "kept": "Columbo (1968)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:177",
+     "title": "Columbo",
+     "subtitle": "",
+     "year": "1968"
+    },
+    {
+     "rid": "older-man-hypnosis:12",
+     "title": "Columbo",
+     "subtitle": "S04E06 · “A Deadly State of Mind”",
+     "year": "1975",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -18772,11 +18922,12 @@
   "pregnant-intimacy": 47,
   "occult-pregnancy-nearmiss": 3,
   "rich-wife-hypnosis": 45,
-  "agegap-marriage": 18
+  "agegap-marriage": 18,
+  "older-man-hypnosis": 15
  },
- "entry_count_after_dedupe": 1950,
+ "entry_count_after_dedupe": 1951,
  "within_source_groups": 1,
- "cross_source_groups": 752,
+ "cross_source_groups": 756,
  "index_only_records": 41,
- "local_only_records": 1085
+ "local_only_records": 1086
 }

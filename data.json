@@ -1137,6 +1137,100 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "older-man-hypnosis",
+   "label": "Young woman hypnotized by an older / rich man",
+   "kind": "local",
+   "share_url": "sources/older-man-hypnosis.json",
+   "description": "Young adult women (18+) hypnotized, mesmerized or entranced by an older or rich older man, with intimate or sexual scenes between them. Minors and teen characters excluded. Each card states whether he marries her, whether she is pregnant by the end, kids together and prior children, plus how many independent sources back it.",
+   "dropped": [
+    {
+     "title": "Vayanadan Thamban (Kanni Vettai / Pyasa Shaitan)",
+     "year": "1978",
+     "reason": "excluded: the warlock's wife Annamma is introduced 'on her matriculation' (school-level, possibly a minor); adults-only rule"
+    },
+    {
+     "title": "Svengali / Trilby / Black Magic / The Magician",
+     "year": "1915–1954",
+     "reason": "hypnosis and/or marriage only; no intimate scene documented (Svengali 1931 'never granted her love')"
+    },
+    {
+     "title": "The Mask of Diijon",
+     "year": "1946",
+     "reason": "no intimacy documented"
+    },
+    {
+     "title": "Stalked by My Doctor: A Sleepwalker's Nightmare",
+     "year": "2019",
+     "reason": "intimacy between Dr. Beck and Katie not confirmed"
+    },
+    {
+     "title": "Hypnotized / Faceless Beauty",
+     "year": "2004",
+     "reason": "no age gap"
+    },
+    {
+     "title": "Body of Influence",
+     "year": "1993",
+     "reason": "no age gap"
+    },
+    {
+     "title": "Hot Under the Collar",
+     "year": "1992",
+     "reason": "hypnotist is a young boyfriend"
+    },
+    {
+     "title": "Friday the 13th: The Series — Mesmer's Bauble",
+     "year": "1989",
+     "reason": "hypnotist not older"
+    },
+    {
+     "title": "El Gato con Gatas",
+     "year": "1992",
+     "reason": "husband hypnotizes; the affair is with someone else"
+    },
+    {
+     "title": "Days of Our Lives (Stefano / Marlena)",
+     "year": "1994",
+     "reason": "Marlena is not a young adult"
+    },
+    {
+     "title": "Smooth Velvet, Raw Silk",
+     "year": "1976",
+     "reason": "the trance intimacy is a vision; ages not stated"
+    },
+    {
+     "title": "Lucifer's Women / Doctor Dracula",
+     "year": "1974",
+     "reason": "the hypnotist (John) is not the sex partner (Stephen); intimacy between hypnotist and victim not confirmed"
+    },
+    {
+     "title": "Freddy's Nightmares 2x13",
+     "year": "1990",
+     "reason": "victims unidentified"
+    },
+    {
+     "title": "The Hypnotist (stag) / Jacquette / The Mindblowers / Interactive",
+     "year": "",
+     "reason": "single weak source; ages unknown"
+    },
+    {
+     "title": "Vampire / Dracula titles, Port Charles (Caleb)",
+     "year": "",
+     "reason": "non-human hypnotist; covered by the Vampire mesmerism category"
+    },
+    {
+     "title": "Imago",
+     "year": "1970",
+     "reason": "insufficient detail"
+    }
+   ],
+   "check": {
+    "raw_count": 15,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -1149,10 +1243,11 @@
   "pregnant-intimacy": 47,
   "occult-pregnancy-nearmiss": 3,
   "rich-wife-hypnosis": 45,
-  "agegap-marriage": 18
+  "agegap-marriage": 18,
+  "older-man-hypnosis": 15
  },
- "raw_total": 3237,
- "entry_count": 1950,
+ "raw_total": 3252,
+ "entry_count": 1951,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -1164,7 +1259,7 @@
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 175
+   "entry_count": 179
   },
   {
    "key": "walkin",
@@ -1194,7 +1289,7 @@
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 8
+   "entry_count": 9
   },
   {
    "key": "fantasy",
@@ -1224,13 +1319,13 @@
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 34
+   "entry_count": 38
   },
   {
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 560
+   "entry_count": 563
   },
   {
    "key": "wife",
@@ -1248,7 +1343,7 @@
    "key": "cheat-control",
    "label": "Hypnotized / controlled into infidelity",
    "legend_label": "Hypnotized / controlled into infidelity",
-   "entry_count": 13
+   "entry_count": 14
   },
   {
    "key": "crime",
@@ -1266,7 +1361,7 @@
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 82
+   "entry_count": 84
   },
   {
    "key": "mom-partner-control",
@@ -1398,13 +1493,13 @@
    "key": "index-52",
    "label": "Rich woman hypnotized — revenge / control / power",
    "legend_label": "Rich woman hypnotized — revenge / control / power",
-   "entry_count": 2
+   "entry_count": 3
   },
   {
    "key": "index-50",
    "label": "Rich woman hypnotized — sex / erotic exploitation",
    "legend_label": "Rich woman hypnotized — sex / erotic exploitation",
-   "entry_count": 10
+   "entry_count": 11
   },
   {
    "key": "index-53",
@@ -1446,7 +1541,7 @@
    "key": "tantrik",
    "label": "Tantrik / black-magic control",
    "legend_label": "Tantrik / black-magic control",
-   "entry_count": 27
+   "entry_count": 28
   },
   {
    "key": "vampire",
@@ -1470,7 +1565,7 @@
    "key": "therapist-wife",
    "label": "Wife hypnotized / controlled by a therapist",
    "legend_label": "Wife hypnotized / controlled by a therapist",
-   "entry_count": 13
+   "entry_count": 14
   },
   {
    "key": "another-man",
@@ -9054,6 +9149,13 @@
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "kids_status": "no",
+   "kids_together": "no",
+   "married": "no",
+   "married_note": "the wedding is interrupted",
+   "pregnant_end": "no",
+   "evidence": "2+ independent sources (Wikipedia, Mental Block, TV Tropes)",
+   "fit_note": "Age gap: von Sydow about 51, Anderson about 25; loose (no sex scene)",
    "format": "movie",
    "categories": [
     "love",
@@ -9077,6 +9179,14 @@
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Flash_Gordon_%28film%29"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Flash_Gordon_(film)"
+    },
+    {
+     "label": "TV Tropes",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnotizeTheCaptive"
     }
    ],
    "youtube_ids": [
@@ -9084,11 +9194,13 @@
    ],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "older-man-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:41",
-    "worldwide-hypnosis:353"
+    "worldwide-hypnosis:353",
+    "older-man-hypnosis:14"
    ],
    "index_only": false,
    "local_only": false,
@@ -9160,6 +9272,51 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "older-man-hypnosis:14",
+     "source": "older-man-hypnosis",
+     "label": "Flash Gordon (1980)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Flash Gordon",
+     "subtitle": "",
+     "year": "1980",
+     "meta": "Film · UK / USA · English",
+     "summary": "Emperor Ming uses his ring to hypnotize Dale Arden into a sensuous dance, has her prepared for his bedchamber and stages a wedding, which is interrupted.",
+     "character": "Character: Dale Arden (Melody Anderson) and Ming the Merciless (Max von Sydow)",
+     "note": "",
+     "mechanism": "Ring hypnosis by an older emperor",
+     "confidence_flag": "Corroborated · no sex scene",
+     "categories": [
+      "love",
+      "scifi",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Flash_Gordon_(film)"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Flash_Gordon_%281980%29"
+      },
+      {
+       "label": "TV Tropes",
+       "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnotizeTheCaptive"
+      }
+     ],
+     "kids_status": "no",
+     "kids_together": "no",
+     "married": "no",
+     "married_note": "the wedding is interrupted",
+     "pregnant_end": "no",
+     "evidence": "2+ independent sources (Wikipedia, Mental Block, TV Tropes)",
+     "fit_note": "Age gap: von Sydow about 51, Anderson about 25; loose (no sex scene)",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -9210,6 +9367,45 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "older-man-hypnosis:14": {
+     "title": "Flash Gordon",
+     "year": "1980",
+     "format": "movie",
+     "meta": "Film · UK / USA · English",
+     "mechanism": "Ring hypnosis by an older emperor",
+     "confidence_flag": "Corroborated · no sex scene",
+     "summary": "Emperor Ming uses his ring to hypnotize Dale Arden into a sensuous dance, has her prepared for his bedchamber and stages a wedding, which is interrupted.",
+     "character": "Character: Dale Arden (Melody Anderson) and Ming the Merciless (Max von Sydow)",
+     "categories": [
+      "love",
+      "scifi",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Flash_Gordon_(film)"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Flash_Gordon_%281980%29"
+      },
+      {
+       "label": "TV Tropes",
+       "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnotizeTheCaptive"
+      }
+     ],
+     "married": "no",
+     "married_note": "the wedding is interrupted",
+     "pregnant_end": "no",
+     "kids_together": "no",
+     "kids_status": "no",
+     "evidence": "2+ independent sources (Wikipedia, Mental Block, TV Tropes)",
+     "fit_note": "Age gap: von Sydow about 51, Anderson about 25; loose (no sex scene)",
+     "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
+     "note": "",
+     "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
     }
    }
   },
@@ -9608,11 +9804,31 @@
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "S01E10 “Death Casts a Spell”",
+     "air_date": "30 Dec 1984",
+     "gist": "Regina claims hypnotist Cagliostro entranced her into their affair; he is murdered in front of entranced journalists",
+     "number_verified": true
+    }
+   ],
+   "kids_status": "unknown",
+   "kids_note": "not mentioned",
+   "kids_together": "no",
+   "married": "no",
+   "married_note": "she is married to Joe throughout",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in any recap",
+   "evidence": "2+ independent sources (IMDb, Wikipedia, PostCredit, Lansdown recap, Mental Block)",
+   "source_conflict": "Episode number: Wikipedia, IMDb and PostCredit give S01E10; Mental Block lists it as Season 1 Episode 11",
+   "fit_note": "Age gap: Ferrer about 72, Phillips about 40; 'young adult' fit is loose",
    "format": "tv",
    "categories": [
     "love",
     "adult-hypnosis",
-    "human"
+    "human",
+    "cheat-control",
+    "index-50"
    ],
    "sources": [
     {
@@ -9638,16 +9854,30 @@
     {
      "label": "TV Tropes: Hypno Fool",
      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoFool"
+    },
+    {
+     "label": "Wikipedia episode list",
+     "url": "https://en.wikipedia.org/wiki/List_of_Murder,_She_Wrote_episodes"
+    },
+    {
+     "label": "PostCredit",
+     "url": "https://postcredit.tv/tv/484/season/1/episode/10"
+    },
+    {
+     "label": "Chris Lansdown recap",
+     "url": "https://blog.chrislansdown.com/2024/09/10/murder-she-wrote-death-casts-a-spell/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "older-man-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:44",
-    "worldwide-hypnosis:618"
+    "worldwide-hypnosis:618",
+    "older-man-hypnosis:7"
    ],
    "index_only": false,
    "local_only": false,
@@ -9727,6 +9957,71 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "older-man-hypnosis:7",
+     "source": "older-man-hypnosis",
+     "label": "Murder, She Wrote · “Death Casts a Spell” · S01E10 (1984)",
+     "identifiers": [
+      "subtitle",
+      "year/date"
+     ],
+     "title": "Murder, She Wrote",
+     "subtitle": "“Death Casts a Spell” · S01E10",
+     "year": "1984",
+     "meta": "TV series · USA · English",
+     "summary": "Wealthy, married Regina Kellijian has an affair with the much older hypnotist Cagliostro and claims he hypnotized her into it; the claim is never settled, and it emerges she arranged his killing.",
+     "character": "Character: Regina Kellijian (Michelle Phillips) and Cagliostro (José Ferrer)",
+     "note": "",
+     "mechanism": "Older stage hypnotist and a wealthy married woman",
+     "confidence_flag": "Corroborated · episode-number conflict",
+     "categories": [
+      "adult-hypnosis",
+      "cheat-control",
+      "index-50"
+     ],
+     "sources": [
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0653494"
+      },
+      {
+       "label": "Wikipedia episode list",
+       "url": "https://en.wikipedia.org/wiki/List_of_Murder,_She_Wrote_episodes"
+      },
+      {
+       "label": "PostCredit",
+       "url": "https://postcredit.tv/tv/484/season/1/episode/10"
+      },
+      {
+       "label": "Chris Lansdown recap",
+       "url": "https://blog.chrislansdown.com/2024/09/10/murder-she-wrote-death-casts-a-spell/"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Murder%2C_She_Wrote"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S01E10 “Death Casts a Spell”",
+       "air_date": "30 Dec 1984",
+       "gist": "Regina claims hypnotist Cagliostro entranced her into their affair; he is murdered in front of entranced journalists",
+       "number_verified": true
+      }
+     ],
+     "kids_status": "unknown",
+     "kids_note": "not mentioned",
+     "kids_together": "no",
+     "married": "no",
+     "married_note": "she is married to Joe throughout",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in any recap",
+     "evidence": "2+ independent sources (IMDb, Wikipedia, PostCredit, Lansdown recap, Mental Block)",
+     "source_conflict": "Episode number: Wikipedia, IMDb and PostCredit give S01E10; Mental Block lists it as Season 1 Episode 11",
+     "fit_note": "Age gap: Ferrer about 72, Phillips about 40; 'young adult' fit is loose",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -9787,6 +10082,67 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "older-man-hypnosis:7": {
+     "title": "Murder, She Wrote",
+     "year": "1984",
+     "match_title": "Murder, She Wrote",
+     "match_year": "1984",
+     "subtitle": "“Death Casts a Spell” · S01E10",
+     "format": "tv",
+     "meta": "TV series · USA · English",
+     "mechanism": "Older stage hypnotist and a wealthy married woman",
+     "confidence_flag": "Corroborated · episode-number conflict",
+     "summary": "Wealthy, married Regina Kellijian has an affair with the much older hypnotist Cagliostro and claims he hypnotized her into it; the claim is never settled, and it emerges she arranged his killing.",
+     "character": "Character: Regina Kellijian (Michelle Phillips) and Cagliostro (José Ferrer)",
+     "categories": [
+      "adult-hypnosis",
+      "cheat-control",
+      "index-50"
+     ],
+     "sources": [
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0653494"
+      },
+      {
+       "label": "Wikipedia episode list",
+       "url": "https://en.wikipedia.org/wiki/List_of_Murder,_She_Wrote_episodes"
+      },
+      {
+       "label": "PostCredit",
+       "url": "https://postcredit.tv/tv/484/season/1/episode/10"
+      },
+      {
+       "label": "Chris Lansdown recap",
+       "url": "https://blog.chrislansdown.com/2024/09/10/murder-she-wrote-death-casts-a-spell/"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Murder%2C_She_Wrote"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S01E10 “Death Casts a Spell”",
+       "air_date": "30 Dec 1984",
+       "gist": "Regina claims hypnotist Cagliostro entranced her into their affair; he is murdered in front of entranced journalists",
+       "number_verified": true
+      }
+     ],
+     "married": "no",
+     "married_note": "she is married to Joe throughout",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in any recap",
+     "kids_together": "no",
+     "kids_status": "unknown",
+     "kids_note": "not mentioned",
+     "evidence": "2+ independent sources (IMDb, Wikipedia, PostCredit, Lansdown recap, Mental Block)",
+     "source_conflict": "Episode number: Wikipedia, IMDb and PostCredit give S01E10; Mental Block lists it as Season 1 Episode 11",
+     "fit_note": "Age gap: Ferrer about 72, Phillips about 40; 'young adult' fit is loose",
+     "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
+     "note": "",
+     "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
     }
    }
   },
@@ -27580,6 +27936,14 @@
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "Jenn had a late-term stillbirth before the story begins; Dr. Meade's hypnotherapy exploits that trauma (pregnancy-adjacent).",
+   "kids_status": "no",
+   "kids_note": "she had a stillbirth before the story; no living children",
+   "kids_together": "no",
+   "married": "no",
+   "married_note": "he proposes; she kills him",
+   "pregnant_end": "no",
+   "evidence": "2+ independent sources (Wikipedia, Screen Rant, Den of Geek)",
+   "fit_note": "Loose: only Screen Rant mentions a dream of him lying with her; no consummated scene documented",
    "format": "movie",
    "categories": [
     "pregnancy-adjacent",
@@ -27606,6 +27970,10 @@
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Hypnotic_%282021_film%29"
+    },
+    {
+     "label": "Screen Rant",
+     "url": "https://screenrant.com/hypnotic-netflix-movie-ending-explained/"
     }
    ],
    "youtube_ids": [],
@@ -27613,7 +27981,8 @@
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "worldwide-hypnosis",
-    "hypnotized-love"
+    "hypnotized-love",
+    "older-man-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:156",
@@ -27624,7 +27993,8 @@
     "ig6qlxqxoxvcxla:300",
     "ig6qlxqxoxvcxla:897",
     "worldwide-hypnosis:456",
-    "hypnotized-love:7"
+    "hypnotized-love:7",
+    "older-man-hypnosis:13"
    ],
    "index_only": false,
    "local_only": false,
@@ -27890,6 +28260,52 @@
      "pregnancy_note": "Not pregnant during the story; Jenn's earlier pregnancy ended in a stillbirth.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "older-man-hypnosis:13",
+     "source": "older-man-hypnosis",
+     "label": "Hypnotic (2021)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Hypnotic",
+     "subtitle": "",
+     "year": "2021",
+     "meta": "Film · USA (Netflix) · English",
+     "summary": "Hypnotherapist Dr. Collin Meade (real name Julian Sullivan) hypnotizes young patient Jenn, plants memories so she will replace his late wife, leaves her paralysed under hypnosis and proposes to her; she breaks free and kills him.",
+     "character": "Character: Jenn (Kate Siegel) and Dr. Collin Meade (Jason O'Mara)",
+     "note": "",
+     "mechanism": "Older hypnotherapist plants memories",
+     "confidence_flag": "Corroborated · intimacy limited",
+     "categories": [
+      "medical",
+      "love",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Hypnotic_(2021_film)"
+      },
+      {
+       "label": "Screen Rant",
+       "url": "https://screenrant.com/hypnotic-netflix-movie-ending-explained/"
+      },
+      {
+       "label": "Den of Geek",
+       "url": "https://www.denofgeek.com/movies/hypnotic-ending-explained/"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "she had a stillbirth before the story; no living children",
+     "kids_together": "no",
+     "married": "no",
+     "married_note": "he proposes; she kills him",
+     "pregnant_end": "no",
+     "evidence": "2+ independent sources (Wikipedia, Screen Rant, Den of Geek)",
+     "fit_note": "Loose: only Screen Rant mentions a dream of him lying with her; no consummated scene documented",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -28066,6 +28482,46 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "Not pregnant during the story; Jenn's earlier pregnancy ended in a stillbirth.",
      "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
+    },
+    "older-man-hypnosis:13": {
+     "title": "Hypnotic",
+     "year": "2021",
+     "format": "movie",
+     "meta": "Film · USA (Netflix) · English",
+     "mechanism": "Older hypnotherapist plants memories",
+     "confidence_flag": "Corroborated · intimacy limited",
+     "summary": "Hypnotherapist Dr. Collin Meade (real name Julian Sullivan) hypnotizes young patient Jenn, plants memories so she will replace his late wife, leaves her paralysed under hypnosis and proposes to her; she breaks free and kills him.",
+     "character": "Character: Jenn (Kate Siegel) and Dr. Collin Meade (Jason O'Mara)",
+     "categories": [
+      "medical",
+      "love",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Hypnotic_(2021_film)"
+      },
+      {
+       "label": "Screen Rant",
+       "url": "https://screenrant.com/hypnotic-netflix-movie-ending-explained/"
+      },
+      {
+       "label": "Den of Geek",
+       "url": "https://www.denofgeek.com/movies/hypnotic-ending-explained/"
+      }
+     ],
+     "married": "no",
+     "married_note": "he proposes; she kills him",
+     "pregnant_end": "no",
+     "kids_together": "no",
+     "kids_status": "no",
+     "kids_note": "she had a stillbirth before the story; no living children",
+     "evidence": "2+ independent sources (Wikipedia, Screen Rant, Den of Geek)",
+     "fit_note": "Loose: only Screen Rant mentions a dream of him lying with her; no consummated scene documented",
+     "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
+     "note": "",
+     "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
     }
    }
   },
@@ -96962,27 +97418,48 @@
    "confidence_flag": "High confidence",
    "summary": "Robert Nord’s hypnotic sound frequency compels neighbors Linn and Simon to obey. He orders Linn to have sex with him and forces the couple into roles as his substitute family.",
    "character": "",
-   "provenance": "",
+   "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
    "note": "",
+   "kids_status": "unknown",
+   "kids_note": "none mentioned for Linn",
+   "kids_together": "no",
+   "married": "no",
+   "married_note": "Linn stays Simon's partner",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in any review or plot summary",
+   "evidence": "2+ independent sources (Wikipedia, The Wee Review, Hollywood Reporter)",
+   "fit_note": "Age gap implied (middle-aged widower vs young couple); exact ages not stated",
    "format": "movie",
    "categories": [
-    "forced-obedience"
+    "forced-obedience",
+    "adult-hypnosis",
+    "tech"
    ],
    "sources": [
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/LFO_(film)"
+    },
+    {
+     "label": "The Wee Review",
+     "url": "https://theweereview.com/review/lfo/"
+    },
+    {
+     "label": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/movies/movie-news/lfo-turin-review-661723/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "older-man-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:638",
     "ig6qlxqxoxvcxla:47",
-    "ig6qlxqxoxvcxla:221"
+    "ig6qlxqxoxvcxla:221",
+    "older-man-hypnosis:3"
    ],
    "index_only": false,
    "local_only": false,
@@ -97067,6 +97544,53 @@
      "distinct_story": false,
      "index_title": "LFO (2013)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "older-man-hypnosis:3",
+     "source": "older-man-hypnosis",
+     "label": "LFO (2013)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "LFO",
+     "subtitle": "",
+     "year": "2013",
+     "meta": "Film · Sweden · Swedish",
+     "summary": "Widowed inventor Robert Nord uses a hypnotic sound frequency on his young neighbours Linn and Simon, becomes their 'marriage counsellor', and orders Linn to have sex with him; a later encounter takes place with Simon compelled to watch.",
+     "character": "Character: Linn and Robert Nord (Patrik Karlson)",
+     "note": "",
+     "mechanism": "Hypnotic sound frequency used by an older neighbour",
+     "confidence_flag": "Corroborated · 3 sources",
+     "categories": [
+      "adult-hypnosis",
+      "forced-obedience",
+      "tech"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/LFO_(film)"
+      },
+      {
+       "label": "The Wee Review",
+       "url": "https://theweereview.com/review/lfo/"
+      },
+      {
+       "label": "The Hollywood Reporter",
+       "url": "https://www.hollywoodreporter.com/movies/movie-news/lfo-turin-review-661723/"
+      }
+     ],
+     "kids_status": "unknown",
+     "kids_note": "none mentioned for Linn",
+     "kids_together": "no",
+     "married": "no",
+     "married_note": "Linn stays Simon's partner",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in any review or plot summary",
+     "evidence": "2+ independent sources (Wikipedia, The Wee Review, Hollywood Reporter)",
+     "fit_note": "Age gap implied (middle-aged widower vs young couple); exact ages not stated",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -97116,6 +97640,47 @@
      "group": "Husband / lover / partner / domestic",
      "confidence": "Stronger case",
      "note": ""
+    },
+    "older-man-hypnosis:3": {
+     "title": "LFO",
+     "year": "2013",
+     "format": "movie",
+     "meta": "Film · Sweden · Swedish",
+     "mechanism": "Hypnotic sound frequency used by an older neighbour",
+     "confidence_flag": "Corroborated · 3 sources",
+     "summary": "Widowed inventor Robert Nord uses a hypnotic sound frequency on his young neighbours Linn and Simon, becomes their 'marriage counsellor', and orders Linn to have sex with him; a later encounter takes place with Simon compelled to watch.",
+     "character": "Character: Linn and Robert Nord (Patrik Karlson)",
+     "categories": [
+      "adult-hypnosis",
+      "forced-obedience",
+      "tech"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/LFO_(film)"
+      },
+      {
+       "label": "The Wee Review",
+       "url": "https://theweereview.com/review/lfo/"
+      },
+      {
+       "label": "The Hollywood Reporter",
+       "url": "https://www.hollywoodreporter.com/movies/movie-news/lfo-turin-review-661723/"
+      }
+     ],
+     "married": "no",
+     "married_note": "Linn stays Simon's partner",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in any review or plot summary",
+     "kids_together": "no",
+     "kids_status": "unknown",
+     "kids_note": "none mentioned for Linn",
+     "evidence": "2+ independent sources (Wikipedia, The Wee Review, Hollywood Reporter)",
+     "fit_note": "Age gap implied (middle-aged widower vs young couple); exact ages not stated",
+     "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
+     "note": "",
+     "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
     }
    },
    "watch_links": [
@@ -98627,12 +99192,22 @@
    "confidence_flag": "High confidence · sexual assault",
    "summary": "Psychiatrist Anwar uses magnetic hypnosis to control Zeinab and other women he desires. Zeinab is assaulted while controlled, and other victims later testify against him. Adult-angle note: Psychiatrist Dr. Anwar uses hypnosis to control and sexually assault his female patients, including the engaged Zainab; other victims later testify at trial.",
    "character": "Zainab",
-   "provenance": "",
+   "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
    "note": "",
+   "kids_status": "no",
+   "kids_note": "young engaged woman with no children mentioned",
+   "kids_together": "no",
+   "married": "no",
+   "married_note": "she marries Galal, not the hypnotist",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not mentioned in the sources",
+   "evidence": "2+ independent sources (Arabic Wikipedia, elCinema, dhliz)",
+   "fit_note": "Age gap: Sarhan born 1914, Tharwat born 1940 (about 26 years)",
    "format": "movie",
    "categories": [
     "forced-obedience",
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "medical"
    ],
    "sources": [
     {
@@ -98655,11 +99230,13 @@
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "older-man-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:645",
-    "ig6qlxqxoxvcxla:231"
+    "ig6qlxqxoxvcxla:231",
+    "older-man-hypnosis:5"
    ],
    "index_only": false,
    "local_only": false,
@@ -98730,6 +99307,53 @@
      "distinct_story": false,
      "index_title": "Nisf Azraa / Half Virgin (1961)",
      "matched_by": "alias"
+    },
+    {
+     "rid": "older-man-hypnosis:5",
+     "source": "older-man-hypnosis",
+     "label": "Nisf Azraa / نصف عذراء (1961)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Nisf Azraa / نصف عذراء",
+     "subtitle": "",
+     "year": "1961",
+     "meta": "Film · Egypt · Arabic",
+     "summary": "Older psychiatrist Anwar uses hypnosis to control women he desires. The young, engaged Zainab loses her virginity while under his control; at the trial other victims testify against him, and Galal marries Zainab.",
+     "character": "Character: Zainab (Zubaida Tharwat) and Dr. Anwar (Mohsen Sarhan)",
+     "note": "",
+     "mechanism": "Psychiatrist uses hypnosis on young women",
+     "confidence_flag": "Corroborated · 3 sources",
+     "categories": [
+      "adult-hypnosis",
+      "medical",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "Arabic Wikipedia",
+       "url": "https://ar.wikipedia.org/wiki/%D9%86%D8%B5%D9%81_%D8%B9%D8%B0%D8%B1%D8%A7%D8%A1_(%D9%81%D9%84%D9%85)"
+      },
+      {
+       "label": "elCinema",
+       "url": "https://elcinema.com/work/1005633/content"
+      },
+      {
+       "label": "dhliz",
+       "url": "https://dhliz.com/film/nesf_3athra2/"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "young engaged woman with no children mentioned",
+     "kids_together": "no",
+     "married": "no",
+     "married_note": "she marries Galal, not the hypnotist",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "not mentioned in the sources",
+     "evidence": "2+ independent sources (Arabic Wikipedia, elCinema, dhliz)",
+     "fit_note": "Age gap: Sarhan born 1914, Tharwat born 1940 (about 26 years)",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -98774,6 +99398,47 @@
      "group": "Doctor / psychiatrist",
      "confidence": "Stronger case",
      "note": ""
+    },
+    "older-man-hypnosis:5": {
+     "title": "Nisf Azraa / نصف عذراء",
+     "year": "1961",
+     "format": "movie",
+     "meta": "Film · Egypt · Arabic",
+     "mechanism": "Psychiatrist uses hypnosis on young women",
+     "confidence_flag": "Corroborated · 3 sources",
+     "summary": "Older psychiatrist Anwar uses hypnosis to control women he desires. The young, engaged Zainab loses her virginity while under his control; at the trial other victims testify against him, and Galal marries Zainab.",
+     "character": "Character: Zainab (Zubaida Tharwat) and Dr. Anwar (Mohsen Sarhan)",
+     "categories": [
+      "adult-hypnosis",
+      "medical",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "Arabic Wikipedia",
+       "url": "https://ar.wikipedia.org/wiki/%D9%86%D8%B5%D9%81_%D8%B9%D8%B0%D8%B1%D8%A7%D8%A1_(%D9%81%D9%84%D9%85)"
+      },
+      {
+       "label": "elCinema",
+       "url": "https://elcinema.com/work/1005633/content"
+      },
+      {
+       "label": "dhliz",
+       "url": "https://dhliz.com/film/nesf_3athra2/"
+      }
+     ],
+     "married": "no",
+     "married_note": "she marries Galal, not the hypnotist",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "not mentioned in the sources",
+     "kids_together": "no",
+     "kids_status": "no",
+     "kids_note": "young engaged woman with no children mentioned",
+     "evidence": "2+ independent sources (Arabic Wikipedia, elCinema, dhliz)",
+     "fit_note": "Age gap: Sarhan born 1914, Tharwat born 1940 (about 26 years)",
+     "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
+     "note": "",
+     "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
     }
    }
   },
@@ -101084,6 +101749,13 @@
    ],
    "method": "hypnosis",
    "kids_status": "unknown",
+   "kids_together": "unknown",
+   "married": "no",
+   "married_note": "he does not marry the employees; he is already married to Daisy",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not covered by the sources",
+   "evidence": "2+ independent sources (Mental Block, TMDB, IMDb)",
+   "fit_note": "Rich-man fit is clear; the age gap is not stated in any source (loose 'older man' fit)",
    "format": "movie",
    "categories": [
     "adult-hypnosis",
@@ -101100,18 +101772,24 @@
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/To_Seduce_An_Enemy"
+    },
+    {
+     "label": "TMDB",
+     "url": "https://www.themoviedb.org/movie/220579"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "older-man-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:662",
     "worldwide-hypnosis:1006",
-    "rich-wife-hypnosis:14"
+    "rich-wife-hypnosis:14",
+    "older-man-hypnosis:4"
    ],
    "index_only": false,
    "local_only": false,
@@ -101219,6 +101897,51 @@
      "kids_status": "unknown",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "older-man-hypnosis:4",
+     "source": "older-man-hypnosis",
+     "label": "To Seduce an Enemy (2003)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "To Seduce an Enemy",
+     "subtitle": "",
+     "year": "2003",
+     "meta": "Film · Hong Kong · Cantonese (偷窺無罪之誘人犯罪) · Category III",
+     "summary": "Businessman Joe Siu hypnotizes and seduces young female employees, including Ting; scenes of another employee as a sex slave are later revealed as implanted illusions. He also hypnotizes his wife Daisy into murder and suicide.",
+     "character": "Character: Ting and other young employees; Joe Siu",
+     "note": "",
+     "mechanism": "Wealthy businessman-hypnotist",
+     "confidence_flag": "Corroborated · 3 sources",
+     "categories": [
+      "adult-hypnosis",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/To_Seduce_An_Enemy"
+      },
+      {
+       "label": "TMDB",
+       "url": "https://www.themoviedb.org/movie/220579"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0378884"
+      }
+     ],
+     "kids_status": "unknown",
+     "kids_together": "unknown",
+     "married": "no",
+     "married_note": "he does not marry the employees; he is already married to Daisy",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "not covered by the sources",
+     "evidence": "2+ independent sources (Mental Block, TMDB, IMDb)",
+     "fit_note": "Rich-man fit is clear; the age gap is not stated in any source (loose 'older man' fit)",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -101300,6 +102023,45 @@
      "pregnancy_outcome": "unknown",
      "pregnancy_note": "cited sources do not mention a pregnancy",
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "older-man-hypnosis:4": {
+     "title": "To Seduce an Enemy",
+     "year": "2003",
+     "format": "movie",
+     "meta": "Film · Hong Kong · Cantonese (偷窺無罪之誘人犯罪) · Category III",
+     "mechanism": "Wealthy businessman-hypnotist",
+     "confidence_flag": "Corroborated · 3 sources",
+     "summary": "Businessman Joe Siu hypnotizes and seduces young female employees, including Ting; scenes of another employee as a sex slave are later revealed as implanted illusions. He also hypnotizes his wife Daisy into murder and suicide.",
+     "character": "Character: Ting and other young employees; Joe Siu",
+     "categories": [
+      "adult-hypnosis",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/To_Seduce_An_Enemy"
+      },
+      {
+       "label": "TMDB",
+       "url": "https://www.themoviedb.org/movie/220579"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0378884"
+      }
+     ],
+     "married": "no",
+     "married_note": "he does not marry the employees; he is already married to Daisy",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "not covered by the sources",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "evidence": "2+ independent sources (Mental Block, TMDB, IMDb)",
+     "fit_note": "Rich-man fit is clear; the age gap is not stated in any source (loose 'older man' fit)",
+     "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
+     "note": "",
+     "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
     }
    }
   },
@@ -102908,12 +103670,24 @@
    "confidence_flag": "High confidence",
    "summary": "Rasputin (Christopher Lee) places lady-in-waiting Sonia in hypnotic trances (commands her to injure the heir, later to kill herself) and hypnotizes the Tsarina.",
    "character": "",
-   "provenance": "",
+   "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
    "note": "",
+   "kids_status": "unknown",
+   "kids_note": "not mentioned in any source",
+   "kids_together": "no",
+   "married": "no",
+   "married_note": "no marriage; she dies after his command",
+   "pregnant_end": "no",
+   "pregnant_end_note": "she dies; no pregnancy in any plot summary",
+   "evidence": "2+ independent sources (Wikipedia, Mental Block, Moria review)",
+   "source_conflict": "Year: Mental Block and a second catalog copy list it as 1965 (shot/copyright); Wikipedia and Moria give the 1966 release year",
+   "fit_note": "Age gap: Lee was about 43, Shelley about 33 at filming; older-man fit is moderate",
    "format": "movie",
    "categories": [
     "adult-hypnosis",
-    "index-52"
+    "index-52",
+    "human",
+    "forced-obedience"
    ],
    "sources": [
     {
@@ -102923,16 +103697,26 @@
     {
      "label": "Hammer House of Horror Wiki",
      "url": "https://hammerhouseofhorror.fandom.com/wiki/Rasputin:_The_Mad_Monk_(1966)"
+    },
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Rasputin:_The_Mad_Monk_(1965)"
+    },
+    {
+     "label": "Moria review",
+     "url": "https://moriareviews.com/horror/rasputin-the-mad-monk-1966.htm"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "older-man-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:679",
-    "ig6qlxqxoxvcxla:151"
+    "ig6qlxqxoxvcxla:151",
+    "older-man-hypnosis:1"
    ],
    "index_only": false,
    "local_only": false,
@@ -102997,6 +103781,54 @@
      "distinct_story": true,
      "index_title": "Rasputin the Mad Monk",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "older-man-hypnosis:1",
+     "source": "older-man-hypnosis",
+     "label": "Rasputin the Mad Monk (1966)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Rasputin the Mad Monk",
+     "subtitle": "",
+     "year": "1966",
+     "meta": "Film · UK (Hammer) · English",
+     "summary": "Rasputin (Christopher Lee) seduces lady-in-waiting Sonia (Barbara Shelley), keeps her in hypnotic trances for his own sexual use and to reach the court, then commands her to destroy herself; she dies.",
+     "character": "Character: Sonia (Barbara Shelley) and Grigori Rasputin (Christopher Lee)",
+     "note": "",
+     "mechanism": "Hypnotic trance by an older man (Rasputin)",
+     "confidence_flag": "Corroborated · 3 sources",
+     "categories": [
+      "adult-hypnosis",
+      "human",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Rasputin_the_Mad_Monk"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Rasputin:_The_Mad_Monk_(1965)"
+      },
+      {
+       "label": "Moria review",
+       "url": "https://moriareviews.com/horror/rasputin-the-mad-monk-1966.htm"
+      }
+     ],
+     "kids_status": "unknown",
+     "kids_note": "not mentioned in any source",
+     "kids_together": "no",
+     "married": "no",
+     "married_note": "no marriage; she dies after his command",
+     "pregnant_end": "no",
+     "pregnant_end_note": "she dies; no pregnancy in any plot summary",
+     "evidence": "2+ independent sources (Wikipedia, Mental Block, Moria review)",
+     "source_conflict": "Year: Mental Block and a second catalog copy list it as 1965 (shot/copyright); Wikipedia and Moria give the 1966 release year",
+     "fit_note": "Age gap: Lee was about 43, Shelley about 33 at filming; older-man fit is moderate",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -103046,6 +103878,50 @@
        }
       ]
      }
+    },
+    "older-man-hypnosis:1": {
+     "title": "Rasputin the Mad Monk",
+     "year": "1966",
+     "match_title": "Rasputin the Mad Monk",
+     "match_year": "1966",
+     "format": "movie",
+     "meta": "Film · UK (Hammer) · English",
+     "mechanism": "Hypnotic trance by an older man (Rasputin)",
+     "confidence_flag": "Corroborated · 3 sources",
+     "summary": "Rasputin (Christopher Lee) seduces lady-in-waiting Sonia (Barbara Shelley), keeps her in hypnotic trances for his own sexual use and to reach the court, then commands her to destroy herself; she dies.",
+     "character": "Character: Sonia (Barbara Shelley) and Grigori Rasputin (Christopher Lee)",
+     "categories": [
+      "adult-hypnosis",
+      "human",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Rasputin_the_Mad_Monk"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Rasputin:_The_Mad_Monk_(1965)"
+      },
+      {
+       "label": "Moria review",
+       "url": "https://moriareviews.com/horror/rasputin-the-mad-monk-1966.htm"
+      }
+     ],
+     "married": "no",
+     "married_note": "no marriage; she dies after his command",
+     "pregnant_end": "no",
+     "pregnant_end_note": "she dies; no pregnancy in any plot summary",
+     "kids_together": "no",
+     "kids_status": "unknown",
+     "kids_note": "not mentioned in any source",
+     "evidence": "2+ independent sources (Wikipedia, Mental Block, Moria review)",
+     "source_conflict": "Year: Mental Block and a second catalog copy list it as 1965 (shot/copyright); Wikipedia and Moria give the 1966 release year",
+     "fit_note": "Age gap: Lee was about 43, Shelley about 33 at filming; older-man fit is moderate",
+     "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
+     "note": "",
+     "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
     }
    },
    "watch_links": [
@@ -104170,30 +105046,121 @@
    "confidence_flag": "High confidence",
    "summary": "stage/TV hypnotist Jissoji picks attractive young women from his audience, humiliates/assaults them under mesmeric influence; holds Yuka Irie under control; mass suicides via post-hypnotic \"green monkey\" suggestion.",
    "character": "",
-   "provenance": "",
+   "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
    "note": "",
+   "kids_status": "unknown",
+   "kids_together": "no",
+   "married": "no",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not covered",
+   "evidence": "Single source — only the Mandiapple review describes the assaults; Wikipedia and Asian Movie Pulse confirm only the 'corrupt hypnotist' character",
+   "fit_note": "Ages of the women and the hypnotist are not stated",
    "format": "movie",
    "categories": [
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "forced-obedience",
+    "human"
    ],
    "sources": [
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Saimin_(film)"
+    },
+    {
+     "label": "Mandiapple review",
+     "url": "https://www.mandiapple.com/snowblood/hypnosis.htm"
+    },
+    {
+     "label": "Asian Movie Pulse review",
+     "url": "https://asianmoviepulse.com/2023/04/film-review-the-hypnotist-1999-by-masayuki-ochiai/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "older-man-hypnosis"
    ],
    "source_records": [
-    "xla62ucxbx02u5:688"
+    "xla62ucxbx02u5:688",
+    "older-man-hypnosis:9"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:688",
+    "source": "xla62ucxbx02u5",
+    "label": "Saimin / Hypnosis / The Hypnotist (1999)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Saimin / Hypnosis / The Hypnotist",
+    "subtitle": "",
+    "year": "1999",
+    "meta": "film · 1999, Japan",
+    "summary": "stage/TV hypnotist Jissoji picks attractive young women from his audience, humiliates/assaults them under mesmeric influence; holds Yuka Irie under control; mass suicides via post-hypnotic \"green monkey\" suggestion.",
+    "character": "",
+    "note": "",
+    "mechanism": "Criminal mastermind or villain hypnotist",
+    "confidence_flag": "High confidence",
+    "categories": [
+     "adult-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Saimin_(film)"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "older-man-hypnosis:9",
+     "source": "older-man-hypnosis",
+     "label": "Saimin / Hypnosis / The Hypnotist (1999)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Saimin / Hypnosis / The Hypnotist",
+     "subtitle": "",
+     "year": "1999",
+     "meta": "Film · Japan · Japanese",
+     "summary": "Corrupt TV hypnotist Jissoji picks attractive young women from his audience and assaults them in his hotel room while they remain under his influence.",
+     "character": "Character: young women from the audience and Jissoji (Takeshi Masu)",
+     "note": "",
+     "mechanism": "TV stage hypnotist",
+     "confidence_flag": "Single source for the assault detail",
+     "categories": [
+      "adult-hypnosis",
+      "forced-obedience",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Mandiapple review",
+       "url": "https://www.mandiapple.com/snowblood/hypnosis.htm"
+      },
+      {
+       "label": "Wikipedia (cast)",
+       "url": "https://en.wikipedia.org/wiki/Saimin_(film)"
+      },
+      {
+       "label": "Asian Movie Pulse review",
+       "url": "https://asianmoviepulse.com/2023/04/film-review-the-hypnotist-1999-by-masayuki-ochiai/"
+      }
+     ],
+     "kids_status": "unknown",
+     "kids_together": "no",
+     "married": "no",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "not covered",
+     "evidence": "Single source — only the Mandiapple review describes the assaults; Wikipedia and Asian Movie Pulse confirm only the 'corrupt hypnotist' character",
+     "fit_note": "Ages of the women and the hypnotist are not stated",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:688": {
      "t": "Saimin / Hypnosis / The Hypnotist",
@@ -104213,6 +105180,47 @@
        "https://en.wikipedia.org/wiki/Saimin_(film)"
       ]
      ]
+    },
+    "older-man-hypnosis:9": {
+     "title": "Saimin / Hypnosis / The Hypnotist",
+     "year": "1999",
+     "match_title": "Saimin / Hypnosis / The Hypnotist",
+     "match_year": "1999",
+     "format": "movie",
+     "meta": "Film · Japan · Japanese",
+     "mechanism": "TV stage hypnotist",
+     "confidence_flag": "Single source for the assault detail",
+     "summary": "Corrupt TV hypnotist Jissoji picks attractive young women from his audience and assaults them in his hotel room while they remain under his influence.",
+     "character": "Character: young women from the audience and Jissoji (Takeshi Masu)",
+     "categories": [
+      "adult-hypnosis",
+      "forced-obedience",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Mandiapple review",
+       "url": "https://www.mandiapple.com/snowblood/hypnosis.htm"
+      },
+      {
+       "label": "Wikipedia (cast)",
+       "url": "https://en.wikipedia.org/wiki/Saimin_(film)"
+      },
+      {
+       "label": "Asian Movie Pulse review",
+       "url": "https://asianmoviepulse.com/2023/04/film-review-the-hypnotist-1999-by-masayuki-ochiai/"
+      }
+     ],
+     "married": "no",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "not covered",
+     "kids_together": "no",
+     "kids_status": "unknown",
+     "evidence": "Single source — only the Mandiapple review describes the assaults; Wikipedia and Asian Movie Pulse confirm only the 'corrupt hypnotist' character",
+     "fit_note": "Ages of the women and the hypnotist are not stated",
+     "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
+     "note": "",
+     "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
     }
    }
   },
@@ -106863,30 +107871,123 @@
    "confidence_flag": "Medium-high confidence",
    "summary": "Franz Mesmer applies \"animal magnetism\" treatments to young women, most centrally blind pianist Maria Theresa Paradies, with whom he develops an intimate bond; in-scope per the mesmerism clause.",
    "character": "",
-   "provenance": "",
+   "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
    "note": "",
+   "kids_status": "no",
+   "kids_note": "young unmarried patient",
+   "kids_together": "no",
+   "married": "no",
+   "married_note": "he is already married",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in any source",
+   "evidence": "2+ independent sources (Wikipedia, Variety, IMDb)",
+   "fit_note": "Loose: sources describe an eroticised bond but no explicit sex scene",
    "format": "movie",
    "categories": [
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "medical"
    ],
    "sources": [
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Mesmer_(film)"
+    },
+    {
+     "label": "Variety review",
+     "url": "https://variety.com/1994/film/reviews/mesmer-2-1200438645/"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0110496/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "older-man-hypnosis"
    ],
    "source_records": [
-    "xla62ucxbx02u5:719"
+    "xla62ucxbx02u5:719",
+    "older-man-hypnosis:8"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:719",
+    "source": "xla62ucxbx02u5",
+    "label": "Mesmer (1994)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Mesmer",
+    "subtitle": "",
+    "year": "1994",
+    "meta": "film · 1994, Austria/Germany/UK/Canada",
+    "summary": "Franz Mesmer applies \"animal magnetism\" treatments to young women, most centrally blind pianist Maria Theresa Paradies, with whom he develops an intimate bond; in-scope per the mesmerism clause.",
+    "character": "",
+    "note": "",
+    "mechanism": "Comedy, light stories and historical demonstrations",
+    "confidence_flag": "Medium-high confidence",
+    "categories": [
+     "adult-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mesmer_(film)"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "older-man-hypnosis:8",
+     "source": "older-man-hypnosis",
+     "label": "Mesmer (1994)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Mesmer",
+     "subtitle": "",
+     "year": "1994",
+     "meta": "Film · Austria / Canada / UK / Germany · English",
+     "summary": "Middle-aged, unhappily married Franz Mesmer treats blind young pianist Maria Theresa Paradies, daughter of a wealthy family, with laying-on-of-hands mesmerism; the sessions develop into an eroticised, questionable doctor–patient relationship.",
+     "character": "Character: Maria Theresa Paradies (Amanda Ooms) and Franz Mesmer (Alan Rickman)",
+     "note": "",
+     "mechanism": "Mesmerism / animal magnetism by an older physician",
+     "confidence_flag": "Corroborated · intimacy is emotional/erotic, no sex scene documented",
+     "categories": [
+      "medical",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Mesmer_(film)"
+      },
+      {
+       "label": "Variety review",
+       "url": "https://variety.com/1994/film/reviews/mesmer-2-1200438645/"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0110496/"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "young unmarried patient",
+     "kids_together": "no",
+     "married": "no",
+     "married_note": "he is already married",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in any source",
+     "evidence": "2+ independent sources (Wikipedia, Variety, IMDb)",
+     "fit_note": "Loose: sources describe an eroticised bond but no explicit sex scene",
+     "distinct_story": true,
+     "matched_by": "title+year"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:719": {
      "t": "Mesmer",
@@ -106906,6 +108007,46 @@
        "https://en.wikipedia.org/wiki/Mesmer_(film)"
       ]
      ]
+    },
+    "older-man-hypnosis:8": {
+     "title": "Mesmer",
+     "year": "1994",
+     "format": "movie",
+     "meta": "Film · Austria / Canada / UK / Germany · English",
+     "mechanism": "Mesmerism / animal magnetism by an older physician",
+     "confidence_flag": "Corroborated · intimacy is emotional/erotic, no sex scene documented",
+     "summary": "Middle-aged, unhappily married Franz Mesmer treats blind young pianist Maria Theresa Paradies, daughter of a wealthy family, with laying-on-of-hands mesmerism; the sessions develop into an eroticised, questionable doctor–patient relationship.",
+     "character": "Character: Maria Theresa Paradies (Amanda Ooms) and Franz Mesmer (Alan Rickman)",
+     "categories": [
+      "medical",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Mesmer_(film)"
+      },
+      {
+       "label": "Variety review",
+       "url": "https://variety.com/1994/film/reviews/mesmer-2-1200438645/"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0110496/"
+      }
+     ],
+     "married": "no",
+     "married_note": "he is already married",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in any source",
+     "kids_together": "no",
+     "kids_status": "no",
+     "kids_note": "young unmarried patient",
+     "evidence": "2+ independent sources (Wikipedia, Variety, IMDb)",
+     "fit_note": "Loose: sources describe an eroticised bond but no explicit sex scene",
+     "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
+     "note": "",
+     "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
     }
    }
   },
@@ -109376,10 +110517,20 @@
    "character": "The doctor's adult wife",
    "provenance": "Pregnancy overlap verified in the East Asia two-source sweep; control mechanism independently corroborated by the linked release booklet.",
    "note": "",
+   "kids_status": "unknown",
+   "kids_together": "unknown",
+   "married": "no",
+   "married_note": "she is another man's wife",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "an existing catalog copy says she becomes pregnant under his control; the reviews fetched here do not confirm the pregnancy or its outcome",
+   "evidence": "2+ independent sources (Mental Block, Asian Movie Pulse, easternKicks)",
+   "source_conflict": "Husband: Mental Block calls her Chi Chung's wife; easternKicks says she is Zhen Sheng's wife",
+   "fit_note": "Asian Movie Pulse says he loses five years per spell and stays young on rituals (older in years); actor ages not given",
    "format": "movie",
    "categories": [
     "adult-hypnosis",
-    "pregnant"
+    "pregnant",
+    "tantrik"
    ],
    "sources": [
     {
@@ -109389,16 +110540,30 @@
     {
      "label": "Macabre Daily",
      "url": "https://www.macabredaily.com/articles/keep-warm-this-winter-with-arrow-players-hot-lineup-of-titles-to-stream"
+    },
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Black_Magic_2_(1976_Hong_Kong_film)"
+    },
+    {
+     "label": "Asian Movie Pulse review",
+     "url": "https://asianmoviepulse.com/2021/06/film-review-black-magic-2-1976-by-ho-meng-hua/"
+    },
+    {
+     "label": "easternKicks review",
+     "url": "https://www.easternkicks.com/reviews/black-magic-2/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "older-man-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:748",
-    "ig6qlxqxoxvcxla:805"
+    "ig6qlxqxoxvcxla:805",
+    "older-man-hypnosis:15"
    ],
    "index_only": false,
    "local_only": false,
@@ -109460,6 +110625,52 @@
      "distinct_story": false,
      "index_title": "Black Magic Part 2 (1976)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "older-man-hypnosis:15",
+     "source": "older-man-hypnosis",
+     "label": "Black Magic Part 2 (1976)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Black Magic Part 2",
+     "subtitle": "",
+     "year": "1976",
+     "meta": "Film · Hong Kong (Shaw Brothers) · Mandarin (勾魂降頭)",
+     "summary": "Sorcerer Kang Kong, who extends his life with rituals, places a young doctor's wife under a hypnotic spell; in a trance she goes to him, is made his sexual thrall and is later turned into a zombie.",
+     "character": "Character: Margarete (Lily Li) and Kang Kong (Lo Lieh)",
+     "note": "",
+     "mechanism": "Gong Tau sorcery; life-extending sorcerer",
+     "confidence_flag": "Corroborated · pregnancy-end conflict",
+     "categories": [
+      "tantrik",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Black_Magic_2_(1976_Hong_Kong_film)"
+      },
+      {
+       "label": "Asian Movie Pulse review",
+       "url": "https://asianmoviepulse.com/2021/06/film-review-black-magic-2-1976-by-ho-meng-hua/"
+      },
+      {
+       "label": "easternKicks review",
+       "url": "https://www.easternkicks.com/reviews/black-magic-2/"
+      }
+     ],
+     "kids_status": "unknown",
+     "kids_together": "unknown",
+     "married": "no",
+     "married_note": "she is another man's wife",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "an existing catalog copy says she becomes pregnant under his control; the reviews fetched here do not confirm the pregnancy or its outcome",
+     "evidence": "2+ independent sources (Mental Block, Asian Movie Pulse, easternKicks)",
+     "source_conflict": "Husband: Mental Block calls her Chi Chung's wife; easternKicks says she is Zhen Sheng's wife",
+     "fit_note": "Asian Movie Pulse says he loses five years per spell and stays young on rituals (older in years); actor ages not given",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -109497,6 +110708,46 @@
      "group": "Villain / stranger / criminal",
      "confidence": "Stronger",
      "note": ""
+    },
+    "older-man-hypnosis:15": {
+     "title": "Black Magic Part 2",
+     "year": "1976",
+     "format": "movie",
+     "meta": "Film · Hong Kong (Shaw Brothers) · Mandarin (勾魂降頭)",
+     "mechanism": "Gong Tau sorcery; life-extending sorcerer",
+     "confidence_flag": "Corroborated · pregnancy-end conflict",
+     "summary": "Sorcerer Kang Kong, who extends his life with rituals, places a young doctor's wife under a hypnotic spell; in a trance she goes to him, is made his sexual thrall and is later turned into a zombie.",
+     "character": "Character: Margarete (Lily Li) and Kang Kong (Lo Lieh)",
+     "categories": [
+      "tantrik",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Black_Magic_2_(1976_Hong_Kong_film)"
+      },
+      {
+       "label": "Asian Movie Pulse review",
+       "url": "https://asianmoviepulse.com/2021/06/film-review-black-magic-2-1976-by-ho-meng-hua/"
+      },
+      {
+       "label": "easternKicks review",
+       "url": "https://www.easternkicks.com/reviews/black-magic-2/"
+      }
+     ],
+     "married": "no",
+     "married_note": "she is another man's wife",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "an existing catalog copy says she becomes pregnant under his control; the reviews fetched here do not confirm the pregnancy or its outcome",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "evidence": "2+ independent sources (Mental Block, Asian Movie Pulse, easternKicks)",
+     "source_conflict": "Husband: Mental Block calls her Chi Chung's wife; easternKicks says she is Zhen Sheng's wife",
+     "fit_note": "Asian Movie Pulse says he loses five years per spell and stays young on rituals (older in years); actor ages not given",
+     "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
+     "note": "",
+     "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
     }
    }
   },
@@ -126154,13 +127405,22 @@
    ],
    "method": "hypnosis",
    "kids_status": "no",
+   "kids_note": "none mentioned; young unmarried heiress",
+   "kids_together": "no",
+   "married": "no",
+   "married_note": "she agrees under hypnosis, but the wedding never happens",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in any plot summary",
+   "evidence": "2+ independent sources (Wikipedia, Mental Block, Sassyflix)",
+   "fit_note": "Age gap: Haliday about 36, Yvonne Romain (Marianne) about 26",
    "format": "movie",
    "categories": [
     "index-50",
     "love",
     "fantasy",
     "human",
-    "index-49"
+    "index-49",
+    "adult-hypnosis"
    ],
    "sources": [
     {
@@ -126178,18 +127438,24 @@
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Devil_Doll_%28film%29"
+    },
+    {
+     "label": "Sassyflix review",
+     "url": "https://sassyflix.com/movies/1364-devil-doll"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "ig6qlxqxoxvcxla",
     "worldwide-hypnosis",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "older-man-hypnosis"
    ],
    "source_records": [
     "ig6qlxqxoxvcxla:148",
     "worldwide-hypnosis:255",
-    "rich-wife-hypnosis:9"
+    "rich-wife-hypnosis:9",
+    "older-man-hypnosis:2"
    ],
    "index_only": false,
    "local_only": false,
@@ -126305,6 +127571,53 @@
      "kids_status": "no",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "older-man-hypnosis:2",
+     "source": "older-man-hypnosis",
+     "label": "Devil Doll (1964)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Devil Doll",
+     "subtitle": "",
+     "year": "1964",
+     "meta": "Film · UK · English",
+     "summary": "Stage hypnotist the Great Vorelli hypnotizes young heiress Marianne Horn, subdues her will at her aunt's mansion and sexually assaults her, then uses hypnosis to make her agree to marry him; the planned wedding never takes place.",
+     "character": "Character: Marianne Horn (Yvonne Romain) and the Great Vorelli (Bryant Haliday)",
+     "note": "",
+     "mechanism": "Stage hypnotist subdues a young heiress",
+     "confidence_flag": "Corroborated · 3 sources",
+     "categories": [
+      "adult-hypnosis",
+      "index-50",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Devil_Doll_(film)"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Devil_Doll"
+      },
+      {
+       "label": "Sassyflix review",
+       "url": "https://sassyflix.com/movies/1364-devil-doll"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "none mentioned; young unmarried heiress",
+     "kids_together": "no",
+     "married": "no",
+     "married_note": "she agrees under hypnosis, but the wedding never happens",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in any plot summary",
+     "evidence": "2+ independent sources (Wikipedia, Mental Block, Sassyflix)",
+     "fit_note": "Age gap: Haliday about 36, Yvonne Romain (Marianne) about 26",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -126397,6 +127710,47 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "no pregnancy for her in the cited plot sources",
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "older-man-hypnosis:2": {
+     "title": "Devil Doll",
+     "year": "1964",
+     "format": "movie",
+     "meta": "Film · UK · English",
+     "mechanism": "Stage hypnotist subdues a young heiress",
+     "confidence_flag": "Corroborated · 3 sources",
+     "summary": "Stage hypnotist the Great Vorelli hypnotizes young heiress Marianne Horn, subdues her will at her aunt's mansion and sexually assaults her, then uses hypnosis to make her agree to marry him; the planned wedding never takes place.",
+     "character": "Character: Marianne Horn (Yvonne Romain) and the Great Vorelli (Bryant Haliday)",
+     "categories": [
+      "adult-hypnosis",
+      "index-50",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Devil_Doll_(film)"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Devil_Doll"
+      },
+      {
+       "label": "Sassyflix review",
+       "url": "https://sassyflix.com/movies/1364-devil-doll"
+      }
+     ],
+     "married": "no",
+     "married_note": "she agrees under hypnosis, but the wedding never happens",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in any plot summary",
+     "kids_together": "no",
+     "kids_status": "no",
+     "kids_note": "none mentioned; young unmarried heiress",
+     "evidence": "2+ independent sources (Wikipedia, Mental Block, Sassyflix)",
+     "fit_note": "Age gap: Haliday about 36, Yvonne Romain (Marianne) about 26",
+     "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
+     "note": "",
+     "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
     }
    },
    "watch_links": [
@@ -127035,10 +128389,28 @@
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "S04E19 “Delusions of Murder”",
+     "air_date": "27 Feb 1997",
+     "gist": "psychiatrist uses hypnosis to assault patients and to frame Barbara for his wife's murder",
+     "number_verified": true
+    }
+   ],
+   "kids_status": "unknown",
+   "kids_together": "no",
+   "married": "no",
+   "married_note": "he is married to Claire, whom he kills",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in any recap",
+   "evidence": "2+ independent sources (Wikipedia, Plex, TheTVDB, Mental Block)",
+   "fit_note": "Sources do not say Barbara herself is assaulted; ages not stated",
    "format": "tv",
    "categories": [
     "therapist-wife",
-    "medical"
+    "medical",
+    "adult-hypnosis",
+    "forced-obedience"
    ],
    "sources": [
     {
@@ -127052,16 +128424,30 @@
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Diagnosis%3A_Murder"
+    },
+    {
+     "label": "Wikipedia (season 4)",
+     "url": "https://en.wikipedia.org/wiki/Diagnosis:_Murder_season_4"
+    },
+    {
+     "label": "Plex",
+     "url": "https://watch.plex.tv/show/diagnosis-murder/season/4/episode/19"
+    },
+    {
+     "label": "TheTVDB",
+     "url": "https://www.thetvdb.com/series/diagnosis-murder/episodes/87329"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "older-man-hypnosis"
    ],
    "source_records": [
     "ig6qlxqxoxvcxla:309",
-    "worldwide-hypnosis:256"
+    "worldwide-hypnosis:256",
+    "older-man-hypnosis:10"
    ],
    "index_only": false,
    "local_only": false,
@@ -127129,6 +128515,66 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "older-man-hypnosis:10",
+     "source": "older-man-hypnosis",
+     "label": "Diagnosis: Murder · S04E19 · “Delusions of Murder” (1997)",
+     "identifiers": [
+      "subtitle",
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "Diagnosis: Murder",
+     "subtitle": "S04E19 · “Delusions of Murder”",
+     "year": "1997",
+     "meta": "TV series · USA · English",
+     "summary": "Psychiatrist Dr. Gavin Reed hypnotizes female patients in order to rape them, kills his estranged wife Claire and uses hypnosis to frame patient Barbara Bennings.",
+     "character": "Character: Barbara Bennings (Kimberlin Brown) and Dr. Gavin Reed (Dwight Schultz)",
+     "note": "",
+     "mechanism": "Psychiatrist hypnotizes female patients",
+     "confidence_flag": "Corroborated · 4 sources",
+     "categories": [
+      "medical",
+      "adult-hypnosis",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia (season 4)",
+       "url": "https://en.wikipedia.org/wiki/Diagnosis:_Murder_season_4"
+      },
+      {
+       "label": "Plex",
+       "url": "https://watch.plex.tv/show/diagnosis-murder/season/4/episode/19"
+      },
+      {
+       "label": "TheTVDB",
+       "url": "https://www.thetvdb.com/series/diagnosis-murder/episodes/87329"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Diagnosis%3A_Murder"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S04E19 “Delusions of Murder”",
+       "air_date": "27 Feb 1997",
+       "gist": "psychiatrist uses hypnosis to assault patients and to frame Barbara for his wife's murder",
+       "number_verified": true
+      }
+     ],
+     "kids_status": "unknown",
+     "kids_together": "no",
+     "married": "no",
+     "married_note": "he is married to Claire, whom he kills",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in any recap",
+     "evidence": "2+ independent sources (Wikipedia, Plex, TheTVDB, Mental Block)",
+     "fit_note": "Sources do not say Barbara herself is assaulted; ages not stated",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -127164,6 +128610,61 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
      "match_title": "Diagnosis: Murder S04E19"
+    },
+    "older-man-hypnosis:10": {
+     "title": "Diagnosis: Murder",
+     "year": "1997",
+     "match_title": "Diagnosis: Murder S04E19",
+     "match_year": "1993–2001",
+     "subtitle": "S04E19 · “Delusions of Murder”",
+     "format": "tv",
+     "meta": "TV series · USA · English",
+     "mechanism": "Psychiatrist hypnotizes female patients",
+     "confidence_flag": "Corroborated · 4 sources",
+     "summary": "Psychiatrist Dr. Gavin Reed hypnotizes female patients in order to rape them, kills his estranged wife Claire and uses hypnosis to frame patient Barbara Bennings.",
+     "character": "Character: Barbara Bennings (Kimberlin Brown) and Dr. Gavin Reed (Dwight Schultz)",
+     "categories": [
+      "medical",
+      "adult-hypnosis",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia (season 4)",
+       "url": "https://en.wikipedia.org/wiki/Diagnosis:_Murder_season_4"
+      },
+      {
+       "label": "Plex",
+       "url": "https://watch.plex.tv/show/diagnosis-murder/season/4/episode/19"
+      },
+      {
+       "label": "TheTVDB",
+       "url": "https://www.thetvdb.com/series/diagnosis-murder/episodes/87329"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Diagnosis%3A_Murder"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S04E19 “Delusions of Murder”",
+       "air_date": "27 Feb 1997",
+       "gist": "psychiatrist uses hypnosis to assault patients and to frame Barbara for his wife's murder",
+       "number_verified": true
+      }
+     ],
+     "married": "no",
+     "married_note": "he is married to Claire, whom he kills",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in any recap",
+     "kids_together": "no",
+     "kids_status": "unknown",
+     "evidence": "2+ independent sources (Wikipedia, Plex, TheTVDB, Mental Block)",
+     "fit_note": "Sources do not say Barbara herself is assaulted; ages not stated",
+     "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
+     "note": "",
+     "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
     }
    }
   },
@@ -136711,6 +138212,26 @@
    "character": "",
    "provenance": "India-only research pass, 30 Sep 2026 (UniqueNewsOnline)",
    "note": "",
+   "episodes": [
+    {
+     "episode": "Part 1, episodes 1–3",
+     "air_date": "31 Dec 2024",
+     "gist": "anklet premise and the older owner's control (per-episode split not verified)",
+     "number_verified": false
+    },
+    {
+     "episode": "Part 2",
+     "air_date": "7 Jan 2025",
+     "gist": "continuation after the grandson steals the anklet (per-episode split not verified)",
+     "number_verified": false
+    }
+   ],
+   "kids_status": "unknown",
+   "kids_together": "unknown",
+   "married": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "2+ independent sources for the premise (Unique News Online, Movieetalks, NewsroomPost); single-source or no source for per-episode content",
+   "fit_note": "Episode-level plots and ages of the women are not given by any source",
    "format": "tv",
    "categories": [
     "adult-hypnosis",
@@ -136721,20 +138242,117 @@
     {
      "label": "UniqueNewsOnline",
      "url": "https://www.uniquenewsonline.com/payal-part-1-cast-trailer-release-date-and-storyline-of-the-ullu-web-series/"
+    },
+    {
+     "label": "Movieetalks",
+     "url": "https://movieetalks.com/payal-part-01/"
+    },
+    {
+     "label": "NewsroomPost",
+     "url": "https://newsroompost.com/entertainment/payal-ott-release-explore-another-bold-exciting-drama-in-the-ullu-app/5337812.html"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "india-catalog"
+    "india-catalog",
+    "older-man-hypnosis"
    ],
    "source_records": [
-    "india-catalog:153"
+    "india-catalog:153",
+    "older-man-hypnosis:6"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "india-catalog:153",
+    "source": "india-catalog",
+    "label": "Payal (Part 1) (2024)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Payal (Part 1)",
+    "subtitle": "",
+    "year": "2024",
+    "meta": "Ullu web series · released 31 Dec 2024 · India · Hindi",
+    "summary": "A lecherous older man owns a magical anklet that hypnotizes any woman who wears it into his servant. His grandson steals it and gives it to another woman, with the same result, until the effect fades.",
+    "character": "",
+    "note": "",
+    "mechanism": "Enchanted hypnotic anklet",
+    "confidence_flag": "Medium-high (trailer + platform synopsis)",
+    "categories": [
+     "adult-hypnosis",
+     "fantasy",
+     "india-control"
+    ],
+    "sources": [
+     {
+      "label": "UniqueNewsOnline",
+      "url": "https://www.uniquenewsonline.com/payal-part-1-cast-trailer-release-date-and-storyline-of-the-ullu-web-series/"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "older-man-hypnosis:6",
+     "source": "older-man-hypnosis",
+     "label": "Payal (Part 1) (2024)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Payal (Part 1)",
+     "subtitle": "",
+     "year": "2024",
+     "meta": "Web series · India (Ullu) · Hindi",
+     "summary": "A lecherous old man owns a magic anklet that turns any woman who wears it into a servant for his sexual wishes; his grandson steals it and the effect transfers to another woman until it fades.",
+     "character": "Character: the anklet's wearers and the older owner (Anil Kumar Singh)",
+     "note": "",
+     "mechanism": "Magic anklet that entrances the woman who wears it",
+     "confidence_flag": "Corroborated plot · episode gists unverified",
+     "categories": [
+      "adult-hypnosis",
+      "india-control",
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "Unique News Online",
+       "url": "https://www.uniquenewsonline.com/payal-part-1-cast-trailer-release-date-and-storyline-of-the-ullu-web-series/"
+      },
+      {
+       "label": "Movieetalks",
+       "url": "https://movieetalks.com/payal-part-01/"
+      },
+      {
+       "label": "NewsroomPost",
+       "url": "https://newsroompost.com/entertainment/payal-ott-release-explore-another-bold-exciting-drama-in-the-ullu-app/5337812.html"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "Part 1, episodes 1–3",
+       "air_date": "31 Dec 2024",
+       "gist": "anklet premise and the older owner's control (per-episode split not verified)",
+       "number_verified": false
+      },
+      {
+       "episode": "Part 2",
+       "air_date": "7 Jan 2025",
+       "gist": "continuation after the grandson steals the anklet (per-episode split not verified)",
+       "number_verified": false
+      }
+     ],
+     "kids_status": "unknown",
+     "kids_together": "unknown",
+     "married": "unknown",
+     "pregnant_end": "unknown",
+     "evidence": "2+ independent sources for the premise (Unique News Online, Movieetalks, NewsroomPost); single-source or no source for per-episode content",
+     "fit_note": "Episode-level plots and ages of the women are not given by any source",
+     "distinct_story": true,
+     "matched_by": "title+year"
+    }
+   ],
    "raw": {
     "india-catalog:153": {
      "title": "Payal (Part 1)",
@@ -136756,6 +138374,58 @@
        "url": "https://www.uniquenewsonline.com/payal-part-1-cast-trailer-release-date-and-storyline-of-the-ullu-web-series/"
       }
      ]
+    },
+    "older-man-hypnosis:6": {
+     "title": "Payal (Part 1)",
+     "year": "2024",
+     "format": "tv",
+     "meta": "Web series · India (Ullu) · Hindi",
+     "mechanism": "Magic anklet that entrances the woman who wears it",
+     "confidence_flag": "Corroborated plot · episode gists unverified",
+     "summary": "A lecherous old man owns a magic anklet that turns any woman who wears it into a servant for his sexual wishes; his grandson steals it and the effect transfers to another woman until it fades.",
+     "character": "Character: the anklet's wearers and the older owner (Anil Kumar Singh)",
+     "categories": [
+      "adult-hypnosis",
+      "india-control",
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "Unique News Online",
+       "url": "https://www.uniquenewsonline.com/payal-part-1-cast-trailer-release-date-and-storyline-of-the-ullu-web-series/"
+      },
+      {
+       "label": "Movieetalks",
+       "url": "https://movieetalks.com/payal-part-01/"
+      },
+      {
+       "label": "NewsroomPost",
+       "url": "https://newsroompost.com/entertainment/payal-ott-release-explore-another-bold-exciting-drama-in-the-ullu-app/5337812.html"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "Part 1, episodes 1–3",
+       "air_date": "31 Dec 2024",
+       "gist": "anklet premise and the older owner's control (per-episode split not verified)",
+       "number_verified": false
+      },
+      {
+       "episode": "Part 2",
+       "air_date": "7 Jan 2025",
+       "gist": "continuation after the grandson steals the anklet (per-episode split not verified)",
+       "number_verified": false
+      }
+     ],
+     "married": "unknown",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "evidence": "2+ independent sources for the premise (Unique News Online, Movieetalks, NewsroomPost); single-source or no source for per-episode content",
+     "fit_note": "Episode-level plots and ages of the women are not given by any source",
+     "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
+     "note": "",
+     "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
     }
    }
   },
@@ -148627,9 +150297,28 @@
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "S04E06 “A Deadly State of Mind”",
+     "air_date": "27 Apr 1975",
+     "gist": "therapist's affair with a rich married patient; he hypnotizes her into a fatal fall",
+     "number_verified": true
+    }
+   ],
+   "kids_status": "unknown",
+   "kids_together": "no",
+   "married": "no",
+   "married_note": "she is married to Karl Donner, whom Collier kills",
+   "pregnant_end": "no",
+   "pregnant_end_note": "she dies; no pregnancy",
+   "evidence": "2+ independent sources (Wikipedia, Columbophile, Columbo wiki, Mental Block, Junkyard review)",
+   "source_conflict": "Air date: Wikipedia (citing the LA Times) gives 27 Apr 1975; Plex lists 26 Apr 1975 (https://watch.plex.tv)",
+   "fit_note": "Age gap modest (Hamilton about 35, Warren about 28)",
    "format": "tv",
    "categories": [
-    "medical"
+    "medical",
+    "therapist-wife",
+    "index-52"
    ],
    "sources": [
     {
@@ -148639,20 +150328,135 @@
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Columbo"
+    },
+    {
+     "label": "Wikipedia (season 4)",
+     "url": "https://en.wikipedia.org/wiki/Columbo_season_4"
+    },
+    {
+     "label": "Columbophile review",
+     "url": "https://columbophile.com/2018/11/18/episode-review-columbo-a-deadly-state-of-mind/"
+    },
+    {
+     "label": "Columbo wiki (Fandom)",
+     "url": "https://columbo.fandom.com/wiki/A_Deadly_State_of_Mind"
+    },
+    {
+     "label": "The View from the Junkyard review",
+     "url": "https://junkyard.blog/2022/04/03/columbo-a-deadly-state-of-mind-review/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "older-man-hypnosis"
    ],
    "source_records": [
-    "worldwide-hypnosis:177"
+    "worldwide-hypnosis:177",
+    "older-man-hypnosis:12"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:177",
+    "source": "worldwide-hypnosis",
+    "label": "Columbo (1968)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Columbo",
+    "subtitle": "",
+    "year": "1968",
+    "meta": "TV series · United States · English",
+    "summary": "Columbo is an American crime drama television series starring Peter Falk as Columbo, a homicide detective with the Los Angeles Police Department. Scene notes: Collie plants a hypnotic suggestion on Nadia to jump into the pool when she hears a trigger word, even though she's on the fifth floor. / Nadia is ready to jump, but starts to wake up from her trance...",
+    "character": "",
+    "note": "",
+    "mechanism": "Traditional hypnosis (pendulum, watch, voice or gaze); post-hypnotic trigger",
+    "confidence_flag": "Medium · fan-wiki scene log; title/year confirmed on Wikipedia",
+    "categories": [
+     "medical"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Columbo"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Columbo"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "older-man-hypnosis:12",
+     "source": "older-man-hypnosis",
+     "label": "Columbo · S04E06 · “A Deadly State of Mind” (1975)",
+     "identifiers": [
+      "subtitle",
+      "year/date"
+     ],
+     "title": "Columbo",
+     "subtitle": "S04E06 · “A Deadly State of Mind”",
+     "year": "1975",
+     "meta": "TV series · USA · English",
+     "summary": "Psychiatrist Dr. Mark Collier is having an affair with patient Nadia Donner, a rich housewife; after he kills her husband during a planned weekend together, he drugs and hypnotizes her so that a trigger phrase makes her leap from her balcony to her death.",
+     "character": "Character: Nadia Donner (Lesley Ann Warren) and Dr. Mark Collier (George Hamilton)",
+     "note": "",
+     "mechanism": "Psychiatrist-hypnotherapist and a rich patient",
+     "confidence_flag": "Corroborated · air-date conflict",
+     "categories": [
+      "medical",
+      "therapist-wife",
+      "index-52"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia (season 4)",
+       "url": "https://en.wikipedia.org/wiki/Columbo_season_4"
+      },
+      {
+       "label": "Columbophile review",
+       "url": "https://columbophile.com/2018/11/18/episode-review-columbo-a-deadly-state-of-mind/"
+      },
+      {
+       "label": "Columbo wiki (Fandom)",
+       "url": "https://columbo.fandom.com/wiki/A_Deadly_State_of_Mind"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Columbo"
+      },
+      {
+       "label": "The View from the Junkyard review",
+       "url": "https://junkyard.blog/2022/04/03/columbo-a-deadly-state-of-mind-review/"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S04E06 “A Deadly State of Mind”",
+       "air_date": "27 Apr 1975",
+       "gist": "therapist's affair with a rich married patient; he hypnotizes her into a fatal fall",
+       "number_verified": true
+      }
+     ],
+     "kids_status": "unknown",
+     "kids_together": "no",
+     "married": "no",
+     "married_note": "she is married to Karl Donner, whom Collier kills",
+     "pregnant_end": "no",
+     "pregnant_end_note": "she dies; no pregnancy",
+     "evidence": "2+ independent sources (Wikipedia, Columbophile, Columbo wiki, Mental Block, Junkyard review)",
+     "source_conflict": "Air date: Wikipedia (citing the LA Times) gives 27 Apr 1975; Plex lists 26 Apr 1975 (https://watch.plex.tv)",
+     "fit_note": "Age gap modest (Hamilton about 35, Warren about 28)",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:177": {
      "title": "Columbo",
@@ -148678,6 +150482,66 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "older-man-hypnosis:12": {
+     "title": "Columbo",
+     "year": "1975",
+     "match_title": "Columbo",
+     "match_year": "1968",
+     "subtitle": "S04E06 · “A Deadly State of Mind”",
+     "format": "tv",
+     "meta": "TV series · USA · English",
+     "mechanism": "Psychiatrist-hypnotherapist and a rich patient",
+     "confidence_flag": "Corroborated · air-date conflict",
+     "summary": "Psychiatrist Dr. Mark Collier is having an affair with patient Nadia Donner, a rich housewife; after he kills her husband during a planned weekend together, he drugs and hypnotizes her so that a trigger phrase makes her leap from her balcony to her death.",
+     "character": "Character: Nadia Donner (Lesley Ann Warren) and Dr. Mark Collier (George Hamilton)",
+     "categories": [
+      "medical",
+      "therapist-wife",
+      "index-52"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia (season 4)",
+       "url": "https://en.wikipedia.org/wiki/Columbo_season_4"
+      },
+      {
+       "label": "Columbophile review",
+       "url": "https://columbophile.com/2018/11/18/episode-review-columbo-a-deadly-state-of-mind/"
+      },
+      {
+       "label": "Columbo wiki (Fandom)",
+       "url": "https://columbo.fandom.com/wiki/A_Deadly_State_of_Mind"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Columbo"
+      },
+      {
+       "label": "The View from the Junkyard review",
+       "url": "https://junkyard.blog/2022/04/03/columbo-a-deadly-state-of-mind-review/"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S04E06 “A Deadly State of Mind”",
+       "air_date": "27 Apr 1975",
+       "gist": "therapist's affair with a rich married patient; he hypnotizes her into a fatal fall",
+       "number_verified": true
+      }
+     ],
+     "married": "no",
+     "married_note": "she is married to Karl Donner, whom Collier kills",
+     "pregnant_end": "no",
+     "pregnant_end_note": "she dies; no pregnancy",
+     "kids_together": "no",
+     "kids_status": "unknown",
+     "evidence": "2+ independent sources (Wikipedia, Columbophile, Columbo wiki, Mental Block, Junkyard review)",
+     "source_conflict": "Air date: Wikipedia (citing the LA Times) gives 27 Apr 1975; Plex lists 26 Apr 1975 (https://watch.plex.tv)",
+     "fit_note": "Age gap modest (Hamilton about 35, Warren about 28)",
+     "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
+     "note": "",
+     "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
     }
    }
   },
@@ -211888,6 +213752,124 @@
      "standalone": true
     }
    }
+  },
+  {
+   "id": 1951,
+   "title": "Law & Order: Special Victims Unit",
+   "subtitle": "S18E18 · “Spellbound”",
+   "year": "2017",
+   "meta": "TV series · USA · English",
+   "mechanism": "Spiritual healer / hypnotist",
+   "confidence_flag": "Corroborated · 4 sources",
+   "summary": "Charismatic spiritual healer and hypnotist Declan Trask is accused of sexually assaulting client Abby, who says hypnosis left her unable to resist; a recording appears to show consent, another victim comes forward, and the case tests whether hypnosis can be proven as the method.",
+   "character": "Character: Abby (Kristen Hager) and Declan Trask (Stuart Townsend)",
+   "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
+   "note": "",
+   "episodes": [
+    {
+     "episode": "S18E18 “Spellbound”",
+     "air_date": "10 May 2017",
+     "gist": "hypnotist-healer accused of assaulting a hypnotized client; trial over whether hypnosis removed her ability to consent",
+     "number_verified": true
+    }
+   ],
+   "kids_status": "unknown",
+   "kids_together": "no",
+   "married": "no",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in any recap",
+   "evidence": "2+ independent sources (Wikipedia, TVmaze, TV Fanatic, CarterMatt)",
+   "fit_note": "Age gap not stated (Townsend about 44, Hager about 32); loose older-man fit",
+   "format": "tv",
+   "categories": [
+    "adult-hypnosis",
+    "human",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (season 18)",
+     "url": "https://en.wikipedia.org/wiki/Law_%26_Order:_Special_Victims_Unit_season_18"
+    },
+    {
+     "label": "TVmaze",
+     "url": "https://www.tvmaze.com/episodes/1071386/law-order-special-victims-unit-18x18-spellbound"
+    },
+    {
+     "label": "TV Fanatic review",
+     "url": "https://www.tvfanatic.com/law-and-order-svu-season-18-episode-18-review-spellbound/"
+    },
+    {
+     "label": "CarterMatt",
+     "url": "https://cartermatt.com/253621/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "older-man-hypnosis"
+   ],
+   "source_records": [
+    "older-man-hypnosis:11"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "older-man-hypnosis:11": {
+     "title": "Law & Order: Special Victims Unit",
+     "year": "2017",
+     "subtitle": "S18E18 · “Spellbound”",
+     "format": "tv",
+     "meta": "TV series · USA · English",
+     "mechanism": "Spiritual healer / hypnotist",
+     "confidence_flag": "Corroborated · 4 sources",
+     "summary": "Charismatic spiritual healer and hypnotist Declan Trask is accused of sexually assaulting client Abby, who says hypnosis left her unable to resist; a recording appears to show consent, another victim comes forward, and the case tests whether hypnosis can be proven as the method.",
+     "character": "Character: Abby (Kristen Hager) and Declan Trask (Stuart Townsend)",
+     "categories": [
+      "adult-hypnosis",
+      "human",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia (season 18)",
+       "url": "https://en.wikipedia.org/wiki/Law_%26_Order:_Special_Victims_Unit_season_18"
+      },
+      {
+       "label": "TVmaze",
+       "url": "https://www.tvmaze.com/episodes/1071386/law-order-special-victims-unit-18x18-spellbound"
+      },
+      {
+       "label": "TV Fanatic review",
+       "url": "https://www.tvfanatic.com/law-and-order-svu-season-18-episode-18-review-spellbound/"
+      },
+      {
+       "label": "CarterMatt",
+       "url": "https://cartermatt.com/253621/"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S18E18 “Spellbound”",
+       "air_date": "10 May 2017",
+       "gist": "hypnotist-healer accused of assaulting a hypnotized client; trial over whether hypnosis removed her ability to consent",
+       "number_verified": true
+      }
+     ],
+     "married": "no",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in any recap",
+     "kids_together": "no",
+     "kids_status": "unknown",
+     "evidence": "2+ independent sources (Wikipedia, TVmaze, TV Fanatic, CarterMatt)",
+     "fit_note": "Age gap not stated (Townsend about 44, Hager about 32); loose older-man fit",
+     "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
+     "note": "",
+     "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
+    }
+   }
   }
  ],
  "sections": [
@@ -212270,7 +214252,8 @@
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "india-catalog",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "older-man-hypnosis"
    ],
    "groups": [
     {
@@ -213055,6 +215038,12 @@
         "Criminal mastermind or villain hypnotist",
         "High confidence"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Saimin_(film)"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -213810,6 +215799,12 @@
         "Comedy, light stories and historical demonstrations",
         "Medium-high confidence"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Mesmer_(film)"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       }
      ]
@@ -214213,6 +216208,16 @@
         "Evil wizard's love-potion sorcery",
         "High confidence · existing record enriched"
        ],
+       "sources": [
+        {
+         "label": "Shaw Brothers release booklet",
+         "url": "http://mvd.cloud/press/AV655/specialedition2512.pdf"
+        },
+        {
+         "label": "Macabre Daily",
+         "url": "https://www.macabredaily.com/articles/keep-warm-this-winter-with-arrow-players-hot-lineup-of-titles-to-stream"
+        }
+       ],
        "provenance": "Source basis: Pregnancy overlap verified in the East Asia two-source sweep; control mechanism independently corroborated by the linked release booklet.",
        "character": "Character: The doctor's adult wife",
        "from_source": "xla62ucxbx02u5"
@@ -214526,12 +216531,36 @@
       }
      ],
      "from_source": "worldwide-hypnosis"
+    },
+    {
+     "title": "Young woman hypnotized by an older / rich man (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 832,
+       "from_source": "older-man-hypnosis"
+      },
+      {
+       "id": 843,
+       "from_source": "older-man-hypnosis"
+      },
+      {
+       "id": 1951,
+       "from_source": "older-man-hypnosis"
+      },
+      {
+       "id": 605,
+       "from_source": "older-man-hypnosis"
+      }
+     ],
+     "from_source": "older-man-hypnosis"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 174,
     "india-catalog": null,
-    "worldwide-hypnosis": null
+    "worldwide-hypnosis": null,
+    "older-man-hypnosis": null
    }
   },
   {
@@ -215684,7 +217713,8 @@
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "india-catalog",
-    "hypnotized-love"
+    "hypnotized-love",
+    "older-man-hypnosis"
    ],
    "groups": [
     {
@@ -215773,12 +217803,24 @@
       }
      ],
      "from_source": "hypnotized-love"
+    },
+    {
+     "title": "Young woman hypnotized by an older / rich man (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 605,
+       "from_source": "older-man-hypnosis"
+      }
+     ],
+     "from_source": "older-man-hypnosis"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 4,
     "india-catalog": null,
-    "hypnotized-love": null
+    "hypnotized-love": null,
+    "older-man-hypnosis": null
    }
   },
   {
@@ -215792,7 +217834,8 @@
     "india-catalog",
     "worldwide-hypnosis",
     "hypnotized-love",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "older-man-hypnosis"
    ],
    "groups": [
     {
@@ -216659,7 +218702,8 @@
     "india-catalog": null,
     "worldwide-hypnosis": null,
     "hypnotized-love": null,
-    "rich-wife-hypnosis": null
+    "rich-wife-hypnosis": null,
+    "older-man-hypnosis": null
    }
   },
   {
@@ -217332,14 +219376,16 @@
     "india-catalog",
     "worldwide-hypnosis",
     "hypnotized-love",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "older-man-hypnosis"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 41,
     "india-catalog": null,
     "worldwide-hypnosis": null,
     "hypnotized-love": null,
-    "rich-wife-hypnosis": null
+    "rich-wife-hypnosis": null,
+    "older-man-hypnosis": null
    },
    "groups": [
     {
@@ -218655,7 +220701,8 @@
     "india-catalog",
     "worldwide-hypnosis",
     "hypnotized-love",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "older-man-hypnosis"
    ],
    "groups": [
     {
@@ -221203,6 +223250,25 @@
       }
      ],
      "from_source": "hypnotized-love"
+    },
+    {
+     "title": "Young woman hypnotized by an older / rich man (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1951,
+       "from_source": "older-man-hypnosis"
+      },
+      {
+       "id": 646,
+       "from_source": "older-man-hypnosis"
+      },
+      {
+       "id": 655,
+       "from_source": "older-man-hypnosis"
+      }
+     ],
+     "from_source": "older-man-hypnosis"
     }
    ],
    "declared_count_by_source": {
@@ -221210,7 +223276,8 @@
     "india-catalog": null,
     "worldwide-hypnosis": null,
     "hypnotized-love": null,
-    "rich-wife-hypnosis": null
+    "rich-wife-hypnosis": null,
+    "older-man-hypnosis": null
    }
   },
   {
@@ -221919,7 +223986,8 @@
     "ig6qlxqxoxvcxla",
     "india-catalog",
     "hypnotized-love",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "older-man-hypnosis"
    ],
    "groups": [
     {
@@ -222108,13 +224176,25 @@
       }
      ],
      "from_source": "rich-wife-hypnosis"
+    },
+    {
+     "title": "Young woman hypnotized by an older / rich man (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 44,
+       "from_source": "older-man-hypnosis"
+      }
+     ],
+     "from_source": "older-man-hypnosis"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 5,
     "india-catalog": null,
     "hypnotized-love": null,
-    "rich-wife-hypnosis": null
+    "rich-wife-hypnosis": null,
+    "older-man-hypnosis": null
    }
   },
   {
@@ -222500,7 +224580,8 @@
     "india-catalog",
     "worldwide-hypnosis",
     "hypnotized-love",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "older-man-hypnosis"
    ],
    "groups": [
     {
@@ -223642,7 +225723,8 @@
     "india-catalog": null,
     "worldwide-hypnosis": null,
     "hypnotized-love": null,
-    "rich-wife-hypnosis": null
+    "rich-wife-hypnosis": null,
+    "older-man-hypnosis": null
    }
   },
   {
@@ -223656,7 +225738,8 @@
     "india-catalog",
     "worldwide-hypnosis",
     "hypnotized-love",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "older-man-hypnosis"
    ],
    "groups": [
     {
@@ -224081,6 +226164,21 @@
       }
      ],
      "from_source": "hypnotized-love"
+    },
+    {
+     "title": "Young woman hypnotized by an older / rich man (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 685,
+       "from_source": "older-man-hypnosis"
+      },
+      {
+       "id": 612,
+       "from_source": "older-man-hypnosis"
+      }
+     ],
+     "from_source": "older-man-hypnosis"
     }
    ],
    "declared_count_by_source": {
@@ -224088,7 +226186,8 @@
     "india-catalog": null,
     "worldwide-hypnosis": null,
     "hypnotized-love": null,
-    "rich-wife-hypnosis": null
+    "rich-wife-hypnosis": null,
+    "older-man-hypnosis": null
    }
   },
   {
@@ -227330,6 +229429,16 @@
         "Evil wizard's love-potion sorcery",
         "High confidence · existing record enriched"
        ],
+       "sources": [
+        {
+         "label": "Shaw Brothers release booklet",
+         "url": "http://mvd.cloud/press/AV655/specialedition2512.pdf"
+        },
+        {
+         "label": "Macabre Daily",
+         "url": "https://www.macabredaily.com/articles/keep-warm-this-winter-with-arrow-players-hot-lineup-of-titles-to-stream"
+        }
+       ],
        "provenance": "Source basis: Pregnancy overlap verified in the East Asia two-source sweep; control mechanism independently corroborated by the linked release booklet.",
        "character": "Character: The doctor's adult wife",
        "from_source": "xla62ucxbx02u5"
@@ -229106,10 +231215,12 @@
    "description": "Two cases in which hypnosis is used against socially prominent or possibly wealthy women for revenge, control, sexual use or political power.",
    "notes": [],
    "from_sources": [
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "older-man-hypnosis"
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 2
+    "ig6qlxqxoxvcxla": 2,
+    "older-man-hypnosis": null
    },
    "groups": [
     {
@@ -229140,6 +231251,17 @@
       }
      ],
      "from_source": "ig6qlxqxoxvcxla"
+    },
+    {
+     "title": "Young woman hypnotized by an older / rich man (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1099,
+       "from_source": "older-man-hypnosis"
+      }
+     ],
+     "from_source": "older-man-hypnosis"
     }
    ]
   },
@@ -229150,11 +231272,13 @@
    "notes": [],
    "from_sources": [
     "ig6qlxqxoxvcxla",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "older-man-hypnosis"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 2,
-    "rich-wife-hypnosis": null
+    "rich-wife-hypnosis": null,
+    "older-man-hypnosis": null
    },
    "groups": [
     {
@@ -229225,6 +231349,17 @@
       }
      ],
      "from_source": "rich-wife-hypnosis"
+    },
+    {
+     "title": "Young woman hypnotized by an older / rich man (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 44,
+       "from_source": "older-man-hypnosis"
+      }
+     ],
+     "from_source": "older-man-hypnosis"
     }
    ]
   },
@@ -229270,7 +231405,8 @@
     "india-catalog",
     "worldwide-hypnosis",
     "hypnotized-love",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "older-man-hypnosis"
    ],
    "groups": [
     {
@@ -230920,7 +233056,8 @@
     "india-catalog": null,
     "worldwide-hypnosis": null,
     "hypnotized-love": null,
-    "rich-wife-hypnosis": null
+    "rich-wife-hypnosis": null,
+    "older-man-hypnosis": null
    }
   },
   {
@@ -232459,7 +234596,8 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "india-catalog"
+    "india-catalog",
+    "older-man-hypnosis"
    ],
    "groups": [
     {
@@ -232685,11 +234823,23 @@
       }
      ],
      "from_source": "india-catalog"
+    },
+    {
+     "title": "Young woman hypnotized by an older / rich man (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 714,
+       "from_source": "older-man-hypnosis"
+      }
+     ],
+     "from_source": "older-man-hypnosis"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 13,
-    "india-catalog": null
+    "india-catalog": null,
+    "older-man-hypnosis": null
    }
   },
   {
@@ -234089,7 +236239,8 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "older-man-hypnosis"
    ],
    "groups": [
     {
@@ -234136,6 +236287,12 @@
         "Wife / female character forcibly hypnotized to obey",
         "Hypnotic sound frequency",
         "High confidence"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/LFO_(film)"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       }
@@ -234579,11 +236736,35 @@
       }
      ],
      "from_source": "rich-wife-hypnosis"
+    },
+    {
+     "title": "Young woman hypnotized by an older / rich man (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 843,
+       "from_source": "older-man-hypnosis"
+      },
+      {
+       "id": 1951,
+       "from_source": "older-man-hypnosis"
+      },
+      {
+       "id": 646,
+       "from_source": "older-man-hypnosis"
+      },
+      {
+       "id": 655,
+       "from_source": "older-man-hypnosis"
+      }
+     ],
+     "from_source": "older-man-hypnosis"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 31,
-    "rich-wife-hypnosis": null
+    "rich-wife-hypnosis": null,
+    "older-man-hypnosis": null
    }
   },
   {
@@ -234600,7 +236781,8 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "older-man-hypnosis"
    ],
    "groups": [
     {
@@ -234775,11 +236957,23 @@
       }
      ],
      "from_source": "rich-wife-hypnosis"
+    },
+    {
+     "title": "Young woman hypnotized by an older / rich man (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1099,
+       "from_source": "older-man-hypnosis"
+      }
+     ],
+     "from_source": "older-man-hypnosis"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 7,
-    "rich-wife-hypnosis": null
+    "rich-wife-hypnosis": null,
+    "older-man-hypnosis": null
    }
   },
   {
