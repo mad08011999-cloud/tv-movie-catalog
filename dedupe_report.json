@@ -140,6 +140,13 @@
      "subtitle": "Season 2 · Isabella / Wormwood arc",
      "year": "2016",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "royal-hypnosis:11",
+     "title": "Galavant",
+     "subtitle": "",
+     "year": "2016",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -241,6 +248,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "royal-hypnosis:10",
+     "title": "Adventure Time",
+     "subtitle": "",
+     "year": "2010",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -15237,6 +15251,13 @@
      "subtitle": "",
      "year": "1966",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "royal-hypnosis:5",
+     "title": "Rasputin the Mad Monk",
+     "subtitle": "",
+     "year": "1966",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -19032,6 +19053,13 @@
      "subtitle": "",
      "year": "1994",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "royal-hypnosis:6",
+     "title": "Bhairava Dweepam",
+     "subtitle": "",
+     "year": "1994",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -20569,6 +20597,26 @@
    ]
   },
   {
+   "kept_id": 1604,
+   "kept": "Sinbad of the Seven Seas (1989)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:766",
+     "title": "Sinbad of the Seven Seas",
+     "subtitle": "",
+     "year": "1989"
+    },
+    {
+     "rid": "royal-hypnosis:8",
+     "title": "Sinbad of the Seven Seas",
+     "subtitle": "",
+     "year": "1989",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 1620,
    "kept": "Shut Eye (2016)",
    "scope": "cross-source",
@@ -20954,6 +21002,33 @@
      "subtitle": "",
      "year": "1978",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "royal-hypnosis:3",
+     "title": "The Thief of Baghdad",
+     "subtitle": "",
+     "year": "1978",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1824,
+   "kept": "Van Helsing (2004)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:1025",
+     "title": "Van Helsing",
+     "subtitle": "",
+     "year": "2004"
+    },
+    {
+     "rid": "royal-hypnosis:7",
+     "title": "Van Helsing",
+     "subtitle": "",
+     "year": "2004",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -21008,6 +21083,13 @@
      "subtitle": "",
      "year": "1985",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "royal-hypnosis:2",
+     "title": "Wizards of the Lost Kingdom",
+     "subtitle": "",
+     "year": "1985",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -21028,6 +21110,26 @@
      "subtitle": "",
      "year": "2024",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1862,
+   "kept": "Jack the Giant Killer (1962)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:1069",
+     "title": "Jack the Giant Killer",
+     "subtitle": "",
+     "year": "1962"
+    },
+    {
+     "rid": "royal-hypnosis:4",
+     "title": "Jack the Giant Killer",
+     "subtitle": "",
+     "year": "1962",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -21092,6 +21194,26 @@
    ]
   },
   {
+   "kept_id": 1880,
+   "kept": "The Throne of Fire (1983)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnotized-love:11",
+     "title": "The Throne of Fire",
+     "subtitle": "",
+     "year": "1983"
+    },
+    {
+     "rid": "royal-hypnosis:1",
+     "title": "The Throne of Fire",
+     "subtitle": "",
+     "year": "1983",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 1884,
    "kept": "Robin of Sherwood (1986)",
    "scope": "cross-source",
@@ -21107,6 +21229,26 @@
      "title": "Robin of Sherwood",
      "subtitle": "",
      "year": "1986",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1886,
+   "kept": "Ivanhoe, the King's Knight (1997)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnotized-love:23",
+     "title": "Ivanhoe, the King's Knight",
+     "subtitle": "“The Assassin and the Potion” · S01E06",
+     "year": "1997"
+    },
+    {
+     "rid": "royal-hypnosis:9",
+     "title": "Ivanhoe, the King's Knight",
+     "subtitle": "",
+     "year": "1997",
      "matched_by": "match_title"
     }
    ]
@@ -21514,11 +21656,12 @@
   "mom-pregnancy": 84,
   "hypnosis-assault-loose": 39,
   "kids-pregnant-again": 77,
-  "lesbian-pregnancy": 44
+  "lesbian-pregnancy": 44,
+  "royal-hypnosis": 11
  },
  "entry_count_after_dedupe": 2098,
  "within_source_groups": 1,
- "cross_source_groups": 825,
+ "cross_source_groups": 830,
  "index_only_records": 39,
  "local_only_records": 1236
 }

@@ -1903,6 +1903,111 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "royal-hypnosis",
+   "label": "Queen/princess hypnotized for marriage or the throne",
+   "kind": "local",
+   "share_url": "sources/royal-hypnosis.json",
+   "description": "Adult queens and princesses hypnotized (hypnosis, mesmerism or trance suggestion; magical devices only where sources frame them as hypnosis, tagged 'loose fit') by someone who wants to marry her or take the throne or power. Minors are excluded. All confirmed matches were already in the catalog, so the records tag those cards with the new category and fill pregnant-at-the-end, kids-together, earlier-children and the new already-married-when-hypnotized fields.",
+   "dropped": [
+    {
+     "title": "Hercules in the Haunted World / Ercole al centro della Terra",
+     "year": "1961",
+     "reason": "rejected (mechanism): Lico's sorcery leaves Princess Deianira in a catatonic trance while he holds the usurped throne and plots to kill her for immortality, but no source frames it as hypnosis (Wikipedia, Black Gate, Mana Pop)"
+    },
+    {
+     "title": "Robin of Sherwood",
+     "year": "1986",
+     "reason": "not royal: Lady Marion is a noblewoman; Owen of Clun's hypnosis plus love potion to marry her stays on the existing card"
+    },
+    {
+     "title": "Rasputin and the Empress",
+     "year": "1932",
+     "reason": "unverified: Rasputin puts Princess Natasha (a lady-in-waiting with a princely title) into a deep trance to keep her from going to the Empress (Wikipedia only); he hypnotizes Alexei, not the Empress"
+    },
+    {
+     "title": "Tenali Rama",
+     "year": "2017–20",
+     "reason": "unverified: Vengdu Swami hypnotizes the Maharaj and a princess (E794–E798) to become heir, but the princess's identity and age are unconfirmed"
+    },
+    {
+     "title": "Just Call Me Nobody",
+     "year": "2010",
+     "reason": "unverified: the sorcerer's hypnotic song makes the princess attack the Emperor; motive unclear"
+    },
+    {
+     "title": "Prem Ya Paheli – Chandrakanta",
+     "year": "2017",
+     "reason": "unverified: Soundarya hypnotizes Princess Chandrakanta (E43–44), apparently over Prince Virendra or the tilism, not marriage or the throne"
+    },
+    {
+     "title": "Alif Laila",
+     "year": "1993–97",
+     "reason": "unverified: Princess Gajala (Sinbad arc) and Princess Hameera (Jalal Talib arc) hypnotized by sorcerers; search summaries only"
+    },
+    {
+     "title": "The Legend of Zelda",
+     "year": "1989",
+     "reason": "excluded: Zelda's age is not established (teen heroine); Crystal of Control rather than hypnosis"
+    },
+    {
+     "title": "The Last: Naruto the Movie",
+     "year": "2014",
+     "reason": "rejected: Hinata (19) is a clan heiress called 'Byakugan Princess', not royalty, and Toneri uses a puppet technique, not hypnosis"
+    },
+    {
+     "title": "The Castle of Cagliostro",
+     "year": "1979",
+     "reason": "excluded: Clarisse is a teenager (about 16–17), and she is drugged"
+    },
+    {
+     "title": "Sleeping Beauty / Maleficent",
+     "year": "1959 / 2014",
+     "reason": "excluded: Aurora is 16 (minor)"
+    },
+    {
+     "title": "Code Geass / Mighty Morphin Power Rangers / Elena of Avalor / Laila Thida Yak / Aladdin (1992)",
+     "reason": "excluded: minors"
+    },
+    {
+     "title": "Aladdin – Naam Toh Suna Hoga",
+     "year": "2018–21",
+     "reason": "excluded: Yasmine's actress was 17 at the time of the arc (age uncertain)"
+    },
+    {
+     "title": "Dennis the Menace: Cruise Control",
+     "year": "2002",
+     "reason": "excluded: Princess Liana's age is not established (likely a child)"
+    },
+    {
+     "title": "Legend of William Tell",
+     "year": "1998",
+     "reason": "excluded: Princess Vara is described as young (actress about 14)"
+    },
+    {
+     "title": "Galavant-like spell cases: The Thief of Bagdad (1940), Shrek 2, Merlin, The Swan Princess, Jack and the Beanstalk (1974), Legend (1985), Dharam Veer, Hercules Against the Moon Men",
+     "reason": "rejected: spell, potion, flower, thrall or shock rather than hypnosis"
+    },
+    {
+     "title": "The Mummy (1932), La Momia Azteca, Secrets of the French Police, Black Magic (1949), Your Highness, Spaceballs, Sheena, The Bride and the Beast",
+     "reason": "rejected: not a queen or princess (reincarnation, impostor or non-royal) or not hypnosis"
+    },
+    {
+     "title": "Purana Mandir, The Ninth Heart, Ghidorah, Karn Sangini, I'm a Pet at Dali Temple, Galtar, Cliffhangers, Herculoids, Star Knight, Anastasia, The Love by Hypnotic, Adventures in Wonderland",
+     "reason": "rejected: motive is not marriage or throne/power, or the princess is the hypnotist"
+    },
+    {
+     "title": "Captain Thunder / El Capitán Trueno",
+     "year": "2011",
+     "reason": "rejected: Princess Sigrid is drugged and brainwashed to steal a ruby, not for marriage or the throne"
+    }
+   ],
+   "check": {
+    "raw_count": 11,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -1925,9 +2030,10 @@ window.CATALOG = {
   "mom-pregnancy": 84,
   "hypnosis-assault-loose": 39,
   "kids-pregnant-again": 77,
-  "lesbian-pregnancy": 44
+  "lesbian-pregnancy": 44,
+  "royal-hypnosis": 11
  },
- "raw_total": 3632,
+ "raw_total": 3643,
  "entry_count": 2098,
  "categories": [
   {
@@ -2033,10 +2139,16 @@ window.CATALOG = {
    "entry_count": 80
   },
   {
+   "key": "royal-hypnosis",
+   "label": "Hypnotized queen/princess for marriage or the throne",
+   "legend_label": "Hypnotized queen/princess for marriage or the throne",
+   "entry_count": 11
+  },
+  {
    "key": "love",
    "label": "Hypnotized to love",
    "legend_label": "Hypnotized to love",
-   "entry_count": 156
+   "entry_count": 158
   },
   {
    "key": "hypno-intimacy",
@@ -3378,11 +3490,35 @@ window.CATALOG = {
    "confidence_flag": "Strong · live-verified",
    "summary": "Wormwood’s enchanted tiara changes Princess Isabella’s personality and makes her enthusiastically accept and plan a marriage to Prince Harry until the tiara is removed.",
    "character": "",
-   "provenance": "",
+   "provenance": "Queen/princess hypnotized for marriage or the throne pass, 30 Sep 2026 PT (adults only)",
    "note": "",
+   "episodes": [
+    {
+     "episode": "S02E03 “Bewitched, Bothered and Belittled”",
+     "air_date": "2016-01-10",
+     "gist": "Wormwood's enchanted tiara turns Isabella into an eager bride; it is knocked off during Princess Jubilee's song",
+     "number_verified": false
+    }
+   ],
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "no",
+   "kids_note": "none",
+   "kids_together": "not stated",
+   "kids_together_note": "the forced wedding to her cousin Harry is undone; she ends up with Galavant",
+   "married": "no",
+   "married_note": "the hypnotist Wormwood does not marry her; she ends up with Galavant",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy",
+   "evidence": "2+ sources (Mental Block: 'Magical Hypnosis', S2E3; TV Tropes Hypnotize the Captive / Brainwashed Bride; episode guides)",
+   "fit_note": "An enchanted tiara rather than hypnosis proper; Mental Block classes it as magical hypnosis",
+   "already_married": "no",
+   "already_married_note": "Princess Isabella is unmarried but already betrothed under duress to her cousin Prince Harry; Wormwood's enchanted tiara controls her as his first plan to grab power",
    "format": "tv",
    "categories": [
-    "love"
+    "love",
+    "royal-hypnosis"
    ],
    "sources": [
     {
@@ -3396,16 +3532,26 @@ window.CATALOG = {
     {
      "label": "BroadwayWorld",
      "url": "http://www.broadwayworld.com/article/VIDEO-Sneak-Peek-Bewitched-Bothered-and-Belittled-on-Next-GALAVANT-20160105"
+    },
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Galavant"
+    },
+    {
+     "label": "TV Tropes",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Series/Galavant"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "royal-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:5",
-    "ig6qlxqxoxvcxla:5"
+    "ig6qlxqxoxvcxla:5",
+    "royal-hypnosis:11"
    ],
    "index_only": false,
    "local_only": false,
@@ -3484,6 +3630,61 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Galavant",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "royal-hypnosis:11",
+     "source": "royal-hypnosis",
+     "label": "Galavant (2016)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Galavant",
+     "subtitle": "",
+     "year": "2016",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "royal-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Galavant"
+      },
+      {
+       "label": "TV Tropes",
+       "url": "https://tvtropes.org/pmwiki/pmwiki.php/Series/Galavant"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S02E03 “Bewitched, Bothered and Belittled”",
+       "air_date": "2016-01-10",
+       "gist": "Wormwood's enchanted tiara turns Isabella into an eager bride; it is knocked off during Princess Jubilee's song",
+       "number_verified": false
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "no",
+     "kids_note": "none",
+     "kids_together": "not stated",
+     "kids_together_note": "the forced wedding to her cousin Harry is undone; she ends up with Galavant",
+     "married": "no",
+     "married_note": "the hypnotist Wormwood does not marry her; she ends up with Galavant",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy",
+     "evidence": "2+ sources (Mental Block: 'Magical Hypnosis', S2E3; TV Tropes Hypnotize the Captive / Brainwashed Bride; episode guides)",
+     "fit_note": "An enchanted tiara rather than hypnosis proper; Mental Block classes it as magical hypnosis",
+     "already_married": "no",
+     "already_married_note": "Princess Isabella is unmarried but already betrothed under duress to her cousin Prince Harry; Wormwood's enchanted tiara controls her as his first plan to grab power",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -3543,6 +3744,50 @@ window.CATALOG = {
        }
       ]
      }
+    },
+    "royal-hypnosis:11": {
+     "title": "Galavant",
+     "year": "2016",
+     "match_title": "Galavant",
+     "match_year": "2016",
+     "format": "tv",
+     "categories": [
+      "royal-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Galavant"
+      },
+      {
+       "label": "TV Tropes",
+       "url": "https://tvtropes.org/pmwiki/pmwiki.php/Series/Galavant"
+      }
+     ],
+     "provenance": "Queen/princess hypnotized for marriage or the throne pass, 30 Sep 2026 PT (adults only)",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy",
+     "kids_together": "not stated",
+     "kids_together_note": "the forced wedding to her cousin Harry is undone; she ends up with Galavant",
+     "kids_status": "no",
+     "kids_note": "none",
+     "already_married": "no",
+     "already_married_note": "Princess Isabella is unmarried but already betrothed under duress to her cousin Prince Harry; Wormwood's enchanted tiara controls her as his first plan to grab power",
+     "evidence": "2+ sources (Mental Block: 'Magical Hypnosis', S2E3; TV Tropes Hypnotize the Captive / Brainwashed Bride; episode guides)",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "An enchanted tiara rather than hypnosis proper; Mental Block classes it as magical hypnosis",
+     "episodes": [
+      {
+       "episode": "S02E03 “Bewitched, Bothered and Belittled”",
+       "air_date": "2016-01-10",
+       "gist": "Wormwood's enchanted tiara turns Isabella into an eager bride; it is knocked off during Princess Jubilee's song",
+       "number_verified": false
+      }
+     ],
+     "married": "no",
+     "married_note": "the hypnotist Wormwood does not marry her; she ends up with Galavant"
     }
    }
   },
@@ -4106,11 +4351,23 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "no",
+   "married": "no",
+   "married_note": "the ring is removed before the wedding",
+   "evidence": "2+ sources (Adventure Time Wiki, TV Tropes Hypno Trinket / Hypnotize the Captive, Mental Block)",
+   "fit_note": "The control comes from a magic ring that TV Tropes counts as a Hypno Trinket, not from direct hypnosis",
+   "already_married": "no",
+   "already_married_note": "Old Lady Princess (an elderly adult) is unmarried; the Ice King's engagement ring makes her agree to marry him",
    "format": "tv",
    "categories": [
     "love",
     "vampire",
-    "other-control"
+    "other-control",
+    "royal-hypnosis"
    ],
    "sources": [
     {
@@ -4138,12 +4395,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "royal-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:9",
     "ig6qlxqxoxvcxla:9",
-    "worldwide-hypnosis:8"
+    "worldwide-hypnosis:8",
+    "royal-hypnosis:10"
    ],
    "index_only": false,
    "local_only": false,
@@ -4251,6 +4510,40 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "royal-hypnosis:10",
+     "source": "royal-hypnosis",
+     "label": "Adventure Time (2010)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Adventure Time",
+     "subtitle": "",
+     "year": "2010",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "royal-hypnosis"
+     ],
+     "sources": [],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "no",
+     "married": "no",
+     "married_note": "the ring is removed before the wedding",
+     "evidence": "2+ sources (Adventure Time Wiki, TV Tropes Hypno Trinket / Hypnotize the Captive, Mental Block)",
+     "fit_note": "The control comes from a magic ring that TV Tropes counts as a Hypno Trinket, not from direct hypnosis",
+     "already_married": "no",
+     "already_married_note": "Old Lady Princess (an elderly adult) is unmarried; the Ice King's engagement ring makes her agree to marry him",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -4332,6 +4625,29 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "royal-hypnosis:10": {
+     "title": "Adventure Time",
+     "year": "2010",
+     "match_title": "Adventure Time",
+     "match_year": "2010",
+     "format": "tv",
+     "categories": [
+      "royal-hypnosis"
+     ],
+     "sources": [],
+     "provenance": "Queen/princess hypnotized for marriage or the throne pass, 30 Sep 2026 PT (adults only)",
+     "already_married": "no",
+     "already_married_note": "Old Lady Princess (an elderly adult) is unmarried; the Ice King's engagement ring makes her agree to marry him",
+     "kids_together": "no",
+     "kids_status": "not stated",
+     "evidence": "2+ sources (Adventure Time Wiki, TV Tropes Hypno Trinket / Hypnotize the Captive, Mental Block)",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "The control comes from a magic ring that TV Tropes counts as a Hypno Trinket, not from direct hypnosis",
+     "married": "no",
+     "married_note": "the ring is removed before the wedding"
     }
    }
   },
@@ -112384,13 +112700,16 @@ window.CATALOG = {
    "evidence": "2+ independent sources (Wikipedia, Mental Block, Moria review)",
    "source_conflict": "Year: Mental Block and a second catalog copy list it as 1965 (shot/copyright); Wikipedia and Moria give the 1966 release year · Merged with the duplicate 1965 card. Wikipedia says it was filmed in 1965, back-to-back with Dracula: Prince of Darkness at Bray Studios, and released in the UK in 1966",
    "fit_note": "Age gap: Lee was about 43, Shelley about 33 at filming; older-man fit is moderate",
+   "already_married": "yes",
+   "already_married_note": "the Tsarina (Renée Asherson) is married to Tsar Nicholas II and is the mother of the heir, Tsarevich Alexei; Rasputin hypnotizes her so she replaces her doctor with his ally Zargo, gaining power at court. No pregnancy for her in the film. The card's Marries her / Pregnant by the end / Kids fields refer to lady-in-waiting Sonia, who is unmarried",
    "format": "movie",
    "categories": [
     "adult-hypnosis",
     "index-52",
     "human",
     "forced-obedience",
-    "hypno-intimacy"
+    "hypno-intimacy",
+    "royal-hypnosis"
    ],
    "sources": [
     {
@@ -112429,7 +112748,8 @@ window.CATALOG = {
     "worldwide-hypnosis",
     "older-man-hypnosis",
     "hypno-intimacy",
-    "hypnosis-assault"
+    "hypnosis-assault",
+    "royal-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:679",
@@ -112437,7 +112757,8 @@ window.CATALOG = {
     "worldwide-hypnosis:713",
     "older-man-hypnosis:1",
     "hypno-intimacy:1",
-    "hypnosis-assault:3"
+    "hypnosis-assault:3",
+    "royal-hypnosis:5"
    ],
    "index_only": false,
    "local_only": false,
@@ -112683,6 +113004,31 @@ window.CATALOG = {
      "fit_note": "Loose fit: Sexual relationship begins as seduction; hypnosis then sustains control.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "royal-hypnosis:5",
+     "source": "royal-hypnosis",
+     "label": "Rasputin the Mad Monk (1966)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Rasputin the Mad Monk",
+     "subtitle": "",
+     "year": "1966",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "royal-hypnosis"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "the Tsarina (Renée Asherson) is married to Tsar Nicholas II and is the mother of the heir, Tsarevich Alexei; Rasputin hypnotizes her so she replaces her doctor with his ally Zargo, gaining power at court. No pregnancy for her in the film. The card's Marries her / Pregnant by the end / Kids fields refer to lady-in-waiting Sonia, who is unmarried",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -112863,6 +113209,20 @@ window.CATALOG = {
       646,
       1559
      ]
+    },
+    "royal-hypnosis:5": {
+     "title": "Rasputin the Mad Monk",
+     "year": "1966",
+     "match_title": "Rasputin the Mad Monk",
+     "match_year": "1966",
+     "format": "movie",
+     "categories": [
+      "royal-hypnosis"
+     ],
+     "sources": [],
+     "provenance": "Queen/princess hypnotized for marriage or the throne pass, 30 Sep 2026 PT (adults only)",
+     "already_married": "yes",
+     "already_married_note": "the Tsarina (Renée Asherson) is married to Tsar Nicholas II and is the mother of the heir, Tsarevich Alexei; Rasputin hypnotizes her so she replaces her doctor with his ally Zargo, gaining power at court. No pregnancy for her in the film. The card's Marries her / Pregnant by the end / Kids fields refer to lady-in-waiting Sonia, who is unmarried"
     },
     "worldwide-hypnosis:713": {
      "title": "Rasputin: The Mad Monk",
@@ -147528,11 +147888,23 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "kids_status": "no",
+   "kids_note": "none",
+   "kids_together": "not stated",
+   "kids_together_note": "the sorcerer Bhairava is defeated; the film ends with Vijay and Padmavathi's wedding",
+   "married": "no",
+   "married_note": "the hypnotist Bhairava does not; she marries Vijay at the end",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy",
+   "evidence": "2 sources (Wikipedia, Mental Block)",
+   "already_married": "no",
+   "already_married_note": "Princess Padmavathi is unmarried; the sorcerer Bhairava holds her in a hypnotic trance for a full-moon sacrifice meant to give him power over the universe",
    "format": "movie",
    "categories": [
     "fantasy",
     "india-control",
-    "human"
+    "human",
+    "royal-hypnosis"
    ],
    "sources": [
     {
@@ -147547,11 +147919,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "india-catalog",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "royal-hypnosis"
    ],
    "source_records": [
     "india-catalog:25",
-    "worldwide-hypnosis:116"
+    "worldwide-hypnosis:116",
+    "royal-hypnosis:6"
    ],
    "index_only": false,
    "local_only": true,
@@ -147624,6 +147998,40 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "royal-hypnosis:6",
+     "source": "royal-hypnosis",
+     "label": "Bhairava Dweepam (1994)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Bhairava Dweepam",
+     "subtitle": "",
+     "year": "1994",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "royal-hypnosis"
+     ],
+     "sources": [],
+     "kids_status": "no",
+     "kids_note": "none",
+     "kids_together": "not stated",
+     "kids_together_note": "the sorcerer Bhairava is defeated; the film ends with Vijay and Padmavathi's wedding",
+     "married": "no",
+     "married_note": "the hypnotist Bhairava does not; she marries Vijay at the end",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy",
+     "evidence": "2 sources (Wikipedia, Mental Block)",
+     "already_married": "no",
+     "already_married_note": "Princess Padmavathi is unmarried; the sorcerer Bhairava holds her in a hypnotic trance for a full-moon sacrifice meant to give him power over the universe",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -147677,6 +148085,29 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "royal-hypnosis:6": {
+     "title": "Bhairava Dweepam",
+     "year": "1994",
+     "match_title": "Bhairava Dweepam",
+     "match_year": "1994",
+     "format": "movie",
+     "categories": [
+      "royal-hypnosis"
+     ],
+     "sources": [],
+     "provenance": "Queen/princess hypnotized for marriage or the throne pass, 30 Sep 2026 PT (adults only)",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy",
+     "kids_together": "not stated",
+     "kids_together_note": "the sorcerer Bhairava is defeated; the film ends with Vijay and Padmavathi's wedding",
+     "kids_status": "no",
+     "kids_note": "none",
+     "already_married": "no",
+     "already_married_note": "Princess Padmavathi is unmarried; the sorcerer Bhairava holds her in a hypnotic trance for a full-moon sacrifice meant to give him power over the universe",
+     "evidence": "2 sources (Wikipedia, Mental Block)",
+     "married": "no",
+     "married_note": "the hypnotist Bhairava does not; she marries Vijay at the end"
     }
    }
   },
@@ -207416,9 +207847,26 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "no",
+   "kids_note": "none",
+   "kids_together": "not stated",
+   "kids_together_note": "Jaffar's plan fails; Alina marries Prince Ali at the end",
+   "married": "no",
+   "married_note": "Jaffar does not marry her; she marries Prince Ali",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy",
+   "evidence": "2 sources (Mental Block, Moria review)",
+   "fit_note": "Mechanism is a brainwashing machine (Mental Block: technological hypnosis), and it fails on her",
+   "already_married": "no",
+   "already_married_note": "Princess Alina is unmarried; the vizier Jaffar, who has enslaved the Caliph's mind, tries to force her to marry him",
    "format": "movie",
    "categories": [
-    "scifi"
+    "scifi",
+    "royal-hypnosis",
+    "love"
    ],
    "sources": [
     {
@@ -207428,20 +207876,103 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Sinbad_of_the_Seven_Seas"
+    },
+    {
+     "label": "Moria review",
+     "url": "https://moriareviews.com/fantasy/sinbad-of-the-seven-seas-1989.htm"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "royal-hypnosis"
    ],
    "source_records": [
-    "worldwide-hypnosis:766"
+    "worldwide-hypnosis:766",
+    "royal-hypnosis:8"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:766",
+    "source": "worldwide-hypnosis",
+    "label": "Sinbad of the Seven Seas (1989)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Sinbad of the Seven Seas",
+    "subtitle": "",
+    "year": "1989",
+    "meta": "Film · country unverified",
+    "summary": "An 1989 film starring Lou Ferrigno as Sinbad.",
+    "character": "",
+    "note": "",
+    "mechanism": "Technological hypnosis (device, screen or signal)",
+    "confidence_flag": "High · fan-wiki scene log + Wikipedia plot mentions hypnosis",
+    "categories": [
+     "scifi"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Sinbad_of_the_Seven_Seas"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sinbad_of_the_Seven_Seas"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "royal-hypnosis:8",
+     "source": "royal-hypnosis",
+     "label": "Sinbad of the Seven Seas (1989)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Sinbad of the Seven Seas",
+     "subtitle": "",
+     "year": "1989",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "royal-hypnosis",
+      "love"
+     ],
+     "sources": [
+      {
+       "label": "Moria review",
+       "url": "https://moriareviews.com/fantasy/sinbad-of-the-seven-seas-1989.htm"
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "no",
+     "kids_note": "none",
+     "kids_together": "not stated",
+     "kids_together_note": "Jaffar's plan fails; Alina marries Prince Ali at the end",
+     "married": "no",
+     "married_note": "Jaffar does not marry her; she marries Prince Ali",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy",
+     "evidence": "2 sources (Mental Block, Moria review)",
+     "fit_note": "Mechanism is a brainwashing machine (Mental Block: technological hypnosis), and it fails on her",
+     "already_married": "no",
+     "already_married_note": "Princess Alina is unmarried; the vizier Jaffar, who has enslaved the Caliph's mind, tries to force her to marry him",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:766": {
      "title": "Sinbad of the Seven Seas",
@@ -207467,6 +207998,39 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "royal-hypnosis:8": {
+     "title": "Sinbad of the Seven Seas",
+     "year": "1989",
+     "match_title": "Sinbad of the Seven Seas",
+     "match_year": "1989",
+     "format": "movie",
+     "categories": [
+      "royal-hypnosis",
+      "love"
+     ],
+     "sources": [
+      {
+       "label": "Moria review",
+       "url": "https://moriareviews.com/fantasy/sinbad-of-the-seven-seas-1989.htm"
+      }
+     ],
+     "provenance": "Queen/princess hypnotized for marriage or the throne pass, 30 Sep 2026 PT (adults only)",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy",
+     "kids_together": "not stated",
+     "kids_together_note": "Jaffar's plan fails; Alina marries Prince Ali at the end",
+     "kids_status": "no",
+     "kids_note": "none",
+     "already_married": "no",
+     "already_married_note": "Princess Alina is unmarried; the vizier Jaffar, who has enslaved the Caliph's mind, tries to force her to marry him",
+     "evidence": "2 sources (Mental Block, Moria review)",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Mechanism is a brainwashing machine (Mental Block: technological hypnosis), and it fails on her",
+     "married": "no",
+     "married_note": "Jaffar does not marry her; she marries Prince Ali"
     }
    },
    "watch_links": [
@@ -223106,10 +223670,21 @@ window.CATALOG = {
    ],
    "method": "hypnosis (mesmeric gaze)",
    "kids_status": "no",
+   "kids_note": "none",
+   "kids_together": "not stated",
+   "kids_together_note": "Jaudur's marriage plan fails; Taj breaks the spell and marries Yasmine",
+   "married": "no",
+   "married_note": "the hypnotist Jaudur does not marry her; she marries Prince Taj",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy",
+   "evidence": "2 sources (Wikipedia plot says he uses a spell to hypnotize them; Mental Block)",
+   "already_married": "no",
+   "already_married_note": "Princess Yasmine is unmarried; the Wazir Jaudur hypnotizes her, the Caliph and the people into accepting his marriage to her",
    "format": "movie",
    "categories": [
     "fantasy",
-    "love"
+    "love",
+    "royal-hypnosis"
    ],
    "sources": [
     {
@@ -223129,12 +223704,14 @@ window.CATALOG = {
    "from_sources": [
     "worldwide-hypnosis",
     "hypnotized-love",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "royal-hypnosis"
    ],
    "source_records": [
     "worldwide-hypnosis:980",
     "hypnotized-love:10",
-    "rich-wife-hypnosis:20"
+    "rich-wife-hypnosis:20",
+    "royal-hypnosis:3"
    ],
    "index_only": false,
    "local_only": true,
@@ -223253,6 +223830,40 @@ window.CATALOG = {
      "kids_status": "no",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "royal-hypnosis:3",
+     "source": "royal-hypnosis",
+     "label": "The Thief of Baghdad (1978)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Thief of Baghdad",
+     "subtitle": "",
+     "year": "1978",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "royal-hypnosis"
+     ],
+     "sources": [],
+     "kids_status": "no",
+     "kids_note": "none",
+     "kids_together": "not stated",
+     "kids_together_note": "Jaudur's marriage plan fails; Taj breaks the spell and marries Yasmine",
+     "married": "no",
+     "married_note": "the hypnotist Jaudur does not marry her; she marries Prince Taj",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy",
+     "evidence": "2 sources (Wikipedia plot says he uses a spell to hypnotize them; Mental Block)",
+     "already_married": "no",
+     "already_married_note": "Princess Yasmine is unmarried; the Wazir Jaudur hypnotizes her, the Caliph and the people into accepting his marriage to her",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -223344,6 +223955,29 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "no pregnancy for her in the cited plot sources",
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "royal-hypnosis:3": {
+     "title": "The Thief of Baghdad",
+     "year": "1978",
+     "match_title": "The Thief of Baghdad",
+     "match_year": "1978",
+     "format": "movie",
+     "categories": [
+      "royal-hypnosis"
+     ],
+     "sources": [],
+     "provenance": "Queen/princess hypnotized for marriage or the throne pass, 30 Sep 2026 PT (adults only)",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy",
+     "kids_together": "not stated",
+     "kids_together_note": "Jaudur's marriage plan fails; Taj breaks the spell and marries Yasmine",
+     "kids_status": "no",
+     "kids_note": "none",
+     "already_married": "no",
+     "already_married_note": "Princess Yasmine is unmarried; the Wazir Jaudur hypnotizes her, the Caliph and the people into accepting his marriage to her",
+     "evidence": "2 sources (Wikipedia plot says he uses a spell to hypnotize them; Mental Block)",
+     "married": "no",
+     "married_note": "the hypnotist Jaudur does not marry her; she marries Prince Taj"
     }
    }
   },
@@ -226036,9 +226670,21 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "kids_status": "no",
+   "kids_note": "none",
+   "kids_together": "no",
+   "kids_together_note": "Dracula declares she will be his bride and bear his children, but he is destroyed",
+   "married": "no",
+   "married_note": "Dracula does not marry her; she dies at the end",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy",
+   "evidence": "3 sources (Mental Block, Van Helsing fandom wiki, BU blog); Wikipedia confirms the film but not the trance",
+   "already_married": "no",
+   "already_married_note": "Princess Anna Valerious is unmarried; Dracula holds her in a hypnotic trance at the masquerade ball as his intended bride",
    "format": "movie",
    "categories": [
-    "vampire"
+    "vampire",
+    "royal-hypnosis"
    ],
    "sources": [
     {
@@ -226048,20 +226694,106 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Van_Helsing_%28film%29"
+    },
+    {
+     "label": "Van Helsing fandom wiki (Anna Valerious)",
+     "url": "https://vanhelsingmovie.fandom.com/wiki/Anna_Valerious"
+    },
+    {
+     "label": "BU feminist reading of culture blog",
+     "url": "http://bufeministreadingofculture.blogspot.com/2015/02/gender-and-dracula-in-van-helsing-2004.html"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "royal-hypnosis"
    ],
    "source_records": [
-    "worldwide-hypnosis:1025"
+    "worldwide-hypnosis:1025",
+    "royal-hypnosis:7"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:1025",
+    "source": "worldwide-hypnosis",
+    "label": "Van Helsing (2004)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Van Helsing",
+    "subtitle": "",
+    "year": "2004",
+    "meta": "Film · United States · English",
+    "summary": "Van Helsing is a 2004 American action-horror movie starring Hugh Jackman as the eponymous vampire hunter, who is tasked by the Vatican with killing the notorious Count Dracula.",
+    "character": "",
+    "note": "",
+    "mechanism": "Vampiric mesmerism / hypnotic gaze",
+    "confidence_flag": "Medium · fan-wiki scene log; title/year confirmed on Wikipedia",
+    "categories": [
+     "vampire"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Van_Helsing_%282004_film%29"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Van_Helsing_%28film%29"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "royal-hypnosis:7",
+     "source": "royal-hypnosis",
+     "label": "Van Helsing (2004)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Van Helsing",
+     "subtitle": "",
+     "year": "2004",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "royal-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Van Helsing fandom wiki (Anna Valerious)",
+       "url": "https://vanhelsingmovie.fandom.com/wiki/Anna_Valerious"
+      },
+      {
+       "label": "BU feminist reading of culture blog",
+       "url": "http://bufeministreadingofculture.blogspot.com/2015/02/gender-and-dracula-in-van-helsing-2004.html"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "none",
+     "kids_together": "no",
+     "kids_together_note": "Dracula declares she will be his bride and bear his children, but he is destroyed",
+     "married": "no",
+     "married_note": "Dracula does not marry her; she dies at the end",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy",
+     "evidence": "3 sources (Mental Block, Van Helsing fandom wiki, BU blog); Wikipedia confirms the film but not the trance",
+     "already_married": "no",
+     "already_married_note": "Princess Anna Valerious is unmarried; Dracula holds her in a hypnotic trance at the masquerade ball as his intended bride",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:1025": {
      "title": "Van Helsing",
@@ -226087,6 +226819,38 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "royal-hypnosis:7": {
+     "title": "Van Helsing",
+     "year": "2004",
+     "match_title": "Van Helsing",
+     "match_year": "2004",
+     "format": "movie",
+     "categories": [
+      "royal-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Van Helsing fandom wiki (Anna Valerious)",
+       "url": "https://vanhelsingmovie.fandom.com/wiki/Anna_Valerious"
+      },
+      {
+       "label": "BU feminist reading of culture blog",
+       "url": "http://bufeministreadingofculture.blogspot.com/2015/02/gender-and-dracula-in-van-helsing-2004.html"
+      }
+     ],
+     "provenance": "Queen/princess hypnotized for marriage or the throne pass, 30 Sep 2026 PT (adults only)",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy",
+     "kids_together": "no",
+     "kids_together_note": "Dracula declares she will be his bride and bear his children, but he is destroyed",
+     "kids_status": "no",
+     "kids_note": "none",
+     "already_married": "no",
+     "already_married_note": "Princess Anna Valerious is unmarried; Dracula holds her in a hypnotic trance at the masquerade ball as his intended bride",
+     "evidence": "3 sources (Mental Block, Van Helsing fandom wiki, BU blog); Wikipedia confirms the film but not the trance",
+     "married": "no",
+     "married_note": "Dracula does not marry her; she dies at the end"
     }
    }
   },
@@ -227504,11 +228268,20 @@ window.CATALOG = {
    ],
    "method": "hypnosis",
    "kids_status": "no",
+   "kids_note": "none",
+   "kids_together": "not stated",
+   "kids_together_note": "Shurka never marries her; Aura and Simon are crowned together at the end, no children shown",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in any plot summary",
+   "evidence": "2+ independent sources (Wikipedia, Mental Block; PlotExplained and Mana Pop recaps agree)",
+   "already_married": "no",
+   "already_married_note": "Princess Aura is unmarried; the usurper Shurka (whose coup her mother Queen Udea aided) hypnotizes her to make her his bride",
    "format": "movie",
    "categories": [
     "love",
     "fantasy",
-    "other-control"
+    "other-control",
+    "royal-hypnosis"
    ],
    "sources": [
     {
@@ -227525,13 +228298,15 @@ window.CATALOG = {
     "worldwide-hypnosis",
     "hypnotized-love",
     "rich-wife-hypnosis",
-    "field-fixes"
+    "field-fixes",
+    "royal-hypnosis"
    ],
    "source_records": [
     "worldwide-hypnosis:1047",
     "hypnotized-love:12",
     "rich-wife-hypnosis:19",
-    "field-fixes:2"
+    "field-fixes:2",
+    "royal-hypnosis:2"
    ],
    "index_only": false,
    "local_only": true,
@@ -227668,6 +228443,38 @@ window.CATALOG = {
      "pregnancy_note": "Wikipedia's plot (the princess is hypnotized into becoming Shurka's bride, then freed) and the Mental Block notes mention no pregnancy.",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "royal-hypnosis:2",
+     "source": "royal-hypnosis",
+     "label": "Wizards of the Lost Kingdom (1985)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Wizards of the Lost Kingdom",
+     "subtitle": "",
+     "year": "1985",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "royal-hypnosis"
+     ],
+     "sources": [],
+     "kids_status": "no",
+     "kids_note": "none",
+     "kids_together": "not stated",
+     "kids_together_note": "Shurka never marries her; Aura and Simon are crowned together at the end, no children shown",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in any plot summary",
+     "evidence": "2+ independent sources (Wikipedia, Mental Block; PlotExplained and Mana Pop recaps agree)",
+     "already_married": "no",
+     "already_married_note": "Princess Aura is unmarried; the usurper Shurka (whose coup her mother Queen Udea aided) hypnotizes her to make her his bride",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -227771,6 +228578,27 @@ window.CATALOG = {
      "override_fields": [
       "pregnancy_outcome"
      ]
+    },
+    "royal-hypnosis:2": {
+     "title": "Wizards of the Lost Kingdom",
+     "year": "1985",
+     "match_title": "Wizards of the Lost Kingdom",
+     "match_year": "1985",
+     "format": "movie",
+     "categories": [
+      "royal-hypnosis"
+     ],
+     "sources": [],
+     "provenance": "Queen/princess hypnotized for marriage or the throne pass, 30 Sep 2026 PT (adults only)",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in any plot summary",
+     "kids_together": "not stated",
+     "kids_together_note": "Shurka never marries her; Aura and Simon are crowned together at the end, no children shown",
+     "kids_status": "no",
+     "kids_note": "none",
+     "already_married": "no",
+     "already_married_note": "Princess Aura is unmarried; the usurper Shurka (whose coup her mother Queen Udea aided) hypnotizes her to make her his bride",
+     "evidence": "2+ independent sources (Wikipedia, Mental Block; PlotExplained and Mana Pop recaps agree)"
     }
    },
    "watch_links": [
@@ -229226,9 +230054,20 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot.",
+   "kids_status": "no",
+   "kids_note": "none",
+   "kids_together": "no",
+   "kids_together_note": "Pendragon is destroyed; Elaine ends up with Jack",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy",
+   "evidence": "3 sources (Wikipedia, Mental Block, TV Tropes Hypnotize the Captive)",
+   "already_married": "no",
+   "already_married_note": "Princess Elaine of Cornwall is unmarried; Pendragon wants the throne of Cornwall with Elaine at his side and hypnotizes her (turning her into a witch)",
    "format": "movie",
    "categories": [
-    "fantasy"
+    "fantasy",
+    "royal-hypnosis",
+    "love"
    ],
    "sources": [
     {
@@ -229246,16 +230085,88 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "royal-hypnosis"
    ],
    "source_records": [
-    "worldwide-hypnosis:1069"
+    "worldwide-hypnosis:1069",
+    "royal-hypnosis:4"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:1069",
+    "source": "worldwide-hypnosis",
+    "label": "Jack the Giant Killer (1962)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Jack the Giant Killer",
+    "subtitle": "",
+    "year": "1962",
+    "meta": "Film · United States · English",
+    "summary": "The sorcerer Pendragon hypnotizes Princess Elaine and turns her into a witch.",
+    "character": "",
+    "note": "",
+    "mechanism": "Magical hypnotic gaze",
+    "confidence_flag": "Medium · TV Tropes example; film confirmed on Wikipedia + Mental Block page",
+    "categories": [
+     "fantasy"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jack_the_Giant_Killer_%281962_film%29"
+     },
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Jack_the_Giant_Killer"
+     },
+     {
+      "label": "TV Tropes: Hypnotize the Captive",
+      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnotizeTheCaptive"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "royal-hypnosis:4",
+     "source": "royal-hypnosis",
+     "label": "Jack the Giant Killer (1962)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Jack the Giant Killer",
+     "subtitle": "",
+     "year": "1962",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "royal-hypnosis",
+      "love"
+     ],
+     "sources": [],
+     "kids_status": "no",
+     "kids_note": "none",
+     "kids_together": "no",
+     "kids_together_note": "Pendragon is destroyed; Elaine ends up with Jack",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy",
+     "evidence": "3 sources (Wikipedia, Mental Block, TV Tropes Hypnotize the Captive)",
+     "already_married": "no",
+     "already_married_note": "Princess Elaine of Cornwall is unmarried; Pendragon wants the throne of Cornwall with Elaine at his side and hypnotizes her (turning her into a witch)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:1069": {
      "title": "Jack the Giant Killer",
@@ -229285,6 +230196,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): TV Tropes hypnosis trope pages, Wikipedia 'Films about hypnosis' and targeted web searches."
+    },
+    "royal-hypnosis:4": {
+     "title": "Jack the Giant Killer",
+     "year": "1962",
+     "match_title": "Jack the Giant Killer",
+     "match_year": "1962",
+     "format": "movie",
+     "categories": [
+      "royal-hypnosis",
+      "love"
+     ],
+     "sources": [],
+     "provenance": "Queen/princess hypnotized for marriage or the throne pass, 30 Sep 2026 PT (adults only)",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy",
+     "kids_together": "no",
+     "kids_together_note": "Pendragon is destroyed; Elaine ends up with Jack",
+     "kids_status": "no",
+     "kids_note": "none",
+     "already_married": "no",
+     "already_married_note": "Princess Elaine of Cornwall is unmarried; Pendragon wants the throne of Cornwall with Elaine at his side and hypnotizes her (turning her into a witch)",
+     "evidence": "3 sources (Wikipedia, Mental Block, TV Tropes Hypnotize the Captive)"
     }
    },
    "watch_links": [
@@ -230934,12 +231867,22 @@ window.CATALOG = {
    "character": "",
    "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
    "note": "",
-   "pregnancy_outcome": "unknown",
-   "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+   "pregnancy_outcome": "not pregnant",
+   "kids_status": "no",
+   "kids_note": "none stated",
+   "kids_together": "no",
+   "kids_together_note": "Morak's plan is stopped by Siegfried",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in any plot summary",
+   "evidence": "single source — Mental Block for the hypnosis-to-marry plot; the Wikipedia film page (a stub) confirms only title, year and cast",
+   "fit_note": "Italian sword-and-sorcery film (Il trono di fuoco, dir. Franco Prosperi). The card's older Wikipedia link points to the Rick Riordan novel of the same name; the correct film page is added",
+   "already_married": "no",
+   "already_married_note": "Princess Valkari is unmarried; Morak needs to marry into the royal family to sit on Odin's Throne of Fire",
    "format": "movie",
    "categories": [
     "love",
-    "fantasy"
+    "fantasy",
+    "royal-hypnosis"
    ],
    "sources": [
     {
@@ -230949,20 +231892,99 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/The_Throne_of_Fire"
+    },
+    {
+     "label": "Wikipedia (film)",
+     "url": "https://en.wikipedia.org/wiki/The_Throne_of_Fire_(film)"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnotized-love"
+    "hypnotized-love",
+    "royal-hypnosis"
    ],
    "source_records": [
-    "hypnotized-love:11"
+    "hypnotized-love:11",
+    "royal-hypnosis:1"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnotized-love:11",
+    "source": "hypnotized-love",
+    "label": "The Throne of Fire (1983)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Throne of Fire",
+    "subtitle": "",
+    "year": "1983",
+    "meta": "Movie · Italy · English-dubbed · original title: Il trono di fuoco",
+    "summary": "Morak, son of a demon, needs to marry into the royal family to sit on Odin's Throne of Fire, so he kidnaps Princess Valkari and hypnotizes her into marrying him; Siegfried arrives to stop him.",
+    "character": "",
+    "note": "",
+    "mechanism": "Hypnotic domination",
+    "confidence_flag": "Strong · fan-wiki source",
+    "categories": [
+     "love",
+     "fantasy"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block",
+      "url": "https://mentalblock.miraheze.org/wiki/The_Throne_of_Fire"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Throne_of_Fire"
+     }
+    ],
+    "pregnancy_outcome": "unknown",
+    "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "royal-hypnosis:1",
+     "source": "royal-hypnosis",
+     "label": "The Throne of Fire (1983)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Throne of Fire",
+     "subtitle": "",
+     "year": "1983",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "royal-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia (film)",
+       "url": "https://en.wikipedia.org/wiki/The_Throne_of_Fire_(film)"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "kids_status": "no",
+     "kids_note": "none stated",
+     "kids_together": "no",
+     "kids_together_note": "Morak's plan is stopped by Siegfried",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in any plot summary",
+     "evidence": "single source — Mental Block for the hypnosis-to-marry plot; the Wikipedia film page (a stub) confirms only title, year and cast",
+     "fit_note": "Italian sword-and-sorcery film (Il trono di fuoco, dir. Franco Prosperi). The card's older Wikipedia link points to the Rick Riordan novel of the same name; the correct film page is added",
+     "already_married": "no",
+     "already_married_note": "Princess Valkari is unmarried; Morak needs to marry into the royal family to sit on Odin's Throne of Fire",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnotized-love:11": {
      "title": "The Throne of Fire",
@@ -230989,6 +232011,37 @@ window.CATALOG = {
      "pregnancy_outcome": "unknown",
      "pregnancy_note": "Pregnancy status is not stated in the available sources.",
      "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
+    },
+    "royal-hypnosis:1": {
+     "title": "The Throne of Fire",
+     "year": "1983",
+     "match_title": "The Throne of Fire",
+     "match_year": "1983",
+     "format": "movie",
+     "categories": [
+      "royal-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia (film)",
+       "url": "https://en.wikipedia.org/wiki/The_Throne_of_Fire_(film)"
+      }
+     ],
+     "provenance": "Queen/princess hypnotized for marriage or the throne pass, 30 Sep 2026 PT (adults only)",
+     "pregnancy_outcome": "not pregnant",
+     "override_fields": [
+      "pregnancy_outcome"
+     ],
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in any plot summary",
+     "kids_together": "no",
+     "kids_together_note": "Morak's plan is stopped by Siegfried",
+     "kids_status": "no",
+     "kids_note": "none stated",
+     "already_married": "no",
+     "already_married_note": "Princess Valkari is unmarried; Morak needs to marry into the royal family to sit on Odin's Throne of Fire",
+     "evidence": "single source — Mental Block for the hypnosis-to-marry plot; the Wikipedia film page (a stub) confirms only title, year and cast",
+     "fit_note": "Italian sword-and-sorcery film (Il trono di fuoco, dir. Franco Prosperi). The card's older Wikipedia link points to the Rick Riordan novel of the same name; the correct film page is added"
     }
    }
   },
@@ -231518,12 +232571,26 @@ window.CATALOG = {
    "character": "",
    "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
    "note": "",
-   "pregnancy_outcome": "unknown",
-   "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+   "pregnancy_outcome": "not pregnant",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "no",
+   "kids_note": "none",
+   "kids_together": "no",
+   "married": "no",
+   "married_note": "the wedding to Prince John is stopped",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy",
+   "evidence": "single source — Mental Block; episode guides confirm only the title and air date (6 Oct 1997)",
+   "fit_note": "Rowena is a Saxon noblewoman of royal descent, not a reigning queen or princess, and the method is a potion combined with hypnosis",
+   "already_married": "no",
+   "already_married_note": "Lady Rowena is unmarried; she is drugged and hypnotized to try to kill Ivanhoe and is later hypnotized into marrying Prince John",
    "format": "tv",
    "categories": [
     "love",
-    "tech"
+    "tech",
+    "royal-hypnosis"
    ],
    "sources": [
     {
@@ -231533,16 +232600,87 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnotized-love"
+    "hypnotized-love",
+    "royal-hypnosis"
    ],
    "source_records": [
-    "hypnotized-love:23"
+    "hypnotized-love:23",
+    "royal-hypnosis:9"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnotized-love:23",
+    "source": "hypnotized-love",
+    "label": "Ivanhoe, the King's Knight · “The Assassin and the Potion” · S01E06 (1997)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Ivanhoe, the King's Knight",
+    "subtitle": "“The Assassin and the Potion” · S01E06",
+    "year": "1997",
+    "meta": "Animated TV episode · France · French / English",
+    "summary": "Rowena, Ivanhoe's love interest, is drugged and hypnotized into trying to kill Ivanhoe, and is later hypnotized into marrying Prince John.",
+    "character": "",
+    "note": "",
+    "mechanism": "Drugged hypnosis",
+    "confidence_flag": "Medium · single fan-wiki source",
+    "categories": [
+     "love",
+     "tech"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block",
+      "url": "https://mentalblock.miraheze.org/wiki/Ivanhoe,_the_King%27s_Knight"
+     }
+    ],
+    "pregnancy_outcome": "unknown",
+    "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "royal-hypnosis:9",
+     "source": "royal-hypnosis",
+     "label": "Ivanhoe, the King's Knight (1997)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Ivanhoe, the King's Knight",
+     "subtitle": "",
+     "year": "1997",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "royal-hypnosis"
+     ],
+     "sources": [],
+     "pregnancy_outcome": "not pregnant",
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "no",
+     "kids_note": "none",
+     "kids_together": "no",
+     "married": "no",
+     "married_note": "the wedding to Prince John is stopped",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy",
+     "evidence": "single source — Mental Block; episode guides confirm only the title and air date (6 Oct 1997)",
+     "fit_note": "Rowena is a Saxon noblewoman of royal descent, not a reigning queen or princess, and the method is a potion combined with hypnosis",
+     "already_married": "no",
+     "already_married_note": "Lady Rowena is unmarried; she is drugged and hypnotized to try to kill Ivanhoe and is later hypnotized into marrying Prince John",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnotized-love:23": {
      "title": "Ivanhoe, the King's Knight",
@@ -231566,6 +232704,36 @@ window.CATALOG = {
      "pregnancy_outcome": "unknown",
      "pregnancy_note": "Pregnancy status is not stated in the available sources.",
      "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
+    },
+    "royal-hypnosis:9": {
+     "title": "Ivanhoe, the King's Knight",
+     "year": "1997",
+     "match_title": "Ivanhoe, the King's Knight",
+     "match_year": "1997",
+     "format": "tv",
+     "categories": [
+      "royal-hypnosis"
+     ],
+     "sources": [],
+     "provenance": "Queen/princess hypnotized for marriage or the throne pass, 30 Sep 2026 PT (adults only)",
+     "pregnancy_outcome": "not pregnant",
+     "override_fields": [
+      "pregnancy_outcome"
+     ],
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy",
+     "kids_together": "no",
+     "kids_status": "no",
+     "kids_note": "none",
+     "already_married": "no",
+     "already_married_note": "Lady Rowena is unmarried; she is drugged and hypnotized to try to kill Ivanhoe and is later hypnotized into marrying Prince John",
+     "evidence": "single source — Mental Block; episode guides confirm only the title and air date (6 Oct 1997)",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Rowena is a Saxon noblewoman of royal descent, not a reigning queen or princess, and the method is a potion combined with hypnosis",
+     "married": "no",
+     "married_note": "the wedding to Prince John is stopped"
     }
    }
   },
@@ -264832,6 +266000,71 @@ window.CATALOG = {
    }
   },
   {
+   "title": "Hypnotized queen/princess for marriage or the throne",
+   "category": "royal-hypnosis",
+   "description": "",
+   "notes": [],
+   "from_sources": [
+    "royal-hypnosis"
+   ],
+   "declared_count_by_source": {
+    "royal-hypnosis": null
+   },
+   "groups": [
+    {
+     "title": "Queen/princess hypnotized for marriage or the throne (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 9,
+       "from_source": "royal-hypnosis"
+      },
+      {
+       "id": 885,
+       "from_source": "royal-hypnosis"
+      },
+      {
+       "id": 5,
+       "from_source": "royal-hypnosis"
+      },
+      {
+       "id": 1886,
+       "from_source": "royal-hypnosis"
+      },
+      {
+       "id": 1862,
+       "from_source": "royal-hypnosis"
+      },
+      {
+       "id": 646,
+       "from_source": "royal-hypnosis"
+      },
+      {
+       "id": 1604,
+       "from_source": "royal-hypnosis"
+      },
+      {
+       "id": 1785,
+       "from_source": "royal-hypnosis"
+      },
+      {
+       "id": 1880,
+       "from_source": "royal-hypnosis"
+      },
+      {
+       "id": 1824,
+       "from_source": "royal-hypnosis"
+      },
+      {
+       "id": 1843,
+       "from_source": "royal-hypnosis"
+      }
+     ],
+     "from_source": "royal-hypnosis"
+    }
+   ]
+  },
+  {
    "title": "Hypnotized to love",
    "category": "love",
    "description": "Literal hypnosis, spells, brainwashing and adjacent mechanisms that manufacture or compel romance, engagement or marriage.",
@@ -264858,7 +266091,8 @@ window.CATALOG = {
     "mother-kids-hypnosis",
     "hypno-leftovers",
     "hypnosis-assault",
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "royal-hypnosis"
    ],
    "groups": [
     {
@@ -265107,6 +266341,20 @@ window.CATALOG = {
         "Hypnotized to love",
         "Mind-control tiara",
         "Strong · live-verified"
+       ],
+       "sources": [
+        {
+         "label": "Episode guide",
+         "url": "http://orma.iasfbo.inaf.it:7007/~mauro/TV/PDF/ENDED/GALAVANT.pdf"
+        },
+        {
+         "label": "AV Club",
+         "url": "https://www.avclub.com/galavant-continues-to-humble-then-humanize-its-villains-1798186253"
+        },
+        {
+         "label": "BroadwayWorld",
+         "url": "http://www.broadwayworld.com/article/VIDEO-Sneak-Peek-Bewitched-Bothered-and-Belittled-on-Next-GALAVANT-20160105"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -266085,6 +267333,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-assault"
+    },
+    {
+     "title": "Queen/princess hypnotized for marriage or the throne (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1862,
+       "from_source": "royal-hypnosis"
+      },
+      {
+       "id": 1604,
+       "from_source": "royal-hypnosis"
+      }
+     ],
+     "from_source": "royal-hypnosis"
     }
    ],
    "declared_count_by_source": {
@@ -266097,7 +267360,8 @@ window.CATALOG = {
     "mother-kids-hypnosis": null,
     "hypno-leftovers": null,
     "hypnosis-assault": null,
-    "hypnosis-assault-loose": null
+    "hypnosis-assault-loose": null,
+    "royal-hypnosis": null
    }
   },
   {

@@ -82,6 +82,8 @@ SOURCES = [
      "local": "sources/kids-pregnant-again.json", "required": False},
     {"id": "lesbian-pregnancy", "label": "Lesbian couple pregnancy research",
      "local": "sources/lesbian-pregnancy.json", "required": False},
+    {"id": "royal-hypnosis", "label": "Queen/princess hypnotized for marriage or the throne",
+     "local": "sources/royal-hypnosis.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -686,7 +688,8 @@ OPTIONAL_FIELDS = ("pregnancy_outcome", "pregnancy_note", "pregnancy_highlight",
                    "episodes", "tags", "hypnotist", "gain_motive", "method", "kids_status", "kids_note",
                    "kids_together", "kids_together_note", "married", "married_note", "pregnant_end",
                    "pregnant_end_note", "evidence", "source_conflict", "fit_note", "child_witness",
-                   "rating", "adult", "existing_kids", "pregnancy_again", "pregnancy_again_note")
+                   "rating", "adult", "existing_kids", "pregnancy_again", "pregnancy_again_note",
+                   "already_married", "already_married_note")
 # list-valued optional fields are unioned across all merged copies (in primary-first, source order)
 UNION_FIELDS = ("episodes", "tags")
 
@@ -737,9 +740,11 @@ def copy_info(m, primary, g, members):
 # precedence over earlier sources (normally the primary / earliest copy wins). Overriding a value field also
 # takes its paired note from the same record, so a value is never shown with another source's note.
 NOTE_FIELD = {"pregnancy_outcome": "pregnancy_note", "pregnant_end": "pregnant_end_note", "kids_status": "kids_note",
-              "kids_together": "kids_together_note", "married": "married_note"}
+              "kids_together": "kids_together_note", "married": "married_note",
+              "already_married": "already_married_note"}
 CONFLICT_FIELDS = {"pregnancy_outcome": "Pregnancy outcome", "pregnant_end": "Pregnant by the end",
                    "kids_status": "Already has children", "kids_together": "Kids together", "married": "Marries her",
+                   "already_married": "Already married when hypnotized",
                    "pregnant_has_children": "Already has children (pregnancy research)"}
 
 
