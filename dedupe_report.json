@@ -357,6 +357,13 @@
      "matched_by": "match_title"
     },
     {
+     "rid": "older-man-hypnosis:22",
+     "title": "The Hypnotized / Faceless Beauty",
+     "subtitle": "",
+     "year": "2004",
+     "matched_by": "title+year"
+    },
+    {
      "rid": "hypno-intimacy:6",
      "title": "The Hypnotized / Faceless Beauty",
      "subtitle": "",
@@ -598,6 +605,13 @@
      "subtitle": "",
      "year": "1931",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "older-man-hypnosis:16",
+     "title": "Svengali",
+     "subtitle": "",
+     "year": "1931",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -736,6 +750,13 @@
     },
     {
      "rid": "worldwide-hypnosis:833",
+     "title": "Svengali",
+     "subtitle": "",
+     "year": "1954",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "older-man-hypnosis:17",
      "title": "Svengali",
      "subtitle": "",
      "year": "1954",
@@ -1333,6 +1354,13 @@
      "subtitle": "",
      "year": "1946",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "older-man-hypnosis:21",
+     "title": "The Mask of Diijon",
+     "subtitle": "",
+     "year": "1946",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -5877,6 +5905,13 @@
      "subtitle": "",
      "year": "1949",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "older-man-hypnosis:19",
+     "title": "Black Magic",
+     "subtitle": "",
+     "year": "1949",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -7567,6 +7602,13 @@
      "subtitle": "",
      "year": "1994–95",
      "matched_by": "alias"
+    },
+    {
+     "rid": "older-man-hypnosis:27",
+     "title": "Days of Our Lives",
+     "subtitle": "Stefano / Marlena “Queen of the Night” arc",
+     "year": "1994–95",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -14300,6 +14342,13 @@
      "subtitle": "",
      "year": "1915",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "older-man-hypnosis:18",
+     "title": "Trilby",
+     "subtitle": "",
+     "year": "1915",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -14448,6 +14497,26 @@
      "subtitle": "",
      "year": "1962",
      "matched_by": "alias"
+    }
+   ]
+  },
+  {
+   "kept_id": 633,
+   "kept": "Body of Influence (1993)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:666",
+     "title": "Body of Influence",
+     "subtitle": "",
+     "year": "1993"
+    },
+    {
+     "rid": "older-man-hypnosis:23",
+     "title": "Body of Influence",
+     "subtitle": "",
+     "year": "1993",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -15074,6 +15143,46 @@
    ]
   },
   {
+   "kept_id": 702,
+   "kept": "Smooth Velvet, Raw Silk / Velluto nero / Black Emmanuelle, White Emmanuelle (1976)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:736",
+     "title": "Smooth Velvet, Raw Silk / Velluto nero / Black Emmanuelle, White Emmanuelle",
+     "subtitle": "",
+     "year": "1976"
+    },
+    {
+     "rid": "older-man-hypnosis:28",
+     "title": "Smooth Velvet, Raw Silk / Velluto nero / Black Emmanuelle, White Emmanuelle",
+     "subtitle": "",
+     "year": "1976",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 703,
+   "kept": "The Mindblowers / Mind Blowers (1970)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:737",
+     "title": "The Mindblowers / Mind Blowers",
+     "subtitle": "",
+     "year": "1970"
+    },
+    {
+     "rid": "older-man-hypnosis:34",
+     "title": "The Mindblowers / Mind Blowers",
+     "subtitle": "",
+     "year": "1970",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 704,
    "kept": "Subliminal Seduction (1996)",
    "scope": "cross-source",
@@ -15110,6 +15219,13 @@
      "subtitle": "",
      "year": "1987–1990",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "older-man-hypnosis:25",
+     "title": "Friday the 13th: The Series",
+     "subtitle": "“Mesmer’s Bauble” · S02E20",
+     "year": "1989",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -16821,6 +16937,13 @@
      "matched_by": "title+year"
     },
     {
+     "rid": "older-man-hypnosis:33",
+     "title": "Jacquette",
+     "subtitle": "",
+     "year": "1976",
+     "matched_by": "title+year"
+    },
+    {
      "rid": "hypno-intimacy:11",
      "title": "Jacquette",
      "subtitle": "",
@@ -17370,6 +17493,13 @@
      "subtitle": "",
      "year": "1936",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "older-man-hypnosis:32",
+     "title": "The Hypnotist",
+     "subtitle": "",
+     "year": "1936",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -17451,6 +17581,26 @@
      "subtitle": "",
      "year": "1964",
      "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 833,
+   "kept": "Interactive (1999)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "ig6qlxqxoxvcxla:149",
+     "title": "Interactive",
+     "subtitle": "",
+     "year": "1999"
+    },
+    {
+     "rid": "older-man-hypnosis:35",
+     "title": "Interactive",
+     "subtitle": "",
+     "year": "1999",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -18676,6 +18826,26 @@
    ]
   },
   {
+   "kept_id": 1191,
+   "kept": "Doctor Dracula (1978)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:289",
+     "title": "Doctor Dracula",
+     "subtitle": "",
+     "year": "1978"
+    },
+    {
+     "rid": "older-man-hypnosis:30",
+     "title": "Doctor Dracula",
+     "subtitle": "",
+     "year": "1978",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1197,
    "kept": "Don't Look in the Mirror (2022)",
    "scope": "cross-source",
@@ -18712,6 +18882,13 @@
      "subtitle": "",
      "year": "1992",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "older-man-hypnosis:26",
+     "title": "El Gato con Gatas",
+     "subtitle": "",
+     "year": "1992",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -18751,6 +18928,13 @@
      "title": "Freddy's Nightmares",
      "subtitle": "",
      "year": "1988",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "older-man-hypnosis:31",
+     "title": "Freddy's Nightmares",
+     "subtitle": "“What You Don't Know Can Kill You” · S02E13",
+     "year": "1990",
      "matched_by": "match_title"
     },
     {
@@ -18819,6 +19003,26 @@
      "subtitle": "",
      "year": "2013",
      "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1314,
+   "kept": "Hot Under the Collar (1992)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:427",
+     "title": "Hot Under the Collar",
+     "subtitle": "",
+     "year": "1992"
+    },
+    {
+     "rid": "older-man-hypnosis:24",
+     "title": "Hot Under the Collar",
+     "subtitle": "",
+     "year": "1992",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -19199,6 +19403,13 @@
      "subtitle": "",
      "year": "1926",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "older-man-hypnosis:20",
+     "title": "The Magician",
+     "subtitle": "",
+     "year": "1926",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -19468,13 +19679,13 @@
   "occult-pregnancy-nearmiss": 3,
   "rich-wife-hypnosis": 45,
   "agegap-marriage": 18,
-  "older-man-hypnosis": 15,
+  "older-man-hypnosis": 36,
   "hypno-intimacy": 11,
   "mother-kids-hypnosis": 38
  },
- "entry_count_after_dedupe": 1963,
+ "entry_count_after_dedupe": 1965,
  "within_source_groups": 1,
- "cross_source_groups": 778,
- "index_only_records": 41,
- "local_only_records": 1098
+ "cross_source_groups": 784,
+ "index_only_records": 40,
+ "local_only_records": 1100
 }
