@@ -1,6 +1,8 @@
 {
  "SOURCE": "https://muse.ai/s/tv-and-movie-research-catalog-xla62ucxbx02u5",
  "stats": [
+  "16 verified rich-woman hypnosis or love-potion entries across 6 new plot categories; 8 net-new unique titles after deduplication and 8 existing records enriched",
+  "882 category records across 54 plot categories; 716 unique named titles shown after title-and-year deduplication",
   "15 records reviewed for the partner-to-hypnotist switched-target pattern: 0 exact matches, 2 loose matches and 13 clearly labeled non-qualifying near-misses; 11 are new unique titles and 4 enrich existing catalog records",
   "9 core matches in the devil / demon pregnancy category: 8 result in pregnancy or birth and 1 has an ambiguous outcome",
   "4 verified partner-commissioned control matches: 3 research additions + 1 upgraded existing record",
@@ -80,7 +82,10 @@
   "Husband hypnotizes or mind-controls wife: dedicated worldwide pass — 6 strong movies + 2 TV movies + 1 loose serial.",
   "Checked and excluded from “hypnotized to love”: “Shallow Hal” (2001), “Get Out” (2017), “Office Space” (1999), “Shaitaan” (2024).",
   "Checked and excluded from “husband controls wife”: “Dr. Damon’s Experiment” (1954), “Hypnotic” (2021), “Rosemary’s Baby” (1968), “Mesmerized”, “Take Her by Surprise”, “Perfect Little Angels”, “The Stepford Husbands”, “Possession” (2009), “The Hypnosis” (2023), “The Hypnotic Wife”, “Temptation of Wife” (2008–09), “Night of the Eagle” (1962).",
-  "Titles and regions still unresolved: “The Love Letter” 1999 vs 1998; no Bollywood hypnosis-into-romance; “Fantasy Island” S04E06; telenovela matches now confirmed: “El maleficio” original/remake and “Desejos de Mulher”; “Amore e ipnotismo” country/language unverified."
+  "Titles and regions still unresolved: “The Love Letter” 1999 vs 1998; no Bollywood hypnosis-into-romance; “Fantasy Island” S04E06; telenovela matches now confirmed: “El maleficio” original/remake and “Desejos de Mulher”; “Amore e ipnotismo” country/language unverified.",
+  "Rich-woman hypnosis / love-potion sweep: 16 accepted entries across six motive groups. The requested 30-plus target was not reachable without padding, so the catalog stops at the 16 source-supported entries and does not promote the near-miss list.",
+  "Rich-woman sweep caveats: “Interactive” still needs direct verification of the head doctor’s erotic motive; “Thirteen Women” needs wealth confirmation beyond Laura Stanhope; “Huwad”, “Amore e ipnotismo” and “Tee Ratra” retain explicit wealth uncertainty. “Secrets of the French Police” centers on supposed royal wealth rather than an actually rich victim, and “The Return of Richard Neal” only implies comfort.",
+  "Rich-woman sweep coverage: no verified entries were found for Latin America, East Asia, the Middle East, Africa, Oceania, Eastern Europe or Russia. Pre-1930 non-US silent cinema, 1970s–80s European sexploitation and short-form vertical dramas remain under-searched; four open leads were not promoted."
  ],
  "categories": [
   {
@@ -2577,6 +2582,48 @@
    "title": "Partner taken to a hypnotist — switched target or both",
    "count": 15,
    "desc": "A worldwide search found no exact match, two loose matches and 13 clearly labeled non-qualifying near-misses. Existing titles are merged rather than duplicated.",
+   "groups": []
+  },
+  {
+   "n": 49,
+   "title": "Rich woman hypnotized — money / inheritance / fraud",
+   "count": 8,
+   "desc": "Eight cases in which a wealthy woman, heiress or supposed royal target is hypnotized or mesmerized as part of theft, inheritance fraud, blackmail or extortion. Wealth caveats remain visible on low-confidence entries.",
+   "groups": []
+  },
+  {
+   "n": 50,
+   "title": "Rich woman hypnotized — sex / erotic exploitation",
+   "count": 2,
+   "desc": "Two films involving a wealthy woman placed under hypnosis in an erotic-exploitation context; the motive in “Interactive” remains only medium confidence.",
+   "groups": []
+  },
+  {
+   "n": 51,
+   "title": "Rich woman hypnotized — love / marriage",
+   "count": 1,
+   "desc": "One high-confidence forced-remarriage case involving a hypnotized socialite.",
+   "groups": []
+  },
+  {
+   "n": 52,
+   "title": "Rich woman hypnotized — revenge / control / power",
+   "count": 2,
+   "desc": "Two cases in which hypnosis is used against socially prominent or possibly wealthy women for revenge, control, sexual use or political power.",
+   "groups": []
+  },
+  {
+   "n": 53,
+   "title": "Rich woman — love-potion romances",
+   "count": 1,
+   "desc": "One low-medium-confidence love-potion case; the mechanism is explicit, but the woman’s wealth is unverified.",
+   "groups": []
+  },
+  {
+   "n": 54,
+   "title": "Husband hypnotizes wife — rich-woman sweep",
+   "count": 2,
+   "desc": "Two husband-directed wife-hypnosis cases retained with explicit low-confidence wealth or gain caveats.",
    "groups": []
   }
  ],
@@ -6074,13 +6121,384 @@
      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/BungledHypnotism"
     }
    ]
+  },
+  {
+   "cat": 49,
+   "title": "Whirlpool",
+   "year": "1949",
+   "meta": "Film · United States · English",
+   "subgroup": "Money / inheritance / fraud",
+   "character": "Ann Sutton · Hypnotist: David Korvo",
+   "summary": "Ann Sutton, wife of a wealthy Los Angeles psychoanalyst, is hypnotized by fraudulent astrologer and hypnotist David Korvo. He exploits and deepens her kleptomania, uses her to steal confidential patient records for blackmail, and frames her for murder.",
+   "tags": [
+    "Adult female hypnosis — R-rated-equivalent worldwide",
+    "Forcibly hypnotized to obey",
+    "Wife hypnotized / controlled by a therapist",
+    "Therapist hypnosis",
+    "Blackmail / extortion",
+    "High confidence"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Whirlpool_(1950_film)"
+    },
+    {
+     "name": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Whirlpool_(1950)"
+    }
+   ]
+  },
+  {
+   "cat": 49,
+   "title": "Charlie's Angels",
+   "year": "1976",
+   "meta": "TV episode · United States · English",
+   "subgroup": "Money / inheritance / fraud",
+   "character": "Grace Rodeheaver and Kelly Garrett · Hypnotist: Madame Dorian’s male assistant",
+   "summary": "Wealthy widows consult medium Madame Dorian; her male assistant hypnotizes them to extract financial information and steal from them. Kelly, undercover as a rich Texas oil heiress, is also hypnotized and turned against her team.",
+   "tags": [
+    "Forcibly hypnotized to obey",
+    "Theft / fraud",
+    "Wealthy widows",
+    "High confidence"
+   ],
+   "sources": [
+    {
+     "name": "IMDb",
+     "url": "https://www.imdb.com/title/tt0539260"
+    }
+   ],
+   "subtitle": "The Seance"
+  },
+  {
+   "cat": 49,
+   "title": "In the Grip of a Charlatan",
+   "year": "1913",
+   "meta": "Silent short · United States · English",
+   "subgroup": "Money / inheritance / fraud",
+   "character": "Anne Sinclair · Hypnotist: Swami Baroudi",
+   "summary": "Young heiress Anne Sinclair falls under fake occultist Swami Baroudi’s hypnotic spell. He commands her in trance to bring him her necklace, takes the jewels, and plans further extortion before she is rescued.",
+   "tags": [
+    "Forcibly hypnotized to obey",
+    "Heiress",
+    "Theft / extortion",
+    "High confidence"
+   ],
+   "sources": [
+    {
+     "name": "IMDb",
+     "url": "https://www.imdb.com/title/tt0233930"
+    }
+   ]
+  },
+  {
+   "cat": 49,
+   "title": "The Cheval Mystery",
+   "year": "1913",
+   "meta": "Silent short · United States · English",
+   "subgroup": "Money / inheritance / fraud",
+   "character": "Nana · Hypnotist: Gaston Cheval",
+   "summary": "Nana is placed under Gaston Cheval’s hypnotic spell while she stands to inherit her father’s mine fortune, which Cheval and accomplice Maurice Manon plan to divide between them.",
+   "tags": [
+    "Forcibly hypnotized to obey",
+    "Inheritance theft",
+    "Medium-high confidence"
+   ],
+   "sources": [
+    {
+     "name": "IMDb",
+     "url": "https://www.imdb.com/title/tt0328949"
+    }
+   ]
+  },
+  {
+   "cat": 49,
+   "title": "The Criminal Hypnotist",
+   "year": "1909",
+   "meta": "Silent short · United States · English",
+   "subgroup": "Money / inheritance / fraud",
+   "character": "The host’s daughter · Hypnotist: unnamed celebrated hypnotist",
+   "summary": "At a society reception, a celebrated hypnotist puts the host’s daughter into a trance and orders her to steal a large sum from her father’s desk. She cannot complete the theft, so he steals it himself; a doctor retraces her steps and exposes him.",
+   "tags": [
+    "Forcibly hypnotized to obey",
+    "Hypnotized into crime",
+    "Theft",
+    "High confidence"
+   ],
+   "sources": [
+    {
+     "name": "Italian Wikipedia",
+     "url": "https://it.wikipedia.org/wiki/The_Criminal_Hypnotist"
+    }
+   ]
+  },
+  {
+   "cat": 49,
+   "title": "Road to Rio",
+   "year": "1947",
+   "meta": "Film · United States · English",
+   "subgroup": "Money / inheritance / fraud",
+   "character": "Lucia Maria de Andrade · Hypnotist: Catherine Vail",
+   "summary": "Heiress Lucia Maria de Andrade is kept under hypnosis by her crooked guardian Catherine Vail, who plans to marry Lucia to Vail’s brother so the family can control Lucia and her fortune.",
+   "tags": [
+    "Hypnotized to love",
+    "Forcibly hypnotized to obey",
+    "Heiress",
+    "Forced marriage",
+    "High confidence"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Road_to_Rio"
+    },
+    {
+     "name": "IMDb",
+     "url": "https://www.imdb.com/title/tt0039776"
+    }
+   ]
+  },
+  {
+   "cat": 49,
+   "title": "Secrets of the French Police",
+   "year": "1932",
+   "meta": "Film · United States · English",
+   "subgroup": "Money / inheritance / fraud",
+   "character": "Eugenie Dorain · Hypnotist: Han Moloff",
+   "summary": "Criminal scientist Han Moloff kidnaps flower girl Eugenie Dorain and hypnotizes her into believing she is Princess Anastasia, intending to use the delusion to claim millions held in European banks.",
+   "note": "Low confidence on the wealth criterion: Eugenie is not actually rich; the scheme depends on her supposed royal wealth.",
+   "tags": [
+    "Forcibly hypnotized to obey",
+    "Royal-identity fraud",
+    "Low confidence · wealth"
+   ],
+   "sources": [
+    {
+     "name": "Letterboxd",
+     "url": "https://letterboxd.com/film/secrets-of-the-french-police/"
+    }
+   ]
+  },
+  {
+   "cat": 49,
+   "title": "The Return of Richard Neal",
+   "year": "1915",
+   "meta": "Silent short · United States · English",
+   "subgroup": "Money / inheritance / fraud",
+   "character": "Doris Blake · Hypnotist: Count Nikola",
+   "summary": "Count Nikola casts a mesmeric spell over art-gallery owner’s daughter Doris Blake, commanding her to steal a famous painting and later bring a large sum of money to his house. Mentalist Richard Neal breaks the spell.",
+   "note": "Medium-low confidence on wealth: being a gallery owner’s daughter suggests comfort, not certain riches.",
+   "tags": [
+    "Forcibly hypnotized to obey",
+    "Hypnotized into crime",
+    "Medium-low confidence · wealth"
+   ],
+   "sources": [
+    {
+     "name": "IMDb",
+     "url": "https://www.imdb.com/title/tt0005963"
+    }
+   ]
+  },
+  {
+   "cat": 50,
+   "title": "Devil Doll",
+   "year": "1964",
+   "meta": "Film · United Kingdom · English",
+   "subgroup": "Sex / erotic exploitation",
+   "character": "Marianne Horn · Hypnotist: The Great Vorelli",
+   "summary": "Stage hypnotist and magician the Great Vorelli hypnotizes wealthy heiress Marianne Horn, recognizes her fortune, later subdues her will at her aunt’s mansion, and sexually assaults her; she sinks into a semi-coma.",
+   "tags": [
+    "Adult female hypnosis — R-rated-equivalent worldwide",
+    "Forcibly hypnotized to obey",
+    "Heiress",
+    "Sexual exploitation",
+    "High confidence"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Devil_Doll_(film)"
+    },
+    {
+     "name": "The Free Dictionary Encyclopedia",
+     "url": "https://encyclopedia.thefreedictionary.com/Devil+Doll+(film)"
+    }
+   ]
+  },
+  {
+   "cat": 50,
+   "title": "Interactive",
+   "year": "1999",
+   "meta": "Adult film · United States · English",
+   "subgroup": "Sex / erotic exploitation",
+   "character": "Unnamed wealthy woman · Hypnotist: clinic head doctor",
+   "summary": "A wealthy woman enters a clinic because she has trouble sleeping and falls under the hypnotic spell of the head doctor.",
+   "note": "Medium confidence: wealth and hypnosis are explicit, but the doctor’s erotic exploitation is inferred from the adult genre and still needs direct plot verification.",
+   "tags": [
+    "Adult female hypnosis — R-rated-equivalent worldwide",
+    "Wife hypnotized / controlled by a therapist",
+    "Hypnotherapist / doctor",
+    "Medium confidence · motive"
+   ],
+   "sources": [
+    {
+     "name": "IMDb",
+     "url": "https://www.imdb.com/title/tt1342244"
+    }
+   ]
+  },
+  {
+   "cat": 51,
+   "title": "George of the Jungle 2",
+   "year": "2003",
+   "meta": "Film · United States · English",
+   "subgroup": "Love / marriage",
+   "character": "Ursula Stanhope · Hypnotist: Armando",
+   "summary": "Socialite Ursula Stanhope is hypnotized by Armando, hired by her mother Beatrice, to forget her husband George and believe that ex-fiancé Lyle is her true husband.",
+   "tags": [
+    "Hypnotized to love",
+    "Forcibly hypnotized to obey",
+    "Forced remarriage",
+    "High confidence"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/George_of_the_Jungle_2"
+    },
+    {
+     "name": "The JH Movie Collection Wiki",
+     "url": "https://the-jh-movie-collection-official.fandom.com/wiki/George_of_the_Jungle_2"
+    }
+   ]
+  },
+  {
+   "cat": 52,
+   "title": "Rasputin the Mad Monk",
+   "year": "1966",
+   "meta": "Film · United Kingdom · English",
+   "subgroup": "Revenge / control / power",
+   "character": "The Tsarina and Sonia · Hypnotist: Rasputin",
+   "summary": "Rasputin hypnotizes the Tsarina to replace her doctor with his ally Zargo, and repeatedly puts lady-in-waiting Sonia into trances for sexual use, to injure the heir Alexei, and finally to order her suicide.",
+   "tags": [
+    "Adult female hypnosis — R-rated-equivalent worldwide",
+    "Forcibly hypnotized to obey",
+    "Power / prestige",
+    "Sexual exploitation",
+    "High confidence"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Rasputin_the_Mad_Monk"
+    },
+    {
+     "name": "Hammer House of Horror Wiki",
+     "url": "https://hammerhouseofhorror.fandom.com/wiki/Rasputin:_The_Mad_Monk_(1966)"
+    }
+   ]
+  },
+  {
+   "cat": 52,
+   "title": "Thirteen Women",
+   "year": "1932",
+   "meta": "Film · United States · English",
+   "subgroup": "Revenge / control / power",
+   "character": "Laura Stanhope and former schoolmates · Hypnotist: Ursula Georgi",
+   "summary": "Ursula Georgi uses hypnotic suggestion to drive former schoolmates to suicide and murder as revenge for their racist bullying.",
+   "note": "Medium confidence on the wealth criterion: Laura Stanhope is coded rich through her Beverly Hills home and chauffeur, but the other victims’ wealth is not established.",
+   "tags": [
+    "Forcibly hypnotized to obey",
+    "Revenge",
+    "Medium confidence · victims’ wealth"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Thirteen_Women"
+    },
+    {
+     "name": "IMDb",
+     "url": "https://www.imdb.com/title/tt0023582"
+    }
+   ]
+  },
+  {
+   "cat": 53,
+   "title": "Huwad",
+   "year": "2024",
+   "meta": "Erotic film · Philippines · Tagalog",
+   "subgroup": "Love-potion romances",
+   "character": "Romina · Potion source: town folk healer",
+   "summary": "After learning that her husband has cheated, Romina obtains a love potion from the town folk healer; the potion works on everyone except her husband.",
+   "note": "Low-medium confidence on the wealth criterion: Romina’s wealth is unverified.",
+   "tags": [
+    "Love potion",
+    "Marriage repair",
+    "Low-medium confidence · wealth"
+   ],
+   "sources": [
+    {
+     "name": "FilmBook",
+     "url": "https://film-book.com/huwad-2024-movie-trailer-a-wife-uses-a-love-potion/"
+    }
+   ]
+  },
+  {
+   "cat": 54,
+   "title": "Amore e ipnotismo",
+   "year": "1912",
+   "meta": "Silent short · Italy · Italian",
+   "subgroup": "Husband hypnotizes wife",
+   "character": "Helen · Hypnotist: her doctor husband",
+   "summary": "A doctor husband hypnotizes his wife Helen to discover whether she is having an affair.",
+   "note": "Low confidence: the motive is domestic control and jealousy rather than clear material gain, and Helen’s wealth is unknown.",
+   "tags": [
+    "Husband hypnotizes / mind-controls wife",
+    "Female controlled by husband / boyfriend / ex-partner",
+    "Forcibly hypnotized to obey",
+    "Jealous interrogation",
+    "Low confidence · gain and wealth"
+   ],
+   "sources": [
+    {
+     "name": "IMDb",
+     "url": "https://www.imdb.com/title/tt0250531"
+    }
+   ]
+  },
+  {
+   "cat": 54,
+   "title": "Tee Ratra",
+   "year": "2010",
+   "meta": "Film · India · Marathi",
+   "subgroup": "Husband hypnotizes wife",
+   "character": "The wife · Hypnotist: psychiatrist hired by her husband",
+   "summary": "A suspicious husband hires his childhood friend, a psychiatrist, to hypnotize his wife and bring her subconscious forward until she reveals her secret.",
+   "note": "Low confidence on the wealth criterion: the wife’s wealth is unknown.",
+   "tags": [
+    "Husband hypnotizes / mind-controls wife",
+    "Female controlled by husband / boyfriend / ex-partner",
+    "Partner hires a third-party controller",
+    "Wife hypnotized / controlled by a therapist",
+    "Forcibly hypnotized to obey",
+    "Low confidence · wealth"
+   ],
+   "sources": [
+    {
+     "name": "IMDb",
+     "url": "https://www.imdb.com/title/tt2652964"
+    }
+   ]
   }
  ],
- "page_records": 708,
+ "page_records": 716,
  "title": "TV and Movie Research Catalog",
  "kicker": "Screen story-pattern index",
- "heading": "866 catalog records, sorted by the plot turn that matters.",
+ "heading": "882 catalog records, sorted by the plot turn that matters.",
  "lede": "A worldwide research snapshot spanning films, serials, television movies, series, soap operas and independent shorts.",
- "results": "708 unique named titles shown · 866 records in source snapshot",
- "cards": 708
+ "results": "716 unique named titles shown · 882 records in source snapshot",
+ "cards": 716
 }
