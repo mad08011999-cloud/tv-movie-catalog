@@ -1231,6 +1231,115 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "hypno-intimacy",
+   "label": "Hypnotized woman intimate with the hypnotist research",
+   "kind": "local",
+   "share_url": "sources/hypno-intimacy.json",
+   "description": "Adult women hypnotized (hypnosis, mesmerism or trance suggestion only) who are sexually intimate with the hypnotist or a man he directs while under hypnosis. Every confirmed match was already in the catalog; this source tags those cards and fills pregnant-at-end / kids-together / prior-kids fields.",
+   "dropped": [
+    {
+     "title": "A Wind from Wyoming",
+     "year": "1994",
+     "reason": "unverified: only Mental Block shows the sex under hypnosis; Léa's age unconfirmed"
+    },
+    {
+     "title": "El Gato con Gatas",
+     "year": "1992",
+     "reason": "unverified: single source; the butler, not the hypnotist, exploits the hypnotized wife"
+    },
+    {
+     "title": "Joy à Moscou",
+     "year": "1992",
+     "reason": "unverified: IMDb/BetaSeries only"
+    },
+    {
+     "title": "The Hypnotist",
+     "year": "1936",
+     "reason": "unverified: single IMDb synopsis"
+    },
+    {
+     "title": "The Mindblowers",
+     "year": "1970",
+     "reason": "unverified: single weak synopsis"
+    },
+    {
+     "title": "Tau kwai mou jeu 2",
+     "year": "2003",
+     "reason": "unverified: single IMDb synopsis"
+    },
+    {
+     "title": "Interactive",
+     "year": "1999",
+     "reason": "unverified: single IMDb synopsis"
+    },
+    {
+     "title": "Saimin",
+     "year": "1999",
+     "reason": "unverified: single source; victim's age unclear"
+    },
+    {
+     "title": "Murder, She Wrote “Death Casts a Spell”",
+     "year": "1984",
+     "reason": "unverified: the hypnosis claim is left unresolved"
+    },
+    {
+     "title": "Body of Influence",
+     "year": "1993",
+     "reason": "rejected: affair with the alter happens outside hypnosis"
+    },
+    {
+     "title": "À l'aventure",
+     "year": "2008",
+     "reason": "rejected: lovemaking not shown under hypnosis"
+    },
+    {
+     "title": "De Mesmer con amor",
+     "year": "",
+     "reason": "rejected: hypnosis worked only once; she pretended afterwards"
+    },
+    {
+     "title": "Health Nutz",
+     "year": "2011",
+     "reason": "rejected: suggestion fails"
+    },
+    {
+     "title": "Stalked by My Doctor: A Sleepwalker's Nightmare",
+     "year": "2019",
+     "reason": "rejected: sexsomnia, not hypnosis"
+    },
+    {
+     "title": "Black Magic / The Magician / Svengali",
+     "year": "",
+     "reason": "rejected: hypnotized into marriage but no intimacy shown"
+    },
+    {
+     "title": "Vampire titles (Dracula films, Vampyros Lesbos, etc.)",
+     "year": "",
+     "reason": "rejected: vampire thrall, not hypnosis"
+    },
+    {
+     "title": "Knock, The Snow White, Black Magic 2, Karn Sangini, Friday the 13th: The Series, El Zorro",
+     "year": "",
+     "reason": "rejected: magic / spells / cursed objects"
+    },
+    {
+     "title": "Kiss Kiss, CID Shankar",
+     "year": "",
+     "reason": "rejected: drugs"
+    },
+    {
+     "title": "Saimin Jutsu Zero and anime/teen titles",
+     "year": "",
+     "reason": "excluded: minors"
+    }
+   ],
+   "check": {
+    "raw_count": 11,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -1244,9 +1353,10 @@ window.CATALOG = {
   "occult-pregnancy-nearmiss": 3,
   "rich-wife-hypnosis": 45,
   "agegap-marriage": 18,
-  "older-man-hypnosis": 15
+  "older-man-hypnosis": 15,
+  "hypno-intimacy": 11
  },
- "raw_total": 3252,
+ "raw_total": 3263,
  "entry_count": 1951,
  "categories": [
   {
@@ -1259,7 +1369,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 179
+   "entry_count": 184
   },
   {
    "key": "walkin",
@@ -1343,7 +1453,7 @@ window.CATALOG = {
    "key": "cheat-control",
    "label": "Hypnotized / controlled into infidelity",
    "legend_label": "Hypnotized / controlled into infidelity",
-   "entry_count": 14
+   "entry_count": 17
   },
   {
    "key": "crime",
@@ -1356,6 +1466,12 @@ window.CATALOG = {
    "label": "Hypnotized to love",
    "legend_label": "Hypnotized to love",
    "entry_count": 150
+  },
+  {
+   "key": "hypno-intimacy",
+   "label": "Hypnotized woman intimate with the hypnotist or the man he directs",
+   "legend_label": "Hypnotized woman intimate with the hypnotist or the man he directs",
+   "entry_count": 11
   },
   {
    "key": "medical",
@@ -4510,13 +4626,21 @@ window.CATALOG = {
    ],
    "method": "hypnotherapy misuse",
    "kids_status": "unknown",
+   "kids_together": "no",
+   "married": "no",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "no pregnancy in the cited summaries",
+   "evidence": "2+ independent sources (Variety, TV Tropes, WilfMovies)",
+   "fit_note": "Hypnotized-intimacy: psychiatrist Seok-won has sex with married patient Ji-su while she is under hypnosis; when he later tries without hypnosis, she stops",
    "format": "movie",
    "categories": [
     "love",
     "therapist-wife",
     "adult-hypnosis",
     "partner-control",
-    "index-50"
+    "index-50",
+    "hypno-intimacy",
+    "cheat-control"
    ],
    "sources": [
     {
@@ -4542,20 +4666,34 @@ window.CATALOG = {
     {
      "label": "moviefone.com",
      "url": "https://www.moviefone.com/movie/hypnotized/6xiSsZiEnZgh9dfWFgVMA/main/"
+    },
+    {
+     "label": "Variety review",
+     "url": "https://variety.com/2004/film/reviews/hypnotized-1200529788/"
+    },
+    {
+     "label": "TV Tropes",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Film/TheHypnotized"
+    },
+    {
+     "label": "WilfMovies",
+     "url": "https://wilfmovies.com/movies/the-hypnotized-2004/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "hypno-intimacy"
    ],
    "source_records": [
     "xla62ucxbx02u5:18",
     "ig6qlxqxoxvcxla:66",
     "ig6qlxqxoxvcxla:281",
     "ig6qlxqxoxvcxla:306",
-    "rich-wife-hypnosis:26"
+    "rich-wife-hypnosis:26",
+    "hypno-intimacy:6"
    ],
    "index_only": false,
    "local_only": false,
@@ -4768,6 +4906,51 @@ window.CATALOG = {
      "kids_status": "unknown",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypno-intimacy:6",
+     "source": "hypno-intimacy",
+     "label": "The Hypnotized / Faceless Beauty (2004)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Hypnotized / Faceless Beauty",
+     "subtitle": "",
+     "year": "2004",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis",
+      "cheat-control"
+     ],
+     "sources": [
+      {
+       "label": "Variety review",
+       "url": "https://variety.com/2004/film/reviews/hypnotized-1200529788/"
+      },
+      {
+       "label": "TV Tropes",
+       "url": "https://tvtropes.org/pmwiki/pmwiki.php/Film/TheHypnotized"
+      },
+      {
+       "label": "WilfMovies",
+       "url": "https://wilfmovies.com/movies/the-hypnotized-2004/"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "no",
+     "married": "no",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "no pregnancy in the cited summaries",
+     "evidence": "2+ independent sources (Variety, TV Tropes, WilfMovies)",
+     "fit_note": "Hypnotized-intimacy: psychiatrist Seok-won has sex with married patient Ji-su while she is under hypnosis; when he later tries without hypnosis, she stops",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -4938,6 +5121,42 @@ window.CATALOG = {
      "pregnancy_outcome": "unknown",
      "pregnancy_note": "cited sources do not mention a pregnancy",
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "hypno-intimacy:6": {
+     "title": "The Hypnotized / Faceless Beauty",
+     "year": "2004",
+     "match_title": "The Hypnotized / Faceless Beauty",
+     "match_year": "2004",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis",
+      "cheat-control"
+     ],
+     "sources": [
+      {
+       "label": "Variety review",
+       "url": "https://variety.com/2004/film/reviews/hypnotized-1200529788/"
+      },
+      {
+       "label": "TV Tropes",
+       "url": "https://tvtropes.org/pmwiki/pmwiki.php/Film/TheHypnotized"
+      },
+      {
+       "label": "WilfMovies",
+       "url": "https://wilfmovies.com/movies/the-hypnotized-2004/"
+      }
+     ],
+     "provenance": "Hypnotized-intimacy research pass, 30 Sep 2026 (adult women only; hypnosis/mesmerism/trance suggestion only — no possession, drugs, spells or vampire thrall)",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "no pregnancy in the cited summaries",
+     "kids_together": "no",
+     "kids_together_note": "",
+     "kids_status": "not stated",
+     "kids_note": "",
+     "married": "no",
+     "evidence": "2+ independent sources (Variety, TV Tropes, WilfMovies)",
+     "fit_note": "Hypnotized-intimacy: psychiatrist Seok-won has sex with married patient Ji-su while she is under hypnosis; when he later tries without hypnosis, she stops",
+     "format": "movie"
     }
    }
   },
@@ -97433,7 +97652,8 @@ window.CATALOG = {
    "categories": [
     "forced-obedience",
     "adult-hypnosis",
-    "tech"
+    "tech",
+    "hypno-intimacy"
    ],
    "sources": [
     {
@@ -97453,13 +97673,15 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "older-man-hypnosis"
+    "older-man-hypnosis",
+    "hypno-intimacy"
    ],
    "source_records": [
     "xla62ucxbx02u5:638",
     "ig6qlxqxoxvcxla:47",
     "ig6qlxqxoxvcxla:221",
-    "older-man-hypnosis:3"
+    "older-man-hypnosis:3",
+    "hypno-intimacy:3"
    ],
    "index_only": false,
    "local_only": false,
@@ -97591,6 +97813,37 @@ window.CATALOG = {
      "fit_note": "Age gap implied (middle-aged widower vs young couple); exact ages not stated",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-intimacy:3",
+     "source": "hypno-intimacy",
+     "label": "LFO (2013)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "LFO",
+     "subtitle": "",
+     "year": "2013",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_together": "no",
+     "married": "no",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in any plot summary",
+     "evidence": "2+ independent sources (Wikipedia, The Wee Review, Hollywood Reporter)",
+     "fit_note": "Hypnotized-intimacy: Robert's hypnotic sound frequency compels neighbour Linn, whom he orders to have sex with him",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -97681,6 +97934,28 @@ window.CATALOG = {
      "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
      "note": "",
      "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
+    },
+    "hypno-intimacy:3": {
+     "title": "LFO",
+     "year": "2013",
+     "match_title": "LFO",
+     "match_year": "2013",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [],
+     "provenance": "Hypnotized-intimacy research pass, 30 Sep 2026 (adult women only; hypnosis/mesmerism/trance suggestion only — no possession, drugs, spells or vampire thrall)",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in any plot summary",
+     "kids_together": "no",
+     "kids_together_note": "",
+     "kids_status": "not stated",
+     "kids_note": "",
+     "married": "no",
+     "evidence": "2+ independent sources (Wikipedia, The Wee Review, Hollywood Reporter)",
+     "fit_note": "Hypnotized-intimacy: Robert's hypnotic sound frequency compels neighbour Linn, whom he orders to have sex with him",
+     "format": "movie"
     }
    },
    "watch_links": [
@@ -99207,7 +99482,8 @@ window.CATALOG = {
    "categories": [
     "forced-obedience",
     "adult-hypnosis",
-    "medical"
+    "medical",
+    "hypno-intimacy"
    ],
    "sources": [
     {
@@ -99231,12 +99507,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "older-man-hypnosis"
+    "older-man-hypnosis",
+    "hypno-intimacy"
    ],
    "source_records": [
     "xla62ucxbx02u5:645",
     "ig6qlxqxoxvcxla:231",
-    "older-man-hypnosis:5"
+    "older-man-hypnosis:5",
+    "hypno-intimacy:4"
    ],
    "index_only": false,
    "local_only": false,
@@ -99354,6 +99632,37 @@ window.CATALOG = {
      "fit_note": "Age gap: Sarhan born 1914, Tharwat born 1940 (about 26 years)",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-intimacy:4",
+     "source": "hypno-intimacy",
+     "label": "Nisf Azraa / نصف عذراء (1961)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Nisf Azraa / نصف عذراء",
+     "subtitle": "",
+     "year": "1961",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [],
+     "kids_status": "no",
+     "kids_together": "no",
+     "married": "no",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "no pregnancy in the cited summaries",
+     "evidence": "2+ independent sources (Arabic Wikipedia, elCinema, dhliz)",
+     "fit_note": "Hypnotized-intimacy: a psychiatrist uses magnetic hypnosis to control and assault Zeinab and other women",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -99439,6 +99748,28 @@ window.CATALOG = {
      "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
      "note": "",
      "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
+    },
+    "hypno-intimacy:4": {
+     "title": "Nisf Azraa / نصف عذراء",
+     "year": "1961",
+     "match_title": "Nisf Azraa / نصف عذراء",
+     "match_year": "1961",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [],
+     "provenance": "Hypnotized-intimacy research pass, 30 Sep 2026 (adult women only; hypnosis/mesmerism/trance suggestion only — no possession, drugs, spells or vampire thrall)",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "no pregnancy in the cited summaries",
+     "kids_together": "no",
+     "kids_together_note": "",
+     "kids_status": "no",
+     "kids_note": "",
+     "married": "no",
+     "evidence": "2+ independent sources (Arabic Wikipedia, elCinema, dhliz)",
+     "fit_note": "Hypnotized-intimacy: a psychiatrist uses magnetic hypnosis to control and assault Zeinab and other women",
+     "format": "movie"
     }
    }
   },
@@ -103687,7 +104018,8 @@ window.CATALOG = {
     "adult-hypnosis",
     "index-52",
     "human",
-    "forced-obedience"
+    "forced-obedience",
+    "hypno-intimacy"
    ],
    "sources": [
     {
@@ -103711,12 +104043,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "older-man-hypnosis"
+    "older-man-hypnosis",
+    "hypno-intimacy"
    ],
    "source_records": [
     "xla62ucxbx02u5:679",
     "ig6qlxqxoxvcxla:151",
-    "older-man-hypnosis:1"
+    "older-man-hypnosis:1",
+    "hypno-intimacy:1"
    ],
    "index_only": false,
    "local_only": false,
@@ -103829,6 +104163,47 @@ window.CATALOG = {
      "fit_note": "Age gap: Lee was about 43, Shelley about 33 at filming; older-man fit is moderate",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypno-intimacy:1",
+     "source": "hypno-intimacy",
+     "label": "Rasputin the Mad Monk (1966)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Rasputin the Mad Monk",
+     "subtitle": "",
+     "year": "1966",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Rasputin_the_Mad_Monk"
+      },
+      {
+       "label": "Moria review",
+       "url": "https://moriareviews.com/horror/rasputin-the-mad-monk-1966.htm"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_note": "no children mentioned",
+     "kids_together": "no",
+     "married": "no",
+     "pregnant_end": "no",
+     "pregnant_end_note": "Sonia dies by his trance command",
+     "evidence": "2+ independent sources (Wikipedia, Moria review, Mental Block, Hammer wiki)",
+     "fit_note": "Hypnotized-intimacy: Rasputin uses lady-in-waiting Sonia to satisfy his sexual appetite while controlling her through trances",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -103922,6 +104297,37 @@ window.CATALOG = {
      "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
      "note": "",
      "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
+    },
+    "hypno-intimacy:1": {
+     "title": "Rasputin the Mad Monk",
+     "year": "1966",
+     "match_title": "Rasputin the Mad Monk",
+     "match_year": "1966",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Rasputin_the_Mad_Monk"
+      },
+      {
+       "label": "Moria review",
+       "url": "https://moriareviews.com/horror/rasputin-the-mad-monk-1966.htm"
+      }
+     ],
+     "provenance": "Hypnotized-intimacy research pass, 30 Sep 2026 (adult women only; hypnosis/mesmerism/trance suggestion only — no possession, drugs, spells or vampire thrall)",
+     "pregnant_end": "no",
+     "pregnant_end_note": "Sonia dies by his trance command",
+     "kids_together": "no",
+     "kids_together_note": "",
+     "kids_status": "not stated",
+     "kids_note": "no children mentioned",
+     "married": "no",
+     "evidence": "2+ independent sources (Wikipedia, Moria review, Mental Block, Hammer wiki)",
+     "fit_note": "Hypnotized-intimacy: Rasputin uses lady-in-waiting Sonia to satisfy his sexual appetite while controlling her through trances",
+     "format": "movie"
     }
    },
    "watch_links": [
@@ -123028,12 +123434,21 @@ window.CATALOG = {
    "confidence_flag": "Low confidence · adult title · relationship ambiguous",
    "summary": "Spencer Christian, described as being in love with Jacquette, learns a hypnotherapist’s technique and uses it on Jacquette and her female friend to control them sexually. The available sources do not establish that he is formally her boyfriend.",
    "character": "",
-   "provenance": "",
+   "provenance": "Hypnotized-intimacy research pass, 30 Sep 2026 (adult women only; hypnosis/mesmerism/trance suggestion only — no possession, drugs, spells or vampire thrall)",
    "note": "",
+   "kids_status": "not stated",
+   "kids_together": "no",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "no pregnancy in the cited synopses",
+   "evidence": "2 sources (IMDb listing and a TMDB-derived synopsis; the synopses may share text)",
+   "fit_note": "Hypnotized-intimacy: Spencer uses a hypnotherapist's technique on Jacquette and her friend for a sexual encounter, then struggles to release them from the trance",
    "format": "movie",
    "categories": [
     "partner-control",
-    "partner-commissioned"
+    "partner-commissioned",
+    "hypno-intimacy",
+    "adult-hypnosis"
    ],
    "sources": [
     {
@@ -123043,17 +123458,23 @@ window.CATALOG = {
     {
      "label": "Critifan",
      "url": "https://www.critifan.com/movies/590848"
+    },
+    {
+     "label": "The Couch Critic",
+     "url": "https://www.thecouchcritic.com/movie/590848"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "hypno-intimacy"
    ],
    "source_records": [
     "xla62ucxbx02u5:833",
     "ig6qlxqxoxvcxla:282",
-    "ig6qlxqxoxvcxla:297"
+    "ig6qlxqxoxvcxla:297",
+    "hypno-intimacy:11"
    ],
    "index_only": false,
    "local_only": false,
@@ -123135,6 +123556,42 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Jacquette",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-intimacy:11",
+     "source": "hypno-intimacy",
+     "label": "Jacquette (1976)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Jacquette",
+     "subtitle": "",
+     "year": "1976",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "The Couch Critic",
+       "url": "https://www.thecouchcritic.com/movie/590848"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "no",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "no pregnancy in the cited synopses",
+     "evidence": "2 sources (IMDb listing and a TMDB-derived synopsis; the synopses may share text)",
+     "fit_note": "Hypnotized-intimacy: Spencer uses a hypnotherapist's technique on Jacquette and her friend for a sexual encounter, then struggles to release them from the trance",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -123174,6 +123631,33 @@ window.CATALOG = {
      "group": "Leads / variants",
      "confidence": "Lead / variant",
      "note": ""
+    },
+    "hypno-intimacy:11": {
+     "title": "Jacquette",
+     "year": "1976",
+     "match_title": "Jacquette",
+     "match_year": "1976",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "The Couch Critic",
+       "url": "https://www.thecouchcritic.com/movie/590848"
+      }
+     ],
+     "provenance": "Hypnotized-intimacy research pass, 30 Sep 2026 (adult women only; hypnosis/mesmerism/trance suggestion only — no possession, drugs, spells or vampire thrall)",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "no pregnancy in the cited synopses",
+     "kids_together": "no",
+     "kids_together_note": "",
+     "kids_status": "not stated",
+     "kids_note": "",
+     "married": "not stated",
+     "evidence": "2 sources (IMDb listing and a TMDB-derived synopsis; the synopses may share text)",
+     "fit_note": "Hypnotized-intimacy: Spencer uses a hypnotherapist's technique on Jacquette and her friend for a sexual encounter, then struggles to release them from the trance",
+     "format": "movie"
     }
    }
   },
@@ -127420,7 +127904,8 @@ window.CATALOG = {
     "fantasy",
     "human",
     "index-49",
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "hypno-intimacy"
    ],
    "sources": [
     {
@@ -127449,13 +127934,15 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla",
     "worldwide-hypnosis",
     "rich-wife-hypnosis",
-    "older-man-hypnosis"
+    "older-man-hypnosis",
+    "hypno-intimacy"
    ],
    "source_records": [
     "ig6qlxqxoxvcxla:148",
     "worldwide-hypnosis:255",
     "rich-wife-hypnosis:9",
-    "older-man-hypnosis:2"
+    "older-man-hypnosis:2",
+    "hypno-intimacy:2"
    ],
    "index_only": false,
    "local_only": false,
@@ -127618,6 +128105,37 @@ window.CATALOG = {
      "fit_note": "Age gap: Haliday about 36, Yvonne Romain (Marianne) about 26",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-intimacy:2",
+     "source": "hypno-intimacy",
+     "label": "Devil Doll (1964)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Devil Doll",
+     "subtitle": "",
+     "year": "1964",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [],
+     "kids_status": "no",
+     "kids_together": "no",
+     "married": "no",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in any plot summary",
+     "evidence": "2+ independent sources (Wikipedia, Mental Block, Sassyflix)",
+     "fit_note": "Hypnotized-intimacy: the Great Vorelli sexually assaults heiress Marianne while she is under his hypnotic control",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -127751,6 +128269,28 @@ window.CATALOG = {
      "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
      "note": "",
      "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
+    },
+    "hypno-intimacy:2": {
+     "title": "Devil Doll",
+     "year": "1964",
+     "match_title": "Devil Doll",
+     "match_year": "1964",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [],
+     "provenance": "Hypnotized-intimacy research pass, 30 Sep 2026 (adult women only; hypnosis/mesmerism/trance suggestion only — no possession, drugs, spells or vampire thrall)",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in any plot summary",
+     "kids_together": "no",
+     "kids_together_note": "",
+     "kids_status": "no",
+     "kids_note": "",
+     "married": "no",
+     "evidence": "2+ independent sources (Wikipedia, Mental Block, Sassyflix)",
+     "fit_note": "Hypnotized-intimacy: the Great Vorelli sexually assaults heiress Marianne while she is under his hypnotic control",
+     "format": "movie"
     }
    },
    "watch_links": [
@@ -156060,10 +156600,29 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "S1E15 “The Mesmerizer”",
+     "air_date": "1998-01-07",
+     "gist": "Womanizing hypnotist Edgar Thurlow hypnotizes a wealthy client's wife and becomes intimate with her while keeping the dying husband in a trance (Mental Block numbers it episode 12).",
+     "number_verified": true
+    }
+   ],
+   "kids_status": "not stated",
+   "kids_together": "no",
+   "married": "no",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "no pregnancy in the episode summaries",
+   "evidence": "single source — only Mental Block describes the sex under hypnosis; TheTVDB and Wikipedia confirm the womanizing hypnotist who falls for the client's wife",
+   "source_conflict": "Mental Block numbers “The Mesmerizer” as episode 12; Wikipedia and TheTVDB list it as season 1, episode 15.",
+   "fit_note": "Hypnotized-intimacy: in “The Mesmerizer” hypnotist Edgar Thurlow, his power boosted by the cursed gun, hypnotizes a dying millionaire's wife and has sex with her",
    "format": "tv",
    "categories": [
     "fantasy",
-    "human"
+    "human",
+    "hypno-intimacy",
+    "adult-hypnosis",
+    "cheat-control"
    ],
    "sources": [
     {
@@ -156073,20 +156632,106 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Dead_Man%27s_Gun"
+    },
+    {
+     "label": "TheTVDB · S1E15 “The Mesmerizer”",
+     "url": "https://www.thetvdb.com/series/dead-mans-gun/episodes/121109"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypno-intimacy"
    ],
    "source_records": [
-    "worldwide-hypnosis:260"
+    "worldwide-hypnosis:260",
+    "hypno-intimacy:8"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:260",
+    "source": "worldwide-hypnosis",
+    "label": "Dead Man's Gun (1997–1999)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Dead Man's Gun",
+    "subtitle": "",
+    "year": "1997–1999",
+    "meta": "TV series · United States · English",
+    "summary": "Dead Man's Gun is a 1997-1999 American anthology series that aired on the Showtime cable television network. Scene notes: ...but his hypnotic abilities have become so potent that the man's wife is also hypnotized.",
+    "character": "",
+    "note": "",
+    "mechanism": "Traditional hypnosis (pendulum, watch, voice or gaze)",
+    "confidence_flag": "Medium · fan-wiki scene log; title/year confirmed on Wikipedia",
+    "categories": [
+     "fantasy",
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Dead_Man%27s_Gun"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dead_Man%27s_Gun"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypno-intimacy:8",
+     "source": "hypno-intimacy",
+     "label": "Dead Man's Gun (1997–1999)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dead Man's Gun",
+     "subtitle": "",
+     "year": "1997–1999",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis",
+      "cheat-control"
+     ],
+     "sources": [
+      {
+       "label": "TheTVDB · S1E15 “The Mesmerizer”",
+       "url": "https://www.thetvdb.com/series/dead-mans-gun/episodes/121109"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S1E15 “The Mesmerizer”",
+       "air_date": "1998-01-07",
+       "gist": "Womanizing hypnotist Edgar Thurlow hypnotizes a wealthy client's wife and becomes intimate with her while keeping the dying husband in a trance (Mental Block numbers it episode 12).",
+       "number_verified": true
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "no",
+     "married": "no",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "no pregnancy in the episode summaries",
+     "evidence": "single source — only Mental Block describes the sex under hypnosis; TheTVDB and Wikipedia confirm the womanizing hypnotist who falls for the client's wife",
+     "source_conflict": "Mental Block numbers “The Mesmerizer” as episode 12; Wikipedia and TheTVDB list it as season 1, episode 15.",
+     "fit_note": "Hypnotized-intimacy: in “The Mesmerizer” hypnotist Edgar Thurlow, his power boosted by the cursed gun, hypnotizes a dying millionaire's wife and has sex with her",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:260": {
      "title": "Dead Man's Gun",
@@ -156113,6 +156758,43 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypno-intimacy:8": {
+     "title": "Dead Man's Gun",
+     "year": "1997–1999",
+     "match_title": "Dead Man's Gun",
+     "match_year": "1997–1999",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis",
+      "cheat-control"
+     ],
+     "sources": [
+      {
+       "label": "TheTVDB · S1E15 “The Mesmerizer”",
+       "url": "https://www.thetvdb.com/series/dead-mans-gun/episodes/121109"
+      }
+     ],
+     "provenance": "Hypnotized-intimacy research pass, 30 Sep 2026 (adult women only; hypnosis/mesmerism/trance suggestion only — no possession, drugs, spells or vampire thrall)",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "no pregnancy in the episode summaries",
+     "kids_together": "no",
+     "kids_together_note": "",
+     "kids_status": "not stated",
+     "kids_note": "",
+     "married": "no",
+     "evidence": "single source — only Mental Block describes the sex under hypnosis; TheTVDB and Wikipedia confirm the womanizing hypnotist who falls for the client's wife",
+     "fit_note": "Hypnotized-intimacy: in “The Mesmerizer” hypnotist Edgar Thurlow, his power boosted by the cursed gun, hypnotizes a dying millionaire's wife and has sex with her",
+     "episodes": [
+      {
+       "episode": "S1E15 “The Mesmerizer”",
+       "air_date": "1998-01-07",
+       "gist": "Womanizing hypnotist Edgar Thurlow hypnotizes a wealthy client's wife and becomes intimate with her while keeping the dying husband in a trance (Mental Block numbers it episode 12).",
+       "number_verified": true
+      }
+     ],
+     "format": "tv",
+     "source_conflict": "Mental Block numbers “The Mesmerizer” as episode 12; Wikipedia and TheTVDB list it as season 1, episode 15."
     }
    }
   },
@@ -161186,30 +161868,128 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "S1E4 “The Spiral”",
+     "air_date": "2021",
+     "gist": "Ethan tests a hypnotic spiral signal on Emma, takes her home and has sex with her while she is entranced, then hypnotizes Betty into killing her boyfriend.",
+     "number_verified": true
+    }
+   ],
+   "kids_status": "not stated",
+   "kids_together": "no",
+   "married": "no",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "no pregnancy in the cited summaries",
+   "evidence": "single source — only Mental Block describes the sex under hypnosis; IMDb confirms the hypnotic-spiral premise",
+   "fit_note": "Hypnotized-intimacy: in S1E4 “The Spiral” Ethan's alien spiral signal puts Emma in a suggestible hypnotic trance and he has sex with her",
    "format": "tv",
    "categories": [
     "scifi",
     "crime",
-    "human"
+    "human",
+    "hypno-intimacy",
+    "adult-hypnosis"
    ],
    "sources": [
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/Evil_Deeds"
+    },
+    {
+     "label": "IMDb · “The Spiral”",
+     "url": "https://www.imdb.com/title/tt15022352/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypno-intimacy"
    ],
    "source_records": [
-    "worldwide-hypnosis:344"
+    "worldwide-hypnosis:344",
+    "hypno-intimacy:9"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:344",
+    "source": "worldwide-hypnosis",
+    "label": "Evil Deeds (2021)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Evil Deeds",
+    "subtitle": "",
+    "year": "2021",
+    "meta": "TV series · country unverified",
+    "summary": "A horror anthology series, in the tradition of Tales from the Crypt, Creepshow, and The Twilight Zone, with violent bloody tales introduced by a creepy host called The Hermit. Join him in his gothic mansion, as every episode he will tell you another of his wicked, twisted, tales of Evil Deeds. Scene notes: Mesmerized, she agrees to follow Ethan to his home. / In a trance, Betty kills her boyfriend.",
+    "character": "",
+    "note": "",
+    "mechanism": "Technological hypnosis (device, screen or signal)",
+    "confidence_flag": "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed",
+    "categories": [
+     "scifi",
+     "crime",
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Evil_Deeds"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypno-intimacy:9",
+     "source": "hypno-intimacy",
+     "label": "Evil Deeds (2021)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Evil Deeds",
+     "subtitle": "",
+     "year": "2021",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "IMDb · “The Spiral”",
+       "url": "https://www.imdb.com/title/tt15022352/"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S1E4 “The Spiral”",
+       "air_date": "2021",
+       "gist": "Ethan tests a hypnotic spiral signal on Emma, takes her home and has sex with her while she is entranced, then hypnotizes Betty into killing her boyfriend.",
+       "number_verified": true
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "no",
+     "married": "no",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "no pregnancy in the cited summaries",
+     "evidence": "single source — only Mental Block describes the sex under hypnosis; IMDb confirms the hypnotic-spiral premise",
+     "fit_note": "Hypnotized-intimacy: in S1E4 “The Spiral” Ethan's alien spiral signal puts Emma in a suggestible hypnotic trance and he has sex with her",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:344": {
      "title": "Evil Deeds",
@@ -161233,6 +162013,41 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypno-intimacy:9": {
+     "title": "Evil Deeds",
+     "year": "2021",
+     "match_title": "Evil Deeds",
+     "match_year": "2021",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "IMDb · “The Spiral”",
+       "url": "https://www.imdb.com/title/tt15022352/"
+      }
+     ],
+     "provenance": "Hypnotized-intimacy research pass, 30 Sep 2026 (adult women only; hypnosis/mesmerism/trance suggestion only — no possession, drugs, spells or vampire thrall)",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "no pregnancy in the cited summaries",
+     "kids_together": "no",
+     "kids_together_note": "",
+     "kids_status": "not stated",
+     "kids_note": "",
+     "married": "no",
+     "evidence": "single source — only Mental Block describes the sex under hypnosis; IMDb confirms the hypnotic-spiral premise",
+     "fit_note": "Hypnotized-intimacy: in S1E4 “The Spiral” Ethan's alien spiral signal puts Emma in a suggestible hypnotic trance and he has sex with her",
+     "episodes": [
+      {
+       "episode": "S1E4 “The Spiral”",
+       "air_date": "2021",
+       "gist": "Ethan tests a hypnotic spiral signal on Emma, takes her home and has sex with her while she is entranced, then hypnotizes Betty into killing her boyfriend.",
+       "number_verified": true
+      }
+     ],
+     "format": "tv"
     }
    }
   },
@@ -161871,6 +162686,12 @@ window.CATALOG = {
      "air_date": "1990-01-08",
      "gist": "A psychiatrist who hypnotizes and seduces his female patients is caught by a colleague and plots to avoid prison.",
      "number_verified": true
+    },
+    {
+     "episode": "S02E13 “What You Don't Know Can Kill You”",
+     "air_date": "1990-01-07",
+     "gist": "Dr. Crowley hypnotizes and seduces female patients (Mrs. Lowe believes he is her husband); caught by a colleague, he hypnotizes a patient into murder.",
+     "number_verified": true
     }
    ],
    "hypnotist": "lecherous psychiatrist Dr. Crowley",
@@ -161879,11 +162700,20 @@ window.CATALOG = {
    ],
    "method": "hypnotherapy misuse",
    "kids_status": "unknown",
+   "kids_together": "no",
+   "married": "no",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "no pregnancy in the episode summaries",
+   "evidence": "2+ independent sources (TVmaze, TV Guide, TheTVDB, Mental Block)",
+   "fit_note": "Hypnotized-intimacy: in S02E13 a lecherous psychiatrist, Dr. Crowley, hypnotizes and seduces female patients; Mrs. Lowe is made to believe he is her husband",
    "format": "tv",
    "categories": [
     "medical",
     "therapist-wife",
-    "index-50"
+    "index-50",
+    "hypno-intimacy",
+    "adult-hypnosis",
+    "cheat-control"
    ],
    "sources": [
     {
@@ -161897,16 +162727,30 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/List_of_Freddy%27s_Nightmares_episodes"
+    },
+    {
+     "label": "TVmaze · S02E13",
+     "url": "https://www.tvmaze.com/episodes/261588/freddys-nightmares-2x13-what-you-dont-know-can-kill-you"
+    },
+    {
+     "label": "TV Guide · season 2",
+     "url": "https://www.tvguide.com/tvshows/freddys-nightmares/episodes-season-2/1030263160/"
+    },
+    {
+     "label": "TheTVDB · S02E13",
+     "url": "https://thetvdb.com/series/freddys-nightmares/episodes/48512"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "worldwide-hypnosis",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "hypno-intimacy"
    ],
    "source_records": [
     "worldwide-hypnosis:356",
-    "rich-wife-hypnosis:34"
+    "rich-wife-hypnosis:34",
+    "hypno-intimacy:7"
    ],
    "index_only": false,
    "local_only": true,
@@ -161998,6 +162842,59 @@ window.CATALOG = {
      "kids_status": "unknown",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypno-intimacy:7",
+     "source": "hypno-intimacy",
+     "label": "Freddy's Nightmares (1988)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Freddy's Nightmares",
+     "subtitle": "",
+     "year": "1988",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis",
+      "cheat-control"
+     ],
+     "sources": [
+      {
+       "label": "TVmaze · S02E13",
+       "url": "https://www.tvmaze.com/episodes/261588/freddys-nightmares-2x13-what-you-dont-know-can-kill-you"
+      },
+      {
+       "label": "TV Guide · season 2",
+       "url": "https://www.tvguide.com/tvshows/freddys-nightmares/episodes-season-2/1030263160/"
+      },
+      {
+       "label": "TheTVDB · S02E13",
+       "url": "https://thetvdb.com/series/freddys-nightmares/episodes/48512"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S02E13 “What You Don't Know Can Kill You”",
+       "air_date": "1990-01-07",
+       "gist": "Dr. Crowley hypnotizes and seduces female patients (Mrs. Lowe believes he is her husband); caught by a colleague, he hypnotizes a patient into murder.",
+       "number_verified": true
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "no",
+     "married": "no",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "no pregnancy in the episode summaries",
+     "evidence": "2+ independent sources (TVmaze, TV Guide, TheTVDB, Mental Block)",
+     "fit_note": "Hypnotized-intimacy: in S02E13 a lecherous psychiatrist, Dr. Crowley, hypnotizes and seduces female patients; Mrs. Lowe is made to believe he is her husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -162071,6 +162968,50 @@ window.CATALOG = {
       }
      ],
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "hypno-intimacy:7": {
+     "title": "Freddy's Nightmares",
+     "year": "1988",
+     "match_title": "Freddy's Nightmares",
+     "match_year": "1988",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis",
+      "cheat-control"
+     ],
+     "sources": [
+      {
+       "label": "TVmaze · S02E13",
+       "url": "https://www.tvmaze.com/episodes/261588/freddys-nightmares-2x13-what-you-dont-know-can-kill-you"
+      },
+      {
+       "label": "TV Guide · season 2",
+       "url": "https://www.tvguide.com/tvshows/freddys-nightmares/episodes-season-2/1030263160/"
+      },
+      {
+       "label": "TheTVDB · S02E13",
+       "url": "https://thetvdb.com/series/freddys-nightmares/episodes/48512"
+      }
+     ],
+     "provenance": "Hypnotized-intimacy research pass, 30 Sep 2026 (adult women only; hypnosis/mesmerism/trance suggestion only — no possession, drugs, spells or vampire thrall)",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "no pregnancy in the episode summaries",
+     "kids_together": "no",
+     "kids_together_note": "",
+     "kids_status": "not stated",
+     "kids_note": "",
+     "married": "no",
+     "evidence": "2+ independent sources (TVmaze, TV Guide, TheTVDB, Mental Block)",
+     "fit_note": "Hypnotized-intimacy: in S02E13 a lecherous psychiatrist, Dr. Crowley, hypnotizes and seduces female patients; Mrs. Lowe is made to believe he is her husband",
+     "episodes": [
+      {
+       "episode": "S02E13 “What You Don't Know Can Kill You”",
+       "air_date": "1990-01-07",
+       "gist": "Dr. Crowley hypnotizes and seduces female patients (Mrs. Lowe believes he is her husband); caught by a colleague, he hypnotizes a patient into murder.",
+       "number_verified": true
+      }
+     ],
+     "format": "tv"
     }
    },
    "watch_links": [
@@ -190684,28 +191625,116 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "kids_status": "not stated",
+   "kids_together": "no",
+   "married": "no",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "no pregnancy in the cited summaries",
+   "evidence": "single source — only Mental Block describes the sex under hypnosis; IMDb and Prime Video confirm the hypnosis premise",
+   "fit_note": "Hypnotized-intimacy: Edmond learns hypnosis from “Carl”, hypnotizes Sarah and has sex with her while she is entranced",
    "format": "movie",
    "categories": [
-    "human"
+    "human",
+    "hypno-intimacy",
+    "adult-hypnosis"
    ],
    "sources": [
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/State_of_Consciousness"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt5640080/"
+    },
+    {
+     "label": "Prime Video",
+     "url": "https://www.primevideo.com/detail/State-Of-Consciousness/0U5XDYD8N3UK0QBVMWNCVKOIZA"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypno-intimacy"
    ],
    "source_records": [
-    "worldwide-hypnosis:830"
+    "worldwide-hypnosis:830",
+    "hypno-intimacy:10"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:830",
+    "source": "worldwide-hypnosis",
+    "label": "State of Consciousness (2023)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "State of Consciousness",
+    "subtitle": "",
+    "year": "2023",
+    "meta": "Film · country unverified",
+    "summary": "Investment broker Edmond Sanders learns the power of hypnosis from a mysterious man who goes by the name \"Carl\" and uses this new skill to get what he wants in life which leads him to something he definitely didn't see coming. Scene notes: Sarah snap out of her trance, scared of not knowing where she is. / ... and puts her into a hypnotic sleep.",
+    "character": "",
+    "note": "",
+    "mechanism": "Traditional hypnosis (pendulum, watch, voice or gaze)",
+    "confidence_flag": "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed",
+    "categories": [
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/State_of_Consciousness"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypno-intimacy:10",
+     "source": "hypno-intimacy",
+     "label": "State of Consciousness (2023)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "State of Consciousness",
+     "subtitle": "",
+     "year": "2023",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt5640080/"
+      },
+      {
+       "label": "Prime Video",
+       "url": "https://www.primevideo.com/detail/State-Of-Consciousness/0U5XDYD8N3UK0QBVMWNCVKOIZA"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "no",
+     "married": "no",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "no pregnancy in the cited summaries",
+     "evidence": "single source — only Mental Block describes the sex under hypnosis; IMDb and Prime Video confirm the hypnosis premise",
+     "fit_note": "Hypnotized-intimacy: Edmond learns hypnosis from “Carl”, hypnotizes Sarah and has sex with her while she is entranced",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:830": {
      "title": "State of Consciousness",
@@ -190727,6 +191756,37 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypno-intimacy:10": {
+     "title": "State of Consciousness",
+     "year": "2023",
+     "match_title": "State of Consciousness",
+     "match_year": "2023",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt5640080/"
+      },
+      {
+       "label": "Prime Video",
+       "url": "https://www.primevideo.com/detail/State-Of-Consciousness/0U5XDYD8N3UK0QBVMWNCVKOIZA"
+      }
+     ],
+     "provenance": "Hypnotized-intimacy research pass, 30 Sep 2026 (adult women only; hypnosis/mesmerism/trance suggestion only — no possession, drugs, spells or vampire thrall)",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "no pregnancy in the cited summaries",
+     "kids_together": "no",
+     "kids_together_note": "",
+     "kids_status": "not stated",
+     "kids_note": "",
+     "married": "no",
+     "evidence": "single source — only Mental Block describes the sex under hypnosis; IMDb and Prime Video confirm the hypnosis premise",
+     "fit_note": "Hypnotized-intimacy: Edmond learns hypnosis from “Carl”, hypnotizes Sarah and has sex with her while she is entranced",
+     "format": "movie"
     }
    },
    "watch_links": [
@@ -213784,7 +214844,8 @@ window.CATALOG = {
    "categories": [
     "adult-hypnosis",
     "human",
-    "forced-obedience"
+    "forced-obedience",
+    "hypno-intimacy"
    ],
    "sources": [
     {
@@ -213802,20 +214863,127 @@ window.CATALOG = {
     {
      "label": "CarterMatt",
      "url": "https://cartermatt.com/253621/"
+    },
+    {
+     "label": "All Things Law & Order recap",
+     "url": "https://allthingslawandorder.blogspot.com/2017/05/law-order-svu-spellbound-recap-review.html"
+    },
+    {
+     "label": "Distractify",
+     "url": "https://www.distractify.com/p/what-happened-to-declan-trask-svu"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "older-man-hypnosis"
+    "older-man-hypnosis",
+    "hypno-intimacy"
    ],
    "source_records": [
-    "older-man-hypnosis:11"
+    "older-man-hypnosis:11",
+    "hypno-intimacy:5"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "older-man-hypnosis:11",
+    "source": "older-man-hypnosis",
+    "label": "Law & Order: Special Victims Unit · S18E18 · “Spellbound” (2017)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Law & Order: Special Victims Unit",
+    "subtitle": "S18E18 · “Spellbound”",
+    "year": "2017",
+    "meta": "TV series · USA · English",
+    "summary": "Charismatic spiritual healer and hypnotist Declan Trask is accused of sexually assaulting client Abby, who says hypnosis left her unable to resist; a recording appears to show consent, another victim comes forward, and the case tests whether hypnosis can be proven as the method.",
+    "character": "Character: Abby (Kristen Hager) and Declan Trask (Stuart Townsend)",
+    "note": "",
+    "mechanism": "Spiritual healer / hypnotist",
+    "confidence_flag": "Corroborated · 4 sources",
+    "categories": [
+     "adult-hypnosis",
+     "human",
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia (season 18)",
+      "url": "https://en.wikipedia.org/wiki/Law_%26_Order:_Special_Victims_Unit_season_18"
+     },
+     {
+      "label": "TVmaze",
+      "url": "https://www.tvmaze.com/episodes/1071386/law-order-special-victims-unit-18x18-spellbound"
+     },
+     {
+      "label": "TV Fanatic review",
+      "url": "https://www.tvfanatic.com/law-and-order-svu-season-18-episode-18-review-spellbound/"
+     },
+     {
+      "label": "CarterMatt",
+      "url": "https://cartermatt.com/253621/"
+     }
+    ],
+    "episodes": [
+     {
+      "episode": "S18E18 “Spellbound”",
+      "air_date": "10 May 2017",
+      "gist": "hypnotist-healer accused of assaulting a hypnotized client; trial over whether hypnosis removed her ability to consent",
+      "number_verified": true
+     }
+    ],
+    "kids_status": "unknown",
+    "kids_together": "no",
+    "married": "no",
+    "pregnant_end": "no",
+    "pregnant_end_note": "no pregnancy in any recap",
+    "evidence": "2+ independent sources (Wikipedia, TVmaze, TV Fanatic, CarterMatt)",
+    "fit_note": "Age gap not stated (Townsend about 44, Hager about 32); loose older-man fit",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypno-intimacy:5",
+     "source": "hypno-intimacy",
+     "label": "Law & Order: Special Victims Unit (2017)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Law & Order: Special Victims Unit",
+     "subtitle": "",
+     "year": "2017",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "All Things Law & Order recap",
+       "url": "https://allthingslawandorder.blogspot.com/2017/05/law-order-svu-spellbound-recap-review.html"
+      },
+      {
+       "label": "Distractify",
+       "url": "https://www.distractify.com/p/what-happened-to-declan-trask-svu"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "no",
+     "married": "no",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in the episode",
+     "evidence": "2+ independent sources (Wikipedia, TVmaze, TV Fanatic, CarterMatt, All Things Law & Order, Distractify)",
+     "fit_note": "Hypnotized-intimacy: hypnotist Declan Trask has sex with client Abby under hypnosis/NLP influence and is convicted of first-degree rape despite a recording of apparent consent",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "older-man-hypnosis:11": {
      "title": "Law & Order: Special Victims Unit",
@@ -213868,6 +215036,37 @@ window.CATALOG = {
      "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
      "note": "",
      "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
+    },
+    "hypno-intimacy:5": {
+     "title": "Law & Order: Special Victims Unit",
+     "year": "2017",
+     "match_title": "Law & Order: Special Victims Unit",
+     "match_year": "2017",
+     "categories": [
+      "hypno-intimacy",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "All Things Law & Order recap",
+       "url": "https://allthingslawandorder.blogspot.com/2017/05/law-order-svu-spellbound-recap-review.html"
+      },
+      {
+       "label": "Distractify",
+       "url": "https://www.distractify.com/p/what-happened-to-declan-trask-svu"
+      }
+     ],
+     "provenance": "Hypnotized-intimacy research pass, 30 Sep 2026 (adult women only; hypnosis/mesmerism/trance suggestion only — no possession, drugs, spells or vampire thrall)",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in the episode",
+     "kids_together": "no",
+     "kids_together_note": "",
+     "kids_status": "not stated",
+     "kids_note": "",
+     "married": "no",
+     "evidence": "2+ independent sources (Wikipedia, TVmaze, TV Fanatic, CarterMatt, All Things Law & Order, Distractify)",
+     "fit_note": "Hypnotized-intimacy: hypnotist Declan Trask has sex with client Abby under hypnosis/NLP influence and is convicted of first-degree rape despite a recording of apparent consent",
+     "format": "tv"
     }
    }
   }
@@ -214253,7 +215452,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla",
     "india-catalog",
     "worldwide-hypnosis",
-    "older-man-hypnosis"
+    "older-man-hypnosis",
+    "hypno-intimacy"
    ],
    "groups": [
     {
@@ -214593,6 +215793,32 @@ window.CATALOG = {
         "Female hypnotized / mind-controlled by husband, boyfriend, ex-husband or ex-boyfriend",
         "Deep hypnosis / therapist boundary violation",
         "High confidence"
+       ],
+       "sources": [
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0419730"
+        },
+        {
+         "label": "KOFIC",
+         "url": "http://www.kofic.org/eng/films/index/filmsView.jsp?movieCd=20040625"
+        },
+        {
+         "label": "Letterboxd",
+         "url": "https://letterboxd.com/film/hypnotized/"
+        },
+        {
+         "label": "YesAsia",
+         "url": "https://www.yesasia.com/global/the-hypnotized-vcd-korea-version/1003882986-0-0-0-en/info.html"
+        },
+        {
+         "label": "AllMovie",
+         "url": "https://www.allmovie.com/movie/the-hypnotized-am54419"
+        },
+        {
+         "label": "moviefone.com",
+         "url": "https://www.moviefone.com/movie/hypnotized/6xiSsZiEnZgh9dfWFgVMA/main/"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -216554,13 +217780,41 @@ window.CATALOG = {
       }
      ],
      "from_source": "older-man-hypnosis"
+    },
+    {
+     "title": "Hypnotized woman intimate with the hypnotist (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1169,
+       "from_source": "hypno-intimacy"
+      },
+      {
+       "id": 1241,
+       "from_source": "hypno-intimacy"
+      },
+      {
+       "id": 1251,
+       "from_source": "hypno-intimacy"
+      },
+      {
+       "id": 795,
+       "from_source": "hypno-intimacy"
+      },
+      {
+       "id": 1656,
+       "from_source": "hypno-intimacy"
+      }
+     ],
+     "from_source": "hypno-intimacy"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 174,
     "india-catalog": null,
     "worldwide-hypnosis": null,
-    "older-man-hypnosis": null
+    "older-man-hypnosis": null,
+    "hypno-intimacy": null
    }
   },
   {
@@ -220527,6 +221781,16 @@ window.CATALOG = {
         "Hypnosis / sexual control",
         "Low confidence · adult title · relationship ambiguous"
        ],
+       "sources": [
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0276038"
+        },
+        {
+         "label": "Critifan",
+         "url": "https://www.critifan.com/movies/590848"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       }
      ]
@@ -223987,7 +225251,8 @@ window.CATALOG = {
     "india-catalog",
     "hypnotized-love",
     "rich-wife-hypnosis",
-    "older-man-hypnosis"
+    "older-man-hypnosis",
+    "hypno-intimacy"
    ],
    "groups": [
     {
@@ -224187,6 +225452,25 @@ window.CATALOG = {
       }
      ],
      "from_source": "older-man-hypnosis"
+    },
+    {
+     "title": "Hypnotized woman intimate with the hypnotist (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1169,
+       "from_source": "hypno-intimacy"
+      },
+      {
+       "id": 1251,
+       "from_source": "hypno-intimacy"
+      },
+      {
+       "id": 18,
+       "from_source": "hypno-intimacy"
+      }
+     ],
+     "from_source": "hypno-intimacy"
     }
    ],
    "declared_count_by_source": {
@@ -224194,7 +225478,8 @@ window.CATALOG = {
     "india-catalog": null,
     "hypnotized-love": null,
     "rich-wife-hypnosis": null,
-    "older-man-hypnosis": null
+    "older-man-hypnosis": null,
+    "hypno-intimacy": null
    }
   },
   {
@@ -224899,6 +226184,32 @@ window.CATALOG = {
         "Female hypnotized / mind-controlled by husband, boyfriend, ex-husband or ex-boyfriend",
         "Deep hypnosis / therapist boundary violation",
         "High confidence"
+       ],
+       "sources": [
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0419730"
+        },
+        {
+         "label": "KOFIC",
+         "url": "http://www.kofic.org/eng/films/index/filmsView.jsp?movieCd=20040625"
+        },
+        {
+         "label": "Letterboxd",
+         "url": "https://letterboxd.com/film/hypnotized/"
+        },
+        {
+         "label": "YesAsia",
+         "url": "https://www.yesasia.com/global/the-hypnotized-vcd-korea-version/1003882986-0-0-0-en/info.html"
+        },
+        {
+         "label": "AllMovie",
+         "url": "https://www.allmovie.com/movie/the-hypnotized-am54419"
+        },
+        {
+         "label": "moviefone.com",
+         "url": "https://www.moviefone.com/movie/hypnotized/6xiSsZiEnZgh9dfWFgVMA/main/"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -225726,6 +227037,71 @@ window.CATALOG = {
     "rich-wife-hypnosis": null,
     "older-man-hypnosis": null
    }
+  },
+  {
+   "title": "Hypnotized woman intimate with the hypnotist or the man he directs",
+   "category": "hypno-intimacy",
+   "description": "",
+   "notes": [],
+   "from_sources": [
+    "hypno-intimacy"
+   ],
+   "declared_count_by_source": {
+    "hypno-intimacy": null
+   },
+   "groups": [
+    {
+     "title": "Hypnotized woman intimate with the hypnotist (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1169,
+       "from_source": "hypno-intimacy"
+      },
+      {
+       "id": 832,
+       "from_source": "hypno-intimacy"
+      },
+      {
+       "id": 1241,
+       "from_source": "hypno-intimacy"
+      },
+      {
+       "id": 1251,
+       "from_source": "hypno-intimacy"
+      },
+      {
+       "id": 18,
+       "from_source": "hypno-intimacy"
+      },
+      {
+       "id": 795,
+       "from_source": "hypno-intimacy"
+      },
+      {
+       "id": 1951,
+       "from_source": "hypno-intimacy"
+      },
+      {
+       "id": 605,
+       "from_source": "hypno-intimacy"
+      },
+      {
+       "id": 612,
+       "from_source": "hypno-intimacy"
+      },
+      {
+       "id": 646,
+       "from_source": "hypno-intimacy"
+      },
+      {
+       "id": 1656,
+       "from_source": "hypno-intimacy"
+      }
+     ],
+     "from_source": "hypno-intimacy"
+    }
+   ]
   },
   {
    "title": "Medical / therapeutic hypnosis",

@@ -60,6 +60,8 @@ SOURCES = [
      "local": "sources/agegap-marriage.json", "required": False},
     {"id": "older-man-hypnosis", "label": "Young woman hypnotized by an older / rich man",
      "local": "sources/older-man-hypnosis.json", "required": False},
+    {"id": "hypno-intimacy", "label": "Hypnotized woman intimate with the hypnotist research",
+     "local": "sources/hypno-intimacy.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "

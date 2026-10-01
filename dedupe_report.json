@@ -355,6 +355,13 @@
      "subtitle": "",
      "year": "2004",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypno-intimacy:6",
+     "title": "The Hypnotized / Faceless Beauty",
+     "subtitle": "",
+     "year": "2004",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -13764,6 +13771,13 @@
      "subtitle": "",
      "year": "2013",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-intimacy:3",
+     "title": "LFO",
+     "subtitle": "",
+     "year": "2013",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -13988,6 +14002,13 @@
      "subtitle": "",
      "year": "1961",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-intimacy:4",
+     "title": "Nisf Azraa / نصف عذراء",
+     "subtitle": "",
+     "year": "1961",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -14494,6 +14515,13 @@
     },
     {
      "rid": "older-man-hypnosis:1",
+     "title": "Rasputin the Mad Monk",
+     "subtitle": "",
+     "year": "1966",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypno-intimacy:1",
      "title": "Rasputin the Mad Monk",
      "subtitle": "",
      "year": "1966",
@@ -16715,6 +16743,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-intimacy:11",
+     "title": "Jacquette",
+     "subtitle": "",
+     "year": "1976",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -17333,6 +17368,13 @@
      "subtitle": "",
      "year": "1964",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-intimacy:2",
+     "title": "Devil Doll",
+     "subtitle": "",
+     "year": "1964",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -18438,6 +18480,26 @@
    ]
   },
   {
+   "kept_id": 1169,
+   "kept": "Dead Man's Gun (1997–1999)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:260",
+     "title": "Dead Man's Gun",
+     "subtitle": "",
+     "year": "1997–1999"
+    },
+    {
+     "rid": "hypno-intimacy:8",
+     "title": "Dead Man's Gun",
+     "subtitle": "",
+     "year": "1997–1999",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 1177,
    "kept": "Dick Tracy (1950–1951)",
    "scope": "cross-source",
@@ -18478,6 +18540,26 @@
    ]
   },
   {
+   "kept_id": 1241,
+   "kept": "Evil Deeds (2021)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:344",
+     "title": "Evil Deeds",
+     "subtitle": "",
+     "year": "2021"
+    },
+    {
+     "rid": "hypno-intimacy:9",
+     "title": "Evil Deeds",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 1251,
    "kept": "Freddy's Nightmares (1988)",
    "scope": "cross-source",
@@ -18490,6 +18572,13 @@
     },
     {
      "rid": "rich-wife-hypnosis:34",
+     "title": "Freddy's Nightmares",
+     "subtitle": "",
+     "year": "1988",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypno-intimacy:7",
      "title": "Freddy's Nightmares",
      "subtitle": "",
      "year": "1988",
@@ -18653,6 +18742,26 @@
      "title": "Streets of Broken Lights",
      "subtitle": "",
      "year": "1995–2019",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1656,
+   "kept": "State of Consciousness (2023)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:830",
+     "title": "State of Consciousness",
+     "subtitle": "",
+     "year": "2023"
+    },
+    {
+     "rid": "hypno-intimacy:10",
+     "title": "State of Consciousness",
+     "subtitle": "",
+     "year": "2023",
      "matched_by": "match_title"
     }
    ]
@@ -18910,6 +19019,26 @@
      "matched_by": "match_title"
     }
    ]
+  },
+  {
+   "kept_id": 1951,
+   "kept": "Law & Order: Special Victims Unit (2017)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "older-man-hypnosis:11",
+     "title": "Law & Order: Special Victims Unit",
+     "subtitle": "S18E18 · “Spellbound”",
+     "year": "2017"
+    },
+    {
+     "rid": "hypno-intimacy:5",
+     "title": "Law & Order: Special Victims Unit",
+     "subtitle": "",
+     "year": "2017",
+     "matched_by": "match_title"
+    }
+   ]
   }
  ],
  "raw_counts": {
@@ -18923,11 +19052,12 @@
   "occult-pregnancy-nearmiss": 3,
   "rich-wife-hypnosis": 45,
   "agegap-marriage": 18,
-  "older-man-hypnosis": 15
+  "older-man-hypnosis": 15,
+  "hypno-intimacy": 11
  },
  "entry_count_after_dedupe": 1951,
  "within_source_groups": 1,
- "cross_source_groups": 756,
+ "cross_source_groups": 760,
  "index_only_records": 41,
  "local_only_records": 1086
 }
