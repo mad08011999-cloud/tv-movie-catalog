@@ -31,7 +31,7 @@
 
   // search index
   D.entries.forEach(e => {
-    e._hay = [e.title, e.subtitle, e.year, e.meta, e.summary, e.character, e.mechanism, e.confidence_flag, e.note, e.provenance,
+    e._hay = [e.title, e.subtitle, e.year, e.meta, e.summary, e.character, e.mechanism, e.confidence_flag, e.note, e.provenance, e.pregnancy_outcome, e.pregnancy_note,
       ...e.categories.map(c => catLabel[c] || c), ...(e.merged_from || []).map(m => [m.label, m.summary, m.character, m.note].join(' '))].join(' \u0001 ').toLowerCase();
   });
   const matches = e => (state.cat === 'all' || e.categories.includes(state.cat)) &&
@@ -45,6 +45,7 @@
     const tags = app.tags ? null : [
       ...e.categories.map(c => `<span class="tag ${esc(c)}">${esc(catLabel[c] || c)}</span>`),
       e.mechanism ? `<span class="tag flag">${esc(e.mechanism)}</span>` : '',
+      e.pregnancy_highlight ? `<span class="tag flag">Pregnancy × hypnosis</span>` : '',
       e.confidence_flag ? `<span class="tag flag">${esc(e.confidence_flag)}</span>` : ''].join('');
     const appTags = app.tags ? app.tags.map(t => {
       const key = Object.keys(catLabel).find(k => catLabel[k] === t || legendLabel[k] === t);
@@ -74,6 +75,7 @@
       ${ch ? `<p class="character">${lab(esc(ch))}</p>` : ''}
       ${summary ? `<p class="summary">${esc(summary)}</p>` : ''}
       ${note ? `<p class="entry-note">${lab(esc(note))}</p>` : ''}${idxNote}
+      ${e.pregnancy_outcome ? `<p class="entry-note"><strong>Pregnancy outcome:</strong> ${esc(e.pregnancy_outcome)}${e.pregnancy_note ? ' — ' + esc(e.pregnancy_note) : ''}</p>` : ''}
       <div class="tags">${tags || appTags}</div>
       ${sources.length ? `<div class="sources" aria-label="Sources">${sources.map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)} ↗</a>`).join('')}</div>` : ''}
       ${merged}

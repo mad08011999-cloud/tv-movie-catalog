@@ -25,6 +25,13 @@
      "subtitle": "",
      "year": "2001",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:866",
+     "title": "The Curse of the Jade Scorpion",
+     "subtitle": "",
+     "year": "2001",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -41,6 +48,13 @@
     },
     {
      "rid": "ig6qlxqxoxvcxla:2",
+     "title": "Our Man Flint",
+     "subtitle": "",
+     "year": "1966",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:662",
      "title": "Our Man Flint",
      "subtitle": "",
      "year": "1966",
@@ -81,6 +95,13 @@
     },
     {
      "rid": "ig6qlxqxoxvcxla:4",
+     "title": "Road to Rio",
+     "subtitle": "",
+     "year": "1947",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:729",
      "title": "Road to Rio",
      "subtitle": "",
      "year": "1947",
@@ -199,6 +220,13 @@
      "subtitle": "When Wedding Bells Thaw · S01E17",
      "year": "2010",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:8",
+     "title": "Adventure Time",
+     "subtitle": "",
+     "year": "",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -263,6 +291,26 @@
    ]
   },
   {
+   "kept_id": 14,
+   "kept": "Vampire Hunter D (1985)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:14",
+     "title": "Vampire Hunter D",
+     "subtitle": "吸血鬼ハンターD",
+     "year": "1985"
+    },
+    {
+     "rid": "worldwide-hypnosis:1023",
+     "title": "Vampire Hunter D",
+     "subtitle": "",
+     "year": "1985",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 18,
    "kept": "The Hypnotized / Faceless Beauty (2004)",
    "scope": "cross-source",
@@ -317,6 +365,26 @@
    ]
   },
   {
+   "kept_id": 20,
+   "kept": "Flash Gordon (1936)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:20",
+     "title": "Flash Gordon",
+     "subtitle": "1936 film serial · Chapter 3",
+     "year": "1936"
+    },
+    {
+     "rid": "worldwide-hypnosis:359",
+     "title": "Flash Gordon",
+     "subtitle": "",
+     "year": "1936",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 21,
    "kept": "Svengali (1927)",
    "scope": "cross-source",
@@ -332,6 +400,26 @@
      "title": "Svengali",
      "subtitle": "1927 German silent film",
      "year": "1927",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 23,
+   "kept": "Magpakailanman (2020)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:23",
+     "title": "Magpakailanman",
+     "subtitle": "“A Scandalous Crime”",
+     "year": "2020"
+    },
+    {
+     "rid": "worldwide-hypnosis:574",
+     "title": "Magpakailanman",
+     "subtitle": "",
+     "year": "",
      "matched_by": "title+year"
     }
    ]
@@ -455,6 +543,13 @@
      "subtitle": "",
      "year": "1931",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:821",
+     "title": "Svengali",
+     "subtitle": "",
+     "year": "1931",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -496,6 +591,33 @@
      "subtitle": "",
      "year": "1948",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:772",
+     "title": "Sleep, My Love",
+     "subtitle": "",
+     "year": "1948",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 35,
+   "kept": "The 5,000 Fingers of Dr. T (1953)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:35",
+     "title": "The 5,000 Fingers of Dr. T",
+     "subtitle": "",
+     "year": "1953"
+    },
+    {
+     "rid": "worldwide-hypnosis:879",
+     "title": "The 5,000 Fingers of Dr. T.",
+     "subtitle": "",
+     "year": "1953",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -526,6 +648,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:466",
      "title": "Svengali (1954)",
+     "subtitle": "",
+     "year": "1954",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:833",
+     "title": "Svengali",
      "subtitle": "",
      "year": "1954",
      "matched_by": "title+year"
@@ -562,13 +691,20 @@
      "subtitle": "",
      "year": "1960",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:892",
+     "title": "The Hypnotic Eye",
+     "subtitle": "",
+     "year": "1960",
+     "matched_by": "title+year"
     }
    ]
   },
   {
    "kept_id": 39,
    "kept": "Dark Shadows (1966–71)",
-   "scope": "within-source",
+   "scope": "cross-source",
    "members": [
     {
      "rid": "xla62ucxbx02u5:39",
@@ -581,6 +717,13 @@
      "title": "Dark Shadows",
      "subtitle": "",
      "year": "1966–71"
+    },
+    {
+     "rid": "worldwide-hypnosis:228",
+     "title": "Dark Shadows",
+     "subtitle": "",
+     "year": "1966",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -618,6 +761,26 @@
    ]
   },
   {
+   "kept_id": 41,
+   "kept": "Flash Gordon (1980)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:41",
+     "title": "Flash Gordon",
+     "subtitle": "",
+     "year": "1980"
+    },
+    {
+     "rid": "worldwide-hypnosis:353",
+     "title": "Flash Gordon",
+     "subtitle": "",
+     "year": "1980",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 42,
    "kept": "Revenge of the Stepford Wives (1980)",
    "scope": "cross-source",
@@ -634,6 +797,53 @@
      "subtitle": "",
      "year": "1980",
      "matched_by": "alias"
+    },
+    {
+     "rid": "worldwide-hypnosis:738",
+     "title": "Revenge of the Stepford Wives",
+     "subtitle": "",
+     "year": "1980",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 43,
+   "kept": "Svengali (1983)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:43",
+     "title": "Svengali",
+     "subtitle": "CBS TV movie",
+     "year": "1983"
+    },
+    {
+     "rid": "worldwide-hypnosis:818",
+     "title": "Svengali",
+     "subtitle": "",
+     "year": "1983",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 44,
+   "kept": "Murder, She Wrote (1984)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:44",
+     "title": "Murder, She Wrote",
+     "subtitle": "“Death Casts a Spell” · S01E10",
+     "year": "1984"
+    },
+    {
+     "rid": "worldwide-hypnosis:618",
+     "title": "Murder, She Wrote",
+     "subtitle": "",
+     "year": "1984",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -653,6 +863,26 @@
      "title": "The Stepford Children (1987)",
      "subtitle": "",
      "year": "1987",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 47,
+   "kept": "The Avengers (1998)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:47",
+     "title": "The Avengers",
+     "subtitle": "",
+     "year": "1998"
+    },
+    {
+     "rid": "worldwide-hypnosis:861",
+     "title": "The Avengers",
+     "subtitle": "",
+     "year": "1998",
      "matched_by": "title+year"
     }
    ]
@@ -681,6 +911,26 @@
      "subtitle": "",
      "year": "",
      "matched_by": "alias"
+    }
+   ]
+  },
+  {
+   "kept_id": 49,
+   "kept": "Love Boat: The Next Wave (1999)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:49",
+     "title": "Love Boat: The Next Wave",
+     "subtitle": "“Trances of a Lifetime” · S02E16",
+     "year": "1999"
+    },
+    {
+     "rid": "worldwide-hypnosis:539",
+     "title": "Love Boat: The Next Wave",
+     "subtitle": "",
+     "year": "1998–1999",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -735,6 +985,13 @@
      "subtitle": "",
      "year": "2004",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:824",
+     "title": "Stepford Wives",
+     "subtitle": "",
+     "year": "2004",
+     "matched_by": "alias"
     }
    ]
   },
@@ -857,6 +1114,13 @@
      "subtitle": "",
      "year": "2010",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:743",
+     "title": "Scott Pilgrim Vs. The World",
+     "subtitle": "",
+     "year": "2010",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -925,6 +1189,13 @@
      "subtitle": "",
      "year": "2022",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:297",
+     "title": "Don't Worry Darling",
+     "subtitle": "",
+     "year": "2022",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -942,6 +1213,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:237",
      "title": "The Mask of Diijon (1946)",
+     "subtitle": "",
+     "year": "1946",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:930",
+     "title": "The Mask of Diijon",
      "subtitle": "",
      "year": "1946",
      "matched_by": "title+year"
@@ -1299,6 +1577,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:254",
      "title": "Flower of Evil (2020)",
+     "subtitle": "",
+     "year": "2020",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:370",
+     "title": "Flower of Evil",
      "subtitle": "",
      "year": "2020",
      "matched_by": "title+year"
@@ -3152,6 +3437,13 @@
      "subtitle": "",
      "year": "2021",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:456",
+     "title": "Hypnotic",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -3216,6 +3508,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:824",
      "title": "Demon Seed (1977)",
+     "subtitle": "",
+     "year": "1977",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:257",
+     "title": "Demon Seed",
      "subtitle": "",
      "year": "1977",
      "matched_by": "title+year"
@@ -3411,6 +3710,13 @@
     },
     {
      "rid": "india-catalog:144",
+     "title": "Bandh Darwaza",
+     "subtitle": "",
+     "year": "1990",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:88",
      "title": "Bandh Darwaza",
      "subtitle": "",
      "year": "1990",
@@ -5243,6 +5549,13 @@
      "subtitle": "",
      "year": "2015–",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:649",
+     "title": "Naagin",
+     "subtitle": "",
+     "year": "2015",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -5363,6 +5676,26 @@
      "title": "Bhaagamathie",
      "subtitle": "",
      "year": "2018",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 227,
+   "kept": "Black Magic (1949)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:238",
+     "title": "Black Magic",
+     "subtitle": "",
+     "year": "1949"
+    },
+    {
+     "rid": "worldwide-hypnosis:135",
+     "title": "Black Magic",
+     "subtitle": "",
+     "year": "1949",
      "matched_by": "title+year"
     }
    ]
@@ -5518,6 +5851,13 @@
      "subtitle": "",
      "year": "1944",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:865",
+     "title": "The Climax",
+     "subtitle": "",
+     "year": "1944",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -5573,6 +5913,13 @@
      "subtitle": "",
      "year": "1949",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:1051",
+     "title": "Whirlpool",
+     "subtitle": "",
+     "year": "1950",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -5593,6 +5940,13 @@
      "subtitle": "",
      "year": "1956",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:949",
+     "title": "The She-Creature",
+     "subtitle": "",
+     "year": "1956",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -5610,6 +5964,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:471",
      "title": "The Undead (1957)",
+     "subtitle": "",
+     "year": "1957",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:988",
+     "title": "The Undead",
      "subtitle": "",
      "year": "1957",
      "matched_by": "title+year"
@@ -5653,6 +6014,13 @@
      "subtitle": "",
      "year": "1966",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:600",
+     "title": "Miss Muerte",
+     "subtitle": "",
+     "year": "1966",
+     "matched_by": "alias"
     }
    ]
   },
@@ -5693,6 +6061,13 @@
      "subtitle": "",
      "year": "2013",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:655",
+     "title": "Now You See Me",
+     "subtitle": "",
+     "year": "2013",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -5713,6 +6088,13 @@
      "subtitle": "",
      "year": "2012",
      "matched_by": "alias"
+    },
+    {
+     "rid": "worldwide-hypnosis:916",
+     "title": "The Mentalist",
+     "subtitle": "",
+     "year": "2008–2015",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -5767,6 +6149,13 @@
      "subtitle": "",
      "year": "1998",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:863",
+     "title": "The Bold and the Beautiful",
+     "subtitle": "",
+     "year": "1987",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -5827,6 +6216,13 @@
      "subtitle": "",
      "year": "1998–99",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:75",
+     "title": "Another World",
+     "subtitle": "",
+     "year": "1964–1999",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -6070,6 +6466,13 @@
      "subtitle": "",
      "year": "2014",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:712",
+     "title": "Qubool Hai",
+     "subtitle": "",
+     "year": "",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -6110,6 +6513,53 @@
      "subtitle": "",
      "year": "1931",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:278",
+     "title": "Dracula",
+     "subtitle": "",
+     "year": "1931",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 259,
+   "kept": "Dracula's Daughter (1936)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:274",
+     "title": "Dracula's Daughter",
+     "subtitle": "",
+     "year": "1936"
+    },
+    {
+     "rid": "worldwide-hypnosis:312",
+     "title": "Dracula's Daughter",
+     "subtitle": "",
+     "year": "1936",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 260,
+   "kept": "The Return of the Vampire (1943)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:275",
+     "title": "The Return of the Vampire",
+     "subtitle": "",
+     "year": "1943"
+    },
+    {
+     "rid": "worldwide-hypnosis:943",
+     "title": "The Return of The Vampire",
+     "subtitle": "",
+     "year": "1943",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -6144,6 +6594,13 @@
      "subtitle": "",
      "year": "1958",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:432",
+     "title": "Horror of Dracula",
+     "subtitle": "",
+     "year": "1958",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -6164,6 +6621,13 @@
      "subtitle": "",
      "year": "1960",
      "matched_by": "alias"
+    },
+    {
+     "rid": "worldwide-hypnosis:870",
+     "title": "The Brides of Dracula",
+     "subtitle": "",
+     "year": "1960",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -6181,6 +6645,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:499",
      "title": "Kiss of the Vampire (1963)",
+     "subtitle": "",
+     "year": "1963",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:513",
+     "title": "Kiss Of The Vampire",
      "subtitle": "",
      "year": "1963",
      "matched_by": "title+year"
@@ -6204,6 +6675,13 @@
      "subtitle": "",
      "year": "1966",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:309",
+     "title": "Dracula: Prince of Darkness",
+     "subtitle": "",
+     "year": "1966",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -6223,6 +6701,53 @@
      "title": "Dracula Has Risen from the Grave (1968)",
      "subtitle": "",
      "year": "1968",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:279",
+     "title": "Dracula Has Risen From The Grave",
+     "subtitle": "",
+     "year": "1968",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 266,
+   "kept": "Taste the Blood of Dracula (1970)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:281",
+     "title": "Taste the Blood of Dracula",
+     "subtitle": "",
+     "year": "1970"
+    },
+    {
+     "rid": "worldwide-hypnosis:841",
+     "title": "Taste the Blood of Dracula",
+     "subtitle": "",
+     "year": "1970",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 267,
+   "kept": "Scars of Dracula (1970)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:282",
+     "title": "Scars of Dracula",
+     "subtitle": "",
+     "year": "1970"
+    },
+    {
+     "rid": "worldwide-hypnosis:752",
+     "title": "Scars of Dracula",
+     "subtitle": "",
+     "year": "1970",
      "matched_by": "title+year"
     }
    ]
@@ -6248,6 +6773,66 @@
    ]
   },
   {
+   "kept_id": 270,
+   "kept": "Count Yorga, Vampire (1970)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:285",
+     "title": "Count Yorga, Vampire",
+     "subtitle": "",
+     "year": "1970"
+    },
+    {
+     "rid": "worldwide-hypnosis:208",
+     "title": "Count Yorga, Vampire",
+     "subtitle": "",
+     "year": "1970",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 271,
+   "kept": "Dracula A.D. 1972 (1972)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:286",
+     "title": "Dracula A.D. 1972",
+     "subtitle": "",
+     "year": "1972"
+    },
+    {
+     "rid": "worldwide-hypnosis:274",
+     "title": "Dracula A.D. 1972",
+     "subtitle": "",
+     "year": "1972",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 272,
+   "kept": "Buffy the Vampire Slayer — \"Buffy vs. Dracula\" (2000)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:288",
+     "title": "Buffy the Vampire Slayer — \"Buffy vs. Dracula\"",
+     "subtitle": "",
+     "year": "2000"
+    },
+    {
+     "rid": "worldwide-hypnosis:1071",
+     "title": "Buffy the Vampire Slayer",
+     "subtitle": "",
+     "year": "2000",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 273,
    "kept": "True Blood — \"Plaisir d'amour\" (2008)",
    "scope": "cross-source",
@@ -6261,6 +6846,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:504",
      "title": "True Blood (2008)",
+     "subtitle": "",
+     "year": "2008",
+     "matched_by": "alias"
+    },
+    {
+     "rid": "worldwide-hypnosis:1003",
+     "title": "True Blood",
      "subtitle": "",
      "year": "2008",
      "matched_by": "alias"
@@ -6291,6 +6883,13 @@
      "subtitle": "",
      "year": "2002–03 Brazil",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:670",
+     "title": "O Beijo do Vampiro",
+     "subtitle": "",
+     "year": "2002",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -6311,6 +6910,13 @@
      "subtitle": "",
      "year": "1991–92",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:1026",
+     "title": "Vamp",
+     "subtitle": "",
+     "year": "1991",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -6328,6 +6934,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:516",
      "title": "Curse of the Crimson Altar (1968)",
+     "subtitle": "",
+     "year": "1968",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:205",
+     "title": "Curse of the Crimson Altar",
      "subtitle": "",
      "year": "1968",
      "matched_by": "title+year"
@@ -6491,6 +7104,13 @@
      "subtitle": "",
      "year": "2018",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:822",
+     "title": "Suspiria",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -6528,6 +7148,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:527",
      "title": "Candyman (1992)",
+     "subtitle": "",
+     "year": "1992",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:153",
+     "title": "Candyman",
      "subtitle": "",
      "year": "1992",
      "matched_by": "title+year"
@@ -6650,6 +7277,13 @@
      "title": "Penny Dreadful",
      "subtitle": "",
      "year": "",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:673",
+     "title": "Penny Dreadful",
+     "subtitle": "",
+     "year": "2014–2016",
      "matched_by": "title+year"
     }
    ]
@@ -8030,6 +8664,13 @@
      "subtitle": "",
      "year": "1988",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:1038",
+     "title": "Veerana",
+     "subtitle": "",
+     "year": "1988",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -8183,6 +8824,26 @@
    ]
   },
   {
+   "kept_id": 354,
+   "kept": "Invaders from Mars (1953)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:379",
+     "title": "Invaders from Mars",
+     "subtitle": "",
+     "year": "1953"
+    },
+    {
+     "rid": "worldwide-hypnosis:451",
+     "title": "Invaders From Mars",
+     "subtitle": "",
+     "year": "1953",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 357,
    "kept": "Village of the Damned (1960)",
    "scope": "cross-source",
@@ -8219,6 +8880,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "alias"
+    },
+    {
+     "rid": "worldwide-hypnosis:793",
+     "title": "Star Trek",
+     "subtitle": "",
+     "year": "",
+     "matched_by": "alias"
     }
    ]
   },
@@ -8239,6 +8907,26 @@
      "subtitle": "",
      "year": "1971",
      "matched_by": "alias"
+    }
+   ]
+  },
+  {
+   "kept_id": 367,
+   "kept": "Star Trek: The Next Generation — \"The Game\" (1991)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:392",
+     "title": "Star Trek: The Next Generation — \"The Game\"",
+     "subtitle": "",
+     "year": "1991"
+    },
+    {
+     "rid": "worldwide-hypnosis:798",
+     "title": "Star Trek: The Next Generation",
+     "subtitle": "",
+     "year": "1987",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -8299,6 +8987,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "alias"
+    },
+    {
+     "rid": "worldwide-hypnosis:142",
+     "title": "Black Mirror",
+     "subtitle": "",
+     "year": "2011–2014",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -8580,6 +9275,13 @@
      "subtitle": "",
      "year": "1962",
      "matched_by": "alias"
+    },
+    {
+     "rid": "worldwide-hypnosis:1076",
+     "title": "Freud: The Secret Passion",
+     "subtitle": "",
+     "year": "1962",
+     "matched_by": "alias"
     }
    ]
   },
@@ -8627,6 +9329,26 @@
      "subtitle": "",
      "year": "2019",
      "matched_by": "alias"
+    }
+   ]
+  },
+  {
+   "kept_id": 403,
+   "kept": "Gilligan's Island — \"Ring Around Gilligan\" (1966)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:434",
+     "title": "Gilligan's Island — \"Ring Around Gilligan\"",
+     "subtitle": "",
+     "year": "1966"
+    },
+    {
+     "rid": "worldwide-hypnosis:400",
+     "title": "Gilligan's Island",
+     "subtitle": "",
+     "year": "1964–1967",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -9148,6 +9870,13 @@
      "title": "Aahat",
      "subtitle": "",
      "year": "1995–2015",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:10",
+     "title": "Aahat",
+     "subtitle": "",
+     "year": "1995",
      "matched_by": "title+year"
     }
    ]
@@ -10755,6 +11484,13 @@
      "subtitle": "",
      "year": "2020",
      "matched_by": "prefix"
+    },
+    {
+     "rid": "worldwide-hypnosis:615",
+     "title": "My Husband's Deadly Past",
+     "subtitle": "",
+     "year": "2020",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -11671,6 +12407,13 @@
      "subtitle": "",
      "year": "2003",
      "matched_by": "alias"
+    },
+    {
+     "rid": "worldwide-hypnosis:882",
+     "title": "The Fairly OddParents!",
+     "subtitle": "",
+     "year": "",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -11731,6 +12474,13 @@
      "subtitle": "",
      "year": "2000",
      "matched_by": "alias"
+    },
+    {
+     "rid": "worldwide-hypnosis:66",
+     "title": "Angel",
+     "subtitle": "",
+     "year": "1999–2004",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -12933,6 +13683,13 @@
      "subtitle": "",
      "year": "1976",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:169",
+     "title": "Charlie's Angels",
+     "subtitle": "",
+     "year": "1976–1981",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -13093,6 +13850,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:612",
+     "title": "Morgana",
+     "subtitle": "",
+     "year": "2008",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -13149,6 +13913,13 @@
     },
     {
      "rid": "ig6qlxqxoxvcxla:16",
+     "title": "Trilby",
+     "subtitle": "",
+     "year": "1915",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:1013",
      "title": "Trilby",
      "subtitle": "",
      "year": "1915",
@@ -13237,6 +14008,26 @@
    ]
   },
   {
+   "kept_id": 629,
+   "kept": "To Seduce an Enemy (2003)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:662",
+     "title": "To Seduce an Enemy",
+     "subtitle": "",
+     "year": "2003"
+    },
+    {
+     "rid": "worldwide-hypnosis:1006",
+     "title": "To Seduce An Enemy",
+     "subtitle": "",
+     "year": "2003",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 631,
    "kept": "El vampiro sangriento / The Bloody Vampire (1962)",
    "scope": "cross-source",
@@ -13253,6 +14044,113 @@
      "subtitle": "",
      "year": "1962 Mexico",
      "matched_by": "alias"
+    },
+    {
+     "rid": "worldwide-hypnosis:857",
+     "title": "The Bloody Vampire",
+     "subtitle": "",
+     "year": "1962",
+     "matched_by": "alias"
+    }
+   ]
+  },
+  {
+   "kept_id": 639,
+   "kept": "Le Septième Ciel / The Seventh Heaven (1997)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:672",
+     "title": "Le Septième Ciel / The Seventh Heaven",
+     "subtitle": "",
+     "year": "1997"
+    },
+    {
+     "rid": "worldwide-hypnosis:761",
+     "title": "Seventh Heaven",
+     "subtitle": "",
+     "year": "1997",
+     "matched_by": "alias"
+    }
+   ]
+  },
+  {
+   "kept_id": 641,
+   "kept": "Hypnotic / จิตสะกดแค้น (2025)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:674",
+     "title": "Hypnotic / จิตสะกดแค้น",
+     "subtitle": "",
+     "year": "2025"
+    },
+    {
+     "rid": "worldwide-hypnosis:463",
+     "title": "Hypnotic",
+     "subtitle": "",
+     "year": "2025",
+     "matched_by": "alias"
+    }
+   ]
+  },
+  {
+   "kept_id": 644,
+   "kept": "Die unsichtbaren Krallen des Dr. Mabuse / The Invisible Dr. Mabuse (1962)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:677",
+     "title": "Die unsichtbaren Krallen des Dr. Mabuse / The Invisible Dr. Mabuse",
+     "subtitle": "",
+     "year": "1962"
+    },
+    {
+     "rid": "worldwide-hypnosis:920",
+     "title": "The Invisible Dr. Mabuse",
+     "subtitle": "",
+     "year": "1962",
+     "matched_by": "alias"
+    }
+   ]
+  },
+  {
+   "kept_id": 645,
+   "kept": "Night of the Demon / Curse of the Demon (1957)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:678",
+     "title": "Night of the Demon / Curse of the Demon",
+     "subtitle": "",
+     "year": "1957"
+    },
+    {
+     "rid": "worldwide-hypnosis:638",
+     "title": "Night Of The Demon",
+     "subtitle": "",
+     "year": "1957",
+     "matched_by": "alias"
+    }
+   ]
+  },
+  {
+   "kept_id": 647,
+   "kept": "The Wild Wild West — \"The Night of the Steel Assassin\" (1966)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:680",
+     "title": "The Wild Wild West — \"The Night of the Steel Assassin\"",
+     "subtitle": "",
+     "year": "1966"
+    },
+    {
+     "rid": "worldwide-hypnosis:973",
+     "title": "The Wild Wild West",
+     "subtitle": "",
+     "year": "1965–1969",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -13277,6 +14175,26 @@
    ]
   },
   {
+   "kept_id": 649,
+   "kept": "Mission: Impossible — \"Elena\" (1966)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:682",
+     "title": "Mission: Impossible — \"Elena\"",
+     "subtitle": "",
+     "year": "1966"
+    },
+    {
+     "rid": "worldwide-hypnosis:593",
+     "title": "Mission: Impossible",
+     "subtitle": "",
+     "year": "1966–1973",
+     "matched_by": "alias"
+    }
+   ]
+  },
+  {
    "kept_id": 650,
    "kept": "The X-Files — \"Pusher\" (1996)",
    "scope": "cross-source",
@@ -13292,6 +14210,66 @@
      "title": "The X-Files “Pusher”",
      "subtitle": "",
      "year": "",
+     "matched_by": "alias"
+    }
+   ]
+  },
+  {
+   "kept_id": 651,
+   "kept": "Gotham (2016)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:684",
+     "title": "Gotham",
+     "subtitle": "",
+     "year": "2016"
+    },
+    {
+     "rid": "worldwide-hypnosis:401",
+     "title": "Gotham",
+     "subtitle": "",
+     "year": "2014–2019",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 653,
+   "kept": "Oldboy (올드보이) (2003)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:686",
+     "title": "Oldboy (올드보이)",
+     "subtitle": "",
+     "year": "2003"
+    },
+    {
+     "rid": "worldwide-hypnosis:666",
+     "title": "Oldboy",
+     "subtitle": "",
+     "year": "2003",
+     "matched_by": "alias"
+    }
+   ]
+  },
+  {
+   "kept_id": 657,
+   "kept": "Cure (キュア) (1997)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:690",
+     "title": "Cure (キュア)",
+     "subtitle": "",
+     "year": "1997"
+    },
+    {
+     "rid": "worldwide-hypnosis:214",
+     "title": "Cure",
+     "subtitle": "",
+     "year": "1997",
      "matched_by": "alias"
     }
    ]
@@ -13320,6 +14298,46 @@
      "subtitle": "",
      "year": "",
      "matched_by": "alias"
+    }
+   ]
+  },
+  {
+   "kept_id": 664,
+   "kept": "Dracula (1979)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:697",
+     "title": "Dracula",
+     "subtitle": "",
+     "year": "1979"
+    },
+    {
+     "rid": "worldwide-hypnosis:277",
+     "title": "Dracula",
+     "subtitle": "",
+     "year": "1979",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 665,
+   "kept": "El gran amor del conde Drácula / Count Dracula's Great Love (1972)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:698",
+     "title": "El gran amor del conde Drácula / Count Dracula's Great Love",
+     "subtitle": "",
+     "year": "1972"
+    },
+    {
+     "rid": "worldwide-hypnosis:210",
+     "title": "Count Dracula's Great Love",
+     "subtitle": "",
+     "year": "1974",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -13364,6 +14382,26 @@
    ]
   },
   {
+   "kept_id": 670,
+   "kept": "Kolchak: The Night Stalker — \"Bad Medicine\" (1974)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:703",
+     "title": "Kolchak: The Night Stalker — \"Bad Medicine\"",
+     "subtitle": "",
+     "year": "1974"
+    },
+    {
+     "rid": "worldwide-hypnosis:512",
+     "title": "Kolchak: The Night Stalker",
+     "subtitle": "",
+     "year": "1974–1975",
+     "matched_by": "alias"
+    }
+   ]
+  },
+  {
    "kept_id": 674,
    "kept": "FIR — ep 1302 \"Inspector Chautala Hypnotized\" (Year unresolved)",
    "scope": "cross-source",
@@ -13380,6 +14418,26 @@
      "subtitle": "",
      "year": "",
      "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 676,
+   "kept": "Sol de tentación (1996–97)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:710",
+     "title": "Sol de tentación",
+     "subtitle": "",
+     "year": "1996–97"
+    },
+    {
+     "rid": "worldwide-hypnosis:803",
+     "title": "Sol de tentación",
+     "subtitle": "",
+     "year": "1996",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -13404,6 +14462,26 @@
    ]
   },
   {
+   "kept_id": 681,
+   "kept": "Dance with Me (ダンスウィズミー) (2019)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:715",
+     "title": "Dance with Me (ダンスウィズミー)",
+     "subtitle": "",
+     "year": "2019"
+    },
+    {
+     "rid": "worldwide-hypnosis:236",
+     "title": "Dance With Me",
+     "subtitle": "",
+     "year": "2019",
+     "matched_by": "alias"
+    }
+   ]
+  },
+  {
    "kept_id": 686,
    "kept": "Looker (1981)",
    "scope": "cross-source",
@@ -13417,6 +14495,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:633",
      "title": "Looker (1981)",
+     "subtitle": "",
+     "year": "1981",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:537",
+     "title": "Looker",
      "subtitle": "",
      "year": "1981",
      "matched_by": "title+year"
@@ -13440,6 +14525,33 @@
      "subtitle": "",
      "year": "2023",
      "matched_by": "alias"
+    },
+    {
+     "rid": "worldwide-hypnosis:266",
+     "title": "Desire Catcher",
+     "subtitle": "",
+     "year": "2023",
+     "matched_by": "alias"
+    }
+   ]
+  },
+  {
+   "kept_id": 696,
+   "kept": "El Zorro, la espada y la rosa (2007)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:730",
+     "title": "El Zorro, la espada y la rosa",
+     "subtitle": "",
+     "year": "2007"
+    },
+    {
+     "rid": "worldwide-hypnosis:327",
+     "title": "El Zorro, La Espada y La Rosa",
+     "subtitle": "",
+     "year": "2007",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -13460,6 +14572,46 @@
      "subtitle": "",
      "year": "",
      "matched_by": "alias"
+    }
+   ]
+  },
+  {
+   "kept_id": 704,
+   "kept": "Subliminal Seduction (1996)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:738",
+     "title": "Subliminal Seduction",
+     "subtitle": "Also released as Flash Frame / The Corporation",
+     "year": "1996"
+    },
+    {
+     "rid": "worldwide-hypnosis:810",
+     "title": "Subliminal Seduction",
+     "subtitle": "",
+     "year": "1996",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 705,
+   "kept": "Friday the 13th: The Series (1989)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:739",
+     "title": "Friday the 13th: The Series",
+     "subtitle": "“Mesmer’s Bauble” · S02E20",
+     "year": "1989"
+    },
+    {
+     "rid": "worldwide-hypnosis:352",
+     "title": "Friday the 13th: The Series",
+     "subtitle": "",
+     "year": "1987–1990",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -13524,6 +14676,66 @@
    ]
   },
   {
+   "kept_id": 720,
+   "kept": "Birds of a Feather (1993)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:755",
+     "title": "Birds of a Feather",
+     "subtitle": "“Mind Over Matter”",
+     "year": "1993"
+    },
+    {
+     "rid": "worldwide-hypnosis:1065",
+     "title": "Birds of a Feather",
+     "subtitle": "",
+     "year": "",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 721,
+   "kept": "The Return of Count Yorga (1971)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:756",
+     "title": "The Return of Count Yorga",
+     "subtitle": "",
+     "year": "1971"
+    },
+    {
+     "rid": "worldwide-hypnosis:944",
+     "title": "The Return of Count Yorga",
+     "subtitle": "",
+     "year": "1971",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 723,
+   "kept": "Lust for a Vampire (1971)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:758",
+     "title": "Lust for a Vampire",
+     "subtitle": "",
+     "year": "1971"
+    },
+    {
+     "rid": "worldwide-hypnosis:571",
+     "title": "Lust For a Vampire",
+     "subtitle": "",
+     "year": "1971",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 726,
    "kept": "Daughters of Darkness (1971)",
    "scope": "cross-source",
@@ -13537,6 +14749,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:515",
      "title": "Daughters of Darkness (1971)",
+     "subtitle": "",
+     "year": "1971",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:241",
+     "title": "Daughters of Darkness",
      "subtitle": "",
      "year": "1971",
      "matched_by": "title+year"
@@ -13584,6 +14803,26 @@
    ]
   },
   {
+   "kept_id": 734,
+   "kept": "The Hunger (1999)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:769",
+     "title": "The Hunger",
+     "subtitle": "“Skin Deep” · S02E02",
+     "year": "1999"
+    },
+    {
+     "rid": "worldwide-hypnosis:908",
+     "title": "The Hunger",
+     "subtitle": "",
+     "year": "1997–2000",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 735,
    "kept": "Forever Knight (1996)",
    "scope": "cross-source",
@@ -13624,6 +14863,46 @@
    ]
   },
   {
+   "kept_id": 737,
+   "kept": "La momia azteca (1957)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:773",
+     "title": "La momia azteca",
+     "subtitle": "",
+     "year": "1957"
+    },
+    {
+     "rid": "worldwide-hypnosis:506",
+     "title": "La Momia Azteca",
+     "subtitle": "",
+     "year": "1957",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 739,
+   "kept": "Plus belle la vie (2008)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:775",
+     "title": "Plus belle la vie",
+     "subtitle": "Season 5, episodes 1053–1054",
+     "year": "2008"
+    },
+    {
+     "rid": "worldwide-hypnosis:687",
+     "title": "Plus Belle la Vie",
+     "subtitle": "",
+     "year": "2004–2022",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 741,
    "kept": "Bram Stoker's Dracula (1992)",
    "scope": "cross-source",
@@ -13654,6 +14933,13 @@
      "subtitle": "",
      "year": "1992",
      "matched_by": "alias"
+    },
+    {
+     "rid": "worldwide-hypnosis:131",
+     "title": "Bram Stoker's Dracula",
+     "subtitle": "",
+     "year": "1992",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -14323,6 +15609,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:60",
+     "title": "Amor en custodia",
+     "subtitle": "",
+     "year": "",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -14405,6 +15698,13 @@
      "subtitle": "",
      "year": "2021",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:1041",
+     "title": "Ultrasound",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -14439,6 +15739,13 @@
      "subtitle": "",
      "year": "1998",
      "matched_by": "alias"
+    },
+    {
+     "rid": "worldwide-hypnosis:820",
+     "title": "Stargate SG-1",
+     "subtitle": "",
+     "year": "1997–2007",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -14852,6 +16159,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "alias"
+    },
+    {
+     "rid": "worldwide-hypnosis:218",
+     "title": "Conde Vrolok",
+     "subtitle": "",
+     "year": "2009",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -15499,16 +16813,857 @@
      "matched_by": "alias"
     }
    ]
+  },
+  {
+   "kept_id": 819,
+   "kept": "How to Be Very, Very Popular (1955)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "ig6qlxqxoxvcxla:126",
+     "title": "How to Be Very, Very Popular",
+     "subtitle": "",
+     "year": "1955"
+    },
+    {
+     "rid": "worldwide-hypnosis:460",
+     "title": "How to Be Very, Very Popular",
+     "subtitle": "",
+     "year": "1955",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 836,
+   "kept": "Diagnosis: Murder S04E19 (no year)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "ig6qlxqxoxvcxla:293",
+     "title": "Diagnosis: Murder S04E19",
+     "subtitle": "",
+     "year": ""
+    },
+    {
+     "rid": "worldwide-hypnosis:256",
+     "title": "Diagnosis: Murder",
+     "subtitle": "",
+     "year": "1993–2001",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 854,
+   "kept": "Maleficent (no year)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "ig6qlxqxoxvcxla:671",
+     "title": "Maleficent",
+     "subtitle": "",
+     "year": ""
+    },
+    {
+     "rid": "worldwide-hypnosis:582",
+     "title": "Maleficent",
+     "subtitle": "",
+     "year": "2014",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 859,
+   "kept": "Amaravathi (2009)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:1",
+     "title": "Amaravathi",
+     "subtitle": "",
+     "year": "2009"
+    },
+    {
+     "rid": "worldwide-hypnosis:57",
+     "title": "Amaravathi",
+     "subtitle": "",
+     "year": "2009",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 860,
+   "kept": "Tarangini (1982)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:2",
+     "title": "Tarangini",
+     "subtitle": "",
+     "year": "1982"
+    },
+    {
+     "rid": "worldwide-hypnosis:855",
+     "title": "Tarangini",
+     "subtitle": "",
+     "year": "1982",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 865,
+   "kept": "Amir Garib (1974)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:8",
+     "title": "Amir Garib",
+     "subtitle": "",
+     "year": "1974"
+    },
+    {
+     "rid": "worldwide-hypnosis:59",
+     "title": "Amir Garib",
+     "subtitle": "",
+     "year": "1974",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 866,
+   "kept": "C.I.D. (1998–2018)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:9",
+     "title": "C.I.D.",
+     "subtitle": "eps. 914 \"Sammohan Se Hatya\" & 1363 \"Sammohit Chori\"",
+     "year": "1998–2018"
+    },
+    {
+     "rid": "worldwide-hypnosis:155",
+     "title": "C.I.D.",
+     "subtitle": "",
+     "year": "1998",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 867,
+   "kept": "Agent Raghav – Crime Branch (2015–16)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:10",
+     "title": "Agent Raghav – Crime Branch",
+     "subtitle": "",
+     "year": "2015–16"
+    },
+    {
+     "rid": "worldwide-hypnosis:49",
+     "title": "Agent Raghav – Crime Branch",
+     "subtitle": "",
+     "year": "2015–2016",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 868,
+   "kept": "Krishna Arjun (1998–2003)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:11",
+     "title": "Krishna Arjun",
+     "subtitle": "",
+     "year": "1998–2003"
+    },
+    {
+     "rid": "worldwide-hypnosis:509",
+     "title": "Krishna Arjun",
+     "subtitle": "",
+     "year": "1998–2003",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 869,
+   "kept": "Manohar Kahaniyan (2020)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:12",
+     "title": "Manohar Kahaniyan",
+     "subtitle": "",
+     "year": "2020"
+    },
+    {
+     "rid": "worldwide-hypnosis:580",
+     "title": "Manohar Kahaniyan",
+     "subtitle": "",
+     "year": "2020",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 870,
+   "kept": "Bahu Hamari Rajnikant (2016)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:15",
+     "title": "Bahu Hamari Rajnikant",
+     "subtitle": "",
+     "year": "2016"
+    },
+    {
+     "rid": "worldwide-hypnosis:97",
+     "title": "Bahu Hamari Rajnikant",
+     "subtitle": "",
+     "year": "2016",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 871,
+   "kept": "Jijaji Chhat Per Hain (2018–20)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:16",
+     "title": "Jijaji Chhat Per Hain",
+     "subtitle": "",
+     "year": "2018–20"
+    },
+    {
+     "rid": "worldwide-hypnosis:483",
+     "title": "Jijaji Chhat Per Hain",
+     "subtitle": "",
+     "year": "2018–2020",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 873,
+   "kept": "Geethanjali (2015)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:18",
+     "title": "Geethanjali",
+     "subtitle": "",
+     "year": "2015"
+    },
+    {
+     "rid": "worldwide-hypnosis:391",
+     "title": "Geethanjali",
+     "subtitle": "",
+     "year": "2015",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 874,
+   "kept": "Gutur Gu (2010–14)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:20",
+     "title": "Gutur Gu",
+     "subtitle": "",
+     "year": "2010–14"
+    },
+    {
+     "rid": "worldwide-hypnosis:415",
+     "title": "Gutur Gu",
+     "subtitle": "",
+     "year": "",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 875,
+   "kept": "Tu Tu Main Main (1994–2000)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:21",
+     "title": "Tu Tu Main Main",
+     "subtitle": "",
+     "year": "1994–2000"
+    },
+    {
+     "rid": "worldwide-hypnosis:997",
+     "title": "Tu Tu Main Main",
+     "subtitle": "",
+     "year": "",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 876,
+   "kept": "Superman (1980)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:23",
+     "title": "Superman",
+     "subtitle": "",
+     "year": "1980"
+    },
+    {
+     "rid": "worldwide-hypnosis:828",
+     "title": "Superman",
+     "subtitle": "",
+     "year": "1980",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 878,
+   "kept": "Bhairava Dweepam (1994)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:25",
+     "title": "Bhairava Dweepam",
+     "subtitle": "",
+     "year": "1994"
+    },
+    {
+     "rid": "worldwide-hypnosis:116",
+     "title": "Bhairava Dweepam",
+     "subtitle": "",
+     "year": "1994",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 879,
+   "kept": "Kondaveeti Donga (1990)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:26",
+     "title": "Kondaveeti Donga",
+     "subtitle": "",
+     "year": "1990"
+    },
+    {
+     "rid": "worldwide-hypnosis:531",
+     "title": "Kondaveeti Donga",
+     "subtitle": "",
+     "year": "1990",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 882,
+   "kept": "Agninakshathram (2004)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:30",
+     "title": "Agninakshathram",
+     "subtitle": "",
+     "year": "2004"
+    },
+    {
+     "rid": "worldwide-hypnosis:51",
+     "title": "Agninakshathram",
+     "subtitle": "",
+     "year": "",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 888,
+   "kept": "Tenali Rama (2017–20)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:45",
+     "title": "Tenali Rama",
+     "subtitle": "",
+     "year": "2017–20"
+    },
+    {
+     "rid": "worldwide-hypnosis:853",
+     "title": "Tenali Rama",
+     "subtitle": "",
+     "year": "2017",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 890,
+   "kept": "Prem Ya Paheli – Chandrakanta (2017)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:47",
+     "title": "Prem Ya Paheli – Chandrakanta",
+     "subtitle": "",
+     "year": "2017"
+    },
+    {
+     "rid": "worldwide-hypnosis:697",
+     "title": "Prem Ya Paheli – Chandrakanta",
+     "subtitle": "",
+     "year": "2017",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 891,
+   "kept": "Haiwaan: The Monster (2019)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:48",
+     "title": "Haiwaan: The Monster",
+     "subtitle": "",
+     "year": "2019"
+    },
+    {
+     "rid": "worldwide-hypnosis:418",
+     "title": "Haiwaan: The Monster",
+     "subtitle": "",
+     "year": "2019",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 892,
+   "kept": "Shaitani Rasmein (2024)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:49",
+     "title": "Shaitani Rasmein",
+     "subtitle": "",
+     "year": "2024"
+    },
+    {
+     "rid": "worldwide-hypnosis:756",
+     "title": "Shaitani Rasmein",
+     "subtitle": "",
+     "year": "2024",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 894,
+   "kept": "Aladdin – Naam Toh Suna Hoga (2018–21)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:51",
+     "title": "Aladdin – Naam Toh Suna Hoga",
+     "subtitle": "",
+     "year": "2018–21"
+    },
+    {
+     "rid": "worldwide-hypnosis:39",
+     "title": "Aladdin – Naam Toh Suna Hoga",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 908,
+   "kept": "Dracula 2012 (2013)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:100",
+     "title": "Dracula 2012",
+     "subtitle": "",
+     "year": "2013"
+    },
+    {
+     "rid": "worldwide-hypnosis:286",
+     "title": "Dracula 2012",
+     "subtitle": "",
+     "year": "2013",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 909,
+   "kept": "Nagina (1986)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:101",
+     "title": "Nagina",
+     "subtitle": "",
+     "year": "1986"
+    },
+    {
+     "rid": "worldwide-hypnosis:650",
+     "title": "Nagina",
+     "subtitle": "",
+     "year": "1986",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 910,
+   "kept": "Wohi Bhayanak Raat (1989)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:102",
+     "title": "Wohi Bhayanak Raat",
+     "subtitle": "",
+     "year": "1989"
+    },
+    {
+     "rid": "worldwide-hypnosis:1055",
+     "title": "Wohi Bhayanak Raat",
+     "subtitle": "",
+     "year": "1989",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 911,
+   "kept": "Khooni Dracula (1992)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:103",
+     "title": "Khooni Dracula",
+     "subtitle": "",
+     "year": "1992"
+    },
+    {
+     "rid": "worldwide-hypnosis:493",
+     "title": "Khooni Dracula",
+     "subtitle": "",
+     "year": "1992",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 912,
+   "kept": "Pyaar Kii Ye Ek Kahaani (2010–11)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:112",
+     "title": "Pyaar Kii Ye Ek Kahaani",
+     "subtitle": "",
+     "year": "2010–11"
+    },
+    {
+     "rid": "worldwide-hypnosis:723",
+     "title": "Pyaar Kii Ye Ek Kahaani",
+     "subtitle": "",
+     "year": "2010",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 913,
+   "kept": "Maitree (2023–24)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:113",
+     "title": "Maitree",
+     "subtitle": "",
+     "year": "2023–24"
+    },
+    {
+     "rid": "worldwide-hypnosis:579",
+     "title": "Maitree",
+     "subtitle": "",
+     "year": "2023",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 915,
+   "kept": "Daanav Hunters (2014)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:115",
+     "title": "Daanav Hunters",
+     "subtitle": "",
+     "year": "2014"
+    },
+    {
+     "rid": "worldwide-hypnosis:248",
+     "title": "Daanav Hunters",
+     "subtitle": "",
+     "year": "2014",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 916,
+   "kept": "Brahmarakshas (2016)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:116",
+     "title": "Brahmarakshas",
+     "subtitle": "",
+     "year": "2016"
+    },
+    {
+     "rid": "worldwide-hypnosis:145",
+     "title": "Brahmarakshas",
+     "subtitle": "",
+     "year": "2016",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 919,
+   "kept": "Nishi Trishna (1989)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:119",
+     "title": "Nishi Trishna",
+     "subtitle": "",
+     "year": "1989"
+    },
+    {
+     "rid": "worldwide-hypnosis:640",
+     "title": "Nishi Trishna",
+     "subtitle": "",
+     "year": "1989",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 921,
+   "kept": "Dharam Veer (1977)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:129",
+     "title": "Dharam Veer",
+     "subtitle": "",
+     "year": "1977"
+    },
+    {
+     "rid": "worldwide-hypnosis:268",
+     "title": "Dharam Veer",
+     "subtitle": "",
+     "year": "1977",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 922,
+   "kept": "CID Shankar (1970)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:130",
+     "title": "CID Shankar",
+     "subtitle": "",
+     "year": "1970"
+    },
+    {
+     "rid": "worldwide-hypnosis:179",
+     "title": "CID Shankar",
+     "subtitle": "",
+     "year": "1970",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 923,
+   "kept": "Kazhugu (1981)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:131",
+     "title": "Kazhugu",
+     "subtitle": "",
+     "year": "1981"
+    },
+    {
+     "rid": "worldwide-hypnosis:489",
+     "title": "Kazhugu",
+     "subtitle": "",
+     "year": "1981",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 925,
+   "kept": "Ra.One (2011)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:133",
+     "title": "Ra.One",
+     "subtitle": "",
+     "year": "2011"
+    },
+    {
+     "rid": "worldwide-hypnosis:711",
+     "title": "Ra.One",
+     "subtitle": "",
+     "year": "2011",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 926,
+   "kept": "Hero – Gayab Mode On (2020–21)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:135",
+     "title": "Hero – Gayab Mode On",
+     "subtitle": "",
+     "year": "2020–21"
+    },
+    {
+     "rid": "worldwide-hypnosis:430",
+     "title": "Hero – Gayab Mode On",
+     "subtitle": "",
+     "year": "2020",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 927,
+   "kept": "Ethirmarai (2018)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:138",
+     "title": "Ethirmarai",
+     "subtitle": "",
+     "year": "2018"
+    },
+    {
+     "rid": "worldwide-hypnosis:333",
+     "title": "Ethirmarai",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 930,
+   "kept": "Kudrat (1981)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:141",
+     "title": "Kudrat",
+     "subtitle": "",
+     "year": "1981"
+    },
+    {
+     "rid": "worldwide-hypnosis:530",
+     "title": "Kudrat",
+     "subtitle": "",
+     "year": "1981",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 931,
+   "kept": "Shree (2008–09)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:143",
+     "title": "Shree",
+     "subtitle": "",
+     "year": "2008–09"
+    },
+    {
+     "rid": "worldwide-hypnosis:783",
+     "title": "Shree",
+     "subtitle": "",
+     "year": "2008",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1428,
+   "kept": "M.A.N.T.I.S. (1994–1995)",
+   "scope": "within-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:563",
+     "title": "M.A.N.T.I.S.",
+     "subtitle": "",
+     "year": "1994–1995"
+    },
+    {
+     "rid": "worldwide-hypnosis:576",
+     "title": "M.A.N.T.I.S.",
+     "subtitle": "",
+     "year": "1994–1995",
+     "matched_by": "title+year"
+    }
+   ]
   }
  ],
  "raw_counts": {
   "xla62ucxbx02u5": 855,
   "ig6qlxqxoxvcxla": 974,
-  "india-catalog": 163
+  "india-catalog": 163,
+  "worldwide-hypnosis": 1085
  },
- "entry_count_after_dedupe": 935,
+ "entry_count_after_dedupe": 1872,
  "within_source_groups": 1,
- "cross_source_groups": 625,
- "index_only_records": 41,
- "local_only_records": 77
+ "cross_source_groups": 711,
+ "index_only_records": 38,
+ "local_only_records": 1014
 }

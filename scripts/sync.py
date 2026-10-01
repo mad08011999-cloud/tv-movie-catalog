@@ -5,8 +5,8 @@ the sources, de-duplicate records, and regenerate the static site deterministica
 Usage:  python scripts/sync.py [--out REPO_ROOT]
 
 Local sources (SOURCES entries with a "local" path) are hand-curated JSON files kept in the repo,
-e.g. sources/india-catalog.json. They are read, never scraped or rewritten, and merged like any other
-source: a local record that matches an existing title+year (or names one in "match_title") only adds
+e.g. sources/india-catalog.json and sources/worldwide-hypnosis.json. They are read, never scraped or rewritten, and merged like any other
+source: a local record that matches an existing title+year (or names one in "match_title"/"match_year") only adds
 missing fields, categories and source links; anything else becomes a new record.
 
 Generated (overwritten) files:
@@ -43,6 +43,8 @@ SOURCES = [
      "url": "https://muse.ai/s/tv-and-movie-research-catalog-ig6qlxqxoxvcxla", "required": False},
     # hand-curated records kept in the repo (not scraped); merged into the existing categories
     {"id": "india-catalog", "label": "India-only research additions", "local": "sources/india-catalog.json",
+     "required": False},
+    {"id": "worldwide-hypnosis", "label": "Worldwide female-hypnosis research", "local": "sources/worldwide-hypnosis.json",
      "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
@@ -450,7 +452,11 @@ def parse_local(src, payload, known_labels):
              "summary": x.get("summary", ""), "character": x.get("character", ""),
              "provenance": x.get("provenance", ""), "note": x.get("note", ""),
              "sources": [{"label": s_["label"], "url": s_["url"]} for s_ in x.get("sources", []) if s_.get("url")],
-             "youtube_ids": [], "match_title": x.get("match_title", ""), "raw": x}
+             "youtube_ids": [], "match_title": x.get("match_title", ""),
+             "match_year": x.get("match_year", ""), "raw": x}
+        for f in OPTIONAL_FIELDS:      # e.g. pregnancy outcome; only local sources carry these
+            if x.get(f):
+                r[f] = x[f]
         for s_ in r["sources"]:
             mm = YT.search(s_["url"])
             if mm and mm.group(1) not in r["youtube_ids"]:
@@ -586,10 +592,16 @@ def dedupe(records):
     # pass 3: local (hand-curated) records -> explicit match_title or exact title+year against any group,
     # then alias keys against full-catalog groups; otherwise their own group (no prefix matching)
     for r in [r for r in records if r["kind"] == "local"]:
-        yk = year_key(r["year"])
+        if r["raw"].get("standalone"):   # curated record that is a distinct work despite a shared title/alias
+            add(r, "local:" + norm_title(r["title"]))
+            continue
+        # "match_year" lets a curated record name the existing entry's year (e.g. a series-wide record
+        # whose range covers one storyline entry, or a release-year difference); its own year is kept
+        yk = year_key(r.get("match_year") or r["year"])
         tk = norm_title(r["match_title"] or r["title"])
         via = "match_title" if r["match_title"] else "title+year"
-        cands = [g for g in by_title.get(tk, []) + by_title.get("index:" + tk, []) if compatible(g, yk)]
+        cands = [g for g in by_title.get(tk, []) + by_title.get("index:" + tk, []) + by_title.get("local:" + tk, [])
+                 if compatible(g, yk)]
         if not cands and not r["match_title"]:
             via = "alias"
             for k in alias_keys(r["title"]):
@@ -612,6 +624,9 @@ def dedupe(records):
 FILL_FIELDS = ("subtitle", "year", "meta", "mechanism", "confidence_flag", "summary", "character",
                "provenance", "note")
 STORY_FIELDS = ("subtitle", "mechanism", "summary", "character", "note")
+# optional fields only some (local) sources carry; filled from the first member that has them, and only
+# written to an entry when present, so entries without them are unchanged
+OPTIONAL_FIELDS = ("pregnancy_outcome", "pregnancy_note", "pregnancy_highlight")
 
 
 def norm_summary(t):
@@ -646,6 +661,7 @@ def copy_info(m, primary, g, members):
     out |= {k: m[k] for k in ("title", "subtitle", "year", "meta", "summary", "character", "note", "mechanism",
                               "confidence_flag", "categories")}
     out["sources"] = srcs
+    out |= {f: m[f] for f in OPTIONAL_FIELDS if m.get(f)}
     out["distinct_story"] = bool(m["summary"]) and bool(primary["summary"]) and \
         norm_summary(m["summary"]) != norm_summary(primary["summary"])
     if m.get("index_title"):
@@ -671,6 +687,10 @@ def merge_group(g, new_id):
     for f in FILL_FIELDS:
         pool = same_story if f in STORY_FIELDS else members
         rec[f] = primary[f] or next((m[f] for m in pool if m[f]), "")
+    for f in OPTIONAL_FIELDS:
+        v = next((m[f] for m in sorted(members, key=lambda m: m is not primary) if m.get(f)), None)
+        if v:
+            rec[f] = v
     rec["format"] = primary["format"]
     rec["categories"] = []
     rec["sources"], seen_urls = [], set()
