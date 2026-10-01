@@ -6,6 +6,10 @@
   const catLabel = Object.fromEntries(D.categories.map(c => [c.key, c.label]));
   const legendLabel = Object.fromEntries(D.categories.map(c => [c.key, c.legend_label || c.label]));
   const PAGE = 120;
+  // every expander (<details>) starts collapsed and opens only when tapped: strip any 'open' attribute that
+  // arrives in source HTML (the muse.ai research notes ship with <details open>)
+  const closedDetails = html => String(html ?? '').replace(/<details\b([^>]*)>/gi, (m, a) =>
+    '<details' + a.replace(/\s+open(?:\s*=\s*(?:"[^"]*"|'[^']*'|[^\s>]+))?(?=\s|$)/gi, '') + '>');
   let state = {q:'', cat:'all', fmt:'all', src:'all', tag:'all', yr:'all', ymin:'', ymax:'', free:false, view:'grid', limit:PAGE};
 
   // A-Z ordering (done at render time so it survives every sync): accents folded, case-insensitive,
@@ -52,7 +56,7 @@
   const extra = (D.sources || []).filter(s => s.kind === 'index').map(s => `
     <details><summary>${esc(srcLabel[s.id])}: research notes (${s.boundaries.length})</summary><div class="note-body"><ul>${s.boundaries.map(b => `<li>${esc(b)}</li>`).join('')}</ul></div></details>
     <details><summary>${esc(srcLabel[s.id])}: snapshot figures (${s.stats.length})</summary><div class="note-body"><ul>${s.stats.map(b => `<li>${esc(b)}</li>`).join('')}</ul></div></details>`).join('');
-  $('#notes').innerHTML = D.source.research_notes_html + extra;
+  $('#notes').innerHTML = closedDetails(D.source.research_notes_html) + extra;
   $('#srcinfo').innerHTML = (D.sources || []).map(s => `<a href="${esc(s.share_url)}" target="_blank" rel="noopener">${esc(srcLabel[s.id])}</a> (${s.check.raw_count} raw${s.status !== 'live' ? ', ' + esc(s.status) : ''}) · ${s.kind === 'local' ? `<a href="${esc(s.share_url)}">curated JSON in repo</a>` : `<a href="original/${esc(s.id)}/index.html">archived copy</a>`}`).join(' · ') +
     ` · ${D.entry_count} records after removing duplicates`;
 
@@ -116,7 +120,7 @@
       const links = (m.sources || []).length ? ` <span class="clinks">${m.sources.map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label || 'Source')} ↗</a>`).join(' ')}</span>` : '';
       return `<li class="${m.distinct_story ? 'distinct' : ''}"><span class="csrc" title="${esc(srcLabel[m.source])}">${esc(srcShort[m.source])}</span> <strong class="clabel">${esc(m.label)}</strong>${i === 0 ? ' <span class="cmain">shown above</span>' : ''} — <span class="cplot">${plot}</span>${extra ? `<span class="cextra">${extra}</span>` : ''}${links}</li>`;
     };
-    const merged = copies.length ? `<details class="merged"${distinct ? ' open' : ''}><summary>Merged copies (${copies.length})${distinct ? ` · ${distinct + 1} different episodes/storylines` : ''}</summary><ol>${copies.map(copyRow).join('')}</ol></details>` : '';
+    const merged = copies.length ? `<details class="merged"><summary>Merged copies (${copies.length})${distinct ? ` · ${distinct + 1} different episodes/storylines` : ''}</summary><ol>${copies.map(copyRow).join('')}</ol></details>` : '';
     const idxNote = e.index_only ? `<p class="entry-note"><strong>Title index only:</strong> listed by ${esc(srcLabel[e.from_sources[0]] || 'the title index')} without plot details.</p>` : '';
     const badges = `<span class="srcbadges">${e.from_sources.map(s => `<span title="${esc(srcLabel[s])}">${esc(srcShort[s])}</span>`).join('')}</span>`;
     const lab = (s) => s.replace(/^(Character:|Note:|Source basis:)/, '<strong>$1</strong>');
@@ -238,4 +242,5 @@
   document.addEventListener('keydown', e => { if (e.key === 'Escape') close(); });
   $('#search').value = state.q;
   sync(false);
+  document.querySelectorAll('details[open]').forEach(d => { d.open = false; });   // safety net: nothing expanded on load
 })();
