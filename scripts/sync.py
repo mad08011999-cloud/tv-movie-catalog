@@ -74,6 +74,8 @@ SOURCES = [
      "local": "sources/field-fixes.json", "required": False},
     {"id": "hypnosis-assault", "label": "Hypnotized woman sexually assaulted under hypnosis",
      "local": "sources/hypnosis-assault.json", "required": False},
+    {"id": "mom-pregnancy", "label": "Mother with children gets pregnant (husband, new partner or lover)",
+     "local": "sources/mom-pregnancy.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
