@@ -32,6 +32,13 @@
      "subtitle": "",
      "year": "2001",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-leftovers:15",
+     "title": "The Curse of the Jade Scorpion",
+     "subtitle": "",
+     "year": "2001",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -429,6 +436,13 @@
      "subtitle": "1927 German silent film",
      "year": "1927",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-leftovers:18",
+     "title": "Svengali",
+     "subtitle": "",
+     "year": "1927",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -612,6 +626,13 @@
      "subtitle": "",
      "year": "1931",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-leftovers:19",
+     "title": "Svengali",
+     "subtitle": "",
+     "year": "1931",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -761,6 +782,13 @@
      "subtitle": "",
      "year": "1954",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-leftovers:20",
+     "title": "Svengali",
+     "subtitle": "",
+     "year": "1954",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -934,6 +962,13 @@
      "subtitle": "",
      "year": "1983",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-leftovers:21",
+     "title": "Svengali",
+     "subtitle": "",
+     "year": "1983",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -5912,6 +5947,13 @@
      "subtitle": "",
      "year": "1949",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-leftovers:16",
+     "title": "Black Magic",
+     "subtitle": "",
+     "year": "1949",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -14201,6 +14243,13 @@
      "subtitle": "",
      "year": "1992",
      "matched_by": "alias"
+    },
+    {
+     "rid": "hypno-leftovers:3",
+     "title": "Joy à Moscou / Joy in Moscow",
+     "subtitle": "",
+     "year": "1992",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -14221,6 +14270,13 @@
      "subtitle": "",
      "year": "2003",
      "matched_by": "prefix"
+    },
+    {
+     "rid": "hypno-leftovers:6",
+     "title": "Tau kwai mou jeu 2: Yau yan fan jeu",
+     "subtitle": "",
+     "year": "2003",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -14470,6 +14526,13 @@
      "subtitle": "",
      "year": "2003",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-leftovers:7",
+     "title": "To Seduce an Enemy",
+     "subtitle": "",
+     "year": "2003",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -14517,6 +14580,33 @@
      "subtitle": "",
      "year": "1993",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-leftovers:9",
+     "title": "Body of Influence",
+     "subtitle": "",
+     "year": "1993",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 635,
+   "kept": "À l'aventure / Adventure (2008)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:668",
+     "title": "À l'aventure / Adventure",
+     "subtitle": "",
+     "year": "2008"
+    },
+    {
+     "rid": "hypno-leftovers:10",
+     "title": "À l'aventure / Adventure",
+     "subtitle": "",
+     "year": "2008",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -14905,6 +14995,13 @@
      "subtitle": "",
      "year": "1971",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-leftovers:30",
+     "title": "Vampyros Lesbos",
+     "subtitle": "",
+     "year": "1971",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -15119,6 +15216,13 @@
      "subtitle": "",
      "year": "2007",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-leftovers:29",
+     "title": "El Zorro, la espada y la rosa",
+     "subtitle": "",
+     "year": "2007",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -15179,6 +15283,13 @@
      "subtitle": "",
      "year": "1970",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-leftovers:5",
+     "title": "The Mindblowers / Mind Blowers",
+     "subtitle": "",
+     "year": "1970",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -15226,6 +15337,13 @@
      "subtitle": "“Mesmer’s Bauble” · S02E20",
      "year": "1989",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-leftovers:28",
+     "title": "Friday the 13th: The Series",
+     "subtitle": "",
+     "year": "1989",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -17500,6 +17618,13 @@
      "subtitle": "",
      "year": "1936",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-leftovers:4",
+     "title": "The Hypnotist",
+     "subtitle": "",
+     "year": "1936",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -17601,6 +17726,13 @@
      "subtitle": "",
      "year": "1999",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-leftovers:8",
+     "title": "Interactive",
+     "subtitle": "",
+     "year": "1999",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -18026,6 +18158,26 @@
    ]
   },
   {
+   "kept_id": 894,
+   "kept": "Karn Sangini (2018–19)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:44",
+     "title": "Karn Sangini",
+     "subtitle": "",
+     "year": "2018–19"
+    },
+    {
+     "rid": "hypno-leftovers:27",
+     "title": "Karn Sangini",
+     "subtitle": "",
+     "year": "2018–19",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 895,
    "kept": "Tenali Rama (2017–20)",
    "scope": "cross-source",
@@ -18362,6 +18514,13 @@
      "subtitle": "",
      "year": "1970",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-leftovers:24",
+     "title": "CID Shankar",
+     "subtitle": "",
+     "year": "1970",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -18526,6 +18685,26 @@
    ]
   },
   {
+   "kept_id": 960,
+   "kept": "A Wind from Wyoming (1994)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:20",
+     "title": "A Wind from Wyoming",
+     "subtitle": "",
+     "year": "1994"
+    },
+    {
+     "rid": "hypno-leftovers:1",
+     "title": "A Wind from Wyoming",
+     "subtitle": "",
+     "year": "1994",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 996,
    "kept": "An Angel for Satan (1966)",
    "scope": "cross-source",
@@ -18641,6 +18820,13 @@
      "title": "Columbo",
      "subtitle": "S04E06 · “A Deadly State of Mind”",
      "year": "1975",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypno-leftovers:14",
+     "title": "Columbo",
+     "subtitle": "",
+     "year": "1968",
      "matched_by": "match_title"
     }
    ]
@@ -18767,7 +18953,7 @@
   },
   {
    "kept_id": 1164,
-   "kept": "De Mesmer con amor (no year)",
+   "kept": "De Mesmer con amor (2002)",
    "scope": "cross-source",
    "members": [
     {
@@ -18781,6 +18967,13 @@
      "title": "De Mesmer con amor",
      "subtitle": "",
      "year": "",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypno-leftovers:11",
+     "title": "De Mesmer con amor",
+     "subtitle": "",
+     "year": "2002",
      "matched_by": "match_title"
     }
    ]
@@ -18889,6 +19082,13 @@
      "subtitle": "",
      "year": "1992",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-leftovers:2",
+     "title": "El Gato con Gatas",
+     "subtitle": "",
+     "year": "1992",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -19007,6 +19207,26 @@
    ]
   },
   {
+   "kept_id": 1308,
+   "kept": "Health Nutz (2011–2013)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:421",
+     "title": "Health Nutz",
+     "subtitle": "",
+     "year": "2011–2013"
+    },
+    {
+     "rid": "hypno-leftovers:12",
+     "title": "Health Nutz",
+     "subtitle": "",
+     "year": "2011–2013",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 1314,
    "kept": "Hot Under the Collar (1992)",
    "scope": "cross-source",
@@ -19023,6 +19243,13 @@
      "subtitle": "",
      "year": "1992",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-leftovers:13",
+     "title": "Hot Under the Collar",
+     "subtitle": "",
+     "year": "1992",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -19082,6 +19309,46 @@
      "title": "Invaders from Mars",
      "subtitle": "",
      "year": "1986",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1396,
+   "kept": "Knock (2012)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:522",
+     "title": "Knock",
+     "subtitle": "",
+     "year": "2012"
+    },
+    {
+     "rid": "hypno-leftovers:25",
+     "title": "Knock",
+     "subtitle": "",
+     "year": "2012",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1402,
+   "kept": "Kiss Kiss (2019)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:528",
+     "title": "Kiss Kiss",
+     "subtitle": "",
+     "year": ""
+    },
+    {
+     "rid": "hypno-leftovers:23",
+     "title": "Kiss Kiss",
+     "subtitle": "",
+     "year": "2019",
      "matched_by": "match_title"
     }
    ]
@@ -19307,6 +19574,26 @@
    ]
   },
   {
+   "kept_id": 1657,
+   "kept": "Svengali (1914)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:831",
+     "title": "Svengali",
+     "subtitle": "",
+     "year": "1914"
+    },
+    {
+     "rid": "hypno-leftovers:22",
+     "title": "Svengali",
+     "subtitle": "",
+     "year": "1914",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 1659,
    "kept": "Super Models (1999)",
    "scope": "cross-source",
@@ -19410,6 +19697,33 @@
      "subtitle": "",
      "year": "1926",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-leftovers:17",
+     "title": "The Magician",
+     "subtitle": "",
+     "year": "1926",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1757,
+   "kept": "The Snow White (2010)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:951",
+     "title": "The Snow White",
+     "subtitle": "",
+     "year": "2010"
+    },
+    {
+     "rid": "hypno-leftovers:26",
+     "title": "The Snow White",
+     "subtitle": "",
+     "year": "2010",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -19681,11 +19995,12 @@
   "agegap-marriage": 18,
   "older-man-hypnosis": 36,
   "hypno-intimacy": 11,
-  "mother-kids-hypnosis": 38
+  "mother-kids-hypnosis": 38,
+  "hypno-leftovers": 30
  },
  "entry_count_after_dedupe": 1965,
  "within_source_groups": 1,
- "cross_source_groups": 784,
+ "cross_source_groups": 792,
  "index_only_records": 40,
  "local_only_records": 1100
 }

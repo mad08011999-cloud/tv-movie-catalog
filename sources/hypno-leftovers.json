@@ -1,0 +1,928 @@
+{
+ "id": "hypno-leftovers",
+ "label": "Hypnosis / mind-control leads left out of the hypno-intimacy pass",
+ "group_title": "Hypnosis / mind-control leftovers (Sep 2026)",
+ "description": "Titles left out of the hypno-intimacy pass (unverified or rejected for that category) that still involve hypnosis or mind control. All were already in the catalog; this source enriches them with pregnant-at-end, kids-together and prior-kids fields, second sources and better-fitting existing categories. Only To Seduce an Enemy is added to hypno-intimacy.",
+ "category_labels": {},
+ "records": [
+  {
+   "title": "A Wind from Wyoming",
+   "year": "1994",
+   "match_title": "A Wind from Wyoming",
+   "match_year": "1994",
+   "format": "movie",
+   "categories": [
+    "other-control",
+    "love",
+    "partner-commissioned",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Wind_from_Wyoming"
+    },
+    {
+     "label": "Cinébase (French synopsis)",
+     "url": "https://www.cinebaseinternational.com/ensavoirplus29/vent-wyoming.htm"
+    },
+    {
+     "label": "QfQ (Québec film guide)",
+     "url": "https://guide.qfq.com/prod=8534"
+    },
+    {
+     "label": "Films du Québec",
+     "url": "https://www.filmsquebec.com/films/vent-wyoming-andre-forcier/"
+    }
+   ],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "no pregnancy in any synopsis",
+   "kids_together": "yes",
+   "kids_together_note": "Marcel and Lizette are the parents of grown daughters Manon and Léa",
+   "kids_status": "yes",
+   "kids_note": "two daughters, Manon and Léa",
+   "married": "already married",
+   "married_note": "Lizette is Marcel's wife but has left him for the boxer Réo",
+   "evidence": "2+ independent sources for the hypnotist plot (Wikipedia, Cinébase, QfQ, Films du Québec, Mental Block); single source (Cinébase) for Marcel using Albert's hypnosis to sleep with his estranged wife Lizette",
+   "fit_note": "Canadian (Québec) French-language black comedy. The family hires stage hypnotist Albert the Great to win back their loved ones; according to one synopsis Marcel uses him on his wife Lizette, and Albert's spells eventually backfire on everyone. Not tagged hypno-intimacy because only one synopsis describes the intimacy",
+   "source_conflict": "Léa's age: QfQ says 17 and Films du Québec says 18, so the Mental Block scene between Léa and Albert is excluded under the adults-only rule; this card covers the adult mother Lizette only"
+  },
+  {
+   "title": "El Gato con Gatas",
+   "year": "1992",
+   "match_title": "El Gato con Gatas",
+   "match_year": "1992",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0273626/"
+    },
+    {
+     "label": "Québec Répertoire des films classés",
+     "url": "https://repertoire.cinema.mcc.gouv.qc.ca/film/el-gato-con-gatas-294036/"
+    }
+   ],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "no pregnancy in the plot summary",
+   "kids_together": "no",
+   "kids_together_note": "she leaves her husband and starts seeing the butler; no children mentioned",
+   "kids_status": "not stated",
+   "kids_note": "",
+   "married": "already married",
+   "married_note": "she is the hypnotist's wife and leaves him for the butler",
+   "evidence": "single source — only Mental Block describes the hypnosis plot; IMDb and the Québec film register confirm the title, 1992, Mexico and cast (Alfonso Zayas, Gabriela Goldsmith, César Bono)",
+   "fit_note": "Mexican sex comedy. A businessman hypnotizes his wife so he can go out with other women, and the butler takes advantage of her trance; she later pretends to be hypnotized to expose her husband. Not hypno-intimacy: the butler is neither the hypnotist nor directed by him"
+  },
+  {
+   "title": "Joy à Moscou / Joy in Moscow",
+   "year": "1992",
+   "match_title": "Joy à Moscou / Joy in Moscow",
+   "match_year": "1992",
+   "format": "movie",
+   "categories": [
+    "crime"
+   ],
+   "sources": [],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "no pregnancy in the listings",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "not stated",
+   "kids_note": "",
+   "married": "no",
+   "married_note": "",
+   "evidence": "single source in effect — IMDb and BetaSeries carry essentially the same synopsis; production details unconfirmed (low confidence)",
+   "fit_note": "French erotic film in the Joy series. A Rasputin descendant hypnotizes Joy and other recruited women to seduce rich tourists for an underground organization. Kept out of hypno-intimacy until a second independent source confirms the plot"
+  },
+  {
+   "title": "The Hypnotist",
+   "year": "1936",
+   "match_title": "The Hypnotist",
+   "match_year": "1936",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "TV Guide",
+     "url": "https://www.tvguide.com/movies/the-hypnotist/2000093037/"
+    },
+    {
+     "label": "Wikimedia Commons (1930s stag film stills)",
+     "url": "https://commons.wikimedia.org/wiki/File:The_Hypnotist,_1930s_stag_film,_screenshots.png"
+    }
+   ],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "not stated",
+   "kids_note": "",
+   "married": "already married",
+   "married_note": "she is married to the man she visits the hypnotist with, not to the hypnotist",
+   "evidence": "single source in effect — IMDb and TV Guide carry the same synopsis; Wikimedia Commons confirms that a 1930s stag film of this title exists (low confidence)",
+   "fit_note": "1930s American stag short. A married couple visits a fortune-teller who hypnotizes the wife and then the husband for sex. TV Guide's wording suggests the hypnotist is a woman. Kept out of hypno-intimacy because only one synopsis exists"
+  },
+  {
+   "title": "The Mindblowers / Mind Blowers",
+   "year": "1970",
+   "match_title": "The Mindblowers / Mind Blowers",
+   "match_year": "1970",
+   "format": "movie",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Critifan",
+     "url": "https://www.critifan.com/movies/141585"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0143679/"
+    }
+   ],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "not stated",
+   "kids_note": "",
+   "married": "no",
+   "married_note": "",
+   "evidence": "single source in effect — flixano, Critifan and IMDb all carry the same one-line synopsis (low confidence)",
+   "fit_note": "1970 US softcore short (47 min). A psychiatrist hypnotizes his female patients in order to sleep with them. Kept out of hypno-intimacy until an independent review or catalog entry confirms it"
+  },
+  {
+   "title": "Tau kwai mou jeu 2: Yau yan fan jeu",
+   "year": "2003",
+   "match_title": "Tau kwai mou jeu 2: Yau yan fan jeu",
+   "match_year": "2003",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis",
+    "human",
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki (To Seduce An Enemy)",
+     "url": "https://mentalblock.miraheze.org/wiki/To_Seduce_An_Enemy"
+    },
+    {
+     "label": "Kinobaza",
+     "url": "https://kinobaza.com.ua/titles/tau-kwai-mou-jeu-2-yau-yan-fan-jeu/cast"
+    }
+   ],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "no",
+   "pregnant_end_note": "the victims are hypnotized into suicide",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "not stated",
+   "kids_note": "",
+   "married": "no",
+   "married_note": "",
+   "evidence": "2+ sources (IMDb, Mental Block, Kinobaza)",
+   "fit_note": "Duplicate of card “To Seduce an Enemy” (2003): same Hong Kong film, whose Cantonese title is Tau kwai mou jeu 2: Yau yan fan jeu. Kept separate so IDs stay stable; see that card for the full plot"
+  },
+  {
+   "title": "To Seduce an Enemy",
+   "year": "2003",
+   "match_title": "To Seduce an Enemy",
+   "match_year": "2003",
+   "format": "movie",
+   "categories": [
+    "hypno-intimacy"
+   ],
+   "sources": [
+    {
+     "label": "Baidu Baike",
+     "url": "https://baike.baidu.com/en/item/To%20Seduce%20an%20Enemy/888955"
+    },
+    {
+     "label": "Kinobaza",
+     "url": "https://kinobaza.com.ua/titles/tau-kwai-mou-jeu-2-yau-yan-fan-jeu/cast"
+    }
+   ],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "no",
+   "pregnant_end_note": "hypnotized employee Ting is ordered to kill herself",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "not stated",
+   "kids_note": "",
+   "married": "no",
+   "married_note": "",
+   "evidence": "2+ sources for the hypnotic seduction (IMDb synopsis, Mental Block plot, Baidu Baike)",
+   "fit_note": "Hypnotized-intimacy: businessman-hypnotist Joe Siu uses subliminal videos to hypnotize and seduce young women who work for his company, then orders them to kill themselves. His wife Daisy is hypnotized to kill, not for sex. Also listed as card “Tau kwai mou jeu 2” (duplicate)"
+  },
+  {
+   "title": "Interactive",
+   "year": "1999",
+   "match_title": "Interactive",
+   "match_year": "1999",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis",
+    "medical"
+   ],
+   "sources": [],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "not stated",
+   "kids_note": "",
+   "married": "no",
+   "married_note": "",
+   "evidence": "single source — one IMDb synopsis; no second source found (low confidence)",
+   "fit_note": "1999 US adult film. A wealthy woman checks into a clinic for insomnia and falls under the hypnotic spell of the head doctor. Kept out of hypno-intimacy because only one synopsis exists"
+  },
+  {
+   "title": "Body of Influence",
+   "year": "1993",
+   "match_title": "Body of Influence",
+   "match_year": "1993",
+   "format": "movie",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Body_of_Influence"
+    },
+    {
+     "label": "IMDb plot",
+     "url": "https://www.imdb.com/title/tt0106454/plotsummary/"
+    },
+    {
+     "label": "Chacebook review",
+     "url": "https://chacebook.com/2014/05/01/body-of-influence/"
+    }
+   ],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "no",
+   "pregnant_end_note": "",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "no",
+   "kids_note": "",
+   "married": "no",
+   "married_note": "the psychiatrist is engaged to someone else (Jennifer)",
+   "evidence": "2+ independent sources (Wikipedia, IMDb, Chacebook, rarefilm)",
+   "fit_note": "R-rated US erotic thriller. Psychiatrist Jonathan's hypnosis sessions bring out his shy patient Laura's seductive alter ego Lana. Their affair happens outside hypnosis, so the card is not tagged hypno-intimacy"
+  },
+  {
+   "title": "À l'aventure / Adventure",
+   "year": "2008",
+   "match_title": "À l'aventure / Adventure",
+   "match_year": "2008",
+   "format": "movie",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Ciné-club de Caen",
+     "url": "https://www.cineclubdecaen.com/realisateur/brisseau/alaventure.htm"
+    },
+    {
+     "label": "Cinenode",
+     "url": "https://cinenode.com/film/28201/a-laventure"
+    }
+   ],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "not stated",
+   "kids_note": "",
+   "married": "no",
+   "married_note": "",
+   "evidence": "2+ independent sources (Wikipedia, Ciné-club de Caen, Cinenode)",
+   "fit_note": "French erotic drama by Jean-Claude Brisseau. Psychiatry student Greg introduces Sandrine to hypnosis, and under hypnosis Mina relives a medieval nun's ecstasy. The hypnosis is regression and exploration, and no intimacy under hypnosis is confirmed, so it is not tagged hypno-intimacy"
+  },
+  {
+   "title": "De Mesmer con amor",
+   "year": "2002",
+   "match_title": "De Mesmer con amor",
+   "match_year": "",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "Semaine de la Critique (Cannes 2002)",
+     "url": "https://www.semainedelacritique.com/en/edition/2002/movie/de-mesmer-con-amor-o-te-para-dos"
+    },
+    {
+     "label": "SIC — Secretaría de Cultura México",
+     "url": "https://sic.cultura.gob.mx/ficha.php?table=produccion_cine&table_id=491"
+    },
+    {
+     "label": "Cinema Saturno",
+     "url": "https://cinemasaturno.com/cinefilos/corto/cortometraje-de-mesmer-con-amor-o-te-para-dos/"
+    }
+   ],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "no",
+   "pregnant_end_note": "",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "not stated",
+   "kids_note": "",
+   "married": "no",
+   "married_note": "she is married to someone else, whose return ends the affair",
+   "evidence": "2+ independent sources for the film (Semaine de la Critique, SIC México, Cinema Saturno); the twist that she only pretended after the first session comes from Mental Block alone",
+   "fit_note": "Mexican short (about 9 min, Cannes Critics' Week 2002), also titled “De Mesmer, con amor o Té para dos”. Psychology student Alberto hypnotizes his lonely married neighbor María with a trigger phrase. She later reveals the hypnosis only worked the first time, so it is not tagged hypno-intimacy"
+  },
+  {
+   "title": "Health Nutz",
+   "year": "2011–2013",
+   "match_title": "Health Nutz",
+   "match_year": "2011",
+   "format": "tv",
+   "categories": [
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "David Winning airdates",
+     "url": "http://davidwinning.com/airdates-complete-list/"
+    }
+   ],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "no",
+   "pregnant_end_note": "",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "not stated",
+   "kids_note": "",
+   "married": "no",
+   "married_note": "Walter proposes to Mary in S02E06; he is not the hypnotist",
+   "evidence": "2 sources for the hypno-yoga arc (Mental Block, David Winning airdate list); Wikipedia confirms the series",
+   "fit_note": "Canadian comedy (APTN). In “Hypno-Yoga”, shady guru Reek Ram tells hypnotized Mary she wants to sleep with Axel, but she ends up with Walter instead. The suggestion fails, so it is not tagged hypno-intimacy",
+   "episodes": [
+    {
+     "episode": "S02E04 “Hypno-Yoga”",
+     "air_date": "2012-01-28",
+     "gist": "Reek Ram's hypno-yoga class plants suggestions in Mary and others",
+     "number_verified": true
+    },
+    {
+     "episode": "S02E05 “Vision Quest”",
+     "air_date": "",
+     "gist": "the post-hypnotic suggestion is triggered again",
+     "number_verified": false
+    },
+    {
+     "episode": "S02E06 “Last Chance”",
+     "air_date": "",
+     "gist": "Walter proposes to Mary; the suggestion resurfaces",
+     "number_verified": false
+    }
+   ]
+  },
+  {
+   "title": "Hot Under the Collar",
+   "year": "1992",
+   "match_title": "Hot Under the Collar",
+   "match_year": "1992",
+   "format": "movie",
+   "categories": [
+    "love",
+    "partner-control"
+   ],
+   "sources": [
+    {
+     "label": "Letterboxd",
+     "url": "https://letterboxd.com/film/hot-under-the-collar/"
+    },
+    {
+     "label": "Rotten Tomatoes",
+     "url": "https://www.rottentomatoes.com/m/hot_under_the_collar"
+    },
+    {
+     "label": "The Schlock Pit (director interview)",
+     "url": "https://theschlockpit.com/2022/04/24/virgin-high-1991-hot-under-the-collar-1992-richard-gabai/"
+    }
+   ],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "no",
+   "pregnant_end_note": "",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "no",
+   "kids_note": "",
+   "married": "no",
+   "married_note": "",
+   "evidence": "2+ independent sources (Letterboxd, Rotten Tomatoes, The Schlock Pit, Mental Block)",
+   "fit_note": "US comedy. Jerry hypnotizes his girlfriend Monica (Melinda Clarke) to seduce her, but the suggestion backfires and sends her to a convent. Not tagged hypno-intimacy because the seduction is interrupted"
+  },
+  {
+   "title": "Columbo",
+   "year": "1968",
+   "match_title": "Columbo",
+   "match_year": "1968",
+   "format": "tv",
+   "categories": [
+    "adult-hypnosis",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Apple TV · S4E6",
+     "url": "https://tv.apple.com/au/episode/a-deadly-state-of-mind/umc.cmc.1zc3ug90kn9vydofs7knd685c?showId=umc.cmc.tlqu4d3qgskmhwd0qw5868tw"
+    },
+    {
+     "label": "Paley Center",
+     "url": "https://www.paleycenter.org/collection/item?item=B%3A74418"
+    }
+   ],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "no",
+   "pregnant_end_note": "",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "unknown",
+   "kids_note": "",
+   "married": "no",
+   "married_note": "",
+   "evidence": "2+ independent sources (Wikipedia, Columbophile, Columbo wiki, Junkyard review, Apple TV, Paley Center)",
+   "fit_note": "“A Deadly State of Mind” (1975): psychiatrist Dr. Mark Collier, who is having an affair with patient Nadia Donner, plants a post-hypnotic trigger that makes her jump from her balcony. The affair happens outside hypnosis, so the card is not tagged hypno-intimacy",
+   "episodes": [
+    {
+     "episode": "S04E06 “A Deadly State of Mind”",
+     "air_date": "1975-04-27",
+     "gist": "Dr. Collier drugs and hypnotizes Nadia Donner and plants a trigger phrase that sends her off her balcony",
+     "number_verified": true
+    }
+   ]
+  },
+  {
+   "title": "The Curse of the Jade Scorpion",
+   "year": "2001",
+   "match_title": "The Curse of the Jade Scorpion",
+   "match_year": "2001",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "no",
+   "pregnant_end_note": "",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "no",
+   "kids_note": "",
+   "married": "no",
+   "married_note": "Betty Ann's boss promises marriage but she ends up with C.W.",
+   "evidence": "2+ independent sources (Wikipedia, Utah Statesman, Mental Block, TV Tropes)",
+   "fit_note": "Woody Allen comedy. Voltan the hypnotist uses the trigger word “Constantinople” to make Betty Ann (Helen Hunt) believe she is in love with C.W.; she is also used in his jewel thefts. No intimacy under hypnosis is confirmed, so it is not tagged hypno-intimacy"
+  },
+  {
+   "title": "Black Magic",
+   "year": "1949",
+   "match_title": "Black Magic",
+   "match_year": "1949",
+   "format": "movie",
+   "categories": [
+    "crime",
+    "forced-obedience"
+   ],
+   "sources": [],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "no",
+   "pregnant_end_note": "",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "no",
+   "kids_note": "",
+   "married": "yes",
+   "married_note": "Cagliostro marries Lorenza while she is hypnotized",
+   "evidence": "2+ independent sources (Wikipedia, Mental Block)",
+   "fit_note": "Orson Welles plays Cagliostro, who hypnotizes Lorenza into forgetting her love Gilbert, marries her while she is in a trance, and uses her to impersonate Marie Antoinette. No intimacy is shown, so it is not tagged hypno-intimacy"
+  },
+  {
+   "title": "The Magician",
+   "year": "1926",
+   "match_title": "The Magician",
+   "match_year": "1926",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis",
+    "occult"
+   ],
+   "sources": [],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "no",
+   "pregnant_end_note": "",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "no",
+   "kids_note": "",
+   "married": "yes",
+   "married_note": "Haddo marries Margaret by hypnotic compulsion on the eve of her wedding to Burdon",
+   "evidence": "2+ independent sources (Wikipedia, Mental Block)",
+   "fit_note": "Rex Ingram silent film. Hypnotist-occultist Oliver Haddo compels sculptor Margaret to marry him instead of her fiancé, intending to use her in a ritual. She is rescued and wakes from her trance. No intimacy is shown, so it is not tagged hypno-intimacy"
+  },
+  {
+   "title": "Svengali",
+   "year": "1927",
+   "match_title": "Svengali",
+   "match_year": "1927",
+   "format": "movie",
+   "categories": [],
+   "sources": [],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "no",
+   "pregnant_end_note": "",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "no",
+   "kids_note": "",
+   "married": "no",
+   "married_note": "Svengali prevents her marriage to Billee",
+   "evidence": "2 sources (Wikipedia, MUBI)",
+   "fit_note": "German silent film. Svengali hypnotically controls Trilby as a singer but cannot make her love him. No intimacy is shown"
+  },
+  {
+   "title": "Svengali",
+   "year": "1931",
+   "match_title": "Svengali",
+   "match_year": "1931",
+   "format": "movie",
+   "categories": [],
+   "sources": [],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "no",
+   "pregnant_end_note": "",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "no",
+   "kids_note": "",
+   "married": "no",
+   "married_note": "she performs as “Madame Svengali”, but no legal marriage is shown",
+   "evidence": "2+ independent sources (Wikipedia, Rotten Tomatoes, Mental Block)",
+   "fit_note": "John Barrymore version. Svengali hypnotizes Trilby and controls her by thought; she fakes her suicide and tours as “Madame Svengali” until his power fails. No intimacy is shown"
+  },
+  {
+   "title": "Svengali",
+   "year": "1954",
+   "match_title": "Svengali",
+   "match_year": "1954",
+   "format": "movie",
+   "categories": [],
+   "sources": [],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "no",
+   "pregnant_end_note": "",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "no",
+   "kids_note": "",
+   "married": "no",
+   "married_note": "",
+   "evidence": "2+ independent sources (Wikipedia, Derek Winnert, IMDb, Mental Block)",
+   "fit_note": "British version. Svengali's mesmerism makes Trilby an opera star and makes her forget Billy, until Billy's presence breaks the spell. No intimacy is shown"
+  },
+  {
+   "title": "Svengali",
+   "year": "1983",
+   "match_title": "Svengali",
+   "match_year": "1983",
+   "format": "tv",
+   "categories": [],
+   "sources": [],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "no",
+   "pregnant_end_note": "",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "no",
+   "kids_note": "",
+   "married": "no",
+   "married_note": "",
+   "evidence": "2+ sources (IMDb, MyMovies, Mental Block, Wikipedia)",
+   "fit_note": "CBS TV movie (Peter O'Toole, Jodie Foster). A vocal coach's mentorship of singer Zoe turns obsessive and almost mesmerizing. Boundary case: there is no literal hypnosis or intimacy"
+  },
+  {
+   "title": "Svengali",
+   "year": "1914",
+   "match_title": "Svengali",
+   "match_year": "1914",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "German Wikipedia",
+     "url": "https://de.wikipedia.org/wiki/Svengali_(1914)"
+    },
+    {
+     "label": "German Early Cinema Database",
+     "url": "https://earlycinema.dch.phil-fak.uni-koeln.de/films/view/35834"
+    }
+   ],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "no",
+   "pregnant_end_note": "",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "no",
+   "kids_note": "",
+   "married": "no",
+   "married_note": "",
+   "evidence": "2+ independent sources (Mental Block, German Wikipedia, German Early Cinema Database)",
+   "fit_note": "Austrian silent film with Ferdinand Bonn, also known as Der Hypnotiseur. Svengali's hypnosis makes Trilby a star singer until his violent death frees her. No intimacy is shown"
+  },
+  {
+   "title": "Kiss Kiss",
+   "year": "2019",
+   "match_title": "Kiss Kiss",
+   "match_year": "",
+   "format": "movie",
+   "categories": [
+    "tech",
+    "scifi"
+   ],
+   "sources": [
+    {
+     "label": "Film Threat review",
+     "url": "https://filmthreat.com/reviews/kiss-kiss/"
+    },
+    {
+     "label": "Girls With Guns review",
+     "url": "https://girlswithguns.org/kiss-kiss/"
+    },
+    {
+     "label": "Cleopatra Entertainment DVD",
+     "url": "https://cleorecs.com/products/kiss-kiss-dvd"
+    }
+   ],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "no",
+   "pregnant_end_note": "",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "not stated",
+   "kids_note": "",
+   "married": "no",
+   "married_note": "",
+   "evidence": "2+ independent sources (Film Threat, Girls With Guns, Cleopatra DVD, Mental Block)",
+   "fit_note": "2019 US action film by Dallas King. Exotic dancers are drugged, injected with a super-soldier serum and brainwashed into fighting each other. The control is chemical, not hypnosis, and there is no intimacy"
+  },
+  {
+   "title": "CID Shankar",
+   "year": "1970",
+   "match_title": "CID Shankar",
+   "match_year": "1970",
+   "format": "movie",
+   "categories": [],
+   "sources": [],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "no",
+   "pregnant_end_note": "",
+   "kids_together": "not stated",
+   "kids_together_note": "Shankar and Vithya fall in love; the outcome isn't stated",
+   "kids_status": "no",
+   "kids_note": "",
+   "married": "not stated",
+   "married_note": "",
+   "evidence": "2 sources (Wikipedia, Mental Block)",
+   "fit_note": "Tamil spy film. A gang uses an injected hypnotic drug: one entranced woman becomes a suicide bomber, and Vithya is programmed to seduce and kill Shankar. The control is a drug, not hypnosis"
+  },
+  {
+   "title": "Knock",
+   "year": "2012",
+   "match_title": "Knock",
+   "match_year": "2012",
+   "format": "movie",
+   "categories": [
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "KMDb (Korean Film Archive)",
+     "url": "https://www.kmdb.or.kr/db/kor/detail/movie/K/13323"
+    },
+    {
+     "label": "Korean Wikipedia",
+     "url": "https://ko.wikipedia.org/wiki/%EB%85%B8%ED%81%AC_(2012%EB%85%84_%EC%98%81%ED%99%94)"
+    },
+    {
+     "label": "Rotten Tomatoes",
+     "url": "https://www.rottentomatoes.com/m/knock_2012"
+    }
+   ],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "no",
+   "kids_note": "",
+   "married": "no",
+   "married_note": "",
+   "evidence": "film confirmed by 3 sources (KMDb, Korean Wikipedia, Rotten Tomatoes; rated 19+); the mask mind-control scenes come from Mental Block alone",
+   "fit_note": "South Korean horror film (노크). Art student Jeong-hwa becomes entangled with a cursed shaman's mask, and a neighbor uses the mask's incantation to put her in a trance. The control is magic, so it is not tagged hypno-intimacy"
+  },
+  {
+   "title": "The Snow White",
+   "year": "2010",
+   "match_title": "The Snow White",
+   "match_year": "2010",
+   "format": "movie",
+   "categories": [
+    "tantrik",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "MyDramaList",
+     "url": "https://mydramalist.com/10101-the-snow-white"
+    },
+    {
+     "label": "Wise Kwai's Thai Film Journal review",
+     "url": "http://thaifilmjournal.blogspot.com/2010/10/review-snow-white-tai-tang-klom.html"
+    }
+   ],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "no",
+   "pregnant_end_note": "",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "no",
+   "kids_note": "",
+   "married": "no",
+   "married_note": "",
+   "evidence": "2+ independent sources (MyDramaList, Wise Kwai, Mental Block)",
+   "fit_note": "Thai horror film (ตายทั้งกลม / Tai Tang Klom). A university student uses corpse-oil black magic to make women attracted to him, and the dead woman's ghost takes revenge. The control is a spell, so it is not tagged hypno-intimacy; the victims are university students"
+  },
+  {
+   "title": "Karn Sangini",
+   "year": "2018–19",
+   "match_title": "Karn Sangini",
+   "match_year": "2018",
+   "format": "tv",
+   "categories": [
+    "exwife-control",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Karn_Sangini"
+    }
+   ],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "",
+   "kids_together": "not stated",
+   "kids_together_note": "",
+   "kids_status": "no",
+   "kids_note": "",
+   "married": "already married",
+   "married_note": "Uruvi is already married to Karn",
+   "evidence": "single source for the trance scene (Mental Block, ep. 72); Wikipedia confirms the arc of Kasturi claiming to be Karn's first wife",
+   "fit_note": "Hindi mythological serial (StarPlus). Kasturi, who claims to be Karn's first wife, uses hypnotic powder and a tantrik's spell to make Uruvi try to seduce her own husband in order to discredit her. The control is a spell",
+   "episodes": [
+    {
+     "episode": "Ep. 72",
+     "air_date": "",
+     "gist": "Kasturi and a tantrik entrance Uruvi with hypnotic powder",
+     "number_verified": false
+    }
+   ]
+  },
+  {
+   "title": "Friday the 13th: The Series",
+   "year": "1989",
+   "match_title": "Friday the 13th: The Series",
+   "match_year": "1989",
+   "format": "tv",
+   "categories": [
+    "love",
+    "occult"
+   ],
+   "sources": [],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "no",
+   "pregnant_end_note": "",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "not stated",
+   "kids_note": "",
+   "married": "no",
+   "married_note": "",
+   "evidence": "2+ independent sources (Wikipedia episode list, Mental Block, Comet TV)",
+   "fit_note": "In “Mesmer's Bauble”, a cursed hypnotist's crystal lets Howard hypnotize and kill singer Angelica's associates and wish her into falling for him, then steal her form. Her love comes from a wish rather than hypnosis, and intimacy isn't confirmed, so it is not tagged hypno-intimacy",
+   "episodes": [
+    {
+     "episode": "S02E20 “Mesmer's Bauble”",
+     "air_date": "1989-05-06",
+     "gist": "cursed hypnotist's crystal used to hypnotize victims and win the singer Angelica",
+     "number_verified": true
+    }
+   ]
+  },
+  {
+   "title": "El Zorro, la espada y la rosa",
+   "year": "2007",
+   "match_title": "El Zorro, la espada y la rosa",
+   "match_year": "2007",
+   "format": "tv",
+   "categories": [
+    "occult"
+   ],
+   "sources": [],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "no",
+   "kids_note": "",
+   "married": "no",
+   "married_note": "",
+   "evidence": "single source for the trance arc (Mental Block, eps. 93 and 103); Wikipedia confirms the telenovela",
+   "fit_note": "Telemundo telenovela. The witch Selenia hypnotizes Mariangel with a ring and programs her to love Olmos until they first make love. Not tagged hypno-intimacy: the hypnotist is a witch, and only one source describes the scene",
+   "episodes": [
+    {
+     "episode": "Ep. 93",
+     "air_date": "",
+     "gist": "Selenia hypnotizes Mariangel with her ring and programs her to love Olmos",
+     "number_verified": false
+    },
+    {
+     "episode": "Ep. 103",
+     "air_date": "",
+     "gist": "the suggestion breaks after Mariangel and Olmos first make love",
+     "number_verified": false
+    }
+   ]
+  },
+  {
+   "title": "Vampyros Lesbos",
+   "year": "1971",
+   "match_title": "Vampyros Lesbos",
+   "match_year": "1971",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "Sassyflix",
+     "url": "https://www.sassyflix.com/movies/5322-vampyros-lesbos"
+    }
+   ],
+   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
+   "pregnant_end": "no",
+   "pregnant_end_note": "",
+   "kids_together": "no",
+   "kids_together_note": "",
+   "kids_status": "no",
+   "kids_note": "",
+   "married": "no",
+   "married_note": "Linda has a boyfriend, Omar",
+   "evidence": "2 independent sources (Wikipedia, Sassyflix)",
+   "fit_note": "Jess Franco film. Vampire Countess Nadine, Dracula's heir, draws lawyer Linda to her island through dreams and seduces her. This is vampire thrall by a female vampire, not a hypnotist, so it is not tagged hypno-intimacy"
+  }
+ ],
+ "dropped": [
+  {
+   "title": "Saimin / Hypnosis / The Hypnotist",
+   "year": "1999",
+   "reason": "excluded: the victim's age is unclear"
+  },
+  {
+   "title": "Saimin Jutsu Zero",
+   "year": "",
+   "reason": "excluded: minors (students)"
+  },
+  {
+   "title": "Stalked by My Doctor: A Sleepwalker's Nightmare",
+   "year": "2019",
+   "reason": "excluded: sexsomnia, not hypnosis (already in catalog)"
+  },
+  {
+   "title": "A Wind from Wyoming (Léa scene)",
+   "year": "1994",
+   "reason": "excluded: Léa is 17 or 18 depending on the source"
+  }
+ ]
+}

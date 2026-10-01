@@ -64,6 +64,8 @@ SOURCES = [
      "local": "sources/hypno-intimacy.json", "required": False},
     {"id": "mother-kids-hypnosis", "label": "Mother hypnotized in front of her children",
      "local": "sources/mother-kids-hypnosis.json", "required": False},
+    {"id": "hypno-leftovers", "label": "Hypnosis / mind-control leads left out of the hypno-intimacy pass",
+     "local": "sources/hypno-leftovers.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
