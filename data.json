@@ -1059,27 +1059,67 @@
     {
      "title": "The Second Wife (الزوجة الثانية)",
      "year": "1967",
-     "reason": "unverified: intimacy between Fatma and the mayor not confirmed"
+     "reason": "rejected: Fatma refuses the mayor and is pregnant by her first husband; no intimacy with the old husband"
     },
     {
      "title": "Days of Our Lives (Nicole / Victor Kiriakis)",
      "year": "2002",
-     "reason": "unverified: intimacy not confirmed"
+     "reason": "rejected: no intimacy sourced; marriage later invalid"
     },
     {
      "title": "Aitraaz",
      "year": "2004",
-     "reason": "unverified: intimacy between Sonia and Ranjit Roy not confirmed"
+     "reason": "rejected: intimacy with Ranjit Roy not confirmed"
     },
     {
      "title": "Anna Nicole (Lifetime)",
      "year": "2013",
-     "reason": "unverified: review implies no physical intimacy with Marshall"
+     "reason": "rejected: review implies no physical intimacy with Marshall"
     },
     {
      "title": "The Tudors (Catherine Parr)",
      "year": "2010",
-     "reason": "no confirmed intimate scene with Henry"
+     "reason": "rejected: no confirmed intimate scene with Henry"
+    },
+    {
+     "title": "Mirch (Lavni / Raja Nirgun Singh segment)",
+     "year": "2010",
+     "reason": "rejected: no intimacy with the old king confirmed"
+    },
+    {
+     "title": "Fructul oprit",
+     "year": "2018",
+     "reason": "rejected: no two-source plot confirmation of the couple and their intimacy"
+    },
+    {
+     "title": "Passions (Theresa / Julian)",
+     "year": "2001",
+     "reason": "rejected: marriage shown invalid; paternity later retconned"
+    },
+    {
+     "title": "One Life to Live (Blair / Asa)",
+     "year": "1992",
+     "reason": "rejected: loveless marriage; no intimacy confirmed; faked pregnancy"
+    },
+    {
+     "title": "Cheeni Kum",
+     "year": "2007",
+     "reason": "rejected: no intimate scene sourced"
+    },
+    {
+     "title": "Lola",
+     "year": "1981",
+     "reason": "rejected: no intimacy with husband von Bohm confirmed"
+    },
+    {
+     "title": "Odd Obsession (Kagi)",
+     "year": "1959",
+     "reason": "rejected: long-established marriage, wife's age unstated"
+    },
+    {
+     "title": "La chiave",
+     "year": "1983",
+     "reason": "rejected: married 20 years (37 / 57), not a young bride"
     },
     {
      "title": "Ju Dou / Baby Doll / Red Sorghum / Citizen Kane",
@@ -1093,7 +1133,7 @@
     }
    ],
    "check": {
-    "raw_count": 14,
+    "raw_count": 18,
     "ok": true
    },
    "status": "local"
@@ -1109,10 +1149,10 @@
   "pregnant-intimacy": 47,
   "occult-pregnancy-nearmiss": 3,
   "rich-wife-hypnosis": 45,
-  "agegap-marriage": 14
+  "agegap-marriage": 18
  },
- "raw_total": 3233,
- "entry_count": 1946,
+ "raw_total": 3237,
+ "entry_count": 1950,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -1298,7 +1338,7 @@
    "key": "stepmom-pregnancy",
    "label": "Pregnant stepmother / bonus mom",
    "legend_label": "Pregnant stepmother / bonus mom",
-   "entry_count": 12
+   "entry_count": 13
   },
   {
    "key": "pregnant-child",
@@ -1448,7 +1488,7 @@
    "key": "agegap-marriage",
    "label": "Young wife, older / rich husband",
    "legend_label": "Young wife, older / rich husband",
-   "entry_count": 14
+   "entry_count": 18
   }
  ],
  "formats": [
@@ -210316,7 +210356,7 @@
    "year": "1991",
    "meta": "Film · China · Mandarin (大红灯笼高高挂)",
    "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
-   "confidence_flag": "High · single source (Wikipedia plot)",
+   "confidence_flag": "High · 3 sources (Wikipedia, Deep Focus Review, Roger Ebert)",
    "summary": "19-year-old Songlian becomes the fourth wife of the wealthy, much older Master Chen, who chooses nightly — by a lantern ritual — which wife he spends the night with. She fakes a pregnancy to win his favour until a doctor exposes it.",
    "character": "Character: Songlian (Gong Li) and Master Chen",
    "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
@@ -210334,6 +210374,14 @@
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Raise_the_Red_Lantern"
+    },
+    {
+     "label": "Deep Focus Review",
+     "url": "https://www.deepfocusreview.com/definitives/raise-the-red-lantern/"
+    },
+    {
+     "label": "Roger Ebert",
+     "url": "https://www.rogerebert.com/reviews/raise-the-red-lantern-1992"
     }
    ],
    "youtube_ids": [],
@@ -210356,7 +210404,7 @@
      "format": "movie",
      "meta": "Film · China · Mandarin (大红灯笼高高挂)",
      "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
-     "confidence_flag": "High · single source (Wikipedia plot)",
+     "confidence_flag": "High · 3 sources (Wikipedia, Deep Focus Review, Roger Ebert)",
      "summary": "19-year-old Songlian becomes the fourth wife of the wealthy, much older Master Chen, who chooses nightly — by a lantern ritual — which wife he spends the night with. She fakes a pregnancy to win his favour until a doctor exposes it.",
      "character": "Character: Songlian (Gong Li) and Master Chen",
      "categories": [
@@ -210366,6 +210414,14 @@
       {
        "label": "Wikipedia",
        "url": "https://en.wikipedia.org/wiki/Raise_the_Red_Lantern"
+      },
+      {
+       "label": "Deep Focus Review",
+       "url": "https://www.deepfocusreview.com/definitives/raise-the-red-lantern/"
+      },
+      {
+       "label": "Roger Ebert",
+       "url": "https://www.rogerebert.com/reviews/raise-the-red-lantern-1992"
       }
      ],
      "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
@@ -210386,11 +210442,11 @@
    "year": "1970",
    "meta": "Film · United Kingdom / Ireland · English",
    "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
-   "confidence_flag": "Medium · single source; husband older but not rich (borderline fit)",
+   "confidence_flag": "Medium-high · 3 sources; husband older but not rich (borderline fit)",
    "summary": "Young Rosy Ryan marries the older widowed village schoolmaster Charles Shaughnessy; the marriage is consummated but leaves her unfulfilled, and she starts an affair with Major Doryan.",
    "character": "Character: Rosy Ryan (Sarah Miles) and Charles Shaughnessy (Robert Mitchum)",
    "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
-   "note": "",
+   "note": "Note: reviews describe the wedding night as “a calamity” — consummated but passionless.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "no pregnancy in the cited plot",
    "kids_status": "no",
@@ -210404,6 +210460,14 @@
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Ryan%27s_Daughter"
+    },
+    {
+     "label": "Film Freedonia",
+     "url": "https://filmfreedonia.com/2009/09/28/ryans-daughter-1970/"
+    },
+    {
+     "label": "New York Times review",
+     "url": "https://www.nytimes.com/1970/11/10/archives/sarah-miles-stars-in-leans-ryans-daughter.html"
     }
    ],
    "youtube_ids": [],
@@ -210426,7 +210490,7 @@
      "format": "movie",
      "meta": "Film · United Kingdom / Ireland · English",
      "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
-     "confidence_flag": "Medium · single source; husband older but not rich (borderline fit)",
+     "confidence_flag": "Medium-high · 3 sources; husband older but not rich (borderline fit)",
      "summary": "Young Rosy Ryan marries the older widowed village schoolmaster Charles Shaughnessy; the marriage is consummated but leaves her unfulfilled, and she starts an affair with Major Doryan.",
      "character": "Character: Rosy Ryan (Sarah Miles) and Charles Shaughnessy (Robert Mitchum)",
      "categories": [
@@ -210436,10 +210500,18 @@
       {
        "label": "Wikipedia",
        "url": "https://en.wikipedia.org/wiki/Ryan%27s_Daughter"
+      },
+      {
+       "label": "Film Freedonia",
+       "url": "https://filmfreedonia.com/2009/09/28/ryans-daughter-1970/"
+      },
+      {
+       "label": "New York Times review",
+       "url": "https://www.nytimes.com/1970/11/10/archives/sarah-miles-stars-in-leans-ryans-daughter.html"
       }
      ],
      "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
-     "note": "",
+     "note": "Note: reviews describe the wedding night as “a calamity” — consummated but passionless.",
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "no pregnancy in the cited plot",
      "kids_together": "no",
@@ -210708,11 +210780,11 @@
    "year": "2018–2023",
    "meta": "TV series · Turkey · Turkish (FOX) · English: Forbidden Fruit",
    "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
-   "confidence_flag": "Medium · single source; intimacy implied by the in-marriage pregnancy",
+   "confidence_flag": "Medium-high · 2 sources (English and Turkish Wikipedia); intimacy implied by the in-marriage pregnancy",
    "summary": "Ambitious young Yıldız marries the rich, much older businessman Halit Argun (S1); she is pregnant when he throws her out (S2), their son Halit Can “Junior” follows (S3), then divorce, and Halit dies (S4).",
    "character": "Character: Yıldız (Eda Ece) and Halit Argun (Talat Bulut)",
    "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
-   "note": "",
+   "note": "Note: the fields cover her marriage to Halit; Yıldız remarries later in the series.",
    "pregnancy_outcome": "becomes pregnant by the end",
    "pregnancy_note": "by her husband Halit; son born",
    "kids_status": "no",
@@ -210726,6 +210798,10 @@
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Yasak_Elma"
+    },
+    {
+     "label": "Turkish Wikipedia",
+     "url": "https://tr.wikipedia.org/wiki/Yasak_Elma_(dizi,_2018)"
     }
    ],
    "youtube_ids": [],
@@ -210748,7 +210824,7 @@
      "format": "tv",
      "meta": "TV series · Turkey · Turkish (FOX) · English: Forbidden Fruit",
      "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
-     "confidence_flag": "Medium · single source; intimacy implied by the in-marriage pregnancy",
+     "confidence_flag": "Medium-high · 2 sources (English and Turkish Wikipedia); intimacy implied by the in-marriage pregnancy",
      "summary": "Ambitious young Yıldız marries the rich, much older businessman Halit Argun (S1); she is pregnant when he throws her out (S2), their son Halit Can “Junior” follows (S3), then divorce, and Halit dies (S4).",
      "character": "Character: Yıldız (Eda Ece) and Halit Argun (Talat Bulut)",
      "categories": [
@@ -210758,10 +210834,14 @@
       {
        "label": "Wikipedia",
        "url": "https://en.wikipedia.org/wiki/Yasak_Elma"
+      },
+      {
+       "label": "Turkish Wikipedia",
+       "url": "https://tr.wikipedia.org/wiki/Yasak_Elma_(dizi,_2018)"
       }
      ],
      "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
-     "note": "",
+     "note": "Note: the fields cover her marriage to Halit; Yıldız remarries later in the series.",
      "pregnancy_outcome": "becomes pregnant by the end",
      "pregnancy_note": "by her husband Halit; son born",
      "kids_together": "yes — son Halit Can “Junior”",
@@ -210778,8 +210858,8 @@
    "year": "1981–1989",
    "meta": "Prime-time soap · United States · English (ABC)",
    "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
-   "confidence_flag": "High · single source (well-documented arc)",
-   "summary": "Krystle Jennings marries her much older oil-tycoon boss Blake Carrington, becoming stepmother to Fallon and Steven. Pregnant in S2, she loses the baby after a riding accident; pregnant again in S4, she gives birth to daughter Krystina in S5.",
+   "confidence_flag": "High · 3 sources",
+   "summary": "Krystle Jennings marries her much older oil-tycoon boss Blake Carrington, becoming stepmother to Fallon and Steven. Pregnant in S2, she loses the baby after a fall from her horse that Alexis provokes (S2E7 “The Miscarriage”); pregnant again in S4, she gives birth to daughter Krystina (December 1984, S5).",
    "character": "Character: Krystle Carrington (Linda Evans) and Blake Carrington (John Forsythe)",
    "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
    "note": "",
@@ -210797,6 +210877,14 @@
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Krystle_Carrington"
+    },
+    {
+     "label": "TheTVDB · S2E7 “The Miscarriage”",
+     "url": "https://www.thetvdb.com/series/dynasty/episodes/47298"
+    },
+    {
+     "label": "You Miserable Bitch",
+     "url": "https://youmiserablebitch.com/blog/2022/9/5/dynasty-top-scenes-alexis-causes-krystles-miscarriage"
     }
    ],
    "youtube_ids": [],
@@ -210819,8 +210907,8 @@
      "format": "tv",
      "meta": "Prime-time soap · United States · English (ABC)",
      "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
-     "confidence_flag": "High · single source (well-documented arc)",
-     "summary": "Krystle Jennings marries her much older oil-tycoon boss Blake Carrington, becoming stepmother to Fallon and Steven. Pregnant in S2, she loses the baby after a riding accident; pregnant again in S4, she gives birth to daughter Krystina in S5.",
+     "confidence_flag": "High · 3 sources",
+     "summary": "Krystle Jennings marries her much older oil-tycoon boss Blake Carrington, becoming stepmother to Fallon and Steven. Pregnant in S2, she loses the baby after a fall from her horse that Alexis provokes (S2E7 “The Miscarriage”); pregnant again in S4, she gives birth to daughter Krystina (December 1984, S5).",
      "character": "Character: Krystle Carrington (Linda Evans) and Blake Carrington (John Forsythe)",
      "categories": [
       "agegap-marriage",
@@ -210830,6 +210918,14 @@
       {
        "label": "Wikipedia",
        "url": "https://en.wikipedia.org/wiki/Krystle_Carrington"
+      },
+      {
+       "label": "TheTVDB · S2E7 “The Miscarriage”",
+       "url": "https://www.thetvdb.com/series/dynasty/episodes/47298"
+      },
+      {
+       "label": "You Miserable Bitch",
+       "url": "https://youmiserablebitch.com/blog/2022/9/5/dynasty-top-scenes-alexis-causes-krystles-miscarriage"
       }
      ],
      "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
@@ -210850,7 +210946,7 @@
    "year": "2017–2022",
    "meta": "TV series · United States · English (The CW)",
    "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
-   "confidence_flag": "Medium · single source",
+   "confidence_flag": "Medium-high · 3 sources",
    "summary": "Cristal Jennings, Blake Carrington's much younger new wife (S2), becomes pregnant (“A Champagne Mood”) unsure whether it is Blake's or her ex-husband Mark's; the test confirms Blake, but after Alexis fires at her and her horse throws her she loses the baby (“Parisian Legend Has It...”).",
    "character": "Character: Cristal Jennings Carrington (Ana Brenda Contreras) and Blake Carrington (Grant Show)",
    "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
@@ -210869,6 +210965,14 @@
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Krystle_Carrington"
+    },
+    {
+     "label": "Wikipedia · season 2",
+     "url": "https://en.wikipedia.org/wiki/Dynasty_(2017_TV_series)_season_2"
+    },
+    {
+     "label": "TV Fanatic · S2E14 review",
+     "url": "https://www.tvfanatic.com/dynasty-season-2-episode-14-review-parisian-legend-has-it/"
     }
    ],
    "youtube_ids": [],
@@ -210891,7 +210995,7 @@
      "format": "tv",
      "meta": "TV series · United States · English (The CW)",
      "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
-     "confidence_flag": "Medium · single source",
+     "confidence_flag": "Medium-high · 3 sources",
      "summary": "Cristal Jennings, Blake Carrington's much younger new wife (S2), becomes pregnant (“A Champagne Mood”) unsure whether it is Blake's or her ex-husband Mark's; the test confirms Blake, but after Alexis fires at her and her horse throws her she loses the baby (“Parisian Legend Has It...”).",
      "character": "Character: Cristal Jennings Carrington (Ana Brenda Contreras) and Blake Carrington (Grant Show)",
      "categories": [
@@ -210902,6 +211006,14 @@
       {
        "label": "Wikipedia",
        "url": "https://en.wikipedia.org/wiki/Krystle_Carrington"
+      },
+      {
+       "label": "Wikipedia · season 2",
+       "url": "https://en.wikipedia.org/wiki/Dynasty_(2017_TV_series)_season_2"
+      },
+      {
+       "label": "TV Fanatic · S2E14 review",
+       "url": "https://www.tvfanatic.com/dynasty-season-2-episode-14-review-parisian-legend-has-it/"
       }
      ],
      "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
@@ -210922,11 +211034,11 @@
    "year": "1987–",
    "meta": "Daytime soap · United States · English (CBS)",
    "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
-   "confidence_flag": "High · single source",
+   "confidence_flag": "High · 3 sources",
    "summary": "Young Brooke Logan turns to Eric Forrester, Ridge's much older and wealthy father; she becomes pregnant, so Eric marries her, and they later have a second child, Bridget.",
    "character": "Character: Brooke Logan (Katherine Kelly Lang) and Eric Forrester (John McCook)",
    "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
-   "note": "",
+   "note": "Note: Brooke and Eric married in 1991 and divorced in 1992; Bridget was first believed to be Ridge's until a switched paternity test was corrected to Eric.",
    "pregnancy_outcome": "becomes pregnant by the end",
    "pregnancy_note": "by Eric — son Rick (Eric Jr.), later daughter Bridget",
    "kids_status": "no",
@@ -210941,6 +211053,14 @@
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Brooke_Logan"
+    },
+    {
+     "label": "SheKnows · Brooke & Eric love story",
+     "url": "https://soaps.sheknows.com/the-bold-and-the-beautiful/news/564977/bb-brooke-eric-love-story-7-major-plot-points/"
+    },
+    {
+     "label": "Soap Central · Brooke Logan",
+     "url": "https://www.soapcentral.com/character/brooke-logan"
     }
    ],
    "youtube_ids": [],
@@ -210963,7 +211083,7 @@
      "format": "tv",
      "meta": "Daytime soap · United States · English (CBS)",
      "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
-     "confidence_flag": "High · single source",
+     "confidence_flag": "High · 3 sources",
      "summary": "Young Brooke Logan turns to Eric Forrester, Ridge's much older and wealthy father; she becomes pregnant, so Eric marries her, and they later have a second child, Bridget.",
      "character": "Character: Brooke Logan (Katherine Kelly Lang) and Eric Forrester (John McCook)",
      "categories": [
@@ -210974,10 +211094,18 @@
       {
        "label": "Wikipedia",
        "url": "https://en.wikipedia.org/wiki/Brooke_Logan"
+      },
+      {
+       "label": "SheKnows · Brooke & Eric love story",
+       "url": "https://soaps.sheknows.com/the-bold-and-the-beautiful/news/564977/bb-brooke-eric-love-story-7-major-plot-points/"
+      },
+      {
+       "label": "Soap Central · Brooke Logan",
+       "url": "https://www.soapcentral.com/character/brooke-logan"
       }
      ],
      "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
-     "note": "",
+     "note": "Note: Brooke and Eric married in 1991 and divorced in 1992; Bridget was first believed to be Ridge's until a switched paternity test was corrected to Eric.",
      "pregnancy_outcome": "becomes pregnant by the end",
      "pregnancy_note": "by Eric — son Rick (Eric Jr.), later daughter Bridget",
      "kids_together": "yes — Rick (Eric Jr.) and Bridget",
@@ -210994,11 +211122,11 @@
    "year": "1973–",
    "meta": "Daytime soap · United States · English (CBS)",
    "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
-   "confidence_flag": "Medium-high · single source; the encounter precedes the deathbed-era marriage",
+   "confidence_flag": "Medium-high · 3 sources",
    "summary": "Young Jill Foster has a sexual encounter with Phillip Chancellor II, the much older, rich husband of her employer Katherine, and becomes pregnant; Phillip divorces Kay to marry Jill and dies soon afterwards, leaving their son Phillip III.",
    "character": "Character: Jill Foster (Brenda Dickson) and Phillip Chancellor II (Donnelly Rhodes)",
    "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
-   "note": "",
+   "note": "Note: Soap Central lists the 1975 deathbed marriage to Phillip II as later found to be invalid; Phillip III was born in 1976.",
    "pregnancy_outcome": "becomes pregnant by the end",
    "pregnancy_note": "by Phillip — son Phillip Chancellor III",
    "kids_status": "no",
@@ -211012,6 +211140,14 @@
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Jill_Abbott"
+    },
+    {
+     "label": "SheKnows · Jill Foster Abbott",
+     "url": "https://soaps.sheknows.com/the-young-and-the-restless/characters/jill-foster-abbott-fenmore/"
+    },
+    {
+     "label": "Soap Central · Jill Foster Abbott",
+     "url": "https://www.soapcentral.com/young-and-restless/whoswho/jill.php"
     }
    ],
    "youtube_ids": [],
@@ -211034,7 +211170,7 @@
      "format": "tv",
      "meta": "Daytime soap · United States · English (CBS)",
      "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
-     "confidence_flag": "Medium-high · single source; the encounter precedes the deathbed-era marriage",
+     "confidence_flag": "Medium-high · 3 sources",
      "summary": "Young Jill Foster has a sexual encounter with Phillip Chancellor II, the much older, rich husband of her employer Katherine, and becomes pregnant; Phillip divorces Kay to marry Jill and dies soon afterwards, leaving their son Phillip III.",
      "character": "Character: Jill Foster (Brenda Dickson) and Phillip Chancellor II (Donnelly Rhodes)",
      "categories": [
@@ -211044,10 +211180,18 @@
       {
        "label": "Wikipedia",
        "url": "https://en.wikipedia.org/wiki/Jill_Abbott"
+      },
+      {
+       "label": "SheKnows · Jill Foster Abbott",
+       "url": "https://soaps.sheknows.com/the-young-and-the-restless/characters/jill-foster-abbott-fenmore/"
+      },
+      {
+       "label": "Soap Central · Jill Foster Abbott",
+       "url": "https://www.soapcentral.com/young-and-restless/whoswho/jill.php"
       }
      ],
      "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
-     "note": "",
+     "note": "Note: Soap Central lists the 1975 deathbed marriage to Phillip II as later found to be invalid; Phillip III was born in 1976.",
      "pregnancy_outcome": "becomes pregnant by the end",
      "pregnancy_note": "by Phillip — son Phillip Chancellor III",
      "kids_together": "yes — son Phillip Chancellor III",
@@ -211230,8 +211374,8 @@
    "year": "2009–2020",
    "meta": "TV sitcom · United States · English (ABC)",
    "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
-   "confidence_flag": "High · single source",
-   "summary": "Gloria, a much younger Colombian woman, is married to wealthy closet-company owner Jay Pritchett, with comic bedroom scenes; she is revealed pregnant in the S3 finale and son Fulgencio “Joe” is born in S4 “Party Crasher”.",
+   "confidence_flag": "High · 3 sources",
+   "summary": "Gloria, a much younger Colombian woman, is married to wealthy closet-company owner Jay Pritchett, with comic bedroom scenes; she is revealed pregnant in the S3 finale and son Fulgencio “Joe” is born in S4E12 “Party Crasher” on Manny's birthday.",
    "character": "Character: Gloria Pritchett (Sofía Vergara) and Jay Pritchett (Ed O'Neill)",
    "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
    "note": "Note: the existing card “Modern Family · S02E13 “Caught in the Act” / Season 4 pregnancy arc” covers a different (walk-in) storyline and is left unchanged.",
@@ -211250,6 +211394,14 @@
     {
      "label": "Wikipedia — Modern Family characters",
      "url": "https://en.wikipedia.org/wiki/List_of_Modern_Family_characters"
+    },
+    {
+     "label": "Wikipedia · “Party Crasher”",
+     "url": "https://en.wikipedia.org/wiki/Party_Crasher_(Modern_Family)"
+    },
+    {
+     "label": "TV Fanatic · S4E12 recap",
+     "url": "https://www.tvfanatic.com/modern-family-season-4-episode-12-recap-party-crasher/"
     }
    ],
    "youtube_ids": [],
@@ -211272,8 +211424,8 @@
      "format": "tv",
      "meta": "TV sitcom · United States · English (ABC)",
      "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
-     "confidence_flag": "High · single source",
-     "summary": "Gloria, a much younger Colombian woman, is married to wealthy closet-company owner Jay Pritchett, with comic bedroom scenes; she is revealed pregnant in the S3 finale and son Fulgencio “Joe” is born in S4 “Party Crasher”.",
+     "confidence_flag": "High · 3 sources",
+     "summary": "Gloria, a much younger Colombian woman, is married to wealthy closet-company owner Jay Pritchett, with comic bedroom scenes; she is revealed pregnant in the S3 finale and son Fulgencio “Joe” is born in S4E12 “Party Crasher” on Manny's birthday.",
      "character": "Character: Gloria Pritchett (Sofía Vergara) and Jay Pritchett (Ed O'Neill)",
      "categories": [
       "agegap-marriage",
@@ -211284,6 +211436,14 @@
       {
        "label": "Wikipedia — Modern Family characters",
        "url": "https://en.wikipedia.org/wiki/List_of_Modern_Family_characters"
+      },
+      {
+       "label": "Wikipedia · “Party Crasher”",
+       "url": "https://en.wikipedia.org/wiki/Party_Crasher_(Modern_Family)"
+      },
+      {
+       "label": "TV Fanatic · S4E12 recap",
+       "url": "https://www.tvfanatic.com/modern-family-season-4-episode-12-recap-party-crasher/"
       }
      ],
      "provenance": "Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
@@ -211371,6 +211531,360 @@
      "kids_together": "no",
      "kids_status": "no",
      "kids_note": "none before the marriage",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 1947,
+   "title": "Tristana",
+   "subtitle": "",
+   "year": "1970",
+   "meta": "Film · Spain / France / Italy · Spanish (dir. Luis Buñuel)",
+   "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+   "confidence_flag": "Medium-high · 3 sources; age 19 stated by Wikipedia only",
+   "summary": "Orphaned Tristana becomes the ward of the much older nobleman Don Lope, who makes her his lover (Wikipedia: from age 19). Years later, after losing a leg, she agrees to a marriage of convenience once he inherits money, but refuses him any romance or sex and lets him die.",
+   "character": "Character: Tristana (Catherine Deneuve) and Don Lope (Fernando Rey)",
+   "provenance": "Age-gap marriage verification pass (two-source bar), 30 Sep 2026 (young adult wives only; minors excluded)",
+   "note": "Note: a coercive guardian–ward relationship; their intimacy precedes the marriage, which she keeps sexless.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "no pregnancy in the cited plots",
+   "kids_status": "no",
+   "kids_note": "none before the marriage",
+   "kids_together": "no",
+   "format": "movie",
+   "categories": [
+    "agegap-marriage"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Tristana_(film)"
+    },
+    {
+     "label": "Roger Ebert",
+     "url": "https://www.rogerebert.com/reviews/tristana-1970"
+    },
+    {
+     "label": "Unifrance",
+     "url": "https://en.unifrance.org/movie/780/tristana"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "agegap-marriage"
+   ],
+   "source_records": [
+    "agegap-marriage:15"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "agegap-marriage:15": {
+     "title": "Tristana",
+     "subtitle": "",
+     "year": "1970",
+     "format": "movie",
+     "meta": "Film · Spain / France / Italy · Spanish (dir. Luis Buñuel)",
+     "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+     "confidence_flag": "Medium-high · 3 sources; age 19 stated by Wikipedia only",
+     "summary": "Orphaned Tristana becomes the ward of the much older nobleman Don Lope, who makes her his lover (Wikipedia: from age 19). Years later, after losing a leg, she agrees to a marriage of convenience once he inherits money, but refuses him any romance or sex and lets him die.",
+     "character": "Character: Tristana (Catherine Deneuve) and Don Lope (Fernando Rey)",
+     "categories": [
+      "agegap-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Tristana_(film)"
+      },
+      {
+       "label": "Roger Ebert",
+       "url": "https://www.rogerebert.com/reviews/tristana-1970"
+      },
+      {
+       "label": "Unifrance",
+       "url": "https://en.unifrance.org/movie/780/tristana"
+      }
+     ],
+     "provenance": "Age-gap marriage verification pass (two-source bar), 30 Sep 2026 (young adult wives only; minors excluded)",
+     "note": "Note: a coercive guardian–ward relationship; their intimacy precedes the marriage, which she keeps sexless.",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy in the cited plots",
+     "kids_together": "no",
+     "kids_status": "no",
+     "kids_note": "none before the marriage",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 1948,
+   "title": "Bihter",
+   "subtitle": "",
+   "year": "2023",
+   "meta": "Film · Turkey · Turkish (Amazon Prime) · Aşk-ı Memnu adaptation",
+   "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+   "confidence_flag": "Medium-high · 3 sources",
+   "summary": "In the 1920s young Bihter marries the wealthy Adnan, almost twice her age and father of Nihal and Bülent; the film portrays his unwanted marital intimacy before her affair with Behlül, and it ends with her walking away alive instead of the novel's suicide.",
+   "character": "Character: Bihter (Farah Zeynep Abdullah) and Adnan (Osman Sonant)",
+   "provenance": "Age-gap marriage verification pass (two-source bar), 30 Sep 2026 (young adult wives only; minors excluded)",
+   "note": "Note: a separate film, distinct from the 2008 Aşk-ı Memnu series card.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "no pregnancy for Bihter (only her mother Firdevs falsely claims one)",
+   "kids_status": "no",
+   "kids_note": "none before the marriage (Adnan's children are her stepchildren)",
+   "kids_together": "no",
+   "format": "movie",
+   "categories": [
+    "agegap-marriage"
+   ],
+   "sources": [
+    {
+     "label": "Film Fugitives",
+     "url": "https://fugitives.com/bihter-ending-explained-movie-summary-did-bihter-stop-behlul-and-nihals-marriage/"
+    },
+    {
+     "label": "Typelish",
+     "url": "https://typelish.com/b/bihter-2023-108508"
+    },
+    {
+     "label": "iyi10",
+     "url": "https://iyi10.net/bihter-trajediden-isyana-bir-kadin-hikayesi/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "agegap-marriage"
+   ],
+   "source_records": [
+    "agegap-marriage:16"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "agegap-marriage:16": {
+     "title": "Bihter",
+     "subtitle": "",
+     "year": "2023",
+     "format": "movie",
+     "meta": "Film · Turkey · Turkish (Amazon Prime) · Aşk-ı Memnu adaptation",
+     "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+     "confidence_flag": "Medium-high · 3 sources",
+     "summary": "In the 1920s young Bihter marries the wealthy Adnan, almost twice her age and father of Nihal and Bülent; the film portrays his unwanted marital intimacy before her affair with Behlül, and it ends with her walking away alive instead of the novel's suicide.",
+     "character": "Character: Bihter (Farah Zeynep Abdullah) and Adnan (Osman Sonant)",
+     "categories": [
+      "agegap-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Film Fugitives",
+       "url": "https://fugitives.com/bihter-ending-explained-movie-summary-did-bihter-stop-behlul-and-nihals-marriage/"
+      },
+      {
+       "label": "Typelish",
+       "url": "https://typelish.com/b/bihter-2023-108508"
+      },
+      {
+       "label": "iyi10",
+       "url": "https://iyi10.net/bihter-trajediden-isyana-bir-kadin-hikayesi/"
+      }
+     ],
+     "provenance": "Age-gap marriage verification pass (two-source bar), 30 Sep 2026 (young adult wives only; minors excluded)",
+     "note": "Note: a separate film, distinct from the 2008 Aşk-ı Memnu series card.",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "no pregnancy for Bihter (only her mother Firdevs falsely claims one)",
+     "kids_together": "no",
+     "kids_status": "no",
+     "kids_note": "none before the marriage (Adnan's children are her stepchildren)",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 1949,
+   "title": "All My Children",
+   "subtitle": "Dixie Cooney / Adam Chandler arc",
+   "year": "1988–1989",
+   "meta": "Daytime soap · United States · English (ABC)",
+   "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+   "confidence_flag": "High · 3 sources; exact age unstated (adult employee)",
+   "summary": "Billionaire Adam Chandler, much older and married to Brooke, seduces Dixie Cooney, the young nanny to his stepdaughter, to get an heir; Dixie becomes pregnant and has Adam Jr. (JR) in 1989, Adam marries her and then schemes to have her committed until Tad helps her escape, and they divorce in late 1989.",
+   "character": "Character: Dixie Cooney (Cady McClain) and Adam Chandler (David Canary)",
+   "provenance": "Age-gap marriage verification pass (two-source bar), 30 Sep 2026 (young adult wives only; minors excluded)",
+   "note": "",
+   "pregnancy_outcome": "becomes pregnant by the end",
+   "pregnancy_note": "by Adam — son Adam Jr. (JR), born 1989 before the wedding",
+   "kids_status": "no",
+   "kids_note": "none before the marriage",
+   "kids_together": "yes — son Adam Chandler Jr. (JR)",
+   "format": "tv",
+   "categories": [
+    "agegap-marriage"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia · Dixie Cooney",
+     "url": "https://en.wikipedia.org/wiki/Dixie_Cooney"
+    },
+    {
+     "label": "SheKnows · JR Chandler",
+     "url": "https://soaps.sheknows.com/all-my-children/characters/jr-chandler-past/"
+    },
+    {
+     "label": "Wikipedia · Tad Martin and Dixie Cooney",
+     "url": "https://en.wikipedia.org/wiki/Tad_Martin_and_Dixie_Cooney"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "agegap-marriage"
+   ],
+   "source_records": [
+    "agegap-marriage:17"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "agegap-marriage:17": {
+     "title": "All My Children",
+     "subtitle": "Dixie Cooney / Adam Chandler arc",
+     "year": "1988–1989",
+     "format": "tv",
+     "meta": "Daytime soap · United States · English (ABC)",
+     "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+     "confidence_flag": "High · 3 sources; exact age unstated (adult employee)",
+     "summary": "Billionaire Adam Chandler, much older and married to Brooke, seduces Dixie Cooney, the young nanny to his stepdaughter, to get an heir; Dixie becomes pregnant and has Adam Jr. (JR) in 1989, Adam marries her and then schemes to have her committed until Tad helps her escape, and they divorce in late 1989.",
+     "character": "Character: Dixie Cooney (Cady McClain) and Adam Chandler (David Canary)",
+     "categories": [
+      "agegap-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia · Dixie Cooney",
+       "url": "https://en.wikipedia.org/wiki/Dixie_Cooney"
+      },
+      {
+       "label": "SheKnows · JR Chandler",
+       "url": "https://soaps.sheknows.com/all-my-children/characters/jr-chandler-past/"
+      },
+      {
+       "label": "Wikipedia · Tad Martin and Dixie Cooney",
+       "url": "https://en.wikipedia.org/wiki/Tad_Martin_and_Dixie_Cooney"
+      }
+     ],
+     "provenance": "Age-gap marriage verification pass (two-source bar), 30 Sep 2026 (young adult wives only; minors excluded)",
+     "note": "",
+     "pregnancy_outcome": "becomes pregnant by the end",
+     "pregnancy_note": "by Adam — son Adam Jr. (JR), born 1989 before the wedding",
+     "kids_together": "yes — son Adam Chandler Jr. (JR)",
+     "kids_status": "no",
+     "kids_note": "none before the marriage",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 1950,
+   "title": "Guiding Light",
+   "subtitle": "Reva Shayne / H.B. Lewis arc",
+   "year": "1984–1985",
+   "meta": "Daytime soap · United States · English (CBS)",
+   "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+   "confidence_flag": "High · 3+ sources",
+   "summary": "Oil patriarch H.B. Lewis, much older, persuades young Reva Shayne to marry him (May 1984), making her stepmother to his grown sons Josh and Billy; she becomes pregnant with H.B.'s child (Nov 1984), loses the baby (Feb 1985) and divorces him to marry Kyle Sampson (Dec 1985).",
+   "character": "Character: Reva Shayne (Kim Zimmer) and H.B. Lewis (Larry Gates)",
+   "provenance": "Age-gap marriage verification pass (two-source bar), 30 Sep 2026 (young adult wives only; minors excluded)",
+   "note": "",
+   "pregnancy_outcome": "becomes pregnant by the end",
+   "pregnancy_note": "by H.B. — she miscarries in Feb 1985",
+   "kids_status": "not stated on screen at the time",
+   "kids_note": "later storylines give her an older son, Dylan, with Billy Lewis (timing not double-sourced)",
+   "kids_together": "no",
+   "format": "tv",
+   "categories": [
+    "agegap-marriage",
+    "stepmom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Guiding Light 1980s timeline",
+     "url": "https://anybrowser.org/soaps/gl/1980.html"
+    },
+    {
+     "label": "SheKnows · Reva Shayne",
+     "url": "https://soaps.sheknows.com/guiding-light/characters/reva-shayne/"
+    },
+    {
+     "label": "Wikipedia · Josh Lewis and Reva Shayne",
+     "url": "https://en.wikipedia.org/wiki/Josh_Lewis_and_Reva_Shayne"
+    },
+    {
+     "label": "Wikipedia · Reva Shayne",
+     "url": "https://en.wikipedia.org/wiki/Reva_Shayne"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "agegap-marriage"
+   ],
+   "source_records": [
+    "agegap-marriage:18"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "agegap-marriage:18": {
+     "title": "Guiding Light",
+     "subtitle": "Reva Shayne / H.B. Lewis arc",
+     "year": "1984–1985",
+     "format": "tv",
+     "meta": "Daytime soap · United States · English (CBS)",
+     "mechanism": "Age-gap marriage — young adult wife, older / rich husband",
+     "confidence_flag": "High · 3+ sources",
+     "summary": "Oil patriarch H.B. Lewis, much older, persuades young Reva Shayne to marry him (May 1984), making her stepmother to his grown sons Josh and Billy; she becomes pregnant with H.B.'s child (Nov 1984), loses the baby (Feb 1985) and divorces him to marry Kyle Sampson (Dec 1985).",
+     "character": "Character: Reva Shayne (Kim Zimmer) and H.B. Lewis (Larry Gates)",
+     "categories": [
+      "agegap-marriage",
+      "stepmom-pregnancy"
+     ],
+     "sources": [
+      {
+       "label": "Guiding Light 1980s timeline",
+       "url": "https://anybrowser.org/soaps/gl/1980.html"
+      },
+      {
+       "label": "SheKnows · Reva Shayne",
+       "url": "https://soaps.sheknows.com/guiding-light/characters/reva-shayne/"
+      },
+      {
+       "label": "Wikipedia · Josh Lewis and Reva Shayne",
+       "url": "https://en.wikipedia.org/wiki/Josh_Lewis_and_Reva_Shayne"
+      },
+      {
+       "label": "Wikipedia · Reva Shayne",
+       "url": "https://en.wikipedia.org/wiki/Reva_Shayne"
+      }
+     ],
+     "provenance": "Age-gap marriage verification pass (two-source bar), 30 Sep 2026 (young adult wives only; minors excluded)",
+     "note": "",
+     "pregnancy_outcome": "becomes pregnant by the end",
+     "pregnancy_note": "by H.B. — she miscarries in Feb 1985",
+     "kids_together": "no",
+     "kids_status": "not stated on screen at the time",
+     "kids_note": "later storylines give her an older son, Dylan, with Billy Lewis (timing not double-sourced)",
      "standalone": true
     }
    }
@@ -226770,6 +227284,10 @@
        "from_source": "agegap-marriage"
       },
       {
+       "id": 1950,
+       "from_source": "agegap-marriage"
+      },
+      {
        "id": 1945,
        "from_source": "agegap-marriage"
       }
@@ -235422,7 +235940,15 @@
      "notes": [],
      "items": [
       {
+       "id": 1949,
+       "from_source": "agegap-marriage"
+      },
+      {
        "id": 1935,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 1948,
        "from_source": "agegap-marriage"
       },
       {
@@ -235450,6 +235976,10 @@
        "from_source": "agegap-marriage"
       },
       {
+       "id": 1950,
+       "from_source": "agegap-marriage"
+      },
+      {
        "id": 1946,
        "from_source": "agegap-marriage"
       },
@@ -235467,6 +235997,10 @@
       },
       {
        "id": 1934,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 1947,
        "from_source": "agegap-marriage"
       },
       {
