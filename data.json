@@ -1469,7 +1469,20 @@
     }
    ],
    "check": {
-    "raw_count": 30,
+    "raw_count": 29,
+    "ok": true
+   },
+   "status": "local"
+  },
+  {
+   "id": "field-fixes",
+   "label": "Card field fixes (conflicting pregnancy / kids / marriage values)",
+   "kind": "local",
+   "share_url": "sources/field-fixes.json",
+   "description": "Precedence fixes for cards where copies disagreed on pregnancy, kids or marriage values and no topical curated source covers the card. Each record only overrides the fields named in override_fields, using the cited sources; it adds no categories.",
+   "dropped": [],
+   "check": {
+    "raw_count": 2,
     "ok": true
    },
    "status": "local"
@@ -1489,10 +1502,11 @@
   "older-man-hypnosis": 36,
   "hypno-intimacy": 11,
   "mother-kids-hypnosis": 38,
-  "hypno-leftovers": 30
+  "hypno-leftovers": 29,
+  "field-fixes": 2
  },
- "raw_total": 3352,
- "entry_count": 1965,
+ "raw_total": 3353,
+ "entry_count": 1962,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -1504,7 +1518,7 @@
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 194
+   "entry_count": 193
   },
   {
    "key": "walkin",
@@ -1570,7 +1584,7 @@
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 569
+   "entry_count": 567
   },
   {
    "key": "wife",
@@ -1594,7 +1608,7 @@
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 79
+   "entry_count": 78
   },
   {
    "key": "love",
@@ -1911,7 +1925,7 @@
     "ig6qlxqxoxvcxla:1",
     "ig6qlxqxoxvcxla:182",
     "worldwide-hypnosis:866",
-    "hypno-leftovers:15"
+    "hypno-leftovers:14"
    ],
    "index_only": false,
    "local_only": false,
@@ -2046,7 +2060,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:15",
+     "rid": "hypno-leftovers:14",
      "source": "hypno-leftovers",
      "label": "The Curse of the Jade Scorpion (2001)",
      "identifiers": [
@@ -2166,7 +2180,7 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypno-leftovers:15": {
+    "hypno-leftovers:14": {
      "title": "The Curse of the Jade Scorpion",
      "year": "2001",
      "match_title": "The Curse of the Jade Scorpion",
@@ -4839,6 +4853,7 @@
     "therapist-wife",
     "adult-hypnosis",
     "partner-control",
+    "human",
     "index-50",
     "medical",
     "hypno-intimacy",
@@ -4892,9 +4907,11 @@
    ],
    "source_records": [
     "xla62ucxbx02u5:18",
+    "xla62ucxbx02u5:272",
     "ig6qlxqxoxvcxla:66",
     "ig6qlxqxoxvcxla:281",
     "ig6qlxqxoxvcxla:306",
+    "ig6qlxqxoxvcxla:508",
     "rich-wife-hypnosis:26",
     "older-man-hypnosis:22",
     "hypno-intimacy:6"
@@ -4954,6 +4971,30 @@
     "distinct_story": false
    },
    "merged_from": [
+    {
+     "rid": "xla62ucxbx02u5:272",
+     "source": "xla62ucxbx02u5",
+     "label": "Hypnotized (2004)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "Hypnotized",
+     "subtitle": "",
+     "year": "2004",
+     "meta": "Film · South Korea",
+     "summary": "Ji Su is hypnotically manipulated by psychiatrist Seok-won.",
+     "character": "",
+     "note": "",
+     "mechanism": "Human-villain hypnosis / mind control",
+     "confidence_flag": "Research report · web-verified",
+     "categories": [
+      "human"
+     ],
+     "sources": [],
+     "distinct_story": true,
+     "matched_by": "merge rule"
+    },
     {
      "rid": "ig6qlxqxoxvcxla:66",
      "source": "ig6qlxqxoxvcxla",
@@ -5051,6 +5092,31 @@
      "distinct_story": false,
      "index_title": "The Hypnotized / Faceless Beauty (2004)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "ig6qlxqxoxvcxla:508",
+     "source": "ig6qlxqxoxvcxla",
+     "label": "Hypnotized (2004 Korea)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "Hypnotized",
+     "subtitle": "",
+     "year": "2004 Korea",
+     "meta": "Movies & film serials",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "Cataloged",
+     "categories": [
+      "human"
+     ],
+     "sources": [],
+     "distinct_story": false,
+     "index_title": "Hypnotized (2004 Korea)",
+     "matched_by": "merge rule"
     },
     {
      "rid": "rich-wife-hypnosis:26",
@@ -5443,8 +5509,41 @@
      "evidence": "2+ independent sources (Variety, TV Tropes, WilfMovies)",
      "fit_note": "Hypnotized-intimacy: psychiatrist Seok-won has sex with married patient Ji-su while she is under hypnosis; when he later tries without hypnosis, she stops",
      "format": "movie"
+    },
+    "xla62ucxbx02u5:272": {
+     "t": "Hypnotized",
+     "y": "2004",
+     "f": "movie",
+     "m": "Film · South Korea",
+     "c": [
+      "human"
+     ],
+     "mec": "Human-villain hypnosis / mind control",
+     "flag": "Research report · web-verified",
+     "s": "Ji Su is hypnotically manipulated by psychiatrist Seok-won.",
+     "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
+    },
+    "ig6qlxqxoxvcxla:508": {
+     "title": "Hypnotized (2004 Korea)",
+     "category": "Human-villain control",
+     "group": "Catalog records",
+     "confidence": "Cataloged",
+     "note": ""
     }
-   }
+   },
+   "retired_ids": [
+    257
+   ],
+   "absorbed_titles": [
+    {
+     "title": "Hypnotized",
+     "year": "2004"
+    },
+    {
+     "title": "Hypnotized",
+     "year": "2004 Korea"
+    }
+   ]
   },
   {
    "id": 19,
@@ -5828,7 +5927,7 @@
    "source_records": [
     "xla62ucxbx02u5:21",
     "ig6qlxqxoxvcxla:13",
-    "hypno-leftovers:18"
+    "hypno-leftovers:17"
    ],
    "index_only": false,
    "local_only": false,
@@ -5902,7 +6001,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:18",
+     "rid": "hypno-leftovers:17",
      "source": "hypno-leftovers",
      "label": "Svengali (1927)",
      "identifiers": [
@@ -5983,7 +6082,7 @@
       ]
      }
     },
-    "hypno-leftovers:18": {
+    "hypno-leftovers:17": {
      "title": "Svengali",
      "year": "1927",
      "match_title": "Svengali",
@@ -7241,7 +7340,7 @@
     "ig6qlxqxoxvcxla:481",
     "worldwide-hypnosis:821",
     "older-man-hypnosis:16",
-    "hypno-leftovers:19"
+    "hypno-leftovers:18"
    ],
    "index_only": false,
    "local_only": false,
@@ -7522,7 +7621,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:19",
+     "rid": "hypno-leftovers:18",
      "source": "hypno-leftovers",
      "label": "Svengali (1931)",
      "identifiers": [
@@ -7731,7 +7830,7 @@
      "group": "Loose fit — outside the strict older-man criteria (Sep 2026)",
      "confidence_flag": "Loose fit"
     },
-    "hypno-leftovers:19": {
+    "hypno-leftovers:18": {
      "title": "Svengali",
      "year": "1931",
      "match_title": "Svengali",
@@ -8892,7 +8991,7 @@
     "ig6qlxqxoxvcxla:482",
     "worldwide-hypnosis:833",
     "older-man-hypnosis:17",
-    "hypno-leftovers:20"
+    "hypno-leftovers:19"
    ],
    "index_only": false,
    "local_only": false,
@@ -9095,7 +9194,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:20",
+     "rid": "hypno-leftovers:19",
      "source": "hypno-leftovers",
      "label": "Svengali (1954)",
      "identifiers": [
@@ -9263,7 +9362,7 @@
      "group": "Loose fit — outside the strict older-man criteria (Sep 2026)",
      "confidence_flag": "Loose fit"
     },
-    "hypno-leftovers:20": {
+    "hypno-leftovers:19": {
      "title": "Svengali",
      "year": "1954",
      "match_title": "Svengali",
@@ -10644,7 +10743,7 @@
    "source_records": [
     "xla62ucxbx02u5:43",
     "worldwide-hypnosis:818",
-    "hypno-leftovers:21"
+    "hypno-leftovers:20"
    ],
    "index_only": false,
    "local_only": false,
@@ -10717,7 +10816,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:21",
+     "rid": "hypno-leftovers:20",
      "source": "hypno-leftovers",
      "label": "Svengali (1983)",
      "identifiers": [
@@ -10793,7 +10892,7 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypno-leftovers:21": {
+    "hypno-leftovers:20": {
      "title": "Svengali",
      "year": "1983",
      "match_title": "Svengali",
@@ -44845,7 +44944,7 @@
     "xla62ucxbx02u5:238",
     "worldwide-hypnosis:135",
     "older-man-hypnosis:19",
-    "hypno-leftovers:16"
+    "hypno-leftovers:15"
    ],
    "index_only": false,
    "local_only": false,
@@ -44953,7 +45052,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:16",
+     "rid": "hypno-leftovers:15",
      "source": "hypno-leftovers",
      "label": "Black Magic (1949)",
      "identifiers": [
@@ -45062,7 +45161,7 @@
      "group": "Loose fit — outside the strict older-man criteria (Sep 2026)",
      "confidence_flag": "Loose fit"
     },
-    "hypno-leftovers:16": {
+    "hypno-leftovers:15": {
      "title": "Black Magic",
      "year": "1949",
      "match_title": "Black Magic",
@@ -50788,107 +50887,6 @@
      "pregnancy_outcome": "unknown",
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
-    }
-   }
-  },
-  {
-   "id": 257,
-   "title": "Hypnotized",
-   "subtitle": "",
-   "year": "2004",
-   "meta": "Film · South Korea",
-   "mechanism": "Human-villain hypnosis / mind control",
-   "confidence_flag": "Research report · web-verified",
-   "summary": "Ji Su is hypnotically manipulated by psychiatrist Seok-won.",
-   "character": "",
-   "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
-   "note": "",
-   "format": "movie",
-   "categories": [
-    "human"
-   ],
-   "sources": [],
-   "youtube_ids": [],
-   "from_sources": [
-    "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
-   ],
-   "source_records": [
-    "xla62ucxbx02u5:272",
-    "ig6qlxqxoxvcxla:508"
-   ],
-   "index_only": false,
-   "local_only": false,
-   "thumbnail": null,
-   "primary_copy": {
-    "rid": "xla62ucxbx02u5:272",
-    "source": "xla62ucxbx02u5",
-    "label": "Hypnotized (2004)",
-    "identifiers": [
-     "year/date"
-    ],
-    "title": "Hypnotized",
-    "subtitle": "",
-    "year": "2004",
-    "meta": "Film · South Korea",
-    "summary": "Ji Su is hypnotically manipulated by psychiatrist Seok-won.",
-    "character": "",
-    "note": "",
-    "mechanism": "Human-villain hypnosis / mind control",
-    "confidence_flag": "Research report · web-verified",
-    "categories": [
-     "human"
-    ],
-    "sources": [],
-    "distinct_story": false
-   },
-   "merged_from": [
-    {
-     "rid": "ig6qlxqxoxvcxla:508",
-     "source": "ig6qlxqxoxvcxla",
-     "label": "Hypnotized (2004 Korea)",
-     "identifiers": [
-      "year/date",
-      "own title/qualifier"
-     ],
-     "title": "Hypnotized",
-     "subtitle": "",
-     "year": "2004 Korea",
-     "meta": "Movies & film serials",
-     "summary": "",
-     "character": "",
-     "note": "",
-     "mechanism": "",
-     "confidence_flag": "Cataloged",
-     "categories": [
-      "human"
-     ],
-     "sources": [],
-     "distinct_story": false,
-     "index_title": "Hypnotized (2004 Korea)",
-     "matched_by": "title+year"
-    }
-   ],
-   "raw": {
-    "xla62ucxbx02u5:272": {
-     "t": "Hypnotized",
-     "y": "2004",
-     "f": "movie",
-     "m": "Film · South Korea",
-     "c": [
-      "human"
-     ],
-     "mec": "Human-villain hypnosis / mind control",
-     "flag": "Research report · web-verified",
-     "s": "Ji Su is hypnotically manipulated by psychiatrist Seok-won.",
-     "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
-    },
-    "ig6qlxqxoxvcxla:508": {
-     "title": "Hypnotized (2004 Korea)",
-     "category": "Human-villain control",
-     "group": "Catalog records",
-     "confidence": "Cataloged",
-     "note": ""
     }
    }
   },
@@ -102720,217 +102718,6 @@
    }
   },
   {
-   "id": 618,
-   "title": "Tau kwai mou jeu 2: Yau yan fan jeu",
-   "subtitle": "",
-   "year": "2003",
-   "meta": "Film · likely Hong Kong · likely Cantonese",
-   "mechanism": "Hypnotic powers / compelled suicide",
-   "confidence_flag": "Medium-high confidence · metadata unconfirmed",
-   "summary": "A billionaire uses hypnotic powers to seduce women in his company and then makes them commit suicide; a reporter’s friend is among the victims. English title, country and cast remain unconfirmed.",
-   "character": "",
-   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
-   "note": "",
-   "kids_status": "not stated",
-   "kids_together": "no",
-   "married": "no",
-   "pregnant_end": "no",
-   "pregnant_end_note": "the victims are hypnotized into suicide",
-   "evidence": "2+ sources (IMDb, Mental Block, Kinobaza)",
-   "fit_note": "Duplicate of card “To Seduce an Enemy” (2003): same Hong Kong film, whose Cantonese title is Tau kwai mou jeu 2: Yau yan fan jeu. Kept separate so IDs stay stable; see that card for the full plot",
-   "format": "movie",
-   "categories": [
-    "forced-obedience",
-    "adult-hypnosis",
-    "human",
-    "crime"
-   ],
-   "sources": [
-    {
-     "label": "IMDb",
-     "url": "https://www.imdb.com/title/tt0378884"
-    },
-    {
-     "label": "Mental Block wiki (To Seduce An Enemy)",
-     "url": "https://mentalblock.miraheze.org/wiki/To_Seduce_An_Enemy"
-    },
-    {
-     "label": "Kinobaza",
-     "url": "https://kinobaza.com.ua/titles/tau-kwai-mou-jeu-2-yau-yan-fan-jeu/cast"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla",
-    "hypno-leftovers"
-   ],
-   "source_records": [
-    "xla62ucxbx02u5:651",
-    "ig6qlxqxoxvcxla:238",
-    "hypno-leftovers:6"
-   ],
-   "index_only": false,
-   "local_only": false,
-   "thumbnail": null,
-   "primary_copy": {
-    "rid": "xla62ucxbx02u5:651",
-    "source": "xla62ucxbx02u5",
-    "label": "Tau kwai mou jeu 2: Yau yan fan jeu (2003)",
-    "identifiers": [
-     "year/date"
-    ],
-    "title": "Tau kwai mou jeu 2: Yau yan fan jeu",
-    "subtitle": "",
-    "year": "2003",
-    "meta": "Film · likely Hong Kong · likely Cantonese",
-    "summary": "A billionaire uses hypnotic powers to seduce women in his company and then makes them commit suicide; a reporter’s friend is among the victims. English title, country and cast remain unconfirmed.",
-    "character": "",
-    "note": "",
-    "mechanism": "Hypnotic powers / compelled suicide",
-    "confidence_flag": "Medium-high confidence · metadata unconfirmed",
-    "categories": [
-     "forced-obedience"
-    ],
-    "sources": [
-     {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0378884"
-     }
-    ],
-    "distinct_story": false
-   },
-   "merged_from": [
-    {
-     "rid": "ig6qlxqxoxvcxla:238",
-     "source": "ig6qlxqxoxvcxla",
-     "label": "Tau kwai mou jeu 2 (2003)",
-     "identifiers": [
-      "year/date",
-      "own title/qualifier"
-     ],
-     "title": "Tau kwai mou jeu 2",
-     "subtitle": "",
-     "year": "2003",
-     "meta": "Movies & film serials",
-     "summary": "",
-     "character": "",
-     "note": "",
-     "mechanism": "",
-     "confidence_flag": "Cataloged",
-     "categories": [
-      "forced-obedience"
-     ],
-     "sources": [],
-     "distinct_story": false,
-     "index_title": "Tau kwai mou jeu 2 (2003)",
-     "matched_by": "prefix"
-    },
-    {
-     "rid": "hypno-leftovers:6",
-     "source": "hypno-leftovers",
-     "label": "Tau kwai mou jeu 2: Yau yan fan jeu (2003)",
-     "identifiers": [
-      "year/date"
-     ],
-     "title": "Tau kwai mou jeu 2: Yau yan fan jeu",
-     "subtitle": "",
-     "year": "2003",
-     "meta": "",
-     "summary": "",
-     "character": "",
-     "note": "",
-     "mechanism": "",
-     "confidence_flag": "",
-     "categories": [
-      "adult-hypnosis",
-      "human",
-      "crime"
-     ],
-     "sources": [
-      {
-       "label": "Mental Block wiki (To Seduce An Enemy)",
-       "url": "https://mentalblock.miraheze.org/wiki/To_Seduce_An_Enemy"
-      },
-      {
-       "label": "Kinobaza",
-       "url": "https://kinobaza.com.ua/titles/tau-kwai-mou-jeu-2-yau-yan-fan-jeu/cast"
-      }
-     ],
-     "kids_status": "not stated",
-     "kids_together": "no",
-     "married": "no",
-     "pregnant_end": "no",
-     "pregnant_end_note": "the victims are hypnotized into suicide",
-     "evidence": "2+ sources (IMDb, Mental Block, Kinobaza)",
-     "fit_note": "Duplicate of card “To Seduce an Enemy” (2003): same Hong Kong film, whose Cantonese title is Tau kwai mou jeu 2: Yau yan fan jeu. Kept separate so IDs stay stable; see that card for the full plot",
-     "distinct_story": false,
-     "matched_by": "match_title"
-    }
-   ],
-   "raw": {
-    "xla62ucxbx02u5:651": {
-     "t": "Tau kwai mou jeu 2: Yau yan fan jeu",
-     "y": "2003",
-     "f": "movie",
-     "m": "Film · likely Hong Kong · likely Cantonese",
-     "fog": "supernatural",
-     "mec": "Hypnotic powers / compelled suicide",
-     "flag": "Medium-high confidence · metadata unconfirmed",
-     "s": "A billionaire uses hypnotic powers to seduce women in his company and then makes them commit suicide; a reporter’s friend is among the victims. English title, country and cast remain unconfirmed.",
-     "src": [
-      [
-       "IMDb",
-       "https://www.imdb.com/title/tt0378884"
-      ]
-     ],
-     "c": [
-      "forced-obedience"
-     ]
-    },
-    "ig6qlxqxoxvcxla:238": {
-     "title": "Tau kwai mou jeu 2 (2003)",
-     "category": "Forcibly hypnotized to obey",
-     "group": "Supernatural",
-     "confidence": "Cataloged",
-     "note": ""
-    },
-    "hypno-leftovers:6": {
-     "title": "Tau kwai mou jeu 2: Yau yan fan jeu",
-     "year": "2003",
-     "match_title": "Tau kwai mou jeu 2: Yau yan fan jeu",
-     "match_year": "2003",
-     "format": "movie",
-     "categories": [
-      "adult-hypnosis",
-      "human",
-      "crime"
-     ],
-     "sources": [
-      {
-       "label": "Mental Block wiki (To Seduce An Enemy)",
-       "url": "https://mentalblock.miraheze.org/wiki/To_Seduce_An_Enemy"
-      },
-      {
-       "label": "Kinobaza",
-       "url": "https://kinobaza.com.ua/titles/tau-kwai-mou-jeu-2-yau-yan-fan-jeu/cast"
-      }
-     ],
-     "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
-     "pregnant_end": "no",
-     "pregnant_end_note": "the victims are hypnotized into suicide",
-     "kids_together": "no",
-     "kids_together_note": "",
-     "kids_status": "not stated",
-     "kids_note": "",
-     "married": "no",
-     "married_note": "",
-     "evidence": "2+ sources (IMDb, Mental Block, Kinobaza)",
-     "fit_note": "Duplicate of card “To Seduce an Enemy” (2003): same Hong Kong film, whose Cantonese title is Tau kwai mou jeu 2: Yau yan fan jeu. Kept separate so IDs stay stable; see that card for the full plot"
-    }
-   }
-  },
-  {
    "id": 619,
    "title": "Hypnose",
    "subtitle": "",
@@ -104481,7 +104268,7 @@
   {
    "id": 629,
    "title": "To Seduce an Enemy",
-   "subtitle": "",
+   "subtitle": "Tau kwai mou jeu 2: Yau yan fan jeu",
    "year": "2003",
    "meta": "film · 2003, Hong Kong",
    "mechanism": "Husband hypnotizes wife",
@@ -104491,25 +104278,28 @@
    "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
    "note": "",
    "pregnancy_outcome": "not pregnant",
-   "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "pregnancy_note": "No pregnancy for the seduced employees (e.g. Ting) or for Joe's wife Daisy in any cited source.",
    "hypnotist": "her husband, businessman-hypnotist Joe Siu",
    "gain_motive": [
     "crime",
     "other (hiding his affairs)"
    ],
    "method": "hypnosis",
-   "kids_status": "unknown",
-   "kids_together": "unknown",
+   "kids_status": "not stated",
+   "kids_note": "the seduced employees' children are not mentioned (nor any children of Joe and Daisy)",
+   "kids_together": "no",
+   "kids_together_note": "Joe has no children with the seduced employees",
    "married": "no",
-   "married_note": "he does not marry the employees; he is already married to Daisy",
-   "pregnant_end": "unknown",
-   "pregnant_end_note": "not covered by the sources",
+   "married_note": "Joe doesn't marry the seduced employees; he is already married to Daisy, whom he hypnotizes to kill, not for sex",
+   "pregnant_end": "no",
+   "pregnant_end_note": "the seduced employees are hypnotized into suicide; no pregnancy in any source",
    "evidence": "2+ independent sources (Mental Block, TMDB, IMDb)",
    "fit_note": "Rich-man fit is clear; the age gap is not stated in any source (loose 'older man' fit)",
    "format": "movie",
    "categories": [
     "adult-hypnosis",
     "partner-control",
+    "forced-obedience",
     "crime",
     "human",
     "wife",
@@ -104540,17 +104330,20 @@
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
+    "ig6qlxqxoxvcxla",
     "worldwide-hypnosis",
     "rich-wife-hypnosis",
     "older-man-hypnosis",
     "hypno-leftovers"
    ],
    "source_records": [
+    "xla62ucxbx02u5:651",
     "xla62ucxbx02u5:662",
+    "ig6qlxqxoxvcxla:238",
     "worldwide-hypnosis:1006",
     "rich-wife-hypnosis:14",
     "older-man-hypnosis:4",
-    "hypno-leftovers:7"
+    "hypno-leftovers:6"
    ],
    "index_only": false,
    "local_only": false,
@@ -104584,6 +104377,60 @@
     "distinct_story": false
    },
    "merged_from": [
+    {
+     "rid": "xla62ucxbx02u5:651",
+     "source": "xla62ucxbx02u5",
+     "label": "Tau kwai mou jeu 2: Yau yan fan jeu (2003)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "Tau kwai mou jeu 2: Yau yan fan jeu",
+     "subtitle": "",
+     "year": "2003",
+     "meta": "Film · likely Hong Kong · likely Cantonese",
+     "summary": "A billionaire uses hypnotic powers to seduce women in his company and then makes them commit suicide; a reporter’s friend is among the victims. English title, country and cast remain unconfirmed.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnotic powers / compelled suicide",
+     "confidence_flag": "Medium-high confidence · metadata unconfirmed",
+     "categories": [
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0378884"
+      }
+     ],
+     "distinct_story": true,
+     "matched_by": "merge rule"
+    },
+    {
+     "rid": "ig6qlxqxoxvcxla:238",
+     "source": "ig6qlxqxoxvcxla",
+     "label": "Tau kwai mou jeu 2 (2003)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "Tau kwai mou jeu 2",
+     "subtitle": "",
+     "year": "2003",
+     "meta": "Movies & film serials",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "Cataloged",
+     "categories": [
+      "forced-obedience"
+     ],
+     "sources": [],
+     "distinct_story": false,
+     "index_title": "Tau kwai mou jeu 2 (2003)",
+     "matched_by": "merge rule"
+    },
     {
      "rid": "worldwide-hypnosis:1006",
      "source": "worldwide-hypnosis",
@@ -104705,7 +104552,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:7",
+     "rid": "hypno-leftovers:6",
      "source": "hypno-leftovers",
      "label": "To Seduce an Enemy (2003)",
      "identifiers": [
@@ -104721,7 +104568,10 @@
      "mechanism": "",
      "confidence_flag": "",
      "categories": [
-      "hypno-intimacy"
+      "hypno-intimacy",
+      "adult-hypnosis",
+      "human",
+      "crime"
      ],
      "sources": [
       {
@@ -104731,15 +104581,24 @@
       {
        "label": "Kinobaza",
        "url": "https://kinobaza.com.ua/titles/tau-kwai-mou-jeu-2-yau-yan-fan-jeu/cast"
+      },
+      {
+       "label": "Mental Block wiki (To Seduce An Enemy)",
+       "url": "https://mentalblock.miraheze.org/wiki/To_Seduce_An_Enemy"
       }
      ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy for the seduced employees (e.g. Ting) or for Joe's wife Daisy in any cited source.",
      "kids_status": "not stated",
+     "kids_note": "the seduced employees' children are not mentioned (nor any children of Joe and Daisy)",
      "kids_together": "no",
+     "kids_together_note": "Joe has no children with the seduced employees",
      "married": "no",
+     "married_note": "Joe doesn't marry the seduced employees; he is already married to Daisy, whom he hypnotizes to kill, not for sex",
      "pregnant_end": "no",
-     "pregnant_end_note": "hypnotized employee Ting is ordered to kill herself",
+     "pregnant_end_note": "the seduced employees are hypnotized into suicide; no pregnancy in any source",
      "evidence": "2+ sources for the hypnotic seduction (IMDb synopsis, Mental Block plot, Baidu Baike)",
-     "fit_note": "Hypnotized-intimacy: businessman-hypnotist Joe Siu uses subliminal videos to hypnotize and seduce young women who work for his company, then orders them to kill themselves. His wife Daisy is hypnotized to kill, not for sex. Also listed as card “Tau kwai mou jeu 2” (duplicate)",
+     "fit_note": "Hypnotized-intimacy: businessman-hypnotist Joe Siu uses subliminal videos to hypnotize and seduce young women who work for his company, then orders them to kill themselves. The pregnancy, kids and marriage lines refer to these employees. His wife Daisy is hypnotized to kill, not for sex. Merged with the former duplicate card listed under the Cantonese title Tau kwai mou jeu 2: Yau yan fan jeu",
      "distinct_story": false,
      "matched_by": "match_title"
     }
@@ -104863,14 +104722,17 @@
      "note": "",
      "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
     },
-    "hypno-leftovers:7": {
+    "hypno-leftovers:6": {
      "title": "To Seduce an Enemy",
      "year": "2003",
      "match_title": "To Seduce an Enemy",
      "match_year": "2003",
      "format": "movie",
      "categories": [
-      "hypno-intimacy"
+      "hypno-intimacy",
+      "adult-hypnosis",
+      "human",
+      "crime"
      ],
      "sources": [
       {
@@ -104880,21 +104742,73 @@
       {
        "label": "Kinobaza",
        "url": "https://kinobaza.com.ua/titles/tau-kwai-mou-jeu-2-yau-yan-fan-jeu/cast"
+      },
+      {
+       "label": "Mental Block wiki (To Seduce An Enemy)",
+       "url": "https://mentalblock.miraheze.org/wiki/To_Seduce_An_Enemy"
       }
      ],
      "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
      "pregnant_end": "no",
-     "pregnant_end_note": "hypnotized employee Ting is ordered to kill herself",
+     "pregnant_end_note": "the seduced employees are hypnotized into suicide; no pregnancy in any source",
      "kids_together": "no",
-     "kids_together_note": "",
+     "kids_together_note": "Joe has no children with the seduced employees",
      "kids_status": "not stated",
-     "kids_note": "",
+     "kids_note": "the seduced employees' children are not mentioned (nor any children of Joe and Daisy)",
      "married": "no",
-     "married_note": "",
+     "married_note": "Joe doesn't marry the seduced employees; he is already married to Daisy, whom he hypnotizes to kill, not for sex",
      "evidence": "2+ sources for the hypnotic seduction (IMDb synopsis, Mental Block plot, Baidu Baike)",
-     "fit_note": "Hypnotized-intimacy: businessman-hypnotist Joe Siu uses subliminal videos to hypnotize and seduce young women who work for his company, then orders them to kill themselves. His wife Daisy is hypnotized to kill, not for sex. Also listed as card “Tau kwai mou jeu 2” (duplicate)"
+     "fit_note": "Hypnotized-intimacy: businessman-hypnotist Joe Siu uses subliminal videos to hypnotize and seduce young women who work for his company, then orders them to kill themselves. The pregnancy, kids and marriage lines refer to these employees. His wife Daisy is hypnotized to kill, not for sex. Merged with the former duplicate card listed under the Cantonese title Tau kwai mou jeu 2: Yau yan fan jeu",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy for the seduced employees (e.g. Ting) or for Joe's wife Daisy in any cited source.",
+     "override_fields": [
+      "kids_status",
+      "kids_together",
+      "married",
+      "pregnancy_outcome",
+      "pregnant_end"
+     ]
+    },
+    "xla62ucxbx02u5:651": {
+     "t": "Tau kwai mou jeu 2: Yau yan fan jeu",
+     "y": "2003",
+     "f": "movie",
+     "m": "Film · likely Hong Kong · likely Cantonese",
+     "fog": "supernatural",
+     "mec": "Hypnotic powers / compelled suicide",
+     "flag": "Medium-high confidence · metadata unconfirmed",
+     "s": "A billionaire uses hypnotic powers to seduce women in his company and then makes them commit suicide; a reporter’s friend is among the victims. English title, country and cast remain unconfirmed.",
+     "src": [
+      [
+       "IMDb",
+       "https://www.imdb.com/title/tt0378884"
+      ]
+     ],
+     "c": [
+      "forced-obedience"
+     ]
+    },
+    "ig6qlxqxoxvcxla:238": {
+     "title": "Tau kwai mou jeu 2 (2003)",
+     "category": "Forcibly hypnotized to obey",
+     "group": "Supernatural",
+     "confidence": "Cataloged",
+     "note": ""
     }
-   }
+   },
+   "retired_ids": [
+    618
+   ],
+   "absorbed_titles": [
+    {
+     "title": "Tau kwai mou jeu 2: Yau yan fan jeu",
+     "year": "2003"
+    },
+    {
+     "title": "Tau kwai mou jeu 2",
+     "year": "2003"
+    }
+   ]
   },
   {
    "id": 630,
@@ -105225,6 +105139,7 @@
     "loose fit"
    ],
    "kids_status": "unknown",
+   "kids_note": "no children mentioned for Laura/Lana",
    "kids_together": "no",
    "married": "no",
    "married_note": "the psychiatrist is engaged to someone else (Jennifer)",
@@ -105268,7 +105183,7 @@
    "source_records": [
     "xla62ucxbx02u5:666",
     "older-man-hypnosis:23",
-    "hypno-leftovers:9"
+    "hypno-leftovers:8"
    ],
    "index_only": false,
    "local_only": false,
@@ -105353,7 +105268,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:9",
+     "rid": "hypno-leftovers:8",
      "source": "hypno-leftovers",
      "label": "Body of Influence (1993)",
      "identifiers": [
@@ -105385,7 +105300,8 @@
        "url": "https://chacebook.com/2014/05/01/body-of-influence/"
       }
      ],
-     "kids_status": "no",
+     "kids_status": "not stated",
+     "kids_note": "no children mentioned for Laura/Lana",
      "kids_together": "no",
      "married": "no",
      "married_note": "the psychiatrist is engaged to someone else (Jennifer)",
@@ -105461,7 +105377,7 @@
      "group": "Loose fit — outside the strict older-man criteria (Sep 2026)",
      "confidence_flag": "Loose fit"
     },
-    "hypno-leftovers:9": {
+    "hypno-leftovers:8": {
      "title": "Body of Influence",
      "year": "1993",
      "match_title": "Body of Influence",
@@ -105489,8 +105405,8 @@
      "pregnant_end_note": "",
      "kids_together": "no",
      "kids_together_note": "",
-     "kids_status": "no",
-     "kids_note": "",
+     "kids_status": "not stated",
+     "kids_note": "no children mentioned for Laura/Lana",
      "married": "no",
      "married_note": "the psychiatrist is engaged to someone else (Jennifer)",
      "evidence": "2+ independent sources (Wikipedia, IMDb, Chacebook, rarefilm)",
@@ -105598,7 +105514,7 @@
    ],
    "source_records": [
     "xla62ucxbx02u5:668",
-    "hypno-leftovers:10"
+    "hypno-leftovers:9"
    ],
    "index_only": false,
    "local_only": false,
@@ -105632,7 +105548,7 @@
    },
    "merged_from": [
     {
-     "rid": "hypno-leftovers:10",
+     "rid": "hypno-leftovers:9",
      "source": "hypno-leftovers",
      "label": "À l'aventure / Adventure (2008)",
      "identifiers": [
@@ -105690,7 +105606,7 @@
       ]
      ]
     },
-    "hypno-leftovers:10": {
+    "hypno-leftovers:9": {
      "title": "À l'aventure / Adventure",
      "year": "2008",
      "match_title": "À l'aventure / Adventure",
@@ -106849,6 +106765,8 @@
    "character": "",
    "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
    "note": "",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "kids_status": "unknown",
    "kids_note": "not mentioned in any source",
    "kids_together": "no",
@@ -106857,7 +106775,7 @@
    "pregnant_end": "no",
    "pregnant_end_note": "she dies; no pregnancy in any plot summary",
    "evidence": "2+ independent sources (Wikipedia, Mental Block, Moria review)",
-   "source_conflict": "Year: Mental Block and a second catalog copy list it as 1965 (shot/copyright); Wikipedia and Moria give the 1966 release year",
+   "source_conflict": "Year: Mental Block and a second catalog copy list it as 1965 (shot/copyright); Wikipedia and Moria give the 1966 release year · Merged with the duplicate 1965 card. Wikipedia says it was filmed in 1965, back-to-back with Dracula: Prince of Darkness at Bray Studios, and released in the UK in 1966",
    "fit_note": "Age gap: Lee was about 43, Shelley about 33 at filming; older-man fit is moderate",
    "format": "movie",
    "categories": [
@@ -106877,6 +106795,14 @@
      "url": "https://hammerhouseofhorror.fandom.com/wiki/Rasputin:_The_Mad_Monk_(1966)"
     },
     {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Rasputin%3A_The_Mad_Monk_%281965%29"
+    },
+    {
+     "label": "TV Tropes: Hypnotic Eyes",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoticEyes"
+    },
+    {
      "label": "Mental Block",
      "url": "https://mentalblock.miraheze.org/wiki/Rasputin:_The_Mad_Monk_(1965)"
     },
@@ -106889,12 +106815,14 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
+    "worldwide-hypnosis",
     "older-man-hypnosis",
     "hypno-intimacy"
    ],
    "source_records": [
     "xla62ucxbx02u5:679",
     "ig6qlxqxoxvcxla:151",
+    "worldwide-hypnosis:713",
     "older-man-hypnosis:1",
     "hypno-intimacy:1"
    ],
@@ -106961,6 +106889,41 @@
      "distinct_story": true,
      "index_title": "Rasputin the Mad Monk",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:713",
+     "source": "worldwide-hypnosis",
+     "label": "Rasputin: The Mad Monk (1965)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "Rasputin: The Mad Monk",
+     "subtitle": "",
+     "year": "1965",
+     "meta": "Film · Russia",
+     "summary": "-NWqaOkGUAY  Rasputin, the Mad Monk is a 1966 Hammer horror film directed by Don Sharp and starring Christopher Lee as Grigori Rasputin, the Russian peasant-mystic who gained great influence with the Tsars prior to the Russian Revolution. Scene notes: Zargo tries unsuccessfully to get Sonia out of her trance",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis (type not specified by source)",
+     "confidence_flag": "High · fan-wiki scene log + TV Tropes example",
+     "categories": [
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Rasputin%3A_The_Mad_Monk_%281965%29"
+      },
+      {
+       "label": "TV Tropes: Hypnotic Eyes",
+       "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoticEyes"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+     "distinct_story": true,
+     "matched_by": "merge rule"
     },
     {
      "rid": "older-man-hypnosis:1",
@@ -107174,8 +107137,42 @@
      "evidence": "2+ independent sources (Wikipedia, Moria review, Mental Block, Hammer wiki)",
      "fit_note": "Hypnotized-intimacy: Rasputin uses lady-in-waiting Sonia to satisfy his sexual appetite while controlling her through trances",
      "format": "movie"
+    },
+    "worldwide-hypnosis:713": {
+     "title": "Rasputin: The Mad Monk",
+     "year": "1965",
+     "format": "movie",
+     "meta": "Film · Russia",
+     "summary": "-NWqaOkGUAY  Rasputin, the Mad Monk is a 1966 Hammer horror film directed by Don Sharp and starring Christopher Lee as Grigori Rasputin, the Russian peasant-mystic who gained great influence with the Tsars prior to the Russian Revolution. Scene notes: Zargo tries unsuccessfully to get Sonia out of her trance",
+     "mechanism": "Hypnosis (type not specified by source)",
+     "confidence_flag": "High · fan-wiki scene log + TV Tropes example",
+     "categories": [
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Rasputin%3A_The_Mad_Monk_%281965%29"
+      },
+      {
+       "label": "TV Tropes: Hypnotic Eyes",
+       "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoticEyes"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+     "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
    },
+   "retired_ids": [
+    1559
+   ],
+   "absorbed_titles": [
+    {
+     "title": "Rasputin: The Mad Monk",
+     "year": "1965"
+    }
+   ],
    "watch_links": [
     {
      "service": "Kanopy",
@@ -107997,8 +107994,8 @@
    "character": "",
    "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
    "note": "",
-   "pregnancy_outcome": "unknown",
-   "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "Mi-do, the hypnotized woman, is never pregnant. The only pregnancy in the plot is the rumored (phantom) pregnancy of Woo-jin's sister Soo-ah years earlier (Wikipedia).",
    "format": "movie",
    "categories": [
     "adult-hypnosis",
@@ -108031,12 +108028,14 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnotized-love"
+    "hypnotized-love",
+    "field-fixes"
    ],
    "source_records": [
     "xla62ucxbx02u5:686",
     "worldwide-hypnosis:666",
-    "hypnotized-love:9"
+    "hypnotized-love:9",
+    "field-fixes:1"
    ],
    "index_only": false,
    "local_only": false,
@@ -108139,6 +108138,34 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "field-fixes:1",
+     "source": "field-fixes",
+     "label": "Oldboy (올드보이) (2003)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Oldboy (올드보이)",
+     "subtitle": "",
+     "year": "2003",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Oldboy_(2003_film)"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "Mi-do, the hypnotized woman, is never pregnant. The only pregnancy in the plot is the rumored (phantom) pregnancy of Woo-jin's sister Soo-ah years earlier (Wikipedia).",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -108212,6 +108239,26 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
      "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
      "match_title": "Oldboy (올드보이)"
+    },
+    "field-fixes:1": {
+     "title": "Oldboy (올드보이)",
+     "year": "2003",
+     "match_title": "Oldboy (올드보이)",
+     "match_year": "2003",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Oldboy_(2003_film)"
+      }
+     ],
+     "provenance": "Field-conflict fix pass, 30 Sep 2026 PT",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "Mi-do, the hypnotized woman, is never pregnant. The only pregnancy in the plot is the rumored (phantom) pregnancy of Woo-jin's sister Soo-ah years earlier (Wikipedia).",
+     "override_fields": [
+      "pregnancy_outcome"
+     ]
     }
    },
    "watch_links": [
@@ -109482,7 +109529,7 @@
    "source_records": [
     "xla62ucxbx02u5:699",
     "ig6qlxqxoxvcxla:529",
-    "hypno-leftovers:30"
+    "hypno-leftovers:29"
    ],
    "index_only": false,
    "local_only": false,
@@ -109540,7 +109587,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:30",
+     "rid": "hypno-leftovers:29",
      "source": "hypno-leftovers",
      "label": "Vampyros Lesbos (1971)",
      "identifiers": [
@@ -109600,7 +109647,7 @@
      "confidence": "Cataloged",
      "note": ""
     },
-    "hypno-leftovers:30": {
+    "hypno-leftovers:29": {
      "title": "Vampyros Lesbos",
      "year": "1971",
      "match_title": "Vampyros Lesbos",
@@ -112250,7 +112297,8 @@
    "kids_status": "no",
    "kids_together": "no",
    "married": "no",
-   "pregnant_end": "not stated",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy for her in the cited plot or scene notes",
    "evidence": "single source for the trance arc (Mental Block, eps. 93 and 103); Wikipedia confirms the telenovela",
    "fit_note": "Telemundo telenovela. The witch Selenia hypnotizes Mariangel with a ring and programs her to love Olmos until they first make love. Not tagged hypno-intimacy: the hypnotist is a witch, and only one source describes the scene",
    "format": "tv",
@@ -112282,7 +112330,7 @@
    "source_records": [
     "xla62ucxbx02u5:730",
     "worldwide-hypnosis:327",
-    "hypno-leftovers:29"
+    "hypno-leftovers:28"
    ],
    "index_only": false,
    "local_only": false,
@@ -112350,7 +112398,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:29",
+     "rid": "hypno-leftovers:28",
      "source": "hypno-leftovers",
      "label": "El Zorro, la espada y la rosa (2007)",
      "identifiers": [
@@ -112386,7 +112434,8 @@
      "kids_status": "no",
      "kids_together": "no",
      "married": "no",
-     "pregnant_end": "not stated",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy for her in the cited plot or scene notes",
      "evidence": "single source for the trance arc (Mental Block, eps. 93 and 103); Wikipedia confirms the telenovela",
      "fit_note": "Telemundo telenovela. The witch Selenia hypnotizes Mariangel with a ring and programs her to love Olmos until they first make love. Not tagged hypno-intimacy: the hypnotist is a witch, and only one source describes the scene",
      "distinct_story": false,
@@ -112438,7 +112487,7 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypno-leftovers:29": {
+    "hypno-leftovers:28": {
      "title": "El Zorro, la espada y la rosa",
      "year": "2007",
      "match_title": "El Zorro, la espada y la rosa",
@@ -112449,8 +112498,8 @@
      ],
      "sources": [],
      "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
-     "pregnant_end": "not stated",
-     "pregnant_end_note": "",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy for her in the cited plot or scene notes",
      "kids_together": "no",
      "kids_together_note": "",
      "kids_status": "no",
@@ -113030,10 +113079,14 @@
    "tags": [
     "loose fit"
    ],
-   "kids_status": "unknown",
-   "kids_together": "unknown",
-   "married": "unknown",
-   "pregnant_end": "unknown",
+   "kids_status": "not stated",
+   "kids_note": "not mentioned in the only synopsis",
+   "kids_together": "not stated",
+   "kids_together_note": "not covered by the one-line synopsis",
+   "married": "not stated",
+   "married_note": "not covered by the one-line synopsis",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the only synopsis is one line and doesn't cover it",
    "evidence": "Single source — one short Flixano synopsis",
    "fit_note": "Ages are unknown; only a one-line synopsis exists",
    "format": "short",
@@ -113165,9 +113218,13 @@
       }
      ],
      "kids_status": "not stated",
-     "kids_together": "no",
-     "married": "no",
+     "kids_note": "not mentioned in the only synopsis",
+     "kids_together": "not stated",
+     "kids_together_note": "not covered by the one-line synopsis",
+     "married": "not stated",
+     "married_note": "not covered by the one-line synopsis",
      "pregnant_end": "not stated",
+     "pregnant_end_note": "the only synopsis is one line and doesn't cover it",
      "evidence": "single source in effect — flixano, Critifan and IMDb all carry the same one-line synopsis (low confidence)",
      "fit_note": "1970 US softcore short (47 min). A psychiatrist hypnotizes his female patients in order to sleep with them. Kept out of hypno-intimacy until an independent review or catalog entry confirms it",
      "distinct_story": false,
@@ -113247,15 +113304,21 @@
      ],
      "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
      "pregnant_end": "not stated",
-     "pregnant_end_note": "",
-     "kids_together": "no",
-     "kids_together_note": "",
+     "pregnant_end_note": "the only synopsis is one line and doesn't cover it",
+     "kids_together": "not stated",
+     "kids_together_note": "not covered by the one-line synopsis",
      "kids_status": "not stated",
-     "kids_note": "",
-     "married": "no",
-     "married_note": "",
+     "kids_note": "not mentioned in the only synopsis",
+     "married": "not stated",
+     "married_note": "not covered by the one-line synopsis",
      "evidence": "single source in effect — flixano, Critifan and IMDb all carry the same one-line synopsis (low confidence)",
-     "fit_note": "1970 US softcore short (47 min). A psychiatrist hypnotizes his female patients in order to sleep with them. Kept out of hypno-intimacy until an independent review or catalog entry confirms it"
+     "fit_note": "1970 US softcore short (47 min). A psychiatrist hypnotizes his female patients in order to sleep with them. Kept out of hypno-intimacy until an independent review or catalog entry confirms it",
+     "override_fields": [
+      "kids_status",
+      "kids_together",
+      "married",
+      "pregnant_end"
+     ]
     }
    }
   },
@@ -113519,7 +113582,7 @@
     "xla62ucxbx02u5:739",
     "worldwide-hypnosis:352",
     "older-man-hypnosis:25",
-    "hypno-leftovers:28"
+    "hypno-leftovers:27"
    ],
    "index_only": false,
    "local_only": false,
@@ -113649,7 +113712,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:28",
+     "rid": "hypno-leftovers:27",
      "source": "hypno-leftovers",
      "label": "Friday the 13th: The Series (1989)",
      "identifiers": [
@@ -113791,7 +113854,7 @@
      "group": "Loose fit — outside the strict older-man criteria (Sep 2026)",
      "confidence_flag": "Loose fit"
     },
-    "hypno-leftovers:28": {
+    "hypno-leftovers:27": {
      "title": "Friday the 13th: The Series",
      "year": "1989",
      "match_title": "Friday the 13th: The Series",
@@ -127098,11 +127161,13 @@
    "tags": [
     "loose fit"
    ],
-   "kids_status": "unknown",
+   "kids_status": "not stated",
+   "kids_note": "not mentioned in the synopses",
    "kids_together": "no",
-   "married": "no",
-   "pregnant_end": "unknown",
-   "pregnant_end_note": "no pregnancy in the cited synopses",
+   "married": "not stated",
+   "married_note": "the synopses say Spencer is in love with Jacquette but never mention a marriage",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the two short synopses don't cover the ending",
    "evidence": "2 sources (IMDb, Critifan), both thin listings",
    "fit_note": "Ages are unknown and nothing shows him as an older man",
    "format": "movie",
@@ -127290,10 +127355,12 @@
       }
      ],
      "kids_status": "not stated",
+     "kids_note": "not mentioned in the synopses",
      "kids_together": "no",
      "married": "not stated",
+     "married_note": "the synopses say Spencer is in love with Jacquette but never mention a marriage",
      "pregnant_end": "not stated",
-     "pregnant_end_note": "no pregnancy in the cited synopses",
+     "pregnant_end_note": "the two short synopses don't cover the ending",
      "evidence": "2 sources (IMDb listing and a TMDB-derived synopsis; the synopses may share text)",
      "fit_note": "Hypnotized-intimacy: Spencer uses a hypnotherapist's technique on Jacquette and her friend for a sexual encounter, then struggles to release them from the trance",
      "distinct_story": false,
@@ -127391,15 +127458,21 @@
      ],
      "provenance": "Hypnotized-intimacy research pass, 30 Sep 2026 (adult women only; hypnosis/mesmerism/trance suggestion only — no possession, drugs, spells or vampire thrall)",
      "pregnant_end": "not stated",
-     "pregnant_end_note": "no pregnancy in the cited synopses",
+     "pregnant_end_note": "the two short synopses don't cover the ending",
      "kids_together": "no",
      "kids_together_note": "",
      "kids_status": "not stated",
-     "kids_note": "",
+     "kids_note": "not mentioned in the synopses",
      "married": "not stated",
      "evidence": "2 sources (IMDb listing and a TMDB-derived synopsis; the synopses may share text)",
      "fit_note": "Hypnotized-intimacy: Spencer uses a hypnotherapist's technique on Jacquette and her friend for a sexual encounter, then struggles to release them from the trance",
-     "format": "movie"
+     "format": "movie",
+     "married_note": "the synopses say Spencer is in love with Jacquette but never mention a marriage",
+     "override_fields": [
+      "kids_status",
+      "married",
+      "pregnant_end"
+     ]
     }
    }
   },
@@ -130462,11 +130535,13 @@
     "sex"
    ],
    "method": "hypnosis",
-   "kids_status": "unknown",
+   "kids_status": "not stated",
+   "kids_note": "not mentioned in the only synopsis",
    "kids_together": "no",
    "married": "no",
-   "married_note": "she is married to the husband who accompanies her",
-   "pregnant_end": "unknown",
+   "married_note": "the hypnotist doesn't marry her; she is already married to the man she visits the fortune-teller with",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the only synopsis doesn't cover it",
    "evidence": "Single source — IMDb listing only",
    "fit_note": "Ages are unknown, so the young-woman / older-man fit cannot be checked",
    "format": "movie",
@@ -130639,10 +130714,12 @@
       }
      ],
      "kids_status": "not stated",
+     "kids_note": "not mentioned in the only synopsis",
      "kids_together": "no",
-     "married": "already married",
-     "married_note": "she is married to the man she visits the hypnotist with, not to the hypnotist",
+     "married": "no",
+     "married_note": "the hypnotist doesn't marry her; she is already married to the man she visits the fortune-teller with",
      "pregnant_end": "not stated",
+     "pregnant_end_note": "the only synopsis doesn't cover it",
      "evidence": "single source in effect — IMDb and TV Guide carry the same synopsis; Wikimedia Commons confirms that a 1930s stag film of this title exists (low confidence)",
      "fit_note": "1930s American stag short. A married couple visits a fortune-teller who hypnotizes the wife and then the husband for sex. TV Guide's wording suggests the hypnotist is a woman. Kept out of hypno-intimacy because only one synopsis exists",
      "distinct_story": false,
@@ -130755,15 +130832,20 @@
      ],
      "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
      "pregnant_end": "not stated",
-     "pregnant_end_note": "",
+     "pregnant_end_note": "the only synopsis doesn't cover it",
      "kids_together": "no",
      "kids_together_note": "",
      "kids_status": "not stated",
-     "kids_note": "",
-     "married": "already married",
-     "married_note": "she is married to the man she visits the hypnotist with, not to the hypnotist",
+     "kids_note": "not mentioned in the only synopsis",
+     "married": "no",
+     "married_note": "the hypnotist doesn't marry her; she is already married to the man she visits the fortune-teller with",
      "evidence": "single source in effect — IMDb and TV Guide carry the same synopsis; Wikimedia Commons confirms that a 1930s stag film of this title exists (low confidence)",
-     "fit_note": "1930s American stag short. A married couple visits a fortune-teller who hypnotizes the wife and then the husband for sex. TV Guide's wording suggests the hypnotist is a woman. Kept out of hypno-intimacy because only one synopsis exists"
+     "fit_note": "1930s American stag short. A married couple visits a fortune-teller who hypnotizes the wife and then the husband for sex. TV Guide's wording suggests the hypnotist is a woman. Kept out of hypno-intimacy because only one synopsis exists",
+     "override_fields": [
+      "kids_status",
+      "married",
+      "pregnant_end"
+     ]
     }
    }
   },
@@ -132237,10 +132319,14 @@
    "tags": [
     "loose fit"
    ],
-   "kids_status": "unknown",
-   "kids_together": "unknown",
-   "married": "unknown",
-   "pregnant_end": "unknown",
+   "kids_status": "not stated",
+   "kids_note": "not mentioned in the only synopsis",
+   "kids_together": "not stated",
+   "kids_together_note": "not covered by the one-line synopsis",
+   "married": "not stated",
+   "married_note": "not covered by the one-line synopsis",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the only synopsis is one line and doesn't cover it",
    "evidence": "Single source — IMDb listing only",
    "fit_note": "Ages and the nature of their relationship are not documented",
    "format": "movie",
@@ -132264,7 +132350,7 @@
    "source_records": [
     "ig6qlxqxoxvcxla:149",
     "older-man-hypnosis:35",
-    "hypno-leftovers:8"
+    "hypno-leftovers:7"
    ],
    "index_only": false,
    "local_only": false,
@@ -132338,7 +132424,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:8",
+     "rid": "hypno-leftovers:7",
      "source": "hypno-leftovers",
      "label": "Interactive (1999)",
      "identifiers": [
@@ -132359,9 +132445,13 @@
      ],
      "sources": [],
      "kids_status": "not stated",
-     "kids_together": "no",
-     "married": "no",
+     "kids_note": "not mentioned in the only synopsis",
+     "kids_together": "not stated",
+     "kids_together_note": "not covered by the one-line synopsis",
+     "married": "not stated",
+     "married_note": "not covered by the one-line synopsis",
      "pregnant_end": "not stated",
+     "pregnant_end_note": "the only synopsis is one line and doesn't cover it",
      "evidence": "single source — one IMDb synopsis; no second source found (low confidence)",
      "fit_note": "1999 US adult film. A wealthy woman checks into a clinic for insomnia and falls under the hypnotic spell of the head doctor. Kept out of hypno-intimacy because only one synopsis exists",
      "distinct_story": false,
@@ -132426,7 +132516,7 @@
      "group": "Loose fit — outside the strict older-man criteria (Sep 2026)",
      "confidence_flag": "Loose fit"
     },
-    "hypno-leftovers:8": {
+    "hypno-leftovers:7": {
      "title": "Interactive",
      "year": "1999",
      "match_title": "Interactive",
@@ -132439,15 +132529,21 @@
      "sources": [],
      "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
      "pregnant_end": "not stated",
-     "pregnant_end_note": "",
-     "kids_together": "no",
-     "kids_together_note": "",
+     "pregnant_end_note": "the only synopsis is one line and doesn't cover it",
+     "kids_together": "not stated",
+     "kids_together_note": "not covered by the one-line synopsis",
      "kids_status": "not stated",
-     "kids_note": "",
-     "married": "no",
-     "married_note": "",
+     "kids_note": "not mentioned in the only synopsis",
+     "married": "not stated",
+     "married_note": "not covered by the one-line synopsis",
      "evidence": "single source — one IMDb synopsis; no second source found (low confidence)",
-     "fit_note": "1999 US adult film. A wealthy woman checks into a clinic for insomnia and falls under the hypnotic spell of the head doctor. Kept out of hypno-intimacy because only one synopsis exists"
+     "fit_note": "1999 US adult film. A wealthy woman checks into a clinic for insomnia and falls under the hypnotic spell of the head doctor. Kept out of hypno-intimacy because only one synopsis exists",
+     "override_fields": [
+      "kids_status",
+      "kids_together",
+      "married",
+      "pregnant_end"
+     ]
     }
    }
   },
@@ -137933,8 +138029,8 @@
    ],
    "kids_status": "no",
    "kids_together": "not stated",
-   "married": "already married",
-   "married_note": "Uruvi is already married to Karn",
+   "married": "yes",
+   "married_note": "already married: Uruvi is Karn's wife; the controller is Kasturi, not him",
    "pregnant_end": "not stated",
    "evidence": "single source for the trance scene (Mental Block, ep. 72); Wikipedia confirms the arc of Kasturi claiming to be Karn's first wife",
    "fit_note": "Hindi mythological serial (StarPlus). Kasturi, who claims to be Karn's first wife, uses hypnotic powder and a tantrik's spell to make Uruvi try to seduce her own husband in order to discredit her. The control is a spell",
@@ -137962,7 +138058,7 @@
    ],
    "source_records": [
     "india-catalog:44",
-    "hypno-leftovers:27"
+    "hypno-leftovers:26"
    ],
    "index_only": false,
    "local_only": true,
@@ -137997,7 +138093,7 @@
    },
    "merged_from": [
     {
-     "rid": "hypno-leftovers:27",
+     "rid": "hypno-leftovers:26",
      "source": "hypno-leftovers",
      "label": "Karn Sangini (2018–19)",
      "identifiers": [
@@ -138032,8 +138128,8 @@
      ],
      "kids_status": "no",
      "kids_together": "not stated",
-     "married": "already married",
-     "married_note": "Uruvi is already married to Karn",
+     "married": "yes",
+     "married_note": "already married: Uruvi is Karn's wife; the controller is Kasturi, not him",
      "pregnant_end": "not stated",
      "evidence": "single source for the trance scene (Mental Block, ep. 72); Wikipedia confirms the arc of Kasturi claiming to be Karn's first wife",
      "fit_note": "Hindi mythological serial (StarPlus). Kasturi, who claims to be Karn's first wife, uses hypnotic powder and a tantrik's spell to make Uruvi try to seduce her own husband in order to discredit her. The control is a spell",
@@ -138062,7 +138158,7 @@
       }
      ]
     },
-    "hypno-leftovers:27": {
+    "hypno-leftovers:26": {
      "title": "Karn Sangini",
      "year": "2018–19",
      "match_title": "Karn Sangini",
@@ -138085,8 +138181,8 @@
      "kids_together_note": "",
      "kids_status": "no",
      "kids_note": "",
-     "married": "already married",
-     "married_note": "Uruvi is already married to Karn",
+     "married": "yes",
+     "married_note": "already married: Uruvi is Karn's wife; the controller is Kasturi, not him",
      "evidence": "single source for the trance scene (Mental Block, ep. 72); Wikipedia confirms the arc of Kasturi claiming to be Karn's first wife",
      "fit_note": "Hindi mythological serial (StarPlus). Kasturi, who claims to be Karn's first wife, uses hypnotic powder and a tantrik's spell to make Uruvi try to seduce her own husband in order to discredit her. The control is a spell",
      "episodes": [
@@ -141802,7 +141898,7 @@
    "source_records": [
     "india-catalog:130",
     "worldwide-hypnosis:179",
-    "hypno-leftovers:24"
+    "hypno-leftovers:23"
    ],
    "index_only": false,
    "local_only": true,
@@ -141878,7 +141974,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:24",
+     "rid": "hypno-leftovers:23",
      "source": "hypno-leftovers",
      "label": "CID Shankar (1970)",
      "identifiers": [
@@ -141959,7 +142055,7 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypno-leftovers:24": {
+    "hypno-leftovers:23": {
      "title": "CID Shankar",
      "year": "1970",
      "match_title": "CID Shankar",
@@ -144899,10 +144995,10 @@
    "kids_note": "two daughters, Manon and Léa",
    "kids_together": "yes",
    "kids_together_note": "Marcel and Lizette are the parents of grown daughters Manon and Léa",
-   "married": "already married",
-   "married_note": "Lizette is Marcel's wife but has left him for the boxer Réo",
-   "pregnant_end": "not stated",
-   "pregnant_end_note": "no pregnancy in any synopsis",
+   "married": "yes",
+   "married_note": "already married: Lizette is Marcel's wife, though she has left him for the boxer Réo",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy for Lizette in any synopsis (Wikipedia, Cinébase, QfQ, Films du Québec, Mental Block)",
    "evidence": "2+ independent sources for the hypnotist plot (Wikipedia, Cinébase, QfQ, Films du Québec, Mental Block); single source (Cinébase) for Marcel using Albert's hypnosis to sleep with his estranged wife Lizette",
    "source_conflict": "Léa's age: QfQ says 17 and Films du Québec says 18, so the Mental Block scene between Léa and Albert is excluded under the adults-only rule; this card covers the adult mother Lizette only",
    "fit_note": "Canadian (Québec) French-language black comedy. The family hires stage hypnotist Albert the Great to win back their loved ones; according to one synopsis Marcel uses him on his wife Lizette, and Albert's spells eventually backfire on everyone. Not tagged hypno-intimacy because only one synopsis describes the intimacy",
@@ -145021,10 +145117,10 @@
      "kids_note": "two daughters, Manon and Léa",
      "kids_together": "yes",
      "kids_together_note": "Marcel and Lizette are the parents of grown daughters Manon and Léa",
-     "married": "already married",
-     "married_note": "Lizette is Marcel's wife but has left him for the boxer Réo",
-     "pregnant_end": "not stated",
-     "pregnant_end_note": "no pregnancy in any synopsis",
+     "married": "yes",
+     "married_note": "already married: Lizette is Marcel's wife, though she has left him for the boxer Réo",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy for Lizette in any synopsis (Wikipedia, Cinébase, QfQ, Films du Québec, Mental Block)",
      "evidence": "2+ independent sources for the hypnotist plot (Wikipedia, Cinébase, QfQ, Films du Québec, Mental Block); single source (Cinébase) for Marcel using Albert's hypnosis to sleep with his estranged wife Lizette",
      "source_conflict": "Léa's age: QfQ says 17 and Films du Québec says 18, so the Mental Block scene between Léa and Albert is excluded under the adults-only rule; this card covers the adult mother Lizette only",
      "fit_note": "Canadian (Québec) French-language black comedy. The family hires stage hypnotist Albert the Great to win back their loved ones; according to one synopsis Marcel uses him on his wife Lizette, and Albert's spells eventually backfire on everyone. Not tagged hypno-intimacy because only one synopsis describes the intimacy",
@@ -145085,14 +145181,14 @@
       }
      ],
      "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
-     "pregnant_end": "not stated",
-     "pregnant_end_note": "no pregnancy in any synopsis",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy for Lizette in any synopsis (Wikipedia, Cinébase, QfQ, Films du Québec, Mental Block)",
      "kids_together": "yes",
      "kids_together_note": "Marcel and Lizette are the parents of grown daughters Manon and Léa",
      "kids_status": "yes",
      "kids_note": "two daughters, Manon and Léa",
-     "married": "already married",
-     "married_note": "Lizette is Marcel's wife but has left him for the boxer Réo",
+     "married": "yes",
+     "married_note": "already married: Lizette is Marcel's wife, though she has left him for the boxer Réo",
      "evidence": "2+ independent sources for the hypnotist plot (Wikipedia, Cinébase, QfQ, Films du Québec, Mental Block); single source (Cinébase) for Marcel using Albert's hypnosis to sleep with his estranged wife Lizette",
      "fit_note": "Canadian (Québec) French-language black comedy. The family hires stage hypnotist Albert the Great to win back their loved ones; according to one synopsis Marcel uses him on his wife Lizette, and Albert's spells eventually backfire on everyone. Not tagged hypno-intimacy because only one synopsis describes the intimacy",
      "source_conflict": "Léa's age: QfQ says 17 and Films du Québec says 18, so the Mental Block scene between Léa and Albert is excluded under the adults-only rule; this card covers the adult mother Lizette only"
@@ -155624,7 +155720,7 @@
    "source_records": [
     "worldwide-hypnosis:177",
     "older-man-hypnosis:12",
-    "hypno-leftovers:14"
+    "hypno-leftovers:13"
    ],
    "index_only": false,
    "local_only": true,
@@ -155728,7 +155824,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypno-leftovers:14",
+     "rid": "hypno-leftovers:13",
      "source": "hypno-leftovers",
      "label": "Columbo (1968)",
      "identifiers": [
@@ -155861,7 +155957,7 @@
      "note": "",
      "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
     },
-    "hypno-leftovers:14": {
+    "hypno-leftovers:13": {
      "title": "Columbo",
      "year": "1968",
      "match_title": "Columbo",
@@ -161306,13 +161402,13 @@
    "source_records": [
     "worldwide-hypnosis:252",
     "rich-wife-hypnosis:24",
-    "hypno-leftovers:11"
+    "hypno-leftovers:10"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
    "primary_copy": {
-    "rid": "hypno-leftovers:11",
+    "rid": "hypno-leftovers:10",
     "source": "hypno-leftovers",
     "label": "De Mesmer con amor (2002)",
     "identifiers": [
@@ -161469,7 +161565,7 @@
      "pregnancy_note": "cited sources do not mention a pregnancy",
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     },
-    "hypno-leftovers:11": {
+    "hypno-leftovers:10": {
      "title": "De Mesmer con amor",
      "year": "2002",
      "match_title": "De Mesmer con amor",
@@ -161805,8 +161901,8 @@
    "kids_status": "not stated",
    "kids_together": "no",
    "married": "no",
-   "pregnant_end": "not stated",
-   "pregnant_end_note": "no pregnancy in the episode summaries",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the Mental Block scene log, the only detailed source",
    "evidence": "single source — only Mental Block describes the sex under hypnosis; TheTVDB and Wikipedia confirm the womanizing hypnotist who falls for the client's wife",
    "source_conflict": "Mental Block numbers “The Mesmerizer” as episode 12; Wikipedia and TheTVDB list it as season 1, episode 15.",
    "fit_note": "Hypnotized-intimacy: in “The Mesmerizer” hypnotist Edgar Thurlow, his power boosted by the cursed gun, hypnotizes a dying millionaire's wife and has sex with her",
@@ -161917,8 +162013,8 @@
      "kids_status": "not stated",
      "kids_together": "no",
      "married": "no",
-     "pregnant_end": "not stated",
-     "pregnant_end_note": "no pregnancy in the episode summaries",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in the Mental Block scene log, the only detailed source",
      "evidence": "single source — only Mental Block describes the sex under hypnosis; TheTVDB and Wikipedia confirm the womanizing hypnotist who falls for the client's wife",
      "source_conflict": "Mental Block numbers “The Mesmerizer” as episode 12; Wikipedia and TheTVDB list it as season 1, episode 15.",
      "fit_note": "Hypnotized-intimacy: in “The Mesmerizer” hypnotist Edgar Thurlow, his power boosted by the cursed gun, hypnotizes a dying millionaire's wife and has sex with her",
@@ -161970,8 +162066,8 @@
       }
      ],
      "provenance": "Hypnotized-intimacy research pass, 30 Sep 2026 (adult women only; hypnosis/mesmerism/trance suggestion only — no possession, drugs, spells or vampire thrall)",
-     "pregnant_end": "not stated",
-     "pregnant_end_note": "no pregnancy in the episode summaries",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in the Mental Block scene log, the only detailed source",
      "kids_together": "no",
      "kids_together_note": "",
      "kids_status": "not stated",
@@ -166108,8 +166204,8 @@
    "kids_status": "unknown",
    "kids_together": "no",
    "kids_together_note": "she leaves her husband and starts seeing the butler; no children mentioned",
-   "married": "no",
-   "married_note": "she leaves her husband and starts seeing the butler; no marriage stated",
+   "married": "yes",
+   "married_note": "already married: the hypnotist is her husband; she leaves him for the butler",
    "pregnant_end": "no",
    "pregnant_end_note": "no pregnancy in the plot summary",
    "evidence": "Single source — only Mental Block gives the plot; IMDb and the Québec registry confirm the film (Mexico, 1992) but not the plot",
@@ -166302,9 +166398,9 @@
      "kids_status": "not stated",
      "kids_together": "no",
      "kids_together_note": "she leaves her husband and starts seeing the butler; no children mentioned",
-     "married": "already married",
-     "married_note": "she is the hypnotist's wife and leaves him for the butler",
-     "pregnant_end": "not stated",
+     "married": "yes",
+     "married_note": "already married: the hypnotist is her husband; she leaves him for the butler",
+     "pregnant_end": "no",
      "pregnant_end_note": "no pregnancy in the plot summary",
      "evidence": "single source — only Mental Block describes the hypnosis plot; IMDb and the Québec film register confirm the title, 1992, Mexico and cast (Alfonso Zayas, Gabriela Goldsmith, César Bono)",
      "fit_note": "Mexican sex comedy. A businessman hypnotizes his wife so he can go out with other women, and the butler takes advantage of her trance; she later pretends to be hypnotized to expose her husband. Not hypno-intimacy: the butler is neither the hypnotist nor directed by him",
@@ -166427,16 +166523,19 @@
       }
      ],
      "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
-     "pregnant_end": "not stated",
+     "pregnant_end": "no",
      "pregnant_end_note": "no pregnancy in the plot summary",
      "kids_together": "no",
      "kids_together_note": "she leaves her husband and starts seeing the butler; no children mentioned",
      "kids_status": "not stated",
      "kids_note": "",
-     "married": "already married",
-     "married_note": "she is the hypnotist's wife and leaves him for the butler",
+     "married": "yes",
+     "married_note": "already married: the hypnotist is her husband; she leaves him for the butler",
      "evidence": "single source — only Mental Block describes the hypnosis plot; IMDb and the Québec film register confirm the title, 1992, Mexico and cast (Alfonso Zayas, Gabriela Goldsmith, César Bono)",
-     "fit_note": "Mexican sex comedy. A businessman hypnotizes his wife so he can go out with other women, and the butler takes advantage of her trance; she later pretends to be hypnotized to expose her husband. Not hypno-intimacy: the butler is neither the hypnotist nor directed by him"
+     "fit_note": "Mexican sex comedy. A businessman hypnotizes his wife so he can go out with other women, and the butler takes advantage of her trance; she later pretends to be hypnotized to expose her husband. Not hypno-intimacy: the butler is neither the hypnotist nor directed by him",
+     "override_fields": [
+      "married"
+     ]
     }
    }
   },
@@ -167519,8 +167618,8 @@
    "kids_status": "not stated",
    "kids_together": "no",
    "married": "no",
-   "pregnant_end": "not stated",
-   "pregnant_end_note": "no pregnancy in the cited summaries",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the Mental Block scene log, the only detailed source",
    "evidence": "single source — only Mental Block describes the sex under hypnosis; IMDb confirms the hypnotic-spiral premise",
    "fit_note": "Hypnotized-intimacy: in S1E4 “The Spiral” Ethan's alien spiral signal puts Emma in a suggestible hypnotic trance and he has sex with her",
    "format": "tv",
@@ -167622,8 +167721,8 @@
      "kids_status": "not stated",
      "kids_together": "no",
      "married": "no",
-     "pregnant_end": "not stated",
-     "pregnant_end_note": "no pregnancy in the cited summaries",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in the Mental Block scene log, the only detailed source",
      "evidence": "single source — only Mental Block describes the sex under hypnosis; IMDb confirms the hypnotic-spiral premise",
      "fit_note": "Hypnotized-intimacy: in S1E4 “The Spiral” Ethan's alien spiral signal puts Emma in a suggestible hypnotic trance and he has sex with her",
      "distinct_story": false,
@@ -167670,8 +167769,8 @@
       }
      ],
      "provenance": "Hypnotized-intimacy research pass, 30 Sep 2026 (adult women only; hypnosis/mesmerism/trance suggestion only — no possession, drugs, spells or vampire thrall)",
-     "pregnant_end": "not stated",
-     "pregnant_end_note": "no pregnancy in the cited summaries",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in the Mental Block scene log, the only detailed source",
      "kids_together": "no",
      "kids_together_note": "",
      "kids_status": "not stated",
@@ -168319,7 +168418,7 @@
    "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
    "note": "",
    "pregnancy_outcome": "not pregnant",
-   "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "pregnancy_note": "No pregnancy for Mrs. Lowell or the other hypnotized patients in TVmaze, TV Guide, TheTVDB or Mental Block.",
    "episodes": [
     {
      "episode": "S02E13 “What You Don't Know Can Kill You”",
@@ -168352,8 +168451,8 @@
    "kids_together": "no",
    "married": "no",
    "married_note": "Mrs. Lowell is married to someone else",
-   "pregnant_end": "unknown",
-   "pregnant_end_note": "no pregnancy in the episode summaries",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy for Mrs. Lowell or the other patients in TVmaze, TV Guide, TheTVDB or Mental Block",
    "evidence": "2+ independent sources (Wikipedia, Mental Block)",
    "fit_note": "The patients are barely identified and no source gives their ages, so the young-woman / older-man fit is unconfirmed",
    "format": "tv",
@@ -168584,6 +168683,8 @@
        "url": "https://thetvdb.com/series/freddys-nightmares/episodes/48512"
       }
      ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy for Mrs. Lowell or the other hypnotized patients in TVmaze, TV Guide, TheTVDB or Mental Block.",
      "episodes": [
       {
        "episode": "S02E13 “What You Don't Know Can Kill You”",
@@ -168595,8 +168696,8 @@
      "kids_status": "not stated",
      "kids_together": "no",
      "married": "no",
-     "pregnant_end": "not stated",
-     "pregnant_end_note": "no pregnancy in the episode summaries",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy for Mrs. Lowell or the other patients in TVmaze, TV Guide, TheTVDB or Mental Block",
      "evidence": "2+ independent sources (TVmaze, TV Guide, TheTVDB, Mental Block)",
      "fit_note": "Hypnotized-intimacy: in S02E13 a lecherous psychiatrist, Dr. Crowley, hypnotizes and seduces female patients; Mrs. Lowe is made to believe he is her husband",
      "distinct_story": false,
@@ -168749,8 +168850,8 @@
       }
      ],
      "provenance": "Hypnotized-intimacy research pass, 30 Sep 2026 (adult women only; hypnosis/mesmerism/trance suggestion only — no possession, drugs, spells or vampire thrall)",
-     "pregnant_end": "not stated",
-     "pregnant_end_note": "no pregnancy in the episode summaries",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy for Mrs. Lowell or the other patients in TVmaze, TV Guide, TheTVDB or Mental Block",
      "kids_together": "no",
      "kids_together_note": "",
      "kids_status": "not stated",
@@ -168766,7 +168867,13 @@
        "number_verified": true
       }
      ],
-     "format": "tv"
+     "format": "tv",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy for Mrs. Lowell or the other hypnotized patients in TVmaze, TV Guide, TheTVDB or Mental Block.",
+     "override_fields": [
+      "pregnancy_outcome",
+      "pregnant_end"
+     ]
     }
    },
    "watch_links": [
@@ -173046,7 +173153,7 @@
    ],
    "source_records": [
     "worldwide-hypnosis:421",
-    "hypno-leftovers:12"
+    "hypno-leftovers:11"
    ],
    "index_only": false,
    "local_only": true,
@@ -173087,7 +173194,7 @@
    },
    "merged_from": [
     {
-     "rid": "hypno-leftovers:12",
+     "rid": "hypno-leftovers:11",
      "source": "hypno-leftovers",
      "label": "Health Nutz (2011–2013)",
      "identifiers": [
@@ -173169,7 +173276,7 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypno-leftovers:12": {
+    "hypno-leftovers:11": {
      "title": "Health Nutz",
      "year": "2011–2013",
      "match_title": "Health Nutz",
@@ -173621,7 +173728,7 @@
    "source_records": [
     "worldwide-hypnosis:427",
     "older-man-hypnosis:24",
-    "hypno-leftovers:13"
+    "hypno-leftovers:12"
    ],
    "index_only": false,
    "local_only": true,
@@ -173704,7 +173811,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:13",
+     "rid": "hypno-leftovers:12",
      "source": "hypno-leftovers",
      "label": "Hot Under the Collar (1992)",
      "identifiers": [
@@ -173810,7 +173917,7 @@
      "group": "Loose fit — outside the strict older-man criteria (Sep 2026)",
      "confidence_flag": "Loose fit"
     },
-    "hypno-leftovers:13": {
+    "hypno-leftovers:12": {
      "title": "Hot Under the Collar",
      "year": "1992",
      "match_title": "Hot Under the Collar",
@@ -179858,7 +179965,8 @@
    "kids_status": "no",
    "kids_together": "no",
    "married": "no",
-   "pregnant_end": "not stated",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy for her in the cited plot or scene notes",
    "evidence": "film confirmed by 3 sources (KMDb, Korean Wikipedia, Rotten Tomatoes; rated 19+); the mask mind-control scenes come from Mental Block alone",
    "fit_note": "South Korean horror film (노크). Art student Jeong-hwa becomes entangled with a cursed shaman's mask, and a neighbor uses the mask's incantation to put her in a trance. The control is magic, so it is not tagged hypno-intimacy",
    "format": "movie",
@@ -179892,7 +180000,7 @@
    ],
    "source_records": [
     "worldwide-hypnosis:522",
-    "hypno-leftovers:25"
+    "hypno-leftovers:24"
    ],
    "index_only": false,
    "local_only": true,
@@ -179929,7 +180037,7 @@
    },
    "merged_from": [
     {
-     "rid": "hypno-leftovers:25",
+     "rid": "hypno-leftovers:24",
      "source": "hypno-leftovers",
      "label": "Knock (2012)",
      "identifiers": [
@@ -179964,7 +180072,8 @@
      "kids_status": "no",
      "kids_together": "no",
      "married": "no",
-     "pregnant_end": "not stated",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy for her in the cited plot or scene notes",
      "evidence": "film confirmed by 3 sources (KMDb, Korean Wikipedia, Rotten Tomatoes; rated 19+); the mask mind-control scenes come from Mental Block alone",
      "fit_note": "South Korean horror film (노크). Art student Jeong-hwa becomes entangled with a cursed shaman's mask, and a neighbor uses the mask's incantation to put her in a trance. The control is magic, so it is not tagged hypno-intimacy",
      "distinct_story": false,
@@ -179994,7 +180103,7 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypno-leftovers:25": {
+    "hypno-leftovers:24": {
      "title": "Knock",
      "year": "2012",
      "match_title": "Knock",
@@ -180018,8 +180127,8 @@
       }
      ],
      "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
-     "pregnant_end": "not stated",
-     "pregnant_end_note": "",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy for her in the cited plot or scene notes",
      "kids_together": "no",
      "kids_together_note": "",
      "kids_status": "no",
@@ -180408,13 +180517,13 @@
    ],
    "source_records": [
     "worldwide-hypnosis:528",
-    "hypno-leftovers:23"
+    "hypno-leftovers:22"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
    "primary_copy": {
-    "rid": "hypno-leftovers:23",
+    "rid": "hypno-leftovers:22",
     "source": "hypno-leftovers",
     "label": "Kiss Kiss (2019)",
     "identifiers": [
@@ -180507,7 +180616,7 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypno-leftovers:23": {
+    "hypno-leftovers:22": {
      "title": "Kiss Kiss",
      "year": "2019",
      "match_title": "Kiss Kiss",
@@ -191765,84 +191874,6 @@
    }
   },
   {
-   "id": 1559,
-   "title": "Rasputin: The Mad Monk",
-   "subtitle": "",
-   "year": "1965",
-   "meta": "Film · Russia",
-   "mechanism": "Hypnosis (type not specified by source)",
-   "confidence_flag": "High · fan-wiki scene log + TV Tropes example",
-   "summary": "-NWqaOkGUAY  Rasputin, the Mad Monk is a 1966 Hammer horror film directed by Don Sharp and starring Christopher Lee as Grigori Rasputin, the Russian peasant-mystic who gained great influence with the Tsars prior to the Russian Revolution. Scene notes: Zargo tries unsuccessfully to get Sonia out of her trance",
-   "character": "",
-   "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
-   "note": "",
-   "pregnancy_outcome": "not pregnant",
-   "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
-   "format": "movie",
-   "categories": [
-    "human"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki",
-     "url": "https://mentalblock.miraheze.org/wiki/Rasputin%3A_The_Mad_Monk_%281965%29"
-    },
-    {
-     "label": "TV Tropes: Hypnotic Eyes",
-     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoticEyes"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "worldwide-hypnosis"
-   ],
-   "source_records": [
-    "worldwide-hypnosis:713"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "worldwide-hypnosis:713": {
-     "title": "Rasputin: The Mad Monk",
-     "year": "1965",
-     "format": "movie",
-     "meta": "Film · Russia",
-     "summary": "-NWqaOkGUAY  Rasputin, the Mad Monk is a 1966 Hammer horror film directed by Don Sharp and starring Christopher Lee as Grigori Rasputin, the Russian peasant-mystic who gained great influence with the Tsars prior to the Russian Revolution. Scene notes: Zargo tries unsuccessfully to get Sonia out of her trance",
-     "mechanism": "Hypnosis (type not specified by source)",
-     "confidence_flag": "High · fan-wiki scene log + TV Tropes example",
-     "categories": [
-      "human"
-     ],
-     "sources": [
-      {
-       "label": "Mental Block wiki",
-       "url": "https://mentalblock.miraheze.org/wiki/Rasputin%3A_The_Mad_Monk_%281965%29"
-      },
-      {
-       "label": "TV Tropes: Hypnotic Eyes",
-       "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoticEyes"
-      }
-     ],
-     "pregnancy_outcome": "not pregnant",
-     "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
-     "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
-    }
-   },
-   "watch_links": [
-    {
-     "service": "Kanopy",
-     "url": "https://www.kanopy.com/product/justwatch-11363567",
-     "region": "US",
-     "note": "needs a library card",
-     "verified_via": "JustWatch US (Rasputin: The Mad Monk, 1966); landing page checked",
-     "checked": "2026-09-30"
-    }
-   ]
-  },
-  {
    "id": 1560,
    "title": "Purple Playhouse",
    "subtitle": "",
@@ -199153,8 +199184,8 @@
    "kids_status": "not stated",
    "kids_together": "no",
    "married": "no",
-   "pregnant_end": "not stated",
-   "pregnant_end_note": "no pregnancy in the cited summaries",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the Mental Block scene log, the only detailed source",
    "evidence": "single source — only Mental Block describes the sex under hypnosis; IMDb and Prime Video confirm the hypnosis premise",
    "fit_note": "Hypnotized-intimacy: Edmond learns hypnosis from “Carl”, hypnotizes Sarah and has sex with her while she is entranced",
    "format": "movie",
@@ -199252,8 +199283,8 @@
      "kids_status": "not stated",
      "kids_together": "no",
      "married": "no",
-     "pregnant_end": "not stated",
-     "pregnant_end_note": "no pregnancy in the cited summaries",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in the Mental Block scene log, the only detailed source",
      "evidence": "single source — only Mental Block describes the sex under hypnosis; IMDb and Prime Video confirm the hypnosis premise",
      "fit_note": "Hypnotized-intimacy: Edmond learns hypnosis from “Carl”, hypnotizes Sarah and has sex with her while she is entranced",
      "distinct_story": false,
@@ -199302,8 +199333,8 @@
       }
      ],
      "provenance": "Hypnotized-intimacy research pass, 30 Sep 2026 (adult women only; hypnosis/mesmerism/trance suggestion only — no possession, drugs, spells or vampire thrall)",
-     "pregnant_end": "not stated",
-     "pregnant_end_note": "no pregnancy in the cited summaries",
+     "pregnant_end": "no",
+     "pregnant_end_note": "no pregnancy in the Mental Block scene log, the only detailed source",
      "kids_together": "no",
      "kids_together_note": "",
      "kids_status": "not stated",
@@ -199369,7 +199400,7 @@
    ],
    "source_records": [
     "worldwide-hypnosis:831",
-    "hypno-leftovers:22"
+    "hypno-leftovers:21"
    ],
    "index_only": false,
    "local_only": true,
@@ -199405,7 +199436,7 @@
    },
    "merged_from": [
     {
-     "rid": "hypno-leftovers:22",
+     "rid": "hypno-leftovers:21",
      "source": "hypno-leftovers",
      "label": "Svengali (1914)",
      "identifiers": [
@@ -199463,7 +199494,7 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypno-leftovers:22": {
+    "hypno-leftovers:21": {
      "title": "Svengali",
      "year": "1914",
      "match_title": "Svengali",
@@ -205765,7 +205796,7 @@
     "worldwide-hypnosis:929",
     "hypnotized-love:2",
     "older-man-hypnosis:20",
-    "hypno-leftovers:17"
+    "hypno-leftovers:16"
    ],
    "index_only": false,
    "local_only": true,
@@ -205881,7 +205912,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:17",
+     "rid": "hypno-leftovers:16",
      "source": "hypno-leftovers",
      "label": "The Magician (1926)",
      "identifiers": [
@@ -205999,7 +206030,7 @@
      "group": "Loose fit — outside the strict older-man criteria (Sep 2026)",
      "confidence_flag": "Loose fit"
     },
-    "hypno-leftovers:17": {
+    "hypno-leftovers:16": {
      "title": "The Magician",
      "year": "1926",
      "match_title": "The Magician",
@@ -207367,8 +207398,8 @@
    "character": "",
    "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
    "note": "",
-   "pregnancy_outcome": "unknown",
-   "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "The pregnant woman in the film is the corpse used for the black-magic charm, not one of the bewitched women.",
    "kids_status": "no",
    "kids_together": "no",
    "married": "no",
@@ -207404,7 +207435,7 @@
    ],
    "source_records": [
     "worldwide-hypnosis:951",
-    "hypno-leftovers:26"
+    "hypno-leftovers:25"
    ],
    "index_only": false,
    "local_only": true,
@@ -207442,7 +207473,7 @@
    },
    "merged_from": [
     {
-     "rid": "hypno-leftovers:26",
+     "rid": "hypno-leftovers:25",
      "source": "hypno-leftovers",
      "label": "The Snow White (2010)",
      "identifiers": [
@@ -207471,6 +207502,8 @@
        "url": "http://thaifilmjournal.blogspot.com/2010/10/review-snow-white-tai-tang-klom.html"
       }
      ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "The pregnant woman in the film is the corpse used for the black-magic charm, not one of the bewitched women.",
      "kids_status": "no",
      "kids_together": "no",
      "married": "no",
@@ -207505,7 +207538,7 @@
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypno-leftovers:26": {
+    "hypno-leftovers:25": {
      "title": "The Snow White",
      "year": "2010",
      "match_title": "The Snow White",
@@ -207535,7 +207568,12 @@
      "married": "no",
      "married_note": "",
      "evidence": "2+ independent sources (MyDramaList, Wise Kwai, Mental Block)",
-     "fit_note": "Thai horror film (ตายทั้งกลม / Tai Tang Klom). A university student uses corpse-oil black magic to make women attracted to him, and the dead woman's ghost takes revenge. The control is a spell, so it is not tagged hypno-intimacy; the victims are university students"
+     "fit_note": "Thai horror film (ตายทั้งกลม / Tai Tang Klom). A university student uses corpse-oil black magic to make women attracted to him, and the dead woman's ghost takes revenge. The control is a spell, so it is not tagged hypno-intimacy; the victims are university students",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "The pregnant woman in the film is the corpse used for the black-magic charm, not one of the bewitched women.",
+     "override_fields": [
+      "pregnancy_outcome"
+     ]
     }
    }
   },
@@ -214449,8 +214487,8 @@
    "character": "",
    "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
    "note": "",
-   "pregnancy_outcome": "unknown",
-   "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "Wikipedia's plot (the princess is hypnotized into becoming Shurka's bride, then freed) and the Mental Block notes mention no pregnancy.",
    "hypnotist": "the usurping sorcerer Shurka",
    "gain_motive": [
     "marriage",
@@ -214478,12 +214516,14 @@
    "from_sources": [
     "worldwide-hypnosis",
     "hypnotized-love",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "field-fixes"
    ],
    "source_records": [
     "worldwide-hypnosis:1047",
     "hypnotized-love:12",
-    "rich-wife-hypnosis:19"
+    "rich-wife-hypnosis:19",
+    "field-fixes:2"
    ],
    "index_only": false,
    "local_only": true,
@@ -214592,6 +214632,34 @@
      "kids_status": "no",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "field-fixes:2",
+     "source": "field-fixes",
+     "label": "Wizards of the Lost Kingdom (1985)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Wizards of the Lost Kingdom",
+     "subtitle": "",
+     "year": "1985",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Wizards_of_the_Lost_Kingdom"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "Wikipedia's plot (the princess is hypnotized into becoming Shurka's bride, then freed) and the Mental Block notes mention no pregnancy.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -214675,6 +214743,26 @@
      "pregnancy_outcome": "unknown",
      "pregnancy_note": "cited sources do not mention a pregnancy",
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "field-fixes:2": {
+     "title": "Wizards of the Lost Kingdom",
+     "year": "1985",
+     "match_title": "Wizards of the Lost Kingdom",
+     "match_year": "1985",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Wizards_of_the_Lost_Kingdom"
+      }
+     ],
+     "provenance": "Field-conflict fix pass, 30 Sep 2026 PT",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "Wikipedia's plot (the princess is hypnotized into becoming Shurka's bride, then freed) and the Mental Block notes mention no pregnancy.",
+     "override_fields": [
+      "pregnancy_outcome"
+     ]
     }
    },
    "watch_links": [
@@ -227913,10 +228001,6 @@
        "from_source": "hypno-leftovers"
       },
       {
-       "id": 618,
-       "from_source": "hypno-leftovers"
-      },
-      {
        "id": 960,
        "from_source": "hypno-leftovers"
       }
@@ -232469,12 +232553,14 @@
        "from_source": "xla62ucxbx02u5"
       },
       {
-       "id": 257,
+       "id": 18,
+       "summary": "Ji Su is hypnotically manipulated by psychiatrist Seok-won.",
        "tags": [
         "Human-villain control",
         "Human-villain hypnosis / mind control",
         "Research report · web-verified"
        ],
+       "sources": [],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -234361,7 +234447,7 @@
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 1559,
+       "id": 646,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -234867,10 +234953,6 @@
        "from_source": "older-man-hypnosis"
       },
       {
-       "id": 646,
-       "from_source": "older-man-hypnosis"
-      },
-      {
        "id": 655,
        "from_source": "older-man-hypnosis"
       }
@@ -234906,10 +234988,6 @@
       },
       {
        "id": 1308,
-       "from_source": "hypno-leftovers"
-      },
-      {
-       "id": 618,
        "from_source": "hypno-leftovers"
       }
      ],
@@ -236274,10 +236352,6 @@
       },
       {
        "id": 617,
-       "from_source": "hypno-leftovers"
-      },
-      {
-       "id": 618,
        "from_source": "hypno-leftovers"
       }
      ],
@@ -248753,7 +248827,8 @@
        "from_source": "xla62ucxbx02u5"
       },
       {
-       "id": 618,
+       "id": 629,
+       "summary": "A billionaire uses hypnotic powers to seduce women in his company and then makes them commit suicide; a reporter’s friend is among the victims. English title, country and cast remain unconfirmed.",
        "tags": [
         "Wife / female character forcibly hypnotized to obey",
         "Hypnotic powers / compelled suicide",
@@ -250452,5 +250527,5 @@
   }
  ],
  "unplaced_entry_ids": [],
- "watch_links_count": 409
+ "watch_links_count": 408
 }

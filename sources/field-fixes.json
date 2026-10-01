@@ -1,0 +1,22 @@
+{
+ "id": "field-fixes",
+ "label": "Card field fixes (conflicting pregnancy / kids / marriage values)",
+ "group_title": "Card field fixes (Sep 2026)",
+ "description": "Precedence fixes for cards where copies disagreed on pregnancy, kids or marriage values and no topical curated source covers the card. Each record only overrides the fields named in override_fields, using the cited sources; it adds no categories.",
+ "category_labels": {},
+ "records": [
+  {"title": "Oldboy (올드보이)", "year": "2003", "match_title": "Oldboy (올드보이)", "match_year": "2003", "format": "movie",
+   "categories": [], "sources": [{"label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Oldboy_(2003_film)"}],
+   "provenance": "Field-conflict fix pass, 30 Sep 2026 PT",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "Mi-do, the hypnotized woman, is never pregnant. The only pregnancy in the plot is the rumored (phantom) pregnancy of Woo-jin's sister Soo-ah years earlier (Wikipedia).",
+   "override_fields": ["pregnancy_outcome"]},
+  {"title": "Wizards of the Lost Kingdom", "year": "1985", "match_title": "Wizards of the Lost Kingdom", "match_year": "1985", "format": "movie",
+   "categories": [], "sources": [{"label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Wizards_of_the_Lost_Kingdom"}],
+   "provenance": "Field-conflict fix pass, 30 Sep 2026 PT",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "Wikipedia's plot (the princess is hypnotized into becoming Shurka's bride, then freed) and the Mental Block notes mention no pregnancy.",
+   "override_fields": ["pregnancy_outcome"]}
+ ],
+ "dropped": []
+}

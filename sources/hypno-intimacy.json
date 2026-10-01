@@ -196,8 +196,8 @@
     }
    ],
    "provenance": "Hypnotized-intimacy research pass, 30 Sep 2026 (adult women only; hypnosis/mesmerism/trance suggestion only — no possession, drugs, spells or vampire thrall)",
-   "pregnant_end": "not stated",
-   "pregnant_end_note": "no pregnancy in the episode summaries",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy for Mrs. Lowell or the other patients in TVmaze, TV Guide, TheTVDB or Mental Block",
    "kids_together": "no",
    "kids_together_note": "",
    "kids_status": "not stated",
@@ -213,7 +213,13 @@
      "number_verified": true
     }
    ],
-   "format": "tv"
+   "format": "tv",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "No pregnancy for Mrs. Lowell or the other hypnotized patients in TVmaze, TV Guide, TheTVDB or Mental Block.",
+   "override_fields": [
+    "pregnancy_outcome",
+    "pregnant_end"
+   ]
   },
   {
    "title": "Dead Man's Gun",
@@ -232,8 +238,8 @@
     }
    ],
    "provenance": "Hypnotized-intimacy research pass, 30 Sep 2026 (adult women only; hypnosis/mesmerism/trance suggestion only — no possession, drugs, spells or vampire thrall)",
-   "pregnant_end": "not stated",
-   "pregnant_end_note": "no pregnancy in the episode summaries",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the Mental Block scene log, the only detailed source",
    "kids_together": "no",
    "kids_together_note": "",
    "kids_status": "not stated",
@@ -268,8 +274,8 @@
     }
    ],
    "provenance": "Hypnotized-intimacy research pass, 30 Sep 2026 (adult women only; hypnosis/mesmerism/trance suggestion only — no possession, drugs, spells or vampire thrall)",
-   "pregnant_end": "not stated",
-   "pregnant_end_note": "no pregnancy in the cited summaries",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the Mental Block scene log, the only detailed source",
    "kids_together": "no",
    "kids_together_note": "",
    "kids_status": "not stated",
@@ -307,8 +313,8 @@
     }
    ],
    "provenance": "Hypnotized-intimacy research pass, 30 Sep 2026 (adult women only; hypnosis/mesmerism/trance suggestion only — no possession, drugs, spells or vampire thrall)",
-   "pregnant_end": "not stated",
-   "pregnant_end_note": "no pregnancy in the cited summaries",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the Mental Block scene log, the only detailed source",
    "kids_together": "no",
    "kids_together_note": "",
    "kids_status": "not stated",
@@ -335,15 +341,21 @@
    ],
    "provenance": "Hypnotized-intimacy research pass, 30 Sep 2026 (adult women only; hypnosis/mesmerism/trance suggestion only — no possession, drugs, spells or vampire thrall)",
    "pregnant_end": "not stated",
-   "pregnant_end_note": "no pregnancy in the cited synopses",
+   "pregnant_end_note": "the two short synopses don't cover the ending",
    "kids_together": "no",
    "kids_together_note": "",
    "kids_status": "not stated",
-   "kids_note": "",
+   "kids_note": "not mentioned in the synopses",
    "married": "not stated",
    "evidence": "2 sources (IMDb listing and a TMDB-derived synopsis; the synopses may share text)",
    "fit_note": "Hypnotized-intimacy: Spencer uses a hypnotherapist's technique on Jacquette and her friend for a sexual encounter, then struggles to release them from the trance",
-   "format": "movie"
+   "format": "movie",
+   "married_note": "the synopses say Spencer is in love with Jacquette but never mention a marriage",
+   "override_fields": [
+    "kids_status",
+    "married",
+    "pregnant_end"
+   ]
   }
  ],
  "dropped": [

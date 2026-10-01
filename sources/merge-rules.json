@@ -1,0 +1,37 @@
+{
+ "description": "Explicit duplicate merges applied by scripts/sync.py after de-duplication. Each rule names one copy of the card to keep and one to absorb (normalized title + first year of any member). The absorbed card's records join the kept card; its ID is retired and no other ID shifts. Optional title/subtitle override the merged card's display title, and conflict_note is appended to its source-conflict line.",
+ "rules": [
+  {
+   "keep": {
+    "title": "Rasputin the Mad Monk",
+    "year": "1966"
+   },
+   "absorb": {
+    "title": "Rasputin: The Mad Monk",
+    "year": "1965"
+   },
+   "conflict_note": "Merged with the duplicate 1965 card. Wikipedia says it was filmed in 1965, back-to-back with Dracula: Prince of Darkness at Bray Studios, and released in the UK in 1966"
+  },
+  {
+   "keep": {
+    "title": "The Hypnotized / Faceless Beauty",
+    "year": "2004"
+   },
+   "absorb": {
+    "title": "Hypnotized",
+    "year": "2004"
+   }
+  },
+  {
+   "keep": {
+    "title": "To Seduce an Enemy",
+    "year": "2003"
+   },
+   "absorb": {
+    "title": "Tau kwai mou jeu 2: Yau yan fan jeu",
+    "year": "2003"
+   },
+   "subtitle": "Tau kwai mou jeu 2: Yau yan fan jeu"
+  }
+ ]
+}

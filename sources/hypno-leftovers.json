@@ -36,14 +36,14 @@
     }
    ],
    "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
-   "pregnant_end": "not stated",
-   "pregnant_end_note": "no pregnancy in any synopsis",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy for Lizette in any synopsis (Wikipedia, Cinébase, QfQ, Films du Québec, Mental Block)",
    "kids_together": "yes",
    "kids_together_note": "Marcel and Lizette are the parents of grown daughters Manon and Léa",
    "kids_status": "yes",
    "kids_note": "two daughters, Manon and Léa",
-   "married": "already married",
-   "married_note": "Lizette is Marcel's wife but has left him for the boxer Réo",
+   "married": "yes",
+   "married_note": "already married: Lizette is Marcel's wife, though she has left him for the boxer Réo",
    "evidence": "2+ independent sources for the hypnotist plot (Wikipedia, Cinébase, QfQ, Films du Québec, Mental Block); single source (Cinébase) for Marcel using Albert's hypnosis to sleep with his estranged wife Lizette",
    "fit_note": "Canadian (Québec) French-language black comedy. The family hires stage hypnotist Albert the Great to win back their loved ones; according to one synopsis Marcel uses him on his wife Lizette, and Albert's spells eventually backfire on everyone. Not tagged hypno-intimacy because only one synopsis describes the intimacy",
    "source_conflict": "Léa's age: QfQ says 17 and Films du Québec says 18, so the Mental Block scene between Léa and Albert is excluded under the adults-only rule; this card covers the adult mother Lizette only"
@@ -68,16 +68,19 @@
     }
    ],
    "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
-   "pregnant_end": "not stated",
+   "pregnant_end": "no",
    "pregnant_end_note": "no pregnancy in the plot summary",
    "kids_together": "no",
    "kids_together_note": "she leaves her husband and starts seeing the butler; no children mentioned",
    "kids_status": "not stated",
    "kids_note": "",
-   "married": "already married",
-   "married_note": "she is the hypnotist's wife and leaves him for the butler",
+   "married": "yes",
+   "married_note": "already married: the hypnotist is her husband; she leaves him for the butler",
    "evidence": "single source — only Mental Block describes the hypnosis plot; IMDb and the Québec film register confirm the title, 1992, Mexico and cast (Alfonso Zayas, Gabriela Goldsmith, César Bono)",
-   "fit_note": "Mexican sex comedy. A businessman hypnotizes his wife so he can go out with other women, and the butler takes advantage of her trance; she later pretends to be hypnotized to expose her husband. Not hypno-intimacy: the butler is neither the hypnotist nor directed by him"
+   "fit_note": "Mexican sex comedy. A businessman hypnotizes his wife so he can go out with other women, and the butler takes advantage of her trance; she later pretends to be hypnotized to expose her husband. Not hypno-intimacy: the butler is neither the hypnotist nor directed by him",
+   "override_fields": [
+    "married"
+   ]
   },
   {
    "title": "Joy à Moscou / Joy in Moscow",
@@ -122,15 +125,20 @@
    ],
    "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
    "pregnant_end": "not stated",
-   "pregnant_end_note": "",
+   "pregnant_end_note": "the only synopsis doesn't cover it",
    "kids_together": "no",
    "kids_together_note": "",
    "kids_status": "not stated",
-   "kids_note": "",
-   "married": "already married",
-   "married_note": "she is married to the man she visits the hypnotist with, not to the hypnotist",
+   "kids_note": "not mentioned in the only synopsis",
+   "married": "no",
+   "married_note": "the hypnotist doesn't marry her; she is already married to the man she visits the fortune-teller with",
    "evidence": "single source in effect — IMDb and TV Guide carry the same synopsis; Wikimedia Commons confirms that a 1930s stag film of this title exists (low confidence)",
-   "fit_note": "1930s American stag short. A married couple visits a fortune-teller who hypnotizes the wife and then the husband for sex. TV Guide's wording suggests the hypnotist is a woman. Kept out of hypno-intimacy because only one synopsis exists"
+   "fit_note": "1930s American stag short. A married couple visits a fortune-teller who hypnotizes the wife and then the husband for sex. TV Guide's wording suggests the hypnotist is a woman. Kept out of hypno-intimacy because only one synopsis exists",
+   "override_fields": [
+    "kids_status",
+    "married",
+    "pregnant_end"
+   ]
   },
   {
    "title": "The Mindblowers / Mind Blowers",
@@ -153,48 +161,21 @@
    ],
    "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
    "pregnant_end": "not stated",
-   "pregnant_end_note": "",
-   "kids_together": "no",
-   "kids_together_note": "",
+   "pregnant_end_note": "the only synopsis is one line and doesn't cover it",
+   "kids_together": "not stated",
+   "kids_together_note": "not covered by the one-line synopsis",
    "kids_status": "not stated",
-   "kids_note": "",
-   "married": "no",
-   "married_note": "",
+   "kids_note": "not mentioned in the only synopsis",
+   "married": "not stated",
+   "married_note": "not covered by the one-line synopsis",
    "evidence": "single source in effect — flixano, Critifan and IMDb all carry the same one-line synopsis (low confidence)",
-   "fit_note": "1970 US softcore short (47 min). A psychiatrist hypnotizes his female patients in order to sleep with them. Kept out of hypno-intimacy until an independent review or catalog entry confirms it"
-  },
-  {
-   "title": "Tau kwai mou jeu 2: Yau yan fan jeu",
-   "year": "2003",
-   "match_title": "Tau kwai mou jeu 2: Yau yan fan jeu",
-   "match_year": "2003",
-   "format": "movie",
-   "categories": [
-    "adult-hypnosis",
-    "human",
-    "crime"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki (To Seduce An Enemy)",
-     "url": "https://mentalblock.miraheze.org/wiki/To_Seduce_An_Enemy"
-    },
-    {
-     "label": "Kinobaza",
-     "url": "https://kinobaza.com.ua/titles/tau-kwai-mou-jeu-2-yau-yan-fan-jeu/cast"
-    }
-   ],
-   "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
-   "pregnant_end": "no",
-   "pregnant_end_note": "the victims are hypnotized into suicide",
-   "kids_together": "no",
-   "kids_together_note": "",
-   "kids_status": "not stated",
-   "kids_note": "",
-   "married": "no",
-   "married_note": "",
-   "evidence": "2+ sources (IMDb, Mental Block, Kinobaza)",
-   "fit_note": "Duplicate of card “To Seduce an Enemy” (2003): same Hong Kong film, whose Cantonese title is Tau kwai mou jeu 2: Yau yan fan jeu. Kept separate so IDs stay stable; see that card for the full plot"
+   "fit_note": "1970 US softcore short (47 min). A psychiatrist hypnotizes his female patients in order to sleep with them. Kept out of hypno-intimacy until an independent review or catalog entry confirms it",
+   "override_fields": [
+    "kids_status",
+    "kids_together",
+    "married",
+    "pregnant_end"
+   ]
   },
   {
    "title": "To Seduce an Enemy",
@@ -203,7 +184,10 @@
    "match_year": "2003",
    "format": "movie",
    "categories": [
-    "hypno-intimacy"
+    "hypno-intimacy",
+    "adult-hypnosis",
+    "human",
+    "crime"
    ],
    "sources": [
     {
@@ -213,19 +197,32 @@
     {
      "label": "Kinobaza",
      "url": "https://kinobaza.com.ua/titles/tau-kwai-mou-jeu-2-yau-yan-fan-jeu/cast"
+    },
+    {
+     "label": "Mental Block wiki (To Seduce An Enemy)",
+     "url": "https://mentalblock.miraheze.org/wiki/To_Seduce_An_Enemy"
     }
    ],
    "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
    "pregnant_end": "no",
-   "pregnant_end_note": "hypnotized employee Ting is ordered to kill herself",
+   "pregnant_end_note": "the seduced employees are hypnotized into suicide; no pregnancy in any source",
    "kids_together": "no",
-   "kids_together_note": "",
+   "kids_together_note": "Joe has no children with the seduced employees",
    "kids_status": "not stated",
-   "kids_note": "",
+   "kids_note": "the seduced employees' children are not mentioned (nor any children of Joe and Daisy)",
    "married": "no",
-   "married_note": "",
+   "married_note": "Joe doesn't marry the seduced employees; he is already married to Daisy, whom he hypnotizes to kill, not for sex",
    "evidence": "2+ sources for the hypnotic seduction (IMDb synopsis, Mental Block plot, Baidu Baike)",
-   "fit_note": "Hypnotized-intimacy: businessman-hypnotist Joe Siu uses subliminal videos to hypnotize and seduce young women who work for his company, then orders them to kill themselves. His wife Daisy is hypnotized to kill, not for sex. Also listed as card “Tau kwai mou jeu 2” (duplicate)"
+   "fit_note": "Hypnotized-intimacy: businessman-hypnotist Joe Siu uses subliminal videos to hypnotize and seduce young women who work for his company, then orders them to kill themselves. The pregnancy, kids and marriage lines refer to these employees. His wife Daisy is hypnotized to kill, not for sex. Merged with the former duplicate card listed under the Cantonese title Tau kwai mou jeu 2: Yau yan fan jeu",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "No pregnancy for the seduced employees (e.g. Ting) or for Joe's wife Daisy in any cited source.",
+   "override_fields": [
+    "kids_status",
+    "kids_together",
+    "married",
+    "pregnancy_outcome",
+    "pregnant_end"
+   ]
   },
   {
    "title": "Interactive",
@@ -240,15 +237,21 @@
    "sources": [],
    "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
    "pregnant_end": "not stated",
-   "pregnant_end_note": "",
-   "kids_together": "no",
-   "kids_together_note": "",
+   "pregnant_end_note": "the only synopsis is one line and doesn't cover it",
+   "kids_together": "not stated",
+   "kids_together_note": "not covered by the one-line synopsis",
    "kids_status": "not stated",
-   "kids_note": "",
-   "married": "no",
-   "married_note": "",
+   "kids_note": "not mentioned in the only synopsis",
+   "married": "not stated",
+   "married_note": "not covered by the one-line synopsis",
    "evidence": "single source — one IMDb synopsis; no second source found (low confidence)",
-   "fit_note": "1999 US adult film. A wealthy woman checks into a clinic for insomnia and falls under the hypnotic spell of the head doctor. Kept out of hypno-intimacy because only one synopsis exists"
+   "fit_note": "1999 US adult film. A wealthy woman checks into a clinic for insomnia and falls under the hypnotic spell of the head doctor. Kept out of hypno-intimacy because only one synopsis exists",
+   "override_fields": [
+    "kids_status",
+    "kids_together",
+    "married",
+    "pregnant_end"
+   ]
   },
   {
    "title": "Body of Influence",
@@ -278,8 +281,8 @@
    "pregnant_end_note": "",
    "kids_together": "no",
    "kids_together_note": "",
-   "kids_status": "no",
-   "kids_note": "",
+   "kids_status": "not stated",
+   "kids_note": "no children mentioned for Laura/Lana",
    "married": "no",
    "married_note": "the psychiatrist is engaged to someone else (Jennifer)",
    "evidence": "2+ independent sources (Wikipedia, IMDb, Chacebook, rarefilm)",
@@ -731,8 +734,8 @@
     }
    ],
    "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
-   "pregnant_end": "not stated",
-   "pregnant_end_note": "",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy for her in the cited plot or scene notes",
    "kids_together": "no",
    "kids_together_note": "",
    "kids_status": "no",
@@ -772,7 +775,12 @@
    "married": "no",
    "married_note": "",
    "evidence": "2+ independent sources (MyDramaList, Wise Kwai, Mental Block)",
-   "fit_note": "Thai horror film (ตายทั้งกลม / Tai Tang Klom). A university student uses corpse-oil black magic to make women attracted to him, and the dead woman's ghost takes revenge. The control is a spell, so it is not tagged hypno-intimacy; the victims are university students"
+   "fit_note": "Thai horror film (ตายทั้งกลม / Tai Tang Klom). A university student uses corpse-oil black magic to make women attracted to him, and the dead woman's ghost takes revenge. The control is a spell, so it is not tagged hypno-intimacy; the victims are university students",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "The pregnant woman in the film is the corpse used for the black-magic charm, not one of the bewitched women.",
+   "override_fields": [
+    "pregnancy_outcome"
+   ]
   },
   {
    "title": "Karn Sangini",
@@ -797,8 +805,8 @@
    "kids_together_note": "",
    "kids_status": "no",
    "kids_note": "",
-   "married": "already married",
-   "married_note": "Uruvi is already married to Karn",
+   "married": "yes",
+   "married_note": "already married: Uruvi is Karn's wife; the controller is Kasturi, not him",
    "evidence": "single source for the trance scene (Mental Block, ep. 72); Wikipedia confirms the arc of Kasturi claiming to be Karn's first wife",
    "fit_note": "Hindi mythological serial (StarPlus). Kasturi, who claims to be Karn's first wife, uses hypnotic powder and a tantrik's spell to make Uruvi try to seduce her own husband in order to discredit her. The control is a spell",
    "episodes": [
@@ -852,8 +860,8 @@
    ],
    "sources": [],
    "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
-   "pregnant_end": "not stated",
-   "pregnant_end_note": "",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy for her in the cited plot or scene notes",
    "kids_together": "no",
    "kids_together_note": "",
    "kids_status": "no",

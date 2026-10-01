@@ -34,7 +34,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:15",
+     "rid": "hypno-leftovers:14",
      "title": "The Curse of the Jade Scorpion",
      "subtitle": "",
      "year": "2001",
@@ -336,6 +336,13 @@
      "year": "2004"
     },
     {
+     "rid": "xla62ucxbx02u5:272",
+     "title": "Hypnotized",
+     "subtitle": "",
+     "year": "2004",
+     "matched_by": "merge rule"
+    },
+    {
      "rid": "ig6qlxqxoxvcxla:66",
      "title": "The Hypnotized / Faceless Beauty",
      "subtitle": "Eolguleobtneun minyeo · 얼굴없는 미녀",
@@ -355,6 +362,13 @@
      "subtitle": "",
      "year": "2004",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "ig6qlxqxoxvcxla:508",
+     "title": "Hypnotized (2004 Korea)",
+     "subtitle": "",
+     "year": "2004 Korea",
+     "matched_by": "merge rule"
     },
     {
      "rid": "rich-wife-hypnosis:26",
@@ -438,7 +452,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:18",
+     "rid": "hypno-leftovers:17",
      "title": "Svengali",
      "subtitle": "",
      "year": "1927",
@@ -628,7 +642,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:19",
+     "rid": "hypno-leftovers:18",
      "title": "Svengali",
      "subtitle": "",
      "year": "1931",
@@ -784,7 +798,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:20",
+     "rid": "hypno-leftovers:19",
      "title": "Svengali",
      "subtitle": "",
      "year": "1954",
@@ -964,7 +978,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:21",
+     "rid": "hypno-leftovers:20",
      "title": "Svengali",
      "subtitle": "",
      "year": "1983",
@@ -5949,7 +5963,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:16",
+     "rid": "hypno-leftovers:15",
      "title": "Black Magic",
      "subtitle": "",
      "year": "1949",
@@ -6771,26 +6785,6 @@
      "title": "Qubool Hai",
      "subtitle": "",
      "year": "",
-     "matched_by": "title+year"
-    }
-   ]
-  },
-  {
-   "kept_id": 257,
-   "kept": "Hypnotized (2004)",
-   "scope": "cross-source",
-   "members": [
-    {
-     "rid": "xla62ucxbx02u5:272",
-     "title": "Hypnotized",
-     "subtitle": "",
-     "year": "2004"
-    },
-    {
-     "rid": "ig6qlxqxoxvcxla:508",
-     "title": "Hypnotized (2004 Korea)",
-     "subtitle": "",
-     "year": "2004 Korea",
      "matched_by": "title+year"
     }
    ]
@@ -14254,33 +14248,6 @@
    ]
   },
   {
-   "kept_id": 618,
-   "kept": "Tau kwai mou jeu 2: Yau yan fan jeu (2003)",
-   "scope": "cross-source",
-   "members": [
-    {
-     "rid": "xla62ucxbx02u5:651",
-     "title": "Tau kwai mou jeu 2: Yau yan fan jeu",
-     "subtitle": "",
-     "year": "2003"
-    },
-    {
-     "rid": "ig6qlxqxoxvcxla:238",
-     "title": "Tau kwai mou jeu 2 (2003)",
-     "subtitle": "",
-     "year": "2003",
-     "matched_by": "prefix"
-    },
-    {
-     "rid": "hypno-leftovers:6",
-     "title": "Tau kwai mou jeu 2: Yau yan fan jeu",
-     "subtitle": "",
-     "year": "2003",
-     "matched_by": "match_title"
-    }
-   ]
-  },
-  {
    "kept_id": 619,
    "kept": "Hypnose (1920)",
    "scope": "cross-source",
@@ -14501,10 +14468,24 @@
    "scope": "cross-source",
    "members": [
     {
+     "rid": "xla62ucxbx02u5:651",
+     "title": "Tau kwai mou jeu 2: Yau yan fan jeu",
+     "subtitle": "",
+     "year": "2003",
+     "matched_by": "merge rule"
+    },
+    {
      "rid": "xla62ucxbx02u5:662",
      "title": "To Seduce an Enemy",
      "subtitle": "",
      "year": "2003"
+    },
+    {
+     "rid": "ig6qlxqxoxvcxla:238",
+     "title": "Tau kwai mou jeu 2 (2003)",
+     "subtitle": "",
+     "year": "2003",
+     "matched_by": "merge rule"
     },
     {
      "rid": "worldwide-hypnosis:1006",
@@ -14528,7 +14509,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:7",
+     "rid": "hypno-leftovers:6",
      "title": "To Seduce an Enemy",
      "subtitle": "",
      "year": "2003",
@@ -14582,7 +14563,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:9",
+     "rid": "hypno-leftovers:8",
      "title": "Body of Influence",
      "subtitle": "",
      "year": "1993",
@@ -14602,7 +14583,7 @@
      "year": "2008"
     },
     {
-     "rid": "hypno-leftovers:10",
+     "rid": "hypno-leftovers:9",
      "title": "À l'aventure / Adventure",
      "subtitle": "",
      "year": "2008",
@@ -14727,6 +14708,13 @@
      "subtitle": "",
      "year": "1966",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "worldwide-hypnosis:713",
+     "title": "Rasputin: The Mad Monk",
+     "subtitle": "",
+     "year": "1965",
+     "matched_by": "merge rule"
     },
     {
      "rid": "older-man-hypnosis:1",
@@ -14868,6 +14856,13 @@
      "subtitle": "",
      "year": "2003",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "field-fixes:1",
+     "title": "Oldboy (올드보이)",
+     "subtitle": "",
+     "year": "2003",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -14997,7 +14992,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:30",
+     "rid": "hypno-leftovers:29",
      "title": "Vampyros Lesbos",
      "subtitle": "",
      "year": "1971",
@@ -15218,7 +15213,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:29",
+     "rid": "hypno-leftovers:28",
      "title": "El Zorro, la espada y la rosa",
      "subtitle": "",
      "year": "2007",
@@ -15339,7 +15334,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:28",
+     "rid": "hypno-leftovers:27",
      "title": "Friday the 13th: The Series",
      "subtitle": "",
      "year": "1989",
@@ -17728,7 +17723,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:8",
+     "rid": "hypno-leftovers:7",
      "title": "Interactive",
      "subtitle": "",
      "year": "1999",
@@ -18169,7 +18164,7 @@
      "year": "2018–19"
     },
     {
-     "rid": "hypno-leftovers:27",
+     "rid": "hypno-leftovers:26",
      "title": "Karn Sangini",
      "subtitle": "",
      "year": "2018–19",
@@ -18516,7 +18511,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:24",
+     "rid": "hypno-leftovers:23",
      "title": "CID Shankar",
      "subtitle": "",
      "year": "1970",
@@ -18823,7 +18818,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypno-leftovers:14",
+     "rid": "hypno-leftovers:13",
      "title": "Columbo",
      "subtitle": "",
      "year": "1968",
@@ -18970,7 +18965,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypno-leftovers:11",
+     "rid": "hypno-leftovers:10",
      "title": "De Mesmer con amor",
      "subtitle": "",
      "year": "2002",
@@ -19218,7 +19213,7 @@
      "year": "2011–2013"
     },
     {
-     "rid": "hypno-leftovers:12",
+     "rid": "hypno-leftovers:11",
      "title": "Health Nutz",
      "subtitle": "",
      "year": "2011–2013",
@@ -19245,7 +19240,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:13",
+     "rid": "hypno-leftovers:12",
      "title": "Hot Under the Collar",
      "subtitle": "",
      "year": "1992",
@@ -19325,7 +19320,7 @@
      "year": "2012"
     },
     {
-     "rid": "hypno-leftovers:25",
+     "rid": "hypno-leftovers:24",
      "title": "Knock",
      "subtitle": "",
      "year": "2012",
@@ -19345,7 +19340,7 @@
      "year": ""
     },
     {
-     "rid": "hypno-leftovers:23",
+     "rid": "hypno-leftovers:22",
      "title": "Kiss Kiss",
      "subtitle": "",
      "year": "2019",
@@ -19585,7 +19580,7 @@
      "year": "1914"
     },
     {
-     "rid": "hypno-leftovers:22",
+     "rid": "hypno-leftovers:21",
      "title": "Svengali",
      "subtitle": "",
      "year": "1914",
@@ -19699,7 +19694,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypno-leftovers:17",
+     "rid": "hypno-leftovers:16",
      "title": "The Magician",
      "subtitle": "",
      "year": "1926",
@@ -19719,7 +19714,7 @@
      "year": "2010"
     },
     {
-     "rid": "hypno-leftovers:26",
+     "rid": "hypno-leftovers:25",
      "title": "The Snow White",
      "subtitle": "",
      "year": "2010",
@@ -19858,6 +19853,13 @@
      "subtitle": "",
      "year": "1985",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "field-fixes:2",
+     "title": "Wizards of the Lost Kingdom",
+     "subtitle": "",
+     "year": "1985",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -19982,6 +19984,47 @@
    ]
   }
  ],
+ "merge_rules": [
+  {
+   "keep": {
+    "title": "Rasputin the Mad Monk",
+    "year": "1966"
+   },
+   "absorb": {
+    "title": "Rasputin: The Mad Monk",
+    "year": "1965"
+   },
+   "status": "applied",
+   "kept_id": 646,
+   "retired_id": 1559
+  },
+  {
+   "keep": {
+    "title": "The Hypnotized / Faceless Beauty",
+    "year": "2004"
+   },
+   "absorb": {
+    "title": "Hypnotized",
+    "year": "2004"
+   },
+   "status": "applied",
+   "kept_id": 18,
+   "retired_id": 257
+  },
+  {
+   "keep": {
+    "title": "To Seduce an Enemy",
+    "year": "2003"
+   },
+   "absorb": {
+    "title": "Tau kwai mou jeu 2: Yau yan fan jeu",
+    "year": "2003"
+   },
+   "status": "applied",
+   "kept_id": 629,
+   "retired_id": 618
+  }
+ ],
  "raw_counts": {
   "xla62ucxbx02u5": 855,
   "ig6qlxqxoxvcxla": 990,
@@ -19996,11 +20039,12 @@
   "older-man-hypnosis": 36,
   "hypno-intimacy": 11,
   "mother-kids-hypnosis": 38,
-  "hypno-leftovers": 30
+  "hypno-leftovers": 29,
+  "field-fixes": 2
  },
- "entry_count_after_dedupe": 1965,
+ "entry_count_after_dedupe": 1962,
  "within_source_groups": 1,
- "cross_source_groups": 792,
+ "cross_source_groups": 790,
  "index_only_records": 40,
- "local_only_records": 1100
+ "local_only_records": 1099
 }

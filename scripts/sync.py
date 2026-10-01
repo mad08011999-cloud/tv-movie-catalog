@@ -26,6 +26,10 @@ Pipeline
      A required source that fails aborts the run (nothing is written). An optional source that fails
      falls back to its last good snapshot in sources/<id>.json (or is skipped if none exists).
   3. De-duplication by normalized title key + year (see dedupe()).
+     Explicit merges for duplicates that title+year cannot catch live in sources/merge-rules.json (see
+     apply_merge_rules()); the absorbed card's ID is retired and no other ID shifts. A local record may name
+     "override_fields" to take precedence for those optional fields (see overrides()); opposite definite
+     pregnancy / kids / marriage values that no record resolves are listed on the card's source-conflict line.
   4. Sections, categories and notes are merged; files are written.
 
 Unchanged source content produces byte-identical output (no git diff).
@@ -66,6 +70,8 @@ SOURCES = [
      "local": "sources/mother-kids-hypnosis.json", "required": False},
     {"id": "hypno-leftovers", "label": "Hypnosis / mind-control leads left out of the hypno-intimacy pass",
      "local": "sources/hypno-leftovers.json", "required": False},
+    {"id": "field-fixes", "label": "Card field fixes (conflicting pregnancy / kids / marriage values)",
+     "local": "sources/field-fixes.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -716,12 +722,91 @@ def copy_info(m, primary, g, members):
     return out
 
 
+# A local record may list "override_fields" (a subset of OPTIONAL_FIELDS): for those fields its value takes
+# precedence over earlier sources (normally the primary / earliest copy wins). Overriding a value field also
+# takes its paired note from the same record, so a value is never shown with another source's note.
+NOTE_FIELD = {"pregnancy_outcome": "pregnancy_note", "pregnant_end": "pregnant_end_note", "kids_status": "kids_note",
+              "kids_together": "kids_together_note", "married": "married_note"}
+CONFLICT_FIELDS = {"pregnancy_outcome": "Pregnancy outcome", "pregnant_end": "Pregnant by the end",
+                   "kids_status": "Already has children", "kids_together": "Kids together", "married": "Marries her",
+                   "pregnant_has_children": "Already has children (pregnancy research)"}
+
+
+def overrides(m):
+    raw = m.get("raw")
+    fs = list(raw.get("override_fields") or []) if m["kind"] == "local" and isinstance(raw, dict) else []
+    return fs + [NOTE_FIELD[f] for f in fs if f in NOTE_FIELD]
+
+
+def polarity(v):
+    """'yes' / 'no' for a definite pregnancy / kids / married value, None for a non-answer."""
+    v = str(v).strip().casefold()
+    if not v or v.startswith(("unknown", "not stated")) or "unconfirmed" in v:
+        return None
+    if v.startswith(("no", "not pregnant")):
+        return "no"
+    return "yes"
+
+
+def value_conflicts(members):
+    """Copies that give opposite definite answers for one field, unless a curated record overrides the field."""
+    out = []
+    for f, label in CONFLICT_FIELDS.items():
+        if any(f in overrides(m) for m in members):
+            continue
+        seen = {}
+        for m in sorted(members, key=lambda m: (m["source_rank"], m["order"])):
+            pol = polarity(m.get(f) or "")
+            if pol:
+                seen.setdefault(pol, []).append(f"{m['source']} says “{m[f]}”")
+        if len(seen) > 1:
+            out.append(f"{label}: " + "; ".join(seen["yes"] + seen["no"]))
+    return out
+
+
+def load_merge_rules():
+    p = os.path.join(HERE, "..", "sources", "merge-rules.json")
+    if not os.path.exists(p):
+        return []
+    with open(p, encoding="utf-8") as f:
+        return json.load(f).get("rules", [])
+
+
+def apply_merge_rules(groups, rules):
+    """Explicit duplicate merges (sources/merge-rules.json) for copies the title+year rule cannot join (different
+    title spelling or year). The absorbed group's records join the kept group and can never become its primary; the
+    absorbed group keeps its slot in the numbering, so its ID is retired and no other ID shifts."""
+    def find(spec, exclude=None):
+        tk, yk = norm_title(spec["title"]), year_key(spec.get("year", ""))
+        return [g for g in groups if g is not exclude and not g.get("_absorbed_into")
+                and any(norm_title(m["title"]) == tk and year_key(m["year"]) == yk for m in g["members"])]
+    log = []
+    for rule in rules:
+        keep = find(rule["keep"])
+        absorb = find(rule["absorb"], exclude=keep[0] if len(keep) == 1 else None)
+        entry = {"keep": rule["keep"], "absorb": rule["absorb"]}
+        if len(keep) != 1 or len(absorb) != 1:
+            entry |= {"status": "not applied", "keep_matches": len(keep), "absorb_matches": len(absorb)}
+            print(f"[sync] WARNING merge rule not applied: {entry}", file=sys.stderr)
+            log.append(entry); continue
+        a, b = keep[0], absorb[0]
+        for m in b["members"]:
+            m["_absorbed"] = True
+            a["via"].setdefault(m["rid"], "merge rule")
+        a["members"].extend(b["members"]); a["years"] |= b["years"]
+        b["_absorbed_into"] = a
+        a.setdefault("_rules", []).append(rule)
+        entry |= {"status": "applied", "_a": a, "_b": b}
+        log.append(entry)
+    return log
+
+
 def merge_group(g, new_id):
     members = g["members"]
     # primary: full-catalog record before index record before local (hand-curated) record; with a year
     # before without; then source order. A local record therefore never replaces an existing primary.
-    primary = sorted(members, key=lambda m: (m["kind"] != "full", m["kind"] == "local", not year_key(m["year"]),
-                                             m["source_rank"], m["order"]))[0]
+    primary = sorted(members, key=lambda m: (m.get("_absorbed", False), m["kind"] != "full", m["kind"] == "local",
+                                             not year_key(m["year"]), m["source_rank"], m["order"]))[0]
     rec = {"id": new_id, "title": primary["title"]}
     # Episode/storyline-specific fields are only filled from a copy that tells the same story (same
     # summary, or the copy that supplies the summary when the primary has none), so a character or
@@ -733,7 +818,12 @@ def merge_group(g, new_id):
         pool = same_story if f in STORY_FIELDS else members
         rec[f] = primary[f] or next((m[f] for m in pool if m[f]), "")
     for f in OPTIONAL_FIELDS:
-        ordered = sorted(members, key=lambda m: (m is not primary, m["source_rank"], m["order"]))
+        ordered = sorted(members, key=lambda m: (f not in overrides(m), m is not primary, m["source_rank"], m["order"]))
+        if f in NOTE_FIELD.values() and any(f in overrides(m) for m in members):
+            v = next((m.get(f) for m in ordered if f in overrides(m)), None)   # note goes with its overridden value
+            if v:
+                rec[f] = v
+            continue
         if f in UNION_FIELDS:
             vals = []
             for m in ordered:
@@ -746,6 +836,9 @@ def merge_group(g, new_id):
         v = next((m[f] for m in ordered if m.get(f)), None)
         if v:
             rec[f] = v
+    conflicts = value_conflicts(members)
+    if conflicts:
+        rec["source_conflict"] = " · ".join(([rec["source_conflict"]] if rec.get("source_conflict") else []) + conflicts)
     rec["format"] = primary["format"]
     rec["categories"] = []
     rec["sources"], seen_urls = [], set()
@@ -792,17 +885,30 @@ def build(parsed):
     groups.sort(key=lambda g: min((m["source_rank"], m["order"]) for m in g["members"]))
     entries, rid_to_id, n_full = [], {}, 0
     for g in groups:
-        if any(m["kind"] == "full" for m in g["members"]):
+        g["_has_full"] = any(m["kind"] == "full" for m in g["members"])
+    merge_log = apply_merge_rules(groups, load_merge_rules())
+    for g in groups:
+        if g["_has_full"]:
             n_full += 1
     next_full, next_idx = 0, n_full
     report = {"rule": inspect.cleandoc(dedupe.__doc__), "merged_groups": []}
     for g in groups:
-        has_full = any(m["kind"] == "full" for m in g["members"])
+        has_full = g["_has_full"]
         if has_full:
             next_full += 1; new_id = next_full
         else:
             next_idx += 1; new_id = next_idx
+        g["_id"] = new_id
+        if g.get("_absorbed_into"):
+            continue      # retired ID: this card was merged into another one by a merge rule
         rec, primary = merge_group(g, new_id)
+        for rule in g.get("_rules", []):
+            for k in ("title", "subtitle"):
+                if rule.get(k):
+                    rec[k] = rule[k]
+            note = rule.get("conflict_note")
+            if note and note not in (rec.get("source_conflict") or ""):
+                rec["source_conflict"] = (rec["source_conflict"] + " · " if rec.get("source_conflict") else "") + note
         entries.append(rec)
         for m in g["members"]:
             rid_to_id[m["rid"]] = new_id
@@ -816,6 +922,17 @@ def build(parsed):
                             for m in sorted(g["members"], key=lambda m: (m["source_rank"], m["order"]))]})
     entries.sort(key=lambda e: e["id"])
     by_id = {e["id"]: e for e in entries}
+    for x in merge_log:
+        if "_a" in x:
+            kept = by_id[x["_a"]["_id"]]
+            kept.setdefault("retired_ids", []).append(x["_b"]["_id"])
+            for m in x["_b"]["members"]:
+                ty = {"title": m["title"], "year": m["year"]}
+                if ty not in kept.setdefault("absorbed_titles", []):
+                    kept["absorbed_titles"].append(ty)
+    report["merge_rules"] = [{k: v for k, v in x.items() if not k.startswith("_")} |
+                             ({"kept_id": x["_a"]["_id"], "retired_id": x["_b"]["_id"]} if "_a" in x else {})
+                             for x in merge_log]
 
     # ---- sections: full catalog layout first, index sections merged in by category key
     full = parsed[full_id]
@@ -998,6 +1115,10 @@ def apply_watch_links(data, out):
     by_key = defaultdict(list)
     for e in data["entries"]:
         by_key[(e["title"], e.get("year", ""))].append(e)
+    for e in data["entries"]:      # a card absorbed by a merge rule (sources/merge-rules.json) keeps its links
+        for ty in e.get("absorbed_titles", []):
+            if (ty["title"], ty["year"]) not in by_key:
+                by_key[(ty["title"], ty["year"])].append(e)
     hit = miss = 0
     for r in recs:
         targets = by_key.get((r.get("title", ""), r.get("year", "")), [])
