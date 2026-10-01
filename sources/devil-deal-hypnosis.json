@@ -1,0 +1,33 @@
+{
+ "id": "devil-deal-hypnosis",
+ "label": "Devil's deal + pregnancy (hypnotized) research",
+ "group_title": "Devil's deal + pregnancy, hypnotized (Sep 2026 research)",
+ "description": "Screen works worldwide in which a woman knowingly or unknowingly bargains with the devil, a demon or a Satanist/cult intermediary to get pregnant AND is hypnotized or mesmerized (possession, spell-only and potion-only control excluded; minors excluded; plot notes non-explicit). Each record carries the pregnancy outcome. Near-misses, rejections and unverified leads are listed in the research notes, not added.",
+ "category_labels": {"devil-deal-pregnancy-hypnosis": "Devil's deal + pregnancy (hypnotized)"},
+ "records": [
+  {
+   "title": "Bandh Darwaza",
+   "subtitle": "बंद दरवाज़ा · “The Closed Door”",
+   "year": "1990",
+   "format": "movie",
+   "meta": "Feature film · India · Hindi · dir. Shyam & Tulsi Ramsay",
+   "mechanism": "Knowing bargain with the demon Nevla (via his witch-servant Mahua) for a child · hypnotized by Nevla at the Kali Pahari ritual",
+   "confidence_flag": "Strong for the deal and the birth (Wikipedia, TMDB, IMDb review, Bharatpedia); the hypnosis of Lajo rests on two fan/wiki sources (Bharatpedia plot: “Neola appears and hypnotises her”; Mental Block screenshot captions), and current English Wikipedia mentions hypnosis only for her daughter Kamya",
+   "summary": "Childless Thakurain Lajo, afraid her husband will remarry, accepts the witch-woman Mahua's offer: the demon Nevla will give her a child, but a daughter must be surrendered to him. At the Kali Pahari ritual Nevla hypnotizes her and she conceives while entranced; she gives birth to Kamya, refuses to hand her over, and is poisoned on Nevla's orders.",
+   "character": "Thakurain Lajo (Beena Banerjee)",
+   "categories": ["devil-deal-pregnancy-hypnosis", "devil-deal-pregnancy", "occult", "cult"],
+   "sources": [
+    {"label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Bandh_Darwaza"},
+    {"label": "Bharatpedia plot", "url": "https://en.bharatpedia.org/wiki/Bandh_Darwaza"},
+    {"label": "Mental Block wiki", "url": "https://mentalblock.miraheze.org/wiki/Bandh_Darwaza"},
+    {"label": "TMDB", "url": "https://www.themoviedb.org/movie/153170-bandh-darwaza"},
+    {"label": "IMDb", "url": "https://www.imdb.com/title/tt0259877/"}
+   ],
+   "pregnancy_outcome": "becomes pregnant and gives birth",
+   "pregnancy_note": "Lajo gives birth to a daughter, Kamya; she is later poisoned on Nevla's orders and dies, while Kamya survives.",
+   "pregnancy_highlight": true,
+   "provenance": "Devil's-deal + pregnancy + hypnosis research pass (30 Sep 2026): Mental Block wiki, Wikipedia, Bharatpedia, TMDB, IMDb, TV Tropes and web reviews."
+  }
+ ],
+ "dropped": []
+}

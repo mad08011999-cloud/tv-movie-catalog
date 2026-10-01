@@ -48,6 +48,8 @@ SOURCES = [
      "required": False},
     {"id": "hypnotized-love", "label": "Worldwide hypnotized-to-love research", "local": "sources/hypnotized-love.json",
      "required": False},
+    {"id": "devil-deal-hypnosis", "label": "Devil's deal + pregnancy (hypnotized) research",
+     "local": "sources/devil-deal-hypnosis.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -481,7 +483,7 @@ def parse_local(src, payload, known_labels):
                 r["youtube_ids"].append(mm.group(1))
         records.append(r)
         for c in r["categories"]:
-            sec = sections.setdefault(c, {"title": known_labels.get(c, c), "category": c, "description": "",
+            sec = sections.setdefault(c, {"title": known_labels.get(c) or payload.get("category_labels", {}).get(c, c), "category": c, "description": "",
                                           "notes": [], "from_sources": [src["id"]],
                                           "groups": [{"title": payload.get("group_title") or src["label"],
                                                       "items": [], "notes": []}]})

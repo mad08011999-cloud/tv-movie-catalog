@@ -829,6 +829,19 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "devil-deal-hypnosis",
+   "label": "Devil's deal + pregnancy (hypnotized) research",
+   "kind": "local",
+   "share_url": "sources/devil-deal-hypnosis.json",
+   "description": "Screen works worldwide in which a woman knowingly or unknowingly bargains with the devil, a demon or a Satanist/cult intermediary to get pregnant AND is hypnotized or mesmerized (possession, spell-only and potion-only control excluded; minors excluded; plot notes non-explicit). Each record carries the pregnancy outcome. Near-misses, rejections and unverified leads are listed in the research notes, not added.",
+   "dropped": [],
+   "check": {
+    "raw_count": 1,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -836,9 +849,10 @@
   "ig6qlxqxoxvcxla": 974,
   "india-catalog": 163,
   "worldwide-hypnosis": 1085,
-  "hypnotized-love": 30
+  "hypnotized-love": 30,
+  "devil-deal-hypnosis": 1
  },
- "raw_total": 3107,
+ "raw_total": 3108,
  "entry_count": 1885,
  "categories": [
   {
@@ -863,13 +877,19 @@
    "key": "cult",
    "label": "Cult / coercive brainwashing",
    "legend_label": "Cult / coercive brainwashing",
-   "entry_count": 15
+   "entry_count": 16
   },
   {
    "key": "occult",
    "label": "Demonic / occult control",
    "legend_label": "Demonic / occult control",
-   "entry_count": 38
+   "entry_count": 39
+  },
+  {
+   "key": "devil-deal-pregnancy-hypnosis",
+   "label": "Devil's deal + pregnancy (hypnotized)",
+   "legend_label": "Devil's deal + pregnancy (hypnotized)",
+   "entry_count": 1
   },
   {
    "key": "tech",
@@ -1127,7 +1147,7 @@
    "key": "devil-deal-pregnancy",
    "label": "Woman bargains with devil / demon for pregnancy or a child",
    "legend_label": "Woman bargains with devil / demon for pregnancy or a child",
-   "entry_count": 21
+   "entry_count": 22
   }
  ],
  "formats": [
@@ -27656,7 +27676,11 @@
     "india-pregnancy",
     "pregnancy-evil",
     "regional-pregnancy",
-    "vampire"
+    "vampire",
+    "devil-deal-pregnancy-hypnosis",
+    "devil-deal-pregnancy",
+    "occult",
+    "cult"
    ],
    "sources": [
     {
@@ -27674,6 +27698,18 @@
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Bandh_Darwaza"
+    },
+    {
+     "label": "Bharatpedia plot",
+     "url": "https://en.bharatpedia.org/wiki/Bandh_Darwaza"
+    },
+    {
+     "label": "TMDB",
+     "url": "https://www.themoviedb.org/movie/153170-bandh-darwaza"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0259877/"
     }
    ],
    "youtube_ids": [],
@@ -27681,7 +27717,8 @@
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "india-catalog",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "devil-deal-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:166",
@@ -27689,7 +27726,8 @@
     "ig6qlxqxoxvcxla:867",
     "ig6qlxqxoxvcxla:870",
     "india-catalog:144",
-    "worldwide-hypnosis:88"
+    "worldwide-hypnosis:88",
+    "devil-deal-hypnosis:1"
    ],
    "index_only": false,
    "local_only": false,
@@ -27864,6 +27902,57 @@
      "pregnancy_highlight": true,
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "devil-deal-hypnosis:1",
+     "source": "devil-deal-hypnosis",
+     "label": "Bandh Darwaza · बंद दरवाज़ा · “The Closed Door” (1990)",
+     "identifiers": [
+      "subtitle",
+      "year/date"
+     ],
+     "title": "Bandh Darwaza",
+     "subtitle": "बंद दरवाज़ा · “The Closed Door”",
+     "year": "1990",
+     "meta": "Feature film · India · Hindi · dir. Shyam & Tulsi Ramsay",
+     "summary": "Childless Thakurain Lajo, afraid her husband will remarry, accepts the witch-woman Mahua's offer: the demon Nevla will give her a child, but a daughter must be surrendered to him. At the Kali Pahari ritual Nevla hypnotizes her and she conceives while entranced; she gives birth to Kamya, refuses to hand her over, and is poisoned on Nevla's orders.",
+     "character": "Thakurain Lajo (Beena Banerjee)",
+     "note": "",
+     "mechanism": "Knowing bargain with the demon Nevla (via his witch-servant Mahua) for a child · hypnotized by Nevla at the Kali Pahari ritual",
+     "confidence_flag": "Strong for the deal and the birth (Wikipedia, TMDB, IMDb review, Bharatpedia); the hypnosis of Lajo rests on two fan/wiki sources (Bharatpedia plot: “Neola appears and hypnotises her”; Mental Block screenshot captions), and current English Wikipedia mentions hypnosis only for her daughter Kamya",
+     "categories": [
+      "devil-deal-pregnancy-hypnosis",
+      "devil-deal-pregnancy",
+      "occult",
+      "cult"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Bandh_Darwaza"
+      },
+      {
+       "label": "Bharatpedia plot",
+       "url": "https://en.bharatpedia.org/wiki/Bandh_Darwaza"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Bandh_Darwaza"
+      },
+      {
+       "label": "TMDB",
+       "url": "https://www.themoviedb.org/movie/153170-bandh-darwaza"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0259877/"
+      }
+     ],
+     "pregnancy_outcome": "becomes pregnant and gives birth",
+     "pregnancy_note": "Lajo gives birth to a daughter, Kamya; she is later poisoned on Nevla's orders and dies, while Kamya survives.",
+     "pregnancy_highlight": true,
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -27964,6 +28053,49 @@
      "pregnancy_note": "Mental Block: Lajo returns to her haveli unaware that Neola has made her pregnant.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
      "pregnancy_highlight": true
+    },
+    "devil-deal-hypnosis:1": {
+     "title": "Bandh Darwaza",
+     "subtitle": "बंद दरवाज़ा · “The Closed Door”",
+     "year": "1990",
+     "format": "movie",
+     "meta": "Feature film · India · Hindi · dir. Shyam & Tulsi Ramsay",
+     "mechanism": "Knowing bargain with the demon Nevla (via his witch-servant Mahua) for a child · hypnotized by Nevla at the Kali Pahari ritual",
+     "confidence_flag": "Strong for the deal and the birth (Wikipedia, TMDB, IMDb review, Bharatpedia); the hypnosis of Lajo rests on two fan/wiki sources (Bharatpedia plot: “Neola appears and hypnotises her”; Mental Block screenshot captions), and current English Wikipedia mentions hypnosis only for her daughter Kamya",
+     "summary": "Childless Thakurain Lajo, afraid her husband will remarry, accepts the witch-woman Mahua's offer: the demon Nevla will give her a child, but a daughter must be surrendered to him. At the Kali Pahari ritual Nevla hypnotizes her and she conceives while entranced; she gives birth to Kamya, refuses to hand her over, and is poisoned on Nevla's orders.",
+     "character": "Thakurain Lajo (Beena Banerjee)",
+     "categories": [
+      "devil-deal-pregnancy-hypnosis",
+      "devil-deal-pregnancy",
+      "occult",
+      "cult"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Bandh_Darwaza"
+      },
+      {
+       "label": "Bharatpedia plot",
+       "url": "https://en.bharatpedia.org/wiki/Bandh_Darwaza"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Bandh_Darwaza"
+      },
+      {
+       "label": "TMDB",
+       "url": "https://www.themoviedb.org/movie/153170-bandh-darwaza"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0259877/"
+      }
+     ],
+     "pregnancy_outcome": "becomes pregnant and gives birth",
+     "pregnancy_note": "Lajo gives birth to a daughter, Kamya; she is later poisoned on Nevla's orders and dies, while Kamya survives.",
+     "pregnancy_highlight": true,
+     "provenance": "Devil's-deal + pregnancy + hypnosis research pass (30 Sep 2026): Mental Block wiki, Wikipedia, Bharatpedia, TMDB, IMDb, TV Tropes and web reviews."
     }
    }
   },
@@ -196310,7 +196442,8 @@
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "india-catalog",
-    "hypnotized-love"
+    "hypnotized-love",
+    "devil-deal-hypnosis"
    ],
    "groups": [
     {
@@ -196467,12 +196600,24 @@
       }
      ],
      "from_source": "hypnotized-love"
+    },
+    {
+     "title": "Devil's deal + pregnancy, hypnotized (Sep 2026 research)",
+     "notes": [],
+     "items": [
+      {
+       "id": 158,
+       "from_source": "devil-deal-hypnosis"
+      }
+     ],
+     "from_source": "devil-deal-hypnosis"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 12,
     "india-catalog": null,
-    "hypnotized-love": null
+    "hypnotized-love": null,
+    "devil-deal-hypnosis": null
    }
   },
   {
@@ -196484,7 +196629,8 @@
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "india-catalog",
-    "hypnotized-love"
+    "hypnotized-love",
+    "devil-deal-hypnosis"
    ],
    "groups": [
     {
@@ -196867,13 +197013,50 @@
       }
      ],
      "from_source": "hypnotized-love"
+    },
+    {
+     "title": "Devil's deal + pregnancy, hypnotized (Sep 2026 research)",
+     "notes": [],
+     "items": [
+      {
+       "id": 158,
+       "from_source": "devil-deal-hypnosis"
+      }
+     ],
+     "from_source": "devil-deal-hypnosis"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 32,
     "india-catalog": null,
-    "hypnotized-love": null
+    "hypnotized-love": null,
+    "devil-deal-hypnosis": null
    }
+  },
+  {
+   "title": "Devil's deal + pregnancy (hypnotized)",
+   "category": "devil-deal-pregnancy-hypnosis",
+   "description": "",
+   "notes": [],
+   "from_sources": [
+    "devil-deal-hypnosis"
+   ],
+   "declared_count_by_source": {
+    "devil-deal-hypnosis": null
+   },
+   "groups": [
+    {
+     "title": "Devil's deal + pregnancy, hypnotized (Sep 2026 research)",
+     "notes": [],
+     "items": [
+      {
+       "id": 158,
+       "from_source": "devil-deal-hypnosis"
+      }
+     ],
+     "from_source": "devil-deal-hypnosis"
+    }
+   ]
   },
   {
    "title": "Drugs / science / technology control",
@@ -215759,7 +215942,8 @@
    ],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "devil-deal-hypnosis"
    ],
    "groups": [
     {
@@ -216033,10 +216217,22 @@
       }
      ],
      "from_source": "ig6qlxqxoxvcxla"
+    },
+    {
+     "title": "Devil's deal + pregnancy, hypnotized (Sep 2026 research)",
+     "notes": [],
+     "items": [
+      {
+       "id": 158,
+       "from_source": "devil-deal-hypnosis"
+      }
+     ],
+     "from_source": "devil-deal-hypnosis"
     }
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 21
+    "ig6qlxqxoxvcxla": 21,
+    "devil-deal-hypnosis": null
    }
   }
  ],

@@ -3728,6 +3728,13 @@
      "subtitle": "",
      "year": "1990",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "devil-deal-hypnosis:1",
+     "title": "Bandh Darwaza",
+     "subtitle": "बंद दरवाज़ा · “The Closed Door”",
+     "year": "1990",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -17935,7 +17942,8 @@
   "ig6qlxqxoxvcxla": 974,
   "india-catalog": 163,
   "worldwide-hypnosis": 1085,
-  "hypnotized-love": 30
+  "hypnotized-love": 30,
+  "devil-deal-hypnosis": 1
  },
  "entry_count_after_dedupe": 1885,
  "within_source_groups": 1,
