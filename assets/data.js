@@ -842,6 +842,25 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "pregnant-intimacy",
+   "label": "Pregnant-character intimacy research",
+   "kind": "local",
+   "share_url": "sources/pregnant-intimacy.json",
+   "description": "Films and TV in which a pregnant adult character has an intimate or sex scene with a partner, spouse or affair partner. Research pass of 30 Sep 2026 using Wikipedia, IMDb parents guides and keywords, fan wikis and reviews. Adult characters only; titles involving minors or teen characters (including child walk-ins) are excluded; descriptions are non-explicit.",
+   "dropped": [
+    "United States of Tara S03E02 (a teen character walks in on the scene)",
+    "Neighbors 2: Sorority Rising (a toddler enters during the scene)",
+    "Ten Thousand Saints, Innocent Crush, Sleeping Beauty (2008), The Backwater, The Dawn Rapists, Misfits (minor or teen characters)",
+    "Spartacus: Vengeance 'Empty Hands' (no pregnant sex scene found)",
+    "Ti mene nosiš, Álbum de Família, Los aires difíciles, Beautiful Sunday (pregnant character or consent could not be established)"
+   ],
+   "check": {
+    "raw_count": 47,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -850,10 +869,11 @@ window.CATALOG = {
   "india-catalog": 163,
   "worldwide-hypnosis": 1085,
   "hypnotized-love": 30,
-  "devil-deal-hypnosis": 1
+  "devil-deal-hypnosis": 1,
+  "pregnant-intimacy": 47
  },
- "raw_total": 3108,
- "entry_count": 1885,
+ "raw_total": 3155,
+ "entry_count": 1923,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -1009,13 +1029,13 @@ window.CATALOG = {
    "key": "pregnant-sex",
    "label": "Pregnant characters having sex",
    "legend_label": "Pregnant characters having sex",
-   "entry_count": 22
+   "entry_count": 61
   },
   {
    "key": "pregnant-intimate",
    "label": "Pregnant intimate scenes",
    "legend_label": "Pregnant intimate scenes",
-   "entry_count": 17
+   "entry_count": 18
   },
   {
    "key": "pregnant-walkin",
@@ -16822,32 +16842,59 @@ window.CATALOG = {
    "id": 89,
    "title": "Dexter",
    "subtitle": "",
-   "year": "",
+   "year": "2008",
    "meta": "Near / partial match",
    "mechanism": "Near / partial match",
    "confidence_flag": "Near-match",
    "summary": "Rita is pregnant before marrying Dexter (Harrison).",
    "character": "Rita",
-   "provenance": "",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "",
+   "pregnant_has_children": "yes (two children, Astor and Cody)",
+   "episodes": [
+    {
+     "episode": "S03E01 “Our Father”",
+     "air_date": "2008-09-28",
+     "gist": "Dexter and Rita have sex twice; Rita realises she is pregnant and tells Dexter.",
+     "number_verified": true
+    }
+   ],
+   "tags": [
+    "moaning"
+   ],
    "format": "tv",
    "categories": [
-    "family"
+    "family",
+    "pregnant-sex"
    ],
    "sources": [
     {
      "label": "Source",
      "url": "https://en.wikipedia.org/wiki/Dexter_season_4"
+    },
+    {
+     "label": "IMDb parents guide (episode)",
+     "url": "https://www.imdb.com/title/tt1242111/parentalguide/"
+    },
+    {
+     "label": "Dexter wiki",
+     "url": "https://dexter.fandom.com/wiki/Episode_301:_Our_Father"
+    },
+    {
+     "label": "Wikipedia: Dexter season 3",
+     "url": "https://en.wikipedia.org/wiki/Dexter_season_3"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "pregnant-intimacy"
    ],
    "source_records": [
     "xla62ucxbx02u5:91",
-    "ig6qlxqxoxvcxla:362"
+    "ig6qlxqxoxvcxla:362",
+    "pregnant-intimacy:40"
    ],
    "index_only": false,
    "local_only": false,
@@ -16899,6 +16946,54 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Dexter",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimacy:40",
+     "source": "pregnant-intimacy",
+     "label": "Dexter (2008)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dexter",
+     "subtitle": "",
+     "year": "2008",
+     "meta": "TV series · United States · English",
+     "summary": "S03E01 “Our Father” — Dexter and Rita have sex twice; Rita's appetite and cravings lead her to realise she is pregnant, and she tells Dexter at the end of the episode. Already has children: yes — two children, Astor and Cody.",
+     "character": "Rita Bennett (Julie Benz)",
+     "note": "IMDb's parents guide for the episode describes two low-lit sex scenes with panting and moaning. Rita only learns of the pregnancy during the episode.",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "confidence_flag": "Verified",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "sources": [
+      {
+       "label": "IMDb parents guide (episode)",
+       "url": "https://www.imdb.com/title/tt1242111/parentalguide/"
+      },
+      {
+       "label": "Dexter wiki",
+       "url": "https://dexter.fandom.com/wiki/Episode_301:_Our_Father"
+      },
+      {
+       "label": "Wikipedia: Dexter season 3",
+       "url": "https://en.wikipedia.org/wiki/Dexter_season_3"
+      }
+     ],
+     "pregnant_has_children": "yes (two children, Astor and Cody)",
+     "episodes": [
+      {
+       "episode": "S03E01 “Our Father”",
+       "air_date": "2008-09-28",
+       "gist": "Dexter and Rita have sex twice; Rita realises she is pregnant and tells Dexter.",
+       "number_verified": true
+      }
+     ],
+     "tags": [
+      "moaning"
+     ],
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -16926,6 +17021,48 @@ window.CATALOG = {
      "group": "Near / partial matches",
      "confidence": "Near-match",
      "note": ""
+    },
+    "pregnant-intimacy:40": {
+     "title": "Dexter",
+     "year": "2008",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Spouse / partner intimacy during pregnancy",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "summary": "S03E01 “Our Father” — Dexter and Rita have sex twice; Rita's appetite and cravings lead her to realise she is pregnant, and she tells Dexter at the end of the episode. Already has children: yes — two children, Astor and Cody.",
+     "pregnant_has_children": "yes (two children, Astor and Cody)",
+     "character": "Rita Bennett (Julie Benz)",
+     "note": "IMDb's parents guide for the episode describes two low-lit sex scenes with panting and moaning. Rita only learns of the pregnancy during the episode.",
+     "confidence_flag": "Verified",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb parents guide (episode)",
+       "url": "https://www.imdb.com/title/tt1242111/parentalguide/"
+      },
+      {
+       "label": "Dexter wiki",
+       "url": "https://dexter.fandom.com/wiki/Episode_301:_Our_Father"
+      },
+      {
+       "label": "Wikipedia: Dexter season 3",
+       "url": "https://en.wikipedia.org/wiki/Dexter_season_3"
+      }
+     ],
+     "tags": [
+      "moaning"
+     ],
+     "episodes": [
+      {
+       "episode": "S03E01 “Our Father”",
+       "air_date": "2008-09-28",
+       "gist": "Dexter and Rita have sex twice; Rita realises she is pregnant and tells Dexter.",
+       "number_verified": true
+      }
+     ]
     }
    }
   },
@@ -21231,8 +21368,9 @@ window.CATALOG = {
    "confidence_flag": "Confirmed on-screen · performer also pregnant",
    "summary": "Fully pregnant Geise and Iremar have sex in a long, unbroken scene. Production interviews confirm that actress Samya De Lavor was pregnant during filming; sources differ on how the scene itself was performed, so this catalog does not label it unsimulated.",
    "character": "",
-   "provenance": "",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "",
+   "pregnant_has_children": "unknown",
    "format": "movie",
    "categories": [
     "pregnant-sex"
@@ -21249,16 +21387,22 @@ window.CATALOG = {
     {
      "label": "No Film School",
      "url": "https://nofilmschool.com/neon-bull"
+    },
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt4899406/keywords/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "pregnant-intimacy"
    ],
    "source_records": [
     "xla62ucxbx02u5:124",
-    "ig6qlxqxoxvcxla:893"
+    "ig6qlxqxoxvcxla:893",
+    "pregnant-intimacy:34"
    ],
    "index_only": false,
    "local_only": false,
@@ -21323,6 +21467,35 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Neon Bull (2015)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimacy:34",
+     "source": "pregnant-intimacy",
+     "label": "Neon Bull (2015)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Neon Bull",
+     "subtitle": "",
+     "year": "2015",
+     "meta": "Film · Brazil · Portuguese (original title: Boi Neon)",
+     "summary": "Rodeo worker Iremar and the heavily pregnant Geise have sex in a long, unbroken scene; IMDb tags the film 'sex with a pregnant woman'. Already has children: unknown.",
+     "character": "Geise (Maeve Jinkings)",
+     "note": "",
+     "mechanism": "New or casual partner while pregnant",
+     "confidence_flag": "Verified",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "sources": [
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt4899406/keywords/"
+      }
+     ],
+     "pregnant_has_children": "unknown",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -21360,6 +21533,29 @@ window.CATALOG = {
      "group": "New / different partner / affair",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "pregnant-intimacy:34": {
+     "title": "Neon Bull",
+     "year": "2015",
+     "format": "movie",
+     "meta": "Film · Brazil · Portuguese (original title: Boi Neon)",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "New or casual partner while pregnant",
+     "mechanism": "New or casual partner while pregnant",
+     "summary": "Rodeo worker Iremar and the heavily pregnant Geise have sex in a long, unbroken scene; IMDb tags the film 'sex with a pregnant woman'. Already has children: unknown.",
+     "pregnant_has_children": "unknown",
+     "character": "Geise (Maeve Jinkings)",
+     "note": "",
+     "confidence_flag": "Verified",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt4899406/keywords/"
+      }
+     ]
     }
    }
   },
@@ -22131,8 +22327,29 @@ window.CATALOG = {
    "confidence_flag": "Borderline · completion is deliberately ambiguous",
    "summary": "Ray is hired by a heavily pregnant client and initially holds back. The episode ends with satisfied post-coital spooning, while one review notes that the encounter’s completion is left playfully ambiguous.",
    "character": "",
-   "provenance": "",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "",
+   "pregnant_has_children": "unknown",
+   "episodes": [
+    {
+     "episode": "S02E01 “Just the Tip”",
+     "air_date": "2010-06-27",
+     "gist": "Ray “holds back” during a tryst with Claire, a pregnant client; IMDb tags 'sex with a pregnant woman'.",
+     "number_verified": true
+    },
+    {
+     "episode": "S02E02 “Tucson Is the Gateway to Dick or This Is Not Sexy”",
+     "air_date": "2010-07-11",
+     "gist": "Ray risks losing Claire as a client by giving her marriage advice; IMDb tags 'sex with a pregnant woman'.",
+     "number_verified": true
+    },
+    {
+     "episode": "S02E08 “Third Base or the Rash”",
+     "air_date": "2010-08-22",
+     "gist": "An unexpected session with Claire threatens Ray's alumni baseball game; IMDb tags 'sex with a pregnant woman'.",
+     "number_verified": true
+    }
+   ],
    "format": "tv",
    "categories": [
     "pregnant-sex"
@@ -22145,16 +22362,30 @@ window.CATALOG = {
     {
      "label": "CafeMom",
      "url": "https://cafemom.com/parenting/106019-pregnant_sex_why_it_turns"
+    },
+    {
+     "label": "IMDb: Just the Tip",
+     "url": "https://www.imdb.com/title/tt1624620/"
+    },
+    {
+     "label": "IMDb keywords (S02E02)",
+     "url": "https://www.imdb.com/title/tt1665221/keywords/"
+    },
+    {
+     "label": "IMDb keywords (S02E08)",
+     "url": "https://www.imdb.com/title/tt1686247/keywords/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "pregnant-intimacy"
    ],
    "source_records": [
     "xla62ucxbx02u5:129",
-    "ig6qlxqxoxvcxla:902"
+    "ig6qlxqxoxvcxla:902",
+    "pregnant-intimacy:43"
    ],
    "index_only": false,
    "local_only": false,
@@ -22215,6 +22446,63 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Hung S02E01 — borderline",
      "matched_by": "alias"
+    },
+    {
+     "rid": "pregnant-intimacy:43",
+     "source": "pregnant-intimacy",
+     "label": "Hung (2010)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Hung",
+     "subtitle": "",
+     "year": "2010",
+     "meta": "TV series · United States · English",
+     "summary": "Season 2 storyline with Claire, a pregnant client of Ray's escort business: he holds back during their first tryst, later gives her marriage advice, and an unexpected warm-up session with her threatens his baseball game. Already has children: unknown.",
+     "character": "Claire",
+     "note": "",
+     "mechanism": "New or casual partner while pregnant",
+     "confidence_flag": "Verified",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "sources": [
+      {
+       "label": "IMDb: Just the Tip",
+       "url": "https://www.imdb.com/title/tt1624620/"
+      },
+      {
+       "label": "IMDb keywords (S02E02)",
+       "url": "https://www.imdb.com/title/tt1665221/keywords/"
+      },
+      {
+       "label": "IMDb keywords (S02E08)",
+       "url": "https://www.imdb.com/title/tt1686247/keywords/"
+      }
+     ],
+     "pregnant_has_children": "unknown",
+     "episodes": [
+      {
+       "episode": "S02E01 “Just the Tip”",
+       "air_date": "2010-06-27",
+       "gist": "Ray “holds back” during a tryst with Claire, a pregnant client; IMDb tags 'sex with a pregnant woman'.",
+       "number_verified": true
+      },
+      {
+       "episode": "S02E02 “Tucson Is the Gateway to Dick or This Is Not Sexy”",
+       "air_date": "2010-07-11",
+       "gist": "Ray risks losing Claire as a client by giving her marriage advice; IMDb tags 'sex with a pregnant woman'.",
+       "number_verified": true
+      },
+      {
+       "episode": "S02E08 “Third Base or the Rash”",
+       "air_date": "2010-08-22",
+       "gist": "An unexpected session with Claire threatens Ray's alumni baseball game; IMDb tags 'sex with a pregnant woman'.",
+       "number_verified": true
+      }
+     ],
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -22248,6 +22536,57 @@ window.CATALOG = {
      "group": "Adult animation / sex-work",
      "confidence": "Borderline",
      "note": ""
+    },
+    "pregnant-intimacy:43": {
+     "title": "Hung",
+     "year": "2010",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "New or casual partner while pregnant",
+     "mechanism": "New or casual partner while pregnant",
+     "summary": "Season 2 storyline with Claire, a pregnant client of Ray's escort business: he holds back during their first tryst, later gives her marriage advice, and an unexpected warm-up session with her threatens his baseball game. Already has children: unknown.",
+     "pregnant_has_children": "unknown",
+     "character": "Claire",
+     "note": "",
+     "confidence_flag": "Verified",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb: Just the Tip",
+       "url": "https://www.imdb.com/title/tt1624620/"
+      },
+      {
+       "label": "IMDb keywords (S02E02)",
+       "url": "https://www.imdb.com/title/tt1665221/keywords/"
+      },
+      {
+       "label": "IMDb keywords (S02E08)",
+       "url": "https://www.imdb.com/title/tt1686247/keywords/"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S02E01 “Just the Tip”",
+       "air_date": "2010-06-27",
+       "gist": "Ray “holds back” during a tryst with Claire, a pregnant client; IMDb tags 'sex with a pregnant woman'.",
+       "number_verified": true
+      },
+      {
+       "episode": "S02E02 “Tucson Is the Gateway to Dick or This Is Not Sexy”",
+       "air_date": "2010-07-11",
+       "gist": "Ray risks losing Claire as a client by giving her marriage advice; IMDb tags 'sex with a pregnant woman'.",
+       "number_verified": true
+      },
+      {
+       "episode": "S02E08 “Third Base or the Rash”",
+       "air_date": "2010-08-22",
+       "gist": "An unexpected session with Claire threatens Ray's alumni baseball game; IMDb tags 'sex with a pregnant woman'.",
+       "number_verified": true
+      }
+     ]
     }
    }
   },
@@ -22261,8 +22600,9 @@ window.CATALOG = {
    "confidence_flag": "Attempted / interrupted",
    "summary": "Months into Alison’s pregnancy, she and Ben try to resume their sex life. His fear of hurting the baby and feeling the baby kick derail the encounter, leaving Alison upset.",
    "character": "",
-   "provenance": "",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "",
+   "pregnant_has_children": "no",
    "format": "movie",
    "categories": [
     "pregnant-intimate"
@@ -22275,16 +22615,22 @@ window.CATALOG = {
     {
      "label": "Tropedia",
      "url": "https://tropedia.fandom.com/wiki/Knocked_Up"
+    },
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt0478311/keywords/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "pregnant-intimacy"
    ],
    "source_records": [
     "xla62ucxbx02u5:130",
-    "ig6qlxqxoxvcxla:917"
+    "ig6qlxqxoxvcxla:917",
+    "pregnant-intimacy:32"
    ],
    "index_only": false,
    "local_only": false,
@@ -22344,6 +22690,35 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Knocked Up (2007)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimacy:32",
+     "source": "pregnant-intimacy",
+     "label": "Knocked Up (2007)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Knocked Up",
+     "subtitle": "",
+     "year": "2007",
+     "meta": "Film · United States · English",
+     "summary": "Months into her pregnancy, Alison and Ben try to resume their sex life; IMDb tags the film 'pregnant sex' and 'sex with a pregnant woman'. Already has children: no.",
+     "character": "Alison Scott (Katherine Heigl)",
+     "note": "",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "confidence_flag": "Verified",
+     "categories": [
+      "pregnant-intimate"
+     ],
+     "sources": [
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt0478311/keywords/"
+      }
+     ],
+     "pregnant_has_children": "no",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -22376,6 +22751,29 @@ window.CATALOG = {
      "group": "Attempted / interrupted",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "pregnant-intimacy:32": {
+     "title": "Knocked Up",
+     "year": "2007",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "categories": [
+      "pregnant-intimate"
+     ],
+     "group": "Spouse / partner intimacy during pregnancy",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "summary": "Months into her pregnancy, Alison and Ben try to resume their sex life; IMDb tags the film 'pregnant sex' and 'sex with a pregnant woman'. Already has children: no.",
+     "pregnant_has_children": "no",
+     "character": "Alison Scott (Katherine Heigl)",
+     "note": "",
+     "confidence_flag": "Verified",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt0478311/keywords/"
+      }
+     ]
     }
    }
   },
@@ -88357,8 +88755,9 @@ window.CATALOG = {
    "confidence_flag": "High confidence · review-verified",
    "summary": "Barbara and Nicolas’s pregnancy story includes sex while she is pregnant, including a scene filmed from the fetus’s point of view. This finding rests on the cited Exclaim review; a separate native-language sweep did not independently verify the scene.",
    "character": "",
-   "provenance": "",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "",
+   "pregnant_has_children": "no",
    "format": "movie",
    "categories": [
     "pregnant-sex"
@@ -88367,16 +88766,22 @@ window.CATALOG = {
     {
      "label": "Exclaim",
      "url": "https://exclaim.ca/film/article/happy_event-directed_by_remi_bezancon"
+    },
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt1987018/keywords/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "pregnant-intimacy"
    ],
    "source_records": [
     "xla62ucxbx02u5:614",
-    "ig6qlxqxoxvcxla:892"
+    "ig6qlxqxoxvcxla:892",
+    "pregnant-intimacy:36"
    ],
    "index_only": false,
    "local_only": false,
@@ -88433,6 +88838,35 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "A Happy Event (2011)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimacy:36",
+     "source": "pregnant-intimacy",
+     "label": "A Happy Event (2011)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "A Happy Event",
+     "subtitle": "",
+     "year": "2011",
+     "meta": "Film · France / Belgium · French (original title: Un heureux événement)",
+     "summary": "Barbara and Nicolas's pregnancy story includes sex while she is pregnant; IMDb tags the film 'pregnant sex' and 'sex with a pregnant woman'. Already has children: no — this is their first baby.",
+     "character": "Barbara (Louise Bourgoin)",
+     "note": "",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "confidence_flag": "Verified",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "sources": [
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt1987018/keywords/"
+      }
+     ],
+     "pregnant_has_children": "no",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -88462,6 +88896,29 @@ window.CATALOG = {
      "group": "With husband / established partner",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "pregnant-intimacy:36": {
+     "title": "A Happy Event",
+     "year": "2011",
+     "format": "movie",
+     "meta": "Film · France / Belgium · French (original title: Un heureux événement)",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Spouse / partner intimacy during pregnancy",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "summary": "Barbara and Nicolas's pregnancy story includes sex while she is pregnant; IMDb tags the film 'pregnant sex' and 'sex with a pregnant woman'. Already has children: no — this is their first baby.",
+     "pregnant_has_children": "no",
+     "character": "Barbara (Louise Bourgoin)",
+     "note": "",
+     "confidence_flag": "Verified",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt1987018/keywords/"
+      }
+     ]
     }
    }
   },
@@ -88603,8 +89060,9 @@ window.CATALOG = {
    "confidence_flag": "High confidence",
    "summary": "Visibly pregnant Jenna carries on an affair with her married obstetrician. Reviews describe the roughly eight-months-pregnant character being seduced in the exam room and repeated coupling over the pregnancy.",
    "character": "",
-   "provenance": "",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "",
+   "pregnant_has_children": "no",
    "format": "movie",
    "categories": [
     "pregnant-sex"
@@ -88617,16 +89075,22 @@ window.CATALOG = {
     {
      "label": "UCSD Guardian",
      "url": "https://ucsdguardian.org/2007/05/03/down-home-waitress-bakes-a-satisfying-farewell-dish/"
+    },
+    {
+     "label": "IMDb parents guide",
+     "url": "https://www.imdb.com/title/tt0473308/parentalguide/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "pregnant-intimacy"
    ],
    "source_records": [
     "xla62ucxbx02u5:616",
-    "ig6qlxqxoxvcxla:896"
+    "ig6qlxqxoxvcxla:896",
+    "pregnant-intimacy:33"
    ],
    "index_only": false,
    "local_only": false,
@@ -88686,6 +89150,35 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Waitress (2007)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimacy:33",
+     "source": "pregnant-intimacy",
+     "label": "Waitress (2007)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Waitress",
+     "subtitle": "",
+     "year": "2007",
+     "meta": "Film · United States · English",
+     "summary": "Pregnant waitress Jenna, unhappily married, has an affair with her married obstetrician Dr Pomatter. Already has children: no — this is her first pregnancy.",
+     "character": "Jenna Hunterson (Keri Russell)",
+     "note": "",
+     "mechanism": "Affair / extramarital sex while pregnant",
+     "confidence_flag": "Verified",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "sources": [
+      {
+       "label": "IMDb parents guide",
+       "url": "https://www.imdb.com/title/tt0473308/parentalguide/"
+      }
+     ],
+     "pregnant_has_children": "no",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -88718,6 +89211,29 @@ window.CATALOG = {
      "group": "New / different partner / affair",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "pregnant-intimacy:33": {
+     "title": "Waitress",
+     "year": "2007",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Affair / extramarital sex while pregnant",
+     "mechanism": "Affair / extramarital sex while pregnant",
+     "summary": "Pregnant waitress Jenna, unhappily married, has an affair with her married obstetrician Dr Pomatter. Already has children: no — this is her first pregnancy.",
+     "pregnant_has_children": "no",
+     "character": "Jenna Hunterson (Keri Russell)",
+     "note": "",
+     "confidence_flag": "Verified",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb parents guide",
+       "url": "https://www.imdb.com/title/tt0473308/parentalguide/"
+      }
+     ]
     }
    }
   },
@@ -89499,8 +90015,9 @@ window.CATALOG = {
    "confidence_flag": "Medium confidence · pregnancy status at scene unconfirmed",
    "summary": "An age-classification document confirms one sex scene, and the central couple is six months into pregnancy during the film’s crisis. No source explicitly confirms that the character is pregnant at the exact moment of the scene.",
    "character": "",
-   "provenance": "",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "",
+   "pregnant_has_children": "yes (one older child)",
    "format": "movie",
    "categories": [
     "pregnant-sex"
@@ -89509,16 +90026,22 @@ window.CATALOG = {
     {
      "label": "Aberdeen City Council classification document",
      "url": "https://committees.aberdeencity.gov.uk/documents/s61616/24 weeks Certification.pdf"
+    },
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt5369484/keywords/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "pregnant-intimacy"
    ],
    "source_records": [
     "xla62ucxbx02u5:623",
-    "ig6qlxqxoxvcxla:904"
+    "ig6qlxqxoxvcxla:904",
+    "pregnant-intimacy:37"
    ],
    "index_only": false,
    "local_only": false,
@@ -89574,6 +90097,35 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "24 Weeks (2016)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimacy:37",
+     "source": "pregnant-intimacy",
+     "label": "24 Weeks (2016)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "24 Weeks",
+     "subtitle": "",
+     "year": "2016",
+     "meta": "Film · Germany · German (original title: 24 Wochen)",
+     "summary": "Cabaret artist Astrid and her partner Markus are expecting their second child; IMDb tags the film 'sex with a pregnant woman'. Already has children: yes — this is their second child.",
+     "character": "Astrid (Julia Jentsch)",
+     "note": "",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "confidence_flag": "Verified",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "sources": [
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt5369484/keywords/"
+      }
+     ],
+     "pregnant_has_children": "yes (one older child)",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -89602,6 +90154,29 @@ window.CATALOG = {
      "group": "Timing caveat",
      "confidence": "Caveat",
      "note": ""
+    },
+    "pregnant-intimacy:37": {
+     "title": "24 Weeks",
+     "year": "2016",
+     "format": "movie",
+     "meta": "Film · Germany · German (original title: 24 Wochen)",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Spouse / partner intimacy during pregnancy",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "summary": "Cabaret artist Astrid and her partner Markus are expecting their second child; IMDb tags the film 'sex with a pregnant woman'. Already has children: yes — this is their second child.",
+     "pregnant_has_children": "yes (one older child)",
+     "character": "Astrid (Julia Jentsch)",
+     "note": "",
+     "confidence_flag": "Verified",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt5369484/keywords/"
+      }
+     ]
     }
    }
   },
@@ -90374,11 +90949,13 @@ window.CATALOG = {
    "confidence_flag": "Medium confidence · single viewer review",
    "summary": "A viewer review describes visibly twin-pregnant Hae-ra lying in bed with her husband and speaking intimately about having more children. This is included as marital intimacy, not as a verified sex act, and rests on one viewer review.",
    "character": "",
-   "provenance": "",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "",
+   "pregnant_has_children": "yes (one daughter, Nami)",
    "format": "movie",
    "categories": [
-    "pregnant-intimate"
+    "pregnant-intimate",
+    "pregnant-sex"
    ],
    "sources": [
     {
@@ -90388,16 +90965,22 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/The_Housemaid_(2010_film)"
+    },
+    {
+     "label": "IMDb parents guide",
+     "url": "https://www.imdb.com/title/tt1314652/parentalguide/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "pregnant-intimacy"
    ],
    "source_records": [
     "xla62ucxbx02u5:630",
-    "ig6qlxqxoxvcxla:914"
+    "ig6qlxqxoxvcxla:914",
+    "pregnant-intimacy:31"
    ],
    "index_only": false,
    "local_only": false,
@@ -90457,6 +91040,39 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "The Housemaid (2010)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimacy:31",
+     "source": "pregnant-intimacy",
+     "label": "The Housemaid (2010)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Housemaid",
+     "subtitle": "",
+     "year": "2010",
+     "meta": "Film · South Korea · Korean",
+     "summary": "Hae-ra, pregnant with twins, has sex with her husband Hoon; IMDb's parents guide describes a man and a pregnant woman having sex. Already has children: yes — the couple already have a young daughter, Nami.",
+     "character": "Hae-ra (Seo Woo)",
+     "note": "",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "confidence_flag": "Verified",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "sources": [
+      {
+       "label": "IMDb parents guide",
+       "url": "https://www.imdb.com/title/tt1314652/parentalguide/"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Housemaid_(2010_film)"
+      }
+     ],
+     "pregnant_has_children": "yes (one daughter, Nami)",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -90489,6 +91105,33 @@ window.CATALOG = {
      "group": "Affectionate / romantic / marital",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "pregnant-intimacy:31": {
+     "title": "The Housemaid",
+     "year": "2010",
+     "format": "movie",
+     "meta": "Film · South Korea · Korean",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Spouse / partner intimacy during pregnancy",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "summary": "Hae-ra, pregnant with twins, has sex with her husband Hoon; IMDb's parents guide describes a man and a pregnant woman having sex. Already has children: yes — the couple already have a young daughter, Nami.",
+     "pregnant_has_children": "yes (one daughter, Nami)",
+     "character": "Hae-ra (Seo Woo)",
+     "note": "",
+     "confidence_flag": "Verified",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb parents guide",
+       "url": "https://www.imdb.com/title/tt1314652/parentalguide/"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Housemaid_(2010_film)"
+      }
+     ]
     }
    }
   },
@@ -91234,8 +91877,9 @@ window.CATALOG = {
    "confidence_flag": "Medium confidence · dialogue and reviews",
    "summary": "Heavily pregnant Anna joins the planned orgy with husband Bruce and is shown reaching orgasm. The moment is comic, but the dialogue and reviews support a genuine pleasure element rather than a pregnancy-only gag.",
    "character": "",
-   "provenance": "",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "",
+   "pregnant_has_children": "unknown",
    "format": "movie",
    "categories": [
     "pregnant-sex"
@@ -91256,17 +91900,27 @@ window.CATALOG = {
     {
      "label": "Dear Cast & Crew",
      "url": "http://www.dearcastandcrew.com/content/2016/5/12/how-to-plan-an-orgy-in-a-small-town.html"
+    },
+    {
+     "label": "IMDb parents guide",
+     "url": "https://www.imdb.com/title/tt3919218/parentalguide/"
+    },
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt3919218/keywords/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "pregnant-intimacy"
    ],
    "source_records": [
     "xla62ucxbx02u5:634",
     "ig6qlxqxoxvcxla:95",
-    "ig6qlxqxoxvcxla:886"
+    "ig6qlxqxoxvcxla:886",
+    "pregnant-intimacy:35"
    ],
    "index_only": false,
    "local_only": false,
@@ -91375,6 +92029,39 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "How to Plan an Orgy in a Small Town (2015)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimacy:35",
+     "source": "pregnant-intimacy",
+     "label": "How to Plan an Orgy in a Small Town (2015)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "How to Plan an Orgy in a Small Town",
+     "subtitle": "",
+     "year": "2015",
+     "meta": "Film · Canada · English",
+     "summary": "Heavily pregnant Anna takes part in the planned orgy with her husband Bruce; IMDb tags the film 'sex with a pregnant woman'. Already has children: unknown.",
+     "character": "Anna",
+     "note": "IMDb's parents guide says the film's many simulated sex scenes include moaning, but does not single out the pregnant character's scene, so the tag is not applied.",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "confidence_flag": "Verified",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "sources": [
+      {
+       "label": "IMDb parents guide",
+       "url": "https://www.imdb.com/title/tt3919218/parentalguide/"
+      },
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt3919218/keywords/"
+      }
+     ],
+     "pregnant_has_children": "unknown",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -91448,6 +92135,33 @@ window.CATALOG = {
      "group": "Pleasure-scene expansion",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "pregnant-intimacy:35": {
+     "title": "How to Plan an Orgy in a Small Town",
+     "year": "2015",
+     "format": "movie",
+     "meta": "Film · Canada · English",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Spouse / partner intimacy during pregnancy",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "summary": "Heavily pregnant Anna takes part in the planned orgy with her husband Bruce; IMDb tags the film 'sex with a pregnant woman'. Already has children: unknown.",
+     "pregnant_has_children": "unknown",
+     "character": "Anna",
+     "note": "IMDb's parents guide says the film's many simulated sex scenes include moaning, but does not single out the pregnant character's scene, so the tag is not applied.",
+     "confidence_flag": "Verified",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb parents guide",
+       "url": "https://www.imdb.com/title/tt3919218/parentalguide/"
+      },
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt3919218/keywords/"
+      }
+     ]
     }
    }
   },
@@ -193323,6 +194037,2660 @@ window.CATALOG = {
      "standalone": true
     }
    }
+  },
+  {
+   "id": 1886,
+   "title": "Revolutionary Road",
+   "subtitle": "",
+   "year": "2008",
+   "meta": "Film · United States / United Kingdom · English",
+   "mechanism": "Affair / extramarital sex while pregnant",
+   "confidence_flag": "Verified",
+   "summary": "April Wheeler, pregnant again, has a brief sexual encounter in a parked car with neighbour Shep Campbell after confiding her unhappiness. Already has children: yes — the Wheelers already have children.",
+   "character": "April Wheeler (Kate Winslet)",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "IMDb's parents guide describes the car scene as brief, with no explicit nudity, and notes that he moans.",
+   "pregnant_has_children": "yes (the Wheelers' children)",
+   "tags": [
+    "moaning"
+   ],
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Revolutionary_Road_(film)"
+    },
+    {
+     "label": "IMDb parents guide",
+     "url": "https://www.imdb.com/title/tt0959337/parentalguide/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:1": {
+     "title": "Revolutionary Road",
+     "year": "2008",
+     "format": "movie",
+     "meta": "Film · United States / United Kingdom · English",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Affair / extramarital sex while pregnant",
+     "mechanism": "Affair / extramarital sex while pregnant",
+     "summary": "April Wheeler, pregnant again, has a brief sexual encounter in a parked car with neighbour Shep Campbell after confiding her unhappiness. Already has children: yes — the Wheelers already have children.",
+     "pregnant_has_children": "yes (the Wheelers' children)",
+     "character": "April Wheeler (Kate Winslet)",
+     "note": "IMDb's parents guide describes the car scene as brief, with no explicit nudity, and notes that he moans.",
+     "confidence_flag": "Verified",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Revolutionary_Road_(film)"
+      },
+      {
+       "label": "IMDb parents guide",
+       "url": "https://www.imdb.com/title/tt0959337/parentalguide/"
+      }
+     ],
+     "tags": [
+      "moaning"
+     ]
+    }
+   }
+  },
+  {
+   "id": 1887,
+   "title": "Amores perros",
+   "subtitle": "",
+   "year": "2000",
+   "meta": "Film · Mexico · Spanish",
+   "mechanism": "Affair / extramarital sex while pregnant",
+   "confidence_flag": "Medium",
+   "summary": "Octavio carries on an affair with Susana, his brother Ramiro's wife; she tells him she is pregnant again and he offers to help raise her children. Already has children: yes — Susana is already a mother.",
+   "character": "Susana (Vanessa Bauche)",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "Sources confirm the affair and that she is pregnant again during it; they do not tie each individual intimate scene to the pregnancy timeline.",
+   "pregnant_has_children": "yes (already a mother)",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Amores_perros"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:2": {
+     "title": "Amores perros",
+     "year": "2000",
+     "format": "movie",
+     "meta": "Film · Mexico · Spanish",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Affair / extramarital sex while pregnant",
+     "mechanism": "Affair / extramarital sex while pregnant",
+     "summary": "Octavio carries on an affair with Susana, his brother Ramiro's wife; she tells him she is pregnant again and he offers to help raise her children. Already has children: yes — Susana is already a mother.",
+     "pregnant_has_children": "yes (already a mother)",
+     "character": "Susana (Vanessa Bauche)",
+     "note": "Sources confirm the affair and that she is pregnant again during it; they do not tie each individual intimate scene to the pregnancy timeline.",
+     "confidence_flag": "Medium",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Amores_perros"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1888,
+   "title": "Enemy",
+   "subtitle": "",
+   "year": "2013",
+   "meta": "Film · Canada / Spain · English",
+   "mechanism": "Affair / extramarital sex while pregnant",
+   "confidence_flag": "Verified",
+   "summary": "Helen, the pregnant wife of actor Anthony, wakes to find Anthony's look-alike Adam, who has taken his place, crying and apologising; she tells him she prefers him, asks him to stay and has sex with him. Already has children: unknown — no other children are mentioned.",
+   "character": "Helen (Sarah Gadon)",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "unknown",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Enemy_(2013_film)"
+    },
+    {
+     "label": "IMDb parents guide",
+     "url": "https://www.imdb.com/title/tt2316411/parentalguide/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:3": {
+     "title": "Enemy",
+     "year": "2013",
+     "format": "movie",
+     "meta": "Film · Canada / Spain · English",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Affair / extramarital sex while pregnant",
+     "mechanism": "Affair / extramarital sex while pregnant",
+     "summary": "Helen, the pregnant wife of actor Anthony, wakes to find Anthony's look-alike Adam, who has taken his place, crying and apologising; she tells him she prefers him, asks him to stay and has sex with him. Already has children: unknown — no other children are mentioned.",
+     "pregnant_has_children": "unknown",
+     "character": "Helen (Sarah Gadon)",
+     "note": "",
+     "confidence_flag": "Verified",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Enemy_(2013_film)"
+      },
+      {
+       "label": "IMDb parents guide",
+       "url": "https://www.imdb.com/title/tt2316411/parentalguide/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1889,
+   "title": "Romance",
+   "subtitle": "",
+   "year": "1999",
+   "meta": "Film · France · French",
+   "mechanism": "Spouse / partner intimacy during pregnancy",
+   "confidence_flag": "Verified",
+   "summary": "After a prenatal check-up reveals the baby's sex, the pregnant schoolteacher Marie and her partner Paul have sex for the first time in months. Already has children: no — this is her first pregnancy.",
+   "character": "Marie (Caroline Ducey)",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "Adult-rated art film.",
+   "pregnant_has_children": "no",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Romance_(1999_film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:4": {
+     "title": "Romance",
+     "year": "1999",
+     "format": "movie",
+     "meta": "Film · France · French",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Spouse / partner intimacy during pregnancy",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "summary": "After a prenatal check-up reveals the baby's sex, the pregnant schoolteacher Marie and her partner Paul have sex for the first time in months. Already has children: no — this is her first pregnancy.",
+     "pregnant_has_children": "no",
+     "character": "Marie (Caroline Ducey)",
+     "note": "Adult-rated art film.",
+     "confidence_flag": "Verified",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Romance_(1999_film)"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1890,
+   "title": "High-Rise",
+   "subtitle": "",
+   "year": "2015",
+   "meta": "Film · United Kingdom · English",
+   "mechanism": "Affair / extramarital sex while pregnant",
+   "confidence_flag": "Verified",
+   "summary": "As order in the tower block collapses, Dr Robert Laing has sex with Helen Wilder, the pregnant wife of documentary-maker Richard Wilder. Already has children: yes — the Wilders live with their children.",
+   "character": "Helen Wilder (Elisabeth Moss)",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "yes (the Wilders' children)",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/High-Rise_(film)"
+    },
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt0462335/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:5": {
+     "title": "High-Rise",
+     "year": "2015",
+     "format": "movie",
+     "meta": "Film · United Kingdom · English",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Affair / extramarital sex while pregnant",
+     "mechanism": "Affair / extramarital sex while pregnant",
+     "summary": "As order in the tower block collapses, Dr Robert Laing has sex with Helen Wilder, the pregnant wife of documentary-maker Richard Wilder. Already has children: yes — the Wilders live with their children.",
+     "pregnant_has_children": "yes (the Wilders' children)",
+     "character": "Helen Wilder (Elisabeth Moss)",
+     "note": "",
+     "confidence_flag": "Verified",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/High-Rise_(film)"
+      },
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt0462335/keywords/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1891,
+   "title": "Tabu",
+   "subtitle": "",
+   "year": "2012",
+   "meta": "Film · Portugal · Portuguese",
+   "mechanism": "Affair / extramarital sex while pregnant",
+   "confidence_flag": "Verified",
+   "summary": "In the flashback story, the pregnant Aurora and Gian-Luca Ventura consummate their mutual attraction and begin a passionate, dangerous affair. Already has children: unknown.",
+   "character": "Aurora (Ana Moreira)",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "unknown",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Tabu_(2012_film)"
+    },
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt2153963/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:6": {
+     "title": "Tabu",
+     "year": "2012",
+     "format": "movie",
+     "meta": "Film · Portugal · Portuguese",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Affair / extramarital sex while pregnant",
+     "mechanism": "Affair / extramarital sex while pregnant",
+     "summary": "In the flashback story, the pregnant Aurora and Gian-Luca Ventura consummate their mutual attraction and begin a passionate, dangerous affair. Already has children: unknown.",
+     "pregnant_has_children": "unknown",
+     "character": "Aurora (Ana Moreira)",
+     "note": "",
+     "confidence_flag": "Verified",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Tabu_(2012_film)"
+      },
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt2153963/keywords/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1892,
+   "title": "Wuthering Heights",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Film · United Kingdom / United States · English",
+   "mechanism": "Affair / extramarital sex while pregnant",
+   "confidence_flag": "Verified",
+   "summary": "Cathy, pregnant with her husband Edgar's child, tells the returned Heathcliff about the pregnancy; he says he does not mind and they have sex, continuing their affair. Already has children: no.",
+   "character": "Cathy",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "no",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Wuthering_Heights_(2026_film)"
+    },
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt32897959/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:7": {
+     "title": "Wuthering Heights",
+     "year": "2026",
+     "format": "movie",
+     "meta": "Film · United Kingdom / United States · English",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Affair / extramarital sex while pregnant",
+     "mechanism": "Affair / extramarital sex while pregnant",
+     "summary": "Cathy, pregnant with her husband Edgar's child, tells the returned Heathcliff about the pregnancy; he says he does not mind and they have sex, continuing their affair. Already has children: no.",
+     "pregnant_has_children": "no",
+     "character": "Cathy",
+     "note": "",
+     "confidence_flag": "Verified",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Wuthering_Heights_(2026_film)"
+      },
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt32897959/keywords/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1893,
+   "title": "Off Beat",
+   "subtitle": "",
+   "year": "2004",
+   "meta": "Film · Germany · German (original title: Kammerflimmern)",
+   "mechanism": "New or casual partner while pregnant",
+   "confidence_flag": "Verified",
+   "summary": "A paramedic falls for November, who is heavily pregnant with her overdosed boyfriend's baby; the film includes a sex scene with the pregnant November. Already has children: unknown.",
+   "character": "November (Jessica Schwarz)",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "Wikipedia notes the actress wore a prosthetic belly and was partly doubled in the sex scene.",
+   "pregnant_has_children": "unknown",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Off_Beat_(2004_film)"
+    },
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt0412888/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:8": {
+     "title": "Off Beat",
+     "year": "2004",
+     "format": "movie",
+     "meta": "Film · Germany · German (original title: Kammerflimmern)",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "New or casual partner while pregnant",
+     "mechanism": "New or casual partner while pregnant",
+     "summary": "A paramedic falls for November, who is heavily pregnant with her overdosed boyfriend's baby; the film includes a sex scene with the pregnant November. Already has children: unknown.",
+     "pregnant_has_children": "unknown",
+     "character": "November (Jessica Schwarz)",
+     "note": "Wikipedia notes the actress wore a prosthetic belly and was partly doubled in the sex scene.",
+     "confidence_flag": "Verified",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Off_Beat_(2004_film)"
+      },
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt0412888/keywords/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1894,
+   "title": "Loveless",
+   "subtitle": "",
+   "year": "2017",
+   "meta": "Film · Russia · Russian",
+   "mechanism": "Spouse / partner intimacy during pregnancy",
+   "confidence_flag": "Medium",
+   "summary": "Boris's new partner Masha is pregnant with his child; IMDb tags the film 'sex with a pregnant woman'. Already has children: unknown.",
+   "character": "Masha",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "unknown",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Loveless_(film)"
+    },
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt6304162/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:9"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:9": {
+     "title": "Loveless",
+     "year": "2017",
+     "format": "movie",
+     "meta": "Film · Russia · Russian",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Spouse / partner intimacy during pregnancy",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "summary": "Boris's new partner Masha is pregnant with his child; IMDb tags the film 'sex with a pregnant woman'. Already has children: unknown.",
+     "pregnant_has_children": "unknown",
+     "character": "Masha",
+     "note": "",
+     "confidence_flag": "Medium",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Loveless_(film)"
+      },
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt6304162/keywords/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1895,
+   "title": "Shirley",
+   "subtitle": "",
+   "year": "2020",
+   "meta": "Film · United States · English",
+   "mechanism": "Spouse / partner intimacy during pregnancy",
+   "confidence_flag": "IMDb keywords only",
+   "summary": "Rose, newly married to Fred and pregnant (not yet announced), is the film's pregnant character; IMDb tags the film 'sex with a pregnant woman' and its parents guide notes nudity of the pregnant woman. The sources do not name the partner in the scene. Already has children: unknown.",
+   "character": "Rose Nemser (Odessa Young)",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "unknown",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Shirley_(2020_film)"
+    },
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt8430598/keywords/"
+    },
+    {
+     "label": "IMDb parents guide",
+     "url": "https://www.imdb.com/title/tt8430598/parentalguide/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:10"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:10": {
+     "title": "Shirley",
+     "year": "2020",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Spouse / partner intimacy during pregnancy",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "summary": "Rose, newly married to Fred and pregnant (not yet announced), is the film's pregnant character; IMDb tags the film 'sex with a pregnant woman' and its parents guide notes nudity of the pregnant woman. The sources do not name the partner in the scene. Already has children: unknown.",
+     "pregnant_has_children": "unknown",
+     "character": "Rose Nemser (Odessa Young)",
+     "note": "",
+     "confidence_flag": "IMDb keywords only",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Shirley_(2020_film)"
+      },
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt8430598/keywords/"
+      },
+      {
+       "label": "IMDb parents guide",
+       "url": "https://www.imdb.com/title/tt8430598/parentalguide/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1896,
+   "title": "Annette",
+   "subtitle": "",
+   "year": "2021",
+   "meta": "Film · France / United States · English",
+   "mechanism": "Spouse / partner intimacy during pregnancy",
+   "confidence_flag": "Verified",
+   "summary": "Stand-up comedian Henry and opera singer Ann are shown having sex while Ann is pregnant with their first child; IMDb's parents guide states that pregnant sex is depicted. Already has children: no — Annette is their first child.",
+   "character": "Ann Defrasnoux (Marion Cotillard)",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "no",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Annette_(film)"
+    },
+    {
+     "label": "IMDb parents guide",
+     "url": "https://www.imdb.com/title/tt6217926/parentalguide/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:11"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:11": {
+     "title": "Annette",
+     "year": "2021",
+     "format": "movie",
+     "meta": "Film · France / United States · English",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Spouse / partner intimacy during pregnancy",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "summary": "Stand-up comedian Henry and opera singer Ann are shown having sex while Ann is pregnant with their first child; IMDb's parents guide states that pregnant sex is depicted. Already has children: no — Annette is their first child.",
+     "pregnant_has_children": "no",
+     "character": "Ann Defrasnoux (Marion Cotillard)",
+     "note": "",
+     "confidence_flag": "Verified",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Annette_(film)"
+      },
+      {
+       "label": "IMDb parents guide",
+       "url": "https://www.imdb.com/title/tt6217926/parentalguide/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1897,
+   "title": "Away We Go",
+   "subtitle": "",
+   "year": "2009",
+   "meta": "Film · United States · English",
+   "mechanism": "Spouse / partner intimacy during pregnancy",
+   "confidence_flag": "Verified",
+   "summary": "The film opens with Burt performing oral sex on his girlfriend Verona under the covers, which leads to the realisation that she is pregnant. Already has children: no.",
+   "character": "Verona De Tessant (Maya Rudolph)",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "IMDb's parents guide: no nudity.",
+   "pregnant_has_children": "no",
+   "format": "movie",
+   "categories": [
+    "pregnant-intimate"
+   ],
+   "sources": [
+    {
+     "label": "IMDb parents guide",
+     "url": "https://www.imdb.com/title/tt1176740/parentalguide/"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Away_We_Go"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:12"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:12": {
+     "title": "Away We Go",
+     "year": "2009",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "categories": [
+      "pregnant-intimate"
+     ],
+     "group": "Spouse / partner intimacy during pregnancy",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "summary": "The film opens with Burt performing oral sex on his girlfriend Verona under the covers, which leads to the realisation that she is pregnant. Already has children: no.",
+     "pregnant_has_children": "no",
+     "character": "Verona De Tessant (Maya Rudolph)",
+     "note": "IMDb's parents guide: no nudity.",
+     "confidence_flag": "Verified",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb parents guide",
+       "url": "https://www.imdb.com/title/tt1176740/parentalguide/"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Away_We_Go"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1898,
+   "title": "Solomon & Gaenor",
+   "subtitle": "",
+   "year": "1999",
+   "meta": "Film · United Kingdom (Wales) · English / Welsh / Yiddish",
+   "mechanism": "Spouse / partner intimacy during pregnancy",
+   "confidence_flag": "Verified",
+   "summary": "Unmarried lovers Solomon and Gaenor meet in remote hideaways; one of their sex scenes takes place when Gaenor is heavily pregnant with his child. Already has children: no.",
+   "character": "Gaenor Rees (Nia Roberts)",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "IMDb's parents guide says thrusting and moaning are shown in these scenes.",
+   "pregnant_has_children": "no",
+   "tags": [
+    "moaning"
+   ],
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "IMDb parents guide",
+     "url": "https://www.imdb.com/title/tt0181830/parentalguide/"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Solomon_%26_Gaenor"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:13"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:13": {
+     "title": "Solomon & Gaenor",
+     "year": "1999",
+     "format": "movie",
+     "meta": "Film · United Kingdom (Wales) · English / Welsh / Yiddish",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Spouse / partner intimacy during pregnancy",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "summary": "Unmarried lovers Solomon and Gaenor meet in remote hideaways; one of their sex scenes takes place when Gaenor is heavily pregnant with his child. Already has children: no.",
+     "pregnant_has_children": "no",
+     "character": "Gaenor Rees (Nia Roberts)",
+     "note": "IMDb's parents guide says thrusting and moaning are shown in these scenes.",
+     "confidence_flag": "Verified",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb parents guide",
+       "url": "https://www.imdb.com/title/tt0181830/parentalguide/"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Solomon_%26_Gaenor"
+      }
+     ],
+     "tags": [
+      "moaning"
+     ]
+    }
+   }
+  },
+  {
+   "id": 1899,
+   "title": "Autoerotic",
+   "subtitle": "",
+   "year": "2011",
+   "meta": "Film · United States · English",
+   "mechanism": "Spouse / partner intimacy during pregnancy",
+   "confidence_flag": "Verified",
+   "summary": "In the third of four interconnected Chicago stories, a man and a pregnant woman have sex; IMDb keywords also list lesbian sex with a pregnant woman. Already has children: unknown.",
+   "character": "",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "unknown",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "IMDb parents guide",
+     "url": "https://www.imdb.com/title/tt1977002/parentalguide/"
+    },
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt1977002/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:14"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:14": {
+     "title": "Autoerotic",
+     "year": "2011",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Spouse / partner intimacy during pregnancy",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "summary": "In the third of four interconnected Chicago stories, a man and a pregnant woman have sex; IMDb keywords also list lesbian sex with a pregnant woman. Already has children: unknown.",
+     "pregnant_has_children": "unknown",
+     "character": "",
+     "note": "",
+     "confidence_flag": "Verified",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb parents guide",
+       "url": "https://www.imdb.com/title/tt1977002/parentalguide/"
+      },
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt1977002/keywords/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1900,
+   "title": "Jim's Story",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "Film · France · French (original title: Le Roman de Jim)",
+   "mechanism": "New or casual partner while pregnant",
+   "confidence_flag": "Medium",
+   "summary": "Aymeric meets former colleague Florence, who is single and pregnant, and they become a couple; IMDb tags the film 'sex with a pregnant woman' and 'nude pregnant woman'. Already has children: unknown.",
+   "character": "Florence (Laetitia Dosch)",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "unknown",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (fr)",
+     "url": "https://fr.wikipedia.org/wiki/Le_Roman_de_Jim"
+    },
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt27811096/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:15"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:15": {
+     "title": "Jim's Story",
+     "year": "2024",
+     "format": "movie",
+     "meta": "Film · France · French (original title: Le Roman de Jim)",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "New or casual partner while pregnant",
+     "mechanism": "New or casual partner while pregnant",
+     "summary": "Aymeric meets former colleague Florence, who is single and pregnant, and they become a couple; IMDb tags the film 'sex with a pregnant woman' and 'nude pregnant woman'. Already has children: unknown.",
+     "pregnant_has_children": "unknown",
+     "character": "Florence (Laetitia Dosch)",
+     "note": "",
+     "confidence_flag": "Medium",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "Wikipedia (fr)",
+       "url": "https://fr.wikipedia.org/wiki/Le_Roman_de_Jim"
+      },
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt27811096/keywords/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1901,
+   "title": "Ogres",
+   "subtitle": "",
+   "year": "2015",
+   "meta": "Film · France · French (original title: Les Ogres)",
+   "mechanism": "Spouse / partner intimacy during pregnancy",
+   "confidence_flag": "IMDb keywords only",
+   "summary": "A touring theatre troupe's story; IMDb tags the film 'pregnant sex' and 'nude pregnant woman'. The IMDb listing does not name the pregnant character. Already has children: unknown.",
+   "character": "",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "unknown",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt4466872/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:16"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:16": {
+     "title": "Ogres",
+     "year": "2015",
+     "format": "movie",
+     "meta": "Film · France · French (original title: Les Ogres)",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Spouse / partner intimacy during pregnancy",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "summary": "A touring theatre troupe's story; IMDb tags the film 'pregnant sex' and 'nude pregnant woman'. The IMDb listing does not name the pregnant character. Already has children: unknown.",
+     "pregnant_has_children": "unknown",
+     "character": "",
+     "note": "",
+     "confidence_flag": "IMDb keywords only",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt4466872/keywords/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1902,
+   "title": "Suro",
+   "subtitle": "",
+   "year": "2022",
+   "meta": "Film · Spain · Spanish / French / Arabic",
+   "mechanism": "Spouse / partner intimacy during pregnancy",
+   "confidence_flag": "IMDb keywords only",
+   "summary": "Helena and Iván, about to have their first child, move to the countryside to run a cork plantation; IMDb tags the film 'sex during pregnancy' and 'sex with a pregnant woman'. Already has children: no.",
+   "character": "Helena (Vicky Luengo)",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "no",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt11069038/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:17"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:17": {
+     "title": "Suro",
+     "year": "2022",
+     "format": "movie",
+     "meta": "Film · Spain · Spanish / French / Arabic",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Spouse / partner intimacy during pregnancy",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "summary": "Helena and Iván, about to have their first child, move to the countryside to run a cork plantation; IMDb tags the film 'sex during pregnancy' and 'sex with a pregnant woman'. Already has children: no.",
+     "pregnant_has_children": "no",
+     "character": "Helena (Vicky Luengo)",
+     "note": "",
+     "confidence_flag": "IMDb keywords only",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt11069038/keywords/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1903,
+   "title": "Enormous",
+   "subtitle": "",
+   "year": "2019",
+   "meta": "Film · France · French (original title: Énorme)",
+   "mechanism": "Spouse / partner intimacy during pregnancy",
+   "confidence_flag": "IMDb keywords only",
+   "summary": "A pianist who did not want children becomes pregnant after her husband tampers with her pill; IMDb tags the film 'sex during pregnancy' and 'pregnant wife'. Already has children: no.",
+   "character": "Claire (Marina Foïs)",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "no",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt8076110/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:18"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:18": {
+     "title": "Enormous",
+     "year": "2019",
+     "format": "movie",
+     "meta": "Film · France · French (original title: Énorme)",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Spouse / partner intimacy during pregnancy",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "summary": "A pianist who did not want children becomes pregnant after her husband tampers with her pill; IMDb tags the film 'sex during pregnancy' and 'pregnant wife'. Already has children: no.",
+     "pregnant_has_children": "no",
+     "character": "Claire (Marina Foïs)",
+     "note": "",
+     "confidence_flag": "IMDb keywords only",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt8076110/keywords/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1904,
+   "title": "Expecting",
+   "subtitle": "",
+   "year": "2002",
+   "meta": "Film · Canada · English",
+   "mechanism": "New or casual partner while pregnant",
+   "confidence_flag": "IMDb keywords only",
+   "summary": "Single, heavily pregnant performance artist Stephanie prepares a 24-hour 'labour party'; IMDb notes the film starts with sex and tags 'sex with a pregnant woman'. Already has children: unknown.",
+   "character": "Stephanie",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "unknown",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt0331487/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:19"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:19": {
+     "title": "Expecting",
+     "year": "2002",
+     "format": "movie",
+     "meta": "Film · Canada · English",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "New or casual partner while pregnant",
+     "mechanism": "New or casual partner while pregnant",
+     "summary": "Single, heavily pregnant performance artist Stephanie prepares a 24-hour 'labour party'; IMDb notes the film starts with sex and tags 'sex with a pregnant woman'. Already has children: unknown.",
+     "pregnant_has_children": "unknown",
+     "character": "Stephanie",
+     "note": "",
+     "confidence_flag": "IMDb keywords only",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt0331487/keywords/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1905,
+   "title": "Liebe in anderen Umständen",
+   "subtitle": "",
+   "year": "2009",
+   "meta": "TV movie · Germany · German",
+   "mechanism": "Affair / extramarital sex while pregnant",
+   "confidence_flag": "IMDb keywords only",
+   "summary": "German TV movie about a married woman pregnant by another man; IMDb keywords include 'extramarital affair', 'wife pregnant by another man' and 'sex with a pregnant woman'. Already has children: unknown.",
+   "character": "",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "unknown",
+   "format": "tv",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt1471165/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:20"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:20": {
+     "title": "Liebe in anderen Umständen",
+     "year": "2009",
+     "format": "tv",
+     "meta": "TV movie · Germany · German",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Affair / extramarital sex while pregnant",
+     "mechanism": "Affair / extramarital sex while pregnant",
+     "summary": "German TV movie about a married woman pregnant by another man; IMDb keywords include 'extramarital affair', 'wife pregnant by another man' and 'sex with a pregnant woman'. Already has children: unknown.",
+     "pregnant_has_children": "unknown",
+     "character": "",
+     "note": "",
+     "confidence_flag": "IMDb keywords only",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt1471165/keywords/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1906,
+   "title": "Das Baby-Komplott",
+   "subtitle": "",
+   "year": "2001",
+   "meta": "TV movie · Germany · German",
+   "mechanism": "Spouse / partner intimacy during pregnancy",
+   "confidence_flag": "IMDb keywords only",
+   "summary": "German TV movie; IMDb keywords list 'sex scene' and 'sex with a pregnant woman'. No plot summary is available on IMDb. Already has children: unknown.",
+   "character": "",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "unknown",
+   "format": "tv",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt0283905/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:21"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:21": {
+     "title": "Das Baby-Komplott",
+     "year": "2001",
+     "format": "tv",
+     "meta": "TV movie · Germany · German",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Spouse / partner intimacy during pregnancy",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "summary": "German TV movie; IMDb keywords list 'sex scene' and 'sex with a pregnant woman'. No plot summary is available on IMDb. Already has children: unknown.",
+     "pregnant_has_children": "unknown",
+     "character": "",
+     "note": "",
+     "confidence_flag": "IMDb keywords only",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt0283905/keywords/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1907,
+   "title": "Het nadeel van de twijfel",
+   "subtitle": "",
+   "year": "1990",
+   "meta": "TV film · Netherlands · Dutch",
+   "mechanism": "Affair / extramarital sex while pregnant",
+   "confidence_flag": "IMDb keywords only",
+   "summary": "Jessica, whose husband Mark is infertile, becomes pregnant by his old acquaintance Simon; IMDb keywords include 'sex with husband's friend' and 'sex with a pregnant woman'. Already has children: no.",
+   "character": "Jessica",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "no",
+   "format": "tv",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt7668840/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:22"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:22": {
+     "title": "Het nadeel van de twijfel",
+     "year": "1990",
+     "format": "tv",
+     "meta": "TV film · Netherlands · Dutch",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Affair / extramarital sex while pregnant",
+     "mechanism": "Affair / extramarital sex while pregnant",
+     "summary": "Jessica, whose husband Mark is infertile, becomes pregnant by his old acquaintance Simon; IMDb keywords include 'sex with husband's friend' and 'sex with a pregnant woman'. Already has children: no.",
+     "pregnant_has_children": "no",
+     "character": "Jessica",
+     "note": "",
+     "confidence_flag": "IMDb keywords only",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt7668840/keywords/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1908,
+   "title": "Loving",
+   "subtitle": "",
+   "year": "2012",
+   "meta": "Film · Poland · Polish (original title: Miłość)",
+   "mechanism": "Spouse / partner intimacy during pregnancy",
+   "confidence_flag": "IMDb keywords only",
+   "summary": "A young couple expecting a baby, Maria and Tomek, are tested after Maria's traumatic experience; IMDb tags the film 'sex with a pregnant woman'. Already has children: unknown.",
+   "character": "Maria",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "unknown",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt2495212/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:23"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:23": {
+     "title": "Loving",
+     "year": "2012",
+     "format": "movie",
+     "meta": "Film · Poland · Polish (original title: Miłość)",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Spouse / partner intimacy during pregnancy",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "summary": "A young couple expecting a baby, Maria and Tomek, are tested after Maria's traumatic experience; IMDb tags the film 'sex with a pregnant woman'. Already has children: unknown.",
+     "pregnant_has_children": "unknown",
+     "character": "Maria",
+     "note": "",
+     "confidence_flag": "IMDb keywords only",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt2495212/keywords/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1909,
+   "title": "Anchors",
+   "subtitle": "",
+   "year": "2015",
+   "meta": "Film · United States · English",
+   "mechanism": "Affair / extramarital sex while pregnant",
+   "confidence_flag": "IMDb keywords only",
+   "summary": "A month before his wedding, a man reconnects with an old flame; IMDb keywords list 'ex boyfriend ex girlfriend sex', 'pregnancy' and 'sex with a pregnant woman'. The listing does not name the pregnant character. Already has children: unknown.",
+   "character": "",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "unknown",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt2381923/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:24"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:24": {
+     "title": "Anchors",
+     "year": "2015",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Affair / extramarital sex while pregnant",
+     "mechanism": "Affair / extramarital sex while pregnant",
+     "summary": "A month before his wedding, a man reconnects with an old flame; IMDb keywords list 'ex boyfriend ex girlfriend sex', 'pregnancy' and 'sex with a pregnant woman'. The listing does not name the pregnant character. Already has children: unknown.",
+     "pregnant_has_children": "unknown",
+     "character": "",
+     "note": "",
+     "confidence_flag": "IMDb keywords only",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt2381923/keywords/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1910,
+   "title": "The Shower",
+   "subtitle": "",
+   "year": "1992",
+   "meta": "Film · Canada · English",
+   "mechanism": "Spouse / partner intimacy during pregnancy",
+   "confidence_flag": "IMDb keywords only",
+   "summary": "Women gather for a surprise baby shower; IMDb keywords include 'caught having sex', 'sex in a bathroom' and 'sex with a pregnant woman'. The listing does not name the pregnant character. Already has children: unknown.",
+   "character": "",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "unknown",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt0196951/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:25"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:25": {
+     "title": "The Shower",
+     "year": "1992",
+     "format": "movie",
+     "meta": "Film · Canada · English",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Spouse / partner intimacy during pregnancy",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "summary": "Women gather for a surprise baby shower; IMDb keywords include 'caught having sex', 'sex in a bathroom' and 'sex with a pregnant woman'. The listing does not name the pregnant character. Already has children: unknown.",
+     "pregnant_has_children": "unknown",
+     "character": "",
+     "note": "",
+     "confidence_flag": "IMDb keywords only",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt0196951/keywords/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1911,
+   "title": "Close Quarters",
+   "subtitle": "",
+   "year": "2021",
+   "meta": "Film · Mexico · Spanish (original title: Territorio)",
+   "mechanism": "Affair / extramarital sex while pregnant",
+   "confidence_flag": "IMDb keywords only",
+   "summary": "After Manuel learns he is infertile, he turns to his friend Rubén to help him and Lupe conceive; IMDb tags the film 'sex with a pregnant woman', 'pregnancy craving' and 'sex with friend's wife'. Already has children: no.",
+   "character": "Lupe",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "no",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt8235050/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:26"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:26": {
+     "title": "Close Quarters",
+     "year": "2021",
+     "format": "movie",
+     "meta": "Film · Mexico · Spanish (original title: Territorio)",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Affair / extramarital sex while pregnant",
+     "mechanism": "Affair / extramarital sex while pregnant",
+     "summary": "After Manuel learns he is infertile, he turns to his friend Rubén to help him and Lupe conceive; IMDb tags the film 'sex with a pregnant woman', 'pregnancy craving' and 'sex with friend's wife'. Already has children: no.",
+     "pregnant_has_children": "no",
+     "character": "Lupe",
+     "note": "",
+     "confidence_flag": "IMDb keywords only",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt8235050/keywords/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1912,
+   "title": "Happening",
+   "subtitle": "",
+   "year": "2021",
+   "meta": "Film · France · French (original title: L'Événement)",
+   "mechanism": "New or casual partner while pregnant",
+   "confidence_flag": "IMDb keywords only",
+   "summary": "In 1963, university student Anne seeks an illegal abortion; IMDb tags the film 'sex during pregnancy' and 'sex with a pregnant woman'. Already has children: no.",
+   "character": "Anne Duchesne (Anamaria Vartolomei)",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "no",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt13880104/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:27"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:27": {
+     "title": "Happening",
+     "year": "2021",
+     "format": "movie",
+     "meta": "Film · France · French (original title: L'Événement)",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "New or casual partner while pregnant",
+     "mechanism": "New or casual partner while pregnant",
+     "summary": "In 1963, university student Anne seeks an illegal abortion; IMDb tags the film 'sex during pregnancy' and 'sex with a pregnant woman'. Already has children: no.",
+     "pregnant_has_children": "no",
+     "character": "Anne Duchesne (Anamaria Vartolomei)",
+     "note": "",
+     "confidence_flag": "IMDb keywords only",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt13880104/keywords/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1913,
+   "title": "The Vintner's Luck",
+   "subtitle": "",
+   "year": "2009",
+   "meta": "Film · New Zealand / France · English",
+   "mechanism": "Spouse / partner intimacy during pregnancy",
+   "confidence_flag": "IMDb keywords only",
+   "summary": "Nineteenth-century French winemaker drama; IMDb tags the film 'sex with a pregnant woman'. The listing does not name the pregnant character. Already has children: unknown.",
+   "character": "",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "unknown",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt0954544/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:28"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:28": {
+     "title": "The Vintner's Luck",
+     "year": "2009",
+     "format": "movie",
+     "meta": "Film · New Zealand / France · English",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Spouse / partner intimacy during pregnancy",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "summary": "Nineteenth-century French winemaker drama; IMDb tags the film 'sex with a pregnant woman'. The listing does not name the pregnant character. Already has children: unknown.",
+     "pregnant_has_children": "unknown",
+     "character": "",
+     "note": "",
+     "confidence_flag": "IMDb keywords only",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt0954544/keywords/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1914,
+   "title": "Siklo",
+   "subtitle": "",
+   "year": "2022",
+   "meta": "Film · Philippines · Filipino",
+   "mechanism": "Affair / extramarital sex while pregnant",
+   "confidence_flag": "IMDb keywords only",
+   "summary": "A pastor's mistress and a delivery rider begin a heated affair; IMDb keywords include 'pregnant girlfriend' and 'sex with a pregnant woman'. Already has children: unknown.",
+   "character": "",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "Adult-rated (Vivamax) film.",
+   "pregnant_has_children": "unknown",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt16969178/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:29"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:29": {
+     "title": "Siklo",
+     "year": "2022",
+     "format": "movie",
+     "meta": "Film · Philippines · Filipino",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Affair / extramarital sex while pregnant",
+     "mechanism": "Affair / extramarital sex while pregnant",
+     "summary": "A pastor's mistress and a delivery rider begin a heated affair; IMDb keywords include 'pregnant girlfriend' and 'sex with a pregnant woman'. Already has children: unknown.",
+     "pregnant_has_children": "unknown",
+     "character": "",
+     "note": "Adult-rated (Vivamax) film.",
+     "confidence_flag": "IMDb keywords only",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt16969178/keywords/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1915,
+   "title": "El apego",
+   "subtitle": "",
+   "year": "2021",
+   "meta": "Film · Argentina · Spanish",
+   "mechanism": "New or casual partner while pregnant",
+   "confidence_flag": "Medium",
+   "summary": "Carla, pregnant after a rape, is taken in by a clandestine obstetrician who plans to sell the baby; reviews describe an erotic relationship between the two women that includes sex scenes during the pregnancy. Already has children: unknown.",
+   "character": "Carla",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "Reviews describe the film as an erotic criminal melodrama.",
+   "pregnant_has_children": "unknown",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "EscribiendoCine review",
+     "url": "https://www.escribiendocine.com/noticias/2022/10/20/13834-critica-de-el-apego-melodrama-criminal-de-valentin-javier-diment"
+    },
+    {
+     "label": "Criticalia",
+     "url": "https://criticalia.com/pelicula/el-apego"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:30"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:30": {
+     "title": "El apego",
+     "year": "2021",
+     "format": "movie",
+     "meta": "Film · Argentina · Spanish",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "New or casual partner while pregnant",
+     "mechanism": "New or casual partner while pregnant",
+     "summary": "Carla, pregnant after a rape, is taken in by a clandestine obstetrician who plans to sell the baby; reviews describe an erotic relationship between the two women that includes sex scenes during the pregnancy. Already has children: unknown.",
+     "pregnant_has_children": "unknown",
+     "character": "Carla",
+     "note": "Reviews describe the film as an erotic criminal melodrama.",
+     "confidence_flag": "Medium",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "EscribiendoCine review",
+       "url": "https://www.escribiendocine.com/noticias/2022/10/20/13834-critica-de-el-apego-melodrama-criminal-de-valentin-javier-diment"
+      },
+      {
+       "label": "Criticalia",
+       "url": "https://criticalia.com/pelicula/el-apego"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1916,
+   "title": "Breaking Bad",
+   "subtitle": "",
+   "year": "2008",
+   "meta": "TV series · United States · English",
+   "mechanism": "Spouse / partner intimacy during pregnancy",
+   "confidence_flag": "Verified",
+   "summary": "S01E01 “Pilot” — Walt comes home after his first criminal turn and meets his pregnant wife Skyler with new sexual vigour, prompting her to ask “Walt, is that you?”. Already has children: yes — one teenage son, Walter Jr.",
+   "character": "Skyler White (Anna Gunn)",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "yes (one son, Walter Jr.)",
+   "episodes": [
+    {
+     "episode": "S01E01 “Pilot”",
+     "air_date": "2008-01-20",
+     "gist": "Walt returns home and initiates sex with his pregnant wife Skyler with new vigour.",
+     "number_verified": true
+    }
+   ],
+   "format": "tv",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia: Pilot (Breaking Bad)",
+     "url": "https://en.wikipedia.org/wiki/Pilot_(Breaking_Bad)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:38"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:38": {
+     "title": "Breaking Bad",
+     "year": "2008",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Spouse / partner intimacy during pregnancy",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "summary": "S01E01 “Pilot” — Walt comes home after his first criminal turn and meets his pregnant wife Skyler with new sexual vigour, prompting her to ask “Walt, is that you?”. Already has children: yes — one teenage son, Walter Jr.",
+     "pregnant_has_children": "yes (one son, Walter Jr.)",
+     "character": "Skyler White (Anna Gunn)",
+     "note": "",
+     "confidence_flag": "Verified",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "Wikipedia: Pilot (Breaking Bad)",
+       "url": "https://en.wikipedia.org/wiki/Pilot_(Breaking_Bad)"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S01E01 “Pilot”",
+       "air_date": "2008-01-20",
+       "gist": "Walt returns home and initiates sex with his pregnant wife Skyler with new vigour.",
+       "number_verified": true
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1917,
+   "title": "Mad Men",
+   "subtitle": "",
+   "year": "2008",
+   "meta": "TV series · United States · English",
+   "mechanism": "Affair / extramarital sex while pregnant",
+   "confidence_flag": "Verified",
+   "summary": "S02E13 “Meditations in an Emergency” — newly told she is pregnant and separated from Don, Betty goes to a bar alone and has sex with a stranger in an office at the back of the bar. Already has children: yes — two children, Sally and Bobby.",
+   "character": "Betty Draper (January Jones)",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "yes (two children, Sally and Bobby)",
+   "episodes": [
+    {
+     "episode": "S02E13 “Meditations in an Emergency”",
+     "air_date": "2008-10-26",
+     "gist": "After learning she is pregnant, Betty has a one-night stand with a stranger in a bar's back office, then tells Don she is pregnant.",
+     "number_verified": true
+    }
+   ],
+   "format": "tv",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "Mad Men wiki",
+     "url": "https://madmen.fandom.com/wiki/Meditations_in_an_Emergency"
+    },
+    {
+     "label": "Los Angeles Times recap",
+     "url": "https://www.latimes.com/archives/blogs/show-tracker/story/2008-10-26/mad-men-meditations-in-an-emergency"
+    },
+    {
+     "label": "AMC episode guide (archived)",
+     "url": "https://web.archive.org/web/20130509030706/http:/www.amctv.com/shows/mad-men/episodes/season-2/meditations-in-an-emergency"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:39"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:39": {
+     "title": "Mad Men",
+     "year": "2008",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Affair / extramarital sex while pregnant",
+     "mechanism": "Affair / extramarital sex while pregnant",
+     "summary": "S02E13 “Meditations in an Emergency” — newly told she is pregnant and separated from Don, Betty goes to a bar alone and has sex with a stranger in an office at the back of the bar. Already has children: yes — two children, Sally and Bobby.",
+     "pregnant_has_children": "yes (two children, Sally and Bobby)",
+     "character": "Betty Draper (January Jones)",
+     "note": "",
+     "confidence_flag": "Verified",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "Mad Men wiki",
+       "url": "https://madmen.fandom.com/wiki/Meditations_in_an_Emergency"
+      },
+      {
+       "label": "Los Angeles Times recap",
+       "url": "https://www.latimes.com/archives/blogs/show-tracker/story/2008-10-26/mad-men-meditations-in-an-emergency"
+      },
+      {
+       "label": "AMC episode guide (archived)",
+       "url": "https://web.archive.org/web/20130509030706/http:/www.amctv.com/shows/mad-men/episodes/season-2/meditations-in-an-emergency"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S02E13 “Meditations in an Emergency”",
+       "air_date": "2008-10-26",
+       "gist": "After learning she is pregnant, Betty has a one-night stand with a stranger in a bar's back office, then tells Don she is pregnant.",
+       "number_verified": true
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1918,
+   "title": "Ray Donovan",
+   "subtitle": "",
+   "year": "2016",
+   "meta": "TV series · United States · English",
+   "mechanism": "Pregnancy-related seduction or labour-inducing sex",
+   "confidence_flag": "Verified",
+   "summary": "S04E03 “Little Bill Primm's Big Green Horseshoe” — heavily pregnant Teresa pressures her reluctant husband Bunchy into sex at a motel; mid-coitus she starts having contractions and their daughter Maria is born. Already has children: no — Maria is their first child.",
+   "character": "Teresa Donovan (Alyssa Diaz)",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "no",
+   "episodes": [
+    {
+     "episode": "S04E03 “Little Bill Primm's Big Green Horseshoe”",
+     "air_date": "",
+     "gist": "Pregnant Teresa persuades Bunchy to have sex; her contractions begin and she gives birth to Maria.",
+     "number_verified": true
+    }
+   ],
+   "format": "tv",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "Mike's Film Talk review",
+     "url": "https://mikesfilmtalk.com/2016/07/10/ray-donovan-little-bill-primms-big-green-horseshoe-review/"
+    },
+    {
+     "label": "Entertainment Focus",
+     "url": "https://entertainment-focus.com/2016/07/17/ray-donovan-4x03-little-bill-primms-big-green-horseshoe-preview/"
+    },
+    {
+     "label": "Fikkle Fame recap",
+     "url": "https://fikklefame.com/little-bill-primms-big-green-horseshoe-recap-ray-donovan/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:41"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:41": {
+     "title": "Ray Donovan",
+     "year": "2016",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Pregnancy-related seduction or labour-inducing sex",
+     "mechanism": "Pregnancy-related seduction or labour-inducing sex",
+     "summary": "S04E03 “Little Bill Primm's Big Green Horseshoe” — heavily pregnant Teresa pressures her reluctant husband Bunchy into sex at a motel; mid-coitus she starts having contractions and their daughter Maria is born. Already has children: no — Maria is their first child.",
+     "pregnant_has_children": "no",
+     "character": "Teresa Donovan (Alyssa Diaz)",
+     "note": "",
+     "confidence_flag": "Verified",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "Mike's Film Talk review",
+       "url": "https://mikesfilmtalk.com/2016/07/10/ray-donovan-little-bill-primms-big-green-horseshoe-review/"
+      },
+      {
+       "label": "Entertainment Focus",
+       "url": "https://entertainment-focus.com/2016/07/17/ray-donovan-4x03-little-bill-primms-big-green-horseshoe-preview/"
+      },
+      {
+       "label": "Fikkle Fame recap",
+       "url": "https://fikklefame.com/little-bill-primms-big-green-horseshoe-recap-ray-donovan/"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S04E03 “Little Bill Primm's Big Green Horseshoe”",
+       "air_date": "",
+       "gist": "Pregnant Teresa persuades Bunchy to have sex; her contractions begin and she gives birth to Maria.",
+       "number_verified": true
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1919,
+   "title": "The Affair",
+   "subtitle": "",
+   "year": "2015",
+   "meta": "TV series · United States · English",
+   "mechanism": "Spouse / partner intimacy during pregnancy",
+   "confidence_flag": "Verified",
+   "summary": "S02E06 — Noah visits Alison at a yoga retreat; after an argument he has rough sex with her against a tree, and immediately afterwards she tells him she is pregnant. Already has children: yes — her four-year-old son died before the series begins.",
+   "character": "Alison Bailey (Ruth Wilson)",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "Critics debated whether the encounter, shown from Noah's point of view, was consensual.",
+   "pregnant_has_children": "yes (a son, who died before the series)",
+   "episodes": [
+    {
+     "episode": "S02E06",
+     "air_date": "2015-11-08",
+     "gist": "Noah and Alison have a rough, ambiguous sexual encounter at her retreat; she then reveals she is pregnant.",
+     "number_verified": true
+    }
+   ],
+   "format": "tv",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "Vulture recap",
+     "url": "https://www.vulture.com/2015/11/affair-recap-season-2-episode-6.html"
+    },
+    {
+     "label": "TV Fanatic review",
+     "url": "https://www.tvfanatic.com/the-affair-season-2-episode-6-review-a-perfect-storm/"
+    },
+    {
+     "label": "IndieWire review",
+     "url": "https://www.indiewire.com/criticism/shows/review-the-affair-season-2-episode-6-makes-some-breakthroughs-54720/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:42"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:42": {
+     "title": "The Affair",
+     "year": "2015",
+     "format": "tv",
+     "meta": "TV series · United States · English",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Spouse / partner intimacy during pregnancy",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "summary": "S02E06 — Noah visits Alison at a yoga retreat; after an argument he has rough sex with her against a tree, and immediately afterwards she tells him she is pregnant. Already has children: yes — her four-year-old son died before the series begins.",
+     "pregnant_has_children": "yes (a son, who died before the series)",
+     "character": "Alison Bailey (Ruth Wilson)",
+     "note": "Critics debated whether the encounter, shown from Noah's point of view, was consensual.",
+     "confidence_flag": "Verified",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "Vulture recap",
+       "url": "https://www.vulture.com/2015/11/affair-recap-season-2-episode-6.html"
+      },
+      {
+       "label": "TV Fanatic review",
+       "url": "https://www.tvfanatic.com/the-affair-season-2-episode-6-review-a-perfect-storm/"
+      },
+      {
+       "label": "IndieWire review",
+       "url": "https://www.indiewire.com/criticism/shows/review-the-affair-season-2-episode-6-makes-some-breakthroughs-54720/"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S02E06",
+       "air_date": "2015-11-08",
+       "gist": "Noah and Alison have a rough, ambiguous sexual encounter at her retreat; she then reveals she is pregnant.",
+       "number_verified": true
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1920,
+   "title": "G-Spot",
+   "subtitle": "",
+   "year": "2009",
+   "meta": "TV series · Canada · English",
+   "mechanism": "New or casual partner while pregnant",
+   "confidence_flag": "IMDb keywords only",
+   "summary": "Two season-3 episodes of the comedy about actress Gigi are tagged by IMDb with 'pregnant lesbian' and 'sex with pregnant woman'. The IMDb listings do not name the pregnant character. Already has children: unknown.",
+   "character": "",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "unknown",
+   "episodes": [
+    {
+     "episode": "S03E05 “Mile High Baby Club”",
+     "air_date": "2009-04-29",
+     "gist": "Gigi leaves Hollywood; IMDb tags 'faked pregnancy', 'pregnant lesbian', 'sex with pregnant woman'.",
+     "number_verified": true
+    },
+    {
+     "episode": "S03E07 “Handicap Hummer”",
+     "air_date": "2009-05-13",
+     "gist": "Gigi shoots her pilot in Halifax; IMDb tags 'pregnant woman', 'sex with pregnant woman'.",
+     "number_verified": true
+    }
+   ],
+   "format": "tv",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "IMDb: Mile High Baby Club",
+     "url": "https://www.imdb.com/title/tt1406452/keywords/"
+    },
+    {
+     "label": "IMDb: Handicap Hummer",
+     "url": "https://www.imdb.com/title/tt1406451/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:44"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:44": {
+     "title": "G-Spot",
+     "year": "2009",
+     "format": "tv",
+     "meta": "TV series · Canada · English",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "New or casual partner while pregnant",
+     "mechanism": "New or casual partner while pregnant",
+     "summary": "Two season-3 episodes of the comedy about actress Gigi are tagged by IMDb with 'pregnant lesbian' and 'sex with pregnant woman'. The IMDb listings do not name the pregnant character. Already has children: unknown.",
+     "pregnant_has_children": "unknown",
+     "character": "",
+     "note": "",
+     "confidence_flag": "IMDb keywords only",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb: Mile High Baby Club",
+       "url": "https://www.imdb.com/title/tt1406452/keywords/"
+      },
+      {
+       "label": "IMDb: Handicap Hummer",
+       "url": "https://www.imdb.com/title/tt1406451/keywords/"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S03E05 “Mile High Baby Club”",
+       "air_date": "2009-04-29",
+       "gist": "Gigi leaves Hollywood; IMDb tags 'faked pregnancy', 'pregnant lesbian', 'sex with pregnant woman'.",
+       "number_verified": true
+      },
+      {
+       "episode": "S03E07 “Handicap Hummer”",
+       "air_date": "2009-05-13",
+       "gist": "Gigi shoots her pilot in Halifax; IMDb tags 'pregnant woman', 'sex with pregnant woman'.",
+       "number_verified": true
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1921,
+   "title": "Infieles",
+   "subtitle": "",
+   "year": "2012",
+   "meta": "TV anthology series · Chile · Spanish",
+   "mechanism": "Affair / extramarital sex while pregnant",
+   "confidence_flag": "IMDb keywords only",
+   "summary": "S06E11 “Adicto” — a police officer who can't resist the women in his neighbourhood; IMDb tags the episode 'sex with friend's wife' and 'sex with a pregnant woman'. Already has children: unknown.",
+   "character": "",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "Adult-rated anthology.",
+   "pregnant_has_children": "unknown",
+   "episodes": [
+    {
+     "episode": "S06E11 “Adicto”",
+     "air_date": "2012-07-04",
+     "gist": "A police officer's affairs include sex with a friend's pregnant wife (per IMDb keywords).",
+     "number_verified": true
+    }
+   ],
+   "format": "tv",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt3319598/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:45"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:45": {
+     "title": "Infieles",
+     "year": "2012",
+     "format": "tv",
+     "meta": "TV anthology series · Chile · Spanish",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Affair / extramarital sex while pregnant",
+     "mechanism": "Affair / extramarital sex while pregnant",
+     "summary": "S06E11 “Adicto” — a police officer who can't resist the women in his neighbourhood; IMDb tags the episode 'sex with friend's wife' and 'sex with a pregnant woman'. Already has children: unknown.",
+     "pregnant_has_children": "unknown",
+     "character": "",
+     "note": "Adult-rated anthology.",
+     "confidence_flag": "IMDb keywords only",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt3319598/keywords/"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S06E11 “Adicto”",
+       "air_date": "2012-07-04",
+       "gist": "A police officer's affairs include sex with a friend's pregnant wife (per IMDb keywords).",
+       "number_verified": true
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1922,
+   "title": "Monsters",
+   "subtitle": "",
+   "year": "1990",
+   "meta": "TV anthology series · United States · English",
+   "mechanism": "Affair / extramarital sex while pregnant",
+   "confidence_flag": "IMDb keywords only",
+   "summary": "S03E03 “Bug House” — a woman visits her sickly, pregnant sister, whose creepy boyfriend, revealed to be an insect creature, seduces both sisters; IMDb tags 'sex with pregnant woman' and 'overheard sex'. Already has children: unknown.",
+   "character": "",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "unknown",
+   "episodes": [
+    {
+     "episode": "S03E03 “Bug House”",
+     "air_date": "1990-10-14",
+     "gist": "The pregnant sister's boyfriend seduces both sisters; IMDb tags 'sex with pregnant woman'.",
+     "number_verified": true
+    }
+   ],
+   "format": "tv",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0650835/"
+    },
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt0650835/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:46"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:46": {
+     "title": "Monsters",
+     "year": "1990",
+     "format": "tv",
+     "meta": "TV anthology series · United States · English",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Affair / extramarital sex while pregnant",
+     "mechanism": "Affair / extramarital sex while pregnant",
+     "summary": "S03E03 “Bug House” — a woman visits her sickly, pregnant sister, whose creepy boyfriend, revealed to be an insect creature, seduces both sisters; IMDb tags 'sex with pregnant woman' and 'overheard sex'. Already has children: unknown.",
+     "pregnant_has_children": "unknown",
+     "character": "",
+     "note": "",
+     "confidence_flag": "IMDb keywords only",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0650835/"
+      },
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt0650835/keywords/"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S03E03 “Bug House”",
+       "air_date": "1990-10-14",
+       "gist": "The pregnant sister's boyfriend seduces both sisters; IMDb tags 'sex with pregnant woman'.",
+       "number_verified": true
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 1923,
+   "title": "Versailles",
+   "subtitle": "",
+   "year": "2017",
+   "meta": "TV series · France / Canada · English",
+   "mechanism": "Spouse / partner intimacy during pregnancy",
+   "confidence_flag": "IMDb keywords only",
+   "summary": "S02E01 “The Labyrinth” — season-two opener of the court drama; IMDb tags the episode 'sex with a pregnant woman' and 'nude pregnant woman'. The listing does not name the pregnant character. Already has children: unknown.",
+   "character": "",
+   "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+   "note": "",
+   "pregnant_has_children": "unknown",
+   "episodes": [
+    {
+     "episode": "S02E01 “The Labyrinth”",
+     "air_date": "2017-03-27",
+     "gist": "IMDb tags the episode 'sex with a pregnant woman'; the pregnant character is not named in the listing.",
+     "number_verified": true
+    }
+   ],
+   "format": "tv",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "IMDb keywords",
+     "url": "https://www.imdb.com/title/tt5904136/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimacy"
+   ],
+   "source_records": [
+    "pregnant-intimacy:47"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimacy:47": {
+     "title": "Versailles",
+     "year": "2017",
+     "format": "tv",
+     "meta": "TV series · France / Canada · English",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Spouse / partner intimacy during pregnancy",
+     "mechanism": "Spouse / partner intimacy during pregnancy",
+     "summary": "S02E01 “The Labyrinth” — season-two opener of the court drama; IMDb tags the episode 'sex with a pregnant woman' and 'nude pregnant woman'. The listing does not name the pregnant character. Already has children: unknown.",
+     "pregnant_has_children": "unknown",
+     "character": "",
+     "note": "",
+     "confidence_flag": "IMDb keywords only",
+     "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
+     "sources": [
+      {
+       "label": "IMDb keywords",
+       "url": "https://www.imdb.com/title/tt5904136/keywords/"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S02E01 “The Labyrinth”",
+       "air_date": "2017-03-27",
+       "gist": "IMDb tags the episode 'sex with a pregnant woman'; the pregnant character is not named in the listing.",
+       "number_verified": true
+      }
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -207088,7 +210456,8 @@ window.CATALOG = {
    "notes": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "pregnant-intimacy"
    ],
    "groups": [
     {
@@ -207149,6 +210518,24 @@ window.CATALOG = {
         "On-screen orgasm during group-sex scene · comedy",
         "Medium confidence · dialogue and reviews"
        ],
+       "sources": [
+        {
+         "label": "Subtitle transcript",
+         "url": "https://subslikescript.com/movie/How_to_Plan_an_Orgy_in_a_Small_Town-3919218"
+        },
+        {
+         "label": "INFLUX Magazine",
+         "url": "https://influxmagazine.com/how-to-plan-an-orgy-in-a-small-town-2015-review/"
+        },
+        {
+         "label": "Mr. Will Wong",
+         "url": "https://www.mrwillwong.com/review/review-how-to-plan-an-orgy-in-a-small-town/"
+        },
+        {
+         "label": "Dear Cast & Crew",
+         "url": "http://www.dearcastandcrew.com/content/2016/5/12/how-to-plan-an-orgy-in-a-small-town.html"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       }
      ]
@@ -207187,6 +210574,12 @@ window.CATALOG = {
         "Pregnant characters having sex",
         "Sex with established partner",
         "High confidence · review-verified"
+       ],
+       "sources": [
+        {
+         "label": "Exclaim",
+         "url": "https://exclaim.ca/film/article/happy_event-directed_by_remi_bezancon"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -207267,6 +210660,20 @@ window.CATALOG = {
         "Extended on-screen sex scene",
         "Confirmed on-screen · performer also pregnant"
        ],
+       "sources": [
+        {
+         "label": "The Playlist",
+         "url": "https://staging2.theplaylist.net/review-gabriel-mascaros-auspicious-original-absorbing-neon-bull-20160408/"
+        },
+        {
+         "label": "Film Comment",
+         "url": "https://www.filmcomment.com/blog/interview-gabriel-mascaro/"
+        },
+        {
+         "label": "No Film School",
+         "url": "https://nofilmschool.com/neon-bull"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -207284,6 +210691,16 @@ window.CATALOG = {
         "Pregnant characters having sex",
         "Affair during pregnancy",
         "High confidence"
+       ],
+       "sources": [
+        {
+         "label": "Christianity Today",
+         "url": "https://www.christianitytoday.com/ct/2007/mayweb-only/waitress.html"
+        },
+        {
+         "label": "UCSD Guardian",
+         "url": "https://ucsdguardian.org/2007/05/03/down-home-waitress-bakes-a-satisfying-farewell-dish/"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       }
@@ -207330,6 +210747,16 @@ window.CATALOG = {
         "Tryst presented as post-coital",
         "Borderline · completion is deliberately ambiguous"
        ],
+       "sources": [
+        {
+         "label": "TheTVDB",
+         "url": "https://TheTVDB.com/series/hung/allseasons/official"
+        },
+        {
+         "label": "CafeMom",
+         "url": "https://cafemom.com/parenting/106019-pregnant_sex_why_it_turns"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -207354,13 +210781,204 @@ window.CATALOG = {
         "Sex scene · timing caveat",
         "Medium confidence · pregnancy status at scene unconfirmed"
        ],
+       "sources": [
+        {
+         "label": "Aberdeen City Council classification document",
+         "url": "https://committees.aberdeencity.gov.uk/documents/s61616/24 weeks Certification.pdf"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       }
      ]
+    },
+    {
+     "title": "Affair / extramarital sex while pregnant",
+     "notes": [],
+     "items": [
+      {
+       "id": 1887,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1909,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1911,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1888,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1907,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1890,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1921,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1905,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1917,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1922,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1886,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1914,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1891,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1892,
+       "from_source": "pregnant-intimacy"
+      }
+     ],
+     "from_source": "pregnant-intimacy"
+    },
+    {
+     "title": "Spouse / partner intimacy during pregnancy",
+     "notes": [],
+     "items": [
+      {
+       "id": 1919,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1896,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1899,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1916,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1906,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 89,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1903,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 597,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1894,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1908,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1901,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1889,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1895,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1910,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1898,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1902,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1923,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1913,
+       "from_source": "pregnant-intimacy"
+      }
+     ],
+     "from_source": "pregnant-intimacy"
+    },
+    {
+     "title": "New or casual partner while pregnant",
+     "notes": [],
+     "items": [
+      {
+       "id": 1915,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1904,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1920,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1912,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1900,
+       "from_source": "pregnant-intimacy"
+      },
+      {
+       "id": 1893,
+       "from_source": "pregnant-intimacy"
+      }
+     ],
+     "from_source": "pregnant-intimacy"
+    },
+    {
+     "title": "Pregnancy-related seduction or labour-inducing sex",
+     "notes": [],
+     "items": [
+      {
+       "id": 1918,
+       "from_source": "pregnant-intimacy"
+      }
+     ],
+     "from_source": "pregnant-intimacy"
     }
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 22
+    "ig6qlxqxoxvcxla": 22,
+    "pregnant-intimacy": null
    }
   },
   {
@@ -207370,7 +210988,8 @@ window.CATALOG = {
    "notes": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "pregnant-intimacy"
    ],
    "groups": [
     {
@@ -207425,6 +211044,16 @@ window.CATALOG = {
         "Pregnant intimate scenes",
         "Marital bed scene · intimacy discussed",
         "Medium confidence · single viewer review"
+       ],
+       "sources": [
+        {
+         "label": "Letterboxd review",
+         "url": "https://letterboxd.com/popcornfreud/film/the-housemaid-2010/"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Housemaid_(2010_film)"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -207501,6 +211130,16 @@ window.CATALOG = {
         "Attempted sex",
         "Attempted / interrupted"
        ],
+       "sources": [
+        {
+         "label": "River Cities’ Reader",
+         "url": "https://www.rcreader.com/node/3837"
+        },
+        {
+         "label": "Tropedia",
+         "url": "https://tropedia.fandom.com/wiki/Knocked_Up"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -207562,10 +211201,22 @@ window.CATALOG = {
       }
      ],
      "from_source": "ig6qlxqxoxvcxla"
+    },
+    {
+     "title": "Spouse / partner intimacy during pregnancy",
+     "notes": [],
+     "items": [
+      {
+       "id": 1897,
+       "from_source": "pregnant-intimacy"
+      }
+     ],
+     "from_source": "pregnant-intimacy"
     }
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 17
+    "ig6qlxqxoxvcxla": 17,
+    "pregnant-intimacy": null
    }
   },
   {
@@ -211597,6 +215248,13 @@ window.CATALOG = {
         "Single mom remarries and gets pregnant with new partner",
         "Near / partial match"
        ],
+       "sources": [
+        {
+         "label": "Source",
+         "url": "https://en.wikipedia.org/wiki/Dexter_season_4"
+        }
+       ],
+       "year_display": "",
        "character": "Character: Rita",
        "from_source": "xla62ucxbx02u5"
       },
