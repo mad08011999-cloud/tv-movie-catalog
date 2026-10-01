@@ -966,6 +966,40 @@ def dumps(obj):
     return json.dumps(obj, ensure_ascii=False, indent=1) + "\n"
 
 
+WATCH_LINKS = "sources/watch-links.json"
+WATCH_FIELDS = ("service", "url", "region", "channel", "note", "verified_via", "checked")
+
+
+def apply_watch_links(data, out):
+    """Overlay curated free/legal 'Watch free' links (sources/watch-links.json) onto entries by exact
+    title + year. The file is hand-curated and never scraped or overwritten; a link whose title/year no
+    longer matches an entry is skipped (and logged), never re-targeted."""
+    path = os.path.join(out, WATCH_LINKS)
+    if not os.path.exists(path):
+        path = os.path.join(os.path.dirname(HERE), WATCH_LINKS)
+    if not os.path.exists(path):
+        return
+    with open(path, encoding="utf-8") as f:
+        recs = json.load(f).get("records", [])
+    by_key = defaultdict(list)
+    for e in data["entries"]:
+        by_key[(e["title"], e.get("year", ""))].append(e)
+    hit = miss = 0
+    for r in recs:
+        targets = by_key.get((r.get("title", ""), r.get("year", "")), [])
+        if len(targets) != 1:
+            miss += 1
+            continue
+        e = targets[0]
+        cur = e.setdefault("watch_links", [])
+        for l in r.get("links", []):
+            if l.get("url") and not any(c["url"] == l["url"] for c in cur):
+                cur.append({k: l[k] for k in WATCH_FIELDS if l.get(k)})
+        hit += 1
+    data["watch_links_count"] = sum(1 for e in data["entries"] if e.get("watch_links"))
+    log(f"watch-links: {hit} records applied, {miss} unmatched; {data['watch_links_count']} entries have links")
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--out", default=os.path.dirname(HERE), help="repo/site root (default: repo root)")
@@ -1034,6 +1068,7 @@ def main():
         log("WARNING", p)
 
     data, report, css = build(parsed)
+    apply_watch_links(data, out)
     log(f"raw_counts={data['raw_counts']} after_dedupe={data['entry_count']} "
         f"merged_groups={len(report['merged_groups'])} (within={report['within_source_groups']}, "
         f"cross={report['cross_source_groups']}) index_only={report['index_only_records']} "

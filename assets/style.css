@@ -215,3 +215,11 @@ details.merged .clinks a{font-size:.7rem}
 .episodes ul{margin:4px 0 0;padding-left:1.1em}
 .episodes li{margin:0 0 4px;line-height:1.4}
 .episodes .epdate{color:var(--muted)}
+/* watch-free links + filter toggle */
+#freeToggle{height:44px;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:8px;padding:0 13px;cursor:pointer}
+#freeToggle[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.watch{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:baseline;margin:10px 0 4px;font-size:.84rem}
+.watch a{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:4px 10px;text-decoration:none;color:var(--ink);background:var(--surface)}
+.watch a:hover{border-color:var(--ink)}
+.watch .wregion{font-size:.72rem;color:var(--muted)}
+.watch .wnote{font-size:.72rem;color:var(--muted)}

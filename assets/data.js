@@ -1473,7 +1473,45 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/0c9d99fd5d4c5055a7d2cc3888ac895e/the-curse-of-the-jade-scorpion?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (The Curse of the Jade Scorpion, 2001); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-13626735",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Curse of the Jade Scorpion, 2001); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-curse-of-the-jade-scorpion",
+     "region": "US",
+     "verified_via": "JustWatch US (The Curse of the Jade Scorpion, 2001); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.7ab600c2-adb4-388a-b6fe-b6ab85c8fb5c",
+     "region": "US",
+     "verified_via": "JustWatch US (The Curse of the Jade Scorpion, 2001); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/708315",
+     "region": "US",
+     "verified_via": "JustWatch US (The Curse of the Jade Scorpion, 2001); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 2,
@@ -3623,7 +3661,16 @@ window.CATALOG = {
       ]
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/95346693b5af5cb49309dcef714587a6/the-last-naruto-the-movie?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (The Last: Naruto the Movie, 2014); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 14,
@@ -4630,7 +4677,17 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/13429821",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Flash Gordon, 1936); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 21,
@@ -5012,7 +5069,18 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=M83Y8wuYSKY",
+     "region": "US",
+     "channel": "GMA Network",
+     "note": "full episode on the official channel",
+     "verified_via": "YouTube: \"#MPK: My husband's secret (Full Episode) - Magpakailanman\" (GMA Network; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 24,
@@ -5068,7 +5136,24 @@ window.CATALOG = {
       ]
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/12330125",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Castle of Cagliostro, 1979); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100061819",
+     "region": "US",
+     "verified_via": "JustWatch US (The Castle of Cagliostro, 1979); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 25,
@@ -6207,7 +6292,46 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-12231046",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Svengali, 1931); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/16804624",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Svengali, 1931); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/svengali-1931",
+     "region": "US",
+     "verified_via": "JustWatch US (Svengali, 1931); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.dde887da-f576-4ef3-a704-c46525007413",
+     "region": "US",
+     "verified_via": "JustWatch US (Svengali, 1931); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100055542",
+     "region": "US",
+     "verified_via": "JustWatch US (Svengali, 1931); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 33,
@@ -6261,7 +6385,16 @@ window.CATALOG = {
       ]
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/507446",
+     "region": "US",
+     "verified_via": "JustWatch US (The Thief of Bagdad, 1940); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 34,
@@ -6670,7 +6803,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100058591",
+     "region": "US",
+     "verified_via": "JustWatch US (Sleep, My Love, 1948); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 35,
@@ -6835,7 +6977,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/3f7b33ca21a159ac9732183dd8dc1c93/the-5-000-fingers-of-dr-t?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (The 5,000 Fingers of Dr. T., 1953); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 36,
@@ -7701,7 +7852,45 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/series/dark-shadows-ptv3/season/1/episode/episode-210-1967-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Dark Shadows, 1966); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.3eb06e1c-3ed5-2b03-7dd9-4e76faf6f7bf",
+     "region": "US",
+     "verified_via": "JustWatch US (Dark Shadows, 1966); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300004693/dark-shadows-the-beginning",
+     "region": "US",
+     "verified_via": "JustWatch US (Dark Shadows, 1966); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/10966821",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Dark Shadows, 1966); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/cfff5216cc51530993c956121f657870/episode-1?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Dark Shadows, 1966); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 40,
@@ -7928,7 +8117,16 @@ window.CATALOG = {
      "confidence": "Borderline",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/507433",
+     "region": "US",
+     "verified_via": "JustWatch US (The Stepford Wives, 1975); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 41,
@@ -13468,7 +13666,16 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/gaslight",
+     "region": "US",
+     "verified_via": "JustWatch US (Gaslight, 1944); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 67,
@@ -13705,7 +13912,46 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-14370197",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Recalled, 2021); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/15296500",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Recalled, 2021); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/recalled-2021-1",
+     "region": "US",
+     "verified_via": "JustWatch US (Recalled, 2021); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.49634f41-a44d-4d5e-82d7-7264b1ed0390",
+     "region": "US",
+     "verified_via": "JustWatch US (Recalled, 2021); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/703742",
+     "region": "US",
+     "verified_via": "JustWatch US (Recalled, 2021); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 69,
@@ -16631,7 +16877,18 @@ window.CATALOG = {
      "sources": [],
      "present": true
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=zzgSIIQuU18",
+     "region": "IN",
+     "channel": "Zee TV",
+     "note": "full episode 22 on the official channel",
+     "verified_via": "YouTube: \"Urmi हुई परेशान Samrat का behaviour देखकर | Doli Armaanon Ki | Full Ep. 22 | ZEE TV\" (Zee TV; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 87,
@@ -17977,7 +18234,17 @@ window.CATALOG = {
      "confidence": "Higher confidence",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-10306112",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Oculus, 2014); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 97,
@@ -18290,7 +18557,16 @@ window.CATALOG = {
      "confidence": "Higher confidence",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/521444",
+     "region": "US",
+     "verified_via": "JustWatch US (The Taking of Deborah Logan, 2014); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 99,
@@ -18534,7 +18810,25 @@ window.CATALOG = {
      "confidence": "Higher confidence",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-13815428",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Forgotten, 2004); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/12183247",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Forgotten, 2004); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 101,
@@ -19914,7 +20208,17 @@ window.CATALOG = {
      "confidence": "Higher confidence",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-14605003",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (When Evil Lurks, 2023); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 110,
@@ -20658,7 +20962,17 @@ window.CATALOG = {
      "confidence": "Medium / close",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-13092579",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Rosemary's Baby, 1968); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 113,
@@ -20905,7 +21219,17 @@ window.CATALOG = {
      "confidence": "Borderline",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-14800618",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Longlegs, 2024); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 115,
@@ -21254,7 +21578,38 @@ window.CATALOG = {
      "confidence": "Borderline",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/3d7b1d17f7c459758da84bc97756ca5b/control?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Control, 2022); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/15366400",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Control, 2022); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/control-2022",
+     "region": "US",
+     "verified_via": "JustWatch US (Control, 2022); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100002663",
+     "region": "US",
+     "verified_via": "JustWatch US (Control, 2022); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 118,
@@ -21370,7 +21725,17 @@ window.CATALOG = {
      "confidence": "Borderline",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/19096995",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Beldham, 2025); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 119,
@@ -21571,7 +21936,17 @@ window.CATALOG = {
       }
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-5263745",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Neon Bull, 2016); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 120,
@@ -24032,7 +24407,16 @@ window.CATALOG = {
       ]
      }
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/528629",
+     "region": "US",
+     "verified_via": "JustWatch US (Look Who's Talking Too, 1990); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 134,
@@ -25996,7 +26380,38 @@ window.CATALOG = {
      "confidence": "Adjacent",
      "note": "Stir of Echoes reverses the roles: the husband is hypnotized while the wife is pregnant. Beyond the Door is adjacent, with no verified hypnosis scene."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/817ba9c71fb3563d8ada884e25d03660/stir-of-echoes?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Stir of Echoes, 1999); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-11335834",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Stir of Echoes, 1999); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/stir-of-echoes",
+     "region": "US",
+     "verified_via": "JustWatch US (Stir of Echoes, 1999); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/313931",
+     "region": "US",
+     "verified_via": "JustWatch US (Stir of Echoes, 1999); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 149,
@@ -26751,7 +27166,16 @@ window.CATALOG = {
      "confidence": "Adjacent",
      "note": "Stir of Echoes reverses the roles: the husband is hypnotized while the wife is pregnant. Beyond the Door is adjacent, with no verified hypnosis scene."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/beyond-the-door",
+     "region": "US",
+     "verified_via": "JustWatch US (Beyond the Door, 1974); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 151,
@@ -26991,7 +27415,30 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/3b2a6b7067715f56b33f15f864678d49/demon-seed?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Demon Seed, 1977); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/demon-seed",
+     "region": "US",
+     "verified_via": "JustWatch US (Demon Seed, 1977); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/499227",
+     "region": "US",
+     "verified_via": "JustWatch US (Demon Seed, 1977); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 152,
@@ -27145,7 +27592,51 @@ window.CATALOG = {
      "confidence": "High confidence",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/587303d0086558228faa8f468a54b5ef/inseminoid?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Inseminoid, 1981); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/inseminoid-1982-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Inseminoid, 1981); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Shout! Factory TV",
+     "url": "https://watch.shout-tv.com/interstitial/601461",
+     "region": "US",
+     "verified_via": "JustWatch US (Inseminoid, 1981); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/inseminoid",
+     "region": "US",
+     "verified_via": "JustWatch US (Inseminoid, 1981); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.5f722a85-417d-4588-ab3d-c9ecd4248610",
+     "region": "US",
+     "verified_via": "JustWatch US (Inseminoid, 1981); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/537343",
+     "region": "US",
+     "verified_via": "JustWatch US (Inseminoid, 1981); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 153,
@@ -27550,7 +28041,25 @@ window.CATALOG = {
      "confidence": "High confidence",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-5608200",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Baby Blood, 1990); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/18731778",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Baby Blood, 1990); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 155,
@@ -28066,7 +28575,23 @@ window.CATALOG = {
      "confidence": "High confidence",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-last-exorcism",
+     "region": "US",
+     "verified_via": "JustWatch US (The Last Exorcism, 2010); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/447823",
+     "region": "US",
+     "verified_via": "JustWatch US (The Last Exorcism, 2010); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 158,
@@ -28509,7 +29034,18 @@ window.CATALOG = {
      "pregnancy_highlight": true,
      "provenance": "Devil's-deal + pregnancy + hypnosis research pass (30 Sep 2026): Mental Block wiki, Wikipedia, Bharatpedia, TMDB, IMDb, TV Tropes and web reviews."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=ihjdVaAn1wU",
+     "region": "IN",
+     "channel": "Goldmines Bollywood",
+     "note": "full movie on the official channel",
+     "verified_via": "YouTube: \"Bandh Darwaza (1990) Full Hindi Movie | Manjeet Kullar, Kunika, Aruna Irani, Hashmat Khan\" (Goldmines Bollywood; year 1990 in video title/description)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 159,
@@ -29321,7 +29857,16 @@ window.CATALOG = {
      "sources": [],
      "present": true
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b7acdc8a-913d-4909-bdf6-bfcd2d5dcb82",
+     "region": "IN",
+     "verified_via": "JustWatch IN (Chhorii, 2021); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 162,
@@ -30306,7 +30851,16 @@ window.CATALOG = {
      "sources": [],
      "present": true
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "ZEE5",
+     "url": "https://www.zee5.com/tvshows/details/laal-ishq/0-6-tvshow_1306724328/chalawa/0-1-tvshow_1306724328-season_1403040319-episode_365474611",
+     "region": "IN",
+     "verified_via": "JustWatch IN (Laal Ishq, 2018); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 165,
@@ -31096,7 +31650,23 @@ window.CATALOG = {
      "confidence": "High confidence",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/exorcism-in-utero",
+     "region": "US",
+     "verified_via": "JustWatch US (Exorcism in Utero, 2024); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100009027",
+     "region": "US",
+     "verified_via": "JustWatch US (Exorcism in Utero, 2024); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 169,
@@ -31442,7 +32012,17 @@ window.CATALOG = {
      "confidence": "Medium / close",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/16327987",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Prevenge, 2017); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 171,
@@ -31573,7 +32153,30 @@ window.CATALOG = {
      "confidence": "Medium / close",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/a1f0799638405c5da2cc4a4b77b2c4b9/night-1?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Rosemary's Baby, 2014); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/rosemarys-baby/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (Rosemary's Baby, 2014); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.54630f81-f1d2-4c36-b57b-93e74aa0cc26",
+     "region": "US",
+     "verified_via": "JustWatch US (Rosemary's Baby, 2014); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 172,
@@ -32330,7 +32933,17 @@ window.CATALOG = {
      "confidence": "Medium / close",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-14800634",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Immaculate, 2024); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 178,
@@ -32586,7 +33199,17 @@ window.CATALOG = {
      "confidence": "Medium / close",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-14489177",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Deliver Us, 2023); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 180,
@@ -33269,7 +33892,17 @@ window.CATALOG = {
      "confidence": "Strict",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-12157172",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Enter the Void, 2010); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 185,
@@ -37998,7 +38631,25 @@ window.CATALOG = {
      "sources": [],
      "present": true
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Amazon MX Player (free with ads)",
+     "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3935a408-8feb-4195-bb88-5ca1ed80cd78",
+     "region": "IN",
+     "verified_via": "JustWatch IN (Uttaran, 2008); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=EksCs6cEzQg",
+     "region": "IN",
+     "channel": "Colors TV",
+     "note": "full episode 680 on the official channel",
+     "verified_via": "YouTube: \"Uttaran | Full Episode Ep. 680 | The marriage ritual | Colors TV\" (Colors TV; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 210,
@@ -38591,7 +39242,16 @@ window.CATALOG = {
      "sources": [],
      "present": true
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a6f2cd2b-34b5-4437-af45-a388e386c816",
+     "region": "IN",
+     "verified_via": "JustWatch IN (Chandramukhi, 2005); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 213,
@@ -40399,7 +41059,25 @@ window.CATALOG = {
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "ZEE5",
+     "url": "https://www.zee5.com/tvshows/details/naagini/0-6-222/naagini/0-1-76534",
+     "region": "IN",
+     "verified_via": "JustWatch IN (Naagin, 2015); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=6NC5RrYds-o",
+     "region": "IN",
+     "channel": "Colors TV",
+     "note": "full episode 5 on the official channel",
+     "verified_via": "YouTube: \"Naagin S1 | Full Episode Ep. 5 | Viren's attempts to get intimate with Shivanya | Colors T\" (Colors TV; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 222,
@@ -41272,7 +41950,52 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/42e38a4b7e3255778300e680421ffc52/black-magic?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Black Magic, 1949); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-223837",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Black Magic, 1949); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/black-magic-1949-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Black Magic, 1949); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Shout! Factory TV",
+     "url": "https://watch.shout-tv.com/interstitial/596637",
+     "region": "US",
+     "verified_via": "JustWatch US (Black Magic, 1949); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/black-magic-1949",
+     "region": "US",
+     "verified_via": "JustWatch US (Black Magic, 1949); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/291182",
+     "region": "US",
+     "verified_via": "JustWatch US (Black Magic, 1949); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 228,
@@ -41403,7 +42126,47 @@ window.CATALOG = {
      "confidence": "Lead / variant",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-3376011",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (White Zombie, 1932); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/15941318",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (White Zombie, 1932); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/white-zombie-1932-1-1-ptv4?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (White Zombie, 1932); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/white-zombie",
+     "region": "US",
+     "verified_via": "JustWatch US (White Zombie, 1932); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Internet Archive",
+     "url": "https://archive.org/details/white.zombie.1932",
+     "region": "US",
+     "note": "public domain",
+     "verified_via": "archive.org item \"White Zombie (1932)\" (1932); listed in Wikipedia \"List of films in the public domain in the United States\"",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 229,
@@ -41954,7 +42717,25 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-5838004",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Dr. Mabuse, the Gambler, 1922); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Internet Archive",
+     "url": "https://archive.org/details/silent-dr-mabuse-the-gambler",
+     "region": "US",
+     "note": "public domain",
+     "verified_via": "archive.org item \"Dr. Mabuse: The Gambler\" (1922); published 1922: US public domain (pre-1931)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 234,
@@ -42844,7 +43625,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Shout! Factory TV",
+     "url": "https://watch.shout-tv.com/interstitial/611162",
+     "region": "US",
+     "verified_via": "JustWatch US (The She-Creature, 1956); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 237,
@@ -43047,7 +43837,44 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/c33ba1c5fc105e3ab968442b420e42dc/the-undead?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (The Undead, 1957); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/the-undead-1957-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (The Undead, 1957); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Shout! Factory TV",
+     "url": "https://watch.shout-tv.com/interstitial/611336",
+     "region": "US",
+     "verified_via": "JustWatch US (The Undead, 1957); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-undead",
+     "region": "US",
+     "verified_via": "JustWatch US (The Undead, 1957); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/493007",
+     "region": "US",
+     "verified_via": "JustWatch US (The Undead, 1957); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 238,
@@ -43165,7 +43992,16 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/496365",
+     "region": "US",
+     "verified_via": "JustWatch US (Voodoo Woman, 1957); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 239,
@@ -43329,7 +44165,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-diabolical-dr-z",
+     "region": "US",
+     "verified_via": "JustWatch US (The Diabolical Dr. Z, 1966); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100032771",
+     "region": "US",
+     "verified_via": "JustWatch US (The Diabolical Dr. Z, 1966); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 240,
@@ -45048,7 +45900,45 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/series/dark-shadows-ptv3/season/1/episode/episode-210-1967-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Dark Shadows, 1966); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.3eb06e1c-3ed5-2b03-7dd9-4e76faf6f7bf",
+     "region": "US",
+     "verified_via": "JustWatch US (Dark Shadows, 1966); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300004693/dark-shadows-the-beginning",
+     "region": "US",
+     "verified_via": "JustWatch US (Dark Shadows, 1966); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/10966821",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Dark Shadows, 1966); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/cfff5216cc51530993c956121f657870/episode-1?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Dark Shadows, 1966); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 251,
@@ -46615,7 +47505,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/b0b332c557945efba4bc9004c8be6279/the-return-of-the-vampire?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (The Return of the Vampire, 1943); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 261,
@@ -47273,7 +48172,24 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/17705312",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Kiss of the Vampire, 1963); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-kiss-of-the-vampire",
+     "region": "US",
+     "verified_via": "JustWatch US (The Kiss of the Vampire, 1963); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 264,
@@ -47925,7 +48841,31 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-14529579",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Scars of Dracula, 1970); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/scars-of-dracula",
+     "region": "US",
+     "verified_via": "JustWatch US (Scars of Dracula, 1970); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100038979",
+     "region": "US",
+     "verified_via": "JustWatch US (Scars of Dracula, 1970); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 268,
@@ -48046,7 +48986,23 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-vampire-lovers",
+     "region": "US",
+     "verified_via": "JustWatch US (The Vampire Lovers, 1970); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100005362",
+     "region": "US",
+     "verified_via": "JustWatch US (The Vampire Lovers, 1970); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 269,
@@ -48091,7 +49047,30 @@ window.CATALOG = {
      "s": "Frieda Gellhorn falls under Count Karnstein's hypnotic charm and becomes his willing vampire thrall.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/0092b83965765f45852e2b89aea8404e/twins-of-evil?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Twins of Evil, 1971); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/twins-of-evil",
+     "region": "US",
+     "verified_via": "JustWatch US (Twins of Evil, 1971); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100004532",
+     "region": "US",
+     "verified_via": "JustWatch US (Twins of Evil, 1971); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 270,
@@ -48253,7 +49232,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100049956",
+     "region": "US",
+     "verified_via": "JustWatch US (Count Yorga, Vampire, 1970); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 271,
@@ -48392,7 +49380,24 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-16110500",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Dracula A.D. 1972, 1972); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/dracula-a-d-1972",
+     "region": "US",
+     "verified_via": "JustWatch US (Dracula A.D. 1972, 1972); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 272,
@@ -48778,7 +49783,18 @@ window.CATALOG = {
      "s": "The Vampire Supremo performs mass hypnotism; Gilbert places Jacintha under his spell to force obedience.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=6aSuQgBiDBU",
+     "region": "US",
+     "channel": "ABS-CBN Entertainment",
+     "note": "full episode 95 on the official channel",
+     "verified_via": "YouTube: \"[ENG SUB] Ep 95 | La Luna Sangre | Kathryn Bernardo, Daniel Padilla, Angel Locsin\" (ABS-CBN Entertainment; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 275,
@@ -49413,7 +50429,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/0f1e5555e02e54dfb04f7b30bea96908/the-crimson-cult?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Curse of the Crimson Altar, 1968); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 278,
@@ -49633,7 +50658,23 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/82fa61779d1b5bb4a2e8103b0bc78cd7/the-blood-on-satans-claw?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Blood on Satan's Claw, 1971); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/611061",
+     "region": "US",
+     "verified_via": "JustWatch US (Blood on Satan's Claw, 1971); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 280,
@@ -50033,7 +51074,31 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/8a4d24dd500fce2ed1f9ab2e423042bd/to-the-devila-daughter?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (To the Devil a Daughter, 1976); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/12613073",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (To the Devil a Daughter, 1976); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/to-the-devila-daughter-1976-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (To the Devil a Daughter, 1976); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 284,
@@ -50133,7 +51198,46 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/86188dfa58d0527ab05b507fe8d44ba7/suspiria?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Suspiria, 1977); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-5916322",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Suspiria, 1977); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/17705609",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Suspiria, 1977); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/suspiria",
+     "region": "US",
+     "verified_via": "JustWatch US (Suspiria, 1977); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100042026",
+     "region": "US",
+     "verified_via": "JustWatch US (Suspiria, 1977); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 285,
@@ -50309,7 +51413,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.341d1361-7735-4093-a29f-0376722d5df4",
+     "region": "US",
+     "verified_via": "JustWatch US (Suspiria, 2018); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 286,
@@ -50409,7 +51522,16 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-craft",
+     "region": "US",
+     "verified_via": "JustWatch US (The Craft, 1996); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 287,
@@ -50682,7 +51804,16 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-gorgon-1964",
+     "region": "US",
+     "verified_via": "JustWatch US (The Gorgon, 1964); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 289,
@@ -50882,7 +52013,38 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/05ae6476404c5900aecfe4020ec51eb8/the-babadook?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (The Babadook, 2014); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-12157063",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Babadook, 2014); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/the-babadook-2012-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (The Babadook, 2014); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-babadook",
+     "region": "US",
+     "verified_via": "JustWatch US (The Babadook, 2014); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 291,
@@ -53131,7 +54293,32 @@ window.CATALOG = {
      "sources": [],
      "present": true
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "ShemarooMe",
+     "url": "https://www.shemaroome.com/movies/bhoot",
+     "region": "IN",
+     "verified_via": "JustWatch IN (Bhoot, 2003); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60b48f78-658d-ffff-010e-3861414d8710",
+     "region": "IN",
+     "verified_via": "JustWatch IN (Bhoot, 2003); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=YoScfjTA0qI",
+     "region": "IN",
+     "channel": "Shemaroo Movies",
+     "note": "full movie on the official channel",
+     "verified_via": "YouTube: \"Bhoot (2003) Full Horror Movie | Ajay Devgn, Urmila Matondkar & Nana Patekar\" (Shemaroo Movies; year 2003 in video title/description)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 308,
@@ -54772,7 +55959,18 @@ window.CATALOG = {
      "sources": [],
      "present": true
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=ICMsOUnjn5s",
+     "region": "IN",
+     "channel": "StarPlus",
+     "note": "full episode 106 on the official channel",
+     "verified_via": "YouTube: \"Ruhi supports Ishita! | Full Ep.  106 - 110 | Yeh Hai Mohabbatein\" (StarPlus; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 317,
@@ -55768,7 +56966,25 @@ window.CATALOG = {
      "sources": [],
      "present": true
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "ZEE5",
+     "url": "https://www.zee5.com/tvshows/details/manmohini/0-6-1171_1688491931/ram-reaches-behramgarh-manmohini/0-1-154098_755444406",
+     "region": "IN",
+     "verified_via": "JustWatch IN (Manmohini, 2018); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=sgCnwNC1akc",
+     "region": "IN",
+     "channel": "Zee TV",
+     "note": "full episode 1 on the official channel",
+     "verified_via": "YouTube: \"क्या रोक पायेगी Ram को Siya? | Manmohini | Episode 1 | Zee TV\" (Zee TV; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 322,
@@ -55869,7 +57085,38 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/53f0731bfd135218822a0bc8ce2dc544/the-priests?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (The Priests, 2015); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/19102145",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Priests, 2015); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-priests",
+     "region": "US",
+     "verified_via": "JustWatch US (The Priests, 2015); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100045834",
+     "region": "US",
+     "verified_via": "JustWatch US (The Priests, 2015); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 323,
@@ -56225,7 +57472,23 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/8eff4cb3b17159fdb500ff7232cffa5f/the-guest?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (The Guest, 2018); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300015423/the-guest",
+     "region": "US",
+     "verified_via": "JustWatch US (The Guest, 2018); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 326,
@@ -56528,7 +57791,17 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-114331",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Memento Mori, 1999); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 329,
@@ -56629,7 +57902,17 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/16574556",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Medium, 2021); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 330,
@@ -56883,7 +58166,25 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-114517",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Shutter, 2004); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/12307028",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Shutter, 2004); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 332,
@@ -56984,7 +58285,18 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=MD-HJEhqXds",
+     "region": "US",
+     "channel": "ABS-CBN Entertainment",
+     "note": "full episode 79 on the official channel",
+     "verified_via": "YouTube: \"Full Episode 79 | The Killer Bride\" (ABS-CBN Entertainment; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 333,
@@ -58825,7 +60137,18 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=h2fi7BNA3OM",
+     "region": "IN",
+     "channel": "Goldmines",
+     "note": "full movie on the official channel",
+     "verified_via": "YouTube: \"Veerana (HD) - Bollywood Superhit Horror Thriller Movie | Hemant Birje, Sahila Chadha | वी\" (Goldmines; year 1988 in video title/description)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 349,
@@ -59774,7 +61097,31 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/13430064",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Invaders from Mars, 1953); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/invaders-from-mars-1953-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Invaders from Mars, 1953); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100019545",
+     "region": "US",
+     "verified_via": "JustWatch US (Invaders from Mars, 1953); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 355,
@@ -59819,7 +61166,24 @@ window.CATALOG = {
      "s": "Becky Driscoll falls asleep and is replaced by an emotionless alien pod duplicate.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/9d3c1fb3f7af5930869ff357fc4308cf/invasion-of-the-body-snatchers?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Invasion of the Body Snatchers, 1956); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-3520752",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Invasion of the Body Snatchers, 1956); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 356,
@@ -59864,7 +61228,23 @@ window.CATALOG = {
      "s": "Elizabeth Driscoll is taken over by the pod aliens.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/invasion-of-the-body-snatchers",
+     "region": "US",
+     "verified_via": "JustWatch US (Invasion of the Body Snatchers, 1978); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/310137",
+     "region": "US",
+     "verified_via": "JustWatch US (Invasion of the Body Snatchers, 1978); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 357,
@@ -60076,7 +61456,30 @@ window.CATALOG = {
      "s": "Laurie Cameron is possessed by a parasitic alien rock-creature and commanded to help the invaders.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/7d422d6caab055efa4be0b58f4fa8cca/the-galaxy-being?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (The Outer Limits, 1963); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/the-outer-limits/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (The Outer Limits, 1963); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300016065/the-outer-limits",
+     "region": "US",
+     "verified_via": "JustWatch US (The Outer Limits, 1963); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 360,
@@ -60492,7 +61895,18 @@ window.CATALOG = {
      "s": "Hieronymous hypnotizes Sarah Jane Smith to kill the Doctor.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=XLq01Btse3Q",
+     "region": "US",
+     "channel": "Doctor Who",
+     "note": "full episode on the official channel",
+     "verified_via": "YouTube: \"The Masque of Mandragora | Doctor Who\" (Doctor Who; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 365,
@@ -60769,7 +62183,16 @@ window.CATALOG = {
      "s": "In \"Wetwired\" a subliminal signal induces mind-control psychosis in Dana Scully; in \"Three of a Kind\" she is drugged into extreme suggestibility.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/us/on-demand/series/692fa4e06a5d6e386082d27f/season/1",
+     "region": "US",
+     "verified_via": "JustWatch US (The X-Files, 1993); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 369,
@@ -60994,7 +62417,16 @@ window.CATALOG = {
      "s": "Cylon sleeper agent Sharon \"Boomer\" Valerii's hidden programming makes her shoot Admiral Adama.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/us/on-demand/series/69d013d00e11c84e72620bef/season/1",
+     "region": "US",
+     "verified_via": "JustWatch US (Battlestar Galactica, 2004); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 374,
@@ -61039,7 +62471,16 @@ window.CATALOG = {
      "s": "The AI A.L.I.E. takes full control of Raven Reyes's brain via the chip, forcing her to harm herself.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/us/on-demand/series/69c2fcbb2a202dc93bc0dfc7/season/1",
+     "region": "US",
+     "verified_via": "JustWatch US (The 100, 2014); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 375,
@@ -61235,7 +62676,17 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/18673070",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Orphan Black, 2013); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 377,
@@ -61542,7 +62993,16 @@ window.CATALOG = {
      "s": "Game designer Allegra Geller and other players are neurologically taken over by the neural game pods.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/existenz",
+     "region": "US",
+     "verified_via": "JustWatch US (eXistenZ, 1999); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 381,
@@ -61587,7 +63047,16 @@ window.CATALOG = {
      "s": "Ava the gynoid is kept under creator Nathan Bateman's coercive control, slated for memory wipe.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/bb229aee949350e2b5ed5ef1e06b55f9/ex-machina?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Ex Machina, 2015); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 382,
@@ -61677,7 +63146,53 @@ window.CATALOG = {
      "s": "Jane DeVries' dream is invaded and exploited by psychic Alex Gardner.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/0dd89e0045f35876979f9332b672b2ce/dreamscape?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Dreamscape, 1984); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-223845",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Dreamscape, 1984); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/11756153",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Dreamscape, 1984); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Shout! Factory TV",
+     "url": "https://watch.shout-tv.com/interstitial/598977",
+     "region": "US",
+     "verified_via": "JustWatch US (Dreamscape, 1984); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/dreamscape-1984",
+     "region": "US",
+     "verified_via": "JustWatch US (Dreamscape, 1984); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/273070",
+     "region": "US",
+     "verified_via": "JustWatch US (Dreamscape, 1984); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 384,
@@ -62885,7 +64400,23 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/b93b68299e9b5e2fbe60cd9784a74566/episode-1?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Save Me, 2017); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300001732/save-me-2",
+     "region": "US",
+     "verified_via": "JustWatch US (Save Me, 2017); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 396,
@@ -63899,7 +65430,52 @@ window.CATALOG = {
      "s": "Sarah Williams eats Jareth's enchanted peach and falls into a trance, drawn into a dream-world masquerade ball under his control.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/e63181c493a05aecbdf81a2204203517/labyrinth?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Labyrinth, 1986); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-14890202",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Labyrinth, 1986); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/labyrinth-1986-1-1-ptv1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Labyrinth, 1986); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Shout! Factory TV",
+     "url": "https://watch.shout-tv.com/interstitial/669164",
+     "region": "US",
+     "verified_via": "JustWatch US (Labyrinth, 1986); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/labyrinth-1986",
+     "region": "US",
+     "verified_via": "JustWatch US (Labyrinth, 1986); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100021024",
+     "region": "US",
+     "verified_via": "JustWatch US (Labyrinth, 1986); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 407,
@@ -63944,7 +65520,16 @@ window.CATALOG = {
      "s": "Felicia Alden is put under a malicious spell engineered by Daryl Van Horne, leaving her vomiting cherry pits.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/688273",
+     "region": "US",
+     "verified_via": "JustWatch US (The Witches of Eastwick, 1987); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 408,
@@ -64602,7 +66187,18 @@ window.CATALOG = {
      "sources": [],
      "present": true
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=BPnsbLPybSk",
+     "region": "IN",
+     "channel": "SET India",
+     "note": "full episode 1 on the official channel",
+     "verified_via": "YouTube: \"Anamika - Episode 1 - 26th November 2012\" (SET India; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 412,
@@ -65201,7 +66797,18 @@ window.CATALOG = {
      "sources": [],
      "present": true
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=X400ruYdui0",
+     "region": "IN",
+     "channel": "Goldmines Bollywood",
+     "note": "full movie on the official channel",
+     "verified_via": "YouTube: \"Purana Mandir (1984) Full Hindi Movie | Mohnish Bahl, Puneet Issar, Aarti Gupta, Sadashiv \" (Goldmines Bollywood; year 1984 in video title/description)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 415,
@@ -65415,7 +67022,25 @@ window.CATALOG = {
      "sources": [],
      "present": true
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "ShemarooMe",
+     "url": "https://www.shemaroome.com/movies/gehrayee",
+     "region": "IN",
+     "verified_via": "JustWatch IN (Gehrayee, 1980); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=3OT_MBt1hpA",
+     "region": "IN",
+     "channel": "Shemaroo",
+     "note": "full movie on the official channel",
+     "verified_via": "YouTube: \"Gehrayee  | Amrish Puri | Padmini Kolhapure | Sriram Lagoo | Bollywood  Full Horror Movie\" (Shemaroo; year 1980 in video title/description)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 416,
@@ -67644,7 +69269,25 @@ window.CATALOG = {
      "sources": [],
      "present": true
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "ZEE5",
+     "url": "https://www.zee5.com/tvshows/details/yeh-vaada-raha/0-6-144/yeh-vaada-raha/0-1-39482",
+     "region": "IN",
+     "verified_via": "JustWatch IN (Yeh Vaada Raha, 2015); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=vhkciWLNmzM",
+     "region": "IN",
+     "channel": "Zee TV",
+     "note": "full episode on the official channel",
+     "verified_via": "YouTube: \"Survi ने किया Khushi को Save | Yeh Vaada Raha | ZEE TV\" (Zee TV; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 429,
@@ -68376,7 +70019,16 @@ window.CATALOG = {
      "confidence": "Verified",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/c004bc749dd25cf0b3a6b45bb01e35f1/the-wrong-daughter?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (The Wrong Daughter, 2018); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 434,
@@ -68937,7 +70589,16 @@ window.CATALOG = {
      "confidence": "Verified",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/9ca48d041afc5bea81965aa19545a7e3/mike-and-molly?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Mike & Molly, 2010); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 438,
@@ -69065,7 +70726,17 @@ window.CATALOG = {
      "confidence": "Verified",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/12346006",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Call the Midwife, 2012); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 439,
@@ -69882,7 +71553,16 @@ window.CATALOG = {
      "confidence": "Verified",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300020687/heroes",
+     "region": "US",
+     "verified_via": "JustWatch US (Heroes, 2006); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 446,
@@ -70136,7 +71816,30 @@ window.CATALOG = {
      "confidence": "Verified",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/a858f3ce88385dc48dff9929b26e48eb/the-next-king-of-games?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Yu-Gi-Oh! GX, 2004); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/3455/yu-gi-oh-gx",
+     "region": "US",
+     "verified_via": "JustWatch US (Yu-Gi-Oh! GX, 2004); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.98b372f6-1ac7-be8a-6bbe-4372aec1cf84",
+     "region": "US",
+     "verified_via": "JustWatch US (Yu-Gi-Oh! GX, 2004); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 448,
@@ -70554,7 +72257,31 @@ window.CATALOG = {
      "confidence": "Marginal",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/18124e73937e5d389bf647cb49a06806/the-reaping?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (The Reaping, 2007); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-13316749",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Reaping, 2007); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100045174",
+     "region": "US",
+     "verified_via": "JustWatch US (The Reaping, 2007); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 451,
@@ -70798,7 +72525,16 @@ window.CATALOG = {
      "confidence": "Marginal",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/b407cfc332d05d589d4b872c50db6f06/blink?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (CSI: NY, 2004); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 453,
@@ -71068,7 +72804,18 @@ window.CATALOG = {
      "confidence": "Scene-linked",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=7G3i36Aw4lg",
+     "region": "IN",
+     "channel": "Ultra Filmy",
+     "note": "full movie on the official channel",
+     "verified_via": "YouTube: \"Shaadi Ke Side Effects (2014) - Full Hindi Movie 4K | Farhan Akhtar, Vidya Balan, Vir Das,\" (Ultra Filmy; year 2014 in video title/description)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 455,
@@ -71240,7 +72987,18 @@ window.CATALOG = {
      "confidence": "Scene-linked",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=RQn3Z69Nw5g",
+     "region": "IN",
+     "channel": "StarPlus",
+     "note": "full episode on the official channel",
+     "verified_via": "YouTube: \"Arijit ने किया Natasha को manipulate! | Full Episode:1821 | Yeh Hai Mohabbatein\" (StarPlus; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 456,
@@ -71802,7 +73560,18 @@ window.CATALOG = {
      "confidence": "Scene-linked",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=QB9Xcv51gA8",
+     "region": "IN",
+     "channel": "StarPlus",
+     "note": "full episode 721 on the official channel",
+     "verified_via": "YouTube: \"Ishita बन गयी Shanaya! | Full Ep. 721 - 725 | Yeh Hai Mohabbatein\" (StarPlus; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 459,
@@ -72014,7 +73783,17 @@ window.CATALOG = {
      "confidence": "Variant",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/en/product/11347306",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Parasite, 2019); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 460,
@@ -72493,7 +74272,16 @@ window.CATALOG = {
      "confidence": "Strict",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.389012b5-12c1-4d5e-8760-4876cb15ccd2",
+     "region": "US",
+     "verified_via": "JustWatch US (Catherine Called Birdy, 2022); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 463,
@@ -73812,7 +75600,16 @@ window.CATALOG = {
      "confidence": "Dialogue-confirmed",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/veronica-mars/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (Veronica Mars, 2004); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 473,
@@ -75276,7 +77073,45 @@ window.CATALOG = {
      "confidence": "Variant",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/792cd43a50915ecbbca867f9a52ee686/christmas-evil?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Christmas Evil, 1980); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-13445316",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Christmas Evil, 1980); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/christmas-evil",
+     "region": "US",
+     "verified_via": "JustWatch US (Christmas Evil, 1980); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.036b8517-38a0-4615-9165-e14338e7a02a",
+     "region": "US",
+     "verified_via": "JustWatch US (Christmas Evil, 1980); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/619969",
+     "region": "US",
+     "verified_via": "JustWatch US (Christmas Evil, 1980); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 485,
@@ -75918,7 +77753,24 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/17427222",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Tomb of Ligeia, 1964); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100053034",
+     "region": "US",
+     "verified_via": "JustWatch US (The Tomb of Ligeia, 1964); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 490,
@@ -76037,7 +77889,23 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/02446ecd4bf254878184578971d780d3/edgar-allan-poes-ligeia?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (The Tomb, 2009); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-tomb-2009",
+     "region": "US",
+     "verified_via": "JustWatch US (The Tomb, 2009); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 491,
@@ -76409,7 +78277,31 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-15187540",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (What Lies Beneath, 2000); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/us/on-demand/movies/5e741e7b725522001446fe38",
+     "region": "US",
+     "verified_via": "JustWatch US (What Lies Beneath, 2000); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/312949",
+     "region": "US",
+     "verified_via": "JustWatch US (What Lies Beneath, 2000); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 494,
@@ -76833,7 +78725,16 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/725342",
+     "region": "US",
+     "verified_via": "JustWatch US (Ouanga, 1935); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 497,
@@ -77276,7 +79177,16 @@ window.CATALOG = {
      "confidence": "Close variant",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/620284",
+     "region": "US",
+     "verified_via": "JustWatch US (Kaidan, 2007); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 501,
@@ -78840,7 +80750,17 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-13784882",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Innocents, 2021); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 511,
@@ -79884,7 +81804,30 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/2d3f0b31a1d35ed19af3bfcc0322f04d/foreverware?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Eerie, Indiana, 1991); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/eerie-indiana/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (Eerie, Indiana, 1991); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300000689/eerie-indiana",
+     "region": "US",
+     "verified_via": "JustWatch US (Eerie, Indiana, 1991); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 518,
@@ -80049,7 +81992,24 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/18986310",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Doctor Who, 2005); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/442708c63ba0508f8776da13d4bfc526/rose?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Doctor Who, 2005); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 519,
@@ -80845,7 +82805,16 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.da3abebe-21e1-48dd-b22a-ad5d27081f7f",
+     "region": "IN",
+     "verified_via": "JustWatch IN (Naane Varuvean, 2022); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 525,
@@ -81127,7 +83096,17 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-13571749",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (One Missed Call, 2003); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 527,
@@ -81255,7 +83234,23 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/cathys-curse",
+     "region": "US",
+     "verified_via": "JustWatch US (Cathy's Curse, 1977); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/566168",
+     "region": "US",
+     "verified_via": "JustWatch US (Cathy's Curse, 1977); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 528,
@@ -81373,7 +83368,23 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-tag-along-2",
+     "region": "US",
+     "verified_via": "JustWatch US (The Tag-Along 2, 2017); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/449369",
+     "region": "US",
+     "verified_via": "JustWatch US (The Tag-Along 2, 2017); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 529,
@@ -81609,7 +83620,17 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-114421",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Phone, 2002); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 531,
@@ -81857,7 +83878,16 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-book-of-stone",
+     "region": "US",
+     "verified_via": "JustWatch US (The Book of Stone, 1969); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 533,
@@ -81975,7 +84005,31 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-13435998",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Tag-Along, 2015); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.cab488e5-6eaa-36a6-2dad-b877550b5423",
+     "region": "US",
+     "verified_via": "JustWatch US (The Tag-Along, 2015); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/417669",
+     "region": "US",
+     "verified_via": "JustWatch US (The Tag-Along, 2015); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 534,
@@ -82104,7 +84158,23 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.5af245ab-a1dc-4893-861b-9f361ad9a239",
+     "region": "US",
+     "verified_via": "JustWatch US (The Returned, 2012); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300015156/the-returned",
+     "region": "US",
+     "verified_via": "JustWatch US (The Returned, 2012); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 535,
@@ -83174,7 +85244,38 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.7a5c9fca-c62f-47aa-92a6-428daaea5e5b",
+     "region": "US",
+     "verified_via": "JustWatch US (Naruto, 2002); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/14728105",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Naruto, 2002); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/series/naruto-series/season/1/episode/enter-naruto-uzumaki-1-1-ptv3?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Naruto, 2002); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/1622/naruto-subtitled",
+     "region": "US",
+     "verified_via": "JustWatch US (Naruto, 2002); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 543,
@@ -83697,7 +85798,38 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/14733965",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Death Note, 2006); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/series/death-note-las/season/1/episode/renacimiento-2007-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Death Note, 2006); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.cd1b7007-3c53-436e-bafe-caf45beac504",
+     "region": "US",
+     "verified_via": "JustWatch US (Death Note, 2006); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/1630/death-note-subtitled",
+     "region": "US",
+     "verified_via": "JustWatch US (Death Note, 2006); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 547,
@@ -84117,7 +86249,23 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-unborn-1991",
+     "region": "US",
+     "verified_via": "JustWatch US (The Unborn, 1991); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/465297",
+     "region": "US",
+     "verified_via": "JustWatch US (The Unborn, 1991); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 550,
@@ -85072,7 +87220,16 @@ window.CATALOG = {
      "pregnancy_note": "Cordelia's demon pregnancy ends when Angel kills the Haxil demon and the demon babies are destroyed.",
      "provenance": "Occult-pregnancy near-miss research pass (30 Sep 2026), from the devil's-deal + pregnancy + hypnosis search: hypnosis/trance and a demonic or occult pregnancy, but the woman makes no deal; approved for the catalog by the user; not placed in devil-deal-pregnancy-hypnosis."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300019824/angel",
+     "region": "US",
+     "verified_via": "JustWatch US (Angel, 1999); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 556,
@@ -85200,7 +87357,17 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-13886016",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Shelley, 2016); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 557,
@@ -85579,7 +87746,16 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/ju-on-the-grudge-2",
+     "region": "US",
+     "verified_via": "JustWatch US (Ju-on: The Grudge 2, 2003); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 560,
@@ -86417,7 +88593,16 @@ window.CATALOG = {
      "confidence": "Partial / exclusion",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300021200/casados-con-hijos",
+     "region": "US",
+     "verified_via": "JustWatch US (Casados con hijos, 2005); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 565,
@@ -86638,7 +88823,16 @@ window.CATALOG = {
       ]
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "ZEE5",
+     "url": "https://www.zee5.com/tvshows/details/happu-ki-ultan-paltan/0-6-1330/happu-ki-ultan-paltan-episode-1-march-04-2019-full-episode/0-1-183292",
+     "region": "IN",
+     "verified_via": "JustWatch IN (Happu Ki Ultan Paltan, 2019); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 567,
@@ -89136,7 +91330,17 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/15279056",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Back-Up Plan, 2010); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 583,
@@ -90397,7 +92601,16 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300015678/this-is-us",
+     "region": "US",
+     "verified_via": "JustWatch US (This Is Us, 2016); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 592,
@@ -90526,7 +92739,39 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-5830611",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Third Wife, 2019); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/12438380",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Third Wife, 2019); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-third-wife",
+     "region": "US",
+     "verified_via": "JustWatch US (The Third Wife, 2019); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/599086",
+     "region": "US",
+     "verified_via": "JustWatch US (The Third Wife, 2019); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 593,
@@ -90645,7 +92890,31 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-5339778",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Good Manners, 2018); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/good-manners",
+     "region": "US",
+     "verified_via": "JustWatch US (Good Manners, 2018); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/699040",
+     "region": "US",
+     "verified_via": "JustWatch US (Good Manners, 2018); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 594,
@@ -90907,7 +93176,16 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/series/pasion-de-gavilanes-las/season/1/episode/amor-oculto-2003-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Pasión de Gavilanes, 2003); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 596,
@@ -91221,7 +93499,17 @@ window.CATALOG = {
       }
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-16442963",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Housemaid, 2010); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 598,
@@ -91721,7 +94009,16 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/631224",
+     "region": "US",
+     "verified_via": "JustWatch US (A Frozen Flower, 2008); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 600,
@@ -92251,7 +94548,16 @@ window.CATALOG = {
       }
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/516225",
+     "region": "US",
+     "verified_via": "JustWatch US (How to Plan an Orgy in a Small Town, 2015); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 602,
@@ -92956,7 +95262,38 @@ window.CATALOG = {
      "confidence": "Stronger case",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/11942358",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (LFO, 2013); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/lfo-2014-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (LFO, 2013); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/lfo",
+     "region": "US",
+     "verified_via": "JustWatch US (LFO, 2013); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/499572",
+     "region": "US",
+     "verified_via": "JustWatch US (LFO, 2013); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 606,
@@ -95756,7 +98093,17 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
      "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Internet Archive",
+     "url": "https://archive.org/details/trilby-1915",
+     "region": "US",
+     "note": "public domain",
+     "verified_via": "archive.org item \"Trilby (1915)\" (1915); published 1915: US public domain (pre-1931)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 624,
@@ -96620,7 +98967,18 @@ window.CATALOG = {
       ]
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=ngFG6adWpuw",
+     "region": "US",
+     "channel": "MD Entertainment",
+     "note": "full episode 6 on the official channel",
+     "verified_via": "YouTube: \"Dia Anakku - Episode 06\" (MD Entertainment; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 631,
@@ -97202,7 +99560,23 @@ window.CATALOG = {
       ]
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.c040c850-39a9-46b8-8fcf-80ffa797feec",
+     "region": "US",
+     "verified_via": "JustWatch US (The Hypnosis, 2021); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/676274",
+     "region": "US",
+     "verified_via": "JustWatch US (The Hypnosis, 2021); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 639,
@@ -97670,7 +100044,16 @@ window.CATALOG = {
       ]
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-1000-eyes-of-dr-mabuse",
+     "region": "US",
+     "verified_via": "JustWatch US (The Thousand Eyes of Dr. Mabuse, 1960); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 644,
@@ -97832,7 +100215,31 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/16804501",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Invisible Dr. Mabuse, 1962); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.b4a9f723-0951-f9e0-ec6d-25d0dbc5efe4",
+     "region": "US",
+     "verified_via": "JustWatch US (The Invisible Dr. Mabuse, 1962); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/697591",
+     "region": "US",
+     "verified_via": "JustWatch US (The Invisible Dr. Mabuse, 1962); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 645,
@@ -98047,7 +100454,17 @@ window.CATALOG = {
       ]
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-11363567",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Rasputin: The Mad Monk, 1966); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 647,
@@ -98205,7 +100622,16 @@ window.CATALOG = {
      "match_title": "The Wild Wild West — \"The Night of the Steel Assassin\"",
      "match_year": "1966"
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/us/shows/the-wild-wild-west/ ",
+     "region": "US",
+     "verified_via": "JustWatch US (The Wild Wild West, 1965); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 648,
@@ -99066,7 +101492,24 @@ window.CATALOG = {
      "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
      "match_title": "Oldboy (올드보이)"
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-14077716",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Oldboy, 2003); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/oldboy",
+     "region": "US",
+     "verified_via": "JustWatch US (Oldboy, 2003); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 654,
@@ -100258,7 +102701,24 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/17705279",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Vampyros Lesbos, 1971); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/vampyros-lesbos-1971",
+     "region": "US",
+     "verified_via": "JustWatch US (Vampyros Lesbos, 1971); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 667,
@@ -101766,7 +104226,39 @@ window.CATALOG = {
       ]
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-140187",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Augustine, 2012); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/11137637",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Augustine, 2012); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/augustine-2012",
+     "region": "US",
+     "verified_via": "JustWatch US (Augustine, 2012); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/622690",
+     "region": "US",
+     "verified_via": "JustWatch US (Augustine, 2012); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 685,
@@ -102940,7 +105432,31 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/11863999",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Yu-Gi-Oh!, 2000); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.a2a9f6fa-7394-46ed-9024-72cc528a7088",
+     "region": "US",
+     "verified_via": "JustWatch US (Yu-Gi-Oh!, 2000); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/yu-gi-oh-duel-monsters/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (Yu-Gi-Oh!, 2000); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 698,
@@ -103052,7 +105568,16 @@ window.CATALOG = {
       ]
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300017200/pokemon-the-series-xy",
+     "region": "US",
+     "verified_via": "JustWatch US (Pokémon, 1997); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 700,
@@ -104998,7 +107523,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100002766",
+     "region": "US",
+     "verified_via": "JustWatch US (The Return of Count Yorga, 1971); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 722,
@@ -105055,7 +107589,24 @@ window.CATALOG = {
       ]
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/17705312",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Kiss of the Vampire, 1963); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-kiss-of-the-vampire",
+     "region": "US",
+     "verified_via": "JustWatch US (The Kiss of the Vampire, 1963); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 723,
@@ -105211,7 +107762,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Shout! Factory TV",
+     "url": "https://watch.shout-tv.com/interstitial/601721",
+     "region": "US",
+     "verified_via": "JustWatch US (Lust for a Vampire, 1971); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/671664",
+     "region": "US",
+     "verified_via": "JustWatch US (Lust for a Vampire, 1971); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 724,
@@ -105268,7 +107835,23 @@ window.CATALOG = {
       ]
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/embrace-of-the-vampire",
+     "region": "US",
+     "verified_via": "JustWatch US (Embrace of the Vampire, 1995); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/348931",
+     "region": "US",
+     "verified_via": "JustWatch US (Embrace of the Vampire, 1995); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 725,
@@ -105334,7 +107917,30 @@ window.CATALOG = {
       ]
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/the-blood-spattered-bride-1971-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (The Blood Spattered Bride, 1972); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-blood-spattered-bride",
+     "region": "US",
+     "verified_via": "JustWatch US (The Blood Spattered Bride, 1972); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/611707",
+     "region": "US",
+     "verified_via": "JustWatch US (The Blood Spattered Bride, 1972); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 726,
@@ -105528,7 +108134,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/daughters-of-darkness",
+     "region": "US",
+     "verified_via": "JustWatch US (Daughters of Darkness, 1971); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/533888",
+     "region": "US",
+     "verified_via": "JustWatch US (Daughters of Darkness, 1971); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 727,
@@ -105585,7 +108207,23 @@ window.CATALOG = {
       ]
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/baba-yaga",
+     "region": "US",
+     "verified_via": "JustWatch US (Baba Yaga, 1973); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100053036",
+     "region": "US",
+     "verified_via": "JustWatch US (Baba Yaga, 1973); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 728,
@@ -105913,7 +108551,16 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/612826",
+     "region": "US",
+     "verified_via": "JustWatch US (The Brainiac, 1962); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 731,
@@ -106093,7 +108740,37 @@ window.CATALOG = {
       ]
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/psi-factor-chronicles-of-the-paranormal/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (Psi Factor: Chronicles of the Paranormal, 1996); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300006050/psi-factor-chronicles-of-the-paranormal",
+     "region": "US",
+     "verified_via": "JustWatch US (Psi Factor: Chronicles of the Paranormal, 1996); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/series/psi-factor-chronicles-of-the-paranormal/season/3/episode/jaunt-1998-3-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Psi Factor: Chronicles of the Paranormal, 1996); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.48aea1f8-0cd1-9abd-a2f1-584d112aacb3",
+     "region": "US",
+     "verified_via": "JustWatch US (Psi Factor: Chronicles of the Paranormal, 1996); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 734,
@@ -109608,7 +112285,23 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/a-good-lawyers-wife",
+     "region": "US",
+     "verified_via": "JustWatch US (A Good Lawyer's Wife, 2003); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100021609",
+     "region": "US",
+     "verified_via": "JustWatch US (A Good Lawyer's Wife, 2003); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 757,
@@ -109726,7 +112419,16 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300019603/empresses-in-the-palace",
+     "region": "US",
+     "verified_via": "JustWatch US (Empresses in the Palace, 2011); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 758,
@@ -110290,7 +112992,25 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-10582670",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Duchess, 2008); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/12433498",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Duchess, 2008); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 762,
@@ -111654,7 +114374,17 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-113377",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Jules and Jim, 1962); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 773,
@@ -112219,7 +114949,31 @@ window.CATALOG = {
      "pregnancy_note": "The final scene reveals Nancy is pregnant with Wilbur Whateley's child; the birth is not shown.",
      "provenance": "Occult-pregnancy near-miss research pass (30 Sep 2026), from the devil's-deal + pregnancy + hypnosis search: hypnosis/trance and a demonic or occult pregnancy, but the woman makes no deal; approved for the catalog by the user; not placed in devil-deal-pregnancy-hypnosis."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-11651869",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Dunwich Horror, 1970); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-dunwich-horror",
+     "region": "US",
+     "verified_via": "JustWatch US (The Dunwich Horror, 1970); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100011709",
+     "region": "US",
+     "verified_via": "JustWatch US (The Dunwich Horror, 1970); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 775,
@@ -112579,7 +115333,25 @@ window.CATALOG = {
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
      "pregnancy_highlight": true
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-13037735",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Ultrasound, 2022); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/16601309",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Ultrasound, 2022); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 776,
@@ -112925,7 +115697,23 @@ window.CATALOG = {
      "match_title": "Stargate SG-1",
      "match_year": "1998"
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/us/on-demand/series/6234b65ffc8de900130ab0d2/season/1",
+     "region": "US",
+     "verified_via": "JustWatch US (Stargate SG-1, 1997); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.c0a188e1-d862-4d17-9c33-766b921ab2b0",
+     "region": "US",
+     "verified_via": "JustWatch US (Stargate SG-1, 1997); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 777,
@@ -113215,7 +116003,16 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/671671",
+     "region": "US",
+     "verified_via": "JustWatch US (The Antichrist, 1974); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 778,
@@ -113463,7 +116260,16 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-devils-doorway",
+     "region": "US",
+     "verified_via": "JustWatch US (The Devil's Doorway, 2018); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 779,
@@ -115398,7 +118204,24 @@ window.CATALOG = {
      "confidence": "Variant",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/16327976",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Anything for Jackson, 2020); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100060621",
+     "region": "US",
+     "verified_via": "JustWatch US (Anything for Jackson, 2020); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 789,
@@ -116338,7 +119161,18 @@ window.CATALOG = {
      "confidence": "Verified",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=K8Ipe5DpUL4",
+     "region": "US",
+     "channel": "ABS-CBN Entertainment",
+     "note": "full episode on the official channel",
+     "verified_via": "YouTube: \"Sumbrero | Maalaala Mo Kaya | Full Episode\" (ABS-CBN Entertainment; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 795,
@@ -117780,7 +120614,16 @@ window.CATALOG = {
      "confidence": "Core",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/559822",
+     "region": "US",
+     "verified_via": "JustWatch US (Satan's Slaves, 2017); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 804,
@@ -118295,7 +121138,16 @@ window.CATALOG = {
      "confidence": "Core",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/bloody-sect",
+     "region": "US",
+     "verified_via": "JustWatch US (Bloody Sect, 1982); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 807,
@@ -120292,7 +123144,17 @@ window.CATALOG = {
       ]
      }
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-13597109",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Dick Van Dyke Show, 1961); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 829,
@@ -121098,7 +123960,54 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-13891798",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Nosferatu, 1922); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/14828829",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Nosferatu, 1922); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/nosferatu",
+     "region": "US",
+     "verified_via": "JustWatch US (Nosferatu, 1922); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.fe224b6a-e6d3-42e0-bba0-0a6732680ad4",
+     "region": "US",
+     "verified_via": "JustWatch US (Nosferatu, 1922); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100029420",
+     "region": "US",
+     "verified_via": "JustWatch US (Nosferatu, 1922); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Internet Archive",
+     "url": "https://archive.org/details/nosferatu-1922",
+     "region": "US",
+     "note": "public domain",
+     "verified_via": "archive.org item \"Nosferatu ( 1922)\" (1922); published 1922: US public domain (pre-1931)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 845,
@@ -122370,7 +125279,16 @@ window.CATALOG = {
       }
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "ZEE5",
+     "url": "https://www.zee5.com/tvshows/details/sathya/0-6-3120/sathya/0-1-manual_57dlsi60bko0",
+     "region": "IN",
+     "verified_via": "JustWatch IN (Sathya, 2019); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 865,
@@ -122525,7 +125443,25 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "ShemarooMe",
+     "url": "https://www.shemaroome.com/movies/amir-garib",
+     "region": "IN",
+     "verified_via": "JustWatch IN (Amir Garib, 1974); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=Fboj42ibzyQ",
+     "region": "IN",
+     "channel": "Shemaroo Movies",
+     "note": "full movie on the official channel",
+     "verified_via": "YouTube: \"Amir Garib (1974) - Hindi Full Movie - Dev Anand, Hema Malini, Prem Nath, Ranjeet - HD\" (Shemaroo Movies; year 1974 in video title/description)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 866,
@@ -122673,7 +125609,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Sony LIV",
+     "url": "https://www.sonyliv.com/shows/c-i-d-marathi-1700001554/bhavishyavani-1000296228",
+     "region": "IN",
+     "verified_via": "JustWatch IN (C.I.D., 1998); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 867,
@@ -123535,7 +126480,25 @@ window.CATALOG = {
       }
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "ZEE5",
+     "url": "https://www.zee5.com/tvshows/details/main-hoon-aparajita/0-6-4z5214664/aparajita-s-husband-akshay-returns-home/0-1-6z5226569",
+     "region": "IN",
+     "verified_via": "JustWatch IN (Main Hoon Aparajita, 2022); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=NGR7oFecqiw",
+     "region": "IN",
+     "channel": "Zee TV",
+     "note": "full episode 10 on the official channel",
+     "verified_via": "YouTube: \"Aparajita के घर आया Interior Designer | Main Hoon Aparajita | Full Ep 10 | Zee TV | 7 Oct \" (Zee TV; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 873,
@@ -125018,7 +127981,18 @@ window.CATALOG = {
       }
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=7gRwo8ttEYE",
+     "region": "IN",
+     "channel": "SET India",
+     "note": "full episode 20 on the official channel",
+     "verified_via": "YouTube: \"Lal Bhawan Ka Rahasya | Aami Dakini | Ep 20 | Full Episode | 18 July 2025\" (SET India; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 887,
@@ -125076,7 +128050,18 @@ window.CATALOG = {
       }
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=yvMp15SIL1s",
+     "region": "IN",
+     "channel": "StarPlus",
+     "note": "full episode on the official channel",
+     "verified_via": "YouTube: \"मिलिये Karn aur Uruvi se! | Full Episode:1 | Part 1 | Karn Sangini\" (StarPlus; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 888,
@@ -125232,7 +128217,18 @@ window.CATALOG = {
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=l2B074Hnb7E",
+     "region": "IN",
+     "channel": "Sony SAB",
+     "note": "full episode 1 on the official channel",
+     "verified_via": "YouTube: \"Tenali Rama - तेनाली रामा - Ep 1 - 11th July, 2017\" (Sony SAB; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 889,
@@ -126389,7 +129385,16 @@ window.CATALOG = {
       }
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08baac30-d260-4cd7-8199-a43200c49d4b",
+     "region": "IN",
+     "verified_via": "JustWatch IN (Mohini, 2018); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 902,
@@ -127671,7 +130676,16 @@ window.CATALOG = {
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "ZEE5",
+     "url": "https://www.zee5.com/tvshows/details/maitree/0-6-4z5266104/saransh-and-maitri-s-engagement/0-1-6z5305021",
+     "region": "IN",
+     "verified_via": "JustWatch IN (Maitree, 2023); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 914,
@@ -127729,7 +130743,18 @@ window.CATALOG = {
       }
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=9uUnKpB-lOQ",
+     "region": "IN",
+     "channel": "Sony SAB",
+     "note": "full episode 44 on the official channel",
+     "verified_via": "YouTube: \"Baalveer Returns - Ep 44 - Full Episode - 8th November, 2019\" (Sony SAB; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 915,
@@ -128032,7 +131057,18 @@ window.CATALOG = {
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=ZSt2b3zFlb8",
+     "region": "IN",
+     "channel": "Zee TV",
+     "note": "full episode 1 on the official channel",
+     "verified_via": "YouTube: \"क्या Sanjay पहुँच पायेगा अपने घर? | Brahmarakshas | Episode 1 | Zee TV\" (Zee TV; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 917,
@@ -128531,7 +131567,16 @@ window.CATALOG = {
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
      "pregnancy_highlight": true
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "ShemarooMe",
+     "url": "https://www.shemaroome.com/movies/dharam-veer",
+     "region": "IN",
+     "verified_via": "JustWatch IN (Dharam Veer, 1977); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 922,
@@ -128932,7 +131977,18 @@ window.CATALOG = {
       }
      ]
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=wUDqgxpV86I",
+     "region": "IN",
+     "channel": "Goldmines",
+     "note": "full movie on the official channel",
+     "verified_via": "YouTube: \"Tahalka (HD) - Bollywood Action Movie | Dharmendra, AmrishPuri, Naseeruddin Shah, Aditya P\" (Goldmines; year 1992 in video title/description)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 925,
@@ -129679,7 +132735,18 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=XWEMXp6FvyI",
+     "region": "IN",
+     "channel": "NH Studioz",
+     "note": "full movie on the official channel",
+     "verified_via": "YouTube: \"Kudrat ( कुदरत ) Full Movie | Raj Kumar, Hema Malini, Rajesh Khanna, Vinod Khanna | Full H\" (NH Studioz; year 1981 in video title/description)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 931,
@@ -129835,7 +132902,18 @@ window.CATALOG = {
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=K5fK3mN8WdA",
+     "region": "IN",
+     "channel": "Zee TV",
+     "note": "full episode on the official channel",
+     "verified_via": "YouTube: \"Shree - Full Ep - 59 - Shree, Hari, Kangna, Nikki, Saptarishi, Patil Bai, Naveli, Narrotam\" (Zee TV; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 932,
@@ -130675,7 +133753,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/a-taste-of-blood",
+     "region": "US",
+     "verified_via": "JustWatch US (A Taste of Blood, 1967); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 945,
@@ -130735,7 +133822,31 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/12331936",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (A Snow White Christmas, 2018); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/696108",
+     "region": "US",
+     "verified_via": "JustWatch US (A Snow White Christmas, 2018); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Amazon MX Player (free with ads)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.7ffd3f5c-3a6a-4de4-a372-be365f57e6d2",
+     "region": "US",
+     "verified_via": "JustWatch US (A Snow White Christmas, 2018); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 946,
@@ -130797,7 +133908,31 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/11107474",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (12/12/12, 2012); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/evil-born-aka-121212-2012-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (12/12/12, 2012); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/367687",
+     "region": "US",
+     "verified_via": "JustWatch US (12/12/12, 2012); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 947,
@@ -130927,7 +134062,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/696862",
+     "region": "US",
+     "verified_via": "JustWatch US (Abracadabra, 2017); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 949,
@@ -131055,7 +134199,38 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/11131313",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (30,000 Leagues Under The Sea, 2007); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/30000-leagues-under-the-sea-las-2006-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (30,000 Leagues Under The Sea, 2007); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/30000-leagues-under-the-sea",
+     "region": "US",
+     "verified_via": "JustWatch US (30,000 Leagues Under The Sea, 2007); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/367631",
+     "region": "US",
+     "verified_via": "JustWatch US (30,000 Leagues Under The Sea, 2007); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 951,
@@ -131533,7 +134708,31 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/15492153",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (2025 Armageddon, 2022); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/2025-armageddon",
+     "region": "US",
+     "verified_via": "JustWatch US (2025 Armageddon, 2022); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/718428",
+     "region": "US",
+     "verified_via": "JustWatch US (2025 Armageddon, 2022); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 958,
@@ -131661,7 +134860,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/5g-zombies",
+     "region": "US",
+     "verified_via": "JustWatch US (5G Zombies, 2020); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/622429",
+     "region": "US",
+     "verified_via": "JustWatch US (5G Zombies, 2020); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 960,
@@ -132179,7 +135394,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/407784",
+     "region": "US",
+     "verified_via": "JustWatch US (Alice, 1990); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 968,
@@ -133021,7 +136245,17 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/12369260",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (All That, 1994); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 981,
@@ -133151,7 +136385,17 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/19900692",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Ambrogio: The First Vampire, 2025); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 983,
@@ -133475,7 +136719,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/alien-presence",
+     "region": "US",
+     "verified_via": "JustWatch US (Alien Presence, 2009); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 988,
@@ -133605,7 +136858,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100024073",
+     "region": "US",
+     "verified_via": "JustWatch US (An Angel for Satan, 1966); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 990,
@@ -133797,7 +137059,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100001270",
+     "region": "US",
+     "verified_via": "JustWatch US (At the Earth's Core, 1976); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 993,
@@ -134183,7 +137454,16 @@ window.CATALOG = {
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/series/aurora-ptv3/season/1/episode/nueva-esperanza-2009-1-101?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Aurora, 2010); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 999,
@@ -134511,7 +137791,46 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-13300006",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Assassin's Bullet, 2012); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/15486201",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Assassin's Bullet, 2012); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/assassins-bullet-2012-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Assassin's Bullet, 2012); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/assassins-bullet",
+     "region": "US",
+     "verified_via": "JustWatch US (Assassin's Bullet, 2012); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/712756",
+     "region": "US",
+     "verified_via": "JustWatch US (Assassin's Bullet, 2012); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1004,
@@ -134645,7 +137964,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/us/on-demand/series/69cd8fc0a5502149b7cba7fd/season/1",
+     "region": "US",
+     "verified_via": "JustWatch US (Arrow, 2012); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1006,
@@ -135649,7 +138977,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.15229aa0-452a-4697-973b-d176d4e67767",
+     "region": "US",
+     "verified_via": "JustWatch US (Bad Channels, 1992); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/478165",
+     "region": "US",
+     "verified_via": "JustWatch US (Bad Channels, 1992); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1020,
@@ -135991,7 +139335,38 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/11505689",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Avengers Grimm, 2015); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/avengers-grimm-2015-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Avengers Grimm, 2015); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/avengers-grimm",
+     "region": "US",
+     "verified_via": "JustWatch US (Avengers Grimm, 2015); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/367663",
+     "region": "US",
+     "verified_via": "JustWatch US (Avengers Grimm, 2015); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1025,
@@ -136409,7 +139784,37 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/beastmaster/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (BeastMaster, 1999); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.46b66ac8-3070-de7a-87aa-8e118a9fe8bf",
+     "region": "US",
+     "verified_via": "JustWatch US (BeastMaster, 1999); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/2193/beastmaster",
+     "region": "US",
+     "verified_via": "JustWatch US (BeastMaster, 1999); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Amazon MX Player (free with ads)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.ddebe222-ac1e-4357-a980-4fa495da4089",
+     "region": "US",
+     "verified_via": "JustWatch US (BeastMaster, 1999); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1031,
@@ -136477,7 +139882,16 @@ window.CATALOG = {
      "pregnancy_note": "The hypnosis episode is S1 'Dark Spirit'; Catherine's pregnancy is a separate S3 arc.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Amazon MX Player (free with ads)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.eeb842c6-d0b3-2ab0-9370-6e5601320e36",
+     "region": "US",
+     "verified_via": "JustWatch US (Beauty and the Beast, 1987); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1032,
@@ -136747,7 +140161,37 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/series/being-human-na/season/1/episode/there-goes-the-neighborhood-part-i-2011-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Being Human, 2011); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/being-human-us/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (Being Human, 2011); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.5b0469d9-9a8c-42f1-b002-874261661364",
+     "region": "US",
+     "verified_via": "JustWatch US (Being Human, 2011); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300016478/being-human",
+     "region": "US",
+     "verified_via": "JustWatch US (Being Human, 2011); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1036,
@@ -137122,7 +140566,38 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/13364018",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Bit, 2019); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/bit-2020-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Bit, 2019); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.10b89956-8151-5ce3-42c8-70ab59ad9144",
+     "region": "US",
+     "verified_via": "JustWatch US (Bit, 2019); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/547078",
+     "region": "US",
+     "verified_via": "JustWatch US (Bit, 2019); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1040,
@@ -137528,7 +141003,45 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/13430050",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Bride of the Monster, 1955); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/bride-of-the-monster-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Bride of the Monster, 1955); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/bride-of-the-monster",
+     "region": "US",
+     "verified_via": "JustWatch US (Bride of the Monster, 1955); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.98b182c4-9853-1b01-2fda-0842658f423e",
+     "region": "US",
+     "verified_via": "JustWatch US (Bride of the Monster, 1955); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/571799",
+     "region": "US",
+     "verified_via": "JustWatch US (Bride of the Monster, 1955); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1046,
@@ -137664,7 +141177,24 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-11553267",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Blacula, 1972); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100011941",
+     "region": "US",
+     "verified_via": "JustWatch US (Blacula, 1972); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1048,
@@ -137732,7 +141262,31 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-13615086",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Blood for Dracula, 1974); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/blood-for-dracula",
+     "region": "US",
+     "verified_via": "JustWatch US (Blood for Dracula, 1974); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100011577",
+     "region": "US",
+     "verified_via": "JustWatch US (Blood for Dracula, 1974); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1049,
@@ -137794,7 +141348,31 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/14444223",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Bram Stoker's Van Helsing, 2021); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/bram-stokers-van-helsing",
+     "region": "US",
+     "verified_via": "JustWatch US (Bram Stoker's Van Helsing, 2021); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/635484",
+     "region": "US",
+     "verified_via": "JustWatch US (Bram Stoker's Van Helsing, 2021); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1050,
@@ -137862,7 +141440,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/bloodsucking-freaks-1976-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Blood Sucking Freaks, 1976); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1051,
@@ -137930,7 +141517,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/557470",
+     "region": "US",
+     "verified_via": "JustWatch US (Blood Tide, 1982); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1052,
@@ -138068,7 +141664,30 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Shout! Factory TV",
+     "url": "https://watch.shout-tv.com/interstitial/596630",
+     "region": "US",
+     "verified_via": "JustWatch US (Blue Eyes of the Broken Doll, 1974); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/house-of-psychotic-women",
+     "region": "US",
+     "verified_via": "JustWatch US (Blue Eyes of the Broken Doll, 1974); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/694110",
+     "region": "US",
+     "verified_via": "JustWatch US (Blue Eyes of the Broken Doll, 1974); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1054,
@@ -138350,7 +141969,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/brainjacked",
+     "region": "US",
+     "verified_via": "JustWatch US (Brainjacked, 2009); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100022529",
+     "region": "US",
+     "verified_via": "JustWatch US (Brainjacked, 2009); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1057,
@@ -138480,7 +142115,24 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/17267817",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Brain Twisters, 1991); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100015590",
+     "region": "US",
+     "verified_via": "JustWatch US (Brain Twisters, 1991); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1059,
@@ -138556,7 +142208,17 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-5913527",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Blood Feast, 1963); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1060,
@@ -138626,7 +142288,31 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/14592216",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Blood Vessel, 2020); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/blood-vessel",
+     "region": "US",
+     "verified_via": "JustWatch US (Blood Vessel, 2020); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/667222",
+     "region": "US",
+     "verified_via": "JustWatch US (Blood Vessel, 2020); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1061,
@@ -138694,7 +142380,46 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Shout! Factory TV",
+     "url": "https://watch.shout-tv.com/video/621769",
+     "region": "US",
+     "verified_via": "JustWatch US (Black Scorpion, 2001); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://www.amazon.com/gp/video/detail/0O2SA0F99PBUSHWQRQU3A2VLJC",
+     "region": "US",
+     "verified_via": "JustWatch US (Black Scorpion, 2001); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/3859/black-scorpion",
+     "region": "US",
+     "verified_via": "JustWatch US (Black Scorpion, 2001); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Amazon MX Player (free with ads)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.3eb3758f-b0bb-6146-fddd-35a84cc33b75",
+     "region": "US",
+     "verified_via": "JustWatch US (Black Scorpion, 2001); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=KJt1WnyY4ss",
+     "region": "US",
+     "channel": "Shout! Studios",
+     "note": "full episode on the official channel",
+     "verified_via": "YouTube: \"Love Burns | Black Scorpion | FULL EPISODE | Cult Superhero Crime Action\" (Shout! Studios; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1062,
@@ -139434,7 +143159,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100032859",
+     "region": "US",
+     "verified_via": "JustWatch US (Calling Dr. Death, 1943); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1073,
@@ -139948,7 +143682,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/calling-paul-temple",
+     "region": "US",
+     "verified_via": "JustWatch US (Calling Paul Temple, 1948); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100011549",
+     "region": "US",
+     "verified_via": "JustWatch US (Calling Paul Temple, 1948); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1079,
@@ -140550,7 +144300,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300017580/challenge-of-the-gobots",
+     "region": "US",
+     "verified_via": "JustWatch US (Challenge of the GoBots, 1984); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1088,
@@ -141442,7 +145201,24 @@ window.CATALOG = {
      "pregnancy_note": "Pregnancy status is not stated in the available sources.",
      "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/16087756",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Club Dead, 2015); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/685400",
+     "region": "US",
+     "verified_via": "JustWatch US (Club Dead, 2015); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1100,
@@ -141702,7 +145478,31 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/17852809",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Chinese Speaking Vampires, 2021); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.a2bc2f8f-4089-8dcd-02c1-3d3773c69104",
+     "region": "US",
+     "verified_via": "JustWatch US (Chinese Speaking Vampires, 2021); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/707527",
+     "region": "US",
+     "verified_via": "JustWatch US (Chinese Speaking Vampires, 2021); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1104,
@@ -142418,7 +146218,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/creature-of-destruction",
+     "region": "US",
+     "verified_via": "JustWatch US (Creature of Destruction, 1967); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/655355",
+     "region": "US",
+     "verified_via": "JustWatch US (Creature of Destruction, 1967); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1115,
@@ -142738,7 +146554,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-5811586",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Count Dracula, 1970); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/16732157",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Count Dracula, 1970); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/count-dracula-1970",
+     "region": "US",
+     "verified_via": "JustWatch US (Count Dracula, 1970); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/522136",
+     "region": "US",
+     "verified_via": "JustWatch US (Count Dracula, 1970); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1120,
@@ -143148,7 +146996,30 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/creepshow-2-1987",
+     "region": "US",
+     "verified_via": "JustWatch US (Creepshow 2, 1987); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.9ab74805-105d-40ca-aa56-4ad1afc63321",
+     "region": "US",
+     "verified_via": "JustWatch US (Creepshow 2, 1987); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/475895",
+     "region": "US",
+     "verified_via": "JustWatch US (Creepshow 2, 1987); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1126,
@@ -143210,7 +147081,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100048379",
+     "region": "US",
+     "verified_via": "JustWatch US (Crypt of the Vampire, 1964); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1127,
@@ -143270,7 +147150,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/curse-of-the-scarecrow",
+     "region": "US",
+     "verified_via": "JustWatch US (Curse of the Scarecrow, 2018); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1128,
@@ -143338,7 +147227,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/cry-of-the-werewolf",
+     "region": "US",
+     "verified_via": "JustWatch US (Cry of the Werewolf, 1944); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/559470",
+     "region": "US",
+     "verified_via": "JustWatch US (Cry of the Werewolf, 1944); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1129,
@@ -143466,7 +147371,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/contamination-1979-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Contamination, 1980); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/contamination",
+     "region": "US",
+     "verified_via": "JustWatch US (Contamination, 1980); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1131,
@@ -143674,7 +147595,30 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/dan-vs/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (Dan Vs., 2011); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/926/dan-vs",
+     "region": "US",
+     "verified_via": "JustWatch US (Dan Vs., 2011); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.b004ba13-faa2-4df8-a7b1-b7f632f694b5",
+     "region": "US",
+     "verified_via": "JustWatch US (Dan Vs., 2011); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1134,
@@ -143814,7 +147758,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/series/danger-5/season/1/episode/danger-5-s1-e1-i-danced-for-hitler-2012-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Danger 5, 2012); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1136,
@@ -144090,7 +148043,37 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/day-the-world-ended-1955-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Day the World Ended, 1955); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Shout! Factory TV",
+     "url": "https://watch.shout-tv.com/interstitial/611303",
+     "region": "US",
+     "verified_via": "JustWatch US (Day the World Ended, 1955); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.06b66ad4-f767-65e2-69cc-59e0355981fa",
+     "region": "US",
+     "verified_via": "JustWatch US (Day the World Ended, 1955); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/493011",
+     "region": "US",
+     "verified_via": "JustWatch US (Day the World Ended, 1955); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1140,
@@ -144236,7 +148219,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/danger-mouse-2015/season/2/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (Danger Mouse, 2015); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300001275/danger-mouse-new",
+     "region": "US",
+     "verified_via": "JustWatch US (Danger Mouse, 2015); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1142,
@@ -144374,7 +148373,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.2eb8c78c-54bc-22f8-7393-b429206454c6",
+     "region": "US",
+     "verified_via": "JustWatch US (Danger Man, 1960); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/danger-man/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (Danger Man, 1960); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1144,
@@ -144442,7 +148457,31 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/16207876",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Dark Asset, 2023); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/dark-asset",
+     "region": "US",
+     "verified_via": "JustWatch US (Dark Asset, 2023); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100020999",
+     "region": "US",
+     "verified_via": "JustWatch US (Dark Asset, 2023); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1145,
@@ -144648,7 +148687,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/cyborg-2087",
+     "region": "US",
+     "verified_via": "JustWatch US (Cyborg 2087, 1966); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1148,
@@ -144850,7 +148898,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/cyborg-cop-iii",
+     "region": "US",
+     "verified_via": "JustWatch US (Cyborg Cop III, 1995); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100047506",
+     "region": "US",
+     "verified_via": "JustWatch US (Cyborg Cop III, 1995); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1151,
@@ -145100,7 +149164,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/dark-vision",
+     "region": "US",
+     "verified_via": "JustWatch US (Dark Vision, 2015); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1155,
@@ -145224,7 +149297,17 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/17628921",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Dennis the Menace: Cruise Control, 2002); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1157,
@@ -145494,7 +149577,31 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/16804582",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Devil Doll, 1964); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.24f61485-1984-4738-8a39-56c9f0d38478",
+     "region": "US",
+     "verified_via": "JustWatch US (Devil Doll, 1964); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100006021",
+     "region": "US",
+     "verified_via": "JustWatch US (Devil Doll, 1964); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1161,
@@ -145554,7 +149661,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/4368/detective-anna",
+     "region": "US",
+     "verified_via": "JustWatch US (Detective Anna, 2016); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.aeb077e9-9011-a566-784e-142b6358557b",
+     "region": "US",
+     "verified_via": "JustWatch US (Detective Anna, 2016); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1162,
@@ -146006,7 +150129,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/654496",
+     "region": "US",
+     "verified_via": "JustWatch US (Devils of Darkness, 1965); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1169,
@@ -146196,7 +150328,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300014548/dick-tracy-returns",
+     "region": "US",
+     "verified_via": "JustWatch US (Dick Tracy, 1950); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1172,
@@ -146386,7 +150527,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100062801",
+     "region": "US",
+     "verified_via": "JustWatch US (Dracula 2000, 2000); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1175,
@@ -147565,7 +151715,38 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/13915891",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Do Not Reply, 2019); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/do-not-reply-2020-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Do Not Reply, 2019); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/do-not-reply",
+     "region": "US",
+     "verified_via": "JustWatch US (Do Not Reply, 2019); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/582104",
+     "region": "US",
+     "verified_via": "JustWatch US (Do Not Reply, 2019); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1193,
@@ -147887,7 +152068,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/series/drawn-together/season/1/episode/hot-tub-1-101?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Drawn Together, 2004); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1198,
@@ -147965,7 +152155,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/dracula-dead-and-loving-it",
+     "region": "US",
+     "verified_via": "JustWatch US (Dracula: Dead and Loving It, 1995); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1199,
@@ -148155,7 +152354,38 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/11131398",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Dracula's Curse, 2006); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/draculas-curse-2006-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Dracula's Curse, 2006); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/draculas-curse",
+     "region": "US",
+     "verified_via": "JustWatch US (Dracula's Curse, 2006); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/367683",
+     "region": "US",
+     "verified_via": "JustWatch US (Dracula's Curse, 2006); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1202,
@@ -148225,7 +152455,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/525378",
+     "region": "US",
+     "verified_via": "JustWatch US (Dracula: Reborn, 2012); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1203,
@@ -148573,7 +152812,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/dracula-prisoner-of-frankenstein",
+     "region": "US",
+     "verified_via": "JustWatch US (Dracula, Prisoner of Frankenstein, 1972); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100040021",
+     "region": "US",
+     "verified_via": "JustWatch US (Dracula, Prisoner of Frankenstein, 1972); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1208,
@@ -148635,7 +152890,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/567345",
+     "region": "US",
+     "verified_via": "JustWatch US (Dracula: A Vampyre in Beijing, 2019); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1209,
@@ -148695,7 +152959,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/dracula-lord-of-the-damned",
+     "region": "US",
+     "verified_via": "JustWatch US (Dracula, Lord of the Damned, 2011); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/540257",
+     "region": "US",
+     "verified_via": "JustWatch US (Dracula, Lord of the Damned, 2011); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1210,
@@ -149141,7 +153421,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300018697/dream-garden",
+     "region": "US",
+     "verified_via": "JustWatch US (Dream Garden, 2021); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1217,
@@ -149409,7 +153698,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300002279/electra-woman-and-dyna-girl",
+     "region": "US",
+     "verified_via": "JustWatch US (Electra Woman and Dyna Girl, 1976); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1221,
@@ -150305,7 +154603,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100045148",
+     "region": "US",
+     "verified_via": "JustWatch US (Exorcist II: The Heretic, 1977); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1235,
@@ -150431,7 +154738,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/694112",
+     "region": "US",
+     "verified_via": "JustWatch US (Fangs of the Living Dead, 1969); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1237,
@@ -150567,7 +154883,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Shout! Factory TV",
+     "url": "https://watch.shout-tv.com/interstitial/600124",
+     "region": "US",
+     "verified_via": "JustWatch US (Eyes Behind the Stars, 1978); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/502452",
+     "region": "US",
+     "verified_via": "JustWatch US (Eyes Behind the Stars, 1978); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1239,
@@ -151027,7 +155359,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/freddys-nightmares/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (Freddy's Nightmares, 1988); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1246,
@@ -151231,7 +155572,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/516371",
+     "region": "US",
+     "verified_via": "JustWatch US (Firewalker, 1986); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1249,
@@ -151489,7 +155839,24 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-12653580",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (From Beyond, 1986); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/466379",
+     "region": "US",
+     "verified_via": "JustWatch US (From Beyond, 1986); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1253,
@@ -151625,7 +155992,24 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/16804691",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Fright, 1956); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100023680",
+     "region": "US",
+     "verified_via": "JustWatch US (Fright, 1956); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1255,
@@ -151693,7 +156077,17 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/12346003",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Father Brown, 2013); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1256,
@@ -152793,7 +157187,24 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/19711181",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (G.I. Joe: Renegades, 2010); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/g-i-joe-renegades/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (G.I. Joe: Renegades, 2010); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1271,
@@ -153585,7 +157996,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.17a61e39-fe1f-491c-bcfb-75c923eb8622",
+     "region": "US",
+     "verified_via": "JustWatch US (Ghidorah, the Three-Headed Monster, 1964); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1283,
@@ -153721,7 +158141,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/series/god-mazinger/season/1/episode/ressurection-of-the-legendary-giant-1984-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (God Mazinger, 1984); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1285,
@@ -154565,7 +158994,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/ghoulies",
+     "region": "US",
+     "verified_via": "JustWatch US (Ghoulies, 1984); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1298,
@@ -154627,7 +159065,24 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/14286888",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Girl Next, 2021); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/613796",
+     "region": "US",
+     "verified_via": "JustWatch US (Girl Next, 2021); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1299,
@@ -154891,7 +159346,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300006628/hart-to-hart",
+     "region": "US",
+     "verified_via": "JustWatch US (Hart to Hart, 1979); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1303,
@@ -155091,7 +159555,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/horror-rises-from-the-tomb",
+     "region": "US",
+     "verified_via": "JustWatch US (Horror Rises from the Tomb, 1973); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/694113",
+     "region": "US",
+     "verified_via": "JustWatch US (Horror Rises from the Tomb, 1973); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1306,
@@ -155793,7 +160273,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100049128",
+     "region": "US",
+     "verified_via": "JustWatch US (Heatseeker, 1995); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1317,
@@ -156053,7 +160542,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100004327",
+     "region": "US",
+     "verified_via": "JustWatch US (Hellriser, 2017); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1321,
@@ -156259,7 +160757,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.8d2c170f-1284-43d5-b8c5-086477db7888",
+     "region": "US",
+     "verified_via": "JustWatch US (Haunters, 2010); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1324,
@@ -156755,7 +161262,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/house-of-dracula",
+     "region": "US",
+     "verified_via": "JustWatch US (House of Dracula, 1945); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1331,
@@ -156883,7 +161399,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100007436",
+     "region": "US",
+     "verified_via": "JustWatch US (I Married a Vampire, 1987); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1333,
@@ -157125,7 +161650,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/in-the-year-2889",
+     "region": "US",
+     "verified_via": "JustWatch US (In the Year 2889, 1969); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/611828",
+     "region": "US",
+     "verified_via": "JustWatch US (In the Year 2889, 1969); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1337,
@@ -157453,7 +161994,17 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/12120654",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Inspector Rex, 1994); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1342,
@@ -157523,7 +162074,18 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=OakqMw3rUWQ",
+     "region": "US",
+     "channel": "ABS-CBN Entertainment",
+     "note": "full episode 2 on the official channel",
+     "verified_via": "YouTube: \"Imortal - Episode 2\" (ABS-CBN Entertainment; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1343,
@@ -157775,7 +162337,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/466376",
+     "region": "US",
+     "verified_via": "JustWatch US (Invaders from Mars, 1986); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1347,
@@ -158563,7 +163134,24 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/14997292",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Invite Only, 2019); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/667292",
+     "region": "US",
+     "verified_via": "JustWatch US (Invite Only, 2019); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1359,
@@ -158633,7 +163221,18 @@ window.CATALOG = {
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=RkXh6RFBiqA",
+     "region": "IN",
+     "channel": "Zee TV",
+     "note": "full episode 212 on the official channel",
+     "verified_via": "YouTube: \"Sujamal ने बचाई Akbar की जान | Jodha Akbar | Full Ep. 212 | ZEE TV\" (Zee TV; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1360,
@@ -158771,7 +163370,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300019408/justice-league-unlimited",
+     "region": "US",
+     "verified_via": "JustWatch US (Justice League Unlimited, 2004); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1362,
@@ -159667,7 +164275,53 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-11203063",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (King of the Zombies, 1941); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/16804852",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (King of the Zombies, 1941); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Shout! Factory TV",
+     "url": "https://watch.shout-tv.com/interstitial/601641",
+     "region": "US",
+     "verified_via": "JustWatch US (King of the Zombies, 1941); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/king-of-the-zombies",
+     "region": "US",
+     "verified_via": "JustWatch US (King of the Zombies, 1941); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.be4c4778-fe06-48e1-9708-e42400742dee",
+     "region": "US",
+     "verified_via": "JustWatch US (King of the Zombies, 1941); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100024069",
+     "region": "US",
+     "verified_via": "JustWatch US (King of the Zombies, 1941); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1375,
@@ -160501,7 +165155,31 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/la-femme-nikita/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (La Femme Nikita, 1997); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300010102/la-femme-nikita",
+     "region": "US",
+     "verified_via": "JustWatch US (La Femme Nikita, 1997); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/17277835",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (La Femme Nikita, 1997); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1388,
@@ -160571,7 +165249,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300021868/knight-rider",
+     "region": "US",
+     "verified_via": "JustWatch US (Knight Rider, 1982); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1389,
@@ -161335,7 +166022,38 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/16426108",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Lazer Team, 2016); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/lazer-team-2016-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Lazer Team, 2016); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/lazer-team",
+     "region": "US",
+     "verified_via": "JustWatch US (Lazer Team, 2016); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100012657",
+     "region": "US",
+     "verified_via": "JustWatch US (Lazer Team, 2016); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1401,
@@ -162469,7 +167187,17 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-15032949",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Late Night with the Devil, 2024); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1419,
@@ -163413,7 +168141,30 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/mausoleum-1982-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Mausoleum, 1983); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/mausoleum",
+     "region": "US",
+     "verified_via": "JustWatch US (Mausoleum, 1983); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/540138",
+     "region": "US",
+     "verified_via": "JustWatch US (Mausoleum, 1983); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1432,
@@ -163537,7 +168288,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100016360",
+     "region": "US",
+     "verified_via": "JustWatch US (Mars Needs Women, 1968); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1434,
@@ -163675,7 +168435,32 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/madame-sin",
+     "region": "US",
+     "verified_via": "JustWatch US (Madame Sin, 1972); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/466808",
+     "region": "US",
+     "verified_via": "JustWatch US (Madame Sin, 1972); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=nbO1bRGKLD8",
+     "region": "US",
+     "channel": "Shout! Studios",
+     "note": "full movie on the official channel",
+     "verified_via": "YouTube: \"Madame Sin | FULL MOVIE | Bette Davis, Robert Wagner | CIA Secret Agent Crime Thriller\" (Shout! Studios; 1972 TV film with Bette Davis and Robert Wagner (cast matches))",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1436,
@@ -163803,7 +168588,16 @@ window.CATALOG = {
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/us/shows/mannix/",
+     "region": "US",
+     "verified_via": "JustWatch US (Mannix, 1967); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1438,
@@ -164711,7 +169505,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100002156",
+     "region": "US",
+     "verified_via": "JustWatch US (Men in Black, 1997); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1451,
@@ -164781,7 +169584,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100002157",
+     "region": "US",
+     "verified_via": "JustWatch US (Men in Black II, 2002); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1452,
@@ -165167,7 +169979,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/286445",
+     "region": "US",
+     "verified_via": "JustWatch US (Merlin and the Book of Beasts, 2009); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1458,
@@ -165365,7 +170186,17 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/11895887",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Miss Fisher's Murder Mysteries, 2012); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1461,
@@ -166155,7 +170986,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100002774",
+     "region": "US",
+     "verified_via": "JustWatch US (Murders in the Rue Morgue, 1971); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1473,
@@ -167147,7 +171987,31 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/17277853",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Nikita, 2010); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/nikita/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (Nikita, 2010); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300010081/nikita",
+     "region": "US",
+     "verified_via": "JustWatch US (Nikita, 2010); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1488,
@@ -167215,7 +172079,17 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/19742925",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Not of This Earth, 1957); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1489,
@@ -167821,7 +172695,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/nocturna-1979",
+     "region": "US",
+     "verified_via": "JustWatch US (Nocturna, 1979); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1498,
@@ -167891,7 +172774,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Amazon MX Player (free with ads)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.96f94772-bbcb-498c-8f65-3652d70a44ec",
+     "region": "US",
+     "verified_via": "JustWatch US (Nadja, 1995); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1499,
@@ -168023,7 +172915,31 @@ window.CATALOG = {
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-14632497",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (New York Ninja, 2021); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/new-york-ninja",
+     "region": "US",
+     "verified_via": "JustWatch US (New York Ninja, 2021); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100022352",
+     "region": "US",
+     "verified_via": "JustWatch US (New York Ninja, 2021); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1501,
@@ -168091,7 +173007,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/night-visions/season/1/episode/2",
+     "region": "US",
+     "verified_via": "JustWatch US (Night Visions, 2001); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300017578/night-visions",
+     "region": "US",
+     "verified_via": "JustWatch US (Night Visions, 2001); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1502,
@@ -168215,7 +173147,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100052387",
+     "region": "US",
+     "verified_via": "JustWatch US (Night of the Flesh Eaters, 2008); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1504,
@@ -168749,7 +173690,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/painkiller-jane/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (Painkiller Jane, 2007); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/985/painkiller-jane",
+     "region": "US",
+     "verified_via": "JustWatch US (Painkiller Jane, 2007); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1512,
@@ -168939,7 +173896,31 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/11276722",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Patrick, 2013); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.02b6fcdd-01ad-4ec2-9534-da7f2829e032",
+     "region": "US",
+     "verified_via": "JustWatch US (Patrick, 2013); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/415664",
+     "region": "US",
+     "verified_via": "JustWatch US (Patrick, 2013); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1515,
@@ -169011,7 +173992,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/476208",
+     "region": "US",
+     "verified_via": "JustWatch US (Parasomnia, 2008); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1516,
@@ -169081,7 +174071,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/596347",
+     "region": "US",
+     "verified_via": "JustWatch US (Pale Blood, 1990); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1517,
@@ -169831,7 +174830,17 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/10958195",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (On a Clear Day You Can See Forever, 1970); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1529,
@@ -171219,7 +176228,30 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/red-sun-rising-1994-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Red Sun Rising, 1994); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/red-sun-rising",
+     "region": "US",
+     "verified_via": "JustWatch US (Red Sun Rising, 1994); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100042840",
+     "region": "US",
+     "verified_via": "JustWatch US (Red Sun Rising, 1994); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1550,
@@ -171287,7 +176319,30 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/relic-hunter/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (Relic Hunter, 1999); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/2195/relic-hunter",
+     "region": "US",
+     "verified_via": "JustWatch US (Relic Hunter, 1999); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.9eba3361-bfd4-9d7f-10ed-1e47d285727a",
+     "region": "US",
+     "verified_via": "JustWatch US (Relic Hunter, 1999); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1551,
@@ -171559,7 +176614,17 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-11363567",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Rasputin: The Mad Monk, 1966); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1555,
@@ -171945,7 +177010,32 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.72b347ec-21a8-dd55-0a5d-2818477d56cb",
+     "region": "US",
+     "verified_via": "JustWatch US (Regresa, 2010); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/496441",
+     "region": "US",
+     "verified_via": "JustWatch US (Regresa, 2010); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=ondLQ4GVQw8",
+     "region": "US",
+     "channel": "Popcornflix",
+     "note": "full movie on the official channel",
+     "verified_via": "YouTube: \"Regresa | FULL MOVIE | 2010 | Romantic Comedy, Latino Cinema\" (Popcornflix; year 2010 in video title/description)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1561,
@@ -172255,7 +177345,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100026640",
+     "region": "US",
+     "verified_via": "JustWatch US (Psychosis, 2024); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1566,
@@ -172445,7 +177544,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100001030",
+     "region": "US",
+     "verified_via": "JustWatch US (Revenge of the Ninja, 1983); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1569,
@@ -172577,7 +177685,31 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/sanctuary/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (Sanctuary, 2008); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300008835/sanctuary",
+     "region": "US",
+     "verified_via": "JustWatch US (Sanctuary, 2008); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/14592628",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Sanctuary, 2008); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1571,
@@ -172835,7 +177967,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/series/roswell-conspiracies-aliens-myths-and-legends/season/1/episode/the-bait-part-1-1998-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Roswell Conspiracies: Aliens, Myths & Legends, 1999); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1575,
@@ -173543,7 +178684,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100010897",
+     "region": "US",
+     "verified_via": "JustWatch US (Scream Blacula Scream, 1973); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1586,
@@ -173957,7 +179107,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/scanners-iii-the-takeover",
+     "region": "US",
+     "verified_via": "JustWatch US (Scanners III: The Takeover, 1992); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/255772",
+     "region": "US",
+     "verified_via": "JustWatch US (Scanners III: The Takeover, 1992); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1592,
@@ -174149,7 +179315,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/shadow-warriors/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (Shadow Warriors, 1980); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300009302/shadow-warriors",
+     "region": "US",
+     "verified_via": "JustWatch US (Shadow Warriors, 1980); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1595,
@@ -174345,7 +179527,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/series/shaman-king-ptv1/season/1/episode/los-fantasmas-y-el-misterioso-joven-2001-1-1-ptv1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Shaman King, 2001); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/4875/shaman-king-espa-ol",
+     "region": "US",
+     "verified_via": "JustWatch US (Shaman King, 2001); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1598,
@@ -174465,7 +179663,24 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/11177151",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Silent Retreat, 2013); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/silent-retreat-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Silent Retreat, 2013); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1600,
@@ -174533,7 +179748,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/711900",
+     "region": "US",
+     "verified_via": "JustWatch US (Sinbad of the Seven Seas, 1989); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1601,
@@ -174791,7 +180015,16 @@ window.CATALOG = {
      "pregnancy_note": "Grace is the woman hypnotized; Danielle's pregnancy is backstory.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/sisters",
+     "region": "US",
+     "verified_via": "JustWatch US (Sisters, 1973); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1605,
@@ -174859,7 +180092,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300006872/sheena",
+     "region": "US",
+     "verified_via": "JustWatch US (Sheena, 2000); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1606,
@@ -175129,7 +180371,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/shin-ultraman-2022-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Shin Ultraman, 2022); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100030661",
+     "region": "US",
+     "verified_via": "JustWatch US (Shin Ultraman, 2022); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1610,
@@ -175571,7 +180829,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300021619/shut-eye",
+     "region": "US",
+     "verified_via": "JustWatch US (Shut Eye, 2016); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1617,
@@ -175699,7 +180966,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300009552/sheena-queen-of-the-jungle",
+     "region": "US",
+     "verified_via": "JustWatch US (Sheena: Queen of the Jungle, 1955); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1619,
@@ -175761,7 +181037,37 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/sonic-underground/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (Sonic Underground, 1999); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.5fdb0fb3-ac0e-437b-ad5e-d264559672d3",
+     "region": "US",
+     "verified_via": "JustWatch US (Sonic Underground, 1999); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/1100/sonic-underground",
+     "region": "US",
+     "verified_via": "JustWatch US (Sonic Underground, 1999); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Amazon MX Player (free with ads)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.e3d89f4a-2c94-4c2b-b71e-6f31d344109d",
+     "region": "US",
+     "verified_via": "JustWatch US (Sonic Underground, 1999); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1620,
@@ -175901,7 +181207,46 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/series/space-1999-the-complete-series/season/1/episode/breakaway-1975-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Space: 1999, 1975); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Shout! Factory TV",
+     "url": "https://watch.shout-tv.com/video/634390",
+     "region": "US",
+     "verified_via": "JustWatch US (Space: 1999, 1975); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/space-1999/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (Space: 1999, 1975); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/3253/space-1999",
+     "region": "US",
+     "verified_via": "JustWatch US (Space: 1999, 1975); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=D3392OgGyCM",
+     "region": "US",
+     "channel": "Shout! Studios",
+     "note": "full episode on the official channel",
+     "verified_via": "YouTube: \"The Full Circle | Space: 1999 | FULL EPISODE | Sci-Fi Cult Classic TV Adventure\" (Shout! Studios; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1622,
@@ -176635,7 +181980,31 @@ window.CATALOG = {
      "pregnancy_note": "Pregnancy status is not stated in the available sources.",
      "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/18538596",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Stalked by My Doctor: A Sleepwalker's Nightmare, 2019); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/stalked-by-my-doctor-a-sleepwalkers-nightmare",
+     "region": "US",
+     "verified_via": "JustWatch US (Stalked by My Doctor: A Sleepwalker's Nightmare, 2019); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100016941",
+     "region": "US",
+     "verified_via": "JustWatch US (Stalked by My Doctor: A Sleepwalker's Nightmare, 2019); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1632,
@@ -176765,7 +182134,30 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/star-knight",
+     "region": "US",
+     "verified_via": "JustWatch US (Star Knight, 1985); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.790d37ac-9f17-4aa4-a204-8c2bb9de3e56",
+     "region": "US",
+     "verified_via": "JustWatch US (Star Knight, 1985); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100057589",
+     "region": "US",
+     "verified_via": "JustWatch US (Star Knight, 1985); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1634,
@@ -177161,7 +182553,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/submerged-2005-2005-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Submerged, 2005); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/submerged",
+     "region": "US",
+     "verified_via": "JustWatch US (Submerged, 2005); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1640,
@@ -177305,7 +182713,24 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/13429801",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Superargo and the Faceless Giants, 1968); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/rifftrax-superargo-and-the-faceless-2015-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Superargo and the Faceless Giants, 1968); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1642,
@@ -178053,7 +183478,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.6694a157-693f-4382-8a85-91075ee43fb1",
+     "region": "US",
+     "verified_via": "JustWatch US (State of Consciousness, 2023); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1653,
@@ -178941,7 +184375,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300021761/tales-from-the-crypt",
+     "region": "US",
+     "verified_via": "JustWatch US (Tales from the Crypt, 1989); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1665,
@@ -179813,7 +185256,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/the-avengers/season/2/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (The Avengers, 1961); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.a89ca9ab-b7c3-4aff-a2b5-66f7af057b6d",
+     "region": "US",
+     "verified_via": "JustWatch US (The Avengers, 1961); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1678,
@@ -180209,7 +185668,24 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100011572",
+     "region": "US",
+     "verified_via": "JustWatch US (The Blancheville Monster, 1963); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Internet Archive",
+     "url": "https://archive.org/details/TheBlanchevilleMonster",
+     "region": "US",
+     "note": "public domain",
+     "verified_via": "archive.org item \"The Blancheville Monster\" (1963); Wikipedia: The film is in public domain in the United States",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1684,
@@ -180277,7 +185753,24 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-114599",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Blood Beast Terror, 1968); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-blood-beast-terror",
+     "region": "US",
+     "verified_via": "JustWatch US (The Blood Beast Terror, 1968); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1685,
@@ -180399,7 +185892,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/the-body-beneath-1970-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (The Body Beneath, 1970); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-body-beneath",
+     "region": "US",
+     "verified_via": "JustWatch US (The Body Beneath, 1970); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1687,
@@ -180467,7 +185976,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/612826",
+     "region": "US",
+     "verified_via": "JustWatch US (The Brainiac, 1962); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1688,
@@ -180731,7 +186249,45 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/11131397",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The 7 Adventures of Sinbad, 2010); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/the-7-adventures-of-sinbad-2010-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (The 7 Adventures of Sinbad, 2010); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-7-adventures-of-sinbad",
+     "region": "US",
+     "verified_via": "JustWatch US (The 7 Adventures of Sinbad, 2010); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.ceb39c94-c039-c07b-98e3-45e4e1d3353a",
+     "region": "US",
+     "verified_via": "JustWatch US (The 7 Adventures of Sinbad, 2010); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/367637",
+     "region": "US",
+     "verified_via": "JustWatch US (The 7 Adventures of Sinbad, 2010); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1692,
@@ -180799,7 +186355,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/rifftrax-the-bride-and-the-beast-2013-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (The Bride and the Beast, 1958); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1693,
@@ -180891,7 +186456,16 @@ window.CATALOG = {
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300006856/the-flintstones",
+     "region": "US",
+     "verified_via": "JustWatch US (The Flintstones, 1960); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1694,
@@ -181391,7 +186965,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300000064/the-immortal",
+     "region": "US",
+     "verified_via": "JustWatch US (The Immortal, 2000); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1701,
@@ -181601,7 +187184,37 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/series/the-greatest-american-hero-shout-factory-tv/season/1/episode/the-greatest-american-hero-s1-e1-the-greatest-american-hero-1981-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (The Greatest American Hero, 1981); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Shout! Factory TV",
+     "url": "https://watch.shout-tv.com/video/636121",
+     "region": "US",
+     "verified_via": "JustWatch US (The Greatest American Hero, 1981); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/the-greatest-american-hero/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (The Greatest American Hero, 1981); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300013652/the-greatest-american-hero",
+     "region": "US",
+     "verified_via": "JustWatch US (The Greatest American Hero, 1981); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1704,
@@ -182065,7 +187678,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100057570",
+     "region": "US",
+     "verified_via": "JustWatch US (The Doll Squad, 1973); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1711,
@@ -182583,7 +188205,17 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/13578308",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Loud House, 2016); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1719,
@@ -182719,7 +188351,38 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-15952042",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Lair of the White Worm, 1988); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-lair-of-the-white-worm",
+     "region": "US",
+     "verified_via": "JustWatch US (The Lair of the White Worm, 1988); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.18769734-a2c7-4bf5-bce6-2fad4a7d343c",
+     "region": "US",
+     "verified_via": "JustWatch US (The Lair of the White Worm, 1988); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/520269",
+     "region": "US",
+     "verified_via": "JustWatch US (The Lair of the White Worm, 1988); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1721,
@@ -183123,7 +188786,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/the-killer-eye-1999-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (The Killer Eye, 1999); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1727,
@@ -183259,7 +188931,17 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Internet Archive",
+     "url": "https://archive.org/details/the-mysterious-dr-fu-manchu_1929",
+     "region": "US",
+     "note": "public domain",
+     "verified_via": "archive.org item \"The Mysterious Dr. Fu Manchu\" (1929); published 1929: US public domain (pre-1931)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1729,
@@ -183581,7 +189263,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-knight-of-shadows-between-yin-and-yang",
+     "region": "US",
+     "verified_via": "JustWatch US (The Knight of Shadows: Between Yin and Yang, 2019); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1734,
@@ -183805,7 +189496,17 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
      "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Internet Archive",
+     "url": "https://archive.org/details/the.-magician.-1926.-dvdrip.-600-mb.h-264.-mp-4-zoetrope",
+     "region": "US",
+     "note": "public domain",
+     "verified_via": "archive.org item \"The Magician (1926)\" (1926); published 1926: US public domain (pre-1931)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1736,
@@ -183873,7 +189574,37 @@ window.CATALOG = {
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/the-little-unicorn-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (The Little Unicorn, 2002); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-little-unicorn",
+     "region": "US",
+     "verified_via": "JustWatch US (The Little Unicorn, 2002); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.38af84bd-143f-4ceb-830b-b2e2b7f1ec8b",
+     "region": "US",
+     "verified_via": "JustWatch US (The Little Unicorn, 2002); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/445667",
+     "region": "US",
+     "verified_via": "JustWatch US (The Little Unicorn, 2002); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1737,
@@ -184011,7 +189742,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300021618/the-real-ghostbusters",
+     "region": "US",
+     "verified_via": "JustWatch US (The Real Ghostbusters, 1986); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1739,
@@ -184079,7 +189819,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300010955/the-scooby-doo-show",
+     "region": "US",
+     "verified_via": "JustWatch US (The Scooby-Doo Show, 1976); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1740,
@@ -184287,7 +190036,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.af1eeed7-386e-4e1b-94e7-3c0131c9299c",
+     "region": "US",
+     "verified_via": "JustWatch US (The Pit and the Pendulum, 2009); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1743,
@@ -184359,7 +190117,61 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/en/product/11318442",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Prisoner, 1967); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/series/the-prisoner-the-complete-series/season/1/episode/arrival-1967-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (The Prisoner, 1967); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Shout! Factory TV",
+     "url": "https://watch.shout-tv.com/video/637130",
+     "region": "US",
+     "verified_via": "JustWatch US (The Prisoner, 1967); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/the-prisoner-2/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (The Prisoner, 1967); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.5ec034ec-81f6-4e5a-80f4-65a37a558f5e",
+     "region": "US",
+     "verified_via": "JustWatch US (The Prisoner, 1967); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/3254/the-prisoner",
+     "region": "US",
+     "verified_via": "JustWatch US (The Prisoner, 1967); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=fDZn1DPTOyM",
+     "region": "US",
+     "channel": "Shout! Studios",
+     "note": "full episode on the official channel",
+     "verified_via": "YouTube: \"Arrival | The Prisoner | FULL EPISODE | Patrick McGoohan | Mystery Classic TV\" (Shout! Studios; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1744,
@@ -184427,7 +190239,18 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=eIlTmsvoVW8",
+     "region": "US",
+     "channel": "Shout! Studios",
+     "note": "full movie on the official channel",
+     "verified_via": "YouTube: \"The Pumaman | FULL MOVIE | Donald Pleasence | Superhero Adventure Fantasy MST3K WTF Action\" (Shout! Studios; 1980 film with Donald Pleasence (cast matches))",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1745,
@@ -184563,7 +190386,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300018410/the-paradise",
+     "region": "US",
+     "verified_via": "JustWatch US (The Paradise, 2012); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.5aa9f689-1d01-5a46-0a44-22e6783192a6",
+     "region": "US",
+     "verified_via": "JustWatch US (The Paradise, 2012); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1747,
@@ -184633,7 +190472,24 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/10764986",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Satanic Rites of Dracula, 1973); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.adabbcd6-2d9d-4314-825a-f679b37c73de",
+     "region": "US",
+     "verified_via": "JustWatch US (The Satanic Rites of Dracula, 1973); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1748,
@@ -184891,7 +190747,17 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/18034316",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Sinister Eyes of Dr. Orloff, 1973); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1752,
@@ -185355,7 +191221,24 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/15152141",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Robot vs. The Aztec Mummy, 1958); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/672119",
+     "region": "US",
+     "verified_via": "JustWatch US (The Robot vs. The Aztec Mummy, 1958); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1759,
@@ -185477,7 +191360,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Shout! Factory TV",
+     "url": "https://watch.shout-tv.com/interstitial/611415",
+     "region": "US",
+     "verified_via": "JustWatch US (The Night of the Sorcerers, 1974); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/694119",
+     "region": "US",
+     "verified_via": "JustWatch US (The Night of the Sorcerers, 1974); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1761,
@@ -185605,7 +191504,24 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/15463927",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Seed, 2021); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100039873",
+     "region": "US",
+     "verified_via": "JustWatch US (The Seed, 2021); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1763,
@@ -186229,7 +192145,75 @@ window.CATALOG = {
      "pregnancy_note": "The pregnancies in the sources concern the cast or other characters, not the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-1195884",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Terror, 1963); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/16667915",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Terror, 1963); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/the-terror-1962-1-1-ptv2?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (The Terror, 1963); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Shout! Factory TV",
+     "url": "https://watch.shout-tv.com/interstitial/644609",
+     "region": "US",
+     "verified_via": "JustWatch US (The Terror, 1963); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-terror",
+     "region": "US",
+     "verified_via": "JustWatch US (The Terror, 1963); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.6e7de761-449a-4f9d-8502-48e2322b2a8d",
+     "region": "US",
+     "verified_via": "JustWatch US (The Terror, 1963); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/616531",
+     "region": "US",
+     "verified_via": "JustWatch US (The Terror, 1963); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Amazon MX Player (free with ads)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.0e5fca58-8437-4e90-b3fc-fdf98293cad6",
+     "region": "US",
+     "verified_via": "JustWatch US (The Terror, 1963); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Internet Archive",
+     "url": "https://archive.org/details/TheTerror",
+     "region": "US",
+     "note": "public domain",
+     "verified_via": "archive.org item \"The Terror\" (1963); Wikipedia: It is in the public domain, since there is no copyright notice in the credits",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1772,
@@ -186597,7 +192581,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/theatre-of-death",
+     "region": "US",
+     "verified_via": "JustWatch US (Theatre of Death, 1967); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100030703",
+     "region": "US",
+     "verified_via": "JustWatch US (Theatre of Death, 1967); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1777,
@@ -186667,7 +192667,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100049967",
+     "region": "US",
+     "verified_via": "JustWatch US (The Vampire and the Ballerina, 1960); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1778,
@@ -186805,7 +192814,31 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/19711140",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Transformers, 1984); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/the-transformers/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (Transformers, 1984); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/11/transformers-generation-1",
+     "region": "US",
+     "verified_via": "JustWatch US (Transformers, 1984); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1780,
@@ -187230,7 +193263,38 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-13422559",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Ward, 2010); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/the-ward-2011-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (The Ward, 2010); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-ward",
+     "region": "US",
+     "verified_via": "JustWatch US (The Ward, 2010); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100055308",
+     "region": "US",
+     "verified_via": "JustWatch US (The Ward, 2010); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1785,
@@ -187610,7 +193674,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-10457521",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Therapy for a Vampire, 2014); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/13541943",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Therapy for a Vampire, 2014); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/therapy-for-a-vampire",
+     "region": "US",
+     "verified_via": "JustWatch US (Therapy for a Vampire, 2014); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/559070",
+     "region": "US",
+     "verified_via": "JustWatch US (Therapy for a Vampire, 2014); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1791,
@@ -188010,7 +194106,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Shout! Factory TV",
+     "url": "https://watch.shout-tv.com/video/913808",
+     "region": "US",
+     "verified_via": "JustWatch US (UFO, 1970); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300001114/ufo",
+     "region": "US",
+     "verified_via": "JustWatch US (UFO, 1970); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1797,
@@ -188072,7 +194184,18 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=htYLOntRJsg",
+     "region": "IN",
+     "channel": "Sony SAB",
+     "note": "full episode 1 on the official channel",
+     "verified_via": "YouTube: \"Trideviyaan - त्रिदेवियाँ - Episode 1 - 15th November, 2016\" (Sony SAB; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1798,
@@ -188532,7 +194655,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/ultraseven/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (Ultraseven, 1967); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1805,
@@ -188670,7 +194802,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/series/ultraman-dyna-toku-stitched-version/season/1/episode/ultraman-dyna-s1-e1-a-new-light-part-1-1997-1-1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Ultraman Dyna, 1997); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1807,
@@ -188740,7 +194881,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300014377/ultraman-cosmos",
+     "region": "US",
+     "verified_via": "JustWatch US (Ultraman Cosmos, 2001); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1808,
@@ -188940,7 +195090,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300022218/virtua-fighter",
+     "region": "US",
+     "verified_via": "JustWatch US (Virtua Fighter, 1995); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1811,
@@ -189158,7 +195317,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300020698/unforgettable-moments",
+     "region": "US",
+     "verified_via": "JustWatch US (Unforgettable, 2011); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1814,
@@ -189300,7 +195468,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300006867/v-i-p",
+     "region": "US",
+     "verified_via": "JustWatch US (V.I.P., 1998); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1816,
@@ -189368,7 +195545,24 @@ window.CATALOG = {
      "pregnancy_note": "Julie is the woman controlled (conversion chamber); Robin, who is pregnant, is a different character.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/13582065",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (V: The Final Battle, 1984); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/v-the-final-battle/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (V: The Final Battle, 1984); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1817,
@@ -189895,7 +196089,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/712244",
+     "region": "US",
+     "verified_via": "JustWatch US (Vampires on Bikini Beach, 1988); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1824,
@@ -189971,7 +196174,38 @@ window.CATALOG = {
      "pregnancy_note": "The nightclub woman Goody hypnotizes is not pregnant. Stacy, who resists Ciccerus's hypnosis, later becomes pregnant (near miss).",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Kanopy",
+     "url": "https://www.kanopy.com/product/justwatch-11455076",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Vamps, 2012); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/vamps",
+     "region": "US",
+     "verified_via": "JustWatch US (Vamps, 2012); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.4dd8050e-6a16-4d41-9fbc-a10fbd15b6c7",
+     "region": "US",
+     "verified_via": "JustWatch US (Vamps, 2012); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/447819",
+     "region": "US",
+     "verified_via": "JustWatch US (Vamps, 2012); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1825,
@@ -190039,7 +196273,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300017717/v",
+     "region": "US",
+     "verified_via": "JustWatch US (V, 2009); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1826,
@@ -190103,7 +196346,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/under-the-knife-2018",
+     "region": "US",
+     "verified_via": "JustWatch US (Under the Knife, 2018); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/633162",
+     "region": "US",
+     "verified_via": "JustWatch US (Under the Knife, 2018); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1827,
@@ -190173,7 +196432,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100047124",
+     "region": "US",
+     "verified_via": "JustWatch US (Vlad, 2004); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1828,
@@ -190243,7 +196511,16 @@ window.CATALOG = {
      "pregnancy_note": "The pregnancies in the sources concern the cast or other characters, not the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300001300/van-helsing",
+     "region": "US",
+     "verified_via": "JustWatch US (Van Helsing, 2016); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1829,
@@ -190509,7 +196786,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/507602",
+     "region": "US",
+     "verified_via": "JustWatch US (Vampire Academy, 2014); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1833,
@@ -190577,7 +196863,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.ea6baf1a-1ce4-413e-bec0-232ff1db2e1e",
+     "region": "US",
+     "verified_via": "JustWatch US (Vampire Dog, 2012); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100048567",
+     "region": "US",
+     "verified_via": "JustWatch US (Vampire Dog, 2012); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1834,
@@ -191065,7 +197367,37 @@ window.CATALOG = {
      "pregnancy_note": "Pregnancy status is not stated in the available sources.",
      "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Shout! Factory TV",
+     "url": "https://watch.shout-tv.com/interstitial/611988",
+     "region": "US",
+     "verified_via": "JustWatch US (Wizards of the Lost Kingdom, 1985); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/wizards-of-the-lost-kingdom",
+     "region": "US",
+     "verified_via": "JustWatch US (Wizards of the Lost Kingdom, 1985); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.02b71d7a-65dc-0b5a-cec7-b56770e94f49",
+     "region": "US",
+     "verified_via": "JustWatch US (Wizards of the Lost Kingdom, 1985); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/466918",
+     "region": "US",
+     "verified_via": "JustWatch US (Wizards of the Lost Kingdom, 1985); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1840,
@@ -191395,7 +197727,30 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/waxwork",
+     "region": "US",
+     "verified_via": "JustWatch US (Waxwork, 1988); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.a0cf645b-009c-41c1-8dda-6fb15636ff23",
+     "region": "US",
+     "verified_via": "JustWatch US (Waxwork, 1988); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/302509",
+     "region": "US",
+     "verified_via": "JustWatch US (Waxwork, 1988); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1845,
@@ -191457,7 +197812,23 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/way-of-the-vampire",
+     "region": "US",
+     "verified_via": "JustWatch US (Way of the Vampire, 2005); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/553056",
+     "region": "US",
+     "verified_via": "JustWatch US (Way of the Vampire, 2005); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1846,
@@ -191519,7 +197890,38 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/11539015",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Weaponized, 2016); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/weaponized",
+     "region": "US",
+     "verified_via": "JustWatch US (Weaponized, 2016); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.96a9f7a1-f66b-287a-4f6e-ec33d0c072b3",
+     "region": "US",
+     "verified_via": "JustWatch US (Weaponized, 2016); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/326989",
+     "region": "US",
+     "verified_via": "JustWatch US (Weaponized, 2016); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1847,
@@ -191647,7 +198049,39 @@ window.CATALOG = {
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/series/z-nation-ptv7/season/1/episode/puppies-and-kittens-2014-1-1-ptv1?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Z Nation, 2014); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/show/z-nation/season/1/episode/1",
+     "region": "US",
+     "verified_via": "JustWatch US (Z Nation, 2014); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300013019/z-nation-doblado",
+     "region": "US",
+     "verified_via": "JustWatch US (Z Nation, 2014); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "YouTube",
+     "url": "https://www.youtube.com/watch?v=4xbrRMK3t58",
+     "region": "US",
+     "channel": "FilmRise Television",
+     "note": "full episode on the official channel",
+     "verified_via": "YouTube: \"When A Utopia Turns Dangerous | Sisters of Mercy | Z Nation\" (FilmRise Television; official network channel; series title matches)",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1849,
@@ -192053,7 +198487,16 @@ window.CATALOG = {
      "pregnancy_note": "Pregnancy status is not stated in the available sources.",
      "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100016379",
+     "region": "US",
+     "verified_via": "JustWatch US (You Shouldn't Have Let Me In, 2024); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1854,
@@ -192191,7 +198634,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): TV Tropes hypnosis trope pages, Wikipedia 'Films about hypnosis' and targeted web searches."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/series/300006870/the-flying-nun",
+     "region": "US",
+     "verified_via": "JustWatch US (The Flying Nun, 1967); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1856,
@@ -192329,7 +198781,31 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): TV Tropes hypnosis trope pages, Wikipedia 'Films about hypnosis' and targeted web searches."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/17427216",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (The Monster Maker, 1944); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-monster-maker",
+     "region": "US",
+     "verified_via": "JustWatch US (The Monster Maker, 1944); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/536857",
+     "region": "US",
+     "verified_via": "JustWatch US (The Monster Maker, 1944); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1858,
@@ -192405,7 +198881,31 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): TV Tropes hypnosis trope pages, Wikipedia 'Films about hypnosis' and targeted web searches."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/13430097",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Jack the Giant Killer, 1962); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/jack-the-giant-killer",
+     "region": "US",
+     "verified_via": "JustWatch US (Jack the Giant Killer, 1962); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/579645",
+     "region": "US",
+     "verified_via": "JustWatch US (Jack the Giant Killer, 1962); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1859,
@@ -192735,7 +199235,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): TV Tropes hypnosis trope pages, Wikipedia 'Films about hypnosis' and targeted web searches."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/the-devonsville-terror",
+     "region": "US",
+     "verified_via": "JustWatch US (The Devonsville Terror, 1983); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1864,
@@ -192915,7 +199424,16 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): TV Tropes hypnosis trope pages, Wikipedia 'Films about hypnosis' and targeted web searches."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/operation-kid-brother-5-8-ptv4?utm_medium=deeplink",
+     "region": "US",
+     "verified_via": "JustWatch US (Operation Kid Brother, 1967); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1867,
@@ -193651,7 +200169,16 @@ window.CATALOG = {
      "pregnancy_note": "Pregnancy status is not stated in the available sources.",
      "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/billy-the-kid-versus-dracula",
+     "region": "US",
+     "verified_via": "JustWatch US (Billy the Kid Versus Dracula, 1966); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1878,
@@ -193713,7 +200240,31 @@ window.CATALOG = {
      "pregnancy_note": "Pregnancy status is not stated in the available sources.",
      "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
     }
-   }
+   },
+   "watch_links": [
+    {
+     "service": "Hoopla",
+     "url": "https://www.hoopladigital.com/title/19861021",
+     "region": "US",
+     "note": "needs a library card",
+     "verified_via": "JustWatch US (Isle of the Snake People, 1971); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Plex (free)",
+     "url": "https://watch.plex.tv/movie/isle-of-the-snake-people",
+     "region": "US",
+     "verified_via": "JustWatch US (Isle of the Snake People, 1971); landing page checked",
+     "checked": "2026-09-30"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/11558",
+     "region": "US",
+     "verified_via": "JustWatch US (Isle of the Snake People, 1971); landing page checked",
+     "checked": "2026-09-30"
+    }
+   ]
   },
   {
    "id": 1879,
@@ -220172,5 +226723,6 @@ window.CATALOG = {
    }
   }
  ],
- "unplaced_entry_ids": []
+ "unplaced_entry_ids": [],
+ "watch_links_count": 409
 };

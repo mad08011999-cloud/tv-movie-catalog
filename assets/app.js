@@ -6,7 +6,7 @@
   const catLabel = Object.fromEntries(D.categories.map(c => [c.key, c.label]));
   const legendLabel = Object.fromEntries(D.categories.map(c => [c.key, c.legend_label || c.label]));
   const PAGE = 120;
-  let state = {q:'', cat:'all', fmt:'all', src:'all', tag:'all', yr:'all', ymin:'', ymax:'', view:'grid', limit:PAGE};
+  let state = {q:'', cat:'all', fmt:'all', src:'all', tag:'all', yr:'all', ymin:'', ymax:'', free:false, view:'grid', limit:PAGE};
 
   // A-Z ordering (done at render time so it survives every sync): accents folded, case-insensitive,
   // leading punctuation and a leading 'The' / 'A' / 'An' ignored; year is the tiebreaker
@@ -58,7 +58,7 @@
 
   // search index
   D.entries.forEach(e => {
-    e._hay = [e.title, e.subtitle, e.year, e.meta, e.summary, e.character, e.mechanism, e.confidence_flag, e.note, e.provenance, e.pregnancy_outcome, e.pregnancy_note, e.pregnant_has_children, ...(e.tags || []).map(t => 'tag:' + t + ' ' + t), ...(e.episodes || []).map(x => [x.episode, x.air_date, x.gist].join(' ')),
+    e._hay = [e.title, e.subtitle, e.year, e.meta, e.summary, e.character, e.mechanism, e.confidence_flag, e.note, e.provenance, e.pregnancy_outcome, e.pregnancy_note, e.pregnant_has_children, ...(e.watch_links || []).map(l => [l.service, l.channel].join(' ')), ...(e.tags || []).map(t => 'tag:' + t + ' ' + t), ...(e.episodes || []).map(x => [x.episode, x.air_date, x.gist].join(' ')),
       ...e.categories.map(c => catLabel[c] || c), ...(e.merged_from || []).map(m => [m.label, m.summary, m.character, m.note].join(' '))].join(' \u0001 ').toLowerCase();
   });
   // year filter: a release period and/or an optional min-max range; records without a year only
@@ -78,9 +78,11 @@
     (state.src === 'all' || e.from_sources.includes(state.src)) &&
     (state.tag === 'all' || (e.tags || []).includes(state.tag)) &&
     (!state.q || state.q.split(/\s+/).every(t => e._hay.includes(t)));
-  const matches = e => baseMatch(e) && yearOk(e);
+  const freeOk = e => !state.free || (e.watch_links || []).length > 0;
+  const matches = e => baseMatch(e) && yearOk(e) && freeOk(e);
   function periodCounts(){   // live counts per period under the other active filters
-    const base = D.entries.filter(e => baseMatch(e) && yearOk(e, true));
+    const base = D.entries.filter(e => baseMatch(e) && yearOk(e, true) && freeOk(e));
+    $('#freeToggle').textContent = `Has free link (${D.entries.filter(e => baseMatch(e) && yearOk(e) && (e.watch_links || []).length).length})`;
     const sel = $('#period');
     sel.querySelector('option[value="all"]').textContent = `All years (${base.length})`;
     PERIODS.forEach(p => { sel.querySelector(`option[value="${p.key}"]`).textContent = `${p.label} (${base.filter(e => p.test(e._year)).length})`; });
@@ -98,6 +100,7 @@
       const key = Object.keys(catLabel).find(k => catLabel[k] === t || legendLabel[k] === t);
       return t ? `<span class="tag ${key ? esc(key) : 'flag'}">${esc(t)}</span>` : ''; }).join('') : '';
     const sources = app.sources || e.sources;
+    const watch = (e.watch_links || []).length ? `<div class="watch" aria-label="Watch free"><strong>Watch free:</strong> ${e.watch_links.map(l => `<a href="${esc(l.url)}" target="_blank" rel="noopener" title="${esc([l.verified_via, l.note].filter(Boolean).join(' · '))}">${esc(l.service)}${l.channel ? ' · ' + esc(l.channel) : ''} <span class="wregion">${esc(l.region || '')}</span>${l.note ? ` <span class="wnote">(${esc(l.note)})</span>` : ''} ↗</a>`).join('')}</div>` : '';
     const vid = e.youtube_ids[0];
     const thumb = e.thumbnail ? `<button class="thumb" type="button" data-yt="${esc(vid)}" data-title="${esc(e.title)}" aria-label="Play clip: ${esc(e.title)}"><img loading="lazy" src="${esc(e.thumbnail)}" alt=""><span class="play"><span></span></span><span class="lbl">YouTube clip</span></button>` : '';
     const ch = app.character || (e.character ? `Character: ${e.character}` : '');
@@ -126,6 +129,7 @@
       ${e.pregnant_has_children ? `<p class="entry-note"><strong>Pregnant character already has children:</strong> ${esc(e.pregnant_has_children)}</p>` : ''}
       ${(e.episodes || []).length ? `<div class="episodes"><strong>Episodes</strong><ul>${e.episodes.map(x => `<li><b>${esc(x.episode)}</b>${x.air_date ? ` <span class="epdate">(${esc(x.air_date)})</span>` : ''}${x.number_verified === false ? ' <em>episode number not verified</em>' : ''} — ${esc(x.gist)}</li>`).join('')}</ul></div>` : ''}
       ${e.pregnancy_outcome ? `<p class="entry-note"><strong>Pregnancy outcome:</strong> ${esc(e.pregnancy_outcome)}${e.pregnancy_note ? ' — ' + esc(e.pregnancy_note) : ''}</p>` : ''}
+      ${watch}
       <div class="tags">${tags || appTags}${(e.tags || []).map(t => `<button type="button" class="tag reftag" data-tag="${esc(t)}" title="Reference tag — click to filter">#${esc(t)}</button>`).join('')}</div>
       ${sources.length ? `<div class="sources" aria-label="Sources">${sources.map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)} ↗</a>`).join('')}</div>` : ''}
       ${merged}
@@ -172,20 +176,20 @@
 
   function sync(push){
     $('#category').value = state.cat; $('#format').value = state.fmt; $('#source').value = state.src; $('#tag').value = state.tag;
-    $('#period').value = state.yr;
+    $('#period').value = state.yr; $('#freeToggle').setAttribute('aria-pressed', state.free);
     ['ymin', 'ymax'].forEach(k => { const el = $('#' + k); if (document.activeElement !== el) el.value = state[k]; });   // don't clobber a year being typed
     document.querySelectorAll('.view-toggle button').forEach(b => b.setAttribute('aria-pressed', b.dataset.view === state.view));
     document.querySelectorAll('#legend button').forEach(b => b.setAttribute('aria-pressed', b.dataset.cat === state.cat));
     const p = new URLSearchParams();
     if (state.q) p.set('q', state.q); if (state.cat !== 'all') p.set('cat', state.cat);
     if (state.fmt !== 'all') p.set('fmt', state.fmt); if (state.src !== 'all') p.set('src', state.src); if (state.tag !== 'all') p.set('tag', state.tag);
-    if (state.yr !== 'all') p.set('yr', state.yr); if (state.ymin) p.set('ymin', state.ymin); if (state.ymax) p.set('ymax', state.ymax); if (state.view !== 'grid') p.set('view', state.view);
+    if (state.yr !== 'all') p.set('yr', state.yr); if (state.ymin) p.set('ymin', state.ymin); if (state.ymax) p.set('ymax', state.ymax); if (state.free) p.set('free', '1'); if (state.view !== 'grid') p.set('view', state.view);
     if (push) history.replaceState(null, '', (p.toString() ? '#' + p : location.pathname));
     render();
   }
   const init = new URLSearchParams(location.hash.slice(1));
   state.q = (init.get('q') || '').toLowerCase(); state.cat = init.get('cat') || 'all'; state.fmt = init.get('fmt') || 'all'; state.src = init.get('src') || 'all'; state.tag = init.get('tag') || 'all';
-  state.yr = periodOf[init.get('yr')] ? init.get('yr') : 'all'; state.ymin = init.get('ymin') || ''; state.ymax = init.get('ymax') || ''; state.view = init.get('view') || 'grid';
+  state.yr = periodOf[init.get('yr')] ? init.get('yr') : 'all'; state.ymin = init.get('ymin') || ''; state.ymax = init.get('ymax') || ''; state.free = init.get('free') === '1'; state.view = init.get('view') || 'grid';
   let t;
   $('#search').addEventListener('input', e => { clearTimeout(t); t = setTimeout(() => { state.q = e.target.value.trim().toLowerCase(); state.limit = PAGE; sync(true); }, 120); });
   $('#category').addEventListener('change', e => { state.cat = e.target.value; state.limit = PAGE; sync(true); });
@@ -198,6 +202,7 @@
   const yv = id => { const v = $(id).value.trim(); return /^\d{4}$/.test(v) ? v : ''; };
   ['#ymin', '#ymax'].forEach(id => $(id).addEventListener('input', () => { clearTimeout(yt); yt = setTimeout(() => {
     state.ymin = yv('#ymin'); state.ymax = yv('#ymax'); state.limit = PAGE; sync(true); }, 250); }));
+  $('#freeToggle').addEventListener('click', () => { state.free = !state.free; state.limit = PAGE; sync(true); });
   $('#yclear').addEventListener('click', () => { state.yr = 'all'; state.ymin = state.ymax = ''; state.limit = PAGE; sync(true); });
   $('#legend').addEventListener('click', e => { const b = e.target.closest('button'); if (!b) return; state.cat = state.cat === b.dataset.cat ? 'all' : b.dataset.cat; state.limit = PAGE; sync(true); $('#grid').scrollIntoView({behavior:'smooth'}); });
   document.querySelector('.view-toggle').addEventListener('click', e => { const b = e.target.closest('button'); if (!b) return; state.view = b.dataset.view; sync(true); });
