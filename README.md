@@ -7,6 +7,7 @@ A searchable static copy of the **TV and Movie Research Catalog**, merged from t
 2. Title index: <https://muse.ai/s/tv-and-movie-research-catalog-ig6qlxqxoxvcxla> (optional source; a mostly title-only re-index of the first)
 3. India-only research additions: `sources/india-catalog.json` (local, hand-curated; never scraped or overwritten by the sync). Each record names existing category keys; records matching an existing title and year (or the title in `match_title`) only add missing fields, categories and source links, and the rest become new records placed in those existing categories.
 4. Worldwide female-hypnosis research: `sources/worldwide-hypnosis.json` (local, hand-curated, same merge rules). Records also carry `pregnancy_outcome` / `pregnancy_note` (and `pregnancy_highlight` for pregnancy + hypnosis titles), which are copied onto the merged entry and shown on its card.
+5. Worldwide hypnotized-to-love research: `sources/hypnotized-love.json` (local, hand-curated, same merge rules and pregnancy fields). Women hypnotized or mesmerized into loving, falling for or marrying someone; titles already in the catalog only gain the "Hypnotized to love" category and source links, and new titles are placed in existing categories under the group "Worldwide hypnotized-to-love additions (Sep 2026)".
 
 **Live site:** https://mad08011999-cloud.github.io/tv-movie-catalog/
 

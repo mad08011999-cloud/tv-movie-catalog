@@ -46,6 +46,8 @@ SOURCES = [
      "required": False},
     {"id": "worldwide-hypnosis", "label": "Worldwide female-hypnosis research", "local": "sources/worldwide-hypnosis.json",
      "required": False},
+    {"id": "hypnotized-love", "label": "Worldwide hypnotized-to-love research", "local": "sources/hypnotized-love.json",
+     "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "

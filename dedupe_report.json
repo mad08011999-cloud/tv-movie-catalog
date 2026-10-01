@@ -3444,6 +3444,13 @@
      "subtitle": "",
      "year": "2021",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-love:7",
+     "title": "Hypnotic",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -13924,6 +13931,13 @@
      "subtitle": "",
      "year": "1915",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-love:3",
+     "title": "Trilby",
+     "subtitle": "",
+     "year": "1915",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -13940,6 +13954,13 @@
     },
     {
      "rid": "ig6qlxqxoxvcxla:17",
+     "title": "Trilby",
+     "subtitle": "",
+     "year": "1923",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-love:4",
      "title": "Trilby",
      "subtitle": "",
      "year": "1923",
@@ -14251,6 +14272,13 @@
      "subtitle": "",
      "year": "2003",
      "matched_by": "alias"
+    },
+    {
+     "rid": "hypnotized-love:9",
+     "title": "Oldboy",
+     "subtitle": "",
+     "year": "2003",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -17051,6 +17079,13 @@
      "subtitle": "",
      "year": "2018–2020",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-love:28",
+     "title": "Jijaji Chhat Per Hain",
+     "subtitle": "“The Hypnosis” · ep. 48",
+     "year": "2018",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -17635,6 +17670,106 @@
    ]
   },
   {
+   "kept_id": 1036,
+   "kept": "Beyond (2012)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:113",
+     "title": "Beyond",
+     "subtitle": "",
+     "year": "2012"
+    },
+    {
+     "rid": "hypnotized-love:27",
+     "title": "Beyond",
+     "subtitle": "“A Punk Guitarist vs a Brokenhearted Vagrant” · ep. 17",
+     "year": "2012–13",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1055,
+   "kept": "Blood of the Virgins (1967)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:134",
+     "title": "Blood of the Virgins",
+     "subtitle": "",
+     "year": "1967"
+    },
+    {
+     "rid": "hypnotized-love:14",
+     "title": "Blood of the Virgins",
+     "subtitle": "",
+     "year": "1967",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1076,
+   "kept": "Carefree (1938)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:160",
+     "title": "Carefree",
+     "subtitle": "",
+     "year": "1938"
+    },
+    {
+     "rid": "hypnotized-love:1",
+     "title": "Carefree",
+     "subtitle": "",
+     "year": "1938",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1099,
+   "kept": "Club Dead (2015)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:185",
+     "title": "Club Dead",
+     "subtitle": "",
+     "year": "2015"
+    },
+    {
+     "rid": "hypnotized-love:17",
+     "title": "Club Dead",
+     "subtitle": "",
+     "year": "2015",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1257,
+   "kept": "Flying wooden donkey (2011)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:369",
+     "title": "Flying wooden donkey",
+     "subtitle": "",
+     "year": "2011"
+    },
+    {
+     "rid": "hypnotized-love:30",
+     "title": "Flying Wooden Donkey",
+     "subtitle": "ep. 62",
+     "year": "2011",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1428,
    "kept": "M.A.N.T.I.S. (1994–1995)",
    "scope": "within-source",
@@ -17653,17 +17788,158 @@
      "matched_by": "title+year"
     }
    ]
+  },
+  {
+   "kept_id": 1631,
+   "kept": "Stalked by My Doctor: A Sleepwalker's Nightmare (2019)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:801",
+     "title": "Stalked by My Doctor: A Sleepwalker's Nightmare",
+     "subtitle": "",
+     "year": "2019"
+    },
+    {
+     "rid": "hypnotized-love:19",
+     "title": "Stalked by My Doctor: A Sleepwalker's Nightmare",
+     "subtitle": "",
+     "year": "2019",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1655,
+   "kept": "Super Models (1999)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:834",
+     "title": "Super Models",
+     "subtitle": "",
+     "year": "1999"
+    },
+    {
+     "rid": "hypnotized-love:24",
+     "title": "Super Models",
+     "subtitle": "“Smoke and Mirrors” (ep. 22) · “Mind of Models” (ep. 24)",
+     "year": "1997–99",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1735,
+   "kept": "The Magician (1926)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:929",
+     "title": "The Magician",
+     "subtitle": "",
+     "year": "1926"
+    },
+    {
+     "rid": "hypnotized-love:2",
+     "title": "The Magician",
+     "subtitle": "",
+     "year": "1926",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1781,
+   "kept": "The Thief of Baghdad (1978)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:980",
+     "title": "The Thief of Baghdad",
+     "subtitle": "",
+     "year": "1978"
+    },
+    {
+     "rid": "hypnotized-love:10",
+     "title": "The Thief of Baghdad",
+     "subtitle": "",
+     "year": "1978",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1822,
+   "kept": "Vampire at Midnight (1987)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:1028",
+     "title": "Vampire at Midnight",
+     "subtitle": "",
+     "year": "1987"
+    },
+    {
+     "rid": "hypnotized-love:16",
+     "title": "Vampire at Midnight",
+     "subtitle": "",
+     "year": "1988",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1839,
+   "kept": "Wizards of the Lost Kingdom (1985)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:1047",
+     "title": "Wizards of the Lost Kingdom",
+     "subtitle": "",
+     "year": ""
+    },
+    {
+     "rid": "hypnotized-love:12",
+     "title": "Wizards of the Lost Kingdom",
+     "subtitle": "",
+     "year": "1985",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1853,
+   "kept": "You Shouldn't Have Let Me In (2024)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:1063",
+     "title": "You Shouldn't Have Let Me In",
+     "subtitle": "",
+     "year": "2024"
+    },
+    {
+     "rid": "hypnotized-love:18",
+     "title": "You Shouldn't Have Let Me In",
+     "subtitle": "",
+     "year": "2024",
+     "matched_by": "title+year"
+    }
+   ]
   }
  ],
  "raw_counts": {
   "xla62ucxbx02u5": 855,
   "ig6qlxqxoxvcxla": 974,
   "india-catalog": 163,
-  "worldwide-hypnosis": 1085
+  "worldwide-hypnosis": 1085,
+  "hypnotized-love": 30
  },
- "entry_count_after_dedupe": 1872,
+ "entry_count_after_dedupe": 1885,
  "within_source_groups": 1,
- "cross_source_groups": 711,
+ "cross_source_groups": 723,
  "index_only_records": 38,
- "local_only_records": 1014
+ "local_only_records": 1027
 }

@@ -701,22 +701,151 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "hypnotized-love",
+   "label": "Worldwide hypnotized-to-love research",
+   "kind": "local",
+   "share_url": "sources/hypnotized-love.json",
+   "description": "Screen works worldwide in which a woman is hypnotized or mesmerized into loving, falling for or marrying someone (no possession, love potion or spell-only titles; teen/child victims excluded; plot notes non-explicit). Each record carries a pregnancy outcome for the hypnotized woman.",
+   "dropped": [
+    {
+     "title": "Svengali",
+     "year": "1931",
+     "subtitle": "",
+     "reason": "already in catalog under Hypnotized to love: Svengali (1931), entry #32"
+    },
+    {
+     "title": "Devil Doll",
+     "year": "1964",
+     "subtitle": "",
+     "reason": "already in catalog under Hypnotized to love: Devil Doll (1964)"
+    },
+    {
+     "title": "Nights of Cabiria",
+     "year": "1957",
+     "subtitle": "",
+     "reason": "already in catalog under Hypnotized to love: Nights of Cabiria (1957)"
+    },
+    {
+     "title": "A Crafty Youth",
+     "year": "1931",
+     "subtitle": "",
+     "reason": "already in catalog under Hypnotized to love: A Crafty Youth (1931)"
+    },
+    {
+     "title": "Nesf Azraa",
+     "year": "1961",
+     "subtitle": "",
+     "reason": "already in catalog under Hypnotized to love: Nesf azraa (1961)"
+    },
+    {
+     "title": "The Scanned Love",
+     "year": "Year unknown",
+     "subtitle": "",
+     "reason": "already in catalog under Hypnotized to love: The Scanned Love"
+    },
+    {
+     "title": "The Prisoner",
+     "year": "1967",
+     "subtitle": "“Checkmate” · S01E09",
+     "reason": "already in catalog under Hypnotized to love: The Prisoner (1967–1968)"
+    },
+    {
+     "title": "The Bold and the Beautiful",
+     "year": "1998",
+     "subtitle": "Pierce Peterson / Bailey hypnosis arc · ep. #2884–2908",
+     "reason": "already in catalog under Hypnotized to love: The Bold and the Beautiful (1998), Pierce/Taylor hypnosis entry"
+    },
+    {
+     "title": "Lois & Clark: The New Adventures of Superman",
+     "year": "1996",
+     "subtitle": "“Oedipus Wrecks” · S03E19",
+     "reason": "already in catalog under Hypnotized to love: Lois and Clark: The New Adventures of Superman (1993–1997 series entry)"
+    },
+    {
+     "title": "Aliens in the Family",
+     "year": "1996",
+     "subtitle": "“Dissected and Neglected” · S01E07",
+     "reason": "already in catalog under Hypnotized to love: Aliens in the Family (1996)"
+    },
+    {
+     "title": "NightMan",
+     "year": "1998",
+     "subtitle": "“Sixty Minute Man” · S02E10",
+     "reason": "already in catalog under Hypnotized to love: NightMan (1997 series entry)"
+    },
+    {
+     "title": "Port Charles",
+     "year": "2001–03",
+     "subtitle": "“Tainted Love” / “Tempted” (2001) · “Desire” (2003)",
+     "reason": "already in catalog under Hypnotized to love: Port Charles (1997–2003 series entry)"
+    },
+    {
+     "title": "Dark Shadows",
+     "year": "1991",
+     "subtitle": "Episode 11",
+     "reason": "already in catalog under Hypnotized to love: Dark Shadows (1991)"
+    },
+    {
+     "title": "Walter Melon",
+     "year": "1998",
+     "subtitle": "“Back to Melon's Blundering Future” · S01E15",
+     "reason": "already in catalog under Hypnotized to love: Walter Melon"
+    },
+    {
+     "title": "Aurora",
+     "year": "2010–11",
+     "subtitle": "“Hipnosis de amor” · ep. 59",
+     "reason": "already in catalog under Hypnotized to love: Aurora (2010)"
+    },
+    {
+     "title": "El Zorro, la espada y la rosa",
+     "year": "2007",
+     "subtitle": "ep. 93–103",
+     "reason": "already in catalog under Hypnotized to love: El Zorro, la espada y la rosa (2007)"
+    },
+    {
+     "title": "Amor mío",
+     "year": "2006–07",
+     "subtitle": "“El Hipnotista” · ep. 73",
+     "reason": "already in catalog under Hypnotized to love: Amor Mío (2006)"
+    },
+    {
+     "title": "Amor mío",
+     "year": "2005",
+     "subtitle": "“Serendipity”",
+     "reason": "already in catalog under Hypnotized to love: Amor Mío (2005)"
+    },
+    {
+     "title": "Alyas Robin Hood",
+     "year": "2016–17",
+     "subtitle": "“Pepe Meets Romulo” · S01E79",
+     "reason": "already in catalog under Hypnotized to love: Alyas Robin Hood (2016–2017)"
+    }
+   ],
+   "check": {
+    "raw_count": 30,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
   "xla62ucxbx02u5": 855,
   "ig6qlxqxoxvcxla": 974,
   "india-catalog": 163,
-  "worldwide-hypnosis": 1085
+  "worldwide-hypnosis": 1085,
+  "hypnotized-love": 30
  },
- "raw_total": 3077,
- "entry_count": 1872,
+ "raw_total": 3107,
+ "entry_count": 1885,
  "categories": [
   {
    "key": "love",
    "label": "Hypnotized to love",
    "legend_label": "Hypnotized to love",
-   "entry_count": 115
+   "entry_count": 145
   },
   {
    "key": "adult-hypnosis",
@@ -734,7 +863,7 @@ window.CATALOG = {
    "key": "cheat-control",
    "label": "Hypnotized / controlled into infidelity",
    "legend_label": "Hypnotized / controlled into infidelity",
-   "entry_count": 9
+   "entry_count": 10
   },
   {
    "key": "another-man",
@@ -752,13 +881,13 @@ window.CATALOG = {
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 25
+   "entry_count": 26
   },
   {
    "key": "partner-control",
    "label": "Female controlled by husband / boyfriend / ex-partner",
    "legend_label": "Female controlled by husband / boyfriend / ex-partner",
-   "entry_count": 25
+   "entry_count": 26
   },
   {
    "key": "partner-commissioned",
@@ -842,19 +971,19 @@ window.CATALOG = {
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 557
+   "entry_count": 560
   },
   {
    "key": "vampire",
    "label": "Vampire mesmerism",
    "legend_label": "Vampire mesmerism",
-   "entry_count": 229
+   "entry_count": 231
   },
   {
    "key": "occult",
    "label": "Demonic / occult control",
    "legend_label": "Demonic / occult control",
-   "entry_count": 36
+   "entry_count": 38
   },
   {
    "key": "spirit",
@@ -872,25 +1001,25 @@ window.CATALOG = {
    "key": "scifi",
    "label": "Sci-fi / alien / technological control",
    "legend_label": "Sci-fi / alien / technological control",
-   "entry_count": 315
+   "entry_count": 316
   },
   {
    "key": "cult",
    "label": "Cult / coercive brainwashing",
    "legend_label": "Cult / coercive brainwashing",
-   "entry_count": 14
+   "entry_count": 15
   },
   {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 79
+   "entry_count": 82
   },
   {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 175
+   "entry_count": 179
   },
   {
    "key": "crime",
@@ -902,7 +1031,7 @@ window.CATALOG = {
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 5
+   "entry_count": 8
   },
   {
    "key": "other-control",
@@ -914,7 +1043,7 @@ window.CATALOG = {
    "key": "mother",
    "label": "Mother with child hypnotized / mind-controlled",
    "legend_label": "Mother with child hypnotized / mind-controlled",
-   "entry_count": 30
+   "entry_count": 31
   },
   {
    "key": "child-controller",
@@ -25458,7 +25587,8 @@ window.CATALOG = {
     "forced-obedience",
     "adult-hypnosis",
     "index-48",
-    "medical"
+    "medical",
+    "love"
    ],
    "sources": [
     {
@@ -25482,7 +25612,8 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-love"
    ],
    "source_records": [
     "xla62ucxbx02u5:156",
@@ -25492,7 +25623,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla:213",
     "ig6qlxqxoxvcxla:284",
     "ig6qlxqxoxvcxla:881",
-    "worldwide-hypnosis:456"
+    "worldwide-hypnosis:456",
+    "hypnotized-love:7"
    ],
    "index_only": false,
    "local_only": false,
@@ -25727,6 +25859,37 @@ window.CATALOG = {
      "pregnancy_note": "Jenn had a late-term stillbirth before the story begins; Dr. Meade's hypnotherapy exploits that trauma (pregnancy-adjacent).",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-love:7",
+     "source": "hypnotized-love",
+     "label": "Hypnotic (2021)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Hypnotic",
+     "subtitle": "",
+     "year": "2021",
+     "meta": "Movie · United States · English · Netflix",
+     "summary": "Hypnotherapist Dr. Collin Meade hypnotizes his patient Jenn, implanting suggestions and memories so she will replace his dead wife; he paralyses her under trance and proposes before a counter-trigger frees her.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnotherapy / implanted memories",
+     "confidence_flag": "High confidence · web-verified",
+     "categories": [
+      "love",
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Hypnotic_(2021_film)"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "Not pregnant during the story; Jenn's earlier pregnancy ended in a stillbirth.",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -25881,6 +26044,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "Jenn had a late-term stillbirth before the story begins; Dr. Meade's hypnotherapy exploits that trauma (pregnancy-adjacent).",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnotized-love:7": {
+     "title": "Hypnotic",
+     "year": "2021",
+     "format": "movie",
+     "meta": "Movie · United States · English · Netflix",
+     "mechanism": "Hypnotherapy / implanted memories",
+     "confidence_flag": "High confidence · web-verified",
+     "summary": "Hypnotherapist Dr. Collin Meade hypnotizes his patient Jenn, implanting suggestions and memories so she will replace his dead wife; he paralyses her under trance and proposes before a counter-trigger frees her.",
+     "categories": [
+      "love",
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Hypnotic_(2021_film)"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "Not pregnant during the story; Jenn's earlier pregnancy ended in a stillbirth.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
     }
    }
   },
@@ -94388,7 +94573,9 @@ window.CATALOG = {
    "format": "movie",
    "categories": [
     "adult-hypnosis",
-    "other-control"
+    "other-control",
+    "love",
+    "human"
    ],
    "sources": [
     {
@@ -94402,18 +94589,24 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Trilby_%281915_film%29"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Trilby_(1915_film)"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-love"
    ],
    "source_records": [
     "xla62ucxbx02u5:656",
     "ig6qlxqxoxvcxla:16",
-    "worldwide-hypnosis:1013"
+    "worldwide-hypnosis:1013",
+    "hypnotized-love:3"
    ],
    "index_only": false,
    "local_only": false,
@@ -94508,6 +94701,37 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-love:3",
+     "source": "hypnotized-love",
+     "label": "Trilby (1915)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Trilby",
+     "subtitle": "",
+     "year": "1915",
+     "meta": "Silent movie · United States",
+     "summary": "Mesmerist Svengali, obsessed with having Trilby for himself, kidnaps her via hypnotism on the night Little Billee is to propose and takes her away with him.",
+     "character": "",
+     "note": "",
+     "mechanism": "Mesmerism",
+     "confidence_flag": "Strong · web-verified · Svengali/Trilby adaptation",
+     "categories": [
+      "love",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Trilby_(1915_film)"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -94575,6 +94799,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnotized-love:3": {
+     "title": "Trilby",
+     "year": "1915",
+     "format": "movie",
+     "meta": "Silent movie · United States",
+     "mechanism": "Mesmerism",
+     "confidence_flag": "Strong · web-verified · Svengali/Trilby adaptation",
+     "summary": "Mesmerist Svengali, obsessed with having Trilby for himself, kidnaps her via hypnotism on the night Little Billee is to propose and takes her away with him.",
+     "categories": [
+      "love",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Trilby_(1915_film)"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
     }
    }
   },
@@ -94588,11 +94834,15 @@ window.CATALOG = {
    "confidence_flag": "High confidence",
    "summary": "Svengali hypnotizes Andrée Lafayette's Trilby; silent-era adaptation of du Maurier's novel.",
    "character": "",
-   "provenance": "",
+   "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
    "note": "",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
    "format": "movie",
    "categories": [
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "love",
+    "human"
    ],
    "sources": [
     {
@@ -94603,11 +94853,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "hypnotized-love"
    ],
    "source_records": [
     "xla62ucxbx02u5:657",
-    "ig6qlxqxoxvcxla:17"
+    "ig6qlxqxoxvcxla:17",
+    "hypnotized-love:4"
    ],
    "index_only": false,
    "local_only": false,
@@ -94668,6 +94920,37 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Trilby",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-love:4",
+     "source": "hypnotized-love",
+     "label": "Trilby (1923)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Trilby",
+     "subtitle": "",
+     "year": "1923",
+     "meta": "Silent movie · United States",
+     "summary": "After Little Billee proposes, Svengali kidnaps Trilby and mesmerizes her; he can erase her will and make her do anything but cannot make her love him, and tours Europe with her as his singer.",
+     "character": "",
+     "note": "",
+     "mechanism": "Mesmerism",
+     "confidence_flag": "Borderline · web-verified · control without love",
+     "categories": [
+      "love",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Trilby_(1923_film)"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -94710,6 +94993,28 @@ window.CATALOG = {
        }
       ]
      }
+    },
+    "hypnotized-love:4": {
+     "title": "Trilby",
+     "year": "1923",
+     "format": "movie",
+     "meta": "Silent movie · United States",
+     "mechanism": "Mesmerism",
+     "confidence_flag": "Borderline · web-verified · control without love",
+     "summary": "After Little Billee proposes, Svengali kidnaps Trilby and mesmerizes her; he can erase her will and make her do anything but cannot make her love him, and tours Europe with her as his singer.",
+     "categories": [
+      "love",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Trilby_(1923_film)"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
     }
    }
   },
@@ -97616,7 +97921,8 @@ window.CATALOG = {
    "format": "movie",
    "categories": [
     "adult-hypnosis",
-    "human"
+    "human",
+    "love"
    ],
    "sources": [
     {
@@ -97630,16 +97936,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Oldboy_%282003_film%29"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Oldboy_(2003_film)"
+    },
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Oldboy_(2003_film)"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-love"
    ],
    "source_records": [
     "xla62ucxbx02u5:686",
-    "worldwide-hypnosis:666"
+    "worldwide-hypnosis:666",
+    "hypnotized-love:9"
    ],
    "index_only": false,
    "local_only": false,
@@ -97706,6 +98022,42 @@ window.CATALOG = {
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "distinct_story": true,
      "matched_by": "alias"
+    },
+    {
+     "rid": "hypnotized-love:9",
+     "source": "hypnotized-love",
+     "label": "Oldboy (2003)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "Oldboy",
+     "subtitle": "",
+     "year": "2003",
+     "meta": "Movie · South Korea · Korean · original title: 올드보이",
+     "summary": "Lee Woo-jin has a hypnotist arrange the meeting and love affair between Oh Dae-su and the young chef Mi-do, who is secretly Dae-su's daughter; the induced romance is the film's central revenge twist.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis orchestrated by the antagonist",
+     "confidence_flag": "High confidence · web-verified",
+     "categories": [
+      "love",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Oldboy_(2003_film)"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Oldboy_(2003_film)"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -97752,6 +98104,33 @@ window.CATALOG = {
      "pregnancy_outcome": "unknown",
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnotized-love:9": {
+     "title": "Oldboy",
+     "year": "2003",
+     "format": "movie",
+     "meta": "Movie · South Korea · Korean · original title: 올드보이",
+     "mechanism": "Hypnosis orchestrated by the antagonist",
+     "confidence_flag": "High confidence · web-verified",
+     "summary": "Lee Woo-jin has a hypnotist arrange the meeting and love affair between Oh Dae-su and the young chef Mi-do, who is secretly Dae-su's daughter; the induced romance is the film's central revenge twist.",
+     "categories": [
+      "love",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Oldboy_(2003_film)"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Oldboy_(2003_film)"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
+     "match_title": "Oldboy (올드보이)"
     }
    }
   },
@@ -121907,7 +122286,8 @@ window.CATALOG = {
    "categories": [
     "human",
     "india-control",
-    "other-control"
+    "other-control",
+    "love"
    ],
    "sources": [
     {
@@ -121922,11 +122302,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "india-catalog",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-love"
    ],
    "source_records": [
     "india-catalog:16",
-    "worldwide-hypnosis:483"
+    "worldwide-hypnosis:483",
+    "hypnotized-love:28"
    ],
    "index_only": false,
    "local_only": true,
@@ -121994,6 +122376,38 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-love:28",
+     "source": "hypnotized-love",
+     "label": "Jijaji Chhat Per Hain · “The Hypnosis” · ep. 48 (2018)",
+     "identifiers": [
+      "subtitle",
+      "year/date"
+     ],
+     "title": "Jijaji Chhat Per Hain",
+     "subtitle": "“The Hypnosis” · ep. 48",
+     "year": "2018",
+     "meta": "TV serial · India · Hindi · Sony SAB",
+     "summary": "Elaichi tries to hypnotize Pancham to make him do what she wants, but the attempt backfires and she is the one left believing she is his wife.",
+     "character": "",
+     "note": "",
+     "mechanism": "Backfired hypnosis attempt",
+     "confidence_flag": "Medium · single fan-wiki source · comedy",
+     "categories": [
+      "love",
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Jijaji_Chhat_Per_Hain"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -122042,6 +122456,29 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnotized-love:28": {
+     "title": "Jijaji Chhat Per Hain",
+     "subtitle": "“The Hypnosis” · ep. 48",
+     "year": "2018",
+     "format": "tv",
+     "meta": "TV serial · India · Hindi · Sony SAB",
+     "mechanism": "Backfired hypnosis attempt",
+     "confidence_flag": "Medium · single fan-wiki source · comedy",
+     "summary": "Elaichi tries to hypnotize Pancham to make him do what she wants, but the attempt backfires and she is the one left believing she is his wife.",
+     "categories": [
+      "love",
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Jijaji_Chhat_Per_Hain"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
     }
    }
   },
@@ -135335,7 +135772,8 @@ window.CATALOG = {
    "categories": [
     "scifi",
     "medical",
-    "fantasy"
+    "fantasy",
+    "love"
    ],
    "sources": [
     {
@@ -135345,20 +135783,93 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Beyond"
+    },
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Beyond_(2012_Singaporean_TV_series)"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-love"
    ],
    "source_records": [
-    "worldwide-hypnosis:113"
+    "worldwide-hypnosis:113",
+    "hypnotized-love:27"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:113",
+    "source": "worldwide-hypnosis",
+    "label": "Beyond (2012)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Beyond",
+    "subtitle": "",
+    "year": "2012",
+    "meta": "TV series · Singapore",
+    "summary": "Welcome to the realm of the unexplained, where things are not exactly what they seem and where one can get sucked into an alternative reality or a different dimension. Scene notes: the hypnotized woman declare eternal love to Wenbin. / Wenbin snaps Zhiqqing out of the trance, and she panics. / She tries to escape bin Wenbin put her into his spell again.",
+    "character": "",
+    "note": "",
+    "mechanism": "Technological hypnosis (device, screen or signal)",
+    "confidence_flag": "Medium · fan-wiki scene log; title/year confirmed on Wikipedia",
+    "categories": [
+     "scifi",
+     "medical",
+     "fantasy"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Beyond_%282012_Singaporean_TV_series%29"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Beyond"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnotized-love:27",
+     "source": "hypnotized-love",
+     "label": "Beyond · “A Punk Guitarist vs a Brokenhearted Vagrant” · ep. 17 (2012–13)",
+     "identifiers": [
+      "subtitle",
+      "year/date"
+     ],
+     "title": "Beyond",
+     "subtitle": "“A Punk Guitarist vs a Brokenhearted Vagrant” · ep. 17",
+     "year": "2012–13",
+     "meta": "TV serial · Singapore · Mandarin · MediaCorp Channel 8 · original title: X元素",
+     "summary": "Wenbin discovers he can control people with his music; he mesmerizes Zhiqing, who declares eternal love to him and walks into a church to marry him.",
+     "character": "",
+     "note": "",
+     "mechanism": "Supernatural musical mesmerism",
+     "confidence_flag": "Medium · single fan-wiki source",
+     "categories": [
+      "love",
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Beyond_(2012_Singaporean_TV_series)"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "distinct_story": true,
+     "matched_by": "title+year"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:113": {
      "title": "Beyond",
@@ -135386,6 +135897,29 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnotized-love:27": {
+     "title": "Beyond",
+     "subtitle": "“A Punk Guitarist vs a Brokenhearted Vagrant” · ep. 17",
+     "year": "2012–13",
+     "format": "tv",
+     "meta": "TV serial · Singapore · Mandarin · MediaCorp Channel 8 · original title: X元素",
+     "mechanism": "Supernatural musical mesmerism",
+     "confidence_flag": "Medium · single fan-wiki source",
+     "summary": "Wenbin discovers he can control people with his music; he mesmerizes Zhiqing, who declares eternal love to him and walks into a church to marry him.",
+     "categories": [
+      "love",
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Beyond_(2012_Singaporean_TV_series)"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
     }
    }
   },
@@ -136618,7 +137152,8 @@ window.CATALOG = {
    "format": "movie",
    "categories": [
     "vampire",
-    "human"
+    "human",
+    "love"
    ],
    "sources": [
     {
@@ -136632,16 +137167,83 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-love"
    ],
    "source_records": [
-    "worldwide-hypnosis:134"
+    "worldwide-hypnosis:134",
+    "hypnotized-love:14"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:134",
+    "source": "worldwide-hypnosis",
+    "label": "Blood of the Virgins (1967)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Blood of the Virgins",
+    "subtitle": "",
+    "year": "1967",
+    "meta": "Film · Spain · Spanish",
+    "summary": "Ofelia's wedding day is approaching and she is to be married to Eduardo. She has some pre-wedding jitters during a meeting with her lover Gustavo but decides to tie the knot anyway. Scene notes: Ofelia falls into a hypnotic sleep, and Gustavo bites her.",
+    "character": "",
+    "note": "",
+    "mechanism": "Vampiric mesmerism / hypnotic gaze",
+    "confidence_flag": "Medium · fan-wiki scene log; title/year confirmed on Wikipedia",
+    "categories": [
+     "vampire",
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Blood_of_the_Virgins"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Blood_of_the_Virgins"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnotized-love:14",
+     "source": "hypnotized-love",
+     "label": "Blood of the Virgins (1967)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Blood of the Virgins",
+     "subtitle": "",
+     "year": "1967",
+     "meta": "Movie · Argentina · Spanish · original title: Sangre de vírgenes",
+     "summary": "On Ofelia's wedding night her lover Gustavo kills her new husband Eduardo, hypnotizes her and turns her into a vampire so they can be together forever.",
+     "character": "",
+     "note": "",
+     "mechanism": "Vampiric hypnosis",
+     "confidence_flag": "Medium · single fan-wiki source",
+     "categories": [
+      "love",
+      "vampire"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Blood_of_the_Virgins"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "distinct_story": true,
+     "matched_by": "title+year"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:134": {
      "title": "Blood of the Virgins",
@@ -136668,6 +137270,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnotized-love:14": {
+     "title": "Blood of the Virgins",
+     "year": "1967",
+     "format": "movie",
+     "meta": "Movie · Argentina · Spanish · original title: Sangre de vírgenes",
+     "mechanism": "Vampiric hypnosis",
+     "confidence_flag": "Medium · single fan-wiki source",
+     "summary": "On Ofelia's wedding night her lover Gustavo kills her new husband Eduardo, hypnotizes her and turns her into a vampire so they can be together forever.",
+     "categories": [
+      "love",
+      "vampire"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Blood_of_the_Virgins"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
     }
    }
   },
@@ -138033,7 +138657,9 @@ window.CATALOG = {
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "format": "movie",
    "categories": [
-    "other-control"
+    "other-control",
+    "love",
+    "medical"
    ],
    "sources": [
     {
@@ -138047,20 +138673,102 @@ window.CATALOG = {
     {
      "label": "TV Tropes: Hypno Fool",
      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoFool"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Carefree_(film)"
+    },
+    {
+     "label": "New York Magazine / AllMovie synopsis",
+     "url": "https://nymag.com/listings/movie/carefree-1938/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-love"
    ],
    "source_records": [
-    "worldwide-hypnosis:160"
+    "worldwide-hypnosis:160",
+    "hypnotized-love:1"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:160",
+    "source": "worldwide-hypnosis",
+    "label": "Carefree (1938)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Carefree",
+    "subtitle": "",
+    "year": "1938",
+    "meta": "Film · United States · English",
+    "summary": "Dr. Tony Flagg's friend, Steven, has problems in the relationship with his fiancee, Amanda, so he persuades her to visit Dr. Scene notes: Hypnotized, she dances with Tony.",
+    "character": "",
+    "note": "",
+    "mechanism": "Traditional hypnosis (pendulum, watch, voice or gaze)",
+    "confidence_flag": "High · fan-wiki scene log + Wikipedia plot mentions hypnosis",
+    "categories": [
+     "other-control"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Carefree"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Carefree_%28film%29"
+     },
+     {
+      "label": "TV Tropes: Hypno Fool",
+      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoFool"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnotized-love:1",
+     "source": "hypnotized-love",
+     "label": "Carefree (1938)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Carefree",
+     "subtitle": "",
+     "year": "1938",
+     "meta": "Movie · United States · English",
+     "summary": "Psychiatrist Tony Flagg hypnotizes his friend's fiancée Amanda into believing she loves her fiancé Stephen and that Tony should be 'shot down like dogs'; when Tony realizes he loves her, he tries to undo the suggestion before the wedding, and she ends up marrying Tony.",
+     "character": "",
+     "note": "",
+     "mechanism": "Literal hypnosis by a psychiatrist",
+     "confidence_flag": "High confidence · web-verified",
+     "categories": [
+      "love",
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Carefree_(film)"
+      },
+      {
+       "label": "New York Magazine / AllMovie synopsis",
+       "url": "https://nymag.com/listings/movie/carefree-1938/"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
+     "distinct_story": true,
+     "matched_by": "title+year"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:160": {
      "title": "Carefree",
@@ -138090,6 +138798,32 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnotized-love:1": {
+     "title": "Carefree",
+     "year": "1938",
+     "format": "movie",
+     "meta": "Movie · United States · English",
+     "mechanism": "Literal hypnosis by a psychiatrist",
+     "confidence_flag": "High confidence · web-verified",
+     "summary": "Psychiatrist Tony Flagg hypnotizes his friend's fiancée Amanda into believing she loves her fiancé Stephen and that Tony should be 'shot down like dogs'; when Tony realizes he loves her, he tries to undo the suggestion before the wedding, and she ends up marrying Tony.",
+     "categories": [
+      "love",
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Carefree_(film)"
+      },
+      {
+       "label": "New York Magazine / AllMovie synopsis",
+       "url": "https://nymag.com/listings/movie/carefree-1938/"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
     }
    }
   },
@@ -139584,7 +140318,8 @@ window.CATALOG = {
    "format": "movie",
    "categories": [
     "vampire",
-    "human"
+    "human",
+    "love"
    ],
    "sources": [
     {
@@ -139594,16 +140329,79 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-love"
    ],
    "source_records": [
-    "worldwide-hypnosis:185"
+    "worldwide-hypnosis:185",
+    "hypnotized-love:17"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:185",
+    "source": "worldwide-hypnosis",
+    "label": "Club Dead (2015)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Club Dead",
+    "subtitle": "",
+    "year": "2015",
+    "meta": "Film · United States · English",
+    "summary": "After many a nights of failed attempts, a group of friends obsessed with Hollywood's hottest night spot finally make it in with the help of their new friend Judy. The hot music, beautiful people and open bar lead the gang to believe this will be the best night of their lives. Scene notes: In a trance, the young woman turns to the vampire. / Mesmerized, she accepts all his orders / Madame is pleased to see that the young woman has fallen under her son's hypnotic control.",
+    "character": "",
+    "note": "",
+    "mechanism": "Vampiric mesmerism / hypnotic gaze",
+    "confidence_flag": "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed",
+    "categories": [
+     "vampire",
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Club_Dead"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnotized-love:17",
+     "source": "hypnotized-love",
+     "label": "Club Dead (2015)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Club Dead",
+     "subtitle": "",
+     "year": "2015",
+     "meta": "Movie · United States · English",
+     "summary": "At a nightclub run by vampires, Mario hypnotizes Judy, who kisses him in a trance and is prepared for an 'unholy marriage' to him.",
+     "character": "",
+     "note": "",
+     "mechanism": "Vampiric hypnosis",
+     "confidence_flag": "Medium · single fan-wiki source",
+     "categories": [
+      "love",
+      "vampire"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Club_Dead"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "distinct_story": true,
+     "matched_by": "title+year"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:185": {
      "title": "Club Dead",
@@ -139626,6 +140424,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnotized-love:17": {
+     "title": "Club Dead",
+     "year": "2015",
+     "format": "movie",
+     "meta": "Movie · United States · English",
+     "mechanism": "Vampiric hypnosis",
+     "confidence_flag": "Medium · single fan-wiki source",
+     "summary": "At a nightclub run by vampires, Mario hypnotizes Judy, who kisses him in a trance and is prepared for an 'unholy marriage' to him.",
+     "categories": [
+      "love",
+      "vampire"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Club_Dead"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
     }
    }
   },
@@ -149959,7 +150779,8 @@ window.CATALOG = {
    "format": "tv",
    "categories": [
     "fantasy",
-    "human"
+    "human",
+    "love"
    ],
    "sources": [
     {
@@ -149969,16 +150790,80 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-love"
    ],
    "source_records": [
-    "worldwide-hypnosis:369"
+    "worldwide-hypnosis:369",
+    "hypnotized-love:30"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:369",
+    "source": "worldwide-hypnosis",
+    "label": "Flying wooden donkey (2011)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Flying wooden donkey",
+    "subtitle": "",
+    "year": "2011",
+    "meta": "TV series · China",
+    "summary": "The plot is a period comedy-drama that follows the adventures of Ouyang De, an eccentric hero who fights injustice during the reign of Emperor Kangxi in the Qing Dynasty. Scene notes: the witch casts her hypnotic spell. / she looks into the girl's eyes. / the girl is completely mesmerized.",
+    "character": "",
+    "note": "",
+    "mechanism": "Magical hypnotic gaze",
+    "confidence_flag": "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed",
+    "categories": [
+     "fantasy",
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Flying_wooden_donkey"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnotized-love:30",
+     "source": "hypnotized-love",
+     "label": "Flying Wooden Donkey · ep. 62 (2011)",
+     "identifiers": [
+      "subtitle",
+      "year/date"
+     ],
+     "title": "Flying Wooden Donkey",
+     "subtitle": "ep. 62",
+     "year": "2011",
+     "meta": "TV series · China · Mandarin · original title: 怪侠欧阳德",
+     "summary": "A sorceress hypnotizes a young woman and delivers her, mesmerized, to be the bride of a tyrant.",
+     "character": "",
+     "note": "",
+     "mechanism": "Sorceress's hypnotic spell",
+     "confidence_flag": "Medium · single fan-wiki source · magic framed as hypnosis",
+     "categories": [
+      "love",
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Flying_wooden_donkey"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "distinct_story": true,
+     "matched_by": "title+year"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:369": {
      "title": "Flying wooden donkey",
@@ -150001,6 +150886,29 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnotized-love:30": {
+     "title": "Flying Wooden Donkey",
+     "subtitle": "ep. 62",
+     "year": "2011",
+     "format": "tv",
+     "meta": "TV series · China · Mandarin · original title: 怪侠欧阳德",
+     "mechanism": "Sorceress's hypnotic spell",
+     "confidence_flag": "Medium · single fan-wiki source · magic framed as hypnosis",
+     "summary": "A sorceress hypnotizes a young woman and delivers her, mesmerized, to be the bride of a tyrant.",
+     "categories": [
+      "love",
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Flying_wooden_donkey"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
     }
    }
   },
@@ -174600,26 +175508,94 @@ window.CATALOG = {
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "format": "movie",
    "categories": [
-    "human"
+    "human",
+    "love",
+    "medical"
    ],
    "sources": [
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/Stalked_by_My_Doctor%3A_A_Sleepwalker%27s_Nightmare"
+    },
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Stalked_by_My_Doctor:_A_Sleepwalker%27s_Nightmare"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-love"
    ],
    "source_records": [
-    "worldwide-hypnosis:801"
+    "worldwide-hypnosis:801",
+    "hypnotized-love:19"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:801",
+    "source": "worldwide-hypnosis",
+    "label": "Stalked by My Doctor: A Sleepwalker's Nightmare (2019)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Stalked by My Doctor: A Sleepwalker's Nightmare",
+    "subtitle": "",
+    "year": "2019",
+    "meta": "Film · United States · English",
+    "summary": "After escaping his previous predicament in Stalked by My Doctor: Patient's Revenge (2018), Dr. Albert Beck returns to the United States, murdering a doctor who is on his way to start a new job at a sleep clinic. Scene notes: A sleepwalking Michelle leaves her home in a trance / Katie explains that when she sleepwalks she becomes highly open to suggestion / That night, he orders her to open her eyes",
+    "character": "",
+    "note": "",
+    "mechanism": "Hypnosis (type not specified by source)",
+    "confidence_flag": "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed",
+    "categories": [
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Stalked_by_My_Doctor%3A_A_Sleepwalker%27s_Nightmare"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnotized-love:19",
+     "source": "hypnotized-love",
+     "label": "Stalked by My Doctor: A Sleepwalker's Nightmare (2019)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Stalked by My Doctor: A Sleepwalker's Nightmare",
+     "subtitle": "",
+     "year": "2019",
+     "meta": "TV movie · United States · English · Lifetime",
+     "summary": "Dr. Albert Beck learns that his patient Katie, who left college, becomes open to suggestion as if hypnotized when she sleepwalks, and uses this to make her fall in love with him and to lure her boyfriend to his death.",
+     "character": "",
+     "note": "",
+     "mechanism": "Suggestion during a hypnotic sleepwalking state",
+     "confidence_flag": "Strong · fan-wiki source",
+     "categories": [
+      "love",
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Stalked_by_My_Doctor:_A_Sleepwalker%27s_Nightmare"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "distinct_story": true,
+     "matched_by": "title+year"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:801": {
      "title": "Stalked by My Doctor: A Sleepwalker's Nightmare",
@@ -174641,6 +175617,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnotized-love:19": {
+     "title": "Stalked by My Doctor: A Sleepwalker's Nightmare",
+     "year": "2019",
+     "format": "movie",
+     "meta": "TV movie · United States · English · Lifetime",
+     "mechanism": "Suggestion during a hypnotic sleepwalking state",
+     "confidence_flag": "Strong · fan-wiki source",
+     "summary": "Dr. Albert Beck learns that his patient Katie, who left college, becomes open to suggestion as if hypnotized when she sleepwalks, and uses this to make her fall in love with him and to lure her boyfriend to his death.",
+     "categories": [
+      "love",
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Stalked_by_My_Doctor:_A_Sleepwalker%27s_Nightmare"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
     }
    }
   },
@@ -176207,7 +177205,9 @@ window.CATALOG = {
    "format": "tv",
    "categories": [
     "scifi",
-    "fantasy"
+    "fantasy",
+    "love",
+    "tech"
    ],
    "sources": [
     {
@@ -176217,16 +177217,80 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-love"
    ],
    "source_records": [
-    "worldwide-hypnosis:834"
+    "worldwide-hypnosis:834",
+    "hypnotized-love:24"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:834",
+    "source": "worldwide-hypnosis",
+    "label": "Super Models (1999)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Super Models",
+    "subtitle": "",
+    "year": "1999",
+    "meta": "Animated series · country unverified",
+    "summary": "Super Models is an animated series by BRB Internacional released in 1999.",
+    "character": "",
+    "note": "",
+    "mechanism": "Technological hypnosis (device, screen or signal)",
+    "confidence_flag": "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed",
+    "categories": [
+     "scifi",
+     "fantasy"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Super_Models"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnotized-love:24",
+     "source": "hypnotized-love",
+     "label": "Super Models · “Smoke and Mirrors” (ep. 22) · “Mind of Models” (ep. 24) (1997–99)",
+     "identifiers": [
+      "subtitle",
+      "year/date"
+     ],
+     "title": "Super Models",
+     "subtitle": "“Smoke and Mirrors” (ep. 22) · “Mind of Models” (ep. 24)",
+     "year": "1997–99",
+     "meta": "Animated TV series · Spain · BRB Internacional",
+     "summary": "In “Smoke and Mirrors” (ep. 22), magician Mephisto hypnotizes Nikki into being his assistant and makes her his bride. In “Mind of Models” (ep. 24), Mandrella's mind-control machine hypnotizes agency owner Nadia into falling in love with Brandon so she will marry him and give him her company.",
+     "character": "",
+     "note": "",
+     "mechanism": "Stage hypnosis; mind-control machine",
+     "confidence_flag": "Medium · fan-wiki source",
+     "categories": [
+      "love",
+      "tech"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Super_Models"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "distinct_story": true,
+     "matched_by": "title+year"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:834": {
      "title": "Super Models",
@@ -176249,6 +177313,30 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnotized-love:24": {
+     "title": "Super Models",
+     "subtitle": "“Smoke and Mirrors” (ep. 22) · “Mind of Models” (ep. 24)",
+     "year": "1997–99",
+     "format": "tv",
+     "meta": "Animated TV series · Spain · BRB Internacional",
+     "mechanism": "Stage hypnosis; mind-control machine",
+     "confidence_flag": "Medium · fan-wiki source",
+     "summary": "In “Smoke and Mirrors” (ep. 22), magician Mephisto hypnotizes Nikki into being his assistant and makes her his bride. In “Mind of Models” (ep. 24), Mandrella's mind-control machine hypnotizes agency owner Nadia into falling in love with Brandon so she will marry him and give him her company.",
+     "categories": [
+      "love",
+      "tech"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Super_Models"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
+     "match_year": "1999"
     }
    }
   },
@@ -181576,7 +182664,9 @@ window.CATALOG = {
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "format": "movie",
    "categories": [
-    "human"
+    "human",
+    "love",
+    "cheat-control"
    ],
    "sources": [
     {
@@ -181586,20 +182676,91 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/The_Magician_%281926_film%29"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Magician_(1926_film)"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-love"
    ],
    "source_records": [
-    "worldwide-hypnosis:929"
+    "worldwide-hypnosis:929",
+    "hypnotized-love:2"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:929",
+    "source": "worldwide-hypnosis",
+    "label": "The Magician (1926)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Magician",
+    "subtitle": "",
+    "year": "1926",
+    "meta": "Film · United States · English",
+    "summary": "A young girl, Margaret Dauncey, is caught between the forces of a charlatan magician, Oliver Haddo, whom she is unable to resist to his hypnotic abilities, and the love of a young surgeon, Arthur Burdon, who saved her from being a helpless cripple by performing a delicate operation on her spine which startled the medical world. Scene notes: He looks deeper into her eyes. / Mesmerized, she follows the evil magician. / In her trance, Margaret hallucinates with hell.",
+    "character": "",
+    "note": "",
+    "mechanism": "Traditional hypnosis (pendulum, watch, voice or gaze)",
+    "confidence_flag": "High · fan-wiki scene log + Wikipedia plot mentions hypnosis",
+    "categories": [
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/The_Magician_%281926%29"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Magician_%281926_film%29"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnotized-love:2",
+     "source": "hypnotized-love",
+     "label": "The Magician (1926)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Magician",
+     "subtitle": "",
+     "year": "1926",
+     "meta": "Silent movie · United States · English intertitles",
+     "summary": "Hypnotist Oliver Haddo hypnotizes sculptor Margaret Dauncey and, two days before her wedding to Dr. Arthur Burdon, summons her; she marries Haddo instead, against her will, and only emerges from her trance after he is killed.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnotist's summons",
+     "confidence_flag": "High confidence · web-verified",
+     "categories": [
+      "love",
+      "cheat-control",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Magician_(1926_film)"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
+     "distinct_story": true,
+     "matched_by": "title+year"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:929": {
      "title": "The Magician",
@@ -181625,6 +182786,29 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnotized-love:2": {
+     "title": "The Magician",
+     "year": "1926",
+     "format": "movie",
+     "meta": "Silent movie · United States · English intertitles",
+     "mechanism": "Hypnotist's summons",
+     "confidence_flag": "High confidence · web-verified",
+     "summary": "Hypnotist Oliver Haddo hypnotizes sculptor Margaret Dauncey and, two days before her wedding to Dr. Arthur Burdon, summons her; she marries Haddo instead, against her will, and only emerges from her trance after he is killed.",
+     "categories": [
+      "love",
+      "cheat-control",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Magician_(1926_film)"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
     }
    }
   },
@@ -184712,7 +185896,8 @@ window.CATALOG = {
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "format": "movie",
    "categories": [
-    "fantasy"
+    "fantasy",
+    "love"
    ],
    "sources": [
     {
@@ -184722,20 +185907,94 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/The_Thief_of_Baghdad_%281978_film%29"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Thief_of_Baghdad_(1978_film)"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-love"
    ],
    "source_records": [
-    "worldwide-hypnosis:980"
+    "worldwide-hypnosis:980",
+    "hypnotized-love:10"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:980",
+    "source": "worldwide-hypnosis",
+    "label": "The Thief of Baghdad (1978)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Thief of Baghdad",
+    "subtitle": "",
+    "year": "1978",
+    "meta": "Film · United Kingdom · English",
+    "summary": "Soon after the death of his father, Prince Taj of Sakkar is persuaded to compete for the hand of Princess Yasmine of Baghdad. He is ambushed by agents of his own Wazir, Jaudur. Scene notes: mesmerized, Jasmine does not react to the arrival of her beloved Prince Taj",
+    "character": "",
+    "note": "",
+    "mechanism": "Magical hypnotic gaze",
+    "confidence_flag": "High · fan-wiki scene log + Wikipedia plot mentions hypnosis",
+    "categories": [
+     "fantasy"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/The_Thief_of_Baghdad"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Thief_of_Baghdad_%281978_film%29"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnotized-love:10",
+     "source": "hypnotized-love",
+     "label": "The Thief of Baghdad (1978)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Thief of Baghdad",
+     "subtitle": "",
+     "year": "1978",
+     "meta": "TV movie · United Kingdom / France · English",
+     "summary": "The wizard Jaudur uses a spell to hypnotize Princess Yasmine, her father and the people into agreeing to her marriage to him; Prince Taj destroys Jaudur's soul just in time to stop the wedding and break the hypnosis.",
+     "character": "",
+     "note": "",
+     "mechanism": "Sorcerer's hypnotic spell",
+     "confidence_flag": "Strong · web-verified · magic framed as hypnosis",
+     "categories": [
+      "love",
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Thief_of_Baghdad_(1978_film)"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/The_Thief_of_Baghdad"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
+     "distinct_story": true,
+     "matched_by": "title+year"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:980": {
      "title": "The Thief of Baghdad",
@@ -184761,6 +186020,32 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnotized-love:10": {
+     "title": "The Thief of Baghdad",
+     "year": "1978",
+     "format": "movie",
+     "meta": "TV movie · United Kingdom / France · English",
+     "mechanism": "Sorcerer's hypnotic spell",
+     "confidence_flag": "Strong · web-verified · magic framed as hypnosis",
+     "summary": "The wizard Jaudur uses a spell to hypnotize Princess Yasmine, her father and the people into agreeing to her marriage to him; Prince Taj destroys Jaudur's soul just in time to stop the wedding and break the hypnosis.",
+     "categories": [
+      "love",
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Thief_of_Baghdad_(1978_film)"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/The_Thief_of_Baghdad"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
     }
    }
   },
@@ -187423,7 +188708,8 @@ window.CATALOG = {
    "format": "movie",
    "categories": [
     "vampire",
-    "medical"
+    "medical",
+    "love"
    ],
    "sources": [
     {
@@ -187433,16 +188719,80 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-love"
    ],
    "source_records": [
-    "worldwide-hypnosis:1028"
+    "worldwide-hypnosis:1028",
+    "hypnotized-love:16"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:1028",
+    "source": "worldwide-hypnosis",
+    "label": "Vampire at Midnight (1987)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Vampire at Midnight",
+    "subtitle": "",
+    "year": "1987",
+    "meta": "Film · United States · English",
+    "summary": "Los Angeles is terrorized by \"The Vampire Killer,\" a serial killer who drains his victims of their blood. Detective Roger Sutter (Williams) investigates. Scene notes: She obeys. / Mesmerized, Ingrid offers her neck. / Sutter comforts Jenny after she snap out of her trance.",
+    "character": "",
+    "note": "",
+    "mechanism": "Vampiric mesmerism / hypnotic gaze; Traditional hypnosis (pendulum, watch, voice or gaze)",
+    "confidence_flag": "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed",
+    "categories": [
+     "vampire",
+     "medical"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Vampire_at_Midnight"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnotized-love:16",
+     "source": "hypnotized-love",
+     "label": "Vampire at Midnight (1988)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Vampire at Midnight",
+     "subtitle": "",
+     "year": "1988",
+     "meta": "Movie · United States · English",
+     "summary": "Hypnotherapist and self-help guru Victor Radikoff, secretly the 'Vampire Killer', offers to help his neighbor's acquaintance Jenny gain confidence, but instead hypnotizes and brainwashes her into becoming his bride.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnotherapy / vampiric hypnosis",
+     "confidence_flag": "Medium · single fan-wiki source",
+     "categories": [
+      "love",
+      "vampire",
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Vampire_at_Midnight"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "distinct_story": true,
+     "matched_by": "title+year"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:1028": {
      "title": "Vampire at Midnight",
@@ -187465,6 +188815,30 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnotized-love:16": {
+     "title": "Vampire at Midnight",
+     "year": "1988",
+     "format": "movie",
+     "meta": "Movie · United States · English",
+     "mechanism": "Hypnotherapy / vampiric hypnosis",
+     "confidence_flag": "Medium · single fan-wiki source",
+     "summary": "Hypnotherapist and self-help guru Victor Radikoff, secretly the 'Vampire Killer', offers to help his neighbor's acquaintance Jenny gain confidence, but instead hypnotizes and brainwashes her into becoming his bride.",
+     "categories": [
+      "love",
+      "vampire",
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Vampire_at_Midnight"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
+     "match_year": "1987"
     }
    }
   },
@@ -188546,38 +189920,108 @@ window.CATALOG = {
    "id": 1839,
    "title": "Wizards of the Lost Kingdom",
    "subtitle": "",
-   "year": "",
-   "meta": "Film · country unverified",
-   "mechanism": "Traditional hypnosis (pendulum, watch, voice or gaze)",
-   "confidence_flag": "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed",
-   "summary": "Listed by the Mental Block wiki as a screen work in which a female character is hypnotized.",
+   "year": "1985",
+   "meta": "Movie · United States / Argentina · English",
+   "mechanism": "Sorcerer's hypnosis",
+   "confidence_flag": "Strong · web-verified",
+   "summary": "The usurping sorcerer Shurka imprisons the queen and hypnotizes the princess into becoming his bride; the hypnosis does not last once the heroes intervene.",
    "character": "",
-   "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
+   "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
    "note": "",
-   "pregnancy_outcome": "not pregnant",
-   "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Pregnancy status is not stated in the available sources.",
    "format": "movie",
    "categories": [
+    "love",
+    "fantasy",
     "other-control"
    ],
    "sources": [
     {
-     "label": "Mental Block wiki",
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Wizards_of_the_Lost_Kingdom"
+    },
+    {
+     "label": "Mental Block",
      "url": "https://mentalblock.miraheze.org/wiki/Wizards_of_the_Lost_Kingdom"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-love"
    ],
    "source_records": [
-    "worldwide-hypnosis:1047"
+    "worldwide-hypnosis:1047",
+    "hypnotized-love:12"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnotized-love:12",
+    "source": "hypnotized-love",
+    "label": "Wizards of the Lost Kingdom (1985)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Wizards of the Lost Kingdom",
+    "subtitle": "",
+    "year": "1985",
+    "meta": "Movie · United States / Argentina · English",
+    "summary": "The usurping sorcerer Shurka imprisons the queen and hypnotizes the princess into becoming his bride; the hypnosis does not last once the heroes intervene.",
+    "character": "",
+    "note": "",
+    "mechanism": "Sorcerer's hypnosis",
+    "confidence_flag": "Strong · web-verified",
+    "categories": [
+     "love",
+     "fantasy"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wizards_of_the_Lost_Kingdom"
+     },
+     {
+      "label": "Mental Block",
+      "url": "https://mentalblock.miraheze.org/wiki/Wizards_of_the_Lost_Kingdom"
+     }
+    ],
+    "pregnancy_outcome": "unknown",
+    "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+    "distinct_story": false,
+    "matched_by": "title+year"
+   },
+   "merged_from": [
+    {
+     "rid": "worldwide-hypnosis:1047",
+     "source": "worldwide-hypnosis",
+     "label": "Wizards of the Lost Kingdom",
+     "identifiers": [],
+     "title": "Wizards of the Lost Kingdom",
+     "subtitle": "",
+     "year": "",
+     "meta": "Film · country unverified",
+     "summary": "Listed by the Mental Block wiki as a screen work in which a female character is hypnotized.",
+     "character": "",
+     "note": "",
+     "mechanism": "Traditional hypnosis (pendulum, watch, voice or gaze)",
+     "confidence_flag": "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed",
+     "categories": [
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Wizards_of_the_Lost_Kingdom"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+     "distinct_story": true
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:1047": {
      "title": "Wizards of the Lost Kingdom",
@@ -188599,6 +190043,32 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnotized-love:12": {
+     "title": "Wizards of the Lost Kingdom",
+     "year": "1985",
+     "format": "movie",
+     "meta": "Movie · United States / Argentina · English",
+     "mechanism": "Sorcerer's hypnosis",
+     "confidence_flag": "Strong · web-verified",
+     "summary": "The usurping sorcerer Shurka imprisons the queen and hypnotizes the princess into becoming his bride; the hypnosis does not last once the heroes intervene.",
+     "categories": [
+      "love",
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Wizards_of_the_Lost_Kingdom"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Wizards_of_the_Lost_Kingdom"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
     }
    }
   },
@@ -189459,7 +190929,8 @@ window.CATALOG = {
    "format": "movie",
    "categories": [
     "vampire",
-    "human"
+    "human",
+    "love"
    ],
    "sources": [
     {
@@ -189469,16 +190940,79 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-love"
    ],
    "source_records": [
-    "worldwide-hypnosis:1063"
+    "worldwide-hypnosis:1063",
+    "hypnotized-love:18"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:1063",
+    "source": "worldwide-hypnosis",
+    "label": "You Shouldn't Have Let Me In (2024)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "You Shouldn't Have Let Me In",
+    "subtitle": "",
+    "year": "2024",
+    "meta": "Film · country unverified",
+    "summary": "During a bachelorette party in Italy, a group of girls invite a handsome stranger into their home, not realizing he's a vampire with hypnotic powers, looking for a bride. Scene notes: Mesmerized, she agrees to dance with the vampire. / The woman look into Victor's eyes. / Hypnotized, she agrees to forget her suspicions about him.",
+    "character": "",
+    "note": "",
+    "mechanism": "Vampiric mesmerism / hypnotic gaze",
+    "confidence_flag": "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed",
+    "categories": [
+     "vampire",
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/You_Shouldn%27t_Have_Let_Me_In"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnotized-love:18",
+     "source": "hypnotized-love",
+     "label": "You Shouldn't Have Let Me In (2024)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "You Shouldn't Have Let Me In",
+     "subtitle": "",
+     "year": "2024",
+     "meta": "Movie · United States · English",
+     "summary": "At a bachelorette party in Italy, a vampire with hypnotic powers who is looking for a bride hypnotizes Kelsey, who goes to him dressed as a bride.",
+     "character": "",
+     "note": "",
+     "mechanism": "Vampiric hypnosis",
+     "confidence_flag": "Medium · single fan-wiki source",
+     "categories": [
+      "love",
+      "vampire"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/You_Shouldn%27t_Have_Let_Me_In"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "distinct_story": true,
+     "matched_by": "title+year"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:1063": {
      "title": "You Shouldn't Have Let Me In",
@@ -189501,6 +191035,28 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnotized-love:18": {
+     "title": "You Shouldn't Have Let Me In",
+     "year": "2024",
+     "format": "movie",
+     "meta": "Movie · United States · English",
+     "mechanism": "Vampiric hypnosis",
+     "confidence_flag": "Medium · single fan-wiki source",
+     "summary": "At a bachelorette party in Italy, a vampire with hypnotic powers who is looking for a bride hypnotizes Kelsey, who goes to him dressed as a bride.",
+     "categories": [
+      "love",
+      "vampire"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/You_Shouldn%27t_Have_Let_Me_In"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
     }
    }
   },
@@ -190765,6 +192321,876 @@ window.CATALOG = {
      "provenance": "Worldwide hypnosis sweep (Sep 2026): TV Tropes hypnosis trope pages, Wikipedia 'Films about hypnosis' and targeted web searches."
     }
    }
+  },
+  {
+   "id": 1873,
+   "title": "Trilby",
+   "subtitle": "",
+   "year": "1912",
+   "meta": "Silent movie · Austria",
+   "mechanism": "Hypnotic domination",
+   "confidence_flag": "Unverified detail · stub source",
+   "summary": "Austrian adaptation of du Maurier's novel in which Trilby, a young singer, is hypnotised and dominated by Svengali; the film's survival status is unknown and its romance details are not documented.",
+   "character": "",
+   "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
+   "note": "",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+   "format": "movie",
+   "categories": [
+    "love",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Trilby_(1912_film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnotized-love"
+   ],
+   "source_records": [
+    "hypnotized-love:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnotized-love:5": {
+     "title": "Trilby",
+     "year": "1912",
+     "format": "movie",
+     "meta": "Silent movie · Austria",
+     "mechanism": "Hypnotic domination",
+     "confidence_flag": "Unverified detail · stub source",
+     "summary": "Austrian adaptation of du Maurier's novel in which Trilby, a young singer, is hypnotised and dominated by Svengali; the film's survival status is unknown and its romance details are not documented.",
+     "categories": [
+      "love",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Trilby_(1912_film)"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
+    }
+   }
+  },
+  {
+   "id": 1874,
+   "title": "The Mummy",
+   "subtitle": "",
+   "year": "1932",
+   "meta": "Movie · United States · English",
+   "mechanism": "Hypnotic summons by a revived mummy",
+   "confidence_flag": "Strong · web-verified",
+   "summary": "Imhotep, believing Helen Grosvenor is the reincarnation of his lost love Anck-es-en-Amon, hypnotizes her into coming to him and prepares to kill and revive her as his immortal bride; she breaks free before the ritual is completed.",
+   "character": "",
+   "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
+   "note": "",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
+   "format": "movie",
+   "categories": [
+    "love",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Mummy_(1932_film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnotized-love"
+   ],
+   "source_records": [
+    "hypnotized-love:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnotized-love:6": {
+     "title": "The Mummy",
+     "year": "1932",
+     "format": "movie",
+     "meta": "Movie · United States · English",
+     "mechanism": "Hypnotic summons by a revived mummy",
+     "confidence_flag": "Strong · web-verified",
+     "summary": "Imhotep, believing Helen Grosvenor is the reincarnation of his lost love Anck-es-en-Amon, hypnotizes her into coming to him and prepares to kill and revive her as his immortal bride; she breaks free before the ritual is completed.",
+     "categories": [
+      "love",
+      "occult"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Mummy_(1932_film)"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
+    }
+   }
+  },
+  {
+   "id": 1875,
+   "title": "Don't Go Breaking My Heart",
+   "subtitle": "",
+   "year": "1999",
+   "meta": "Movie · United Kingdom · English",
+   "mechanism": "Hypnotic suggestion by a dentist",
+   "confidence_flag": "Strong · review-verified",
+   "summary": "Dentist Frank hypnotizes widowed patient Suzanne to fall for him, but the trigger is accidentally set off by sports coach Tony, so she falls for Tony instead; she later learns her feelings were induced by hypnosis.",
+   "character": "",
+   "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
+   "note": "",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "Suzanne is a widowed mother; no pregnancy in the plot sources.",
+   "format": "movie",
+   "categories": [
+    "love",
+    "medical",
+    "mother"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Don%27t_Go_Breaking_My_Heart_(1999_film)"
+    },
+    {
+     "label": "Fulvue Drive-in review",
+     "url": "https://fulvuedrive-in.com/review/11304/Don+t+Go+Breaking+My+Heart+1999+MVD+Visual+DVD+"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnotized-love"
+   ],
+   "source_records": [
+    "hypnotized-love:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnotized-love:8": {
+     "title": "Don't Go Breaking My Heart",
+     "year": "1999",
+     "format": "movie",
+     "meta": "Movie · United Kingdom · English",
+     "mechanism": "Hypnotic suggestion by a dentist",
+     "confidence_flag": "Strong · review-verified",
+     "summary": "Dentist Frank hypnotizes widowed patient Suzanne to fall for him, but the trigger is accidentally set off by sports coach Tony, so she falls for Tony instead; she later learns her feelings were induced by hypnosis.",
+     "categories": [
+      "love",
+      "medical",
+      "mother"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Don%27t_Go_Breaking_My_Heart_(1999_film)"
+      },
+      {
+       "label": "Fulvue Drive-in review",
+       "url": "https://fulvuedrive-in.com/review/11304/Don+t+Go+Breaking+My+Heart+1999+MVD+Visual+DVD+"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "Suzanne is a widowed mother; no pregnancy in the plot sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
+    }
+   }
+  },
+  {
+   "id": 1876,
+   "title": "The Throne of Fire",
+   "subtitle": "",
+   "year": "1983",
+   "meta": "Movie · Italy · English-dubbed · original title: Il trono di fuoco",
+   "mechanism": "Hypnotic domination",
+   "confidence_flag": "Strong · fan-wiki source",
+   "summary": "Morak, son of a demon, needs to marry into the royal family to sit on Odin's Throne of Fire, so he kidnaps Princess Valkari and hypnotizes her into marrying him; Siegfried arrives to stop him.",
+   "character": "",
+   "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
+   "note": "",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+   "format": "movie",
+   "categories": [
+    "love",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/The_Throne_of_Fire"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Throne_of_Fire"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnotized-love"
+   ],
+   "source_records": [
+    "hypnotized-love:11"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnotized-love:11": {
+     "title": "The Throne of Fire",
+     "year": "1983",
+     "format": "movie",
+     "meta": "Movie · Italy · English-dubbed · original title: Il trono di fuoco",
+     "mechanism": "Hypnotic domination",
+     "confidence_flag": "Strong · fan-wiki source",
+     "summary": "Morak, son of a demon, needs to marry into the royal family to sit on Odin's Throne of Fire, so he kidnaps Princess Valkari and hypnotizes her into marrying him; Siegfried arrives to stop him.",
+     "categories": [
+      "love",
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/The_Throne_of_Fire"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Throne_of_Fire"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
+    }
+   }
+  },
+  {
+   "id": 1877,
+   "title": "Billy the Kid Versus Dracula",
+   "subtitle": "",
+   "year": "1966",
+   "meta": "Movie · United States · English",
+   "mechanism": "Vampiric hypnosis",
+   "confidence_flag": "Strong · fan-wiki source",
+   "summary": "Dracula, posing as Betty Bentley's uncle, hypnotizes Billy the Kid's fiancée Betty and leads her in a trance to an abandoned mine to make her his vampire bride; Billy rescues her.",
+   "character": "",
+   "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
+   "note": "",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+   "format": "movie",
+   "categories": [
+    "love",
+    "vampire"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Billy_the_Kid_Versus_Dracula"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Billy_the_Kid_Versus_Dracula"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnotized-love"
+   ],
+   "source_records": [
+    "hypnotized-love:13"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnotized-love:13": {
+     "title": "Billy the Kid Versus Dracula",
+     "year": "1966",
+     "format": "movie",
+     "meta": "Movie · United States · English",
+     "mechanism": "Vampiric hypnosis",
+     "confidence_flag": "Strong · fan-wiki source",
+     "summary": "Dracula, posing as Betty Bentley's uncle, hypnotizes Billy the Kid's fiancée Betty and leads her in a trance to an abandoned mine to make her his vampire bride; Billy rescues her.",
+     "categories": [
+      "love",
+      "vampire"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Billy_the_Kid_Versus_Dracula"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Billy_the_Kid_Versus_Dracula"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
+    }
+   }
+  },
+  {
+   "id": 1878,
+   "title": "Isle of the Snake People",
+   "subtitle": "",
+   "year": "1971",
+   "meta": "Movie · Mexico / United States · Spanish / English · original title: La muerte viviente",
+   "mechanism": "Voodoo-framed hypnosis",
+   "confidence_flag": "Medium · single fan-wiki source",
+   "summary": "On a voodoo-ruled island, Klinsor stages a fake marriage with the hypnotized Mary Ann, who stays mesmerized and unresponsive during the ceremony.",
+   "character": "",
+   "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
+   "note": "",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+   "format": "movie",
+   "categories": [
+    "love",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Isle_of_the_Snake_People"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnotized-love"
+   ],
+   "source_records": [
+    "hypnotized-love:15"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnotized-love:15": {
+     "title": "Isle of the Snake People",
+     "year": "1971",
+     "format": "movie",
+     "meta": "Movie · Mexico / United States · Spanish / English · original title: La muerte viviente",
+     "mechanism": "Voodoo-framed hypnosis",
+     "confidence_flag": "Medium · single fan-wiki source",
+     "summary": "On a voodoo-ruled island, Klinsor stages a fake marriage with the hypnotized Mary Ann, who stays mesmerized and unresponsive during the ceremony.",
+     "categories": [
+      "love",
+      "occult"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Isle_of_the_Snake_People"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
+    }
+   }
+  },
+  {
+   "id": 1879,
+   "title": "The Avengers — \"Love All\"",
+   "subtitle": "“Love All” · S06E21",
+   "year": "1969",
+   "meta": "TV episode · United Kingdom · English",
+   "mechanism": "Hypnotic microdots in romance novels",
+   "confidence_flag": "Strong · web-verified · technological variant",
+   "summary": "A publisher hides hypnotic microdots in romance novels that make readers fall in love with the first person they see; Tara King falls under the effect and becomes infatuated with the villain Bromfield.",
+   "character": "",
+   "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
+   "note": "",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
+   "format": "tv",
+   "categories": [
+    "love",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "Clive Banks episode guide",
+     "url": "https://www.clivebanks.co.uk/Avengers/Loveall.htm"
+    },
+    {
+     "label": "Dissolute episode guide",
+     "url": "https://dissolute.com.au/the-avengers-tv-series/series-6/624-love-all.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnotized-love"
+   ],
+   "source_records": [
+    "hypnotized-love:20"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnotized-love:20": {
+     "title": "The Avengers — \"Love All\"",
+     "subtitle": "“Love All” · S06E21",
+     "year": "1969",
+     "format": "tv",
+     "meta": "TV episode · United Kingdom · English",
+     "mechanism": "Hypnotic microdots in romance novels",
+     "confidence_flag": "Strong · web-verified · technological variant",
+     "summary": "A publisher hides hypnotic microdots in romance novels that make readers fall in love with the first person they see; Tara King falls under the effect and becomes infatuated with the villain Bromfield.",
+     "categories": [
+      "love",
+      "tech"
+     ],
+     "sources": [
+      {
+       "label": "Clive Banks episode guide",
+       "url": "https://www.clivebanks.co.uk/Avengers/Loveall.htm"
+      },
+      {
+       "label": "Dissolute episode guide",
+       "url": "https://dissolute.com.au/the-avengers-tv-series/series-6/624-love-all.html"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 1880,
+   "title": "Robin of Sherwood",
+   "subtitle": "“Herne's Son, Part 2” · S03E02",
+   "year": "1986",
+   "meta": "TV episode · United Kingdom · English · ITV",
+   "mechanism": "Sorcerer's hypnosis plus a love potion",
+   "confidence_flag": "Borderline · mixed hypnosis and potion",
+   "summary": "Lord Owen of Clun captures Lady Marion and wants to marry her; his sorcerer Gulnar hypnotizes her and gives her a love potion, so she takes part enthusiastically in the wedding ceremony until she is rescued.",
+   "character": "",
+   "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
+   "note": "",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
+   "format": "tv",
+   "categories": [
+    "love",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Robin_of_Sherwood"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Robin_of_Sherwood"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnotized-love"
+   ],
+   "source_records": [
+    "hypnotized-love:21"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnotized-love:21": {
+     "title": "Robin of Sherwood",
+     "subtitle": "“Herne's Son, Part 2” · S03E02",
+     "year": "1986",
+     "format": "tv",
+     "meta": "TV episode · United Kingdom · English · ITV",
+     "mechanism": "Sorcerer's hypnosis plus a love potion",
+     "confidence_flag": "Borderline · mixed hypnosis and potion",
+     "summary": "Lord Owen of Clun captures Lady Marion and wants to marry her; his sorcerer Gulnar hypnotizes her and gives her a love potion, so she takes part enthusiastically in the wedding ceremony until she is rescued.",
+     "categories": [
+      "love",
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Robin_of_Sherwood"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Robin_of_Sherwood"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
+    }
+   }
+  },
+  {
+   "id": 1881,
+   "title": "The New Adventures of Flash Gordon",
+   "subtitle": "“To Save Earth” · S01E04",
+   "year": "1979",
+   "meta": "Animated TV episode · United States · English · NBC",
+   "mechanism": "Hypnosis",
+   "confidence_flag": "Strong · fan-wiki and TV Tropes sources",
+   "summary": "Ming the Merciless hypnotizes Dale Arden and begins a forced wedding ceremony with her before Flash comes to the rescue; the 'marriage' has no lasting effect.",
+   "character": "",
+   "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
+   "note": "",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+   "format": "tv",
+   "categories": [
+    "love",
+    "scifi"
+   ],
+   "sources": [
+    {
+     "label": "Flash Gordon wiki",
+     "url": "https://flashgordon.fandom.com/wiki/To_Save_Earth"
+    },
+    {
+     "label": "All The Tropes · Hypnotize the Princess",
+     "url": "https://allthetropes.org/wiki/Hypnotize_the_Princess"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnotized-love"
+   ],
+   "source_records": [
+    "hypnotized-love:22"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnotized-love:22": {
+     "title": "The New Adventures of Flash Gordon",
+     "subtitle": "“To Save Earth” · S01E04",
+     "year": "1979",
+     "format": "tv",
+     "meta": "Animated TV episode · United States · English · NBC",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Strong · fan-wiki and TV Tropes sources",
+     "summary": "Ming the Merciless hypnotizes Dale Arden and begins a forced wedding ceremony with her before Flash comes to the rescue; the 'marriage' has no lasting effect.",
+     "categories": [
+      "love",
+      "scifi"
+     ],
+     "sources": [
+      {
+       "label": "Flash Gordon wiki",
+       "url": "https://flashgordon.fandom.com/wiki/To_Save_Earth"
+      },
+      {
+       "label": "All The Tropes · Hypnotize the Princess",
+       "url": "https://allthetropes.org/wiki/Hypnotize_the_Princess"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
+    }
+   }
+  },
+  {
+   "id": 1882,
+   "title": "Ivanhoe, the King's Knight",
+   "subtitle": "“The Assassin and the Potion” · S01E06",
+   "year": "1997",
+   "meta": "Animated TV episode · France · French / English",
+   "mechanism": "Drugged hypnosis",
+   "confidence_flag": "Medium · single fan-wiki source",
+   "summary": "Rowena, Ivanhoe's love interest, is drugged and hypnotized into trying to kill Ivanhoe, and is later hypnotized into marrying Prince John.",
+   "character": "",
+   "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
+   "note": "",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+   "format": "tv",
+   "categories": [
+    "love",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Ivanhoe,_the_King%27s_Knight"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnotized-love"
+   ],
+   "source_records": [
+    "hypnotized-love:23"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnotized-love:23": {
+     "title": "Ivanhoe, the King's Knight",
+     "subtitle": "“The Assassin and the Potion” · S01E06",
+     "year": "1997",
+     "format": "tv",
+     "meta": "Animated TV episode · France · French / English",
+     "mechanism": "Drugged hypnosis",
+     "confidence_flag": "Medium · single fan-wiki source",
+     "summary": "Rowena, Ivanhoe's love interest, is drugged and hypnotized into trying to kill Ivanhoe, and is later hypnotized into marrying Prince John.",
+     "categories": [
+      "love",
+      "tech"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Ivanhoe,_the_King%27s_Knight"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
+    }
+   }
+  },
+  {
+   "id": 1883,
+   "title": "Magpakailanman",
+   "subtitle": "“Magkapatid, Biktima ng Kulto” (Sisters, Victims of a Cult) · 28 Sep 2019",
+   "year": "2019",
+   "meta": "TV anthology episode · Philippines · Filipino · GMA Network",
+   "mechanism": "Pendulum-necklace hypnosis by a cult-leader husband",
+   "confidence_flag": "Strong · fan-wiki source",
+   "summary": "When his wife starts to sense something is wrong, her cult-leader husband swings his necklace to put her in a trance and tells her she loves only him and will do everything he says; she repeats that she loves only him.",
+   "character": "",
+   "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
+   "note": "",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+   "format": "tv",
+   "categories": [
+    "love",
+    "wife",
+    "partner-control",
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Magpakailanman"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnotized-love"
+   ],
+   "source_records": [
+    "hypnotized-love:25"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnotized-love:25": {
+     "title": "Magpakailanman",
+     "subtitle": "“Magkapatid, Biktima ng Kulto” (Sisters, Victims of a Cult) · 28 Sep 2019",
+     "year": "2019",
+     "format": "tv",
+     "meta": "TV anthology episode · Philippines · Filipino · GMA Network",
+     "mechanism": "Pendulum-necklace hypnosis by a cult-leader husband",
+     "confidence_flag": "Strong · fan-wiki source",
+     "summary": "When his wife starts to sense something is wrong, her cult-leader husband swings his necklace to put her in a trance and tells her she loves only him and will do everything he says; she repeats that she loves only him.",
+     "categories": [
+      "love",
+      "wife",
+      "partner-control",
+      "cult"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Magpakailanman"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 1884,
+   "title": "3D Spy",
+   "subtitle": "ep. 10",
+   "year": "2015",
+   "meta": "TV series · Thailand · Thai · Channel 3 · original title: สายลับ 3 มิติ",
+   "mechanism": "Magician's hypnosis",
+   "confidence_flag": "Medium · single fan-wiki source · thin detail",
+   "summary": "An evil magician pulled out of a TV show into the real world hypnotizes a woman into marrying a man.",
+   "character": "",
+   "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
+   "note": "",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+   "format": "tv",
+   "categories": [
+    "love",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/3D_Spy_(Thai_TV_Series)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnotized-love"
+   ],
+   "source_records": [
+    "hypnotized-love:26"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnotized-love:26": {
+     "title": "3D Spy",
+     "subtitle": "ep. 10",
+     "year": "2015",
+     "format": "tv",
+     "meta": "TV series · Thailand · Thai · Channel 3 · original title: สายลับ 3 มิติ",
+     "mechanism": "Magician's hypnosis",
+     "confidence_flag": "Medium · single fan-wiki source · thin detail",
+     "summary": "An evil magician pulled out of a TV show into the real world hypnotizes a woman into marrying a man.",
+     "categories": [
+      "love",
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/3D_Spy_(Thai_TV_Series)"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
+    }
+   }
+  },
+  {
+   "id": 1885,
+   "title": "Denshi Sentai Denziman",
+   "subtitle": "ep. 28",
+   "year": "1980",
+   "meta": "Tokusatsu TV episode · Japan · Japanese · original title: 電子戦隊デンジマン",
+   "mechanism": "Vampiric hypnosis",
+   "confidence_flag": "Medium · single fan-wiki source",
+   "summary": "A vampire monster puts Akira (Denzi Pink) under his hypnotic spell, and the mesmerized Akira is about to be turned into his vampire bride.",
+   "character": "",
+   "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
+   "note": "",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+   "format": "tv",
+   "categories": [
+    "love",
+    "vampire"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Denshi_Sentai_Denziman"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnotized-love"
+   ],
+   "source_records": [
+    "hypnotized-love:29"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnotized-love:29": {
+     "title": "Denshi Sentai Denziman",
+     "subtitle": "ep. 28",
+     "year": "1980",
+     "format": "tv",
+     "meta": "Tokusatsu TV episode · Japan · Japanese · original title: 電子戦隊デンジマン",
+     "mechanism": "Vampiric hypnosis",
+     "confidence_flag": "Medium · single fan-wiki source",
+     "summary": "A vampire monster puts Akira (Denzi Pink) under his hypnotic spell, and the mesmerized Akira is about to be turned into his vampire bride.",
+     "categories": [
+      "love",
+      "vampire"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Denshi_Sentai_Denziman"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+     "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
+     "standalone": true
+    }
+   }
   }
  ],
  "sections": [
@@ -190788,7 +193214,8 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "india-catalog",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-love"
    ],
    "groups": [
     {
@@ -191762,12 +194189,140 @@ window.CATALOG = {
       }
      ],
      "from_source": "worldwide-hypnosis"
+    },
+    {
+     "title": "Worldwide hypnotized-to-love additions (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1076,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1735,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 623,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 624,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1873,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1874,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 149,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1875,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 653,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1781,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1876,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1839,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1877,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1055,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1878,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1822,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1099,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1853,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1631,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1879,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1880,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1881,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1882,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1655,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1883,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1884,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1036,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 871,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1885,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1257,
+       "from_source": "hypnotized-love"
+      }
+     ],
+     "from_source": "hypnotized-love"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 61,
     "india-catalog": null,
-    "worldwide-hypnosis": null
+    "worldwide-hypnosis": null,
+    "hypnotized-love": null
    }
   },
   {
@@ -194310,7 +196865,8 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "india-catalog"
+    "india-catalog",
+    "hypnotized-love"
    ],
    "groups": [
     {
@@ -194469,11 +197025,23 @@ window.CATALOG = {
       }
      ],
      "from_source": "india-catalog"
+    },
+    {
+     "title": "Worldwide hypnotized-to-love additions (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1735,
+       "from_source": "hypnotized-love"
+      }
+     ],
+     "from_source": "hypnotized-love"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 5,
-    "india-catalog": null
+    "india-catalog": null,
+    "hypnotized-love": null
    }
   },
   {
@@ -195413,7 +197981,8 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "india-catalog"
+    "india-catalog",
+    "hypnotized-love"
    ],
    "groups": [
     {
@@ -195790,11 +198359,23 @@ window.CATALOG = {
       }
      ],
      "from_source": "india-catalog"
+    },
+    {
+     "title": "Worldwide hypnotized-to-love additions (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1883,
+       "from_source": "hypnotized-love"
+      }
+     ],
+     "from_source": "hypnotized-love"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 24,
-    "india-catalog": null
+    "india-catalog": null,
+    "hypnotized-love": null
    }
   },
   {
@@ -195816,7 +198397,8 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "india-catalog"
+    "india-catalog",
+    "hypnotized-love"
    ],
    "groups": [
     {
@@ -196275,11 +198857,23 @@ window.CATALOG = {
       }
      ],
      "from_source": "india-catalog"
+    },
+    {
+     "title": "Worldwide hypnotized-to-love additions (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1883,
+       "from_source": "hypnotized-love"
+      }
+     ],
+     "from_source": "hypnotized-love"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 24,
-    "india-catalog": null
+    "india-catalog": null,
+    "hypnotized-love": null
    }
   },
   {
@@ -197629,7 +200223,8 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "india-catalog",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-love"
    ],
    "groups": [
     {
@@ -200152,12 +202747,32 @@ window.CATALOG = {
       }
      ],
      "from_source": "worldwide-hypnosis"
+    },
+    {
+     "title": "Worldwide hypnotized-to-love additions (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 623,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 624,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1873,
+       "from_source": "hypnotized-love"
+      }
+     ],
+     "from_source": "hypnotized-love"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 31,
     "india-catalog": null,
-    "worldwide-hypnosis": null
+    "worldwide-hypnosis": null,
+    "hypnotized-love": null
    }
   },
   {
@@ -200169,7 +202784,8 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "india-catalog",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-love"
    ],
    "groups": [
     {
@@ -201398,12 +204014,28 @@ window.CATALOG = {
       }
      ],
      "from_source": "worldwide-hypnosis"
+    },
+    {
+     "title": "Worldwide hypnotized-to-love additions (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1877,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1885,
+       "from_source": "hypnotized-love"
+      }
+     ],
+     "from_source": "hypnotized-love"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 20,
     "india-catalog": null,
-    "worldwide-hypnosis": null
+    "worldwide-hypnosis": null,
+    "hypnotized-love": null
    }
   },
   {
@@ -201414,7 +204046,8 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "india-catalog"
+    "india-catalog",
+    "hypnotized-love"
    ],
    "groups": [
     {
@@ -201782,11 +204415,27 @@ window.CATALOG = {
       }
      ],
      "from_source": "india-catalog"
+    },
+    {
+     "title": "Worldwide hypnotized-to-love additions (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1874,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1878,
+       "from_source": "hypnotized-love"
+      }
+     ],
+     "from_source": "hypnotized-love"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 32,
-    "india-catalog": null
+    "india-catalog": null,
+    "hypnotized-love": null
    }
   },
   {
@@ -202841,7 +205490,8 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "india-catalog",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-love"
    ],
    "groups": [
     {
@@ -204462,12 +207112,24 @@ window.CATALOG = {
       }
      ],
      "from_source": "worldwide-hypnosis"
+    },
+    {
+     "title": "Worldwide hypnotized-to-love additions (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1881,
+       "from_source": "hypnotized-love"
+      }
+     ],
+     "from_source": "hypnotized-love"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 35,
     "india-catalog": null,
-    "worldwide-hypnosis": null
+    "worldwide-hypnosis": null,
+    "hypnotized-love": null
    }
   },
   {
@@ -204478,7 +207140,8 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "india-catalog"
+    "india-catalog",
+    "hypnotized-love"
    ],
    "groups": [
     {
@@ -204624,11 +207287,23 @@ window.CATALOG = {
       }
      ],
      "from_source": "india-catalog"
+    },
+    {
+     "title": "Worldwide hypnotized-to-love additions (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1883,
+       "from_source": "hypnotized-love"
+      }
+     ],
+     "from_source": "hypnotized-love"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 12,
-    "india-catalog": null
+    "india-catalog": null,
+    "hypnotized-love": null
    }
   },
   {
@@ -204640,7 +207315,8 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "india-catalog",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-love"
    ],
    "groups": [
     {
@@ -205046,12 +207722,32 @@ window.CATALOG = {
       }
      ],
      "from_source": "worldwide-hypnosis"
+    },
+    {
+     "title": "Worldwide hypnotized-to-love additions (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1076,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1875,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1631,
+       "from_source": "hypnotized-love"
+      }
+     ],
+     "from_source": "hypnotized-love"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 9,
     "india-catalog": null,
-    "worldwide-hypnosis": null
+    "worldwide-hypnosis": null,
+    "hypnotized-love": null
    }
   },
   {
@@ -205063,7 +207759,8 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "india-catalog",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-love"
    ],
    "groups": [
     {
@@ -205900,12 +208597,36 @@ window.CATALOG = {
       }
      ],
      "from_source": "worldwide-hypnosis"
+    },
+    {
+     "title": "Worldwide hypnotized-to-love additions (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1876,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1839,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1880,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1884,
+       "from_source": "hypnotized-love"
+      }
+     ],
+     "from_source": "hypnotized-love"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 9,
     "india-catalog": null,
-    "worldwide-hypnosis": null
+    "worldwide-hypnosis": null,
+    "hypnotized-love": null
    }
   },
   {
@@ -206205,12 +208926,14 @@ window.CATALOG = {
    "from_sources": [
     "ig6qlxqxoxvcxla",
     "india-catalog",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-love"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 41,
     "india-catalog": null,
-    "worldwide-hypnosis": null
+    "worldwide-hypnosis": null,
+    "hypnotized-love": null
    },
    "groups": [
     {
@@ -207293,7 +210016,8 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "india-catalog"
+    "india-catalog",
+    "hypnotized-love"
    ],
    "groups": [
     {
@@ -207363,11 +210087,31 @@ window.CATALOG = {
       }
      ],
      "from_source": "india-catalog"
+    },
+    {
+     "title": "Worldwide hypnotized-to-love additions (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1879,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1882,
+       "from_source": "hypnotized-love"
+      },
+      {
+       "id": 1655,
+       "from_source": "hypnotized-love"
+      }
+     ],
+     "from_source": "hypnotized-love"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 4,
-    "india-catalog": null
+    "india-catalog": null,
+    "hypnotized-love": null
    }
   },
   {
@@ -209110,7 +211854,8 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "india-catalog"
+    "india-catalog",
+    "hypnotized-love"
    ],
    "groups": [
     {
@@ -209446,11 +212191,23 @@ window.CATALOG = {
       }
      ],
      "from_source": "india-catalog"
+    },
+    {
+     "title": "Worldwide hypnotized-to-love additions (Sep 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1875,
+       "from_source": "hypnotized-love"
+      }
+     ],
+     "from_source": "hypnotized-love"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 29,
-    "india-catalog": null
+    "india-catalog": null,
+    "hypnotized-love": null
    }
   },
   {
