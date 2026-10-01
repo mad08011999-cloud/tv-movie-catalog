@@ -1,0 +1,2810 @@
+{
+ "id": "india-catalog",
+ "label": "India-only research additions",
+ "description": "Indian (Telugu, Tamil, Malayalam, Kannada first, then other Indian languages) film, TV and OTT titles in which a woman is hypnotized, mind-controlled or possessed. Hand-curated research pass of 30 Sep 2026, merged into the site's existing categories. Titles where the controlled character is a child or teen are excluded; entries are non-explicit.",
+ "group_title": "India-only research additions (Sep 2026)",
+ "records": [
+  {
+   "title": "Amaravathi",
+   "year": "2009",
+   "format": "movie",
+   "meta": "Film · India · Telugu",
+   "summary": "Hypnotist Sreenu (Taraka Ratna) hypnotizes a kidnapped woman doctor and orders her to jump from a building; he also hypnotizes police officers, while the plot also targets pregnant women and their babies.",
+   "confidence_flag": "High",
+   "mechanism": "Literal hypnosis",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia; Mental Block wiki)",
+   "categories": [
+    "human",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Amaravathi_%282009_film%29"
+    },
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Amaravathi"
+    }
+   ]
+  },
+  {
+   "title": "Tarangini",
+   "year": "1982",
+   "format": "movie",
+   "meta": "Film · India · Telugu",
+   "summary": "Suman's character hypnotizes Tarangini during a classroom hypnosis demonstration. She goes into a deep trance and falls into hypnotic sleep when he commands it.",
+   "confidence_flag": "Medium (single fan-wiki source)",
+   "mechanism": "Classroom hypnosis demonstration",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "human",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Tarangini"
+    }
+   ]
+  },
+  {
+   "title": "Kalyanamasthu",
+   "year": "2023",
+   "format": "tv",
+   "meta": "TV serial · Zee Telugu · ep. 497 (15 Aug 2023) · India · Telugu",
+   "summary": "An episode titled \"A Hypnosis Experiment on Nithya\": Jaya Surya tries hypnosis on Nithya.",
+   "confidence_flag": "Medium (episode title + listing)",
+   "mechanism": "Hypnosis experiment",
+   "provenance": "India-only research pass, 30 Sep 2026 (ZEE5 episode page)",
+   "categories": [
+    "human",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "ZEE5",
+     "url": "https://www.zee5.com/tv-shows/details/kalyanamasthu/0-6-4z544843/a-hypnosis-experiment-on-nithya/0-1-6z5412099"
+    }
+   ]
+  },
+  {
+   "title": "Ninnu Kori",
+   "year": "c. 2025",
+   "format": "tv",
+   "meta": "TV serial · Star Maa · Oct 29–30 episodes · India · Telugu",
+   "summary": "Virat plans to hypnotize Shalini to get the truth about the past. She sees it coming and the attempt fails.",
+   "confidence_flag": "Boundary · failed attempt",
+   "mechanism": "Attempted hypnosis (fails)",
+   "provenance": "India-only research pass, 30 Sep 2026 (Andhravilas episode recaps)",
+   "categories": [
+    "human",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Andhravilas",
+     "url": "https://andhravilas.net/ninnu-kori-oct-30-episode-hypnotize-plan-fail-shalini-jolts-virat/"
+    }
+   ]
+  },
+  {
+   "title": "Parvaiyin Marupakkam",
+   "year": "1982",
+   "format": "movie",
+   "meta": "Film · India · Tamil",
+   "summary": "Revenge-seeking hypnotist Vijay (Vijayakanth) puts Shankar's girlfriend in a trance and commands her to murder Shankar. Afterwards she remembers nothing.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia)",
+   "categories": [],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Parvaiyin_Marupakkam"
+    }
+   ],
+   "present": true
+  },
+  {
+   "title": "7aum Arivu",
+   "year": "2011",
+   "format": "movie",
+   "meta": "Film · India · Tamil",
+   "summary": "Assassin Dong Lee uses hypnotic nokku varmam on a woman to learn the virus-containment plan; she recites it in a trance.",
+   "confidence_flag": "Medium-high",
+   "mechanism": "Hypnotic nokku varmam",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia; Mental Block wiki)",
+   "categories": [
+    "human",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/7aum_Arivu"
+    },
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/7_Aum_Arivu"
+    }
+   ]
+  },
+  {
+   "title": "Sathya",
+   "year": "2019",
+   "format": "tv",
+   "meta": "TV serial · Zee Tamil · ep. 197 (17 Oct 2019) · India · Tamil",
+   "summary": "An episode titled \"The Doctor Hypnotises Sathya\": the female lead is put under hypnosis by a doctor.",
+   "confidence_flag": "Medium (episode title)",
+   "mechanism": "Literal hypnosis by a doctor",
+   "provenance": "India-only research pass, 30 Sep 2026 (ZEE5 episode page)",
+   "categories": [
+    "human",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "ZEE5",
+     "url": "https://www.zee5.com/global/tv-shows/details/sathya/0-6-1339/the-doctor-hypnotises-sathya-sathya/0-1-manual_5jbgr6gadpi0"
+    }
+   ]
+  },
+  {
+   "title": "Amir Garib",
+   "year": "1974",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "Moni hypnotizes Sunita with his gaze and commands her to follow him, and she obeys in a trance.",
+   "confidence_flag": "Medium",
+   "mechanism": "Hypnotic gaze",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "human",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Amir_Garib_%281974%29"
+    }
+   ]
+  },
+  {
+   "title": "C.I.D.",
+   "year": "1998–2018",
+   "format": "tv",
+   "meta": "TV series · Sony · India · Hindi",
+   "summary": "In ep. 914 a hypnotist makes someone commit murder. In ep. 1363 con man Sohan hypnotizes Amrita and other women, who empty their own safes for the gang. The separate \"Case of the Killer Dream\" episode is its own record.",
+   "confidence_flag": "Medium-high",
+   "mechanism": "Literal hypnosis / hypnotic theft",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog; Mental Block wiki)",
+   "categories": [
+    "human",
+    "crime",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/C.I.D._%281998_TV_Series%29"
+    }
+   ],
+   "subtitle": "eps. 914 \"Sammohan Se Hatya\" & 1363 \"Sammohit Chori\""
+  },
+  {
+   "title": "Agent Raghav – Crime Branch",
+   "year": "2015–16",
+   "format": "tv",
+   "meta": "TV series · &TV · S1E17–18 · India · Hindi",
+   "summary": "Stage magician Marconi hypnotizes Meera so he can really saw her in half, then hypnotizes officer Trisha into surrendering.",
+   "confidence_flag": "Medium",
+   "mechanism": "Stage-magician hypnosis",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "human",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Agent_Raghav_%E2%80%93_Crime_Branch"
+    }
+   ]
+  },
+  {
+   "title": "Krishna Arjun",
+   "year": "1998–2003",
+   "format": "tv",
+   "meta": "TV series · Star Plus · ep. 11 · India · Hindi",
+   "summary": "A Swami hypnotizes detective Krishna. He makes her walk a ledge and try to run over Arjun, then sends her armed to steal defence plans.",
+   "confidence_flag": "Medium",
+   "mechanism": "Literal hypnosis / programmed theft",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "human",
+    "crime",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Krishna_Arjun"
+    }
+   ]
+  },
+  {
+   "title": "Manohar Kahaniyan",
+   "year": "2020",
+   "format": "tv",
+   "meta": "TV crime anthology · ep. 9 · India · Hindi",
+   "summary": "A clown hypnotist puts a woman into a trance and orders her to hang herself.",
+   "confidence_flag": "Medium",
+   "mechanism": "Literal hypnosis / suicide command",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "human",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Manohar_Kahaniyan"
+    }
+   ]
+  },
+  {
+   "title": "FIR",
+   "year": "",
+   "format": "tv",
+   "meta": "TV sitcom · SAB TV · ep. 1302 \"Inspector Chautala Hypnotized\" · India · Hindi",
+   "summary": "Inspector Chandramukhi Chautala is hypnotized and acts strangely while the others try to snap her out of it.",
+   "confidence_flag": "Medium-high",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true,
+   "match_title": "FIR — ep 1302 \"Inspector Chautala Hypnotized\""
+  },
+  {
+   "title": "Qubool Hai",
+   "year": "2014",
+   "format": "tv",
+   "meta": "TV soap · Zee TV · eps. 361–362, 629 · India · Hindi",
+   "summary": "Hypnotist Aarti, helped by a drug, puts Khushboo (Nikhat) under and questions her about her real identity.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog; Mental Block wiki)",
+   "categories": [],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Qubool_Hai"
+    }
+   ],
+   "present": true
+  },
+  {
+   "title": "Bahu Hamari Rajnikant",
+   "year": "2016",
+   "format": "tv",
+   "meta": "TV sitcom · Life OK · ep. 136 \"Kant Parivaar Par Sammohan\" · India · Hindi",
+   "summary": "A hypnotist puts Shantanu's whole family under his control, his mother first.",
+   "confidence_flag": "Medium",
+   "mechanism": "Literal hypnosis of a family",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "human",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Bahu_Hamari_Rajnikant"
+    }
+   ]
+  },
+  {
+   "title": "Jijaji Chhat Per Hain",
+   "year": "2018–20",
+   "format": "tv",
+   "meta": "TV sitcom · Sony SAB · ep. 48 \"The Hypnosis\" · India · Hindi",
+   "summary": "Comic hypnosis: Pancham hypnotizes Elaichi into hypnotic sleep and she waits for his commands.",
+   "confidence_flag": "Medium",
+   "mechanism": "Comic hypnosis",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "human",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Jijaji_Chhat_Per_Hain"
+    }
+   ]
+  },
+  {
+   "title": "Main Hoon Aparajita",
+   "year": "2022",
+   "format": "tv",
+   "meta": "TV serial · Zee TV · 12 Dec 2022 episode · India · Hindi",
+   "summary": "A hired Ustad hypnotizes Aparajita and her family.",
+   "confidence_flag": "Medium (written update)",
+   "mechanism": "Hired hypnotist",
+   "provenance": "India-only research pass, 30 Sep 2026 (JustShowBiz written update)",
+   "categories": [
+    "human",
+    "mother",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "JustShowBiz",
+     "url": "https://www.justshowbiz.net/main-hoon-aparajita-12th-december-2022-written-update-ustad-hypnotizes-aparajita-and-her-family/"
+    }
+   ]
+  },
+  {
+   "title": "Geethanjali",
+   "year": "2015",
+   "format": "tv",
+   "meta": "TV serial · Zee Telugu · ep. 85 · India · Telugu",
+   "summary": "Geeta hypnotizes her sister Anjali, takes full control of her and orders her to attack her boyfriend.",
+   "confidence_flag": "Medium",
+   "mechanism": "Hypnosis by her sister",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "human",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Geethanjali_%282015_tv_series%29"
+    }
+   ]
+  },
+  {
+   "title": "Silence of Sleep",
+   "year": "2020",
+   "format": "tv",
+   "meta": "Web film / series · India · Hindi",
+   "summary": "A woman is badly injured in an accident while hypnotized by her mysterious, psychopathic lover.",
+   "confidence_flag": "Loose · marital status unconfirmed",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Gutur Gu",
+   "year": "2010–14",
+   "format": "tv",
+   "meta": "Silent sitcom · SAB TV · S1E51 · India · Hindi",
+   "summary": "Balu tries to hypnotize his wife with hand passes and fails. On the second try, with a pendant, it works.",
+   "confidence_flag": "Medium · comedic",
+   "mechanism": "Husband hypnotizes wife (comic)",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "wife",
+    "partner-control",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Gutur_Gu"
+    }
+   ]
+  },
+  {
+   "title": "Tu Tu Main Main",
+   "year": "1994–2000",
+   "format": "tv",
+   "meta": "TV sitcom · DD Metro / Star Plus · ep. 22 \"Hypnosis\" · India · Hindi",
+   "summary": "A hypnosis episode of the mother-in-law vs. daughter-in-law sitcom. Who is hypnotized, and what they are made to do, is not documented.",
+   "confidence_flag": "Low · lead",
+   "mechanism": "Hypnosis episode (details unknown)",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki (no captions))",
+   "categories": [
+    "other-control",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Tu_Tu_Main_Main"
+    }
+   ]
+  },
+  {
+   "title": "Tee Ratra",
+   "year": "2010",
+   "format": "movie",
+   "meta": "Film · India · Marathi",
+   "summary": "A suspicious husband hires his psychiatrist friend, who stages extreme trauma and uses hypnosis to force his wife's secret out of her subconscious.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Superman",
+   "year": "1980",
+   "format": "movie",
+   "meta": "Film · India · Telugu",
+   "summary": "Sorceress Lee puts the heroine Raja (Jaya Prada) under a spell and sends her to the villains' lair as bait for the hero.",
+   "confidence_flag": "Medium",
+   "mechanism": "Sorceress's spell",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "fantasy",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Superman_%281980_Film%29"
+    }
+   ]
+  },
+  {
+   "title": "Jagadeka Veerudu Athiloka Sundari",
+   "year": "1990",
+   "format": "movie",
+   "meta": "Film · India · Telugu",
+   "summary": "Sorcerer Mahadrashta (Amrish Puri) hypnotizes the goddess Indraja (Sridevi) and drives her toward a fire, but Raju saves her.",
+   "confidence_flag": "Medium",
+   "mechanism": "Sorcerer's hypnosis",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "fantasy",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Jagadeka_Veerudu_Athiloka_Sundari"
+    }
+   ]
+  },
+  {
+   "title": "Bhairava Dweepam",
+   "year": "1994",
+   "format": "movie",
+   "meta": "Film · India · Telugu",
+   "summary": "Sorcerer Bhairava abducts Princess Padmavathi (Roja), keeps her in a trance and has her take part in his full-moon ritual. Vijay uses a magic ring to break the trance.",
+   "confidence_flag": "High",
+   "mechanism": "Sorcerer's trance",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia; Mental Block wiki)",
+   "categories": [
+    "fantasy",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Bhairava_Dweepam"
+    },
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Bhairava_Dweepam"
+    }
+   ]
+  },
+  {
+   "title": "Kondaveeti Donga",
+   "year": "1990",
+   "format": "movie",
+   "meta": "Film · India · Telugu",
+   "summary": "Sorcerer Kadra hypnotizes a woman with his gaze; other victims are made to jump to their deaths.",
+   "confidence_flag": "Low-medium",
+   "mechanism": "Sorcerer's hypnotic gaze",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "tantrik",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Kondaveeti_Donga"
+    }
+   ]
+  },
+  {
+   "title": "Attarintiki Daredi",
+   "year": "2016",
+   "format": "tv",
+   "meta": "TV fantasy serial · ep. 567 · India · Telugu",
+   "summary": "A sorcerer casts a hypnotic spell on a woman through a computer screen. She resists, falls asleep and wakes up under his control.",
+   "confidence_flag": "Medium",
+   "mechanism": "Sorcerer's remote spell",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "tantrik",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Attarintiki_Daredi"
+    }
+   ]
+  },
+  {
+   "title": "Tantra",
+   "year": "2024",
+   "format": "movie",
+   "meta": "Film · India · Telugu",
+   "summary": "An occultist performs a tantric rite on Sailu, which makes her wander to the graveyard under its influence.",
+   "confidence_flag": "Medium",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Virupaksha",
+   "year": "2023",
+   "format": "movie",
+   "meta": "Film · India · Telugu",
+   "summary": "Nandini uses black magic to possess the villagers of Rudravanam, men and women alike, in revenge for her parents' lynching. Here the controller is a woman.",
+   "confidence_flag": "Medium · female controller, mass possession",
+   "mechanism": "Black-magic mass possession",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia)",
+   "categories": [
+    "tantrik",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Virupaksha_%28film%29"
+    }
+   ]
+  },
+  {
+   "title": "Agninakshathram",
+   "year": "2004",
+   "format": "movie",
+   "meta": "Film · India · Malayalam",
+   "summary": "A sadhu makes a young woman look into his eyes, hypnotizes her and probes her mind, against a background of black magicians attacking a family mansion.",
+   "confidence_flag": "Medium",
+   "mechanism": "Sadhu's hypnotic gaze",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia; Mental Block wiki)",
+   "categories": [
+    "tantrik",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Agninakshathram_%282004_film%29"
+    },
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Agninakshathram"
+    }
+   ]
+  },
+  {
+   "title": "Anandabhadram",
+   "year": "2005",
+   "format": "movie",
+   "meta": "Film · India · Malayalam",
+   "summary": "Sorcerer Digambaran lures Bhama into his rites to take her spirit and reincarnate his dead lover Subhadra. Bhadra is also drawn into his rituals.",
+   "confidence_flag": "Medium",
+   "mechanism": "Sorcerer's rites",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia)",
+   "categories": [
+    "tantrik",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Anandabhadram"
+    }
+   ]
+  },
+  {
+   "title": "Darinda",
+   "year": "1977",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "Yogidut controls a woman through a magical mark: she brings him stolen money, and when he burns the mark she jumps from a tower on his order.",
+   "confidence_flag": "Medium",
+   "mechanism": "Magical-mark control",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "tantrik",
+    "crime",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Darinda_%281977%29"
+    }
+   ]
+  },
+  {
+   "title": "Gehrayee",
+   "year": "1980",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "A fake tantrik puts Uma in a trance before a fire. The wider plot shows a ghost was sent into her by a paid village tantrik.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Purana Mandir",
+   "year": "1984",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "In the opening, the demon-sorcerer Samri mesmerizes Princess Rupali and drains her life force.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Veerana",
+   "year": "1988",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "An evil Baba hypnotizes Jasmin into sleep and takes a lock of her hair for his spell. She is then possessed by the witch Nakita's spirit and kills in another voice.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog; Mental Block wiki)",
+   "categories": [],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Veerana"
+    }
+   ],
+   "present": true
+  },
+  {
+   "title": "Raaz 3",
+   "year": "2012",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "Shanaya and black magician Tara Dutt use occult magic to invade actress Sanjana's mind, giving her hallucinations and pushing her toward suicide.",
+   "confidence_flag": "Medium-high",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Bhool Bhulaiyaa 2",
+   "year": "2022",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "Manjulika uses black magic to manipulate Anjulika and steal her identity, making the controlled woman attack before she is killed.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Uttaran",
+   "year": "2008–15",
+   "format": "tv",
+   "meta": "TV soap · Colors · India · Hindi",
+   "summary": "Akash's ex-girlfriend uses black magic on Meethi to break up the couple and creates a murderous replica of her. Direct control of Meethi is not explicit.",
+   "confidence_flag": "Possible",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Tantra",
+   "year": "2018–19",
+   "format": "tv",
+   "meta": "TV series · Colors · India · Hindi",
+   "summary": "The witch Kanchan uses black magic to turn the Khanna family against Niyati. The named victim and exact acts are unconfirmed.",
+   "confidence_flag": "Possible",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Qayamat Ki Raat",
+   "year": "2018–19",
+   "format": "tv",
+   "meta": "TV series · Star Plus · India · Hindi",
+   "summary": "Karuna is possessed, so Gauri stops her wedding to Raj. The main villain is the tantrik Kalasur, but who possessed Karuna is unclear.",
+   "confidence_flag": "Possible",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Vashikaranam",
+   "year": "2026",
+   "format": "tv",
+   "meta": "TV / OTT series · Sony / SonyLIV (also a Marathi version) · India · Hindi",
+   "summary": "Suman, a woman with supernatural powers, takes over all the villagers and makes them do what she wants.",
+   "confidence_flag": "Possible · single source",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog; SonyLIV listing)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Shivika",
+   "year": "2024",
+   "format": "tv",
+   "meta": "TV serial · Zee TV · ep. 148 (3 Aug 2024) · India · Hindi",
+   "summary": "An episode titled \"Baba Balihari Hypnotises Shivika\".",
+   "confidence_flag": "Medium (episode title)",
+   "mechanism": "Baba's hypnosis",
+   "provenance": "India-only research pass, 30 Sep 2026 (ZEE5 episode page)",
+   "categories": [
+    "tantrik",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "ZEE5",
+     "url": "https://www.zee5.com/tv-shows/details/shivika/0-6-4z5493379/baba-balihari-hypnotises-shivika/0-1-6z5601020"
+    }
+   ]
+  },
+  {
+   "title": "Aami Dakini",
+   "year": "2025",
+   "format": "tv",
+   "meta": "TV series · Sony / SonyLIV · ep. 63 · India · Hindi",
+   "summary": "Ishani falls into a trance during a blackout. Under remote control, she is ordered to kill Varun and goes at him with scissors.",
+   "confidence_flag": "Medium",
+   "mechanism": "Remote supernatural control",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki; Wikipedia (series))",
+   "categories": [
+    "evil-female",
+    "crime",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Aami_Dakini"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Aami_Dakini"
+    }
+   ]
+  },
+  {
+   "title": "Karn Sangini",
+   "year": "2018–19",
+   "format": "tv",
+   "meta": "TV series · Star Plus · ep. 72 · India · Hindi",
+   "summary": "Kasturi blows hypnotic powder on Princess Uruvi and a tantrik programs her to obey; under the spell she tries to seduce Karna.",
+   "confidence_flag": "Medium",
+   "mechanism": "Hypnotic powder / tantrik programming",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "tantrik",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Karn_sangin"
+    }
+   ]
+  },
+  {
+   "title": "Tenali Rama",
+   "year": "2017–20",
+   "format": "tv",
+   "meta": "TV series · Sony SAB · S1E794 · India · Hindi",
+   "summary": "A sorcerer Swami hypnotizes the princess, who repeats his orders in a trance; the king is hypnotized too.",
+   "confidence_flag": "Medium",
+   "mechanism": "Sorcerer's hypnotic gaze",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "tantrik",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Tenali_Rama"
+    }
+   ]
+  },
+  {
+   "title": "Ichhapyaari Naagin",
+   "year": "2016–17",
+   "format": "tv",
+   "meta": "TV series · Sony SAB · ep. 173 · India · Hindi",
+   "summary": "Guru hypnotizes the naagin Iccha and orders her to kill her husband with a poisoned needle.",
+   "confidence_flag": "Medium",
+   "mechanism": "Hypnotic spell / murder command",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "tantrik",
+    "crime",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Ichhapyari_naagin"
+    }
+   ]
+  },
+  {
+   "title": "Prem Ya Paheli – Chandrakanta",
+   "year": "2017",
+   "format": "tv",
+   "meta": "TV series · Life OK · eps. 43–44 · India · Hindi",
+   "summary": "Sorceress Soundarya hypnotizes court women and then Princess Chandrakanta, ordering her to stay in a trance for hours.",
+   "confidence_flag": "Medium",
+   "mechanism": "Sorceress's hypnotic gaze",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "fantasy",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Prem_Ya_Paheli_%E2%80%93_Chandrakanta"
+    }
+   ]
+  },
+  {
+   "title": "Haiwaan: The Monster",
+   "year": "2019",
+   "format": "tv",
+   "meta": "TV series · Zee TV · ep. 37 · India · Hindi",
+   "summary": "A sorceress hypnotizes Nisha, who acts paranoid and angry toward her family.",
+   "confidence_flag": "Medium",
+   "mechanism": "Sorceress's hypnotic gaze",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "fantasy",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Haiwaan%3A_The_Monster"
+    }
+   ]
+  },
+  {
+   "title": "Shaitani Rasmein",
+   "year": "2024",
+   "format": "tv",
+   "meta": "TV series · Star Bharat / Hotstar · ep. 189 · India · Hindi",
+   "summary": "A warlock hypnotizes Piyushi and Nikki and makes them stand in a trance before a ceremonial pyre.",
+   "confidence_flag": "Medium",
+   "mechanism": "Warlock's hypnosis",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "occult",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Shaitani_Rasmein"
+    }
+   ]
+  },
+  {
+   "title": "Ali Baba: Ek Andaaz Andekha",
+   "year": "2022",
+   "format": "tv",
+   "meta": "TV series · Sony SAB · S2E139 · India · Hindi",
+   "summary": "Simsin controls Nazia from a distance and makes her attack a guard and reach for a sword, until a protective spell knocks her out.",
+   "confidence_flag": "Medium",
+   "mechanism": "Remote mind-control spell",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "fantasy",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Ali_Baba_%28TV_Show%29"
+    }
+   ]
+  },
+  {
+   "title": "Aladdin – Naam Toh Suna Hoga",
+   "year": "2018–21",
+   "format": "tv",
+   "meta": "TV series · Sony SAB · eps. 36–43 · India · Hindi",
+   "summary": "Zafar's pendant hypnotizes Piddy. On his orders she walks a balcony ledge in a trance until he freezes and wakes her.",
+   "confidence_flag": "Medium",
+   "mechanism": "Hypnotic pendant",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "fantasy",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Aladdin_%E2%80%93_Naam_Toh_Suna_Hoga"
+    }
+   ]
+  },
+  {
+   "title": "Sindoor Ki Keemat",
+   "year": "2023",
+   "format": "tv",
+   "meta": "TV serial · Dangal · ep. 128 · India · Hindi",
+   "summary": "Thieves throw a magic powder at Mihri, and in a trance she takes off her jewels and hands them over.",
+   "confidence_flag": "Medium",
+   "mechanism": "Magic trance powder",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "tantrik",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Sindoor_Ki_Keemat"
+    }
+   ]
+  },
+  {
+   "title": "Ashirvad Tujha Ekvira Aai",
+   "year": "2022",
+   "format": "tv",
+   "meta": "TV serial · ep. 191 · India · Marathi",
+   "summary": "A witch hypnotizes a woman, who walks through the woods to her and answers all her questions in a trance.",
+   "confidence_flag": "Medium",
+   "mechanism": "Witch's hypnotic spell",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "tantrik",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Ashirvad_Tujha_Ekvira_Aai"
+    }
+   ]
+  },
+  {
+   "title": "Arundhati",
+   "year": "2009",
+   "format": "movie",
+   "meta": "Film · India · Telugu",
+   "summary": "The evil spirit of black magician Pasupathi briefly possesses Arundhati; later her grandmother Jejamma's spirit uses her body to kill him. Bengali remake: Arundhati (2014).",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Nagavalli",
+   "year": "2010",
+   "format": "movie",
+   "meta": "Film · India · Telugu",
+   "summary": "Chandramukhi's spirit possesses Gowri, who dances while possessed and goes to the cave to kill Nagabhairava.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Raat / Raatri",
+   "year": "1992",
+   "format": "movie",
+   "meta": "Film · Hindi–Telugu bilingual · India · Telugu",
+   "summary": "Mini / Manisha is possessed and attacks her boyfriend.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Mantra 2",
+   "year": "2015",
+   "format": "movie",
+   "meta": "Film · India · Telugu",
+   "summary": "Ramarao's ghost possesses Mantra and uses her body to kill his murderous brother.",
+   "confidence_flag": "Medium-high",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Prema Katha Chitram",
+   "year": "2013",
+   "format": "movie",
+   "meta": "Film · India · Telugu",
+   "summary": "As the friends' suicide pact unravels, a ghost possesses Nanditha to take revenge on men who wronged it. Kannada remake: Chandralekha (2014).",
+   "confidence_flag": "High",
+   "mechanism": "Ghost possession",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia)",
+   "categories": [
+    "spirit",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Prema_Katha_Chitram"
+    }
+   ]
+  },
+  {
+   "title": "Chandrika",
+   "year": "2015",
+   "format": "movie",
+   "meta": "Film · Telugu–Kannada · India · Telugu",
+   "summary": "A vengeful spirit possesses a woman named Nandini.",
+   "confidence_flag": "Low · single listing",
+   "mechanism": "Spirit possession",
+   "provenance": "India-only research pass, 30 Sep 2026 (GudVibe listing)",
+   "categories": [
+    "spirit",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "GudVibe",
+     "url": "https://www.gudvibe.app/movies/13886-chandrika-2015"
+    }
+   ]
+  },
+  {
+   "title": "Abhinetri / Devi / Tutak Tutak Tutiya",
+   "year": "2016",
+   "format": "movie",
+   "meta": "Film · Tamil–Telugu–Hindi trilingual · India · Tamil",
+   "summary": "Ruby's spirit possesses Krishna's wife Devi (Tamannaah) and changes her personality drastically.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Shock",
+   "year": "2004",
+   "format": "movie",
+   "meta": "Film · remake of Bhoot · India · Tamil",
+   "summary": "Malini is possessed by Manju, the flat's previous occupant, and kills the watchman while possessed.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Aranmanai 2",
+   "year": "2016",
+   "format": "movie",
+   "meta": "Film · India · Tamil",
+   "summary": "Maya's spirit possesses Anitha.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Dhilluku Dhuddu",
+   "year": "2016",
+   "format": "movie",
+   "meta": "Film · India · Tamil",
+   "summary": "A vengeful woman's ghost enters Kajal's body and traps Kajal's soul in a spirit realm.",
+   "confidence_flag": "Medium-high",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Dhilluku Dhuddu 2",
+   "year": "2019",
+   "format": "movie",
+   "meta": "Film · India · Tamil",
+   "summary": "A Yatchi (yakshi) possesses Maya (Shritha Sivadas) and tries to make her kill herself at the bungalow.",
+   "confidence_flag": "High",
+   "mechanism": "Yakshi possession",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia)",
+   "categories": [
+    "spirit",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Dhilluku_Dhuddu_2"
+    }
+   ]
+  },
+  {
+   "title": "Kanchana 2",
+   "year": "2015",
+   "format": "movie",
+   "meta": "Film · India · Tamil",
+   "summary": "Ganga's ghost possesses TV producer Nandini (Taapsee Pannu), who attacks Raghava's family. Telugu: Ganga; Kannada remake lineage: Kalpana 2 (2016).",
+   "confidence_flag": "High",
+   "mechanism": "Ghost possession",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia)",
+   "categories": [
+    "spirit",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kanchana_2"
+    }
+   ]
+  },
+  {
+   "title": "Mohini",
+   "year": "2018",
+   "format": "movie",
+   "meta": "Film · India · Tamil",
+   "summary": "Mohini's vengeful spirit possesses her look-alike Vaishnavi (Trisha), who goes on a killing spree.",
+   "confidence_flag": "High",
+   "mechanism": "Vengeful-spirit possession",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia)",
+   "categories": [
+    "spirit",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mohini_%282018_film%29"
+    }
+   ]
+  },
+  {
+   "title": "Rasathi Varum Naal",
+   "year": "1991",
+   "format": "movie",
+   "meta": "Film · India · Tamil",
+   "summary": "The spirit of murdered Rasathi possesses Radha (Kasthuri), who kills Rasathi's tormentors one by one.",
+   "confidence_flag": "High",
+   "mechanism": "Vengeful-spirit possession",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia)",
+   "categories": [
+    "spirit",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Rasathi_Varum_Naal"
+    }
+   ]
+  },
+  {
+   "title": "Sivalinga",
+   "year": "2017",
+   "format": "movie",
+   "meta": "Film · remake of Kannada Shivalinga · India · Tamil",
+   "summary": "Raheem's ghost possesses Sathya (Ritika Singh), the investigator's new wife, and threatens everyone until his murder is solved.",
+   "confidence_flag": "High",
+   "mechanism": "Ghost possession",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia)",
+   "categories": [
+    "spirit",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Sivalinga_%282017_film%29"
+    }
+   ]
+  },
+  {
+   "title": "Chandramukhi 2",
+   "year": "2023",
+   "format": "movie",
+   "meta": "Film · India · Tamil",
+   "summary": "Chandramukhi's spirit possesses three women and makes them do harmful things.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Maari",
+   "year": "2022–",
+   "format": "tv",
+   "meta": "TV soap · Zee Tamil · India · Tamil",
+   "summary": "The villainess Jasmin hypnotizes Durga and orders her to steal the Amman statue, jump into a well and take Surya to the Namboothiri. In season 2, the spirit of Maari enters and takes over Durga's body.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog; Wikipedia)",
+   "categories": [
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Maari_%28TV_series%29"
+    }
+   ],
+   "present": true
+  },
+  {
+   "title": "Lisa",
+   "year": "1978",
+   "format": "movie",
+   "meta": "Film · India · Malayalam",
+   "summary": "Dead Lisa's spirit takes over Lakshmi and uses her body to kill the people responsible for Lisa's death.",
+   "confidence_flag": "Medium-high",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Veendum Lisa",
+   "year": "1987",
+   "format": "movie",
+   "meta": "Film · India · Malayalam",
+   "summary": "Lisa possesses Saraswathi and uses her body to kill her murderers.",
+   "confidence_flag": "Medium-high",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Aakasha Ganga",
+   "year": "1999",
+   "format": "movie",
+   "meta": "Film · India · Malayalam",
+   "summary": "Daisy/Maya is possessed by the yakshi spirit of the murdered servant Ganga, which controls her as part of its revenge.",
+   "confidence_flag": "Medium-high",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Aakasha Ganga 2",
+   "year": "2019",
+   "format": "movie",
+   "meta": "Film · India · Malayalam",
+   "summary": "Twenty years later, Ganga's spirit, once exorcised from Arathi's mother, targets medical student Arathi and possesses her.",
+   "confidence_flag": "High",
+   "mechanism": "Yakshi possession",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia)",
+   "categories": [
+    "spirit",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Aakasha_Ganga_2"
+    }
+   ]
+  },
+  {
+   "title": "Ezra",
+   "year": "2017",
+   "format": "movie",
+   "meta": "Film · India · Malayalam",
+   "summary": "Abraham Ezra's spirit escapes the dybbuk box and possesses Priya, and her husband has to save her. Hindi remake: Dybbuk (2021).",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Aptharakshaka",
+   "year": "2010",
+   "format": "movie",
+   "meta": "Film · original of Telugu Nagavalli · India · Kannada",
+   "summary": "Nagavalli possesses her human conduit Gowri in the climax.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Shivalinga",
+   "year": "2016",
+   "format": "movie",
+   "meta": "Film · India · Kannada",
+   "summary": "P. Vasu's original of Sivalinga: the ghost of a murdered man (Raheem) possesses the hero's new wife Sathya (Vedhika).",
+   "confidence_flag": "Medium-high (remake-chain verified)",
+   "mechanism": "Ghost possession",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia)",
+   "categories": [
+    "spirit",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Shivalinga_%282016_film%29"
+    }
+   ]
+  },
+  {
+   "title": "Chandralekha",
+   "year": "2014",
+   "format": "movie",
+   "meta": "Film · remake of Prema Katha Chitram · India · Kannada",
+   "summary": "The Kannada remake keeps the ghost-possesses-the-heroine plot (Shanvi).",
+   "confidence_flag": "Medium (remake inference)",
+   "mechanism": "Ghost possession",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia)",
+   "categories": [
+    "spirit",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Chandralekha_%282014_film%29"
+    }
+   ]
+  },
+  {
+   "title": "Karvva",
+   "year": "2016",
+   "format": "movie",
+   "meta": "Film · India · Kannada",
+   "summary": "The spirit of Vaidehi haunts a mansion and possesses people there.",
+   "confidence_flag": "Low",
+   "mechanism": "Spirit possession",
+   "provenance": "India-only research pass, 30 Sep 2026 (Search synthesis; Wikipedia (stub))",
+   "categories": [
+    "spirit",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Karvva"
+    }
+   ]
+  },
+  {
+   "title": "1920",
+   "year": "2008",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "A male vengeful spirit possesses Lisa, Arjun's wife, to kill her in revenge, since she is the reincarnation of the woman who caused his execution.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "1920: Evil Returns",
+   "year": "2012",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "Amar's vengeful spirit possesses Smriti to make her lover Jaidev suffer.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Bhoot",
+   "year": "2003",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "Swati is possessed by the murdered tenant Manjeet, who acts through her and tries to strangle Sanjay.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Raaz Reboot",
+   "year": "2016",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "Aditya's ghost takes complete possession of Shaina to take revenge on her husband Rehaan, who murdered him.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Ragini MMS 2",
+   "year": "2014",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "A vengeful female ghost possesses actress Sunny and makes her seduce and kill film-crew members.",
+   "confidence_flag": "Medium-high",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Alone",
+   "year": "2015",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "Dead twin Anjana possesses her sister Sanjana to win back Kabir; the twist is that the surviving body was Anjana's all along.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Dybbuk",
+   "year": "2021",
+   "format": "movie",
+   "meta": "Film · remake of Ezra · India · Hindi",
+   "summary": "Mahi opens the dybbuk box and the spirit possesses her, and her husband Ranjan must save her.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Bhoot – Part One: The Haunted Ship",
+   "year": "2020",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "Meera has been possessed by the ghost for eleven years.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Roohi",
+   "year": "2021",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "The mudiyapairi witch-spirit Afza keeps taking over Roohi's body.",
+   "confidence_flag": "Medium-high",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Bhool Bhulaiyaa 3",
+   "year": "2024",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "Debendranath's ghost possesses Mallika and Mandira to frame them as Manjulika.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Kaal Bhairav Rahasya",
+   "year": "2019",
+   "format": "tv",
+   "meta": "Finite TV series · Star Bharat · India · Hindi",
+   "summary": "The Maharani's ghost possesses Bhairavi and uses her body to try to kill Veer.",
+   "confidence_flag": "Medium-high",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Aahat",
+   "year": "1995–2015",
+   "format": "tv",
+   "meta": "TV horror anthology · Sony · India · Hindi",
+   "summary": "In ep. 27 an evil spirit possesses Radhika; the anthology also has an episode titled \"The Possessed Mother\".",
+   "confidence_flag": "High (episode-level)",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Devude Gelichadu",
+   "year": "1976",
+   "format": "movie",
+   "meta": "Film · India · Telugu",
+   "summary": "This seems to belong to the Yakshagaanam story lineage, but no synopsis confirms the wife-possessed-by-the-former-lover setup.",
+   "confidence_flag": "Low · unverified",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Aayiram Jenmangal",
+   "year": "1978",
+   "format": "movie",
+   "meta": "Film · India · Tamil",
+   "summary": "Ravi's wife Savitri is possessed by Radha, his dead former lover, who pushes Savitri's personality aside to get back to Ravi.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Aranmanai",
+   "year": "2014",
+   "format": "movie",
+   "meta": "Film · India · Tamil",
+   "summary": "Selvi, Murali's murdered former lover, possesses his wife Madhavi and plans to stay in her body to live with him; she also puts Murali in a trance.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Mayamohini",
+   "year": "2016",
+   "format": "tv",
+   "meta": "TV serial · India · Tamil",
+   "summary": "An obsessed dead woman uses black magic to possess a living wife so she can stay in the husband's life.",
+   "confidence_flag": "Possible · single outlet",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Yakshagaanam",
+   "year": "1976",
+   "format": "movie",
+   "meta": "Film · original of Aayiram Jenmangal · India · Malayalam",
+   "summary": "A wife named Savitri is possessed by a spirit; sources don't confirm the spirit is her husband's former lover.",
+   "confidence_flag": "Low",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Raaz",
+   "year": "2002",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "The ghost of Malini, Aditya's dead lover, haunts and impersonates his wife Sanjana and tries to destroy their marriage.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Kavach… Kaali Shaktiyon Se",
+   "year": "2016",
+   "format": "tv",
+   "meta": "TV series · Colors · India · Hindi",
+   "summary": "The witch-spirit Manjulika keeps possessing the bride Paridhi: she uses her body on the wedding night, makes her commit murder and tries to destroy her marriage to Rajbir.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Yeh Hai Mohabbatein",
+   "year": "2015 arc",
+   "format": "tv",
+   "meta": "TV soap · Star Plus · India · Hindi",
+   "summary": "After Raman's ex-wife Shagun dies, her spirit repeatedly possesses his current wife Ishita, who calls herself \"Shagun maa\".",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Dracula 2012",
+   "year": "2013",
+   "format": "movie",
+   "meta": "Film · also shot in Tamil (Naangam Pirai) and Telugu (Punnami Ratri) · India · Malayalam",
+   "summary": "Dracula hypnotizes Lucy and drains her until she becomes his vampire bride. He then repeatedly entrances Meena, who becomes devoted to him.",
+   "confidence_flag": "High",
+   "mechanism": "Vampire mesmerism",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia; Mental Block wiki)",
+   "categories": [
+    "vampire",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Dracula_2012"
+    },
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Dracula_2012"
+    }
+   ]
+  },
+  {
+   "title": "Nagina",
+   "year": "1986",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "Snake-charmer sadhu Bhairo Nath uses his been music to put the naagin Rajni (Sridevi) in a trance, forcing her into snake form and making her dance.",
+   "confidence_flag": "High",
+   "mechanism": "Snake-charmer's been music",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia; Mental Block wiki)",
+   "categories": [
+    "tantrik",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Nagina_%281986_film%29"
+    },
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Nagina_%281986%29"
+    }
+   ]
+  },
+  {
+   "title": "Wohi Bhayanak Raat",
+   "year": "1989",
+   "format": "movie",
+   "meta": "Film · remake of Fright Night · India · Hindi",
+   "summary": "A vampire uses his hypnotic gaze and beam on women at a nightclub and a bar, then feeds on them while they are entranced.",
+   "confidence_flag": "Medium",
+   "mechanism": "Vampire mesmerism",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "vampire",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Wohi_Bhayanak_Raat"
+    }
+   ]
+  },
+  {
+   "title": "Khooni Dracula",
+   "year": "1992",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "Dracula hypnotizes several young women, who come to him and offer themselves before he bites them.",
+   "confidence_flag": "Medium",
+   "mechanism": "Vampire mesmerism",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "vampire",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Khooni_Dracula"
+    }
+   ]
+  },
+  {
+   "title": "Naagin",
+   "year": "2015–",
+   "format": "tv",
+   "meta": "TV franchise · Colors · India · Hindi",
+   "summary": "S1: the naagins hypnotize the female Guru Maa into naming a culprit. S5 ep. 24: Jay's potion steam puts Bani in a trance and he programs her mind. S6 ep. 138: snake charmers' music hypnotizes Pragati into her serpent form.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog; Mental Block wiki)",
+   "categories": [],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Naagin"
+    }
+   ],
+   "present": true
+  },
+  {
+   "title": "Nazar",
+   "year": "2018–20",
+   "format": "tv",
+   "meta": "TV series · Star Plus · India · Hindi",
+   "summary": "The daayan Mohana uses witchcraft to hypnotize and bewitch the Rathod family; a named female victim isn't confirmed.",
+   "confidence_flag": "Possible",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Ankahee Dastaan – Nazar special",
+   "year": "2021",
+   "format": "tv",
+   "meta": "Telefilm · Star Plus · India · Hindi",
+   "summary": "Mohana calls Piya her slave and orders her to kill everyone; Piya later says she wasn't in her senses.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true,
+   "match_title": "Ankahee Dastaan – Nazar special episode"
+  },
+  {
+   "title": "Daayan",
+   "year": "2018–19",
+   "format": "tv",
+   "meta": "TV series · &TV · India · Hindi",
+   "summary": "The Daayan possesses Janhvi, who turns evil until freed; an earlier arc has it possess Maanvi and make her attack her own child. In ep. 61 the witch Satrupa hypnotizes a female doctor into recommending an abortion for Jahnvi.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog; Mental Block wiki)",
+   "categories": [],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Daayan"
+    }
+   ],
+   "present": true
+  },
+  {
+   "title": "Divya Drishti",
+   "year": "2019–20",
+   "format": "tv",
+   "meta": "TV series · Star Plus · India · Hindi",
+   "summary": "A pishachini enters Divya's body, suppresses her and declares she will rule it.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Manmohini",
+   "year": "2019",
+   "format": "tv",
+   "meta": "TV soap · Zee TV · India · Hindi",
+   "summary": "The male witch Mann hypnotizes Siya; under his spell she protects him and orders Guruji's arrest.",
+   "confidence_flag": "Medium-high",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Vish",
+   "year": "2019",
+   "format": "tv",
+   "meta": "TV series · Colors · India · Hindi",
+   "summary": "Vishaili takes over Sabrina's human body; how the control works isn't fully stated.",
+   "confidence_flag": "Possible",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Pishachini",
+   "year": "2022",
+   "format": "tv",
+   "meta": "TV series · Colors · India · Hindi",
+   "summary": "Rani turns Amrita and others into pishachas; how the control works isn't fully stated.",
+   "confidence_flag": "Possible",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Pyaar Kii Ye Ek Kahaani",
+   "year": "2010–11",
+   "format": "tv",
+   "meta": "TV series · Star One · ep. 180 · India · Hindi",
+   "summary": "Vampire Abhay entrances Pia with his gaze and erases her memories of their relationship.",
+   "confidence_flag": "Medium",
+   "mechanism": "Vampire memory-wipe gaze",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "vampire",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Pyaar_Kii_Ye_Ek_Kahaani"
+    }
+   ]
+  },
+  {
+   "title": "Maitree",
+   "year": "2023–24",
+   "format": "tv",
+   "meta": "TV serial · Zee TV · ep. 185 · India · Hindi",
+   "summary": "Naagin villain Jhumki hypnotizes Nandini with her gaze and plants a trigger that later makes her attack Maitree with a knife.",
+   "confidence_flag": "Medium",
+   "mechanism": "Naagin's hypnotic gaze + trigger",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "evil-female",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Maitree"
+    }
+   ]
+  },
+  {
+   "title": "Baalveer Returns / Baalveer 3",
+   "year": "2019–",
+   "format": "tv",
+   "meta": "TV series · Sony SAB · S3E44 \"Baalveer Ka Magic Show\" · India · Hindi",
+   "summary": "Aangeel forces Kaashvi's eyes open with a spell and bewitches her with a crystal into the witch's control.",
+   "confidence_flag": "Medium",
+   "mechanism": "Bewitching crystal",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "fantasy",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Baalveer"
+    }
+   ]
+  },
+  {
+   "title": "Daanav Hunters",
+   "year": "2014",
+   "format": "tv",
+   "meta": "TV series · Channel V · ep. 5 · India · Hindi",
+   "summary": "A Daanav keeps a woman in deep hypnotic control while hypnotized men guard him.",
+   "confidence_flag": "Medium",
+   "mechanism": "Demon's hypnosis",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "occult",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Daanav_Hunters"
+    }
+   ]
+  },
+  {
+   "title": "Brahmarakshas",
+   "year": "2016",
+   "format": "tv",
+   "meta": "TV series · Zee TV · S1E3 · India · Hindi",
+   "summary": "Hypnotic music puts Raina in a trance and she dances against her will, with no memory of it afterwards.",
+   "confidence_flag": "Medium",
+   "mechanism": "Hypnotic music",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "occult",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Brahmarakshas"
+    }
+   ]
+  },
+  {
+   "title": "Deva Shappath",
+   "year": "2017–18",
+   "format": "tv",
+   "meta": "TV series · Zee Yuva · ep. 205 · India · Marathi",
+   "summary": "An entity's hypnotic eyes put a woman in a trance, and on its mental command she prepares to hit her friend with a car.",
+   "confidence_flag": "Medium",
+   "mechanism": "Entity's hypnotic eyes",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki; Wikipedia (series))",
+   "categories": [
+    "occult",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Devashappath"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Deva_Shappath"
+    }
+   ]
+  },
+  {
+   "title": "Asambhav",
+   "year": "2008–10",
+   "format": "tv",
+   "meta": "TV serial · Zee Marathi · ep. 292 · India · Marathi",
+   "summary": "A reincarnation serial whose hypnosis episode is tagged with a female hypnotist and a hypnotized woman; no further detail.",
+   "confidence_flag": "Low · lead",
+   "mechanism": "Hypnosis episode (details unknown)",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki (no captions))",
+   "categories": [
+    "other-control",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Asambhav"
+    }
+   ]
+  },
+  {
+   "title": "Nishi Trishna",
+   "year": "1989",
+   "format": "movie",
+   "meta": "Film · first Bengali vampire film · India · Bengali",
+   "summary": "A vampire hypnotizes Santana and Marina and bites them. Shini, protected by a necklace, resists his order to remove it.",
+   "confidence_flag": "High",
+   "mechanism": "Vampire mesmerism",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "vampire",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Nishi_Trishna"
+    }
+   ]
+  },
+  {
+   "title": "Bhaagamathie",
+   "year": "2018",
+   "format": "movie",
+   "meta": "Film · Telugu–Tamil · India · Telugu",
+   "summary": "Chanchala acts as if Queen Bhaagamathie's spirit controls her body, but it's a deliberate ruse rather than real control. Hindi remake: Durgamati (2020).",
+   "confidence_flag": "Boundary · feigned",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Chandramukhi",
+   "year": "2005",
+   "format": "movie",
+   "meta": "Film · India · Tamil",
+   "summary": "Ganga seems to be seized by the dead dancer Chandramukhi, but the film diagnoses split personality rather than real possession.",
+   "confidence_flag": "Possible · ambiguous",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Manichitrathazhu",
+   "year": "1993",
+   "format": "movie",
+   "meta": "Film · India · Malayalam",
+   "summary": "The original of the story family: Ganga takes on the dead dancer Nagavalli's revenge persona; psychiatrist Sunny diagnoses dissociative identity disorder and treats it inside an exorcism ritual.",
+   "confidence_flag": "Possible · ambiguous",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog; Wikipedia)",
+   "categories": [],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Manichitrathazhu"
+    }
+   ],
+   "present": true
+  },
+  {
+   "title": "Apthamitra",
+   "year": "2004",
+   "format": "movie",
+   "meta": "Film · India · Kannada",
+   "summary": "Kannada remake of Manichitrathazhu, with the same split-personality framing.",
+   "confidence_flag": "Possible",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Bhool Bhulaiyaa",
+   "year": "2007",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "Hindi remake of Manichitrathazhu: Avni takes on Manjulika's identity, which is explained as dissociative identity disorder.",
+   "confidence_flag": "Possible",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Durgamati",
+   "year": "2020",
+   "format": "movie",
+   "meta": "Film · remake of Bhaagamathie · India · Hindi",
+   "summary": "The spirit of Queen Durgamati seems to take control of Chanchal; the original's twist suggests it is feigned.",
+   "confidence_flag": "Boundary",
+   "mechanism": "Apparent / feigned spirit control",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia)",
+   "categories": [
+    "other-control",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Durgamati"
+    }
+   ]
+  },
+  {
+   "title": "Rajmohol",
+   "year": "2005",
+   "format": "movie",
+   "meta": "Film · India · Bengali",
+   "summary": "Bengali remake of Manichitrathazhu, with the same split-personality framing.",
+   "confidence_flag": "Possible",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Anamika",
+   "year": "2012–13",
+   "format": "tv",
+   "meta": "TV series · Sony · India · Hindi",
+   "summary": "The witch Anamika possesses Rano and uses the wife's body to dance for and woo Rano's husband Jeet.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Yehh Jadu Hai Jinn Ka",
+   "year": "2019–20",
+   "format": "tv",
+   "meta": "TV series · Star Plus · India · Hindi",
+   "summary": "After she is resurrected, Roshni is under Kabir's spell and agrees to marry him.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Dharam Veer",
+   "year": "1977",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "After a shock, the princess falls into a trance in which she just obeys orders, and she is married to a stranger. She is startled to wake up as his wife.",
+   "confidence_flag": "Boundary · trance not induced by a controller",
+   "mechanism": "Shock-induced obedient trance",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "love",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Dharam_Veer"
+    }
+   ]
+  },
+  {
+   "title": "CID Shankar",
+   "year": "1970",
+   "format": "movie",
+   "meta": "Film · India · Tamil",
+   "summary": "A gang uses an injected hypnotic drug: an entranced woman blows herself up beside a politician, and Vithya is programmed to seduce and kill Shankar with a grenade.",
+   "confidence_flag": "High",
+   "mechanism": "Hypnotic drug",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia; Mental Block wiki)",
+   "categories": [
+    "tech",
+    "crime",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/CID_Shankar"
+    },
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/CID_Shankar_%281970_film%29"
+    }
+   ]
+  },
+  {
+   "title": "Kazhugu",
+   "year": "1981",
+   "format": "movie",
+   "meta": "Film · India · Tamil",
+   "summary": "A cult led by Rajarishi uses hypnotism and drugs: Vasanthi dances in a trance and offers herself as a sacrifice, and Radha nearly meets the same fate before her uncle saves her.",
+   "confidence_flag": "High",
+   "mechanism": "Cult hypnotism and drugs",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia; Mental Block wiki)",
+   "categories": [
+    "cult",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kazhugu_%281981_film%29"
+    },
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Kazhugu_%281981%29"
+    }
+   ]
+  },
+  {
+   "title": "Tahalka",
+   "year": "1992",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "General Dong shows off brainwashed young women as weapons; one blows herself up on command, and Major Rao's daughter is sent on a suicide bombing.",
+   "confidence_flag": "High",
+   "mechanism": "Brainwashing",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki; Wikipedia)",
+   "categories": [
+    "cult",
+    "crime",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Tahalka"
+    },
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Tahalka"
+    }
+   ]
+  },
+  {
+   "title": "Ra.One",
+   "year": "2011",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "Ra.One hypnotizes Sonia (Kareena Kapoor), takes her form and later puts the brainwashed Sonia at the controls of a speeding train, until G.One removes his programming from her mind.",
+   "confidence_flag": "High",
+   "mechanism": "Digital villain's mind control",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia; Mental Block wiki)",
+   "categories": [
+    "scifi",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ra.One"
+    },
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Ra.One"
+    }
+   ]
+  },
+  {
+   "title": "CTRL",
+   "year": "2024",
+   "format": "movie",
+   "meta": "Film · Netflix · India · Hindi",
+   "summary": "Heartbroken influencer Nella gives the AI app CTRL control over her life, and it takes over her actions and digital existence.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Hero – Gayab Mode On",
+   "year": "2020–21",
+   "format": "tv",
+   "meta": "TV series · Sony SAB · S1E75 · India · Hindi",
+   "summary": "Dansh puts a mind-control device on Zara while she sleeps, and when it is switched on she obeys his commands.",
+   "confidence_flag": "Medium",
+   "mechanism": "Mind-control device",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "scifi",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Hero_%E2%80%93_Gayab_Mode_On"
+    }
+   ]
+  },
+  {
+   "title": "Yeh Vaada Raha",
+   "year": "2015–17",
+   "format": "tv",
+   "meta": "TV series · Zee TV · India · Hindi",
+   "summary": "Tai drugs Lata with a medicine so she will do whatever Tai wants.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Vish Ya Amrit: Sitara",
+   "year": "2018–19",
+   "format": "tv",
+   "meta": "TV series · Colors · India · Hindi",
+   "summary": "Vrinda poisons Sitara's mind against the royal family, and Sitara plans to kill them starting with Viraj. This is manipulation, not literal control.",
+   "confidence_flag": "Possible",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Ethirmarai",
+   "year": "2018",
+   "format": "movie",
+   "meta": "Film (listed as Hindi; title suggests Tamil/Kannada) · India · Language unconfirmed (Indian)",
+   "summary": "A hypnotist programs a policeman to kill a colleague and brainwashes a woman doctor into killing a man; hospital security finds her still in a trance.",
+   "confidence_flag": "Medium · language unverified",
+   "mechanism": "Hypnotic programming",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "human",
+    "crime",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Ethirmarai"
+    }
+   ]
+  },
+  {
+   "title": "Sila Nerangalil",
+   "year": "2008",
+   "format": "movie",
+   "meta": "Film · India · Tamil",
+   "summary": "Psychiatrist Krishnan's hypnotherapy reveals Anjali (Navya Nair) is a reincarnated murder victim. The twist: the hypnotist himself is the original killer.",
+   "confidence_flag": "High",
+   "mechanism": "Hypnotherapy / regression",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia)",
+   "categories": [
+    "medical",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Sila_Nerangalil"
+    }
+   ]
+  },
+  {
+   "title": "Ulladakkam",
+   "year": "1991",
+   "format": "movie",
+   "meta": "Film · India · Malayalam",
+   "summary": "Psychiatrist Sunny (Mohanlal) hypnotizes the traumatized patient Reshma (Amala) to recover memories of her boyfriend's murder, and she then becomes fixated on him (transference).",
+   "confidence_flag": "High · therapeutic",
+   "mechanism": "Therapeutic hypnosis",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia)",
+   "categories": [
+    "medical",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ulladakkam"
+    }
+   ]
+  },
+  {
+   "title": "Kudrat",
+   "year": "1981",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "Chandramukhi (Hema Malini) is hypnotized to remember her past life as Paro, which uncovers an old rape and murder.",
+   "confidence_flag": "High · regression",
+   "mechanism": "Past-life regression hypnosis",
+   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia; Mental Block wiki)",
+   "categories": [
+    "medical",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kudrat"
+    },
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Kudrat"
+    }
+   ]
+  },
+  {
+   "title": "Dangerous Ishhq",
+   "year": "2012",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "Sanjana (Karisma Kapoor) undergoes past-life regression hypnosis, and the memories it brings back drive her present-day choices.",
+   "confidence_flag": "High · therapeutic",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Shree",
+   "year": "2008–09",
+   "format": "tv",
+   "meta": "TV soap · Zee TV · ep. 103 · India · Hindi",
+   "summary": "A hypnotist hypnotizes Shree to reveal her past.",
+   "confidence_flag": "Medium",
+   "mechanism": "Regression hypnosis",
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
+   "categories": [
+    "medical",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Shree"
+    }
+   ]
+  },
+  {
+   "title": "Bandh Darwaza",
+   "year": "1990",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "Vampire Neola hypnotizes Lajo and gets her pregnant while she's under his control. Later the tantrik brainwashes Lajo's grown daughter Kamya into his obedient slave, and Neola hypnotizes and bites Bhanu.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog; Mental Block wiki)",
+   "categories": [
+    "vampire"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Bandh_Darwaza"
+    }
+   ],
+   "present": true
+  },
+  {
+   "title": "Help",
+   "year": "2010",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "After Pia learns she is pregnant, an evil spirit tied to an unborn triplet possesses her and makes her kill her father; women in her maternal line are possessed when pregnant.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Chhorii",
+   "year": "2021",
+   "format": "movie",
+   "meta": "Film · remake of Lapachhapi · India · Hindi",
+   "summary": "Sunaini's vengeful ghost forces a pregnant woman to cut her own womb, then torments and controls the pregnant Sakshi.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Sasural Simar Ka",
+   "year": "2011–18",
+   "format": "tv",
+   "meta": "TV soap · Colors · India · Hindi",
+   "summary": "Simar is possessed by Sunaina and later Patali Devi. In July 2016 the witches Mahamaya and Kamya use black magic to make her pregnant with the evil Kaal and take total control of her, ordering her to sacrifice Mataji.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Laal Ishq",
+   "year": "2018",
+   "format": "tv",
+   "meta": "TV horror anthology · &TV / ZEE5 · India · Hindi",
+   "summary": "The ghost Shanti possesses and hypnotizes the pregnant Sonya, who attacks her husband and tries to force a premature delivery, until last rites free her.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Naagin 3",
+   "year": "2018–19",
+   "format": "tv",
+   "meta": "TV serial · Colors · India · Hindi",
+   "summary": "Hukum hypnotizes Vish with his eyes and makes her pregnant with Andhka by magic; the unborn child keeps her under his spell and turns her against her allies.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Kavach… Mahashivratri (Kavach 2)",
+   "year": "2019",
+   "format": "tv",
+   "meta": "TV serial · Colors · India · Hindi",
+   "summary": "The evil spirit Kapil possesses and deceives Sandhya through a false marriage, and the forced supernatural relationship gets her pregnant.",
+   "confidence_flag": "Medium-high",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true,
+   "match_title": "Kavach… Mahashivratri / Kavach 2"
+  },
+  {
+   "title": "Lapachhapi",
+   "year": "2017",
+   "format": "movie",
+   "meta": "Film · India · Marathi",
+   "summary": "Kaveri's vengeful spirit drives pregnant women mad and forces them to stab themselves.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Munjya",
+   "year": "2024",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "Gotya died young and became the entity Munjya. In the climax he enters adult Bela, pushes her soul into a goat and attacks through her body.",
+   "confidence_flag": "High",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Payal (Part 1)",
+   "year": "2024",
+   "format": "tv",
+   "meta": "Ullu web series · released 31 Dec 2024 · India · Hindi",
+   "summary": "A lecherous older man owns a magical anklet that hypnotizes any woman who wears it into his servant. His grandson steals it and gives it to another woman, with the same result, until the effect fades.",
+   "confidence_flag": "Medium-high (trailer + platform synopsis)",
+   "mechanism": "Enchanted hypnotic anklet",
+   "provenance": "India-only research pass, 30 Sep 2026 (UniqueNewsOnline)",
+   "categories": [
+    "adult-hypnosis",
+    "fantasy",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "UniqueNewsOnline",
+     "url": "https://www.uniquenewsonline.com/payal-part-1-cast-trailer-release-date-and-storyline-of-the-ullu-web-series/"
+    }
+   ]
+  },
+  {
+   "title": "Possessed Love (a.k.a. Rooh)",
+   "year": "2021",
+   "format": "tv",
+   "meta": "Ullu web series · released 23 Mar 2021 · India · Hindi",
+   "summary": "Bride-to-be Sarika ignores a warning not to go out on her haldi night. A malicious entity attaches to her and drives an attraction to her husband's friend that wrecks the marriage.",
+   "confidence_flag": "Medium-high",
+   "mechanism": "Spirit possession",
+   "provenance": "India-only research pass, 30 Sep 2026 (HindiFilmiDuniya review; nettv4u)",
+   "categories": [
+    "adult-hypnosis",
+    "cheat-control",
+    "spirit",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "HindiFilmiDuniya",
+     "url": "https://www.hindifilmiduniya.com/2026/08/possessed-love-ullu-series-review.html"
+    },
+    {
+     "label": "nettv4u",
+     "url": "https://nettv4u.com/about/hindi/web-series/possessed-love"
+    }
+   ]
+  },
+  {
+   "title": "Satan: The Dark",
+   "year": "2026",
+   "format": "movie",
+   "meta": "Adult / erotic horror film · India · Tamil",
+   "summary": "A woman turns to Satan worship; the synopsis describes a failed colonial-era witchcraft ritual and a generational curse. No control or pregnancy element is verified.",
+   "confidence_flag": "Unresolved lead",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Ore Kadal",
+   "year": "2007",
+   "format": "movie",
+   "meta": "Film · India · Malayalam",
+   "summary": "Married mother Deepti has an affair with Dr. Nathan and becomes pregnant by him; her husband raises both children.",
+   "confidence_flag": "High · wife-with-child pregnant by another man",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Punar Vivah – Zindagi Milegi Dobara",
+   "year": "2012–14",
+   "format": "tv",
+   "meta": "TV serial · Zee TV · India · Hindi",
+   "summary": "Divorced mother Aarti marries widower Yash and finds she is pregnant with his child.",
+   "confidence_flag": "Exact match · single mom remarries and gets pregnant",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Doli Armaanon Ki",
+   "year": "2013–15",
+   "format": "tv",
+   "meta": "TV serial · Zee TV · India · Hindi",
+   "summary": "Divorced mother Urmi marries Ishaan Sinha and gives birth to daughter Ishaani.",
+   "confidence_flag": "Exact match · single mom remarries and gets pregnant",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Kabhi Khushi Kabhie Gham...",
+   "year": "2001",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "Rahul is the Raichands' adopted elder son; Yash and Nandini later have a biological son, Rohan.",
+   "confidence_flag": "Medium · adopt-then-pregnant",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Badhaai Ho",
+   "year": "2018",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "Priyamvada, mother of adult sons, becomes unexpectedly pregnant after a tender, implied scene with her husband.",
+   "confidence_flag": "High · pregnant intimate (adult family only)",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Ribbon",
+   "year": "2017",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "summary": "Heavily pregnant Sahana and her husband Karan share a consensual intimate scene; the CBFC cut it by about half.",
+   "confidence_flag": "High · pregnant-character intimacy",
+   "mechanism": "",
+   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "categories": [],
+   "sources": [],
+   "present": true
+  },
+  {
+   "title": "Naagin 5",
+   "year": "2020–21",
+   "format": "tv",
+   "meta": "TV serial · India · Hindi · Colors · ep. 24",
+   "summary": "Jay throws a magic potion into the pool, and its steam puts Bani into a trance while she sleeps. She waits for his commands as he programs her mind.",
+   "categories": [
+    "fantasy",
+    "india-control"
+   ],
+   "mechanism": "Magic potion trance",
+   "confidence_flag": "Medium",
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Naagin"
+    }
+   ],
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)"
+  },
+  {
+   "title": "Naagin 6",
+   "year": "2022–23",
+   "format": "tv",
+   "meta": "TV serial · India · Hindi · Colors · ep. 138",
+   "summary": "Snake charmers surround Pragati's car and play their music, which hypnotizes her into her serpent form and makes her dance in a trance.",
+   "categories": [
+    "tantrik",
+    "india-control"
+   ],
+   "mechanism": "Snake-charmer's hypnotic music",
+   "confidence_flag": "Medium",
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Naagin"
+    }
+   ],
+   "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)"
+  }
+ ],
+ "dropped": [
+  {
+   "title": "Ssshhhh...Koi Hai",
+   "year": "2002–03",
+   "reason": "already present as two episode records (S1E69, S1E94)"
+  },
+  {
+   "title": "Fear Files",
+   "year": "2012–",
+   "reason": "a hypnotized child (the mother's son) is part of the controlled scene; child/teen exclusion"
+  },
+  {
+   "title": "Garam Masala",
+   "year": "2023",
+   "reason": "unverified lead; its only source page now returns 404"
+  },
+  {
+   "title": "Vashikaran",
+   "year": "2023",
+   "reason": "out of scope: the women use the magic, or a man is the one controlled"
+  },
+  {
+   "title": "Vashikaran",
+   "year": "2024",
+   "reason": "out of scope: the women use the magic, or a man is the one controlled"
+  }
+ ]
+}

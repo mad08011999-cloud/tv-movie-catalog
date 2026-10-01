@@ -4,6 +4,11 @@ the sources, de-duplicate records, and regenerate the static site deterministica
 
 Usage:  python scripts/sync.py [--out REPO_ROOT]
 
+Local sources (SOURCES entries with a "local" path) are hand-curated JSON files kept in the repo,
+e.g. sources/india-catalog.json. They are read, never scraped or rewritten, and merged like any other
+source: a local record that matches an existing title+year (or names one in "match_title") only adds
+missing fields, categories and source links; anything else becomes a new record.
+
 Generated (overwritten) files:
   data.json, dedupe_report.json, assets/data.js, assets/style.css,
   original/<source-id>/..., sources/<source-id>.json (cache for optional sources), thumbs/*.jpg
@@ -13,6 +18,7 @@ Pipeline
   1. Every source in SOURCES is rendered in headless Chromium. Its structure is auto-detected:
        "full"  - full catalog page with a global `entries` array and rendered #grid sections
        "index" - title-only index page with a global `categories` array of groups/titles
+     Local sources are loaded from their JSON file instead ("local" kind).
   2. Completeness check per source, done on the RAW extraction before any de-duplication:
        full : len(entries) must equal the page's own total (#totalRecordsHeading)
        index: number of title items must equal the page's own "N named catalog entries shown"
@@ -35,6 +41,9 @@ SOURCES = [
      "url": "https://muse.ai/s/tv-and-movie-research-catalog-xla62ucxbx02u5", "required": True},
     {"id": "ig6qlxqxoxvcxla", "label": "Title index",
      "url": "https://muse.ai/s/tv-and-movie-research-catalog-ig6qlxqxoxvcxla", "required": False},
+    # hand-curated records kept in the repo (not scraped); merged into the existing categories
+    {"id": "india-catalog", "label": "India-only research additions", "local": "sources/india-catalog.json",
+     "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -429,6 +438,36 @@ def parse_index(src, payload, label_to_key):
     return {"meta": meta, "check": check, "records": records, "sections": list(sections.values())}
 
 
+def parse_local(src, payload, known_labels):
+    """Hand-curated local source: {"records": [...], "group_title": ...}. Every record carries its own
+    categories (existing category keys). A section group per category places the records on the page."""
+    records, sections = [], {}
+    for i, x in enumerate(payload["records"]):
+        r = {"rid": f"{src['id']}:{i + 1}", "source": src["id"], "order": i, "title": x["title"],
+             "subtitle": x.get("subtitle", ""), "year": x.get("year", ""), "format": x.get("format", "movie"),
+             "meta": x.get("meta", ""), "categories": list(x.get("categories", [])),
+             "mechanism": x.get("mechanism", ""), "confidence_flag": x.get("confidence_flag", ""),
+             "summary": x.get("summary", ""), "character": x.get("character", ""),
+             "provenance": x.get("provenance", ""), "note": x.get("note", ""),
+             "sources": [{"label": s_["label"], "url": s_["url"]} for s_ in x.get("sources", []) if s_.get("url")],
+             "youtube_ids": [], "match_title": x.get("match_title", ""), "raw": x}
+        for s_ in r["sources"]:
+            mm = YT.search(s_["url"])
+            if mm and mm.group(1) not in r["youtube_ids"]:
+                r["youtube_ids"].append(mm.group(1))
+        records.append(r)
+        for c in r["categories"]:
+            sec = sections.setdefault(c, {"title": known_labels.get(c, c), "category": c, "description": "",
+                                          "notes": [], "from_sources": [src["id"]],
+                                          "groups": [{"title": payload.get("group_title") or src["label"],
+                                                      "items": [], "notes": []}]})
+            sec["groups"][0]["items"].append({"rid": r["rid"]})
+    check = {"raw_count": len(records), "ok": bool(records)}
+    meta = {"id": src["id"], "label": src["label"], "kind": "local", "share_url": src["local"],
+            "description": payload.get("description", ""), "dropped": payload.get("dropped", [])}
+    return {"meta": meta, "check": check, "records": records, "sections": list(sections.values())}
+
+
 # --------------------------------------------------------------------------- de-duplication
 def dedupe(records):
     """Group records that share a normalized title key and a compatible year.
@@ -544,6 +583,29 @@ def dedupe(records):
                 cands[0]["members"].append(r)
             else:
                 add(r, "index:" + norm_title(r["title"]))
+    # pass 3: local (hand-curated) records -> explicit match_title or exact title+year against any group,
+    # then alias keys against full-catalog groups; otherwise their own group (no prefix matching)
+    for r in [r for r in records if r["kind"] == "local"]:
+        yk = year_key(r["year"])
+        tk = norm_title(r["match_title"] or r["title"])
+        via = "match_title" if r["match_title"] else "title+year"
+        cands = [g for g in by_title.get(tk, []) + by_title.get("index:" + tk, []) if compatible(g, yk)]
+        if not cands and not r["match_title"]:
+            via = "alias"
+            for k in alias_keys(r["title"]):
+                cands = [g for g in alias.get(k, []) if compatible(g, yk)]
+                if cands:
+                    break
+        if cands:
+            g = sorted(cands, key=lambda g: (not any(m["kind"] == "full" for m in g["members"]),
+                                             0 if yk and yk in g["years"] else 1,
+                                             min((m["source_rank"], m["order"]) for m in g["members"])))[0]
+            g["members"].append(r)
+            g["via"][r["rid"]] = via
+            if yk:
+                g["years"].add(yk)
+        else:
+            add(r, "local:" + norm_title(r["title"]))
     return groups
 
 
@@ -553,8 +615,9 @@ FILL_FIELDS = ("subtitle", "year", "meta", "mechanism", "confidence_flag", "summ
 
 def merge_group(g, new_id):
     members = g["members"]
-    # primary: full-catalog record before index record; with a year before without; then source order
-    primary = sorted(members, key=lambda m: (m["kind"] != "full", not year_key(m["year"]),
+    # primary: full-catalog record before index record before local (hand-curated) record; with a year
+    # before without; then source order. A local record therefore never replaces an existing primary.
+    primary = sorted(members, key=lambda m: (m["kind"] != "full", m["kind"] == "local", not year_key(m["year"]),
                                              m["source_rank"], m["order"]))[0]
     rec = {"id": new_id, "title": primary["title"]}
     for f in FILL_FIELDS:
@@ -578,6 +641,7 @@ def merge_group(g, new_id):
     rec["from_sources"] = sorted({m["source"] for m in members}, key=lambda s: SOURCE_RANK[s])
     rec["source_records"] = [m["rid"] for m in sorted(members, key=lambda m: (m["source_rank"], m["order"]))]
     rec["index_only"] = all(m["kind"] == "index" for m in members)
+    rec["local_only"] = all(m["kind"] == "local" for m in members)
     rec["thumbnail"] = None
     others = [m for m in sorted(members, key=lambda m: (m["source_rank"], m["order"])) if m is not primary]
     rec["merged_from"] = [{k: m[k] for k in ("rid", "title", "subtitle", "year", "meta", "summary", "mechanism",
@@ -590,7 +654,7 @@ def merge_group(g, new_id):
 
 
 SOURCE_RANK = {s["id"]: i for i, s in enumerate(SOURCES)}
-SHARE_URLS = {s["url"] for s in SOURCES}
+SHARE_URLS = {s["url"] for s in SOURCES if s.get("url")}
 
 
 def build(parsed):
@@ -745,6 +809,7 @@ def build(parsed):
     report["within_source_groups"] = sum(1 for g in report["merged_groups"] if g["scope"] == "within-source")
     report["cross_source_groups"] = sum(1 for g in report["merged_groups"] if g["scope"] == "cross-source")
     report["index_only_records"] = sum(1 for e in entries if e["index_only"])
+    report["local_only_records"] = sum(1 for e in entries if e["local_only"])
     return data, report, full["css"]
 
 
@@ -797,6 +862,23 @@ def main():
     parsed, files_by_source, problems = {}, {}, []
     label_to_key = None
     for src in SOURCES:
+        if src.get("local"):
+            path = os.path.join(out, src["local"])
+            if not os.path.exists(path):
+                path = os.path.join(os.path.dirname(HERE), src["local"])
+            try:
+                with open(path, encoding="utf-8") as f:
+                    known = {c["key"]: c["label"] for c in parsed[SOURCES[0]["id"]]["categories"]}
+                    result = parse_local(src, json.load(f), known)
+                result["status"] = "local"
+                parsed[src["id"]] = result
+                log(f"{src['id']}: local file {src['local']} check={json.dumps(result['check'])}")
+            except Exception as exc:
+                msg = f"{src['id']}: local source failed: {type(exc).__name__}: {exc}"
+                if src["required"]:
+                    raise SystemExit(msg + "; required source - nothing written")
+                problems.append(msg + "; skipped")
+            continue
         cache_path = os.path.join(out, "sources", src["id"] + ".json")
         result = None
         for attempt in range(1, ATTEMPTS + 1):   # retry: a page that is still rendering fails the check
@@ -842,6 +924,7 @@ def main():
     log(f"raw_counts={data['raw_counts']} after_dedupe={data['entry_count']} "
         f"merged_groups={len(report['merged_groups'])} (within={report['within_source_groups']}, "
         f"cross={report['cross_source_groups']}) index_only={report['index_only_records']} "
+        f"local_only={report['local_only_records']} "
         f"unplaced={len(data['unplaced_entry_ids'])}")
 
     fetch_thumbs(data, out)

@@ -830,6 +830,13 @@
      "subtitle": "",
      "year": "2010 Marathi",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:22",
+     "title": "Tee Ratra",
+     "subtitle": "",
+     "year": "2010",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -1016,6 +1023,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:245",
      "title": "Silence of Sleep (2020)",
+     "subtitle": "",
+     "year": "2020",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:19",
+     "title": "Silence of Sleep",
      "subtitle": "",
      "year": "2020",
      "matched_by": "title+year"
@@ -1726,6 +1740,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "prefix"
+    },
+    {
+     "rid": "india-catalog:157",
+     "title": "Punar Vivah – Zindagi Milegi Dobara",
+     "subtitle": "",
+     "year": "2012–14",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -1745,6 +1766,13 @@
      "title": "Doli Armaanon Ki",
      "subtitle": "",
      "year": "",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:158",
+     "title": "Doli Armaanon Ki",
+     "subtitle": "",
+     "year": "2013–15",
      "matched_by": "title+year"
     }
    ]
@@ -2902,6 +2930,13 @@
      "subtitle": "",
      "year": "2018",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:160",
+     "title": "Badhaai Ho",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -3366,6 +3401,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:144",
+     "title": "Bandh Darwaza",
+     "subtitle": "",
+     "year": "1990",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -3414,6 +3456,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:145",
+     "title": "Help",
+     "subtitle": "",
+     "year": "2010",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -3455,6 +3504,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:151",
+     "title": "Lapachhapi",
+     "subtitle": "",
+     "year": "2017",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -3495,6 +3551,13 @@
      "title": "Chhorii",
      "subtitle": "",
      "year": "",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:146",
+     "title": "Chhorii",
+     "subtitle": "",
+     "year": "2021",
      "matched_by": "title+year"
     }
    ]
@@ -3543,6 +3606,13 @@
      "title": "Sasural Simar Ka",
      "subtitle": "",
      "year": "",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:147",
+     "title": "Sasural Simar Ka",
+     "subtitle": "",
+     "year": "2011–18",
      "matched_by": "title+year"
     }
    ]
@@ -3631,6 +3701,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "alias"
+    },
+    {
+     "rid": "india-catalog:148",
+     "title": "Laal Ishq",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -3664,6 +3741,13 @@
      "title": "Naagin 3",
      "subtitle": "",
      "year": "",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:149",
+     "title": "Naagin 3",
+     "subtitle": "",
+     "year": "2018–19",
      "matched_by": "title+year"
     }
    ]
@@ -4431,6 +4515,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:98",
+     "title": "Kavach… Kaali Shaktiyon Se",
+     "subtitle": "",
+     "year": "2016",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -4457,6 +4548,13 @@
      "title": "1920",
      "subtitle": "",
      "year": "",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:80",
+     "title": "1920",
+     "subtitle": "",
+     "year": "2008",
      "matched_by": "title+year"
     }
    ]
@@ -4491,6 +4589,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:81",
+     "title": "1920: Evil Returns",
+     "subtitle": "",
+     "year": "2012",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -4518,6 +4623,13 @@
      "subtitle": "",
      "year": "2002",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:97",
+     "title": "Raaz",
+     "subtitle": "",
+     "year": "2002",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -4535,6 +4647,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:383",
      "title": "Raaz Reboot (2016)",
+     "subtitle": "",
+     "year": "2016",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:83",
+     "title": "Raaz Reboot",
      "subtitle": "",
      "year": "2016",
      "matched_by": "title+year"
@@ -4565,6 +4684,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:85",
+     "title": "Alone",
+     "subtitle": "",
+     "year": "2015",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -4592,6 +4718,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:54",
+     "title": "Arundhati",
+     "subtitle": "",
+     "year": "2009",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -4611,6 +4744,13 @@
      "title": "Mayamohini (2016 Tamil)",
      "subtitle": "",
      "year": "2016 Tamil",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:95",
+     "title": "Mayamohini",
+     "subtitle": "",
+     "year": "2016",
      "matched_by": "title+year"
     }
    ]
@@ -4645,6 +4785,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:40",
+     "title": "Qayamat Ki Raat",
+     "subtitle": "",
+     "year": "2018–19",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -4678,6 +4825,13 @@
      "subtitle": "",
      "year": "2018",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:105",
+     "title": "Nazar",
+     "subtitle": "",
+     "year": "2018–20",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -4695,6 +4849,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:391",
      "title": "Uttaran (2008–15)",
+     "subtitle": "",
+     "year": "2008–15",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:38",
+     "title": "Uttaran",
      "subtitle": "",
      "year": "2008–15",
      "matched_by": "title+year"
@@ -4738,6 +4899,13 @@
      "subtitle": "",
      "year": "2018 Hindi series",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:39",
+     "title": "Tantra",
+     "subtitle": "",
+     "year": "2018–19",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -4758,6 +4926,13 @@
      "subtitle": "",
      "year": "2026",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:41",
+     "title": "Vashikaranam",
+     "subtitle": "",
+     "year": "2026",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -4775,6 +4950,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:394",
      "title": "Chandramukhi (2005)",
+     "subtitle": "",
+     "year": "2005",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:121",
+     "title": "Chandramukhi",
      "subtitle": "",
      "year": "2005",
      "matched_by": "title+year"
@@ -4811,6 +4993,13 @@
      "subtitle": "",
      "year": "1993",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:122",
+     "title": "Manichitrathazhu",
+     "subtitle": "",
+     "year": "1993",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -4828,6 +5017,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:396",
      "title": "Apthamitra (2004)",
+     "subtitle": "",
+     "year": "2004",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:123",
+     "title": "Apthamitra",
      "subtitle": "",
      "year": "2004",
      "matched_by": "title+year"
@@ -4851,6 +5047,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "alias"
+    },
+    {
+     "rid": "india-catalog:126",
+     "title": "Rajmohol",
+     "subtitle": "",
+     "year": "2005",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -4884,6 +5087,13 @@
      "subtitle": "",
      "year": "2007",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:124",
+     "title": "Bhool Bhulaiyaa",
+     "subtitle": "",
+     "year": "2007",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -4911,6 +5121,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:55",
+     "title": "Nagavalli",
+     "subtitle": "",
+     "year": "2010",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -4930,6 +5147,13 @@
      "title": "Parvaiyin Marupakkam (1982 Tamil)",
      "subtitle": "",
      "year": "1982 Tamil",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:5",
+     "title": "Parvaiyin Marupakkam",
+     "subtitle": "",
+     "year": "1982",
      "matched_by": "title+year"
     }
    ]
@@ -4978,6 +5202,13 @@
      "subtitle": "",
      "year": "2024",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:134",
+     "title": "CTRL",
+     "subtitle": "",
+     "year": "2024",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -4998,6 +5229,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "alias"
+    },
+    {
+     "rid": "india-catalog:104",
+     "title": "Naagin",
+     "subtitle": "",
+     "year": "2015–",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -5018,6 +5256,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "alias"
+    },
+    {
+     "rid": "india-catalog:70",
+     "title": "Maari",
+     "subtitle": "",
+     "year": "2022–",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -5038,6 +5283,13 @@
      "subtitle": "",
      "year": "2012",
      "matched_by": "alias"
+    },
+    {
+     "rid": "india-catalog:142",
+     "title": "Dangerous Ishhq",
+     "subtitle": "",
+     "year": "2012",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -5098,6 +5350,13 @@
      "subtitle": "",
      "year": "2018",
      "matched_by": "alias"
+    },
+    {
+     "rid": "india-catalog:120",
+     "title": "Bhaagamathie",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -5787,6 +6046,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:476",
      "title": "Qubool Hai (2014)",
+     "subtitle": "",
+     "year": "2014",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:14",
+     "title": "Qubool Hai",
      "subtitle": "",
      "year": "2014",
      "matched_by": "title+year"
@@ -6545,6 +6811,13 @@
      "subtitle": "",
      "year": "1978",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:71",
+     "title": "Lisa",
+     "subtitle": "",
+     "year": "1978",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -6565,6 +6838,13 @@
      "subtitle": "",
      "year": "1987",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:72",
+     "title": "Veendum Lisa",
+     "subtitle": "",
+     "year": "1987",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -6582,6 +6862,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:535",
      "title": "Aakasha Ganga (1999)",
+     "subtitle": "",
+     "year": "1999",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:73",
+     "title": "Aakasha Ganga",
      "subtitle": "",
      "year": "1999",
      "matched_by": "title+year"
@@ -6609,6 +6896,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:536",
      "title": "Raat / Raatri (1992)",
+     "subtitle": "",
+     "year": "1992",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:56",
+     "title": "Raat / Raatri",
      "subtitle": "",
      "year": "1992",
      "matched_by": "title+year"
@@ -6693,6 +6987,13 @@
      "subtitle": "",
      "year": "2003",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:82",
+     "title": "Bhoot",
+     "subtitle": "",
+     "year": "2003",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -6740,6 +7041,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:84",
+     "title": "Ragini MMS 2",
+     "subtitle": "",
+     "year": "2014",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -6759,6 +7067,13 @@
      "title": "Mantra 2",
      "subtitle": "",
      "year": "",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:57",
+     "title": "Mantra 2",
+     "subtitle": "",
+     "year": "2015",
      "matched_by": "title+year"
     }
    ]
@@ -6787,6 +7102,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:62",
+     "title": "Aranmanai 2",
+     "subtitle": "",
+     "year": "2016",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -6806,6 +7128,13 @@
      "title": "Dhilluku Dhuddu",
      "subtitle": "",
      "year": "",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:63",
+     "title": "Dhilluku Dhuddu",
+     "subtitle": "",
+     "year": "2016",
      "matched_by": "title+year"
     }
    ]
@@ -6874,6 +7203,13 @@
      "subtitle": "",
      "year": "2021",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:88",
+     "title": "Roohi",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -6922,6 +7258,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:99",
+     "title": "Yeh Hai Mohabbatein",
+     "subtitle": "",
+     "year": "2015 arc",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -6954,6 +7297,13 @@
      "title": "Divya Drishti",
      "subtitle": "",
      "year": "",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:108",
+     "title": "Divya Drishti",
+     "subtitle": "",
+     "year": "2019–20",
      "matched_by": "title+year"
     }
    ]
@@ -6989,6 +7339,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:128",
+     "title": "Yehh Jadu Hai Jinn Ka",
+     "subtitle": "",
+     "year": "2019–20",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -7008,6 +7365,13 @@
      "title": "Kaal Bhairav Rahasya",
      "subtitle": "",
      "year": "",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:90",
+     "title": "Kaal Bhairav Rahasya",
+     "subtitle": "",
+     "year": "2019",
      "matched_by": "title+year"
     }
    ]
@@ -7043,6 +7407,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:107",
+     "title": "Daayan",
+     "subtitle": "",
+     "year": "2018–19",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -7062,6 +7433,13 @@
      "title": "Manmohini",
      "subtitle": "",
      "year": "",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:109",
+     "title": "Manmohini",
+     "subtitle": "",
+     "year": "2019",
      "matched_by": "title+year"
     }
    ]
@@ -7631,6 +8009,13 @@
      "subtitle": "",
      "year": "1988",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:35",
+     "title": "Veerana",
+     "subtitle": "",
+     "year": "1988",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -7648,6 +8033,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:587",
      "title": "Raaz 3 (2012)",
+     "subtitle": "",
+     "year": "2012",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:36",
+     "title": "Raaz 3",
      "subtitle": "",
      "year": "2012",
      "matched_by": "title+year"
@@ -7689,6 +8081,26 @@
     {
      "rid": "ig6qlxqxoxvcxla:588",
      "title": "Shaitaan (2024)",
+     "subtitle": "",
+     "year": "2024",
+     "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 351,
+   "kept": "Tantra (2024)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:374",
+     "title": "Tantra",
+     "subtitle": "",
+     "year": "2024"
+    },
+    {
+     "rid": "india-catalog:28",
+     "title": "Tantra",
      "subtitle": "",
      "year": "2024",
      "matched_by": "title+year"
@@ -7743,6 +8155,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:591",
      "title": "Bhool Bhulaiyaa 2 (2022)",
+     "subtitle": "",
+     "year": "2022",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:37",
+     "title": "Bhool Bhulaiyaa 2",
      "subtitle": "",
      "year": "2022",
      "matched_by": "title+year"
@@ -8241,6 +8660,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:94",
+     "title": "Aranmanai",
+     "subtitle": "",
+     "year": "2014",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -8267,6 +8693,13 @@
      "title": "Anamika",
      "subtitle": "",
      "year": "",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:127",
+     "title": "Anamika",
+     "subtitle": "",
+     "year": "2012–13",
      "matched_by": "title+year"
     }
    ]
@@ -8370,6 +8803,13 @@
      "subtitle": "",
      "year": "1984",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:34",
+     "title": "Purana Mandir",
+     "subtitle": "",
+     "year": "1984",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -8394,6 +8834,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:447",
      "title": "Gehrayee (1980)",
+     "subtitle": "",
+     "year": "1980",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:33",
+     "title": "Gehrayee",
      "subtitle": "",
      "year": "1980",
      "matched_by": "title+year"
@@ -8424,6 +8871,13 @@
      "subtitle": "",
      "year": "2021",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:106",
+     "title": "Ankahee Dastaan – Nazar special",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -8441,6 +8895,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:427",
      "title": "Shock (2004)",
+     "subtitle": "",
+     "year": "2004",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:61",
+     "title": "Shock",
      "subtitle": "",
      "year": "2004",
      "matched_by": "title+year"
@@ -8464,6 +8925,13 @@
      "subtitle": "",
      "year": "2020",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:87",
+     "title": "Bhoot – Part One: The Haunted Ship",
+     "subtitle": "",
+     "year": "2020",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -8481,6 +8949,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:429",
      "title": "Bhool Bhulaiyaa 3 (2024)",
+     "subtitle": "",
+     "year": "2024",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:89",
+     "title": "Bhool Bhulaiyaa 3",
      "subtitle": "",
      "year": "2024",
      "matched_by": "title+year"
@@ -8504,6 +8979,13 @@
      "subtitle": "",
      "year": "2023",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:69",
+     "title": "Chandramukhi 2",
+     "subtitle": "",
+     "year": "2023",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -8521,6 +9003,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:431",
      "title": "Aptharakshaka (2010)",
+     "subtitle": "",
+     "year": "2010",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:76",
+     "title": "Aptharakshaka",
      "subtitle": "",
      "year": "2010",
      "matched_by": "title+year"
@@ -8544,6 +9033,13 @@
      "subtitle": "",
      "year": "2017",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:75",
+     "title": "Ezra",
+     "subtitle": "",
+     "year": "2017",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -8561,6 +9057,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:433",
      "title": "Dybbuk (2021)",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:86",
+     "title": "Dybbuk",
      "subtitle": "",
      "year": "2021",
      "matched_by": "title+year"
@@ -8584,6 +9087,13 @@
      "subtitle": "",
      "year": "2016",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:60",
+     "title": "Abhinetri / Devi / Tutak Tutak Tutiya",
+     "subtitle": "",
+     "year": "2016",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -8604,6 +9114,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "alias"
+    },
+    {
+     "rid": "india-catalog:91",
+     "title": "Aahat",
+     "subtitle": "",
+     "year": "1995–2015",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -8624,6 +9141,13 @@
      "subtitle": "",
      "year": "2019",
      "matched_by": "alias"
+    },
+    {
+     "rid": "india-catalog:110",
+     "title": "Vish",
+     "subtitle": "",
+     "year": "2019",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -8644,6 +9168,13 @@
      "subtitle": "",
      "year": "2022",
      "matched_by": "alias"
+    },
+    {
+     "rid": "india-catalog:111",
+     "title": "Pishachini",
+     "subtitle": "",
+     "year": "2022",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -8671,6 +9202,13 @@
      "subtitle": "",
      "year": "2015–17",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:136",
+     "title": "Yeh Vaada Raha",
+     "subtitle": "",
+     "year": "2015–17",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -8695,6 +9233,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:664",
      "title": "Vish Ya Amrit: Sitara (2018–19)",
+     "subtitle": "",
+     "year": "2018–19",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:137",
+     "title": "Vish Ya Amrit: Sitara",
      "subtitle": "",
      "year": "2018–19",
      "matched_by": "title+year"
@@ -8795,6 +9340,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:356",
      "title": "Kabhi Khushi Kabhie Gham (2001)",
+     "subtitle": "",
+     "year": "2001",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:159",
+     "title": "Kabhi Khushi Kabhie Gham...",
      "subtitle": "",
      "year": "2001",
      "matched_by": "title+year"
@@ -9907,6 +10459,13 @@
      "subtitle": "",
      "year": "1978",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:93",
+     "title": "Aayiram Jenmangal",
+     "subtitle": "",
+     "year": "1978",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -10107,6 +10666,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:96",
+     "title": "Yakshagaanam",
+     "subtitle": "",
+     "year": "1976",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -10124,6 +10690,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:297",
      "title": "Devude Gelichadu (1976)",
+     "subtitle": "",
+     "year": "1976",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:92",
+     "title": "Devude Gelichadu",
      "subtitle": "",
      "year": "1976",
      "matched_by": "title+year"
@@ -10533,6 +11106,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:718",
      "title": "Munjya (2024)",
+     "subtitle": "",
+     "year": "2024",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:152",
+     "title": "Munjya",
      "subtitle": "",
      "year": "2024",
      "matched_by": "title+year"
@@ -11583,6 +12163,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:876",
      "title": "Ribbon (2017)",
+     "subtitle": "",
+     "year": "2017",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:161",
+     "title": "Ribbon",
      "subtitle": "",
      "year": "2017",
      "matched_by": "title+year"
@@ -12749,6 +13336,26 @@
    ]
   },
   {
+   "kept_id": 674,
+   "kept": "FIR — ep 1302 \"Inspector Chautala Hypnotized\" (Year unresolved)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:708",
+     "title": "FIR — ep 1302 \"Inspector Chautala Hypnotized\"",
+     "subtitle": "",
+     "year": "Year unresolved"
+    },
+    {
+     "rid": "india-catalog:13",
+     "title": "FIR",
+     "subtitle": "",
+     "year": "",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 677,
    "kept": "Caminhos do Coração (2007–08)",
    "scope": "cross-source",
@@ -13401,6 +14008,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:156",
+     "title": "Ore Kadal",
+     "subtitle": "",
+     "year": "2007",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -13967,6 +14581,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "india-catalog:150",
+     "title": "Kavach… Mahashivratri (Kavach 2)",
+     "subtitle": "",
+     "year": "2019",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -14701,6 +15322,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "alias"
+    },
+    {
+     "rid": "india-catalog:155",
+     "title": "Satan: The Dark",
+     "subtitle": "",
+     "year": "2026",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -14847,10 +15475,12 @@
  ],
  "raw_counts": {
   "xla62ucxbx02u5": 855,
-  "ig6qlxqxoxvcxla": 959
+  "ig6qlxqxoxvcxla": 959,
+  "india-catalog": 163
  },
- "entry_count_after_dedupe": 847,
+ "entry_count_after_dedupe": 924,
  "within_source_groups": 1,
- "cross_source_groups": 623,
- "index_only_records": 30
+ "cross_source_groups": 625,
+ "index_only_records": 30,
+ "local_only_records": 77
 }
