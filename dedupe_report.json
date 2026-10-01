@@ -11018,6 +11018,13 @@
      "subtitle": "",
      "year": "2013–18",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "lesbian-pregnancy:1",
+     "title": "The Fosters",
+     "subtitle": "",
+     "year": "2013–2018",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -13845,6 +13852,13 @@
      "subtitle": "",
      "year": "2026",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "lesbian-pregnancy:2",
+     "title": "Perfect",
+     "subtitle": "",
+     "year": "2026",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -21499,11 +21513,12 @@
   "hypnosis-assault": 35,
   "mom-pregnancy": 84,
   "hypnosis-assault-loose": 39,
-  "kids-pregnant-again": 77
+  "kids-pregnant-again": 77,
+  "lesbian-pregnancy": 44
  },
- "entry_count_after_dedupe": 2056,
+ "entry_count_after_dedupe": 2098,
  "within_source_groups": 1,
  "cross_source_groups": 825,
  "index_only_records": 39,
- "local_only_records": 1194
+ "local_only_records": 1236
 }

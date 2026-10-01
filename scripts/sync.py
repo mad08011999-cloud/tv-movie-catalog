@@ -80,6 +80,8 @@ SOURCES = [
      "local": "sources/hypnosis-assault-loose.json", "required": False},
     {"id": "kids-pregnant-again", "label": "Parents with children get pregnant again",
      "local": "sources/kids-pregnant-again.json", "required": False},
+    {"id": "lesbian-pregnancy", "label": "Lesbian couple pregnancy research",
+     "local": "sources/lesbian-pregnancy.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
