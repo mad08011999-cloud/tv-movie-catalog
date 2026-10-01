@@ -1,6 +1,7 @@
 {
  "SOURCE": "https://muse.ai/s/tv-and-movie-research-catalog-xla62ucxbx02u5",
  "stats": [
+  "15 records reviewed for the partner-to-hypnotist switched-target pattern: 0 exact matches, 2 loose matches and 13 clearly labeled non-qualifying near-misses; 11 are new unique titles and 4 enrich existing catalog records",
   "9 core matches in the devil / demon pregnancy category: 8 result in pregnancy or birth and 1 has an ambiguous outcome",
   "4 verified partner-commissioned control matches: 3 research additions + 1 upgraded existing record",
   "24 partner-controller entries: 9 direct or broader current-husband cases, 2 current-boyfriend matches, 2 ex-boyfriend",
@@ -37,6 +38,8 @@
   "Worldwide source review dated 30 Sep 2026"
  ],
  "boundaries": [
+  "Partner-to-hypnotist switched-target pattern: the worldwide search found no exact match. “The Hypnotist” (1936), in which both spouses are hypnotized, and “How to Be Very, Very Popular” (1955), in which a woman is hypnotized instead of an intended male target, are both loose matches because neither available synopsis establishes that she brought a male partner for his treatment. The other 13 reviewed titles are retained only as clearly labeled non-qualifying near-misses.",
+  "Two additional leads remain unverified because plot sources were insufficient: the Mexican film “El hipnotizador / The Hypnotist” (1940) and the German comedy “Hypnotisiert” (IMDb tt0658815). Targeted searches found no qualifying titles in Indian regional cinema, European film beyond the listed cases, Latin American telenovelas, Korean/Japanese/Chinese dramas or Turkish dizis.",
   "Woman bargains with the devil or a demon for pregnancy / a child: 9 core matches + 1 failed-deal variant + 11 unresolved leads. 9 core (6 knowing feature films, 1 short, 2 unknowing fertility schemes); “Pengabdi Setan / Satan’s Slaves” and “Soulful” high; “Exorcismo Negro” medium-high; “Secta Sinestra” medium tricked case; “AHS: Coven” “Boy Parts” failed-deal variant; exclusions: “Rosemary’s Baby”, “Devil’s Due”, “The First Omen”, “Pari”, “Impetigore”, “AHS: Delicate”.",
   "Pregnant sexual pleasure scenes: 5 verified additions from a worldwide sweep — “Catastrophe” S2E1, “A Frozen Flower”, “Los días que vendrán”, “How to Plan an Orgy in a Small Town”, “The Pregnant Widow”; 18 borderlines + 81 near-misses reviewed; not promoted: “Titane”, “Jamón, jamón”, “Rosemary Is Pregnant Again”.",
   "Partner hires a third party to hypnotize or mind-control wife / girlfriend: 4 verified — motives and honest-zero regions (Latin America/Spain, MENA/Turkey, Europe, Japan, Chinese markets, Thailand, Indonesia, sub-Saharan Africa, adult/erotic indexes).",
@@ -2568,6 +2571,13 @@
      "confidence": "Partial / exclusion"
     }
    ]
+  },
+  {
+   "n": 48,
+   "title": "Partner taken to a hypnotist — switched target or both",
+   "count": 15,
+   "desc": "A worldwide search found no exact match, two loose matches and 13 clearly labeled non-qualifying near-misses. Existing titles are merged rather than duplicated.",
+   "groups": []
   }
  ],
  "detailedRecords": [
@@ -5742,13 +5752,335 @@
      "url": "https://programacionendirecto.es/serie-tv/la-familia-p-luche/temporada-1"
     }
    ]
+  },
+  {
+   "cat": 48,
+   "title": "The Hypnotist",
+   "year": "1936",
+   "meta": "Adult/stag short film · United States · silent/English",
+   "subgroup": "Loose match — both partners hypnotized",
+   "summary": "A married couple visits a fortune-teller/hypnotist. The wife is hypnotized first and sexually used; the husband is then hypnotized as well.",
+   "note": "Loose match: both spouses are hypnotized, but the available synopsis does not establish that the wife brought her husband there for treatment. It also belongs to the adult/erotic variant.",
+   "tags": [
+    "Loose match",
+    "Both partners hypnotized",
+    "Adult / erotic",
+    "Premise not fully established"
+   ],
+   "sources": [
+    {
+     "name": "IMDb",
+     "url": "https://www.imdb.com/title/tt0289230"
+    }
+   ]
+  },
+  {
+   "cat": 48,
+   "title": "How to Be Very, Very Popular",
+   "year": "1955",
+   "meta": "Film comedy · United States · English",
+   "subgroup": "Loose switched-target match",
+   "summary": "One heroine overhears a man trying to hypnotize his friend; the intended male target is unaffected, while she becomes hypnotized instead.",
+   "note": "Loose match: she does not take the man to the hypnotist, and the switched-target gag was found only on TV Tropes; Wikipedia does not include it in the plot summary.",
+   "tags": [
+    "Loose match",
+    "Woman hypnotized instead of intended man",
+    "Single-source plot detail"
+   ],
+   "sources": [
+    {
+     "name": "TV Tropes",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/BungledHypnotism"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/How_to_Be_Very,_Very_Popular"
+    }
+   ]
+  },
+  {
+   "cat": 48,
+   "title": "Office Space",
+   "year": "1999",
+   "meta": "Film comedy · United States · English",
+   "subgroup": "Near-miss — non-qualifying",
+   "summary": "Anne persuades Peter to attend hypnotherapy. Dr. Swanson hypnotizes Peter and dies mid-session, leaving him in trance; Anne is never entranced.",
+   "note": "Non-qualifying: the intended male partner is hypnotized, not the woman.",
+   "tags": [
+    "Near-miss",
+    "Non-qualifying",
+    "Male partner hypnotized"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Office_Space"
+    },
+    {
+     "name": "IMDb",
+     "url": "https://www.imdb.com/title/tt0151804"
+    }
+   ]
+  },
+  {
+   "cat": 48,
+   "title": "The Brittas Empire",
+   "year": "1994",
+   "meta": "TV sitcom episode · United Kingdom · English",
+   "subgroup": "Near-miss — non-qualifying",
+   "subtitle": "Mr Brittas Changes Trains · S04E04",
+   "summary": "A hypnotist is brought in to relax Helen before an important dinner, but fails on her and accidentally hypnotizes the watching Brittas instead.",
+   "note": "Non-qualifying inverted twist: the husband, not the wife, is entranced.",
+   "tags": [
+    "Near-miss",
+    "Non-qualifying",
+    "Inverted switched target"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia episode list",
+     "url": "https://en.wikipedia.org/wiki/List_of_The_Brittas_Empire_episodes"
+    },
+    {
+     "name": "TV Tropes",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/BungledHypnotism"
+    }
+   ]
+  },
+  {
+   "cat": 48,
+   "title": "Casa Vianello",
+   "year": "Year not stated",
+   "meta": "TV sitcom episode · Italy · Italian",
+   "subgroup": "Near-miss — non-qualifying",
+   "subtitle": "Il fumo fa male",
+   "summary": "Sandra goes to a hypnotist for herself to quit smoking, but the hypnotist mistakenly hypnotizes the housekeeper Tata instead.",
+   "note": "Non-qualifying: there is no husband-as-patient setup, and the wrong woman is entranced.",
+   "tags": [
+    "Near-miss",
+    "Non-qualifying",
+    "Wrong woman hypnotized"
+   ],
+   "sources": [
+    {
+     "name": "IMDb",
+     "url": "https://www.imdb.com/title/tt7298856"
+    }
+   ]
+  },
+  {
+   "cat": 48,
+   "title": "Beyond Belief: Fact or Fiction",
+   "year": "Year not stated",
+   "meta": "TV anthology segment · United States",
+   "subgroup": "Near-miss — non-qualifying",
+   "subtitle": "Who Was I",
+   "summary": "A wife takes her husband to a hypnotist for his claustrophobia, and he is hypnotized; she is never entranced.",
+   "note": "Non-qualifying inverted outcome. The research report identified an AV Club search-index source but did not provide a public URL.",
+   "tags": [
+    "Near-miss",
+    "Non-qualifying",
+    "Male partner hypnotized"
+   ],
+   "sources": [
+    {
+     "name": "AV Club search index — URL unavailable in research report",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "cat": 48,
+   "title": "Fallait pas!",
+   "year": "1996",
+   "meta": "Film comedy · France · French",
+   "subgroup": "Near-miss — non-qualifying",
+   "summary": "The guru Magic hypnotizes Constance when she questions him, rather than during treatment intended for her partner.",
+   "note": "Non-qualifying: she was not brought to the guru for her partner's treatment.",
+   "tags": [
+    "Near-miss",
+    "Non-qualifying",
+    "Woman hypnotized directly"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Fallait_pas_!..."
+    }
+   ]
+  },
+  {
+   "cat": 48,
+   "title": "The Hypnotic Wife",
+   "year": "1909",
+   "meta": "Short comedy film · United States",
+   "subgroup": "Near-miss — non-qualifying",
+   "summary": "A wife visits a hypnotist for herself to learn psychic influence she can use on her father-in-law.",
+   "note": "Non-qualifying: the wife seeks hypnosis for herself rather than taking her partner for treatment.",
+   "tags": [
+    "Near-miss",
+    "Non-qualifying",
+    "Self-directed visit"
+   ],
+   "sources": [
+    {
+     "name": "IMDb",
+     "url": "https://www.imdb.com/title/tt4289228"
+    },
+    {
+     "name": "TV Guide",
+     "url": "https://www.tvguide.com/movies/the-hypnotic-wife/2030045490/"
+    }
+   ]
+  },
+  {
+   "cat": 48,
+   "title": "Whirlpool",
+   "year": "1949",
+   "meta": "Film noir · United States · English",
+   "subgroup": "Near-miss — non-qualifying",
+   "summary": "Ann Sutton consults the quack hypnotist David Korvo for her own insomnia and kleptomania and falls under his control.",
+   "note": "Non-qualifying: she goes for herself, not as the companion of a male partner.",
+   "tags": [
+    "Near-miss",
+    "Non-qualifying",
+    "Self-directed visit"
+   ],
+   "sources": [
+    {
+     "name": "TV Tropes",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/BungledHypnotism"
+    }
+   ]
+  },
+  {
+   "cat": 48,
+   "title": "Hypnotic",
+   "year": "2021",
+   "meta": "Film thriller · United States · English",
+   "subgroup": "Near-miss — non-qualifying",
+   "summary": "Jenn goes to hypnotherapist Collin Meade for herself, at a friend's suggestion.",
+   "note": "Non-qualifying: no partner takes her, and there is no switched target.",
+   "tags": [
+    "Near-miss",
+    "Non-qualifying",
+    "Self-directed visit"
+   ],
+   "sources": [
+    {
+     "name": "General film references — URL unavailable in research report",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "cat": 48,
+   "title": "Get Out",
+   "year": "2017",
+   "meta": "Film horror · United States · English",
+   "subgroup": "Near-miss — non-qualifying",
+   "summary": "A girlfriend takes her boyfriend to meet her family, where her mother hypnotizes him; the girlfriend is never hypnotized.",
+   "note": "Non-qualifying: the man is the only partner hypnotized, and the visit is not arranged as treatment for him.",
+   "tags": [
+    "Near-miss",
+    "Non-qualifying",
+    "Male partner hypnotized"
+   ],
+   "sources": [
+    {
+     "name": "General film references — URL unavailable in research report",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "cat": 48,
+   "title": "Marnie",
+   "year": "1964",
+   "meta": "Film thriller · United States · English",
+   "subgroup": "Near-miss — non-qualifying",
+   "summary": "Mark uses amateur psychoanalysis, rather than formal hypnosis, on his wife Marnie.",
+   "note": "Non-qualifying: no partner-to-hypnotist visit or switched target occurs.",
+   "tags": [
+    "Near-miss",
+    "Non-qualifying",
+    "Not formal hypnosis"
+   ],
+   "sources": [
+    {
+     "name": "General film references — URL unavailable in research report",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "cat": 48,
+   "title": "Shallow Hal",
+   "year": "2001",
+   "meta": "Film comedy · United States · English",
+   "subgroup": "Near-miss — non-qualifying",
+   "summary": "Hal is hypnotized by Tony Robbins in an elevator; no wife or girlfriend takes him, and no woman is hypnotized.",
+   "note": "Non-qualifying: no female partner brings him for treatment.",
+   "tags": [
+    "Near-miss",
+    "Non-qualifying",
+    "Male target only"
+   ],
+   "sources": [
+    {
+     "name": "TV Tropes",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/BungledHypnotism"
+    }
+   ]
+  },
+  {
+   "cat": 48,
+   "title": "Friends: The One with the Hypnosis Tape",
+   "year": "1997",
+   "meta": "TV sitcom episode · United States · English",
+   "subgroup": "Near-miss — non-qualifying",
+   "subtitle": "The One with the Hypnosis Tape · S03E18",
+   "summary": "Chandler uses a hypnosis tape to quit smoking; a side effect makes him act like a woman.",
+   "note": "Non-qualifying: there is no hypnotist visit and no partner-arranged switched target.",
+   "tags": [
+    "Near-miss",
+    "Non-qualifying",
+    "Hypnosis tape"
+   ],
+   "sources": [
+    {
+     "name": "General episode references — URL unavailable in research report",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "cat": 48,
+   "title": "The Dick Van Dyke Show",
+   "year": "1962",
+   "meta": "TV sitcom episode · United States · English",
+   "subgroup": "Near-miss — non-qualifying",
+   "subtitle": "My Husband Is Not a Drunk · S02E06",
+   "summary": "Rob picks up a post-hypnotic suggestion during a dinner-party hypnosis demonstration.",
+   "note": "Non-qualifying: no one takes a partner for treatment.",
+   "tags": [
+    "Near-miss",
+    "Non-qualifying",
+    "Accidental suggestion"
+   ],
+   "sources": [
+    {
+     "name": "TV Tropes",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/BungledHypnotism"
+    }
+   ]
   }
  ],
- "page_records": 697,
+ "page_records": 708,
  "title": "TV and Movie Research Catalog",
  "kicker": "Screen story-pattern index",
- "heading": "855 catalog records, sorted by the plot turn that matters.",
+ "heading": "866 catalog records, sorted by the plot turn that matters.",
  "lede": "A worldwide research snapshot spanning films, serials, television movies, series, soap operas and independent shorts.",
- "results": "697 unique named titles shown · 855 records in source snapshot",
- "cards": 697
+ "results": "708 unique named titles shown · 866 records in source snapshot",
+ "cards": 708
 }

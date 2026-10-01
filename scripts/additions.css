@@ -39,5 +39,12 @@
 .also{margin:-6px 0 14px;font-size:.74rem;color:var(--muted)}
 details.merged{border:0;border-top:1px dashed var(--line);padding:9px 0 0;margin-top:12px}
 details.merged summary{font-size:.75rem;color:var(--accent)}
-details.merged p{font-size:.78rem;color:var(--muted);margin:8px 0 0}
+details.merged ol{margin:8px 0 0;padding-left:1.3em;font-size:.78rem;color:var(--muted)}
+details.merged li{margin:0 0 7px;line-height:1.45}
+details.merged li.distinct .clabel{color:var(--ink,#151515)}
+details.merged .csrc{display:inline-block;font-size:.62rem;font-weight:700;border:1px solid var(--line);border-radius:999px;padding:0 5px;vertical-align:1px}
+details.merged .cmain{font-size:.66rem;text-transform:uppercase;letter-spacing:.04em;color:var(--accent)}
+details.merged .cextra{display:block;margin-top:2px}
+details.merged .noid{font-style:italic}
+details.merged .clinks a{font-size:.7rem}
 .subcategory-heading small.from{font-family:Archivo,sans-serif;font-size:.65rem;font-weight:700;color:var(--blue);background:var(--soft-blue);padding:1px 6px;border-radius:4px;vertical-align:3px}

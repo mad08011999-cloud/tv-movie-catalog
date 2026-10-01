@@ -32,7 +32,7 @@
   // search index
   D.entries.forEach(e => {
     e._hay = [e.title, e.subtitle, e.year, e.meta, e.summary, e.character, e.mechanism, e.confidence_flag, e.note, e.provenance,
-      ...e.categories.map(c => catLabel[c] || c), ...(e.merged_from || []).map(m => [m.title, m.subtitle, m.summary, m.index_title].join(' '))].join(' \u0001 ').toLowerCase();
+      ...e.categories.map(c => catLabel[c] || c), ...(e.merged_from || []).map(m => [m.label, m.summary, m.character, m.note].join(' '))].join(' \u0001 ').toLowerCase();
   });
   const matches = e => (state.cat === 'all' || e.categories.includes(state.cat)) &&
     (state.fmt === 'all' || e.format === state.fmt) &&
@@ -55,12 +55,17 @@
     const ch = app.character || (e.character ? `Character: ${e.character}` : '');
     const note = app.entry_note || (e.note ? `Note: ${e.note}` : '');
     const prov = app.provenance || (e.provenance ? `Source basis: ${e.provenance}` : '');
-    const others = (e.merged_from || []).filter(m => !m.index_title);
-    const idxNames = [...new Set((e.merged_from || []).filter(m => m.index_title).map(m => m.index_title))];
-    const merged = others.length ? `<details class="merged"><summary>Merged duplicate${others.length > 1 ? 's' : ''} (${others.length})</summary>${others.map(m =>
-        `<p><strong>${esc(m.title)}${m.subtitle ? ' · ' + esc(m.subtitle) : ''}${m.year ? ' (' + esc(m.year) + ')' : ''}</strong>${m.summary ? ' ' + esc(m.summary) : ''}</p>`).join('')}</details>` : '';
-    const idxNote = e.index_only ? `<p class="entry-note"><strong>Title index only:</strong> listed by ${esc(srcLabel[e.from_sources[0]] || 'the title index')} without plot details.</p>` :
-      (idxNames.length ? `<p class="also">Also listed in the title index as: ${idxNames.map(esc).join(' · ')}</p>` : '');
+    const copies = e.merged_from && e.merged_from.length ? [e.primary_copy, ...e.merged_from] : [];
+    const distinct = copies.filter(m => m.distinct_story).length;
+    const copyRow = (m, i) => {
+      const plot = m.summary ? esc(m.summary) : `<em>${m.index_title ? 'title-index listing only; the source gives no plot for this copy' : 'no plot in the source for this copy'}</em>`;
+      const extra = [m.character ? `<strong>Character:</strong> ${esc(m.character)}` : '', m.note ? `<strong>Note:</strong> ${esc(m.note)}` : '', (m.categories || []).length ? `<strong>Listed under:</strong> ${m.categories.map(c => esc(catLabel[c] || c)).join(', ')}` : '',
+        m.identifiers.length ? '' : '<span class="noid">no episode, date or alternate title given in the source</span>'].filter(Boolean).join(' · ');
+      const links = (m.sources || []).length ? ` <span class="clinks">${m.sources.map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label || 'Source')} ↗</a>`).join(' ')}</span>` : '';
+      return `<li class="${m.distinct_story ? 'distinct' : ''}"><span class="csrc" title="${esc(srcLabel[m.source])}">${esc(srcShort[m.source])}</span> <strong class="clabel">${esc(m.label)}</strong>${i === 0 ? ' <span class="cmain">shown above</span>' : ''} — <span class="cplot">${plot}</span>${extra ? `<span class="cextra">${extra}</span>` : ''}${links}</li>`;
+    };
+    const merged = copies.length ? `<details class="merged"${distinct ? ' open' : ''}><summary>Merged copies (${copies.length})${distinct ? ` · ${distinct + 1} different episodes/storylines` : ''}</summary><ol>${copies.map(copyRow).join('')}</ol></details>` : '';
+    const idxNote = e.index_only ? `<p class="entry-note"><strong>Title index only:</strong> listed by ${esc(srcLabel[e.from_sources[0]] || 'the title index')} without plot details.</p>` : '';
     const badges = `<span class="srcbadges">${e.from_sources.map(s => `<span title="${esc(srcLabel[s])}">${esc(srcShort[s])}</span>`).join('')}</span>`;
     const lab = (s) => s.replace(/^(Character:|Note:|Source basis:)/, '<strong>$1</strong>');
     return `<article class="card" id="r${e.id}">${thumb}

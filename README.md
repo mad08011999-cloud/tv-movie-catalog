@@ -30,6 +30,14 @@ section memberships and source links, fills empty fields from the other copies, 
 Title-index entries that don't match exactly are matched with looser alias rules (episode codes and " — " qualifiers stripped,
 alternate titles split on " / ", leading "The" dropped, a unique title prefix). A record appears at most once per section.
 
+**Merged copies on the card.** Every merged card lists each copy it absorbed (including the one shown at the top)
+as `<identifier> — <plot>`: the identifier is whatever that source gives (its own title as listed, episode/segment
+subtitle, season/episode code, alternate title or qualifier, year or storyline date), followed by its own plot,
+character, note, the categories it was listed under and its own source links. The list opens automatically when
+copies describe different episodes or storylines. Copies with no plot in the source (title-index listings) or no
+episode/date/alternate title in the source are labelled as such. Episode-specific fields (character, note,
+subtitle, mechanism) are only filled into the main record from a copy that tells the same story.
+
 ```bash
 pip install -r scripts/requirements.txt
 python -m playwright install --with-deps chromium   # or set CHROME_PATH to an existing Chrome

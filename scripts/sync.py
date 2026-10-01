@@ -611,6 +611,48 @@ def dedupe(records):
 
 FILL_FIELDS = ("subtitle", "year", "meta", "mechanism", "confidence_flag", "summary", "character",
                "provenance", "note")
+STORY_FIELDS = ("subtitle", "mechanism", "summary", "character", "note")
+
+
+def norm_summary(t):
+    return re.sub(r"\W+", " ", unicodedata.normalize("NFKC", t or "").casefold()).strip()
+
+
+def copy_label(m):
+    """The identifier a source gives one copy: its own title as listed (episode titles, alternate titles
+    and " — qualifier" tags included), subtitle (season/episode, segment, storyline) and year/date."""
+    t = m.get("index_title") or m["title"]
+    lab = t + (" · " + m["subtitle"] if m["subtitle"] else "")
+    if m["year"] and m["year"] not in t:
+        lab += f" ({m['year']})"
+    return lab
+
+
+def copy_info(m, primary, g, members):
+    """Everything one merged copy says about itself, for the card's 'Merged copies' list."""
+    shown_title = m.get("index_title") or m["title"]
+    ident = []
+    if m["subtitle"]:
+        ident.append("subtitle")
+    if m["year"]:
+        ident.append("year/date")
+    bare = re.sub(r"\s*\((?:1[89]|20)\d\d[^)]*\)", "", shown_title)
+    if norm_title(bare) != norm_title(primary["title"]) or (
+            m.get("index_title") and re.search(r" — |\((?!(?:1[89]|20)\d\d[–\d-]*\))|“|\"|\bS\d+E\d+", m["index_title"])):
+        ident.append("own title/qualifier")
+    srcs = [x for x in m["sources"]
+            if not (m["kind"] == "index" and x["url"] in SHARE_URLS and any(y["kind"] == "full" for y in members))]
+    out = {"rid": m["rid"], "source": m["source"], "label": copy_label(m), "identifiers": ident}
+    out |= {k: m[k] for k in ("title", "subtitle", "year", "meta", "summary", "character", "note", "mechanism",
+                              "confidence_flag", "categories")}
+    out["sources"] = srcs
+    out["distinct_story"] = bool(m["summary"]) and bool(primary["summary"]) and \
+        norm_summary(m["summary"]) != norm_summary(primary["summary"])
+    if m.get("index_title"):
+        out["index_title"] = m["index_title"]
+    if m["rid"] in g["via"]:
+        out["matched_by"] = g["via"][m["rid"]]
+    return out
 
 
 def merge_group(g, new_id):
@@ -620,8 +662,15 @@ def merge_group(g, new_id):
     primary = sorted(members, key=lambda m: (m["kind"] != "full", m["kind"] == "local", not year_key(m["year"]),
                                              m["source_rank"], m["order"]))[0]
     rec = {"id": new_id, "title": primary["title"]}
+    # Episode/storyline-specific fields are only filled from a copy that tells the same story (same
+    # summary, or the copy that supplies the summary when the primary has none), so a character or
+    # note from a different episode is never attached to the primary's plot.
+    psum = norm_summary(primary["summary"])
+    donor = primary if psum else next((m for m in members if m["summary"]), None)
+    same_story = [m for m in members if m is primary or m is donor or (psum and norm_summary(m["summary"]) == psum)]
     for f in FILL_FIELDS:
-        rec[f] = primary[f] or next((m[f] for m in members if m[f]), "")
+        pool = same_story if f in STORY_FIELDS else members
+        rec[f] = primary[f] or next((m[f] for m in pool if m[f]), "")
     rec["format"] = primary["format"]
     rec["categories"] = []
     rec["sources"], seen_urls = [], set()
@@ -644,11 +693,8 @@ def merge_group(g, new_id):
     rec["local_only"] = all(m["kind"] == "local" for m in members)
     rec["thumbnail"] = None
     others = [m for m in sorted(members, key=lambda m: (m["source_rank"], m["order"])) if m is not primary]
-    rec["merged_from"] = [{k: m[k] for k in ("rid", "title", "subtitle", "year", "meta", "summary", "mechanism",
-                                              "confidence_flag", "categories") if k in m}
-                          | ({"index_title": m["index_title"]} if m.get("index_title") else {})
-                          | ({"matched_by": g["via"][m["rid"]]} if m["rid"] in g["via"] else {})
-                          for m in others]
+    rec["primary_copy"] = copy_info(primary, primary, g, members) if others else None
+    rec["merged_from"] = [copy_info(m, primary, g, members) for m in others]
     rec["raw"] = {m["rid"]: m["raw"] for m in members}
     return rec, primary
 
