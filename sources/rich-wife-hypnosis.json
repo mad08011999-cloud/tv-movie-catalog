@@ -12,10 +12,11 @@
    "confidence_flag": "High · Wikipedia plot",
    "summary": "Wealthy Alison Courtland is drugged and hypnotized so she appears insane and is pushed toward suicide, letting her husband inherit her money and be free for his mistress Daphne. Hypnotist: her husband Richard Courtland, with accomplice Charles Vernay posing as a psychiatrist. Gain: money, inheritance, love. Method: hypnosis (drug-assisted). Kids: no (none in the plot). Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
    "categories": [
-    "rich-wife-gain",
     "wife",
     "partner-control",
-    "partner-commissioned"
+    "partner-commissioned",
+    "index-49",
+    "love"
    ],
    "match_title": "Sleep, My Love",
    "match_year": "1948",
@@ -70,10 +71,10 @@
    "confidence_flag": "High · Wikipedia plot",
    "summary": "Korvo hypnotizes Ann Sutton, wife of a prominent psychoanalyst, and plants suggestions that put her at the scene of the murder of Theresa Randolph, a woman he had swindled, so she is framed for his crime. Hypnotist: society hypnotist David Korvo. Gain: crime, money. Method: hypnosis (post-hypnotic suggestion). Kids: no (none in the plot). Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
    "categories": [
-    "rich-wife-gain",
     "therapist-wife",
     "crime",
-    "forced-obedience"
+    "forced-obedience",
+    "index-49"
    ],
    "match_title": "Whirlpool",
    "match_year": "1949",
@@ -127,7 +128,6 @@
    "confidence_flag": "Medium · surviving silent-film synopsis",
    "summary": "A hypnotist tries to win the widowed Mrs. Morgan away from her fiancé by hypnotism. Hypnotist: a Svengali-like hypnotist. Gain: love, marriage. Method: hypnosis. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
    "categories": [
-    "rich-wife-gain",
     "love"
    ],
    "match_title": "The Hypnotist",
@@ -157,8 +157,8 @@
    "confidence_flag": "Medium · festival review + IMDb",
    "summary": "Delfin gives rich girl Carla a gayuma (love potion), and she gives in to his advances until a pilgrimage breaks its hold. Hypnotist: Delfin. Gain: love, sex. Method: love potion. Kids: no (young unmarried woman). Pregnancy: unknown — cited sources do not mention a pregnancy.",
    "categories": [
-    "rich-wife-gain",
-    "love"
+    "love",
+    "index-50"
    ],
    "match_title": "Pilgrim Lovers / Gayuma",
    "match_year": "2011",
@@ -192,9 +192,9 @@
    "confidence_flag": "Medium · trade-press synopsis",
    "summary": "A fake swami hypnotizes heiress Anne Sinclair and orders her to bring him her necklace that night; she comes back in a daze and obeys. Hypnotist: fake swami Baroudi. Gain: money, crime. Method: hypnosis. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
    "categories": [
-    "rich-wife-gain",
     "forced-obedience",
-    "crime"
+    "crime",
+    "index-49"
    ],
    "match_title": "In the Grip of a Charlatan",
    "match_year": "1913",
@@ -223,8 +223,8 @@
    "confidence_flag": "Low-medium · stag-film catalog listing",
    "summary": "A married couple visits a fortune-teller who hypnotizes the wife and sexually exploits her, then hypnotizes the husband too. Hypnotist: a fortune-teller / hypnotist. Gain: sex. Method: hypnosis. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
    "categories": [
-    "rich-wife-gain",
-    "index-48"
+    "index-48",
+    "index-50"
    ],
    "match_title": "The Hypnotist",
    "match_year": "1936",
@@ -252,9 +252,9 @@
    "confidence_flag": "Medium · Mental Block plot + TV-movie listings",
    "summary": "Blanca Snow, heir to half her late father's fortune, is hypnotized into forgetting her past so her jealous stepmother can take the whole inheritance. Hypnotist: hypnotist Raven, hired by stepmother Victoria. Gain: inheritance, money. Method: hypnosis (memory erasure). Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
    "categories": [
-    "rich-wife-gain",
     "other-control",
-    "partner-commissioned"
+    "partner-commissioned",
+    "index-49"
    ],
    "match_title": "A Snow White Christmas",
    "match_year": "2018",
@@ -283,8 +283,8 @@
    "confidence_flag": "Medium · Wikipedia + Mental Block scene notes",
    "summary": "On the eve of inheriting the family estate at 21, Janet is hypnotized by her guardian into believing she has her father's monstrous curse and is nearly driven to suicide. (Release year is 1957; the existing card shows 1886.) Hypnotist: her guardian Dr. Lomas. Gain: inheritance, drive her mad. Method: hypnosis. Kids: no (unmarried, engaged). Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
    "categories": [
-    "rich-wife-gain",
-    "human"
+    "human",
+    "index-49"
    ],
    "match_title": "Daughter of Dr. Jekyll",
    "match_year": "1886",
@@ -322,9 +322,9 @@
    "confidence_flag": "High · Mental Block plot + Wikipedia",
    "summary": "Vorelli hypnotizes wealthy heiress Marianne and puts her under his control, planning to marry her for her fortune. Hypnotist: stage hypnotist / ventriloquist the Great Vorelli. Gain: money, marriage. Method: hypnosis. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
    "categories": [
-    "rich-wife-gain",
     "love",
-    "human"
+    "human",
+    "index-49"
    ],
    "match_title": "Devil Doll",
    "match_year": "1964",
@@ -357,7 +357,6 @@
    "confidence_flag": "Medium · existing catalog sources",
    "summary": "Dentist Frank hypnotizes widowed patient Suzanne so she will fall for him; the trigger misfires onto Tony. Hypnotist: dentist Frank. Gain: love. Method: hypnosis (post-hypnotic trigger). Kids: yes (1 son). Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
    "categories": [
-    "rich-wife-gain",
     "love",
     "medical",
     "mother"
@@ -393,7 +392,6 @@
    "confidence_flag": "Medium · Mental Block + existing catalog",
    "summary": "Diijon hypnotizes his young wife Victoria and orders her to kill her former lover. Hypnotist: her husband, stage magician Diijon. Gain: crime, other (jealous revenge). Method: hypnosis. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
    "categories": [
-    "rich-wife-gain",
     "wife",
     "partner-control",
     "crime"
@@ -429,10 +427,10 @@
    "confidence_flag": "Medium · Feydeau play adaptation",
    "summary": "Ribadier puts his wife Angèle to sleep with his gaze so he can slip out to his mistress, then wakes her when he returns. Hypnotist: her husband Ribadier. Gain: sex, other (freedom to have affairs). Method: hypnosis (gaze). Kids: no (none in Feydeau's plot). Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
    "categories": [
-    "rich-wife-gain",
     "wife",
     "partner-control",
-    "cheat-control"
+    "cheat-control",
+    "index-50"
    ],
    "match_title": "Le Système Ribadier",
    "match_year": "1975",
@@ -466,11 +464,11 @@
    "confidence_flag": "High · Lifetime review + Mental Block plot",
    "summary": "Otto hypnotizes his wife Karen and alters her memories so she believes she committed a murder he is hiding. Hypnotist: her husband Otto, a hypnotherapist. Gain: crime (cover-up). Method: hypnotherapy misuse (memory manipulation). Kids: yes (1 daughter, Jordan). Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
    "categories": [
-    "rich-wife-gain",
     "wife",
     "therapist-wife",
     "medical",
-    "mother"
+    "mother",
+    "crime"
    ],
    "match_title": "My Husband's Deadly Past",
    "match_year": "2020",
@@ -515,7 +513,6 @@
    "confidence_flag": "Medium · existing catalog sources",
    "summary": "After Daisy learns of his affairs, Joe hypnotizes her into killing the detective she hired, then orders her to kill herself. Hypnotist: her husband, businessman-hypnotist Joe Siu. Gain: crime, other (hiding his affairs). Method: hypnosis. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
    "categories": [
-    "rich-wife-gain",
     "wife",
     "partner-control",
     "crime"
@@ -551,8 +548,8 @@
    "confidence_flag": "High · Wikipedia plot",
    "summary": "Mabuse hypnotizes the wealthy Countess Told into inviting him into her home, then abducts her. Hypnotist: Dr. Mabuse. Gain: sex, other (possession of her). Method: hypnosis. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
    "categories": [
-    "rich-wife-gain",
-    "human"
+    "human",
+    "index-50"
    ],
    "match_title": "Dr. Mabuse the Gambler",
    "match_year": "1922",
@@ -585,8 +582,8 @@
    "confidence_flag": "Medium · existing catalog sources",
    "summary": "Mabuse hypnotizes Marion Menil and uses her to get close to and marry millionaire Henry Travers, so he can take Travers's fortune after a planned murder. Hypnotist: Dr. Mabuse (as psychiatrist Dr. Jordan). Gain: marriage, money. Method: hypnosis. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
    "categories": [
-    "rich-wife-gain",
-    "forced-obedience"
+    "forced-obedience",
+    "love"
    ],
    "match_title": "Die 1000 Augen des Dr. Mabuse / The Thousand Eyes of Dr. Mabuse",
    "match_year": "1960",
@@ -615,9 +612,9 @@
    "confidence_flag": "High · Mental Block plot",
    "summary": "The Count hypnotizes his niece Harriet into causing havoc so the villagers will lynch her and her large inheritance will pass to him. Hypnotist: her uncle, Count Montebruno. Gain: inheritance, drive her mad. Method: hypnosis. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
    "categories": [
-    "rich-wife-gain",
     "human",
-    "crime"
+    "crime",
+    "index-49"
    ],
    "match_title": "An Angel for Satan",
    "match_year": "1966",
@@ -650,9 +647,9 @@
    "confidence_flag": "Low-medium · Mental Block plot (brainwashing; how hypnotic it is is not clear)",
    "summary": "On learning that Sandra Perkins is about to inherit millions, The Giant kidnaps her and brainwashes her so she will sign the money over to him. Hypnotist: crime boss 'The Giant'. Gain: inheritance, money, signing papers. Method: brainwashing / hypnotic conditioning. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
    "categories": [
-    "rich-wife-gain",
     "crime",
-    "human"
+    "human",
+    "index-49"
    ],
    "match_title": "Target for Killing",
    "match_year": "1966",
@@ -686,7 +683,6 @@
    "confidence_flag": "Low-medium · Mental Block stub + existing catalog",
    "summary": "Shurka hypnotizes the princess into agreeing to be his bride so he can secure the kingdom. Hypnotist: the usurping sorcerer Shurka. Gain: marriage, other (the throne). Method: hypnosis. Kids: no. Pregnancy: unknown — cited sources do not mention a pregnancy.",
    "categories": [
-    "rich-wife-gain",
     "love",
     "fantasy"
    ],
@@ -721,7 +717,6 @@
    "confidence_flag": "Medium · Mental Block plot + scene notes",
    "summary": "Jaudur mesmerizes Princess Yasmine, the Caliph's heiress, so she agrees to marry him and walks to the altar. Hypnotist: the Wazir Jaudur. Gain: marriage, other (the throne). Method: hypnosis (mesmeric gaze). Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
    "categories": [
-    "rich-wife-gain",
     "love",
     "fantasy"
    ],
@@ -760,7 +755,6 @@
    "confidence_flag": "Medium · Wikipedia plot",
    "summary": "Jaffar uses the Blue Rose of Forgetfulness to wipe the Princess's love for Ahmad so she will accept him. Hypnotist: the Grand Vizier Jaffar. Gain: marriage, love. Method: love potion-style enchantment (the Blue Rose of Forgetfulness). Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
    "categories": [
-    "rich-wife-gain",
     "love"
    ],
    "match_title": "The Thief of Bagdad",
@@ -794,7 +788,6 @@
    "confidence_flag": "Medium · Mental Block plot + scene notes",
    "summary": "A hypnotist and his sadistic lover hypnotize his wife Luo Fei as part of a plan to steal her money. Hypnotist: her husband, a hypnotist, and his mistress. Gain: money. Method: hypnosis (necklace trigger). Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
    "categories": [
-    "rich-wife-gain",
     "wife",
     "partner-control"
    ],
@@ -824,10 +817,10 @@
    "confidence_flag": "Medium · Mental Block segment summary",
    "summary": "A businessman learns hypnosis to keep his wife asleep while he goes out with other women; the butler uses her trance to start an affair with her. Hypnotist: her husband, a successful businessman; then the butler takes advantage. Gain: sex, other (freedom to cheat). Method: hypnosis. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
    "categories": [
-    "rich-wife-gain",
     "wife",
     "partner-control",
-    "cheat-control"
+    "cheat-control",
+    "index-50"
    ],
    "match_title": "El Gato con Gatas",
    "match_year": "1992",
@@ -856,8 +849,8 @@
    "confidence_flag": "Low-medium · Mental Block summary (she later says the trance only worked once)",
    "summary": "Alberto hypnotizes his married neighbour while her husband is away and makes her kiss him and cheat; she later says only the first trance was real. Hypnotist: psychology student Alberto (her neighbour). Gain: sex. Method: hypnosis (trigger phrase). Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
    "categories": [
-    "rich-wife-gain",
-    "cheat-control"
+    "cheat-control",
+    "index-50"
    ],
    "match_title": "De Mesmer con amor",
    "match_year": "",
@@ -885,9 +878,9 @@
    "confidence_flag": "Low-medium · Mental Block plot (princess's age not stated)",
    "summary": "Princess Liana is hypnotized by her counsellor to hand him all her money and her throne. Hypnotist: her royal counsellor. Gain: money, other (her throne). Method: hypnosis. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
    "categories": [
-    "rich-wife-gain",
     "scifi",
-    "other-control"
+    "other-control",
+    "index-49"
    ],
    "match_title": "Dennis the Menace: Cruise Control",
    "match_year": "2002",
@@ -920,9 +913,9 @@
    "confidence_flag": "Low-medium · existing catalog sources",
    "summary": "Psychiatrist Suk-kwon treats married patient Jin-su with deep hypnosis and uses the sessions to pursue her romantically, crossing therapeutic boundaries. Hypnotist: psychiatrist Suk-kwon. Gain: love, sex. Method: hypnotherapy misuse. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
    "categories": [
-    "rich-wife-gain",
     "therapist-wife",
-    "love"
+    "love",
+    "index-50"
    ],
    "match_title": "The Hypnotized / Faceless Beauty",
    "match_year": "2004",
@@ -971,7 +964,6 @@
    "confidence_flag": "High · Wikipedia episode list + fan wiki",
    "summary": "Le Quack rigs the Bagges' TV to hypnotize Muriel and her husband Eustace into stealing Nowhere's lottery money for him. Hypnotist: Le Quack (posing as a TV repairman). Gain: money, crime. Method: hypnotic device (rigged television). Kids: no (Courage is their adopted dog). Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
    "categories": [
-    "rich-wife-gain",
     "scifi",
     "crime"
    ],
@@ -1023,7 +1015,6 @@
    "confidence_flag": "Medium · Spanish recaps (Diez Minutos) + official character guide",
    "summary": "Erol married Filiz to get ahead of his cousin in the race for their grandfather's inheritance; he and his mother learn hypnosis and use it on her to turn her against the Sarıhan family. Hypnotist: her husband Erol Sarıhan and her mother-in-law Betül. Gain: inheritance, other (the family company). Method: hypnosis. Kids: no (she and Erol are only planning children when introduced). Pregnancy: pregnant around or after the hypnosis (unconfirmed) — she has postpartum depression after breaking free, which implies a birth; the recaps don't say whether she was pregnant during the trance.",
    "categories": [
-    "rich-wife-gain",
     "wife",
     "partner-control"
    ],
@@ -1083,7 +1074,6 @@
    "confidence_flag": "Medium · Mental Block episode summary",
    "summary": "Sohan hypnotizes Kunal's wife Amrita through eye contact and the gang empties her locker of cash and jewellery. Hypnotist: con man Sohan (disguised as a salesman), with accomplice Rinky. Gain: money, crime. Method: hypnosis (gaze). Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
    "categories": [
-    "rich-wife-gain",
     "india-control",
     "crime"
    ],
@@ -1121,9 +1111,9 @@
    "confidence_flag": "High · Wikipedia episode guide + Mental Block",
    "summary": "A rich widow who runs her affairs through séances is hypnotized into taking her own jewels for the medium's gang; Kelly, posing as a rich Texan widow, is hypnotized too. Hypnotist: a fake medium's crooked assistant. Gain: money, crime. Method: hypnosis. Kids: unknown. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
    "categories": [
-    "rich-wife-gain",
     "forced-obedience",
-    "crime"
+    "crime",
+    "index-49"
    ],
    "match_title": "Charlie’s Angels",
    "match_year": "1976",
@@ -1172,9 +1162,9 @@
    "confidence_flag": "High · Wikipedia episode list + Mental Block",
    "summary": "A circus owner and his fortune-teller use hypnosis to make wealthy women sell their stock, then kill them in staged accidents. Hypnotist: circus owner Sadvaricci and fortune-teller Mama Rosha. Gain: money. Method: hypnosis. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
    "categories": [
-    "rich-wife-gain",
     "human",
-    "crime"
+    "crime",
+    "index-49"
    ],
    "match_title": "The Girl from U.N.C.L.E.",
    "match_year": "1966–1967",
@@ -1214,7 +1204,6 @@
    "confidence_flag": "Medium · Mental Block episode summary",
    "summary": "A psychic hypnotizes his clients, including a married woman, into telling him where their valuables are and what their alarm codes are, then robs them. Hypnotist: a psychic she was seeing. Gain: money, crime. Method: hypnosis. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
    "categories": [
-    "rich-wife-gain",
     "human",
     "crime"
    ],
@@ -1256,8 +1245,8 @@
    "confidence_flag": "Medium · Mental Block episode summary",
    "summary": "A fake swami hypnotizes and swindles a wealthy woman (Florence Bates). Hypnotist: a con artist posing as a fortune-telling swami. Gain: money. Method: hypnosis. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
    "categories": [
-    "rich-wife-gain",
-    "human"
+    "human",
+    "index-49"
    ],
    "match_title": "Dick Tracy",
    "match_year": "1950–1951",
@@ -1296,9 +1285,9 @@
    "confidence_flag": "Medium · Wikipedia episode list + Mental Block scene notes",
    "summary": "A psychiatrist hypnotizes married patient Mrs. Lowell into believing he is her husband so he can seduce her. Hypnotist: lecherous psychiatrist Dr. Crowley. Gain: sex. Method: hypnotherapy misuse. Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
    "categories": [
-    "rich-wife-gain",
     "medical",
-    "therapist-wife"
+    "therapist-wife",
+    "index-50"
    ],
    "match_title": "Freddy's Nightmares",
    "match_year": "1988",
@@ -1342,7 +1331,6 @@
    "confidence_flag": "Medium · Mental Block chapter summary",
    "summary": "When heiress Camila Abdalla uncovers his real identity, Bóris hypnotizes her into staging a fake suicide. Hypnotist: Lebanese millionaire El Achid, hiding as Bóris Aidan. Gain: crime, other (silencing her). Method: hypnosis. Kids: no. Pregnancy: unknown — cited sources do not mention a pregnancy.",
    "categories": [
-    "rich-wife-gain",
     "crime",
     "human"
    ],
@@ -1380,7 +1368,6 @@
    "confidence_flag": "Medium · Wikipedia episode list + Mental Block scene notes",
    "summary": "Gina hypnotizes a married couple; the entranced wife happily hands her valuable ring to her husband, who gives it to Gina. Hypnotist: hypnotist thief Gina. Gain: money. Method: hypnosis (bracelet). Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
    "categories": [
-    "rich-wife-gain",
     "other-control"
    ],
    "match_title": "Shut Eye",
@@ -1421,9 +1408,9 @@
    "confidence_flag": "Low-medium · Wikipedia episode list + Mental Block (Mental Block numbers the episodes 10–11)",
    "summary": "A professor plants mind-control chips in female students and programs them to marry rich men, kill them and pass her the inherited wealth. Hypnotist: a college professor. Gain: marriage, inheritance, crime. Method: hypnotic device (mind-control implant). Kids: no. Pregnancy: unknown — cited sources do not mention a pregnancy.",
    "categories": [
-    "rich-wife-gain",
     "scifi",
-    "crime"
+    "crime",
+    "love"
    ],
    "match_title": "Super Force",
    "match_year": "1990–1992",
@@ -1469,7 +1456,6 @@
    "confidence_flag": "Medium · Mental Block episode summaries",
    "summary": "Taylor, wife of Ridge Forrester of the wealthy fashion family, gets a post-hypnotic bell trigger; Bailey uses it to sour her marriage and make her love Pierce. Hypnotist: Pierce Peterson, then his assistant Bailey using Pierce's trigger bell. Gain: love, other (breaking up her marriage for his boss). Method: hypnosis (post-hypnotic bell trigger). Kids: yes (at least 1: son Thomas with Ridge; exact count at this point not confirmed). Pregnancy: unknown — cited sources do not mention a pregnancy.",
    "categories": [
-    "rich-wife-gain",
     "love",
     "human"
    ],
@@ -1539,7 +1525,6 @@
    "confidence_flag": "Medium · Mental Block + existing catalog",
    "summary": "Owen of Clun wants to marry the captured Lady Marion; Gulnar hypnotizes her and gives her a love potion, and she goes through the wedding eagerly. Hypnotist: sorcerer Gulnar, for Lord Owen of Clun. Gain: marriage. Method: hypnosis + love potion. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
    "categories": [
-    "rich-wife-gain",
     "love",
     "fantasy"
    ],
@@ -1579,8 +1564,8 @@
    "confidence_flag": "Low-medium · Mental Block scene notes only (powder described as magic)",
    "summary": "Thieves throw a powder at married Mihri; in a trance she takes off her jewellery and hands it to them. Hypnotist: a gang of thieves. Gain: money, crime. Method: trance-inducing powder (hypnotic device). Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
    "categories": [
-    "rich-wife-gain",
-    "india-control"
+    "india-control",
+    "crime"
    ],
    "match_title": "Sindoor Ki Keemat",
    "match_year": "2023",
@@ -1616,8 +1601,8 @@
    "confidence_flag": "High · Wikipedia episode list + TV Tropes",
    "summary": "To get money for his development, Logan wins wealthy Margaret Richardson with a love potion; too big a dose kills her, but her undead body keeps loving him. Hypnotist: land owner Logan Andrews (potion from his ex, Psyche). Gain: money, marriage. Method: love potion. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
    "categories": [
-    "rich-wife-gain",
-    "love"
+    "love",
+    "index-49"
    ],
    "match_title": "Tales From The Crypt",
    "match_year": "1989–1996",
@@ -1664,7 +1649,6 @@
    "confidence_flag": "High · Wikipedia episode article",
    "summary": "Roger gives the indifferent Leila a $1 love potion; she marries him and smothers him with love until he buys poison to get out, then learns she is expecting. Hypnotist: Roger Shackleforth (potion bought from Professor A. Daemon). Gain: love, marriage. Method: love potion. Kids: no (none before the potion). Pregnancy: becomes pregnant after the enchantment — as his potion-made wife, Leila tells Roger she is pregnant just as he is about to poison her.",
    "categories": [
-    "rich-wife-gain",
     "love"
    ],
    "sources": [
@@ -1702,9 +1686,9 @@
    "confidence_flag": "High · Wikipedia episode list + Mental Block",
    "summary": "Rich, prominent spa clients, socialite Vanessa Vane among them, commit crimes they then forget, after spa owner Peter Eden implants hypnotic suggestions during their treatments. Hypnotist: Peter Eden, owner of the Vale of Eden spa. Gain: crime, money. Method: hypnotic device (subliminal 'dream machine' treatments). Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
    "categories": [
-    "rich-wife-gain",
     "scifi",
-    "crime"
+    "crime",
+    "index-49"
    ],
    "sources": [
     {
@@ -1750,7 +1734,6 @@
    "confidence_flag": "Medium · Indian TV spoiler and written-update sites",
    "summary": "After a one-year leap, Armaan keeps Preesha, wife of rich rock star Rudraksh Khurana, drugged and hypnotized into believing her marriage was abusive and that she is happily married to him. Hypnotist: Armaan. Gain: love, marriage. Method: hypnosis (with memory-erasing drugs). Kids: yes (2: son Saaransh and a newborn taken away by Revathi). Pregnancy: pregnant before the hypnosis — she gave birth before the one-year leap; not pregnant while under Armaan's control.",
    "categories": [
-    "rich-wife-gain",
     "wife",
     "india-control",
     "mother",
@@ -1817,7 +1800,6 @@
    "confidence_flag": "Low-medium · single spoiler report of an upcoming twist; episode numbers not published",
    "summary": "Short of money after business losses, Yuvraj poses as Nahar, hypnotizes Nahar's wife Ruhi into obeying him and takes the household's property. Hypnotist: Yuvraj, a look-alike passing himself off as her husband Nahar. Gain: money, other (control of the family and its property). Method: hypnosis (a power he says a holy man gave him). Kids: unknown. Pregnancy: unknown — cited sources do not mention a pregnancy.",
    "categories": [
-    "rich-wife-gain",
     "wife",
     "india-control"
    ],
@@ -1972,8 +1954,5 @@
    "year": "",
    "reason": "Dale Arden is neither rich nor married; the forced marriage never takes place"
   }
- ],
- "category_labels": {
-  "rich-wife-gain": "Rich woman / wife hypnotized for someone's gain"
- }
+ ]
 }
