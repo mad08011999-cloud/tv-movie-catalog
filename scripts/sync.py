@@ -62,6 +62,8 @@ SOURCES = [
      "local": "sources/older-man-hypnosis.json", "required": False},
     {"id": "hypno-intimacy", "label": "Hypnotized woman intimate with the hypnotist research",
      "local": "sources/hypno-intimacy.json", "required": False},
+    {"id": "mother-kids-hypnosis", "label": "Mother hypnotized in front of her children",
+     "local": "sources/mother-kids-hypnosis.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -665,7 +667,7 @@ STORY_FIELDS = ("subtitle", "mechanism", "summary", "character", "note")
 OPTIONAL_FIELDS = ("pregnancy_outcome", "pregnancy_note", "pregnancy_highlight", "pregnant_has_children",
                    "episodes", "tags", "hypnotist", "gain_motive", "method", "kids_status", "kids_note",
                    "kids_together", "kids_together_note", "married", "married_note", "pregnant_end",
-                   "pregnant_end_note", "evidence", "source_conflict", "fit_note")
+                   "pregnant_end_note", "evidence", "source_conflict", "fit_note", "child_witness")
 # list-valued optional fields are unioned across all merged copies (in primary-first, source order)
 UNION_FIELDS = ("episodes", "tags")
 

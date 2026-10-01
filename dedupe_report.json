@@ -693,6 +693,13 @@
      "subtitle": "",
      "year": "1953",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "mother-kids-hypnosis:3",
+     "title": "The 5,000 Fingers of Dr. T",
+     "subtitle": "",
+     "year": "1953",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -2556,6 +2563,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "alias"
+    },
+    {
+     "rid": "mother-kids-hypnosis:34",
+     "title": "The 100",
+     "subtitle": "",
+     "year": "2016",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -2643,6 +2657,13 @@
      "subtitle": "",
      "year": "1914",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "mother-kids-hypnosis:16",
+     "title": "The Forces of Evil; or, The Dominant Will",
+     "subtitle": "",
+     "year": "1914",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -6437,6 +6458,13 @@
      "subtitle": "",
      "year": "1990s",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "mother-kids-hypnosis:32",
+     "title": "One Life to Live",
+     "subtitle": "",
+     "year": "1990s",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -9034,6 +9062,13 @@
      "subtitle": "",
      "year": "1953",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "mother-kids-hypnosis:8",
+     "title": "Invaders from Mars",
+     "subtitle": "",
+     "year": "1953",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -11766,6 +11801,13 @@
      "subtitle": "",
      "year": "1995",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "mother-kids-hypnosis:7",
+     "title": "Village of the Damned",
+     "subtitle": "",
+     "year": "1995",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -11786,6 +11828,13 @@
      "subtitle": "",
      "year": "1964",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "mother-kids-hypnosis:6",
+     "title": "Children of the Damned",
+     "subtitle": "",
+     "year": "1964",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -12615,6 +12664,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "mother-kids-hypnosis:30",
+     "title": "The Fairly OddParents",
+     "subtitle": "",
+     "year": "2003",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -15252,6 +15308,26 @@
    ]
   },
   {
+   "kept_id": 733,
+   "kept": "PSI Factor: Chronicles of the Paranormal (1997)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:768",
+     "title": "PSI Factor: Chronicles of the Paranormal",
+     "subtitle": "“Second Sight / Chocolate Soldier” · S01E19",
+     "year": "1997"
+    },
+    {
+     "rid": "mother-kids-hypnosis:35",
+     "title": "PSI Factor: Chronicles of the Paranormal",
+     "subtitle": "",
+     "year": "1997",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 734,
    "kept": "The Hunger (1999)",
    "scope": "cross-source",
@@ -17640,6 +17716,26 @@
    ]
   },
   {
+   "kept_id": 879,
+   "kept": "Main Hoon Aparajita (2022)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "india-catalog:17",
+     "title": "Main Hoon Aparajita",
+     "subtitle": "",
+     "year": "2022"
+    },
+    {
+     "rid": "mother-kids-hypnosis:33",
+     "title": "Main Hoon Aparajita",
+     "subtitle": "",
+     "year": "2022",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 880,
    "kept": "Geethanjali (2015)",
    "scope": "cross-source",
@@ -18360,6 +18456,26 @@
    ]
   },
   {
+   "kept_id": 1094,
+   "kept": "Challenge of the GoBots (1984–1985)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:172",
+     "title": "Challenge of the GoBots",
+     "subtitle": "",
+     "year": "1984–1985"
+    },
+    {
+     "rid": "mother-kids-hypnosis:22",
+     "title": "Challenge of the GoBots",
+     "subtitle": "",
+     "year": "1984–1985",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 1099,
    "kept": "Columbo (1968)",
    "scope": "cross-source",
@@ -18420,6 +18536,26 @@
    ]
   },
   {
+   "kept_id": 1127,
+   "kept": "Conan The Barbarian (1982)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:207",
+     "title": "Conan The Barbarian",
+     "subtitle": "",
+     "year": "1982"
+    },
+    {
+     "rid": "mother-kids-hypnosis:1",
+     "title": "Conan the Barbarian",
+     "subtitle": "",
+     "year": "1982",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 1147,
    "kept": "Daughter of Dr. Jekyll (1886)",
    "scope": "cross-source",
@@ -18435,6 +18571,26 @@
      "title": "Daughter of Dr. Jekyll",
      "subtitle": "",
      "year": "1957",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1153,
+   "kept": "Daphne & Velma (2018)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:239",
+     "title": "Daphne & Velma",
+     "subtitle": "",
+     "year": "2018"
+    },
+    {
+     "rid": "mother-kids-hypnosis:13",
+     "title": "Daphne & Velma",
+     "subtitle": "",
+     "year": "2018",
      "matched_by": "match_title"
     }
    ]
@@ -18515,6 +18671,26 @@
      "title": "Dick Tracy",
      "subtitle": "",
      "year": "1950–1951",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1197,
+   "kept": "Don't Look in the Mirror (2022)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:295",
+     "title": "Don't Look in the Mirror",
+     "subtitle": "",
+     "year": "2022"
+    },
+    {
+     "rid": "mother-kids-hypnosis:17",
+     "title": "Don't Look in the Mirror",
+     "subtitle": "",
+     "year": "2022",
      "matched_by": "match_title"
     }
    ]
@@ -18607,6 +18783,106 @@
    ]
   },
   {
+   "kept_id": 1273,
+   "kept": "Fuller House (2016–2020)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:380",
+     "title": "Fuller House",
+     "subtitle": "",
+     "year": "2016–2020"
+    },
+    {
+     "rid": "mother-kids-hypnosis:28",
+     "title": "Fuller House",
+     "subtitle": "",
+     "year": "2016–2020",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1304,
+   "kept": "Hamar Vachan (2013)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:416",
+     "title": "Hamar Vachan",
+     "subtitle": "",
+     "year": "2013"
+    },
+    {
+     "rid": "mother-kids-hypnosis:18",
+     "title": "Hamar Vachan",
+     "subtitle": "",
+     "year": "2013",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1318,
+   "kept": "Historias de 'Con la muerte en los tacones' (no year)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:433",
+     "title": "Historias de 'Con la muerte en los tacones'",
+     "subtitle": "",
+     "year": ""
+    },
+    {
+     "rid": "mother-kids-hypnosis:38",
+     "title": "Historias de 'Con la muerte en los tacones'",
+     "subtitle": "",
+     "year": "",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1329,
+   "kept": "Incredibles 2 (2018)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:444",
+     "title": "Incredibles 2",
+     "subtitle": "",
+     "year": "2018"
+    },
+    {
+     "rid": "mother-kids-hypnosis:4",
+     "title": "Incredibles 2",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1351,
+   "kept": "Invaders From Mars (1986)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:470",
+     "title": "Invaders From Mars",
+     "subtitle": "",
+     "year": "1986"
+    },
+    {
+     "rid": "mother-kids-hypnosis:9",
+     "title": "Invaders from Mars",
+     "subtitle": "",
+     "year": "1986",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 1421,
    "kept": "Listen To Your Husband (2025)",
    "scope": "cross-source",
@@ -18643,6 +18919,66 @@
      "subtitle": "",
      "year": "1994–1995",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1454,
+   "kept": "Mighty Morphin Power Rangers: The Movie (1995)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:590",
+     "title": "Mighty Morphin Power Rangers: The Movie",
+     "subtitle": "",
+     "year": "1995"
+    },
+    {
+     "rid": "mother-kids-hypnosis:12",
+     "title": "Mighty Morphin Power Rangers: The Movie",
+     "subtitle": "",
+     "year": "1995",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1509,
+   "kept": "No Dessert, Dad, till You Mow the Lawn (1994)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:654",
+     "title": "No Dessert, Dad, till You Mow the Lawn",
+     "subtitle": "",
+     "year": "1994"
+    },
+    {
+     "rid": "mother-kids-hypnosis:15",
+     "title": "No Dessert, Dad, till You Mow the Lawn",
+     "subtitle": "",
+     "year": "1994",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1518,
+   "kept": "Perfect Little Angels (1998)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:665",
+     "title": "Perfect Little Angels",
+     "subtitle": "",
+     "year": "1998"
+    },
+    {
+     "rid": "mother-kids-hypnosis:14",
+     "title": "Perfect Little Angels",
+     "subtitle": "",
+     "year": "1998",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -18867,6 +19203,66 @@
    ]
   },
   {
+   "kept_id": 1773,
+   "kept": "The X's (2005–2006)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:967",
+     "title": "The X's",
+     "subtitle": "",
+     "year": "2005–2006"
+    },
+    {
+     "rid": "mother-kids-hypnosis:27",
+     "title": "The X's",
+     "subtitle": "",
+     "year": "2005–2006",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1774,
+   "kept": "The Stanley Dynamic (2015–2017)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:968",
+     "title": "The Stanley Dynamic",
+     "subtitle": "",
+     "year": "2015–2017"
+    },
+    {
+     "rid": "mother-kids-hypnosis:26",
+     "title": "The Stanley Dynamic",
+     "subtitle": "",
+     "year": "2015–2017",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1777,
+   "kept": "The Thundermans (2013–2018)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:971",
+     "title": "The Thundermans",
+     "subtitle": "",
+     "year": "2013–2018"
+    },
+    {
+     "rid": "mother-kids-hypnosis:29",
+     "title": "The Thundermans",
+     "subtitle": "",
+     "year": "2013–2018",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 1785,
    "kept": "The Thief of Baghdad (1978)",
    "scope": "cross-source",
@@ -18957,6 +19353,26 @@
      "subtitle": "",
      "year": "2024",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1864,
+   "kept": "Velma (2023–2024)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:1072",
+     "title": "Velma",
+     "subtitle": "",
+     "year": "2023–2024"
+    },
+    {
+     "rid": "mother-kids-hypnosis:31",
+     "title": "Velma",
+     "subtitle": "",
+     "year": "2023–2024",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -19053,11 +19469,12 @@
   "rich-wife-hypnosis": 45,
   "agegap-marriage": 18,
   "older-man-hypnosis": 15,
-  "hypno-intimacy": 11
+  "hypno-intimacy": 11,
+  "mother-kids-hypnosis": 38
  },
- "entry_count_after_dedupe": 1951,
+ "entry_count_after_dedupe": 1963,
  "within_source_groups": 1,
- "cross_source_groups": 760,
+ "cross_source_groups": 778,
  "index_only_records": 41,
- "local_only_records": 1086
+ "local_only_records": 1098
 }
