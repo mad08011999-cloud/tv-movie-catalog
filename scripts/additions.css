@@ -98,3 +98,7 @@ details.merged .clinks a{font-size:.7rem}
   .more-panel .yr-range input{flex:1 1 0;width:auto;min-width:0}
   .more-panel #yclear,.more-panel #freeToggle{flex:1 1 calc(50% - 4px)}
 }
+
+/* older-man hypnosis research: cross-check lines */
+.entry-note.evidence.single strong{color:#b45309}
+.entry-note.conflict strong{color:#b91c1c}
