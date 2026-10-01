@@ -72,6 +72,8 @@ SOURCES = [
      "local": "sources/hypno-leftovers.json", "required": False},
     {"id": "field-fixes", "label": "Card field fixes (conflicting pregnancy / kids / marriage values)",
      "local": "sources/field-fixes.json", "required": False},
+    {"id": "hypnosis-assault", "label": "Hypnotized woman sexually assaulted under hypnosis",
+     "local": "sources/hypnosis-assault.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -825,11 +827,16 @@ def merge_group(g, new_id):
                 rec[f] = v
             continue
         if f in UNION_FIELDS:
-            vals = []
+            vals, ep_keys = [], set()
             for m in ordered:
                 for v in m.get(f) or []:
-                    if v not in vals:
+                    # the same episode listed by two copies (same number/title, different date or gist
+                    # wording) is shown once on the card; each copy keeps its own line under "Merged copies"
+                    ek = norm_title(v.get("episode", "")) if f == "episodes" and isinstance(v, dict) else None
+                    if v not in vals and not (ek and ek in ep_keys):
                         vals.append(v)
+                        if ek:
+                            ep_keys.add(ek)
             if vals:
                 rec[f] = vals
             continue

@@ -390,6 +390,13 @@
      "subtitle": "",
      "year": "2004",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault:5",
+     "title": "The Hypnotized / Faceless Beauty",
+     "subtitle": "얼굴없는 미녀",
+     "year": "2004",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -843,6 +850,26 @@
      "subtitle": "",
      "year": "1960",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 38,
+   "kept": "Skin Deep in Love (1966)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:38",
+     "title": "Skin Deep in Love",
+     "subtitle": "",
+     "year": "1966"
+    },
+    {
+     "rid": "hypnosis-assault:19",
+     "title": "Skin Deep in Love",
+     "subtitle": "",
+     "year": "1966",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -3978,6 +4005,13 @@
      "subtitle": "बंद दरवाज़ा · “The Closed Door”",
      "year": "1990",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-assault:26",
+     "title": "Bandh Darwaza",
+     "subtitle": "",
+     "year": "1990",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -6637,6 +6671,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-assault:27",
+     "title": "Jessica Jones",
+     "subtitle": "",
+     "year": "2015",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -13912,6 +13953,13 @@
      "subtitle": "",
      "year": "2013",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault:4",
+     "title": "LFO",
+     "subtitle": "",
+     "year": "2013",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -14143,6 +14191,13 @@
      "subtitle": "",
      "year": "1961",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault:2",
+     "title": "Nisf Azraa / نصف عذراء",
+     "subtitle": "Half Virgin",
+     "year": "1961",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -14240,6 +14295,13 @@
     },
     {
      "rid": "hypno-leftovers:3",
+     "title": "Joy à Moscou / Joy in Moscow",
+     "subtitle": "",
+     "year": "1992",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault:20",
      "title": "Joy à Moscou / Joy in Moscow",
      "subtitle": "",
      "year": "1992",
@@ -14514,6 +14576,13 @@
      "subtitle": "",
      "year": "2003",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault:16",
+     "title": "To Seduce an Enemy",
+     "subtitle": "Tau kwai mou jeu 2: Yau yan fan jeu",
+     "year": "2003",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -14587,6 +14656,26 @@
      "title": "À l'aventure / Adventure",
      "subtitle": "",
      "year": "2008",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 637,
+   "kept": "Marionette (꼭두각시) (2013)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:670",
+     "title": "Marionette (꼭두각시)",
+     "subtitle": "",
+     "year": "2013"
+    },
+    {
+     "rid": "hypnosis-assault:17",
+     "title": "Marionette / The Puppet (꼭두각시)",
+     "subtitle": "",
+     "year": "2013",
      "matched_by": "match_title"
     }
    ]
@@ -14725,6 +14814,13 @@
     },
     {
      "rid": "hypno-intimacy:1",
+     "title": "Rasputin the Mad Monk",
+     "subtitle": "",
+     "year": "1966",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault:3",
      "title": "Rasputin the Mad Monk",
      "subtitle": "",
      "year": "1966",
@@ -14879,6 +14975,13 @@
     },
     {
      "rid": "older-man-hypnosis:9",
+     "title": "Saimin / Hypnosis / The Hypnotist",
+     "subtitle": "",
+     "year": "1999",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault:13",
      "title": "Saimin / Hypnosis / The Hypnotist",
      "subtitle": "",
      "year": "1999",
@@ -15285,6 +15388,13 @@
      "subtitle": "",
      "year": "1970",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault:15",
+     "title": "The Mindblowers / Mind Blowers",
+     "subtitle": "",
+     "year": "1970",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -15406,6 +15516,13 @@
      "subtitle": "",
      "year": "1976",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-assault:23",
+     "title": "Black Magic Part 2",
+     "subtitle": "勾魂降頭 · Revenge of the Zombies",
+     "year": "1976",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -16418,6 +16535,13 @@
      "subtitle": "",
      "year": "1970",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-assault:25",
+     "title": "The Dunwich Horror",
+     "subtitle": "",
+     "year": "1970",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -17062,6 +17186,13 @@
      "subtitle": "",
      "year": "1976",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault:10",
+     "title": "Jacquette",
+     "subtitle": "",
+     "year": "1976",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -17620,6 +17751,13 @@
      "subtitle": "",
      "year": "1936",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault:14",
+     "title": "The Hypnotist",
+     "subtitle": "",
+     "year": "1936",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -17701,6 +17839,13 @@
      "subtitle": "",
      "year": "1964",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault:1",
+     "title": "Devil Doll",
+     "subtitle": "",
+     "year": "1964",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -17771,6 +17916,13 @@
     },
     {
      "rid": "older-man-hypnosis:10",
+     "title": "Diagnosis: Murder",
+     "subtitle": "S04E19 · “Delusions of Murder”",
+     "year": "1997",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault:12",
      "title": "Diagnosis: Murder",
      "subtitle": "S04E19 · “Delusions of Murder”",
      "year": "1997",
@@ -18656,6 +18808,13 @@
      "subtitle": "",
      "year": "2024",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-assault:24",
+     "title": "Payal (Part 1)",
+     "subtitle": "",
+     "year": "2024",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -18970,6 +19129,13 @@
      "subtitle": "",
      "year": "2002",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault:22",
+     "title": "De Mesmer con amor o Té para dos",
+     "subtitle": "",
+     "year": "2002",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -18989,6 +19155,13 @@
      "title": "Dead Man's Gun",
      "subtitle": "",
      "year": "1997–1999",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault:7",
+     "title": "Dead Man's Gun",
+     "subtitle": "S1E15 · “The Mesmerizer”",
+     "year": "1998",
      "matched_by": "match_title"
     }
    ]
@@ -19084,6 +19257,13 @@
      "subtitle": "",
      "year": "1992",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault:21",
+     "title": "El Gato con Gatas",
+     "subtitle": "",
+     "year": "1992",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -19102,6 +19282,13 @@
      "rid": "hypno-intimacy:9",
      "title": "Evil Deeds",
      "subtitle": "",
+     "year": "2021",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault:8",
+     "title": "Evil Deeds",
+     "subtitle": "S1E4 · “The Spiral”",
      "year": "2021",
      "matched_by": "match_title"
     }
@@ -19137,6 +19324,13 @@
      "title": "Freddy's Nightmares",
      "subtitle": "",
      "year": "1988",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault:6",
+     "title": "Freddy's Nightmares",
+     "subtitle": "S02E13 · “What You Don't Know Can Kill You”",
+     "year": "1990",
      "matched_by": "match_title"
     }
    ]
@@ -19325,6 +19519,13 @@
      "subtitle": "",
      "year": "2012",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault:18",
+     "title": "Knock (노크)",
+     "subtitle": "",
+     "year": "2012",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -19404,6 +19605,26 @@
      "title": "Mighty Morphin Power Rangers: The Movie",
      "subtitle": "",
      "year": "1995",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1459,
+   "kept": "Memory Lost (2016)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:596",
+     "title": "Memory Lost",
+     "subtitle": "",
+     "year": "2016"
+    },
+    {
+     "rid": "hypnosis-assault:28",
+     "title": "Memory Lost (美人为馅)",
+     "subtitle": "",
+     "year": "2016",
      "matched_by": "match_title"
     }
    ]
@@ -19561,6 +19782,13 @@
     },
     {
      "rid": "hypno-intimacy:10",
+     "title": "State of Consciousness",
+     "subtitle": "",
+     "year": "2023",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault:9",
      "title": "State of Consciousness",
      "subtitle": "",
      "year": "2023",
@@ -19980,6 +20208,13 @@
      "subtitle": "",
      "year": "2017",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault:11",
+     "title": "Law & Order: Special Victims Unit",
+     "subtitle": "S18E18 · “Spellbound”",
+     "year": "2017",
+     "matched_by": "match_title"
     }
    ]
   }
@@ -20040,11 +20275,12 @@
   "hypno-intimacy": 11,
   "mother-kids-hypnosis": 38,
   "hypno-leftovers": 29,
-  "field-fixes": 2
+  "field-fixes": 2,
+  "hypnosis-assault": 35
  },
- "entry_count_after_dedupe": 1962,
+ "entry_count_after_dedupe": 1969,
  "within_source_groups": 1,
- "cross_source_groups": 790,
+ "cross_source_groups": 793,
  "index_only_records": 40,
- "local_only_records": 1099
+ "local_only_records": 1106
 }
