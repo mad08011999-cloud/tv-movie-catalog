@@ -1,0 +1,1007 @@
+{
+ "id": "royal-hypnosis-loose",
+ "label": "Queen/princess hypnotized — loose-fit and leftover leads",
+ "group_title": "Queen/princess hypnotized — loose-fit and leftover leads (Sep 2026)",
+ "description": "The leftover and previously rejected royal-hypnosis leads, added to the royal-hypnosis category as 'loose fit' at the user's request. Each card's Fit line explains why it is loose (spell, potion, sorcery or machine instead of hypnosis; not royal; wrong motive; the princess is herself a hypnotist; single source). Adults only: titles where the queen or princess is a minor or her adult age cannot be established are skipped and listed in dropped.",
+ "category_labels": {},
+ "records": [
+  {
+   "title": "Rasputin and the Empress",
+   "year": "1932",
+   "match_title": "Rasputin and the Empress",
+   "match_year": "1932",
+   "format": "movie",
+   "categories": [
+    "royal-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "AFI Catalog",
+     "url": "https://catalog.afi.com/Catalog/moviedetails/6070"
+    },
+    {
+     "label": "TV Tropes",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Film/RasputinAndTheEmpress"
+    }
+   ],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "no",
+   "kids_together_note": "no relationship between them",
+   "kids_status": "not stated",
+   "kids_note": "no children mentioned",
+   "married": "no",
+   "married_note": "Rasputin does not marry her",
+   "already_married": "yes",
+   "already_married_note": "Princess Natasha (Diana Wynyard) is engaged to Prince Paul Chegodieff at first and married to him by 1914 (AFI), before Rasputin puts her in a deep trance to stop her going to the Empress",
+   "evidence": "single source — Wikipedia for the trance scene; AFI confirms her identity and marriage, and TV Tropes confirms Rasputin's hypnosis at court",
+   "fit_note": "Loose fit: Natasha is a princess but a lady-in-waiting, not the Empress, and he entrances her to protect his power at court rather than to marry her or take the throne. Low confidence for the trance detail (one source)"
+  },
+  {
+   "title": "Just Call Me Nobody",
+   "year": "2010",
+   "match_title": "Just Call Me Nobody",
+   "match_year": "2010",
+   "format": "movie",
+   "categories": [
+    "royal-hypnosis",
+    "love"
+   ],
+   "sources": [
+    {
+     "label": "Chinese Wikipedia",
+     "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%AC%91%E6%B1%9F%E6%B9%96"
+    },
+    {
+     "label": "TMDB",
+     "url": "https://www.themoviedb.org/movie/58365"
+    }
+   ],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "not stated",
+   "kids_together_note": "the emperor lets Yuelou leave the palace and she ends up with the cobbler Wu Di",
+   "kids_status": "no",
+   "kids_note": "none",
+   "already_married": "disputed",
+   "already_married_note": "English Wikipedia and TMDB call Yuelou (Kelly Lin) a princess due to marry the emperor, who ran away; Chinese Wikipedia calls her the empress (皇后). The chief eunuch Cheng plots to seize the throne and captures the emperor and empress",
+   "evidence": "single source — Mental Block for the hypnosis (a sorcerer's gaze and flute make her attack the Emperor); Chinese Wikipedia and TMDB confirm the throne plot and her royal status",
+   "fit_note": "Loose fit, low confidence: no source explicitly links the hypnotist to Eunuch Cheng's bid for the throne; her title differs between sources",
+   "source_conflict": "Royal status: princess betrothed to the emperor (English Wikipedia, TMDB) vs. empress (Chinese Wikipedia)"
+  },
+  {
+   "title": "Prem Ya Paheli – Chandrakanta",
+   "year": "2017",
+   "match_title": "Prem Ya Paheli – Chandrakanta",
+   "match_year": "2017",
+   "format": "tv",
+   "categories": [
+    "royal-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "India Forums written update (30 Jul 2017)",
+     "url": "https://www.indiaforums.com/forum/prem-ya-paheli-chandrakanta/4879450/chandrakanta-30th-july-2017-written-episode-update"
+    }
+   ],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "no",
+   "kids_together_note": "Soundarya is a female hypnotist; Chandrakanta's love interest is Prince Virendra",
+   "kids_status": "no",
+   "kids_note": "none",
+   "already_married": "no",
+   "already_married_note": "Princess Chandrakanta (Kritika Kamra) is unmarried; she is preparing for her wedding to Virendra (mehendi) when the sorceress Soundarya hypnotizes her so she can snatch Virendra",
+   "evidence": "2 sources (Mental Block E43–44; India Forums written update, 30 Jul 2017)",
+   "fit_note": "Loose fit: the motive is to take Prince Virendra and, through Prince Shivdutt, the powers of the tilism, not to marry her or take her throne",
+   "episodes": [
+    {
+     "episode": "E43",
+     "air_date": "",
+     "gist": "the sorceress Soundarya infiltrates the court and hypnotizes the court women",
+     "number_verified": true
+    },
+    {
+     "episode": "E44",
+     "air_date": "2017-07-30",
+     "gist": "Soundarya hypnotizes Chandrakanta into a trance for hours to take Virendra away; Chapala breaks the trance",
+     "number_verified": false
+    }
+   ]
+  },
+  {
+   "title": "Robin of Sherwood",
+   "year": "1986",
+   "match_title": "Robin of Sherwood",
+   "match_year": "1986",
+   "format": "tv",
+   "categories": [
+    "royal-hypnosis"
+   ],
+   "sources": [],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "no",
+   "kids_together_note": "the wedding to Owen of Clun is interrupted when she is rescued",
+   "kids_status": "no",
+   "kids_note": "none",
+   "married": "no",
+   "married_note": "the forced wedding to Owen of Clun is stopped",
+   "already_married": "not stated",
+   "already_married_note": "Lady Marion is held by Owen of Clun after Robin of Loxley's death; the sources do not describe her as married at the time",
+   "evidence": "2 sources (Mental Block, Wikipedia for the series and the Owen of Clun arc)",
+   "fit_note": "Loose fit: Marion is a noblewoman, not a queen or princess, and the sorcerer Gulnar combines hypnosis with a love potion"
+  },
+  {
+   "title": "The Thief of Bagdad",
+   "year": "1940",
+   "match_title": "The Thief of Bagdad",
+   "match_year": "1940",
+   "format": "movie",
+   "categories": [
+    "royal-hypnosis"
+   ],
+   "sources": [],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "no",
+   "kids_together_note": "Jaffar's plan fails; the Princess ends up with Ahmad",
+   "kids_status": "no",
+   "kids_note": "none",
+   "married": "no",
+   "married_note": "the usurping Grand Vizier Jaffar does not marry her",
+   "already_married": "no",
+   "already_married_note": "the Princess (June Duprez) is unmarried; Jaffar wants her as his bride",
+   "fit_note": "Loose fit: the Blue Rose of Forgetfulness is a magic flower that erases her memory, not hypnosis"
+  },
+  {
+   "title": "The Last: Naruto the Movie",
+   "year": "2014",
+   "match_title": "The Last: Naruto the Movie",
+   "match_year": "2014",
+   "format": "movie",
+   "categories": [
+    "royal-hypnosis"
+   ],
+   "sources": [],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "no",
+   "kids_together_note": "Toneri's wedding is broken up; Hinata later marries Naruto (children Boruto and Himawari in the sequel series, not with Toneri)",
+   "kids_status": "no",
+   "kids_note": "none",
+   "married": "no",
+   "married_note": "Naruto interrupts the ceremony",
+   "already_married": "no",
+   "already_married_note": "Hinata Hyūga (19) is unmarried",
+   "fit_note": "Loose fit: Hinata is the Hyūga clan heiress whom Toneri calls the 'Byakugan Princess', not royalty, and he controls her with his puppet technique rather than hypnosis"
+  },
+  {
+   "title": "The Mummy",
+   "year": "1932",
+   "match_title": "The Mummy",
+   "match_year": "1932",
+   "format": "movie",
+   "categories": [
+    "royal-hypnosis"
+   ],
+   "sources": [],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "no",
+   "kids_together_note": "the ritual is stopped",
+   "kids_status": "no",
+   "kids_note": "none",
+   "married": "no",
+   "married_note": "Imhotep's plan to make her his immortal bride fails",
+   "already_married": "no",
+   "already_married_note": "Helen Grosvenor is unmarried",
+   "fit_note": "Loose fit: Helen is the reincarnation of Princess Anck-es-en-Amon, not a princess herself"
+  },
+  {
+   "title": "The Ninth Heart",
+   "year": "1979",
+   "match_title": "The Ninth Heart",
+   "match_year": "1979",
+   "format": "movie",
+   "categories": [
+    "royal-hypnosis"
+   ],
+   "sources": [],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "not stated",
+   "kids_status": "no",
+   "kids_note": "none",
+   "already_married": "no",
+   "already_married_note": "Princess Adriana is unmarried",
+   "fit_note": "Loose fit: the magician Andlobrandini keeps her under a hypnotic spell to prepare a rejuvenating elixir, not to marry her or take the throne"
+  },
+  {
+   "title": "Ghidorah, the Three-Headed Monster",
+   "year": "1964",
+   "match_title": "Ghidorah, the Three-Headed Monster",
+   "match_year": "1964",
+   "format": "movie",
+   "categories": [
+    "royal-hypnosis"
+   ],
+   "sources": [],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "n/a",
+   "kids_status": "no",
+   "kids_note": "none",
+   "already_married": "no",
+   "already_married_note": "Princess Salno is unmarried",
+   "fit_note": "Loose fit: a UFO hypnotizes her and Venusians possess her to deliver prophecies; the assassins hunting her serve a throne plot, but they are not the controllers"
+  },
+  {
+   "title": "Karn Sangini",
+   "year": "2018–19",
+   "match_title": "Karn Sangini",
+   "match_year": "2018–19",
+   "format": "tv",
+   "categories": [
+    "royal-hypnosis"
+   ],
+   "sources": [],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Royal-hypnosis loose fit: Princess Uruvi is already Karn's wife; Kasturi, who claims to be his first wife, uses hypnotic powder and a tantrik to make her seduce Karna — a marital scheme, not the throne"
+  },
+  {
+   "title": "Adventures in Wonderland",
+   "year": "1871",
+   "match_title": "Adventures in Wonderland",
+   "match_year": "1871",
+   "format": "tv",
+   "categories": [
+    "royal-hypnosis"
+   ],
+   "sources": [],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "n/a",
+   "kids_status": "not stated",
+   "already_married": "not stated",
+   "already_married_note": "the Red Queen; marital status not given",
+   "fit_note": "Loose fit: the queen is hypnotized by accident (the March Hare's hypnosis act backfires), with no marriage or throne motive",
+   "episodes": [
+    {
+     "episode": "S03E03 “Hippity Hoppity Hypnotist”",
+     "air_date": "1992",
+     "gist": "the hypnosis meant for someone else hypnotizes the Red Queen instead",
+     "number_verified": false
+    }
+   ]
+  },
+  {
+   "title": "Cliffhangers",
+   "year": "1979",
+   "match_title": "Cliffhangers",
+   "match_year": "1979",
+   "format": "tv",
+   "categories": [
+    "royal-hypnosis"
+   ],
+   "sources": [],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "n/a",
+   "kids_status": "not stated",
+   "already_married": "not stated",
+   "fit_note": "Loose fit: in 'The Secret Empire', Marshal Donner and Maya turn the Emperor's gold-powered mind-control device on Princess Tara to escape, not to marry her or take the throne",
+   "episodes": [
+    {
+     "episode": "S01E02 “The Secret Empire – Chapter IV: Prisoners of the Empire”",
+     "air_date": "1979",
+     "gist": "Princess Tara is brainwashed with the mind-control device and becomes docile",
+     "number_verified": true
+    }
+   ]
+  },
+  {
+   "title": "The Herculoids",
+   "year": "1967–1969",
+   "match_title": "The Herculoids",
+   "match_year": "1967–1969",
+   "format": "tv",
+   "categories": [
+    "royal-hypnosis"
+   ],
+   "sources": [],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "yes",
+   "kids_together_note": "Tara and her husband Zandor have a son, Dorno",
+   "kids_status": "yes",
+   "kids_note": "one son, Dorno",
+   "already_married": "yes",
+   "already_married_note": "Tara is married to Zandor",
+   "fit_note": "Loose fit: the Reptons hook her to a mind-control machine and make her their queen to ambush Zandor; machine control rather than hypnosis",
+   "episodes": [
+    {
+     "episode": "Episode 31 “Ruler of the Reptons”",
+     "air_date": "",
+     "gist": "the Reptons kidnap Tara and make her their mind-controlled queen; Zandor snatches away the headpiece",
+     "number_verified": true
+    }
+   ]
+  },
+  {
+   "title": "Star Knight",
+   "year": "1985",
+   "match_title": "Star Knight",
+   "match_year": "1985",
+   "format": "movie",
+   "categories": [
+    "royal-hypnosis"
+   ],
+   "sources": [],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "n/a",
+   "kids_status": "no",
+   "kids_note": "none",
+   "already_married": "no",
+   "fit_note": "Loose fit: the court magician hypnotizes the princess to recover her memory of the abduction; benign motive"
+  },
+  {
+   "title": "Dharam Veer",
+   "year": "1977",
+   "match_title": "Dharam Veer",
+   "match_year": "1977",
+   "format": "movie",
+   "categories": [
+    "royal-hypnosis"
+   ],
+   "sources": [],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "yes",
+   "pregnant_end_note": "she is already pregnant by Jwala Singh when she is married off; the son, Dharam, is born",
+   "kids_together": "not stated",
+   "kids_together_note": "the husband her father chooses is not the hypnotist; Dharam is Jwala's son",
+   "kids_status": "no",
+   "kids_note": "none before",
+   "married": "yes",
+   "married_note": "her father marries her off into another royal family while she is in the trance",
+   "already_married": "no",
+   "already_married_note": "Princess (Maharani) Meenakshi is unmarried, in love with Jwala Singh",
+   "fit_note": "Loose fit: shock leaves her in an obedient trance (no hypnotist), and her father uses it to marry her off"
+  },
+  {
+   "title": "La momia azteca",
+   "year": "1957",
+   "match_title": "La momia azteca",
+   "match_year": "1957",
+   "format": "movie",
+   "categories": [
+    "royal-hypnosis"
+   ],
+   "sources": [],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "n/a",
+   "kids_status": "no",
+   "kids_note": "none",
+   "already_married": "no",
+   "already_married_note": "Flor is Dr. Almada's girlfriend",
+   "fit_note": "Loose fit: hypnotic regression shows that Flor is the reincarnation of an Aztec maiden; she is not royal and there is no marriage or throne motive"
+  },
+  {
+   "title": "Secrets of the French Police",
+   "year": "1932",
+   "match_title": "Secrets of the French Police",
+   "match_year": "1932",
+   "format": "movie",
+   "categories": [
+    "royal-hypnosis"
+   ],
+   "sources": [],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "no",
+   "kids_status": "no",
+   "kids_note": "none",
+   "already_married": "no",
+   "fit_note": "Loose fit: a flower girl is hypnotized into believing she is Princess Anastasia so Moloff can claim the Romanov fortune — an impostor princess, money motive"
+  },
+  {
+   "title": "Black Magic",
+   "year": "1949",
+   "match_title": "Black Magic",
+   "match_year": "1949",
+   "format": "movie",
+   "categories": [
+    "royal-hypnosis"
+   ],
+   "sources": [],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "already_married": "no",
+   "already_married_note": "Royal-hypnosis loose fit: Lorenza is unmarried when Cagliostro hypnotizes her into marrying him; she is not royal but, under his control, is used to impersonate Queen Marie Antoinette in his bid for power at court"
+  },
+  {
+   "title": "Your Highness",
+   "year": "2011",
+   "match_title": "Your Highness",
+   "match_year": "2011",
+   "format": "movie",
+   "categories": [
+    "royal-hypnosis"
+   ],
+   "sources": [],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "no",
+   "kids_together_note": "Leezar's plan to impregnate her fails",
+   "kids_status": "no",
+   "kids_note": "none",
+   "married": "no",
+   "married_note": "Leezar does not marry her",
+   "already_married": "no",
+   "already_married_note": "Belladonna is betrothed to Prince Fabious",
+   "fit_note": "Loose fit: a spell rather than hypnosis; she is the prince's fiancée, not a princess, and Leezar wants her to bear a dragon so he can gain power"
+  },
+  {
+   "title": "Fright",
+   "year": "1956",
+   "match_title": "Fright",
+   "match_year": "1956",
+   "format": "movie",
+   "categories": [
+    "royal-hypnosis"
+   ],
+   "sources": [],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "n/a",
+   "kids_status": "not stated",
+   "already_married": "not stated",
+   "fit_note": "Loose fit: under hypnosis she believes she is a princess from the past (past-life delusion); she is not royal and there is no marriage or throne motive"
+  },
+  {
+   "title": "Regresa",
+   "year": "2010",
+   "match_title": "Regresa",
+   "match_year": "2010",
+   "format": "movie",
+   "categories": [
+    "royal-hypnosis"
+   ],
+   "sources": [],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Maria is married; marital problems lead her to hypnotherapy",
+   "fit_note": "Loose fit: hypnotherapy regresses her into believing she is a 15th-century Basque princess; she is not royal and there is no marriage or throne motive"
+  },
+  {
+   "title": "Sheena, Queen of the Jungle",
+   "year": "1955",
+   "match_title": "Sheena, Queen of the Jungle",
+   "match_year": "1955",
+   "format": "tv",
+   "categories": [
+    "royal-hypnosis"
+   ],
+   "sources": [],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Helen is Bull Kendall's wife",
+   "fit_note": "Loose fit: escaped convict Turpin hypnotizes Helen into believing she is a queen, as part of Bull's plan to kill Sheena and grab a jar of gems; she is not royal",
+   "episodes": [
+    {
+     "episode": "S01E20 “The Rival Queen”",
+     "air_date": "",
+     "gist": "Turpin hypnotizes Helen into believing she is a queen",
+     "number_verified": true
+    }
+   ]
+  },
+  {
+   "title": "The Bride and the Beast",
+   "year": "1958",
+   "match_title": "The Bride and the Beast",
+   "match_year": "1958",
+   "format": "movie",
+   "categories": [
+    "royal-hypnosis"
+   ],
+   "sources": [],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "no",
+   "kids_status": "no",
+   "kids_note": "none",
+   "already_married": "yes",
+   "already_married_note": "Laura is the new bride of big-game hunter Dan",
+   "fit_note": "Loose fit: hypnotic regression shows she was a queen gorilla in a past life; she is not royal and there is no marriage or throne motive"
+  },
+  {
+   "title": "The Love by Hypnotic",
+   "year": "2019",
+   "match_title": "The Love by Hypnotic",
+   "match_year": "2019",
+   "format": "tv",
+   "categories": [
+    "royal-hypnosis"
+   ],
+   "sources": [],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "not stated",
+   "kids_together_note": "the arranged marriage to Li Qian becomes a romance",
+   "kids_status": "no",
+   "kids_note": "none",
+   "married": "no",
+   "married_note": "the hypnotist, her brother, does not marry her; she is sent into a diplomatic marriage with Prince Li Qian",
+   "already_married": "no",
+   "already_married_note": "Princess Li Mingyue is unmarried when her brother hypnotizes her to erase her first love",
+   "fit_note": "Loose fit: she is herself a hypnotist who uses a hypnotic bracelet on the prince; her brother's hypnosis erases her memories ahead of a political marriage"
+  },
+  {
+   "title": "Hercules in the Haunted World",
+   "year": "1961",
+   "format": "movie",
+   "meta": "Feature film · Italy · Italian (Ercole al centro della Terra, dir. Mario Bava)",
+   "summary": "After her father dies, Princess Deianira, heir to Ecalia, falls into an uncanny trance while her uncle Lico takes the throne; he secretly caused it, plans to kill her to make himself immortal, and keeps the throne. Hercules seeks the Stone of Forgetfulness in the underworld to cure her.",
+   "character": "Princess Deianira (Leonora Ruffo) · controller: King Lico (Christopher Lee)",
+   "categories": [
+    "royal-hypnosis",
+    "fantasy",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Hercules_in_the_Haunted_World"
+    },
+    {
+     "label": "Black Gate",
+     "url": "https://www.blackgate.com/2012/03/20/mario-bava-vs-the-low-budget-hercules-in-the-haunted-world/"
+    },
+    {
+     "label": "Mana Pop",
+     "url": "https://manapop.com/film/hercules-in-the-haunted-world-1961-review/"
+    }
+   ],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "subtitle": "Ercole al centro della Terra",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "no",
+   "kids_together_note": "Lico is destroyed; she is Hercules' betrothed",
+   "kids_status": "no",
+   "kids_note": "none",
+   "married": "no",
+   "married_note": "Lico does not marry her",
+   "already_married": "no",
+   "already_married_note": "Deianira is unmarried, betrothed to Hercules",
+   "evidence": "3 sources (Wikipedia, Black Gate, Mana Pop)",
+   "fit_note": "Loose fit: sources call it a sorcerous trance or 'mindless haze', not hypnosis; the motive is the throne and immortality"
+  },
+  {
+   "title": "Shrek 2",
+   "year": "2004",
+   "format": "movie",
+   "meta": "Animated feature · United States · English",
+   "summary": "The Fairy Godmother wants her son Prince Charming to marry the already-married Princess Fiona so she can rule Far Far Away, and gives King Harold a love potion for Fiona's tea to make her fall for Charming; Harold refuses to use it and the scheme fails.",
+   "character": "Princess Fiona (Cameron Diaz) · schemers: Fairy Godmother and Prince Charming",
+   "categories": [
+    "royal-hypnosis",
+    "love"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Shrek_2"
+    }
+   ],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "not in Shrek 2; she is pregnant by Shrek in Shrek the Third",
+   "kids_together": "no",
+   "kids_together_note": "Charming never wins her; Fiona and her husband Shrek have triplets in Shrek the Third",
+   "kids_status": "no",
+   "kids_note": "none",
+   "married": "no",
+   "married_note": "Charming does not marry her",
+   "already_married": "yes",
+   "already_married_note": "Fiona is already married to Shrek (the film opens after their honeymoon)",
+   "evidence": "single source — Wikipedia plot",
+   "fit_note": "Loose fit: a love potion, not hypnosis, and it is never given to her; motive is the throne through marriage"
+  },
+  {
+   "title": "Merlin",
+   "year": "2008–12",
+   "format": "tv",
+   "meta": "TV series · United Kingdom · English (BBC One) · Series 5 Gwen arc",
+   "summary": "Morgana abducts Queen Guinevere and locks her in the Dark Tower, where her enchantment turns Gwen against Arthur; the brainwashed queen then works with Morgana to kill Arthur and hand Camelot to her, until the enchantment is broken.",
+   "character": "Queen Guinevere (Angel Coulby) · controller: Morgana Pendragon (Katie McGrath)",
+   "categories": [
+    "royal-hypnosis",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Merlin_series_5"
+    },
+    {
+     "label": "Merlin fandom wiki (The Dark Tower)",
+     "url": "https://merlin.fandom.com/wiki/The_Dark_Tower"
+    }
+   ],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "n/a",
+   "kids_together_note": "Morgana is a female controller; Gwen and Arthur have no children",
+   "kids_status": "no",
+   "kids_note": "none",
+   "already_married": "yes",
+   "already_married_note": "Gwen is already queen, married to King Arthur",
+   "evidence": "2 sources (Wikipedia series 5; Merlin fandom wiki: 'Gwen's brainwashing by Morgana')",
+   "fit_note": "Loose fit: sorcery-based brainwashing in the Dark Tower rather than hypnosis; motive is the throne of Camelot",
+   "episodes": [
+    {
+     "episode": "S05E06 “The Dark Tower”",
+     "air_date": "2012-11-10",
+     "gist": "Morgana abducts Gwen and brainwashes her in the Dark Tower",
+     "number_verified": true
+    },
+    {
+     "episode": "S05E09 “With All of My Heart”",
+     "air_date": "2012-12-01",
+     "gist": "the brainwashed Gwen's enchantment is finally broken",
+     "number_verified": false
+    }
+   ]
+  },
+  {
+   "title": "Anastasia",
+   "year": "1997",
+   "format": "movie",
+   "meta": "Animated feature · United States · English",
+   "summary": "Rasputin's demonic minions try to lure the grown-up Anya, the lost Grand Duchess Anastasia, into sleepwalking off a ship to her death as part of his revenge on the Romanovs; Dimitri wakes her in time.",
+   "character": "Anya / Grand Duchess Anastasia (Meg Ryan) · controller: Rasputin's minions",
+   "categories": [
+    "royal-hypnosis",
+    "fantasy",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Anastasia_(1997_film)"
+    }
+   ],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "n/a",
+   "kids_status": "no",
+   "kids_note": "none",
+   "married": "no",
+   "married_note": "no marriage to the controller; she ends up with Dimitri",
+   "already_married": "no",
+   "already_married_note": "Anya is unmarried",
+   "evidence": "single source — Wikipedia plot",
+   "fit_note": "Loose fit: a demonic sleepwalking trance, and Rasputin's motive is revenge on the Romanovs, not marriage or the throne"
+  },
+  {
+   "title": "Captain Thunder",
+   "year": "2011",
+   "format": "movie",
+   "meta": "Feature film · Spain · Spanish (El Capitán Trueno y el Santo Grial)",
+   "summary": "Sir Black captures the Viking princess Sigrid, and his witches drug and brainwash her into betraying her friends and stealing an important ruby for him.",
+   "character": "Princess Sigrid (Natasha Yarovenko) · controllers: Sir Black's witches",
+   "categories": [
+    "royal-hypnosis",
+    "fantasy",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Captain_Thunder"
+    },
+    {
+     "label": "Wikipedia (Spanish)",
+     "url": "https://es.wikipedia.org/wiki/El_Capit%C3%A1n_Trueno_y_el_Santo_Grial"
+    }
+   ],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "subtitle": "El Capitán Trueno y el Santo Grial",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "no",
+   "kids_status": "no",
+   "kids_note": "none",
+   "already_married": "no",
+   "evidence": "single source — Mental Block for the brainwashing; Spanish Wikipedia confirms Sigrid's role",
+   "fit_note": "Loose fit: drug and witchcraft brainwashing, and the motive is to steal a ruby, not marriage or the throne"
+  },
+  {
+   "title": "Hercules Against the Moon Men",
+   "year": "1964",
+   "format": "movie",
+   "meta": "Feature film · Italy/France · Italian (Maciste e la regina di Samar)",
+   "summary": "The evil Queen Samara of Samar is described as under the spell of the invading Moon Men, who demand sacrifices to revive their dead queen; she has also made a pact with them to conquer the world.",
+   "character": "Queen Samara (Jany Clair) · controllers: the Moon Men",
+   "categories": [
+    "royal-hypnosis",
+    "scifi"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Hercules_Against_the_Moon_Men"
+    }
+   ],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "subtitle": "Maciste e la regina di Samar",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "n/a",
+   "kids_status": "no",
+   "kids_note": "none",
+   "already_married": "no",
+   "already_married_note": "Queen Samara rules alone",
+   "evidence": "single source — Wikipedia",
+   "fit_note": "Loose fit, low confidence: Wikipedia says both that she is 'under the spell' and that she made a willing pact for power; not explicitly hypnosis"
+  },
+  {
+   "title": "Alif Laila",
+   "year": "1993–97",
+   "format": "tv",
+   "meta": "TV series · India · Hindi/Urdu (DD National, Sagar Arts) · Sinbad and Jalal Talib arcs",
+   "summary": "In the Sinbad arc a shape-shifting magician (Kumar Hegde) tries to marry Lady Gazala by force, and a sorcerer is reported to hypnotize and capture her; in the Jalal Talib arc the sorcerer Azgar schemes around the witch-queen Hameera.",
+   "character": "Lady Gazala (Payal Mehta); witch-queen Hameera (Lata Haya)",
+   "categories": [
+    "royal-hypnosis",
+    "fantasy",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Alif_Laila"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt4703656/"
+    }
+   ],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "no",
+   "kids_status": "not stated",
+   "already_married": "no",
+   "already_married_note": "Gazala is unmarried (her lover is Sultan Bakht); Hameera not stated",
+   "evidence": "single source — search summaries only for the hypnosis; Wikipedia cast list and an IMDb review confirm the forced-marriage magician",
+   "fit_note": "Loose fit, low confidence: no source seen describes the hypnosis scene; Gazala is called 'lady' in the cast list, not princess",
+   "episodes": [
+    {
+     "episode": "Ep 48–106 (Sinbad arc)",
+     "air_date": "1994–95",
+     "gist": "the magician who wants to force Gazala into marriage",
+     "number_verified": false
+    },
+    {
+     "episode": "Ep 107–135 (Prince Jalal Talib and Malika Hameera)",
+     "air_date": "1995–97",
+     "gist": "the sorcerer Azgar and the witch-queen Hameera",
+     "number_verified": false
+    }
+   ]
+  },
+  {
+   "title": "Galtar and the Golden Lance",
+   "year": "1985–86",
+   "format": "tv",
+   "meta": "Animated series · United States · English (Hanna-Barbera)",
+   "summary": "The evil witch Mursa hypnotizes Princess Goleeta, rightful heir of a kingdom held by the tyrant Tormack, and steals her youth and appearance; Galtar and the White Knight rescue her.",
+   "character": "Princess Goleeta · hypnotist: the witch Mursa",
+   "categories": [
+    "royal-hypnosis",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Galtar_and_the_Golden_Lance"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Galtar_and_the_Golden_Lance"
+    }
+   ],
+   "provenance": "Royal-hypnosis loose-fit pass, 30 Sep 2026 PT (adults only; leftover and rejected royal leads added as loose fit)",
+   "tags": [
+    "loose fit"
+   ],
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in the sources",
+   "kids_together": "n/a",
+   "kids_status": "no",
+   "kids_note": "none",
+   "already_married": "no",
+   "evidence": "single source — Mental Block for the episode (it files Goleeta under 'Hypnotized Adult'); Wikipedia confirms the series and the princess",
+   "fit_note": "Loose fit: the motive is stealing her youth, not marriage or the throne",
+   "episodes": [
+    {
+     "episode": "S01E03 “Mursa the Merciless”",
+     "air_date": "1985",
+     "gist": "Mursa hypnotizes Goleeta and steals her youth and appearance",
+     "number_verified": true
+    }
+   ]
+  }
+ ],
+ "dropped": [
+  {
+   "title": "Tenali Rama",
+   "year": "2017–20",
+   "reason": "skipped: the princess Vengdu Swami hypnotizes in E794 is not named in any source (Mental Block says only 'the princess'; Sony LIV and YuppTV synopses mention only the Maharaj), so her adult age cannot be established"
+  },
+  {
+   "title": "Purana Mandir",
+   "year": "1984",
+   "reason": "skipped: Princess Rupali's age is not stated and her actress (Vishakha Chotu) has no recorded birth year; also a life-force drain, not a marriage or throne motive"
+  },
+  {
+   "title": "I'm a Pet at Dali Temple",
+   "year": "2018",
+   "reason": "skipped: Princess Liuyang's age is not established"
+  },
+  {
+   "title": "Sleeping Beauty / Maleficent / Code Geass / Mighty Morphin Power Rangers / The Castle of Cagliostro / The Legend of Zelda (1989) / Aladdin (1992) / Aladdin – Naam Toh Suna Hoga / Dennis the Menace: Cruise Control / Legend of William Tell / Elena of Avalor / Laila Thida Yak",
+   "reason": "skipped: minor or adult age not established"
+  },
+  {
+   "title": "The Swan Princess / Jack and the Beanstalk (1974) / Legend (1985)",
+   "reason": "skipped: the princess's adult age is not established (Odette and Margaret are unaged; Lili's actress was 17)"
+  },
+  {
+   "title": "Spaceballs",
+   "year": "1987",
+   "reason": "skipped: no hypnosis, trance or mind-control of Princess Vespa found in any source"
+  },
+  {
+   "title": "Sheena",
+   "year": "2000–02",
+   "reason": "skipped: the hypnosis episodes involve cult followers and villagers, not a queen or princess ('Queen of the Jungle' is only a nickname)"
+  },
+  {
+   "title": "Super Mario Adventures",
+   "reason": "skipped: a comic, not a film or TV title"
+  },
+  {
+   "title": "Pathala Bhairavi",
+   "year": "1951",
+   "reason": "skipped: the sorcerer wants to marry Princess Indumathi, but no source describes hypnosis or a trance"
+  }
+ ]
+}

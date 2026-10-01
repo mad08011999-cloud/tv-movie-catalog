@@ -319,6 +319,26 @@
    ]
   },
   {
+   "kept_id": 13,
+   "kept": "The Last: Naruto the Movie (2014)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:13",
+     "title": "The Last: Naruto the Movie",
+     "subtitle": "THE LAST -NARUTO THE MOVIE-",
+     "year": "2014"
+    },
+    {
+     "rid": "royal-hypnosis-loose:6",
+     "title": "The Last: Naruto the Movie",
+     "subtitle": "",
+     "year": "2014",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 14,
    "kept": "Vampire Hunter D (1985)",
    "scope": "cross-source",
@@ -431,6 +451,13 @@
      "subtitle": "",
      "year": "2019",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "royal-hypnosis-loose:24",
+     "title": "The Love by Hypnotic",
+     "subtitle": "",
+     "year": "2019",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -498,6 +525,26 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 26,
+   "kept": "Your Highness (2011)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:26",
+     "title": "Your Highness",
+     "subtitle": "",
+     "year": "2011"
+    },
+    {
+     "rid": "royal-hypnosis-loose:19",
+     "title": "Your Highness",
+     "subtitle": "",
+     "year": "2011",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -684,6 +731,13 @@
     },
     {
      "rid": "rich-wife-hypnosis:21",
+     "title": "The Thief of Bagdad",
+     "subtitle": "",
+     "year": "1940",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "royal-hypnosis-loose:5",
      "title": "The Thief of Bagdad",
      "subtitle": "",
      "year": "1940",
@@ -6300,6 +6354,13 @@
     },
     {
      "rid": "hypno-leftovers:15",
+     "title": "Black Magic",
+     "subtitle": "",
+     "year": "1949",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "royal-hypnosis-loose:18",
      "title": "Black Magic",
      "subtitle": "",
      "year": "1949",
@@ -16291,6 +16352,13 @@
      "subtitle": "",
      "year": "1957",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "royal-hypnosis-loose:16",
+     "title": "La momia azteca",
+     "subtitle": "",
+     "year": "1957",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -18583,6 +18651,13 @@
      "subtitle": "",
      "year": "1932",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "royal-hypnosis-loose:17",
+     "title": "Secrets of the French Police",
+     "subtitle": "",
+     "year": "1932",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -19120,6 +19195,13 @@
      "subtitle": "",
      "year": "2018–19",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "royal-hypnosis-loose:10",
+     "title": "Karn Sangini",
+     "subtitle": "",
+     "year": "2018–19",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -19156,6 +19238,13 @@
     },
     {
      "rid": "worldwide-hypnosis:697",
+     "title": "Prem Ya Paheli – Chandrakanta",
+     "subtitle": "",
+     "year": "2017",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "royal-hypnosis-loose:3",
      "title": "Prem Ya Paheli – Chandrakanta",
      "subtitle": "",
      "year": "2017",
@@ -19447,6 +19536,13 @@
      "subtitle": "",
      "year": "1977",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "royal-hypnosis-loose:15",
+     "title": "Dharam Veer",
+     "subtitle": "",
+     "year": "1977",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -19672,6 +19768,26 @@
    ]
   },
   {
+   "kept_id": 963,
+   "kept": "Adventures in Wonderland (1871)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:23",
+     "title": "Adventures in Wonderland",
+     "subtitle": "",
+     "year": "1871"
+    },
+    {
+     "rid": "royal-hypnosis-loose:11",
+     "title": "Adventures in Wonderland",
+     "subtitle": "",
+     "year": "1871",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 996,
    "kept": "An Angel for Satan (1966)",
    "scope": "cross-source",
@@ -19767,6 +19883,26 @@
      "title": "Challenge of the GoBots",
      "subtitle": "",
      "year": "1984–1985",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1097,
+   "kept": "Cliffhangers (1979)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:175",
+     "title": "Cliffhangers",
+     "subtitle": "",
+     "year": "1979"
+    },
+    {
+     "rid": "royal-hypnosis-loose:12",
+     "title": "Cliffhangers",
+     "subtitle": "",
+     "year": "1979",
      "matched_by": "match_title"
     }
    ]
@@ -20156,6 +20292,26 @@
    ]
   },
   {
+   "kept_id": 1260,
+   "kept": "Fright (1956)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:366",
+     "title": "Fright",
+     "subtitle": "",
+     "year": "1956"
+    },
+    {
+     "rid": "royal-hypnosis-loose:20",
+     "title": "Fright",
+     "subtitle": "",
+     "year": "1956",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 1263,
    "kept": "Flying wooden donkey (2011)",
    "scope": "cross-source",
@@ -20191,6 +20347,26 @@
      "title": "Fuller House",
      "subtitle": "",
      "year": "2016–2020",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1287,
+   "kept": "Ghidorah, the Three-Headed Monster (1964)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:396",
+     "title": "Ghidorah, the Three-Headed Monster",
+     "subtitle": "",
+     "year": "1964"
+    },
+    {
+     "rid": "royal-hypnosis-loose:9",
+     "title": "Ghidorah, the Three-Headed Monster",
+     "subtitle": "",
+     "year": "1964",
      "matched_by": "match_title"
     }
    ]
@@ -20318,6 +20494,26 @@
      "title": "Invaders from Mars",
      "subtitle": "",
      "year": "1986",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1375,
+   "kept": "Just Call Me Nobody (2010)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:497",
+     "title": "Just Call Me Nobody",
+     "subtitle": "",
+     "year": "2010"
+    },
+    {
+     "rid": "royal-hypnosis-loose:2",
+     "title": "Just Call Me Nobody",
+     "subtitle": "",
+     "year": "2010",
      "matched_by": "match_title"
     }
    ]
@@ -20577,6 +20773,26 @@
    ]
   },
   {
+   "kept_id": 1565,
+   "kept": "Regresa (2010)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:719",
+     "title": "Regresa",
+     "subtitle": "",
+     "year": "2010"
+    },
+    {
+     "rid": "royal-hypnosis-loose:21",
+     "title": "Regresa",
+     "subtitle": "",
+     "year": "2010",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 1596,
    "kept": "Sassaricando (1987)",
    "scope": "cross-source",
@@ -20637,6 +20853,26 @@
    ]
   },
   {
+   "kept_id": 1622,
+   "kept": "Sheena, Queen of the Jungle (1955)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:786",
+     "title": "Sheena, Queen of the Jungle",
+     "subtitle": "",
+     "year": "1955"
+    },
+    {
+     "rid": "royal-hypnosis-loose:22",
+     "title": "Sheena, Queen of the Jungle",
+     "subtitle": "",
+     "year": "1955",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 1635,
    "kept": "Stalked by My Doctor: A Sleepwalker's Nightmare (2019)",
    "scope": "cross-source",
@@ -20653,6 +20889,26 @@
      "subtitle": "",
      "year": "2019",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1637,
+   "kept": "Star Knight (1985)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:804",
+     "title": "Star Knight",
+     "subtitle": "",
+     "year": "1985"
+    },
+    {
+     "rid": "royal-hypnosis-loose:14",
+     "title": "Star Knight",
+     "subtitle": "",
+     "year": "1985",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -20818,6 +21074,46 @@
    ]
   },
   {
+   "kept_id": 1696,
+   "kept": "The Bride and the Beast (1958)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:881",
+     "title": "The Bride and the Beast",
+     "subtitle": "",
+     "year": "1958"
+    },
+    {
+     "rid": "royal-hypnosis-loose:23",
+     "title": "The Bride and the Beast",
+     "subtitle": "",
+     "year": "1958",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1698,
+   "kept": "The Herculoids (1967–1969)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:884",
+     "title": "The Herculoids",
+     "subtitle": "",
+     "year": "1967–1969"
+    },
+    {
+     "rid": "royal-hypnosis-loose:13",
+     "title": "The Herculoids",
+     "subtitle": "",
+     "year": "1967–1969",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 1713,
    "kept": "The Girl from U.N.C.L.E. (1966–1967)",
    "scope": "cross-source",
@@ -20914,6 +21210,26 @@
      "title": "The Snow White (ตายทั้งกลม)",
      "subtitle": "",
      "year": "2010",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1769,
+   "kept": "The Ninth Heart (1979)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:963",
+     "title": "The Ninth Heart",
+     "subtitle": "",
+     "year": "1979"
+    },
+    {
+     "rid": "royal-hypnosis-loose:8",
+     "title": "The Ninth Heart",
+     "subtitle": "",
+     "year": "1979",
      "matched_by": "match_title"
     }
    ]
@@ -21154,6 +21470,26 @@
    ]
   },
   {
+   "kept_id": 1871,
+   "kept": "Rasputin and the Empress (1932)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:1080",
+     "title": "Rasputin and the Empress",
+     "subtitle": "",
+     "year": "1932"
+    },
+    {
+     "rid": "royal-hypnosis-loose:1",
+     "title": "Rasputin and the Empress",
+     "subtitle": "",
+     "year": "1932",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 1875,
    "kept": "No: 309 (2016–2017)",
    "scope": "cross-source",
@@ -21169,6 +21505,26 @@
      "title": "No: 309",
      "subtitle": "",
      "year": "2016–2017",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1878,
+   "kept": "The Mummy (1932)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnotized-love:6",
+     "title": "The Mummy",
+     "subtitle": "",
+     "year": "1932"
+    },
+    {
+     "rid": "royal-hypnosis-loose:7",
+     "title": "The Mummy",
+     "subtitle": "",
+     "year": "1932",
      "matched_by": "match_title"
     }
    ]
@@ -21226,6 +21582,13 @@
     },
     {
      "rid": "rich-wife-hypnosis:39",
+     "title": "Robin of Sherwood",
+     "subtitle": "",
+     "year": "1986",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "royal-hypnosis-loose:4",
      "title": "Robin of Sherwood",
      "subtitle": "",
      "year": "1986",
@@ -21657,11 +22020,12 @@
   "hypnosis-assault-loose": 39,
   "kids-pregnant-again": 77,
   "lesbian-pregnancy": 44,
-  "royal-hypnosis": 11
+  "royal-hypnosis": 11,
+  "royal-hypnosis-loose": 32
  },
- "entry_count_after_dedupe": 2098,
+ "entry_count_after_dedupe": 2106,
  "within_source_groups": 1,
- "cross_source_groups": 830,
+ "cross_source_groups": 845,
  "index_only_records": 39,
- "local_only_records": 1236
+ "local_only_records": 1244
 }

@@ -84,6 +84,8 @@ SOURCES = [
      "local": "sources/lesbian-pregnancy.json", "required": False},
     {"id": "royal-hypnosis", "label": "Queen/princess hypnotized for marriage or the throne",
      "local": "sources/royal-hypnosis.json", "required": False},
+    {"id": "royal-hypnosis-loose", "label": "Queen/princess hypnotized — loose-fit and leftover leads",
+     "local": "sources/royal-hypnosis-loose.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
