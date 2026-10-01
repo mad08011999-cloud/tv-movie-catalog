@@ -1037,6 +1037,13 @@
      "subtitle": "“Death Casts a Spell” · S01E10",
      "year": "1984",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault-loose:7",
+     "title": "Murder, She Wrote",
+     "subtitle": "S01E10 · “Death Casts a Spell”",
+     "year": "1984",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -3838,6 +3845,13 @@
      "subtitle": "",
      "year": "1974",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-assault-loose:22",
+     "title": "The Stranger Within",
+     "subtitle": "",
+     "year": "1974",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -4048,6 +4062,13 @@
      "subtitle": "",
      "year": "1977",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-assault-loose:19",
+     "title": "Demon Seed",
+     "subtitle": "",
+     "year": "1977",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -4606,6 +4627,13 @@
      "subtitle": "",
      "year": "2018–19",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-assault-loose:18",
+     "title": "Naagin 3",
+     "subtitle": "Vish / Hukum / Andhka arc",
+     "year": "2018–19",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -7107,6 +7135,13 @@
      "subtitle": "",
      "year": "1931",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-assault-loose:31",
+     "title": "Dracula",
+     "subtitle": "",
+     "year": "1931",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -14965,6 +15000,13 @@
      "subtitle": "",
      "year": "1993",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault-loose:8",
+     "title": "Body of Influence",
+     "subtitle": "",
+     "year": "1993",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -15381,6 +15423,13 @@
      "subtitle": "",
      "year": "1979",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-assault-loose:32",
+     "title": "Dracula",
+     "subtitle": "",
+     "year": "1979",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -15424,6 +15473,13 @@
     },
     {
      "rid": "hypno-leftovers:29",
+     "title": "Vampyros Lesbos",
+     "subtitle": "",
+     "year": "1971",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault-loose:34",
      "title": "Vampyros Lesbos",
      "subtitle": "",
      "year": "1971",
@@ -15649,6 +15705,13 @@
      "subtitle": "",
      "year": "2007",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault-loose:36",
+     "title": "El Zorro, la espada y la rosa",
+     "subtitle": "Selenia / Mariángel / Olmos arc",
+     "year": "2007",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -15689,6 +15752,13 @@
      "subtitle": "",
      "year": "1976",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-assault-loose:9",
+     "title": "Smooth Velvet, Raw Silk / Velluto nero",
+     "subtitle": "",
+     "year": "1976",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -15855,6 +15925,66 @@
    ]
   },
   {
+   "kept_id": 715,
+   "kept": "Evil Black Magic (1992)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:749",
+     "title": "Evil Black Magic",
+     "subtitle": "妖怪都市 / 邪教",
+     "year": "1992"
+    },
+    {
+     "rid": "hypnosis-assault-loose:26",
+     "title": "Evil Black Magic",
+     "subtitle": "",
+     "year": "1992",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 716,
+   "kept": "The Eternal Evil of Asia (1995)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:750",
+     "title": "The Eternal Evil of Asia",
+     "subtitle": "南洋十大邪術 · Erotic Black Magic",
+     "year": "1995"
+    },
+    {
+     "rid": "hypnosis-assault-loose:25",
+     "title": "The Eternal Evil of Asia (南洋十大邪術)",
+     "subtitle": "",
+     "year": "1995",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 717,
+   "kept": "Spell / Nam Man Prai (2014)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:751",
+     "title": "Spell / Nam Man Prai",
+     "subtitle": "น้ำมันพราย",
+     "year": "2014"
+    },
+    {
+     "rid": "hypnosis-assault-loose:24",
+     "title": "Spell / Nam Man Prai (น้ำมันพราย)",
+     "subtitle": "",
+     "year": "2014",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 720,
    "kept": "Birds of a Feather (1993)",
    "scope": "cross-source",
@@ -15938,6 +16068,26 @@
      "subtitle": "",
      "year": "1971",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 728,
+   "kept": "El vampiro y el sexo (1968/69)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:763",
+     "title": "El vampiro y el sexo",
+     "subtitle": "Adult alternate version of Santo en el tesoro de Drácula",
+     "year": "1968/69"
+    },
+    {
+     "rid": "hypnosis-assault-loose:29",
+     "title": "El vampiro y el sexo",
+     "subtitle": "Adult version of Santo en el tesoro de Drácula",
+     "year": "1968/69",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -16139,6 +16289,13 @@
      "subtitle": "",
      "year": "1992",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-assault-loose:33",
+     "title": "Bram Stoker's Dracula",
+     "subtitle": "",
+     "year": "1992",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -17182,6 +17339,13 @@
      "subtitle": "",
      "year": "1997–2007",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault-loose:20",
+     "title": "Stargate SG-1",
+     "subtitle": "Sha're / Amaunet arc",
+     "year": "1997–1999",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -17223,6 +17387,13 @@
      "subtitle": "",
      "year": "1974",
      "matched_by": "alias"
+    },
+    {
+     "rid": "hypnosis-assault-loose:21",
+     "title": "The Antichrist / L'anticristo",
+     "subtitle": "",
+     "year": "1974",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -18424,6 +18595,13 @@
      "subtitle": "",
      "year": "1999",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault-loose:1",
+     "title": "Interactive",
+     "subtitle": "",
+     "year": "1999",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -19072,6 +19250,13 @@
      "subtitle": "",
      "year": "1992",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-assault-loose:30",
+     "title": "Khooni Dracula",
+     "subtitle": "",
+     "year": "1992",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -19319,6 +19504,13 @@
      "subtitle": "",
      "year": "1981",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-assault-loose:4",
+     "title": "Kudrat",
+     "subtitle": "",
+     "year": "1981",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -19532,6 +19724,13 @@
      "title": "Columbo",
      "subtitle": "",
      "year": "1968",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault-loose:6",
+     "title": "Columbo",
+     "subtitle": "S04E06 · “A Deadly State of Mind”",
+     "year": "1975",
      "matched_by": "match_title"
     }
    ]
@@ -20081,6 +20280,26 @@
    ]
   },
   {
+   "kept_id": 1400,
+   "kept": "La fuerza del destino (2011)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:526",
+     "title": "La fuerza del destino",
+     "subtitle": "",
+     "year": "2011"
+    },
+    {
+     "rid": "hypnosis-assault-loose:5",
+     "title": "La fuerza del destino",
+     "subtitle": "Episode 91",
+     "year": "2011",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 1402,
    "kept": "Kiss Kiss (2019)",
    "scope": "cross-source",
@@ -20093,6 +20312,13 @@
     },
     {
      "rid": "hypno-leftovers:22",
+     "title": "Kiss Kiss",
+     "subtitle": "",
+     "year": "2019",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault-loose:12",
      "title": "Kiss Kiss",
      "subtitle": "",
      "year": "2019",
@@ -20216,6 +20442,66 @@
      "title": "Perfect Little Angels",
      "subtitle": "",
      "year": "1998",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1523,
+   "kept": "Out For Blood (2004)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:672",
+     "title": "Out For Blood",
+     "subtitle": "",
+     "year": "2004"
+    },
+    {
+     "rid": "hypnosis-assault-loose:35",
+     "title": "Out for Blood",
+     "subtitle": "",
+     "year": "2004",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1539,
+   "kept": "Placer Sangriento (1967)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:690",
+     "title": "Placer Sangriento",
+     "subtitle": "",
+     "year": "1967"
+    },
+    {
+     "rid": "hypnosis-assault-loose:2",
+     "title": "Placer sangriento / The Deadly Organ / Feast of Flesh",
+     "subtitle": "",
+     "year": "1967",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1563,
+   "kept": "Psycho Killer (1993)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:717",
+     "title": "Psycho Killer",
+     "subtitle": "",
+     "year": "1993"
+    },
+    {
+     "rid": "hypnosis-assault-loose:3",
+     "title": "Psycho Killer (雨夜天魔)",
+     "subtitle": "",
+     "year": "1993",
      "matched_by": "match_title"
     }
    ]
@@ -20424,6 +20710,20 @@
      "subtitle": "",
      "year": "1990",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault-loose:27",
+     "title": "Tales from the Crypt",
+     "subtitle": "S3E1 · “Loved to Death”",
+     "year": "1991",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault-loose:28",
+     "title": "Tales from the Crypt",
+     "subtitle": "S2E4 · “'Til Death”",
+     "year": "1990",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -20482,6 +20782,26 @@
    ]
   },
   {
+   "kept_id": 1746,
+   "kept": "The Pit and The Pendulum (2009)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:937",
+     "title": "The Pit and The Pendulum",
+     "subtitle": "",
+     "year": "2009"
+    },
+    {
+     "rid": "hypnosis-assault-loose:14",
+     "title": "The Pit and the Pendulum",
+     "subtitle": "",
+     "year": "2009",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 1757,
    "kept": "The Snow White (2010)",
    "scope": "cross-source",
@@ -20495,6 +20815,13 @@
     {
      "rid": "hypno-leftovers:25",
      "title": "The Snow White",
+     "subtitle": "",
+     "year": "2010",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-assault-loose:23",
+     "title": "The Snow White (ตายทั้งกลม)",
      "subtitle": "",
      "year": "2010",
      "matched_by": "match_title"
@@ -20941,11 +21268,12 @@
   "hypno-leftovers": 29,
   "field-fixes": 2,
   "hypnosis-assault": 35,
-  "mom-pregnancy": 84
+  "mom-pregnancy": 84,
+  "hypnosis-assault-loose": 39
  },
- "entry_count_after_dedupe": 1986,
+ "entry_count_after_dedupe": 1995,
  "within_source_groups": 1,
- "cross_source_groups": 807,
+ "cross_source_groups": 816,
  "index_only_records": 39,
- "local_only_records": 1124
+ "local_only_records": 1133
 }

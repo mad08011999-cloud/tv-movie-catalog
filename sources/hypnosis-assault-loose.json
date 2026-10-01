@@ -1,0 +1,1942 @@
+{
+ "id": "hypnosis-assault-loose",
+ "label": "Hypnosis-assault research — loose-fit additions",
+ "group_title": "Hypnosis-assault loose-fit additions (Sep 2026)",
+ "description": "Former 'dropped' entries from research_hypnosis_assault.json, re-researched and added as LOOSE-FIT cards (fit='loose', a 'Loose fit: …' line and the 'loose fit' tag). Adults only: anything where a minor or teen is the target, is hypnotized or controlled, or is sexually victimized was excluded and is listed under 'excluded'. Categories use existing catalog keys only. Catalog matches were checked read-only against origin/main (3cc9083, 30 Sep 2026 22:16 PT).",
+ "records": [
+  {
+   "title": "Interactive",
+   "year": "1999",
+   "match_title": "Interactive",
+   "match_year": "1999",
+   "format": "movie",
+   "meta": "Adult video · United States · English",
+   "mechanism": "Hypnosis by a clinic's head doctor",
+   "confidence_flag": "Single source · loose fit",
+   "summary": "A wealthy woman checks into a clinic because she cannot sleep and falls under the hypnotic spell of the clinic's head doctor.",
+   "character": "Unnamed wealthy woman and the clinic's head doctor",
+   "categories": [
+    "adult-hypnosis",
+    "index-50",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt1342244"
+    }
+   ],
+   "married": "unknown",
+   "pregnant_end": "unknown",
+   "pregnancy_outcome": "unknown",
+   "kids_together": "unknown",
+   "kids_status": "unknown",
+   "evidence": "Single source — IMDb listing synopsis only; IMDb plot page returned no further text",
+   "fit_note": "Loose fit: unverified — the only synopsis establishes hypnotic control but not a sexual assault under hypnosis.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "note": "Verification: Confirmed: hypnotic control by the doctor (IMDb synopsis). Not confirmed: any sexual act or assault while she is hypnotized.",
+   "catalog_ids": [
+    833
+   ]
+  },
+  {
+   "title": "Placer sangriento / The Deadly Organ / Feast of Flesh",
+   "year": "1967",
+   "match_title": "Placer Sangriento",
+   "match_year": "1967",
+   "format": "movie",
+   "meta": "Film · Argentina · Spanish (US-dubbed versions)",
+   "mechanism": "Heroin injections plus hypnotic organ music",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "At a coastal resort, a masked killer injects young women with heroin and uses organ music as a hypnotic trigger to make them obey him; several die from the injections. Mental Block's scene notes show him making entranced women kiss him and beginning to undress one before the police shoot him.",
+   "character": "Marcella, Sara and Laura, and the masked killer",
+   "categories": [
+    "adult-hypnosis",
+    "tech",
+    "forced-obedience",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Placer_Sangriento"
+    },
+    {
+     "label": "Spanish Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Placer_sangriento"
+    },
+    {
+     "label": "Fantastic Movie Musings (Feast of Flesh)",
+     "url": "https://fantasticmoviemusings.com/2020/04/06/feast-of-flesh-1967/"
+    },
+    {
+     "label": "Grindhouse Cinema Database",
+     "url": "https://www.grindhousedatabase.com/index.php/The_Deadly_Organ/Review"
+    }
+   ],
+   "married": "no",
+   "pregnant_end": "no",
+   "pregnant_end_note": "no pregnancy in any source",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "no pregnancy in any source",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2+ independent sources for the drug-and-music control (Mental Block, Spanish Wikipedia, Fantastic Movie Musings)",
+   "source_conflict": "Spanish Wikipedia says the US distributor added sex scenes for the American release, so content differs between the Argentine and US versions.",
+   "fit_note": "Loose fit: the trance is drug-plus-music control, and no source states that a sexual assault takes place under it.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "note": "Verification: Confirmed: drugging plus music-triggered trance and obedience. Not confirmed: a sexual assault under the trance (only kissing and partial undressing in Mental Block's notes).",
+   "catalog_ids": [
+    1539
+   ]
+  },
+  {
+   "title": "Psycho Killer (雨夜天魔)",
+   "year": "1993",
+   "match_title": "Psycho Killer",
+   "match_year": "1993",
+   "format": "movie",
+   "meta": "Film · Hong Kong · Cantonese",
+   "mechanism": "Hypnosis by a jailed serial killer",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "A female detective hunting a serial killer who rapes and murders women consults Lam, a jailed killer who can hypnotize people. Lam hypnotizes a woman (Xiaoxin), who begins undressing and moves toward his cell until the prison alarm wakes her.",
+   "character": "Xiaoxin and Lam (Francis Ng); the detective (Chingmy Yau)",
+   "categories": [
+    "adult-hypnosis",
+    "human",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Psycho_Killer"
+    },
+    {
+     "label": "TMDB",
+     "url": "https://www.themoviedb.org/movie/401319"
+    },
+    {
+     "label": "HKcinema.ru",
+     "url": "https://en.hkcinema.ru/film/11410"
+    }
+   ],
+   "married": "no",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2+ sources for the hypnotist-prisoner premise (Mental Block, TMDB, HKcinema.ru); the scene where she is woken is Mental Block only",
+   "fit_note": "Loose fit: the hypnotized woman is woken before any assault; the film's rapes are committed by a different killer, not under hypnosis.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    1563
+   ]
+  },
+  {
+   "title": "Kudrat",
+   "year": "1981",
+   "match_title": "Kudrat",
+   "match_year": "1981",
+   "format": "movie",
+   "meta": "Film · India · Hindi",
+   "mechanism": "Hypnotic past-life regression",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "Visiting Shimla, Chandramukhi has flashes of a past life; under hypnosis she recalls being Paro, who was raped and killed decades earlier by Janak Singh, and a court case against him follows.",
+   "character": "Chandramukhi (Hema Malini) and Janak Singh",
+   "categories": [
+    "medical",
+    "india-control",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kudrat"
+    },
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Kudrat"
+    }
+   ],
+   "married": "no",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2+ independent sources (Wikipedia, Mental Block)",
+   "fit_note": "Loose fit: the hypnosis is therapeutic regression that uncovers a past-life rape; she is not assaulted while hypnotized.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    937
+   ]
+  },
+  {
+   "title": "La fuerza del destino",
+   "subtitle": "Episode 91",
+   "year": "2011",
+   "match_title": "La fuerza del destino",
+   "match_year": "2011",
+   "format": "tv",
+   "meta": "Telenovela · Mexico (Televisa) · Spanish",
+   "mechanism": "Hypnotic memory-recovery therapy",
+   "confidence_flag": "Single source · loose fit",
+   "summary": "Lucía begins to recall the night her daughter Perla was conceived and realizes she was raped; in hypnosis therapy she finally recalls her attacker's face as Saúl, Juan Jaime's son.",
+   "character": "Lucía and Saúl (Ferdinando Valencia)",
+   "categories": [
+    "medical",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/La_fuerza_del_destino"
+    },
+    {
+     "label": "Wikipedia (series)",
+     "url": "https://en.wikipedia.org/wiki/La_fuerza_del_destino_(TV_series)"
+    }
+   ],
+   "episodes": [
+    {
+     "episode": "Episode 91",
+     "air_date": "date not verified",
+     "gist": "Lucía, in hypnosis therapy, recalls that Saúl raped her on the night Perla was conceived",
+     "number_verified": false
+    }
+   ],
+   "married": "unknown",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "she became pregnant from the earlier rape (Perla); later pregnancies not checked",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "she became pregnant from the earlier rape (Perla); later pregnancies not checked",
+   "kids_together": "yes",
+   "kids_together_note": "daughter Perla, conceived in the earlier rape by Saúl (Mental Block)",
+   "kids_status": "yes",
+   "kids_note": "Perla",
+   "evidence": "Single source for the episode content (Mental Block); Wikipedia confirms the series only",
+   "fit_note": "Loose fit: hypnosis is used to recover the memory of an earlier rape; she was not assaulted while hypnotized.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    1400
+   ]
+  },
+  {
+   "title": "Columbo",
+   "subtitle": "S04E06 · “A Deadly State of Mind”",
+   "year": "1975",
+   "match_title": "Columbo",
+   "match_year": "1968",
+   "format": "tv",
+   "meta": "TV series episode · United States · English (NBC)",
+   "mechanism": "Post-hypnotic trigger (with drugging)",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "Psychiatrist Mark Collier is having an affair with his patient Nadia Donner and has been drugging her; after he kills her husband, he plants a post-hypnotic trigger that makes her undress and leap from her balcony toward a pool, and she falls to her death.",
+   "character": "Nadia Donner (Lesley Ann Warren) and Dr. Mark Collier (George Hamilton)",
+   "categories": [
+    "therapist-wife",
+    "medical",
+    "adult-hypnosis",
+    "crime",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Columbo"
+    },
+    {
+     "label": "Wikipedia (season 4)",
+     "url": "https://en.wikipedia.org/wiki/Columbo_season_4"
+    },
+    {
+     "label": "Columbophile review",
+     "url": "https://columbophile.com/2018/11/18/episode-review-columbo-a-deadly-state-of-mind/"
+    },
+    {
+     "label": "Columbo Wiki",
+     "url": "https://columbo.fandom.com/wiki/A_Deadly_State_of_Mind"
+    },
+    {
+     "label": "The View from the Junkyard review",
+     "url": "https://junkyard.blog/2022/04/03/columbo-a-deadly-state-of-mind-review/"
+    }
+   ],
+   "episodes": [
+    {
+     "episode": "S04E06 “A Deadly State of Mind”",
+     "air_date": "27 Apr 1975",
+     "gist": "therapist's affair with a married patient he has drugged; he hypnotizes her into a fatal fall",
+     "number_verified": true
+    }
+   ],
+   "married": "yes",
+   "married_note": "married to Karl/Carl Donner, whom Collier kills",
+   "pregnant_end": "no",
+   "pregnant_end_note": "she dies",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "she dies",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2+ independent sources (Mental Block, Wikipedia, Columbophile)",
+   "source_conflict": "Husband's name spelled 'Carl' (Mental Block) and 'Karl' (catalog).",
+   "fit_note": "Loose fit: the sexual relationship is an affair that predates the hypnosis; hypnosis is used to kill her, not to assault her.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    1099
+   ]
+  },
+  {
+   "title": "Murder, She Wrote",
+   "subtitle": "S01E10 · “Death Casts a Spell”",
+   "year": "1984",
+   "match_title": "Murder, She Wrote",
+   "match_year": "1984",
+   "format": "tv",
+   "meta": "TV series episode · United States · English (CBS)",
+   "mechanism": "Nightclub hypnosis",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "Nightclub hypnotist Cagliostro is murdered during a private press session while the witnesses are still hypnotized. Regina, who has been having an affair with him, claims he hypnotized her into it; the episode leaves that claim unresolved.",
+   "character": "Regina and Cagliostro",
+   "categories": [
+    "adult-hypnosis",
+    "cheat-control",
+    "love",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0653494"
+    },
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Murder%2C_She_Wrote"
+    },
+    {
+     "label": "Wikipedia (episode list)",
+     "url": "https://en.wikipedia.org/wiki/List_of_Murder,_She_Wrote_episodes"
+    },
+    {
+     "label": "Chris Lansdown recap",
+     "url": "https://blog.chrislansdown.com/2024/09/10/murder-she-wrote-death-casts-a-spell/"
+    }
+   ],
+   "episodes": [
+    {
+     "episode": "S01E10 “Death Casts a Spell”",
+     "air_date": "30 Dec 1984",
+     "gist": "hypnotist murdered in front of entranced journalists; Regina claims he hypnotized her into their affair",
+     "number_verified": true
+    }
+   ],
+   "married": "unknown",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2+ independent sources (IMDb, Wikipedia list, Mental Block)",
+   "source_conflict": "Mental Block heads the section 'Season 1, Episode 11'; the catalog, IMDb and Wikipedia list give S01E10. Name spelled Cagliostro / Calliostro.",
+   "fit_note": "Loose fit: her claim of being hypnotized into the affair is never confirmed.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    44
+   ]
+  },
+  {
+   "title": "Body of Influence",
+   "year": "1993",
+   "match_title": "Body of Influence",
+   "match_year": "1993",
+   "format": "movie",
+   "meta": "R-rated erotic thriller · United States · English",
+   "mechanism": "Therapeutic hypnosis releasing an alter ego",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "Psychiatrist Jonathan Brooks treats shy patient Laura with hypnosis, which brings out a seductive alter ego, 'Lana'; his sexual involvement is with Lana outside the hypnosis sessions.",
+   "character": "Laura / Lana (Shannon Whirry) and Dr. Jonathan Brooks (Nick Cassavetes)",
+   "categories": [
+    "adult-hypnosis",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "IMDb plot",
+     "url": "https://www.imdb.com/title/tt0106454/plotsummary/"
+    },
+    {
+     "label": "Rarefilm",
+     "url": "https://rarefilm.net/body-of-influence-1993-gregory-dark-nick-cassavetes-shannon-whirry-richard-roundtree-drama-thriller/"
+    },
+    {
+     "label": "Chacebook review",
+     "url": "https://chacebook.com/2014/05/01/body-of-influence/"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Body_of_Influence"
+    }
+   ],
+   "married": "no",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2+ independent sources (IMDb plot, Rarefilm, Chacebook; Wikipedia gives cast only)",
+   "fit_note": "Loose fit: the sexual relationship is with her alter ego outside hypnosis, not an assault while she is hypnotized.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    633
+   ]
+  },
+  {
+   "title": "Smooth Velvet, Raw Silk / Velluto nero",
+   "year": "1976",
+   "match_title": "Smooth Velvet, Raw Silk / Velluto nero / Black Emmanuelle, White Emmanuelle",
+   "match_year": "1976",
+   "format": "movie",
+   "meta": "Erotic drama · Italy · Italian",
+   "mechanism": "Guru's hypnotic suggestion",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "At an Egyptian estate, a self-styled guru, Horatio, uses suggestion on the guests. When he hypnotizes fashion model Laura she has visions of herself naked with him, convulses and kills a goat; when she snaps out of it she leaves her abusive husband. Separately, and not under hypnosis, her husband rapes her during a photo shoot.",
+   "character": "Laura (Laura Gemser) and Horatio (Al Cliver)",
+   "categories": [
+    "adult-hypnosis",
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Smooth_Velvet,_Raw_Silk"
+    },
+    {
+     "label": "1000 Misspent Hours",
+     "url": "http://1000misspenthours.com/reviews/reviewsa-d/blackvelvet.htm"
+    },
+    {
+     "label": "Mondo Esoterica",
+     "url": "https://r-t-c.co.uk/dvd/Black%20Emmanuelle%20White%20Emmanuelle.html"
+    }
+   ],
+   "married": "yes",
+   "married_note": "married to an abusive photographer; she leaves him",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2+ independent sources (Wikipedia, 1000 Misspent Hours, Mondo Esoterica)",
+   "source_conflict": "Wikipedia names the husband both 'Carlo' and 'Marco'.",
+   "fit_note": "Loose fit: the intimacy under trance is only a vision; the rape in the film is by her husband and not under hypnosis.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    702
+   ]
+  },
+  {
+   "title": "Raped by an Angel 3: Sexual Fantasy of the Chief Executive (強姦3OL誘惑)",
+   "year": "1998",
+   "format": "movie",
+   "meta": "Category IIB erotic thriller · Hong Kong · Cantonese",
+   "mechanism": "Psychological treatment of 'illusions'; hypnosis not confirmed",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "Chief Executive candidate Li Chi-shen, who sees stress-induced visions of naked women, is accused of raping office worker Chi in his campaign building, where a serial rapist is active. His alibi is his ex-girlfriend Ho Wai-yee, now his psychologist; he cannot remember what happened, and the film leaves the truth ambiguous.",
+   "character": "Chi (Pinky Cheung), Li Chi-shen (Alex Fong) and psychologist Ho Wai-yee (Angie Cheung)",
+   "categories": [
+    "human",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "LoveHKFilm review",
+     "url": "https://lovehkfilm.com/reviews_2/raped_by_an_angel_3.htm"
+    },
+    {
+     "label": "So Good Reviews",
+     "url": "https://www.sogoodreviews.com/reviews/r2.htm"
+    }
+   ],
+   "married": "unknown",
+   "pregnant_end": "unknown",
+   "pregnancy_outcome": "unknown",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2 independent sources for the plot (LoveHKFilm, So Good Reviews)",
+   "fit_note": "Loose fit: unverified — no source checked describes a woman hypnotized and assaulted; the hypnosis angle is not confirmed.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "note": "Verification: Confirmed: rape accusation, memory gap, psychologist treating his 'illusions'. Not confirmed: any hypnosis; none of the reviews read here mentions it.",
+   "catalog_ids": []
+  },
+  {
+   "title": "Le Déclic / The Click",
+   "year": "1985",
+   "format": "movie",
+   "meta": "Erotic sci-fi film · France · French (from Milo Manara's comic)",
+   "mechanism": "Stolen remote-control conditioning device",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "Dr. Fez, made to take the fall for his rich employer, takes revenge with a remote-control device originally built to condition rats: with it he triggers irresistible sexual urges in his employer's haughty wife, Claudia Christiani, who stays conscious throughout, including in public.",
+   "character": "Claudia Christiani (Florence Guérin) and Dr. Fez (Jean-Pierre Kalfon)",
+   "categories": [
+    "tech",
+    "scifi",
+    "adult-hypnosis",
+    "cheat-control",
+    "index-50"
+   ],
+   "sources": [
+    {
+     "label": "Unifrance",
+     "url": "https://www.unifrance.org/film/3533/le-declic"
+    },
+    {
+     "label": "TMDB",
+     "url": "https://www.themoviedb.org/movie/67359-le-declic"
+    }
+   ],
+   "married": "yes",
+   "married_note": "married to Christiani",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2+ independent sources (Unifrance, TMDB, plus French review sites read in the earlier pass)",
+   "source_conflict": "Release given as 17 Apr 1985 (Unifrance); one French database gives 1984.",
+   "fit_note": "Loose fit: the device triggers compulsive arousal while she stays conscious; it is technological conditioning, not a hypnotic trance.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": []
+  },
+  {
+   "title": "Kiss Kiss",
+   "year": "2019",
+   "match_title": "Kiss Kiss",
+   "match_year": "2019",
+   "format": "movie",
+   "meta": "Action film · United States · English",
+   "mechanism": "Drugging plus super-soldier serum and brainwashing",
+   "confidence_flag": "Single source · loose fit",
+   "summary": "Four exotic dancers are drugged at a vineyard and wake as subjects of a rogue experiment, injected with a serum and brainwashed into obedient fighters. Mental Block's scene notes add that Gibson orders the controlled Tia to undress and has sex with her.",
+   "character": "Tia and Gibson",
+   "categories": [
+    "tech",
+    "scifi",
+    "forced-obedience",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Film Threat",
+     "url": "https://filmthreat.com/reviews/kiss-kiss/"
+    },
+    {
+     "label": "Girls with Guns",
+     "url": "https://girlswithguns.org/kiss-kiss/"
+    },
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Kiss_Kiss"
+    }
+   ],
+   "married": "no",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "Single source — 2+ sources for the drug/brainwashing premise; the sexual scene is single-source (Mental Block)",
+   "fit_note": "Loose fit: control is by drugs, serum and brainwashing rather than hypnosis, and the sexual scene is described only by Mental Block.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    1402
+   ]
+  },
+  {
+   "title": "Wanda, the Sadistic Hypnotist / The Sadistic Hypnotist",
+   "year": "1969",
+   "format": "movie",
+   "meta": "Sexploitation film · United States · English",
+   "mechanism": "Hypnosis by a woman",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "Wanda and her female companions abduct Sylvester after a car crash; at their house Wanda hypnotizes him, ties him up and sexually abuses him. An escaped psychiatric patient frees him, the men then drug the women with LSD, and Sylvester is finally hypnotized into forgetting.",
+   "character": "Sylvester and Wanda",
+   "categories": [
+    "adult-hypnosis",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "AFI Catalog",
+     "url": "https://catalog.afi.com/Film/23898-WANDA-(THE-SADISTIC-HYPNOTIST)"
+    },
+    {
+     "label": "Fantastic Movie Musings",
+     "url": "https://fantasticmoviemusings.com/2021/06/15/the-sadistic-hypnotist-1969/"
+    },
+    {
+     "label": "Naturalistic! Uncanny! Marvelous!",
+     "url": "http://nummtheory.blogspot.com/2024/06/wanda-sadistic-hypnotist-1969.html"
+    }
+   ],
+   "married": "no",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not applicable (male victim)",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not applicable (male victim)",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2+ independent sources (AFI, Fantastic Movie Musings, review blog)",
+   "fit_note": "Loose fit: the hypnotist is a woman and the hypnotized victim is a man; the women are later drugged, not hypnotized.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": []
+  },
+  {
+   "title": "The Pit and the Pendulum",
+   "year": "2009",
+   "match_title": "The Pit and The Pendulum",
+   "match_year": "2009",
+   "format": "movie",
+   "meta": "Direct-to-video horror · United States · English",
+   "mechanism": "Hypnosis in a 'pain study'",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "Scientist JB Divay recruits seven college athletes for a study on eliminating pain, hypnotizes them, takes advantage of her hypnotized subjects and kills them one by one, until Jason confronts her to save his boyfriend Kyle from the pendulum.",
+   "character": "The students and JB Divay (Lorielle New)",
+   "categories": [
+    "adult-hypnosis",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/The_Pit_and_The_Pendulum_%282009%29"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Pit_and_the_Pendulum_(2009_film)"
+    }
+   ],
+   "married": "no",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2 sources for the hypnosis-and-murder plot; 'taking advantage of' her subjects is Mental Block's wording only",
+   "fit_note": "Loose fit: the hypnotist is a woman and her victims include men; sources imply rather than state sexual exploitation.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    1746
+   ]
+  },
+  {
+   "title": "Twisted Fiction",
+   "subtitle": "Segment 1 (“Mind F**k”)",
+   "year": "2023",
+   "format": "movie",
+   "meta": "Adult horror anthology · United States · English",
+   "mechanism": "Stage hypnosis with a name trigger",
+   "confidence_flag": "Single source · loose fit",
+   "summary": "In the first segment, stage hypnotist the Great Xaxxo hypnotizes volunteers, including Tina, so that they climax whenever his name is spoken; her husband Tim confronts her, and a night later Tina takes a 2 a.m. call and sleepwalks to Xaxxo's lair with Tim following. (A separate segment involves a producer drugging and raping an actress, without hypnosis.)",
+   "character": "Tina, her husband Tim and the Great Xaxxo",
+   "categories": [
+    "adult-hypnosis",
+    "cheat-control"
+   ],
+   "sources": [
+    {
+     "label": "Film Threat review",
+     "url": "https://filmthreat.com/reviews/twisted-fiction/"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt28432475/"
+    }
+   ],
+   "married": "yes",
+   "married_note": "Tina is married to Tim",
+   "pregnant_end": "unknown",
+   "pregnancy_outcome": "unknown",
+   "kids_together": "unknown",
+   "kids_status": "unknown",
+   "evidence": "Single source for the plot (Film Threat); IMDb confirms the title",
+   "fit_note": "Loose fit: unverified — sources stop at her entranced visit to the hypnotist; no source states a sexual assault.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "note": "Verification: Confirmed: stage hypnosis with a sexual trigger and her entranced night visit to the hypnotist. Not confirmed: what happens at his lair.",
+   "catalog_ids": []
+  },
+  {
+   "title": "Hypnotic Passions",
+   "year": "1993",
+   "format": "movie",
+   "meta": "Adult video · United States · English · dir. Edwardo Dinero",
+   "mechanism": "Hypnosis (title only)",
+   "confidence_flag": "Single source · loose fit",
+   "summary": "An adult video directed by Edwardo Dinero whose title indicates a hypnosis theme; the listings checked give cast and classification details but no plot.",
+   "character": "unknown (adult performers)",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "Québec film classification register",
+     "url": "https://repertoire.cinema.mcc.gouv.qc.ca/film/hypnotic-passions-76169/"
+    }
+   ],
+   "married": "unknown",
+   "pregnant_end": "unknown",
+   "pregnancy_outcome": "unknown",
+   "kids_together": "unknown",
+   "kids_status": "unknown",
+   "evidence": "Single source — listings only (Québec register; IAFD title listing seen in the earlier pass) — neither gives a plot",
+   "fit_note": "Loose fit: unverified — only the title points to hypnosis; no source describes its content.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "note": "Verification: Confirmed: title, year, director. Not confirmed: any hypnosis scene or assault.",
+   "catalog_ids": []
+  },
+  {
+   "title": "Hypno Sex",
+   "year": "1996",
+   "format": "movie",
+   "meta": "Adult video · English",
+   "mechanism": "Hypnosis (title only)",
+   "confidence_flag": "Single source · loose fit",
+   "summary": "An adult video listed on IMDb under this title; no plot synopsis was found.",
+   "character": "unknown",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0160390/"
+    }
+   ],
+   "married": "unknown",
+   "pregnant_end": "unknown",
+   "pregnancy_outcome": "unknown",
+   "kids_together": "unknown",
+   "kids_status": "unknown",
+   "evidence": "Single source — IMDb listing with no plot text",
+   "fit_note": "Loose fit: unverified — only the title is confirmed; a different 1972 title shares the name.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "note": "Verification: Confirmed: the title exists (IMDb, 1996 video). Not confirmed: plot, characters or any hypnosis content.",
+   "catalog_ids": []
+  },
+  {
+   "title": "Naagin 3",
+   "subtitle": "Vish / Hukum / Andhka arc",
+   "year": "2018–19",
+   "match_title": "Naagin 3",
+   "match_year": "2018–19",
+   "format": "tv",
+   "meta": "TV serial · India · Hindi (Colors TV)",
+   "mechanism": "Hypnosis and magic",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "The villain Hukum hypnotizes Vishakha ('Vish'), who is disguised as Bela at the time, and she becomes magically pregnant with his child, Andhka; during the pregnancy the unborn child keeps her under its spell. She gives birth in the episode aired 31 March 2019.",
+   "character": "Vishakha 'Vish' and Hukum",
+   "categories": [
+    "india-pregnancy",
+    "pregnancy-evil",
+    "regional-pregnancy",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Telly Updates (24 Mar 2019)",
+     "url": "https://www.tellyupdates.com/naagin-season-3-24th-march-2019-written-episode-update/"
+    },
+    {
+     "label": "BollywoodLife (31 Mar 2019 highlights)",
+     "url": "https://www.bollywoodlife.com/tv/naagin-3-31-march-2019-episode-highlights-vishakha-delivers-her-child-a-daughter-andhka-as-hukum-promises-to-finish-off-bela-1387761/"
+    },
+    {
+     "label": "SerialGossip",
+     "url": "https://www.serialgossip.com/gossip-37553-a"
+    },
+    {
+     "label": "BollywoodLife (pregnancy)",
+     "url": "https://www.bollywoodlife.com/tv/naagin-3-bela-is-pregnant-and-the-entire-household-is-doing-her-bidding-but-whos-the-father-maahir-or-hukum-1387453/amp/"
+    }
+   ],
+   "episodes": [
+    {
+     "episode": "Episode aired 31 Mar 2019",
+     "air_date": "31 Mar 2019",
+     "gist": "Vishakha gives birth to Andhka; Hukum vows to finish off Bela",
+     "number_verified": false
+    }
+   ],
+   "married": "unknown",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "pregnant by Hukum; gives birth to Andhka (31 Mar 2019 episode)",
+   "pregnancy_outcome": "becomes pregnant by the end",
+   "pregnancy_note": "pregnant by Hukum; gives birth to Andhka (31 Mar 2019 episode)",
+   "kids_together": "yes",
+   "kids_together_note": "Andhka",
+   "kids_status": "unknown",
+   "evidence": "2+ independent sources (Telly Updates, BollywoodLife, SerialGossip)",
+   "source_conflict": "Child's sex: the catalog card and SerialGossip say a son; BollywoodLife's 31 Mar 2019 highlights say a daughter.",
+   "fit_note": "Loose fit: the pregnancy is presented as magical; no source describes a sexual act under the hypnosis.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    165
+   ]
+  },
+  {
+   "title": "Demon Seed",
+   "year": "1977",
+   "match_title": "Demon Seed",
+   "match_year": "1977",
+   "format": "movie",
+   "meta": "Film · United States · English",
+   "mechanism": "AI imprisonment, electrodes and psychological coercion",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "The AI Proteus IV takes over the Harris home, imprisons Susan and announces it will conceive a child through her; using threats, electrodes on her brain and other pressure, it overcomes her resistance and impregnates her with synthesized sperm, and she gives birth a month later.",
+   "character": "Susan Harris (Julie Christie) and Proteus IV",
+   "categories": [
+    "pregnancy-evil",
+    "scifi",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Demon_Seed"
+    },
+    {
+     "label": "HorrorNews review",
+     "url": "https://horrornews.net/2815/film-review-demon-seed-1977"
+    },
+    {
+     "label": "Movieman's Guide",
+     "url": "https://moviemansguide.com/main/2017/03/review-demonseed-bd/"
+    },
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Demon_Seed"
+    }
+   ],
+   "married": "yes",
+   "married_note": "estranged wife of Proteus's creator, Alex Harris",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "forcibly impregnated; gives birth within the film",
+   "pregnancy_outcome": "becomes pregnant by the end",
+   "pregnancy_note": "forcibly impregnated; gives birth within the film",
+   "kids_together": "yes",
+   "kids_together_note": "the child Proteus creates through her",
+   "kids_status": "yes",
+   "kids_note": "a young daughter who died before the story (Wikipedia)",
+   "evidence": "2+ independent sources (Wikipedia, HorrorNews, Movieman's Guide)",
+   "fit_note": "Loose fit: the perpetrator is an AI using electrodes and coercion, not a man using hypnosis.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    151
+   ]
+  },
+  {
+   "title": "Stargate SG-1",
+   "subtitle": "Sha're / Amaunet arc",
+   "year": "1997–1999",
+   "match_title": "Stargate SG-1",
+   "match_year": "1998",
+   "format": "tv",
+   "meta": "TV series · United States / Canada · English (Showtime)",
+   "mechanism": "Goa'uld symbiote host control (possession)",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "Apophis abducts Daniel Jackson's wife Sha're and she is made host to the Goa'uld Amaunet, which controls her mind and body. In 'Secrets' Daniel learns she has been impregnated by Apophis while controlled; her son, the Harcesis Shifu, is born, and in 'Forever in a Day' Teal'c kills her to stop Amaunet killing Daniel.",
+   "character": "Sha're (Vaitiare Bandera), Apophis (Peter Williams) and Daniel Jackson (Michael Shanks)",
+   "categories": [
+    "adult-pregnancy",
+    "scifi",
+    "pregnant-child"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Stargate_SG-1"
+    },
+    {
+     "label": "Wikipedia (season 2)",
+     "url": "https://en.wikipedia.org/wiki/Stargate_SG-1_season_2"
+    },
+    {
+     "label": "Wikipedia (season 3)",
+     "url": "https://en.wikipedia.org/wiki/Stargate_SG-1_season_3"
+    },
+    {
+     "label": "Stargate Wiki: Secrets",
+     "url": "https://stargate.fandom.com/wiki/Secrets"
+    },
+    {
+     "label": "Stargate Wiki: Sha're",
+     "url": "https://stargate.fandom.com/wiki/Sha%27re"
+    },
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Stargate_SG-1"
+    },
+    {
+     "label": "IMDb (Secrets)",
+     "url": "https://www.imdb.com/title/tt0709164"
+    }
+   ],
+   "episodes": [
+    {
+     "episode": "S1E1–2 “Children of the Gods”",
+     "air_date": "27 Jul 1997",
+     "gist": "Apophis takes Sha're and she becomes host to Amaunet",
+     "number_verified": true
+    },
+    {
+     "episode": "S2E9 “Secrets”",
+     "air_date": "21 Aug 1998",
+     "gist": "Daniel finds Sha're pregnant by Apophis while under Amaunet's control",
+     "number_verified": true
+    },
+    {
+     "episode": "S3E10 “Forever in a Day”",
+     "air_date": "8 Oct 1999",
+     "gist": "Teal'c kills Sha're to save Daniel; Daniel learns he must find her son Shifu",
+     "number_verified": true
+    }
+   ],
+   "married": "yes",
+   "married_note": "Daniel Jackson's wife",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "pregnant by Apophis while controlled; son Shifu born; she is killed in S3E10",
+   "pregnancy_outcome": "becomes pregnant by the end",
+   "pregnancy_note": "pregnant by Apophis while controlled; son Shifu born; she is killed in S3E10",
+   "kids_together": "yes",
+   "kids_together_note": "son Shifu (the Harcesis)",
+   "kids_status": "unknown",
+   "evidence": "2+ independent sources (Wikipedia episode lists, Stargate Wiki, Mental Block)",
+   "source_conflict": "The catalog card year is 1998 (the 'Secrets' episode); this arc record spans 1997–1999.",
+   "fit_note": "Loose fit: control is by parasitic possession, not hypnosis; the conception is with the Goa'uld Apophis while she is controlled.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    776
+   ]
+  },
+  {
+   "title": "The Antichrist / L'anticristo",
+   "year": "1974",
+   "match_title": "The Antichrist",
+   "match_year": "1974",
+   "format": "movie",
+   "meta": "Horror film · Italy · Italian",
+   "mechanism": "Hypnotic past-life regression leading to demonic possession",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "Paraplegic aristocrat Ippolita undergoes hypnotic past-life regression; reliving an ancestor's life leads to possession, during which she seduces and kills a tourist. During the exorcism the demon reveals it means to father a child, the Antichrist, through her; the final exorcism expels the demon and its child.",
+   "character": "Ippolita (Carla Gravina)",
+   "categories": [
+    "adult-pregnancy",
+    "occult",
+    "medical",
+    "pregnancy-evil"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Antichrist_(film)"
+    },
+    {
+     "label": "Review Graveyard",
+     "url": "http://www.reviewgraveyard.com/00_revs/r2009/dvd/09-03-16_antichrist.htm"
+    },
+    {
+     "label": "ComingSoon",
+     "url": "https://www.comingsoon.net/?p=776821"
+    }
+   ],
+   "married": "no",
+   "pregnant_end": "no",
+   "pregnant_end_note": "the demon's child is expelled with the demon at the end",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "the demon's child is expelled with the demon at the end",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2+ independent sources (Wikipedia, Review Graveyard, ComingSoon)",
+   "fit_note": "Loose fit: hypnosis only opens the way to demonic possession; the sexual and pregnancy elements come from the demon, not from a man while she is hypnotized.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    777
+   ]
+  },
+  {
+   "title": "The Stranger Within",
+   "year": "1974",
+   "match_title": "The Stranger Within",
+   "match_year": "1974",
+   "format": "movie",
+   "meta": "TV movie · United States · English (ABC)",
+   "mechanism": "Alien impregnation; investigative hypnosis",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "Ann Collins is pregnant although her husband has had a vasectomy, and she begins behaving strangely; under hypnosis an extraterrestrial speaks through her and says she was impregnated by a spaceship's beam. She gives birth and is taken away by a spacecraft.",
+   "character": "Ann Collins (Barbara Eden) and David Collins (George Grizzard)",
+   "categories": [
+    "pregnant",
+    "pregnant-child",
+    "scifi"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Stranger_Within_(1974_film)"
+    },
+    {
+     "label": "Moria review",
+     "url": "https://moriareviews.com/horror/stranger-within-1974.htm"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0072219"
+    }
+   ],
+   "married": "yes",
+   "married_note": "married to David",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "gives birth to the alien child before she is taken away",
+   "pregnancy_outcome": "becomes pregnant by the end",
+   "pregnancy_note": "gives birth to the alien child before she is taken away",
+   "kids_together": "unknown",
+   "kids_together_note": "no human perpetrator; the father is an alien entity",
+   "kids_status": "unknown",
+   "evidence": "2+ independent sources (Wikipedia, Moria)",
+   "fit_note": "Loose fit: hypnosis is investigative; the impregnation is by an alien beam, with no sexual assault by a man.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    146
+   ]
+  },
+  {
+   "title": "The Snow White (ตายทั้งกลม)",
+   "year": "2010",
+   "match_title": "The Snow White",
+   "match_year": "2010",
+   "format": "movie",
+   "meta": "Horror film · Thailand · Thai",
+   "mechanism": "Corpse-oil love charm (black magic)",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "University students Yong and Pong steal a fetus and corpse oil from a dead pregnant woman for black-magic charms. Pong uses the corpse-oil charm on women he meets, who become intensely attracted to him and have sex with him while under its effect, until the dead woman's ghost takes revenge.",
+   "character": "Pong and women from a library and a nightclub",
+   "categories": [
+    "love",
+    "fantasy",
+    "tantrik",
+    "occult",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/The_Snow_White"
+    },
+    {
+     "label": "Wise Kwai's Thai Film Journal",
+     "url": "http://thaifilmjournal.blogspot.com/2010/10/review-snow-white-tai-tang-klom.html"
+    },
+    {
+     "label": "Sanook",
+     "url": "https://www.sanook.com/movie/18889/"
+    },
+    {
+     "label": "MyDramaList",
+     "url": "https://mydramalist.com/10101-the-snow-white"
+    }
+   ],
+   "married": "no",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned for the charmed women",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned for the charmed women",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2+ independent sources (Mental Block, Thai Film Journal, Sanook)",
+   "fit_note": "Loose fit: control is by an occult attraction charm, not hypnosis.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    1757
+   ]
+  },
+  {
+   "title": "Spell / Nam Man Prai (น้ำมันพราย)",
+   "year": "2014",
+   "match_title": "Spell / Nam Man Prai",
+   "match_year": "2014",
+   "format": "movie",
+   "meta": "Erotic horror · Thailand · Thai",
+   "mechanism": "Occult love potion leading to possession",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "Lek gives Prae, a shy young woman and his childhood friend, a love potion made from oil taken from a dead pregnant woman's chin; she becomes possessed, turns sexually predatory and becomes a ghoul who kills her partners.",
+   "character": "Prae and Lek",
+   "categories": [
+    "adult-hypnosis",
+    "occult",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt3904952"
+    },
+    {
+     "label": "FilmAffinity",
+     "url": "https://www.filmaffinity.com/en/film306514.html"
+    }
+   ],
+   "married": "no",
+   "pregnant_end": "unknown",
+   "pregnancy_outcome": "unknown",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2+ independent sources (IMDb, FilmAffinity, plus two review blogs read in the earlier pass)",
+   "fit_note": "Loose fit: a love potion leads to possession, and she becomes the predator rather than being assaulted while entranced.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    717
+   ]
+  },
+  {
+   "title": "The Eternal Evil of Asia (南洋十大邪術)",
+   "year": "1995",
+   "match_title": "The Eternal Evil of Asia",
+   "match_year": "1995",
+   "format": "movie",
+   "meta": "Category III film · Hong Kong · Cantonese",
+   "mechanism": "Black-magic love enchantment and curses",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "On a trip to Thailand, a group of Hong Kong friends cause the death of a sorcerer's sister and are cursed when they return home. A love enchantment draws the sorcerer's sister and Bon's friends into a sexual encounter, and Bon's fiancée May is later targeted by the sorcerer's power.",
+   "character": "The sorcerer's sister, May and Bon's friends",
+   "categories": [
+    "adult-hypnosis",
+    "tantrik",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "AV Club",
+     "url": "https://www.avclub.com/the-eternal-evil-asia-1995-1798231615"
+    },
+    {
+     "label": "HorrorNews review",
+     "url": "https://horrornews.net/90840/film-review-eternal-evil-asia/"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Eternal_Evil_of_Asia"
+    }
+   ],
+   "married": "no",
+   "married_note": "May is Bon's fiancée",
+   "pregnant_end": "unknown",
+   "pregnancy_outcome": "unknown",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2+ independent sources (AV Club, HorrorNews)",
+   "source_conflict": "Who controls whom in the enchantment scene is unclear across sources.",
+   "fit_note": "Loose fit: control is by black-magic love enchantment rather than hypnosis, and its direction is unclear.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    716
+   ]
+  },
+  {
+   "title": "Evil Black Magic",
+   "year": "1992",
+   "match_title": "Evil Black Magic",
+   "match_year": "1992",
+   "format": "movie",
+   "meta": "Category III film · Hong Kong · Cantonese · dir. Ho Meng-Hua",
+   "mechanism": "'Crazy Love Curse' (black magic)",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "Ming studies under a Thai sorcerer and casts the 'Crazy Love Curse' on Chun Yin to take her from her boyfriend Wong Wai.",
+   "character": "Chun Yin, Ming and Wong Wai",
+   "categories": [
+    "adult-hypnosis",
+    "tantrik"
+   ],
+   "sources": [
+    {
+     "label": "TMDB",
+     "url": "https://www.themoviedb.org/movie/107807"
+    },
+    {
+     "label": "HKcinema.ru",
+     "url": "https://en.hkcinema.ru/film/8979"
+    },
+    {
+     "label": "Letterboxd",
+     "url": "https://letterboxd.com/film/evil-black-magic/"
+    }
+   ],
+   "married": "no",
+   "married_note": "Chun Yin is Wong Wai's girlfriend",
+   "pregnant_end": "unknown",
+   "pregnancy_outcome": "unknown",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2+ sources (TMDB synopsis, HKcinema.ru, Letterboxd)",
+   "source_conflict": "Year: the earlier drop list said 1991; TMDB and the catalog give 1992.",
+   "fit_note": "Loose fit: an infatuation curse overrides her will instead of hypnosis, and the sources do not detail an assault.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    715
+   ]
+  },
+  {
+   "title": "Tales from the Crypt",
+   "subtitle": "S3E1 · “Loved to Death”",
+   "year": "1991",
+   "match_title": "Tales From The Crypt",
+   "match_year": "1989–1996",
+   "format": "tv",
+   "meta": "TV anthology episode · United States · English (HBO)",
+   "mechanism": "Love potion",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "Aspiring screenwriter Edward Foster gives his neighbour, aspiring actress Miranda Singer, a love potion supplied by his woman-hating landlord; she becomes obsessively devoted to him and sexually insatiable, until he regrets it and dies trying to get rid of her.",
+   "character": "Miranda Singer (Mariel Hemingway) and Edward Foster (Andrew McCarthy)",
+   "categories": [
+    "love",
+    "fantasy",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (episode list)",
+     "url": "https://en.wikipedia.org/wiki/List_of_Tales_from_the_Crypt_episodes"
+    },
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Tales_From_The_Crypt_%28TV_Series%29"
+    }
+   ],
+   "episodes": [
+    {
+     "episode": "S3E1 “Loved to Death”",
+     "air_date": "15 Jun 1991",
+     "gist": "a neighbour given a love potion becomes obsessively devoted and sexually demanding; the man dies trying to undo it",
+     "number_verified": true
+    }
+   ],
+   "married": "no",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2+ independent sources (Wikipedia episode list, Mental Block)",
+   "fit_note": "Loose fit: a love potion induces infatuation rather than a hypnotic trance.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    1668
+   ]
+  },
+  {
+   "title": "Tales from the Crypt",
+   "subtitle": "S2E4 · “'Til Death”",
+   "year": "1990",
+   "match_title": "Tales From The Crypt",
+   "match_year": "1989–1996",
+   "format": "tv",
+   "meta": "TV anthology episode · United States · English (HBO)",
+   "mechanism": "Voodoo love potion",
+   "confidence_flag": "Single source · loose fit",
+   "summary": "Landowner Logan Andrews wins over the haughty, wealthy Margaret Richardson, who has rejected him, with a love potion from his ex, a voodoo priestess, so that she will finance his development project; he ignores the potion's warning, and Margaret dies and returns undead, chasing him amorously without end.",
+   "character": "Margaret Richardson (Pamela Gien) and Logan Andrews (D. W. Moffett)",
+   "categories": [
+    "love",
+    "fantasy",
+    "index-53",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (episode list)",
+     "url": "https://en.wikipedia.org/wiki/List_of_Tales_from_the_Crypt_episodes"
+    },
+    {
+     "label": "Wikipedia (series)",
+     "url": "https://en.wikipedia.org/wiki/Tales_from_the_Crypt_(TV_series)"
+    }
+   ],
+   "episodes": [
+    {
+     "episode": "S2E4 “'Til Death”",
+     "air_date": "24 Apr 1990",
+     "gist": "a wealthy woman is given a voodoo love potion for her money; she dies and returns undead",
+     "number_verified": true
+    }
+   ],
+   "married": "unknown",
+   "pregnant_end": "no",
+   "pregnant_end_note": "she dies",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "she dies",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "Single source — Wikipedia only (episode list and series page, one source family)",
+   "fit_note": "Loose fit: a love potion produces infatuation for money, and no sexual assault is described.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    1668
+   ]
+  },
+  {
+   "title": "El vampiro y el sexo",
+   "subtitle": "Adult version of Santo en el tesoro de Drácula",
+   "year": "1968/69",
+   "match_title": "El vampiro y el sexo",
+   "match_year": "1968/69",
+   "format": "movie",
+   "meta": "Film · Mexico · Spanish",
+   "mechanism": "Vampire hypnosis",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "In the adult-market version of Santo en el tesoro de Drácula, Santo time-travels and, with Luisa, faces Dracula and his vampire women. Cinescopia (catalog source) says Dracula hypnotizes and abducts Luisa; the adult cut adds nude scenes, and English Wikipedia says its only 'sexual' act is Dracula touching the breasts of the woman he intends to turn into a vampire.",
+   "character": "Luisa (Noelia Noel) and Dracula (Aldo Monti)",
+   "categories": [
+    "adult-hypnosis",
+    "vampire"
+   ],
+   "sources": [
+    {
+     "label": "Cinescopia",
+     "url": "https://cinescopia.com/el-vampiro-y-el-sexo-una-pelicula-del-santo-con-desnudos-ni-mas-ni-menos/2024/07/"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Santo_en_el_tesoro_de_Dr%C3%A1cula"
+    },
+    {
+     "label": "Spanish Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Santo_en_el_tesoro_de_Dr%C3%A1cula"
+    },
+    {
+     "label": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/noticias/2011/04/110331_mexico_santo_cine_desnudos_an"
+    }
+   ],
+   "married": "no",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2+ independent sources (Cinescopia, Wikipedia, BBC Mundo)",
+   "source_conflict": "Year: shot 1968 with the family version (catalog lists 1968/69); first public screening 2011.",
+   "fit_note": "Loose fit: vampire mesmerism; the sexual content is nudity and one non-consensual touching scene, not an assault under hypnosis.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    728
+   ]
+  },
+  {
+   "title": "Khooni Dracula",
+   "year": "1992",
+   "match_title": "Khooni Dracula",
+   "match_year": "1992",
+   "format": "movie",
+   "meta": "Horror film · India · Hindi",
+   "mechanism": "Vampire hypnotic gaze",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "A man rapes and murders his maid, and her blood revives a buried Dracula, who hypnotizes young women with his gaze, makes them come to him and lie in bed with him, and then bites them.",
+   "character": "Unnamed young women and Dracula",
+   "categories": [
+    "vampire",
+    "india-control",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Khooni_Dracula"
+    },
+    {
+     "label": "Movies & Mania",
+     "url": "https://moviesandmania.com/2016/05/30/khooni-dracula-1992-indian-horror-vampire-movie-harinam-singh/"
+    },
+    {
+     "label": "Kim Newman: Your Daily Dracula",
+     "url": "https://johnnyalucard.com/2022/12/30/your-daily-dracula-harinamh-singh-khooni-dracula-1992/"
+    }
+   ],
+   "married": "no",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2+ sources for the plot (Mental Block, Movies & Mania, Kim Newman); the 'lies in bed with him' detail is Mental Block's scene notes",
+   "fit_note": "Loose fit: vampire mesmerism leads to seduction and biting; sources do not describe an explicit assault.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    918
+   ]
+  },
+  {
+   "title": "Dracula",
+   "year": "1931",
+   "match_title": "Dracula",
+   "match_year": "1931",
+   "format": "movie",
+   "meta": "Film · United States · English (Universal)",
+   "mechanism": "Vampire hypnosis",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "Dracula drugs and hypnotizes Renfield; in England he feeds on Lucy Weston as she sleeps and repeatedly bites Mina Seward, who falls into nocturnal trances and goes to him; he tries, and fails, to hypnotize Van Helsing.",
+   "character": "Mina Seward (Helen Chandler), Lucy Weston and Count Dracula (Bela Lugosi)",
+   "categories": [
+    "vampire",
+    "adult-hypnosis",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Dracula_(1931_English-language_film)"
+    },
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Dracula_%281931%29"
+    }
+   ],
+   "married": "no",
+   "married_note": "Mina is engaged to John Harker",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2+ independent sources (Wikipedia, Mental Block)",
+   "fit_note": "Loose fit: vampire mesmerism and biting with no sexual act.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    258
+   ]
+  },
+  {
+   "title": "Dracula",
+   "year": "1979",
+   "match_title": "Dracula",
+   "match_year": "1979",
+   "format": "movie",
+   "meta": "Film · United States / United Kingdom · English (Universal)",
+   "mechanism": "Vampire mesmerism and telepathic summons",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "Dracula feeds on Mina Van Helsing, who dies, then summons Lucy Seward, who offers herself to him as his bride; after a surreal 'wedding night' sequence she is infected by his blood and stays under his spell until he is apparently destroyed.",
+   "character": "Lucy Seward (Kate Nelligan), Mina Van Helsing (Jan Francis) and Count Dracula (Frank Langella)",
+   "categories": [
+    "adult-hypnosis",
+    "vampire",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Dracula_(1979_film)"
+    },
+    {
+     "label": "Cryptic Rock",
+     "url": "https://crypticrock.com/week-horror-movie-history-dracula-1979/"
+    },
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Dracula_%281979%29"
+    }
+   ],
+   "married": "no",
+   "married_note": "Lucy is engaged to Jonathan Harker",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2+ independent sources (Wikipedia, Cryptic Rock, Mental Block)",
+   "fit_note": "Loose fit: Lucy appears to go willingly; her consent is shaped by vampire mesmerism rather than an assault under hypnosis.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    664
+   ]
+  },
+  {
+   "title": "Bram Stoker's Dracula",
+   "year": "1992",
+   "match_title": "Bram Stoker's Dracula",
+   "match_year": "1992",
+   "format": "movie",
+   "meta": "Film · United States · English (Columbia)",
+   "mechanism": "Vampire hypnotic seduction",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "In London, Dracula, in a werewolf-like form, 'hypnotically seduces and bites' Lucy Westenra (Wikipedia) and turns her into a vampire. He separately charms Mina, who comes to love him, and Van Helsing later hypnotizes Mina to track him.",
+   "character": "Lucy Westenra (Sadie Frost), Mina Murray (Winona Ryder) and Count Dracula (Gary Oldman)",
+   "categories": [
+    "vampire",
+    "cheat-control",
+    "adult-hypnosis",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Bram_Stoker%27s_Dracula_(1992_film)"
+    },
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Bram_Stoker%27s_Dracula"
+    }
+   ],
+   "married": "no",
+   "married_note": "Lucy is engaged to Arthur; Mina marries Jonathan",
+   "pregnant_end": "no",
+   "pregnant_end_note": "Lucy dies; no pregnancy",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "Lucy dies; no pregnancy",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2+ independent sources (Wikipedia, Mental Block)",
+   "fit_note": "Loose fit: the assault on Lucy is a supernatural vampire's hypnotic seduction rather than a man using hypnosis.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    741
+   ]
+  },
+  {
+   "title": "Vampyros Lesbos",
+   "year": "1971",
+   "match_title": "Vampyros Lesbos",
+   "match_year": "1971",
+   "format": "movie",
+   "meta": "Film · West Germany / Spain · German",
+   "mechanism": "Drugged wine plus vampire compulsion",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "Lawyer Linda Westinghouse, visiting Countess Nadine Carody about an inheritance, feels dizzy after drinking wine; Nadine has sex with her and draws her blood, and later uses her powers to compel Linda back to her.",
+   "character": "Linda Westinghouse (Ewa Strömberg) and Countess Nadine Carody (Soledad Miranda)",
+   "categories": [
+    "adult-hypnosis",
+    "vampire"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Vampyros_Lesbos"
+    },
+    {
+     "label": "Sassyflix",
+     "url": "https://www.sassyflix.com/movies/5322-vampyros-lesbos"
+    }
+   ],
+   "married": "no",
+   "married_note": "Linda has a boyfriend, Omar",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2 independent sources (Wikipedia, Sassyflix)",
+   "fit_note": "Loose fit: the perpetrator is a female vampire, and control is by drugged wine and vampire compulsion.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    666
+   ]
+  },
+  {
+   "title": "Out for Blood",
+   "year": "2004",
+   "match_title": "Out For Blood",
+   "match_year": "2004",
+   "format": "movie",
+   "meta": "Horror film · United States · English",
+   "mechanism": "Vampire hypnosis",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "Detective Hank Holten searches for the missing Layla and finds her among a nest of vampires; Layla hypnotizes Hank into having sex with her, and the vampire leader later entrances Hank's ex-wife Susan and bites her.",
+   "character": "Hank Holten (Kevin Dillon), Layla and Susan",
+   "categories": [
+    "vampire",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Out_For_Blood_%282004%29"
+    },
+    {
+     "label": "Vampire Film Reviews",
+     "url": "https://vampirefilmreviews.wordpress.com/2017/02/10/out-for-blood-2004/"
+    },
+    {
+     "label": "Rotten Tomatoes",
+     "url": "https://www.rottentomatoes.com/m/vampires_out_for_blood"
+    }
+   ],
+   "married": "no",
+   "married_note": "Susan is Hank's ex-wife",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2+ sources for the plot; the hypnosis details are Mental Block's scene notes",
+   "fit_note": "Loose fit: the sexual hypnosis is by a female vampire on a man; the hypnotized woman (Susan) is bitten, not sexually assaulted.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    1523
+   ]
+  },
+  {
+   "title": "El Zorro, la espada y la rosa",
+   "subtitle": "Selenia / Mariángel / Olmos arc",
+   "year": "2007",
+   "match_title": "El Zorro, la espada y la rosa",
+   "match_year": "2007",
+   "format": "tv",
+   "meta": "Telenovela · Colombia / United States · Spanish (Telemundo)",
+   "mechanism": "Ring hypnosis with a post-hypnotic condition",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "The witch Selenia flashes her ring to hypnotize Mariángel, who has just given birth, and programs her to fall in love with Olmos; Mariángel later seduces Olmos, and the first time they make love the suggestion breaks.",
+   "character": "Mariángel, Olmos and Selenia",
+   "categories": [
+    "adult-hypnosis",
+    "love",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "Zorro Legend recap, capítulos 86–88",
+     "url": "https://www.zorrolegend.com/zorro2007/episodes86-88.html"
+    },
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/El_Zorro,_La_Espada_y_La_Rosa"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/El_Zorro%2C_la_espada_y_la_rosa"
+    }
+   ],
+   "episodes": [
+    {
+     "episode": "Capítulo 88",
+     "air_date": "18 Jun 2007",
+     "gist": "Selenia hypnotizes Mariángel with her ring so she will love Olmos (Zorro Legend recap)",
+     "number_verified": true
+    },
+    {
+     "episode": "Episode 103 (Mental Block numbering)",
+     "air_date": "date not verified",
+     "gist": "Mariángel and Olmos make love for the first time, which breaks the suggestion",
+     "number_verified": false
+    }
+   ],
+   "married": "no",
+   "pregnant_end": "no",
+   "pregnant_end_note": "she gives birth before the hypnosis",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "she gives birth before the hypnosis",
+   "kids_together": "no",
+   "kids_status": "yes",
+   "kids_note": "she has just given birth (Zorro Legend, capítulo 86)",
+   "evidence": "2+ independent sources (Zorro Legend recap, Mental Block)",
+   "source_conflict": "Episode numbering: Zorro Legend puts the ring hypnosis in capítulo 88 (18 Jun 2007); Mental Block calls it episode 93. The episode 103 love scene is Mental Block only.",
+   "fit_note": "Loose fit: a female hypnotist implants love for another man; the intimacy is with Olmos, who did not hypnotize her, and it ends the trance.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": [
+    696
+   ]
+  },
+  {
+   "title": "Patrick Still Lives / Patrick vive ancora",
+   "year": "1980",
+   "format": "movie",
+   "meta": "Horror film · Italy · Italian",
+   "mechanism": "Telekinetic / psychic compulsion",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "Left comatose after a bottle is thrown from a passing car, Patrick uses psychic powers against guests his father has lured to the family clinic. He psychically strips the clinic secretary and compels her into sexual self-touching, and one guest, Stella, is killed in a telekinetic attack that Wikipedia describes as a rape scene.",
+   "character": "The secretary, Stella and Patrick (Gianni Dei)",
+   "categories": [
+    "human",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Patrick_Still_Lives"
+    },
+    {
+     "label": "Italian Wikipedia",
+     "url": "https://it.wikipedia.org/wiki/Patrick_vive_ancora"
+    },
+    {
+     "label": "EOFFTV review",
+     "url": "https://eofftvreview.wordpress.com/2019/10/18/patrick-still-lives-1980/"
+    }
+   ],
+   "married": "no",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2+ independent sources (Wikipedia, EOFFTV, plus Digital Bits and The Spinning Image reviews read in the earlier pass)",
+   "source_conflict": "English Wikipedia's one-line plot calls Patrick a 'young boy'; other reviews call him a comatose young man, and the actor was an adult. The secretary's actress is credited differently: Andrea Belfiore (Wikipedia) or Anna Veneziano (EOFFTV).",
+   "fit_note": "Loose fit: control is telekinetic/psychic rather than hypnotic, and the perpetrator never physically touches the women.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": []
+  },
+  {
+   "title": "Night Train to Terror",
+   "subtitle": "Segment “The Case of Harry Billings”",
+   "year": "1985",
+   "format": "movie",
+   "meta": "Horror anthology · United States · English",
+   "mechanism": "Hypnosis (with drugs) at a psychiatric hospital",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "In the first segment, Harry Billings is held at a psychiatric hospital where Dr. Fargo and Dr. Brewer keep him under hypnosis and use him to lure people to be murdered for organ harvesting; Fargo becomes romantically involved with the hypnotized Harry. Another segment has a man force his girlfriend into pornographic films (no hypnosis).",
+   "character": "Harry Billings and Dr. Fargo",
+   "categories": [
+    "adult-hypnosis",
+    "medical",
+    "human",
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Night_Train_to_Terror"
+    },
+    {
+     "label": "366 Weird Movies",
+     "url": "https://366weirdmovies.com/165-night-train-to-terror-1985/"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0087798/"
+    }
+   ],
+   "married": "no",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2+ independent sources (Wikipedia, 366 Weird Movies)",
+   "fit_note": "Loose fit: the hypnotized person is a man and the romantic involvement is by a female doctor; the people he lures are murdered, not sexually assaulted under hypnosis.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "catalog_ids": []
+  },
+  {
+   "title": "형사 (TBC) — summer horror special “얼굴없는 미녀”",
+   "year": "1980",
+   "format": "tv",
+   "meta": "TV drama special · South Korea · Korean (TBC)",
+   "mechanism": "Psychiatrist's hypnosis with a recurring summons",
+   "confidence_flag": "Corroborated · loose fit",
+   "summary": "A summer horror special of TBC's crime drama 형사 (Detective): a psychiatrist hypnotizes a woman so that she visits him regularly; after she dies in a car crash she keeps appearing from her grave. It is cited as the source of the motif behind the 2004 film of the same Korean title.",
+   "character": "The woman (Jang Mi-hee) and the psychiatrist (Lee Soon-jae)",
+   "categories": [
+    "adult-hypnosis",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Movist note",
+     "url": "http://movist.com/movist3d/note.asp?mid=8581&op="
+    },
+    {
+     "label": "Naver blog",
+     "url": "https://m.blog.naver.com/somin0/222684730604"
+    }
+   ],
+   "episodes": [
+    {
+     "episode": "Summer special “얼굴없는 미녀”",
+     "air_date": "1980 (date not verified)",
+     "gist": "a psychiatrist hypnotizes a woman into regular visits; after her death she keeps returning",
+     "number_verified": false
+    }
+   ],
+   "married": "unknown",
+   "pregnant_end": "unknown",
+   "pregnancy_outcome": "unknown",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "evidence": "2 secondary sources (Movist note, Naver blog), both recollections",
+   "fit_note": "Loose fit: unverified — sources confirm the hypnotic visits but not a sexual assault.",
+   "provenance": "Hypnosis-assault loose-fit pass, 30 Sep 2026 (former dropped entries; adults only; minors/teens excluded; non-graphic wording)",
+   "group": "Hypnosis-assault loose-fit additions (Sep 2026)",
+   "tags": [
+    "loose fit"
+   ],
+   "note": "Verification: Confirmed: hypnotic summoning and the post-death return. Not confirmed: any sexual act; episode number and air date.",
+   "catalog_ids": []
+  }
+ ],
+ "dropped": []
+}
