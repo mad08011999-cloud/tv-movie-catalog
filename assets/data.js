@@ -89940,7 +89940,6 @@ window.CATALOG = {
    "method": "trance-inducing genetically modified milk",
    "kids_status": "yes",
    "kids_note": "1: son Timmy Turner (10)",
-   "fit_note": "Borderline: Chemical (milk) trance; mother included only as one of 'everyone'.",
    "child_witness": "Timmy, the only one not drinking the milk, sees everyone, his parents included, in a trance and frees them by turning the milk into soda",
    "format": "tv",
    "categories": [
@@ -90114,9 +90113,9 @@ window.CATALOG = {
      "subtitle": "",
      "year": "2003",
      "meta": "",
-     "summary": "After Timmy's wish, his mom sells every house and the family moves to Dimmadome Acres, where the milk puts everyone in a trance. Hypnotist: Doug Dimmadome. Why: money from moving the town into Dimmadome Acres. Method: trance-inducing genetically modified milk. Children who see it: Timmy, the only one not drinking the milk, sees everyone, his parents included, in a trance and frees them by turning the milk into soda. Kids: yes (1: son Timmy Turner (10)). Pregnancy: not pregnant — not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end. Caveat: Chemical (milk) trance; mother included only as one of 'everyone'.",
+     "summary": "After Timmy's wish, his mom sells every house and the family moves to Dimmadome Acres, where the milk puts everyone in a trance. Hypnotist: Doug Dimmadome. Why: money from moving the town into Dimmadome Acres. Method: trance-inducing genetically modified milk. Children who see it: Timmy, the only one not drinking the milk, sees everyone, his parents included, in a trance and frees them by turning the milk into soda. Kids: yes (1: son Timmy Turner (10)). Pregnancy: not pregnant — not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end.",
      "character": "",
-     "note": "Chemical (milk) trance; mother included only as one of 'everyone'.",
+     "note": "",
      "mechanism": "Hypnosis",
      "confidence_flag": "Medium · Wikipedia + fandom episode page (mother not singled out)",
      "categories": [
@@ -90174,7 +90173,6 @@ window.CATALOG = {
      "method": "trance-inducing genetically modified milk",
      "kids_status": "yes",
      "kids_note": "1: son Timmy Turner (10)",
-     "fit_note": "Borderline: Chemical (milk) trance; mother included only as one of 'everyone'.",
      "child_witness": "Timmy, the only one not drinking the milk, sees everyone, his parents included, in a trance and frees them by turning the milk into soda",
      "distinct_story": true,
      "matched_by": "match_title"
@@ -90254,7 +90252,7 @@ window.CATALOG = {
      "format": "tv",
      "mechanism": "Hypnosis",
      "confidence_flag": "Medium · Wikipedia + fandom episode page (mother not singled out)",
-     "summary": "After Timmy's wish, his mom sells every house and the family moves to Dimmadome Acres, where the milk puts everyone in a trance. Hypnotist: Doug Dimmadome. Why: money from moving the town into Dimmadome Acres. Method: trance-inducing genetically modified milk. Children who see it: Timmy, the only one not drinking the milk, sees everyone, his parents included, in a trance and frees them by turning the milk into soda. Kids: yes (1: son Timmy Turner (10)). Pregnancy: not pregnant — not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end. Caveat: Chemical (milk) trance; mother included only as one of 'everyone'.",
+     "summary": "After Timmy's wish, his mom sells every house and the family moves to Dimmadome Acres, where the milk puts everyone in a trance. Hypnotist: Doug Dimmadome. Why: money from moving the town into Dimmadome Acres. Method: trance-inducing genetically modified milk. Children who see it: Timmy, the only one not drinking the milk, sees everyone, his parents included, in a trance and frees them by turning the milk into soda. Kids: yes (1: son Timmy Turner (10)). Pregnancy: not pregnant — not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end.",
      "categories": [
       "mother",
       "human"
@@ -90313,8 +90311,6 @@ window.CATALOG = {
        "number_verified": true
       }
      ],
-     "note": "Chemical (milk) trance; mother included only as one of 'everyone'.",
-     "fit_note": "Borderline: Chemical (milk) trance; mother included only as one of 'everyone'.",
      "provenance": "Mother-hypnotized-in-front-of-her-children research pass (30 Sep 2026): worldwide search (Mental Block wiki, Wikipedia/de/ja episode tables, TV Tropes, fan wikis, soap and Indian-serial recap sites); strict hypnosis, mesmerism, hypnotic trance or hypnosis-like devices only; spirit/demonic/black-magic possession excluded; adult mothers only; the child must see her hypnotized or in the trance; no title where children witness sexual content."
     }
    }
@@ -168847,7 +168843,6 @@ window.CATALOG = {
    "method": "magical hypnosis (trance sleep)",
    "kids_status": "yes",
    "kids_note": "1: the daughter the father vows to protect",
-   "fit_note": "Borderline: Magical hypnosis by a Nagin (not possession); include only if magical trance counts.",
    "child_witness": "the daughter points out the Nagin, but her hypnotized mother cannot see her and falls into a hypnotic sleep",
    "format": "movie",
    "categories": [
@@ -168917,9 +168912,9 @@ window.CATALOG = {
      "subtitle": "",
      "year": "2013",
      "meta": "",
-     "summary": "Bhojpuri fantasy: the Nagin puts the mother into a trance sleep while going after the daughter. Hypnotist: the Nagin, an evil magical woman. Why: to sacrifice the daughter. Method: magical hypnosis (trance sleep). Children who see it: the daughter points out the Nagin, but her hypnotized mother cannot see her and falls into a hypnotic sleep. Kids: yes (1: the daughter the father vows to protect). Pregnancy: not pregnant — not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end. Caveat: Magical hypnosis by a Nagin (not possession); include only if magical trance counts.",
+     "summary": "Bhojpuri fantasy: the Nagin puts the mother into a trance sleep while going after the daughter. Hypnotist: the Nagin, an evil magical woman. Why: to sacrifice the daughter. Method: magical hypnosis (trance sleep). Children who see it: the daughter points out the Nagin, but her hypnotized mother cannot see her and falls into a hypnotic sleep. Kids: yes (1: the daughter the father vows to protect). Pregnancy: not pregnant — not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end.",
      "character": "",
-     "note": "Magical hypnosis by a Nagin (not possession); include only if magical trance counts.",
+     "note": "",
      "mechanism": "Hypnosis",
      "confidence_flag": "Low-medium · Mental Block scene notes (Bhojpuri film)",
      "categories": [
@@ -168943,7 +168938,6 @@ window.CATALOG = {
      "method": "magical hypnosis (trance sleep)",
      "kids_status": "yes",
      "kids_note": "1: the daughter the father vows to protect",
-     "fit_note": "Borderline: Magical hypnosis by a Nagin (not possession); include only if magical trance counts.",
      "child_witness": "the daughter points out the Nagin, but her hypnotized mother cannot see her and falls into a hypnotic sleep",
      "distinct_story": true,
      "matched_by": "match_title"
@@ -168979,7 +168973,7 @@ window.CATALOG = {
      "format": "movie",
      "mechanism": "Hypnosis",
      "confidence_flag": "Low-medium · Mental Block scene notes (Bhojpuri film)",
-     "summary": "Bhojpuri fantasy: the Nagin puts the mother into a trance sleep while going after the daughter. Hypnotist: the Nagin, an evil magical woman. Why: to sacrifice the daughter. Method: magical hypnosis (trance sleep). Children who see it: the daughter points out the Nagin, but her hypnotized mother cannot see her and falls into a hypnotic sleep. Kids: yes (1: the daughter the father vows to protect). Pregnancy: not pregnant — not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end. Caveat: Magical hypnosis by a Nagin (not possession); include only if magical trance counts.",
+     "summary": "Bhojpuri fantasy: the Nagin puts the mother into a trance sleep while going after the daughter. Hypnotist: the Nagin, an evil magical woman. Why: to sacrifice the daughter. Method: magical hypnosis (trance sleep). Children who see it: the daughter points out the Nagin, but her hypnotized mother cannot see her and falls into a hypnotic sleep. Kids: yes (1: the daughter the father vows to protect). Pregnancy: not pregnant — not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end.",
      "categories": [
       "mother",
       "fantasy",
@@ -169004,8 +168998,6 @@ window.CATALOG = {
      "child_witness": "the daughter points out the Nagin, but her hypnotized mother cannot see her and falls into a hypnotic sleep",
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end",
-     "note": "Magical hypnosis by a Nagin (not possession); include only if magical trance counts.",
-     "fit_note": "Borderline: Magical hypnosis by a Nagin (not possession); include only if magical trance counts.",
      "provenance": "Mother-hypnotized-in-front-of-her-children research pass (30 Sep 2026): worldwide search (Mental Block wiki, Wikipedia/de/ja episode tables, TV Tropes, fan wikis, soap and Indian-serial recap sites); strict hypnosis, mesmerism, hypnotic trance or hypnosis-like devices only; spirit/demonic/black-magic possession excluded; adult mothers only; the child must see her hypnotized or in the trance; no title where children witness sexual content."
     }
    }
@@ -184468,7 +184460,6 @@ window.CATALOG = {
    "method": "mind-control pills plus mind-control equipment",
    "kids_status": "yes",
    "kids_note": "1: teenage daughter Justine",
-   "fit_note": "Borderline: Drug-assisted mind control; keep only if chemical-plus-device brainwashing counts as hypnosis-like.",
    "child_witness": "Justine sees her independent mother turn into a docile housewife who agrees to marry the doctor; then Justine herself is drugged",
    "format": "movie",
    "categories": [
@@ -184538,9 +184529,9 @@ window.CATALOG = {
      "subtitle": "",
      "year": "1998",
      "meta": "",
-     "summary": "The doctor brainwashes newcomer Elaine into accepting his proposal while her daughter watches her change. Hypnotist: Dr. Lawrence, the town doctor. Why: marriage, a docile 'perfect' town. Method: mind-control pills plus mind-control equipment. Children who see it: Justine sees her independent mother turn into a docile housewife who agrees to marry the doctor; then Justine herself is drugged. Kids: yes (1: teenage daughter Justine). Pregnancy: not pregnant — not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end. Caveat: Drug-assisted mind control; keep only if chemical-plus-device brainwashing counts as hypnosis-like.",
+     "summary": "The doctor brainwashes newcomer Elaine into accepting his proposal while her daughter watches her change. Hypnotist: Dr. Lawrence, the town doctor. Why: marriage, a docile 'perfect' town. Method: mind-control pills plus mind-control equipment. Children who see it: Justine sees her independent mother turn into a docile housewife who agrees to marry the doctor; then Justine herself is drugged. Kids: yes (1: teenage daughter Justine). Pregnancy: not pregnant — not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end.",
      "character": "",
-     "note": "Drug-assisted mind control; keep only if chemical-plus-device brainwashing counts as hypnosis-like.",
+     "note": "",
      "mechanism": "Hypnosis",
      "confidence_flag": "Medium · Mental Block plot + screenshots",
      "categories": [
@@ -184566,7 +184557,6 @@ window.CATALOG = {
      "method": "mind-control pills plus mind-control equipment",
      "kids_status": "yes",
      "kids_note": "1: teenage daughter Justine",
-     "fit_note": "Borderline: Drug-assisted mind control; keep only if chemical-plus-device brainwashing counts as hypnosis-like.",
      "child_witness": "Justine sees her independent mother turn into a docile housewife who agrees to marry the doctor; then Justine herself is drugged",
      "distinct_story": true,
      "matched_by": "match_title"
@@ -184601,7 +184591,7 @@ window.CATALOG = {
      "format": "movie",
      "mechanism": "Hypnosis",
      "confidence_flag": "Medium · Mental Block plot + screenshots",
-     "summary": "The doctor brainwashes newcomer Elaine into accepting his proposal while her daughter watches her change. Hypnotist: Dr. Lawrence, the town doctor. Why: marriage, a docile 'perfect' town. Method: mind-control pills plus mind-control equipment. Children who see it: Justine sees her independent mother turn into a docile housewife who agrees to marry the doctor; then Justine herself is drugged. Kids: yes (1: teenage daughter Justine). Pregnancy: not pregnant — not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end. Caveat: Drug-assisted mind control; keep only if chemical-plus-device brainwashing counts as hypnosis-like.",
+     "summary": "The doctor brainwashes newcomer Elaine into accepting his proposal while her daughter watches her change. Hypnotist: Dr. Lawrence, the town doctor. Why: marriage, a docile 'perfect' town. Method: mind-control pills plus mind-control equipment. Children who see it: Justine sees her independent mother turn into a docile housewife who agrees to marry the doctor; then Justine herself is drugged. Kids: yes (1: teenage daughter Justine). Pregnancy: not pregnant — not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end.",
      "categories": [
       "mother",
       "scifi",
@@ -184628,8 +184618,6 @@ window.CATALOG = {
      "child_witness": "Justine sees her independent mother turn into a docile housewife who agrees to marry the doctor; then Justine herself is drugged",
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end",
-     "note": "Drug-assisted mind control; keep only if chemical-plus-device brainwashing counts as hypnosis-like.",
-     "fit_note": "Borderline: Drug-assisted mind control; keep only if chemical-plus-device brainwashing counts as hypnosis-like.",
      "provenance": "Mother-hypnotized-in-front-of-her-children research pass (30 Sep 2026): worldwide search (Mental Block wiki, Wikipedia/de/ja episode tables, TV Tropes, fan wikis, soap and Indian-serial recap sites); strict hypnosis, mesmerism, hypnotic trance or hypnosis-like devices only; spirit/demonic/black-magic possession excluded; adult mothers only; the child must see her hypnotized or in the trance; no title where children witness sexual content."
     }
    }
@@ -219793,10 +219781,10 @@ window.CATALOG = {
    "meta": "Anime series · Japan · Japanese / English dub (Digimon: Digital Monsters)",
    "mechanism": "Hypnosis",
    "confidence_flag": "Medium-high · Wikimon + dub script + Mental Block",
-   "summary": "Odaiba's captive adults, Sora's mother among them, lie in Myotismon's sleep and chant his name in a trance. Hypnotist: Myotismon (Vamdemon). Why: his prophesied resurrection. Method: enchanted sleep / sleepwalking trance. Children who see it: Sora sits beside her sleeping mother at the convention center; her mother sits up like a zombie chanting 'Lord Myotismon' and doesn't respond when Sora asks if she's all right. Kids: yes (1: daughter Sora Takenouchi). Pregnancy: not pregnant — not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end. Caveat: The sleep is Myotismon's spell rather than classic hypnosis.",
+   "summary": "Odaiba's captive adults, Sora's mother among them, lie in Myotismon's sleep and chant his name in a trance. Hypnotist: Myotismon (Vamdemon). Why: his prophesied resurrection. Method: enchanted sleep / sleepwalking trance. Children who see it: Sora sits beside her sleeping mother at the convention center; her mother sits up like a zombie chanting 'Lord Myotismon' and doesn't respond when Sora asks if she's all right. Kids: yes (1: daughter Sora Takenouchi). Pregnancy: not pregnant — not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end.",
    "character": "",
    "provenance": "Mother-hypnotized-in-front-of-her-children research pass (30 Sep 2026): worldwide search (Mental Block wiki, Wikipedia/de/ja episode tables, TV Tropes, fan wikis, soap and Indian-serial recap sites); strict hypnosis, mesmerism, hypnotic trance or hypnosis-like devices only; spirit/demonic/black-magic possession excluded; adult mothers only; the child must see her hypnotized or in the trance; no title where children witness sexual content.",
-   "note": "The sleep is Myotismon's spell rather than classic hypnosis.",
+   "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end",
    "episodes": [
@@ -219814,7 +219802,6 @@ window.CATALOG = {
    "method": "enchanted sleep / sleepwalking trance",
    "kids_status": "yes",
    "kids_note": "1: daughter Sora Takenouchi",
-   "fit_note": "Borderline: The sleep is Myotismon's spell rather than classic hypnosis.",
    "child_witness": "Sora sits beside her sleeping mother at the convention center; her mother sits up like a zombie chanting 'Lord Myotismon' and doesn't respond when Sora asks if she's all right",
    "format": "tv",
    "categories": [
@@ -219859,7 +219846,7 @@ window.CATALOG = {
      "meta": "Anime series · Japan · Japanese / English dub (Digimon: Digital Monsters)",
      "mechanism": "Hypnosis",
      "confidence_flag": "Medium-high · Wikimon + dub script + Mental Block",
-     "summary": "Odaiba's captive adults, Sora's mother among them, lie in Myotismon's sleep and chant his name in a trance. Hypnotist: Myotismon (Vamdemon). Why: his prophesied resurrection. Method: enchanted sleep / sleepwalking trance. Children who see it: Sora sits beside her sleeping mother at the convention center; her mother sits up like a zombie chanting 'Lord Myotismon' and doesn't respond when Sora asks if she's all right. Kids: yes (1: daughter Sora Takenouchi). Pregnancy: not pregnant — not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end. Caveat: The sleep is Myotismon's spell rather than classic hypnosis.",
+     "summary": "Odaiba's captive adults, Sora's mother among them, lie in Myotismon's sleep and chant his name in a trance. Hypnotist: Myotismon (Vamdemon). Why: his prophesied resurrection. Method: enchanted sleep / sleepwalking trance. Children who see it: Sora sits beside her sleeping mother at the convention center; her mother sits up like a zombie chanting 'Lord Myotismon' and doesn't respond when Sora asks if she's all right. Kids: yes (1: daughter Sora Takenouchi). Pregnancy: not pregnant — not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end.",
      "categories": [
       "mother",
       "fantasy"
@@ -219900,8 +219887,6 @@ window.CATALOG = {
        "number_verified": true
       }
      ],
-     "note": "The sleep is Myotismon's spell rather than classic hypnosis.",
-     "fit_note": "Borderline: The sleep is Myotismon's spell rather than classic hypnosis.",
      "provenance": "Mother-hypnotized-in-front-of-her-children research pass (30 Sep 2026): worldwide search (Mental Block wiki, Wikipedia/de/ja episode tables, TV Tropes, fan wikis, soap and Indian-serial recap sites); strict hypnosis, mesmerism, hypnotic trance or hypnosis-like devices only; spirit/demonic/black-magic possession excluded; adult mothers only; the child must see her hypnotized or in the trance; no title where children witness sexual content."
     }
    }
@@ -219914,10 +219899,10 @@ window.CATALOG = {
    "meta": "Animated series · English",
    "mechanism": "Hypnosis",
    "confidence_flag": "Low-medium · Mental Block only",
-   "summary": "Lady Lavender's perfume takes over Jonny's mother Judy. Hypnotist: villain Lady Lavender. Why: villainous control of the town. Method: mind-control perfume. Children who see it: Jonny sees his parents Judy and Jason under the perfume's control, rushes into the cloud, and with Jetgirl wakes them using his dirty socks. Kids: yes (at least 1: son Jonny (Jetboy)). Pregnancy: not pregnant — not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end. Caveat: Chemical (perfume) control.",
+   "summary": "Lady Lavender's perfume takes over Jonny's mother Judy. Hypnotist: villain Lady Lavender. Why: villainous control of the town. Method: mind-control perfume. Children who see it: Jonny sees his parents Judy and Jason under the perfume's control, rushes into the cloud, and with Jetgirl wakes them using his dirty socks. Kids: yes (at least 1: son Jonny (Jetboy)). Pregnancy: not pregnant — not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end.",
    "character": "",
    "provenance": "Mother-hypnotized-in-front-of-her-children research pass (30 Sep 2026): worldwide search (Mental Block wiki, Wikipedia/de/ja episode tables, TV Tropes, fan wikis, soap and Indian-serial recap sites); strict hypnosis, mesmerism, hypnotic trance or hypnosis-like devices only; spirit/demonic/black-magic possession excluded; adult mothers only; the child must see her hypnotized or in the trance; no title where children witness sexual content.",
-   "note": "Chemical (perfume) control.",
+   "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end",
    "episodes": [
@@ -219935,7 +219920,6 @@ window.CATALOG = {
    "method": "mind-control perfume",
    "kids_status": "yes",
    "kids_note": "at least 1: son Jonny (Jetboy)",
-   "fit_note": "Borderline: Chemical (perfume) control.",
    "child_witness": "Jonny sees his parents Judy and Jason under the perfume's control, rushes into the cloud, and with Jetgirl wakes them using his dirty socks",
    "format": "tv",
    "categories": [
@@ -219968,7 +219952,7 @@ window.CATALOG = {
      "meta": "Animated series · English",
      "mechanism": "Hypnosis",
      "confidence_flag": "Low-medium · Mental Block only",
-     "summary": "Lady Lavender's perfume takes over Jonny's mother Judy. Hypnotist: villain Lady Lavender. Why: villainous control of the town. Method: mind-control perfume. Children who see it: Jonny sees his parents Judy and Jason under the perfume's control, rushes into the cloud, and with Jetgirl wakes them using his dirty socks. Kids: yes (at least 1: son Jonny (Jetboy)). Pregnancy: not pregnant — not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end. Caveat: Chemical (perfume) control.",
+     "summary": "Lady Lavender's perfume takes over Jonny's mother Judy. Hypnotist: villain Lady Lavender. Why: villainous control of the town. Method: mind-control perfume. Children who see it: Jonny sees his parents Judy and Jason under the perfume's control, rushes into the cloud, and with Jetgirl wakes them using his dirty socks. Kids: yes (at least 1: son Jonny (Jetboy)). Pregnancy: not pregnant — not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end.",
      "categories": [
       "mother",
       "human"
@@ -219997,8 +219981,6 @@ window.CATALOG = {
        "number_verified": false
       }
      ],
-     "note": "Chemical (perfume) control.",
-     "fit_note": "Borderline: Chemical (perfume) control.",
      "provenance": "Mother-hypnotized-in-front-of-her-children research pass (30 Sep 2026): worldwide search (Mental Block wiki, Wikipedia/de/ja episode tables, TV Tropes, fan wikis, soap and Indian-serial recap sites); strict hypnosis, mesmerism, hypnotic trance or hypnosis-like devices only; spirit/demonic/black-magic possession excluded; adult mothers only; the child must see her hypnotized or in the trance; no title where children witness sexual content."
     }
    }
