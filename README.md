@@ -1,20 +1,33 @@
 # TV and Movie Research Catalog (mirror)
 
-A searchable static copy of the **TV and Movie Research Catalog**, the muse.ai share page at
-<https://muse.ai/s/tv-and-movie-research-catalog-xla62ucxbx02u5>. The share page notes that its content is user-generated and unverified.
+A searchable static copy of the **TV and Movie Research Catalog**, merged from two muse.ai share pages
+(both note that their content is user-generated and unverified):
+
+1. Full catalog: <https://muse.ai/s/tv-and-movie-research-catalog-xla62ucxbx02u5> (required source)
+2. Title index: <https://muse.ai/s/tv-and-movie-research-catalog-ig6qlxqxoxvcxla> (optional source; a mostly title-only re-index of the first)
 
 **Live site:** https://mad08011999-cloud.github.io/tv-movie-catalog/
 
 - `index.html`, `assets/app.js`: the site (search, category and format filters, "unique records" and "by section" views, YouTube clip player)
-- `data.json`: every record (855) plus categories, sections and research notes, also served at `/data.json`
-- `original/`: an archived copy of the source page and its data scripts
+- `data.json`: every merged record plus categories, sections, per-source metadata and research notes, also served at `/data.json`
+- `dedupe_report.json`: every group of records that was merged, and how it was matched
+- `original/<source-id>/`: archived copies of each source page
+- `sources/<source-id>.json`: last good raw snapshot of the optional source, used if a live extraction fails
 - `thumbs/`: YouTube thumbnails for records that link to a clip
 
 ## Sync
 
-`scripts/sync.py` renders the share page in headless Chromium, re-extracts all records, and rewrites
-`data.json`, `assets/data.js`, `assets/style.css`, `original/` and `thumbs/`. When the source hasn't changed, the output is byte-identical,
-and the script refuses to write anything if the extraction looks incomplete.
+`scripts/sync.py` renders each share page in headless Chromium, detects its layout, and extracts every record. It checks each page
+against that page's own total before any de-duplication, then merges and de-duplicates the records and rewrites the generated files.
+When the sources haven't changed, the output is byte-identical. If the full catalog fails its check, nothing is written. If the title
+index fails, its last good snapshot is used instead.
+
+**De-duplication.** The key is the normalized title (case-insensitive, with curly and straight quotes and apostrophes unified, and whitespace and
+edge punctuation trimmed) plus the first 4-digit year. Records with the same title are duplicates when their years match or one has no year.
+A same-name remake from a different year stays separate. A merged record keeps one primary copy, takes the union of categories,
+section memberships and source links, fills empty fields from the other copies, and lists those copies under "Merged duplicates".
+Title-index entries that don't match exactly are matched with looser alias rules (episode codes and " — " qualifiers stripped,
+alternate titles split on " / ", leading "The" dropped, a unique title prefix). A record appears at most once per section.
 
 ```bash
 pip install -r scripts/requirements.txt

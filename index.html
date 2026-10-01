@@ -13,10 +13,11 @@
 </head>
 <body>
 <div class="topbar"><div class="wrap">
-  <span>Mirror of <a id="srcLink" href="https://muse.ai/s/tv-and-movie-research-catalog-xla62ucxbx02u5" target="_blank" rel="noopener">muse.ai/s/tv-and-movie-research-catalog</a> · source notes: “Content is user generated and unverified.”</span>
-  <span><a href="data.json" download>Download data.json</a> · <a href="original/index.html">Original layout (archived copy)</a></span>
+  <span>Merged mirror of two muse.ai catalog pages · source notes: “Content is user generated and unverified.”</span>
+  <span><a href="data.json" download>Download data.json</a> · <a href="dedupe_report.json">Dedupe report</a></span>
 </div></div>
 
+<div class="srcbar"><div class="wrap" id="srcinfo"></div></div>
 <section class="wrap intro" aria-labelledby="page-heading">
   <div>
     <p class="kicker" id="kicker"></p>
@@ -39,6 +40,7 @@
     </label>
     <select id="category" aria-label="Category"><option value="all">All categories</option></select>
     <select id="format" aria-label="Format"><option value="all">All formats</option></select>
+    <select id="source" aria-label="Source"><option value="all">All sources</option></select>
     <div class="view-toggle" role="group" aria-label="View">
       <button type="button" data-view="grid" aria-pressed="true">Unique records</button>
       <button type="button" data-view="sections" aria-pressed="false">By section</button>

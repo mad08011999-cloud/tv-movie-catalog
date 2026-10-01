@@ -6,7 +6,9 @@
   const catLabel = Object.fromEntries(D.categories.map(c => [c.key, c.label]));
   const legendLabel = Object.fromEntries(D.categories.map(c => [c.key, c.legend_label || c.label]));
   const PAGE = 120;
-  let state = {q:'', cat:'all', fmt:'all', view:'grid', limit:PAGE};
+  let state = {q:'', cat:'all', fmt:'all', src:'all', view:'grid', limit:PAGE};
+  const srcLabel = Object.fromEntries((D.sources || []).map((s, i) => [s.id, `Source ${i + 1}: ${s.label}`]));
+  const srcShort = Object.fromEntries((D.sources || []).map((s, i) => [s.id, `S${i + 1}`]));
 
   // header
   $('#kicker').textContent = D.source.kicker;
@@ -19,15 +21,22 @@
   $('#legend').innerHTML = D.categories.map(c => `<button type="button" class="${esc(c.key)}" data-cat="${esc(c.key)}" aria-pressed="false" title="${c.entry_count} records"><i></i>${esc(c.legend_label)}</button>`).join('');
   $('#category').insertAdjacentHTML('beforeend', D.categories.map(c => `<option value="${esc(c.key)}">${esc(c.label)} (${c.entry_count})</option>`).join(''));
   $('#format').insertAdjacentHTML('beforeend', D.formats.map(f => `<option value="${esc(f.key)}">${esc(f.label)}</option>`).join(''));
-  $('#notes').innerHTML = D.source.research_notes_html;
+  $('#source').insertAdjacentHTML('beforeend', (D.sources || []).map(s => `<option value="${esc(s.id)}">${esc(srcLabel[s.id])}</option>`).join(''));
+  const extra = (D.sources || []).filter(s => s.kind === 'index').map(s => `
+    <details><summary>${esc(srcLabel[s.id])}: research notes (${s.boundaries.length})</summary><div class="note-body"><ul>${s.boundaries.map(b => `<li>${esc(b)}</li>`).join('')}</ul></div></details>
+    <details><summary>${esc(srcLabel[s.id])}: snapshot figures (${s.stats.length})</summary><div class="note-body"><ul>${s.stats.map(b => `<li>${esc(b)}</li>`).join('')}</ul></div></details>`).join('');
+  $('#notes').innerHTML = D.source.research_notes_html + extra;
+  $('#srcinfo').innerHTML = (D.sources || []).map(s => `<a href="${esc(s.share_url)}" target="_blank" rel="noopener">${esc(srcLabel[s.id])}</a> (${s.check.raw_count} raw${s.status !== 'live' ? ', ' + esc(s.status) : ''}) · <a href="original/${esc(s.id)}/index.html">archived copy</a>`).join(' · ') +
+    ` · ${D.entry_count} records after removing duplicates`;
 
   // search index
   D.entries.forEach(e => {
     e._hay = [e.title, e.subtitle, e.year, e.meta, e.summary, e.character, e.mechanism, e.confidence_flag, e.note, e.provenance,
-      ...e.category_labels, ...Object.values(e.raw).filter(v => typeof v === 'string')].join(' \u0001 ').toLowerCase();
+      ...e.categories.map(c => catLabel[c] || c), ...(e.merged_from || []).map(m => [m.title, m.subtitle, m.summary, m.index_title].join(' '))].join(' \u0001 ').toLowerCase();
   });
   const matches = e => (state.cat === 'all' || e.categories.includes(state.cat)) &&
     (state.fmt === 'all' || e.format === state.fmt) &&
+    (state.src === 'all' || e.from_sources.includes(state.src)) &&
     (!state.q || state.q.split(/\s+/).every(t => e._hay.includes(t)));
 
   function card(e, app){
@@ -39,22 +48,30 @@
       e.confidence_flag ? `<span class="tag flag">${esc(e.confidence_flag)}</span>` : ''].join('');
     const appTags = app.tags ? app.tags.map(t => {
       const key = Object.keys(catLabel).find(k => catLabel[k] === t || legendLabel[k] === t);
-      return `<span class="tag ${key ? esc(key) : 'flag'}">${esc(t)}</span>`; }).join('') : '';
+      return t ? `<span class="tag ${key ? esc(key) : 'flag'}">${esc(t)}</span>` : ''; }).join('') : '';
     const sources = app.sources || e.sources;
     const vid = e.youtube_ids[0];
     const thumb = e.thumbnail ? `<button class="thumb" type="button" data-yt="${esc(vid)}" data-title="${esc(e.title)}" aria-label="Play clip: ${esc(e.title)}"><img loading="lazy" src="${esc(e.thumbnail)}" alt=""><span class="play"><span></span></span><span class="lbl">YouTube clip</span></button>` : '';
     const ch = app.character || (e.character ? `Character: ${e.character}` : '');
     const note = app.entry_note || (e.note ? `Note: ${e.note}` : '');
     const prov = app.provenance || (e.provenance ? `Source basis: ${e.provenance}` : '');
+    const others = (e.merged_from || []).filter(m => !m.index_title);
+    const idxNames = [...new Set((e.merged_from || []).filter(m => m.index_title).map(m => m.index_title))];
+    const merged = others.length ? `<details class="merged"><summary>Merged duplicate${others.length > 1 ? 's' : ''} (${others.length})</summary>${others.map(m =>
+        `<p><strong>${esc(m.title)}${m.subtitle ? ' · ' + esc(m.subtitle) : ''}${m.year ? ' (' + esc(m.year) + ')' : ''}</strong>${m.summary ? ' ' + esc(m.summary) : ''}</p>`).join('')}</details>` : '';
+    const idxNote = e.index_only ? `<p class="entry-note"><strong>Title index only:</strong> listed by ${esc(srcLabel[e.from_sources[0]] || 'the title index')} without plot details.</p>` :
+      (idxNames.length ? `<p class="also">Also listed in the title index as: ${idxNames.map(esc).join(' · ')}</p>` : '');
+    const badges = `<span class="srcbadges">${e.from_sources.map(s => `<span title="${esc(srcLabel[s])}">${esc(srcShort[s])}</span>`).join('')}</span>`;
     const lab = (s) => s.replace(/^(Character:|Note:|Source basis:)/, '<strong>$1</strong>');
     return `<article class="card" id="r${e.id}">${thumb}
-      <div class="card-top"><span>${esc(e.meta)}</span><span class="year">${esc(app.year_display || e.year || 'Year unresolved')}</span></div>
+      <div class="card-top"><span>${esc(e.meta)}</span><span class="year">${badges}${esc(app.year_display || e.year || 'Year unresolved')}</span></div>
       <h3>${esc(e.title)}${e.subtitle ? `<small>${esc(e.subtitle)}</small>` : ''}</h3>
       ${ch ? `<p class="character">${lab(esc(ch))}</p>` : ''}
-      <p class="summary">${esc(summary)}</p>
-      ${note ? `<p class="entry-note">${lab(esc(note))}</p>` : ''}
+      ${summary ? `<p class="summary">${esc(summary)}</p>` : ''}
+      ${note ? `<p class="entry-note">${lab(esc(note))}</p>` : ''}${idxNote}
       <div class="tags">${tags || appTags}</div>
       ${sources.length ? `<div class="sources" aria-label="Sources">${sources.map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)} ↗</a>`).join('')}</div>` : ''}
+      ${merged}
       ${prov ? `<p class="provenance">${lab(esc(prov))}</p>` : ''}
     </article>`;
   }
@@ -76,11 +93,13 @@
         for (const g of sec.groups){
           const items = g.items.filter(it => ok.has(it.id));
           if (!items.length) continue;
-          if (g.title) body += `<h3 class="subcategory-heading">${esc(g.title)}</h3>`;
+          if (g.title) body += `<h3 class="subcategory-heading">${esc(g.title)}${g.from_source ? ` <small class="from">${esc(srcShort[g.from_source])}</small>` : ''}</h3>`;
+          body += (g.notes || []).map(n => `<aside class="category-note"><strong>${esc(srcShort[n.source] || '')} note:</strong> ${esc(n.text)}</aside>`).join('');
           body += items.map(it => { shown.add(it.id); return card(byId.get(it.id), it); }).join('');
         }
         if (body) html += `<header class="category-heading"><h2>${esc(sec.title)}</h2>${sec.description ? `<p>${esc(sec.description)}</p>` : ''}</header>` +
-          sec.notes.map(n => `<aside class="category-note">${n.html}</aside>`).join('') + body;
+          sec.notes.map(n => n.html ? `<aside class="category-note">${n.html}</aside>` :
+            `<aside class="category-note"><strong>${esc(srcShort[n.source] || '')} note${n.group ? ' (' + esc(n.group) + ')' : ''}:</strong> ${esc(n.text)}</aside>`).join('') + body;
       }
       const rest = hits.filter(e => !shown.has(e.id));
       if (rest.length) html += `<header class="category-heading"><h2>${state.cat === 'all' ? 'Other records' : esc(catLabel[state.cat])}</h2><p>${state.cat === 'all' ? 'Records present in the source data that the source page does not place under a section heading.' : 'Records tagged with this category in the source data.'}</p></header>` + rest.map(e => card(e)).join('');
@@ -89,21 +108,22 @@
   }
 
   function sync(push){
-    $('#category').value = state.cat; $('#format').value = state.fmt;
+    $('#category').value = state.cat; $('#format').value = state.fmt; $('#source').value = state.src;
     document.querySelectorAll('.view-toggle button').forEach(b => b.setAttribute('aria-pressed', b.dataset.view === state.view));
     document.querySelectorAll('#legend button').forEach(b => b.setAttribute('aria-pressed', b.dataset.cat === state.cat));
     const p = new URLSearchParams();
     if (state.q) p.set('q', state.q); if (state.cat !== 'all') p.set('cat', state.cat);
-    if (state.fmt !== 'all') p.set('fmt', state.fmt); if (state.view !== 'grid') p.set('view', state.view);
+    if (state.fmt !== 'all') p.set('fmt', state.fmt); if (state.src !== 'all') p.set('src', state.src); if (state.view !== 'grid') p.set('view', state.view);
     if (push) history.replaceState(null, '', (p.toString() ? '#' + p : location.pathname));
     render();
   }
   const init = new URLSearchParams(location.hash.slice(1));
-  state.q = (init.get('q') || '').toLowerCase(); state.cat = init.get('cat') || 'all'; state.fmt = init.get('fmt') || 'all'; state.view = init.get('view') || 'grid';
+  state.q = (init.get('q') || '').toLowerCase(); state.cat = init.get('cat') || 'all'; state.fmt = init.get('fmt') || 'all'; state.src = init.get('src') || 'all'; state.view = init.get('view') || 'grid';
   let t;
   $('#search').addEventListener('input', e => { clearTimeout(t); t = setTimeout(() => { state.q = e.target.value.trim().toLowerCase(); state.limit = PAGE; sync(true); }, 120); });
   $('#category').addEventListener('change', e => { state.cat = e.target.value; state.limit = PAGE; sync(true); });
   $('#format').addEventListener('change', e => { state.fmt = e.target.value; state.limit = PAGE; sync(true); });
+  $('#source').addEventListener('change', e => { state.src = e.target.value; state.limit = PAGE; sync(true); });
   $('#legend').addEventListener('click', e => { const b = e.target.closest('button'); if (!b) return; state.cat = state.cat === b.dataset.cat ? 'all' : b.dataset.cat; state.limit = PAGE; sync(true); $('#grid').scrollIntoView({behavior:'smooth'}); });
   document.querySelector('.view-toggle').addEventListener('click', e => { const b = e.target.closest('button'); if (!b) return; state.view = b.dataset.view; sync(true); });
   $('#grid').addEventListener('click', e => {

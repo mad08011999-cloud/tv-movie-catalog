@@ -2,11 +2,11 @@
 .topbar{border-bottom:1px solid var(--line);font-size:.78rem;color:var(--muted)}
 .topbar .wrap{display:flex;justify-content:space-between;gap:12px;padding:9px 0;flex-wrap:wrap}
 .topbar a{font-weight:700;text-underline-offset:3px}
-.legend button{border:0;cursor:pointer}
+.legend button{border:0;cursor:pointer;display:inline-flex;align-items:center;gap:6px;padding:5px 9px;border-radius:999px;font-size:.72rem;font-weight:700;line-height:1.2}
 .legend button[aria-pressed="true"]{outline:2px solid currentColor;outline-offset:1px}
 .snapshot details{border:0;padding:6px 0 0}
 .snapshot details summary{font-size:.8rem;color:var(--accent)}
-.controls{grid-template-columns:minmax(240px,1.3fr) minmax(180px,1fr) 170px auto}
+.controls{grid-template-columns:minmax(220px,1.3fr) minmax(160px,1fr) 150px 170px auto}
 .controls select{min-width:0;text-overflow:ellipsis}
 .view-toggle{display:flex;border:1px solid var(--line);border-radius:8px;overflow:hidden;height:44px}
 .view-toggle button{border:0;background:var(--surface);color:var(--muted);padding:0 12px;cursor:pointer;font-size:.8rem;font-weight:700;white-space:nowrap}
@@ -31,3 +31,13 @@
 .more-wrap{grid-column:1/-1;text-align:center;padding:10px 0 30px}
 .more-wrap button{border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:8px;padding:10px 22px;font-weight:700;cursor:pointer}
 @media(max-width:900px){.controls{grid-template-columns:1fr 1fr}.search{grid-column:1/-1}.view-toggle{grid-column:1/-1}}
+.srcbar{font-size:.74rem;color:var(--muted);border-bottom:1px solid var(--line)}
+.srcbar .wrap{padding:7px 0}
+.srcbar a{text-underline-offset:3px}
+.srcbadges{display:inline-flex;gap:3px;margin-right:8px;vertical-align:1px}
+.srcbadges span{font-size:.62rem;font-weight:700;padding:1px 5px;border-radius:4px;background:var(--soft-blue);color:var(--blue)}
+.also{margin:-6px 0 14px;font-size:.74rem;color:var(--muted)}
+details.merged{border:0;border-top:1px dashed var(--line);padding:9px 0 0;margin-top:12px}
+details.merged summary{font-size:.75rem;color:var(--accent)}
+details.merged p{font-size:.78rem;color:var(--muted);margin:8px 0 0}
+.subcategory-heading small.from{font-family:Archivo,sans-serif;font-size:.65rem;font-weight:700;color:var(--blue);background:var(--soft-blue);padding:1px 6px;border-radius:4px;vertical-align:3px}

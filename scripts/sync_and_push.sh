@@ -7,7 +7,7 @@ PY="${PYTHON:-python3}"
 if [ -x .venv/bin/python ]; then PY=.venv/bin/python; fi
 git pull --ff-only --quiet
 "$PY" scripts/sync.py
-git add -A data.json assets/data.js assets/style.css original thumbs
+git add -A data.json dedupe_report.json assets/data.js assets/style.css original sources thumbs
 if git diff --cached --quiet; then
   echo "[sync] no changes"
   exit 0
