@@ -11,6 +11,8 @@ A searchable static copy of the **TV and Movie Research Catalog**, merged from t
 
 **Live site:** https://mad08011999-cloud.github.io/tv-movie-catalog/
 
+**Ordering and year filter (front end, survives every sync):** `assets/app.js` sorts the category legend, the category dropdown and the "By section" sections A-Z by display name, and lists every record A-Z by title inside each section (case- and accent-insensitive, ignoring leading punctuation and a leading "The"/"A"/"An"; year breaks ties; the subgroup heading is kept as a label on each card). The "Unique records" view uses the same title order. `scripts/sync.py` writes `data.json` in the same order. A release-period dropdown (All years, Before 1960, 1960s–1970s, 1980s–1990s, 2000s, 2010s, 2020s+, Year unknown) plus an optional from/to year range combine with search and the other filters. A record's year is the first 4-digit year in its year field; records without one appear only under "All years" (with no range set) and "Year unknown". Filters are kept in the URL hash (`yr`, `ymin`, `ymax`).
+
 - `index.html`, `assets/app.js`: the site (search, category and format filters, "unique records" and "by section" views, YouTube clip player)
 - `data.json`: every merged record plus categories, sections, per-source metadata and research notes, also served at `/data.json`
 - `dedupe_report.json`: every group of records that was merged, and how it was matched

@@ -91,6 +91,22 @@ def norm_title(t):
 YEAR_RE = re.compile(r"(?<!\d)(1[89]\d\d|20\d\d)(?!\d)")
 
 
+def sort_name(s):
+    """A-Z display key: accents folded, case-insensitive, leading punctuation and 'The'/'A'/'An' ignored
+    (assets/app.js applies the same ordering again at render time)."""
+    t = unicodedata.normalize("NFKD", s or "")
+    t = "".join(ch for ch in t if not unicodedata.combining(ch)).casefold().strip()
+    t = re.sub(r"^[^\w]+", "", t)
+    t = re.sub(r"^(the|an|a)\s+", "", t)
+    return re.sub(r"^[^\w]+", "", t)
+
+
+def entry_sort_key(e):
+    """Title A-Z (sort_name), then first year (records without a year last), then id."""
+    yk = year_key(e.get("year", ""))
+    return (sort_name(e.get("title", "")), 0 if yk else 1, yk, e.get("id", 0))
+
+
 def year_key(y):
     """First 4-digit year in a year string ('1966–71' -> '1966'); '' when there is none."""
     m = YEAR_RE.search(y or "")
@@ -860,6 +876,12 @@ def build(parsed):
             m["status"] = parsed[s["id"]].get("status", "live")
             src_meta.append(m)
     raw_counts = {sid: p["check"]["raw_count"] for sid, p in parsed.items()}
+    # ---- display order: categories and sections A-Z by display name, records A-Z within each group
+    cats.sort(key=lambda c: (sort_name(c["label"]), c["key"]))
+    sections.sort(key=lambda sec: (sort_name(sec["title"]), sec["category"] or ""))
+    for sec in sections:
+        for grp in sec["groups"]:
+            grp["items"].sort(key=lambda it: entry_sort_key(by_id[it["id"]]))
     data = {
         "source": full["meta"],
         "sources": src_meta,

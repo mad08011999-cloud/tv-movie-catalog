@@ -6,7 +6,30 @@
   const catLabel = Object.fromEntries(D.categories.map(c => [c.key, c.label]));
   const legendLabel = Object.fromEntries(D.categories.map(c => [c.key, c.legend_label || c.label]));
   const PAGE = 120;
-  let state = {q:'', cat:'all', fmt:'all', src:'all', view:'grid', limit:PAGE};
+  let state = {q:'', cat:'all', fmt:'all', src:'all', yr:'all', ymin:'', ymax:'', view:'grid', limit:PAGE};
+
+  // A-Z ordering (done at render time so it survives every sync): accents folded, case-insensitive,
+  // leading punctuation and a leading 'The' / 'A' / 'An' ignored; year is the tiebreaker
+  const coll = new Intl.Collator('en', {sensitivity: 'base', numeric: true});
+  const sortName = t => String(t ?? '').normalize('NFKD').replace(/[\u0300-\u036f]/g, '').trim()
+    .replace(/^[^\p{L}\p{N}]+/u, '').replace(/^(the|an|a)\s+/i, '').replace(/^[^\p{L}\p{N}]+/u, '');
+  const byName = (a, b) => coll.compare(sortName(a), sortName(b));
+  // release year = first 4-digit year in the year field ('1966–71' -> 1966); null when there is none
+  const yearOf = e => { const m = String(e.year || '').match(/\b(1[89]\d\d|20\d\d)\b/); return m ? +m[1] : null; };
+  D.entries.forEach(e => { e._sort = sortName(e.title); e._year = yearOf(e); });
+  const byEntry = (a, b) => coll.compare(a._sort, b._sort) || ((a._year ?? 1e4) - (b._year ?? 1e4)) || (a.id - b.id);
+  const PERIODS = [
+    {key:'pre1960', label:'Before 1960', test: y => y !== null && y < 1960},
+    {key:'1960s-70s', label:'1960s–1970s', test: y => y !== null && y >= 1960 && y <= 1979},
+    {key:'1980s-90s', label:'1980s–1990s', test: y => y !== null && y >= 1980 && y <= 1999},
+    {key:'2000s', label:'2000s', test: y => y !== null && y >= 2000 && y <= 2009},
+    {key:'2010s', label:'2010s', test: y => y !== null && y >= 2010 && y <= 2019},
+    {key:'2020s', label:'2020s+', test: y => y !== null && y >= 2020},
+    {key:'unknown', label:'Year unknown', test: y => y === null}];
+  const periodOf = Object.fromEntries(PERIODS.map(p => [p.key, p]));
+  const cats = [...D.categories].sort((a, b) => byName(a.label, b.label));
+  const legendCats = [...D.categories].sort((a, b) => byName(a.legend_label || a.label, b.legend_label || b.label));
+  const sectionsAZ = [...D.sections].sort((a, b) => byName(a.title, b.title));
   const srcLabel = Object.fromEntries((D.sources || []).map((s, i) => [s.id, `Source ${i + 1}: ${s.label}`]));
   const srcShort = Object.fromEntries((D.sources || []).map((s, i) => [s.id, `S${i + 1}`]));
 
@@ -18,8 +41,8 @@
   const bd = D.source.snapshot_breakdowns;
   $('#breakdowns').innerHTML = bd.slice(0,4).map(b => `<span class="breakdown">${b.html}</span>`).join('') +
     (bd.length > 4 ? `<details><summary>Show all ${bd.length} breakdowns</summary>${bd.slice(4).map(b => `<span class="breakdown">${b.html}</span>`).join('')}</details>` : '');
-  $('#legend').innerHTML = D.categories.map(c => `<button type="button" class="${esc(c.key)}" data-cat="${esc(c.key)}" aria-pressed="false" title="${c.entry_count} records"><i></i>${esc(c.legend_label)}</button>`).join('');
-  $('#category').insertAdjacentHTML('beforeend', D.categories.map(c => `<option value="${esc(c.key)}">${esc(c.label)} (${c.entry_count})</option>`).join(''));
+  $('#legend').innerHTML = legendCats.map(c => `<button type="button" class="${esc(c.key)}" data-cat="${esc(c.key)}" aria-pressed="false" title="${c.entry_count} records"><i></i>${esc(c.legend_label)}</button>`).join('');
+  $('#category').insertAdjacentHTML('beforeend', cats.map(c => `<option value="${esc(c.key)}">${esc(c.label)} (${c.entry_count})</option>`).join(''));
   $('#format').insertAdjacentHTML('beforeend', D.formats.map(f => `<option value="${esc(f.key)}">${esc(f.label)}</option>`).join(''));
   $('#source').insertAdjacentHTML('beforeend', (D.sources || []).map(s => `<option value="${esc(s.id)}">${esc(srcLabel[s.id])}</option>`).join(''));
   const extra = (D.sources || []).filter(s => s.kind === 'index').map(s => `
@@ -34,10 +57,29 @@
     e._hay = [e.title, e.subtitle, e.year, e.meta, e.summary, e.character, e.mechanism, e.confidence_flag, e.note, e.provenance, e.pregnancy_outcome, e.pregnancy_note,
       ...e.categories.map(c => catLabel[c] || c), ...(e.merged_from || []).map(m => [m.label, m.summary, m.character, m.note].join(' '))].join(' \u0001 ').toLowerCase();
   });
-  const matches = e => (state.cat === 'all' || e.categories.includes(state.cat)) &&
+  // year filter: a release period and/or an optional min-max range; records without a year only
+  // show under 'All years' (with no range set) and 'Year unknown'
+  const yearOk = (e, skipPeriod) => {
+    if (!skipPeriod && state.yr !== 'all' && periodOf[state.yr] && !periodOf[state.yr].test(e._year)) return false;
+    const lo = parseInt(state.ymin, 10), hi = parseInt(state.ymax, 10);
+    if ((!isNaN(lo) || !isNaN(hi)) && state.yr !== 'unknown') {
+      if (e._year === null) return false;
+      if (!isNaN(lo) && e._year < lo) return false;
+      if (!isNaN(hi) && e._year > hi) return false;
+    }
+    return true;
+  };
+  const baseMatch = e => (state.cat === 'all' || e.categories.includes(state.cat)) &&
     (state.fmt === 'all' || e.format === state.fmt) &&
     (state.src === 'all' || e.from_sources.includes(state.src)) &&
     (!state.q || state.q.split(/\s+/).every(t => e._hay.includes(t)));
+  const matches = e => baseMatch(e) && yearOk(e);
+  function periodCounts(){   // live counts per period under the other active filters
+    const base = D.entries.filter(e => baseMatch(e) && yearOk(e, true));
+    const sel = $('#period');
+    sel.querySelector('option[value="all"]').textContent = `All years (${base.length})`;
+    PERIODS.forEach(p => { sel.querySelector(`option[value="${p.key}"]`).textContent = `${p.label} (${base.filter(e => p.test(e._year)).length})`; });
+  }
 
   function card(e, app){
     app = app || {};
@@ -56,6 +98,7 @@
     const ch = app.character || (e.character ? `Character: ${e.character}` : '');
     const note = app.entry_note || (e.note ? `Note: ${e.note}` : '');
     const prov = app.provenance || (e.provenance ? `Source basis: ${e.provenance}` : '');
+    const subgroup = app._group ? `<p class="entry-note subgroup"><strong>Subgroup:</strong> ${esc(app._group)}</p>` : '';
     const copies = e.merged_from && e.merged_from.length ? [e.primary_copy, ...e.merged_from] : [];
     const distinct = copies.filter(m => m.distinct_story).length;
     const copyRow = (m, i) => {
@@ -71,7 +114,7 @@
     const lab = (s) => s.replace(/^(Character:|Note:|Source basis:)/, '<strong>$1</strong>');
     return `<article class="card" id="r${e.id}">${thumb}
       <div class="card-top"><span>${esc(e.meta)}</span><span class="year">${badges}${esc(app.year_display || e.year || 'Year unresolved')}</span></div>
-      <h3>${esc(e.title)}${e.subtitle ? `<small>${esc(e.subtitle)}</small>` : ''}</h3>
+      <h3>${esc(e.title)}${e.subtitle ? `<small>${esc(e.subtitle)}</small>` : ''}</h3>${subgroup}
       ${ch ? `<p class="character">${lab(esc(ch))}</p>` : ''}
       ${summary ? `<p class="summary">${esc(summary)}</p>` : ''}
       ${note ? `<p class="entry-note">${lab(esc(note))}</p>` : ''}${idxNote}
@@ -85,7 +128,8 @@
 
   function render(){
     const grid = $('#grid');
-    const hits = D.entries.filter(matches);
+    const hits = D.entries.filter(matches).sort(byEntry);
+    periodCounts();
     $('#count').textContent = `${hits.length} record${hits.length === 1 ? '' : 's'}` + (hits.length !== D.entries.length ? ` of ${D.entries.length}` : '');
     if (!hits.length){ grid.innerHTML = '<div class="empty">No records match these filters.</div>'; return; }
     let html = '';
@@ -94,17 +138,22 @@
       if (hits.length > state.limit) html += `<div class="more-wrap"><button type="button" id="more">Show more (${hits.length - state.limit} remaining)</button></div>`;
     } else {
       const ok = new Set(hits.map(e => e.id)); const shown = new Set();
-      for (const sec of D.sections){
+      for (const sec of sectionsAZ){
         if (state.cat !== 'all' && sec.category !== state.cat) continue;
-        let body = '';
+        // one A-Z list per section; each card keeps its subgroup heading as a label, group notes go to the top
+        const items = [], gnotes = [];
         for (const g of sec.groups){
-          const items = g.items.filter(it => ok.has(it.id));
-          if (!items.length) continue;
-          if (g.title) body += `<h3 class="subcategory-heading">${esc(g.title)}${g.from_source ? ` <small class="from">${esc(srcShort[g.from_source])}</small>` : ''}</h3>`;
-          body += (g.notes || []).map(n => `<aside class="category-note"><strong>${esc(srcShort[n.source] || '')} note:</strong> ${esc(n.text)}</aside>`).join('');
-          body += items.map(it => { shown.add(it.id); return card(byId.get(it.id), it); }).join('');
+          const gi = g.items.filter(it => ok.has(it.id));
+          if (!gi.length) continue;
+          const label = g.title && !/^(catalog records|india-only research additions|worldwide hypnosis research)/i.test(g.title.trim()) ? g.title : '';
+          gi.forEach(it => items.push({it, e: byId.get(it.id), group: label}));
+          (g.notes || []).forEach(n => gnotes.push({n, g: g.title}));
         }
-        if (body) html += `<header class="category-heading"><h2>${esc(sec.title)}</h2>${sec.description ? `<p>${esc(sec.description)}</p>` : ''}</header>` +
+        if (!items.length) continue;
+        items.sort((a, b) => byEntry(a.e, b.e));
+        const body = gnotes.map(({n, g}) => `<aside class="category-note"><strong>${esc(srcShort[n.source] || '')} note${g ? ' (' + esc(g) + ')' : ''}:</strong> ${esc(n.text)}</aside>`).join('') +
+          items.map(({it, e, group}) => { shown.add(it.id); return card(e, Object.assign({}, it, {_group: group})); }).join('');
+        html += `<header class="category-heading"><h2>${esc(sec.title)} <span class="seccount">${items.length} record${items.length === 1 ? "" : "s"}</span></h2>${sec.description ? `<p>${esc(sec.description)}</p>` : ''}</header>` +
           sec.notes.map(n => n.html ? `<aside class="category-note">${n.html}</aside>` :
             `<aside class="category-note"><strong>${esc(srcShort[n.source] || '')} note${n.group ? ' (' + esc(n.group) + ')' : ''}:</strong> ${esc(n.text)}</aside>`).join('') + body;
       }
@@ -116,21 +165,32 @@
 
   function sync(push){
     $('#category').value = state.cat; $('#format').value = state.fmt; $('#source').value = state.src;
+    $('#period').value = state.yr;
+    ['ymin', 'ymax'].forEach(k => { const el = $('#' + k); if (document.activeElement !== el) el.value = state[k]; });   // don't clobber a year being typed
     document.querySelectorAll('.view-toggle button').forEach(b => b.setAttribute('aria-pressed', b.dataset.view === state.view));
     document.querySelectorAll('#legend button').forEach(b => b.setAttribute('aria-pressed', b.dataset.cat === state.cat));
     const p = new URLSearchParams();
     if (state.q) p.set('q', state.q); if (state.cat !== 'all') p.set('cat', state.cat);
-    if (state.fmt !== 'all') p.set('fmt', state.fmt); if (state.src !== 'all') p.set('src', state.src); if (state.view !== 'grid') p.set('view', state.view);
+    if (state.fmt !== 'all') p.set('fmt', state.fmt); if (state.src !== 'all') p.set('src', state.src);
+    if (state.yr !== 'all') p.set('yr', state.yr); if (state.ymin) p.set('ymin', state.ymin); if (state.ymax) p.set('ymax', state.ymax); if (state.view !== 'grid') p.set('view', state.view);
     if (push) history.replaceState(null, '', (p.toString() ? '#' + p : location.pathname));
     render();
   }
   const init = new URLSearchParams(location.hash.slice(1));
-  state.q = (init.get('q') || '').toLowerCase(); state.cat = init.get('cat') || 'all'; state.fmt = init.get('fmt') || 'all'; state.src = init.get('src') || 'all'; state.view = init.get('view') || 'grid';
+  state.q = (init.get('q') || '').toLowerCase(); state.cat = init.get('cat') || 'all'; state.fmt = init.get('fmt') || 'all'; state.src = init.get('src') || 'all';
+  state.yr = periodOf[init.get('yr')] ? init.get('yr') : 'all'; state.ymin = init.get('ymin') || ''; state.ymax = init.get('ymax') || ''; state.view = init.get('view') || 'grid';
   let t;
   $('#search').addEventListener('input', e => { clearTimeout(t); t = setTimeout(() => { state.q = e.target.value.trim().toLowerCase(); state.limit = PAGE; sync(true); }, 120); });
   $('#category').addEventListener('change', e => { state.cat = e.target.value; state.limit = PAGE; sync(true); });
   $('#format').addEventListener('change', e => { state.fmt = e.target.value; state.limit = PAGE; sync(true); });
   $('#source').addEventListener('change', e => { state.src = e.target.value; state.limit = PAGE; sync(true); });
+  $('#period').insertAdjacentHTML('beforeend', PERIODS.map(p => `<option value="${p.key}">${esc(p.label)}</option>`).join(''));
+  $('#period').addEventListener('change', e => { state.yr = e.target.value; state.limit = PAGE; sync(true); });
+  let yt;
+  const yv = id => { const v = $(id).value.trim(); return /^\d{4}$/.test(v) ? v : ''; };
+  ['#ymin', '#ymax'].forEach(id => $(id).addEventListener('input', () => { clearTimeout(yt); yt = setTimeout(() => {
+    state.ymin = yv('#ymin'); state.ymax = yv('#ymax'); state.limit = PAGE; sync(true); }, 250); }));
+  $('#yclear').addEventListener('click', () => { state.yr = 'all'; state.ymin = state.ymax = ''; state.limit = PAGE; sync(true); });
   $('#legend').addEventListener('click', e => { const b = e.target.closest('button'); if (!b) return; state.cat = state.cat === b.dataset.cat ? 'all' : b.dataset.cat; state.limit = PAGE; sync(true); $('#grid').scrollIntoView({behavior:'smooth'}); });
   document.querySelector('.view-toggle').addEventListener('click', e => { const b = e.target.closest('button'); if (!b) return; state.view = b.dataset.view; sync(true); });
   $('#grid').addEventListener('click', e => {
