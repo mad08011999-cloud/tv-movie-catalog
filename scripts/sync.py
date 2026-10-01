@@ -24,6 +24,7 @@ Pipeline
 
 Unchanged source content produces byte-identical output (no git diff).
 """
+import inspect
 import argparse, asyncio, json, os, re, shutil, sys, unicodedata, urllib.request
 from collections import defaultdict
 from bs4 import BeautifulSoup
@@ -609,7 +610,7 @@ def build(parsed):
         if any(m["kind"] == "full" for m in g["members"]):
             n_full += 1
     next_full, next_idx = 0, n_full
-    report = {"rule": dedupe.__doc__.strip(), "merged_groups": []}
+    report = {"rule": inspect.cleandoc(dedupe.__doc__), "merged_groups": []}
     for g in groups:
         has_full = any(m["kind"] == "full" for m in g["members"])
         if has_full:
