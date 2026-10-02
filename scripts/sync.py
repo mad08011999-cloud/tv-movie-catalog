@@ -738,7 +738,8 @@ def copy_info(m, primary, g, members):
     return out
 
 
-# A local record may list "override_fields" (a subset of OPTIONAL_FIELDS): for those fields its value takes
+# A local record may list "override_fields" (OPTIONAL_FIELDS, or the FILL_FIELDS meta / mechanism /
+# confidence_flag / summary / character / note): for those fields its value takes
 # precedence over earlier sources (normally the primary / earliest copy wins). Overriding a value field also
 # takes its paired note from the same record, so a value is never shown with another source's note.
 NOTE_FIELD = {"pregnancy_outcome": "pregnancy_note", "pregnant_end": "pregnant_end_note", "kids_status": "kids_note",
@@ -833,6 +834,10 @@ def merge_group(g, new_id):
     donor = primary if psum else next((m for m in members if m["summary"]), None)
     same_story = [m for m in members if m is primary or m is donor or (psum and norm_summary(m["summary"]) == psum)]
     for f in FILL_FIELDS:
+        ov = next((m[f] for m in sorted(members, key=lambda m: (m["source_rank"], m["order"]))
+                   if f in overrides(m) and m[f]), "")
+        if ov:   # a curated record that overrides a card text field (e.g. a series card's summary) wins
+            rec[f] = ov; continue
         pool = same_story if f in STORY_FIELDS else members
         rec[f] = primary[f] or next((m[f] for m in pool if m[f]), "")
     for f in OPTIONAL_FIELDS:

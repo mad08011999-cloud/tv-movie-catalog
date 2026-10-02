@@ -174402,32 +174402,36 @@ window.CATALOG = {
    "title": "Dead Man's Gun",
    "subtitle": "",
    "year": "1997–1999",
-   "meta": "TV series · United States · English",
+   "meta": "TV anthology episode · United States / Canada · English (Showtime)",
    "mechanism": "Traditional hypnosis (pendulum, watch, voice or gaze)",
-   "confidence_flag": "Medium · fan-wiki scene log; title/year confirmed on Wikipedia",
-   "summary": "Dead Man's Gun is a 1997-1999 American anthology series that aired on the Showtime cable television network. Scene notes: ...but his hypnotic abilities have become so potent that the man's wife is also hypnotized.",
-   "character": "",
+   "confidence_flag": "Episode cross-checked (Wikipedia, TheTVDB, IMDb, CBSC); sources differ on whether sex is shown or implied",
+   "summary": "In S1E15 “The Mesmerizer” (first aired 7 Jan 1998 on Showtime), quack hypnotist Dr. Edgar Thurlow gains strong hypnotic power from the cursed gun. The wife of a dying, much older wealthy man has Thurlow hypnotize her husband to ease his pain; during the session she also falls into a trance, and Thurlow makes her undress and be drawn to him while her husband sits entranced nearby. One source says sex occurs; the CBSC ruling says only undressing and brief nudity are shown, with sex implied. Later Thurlow keeps the dying man in a trance between life and death (a Poe “Valdemar”-style plot), and it ends badly for Thurlow.",
+   "character": "Dr. Edgar Thurlow (Ted Shackelford), the hypnotist; the dying millionaire's wife — likely Charlotte Moorehead (Nicole Oliver), married to Dr. Thomas Moorehead (George Touliatos), but that pairing is unconfirmed",
    "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
-   "note": "",
-   "pregnancy_outcome": "not pregnant",
-   "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "note": "The wife's name (Charlotte Moorehead, played by Nicole Oliver) and her husband (Dr. Thomas Moorehead, George Touliatos) come from the episode cast list; which cast member plays the hypnotized wife is unconfirmed.",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "not mentioned in the cited sources",
    "episodes": [
     {
      "episode": "S1E15 “The Mesmerizer”",
-     "air_date": "1998-01-07",
-     "gist": "Womanizing hypnotist Edgar Thurlow hypnotizes a wealthy client's wife and becomes intimate with her while keeping the dying husband in a trance (Mental Block numbers it episode 12).",
+     "air_date": "7 Jan 1998",
+     "gist": "quack hypnotist Dr. Edgar Thurlow, empowered by the cursed gun, entrances a dying wealthy man's wife during her husband's pain-relief session and makes her undress and be drawn to him while the husband sits entranced (sex stated by Mental Block, only implied per the CBSC ruling); he later keeps the dying man in a trance between life and death, and it ends badly for him",
      "number_verified": true
     }
    ],
-   "kids_status": "not stated",
-   "kids_together": "no",
-   "married": "no",
-   "married_note": "she is married to the dying client",
-   "pregnant_end": "no",
-   "pregnant_end_note": "no pregnancy in the Mental Block scene log, the only detailed source",
-   "evidence": "single source — only Mental Block describes the sex under hypnosis; TheTVDB and Wikipedia confirm the womanizing hypnotist who falls for the client's wife",
-   "source_conflict": "Mental Block numbers “The Mesmerizer” as episode 12; Wikipedia and TheTVDB list it as season 1, episode 15.",
-   "fit_note": "Hypnotized-intimacy: in “The Mesmerizer” hypnotist Edgar Thurlow, his power boosted by the cursed gun, hypnotizes a dying millionaire's wife and has sex with her",
+   "kids_status": "unknown",
+   "kids_note": "not mentioned in the cited sources",
+   "kids_together": "unknown",
+   "kids_together_note": "not mentioned in the cited sources",
+   "married": "yes",
+   "married_note": "she is the dying client's wife",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not mentioned in the cited sources",
+   "evidence": "Wikipedia, TheTVDB and IMDb confirm S1E15 “The Mesmerizer” and the hypnotist plot; Mental Block and the I Think Therefore I Review season-1 review describe the trance seduction; the CBSC ruling describes the undressing scene (brief nudity, sex implied).",
+   "source_conflict": "Episode number: Mental Block lists it as episode 12, while Wikipedia, TheTVDB, IMDb and Rotten Tomatoes give S1E15. Sex: Mental Block says sex occurs; the CBSC ruling says only undressing and brief nudity are shown, with sex implied.",
+   "fit_note": "Hypnotized-intimacy: in “The Mesmerizer” hypnotist Edgar Thurlow, his power boosted by the cursed gun, entrances a dying millionaire's wife and draws her to him (sex stated by Mental Block, implied per the CBSC ruling)",
+   "already_married": "yes",
+   "already_married_note": "married to the dying, much older wealthy man who hired Thurlow",
    "format": "tv",
    "categories": [
     "fantasy",
@@ -174448,6 +174452,18 @@ window.CATALOG = {
     {
      "label": "TheTVDB · S1E15 “The Mesmerizer”",
      "url": "https://www.thetvdb.com/series/dead-mans-gun/episodes/121109"
+    },
+    {
+     "label": "CBSC ruling (CHRO-TV, “The Mesmerizer”)",
+     "url": "https://www.cbsc.ca/fr/decisions-du-ccnr/page/chro-tv-concernant-dead-mans-gun-the-mesmerizer/"
+    },
+    {
+     "label": "I Think Therefore I Review (season 1)",
+     "url": "https://ithinkthereforeireview.blogspot.com/2019/03/dead-mans-gun-season-one.html"
+    },
+    {
+     "label": "IMDb · “The Mesmerizer”",
+     "url": "https://www.imdb.com/title/tt0556130/"
     }
    ],
    "youtube_ids": [],
@@ -174557,11 +174573,11 @@ window.CATALOG = {
      "subtitle": "S1E15 · “The Mesmerizer”",
      "year": "1998",
      "meta": "TV anthology episode · United States / Canada · English (Showtime)",
-     "summary": "Womanizing hypnotist Edgar Thurlow, his power boosted by the cursed gun, hypnotizes a dying millionaire's wife and has sex with her while she is entranced.",
-     "character": "The millionaire's wife and Edgar Thurlow",
-     "note": "",
+     "summary": "In S1E15 “The Mesmerizer” (first aired 7 Jan 1998 on Showtime), quack hypnotist Dr. Edgar Thurlow gains strong hypnotic power from the cursed gun. The wife of a dying, much older wealthy man has Thurlow hypnotize her husband to ease his pain; during the session she also falls into a trance, and Thurlow makes her undress and be drawn to him while her husband sits entranced nearby. One source says sex occurs; the CBSC ruling says only undressing and brief nudity are shown, with sex implied. Later Thurlow keeps the dying man in a trance between life and death (a Poe “Valdemar”-style plot), and it ends badly for Thurlow.",
+     "character": "Dr. Edgar Thurlow (Ted Shackelford), the hypnotist; the dying millionaire's wife — likely Charlotte Moorehead (Nicole Oliver), married to Dr. Thomas Moorehead (George Touliatos), but that pairing is unconfirmed",
+     "note": "The wife's name (Charlotte Moorehead, played by Nicole Oliver) and her husband (Dr. Thomas Moorehead, George Touliatos) come from the episode cast list; which cast member plays the hypnotized wife is unconfirmed.",
      "mechanism": "Hypnosis amplified by a cursed gun",
-     "confidence_flag": "Single source for the sexual element",
+     "confidence_flag": "Episode cross-checked (Wikipedia, TheTVDB, IMDb, CBSC); sources differ on whether sex is shown or implied",
      "categories": [
       "hypno-intimacy",
       "adult-hypnosis",
@@ -174578,28 +174594,45 @@ window.CATALOG = {
        "url": "https://en.wikipedia.org/wiki/Dead_Man%27s_Gun"
       },
       {
-       "label": "TheTVDB",
+       "label": "TheTVDB · S1E15 “The Mesmerizer”",
        "url": "https://www.thetvdb.com/series/dead-mans-gun/episodes/121109"
+      },
+      {
+       "label": "CBSC ruling (CHRO-TV, “The Mesmerizer”)",
+       "url": "https://www.cbsc.ca/fr/decisions-du-ccnr/page/chro-tv-concernant-dead-mans-gun-the-mesmerizer/"
+      },
+      {
+       "label": "I Think Therefore I Review (season 1)",
+       "url": "https://ithinkthereforeireview.blogspot.com/2019/03/dead-mans-gun-season-one.html"
+      },
+      {
+       "label": "IMDb · “The Mesmerizer”",
+       "url": "https://www.imdb.com/title/tt0556130/"
       }
      ],
      "pregnancy_outcome": "unknown",
-     "pregnancy_note": "not mentioned",
+     "pregnancy_note": "not mentioned in the cited sources",
      "episodes": [
       {
        "episode": "S1E15 “The Mesmerizer”",
        "air_date": "7 Jan 1998",
-       "gist": "hypnotist entrances a wealthy client's wife and has sex with her while keeping the husband in a trance",
+       "gist": "quack hypnotist Dr. Edgar Thurlow, empowered by the cursed gun, entrances a dying wealthy man's wife during her husband's pain-relief session and makes her undress and be drawn to him while the husband sits entranced (sex stated by Mental Block, only implied per the CBSC ruling); he later keeps the dying man in a trance between life and death, and it ends badly for him",
        "number_verified": true
       }
      ],
      "kids_status": "unknown",
-     "kids_together": "no",
-     "married": "no",
-     "married_note": "she is married to the dying client",
+     "kids_note": "not mentioned in the cited sources",
+     "kids_together": "unknown",
+     "kids_together_note": "not mentioned in the cited sources",
+     "married": "yes",
+     "married_note": "she is the dying client's wife",
      "pregnant_end": "unknown",
-     "pregnant_end_note": "not mentioned",
-     "evidence": "Single source — only Mental Block describes the sex under hypnosis; Wikipedia/TheTVDB confirm the hypnotist plot",
-     "source_conflict": "Mental Block numbers the episode 12; Wikipedia and TheTVDB give S1E15.",
+     "pregnant_end_note": "not mentioned in the cited sources",
+     "evidence": "Wikipedia, TheTVDB and IMDb confirm S1E15 “The Mesmerizer” and the hypnotist plot; Mental Block and the I Think Therefore I Review season-1 review describe the trance seduction; the CBSC ruling describes the undressing scene (brief nudity, sex implied).",
+     "source_conflict": "Episode number: Mental Block lists it as episode 12, while Wikipedia, TheTVDB, IMDb and Rotten Tomatoes give S1E15. Sex: Mental Block says sex occurs; the CBSC ruling says only undressing and brief nudity are shown, with sex implied.",
+     "fit_note": "Hypnotized-intimacy: in “The Mesmerizer” hypnotist Edgar Thurlow, his power boosted by the cursed gun, entrances a dying millionaire's wife and draws her to him (sex stated by Mental Block, implied per the CBSC ruling)",
+     "already_married": "yes",
+     "already_married_note": "married to the dying, much older wealthy man who hired Thurlow",
      "distinct_story": true,
      "matched_by": "match_title"
     }
@@ -174677,9 +174710,9 @@ window.CATALOG = {
      "format": "tv",
      "meta": "TV anthology episode · United States / Canada · English (Showtime)",
      "mechanism": "Hypnosis amplified by a cursed gun",
-     "confidence_flag": "Single source for the sexual element",
-     "summary": "Womanizing hypnotist Edgar Thurlow, his power boosted by the cursed gun, hypnotizes a dying millionaire's wife and has sex with her while she is entranced.",
-     "character": "The millionaire's wife and Edgar Thurlow",
+     "confidence_flag": "Episode cross-checked (Wikipedia, TheTVDB, IMDb, CBSC); sources differ on whether sex is shown or implied",
+     "summary": "In S1E15 “The Mesmerizer” (first aired 7 Jan 1998 on Showtime), quack hypnotist Dr. Edgar Thurlow gains strong hypnotic power from the cursed gun. The wife of a dying, much older wealthy man has Thurlow hypnotize her husband to ease his pain; during the session she also falls into a trance, and Thurlow makes her undress and be drawn to him while her husband sits entranced nearby. One source says sex occurs; the CBSC ruling says only undressing and brief nudity are shown, with sex implied. Later Thurlow keeps the dying man in a trance between life and death (a Poe “Valdemar”-style plot), and it ends badly for Thurlow.",
+     "character": "Dr. Edgar Thurlow (Ted Shackelford), the hypnotist; the dying millionaire's wife — likely Charlotte Moorehead (Nicole Oliver), married to Dr. Thomas Moorehead (George Touliatos), but that pairing is unconfirmed",
      "categories": [
       "hypno-intimacy",
       "adult-hypnosis",
@@ -174696,30 +174729,65 @@ window.CATALOG = {
        "url": "https://en.wikipedia.org/wiki/Dead_Man%27s_Gun"
       },
       {
-       "label": "TheTVDB",
+       "label": "TheTVDB · S1E15 “The Mesmerizer”",
        "url": "https://www.thetvdb.com/series/dead-mans-gun/episodes/121109"
+      },
+      {
+       "label": "CBSC ruling (CHRO-TV, “The Mesmerizer”)",
+       "url": "https://www.cbsc.ca/fr/decisions-du-ccnr/page/chro-tv-concernant-dead-mans-gun-the-mesmerizer/"
+      },
+      {
+       "label": "I Think Therefore I Review (season 1)",
+       "url": "https://ithinkthereforeireview.blogspot.com/2019/03/dead-mans-gun-season-one.html"
+      },
+      {
+       "label": "IMDb · “The Mesmerizer”",
+       "url": "https://www.imdb.com/title/tt0556130/"
       }
      ],
      "episodes": [
       {
        "episode": "S1E15 “The Mesmerizer”",
        "air_date": "7 Jan 1998",
-       "gist": "hypnotist entrances a wealthy client's wife and has sex with her while keeping the husband in a trance",
+       "gist": "quack hypnotist Dr. Edgar Thurlow, empowered by the cursed gun, entrances a dying wealthy man's wife during her husband's pain-relief session and makes her undress and be drawn to him while the husband sits entranced (sex stated by Mental Block, only implied per the CBSC ruling); he later keeps the dying man in a trance between life and death, and it ends badly for him",
        "number_verified": true
       }
      ],
-     "married": "no",
-     "married_note": "she is married to the dying client",
+     "married": "yes",
+     "married_note": "she is the dying client's wife",
      "pregnant_end": "unknown",
-     "pregnant_end_note": "not mentioned",
+     "pregnant_end_note": "not mentioned in the cited sources",
      "pregnancy_outcome": "unknown",
-     "pregnancy_note": "not mentioned",
-     "kids_together": "no",
+     "pregnancy_note": "not mentioned in the cited sources",
+     "kids_together": "unknown",
+     "kids_together_note": "not mentioned in the cited sources",
      "kids_status": "unknown",
-     "evidence": "Single source — only Mental Block describes the sex under hypnosis; Wikipedia/TheTVDB confirm the hypnotist plot",
-     "source_conflict": "Mental Block numbers the episode 12; Wikipedia and TheTVDB give S1E15.",
+     "kids_note": "not mentioned in the cited sources",
+     "evidence": "Wikipedia, TheTVDB and IMDb confirm S1E15 “The Mesmerizer” and the hypnotist plot; Mental Block and the I Think Therefore I Review season-1 review describe the trance seduction; the CBSC ruling describes the undressing scene (brief nudity, sex implied).",
+     "source_conflict": "Episode number: Mental Block lists it as episode 12, while Wikipedia, TheTVDB, IMDb and Rotten Tomatoes give S1E15. Sex: Mental Block says sex occurs; the CBSC ruling says only undressing and brief nudity are shown, with sex implied.",
+     "fit_note": "Hypnotized-intimacy: in “The Mesmerizer” hypnotist Edgar Thurlow, his power boosted by the cursed gun, entrances a dying millionaire's wife and draws her to him (sex stated by Mental Block, implied per the CBSC ruling)",
      "provenance": "Hypnosis-assault research pass, 30 Sep 2026 (adult women only; minors/teen characters excluded; non-graphic wording; each record cross-checked where possible)",
+     "note": "The wife's name (Charlotte Moorehead, played by Nicole Oliver) and her husband (Dr. Thomas Moorehead, George Touliatos) come from the episode cast list; which cast member plays the hypnotized wife is unconfirmed.",
      "group": "Hypnotized woman sexually assaulted under hypnosis (Sep 2026)",
+     "already_married": "yes",
+     "already_married_note": "married to the dying, much older wealthy man who hired Thurlow",
+     "override_fields": [
+      "meta",
+      "confidence_flag",
+      "summary",
+      "character",
+      "note",
+      "episodes",
+      "married",
+      "already_married",
+      "pregnant_end",
+      "pregnancy_outcome",
+      "kids_together",
+      "kids_status",
+      "evidence",
+      "source_conflict",
+      "fit_note"
+     ],
      "catalog_ids": [
       1169
      ]
