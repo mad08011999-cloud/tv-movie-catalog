@@ -6,50 +6,7 @@
  "category_labels": {
   "belly-kissed": "Pregnant belly kissed / touched by kids"
  },
- "records": [
-  {
-   "title": "Peppa Pig — Mummy Rabbit's Bump",
-   "year": "2011",
-   "match_title": "Peppa Pig — Mummy Rabbit's Bump",
-   "match_year": "2011",
-   "standalone": true,
-   "format": "tv",
-   "meta": "Children's animated TV series · United Kingdom · English",
-   "mechanism": "Child listens to a pregnant mother's belly (wholesome)",
-   "confidence_flag": "High · episode transcript + IMDb",
-   "summary": "Rebecca and Richard Rabbit arrive with the news that their mummy has a bump in her tummy. Mummy Rabbit (visibly pregnant) invites Peppa to listen; Peppa rests her head on Mummy Rabbit's tummy, hears the baby's heartbeat and feels it kick, and the children then pick names (Rosie / Robbie) before the twins are born.",
-   "character": "Mummy Rabbit (pregnant) · Peppa Pig (child) · Rebecca and Richard Rabbit (her children) · George, Suzy Sheep, Pedro Pony",
-   "categories": [
-    "belly-kissed"
-   ],
-   "episodes": [
-    {
-     "episode": "S04E10 “Mummy Rabbit's Bump”",
-     "air_date": "2011-05-27",
-     "gist": "Peppa puts her head on pregnant Mummy Rabbit's tummy to hear the baby, which kicks.",
-     "number_verified": true
-    }
-   ],
-   "sources": [
-    {
-     "label": "Peppa Pig Wiki · transcript",
-     "url": "https://peppapig.fandom.com/wiki/Mummy_Rabbit%27s_Bump/Transcript"
-    },
-    {
-     "label": "IMDb · S4.E10",
-     "url": "https://www.imdb.com/title/tt5650952/"
-    },
-    {
-     "label": "Peppa Pig — Official Channel (YouTube)",
-     "url": "https://www.youtube.com/watch?v=B2F1oXEKuSY"
-    }
-   ],
-   "provenance": "Pregnant-belly-touched-by-kids research pass, 1 Oct 2026 (wholesome family content only)",
-   "note": "Peppa is a family friend, not Mummy Rabbit's own child; Mummy Rabbit's own children Rebecca and Richard are present but do not touch her tummy on screen.",
-   "rating": "TV-Y",
-   "adult": "no"
-  }
- ],
+ "records": [],
  "dropped": [
   {
    "title": "Sesame Street (Maria's pregnancy, Eps. 2568–2574 and 3583)",
@@ -65,6 +22,11 @@
    "title": "Mirai",
    "year": "2018",
    "reason": "rejected: no pregnancy scene (baby is born before the film starts)"
+  },
+  {
+   "title": "Peppa Pig — Mummy Rabbit's Bump",
+   "year": "2011",
+   "reason": "Removed at user request: animal (anthropomorphic) characters; catalog keeps human-character titles only."
   }
  ]
 }
