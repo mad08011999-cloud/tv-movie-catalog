@@ -1,6 +1,6 @@
 {
  "description": "Curated \"Watch free\" links: legitimate free or legal sources only (free-with-ads services, library services, official rights-holder/network YouTube channels, public-domain films on the Internet Archive). Each link was matched to the entry by title and year (JustWatch availability lookup for US/IN, YouTube channel + title + year check, or Internet Archive item + public-domain basis) and its landing page was checked. Applied by scripts/sync.py by exact title + year; never scraped or overwritten.",
- "checked": "2026-09-30",
+ "checked": "2026-10-01",
  "records": [
   {
    "title": "The Curse of the Jade Scorpion",
@@ -9166,6 +9166,1613 @@
      "note": "",
      "verified_via": "JustWatch US (Isle of the Snake People, 1971); landing page checked",
      "checked": "2026-09-30"
+    }
+   ]
+  },
+  {
+   "title": "Venus in Furs",
+   "year": "1969",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/388125/venus-in-furs",
+     "region": "US",
+     "verified_via": "JustWatch US (Venus in Furs, 1969); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Last Tango in Paris",
+   "year": "1972",
+   "links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/1ccec4e7851c59fdb0f676ef81b0ad62/last-tango-in-paris?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Last Tango in Paris, 1972); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "The Teacher",
+   "year": "1974",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100009274/the-teacher",
+     "region": "US",
+     "verified_via": "JustWatch US (The Teacher, 1974); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Dressed to Kill",
+   "year": "1980",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/404573/dressed-to-kill",
+     "region": "US",
+     "verified_via": "JustWatch US (Dressed to Kill, 1980); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/2976b80e9db85206a0e15ab5e0c58e0a/dressed-to-kill?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Dressed to Kill, 1980); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "American Nightmare",
+   "year": "1983",
+   "links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/ef80ad18c9915eaca6c8e29e6ffdb8a9/american-nightmare?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (American Nightmare, 1983); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Blind Date",
+   "year": "1984",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/596184/cita-a-ciegas-doblado",
+     "region": "US",
+     "verified_via": "JustWatch US (Blind Date, 1984); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/blind-date-1984-1-1?utm_medium=deeplink&utm_source=justwatch",
+     "region": "US",
+     "verified_via": "JustWatch US (Blind Date, 1984); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Crimes of Passion",
+   "year": "1984",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100016798/crimes-of-passion-1984",
+     "region": "US",
+     "verified_via": "JustWatch US (Crimes of Passion, 1984); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/crimes-of-passion-1984-1984-1-1?utm_medium=deeplink&utm_source=justwatch",
+     "region": "US",
+     "verified_via": "JustWatch US (Crimes of Passion, 1984); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "The Bedroom Window",
+   "year": "1987",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/301313/the-bedroom-window",
+     "region": "US",
+     "verified_via": "JustWatch US (The Bedroom Window, 1987); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Five Corners",
+   "year": "1987",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/500730/five-corners",
+     "region": "US",
+     "verified_via": "JustWatch US (Five Corners, 1987); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/d8411c41023c555ebcf804dd21bded4e/five-corners?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Five Corners, 1987); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Summer Heat",
+   "year": "1987",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/714835/summer-heat",
+     "region": "US",
+     "verified_via": "JustWatch US (Summer Heat, 1987); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/4f5b06efc6f354bba6584f88d92b741f/summer-heat?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Summer Heat, 1987); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Call Me",
+   "year": "1988",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/321116/call-me",
+     "region": "US",
+     "verified_via": "JustWatch US (Call Me, 1988); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "The Girl in a Swing",
+   "year": "1988",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/706961/the-girl-in-a-swing",
+     "region": "US",
+     "verified_via": "JustWatch US (The Girl in a Swing, 1988); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Masquerade",
+   "year": "1988",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/301926/masquerade",
+     "region": "US",
+     "verified_via": "JustWatch US (Masquerade, 1988); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Party Line",
+   "year": "1988",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/520075/party-line",
+     "region": "US",
+     "verified_via": "JustWatch US (Party Line, 1988); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/6930cab4be3253e8ab13a69c8b751154/party-line?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Party Line, 1988); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Jezebel's Kiss",
+   "year": "1990",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/679425/jezebel-s-kiss",
+     "region": "US",
+     "verified_via": "JustWatch US (Jezebel's Kiss, 1990); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Fatal Bond",
+   "year": "1991",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/495773/fatal-bond",
+     "region": "US",
+     "verified_via": "JustWatch US (Fatal Bond, 1991); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/f7b4daaaaeef5cea88336503496fa0d2/fatal-bond?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Fatal Bond, 1991); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Shattered",
+   "year": "1991",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/302730/shattered",
+     "region": "US",
+     "verified_via": "JustWatch US (Shattered, 1991); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Animal Instincts",
+   "year": "1992",
+   "links": [
+    {
+     "service": "Xumo Play",
+     "url": "https://play.xumo.com/free-movies/animal-instincts/XM0GAHZHOIGJ6G",
+     "region": "US",
+     "verified_via": "JustWatch US (Animal Instincts, 1992); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Single White Female",
+   "year": "1992",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/658076/single-white-female",
+     "region": "US",
+     "verified_via": "JustWatch US (Single White Female, 1992); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Betrayal of the Dove",
+   "year": "1993",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/511757/betrayal-of-the-dove",
+     "region": "US",
+     "verified_via": "JustWatch US (Betrayal of the Dove, 1993); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Body of Influence",
+   "year": "1993",
+   "links": [
+    {
+     "service": "Xumo Play",
+     "url": "https://play.xumo.com/free-movies/body-of-influence/XM0YJ1GVAJ3N6G",
+     "region": "US",
+     "verified_via": "JustWatch US (Body of Influence, 1993); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Dream Lover",
+   "year": "1993",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/303079/dream-lover",
+     "region": "US",
+     "verified_via": "JustWatch US (Dream Lover, 1993); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "A House in the Hills",
+   "year": "1993",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/555895/a-house-in-the-hills",
+     "region": "US",
+     "verified_via": "JustWatch US (A House in the Hills, 1993); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Romeo Is Bleeding",
+   "year": "1993",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100002770/romeo-is-bleeding",
+     "region": "US",
+     "verified_via": "JustWatch US (Romeo Is Bleeding, 1993); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Sins of Desire",
+   "year": "1993",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/695561/sins-of-desire",
+     "region": "US",
+     "verified_via": "JustWatch US (Sins of Desire, 1993); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "China Moon",
+   "year": "1994",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/312413/china-moon",
+     "region": "US",
+     "verified_via": "JustWatch US (China Moon, 1994); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/b4359148241b540ea7ef28e25cfeb06d/china-moon?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (China Moon, 1994); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Dangerous Touch",
+   "year": "1994",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100051996/dangerous-touch",
+     "region": "US",
+     "verified_via": "JustWatch US (Dangerous Touch, 1994); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Love Is a Gun",
+   "year": "1994",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/376046/love-is-a-gun",
+     "region": "US",
+     "verified_via": "JustWatch US (Love Is a Gun, 1994); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "The Maddening",
+   "year": "1995",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/555891/the-maddening",
+     "region": "US",
+     "verified_via": "JustWatch US (The Maddening, 1995); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Mirror, Mirror III: The Voyeur",
+   "year": "1995",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/680976/mirror-mirror-3-the-voyeur",
+     "region": "US",
+     "verified_via": "JustWatch US (Mirror, Mirror III: The Voyeur, 1995); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Exit in Red",
+   "year": "1996",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100052451/exit-in-red",
+     "region": "US",
+     "verified_via": "JustWatch US (Exit in Red, 1996); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Naked Souls",
+   "year": "1996",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100006035/naked-souls",
+     "region": "US",
+     "verified_via": "JustWatch US (Naked Souls, 1996); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "This World, Then the Fireworks",
+   "year": "1997",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100007986/this-world-then-the-fireworks",
+     "region": "US",
+     "verified_via": "JustWatch US (This World, Then the Fireworks, 1997); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "New Rose Hotel",
+   "year": "1998",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/506679/new-rose-hotel",
+     "region": "US",
+     "verified_via": "JustWatch US (New Rose Hotel, 1998); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "Xumo Play",
+     "url": "https://play.xumo.com/free-movies/new-rose-hotel/XM0XLQ4FQFCRHF",
+     "region": "US",
+     "verified_via": "JustWatch US (New Rose Hotel, 1998); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Zebra Lounge",
+   "year": "2001",
+   "links": [
+    {
+     "service": "Xumo Play",
+     "url": "https://play.xumo.com/free-movies/zebra-lounge/XM0VYLLKXAGIKN",
+     "region": "US",
+     "verified_via": "JustWatch US (Zebra Lounge, 2001); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Killing Me Softly",
+   "year": "2002",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/438114/killing-me-softly",
+     "region": "US",
+     "verified_via": "JustWatch US (Killing Me Softly, 2002); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Trois 2: Pandora's Box",
+   "year": "2002",
+   "links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/trois-2-pandoras-box-2002-1-1?utm_medium=deeplink&utm_source=justwatch",
+     "region": "US",
+     "verified_via": "JustWatch US (Trois 2: Pandora's Box, 2002); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/cb580f35c8a45ec7865e827ef5a004a9/trois-2-pandoras-box?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Trois 2: Pandora's Box, 2002); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Dot the i",
+   "year": "2003",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/675374/dot-the-i",
+     "region": "US",
+     "verified_via": "JustWatch US (Dot the i, 2003); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/80587a60120d54e484e3032cbb78551d/dot-the-i?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Dot the i, 2003); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Decoys",
+   "year": "2004",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/625728/decoys",
+     "region": "US",
+     "verified_via": "JustWatch US (Decoys, 2004); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/decoys-2004-1-1?utm_medium=deeplink&utm_source=justwatch",
+     "region": "US",
+     "verified_via": "JustWatch US (Decoys, 2004); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Boarding Gate",
+   "year": "2007",
+   "links": [
+    {
+     "service": "Xumo Play",
+     "url": "https://play.xumo.com/free-movies/boarding-gate/XM04YP3TODR3LM",
+     "region": "US",
+     "verified_via": "JustWatch US (Boarding Gate, 2007); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Chloe",
+   "year": "2009",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/539268/chloe",
+     "region": "US",
+     "verified_via": "JustWatch US (Chloe, 2009); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "The Skin I Live In",
+   "year": "2011",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100009134/the-skin-i-live-in",
+     "region": "US",
+     "verified_via": "JustWatch US (The Skin I Live In, 2011); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Plush",
+   "year": "2013",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/480283/plush",
+     "region": "US",
+     "verified_via": "JustWatch US (Plush, 2013); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/plush-1-1?utm_medium=deeplink&utm_source=justwatch",
+     "region": "US",
+     "verified_via": "JustWatch US (Plush, 2013); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Innocent Thing",
+   "year": "2014",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/614117/innocent-thing",
+     "region": "US",
+     "verified_via": "JustWatch US (Innocent Thing, 2014); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "Xumo Play",
+     "url": "https://play.xumo.com/free-movies/innocent-thing/XM0V04L0UY6G8W",
+     "region": "US",
+     "verified_via": "JustWatch US (Innocent Thing, 2014); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "The Loft",
+   "year": "2014",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100046685/the-loft",
+     "region": "US",
+     "verified_via": "JustWatch US (The Loft, 2014); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/71771ed9439358f38f489473815e32f4/the-loft?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (The Loft, 2014); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Careful What You Wish For",
+   "year": "2015",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/485909/careful-what-you-wish-for",
+     "region": "US",
+     "verified_via": "JustWatch US (Careful What You Wish For, 2015); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/e59e39b6a910584b9337789249bf4fe9/careful-what-you-wish-for?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Careful What You Wish For, 2015); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Fatale",
+   "year": "2020",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100006072/fatale",
+     "region": "US",
+     "verified_via": "JustWatch US (Fatale, 2020); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "The Voyeurs",
+   "year": "2021",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100024750/the-voyeurs",
+     "region": "US",
+     "verified_via": "JustWatch US (The Voyeurs, 2021); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Lady Chatterley's Lover",
+   "year": "1981",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/682153/lady-chatterley-s-lover",
+     "region": "US",
+     "verified_via": "JustWatch US (Lady Chatterley's Lover, 1981); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "The Story of O",
+   "year": "1975",
+   "links": [
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/the-story-of-o-1975-1-1?utm_medium=deeplink&utm_source=justwatch",
+     "region": "US",
+     "verified_via": "JustWatch US (The Story of O, 1975); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Mortal Passions",
+   "year": "1989",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/547333/mortal-passions",
+     "region": "US",
+     "verified_via": "JustWatch US (Mortal Passions, 1989); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Red Shoe Diaries",
+   "year": "1992",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/323728/zalman-king-s-red-shoe-diaries-the-movie",
+     "region": "US",
+     "verified_via": "JustWatch US (Red Shoe Diaries, 1992); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Macabre",
+   "year": "1980",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/485865/macabre",
+     "region": "US",
+     "verified_via": "JustWatch US (Macabre, 1980); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/macabre-1979-1-1?utm_medium=deeplink&utm_source=justwatch",
+     "region": "US",
+     "verified_via": "JustWatch US (Macabre, 1980); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "The Seduction",
+   "year": "1982",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100019648/the-seduction",
+     "region": "US",
+     "verified_via": "JustWatch US (The Seduction, 1982); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/0c0e04cd3b1054fd8c0819b4b6ae85e2/the-seduction?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (The Seduction, 1982); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "The Hunger",
+   "year": "1983",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100045171/the-hunger",
+     "region": "US",
+     "verified_via": "JustWatch US (The Hunger, 1983); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Body Double",
+   "year": "1984",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100029519/body-double",
+     "region": "US",
+     "verified_via": "JustWatch US (Body Double, 1984); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/48f34fedb2725af1b058528aef5b17d0/body-double?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Body Double, 1984); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Fear City",
+   "year": "1984",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/272767/fear-city",
+     "region": "US",
+     "verified_via": "JustWatch US (Fear City, 1984); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/fear-city-1-1?utm_medium=deeplink&utm_source=justwatch",
+     "region": "US",
+     "verified_via": "JustWatch US (Fear City, 1984); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Jagged Edge",
+   "year": "1985",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100039096/jagged-edge",
+     "region": "US",
+     "verified_via": "JustWatch US (Jagged Edge, 1985); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "52 Pick-Up",
+   "year": "1986",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/466393/52-pick-up",
+     "region": "US",
+     "verified_via": "JustWatch US (52 Pick-Up, 1986); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/19a091abfd6c53bc9de0c5e2a6cf7aec/52-pick-up?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (52 Pick-Up, 1986); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Slam Dance",
+   "year": "1987",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/302251/slam-dance",
+     "region": "US",
+     "verified_via": "JustWatch US (Slam Dance, 1987); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Stripped to Kill",
+   "year": "1987",
+   "links": [
+    {
+     "service": "Xumo Play",
+     "url": "https://play.xumo.com/free-movies/stripped-to-kill/XM0LP0LD8UXKO9",
+     "region": "US",
+     "verified_via": "JustWatch US (Stripped to Kill, 1987); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Dangerous Love",
+   "year": "1988",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100047571/dangerous-love",
+     "region": "US",
+     "verified_via": "JustWatch US (Dangerous Love, 1988); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "The Drifter",
+   "year": "1988",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/594627/the-drifter",
+     "region": "US",
+     "verified_via": "JustWatch US (The Drifter, 1988); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Grievous Bodily Harm",
+   "year": "1988",
+   "links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/01f447d1d15c56f6a6788f429ad034de/gbh-grievous-bodily-harm?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Grievous Bodily Harm, 1988); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Last Rites",
+   "year": "1988",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/305869/last-rites",
+     "region": "US",
+     "verified_via": "JustWatch US (Last Rites, 1988); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/972407c4b7fb5a7f8b8f5d2d21bbdbe7/last-rites?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Last Rites, 1988); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Spellbinder",
+   "year": "1988",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/712239/spellbinder",
+     "region": "US",
+     "verified_via": "JustWatch US (Spellbinder, 1988); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/c0d3f96cca25544a990d24667cf84958/spellbinder?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Spellbinder, 1988); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Kill Me Again",
+   "year": "1989",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/711208/kill-me-again",
+     "region": "US",
+     "verified_via": "JustWatch US (Kill Me Again, 1989); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/af303743c4f352d1b50567326a5de2e5/kill-me-again?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Kill Me Again, 1989); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Twisted Obsession",
+   "year": "1989",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100015829/twisted-obsession",
+     "region": "US",
+     "verified_via": "JustWatch US (Twisted Obsession, 1989); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/2271462048ef5c9b99e33c98a4aee02b/twisted-obsession?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Twisted Obsession, 1989); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "After Dark, My Sweet",
+   "year": "1990",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/542031/after-dark-my-sweet",
+     "region": "US",
+     "verified_via": "JustWatch US (After Dark, My Sweet, 1990); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Deceptions",
+   "year": "1990",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/495743/deceptions",
+     "region": "US",
+     "verified_via": "JustWatch US (Deceptions, 1990); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/deceptions-multicom-1990-1-1?utm_medium=deeplink&utm_source=justwatch",
+     "region": "US",
+     "verified_via": "JustWatch US (Deceptions, 1990); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Fatal Charm",
+   "year": "1990",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/555699/fatal-charm",
+     "region": "US",
+     "verified_via": "JustWatch US (Fatal Charm, 1990); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "The Hot Spot",
+   "year": "1990",
+   "links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/9a86dd71e53e5b019a34a8335f1f959f/the-hot-spot?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (The Hot Spot, 1990); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Lower Level",
+   "year": "1991",
+   "links": [
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/c90df2698c67563b895381e3acce4473/lower-level?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Lower Level, 1991); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Whore",
+   "year": "1991",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100043350/whore",
+     "region": "US",
+     "verified_via": "JustWatch US (Whore, 1991); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Body Chemistry II: Voice of a Stranger",
+   "year": "1992",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/493017/body-chemistry-ii-the-voice-of-a-stranger",
+     "region": "US",
+     "verified_via": "JustWatch US (Body Chemistry II: Voice of a Stranger, 1992); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Dance with Death",
+   "year": "1992",
+   "links": [
+    {
+     "service": "Xumo Play",
+     "url": "https://play.xumo.com/free-movies/dance-with-death/XM008P6IFG3TXA",
+     "region": "US",
+     "verified_via": "JustWatch US (Dance with Death, 1992); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Acting on Impulse",
+   "year": "1993",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100039645/acting-on-impulse",
+     "region": "US",
+     "verified_via": "JustWatch US (Acting on Impulse, 1993); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "Xumo Play",
+     "url": "https://play.xumo.com/free-movies/acting-on-impulse/XM0KMXIQDN5ZQB",
+     "region": "US",
+     "verified_via": "JustWatch US (Acting on Impulse, 1993); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Body of Evidence",
+   "year": "1993",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/305010/body-of-evidence",
+     "region": "US",
+     "verified_via": "JustWatch US (Body of Evidence, 1993); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Hexed",
+   "year": "1993",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/691819/hexed",
+     "region": "US",
+     "verified_via": "JustWatch US (Hexed, 1993); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/e1f9801a86a9536681a5a717584f523b/hexed?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Hexed, 1993); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Snapdragon",
+   "year": "1993",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/534830/snapdragon",
+     "region": "US",
+     "verified_via": "JustWatch US (Snapdragon, 1993); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Criminal Passion",
+   "year": "1994",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100049307/angel-of-desire",
+     "region": "US",
+     "verified_via": "JustWatch US (Criminal Passion, 1994); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/8d14071bd6fb5c7ba30f84e00f33c105/criminal-passion?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Criminal Passion, 1994); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Fleshtone",
+   "year": "1994",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/553752/fleshtone",
+     "region": "US",
+     "verified_via": "JustWatch US (Fleshtone, 1994); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "The Last Seduction",
+   "year": "1994",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/463713/the-last-seduction",
+     "region": "US",
+     "verified_via": "JustWatch US (The Last Seduction, 1994); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "Pluto TV",
+     "url": "https://pluto.tv/on-demand/movies/the-last-seduction-1994-1-1?utm_medium=deeplink&utm_source=justwatch",
+     "region": "US",
+     "verified_via": "JustWatch US (The Last Seduction, 1994); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Beyond Desire",
+   "year": "1995",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100055862/beyond-desire",
+     "region": "US",
+     "verified_via": "JustWatch US (Beyond Desire, 1995); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Never Talk to Strangers",
+   "year": "1995",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/695523/never-talk-to-strangers",
+     "region": "US",
+     "verified_via": "JustWatch US (Never Talk to Strangers, 1995); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Showgirls",
+   "year": "1995",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/312196/showgirls",
+     "region": "US",
+     "verified_via": "JustWatch US (Showgirls, 1995); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "To the Limit",
+   "year": "1995",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/449521/to-the-limit",
+     "region": "US",
+     "verified_via": "JustWatch US (To the Limit, 1995); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/84d43c56055b5545b3e978b82bbf4e41/to-the-limit?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (To the Limit, 1995); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Wild Side",
+   "year": "1995",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100046662/wild-side",
+     "region": "US",
+     "verified_via": "JustWatch US (Wild Side, 1995); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/f7c5a2ec154c5654a16b0161440e1a64/wild-side?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Wild Side, 1995); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "The Juror",
+   "year": "1996",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100046866/the-juror",
+     "region": "US",
+     "verified_via": "JustWatch US (The Juror, 1996); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "The Ex",
+   "year": "1997",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100040855/the-ex",
+     "region": "US",
+     "verified_via": "JustWatch US (The Ex, 1997); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "The Last Seduction II",
+   "year": "1999",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100052666/the-last-seduction-ii",
+     "region": "US",
+     "verified_via": "JustWatch US (The Last Seduction II, 1999); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Raw Nerve",
+   "year": "1999",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100002186/raw-nerve",
+     "region": "US",
+     "verified_via": "JustWatch US (Raw Nerve, 1999); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/2fe1230239c15112a3d6d4d337447379/raw-nerve?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Raw Nerve, 1999); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Mercy",
+   "year": "2000",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100028770/mercy",
+     "region": "US",
+     "verified_via": "JustWatch US (Mercy, 2000); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Trois",
+   "year": "2000",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/670534/trois",
+     "region": "US",
+     "verified_via": "JustWatch US (Trois, 2000); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Cold Heart",
+   "year": "2001",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/456890/cold-heart",
+     "region": "US",
+     "verified_via": "JustWatch US (Cold Heart, 2001); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/4f907801691b53c8a990c93999375cdb/cold-heart?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Cold Heart, 2001); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Lantana",
+   "year": "2001",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100058196/lantana",
+     "region": "US",
+     "verified_via": "JustWatch US (Lantana, 2001); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/997e87b4dd3c4a391135c1634eee5479/lantana-broadcast-edit?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Lantana, 2001); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Thy Neighbor's Wife",
+   "year": "2001",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/702457/midnight-vendetta",
+     "region": "US",
+     "verified_via": "JustWatch US (Thy Neighbor's Wife, 2001); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/fd2a7f4a609f548b94b15a61748810f4/midnight-vendetta?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Thy Neighbor's Wife, 2001); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Femme Fatale",
+   "year": "2002",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100058178/femme-fatale",
+     "region": "US",
+     "verified_via": "JustWatch US (Femme Fatale, 2002); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/be2eb15c5fe953a2a6f912067ae6c45a/femme-fatale?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Femme Fatale, 2002); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Motives",
+   "year": "2004",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100056468/motives",
+     "region": "US",
+     "verified_via": "JustWatch US (Motives, 2004); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Where the Truth Lies",
+   "year": "2005",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100032591/where-the-truth-lies",
+     "region": "US",
+     "verified_via": "JustWatch US (Where the Truth Lies, 2005); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Passion",
+   "year": "2012",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100034118/passion",
+     "region": "US",
+     "verified_via": "JustWatch US (Passion, 2012); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "The Canyons",
+   "year": "2013",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/100061348/the-canyons",
+     "region": "US",
+     "verified_via": "JustWatch US (The Canyons, 2013); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/ab7d90ff7f8c5920ba3f9df9d8667cdc/the-canyons?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (The Canyons, 2013); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "title": "Peppa Pig — Mummy Rabbit's Bump",
+   "year": "2011",
+   "links": [
+    {
+     "service": "YouTube",
+     "channel": "Peppa Pig - Official Channel",
+     "url": "https://www.youtube.com/watch?v=B2F1oXEKuSY",
+     "region": "worldwide",
+     "note": "free, ad-supported",
+     "verified_via": "YouTube oEmbed: official channel upload \"Peppa Pig Full Episodes | Mummy Rabbit's Bump #108\"",
+     "checked": "2026-10-01"
     }
    ]
   }

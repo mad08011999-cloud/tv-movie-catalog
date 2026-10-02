@@ -46,7 +46,7 @@ h1{font-family:Newsreader,Georgia,serif;font-size:clamp(2.75rem,6vw,5.5rem);line
 .legend .stepmom-control{color:var(--navy);background:var(--soft-navy)}
 .legend .adopt-pregnancy{color:var(--blue);background:var(--soft-blue)}
 .legend .mother{color:var(--accent);background:var(--soft-red)}
-.legend .pregnant,.legend .pregnant-female,.legend .pregnant-strict,.legend .pregnant-variants{color:var(--blue);background:var(--soft-blue)}
+.legend .pregnant,.legend .pregnant-female,.legend .pregnant-strict,.legend .partner-pregnant-hire,.legend .pregnant-variants{color:var(--blue);background:var(--soft-blue)}
 .legend .pregnancy-adjacent{color:var(--muted);background:color-mix(in srgb,var(--line) 48%,transparent)}
 .legend .pregnant-sex{color:var(--rose);background:var(--soft-rose)}
 .legend .pregnant-intimate{color:var(--olive);background:var(--soft-olive)}
@@ -112,7 +112,7 @@ input:focus,select:focus,button:focus-visible,a:focus-visible{outline:3px solid 
 .tag.stepmom-control{color:var(--navy);background:var(--soft-navy)}
 .tag.adopt-pregnancy{color:var(--blue);background:var(--soft-blue)}
 .tag.mother{color:var(--accent);background:var(--soft-red)}
-.tag.pregnant,.tag.pregnant-female,.tag.pregnant-strict,.tag.pregnant-variants{color:var(--blue);background:var(--soft-blue)}
+.tag.pregnant,.tag.pregnant-female,.tag.pregnant-strict,.tag.partner-pregnant-hire,.tag.pregnant-variants{color:var(--blue);background:var(--soft-blue)}
 .tag.pregnancy-adjacent{color:var(--muted);background:color-mix(in srgb,var(--line) 48%,transparent)}
 .tag.pregnant-sex{color:var(--rose);background:var(--soft-rose)}
 .tag.pregnant-intimate{color:var(--olive);background:var(--soft-olive)}
@@ -135,6 +135,7 @@ input:focus,select:focus,button:focus-visible,a:focus-visible{outline:3px solid 
 .tag.child-controller,.tag.pregnant-child{color:var(--navy);background:var(--soft-navy)}
 .tag.walkin,.tag.pregnant-walkin,.tag.parents-sleeping{color:var(--walkin);background:var(--soft-walkin)}
 .tag.flag{color:var(--blue);background:var(--soft-blue)}
+.tag.flag.unverified{display:block;width:100%;padding:10px 12px;border-radius:6px;color:var(--accent);background:var(--soft-red);font-size:.77rem;line-height:1.45}
 .tag.vertical-short{color:var(--surface);background:var(--ink)}
 .sources{display:flex;flex-wrap:wrap;gap:8px 12px;border-top:1px solid var(--line);padding-top:13px;margin-top:14px}
 .sources a{font-size:.75rem;font-weight:700;color:var(--muted);text-decoration-thickness:1px;text-underline-offset:3px}

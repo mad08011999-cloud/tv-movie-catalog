@@ -1,6 +1,8 @@
-// Pregnant-belly kissed or touched by kids — worldwide sweep filed 1 Oct 2026.
-// Three net-new records, with three existing records cross-filed where possible.
+// Pregnant-belly kissed or touched by kids — worldwide sweeps filed 1 Oct 2026.
+// Round 1: three net-new records and three existing records cross-filed.
+// Round 2: one human-character record; animal, animated-animal and animal-puppet findings excluded.
 const bellyKissSweepBasis = "Worldwide belly-kissed-or-touched-by-kids sweep completed 1 Oct 2026; five vectors and roughly 100 query rounds across English mainstream, Latin America / EMEA, Asia live action, vertical shorts, and adult / erotic works.";
+const bellyKissRoundTwoBasis = "Round-2 deep sweep completed 1 Oct 2026; six research vectors and roughly 155 query rounds. Per the human-character scope refinement, animal, animated-animal and animal-puppet findings were not filed.";
 
 function mergeBellySources(base, additions){
   return [...new Map([...(base || []), ...(additions || [])].map(source => [source[1], source])).values()];
@@ -90,6 +92,16 @@ const bellyKissRows = [
     src:[["DramaExpress · Vietnamese 30-episode listing","https://dramaexpress.net/vi/series/uoi-toi-i-gio-oi-nhan-con/episode-30"]],
     prov:bellyKissSweepBasis,
     verticalShort:true
+  },
+  {
+    t:"Shang-Chi and the Legend of the Ten Rings", y:"2021", f:"movie",
+    m:"Feature film · United States · English",
+    c:["belly-kissed"], ch:"Ying Li · own son, young Shang-Chi",
+    mec:"Own child · mother rests child against bump",
+    flag:"Medium confidence · fan-curated scene references",
+    s:"In one of Shang-Chi's flashback memories, his mother Ying Li rests young Shang-Chi on her pregnant stomach to introduce him to his sister Xialing.",
+    note:"Memory / flashback scene. The scene is documented only by fan-curated trope pages; visibility of the pregnancy in the shot remains unconfirmed beyond those entries.",
+    prov:bellyKissRoundTwoBasis
   }
 ];
 
@@ -106,4 +118,14 @@ bellyKissRows.forEach(row => {
   }
 });
 
-console.info(`belly-kissed-by-kids: net-new rows=${bellyKissNetNew}, merged=${bellyKissMerged}, existing grants=${[panLabyrinth, lookWhosTalkingToo, parenthoodKristina].filter(Boolean).length}`);
+const netShortBelly = entries.find(entry => entry.t === "Đuổi Tôi Đi, Giờ Đòi Nhận Con?" && String(entry.y) === "c. 2024–26");
+if (netShortBelly) {
+  netShortBelly.ch = "Elowen Thorne · own son Elian";
+  netShortBelly.mec = "Own child · kiss + hands on bump";
+  netShortBelly.flag = "Medium confidence · official EP30 thumbnail; in-episode confirmation pending";
+  netShortBelly.s = "In this 30-episode, Vietnamese-dubbed NetShort werewolf romance, Elowen Thorne is cast out of Rourke castle after being falsely accused of drugging pure-blood patriarch Kaelen Rourke. She flees secretly pregnant and raises their genius son Elian in hiding. Official episode-30 art shows Elian with a hand on, and his face pressed to, Elowen's visibly pregnant-again bump.";
+  netShortBelly.note = "The original English or Chinese title remains unidentified. The EP30 belly beat was re-confirmed by visual inspection of an official CDN thumbnail, but it may be promotional rather than an in-episode still. Cross-topic observation: the thumbnail suggests Elowen is pregnant again, a possible mother-pregnancy-again overlap.";
+  netShortBelly.prov = `${bellyKissSweepBasis} ${bellyKissRoundTwoBasis}`;
+}
+
+console.info(`belly-kissed-by-kids: net-new rows=${bellyKissNetNew}, merged=${bellyKissMerged}, existing grants=${[panLabyrinth, lookWhosTalkingToo, parenthoodKristina].filter(Boolean).length}, NetShort enriched=${Boolean(netShortBelly)}`);
