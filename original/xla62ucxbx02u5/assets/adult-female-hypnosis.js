@@ -2449,6 +2449,144 @@ const adultFemaleHypnosisRows = [
         "https://www.flixano.com/movie/mind-blowers-1970/"
       ]
     ]
+  },
+  {
+    "t": "Mil sexos tiene la noche / Night of 1,000 Sexes",
+    "y": "1984",
+    "f": "movie",
+    "m": "film (Jesús Franco softcore erotic thriller) · 1984, Spain",
+    "c": [
+      "adult-hypnosis"
+    ],
+    "ahg": "stage",
+    "mec": "Stage hypnotist's revenge hypnosis",
+    "flag": "High confidence · explicit sexual content",
+    "s": "Irina (Lina Romay), nightclub performer in a hypnosis act, is “hypnotically manipulated” by Fabián, stage magician/hypnotist (her partner); she serves as the instrument of his revenge — committing crimes, including sexual encounters, under his spell — until a doctor discovers the manipulation. Dir. Jess Franco.",
+    "src": [
+      [
+        "IMDb",
+        "https://www.imdb.com/title/tt0087723"
+      ],
+      [
+        "rarefilm.net",
+        "http://rarefilm.net/night-of-1-000-sexes-mil-sexos-tiene-la-noche-1984-jesus-franco-lina-romay-daniel-katz-carmen-carrion-horror-thriller-erotic/"
+      ]
+    ]
+  },
+  {
+    "t": "The Erotic Rites of Frankenstein / La maldición de Frankenstein",
+    "y": "1972/73",
+    "f": "movie",
+    "m": "film (Jesús Franco erotic horror) · 1972/73, Spain/France",
+    "c": [
+      "adult-hypnosis"
+    ],
+    "ahg": "occult",
+    "mec": "Sorcerer's hypnotic powers / mind control",
+    "flag": "High confidence · explicit sexual content",
+    "s": "Cagliostro (Howard Vernon), immortal sorcerer with “fearsome hypnotic powers,” hypnotizes Melissa (Anne Libert), Dr. Vera Frankenstein (Beatriz Savón), and Esmeralda (Lina Romay). Melissa moves and kills in a trance explicitly attributed to Cagliostro's hypnotic will; Vera “falls under Cagliostro's spell” and works under his direction against her own will; Esmeralda wanders “under Cagliostro's mind control.” Dir. Jess Franco.",
+    "src": [
+      [
+        "The A.V. Club",
+        "https://www.avclub.com/the-erotic-rites-of-frankenstein-is-a-stitched-up-serie-1798184479"
+      ],
+      [
+        "cinemaparadiso.co.uk",
+        "https://www.cinemaparadiso.co.uk/rentals/the-erotic-rites-of-frankenstein-217301.html"
+      ]
+    ]
+  },
+  {
+    "t": "Emmanuelle vs. Dracula",
+    "y": "2004",
+    "f": "movie",
+    "m": "softcore erotic film · 2004",
+    "c": [
+      "adult-hypnosis"
+    ],
+    "ahg": "vampire",
+    "mec": "Vampire hypnotic seduction",
+    "flag": "Medium confidence · explicit sexual content",
+    "s": "The vampire “Johnson” hypnotizes female bachelorette-party guests (erotic-horror softcore entry in the Emmanuelle Private Collection line).",
+    "src": [
+      [
+        "Gizmodo",
+        "https://gizmodo.com/the-most-excellent-moment-from-emmanuelle-vs-dracula-5898524"
+      ],
+      [
+        "Plex",
+        "https://watch.Plex.tv/movie/emmanuelle-the-private-collection-emmanuelle-vs-dracula"
+      ]
+    ]
+  },
+  {
+    "t": "The Hypnotist",
+    "y": "1936",
+    "f": "short",
+    "m": "stag short film · 1936, USA",
+    "c": [
+      "adult-hypnosis"
+    ],
+    "ahg": "stage",
+    "mec": "Fortune-teller hypnosis",
+    "flag": "Medium confidence · explicit sexual content (hardcore stag)",
+    "s": "A married couple visit a fortune teller; he sends the husband to a waiting room, hypnotizes the wife into trance (she never consented to hypnosis) and uses her in an on-screen lesbian sex scene, then hypnotizes the husband likewise.",
+    "src": [
+      [
+        "IMDb",
+        "https://www.imdb.com/title/tt0289230"
+      ],
+      [
+        "inloneni.weebly.com",
+        "https://inloneni.weebly.com/uploads/1/3/6/4/136461533/women-hypnotised-for-sex.pdf"
+      ]
+    ]
+  },
+  {
+    "t": "Saimin Seishidou",
+    "y": "2019–2022",
+    "f": "tv",
+    "m": "adult anime OVA series · 2019–2022, Japan · Japanese",
+    "c": [
+      "adult-hypnosis"
+    ],
+    "ahg": "anime",
+    "mec": "Hypnotic sexual control",
+    "flag": "Medium-high confidence · explicit sexual content · animated",
+    "s": "Explicit non-consensual hypnosis documented episode by episode: Tanaka puts Tsubaki under hypnosis, casts hypnosis on Natsumi, and targets kendo-club captain Miyajima Sakura with “妊娠体験指導” — the hypnosis secures sexual control.",
+    "src": [
+      [
+        "ja.wikipedia",
+        "https://ja.wikipedia.org/wiki/催眠性指導"
+      ]
+    ]
+  },
+  {
+    "t": "Gakuen Saimin Reido",
+    "y": "2010–2012",
+    "f": "tv",
+    "m": "adult anime OVA series · 2010–2012, Japan · Japanese",
+    "c": [
+      "adult-hypnosis"
+    ],
+    "ahg": "anime",
+    "mec": "“Hypnosis phone” — hypnotic state via photographed image",
+    "flag": "Medium-high confidence · explicit sexual content · animated",
+    "s": "Sato Futoshi's “hypnosis phone” can induce a hypnotic state in whomever he photographs; during that state he can modify the subject's will and body response the way he likes. First tested on neighbor Sayuri, then targeted at school staff and students — six female victims documented with individual hypnotic alterations.",
+    "src": [
+      [
+        "Anime News Network",
+        "https://www.animenewsnetwork.com:443/encyclopedia/anime.php?id=11391"
+      ],
+      [
+        "MyAnimeList",
+        "https://myanimelist.net/anime/8293/"
+      ],
+      [
+        "IMDb",
+        "https://www.imdb.com/title/tt14171270"
+      ]
+    ]
   }
 ];
 

@@ -39,15 +39,19 @@ h1{font-family:Newsreader,Georgia,serif;font-size:clamp(2.75rem,6vw,5.5rem);line
 .legend .partner-control,.legend .partner-commissioned{color:var(--gold);background:var(--soft-gold)}
 .legend .mom-partner-control{color:var(--accent);background:var(--soft-red)}
 .legend .family,.legend .stepmom-pregnancy{color:var(--teal);background:var(--soft-teal)}
+.legend .hypno-intimacy{color:var(--rose);background:var(--soft-rose)}
+.legend .agegap-marriage,.legend .lesbian-couple-pregnancy,.legend .mom-pregnancy,.legend .belly-kissed,.legend .pregnant-lesbian-intimate{color:var(--teal);background:var(--soft-teal)}
+.legend .royal-hypnosis{color:var(--gold);background:var(--soft-gold)}
+.legend .devil-deal-pregnancy-hypnosis{color:var(--navy);background:var(--soft-navy)}
 .legend .stepmom-control{color:var(--navy);background:var(--soft-navy)}
 .legend .adopt-pregnancy{color:var(--blue);background:var(--soft-blue)}
 .legend .mother{color:var(--accent);background:var(--soft-red)}
-.legend .pregnant{color:var(--blue);background:var(--soft-blue)}
+.legend .pregnant,.legend .pregnant-female,.legend .pregnant-strict,.legend .pregnant-variants{color:var(--blue);background:var(--soft-blue)}
 .legend .pregnancy-adjacent{color:var(--muted);background:color-mix(in srgb,var(--line) 48%,transparent)}
 .legend .pregnant-sex{color:var(--rose);background:var(--soft-rose)}
 .legend .pregnant-intimate{color:var(--olive);background:var(--soft-olive)}
 .legend .pregnancy-evil,.legend .devil-deal-pregnancy{color:var(--burnt);background:var(--soft-burnt)}
-.legend .regional-pregnancy,.legend .india-pregnancy,.legend .india-control{color:var(--regional);background:var(--soft-regional)}
+.legend .regional-pregnancy,.legend .india-pregnancy,.legend .india-control,.legend .indian-female-hypnosis{color:var(--regional);background:var(--soft-regional)}
 .legend .evil-female{color:var(--navy);background:var(--soft-navy)}
 .legend .villain,.legend .tantrik,.legend .occult{color:var(--burnt);background:var(--soft-burnt)}
 .legend .human{color:var(--gold);background:var(--soft-gold)}
@@ -101,15 +105,19 @@ input:focus,select:focus,button:focus-visible,a:focus-visible{outline:3px solid 
 .tag.partner-control,.tag.partner-commissioned{color:var(--gold);background:var(--soft-gold)}
 .tag.mom-partner-control{color:var(--accent);background:var(--soft-red)}
 .tag.family,.tag.stepmom-pregnancy{color:var(--teal);background:var(--soft-teal)}
+.tag.hypno-intimacy{color:var(--rose);background:var(--soft-rose)}
+.tag.agegap-marriage,.tag.lesbian-couple-pregnancy,.tag.mom-pregnancy,.tag.belly-kissed,.tag.pregnant-lesbian-intimate{color:var(--teal);background:var(--soft-teal)}
+.tag.royal-hypnosis{color:var(--gold);background:var(--soft-gold)}
+.tag.devil-deal-pregnancy-hypnosis{color:var(--navy);background:var(--soft-navy)}
 .tag.stepmom-control{color:var(--navy);background:var(--soft-navy)}
 .tag.adopt-pregnancy{color:var(--blue);background:var(--soft-blue)}
 .tag.mother{color:var(--accent);background:var(--soft-red)}
-.tag.pregnant{color:var(--blue);background:var(--soft-blue)}
+.tag.pregnant,.tag.pregnant-female,.tag.pregnant-strict,.tag.pregnant-variants{color:var(--blue);background:var(--soft-blue)}
 .tag.pregnancy-adjacent{color:var(--muted);background:color-mix(in srgb,var(--line) 48%,transparent)}
 .tag.pregnant-sex{color:var(--rose);background:var(--soft-rose)}
 .tag.pregnant-intimate{color:var(--olive);background:var(--soft-olive)}
 .tag.pregnancy-evil,.tag.devil-deal-pregnancy{color:var(--burnt);background:var(--soft-burnt)}
-.tag.regional-pregnancy,.tag.india-pregnancy,.tag.india-control{color:var(--regional);background:var(--soft-regional)}
+.tag.regional-pregnancy,.tag.india-pregnancy,.tag.india-control,.tag.indian-female-hypnosis{color:var(--regional);background:var(--soft-regional)}
 .tag.evil-female{color:var(--navy);background:var(--soft-navy)}
 .tag.villain,.tag.tantrik,.tag.occult{color:var(--burnt);background:var(--soft-burnt)}
 .tag.human{color:var(--gold);background:var(--soft-gold)}
@@ -127,6 +135,7 @@ input:focus,select:focus,button:focus-visible,a:focus-visible{outline:3px solid 
 .tag.child-controller,.tag.pregnant-child{color:var(--navy);background:var(--soft-navy)}
 .tag.walkin,.tag.pregnant-walkin,.tag.parents-sleeping{color:var(--walkin);background:var(--soft-walkin)}
 .tag.flag{color:var(--blue);background:var(--soft-blue)}
+.tag.vertical-short{color:var(--surface);background:var(--ink)}
 .sources{display:flex;flex-wrap:wrap;gap:8px 12px;border-top:1px solid var(--line);padding-top:13px;margin-top:14px}
 .sources a{font-size:.75rem;font-weight:700;color:var(--muted);text-decoration-thickness:1px;text-underline-offset:3px}
 .sources a:hover{color:var(--accent)}

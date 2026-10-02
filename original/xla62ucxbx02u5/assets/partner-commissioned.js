@@ -1,6 +1,9 @@
 const partnerCommissionedRows = [
   {
     t:"While You Were Sleeping", y:"2008", f:"short", m:"Short film · South Korea · 17 min", c:["partner-commissioned"], htg:"cure", mec:"Husband-arranged hypnosis by psychologist friend", flag:"Medium confidence · arrangement implied, no explicit pay / hire wording", s:"A husband visits his psychologist friend to cure his alcoholic and violent wife. The friend uses hypnosis to enter her psyche and uncover her memories layer by layer; the KOFIC synopsis establishes that the husband initiates the intervention, but does not explicitly say he pays or hires the psychologist.", src:[["Korean Film Council","http://koreanfilm.or.kr/eng/films/index/filmsView.jsp?movieCd=20110753"]]
+  },
+  {
+    t:"The Honeymooners — “Sleepy Time Gal”", y:"1968", f:"tv", m:"TV sketch · USA · The Jackie Gleason Show · CBS", c:["partner-commissioned"], htg:"secret", mec:"Husband Ralph Kramden → hypnotist (a fellow member of his Raccoon lodge) → wife Alice Kramden", flag:"HIGH confidence", s:"Ralph persuades the hypnotist to put Alice in a trance so she will reveal where her secret stash of money is hidden; he wants the money for the Raccoon convention in Chicago.", note:"Remake of the “lost episode” sketch “The Hypnotist,” which aired January 29, 1955.", src:[["IMDb","https://www.imdb.com/title/tt0614078"],["Wikipedia episode list","https://en.wikipedia.org/wiki/List_of_The_Honeymooners_sketches"],["Episode Calendar","https://episodecalendar.com/pl/episodes/2226767"],["Tubi","https://tubitv.com/tv-shows/506635/s03-e12-the-hypnotist"]]
   }
 ];
 
