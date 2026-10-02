@@ -1642,7 +1642,7 @@
      "year": "2023–24"
     },
     {
-     "rid": "xla62ucxbx02u5:2018",
+     "rid": "xla62ucxbx02u5:2028",
      "title": "El Maleficio",
      "subtitle": "Episode 54 · “Vas a perder a Beatriz” · aired 25 Jan 2024",
      "year": "2023"
@@ -9635,7 +9635,7 @@
      "year": "2019"
     },
     {
-     "rid": "xla62ucxbx02u5:1980",
+     "rid": "xla62ucxbx02u5:1990",
      "title": "Neighbours",
      "subtitle": "Elly Conway and Chloe Brennan ('Chelly') arc",
      "year": "2019–2020"
@@ -17651,6 +17651,12 @@
      "title": "Jacquette",
      "subtitle": "",
      "year": "1976"
+    },
+    {
+     "rid": "xla62ucxbx02u5:2053",
+     "title": "Jacquette",
+     "subtitle": "",
+     "year": "Year unconfirmed"
     },
     {
      "rid": "ig6qlxqxoxvcxla:282",
@@ -39679,7 +39685,7 @@
    ]
   },
   {
-   "kept_id": 2034,
+   "kept_id": 2159,
    "kept": "Ezra (2017)",
    "scope": "cross-source",
    "members": [
@@ -39699,7 +39705,7 @@
    ]
   },
   {
-   "kept_id": 2050,
+   "kept_id": 2175,
    "kept": "Dharam Veer (1977)",
    "scope": "cross-source",
    "members": [
@@ -39726,7 +39732,7 @@
    ]
   },
   {
-   "kept_id": 2140,
+   "kept_id": 2265,
    "kept": "Out For Blood (2004)",
    "scope": "cross-source",
    "members": [
@@ -39746,7 +39752,7 @@
    ]
   },
   {
-   "kept_id": 2164,
+   "kept_id": 2289,
    "kept": "Super Models (1999)",
    "scope": "cross-source",
    "members": [
@@ -39766,7 +39772,7 @@
    ]
   },
   {
-   "kept_id": 2176,
+   "kept_id": 2301,
    "kept": "The Thundermans (2013–2018)",
    "scope": "cross-source",
    "members": [
@@ -39786,7 +39792,7 @@
    ]
   },
   {
-   "kept_id": 2211,
+   "kept_id": 2336,
    "kept": "Diagnosis: Murder (1997)",
    "scope": "cross-source",
    "members": [
@@ -39856,11 +39862,11 @@
    },
    "status": "applied",
    "kept_id": 785,
-   "retired_id": 2020
+   "retired_id": 2145
   }
  ],
  "raw_counts": {
-  "xla62ucxbx02u5": 2023,
+  "xla62ucxbx02u5": 2149,
   "ig6qlxqxoxvcxla": 990,
   "india-catalog": 163,
   "worldwide-hypnosis": 1085,
@@ -39886,7 +39892,7 @@
   "mainstream-erotic": 102,
   "open-sites-hypnosis": 1
  },
- "entry_count_after_dedupe": 2409,
+ "entry_count_after_dedupe": 2534,
  "within_source_groups": 0,
  "cross_source_groups": 1697,
  "index_only_records": 37,

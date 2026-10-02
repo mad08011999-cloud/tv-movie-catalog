@@ -58,7 +58,8 @@ h1{font-family:Newsreader,Georgia,serif;font-size:clamp(2.75rem,6vw,5.5rem);line
 .legend .vampire,.legend .fantasy{color:var(--rose);background:var(--soft-rose)}
 .legend .spirit{color:var(--navy);background:var(--soft-navy)}
 .legend .scifi{color:var(--blue);background:var(--soft-blue)}
-.legend .cult{color:var(--olive);background:var(--soft-olive)}
+.legend .cult,.legend .polygamy-hypnosis{color:var(--olive);background:var(--soft-olive)}
+.legend .polygamy-pregnancy{color:var(--burnt);background:var(--soft-burnt)}
 .legend .medical,.legend .therapist-wife{color:var(--teal);background:var(--soft-teal)}
 .legend .exwife-control{color:var(--navy);background:var(--soft-navy)}
 .legend .remarried-wife-control{color:var(--teal);background:var(--soft-teal)}
@@ -124,7 +125,8 @@ input:focus,select:focus,button:focus-visible,a:focus-visible{outline:3px solid 
 .tag.vampire,.tag.fantasy{color:var(--rose);background:var(--soft-rose)}
 .tag.spirit{color:var(--navy);background:var(--soft-navy)}
 .tag.scifi{color:var(--blue);background:var(--soft-blue)}
-.tag.cult{color:var(--olive);background:var(--soft-olive)}
+.tag.cult,.tag.polygamy-hypnosis{color:var(--olive);background:var(--soft-olive)}
+.tag.polygamy-pregnancy{color:var(--burnt);background:var(--soft-burnt)}
 .tag.medical,.tag.therapist-wife{color:var(--teal);background:var(--soft-teal)}
 .tag.exwife-control{color:var(--navy);background:var(--soft-navy)}
 .tag.remarried-wife-control{color:var(--teal);background:var(--soft-teal)}
