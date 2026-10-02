@@ -2397,6 +2397,95 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "open-sites-hypnosis",
+   "label": "Open-site hypnosis / mind-control sweep",
+   "kind": "local",
+   "share_url": "sources/open-sites-hypnosis.json",
+   "description": "Titles found by sweeping open sites (TMDB keyword pages for hypnosis, hypnotist, hypnotism, brainwashing, mind control; MyDramaList 'Hypnosis' and 'Pregnancy' tags; Wikipedia hypnosis / mind-control categories; TV Tropes hypnosis pages) after dramaexpress.net turned out to be behind a bot check. Adult women only, no minors in a sexual or hypnosis context, no pornography. Every new record has a verified free legal link in sources/watch-links.json. Everything else the sweep found was already in the catalog, or lacked a verified free link, and is listed in dropped.",
+   "dropped": [
+    {
+     "title": "The 5,000 Fingers of Dr. T.",
+     "year": "1953",
+     "reason": "already in the catalog (card 35, hypnotized mother already tagged, free Roku Channel link already present)"
+    },
+    {
+     "title": "Faults",
+     "year": "2014",
+     "reason": "Free on Tubi/Pluto/Roku, but the woman is the cult leader controlling others (her mother and the deprogrammer); she is not the hypnotized one, and the plot includes sex scenes"
+    },
+    {
+     "title": "Sum of Existence",
+     "year": "2005",
+     "reason": "hypnotic therapy of an adult woman, but no verified free link (FlixHouse page shows no title; Fandango at Home / Prime only)"
+    },
+    {
+     "title": "The Search for Bridey Murphy",
+     "year": "1956",
+     "reason": "adult woman regressed under hypnosis, but no confirmed free legal link (Prime only; Internet Archive copy's public-domain status not established)"
+    },
+    {
+     "title": "Nix on Hypnotricks",
+     "year": "1941",
+     "reason": "Popeye short (Olive Oyl hypnotised by phone); Internet Archive upload but public-domain status unverified"
+    },
+    {
+     "title": "Jack the Giant Killer",
+     "year": "1962",
+     "reason": "Lady Constance is under a sorcerer's spell, not hypnosis; free link exists (Roku) but fit is magic, not hypnosis"
+    },
+    {
+     "title": "Jessica Jones (S1)",
+     "year": "2015",
+     "reason": "Kilgrave's mind control of adult women, but only Disney+/Prime (no free link)"
+    },
+    {
+     "title": "The Basilisk / The Greater Will / The Love Girl / The Satin Girl",
+     "year": "1914-1923",
+     "reason": "silent films: women hypnotised or brainwashed, but no free copy found on Internet Archive, so not added"
+    },
+    {
+     "title": "Return",
+     "year": "1985",
+     "reason": "woman tries hypnotic regression of a subject (not hypnotized herself); no free link"
+    },
+    {
+     "title": "Reawaken / Hypnosis / Nightmare (MDL tag list)",
+     "year": "2012-2022",
+     "reason": "MyDramaList 'Hypnosis' tag hits: therapy flashbacks or male subjects, no free legal link"
+    },
+    {
+     "title": "Hipnos",
+     "year": "2004",
+     "reason": "psychiatrist hypnotises patients (genders unverified); Runtime.tv only, plot not verified"
+    },
+    {
+     "title": "Cybersex Kittens / Emmanuelle 4 / Hypnotika",
+     "year": "1984-2013",
+     "reason": "softcore erotica framed as mind control; excluded (no explicit/porn-adjacent titles)"
+    },
+    {
+     "title": "Masters of the Universe / Hairspray / Powerpuff Girls / X-Men: Evolution / Bratz",
+     "year": "various",
+     "reason": "hypnotised character is a minor or teen; excluded"
+    },
+    {
+     "title": "Wonder Woman (1975) 'The Boy Who Knew Her Secret'",
+     "year": "1975-79",
+     "reason": "Diana hypnotised by the Shapeshifter, but no free legal link (Prime only)"
+    },
+    {
+     "title": "Wakfu / Sakura Wars: The Movie / Xabungle / Barbie and the Diamond Castle",
+     "year": "various",
+     "reason": "adult woman mind-controlled, but anime/animation with no verified free legal link"
+    }
+   ],
+   "check": {
+    "raw_count": 1,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -2423,10 +2512,11 @@
   "royal-hypnosis": 11,
   "royal-hypnosis-loose": 32,
   "belly-kissed-kids": 0,
-  "mainstream-erotic": 102
+  "mainstream-erotic": 102,
+  "open-sites-hypnosis": 1
  },
- "raw_total": 4945,
- "entry_count": 2408,
+ "raw_total": 4946,
+ "entry_count": 2409,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -2438,7 +2528,7 @@
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 224
+   "entry_count": 225
   },
   {
    "key": "walkin",
@@ -2456,7 +2546,7 @@
    "key": "occult",
    "label": "Demonic / occult control",
    "legend_label": "Demonic / occult control",
-   "entry_count": 52
+   "entry_count": 53
   },
   {
    "key": "devil-deal-pregnancy-hypnosis",
@@ -2546,7 +2636,7 @@
    "key": "hypno-intimacy",
    "label": "Hypnotized woman intimate with the hypnotist or the man he directs",
    "legend_label": "Hypnotized into intimacy",
-   "entry_count": 29
+   "entry_count": 30
   },
   {
    "key": "indian-female-hypnosis",
@@ -369709,6 +369799,143 @@
      "checked": "2026-10-01"
     }
    ]
+  },
+  {
+   "id": 2411,
+   "title": "Evil Lurks",
+   "subtitle": "",
+   "year": "2023",
+   "meta": "Feature film · United States · English",
+   "mechanism": "Hypnotherapy (a hypnotherapist possessed by an entity, the \"Shh Man\", hypnotizes a grieving woman in a private session)",
+   "confidence_flag": "Corroborated · 4 independent reviews/synopses",
+   "summary": "Grieving Kimberly joins a hypnotherapy group and is singled out by the hypnotist Harold, who is possessed by the \"Shh Man\". He puts her under hypnosis in a private session and assaults her; she is committed to a psychiatric hospital and gives birth to a daughter, Erica. Fifteen years later, at the next blood moon, the entity returns for its offspring. Non-graphic note: the assault is implied and the film's focus is Kimberly's trauma and protecting Erica.",
+   "character": "Kimberly (Amanda Winston), a grieving adult woman, and the hypnotist Harold (Chris Shern); daughter Erica (Savannah Mae) is a child of the assault and is not hypnotized or shown in any sexual context",
+   "provenance": "Open-sites sweep (TMDB keyword pages: hypnosis, hypnotist, hypnotism, brainwashed, mind control, ...; MyDramaList tags; Wikipedia categories; TV Tropes), 1 Oct 2026 PT; adult woman, non-graphic wording",
+   "note": "Possession-framed hypnosis (the hypnotist is possessed), so tagged occult as well; indie horror.",
+   "pregnancy_outcome": "birth",
+   "pregnancy_note": "daughter Erica is born while Kimberly is hospitalised; Erica is 15 at the later blood moon",
+   "kids_status": "yes",
+   "kids_note": "one daughter, Erica (born after the assault)",
+   "kids_together": "no",
+   "married": "unknown",
+   "married_note": "her grief follows a loss; marital status not stated in the synopses",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "Kimberly gives birth to Erica in the psychiatric hospital after the assault (birth)",
+   "evidence": "2+ independent sources (Rotten Tomatoes, Special Mark Productions, Horror Nation, Severed Cinema)",
+   "rating": "NR",
+   "adult": "yes",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis",
+    "hypno-intimacy",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "Rotten Tomatoes (synopsis)",
+     "url": "https://www.rottentomatoes.com/m/evil_lurks"
+    },
+    {
+     "label": "Special Mark Productions review",
+     "url": "https://www.specialmarkproductions.com/reviews/review-evil-lurks-2023"
+    },
+    {
+     "label": "Horror Nation review",
+     "url": "https://horror-nation.com/evil-lurks-review/"
+    },
+    {
+     "label": "Severed Cinema review",
+     "url": "https://severed-cinema.com/exploring-the-depths-of-mind-bending-horror-a-review-of-evil-lurks/"
+    },
+    {
+     "label": "TMDB keyword page: hypnotist / hypnosis",
+     "url": "https://www.themoviedb.org/movie/1011207"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "open-sites-hypnosis"
+   ],
+   "source_records": [
+    "open-sites-hypnosis:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "open-sites-hypnosis:1": {
+     "title": "Evil Lurks",
+     "year": "2023",
+     "match_title": "Evil Lurks",
+     "match_year": "2023",
+     "format": "movie",
+     "meta": "Feature film · United States · English",
+     "mechanism": "Hypnotherapy (a hypnotherapist possessed by an entity, the \"Shh Man\", hypnotizes a grieving woman in a private session)",
+     "confidence_flag": "Corroborated · 4 independent reviews/synopses",
+     "summary": "Grieving Kimberly joins a hypnotherapy group and is singled out by the hypnotist Harold, who is possessed by the \"Shh Man\". He puts her under hypnosis in a private session and assaults her; she is committed to a psychiatric hospital and gives birth to a daughter, Erica. Fifteen years later, at the next blood moon, the entity returns for its offspring. Non-graphic note: the assault is implied and the film's focus is Kimberly's trauma and protecting Erica.",
+     "character": "Kimberly (Amanda Winston), a grieving adult woman, and the hypnotist Harold (Chris Shern); daughter Erica (Savannah Mae) is a child of the assault and is not hypnotized or shown in any sexual context",
+     "categories": [
+      "adult-hypnosis",
+      "hypno-intimacy",
+      "occult"
+     ],
+     "sources": [
+      {
+       "label": "Rotten Tomatoes (synopsis)",
+       "url": "https://www.rottentomatoes.com/m/evil_lurks"
+      },
+      {
+       "label": "Special Mark Productions review",
+       "url": "https://www.specialmarkproductions.com/reviews/review-evil-lurks-2023"
+      },
+      {
+       "label": "Horror Nation review",
+       "url": "https://horror-nation.com/evil-lurks-review/"
+      },
+      {
+       "label": "Severed Cinema review",
+       "url": "https://severed-cinema.com/exploring-the-depths-of-mind-bending-horror-a-review-of-evil-lurks/"
+      },
+      {
+       "label": "TMDB keyword page: hypnotist / hypnosis",
+       "url": "https://www.themoviedb.org/movie/1011207"
+      }
+     ],
+     "provenance": "Open-sites sweep (TMDB keyword pages: hypnosis, hypnotist, hypnotism, brainwashed, mind control, ...; MyDramaList tags; Wikipedia categories; TV Tropes), 1 Oct 2026 PT; adult woman, non-graphic wording",
+     "note": "Possession-framed hypnosis (the hypnotist is possessed), so tagged occult as well; indie horror.",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "Kimberly gives birth to Erica in the psychiatric hospital after the assault (birth)",
+     "pregnancy_outcome": "birth",
+     "pregnancy_note": "daughter Erica is born while Kimberly is hospitalised; Erica is 15 at the later blood moon",
+     "kids_together": "no",
+     "kids_status": "yes",
+     "kids_note": "one daughter, Erica (born after the assault)",
+     "married": "unknown",
+     "married_note": "her grief follows a loss; marital status not stated in the synopses",
+     "evidence": "2+ independent sources (Rotten Tomatoes, Special Mark Productions, Horror Nation, Severed Cinema)",
+     "rating": "NR",
+     "adult": "yes",
+     "group": "Hypnotized woman sexually assaulted under hypnosis (Oct 2026)"
+    }
+   },
+   "watch_links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/710290/evil-lurks",
+     "region": "US",
+     "verified_via": "JustWatch US (Evil Lurks, 2023); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/95810a63cc8727fdcc03f0fbb7d723cb/evil-lurks?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Evil Lurks, 2023); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
   }
  ],
  "sections": [
@@ -370130,7 +370357,8 @@
     "mother-kids-hypnosis",
     "hypno-leftovers",
     "hypnosis-assault",
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "open-sites-hypnosis"
    ],
    "groups": [
     {
@@ -372881,6 +373109,17 @@
       }
      ],
      "from_source": "hypnosis-assault-loose"
+    },
+    {
+     "title": "Hypnotized woman sexually assaulted under hypnosis (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2411,
+       "from_source": "open-sites-hypnosis"
+      }
+     ],
+     "from_source": "open-sites-hypnosis"
     }
    ],
    "declared_count_by_source": {
@@ -372892,7 +373131,8 @@
     "mother-kids-hypnosis": null,
     "hypno-leftovers": null,
     "hypnosis-assault": null,
-    "hypnosis-assault-loose": null
+    "hypnosis-assault-loose": null,
+    "open-sites-hypnosis": null
    }
   },
   {
@@ -373632,7 +373872,8 @@
     "hypno-leftovers",
     "hypnosis-assault",
     "hypnosis-assault-loose",
-    "royal-hypnosis-loose"
+    "royal-hypnosis-loose",
+    "open-sites-hypnosis"
    ],
    "groups": [
     {
@@ -374156,6 +374397,17 @@
       }
      ],
      "from_source": "royal-hypnosis-loose"
+    },
+    {
+     "title": "Hypnotized woman sexually assaulted under hypnosis (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2411,
+       "from_source": "open-sites-hypnosis"
+      }
+     ],
+     "from_source": "open-sites-hypnosis"
     }
    ],
    "declared_count_by_source": {
@@ -374168,7 +374420,8 @@
     "hypno-leftovers": null,
     "hypnosis-assault": null,
     "hypnosis-assault-loose": null,
-    "royal-hypnosis-loose": null
+    "royal-hypnosis-loose": null,
+    "open-sites-hypnosis": null
    }
   },
   {
@@ -385854,7 +386107,8 @@
     "xla62ucxbx02u5",
     "hypno-intimacy",
     "hypno-leftovers",
-    "hypnosis-assault"
+    "hypnosis-assault",
+    "open-sites-hypnosis"
    ],
    "groups": [
     {
@@ -386161,12 +386415,24 @@
       }
      ],
      "from_source": "hypnosis-assault"
+    },
+    {
+     "title": "Hypnotized woman sexually assaulted under hypnosis (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2411,
+       "from_source": "open-sites-hypnosis"
+      }
+     ],
+     "from_source": "open-sites-hypnosis"
     }
    ],
    "declared_count_by_source": {
     "hypno-intimacy": null,
     "hypno-leftovers": null,
-    "hypnosis-assault": null
+    "hypnosis-assault": null,
+    "open-sites-hypnosis": null
    }
   },
   {
@@ -408715,5 +408981,5 @@
   }
  ],
  "unplaced_entry_ids": [],
- "watch_links_count": 505
+ "watch_links_count": 506
 }

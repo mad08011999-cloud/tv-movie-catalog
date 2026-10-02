@@ -10760,6 +10760,26 @@
      "checked": "2026-10-01"
     }
    ]
+  },
+  {
+   "title": "Evil Lurks",
+   "year": "2023",
+   "links": [
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/710290/evil-lurks",
+     "region": "US",
+     "verified_via": "JustWatch US (Evil Lurks, 2023); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    },
+    {
+     "service": "The Roku Channel",
+     "url": "https://therokuchannel.roku.com/details/95810a63cc8727fdcc03f0fbb7d723cb/evil-lurks?source=bing",
+     "region": "US",
+     "verified_via": "JustWatch US (Evil Lurks, 2023); landing page loads (HTTP 200)",
+     "checked": "2026-10-01"
+    }
+   ]
   }
  ]
 }
