@@ -10780,6 +10780,118 @@
      "checked": "2026-10-01"
     }
    ]
+  },
+  {
+   "title": "The Piano Teacher",
+   "year": "2001",
+   "links": [
+    {
+     "service": "Shout! Factory TV",
+     "url": "https://watch.shout-tv.com/interstitial/886315",
+     "region": "US",
+     "verified_via": "JustWatch US (The Piano Teacher, 2001); landing page loads (HTTP 200)",
+     "checked": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "title": "Pleasure or Pain",
+   "year": "2013",
+   "links": [
+    {
+     "service": "Fandango at Home Free",
+     "url": "https://athome.fandango.com/content/browse/details/Pleasure-or-Pain/449397",
+     "region": "US",
+     "verified_via": "JustWatch US (Pleasure or Pain, 2013); landing page loads (HTTP 200)",
+     "checked": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "title": "Lost Girls & Love Hotels",
+   "year": "2020",
+   "links": [
+    {
+     "service": "Fandango at Home Free",
+     "url": "https://athome.fandango.com/content/browse/details/Lost-Girls-and-Love-Hotels/1484054",
+     "region": "US",
+     "verified_via": "JustWatch US (Lost Girls & Love Hotels, 2020); landing page loads (HTTP 200)",
+     "checked": "2026-10-03"
+    },
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.88b9f1f5-96ba-87b2-1fa5-0733c4d38a15",
+     "region": "US",
+     "verified_via": "JustWatch US (Lost Girls & Love Hotels, 2020); landing page loads (HTTP 200)",
+     "checked": "2026-10-03"
+    },
+    {
+     "service": "Fawesome",
+     "url": "https://fawesome.tv/movies/10750155/lost-girls-and-love-hotels?utm_source=justwatch&utm_medium=feed",
+     "region": "US",
+     "verified_via": "JustWatch US (Lost Girls & Love Hotels, 2020); landing page loads (HTTP 200)",
+     "checked": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "title": "Deadly Illusions",
+   "year": "2021",
+   "links": [
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.337f0ab7-409c-4b72-9799-36c5187547c9",
+     "region": "US",
+     "verified_via": "JustWatch US (Deadly Illusions, 2021); landing page loads (HTTP 200)",
+     "checked": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "title": "Saltburn",
+   "year": "2023",
+   "links": [
+    {
+     "service": "Prime Video free with ads (Freevee)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.d6674b8e-5b88-45be-9361-63dd98818413",
+     "region": "US",
+     "verified_via": "JustWatch US (Saltburn, 2023); landing page loads (HTTP 200)",
+     "checked": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "title": "Tie Me Up! Tie Me Down!",
+   "year": "1989",
+   "links": [
+    {
+     "service": "Shout! Factory TV",
+     "url": "https://watch.shout-tv.com/interstitial/886335",
+     "region": "US",
+     "verified_via": "JustWatch US (Tie Me Up! Tie Me Down!, 1989); landing page loads (HTTP 200)",
+     "checked": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "title": "Sum of Existence",
+   "year": "2005",
+   "links": [
+    {
+     "service": "Fandango at Home Free",
+     "url": "https://athome.fandango.com/content/browse/details/Sum-of-Existence/1902702",
+     "region": "US",
+     "verified_via": "JustWatch US (Sum of Existence, 2005); landing page loads (HTTP 200)",
+     "checked": "2026-10-03"
+    },
+    {
+     "service": "Tubi",
+     "url": "https://tubitv.com/movies/486747",
+     "region": "US",
+     "verified_via": "JustWatch US (Sum of Existence, 2005); landing page loads (HTTP 200)",
+     "checked": "2026-10-03"
+    }
+   ]
   }
  ]
 }

@@ -859,17 +859,17 @@
   {
    "title": "The Greater Will",
    "year": "1915",
-   "reason": "fits (Peggy Sloane hypnotised into a marriage ceremony by Stuart Watson; she bears a baby and dies) but no verified free legal watch link; feature appears to be lost/unavailable"
+   "reason": "ADDED in sources/no-link-additions.json (rule changed 3 Oct 2026: titles without a free link are now added with a \"No free link found\" note). Original reason: fits (Peggy Sloane hypnotised into a marriage ceremony by Stuart Watson; she bears a baby and dies) but no verified free legal watch link; feature appears to be lost/unavailable"
   },
   {
    "title": "I Married a Witch",
    "year": "1942",
-   "reason": "love-potion marriage (Jennifer drinks her own potion and elopes) but only Prime-membership 'free' offers; the Internet Archive upload has no public-domain basis; no verified free link"
+   "reason": "ADDED in sources/no-link-additions.json (rule changed 3 Oct 2026: titles without a free link are now added with a \"No free link found\" note). Original reason: love-potion marriage (Jennifer drinks her own potion and elopes) but only Prime-membership 'free' offers; the Internet Archive upload has no public-domain basis; no verified free link"
   },
   {
    "title": "Love Potion No. 9",
    "year": "1992",
-   "reason": "potion is used by both leads for attraction, not a marriage; only Prime offer; skipped"
+   "reason": "ADDED in sources/no-link-additions.json (potion-driven infatuation and interrupted wedding; loose fit). Original reason: potion is used by both leads for attraction, not a marriage; only Prime offer; skipped"
   },
   {
    "title": "Tales of Terror (Valdemar segment)",
@@ -879,7 +879,7 @@
   {
    "title": "Chinatown Nights",
    "year": "1938",
-   "reason": "bride-to-be hypnotised and abducted on the eve of her wedding, but no marriage plot beyond rescue; film not available; no link"
+   "reason": "ADDED in sources/no-link-additions.json (rule changed 3 Oct 2026: titles without a free link are now added with a \"No free link found\" note). Original reason: bride-to-be hypnotised and abducted on the eve of her wedding, but no marriage plot beyond rescue; film not available; no link"
   },
   {
    "title": "Scared to Death",
@@ -909,17 +909,17 @@
   {
    "title": "The Witch (Cadi)",
    "year": "2024",
-   "reason": "Turkish film: bride in an Istanbul mansion tagged hypnosis on TMDB; plot not verifiable and no free link"
+   "reason": "ADDED in sources/no-link-additions.json (rule changed 3 Oct 2026: titles without a free link are now added with a \"No free link found\" note). Original reason: Turkish film: bride in an Istanbul mansion tagged hypnosis on TMDB; plot not verifiable and no free link"
   },
   {
    "title": "The Last Empress",
    "year": "2018-19",
-   "reason": "Korean drama; hypnosis tag on MyDramaList but no verified hypnotised-marriage plot; no free link"
+   "reason": "ADDED in sources/no-link-additions.json (rule changed 3 Oct 2026: titles without a free link are now added with a \"No free link found\" note). Original reason: Korean drama; hypnosis tag on MyDramaList but no verified hypnotised-marriage plot; no free link"
   },
   {
    "title": "Lao Gong Qing He Wo Lian Ai Ba (vertical drama)",
    "year": "2025",
-   "reason": "hypnosis + married female lead (amnesia) on MyDramaList; plot unverified and no free link"
+   "reason": "ADDED in sources/no-link-additions.json (rule changed 3 Oct 2026: titles without a free link are now added with a \"No free link found\" note). Original reason: hypnosis + married female lead (amnesia) on MyDramaList; plot unverified and no free link"
   },
   {
    "title": "Shut Eye / other thief-hypnotist titles",

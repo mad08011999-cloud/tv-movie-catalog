@@ -31,7 +31,7 @@ h1{font-family:Newsreader,Georgia,serif;font-size:clamp(2.75rem,6vw,5.5rem);line
 .legend{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}
 .legend span,.tag{display:inline-flex;align-items:center;gap:6px;padding:5px 9px;border-radius:999px;font-size:.72rem;font-weight:700;line-height:1.2}
 .legend i{width:8px;height:8px;border-radius:50%;display:inline-block;background:currentColor}
-.legend .love,.legend .forced-obedience{color:var(--accent);background:var(--soft-red)}
+.legend .love,.legend .forced-obedience,.legend .hypnotized-to-marry{color:var(--accent);background:var(--soft-red)}
 .legend .adult-hypnosis{color:var(--navy);background:var(--soft-navy)}
 .legend .adult-pregnancy{color:var(--rose);background:var(--soft-rose)}
 .legend .cheat-control,.legend .another-man{color:var(--rose);background:var(--soft-rose)}
@@ -98,7 +98,7 @@ input:focus,select:focus,button:focus-visible,a:focus-visible{outline:3px solid 
 .category-note strong{color:var(--teal)}
 .summary{font-size:.9rem;color:var(--muted);margin:0 0 18px}
 .tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:auto}
-.tag.love,.tag.forced-obedience{color:var(--accent);background:var(--soft-red)}
+.tag.love,.tag.forced-obedience,.tag.hypnotized-to-marry{color:var(--accent);background:var(--soft-red)}
 .tag.adult-hypnosis{color:var(--navy);background:var(--soft-navy)}
 .tag.adult-pregnancy{color:var(--rose);background:var(--soft-rose)}
 .tag.cheat-control,.tag.another-man{color:var(--rose);background:var(--soft-rose)}
