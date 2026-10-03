@@ -6,10 +6,18 @@ window.CATALOG = {
   "share_url": "https://muse.ai/s/tv-and-movie-research-catalog-xla62ucxbx02u5",
   "page_title": "TV and Movie Research Catalog",
   "kicker": "SCREEN STORY-PATTERN INDEX",
-  "heading": "2149 catalog records, sorted by the plot turn that matters.",
-  "description": "A worldwide research snapshot spanning films, serials, television movies, series, soap operas, individual episodes and short-form vertical dramas across sixty-one themes. The expanded index now includes a dedicated worldwide view of polygamy plus pregnancy and depicted or reported intimate/sex scenes, separated into multiple-wife plots, royal-harem and concubine dramas, modern polygamous households, a polyandry variant and unresolved leads; it also retains the dedicated view of polygamy plus female hypnosis, mind control, possession, occult control or coercive indoctrination, separated into strict multiple-wife matches, concurrent-partner harem variants, cult variants, borderlines and related cross-references; adult/18+ works and unresolved cases are labeled plainly; and separates strict hypnosis during pregnancy from possession, therapeutic, cult, fetal-targeting and control-caused-pregnancy variants; gives non-pregnant Indian-language cases their own regional view; and includes women who knowingly or unknowingly bargain with a devil- or demon-coded force to become pregnant or have a child, with the pregnancy outcome stated; women hypnotized or mind-controlled by a husband, boyfriend, ex-husband or ex-boyfriend, with direct matches separated from third-party, occult, adult-audience and unresolved variants; adult-audience films and television in which hypnosis, possession or mind control overlaps a pregnancy or causes it; the worldwide adult-audience search for mothers controlled by a current husband or boyfriend; wives who are already mothers becoming pregnant by another man; partnered women hypnotized or mind-controlled into infidelity; the 180-entry worldwide adult-audience sweep of wives and other adult female characters subjected to hypnosis, mesmerism, hypnotic suggestion, erotic supernatural thrall or explicitly framed occult trance; wives and other female characters forcibly hypnotized into obedience; stepmothers or bonus moms hypnotized, possessed, cursed or enchanted against their will; pregnant stepmothers and bonus moms; the closest documented cases of a remarried wife controlled by her new husband or a stepfather figure; a pregnant single mother controlled by her new husband or child’s stepfather; pregnant women controlled by unborn, ghost or alien children; female characters controlled by children or teens; current wives controlled or possessed by a husband’s former wife or lover; wives hypnotized or controlled by therapists; parents being intimate while children sleep; the expanded worldwide index of children interrupting or witnessing their parents’ intimate moments; adoption followed by pregnancy; human-villain hypnosis; vampire mesmerism; demonic and occult control; spirit or djinn possession; tantrik and vashikaran plots; sci-fi control; cult brainwashing; therapeutic hypnosis; fantasy enchantment; and the expanded worldwide index of pregnant characters in sexual, sensual, romantic, attempted, labor-related or fantasy scenes.",
-  "snapshot_label": "Research snapshot updated: 1 October 2026",
+  "heading": "2166 catalog records, sorted by the plot turn that matters.",
+  "description": "A worldwide research snapshot spanning films, serials, television movies, series, soap operas, individual episodes and short-form vertical dramas across sixty-two themes. The expanded index now includes a dedicated worldwide view of doctors and therapists who control female characters for sexual exploitation, crime cover-ups, programmed crime, financial or power gains, and possessive control; a dedicated worldwide view of polygamy plus pregnancy and depicted or reported intimate/sex scenes, separated into multiple-wife plots, royal-harem and concubine dramas, modern polygamous households, a polyandry variant and unresolved leads; it also retains the dedicated view of polygamy plus female hypnosis, mind control, possession, occult control or coercive indoctrination, separated into strict multiple-wife matches, concurrent-partner harem variants, cult variants, borderlines and related cross-references; adult/18+ works and unresolved cases are labeled plainly; and separates strict hypnosis during pregnancy from possession, therapeutic, cult, fetal-targeting and control-caused-pregnancy variants; gives non-pregnant Indian-language cases their own regional view; and includes women who knowingly or unknowingly bargain with a devil- or demon-coded force to become pregnant or have a child, with the pregnancy outcome stated; women hypnotized or mind-controlled by a husband, boyfriend, ex-husband or ex-boyfriend, with direct matches separated from third-party, occult, adult-audience and unresolved variants; adult-audience films and television in which hypnosis, possession or mind control overlaps a pregnancy or causes it; the worldwide adult-audience search for mothers controlled by a current husband or boyfriend; wives who are already mothers becoming pregnant by another man; partnered women hypnotized or mind-controlled into infidelity; the 180-entry worldwide adult-audience sweep of wives and other adult female characters subjected to hypnosis, mesmerism, hypnotic suggestion, erotic supernatural thrall or explicitly framed occult trance; wives and other female characters forcibly hypnotized into obedience; stepmothers or bonus moms hypnotized, possessed, cursed or enchanted against their will; pregnant stepmothers and bonus moms; the closest documented cases of a remarried wife controlled by her new husband or a stepfather figure; a pregnant single mother controlled by her new husband or child’s stepfather; pregnant women controlled by unborn, ghost or alien children; female characters controlled by children or teens; current wives controlled or possessed by a husband’s former wife or lover; wives hypnotized or controlled by therapists; parents being intimate while children sleep; the expanded worldwide index of children interrupting or witnessing their parents’ intimate moments; adoption followed by pregnancy; human-villain hypnosis; vampire mesmerism; demonic and occult control; spirit or djinn possession; tantrik and vashikaran plots; sci-fi control; cult brainwashing; therapeutic hypnosis; fantasy enchantment; and the expanded worldwide index of pregnant characters in sexual, sensual, romantic, attempted, labor-related or fantasy scenes.",
+  "snapshot_label": "Research snapshot updated: 2 October 2026",
   "snapshot_breakdowns": [
+   {
+    "html": "<b>7</b> verified additions from the 2 Oct female-hypnosis deep sweep: <b>2</b> forced-obedience memberships and <b>5</b> hypno-intimacy memberships · <b>4</b> net-new records after full-catalog dedupe · <b>1</b> ReelShort vertical drama and <b>5</b> clearly labeled 18+ works",
+    "text": "7 verified additions from the 2 Oct female-hypnosis deep sweep: 2 forced-obedience memberships and 5 hypno-intimacy memberships · 4 net-new records after full-catalog dedupe · 1 ReelShort vertical drama and 5 clearly labeled 18+ works"
+   },
+   {
+    "html": "<b>27</b> doctor / therapist personal-gain category memberships: <b>20</b> verified sweep findings (<b>13</b> high, <b>7</b> medium) across five motive groups, plus <b>7</b> grants to existing records; adult / erotic labels, female-doctor notes, age caveats and non-trance mechanisms remain visible; <b>17</b> low-confidence leads are held outside the catalog",
+    "text": "27 doctor / therapist personal-gain category memberships: 20 verified sweep findings ( 13 high, 7 medium) across five motive groups, plus 7 grants to existing records; adult / erotic labels, female-doctor notes, age caveats and non-trance mechanisms remain visible; 17 low-confidence leads are held outside the catalog"
+   },
    {
     "html": "<b>99</b> polygamy + pregnancy + intimacy / sex category memberships: <b>33</b> multiple-wife or concurrent-partner plots, <b>29</b> royal-harem / concubine dramas, <b>8</b> modern polygamous-household stories, <b>1</b> polyandry variant and <b>28</b> unresolved leads · dedicated adult / R-rated / erotic coverage included, with every uncertainty labeled",
     "text": "99 polygamy + pregnancy + intimacy / sex category memberships: 33 multiple-wife or concurrent-partner plots, 29 royal-harem / concubine dramas, 8 modern polygamous-household stories, 1 polyandry variant and 28 unresolved leads · dedicated adult / R-rated / erotic coverage included, with every uncertainty labeled"
@@ -47,8 +55,8 @@ window.CATALOG = {
     "text": "1 partner-engaged hypnotist pregnancy match: Ultrasound (2021), cross-filed without a duplicate record · plot facts are triple-sourced; the relationship is presented as extramarital rather than a formal marriage"
    },
    {
-    "html": "<b>11</b> strict pregnancy-era hypnosis or will-override cases + <b>27</b> pregnancy-control variants and leads: <b>19</b> labeled variants and <b>8</b> unresolved leads · the seven-vector round-2 deep sweep found <b>0</b> net-new strict-core titles, added the attempted-possession variant <em>Don't Turn Around, or You'll Be Sorry</em>, re-identified the 1971 <em>Metamorphosis</em> lead as <em>The Interns</em> S1E17, corrected <em>Alem-i Cin 4</em>, and clarified that <em>Saimin Seishidou</em> depicts a simulated rather than real pregnancy · adult / R-rated / erotic plot indexes were included, with remaining access and regional documentation gaps stated below",
-    "text": "11 strict pregnancy-era hypnosis or will-override cases + 27 pregnancy-control variants and leads: 19 labeled variants and 8 unresolved leads · the seven-vector round-2 deep sweep found 0 net-new strict-core titles, added the attempted-possession variant Don't Turn Around, or You'll Be Sorry , re-identified the 1971 Metamorphosis lead as The Interns S1E17, corrected Alem-i Cin 4 , and clarified that Saimin Seishidou depicts a simulated rather than real pregnancy · adult / R-rated / erotic plot indexes were included, with remaining access and regional documentation gaps stated below"
+    "html": "<b>12</b> strict pregnancy-era hypnosis or will-override cases + <b>31</b> pregnancy-control variants and leads: <b>21</b> labeled variants and <b>10</b> unresolved leads · the 2–3 October 110-round multilingual sweep adds literal pregnancy-era hypnosis evidence for <em>The Womb / Inang</em>, two medium-confidence supernatural variants and two LOW-confidence leads; <em>Ezedike (The Pregnant Witches)</em> remains outside the catalog because no controlled pregnant victim is confirmed · adult / R-rated / erotic and vertical-short searches returned no verified addition",
+    "text": "12 strict pregnancy-era hypnosis or will-override cases + 31 pregnancy-control variants and leads: 21 labeled variants and 10 unresolved leads · the 2–3 October 110-round multilingual sweep adds literal pregnancy-era hypnosis evidence for The Womb / Inang , two medium-confidence supernatural variants and two LOW-confidence leads; Ezedike (The Pregnant Witches) remains outside the catalog because no controlled pregnant victim is confirmed · adult / R-rated / erotic and vertical-short searches returned no verified addition"
    },
    {
     "html": "<b>13</b> net-new adult-context pregnancy-control findings from a worldwide indexed sweep: <b>3</b> literal-hypnosis core cases, <b>8</b> supported broader-control variants and <b>2</b> provisional or implied leads; rating evidence is stated per card",
@@ -171,7 +179,7 @@ window.CATALOG = {
     "text": "22 pregnant-sex entries + 17 intimate, attempted, sensual or romantic entries · the latest worldwide pleasure-scene sweep added 5 deduplicated titles ( 2 high, 1 medium-high, 2 medium confidence)"
    }
   ],
-  "research_notes_html": "<h2 id=\"notes-heading\">Boundaries &amp; open questions</h2>\n<details open=\"\"><summary>Polygamy + pregnancy + intimate / sex scenes: 99 worldwide findings</summary><div class=\"note-body\"><p>The 1–2 October 2026 worldwide sweep reviewed films, television series and serials, TV movies, soap operas, historical dramas and vertical shorts across ten regional and format vectors. It found 99 distinct titles or leads and grouped them by how closely all three plot elements are documented.</p><ul><li><strong>Multiple wives / partners with pregnancy:</strong> 33 records, including 10 high-confidence strict matches. Formal co-wives, bigamy, live-in parallel households and edge cases such as a mistress or sequential-marriage overlap are distinguished on each card.</li><li><strong>Royal harem / concubine stories:</strong> 29 records, including 11 high-confidence titles and one medium-high title. Nine palace dramas remain low confidence because pregnancy and plural-consort structures are established but intimacy is only implied or off-screen.</li><li><strong>Modern polygamous households:</strong> 8 records spanning HBO drama, Indonesian cinema, Lifetime TV movies, a fantasy-series subplot and vertical drama. Missing pregnancy or intimacy evidence is stated rather than inferred.</li><li><strong>Polyandry variant:</strong> <em>Matrubhoomi: A Nation Without Women</em> is separated from polygyny and carries a prominent sexual-violence caveat; it is not framed as romantic polyandry.</li><li><strong>Unresolved leads:</strong> 28 records remain clearly labeled because pregnancy, depicted intimacy, formal plural-marriage status, release identity or another required element is not yet verified.</li><li><strong>Adult / R-rated / erotic coverage:</strong> the dedicated vector found 12 relevant adult-audience or explicit candidates, including <em>The Concubine</em>, <em>Jan Dara</em>, <em>Versailles</em>, <em>Borgia</em> and <em>The Golden Lotus: Love and Desire</em>. Hardcore pornography was outside the research scope.</li><li><strong>Dedupe:</strong> this category reuses existing catalog rows where the same title and release year were already present, adding a category-specific view instead of a second card.</li></ul></div></details>\n<details open=\"\"><summary>Polygamy + female hypnosis / mind control: 36 category memberships, 6 unresolved leads</summary><div class=\"note-body\"><p>The 1 October 2026 worldwide sweep and strict-scope supplement searched films, television series and serials, TV movies, soap operas, anime, documentaries and adult-audience productions across fourteen complementary regional and format vectors. The catalog now shows 33 supported or borderline research titles plus three related existing records, without adding duplicate rows.</p><ul><li><strong>Five plot-pattern groups:</strong> 10 strict core matches connect plural wives or consorts to hypnosis, possession or occult will-override; 6 harem variants involve concurrent controlled partners rather than wives; 8 cult variants document coercive indoctrination, not literal hypnosis; 9 entries are labeled borderline; and 3 related records are cross-referenced from existing catalog rows.</li><li><strong>Adult / 18+ coverage:</strong> adult, softcore and mature-audience records are explicitly labeled. The worldwide search also covered R-rated and erotic cinema.</li><li><strong>New strict-core coverage:</strong> the supplement adds the 2005 <em>Trapped by the Mormons</em> remake, Egypt’s <em>ساحرة الجنوب / Saherat El Ganoub</em>, India’s <em>Sasural Simar Ka</em>, China’s <em>Creation of the Gods I: Kingdom of Storms</em> and Japan’s <em>Genji Monogatari: Sennen no Nazo</em>. <em>O Beijo do Vampiro</em> now records its confirmed plural-wife dimension while keeping the separate pregnancy-era hypnosis timing question open.</li><li><strong>Honest-zero searches:</strong> the strict review found no additional verified combination in modern European productions, Western soaps, Turkish erotic films, Scandinavian / Eastern European / Oceanian cinema, Iranian titles, most imperial-harem dramas, or the dedicated Latin America / Africa and adult-erotic vectors. These are documentation results, not proof that no other title exists.</li><li><strong>Unresolved leads — not counted as verified:</strong> <em>The 19th Wife</em> (2010), <em>Escape from Polygamy</em> (2013), <em>Hell Is Empty</em> (2021/22), <em>Sharara / شرارة</em> (2026), <em>RadhaKrishn</em> (2018–2023) and an unidentified Thai lakorn. For <em>Sharara</em>, the only located promo describes sihr aimed at the husband rather than a woman, and episode-level confirmation is still missing.</li><li><strong>Explicit exclusions:</strong> <em>Big Love</em>, <em>Sister Wives</em>, <em>The Polygamist</em> (2026), <em>O Clone / El Clon</em>, <em>The Stepford Wives</em>, <em>Get Out</em>, <em>El Maleficio</em> (1983), <em>Shaitaan</em>, <em>Vash</em>, <em>Caminhos do Coração</em>, <em>Bible Black</em>, <em>Queen Seondeok</em> and <em>Kutsujoku</em> fail one prong, reverse the control direction or lack a qualifying plural-wife structure.</li></ul></div></details>\n<details open=\"\"><summary>DramaExpress + short-drama-sites sweep (1 Oct 2026): 7 net-new titles, 4 leads, ~48 exclusions</summary><div class=\"note-body\"><p>The sweep covered 12 platform surfaces: dramaexpress.net, DramaBox, ReelShort, GoodShort, ShortMax and ShortTV, NetShort, DramaWave, FlexTV, ToonShort, Miralune Short and MiniShorts. Seven net-new titles were verified: three forced-obedience entries, three age-gap-marriage entries and one mom-pregnancy borderline/variant.</p><ul><li><strong>LOW leads:</strong> four were reviewed. <em>寒途向新生</em>, <em>My Don Missed My Last Chance to Be a Mother</em> and <em>A Lover's Trap</em> are filed only as clearly labeled unresolved leads, not as verified entries. <em>The Tower That Erased Me</em> is excluded: NetShort describes Chloe being suppressed with antipsychotics in a psychiatric facility, which is chemical sedation rather than hypnosis.</li><li><strong>Exclusions:</strong> roughly 48 candidates were rejected because they used a werewolf mate-bond genre trope rather than hypnosis, ordinary amnesia, telepathy, a plain secret-baby plot, or devil romance without pregnancy.</li><li><strong>Honest zeros:</strong> strict pregnant-while-hypnotized, devil-deal pregnancy, hypno-intimacy plus pregnancy and adult / R-rated / 18+ productions each returned zero; all 12 platforms skew PG-13 / Teen.</li><li><strong>Coverage limits:</strong> no live browser was available, so in-app-only titles remained unreachable. Miralune Short and MiniShorts have no text-searchable web catalogs, while dramaexpress.net is new (about September 2026) and has minimal search-engine indexing.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant + hypnotized round 2: no new strict-core title; two variant outcomes</summary><div class=\"note-body\"><p>The 1 October 2026 super-deep sweep covered seven regional vectors across movies, television, serials, soap operas, anime and adult-audience plot indexes. It found no net-new title meeting the strict rule that the same adult woman is pregnant while an external force overrides her will.</p><ul><li><strong>New close variant:</strong> <em>Don't Turn Around, or You'll Be Sorry / 唔該借歪</em> (2000) is filed in both the evil-force and pregnancy-control-variant views. Five sources describe a ghost seeking to take over pregnant Lisa's body, but the takeover is framed as attempted or thwarted rather than completed.</li><li><strong>Re-identified lead:</strong> the old “Metamorphosis” record is now correctly <em>The Interns</em> S1E17 (1971), a CBS television episode. Pregnancy and episode identity are corroborated, while the diagnostic-hypnosis detail remains single-sourced.</li><li><strong>Corrections:</strong> <em>Alem-i Cin 4</em>'s pregnant character is İrem, not İpek; Turkish sources confirm the pregnancy, but not literal will-override. <em>Saimin Seishidou</em>'s “pregnancy experience” is now labeled simulated, not real. <em>Danger Diva</em>'s source list was reconciled without adding a duplicate.</li><li><strong>Revisit list — not catalog records:</strong> <em>Pregnancy</em> (Nigeria); <em>Zir-i Cin 4: Nesep Bağı</em> (2026); <em>Üç Harfliler: Mühür</em> (2026); <em>Fear Files</em> S3E9; <em>418</em> (Telugu, theatrical release dated 23 October 2026); the unresolved Nollywood demon-pregnancy video; and <em>Revolving Heart / 心门</em> (2017), which still needs a third source and fails strict simultaneity.</li><li><strong>Coverage gaps:</strong> IAFD direct search remained unavailable; Scandinavian and deeper European adult-index passes were not completed; documentation remains thin for several South and Southeast Asian markets. These are search gaps, not claims that no additional title exists.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant belly kissed or touched by kids: 7 verified family-warmth scenes</summary><div class=\"note-body\"><p>The first 1 October 2026 worldwide sweep filed six verified scenes after dedupe. A round-2 deep sweep across six vectors adds one medium-confidence human-character scene, bringing this view to seven records.</p><ul><li><strong>Round-2 addition:</strong> <em>Shang-Chi and the Legend of the Ten Rings</em> shows Ying Li resting young Shang-Chi on her pregnant stomach in a flashback. The card retains the fan-curated-source and visibility caveats.</li><li><strong>Round-1 records retained:</strong> <em>Kim Possible: A Sitch in Time</em>, <em>A Separation</em>, the Vietnamese-titled NetShort series <em>Đuổi Tôi Đi, Giờ Đòi Nhận Con?</em>, <em>Pan's Labyrinth / El laberinto del fauno</em>, <em>Look Who's Talking Too</em> and <em>Parenthood</em>.</li><li><strong>NetShort enrichment:</strong> the child is now identified as Elowen Thorne's own son Elian; the werewolf-romance premise, still-unidentified original title, official-thumbnail verification and possible pregnant-again overlap are recorded on the existing card.</li><li><strong>Scope refinement:</strong> round-2 animal, animated-animal and animal-puppet findings were not filed. Existing round-1 records were left unchanged.</li><li><strong>Coverage result:</strong> the dedicated adult / erotic vector returned an honest structural zero.</li></ul></div></details>\n<details open=\"\"><summary>Hallmark six-topic sweep: 11 titles filed across four views</summary><div class=\"note-body\"><p>The 1 October 2026 sweep reviewed Hallmark Channel, Hallmark Mystery, Hallmark+, and the Crown Media / Hallmark Hall of Fame back catalog across six requested plot patterns. It adds ten net-new records and upgrades one existing record, <em>Jane Doe: How to Fire Your Boss</em>, without duplication.</p><ul><li><strong>Pregnant female character:</strong> eight titles appear in the new Hallmark-specific view. Seven are high confidence; <em>Signed, Sealed, Delivered: A Tale of Three Letters</em> is medium confidence because pregnancy is announced only in the final moments.</li><li><strong>Mother pregnant again:</strong> <em>Three Wisest Men</em> follows Sophie, already mother to Thomas, while expecting twins.</li><li><strong>Remarriage:</strong> <em>Love's Enduring Promise</em> is a core fit, though the pregnancy occurs off-screen between films. <em>Love Comes Softly</em> is a labeled borderline because Marty is already pregnant by her late husband before marrying Clark.</li><li><strong>Female hypnosis:</strong> the existing <em>Jane Doe: How to Fire Your Boss</em> record is upgraded to high confidence and cross-filed into forced obedience for its trigger-word sleeper-agent trance.</li><li><strong>Honest zeroes:</strong> no Hallmark title was verified for a pregnant woman hypnotized while pregnant or a remarried woman who is hypnotized. Competing-network lookalikes and unproduced pitches remain excluded.</li></ul></div></details>\n<details open=\"\"><summary>Vertical short dramas: 13 mothers become pregnant again</summary><div class=\"note-body\"><p>The 1 October 2026 multilingual sweep adds 13 deduplicated vertical-short records to the mother-pregnancy view. The English HoneyReels title <em>Two Babies in One Birth: Daddy, Mummy is Pregnant Again</em> and the Mandarin <em>一胎两宝：爹地妈咪又怀了</em> share the same cast and are therefore one record.</p><ul><li><strong>Visible-pregnancy evidence:</strong> <em>For the Custody, I Slept with a Billionaire</em> has direct episode-level baby-bump wording. <em>They Locked Her Daughter in the Car</em>, <em>A Baby, a Billionaire, And Me</em> and <em>CEO Wants My Little Rascal</em> have medium-strength anchors through emergency labor, belly-touching and maternity shopping, or on-screen ultrasound and pregnancy-test scenes.</li><li><strong>Scope caveats retained:</strong> <em>Unconditionally Loved by the Lycan Billionaire</em> has mixed DramaBox / Stardust TV attribution. <em>诞下二胎，父母破局</em> and <em>Ditch The Mommy Duties After Reborn</em> involve adult daughters, while <em>Reborn At Sixty, I'm Pregnant Again</em> is an elderly-mother rebirth fantasy.</li><li><strong>Held outside the catalog:</strong> <em>Beg Me, My Mafia Ex-Husband</em> remains unfiled because the available synopsis does not establish the parentage or timing of “her child” relative to the new pregnancy. The titleless 借种怀二胎 upload and all other unresolved leads also remain unfiled pending a verified title or stronger plot evidence. The visible-pregnancy follow-up found no additional net-new title meeting its screen-evidence bar.</li></ul></div></details>\n<details open=\"\"><summary>Vertical short dramas: 8 verified hypnosis titles, including 2 strict pregnancy-era matches</summary><div class=\"note-body\"><p>The 1 October 2026 hypnosis-and-pregnancy sweeps found seven titles for the broad hypnotized-to-love / relationship-role view. A separate five-vector female-hypnosis sweep reviewed roughly 70 additional query rounds and adds <em>Stay Away! She's a Violent Psycho!</em> to the forced-obedience view. <em>Snake Year Salvation: CEO's Bargain Bride</em> and <em>I Accidentally Had the Billionaire's Twins</em> also qualify for the strict pregnant-while-hypnotized category.</p><ul><li><strong>New forced-obedience addition:</strong> <em>Stay Away! She's a Violent Psycho!</em> is a medium-high-confidence NetShort drama of approximately 80 episodes. Mr. Jensen uses Dr. Clark to hypnotize Jessie Bennett for control and punishment; episode 58 shows Jessie resisting the pocket-watch attempt, while episode 61 says six years of torture left her immune to hypnosis. The release year and exact episode count remain unconfirmed.</li><li><strong>Strict pregnancy-era overlap:</strong> <em>Snake Year Salvation</em> has adjacent episode-guide evidence for the heroine carrying a baby and being hypnotized with a pocket watch. <em>I Accidentally Had the Billionaire's Twins</em> places Kathy's kidnapping and hypnosis after a marker identifying her as pregnant and before the six-year jump; its pregnancy timing is inferred from those markers and remains medium-high confidence.</li><li><strong>Follow-up love-category addition:</strong> <em>Broken Bone Rose</em> is a medium-confidence Mandarin vertical drama in which a man erases his bodyguard's memories through hypnosis to keep her. Two independent uploads support the mechanism and direction, but the year and episode count remain unconfirmed.</li><li><strong>Pregnancy timing unresolved:</strong> <em>Sweet Strategy: Mr. Vance's Ex Is Too Proud</em> links the hypnosis incident to a later pregnancy discovery, but does not establish whether Elena was already pregnant during the hypnosis.</li><li><strong>Other verified female-control titles:</strong> <em>Twisted Vows</em> pairs hypnosis with a forced new identity and fiancée role; <em>They Called Me the Fake Heiress, But My Birthright Was Far Greater</em> uses pill-assisted hypnosis to impose false “rebirth” memories; and <em>Taste of the Wild</em> uses chime-based mind control, with a retained Emma/Rachel name discrepancy and mixed controller direction.</li><li><strong>Resolved exclusions and open leads:</strong> <em>被催眠的她 / Hypnotized Her</em> is rejected because the plot attributes the wife's perceptions to mental illness, not literal hypnosis. <em>Scratch Your Fate</em> episode 59 is rejected because Olivia is the hypnotizer and her pregnancy is only alleged. <em>My Childhood Friend Hypnotized Me To Love Another</em>, <em>被束缚后她觉醒了</em>, and unidentified YouTube edits remain outside the catalog pending corroboration.</li><li><strong>Coverage result:</strong> the separate female-hypnosis sweep found no additional verified title in its Chinese-vertical, Asia-regional, Latin America / EMEA or recap-aggregator vectors. Search indexing remains weak for several platforms, so those are documented search zeroes, not proof that no other title exists.</li></ul></div></details>\n<details open=\"\"><summary>Hypnotized to marry or love: worldwide max sweep, including short-form vertical dramas</summary><div class=\"note-body\"><p>The 1 October 2026 sweep reviewed 16 candidates across eight multilingual research vectors and roughly 150 query rounds. After reconciling the finished sweep against the current catalog, two records are net-new and four existing records are cross-filed into this plot category without duplicating them.</p><ul><li><strong>Net-new:</strong> <em>Kiss Me, Even If It Burns</em> is the key DramaBox-style vertical short-series find; billionaire Dylan Pitt erases bodyguard Scarlet Novak’s memories so she will fall in love with him anew. <em>Eternally Yours</em> verifies a hypnosis scheme to win back an ex-wife, but the reconciliation outcome remains unconfirmed.</li><li><strong>New category memberships:</strong> The current catalog already held <em>The Brides of Dracula</em>, so its vampiric mesmerism toward a devoted “bride” bond and interrupted forced marriage is cross-filed rather than duplicated. <em>The Kiss of the Vampire</em> transfers Marianne’s devotion from her husband to Ravna; <em>She Did What He Wanted</em> compels adult Nora’s “loving” devotion without marriage; and <em>Naagin 3</em> hypnotizes Bela toward divorce and an interrupted nikah with Shahnawaz.</li><li><strong>Already covered:</strong> <em>Road to Rio</em>, both <em>Flash Gordon</em> versions, <em>Devil Doll</em>, <em>Carefree</em>, <em>Don’t Go Breaking My Heart</em>, <em>El maleficio 2</em>, <em>The Hypnotist</em> (1911), and <em>Skin Deep in Love</em>.</li><li><strong>Excluded:</strong> <em>How to Be Very, Very Popular</em> (1955) remains outside the catalog because its accidental hypnosis is incidental to the romance. MENA/Africa/Russia and East/Southeast Asia produced no net-new verified title in this pass; those are documentation results, not proof that none exist.</li></ul></div></details>\n<details open=\"\"><summary>Woman bargains with the devil or a demon for pregnancy / a child: 9 core matches + 1 failed-deal variant + 11 unresolved leads</summary><div class=\"note-body\"><p>The 30 September 2026 multilingual sweeps now support nine core records: six knowing feature-film cases, one knowing short and two unknowing fertility schemes. A high-confidence episode in which both fertility rituals fail is separated as a variant, and eleven thinner or structurally adjacent leads are not counted as verified core matches. Every card states the pregnancy outcome and the evidence caveat.</p><ul><li><strong>New verified additions:</strong> <em>Pengabdi Setan / Satan's Slaves</em> and <em>Soulful</em> are high confidence; <em>Exorcismo Negro</em> is medium-high confidence with a witch-mediated devil link; and the erotic-horror film <em>Secta Sinestra / Bloody Sect</em> is a medium-confidence tricked fertility-clinic case.</li><li><strong>Failed-deal variant:</strong> <em>American Horror Story: Coven</em> “Boy Parts” is high confidence on plot, but Cordelia's paid and sex-magic fertility rituals do not result in pregnancy. The counterparty is practitioner Marie Laveau rather than the devil directly.</li><li><strong>Source discrepancies retained:</strong> <em>The Surrogate</em> now says “pregnancy outcome ambiguous” because its pre-production pitch says she cannot get pregnant while release loglines say she struggles to stay pregnant. The <em>American Horror Stories</em> “BA'AL” card now records that Liv's husband faked the haunting; only the final beat suggests the real Ba'al may take hold.</li><li><strong>Adult / R-rated / erotic search:</strong> one medium-confidence tricked case—<em>Secta Sinestra</em>—survived the worldwide search, but no title verified a knowing bargain. This is a documented search result, not proof that no other title exists.</li><li><strong>Structural pattern:</strong> the knowing-deal protagonists are childless or barren, except the already-pregnant woman in <em>Soulful</em>, whose bargain seeks a healthy birth. No verified title was found in which an existing mother bargains for another child.</li><li><strong>Common exclusions:</strong> the deal seeks wealth, beauty, revenge or saving a life; the child is the price rather than the object; a husband or family member makes the deal; or the woman is impregnated, possessed or cursed without making any bargain. <em>Rosemary's Baby</em>, <em>Devil's Due</em>, <em>The First Omen</em>, <em>Pari</em>, <em>Impetigore</em> and <em>AHS: Delicate</em> therefore remain outside this exact category.</li><li><strong>Regional result:</strong> verified core cases remain concentrated in Indonesian / Malay-language horror, with Nigerian, Brazilian, Spanish and U.S. examples. No verified soap-opera or telenovela title surfaced, and thin regional-horror indexing remains an open documentation gap.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant sexual pleasure scenes: 5 verified additions from a worldwide sweep</summary><div class=\"note-body\"><p>The 30 September 2026 multilingual sweep added five deduplicated titles to the existing pregnancy-sex section: two high-confidence, one medium-high-confidence and two medium-confidence findings. Each card states whether pleasure is directly verified, inferred from pregnancy-era intimacy, or supported through scene dialogue and reviews.</p><ul><li><strong>Marital comedy:</strong> <em>Catastrophe</em> S2E1 shows deeply pregnant Sharon and Rob mid-coitus when their son walks in; it also appears in the child-walk-in category.</li><li><strong>Erotic drama and arthouse intimacy:</strong> <em>A Frozen Flower</em> establishes the Queen’s new pregnancy before a passionate library encounter; <em>Los días que vendrán</em> contains explicit couple sexuality during pregnancy, though no source specifically documents moaning.</li><li><strong>R-rated comedy and affair / new partner:</strong> <em>How to Plan an Orgy in a Small Town</em> depicts a heavily pregnant participant reaching orgasm; the Nollywood film <em>The Pregnant Widow</em> has a consensual steamy scene with a new partner, but its exact release year remains unverified.</li><li><strong>Search boundary:</strong> 18 borderlines or unresolved leads and 81 unique near-misses were reviewed. More than 20 regional or format veins returned no verified match, including the worldwide adult / erotic plot-index pass at high confidence. This is a documentation result, not proof that no other title exists.</li><li><strong>Not promoted:</strong> <em>Titane</em>, <em>Jamón, jamón</em> and <em>Rosemary Is Pregnant Again</em> remain outside the catalog because the pregnancy timing, pleasure element or direct participation could not be established strongly enough.</li></ul></div></details>\n<details open=\"\"><summary>Partner hires a third party to hypnotize or mind-control wife / girlfriend: 5 verified</summary><div class=\"note-body\"><p>This worldwide multilingual sweep found five verified matches: four research additions and one upgraded existing catalog record. It is the rarest node in this trope family: stories more often make the partner the controller, use an uncommissioned villain, or rely on a communal conspiracy.</p><ul><li><strong>Verified motives:</strong> regain her love or stop her leaving (<em>Maalaala Mo Kaya</em> “Gayuma”); change or “cure” her behavior (<em>While You Were Sleeping</em>); extract a secret or locate hidden money (<em>Tee Ratra</em> and <em>The Honeymooners</em> “Sleepy Time Gal”); and malicious elimination for inheritance and another relationship (<em>Sleep, My Love</em>).</li><li><strong>Honest-zero regions:</strong> Latin America and Spain, including telenovelas; the Middle East and Turkey; Europe; Japan; Chinese-language markets; Thailand; Indonesia; sub-Saharan Africa; and adult / erotic indexes worldwide.</li><li><strong>Evidence boundary:</strong> the partner must arrange a third party and the wife, girlfriend or fiancée must herself be subjected to hypnosis, mind control, brainwashing or magical will override. Ordinary manipulation, self-performed control and the wrong target are excluded.</li></ul></div></details>\n<details open=\"\"><summary>Female controlled by husband, boyfriend or ex-partner: 29 entries after the round-2 worldwide sweep</summary><div class=\"note-body\"><p>The 1 October 2026 round-2 sweep adds five high-confidence relationship matches to the unified partner-controller view. Four are husband-as-controller stories—<em>A hipnotizált feleség</em> (1932), <em>Paris 1900: Feydeau</em> “The Ribadier System” (1964), <em>Tales of Wells Fargo</em> “The Gold Witch” (1962), and the 2005–06 Alex North arc of <em>Days of Our Lives</em>—while <em>Mil sexos tiene la noche</em> (1984) is the verified boyfriend-controller find.</p><ul><li><strong>Current husband:</strong> the four new titles span Hungarian short comedy, British television farce, a U.S. western episode and a U.S. daytime-soap arc. Each directly documents a husband hypnotizing his wife; the <em>Days of Our Lives</em> record is distinct from the already cataloged 1994–95 Stefano/Marlena storyline.</li><li><strong>Current boyfriend:</strong> <em>Mil sexos tiene la noche</em> is an erotic-horror film in which Fabián hypnotically controls girlfriend Irina for revenge. The existing adult-audience record is cross-filed here rather than duplicated. Earlier supported matches <em>O Beijo do Vampiro</em> and <em>Silence of Sleep</em> remain.</li><li><strong>Ex-boyfriend:</strong> no new title surfaced; <em>Caminhos do Coração</em> and <em>Scott Pilgrim vs. the World</em> remain the verified examples.</li><li><strong>Ex-husband:</strong> no verified direct case was found, the sixth worldwide confirmation of an honest zero. <em>Desejos de Mulher</em> remains a near-miss because the ex-husband hires a corrupt psychiatrist rather than performing the control himself.</li><li><strong>Adult / erotic search:</strong> the dedicated worldwide pass remains nearly barren, but is no longer zero: <em>Mil sexos tiene la noche</em> is one high-confidence exact match. <em>Mind Twister</em> and <em>Sins of Desire</em> were checked and rejected; <em>Jacquette</em> and <em>The Hypnotized / Faceless Beauty</em> remain relationship-status borderlines.</li><li><strong>Coverage:</strong> twelve regional and format vectors searched local-language sources across Eastern Europe, Africa, India, East and Southeast Asia, the Middle East, Latin America, Western television, soaps and adult-audience cinema. About 120 near-misses were reviewed; thin episode indexing in several markets remains a documentation gap, not proof of absence.</li></ul></div></details>\n<details open=\"\"><summary>Partner engages a hypnotist for his pregnant wife/girlfriend: 1 verified dual-membership</summary><div class=\"note-body\"><p><strong>Scope:</strong> the woman’s partner engages a third-party hypnotist; she is pregnant at the time.</p><p><strong>Round-2 research note:</strong> Round-2 deep sweep (~144 reference surfaces) found this the only verified title; other leads did not verify; adult/erotic indexes yielded no matches.</p></div></details>\n<details open=\"\"><summary>Pregnancy-control restructure: 8 strict cases + 23 variants or leads + 8 Indian-language non-pregnant cases</summary><div class=\"note-body\"><p>The 30 September 2026 combined sweep replaces the former mixed pregnancy-and-trance section with two explicit standards and moves eight Indian-language, non-pregnant records out of the broad forced-obedience category into a dedicated regional view. Five new records were added after title, year and language checks; three existing titles gained category membership without duplication.</p><ul><li><strong>Strict core · 8:</strong> <em>The Stranger Within</em>, <em>Jessica Jones</em> season 1, <em>Black Magic Part 2</em>, <em>Uzumaki</em> episode 3, <em>Ultrasound</em>, <em>The Antichrist</em>, <em>O Beijo do Vampiro</em> and the Amália arc of <em>Caminhos do Coração</em>. The two Brazilian serials are clearly marked as timing-inferred borderlines.</li><li><strong>Variants and leads · 23:</strong> five possession cases, three therapeutic or diagnostic cases, one fetus-targeting case, one possible control-caused pregnancy, one cult-coercion case, four adult-animation variants and eight unresolved leads. These cards do not claim strict hypnosis while visibly pregnant.</li><li><strong>Adult / erotic additions:</strong> <em>Saimin Seishidou</em> gains variant membership; <em>Kyonyuu Hitozuma Onna Kyoushi Saimin</em>, <em>Genkaku Cool na Sensei ga Aheboteochi!</em> and <em>Night Shift Nurses</em> are new records. All four are labeled explicit adult animation and control-causing-pregnancy variants, not strict matches.</li><li><strong>Indian-language non-pregnant · 8 moved records:</strong> <em>Bhairava Dweepam</em>, <em>Anandabhadram</em> and <em>Ishanou</em> are grouped under South India and Manipuri cinema; <em>Jiji Maa</em>, <em>Suhani Si Ek Ladki</em>, <em>Ek Tha Raja Ek Thi Rani</em>, <em>Jijaji Chhat Per Hain</em> and the Preeti–Prem episode of <em>Laal Ishq</em> are grouped under Hindi television.</li><li><strong>New non-adult variant:</strong> <em>Birth</em> (2022) is included only as cult coercion during pregnancy; no located source uses hypnosis, trance or mind-control terminology. The Lúcia arc of <em>Caminhos do Coração</em> rests on one quote and remains medium-low confidence.</li><li><strong>Indian pregnancy-control gap-fill:</strong> <em>Aranmanai</em> (2014) and <em>Devi / Abhinetri / Tutak Tutak Tutiya</em> (2016) gain high-confidence membership in the pregnancy-control and devil/evil-force sections without duplicate cards. In both Tamil originals, a ghost is still possessing the wife when her pregnancy is revealed. The adult / R-rated / erotic pass found no qualifying Indian title across the indexed services and film traditions searched.</li><li><strong>Watch list:</strong> <em>418</em>, <em>Pisaasu 2</em>, <em>Kathanar – The Wild Sorcerer</em>, <em>Aathma</em>, <em>Laal Ishq</em> “A Horrid Dream”, <em>Obosheshot</em>, <em>Anveshitha</em>, <em>Andhar Maya</em>, <em>Birth</em> and several thinly documented supernatural serials remain outside the verified set pending release, fuller synopses or episode-level pregnancy-plus-control evidence.</li><li><strong>Verified exclusion:</strong> <em>Ezra</em> (2017) is not a match. The possessed person is Ranjan, while pregnant Priya is never controlled; the story only threatens future possession of their unborn child.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant woman controlled — adult context: 11 supported titles + 2 provisional / implied leads</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide indexed sweep found 13 net-new mainstream adult-context films, television episodes, serials and anime in which a woman is pregnant while controlled or the control causes or targets the pregnancy. Three are literal-hypnosis core cases; eight are supported broader mind-control, possession or supernatural-control variants; two remain provisional or implied. “Adult context” does not claim a literal MPAA R rating for every title. The cards state the available rating evidence; pornography was excluded.</p><ul><li><strong>Evidence profile:</strong> the research assigned seven high, five medium-high and one medium confidence, but <em>Laal Ishq</em> remains provisional and <em>Hell Girl</em> is only implied, so they are separated from the 11 supported titles. All 13 findings were checked against the 805-record pre-edit catalog and are new records. <em>Kavach… Mahashivratri / Kavach 2</em> is distinct from the 2016 <em>Kavach… Kaali Shaktiyon Se</em> season; “Shaitan Ki Beti” is distinct from the two previously cataloged <em>Laal Ishq</em> episodes.</li><li><strong>Mechanism groups:</strong> three literal-hypnosis core cases; one alien-parasite variant; one direct demonic-possession variant; five spirit, ghost, djinn or black-magic variants; one fetal-controller variant; and two separately labeled provisional or implied leads. Each record is also cross-linked into the closest existing mechanism section.</li><li><strong>Key caveats:</strong> Amaunet is dormant late in Sha're's pregnancy in <em>Stargate SG-1</em>; the <em>Hell Girl</em> client's possession is implied rather than airtight; <em>Laal Ishq</em> remains provisional pending a detailed episode recap; and <em>Gece Gelen: Cin Bebek</em> falls to medium confidence under a strict literal-possession test. Sources describe Kathleen in <em>The Devil's Doorway</em> as 16—the adult-context label applies to the film, not the character.</li><li><strong>Search boundary:</strong> 63 near-misses and 97 firm exclusions were reviewed. No net-new title survived in Latin America, Southeast Asia, sub-Saharan Africa or Australia/New Zealand; soap and serial coverage remains thin across several European, Asian, Middle Eastern and African markets. These are documentation gaps, not proof of absence.</li><li><strong>Scope rule:</strong> pregnancy and control must overlap, or the control must cause or target the pregnancy. Postpartum-only control, hauntings without verified control, control of a different character, pornography and already-cataloged titles were excluded.</li></ul></div></details>\n<details open=\"\"><summary>Mother controlled by her current husband or boyfriend: 1 low-confidence inclusion</summary><div class=\"note-body\"><p>The 30 September 2026 adult-audience sweep searched films, TV movies, series, serials, soaps and telenovelas in 15 languages. It found one low-confidence inclusion: <em>El maleficio</em> (1983–84). Widowed mother Beatriz marries sorcerer Enrique de Martino; the official ViX episode 21 guide says he has her “bajo su influjo” (“under his influence/spell”), but the available sources do not prove a magical override of her will, so the card does not claim a verified literal hypnosis scene.</p><ul><li><strong>Verified mechanism groups:</strong> occult / black magic by a current husband has one low-confidence inclusion. Current-husband literal hypnosis, current-boyfriend literal hypnosis, a partner hiring or directing a hypnotist, technological / sci-fi control and vampire mesmerism by a current partner each produced zero verified titles.</li><li><strong>Controller is not the current partner:</strong> <a href=\"https://en.wikipedia.org/wiki/Hypnotic_(2021_film)\" rel=\"noopener\" target=\"_blank\"><em>Hypnotic</em> (2021)</a>, <a href=\"http://www.culturecourt.com/F/Noir/Whirlpool.htm\" rel=\"noopener\" target=\"_blank\"><em>Whirlpool</em></a>, <a href=\"http://bryininberlin.blogspot.com/2025/03/babe-of-yesteryear-allison-hayes-part.html\" rel=\"noopener\" target=\"_blank\"><em>The Hypnotic Eye</em></a>, <a href=\"https://fr.wikipedia.org/wiki/Hypnose_(film,_1999)\" rel=\"noopener\" target=\"_blank\"><em>Stir of Echoes</em></a>, <a href=\"https://fr.wikipedia.org/wiki/Sous_hypnose\" rel=\"noopener\" target=\"_blank\"><em>The Hypnosis</em></a>, <a href=\"https://www.filmaffinity.com/es/evideos.php?movie_id=721807\" rel=\"noopener\" target=\"_blank\"><em>Hypnotized</em> (2004)</a>, <a href=\"https://dmtalkies.com/joko-anwar-nightmares-and-daydreams-recap-episodes-1-7-2024-series/\" rel=\"noopener\" target=\"_blank\"><em>Nightmares and Daydreams</em> “Hypnotized”</a>, <a href=\"https://www.imdb.com/title/tt6143850\" rel=\"noopener\" target=\"_blank\"><em>Distorted</em></a>, <a href=\"https://tr.wikipedia.org/wiki/Sicc%C3%AEn\" rel=\"noopener\" target=\"_blank\"><em>Siccin</em></a>, <a href=\"https://www.youtube.com/watch?v=e4HNxzQGfzQ\" rel=\"noopener\" target=\"_blank\"><em>Sijjin</em></a>, <a href=\"https://www.chilimovie.com/movies/chaotic-ana-vid-179436.html\" rel=\"noopener\" target=\"_blank\"><em>Caótica Ana</em></a>, <a href=\"http://twi-ny.com/tag/best-foreign-language-film/\" rel=\"noopener\" target=\"_blank\"><em>Nights of Cabiria</em></a>, <a href=\"https://happygreenbeans.com/keyword/hypnotist.html\" rel=\"noopener\" target=\"_blank\"><em>Dead Again</em></a>, <a href=\"https://bluray.highdefdigest.com/15931/talesofterror.html\" rel=\"noopener\" target=\"_blank\"><em>Tales of Terror</em></a>, <a href=\"https://fr.wikipedia.org/wiki/Hypnose_(film,_2018)\" rel=\"noopener\" target=\"_blank\"><em>Murderous Trance</em></a>, <a href=\"https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%97%E3%83%8E%E3%83%9E%E3%83%8B%E3%82%A2_%E6%B4%97%E8%84%B3%E5%82%AC%E7%9C%A0\" rel=\"noopener\" target=\"_blank\"><em>Perfect Little Angels</em></a>, <a href=\"https://www.imdb.com/title/tt2984402\" rel=\"noopener\" target=\"_blank\"><em>The Forces of Evil; or, The Dominant Will</em></a>, <a href=\"https://resumo-das-novelas.com/orgulho-e-paixao/orgulho-e-paixao-07-06/\" rel=\"noopener\" target=\"_blank\"><em>Orgulho e Paixão</em></a>, <a href=\"https://www.youtube.com/watch?v=rHwW33a22N8\" rel=\"noopener\" target=\"_blank\"><em>Fallait pas!</em></a> and <a href=\"https://tr.wikipedia.org/wiki/A%C5%9Fk%C4%B1n_B%C3%BCy%C3%BCs%C3%BC_(film,_1998)\" rel=\"noopener\" target=\"_blank\"><em>Practical Magic</em></a> all fail because the controller is someone other than the current husband or boyfriend; several also lack established motherhood or a genuine control mechanism.</li><li><strong>Mother is not actually mind-controlled:</strong> <a href=\"https://en.wikipedia.org/wiki/The_Stepford_Wives_(2004_film)\" rel=\"noopener\" target=\"_blank\"><em>The Stepford Wives</em> (2004)</a> reveals Joanna was never implanted; <a href=\"https://en.wikipedia.org/wiki/The_Stepford_Wives_(1975_film)\" rel=\"noopener\" target=\"_blank\">the 1975 film</a> murders and replaces her; <a href=\"https://it.wikipedia.org/wiki/Hypnotic_(film_2023)\" rel=\"noopener\" target=\"_blank\"><em>Hypnotic</em> (2023)</a> controls the husband instead; <a href=\"https://www.plotexplained.com/movie/the-astronauts-wife/\" rel=\"noopener\" target=\"_blank\"><em>The Astronaut’s Wife</em></a> threatens and telekinetically attacks Jillian without controlling her mind; and <a href=\"https://en.wikipedia.org/wiki/Rosemary's_Baby_(film)\" rel=\"noopener\" target=\"_blank\"><em>Rosemary’s Baby</em></a> uses conspiracy, sedation and exploitation rather than mind control of Rosemary’s will.</li><li><strong>Motherhood is not established:</strong> <a href=\"https://www.imdb.com/title/tt0250531\" rel=\"noopener\" target=\"_blank\"><em>Amore e ipnotismo</em></a> otherwise fits the husband-hypnotizes-wife pattern; <a href=\"https://en.wikipedia.org/wiki/King_of_the_Zombies\" rel=\"noopener\" target=\"_blank\"><em>King of the Zombies</em></a> implies husband-caused trance; and <a href=\"https://www.youtube.com/watch?v=iUqQbMt5N3Y\" rel=\"noopener\" target=\"_blank\"><em>被催眠的她</em></a> ultimately frames the apparent hypnosis as psychosis and does not establish motherhood.</li><li><strong>Reversed direction or wrong victim:</strong> <a href=\"https://en.wikipedia.org/wiki/Mesmerized_(film)\" rel=\"noopener\" target=\"_blank\"><em>Mesmerized</em></a>, <a href=\"https://statrokaboo.web.app/434.html\" rel=\"noopener\" target=\"_blank\"><em>The Stepford Husbands</em></a>, <a href=\"https://www.imdb.com/title/tt0741233\" rel=\"noopener\" target=\"_blank\"><em>Dr. Damon’s Experiment</em></a>, <a href=\"https://www.imdb.com/title/tt1236971\" rel=\"noopener\" target=\"_blank\"><em>Mother Is Strong on Hypnotism</em></a>, <a href=\"https://www.imdb.com/title/tt1626839\" rel=\"noopener\" target=\"_blank\"><em>Hypnotizing Mother-in-Law</em></a> and <a href=\"https://www.imdb.com/title/tt4289228\" rel=\"noopener\" target=\"_blank\"><em>The Hypnotic Wife</em></a> control a husband, another man or a mother-in-law instead of the partner-mother.</li><li><strong>No qualifying mechanism:</strong> <a href=\"https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%86%D9%88%D9%85_%D9%85%D8%B9_%D8%A7%D9%84%D8%B9%D8%AF%D9%88_(%D9%81%D9%84%D9%85)\" rel=\"noopener\" target=\"_blank\"><em>Sleeping with the Enemy</em></a> uses ordinary coercive abuse; <a href=\"https://en.wikipedia.org/wiki/Lady_Possessed\" rel=\"noopener\" target=\"_blank\"><em>Lady Possessed</em></a> does not make the husband the cause. The 2023 <a href=\"https://en.wikipedia.org/wiki/El_maleficio_(2023_TV_series)\" rel=\"noopener\" target=\"_blank\"><em>El maleficio</em></a> remake keeps the same mother-and-sorcerer-husband setup but remains excluded because no source explicitly describes magical control of Beatriz’s will.</li><li><strong>Scope note:</strong> “Adult-audience” is not a claim that every title has a verified literal R / 18+ certificate. Pornographic titles and explicit detail were excluded. The search covered English, Spanish, Portuguese, Hindi, Turkish, Arabic, French, German, Italian, Russian, Chinese, Japanese, Korean, Thai and Indonesian / Malay; empty mechanism groups are documentation results, not proof that no title exists.</li></ul></div></details>\n<details open=\"\"><summary>Wife with children pregnant by another man: 30 verified titles + 1 lead</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide multilingual sweep required all three conditions at the time of pregnancy: the woman is married, she already has at least one child, and the pregnancy’s biological father is a man other than her husband. Thirty screen titles met that test; <em>Amor en custodia</em> remains a separately labeled medium-confidence lead.</p><ul><li><strong>Evidence profile:</strong> the Western and Latin American sweep contributed 23 verified titles (19 high confidence, four medium-high); East Asia, Turkey, the Middle East and Africa contributed six; and South Asia contributed one high-confidence Malayalam film, <em>Ore Kadal</em>. <em>Empresses in the Palace</em> remains medium confidence because an imperial consort is not a straightforward monogamous “wife.”</li><li><strong>Plot groups:</strong> the cards separate concealed or passed-off paternity, revelation and marriage fallout, pregnancies by an ex-lover, wives who leave the husband, and husband-aware or open-secret arrangements. Period and literary adaptations are labeled on their cards rather than duplicated.</li><li><strong>Pregnancy-loss cases:</strong> miscarriage or stillbirth does not remove a title when the pregnancy itself is established. The relevant cards identify the outcomes for <em>Anna Karenina</em>, <em>Jules et Jim</em> and <em>亲爱的小孩</em>.</li><li><strong>Excluded corrections:</strong> <em>EastEnders</em>’ “Sheanu” arc is excluded because a 2023 retcon makes Phil, not Keanu, Albie’s father. The September 2026 <em>Bold and the Beautiful</em> Steffy / Carter arc is excluded because DNA ruled Carter out and paternity remains unresolved. <em>Koi Suru Haha-tachi</em> is excluded because the father is deliberately ambiguous.</li><li><strong>Near-miss boundary:</strong> childless wives, pregnancies conceived before marriage, uncertain or husband-confirmed paternity, IVF or surrogacy mix-ups, and affair plots with no pregnancy are not counted. Strong documented near-misses include <em>Ullozhukku</em>, <em>Zachariayude Garbhinikal</em>, <em>Mpali</em>, <em>Deedan</em> and <em>MithiJhora</em>.</li><li><strong>Coverage gaps:</strong> no verified exact match survived in Germany, Spain, Hong Kong, Taiwan, Japan, Southeast Asia, Arabic regions, Iran, Africa, anime, Hindi screen works or several South Asian regional-language sweeps. Episode-level soap documentation, Chinese vertical dramas, Brazilian SBT / Record catalogs, African soaps and Kannada sources remain thin; these are documentation gaps, not proof of absence.</li></ul></div></details>\n<details open=\"\"><summary>Partnered woman hypnotized or controlled into infidelity: 3 accepted titles + 2 leads</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide multilingual sweep found three accepted titles covering four woman-instances, plus two clearly separated leads whose screen metadata or exact relationship reading could not be fully verified. To qualify as an accepted match, the woman must have an established husband, fiancé or boyfriend, and hypnosis, mesmerism or another genuine control mechanism must cause the romantic or sexual betrayal.</p><ul><li><strong>Evidence profile:</strong> the accepted set has two high-confidence and two medium-confidence woman-instances. <em>Intermezzo</em> is retained as a medium-confidence lead because its indexed synopsis supplies the exact causal plot but not verified production metadata; <em>Verliefd</em> is a low-confidence lead because its medium, country and pronoun antecedent remain uncertain. Three titles are new catalog records; <em>The Curse of the Jade Scorpion</em> and <em>Horror of Dracula</em> gain this category without duplication.</li><li><strong>Controller groups:</strong> supernatural or occult predator compulsion accounts for both Dracula films; a stage hypnotist drives the comedy case; manipulating voices drive <em>Intermezzo</em>; and <em>Verliefd</em> remains an ambiguous low-confidence lead.</li><li><strong>Documented empty groups:</strong> no verified case was found for a rival lover acting as hypnotist, a husband or partner testing or entrapping the woman, an ex-lover’s revenge, or a soap or telenovela villain using hypnosis to break up a couple.</li><li><strong>Near-misses:</strong> <em>Buffy the Vampire Slayer</em> episodes “Him” and “Something Blue” use supernatural love compulsion, but Buffy has no established partner in either episode. NBC’s <em>Dracula</em> (2013) gives engaged Mina a mutual, largely voluntary attraction to Grayson without a verified compelled act. <em>Days of Our Lives</em> has the brainwashed Princess Gina attempt to seduce John in 2019, but no completed infidelity is established.</li><li><strong>Open verification:</strong> <em>Intermezzo</em> lacks confirmed production metadata; <em>Verliefd</em> lacks confirmed medium, country and pronoun antecedent; and the 1958 <em>Dracula</em> seduction detail currently rests on specialist fandom wikis. No qualifying Asian, Latin American, African or Middle Eastern title was verified in this pass; those absences are documentation gaps, not proof that none exist.</li></ul></div></details>\n<details open=\"\"><summary>Adult female hypnosis — R-rated-equivalent worldwide: 180 verified findings</summary><div class=\"note-body\"><p>The 30 September 2026 multilingual catalog now combines the 129-title mainstream baseline with a 51-title adult / erotic gap-fill sweep across films, television series and serials, TV movies, soap operas, anime, shorts and one television variety program. “Adult / erotic” is a cross-country content description rather than a literal MPAA rating. The latest fold-in adds six new explicitly flagged adult / erotic records: <em>Mil sexos tiene la noche</em>, <em>The Erotic Rites of Frankenstein</em>, <em>Emmanuelle vs. Dracula</em>, <em>The Hypnotist</em> (1936), <em>Saimin Seishidou</em> and <em>Gakuen Saimin Reido</em>.</p><ul><li><strong>Evidence profile:</strong> 99 findings are high confidence, 52 medium-high, 23 medium and six low-medium. All 180 findings are grouped by plot mechanism so wife-control, therapist abuse, criminal hypnosis, vampire mesmerism, serial arcs, supernatural-romance cases and erotic-thriller uses can be compared directly.</li><li><strong>Gap-fill contribution:</strong> the additional 51 findings comprise 21 high, 16 medium-high, nine medium and five low-medium cases. They add adult cable / direct-to-video thrillers, European stage-hypnosis television, Hong Kong Category III black-magic films, Mexican vampire cinema and Australian, New Zealand, French and German serial episodes.</li><li><strong>Scope boundary:</strong> pure possession without hypnosis framing and teen or child victims are excluded from the adult gap-fill. Explicit adult-only material is limited to the six newly added, separately flagged titles; therapeutic and voluntary sessions remain included when an adult woman is actually hypnotized, and cards distinguish those from coercive, criminal or erotic control.</li><li><strong>Identity and episode cautions:</strong> <em>El barón del terror</em> has a disputed wife-versus-girlfriend reading; <em>Shortland Street</em>, <em>Didi der Untermieter</em> and the <em>Laal Ishq</em> serpent-husband story still lack a pinned episode date; the <em>Neighbours</em> 1988 card flags unverified wife status; and <em>The Hunger</em> still lacks a verified character name.</li><li><strong>Mechanism cautions:</strong> <em>The Eternal Evil of Asia</em> and <em>Spell</em> retain low-medium confidence because control direction or evidence quality is incomplete. <em>Forever Knight</em> rests on a recap, while <em>Nocturnal</em> verifies the vampire-hypnotherapist premise but not an erotic element.</li><li><strong>Searched gaps:</strong> no verified African production survived the exact hypnosis test; none was verified in Pakistan, Israel or Iran. Spanish, Portuguese and Italian episode guides, French TV movies, Indian regional cinema and deeper anime indexes remain incompletely mined. These are documentation gaps, not proof of absence.</li><li><strong>Near-miss rule:</strong> male-only victims, women acting as hypnotists without an adult female target, fake hypnosis, pure possession and unconfirmed title-only leads are not counted among the 180.</li></ul></div></details>\n<details open=\"\"><summary>Wife or female character forcibly hypnotized to obey: 61 stronger cases + 8 separated variants or leads</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide max-list sweep (8 regional vectors, all Indian languages plus worldwide, adult and R-rated titles included) supplied 30 proposed additions and 15 membership grants. Catalog-wide reconciliation found four of the proposed additions already present as records — <em>Dracula’s Daughter</em>, <em>Candyman</em> and <em>The Diabolical Dr. Z / Miss Muerte</em> merged on title match, and the <em>Laal Ishq</em> icchadhari-naag / Preeti–Prem episode (Nov 2018) matched its existing adult-hypnosis record — so the final fold-in adds 26 unique records and 19 memberships (3 merges + 16 explicit grants) without duplicate cards. <em>Hypnose</em> (1920) is confirmed to be <em>Sklaven fremden Willens</em> and is upgraded from lead to stronger case; the previously cataloged <em>Laal Ishq</em> “Bhavishyawaani” episode is a different episode and keeps its own separate record. The category covers literal hypnosis, mesmerism, post-hypnotic suggestion and clearly induced occult trance used to compel killing, theft, self-harm, sexual submission, espionage, escape assistance or domestic obedience.</p><ul><li><strong>Category restructure (30 Sep 2026):</strong> the eight Indian-language titles from this sweep — <em>Jiji Maa</em>, <em>Suhani Si Ek Ladki</em>, <em>Ek Tha Raja Ek Thi Rani</em>, <em>Jijaji Chhat Per Hain</em>, <em>Bhairava Dweepam</em>, <em>Anandabhadram</em>, <em>Ishanou</em> and the <em>Laal Ishq</em> icchadhari-naag / Preeti–Prem episode — now live in the dedicated “Indian-language female hypnotized against her will (non-pregnant)” category, leaving 69 entries here (61 stronger cases, 5 variants, 3 unresolved leads). A 1 October vertical-short follow-up adds <em>Stay Away! She's a Violent Psycho!</em>: Mr. Jensen directs Dr. Clark's coercive hypnosis of Jessie Bennett, episode 58 shows her resisting the present attempt, and episode 61 attributes her hypnosis immunity to six years of earlier torture. The release year and exact episode count remain open. Their sweep coverage is described below for the record.</li><li><strong>Strongest clusters:</strong> husbands or domestic controllers; criminal hypnotists; abusive psychiatrists; stage hypnotists; fraudulent gurus; and supernatural trance controllers. The set spans silent shorts, films, television episodes, telenovelas, soap operas and adult animation from 1909 to 2026, and now covers Hindi, Telugu, Malayalam, Manipuri, Japanese, Portuguese, Spanish, Turkish, Kazakh, Russian, French and English sources.</li><li><strong>New sweep coverage:</strong> Indian-language soaps (<em>Jiji Maa</em>, <em>Suhani Si Ek Ladki</em>, <em>Ek Tha Raja Ek Thi Rani</em>; the <em>Laal Ishq</em> icchadhari-naag episode joined via membership grant rather than a duplicate record); Indian regional film (Telugu <em>Bhairava Dweepam</em>, Malayalam <em>Anandabhadram</em> as a consent-caveat variant, Manipuri <em>Ishanou</em>); Japanese television (<em>Nemureru Mori</em>, anime <em>Kizetsu Yusha to Ansatsu Hime</em>); Brazilian and Mexican telenovelas (<em>Carinha de Anjo</em>, <em>O Cravo e a Rosa</em>, <em>O Profeta</em>, <em>Doña Macabra</em>); Turkish vampire film <em>Drakula İstanbul'da</em> (1953); Kazakh <em>Gipnoz</em> (2026) and Russian <em>Ulovki razuma 3</em>; English-language TV episodes (<em>Smallville</em> “Hypnotic”, <em>Charlie's Angels</em> “Attack Angels”, <em>Wonder Woman</em> “The Pied Piper”, <em>Hannibal</em> “Kaiseki”, <em>Sleepy Hollow</em> S2E4); and classic plus R-rated horror (<em>Dracula's Daughter</em>, <em>Voodoo Man</em>, <em>The Lair of the White Worm</em>, <em>Candyman</em>, <em>Fright Night</em> 1985 and 2011, <em>The Diabolical Dr. Z</em>). Membership grants (no new records) include <em>Cure</em>, <em>Faceless Beauty</em>, <em>The She-Creature</em>, <em>Guilt by Design</em>, <em>Saimin</em> (1999), <em>Kolchak</em> “Bad Medicine”, <em>Augustine</em>, <em>Magpakailanman</em>, <em>True Blood</em>, <em>Rasputin the Mad Monk</em>, <em>The Dunwich Horror</em>, <em>The Vampire Lovers</em>, <em>Lust for a Vampire</em>, <em>Skin Deep in Love</em>, <em>O Beijo do Vampiro</em> and the <em>Laal Ishq</em> icchadhari-naag / Preeti–Prem episode.</li><li><strong>Separated boundary cases:</strong> <em>The Vise</em> has a disputed synopsis reading; <em>Power of Suggestion</em> and <em>Fallait pas!</em> do not verify performed obedience; <em>Night of the Eagle</em> uses witchcraft-induced trance; and <em>Murder Me Twice</em> begins with a volunteered party trance framed as past-life regression or possession. <em>Anandabhadram</em> joins the variants with a consent caveat. The unresolved-leads group contains <em>Morgana</em>, <em>Vash</em> and <em>Le Viol du vampire</em> (single-source “comme hypnotisée”). <em>Jijaji Chhat Per Hain</em> is now a full member of the dedicated Indian-language category, where its comedy-gag caveat remains visible.</li><li><strong>Adult-animation flag:</strong> <em>Saimin Ryoujoku Gakuen</em> and <em>Saimin Jutsu Zero</em> are included separately at low-medium confidence because their synopses concern explicit sexual exploitation.</li><li><strong>Verified exclusions:</strong> therapeutic memory recovery without compelled obedience, voluntary mesmerism, fake hypnosis, male-only victims, and stories where the woman is the hypnotist remain outside the category. Examples include <em>The Hypnotist</em> (2012), <em>The Great Hypnotist</em> (2014), <em>Hypnosen</em> (2023), <em>Montecristo</em>, <em>Il potere dell’ipnotismo</em>, <em>House No. 13</em> and <em>Hypnotized by Beautiful Women</em>.</li><li><strong>Documented gaps:</strong> Tamil and Kannada remain a structural zero (possession, not trance, drives those plots); sub-Saharan Africa has ~zero verified matches; no Italian or Spanish-language film match was verified; the Nikkatsu / pinku hypnosis vein is an indexing gap rather than proof of absence. The earlier soap-opera and Latin American telenovela gaps were closed by this sweep.</li><li><strong>Open leads:</strong> <em>Vash</em> (2023) was not independently re-verified in this sweep but already has prior catalog sourcing; <em>Système Ribadier</em>, <em>El Hipnotizador</em>, Thailand’s <em>Hypnotic</em> (2025), <em>Lep Krut</em> and several fragmentary titles still lack enough plot detail for this exact category. <em>Caminhos do Coração</em> was left out: the against-will element of Rodrigo’s hypnosis of Amália was not confirmed to this category’s standard.</li></ul></div></details>\n<details open=\"\"><summary>Stepmother / bonus mom hypnotized or mind-controlled: 3 supported matches + 1 borderline case</summary><div class=\"note-body\"><p>The 30 September 2026 multilingual worldwide sweep found three supported stories in which a stepmother is corrupted, possessed, cursed or enchanted against her will, plus one low-confidence short where demonic possession is only suspected. Confidence is capped at medium-high because the findings rest on indexed plot summaries and reviews rather than live viewing.</p><ul><li><strong>Supernatural and enchanted-object control:</strong> <em>Snow White: A Tale of Terror</em> uses an evil mirror spirit; <em>The Wishing Box</em> uses demonic possession through a cursed artifact; and <em>Disenchanted</em> uses a wish that turns into an evil-stepmother curse. Each card preserves the report’s caveat about complicity, single-source evidence or a self-initiated spell going wrong.</li><li><strong>Borderline case:</strong> <em>The StepMother</em> (2011) is retained at low confidence because its synopsis only says priests investigate possible possession; neither actual possession nor the cast-to-role mapping is confirmed.</li><li><strong>Documented empty controller groups:</strong> no verified match was found with a human hypnotist or criminal villain, the stepmother’s husband or stepfather figure, a child, or another non-supernatural controller.</li><li><strong>Mother controlled by a new husband / stepfather:</strong> no verified match was found in which the controller is genuinely a stepfather to at least one of the woman’s children. Generic husband-controls-wife plots and abusive-stepfather stories without hypnosis were excluded.</li><li><strong>Near-miss boundary:</strong> reverse-direction stories where the stepmother controls someone else, ordinary wicked-stepmother plots, torment without mind control, and unconsciousness without control remain outside the category.</li><li><strong>Coverage limit:</strong> soap-opera and telenovela episode guides, Indian supernatural serials and Indonesian sinetron were only surface-searched. The empty groups record a documentation gap, not proof that no example exists.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant stepmother / bonus mom: 5 verified titles + 1 low-confidence lead</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide multilingual sweep verified five screen stories in which a woman who is already a stepmother or established bonus-mom figure becomes pregnant during the plot. Four titles are newly added; <em>Yeh Hai Mohabbatein</em> and <em>The Bold and the Beautiful</em> gain this category without duplicate records.</p><ul><li><strong>Bonding and displacement anxiety:</strong> <em>The Brightest Roof in the Universe</em> centers Tsubame’s fear of being left out after stepmother Asako becomes pregnant. <em>Madrasta</em> pairs Audrey’s baby with Lauren’s public acceptance of her as “madrasta.”</li><li><strong>Pregnancy loss:</strong> <em>Yeh Hai Mohabbatein</em> celebrates Ishita’s pregnancy after she becomes Ruhi and Aditya’s stepmother, then ends the arc in miscarriage after an accident.</li><li><strong>Adoption and a new sibling:</strong> <em>Mi marido tiene familia</em> places Julieta’s pregnancy while she and Juan Pablo are finalizing the adoption of his son David, who initially rejects the idea of a sibling.</li><li><strong>Paternity-mystery boundary:</strong> <em>The Bold and the Beautiful</em> verifies Brooke’s pregnancy and Ridge’s older children, but the exact marriage / stepmother chronology is complicated by Brooke’s engagement to Nick in the same arc, so it is medium-high confidence.</li><li><strong>Low-confidence lead:</strong> <em>Allein unter Müttern</em> has simultaneous pregnancies for widower Harald’s daughter and girlfriend Sabine, but the available synopsis does not establish Sabine as an existing stepmother before her pregnancy.</li><li><strong>Existing complementary category:</strong> the separate “Single mom remarries and gets pregnant with new partner” section already holds the previously verified Pattern B titles. This new sweep found no additional title beyond that established set; <em>The Stepdaughters</em> and <em>Five Enough</em> remain near-misses because the relevant mother does not become pregnant.</li><li><strong>Coverage gaps:</strong> targeted Portuguese, Korean, Turkish, Spanish, French and German searches produced no further verified match. Indonesian, Thai, Urdu/Pakistani, Bengali, South Indian serials, Russian/Eastern European, African and Scandinavian productions were not systematically exhausted, so absence is not proof that no case exists.</li></ul></div></details>\n<details open=\"\"><summary>Remarried wife controlled by her new husband or a stepfather figure: no verified exact match</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide sweep found no screen title proving all three required elements together: the woman is in a second-or-later marriage, she is genuinely hypnotized or mind-controlled, and the controller is her new husband or a stepfather figure. The search covered English, Spanish, Hindi, Indonesian, Korean, Chinese, Russian, Turkish and Tagalog queries across film, television, soaps, telenovelas and anime-adjacent sources.</p><ul><li><strong>Closest related variant:</strong> both the original and remake of <em>El maleficio</em> place widowed or single mother Beatriz in a new marriage to occultist Enrique de Martino, who becomes stepfather to her children and pursues the marriage in connection with her son. Direct hypnosis or mind-control of Beatriz herself is not documented.</li><li><strong>Unverified husband-control leads:</strong> <em>My Husband’s Deadly Past / Woman on the Edge</em> documents a psychiatrist husband altering his wife’s memories through hypnosis, but no source establishes remarriage or stepfather status. The Mandarin short drama <em>被催眠的她 / The Hypnotized Her</em> suggests husband-directed hypnosis or induced delusion, but its full plot and the wife’s remarriage status remain unverified.</li><li><strong>Clear exclusions:</strong> <em>Sleep, My Love</em>, <em>The Mask of Diijon</em>, <em>Thunderbolt: Magun</em>, <em>The Stepford Wives</em> and <em>Don’t Worry Darling</em> involve husband-directed control without a sourced prior marriage. <em>Mesmerized</em>, <em>Ek Thi Daayan</em> and <em>The Hypnotic Wife</em> reverse the requested controller–victim direction. <em>Hypnotic</em>, <em>The Dark Tower</em>, <em>The Night Walker</em>, <em>Return of William Marr</em>, <em>The Stepfather</em> and <em>Til Death Do Us Part</em> fail the marriage, controller or genuine mind-control requirement.</li><li><strong>Open questions:</strong> Episode-level evidence could still establish direct control of Beatriz in <em>El maleficio</em>; Karen / Mackenzie’s prior-marriage history in <em>My Husband’s Deadly Past</em> remains unknown; and the complete plot of <em>被催眠的她</em> was not available in searchable sources. No matching mainstream anime title was verified.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant single mother controlled by her new husband or child’s stepfather: no verified exact match</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide sweep found no screen title satisfying all five essential conditions at once: the woman already has a child; she is single or widowed before the relationship; she is pregnant during the control arc; the controller is her new husband or her existing child’s stepfather; and the plot uses genuine hypnosis, supernatural control, drugs or conditioning, technology, or another real loss-of-agency mechanism.</p><ul><li><strong>Strongest near-miss:</strong> <em>Pan’s Labyrinth / El laberinto del fauno</em> satisfies the family, widowhood, pregnancy and stepfather conditions, but Captain Vidal’s control is mundane patriarchal and military abuse rather than hypnosis or mind control.</li><li><strong>Original <em>El maleficio</em>:</strong> Beatriz is a widowed mother who marries sorcerer Enrique, but she is not pregnant—her daughter Vicky is—and direct hypnosis of Beatriz is not established.</li><li><strong>2023–24 <em>El maleficio</em> remake:</strong> Beatriz is again a single mother who marries Enrique, but her pregnancy and explicit mind control are both unverified.</li><li><strong>Excluded weaker leads:</strong> <em>Rosemary’s Baby</em> and the 2016 Kaal arc of <em>Sasural Simar Ka</em> do not receive this category because they fail the prior-child / stepfather or new-husband-controller structure.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant woman controlled by a fetus, dead-child ghost or alien child: 18 catalog entries</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide sweep produced twelve verified findings for this narrow direction of control. Reconciliation against the current catalog added eight new records and gave the new category to four existing records from the sweep, plus six already-cataloged overlaps named for additional membership.</p><ul><li><strong>Agentic unborn, fetal or alien controllers:</strong> fifteen entries involve an unborn child, fetus, fetal-form entity or alien child exerting control or supernatural influence over a pregnant woman.</li><li><strong>Dead-child ghosts:</strong> three Japanese entries involve murdered, aborted or unborn child spirits usurping a pregnancy or dominating a pregnant woman’s womb.</li><li><strong>Living psychic-child gap:</strong> no verified case of a living psychic child hypnotizing or mentally dominating a pregnant woman was found in any region. This subcategory is documented as empty rather than omitted.</li><li><strong>Serial-format gap:</strong> no soap-opera, telenovela or TV-serial subplot matching this direction of control was verified. Anthology and episodic television findings remain included where supported.</li><li><strong>Confidence:</strong> the twelve sweep findings retain their supplied HIGH, MEDIUM-HIGH, MEDIUM or MEDIUM-LOW labels. Existing records keep their established confidence wording unchanged.</li></ul></div></details>\n<details open=\"\"><summary>Female character controlled by a child or teen: 52 catalog entries</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide sweep found 50 numbered main-list findings and three already-cataloged titles. One episode—<em>The Twilight Zone</em>’s “It’s Still a Good Life”—was repeated inside a broader franchise finding, so it is consolidated rather than shown twice. Reconciliation against the current page produced 52 distinct category entries: 45 new catalog records and seven existing records with this category added.</p><ul><li><strong>Strictest clusters:</strong> living psychic or alien children; dead-child ghosts possessing women or girls; teen witches; and teen superpowers, magical artifacts or technology that override a female character’s will.</li><li><strong>Unborn controllers:</strong> <em>Baby Blood</em>, <em>Prevenge</em>, <em>The Unborn</em> (1991) and <em>Help</em> treat a fetus, unborn spirit or fetal-form entity as the controller. Each card keeps that eligibility caveat.</li><li><strong>Boundary cases remain visible:</strong> several controllers are ancient entities in child bodies, child-shaped demons, teenage ghosts, a doll acting on a child’s emotions, or children using transformation, coercion or a single supernatural command rather than classic hypnosis. These are labeled medium, low-medium or low confidence rather than presented as strict matches.</li><li><strong>Coverage:</strong> the verified set spans films, TV episodes, series arcs, a miniseries, anime and animation across North America, Europe, South and East Asia, Taiwan and Mexico. No verified TV movie surfaced. Searches in several additional regions returned only reverse-direction cases or unverified leads; absence here reflects a documentation gap, not proof that no example exists.</li><li><strong>Excluded direction:</strong> stories where adults or entities control children, or where a child attacks a woman without mentally controlling her, remain outside this category.</li></ul></div></details>\n<details><summary>Child-controller category: unresolved leads and near-misses</summary><div class=\"note-body\"><p>The research did not promote claims that lacked a verified child controller, female controlled target or mind-control mechanism.</p><ul><li><strong>Future verification:</strong> <em>Laal Ishq</em> S01E45 (“Madhu”) and an <em>Aahat</em> episode described as “The Possessed Mother” lack a source establishing the controller’s identity or age. “Witch-child” films from Nollywood and Ghallywood surfaced without proof of hypnosis, possession or puppeting.</li><li><strong>Female-target gap:</strong> <em>Whisper</em>, <em>Case 39</em> and <em>Freaks</em> feature child controllers or mind-manipulation powers, but sourced controlled victims are male or the woman is threatened rather than mentally dominated.</li><li><strong>Wrong direction:</strong> <em>The Haunting of Bly Manor</em>, <em>The Demon Headmaster</em>, <em>Storm of the Century</em>, <em>Aatma</em>, <em>Bandish</em>, <em>Belapur Ki Dayan</em> and <em>Incantation</em> place the child on the receiving end of control or use an adult/entity as the controller.</li><li><strong>Attack is not control:</strong> <em>Weapons</em>, <em>The Visitor</em>, <em>Brightburn</em>, <em>Tin &amp; Tina</em> and <em>Goodnight Mommy</em> involve attack, restraint, intimidation or destabilization without verified mental puppeting of a female character.</li></ul></div></details>\n<details open=\"\"><summary>Husband’s ex-wife or ex-lover controls the current wife: 25 findings</summary><div class=\"note-body\"><p>This worldwide section separates literal possession, voodoo or trance, black magic, and close variants in which the mechanism or relationship geometry deviates. Five titles already had catalog records and gained the new category without duplication; 20 are new. A pre-existing duplicate pair for <em>Siccîn</em> (2014) was consolidated, so the catalog rises from 493 to 512 unique records.</p><ul><li><strong>Exact possession pattern:</strong> dead first wives, ex-wives, ex-girlfriends or former lovers possess the current wife in the two direct-possession groups.</li><li><strong>Hypnosis gap:</strong> no verified genuine stage-style hypnosis instance of the exact pattern was found. <em>Ouanga</em> is the closest trance case and remains under witchcraft because its mechanism is voodoo.</li><li><strong>Close variants:</strong> the cards explicitly label haunting without control, a bride or girlfriend rather than a wife, an unrequited admirer, third-party orchestration and unverified story-line possibilities.</li><li><strong>Documented near-misses:</strong> <em>Blithe Spirit</em>, <em>Raaz</em> (2002) and <em>El fantasma de Elena</em> use haunting, intimidation or attack without possession or mind control. <em>Bepanah Pyaar</em> reveals the “new wife” as the first wife under another identity; <em>Qubool Hai</em> uses blackmail and scheming only. The book <em>Entre a Terra e o Céu</em> is outside screen scope, and <em>Laura Sin Censura</em> is non-fiction.</li><li><strong>Research provenance:</strong> consolidated from the South Asia, Latin America / Spain / Portugal, East and Southeast Asia, and Western world plus Middle East / Africa sweeps, with separate verification of <em>She Waits</em>. Working reports: <code>husband-exwife-hypnosis-southasia/report.md</code>, <code>husband-exwife-hypnosis-latam/report.md</code>, <code>husband-exwife-hypnosis-eastasia/report.md</code>, <code>husband-exwife-hypnosis-western/report.md</code>, and <code>husband-exwife-hypnosis-consolidated/report.md</code>.</li></ul></div></details>\n<details open=\"\"><summary>Wife hypnotized or controlled by a therapist: 7 strict matches</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide pass found seven strict matches: six high-confidence titles and one medium-confidence 1912 silent short. All are films; no confirmed TV series, serial, soap opera, telenovela, anime or web-series match survived verification. That is a documentation gap, not proof that none exists.</p><ul><li><strong>Evil or criminal exploitation:</strong> <em>Whirlpool</em> and <em>Hypnotic</em>.</li><li><strong>Coercive or investigative hypnosis:</strong> <em>Tee Ratra</em> and <em>Amore e ipnotismo</em>; the latter rests on a single IMDb plot summary, and its Italian origin remains probable rather than fully verified.</li><li><strong>Benevolent or therapeutic:</strong> <em>The Three Faces of Eve</em> and <em>The Hypnotist / Hypnotisören</em>.</li><li><strong>Treatment turning romantic or obsessive:</strong> <em>The Hypnotized / Faceless Beauty</em>.</li><li><strong>Reconciliation:</strong> six titles already had catalog records and gained the new category without duplication; <em>The Three Faces of Eve</em> is the only net-new record.</li></ul></div></details>\n<details open=\"\"><summary>Parents intimate while children sleep: 6 scene-linked titles + 1 thematic near-match</summary><div class=\"note-body\"><p>The 29–30 September 2026 worldwide pass found six titles with source support connecting a sleeping child to the romantic or intimate scene, plus one separately labeled thematic near-match. They are grouped by where the sleeping child is and how directly the intimacy is established. The trope is rarely described at scene level, so each card keeps the report’s confidence tier and caveat.</p><ul><li><strong>Same room or crib:</strong> <em>Shaadi Ke Side Effects</em> has a sustained baby-in-bedroom and disrupted-intimacy thread; the 2 March 2018 <em>Yeh Hai Mohabbatein</em> episode places a mild romantic beat immediately after Pihu’s bedtime story, though her exact proximity is not fully explicit.</li><li><strong>Adjacent room or nearby:</strong> <em>Malcolm in the Middle</em> “Sleepover” has Reese asleep in the hallway while Dewey remains awake; <em>Everybody Loves Raymond</em> “Halloween Candy” is a clearly sourced but interrupted attempt after the children are asleep; the 26 December 2017 <em>Yeh Hai Mohabbatein</em> episode is a very mild downstairs moment.</li><li><strong>Other variants:</strong> <em>Parasite</em> places the sleeping child in a garden tent on the same property. <em>Mind the Malhotras</em> verifies the parents’ bedroom role-play and family context but not a specific sleeping-child scene, so it remains thematic only.</li><li><strong>Coverage limit:</strong> no verified TV movie or soap-opera-specific match was found beyond the Indian serial episodes, and no title was found in the Middle East or Africa. The result reflects a documentation gap rather than proof that other scenes do not exist.</li><li><strong>Excluded:</strong> pure walk-ins remain in the separate child-walks-in category. Cases with an awake child, absent children or no sourced sleep detail were not promoted.</li></ul></div></details>\n<details open=\"\"><summary>Adopt a child, then become pregnant: 21 verified titles</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide source-index pass verified 21 distinct titles with the requested order: a child is adopted first, then the mother, wife or partner becomes pregnant. Sixteen are high confidence, two medium-high and three medium; four additional marginal or unusual variants are shown separately and do not inflate the core count.</p><ul><li><strong>Infertility-driven sequence:</strong> 19 titles involve, or likely involve, a couple who adopts after difficulty conceiving and later has a pregnancy. Where infertility is inferred rather than explicit, the card says so.</li><li><strong>Same-sex and foster-to-adopt cases:</strong> <em>The Fosters</em> is the one same-sex-couple case; it and <em>Parenthood</em> include foster-to-adopt chronology.</li><li><strong>Family tension:</strong> six titles connect the later pregnancy or biological child to jealousy, favoritism or conflict involving the adoptee: <em>Ama, Ina, Anak</em>, <em>Malignant</em>, <em>Law &amp; Order: SVU</em>, <em>Only Murders in the Building</em>, <em>Yu-Gi-Oh! GX</em> and <em>ThunderCats</em>.</li><li><strong>Outcome caveat:</strong> the pregnancies in <em>Smallville</em> and <em>The Fosters</em> end in miscarriage; both still satisfy the adopt-then-pregnant sequence and are labeled accordingly.</li><li><strong>Open gaps:</strong> no confident example was found where adoption is used specifically to repair a marriage or stop waiting, and no core single-parent case was verified. English-indexed sources also yielded no confirmed fit in Latin American telenovelas, Turkish dizis, Korean or Chinese drama, Russian/Ukrainian melodrama, Nollywood, or continental European television.</li></ul></div></details>\n<details><summary>Adopt-then-pregnant: marginal variants and exclusions</summary><div class=\"note-body\"><p>Four separately labeled cards preserve leads that approach the pattern without meeting every strict criterion: <em>The Reaping</em> lacks a formal adoption and involves rape; <em>Omen IV: The Awakening</em> uses supernatural implantation; <em>CSI: NY</em> lacks independent proof of adoption-before-conception; and <em>Neighbours</em> uses a step-parent adoption of the later-pregnant woman’s biological son.</p><ul><li><strong>Verified non-fits:</strong> <em>Instant Family</em>, <em>Friends</em>, <em>This Is Us</em>, <em>The Light Between Oceans</em> and several other common leads fail the chronology or never include the later pregnancy.</li><li><strong>Surrogacy exclusions:</strong> <em>Rules of Engagement</em>, <em>Shameless</em> and <em>Amor à Vida</em> use surrogacy or surrogate-like arrangements rather than the requested sequence.</li><li><strong>Research limit:</strong> none of the 25 displayed core and variant entries was verified in a live research browser; confidence labels reflect index sourcing, corroboration and the report’s stated caveats.</li></ul></div></details>\n<details open=\"\"><summary>Duplicate reconciliation</summary><div class=\"note-body\"><p>Six confirmed duplicate pairs were consolidated on 30 September 2026, reducing the index from 467 to 461 records without removing any category membership, plot detail, evidence label or source.</p><ul><li><strong>Merged records:</strong> <em>Aval / Gruham</em> (2017), <em>Sijjin</em> (2023), <em>Alone</em> (2015), <em>1920</em> (2008), <em>Arundhati</em> (2009) and <em>Kavach… Kaali Shaktiyon Se</em> (2016).</li><li><strong>Kept separate:</strong> remakes and same-title films from different years, plus records describing distinct victims, controllers or story arcs.</li><li><strong>Still under review:</strong> the similarly labeled <em>Nazar</em>, <em>Tantra</em>, <em>Qayamat Ki Raat</em> and <em>El maleficio</em> records require plot-level confirmation before any further merge. <em>Bhool Bhulaiyaa</em> and <em>Manichitrathazhu</em> also retain their existing therapeutic-hypnosis and supernatural-boundary records until category placement is resolved.</li></ul></div></details>\n<details open=\"\"><summary>Worldwide female hypnosis and mind-control expansion</summary><div class=\"note-body\"><p>The 29 September 2026 research report lists 211 findings: six in hypnotized-to-love, one in husband-controls-wife, one pregnant-woman possession case, and 203 entries across nine new mechanism categories. Two findings—<em>The Thief of Bagdad</em> and <em>Don’t Worry Darling</em>—were already in the catalog, yielding 209 net-new records. The report states that these titles were checked against Wikipedia, IMDb, episode guides and entertainment press; because it does not map individual titles to individual pages, each new card preserves that shared source basis rather than assigning a narrower citation.</p><ul><li><strong>Largest new groups:</strong> 55 spirit, ghost or djinn cases; 33 sci-fi, alien or technological cases; 29 human-villain cases; 28 Western occult cases; and 20 vampire-mesmerism cases.</li><li><strong>Regional structure:</strong> the spirit-possession category keeps separate groups for Indian films, Indian television, Korean titles, Thai and Filipino titles, and Turkish, Arab, Latin and African titles.</li><li><strong>Scope:</strong> verified exclusions from the report were not added. Existing catalog records and their original caveats remain in place.</li></ul></div></details>\n<details open=\"\"><summary>India: 41 female hypnosis and mind-control titles</summary><div class=\"note-body\"><p>This 30 September 2026 source-index pass adds or re-verifies 41 unique Indian films, television series, soaps, telefilms and anthology episodes across Hindi, Tamil, Telugu, Malayalam, Kannada, Marathi and Gujarati: 37 high-confidence titles and 4 possible cases. The cards are categorized by the controlling mechanism and preserve every source-level caveat.</p><ul><li><strong>Love, marriage or relationship:</strong> five high-confidence stories place a woman under a spell or possession that drives a marriage or romantic pursuit.</li><li><strong>Husband-controlled wife:</strong> <em>Tee Ratra</em> is now a high-confidence match: a suspicious husband commissions a psychiatrist friend to traumatize and hypnotize his wife so she reveals her secret.</li><li><strong>Villain or tantrik control:</strong> nine titles use hypnosis, black magic, trance or supernatural enslavement for revenge, violence, sacrifice or another criminal aim.</li><li><strong>Supernatural control:</strong> possession is the largest cluster, with film and serial entries spanning seven Indian languages. <em>Vish</em> and <em>Pishachini</em> remain possible because the available source wording does not fully establish the control mechanics.</li><li><strong>Drugs or psychological manipulation:</strong> <em>Yeh Vaada Raha</em> is high confidence; <em>Vish Ya Amrit: Sitara</em> is a possible deception-based brainwashing case rather than literal supernatural control.</li><li><strong>Coverage limit:</strong> English-indexed sources yielded no confirmed 1960s–70s Bollywood title. Most verified cases date from 1980–2025, and regional-language episode recaps remain unevenly indexed.</li></ul></div></details>\n<details open=\"\"><summary>Indonesia: 8 focused female-control findings</summary><div class=\"note-body\"><p>The 30 September 2026 focused source pass contributes eight Indonesian productions across films, sinetron, web television and a YouTube short-film series. Three plots are verified by multiple sources; five remain possible because they rely on one outlet or leave the exact control mechanism unclear.</p><ul><li><strong>Love or relationship control:</strong> <em>Ilmu Hipnotis – Gara Gara Gendam Istriku Diambil Orang</em> and <em>Guna-Guna Isteri Muda</em> are possible cases involving gendam or love magic.</li><li><strong>Supernatural control:</strong> <em>Sijjin</em>, <em>Sewu Dino</em> and the 2024 <em>Guna-Guna Istri Muda</em> are verified; <em>Kitab Sijjin &amp; Illiyyin</em> remains possible on a single source.</li><li><strong>Other hypnosis:</strong> <em>Sepatu Super</em> has a reported hypnosis-to-hatred plot, while <em>Malam Minggu Miko</em> confirms only an episode titled “Hipnotis Vania”; both remain possible.</li><li><strong>Open gap:</strong> no confirmed Indonesian or Indian title in this focused pass showed a woman controlled by her own husband.</li></ul></div></details>\n<details><summary>India: checked but excluded</summary><div class=\"note-body\"><p>The expanded pass removed leads that did not prove external control of a female character.</p><ul><li><strong>Dissociative or split-personality plots:</strong> <em>Bhool Bhulaiyaa</em> (2007), <em>Manichitrathazhu</em> (1993), <em>Apthamitra</em> (2004) and <em>Chandramukhi</em> (2005) were excluded because their resolution is psychological rather than external hypnosis or brainwashing.</li><li><strong>Wrong victim or mechanism:</strong> <em>Munjya</em> possesses a male character; <em>Ek Thi Daayan</em> uses regression hypnosis on a man; <em>Qayamat Ki Raat</em> does not establish female mind control; and <em>Bulbbul</em>, <em>Pari</em>, <em>Shaapit</em> and <em>1920 London</em> do not confirm the requested female-control plot.</li><li><strong>Unverified:</strong> the Bengali <em>Arundhati</em> remake lacked a title-specific source, while <em>L7</em> surfaced only through a trailer. Neither is promoted into the catalog.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant-woman control in India &amp; Indonesia: focused regional set</summary><div class=\"note-body\"><p>The dedicated regional filter consolidates eight sourced records from two focused 30 September 2026 research passes: seven Indian titles and one Indonesian title. Six are direct, high-confidence pregnancy-and-control cases; <em>Iblis dalam Kandungan</em> is a medium-high-confidence attempted-possession case; and <em>Bandh Darwaza</em> is a conception-time close variant.</p><ul><li><strong>Indian films:</strong> <em>Help</em> (Hindi), <em>Lapachhapi</em> (Marathi) and its Hindi remake <em>Chhorii</em> directly overlap pregnancy with possession or supernatural compulsion. <em>Bandh Darwaza</em> (Hindi) is kept separate because the verified hypnosis occurs at conception.</li><li><strong>Indian television:</strong> <em>Laal Ishq</em>, <em>Naagin 3</em> and <em>Sasural Simar Ka</em> have episode-recap evidence for pregnancy plus possession, hypnosis, black magic or direct mental commands.</li><li><strong>Indonesia:</strong> <em>Iblis dalam Kandungan</em> follows pregnant Amelia as a female spirit tries to enter and possess her body to claim the baby; the available synopses do not establish whether full possession succeeds.</li><li><strong>Coverage limit:</strong> no additional verified Indonesian sinetron or TV movie was found, and no separate verified Tamil, Telugu, Malayalam, Kannada, Bengali, Bhojpuri, Odia or Assamese title met the same-character, same-pregnancy test.</li></ul></div></details>\n<details><summary>Indian pregnant-woman hypnosis and mind-control pass</summary><div class=\"note-body\"><p>The consolidated 30 September 2026 Indian-language pass verified six high-confidence cases—three films and three television stories—plus one Hindi-film close variant. All involve a supernatural controller: a ghost or spirit, witches, a demonic unborn child or a vampire. The same woman must be pregnant while controlled; the conception-time variant is kept separate because hypnosis is not verified after the pregnancy begins.</p><ul><li><strong>High-confidence films:</strong> <em>Help</em> (Hindi), <em>Lapachhapi</em> (Marathi) and <em>Chhorii</em> (Hindi). Each directly overlaps pregnancy with possession or supernatural compulsion.</li><li><strong>High-confidence television cases:</strong> <em>Laal Ishq</em> (“Dhruv, Sonya, Unhappy Pregnant Soul”), <em>Naagin 3</em> and <em>Sasural Simar Ka</em>. Their episode recaps establish both pregnancy and possession, hypnosis, a spell or direct mental commands.</li><li><strong>Close variant:</strong> <em>Bandh Darwaza</em> (1990). Neola hypnotizes and impregnates Lajo; the hypnosis occurs at conception rather than during an already-established pregnancy.</li><li><strong>No naturalistic case verified:</strong> the search found no Indian plot in which a husband, doctor or criminal hypnotizes a pregnant woman for abortion, baby theft or revenge.</li><li><strong>Regional-language gap:</strong> beyond the Marathi film <em>Lapachhapi</em>, targeted searches found no separate verified Tamil, Telugu, Malayalam, Kannada, Bengali, Marathi television, Bhojpuri, Odia or Assamese title. Hindi serials dubbed into other languages are not counted twice.</li></ul></div></details>\n<details><summary>Worldwide pregnant-woman control category</summary><div class=\"note-body\"><p>With the Indian and Indonesian updates, this category contains 19 high-confidence direct-control or possession cases and 18 close or medium-confidence variants. Every card labels the mechanism and the strength or limitation of its evidence.</p><ul><li><strong>High-confidence mechanisms:</strong> demonic possession, AI brainwashing, alien or embryo influence, an unborn parasite, a demon fetus, ghost possession, black magic and direct mental commands from an unborn entity.</li><li><strong>Close and medium-confidence boundary:</strong> attempted possession, conception-time hypnosis, cult or medical reproductive coercion, supernatural pregnancy with ambiguous control, haunting or influence that stops short of clear possession, and single-source cases.</li><li><strong>Regional entries:</strong> <em>Help</em>, <em>Lapachhapi</em> and <em>Chhorii</em> are the verified Indian film cases from the latest pass, while <em>Iblis dalam Kandungan</em> is the medium-high-confidence Indonesian attempted-possession case.</li></ul></div></details>\n<details><summary>Pregnant-woman control: checked but excluded or unresolved</summary><div class=\"note-body\"><p>These titles surfaced in targeted searches but did not prove that the same woman was pregnant while her mind or actions were controlled.</p><ul><li><strong>Focused India exclusions:</strong> <em>Birth</em> confirms an eight-months-pregnant woman trapped by a sinister cult but not hypnosis, commanded acts or a mind-control mechanism. <em>Nazar</em>, <em>Manmohini</em>, <em>Kavach</em>, <em>Naagin 5</em>, <em>Divya Drishti</em>, <em>Tantra</em> and other checked serials fail the pregnancy-and-control overlap. <em>Chhorii</em> and <em>Lapachhapi</em> are now included because the newer source pass explicitly supports supernatural compulsion of pregnant women.</li><li><strong>Other Indian non-fits:</strong> <em>Jadu Tona</em>, <em>Yehh Jadu Hai Jinn Ka!</em>, <em>Vish Ya Amrit: Sitara</em>, <em>Bhool Bhulaiyaa</em>, <em>Alpviram</em>, <em>Qayamat Ki Raat</em>, <em>Savdhaan India</em> “Miseries of a Tormented Wife,” and other <em>Laal Ishq</em> hypnosis episodes did not establish successful mind control of a pregnant woman.</li><li><strong>Indonesian screen titles:</strong> <em>Inang</em>, <em>Sumala</em>, <em>Racun Sangga</em>, <em>Beranak dalam Kubur</em>, <em>Satu Suro</em>, <em>Kuyang</em>, <em>Hi5teria</em>, <em>Malam Jumat Kliwon</em>, <em>Dukun Beranak</em> and the FTV <em>Mendadak Hamil</em> lack same-character pregnancy plus explicit mind control; <em>Dukun</em> is Malaysian and also splits pregnancy and possession between different women.</li><li><strong>Other unverified timing:</strong> <em>Bunshinsaba</em> has a possessed teacher who later gives birth, but pregnancy during possession could not be established.</li><li><strong>Haunted or threatened, not controlled:</strong> <em>Magi</em>, <em>Cin Azabı</em>, <em>The Wrath</em>, <em>The Unborn</em> (2003), <em>Ma</em> and <em>Sakanak</em>.</li><li><strong>Fetus affected or no overlap:</strong> <em>Delivery: The Beast Within</em>, <em>Gauri: The Unborn</em>, <em>El maleficio</em> and <em>El extraño retorno de Diana Salazar</em>.</li><li><strong>No qualifying control:</strong> <em>Xtro</em>, <em>Metamorphosis</em> and several individually checked titles including <em>Still/Born</em>, <em>Bed Rest</em>, <em>Apartment 7A</em>, <em>The Omen</em> and <em>The Last Exorcism Part II</em>.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant mother + child walk-in: one airtight match (Catastrophe S2E1)</summary><div class=\"note-body\"><p>The 30 September 2026 English-indexed search and a follow-up using native-language queries across 12 priority markets established one airtight exact match — <em>Catastrophe</em> S2E1 (2015), in which deeply pregnant Sharon is mid-coitus with husband Rob when their son walks in — alongside one strongest candidate and 24 clearly labeled partial or exclusion cases, including 10 new catalog records from the follow-up; cards are displayed in ascending release-year order within each confidence group, with undated leads last.</p><ul><li><strong>Strongest candidate:</strong> <em>Neighbors 2: Sorority Rising</em> (2016). Pregnancy, toddler Stella and the opening lovemaking scene are supported by multiple sources; Stella’s immediate entrance is stated explicitly in the IMDb plot summary and the associated adult-toy gag is corroborated by reviews. Because a screenplay, subtitles or direct scene check was not available, the exact timing remains unconfirmed and the title is not presented as a fully verified match.</li><li><strong>Strongest new partial:</strong> <em>СашаТаня (SashaTanya)</em>. Alyoshka’s bedroom walk-in is documented in Season 7, but Tanya’s verified twin pregnancy begins six episodes later in the Season 8 premiere; no pregnancy-period walk-in was found.</li><li><strong>Native-language coverage:</strong> targeted searches covered Hindi, Turkish, Spanish, Portuguese, Korean, Japanese, Chinese, Arabic, French, German, Russian and Italian. New partials from Russia, France, Argentina, Italy, Mexico, India, Turkey, Brazil and Japan remain labeled with the exact missing element.</li><li><strong>Open questions:</strong> video, subtitle or transcript access is still needed to determine whether <em>SashaTanya</em> Season 8, <em>Casados con hijos</em> S01E89, <em>Fais pas ci, fais pas ça</em> Season 3 or <em>Un medico in famiglia</em> Season 2 contains a qualifying scene. Moni Argento’s pregnancy may also be a false alarm.</li><li><strong>Not promoted:</strong> <em>A Grande Família</em> fails because Bebel’s pregnancy is her first. Four German or Russian walk-in clips have no pregnancy, so they remain outside the catalog rather than being padded into the partial list.</li></ul></div></details>\n<details open=\"\"><summary>Child walks in on parents’ intimate scene: 39 sourced records</summary><div class=\"note-body\"><p>The category now holds 39 records: 23 shown strict cases involving the couple’s own minor child, four dialogue-confirmed childhood recollections, six adult-offspring cases and six labeled variants or near-misses. Descriptions remain non-graphic, and every card preserves the report’s confidence level and source caveat.</p><ul><li><strong>Strict shown cases:</strong> the own-child set is split by location. Bedroom or sleeping-room entries remain the strictest group; bathroom, living-room and couch interruptions are shown separately without losing their strict own-child status.</li><li><strong>Recounted events:</strong> <em>Veronica Mars</em>, <em>Scrubs</em>, <em>Yellowjackets</em> and <em>Misfits</em> confirm a childhood walk-in through dialogue or transcript, but do not show the event on screen.</li><li><strong>Adult offspring:</strong> <em>Schitt’s Creek</em>, <em>Seinfeld</em>, <em>Life in Pieces</em>, <em>Psych</em>, <em>Titus</em> and <em>Friends</em> are separated because the interrupter is an adult child.</li><li><strong>Other variants:</strong> <em>Soul Food</em> uses a kitchen; <em>Stepmom</em> involves a father and future stepmother; <em>Christmas Evil</em> leaves the exact entry point unclear; <em>South Park</em> S20E04 uses a consensual kink act; <em>F Is for Family</em> has a child already hiding under the bed; and <em>Once Upon a Time</em> is post-coital rather than an interruption.</li><li><strong>Worldwide result:</strong> <em>Catastrophe</em> S2E1 is the first verified pregnant-mother strict match in the catalog and has dual membership in the pregnancy-sex section. <em>Pabbahelgar</em> from Iceland remains the only verified non-English strict title found in the earlier walk-in sweep; its broader native-language searches produced unresolved leads rather than additional confirmed titles.</li><li><strong>Unresolved, not promoted:</strong> exact episodes remain unidentified for <em>Oliver Beene</em>, <em>Ready or Not</em>, <em>The Oblongs</em>, <em>Family Matters</em>, <em>The Drew Carey Show</em> and <em>30 Rock</em>. The French short <em>Surprendre ses parents en train de...</em> has IMDb-only support. <em>Meet the Fockers</em> remains a prior supplied adult-son lead without enough scene detail in this report, and the alleged <em>Blockers</em> stinger is contradicted by available material.</li><li><strong>Firm exclusions:</strong> scenes with one parent and a different partner, a child merely overhearing from outside, an unrelated child, kissing only, averted interruptions or a reversed-direction setup are not included as matches.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant sex and intimate scenes: 18 new records after deduplication</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide sweep expands both existing sections to 17 entries each. Eighteen unique records are new; <em>Outlander</em>, <em>Yeh Hai Mohabbatein</em> and <em>Badhaai Ho</em> were expanded in place rather than duplicated. <em>Neon Bull</em> and <em>Knocked Up</em> were independently reconfirmed and needed no structural change.</p><ul><li><strong>Having sex:</strong> the character is pregnant during an on-screen encounter, or the episode’s plot and sourcing clearly establish that it happened. Subgroups separate established partners, new partners or affairs, comedy, a plot-verified non-consensual case, adult-animation / sex-work context and one timing-caveat case.</li><li><strong>Intimate scenes:</strong> attempted or interrupted sex, sensual or erotic imagery short of intercourse, affectionate non-sexual romance, labor-induction discussion, and sexual fantasy remain distinct from completed sex.</li><li><strong>Evidence boundaries:</strong> <em>A Happy Event</em> rests on one English-language review after native-language searches did not corroborate the scene; <em>The Housemaid</em>, <em>Junichi</em> and <em>Pasión de Gavilanes</em> rely on viewer or fan sources; <em>24 Weeks</em> verifies a sex scene but not the character’s pregnancy at that exact moment. These limits are repeated on the cards.</li><li><strong>Held as near-misses:</strong> <em>Bridal Shower</em> only implies marital relations; <em>Kızılcık Şerbeti</em> does not establish overlap between the romantic episode and pregnancy arc. Other rejected leads either place the scene before pregnancy, only discuss sex, use a false or performer-only pregnancy, or lack a qualifying intimate scene.</li><li><strong>Coverage gaps:</strong> no source-verified African or Arabic-language case was found, and none was verified in Tamil, Telugu, Malayalam, Kannada, Marathi, Bengali, Punjabi, Pakistani, Bangladeshi or Sri Lankan productions. These are documentation gaps, not proof of absence.</li><li><strong>Performer caveat:</strong> a performer being pregnant is not enough unless the character is also pregnant. <em>Neon Bull</em> remains separately labeled because both are true.</li></ul></div></details>\n<details open=\"\"><summary>Category 4: mothers with children under hypnosis or mind control</summary><div class=\"note-body\"><p>The 30 September 2026 research pass found 17 higher-confidence fits and 12 separately labeled borderline or lower-confidence cases. The higher-confidence tier includes 16 English-language titles and one Spanish-language Argentine film. Every card states its mechanism and preserves source-level caveats; several obscure shorts rely only on IMDb synopsis-level evidence.</p><ul><li><strong>Strongest concentration:</strong> demonic-possession horror and witchcraft or technology-driven mind control.</li><li><strong>Open leads:</strong> the Turkish/Indonesian <em>Siccîn/Sijjin</em> line still needs proof that the targeted wife is a mother with an on-screen child. Both versions of <em>El maleficio</em> need episode-level proof of direct mind control rather than deception or intimidation.</li><li><strong>Research basis:</strong> indexed page content and fetched plot text; none of these findings was re-verified in a live research browser during this pass.</li></ul></div></details>\n<details><summary>Category 4: regions and formats checked with no verified fit</summary><div class=\"note-body\"><p>Targeted searches found no additional verified fit in Indian regional cinema, Korean, Japanese, Chinese, Thai or Filipino film and television; Brazilian/Portuguese, French, German, Italian, Russian, Scandinavian, Middle Eastern or African cinema; or Western animation.</p><ul><li><strong>India:</strong> <em>Shaitaan</em> and <em>Vash</em> control the daughter, not the mother.</li><li><strong>Korea:</strong> <em>Hypnotized</em> (2004) involves a married woman, but motherhood was not verified.</li><li><strong>Turkey:</strong> <em>Dabbe: Cin Çarpması</em> involves a possessed woman not established as a mother.</li><li><strong>Other checked non-fits:</strong> <em>Ouija: Origin of Evil</em>, <em>The Possession</em>, <em>The Exorcist</em>, <em>Get Out</em>, <em>The Manchurian Candidate</em>, <em>Mother Is Strong on Hypnotism</em>, <em>Mama</em>, <em>WandaVision</em>, <em>Bring Her Back</em>, <em>The Babadook</em>, <em>Relic</em> and <em>Bless the Child</em> fail the mother-as-controlled-victim rule.</li></ul></div></details>\n<details open=\"\"><summary>Worldwide expansion: 20 strong cases + 7 borderline</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide pass added 20 defensible strong cases and 7 separately labeled borderline cases. Targeted searches covered the United States and Canada, Japan, South Korea, China, India, Latin America, Turkey and the Middle East, Russia/Soviet cinema, and continental Europe. The evidence supports fewer than the requested 40–60 new titles, so the catalog is not padded with weak matches.</p><ul><li>New regional coverage is still concentrated in the United States and Japan. South Korea is represented by <strong>Hypnotized</strong> (2004), and China by <strong>The Love by Hypnotic</strong> (2019).</li><li><strong>The Love by Hypnotic</strong> is supported by a MyDramaList review synopsis and TV Time synopsis, not a viewed transcript.</li><li><strong>Tanken Driland</strong> and <strong>Yatterman</strong> episode 55 remain trope-index-only claims and are not catalog entries until independently verified.</li></ul></div></details>\n<details><summary>Husband hypnotizes or mind-controls wife: dedicated worldwide pass</summary><div class=\"note-body\"><p>This source-index pass identified six strong movie matches, two TV-movie matches and one loose, unverified serial match. Its nine findings are included in the husband-control category and keep their direct, loose or unverified labels on the cards.</p><ul><li><strong>Strong movies:</strong> <em>Amore e ipnotismo</em>, <em>Sleep, My Love</em>, both versions of <em>The Stepford Wives</em>, <em>Tee Ratra</em> and <em>Don’t Worry Darling</em>.</li><li><strong>TV movies:</strong> <em>The Stepford Children</em> is a direct match under the Stepford rule; <em>Revenge of the Stepford Wives</em> is loose because the town’s conspiracy—not Megan’s husband—imposes the conditioning.</li><li><strong>Serial:</strong> <em>被催眠的她</em> (<em>The Hypnotized Her</em>) is loose and unverified because no source establishes that the husband is the hypnotist.</li><li>All findings in this pass rest on indexed page content reviewed 30 September 2026, not live-browser confirmation. The country and original language of <em>Amore e ipnotismo</em> remain unverified.</li></ul></div></details>\n<details><summary>Checked and excluded from “hypnotized to love”</summary><div class=\"note-body\"><ul>\n<li><strong>Shallow Hal</strong> (2001): the man’s perception is altered; no woman is hypnotized into love. <a href=\"https://www.rogerebert.com/reviews/shallow-hal-2001\" rel=\"noopener\" target=\"_blank\">RogerEbert.com</a></li>\n<li><strong>Get Out</strong> (2017): hypnosis enables the Coagula procedure, not romance. <a href=\"https://get-out.fandom.com/wiki/The_Sunken_Place\" rel=\"noopener\" target=\"_blank\">Get Out Wiki</a></li>\n<li><strong>Office Space</strong> (1999): Peter is hypnotized into job apathy; his romance is incidental. <a href=\"https://en.wikipedia.org/wiki/Office_Space\" rel=\"noopener\" target=\"_blank\">Wikipedia</a></li>\n<li><strong>Shaitaan</strong> (2024): occult control is possessive but not romantic. <a href=\"https://english.tupaki.com/entertainment/shaitaanmovietrailer-1344781\" rel=\"noopener\" target=\"_blank\">Tupaki</a></li>\n</ul></div></details>\n<details><summary>Checked and excluded from “husband controls wife”</summary><div class=\"note-body\"><ul>\n<li><strong>Dr. Damon’s Experiment</strong> (1954, <em>The Vise</em>, UK): re-verification shows the husband hypnotizes his wife’s lover, not his wife.</li>\n<li><strong>Hypnotic</strong> (2021, USA): the hypnotherapist is not her husband.</li>\n<li><strong>Rosemary’s Baby</strong> (1968, USA): the husband drugs his wife, but the occult act is performed by the neighbors, not him.</li>\n<li><strong>Mesmerized</strong> (1985/86), <strong>Take Her by Surprise</strong> (1967), <strong>Perfect Little Angels</strong> (1998), <strong>The Stepford Husbands</strong> (1996), <strong>Possession</strong> (2009), <strong>The Hypnosis</strong> (2023), <strong>The Hypnotic Wife</strong>, <strong>Temptation of Wife</strong> (2008–09), and <strong>Night of the Eagle</strong> (1962) also miss the requested perpetrator–victim direction or use no hypnosis of the wife.</li>\n</ul></div></details>\n<details><summary>Titles and regions still unresolved</summary><div class=\"note-body\"><ul>\n<li><strong>The Love Letter</strong>: the 1999 film uses a letter as a love-potion metaphor; the 1998 TV movie is a time-crossed correspondence story. A different intended title would need clarification. <a href=\"https://bostonphoenix.com/archive/movies/99/05/27/THE_LOVE_LETTER.html\" rel=\"noopener\" target=\"_blank\">Boston Phoenix</a> · <a href=\"https://www.imdb.com/title/tt0140340/plotsummary/\" rel=\"noopener\" target=\"_blank\">IMDb</a></li>\n<li>No verified Bollywood hypnosis-into-romance title or movie matching the single-mom-remarriage pattern was found.</li>\n<li><strong>Fantasy Island</strong> S04E06 surfaced, but no accessible plot summary confirmed a hypnosis-into-love story.</li>\n<li>The earlier search found no confirmed soap-opera or telenovela match for this category. That finding is now superseded: <strong>El maleficio</strong> (1983–84), its 2023–24 remake, and <strong>Desejos de Mulher</strong> (2002) are the first confirmed telenovela matches.</li>\n<li>The production country and original language of <strong>Amore e ipnotismo</strong> remain unverified.</li>\n</ul></div></details>",
+  "research_notes_html": "<h2 id=\"notes-heading\">Boundaries &amp; open questions</h2>\n<details open=\"\"><summary>Female hypnosis deep sweep: 7 verified additions after full-catalog dedupe</summary><div class=\"note-body\"><p>The 2 October 2026 pass ran about 117 search rounds across mainstream vertical platforms, adult and erotic screen indexes, recent releases, smaller short-drama platforms and multilingual searches. Seven verified findings are now represented in their existing plot categories: two forced-obedience memberships and five hypno-intimacy memberships.</p><ul><li><strong>Vertical short:</strong> <em>Super Godfather: My Ex Begs Me on Her Knees</em> is the one new verified vertical drama. ReelShort’s official episode 6 page identifies the “Eyes of Rom” hypnosis beat involving Cathey; the card carries the vertical-short badge.</li><li><strong>Memory-manipulation variant:</strong> <em>O Hipnotizador</em> S02E02 “Teresa e as Mariposas” is cross-filed into forced obedience, with the caveat that the episode concerns false-memory manipulation rather than a direct command.</li><li><strong>18+ explicit additions:</strong> <em>The Hypnotist</em> (1936), <em>PPPD-305</em>, <em>Saimin Seishidou / Hypnosis Sex Guidance</em>, <em>Kyonyuu Onna Shikan Sennou Saimin</em> and <em>Saimin Jutsu the Animation 2nd</em> are filed in hypno-intimacy. The two similarly named adult-animation titles are explicitly distinguished from the already-cataloged <em>Kyonyuu Hitozuma Onna Kyoushi Saimin</em> and <em>Saimin Jutsu Zero</em>.</li><li><strong>Dedupe:</strong> four are net-new catalog records; three enrich existing rows. Eleven other researched titles were already represented and were not duplicated. <em>Saimin</em> (1999) remains excluded from female-victim categories because the documented hypnosis victims are male.</li><li><strong>Unresolved leads:</strong> 17 LOW-confidence or title-only leads remain outside the catalog, including <em>My Childhood Friend Hypnotized Me To Love Another</em>, several unidentified dubbed edits and adult listings without enough plot-level support.</li><li><strong>Honest zeros:</strong> no additional adult-only vertical short was verified on the legitimate platforms searched; post-1 October releases, the reviewed obscure-platform indexes and the additional language corners also returned no net-new verified title.</li></ul></div></details>\n<details open=\"\"><summary>Doctor controls female characters for personal gain: 20 verified findings, 7 existing-record overlaps</summary><div class=\"note-body\"><p>The 2 October 2026 worldwide sweep reviewed films, television series and episodes, daytime soaps, telenovelas and adult animation across seven regional and format vectors. Twenty verified findings are grouped by motive; seven already-cataloged titles receive category membership without duplicate records.</p><ul><li><strong>Five motive groups:</strong> 4 sexual-exploitation findings; 5 crime cover-up, silencing or framing stories; 5 cases where a patient is programmed to commit crimes; 4 money, inheritance or power grabs; and 2 romantic or possessive-control stories.</li><li><strong>Confidence:</strong> 13 findings are high confidence and 7 medium. The 17 low-confidence leads are not filed.</li><li><strong>Mechanism honesty:</strong> cards distinguish classical trance from implanted chips, drugs, gaslighting, psychiatric conditioning, machine mind-control, non-trance manipulation, memory alteration and fantasy hypnosis.</li><li><strong>Special flags:</strong> adult and erotic works, female doctors, the 19-year-old patient in <em>Augustine</em>, school settings, a non-doctor counsellor edge and the teen-victim caveat on the 2025 Thai <em>Hypnotic</em> remain explicit.</li><li><strong>Cross-filing:</strong> qualifying sexual-exploitation cases also appear in the adult female-hypnosis doctor/therapist group and the hypnotized-intimacy view; supported forced-obedience cases are cross-filed without creating extra records.</li><li><strong>Coverage limits:</strong> the sweep found no verified additions in Indian cinema or television, short-form vertical dramas, several African and Middle Eastern markets, UK soaps, or the reviewed golden-age explicit-adult and Hong Kong Category III indexes. These are research results, not proof that no other case exists.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant-woman hypnosis sweep: 1 strict update, 4 new variants or leads</summary><div class=\"note-body\"><p>The 2–3 October 2026 worldwide sweep ran 110 query rounds across 13+ languages, covering vertical-short platforms, mainstream film and television, and adult / R-rated indexes. Five catalog updates are retained after full-catalog dedupe: one existing Indonesian film gains strict-core membership, and four new mainstream film or television records join the variants-and-leads view.</p><ul><li><strong>Strict core:</strong> <em>The Womb / Inang</em> (2022) now records that Eva hypnotizes pregnant Wulan into agreeing to stay until after delivery. Two independent plot explainers support the pregnancy-era hypnosis; the card remains medium confidence.</li><li><strong>Supported supernatural variants:</strong> <em>Djinn</em> (2013) and <em>Alkarısı Cinnet</em> (2015) are medium-confidence possession or haunting cases, not literal hypnosis. Their cards state the exact mechanism gap.</li><li><strong>Unresolved leads:</strong> <em>Cin Azabı</em> has an unverified year and does not establish will-override; <em>سحر أسود / Sehr El Aswad</em> confirms a black-magic series but not a pregnant controlled victim. Both remain LOW-confidence leads.</li><li><strong>Held outside the catalog:</strong> <em>Ezedike / The Pregnant Witches</em> is not filed because its pregnant women appear to be agents of unseen forces rather than controlled victims, and no mind-control mechanism is confirmed.</li><li><strong>Honest zeros:</strong> no strict match was verified on the vertical-short platforms searched; no new verified hypno-intimacy or adult / R-rated title survived. In-app-only titles and some native-language platform searches remain an access gap, not proof of absence.</li><li><strong>Dedupe:</strong> <em>Birth</em>, <em>Vashikaranam – Kis Par Rakhe Vishwas</em>, <em>Saimin Seishidou</em>, <em>The Interns</em> S1E17 (previously tracked as “Metamorphosis”) and <em>Karishika</em> were already represented and were not added again.</li></ul></div></details>\n<details open=\"\"><summary>Polygamy + pregnancy + intimate / sex scenes: 99 worldwide findings</summary><div class=\"note-body\"><p>The 1–2 October 2026 worldwide sweep reviewed films, television series and serials, TV movies, soap operas, historical dramas and vertical shorts across ten regional and format vectors. It found 99 distinct titles or leads and grouped them by how closely all three plot elements are documented.</p><ul><li><strong>Multiple wives / partners with pregnancy:</strong> 33 records, including 10 high-confidence strict matches. Formal co-wives, bigamy, live-in parallel households and edge cases such as a mistress or sequential-marriage overlap are distinguished on each card.</li><li><strong>Royal harem / concubine stories:</strong> 29 records, including 11 high-confidence titles and one medium-high title. Nine palace dramas remain low confidence because pregnancy and plural-consort structures are established but intimacy is only implied or off-screen.</li><li><strong>Modern polygamous households:</strong> 8 records spanning HBO drama, Indonesian cinema, Lifetime TV movies, a fantasy-series subplot and vertical drama. Missing pregnancy or intimacy evidence is stated rather than inferred.</li><li><strong>Polyandry variant:</strong> <em>Matrubhoomi: A Nation Without Women</em> is separated from polygyny and carries a prominent sexual-violence caveat; it is not framed as romantic polyandry.</li><li><strong>Unresolved leads:</strong> 28 records remain clearly labeled because pregnancy, depicted intimacy, formal plural-marriage status, release identity or another required element is not yet verified.</li><li><strong>Adult / R-rated / erotic coverage:</strong> the dedicated vector found 12 relevant adult-audience or explicit candidates, including <em>The Concubine</em>, <em>Jan Dara</em>, <em>Versailles</em>, <em>Borgia</em> and <em>The Golden Lotus: Love and Desire</em>. Hardcore pornography was outside the research scope.</li><li><strong>Dedupe:</strong> this category reuses existing catalog rows where the same title and release year were already present, adding a category-specific view instead of a second card.</li></ul></div></details>\n<details open=\"\"><summary>Polygamy + female hypnosis / mind control: 36 category memberships, 6 unresolved leads</summary><div class=\"note-body\"><p>The 1 October 2026 worldwide sweep and strict-scope supplement searched films, television series and serials, TV movies, soap operas, anime, documentaries and adult-audience productions across fourteen complementary regional and format vectors. The catalog now shows 33 supported or borderline research titles plus three related existing records, without adding duplicate rows.</p><ul><li><strong>Five plot-pattern groups:</strong> 10 strict core matches connect plural wives or consorts to hypnosis, possession or occult will-override; 6 harem variants involve concurrent controlled partners rather than wives; 8 cult variants document coercive indoctrination, not literal hypnosis; 9 entries are labeled borderline; and 3 related records are cross-referenced from existing catalog rows.</li><li><strong>Adult / 18+ coverage:</strong> adult, softcore and mature-audience records are explicitly labeled. The worldwide search also covered R-rated and erotic cinema.</li><li><strong>New strict-core coverage:</strong> the supplement adds the 2005 <em>Trapped by the Mormons</em> remake, Egypt’s <em>ساحرة الجنوب / Saherat El Ganoub</em>, India’s <em>Sasural Simar Ka</em>, China’s <em>Creation of the Gods I: Kingdom of Storms</em> and Japan’s <em>Genji Monogatari: Sennen no Nazo</em>. <em>O Beijo do Vampiro</em> now records its confirmed plural-wife dimension while keeping the separate pregnancy-era hypnosis timing question open.</li><li><strong>Honest-zero searches:</strong> the strict review found no additional verified combination in modern European productions, Western soaps, Turkish erotic films, Scandinavian / Eastern European / Oceanian cinema, Iranian titles, most imperial-harem dramas, or the dedicated Latin America / Africa and adult-erotic vectors. These are documentation results, not proof that no other title exists.</li><li><strong>Unresolved leads — not counted as verified:</strong> <em>The 19th Wife</em> (2010), <em>Escape from Polygamy</em> (2013), <em>Hell Is Empty</em> (2021/22), <em>Sharara / شرارة</em> (2026), <em>RadhaKrishn</em> (2018–2023) and an unidentified Thai lakorn. For <em>Sharara</em>, the only located promo describes sihr aimed at the husband rather than a woman, and episode-level confirmation is still missing.</li><li><strong>Explicit exclusions:</strong> <em>Big Love</em>, <em>Sister Wives</em>, <em>The Polygamist</em> (2026), <em>O Clone / El Clon</em>, <em>The Stepford Wives</em>, <em>Get Out</em>, <em>El Maleficio</em> (1983), <em>Shaitaan</em>, <em>Vash</em>, <em>Caminhos do Coração</em>, <em>Bible Black</em>, <em>Queen Seondeok</em> and <em>Kutsujoku</em> fail one prong, reverse the control direction or lack a qualifying plural-wife structure.</li></ul></div></details>\n<details open=\"\"><summary>DramaExpress + short-drama-sites sweep (1 Oct 2026): 7 net-new titles, 4 leads, ~48 exclusions</summary><div class=\"note-body\"><p>The sweep covered 12 platform surfaces: dramaexpress.net, DramaBox, ReelShort, GoodShort, ShortMax and ShortTV, NetShort, DramaWave, FlexTV, ToonShort, Miralune Short and MiniShorts. Seven net-new titles were verified: three forced-obedience entries, three age-gap-marriage entries and one mom-pregnancy borderline/variant.</p><ul><li><strong>LOW leads:</strong> four were reviewed. <em>寒途向新生</em>, <em>My Don Missed My Last Chance to Be a Mother</em> and <em>A Lover's Trap</em> are filed only as clearly labeled unresolved leads, not as verified entries. <em>The Tower That Erased Me</em> is excluded: NetShort describes Chloe being suppressed with antipsychotics in a psychiatric facility, which is chemical sedation rather than hypnosis.</li><li><strong>Exclusions:</strong> roughly 48 candidates were rejected because they used a werewolf mate-bond genre trope rather than hypnosis, ordinary amnesia, telepathy, a plain secret-baby plot, or devil romance without pregnancy.</li><li><strong>Honest zeros:</strong> strict pregnant-while-hypnotized, devil-deal pregnancy, hypno-intimacy plus pregnancy and adult / R-rated / 18+ productions each returned zero; all 12 platforms skew PG-13 / Teen.</li><li><strong>Coverage limits:</strong> no live browser was available, so in-app-only titles remained unreachable. Miralune Short and MiniShorts have no text-searchable web catalogs, while dramaexpress.net is new (about September 2026) and has minimal search-engine indexing.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant + hypnotized round 2: no new strict-core title; two variant outcomes</summary><div class=\"note-body\"><p>The 1 October 2026 super-deep sweep covered seven regional vectors across movies, television, serials, soap operas, anime and adult-audience plot indexes. It found no net-new title meeting the strict rule that the same adult woman is pregnant while an external force overrides her will.</p><ul><li><strong>New close variant:</strong> <em>Don't Turn Around, or You'll Be Sorry / 唔該借歪</em> (2000) is filed in both the evil-force and pregnancy-control-variant views. Five sources describe a ghost seeking to take over pregnant Lisa's body, but the takeover is framed as attempted or thwarted rather than completed.</li><li><strong>Re-identified lead:</strong> the old “Metamorphosis” record is now correctly <em>The Interns</em> S1E17 (1971), a CBS television episode. Pregnancy and episode identity are corroborated, while the diagnostic-hypnosis detail remains single-sourced.</li><li><strong>Corrections:</strong> <em>Alem-i Cin 4</em>'s pregnant character is İrem, not İpek; Turkish sources confirm the pregnancy, but not literal will-override. <em>Saimin Seishidou</em>'s “pregnancy experience” is now labeled simulated, not real. <em>Danger Diva</em>'s source list was reconciled without adding a duplicate.</li><li><strong>Revisit list — not catalog records:</strong> <em>Pregnancy</em> (Nigeria); <em>Zir-i Cin 4: Nesep Bağı</em> (2026); <em>Üç Harfliler: Mühür</em> (2026); <em>Fear Files</em> S3E9; <em>418</em> (Telugu, theatrical release dated 23 October 2026); the unresolved Nollywood demon-pregnancy video; and <em>Revolving Heart / 心门</em> (2017), which still needs a third source and fails strict simultaneity.</li><li><strong>Coverage gaps:</strong> IAFD direct search remained unavailable; Scandinavian and deeper European adult-index passes were not completed; documentation remains thin for several South and Southeast Asian markets. These are search gaps, not claims that no additional title exists.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant belly kissed or touched by kids: 7 verified family-warmth scenes</summary><div class=\"note-body\"><p>The first 1 October 2026 worldwide sweep filed six verified scenes after dedupe. A round-2 deep sweep across six vectors adds one medium-confidence human-character scene, bringing this view to seven records.</p><ul><li><strong>Round-2 addition:</strong> <em>Shang-Chi and the Legend of the Ten Rings</em> shows Ying Li resting young Shang-Chi on her pregnant stomach in a flashback. The card retains the fan-curated-source and visibility caveats.</li><li><strong>Round-1 records retained:</strong> <em>Kim Possible: A Sitch in Time</em>, <em>A Separation</em>, the Vietnamese-titled NetShort series <em>Đuổi Tôi Đi, Giờ Đòi Nhận Con?</em>, <em>Pan's Labyrinth / El laberinto del fauno</em>, <em>Look Who's Talking Too</em> and <em>Parenthood</em>.</li><li><strong>NetShort enrichment:</strong> the child is now identified as Elowen Thorne's own son Elian; the werewolf-romance premise, still-unidentified original title, official-thumbnail verification and possible pregnant-again overlap are recorded on the existing card.</li><li><strong>Scope refinement:</strong> round-2 animal, animated-animal and animal-puppet findings were not filed. Existing round-1 records were left unchanged.</li><li><strong>Coverage result:</strong> the dedicated adult / erotic vector returned an honest structural zero.</li></ul></div></details>\n<details open=\"\"><summary>Hallmark six-topic sweep: 11 titles filed across four views</summary><div class=\"note-body\"><p>The 1 October 2026 sweep reviewed Hallmark Channel, Hallmark Mystery, Hallmark+, and the Crown Media / Hallmark Hall of Fame back catalog across six requested plot patterns. It adds ten net-new records and upgrades one existing record, <em>Jane Doe: How to Fire Your Boss</em>, without duplication.</p><ul><li><strong>Pregnant female character:</strong> eight titles appear in the new Hallmark-specific view. Seven are high confidence; <em>Signed, Sealed, Delivered: A Tale of Three Letters</em> is medium confidence because pregnancy is announced only in the final moments.</li><li><strong>Mother pregnant again:</strong> <em>Three Wisest Men</em> follows Sophie, already mother to Thomas, while expecting twins.</li><li><strong>Remarriage:</strong> <em>Love's Enduring Promise</em> is a core fit, though the pregnancy occurs off-screen between films. <em>Love Comes Softly</em> is a labeled borderline because Marty is already pregnant by her late husband before marrying Clark.</li><li><strong>Female hypnosis:</strong> the existing <em>Jane Doe: How to Fire Your Boss</em> record is upgraded to high confidence and cross-filed into forced obedience for its trigger-word sleeper-agent trance.</li><li><strong>Honest zeroes:</strong> no Hallmark title was verified for a pregnant woman hypnotized while pregnant or a remarried woman who is hypnotized. Competing-network lookalikes and unproduced pitches remain excluded.</li></ul></div></details>\n<details open=\"\"><summary>Vertical short dramas: 13 mothers become pregnant again</summary><div class=\"note-body\"><p>The 1 October 2026 multilingual sweep adds 13 deduplicated vertical-short records to the mother-pregnancy view. The English HoneyReels title <em>Two Babies in One Birth: Daddy, Mummy is Pregnant Again</em> and the Mandarin <em>一胎两宝：爹地妈咪又怀了</em> share the same cast and are therefore one record.</p><ul><li><strong>Visible-pregnancy evidence:</strong> <em>For the Custody, I Slept with a Billionaire</em> has direct episode-level baby-bump wording. <em>They Locked Her Daughter in the Car</em>, <em>A Baby, a Billionaire, And Me</em> and <em>CEO Wants My Little Rascal</em> have medium-strength anchors through emergency labor, belly-touching and maternity shopping, or on-screen ultrasound and pregnancy-test scenes.</li><li><strong>Scope caveats retained:</strong> <em>Unconditionally Loved by the Lycan Billionaire</em> has mixed DramaBox / Stardust TV attribution. <em>诞下二胎，父母破局</em> and <em>Ditch The Mommy Duties After Reborn</em> involve adult daughters, while <em>Reborn At Sixty, I'm Pregnant Again</em> is an elderly-mother rebirth fantasy.</li><li><strong>Held outside the catalog:</strong> <em>Beg Me, My Mafia Ex-Husband</em> remains unfiled because the available synopsis does not establish the parentage or timing of “her child” relative to the new pregnancy. The titleless 借种怀二胎 upload and all other unresolved leads also remain unfiled pending a verified title or stronger plot evidence. The visible-pregnancy follow-up found no additional net-new title meeting its screen-evidence bar.</li></ul></div></details>\n<details open=\"\"><summary>Vertical short dramas: 8 verified hypnosis titles, including 2 strict pregnancy-era matches</summary><div class=\"note-body\"><p>The 1 October 2026 hypnosis-and-pregnancy sweeps found seven titles for the broad hypnotized-to-love / relationship-role view. A separate five-vector female-hypnosis sweep reviewed roughly 70 additional query rounds and adds <em>Stay Away! She's a Violent Psycho!</em> to the forced-obedience view. <em>Snake Year Salvation: CEO's Bargain Bride</em> and <em>I Accidentally Had the Billionaire's Twins</em> also qualify for the strict pregnant-while-hypnotized category.</p><ul><li><strong>New forced-obedience addition:</strong> <em>Stay Away! She's a Violent Psycho!</em> is a medium-high-confidence NetShort drama of approximately 80 episodes. Mr. Jensen uses Dr. Clark to hypnotize Jessie Bennett for control and punishment; episode 58 shows Jessie resisting the pocket-watch attempt, while episode 61 says six years of torture left her immune to hypnosis. The release year and exact episode count remain unconfirmed.</li><li><strong>Strict pregnancy-era overlap:</strong> <em>Snake Year Salvation</em> has adjacent episode-guide evidence for the heroine carrying a baby and being hypnotized with a pocket watch. <em>I Accidentally Had the Billionaire's Twins</em> places Kathy's kidnapping and hypnosis after a marker identifying her as pregnant and before the six-year jump; its pregnancy timing is inferred from those markers and remains medium-high confidence.</li><li><strong>Follow-up love-category addition:</strong> <em>Broken Bone Rose</em> is a medium-confidence Mandarin vertical drama in which a man erases his bodyguard's memories through hypnosis to keep her. Two independent uploads support the mechanism and direction, but the year and episode count remain unconfirmed.</li><li><strong>Pregnancy timing unresolved:</strong> <em>Sweet Strategy: Mr. Vance's Ex Is Too Proud</em> links the hypnosis incident to a later pregnancy discovery, but does not establish whether Elena was already pregnant during the hypnosis.</li><li><strong>Other verified female-control titles:</strong> <em>Twisted Vows</em> pairs hypnosis with a forced new identity and fiancée role; <em>They Called Me the Fake Heiress, But My Birthright Was Far Greater</em> uses pill-assisted hypnosis to impose false “rebirth” memories; and <em>Taste of the Wild</em> uses chime-based mind control, with a retained Emma/Rachel name discrepancy and mixed controller direction.</li><li><strong>Resolved exclusions and open leads:</strong> <em>被催眠的她 / Hypnotized Her</em> is rejected because the plot attributes the wife's perceptions to mental illness, not literal hypnosis. <em>Scratch Your Fate</em> episode 59 is rejected because Olivia is the hypnotizer and her pregnancy is only alleged. <em>My Childhood Friend Hypnotized Me To Love Another</em>, <em>被束缚后她觉醒了</em>, and unidentified YouTube edits remain outside the catalog pending corroboration.</li><li><strong>Coverage result:</strong> the separate female-hypnosis sweep found no additional verified title in its Chinese-vertical, Asia-regional, Latin America / EMEA or recap-aggregator vectors. Search indexing remains weak for several platforms, so those are documented search zeroes, not proof that no other title exists.</li></ul></div></details>\n<details open=\"\"><summary>Hypnotized to marry or love: worldwide max sweep, including short-form vertical dramas</summary><div class=\"note-body\"><p>The 1 October 2026 sweep reviewed 16 candidates across eight multilingual research vectors and roughly 150 query rounds. After reconciling the finished sweep against the current catalog, two records are net-new and four existing records are cross-filed into this plot category without duplicating them.</p><ul><li><strong>Net-new:</strong> <em>Kiss Me, Even If It Burns</em> is the key DramaBox-style vertical short-series find; billionaire Dylan Pitt erases bodyguard Scarlet Novak’s memories so she will fall in love with him anew. <em>Eternally Yours</em> verifies a hypnosis scheme to win back an ex-wife, but the reconciliation outcome remains unconfirmed.</li><li><strong>New category memberships:</strong> The current catalog already held <em>The Brides of Dracula</em>, so its vampiric mesmerism toward a devoted “bride” bond and interrupted forced marriage is cross-filed rather than duplicated. <em>The Kiss of the Vampire</em> transfers Marianne’s devotion from her husband to Ravna; <em>She Did What He Wanted</em> compels adult Nora’s “loving” devotion without marriage; and <em>Naagin 3</em> hypnotizes Bela toward divorce and an interrupted nikah with Shahnawaz.</li><li><strong>Already covered:</strong> <em>Road to Rio</em>, both <em>Flash Gordon</em> versions, <em>Devil Doll</em>, <em>Carefree</em>, <em>Don’t Go Breaking My Heart</em>, <em>El maleficio 2</em>, <em>The Hypnotist</em> (1911), and <em>Skin Deep in Love</em>.</li><li><strong>Excluded:</strong> <em>How to Be Very, Very Popular</em> (1955) remains outside the catalog because its accidental hypnosis is incidental to the romance. MENA/Africa/Russia and East/Southeast Asia produced no net-new verified title in this pass; those are documentation results, not proof that none exist.</li></ul></div></details>\n<details open=\"\"><summary>Woman bargains with the devil or a demon for pregnancy / a child: 9 core matches + 1 failed-deal variant + 11 unresolved leads</summary><div class=\"note-body\"><p>The 30 September 2026 multilingual sweeps now support nine core records: six knowing feature-film cases, one knowing short and two unknowing fertility schemes. A high-confidence episode in which both fertility rituals fail is separated as a variant, and eleven thinner or structurally adjacent leads are not counted as verified core matches. Every card states the pregnancy outcome and the evidence caveat.</p><ul><li><strong>New verified additions:</strong> <em>Pengabdi Setan / Satan's Slaves</em> and <em>Soulful</em> are high confidence; <em>Exorcismo Negro</em> is medium-high confidence with a witch-mediated devil link; and the erotic-horror film <em>Secta Sinestra / Bloody Sect</em> is a medium-confidence tricked fertility-clinic case.</li><li><strong>Failed-deal variant:</strong> <em>American Horror Story: Coven</em> “Boy Parts” is high confidence on plot, but Cordelia's paid and sex-magic fertility rituals do not result in pregnancy. The counterparty is practitioner Marie Laveau rather than the devil directly.</li><li><strong>Source discrepancies retained:</strong> <em>The Surrogate</em> now says “pregnancy outcome ambiguous” because its pre-production pitch says she cannot get pregnant while release loglines say she struggles to stay pregnant. The <em>American Horror Stories</em> “BA'AL” card now records that Liv's husband faked the haunting; only the final beat suggests the real Ba'al may take hold.</li><li><strong>Adult / R-rated / erotic search:</strong> one medium-confidence tricked case—<em>Secta Sinestra</em>—survived the worldwide search, but no title verified a knowing bargain. This is a documented search result, not proof that no other title exists.</li><li><strong>Structural pattern:</strong> the knowing-deal protagonists are childless or barren, except the already-pregnant woman in <em>Soulful</em>, whose bargain seeks a healthy birth. No verified title was found in which an existing mother bargains for another child.</li><li><strong>Common exclusions:</strong> the deal seeks wealth, beauty, revenge or saving a life; the child is the price rather than the object; a husband or family member makes the deal; or the woman is impregnated, possessed or cursed without making any bargain. <em>Rosemary's Baby</em>, <em>Devil's Due</em>, <em>The First Omen</em>, <em>Pari</em>, <em>Impetigore</em> and <em>AHS: Delicate</em> therefore remain outside this exact category.</li><li><strong>Regional result:</strong> verified core cases remain concentrated in Indonesian / Malay-language horror, with Nigerian, Brazilian, Spanish and U.S. examples. No verified soap-opera or telenovela title surfaced, and thin regional-horror indexing remains an open documentation gap.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant sexual pleasure scenes: 5 verified additions from a worldwide sweep</summary><div class=\"note-body\"><p>The 30 September 2026 multilingual sweep added five deduplicated titles to the existing pregnancy-sex section: two high-confidence, one medium-high-confidence and two medium-confidence findings. Each card states whether pleasure is directly verified, inferred from pregnancy-era intimacy, or supported through scene dialogue and reviews.</p><ul><li><strong>Marital comedy:</strong> <em>Catastrophe</em> S2E1 shows deeply pregnant Sharon and Rob mid-coitus when their son walks in; it also appears in the child-walk-in category.</li><li><strong>Erotic drama and arthouse intimacy:</strong> <em>A Frozen Flower</em> establishes the Queen’s new pregnancy before a passionate library encounter; <em>Los días que vendrán</em> contains explicit couple sexuality during pregnancy, though no source specifically documents moaning.</li><li><strong>R-rated comedy and affair / new partner:</strong> <em>How to Plan an Orgy in a Small Town</em> depicts a heavily pregnant participant reaching orgasm; the Nollywood film <em>The Pregnant Widow</em> has a consensual steamy scene with a new partner, but its exact release year remains unverified.</li><li><strong>Search boundary:</strong> 18 borderlines or unresolved leads and 81 unique near-misses were reviewed. More than 20 regional or format veins returned no verified match, including the worldwide adult / erotic plot-index pass at high confidence. This is a documentation result, not proof that no other title exists.</li><li><strong>Not promoted:</strong> <em>Titane</em>, <em>Jamón, jamón</em> and <em>Rosemary Is Pregnant Again</em> remain outside the catalog because the pregnancy timing, pleasure element or direct participation could not be established strongly enough.</li></ul></div></details>\n<details open=\"\"><summary>Partner hires a third party to hypnotize or mind-control wife / girlfriend: 5 verified</summary><div class=\"note-body\"><p>This worldwide multilingual sweep found five verified matches: four research additions and one upgraded existing catalog record. It is the rarest node in this trope family: stories more often make the partner the controller, use an uncommissioned villain, or rely on a communal conspiracy.</p><ul><li><strong>Verified motives:</strong> regain her love or stop her leaving (<em>Maalaala Mo Kaya</em> “Gayuma”); change or “cure” her behavior (<em>While You Were Sleeping</em>); extract a secret or locate hidden money (<em>Tee Ratra</em> and <em>The Honeymooners</em> “Sleepy Time Gal”); and malicious elimination for inheritance and another relationship (<em>Sleep, My Love</em>).</li><li><strong>Honest-zero regions:</strong> Latin America and Spain, including telenovelas; the Middle East and Turkey; Europe; Japan; Chinese-language markets; Thailand; Indonesia; sub-Saharan Africa; and adult / erotic indexes worldwide.</li><li><strong>Evidence boundary:</strong> the partner must arrange a third party and the wife, girlfriend or fiancée must herself be subjected to hypnosis, mind control, brainwashing or magical will override. Ordinary manipulation, self-performed control and the wrong target are excluded.</li></ul></div></details>\n<details open=\"\"><summary>Female controlled by husband, boyfriend or ex-partner: 29 entries after the round-2 worldwide sweep</summary><div class=\"note-body\"><p>The 1 October 2026 round-2 sweep adds five high-confidence relationship matches to the unified partner-controller view. Four are husband-as-controller stories—<em>A hipnotizált feleség</em> (1932), <em>Paris 1900: Feydeau</em> “The Ribadier System” (1964), <em>Tales of Wells Fargo</em> “The Gold Witch” (1962), and the 2005–06 Alex North arc of <em>Days of Our Lives</em>—while <em>Mil sexos tiene la noche</em> (1984) is the verified boyfriend-controller find.</p><ul><li><strong>Current husband:</strong> the four new titles span Hungarian short comedy, British television farce, a U.S. western episode and a U.S. daytime-soap arc. Each directly documents a husband hypnotizing his wife; the <em>Days of Our Lives</em> record is distinct from the already cataloged 1994–95 Stefano/Marlena storyline.</li><li><strong>Current boyfriend:</strong> <em>Mil sexos tiene la noche</em> is an erotic-horror film in which Fabián hypnotically controls girlfriend Irina for revenge. The existing adult-audience record is cross-filed here rather than duplicated. Earlier supported matches <em>O Beijo do Vampiro</em> and <em>Silence of Sleep</em> remain.</li><li><strong>Ex-boyfriend:</strong> no new title surfaced; <em>Caminhos do Coração</em> and <em>Scott Pilgrim vs. the World</em> remain the verified examples.</li><li><strong>Ex-husband:</strong> no verified direct case was found, the sixth worldwide confirmation of an honest zero. <em>Desejos de Mulher</em> remains a near-miss because the ex-husband hires a corrupt psychiatrist rather than performing the control himself.</li><li><strong>Adult / erotic search:</strong> the dedicated worldwide pass remains nearly barren, but is no longer zero: <em>Mil sexos tiene la noche</em> is one high-confidence exact match. <em>Mind Twister</em> and <em>Sins of Desire</em> were checked and rejected; <em>Jacquette</em> and <em>The Hypnotized / Faceless Beauty</em> remain relationship-status borderlines.</li><li><strong>Coverage:</strong> twelve regional and format vectors searched local-language sources across Eastern Europe, Africa, India, East and Southeast Asia, the Middle East, Latin America, Western television, soaps and adult-audience cinema. About 120 near-misses were reviewed; thin episode indexing in several markets remains a documentation gap, not proof of absence.</li></ul></div></details>\n<details open=\"\"><summary>Partner engages a hypnotist for his pregnant wife/girlfriend: 1 verified dual-membership</summary><div class=\"note-body\"><p><strong>Scope:</strong> the woman’s partner engages a third-party hypnotist; she is pregnant at the time.</p><p><strong>Round-2 research note:</strong> Round-2 deep sweep (~144 reference surfaces) found this the only verified title; other leads did not verify; adult/erotic indexes yielded no matches.</p></div></details>\n<details open=\"\"><summary>Pregnancy-control restructure: 8 strict cases + 23 variants or leads + 8 Indian-language non-pregnant cases</summary><div class=\"note-body\"><p>The 30 September 2026 combined sweep replaces the former mixed pregnancy-and-trance section with two explicit standards and moves eight Indian-language, non-pregnant records out of the broad forced-obedience category into a dedicated regional view. Five new records were added after title, year and language checks; three existing titles gained category membership without duplication.</p><ul><li><strong>Strict core · 8:</strong> <em>The Stranger Within</em>, <em>Jessica Jones</em> season 1, <em>Black Magic Part 2</em>, <em>Uzumaki</em> episode 3, <em>Ultrasound</em>, <em>The Antichrist</em>, <em>O Beijo do Vampiro</em> and the Amália arc of <em>Caminhos do Coração</em>. The two Brazilian serials are clearly marked as timing-inferred borderlines.</li><li><strong>Variants and leads · 23:</strong> five possession cases, three therapeutic or diagnostic cases, one fetus-targeting case, one possible control-caused pregnancy, one cult-coercion case, four adult-animation variants and eight unresolved leads. These cards do not claim strict hypnosis while visibly pregnant.</li><li><strong>Adult / erotic additions:</strong> <em>Saimin Seishidou</em> gains variant membership; <em>Kyonyuu Hitozuma Onna Kyoushi Saimin</em>, <em>Genkaku Cool na Sensei ga Aheboteochi!</em> and <em>Night Shift Nurses</em> are new records. All four are labeled explicit adult animation and control-causing-pregnancy variants, not strict matches.</li><li><strong>Indian-language non-pregnant · 8 moved records:</strong> <em>Bhairava Dweepam</em>, <em>Anandabhadram</em> and <em>Ishanou</em> are grouped under South India and Manipuri cinema; <em>Jiji Maa</em>, <em>Suhani Si Ek Ladki</em>, <em>Ek Tha Raja Ek Thi Rani</em>, <em>Jijaji Chhat Per Hain</em> and the Preeti–Prem episode of <em>Laal Ishq</em> are grouped under Hindi television.</li><li><strong>New non-adult variant:</strong> <em>Birth</em> (2022) is included only as cult coercion during pregnancy; no located source uses hypnosis, trance or mind-control terminology. The Lúcia arc of <em>Caminhos do Coração</em> rests on one quote and remains medium-low confidence.</li><li><strong>Indian pregnancy-control gap-fill:</strong> <em>Aranmanai</em> (2014) and <em>Devi / Abhinetri / Tutak Tutak Tutiya</em> (2016) gain high-confidence membership in the pregnancy-control and devil/evil-force sections without duplicate cards. In both Tamil originals, a ghost is still possessing the wife when her pregnancy is revealed. The adult / R-rated / erotic pass found no qualifying Indian title across the indexed services and film traditions searched.</li><li><strong>Watch list:</strong> <em>418</em>, <em>Pisaasu 2</em>, <em>Kathanar – The Wild Sorcerer</em>, <em>Aathma</em>, <em>Laal Ishq</em> “A Horrid Dream”, <em>Obosheshot</em>, <em>Anveshitha</em>, <em>Andhar Maya</em>, <em>Birth</em> and several thinly documented supernatural serials remain outside the verified set pending release, fuller synopses or episode-level pregnancy-plus-control evidence.</li><li><strong>Verified exclusion:</strong> <em>Ezra</em> (2017) is not a match. The possessed person is Ranjan, while pregnant Priya is never controlled; the story only threatens future possession of their unborn child.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant woman controlled — adult context: 11 supported titles + 2 provisional / implied leads</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide indexed sweep found 13 net-new mainstream adult-context films, television episodes, serials and anime in which a woman is pregnant while controlled or the control causes or targets the pregnancy. Three are literal-hypnosis core cases; eight are supported broader mind-control, possession or supernatural-control variants; two remain provisional or implied. “Adult context” does not claim a literal MPAA R rating for every title. The cards state the available rating evidence; pornography was excluded.</p><ul><li><strong>Evidence profile:</strong> the research assigned seven high, five medium-high and one medium confidence, but <em>Laal Ishq</em> remains provisional and <em>Hell Girl</em> is only implied, so they are separated from the 11 supported titles. All 13 findings were checked against the 805-record pre-edit catalog and are new records. <em>Kavach… Mahashivratri / Kavach 2</em> is distinct from the 2016 <em>Kavach… Kaali Shaktiyon Se</em> season; “Shaitan Ki Beti” is distinct from the two previously cataloged <em>Laal Ishq</em> episodes.</li><li><strong>Mechanism groups:</strong> three literal-hypnosis core cases; one alien-parasite variant; one direct demonic-possession variant; five spirit, ghost, djinn or black-magic variants; one fetal-controller variant; and two separately labeled provisional or implied leads. Each record is also cross-linked into the closest existing mechanism section.</li><li><strong>Key caveats:</strong> Amaunet is dormant late in Sha're's pregnancy in <em>Stargate SG-1</em>; the <em>Hell Girl</em> client's possession is implied rather than airtight; <em>Laal Ishq</em> remains provisional pending a detailed episode recap; and <em>Gece Gelen: Cin Bebek</em> falls to medium confidence under a strict literal-possession test. Sources describe Kathleen in <em>The Devil's Doorway</em> as 16—the adult-context label applies to the film, not the character.</li><li><strong>Search boundary:</strong> 63 near-misses and 97 firm exclusions were reviewed. No net-new title survived in Latin America, Southeast Asia, sub-Saharan Africa or Australia/New Zealand; soap and serial coverage remains thin across several European, Asian, Middle Eastern and African markets. These are documentation gaps, not proof of absence.</li><li><strong>Scope rule:</strong> pregnancy and control must overlap, or the control must cause or target the pregnancy. Postpartum-only control, hauntings without verified control, control of a different character, pornography and already-cataloged titles were excluded.</li></ul></div></details>\n<details open=\"\"><summary>Mother controlled by her current husband or boyfriend: 1 low-confidence inclusion</summary><div class=\"note-body\"><p>The 30 September 2026 adult-audience sweep searched films, TV movies, series, serials, soaps and telenovelas in 15 languages. It found one low-confidence inclusion: <em>El maleficio</em> (1983–84). Widowed mother Beatriz marries sorcerer Enrique de Martino; the official ViX episode 21 guide says he has her “bajo su influjo” (“under his influence/spell”), but the available sources do not prove a magical override of her will, so the card does not claim a verified literal hypnosis scene.</p><ul><li><strong>Verified mechanism groups:</strong> occult / black magic by a current husband has one low-confidence inclusion. Current-husband literal hypnosis, current-boyfriend literal hypnosis, a partner hiring or directing a hypnotist, technological / sci-fi control and vampire mesmerism by a current partner each produced zero verified titles.</li><li><strong>Controller is not the current partner:</strong> <a href=\"https://en.wikipedia.org/wiki/Hypnotic_(2021_film)\" rel=\"noopener\" target=\"_blank\"><em>Hypnotic</em> (2021)</a>, <a href=\"http://www.culturecourt.com/F/Noir/Whirlpool.htm\" rel=\"noopener\" target=\"_blank\"><em>Whirlpool</em></a>, <a href=\"http://bryininberlin.blogspot.com/2025/03/babe-of-yesteryear-allison-hayes-part.html\" rel=\"noopener\" target=\"_blank\"><em>The Hypnotic Eye</em></a>, <a href=\"https://fr.wikipedia.org/wiki/Hypnose_(film,_1999)\" rel=\"noopener\" target=\"_blank\"><em>Stir of Echoes</em></a>, <a href=\"https://fr.wikipedia.org/wiki/Sous_hypnose\" rel=\"noopener\" target=\"_blank\"><em>The Hypnosis</em></a>, <a href=\"https://www.filmaffinity.com/es/evideos.php?movie_id=721807\" rel=\"noopener\" target=\"_blank\"><em>Hypnotized</em> (2004)</a>, <a href=\"https://dmtalkies.com/joko-anwar-nightmares-and-daydreams-recap-episodes-1-7-2024-series/\" rel=\"noopener\" target=\"_blank\"><em>Nightmares and Daydreams</em> “Hypnotized”</a>, <a href=\"https://www.imdb.com/title/tt6143850\" rel=\"noopener\" target=\"_blank\"><em>Distorted</em></a>, <a href=\"https://tr.wikipedia.org/wiki/Sicc%C3%AEn\" rel=\"noopener\" target=\"_blank\"><em>Siccin</em></a>, <a href=\"https://www.youtube.com/watch?v=e4HNxzQGfzQ\" rel=\"noopener\" target=\"_blank\"><em>Sijjin</em></a>, <a href=\"https://www.chilimovie.com/movies/chaotic-ana-vid-179436.html\" rel=\"noopener\" target=\"_blank\"><em>Caótica Ana</em></a>, <a href=\"http://twi-ny.com/tag/best-foreign-language-film/\" rel=\"noopener\" target=\"_blank\"><em>Nights of Cabiria</em></a>, <a href=\"https://happygreenbeans.com/keyword/hypnotist.html\" rel=\"noopener\" target=\"_blank\"><em>Dead Again</em></a>, <a href=\"https://bluray.highdefdigest.com/15931/talesofterror.html\" rel=\"noopener\" target=\"_blank\"><em>Tales of Terror</em></a>, <a href=\"https://fr.wikipedia.org/wiki/Hypnose_(film,_2018)\" rel=\"noopener\" target=\"_blank\"><em>Murderous Trance</em></a>, <a href=\"https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%97%E3%83%8E%E3%83%9E%E3%83%8B%E3%82%A2_%E6%B4%97%E8%84%B3%E5%82%AC%E7%9C%A0\" rel=\"noopener\" target=\"_blank\"><em>Perfect Little Angels</em></a>, <a href=\"https://www.imdb.com/title/tt2984402\" rel=\"noopener\" target=\"_blank\"><em>The Forces of Evil; or, The Dominant Will</em></a>, <a href=\"https://resumo-das-novelas.com/orgulho-e-paixao/orgulho-e-paixao-07-06/\" rel=\"noopener\" target=\"_blank\"><em>Orgulho e Paixão</em></a>, <a href=\"https://www.youtube.com/watch?v=rHwW33a22N8\" rel=\"noopener\" target=\"_blank\"><em>Fallait pas!</em></a> and <a href=\"https://tr.wikipedia.org/wiki/A%C5%9Fk%C4%B1n_B%C3%BCy%C3%BCs%C3%BC_(film,_1998)\" rel=\"noopener\" target=\"_blank\"><em>Practical Magic</em></a> all fail because the controller is someone other than the current husband or boyfriend; several also lack established motherhood or a genuine control mechanism.</li><li><strong>Mother is not actually mind-controlled:</strong> <a href=\"https://en.wikipedia.org/wiki/The_Stepford_Wives_(2004_film)\" rel=\"noopener\" target=\"_blank\"><em>The Stepford Wives</em> (2004)</a> reveals Joanna was never implanted; <a href=\"https://en.wikipedia.org/wiki/The_Stepford_Wives_(1975_film)\" rel=\"noopener\" target=\"_blank\">the 1975 film</a> murders and replaces her; <a href=\"https://it.wikipedia.org/wiki/Hypnotic_(film_2023)\" rel=\"noopener\" target=\"_blank\"><em>Hypnotic</em> (2023)</a> controls the husband instead; <a href=\"https://www.plotexplained.com/movie/the-astronauts-wife/\" rel=\"noopener\" target=\"_blank\"><em>The Astronaut’s Wife</em></a> threatens and telekinetically attacks Jillian without controlling her mind; and <a href=\"https://en.wikipedia.org/wiki/Rosemary's_Baby_(film)\" rel=\"noopener\" target=\"_blank\"><em>Rosemary’s Baby</em></a> uses conspiracy, sedation and exploitation rather than mind control of Rosemary’s will.</li><li><strong>Motherhood is not established:</strong> <a href=\"https://www.imdb.com/title/tt0250531\" rel=\"noopener\" target=\"_blank\"><em>Amore e ipnotismo</em></a> otherwise fits the husband-hypnotizes-wife pattern; <a href=\"https://en.wikipedia.org/wiki/King_of_the_Zombies\" rel=\"noopener\" target=\"_blank\"><em>King of the Zombies</em></a> implies husband-caused trance; and <a href=\"https://www.youtube.com/watch?v=iUqQbMt5N3Y\" rel=\"noopener\" target=\"_blank\"><em>被催眠的她</em></a> ultimately frames the apparent hypnosis as psychosis and does not establish motherhood.</li><li><strong>Reversed direction or wrong victim:</strong> <a href=\"https://en.wikipedia.org/wiki/Mesmerized_(film)\" rel=\"noopener\" target=\"_blank\"><em>Mesmerized</em></a>, <a href=\"https://statrokaboo.web.app/434.html\" rel=\"noopener\" target=\"_blank\"><em>The Stepford Husbands</em></a>, <a href=\"https://www.imdb.com/title/tt0741233\" rel=\"noopener\" target=\"_blank\"><em>Dr. Damon’s Experiment</em></a>, <a href=\"https://www.imdb.com/title/tt1236971\" rel=\"noopener\" target=\"_blank\"><em>Mother Is Strong on Hypnotism</em></a>, <a href=\"https://www.imdb.com/title/tt1626839\" rel=\"noopener\" target=\"_blank\"><em>Hypnotizing Mother-in-Law</em></a> and <a href=\"https://www.imdb.com/title/tt4289228\" rel=\"noopener\" target=\"_blank\"><em>The Hypnotic Wife</em></a> control a husband, another man or a mother-in-law instead of the partner-mother.</li><li><strong>No qualifying mechanism:</strong> <a href=\"https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%86%D9%88%D9%85_%D9%85%D8%B9_%D8%A7%D9%84%D8%B9%D8%AF%D9%88_(%D9%81%D9%84%D9%85)\" rel=\"noopener\" target=\"_blank\"><em>Sleeping with the Enemy</em></a> uses ordinary coercive abuse; <a href=\"https://en.wikipedia.org/wiki/Lady_Possessed\" rel=\"noopener\" target=\"_blank\"><em>Lady Possessed</em></a> does not make the husband the cause. The 2023 <a href=\"https://en.wikipedia.org/wiki/El_maleficio_(2023_TV_series)\" rel=\"noopener\" target=\"_blank\"><em>El maleficio</em></a> remake keeps the same mother-and-sorcerer-husband setup but remains excluded because no source explicitly describes magical control of Beatriz’s will.</li><li><strong>Scope note:</strong> “Adult-audience” is not a claim that every title has a verified literal R / 18+ certificate. Pornographic titles and explicit detail were excluded. The search covered English, Spanish, Portuguese, Hindi, Turkish, Arabic, French, German, Italian, Russian, Chinese, Japanese, Korean, Thai and Indonesian / Malay; empty mechanism groups are documentation results, not proof that no title exists.</li></ul></div></details>\n<details open=\"\"><summary>Wife with children pregnant by another man: 30 verified titles + 1 lead</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide multilingual sweep required all three conditions at the time of pregnancy: the woman is married, she already has at least one child, and the pregnancy’s biological father is a man other than her husband. Thirty screen titles met that test; <em>Amor en custodia</em> remains a separately labeled medium-confidence lead.</p><ul><li><strong>Evidence profile:</strong> the Western and Latin American sweep contributed 23 verified titles (19 high confidence, four medium-high); East Asia, Turkey, the Middle East and Africa contributed six; and South Asia contributed one high-confidence Malayalam film, <em>Ore Kadal</em>. <em>Empresses in the Palace</em> remains medium confidence because an imperial consort is not a straightforward monogamous “wife.”</li><li><strong>Plot groups:</strong> the cards separate concealed or passed-off paternity, revelation and marriage fallout, pregnancies by an ex-lover, wives who leave the husband, and husband-aware or open-secret arrangements. Period and literary adaptations are labeled on their cards rather than duplicated.</li><li><strong>Pregnancy-loss cases:</strong> miscarriage or stillbirth does not remove a title when the pregnancy itself is established. The relevant cards identify the outcomes for <em>Anna Karenina</em>, <em>Jules et Jim</em> and <em>亲爱的小孩</em>.</li><li><strong>Excluded corrections:</strong> <em>EastEnders</em>’ “Sheanu” arc is excluded because a 2023 retcon makes Phil, not Keanu, Albie’s father. The September 2026 <em>Bold and the Beautiful</em> Steffy / Carter arc is excluded because DNA ruled Carter out and paternity remains unresolved. <em>Koi Suru Haha-tachi</em> is excluded because the father is deliberately ambiguous.</li><li><strong>Near-miss boundary:</strong> childless wives, pregnancies conceived before marriage, uncertain or husband-confirmed paternity, IVF or surrogacy mix-ups, and affair plots with no pregnancy are not counted. Strong documented near-misses include <em>Ullozhukku</em>, <em>Zachariayude Garbhinikal</em>, <em>Mpali</em>, <em>Deedan</em> and <em>MithiJhora</em>.</li><li><strong>Coverage gaps:</strong> no verified exact match survived in Germany, Spain, Hong Kong, Taiwan, Japan, Southeast Asia, Arabic regions, Iran, Africa, anime, Hindi screen works or several South Asian regional-language sweeps. Episode-level soap documentation, Chinese vertical dramas, Brazilian SBT / Record catalogs, African soaps and Kannada sources remain thin; these are documentation gaps, not proof of absence.</li></ul></div></details>\n<details open=\"\"><summary>Partnered woman hypnotized or controlled into infidelity: 3 accepted titles + 2 leads</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide multilingual sweep found three accepted titles covering four woman-instances, plus two clearly separated leads whose screen metadata or exact relationship reading could not be fully verified. To qualify as an accepted match, the woman must have an established husband, fiancé or boyfriend, and hypnosis, mesmerism or another genuine control mechanism must cause the romantic or sexual betrayal.</p><ul><li><strong>Evidence profile:</strong> the accepted set has two high-confidence and two medium-confidence woman-instances. <em>Intermezzo</em> is retained as a medium-confidence lead because its indexed synopsis supplies the exact causal plot but not verified production metadata; <em>Verliefd</em> is a low-confidence lead because its medium, country and pronoun antecedent remain uncertain. Three titles are new catalog records; <em>The Curse of the Jade Scorpion</em> and <em>Horror of Dracula</em> gain this category without duplication.</li><li><strong>Controller groups:</strong> supernatural or occult predator compulsion accounts for both Dracula films; a stage hypnotist drives the comedy case; manipulating voices drive <em>Intermezzo</em>; and <em>Verliefd</em> remains an ambiguous low-confidence lead.</li><li><strong>Documented empty groups:</strong> no verified case was found for a rival lover acting as hypnotist, a husband or partner testing or entrapping the woman, an ex-lover’s revenge, or a soap or telenovela villain using hypnosis to break up a couple.</li><li><strong>Near-misses:</strong> <em>Buffy the Vampire Slayer</em> episodes “Him” and “Something Blue” use supernatural love compulsion, but Buffy has no established partner in either episode. NBC’s <em>Dracula</em> (2013) gives engaged Mina a mutual, largely voluntary attraction to Grayson without a verified compelled act. <em>Days of Our Lives</em> has the brainwashed Princess Gina attempt to seduce John in 2019, but no completed infidelity is established.</li><li><strong>Open verification:</strong> <em>Intermezzo</em> lacks confirmed production metadata; <em>Verliefd</em> lacks confirmed medium, country and pronoun antecedent; and the 1958 <em>Dracula</em> seduction detail currently rests on specialist fandom wikis. No qualifying Asian, Latin American, African or Middle Eastern title was verified in this pass; those absences are documentation gaps, not proof that none exist.</li></ul></div></details>\n<details open=\"\"><summary>Adult female hypnosis — R-rated-equivalent worldwide: 180 verified findings</summary><div class=\"note-body\"><p>The 30 September 2026 multilingual catalog now combines the 129-title mainstream baseline with a 51-title adult / erotic gap-fill sweep across films, television series and serials, TV movies, soap operas, anime, shorts and one television variety program. “Adult / erotic” is a cross-country content description rather than a literal MPAA rating. The latest fold-in adds six new explicitly flagged adult / erotic records: <em>Mil sexos tiene la noche</em>, <em>The Erotic Rites of Frankenstein</em>, <em>Emmanuelle vs. Dracula</em>, <em>The Hypnotist</em> (1936), <em>Saimin Seishidou</em> and <em>Gakuen Saimin Reido</em>.</p><ul><li><strong>Evidence profile:</strong> 99 findings are high confidence, 52 medium-high, 23 medium and six low-medium. All 180 findings are grouped by plot mechanism so wife-control, therapist abuse, criminal hypnosis, vampire mesmerism, serial arcs, supernatural-romance cases and erotic-thriller uses can be compared directly.</li><li><strong>Gap-fill contribution:</strong> the additional 51 findings comprise 21 high, 16 medium-high, nine medium and five low-medium cases. They add adult cable / direct-to-video thrillers, European stage-hypnosis television, Hong Kong Category III black-magic films, Mexican vampire cinema and Australian, New Zealand, French and German serial episodes.</li><li><strong>Scope boundary:</strong> pure possession without hypnosis framing and teen or child victims are excluded from the adult gap-fill. Explicit adult-only material is limited to the six newly added, separately flagged titles; therapeutic and voluntary sessions remain included when an adult woman is actually hypnotized, and cards distinguish those from coercive, criminal or erotic control.</li><li><strong>Identity and episode cautions:</strong> <em>El barón del terror</em> has a disputed wife-versus-girlfriend reading; <em>Shortland Street</em>, <em>Didi der Untermieter</em> and the <em>Laal Ishq</em> serpent-husband story still lack a pinned episode date; the <em>Neighbours</em> 1988 card flags unverified wife status; and <em>The Hunger</em> still lacks a verified character name.</li><li><strong>Mechanism cautions:</strong> <em>The Eternal Evil of Asia</em> and <em>Spell</em> retain low-medium confidence because control direction or evidence quality is incomplete. <em>Forever Knight</em> rests on a recap, while <em>Nocturnal</em> verifies the vampire-hypnotherapist premise but not an erotic element.</li><li><strong>Searched gaps:</strong> no verified African production survived the exact hypnosis test; none was verified in Pakistan, Israel or Iran. Spanish, Portuguese and Italian episode guides, French TV movies, Indian regional cinema and deeper anime indexes remain incompletely mined. These are documentation gaps, not proof of absence.</li><li><strong>Near-miss rule:</strong> male-only victims, women acting as hypnotists without an adult female target, fake hypnosis, pure possession and unconfirmed title-only leads are not counted among the 180.</li></ul></div></details>\n<details open=\"\"><summary>Wife or female character forcibly hypnotized to obey: 61 stronger cases + 8 separated variants or leads</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide max-list sweep (8 regional vectors, all Indian languages plus worldwide, adult and R-rated titles included) supplied 30 proposed additions and 15 membership grants. Catalog-wide reconciliation found four of the proposed additions already present as records — <em>Dracula’s Daughter</em>, <em>Candyman</em> and <em>The Diabolical Dr. Z / Miss Muerte</em> merged on title match, and the <em>Laal Ishq</em> icchadhari-naag / Preeti–Prem episode (Nov 2018) matched its existing adult-hypnosis record — so the final fold-in adds 26 unique records and 19 memberships (3 merges + 16 explicit grants) without duplicate cards. <em>Hypnose</em> (1920) is confirmed to be <em>Sklaven fremden Willens</em> and is upgraded from lead to stronger case; the previously cataloged <em>Laal Ishq</em> “Bhavishyawaani” episode is a different episode and keeps its own separate record. The category covers literal hypnosis, mesmerism, post-hypnotic suggestion and clearly induced occult trance used to compel killing, theft, self-harm, sexual submission, espionage, escape assistance or domestic obedience.</p><ul><li><strong>Category restructure (30 Sep 2026):</strong> the eight Indian-language titles from this sweep — <em>Jiji Maa</em>, <em>Suhani Si Ek Ladki</em>, <em>Ek Tha Raja Ek Thi Rani</em>, <em>Jijaji Chhat Per Hain</em>, <em>Bhairava Dweepam</em>, <em>Anandabhadram</em>, <em>Ishanou</em> and the <em>Laal Ishq</em> icchadhari-naag / Preeti–Prem episode — now live in the dedicated “Indian-language female hypnotized against her will (non-pregnant)” category, leaving 69 entries here (61 stronger cases, 5 variants, 3 unresolved leads). A 1 October vertical-short follow-up adds <em>Stay Away! She's a Violent Psycho!</em>: Mr. Jensen directs Dr. Clark's coercive hypnosis of Jessie Bennett, episode 58 shows her resisting the present attempt, and episode 61 attributes her hypnosis immunity to six years of earlier torture. The release year and exact episode count remain open. Their sweep coverage is described below for the record.</li><li><strong>Strongest clusters:</strong> husbands or domestic controllers; criminal hypnotists; abusive psychiatrists; stage hypnotists; fraudulent gurus; and supernatural trance controllers. The set spans silent shorts, films, television episodes, telenovelas, soap operas and adult animation from 1909 to 2026, and now covers Hindi, Telugu, Malayalam, Manipuri, Japanese, Portuguese, Spanish, Turkish, Kazakh, Russian, French and English sources.</li><li><strong>New sweep coverage:</strong> Indian-language soaps (<em>Jiji Maa</em>, <em>Suhani Si Ek Ladki</em>, <em>Ek Tha Raja Ek Thi Rani</em>; the <em>Laal Ishq</em> icchadhari-naag episode joined via membership grant rather than a duplicate record); Indian regional film (Telugu <em>Bhairava Dweepam</em>, Malayalam <em>Anandabhadram</em> as a consent-caveat variant, Manipuri <em>Ishanou</em>); Japanese television (<em>Nemureru Mori</em>, anime <em>Kizetsu Yusha to Ansatsu Hime</em>); Brazilian and Mexican telenovelas (<em>Carinha de Anjo</em>, <em>O Cravo e a Rosa</em>, <em>O Profeta</em>, <em>Doña Macabra</em>); Turkish vampire film <em>Drakula İstanbul'da</em> (1953); Kazakh <em>Gipnoz</em> (2026) and Russian <em>Ulovki razuma 3</em>; English-language TV episodes (<em>Smallville</em> “Hypnotic”, <em>Charlie's Angels</em> “Attack Angels”, <em>Wonder Woman</em> “The Pied Piper”, <em>Hannibal</em> “Kaiseki”, <em>Sleepy Hollow</em> S2E4); and classic plus R-rated horror (<em>Dracula's Daughter</em>, <em>Voodoo Man</em>, <em>The Lair of the White Worm</em>, <em>Candyman</em>, <em>Fright Night</em> 1985 and 2011, <em>The Diabolical Dr. Z</em>). Membership grants (no new records) include <em>Cure</em>, <em>Faceless Beauty</em>, <em>The She-Creature</em>, <em>Guilt by Design</em>, <em>Saimin</em> (1999), <em>Kolchak</em> “Bad Medicine”, <em>Augustine</em>, <em>Magpakailanman</em>, <em>True Blood</em>, <em>Rasputin the Mad Monk</em>, <em>The Dunwich Horror</em>, <em>The Vampire Lovers</em>, <em>Lust for a Vampire</em>, <em>Skin Deep in Love</em>, <em>O Beijo do Vampiro</em> and the <em>Laal Ishq</em> icchadhari-naag / Preeti–Prem episode.</li><li><strong>Separated boundary cases:</strong> <em>The Vise</em> has a disputed synopsis reading; <em>Power of Suggestion</em> and <em>Fallait pas!</em> do not verify performed obedience; <em>Night of the Eagle</em> uses witchcraft-induced trance; and <em>Murder Me Twice</em> begins with a volunteered party trance framed as past-life regression or possession. <em>Anandabhadram</em> joins the variants with a consent caveat. The unresolved-leads group contains <em>Morgana</em>, <em>Vash</em> and <em>Le Viol du vampire</em> (single-source “comme hypnotisée”). <em>Jijaji Chhat Per Hain</em> is now a full member of the dedicated Indian-language category, where its comedy-gag caveat remains visible.</li><li><strong>Adult-animation flag:</strong> <em>Saimin Ryoujoku Gakuen</em> and <em>Saimin Jutsu Zero</em> are included separately at low-medium confidence because their synopses concern explicit sexual exploitation.</li><li><strong>Verified exclusions:</strong> therapeutic memory recovery without compelled obedience, voluntary mesmerism, fake hypnosis, male-only victims, and stories where the woman is the hypnotist remain outside the category. Examples include <em>The Hypnotist</em> (2012), <em>The Great Hypnotist</em> (2014), <em>Hypnosen</em> (2023), <em>Montecristo</em>, <em>Il potere dell’ipnotismo</em>, <em>House No. 13</em> and <em>Hypnotized by Beautiful Women</em>.</li><li><strong>Documented gaps:</strong> Tamil and Kannada remain a structural zero (possession, not trance, drives those plots); sub-Saharan Africa has ~zero verified matches; no Italian or Spanish-language film match was verified; the Nikkatsu / pinku hypnosis vein is an indexing gap rather than proof of absence. The earlier soap-opera and Latin American telenovela gaps were closed by this sweep.</li><li><strong>Open leads:</strong> <em>Vash</em> (2023) was not independently re-verified in this sweep but already has prior catalog sourcing; <em>Système Ribadier</em>, <em>El Hipnotizador</em>, Thailand’s <em>Hypnotic</em> (2025), <em>Lep Krut</em> and several fragmentary titles still lack enough plot detail for this exact category. <em>Caminhos do Coração</em> was left out: the against-will element of Rodrigo’s hypnosis of Amália was not confirmed to this category’s standard.</li></ul></div></details>\n<details open=\"\"><summary>Stepmother / bonus mom hypnotized or mind-controlled: 3 supported matches + 1 borderline case</summary><div class=\"note-body\"><p>The 30 September 2026 multilingual worldwide sweep found three supported stories in which a stepmother is corrupted, possessed, cursed or enchanted against her will, plus one low-confidence short where demonic possession is only suspected. Confidence is capped at medium-high because the findings rest on indexed plot summaries and reviews rather than live viewing.</p><ul><li><strong>Supernatural and enchanted-object control:</strong> <em>Snow White: A Tale of Terror</em> uses an evil mirror spirit; <em>The Wishing Box</em> uses demonic possession through a cursed artifact; and <em>Disenchanted</em> uses a wish that turns into an evil-stepmother curse. Each card preserves the report’s caveat about complicity, single-source evidence or a self-initiated spell going wrong.</li><li><strong>Borderline case:</strong> <em>The StepMother</em> (2011) is retained at low confidence because its synopsis only says priests investigate possible possession; neither actual possession nor the cast-to-role mapping is confirmed.</li><li><strong>Documented empty controller groups:</strong> no verified match was found with a human hypnotist or criminal villain, the stepmother’s husband or stepfather figure, a child, or another non-supernatural controller.</li><li><strong>Mother controlled by a new husband / stepfather:</strong> no verified match was found in which the controller is genuinely a stepfather to at least one of the woman’s children. Generic husband-controls-wife plots and abusive-stepfather stories without hypnosis were excluded.</li><li><strong>Near-miss boundary:</strong> reverse-direction stories where the stepmother controls someone else, ordinary wicked-stepmother plots, torment without mind control, and unconsciousness without control remain outside the category.</li><li><strong>Coverage limit:</strong> soap-opera and telenovela episode guides, Indian supernatural serials and Indonesian sinetron were only surface-searched. The empty groups record a documentation gap, not proof that no example exists.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant stepmother / bonus mom: 5 verified titles + 1 low-confidence lead</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide multilingual sweep verified five screen stories in which a woman who is already a stepmother or established bonus-mom figure becomes pregnant during the plot. Four titles are newly added; <em>Yeh Hai Mohabbatein</em> and <em>The Bold and the Beautiful</em> gain this category without duplicate records.</p><ul><li><strong>Bonding and displacement anxiety:</strong> <em>The Brightest Roof in the Universe</em> centers Tsubame’s fear of being left out after stepmother Asako becomes pregnant. <em>Madrasta</em> pairs Audrey’s baby with Lauren’s public acceptance of her as “madrasta.”</li><li><strong>Pregnancy loss:</strong> <em>Yeh Hai Mohabbatein</em> celebrates Ishita’s pregnancy after she becomes Ruhi and Aditya’s stepmother, then ends the arc in miscarriage after an accident.</li><li><strong>Adoption and a new sibling:</strong> <em>Mi marido tiene familia</em> places Julieta’s pregnancy while she and Juan Pablo are finalizing the adoption of his son David, who initially rejects the idea of a sibling.</li><li><strong>Paternity-mystery boundary:</strong> <em>The Bold and the Beautiful</em> verifies Brooke’s pregnancy and Ridge’s older children, but the exact marriage / stepmother chronology is complicated by Brooke’s engagement to Nick in the same arc, so it is medium-high confidence.</li><li><strong>Low-confidence lead:</strong> <em>Allein unter Müttern</em> has simultaneous pregnancies for widower Harald’s daughter and girlfriend Sabine, but the available synopsis does not establish Sabine as an existing stepmother before her pregnancy.</li><li><strong>Existing complementary category:</strong> the separate “Single mom remarries and gets pregnant with new partner” section already holds the previously verified Pattern B titles. This new sweep found no additional title beyond that established set; <em>The Stepdaughters</em> and <em>Five Enough</em> remain near-misses because the relevant mother does not become pregnant.</li><li><strong>Coverage gaps:</strong> targeted Portuguese, Korean, Turkish, Spanish, French and German searches produced no further verified match. Indonesian, Thai, Urdu/Pakistani, Bengali, South Indian serials, Russian/Eastern European, African and Scandinavian productions were not systematically exhausted, so absence is not proof that no case exists.</li></ul></div></details>\n<details open=\"\"><summary>Remarried wife controlled by her new husband or a stepfather figure: no verified exact match</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide sweep found no screen title proving all three required elements together: the woman is in a second-or-later marriage, she is genuinely hypnotized or mind-controlled, and the controller is her new husband or a stepfather figure. The search covered English, Spanish, Hindi, Indonesian, Korean, Chinese, Russian, Turkish and Tagalog queries across film, television, soaps, telenovelas and anime-adjacent sources.</p><ul><li><strong>Closest related variant:</strong> both the original and remake of <em>El maleficio</em> place widowed or single mother Beatriz in a new marriage to occultist Enrique de Martino, who becomes stepfather to her children and pursues the marriage in connection with her son. Direct hypnosis or mind-control of Beatriz herself is not documented.</li><li><strong>Unverified husband-control leads:</strong> <em>My Husband’s Deadly Past / Woman on the Edge</em> documents a psychiatrist husband altering his wife’s memories through hypnosis, but no source establishes remarriage or stepfather status. The Mandarin short drama <em>被催眠的她 / The Hypnotized Her</em> suggests husband-directed hypnosis or induced delusion, but its full plot and the wife’s remarriage status remain unverified.</li><li><strong>Clear exclusions:</strong> <em>Sleep, My Love</em>, <em>The Mask of Diijon</em>, <em>Thunderbolt: Magun</em>, <em>The Stepford Wives</em> and <em>Don’t Worry Darling</em> involve husband-directed control without a sourced prior marriage. <em>Mesmerized</em>, <em>Ek Thi Daayan</em> and <em>The Hypnotic Wife</em> reverse the requested controller–victim direction. <em>Hypnotic</em>, <em>The Dark Tower</em>, <em>The Night Walker</em>, <em>Return of William Marr</em>, <em>The Stepfather</em> and <em>Til Death Do Us Part</em> fail the marriage, controller or genuine mind-control requirement.</li><li><strong>Open questions:</strong> Episode-level evidence could still establish direct control of Beatriz in <em>El maleficio</em>; Karen / Mackenzie’s prior-marriage history in <em>My Husband’s Deadly Past</em> remains unknown; and the complete plot of <em>被催眠的她</em> was not available in searchable sources. No matching mainstream anime title was verified.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant single mother controlled by her new husband or child’s stepfather: no verified exact match</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide sweep found no screen title satisfying all five essential conditions at once: the woman already has a child; she is single or widowed before the relationship; she is pregnant during the control arc; the controller is her new husband or her existing child’s stepfather; and the plot uses genuine hypnosis, supernatural control, drugs or conditioning, technology, or another real loss-of-agency mechanism.</p><ul><li><strong>Strongest near-miss:</strong> <em>Pan’s Labyrinth / El laberinto del fauno</em> satisfies the family, widowhood, pregnancy and stepfather conditions, but Captain Vidal’s control is mundane patriarchal and military abuse rather than hypnosis or mind control.</li><li><strong>Original <em>El maleficio</em>:</strong> Beatriz is a widowed mother who marries sorcerer Enrique, but she is not pregnant—her daughter Vicky is—and direct hypnosis of Beatriz is not established.</li><li><strong>2023–24 <em>El maleficio</em> remake:</strong> Beatriz is again a single mother who marries Enrique, but her pregnancy and explicit mind control are both unverified.</li><li><strong>Excluded weaker leads:</strong> <em>Rosemary’s Baby</em> and the 2016 Kaal arc of <em>Sasural Simar Ka</em> do not receive this category because they fail the prior-child / stepfather or new-husband-controller structure.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant woman controlled by a fetus, dead-child ghost or alien child: 18 catalog entries</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide sweep produced twelve verified findings for this narrow direction of control. Reconciliation against the current catalog added eight new records and gave the new category to four existing records from the sweep, plus six already-cataloged overlaps named for additional membership.</p><ul><li><strong>Agentic unborn, fetal or alien controllers:</strong> fifteen entries involve an unborn child, fetus, fetal-form entity or alien child exerting control or supernatural influence over a pregnant woman.</li><li><strong>Dead-child ghosts:</strong> three Japanese entries involve murdered, aborted or unborn child spirits usurping a pregnancy or dominating a pregnant woman’s womb.</li><li><strong>Living psychic-child gap:</strong> no verified case of a living psychic child hypnotizing or mentally dominating a pregnant woman was found in any region. This subcategory is documented as empty rather than omitted.</li><li><strong>Serial-format gap:</strong> no soap-opera, telenovela or TV-serial subplot matching this direction of control was verified. Anthology and episodic television findings remain included where supported.</li><li><strong>Confidence:</strong> the twelve sweep findings retain their supplied HIGH, MEDIUM-HIGH, MEDIUM or MEDIUM-LOW labels. Existing records keep their established confidence wording unchanged.</li></ul></div></details>\n<details open=\"\"><summary>Female character controlled by a child or teen: 52 catalog entries</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide sweep found 50 numbered main-list findings and three already-cataloged titles. One episode—<em>The Twilight Zone</em>’s “It’s Still a Good Life”—was repeated inside a broader franchise finding, so it is consolidated rather than shown twice. Reconciliation against the current page produced 52 distinct category entries: 45 new catalog records and seven existing records with this category added.</p><ul><li><strong>Strictest clusters:</strong> living psychic or alien children; dead-child ghosts possessing women or girls; teen witches; and teen superpowers, magical artifacts or technology that override a female character’s will.</li><li><strong>Unborn controllers:</strong> <em>Baby Blood</em>, <em>Prevenge</em>, <em>The Unborn</em> (1991) and <em>Help</em> treat a fetus, unborn spirit or fetal-form entity as the controller. Each card keeps that eligibility caveat.</li><li><strong>Boundary cases remain visible:</strong> several controllers are ancient entities in child bodies, child-shaped demons, teenage ghosts, a doll acting on a child’s emotions, or children using transformation, coercion or a single supernatural command rather than classic hypnosis. These are labeled medium, low-medium or low confidence rather than presented as strict matches.</li><li><strong>Coverage:</strong> the verified set spans films, TV episodes, series arcs, a miniseries, anime and animation across North America, Europe, South and East Asia, Taiwan and Mexico. No verified TV movie surfaced. Searches in several additional regions returned only reverse-direction cases or unverified leads; absence here reflects a documentation gap, not proof that no example exists.</li><li><strong>Excluded direction:</strong> stories where adults or entities control children, or where a child attacks a woman without mentally controlling her, remain outside this category.</li></ul></div></details>\n<details><summary>Child-controller category: unresolved leads and near-misses</summary><div class=\"note-body\"><p>The research did not promote claims that lacked a verified child controller, female controlled target or mind-control mechanism.</p><ul><li><strong>Future verification:</strong> <em>Laal Ishq</em> S01E45 (“Madhu”) and an <em>Aahat</em> episode described as “The Possessed Mother” lack a source establishing the controller’s identity or age. “Witch-child” films from Nollywood and Ghallywood surfaced without proof of hypnosis, possession or puppeting.</li><li><strong>Female-target gap:</strong> <em>Whisper</em>, <em>Case 39</em> and <em>Freaks</em> feature child controllers or mind-manipulation powers, but sourced controlled victims are male or the woman is threatened rather than mentally dominated.</li><li><strong>Wrong direction:</strong> <em>The Haunting of Bly Manor</em>, <em>The Demon Headmaster</em>, <em>Storm of the Century</em>, <em>Aatma</em>, <em>Bandish</em>, <em>Belapur Ki Dayan</em> and <em>Incantation</em> place the child on the receiving end of control or use an adult/entity as the controller.</li><li><strong>Attack is not control:</strong> <em>Weapons</em>, <em>The Visitor</em>, <em>Brightburn</em>, <em>Tin &amp; Tina</em> and <em>Goodnight Mommy</em> involve attack, restraint, intimidation or destabilization without verified mental puppeting of a female character.</li></ul></div></details>\n<details open=\"\"><summary>Husband’s ex-wife or ex-lover controls the current wife: 25 findings</summary><div class=\"note-body\"><p>This worldwide section separates literal possession, voodoo or trance, black magic, and close variants in which the mechanism or relationship geometry deviates. Five titles already had catalog records and gained the new category without duplication; 20 are new. A pre-existing duplicate pair for <em>Siccîn</em> (2014) was consolidated, so the catalog rises from 493 to 512 unique records.</p><ul><li><strong>Exact possession pattern:</strong> dead first wives, ex-wives, ex-girlfriends or former lovers possess the current wife in the two direct-possession groups.</li><li><strong>Hypnosis gap:</strong> no verified genuine stage-style hypnosis instance of the exact pattern was found. <em>Ouanga</em> is the closest trance case and remains under witchcraft because its mechanism is voodoo.</li><li><strong>Close variants:</strong> the cards explicitly label haunting without control, a bride or girlfriend rather than a wife, an unrequited admirer, third-party orchestration and unverified story-line possibilities.</li><li><strong>Documented near-misses:</strong> <em>Blithe Spirit</em>, <em>Raaz</em> (2002) and <em>El fantasma de Elena</em> use haunting, intimidation or attack without possession or mind control. <em>Bepanah Pyaar</em> reveals the “new wife” as the first wife under another identity; <em>Qubool Hai</em> uses blackmail and scheming only. The book <em>Entre a Terra e o Céu</em> is outside screen scope, and <em>Laura Sin Censura</em> is non-fiction.</li><li><strong>Research provenance:</strong> consolidated from the South Asia, Latin America / Spain / Portugal, East and Southeast Asia, and Western world plus Middle East / Africa sweeps, with separate verification of <em>She Waits</em>. Working reports: <code>husband-exwife-hypnosis-southasia/report.md</code>, <code>husband-exwife-hypnosis-latam/report.md</code>, <code>husband-exwife-hypnosis-eastasia/report.md</code>, <code>husband-exwife-hypnosis-western/report.md</code>, and <code>husband-exwife-hypnosis-consolidated/report.md</code>.</li></ul></div></details>\n<details open=\"\"><summary>Wife hypnotized or controlled by a therapist: 7 strict matches</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide pass found seven strict matches: six high-confidence titles and one medium-confidence 1912 silent short. All are films; no confirmed TV series, serial, soap opera, telenovela, anime or web-series match survived verification. That is a documentation gap, not proof that none exists.</p><ul><li><strong>Evil or criminal exploitation:</strong> <em>Whirlpool</em> and <em>Hypnotic</em>.</li><li><strong>Coercive or investigative hypnosis:</strong> <em>Tee Ratra</em> and <em>Amore e ipnotismo</em>; the latter rests on a single IMDb plot summary, and its Italian origin remains probable rather than fully verified.</li><li><strong>Benevolent or therapeutic:</strong> <em>The Three Faces of Eve</em> and <em>The Hypnotist / Hypnotisören</em>.</li><li><strong>Treatment turning romantic or obsessive:</strong> <em>The Hypnotized / Faceless Beauty</em>.</li><li><strong>Reconciliation:</strong> six titles already had catalog records and gained the new category without duplication; <em>The Three Faces of Eve</em> is the only net-new record.</li></ul></div></details>\n<details open=\"\"><summary>Parents intimate while children sleep: 6 scene-linked titles + 1 thematic near-match</summary><div class=\"note-body\"><p>The 29–30 September 2026 worldwide pass found six titles with source support connecting a sleeping child to the romantic or intimate scene, plus one separately labeled thematic near-match. They are grouped by where the sleeping child is and how directly the intimacy is established. The trope is rarely described at scene level, so each card keeps the report’s confidence tier and caveat.</p><ul><li><strong>Same room or crib:</strong> <em>Shaadi Ke Side Effects</em> has a sustained baby-in-bedroom and disrupted-intimacy thread; the 2 March 2018 <em>Yeh Hai Mohabbatein</em> episode places a mild romantic beat immediately after Pihu’s bedtime story, though her exact proximity is not fully explicit.</li><li><strong>Adjacent room or nearby:</strong> <em>Malcolm in the Middle</em> “Sleepover” has Reese asleep in the hallway while Dewey remains awake; <em>Everybody Loves Raymond</em> “Halloween Candy” is a clearly sourced but interrupted attempt after the children are asleep; the 26 December 2017 <em>Yeh Hai Mohabbatein</em> episode is a very mild downstairs moment.</li><li><strong>Other variants:</strong> <em>Parasite</em> places the sleeping child in a garden tent on the same property. <em>Mind the Malhotras</em> verifies the parents’ bedroom role-play and family context but not a specific sleeping-child scene, so it remains thematic only.</li><li><strong>Coverage limit:</strong> no verified TV movie or soap-opera-specific match was found beyond the Indian serial episodes, and no title was found in the Middle East or Africa. The result reflects a documentation gap rather than proof that other scenes do not exist.</li><li><strong>Excluded:</strong> pure walk-ins remain in the separate child-walks-in category. Cases with an awake child, absent children or no sourced sleep detail were not promoted.</li></ul></div></details>\n<details open=\"\"><summary>Adopt a child, then become pregnant: 21 verified titles</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide source-index pass verified 21 distinct titles with the requested order: a child is adopted first, then the mother, wife or partner becomes pregnant. Sixteen are high confidence, two medium-high and three medium; four additional marginal or unusual variants are shown separately and do not inflate the core count.</p><ul><li><strong>Infertility-driven sequence:</strong> 19 titles involve, or likely involve, a couple who adopts after difficulty conceiving and later has a pregnancy. Where infertility is inferred rather than explicit, the card says so.</li><li><strong>Same-sex and foster-to-adopt cases:</strong> <em>The Fosters</em> is the one same-sex-couple case; it and <em>Parenthood</em> include foster-to-adopt chronology.</li><li><strong>Family tension:</strong> six titles connect the later pregnancy or biological child to jealousy, favoritism or conflict involving the adoptee: <em>Ama, Ina, Anak</em>, <em>Malignant</em>, <em>Law &amp; Order: SVU</em>, <em>Only Murders in the Building</em>, <em>Yu-Gi-Oh! GX</em> and <em>ThunderCats</em>.</li><li><strong>Outcome caveat:</strong> the pregnancies in <em>Smallville</em> and <em>The Fosters</em> end in miscarriage; both still satisfy the adopt-then-pregnant sequence and are labeled accordingly.</li><li><strong>Open gaps:</strong> no confident example was found where adoption is used specifically to repair a marriage or stop waiting, and no core single-parent case was verified. English-indexed sources also yielded no confirmed fit in Latin American telenovelas, Turkish dizis, Korean or Chinese drama, Russian/Ukrainian melodrama, Nollywood, or continental European television.</li></ul></div></details>\n<details><summary>Adopt-then-pregnant: marginal variants and exclusions</summary><div class=\"note-body\"><p>Four separately labeled cards preserve leads that approach the pattern without meeting every strict criterion: <em>The Reaping</em> lacks a formal adoption and involves rape; <em>Omen IV: The Awakening</em> uses supernatural implantation; <em>CSI: NY</em> lacks independent proof of adoption-before-conception; and <em>Neighbours</em> uses a step-parent adoption of the later-pregnant woman’s biological son.</p><ul><li><strong>Verified non-fits:</strong> <em>Instant Family</em>, <em>Friends</em>, <em>This Is Us</em>, <em>The Light Between Oceans</em> and several other common leads fail the chronology or never include the later pregnancy.</li><li><strong>Surrogacy exclusions:</strong> <em>Rules of Engagement</em>, <em>Shameless</em> and <em>Amor à Vida</em> use surrogacy or surrogate-like arrangements rather than the requested sequence.</li><li><strong>Research limit:</strong> none of the 25 displayed core and variant entries was verified in a live research browser; confidence labels reflect index sourcing, corroboration and the report’s stated caveats.</li></ul></div></details>\n<details open=\"\"><summary>Duplicate reconciliation</summary><div class=\"note-body\"><p>Six confirmed duplicate pairs were consolidated on 30 September 2026, reducing the index from 467 to 461 records without removing any category membership, plot detail, evidence label or source.</p><ul><li><strong>Merged records:</strong> <em>Aval / Gruham</em> (2017), <em>Sijjin</em> (2023), <em>Alone</em> (2015), <em>1920</em> (2008), <em>Arundhati</em> (2009) and <em>Kavach… Kaali Shaktiyon Se</em> (2016).</li><li><strong>Kept separate:</strong> remakes and same-title films from different years, plus records describing distinct victims, controllers or story arcs.</li><li><strong>Still under review:</strong> the similarly labeled <em>Nazar</em>, <em>Tantra</em>, <em>Qayamat Ki Raat</em> and <em>El maleficio</em> records require plot-level confirmation before any further merge. <em>Bhool Bhulaiyaa</em> and <em>Manichitrathazhu</em> also retain their existing therapeutic-hypnosis and supernatural-boundary records until category placement is resolved.</li></ul></div></details>\n<details open=\"\"><summary>Worldwide female hypnosis and mind-control expansion</summary><div class=\"note-body\"><p>The 29 September 2026 research report lists 211 findings: six in hypnotized-to-love, one in husband-controls-wife, one pregnant-woman possession case, and 203 entries across nine new mechanism categories. Two findings—<em>The Thief of Bagdad</em> and <em>Don’t Worry Darling</em>—were already in the catalog, yielding 209 net-new records. The report states that these titles were checked against Wikipedia, IMDb, episode guides and entertainment press; because it does not map individual titles to individual pages, each new card preserves that shared source basis rather than assigning a narrower citation.</p><ul><li><strong>Largest new groups:</strong> 55 spirit, ghost or djinn cases; 33 sci-fi, alien or technological cases; 29 human-villain cases; 28 Western occult cases; and 20 vampire-mesmerism cases.</li><li><strong>Regional structure:</strong> the spirit-possession category keeps separate groups for Indian films, Indian television, Korean titles, Thai and Filipino titles, and Turkish, Arab, Latin and African titles.</li><li><strong>Scope:</strong> verified exclusions from the report were not added. Existing catalog records and their original caveats remain in place.</li></ul></div></details>\n<details open=\"\"><summary>India: 41 female hypnosis and mind-control titles</summary><div class=\"note-body\"><p>This 30 September 2026 source-index pass adds or re-verifies 41 unique Indian films, television series, soaps, telefilms and anthology episodes across Hindi, Tamil, Telugu, Malayalam, Kannada, Marathi and Gujarati: 37 high-confidence titles and 4 possible cases. The cards are categorized by the controlling mechanism and preserve every source-level caveat.</p><ul><li><strong>Love, marriage or relationship:</strong> five high-confidence stories place a woman under a spell or possession that drives a marriage or romantic pursuit.</li><li><strong>Husband-controlled wife:</strong> <em>Tee Ratra</em> is now a high-confidence match: a suspicious husband commissions a psychiatrist friend to traumatize and hypnotize his wife so she reveals her secret.</li><li><strong>Villain or tantrik control:</strong> nine titles use hypnosis, black magic, trance or supernatural enslavement for revenge, violence, sacrifice or another criminal aim.</li><li><strong>Supernatural control:</strong> possession is the largest cluster, with film and serial entries spanning seven Indian languages. <em>Vish</em> and <em>Pishachini</em> remain possible because the available source wording does not fully establish the control mechanics.</li><li><strong>Drugs or psychological manipulation:</strong> <em>Yeh Vaada Raha</em> is high confidence; <em>Vish Ya Amrit: Sitara</em> is a possible deception-based brainwashing case rather than literal supernatural control.</li><li><strong>Coverage limit:</strong> English-indexed sources yielded no confirmed 1960s–70s Bollywood title. Most verified cases date from 1980–2025, and regional-language episode recaps remain unevenly indexed.</li></ul></div></details>\n<details open=\"\"><summary>Indonesia: 8 focused female-control findings</summary><div class=\"note-body\"><p>The 30 September 2026 focused source pass contributes eight Indonesian productions across films, sinetron, web television and a YouTube short-film series. Three plots are verified by multiple sources; five remain possible because they rely on one outlet or leave the exact control mechanism unclear.</p><ul><li><strong>Love or relationship control:</strong> <em>Ilmu Hipnotis – Gara Gara Gendam Istriku Diambil Orang</em> and <em>Guna-Guna Isteri Muda</em> are possible cases involving gendam or love magic.</li><li><strong>Supernatural control:</strong> <em>Sijjin</em>, <em>Sewu Dino</em> and the 2024 <em>Guna-Guna Istri Muda</em> are verified; <em>Kitab Sijjin &amp; Illiyyin</em> remains possible on a single source.</li><li><strong>Other hypnosis:</strong> <em>Sepatu Super</em> has a reported hypnosis-to-hatred plot, while <em>Malam Minggu Miko</em> confirms only an episode titled “Hipnotis Vania”; both remain possible.</li><li><strong>Open gap:</strong> no confirmed Indonesian or Indian title in this focused pass showed a woman controlled by her own husband.</li></ul></div></details>\n<details><summary>India: checked but excluded</summary><div class=\"note-body\"><p>The expanded pass removed leads that did not prove external control of a female character.</p><ul><li><strong>Dissociative or split-personality plots:</strong> <em>Bhool Bhulaiyaa</em> (2007), <em>Manichitrathazhu</em> (1993), <em>Apthamitra</em> (2004) and <em>Chandramukhi</em> (2005) were excluded because their resolution is psychological rather than external hypnosis or brainwashing.</li><li><strong>Wrong victim or mechanism:</strong> <em>Munjya</em> possesses a male character; <em>Ek Thi Daayan</em> uses regression hypnosis on a man; <em>Qayamat Ki Raat</em> does not establish female mind control; and <em>Bulbbul</em>, <em>Pari</em>, <em>Shaapit</em> and <em>1920 London</em> do not confirm the requested female-control plot.</li><li><strong>Unverified:</strong> the Bengali <em>Arundhati</em> remake lacked a title-specific source, while <em>L7</em> surfaced only through a trailer. Neither is promoted into the catalog.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant-woman control in India &amp; Indonesia: focused regional set</summary><div class=\"note-body\"><p>The dedicated regional filter consolidates eight sourced records from two focused 30 September 2026 research passes: seven Indian titles and one Indonesian title. Six are direct, high-confidence pregnancy-and-control cases; <em>Iblis dalam Kandungan</em> is a medium-high-confidence attempted-possession case; and <em>Bandh Darwaza</em> is a conception-time close variant.</p><ul><li><strong>Indian films:</strong> <em>Help</em> (Hindi), <em>Lapachhapi</em> (Marathi) and its Hindi remake <em>Chhorii</em> directly overlap pregnancy with possession or supernatural compulsion. <em>Bandh Darwaza</em> (Hindi) is kept separate because the verified hypnosis occurs at conception.</li><li><strong>Indian television:</strong> <em>Laal Ishq</em>, <em>Naagin 3</em> and <em>Sasural Simar Ka</em> have episode-recap evidence for pregnancy plus possession, hypnosis, black magic or direct mental commands.</li><li><strong>Indonesia:</strong> <em>Iblis dalam Kandungan</em> follows pregnant Amelia as a female spirit tries to enter and possess her body to claim the baby; the available synopses do not establish whether full possession succeeds.</li><li><strong>Coverage limit:</strong> no additional verified Indonesian sinetron or TV movie was found, and no separate verified Tamil, Telugu, Malayalam, Kannada, Bengali, Bhojpuri, Odia or Assamese title met the same-character, same-pregnancy test.</li></ul></div></details>\n<details><summary>Indian pregnant-woman hypnosis and mind-control pass</summary><div class=\"note-body\"><p>The consolidated 30 September 2026 Indian-language pass verified six high-confidence cases—three films and three television stories—plus one Hindi-film close variant. All involve a supernatural controller: a ghost or spirit, witches, a demonic unborn child or a vampire. The same woman must be pregnant while controlled; the conception-time variant is kept separate because hypnosis is not verified after the pregnancy begins.</p><ul><li><strong>High-confidence films:</strong> <em>Help</em> (Hindi), <em>Lapachhapi</em> (Marathi) and <em>Chhorii</em> (Hindi). Each directly overlaps pregnancy with possession or supernatural compulsion.</li><li><strong>High-confidence television cases:</strong> <em>Laal Ishq</em> (“Dhruv, Sonya, Unhappy Pregnant Soul”), <em>Naagin 3</em> and <em>Sasural Simar Ka</em>. Their episode recaps establish both pregnancy and possession, hypnosis, a spell or direct mental commands.</li><li><strong>Close variant:</strong> <em>Bandh Darwaza</em> (1990). Neola hypnotizes and impregnates Lajo; the hypnosis occurs at conception rather than during an already-established pregnancy.</li><li><strong>No naturalistic case verified:</strong> the search found no Indian plot in which a husband, doctor or criminal hypnotizes a pregnant woman for abortion, baby theft or revenge.</li><li><strong>Regional-language gap:</strong> beyond the Marathi film <em>Lapachhapi</em>, targeted searches found no separate verified Tamil, Telugu, Malayalam, Kannada, Bengali, Marathi television, Bhojpuri, Odia or Assamese title. Hindi serials dubbed into other languages are not counted twice.</li></ul></div></details>\n<details><summary>Worldwide pregnant-woman control category</summary><div class=\"note-body\"><p>With the Indian and Indonesian updates, this category contains 19 high-confidence direct-control or possession cases and 18 close or medium-confidence variants. Every card labels the mechanism and the strength or limitation of its evidence.</p><ul><li><strong>High-confidence mechanisms:</strong> demonic possession, AI brainwashing, alien or embryo influence, an unborn parasite, a demon fetus, ghost possession, black magic and direct mental commands from an unborn entity.</li><li><strong>Close and medium-confidence boundary:</strong> attempted possession, conception-time hypnosis, cult or medical reproductive coercion, supernatural pregnancy with ambiguous control, haunting or influence that stops short of clear possession, and single-source cases.</li><li><strong>Regional entries:</strong> <em>Help</em>, <em>Lapachhapi</em> and <em>Chhorii</em> are the verified Indian film cases from the latest pass, while <em>Iblis dalam Kandungan</em> is the medium-high-confidence Indonesian attempted-possession case.</li></ul></div></details>\n<details><summary>Pregnant-woman control: checked but excluded or unresolved</summary><div class=\"note-body\"><p>These titles surfaced in targeted searches but did not prove that the same woman was pregnant while her mind or actions were controlled.</p><ul><li><strong>Focused India exclusions:</strong> <em>Birth</em> confirms an eight-months-pregnant woman trapped by a sinister cult but not hypnosis, commanded acts or a mind-control mechanism. <em>Nazar</em>, <em>Manmohini</em>, <em>Kavach</em>, <em>Naagin 5</em>, <em>Divya Drishti</em>, <em>Tantra</em> and other checked serials fail the pregnancy-and-control overlap. <em>Chhorii</em> and <em>Lapachhapi</em> are now included because the newer source pass explicitly supports supernatural compulsion of pregnant women.</li><li><strong>Other Indian non-fits:</strong> <em>Jadu Tona</em>, <em>Yehh Jadu Hai Jinn Ka!</em>, <em>Vish Ya Amrit: Sitara</em>, <em>Bhool Bhulaiyaa</em>, <em>Alpviram</em>, <em>Qayamat Ki Raat</em>, <em>Savdhaan India</em> “Miseries of a Tormented Wife,” and other <em>Laal Ishq</em> hypnosis episodes did not establish successful mind control of a pregnant woman.</li><li><strong>Indonesian screen titles:</strong> <em>Sumala</em>, <em>Racun Sangga</em>, <em>Beranak dalam Kubur</em>, <em>Satu Suro</em>, <em>Kuyang</em>, <em>Hi5teria</em>, <em>Malam Jumat Kliwon</em>, <em>Dukun Beranak</em> and the FTV <em>Mendadak Hamil</em> lack same-character pregnancy plus explicit mind control; <em>Dukun</em> is Malaysian and also splits pregnancy and possession between different women. <em>The Womb / Inang</em> has been moved into the strict section after newer scene-level evidence verified literal hypnosis during Wulan’s pregnancy.</li><li><strong>Other unverified timing:</strong> <em>Bunshinsaba</em> has a possessed teacher who later gives birth, but pregnancy during possession could not be established.</li><li><strong>Haunted or threatened, not controlled:</strong> <em>Magi</em>, <em>The Wrath</em>, <em>The Unborn</em> (2003), <em>Ma</em> and <em>Sakanak</em>. <em>Cin Azabı</em> is now retained only as a low-confidence unresolved lead, with its missing control evidence stated on the card.</li><li><strong>Fetus affected or no overlap:</strong> <em>Delivery: The Beast Within</em>, <em>Gauri: The Unborn</em>, <em>El maleficio</em> and <em>El extraño retorno de Diana Salazar</em>.</li><li><strong>No qualifying control:</strong> <em>Xtro</em>, <em>Metamorphosis</em> and several individually checked titles including <em>Still/Born</em>, <em>Bed Rest</em>, <em>Apartment 7A</em>, <em>The Omen</em> and <em>The Last Exorcism Part II</em>.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant mother + child walk-in: one airtight match (Catastrophe S2E1)</summary><div class=\"note-body\"><p>The 30 September 2026 English-indexed search and a follow-up using native-language queries across 12 priority markets established one airtight exact match — <em>Catastrophe</em> S2E1 (2015), in which deeply pregnant Sharon is mid-coitus with husband Rob when their son walks in — alongside one strongest candidate and 24 clearly labeled partial or exclusion cases, including 10 new catalog records from the follow-up; cards are displayed in ascending release-year order within each confidence group, with undated leads last.</p><ul><li><strong>Strongest candidate:</strong> <em>Neighbors 2: Sorority Rising</em> (2016). Pregnancy, toddler Stella and the opening lovemaking scene are supported by multiple sources; Stella’s immediate entrance is stated explicitly in the IMDb plot summary and the associated adult-toy gag is corroborated by reviews. Because a screenplay, subtitles or direct scene check was not available, the exact timing remains unconfirmed and the title is not presented as a fully verified match.</li><li><strong>Strongest new partial:</strong> <em>СашаТаня (SashaTanya)</em>. Alyoshka’s bedroom walk-in is documented in Season 7, but Tanya’s verified twin pregnancy begins six episodes later in the Season 8 premiere; no pregnancy-period walk-in was found.</li><li><strong>Native-language coverage:</strong> targeted searches covered Hindi, Turkish, Spanish, Portuguese, Korean, Japanese, Chinese, Arabic, French, German, Russian and Italian. New partials from Russia, France, Argentina, Italy, Mexico, India, Turkey, Brazil and Japan remain labeled with the exact missing element.</li><li><strong>Open questions:</strong> video, subtitle or transcript access is still needed to determine whether <em>SashaTanya</em> Season 8, <em>Casados con hijos</em> S01E89, <em>Fais pas ci, fais pas ça</em> Season 3 or <em>Un medico in famiglia</em> Season 2 contains a qualifying scene. Moni Argento’s pregnancy may also be a false alarm.</li><li><strong>Not promoted:</strong> <em>A Grande Família</em> fails because Bebel’s pregnancy is her first. Four German or Russian walk-in clips have no pregnancy, so they remain outside the catalog rather than being padded into the partial list.</li></ul></div></details>\n<details open=\"\"><summary>Child walks in on parents’ intimate scene: 39 sourced records</summary><div class=\"note-body\"><p>The category now holds 39 records: 23 shown strict cases involving the couple’s own minor child, four dialogue-confirmed childhood recollections, six adult-offspring cases and six labeled variants or near-misses. Descriptions remain non-graphic, and every card preserves the report’s confidence level and source caveat.</p><ul><li><strong>Strict shown cases:</strong> the own-child set is split by location. Bedroom or sleeping-room entries remain the strictest group; bathroom, living-room and couch interruptions are shown separately without losing their strict own-child status.</li><li><strong>Recounted events:</strong> <em>Veronica Mars</em>, <em>Scrubs</em>, <em>Yellowjackets</em> and <em>Misfits</em> confirm a childhood walk-in through dialogue or transcript, but do not show the event on screen.</li><li><strong>Adult offspring:</strong> <em>Schitt’s Creek</em>, <em>Seinfeld</em>, <em>Life in Pieces</em>, <em>Psych</em>, <em>Titus</em> and <em>Friends</em> are separated because the interrupter is an adult child.</li><li><strong>Other variants:</strong> <em>Soul Food</em> uses a kitchen; <em>Stepmom</em> involves a father and future stepmother; <em>Christmas Evil</em> leaves the exact entry point unclear; <em>South Park</em> S20E04 uses a consensual kink act; <em>F Is for Family</em> has a child already hiding under the bed; and <em>Once Upon a Time</em> is post-coital rather than an interruption.</li><li><strong>Worldwide result:</strong> <em>Catastrophe</em> S2E1 is the first verified pregnant-mother strict match in the catalog and has dual membership in the pregnancy-sex section. <em>Pabbahelgar</em> from Iceland remains the only verified non-English strict title found in the earlier walk-in sweep; its broader native-language searches produced unresolved leads rather than additional confirmed titles.</li><li><strong>Unresolved, not promoted:</strong> exact episodes remain unidentified for <em>Oliver Beene</em>, <em>Ready or Not</em>, <em>The Oblongs</em>, <em>Family Matters</em>, <em>The Drew Carey Show</em> and <em>30 Rock</em>. The French short <em>Surprendre ses parents en train de...</em> has IMDb-only support. <em>Meet the Fockers</em> remains a prior supplied adult-son lead without enough scene detail in this report, and the alleged <em>Blockers</em> stinger is contradicted by available material.</li><li><strong>Firm exclusions:</strong> scenes with one parent and a different partner, a child merely overhearing from outside, an unrelated child, kissing only, averted interruptions or a reversed-direction setup are not included as matches.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant sex and intimate scenes: 18 new records after deduplication</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide sweep expands both existing sections to 17 entries each. Eighteen unique records are new; <em>Outlander</em>, <em>Yeh Hai Mohabbatein</em> and <em>Badhaai Ho</em> were expanded in place rather than duplicated. <em>Neon Bull</em> and <em>Knocked Up</em> were independently reconfirmed and needed no structural change.</p><ul><li><strong>Having sex:</strong> the character is pregnant during an on-screen encounter, or the episode’s plot and sourcing clearly establish that it happened. Subgroups separate established partners, new partners or affairs, comedy, a plot-verified non-consensual case, adult-animation / sex-work context and one timing-caveat case.</li><li><strong>Intimate scenes:</strong> attempted or interrupted sex, sensual or erotic imagery short of intercourse, affectionate non-sexual romance, labor-induction discussion, and sexual fantasy remain distinct from completed sex.</li><li><strong>Evidence boundaries:</strong> <em>A Happy Event</em> rests on one English-language review after native-language searches did not corroborate the scene; <em>The Housemaid</em>, <em>Junichi</em> and <em>Pasión de Gavilanes</em> rely on viewer or fan sources; <em>24 Weeks</em> verifies a sex scene but not the character’s pregnancy at that exact moment. These limits are repeated on the cards.</li><li><strong>Held as near-misses:</strong> <em>Bridal Shower</em> only implies marital relations; <em>Kızılcık Şerbeti</em> does not establish overlap between the romantic episode and pregnancy arc. Other rejected leads either place the scene before pregnancy, only discuss sex, use a false or performer-only pregnancy, or lack a qualifying intimate scene.</li><li><strong>Coverage gaps:</strong> no source-verified African or Arabic-language case was found, and none was verified in Tamil, Telugu, Malayalam, Kannada, Marathi, Bengali, Punjabi, Pakistani, Bangladeshi or Sri Lankan productions. These are documentation gaps, not proof of absence.</li><li><strong>Performer caveat:</strong> a performer being pregnant is not enough unless the character is also pregnant. <em>Neon Bull</em> remains separately labeled because both are true.</li></ul></div></details>\n<details open=\"\"><summary>Category 4: mothers with children under hypnosis or mind control</summary><div class=\"note-body\"><p>The 30 September 2026 research pass found 17 higher-confidence fits and 12 separately labeled borderline or lower-confidence cases. The higher-confidence tier includes 16 English-language titles and one Spanish-language Argentine film. Every card states its mechanism and preserves source-level caveats; several obscure shorts rely only on IMDb synopsis-level evidence.</p><ul><li><strong>Strongest concentration:</strong> demonic-possession horror and witchcraft or technology-driven mind control.</li><li><strong>Open leads:</strong> the Turkish/Indonesian <em>Siccîn/Sijjin</em> line still needs proof that the targeted wife is a mother with an on-screen child. Both versions of <em>El maleficio</em> need episode-level proof of direct mind control rather than deception or intimidation.</li><li><strong>Research basis:</strong> indexed page content and fetched plot text; none of these findings was re-verified in a live research browser during this pass.</li></ul></div></details>\n<details><summary>Category 4: regions and formats checked with no verified fit</summary><div class=\"note-body\"><p>Targeted searches found no additional verified fit in Indian regional cinema, Korean, Japanese, Chinese, Thai or Filipino film and television; Brazilian/Portuguese, French, German, Italian, Russian, Scandinavian, Middle Eastern or African cinema; or Western animation.</p><ul><li><strong>India:</strong> <em>Shaitaan</em> and <em>Vash</em> control the daughter, not the mother.</li><li><strong>Korea:</strong> <em>Hypnotized</em> (2004) involves a married woman, but motherhood was not verified.</li><li><strong>Turkey:</strong> <em>Dabbe: Cin Çarpması</em> involves a possessed woman not established as a mother.</li><li><strong>Other checked non-fits:</strong> <em>Ouija: Origin of Evil</em>, <em>The Possession</em>, <em>The Exorcist</em>, <em>Get Out</em>, <em>The Manchurian Candidate</em>, <em>Mother Is Strong on Hypnotism</em>, <em>Mama</em>, <em>WandaVision</em>, <em>Bring Her Back</em>, <em>The Babadook</em>, <em>Relic</em> and <em>Bless the Child</em> fail the mother-as-controlled-victim rule.</li></ul></div></details>\n<details open=\"\"><summary>Worldwide expansion: 20 strong cases + 7 borderline</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide pass added 20 defensible strong cases and 7 separately labeled borderline cases. Targeted searches covered the United States and Canada, Japan, South Korea, China, India, Latin America, Turkey and the Middle East, Russia/Soviet cinema, and continental Europe. The evidence supports fewer than the requested 40–60 new titles, so the catalog is not padded with weak matches.</p><ul><li>New regional coverage is still concentrated in the United States and Japan. South Korea is represented by <strong>Hypnotized</strong> (2004), and China by <strong>The Love by Hypnotic</strong> (2019).</li><li><strong>The Love by Hypnotic</strong> is supported by a MyDramaList review synopsis and TV Time synopsis, not a viewed transcript.</li><li><strong>Tanken Driland</strong> and <strong>Yatterman</strong> episode 55 remain trope-index-only claims and are not catalog entries until independently verified.</li></ul></div></details>\n<details><summary>Husband hypnotizes or mind-controls wife: dedicated worldwide pass</summary><div class=\"note-body\"><p>This source-index pass identified six strong movie matches, two TV-movie matches and one loose, unverified serial match. Its nine findings are included in the husband-control category and keep their direct, loose or unverified labels on the cards.</p><ul><li><strong>Strong movies:</strong> <em>Amore e ipnotismo</em>, <em>Sleep, My Love</em>, both versions of <em>The Stepford Wives</em>, <em>Tee Ratra</em> and <em>Don’t Worry Darling</em>.</li><li><strong>TV movies:</strong> <em>The Stepford Children</em> is a direct match under the Stepford rule; <em>Revenge of the Stepford Wives</em> is loose because the town’s conspiracy—not Megan’s husband—imposes the conditioning.</li><li><strong>Serial:</strong> <em>被催眠的她</em> (<em>The Hypnotized Her</em>) is loose and unverified because no source establishes that the husband is the hypnotist.</li><li>All findings in this pass rest on indexed page content reviewed 30 September 2026, not live-browser confirmation. The country and original language of <em>Amore e ipnotismo</em> remain unverified.</li></ul></div></details>\n<details><summary>Checked and excluded from “hypnotized to love”</summary><div class=\"note-body\"><ul>\n<li><strong>Shallow Hal</strong> (2001): the man’s perception is altered; no woman is hypnotized into love. <a href=\"https://www.rogerebert.com/reviews/shallow-hal-2001\" rel=\"noopener\" target=\"_blank\">RogerEbert.com</a></li>\n<li><strong>Get Out</strong> (2017): hypnosis enables the Coagula procedure, not romance. <a href=\"https://get-out.fandom.com/wiki/The_Sunken_Place\" rel=\"noopener\" target=\"_blank\">Get Out Wiki</a></li>\n<li><strong>Office Space</strong> (1999): Peter is hypnotized into job apathy; his romance is incidental. <a href=\"https://en.wikipedia.org/wiki/Office_Space\" rel=\"noopener\" target=\"_blank\">Wikipedia</a></li>\n<li><strong>Shaitaan</strong> (2024): occult control is possessive but not romantic. <a href=\"https://english.tupaki.com/entertainment/shaitaanmovietrailer-1344781\" rel=\"noopener\" target=\"_blank\">Tupaki</a></li>\n</ul></div></details>\n<details><summary>Checked and excluded from “husband controls wife”</summary><div class=\"note-body\"><ul>\n<li><strong>Dr. Damon’s Experiment</strong> (1954, <em>The Vise</em>, UK): re-verification shows the husband hypnotizes his wife’s lover, not his wife.</li>\n<li><strong>Hypnotic</strong> (2021, USA): the hypnotherapist is not her husband.</li>\n<li><strong>Rosemary’s Baby</strong> (1968, USA): the husband drugs his wife, but the occult act is performed by the neighbors, not him.</li>\n<li><strong>Mesmerized</strong> (1985/86), <strong>Take Her by Surprise</strong> (1967), <strong>Perfect Little Angels</strong> (1998), <strong>The Stepford Husbands</strong> (1996), <strong>Possession</strong> (2009), <strong>The Hypnosis</strong> (2023), <strong>The Hypnotic Wife</strong>, <strong>Temptation of Wife</strong> (2008–09), and <strong>Night of the Eagle</strong> (1962) also miss the requested perpetrator–victim direction or use no hypnosis of the wife.</li>\n</ul></div></details>\n<details><summary>Titles and regions still unresolved</summary><div class=\"note-body\"><ul>\n<li><strong>The Love Letter</strong>: the 1999 film uses a letter as a love-potion metaphor; the 1998 TV movie is a time-crossed correspondence story. A different intended title would need clarification. <a href=\"https://bostonphoenix.com/archive/movies/99/05/27/THE_LOVE_LETTER.html\" rel=\"noopener\" target=\"_blank\">Boston Phoenix</a> · <a href=\"https://www.imdb.com/title/tt0140340/plotsummary/\" rel=\"noopener\" target=\"_blank\">IMDb</a></li>\n<li>No verified Bollywood hypnosis-into-romance title or movie matching the single-mom-remarriage pattern was found.</li>\n<li><strong>Fantasy Island</strong> S04E06 surfaced, but no accessible plot summary confirmed a hypnosis-into-love story.</li>\n<li>The earlier search found no confirmed soap-opera or telenovela match for this category. That finding is now superseded: <strong>El maleficio</strong> (1983–84), its 2023–24 remake, and <strong>Desejos de Mulher</strong> (2002) are the first confirmed telenovela matches.</li>\n<li>The production country and original language of <strong>Amore e ipnotismo</strong> remain unverified.</li>\n</ul></div></details>",
   "notice_on_share_page": "Content is user generated and unverified."
  },
  "sources": [
@@ -182,10 +190,18 @@ window.CATALOG = {
    "share_url": "https://muse.ai/s/tv-and-movie-research-catalog-xla62ucxbx02u5",
    "page_title": "TV and Movie Research Catalog",
    "kicker": "SCREEN STORY-PATTERN INDEX",
-   "heading": "2149 catalog records, sorted by the plot turn that matters.",
-   "description": "A worldwide research snapshot spanning films, serials, television movies, series, soap operas, individual episodes and short-form vertical dramas across sixty-one themes. The expanded index now includes a dedicated worldwide view of polygamy plus pregnancy and depicted or reported intimate/sex scenes, separated into multiple-wife plots, royal-harem and concubine dramas, modern polygamous households, a polyandry variant and unresolved leads; it also retains the dedicated view of polygamy plus female hypnosis, mind control, possession, occult control or coercive indoctrination, separated into strict multiple-wife matches, concurrent-partner harem variants, cult variants, borderlines and related cross-references; adult/18+ works and unresolved cases are labeled plainly; and separates strict hypnosis during pregnancy from possession, therapeutic, cult, fetal-targeting and control-caused-pregnancy variants; gives non-pregnant Indian-language cases their own regional view; and includes women who knowingly or unknowingly bargain with a devil- or demon-coded force to become pregnant or have a child, with the pregnancy outcome stated; women hypnotized or mind-controlled by a husband, boyfriend, ex-husband or ex-boyfriend, with direct matches separated from third-party, occult, adult-audience and unresolved variants; adult-audience films and television in which hypnosis, possession or mind control overlaps a pregnancy or causes it; the worldwide adult-audience search for mothers controlled by a current husband or boyfriend; wives who are already mothers becoming pregnant by another man; partnered women hypnotized or mind-controlled into infidelity; the 180-entry worldwide adult-audience sweep of wives and other adult female characters subjected to hypnosis, mesmerism, hypnotic suggestion, erotic supernatural thrall or explicitly framed occult trance; wives and other female characters forcibly hypnotized into obedience; stepmothers or bonus moms hypnotized, possessed, cursed or enchanted against their will; pregnant stepmothers and bonus moms; the closest documented cases of a remarried wife controlled by her new husband or a stepfather figure; a pregnant single mother controlled by her new husband or child’s stepfather; pregnant women controlled by unborn, ghost or alien children; female characters controlled by children or teens; current wives controlled or possessed by a husband’s former wife or lover; wives hypnotized or controlled by therapists; parents being intimate while children sleep; the expanded worldwide index of children interrupting or witnessing their parents’ intimate moments; adoption followed by pregnancy; human-villain hypnosis; vampire mesmerism; demonic and occult control; spirit or djinn possession; tantrik and vashikaran plots; sci-fi control; cult brainwashing; therapeutic hypnosis; fantasy enchantment; and the expanded worldwide index of pregnant characters in sexual, sensual, romantic, attempted, labor-related or fantasy scenes.",
-   "snapshot_label": "Research snapshot updated: 1 October 2026",
+   "heading": "2166 catalog records, sorted by the plot turn that matters.",
+   "description": "A worldwide research snapshot spanning films, serials, television movies, series, soap operas, individual episodes and short-form vertical dramas across sixty-two themes. The expanded index now includes a dedicated worldwide view of doctors and therapists who control female characters for sexual exploitation, crime cover-ups, programmed crime, financial or power gains, and possessive control; a dedicated worldwide view of polygamy plus pregnancy and depicted or reported intimate/sex scenes, separated into multiple-wife plots, royal-harem and concubine dramas, modern polygamous households, a polyandry variant and unresolved leads; it also retains the dedicated view of polygamy plus female hypnosis, mind control, possession, occult control or coercive indoctrination, separated into strict multiple-wife matches, concurrent-partner harem variants, cult variants, borderlines and related cross-references; adult/18+ works and unresolved cases are labeled plainly; and separates strict hypnosis during pregnancy from possession, therapeutic, cult, fetal-targeting and control-caused-pregnancy variants; gives non-pregnant Indian-language cases their own regional view; and includes women who knowingly or unknowingly bargain with a devil- or demon-coded force to become pregnant or have a child, with the pregnancy outcome stated; women hypnotized or mind-controlled by a husband, boyfriend, ex-husband or ex-boyfriend, with direct matches separated from third-party, occult, adult-audience and unresolved variants; adult-audience films and television in which hypnosis, possession or mind control overlaps a pregnancy or causes it; the worldwide adult-audience search for mothers controlled by a current husband or boyfriend; wives who are already mothers becoming pregnant by another man; partnered women hypnotized or mind-controlled into infidelity; the 180-entry worldwide adult-audience sweep of wives and other adult female characters subjected to hypnosis, mesmerism, hypnotic suggestion, erotic supernatural thrall or explicitly framed occult trance; wives and other female characters forcibly hypnotized into obedience; stepmothers or bonus moms hypnotized, possessed, cursed or enchanted against their will; pregnant stepmothers and bonus moms; the closest documented cases of a remarried wife controlled by her new husband or a stepfather figure; a pregnant single mother controlled by her new husband or child’s stepfather; pregnant women controlled by unborn, ghost or alien children; female characters controlled by children or teens; current wives controlled or possessed by a husband’s former wife or lover; wives hypnotized or controlled by therapists; parents being intimate while children sleep; the expanded worldwide index of children interrupting or witnessing their parents’ intimate moments; adoption followed by pregnancy; human-villain hypnosis; vampire mesmerism; demonic and occult control; spirit or djinn possession; tantrik and vashikaran plots; sci-fi control; cult brainwashing; therapeutic hypnosis; fantasy enchantment; and the expanded worldwide index of pregnant characters in sexual, sensual, romantic, attempted, labor-related or fantasy scenes.",
+   "snapshot_label": "Research snapshot updated: 2 October 2026",
    "snapshot_breakdowns": [
+    {
+     "html": "<b>7</b> verified additions from the 2 Oct female-hypnosis deep sweep: <b>2</b> forced-obedience memberships and <b>5</b> hypno-intimacy memberships · <b>4</b> net-new records after full-catalog dedupe · <b>1</b> ReelShort vertical drama and <b>5</b> clearly labeled 18+ works",
+     "text": "7 verified additions from the 2 Oct female-hypnosis deep sweep: 2 forced-obedience memberships and 5 hypno-intimacy memberships · 4 net-new records after full-catalog dedupe · 1 ReelShort vertical drama and 5 clearly labeled 18+ works"
+    },
+    {
+     "html": "<b>27</b> doctor / therapist personal-gain category memberships: <b>20</b> verified sweep findings (<b>13</b> high, <b>7</b> medium) across five motive groups, plus <b>7</b> grants to existing records; adult / erotic labels, female-doctor notes, age caveats and non-trance mechanisms remain visible; <b>17</b> low-confidence leads are held outside the catalog",
+     "text": "27 doctor / therapist personal-gain category memberships: 20 verified sweep findings ( 13 high, 7 medium) across five motive groups, plus 7 grants to existing records; adult / erotic labels, female-doctor notes, age caveats and non-trance mechanisms remain visible; 17 low-confidence leads are held outside the catalog"
+    },
     {
      "html": "<b>99</b> polygamy + pregnancy + intimacy / sex category memberships: <b>33</b> multiple-wife or concurrent-partner plots, <b>29</b> royal-harem / concubine dramas, <b>8</b> modern polygamous-household stories, <b>1</b> polyandry variant and <b>28</b> unresolved leads · dedicated adult / R-rated / erotic coverage included, with every uncertainty labeled",
      "text": "99 polygamy + pregnancy + intimacy / sex category memberships: 33 multiple-wife or concurrent-partner plots, 29 royal-harem / concubine dramas, 8 modern polygamous-household stories, 1 polyandry variant and 28 unresolved leads · dedicated adult / R-rated / erotic coverage included, with every uncertainty labeled"
@@ -223,8 +239,8 @@ window.CATALOG = {
      "text": "1 partner-engaged hypnotist pregnancy match: Ultrasound (2021), cross-filed without a duplicate record · plot facts are triple-sourced; the relationship is presented as extramarital rather than a formal marriage"
     },
     {
-     "html": "<b>11</b> strict pregnancy-era hypnosis or will-override cases + <b>27</b> pregnancy-control variants and leads: <b>19</b> labeled variants and <b>8</b> unresolved leads · the seven-vector round-2 deep sweep found <b>0</b> net-new strict-core titles, added the attempted-possession variant <em>Don't Turn Around, or You'll Be Sorry</em>, re-identified the 1971 <em>Metamorphosis</em> lead as <em>The Interns</em> S1E17, corrected <em>Alem-i Cin 4</em>, and clarified that <em>Saimin Seishidou</em> depicts a simulated rather than real pregnancy · adult / R-rated / erotic plot indexes were included, with remaining access and regional documentation gaps stated below",
-     "text": "11 strict pregnancy-era hypnosis or will-override cases + 27 pregnancy-control variants and leads: 19 labeled variants and 8 unresolved leads · the seven-vector round-2 deep sweep found 0 net-new strict-core titles, added the attempted-possession variant Don't Turn Around, or You'll Be Sorry , re-identified the 1971 Metamorphosis lead as The Interns S1E17, corrected Alem-i Cin 4 , and clarified that Saimin Seishidou depicts a simulated rather than real pregnancy · adult / R-rated / erotic plot indexes were included, with remaining access and regional documentation gaps stated below"
+     "html": "<b>12</b> strict pregnancy-era hypnosis or will-override cases + <b>31</b> pregnancy-control variants and leads: <b>21</b> labeled variants and <b>10</b> unresolved leads · the 2–3 October 110-round multilingual sweep adds literal pregnancy-era hypnosis evidence for <em>The Womb / Inang</em>, two medium-confidence supernatural variants and two LOW-confidence leads; <em>Ezedike (The Pregnant Witches)</em> remains outside the catalog because no controlled pregnant victim is confirmed · adult / R-rated / erotic and vertical-short searches returned no verified addition",
+     "text": "12 strict pregnancy-era hypnosis or will-override cases + 31 pregnancy-control variants and leads: 21 labeled variants and 10 unresolved leads · the 2–3 October 110-round multilingual sweep adds literal pregnancy-era hypnosis evidence for The Womb / Inang , two medium-confidence supernatural variants and two LOW-confidence leads; Ezedike (The Pregnant Witches) remains outside the catalog because no controlled pregnant victim is confirmed · adult / R-rated / erotic and vertical-short searches returned no verified addition"
     },
     {
      "html": "<b>13</b> net-new adult-context pregnancy-control findings from a worldwide indexed sweep: <b>3</b> literal-hypnosis core cases, <b>8</b> supported broader-control variants and <b>2</b> provisional or implied leads; rating evidence is stated per card",
@@ -347,14 +363,14 @@ window.CATALOG = {
      "text": "22 pregnant-sex entries + 17 intimate, attempted, sensual or romantic entries · the latest worldwide pleasure-scene sweep added 5 deduplicated titles ( 2 high, 1 medium-high, 2 medium confidence)"
     }
    ],
-   "research_notes_html": "<h2 id=\"notes-heading\">Boundaries &amp; open questions</h2>\n<details open=\"\"><summary>Polygamy + pregnancy + intimate / sex scenes: 99 worldwide findings</summary><div class=\"note-body\"><p>The 1–2 October 2026 worldwide sweep reviewed films, television series and serials, TV movies, soap operas, historical dramas and vertical shorts across ten regional and format vectors. It found 99 distinct titles or leads and grouped them by how closely all three plot elements are documented.</p><ul><li><strong>Multiple wives / partners with pregnancy:</strong> 33 records, including 10 high-confidence strict matches. Formal co-wives, bigamy, live-in parallel households and edge cases such as a mistress or sequential-marriage overlap are distinguished on each card.</li><li><strong>Royal harem / concubine stories:</strong> 29 records, including 11 high-confidence titles and one medium-high title. Nine palace dramas remain low confidence because pregnancy and plural-consort structures are established but intimacy is only implied or off-screen.</li><li><strong>Modern polygamous households:</strong> 8 records spanning HBO drama, Indonesian cinema, Lifetime TV movies, a fantasy-series subplot and vertical drama. Missing pregnancy or intimacy evidence is stated rather than inferred.</li><li><strong>Polyandry variant:</strong> <em>Matrubhoomi: A Nation Without Women</em> is separated from polygyny and carries a prominent sexual-violence caveat; it is not framed as romantic polyandry.</li><li><strong>Unresolved leads:</strong> 28 records remain clearly labeled because pregnancy, depicted intimacy, formal plural-marriage status, release identity or another required element is not yet verified.</li><li><strong>Adult / R-rated / erotic coverage:</strong> the dedicated vector found 12 relevant adult-audience or explicit candidates, including <em>The Concubine</em>, <em>Jan Dara</em>, <em>Versailles</em>, <em>Borgia</em> and <em>The Golden Lotus: Love and Desire</em>. Hardcore pornography was outside the research scope.</li><li><strong>Dedupe:</strong> this category reuses existing catalog rows where the same title and release year were already present, adding a category-specific view instead of a second card.</li></ul></div></details>\n<details open=\"\"><summary>Polygamy + female hypnosis / mind control: 36 category memberships, 6 unresolved leads</summary><div class=\"note-body\"><p>The 1 October 2026 worldwide sweep and strict-scope supplement searched films, television series and serials, TV movies, soap operas, anime, documentaries and adult-audience productions across fourteen complementary regional and format vectors. The catalog now shows 33 supported or borderline research titles plus three related existing records, without adding duplicate rows.</p><ul><li><strong>Five plot-pattern groups:</strong> 10 strict core matches connect plural wives or consorts to hypnosis, possession or occult will-override; 6 harem variants involve concurrent controlled partners rather than wives; 8 cult variants document coercive indoctrination, not literal hypnosis; 9 entries are labeled borderline; and 3 related records are cross-referenced from existing catalog rows.</li><li><strong>Adult / 18+ coverage:</strong> adult, softcore and mature-audience records are explicitly labeled. The worldwide search also covered R-rated and erotic cinema.</li><li><strong>New strict-core coverage:</strong> the supplement adds the 2005 <em>Trapped by the Mormons</em> remake, Egypt’s <em>ساحرة الجنوب / Saherat El Ganoub</em>, India’s <em>Sasural Simar Ka</em>, China’s <em>Creation of the Gods I: Kingdom of Storms</em> and Japan’s <em>Genji Monogatari: Sennen no Nazo</em>. <em>O Beijo do Vampiro</em> now records its confirmed plural-wife dimension while keeping the separate pregnancy-era hypnosis timing question open.</li><li><strong>Honest-zero searches:</strong> the strict review found no additional verified combination in modern European productions, Western soaps, Turkish erotic films, Scandinavian / Eastern European / Oceanian cinema, Iranian titles, most imperial-harem dramas, or the dedicated Latin America / Africa and adult-erotic vectors. These are documentation results, not proof that no other title exists.</li><li><strong>Unresolved leads — not counted as verified:</strong> <em>The 19th Wife</em> (2010), <em>Escape from Polygamy</em> (2013), <em>Hell Is Empty</em> (2021/22), <em>Sharara / شرارة</em> (2026), <em>RadhaKrishn</em> (2018–2023) and an unidentified Thai lakorn. For <em>Sharara</em>, the only located promo describes sihr aimed at the husband rather than a woman, and episode-level confirmation is still missing.</li><li><strong>Explicit exclusions:</strong> <em>Big Love</em>, <em>Sister Wives</em>, <em>The Polygamist</em> (2026), <em>O Clone / El Clon</em>, <em>The Stepford Wives</em>, <em>Get Out</em>, <em>El Maleficio</em> (1983), <em>Shaitaan</em>, <em>Vash</em>, <em>Caminhos do Coração</em>, <em>Bible Black</em>, <em>Queen Seondeok</em> and <em>Kutsujoku</em> fail one prong, reverse the control direction or lack a qualifying plural-wife structure.</li></ul></div></details>\n<details open=\"\"><summary>DramaExpress + short-drama-sites sweep (1 Oct 2026): 7 net-new titles, 4 leads, ~48 exclusions</summary><div class=\"note-body\"><p>The sweep covered 12 platform surfaces: dramaexpress.net, DramaBox, ReelShort, GoodShort, ShortMax and ShortTV, NetShort, DramaWave, FlexTV, ToonShort, Miralune Short and MiniShorts. Seven net-new titles were verified: three forced-obedience entries, three age-gap-marriage entries and one mom-pregnancy borderline/variant.</p><ul><li><strong>LOW leads:</strong> four were reviewed. <em>寒途向新生</em>, <em>My Don Missed My Last Chance to Be a Mother</em> and <em>A Lover's Trap</em> are filed only as clearly labeled unresolved leads, not as verified entries. <em>The Tower That Erased Me</em> is excluded: NetShort describes Chloe being suppressed with antipsychotics in a psychiatric facility, which is chemical sedation rather than hypnosis.</li><li><strong>Exclusions:</strong> roughly 48 candidates were rejected because they used a werewolf mate-bond genre trope rather than hypnosis, ordinary amnesia, telepathy, a plain secret-baby plot, or devil romance without pregnancy.</li><li><strong>Honest zeros:</strong> strict pregnant-while-hypnotized, devil-deal pregnancy, hypno-intimacy plus pregnancy and adult / R-rated / 18+ productions each returned zero; all 12 platforms skew PG-13 / Teen.</li><li><strong>Coverage limits:</strong> no live browser was available, so in-app-only titles remained unreachable. Miralune Short and MiniShorts have no text-searchable web catalogs, while dramaexpress.net is new (about September 2026) and has minimal search-engine indexing.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant + hypnotized round 2: no new strict-core title; two variant outcomes</summary><div class=\"note-body\"><p>The 1 October 2026 super-deep sweep covered seven regional vectors across movies, television, serials, soap operas, anime and adult-audience plot indexes. It found no net-new title meeting the strict rule that the same adult woman is pregnant while an external force overrides her will.</p><ul><li><strong>New close variant:</strong> <em>Don't Turn Around, or You'll Be Sorry / 唔該借歪</em> (2000) is filed in both the evil-force and pregnancy-control-variant views. Five sources describe a ghost seeking to take over pregnant Lisa's body, but the takeover is framed as attempted or thwarted rather than completed.</li><li><strong>Re-identified lead:</strong> the old “Metamorphosis” record is now correctly <em>The Interns</em> S1E17 (1971), a CBS television episode. Pregnancy and episode identity are corroborated, while the diagnostic-hypnosis detail remains single-sourced.</li><li><strong>Corrections:</strong> <em>Alem-i Cin 4</em>'s pregnant character is İrem, not İpek; Turkish sources confirm the pregnancy, but not literal will-override. <em>Saimin Seishidou</em>'s “pregnancy experience” is now labeled simulated, not real. <em>Danger Diva</em>'s source list was reconciled without adding a duplicate.</li><li><strong>Revisit list — not catalog records:</strong> <em>Pregnancy</em> (Nigeria); <em>Zir-i Cin 4: Nesep Bağı</em> (2026); <em>Üç Harfliler: Mühür</em> (2026); <em>Fear Files</em> S3E9; <em>418</em> (Telugu, theatrical release dated 23 October 2026); the unresolved Nollywood demon-pregnancy video; and <em>Revolving Heart / 心门</em> (2017), which still needs a third source and fails strict simultaneity.</li><li><strong>Coverage gaps:</strong> IAFD direct search remained unavailable; Scandinavian and deeper European adult-index passes were not completed; documentation remains thin for several South and Southeast Asian markets. These are search gaps, not claims that no additional title exists.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant belly kissed or touched by kids: 7 verified family-warmth scenes</summary><div class=\"note-body\"><p>The first 1 October 2026 worldwide sweep filed six verified scenes after dedupe. A round-2 deep sweep across six vectors adds one medium-confidence human-character scene, bringing this view to seven records.</p><ul><li><strong>Round-2 addition:</strong> <em>Shang-Chi and the Legend of the Ten Rings</em> shows Ying Li resting young Shang-Chi on her pregnant stomach in a flashback. The card retains the fan-curated-source and visibility caveats.</li><li><strong>Round-1 records retained:</strong> <em>Kim Possible: A Sitch in Time</em>, <em>A Separation</em>, the Vietnamese-titled NetShort series <em>Đuổi Tôi Đi, Giờ Đòi Nhận Con?</em>, <em>Pan's Labyrinth / El laberinto del fauno</em>, <em>Look Who's Talking Too</em> and <em>Parenthood</em>.</li><li><strong>NetShort enrichment:</strong> the child is now identified as Elowen Thorne's own son Elian; the werewolf-romance premise, still-unidentified original title, official-thumbnail verification and possible pregnant-again overlap are recorded on the existing card.</li><li><strong>Scope refinement:</strong> round-2 animal, animated-animal and animal-puppet findings were not filed. Existing round-1 records were left unchanged.</li><li><strong>Coverage result:</strong> the dedicated adult / erotic vector returned an honest structural zero.</li></ul></div></details>\n<details open=\"\"><summary>Hallmark six-topic sweep: 11 titles filed across four views</summary><div class=\"note-body\"><p>The 1 October 2026 sweep reviewed Hallmark Channel, Hallmark Mystery, Hallmark+, and the Crown Media / Hallmark Hall of Fame back catalog across six requested plot patterns. It adds ten net-new records and upgrades one existing record, <em>Jane Doe: How to Fire Your Boss</em>, without duplication.</p><ul><li><strong>Pregnant female character:</strong> eight titles appear in the new Hallmark-specific view. Seven are high confidence; <em>Signed, Sealed, Delivered: A Tale of Three Letters</em> is medium confidence because pregnancy is announced only in the final moments.</li><li><strong>Mother pregnant again:</strong> <em>Three Wisest Men</em> follows Sophie, already mother to Thomas, while expecting twins.</li><li><strong>Remarriage:</strong> <em>Love's Enduring Promise</em> is a core fit, though the pregnancy occurs off-screen between films. <em>Love Comes Softly</em> is a labeled borderline because Marty is already pregnant by her late husband before marrying Clark.</li><li><strong>Female hypnosis:</strong> the existing <em>Jane Doe: How to Fire Your Boss</em> record is upgraded to high confidence and cross-filed into forced obedience for its trigger-word sleeper-agent trance.</li><li><strong>Honest zeroes:</strong> no Hallmark title was verified for a pregnant woman hypnotized while pregnant or a remarried woman who is hypnotized. Competing-network lookalikes and unproduced pitches remain excluded.</li></ul></div></details>\n<details open=\"\"><summary>Vertical short dramas: 13 mothers become pregnant again</summary><div class=\"note-body\"><p>The 1 October 2026 multilingual sweep adds 13 deduplicated vertical-short records to the mother-pregnancy view. The English HoneyReels title <em>Two Babies in One Birth: Daddy, Mummy is Pregnant Again</em> and the Mandarin <em>一胎两宝：爹地妈咪又怀了</em> share the same cast and are therefore one record.</p><ul><li><strong>Visible-pregnancy evidence:</strong> <em>For the Custody, I Slept with a Billionaire</em> has direct episode-level baby-bump wording. <em>They Locked Her Daughter in the Car</em>, <em>A Baby, a Billionaire, And Me</em> and <em>CEO Wants My Little Rascal</em> have medium-strength anchors through emergency labor, belly-touching and maternity shopping, or on-screen ultrasound and pregnancy-test scenes.</li><li><strong>Scope caveats retained:</strong> <em>Unconditionally Loved by the Lycan Billionaire</em> has mixed DramaBox / Stardust TV attribution. <em>诞下二胎，父母破局</em> and <em>Ditch The Mommy Duties After Reborn</em> involve adult daughters, while <em>Reborn At Sixty, I'm Pregnant Again</em> is an elderly-mother rebirth fantasy.</li><li><strong>Held outside the catalog:</strong> <em>Beg Me, My Mafia Ex-Husband</em> remains unfiled because the available synopsis does not establish the parentage or timing of “her child” relative to the new pregnancy. The titleless 借种怀二胎 upload and all other unresolved leads also remain unfiled pending a verified title or stronger plot evidence. The visible-pregnancy follow-up found no additional net-new title meeting its screen-evidence bar.</li></ul></div></details>\n<details open=\"\"><summary>Vertical short dramas: 8 verified hypnosis titles, including 2 strict pregnancy-era matches</summary><div class=\"note-body\"><p>The 1 October 2026 hypnosis-and-pregnancy sweeps found seven titles for the broad hypnotized-to-love / relationship-role view. A separate five-vector female-hypnosis sweep reviewed roughly 70 additional query rounds and adds <em>Stay Away! She's a Violent Psycho!</em> to the forced-obedience view. <em>Snake Year Salvation: CEO's Bargain Bride</em> and <em>I Accidentally Had the Billionaire's Twins</em> also qualify for the strict pregnant-while-hypnotized category.</p><ul><li><strong>New forced-obedience addition:</strong> <em>Stay Away! She's a Violent Psycho!</em> is a medium-high-confidence NetShort drama of approximately 80 episodes. Mr. Jensen uses Dr. Clark to hypnotize Jessie Bennett for control and punishment; episode 58 shows Jessie resisting the pocket-watch attempt, while episode 61 says six years of torture left her immune to hypnosis. The release year and exact episode count remain unconfirmed.</li><li><strong>Strict pregnancy-era overlap:</strong> <em>Snake Year Salvation</em> has adjacent episode-guide evidence for the heroine carrying a baby and being hypnotized with a pocket watch. <em>I Accidentally Had the Billionaire's Twins</em> places Kathy's kidnapping and hypnosis after a marker identifying her as pregnant and before the six-year jump; its pregnancy timing is inferred from those markers and remains medium-high confidence.</li><li><strong>Follow-up love-category addition:</strong> <em>Broken Bone Rose</em> is a medium-confidence Mandarin vertical drama in which a man erases his bodyguard's memories through hypnosis to keep her. Two independent uploads support the mechanism and direction, but the year and episode count remain unconfirmed.</li><li><strong>Pregnancy timing unresolved:</strong> <em>Sweet Strategy: Mr. Vance's Ex Is Too Proud</em> links the hypnosis incident to a later pregnancy discovery, but does not establish whether Elena was already pregnant during the hypnosis.</li><li><strong>Other verified female-control titles:</strong> <em>Twisted Vows</em> pairs hypnosis with a forced new identity and fiancée role; <em>They Called Me the Fake Heiress, But My Birthright Was Far Greater</em> uses pill-assisted hypnosis to impose false “rebirth” memories; and <em>Taste of the Wild</em> uses chime-based mind control, with a retained Emma/Rachel name discrepancy and mixed controller direction.</li><li><strong>Resolved exclusions and open leads:</strong> <em>被催眠的她 / Hypnotized Her</em> is rejected because the plot attributes the wife's perceptions to mental illness, not literal hypnosis. <em>Scratch Your Fate</em> episode 59 is rejected because Olivia is the hypnotizer and her pregnancy is only alleged. <em>My Childhood Friend Hypnotized Me To Love Another</em>, <em>被束缚后她觉醒了</em>, and unidentified YouTube edits remain outside the catalog pending corroboration.</li><li><strong>Coverage result:</strong> the separate female-hypnosis sweep found no additional verified title in its Chinese-vertical, Asia-regional, Latin America / EMEA or recap-aggregator vectors. Search indexing remains weak for several platforms, so those are documented search zeroes, not proof that no other title exists.</li></ul></div></details>\n<details open=\"\"><summary>Hypnotized to marry or love: worldwide max sweep, including short-form vertical dramas</summary><div class=\"note-body\"><p>The 1 October 2026 sweep reviewed 16 candidates across eight multilingual research vectors and roughly 150 query rounds. After reconciling the finished sweep against the current catalog, two records are net-new and four existing records are cross-filed into this plot category without duplicating them.</p><ul><li><strong>Net-new:</strong> <em>Kiss Me, Even If It Burns</em> is the key DramaBox-style vertical short-series find; billionaire Dylan Pitt erases bodyguard Scarlet Novak’s memories so she will fall in love with him anew. <em>Eternally Yours</em> verifies a hypnosis scheme to win back an ex-wife, but the reconciliation outcome remains unconfirmed.</li><li><strong>New category memberships:</strong> The current catalog already held <em>The Brides of Dracula</em>, so its vampiric mesmerism toward a devoted “bride” bond and interrupted forced marriage is cross-filed rather than duplicated. <em>The Kiss of the Vampire</em> transfers Marianne’s devotion from her husband to Ravna; <em>She Did What He Wanted</em> compels adult Nora’s “loving” devotion without marriage; and <em>Naagin 3</em> hypnotizes Bela toward divorce and an interrupted nikah with Shahnawaz.</li><li><strong>Already covered:</strong> <em>Road to Rio</em>, both <em>Flash Gordon</em> versions, <em>Devil Doll</em>, <em>Carefree</em>, <em>Don’t Go Breaking My Heart</em>, <em>El maleficio 2</em>, <em>The Hypnotist</em> (1911), and <em>Skin Deep in Love</em>.</li><li><strong>Excluded:</strong> <em>How to Be Very, Very Popular</em> (1955) remains outside the catalog because its accidental hypnosis is incidental to the romance. MENA/Africa/Russia and East/Southeast Asia produced no net-new verified title in this pass; those are documentation results, not proof that none exist.</li></ul></div></details>\n<details open=\"\"><summary>Woman bargains with the devil or a demon for pregnancy / a child: 9 core matches + 1 failed-deal variant + 11 unresolved leads</summary><div class=\"note-body\"><p>The 30 September 2026 multilingual sweeps now support nine core records: six knowing feature-film cases, one knowing short and two unknowing fertility schemes. A high-confidence episode in which both fertility rituals fail is separated as a variant, and eleven thinner or structurally adjacent leads are not counted as verified core matches. Every card states the pregnancy outcome and the evidence caveat.</p><ul><li><strong>New verified additions:</strong> <em>Pengabdi Setan / Satan's Slaves</em> and <em>Soulful</em> are high confidence; <em>Exorcismo Negro</em> is medium-high confidence with a witch-mediated devil link; and the erotic-horror film <em>Secta Sinestra / Bloody Sect</em> is a medium-confidence tricked fertility-clinic case.</li><li><strong>Failed-deal variant:</strong> <em>American Horror Story: Coven</em> “Boy Parts” is high confidence on plot, but Cordelia's paid and sex-magic fertility rituals do not result in pregnancy. The counterparty is practitioner Marie Laveau rather than the devil directly.</li><li><strong>Source discrepancies retained:</strong> <em>The Surrogate</em> now says “pregnancy outcome ambiguous” because its pre-production pitch says she cannot get pregnant while release loglines say she struggles to stay pregnant. The <em>American Horror Stories</em> “BA'AL” card now records that Liv's husband faked the haunting; only the final beat suggests the real Ba'al may take hold.</li><li><strong>Adult / R-rated / erotic search:</strong> one medium-confidence tricked case—<em>Secta Sinestra</em>—survived the worldwide search, but no title verified a knowing bargain. This is a documented search result, not proof that no other title exists.</li><li><strong>Structural pattern:</strong> the knowing-deal protagonists are childless or barren, except the already-pregnant woman in <em>Soulful</em>, whose bargain seeks a healthy birth. No verified title was found in which an existing mother bargains for another child.</li><li><strong>Common exclusions:</strong> the deal seeks wealth, beauty, revenge or saving a life; the child is the price rather than the object; a husband or family member makes the deal; or the woman is impregnated, possessed or cursed without making any bargain. <em>Rosemary's Baby</em>, <em>Devil's Due</em>, <em>The First Omen</em>, <em>Pari</em>, <em>Impetigore</em> and <em>AHS: Delicate</em> therefore remain outside this exact category.</li><li><strong>Regional result:</strong> verified core cases remain concentrated in Indonesian / Malay-language horror, with Nigerian, Brazilian, Spanish and U.S. examples. No verified soap-opera or telenovela title surfaced, and thin regional-horror indexing remains an open documentation gap.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant sexual pleasure scenes: 5 verified additions from a worldwide sweep</summary><div class=\"note-body\"><p>The 30 September 2026 multilingual sweep added five deduplicated titles to the existing pregnancy-sex section: two high-confidence, one medium-high-confidence and two medium-confidence findings. Each card states whether pleasure is directly verified, inferred from pregnancy-era intimacy, or supported through scene dialogue and reviews.</p><ul><li><strong>Marital comedy:</strong> <em>Catastrophe</em> S2E1 shows deeply pregnant Sharon and Rob mid-coitus when their son walks in; it also appears in the child-walk-in category.</li><li><strong>Erotic drama and arthouse intimacy:</strong> <em>A Frozen Flower</em> establishes the Queen’s new pregnancy before a passionate library encounter; <em>Los días que vendrán</em> contains explicit couple sexuality during pregnancy, though no source specifically documents moaning.</li><li><strong>R-rated comedy and affair / new partner:</strong> <em>How to Plan an Orgy in a Small Town</em> depicts a heavily pregnant participant reaching orgasm; the Nollywood film <em>The Pregnant Widow</em> has a consensual steamy scene with a new partner, but its exact release year remains unverified.</li><li><strong>Search boundary:</strong> 18 borderlines or unresolved leads and 81 unique near-misses were reviewed. More than 20 regional or format veins returned no verified match, including the worldwide adult / erotic plot-index pass at high confidence. This is a documentation result, not proof that no other title exists.</li><li><strong>Not promoted:</strong> <em>Titane</em>, <em>Jamón, jamón</em> and <em>Rosemary Is Pregnant Again</em> remain outside the catalog because the pregnancy timing, pleasure element or direct participation could not be established strongly enough.</li></ul></div></details>\n<details open=\"\"><summary>Partner hires a third party to hypnotize or mind-control wife / girlfriend: 5 verified</summary><div class=\"note-body\"><p>This worldwide multilingual sweep found five verified matches: four research additions and one upgraded existing catalog record. It is the rarest node in this trope family: stories more often make the partner the controller, use an uncommissioned villain, or rely on a communal conspiracy.</p><ul><li><strong>Verified motives:</strong> regain her love or stop her leaving (<em>Maalaala Mo Kaya</em> “Gayuma”); change or “cure” her behavior (<em>While You Were Sleeping</em>); extract a secret or locate hidden money (<em>Tee Ratra</em> and <em>The Honeymooners</em> “Sleepy Time Gal”); and malicious elimination for inheritance and another relationship (<em>Sleep, My Love</em>).</li><li><strong>Honest-zero regions:</strong> Latin America and Spain, including telenovelas; the Middle East and Turkey; Europe; Japan; Chinese-language markets; Thailand; Indonesia; sub-Saharan Africa; and adult / erotic indexes worldwide.</li><li><strong>Evidence boundary:</strong> the partner must arrange a third party and the wife, girlfriend or fiancée must herself be subjected to hypnosis, mind control, brainwashing or magical will override. Ordinary manipulation, self-performed control and the wrong target are excluded.</li></ul></div></details>\n<details open=\"\"><summary>Female controlled by husband, boyfriend or ex-partner: 29 entries after the round-2 worldwide sweep</summary><div class=\"note-body\"><p>The 1 October 2026 round-2 sweep adds five high-confidence relationship matches to the unified partner-controller view. Four are husband-as-controller stories—<em>A hipnotizált feleség</em> (1932), <em>Paris 1900: Feydeau</em> “The Ribadier System” (1964), <em>Tales of Wells Fargo</em> “The Gold Witch” (1962), and the 2005–06 Alex North arc of <em>Days of Our Lives</em>—while <em>Mil sexos tiene la noche</em> (1984) is the verified boyfriend-controller find.</p><ul><li><strong>Current husband:</strong> the four new titles span Hungarian short comedy, British television farce, a U.S. western episode and a U.S. daytime-soap arc. Each directly documents a husband hypnotizing his wife; the <em>Days of Our Lives</em> record is distinct from the already cataloged 1994–95 Stefano/Marlena storyline.</li><li><strong>Current boyfriend:</strong> <em>Mil sexos tiene la noche</em> is an erotic-horror film in which Fabián hypnotically controls girlfriend Irina for revenge. The existing adult-audience record is cross-filed here rather than duplicated. Earlier supported matches <em>O Beijo do Vampiro</em> and <em>Silence of Sleep</em> remain.</li><li><strong>Ex-boyfriend:</strong> no new title surfaced; <em>Caminhos do Coração</em> and <em>Scott Pilgrim vs. the World</em> remain the verified examples.</li><li><strong>Ex-husband:</strong> no verified direct case was found, the sixth worldwide confirmation of an honest zero. <em>Desejos de Mulher</em> remains a near-miss because the ex-husband hires a corrupt psychiatrist rather than performing the control himself.</li><li><strong>Adult / erotic search:</strong> the dedicated worldwide pass remains nearly barren, but is no longer zero: <em>Mil sexos tiene la noche</em> is one high-confidence exact match. <em>Mind Twister</em> and <em>Sins of Desire</em> were checked and rejected; <em>Jacquette</em> and <em>The Hypnotized / Faceless Beauty</em> remain relationship-status borderlines.</li><li><strong>Coverage:</strong> twelve regional and format vectors searched local-language sources across Eastern Europe, Africa, India, East and Southeast Asia, the Middle East, Latin America, Western television, soaps and adult-audience cinema. About 120 near-misses were reviewed; thin episode indexing in several markets remains a documentation gap, not proof of absence.</li></ul></div></details>\n<details open=\"\"><summary>Partner engages a hypnotist for his pregnant wife/girlfriend: 1 verified dual-membership</summary><div class=\"note-body\"><p><strong>Scope:</strong> the woman’s partner engages a third-party hypnotist; she is pregnant at the time.</p><p><strong>Round-2 research note:</strong> Round-2 deep sweep (~144 reference surfaces) found this the only verified title; other leads did not verify; adult/erotic indexes yielded no matches.</p></div></details>\n<details open=\"\"><summary>Pregnancy-control restructure: 8 strict cases + 23 variants or leads + 8 Indian-language non-pregnant cases</summary><div class=\"note-body\"><p>The 30 September 2026 combined sweep replaces the former mixed pregnancy-and-trance section with two explicit standards and moves eight Indian-language, non-pregnant records out of the broad forced-obedience category into a dedicated regional view. Five new records were added after title, year and language checks; three existing titles gained category membership without duplication.</p><ul><li><strong>Strict core · 8:</strong> <em>The Stranger Within</em>, <em>Jessica Jones</em> season 1, <em>Black Magic Part 2</em>, <em>Uzumaki</em> episode 3, <em>Ultrasound</em>, <em>The Antichrist</em>, <em>O Beijo do Vampiro</em> and the Amália arc of <em>Caminhos do Coração</em>. The two Brazilian serials are clearly marked as timing-inferred borderlines.</li><li><strong>Variants and leads · 23:</strong> five possession cases, three therapeutic or diagnostic cases, one fetus-targeting case, one possible control-caused pregnancy, one cult-coercion case, four adult-animation variants and eight unresolved leads. These cards do not claim strict hypnosis while visibly pregnant.</li><li><strong>Adult / erotic additions:</strong> <em>Saimin Seishidou</em> gains variant membership; <em>Kyonyuu Hitozuma Onna Kyoushi Saimin</em>, <em>Genkaku Cool na Sensei ga Aheboteochi!</em> and <em>Night Shift Nurses</em> are new records. All four are labeled explicit adult animation and control-causing-pregnancy variants, not strict matches.</li><li><strong>Indian-language non-pregnant · 8 moved records:</strong> <em>Bhairava Dweepam</em>, <em>Anandabhadram</em> and <em>Ishanou</em> are grouped under South India and Manipuri cinema; <em>Jiji Maa</em>, <em>Suhani Si Ek Ladki</em>, <em>Ek Tha Raja Ek Thi Rani</em>, <em>Jijaji Chhat Per Hain</em> and the Preeti–Prem episode of <em>Laal Ishq</em> are grouped under Hindi television.</li><li><strong>New non-adult variant:</strong> <em>Birth</em> (2022) is included only as cult coercion during pregnancy; no located source uses hypnosis, trance or mind-control terminology. The Lúcia arc of <em>Caminhos do Coração</em> rests on one quote and remains medium-low confidence.</li><li><strong>Indian pregnancy-control gap-fill:</strong> <em>Aranmanai</em> (2014) and <em>Devi / Abhinetri / Tutak Tutak Tutiya</em> (2016) gain high-confidence membership in the pregnancy-control and devil/evil-force sections without duplicate cards. In both Tamil originals, a ghost is still possessing the wife when her pregnancy is revealed. The adult / R-rated / erotic pass found no qualifying Indian title across the indexed services and film traditions searched.</li><li><strong>Watch list:</strong> <em>418</em>, <em>Pisaasu 2</em>, <em>Kathanar – The Wild Sorcerer</em>, <em>Aathma</em>, <em>Laal Ishq</em> “A Horrid Dream”, <em>Obosheshot</em>, <em>Anveshitha</em>, <em>Andhar Maya</em>, <em>Birth</em> and several thinly documented supernatural serials remain outside the verified set pending release, fuller synopses or episode-level pregnancy-plus-control evidence.</li><li><strong>Verified exclusion:</strong> <em>Ezra</em> (2017) is not a match. The possessed person is Ranjan, while pregnant Priya is never controlled; the story only threatens future possession of their unborn child.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant woman controlled — adult context: 11 supported titles + 2 provisional / implied leads</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide indexed sweep found 13 net-new mainstream adult-context films, television episodes, serials and anime in which a woman is pregnant while controlled or the control causes or targets the pregnancy. Three are literal-hypnosis core cases; eight are supported broader mind-control, possession or supernatural-control variants; two remain provisional or implied. “Adult context” does not claim a literal MPAA R rating for every title. The cards state the available rating evidence; pornography was excluded.</p><ul><li><strong>Evidence profile:</strong> the research assigned seven high, five medium-high and one medium confidence, but <em>Laal Ishq</em> remains provisional and <em>Hell Girl</em> is only implied, so they are separated from the 11 supported titles. All 13 findings were checked against the 805-record pre-edit catalog and are new records. <em>Kavach… Mahashivratri / Kavach 2</em> is distinct from the 2016 <em>Kavach… Kaali Shaktiyon Se</em> season; “Shaitan Ki Beti” is distinct from the two previously cataloged <em>Laal Ishq</em> episodes.</li><li><strong>Mechanism groups:</strong> three literal-hypnosis core cases; one alien-parasite variant; one direct demonic-possession variant; five spirit, ghost, djinn or black-magic variants; one fetal-controller variant; and two separately labeled provisional or implied leads. Each record is also cross-linked into the closest existing mechanism section.</li><li><strong>Key caveats:</strong> Amaunet is dormant late in Sha're's pregnancy in <em>Stargate SG-1</em>; the <em>Hell Girl</em> client's possession is implied rather than airtight; <em>Laal Ishq</em> remains provisional pending a detailed episode recap; and <em>Gece Gelen: Cin Bebek</em> falls to medium confidence under a strict literal-possession test. Sources describe Kathleen in <em>The Devil's Doorway</em> as 16—the adult-context label applies to the film, not the character.</li><li><strong>Search boundary:</strong> 63 near-misses and 97 firm exclusions were reviewed. No net-new title survived in Latin America, Southeast Asia, sub-Saharan Africa or Australia/New Zealand; soap and serial coverage remains thin across several European, Asian, Middle Eastern and African markets. These are documentation gaps, not proof of absence.</li><li><strong>Scope rule:</strong> pregnancy and control must overlap, or the control must cause or target the pregnancy. Postpartum-only control, hauntings without verified control, control of a different character, pornography and already-cataloged titles were excluded.</li></ul></div></details>\n<details open=\"\"><summary>Mother controlled by her current husband or boyfriend: 1 low-confidence inclusion</summary><div class=\"note-body\"><p>The 30 September 2026 adult-audience sweep searched films, TV movies, series, serials, soaps and telenovelas in 15 languages. It found one low-confidence inclusion: <em>El maleficio</em> (1983–84). Widowed mother Beatriz marries sorcerer Enrique de Martino; the official ViX episode 21 guide says he has her “bajo su influjo” (“under his influence/spell”), but the available sources do not prove a magical override of her will, so the card does not claim a verified literal hypnosis scene.</p><ul><li><strong>Verified mechanism groups:</strong> occult / black magic by a current husband has one low-confidence inclusion. Current-husband literal hypnosis, current-boyfriend literal hypnosis, a partner hiring or directing a hypnotist, technological / sci-fi control and vampire mesmerism by a current partner each produced zero verified titles.</li><li><strong>Controller is not the current partner:</strong> <a href=\"https://en.wikipedia.org/wiki/Hypnotic_(2021_film)\" rel=\"noopener\" target=\"_blank\"><em>Hypnotic</em> (2021)</a>, <a href=\"http://www.culturecourt.com/F/Noir/Whirlpool.htm\" rel=\"noopener\" target=\"_blank\"><em>Whirlpool</em></a>, <a href=\"http://bryininberlin.blogspot.com/2025/03/babe-of-yesteryear-allison-hayes-part.html\" rel=\"noopener\" target=\"_blank\"><em>The Hypnotic Eye</em></a>, <a href=\"https://fr.wikipedia.org/wiki/Hypnose_(film,_1999)\" rel=\"noopener\" target=\"_blank\"><em>Stir of Echoes</em></a>, <a href=\"https://fr.wikipedia.org/wiki/Sous_hypnose\" rel=\"noopener\" target=\"_blank\"><em>The Hypnosis</em></a>, <a href=\"https://www.filmaffinity.com/es/evideos.php?movie_id=721807\" rel=\"noopener\" target=\"_blank\"><em>Hypnotized</em> (2004)</a>, <a href=\"https://dmtalkies.com/joko-anwar-nightmares-and-daydreams-recap-episodes-1-7-2024-series/\" rel=\"noopener\" target=\"_blank\"><em>Nightmares and Daydreams</em> “Hypnotized”</a>, <a href=\"https://www.imdb.com/title/tt6143850\" rel=\"noopener\" target=\"_blank\"><em>Distorted</em></a>, <a href=\"https://tr.wikipedia.org/wiki/Sicc%C3%AEn\" rel=\"noopener\" target=\"_blank\"><em>Siccin</em></a>, <a href=\"https://www.youtube.com/watch?v=e4HNxzQGfzQ\" rel=\"noopener\" target=\"_blank\"><em>Sijjin</em></a>, <a href=\"https://www.chilimovie.com/movies/chaotic-ana-vid-179436.html\" rel=\"noopener\" target=\"_blank\"><em>Caótica Ana</em></a>, <a href=\"http://twi-ny.com/tag/best-foreign-language-film/\" rel=\"noopener\" target=\"_blank\"><em>Nights of Cabiria</em></a>, <a href=\"https://happygreenbeans.com/keyword/hypnotist.html\" rel=\"noopener\" target=\"_blank\"><em>Dead Again</em></a>, <a href=\"https://bluray.highdefdigest.com/15931/talesofterror.html\" rel=\"noopener\" target=\"_blank\"><em>Tales of Terror</em></a>, <a href=\"https://fr.wikipedia.org/wiki/Hypnose_(film,_2018)\" rel=\"noopener\" target=\"_blank\"><em>Murderous Trance</em></a>, <a href=\"https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%97%E3%83%8E%E3%83%9E%E3%83%8B%E3%82%A2_%E6%B4%97%E8%84%B3%E5%82%AC%E7%9C%A0\" rel=\"noopener\" target=\"_blank\"><em>Perfect Little Angels</em></a>, <a href=\"https://www.imdb.com/title/tt2984402\" rel=\"noopener\" target=\"_blank\"><em>The Forces of Evil; or, The Dominant Will</em></a>, <a href=\"https://resumo-das-novelas.com/orgulho-e-paixao/orgulho-e-paixao-07-06/\" rel=\"noopener\" target=\"_blank\"><em>Orgulho e Paixão</em></a>, <a href=\"https://www.youtube.com/watch?v=rHwW33a22N8\" rel=\"noopener\" target=\"_blank\"><em>Fallait pas!</em></a> and <a href=\"https://tr.wikipedia.org/wiki/A%C5%9Fk%C4%B1n_B%C3%BCy%C3%BCs%C3%BC_(film,_1998)\" rel=\"noopener\" target=\"_blank\"><em>Practical Magic</em></a> all fail because the controller is someone other than the current husband or boyfriend; several also lack established motherhood or a genuine control mechanism.</li><li><strong>Mother is not actually mind-controlled:</strong> <a href=\"https://en.wikipedia.org/wiki/The_Stepford_Wives_(2004_film)\" rel=\"noopener\" target=\"_blank\"><em>The Stepford Wives</em> (2004)</a> reveals Joanna was never implanted; <a href=\"https://en.wikipedia.org/wiki/The_Stepford_Wives_(1975_film)\" rel=\"noopener\" target=\"_blank\">the 1975 film</a> murders and replaces her; <a href=\"https://it.wikipedia.org/wiki/Hypnotic_(film_2023)\" rel=\"noopener\" target=\"_blank\"><em>Hypnotic</em> (2023)</a> controls the husband instead; <a href=\"https://www.plotexplained.com/movie/the-astronauts-wife/\" rel=\"noopener\" target=\"_blank\"><em>The Astronaut’s Wife</em></a> threatens and telekinetically attacks Jillian without controlling her mind; and <a href=\"https://en.wikipedia.org/wiki/Rosemary's_Baby_(film)\" rel=\"noopener\" target=\"_blank\"><em>Rosemary’s Baby</em></a> uses conspiracy, sedation and exploitation rather than mind control of Rosemary’s will.</li><li><strong>Motherhood is not established:</strong> <a href=\"https://www.imdb.com/title/tt0250531\" rel=\"noopener\" target=\"_blank\"><em>Amore e ipnotismo</em></a> otherwise fits the husband-hypnotizes-wife pattern; <a href=\"https://en.wikipedia.org/wiki/King_of_the_Zombies\" rel=\"noopener\" target=\"_blank\"><em>King of the Zombies</em></a> implies husband-caused trance; and <a href=\"https://www.youtube.com/watch?v=iUqQbMt5N3Y\" rel=\"noopener\" target=\"_blank\"><em>被催眠的她</em></a> ultimately frames the apparent hypnosis as psychosis and does not establish motherhood.</li><li><strong>Reversed direction or wrong victim:</strong> <a href=\"https://en.wikipedia.org/wiki/Mesmerized_(film)\" rel=\"noopener\" target=\"_blank\"><em>Mesmerized</em></a>, <a href=\"https://statrokaboo.web.app/434.html\" rel=\"noopener\" target=\"_blank\"><em>The Stepford Husbands</em></a>, <a href=\"https://www.imdb.com/title/tt0741233\" rel=\"noopener\" target=\"_blank\"><em>Dr. Damon’s Experiment</em></a>, <a href=\"https://www.imdb.com/title/tt1236971\" rel=\"noopener\" target=\"_blank\"><em>Mother Is Strong on Hypnotism</em></a>, <a href=\"https://www.imdb.com/title/tt1626839\" rel=\"noopener\" target=\"_blank\"><em>Hypnotizing Mother-in-Law</em></a> and <a href=\"https://www.imdb.com/title/tt4289228\" rel=\"noopener\" target=\"_blank\"><em>The Hypnotic Wife</em></a> control a husband, another man or a mother-in-law instead of the partner-mother.</li><li><strong>No qualifying mechanism:</strong> <a href=\"https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%86%D9%88%D9%85_%D9%85%D8%B9_%D8%A7%D9%84%D8%B9%D8%AF%D9%88_(%D9%81%D9%84%D9%85)\" rel=\"noopener\" target=\"_blank\"><em>Sleeping with the Enemy</em></a> uses ordinary coercive abuse; <a href=\"https://en.wikipedia.org/wiki/Lady_Possessed\" rel=\"noopener\" target=\"_blank\"><em>Lady Possessed</em></a> does not make the husband the cause. The 2023 <a href=\"https://en.wikipedia.org/wiki/El_maleficio_(2023_TV_series)\" rel=\"noopener\" target=\"_blank\"><em>El maleficio</em></a> remake keeps the same mother-and-sorcerer-husband setup but remains excluded because no source explicitly describes magical control of Beatriz’s will.</li><li><strong>Scope note:</strong> “Adult-audience” is not a claim that every title has a verified literal R / 18+ certificate. Pornographic titles and explicit detail were excluded. The search covered English, Spanish, Portuguese, Hindi, Turkish, Arabic, French, German, Italian, Russian, Chinese, Japanese, Korean, Thai and Indonesian / Malay; empty mechanism groups are documentation results, not proof that no title exists.</li></ul></div></details>\n<details open=\"\"><summary>Wife with children pregnant by another man: 30 verified titles + 1 lead</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide multilingual sweep required all three conditions at the time of pregnancy: the woman is married, she already has at least one child, and the pregnancy’s biological father is a man other than her husband. Thirty screen titles met that test; <em>Amor en custodia</em> remains a separately labeled medium-confidence lead.</p><ul><li><strong>Evidence profile:</strong> the Western and Latin American sweep contributed 23 verified titles (19 high confidence, four medium-high); East Asia, Turkey, the Middle East and Africa contributed six; and South Asia contributed one high-confidence Malayalam film, <em>Ore Kadal</em>. <em>Empresses in the Palace</em> remains medium confidence because an imperial consort is not a straightforward monogamous “wife.”</li><li><strong>Plot groups:</strong> the cards separate concealed or passed-off paternity, revelation and marriage fallout, pregnancies by an ex-lover, wives who leave the husband, and husband-aware or open-secret arrangements. Period and literary adaptations are labeled on their cards rather than duplicated.</li><li><strong>Pregnancy-loss cases:</strong> miscarriage or stillbirth does not remove a title when the pregnancy itself is established. The relevant cards identify the outcomes for <em>Anna Karenina</em>, <em>Jules et Jim</em> and <em>亲爱的小孩</em>.</li><li><strong>Excluded corrections:</strong> <em>EastEnders</em>’ “Sheanu” arc is excluded because a 2023 retcon makes Phil, not Keanu, Albie’s father. The September 2026 <em>Bold and the Beautiful</em> Steffy / Carter arc is excluded because DNA ruled Carter out and paternity remains unresolved. <em>Koi Suru Haha-tachi</em> is excluded because the father is deliberately ambiguous.</li><li><strong>Near-miss boundary:</strong> childless wives, pregnancies conceived before marriage, uncertain or husband-confirmed paternity, IVF or surrogacy mix-ups, and affair plots with no pregnancy are not counted. Strong documented near-misses include <em>Ullozhukku</em>, <em>Zachariayude Garbhinikal</em>, <em>Mpali</em>, <em>Deedan</em> and <em>MithiJhora</em>.</li><li><strong>Coverage gaps:</strong> no verified exact match survived in Germany, Spain, Hong Kong, Taiwan, Japan, Southeast Asia, Arabic regions, Iran, Africa, anime, Hindi screen works or several South Asian regional-language sweeps. Episode-level soap documentation, Chinese vertical dramas, Brazilian SBT / Record catalogs, African soaps and Kannada sources remain thin; these are documentation gaps, not proof of absence.</li></ul></div></details>\n<details open=\"\"><summary>Partnered woman hypnotized or controlled into infidelity: 3 accepted titles + 2 leads</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide multilingual sweep found three accepted titles covering four woman-instances, plus two clearly separated leads whose screen metadata or exact relationship reading could not be fully verified. To qualify as an accepted match, the woman must have an established husband, fiancé or boyfriend, and hypnosis, mesmerism or another genuine control mechanism must cause the romantic or sexual betrayal.</p><ul><li><strong>Evidence profile:</strong> the accepted set has two high-confidence and two medium-confidence woman-instances. <em>Intermezzo</em> is retained as a medium-confidence lead because its indexed synopsis supplies the exact causal plot but not verified production metadata; <em>Verliefd</em> is a low-confidence lead because its medium, country and pronoun antecedent remain uncertain. Three titles are new catalog records; <em>The Curse of the Jade Scorpion</em> and <em>Horror of Dracula</em> gain this category without duplication.</li><li><strong>Controller groups:</strong> supernatural or occult predator compulsion accounts for both Dracula films; a stage hypnotist drives the comedy case; manipulating voices drive <em>Intermezzo</em>; and <em>Verliefd</em> remains an ambiguous low-confidence lead.</li><li><strong>Documented empty groups:</strong> no verified case was found for a rival lover acting as hypnotist, a husband or partner testing or entrapping the woman, an ex-lover’s revenge, or a soap or telenovela villain using hypnosis to break up a couple.</li><li><strong>Near-misses:</strong> <em>Buffy the Vampire Slayer</em> episodes “Him” and “Something Blue” use supernatural love compulsion, but Buffy has no established partner in either episode. NBC’s <em>Dracula</em> (2013) gives engaged Mina a mutual, largely voluntary attraction to Grayson without a verified compelled act. <em>Days of Our Lives</em> has the brainwashed Princess Gina attempt to seduce John in 2019, but no completed infidelity is established.</li><li><strong>Open verification:</strong> <em>Intermezzo</em> lacks confirmed production metadata; <em>Verliefd</em> lacks confirmed medium, country and pronoun antecedent; and the 1958 <em>Dracula</em> seduction detail currently rests on specialist fandom wikis. No qualifying Asian, Latin American, African or Middle Eastern title was verified in this pass; those absences are documentation gaps, not proof that none exist.</li></ul></div></details>\n<details open=\"\"><summary>Adult female hypnosis — R-rated-equivalent worldwide: 180 verified findings</summary><div class=\"note-body\"><p>The 30 September 2026 multilingual catalog now combines the 129-title mainstream baseline with a 51-title adult / erotic gap-fill sweep across films, television series and serials, TV movies, soap operas, anime, shorts and one television variety program. “Adult / erotic” is a cross-country content description rather than a literal MPAA rating. The latest fold-in adds six new explicitly flagged adult / erotic records: <em>Mil sexos tiene la noche</em>, <em>The Erotic Rites of Frankenstein</em>, <em>Emmanuelle vs. Dracula</em>, <em>The Hypnotist</em> (1936), <em>Saimin Seishidou</em> and <em>Gakuen Saimin Reido</em>.</p><ul><li><strong>Evidence profile:</strong> 99 findings are high confidence, 52 medium-high, 23 medium and six low-medium. All 180 findings are grouped by plot mechanism so wife-control, therapist abuse, criminal hypnosis, vampire mesmerism, serial arcs, supernatural-romance cases and erotic-thriller uses can be compared directly.</li><li><strong>Gap-fill contribution:</strong> the additional 51 findings comprise 21 high, 16 medium-high, nine medium and five low-medium cases. They add adult cable / direct-to-video thrillers, European stage-hypnosis television, Hong Kong Category III black-magic films, Mexican vampire cinema and Australian, New Zealand, French and German serial episodes.</li><li><strong>Scope boundary:</strong> pure possession without hypnosis framing and teen or child victims are excluded from the adult gap-fill. Explicit adult-only material is limited to the six newly added, separately flagged titles; therapeutic and voluntary sessions remain included when an adult woman is actually hypnotized, and cards distinguish those from coercive, criminal or erotic control.</li><li><strong>Identity and episode cautions:</strong> <em>El barón del terror</em> has a disputed wife-versus-girlfriend reading; <em>Shortland Street</em>, <em>Didi der Untermieter</em> and the <em>Laal Ishq</em> serpent-husband story still lack a pinned episode date; the <em>Neighbours</em> 1988 card flags unverified wife status; and <em>The Hunger</em> still lacks a verified character name.</li><li><strong>Mechanism cautions:</strong> <em>The Eternal Evil of Asia</em> and <em>Spell</em> retain low-medium confidence because control direction or evidence quality is incomplete. <em>Forever Knight</em> rests on a recap, while <em>Nocturnal</em> verifies the vampire-hypnotherapist premise but not an erotic element.</li><li><strong>Searched gaps:</strong> no verified African production survived the exact hypnosis test; none was verified in Pakistan, Israel or Iran. Spanish, Portuguese and Italian episode guides, French TV movies, Indian regional cinema and deeper anime indexes remain incompletely mined. These are documentation gaps, not proof of absence.</li><li><strong>Near-miss rule:</strong> male-only victims, women acting as hypnotists without an adult female target, fake hypnosis, pure possession and unconfirmed title-only leads are not counted among the 180.</li></ul></div></details>\n<details open=\"\"><summary>Wife or female character forcibly hypnotized to obey: 61 stronger cases + 8 separated variants or leads</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide max-list sweep (8 regional vectors, all Indian languages plus worldwide, adult and R-rated titles included) supplied 30 proposed additions and 15 membership grants. Catalog-wide reconciliation found four of the proposed additions already present as records — <em>Dracula’s Daughter</em>, <em>Candyman</em> and <em>The Diabolical Dr. Z / Miss Muerte</em> merged on title match, and the <em>Laal Ishq</em> icchadhari-naag / Preeti–Prem episode (Nov 2018) matched its existing adult-hypnosis record — so the final fold-in adds 26 unique records and 19 memberships (3 merges + 16 explicit grants) without duplicate cards. <em>Hypnose</em> (1920) is confirmed to be <em>Sklaven fremden Willens</em> and is upgraded from lead to stronger case; the previously cataloged <em>Laal Ishq</em> “Bhavishyawaani” episode is a different episode and keeps its own separate record. The category covers literal hypnosis, mesmerism, post-hypnotic suggestion and clearly induced occult trance used to compel killing, theft, self-harm, sexual submission, espionage, escape assistance or domestic obedience.</p><ul><li><strong>Category restructure (30 Sep 2026):</strong> the eight Indian-language titles from this sweep — <em>Jiji Maa</em>, <em>Suhani Si Ek Ladki</em>, <em>Ek Tha Raja Ek Thi Rani</em>, <em>Jijaji Chhat Per Hain</em>, <em>Bhairava Dweepam</em>, <em>Anandabhadram</em>, <em>Ishanou</em> and the <em>Laal Ishq</em> icchadhari-naag / Preeti–Prem episode — now live in the dedicated “Indian-language female hypnotized against her will (non-pregnant)” category, leaving 69 entries here (61 stronger cases, 5 variants, 3 unresolved leads). A 1 October vertical-short follow-up adds <em>Stay Away! She's a Violent Psycho!</em>: Mr. Jensen directs Dr. Clark's coercive hypnosis of Jessie Bennett, episode 58 shows her resisting the present attempt, and episode 61 attributes her hypnosis immunity to six years of earlier torture. The release year and exact episode count remain open. Their sweep coverage is described below for the record.</li><li><strong>Strongest clusters:</strong> husbands or domestic controllers; criminal hypnotists; abusive psychiatrists; stage hypnotists; fraudulent gurus; and supernatural trance controllers. The set spans silent shorts, films, television episodes, telenovelas, soap operas and adult animation from 1909 to 2026, and now covers Hindi, Telugu, Malayalam, Manipuri, Japanese, Portuguese, Spanish, Turkish, Kazakh, Russian, French and English sources.</li><li><strong>New sweep coverage:</strong> Indian-language soaps (<em>Jiji Maa</em>, <em>Suhani Si Ek Ladki</em>, <em>Ek Tha Raja Ek Thi Rani</em>; the <em>Laal Ishq</em> icchadhari-naag episode joined via membership grant rather than a duplicate record); Indian regional film (Telugu <em>Bhairava Dweepam</em>, Malayalam <em>Anandabhadram</em> as a consent-caveat variant, Manipuri <em>Ishanou</em>); Japanese television (<em>Nemureru Mori</em>, anime <em>Kizetsu Yusha to Ansatsu Hime</em>); Brazilian and Mexican telenovelas (<em>Carinha de Anjo</em>, <em>O Cravo e a Rosa</em>, <em>O Profeta</em>, <em>Doña Macabra</em>); Turkish vampire film <em>Drakula İstanbul'da</em> (1953); Kazakh <em>Gipnoz</em> (2026) and Russian <em>Ulovki razuma 3</em>; English-language TV episodes (<em>Smallville</em> “Hypnotic”, <em>Charlie's Angels</em> “Attack Angels”, <em>Wonder Woman</em> “The Pied Piper”, <em>Hannibal</em> “Kaiseki”, <em>Sleepy Hollow</em> S2E4); and classic plus R-rated horror (<em>Dracula's Daughter</em>, <em>Voodoo Man</em>, <em>The Lair of the White Worm</em>, <em>Candyman</em>, <em>Fright Night</em> 1985 and 2011, <em>The Diabolical Dr. Z</em>). Membership grants (no new records) include <em>Cure</em>, <em>Faceless Beauty</em>, <em>The She-Creature</em>, <em>Guilt by Design</em>, <em>Saimin</em> (1999), <em>Kolchak</em> “Bad Medicine”, <em>Augustine</em>, <em>Magpakailanman</em>, <em>True Blood</em>, <em>Rasputin the Mad Monk</em>, <em>The Dunwich Horror</em>, <em>The Vampire Lovers</em>, <em>Lust for a Vampire</em>, <em>Skin Deep in Love</em>, <em>O Beijo do Vampiro</em> and the <em>Laal Ishq</em> icchadhari-naag / Preeti–Prem episode.</li><li><strong>Separated boundary cases:</strong> <em>The Vise</em> has a disputed synopsis reading; <em>Power of Suggestion</em> and <em>Fallait pas!</em> do not verify performed obedience; <em>Night of the Eagle</em> uses witchcraft-induced trance; and <em>Murder Me Twice</em> begins with a volunteered party trance framed as past-life regression or possession. <em>Anandabhadram</em> joins the variants with a consent caveat. The unresolved-leads group contains <em>Morgana</em>, <em>Vash</em> and <em>Le Viol du vampire</em> (single-source “comme hypnotisée”). <em>Jijaji Chhat Per Hain</em> is now a full member of the dedicated Indian-language category, where its comedy-gag caveat remains visible.</li><li><strong>Adult-animation flag:</strong> <em>Saimin Ryoujoku Gakuen</em> and <em>Saimin Jutsu Zero</em> are included separately at low-medium confidence because their synopses concern explicit sexual exploitation.</li><li><strong>Verified exclusions:</strong> therapeutic memory recovery without compelled obedience, voluntary mesmerism, fake hypnosis, male-only victims, and stories where the woman is the hypnotist remain outside the category. Examples include <em>The Hypnotist</em> (2012), <em>The Great Hypnotist</em> (2014), <em>Hypnosen</em> (2023), <em>Montecristo</em>, <em>Il potere dell’ipnotismo</em>, <em>House No. 13</em> and <em>Hypnotized by Beautiful Women</em>.</li><li><strong>Documented gaps:</strong> Tamil and Kannada remain a structural zero (possession, not trance, drives those plots); sub-Saharan Africa has ~zero verified matches; no Italian or Spanish-language film match was verified; the Nikkatsu / pinku hypnosis vein is an indexing gap rather than proof of absence. The earlier soap-opera and Latin American telenovela gaps were closed by this sweep.</li><li><strong>Open leads:</strong> <em>Vash</em> (2023) was not independently re-verified in this sweep but already has prior catalog sourcing; <em>Système Ribadier</em>, <em>El Hipnotizador</em>, Thailand’s <em>Hypnotic</em> (2025), <em>Lep Krut</em> and several fragmentary titles still lack enough plot detail for this exact category. <em>Caminhos do Coração</em> was left out: the against-will element of Rodrigo’s hypnosis of Amália was not confirmed to this category’s standard.</li></ul></div></details>\n<details open=\"\"><summary>Stepmother / bonus mom hypnotized or mind-controlled: 3 supported matches + 1 borderline case</summary><div class=\"note-body\"><p>The 30 September 2026 multilingual worldwide sweep found three supported stories in which a stepmother is corrupted, possessed, cursed or enchanted against her will, plus one low-confidence short where demonic possession is only suspected. Confidence is capped at medium-high because the findings rest on indexed plot summaries and reviews rather than live viewing.</p><ul><li><strong>Supernatural and enchanted-object control:</strong> <em>Snow White: A Tale of Terror</em> uses an evil mirror spirit; <em>The Wishing Box</em> uses demonic possession through a cursed artifact; and <em>Disenchanted</em> uses a wish that turns into an evil-stepmother curse. Each card preserves the report’s caveat about complicity, single-source evidence or a self-initiated spell going wrong.</li><li><strong>Borderline case:</strong> <em>The StepMother</em> (2011) is retained at low confidence because its synopsis only says priests investigate possible possession; neither actual possession nor the cast-to-role mapping is confirmed.</li><li><strong>Documented empty controller groups:</strong> no verified match was found with a human hypnotist or criminal villain, the stepmother’s husband or stepfather figure, a child, or another non-supernatural controller.</li><li><strong>Mother controlled by a new husband / stepfather:</strong> no verified match was found in which the controller is genuinely a stepfather to at least one of the woman’s children. Generic husband-controls-wife plots and abusive-stepfather stories without hypnosis were excluded.</li><li><strong>Near-miss boundary:</strong> reverse-direction stories where the stepmother controls someone else, ordinary wicked-stepmother plots, torment without mind control, and unconsciousness without control remain outside the category.</li><li><strong>Coverage limit:</strong> soap-opera and telenovela episode guides, Indian supernatural serials and Indonesian sinetron were only surface-searched. The empty groups record a documentation gap, not proof that no example exists.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant stepmother / bonus mom: 5 verified titles + 1 low-confidence lead</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide multilingual sweep verified five screen stories in which a woman who is already a stepmother or established bonus-mom figure becomes pregnant during the plot. Four titles are newly added; <em>Yeh Hai Mohabbatein</em> and <em>The Bold and the Beautiful</em> gain this category without duplicate records.</p><ul><li><strong>Bonding and displacement anxiety:</strong> <em>The Brightest Roof in the Universe</em> centers Tsubame’s fear of being left out after stepmother Asako becomes pregnant. <em>Madrasta</em> pairs Audrey’s baby with Lauren’s public acceptance of her as “madrasta.”</li><li><strong>Pregnancy loss:</strong> <em>Yeh Hai Mohabbatein</em> celebrates Ishita’s pregnancy after she becomes Ruhi and Aditya’s stepmother, then ends the arc in miscarriage after an accident.</li><li><strong>Adoption and a new sibling:</strong> <em>Mi marido tiene familia</em> places Julieta’s pregnancy while she and Juan Pablo are finalizing the adoption of his son David, who initially rejects the idea of a sibling.</li><li><strong>Paternity-mystery boundary:</strong> <em>The Bold and the Beautiful</em> verifies Brooke’s pregnancy and Ridge’s older children, but the exact marriage / stepmother chronology is complicated by Brooke’s engagement to Nick in the same arc, so it is medium-high confidence.</li><li><strong>Low-confidence lead:</strong> <em>Allein unter Müttern</em> has simultaneous pregnancies for widower Harald’s daughter and girlfriend Sabine, but the available synopsis does not establish Sabine as an existing stepmother before her pregnancy.</li><li><strong>Existing complementary category:</strong> the separate “Single mom remarries and gets pregnant with new partner” section already holds the previously verified Pattern B titles. This new sweep found no additional title beyond that established set; <em>The Stepdaughters</em> and <em>Five Enough</em> remain near-misses because the relevant mother does not become pregnant.</li><li><strong>Coverage gaps:</strong> targeted Portuguese, Korean, Turkish, Spanish, French and German searches produced no further verified match. Indonesian, Thai, Urdu/Pakistani, Bengali, South Indian serials, Russian/Eastern European, African and Scandinavian productions were not systematically exhausted, so absence is not proof that no case exists.</li></ul></div></details>\n<details open=\"\"><summary>Remarried wife controlled by her new husband or a stepfather figure: no verified exact match</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide sweep found no screen title proving all three required elements together: the woman is in a second-or-later marriage, she is genuinely hypnotized or mind-controlled, and the controller is her new husband or a stepfather figure. The search covered English, Spanish, Hindi, Indonesian, Korean, Chinese, Russian, Turkish and Tagalog queries across film, television, soaps, telenovelas and anime-adjacent sources.</p><ul><li><strong>Closest related variant:</strong> both the original and remake of <em>El maleficio</em> place widowed or single mother Beatriz in a new marriage to occultist Enrique de Martino, who becomes stepfather to her children and pursues the marriage in connection with her son. Direct hypnosis or mind-control of Beatriz herself is not documented.</li><li><strong>Unverified husband-control leads:</strong> <em>My Husband’s Deadly Past / Woman on the Edge</em> documents a psychiatrist husband altering his wife’s memories through hypnosis, but no source establishes remarriage or stepfather status. The Mandarin short drama <em>被催眠的她 / The Hypnotized Her</em> suggests husband-directed hypnosis or induced delusion, but its full plot and the wife’s remarriage status remain unverified.</li><li><strong>Clear exclusions:</strong> <em>Sleep, My Love</em>, <em>The Mask of Diijon</em>, <em>Thunderbolt: Magun</em>, <em>The Stepford Wives</em> and <em>Don’t Worry Darling</em> involve husband-directed control without a sourced prior marriage. <em>Mesmerized</em>, <em>Ek Thi Daayan</em> and <em>The Hypnotic Wife</em> reverse the requested controller–victim direction. <em>Hypnotic</em>, <em>The Dark Tower</em>, <em>The Night Walker</em>, <em>Return of William Marr</em>, <em>The Stepfather</em> and <em>Til Death Do Us Part</em> fail the marriage, controller or genuine mind-control requirement.</li><li><strong>Open questions:</strong> Episode-level evidence could still establish direct control of Beatriz in <em>El maleficio</em>; Karen / Mackenzie’s prior-marriage history in <em>My Husband’s Deadly Past</em> remains unknown; and the complete plot of <em>被催眠的她</em> was not available in searchable sources. No matching mainstream anime title was verified.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant single mother controlled by her new husband or child’s stepfather: no verified exact match</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide sweep found no screen title satisfying all five essential conditions at once: the woman already has a child; she is single or widowed before the relationship; she is pregnant during the control arc; the controller is her new husband or her existing child’s stepfather; and the plot uses genuine hypnosis, supernatural control, drugs or conditioning, technology, or another real loss-of-agency mechanism.</p><ul><li><strong>Strongest near-miss:</strong> <em>Pan’s Labyrinth / El laberinto del fauno</em> satisfies the family, widowhood, pregnancy and stepfather conditions, but Captain Vidal’s control is mundane patriarchal and military abuse rather than hypnosis or mind control.</li><li><strong>Original <em>El maleficio</em>:</strong> Beatriz is a widowed mother who marries sorcerer Enrique, but she is not pregnant—her daughter Vicky is—and direct hypnosis of Beatriz is not established.</li><li><strong>2023–24 <em>El maleficio</em> remake:</strong> Beatriz is again a single mother who marries Enrique, but her pregnancy and explicit mind control are both unverified.</li><li><strong>Excluded weaker leads:</strong> <em>Rosemary’s Baby</em> and the 2016 Kaal arc of <em>Sasural Simar Ka</em> do not receive this category because they fail the prior-child / stepfather or new-husband-controller structure.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant woman controlled by a fetus, dead-child ghost or alien child: 18 catalog entries</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide sweep produced twelve verified findings for this narrow direction of control. Reconciliation against the current catalog added eight new records and gave the new category to four existing records from the sweep, plus six already-cataloged overlaps named for additional membership.</p><ul><li><strong>Agentic unborn, fetal or alien controllers:</strong> fifteen entries involve an unborn child, fetus, fetal-form entity or alien child exerting control or supernatural influence over a pregnant woman.</li><li><strong>Dead-child ghosts:</strong> three Japanese entries involve murdered, aborted or unborn child spirits usurping a pregnancy or dominating a pregnant woman’s womb.</li><li><strong>Living psychic-child gap:</strong> no verified case of a living psychic child hypnotizing or mentally dominating a pregnant woman was found in any region. This subcategory is documented as empty rather than omitted.</li><li><strong>Serial-format gap:</strong> no soap-opera, telenovela or TV-serial subplot matching this direction of control was verified. Anthology and episodic television findings remain included where supported.</li><li><strong>Confidence:</strong> the twelve sweep findings retain their supplied HIGH, MEDIUM-HIGH, MEDIUM or MEDIUM-LOW labels. Existing records keep their established confidence wording unchanged.</li></ul></div></details>\n<details open=\"\"><summary>Female character controlled by a child or teen: 52 catalog entries</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide sweep found 50 numbered main-list findings and three already-cataloged titles. One episode—<em>The Twilight Zone</em>’s “It’s Still a Good Life”—was repeated inside a broader franchise finding, so it is consolidated rather than shown twice. Reconciliation against the current page produced 52 distinct category entries: 45 new catalog records and seven existing records with this category added.</p><ul><li><strong>Strictest clusters:</strong> living psychic or alien children; dead-child ghosts possessing women or girls; teen witches; and teen superpowers, magical artifacts or technology that override a female character’s will.</li><li><strong>Unborn controllers:</strong> <em>Baby Blood</em>, <em>Prevenge</em>, <em>The Unborn</em> (1991) and <em>Help</em> treat a fetus, unborn spirit or fetal-form entity as the controller. Each card keeps that eligibility caveat.</li><li><strong>Boundary cases remain visible:</strong> several controllers are ancient entities in child bodies, child-shaped demons, teenage ghosts, a doll acting on a child’s emotions, or children using transformation, coercion or a single supernatural command rather than classic hypnosis. These are labeled medium, low-medium or low confidence rather than presented as strict matches.</li><li><strong>Coverage:</strong> the verified set spans films, TV episodes, series arcs, a miniseries, anime and animation across North America, Europe, South and East Asia, Taiwan and Mexico. No verified TV movie surfaced. Searches in several additional regions returned only reverse-direction cases or unverified leads; absence here reflects a documentation gap, not proof that no example exists.</li><li><strong>Excluded direction:</strong> stories where adults or entities control children, or where a child attacks a woman without mentally controlling her, remain outside this category.</li></ul></div></details>\n<details><summary>Child-controller category: unresolved leads and near-misses</summary><div class=\"note-body\"><p>The research did not promote claims that lacked a verified child controller, female controlled target or mind-control mechanism.</p><ul><li><strong>Future verification:</strong> <em>Laal Ishq</em> S01E45 (“Madhu”) and an <em>Aahat</em> episode described as “The Possessed Mother” lack a source establishing the controller’s identity or age. “Witch-child” films from Nollywood and Ghallywood surfaced without proof of hypnosis, possession or puppeting.</li><li><strong>Female-target gap:</strong> <em>Whisper</em>, <em>Case 39</em> and <em>Freaks</em> feature child controllers or mind-manipulation powers, but sourced controlled victims are male or the woman is threatened rather than mentally dominated.</li><li><strong>Wrong direction:</strong> <em>The Haunting of Bly Manor</em>, <em>The Demon Headmaster</em>, <em>Storm of the Century</em>, <em>Aatma</em>, <em>Bandish</em>, <em>Belapur Ki Dayan</em> and <em>Incantation</em> place the child on the receiving end of control or use an adult/entity as the controller.</li><li><strong>Attack is not control:</strong> <em>Weapons</em>, <em>The Visitor</em>, <em>Brightburn</em>, <em>Tin &amp; Tina</em> and <em>Goodnight Mommy</em> involve attack, restraint, intimidation or destabilization without verified mental puppeting of a female character.</li></ul></div></details>\n<details open=\"\"><summary>Husband’s ex-wife or ex-lover controls the current wife: 25 findings</summary><div class=\"note-body\"><p>This worldwide section separates literal possession, voodoo or trance, black magic, and close variants in which the mechanism or relationship geometry deviates. Five titles already had catalog records and gained the new category without duplication; 20 are new. A pre-existing duplicate pair for <em>Siccîn</em> (2014) was consolidated, so the catalog rises from 493 to 512 unique records.</p><ul><li><strong>Exact possession pattern:</strong> dead first wives, ex-wives, ex-girlfriends or former lovers possess the current wife in the two direct-possession groups.</li><li><strong>Hypnosis gap:</strong> no verified genuine stage-style hypnosis instance of the exact pattern was found. <em>Ouanga</em> is the closest trance case and remains under witchcraft because its mechanism is voodoo.</li><li><strong>Close variants:</strong> the cards explicitly label haunting without control, a bride or girlfriend rather than a wife, an unrequited admirer, third-party orchestration and unverified story-line possibilities.</li><li><strong>Documented near-misses:</strong> <em>Blithe Spirit</em>, <em>Raaz</em> (2002) and <em>El fantasma de Elena</em> use haunting, intimidation or attack without possession or mind control. <em>Bepanah Pyaar</em> reveals the “new wife” as the first wife under another identity; <em>Qubool Hai</em> uses blackmail and scheming only. The book <em>Entre a Terra e o Céu</em> is outside screen scope, and <em>Laura Sin Censura</em> is non-fiction.</li><li><strong>Research provenance:</strong> consolidated from the South Asia, Latin America / Spain / Portugal, East and Southeast Asia, and Western world plus Middle East / Africa sweeps, with separate verification of <em>She Waits</em>. Working reports: <code>husband-exwife-hypnosis-southasia/report.md</code>, <code>husband-exwife-hypnosis-latam/report.md</code>, <code>husband-exwife-hypnosis-eastasia/report.md</code>, <code>husband-exwife-hypnosis-western/report.md</code>, and <code>husband-exwife-hypnosis-consolidated/report.md</code>.</li></ul></div></details>\n<details open=\"\"><summary>Wife hypnotized or controlled by a therapist: 7 strict matches</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide pass found seven strict matches: six high-confidence titles and one medium-confidence 1912 silent short. All are films; no confirmed TV series, serial, soap opera, telenovela, anime or web-series match survived verification. That is a documentation gap, not proof that none exists.</p><ul><li><strong>Evil or criminal exploitation:</strong> <em>Whirlpool</em> and <em>Hypnotic</em>.</li><li><strong>Coercive or investigative hypnosis:</strong> <em>Tee Ratra</em> and <em>Amore e ipnotismo</em>; the latter rests on a single IMDb plot summary, and its Italian origin remains probable rather than fully verified.</li><li><strong>Benevolent or therapeutic:</strong> <em>The Three Faces of Eve</em> and <em>The Hypnotist / Hypnotisören</em>.</li><li><strong>Treatment turning romantic or obsessive:</strong> <em>The Hypnotized / Faceless Beauty</em>.</li><li><strong>Reconciliation:</strong> six titles already had catalog records and gained the new category without duplication; <em>The Three Faces of Eve</em> is the only net-new record.</li></ul></div></details>\n<details open=\"\"><summary>Parents intimate while children sleep: 6 scene-linked titles + 1 thematic near-match</summary><div class=\"note-body\"><p>The 29–30 September 2026 worldwide pass found six titles with source support connecting a sleeping child to the romantic or intimate scene, plus one separately labeled thematic near-match. They are grouped by where the sleeping child is and how directly the intimacy is established. The trope is rarely described at scene level, so each card keeps the report’s confidence tier and caveat.</p><ul><li><strong>Same room or crib:</strong> <em>Shaadi Ke Side Effects</em> has a sustained baby-in-bedroom and disrupted-intimacy thread; the 2 March 2018 <em>Yeh Hai Mohabbatein</em> episode places a mild romantic beat immediately after Pihu’s bedtime story, though her exact proximity is not fully explicit.</li><li><strong>Adjacent room or nearby:</strong> <em>Malcolm in the Middle</em> “Sleepover” has Reese asleep in the hallway while Dewey remains awake; <em>Everybody Loves Raymond</em> “Halloween Candy” is a clearly sourced but interrupted attempt after the children are asleep; the 26 December 2017 <em>Yeh Hai Mohabbatein</em> episode is a very mild downstairs moment.</li><li><strong>Other variants:</strong> <em>Parasite</em> places the sleeping child in a garden tent on the same property. <em>Mind the Malhotras</em> verifies the parents’ bedroom role-play and family context but not a specific sleeping-child scene, so it remains thematic only.</li><li><strong>Coverage limit:</strong> no verified TV movie or soap-opera-specific match was found beyond the Indian serial episodes, and no title was found in the Middle East or Africa. The result reflects a documentation gap rather than proof that other scenes do not exist.</li><li><strong>Excluded:</strong> pure walk-ins remain in the separate child-walks-in category. Cases with an awake child, absent children or no sourced sleep detail were not promoted.</li></ul></div></details>\n<details open=\"\"><summary>Adopt a child, then become pregnant: 21 verified titles</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide source-index pass verified 21 distinct titles with the requested order: a child is adopted first, then the mother, wife or partner becomes pregnant. Sixteen are high confidence, two medium-high and three medium; four additional marginal or unusual variants are shown separately and do not inflate the core count.</p><ul><li><strong>Infertility-driven sequence:</strong> 19 titles involve, or likely involve, a couple who adopts after difficulty conceiving and later has a pregnancy. Where infertility is inferred rather than explicit, the card says so.</li><li><strong>Same-sex and foster-to-adopt cases:</strong> <em>The Fosters</em> is the one same-sex-couple case; it and <em>Parenthood</em> include foster-to-adopt chronology.</li><li><strong>Family tension:</strong> six titles connect the later pregnancy or biological child to jealousy, favoritism or conflict involving the adoptee: <em>Ama, Ina, Anak</em>, <em>Malignant</em>, <em>Law &amp; Order: SVU</em>, <em>Only Murders in the Building</em>, <em>Yu-Gi-Oh! GX</em> and <em>ThunderCats</em>.</li><li><strong>Outcome caveat:</strong> the pregnancies in <em>Smallville</em> and <em>The Fosters</em> end in miscarriage; both still satisfy the adopt-then-pregnant sequence and are labeled accordingly.</li><li><strong>Open gaps:</strong> no confident example was found where adoption is used specifically to repair a marriage or stop waiting, and no core single-parent case was verified. English-indexed sources also yielded no confirmed fit in Latin American telenovelas, Turkish dizis, Korean or Chinese drama, Russian/Ukrainian melodrama, Nollywood, or continental European television.</li></ul></div></details>\n<details><summary>Adopt-then-pregnant: marginal variants and exclusions</summary><div class=\"note-body\"><p>Four separately labeled cards preserve leads that approach the pattern without meeting every strict criterion: <em>The Reaping</em> lacks a formal adoption and involves rape; <em>Omen IV: The Awakening</em> uses supernatural implantation; <em>CSI: NY</em> lacks independent proof of adoption-before-conception; and <em>Neighbours</em> uses a step-parent adoption of the later-pregnant woman’s biological son.</p><ul><li><strong>Verified non-fits:</strong> <em>Instant Family</em>, <em>Friends</em>, <em>This Is Us</em>, <em>The Light Between Oceans</em> and several other common leads fail the chronology or never include the later pregnancy.</li><li><strong>Surrogacy exclusions:</strong> <em>Rules of Engagement</em>, <em>Shameless</em> and <em>Amor à Vida</em> use surrogacy or surrogate-like arrangements rather than the requested sequence.</li><li><strong>Research limit:</strong> none of the 25 displayed core and variant entries was verified in a live research browser; confidence labels reflect index sourcing, corroboration and the report’s stated caveats.</li></ul></div></details>\n<details open=\"\"><summary>Duplicate reconciliation</summary><div class=\"note-body\"><p>Six confirmed duplicate pairs were consolidated on 30 September 2026, reducing the index from 467 to 461 records without removing any category membership, plot detail, evidence label or source.</p><ul><li><strong>Merged records:</strong> <em>Aval / Gruham</em> (2017), <em>Sijjin</em> (2023), <em>Alone</em> (2015), <em>1920</em> (2008), <em>Arundhati</em> (2009) and <em>Kavach… Kaali Shaktiyon Se</em> (2016).</li><li><strong>Kept separate:</strong> remakes and same-title films from different years, plus records describing distinct victims, controllers or story arcs.</li><li><strong>Still under review:</strong> the similarly labeled <em>Nazar</em>, <em>Tantra</em>, <em>Qayamat Ki Raat</em> and <em>El maleficio</em> records require plot-level confirmation before any further merge. <em>Bhool Bhulaiyaa</em> and <em>Manichitrathazhu</em> also retain their existing therapeutic-hypnosis and supernatural-boundary records until category placement is resolved.</li></ul></div></details>\n<details open=\"\"><summary>Worldwide female hypnosis and mind-control expansion</summary><div class=\"note-body\"><p>The 29 September 2026 research report lists 211 findings: six in hypnotized-to-love, one in husband-controls-wife, one pregnant-woman possession case, and 203 entries across nine new mechanism categories. Two findings—<em>The Thief of Bagdad</em> and <em>Don’t Worry Darling</em>—were already in the catalog, yielding 209 net-new records. The report states that these titles were checked against Wikipedia, IMDb, episode guides and entertainment press; because it does not map individual titles to individual pages, each new card preserves that shared source basis rather than assigning a narrower citation.</p><ul><li><strong>Largest new groups:</strong> 55 spirit, ghost or djinn cases; 33 sci-fi, alien or technological cases; 29 human-villain cases; 28 Western occult cases; and 20 vampire-mesmerism cases.</li><li><strong>Regional structure:</strong> the spirit-possession category keeps separate groups for Indian films, Indian television, Korean titles, Thai and Filipino titles, and Turkish, Arab, Latin and African titles.</li><li><strong>Scope:</strong> verified exclusions from the report were not added. Existing catalog records and their original caveats remain in place.</li></ul></div></details>\n<details open=\"\"><summary>India: 41 female hypnosis and mind-control titles</summary><div class=\"note-body\"><p>This 30 September 2026 source-index pass adds or re-verifies 41 unique Indian films, television series, soaps, telefilms and anthology episodes across Hindi, Tamil, Telugu, Malayalam, Kannada, Marathi and Gujarati: 37 high-confidence titles and 4 possible cases. The cards are categorized by the controlling mechanism and preserve every source-level caveat.</p><ul><li><strong>Love, marriage or relationship:</strong> five high-confidence stories place a woman under a spell or possession that drives a marriage or romantic pursuit.</li><li><strong>Husband-controlled wife:</strong> <em>Tee Ratra</em> is now a high-confidence match: a suspicious husband commissions a psychiatrist friend to traumatize and hypnotize his wife so she reveals her secret.</li><li><strong>Villain or tantrik control:</strong> nine titles use hypnosis, black magic, trance or supernatural enslavement for revenge, violence, sacrifice or another criminal aim.</li><li><strong>Supernatural control:</strong> possession is the largest cluster, with film and serial entries spanning seven Indian languages. <em>Vish</em> and <em>Pishachini</em> remain possible because the available source wording does not fully establish the control mechanics.</li><li><strong>Drugs or psychological manipulation:</strong> <em>Yeh Vaada Raha</em> is high confidence; <em>Vish Ya Amrit: Sitara</em> is a possible deception-based brainwashing case rather than literal supernatural control.</li><li><strong>Coverage limit:</strong> English-indexed sources yielded no confirmed 1960s–70s Bollywood title. Most verified cases date from 1980–2025, and regional-language episode recaps remain unevenly indexed.</li></ul></div></details>\n<details open=\"\"><summary>Indonesia: 8 focused female-control findings</summary><div class=\"note-body\"><p>The 30 September 2026 focused source pass contributes eight Indonesian productions across films, sinetron, web television and a YouTube short-film series. Three plots are verified by multiple sources; five remain possible because they rely on one outlet or leave the exact control mechanism unclear.</p><ul><li><strong>Love or relationship control:</strong> <em>Ilmu Hipnotis – Gara Gara Gendam Istriku Diambil Orang</em> and <em>Guna-Guna Isteri Muda</em> are possible cases involving gendam or love magic.</li><li><strong>Supernatural control:</strong> <em>Sijjin</em>, <em>Sewu Dino</em> and the 2024 <em>Guna-Guna Istri Muda</em> are verified; <em>Kitab Sijjin &amp; Illiyyin</em> remains possible on a single source.</li><li><strong>Other hypnosis:</strong> <em>Sepatu Super</em> has a reported hypnosis-to-hatred plot, while <em>Malam Minggu Miko</em> confirms only an episode titled “Hipnotis Vania”; both remain possible.</li><li><strong>Open gap:</strong> no confirmed Indonesian or Indian title in this focused pass showed a woman controlled by her own husband.</li></ul></div></details>\n<details><summary>India: checked but excluded</summary><div class=\"note-body\"><p>The expanded pass removed leads that did not prove external control of a female character.</p><ul><li><strong>Dissociative or split-personality plots:</strong> <em>Bhool Bhulaiyaa</em> (2007), <em>Manichitrathazhu</em> (1993), <em>Apthamitra</em> (2004) and <em>Chandramukhi</em> (2005) were excluded because their resolution is psychological rather than external hypnosis or brainwashing.</li><li><strong>Wrong victim or mechanism:</strong> <em>Munjya</em> possesses a male character; <em>Ek Thi Daayan</em> uses regression hypnosis on a man; <em>Qayamat Ki Raat</em> does not establish female mind control; and <em>Bulbbul</em>, <em>Pari</em>, <em>Shaapit</em> and <em>1920 London</em> do not confirm the requested female-control plot.</li><li><strong>Unverified:</strong> the Bengali <em>Arundhati</em> remake lacked a title-specific source, while <em>L7</em> surfaced only through a trailer. Neither is promoted into the catalog.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant-woman control in India &amp; Indonesia: focused regional set</summary><div class=\"note-body\"><p>The dedicated regional filter consolidates eight sourced records from two focused 30 September 2026 research passes: seven Indian titles and one Indonesian title. Six are direct, high-confidence pregnancy-and-control cases; <em>Iblis dalam Kandungan</em> is a medium-high-confidence attempted-possession case; and <em>Bandh Darwaza</em> is a conception-time close variant.</p><ul><li><strong>Indian films:</strong> <em>Help</em> (Hindi), <em>Lapachhapi</em> (Marathi) and its Hindi remake <em>Chhorii</em> directly overlap pregnancy with possession or supernatural compulsion. <em>Bandh Darwaza</em> (Hindi) is kept separate because the verified hypnosis occurs at conception.</li><li><strong>Indian television:</strong> <em>Laal Ishq</em>, <em>Naagin 3</em> and <em>Sasural Simar Ka</em> have episode-recap evidence for pregnancy plus possession, hypnosis, black magic or direct mental commands.</li><li><strong>Indonesia:</strong> <em>Iblis dalam Kandungan</em> follows pregnant Amelia as a female spirit tries to enter and possess her body to claim the baby; the available synopses do not establish whether full possession succeeds.</li><li><strong>Coverage limit:</strong> no additional verified Indonesian sinetron or TV movie was found, and no separate verified Tamil, Telugu, Malayalam, Kannada, Bengali, Bhojpuri, Odia or Assamese title met the same-character, same-pregnancy test.</li></ul></div></details>\n<details><summary>Indian pregnant-woman hypnosis and mind-control pass</summary><div class=\"note-body\"><p>The consolidated 30 September 2026 Indian-language pass verified six high-confidence cases—three films and three television stories—plus one Hindi-film close variant. All involve a supernatural controller: a ghost or spirit, witches, a demonic unborn child or a vampire. The same woman must be pregnant while controlled; the conception-time variant is kept separate because hypnosis is not verified after the pregnancy begins.</p><ul><li><strong>High-confidence films:</strong> <em>Help</em> (Hindi), <em>Lapachhapi</em> (Marathi) and <em>Chhorii</em> (Hindi). Each directly overlaps pregnancy with possession or supernatural compulsion.</li><li><strong>High-confidence television cases:</strong> <em>Laal Ishq</em> (“Dhruv, Sonya, Unhappy Pregnant Soul”), <em>Naagin 3</em> and <em>Sasural Simar Ka</em>. Their episode recaps establish both pregnancy and possession, hypnosis, a spell or direct mental commands.</li><li><strong>Close variant:</strong> <em>Bandh Darwaza</em> (1990). Neola hypnotizes and impregnates Lajo; the hypnosis occurs at conception rather than during an already-established pregnancy.</li><li><strong>No naturalistic case verified:</strong> the search found no Indian plot in which a husband, doctor or criminal hypnotizes a pregnant woman for abortion, baby theft or revenge.</li><li><strong>Regional-language gap:</strong> beyond the Marathi film <em>Lapachhapi</em>, targeted searches found no separate verified Tamil, Telugu, Malayalam, Kannada, Bengali, Marathi television, Bhojpuri, Odia or Assamese title. Hindi serials dubbed into other languages are not counted twice.</li></ul></div></details>\n<details><summary>Worldwide pregnant-woman control category</summary><div class=\"note-body\"><p>With the Indian and Indonesian updates, this category contains 19 high-confidence direct-control or possession cases and 18 close or medium-confidence variants. Every card labels the mechanism and the strength or limitation of its evidence.</p><ul><li><strong>High-confidence mechanisms:</strong> demonic possession, AI brainwashing, alien or embryo influence, an unborn parasite, a demon fetus, ghost possession, black magic and direct mental commands from an unborn entity.</li><li><strong>Close and medium-confidence boundary:</strong> attempted possession, conception-time hypnosis, cult or medical reproductive coercion, supernatural pregnancy with ambiguous control, haunting or influence that stops short of clear possession, and single-source cases.</li><li><strong>Regional entries:</strong> <em>Help</em>, <em>Lapachhapi</em> and <em>Chhorii</em> are the verified Indian film cases from the latest pass, while <em>Iblis dalam Kandungan</em> is the medium-high-confidence Indonesian attempted-possession case.</li></ul></div></details>\n<details><summary>Pregnant-woman control: checked but excluded or unresolved</summary><div class=\"note-body\"><p>These titles surfaced in targeted searches but did not prove that the same woman was pregnant while her mind or actions were controlled.</p><ul><li><strong>Focused India exclusions:</strong> <em>Birth</em> confirms an eight-months-pregnant woman trapped by a sinister cult but not hypnosis, commanded acts or a mind-control mechanism. <em>Nazar</em>, <em>Manmohini</em>, <em>Kavach</em>, <em>Naagin 5</em>, <em>Divya Drishti</em>, <em>Tantra</em> and other checked serials fail the pregnancy-and-control overlap. <em>Chhorii</em> and <em>Lapachhapi</em> are now included because the newer source pass explicitly supports supernatural compulsion of pregnant women.</li><li><strong>Other Indian non-fits:</strong> <em>Jadu Tona</em>, <em>Yehh Jadu Hai Jinn Ka!</em>, <em>Vish Ya Amrit: Sitara</em>, <em>Bhool Bhulaiyaa</em>, <em>Alpviram</em>, <em>Qayamat Ki Raat</em>, <em>Savdhaan India</em> “Miseries of a Tormented Wife,” and other <em>Laal Ishq</em> hypnosis episodes did not establish successful mind control of a pregnant woman.</li><li><strong>Indonesian screen titles:</strong> <em>Inang</em>, <em>Sumala</em>, <em>Racun Sangga</em>, <em>Beranak dalam Kubur</em>, <em>Satu Suro</em>, <em>Kuyang</em>, <em>Hi5teria</em>, <em>Malam Jumat Kliwon</em>, <em>Dukun Beranak</em> and the FTV <em>Mendadak Hamil</em> lack same-character pregnancy plus explicit mind control; <em>Dukun</em> is Malaysian and also splits pregnancy and possession between different women.</li><li><strong>Other unverified timing:</strong> <em>Bunshinsaba</em> has a possessed teacher who later gives birth, but pregnancy during possession could not be established.</li><li><strong>Haunted or threatened, not controlled:</strong> <em>Magi</em>, <em>Cin Azabı</em>, <em>The Wrath</em>, <em>The Unborn</em> (2003), <em>Ma</em> and <em>Sakanak</em>.</li><li><strong>Fetus affected or no overlap:</strong> <em>Delivery: The Beast Within</em>, <em>Gauri: The Unborn</em>, <em>El maleficio</em> and <em>El extraño retorno de Diana Salazar</em>.</li><li><strong>No qualifying control:</strong> <em>Xtro</em>, <em>Metamorphosis</em> and several individually checked titles including <em>Still/Born</em>, <em>Bed Rest</em>, <em>Apartment 7A</em>, <em>The Omen</em> and <em>The Last Exorcism Part II</em>.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant mother + child walk-in: one airtight match (Catastrophe S2E1)</summary><div class=\"note-body\"><p>The 30 September 2026 English-indexed search and a follow-up using native-language queries across 12 priority markets established one airtight exact match — <em>Catastrophe</em> S2E1 (2015), in which deeply pregnant Sharon is mid-coitus with husband Rob when their son walks in — alongside one strongest candidate and 24 clearly labeled partial or exclusion cases, including 10 new catalog records from the follow-up; cards are displayed in ascending release-year order within each confidence group, with undated leads last.</p><ul><li><strong>Strongest candidate:</strong> <em>Neighbors 2: Sorority Rising</em> (2016). Pregnancy, toddler Stella and the opening lovemaking scene are supported by multiple sources; Stella’s immediate entrance is stated explicitly in the IMDb plot summary and the associated adult-toy gag is corroborated by reviews. Because a screenplay, subtitles or direct scene check was not available, the exact timing remains unconfirmed and the title is not presented as a fully verified match.</li><li><strong>Strongest new partial:</strong> <em>СашаТаня (SashaTanya)</em>. Alyoshka’s bedroom walk-in is documented in Season 7, but Tanya’s verified twin pregnancy begins six episodes later in the Season 8 premiere; no pregnancy-period walk-in was found.</li><li><strong>Native-language coverage:</strong> targeted searches covered Hindi, Turkish, Spanish, Portuguese, Korean, Japanese, Chinese, Arabic, French, German, Russian and Italian. New partials from Russia, France, Argentina, Italy, Mexico, India, Turkey, Brazil and Japan remain labeled with the exact missing element.</li><li><strong>Open questions:</strong> video, subtitle or transcript access is still needed to determine whether <em>SashaTanya</em> Season 8, <em>Casados con hijos</em> S01E89, <em>Fais pas ci, fais pas ça</em> Season 3 or <em>Un medico in famiglia</em> Season 2 contains a qualifying scene. Moni Argento’s pregnancy may also be a false alarm.</li><li><strong>Not promoted:</strong> <em>A Grande Família</em> fails because Bebel’s pregnancy is her first. Four German or Russian walk-in clips have no pregnancy, so they remain outside the catalog rather than being padded into the partial list.</li></ul></div></details>\n<details open=\"\"><summary>Child walks in on parents’ intimate scene: 39 sourced records</summary><div class=\"note-body\"><p>The category now holds 39 records: 23 shown strict cases involving the couple’s own minor child, four dialogue-confirmed childhood recollections, six adult-offspring cases and six labeled variants or near-misses. Descriptions remain non-graphic, and every card preserves the report’s confidence level and source caveat.</p><ul><li><strong>Strict shown cases:</strong> the own-child set is split by location. Bedroom or sleeping-room entries remain the strictest group; bathroom, living-room and couch interruptions are shown separately without losing their strict own-child status.</li><li><strong>Recounted events:</strong> <em>Veronica Mars</em>, <em>Scrubs</em>, <em>Yellowjackets</em> and <em>Misfits</em> confirm a childhood walk-in through dialogue or transcript, but do not show the event on screen.</li><li><strong>Adult offspring:</strong> <em>Schitt’s Creek</em>, <em>Seinfeld</em>, <em>Life in Pieces</em>, <em>Psych</em>, <em>Titus</em> and <em>Friends</em> are separated because the interrupter is an adult child.</li><li><strong>Other variants:</strong> <em>Soul Food</em> uses a kitchen; <em>Stepmom</em> involves a father and future stepmother; <em>Christmas Evil</em> leaves the exact entry point unclear; <em>South Park</em> S20E04 uses a consensual kink act; <em>F Is for Family</em> has a child already hiding under the bed; and <em>Once Upon a Time</em> is post-coital rather than an interruption.</li><li><strong>Worldwide result:</strong> <em>Catastrophe</em> S2E1 is the first verified pregnant-mother strict match in the catalog and has dual membership in the pregnancy-sex section. <em>Pabbahelgar</em> from Iceland remains the only verified non-English strict title found in the earlier walk-in sweep; its broader native-language searches produced unresolved leads rather than additional confirmed titles.</li><li><strong>Unresolved, not promoted:</strong> exact episodes remain unidentified for <em>Oliver Beene</em>, <em>Ready or Not</em>, <em>The Oblongs</em>, <em>Family Matters</em>, <em>The Drew Carey Show</em> and <em>30 Rock</em>. The French short <em>Surprendre ses parents en train de...</em> has IMDb-only support. <em>Meet the Fockers</em> remains a prior supplied adult-son lead without enough scene detail in this report, and the alleged <em>Blockers</em> stinger is contradicted by available material.</li><li><strong>Firm exclusions:</strong> scenes with one parent and a different partner, a child merely overhearing from outside, an unrelated child, kissing only, averted interruptions or a reversed-direction setup are not included as matches.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant sex and intimate scenes: 18 new records after deduplication</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide sweep expands both existing sections to 17 entries each. Eighteen unique records are new; <em>Outlander</em>, <em>Yeh Hai Mohabbatein</em> and <em>Badhaai Ho</em> were expanded in place rather than duplicated. <em>Neon Bull</em> and <em>Knocked Up</em> were independently reconfirmed and needed no structural change.</p><ul><li><strong>Having sex:</strong> the character is pregnant during an on-screen encounter, or the episode’s plot and sourcing clearly establish that it happened. Subgroups separate established partners, new partners or affairs, comedy, a plot-verified non-consensual case, adult-animation / sex-work context and one timing-caveat case.</li><li><strong>Intimate scenes:</strong> attempted or interrupted sex, sensual or erotic imagery short of intercourse, affectionate non-sexual romance, labor-induction discussion, and sexual fantasy remain distinct from completed sex.</li><li><strong>Evidence boundaries:</strong> <em>A Happy Event</em> rests on one English-language review after native-language searches did not corroborate the scene; <em>The Housemaid</em>, <em>Junichi</em> and <em>Pasión de Gavilanes</em> rely on viewer or fan sources; <em>24 Weeks</em> verifies a sex scene but not the character’s pregnancy at that exact moment. These limits are repeated on the cards.</li><li><strong>Held as near-misses:</strong> <em>Bridal Shower</em> only implies marital relations; <em>Kızılcık Şerbeti</em> does not establish overlap between the romantic episode and pregnancy arc. Other rejected leads either place the scene before pregnancy, only discuss sex, use a false or performer-only pregnancy, or lack a qualifying intimate scene.</li><li><strong>Coverage gaps:</strong> no source-verified African or Arabic-language case was found, and none was verified in Tamil, Telugu, Malayalam, Kannada, Marathi, Bengali, Punjabi, Pakistani, Bangladeshi or Sri Lankan productions. These are documentation gaps, not proof of absence.</li><li><strong>Performer caveat:</strong> a performer being pregnant is not enough unless the character is also pregnant. <em>Neon Bull</em> remains separately labeled because both are true.</li></ul></div></details>\n<details open=\"\"><summary>Category 4: mothers with children under hypnosis or mind control</summary><div class=\"note-body\"><p>The 30 September 2026 research pass found 17 higher-confidence fits and 12 separately labeled borderline or lower-confidence cases. The higher-confidence tier includes 16 English-language titles and one Spanish-language Argentine film. Every card states its mechanism and preserves source-level caveats; several obscure shorts rely only on IMDb synopsis-level evidence.</p><ul><li><strong>Strongest concentration:</strong> demonic-possession horror and witchcraft or technology-driven mind control.</li><li><strong>Open leads:</strong> the Turkish/Indonesian <em>Siccîn/Sijjin</em> line still needs proof that the targeted wife is a mother with an on-screen child. Both versions of <em>El maleficio</em> need episode-level proof of direct mind control rather than deception or intimidation.</li><li><strong>Research basis:</strong> indexed page content and fetched plot text; none of these findings was re-verified in a live research browser during this pass.</li></ul></div></details>\n<details><summary>Category 4: regions and formats checked with no verified fit</summary><div class=\"note-body\"><p>Targeted searches found no additional verified fit in Indian regional cinema, Korean, Japanese, Chinese, Thai or Filipino film and television; Brazilian/Portuguese, French, German, Italian, Russian, Scandinavian, Middle Eastern or African cinema; or Western animation.</p><ul><li><strong>India:</strong> <em>Shaitaan</em> and <em>Vash</em> control the daughter, not the mother.</li><li><strong>Korea:</strong> <em>Hypnotized</em> (2004) involves a married woman, but motherhood was not verified.</li><li><strong>Turkey:</strong> <em>Dabbe: Cin Çarpması</em> involves a possessed woman not established as a mother.</li><li><strong>Other checked non-fits:</strong> <em>Ouija: Origin of Evil</em>, <em>The Possession</em>, <em>The Exorcist</em>, <em>Get Out</em>, <em>The Manchurian Candidate</em>, <em>Mother Is Strong on Hypnotism</em>, <em>Mama</em>, <em>WandaVision</em>, <em>Bring Her Back</em>, <em>The Babadook</em>, <em>Relic</em> and <em>Bless the Child</em> fail the mother-as-controlled-victim rule.</li></ul></div></details>\n<details open=\"\"><summary>Worldwide expansion: 20 strong cases + 7 borderline</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide pass added 20 defensible strong cases and 7 separately labeled borderline cases. Targeted searches covered the United States and Canada, Japan, South Korea, China, India, Latin America, Turkey and the Middle East, Russia/Soviet cinema, and continental Europe. The evidence supports fewer than the requested 40–60 new titles, so the catalog is not padded with weak matches.</p><ul><li>New regional coverage is still concentrated in the United States and Japan. South Korea is represented by <strong>Hypnotized</strong> (2004), and China by <strong>The Love by Hypnotic</strong> (2019).</li><li><strong>The Love by Hypnotic</strong> is supported by a MyDramaList review synopsis and TV Time synopsis, not a viewed transcript.</li><li><strong>Tanken Driland</strong> and <strong>Yatterman</strong> episode 55 remain trope-index-only claims and are not catalog entries until independently verified.</li></ul></div></details>\n<details><summary>Husband hypnotizes or mind-controls wife: dedicated worldwide pass</summary><div class=\"note-body\"><p>This source-index pass identified six strong movie matches, two TV-movie matches and one loose, unverified serial match. Its nine findings are included in the husband-control category and keep their direct, loose or unverified labels on the cards.</p><ul><li><strong>Strong movies:</strong> <em>Amore e ipnotismo</em>, <em>Sleep, My Love</em>, both versions of <em>The Stepford Wives</em>, <em>Tee Ratra</em> and <em>Don’t Worry Darling</em>.</li><li><strong>TV movies:</strong> <em>The Stepford Children</em> is a direct match under the Stepford rule; <em>Revenge of the Stepford Wives</em> is loose because the town’s conspiracy—not Megan’s husband—imposes the conditioning.</li><li><strong>Serial:</strong> <em>被催眠的她</em> (<em>The Hypnotized Her</em>) is loose and unverified because no source establishes that the husband is the hypnotist.</li><li>All findings in this pass rest on indexed page content reviewed 30 September 2026, not live-browser confirmation. The country and original language of <em>Amore e ipnotismo</em> remain unverified.</li></ul></div></details>\n<details><summary>Checked and excluded from “hypnotized to love”</summary><div class=\"note-body\"><ul>\n<li><strong>Shallow Hal</strong> (2001): the man’s perception is altered; no woman is hypnotized into love. <a href=\"https://www.rogerebert.com/reviews/shallow-hal-2001\" rel=\"noopener\" target=\"_blank\">RogerEbert.com</a></li>\n<li><strong>Get Out</strong> (2017): hypnosis enables the Coagula procedure, not romance. <a href=\"https://get-out.fandom.com/wiki/The_Sunken_Place\" rel=\"noopener\" target=\"_blank\">Get Out Wiki</a></li>\n<li><strong>Office Space</strong> (1999): Peter is hypnotized into job apathy; his romance is incidental. <a href=\"https://en.wikipedia.org/wiki/Office_Space\" rel=\"noopener\" target=\"_blank\">Wikipedia</a></li>\n<li><strong>Shaitaan</strong> (2024): occult control is possessive but not romantic. <a href=\"https://english.tupaki.com/entertainment/shaitaanmovietrailer-1344781\" rel=\"noopener\" target=\"_blank\">Tupaki</a></li>\n</ul></div></details>\n<details><summary>Checked and excluded from “husband controls wife”</summary><div class=\"note-body\"><ul>\n<li><strong>Dr. Damon’s Experiment</strong> (1954, <em>The Vise</em>, UK): re-verification shows the husband hypnotizes his wife’s lover, not his wife.</li>\n<li><strong>Hypnotic</strong> (2021, USA): the hypnotherapist is not her husband.</li>\n<li><strong>Rosemary’s Baby</strong> (1968, USA): the husband drugs his wife, but the occult act is performed by the neighbors, not him.</li>\n<li><strong>Mesmerized</strong> (1985/86), <strong>Take Her by Surprise</strong> (1967), <strong>Perfect Little Angels</strong> (1998), <strong>The Stepford Husbands</strong> (1996), <strong>Possession</strong> (2009), <strong>The Hypnosis</strong> (2023), <strong>The Hypnotic Wife</strong>, <strong>Temptation of Wife</strong> (2008–09), and <strong>Night of the Eagle</strong> (1962) also miss the requested perpetrator–victim direction or use no hypnosis of the wife.</li>\n</ul></div></details>\n<details><summary>Titles and regions still unresolved</summary><div class=\"note-body\"><ul>\n<li><strong>The Love Letter</strong>: the 1999 film uses a letter as a love-potion metaphor; the 1998 TV movie is a time-crossed correspondence story. A different intended title would need clarification. <a href=\"https://bostonphoenix.com/archive/movies/99/05/27/THE_LOVE_LETTER.html\" rel=\"noopener\" target=\"_blank\">Boston Phoenix</a> · <a href=\"https://www.imdb.com/title/tt0140340/plotsummary/\" rel=\"noopener\" target=\"_blank\">IMDb</a></li>\n<li>No verified Bollywood hypnosis-into-romance title or movie matching the single-mom-remarriage pattern was found.</li>\n<li><strong>Fantasy Island</strong> S04E06 surfaced, but no accessible plot summary confirmed a hypnosis-into-love story.</li>\n<li>The earlier search found no confirmed soap-opera or telenovela match for this category. That finding is now superseded: <strong>El maleficio</strong> (1983–84), its 2023–24 remake, and <strong>Desejos de Mulher</strong> (2002) are the first confirmed telenovela matches.</li>\n<li>The production country and original language of <strong>Amore e ipnotismo</strong> remain unverified.</li>\n</ul></div></details>",
+   "research_notes_html": "<h2 id=\"notes-heading\">Boundaries &amp; open questions</h2>\n<details open=\"\"><summary>Female hypnosis deep sweep: 7 verified additions after full-catalog dedupe</summary><div class=\"note-body\"><p>The 2 October 2026 pass ran about 117 search rounds across mainstream vertical platforms, adult and erotic screen indexes, recent releases, smaller short-drama platforms and multilingual searches. Seven verified findings are now represented in their existing plot categories: two forced-obedience memberships and five hypno-intimacy memberships.</p><ul><li><strong>Vertical short:</strong> <em>Super Godfather: My Ex Begs Me on Her Knees</em> is the one new verified vertical drama. ReelShort’s official episode 6 page identifies the “Eyes of Rom” hypnosis beat involving Cathey; the card carries the vertical-short badge.</li><li><strong>Memory-manipulation variant:</strong> <em>O Hipnotizador</em> S02E02 “Teresa e as Mariposas” is cross-filed into forced obedience, with the caveat that the episode concerns false-memory manipulation rather than a direct command.</li><li><strong>18+ explicit additions:</strong> <em>The Hypnotist</em> (1936), <em>PPPD-305</em>, <em>Saimin Seishidou / Hypnosis Sex Guidance</em>, <em>Kyonyuu Onna Shikan Sennou Saimin</em> and <em>Saimin Jutsu the Animation 2nd</em> are filed in hypno-intimacy. The two similarly named adult-animation titles are explicitly distinguished from the already-cataloged <em>Kyonyuu Hitozuma Onna Kyoushi Saimin</em> and <em>Saimin Jutsu Zero</em>.</li><li><strong>Dedupe:</strong> four are net-new catalog records; three enrich existing rows. Eleven other researched titles were already represented and were not duplicated. <em>Saimin</em> (1999) remains excluded from female-victim categories because the documented hypnosis victims are male.</li><li><strong>Unresolved leads:</strong> 17 LOW-confidence or title-only leads remain outside the catalog, including <em>My Childhood Friend Hypnotized Me To Love Another</em>, several unidentified dubbed edits and adult listings without enough plot-level support.</li><li><strong>Honest zeros:</strong> no additional adult-only vertical short was verified on the legitimate platforms searched; post-1 October releases, the reviewed obscure-platform indexes and the additional language corners also returned no net-new verified title.</li></ul></div></details>\n<details open=\"\"><summary>Doctor controls female characters for personal gain: 20 verified findings, 7 existing-record overlaps</summary><div class=\"note-body\"><p>The 2 October 2026 worldwide sweep reviewed films, television series and episodes, daytime soaps, telenovelas and adult animation across seven regional and format vectors. Twenty verified findings are grouped by motive; seven already-cataloged titles receive category membership without duplicate records.</p><ul><li><strong>Five motive groups:</strong> 4 sexual-exploitation findings; 5 crime cover-up, silencing or framing stories; 5 cases where a patient is programmed to commit crimes; 4 money, inheritance or power grabs; and 2 romantic or possessive-control stories.</li><li><strong>Confidence:</strong> 13 findings are high confidence and 7 medium. The 17 low-confidence leads are not filed.</li><li><strong>Mechanism honesty:</strong> cards distinguish classical trance from implanted chips, drugs, gaslighting, psychiatric conditioning, machine mind-control, non-trance manipulation, memory alteration and fantasy hypnosis.</li><li><strong>Special flags:</strong> adult and erotic works, female doctors, the 19-year-old patient in <em>Augustine</em>, school settings, a non-doctor counsellor edge and the teen-victim caveat on the 2025 Thai <em>Hypnotic</em> remain explicit.</li><li><strong>Cross-filing:</strong> qualifying sexual-exploitation cases also appear in the adult female-hypnosis doctor/therapist group and the hypnotized-intimacy view; supported forced-obedience cases are cross-filed without creating extra records.</li><li><strong>Coverage limits:</strong> the sweep found no verified additions in Indian cinema or television, short-form vertical dramas, several African and Middle Eastern markets, UK soaps, or the reviewed golden-age explicit-adult and Hong Kong Category III indexes. These are research results, not proof that no other case exists.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant-woman hypnosis sweep: 1 strict update, 4 new variants or leads</summary><div class=\"note-body\"><p>The 2–3 October 2026 worldwide sweep ran 110 query rounds across 13+ languages, covering vertical-short platforms, mainstream film and television, and adult / R-rated indexes. Five catalog updates are retained after full-catalog dedupe: one existing Indonesian film gains strict-core membership, and four new mainstream film or television records join the variants-and-leads view.</p><ul><li><strong>Strict core:</strong> <em>The Womb / Inang</em> (2022) now records that Eva hypnotizes pregnant Wulan into agreeing to stay until after delivery. Two independent plot explainers support the pregnancy-era hypnosis; the card remains medium confidence.</li><li><strong>Supported supernatural variants:</strong> <em>Djinn</em> (2013) and <em>Alkarısı Cinnet</em> (2015) are medium-confidence possession or haunting cases, not literal hypnosis. Their cards state the exact mechanism gap.</li><li><strong>Unresolved leads:</strong> <em>Cin Azabı</em> has an unverified year and does not establish will-override; <em>سحر أسود / Sehr El Aswad</em> confirms a black-magic series but not a pregnant controlled victim. Both remain LOW-confidence leads.</li><li><strong>Held outside the catalog:</strong> <em>Ezedike / The Pregnant Witches</em> is not filed because its pregnant women appear to be agents of unseen forces rather than controlled victims, and no mind-control mechanism is confirmed.</li><li><strong>Honest zeros:</strong> no strict match was verified on the vertical-short platforms searched; no new verified hypno-intimacy or adult / R-rated title survived. In-app-only titles and some native-language platform searches remain an access gap, not proof of absence.</li><li><strong>Dedupe:</strong> <em>Birth</em>, <em>Vashikaranam – Kis Par Rakhe Vishwas</em>, <em>Saimin Seishidou</em>, <em>The Interns</em> S1E17 (previously tracked as “Metamorphosis”) and <em>Karishika</em> were already represented and were not added again.</li></ul></div></details>\n<details open=\"\"><summary>Polygamy + pregnancy + intimate / sex scenes: 99 worldwide findings</summary><div class=\"note-body\"><p>The 1–2 October 2026 worldwide sweep reviewed films, television series and serials, TV movies, soap operas, historical dramas and vertical shorts across ten regional and format vectors. It found 99 distinct titles or leads and grouped them by how closely all three plot elements are documented.</p><ul><li><strong>Multiple wives / partners with pregnancy:</strong> 33 records, including 10 high-confidence strict matches. Formal co-wives, bigamy, live-in parallel households and edge cases such as a mistress or sequential-marriage overlap are distinguished on each card.</li><li><strong>Royal harem / concubine stories:</strong> 29 records, including 11 high-confidence titles and one medium-high title. Nine palace dramas remain low confidence because pregnancy and plural-consort structures are established but intimacy is only implied or off-screen.</li><li><strong>Modern polygamous households:</strong> 8 records spanning HBO drama, Indonesian cinema, Lifetime TV movies, a fantasy-series subplot and vertical drama. Missing pregnancy or intimacy evidence is stated rather than inferred.</li><li><strong>Polyandry variant:</strong> <em>Matrubhoomi: A Nation Without Women</em> is separated from polygyny and carries a prominent sexual-violence caveat; it is not framed as romantic polyandry.</li><li><strong>Unresolved leads:</strong> 28 records remain clearly labeled because pregnancy, depicted intimacy, formal plural-marriage status, release identity or another required element is not yet verified.</li><li><strong>Adult / R-rated / erotic coverage:</strong> the dedicated vector found 12 relevant adult-audience or explicit candidates, including <em>The Concubine</em>, <em>Jan Dara</em>, <em>Versailles</em>, <em>Borgia</em> and <em>The Golden Lotus: Love and Desire</em>. Hardcore pornography was outside the research scope.</li><li><strong>Dedupe:</strong> this category reuses existing catalog rows where the same title and release year were already present, adding a category-specific view instead of a second card.</li></ul></div></details>\n<details open=\"\"><summary>Polygamy + female hypnosis / mind control: 36 category memberships, 6 unresolved leads</summary><div class=\"note-body\"><p>The 1 October 2026 worldwide sweep and strict-scope supplement searched films, television series and serials, TV movies, soap operas, anime, documentaries and adult-audience productions across fourteen complementary regional and format vectors. The catalog now shows 33 supported or borderline research titles plus three related existing records, without adding duplicate rows.</p><ul><li><strong>Five plot-pattern groups:</strong> 10 strict core matches connect plural wives or consorts to hypnosis, possession or occult will-override; 6 harem variants involve concurrent controlled partners rather than wives; 8 cult variants document coercive indoctrination, not literal hypnosis; 9 entries are labeled borderline; and 3 related records are cross-referenced from existing catalog rows.</li><li><strong>Adult / 18+ coverage:</strong> adult, softcore and mature-audience records are explicitly labeled. The worldwide search also covered R-rated and erotic cinema.</li><li><strong>New strict-core coverage:</strong> the supplement adds the 2005 <em>Trapped by the Mormons</em> remake, Egypt’s <em>ساحرة الجنوب / Saherat El Ganoub</em>, India’s <em>Sasural Simar Ka</em>, China’s <em>Creation of the Gods I: Kingdom of Storms</em> and Japan’s <em>Genji Monogatari: Sennen no Nazo</em>. <em>O Beijo do Vampiro</em> now records its confirmed plural-wife dimension while keeping the separate pregnancy-era hypnosis timing question open.</li><li><strong>Honest-zero searches:</strong> the strict review found no additional verified combination in modern European productions, Western soaps, Turkish erotic films, Scandinavian / Eastern European / Oceanian cinema, Iranian titles, most imperial-harem dramas, or the dedicated Latin America / Africa and adult-erotic vectors. These are documentation results, not proof that no other title exists.</li><li><strong>Unresolved leads — not counted as verified:</strong> <em>The 19th Wife</em> (2010), <em>Escape from Polygamy</em> (2013), <em>Hell Is Empty</em> (2021/22), <em>Sharara / شرارة</em> (2026), <em>RadhaKrishn</em> (2018–2023) and an unidentified Thai lakorn. For <em>Sharara</em>, the only located promo describes sihr aimed at the husband rather than a woman, and episode-level confirmation is still missing.</li><li><strong>Explicit exclusions:</strong> <em>Big Love</em>, <em>Sister Wives</em>, <em>The Polygamist</em> (2026), <em>O Clone / El Clon</em>, <em>The Stepford Wives</em>, <em>Get Out</em>, <em>El Maleficio</em> (1983), <em>Shaitaan</em>, <em>Vash</em>, <em>Caminhos do Coração</em>, <em>Bible Black</em>, <em>Queen Seondeok</em> and <em>Kutsujoku</em> fail one prong, reverse the control direction or lack a qualifying plural-wife structure.</li></ul></div></details>\n<details open=\"\"><summary>DramaExpress + short-drama-sites sweep (1 Oct 2026): 7 net-new titles, 4 leads, ~48 exclusions</summary><div class=\"note-body\"><p>The sweep covered 12 platform surfaces: dramaexpress.net, DramaBox, ReelShort, GoodShort, ShortMax and ShortTV, NetShort, DramaWave, FlexTV, ToonShort, Miralune Short and MiniShorts. Seven net-new titles were verified: three forced-obedience entries, three age-gap-marriage entries and one mom-pregnancy borderline/variant.</p><ul><li><strong>LOW leads:</strong> four were reviewed. <em>寒途向新生</em>, <em>My Don Missed My Last Chance to Be a Mother</em> and <em>A Lover's Trap</em> are filed only as clearly labeled unresolved leads, not as verified entries. <em>The Tower That Erased Me</em> is excluded: NetShort describes Chloe being suppressed with antipsychotics in a psychiatric facility, which is chemical sedation rather than hypnosis.</li><li><strong>Exclusions:</strong> roughly 48 candidates were rejected because they used a werewolf mate-bond genre trope rather than hypnosis, ordinary amnesia, telepathy, a plain secret-baby plot, or devil romance without pregnancy.</li><li><strong>Honest zeros:</strong> strict pregnant-while-hypnotized, devil-deal pregnancy, hypno-intimacy plus pregnancy and adult / R-rated / 18+ productions each returned zero; all 12 platforms skew PG-13 / Teen.</li><li><strong>Coverage limits:</strong> no live browser was available, so in-app-only titles remained unreachable. Miralune Short and MiniShorts have no text-searchable web catalogs, while dramaexpress.net is new (about September 2026) and has minimal search-engine indexing.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant + hypnotized round 2: no new strict-core title; two variant outcomes</summary><div class=\"note-body\"><p>The 1 October 2026 super-deep sweep covered seven regional vectors across movies, television, serials, soap operas, anime and adult-audience plot indexes. It found no net-new title meeting the strict rule that the same adult woman is pregnant while an external force overrides her will.</p><ul><li><strong>New close variant:</strong> <em>Don't Turn Around, or You'll Be Sorry / 唔該借歪</em> (2000) is filed in both the evil-force and pregnancy-control-variant views. Five sources describe a ghost seeking to take over pregnant Lisa's body, but the takeover is framed as attempted or thwarted rather than completed.</li><li><strong>Re-identified lead:</strong> the old “Metamorphosis” record is now correctly <em>The Interns</em> S1E17 (1971), a CBS television episode. Pregnancy and episode identity are corroborated, while the diagnostic-hypnosis detail remains single-sourced.</li><li><strong>Corrections:</strong> <em>Alem-i Cin 4</em>'s pregnant character is İrem, not İpek; Turkish sources confirm the pregnancy, but not literal will-override. <em>Saimin Seishidou</em>'s “pregnancy experience” is now labeled simulated, not real. <em>Danger Diva</em>'s source list was reconciled without adding a duplicate.</li><li><strong>Revisit list — not catalog records:</strong> <em>Pregnancy</em> (Nigeria); <em>Zir-i Cin 4: Nesep Bağı</em> (2026); <em>Üç Harfliler: Mühür</em> (2026); <em>Fear Files</em> S3E9; <em>418</em> (Telugu, theatrical release dated 23 October 2026); the unresolved Nollywood demon-pregnancy video; and <em>Revolving Heart / 心门</em> (2017), which still needs a third source and fails strict simultaneity.</li><li><strong>Coverage gaps:</strong> IAFD direct search remained unavailable; Scandinavian and deeper European adult-index passes were not completed; documentation remains thin for several South and Southeast Asian markets. These are search gaps, not claims that no additional title exists.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant belly kissed or touched by kids: 7 verified family-warmth scenes</summary><div class=\"note-body\"><p>The first 1 October 2026 worldwide sweep filed six verified scenes after dedupe. A round-2 deep sweep across six vectors adds one medium-confidence human-character scene, bringing this view to seven records.</p><ul><li><strong>Round-2 addition:</strong> <em>Shang-Chi and the Legend of the Ten Rings</em> shows Ying Li resting young Shang-Chi on her pregnant stomach in a flashback. The card retains the fan-curated-source and visibility caveats.</li><li><strong>Round-1 records retained:</strong> <em>Kim Possible: A Sitch in Time</em>, <em>A Separation</em>, the Vietnamese-titled NetShort series <em>Đuổi Tôi Đi, Giờ Đòi Nhận Con?</em>, <em>Pan's Labyrinth / El laberinto del fauno</em>, <em>Look Who's Talking Too</em> and <em>Parenthood</em>.</li><li><strong>NetShort enrichment:</strong> the child is now identified as Elowen Thorne's own son Elian; the werewolf-romance premise, still-unidentified original title, official-thumbnail verification and possible pregnant-again overlap are recorded on the existing card.</li><li><strong>Scope refinement:</strong> round-2 animal, animated-animal and animal-puppet findings were not filed. Existing round-1 records were left unchanged.</li><li><strong>Coverage result:</strong> the dedicated adult / erotic vector returned an honest structural zero.</li></ul></div></details>\n<details open=\"\"><summary>Hallmark six-topic sweep: 11 titles filed across four views</summary><div class=\"note-body\"><p>The 1 October 2026 sweep reviewed Hallmark Channel, Hallmark Mystery, Hallmark+, and the Crown Media / Hallmark Hall of Fame back catalog across six requested plot patterns. It adds ten net-new records and upgrades one existing record, <em>Jane Doe: How to Fire Your Boss</em>, without duplication.</p><ul><li><strong>Pregnant female character:</strong> eight titles appear in the new Hallmark-specific view. Seven are high confidence; <em>Signed, Sealed, Delivered: A Tale of Three Letters</em> is medium confidence because pregnancy is announced only in the final moments.</li><li><strong>Mother pregnant again:</strong> <em>Three Wisest Men</em> follows Sophie, already mother to Thomas, while expecting twins.</li><li><strong>Remarriage:</strong> <em>Love's Enduring Promise</em> is a core fit, though the pregnancy occurs off-screen between films. <em>Love Comes Softly</em> is a labeled borderline because Marty is already pregnant by her late husband before marrying Clark.</li><li><strong>Female hypnosis:</strong> the existing <em>Jane Doe: How to Fire Your Boss</em> record is upgraded to high confidence and cross-filed into forced obedience for its trigger-word sleeper-agent trance.</li><li><strong>Honest zeroes:</strong> no Hallmark title was verified for a pregnant woman hypnotized while pregnant or a remarried woman who is hypnotized. Competing-network lookalikes and unproduced pitches remain excluded.</li></ul></div></details>\n<details open=\"\"><summary>Vertical short dramas: 13 mothers become pregnant again</summary><div class=\"note-body\"><p>The 1 October 2026 multilingual sweep adds 13 deduplicated vertical-short records to the mother-pregnancy view. The English HoneyReels title <em>Two Babies in One Birth: Daddy, Mummy is Pregnant Again</em> and the Mandarin <em>一胎两宝：爹地妈咪又怀了</em> share the same cast and are therefore one record.</p><ul><li><strong>Visible-pregnancy evidence:</strong> <em>For the Custody, I Slept with a Billionaire</em> has direct episode-level baby-bump wording. <em>They Locked Her Daughter in the Car</em>, <em>A Baby, a Billionaire, And Me</em> and <em>CEO Wants My Little Rascal</em> have medium-strength anchors through emergency labor, belly-touching and maternity shopping, or on-screen ultrasound and pregnancy-test scenes.</li><li><strong>Scope caveats retained:</strong> <em>Unconditionally Loved by the Lycan Billionaire</em> has mixed DramaBox / Stardust TV attribution. <em>诞下二胎，父母破局</em> and <em>Ditch The Mommy Duties After Reborn</em> involve adult daughters, while <em>Reborn At Sixty, I'm Pregnant Again</em> is an elderly-mother rebirth fantasy.</li><li><strong>Held outside the catalog:</strong> <em>Beg Me, My Mafia Ex-Husband</em> remains unfiled because the available synopsis does not establish the parentage or timing of “her child” relative to the new pregnancy. The titleless 借种怀二胎 upload and all other unresolved leads also remain unfiled pending a verified title or stronger plot evidence. The visible-pregnancy follow-up found no additional net-new title meeting its screen-evidence bar.</li></ul></div></details>\n<details open=\"\"><summary>Vertical short dramas: 8 verified hypnosis titles, including 2 strict pregnancy-era matches</summary><div class=\"note-body\"><p>The 1 October 2026 hypnosis-and-pregnancy sweeps found seven titles for the broad hypnotized-to-love / relationship-role view. A separate five-vector female-hypnosis sweep reviewed roughly 70 additional query rounds and adds <em>Stay Away! She's a Violent Psycho!</em> to the forced-obedience view. <em>Snake Year Salvation: CEO's Bargain Bride</em> and <em>I Accidentally Had the Billionaire's Twins</em> also qualify for the strict pregnant-while-hypnotized category.</p><ul><li><strong>New forced-obedience addition:</strong> <em>Stay Away! She's a Violent Psycho!</em> is a medium-high-confidence NetShort drama of approximately 80 episodes. Mr. Jensen uses Dr. Clark to hypnotize Jessie Bennett for control and punishment; episode 58 shows Jessie resisting the pocket-watch attempt, while episode 61 says six years of torture left her immune to hypnosis. The release year and exact episode count remain unconfirmed.</li><li><strong>Strict pregnancy-era overlap:</strong> <em>Snake Year Salvation</em> has adjacent episode-guide evidence for the heroine carrying a baby and being hypnotized with a pocket watch. <em>I Accidentally Had the Billionaire's Twins</em> places Kathy's kidnapping and hypnosis after a marker identifying her as pregnant and before the six-year jump; its pregnancy timing is inferred from those markers and remains medium-high confidence.</li><li><strong>Follow-up love-category addition:</strong> <em>Broken Bone Rose</em> is a medium-confidence Mandarin vertical drama in which a man erases his bodyguard's memories through hypnosis to keep her. Two independent uploads support the mechanism and direction, but the year and episode count remain unconfirmed.</li><li><strong>Pregnancy timing unresolved:</strong> <em>Sweet Strategy: Mr. Vance's Ex Is Too Proud</em> links the hypnosis incident to a later pregnancy discovery, but does not establish whether Elena was already pregnant during the hypnosis.</li><li><strong>Other verified female-control titles:</strong> <em>Twisted Vows</em> pairs hypnosis with a forced new identity and fiancée role; <em>They Called Me the Fake Heiress, But My Birthright Was Far Greater</em> uses pill-assisted hypnosis to impose false “rebirth” memories; and <em>Taste of the Wild</em> uses chime-based mind control, with a retained Emma/Rachel name discrepancy and mixed controller direction.</li><li><strong>Resolved exclusions and open leads:</strong> <em>被催眠的她 / Hypnotized Her</em> is rejected because the plot attributes the wife's perceptions to mental illness, not literal hypnosis. <em>Scratch Your Fate</em> episode 59 is rejected because Olivia is the hypnotizer and her pregnancy is only alleged. <em>My Childhood Friend Hypnotized Me To Love Another</em>, <em>被束缚后她觉醒了</em>, and unidentified YouTube edits remain outside the catalog pending corroboration.</li><li><strong>Coverage result:</strong> the separate female-hypnosis sweep found no additional verified title in its Chinese-vertical, Asia-regional, Latin America / EMEA or recap-aggregator vectors. Search indexing remains weak for several platforms, so those are documented search zeroes, not proof that no other title exists.</li></ul></div></details>\n<details open=\"\"><summary>Hypnotized to marry or love: worldwide max sweep, including short-form vertical dramas</summary><div class=\"note-body\"><p>The 1 October 2026 sweep reviewed 16 candidates across eight multilingual research vectors and roughly 150 query rounds. After reconciling the finished sweep against the current catalog, two records are net-new and four existing records are cross-filed into this plot category without duplicating them.</p><ul><li><strong>Net-new:</strong> <em>Kiss Me, Even If It Burns</em> is the key DramaBox-style vertical short-series find; billionaire Dylan Pitt erases bodyguard Scarlet Novak’s memories so she will fall in love with him anew. <em>Eternally Yours</em> verifies a hypnosis scheme to win back an ex-wife, but the reconciliation outcome remains unconfirmed.</li><li><strong>New category memberships:</strong> The current catalog already held <em>The Brides of Dracula</em>, so its vampiric mesmerism toward a devoted “bride” bond and interrupted forced marriage is cross-filed rather than duplicated. <em>The Kiss of the Vampire</em> transfers Marianne’s devotion from her husband to Ravna; <em>She Did What He Wanted</em> compels adult Nora’s “loving” devotion without marriage; and <em>Naagin 3</em> hypnotizes Bela toward divorce and an interrupted nikah with Shahnawaz.</li><li><strong>Already covered:</strong> <em>Road to Rio</em>, both <em>Flash Gordon</em> versions, <em>Devil Doll</em>, <em>Carefree</em>, <em>Don’t Go Breaking My Heart</em>, <em>El maleficio 2</em>, <em>The Hypnotist</em> (1911), and <em>Skin Deep in Love</em>.</li><li><strong>Excluded:</strong> <em>How to Be Very, Very Popular</em> (1955) remains outside the catalog because its accidental hypnosis is incidental to the romance. MENA/Africa/Russia and East/Southeast Asia produced no net-new verified title in this pass; those are documentation results, not proof that none exist.</li></ul></div></details>\n<details open=\"\"><summary>Woman bargains with the devil or a demon for pregnancy / a child: 9 core matches + 1 failed-deal variant + 11 unresolved leads</summary><div class=\"note-body\"><p>The 30 September 2026 multilingual sweeps now support nine core records: six knowing feature-film cases, one knowing short and two unknowing fertility schemes. A high-confidence episode in which both fertility rituals fail is separated as a variant, and eleven thinner or structurally adjacent leads are not counted as verified core matches. Every card states the pregnancy outcome and the evidence caveat.</p><ul><li><strong>New verified additions:</strong> <em>Pengabdi Setan / Satan's Slaves</em> and <em>Soulful</em> are high confidence; <em>Exorcismo Negro</em> is medium-high confidence with a witch-mediated devil link; and the erotic-horror film <em>Secta Sinestra / Bloody Sect</em> is a medium-confidence tricked fertility-clinic case.</li><li><strong>Failed-deal variant:</strong> <em>American Horror Story: Coven</em> “Boy Parts” is high confidence on plot, but Cordelia's paid and sex-magic fertility rituals do not result in pregnancy. The counterparty is practitioner Marie Laveau rather than the devil directly.</li><li><strong>Source discrepancies retained:</strong> <em>The Surrogate</em> now says “pregnancy outcome ambiguous” because its pre-production pitch says she cannot get pregnant while release loglines say she struggles to stay pregnant. The <em>American Horror Stories</em> “BA'AL” card now records that Liv's husband faked the haunting; only the final beat suggests the real Ba'al may take hold.</li><li><strong>Adult / R-rated / erotic search:</strong> one medium-confidence tricked case—<em>Secta Sinestra</em>—survived the worldwide search, but no title verified a knowing bargain. This is a documented search result, not proof that no other title exists.</li><li><strong>Structural pattern:</strong> the knowing-deal protagonists are childless or barren, except the already-pregnant woman in <em>Soulful</em>, whose bargain seeks a healthy birth. No verified title was found in which an existing mother bargains for another child.</li><li><strong>Common exclusions:</strong> the deal seeks wealth, beauty, revenge or saving a life; the child is the price rather than the object; a husband or family member makes the deal; or the woman is impregnated, possessed or cursed without making any bargain. <em>Rosemary's Baby</em>, <em>Devil's Due</em>, <em>The First Omen</em>, <em>Pari</em>, <em>Impetigore</em> and <em>AHS: Delicate</em> therefore remain outside this exact category.</li><li><strong>Regional result:</strong> verified core cases remain concentrated in Indonesian / Malay-language horror, with Nigerian, Brazilian, Spanish and U.S. examples. No verified soap-opera or telenovela title surfaced, and thin regional-horror indexing remains an open documentation gap.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant sexual pleasure scenes: 5 verified additions from a worldwide sweep</summary><div class=\"note-body\"><p>The 30 September 2026 multilingual sweep added five deduplicated titles to the existing pregnancy-sex section: two high-confidence, one medium-high-confidence and two medium-confidence findings. Each card states whether pleasure is directly verified, inferred from pregnancy-era intimacy, or supported through scene dialogue and reviews.</p><ul><li><strong>Marital comedy:</strong> <em>Catastrophe</em> S2E1 shows deeply pregnant Sharon and Rob mid-coitus when their son walks in; it also appears in the child-walk-in category.</li><li><strong>Erotic drama and arthouse intimacy:</strong> <em>A Frozen Flower</em> establishes the Queen’s new pregnancy before a passionate library encounter; <em>Los días que vendrán</em> contains explicit couple sexuality during pregnancy, though no source specifically documents moaning.</li><li><strong>R-rated comedy and affair / new partner:</strong> <em>How to Plan an Orgy in a Small Town</em> depicts a heavily pregnant participant reaching orgasm; the Nollywood film <em>The Pregnant Widow</em> has a consensual steamy scene with a new partner, but its exact release year remains unverified.</li><li><strong>Search boundary:</strong> 18 borderlines or unresolved leads and 81 unique near-misses were reviewed. More than 20 regional or format veins returned no verified match, including the worldwide adult / erotic plot-index pass at high confidence. This is a documentation result, not proof that no other title exists.</li><li><strong>Not promoted:</strong> <em>Titane</em>, <em>Jamón, jamón</em> and <em>Rosemary Is Pregnant Again</em> remain outside the catalog because the pregnancy timing, pleasure element or direct participation could not be established strongly enough.</li></ul></div></details>\n<details open=\"\"><summary>Partner hires a third party to hypnotize or mind-control wife / girlfriend: 5 verified</summary><div class=\"note-body\"><p>This worldwide multilingual sweep found five verified matches: four research additions and one upgraded existing catalog record. It is the rarest node in this trope family: stories more often make the partner the controller, use an uncommissioned villain, or rely on a communal conspiracy.</p><ul><li><strong>Verified motives:</strong> regain her love or stop her leaving (<em>Maalaala Mo Kaya</em> “Gayuma”); change or “cure” her behavior (<em>While You Were Sleeping</em>); extract a secret or locate hidden money (<em>Tee Ratra</em> and <em>The Honeymooners</em> “Sleepy Time Gal”); and malicious elimination for inheritance and another relationship (<em>Sleep, My Love</em>).</li><li><strong>Honest-zero regions:</strong> Latin America and Spain, including telenovelas; the Middle East and Turkey; Europe; Japan; Chinese-language markets; Thailand; Indonesia; sub-Saharan Africa; and adult / erotic indexes worldwide.</li><li><strong>Evidence boundary:</strong> the partner must arrange a third party and the wife, girlfriend or fiancée must herself be subjected to hypnosis, mind control, brainwashing or magical will override. Ordinary manipulation, self-performed control and the wrong target are excluded.</li></ul></div></details>\n<details open=\"\"><summary>Female controlled by husband, boyfriend or ex-partner: 29 entries after the round-2 worldwide sweep</summary><div class=\"note-body\"><p>The 1 October 2026 round-2 sweep adds five high-confidence relationship matches to the unified partner-controller view. Four are husband-as-controller stories—<em>A hipnotizált feleség</em> (1932), <em>Paris 1900: Feydeau</em> “The Ribadier System” (1964), <em>Tales of Wells Fargo</em> “The Gold Witch” (1962), and the 2005–06 Alex North arc of <em>Days of Our Lives</em>—while <em>Mil sexos tiene la noche</em> (1984) is the verified boyfriend-controller find.</p><ul><li><strong>Current husband:</strong> the four new titles span Hungarian short comedy, British television farce, a U.S. western episode and a U.S. daytime-soap arc. Each directly documents a husband hypnotizing his wife; the <em>Days of Our Lives</em> record is distinct from the already cataloged 1994–95 Stefano/Marlena storyline.</li><li><strong>Current boyfriend:</strong> <em>Mil sexos tiene la noche</em> is an erotic-horror film in which Fabián hypnotically controls girlfriend Irina for revenge. The existing adult-audience record is cross-filed here rather than duplicated. Earlier supported matches <em>O Beijo do Vampiro</em> and <em>Silence of Sleep</em> remain.</li><li><strong>Ex-boyfriend:</strong> no new title surfaced; <em>Caminhos do Coração</em> and <em>Scott Pilgrim vs. the World</em> remain the verified examples.</li><li><strong>Ex-husband:</strong> no verified direct case was found, the sixth worldwide confirmation of an honest zero. <em>Desejos de Mulher</em> remains a near-miss because the ex-husband hires a corrupt psychiatrist rather than performing the control himself.</li><li><strong>Adult / erotic search:</strong> the dedicated worldwide pass remains nearly barren, but is no longer zero: <em>Mil sexos tiene la noche</em> is one high-confidence exact match. <em>Mind Twister</em> and <em>Sins of Desire</em> were checked and rejected; <em>Jacquette</em> and <em>The Hypnotized / Faceless Beauty</em> remain relationship-status borderlines.</li><li><strong>Coverage:</strong> twelve regional and format vectors searched local-language sources across Eastern Europe, Africa, India, East and Southeast Asia, the Middle East, Latin America, Western television, soaps and adult-audience cinema. About 120 near-misses were reviewed; thin episode indexing in several markets remains a documentation gap, not proof of absence.</li></ul></div></details>\n<details open=\"\"><summary>Partner engages a hypnotist for his pregnant wife/girlfriend: 1 verified dual-membership</summary><div class=\"note-body\"><p><strong>Scope:</strong> the woman’s partner engages a third-party hypnotist; she is pregnant at the time.</p><p><strong>Round-2 research note:</strong> Round-2 deep sweep (~144 reference surfaces) found this the only verified title; other leads did not verify; adult/erotic indexes yielded no matches.</p></div></details>\n<details open=\"\"><summary>Pregnancy-control restructure: 8 strict cases + 23 variants or leads + 8 Indian-language non-pregnant cases</summary><div class=\"note-body\"><p>The 30 September 2026 combined sweep replaces the former mixed pregnancy-and-trance section with two explicit standards and moves eight Indian-language, non-pregnant records out of the broad forced-obedience category into a dedicated regional view. Five new records were added after title, year and language checks; three existing titles gained category membership without duplication.</p><ul><li><strong>Strict core · 8:</strong> <em>The Stranger Within</em>, <em>Jessica Jones</em> season 1, <em>Black Magic Part 2</em>, <em>Uzumaki</em> episode 3, <em>Ultrasound</em>, <em>The Antichrist</em>, <em>O Beijo do Vampiro</em> and the Amália arc of <em>Caminhos do Coração</em>. The two Brazilian serials are clearly marked as timing-inferred borderlines.</li><li><strong>Variants and leads · 23:</strong> five possession cases, three therapeutic or diagnostic cases, one fetus-targeting case, one possible control-caused pregnancy, one cult-coercion case, four adult-animation variants and eight unresolved leads. These cards do not claim strict hypnosis while visibly pregnant.</li><li><strong>Adult / erotic additions:</strong> <em>Saimin Seishidou</em> gains variant membership; <em>Kyonyuu Hitozuma Onna Kyoushi Saimin</em>, <em>Genkaku Cool na Sensei ga Aheboteochi!</em> and <em>Night Shift Nurses</em> are new records. All four are labeled explicit adult animation and control-causing-pregnancy variants, not strict matches.</li><li><strong>Indian-language non-pregnant · 8 moved records:</strong> <em>Bhairava Dweepam</em>, <em>Anandabhadram</em> and <em>Ishanou</em> are grouped under South India and Manipuri cinema; <em>Jiji Maa</em>, <em>Suhani Si Ek Ladki</em>, <em>Ek Tha Raja Ek Thi Rani</em>, <em>Jijaji Chhat Per Hain</em> and the Preeti–Prem episode of <em>Laal Ishq</em> are grouped under Hindi television.</li><li><strong>New non-adult variant:</strong> <em>Birth</em> (2022) is included only as cult coercion during pregnancy; no located source uses hypnosis, trance or mind-control terminology. The Lúcia arc of <em>Caminhos do Coração</em> rests on one quote and remains medium-low confidence.</li><li><strong>Indian pregnancy-control gap-fill:</strong> <em>Aranmanai</em> (2014) and <em>Devi / Abhinetri / Tutak Tutak Tutiya</em> (2016) gain high-confidence membership in the pregnancy-control and devil/evil-force sections without duplicate cards. In both Tamil originals, a ghost is still possessing the wife when her pregnancy is revealed. The adult / R-rated / erotic pass found no qualifying Indian title across the indexed services and film traditions searched.</li><li><strong>Watch list:</strong> <em>418</em>, <em>Pisaasu 2</em>, <em>Kathanar – The Wild Sorcerer</em>, <em>Aathma</em>, <em>Laal Ishq</em> “A Horrid Dream”, <em>Obosheshot</em>, <em>Anveshitha</em>, <em>Andhar Maya</em>, <em>Birth</em> and several thinly documented supernatural serials remain outside the verified set pending release, fuller synopses or episode-level pregnancy-plus-control evidence.</li><li><strong>Verified exclusion:</strong> <em>Ezra</em> (2017) is not a match. The possessed person is Ranjan, while pregnant Priya is never controlled; the story only threatens future possession of their unborn child.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant woman controlled — adult context: 11 supported titles + 2 provisional / implied leads</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide indexed sweep found 13 net-new mainstream adult-context films, television episodes, serials and anime in which a woman is pregnant while controlled or the control causes or targets the pregnancy. Three are literal-hypnosis core cases; eight are supported broader mind-control, possession or supernatural-control variants; two remain provisional or implied. “Adult context” does not claim a literal MPAA R rating for every title. The cards state the available rating evidence; pornography was excluded.</p><ul><li><strong>Evidence profile:</strong> the research assigned seven high, five medium-high and one medium confidence, but <em>Laal Ishq</em> remains provisional and <em>Hell Girl</em> is only implied, so they are separated from the 11 supported titles. All 13 findings were checked against the 805-record pre-edit catalog and are new records. <em>Kavach… Mahashivratri / Kavach 2</em> is distinct from the 2016 <em>Kavach… Kaali Shaktiyon Se</em> season; “Shaitan Ki Beti” is distinct from the two previously cataloged <em>Laal Ishq</em> episodes.</li><li><strong>Mechanism groups:</strong> three literal-hypnosis core cases; one alien-parasite variant; one direct demonic-possession variant; five spirit, ghost, djinn or black-magic variants; one fetal-controller variant; and two separately labeled provisional or implied leads. Each record is also cross-linked into the closest existing mechanism section.</li><li><strong>Key caveats:</strong> Amaunet is dormant late in Sha're's pregnancy in <em>Stargate SG-1</em>; the <em>Hell Girl</em> client's possession is implied rather than airtight; <em>Laal Ishq</em> remains provisional pending a detailed episode recap; and <em>Gece Gelen: Cin Bebek</em> falls to medium confidence under a strict literal-possession test. Sources describe Kathleen in <em>The Devil's Doorway</em> as 16—the adult-context label applies to the film, not the character.</li><li><strong>Search boundary:</strong> 63 near-misses and 97 firm exclusions were reviewed. No net-new title survived in Latin America, Southeast Asia, sub-Saharan Africa or Australia/New Zealand; soap and serial coverage remains thin across several European, Asian, Middle Eastern and African markets. These are documentation gaps, not proof of absence.</li><li><strong>Scope rule:</strong> pregnancy and control must overlap, or the control must cause or target the pregnancy. Postpartum-only control, hauntings without verified control, control of a different character, pornography and already-cataloged titles were excluded.</li></ul></div></details>\n<details open=\"\"><summary>Mother controlled by her current husband or boyfriend: 1 low-confidence inclusion</summary><div class=\"note-body\"><p>The 30 September 2026 adult-audience sweep searched films, TV movies, series, serials, soaps and telenovelas in 15 languages. It found one low-confidence inclusion: <em>El maleficio</em> (1983–84). Widowed mother Beatriz marries sorcerer Enrique de Martino; the official ViX episode 21 guide says he has her “bajo su influjo” (“under his influence/spell”), but the available sources do not prove a magical override of her will, so the card does not claim a verified literal hypnosis scene.</p><ul><li><strong>Verified mechanism groups:</strong> occult / black magic by a current husband has one low-confidence inclusion. Current-husband literal hypnosis, current-boyfriend literal hypnosis, a partner hiring or directing a hypnotist, technological / sci-fi control and vampire mesmerism by a current partner each produced zero verified titles.</li><li><strong>Controller is not the current partner:</strong> <a href=\"https://en.wikipedia.org/wiki/Hypnotic_(2021_film)\" rel=\"noopener\" target=\"_blank\"><em>Hypnotic</em> (2021)</a>, <a href=\"http://www.culturecourt.com/F/Noir/Whirlpool.htm\" rel=\"noopener\" target=\"_blank\"><em>Whirlpool</em></a>, <a href=\"http://bryininberlin.blogspot.com/2025/03/babe-of-yesteryear-allison-hayes-part.html\" rel=\"noopener\" target=\"_blank\"><em>The Hypnotic Eye</em></a>, <a href=\"https://fr.wikipedia.org/wiki/Hypnose_(film,_1999)\" rel=\"noopener\" target=\"_blank\"><em>Stir of Echoes</em></a>, <a href=\"https://fr.wikipedia.org/wiki/Sous_hypnose\" rel=\"noopener\" target=\"_blank\"><em>The Hypnosis</em></a>, <a href=\"https://www.filmaffinity.com/es/evideos.php?movie_id=721807\" rel=\"noopener\" target=\"_blank\"><em>Hypnotized</em> (2004)</a>, <a href=\"https://dmtalkies.com/joko-anwar-nightmares-and-daydreams-recap-episodes-1-7-2024-series/\" rel=\"noopener\" target=\"_blank\"><em>Nightmares and Daydreams</em> “Hypnotized”</a>, <a href=\"https://www.imdb.com/title/tt6143850\" rel=\"noopener\" target=\"_blank\"><em>Distorted</em></a>, <a href=\"https://tr.wikipedia.org/wiki/Sicc%C3%AEn\" rel=\"noopener\" target=\"_blank\"><em>Siccin</em></a>, <a href=\"https://www.youtube.com/watch?v=e4HNxzQGfzQ\" rel=\"noopener\" target=\"_blank\"><em>Sijjin</em></a>, <a href=\"https://www.chilimovie.com/movies/chaotic-ana-vid-179436.html\" rel=\"noopener\" target=\"_blank\"><em>Caótica Ana</em></a>, <a href=\"http://twi-ny.com/tag/best-foreign-language-film/\" rel=\"noopener\" target=\"_blank\"><em>Nights of Cabiria</em></a>, <a href=\"https://happygreenbeans.com/keyword/hypnotist.html\" rel=\"noopener\" target=\"_blank\"><em>Dead Again</em></a>, <a href=\"https://bluray.highdefdigest.com/15931/talesofterror.html\" rel=\"noopener\" target=\"_blank\"><em>Tales of Terror</em></a>, <a href=\"https://fr.wikipedia.org/wiki/Hypnose_(film,_2018)\" rel=\"noopener\" target=\"_blank\"><em>Murderous Trance</em></a>, <a href=\"https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%97%E3%83%8E%E3%83%9E%E3%83%8B%E3%82%A2_%E6%B4%97%E8%84%B3%E5%82%AC%E7%9C%A0\" rel=\"noopener\" target=\"_blank\"><em>Perfect Little Angels</em></a>, <a href=\"https://www.imdb.com/title/tt2984402\" rel=\"noopener\" target=\"_blank\"><em>The Forces of Evil; or, The Dominant Will</em></a>, <a href=\"https://resumo-das-novelas.com/orgulho-e-paixao/orgulho-e-paixao-07-06/\" rel=\"noopener\" target=\"_blank\"><em>Orgulho e Paixão</em></a>, <a href=\"https://www.youtube.com/watch?v=rHwW33a22N8\" rel=\"noopener\" target=\"_blank\"><em>Fallait pas!</em></a> and <a href=\"https://tr.wikipedia.org/wiki/A%C5%9Fk%C4%B1n_B%C3%BCy%C3%BCs%C3%BC_(film,_1998)\" rel=\"noopener\" target=\"_blank\"><em>Practical Magic</em></a> all fail because the controller is someone other than the current husband or boyfriend; several also lack established motherhood or a genuine control mechanism.</li><li><strong>Mother is not actually mind-controlled:</strong> <a href=\"https://en.wikipedia.org/wiki/The_Stepford_Wives_(2004_film)\" rel=\"noopener\" target=\"_blank\"><em>The Stepford Wives</em> (2004)</a> reveals Joanna was never implanted; <a href=\"https://en.wikipedia.org/wiki/The_Stepford_Wives_(1975_film)\" rel=\"noopener\" target=\"_blank\">the 1975 film</a> murders and replaces her; <a href=\"https://it.wikipedia.org/wiki/Hypnotic_(film_2023)\" rel=\"noopener\" target=\"_blank\"><em>Hypnotic</em> (2023)</a> controls the husband instead; <a href=\"https://www.plotexplained.com/movie/the-astronauts-wife/\" rel=\"noopener\" target=\"_blank\"><em>The Astronaut’s Wife</em></a> threatens and telekinetically attacks Jillian without controlling her mind; and <a href=\"https://en.wikipedia.org/wiki/Rosemary's_Baby_(film)\" rel=\"noopener\" target=\"_blank\"><em>Rosemary’s Baby</em></a> uses conspiracy, sedation and exploitation rather than mind control of Rosemary’s will.</li><li><strong>Motherhood is not established:</strong> <a href=\"https://www.imdb.com/title/tt0250531\" rel=\"noopener\" target=\"_blank\"><em>Amore e ipnotismo</em></a> otherwise fits the husband-hypnotizes-wife pattern; <a href=\"https://en.wikipedia.org/wiki/King_of_the_Zombies\" rel=\"noopener\" target=\"_blank\"><em>King of the Zombies</em></a> implies husband-caused trance; and <a href=\"https://www.youtube.com/watch?v=iUqQbMt5N3Y\" rel=\"noopener\" target=\"_blank\"><em>被催眠的她</em></a> ultimately frames the apparent hypnosis as psychosis and does not establish motherhood.</li><li><strong>Reversed direction or wrong victim:</strong> <a href=\"https://en.wikipedia.org/wiki/Mesmerized_(film)\" rel=\"noopener\" target=\"_blank\"><em>Mesmerized</em></a>, <a href=\"https://statrokaboo.web.app/434.html\" rel=\"noopener\" target=\"_blank\"><em>The Stepford Husbands</em></a>, <a href=\"https://www.imdb.com/title/tt0741233\" rel=\"noopener\" target=\"_blank\"><em>Dr. Damon’s Experiment</em></a>, <a href=\"https://www.imdb.com/title/tt1236971\" rel=\"noopener\" target=\"_blank\"><em>Mother Is Strong on Hypnotism</em></a>, <a href=\"https://www.imdb.com/title/tt1626839\" rel=\"noopener\" target=\"_blank\"><em>Hypnotizing Mother-in-Law</em></a> and <a href=\"https://www.imdb.com/title/tt4289228\" rel=\"noopener\" target=\"_blank\"><em>The Hypnotic Wife</em></a> control a husband, another man or a mother-in-law instead of the partner-mother.</li><li><strong>No qualifying mechanism:</strong> <a href=\"https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%86%D9%88%D9%85_%D9%85%D8%B9_%D8%A7%D9%84%D8%B9%D8%AF%D9%88_(%D9%81%D9%84%D9%85)\" rel=\"noopener\" target=\"_blank\"><em>Sleeping with the Enemy</em></a> uses ordinary coercive abuse; <a href=\"https://en.wikipedia.org/wiki/Lady_Possessed\" rel=\"noopener\" target=\"_blank\"><em>Lady Possessed</em></a> does not make the husband the cause. The 2023 <a href=\"https://en.wikipedia.org/wiki/El_maleficio_(2023_TV_series)\" rel=\"noopener\" target=\"_blank\"><em>El maleficio</em></a> remake keeps the same mother-and-sorcerer-husband setup but remains excluded because no source explicitly describes magical control of Beatriz’s will.</li><li><strong>Scope note:</strong> “Adult-audience” is not a claim that every title has a verified literal R / 18+ certificate. Pornographic titles and explicit detail were excluded. The search covered English, Spanish, Portuguese, Hindi, Turkish, Arabic, French, German, Italian, Russian, Chinese, Japanese, Korean, Thai and Indonesian / Malay; empty mechanism groups are documentation results, not proof that no title exists.</li></ul></div></details>\n<details open=\"\"><summary>Wife with children pregnant by another man: 30 verified titles + 1 lead</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide multilingual sweep required all three conditions at the time of pregnancy: the woman is married, she already has at least one child, and the pregnancy’s biological father is a man other than her husband. Thirty screen titles met that test; <em>Amor en custodia</em> remains a separately labeled medium-confidence lead.</p><ul><li><strong>Evidence profile:</strong> the Western and Latin American sweep contributed 23 verified titles (19 high confidence, four medium-high); East Asia, Turkey, the Middle East and Africa contributed six; and South Asia contributed one high-confidence Malayalam film, <em>Ore Kadal</em>. <em>Empresses in the Palace</em> remains medium confidence because an imperial consort is not a straightforward monogamous “wife.”</li><li><strong>Plot groups:</strong> the cards separate concealed or passed-off paternity, revelation and marriage fallout, pregnancies by an ex-lover, wives who leave the husband, and husband-aware or open-secret arrangements. Period and literary adaptations are labeled on their cards rather than duplicated.</li><li><strong>Pregnancy-loss cases:</strong> miscarriage or stillbirth does not remove a title when the pregnancy itself is established. The relevant cards identify the outcomes for <em>Anna Karenina</em>, <em>Jules et Jim</em> and <em>亲爱的小孩</em>.</li><li><strong>Excluded corrections:</strong> <em>EastEnders</em>’ “Sheanu” arc is excluded because a 2023 retcon makes Phil, not Keanu, Albie’s father. The September 2026 <em>Bold and the Beautiful</em> Steffy / Carter arc is excluded because DNA ruled Carter out and paternity remains unresolved. <em>Koi Suru Haha-tachi</em> is excluded because the father is deliberately ambiguous.</li><li><strong>Near-miss boundary:</strong> childless wives, pregnancies conceived before marriage, uncertain or husband-confirmed paternity, IVF or surrogacy mix-ups, and affair plots with no pregnancy are not counted. Strong documented near-misses include <em>Ullozhukku</em>, <em>Zachariayude Garbhinikal</em>, <em>Mpali</em>, <em>Deedan</em> and <em>MithiJhora</em>.</li><li><strong>Coverage gaps:</strong> no verified exact match survived in Germany, Spain, Hong Kong, Taiwan, Japan, Southeast Asia, Arabic regions, Iran, Africa, anime, Hindi screen works or several South Asian regional-language sweeps. Episode-level soap documentation, Chinese vertical dramas, Brazilian SBT / Record catalogs, African soaps and Kannada sources remain thin; these are documentation gaps, not proof of absence.</li></ul></div></details>\n<details open=\"\"><summary>Partnered woman hypnotized or controlled into infidelity: 3 accepted titles + 2 leads</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide multilingual sweep found three accepted titles covering four woman-instances, plus two clearly separated leads whose screen metadata or exact relationship reading could not be fully verified. To qualify as an accepted match, the woman must have an established husband, fiancé or boyfriend, and hypnosis, mesmerism or another genuine control mechanism must cause the romantic or sexual betrayal.</p><ul><li><strong>Evidence profile:</strong> the accepted set has two high-confidence and two medium-confidence woman-instances. <em>Intermezzo</em> is retained as a medium-confidence lead because its indexed synopsis supplies the exact causal plot but not verified production metadata; <em>Verliefd</em> is a low-confidence lead because its medium, country and pronoun antecedent remain uncertain. Three titles are new catalog records; <em>The Curse of the Jade Scorpion</em> and <em>Horror of Dracula</em> gain this category without duplication.</li><li><strong>Controller groups:</strong> supernatural or occult predator compulsion accounts for both Dracula films; a stage hypnotist drives the comedy case; manipulating voices drive <em>Intermezzo</em>; and <em>Verliefd</em> remains an ambiguous low-confidence lead.</li><li><strong>Documented empty groups:</strong> no verified case was found for a rival lover acting as hypnotist, a husband or partner testing or entrapping the woman, an ex-lover’s revenge, or a soap or telenovela villain using hypnosis to break up a couple.</li><li><strong>Near-misses:</strong> <em>Buffy the Vampire Slayer</em> episodes “Him” and “Something Blue” use supernatural love compulsion, but Buffy has no established partner in either episode. NBC’s <em>Dracula</em> (2013) gives engaged Mina a mutual, largely voluntary attraction to Grayson without a verified compelled act. <em>Days of Our Lives</em> has the brainwashed Princess Gina attempt to seduce John in 2019, but no completed infidelity is established.</li><li><strong>Open verification:</strong> <em>Intermezzo</em> lacks confirmed production metadata; <em>Verliefd</em> lacks confirmed medium, country and pronoun antecedent; and the 1958 <em>Dracula</em> seduction detail currently rests on specialist fandom wikis. No qualifying Asian, Latin American, African or Middle Eastern title was verified in this pass; those absences are documentation gaps, not proof that none exist.</li></ul></div></details>\n<details open=\"\"><summary>Adult female hypnosis — R-rated-equivalent worldwide: 180 verified findings</summary><div class=\"note-body\"><p>The 30 September 2026 multilingual catalog now combines the 129-title mainstream baseline with a 51-title adult / erotic gap-fill sweep across films, television series and serials, TV movies, soap operas, anime, shorts and one television variety program. “Adult / erotic” is a cross-country content description rather than a literal MPAA rating. The latest fold-in adds six new explicitly flagged adult / erotic records: <em>Mil sexos tiene la noche</em>, <em>The Erotic Rites of Frankenstein</em>, <em>Emmanuelle vs. Dracula</em>, <em>The Hypnotist</em> (1936), <em>Saimin Seishidou</em> and <em>Gakuen Saimin Reido</em>.</p><ul><li><strong>Evidence profile:</strong> 99 findings are high confidence, 52 medium-high, 23 medium and six low-medium. All 180 findings are grouped by plot mechanism so wife-control, therapist abuse, criminal hypnosis, vampire mesmerism, serial arcs, supernatural-romance cases and erotic-thriller uses can be compared directly.</li><li><strong>Gap-fill contribution:</strong> the additional 51 findings comprise 21 high, 16 medium-high, nine medium and five low-medium cases. They add adult cable / direct-to-video thrillers, European stage-hypnosis television, Hong Kong Category III black-magic films, Mexican vampire cinema and Australian, New Zealand, French and German serial episodes.</li><li><strong>Scope boundary:</strong> pure possession without hypnosis framing and teen or child victims are excluded from the adult gap-fill. Explicit adult-only material is limited to the six newly added, separately flagged titles; therapeutic and voluntary sessions remain included when an adult woman is actually hypnotized, and cards distinguish those from coercive, criminal or erotic control.</li><li><strong>Identity and episode cautions:</strong> <em>El barón del terror</em> has a disputed wife-versus-girlfriend reading; <em>Shortland Street</em>, <em>Didi der Untermieter</em> and the <em>Laal Ishq</em> serpent-husband story still lack a pinned episode date; the <em>Neighbours</em> 1988 card flags unverified wife status; and <em>The Hunger</em> still lacks a verified character name.</li><li><strong>Mechanism cautions:</strong> <em>The Eternal Evil of Asia</em> and <em>Spell</em> retain low-medium confidence because control direction or evidence quality is incomplete. <em>Forever Knight</em> rests on a recap, while <em>Nocturnal</em> verifies the vampire-hypnotherapist premise but not an erotic element.</li><li><strong>Searched gaps:</strong> no verified African production survived the exact hypnosis test; none was verified in Pakistan, Israel or Iran. Spanish, Portuguese and Italian episode guides, French TV movies, Indian regional cinema and deeper anime indexes remain incompletely mined. These are documentation gaps, not proof of absence.</li><li><strong>Near-miss rule:</strong> male-only victims, women acting as hypnotists without an adult female target, fake hypnosis, pure possession and unconfirmed title-only leads are not counted among the 180.</li></ul></div></details>\n<details open=\"\"><summary>Wife or female character forcibly hypnotized to obey: 61 stronger cases + 8 separated variants or leads</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide max-list sweep (8 regional vectors, all Indian languages plus worldwide, adult and R-rated titles included) supplied 30 proposed additions and 15 membership grants. Catalog-wide reconciliation found four of the proposed additions already present as records — <em>Dracula’s Daughter</em>, <em>Candyman</em> and <em>The Diabolical Dr. Z / Miss Muerte</em> merged on title match, and the <em>Laal Ishq</em> icchadhari-naag / Preeti–Prem episode (Nov 2018) matched its existing adult-hypnosis record — so the final fold-in adds 26 unique records and 19 memberships (3 merges + 16 explicit grants) without duplicate cards. <em>Hypnose</em> (1920) is confirmed to be <em>Sklaven fremden Willens</em> and is upgraded from lead to stronger case; the previously cataloged <em>Laal Ishq</em> “Bhavishyawaani” episode is a different episode and keeps its own separate record. The category covers literal hypnosis, mesmerism, post-hypnotic suggestion and clearly induced occult trance used to compel killing, theft, self-harm, sexual submission, espionage, escape assistance or domestic obedience.</p><ul><li><strong>Category restructure (30 Sep 2026):</strong> the eight Indian-language titles from this sweep — <em>Jiji Maa</em>, <em>Suhani Si Ek Ladki</em>, <em>Ek Tha Raja Ek Thi Rani</em>, <em>Jijaji Chhat Per Hain</em>, <em>Bhairava Dweepam</em>, <em>Anandabhadram</em>, <em>Ishanou</em> and the <em>Laal Ishq</em> icchadhari-naag / Preeti–Prem episode — now live in the dedicated “Indian-language female hypnotized against her will (non-pregnant)” category, leaving 69 entries here (61 stronger cases, 5 variants, 3 unresolved leads). A 1 October vertical-short follow-up adds <em>Stay Away! She's a Violent Psycho!</em>: Mr. Jensen directs Dr. Clark's coercive hypnosis of Jessie Bennett, episode 58 shows her resisting the present attempt, and episode 61 attributes her hypnosis immunity to six years of earlier torture. The release year and exact episode count remain open. Their sweep coverage is described below for the record.</li><li><strong>Strongest clusters:</strong> husbands or domestic controllers; criminal hypnotists; abusive psychiatrists; stage hypnotists; fraudulent gurus; and supernatural trance controllers. The set spans silent shorts, films, television episodes, telenovelas, soap operas and adult animation from 1909 to 2026, and now covers Hindi, Telugu, Malayalam, Manipuri, Japanese, Portuguese, Spanish, Turkish, Kazakh, Russian, French and English sources.</li><li><strong>New sweep coverage:</strong> Indian-language soaps (<em>Jiji Maa</em>, <em>Suhani Si Ek Ladki</em>, <em>Ek Tha Raja Ek Thi Rani</em>; the <em>Laal Ishq</em> icchadhari-naag episode joined via membership grant rather than a duplicate record); Indian regional film (Telugu <em>Bhairava Dweepam</em>, Malayalam <em>Anandabhadram</em> as a consent-caveat variant, Manipuri <em>Ishanou</em>); Japanese television (<em>Nemureru Mori</em>, anime <em>Kizetsu Yusha to Ansatsu Hime</em>); Brazilian and Mexican telenovelas (<em>Carinha de Anjo</em>, <em>O Cravo e a Rosa</em>, <em>O Profeta</em>, <em>Doña Macabra</em>); Turkish vampire film <em>Drakula İstanbul'da</em> (1953); Kazakh <em>Gipnoz</em> (2026) and Russian <em>Ulovki razuma 3</em>; English-language TV episodes (<em>Smallville</em> “Hypnotic”, <em>Charlie's Angels</em> “Attack Angels”, <em>Wonder Woman</em> “The Pied Piper”, <em>Hannibal</em> “Kaiseki”, <em>Sleepy Hollow</em> S2E4); and classic plus R-rated horror (<em>Dracula's Daughter</em>, <em>Voodoo Man</em>, <em>The Lair of the White Worm</em>, <em>Candyman</em>, <em>Fright Night</em> 1985 and 2011, <em>The Diabolical Dr. Z</em>). Membership grants (no new records) include <em>Cure</em>, <em>Faceless Beauty</em>, <em>The She-Creature</em>, <em>Guilt by Design</em>, <em>Saimin</em> (1999), <em>Kolchak</em> “Bad Medicine”, <em>Augustine</em>, <em>Magpakailanman</em>, <em>True Blood</em>, <em>Rasputin the Mad Monk</em>, <em>The Dunwich Horror</em>, <em>The Vampire Lovers</em>, <em>Lust for a Vampire</em>, <em>Skin Deep in Love</em>, <em>O Beijo do Vampiro</em> and the <em>Laal Ishq</em> icchadhari-naag / Preeti–Prem episode.</li><li><strong>Separated boundary cases:</strong> <em>The Vise</em> has a disputed synopsis reading; <em>Power of Suggestion</em> and <em>Fallait pas!</em> do not verify performed obedience; <em>Night of the Eagle</em> uses witchcraft-induced trance; and <em>Murder Me Twice</em> begins with a volunteered party trance framed as past-life regression or possession. <em>Anandabhadram</em> joins the variants with a consent caveat. The unresolved-leads group contains <em>Morgana</em>, <em>Vash</em> and <em>Le Viol du vampire</em> (single-source “comme hypnotisée”). <em>Jijaji Chhat Per Hain</em> is now a full member of the dedicated Indian-language category, where its comedy-gag caveat remains visible.</li><li><strong>Adult-animation flag:</strong> <em>Saimin Ryoujoku Gakuen</em> and <em>Saimin Jutsu Zero</em> are included separately at low-medium confidence because their synopses concern explicit sexual exploitation.</li><li><strong>Verified exclusions:</strong> therapeutic memory recovery without compelled obedience, voluntary mesmerism, fake hypnosis, male-only victims, and stories where the woman is the hypnotist remain outside the category. Examples include <em>The Hypnotist</em> (2012), <em>The Great Hypnotist</em> (2014), <em>Hypnosen</em> (2023), <em>Montecristo</em>, <em>Il potere dell’ipnotismo</em>, <em>House No. 13</em> and <em>Hypnotized by Beautiful Women</em>.</li><li><strong>Documented gaps:</strong> Tamil and Kannada remain a structural zero (possession, not trance, drives those plots); sub-Saharan Africa has ~zero verified matches; no Italian or Spanish-language film match was verified; the Nikkatsu / pinku hypnosis vein is an indexing gap rather than proof of absence. The earlier soap-opera and Latin American telenovela gaps were closed by this sweep.</li><li><strong>Open leads:</strong> <em>Vash</em> (2023) was not independently re-verified in this sweep but already has prior catalog sourcing; <em>Système Ribadier</em>, <em>El Hipnotizador</em>, Thailand’s <em>Hypnotic</em> (2025), <em>Lep Krut</em> and several fragmentary titles still lack enough plot detail for this exact category. <em>Caminhos do Coração</em> was left out: the against-will element of Rodrigo’s hypnosis of Amália was not confirmed to this category’s standard.</li></ul></div></details>\n<details open=\"\"><summary>Stepmother / bonus mom hypnotized or mind-controlled: 3 supported matches + 1 borderline case</summary><div class=\"note-body\"><p>The 30 September 2026 multilingual worldwide sweep found three supported stories in which a stepmother is corrupted, possessed, cursed or enchanted against her will, plus one low-confidence short where demonic possession is only suspected. Confidence is capped at medium-high because the findings rest on indexed plot summaries and reviews rather than live viewing.</p><ul><li><strong>Supernatural and enchanted-object control:</strong> <em>Snow White: A Tale of Terror</em> uses an evil mirror spirit; <em>The Wishing Box</em> uses demonic possession through a cursed artifact; and <em>Disenchanted</em> uses a wish that turns into an evil-stepmother curse. Each card preserves the report’s caveat about complicity, single-source evidence or a self-initiated spell going wrong.</li><li><strong>Borderline case:</strong> <em>The StepMother</em> (2011) is retained at low confidence because its synopsis only says priests investigate possible possession; neither actual possession nor the cast-to-role mapping is confirmed.</li><li><strong>Documented empty controller groups:</strong> no verified match was found with a human hypnotist or criminal villain, the stepmother’s husband or stepfather figure, a child, or another non-supernatural controller.</li><li><strong>Mother controlled by a new husband / stepfather:</strong> no verified match was found in which the controller is genuinely a stepfather to at least one of the woman’s children. Generic husband-controls-wife plots and abusive-stepfather stories without hypnosis were excluded.</li><li><strong>Near-miss boundary:</strong> reverse-direction stories where the stepmother controls someone else, ordinary wicked-stepmother plots, torment without mind control, and unconsciousness without control remain outside the category.</li><li><strong>Coverage limit:</strong> soap-opera and telenovela episode guides, Indian supernatural serials and Indonesian sinetron were only surface-searched. The empty groups record a documentation gap, not proof that no example exists.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant stepmother / bonus mom: 5 verified titles + 1 low-confidence lead</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide multilingual sweep verified five screen stories in which a woman who is already a stepmother or established bonus-mom figure becomes pregnant during the plot. Four titles are newly added; <em>Yeh Hai Mohabbatein</em> and <em>The Bold and the Beautiful</em> gain this category without duplicate records.</p><ul><li><strong>Bonding and displacement anxiety:</strong> <em>The Brightest Roof in the Universe</em> centers Tsubame’s fear of being left out after stepmother Asako becomes pregnant. <em>Madrasta</em> pairs Audrey’s baby with Lauren’s public acceptance of her as “madrasta.”</li><li><strong>Pregnancy loss:</strong> <em>Yeh Hai Mohabbatein</em> celebrates Ishita’s pregnancy after she becomes Ruhi and Aditya’s stepmother, then ends the arc in miscarriage after an accident.</li><li><strong>Adoption and a new sibling:</strong> <em>Mi marido tiene familia</em> places Julieta’s pregnancy while she and Juan Pablo are finalizing the adoption of his son David, who initially rejects the idea of a sibling.</li><li><strong>Paternity-mystery boundary:</strong> <em>The Bold and the Beautiful</em> verifies Brooke’s pregnancy and Ridge’s older children, but the exact marriage / stepmother chronology is complicated by Brooke’s engagement to Nick in the same arc, so it is medium-high confidence.</li><li><strong>Low-confidence lead:</strong> <em>Allein unter Müttern</em> has simultaneous pregnancies for widower Harald’s daughter and girlfriend Sabine, but the available synopsis does not establish Sabine as an existing stepmother before her pregnancy.</li><li><strong>Existing complementary category:</strong> the separate “Single mom remarries and gets pregnant with new partner” section already holds the previously verified Pattern B titles. This new sweep found no additional title beyond that established set; <em>The Stepdaughters</em> and <em>Five Enough</em> remain near-misses because the relevant mother does not become pregnant.</li><li><strong>Coverage gaps:</strong> targeted Portuguese, Korean, Turkish, Spanish, French and German searches produced no further verified match. Indonesian, Thai, Urdu/Pakistani, Bengali, South Indian serials, Russian/Eastern European, African and Scandinavian productions were not systematically exhausted, so absence is not proof that no case exists.</li></ul></div></details>\n<details open=\"\"><summary>Remarried wife controlled by her new husband or a stepfather figure: no verified exact match</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide sweep found no screen title proving all three required elements together: the woman is in a second-or-later marriage, she is genuinely hypnotized or mind-controlled, and the controller is her new husband or a stepfather figure. The search covered English, Spanish, Hindi, Indonesian, Korean, Chinese, Russian, Turkish and Tagalog queries across film, television, soaps, telenovelas and anime-adjacent sources.</p><ul><li><strong>Closest related variant:</strong> both the original and remake of <em>El maleficio</em> place widowed or single mother Beatriz in a new marriage to occultist Enrique de Martino, who becomes stepfather to her children and pursues the marriage in connection with her son. Direct hypnosis or mind-control of Beatriz herself is not documented.</li><li><strong>Unverified husband-control leads:</strong> <em>My Husband’s Deadly Past / Woman on the Edge</em> documents a psychiatrist husband altering his wife’s memories through hypnosis, but no source establishes remarriage or stepfather status. The Mandarin short drama <em>被催眠的她 / The Hypnotized Her</em> suggests husband-directed hypnosis or induced delusion, but its full plot and the wife’s remarriage status remain unverified.</li><li><strong>Clear exclusions:</strong> <em>Sleep, My Love</em>, <em>The Mask of Diijon</em>, <em>Thunderbolt: Magun</em>, <em>The Stepford Wives</em> and <em>Don’t Worry Darling</em> involve husband-directed control without a sourced prior marriage. <em>Mesmerized</em>, <em>Ek Thi Daayan</em> and <em>The Hypnotic Wife</em> reverse the requested controller–victim direction. <em>Hypnotic</em>, <em>The Dark Tower</em>, <em>The Night Walker</em>, <em>Return of William Marr</em>, <em>The Stepfather</em> and <em>Til Death Do Us Part</em> fail the marriage, controller or genuine mind-control requirement.</li><li><strong>Open questions:</strong> Episode-level evidence could still establish direct control of Beatriz in <em>El maleficio</em>; Karen / Mackenzie’s prior-marriage history in <em>My Husband’s Deadly Past</em> remains unknown; and the complete plot of <em>被催眠的她</em> was not available in searchable sources. No matching mainstream anime title was verified.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant single mother controlled by her new husband or child’s stepfather: no verified exact match</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide sweep found no screen title satisfying all five essential conditions at once: the woman already has a child; she is single or widowed before the relationship; she is pregnant during the control arc; the controller is her new husband or her existing child’s stepfather; and the plot uses genuine hypnosis, supernatural control, drugs or conditioning, technology, or another real loss-of-agency mechanism.</p><ul><li><strong>Strongest near-miss:</strong> <em>Pan’s Labyrinth / El laberinto del fauno</em> satisfies the family, widowhood, pregnancy and stepfather conditions, but Captain Vidal’s control is mundane patriarchal and military abuse rather than hypnosis or mind control.</li><li><strong>Original <em>El maleficio</em>:</strong> Beatriz is a widowed mother who marries sorcerer Enrique, but she is not pregnant—her daughter Vicky is—and direct hypnosis of Beatriz is not established.</li><li><strong>2023–24 <em>El maleficio</em> remake:</strong> Beatriz is again a single mother who marries Enrique, but her pregnancy and explicit mind control are both unverified.</li><li><strong>Excluded weaker leads:</strong> <em>Rosemary’s Baby</em> and the 2016 Kaal arc of <em>Sasural Simar Ka</em> do not receive this category because they fail the prior-child / stepfather or new-husband-controller structure.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant woman controlled by a fetus, dead-child ghost or alien child: 18 catalog entries</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide sweep produced twelve verified findings for this narrow direction of control. Reconciliation against the current catalog added eight new records and gave the new category to four existing records from the sweep, plus six already-cataloged overlaps named for additional membership.</p><ul><li><strong>Agentic unborn, fetal or alien controllers:</strong> fifteen entries involve an unborn child, fetus, fetal-form entity or alien child exerting control or supernatural influence over a pregnant woman.</li><li><strong>Dead-child ghosts:</strong> three Japanese entries involve murdered, aborted or unborn child spirits usurping a pregnancy or dominating a pregnant woman’s womb.</li><li><strong>Living psychic-child gap:</strong> no verified case of a living psychic child hypnotizing or mentally dominating a pregnant woman was found in any region. This subcategory is documented as empty rather than omitted.</li><li><strong>Serial-format gap:</strong> no soap-opera, telenovela or TV-serial subplot matching this direction of control was verified. Anthology and episodic television findings remain included where supported.</li><li><strong>Confidence:</strong> the twelve sweep findings retain their supplied HIGH, MEDIUM-HIGH, MEDIUM or MEDIUM-LOW labels. Existing records keep their established confidence wording unchanged.</li></ul></div></details>\n<details open=\"\"><summary>Female character controlled by a child or teen: 52 catalog entries</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide sweep found 50 numbered main-list findings and three already-cataloged titles. One episode—<em>The Twilight Zone</em>’s “It’s Still a Good Life”—was repeated inside a broader franchise finding, so it is consolidated rather than shown twice. Reconciliation against the current page produced 52 distinct category entries: 45 new catalog records and seven existing records with this category added.</p><ul><li><strong>Strictest clusters:</strong> living psychic or alien children; dead-child ghosts possessing women or girls; teen witches; and teen superpowers, magical artifacts or technology that override a female character’s will.</li><li><strong>Unborn controllers:</strong> <em>Baby Blood</em>, <em>Prevenge</em>, <em>The Unborn</em> (1991) and <em>Help</em> treat a fetus, unborn spirit or fetal-form entity as the controller. Each card keeps that eligibility caveat.</li><li><strong>Boundary cases remain visible:</strong> several controllers are ancient entities in child bodies, child-shaped demons, teenage ghosts, a doll acting on a child’s emotions, or children using transformation, coercion or a single supernatural command rather than classic hypnosis. These are labeled medium, low-medium or low confidence rather than presented as strict matches.</li><li><strong>Coverage:</strong> the verified set spans films, TV episodes, series arcs, a miniseries, anime and animation across North America, Europe, South and East Asia, Taiwan and Mexico. No verified TV movie surfaced. Searches in several additional regions returned only reverse-direction cases or unverified leads; absence here reflects a documentation gap, not proof that no example exists.</li><li><strong>Excluded direction:</strong> stories where adults or entities control children, or where a child attacks a woman without mentally controlling her, remain outside this category.</li></ul></div></details>\n<details><summary>Child-controller category: unresolved leads and near-misses</summary><div class=\"note-body\"><p>The research did not promote claims that lacked a verified child controller, female controlled target or mind-control mechanism.</p><ul><li><strong>Future verification:</strong> <em>Laal Ishq</em> S01E45 (“Madhu”) and an <em>Aahat</em> episode described as “The Possessed Mother” lack a source establishing the controller’s identity or age. “Witch-child” films from Nollywood and Ghallywood surfaced without proof of hypnosis, possession or puppeting.</li><li><strong>Female-target gap:</strong> <em>Whisper</em>, <em>Case 39</em> and <em>Freaks</em> feature child controllers or mind-manipulation powers, but sourced controlled victims are male or the woman is threatened rather than mentally dominated.</li><li><strong>Wrong direction:</strong> <em>The Haunting of Bly Manor</em>, <em>The Demon Headmaster</em>, <em>Storm of the Century</em>, <em>Aatma</em>, <em>Bandish</em>, <em>Belapur Ki Dayan</em> and <em>Incantation</em> place the child on the receiving end of control or use an adult/entity as the controller.</li><li><strong>Attack is not control:</strong> <em>Weapons</em>, <em>The Visitor</em>, <em>Brightburn</em>, <em>Tin &amp; Tina</em> and <em>Goodnight Mommy</em> involve attack, restraint, intimidation or destabilization without verified mental puppeting of a female character.</li></ul></div></details>\n<details open=\"\"><summary>Husband’s ex-wife or ex-lover controls the current wife: 25 findings</summary><div class=\"note-body\"><p>This worldwide section separates literal possession, voodoo or trance, black magic, and close variants in which the mechanism or relationship geometry deviates. Five titles already had catalog records and gained the new category without duplication; 20 are new. A pre-existing duplicate pair for <em>Siccîn</em> (2014) was consolidated, so the catalog rises from 493 to 512 unique records.</p><ul><li><strong>Exact possession pattern:</strong> dead first wives, ex-wives, ex-girlfriends or former lovers possess the current wife in the two direct-possession groups.</li><li><strong>Hypnosis gap:</strong> no verified genuine stage-style hypnosis instance of the exact pattern was found. <em>Ouanga</em> is the closest trance case and remains under witchcraft because its mechanism is voodoo.</li><li><strong>Close variants:</strong> the cards explicitly label haunting without control, a bride or girlfriend rather than a wife, an unrequited admirer, third-party orchestration and unverified story-line possibilities.</li><li><strong>Documented near-misses:</strong> <em>Blithe Spirit</em>, <em>Raaz</em> (2002) and <em>El fantasma de Elena</em> use haunting, intimidation or attack without possession or mind control. <em>Bepanah Pyaar</em> reveals the “new wife” as the first wife under another identity; <em>Qubool Hai</em> uses blackmail and scheming only. The book <em>Entre a Terra e o Céu</em> is outside screen scope, and <em>Laura Sin Censura</em> is non-fiction.</li><li><strong>Research provenance:</strong> consolidated from the South Asia, Latin America / Spain / Portugal, East and Southeast Asia, and Western world plus Middle East / Africa sweeps, with separate verification of <em>She Waits</em>. Working reports: <code>husband-exwife-hypnosis-southasia/report.md</code>, <code>husband-exwife-hypnosis-latam/report.md</code>, <code>husband-exwife-hypnosis-eastasia/report.md</code>, <code>husband-exwife-hypnosis-western/report.md</code>, and <code>husband-exwife-hypnosis-consolidated/report.md</code>.</li></ul></div></details>\n<details open=\"\"><summary>Wife hypnotized or controlled by a therapist: 7 strict matches</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide pass found seven strict matches: six high-confidence titles and one medium-confidence 1912 silent short. All are films; no confirmed TV series, serial, soap opera, telenovela, anime or web-series match survived verification. That is a documentation gap, not proof that none exists.</p><ul><li><strong>Evil or criminal exploitation:</strong> <em>Whirlpool</em> and <em>Hypnotic</em>.</li><li><strong>Coercive or investigative hypnosis:</strong> <em>Tee Ratra</em> and <em>Amore e ipnotismo</em>; the latter rests on a single IMDb plot summary, and its Italian origin remains probable rather than fully verified.</li><li><strong>Benevolent or therapeutic:</strong> <em>The Three Faces of Eve</em> and <em>The Hypnotist / Hypnotisören</em>.</li><li><strong>Treatment turning romantic or obsessive:</strong> <em>The Hypnotized / Faceless Beauty</em>.</li><li><strong>Reconciliation:</strong> six titles already had catalog records and gained the new category without duplication; <em>The Three Faces of Eve</em> is the only net-new record.</li></ul></div></details>\n<details open=\"\"><summary>Parents intimate while children sleep: 6 scene-linked titles + 1 thematic near-match</summary><div class=\"note-body\"><p>The 29–30 September 2026 worldwide pass found six titles with source support connecting a sleeping child to the romantic or intimate scene, plus one separately labeled thematic near-match. They are grouped by where the sleeping child is and how directly the intimacy is established. The trope is rarely described at scene level, so each card keeps the report’s confidence tier and caveat.</p><ul><li><strong>Same room or crib:</strong> <em>Shaadi Ke Side Effects</em> has a sustained baby-in-bedroom and disrupted-intimacy thread; the 2 March 2018 <em>Yeh Hai Mohabbatein</em> episode places a mild romantic beat immediately after Pihu’s bedtime story, though her exact proximity is not fully explicit.</li><li><strong>Adjacent room or nearby:</strong> <em>Malcolm in the Middle</em> “Sleepover” has Reese asleep in the hallway while Dewey remains awake; <em>Everybody Loves Raymond</em> “Halloween Candy” is a clearly sourced but interrupted attempt after the children are asleep; the 26 December 2017 <em>Yeh Hai Mohabbatein</em> episode is a very mild downstairs moment.</li><li><strong>Other variants:</strong> <em>Parasite</em> places the sleeping child in a garden tent on the same property. <em>Mind the Malhotras</em> verifies the parents’ bedroom role-play and family context but not a specific sleeping-child scene, so it remains thematic only.</li><li><strong>Coverage limit:</strong> no verified TV movie or soap-opera-specific match was found beyond the Indian serial episodes, and no title was found in the Middle East or Africa. The result reflects a documentation gap rather than proof that other scenes do not exist.</li><li><strong>Excluded:</strong> pure walk-ins remain in the separate child-walks-in category. Cases with an awake child, absent children or no sourced sleep detail were not promoted.</li></ul></div></details>\n<details open=\"\"><summary>Adopt a child, then become pregnant: 21 verified titles</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide source-index pass verified 21 distinct titles with the requested order: a child is adopted first, then the mother, wife or partner becomes pregnant. Sixteen are high confidence, two medium-high and three medium; four additional marginal or unusual variants are shown separately and do not inflate the core count.</p><ul><li><strong>Infertility-driven sequence:</strong> 19 titles involve, or likely involve, a couple who adopts after difficulty conceiving and later has a pregnancy. Where infertility is inferred rather than explicit, the card says so.</li><li><strong>Same-sex and foster-to-adopt cases:</strong> <em>The Fosters</em> is the one same-sex-couple case; it and <em>Parenthood</em> include foster-to-adopt chronology.</li><li><strong>Family tension:</strong> six titles connect the later pregnancy or biological child to jealousy, favoritism or conflict involving the adoptee: <em>Ama, Ina, Anak</em>, <em>Malignant</em>, <em>Law &amp; Order: SVU</em>, <em>Only Murders in the Building</em>, <em>Yu-Gi-Oh! GX</em> and <em>ThunderCats</em>.</li><li><strong>Outcome caveat:</strong> the pregnancies in <em>Smallville</em> and <em>The Fosters</em> end in miscarriage; both still satisfy the adopt-then-pregnant sequence and are labeled accordingly.</li><li><strong>Open gaps:</strong> no confident example was found where adoption is used specifically to repair a marriage or stop waiting, and no core single-parent case was verified. English-indexed sources also yielded no confirmed fit in Latin American telenovelas, Turkish dizis, Korean or Chinese drama, Russian/Ukrainian melodrama, Nollywood, or continental European television.</li></ul></div></details>\n<details><summary>Adopt-then-pregnant: marginal variants and exclusions</summary><div class=\"note-body\"><p>Four separately labeled cards preserve leads that approach the pattern without meeting every strict criterion: <em>The Reaping</em> lacks a formal adoption and involves rape; <em>Omen IV: The Awakening</em> uses supernatural implantation; <em>CSI: NY</em> lacks independent proof of adoption-before-conception; and <em>Neighbours</em> uses a step-parent adoption of the later-pregnant woman’s biological son.</p><ul><li><strong>Verified non-fits:</strong> <em>Instant Family</em>, <em>Friends</em>, <em>This Is Us</em>, <em>The Light Between Oceans</em> and several other common leads fail the chronology or never include the later pregnancy.</li><li><strong>Surrogacy exclusions:</strong> <em>Rules of Engagement</em>, <em>Shameless</em> and <em>Amor à Vida</em> use surrogacy or surrogate-like arrangements rather than the requested sequence.</li><li><strong>Research limit:</strong> none of the 25 displayed core and variant entries was verified in a live research browser; confidence labels reflect index sourcing, corroboration and the report’s stated caveats.</li></ul></div></details>\n<details open=\"\"><summary>Duplicate reconciliation</summary><div class=\"note-body\"><p>Six confirmed duplicate pairs were consolidated on 30 September 2026, reducing the index from 467 to 461 records without removing any category membership, plot detail, evidence label or source.</p><ul><li><strong>Merged records:</strong> <em>Aval / Gruham</em> (2017), <em>Sijjin</em> (2023), <em>Alone</em> (2015), <em>1920</em> (2008), <em>Arundhati</em> (2009) and <em>Kavach… Kaali Shaktiyon Se</em> (2016).</li><li><strong>Kept separate:</strong> remakes and same-title films from different years, plus records describing distinct victims, controllers or story arcs.</li><li><strong>Still under review:</strong> the similarly labeled <em>Nazar</em>, <em>Tantra</em>, <em>Qayamat Ki Raat</em> and <em>El maleficio</em> records require plot-level confirmation before any further merge. <em>Bhool Bhulaiyaa</em> and <em>Manichitrathazhu</em> also retain their existing therapeutic-hypnosis and supernatural-boundary records until category placement is resolved.</li></ul></div></details>\n<details open=\"\"><summary>Worldwide female hypnosis and mind-control expansion</summary><div class=\"note-body\"><p>The 29 September 2026 research report lists 211 findings: six in hypnotized-to-love, one in husband-controls-wife, one pregnant-woman possession case, and 203 entries across nine new mechanism categories. Two findings—<em>The Thief of Bagdad</em> and <em>Don’t Worry Darling</em>—were already in the catalog, yielding 209 net-new records. The report states that these titles were checked against Wikipedia, IMDb, episode guides and entertainment press; because it does not map individual titles to individual pages, each new card preserves that shared source basis rather than assigning a narrower citation.</p><ul><li><strong>Largest new groups:</strong> 55 spirit, ghost or djinn cases; 33 sci-fi, alien or technological cases; 29 human-villain cases; 28 Western occult cases; and 20 vampire-mesmerism cases.</li><li><strong>Regional structure:</strong> the spirit-possession category keeps separate groups for Indian films, Indian television, Korean titles, Thai and Filipino titles, and Turkish, Arab, Latin and African titles.</li><li><strong>Scope:</strong> verified exclusions from the report were not added. Existing catalog records and their original caveats remain in place.</li></ul></div></details>\n<details open=\"\"><summary>India: 41 female hypnosis and mind-control titles</summary><div class=\"note-body\"><p>This 30 September 2026 source-index pass adds or re-verifies 41 unique Indian films, television series, soaps, telefilms and anthology episodes across Hindi, Tamil, Telugu, Malayalam, Kannada, Marathi and Gujarati: 37 high-confidence titles and 4 possible cases. The cards are categorized by the controlling mechanism and preserve every source-level caveat.</p><ul><li><strong>Love, marriage or relationship:</strong> five high-confidence stories place a woman under a spell or possession that drives a marriage or romantic pursuit.</li><li><strong>Husband-controlled wife:</strong> <em>Tee Ratra</em> is now a high-confidence match: a suspicious husband commissions a psychiatrist friend to traumatize and hypnotize his wife so she reveals her secret.</li><li><strong>Villain or tantrik control:</strong> nine titles use hypnosis, black magic, trance or supernatural enslavement for revenge, violence, sacrifice or another criminal aim.</li><li><strong>Supernatural control:</strong> possession is the largest cluster, with film and serial entries spanning seven Indian languages. <em>Vish</em> and <em>Pishachini</em> remain possible because the available source wording does not fully establish the control mechanics.</li><li><strong>Drugs or psychological manipulation:</strong> <em>Yeh Vaada Raha</em> is high confidence; <em>Vish Ya Amrit: Sitara</em> is a possible deception-based brainwashing case rather than literal supernatural control.</li><li><strong>Coverage limit:</strong> English-indexed sources yielded no confirmed 1960s–70s Bollywood title. Most verified cases date from 1980–2025, and regional-language episode recaps remain unevenly indexed.</li></ul></div></details>\n<details open=\"\"><summary>Indonesia: 8 focused female-control findings</summary><div class=\"note-body\"><p>The 30 September 2026 focused source pass contributes eight Indonesian productions across films, sinetron, web television and a YouTube short-film series. Three plots are verified by multiple sources; five remain possible because they rely on one outlet or leave the exact control mechanism unclear.</p><ul><li><strong>Love or relationship control:</strong> <em>Ilmu Hipnotis – Gara Gara Gendam Istriku Diambil Orang</em> and <em>Guna-Guna Isteri Muda</em> are possible cases involving gendam or love magic.</li><li><strong>Supernatural control:</strong> <em>Sijjin</em>, <em>Sewu Dino</em> and the 2024 <em>Guna-Guna Istri Muda</em> are verified; <em>Kitab Sijjin &amp; Illiyyin</em> remains possible on a single source.</li><li><strong>Other hypnosis:</strong> <em>Sepatu Super</em> has a reported hypnosis-to-hatred plot, while <em>Malam Minggu Miko</em> confirms only an episode titled “Hipnotis Vania”; both remain possible.</li><li><strong>Open gap:</strong> no confirmed Indonesian or Indian title in this focused pass showed a woman controlled by her own husband.</li></ul></div></details>\n<details><summary>India: checked but excluded</summary><div class=\"note-body\"><p>The expanded pass removed leads that did not prove external control of a female character.</p><ul><li><strong>Dissociative or split-personality plots:</strong> <em>Bhool Bhulaiyaa</em> (2007), <em>Manichitrathazhu</em> (1993), <em>Apthamitra</em> (2004) and <em>Chandramukhi</em> (2005) were excluded because their resolution is psychological rather than external hypnosis or brainwashing.</li><li><strong>Wrong victim or mechanism:</strong> <em>Munjya</em> possesses a male character; <em>Ek Thi Daayan</em> uses regression hypnosis on a man; <em>Qayamat Ki Raat</em> does not establish female mind control; and <em>Bulbbul</em>, <em>Pari</em>, <em>Shaapit</em> and <em>1920 London</em> do not confirm the requested female-control plot.</li><li><strong>Unverified:</strong> the Bengali <em>Arundhati</em> remake lacked a title-specific source, while <em>L7</em> surfaced only through a trailer. Neither is promoted into the catalog.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant-woman control in India &amp; Indonesia: focused regional set</summary><div class=\"note-body\"><p>The dedicated regional filter consolidates eight sourced records from two focused 30 September 2026 research passes: seven Indian titles and one Indonesian title. Six are direct, high-confidence pregnancy-and-control cases; <em>Iblis dalam Kandungan</em> is a medium-high-confidence attempted-possession case; and <em>Bandh Darwaza</em> is a conception-time close variant.</p><ul><li><strong>Indian films:</strong> <em>Help</em> (Hindi), <em>Lapachhapi</em> (Marathi) and its Hindi remake <em>Chhorii</em> directly overlap pregnancy with possession or supernatural compulsion. <em>Bandh Darwaza</em> (Hindi) is kept separate because the verified hypnosis occurs at conception.</li><li><strong>Indian television:</strong> <em>Laal Ishq</em>, <em>Naagin 3</em> and <em>Sasural Simar Ka</em> have episode-recap evidence for pregnancy plus possession, hypnosis, black magic or direct mental commands.</li><li><strong>Indonesia:</strong> <em>Iblis dalam Kandungan</em> follows pregnant Amelia as a female spirit tries to enter and possess her body to claim the baby; the available synopses do not establish whether full possession succeeds.</li><li><strong>Coverage limit:</strong> no additional verified Indonesian sinetron or TV movie was found, and no separate verified Tamil, Telugu, Malayalam, Kannada, Bengali, Bhojpuri, Odia or Assamese title met the same-character, same-pregnancy test.</li></ul></div></details>\n<details><summary>Indian pregnant-woman hypnosis and mind-control pass</summary><div class=\"note-body\"><p>The consolidated 30 September 2026 Indian-language pass verified six high-confidence cases—three films and three television stories—plus one Hindi-film close variant. All involve a supernatural controller: a ghost or spirit, witches, a demonic unborn child or a vampire. The same woman must be pregnant while controlled; the conception-time variant is kept separate because hypnosis is not verified after the pregnancy begins.</p><ul><li><strong>High-confidence films:</strong> <em>Help</em> (Hindi), <em>Lapachhapi</em> (Marathi) and <em>Chhorii</em> (Hindi). Each directly overlaps pregnancy with possession or supernatural compulsion.</li><li><strong>High-confidence television cases:</strong> <em>Laal Ishq</em> (“Dhruv, Sonya, Unhappy Pregnant Soul”), <em>Naagin 3</em> and <em>Sasural Simar Ka</em>. Their episode recaps establish both pregnancy and possession, hypnosis, a spell or direct mental commands.</li><li><strong>Close variant:</strong> <em>Bandh Darwaza</em> (1990). Neola hypnotizes and impregnates Lajo; the hypnosis occurs at conception rather than during an already-established pregnancy.</li><li><strong>No naturalistic case verified:</strong> the search found no Indian plot in which a husband, doctor or criminal hypnotizes a pregnant woman for abortion, baby theft or revenge.</li><li><strong>Regional-language gap:</strong> beyond the Marathi film <em>Lapachhapi</em>, targeted searches found no separate verified Tamil, Telugu, Malayalam, Kannada, Bengali, Marathi television, Bhojpuri, Odia or Assamese title. Hindi serials dubbed into other languages are not counted twice.</li></ul></div></details>\n<details><summary>Worldwide pregnant-woman control category</summary><div class=\"note-body\"><p>With the Indian and Indonesian updates, this category contains 19 high-confidence direct-control or possession cases and 18 close or medium-confidence variants. Every card labels the mechanism and the strength or limitation of its evidence.</p><ul><li><strong>High-confidence mechanisms:</strong> demonic possession, AI brainwashing, alien or embryo influence, an unborn parasite, a demon fetus, ghost possession, black magic and direct mental commands from an unborn entity.</li><li><strong>Close and medium-confidence boundary:</strong> attempted possession, conception-time hypnosis, cult or medical reproductive coercion, supernatural pregnancy with ambiguous control, haunting or influence that stops short of clear possession, and single-source cases.</li><li><strong>Regional entries:</strong> <em>Help</em>, <em>Lapachhapi</em> and <em>Chhorii</em> are the verified Indian film cases from the latest pass, while <em>Iblis dalam Kandungan</em> is the medium-high-confidence Indonesian attempted-possession case.</li></ul></div></details>\n<details><summary>Pregnant-woman control: checked but excluded or unresolved</summary><div class=\"note-body\"><p>These titles surfaced in targeted searches but did not prove that the same woman was pregnant while her mind or actions were controlled.</p><ul><li><strong>Focused India exclusions:</strong> <em>Birth</em> confirms an eight-months-pregnant woman trapped by a sinister cult but not hypnosis, commanded acts or a mind-control mechanism. <em>Nazar</em>, <em>Manmohini</em>, <em>Kavach</em>, <em>Naagin 5</em>, <em>Divya Drishti</em>, <em>Tantra</em> and other checked serials fail the pregnancy-and-control overlap. <em>Chhorii</em> and <em>Lapachhapi</em> are now included because the newer source pass explicitly supports supernatural compulsion of pregnant women.</li><li><strong>Other Indian non-fits:</strong> <em>Jadu Tona</em>, <em>Yehh Jadu Hai Jinn Ka!</em>, <em>Vish Ya Amrit: Sitara</em>, <em>Bhool Bhulaiyaa</em>, <em>Alpviram</em>, <em>Qayamat Ki Raat</em>, <em>Savdhaan India</em> “Miseries of a Tormented Wife,” and other <em>Laal Ishq</em> hypnosis episodes did not establish successful mind control of a pregnant woman.</li><li><strong>Indonesian screen titles:</strong> <em>Sumala</em>, <em>Racun Sangga</em>, <em>Beranak dalam Kubur</em>, <em>Satu Suro</em>, <em>Kuyang</em>, <em>Hi5teria</em>, <em>Malam Jumat Kliwon</em>, <em>Dukun Beranak</em> and the FTV <em>Mendadak Hamil</em> lack same-character pregnancy plus explicit mind control; <em>Dukun</em> is Malaysian and also splits pregnancy and possession between different women. <em>The Womb / Inang</em> has been moved into the strict section after newer scene-level evidence verified literal hypnosis during Wulan’s pregnancy.</li><li><strong>Other unverified timing:</strong> <em>Bunshinsaba</em> has a possessed teacher who later gives birth, but pregnancy during possession could not be established.</li><li><strong>Haunted or threatened, not controlled:</strong> <em>Magi</em>, <em>The Wrath</em>, <em>The Unborn</em> (2003), <em>Ma</em> and <em>Sakanak</em>. <em>Cin Azabı</em> is now retained only as a low-confidence unresolved lead, with its missing control evidence stated on the card.</li><li><strong>Fetus affected or no overlap:</strong> <em>Delivery: The Beast Within</em>, <em>Gauri: The Unborn</em>, <em>El maleficio</em> and <em>El extraño retorno de Diana Salazar</em>.</li><li><strong>No qualifying control:</strong> <em>Xtro</em>, <em>Metamorphosis</em> and several individually checked titles including <em>Still/Born</em>, <em>Bed Rest</em>, <em>Apartment 7A</em>, <em>The Omen</em> and <em>The Last Exorcism Part II</em>.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant mother + child walk-in: one airtight match (Catastrophe S2E1)</summary><div class=\"note-body\"><p>The 30 September 2026 English-indexed search and a follow-up using native-language queries across 12 priority markets established one airtight exact match — <em>Catastrophe</em> S2E1 (2015), in which deeply pregnant Sharon is mid-coitus with husband Rob when their son walks in — alongside one strongest candidate and 24 clearly labeled partial or exclusion cases, including 10 new catalog records from the follow-up; cards are displayed in ascending release-year order within each confidence group, with undated leads last.</p><ul><li><strong>Strongest candidate:</strong> <em>Neighbors 2: Sorority Rising</em> (2016). Pregnancy, toddler Stella and the opening lovemaking scene are supported by multiple sources; Stella’s immediate entrance is stated explicitly in the IMDb plot summary and the associated adult-toy gag is corroborated by reviews. Because a screenplay, subtitles or direct scene check was not available, the exact timing remains unconfirmed and the title is not presented as a fully verified match.</li><li><strong>Strongest new partial:</strong> <em>СашаТаня (SashaTanya)</em>. Alyoshka’s bedroom walk-in is documented in Season 7, but Tanya’s verified twin pregnancy begins six episodes later in the Season 8 premiere; no pregnancy-period walk-in was found.</li><li><strong>Native-language coverage:</strong> targeted searches covered Hindi, Turkish, Spanish, Portuguese, Korean, Japanese, Chinese, Arabic, French, German, Russian and Italian. New partials from Russia, France, Argentina, Italy, Mexico, India, Turkey, Brazil and Japan remain labeled with the exact missing element.</li><li><strong>Open questions:</strong> video, subtitle or transcript access is still needed to determine whether <em>SashaTanya</em> Season 8, <em>Casados con hijos</em> S01E89, <em>Fais pas ci, fais pas ça</em> Season 3 or <em>Un medico in famiglia</em> Season 2 contains a qualifying scene. Moni Argento’s pregnancy may also be a false alarm.</li><li><strong>Not promoted:</strong> <em>A Grande Família</em> fails because Bebel’s pregnancy is her first. Four German or Russian walk-in clips have no pregnancy, so they remain outside the catalog rather than being padded into the partial list.</li></ul></div></details>\n<details open=\"\"><summary>Child walks in on parents’ intimate scene: 39 sourced records</summary><div class=\"note-body\"><p>The category now holds 39 records: 23 shown strict cases involving the couple’s own minor child, four dialogue-confirmed childhood recollections, six adult-offspring cases and six labeled variants or near-misses. Descriptions remain non-graphic, and every card preserves the report’s confidence level and source caveat.</p><ul><li><strong>Strict shown cases:</strong> the own-child set is split by location. Bedroom or sleeping-room entries remain the strictest group; bathroom, living-room and couch interruptions are shown separately without losing their strict own-child status.</li><li><strong>Recounted events:</strong> <em>Veronica Mars</em>, <em>Scrubs</em>, <em>Yellowjackets</em> and <em>Misfits</em> confirm a childhood walk-in through dialogue or transcript, but do not show the event on screen.</li><li><strong>Adult offspring:</strong> <em>Schitt’s Creek</em>, <em>Seinfeld</em>, <em>Life in Pieces</em>, <em>Psych</em>, <em>Titus</em> and <em>Friends</em> are separated because the interrupter is an adult child.</li><li><strong>Other variants:</strong> <em>Soul Food</em> uses a kitchen; <em>Stepmom</em> involves a father and future stepmother; <em>Christmas Evil</em> leaves the exact entry point unclear; <em>South Park</em> S20E04 uses a consensual kink act; <em>F Is for Family</em> has a child already hiding under the bed; and <em>Once Upon a Time</em> is post-coital rather than an interruption.</li><li><strong>Worldwide result:</strong> <em>Catastrophe</em> S2E1 is the first verified pregnant-mother strict match in the catalog and has dual membership in the pregnancy-sex section. <em>Pabbahelgar</em> from Iceland remains the only verified non-English strict title found in the earlier walk-in sweep; its broader native-language searches produced unresolved leads rather than additional confirmed titles.</li><li><strong>Unresolved, not promoted:</strong> exact episodes remain unidentified for <em>Oliver Beene</em>, <em>Ready or Not</em>, <em>The Oblongs</em>, <em>Family Matters</em>, <em>The Drew Carey Show</em> and <em>30 Rock</em>. The French short <em>Surprendre ses parents en train de...</em> has IMDb-only support. <em>Meet the Fockers</em> remains a prior supplied adult-son lead without enough scene detail in this report, and the alleged <em>Blockers</em> stinger is contradicted by available material.</li><li><strong>Firm exclusions:</strong> scenes with one parent and a different partner, a child merely overhearing from outside, an unrelated child, kissing only, averted interruptions or a reversed-direction setup are not included as matches.</li></ul></div></details>\n<details open=\"\"><summary>Pregnant sex and intimate scenes: 18 new records after deduplication</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide sweep expands both existing sections to 17 entries each. Eighteen unique records are new; <em>Outlander</em>, <em>Yeh Hai Mohabbatein</em> and <em>Badhaai Ho</em> were expanded in place rather than duplicated. <em>Neon Bull</em> and <em>Knocked Up</em> were independently reconfirmed and needed no structural change.</p><ul><li><strong>Having sex:</strong> the character is pregnant during an on-screen encounter, or the episode’s plot and sourcing clearly establish that it happened. Subgroups separate established partners, new partners or affairs, comedy, a plot-verified non-consensual case, adult-animation / sex-work context and one timing-caveat case.</li><li><strong>Intimate scenes:</strong> attempted or interrupted sex, sensual or erotic imagery short of intercourse, affectionate non-sexual romance, labor-induction discussion, and sexual fantasy remain distinct from completed sex.</li><li><strong>Evidence boundaries:</strong> <em>A Happy Event</em> rests on one English-language review after native-language searches did not corroborate the scene; <em>The Housemaid</em>, <em>Junichi</em> and <em>Pasión de Gavilanes</em> rely on viewer or fan sources; <em>24 Weeks</em> verifies a sex scene but not the character’s pregnancy at that exact moment. These limits are repeated on the cards.</li><li><strong>Held as near-misses:</strong> <em>Bridal Shower</em> only implies marital relations; <em>Kızılcık Şerbeti</em> does not establish overlap between the romantic episode and pregnancy arc. Other rejected leads either place the scene before pregnancy, only discuss sex, use a false or performer-only pregnancy, or lack a qualifying intimate scene.</li><li><strong>Coverage gaps:</strong> no source-verified African or Arabic-language case was found, and none was verified in Tamil, Telugu, Malayalam, Kannada, Marathi, Bengali, Punjabi, Pakistani, Bangladeshi or Sri Lankan productions. These are documentation gaps, not proof of absence.</li><li><strong>Performer caveat:</strong> a performer being pregnant is not enough unless the character is also pregnant. <em>Neon Bull</em> remains separately labeled because both are true.</li></ul></div></details>\n<details open=\"\"><summary>Category 4: mothers with children under hypnosis or mind control</summary><div class=\"note-body\"><p>The 30 September 2026 research pass found 17 higher-confidence fits and 12 separately labeled borderline or lower-confidence cases. The higher-confidence tier includes 16 English-language titles and one Spanish-language Argentine film. Every card states its mechanism and preserves source-level caveats; several obscure shorts rely only on IMDb synopsis-level evidence.</p><ul><li><strong>Strongest concentration:</strong> demonic-possession horror and witchcraft or technology-driven mind control.</li><li><strong>Open leads:</strong> the Turkish/Indonesian <em>Siccîn/Sijjin</em> line still needs proof that the targeted wife is a mother with an on-screen child. Both versions of <em>El maleficio</em> need episode-level proof of direct mind control rather than deception or intimidation.</li><li><strong>Research basis:</strong> indexed page content and fetched plot text; none of these findings was re-verified in a live research browser during this pass.</li></ul></div></details>\n<details><summary>Category 4: regions and formats checked with no verified fit</summary><div class=\"note-body\"><p>Targeted searches found no additional verified fit in Indian regional cinema, Korean, Japanese, Chinese, Thai or Filipino film and television; Brazilian/Portuguese, French, German, Italian, Russian, Scandinavian, Middle Eastern or African cinema; or Western animation.</p><ul><li><strong>India:</strong> <em>Shaitaan</em> and <em>Vash</em> control the daughter, not the mother.</li><li><strong>Korea:</strong> <em>Hypnotized</em> (2004) involves a married woman, but motherhood was not verified.</li><li><strong>Turkey:</strong> <em>Dabbe: Cin Çarpması</em> involves a possessed woman not established as a mother.</li><li><strong>Other checked non-fits:</strong> <em>Ouija: Origin of Evil</em>, <em>The Possession</em>, <em>The Exorcist</em>, <em>Get Out</em>, <em>The Manchurian Candidate</em>, <em>Mother Is Strong on Hypnotism</em>, <em>Mama</em>, <em>WandaVision</em>, <em>Bring Her Back</em>, <em>The Babadook</em>, <em>Relic</em> and <em>Bless the Child</em> fail the mother-as-controlled-victim rule.</li></ul></div></details>\n<details open=\"\"><summary>Worldwide expansion: 20 strong cases + 7 borderline</summary><div class=\"note-body\"><p>The 30 September 2026 worldwide pass added 20 defensible strong cases and 7 separately labeled borderline cases. Targeted searches covered the United States and Canada, Japan, South Korea, China, India, Latin America, Turkey and the Middle East, Russia/Soviet cinema, and continental Europe. The evidence supports fewer than the requested 40–60 new titles, so the catalog is not padded with weak matches.</p><ul><li>New regional coverage is still concentrated in the United States and Japan. South Korea is represented by <strong>Hypnotized</strong> (2004), and China by <strong>The Love by Hypnotic</strong> (2019).</li><li><strong>The Love by Hypnotic</strong> is supported by a MyDramaList review synopsis and TV Time synopsis, not a viewed transcript.</li><li><strong>Tanken Driland</strong> and <strong>Yatterman</strong> episode 55 remain trope-index-only claims and are not catalog entries until independently verified.</li></ul></div></details>\n<details><summary>Husband hypnotizes or mind-controls wife: dedicated worldwide pass</summary><div class=\"note-body\"><p>This source-index pass identified six strong movie matches, two TV-movie matches and one loose, unverified serial match. Its nine findings are included in the husband-control category and keep their direct, loose or unverified labels on the cards.</p><ul><li><strong>Strong movies:</strong> <em>Amore e ipnotismo</em>, <em>Sleep, My Love</em>, both versions of <em>The Stepford Wives</em>, <em>Tee Ratra</em> and <em>Don’t Worry Darling</em>.</li><li><strong>TV movies:</strong> <em>The Stepford Children</em> is a direct match under the Stepford rule; <em>Revenge of the Stepford Wives</em> is loose because the town’s conspiracy—not Megan’s husband—imposes the conditioning.</li><li><strong>Serial:</strong> <em>被催眠的她</em> (<em>The Hypnotized Her</em>) is loose and unverified because no source establishes that the husband is the hypnotist.</li><li>All findings in this pass rest on indexed page content reviewed 30 September 2026, not live-browser confirmation. The country and original language of <em>Amore e ipnotismo</em> remain unverified.</li></ul></div></details>\n<details><summary>Checked and excluded from “hypnotized to love”</summary><div class=\"note-body\"><ul>\n<li><strong>Shallow Hal</strong> (2001): the man’s perception is altered; no woman is hypnotized into love. <a href=\"https://www.rogerebert.com/reviews/shallow-hal-2001\" rel=\"noopener\" target=\"_blank\">RogerEbert.com</a></li>\n<li><strong>Get Out</strong> (2017): hypnosis enables the Coagula procedure, not romance. <a href=\"https://get-out.fandom.com/wiki/The_Sunken_Place\" rel=\"noopener\" target=\"_blank\">Get Out Wiki</a></li>\n<li><strong>Office Space</strong> (1999): Peter is hypnotized into job apathy; his romance is incidental. <a href=\"https://en.wikipedia.org/wiki/Office_Space\" rel=\"noopener\" target=\"_blank\">Wikipedia</a></li>\n<li><strong>Shaitaan</strong> (2024): occult control is possessive but not romantic. <a href=\"https://english.tupaki.com/entertainment/shaitaanmovietrailer-1344781\" rel=\"noopener\" target=\"_blank\">Tupaki</a></li>\n</ul></div></details>\n<details><summary>Checked and excluded from “husband controls wife”</summary><div class=\"note-body\"><ul>\n<li><strong>Dr. Damon’s Experiment</strong> (1954, <em>The Vise</em>, UK): re-verification shows the husband hypnotizes his wife’s lover, not his wife.</li>\n<li><strong>Hypnotic</strong> (2021, USA): the hypnotherapist is not her husband.</li>\n<li><strong>Rosemary’s Baby</strong> (1968, USA): the husband drugs his wife, but the occult act is performed by the neighbors, not him.</li>\n<li><strong>Mesmerized</strong> (1985/86), <strong>Take Her by Surprise</strong> (1967), <strong>Perfect Little Angels</strong> (1998), <strong>The Stepford Husbands</strong> (1996), <strong>Possession</strong> (2009), <strong>The Hypnosis</strong> (2023), <strong>The Hypnotic Wife</strong>, <strong>Temptation of Wife</strong> (2008–09), and <strong>Night of the Eagle</strong> (1962) also miss the requested perpetrator–victim direction or use no hypnosis of the wife.</li>\n</ul></div></details>\n<details><summary>Titles and regions still unresolved</summary><div class=\"note-body\"><ul>\n<li><strong>The Love Letter</strong>: the 1999 film uses a letter as a love-potion metaphor; the 1998 TV movie is a time-crossed correspondence story. A different intended title would need clarification. <a href=\"https://bostonphoenix.com/archive/movies/99/05/27/THE_LOVE_LETTER.html\" rel=\"noopener\" target=\"_blank\">Boston Phoenix</a> · <a href=\"https://www.imdb.com/title/tt0140340/plotsummary/\" rel=\"noopener\" target=\"_blank\">IMDb</a></li>\n<li>No verified Bollywood hypnosis-into-romance title or movie matching the single-mom-remarriage pattern was found.</li>\n<li><strong>Fantasy Island</strong> S04E06 surfaced, but no accessible plot summary confirmed a hypnosis-into-love story.</li>\n<li>The earlier search found no confirmed soap-opera or telenovela match for this category. That finding is now superseded: <strong>El maleficio</strong> (1983–84), its 2023–24 remake, and <strong>Desejos de Mulher</strong> (2002) are the first confirmed telenovela matches.</li>\n<li>The production country and original language of <strong>Amore e ipnotismo</strong> remain unverified.</li>\n</ul></div></details>",
    "notice_on_share_page": "Content is user generated and unverified.",
    "check": {
-    "raw_count": 2149,
-    "declared_total": 2149,
-    "rendered_cards": 2411,
+    "raw_count": 2166,
+    "declared_total": 2166,
+    "rendered_cards": 2464,
     "ok": true,
-    "unmatched_cards": 6
+    "unmatched_cards": 16
    },
    "status": "live"
   },
@@ -2510,10 +2526,129 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "hypnotized-marriage",
+   "label": "Hypnotised-marriage research",
+   "kind": "local",
+   "share_url": "sources/hypnotized-marriage.json",
+   "description": "Adult women hypnotised, mind-controlled, spell- or potion-bound into marrying someone, or married while under that control, with kids/pregnancy fields filled (incl. mothers who already have children). Existing cards are tagged; new titles are added only with a verified free legal link. Minors and animal-led titles excluded.",
+   "dropped": [
+    {
+     "title": "The Greater Will",
+     "year": "1915",
+     "reason": "fits (Peggy Sloane hypnotised into a marriage ceremony by Stuart Watson; she bears a baby and dies) but no verified free legal watch link; feature appears to be lost/unavailable"
+    },
+    {
+     "title": "I Married a Witch",
+     "year": "1942",
+     "reason": "love-potion marriage (Jennifer drinks her own potion and elopes) but only Prime-membership 'free' offers; the Internet Archive upload has no public-domain basis; no verified free link"
+    },
+    {
+     "title": "Love Potion No. 9",
+     "year": "1992",
+     "reason": "potion is used by both leads for attraction, not a marriage; only Prime offer; skipped"
+    },
+    {
+     "title": "Tales of Terror (Valdemar segment)",
+     "year": "1962",
+     "reason": "hypnotist tries to force the wife to marry him but she is not hypnotised or controlled; not a match"
+    },
+    {
+     "title": "Chinatown Nights",
+     "year": "1938",
+     "reason": "bride-to-be hypnotised and abducted on the eve of her wedding, but no marriage plot beyond rescue; film not available; no link"
+    },
+    {
+     "title": "Scared to Death",
+     "year": "1947",
+     "reason": "married woman under hypnotist's influence, no hypnotised-into-marriage plot (free on Tubi but off-plot)"
+    },
+    {
+     "title": "Don't Cry, Butterfly",
+     "year": "2025",
+     "reason": "Vietnamese film: wife hires a spell master to win back her husband - the spell is on the husband; Prime-only"
+    },
+    {
+     "title": "Making Scents of Love",
+     "year": "2023",
+     "reason": "love-potion rom-com but the man is affected, not the woman"
+    },
+    {
+     "title": "Controlling My Husband",
+     "year": "2024",
+     "reason": "witch spell on the husband, not the woman"
+    },
+    {
+     "title": "Cordel Encantado",
+     "year": "2011",
+     "reason": "potion/sleep-drug is a trick to escape a forced wedding, not marriage under control; no free link"
+    },
+    {
+     "title": "The Witch (Cadi)",
+     "year": "2024",
+     "reason": "Turkish film: bride in an Istanbul mansion tagged hypnosis on TMDB; plot not verifiable and no free link"
+    },
+    {
+     "title": "The Last Empress",
+     "year": "2018-19",
+     "reason": "Korean drama; hypnosis tag on MyDramaList but no verified hypnotised-marriage plot; no free link"
+    },
+    {
+     "title": "Lao Gong Qing He Wo Lian Ai Ba (vertical drama)",
+     "year": "2025",
+     "reason": "hypnosis + married female lead (amnesia) on MyDramaList; plot unverified and no free link"
+    },
+    {
+     "title": "Shut Eye / other thief-hypnotist titles",
+     "year": "various",
+     "reason": "hypnosis of married women for theft, not into marriage"
+    },
+    {
+     "title": "The Legend of Zelda ep. 'Hitch in the Works'",
+     "year": "1989",
+     "reason": "Ganon plans a forced marriage with Zelda, but Zelda's age is not stated; skipped as unverifiable adult"
+    },
+    {
+     "title": "Jack and the Beanstalk (anime)",
+     "year": "1974",
+     "reason": "Princess Margaret's age not stated; skipped"
+    },
+    {
+     "title": "King Arthur's Disasters (Petal potion)",
+     "year": "2005",
+     "reason": "potion hits a servant by mistake; cartoon with unclear adult status; skipped"
+    },
+    {
+     "title": "Shrek 2",
+     "year": "2004",
+     "reason": "Fiona is the target of a love potion for marriage to Prince Charming but the cast is ogre/animal-led; excluded per human-characters-only rule"
+    },
+    {
+     "title": "Adventure Time (hypnosis-marriage episodes)",
+     "year": "2010-18",
+     "reason": "animal/anthropomorphic main characters; excluded"
+    },
+    {
+     "title": "Mighty Morphin Power Rangers (Kimberly)",
+     "year": "1993-95",
+     "reason": "character is a minor; excluded"
+    },
+    {
+     "title": "Kavach: Mahashivratri / Kumkum Bhagya 'drunk wedding' episode",
+     "year": "2019",
+     "reason": "already in the catalog (Kavach) or drugged-not-hypnotised (Kumkum Bhagya); not added"
+    }
+   ],
+   "check": {
+    "raw_count": 36,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
-  "xla62ucxbx02u5": 2149,
+  "xla62ucxbx02u5": 2166,
   "ig6qlxqxoxvcxla": 990,
   "india-catalog": 163,
   "worldwide-hypnosis": 1085,
@@ -2537,10 +2672,11 @@ window.CATALOG = {
   "royal-hypnosis-loose": 32,
   "belly-kissed-kids": 0,
   "mainstream-erotic": 102,
-  "open-sites-hypnosis": 1
+  "open-sites-hypnosis": 1,
+  "hypnotized-marriage": 36
  },
- "raw_total": 5072,
- "entry_count": 2534,
+ "raw_total": 5125,
+ "entry_count": 2550,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -2552,7 +2688,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 225
+   "entry_count": 227
   },
   {
    "key": "walkin",
@@ -2577,6 +2713,12 @@ window.CATALOG = {
    "label": "Devil's deal + pregnancy (hypnotized)",
    "legend_label": "Devil's deal + hypnosis pregnancy",
    "entry_count": 1
+  },
+  {
+   "key": "doctor-gain",
+   "label": "Doctor hypnotizes female characters for personal gain",
+   "legend_label": "Doctor controls female character for personal gain",
+   "entry_count": 26
   },
   {
    "key": "tech",
@@ -2612,7 +2754,7 @@ window.CATALOG = {
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 88
+   "entry_count": 103
   },
   {
    "key": "human",
@@ -2633,6 +2775,12 @@ window.CATALOG = {
    "entry_count": 2
   },
   {
+   "key": "hypnotized-marriage",
+   "label": "Hypnotised / spell-bound into marriage (or married while under control)",
+   "legend_label": "Hypnotised / spell-bound into marriage (or married while under control)",
+   "entry_count": 36
+  },
+  {
    "key": "cheat-control",
    "label": "Hypnotized / controlled into infidelity",
    "legend_label": "Hypnotized / controlled into infidelity",
@@ -2648,7 +2796,7 @@ window.CATALOG = {
    "key": "royal-hypnosis",
    "label": "Hypnotized queen/princess for marriage or the throne",
    "legend_label": "Hypnotized queen / princess",
-   "entry_count": 44
+   "entry_count": 45
   },
   {
    "key": "love",
@@ -2660,7 +2808,7 @@ window.CATALOG = {
    "key": "hypno-intimacy",
    "label": "Hypnotized woman intimate with the hypnotist or the man he directs",
    "legend_label": "Hypnotized into intimacy",
-   "entry_count": 31
+   "entry_count": 38
   },
   {
    "key": "indian-female-hypnosis",
@@ -2703,6 +2851,12 @@ window.CATALOG = {
    "label": "Mother with children gets pregnant in a passionate relationship (husband, new partner or lover)",
    "legend_label": "Mother pregnant again",
    "entry_count": 241
+  },
+  {
+   "key": "hypnotised-mother-marriage",
+   "label": "Mother with existing children hypnotised / spell-bound into marriage",
+   "legend_label": "Mother with existing children hypnotised / spell-bound into marriage",
+   "entry_count": 4
   },
   {
    "key": "other-control",
@@ -2750,7 +2904,7 @@ window.CATALOG = {
    "key": "pregnant-variants",
    "label": "Pregnancy + mind control — variants and leads",
    "legend_label": "Pregnancy + mind control — variants and leads",
-   "entry_count": 27
+   "entry_count": 31
   },
   {
    "key": "pregnancy-adjacent",
@@ -2834,7 +2988,7 @@ window.CATALOG = {
    "key": "pregnant-strict",
    "label": "Pregnant woman hypnotized while pregnant — strict core",
    "legend_label": "Pregnant woman hypnotized while pregnant — strict core",
-   "entry_count": 11
+   "entry_count": 12
   },
   {
    "key": "pregnancy-evil",
@@ -2998,6 +3152,9 @@ window.CATALOG = {
    "note": "The established partner is a lover who has promised marriage, so this is an explicit but non-marital variant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "loose fit"
+   ],
    "kids_status": "no",
    "kids_together": "no",
    "married": "no",
@@ -3011,7 +3168,8 @@ window.CATALOG = {
     "cheat-control",
     "adult-hypnosis",
     "human",
-    "other-control"
+    "other-control",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -3036,14 +3194,16 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "worldwide-hypnosis",
-    "hypno-leftovers"
+    "hypno-leftovers",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:1",
     "ig6qlxqxoxvcxla:1",
     "ig6qlxqxoxvcxla:182",
     "worldwide-hypnosis:866",
-    "hypno-leftovers:14"
+    "hypno-leftovers:14",
+    "hypnotized-marriage:32"
    ],
    "index_only": false,
    "local_only": false,
@@ -3217,6 +3377,42 @@ window.CATALOG = {
      "fit_note": "Woody Allen comedy. Voltan the hypnotist uses the trigger word “Constantinople” to make Betty Ann (Helen Hunt) believe she is in love with C.W.; she is also used in his jewel thefts. No intimacy under hypnosis is confirmed, so it is not tagged hypno-intimacy",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:32",
+     "source": "hypnotized-marriage",
+     "label": "The Curse of the Jade Scorpion (2001)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Curse of the Jade Scorpion",
+     "subtitle": "",
+     "year": "2001",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Curse_of_the_Jade_Scorpion"
+      },
+      {
+       "label": "Utah Statesman",
+       "url": "https://usustatesman.com/column-jade-scorpian-is-a-neurotic-surprise/"
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Hypnosis makes a woman believe she is a newlywed in love; a comic variant (post-hypnotic romance, not a legal wedding).",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -3342,6 +3538,32 @@ window.CATALOG = {
      "married_note": "Betty Ann's boss promises marriage but she ends up with C.W.",
      "evidence": "2+ independent sources (Wikipedia, Utah Statesman, Mental Block, TV Tropes)",
      "fit_note": "Woody Allen comedy. Voltan the hypnotist uses the trigger word “Constantinople” to make Betty Ann (Helen Hunt) believe she is in love with C.W.; she is also used in his jewel thefts. No intimacy under hypnosis is confirmed, so it is not tagged hypno-intimacy"
+    },
+    "hypnotized-marriage:32": {
+     "title": "The Curse of the Jade Scorpion",
+     "year": "2001",
+     "match_title": "The Curse of the Jade Scorpion",
+     "match_year": "2001",
+     "format": "movie",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Curse_of_the_Jade_Scorpion"
+      },
+      {
+       "label": "Utah Statesman",
+       "url": "https://usustatesman.com/column-jade-scorpian-is-a-neurotic-surprise/"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Hypnosis makes a woman believe she is a newlywed in love; a comic variant (post-hypnotic romance, not a legal wedding).",
+     "tags": [
+      "loose fit"
+     ]
     }
    },
    "watch_links": [
@@ -3690,11 +3912,13 @@ window.CATALOG = {
    "confidence_flag": "Strong · index-verified",
    "summary": "Lo Pan keeps Miao Yin and Gracie Law entranced as intended brides in a curse-breaking wedding ritual; the heroes interrupt the ceremony.",
    "character": "",
-   "provenance": "",
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
    "note": "",
+   "fit_note": "Gracie Law (adult lawyer) and Miao Yin entranced as intended brides in a curse-breaking wedding ritual; interrupted.",
    "format": "movie",
    "categories": [
-    "love"
+    "love",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -3709,11 +3933,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:3",
-    "ig6qlxqxoxvcxla:3"
+    "ig6qlxqxoxvcxla:3",
+    "hypnotized-marriage:27"
    ],
    "index_only": false,
    "local_only": false,
@@ -3782,6 +4008,39 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Big Trouble in Little China",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:27",
+     "source": "hypnotized-marriage",
+     "label": "Big Trouble in Little China (1986)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Big Trouble in Little China",
+     "subtitle": "",
+     "year": "1986",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Big_Trouble_in_Little_China"
+      },
+      {
+       "label": "Backseat Driver Reviews",
+       "url": "http://www.thebackseatdriverreviews.com/behind-every-good-man-importance-of"
+      }
+     ],
+     "fit_note": "Gracie Law (adult lawyer) and Miao Yin entranced as intended brides in a curse-breaking wedding ritual; interrupted.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -3831,6 +4090,29 @@ window.CATALOG = {
        }
       ]
      }
+    },
+    "hypnotized-marriage:27": {
+     "title": "Big Trouble in Little China",
+     "year": "1986",
+     "match_title": "Big Trouble in Little China",
+     "match_year": "1986",
+     "format": "movie",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Big_Trouble_in_Little_China"
+      },
+      {
+       "label": "Backseat Driver Reviews",
+       "url": "http://www.thebackseatdriverreviews.com/behind-every-good-man-importance-of"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Gracie Law (adult lawyer) and Miao Yin entranced as intended brides in a curse-breaking wedding ritual; interrupted."
     }
    }
   },
@@ -3848,11 +4130,13 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "fit_note": "Hypnotised Lucia to be married off so Vail controls her papers.",
    "format": "movie",
    "categories": [
     "love",
     "other-control",
-    "index-49"
+    "index-49",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -3872,13 +4156,15 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:4",
     "ig6qlxqxoxvcxla:4",
     "ig6qlxqxoxvcxla:145",
-    "worldwide-hypnosis:729"
+    "worldwide-hypnosis:729",
+    "hypnotized-marriage:24"
    ],
    "index_only": false,
    "local_only": false,
@@ -4011,6 +4297,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:24",
+     "source": "hypnotized-marriage",
+     "label": "Road to Rio (1947)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Road to Rio",
+     "subtitle": "",
+     "year": "1947",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Road_to_Rio"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Road_to_Rio"
+      }
+     ],
+     "fit_note": "Hypnotised Lucia to be married off so Vail controls her papers.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -4110,6 +4429,29 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnotized-marriage:24": {
+     "title": "Road to Rio",
+     "year": "1947",
+     "match_title": "Road to Rio",
+     "match_year": "1947",
+     "format": "movie",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Road_to_Rio"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Road_to_Rio"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Hypnotised Lucia to be married off so Vail controls her papers."
     }
    }
   },
@@ -4151,7 +4493,8 @@ window.CATALOG = {
    "format": "tv",
    "categories": [
     "love",
-    "royal-hypnosis"
+    "royal-hypnosis",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -4179,12 +4522,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "royal-hypnosis"
+    "royal-hypnosis",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:5",
     "ig6qlxqxoxvcxla:5",
-    "royal-hypnosis:11"
+    "royal-hypnosis:11",
+    "hypnotized-marriage:18"
    ],
    "index_only": false,
    "local_only": false,
@@ -4327,6 +4672,39 @@ window.CATALOG = {
      "already_married_note": "Princess Isabella is unmarried but already betrothed under duress to her cousin Prince Harry; Wormwood's enchanted tiara controls her as his first plan to grab power",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:18",
+     "source": "hypnotized-marriage",
+     "label": "Galavant (2016)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Galavant",
+     "subtitle": "",
+     "year": "2016",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Episode guide",
+       "url": "http://orma.iasfbo.inaf.it:7007/~mauro/TV/PDF/ENDED/GALAVANT.pdf"
+      },
+      {
+       "label": "AV Club",
+       "url": "https://www.avclub.com/galavant-continues-to-humble-then-humanize-its-villains-1798186253"
+      }
+     ],
+     "fit_note": "Enchanted tiara makes Princess Isabella plan her marriage until it is removed.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -4439,6 +4817,29 @@ window.CATALOG = {
      ],
      "married": "no",
      "married_note": "the hypnotist Wormwood does not marry her; she ends up with Galavant"
+    },
+    "hypnotized-marriage:18": {
+     "title": "Galavant",
+     "year": "2016",
+     "match_title": "Galavant",
+     "match_year": "2016",
+     "format": "tv",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "sources": [
+      {
+       "label": "Episode guide",
+       "url": "http://orma.iasfbo.inaf.it:7007/~mauro/TV/PDF/ENDED/GALAVANT.pdf"
+      },
+      {
+       "label": "AV Club",
+       "url": "https://www.avclub.com/galavant-continues-to-humble-then-humanize-its-villains-1798186253"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Enchanted tiara makes Princess Isabella plan her marriage until it is removed."
     }
    }
   },
@@ -4697,11 +5098,16 @@ window.CATALOG = {
    "confidence_flag": "Strong · index-verified · resisted",
    "summary": "Henry traps Audrey in a dream where he is her fiancé and intends to bind her to him forever through marriage; she recovers her memories and refuses him.",
    "character": "",
-   "provenance": "",
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
    "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "fit_note": "Audrey trapped in a dream where she is his fiancée; refuses.",
    "format": "tv",
    "categories": [
-    "love"
+    "love",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -4716,11 +5122,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:7",
-    "ig6qlxqxoxvcxla:7"
+    "ig6qlxqxoxvcxla:7",
+    "hypnotized-marriage:26"
    ],
    "index_only": false,
    "local_only": false,
@@ -4791,6 +5199,42 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Haven",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:26",
+     "source": "hypnotized-marriage",
+     "label": "Haven (2015)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Haven",
+     "subtitle": "",
+     "year": "2015",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Haven Wiki",
+       "url": "https://havenmaine.fandom.com/wiki/Henry"
+      },
+      {
+       "label": "Episode guide",
+       "url": "http://orma.iasfbo.inaf.it:7007/~mauro/TV/PDF/ENDED/HAVEN.pdf"
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Audrey trapped in a dream where she is his fiancée; refuses.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -4842,6 +5286,32 @@ window.CATALOG = {
        }
       ]
      }
+    },
+    "hypnotized-marriage:26": {
+     "title": "Haven",
+     "year": "2015",
+     "match_title": "Haven",
+     "match_year": "2015",
+     "format": "tv",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "sources": [
+      {
+       "label": "Haven Wiki",
+       "url": "https://havenmaine.fandom.com/wiki/Henry"
+      },
+      {
+       "label": "Episode guide",
+       "url": "http://orma.iasfbo.inaf.it:7007/~mauro/TV/PDF/ENDED/HAVEN.pdf"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Audrey trapped in a dream where she is his fiancée; refuses.",
+     "tags": [
+      "loose fit"
+     ]
     }
    }
   },
@@ -4855,11 +5325,19 @@ window.CATALOG = {
    "confidence_flag": "Strong · live-verified",
    "summary": "Stan activates Hayley’s dormant conditioning and orders her to marry Dill Sheppard; the marriage occurs while she is fully brainwashed.",
    "character": "",
-   "provenance": "",
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
    "note": "",
+   "kids_status": "no",
+   "kids_note": "no children of her own in the episode",
+   "married": "yes",
+   "married_note": "Hayley marries Dill Sheppard while brainwashed (Stan, her father, orders it); Dill is the husband, not the controller",
+   "fit_note": "Adult woman brainwashed by her father into a wedding with a man she did not choose.",
+   "already_married": "no",
+   "already_married_note": "Hayley is unmarried before the order",
    "format": "tv",
    "categories": [
-    "love"
+    "love",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -4874,11 +5352,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:8",
-    "ig6qlxqxoxvcxla:8"
+    "ig6qlxqxoxvcxla:8",
+    "hypnotized-marriage:1"
    ],
    "index_only": false,
    "local_only": false,
@@ -4949,6 +5429,45 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "American Dad!",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:1",
+     "source": "hypnotized-marriage",
+     "label": "American Dad! (2007)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "American Dad!",
+     "subtitle": "",
+     "year": "2007",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "TMDB",
+       "url": "https://www.themoviedb.org/tv/1433-american-dad/season/4/episode/5?language=en-US"
+      },
+      {
+       "label": "American Dad Wiki",
+       "url": "https://americandad.fandom.com/wiki/Hayley_Smith"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "no children of her own in the episode",
+     "married": "yes",
+     "married_note": "Hayley marries Dill Sheppard while brainwashed (Stan, her father, orders it); Dill is the husband, not the controller",
+     "fit_note": "Adult woman brainwashed by her father into a wedding with a man she did not choose.",
+     "already_married": "no",
+     "already_married_note": "Hayley is unmarried before the order",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -5000,6 +5519,35 @@ window.CATALOG = {
        }
       ]
      }
+    },
+    "hypnotized-marriage:1": {
+     "title": "American Dad!",
+     "year": "2007",
+     "match_title": "American Dad!",
+     "match_year": "2007",
+     "format": "tv",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Married while hypnotised / spell-bound (wedding performed)",
+     "sources": [
+      {
+       "label": "TMDB",
+       "url": "https://www.themoviedb.org/tv/1433-american-dad/season/4/episode/5?language=en-US"
+      },
+      {
+       "label": "American Dad Wiki",
+       "url": "https://americandad.fandom.com/wiki/Hayley_Smith"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "married": "yes",
+     "married_note": "Hayley marries Dill Sheppard while brainwashed (Stan, her father, orders it); Dill is the husband, not the controller",
+     "already_married": "no",
+     "already_married_note": "Hayley is unmarried before the order",
+     "kids_status": "no",
+     "kids_note": "no children of her own in the episode",
+     "fit_note": "Adult woman brainwashed by her father into a wedding with a man she did not choose."
     }
    }
   },
@@ -5516,11 +6064,13 @@ window.CATALOG = {
    "confidence_flag": "Strong · index-verified · interrupted",
    "summary": "Dracula hypnotizes Angelica Jones / Firestar in hopes of making her his bride and abducts her to Transylvania; Spider-Man and Iceman rescue her before the wedding.",
    "character": "",
-   "provenance": "",
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
    "note": "",
+   "fit_note": "Dracula hypnotises Angelica Jones / Firestar to make her his bride; rescued before the wedding.",
    "format": "tv",
    "categories": [
-    "love"
+    "love",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -5539,11 +6089,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:11",
-    "ig6qlxqxoxvcxla:11"
+    "ig6qlxqxoxvcxla:11",
+    "hypnotized-marriage:25"
    ],
    "index_only": false,
    "local_only": false,
@@ -5622,6 +6174,39 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Spider-Man and His Amazing Friends",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:25",
+     "source": "hypnotized-marriage",
+     "label": "Spider-Man and His Amazing Friends (1983)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Spider-Man and His Amazing Friends",
+     "subtitle": "",
+     "year": "1983",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "CBR",
+       "url": "https://www.cbr.com/spider-man-vs-dracula-best-halloween-story/"
+      },
+      {
+       "label": "CBR feature",
+       "url": "https://www.cbr.com/spider-man-and-amazing-friends-fought-dracula/"
+      }
+     ],
+     "fit_note": "Dracula hypnotises Angelica Jones / Firestar to make her his bride; rescued before the wedding.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -5681,6 +6266,29 @@ window.CATALOG = {
        }
       ]
      }
+    },
+    "hypnotized-marriage:25": {
+     "title": "Spider-Man and His Amazing Friends",
+     "year": "1983",
+     "match_title": "Spider-Man and His Amazing Friends",
+     "match_year": "1983",
+     "format": "tv",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "sources": [
+      {
+       "label": "CBR",
+       "url": "https://www.cbr.com/spider-man-vs-dracula-best-halloween-story/"
+      },
+      {
+       "label": "CBR feature",
+       "url": "https://www.cbr.com/spider-man-and-amazing-friends-fought-dracula/"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Dracula hypnotises Angelica Jones / Firestar to make her his bride; rescued before the wedding."
     }
    }
   },
@@ -5871,7 +6479,8 @@ window.CATALOG = {
    "format": "movie",
    "categories": [
     "love",
-    "royal-hypnosis"
+    "royal-hypnosis",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -5886,11 +6495,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "royal-hypnosis-loose"
+    "royal-hypnosis-loose",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:13",
-    "royal-hypnosis-loose:6"
+    "royal-hypnosis-loose:6",
+    "hypnotized-marriage:19"
    ],
    "index_only": false,
    "local_only": false,
@@ -5964,6 +6575,39 @@ window.CATALOG = {
      "already_married_note": "Hinata Hyūga (19) is unmarried",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:19",
+     "source": "hypnotized-marriage",
+     "label": "The Last: Naruto the Movie (2014)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Last: Naruto the Movie",
+     "subtitle": "",
+     "year": "2014",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "http://en.wikipedia.org/wiki/The_Last:_Naruto_the_Movie"
+      },
+      {
+       "label": "Boruto Wiki",
+       "url": "https://boruto.fandom.com/wiki/Toneri_%C5%8Ctsutsuki"
+      }
+     ],
+     "fit_note": "Hinata brainwashed to proceed with a wedding; Naruto interrupts. Adult characters only (film set after the war arc).",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -6015,6 +6659,29 @@ window.CATALOG = {
      "already_married": "no",
      "already_married_note": "Hinata Hyūga (19) is unmarried",
      "fit_note": "Loose fit: Hinata is the Hyūga clan heiress whom Toneri calls the 'Byakugan Princess', not royalty, and he controls her with his puppet technique rather than hypnosis"
+    },
+    "hypnotized-marriage:19": {
+     "title": "The Last: Naruto the Movie",
+     "year": "2014",
+     "match_title": "The Last: Naruto the Movie",
+     "match_year": "2014",
+     "format": "movie",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "http://en.wikipedia.org/wiki/The_Last:_Naruto_the_Movie"
+      },
+      {
+       "label": "Boruto Wiki",
+       "url": "https://boruto.fandom.com/wiki/Toneri_%C5%8Ctsutsuki"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Hinata brainwashed to proceed with a wedding; Naruto interrupts. Adult characters only (film set after the war arc)."
     }
    },
    "watch_links": [
@@ -6331,11 +6998,16 @@ window.CATALOG = {
    "confidence_flag": "Strong · live-verified · accidental",
    "summary": "An enchanted rose makes Urd accept Gan-chan’s accidental proposal and become his devoted wife until the last petals fall.",
    "character": "",
-   "provenance": "",
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
    "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "fit_note": "Enchanted rose makes the goddess Urd accept a proposal and become a devoted wife until the petals fall.",
    "format": "tv",
    "categories": [
-    "love"
+    "love",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -6349,16 +7021,86 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "hypnotized-marriage"
    ],
    "source_records": [
-    "xla62ucxbx02u5:17"
+    "xla62ucxbx02u5:17",
+    "hypnotized-marriage:33"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:17",
+    "source": "xla62ucxbx02u5",
+    "label": "The Adventures of Mini-Goddess · ああっ女神さまっ 小っちゃいって事は便利だねっ · episodes 14–15 (1998)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "The Adventures of Mini-Goddess",
+    "subtitle": "ああっ女神さまっ 小っちゃいって事は便利だねっ · episodes 14–15",
+    "year": "1998",
+    "meta": "Anime episodes · Japan · Japanese",
+    "summary": "An enchanted rose makes Urd accept Gan-chan’s accidental proposal and become his devoted wife until the last petals fall.",
+    "character": "",
+    "note": "",
+    "mechanism": "Enchanted rose",
+    "confidence_flag": "Strong · live-verified · accidental",
+    "categories": [
+     "love"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_The_Adventures_of_Mini-Goddess_episodes"
+     },
+     {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt4734584"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnotized-marriage:33",
+     "source": "hypnotized-marriage",
+     "label": "The Adventures of Mini-Goddess (1998)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Adventures of Mini-Goddess",
+     "subtitle": "",
+     "year": "1998",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/List_of_The_Adventures_of_Mini-Goddess_episodes"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt4734584"
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Enchanted rose makes the goddess Urd accept a proposal and become a devoted wife until the petals fall.",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:17": {
      "t": "The Adventures of Mini-Goddess",
@@ -6381,6 +7123,32 @@ window.CATALOG = {
        "IMDb",
        "https://www.imdb.com/title/tt4734584"
       ]
+     ]
+    },
+    "hypnotized-marriage:33": {
+     "title": "The Adventures of Mini-Goddess",
+     "year": "1998",
+     "match_title": "The Adventures of Mini-Goddess",
+     "match_year": "1998",
+     "format": "tv",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/List_of_The_Adventures_of_Mini-Goddess_episodes"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt4734584"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Enchanted rose makes the goddess Urd accept a proposal and become a devoted wife until the petals fall.",
+     "tags": [
+      "loose fit"
      ]
     }
    }
@@ -6428,6 +7196,7 @@ window.CATALOG = {
     "cheat-control",
     "medical",
     "human",
+    "doctor-gain",
     "index-50"
    ],
    "sources": [
@@ -6521,7 +7290,8 @@ window.CATALOG = {
      "hypno-intimacy",
      "cheat-control",
      "medical",
-     "human"
+     "human",
+     "doctor-gain"
     ],
     "sources": [
      {
@@ -6910,7 +7680,8 @@ window.CATALOG = {
       "hypno-intimacy",
       "cheat-control",
       "medical",
-      "human"
+      "human",
+      "doctor-gain"
      ],
      "mec": "Deep hypnosis / therapist boundary violation",
      "flag": "High confidence",
@@ -6974,7 +7745,9 @@ window.CATALOG = {
       ]
      ],
      "fog": "therapist",
-     "ccg": "other"
+     "ccg": "other",
+     "dg": "x",
+     "dgNote": "Existing-record overlap"
     },
     "ig6qlxqxoxvcxla:66": {
      "detailed": {
@@ -7253,7 +8026,8 @@ window.CATALOG = {
     "love",
     "adult-hypnosis",
     "scifi",
-    "royal-hypnosis"
+    "royal-hypnosis",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -7277,12 +8051,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "royal-hypnosis-loose"
+    "royal-hypnosis-loose",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:19",
     "ig6qlxqxoxvcxla:651",
-    "royal-hypnosis-loose:24"
+    "royal-hypnosis-loose:24",
+    "hypnotized-marriage:20"
    ],
    "index_only": false,
    "local_only": false,
@@ -7389,6 +8165,42 @@ window.CATALOG = {
      "already_married_note": "Princess Li Mingyue is unmarried when her brother hypnotizes her to erase her first love",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:20",
+     "source": "hypnotized-marriage",
+     "label": "The Love by Hypnotic (2019)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Love by Hypnotic",
+     "subtitle": "",
+     "year": "2019",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "MyDramaList review",
+       "url": "https://mydramalist.com/profile/Cykocyn/review/164189"
+      },
+      {
+       "label": "TV Time",
+       "url": "https://www.tvtime.com/show/371109"
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Princess hypnotised to erase her first love, then sent into a diplomatic marriage.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -7457,6 +8269,32 @@ window.CATALOG = {
      "already_married": "no",
      "already_married_note": "Princess Li Mingyue is unmarried when her brother hypnotizes her to erase her first love",
      "fit_note": "Loose fit: she is herself a hypnotist who uses a hypnotic bracelet on the prince; her brother's hypnosis erases her memories ahead of a political marriage"
+    },
+    "hypnotized-marriage:20": {
+     "title": "The Love by Hypnotic",
+     "year": "2019",
+     "match_title": "The Love by Hypnotic",
+     "match_year": "2019",
+     "format": "tv",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "sources": [
+      {
+       "label": "MyDramaList review",
+       "url": "https://mydramalist.com/profile/Cykocyn/review/164189"
+      },
+      {
+       "label": "TV Time",
+       "url": "https://www.tvtime.com/show/371109"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Princess hypnotised to erase her first love, then sent into a diplomatic marriage.",
+     "tags": [
+      "loose fit"
+     ]
     }
    }
   },
@@ -7474,11 +8312,13 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "fit_note": "Ming hypnotises Dale Arden for a forced wedding; Flash interrupts.",
    "format": "movie",
    "categories": [
     "love",
     "scifi",
-    "human"
+    "human",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -7501,11 +8341,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:20",
-    "worldwide-hypnosis:359"
+    "worldwide-hypnosis:359",
+    "hypnotized-marriage:21"
    ],
    "index_only": false,
    "local_only": false,
@@ -7587,6 +8429,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:21",
+     "source": "hypnotized-marriage",
+     "label": "Flash Gordon (1936)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Flash Gordon",
+     "subtitle": "",
+     "year": "1936",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Erik Lundegaard",
+       "url": "https://eriklundegaard.com/item/movie-review-flash-gordon-1936"
+      },
+      {
+       "label": "Scribd",
+       "url": "https://www.scribd.com/document/493618604/The-Flash-Gordon-Serials-1936-1940"
+      }
+     ],
+     "fit_note": "Ming hypnotises Dale Arden for a forced wedding; Flash interrupts.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -7648,6 +8523,29 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnotized-marriage:21": {
+     "title": "Flash Gordon",
+     "year": "1936",
+     "match_title": "Flash Gordon",
+     "match_year": "1936",
+     "format": "movie",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "sources": [
+      {
+       "label": "Erik Lundegaard",
+       "url": "https://eriklundegaard.com/item/movie-review-flash-gordon-1936"
+      },
+      {
+       "label": "Scribd",
+       "url": "https://www.scribd.com/document/493618604/The-Flash-Gordon-Serials-1936-1940"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Ming hypnotises Dale Arden for a forced wedding; Flash interrupts."
     }
    },
    "watch_links": [
@@ -10640,6 +11538,9 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "loose fit"
+   ],
    "hypnotist": "piano teacher Dr. Terwilliker (in Bart's dream)",
    "gain_motive": [
     "marriage",
@@ -10648,12 +11549,14 @@ window.CATALOG = {
    "method": "hypnosis",
    "kids_status": "yes",
    "kids_note": "1: son Bart Collins; she is a widow",
+   "fit_note": "In a dream, Dr. Terwilliker hypnotises Heloise into becoming his bride-to-be; the boy stops the wedding.",
    "child_witness": "Bart sees his mother as Terwilliker's hypnotized assistant and bride-to-be and, with plumber Zabladowski, frees her",
    "format": "movie",
    "categories": [
     "love",
     "mother",
-    "fantasy"
+    "fantasy",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -10681,12 +11584,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "mother-kids-hypnosis"
+    "mother-kids-hypnosis",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:35",
     "worldwide-hypnosis:879",
-    "mother-kids-hypnosis:3"
+    "mother-kids-hypnosis:3",
+    "hypnotized-marriage:28"
    ],
    "index_only": false,
    "local_only": false,
@@ -10831,6 +11736,42 @@ window.CATALOG = {
      "child_witness": "Bart sees his mother as Terwilliker's hypnotized assistant and bride-to-be and, with plumber Zabladowski, frees her",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:28",
+     "source": "hypnotized-marriage",
+     "label": "The 5,000 Fingers of Dr. T (1953)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The 5,000 Fingers of Dr. T",
+     "subtitle": "",
+     "year": "1953",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "The Arts Desk",
+       "url": "https://theartsdesk.com/film/dvdblu-ray-5000-fingers-dr-t"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_5,000_Fingers_of_Dr._T."
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "In a dream, Dr. Terwilliker hypnotises Heloise into becoming his bride-to-be; the boy stops the wedding.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -10947,6 +11888,32 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end",
      "provenance": "Mother-hypnotized-in-front-of-her-children research pass (30 Sep 2026): worldwide search (Mental Block wiki, Wikipedia/de/ja episode tables, TV Tropes, fan wikis, soap and Indian-serial recap sites); strict hypnosis, mesmerism, hypnotic trance or hypnosis-like devices only; spirit/demonic/black-magic possession excluded; adult mothers only; the child must see her hypnotized or in the trance; no title where children witness sexual content."
+    },
+    "hypnotized-marriage:28": {
+     "title": "The 5,000 Fingers of Dr. T",
+     "year": "1953",
+     "match_title": "The 5,000 Fingers of Dr. T",
+     "match_year": "1953",
+     "format": "movie",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "sources": [
+      {
+       "label": "The Arts Desk",
+       "url": "https://theartsdesk.com/film/dvdblu-ray-5000-fingers-dr-t"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_5,000_Fingers_of_Dr._T."
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "In a dream, Dr. Terwilliker hypnotises Heloise into becoming his bride-to-be; the boy stops the wedding.",
+     "tags": [
+      "loose fit"
+     ]
     }
    },
    "watch_links": [
@@ -12342,7 +13309,8 @@ window.CATALOG = {
     "love",
     "scifi",
     "human",
-    "fantasy"
+    "fantasy",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -12376,12 +13344,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "older-man-hypnosis"
+    "older-man-hypnosis",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:41",
     "worldwide-hypnosis:353",
-    "older-man-hypnosis:14"
+    "older-man-hypnosis:14",
+    "hypnotized-marriage:22"
    ],
    "index_only": false,
    "local_only": false,
@@ -12517,6 +13487,39 @@ window.CATALOG = {
      "fit_note": "Age gap: von Sydow about 51, Anderson about 25; loose (no sex scene)",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:22",
+     "source": "hypnotized-marriage",
+     "label": "Flash Gordon (1980)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Flash Gordon",
+     "subtitle": "",
+     "year": "1980",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "iHeart",
+       "url": "https://www.iheart.com/podcast/105-stuff-to-blow-your-mind-21123915/episode/weirdhouse-cinema-flash-gordon-1980-150759179/"
+      },
+      {
+       "label": "YouTube clip",
+       "url": "https://www.youtube.com/watch?v=Q7Kx4XIs2tU"
+      }
+     ],
+     "fit_note": "Ming hypnotises Dale Arden with his ring and stages a wedding; thwarted.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -12625,6 +13628,29 @@ window.CATALOG = {
      "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
      "note": "",
      "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
+    },
+    "hypnotized-marriage:22": {
+     "title": "Flash Gordon",
+     "year": "1980",
+     "match_title": "Flash Gordon",
+     "match_year": "1980",
+     "format": "movie",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "sources": [
+      {
+       "label": "iHeart",
+       "url": "https://www.iheart.com/podcast/105-stuff-to-blow-your-mind-21123915/episode/weirdhouse-cinema-flash-gordon-1980-150759179/"
+      },
+      {
+       "label": "YouTube clip",
+       "url": "https://www.youtube.com/watch?v=Q7Kx4XIs2tU"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Ming hypnotises Dale Arden with his ring and stages a wedding; thwarted."
     }
    }
   },
@@ -14037,6 +15063,9 @@ window.CATALOG = {
    "format": "tv",
    "categories": [
     "love",
+    "doctor-gain",
+    "forced-obedience",
+    "royal-hypnosis",
     "cheat-control",
     "another-man"
    ],
@@ -14081,7 +15110,10 @@ window.CATALOG = {
     "mechanism": "Control chip",
     "confidence_flag": "",
     "categories": [
-     "love"
+     "love",
+     "doctor-gain",
+     "forced-obedience",
+     "royal-hypnosis"
     ],
     "sources": [
      {
@@ -14154,7 +15186,10 @@ window.CATALOG = {
      "f": "tv",
      "m": "TV soap · NBC",
      "c": [
-      "love"
+      "love",
+      "doctor-gain",
+      "forced-obedience",
+      "royal-hypnosis"
      ],
      "mec": "Control chip",
      "s": "A brain implant transforms Hope Brady into Princess Gina, who attempts to seduce John Black and displace Marlena; Hope is ultimately restored.",
@@ -14167,7 +15202,31 @@ window.CATALOG = {
        "Soap Opera Spy",
        "https://www.soapoperaspy.com/2020/days-of-our-lives-spoilers-guilt-ridden-hope-begs-for-forgiveness/"
       ]
-     ]
+     ],
+     "dg": "c",
+     "dgT": "Days of Our Lives",
+     "dgSub": "2019–20 · Princess Gina arc",
+     "dgY": "2019–20",
+     "dgM": "Daytime soap opera · United States · English · NBC",
+     "dgS": "Dr. Wilhelm Rolf reactivates the chip in Hope Brady’s neck, turning her into Princess Gina, who carries out art theft, forgery and attempted murder for the DiMera organization.",
+     "dgMec": "Brainwashing by implanted chip — not classical hypnosis",
+     "dgFlag": "HIGH · CHIP / SCI-FI MECHANISM",
+     "dgNote": "Mechanism is an implanted mind-control chip and brainwashing, not trance hypnosis.",
+     "dgSrc": [
+      [
+       "The List",
+       "https://www.thelist.com/830430/how-did-the-princess-gina-storyline-work-out-on-days-of-our-lives/"
+      ],
+      [
+       "Soap Opera Spy",
+       "https://www.soapoperaspy.com/2019/days-of-our-lives-spoilers-xander-first-to-realize-whats-wrong-with-hope-brady/"
+      ],
+      [
+       "Daily Soap Dish",
+       "https://dailysoapdish.com/nbc-days-of-our-lives-spoilers-hope-brady-devastated-over-what-princess-gina-has-done/"
+      ]
+     ],
+     "fog": "therapist"
     },
     "ig6qlxqxoxvcxla:187": {
      "title": "Days of Our Lives (2019) Princess Gina",
@@ -17424,6 +18483,14 @@ window.CATALOG = {
    "character": "Beatriz de Martino — mother of Vicky and Juanito; controlled by current husband Enrique de Martino, their stepfather",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "yes",
+   "kids_note": "Beatriz is the widowed mother of Vicky and Juanito before she marries Enrique",
+   "fit_note": "Loose fit: the sorcerer husband holds her \"under his influence\" (ViX guide), but available sources do not prove the sorcery overrides her will; kept as a spell-marriage lead.",
+   "already_married": "no",
+   "already_married_note": "widow when she marries the sorcerer Enrique de Martino",
    "format": "tv",
    "categories": [
     "wife",
@@ -17432,7 +18499,9 @@ window.CATALOG = {
     "stepfather-control",
     "partner-control",
     "spirit",
-    "mother"
+    "mother",
+    "hypnotised-mother-marriage",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -17463,7 +18532,8 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:62",
@@ -17474,7 +18544,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla:342",
     "ig6qlxqxoxvcxla:346",
     "ig6qlxqxoxvcxla:612",
-    "ig6qlxqxoxvcxla:719"
+    "ig6qlxqxoxvcxla:719",
+    "hypnotized-marriage:34"
    ],
    "index_only": false,
    "local_only": false,
@@ -17749,6 +18820,47 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "El maleficio — original",
      "matched_by": "alias"
+    },
+    {
+     "rid": "hypnotized-marriage:34",
+     "source": "hypnotized-marriage",
+     "label": "El maleficio (1983–84)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "El maleficio",
+     "subtitle": "",
+     "year": "1983–84",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotised-mother-marriage",
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/El_maleficio"
+      },
+      {
+       "label": "ViX episode 21",
+       "url": "https://vix.com/es-es/detail/video-4449575"
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "yes",
+     "kids_note": "Beatriz is the widowed mother of Vicky and Juanito before she marries Enrique",
+     "fit_note": "Loose fit: the sorcerer husband holds her \"under his influence\" (ViX guide), but available sources do not prove the sorcery overrides her will; kept as a spell-marriage lead.",
+     "already_married": "no",
+     "already_married_note": "widow when she marries the sorcerer Enrique de Martino",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -17904,6 +19016,37 @@ window.CATALOG = {
      "group": "Borderline",
      "confidence": "Borderline",
      "note": ""
+    },
+    "hypnotized-marriage:34": {
+     "title": "El maleficio",
+     "year": "1983–84",
+     "match_title": "El maleficio",
+     "match_year": "1983–84",
+     "format": "tv",
+     "categories": [
+      "hypnotised-mother-marriage",
+      "hypnotized-marriage"
+     ],
+     "group": "Mother with children, hypnotised / spell-bound into marriage",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/El_maleficio"
+      },
+      {
+       "label": "ViX episode 21",
+       "url": "https://vix.com/es-es/detail/video-4449575"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "kids_status": "yes",
+     "kids_note": "Beatriz is the widowed mother of Vicky and Juanito before she marries Enrique",
+     "already_married": "no",
+     "already_married_note": "widow when she marries the sorcerer Enrique de Martino",
+     "fit_note": "Loose fit: the sorcerer husband holds her \"under his influence\" (ViX guide), but available sources do not prove the sorcery overrides her will; kept as a spell-marriage lead.",
+     "tags": [
+      "loose fit"
+     ]
     }
    }
   },
@@ -17919,13 +19062,21 @@ window.CATALOG = {
    "character": "",
    "provenance": "El Maleficio (2023) episode-level verification, 01 Oct 2026",
    "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "yes",
+   "kids_note": "Beatriz is a single mother when she marries the sorcerer Enrique (ep. 47)",
+   "fit_note": "Loose fit: widowed/single mother marries a sorcerer; no source confirms hypnosis or a spell on her.",
    "format": "tv",
    "categories": [
     "wife",
     "remarried-wife-control",
     "stepfather-control",
     "mother",
-    "forced-obedience"
+    "forced-obedience",
+    "hypnotised-mother-marriage",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -17956,7 +19107,8 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:63",
@@ -17965,7 +19117,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla:264",
     "ig6qlxqxoxvcxla:343",
     "ig6qlxqxoxvcxla:347",
-    "ig6qlxqxoxvcxla:720"
+    "ig6qlxqxoxvcxla:720",
+    "hypnotized-marriage:35"
    ],
    "index_only": false,
    "local_only": false,
@@ -18188,6 +19341,45 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "El maleficio — remake",
      "matched_by": "alias"
+    },
+    {
+     "rid": "hypnotized-marriage:35",
+     "source": "hypnotized-marriage",
+     "label": "El maleficio (2023–24)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "El maleficio",
+     "subtitle": "",
+     "year": "2023–24",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotised-mother-marriage",
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Spanish Wikipedia",
+       "url": "https://es.wikipedia.org/wiki/El_maleficio_(serie_de_televisi%C3%B3n)"
+      },
+      {
+       "label": "Plex / TheTVDB",
+       "url": "https://thetvdb.plex.tv/series/el-maleficio-2023/allseasons/official"
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "yes",
+     "kids_note": "Beatriz is a single mother when she marries the sorcerer Enrique (ep. 47)",
+     "fit_note": "Loose fit: widowed/single mother marries a sorcerer; no source confirms hypnosis or a spell on her.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -18323,6 +19515,35 @@ window.CATALOG = {
      "group": "Borderline",
      "confidence": "Borderline",
      "note": ""
+    },
+    "hypnotized-marriage:35": {
+     "title": "El maleficio",
+     "year": "2023–24",
+     "match_title": "El maleficio",
+     "match_year": "2023–24",
+     "format": "tv",
+     "categories": [
+      "hypnotised-mother-marriage",
+      "hypnotized-marriage"
+     ],
+     "group": "Mother with children, hypnotised / spell-bound into marriage",
+     "sources": [
+      {
+       "label": "Spanish Wikipedia",
+       "url": "https://es.wikipedia.org/wiki/El_maleficio_(serie_de_televisi%C3%B3n)"
+      },
+      {
+       "label": "Plex / TheTVDB",
+       "url": "https://thetvdb.plex.tv/series/el-maleficio-2023/allseasons/official"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "kids_status": "yes",
+     "kids_note": "Beatriz is a single mother when she marries the sorcerer Enrique (ep. 47)",
+     "fit_note": "Loose fit: widowed/single mother marries a sorcerer; no source confirms hypnosis or a spell on her.",
+     "tags": [
+      "loose fit"
+     ]
     }
    }
   },
@@ -24346,7 +25567,8 @@ window.CATALOG = {
    "categories": [
     "mother",
     "forced-obedience",
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "doctor-gain"
    ],
    "sources": [
     {
@@ -24389,7 +25611,8 @@ window.CATALOG = {
     "categories": [
      "mother",
      "forced-obedience",
-     "adult-hypnosis"
+     "adult-hypnosis",
+     "doctor-gain"
     ],
     "sources": [
      {
@@ -24528,7 +25751,8 @@ window.CATALOG = {
      "c": [
       "mother",
       "forced-obedience",
-      "adult-hypnosis"
+      "adult-hypnosis",
+      "doctor-gain"
      ],
      "mg": "high",
      "mec": "Predatory hypnotic influence",
@@ -24542,7 +25766,9 @@ window.CATALOG = {
      ],
      "fog": "partner",
      "ahg": "erotic",
-     "ch": "Mrs. Livroy"
+     "ch": "Mrs. Livroy",
+     "dg": "x",
+     "dgNote": "Existing-record overlap"
     },
     "ig6qlxqxoxvcxla:45": {
      "detailed": {
@@ -32318,6 +33544,7 @@ window.CATALOG = {
     "adult-hypnosis",
     "love",
     "medical",
+    "doctor-gain",
     "index-48"
    ],
    "sources": [
@@ -32387,7 +33614,8 @@ window.CATALOG = {
      "forced-obedience",
      "adult-hypnosis",
      "love",
-     "medical"
+     "medical",
+     "doctor-gain"
     ],
     "sources": [
      {
@@ -32700,7 +33928,8 @@ window.CATALOG = {
       "forced-obedience",
       "adult-hypnosis",
       "love",
-      "medical"
+      "medical",
+      "doctor-gain"
      ],
      "mec": "Post-hypnotic trigger / murderous concealment",
      "flag": "High confidence",
@@ -32729,7 +33958,9 @@ window.CATALOG = {
      ],
      "twg": "criminal",
      "fog": "therapist",
-     "ahg": "therapist"
+     "ahg": "therapist",
+     "dg": "x",
+     "dgNote": "Existing-record overlap · hypnotherapist uses a patient for possessive replacement"
     },
     "ig6qlxqxoxvcxla:60": {
      "detailed": {
@@ -39082,19 +40313,20 @@ window.CATALOG = {
   },
   {
    "id": 168,
-   "title": "The Womb",
-   "subtitle": "Inang",
+   "title": "The Womb / Inang",
+   "subtitle": "Netflix release 16 Feb 2023 · dir. Fajar Nugros",
    "year": "2022",
-   "meta": "Film · Indonesia · Indonesian",
-   "mechanism": "Occult-group manipulation",
-   "confidence_flag": "Medium confidence · close variant",
-   "summary": "Pregnant Wulan is taken in by the Santoso couple, who control her care and medical bills. They belong to an occult group planning to sacrifice her and her baby to save their cursed son.",
-   "character": "",
-   "provenance": "",
+   "meta": "Film · Indonesia · Indonesian · theatrical / Netflix",
+   "mechanism": "Literal hypnosis during pregnancy",
+   "confidence_flag": "Medium confidence · strict pregnancy-era hypnosis · two independent plot sources",
+   "summary": "Pregnant Wulan, living with the Santoso couple who plan to sacrifice her and her child in a ritual, tries to tell Eva that she wants to leave. Eva hypnotizes Wulan into agreeing to stay and leave only after her delivery, directly overlapping pregnancy and literal hypnosis.",
+   "character": "Wulan",
+   "provenance": "Worldwide vertical-short and adult/R-rated pregnancy-hypnosis sweep completed 2–3 Oct 2026 across 110 query rounds in 13+ languages. No verified vertical-short, hypno-intimacy or adult/R-rated title was found; five supported catalog updates are retained, with source and confidence limits stated per card, while Ezedike is held outside the catalog pending evidence of a pregnant controlled victim.",
    "note": "",
    "format": "movie",
    "categories": [
-    "pregnancy-evil"
+    "pregnancy-evil",
+    "pregnant-strict"
    ],
    "sources": [
     {
@@ -39104,6 +40336,14 @@ window.CATALOG = {
     {
      "label": "IMDb",
      "url": "https://www.imdb.com/title/tt14954636"
+    },
+    {
+     "label": "DMTalkies · ending explainer",
+     "url": "https://dmtalkies.com/the-womb-inang-ending-explained-2023-netflix-indonesian-horror-film/"
+    },
+    {
+     "label": "High On Films · ending explainer",
+     "url": "https://www.highonfilms.com/the-womb-inag-movie-ending-explained/"
     }
    ],
    "youtube_ids": [],
@@ -39121,22 +40361,23 @@ window.CATALOG = {
    "primary_copy": {
     "rid": "xla62ucxbx02u5:169",
     "source": "xla62ucxbx02u5",
-    "label": "The Womb · Inang (2022)",
+    "label": "The Womb / Inang · Netflix release 16 Feb 2023 · dir. Fajar Nugros (2022)",
     "identifiers": [
      "subtitle",
      "year/date"
     ],
-    "title": "The Womb",
-    "subtitle": "Inang",
+    "title": "The Womb / Inang",
+    "subtitle": "Netflix release 16 Feb 2023 · dir. Fajar Nugros",
     "year": "2022",
-    "meta": "Film · Indonesia · Indonesian",
-    "summary": "Pregnant Wulan is taken in by the Santoso couple, who control her care and medical bills. They belong to an occult group planning to sacrifice her and her baby to save their cursed son.",
-    "character": "",
+    "meta": "Film · Indonesia · Indonesian · theatrical / Netflix",
+    "summary": "Pregnant Wulan, living with the Santoso couple who plan to sacrifice her and her child in a ritual, tries to tell Eva that she wants to leave. Eva hypnotizes Wulan into agreeing to stay and leave only after her delivery, directly overlapping pregnancy and literal hypnosis.",
+    "character": "Wulan",
     "note": "",
-    "mechanism": "Occult-group manipulation",
-    "confidence_flag": "Medium confidence · close variant",
+    "mechanism": "Literal hypnosis during pregnancy",
+    "confidence_flag": "Medium confidence · strict pregnancy-era hypnosis · two independent plot sources",
     "categories": [
-     "pregnancy-evil"
+     "pregnancy-evil",
+     "pregnant-strict"
     ],
     "sources": [
      {
@@ -39146,6 +40387,14 @@ window.CATALOG = {
      {
       "label": "IMDb",
       "url": "https://www.imdb.com/title/tt14954636"
+     },
+     {
+      "label": "DMTalkies · ending explainer",
+      "url": "https://dmtalkies.com/the-womb-inang-ending-explained-2023-netflix-indonesian-horror-film/"
+     },
+     {
+      "label": "High On Films · ending explainer",
+      "url": "https://www.highonfilms.com/the-womb-inag-movie-ending-explained/"
      }
     ],
     "distinct_story": false
@@ -39155,9 +40404,7 @@ window.CATALOG = {
      "rid": "ig6qlxqxoxvcxla:867",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Womb / Inang",
-     "identifiers": [
-      "own title/qualifier"
-     ],
+     "identifiers": [],
      "title": "The Womb / Inang",
      "subtitle": "",
      "year": "",
@@ -39173,23 +40420,24 @@ window.CATALOG = {
      "sources": [],
      "distinct_story": false,
      "index_title": "The Womb / Inang",
-     "matched_by": "alias"
+     "matched_by": "title+year"
     }
    ],
    "raw": {
     "xla62ucxbx02u5:169": {
-     "t": "The Womb",
-     "sub": "Inang",
+     "t": "The Womb / Inang",
+     "sub": "Netflix release 16 Feb 2023 · dir. Fajar Nugros",
      "y": "2022",
      "f": "movie",
-     "m": "Film · Indonesia · Indonesian",
+     "m": "Film · Indonesia · Indonesian · theatrical / Netflix",
      "c": [
-      "pregnancy-evil"
+      "pregnancy-evil",
+      "pregnant-strict"
      ],
      "pg": "medium",
-     "mec": "Occult-group manipulation",
-     "flag": "Medium confidence · close variant",
-     "s": "Pregnant Wulan is taken in by the Santoso couple, who control her care and medical bills. They belong to an occult group planning to sacrifice her and her baby to save their cursed son.",
+     "mec": "Literal hypnosis during pregnancy",
+     "flag": "Medium confidence · strict pregnancy-era hypnosis · two independent plot sources",
+     "s": "Pregnant Wulan, living with the Santoso couple who plan to sacrifice her and her child in a ritual, tries to tell Eva that she wants to leave. Eva hypnotizes Wulan into agreeing to stay and leave only after her delivery, directly overlapping pregnancy and literal hypnosis.",
      "src": [
       [
        "Wikipedia",
@@ -39198,8 +40446,42 @@ window.CATALOG = {
       [
        "IMDb",
        "https://www.imdb.com/title/tt14954636"
+      ],
+      [
+       "DMTalkies · ending explainer",
+       "https://dmtalkies.com/the-womb-inang-ending-explained-2023-netflix-indonesian-horror-film/"
+      ],
+      [
+       "High On Films · ending explainer",
+       "https://www.highonfilms.com/the-womb-inag-movie-ending-explained/"
       ]
-     ]
+     ],
+     "psg": "villain",
+     "ch": "Wulan",
+     "prov": "Worldwide vertical-short and adult/R-rated pregnancy-hypnosis sweep completed 2–3 Oct 2026 across 110 query rounds in 13+ languages. No verified vertical-short, hypno-intimacy or adult/R-rated title was found; five supported catalog updates are retained, with source and confidence limits stated per card, while Ezedike is held outside the catalog pending evidence of a pregnant controlled victim.",
+     "strictCh": "Wulan",
+     "strictMec": "Literal hypnosis during pregnancy",
+     "strictFlag": "Medium confidence · strict pregnancy-era hypnosis · two independent plot sources",
+     "strictS": "Pregnant Wulan, living with the Santoso couple who plan to sacrifice her and her child in a ritual, tries to tell Eva that she wants to leave. Eva hypnotizes Wulan into agreeing to stay and leave only after her delivery, directly overlapping pregnancy and literal hypnosis.",
+     "strictSrc": [
+      [
+       "Wikipedia",
+       "https://en.wikipedia.org/wiki/The_Womb"
+      ],
+      [
+       "IMDb",
+       "https://www.imdb.com/title/tt14954636"
+      ],
+      [
+       "DMTalkies · ending explainer",
+       "https://dmtalkies.com/the-womb-inang-ending-explained-2023-netflix-indonesian-horror-film/"
+      ],
+      [
+       "High On Films · ending explainer",
+       "https://www.highonfilms.com/the-womb-inag-movie-ending-explained/"
+      ]
+     ],
+     "strictProv": "Worldwide vertical-short and adult/R-rated pregnancy-hypnosis sweep completed 2–3 Oct 2026 across 110 query rounds in 13+ languages. No verified vertical-short, hypno-intimacy or adult/R-rated title was found; five supported catalog updates are retained, with source and confidence limits stated per card, while Ezedike is held outside the catalog pending evidence of a pregnant controlled victim."
     },
     "ig6qlxqxoxvcxla:867": {
      "title": "The Womb / Inang",
@@ -48250,7 +49532,8 @@ window.CATALOG = {
     "crime",
     "forced-obedience",
     "human",
-    "royal-hypnosis"
+    "royal-hypnosis",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -48272,14 +49555,16 @@ window.CATALOG = {
     "worldwide-hypnosis",
     "older-man-hypnosis",
     "hypno-leftovers",
-    "royal-hypnosis-loose"
+    "royal-hypnosis-loose",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:221",
     "worldwide-hypnosis:135",
     "older-man-hypnosis:19",
     "hypno-leftovers:15",
-    "royal-hypnosis-loose:18"
+    "royal-hypnosis-loose:18",
+    "hypnotized-marriage:2"
    ],
    "index_only": false,
    "local_only": false,
@@ -48460,6 +49745,41 @@ window.CATALOG = {
      "already_married_note": "Royal-hypnosis loose fit: Lorenza is unmarried when Cagliostro hypnotizes her into marrying him; she is not royal but, under his control, is used to impersonate Queen Marie Antoinette in his bid for power at court",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:2",
+     "source": "hypnotized-marriage",
+     "label": "Black Magic (1949)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Black Magic",
+     "subtitle": "",
+     "year": "1949",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Black_Magic_(1949_film)"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Black_Magic_%281949_Italian-American_film%29"
+      }
+     ],
+     "fit_note": "Cagliostro hypnotises Lorenza into forgetting her love and marrying him.",
+     "already_married": "no",
+     "already_married_note": "Lorenza is not married; Cagliostro hypnotises her to forget her true love and marry him",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -48597,6 +49917,31 @@ window.CATALOG = {
      ],
      "already_married": "no",
      "already_married_note": "Royal-hypnosis loose fit: Lorenza is unmarried when Cagliostro hypnotizes her into marrying him; she is not royal but, under his control, is used to impersonate Queen Marie Antoinette in his bid for power at court"
+    },
+    "hypnotized-marriage:2": {
+     "title": "Black Magic",
+     "year": "1949",
+     "match_title": "Black Magic",
+     "match_year": "1949",
+     "format": "movie",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Married while hypnotised / spell-bound (wedding performed)",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Black_Magic_(1949_film)"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Black_Magic_%281949_Italian-American_film%29"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "already_married": "no",
+     "already_married_note": "Lorenza is not married; Cagliostro hypnotises her to forget her true love and marry him",
+     "fit_note": "Cagliostro hypnotises Lorenza into forgetting her love and marrying him."
     }
    },
    "watch_links": [
@@ -49045,19 +50390,28 @@ window.CATALOG = {
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "fit_note": "Love-potion spell makes the woman agree to marry.",
    "format": "tv",
    "categories": [
-    "love"
+    "love",
+    "hypnotized-marriage"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "label": "catalog card",
+     "url": "https://mad08011999-cloud.github.io/tv-movie-catalog/"
+    }
+   ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:224",
-    "ig6qlxqxoxvcxla:161"
+    "ig6qlxqxoxvcxla:161",
+    "hypnotized-marriage:10"
    ],
    "index_only": false,
    "local_only": false,
@@ -49108,6 +50462,35 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Wish Ko Lang ‘Gayuma’",
      "matched_by": "alias"
+    },
+    {
+     "rid": "hypnotized-marriage:10",
+     "source": "hypnotized-marriage",
+     "label": "Wish Ko Lang: \"Gayuma\" (2021)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Wish Ko Lang: \"Gayuma\"",
+     "subtitle": "",
+     "year": "2021",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "catalog card",
+       "url": "https://mad08011999-cloud.github.io/tv-movie-catalog/"
+      }
+     ],
+     "fit_note": "Love-potion spell makes the woman agree to marry.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -49130,6 +50513,25 @@ window.CATALOG = {
      "group": "Hypnotist's assistant / love-potion variants",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "hypnotized-marriage:10": {
+     "title": "Wish Ko Lang: \"Gayuma\"",
+     "year": "2021",
+     "match_title": "Wish Ko Lang: \"Gayuma\"",
+     "match_year": "2021",
+     "format": "tv",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "sources": [
+      {
+       "label": "catalog card",
+       "url": "https://mad08011999-cloud.github.io/tv-movie-catalog/"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Love-potion spell makes the woman agree to marry."
     }
    }
   },
@@ -51196,7 +52598,8 @@ window.CATALOG = {
    "format": "movie",
    "categories": [
     "human",
-    "forced-obedience"
+    "forced-obedience",
+    "doctor-gain"
    ],
    "sources": [],
    "youtube_ids": [],
@@ -51229,7 +52632,8 @@ window.CATALOG = {
     "confidence_flag": "Research report · web-verified",
     "categories": [
      "human",
-     "forced-obedience"
+     "forced-obedience",
+     "doctor-gain"
     ],
     "sources": [],
     "distinct_story": false
@@ -51268,13 +52672,37 @@ window.CATALOG = {
      "m": "Film · Spain/France",
      "c": [
       "human",
-      "forced-obedience"
+      "forced-obedience",
+      "doctor-gain"
      ],
      "mec": "Human-villain hypnosis / mind control",
      "flag": "Research report · web-verified",
      "s": "Irma Zimmer enslaves nightclub dancer Nadia with her late father's mind-control device, sending her out to murder with poison-tipped fingernails.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
-     "fog": "cult"
+     "fog": "therapist",
+     "dg": "c",
+     "dgT": "The Diabolical Dr. Z",
+     "dgSub": "Miss Muerte",
+     "dgY": "1966",
+     "dgM": "Film · Spain / France · Spanish / French",
+     "dgS": "Female surgeon Irma Zimmer uses her father’s Z-ray apparatus to turn Nadia and other women into obedient killers in a revenge campaign against the scientists who ruined him.",
+     "dgMec": "Machine mind-control presented as hypnosis — not trance",
+     "dgFlag": "MEDIUM · FEMALE DOCTOR · MACHINE MECHANISM",
+     "dgNote": "Controller is a female doctor; the mechanism is machine mind-control rather than classical hypnosis.",
+     "dgSrc": [
+      [
+       "Wikipedia",
+       "https://en.wikipedia.org/wiki/The_Diabolical_Dr._Z"
+      ],
+      [
+       "AllMovie",
+       "https://www.allmovie.com/movie/v125047"
+      ],
+      [
+       "Trailers from Hell",
+       "https://trailersfromhell.com/cinesavant/the-diabolical-dr-z-2/"
+      ]
+     ]
     },
     "ig6qlxqxoxvcxla:489": {
      "title": "The Diabolical Dr. Z / Miss Muerte (1966)",
@@ -52758,10 +54186,12 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
+   "fit_note": "Lila Roberts is mind-controlled (Lumina) and marries Matt Cory while under control.",
    "format": "tv",
    "categories": [
     "human",
-    "other-control"
+    "other-control",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -52777,12 +54207,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:241",
     "ig6qlxqxoxvcxla:497",
-    "worldwide-hypnosis:75"
+    "worldwide-hypnosis:75",
+    "hypnotized-marriage:3"
    ],
    "index_only": false,
    "local_only": false,
@@ -52877,6 +54309,39 @@ window.CATALOG = {
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:3",
+     "source": "hypnotized-marriage",
+     "label": "Another World (1998–99)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Another World",
+     "subtitle": "",
+     "year": "1998–99",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Another_World_%28Soap_Opera%29"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Another_World_%28TV_series%29"
+      }
+     ],
+     "fit_note": "Lila Roberts is mind-controlled (Lumina) and marries Matt Cory while under control.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -52937,6 +54402,29 @@ window.CATALOG = {
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
      "match_title": "Another World",
      "match_year": "1998–99"
+    },
+    "hypnotized-marriage:3": {
+     "title": "Another World",
+     "year": "1998–99",
+     "match_title": "Another World",
+     "match_year": "1998–99",
+     "format": "tv",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Married while hypnotised / spell-bound (wedding performed)",
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Another_World_%28Soap_Opera%29"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Another_World_%28TV_series%29"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Lila Roberts is mind-controlled (Lumina) and marries Matt Cory while under control."
     }
    }
   },
@@ -53568,7 +55056,9 @@ window.CATALOG = {
    "note": "",
    "format": "tv",
    "categories": [
-    "human"
+    "human",
+    "doctor-gain",
+    "forced-obedience"
    ],
    "sources": [],
    "youtube_ids": [],
@@ -53600,7 +55090,9 @@ window.CATALOG = {
     "mechanism": "Human-villain hypnosis / mind control",
     "confidence_flag": "Research report · web-verified",
     "categories": [
-     "human"
+     "human",
+     "doctor-gain",
+     "forced-obedience"
     ],
     "sources": [],
     "distinct_story": false
@@ -53638,12 +55130,46 @@ window.CATALOG = {
      "f": "tv",
      "m": "TV series · USA",
      "c": [
-      "human"
+      "human",
+      "doctor-gain",
+      "forced-obedience"
      ],
      "mec": "Human-villain hypnosis / mind control",
      "flag": "Research report · web-verified",
      "s": "Dr. Julia Hoffman hypnotizes Maggie Evans to suppress her memories of Barnabas Collins's captivity.",
-     "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
+     "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
+     "dg": "d",
+     "dgT": "Dark Shadows",
+     "dgSub": "Episodes 295–298 · Maggie Evans memory-erasure arc",
+     "dgY": "1967",
+     "dgM": "Daytime soap opera · United States · English · ABC",
+     "dgS": "Psychiatrist Dr. Julia Hoffman hypnotizes Maggie Evans to erase memories of her captivity, protecting Barnabas Collins’s secret and preserving Hoffman’s vampire-cure research and leverage.",
+     "dgMec": "Jeweled-medallion trance hypnosis",
+     "dgFlag": "HIGH · FEMALE DOCTOR",
+     "dgNote": "Controller is a female doctor; the gain combines a cover-up with professional research leverage.",
+     "dgSrc": [
+      [
+       "Dark Shadows Commentary",
+       "http://darkshadowscommentary.com/tag/josette-du-pres/"
+      ],
+      [
+       "Dark Shadows Wiki · episode 298",
+       "https://darkshadows.fandom.com/wiki/298"
+      ],
+      [
+       "Rotten Tomatoes",
+       "https://www.rottentomatoes.com/tv/dark_shadows/s02/e86"
+      ],
+      [
+       "IMDb",
+       "https://www.imdb.com/title/tt0861057"
+      ],
+      [
+       "Wikipedia · Julia Hoffman",
+       "https://en.wikipedia.org/wiki/Julia_Hoffman"
+      ]
+     ],
+     "fog": "therapist"
     },
     "ig6qlxqxoxvcxla:501": {
      "title": "Dark Shadows (1967–68)",
@@ -64799,11 +66325,13 @@ window.CATALOG = {
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "fit_note": "Resurrected woman under a spell agrees to marry the sorcerer.",
    "format": "tv",
    "categories": [
     "spirit",
     "love",
-    "india-control"
+    "india-control",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -64815,14 +66343,16 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "india-catalog"
+    "india-catalog",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:312",
     "ig6qlxqxoxvcxla:163",
     "ig6qlxqxoxvcxla:432",
     "ig6qlxqxoxvcxla:583",
-    "india-catalog:128"
+    "india-catalog:128",
+    "hypnotized-marriage:11"
    ],
    "index_only": false,
    "local_only": false,
@@ -64943,6 +66473,35 @@ window.CATALOG = {
      "sources": [],
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:11",
+     "source": "hypnotized-marriage",
+     "label": "Yehh Jadu Hai Jinn Ka (2019–20)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Yehh Jadu Hai Jinn Ka",
+     "subtitle": "",
+     "year": "2019–20",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Bollywood Life",
+       "url": "https://www.bollywoodlife.com/tv/yehh-jaadu-hai-jinn-ka-spoiler-alert-roshni-to-save-aman-from-a-deadly-attack-1542818/"
+      }
+     ],
+     "fit_note": "Resurrected woman under a spell agrees to marry the sorcerer.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -65002,6 +66561,25 @@ window.CATALOG = {
      "categories": [],
      "sources": [],
      "present": true
+    },
+    "hypnotized-marriage:11": {
+     "title": "Yehh Jadu Hai Jinn Ka",
+     "year": "2019–20",
+     "match_title": "Yehh Jadu Hai Jinn Ka",
+     "match_year": "2019–20",
+     "format": "tv",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "sources": [
+      {
+       "label": "Bollywood Life",
+       "url": "https://www.bollywoodlife.com/tv/yehh-jaadu-hai-jinn-ka-spoiler-alert-roshni-to-save-aman-from-a-deadly-attack-1542818/"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Resurrected woman under a spell agrees to marry the sorcerer."
     }
    }
   },
@@ -109612,7 +111190,10 @@ window.CATALOG = {
    "format": "tv",
    "categories": [
     "forced-obedience",
-    "polygamy-hypnosis"
+    "polygamy-hypnosis",
+    "doctor-gain",
+    "adult-hypnosis",
+    "hypno-intimacy"
    ],
    "sources": [
     {
@@ -109650,7 +111231,10 @@ window.CATALOG = {
     "confidence_flag": "Low-medium confidence · explicit sexual content",
     "categories": [
      "forced-obedience",
-     "polygamy-hypnosis"
+     "polygamy-hypnosis",
+     "doctor-gain",
+     "adult-hypnosis",
+     "hypno-intimacy"
     ],
     "sources": [
      {
@@ -109704,7 +111288,10 @@ window.CATALOG = {
      ],
      "c": [
       "forced-obedience",
-      "polygamy-hypnosis"
+      "polygamy-hypnosis",
+      "doctor-gain",
+      "adult-hypnosis",
+      "hypno-intimacy"
      ],
      "phg": "harem-variant",
      "polygamyT": "Saimin Ryoujoku Gakuen",
@@ -109715,7 +111302,27 @@ window.CATALOG = {
      "polygamyFlag": "MEDIUM · ADULT/18+ · concurrent victims, not wives",
      "polygamyS": "Counselor Fujimi uses hypnotic drugs to alter targeted women's wills and attacks multiple students. The report treats the accumulated victims as a harem-like setup, not as wives.",
      "polygamySrc": [],
-     "polygamyProv": "Worldwide seven-vector sweep plus strict-scope supplement, 1 Oct 2026 · Anime News Network · IMDb"
+     "polygamyProv": "Worldwide seven-vector sweep plus strict-scope supplement, 1 Oct 2026 · Anime News Network · IMDb",
+     "dg": "a",
+     "dgT": "Saimin Ryoujoku Gakuen",
+     "dgSub": "催眠凌辱学園 · 3-episode OVA",
+     "dgY": "2008–09",
+     "dgM": "Adult anime OVA · Japan · Japanese",
+     "dgS": "Guidance counsellor and teacher Fujimi Toshikazu uses hypnotic drugs to override female students’ wills for sexual exploitation.",
+     "dgMec": "Hypnotic drugs — not trance",
+     "dgFlag": "MEDIUM · [ADULT] 18+ · NON-DOCTOR EDGE · SCHOOL SETTING",
+     "dgNote": "Non-doctor edge: the controller is a school counsellor/teacher, not a physician. Adult animation set at a school.",
+     "dgSrc": [
+      [
+       "Anime News Network",
+       "https://www.Animenewsnetwork.com/encyclopedia/anime.php?id=11462"
+      ],
+      [
+       "IMDb",
+       "https://www.imdb.com/title/tt21447168"
+      ]
+     ],
+     "ahg": "therapist"
     },
     "ig6qlxqxoxvcxla:239": {
      "title": "Saimin Ryoujoku Gakuen (2008)",
@@ -109741,7 +111348,10 @@ window.CATALOG = {
    "format": "tv",
    "categories": [
     "forced-obedience",
-    "polygamy-hypnosis"
+    "polygamy-hypnosis",
+    "doctor-gain",
+    "adult-hypnosis",
+    "hypno-intimacy"
    ],
    "sources": [
     {
@@ -109779,7 +111389,10 @@ window.CATALOG = {
     "confidence_flag": "Low-medium confidence · explicit sexual content",
     "categories": [
      "forced-obedience",
-     "polygamy-hypnosis"
+     "polygamy-hypnosis",
+     "doctor-gain",
+     "adult-hypnosis",
+     "hypno-intimacy"
     ],
     "sources": [
      {
@@ -109833,7 +111446,10 @@ window.CATALOG = {
      ],
      "c": [
       "forced-obedience",
-      "polygamy-hypnosis"
+      "polygamy-hypnosis",
+      "doctor-gain",
+      "adult-hypnosis",
+      "hypno-intimacy"
      ],
      "phg": "harem-variant",
      "polygamyT": "Saimin Jutsu Zero",
@@ -109844,7 +111460,31 @@ window.CATALOG = {
      "polygamyFlag": "MEDIUM · ADULT/18+ · concurrent victims, not wives",
      "polygamyS": "School doctor Murakoshi Shinta hypnotizes multiple female students, including Sayuri and Manami, and turns them into sex slaves. The harem reading is simultaneous control rather than plural marriage.",
      "polygamySrc": [],
-     "polygamyProv": "Worldwide seven-vector sweep plus strict-scope supplement, 1 Oct 2026 · MyAnimeList · IMDb · aniSearch"
+     "polygamyProv": "Worldwide seven-vector sweep plus strict-scope supplement, 1 Oct 2026 · MyAnimeList · IMDb · aniSearch",
+     "dg": "a",
+     "dgT": "Saimin Jutsu Zero",
+     "dgSub": "催眠術ZERO · 2-episode OVA",
+     "dgY": "2013",
+     "dgM": "Adult anime OVA · Japan · Japanese",
+     "dgS": "School doctor Murakoshi Shinta uses fantasy hypnosis to override female students’ wills for sexual exploitation.",
+     "dgMec": "Fantasy “magical hypnosis” — not clinical hypnosis",
+     "dgFlag": "HIGH · [ADULT] 18+ · SCHOOL SETTING",
+     "dgNote": "Adult animation set at a school; mechanism is magical mind control rather than clinical hypnosis.",
+     "dgSrc": [
+      [
+       "MyAnimeList",
+       "https://myanimelist.net/anime/18151/Saimin_Jutsu_Zero"
+      ],
+      [
+       "aniSearch",
+       "https://www.anisearch.com/anime/8435,sex-hypnotist-zero"
+      ],
+      [
+       "IMDb",
+       "https://www.imdb.com/title/tt22188914"
+      ]
+     ],
+     "ahg": "therapist"
     },
     "ig6qlxqxoxvcxla:240": {
      "title": "Saimin Jutsu Zero (2013)",
@@ -110644,7 +112284,8 @@ window.CATALOG = {
    "note": "",
    "format": "tv",
    "categories": [
-    "forced-obedience"
+    "forced-obedience",
+    "doctor-gain"
    ],
    "sources": [
     {
@@ -110698,7 +112339,31 @@ window.CATALOG = {
       ]
      ],
      "c": [
-      "forced-obedience"
+      "forced-obedience",
+      "doctor-gain"
+     ],
+     "dg": "b",
+     "dgT": "Nemureru Mori",
+     "dgSub": "A Sleeping Forest · 眠れる森",
+     "dgY": "1998",
+     "dgM": "TV series · Japan · Japanese · Fuji TV · 12 episodes",
+     "dgS": "Psychiatrist Ito Naomi seals Oba Minako’s memories of a family massacre and implants a false traffic-accident memory. The act can be read as concealing a crime and paternity, or as protective paternal therapy.",
+     "dgMec": "Hypnotherapy: memory sealing + false-memory implantation",
+     "dgFlag": "MEDIUM · MOTIVE AMBIGUOUS",
+     "dgNote": "Both motive readings remain open. The mechanism alters memory and gives no obedience commands.",
+     "dgSrc": [
+      [
+       "Japanese Wikipedia",
+       "http://ja.wikipedia.org/wiki/眠れる森"
+      ],
+      [
+       "English Wikipedia",
+       "https://en.wikipedia.org/wiki/Nemureru_Mori"
+      ],
+      [
+       "MyDramaList",
+       "https://MYDRAMALIST.COM/1901-a-sleeping-forest"
+      ]
      ]
     }
    }
@@ -114861,7 +116526,8 @@ window.CATALOG = {
    "note": "",
    "format": "movie",
    "categories": [
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "doctor-gain"
    ],
    "sources": [
     {
@@ -114888,7 +116554,8 @@ window.CATALOG = {
      "f": "movie",
      "m": "film · 1995, USA",
      "c": [
-      "adult-hypnosis"
+      "adult-hypnosis",
+      "doctor-gain"
      ],
      "ahg": "therapist",
      "mec": "Hypnotherapist or doctor manipulates a female patient",
@@ -114899,7 +116566,9 @@ window.CATALOG = {
        "makeflix.com",
        "https://makeflix.com/products/smoke-and-mirrors-30th-anniversary-edition"
       ]
-     ]
+     ],
+     "dg": "x",
+     "dgNote": "Existing-record overlap"
     }
    }
   },
@@ -115575,7 +117244,8 @@ window.CATALOG = {
    "format": "tv",
    "categories": [
     "adult-hypnosis",
-    "human"
+    "human",
+    "doctor-gain"
    ],
    "sources": [
     {
@@ -115617,7 +117287,8 @@ window.CATALOG = {
     "confidence_flag": "High confidence",
     "categories": [
      "adult-hypnosis",
-     "human"
+     "human",
+     "doctor-gain"
     ],
     "sources": [
      {
@@ -115672,7 +117343,8 @@ window.CATALOG = {
      "m": "TV drama (One31/Netflix) · 2025, Thailand",
      "c": [
       "adult-hypnosis",
-      "human"
+      "human",
+      "doctor-gain"
      ],
      "ahg": "therapist",
      "mec": "Hypnotherapist or doctor manipulates a female patient",
@@ -115687,7 +117359,9 @@ window.CATALOG = {
        "Mental Block wiki",
        "https://mentalblock.miraheze.org/wiki/Hypnotic_%28Thai_Drama%29"
       ]
-     ]
+     ],
+     "dg": "x",
+     "dgNote": "Existing-record overlap · TEEN-VICTIM CAVEAT"
     },
     "worldwide-hypnosis:463": {
      "title": "Hypnotic",
@@ -115864,11 +117538,14 @@ window.CATALOG = {
    ],
    "method": "hypnosis",
    "kids_status": "no",
+   "fit_note": "Dr. Mabuse hypnotises Marion Menil to marry Travers and seize his wealth.",
    "format": "movie",
    "categories": [
     "adult-hypnosis",
     "forced-obedience",
-    "love"
+    "love",
+    "doctor-gain",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -115879,11 +117556,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:665",
-    "rich-wife-hypnosis:16"
+    "rich-wife-hypnosis:16",
+    "hypnotized-marriage:31"
    ],
    "index_only": false,
    "local_only": false,
@@ -115907,7 +117586,8 @@ window.CATALOG = {
     "categories": [
      "adult-hypnosis",
      "forced-obedience",
-     "love"
+     "love",
+     "doctor-gain"
     ],
     "sources": [
      {
@@ -115955,6 +117635,35 @@ window.CATALOG = {
      "kids_status": "no",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:31",
+     "source": "hypnotized-marriage",
+     "label": "Die 1000 Augen des Dr. Mabuse / The Thousand Eyes of Dr. Mabuse (1960)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Die 1000 Augen des Dr. Mabuse / The Thousand Eyes of Dr. Mabuse",
+     "subtitle": "",
+     "year": "1960",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "filmportal.de",
+       "url": "http://www.filmportal.de/film/die-1000-augen-des-dr-mabuse_05ab3755b25840f996f40a62d14f0a6b"
+      }
+     ],
+     "fit_note": "Dr. Mabuse hypnotises Marion Menil to marry Travers and seize his wealth.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -115966,7 +117675,8 @@ window.CATALOG = {
      "c": [
       "adult-hypnosis",
       "forced-obedience",
-      "love"
+      "love",
+      "doctor-gain"
      ],
      "ahg": "villain",
      "mec": "Criminal mastermind or villain hypnotist",
@@ -115978,7 +117688,9 @@ window.CATALOG = {
        "http://www.filmportal.de/film/die-1000-augen-des-dr-mabuse_05ab3755b25840f996f40a62d14f0a6b"
       ]
      ],
-     "fog": "therapist"
+     "fog": "therapist",
+     "dg": "x",
+     "dgNote": "Existing-record overlap · criminal mastermind / doctor of psychology"
     },
     "rich-wife-hypnosis:16": {
      "title": "Die 1000 Augen des Dr. Mabuse / The Thousand Eyes of Dr. Mabuse",
@@ -116009,6 +117721,25 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "no pregnancy for her in the cited plot sources",
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "hypnotized-marriage:31": {
+     "title": "Die 1000 Augen des Dr. Mabuse / The Thousand Eyes of Dr. Mabuse",
+     "year": "1960",
+     "match_title": "Die 1000 Augen des Dr. Mabuse / The Thousand Eyes of Dr. Mabuse",
+     "match_year": "1960",
+     "format": "movie",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "sources": [
+      {
+       "label": "filmportal.de",
+       "url": "http://www.filmportal.de/film/die-1000-augen-des-dr-mabuse_05ab3755b25840f996f40a62d14f0a6b"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Dr. Mabuse hypnotises Marion Menil to marry Travers and seize his wealth."
     }
    },
    "watch_links": [
@@ -116192,6 +117923,7 @@ window.CATALOG = {
     "forced-obedience",
     "hypno-intimacy",
     "human",
+    "doctor-gain",
     "index-52",
     "royal-hypnosis"
    ],
@@ -116268,7 +118000,8 @@ window.CATALOG = {
      "adult-hypnosis",
      "forced-obedience",
      "hypno-intimacy",
-     "human"
+     "human",
+     "doctor-gain"
     ],
     "sources": [
      {
@@ -116574,7 +118307,8 @@ window.CATALOG = {
       "adult-hypnosis",
       "forced-obedience",
       "hypno-intimacy",
-      "human"
+      "human",
+      "doctor-gain"
      ],
      "ahg": "villain",
      "mec": "Criminal mastermind or villain hypnotist",
@@ -116598,7 +118332,9 @@ window.CATALOG = {
        "https://mentalblock.miraheze.org/wiki/Rasputin:_The_Mad_Monk_(1965)"
       ]
      ],
-     "fog": "supernatural"
+     "fog": "supernatural",
+     "dg": "x",
+     "dgNote": "Existing-record overlap · mystic faith-healer, not a physician"
     },
     "ig6qlxqxoxvcxla:151": {
      "detailed": {
@@ -118608,18 +120344,19 @@ window.CATALOG = {
   {
    "id": 676,
    "title": "O Hipnotizador / El Hipnotizador",
-   "subtitle": "",
+   "subtitle": "S02E02 · “Teresa e as Mariposas”",
    "year": "2015–17",
-   "meta": "TV series · 2015–17, Brazil/Argentina/Uruguay",
-   "mechanism": "Criminal mastermind or villain hypnotist",
-   "confidence_flag": "Medium-high confidence",
-   "summary": "hypnotist Arenas agrees to hypnotize Teresa; afterward she remembers events that never happened (implanted false memories).",
-   "character": "",
-   "provenance": "",
+   "meta": "TV series episode · HBO Latin America · Brazil / Argentina · Portuguese / Spanish",
+   "mechanism": "Hypnosis / false-memory manipulation",
+   "confidence_flag": "Medium confidence · memory-manipulation variant",
+   "summary": "Arenas hypnotizes Teresa; while under hypnosis, she remembers events that did not happen. Filed as a memory-manipulation variant rather than a direct command-obedience case.",
+   "character": "Teresa",
+   "provenance": "Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Episode sources: Episodate, TVmaze and WhenHBO.",
    "note": "",
    "format": "tv",
    "categories": [
     "adult-hypnosis",
+    "forced-obedience",
     "love",
     "therapist-wife"
    ],
@@ -118645,21 +120382,23 @@ window.CATALOG = {
    "primary_copy": {
     "rid": "xla62ucxbx02u5:681",
     "source": "xla62ucxbx02u5",
-    "label": "O Hipnotizador / El Hipnotizador (2015–17)",
+    "label": "O Hipnotizador / El Hipnotizador · S02E02 · “Teresa e as Mariposas” (2015–17)",
     "identifiers": [
+     "subtitle",
      "year/date"
     ],
     "title": "O Hipnotizador / El Hipnotizador",
-    "subtitle": "",
+    "subtitle": "S02E02 · “Teresa e as Mariposas”",
     "year": "2015–17",
-    "meta": "TV series · 2015–17, Brazil/Argentina/Uruguay",
-    "summary": "hypnotist Arenas agrees to hypnotize Teresa; afterward she remembers events that never happened (implanted false memories).",
-    "character": "",
+    "meta": "TV series episode · HBO Latin America · Brazil / Argentina · Portuguese / Spanish",
+    "summary": "Arenas hypnotizes Teresa; while under hypnosis, she remembers events that did not happen. Filed as a memory-manipulation variant rather than a direct command-obedience case.",
+    "character": "Teresa",
     "note": "",
-    "mechanism": "Criminal mastermind or villain hypnotist",
-    "confidence_flag": "Medium-high confidence",
+    "mechanism": "Hypnosis / false-memory manipulation",
+    "confidence_flag": "Medium confidence · memory-manipulation variant",
     "categories": [
-     "adult-hypnosis"
+     "adult-hypnosis",
+     "forced-obedience"
     ],
     "sources": [
      {
@@ -118724,20 +120463,25 @@ window.CATALOG = {
      "t": "O Hipnotizador / El Hipnotizador",
      "y": "2015–17",
      "f": "tv",
-     "m": "TV series · 2015–17, Brazil/Argentina/Uruguay",
+     "m": "TV series episode · HBO Latin America · Brazil / Argentina · Portuguese / Spanish",
      "c": [
-      "adult-hypnosis"
+      "adult-hypnosis",
+      "forced-obedience"
      ],
      "ahg": "villain",
-     "mec": "Criminal mastermind or villain hypnotist",
-     "flag": "Medium-high confidence",
-     "s": "hypnotist Arenas agrees to hypnotize Teresa; afterward she remembers events that never happened (implanted false memories).",
+     "mec": "Hypnosis / false-memory manipulation",
+     "flag": "Medium confidence · memory-manipulation variant",
+     "s": "Arenas hypnotizes Teresa; while under hypnosis, she remembers events that did not happen. Filed as a memory-manipulation variant rather than a direct command-obedience case.",
      "src": [
       [
        "IMDb",
        "https://www.imdb.com/title/tt4905820/episodes/?year=2017"
       ]
-     ]
+     ],
+     "sub": "S02E02 · “Teresa e as Mariposas”",
+     "ch": "Teresa",
+     "fog": "variant",
+     "prov": "Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Episode sources: Episodate, TVmaze and WhenHBO."
     },
     "ig6qlxqxoxvcxla:157": {
      "title": "O Hipnotizador",
@@ -121193,7 +122937,9 @@ window.CATALOG = {
    "format": "movie",
    "categories": [
     "adult-hypnosis",
-    "forced-obedience"
+    "forced-obedience",
+    "doctor-gain",
+    "hypno-intimacy"
    ],
    "sources": [
     {
@@ -121221,9 +122967,11 @@ window.CATALOG = {
      "m": "film · 2012, France",
      "c": [
       "adult-hypnosis",
-      "forced-obedience"
+      "forced-obedience",
+      "doctor-gain",
+      "hypno-intimacy"
      ],
-     "ahg": "comedy",
+     "ahg": "therapist",
      "mec": "Comedy, light stories and historical demonstrations",
      "flag": "High confidence",
      "s": "Charcot has Augustine hypnotized before doctors, inducing her seizures; she becomes the star female subject of his hypnosis demonstrations at the Salpêtrière.",
@@ -121233,7 +122981,22 @@ window.CATALOG = {
        "https://en.wikipedia.org/wiki/Augustine_(film)"
       ]
      ],
-     "fog": "therapist"
+     "fog": "therapist",
+     "dg": "a",
+     "dgT": "Augustine",
+     "dgY": "2012",
+     "dgM": "Film · France · French",
+     "dgS": "Neurologist Jean-Martin Charcot hypnotizes 19-year-old patient Augustine and exhibits her in clinical demonstrations that serve his research funding and academic standing; reviews also describe erotic desire under medical cover.",
+     "dgMec": "Clinical hypnosis demonstrations",
+     "dgFlag": "HIGH · patient is 19 · historical doctor",
+     "dgNote": "Augustine is a 19-year-old young adult; Charcot is a historical figure. The intimacy overlap is borderline rather than a direct hypnosis-to-sex command.",
+     "dgSrc": [
+      [
+       "Wikipedia",
+       "https://en.wikipedia.org/wiki/Augustine_(film)"
+      ]
+     ],
+     "dgProv": "Sources reviewed in the 2 October 2026 sweep: Cine-Sport, Newcity Film, New York Press, Spectrum Culture and MUBI."
     }
    },
    "watch_links": [
@@ -124047,12 +125810,12 @@ window.CATALOG = {
    "title": "The Hypnotist",
    "subtitle": "",
    "year": "1936",
-   "meta": "stag short film · 1936, USA",
+   "meta": "Stag short film · United States · English",
    "mechanism": "Fortune-teller hypnosis",
-   "confidence_flag": "Medium confidence · explicit sexual content (hardcore stag)",
-   "summary": "A married couple visit a fortune teller; he sends the husband to a waiting room, hypnotizes the wife into trance (she never consented to hypnosis) and uses her in an on-screen lesbian sex scene, then hypnotizes the husband likewise.",
+   "confidence_flag": "Medium confidence · 18+ explicit adult short",
+   "summary": "A married couple visits a fortune teller. The wife is hypnotized for a sexual encounter with a woman; the husband is later hypnotized for another sexual encounter.",
    "character": "",
-   "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only.",
+   "provenance": "Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Corroborated by IMDb tt0289230 and 1930s stag-film references.",
    "note": "",
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "cited sources do not mention a pregnancy",
@@ -124128,12 +125891,12 @@ window.CATALOG = {
     "title": "The Hypnotist",
     "subtitle": "",
     "year": "1936",
-    "meta": "stag short film · 1936, USA",
-    "summary": "A married couple visit a fortune teller; he sends the husband to a waiting room, hypnotizes the wife into trance (she never consented to hypnosis) and uses her in an on-screen lesbian sex scene, then hypnotizes the husband likewise.",
+    "meta": "Stag short film · United States · English",
+    "summary": "A married couple visits a fortune teller. The wife is hypnotized for a sexual encounter with a woman; the husband is later hypnotized for another sexual encounter.",
     "character": "",
     "note": "",
     "mechanism": "Fortune-teller hypnosis",
-    "confidence_flag": "Medium confidence · explicit sexual content (hardcore stag)",
+    "confidence_flag": "Medium confidence · 18+ explicit adult short",
     "categories": [
      "adult-hypnosis",
      "hypno-intimacy"
@@ -124351,15 +126114,15 @@ window.CATALOG = {
      "t": "The Hypnotist",
      "y": "1936",
      "f": "short",
-     "m": "stag short film · 1936, USA",
+     "m": "Stag short film · United States · English",
      "c": [
       "adult-hypnosis",
       "hypno-intimacy"
      ],
      "ahg": "stage",
      "mec": "Fortune-teller hypnosis",
-     "flag": "Medium confidence · explicit sexual content (hardcore stag)",
-     "s": "A married couple visit a fortune teller; he sends the husband to a waiting room, hypnotizes the wife into trance (she never consented to hypnosis) and uses her in an on-screen lesbian sex scene, then hypnotizes the husband likewise.",
+     "flag": "Medium confidence · 18+ explicit adult short",
+     "s": "A married couple visits a fortune teller. The wife is hypnotized for a sexual encounter with a woman; the husband is later hypnotized for another sexual encounter.",
      "src": [
       [
        "IMDb",
@@ -124380,7 +126143,8 @@ window.CATALOG = {
      ],
      "kids_status": "not stated",
      "married": "no",
-     "pregnant_end": "not stated"
+     "pregnant_end": "not stated",
+     "prov": "Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Corroborated by IMDb tt0289230 and 1930s stag-film references."
     },
     "ig6qlxqxoxvcxla:125": {
      "detailed": {
@@ -124546,19 +126310,20 @@ window.CATALOG = {
   {
    "id": 725,
    "title": "Saimin Seishidou",
-   "subtitle": "",
+   "subtitle": "Hypnosis Sex Guidance",
    "year": "2019–2022",
-   "meta": "adult anime OVA series · 2019–2022, Japan · Japanese",
-   "mechanism": "Hypnotic sexual control",
-   "confidence_flag": "Medium-high confidence · explicit sexual content · animated",
-   "summary": "Explicit non-consensual hypnosis documented episode by episode: Tanaka puts Tsubaki under hypnosis, casts hypnosis on Natsumi, and targets kendo-club captain Miyajima Sakura with “妊娠体験指導” — the hypnosis secures sexual control.",
+   "meta": "Adult-animation OVA series · Japan · Japanese",
+   "mechanism": "Hypnosis in sexual scenarios",
+   "confidence_flag": "Medium confidence · 18+ explicit adult animation",
+   "summary": "Hypnosis-themed adult-animation series in which female characters are hypnotized for sexual scenarios.",
    "character": "",
-   "provenance": "",
+   "provenance": "Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Source basis: Archive.org item listing, hentai database entries and the existing Japanese Wikipedia series record.",
    "note": "",
    "format": "tv",
    "categories": [
     "adult-hypnosis",
-    "pregnant-variants"
+    "pregnant-variants",
+    "hypno-intimacy"
    ],
    "sources": [
     {
@@ -124583,15 +126348,16 @@ window.CATALOG = {
      "t": "Saimin Seishidou",
      "y": "2019–2022",
      "f": "tv",
-     "m": "adult anime OVA series · 2019–2022, Japan · Japanese",
+     "m": "Adult-animation OVA series · Japan · Japanese",
      "c": [
       "adult-hypnosis",
-      "pregnant-variants"
+      "pregnant-variants",
+      "hypno-intimacy"
      ],
      "ahg": "anime",
-     "mec": "Hypnotic sexual control",
-     "flag": "Medium-high confidence · explicit sexual content · animated",
-     "s": "Explicit non-consensual hypnosis documented episode by episode: Tanaka puts Tsubaki under hypnosis, casts hypnosis on Natsumi, and targets kendo-club captain Miyajima Sakura with “妊娠体験指導” — the hypnosis secures sexual control.",
+     "mec": "Hypnosis in sexual scenarios",
+     "flag": "Medium confidence · 18+ explicit adult animation",
+     "s": "Hypnosis-themed adult-animation series in which female characters are hypnotized for sexual scenarios.",
      "src": [
       [
        "ja.wikipedia",
@@ -124617,7 +126383,9 @@ window.CATALOG = {
       ]
      ],
      "variantCh": "Tsubaki and Sakura Miyajima",
-     "variantProv": "Round-2 super-deep worldwide sweep completed 1 Oct 2026 across seven regional vectors; no net-new strict-core title was verified. Adult / R-rated / erotic plot indexes were included, with remaining access and documentation gaps stated in the catalog notes."
+     "variantProv": "Round-2 super-deep worldwide sweep completed 1 Oct 2026 across seven regional vectors; no net-new strict-core title was verified. Adult / R-rated / erotic plot indexes were included, with remaining access and documentation gaps stated in the catalog notes.",
+     "sub": "Hypnosis Sex Guidance",
+     "prov": "Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Source basis: Archive.org item listing, hentai database entries and the existing Japanese Wikipedia series record."
     }
    }
   },
@@ -135185,7 +136953,7 @@ window.CATALOG = {
    },
    "source_conflict": "Merged with the duplicate 2007 index card. Zuo You was produced in 2007 and premiered at the Berlin Film Festival in February 2008",
    "retired_ids": [
-    2145
+    2161
    ],
    "absorbed_titles": [
     {
@@ -148231,10 +149999,12 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: unknown.",
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+   "fit_note": "Thai TV series: evil magician hypnotises a woman into marrying a man.",
    "format": "tv",
    "categories": [
     "love",
-    "fantasy"
+    "fantasy",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -148245,11 +150015,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "hypnotized-love"
+    "hypnotized-love",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:870",
-    "hypnotized-love:26"
+    "hypnotized-love:26",
+    "hypnotized-marriage:12"
    ],
    "index_only": false,
    "local_only": false,
@@ -148315,6 +150087,35 @@ window.CATALOG = {
      "pregnancy_note": "Pregnancy status is not stated in the available sources.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:12",
+     "source": "hypnotized-marriage",
+     "label": "3D Spy (2015)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "3D Spy",
+     "subtitle": "",
+     "year": "2015",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/3D_Spy_(Thai_TV_Series)"
+      }
+     ],
+     "fit_note": "Thai TV series: evil magician hypnotises a woman into marrying a man.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -148362,6 +150163,25 @@ window.CATALOG = {
      "pregnancy_outcome": "unknown",
      "pregnancy_note": "Pregnancy status is not stated in the available sources.",
      "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
+    },
+    "hypnotized-marriage:12": {
+     "title": "3D Spy",
+     "year": "2015",
+     "match_title": "3D Spy",
+     "match_year": "2015",
+     "format": "tv",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/3D_Spy_(Thai_TV_Series)"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Thai TV series: evil magician hypnotises a woman into marrying a man."
     }
    }
   },
@@ -181995,7 +183815,9 @@ window.CATALOG = {
    "format": "tv",
    "categories": [
     "medical",
-    "therapist-wife"
+    "therapist-wife",
+    "doctor-gain",
+    "forced-obedience"
    ],
    "sources": [
     {
@@ -182067,9 +183889,30 @@ window.CATALOG = {
      "prov": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
      "c": [
       "medical",
-      "therapist-wife"
+      "therapist-wife",
+      "doctor-gain",
+      "forced-obedience"
      ],
-     "twg": "therapeutic"
+     "twg": "therapeutic",
+     "dg": "b",
+     "dgT": "Columbo",
+     "dgSub": "S4E6 · “A Deadly State of Mind”",
+     "dgY": "1975",
+     "dgM": "TV episode · United States · English",
+     "dgS": "Psychiatrist Dr. Mark Collier kills patient Nadia Donner’s husband, hypnotizes Nadia into giving a false account, then activates a phone trigger that makes her believe she is diving into water, silencing a witness.",
+     "dgMec": "Trance + hypnosis-inducing drugs + phone trigger",
+     "dgFlag": "HIGH",
+     "dgSrc": [
+      [
+       "IMDb",
+       "https://www.imdb.com/title/tt0072801"
+      ],
+      [
+       "The TV IV",
+       "http://tviv.org/Columbo/A_Deadly_State_of_Mind"
+      ]
+     ],
+     "fog": "therapist"
     }
    }
   },
@@ -193473,6 +195316,8 @@ window.CATALOG = {
    "pregnant_end_note": "no pregnancy in any plot summary",
    "evidence": "2+ independent sources (Wikipedia, Mental Block, Sassyflix)",
    "fit_note": "Age gap: Haliday about 36, Yvonne Romain (Marianne) about 26",
+   "already_married": "no",
+   "already_married_note": "Marianne is unmarried (engaged to no one; has a boyfriend, Mark)",
    "format": "movie",
    "categories": [
     "hypno-intimacy",
@@ -193481,7 +195326,8 @@ window.CATALOG = {
     "love",
     "fantasy",
     "index-50",
-    "index-49"
+    "index-49",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -193513,7 +195359,8 @@ window.CATALOG = {
     "rich-wife-hypnosis",
     "older-man-hypnosis",
     "hypno-intimacy",
-    "hypnosis-assault"
+    "hypnosis-assault",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:1136",
@@ -193522,7 +195369,8 @@ window.CATALOG = {
     "rich-wife-hypnosis:9",
     "older-man-hypnosis:2",
     "hypno-intimacy:2",
-    "hypnosis-assault:1"
+    "hypnosis-assault:1",
+    "hypnotized-marriage:29"
    ],
    "index_only": false,
    "local_only": false,
@@ -193809,6 +195657,43 @@ window.CATALOG = {
      "evidence": "2+ independent sources (Wikipedia, Mental Block, Sassyflix)",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:29",
+     "source": "hypnotized-marriage",
+     "label": "Devil Doll (1964)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Devil Doll",
+     "subtitle": "",
+     "year": "1964",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Devil_Doll_(film)"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Devil_Doll"
+      }
+     ],
+     "married": "no",
+     "married_note": "the planned wedding never takes place",
+     "fit_note": "Hypnotist hypnotises the heiress into agreeing to marry him.",
+     "already_married": "no",
+     "already_married_note": "Marianne is unmarried (engaged to no one; has a boyfriend, Mark)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -194048,6 +195933,33 @@ window.CATALOG = {
      "catalog_ids": [
       832
      ]
+    },
+    "hypnotized-marriage:29": {
+     "title": "Devil Doll",
+     "year": "1964",
+     "match_title": "Devil Doll",
+     "match_year": "1964",
+     "format": "movie",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Devil_Doll_(film)"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Devil_Doll"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "married": "no",
+     "married_note": "the planned wedding never takes place",
+     "already_married": "no",
+     "already_married_note": "Marianne is unmarried (engaged to no one; has a boyfriend, Mark)",
+     "fit_note": "Hypnotist hypnotises the heiress into agreeing to marry him."
     }
    },
    "watch_links": [
@@ -195276,7 +197188,8 @@ window.CATALOG = {
     "hypno-intimacy",
     "medical",
     "adult-hypnosis",
-    "forced-obedience"
+    "forced-obedience",
+    "doctor-gain"
    ],
    "sources": [
     {
@@ -195350,10 +197263,38 @@ window.CATALOG = {
       "hypno-intimacy",
       "medical",
       "adult-hypnosis",
-      "forced-obedience"
+      "forced-obedience",
+      "doctor-gain"
      ],
      "ahg": "therapist",
-     "fog": "therapist"
+     "fog": "therapist",
+     "dg": "a",
+     "dgT": "Diagnosis: Murder",
+     "dgSub": "S4E19 · “Delusions of Murder”",
+     "dgY": "1997",
+     "dgM": "TV episode · United States · English",
+     "dgS": "A psychiatrist hypnotizes female patients and sexually abuses them without their knowledge; after his wife discovers the abuse, he uses a patient in a framing and murder-cover-up scheme.",
+     "dgMec": "Hypnotic trance",
+     "dgFlag": "HIGH · adult crime drama",
+     "dgNote": "Sexual violence is described non-graphically. The same episode also fits the crime-cover-up pattern.",
+     "dgSrc": [
+      [
+       "TV Guide",
+       "https://www.tvguide.com/tvshows/diagnosis-murder/episodes-season-4/1030895528/"
+      ],
+      [
+       "Metacritic",
+       "https://www.metacritic.com/tv/diagnosis-murder/season-4/episode-14-a-history-of-murder/"
+      ],
+      [
+       "IMDb",
+       "https://www.imdb.com/title/tt0559177"
+      ],
+      [
+       "The TV IV",
+       "http://tviv.org/Diagnosis_Murder/Delusions_of_Murder"
+      ]
+     ]
     }
    }
   },
@@ -236936,10 +238877,12 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: unknown.",
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+   "fit_note": "Staged marriage ceremony with a hypnotised, mesmerised bride (Mary Ann).",
    "format": "movie",
    "categories": [
     "love",
-    "occult"
+    "occult",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -236950,11 +238893,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "hypnotized-love"
+    "hypnotized-love",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:1395",
-    "hypnotized-love:15"
+    "hypnotized-love:15",
+    "hypnotized-marriage:4"
    ],
    "index_only": false,
    "local_only": false,
@@ -237018,6 +238963,35 @@ window.CATALOG = {
      "pregnancy_note": "Pregnancy status is not stated in the available sources.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:4",
+     "source": "hypnotized-marriage",
+     "label": "Isle of the Snake People (1971)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Isle of the Snake People",
+     "subtitle": "",
+     "year": "1971",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Isle_of_the_Snake_People"
+      }
+     ],
+     "fit_note": "Staged marriage ceremony with a hypnotised, mesmerised bride (Mary Ann).",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -237063,6 +239037,25 @@ window.CATALOG = {
      "pregnancy_outcome": "unknown",
      "pregnancy_note": "Pregnancy status is not stated in the available sources.",
      "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
+    },
+    "hypnotized-marriage:4": {
+     "title": "Isle of the Snake People",
+     "year": "1971",
+     "match_title": "Isle of the Snake People",
+     "match_year": "1971",
+     "format": "movie",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Married while hypnotised / spell-bound (wedding performed)",
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Isle_of_the_Snake_People"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Staged marriage ceremony with a hypnotised, mesmerised bride (Mary Ann)."
     }
    },
    "watch_links": [
@@ -237121,7 +239114,8 @@ window.CATALOG = {
    "categories": [
     "love",
     "tech",
-    "royal-hypnosis"
+    "royal-hypnosis",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -237133,12 +239127,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "hypnotized-love",
-    "royal-hypnosis"
+    "royal-hypnosis",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:1396",
     "hypnotized-love:23",
-    "royal-hypnosis:9"
+    "royal-hypnosis:9",
+    "hypnotized-marriage:13"
    ],
    "index_only": false,
    "local_only": false,
@@ -237243,6 +239239,35 @@ window.CATALOG = {
      "already_married_note": "Lady Rowena is unmarried; she is drugged and hypnotized to try to kill Ivanhoe and is later hypnotized into marrying Prince John",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:13",
+     "source": "hypnotized-marriage",
+     "label": "Ivanhoe, the King's Knight (1997)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Ivanhoe, the King's Knight",
+     "subtitle": "",
+     "year": "1997",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Ivanhoe,_the_King%27s_Knight"
+      }
+     ],
+     "fit_note": "Rowena is drugged and hypnotised into marrying Prince John.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -237322,6 +239347,25 @@ window.CATALOG = {
      "fit_note": "Rowena is a Saxon noblewoman of royal descent, not a reigning queen or princess, and the method is a potion combined with hypnosis",
      "married": "no",
      "married_note": "the wedding to Prince John is stopped"
+    },
+    "hypnotized-marriage:13": {
+     "title": "Ivanhoe, the King's Knight",
+     "year": "1997",
+     "match_title": "Ivanhoe, the King's Knight",
+     "match_year": "1997",
+     "format": "tv",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Ivanhoe,_the_King%27s_Knight"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Rowena is drugged and hypnotised into marrying Prince John."
     }
    }
   },
@@ -271607,10 +273651,12 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: unknown.",
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+   "fit_note": "Ming hypnotises Dale Arden and begins a forced wedding; Flash rescues her.",
    "format": "tv",
    "categories": [
     "love",
-    "scifi"
+    "scifi",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -271625,11 +273671,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "hypnotized-love"
+    "hypnotized-love",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:1597",
-    "hypnotized-love:22"
+    "hypnotized-love:22",
+    "hypnotized-marriage:23"
    ],
    "index_only": false,
    "local_only": false,
@@ -271703,6 +273751,39 @@ window.CATALOG = {
      "pregnancy_note": "Pregnancy status is not stated in the available sources.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:23",
+     "source": "hypnotized-marriage",
+     "label": "The New Adventures of Flash Gordon (1979)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The New Adventures of Flash Gordon",
+     "subtitle": "",
+     "year": "1979",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Flash Gordon wiki",
+       "url": "https://flashgordon.fandom.com/wiki/To_Save_Earth"
+      },
+      {
+       "label": "All The Tropes · Hypnotize the Princess",
+       "url": "https://allthetropes.org/wiki/Hypnotize_the_Princess"
+      }
+     ],
+     "fit_note": "Ming hypnotises Dale Arden and begins a forced wedding; Flash rescues her.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -271758,6 +273839,29 @@ window.CATALOG = {
      "pregnancy_outcome": "unknown",
      "pregnancy_note": "Pregnancy status is not stated in the available sources.",
      "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
+    },
+    "hypnotized-marriage:23": {
+     "title": "The New Adventures of Flash Gordon",
+     "year": "1979",
+     "match_title": "The New Adventures of Flash Gordon",
+     "match_year": "1979",
+     "format": "tv",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "sources": [
+      {
+       "label": "Flash Gordon wiki",
+       "url": "https://flashgordon.fandom.com/wiki/To_Save_Earth"
+      },
+      {
+       "label": "All The Tropes · Hypnotize the Princess",
+       "url": "https://allthetropes.org/wiki/Hypnotize_the_Princess"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Ming hypnotises Dale Arden and begins a forced wedding; Flash rescues her."
     }
    }
   },
@@ -282195,13 +284299,17 @@ window.CATALOG = {
    "kids_note": "1: teenage daughter Justine",
    "fit_note": "Loose fit: drug-assisted mind control (pills plus mind-control equipment) rather than classic hypnosis",
    "child_witness": "Justine sees her independent mother turn into a docile housewife who agrees to marry the doctor; then Justine herself is drugged",
+   "already_married": "no",
+   "already_married_note": "Elaine accepts the doctor's proposal while brainwashed",
    "format": "movie",
    "categories": [
     "mother",
     "scifi",
     "human",
     "love",
-    "tech"
+    "tech",
+    "hypnotised-mother-marriage",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -282213,12 +284321,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "mother-kids-hypnosis"
+    "mother-kids-hypnosis",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:1662",
     "worldwide-hypnosis:665",
-    "mother-kids-hypnosis:14"
+    "mother-kids-hypnosis:14",
+    "hypnotized-marriage:36"
    ],
    "index_only": false,
    "local_only": false,
@@ -282329,6 +284439,39 @@ window.CATALOG = {
      "child_witness": "Justine sees her independent mother turn into a docile housewife who agrees to marry the doctor; then Justine herself is drugged",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:36",
+     "source": "hypnotized-marriage",
+     "label": "Perfect Little Angels (1998)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Perfect Little Angels",
+     "subtitle": "",
+     "year": "1998",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotised-mother-marriage",
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Perfect_Little_Angels"
+      }
+     ],
+     "kids_note": "daughter Justine watches her mother, Elaine, change; Elaine is a newcomer to the town",
+     "fit_note": "Mother brainwashed into accepting a marriage proposal; adult woman with an existing child.",
+     "already_married": "no",
+     "already_married_note": "Elaine accepts the doctor's proposal while brainwashed",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -282414,6 +284557,29 @@ window.CATALOG = {
      "pregnancy_note": "not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end",
      "fit_note": "Loose fit: drug-assisted mind control (pills plus mind-control equipment) rather than classic hypnosis",
      "provenance": "Mother-hypnotized-in-front-of-her-children research pass (30 Sep 2026): worldwide search (Mental Block wiki, Wikipedia/de/ja episode tables, TV Tropes, fan wikis, soap and Indian-serial recap sites); strict hypnosis, mesmerism, hypnotic trance or hypnosis-like devices only; spirit/demonic/black-magic possession excluded; adult mothers only; the child must see her hypnotized or in the trance; no title where children witness sexual content."
+    },
+    "hypnotized-marriage:36": {
+     "title": "Perfect Little Angels",
+     "year": "1998",
+     "match_title": "Perfect Little Angels",
+     "match_year": "1998",
+     "format": "movie",
+     "categories": [
+      "hypnotised-mother-marriage",
+      "hypnotized-marriage"
+     ],
+     "group": "Mother with children, hypnotised / spell-bound into marriage",
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Perfect_Little_Angels"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "kids_note": "daughter Justine watches her mother, Elaine, change; Elaine is a newcomer to the town",
+     "already_married": "no",
+     "already_married_note": "Elaine accepts the doctor's proposal while brainwashed",
+     "fit_note": "Mother brainwashed into accepting a marriage proposal; adult woman with an existing child."
     }
    }
   },
@@ -286162,7 +288328,9 @@ window.CATALOG = {
    "format": "tv",
    "categories": [
     "lesbian-couple-pregnancy",
-    "pregnant-lesbian-intimate"
+    "pregnant-lesbian-intimate",
+    "doctor-gain",
+    "forced-obedience"
    ],
    "sources": [
     {
@@ -286217,7 +288385,9 @@ window.CATALOG = {
     "confidence_flag": "High · Wikipedia season 7 episode list + character articles",
     "categories": [
      "lesbian-couple-pregnancy",
-     "pregnant-lesbian-intimate"
+     "pregnant-lesbian-intimate",
+     "doctor-gain",
+     "forced-obedience"
     ],
     "sources": [
      {
@@ -286350,9 +288520,35 @@ window.CATALOG = {
      "prov": "Lesbian-couple pregnancy research pass, 30 Sep 2026 (adult couples only; non-explicit notes)",
      "c": [
       "lesbian-couple-pregnancy",
-      "pregnant-lesbian-intimate"
+      "pregnant-lesbian-intimate",
+      "doctor-gain",
+      "forced-obedience"
      ],
-     "plig": "romantic"
+     "plig": "romantic",
+     "dg": "d",
+     "dgT": "Pretty Little Liars",
+     "dgSub": "Season 6 finale + Season 7 · Alison / Archer Dunhill arc",
+     "dgY": "2016–17",
+     "dgM": "TV series · United States · English",
+     "dgS": "Psychologist Archer Dunhill, posing as Dr. Elliot Rollins, drugs and gaslights Alison DiLaurentis into psychiatric commitment, marries her and gains control of half the Carissimi Group fortune.",
+     "dgMec": "Drug-assisted manipulation and gaslighting — not trance",
+     "dgFlag": "HIGH · EDGE MECHANISM",
+     "dgNote": "This is drug-assisted manipulation and gaslighting rather than formal trance hypnosis.",
+     "dgSrc": [
+      [
+       "Bustle · betrayal",
+       "https://www.bustle.com/articles/148201-elliot-rollins-mary-drake-are-working-together-on-pretty-little-liars-revealing-a-huge-betrayal"
+      ],
+      [
+       "Bustle · Rollins",
+       "https://www.bustle.com/articles/168142-who-is-dr-rollins-on-pretty-little-liars-alisons-husband-cant-be-trusted"
+      ],
+      [
+       "Pretty Little Liars Wiki",
+       "https://prettylittleliars.fandom.com/wiki/Arcison"
+      ]
+     ],
+     "fog": "therapist"
     },
     "lesbian-pregnancy:11": {
      "title": "Pretty Little Liars",
@@ -292614,7 +294810,8 @@ window.CATALOG = {
    "categories": [
     "love",
     "fantasy",
-    "royal-hypnosis"
+    "royal-hypnosis",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -292631,13 +294828,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "hypnotized-love",
     "rich-wife-hypnosis",
-    "royal-hypnosis-loose"
+    "royal-hypnosis-loose",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:1722",
     "hypnotized-love:21",
     "rich-wife-hypnosis:39",
-    "royal-hypnosis-loose:4"
+    "royal-hypnosis-loose:4",
+    "hypnotized-marriage:14"
    ],
    "index_only": false,
    "local_only": false,
@@ -292796,6 +294995,39 @@ window.CATALOG = {
      "already_married_note": "Lady Marion is held by Owen of Clun after Robin of Loxley's death; the sources do not describe her as married at the time",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:14",
+     "source": "hypnotized-marriage",
+     "label": "Robin of Sherwood (1986)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Robin of Sherwood",
+     "subtitle": "",
+     "year": "1986",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Robin_of_Sherwood"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Robin_of_Sherwood"
+      }
+     ],
+     "fit_note": "Hypnosis and love potion make Lady Marion enthusiastic in her own wedding ceremony until rescued.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -292917,6 +295149,29 @@ window.CATALOG = {
      "already_married_note": "Lady Marion is held by Owen of Clun after Robin of Loxley's death; the sources do not describe her as married at the time",
      "evidence": "2 sources (Mental Block, Wikipedia for the series and the Owen of Clun arc)",
      "fit_note": "Loose fit: Marion is a noblewoman, not a queen or princess, and the sorcerer Gulnar combines hypnosis with a love potion"
+    },
+    "hypnotized-marriage:14": {
+     "title": "Robin of Sherwood",
+     "year": "1986",
+     "match_title": "Robin of Sherwood",
+     "match_year": "1986",
+     "format": "tv",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Robin_of_Sherwood"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Robin_of_Sherwood"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Hypnosis and love potion make Lady Marion enthusiastic in her own wedding ceremony until rescued."
     }
    }
   },
@@ -304232,7 +306487,9 @@ window.CATALOG = {
    "format": "movie",
    "categories": [
     "crime",
-    "human"
+    "human",
+    "doctor-gain",
+    "forced-obedience"
    ],
    "sources": [
     {
@@ -304270,7 +306527,9 @@ window.CATALOG = {
     "confidence_flag": "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed",
     "categories": [
      "crime",
-     "human"
+     "human",
+     "doctor-gain",
+     "forced-obedience"
     ],
     "sources": [
      {
@@ -304332,8 +306591,38 @@ window.CATALOG = {
      "prov": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
      "c": [
       "crime",
-      "human"
-     ]
+      "human",
+      "doctor-gain",
+      "forced-obedience"
+     ],
+     "dg": "c",
+     "dgT": "The Sinister Eyes of Dr. Orloff",
+     "dgSub": "Los ojos siniestros del doctor Orloff",
+     "dgY": "1973",
+     "dgM": "Film · Spain · Spanish",
+     "dgS": "Psychiatrist Dr. Orloff programs heiress Melissa to kill members of her family as part of a revenge campaign with an inheritance angle.",
+     "dgMec": "Hypnotic trance / suggestion",
+     "dgFlag": "HIGH · inheritance motive inferred across sources",
+     "dgNote": "The inheritance motive is supported across the reviewed sources but is not stated as directly as the revenge plot.",
+     "dgSrc": [
+      [
+       "DVDBeaver",
+       "http://www.dvdbeaver.com/film3/dvd_reviews53/sinsiter_eyes_of_dr._orloff.htm"
+      ],
+      [
+       "DVD Talk",
+       "https://www.dvdtalk.com/reviews/48040/sinister-eyes-of-dr-orloff-the/"
+      ],
+      [
+       "Sitges Film Festival",
+       "https://sitgesfilmfestival.com/en/film/2014/sinister-eyes-dr-orloff"
+      ],
+      [
+       "MUBI",
+       "https://mubi.com/en/us/films/the-sinister-eyes-of-dr-orloff"
+      ]
+     ],
+     "fog": "therapist"
     },
     "worldwide-hypnosis:948": {
      "title": "The Sinister Eyes of Dr. Orloff",
@@ -312154,13 +314443,15 @@ window.CATALOG = {
    ],
    "method": "hypnotic device (mind-control implant)",
    "kids_status": "no",
+   "fit_note": "Mind-control chips program female students to marry rich men (then kill them for the inheritance).",
    "format": "tv",
    "categories": [
     "scifi",
     "crime",
     "love",
     "fantasy",
-    "human"
+    "human",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -312176,12 +314467,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:1839",
     "worldwide-hypnosis:812",
-    "rich-wife-hypnosis:37"
+    "rich-wife-hypnosis:37",
+    "hypnotized-marriage:8"
    ],
    "index_only": false,
    "local_only": false,
@@ -312313,6 +314606,39 @@ window.CATALOG = {
      "kids_status": "no",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:8",
+     "source": "hypnotized-marriage",
+     "label": "Super Force (1990–1992)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Super Force",
+     "subtitle": "",
+     "year": "1990–1992",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Super_Force"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Super_Force"
+      }
+     ],
+     "fit_note": "Mind-control chips program female students to marry rich men (then kill them for the inheritance).",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -312418,6 +314744,29 @@ window.CATALOG = {
       }
      ],
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "hypnotized-marriage:8": {
+     "title": "Super Force",
+     "year": "1990–1992",
+     "match_title": "Super Force",
+     "match_year": "1990–1992",
+     "format": "tv",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Married while hypnotised / spell-bound (wedding performed)",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Super_Force"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Super_Force"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Mind-control chips program female students to marry rich men (then kill them for the inheritance)."
     }
    }
   },
@@ -312810,10 +315159,12 @@ window.CATALOG = {
    "character": "",
    "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
    "note": "Outcome facts: pregnancy outcome: unknown.",
+   "fit_note": "Animated series; hypnotised model made a bride (ep. 22) and an agency owner mind-controlled into love and marriage (ep. 24).",
    "format": "tv",
    "categories": [
     "love",
-    "tech"
+    "tech",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -312823,16 +315174,76 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "hypnotized-marriage"
    ],
    "source_records": [
-    "xla62ucxbx02u5:1842"
+    "xla62ucxbx02u5:1842",
+    "hypnotized-marriage:5"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:1842",
+    "source": "xla62ucxbx02u5",
+    "label": "Super Models · “Smoke and Mirrors” (ep. 22) · “Mind of Models” (ep. 24) (1997–99)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Super Models",
+    "subtitle": "“Smoke and Mirrors” (ep. 22) · “Mind of Models” (ep. 24)",
+    "year": "1997–99",
+    "meta": "Animated TV series · Spain · BRB Internacional",
+    "summary": "In “Smoke and Mirrors” (ep. 22), magician Mephisto hypnotizes Nikki into being his assistant and makes her his bride. In “Mind of Models” (ep. 24), Mandrella's mind-control machine hypnotizes agency owner Nadia into falling in love with Brandon so she will marry him and give him her company.",
+    "character": "",
+    "note": "Outcome facts: pregnancy outcome: unknown.",
+    "mechanism": "Hypnosis",
+    "confidence_flag": "Medium · fan-wiki source",
+    "categories": [
+     "love",
+     "tech"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block",
+      "url": "https://mentalblock.miraheze.org/wiki/Super_Models"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnotized-marriage:5",
+     "source": "hypnotized-marriage",
+     "label": "Super Models (1997–99)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Super Models",
+     "subtitle": "",
+     "year": "1997–99",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Super_Models"
+      }
+     ],
+     "fit_note": "Animated series; hypnotised model made a bride (ep. 22) and an agency owner mind-controlled into love and marriage (ep. 24).",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:1842": {
      "t": "Super Models",
@@ -312855,6 +315266,25 @@ window.CATALOG = {
       "love",
       "tech"
      ]
+    },
+    "hypnotized-marriage:5": {
+     "title": "Super Models",
+     "year": "1997–99",
+     "match_title": "Super Models",
+     "match_year": "1997–99",
+     "format": "tv",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Married while hypnotised / spell-bound (wedding performed)",
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Super_Models"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Animated series; hypnotised model made a bride (ep. 22) and an agency owner mind-controlled into love and marriage (ep. 24)."
     }
    }
   },
@@ -315825,9 +318255,14 @@ window.CATALOG = {
    "character": "",
    "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only.",
    "note": "Outcome facts: pregnancy outcome: not pregnant; kids status: no.",
+   "tags": [
+    "loose fit"
+   ],
+   "fit_note": "Love potion wins a wealthy woman for a land deal; marriage is the aim.",
    "format": "tv",
    "categories": [
-    "love"
+    "love",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -315845,16 +318280,89 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "hypnotized-marriage"
    ],
    "source_records": [
-    "xla62ucxbx02u5:1858"
+    "xla62ucxbx02u5:1858",
+    "hypnotized-marriage:30"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:1858",
+    "source": "xla62ucxbx02u5",
+    "label": "Tales From The Crypt (1990)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Tales From The Crypt",
+    "subtitle": "",
+    "year": "1990",
+    "meta": "TV series / episode",
+    "summary": "To get money for his development, Logan wins wealthy Margaret Richardson with a love potion; too big a dose kills her, but her undead body keeps loving him. Hypnotist: land owner Logan Andrews (potion from his ex, Psyche). Gain: money, marriage. Method: love potion. Kids: no. Pregnancy: not pregnant — no pregnancy for her in the cited plot sources.",
+    "character": "",
+    "note": "Outcome facts: pregnancy outcome: not pregnant; kids status: no.",
+    "mechanism": "Hypnosis",
+    "confidence_flag": "High · Wikipedia episode list + TV Tropes",
+    "categories": [
+     "love"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_Tales_from_the_Crypt_episodes"
+     },
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Tales_From_The_Crypt_%28TV_Series%29"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tales_from_the_Crypt_%28TV_series%29"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnotized-marriage:30",
+     "source": "hypnotized-marriage",
+     "label": "Tales From The Crypt (1990)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Tales From The Crypt",
+     "subtitle": "",
+     "year": "1990",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/List_of_Tales_from_the_Crypt_episodes"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Tales_From_The_Crypt_%28TV_Series%29"
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Love potion wins a wealthy woman for a land deal; marriage is the aim.",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:1858": {
      "t": "Tales From The Crypt",
@@ -315882,6 +318390,32 @@ window.CATALOG = {
      "prov": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only.",
      "c": [
       "love"
+     ]
+    },
+    "hypnotized-marriage:30": {
+     "title": "Tales From The Crypt",
+     "year": "1990",
+     "match_title": "Tales From The Crypt",
+     "match_year": "1990",
+     "format": "tv",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/List_of_Tales_from_the_Crypt_episodes"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Tales_From_The_Crypt_%28TV_Series%29"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Love potion wins a wealthy woman for a land deal; marriage is the aim.",
+     "tags": [
+      "loose fit"
      ]
     }
    }
@@ -319270,13 +321804,15 @@ window.CATALOG = {
    "pregnant_end": "no",
    "pregnant_end_note": "no pregnancy",
    "evidence": "2 sources (Wikipedia plot says he uses a spell to hypnotize them; Mental Block)",
+   "fit_note": "Wizard spell makes Princess Yasmine agree to marry him; wedding stopped.",
    "already_married": "no",
    "already_married_note": "Princess Yasmine is unmarried; the Wazir Jaudur hypnotizes her, the Caliph and the people into accepting his marriage to her",
    "format": "movie",
    "categories": [
     "love",
     "fantasy",
-    "royal-hypnosis"
+    "royal-hypnosis",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -319298,14 +321834,16 @@ window.CATALOG = {
     "worldwide-hypnosis",
     "hypnotized-love",
     "rich-wife-hypnosis",
-    "royal-hypnosis"
+    "royal-hypnosis",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:1878",
     "worldwide-hypnosis:980",
     "hypnotized-love:10",
     "rich-wife-hypnosis:20",
-    "royal-hypnosis:3"
+    "royal-hypnosis:3",
+    "hypnotized-marriage:15"
    ],
    "index_only": false,
    "local_only": false,
@@ -319496,6 +322034,39 @@ window.CATALOG = {
      "already_married_note": "Princess Yasmine is unmarried; the Wazir Jaudur hypnotizes her, the Caliph and the people into accepting his marriage to her",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:15",
+     "source": "hypnotized-marriage",
+     "label": "The Thief of Baghdad (1978)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Thief of Baghdad",
+     "subtitle": "",
+     "year": "1978",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Thief_of_Baghdad_(1978_film)"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/The_Thief_of_Baghdad"
+      }
+     ],
+     "fit_note": "Wizard spell makes Princess Yasmine agree to marry him; wedding stopped.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -319640,6 +322211,29 @@ window.CATALOG = {
      "evidence": "2 sources (Wikipedia plot says he uses a spell to hypnotize them; Mental Block)",
      "married": "no",
      "married_note": "the hypnotist Jaudur does not marry her; she marries Prince Taj"
+    },
+    "hypnotized-marriage:15": {
+     "title": "The Thief of Baghdad",
+     "year": "1978",
+     "match_title": "The Thief of Baghdad",
+     "match_year": "1978",
+     "format": "movie",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Thief_of_Baghdad_(1978_film)"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/The_Thief_of_Baghdad"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Wizard spell makes Princess Yasmine agree to marry him; wedding stopped."
     }
    }
   },
@@ -320311,7 +322905,8 @@ window.CATALOG = {
    "categories": [
     "love",
     "fantasy",
-    "royal-hypnosis"
+    "royal-hypnosis",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -320331,12 +322926,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "hypnotized-love",
-    "royal-hypnosis"
+    "royal-hypnosis",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:1883",
     "hypnotized-love:11",
-    "royal-hypnosis:1"
+    "royal-hypnosis:1",
+    "hypnotized-marriage:16"
    ],
    "index_only": false,
    "local_only": false,
@@ -320452,6 +323049,39 @@ window.CATALOG = {
      "already_married_note": "Princess Valkari is unmarried; Morak needs to marry into the royal family to sit on Odin's Throne of Fire",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:16",
+     "source": "hypnotized-marriage",
+     "label": "The Throne of Fire (1983)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Throne of Fire",
+     "subtitle": "",
+     "year": "1983",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/The_Throne_of_Fire"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Throne_of_Fire"
+      }
+     ],
+     "fit_note": "Princess hypnotised into marrying the demon's son; Siegfried intervenes.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -320542,6 +323172,29 @@ window.CATALOG = {
      "already_married_note": "Princess Valkari is unmarried; Morak needs to marry into the royal family to sit on Odin's Throne of Fire",
      "evidence": "single source — Mental Block for the hypnosis-to-marry plot; the Wikipedia film page (a stub) confirms only title, year and cast",
      "fit_note": "Italian sword-and-sorcery film (Il trono di fuoco, dir. Franco Prosperi). The card's older Wikipedia link points to the Rick Riordan novel of the same name; the correct film page is added"
+    },
+    "hypnotized-marriage:16": {
+     "title": "The Throne of Fire",
+     "year": "1983",
+     "match_title": "The Throne of Fire",
+     "match_year": "1983",
+     "format": "movie",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "sources": [
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/The_Throne_of_Fire"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Throne_of_Fire"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Princess hypnotised into marrying the demon's son; Siegfried intervenes."
     }
    }
   },
@@ -322787,9 +325440,13 @@ window.CATALOG = {
    "method": "love potion",
    "kids_status": "no",
    "kids_note": "none before the potion",
+   "fit_note": "Love-potion marriage; she becomes pregnant after the enchantment (see pregnancy fields).",
+   "already_married": "no",
+   "already_married_note": "Leila is unmarried and indifferent to Roger before the love potion",
    "format": "tv",
    "categories": [
-    "love"
+    "love",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -322800,11 +325457,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:1898",
-    "rich-wife-hypnosis:42"
+    "rich-wife-hypnosis:42",
+    "hypnotized-marriage:6"
    ],
    "index_only": false,
    "local_only": false,
@@ -322884,6 +325543,39 @@ window.CATALOG = {
      "kids_note": "none before the potion",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:6",
+     "source": "hypnotized-marriage",
+     "label": "The Twilight Zone (1960)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Twilight Zone",
+     "subtitle": "",
+     "year": "1960",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Chaser_(The_Twilight_Zone)"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "no children before the potion; she becomes pregnant after the marriage",
+     "fit_note": "Love-potion marriage; she becomes pregnant after the enchantment (see pregnancy fields).",
+     "already_married": "no",
+     "already_married_note": "Leila is unmarried and indifferent to Roger before the love potion",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -322945,6 +325637,29 @@ window.CATALOG = {
       }
      ],
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "hypnotized-marriage:6": {
+     "title": "The Twilight Zone",
+     "year": "1960",
+     "match_title": "The Twilight Zone",
+     "match_year": "1960",
+     "format": "tv",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Married while hypnotised / spell-bound (wedding performed)",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Chaser_(The_Twilight_Zone)"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "already_married": "no",
+     "already_married_note": "Leila is unmarried and indifferent to Roger before the love potion",
+     "kids_status": "no",
+     "kids_note": "no children before the potion; she becomes pregnant after the marriage",
+     "fit_note": "Love-potion marriage; she becomes pregnant after the enchantment (see pregnancy fields)."
     }
    }
   },
@@ -332595,6 +335310,7 @@ window.CATALOG = {
    "pregnant_end": "no",
    "pregnant_end_note": "no pregnancy in any plot summary",
    "evidence": "2+ independent sources (Wikipedia, Mental Block; PlotExplained and Mana Pop recaps agree)",
+   "fit_note": "Princess hypnotised into becoming the usurper's bride.",
    "already_married": "no",
    "already_married_note": "Princess Aura is unmarried; the usurper Shurka (whose coup her mother Queen Udea aided) hypnotizes her to make her his bride",
    "format": "movie",
@@ -332602,7 +335318,8 @@ window.CATALOG = {
     "love",
     "fantasy",
     "royal-hypnosis",
-    "other-control"
+    "other-control",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -332621,7 +335338,8 @@ window.CATALOG = {
     "hypnotized-love",
     "rich-wife-hypnosis",
     "field-fixes",
-    "royal-hypnosis"
+    "royal-hypnosis",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:1959",
@@ -332629,7 +335347,8 @@ window.CATALOG = {
     "hypnotized-love:12",
     "rich-wife-hypnosis:19",
     "field-fixes:2",
-    "royal-hypnosis:2"
+    "royal-hypnosis:2",
+    "hypnotized-marriage:17"
    ],
    "index_only": false,
    "local_only": false,
@@ -332833,6 +335552,39 @@ window.CATALOG = {
      "already_married_note": "Princess Aura is unmarried; the usurper Shurka (whose coup her mother Queen Udea aided) hypnotizes her to make her his bride",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:17",
+     "source": "hypnotized-marriage",
+     "label": "Wizards of the Lost Kingdom (1985)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Wizards of the Lost Kingdom",
+     "subtitle": "",
+     "year": "1985",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Wizards_of_the_Lost_Kingdom"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Wizards_of_the_Lost_Kingdom"
+      }
+     ],
+     "fit_note": "Princess hypnotised into becoming the usurper's bride.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -332984,6 +335736,29 @@ window.CATALOG = {
      "already_married": "no",
      "already_married_note": "Princess Aura is unmarried; the usurper Shurka (whose coup her mother Queen Udea aided) hypnotizes her to make her his bride",
      "evidence": "2+ independent sources (Wikipedia, Mental Block; PlotExplained and Mana Pop recaps agree)"
+    },
+    "hypnotized-marriage:17": {
+     "title": "Wizards of the Lost Kingdom",
+     "year": "1985",
+     "match_title": "Wizards of the Lost Kingdom",
+     "match_year": "1985",
+     "format": "movie",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Wizards_of_the_Lost_Kingdom"
+      },
+      {
+       "label": "Mental Block",
+       "url": "https://mentalblock.miraheze.org/wiki/Wizards_of_the_Lost_Kingdom"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "fit_note": "Princess hypnotised into becoming the usurper's bride."
     }
    },
    "watch_links": [
@@ -334304,12 +337079,17 @@ window.CATALOG = {
    "method": "hypnosis (with memory-erasing drugs)",
    "kids_status": "yes",
    "kids_note": "2: son Saaransh and a newborn taken away by Revathi",
+   "fit_note": "Already-married mother hypnotised into believing in a new marriage; see also the mother category.",
+   "already_married": "yes",
+   "already_married_note": "Preesha is the wife of rock star Rudraksh Khurana when Armaan drugs and hypnotises her into believing she is happily married to him",
    "format": "tv",
    "categories": [
     "wife",
     "india-control",
     "mother",
-    "love"
+    "love",
+    "hypnotized-marriage",
+    "hypnotised-mother-marriage"
    ],
    "sources": [
     {
@@ -334332,11 +337112,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "xla62ucxbx02u5:1967",
-    "rich-wife-hypnosis:44"
+    "rich-wife-hypnosis:44",
+    "hypnotized-marriage:9"
    ],
    "index_only": false,
    "local_only": false,
@@ -334458,6 +337240,43 @@ window.CATALOG = {
      "kids_note": "2: son Saaransh and a newborn taken away by Revathi",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:9",
+     "source": "hypnotized-marriage",
+     "label": "Yeh Hai Chahatein (2019–2024)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Yeh Hai Chahatein",
+     "subtitle": "",
+     "year": "2019–2024",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage",
+      "hypnotised-mother-marriage"
+     ],
+     "sources": [
+      {
+       "label": "SerialGossip spoiler (16 Jun 2022)",
+       "url": "https://www.serialgossip.com/spoiler-76371-a"
+      },
+      {
+       "label": "TellyChakkar (22 Aug 2022)",
+       "url": "https://www.tellychakkar.com/spoiler-alert/yeh-hai-chahatein-cruel-preesha-gets-flash-of-memory-armaan-increases-her-dosage"
+      }
+     ],
+     "kids_note": "two children: son Saaransh and a newborn taken away",
+     "fit_note": "Already-married mother hypnotised into believing in a new marriage; see also the mother category.",
+     "already_married": "yes",
+     "already_married_note": "Preesha is the wife of rock star Rudraksh Khurana when Armaan drugs and hypnotises her into believing she is happily married to him",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -334564,6 +337383,33 @@ window.CATALOG = {
       }
      ],
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "hypnotized-marriage:9": {
+     "title": "Yeh Hai Chahatein",
+     "year": "2019–2024",
+     "match_title": "Yeh Hai Chahatein",
+     "match_year": "2019–2024",
+     "format": "tv",
+     "categories": [
+      "hypnotized-marriage",
+      "hypnotised-mother-marriage"
+     ],
+     "group": "Married while hypnotised / spell-bound (wedding performed)",
+     "sources": [
+      {
+       "label": "SerialGossip spoiler (16 Jun 2022)",
+       "url": "https://www.serialgossip.com/spoiler-76371-a"
+      },
+      {
+       "label": "TellyChakkar (22 Aug 2022)",
+       "url": "https://www.tellychakkar.com/spoiler-alert/yeh-hai-chahatein-cruel-preesha-gets-flash-of-memory-armaan-increases-her-dosage"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "already_married": "yes",
+     "already_married_note": "Preesha is the wife of rock star Rudraksh Khurana when Armaan drugs and hypnotises her into believing she is happily married to him",
+     "kids_note": "two children: son Saaransh and a newborn taken away",
+     "fit_note": "Already-married mother hypnotised into believing in a new marriage; see also the mother category."
     }
    }
   },
@@ -348384,6 +351230,1323 @@ window.CATALOG = {
   },
   {
    "id": 2133,
+   "title": "Djinn",
+   "subtitle": "",
+   "year": "2013",
+   "meta": "Film · UAE · Arabic / English · theatrical / VOD / DVD",
+   "mechanism": "Djinn illusion / possession targeting a pregnant woman",
+   "confidence_flag": "Medium confidence · broader supernatural-control variant · not literal hypnosis",
+   "summary": "After a young Emirati couple returns to the UAE following the loss of an infant, pregnant Aisha is targeted by a malevolent djinn. The entity torments the household through illusions of loved ones and metamorphoses, exploiting her maternal vulnerability; the evidence supports a possession/illusion variant rather than literal hypnosis.",
+   "character": "Aisha (Aiysha Hart)",
+   "provenance": "Worldwide vertical-short and adult/R-rated pregnancy-hypnosis sweep completed 2–3 Oct 2026 across 110 query rounds in 13+ languages. No verified vertical-short, hypno-intimacy or adult/R-rated title was found; five supported catalog updates are retained, with source and confidence limits stated per card, while Ezedike is held outside the catalog pending evidence of a pregnant controlled victim.",
+   "note": "",
+   "format": "movie",
+   "categories": [
+    "pregnant-variants"
+   ],
+   "sources": [
+    {
+     "label": "Dyerbolical · plot essay",
+     "url": "https://dyerbolical.com/unleashing-desert-nightmares-the-chilling-grip-of-djinn-2013/"
+    },
+    {
+     "label": "JoBlo · synopsis",
+     "url": "https://www.joblo.com/tobe-hoopers-djinn-may-get-a-dvd-release-in-november-289/amp/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "xla62ucxbx02u5"
+   ],
+   "source_records": [
+    "xla62ucxbx02u5:2150"
+   ],
+   "index_only": false,
+   "local_only": false,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "xla62ucxbx02u5:2150": {
+     "t": "Djinn",
+     "y": "2013",
+     "f": "movie",
+     "m": "Film · UAE · Arabic / English · theatrical / VOD / DVD",
+     "c": [
+      "pregnant-variants"
+     ],
+     "pvg": "possession",
+     "ch": "Aisha (Aiysha Hart)",
+     "mec": "Djinn illusion / possession targeting a pregnant woman",
+     "flag": "Medium confidence · broader supernatural-control variant · not literal hypnosis",
+     "s": "After a young Emirati couple returns to the UAE following the loss of an infant, pregnant Aisha is targeted by a malevolent djinn. The entity torments the household through illusions of loved ones and metamorphoses, exploiting her maternal vulnerability; the evidence supports a possession/illusion variant rather than literal hypnosis.",
+     "src": [
+      [
+       "Dyerbolical · plot essay",
+       "https://dyerbolical.com/unleashing-desert-nightmares-the-chilling-grip-of-djinn-2013/"
+      ],
+      [
+       "JoBlo · synopsis",
+       "https://www.joblo.com/tobe-hoopers-djinn-may-get-a-dvd-release-in-november-289/amp/"
+      ]
+     ],
+     "prov": "Worldwide vertical-short and adult/R-rated pregnancy-hypnosis sweep completed 2–3 Oct 2026 across 110 query rounds in 13+ languages. No verified vertical-short, hypno-intimacy or adult/R-rated title was found; five supported catalog updates are retained, with source and confidence limits stated per card, while Ezedike is held outside the catalog pending evidence of a pregnant controlled victim."
+    }
+   }
+  },
+  {
+   "id": 2134,
+   "title": "Alkarısı Cinnet",
+   "subtitle": "",
+   "year": "2015",
+   "meta": "Film · Turkey · Turkish · theatrical / YouTube full film",
+   "mechanism": "Alkarısı / jinn haunting during pregnancy",
+   "confidence_flag": "Medium confidence · supernatural haunting variant · will-override unverified",
+   "summary": "Seven-months-pregnant Dilara suffers nightmares and haunting by the Alkarısı, an Anatolian folklore entity associated with women around childbirth. The pregnancy overlap is supported, but the located source does not establish hypnosis or a coercive override of her will.",
+   "character": "Dilara",
+   "provenance": "Worldwide vertical-short and adult/R-rated pregnancy-hypnosis sweep completed 2–3 Oct 2026 across 110 query rounds in 13+ languages. No verified vertical-short, hypno-intimacy or adult/R-rated title was found; five supported catalog updates are retained, with source and confidence limits stated per card, while Ezedike is held outside the catalog pending evidence of a pregnant controlled victim.",
+   "note": "",
+   "format": "movie",
+   "categories": [
+    "pregnant-variants"
+   ],
+   "sources": [
+    {
+     "label": "Fanatik Film · official full-film listing",
+     "url": "https://www.youtube.com/watch?v=U_jibdCFl-M"
+    }
+   ],
+   "youtube_ids": [
+    "U_jibdCFl-M"
+   ],
+   "from_sources": [
+    "xla62ucxbx02u5"
+   ],
+   "source_records": [
+    "xla62ucxbx02u5:2151"
+   ],
+   "index_only": false,
+   "local_only": false,
+   "thumbnail": "thumbs/U_jibdCFl-M.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "xla62ucxbx02u5:2151": {
+     "t": "Alkarısı Cinnet",
+     "y": "2015",
+     "f": "movie",
+     "m": "Film · Turkey · Turkish · theatrical / YouTube full film",
+     "c": [
+      "pregnant-variants"
+     ],
+     "pvg": "possession",
+     "ch": "Dilara",
+     "mec": "Alkarısı / jinn haunting during pregnancy",
+     "flag": "Medium confidence · supernatural haunting variant · will-override unverified",
+     "s": "Seven-months-pregnant Dilara suffers nightmares and haunting by the Alkarısı, an Anatolian folklore entity associated with women around childbirth. The pregnancy overlap is supported, but the located source does not establish hypnosis or a coercive override of her will.",
+     "src": [
+      [
+       "Fanatik Film · official full-film listing",
+       "https://www.youtube.com/watch?v=U_jibdCFl-M"
+      ]
+     ],
+     "prov": "Worldwide vertical-short and adult/R-rated pregnancy-hypnosis sweep completed 2–3 Oct 2026 across 110 query rounds in 13+ languages. No verified vertical-short, hypno-intimacy or adult/R-rated title was found; five supported catalog updates are retained, with source and confidence limits stated per card, while Ezedike is held outside the catalog pending evidence of a pregnant controlled victim."
+    }
+   }
+  },
+  {
+   "id": 2135,
+   "title": "Cin Azabı",
+   "subtitle": "",
+   "year": "Year unverified",
+   "meta": "Feature film · Turkey · Turkish · YouTube 4K full upload",
+   "mechanism": "Djinn infestation / haunting of a pregnant woman",
+   "confidence_flag": "Low confidence · unresolved lead · year unverified · single weak source",
+   "summary": "Pregnant Zeynep is moved to her mother-in-law's village house before giving birth. The house is infested by djinn, and her mother-in-law warns that leaving a pregnant woman alone lets djinn harm mother and baby; hypnosis or a will-override is not confirmed.",
+   "character": "Zeynep",
+   "provenance": "Worldwide vertical-short and adult/R-rated pregnancy-hypnosis sweep completed 2–3 Oct 2026 across 110 query rounds in 13+ languages. No verified vertical-short, hypno-intimacy or adult/R-rated title was found; five supported catalog updates are retained, with source and confidence limits stated per card, while Ezedike is held outside the catalog pending evidence of a pregnant controlled victim.",
+   "note": "",
+   "format": "movie",
+   "categories": [
+    "pregnant-variants"
+   ],
+   "sources": [
+    {
+     "label": "Onur Aldoğan · full-film listing",
+     "url": "https://www.youtube.com/watch?v=O1AofMSPFsI"
+    }
+   ],
+   "youtube_ids": [
+    "O1AofMSPFsI"
+   ],
+   "from_sources": [
+    "xla62ucxbx02u5"
+   ],
+   "source_records": [
+    "xla62ucxbx02u5:2152"
+   ],
+   "index_only": false,
+   "local_only": false,
+   "thumbnail": "thumbs/O1AofMSPFsI.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "xla62ucxbx02u5:2152": {
+     "t": "Cin Azabı",
+     "y": "Year unverified",
+     "f": "movie",
+     "m": "Feature film · Turkey · Turkish · YouTube 4K full upload",
+     "c": [
+      "pregnant-variants"
+     ],
+     "pvg": "lead",
+     "ch": "Zeynep",
+     "mec": "Djinn infestation / haunting of a pregnant woman",
+     "flag": "Low confidence · unresolved lead · year unverified · single weak source",
+     "s": "Pregnant Zeynep is moved to her mother-in-law's village house before giving birth. The house is infested by djinn, and her mother-in-law warns that leaving a pregnant woman alone lets djinn harm mother and baby; hypnosis or a will-override is not confirmed.",
+     "src": [
+      [
+       "Onur Aldoğan · full-film listing",
+       "https://www.youtube.com/watch?v=O1AofMSPFsI"
+      ]
+     ],
+     "prov": "Worldwide vertical-short and adult/R-rated pregnancy-hypnosis sweep completed 2–3 Oct 2026 across 110 query rounds in 13+ languages. No verified vertical-short, hypno-intimacy or adult/R-rated title was found; five supported catalog updates are retained, with source and confidence limits stated per card, while Ezedike is held outside the catalog pending evidence of a pregnant controlled victim."
+    }
+   }
+  },
+  {
+   "id": 2136,
+   "title": "سحر أسود (Sehr El Aswad)",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "TV series · Iraq · Arabic · Dijlah TV · 30 episodes",
+   "mechanism": "Black-magic series theme; pregnant victim unverified",
+   "confidence_flag": "Low confidence · unresolved lead · pregnancy element unverified",
+   "summary": "This Iraqi social drama has episode descriptions that reference black magic, but no pregnant woman under hypnosis or mind control has been confirmed. The series identity is supported; the pregnancy-and-control overlap remains an open question.",
+   "character": "",
+   "provenance": "Worldwide vertical-short and adult/R-rated pregnancy-hypnosis sweep completed 2–3 Oct 2026 across 110 query rounds in 13+ languages. No verified vertical-short, hypno-intimacy or adult/R-rated title was found; five supported catalog updates are retained, with source and confidence limits stated per card, while Ezedike is held outside the catalog pending evidence of a pregnant controlled victim.",
+   "note": "",
+   "format": "tv",
+   "categories": [
+    "pregnant-variants"
+   ],
+   "sources": [
+    {
+     "label": "Dijlah TV · episode video",
+     "url": "https://youtube.com/watch?v=2oJZ4LZN6ME&si=-Jt61-M8fzDkMMZt"
+    }
+   ],
+   "youtube_ids": [
+    "2oJZ4LZN6ME"
+   ],
+   "from_sources": [
+    "xla62ucxbx02u5"
+   ],
+   "source_records": [
+    "xla62ucxbx02u5:2153"
+   ],
+   "index_only": false,
+   "local_only": false,
+   "thumbnail": "thumbs/2oJZ4LZN6ME.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "xla62ucxbx02u5:2153": {
+     "t": "سحر أسود (Sehr El Aswad)",
+     "y": "2025",
+     "f": "tv",
+     "m": "TV series · Iraq · Arabic · Dijlah TV · 30 episodes",
+     "c": [
+      "pregnant-variants"
+     ],
+     "pvg": "lead",
+     "mec": "Black-magic series theme; pregnant victim unverified",
+     "flag": "Low confidence · unresolved lead · pregnancy element unverified",
+     "s": "This Iraqi social drama has episode descriptions that reference black magic, but no pregnant woman under hypnosis or mind control has been confirmed. The series identity is supported; the pregnancy-and-control overlap remains an open question.",
+     "src": [
+      [
+       "Dijlah TV · episode video",
+       "https://youtube.com/watch?v=2oJZ4LZN6ME&si=-Jt61-M8fzDkMMZt"
+      ]
+     ],
+     "prov": "Worldwide vertical-short and adult/R-rated pregnancy-hypnosis sweep completed 2–3 Oct 2026 across 110 query rounds in 13+ languages. No verified vertical-short, hypno-intimacy or adult/R-rated title was found; five supported catalog updates are retained, with source and confidence limits stated per card, while Ezedike is held outside the catalog pending evidence of a pregnant controlled victim."
+    }
+   }
+  },
+  {
+   "id": 2137,
+   "title": "Super Godfather: My Ex Begs Me on Her Knees",
+   "subtitle": "",
+   "year": "c. 2026",
+   "meta": "Short-form vertical drama · ReelShort · English (China-produced dub) · 60+ episodes",
+   "mechanism": "Supernatural gaze hypnosis / memory and compliance",
+   "confidence_flag": "High confidence · official episode-level source",
+   "summary": "Cain Hunter gains the “Eyes of Rom” power. In episode 6, the power hypnotizes his stepmother Cathey during a family power struggle, changing her response to his demand.",
+   "character": "Cathey (Cain Hunter’s stepmother)",
+   "provenance": "Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded.",
+   "note": "",
+   "format": "tv",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "ReelShort · episode 6",
+     "url": "https://www.reelshort.com/episodes/episode-6-super-godfather-my-ex-begs-me-on-her-knees-68d6d9874a593acf1d093be8-2vwfc70lk5"
+    },
+    {
+     "label": "ReelShort · full series",
+     "url": "https://www.reelshort.com/full-episodes/super-godfather-my-ex-begs-me-on-her-knees-68d6d9874a593acf1d093be8"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "xla62ucxbx02u5"
+   ],
+   "source_records": [
+    "xla62ucxbx02u5:2154"
+   ],
+   "index_only": false,
+   "local_only": false,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "xla62ucxbx02u5:2154": {
+     "t": "Super Godfather: My Ex Begs Me on Her Knees",
+     "y": "c. 2026",
+     "f": "tv",
+     "m": "Short-form vertical drama · ReelShort · English (China-produced dub) · 60+ episodes",
+     "c": [
+      "forced-obedience"
+     ],
+     "fog": "villain",
+     "verticalShort": true,
+     "mec": "Supernatural gaze hypnosis / memory and compliance",
+     "flag": "High confidence · official episode-level source",
+     "ch": "Cathey (Cain Hunter’s stepmother)",
+     "s": "Cain Hunter gains the “Eyes of Rom” power. In episode 6, the power hypnotizes his stepmother Cathey during a family power struggle, changing her response to his demand.",
+     "src": [
+      [
+       "ReelShort · episode 6",
+       "https://www.reelshort.com/episodes/episode-6-super-godfather-my-ex-begs-me-on-her-knees-68d6d9874a593acf1d093be8-2vwfc70lk5"
+      ],
+      [
+       "ReelShort · full series",
+       "https://www.reelshort.com/full-episodes/super-godfather-my-ex-begs-me-on-her-knees-68d6d9874a593acf1d093be8"
+      ]
+     ],
+     "prov": "Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded."
+    }
+   }
+  },
+  {
+   "id": 2138,
+   "title": "PPPD-305",
+   "subtitle": "",
+   "year": "2014",
+   "meta": "Adult video (JAV) · OPPAI · Japan · Japanese",
+   "mechanism": "Hypnosis by a family acquaintance",
+   "confidence_flag": "High confidence as an adult production · 18+ explicit",
+   "summary": "A friend of the husband, presented as a hypnosis specialist, hypnotizes Meguri in an NTR-themed adult scenario. The production is indexed with a “Hypnosis” genre tag.",
+   "character": "Meguri (wife)",
+   "provenance": "Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Source indexes: jav.sb, japavstore, javmala, javfifo and thisjav.",
+   "note": "",
+   "format": "movie",
+   "categories": [
+    "hypno-intimacy"
+   ],
+   "sources": [],
+   "youtube_ids": [],
+   "from_sources": [
+    "xla62ucxbx02u5"
+   ],
+   "source_records": [
+    "xla62ucxbx02u5:2155"
+   ],
+   "index_only": false,
+   "local_only": false,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "xla62ucxbx02u5:2155": {
+     "t": "PPPD-305",
+     "y": "2014",
+     "f": "movie",
+     "m": "Adult video (JAV) · OPPAI · Japan · Japanese",
+     "c": [
+      "hypno-intimacy"
+     ],
+     "mec": "Hypnosis by a family acquaintance",
+     "flag": "High confidence as an adult production · 18+ explicit",
+     "ch": "Meguri (wife)",
+     "s": "A friend of the husband, presented as a hypnosis specialist, hypnotizes Meguri in an NTR-themed adult scenario. The production is indexed with a “Hypnosis” genre tag.",
+     "src": [],
+     "prov": "Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Source indexes: jav.sb, japavstore, javmala, javfifo and thisjav."
+    }
+   }
+  },
+  {
+   "id": 2139,
+   "title": "Kyonyuu Onna Shikan Sennou Saimin",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "Adult-animation OVA · Lune Pictures · Japan · Japanese · 2 episodes",
+   "mechanism": "Hypnotic control",
+   "confidence_flag": "Medium confidence · 18+ explicit adult animation",
+   "summary": "Hypnosis-themed adult animation in which female protagonist figures are placed under hypnotic control. This is distinct from Kyonyuu Hitozuma Onna Kyoushi Saimin (2016).",
+   "character": "Female protagonist(s)",
+   "provenance": "Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Source basis: AniHentai listing and hentai database entries.",
+   "note": "",
+   "format": "tv",
+   "categories": [
+    "hypno-intimacy"
+   ],
+   "sources": [],
+   "youtube_ids": [],
+   "from_sources": [
+    "xla62ucxbx02u5"
+   ],
+   "source_records": [
+    "xla62ucxbx02u5:2156"
+   ],
+   "index_only": false,
+   "local_only": false,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "xla62ucxbx02u5:2156": {
+     "t": "Kyonyuu Onna Shikan Sennou Saimin",
+     "y": "2024",
+     "f": "tv",
+     "m": "Adult-animation OVA · Lune Pictures · Japan · Japanese · 2 episodes",
+     "c": [
+      "hypno-intimacy"
+     ],
+     "mec": "Hypnotic control",
+     "flag": "Medium confidence · 18+ explicit adult animation",
+     "ch": "Female protagonist(s)",
+     "s": "Hypnosis-themed adult animation in which female protagonist figures are placed under hypnotic control. This is distinct from Kyonyuu Hitozuma Onna Kyoushi Saimin (2016).",
+     "src": [],
+     "prov": "Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Source basis: AniHentai listing and hentai database entries."
+    }
+   }
+  },
+  {
+   "id": 2140,
+   "title": "Saimin Jutsu the Animation 2nd",
+   "subtitle": "",
+   "year": "2008",
+   "meta": "Adult-animation OVA · Japan · Japanese",
+   "mechanism": "Hypnosis",
+   "confidence_flag": "Medium confidence · 18+ explicit adult animation",
+   "summary": "Hypnosis-themed adult animation in which female characters are hypnotized by hypnotist figures. This is distinct from Saimin Jutsu Zero (2013).",
+   "character": "Female characters",
+   "provenance": "Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Source basis: IMDb and hentai database entries.",
+   "note": "",
+   "format": "tv",
+   "categories": [
+    "hypno-intimacy"
+   ],
+   "sources": [],
+   "youtube_ids": [],
+   "from_sources": [
+    "xla62ucxbx02u5"
+   ],
+   "source_records": [
+    "xla62ucxbx02u5:2157"
+   ],
+   "index_only": false,
+   "local_only": false,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "xla62ucxbx02u5:2157": {
+     "t": "Saimin Jutsu the Animation 2nd",
+     "y": "2008",
+     "f": "tv",
+     "m": "Adult-animation OVA · Japan · Japanese",
+     "c": [
+      "hypno-intimacy"
+     ],
+     "mec": "Hypnosis",
+     "flag": "Medium confidence · 18+ explicit adult animation",
+     "ch": "Female characters",
+     "s": "Hypnosis-themed adult animation in which female characters are hypnotized by hypnotist figures. This is distinct from Saimin Jutsu Zero (2013).",
+     "src": [],
+     "prov": "Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Source basis: IMDb and hentai database entries."
+    }
+   }
+  },
+  {
+   "id": 2141,
+   "title": "General Hospital",
+   "subtitle": "January–February 2019 · Ryan Chamberlain / Lulu Spencer arc",
+   "year": "2019",
+   "meta": "Daytime soap opera · United States · English",
+   "mechanism": "Trance presented as therapeutic hypnosis",
+   "confidence_flag": "HIGH",
+   "summary": "Serial killer Ryan Chamberlain, a pediatrician posing as psychiatrist Kevin Collins, offers victim Lulu Spencer hypnosis to recover memories but implants false ones so she identifies Franco Baldwin as her attacker.",
+   "character": "",
+   "provenance": "",
+   "note": "",
+   "format": "tv",
+   "categories": [
+    "doctor-gain",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "General Hospital Wiki",
+     "url": "https://general-hospital.fandom.com/wiki/Ryan_Chamberlain_(Jon_Lindstrom)"
+    },
+    {
+     "label": "Soap Opera Spy",
+     "url": "https://www.soapoperaspy.com/2019/general-hospital-spoilers-lulu-ids-franco-as-attacker-ryan-frames-former-killer/"
+    },
+    {
+     "label": "Soap Dirt",
+     "url": "https://soapdirt.com/general-hospital-spoilers-lulu-faces-franco-hidden-memories-unfold-ryan-at-risk/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "xla62ucxbx02u5"
+   ],
+   "source_records": [
+    "xla62ucxbx02u5:2158"
+   ],
+   "index_only": false,
+   "local_only": false,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "xla62ucxbx02u5:2158": {
+     "t": "General Hospital",
+     "sub": "January–February 2019 · Ryan Chamberlain / Lulu Spencer arc",
+     "y": "2019",
+     "f": "tv",
+     "m": "Daytime soap opera · United States · English",
+     "c": [
+      "doctor-gain",
+      "forced-obedience"
+     ],
+     "mec": "Trance presented as therapeutic hypnosis",
+     "flag": "HIGH",
+     "s": "Serial killer Ryan Chamberlain, a pediatrician posing as psychiatrist Kevin Collins, offers victim Lulu Spencer hypnosis to recover memories but implants false ones so she identifies Franco Baldwin as her attacker.",
+     "src": [
+      [
+       "General Hospital Wiki",
+       "https://general-hospital.fandom.com/wiki/Ryan_Chamberlain_(Jon_Lindstrom)"
+      ],
+      [
+       "Soap Opera Spy",
+       "https://www.soapoperaspy.com/2019/general-hospital-spoilers-lulu-ids-franco-as-attacker-ryan-frames-former-killer/"
+      ],
+      [
+       "Soap Dirt",
+       "https://soapdirt.com/general-hospital-spoilers-lulu-faces-franco-hidden-memories-unfold-ryan-at-risk/"
+      ]
+     ],
+     "dg": "b",
+     "dgT": "General Hospital",
+     "dgSub": "January–February 2019 · Ryan Chamberlain / Lulu Spencer arc",
+     "dgY": "2019",
+     "dgM": "Daytime soap opera · United States · English",
+     "dgS": "Serial killer Ryan Chamberlain, a pediatrician posing as psychiatrist Kevin Collins, offers victim Lulu Spencer hypnosis to recover memories but implants false ones so she identifies Franco Baldwin as her attacker.",
+     "dgMec": "Trance presented as therapeutic hypnosis",
+     "dgFlag": "HIGH",
+     "dgSrc": [
+      [
+       "General Hospital Wiki",
+       "https://general-hospital.fandom.com/wiki/Ryan_Chamberlain_(Jon_Lindstrom)"
+      ],
+      [
+       "Soap Opera Spy",
+       "https://www.soapoperaspy.com/2019/general-hospital-spoilers-lulu-ids-franco-as-attacker-ryan-frames-former-killer/"
+      ],
+      [
+       "Soap Dirt",
+       "https://soapdirt.com/general-hospital-spoilers-lulu-faces-franco-hidden-memories-unfold-ryan-at-risk/"
+      ]
+     ],
+     "fog": "therapist"
+    }
+   }
+  },
+  {
+   "id": 2142,
+   "title": "General Hospital",
+   "subtitle": "1985–86 · Kevin O’Connor / Laurelton storyline",
+   "year": "1985–86",
+   "meta": "Daytime soap opera · United States · English",
+   "mechanism": "Hypnotic trance",
+   "confidence_flag": "HIGH",
+   "summary": "Doctor and serial killer Kevin O’Connor hypnotizes fiancée and later wife Terry Brock into believing she committed the Laurelton murders, shifting blame for his crimes onto her.",
+   "character": "",
+   "provenance": "",
+   "note": "",
+   "format": "tv",
+   "categories": [
+    "doctor-gain",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Soap Opera Digest",
+     "url": "https://www.soapoperadigest.com/content/ghs-devious-dastardly-docs-0/"
+    },
+    {
+     "label": "SoapCentral",
+     "url": "https://www.soapcentral.com/general-hospital/general-hospital-s-notorious-serial-killers"
+    },
+    {
+     "label": "General Hospital Wiki",
+     "url": "https://general-hospital.fandom.com/wiki/The_Laurelton_Murders"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "xla62ucxbx02u5"
+   ],
+   "source_records": [
+    "xla62ucxbx02u5:2159"
+   ],
+   "index_only": false,
+   "local_only": false,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "xla62ucxbx02u5:2159": {
+     "t": "General Hospital",
+     "sub": "1985–86 · Kevin O’Connor / Laurelton storyline",
+     "y": "1985–86",
+     "f": "tv",
+     "m": "Daytime soap opera · United States · English",
+     "c": [
+      "doctor-gain",
+      "forced-obedience"
+     ],
+     "mec": "Hypnotic trance",
+     "flag": "HIGH",
+     "s": "Doctor and serial killer Kevin O’Connor hypnotizes fiancée and later wife Terry Brock into believing she committed the Laurelton murders, shifting blame for his crimes onto her.",
+     "src": [
+      [
+       "Soap Opera Digest",
+       "https://www.soapoperadigest.com/content/ghs-devious-dastardly-docs-0/"
+      ],
+      [
+       "SoapCentral",
+       "https://www.soapcentral.com/general-hospital/general-hospital-s-notorious-serial-killers"
+      ],
+      [
+       "General Hospital Wiki",
+       "https://general-hospital.fandom.com/wiki/The_Laurelton_Murders"
+      ]
+     ],
+     "dg": "b",
+     "dgT": "General Hospital",
+     "dgSub": "1985–86 · Kevin O’Connor / Laurelton storyline",
+     "dgY": "1985–86",
+     "dgM": "Daytime soap opera · United States · English",
+     "dgS": "Doctor and serial killer Kevin O’Connor hypnotizes fiancée and later wife Terry Brock into believing she committed the Laurelton murders, shifting blame for his crimes onto her.",
+     "dgMec": "Hypnotic trance",
+     "dgFlag": "HIGH",
+     "dgSrc": [
+      [
+       "Soap Opera Digest",
+       "https://www.soapoperadigest.com/content/ghs-devious-dastardly-docs-0/"
+      ],
+      [
+       "SoapCentral",
+       "https://www.soapcentral.com/general-hospital/general-hospital-s-notorious-serial-killers"
+      ],
+      [
+       "General Hospital Wiki",
+       "https://general-hospital.fandom.com/wiki/The_Laurelton_Murders"
+      ]
+     ],
+     "fog": "therapist"
+    }
+   }
+  },
+  {
+   "id": 2143,
+   "title": "Days of Our Lives",
+   "subtitle": "March 2020 · Queen of the Night arc",
+   "year": "2020",
+   "meta": "Daytime soap opera · United States · English · NBC",
+   "mechanism": "Brain chip + surgical personality adjustment — sci-fi brainwashing",
+   "confidence_flag": "HIGH · NON-TRANCE MECHANISM",
+   "summary": "Dr. Wilhelm Rolf performs a personality-transplant procedure on Dr. Marlena Evans, recasting her as Stefano DiMera’s Queen of the Night and forcing romantic devotion to him.",
+   "character": "",
+   "provenance": "",
+   "note": "The control is chip-assisted surgery and brainwashing, not classical hypnosis.",
+   "format": "tv",
+   "categories": [
+    "doctor-gain",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "SoapCentral",
+     "url": "https://www.soapcentral.com/days-of-our-lives/days-of-our-lives-weekly-recap-for-200309"
+    },
+    {
+     "label": "Celeb Dirty Laundry",
+     "url": "https://www.celebdirtylaundry.com/2020/days-of-our-lives-spoilers-week-of-march-9-nicoles-baby-swap-bomb-evans-legal-victory-orpheus-mystery-marlenas-mind-warp/"
+    },
+    {
+     "label": "Soap Opera Spy",
+     "url": "https://www.soapoperaspy.com/2020/days-of-our-lives-spoilers-john-panics-as-marlena-gets-another-procedure/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "xla62ucxbx02u5"
+   ],
+   "source_records": [
+    "xla62ucxbx02u5:2160"
+   ],
+   "index_only": false,
+   "local_only": false,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "xla62ucxbx02u5:2160": {
+     "t": "Days of Our Lives",
+     "sub": "March 2020 · Queen of the Night arc",
+     "y": "2020",
+     "f": "tv",
+     "m": "Daytime soap opera · United States · English · NBC",
+     "c": [
+      "doctor-gain",
+      "forced-obedience"
+     ],
+     "mec": "Brain chip + surgical personality adjustment — sci-fi brainwashing",
+     "flag": "HIGH · NON-TRANCE MECHANISM",
+     "s": "Dr. Wilhelm Rolf performs a personality-transplant procedure on Dr. Marlena Evans, recasting her as Stefano DiMera’s Queen of the Night and forcing romantic devotion to him.",
+     "src": [
+      [
+       "SoapCentral",
+       "https://www.soapcentral.com/days-of-our-lives/days-of-our-lives-weekly-recap-for-200309"
+      ],
+      [
+       "Celeb Dirty Laundry",
+       "https://www.celebdirtylaundry.com/2020/days-of-our-lives-spoilers-week-of-march-9-nicoles-baby-swap-bomb-evans-legal-victory-orpheus-mystery-marlenas-mind-warp/"
+      ],
+      [
+       "Soap Opera Spy",
+       "https://www.soapoperaspy.com/2020/days-of-our-lives-spoilers-john-panics-as-marlena-gets-another-procedure/"
+      ]
+     ],
+     "note": "The control is chip-assisted surgery and brainwashing, not classical hypnosis.",
+     "dg": "e",
+     "dgT": "Days of Our Lives",
+     "dgSub": "March 2020 · Queen of the Night arc",
+     "dgY": "2020",
+     "dgM": "Daytime soap opera · United States · English · NBC",
+     "dgS": "Dr. Wilhelm Rolf performs a personality-transplant procedure on Dr. Marlena Evans, recasting her as Stefano DiMera’s Queen of the Night and forcing romantic devotion to him.",
+     "dgMec": "Brain chip + surgical personality adjustment — sci-fi brainwashing",
+     "dgFlag": "HIGH · NON-TRANCE MECHANISM",
+     "dgNote": "The control is chip-assisted surgery and brainwashing, not classical hypnosis.",
+     "dgSrc": [
+      [
+       "SoapCentral",
+       "https://www.soapcentral.com/days-of-our-lives/days-of-our-lives-weekly-recap-for-200309"
+      ],
+      [
+       "Celeb Dirty Laundry",
+       "https://www.celebdirtylaundry.com/2020/days-of-our-lives-spoilers-week-of-march-9-nicoles-baby-swap-bomb-evans-legal-victory-orpheus-mystery-marlenas-mind-warp/"
+      ],
+      [
+       "Soap Opera Spy",
+       "https://www.soapoperaspy.com/2020/days-of-our-lives-spoilers-john-panics-as-marlena-gets-another-procedure/"
+      ]
+     ],
+     "fog": "therapist"
+    }
+   }
+  },
+  {
+   "id": 2144,
+   "title": "Hannibal",
+   "subtitle": "S2E7 · “Yakimono”",
+   "year": "2014",
+   "meta": "TV episode · United States · English",
+   "mechanism": "Psychiatric conditioning / brainwashing — not stage trance",
+   "confidence_flag": "HIGH · NON-TRANCE MECHANISM",
+   "summary": "Forensic psychiatrist Hannibal Lecter conditions former FBI trainee Miriam Lass to identify Frederick Chilton as her captor and the Chesapeake Ripper; she then shoots Chilton, diverting suspicion from Hannibal.",
+   "character": "",
+   "provenance": "",
+   "note": "The series frames this as prolonged psychiatric conditioning and mind control rather than stage-style hypnosis.",
+   "format": "tv",
+   "categories": [
+    "doctor-gain",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Bustle",
+     "url": "https://www.bustle.com/articles/21418-did-hannibal-really-just-kill-off-dr-chilton-we-search-for-spoilers-in-the-books"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Yakimono_(Hannibal)"
+    },
+    {
+     "label": "Den of Geek",
+     "url": "https://www.denofgeek.com/tv/hannibal-season-2-episode-7-review-yakimono/"
+    },
+    {
+     "label": "Pajiba",
+     "url": "https://www.pajiba.com/tv_reviews/hannibal-suzakana-were-caught-in-a-trap.php"
+    },
+    {
+     "label": "The TV IV",
+     "url": "http://tviv.org/Hannibal/Su-zakana"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "xla62ucxbx02u5"
+   ],
+   "source_records": [
+    "xla62ucxbx02u5:2161",
+    "xla62ucxbx02u5:2165"
+   ],
+   "index_only": false,
+   "local_only": false,
+   "thumbnail": null,
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:2161",
+    "source": "xla62ucxbx02u5",
+    "label": "Hannibal · S2E7 · “Yakimono” (2014)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Hannibal",
+    "subtitle": "S2E7 · “Yakimono”",
+    "year": "2014",
+    "meta": "TV episode · United States · English",
+    "summary": "Forensic psychiatrist Hannibal Lecter conditions former FBI trainee Miriam Lass to identify Frederick Chilton as her captor and the Chesapeake Ripper; she then shoots Chilton, diverting suspicion from Hannibal.",
+    "character": "",
+    "note": "The series frames this as prolonged psychiatric conditioning and mind control rather than stage-style hypnosis.",
+    "mechanism": "Psychiatric conditioning / brainwashing — not stage trance",
+    "confidence_flag": "HIGH · NON-TRANCE MECHANISM",
+    "categories": [
+     "doctor-gain",
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "Bustle",
+      "url": "https://www.bustle.com/articles/21418-did-hannibal-really-just-kill-off-dr-chilton-we-search-for-spoilers-in-the-books"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yakimono_(Hannibal)"
+     },
+     {
+      "label": "Den of Geek",
+      "url": "https://www.denofgeek.com/tv/hannibal-season-2-episode-7-review-yakimono/"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "xla62ucxbx02u5:2165",
+     "source": "xla62ucxbx02u5",
+     "label": "Hannibal · S2E8 · “Su-zakana” (2014)",
+     "identifiers": [
+      "subtitle",
+      "year/date"
+     ],
+     "title": "Hannibal",
+     "subtitle": "S2E8 · “Su-zakana”",
+     "year": "2014",
+     "meta": "TV episode · United States · English",
+     "summary": "A detailed review reads Hannibal Lecter’s use of psychotropics and hypnotherapy on fellow psychiatrist Alana Bloom as a way to keep an ally under his influence and neutralize a threat.",
+     "character": "",
+     "note": "The drug-assisted hypnotherapy interpretation is debated and rests chiefly on one detailed review.",
+     "mechanism": "Drug-assisted hypnotherapy — debated reading",
+     "confidence_flag": "MEDIUM · SINGLE DETAILED SOURCE",
+     "categories": [
+      "doctor-gain",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "Pajiba",
+       "url": "https://www.pajiba.com/tv_reviews/hannibal-suzakana-were-caught-in-a-trap.php"
+      },
+      {
+       "label": "The TV IV",
+       "url": "http://tviv.org/Hannibal/Su-zakana"
+      }
+     ],
+     "distinct_story": true
+    }
+   ],
+   "raw": {
+    "xla62ucxbx02u5:2161": {
+     "t": "Hannibal",
+     "sub": "S2E7 · “Yakimono”",
+     "y": "2014",
+     "f": "tv",
+     "m": "TV episode · United States · English",
+     "c": [
+      "doctor-gain",
+      "forced-obedience"
+     ],
+     "mec": "Psychiatric conditioning / brainwashing — not stage trance",
+     "flag": "HIGH · NON-TRANCE MECHANISM",
+     "s": "Forensic psychiatrist Hannibal Lecter conditions former FBI trainee Miriam Lass to identify Frederick Chilton as her captor and the Chesapeake Ripper; she then shoots Chilton, diverting suspicion from Hannibal.",
+     "src": [
+      [
+       "Bustle",
+       "https://www.bustle.com/articles/21418-did-hannibal-really-just-kill-off-dr-chilton-we-search-for-spoilers-in-the-books"
+      ],
+      [
+       "Wikipedia",
+       "https://en.wikipedia.org/wiki/Yakimono_(Hannibal)"
+      ],
+      [
+       "Den of Geek",
+       "https://www.denofgeek.com/tv/hannibal-season-2-episode-7-review-yakimono/"
+      ]
+     ],
+     "note": "The series frames this as prolonged psychiatric conditioning and mind control rather than stage-style hypnosis.",
+     "dg": "b",
+     "dgT": "Hannibal",
+     "dgSub": "S2E7 · “Yakimono”",
+     "dgY": "2014",
+     "dgM": "TV episode · United States · English",
+     "dgS": "Forensic psychiatrist Hannibal Lecter conditions former FBI trainee Miriam Lass to identify Frederick Chilton as her captor and the Chesapeake Ripper; she then shoots Chilton, diverting suspicion from Hannibal.",
+     "dgMec": "Psychiatric conditioning / brainwashing — not stage trance",
+     "dgFlag": "HIGH · NON-TRANCE MECHANISM",
+     "dgNote": "The series frames this as prolonged psychiatric conditioning and mind control rather than stage-style hypnosis.",
+     "dgSrc": [
+      [
+       "Bustle",
+       "https://www.bustle.com/articles/21418-did-hannibal-really-just-kill-off-dr-chilton-we-search-for-spoilers-in-the-books"
+      ],
+      [
+       "Wikipedia",
+       "https://en.wikipedia.org/wiki/Yakimono_(Hannibal)"
+      ],
+      [
+       "Den of Geek",
+       "https://www.denofgeek.com/tv/hannibal-season-2-episode-7-review-yakimono/"
+      ]
+     ],
+     "fog": "therapist"
+    },
+    "xla62ucxbx02u5:2165": {
+     "t": "Hannibal",
+     "sub": "S2E8 · “Su-zakana”",
+     "y": "2014",
+     "f": "tv",
+     "m": "TV episode · United States · English",
+     "c": [
+      "doctor-gain",
+      "forced-obedience"
+     ],
+     "mec": "Drug-assisted hypnotherapy — debated reading",
+     "flag": "MEDIUM · SINGLE DETAILED SOURCE",
+     "s": "A detailed review reads Hannibal Lecter’s use of psychotropics and hypnotherapy on fellow psychiatrist Alana Bloom as a way to keep an ally under his influence and neutralize a threat.",
+     "src": [
+      [
+       "Pajiba",
+       "https://www.pajiba.com/tv_reviews/hannibal-suzakana-were-caught-in-a-trap.php"
+      ],
+      [
+       "The TV IV",
+       "http://tviv.org/Hannibal/Su-zakana"
+      ]
+     ],
+     "note": "The drug-assisted hypnotherapy interpretation is debated and rests chiefly on one detailed review.",
+     "dg": "d",
+     "dgT": "Hannibal",
+     "dgSub": "S2E8 · “Su-zakana”",
+     "dgY": "2014",
+     "dgM": "TV episode · United States · English",
+     "dgS": "A detailed review reads Hannibal Lecter’s use of psychotropics and hypnotherapy on fellow psychiatrist Alana Bloom as a way to keep an ally under his influence and neutralize a threat.",
+     "dgMec": "Drug-assisted hypnotherapy — debated reading",
+     "dgFlag": "MEDIUM · SINGLE DETAILED SOURCE",
+     "dgNote": "The drug-assisted hypnotherapy interpretation is debated and rests chiefly on one detailed review.",
+     "dgSrc": [
+      [
+       "Pajiba",
+       "https://www.pajiba.com/tv_reviews/hannibal-suzakana-were-caught-in-a-trap.php"
+      ],
+      [
+       "The TV IV",
+       "http://tviv.org/Hannibal/Su-zakana"
+      ]
+     ],
+     "fog": "therapist"
+    }
+   }
+  },
+  {
+   "id": 2145,
+   "title": "The Scarapist",
+   "subtitle": "",
+   "year": "2015",
+   "meta": "Film · United States · English · 81 min",
+   "mechanism": "Hypnosis + drugs",
+   "confidence_flag": "HIGH · FEMALE DOCTOR",
+   "summary": "Female hypnotherapist Ilse draws novelist, wife and mother Lana into bogus therapy, uses hypnosis with controlling effects, deceives Lana’s husband and extends control over the patient’s family.",
+   "character": "",
+   "provenance": "",
+   "note": "Controller is a female hypnotherapist; the film is based on a therapist-abuse case.",
+   "format": "movie",
+   "categories": [
+    "doctor-gain",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Scarapist"
+    },
+    {
+     "label": "ScreenAnarchy",
+     "url": "https://screenanarchy.com/2016/10/a-winning-recipe-for-halloween-popcorn-trick-or-treat-candy-and-the-scarapist-contrib.html"
+    },
+    {
+     "label": "HorrorBuzz",
+     "url": "https://horrorbuzz.com/award-winning-indie-horror-the-scarapist-arrives-on-tubi-this-month/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "xla62ucxbx02u5"
+   ],
+   "source_records": [
+    "xla62ucxbx02u5:2162"
+   ],
+   "index_only": false,
+   "local_only": false,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "xla62ucxbx02u5:2162": {
+     "t": "The Scarapist",
+     "y": "2015",
+     "f": "movie",
+     "m": "Film · United States · English · 81 min",
+     "c": [
+      "doctor-gain",
+      "forced-obedience"
+     ],
+     "mec": "Hypnosis + drugs",
+     "flag": "HIGH · FEMALE DOCTOR",
+     "s": "Female hypnotherapist Ilse draws novelist, wife and mother Lana into bogus therapy, uses hypnosis with controlling effects, deceives Lana’s husband and extends control over the patient’s family.",
+     "src": [
+      [
+       "Wikipedia",
+       "https://en.wikipedia.org/wiki/The_Scarapist"
+      ],
+      [
+       "ScreenAnarchy",
+       "https://screenanarchy.com/2016/10/a-winning-recipe-for-halloween-popcorn-trick-or-treat-candy-and-the-scarapist-contrib.html"
+      ],
+      [
+       "HorrorBuzz",
+       "https://horrorbuzz.com/award-winning-indie-horror-the-scarapist-arrives-on-tubi-this-month/"
+      ]
+     ],
+     "note": "Controller is a female hypnotherapist; the film is based on a therapist-abuse case.",
+     "dg": "e",
+     "dgT": "The Scarapist",
+     "dgY": "2015",
+     "dgM": "Film · United States · English · 81 min",
+     "dgS": "Female hypnotherapist Ilse draws novelist, wife and mother Lana into bogus therapy, uses hypnosis with controlling effects, deceives Lana’s husband and extends control over the patient’s family.",
+     "dgMec": "Hypnosis + drugs",
+     "dgFlag": "HIGH · FEMALE DOCTOR",
+     "dgNote": "Controller is a female hypnotherapist; the film is based on a therapist-abuse case.",
+     "dgSrc": [
+      [
+       "Wikipedia",
+       "https://en.wikipedia.org/wiki/The_Scarapist"
+      ],
+      [
+       "ScreenAnarchy",
+       "https://screenanarchy.com/2016/10/a-winning-recipe-for-halloween-popcorn-trick-or-treat-candy-and-the-scarapist-contrib.html"
+      ],
+      [
+       "HorrorBuzz",
+       "https://horrorbuzz.com/award-winning-indie-horror-the-scarapist-arrives-on-tubi-this-month/"
+      ]
+     ],
+     "fog": "therapist"
+    }
+   }
+  },
+  {
+   "id": 2146,
+   "title": "The Vengeance of Dr. Mabuse",
+   "subtitle": "Dr. M schlägt zu",
+   "year": "1972",
+   "meta": "Film · Spain / West Germany · Spanish / German",
+   "mechanism": "Hypnotic drug + electronic mind-control apparatus",
+   "confidence_flag": "MEDIUM · DRUG / MACHINE MECHANISM",
+   "summary": "Dr. Mabuse’s organization injects a kidnapped female institute employee with a hypnotic drug and uses electronic mind-control equipment to force her to reveal super-weapon plans.",
+   "character": "",
+   "provenance": "Additional sources reviewed in the 2 October 2026 sweep: Robert Monell and The Digital Bits.",
+   "note": "The gain is state-secret theft and power; the mechanism combines drugs and a machine rather than standalone trance hypnosis.",
+   "format": "movie",
+   "categories": [
+    "doctor-gain",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0071439"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "xla62ucxbx02u5"
+   ],
+   "source_records": [
+    "xla62ucxbx02u5:2163"
+   ],
+   "index_only": false,
+   "local_only": false,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "xla62ucxbx02u5:2163": {
+     "t": "The Vengeance of Dr. Mabuse",
+     "sub": "Dr. M schlägt zu",
+     "y": "1972",
+     "f": "movie",
+     "m": "Film · Spain / West Germany · Spanish / German",
+     "c": [
+      "doctor-gain",
+      "forced-obedience"
+     ],
+     "mec": "Hypnotic drug + electronic mind-control apparatus",
+     "flag": "MEDIUM · DRUG / MACHINE MECHANISM",
+     "s": "Dr. Mabuse’s organization injects a kidnapped female institute employee with a hypnotic drug and uses electronic mind-control equipment to force her to reveal super-weapon plans.",
+     "src": [
+      [
+       "IMDb",
+       "https://www.imdb.com/title/tt0071439"
+      ]
+     ],
+     "note": "The gain is state-secret theft and power; the mechanism combines drugs and a machine rather than standalone trance hypnosis.",
+     "prov": "Additional sources reviewed in the 2 October 2026 sweep: Robert Monell and The Digital Bits.",
+     "dg": "c",
+     "dgT": "The Vengeance of Dr. Mabuse",
+     "dgSub": "Dr. M schlägt zu",
+     "dgY": "1972",
+     "dgM": "Film · Spain / West Germany · Spanish / German",
+     "dgS": "Dr. Mabuse’s organization injects a kidnapped female institute employee with a hypnotic drug and uses electronic mind-control equipment to force her to reveal super-weapon plans.",
+     "dgMec": "Hypnotic drug + electronic mind-control apparatus",
+     "dgFlag": "MEDIUM · DRUG / MACHINE MECHANISM",
+     "dgNote": "The gain is state-secret theft and power; the mechanism combines drugs and a machine rather than standalone trance hypnosis.",
+     "dgSrc": [
+      [
+       "IMDb",
+       "https://www.imdb.com/title/tt0071439"
+      ]
+     ],
+     "dgProv": "Additional sources reviewed in the 2 October 2026 sweep: Robert Monell and The Digital Bits.",
+     "fog": "therapist"
+    }
+   }
+  },
+  {
+   "id": 2147,
+   "title": "El Extraño Retorno de Diana Salazar",
+   "subtitle": "",
+   "year": "1988",
+   "meta": "Telenovela · Mexico · Spanish · Televisa",
+   "mechanism": "Psychological manipulation in therapy — not formal trance",
+   "confidence_flag": "MEDIUM · BORDERLINE NON-TRANCE MECHANISM",
+   "summary": "Psychiatrist Irene del Conde uses psychological knowledge to manipulate Diana Salazar for revenge and to separate her from Eduardo; a colleague also seeks to exploit Diana’s powers for personal benefit.",
+   "character": "",
+   "provenance": "Additional sources reviewed in the 2 October 2026 sweep: TVyNovelas and EnPalco.",
+   "note": "The sourced mechanism is psychological manipulation under a therapy setting, not formal trance hypnosis.",
+   "format": "tv",
+   "categories": [
+    "doctor-gain",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Spanish Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/El_extra%C3%B1o_retorno_de_Diana_Salazar"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "xla62ucxbx02u5"
+   ],
+   "source_records": [
+    "xla62ucxbx02u5:2164"
+   ],
+   "index_only": false,
+   "local_only": false,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "xla62ucxbx02u5:2164": {
+     "t": "El Extraño Retorno de Diana Salazar",
+     "y": "1988",
+     "f": "tv",
+     "m": "Telenovela · Mexico · Spanish · Televisa",
+     "c": [
+      "doctor-gain",
+      "forced-obedience"
+     ],
+     "mec": "Psychological manipulation in therapy — not formal trance",
+     "flag": "MEDIUM · BORDERLINE NON-TRANCE MECHANISM",
+     "s": "Psychiatrist Irene del Conde uses psychological knowledge to manipulate Diana Salazar for revenge and to separate her from Eduardo; a colleague also seeks to exploit Diana’s powers for personal benefit.",
+     "src": [
+      [
+       "Spanish Wikipedia",
+       "https://es.wikipedia.org/wiki/El_extra%C3%B1o_retorno_de_Diana_Salazar"
+      ]
+     ],
+     "note": "The sourced mechanism is psychological manipulation under a therapy setting, not formal trance hypnosis.",
+     "prov": "Additional sources reviewed in the 2 October 2026 sweep: TVyNovelas and EnPalco.",
+     "dg": "d",
+     "dgT": "El Extraño Retorno de Diana Salazar",
+     "dgY": "1988",
+     "dgM": "Telenovela · Mexico · Spanish · Televisa",
+     "dgS": "Psychiatrist Irene del Conde uses psychological knowledge to manipulate Diana Salazar for revenge and to separate her from Eduardo; a colleague also seeks to exploit Diana’s powers for personal benefit.",
+     "dgMec": "Psychological manipulation in therapy — not formal trance",
+     "dgFlag": "MEDIUM · BORDERLINE NON-TRANCE MECHANISM",
+     "dgNote": "The sourced mechanism is psychological manipulation under a therapy setting, not formal trance hypnosis.",
+     "dgSrc": [
+      [
+       "Spanish Wikipedia",
+       "https://es.wikipedia.org/wiki/El_extra%C3%B1o_retorno_de_Diana_Salazar"
+      ]
+     ],
+     "dgProv": "Additional sources reviewed in the 2 October 2026 sweep: TVyNovelas and EnPalco.",
+     "fog": "therapist"
+    }
+   }
+  },
+  {
+   "id": 2148,
+   "title": "Nurse Diary: Beast Afternoon",
+   "subtitle": "看護婦日記 獣じみた午後",
+   "year": "1982",
+   "meta": "Film · Japan · Japanese · Nikkatsu pink film",
+   "mechanism": "Secret clinical hypnosis + bell post-hypnotic trigger",
+   "confidence_flag": "MEDIUM · [EROTIC] PINK FILM",
+   "summary": "Tachibana Clinic doctors secretly hypnotize patient Reiko as a trigger-controlled test subject for the experimental Dream Ring device; the conditioning is also used to make her commit murder.",
+   "character": "",
+   "provenance": "",
+   "note": "Erotic pink film. The gain is institutional and commercial experimentation as well as control over the patient.",
+   "format": "movie",
+   "categories": [
+    "doctor-gain",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "RareFilm",
+     "url": "https://rarefilm.net/nurse-diary-beast-afternoon-1982-naosuke-kurosawa-maiko-kazama-jun-miho-miki-yamaji-hideo-shiroyama-crime-sci-fi-erotic/"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0287516"
+    },
+    {
+     "label": "Coffee Coffee and More Coffee",
+     "url": "http://www.coffeecoffeeandmorecoffee.com/archives/2016/10/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "xla62ucxbx02u5"
+   ],
+   "source_records": [
+    "xla62ucxbx02u5:2166"
+   ],
+   "index_only": false,
+   "local_only": false,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "xla62ucxbx02u5:2166": {
+     "t": "Nurse Diary: Beast Afternoon",
+     "sub": "看護婦日記 獣じみた午後",
+     "y": "1982",
+     "f": "movie",
+     "m": "Film · Japan · Japanese · Nikkatsu pink film",
+     "c": [
+      "doctor-gain",
+      "forced-obedience"
+     ],
+     "mec": "Secret clinical hypnosis + bell post-hypnotic trigger",
+     "flag": "MEDIUM · [EROTIC] PINK FILM",
+     "s": "Tachibana Clinic doctors secretly hypnotize patient Reiko as a trigger-controlled test subject for the experimental Dream Ring device; the conditioning is also used to make her commit murder.",
+     "src": [
+      [
+       "RareFilm",
+       "https://rarefilm.net/nurse-diary-beast-afternoon-1982-naosuke-kurosawa-maiko-kazama-jun-miho-miki-yamaji-hideo-shiroyama-crime-sci-fi-erotic/"
+      ],
+      [
+       "IMDb",
+       "https://www.imdb.com/title/tt0287516"
+      ],
+      [
+       "Coffee Coffee and More Coffee",
+       "http://www.coffeecoffeeandmorecoffee.com/archives/2016/10/"
+      ]
+     ],
+     "note": "Erotic pink film. The gain is institutional and commercial experimentation as well as control over the patient.",
+     "dg": "c",
+     "dgT": "Nurse Diary: Beast Afternoon",
+     "dgSub": "看護婦日記 獣じみた午後",
+     "dgY": "1982",
+     "dgM": "Film · Japan · Japanese · Nikkatsu pink film",
+     "dgS": "Tachibana Clinic doctors secretly hypnotize patient Reiko as a trigger-controlled test subject for the experimental Dream Ring device; the conditioning is also used to make her commit murder.",
+     "dgMec": "Secret clinical hypnosis + bell post-hypnotic trigger",
+     "dgFlag": "MEDIUM · [EROTIC] PINK FILM",
+     "dgNote": "Erotic pink film. The gain is institutional and commercial experimentation as well as control over the patient.",
+     "dgSrc": [
+      [
+       "RareFilm",
+       "https://rarefilm.net/nurse-diary-beast-afternoon-1982-naosuke-kurosawa-maiko-kazama-jun-miho-miki-yamaji-hideo-shiroyama-crime-sci-fi-erotic/"
+      ],
+      [
+       "IMDb",
+       "https://www.imdb.com/title/tt0287516"
+      ],
+      [
+       "Coffee Coffee and More Coffee",
+       "http://www.coffeecoffeeandmorecoffee.com/archives/2016/10/"
+      ]
+     ],
+     "fog": "therapist"
+    }
+   }
+  },
+  {
+   "id": 2149,
    "title": "Office Space",
    "subtitle": "",
    "year": "1999",
@@ -348450,7 +352613,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2134,
+   "id": 2150,
    "title": "The Brittas Empire",
    "subtitle": "Mr Brittas Changes Trains · S04E04",
    "year": "1994",
@@ -348518,7 +352681,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2135,
+   "id": 2151,
    "title": "Casa Vianello",
    "subtitle": "Il fumo fa male",
    "year": "Year not stated",
@@ -348578,7 +352741,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2136,
+   "id": 2152,
    "title": "The Hypnotic Wife",
    "subtitle": "",
    "year": "1909",
@@ -348645,7 +352808,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2137,
+   "id": 2153,
    "title": "Marnie",
    "subtitle": "",
    "year": "1964",
@@ -348699,7 +352862,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2138,
+   "id": 2154,
    "title": "Shallow Hal",
    "subtitle": "",
    "year": "2001",
@@ -348758,7 +352921,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2139,
+   "id": 2155,
    "title": "Friends: The One with the Hypnosis Tape",
    "subtitle": "The One with the Hypnosis Tape · S03E18",
    "year": "1997",
@@ -348813,7 +352976,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2140,
+   "id": 2156,
    "title": "The Dick Van Dyke Show",
    "subtitle": "My Husband Is Not a Drunk · S02E06",
    "year": "1962",
@@ -348883,7 +353046,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2141,
+   "id": 2157,
    "title": "The Cheval Mystery",
    "subtitle": "",
    "year": "1913",
@@ -348942,7 +353105,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2142,
+   "id": 2158,
    "title": "The Return of Richard Neal",
    "subtitle": "",
    "year": "1915",
@@ -349002,7 +353165,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2143,
+   "id": 2159,
    "title": "Huwad",
    "subtitle": "",
    "year": "2024",
@@ -349062,7 +353225,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2144,
+   "id": 2160,
    "title": "NBC Dracula",
    "subtitle": "",
    "year": "2013",
@@ -349106,7 +353269,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2146,
+   "id": 2162,
    "title": "Tau kwai mou jeu 2",
    "subtitle": "",
    "year": "2003",
@@ -349150,7 +353313,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2147,
+   "id": 2163,
    "title": "Murder Me Twice",
    "subtitle": "",
    "year": "1958",
@@ -349194,7 +353357,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2148,
+   "id": 2164,
    "title": "Take Her by Surprise",
    "subtitle": "",
    "year": "",
@@ -349238,7 +353401,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2149,
+   "id": 2165,
    "title": "Be My Master",
    "subtitle": "",
    "year": "",
@@ -349282,7 +353445,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2150,
+   "id": 2166,
    "title": "A Puppet",
    "subtitle": "",
    "year": "2013",
@@ -349326,7 +353489,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2151,
+   "id": 2167,
    "title": "Delusions of Murder",
    "subtitle": "",
    "year": "",
@@ -349370,7 +353533,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2152,
+   "id": 2168,
    "title": "Segunda Mano",
    "subtitle": "",
    "year": "2009",
@@ -349414,7 +353577,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2153,
+   "id": 2169,
    "title": "Blithe Spirit",
    "subtitle": "",
    "year": "",
@@ -349458,7 +353621,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2154,
+   "id": 2170,
    "title": "El fantasma de Elena",
    "subtitle": "",
    "year": "",
@@ -349502,7 +353665,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2155,
+   "id": 2171,
    "title": "Bepanah Pyaar",
    "subtitle": "",
    "year": "",
@@ -349546,7 +353709,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2156,
+   "id": 2172,
    "title": "Laura Sin Censura",
    "subtitle": "",
    "year": "",
@@ -349590,7 +353753,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2157,
+   "id": 2173,
    "title": "The Wishing Box",
    "subtitle": "",
    "year": "1991",
@@ -349634,7 +353797,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2158,
+   "id": 2174,
    "title": "Law & Order: SVU",
    "subtitle": "",
    "year": "2003",
@@ -349678,7 +353841,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2159,
+   "id": 2175,
    "title": "Ezra",
    "subtitle": "",
    "year": "2017",
@@ -349786,7 +353949,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2160,
+   "id": 2176,
    "title": "Nosferatu",
    "subtitle": "",
    "year": "1922",
@@ -349877,7 +354040,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2161,
+   "id": 2177,
    "title": "The Strain",
    "subtitle": "",
    "year": "",
@@ -349921,7 +354084,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2162,
+   "id": 2178,
    "title": "Santo vs. las mujeres vampiro",
    "subtitle": "",
    "year": "1962",
@@ -349965,7 +354128,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2163,
+   "id": 2179,
    "title": "Ella Enchanted",
    "subtitle": "",
    "year": "",
@@ -350009,7 +354172,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2164,
+   "id": 2180,
    "title": "Penelope",
    "subtitle": "",
    "year": "",
@@ -350053,7 +354216,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2165,
+   "id": 2181,
    "title": "Stardust",
    "subtitle": "",
    "year": "",
@@ -350097,7 +354260,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2166,
+   "id": 2182,
    "title": "The Princess Bride — miracle pill",
    "subtitle": "",
    "year": "",
@@ -350141,7 +354304,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2167,
+   "id": 2183,
    "title": "Enchanted",
    "subtitle": "",
    "year": "2007",
@@ -350185,7 +354348,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2168,
+   "id": 2184,
    "title": "Cinderella",
    "subtitle": "",
    "year": "2015",
@@ -350229,7 +354392,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2169,
+   "id": 2185,
    "title": "Jimmy Timmy Power Hour",
    "subtitle": "",
    "year": "2004",
@@ -350273,7 +354436,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2170,
+   "id": 2186,
    "title": "Metamorphosis",
    "subtitle": "",
    "year": "1971",
@@ -350317,7 +354480,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2171,
+   "id": 2187,
    "title": "A Grande Família — excluded",
    "subtitle": "",
    "year": "",
@@ -350361,7 +354524,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2172,
+   "id": 2188,
    "title": "Ninnu Kori",
    "subtitle": "",
    "year": "c. 2025",
@@ -350419,7 +354582,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2173,
+   "id": 2189,
    "title": "7aum Arivu",
    "subtitle": "",
    "year": "2011",
@@ -350485,7 +354648,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2174,
+   "id": 2190,
    "title": "Durgamati",
    "subtitle": "",
    "year": "2020",
@@ -350543,7 +354706,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2175,
+   "id": 2191,
    "title": "Dharam Veer",
    "subtitle": "",
    "year": "1977",
@@ -350577,7 +354740,8 @@ window.CATALOG = {
     "india-control",
     "other-control",
     "india-pregnancy",
-    "royal-hypnosis"
+    "royal-hypnosis",
+    "hypnotized-marriage"
    ],
    "sources": [
     {
@@ -350593,12 +354757,14 @@ window.CATALOG = {
    "from_sources": [
     "india-catalog",
     "worldwide-hypnosis",
-    "royal-hypnosis-loose"
+    "royal-hypnosis-loose",
+    "hypnotized-marriage"
    ],
    "source_records": [
     "india-catalog:129",
     "worldwide-hypnosis:268",
-    "royal-hypnosis-loose:15"
+    "royal-hypnosis-loose:15",
+    "hypnotized-marriage:7"
    ],
    "index_only": false,
    "local_only": true,
@@ -350705,6 +354871,41 @@ window.CATALOG = {
      "already_married_note": "Princess (Maharani) Meenakshi is unmarried, in love with Jwala Singh",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:7",
+     "source": "hypnotized-marriage",
+     "label": "Dharam Veer (1977)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dharam Veer",
+     "subtitle": "",
+     "year": "1977",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Dharam_Veer"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Dharam_Veer_%28film%29"
+      }
+     ],
+     "fit_note": "Princess in an obedient trance is married to a stranger; pregnant by the end (see pregnancy fields).",
+     "already_married": "no",
+     "already_married_note": "the princess is unmarried until she is wed to a stranger while in a trance",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -350781,6 +354982,31 @@ window.CATALOG = {
      "already_married": "no",
      "already_married_note": "Princess (Maharani) Meenakshi is unmarried, in love with Jwala Singh",
      "fit_note": "Loose fit: shock leaves her in an obedient trance (no hypnotist), and her father uses it to marry her off"
+    },
+    "hypnotized-marriage:7": {
+     "title": "Dharam Veer",
+     "year": "1977",
+     "match_title": "Dharam Veer",
+     "match_year": "1977",
+     "format": "movie",
+     "categories": [
+      "hypnotized-marriage"
+     ],
+     "group": "Married while hypnotised / spell-bound (wedding performed)",
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Dharam_Veer"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Dharam_Veer_%28film%29"
+      }
+     ],
+     "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+     "already_married": "no",
+     "already_married_note": "the princess is unmarried until she is wed to a stranger while in a trance",
+     "fit_note": "Princess in an obedient trance is married to a stranger; pregnant by the end (see pregnancy fields)."
     }
    },
    "watch_links": [
@@ -350794,7 +355020,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2176,
+   "id": 2192,
    "title": "31 Minutes",
    "subtitle": "",
    "year": "2003",
@@ -350854,7 +355080,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2177,
+   "id": 2193,
    "title": "4 Shimai Tantei Dan",
    "subtitle": "",
    "year": "2008",
@@ -350914,7 +355140,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2178,
+   "id": 2194,
    "title": "A Nightmare on Elm Street 3: Dream Warriors",
    "subtitle": "",
    "year": "1987",
@@ -350982,7 +355208,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2179,
+   "id": 2195,
    "title": "A Portrait of Jianghu: Reincarnated Disciple",
    "subtitle": "",
    "year": "2024",
@@ -351042,7 +355268,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2180,
+   "id": 2196,
    "title": "Aida",
    "subtitle": "",
    "year": "",
@@ -351102,7 +355328,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2181,
+   "id": 2197,
    "title": "Agency of Vengeance: Dark Rising",
    "subtitle": "",
    "year": "2014",
@@ -351164,7 +355390,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2182,
+   "id": 2198,
    "title": "Alma Pirata",
    "subtitle": "",
    "year": "2006",
@@ -351224,7 +355450,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2183,
+   "id": 2199,
    "title": "Alien Presence",
    "subtitle": "",
    "year": "2009",
@@ -351295,7 +355521,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2184,
+   "id": 2200,
    "title": "Amor Mío",
    "subtitle": "",
    "year": "2006",
@@ -351357,7 +355583,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2185,
+   "id": 2201,
    "title": "Austin & Ally",
    "subtitle": "",
    "year": "",
@@ -351421,7 +355647,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2186,
+   "id": 2202,
    "title": "Asian Treasures",
    "subtitle": "",
    "year": "",
@@ -351481,7 +355707,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2187,
+   "id": 2203,
    "title": "Armor Hero Captor",
    "subtitle": "",
    "year": "",
@@ -351543,7 +355769,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2188,
+   "id": 2204,
    "title": "Amor Mío",
    "subtitle": "",
    "year": "2005",
@@ -351605,7 +355831,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2189,
+   "id": 2205,
    "title": "Battle Skipper",
    "subtitle": "",
    "year": "",
@@ -351665,7 +355891,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2190,
+   "id": 2206,
    "title": "Basim Belada",
    "subtitle": "",
    "year": "2023",
@@ -351725,7 +355951,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2191,
+   "id": 2207,
    "title": "Carrossel",
    "subtitle": "",
    "year": "",
@@ -351785,7 +356011,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2192,
+   "id": 2208,
    "title": "Campus Beauty",
    "subtitle": "",
    "year": "",
@@ -351847,7 +356073,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2193,
+   "id": 2209,
    "title": "Candle in the Tomb: The Worm Valley",
    "subtitle": "",
    "year": "2021",
@@ -351907,7 +356133,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2194,
+   "id": 2210,
    "title": "Chalkzone",
    "subtitle": "",
    "year": "",
@@ -351967,7 +356193,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2195,
+   "id": 2211,
    "title": "Chespirito",
    "subtitle": "",
    "year": "",
@@ -352027,7 +356253,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2196,
+   "id": 2212,
    "title": "Cold Hearts",
    "subtitle": "",
    "year": "1999",
@@ -352095,7 +356321,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2197,
+   "id": 2213,
    "title": "Chikyuu Sentai Fiveman",
    "subtitle": "",
    "year": "1990",
@@ -352155,7 +356381,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2198,
+   "id": 2214,
    "title": "Caça Talentos",
    "subtitle": "",
    "year": "1996",
@@ -352217,7 +356443,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2199,
+   "id": 2215,
    "title": "Chaotic Ana",
    "subtitle": "",
    "year": "2007",
@@ -352285,7 +356511,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2200,
+   "id": 2216,
    "title": "Come Home Love: Lo and Behold",
    "subtitle": "",
    "year": "2017",
@@ -352345,7 +356571,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2201,
+   "id": 2217,
    "title": "Crime Time",
    "subtitle": "",
    "year": "",
@@ -352405,7 +356631,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2202,
+   "id": 2218,
    "title": "Con la muerte en los tacones",
    "subtitle": "",
    "year": "2007",
@@ -352469,7 +356695,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2203,
+   "id": 2219,
    "title": "Cuidado con el Angel",
    "subtitle": "",
    "year": "",
@@ -352529,7 +356755,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2204,
+   "id": 2220,
    "title": "Cops and Robbers",
    "subtitle": "",
    "year": "1997–2007",
@@ -352589,7 +356815,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2205,
+   "id": 2221,
    "title": "Curse Of Evil",
    "subtitle": "",
    "year": "1982",
@@ -352649,7 +356875,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2206,
+   "id": 2222,
    "title": "Danger Diva",
    "subtitle": "",
    "year": "2020",
@@ -352711,7 +356937,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2207,
+   "id": 2223,
    "title": "Dark Vision",
    "subtitle": "",
    "year": "2015",
@@ -352780,7 +357006,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2208,
+   "id": 2224,
    "title": "Dennou Boukenki Webdiver",
    "subtitle": "",
    "year": "",
@@ -352842,7 +357068,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2209,
+   "id": 2225,
    "title": "Diagnosis: Murder",
    "subtitle": "",
    "year": "1993–2001",
@@ -352911,7 +357137,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2210,
+   "id": 2226,
    "title": "Detective Anna",
    "subtitle": "",
    "year": "2016–2017",
@@ -352987,7 +357213,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2211,
+   "id": 2227,
    "title": "Dear Dracula",
    "subtitle": "",
    "year": "",
@@ -353047,7 +357273,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2212,
+   "id": 2228,
    "title": "Denshi Sentai Denziman: The Movie",
    "subtitle": "",
    "year": "1980",
@@ -353109,7 +357335,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2213,
+   "id": 2229,
    "title": "Delfy and His Friends",
    "subtitle": "",
    "year": "1992",
@@ -353169,7 +357395,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2214,
+   "id": 2230,
    "title": "DC's Legends of Tomorrow",
    "subtitle": "",
    "year": "2016–2022",
@@ -353231,7 +357457,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2215,
+   "id": 2231,
    "title": "Dracula",
    "subtitle": "",
    "year": "1974",
@@ -353293,7 +357519,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2216,
+   "id": 2232,
    "title": "Doctor Satan Versus Black Magic",
    "subtitle": "",
    "year": "1968",
@@ -353353,7 +357579,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2217,
+   "id": 2233,
    "title": "Dracula in Istanbul",
    "subtitle": "",
    "year": "1953",
@@ -353413,7 +357639,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2218,
+   "id": 2234,
    "title": "Dracula (1931 Spanish Version)",
    "subtitle": "",
    "year": "1931",
@@ -353484,7 +357710,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2219,
+   "id": 2235,
    "title": "Do Not Reply",
    "subtitle": "",
    "year": "2019",
@@ -353579,7 +357805,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2220,
+   "id": 2236,
    "title": "El Combo Amarillo",
    "subtitle": "",
    "year": "2011–2015",
@@ -353639,7 +357865,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2221,
+   "id": 2237,
    "title": "Dracula's Curse",
    "subtitle": "",
    "year": "2006",
@@ -353732,7 +357958,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2222,
+   "id": 2238,
    "title": "Dragnet of Spies",
    "subtitle": "",
    "year": "2019",
@@ -353792,7 +358018,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2223,
+   "id": 2239,
    "title": "Dracula’s Coffin",
    "subtitle": "",
    "year": "2018",
@@ -353854,7 +358080,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2224,
+   "id": 2240,
    "title": "Enamorandome de Ramon",
    "subtitle": "",
    "year": "",
@@ -353914,7 +358140,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2225,
+   "id": 2241,
    "title": "Evil Of Dracula",
    "subtitle": "",
    "year": "1974",
@@ -353976,7 +358202,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2226,
+   "id": 2242,
    "title": "Enigma",
    "subtitle": "",
    "year": "1977",
@@ -354036,7 +358262,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2227,
+   "id": 2243,
    "title": "El Torito",
    "subtitle": "",
    "year": "2015",
@@ -354096,7 +358322,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2228,
+   "id": 2244,
    "title": "Frankenstein, El vampiro y compañia",
    "subtitle": "",
    "year": "",
@@ -354158,7 +358384,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2229,
+   "id": 2245,
    "title": "Gall Force The Revolution",
    "subtitle": "",
    "year": "1996",
@@ -354220,7 +358446,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2230,
+   "id": 2246,
    "title": "Futari wa Pretty Cure",
    "subtitle": "",
    "year": "",
@@ -354280,7 +358506,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2231,
+   "id": 2247,
    "title": "Gawayn",
    "subtitle": "",
    "year": "",
@@ -354342,7 +358568,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2232,
+   "id": 2248,
    "title": "Gallery Of Horrors",
    "subtitle": "",
    "year": "1967",
@@ -354404,7 +358630,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2233,
+   "id": 2249,
    "title": "Gen V",
    "subtitle": "",
    "year": "",
@@ -354464,7 +358690,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2234,
+   "id": 2250,
    "title": "Gym Tony",
    "subtitle": "",
    "year": "2014",
@@ -354524,7 +358750,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2235,
+   "id": 2251,
    "title": "Habitación 503",
    "subtitle": "",
    "year": "1993",
@@ -354584,7 +358810,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2236,
+   "id": 2252,
    "title": "Hermosilla y Quintanilla",
    "subtitle": "",
    "year": "",
@@ -354644,7 +358870,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2237,
+   "id": 2253,
    "title": "I Am a Fugitive",
    "subtitle": "",
    "year": "1946",
@@ -354704,7 +358930,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2238,
+   "id": 2254,
    "title": "I Married A Monster",
    "subtitle": "",
    "year": "",
@@ -354764,7 +358990,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2239,
+   "id": 2255,
    "title": "Invasion USA",
    "subtitle": "",
    "year": "1952",
@@ -354824,7 +359050,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2240,
+   "id": 2256,
    "title": "Jackal",
    "subtitle": "",
    "year": "2022",
@@ -354886,7 +359112,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2241,
+   "id": 2257,
    "title": "Joko Anwar's Nightmares and Daydreams",
    "subtitle": "",
    "year": "2024",
@@ -354948,7 +359174,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2242,
+   "id": 2258,
    "title": "La Escuelita",
    "subtitle": "",
    "year": "2000",
@@ -355008,7 +359234,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2243,
+   "id": 2259,
    "title": "La Pelu",
    "subtitle": "",
    "year": "",
@@ -355068,7 +359294,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2244,
+   "id": 2260,
    "title": "La Traicion",
    "subtitle": "",
    "year": "",
@@ -355130,7 +359356,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2245,
+   "id": 2261,
    "title": "Lois and Clark: The New Adventures of Superman",
    "subtitle": "",
    "year": "1993–1997",
@@ -355190,7 +359416,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2246,
+   "id": 2262,
    "title": "Los Fabu",
    "subtitle": "",
    "year": "",
@@ -355250,7 +359476,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2247,
+   "id": 2263,
    "title": "Los Únicos",
    "subtitle": "",
    "year": "",
@@ -355312,7 +359538,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2248,
+   "id": 2264,
    "title": "Legend Heroes",
    "subtitle": "",
    "year": "2016",
@@ -355374,7 +359600,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2249,
+   "id": 2265,
    "title": "Macross Plus",
    "subtitle": "",
    "year": "2040",
@@ -355434,7 +359660,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2250,
+   "id": 2266,
    "title": "Marvel Disk Wars: The Avengers",
    "subtitle": "",
    "year": "",
@@ -355494,7 +359720,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2251,
+   "id": 2267,
    "title": "Max Steel: Team Turbo Fusion Tek",
    "subtitle": "",
    "year": "2016",
@@ -355554,7 +359780,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2252,
+   "id": 2268,
    "title": "Martial Law",
    "subtitle": "",
    "year": "2008",
@@ -355614,7 +359840,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2253,
+   "id": 2269,
    "title": "Mahou Sentai Magiranger",
    "subtitle": "",
    "year": "",
@@ -355678,7 +359904,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2254,
+   "id": 2270,
    "title": "Mars Needs Women",
    "subtitle": "",
    "year": "1967",
@@ -355747,7 +359973,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2255,
+   "id": 2271,
    "title": "Magnum, PI",
    "subtitle": "",
    "year": "1980–1988",
@@ -355807,7 +360033,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2256,
+   "id": 2272,
    "title": "Mega Man",
    "subtitle": "",
    "year": "1995",
@@ -355869,7 +360095,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2257,
+   "id": 2273,
    "title": "Moby Dick and the Mighty Mightor",
    "subtitle": "",
    "year": "1967",
@@ -355929,7 +360155,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2258,
+   "id": 2274,
    "title": "Monster",
    "subtitle": "",
    "year": "2004",
@@ -355989,7 +360215,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2259,
+   "id": 2275,
    "title": "My Secret Identity",
    "subtitle": "",
    "year": "1988",
@@ -356059,7 +360285,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2260,
+   "id": 2276,
    "title": "Nana Seven of Seven",
    "subtitle": "",
    "year": "2002",
@@ -356121,7 +360347,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2261,
+   "id": 2277,
    "title": "Nurse Witch Komugi",
    "subtitle": "",
    "year": "",
@@ -356183,7 +360409,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2262,
+   "id": 2278,
    "title": "Phantom Quest Corp.",
    "subtitle": "",
    "year": "",
@@ -356243,7 +360469,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2263,
+   "id": 2279,
    "title": "Ore Monogatari!!",
    "subtitle": "",
    "year": "2015",
@@ -356303,7 +360529,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2264,
+   "id": 2280,
    "title": "Pepito y el Monstruo",
    "subtitle": "",
    "year": "1957",
@@ -356363,7 +360589,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2265,
+   "id": 2281,
    "title": "Out For Blood",
    "subtitle": "",
    "year": "2004",
@@ -356574,7 +360800,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2266,
+   "id": 2282,
    "title": "Obras maestras del terror",
    "subtitle": "",
    "year": "1959",
@@ -356634,7 +360860,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2267,
+   "id": 2283,
    "title": "Palabra De Mujer",
    "subtitle": "",
    "year": "",
@@ -356694,7 +360920,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2268,
+   "id": 2284,
    "title": "Planet Dolan",
    "subtitle": "",
    "year": "2010",
@@ -356754,7 +360980,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2269,
+   "id": 2285,
    "title": "Potent Media's Sugar Skull Girls",
    "subtitle": "",
    "year": "",
@@ -356814,7 +361040,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2270,
+   "id": 2286,
    "title": "Power Rangers Super Ninja Steel",
    "subtitle": "",
    "year": "2020",
@@ -356878,7 +361104,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2271,
+   "id": 2287,
    "title": "Rainbow Brite Reboot",
    "subtitle": "",
    "year": "2014",
@@ -356940,7 +361166,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2272,
+   "id": 2288,
    "title": "Prova de Amor",
    "subtitle": "",
    "year": "",
@@ -357000,7 +361226,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2273,
+   "id": 2289,
    "title": "Pucca",
    "subtitle": "",
    "year": "",
@@ -357060,7 +361286,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2274,
+   "id": 2290,
    "title": "Psych-Hunter",
    "subtitle": "",
    "year": "2020",
@@ -357120,7 +361346,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2275,
+   "id": 2291,
    "title": "Ronnie Biddles",
    "subtitle": "",
    "year": "",
@@ -357180,7 +361406,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2276,
+   "id": 2292,
    "title": "Romeo!",
    "subtitle": "",
    "year": "2003–2006",
@@ -357242,7 +361468,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2277,
+   "id": 2293,
    "title": "Rider of the Skulls",
    "subtitle": "",
    "year": "1965",
@@ -357302,7 +361528,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2278,
+   "id": 2294,
    "title": "Senki Zesshō Symphogear G",
    "subtitle": "",
    "year": "",
@@ -357362,7 +361588,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2279,
+   "id": 2295,
    "title": "Seiren",
    "subtitle": "",
    "year": "2015",
@@ -357422,7 +361648,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2280,
+   "id": 2296,
    "title": "Shadowhunters",
    "subtitle": "",
    "year": "2016–2019",
@@ -357492,7 +361718,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2281,
+   "id": 2297,
    "title": "Seven & Me",
    "subtitle": "",
    "year": "2016",
@@ -357552,7 +361778,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2282,
+   "id": 2298,
    "title": "Skylanders Academy",
    "subtitle": "",
    "year": "",
@@ -357612,7 +361838,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2283,
+   "id": 2299,
    "title": "Sleep Attack",
    "subtitle": "",
    "year": "2012",
@@ -357674,7 +361900,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2284,
+   "id": 2300,
    "title": "Sonic Underground",
    "subtitle": "",
    "year": "1998",
@@ -357766,7 +361992,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2285,
+   "id": 2301,
    "title": "Spirou & Fantasio's Big Adventures",
    "subtitle": "",
    "year": "2018",
@@ -357826,7 +362052,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2286,
+   "id": 2302,
    "title": "Space Cobra",
    "subtitle": "",
    "year": "1982–1983",
@@ -357886,7 +362112,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2287,
+   "id": 2303,
    "title": "Starship: Apocalypse",
    "subtitle": "",
    "year": "2015",
@@ -357946,7 +362172,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2288,
+   "id": 2304,
    "title": "Susana y Mariano",
    "subtitle": "",
    "year": "",
@@ -358006,7 +362232,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2289,
+   "id": 2305,
    "title": "Super Models",
    "subtitle": "",
    "year": "1999",
@@ -358158,7 +362384,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2290,
+   "id": 2306,
    "title": "Tears to Tiara",
    "subtitle": "",
    "year": "",
@@ -358218,7 +362444,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2291,
+   "id": 2307,
    "title": "Tetsujin 28-go FX",
    "subtitle": "",
    "year": "",
@@ -358280,7 +362506,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2292,
+   "id": 2308,
    "title": "Tales of Dracula",
    "subtitle": "",
    "year": "2015",
@@ -358340,7 +362566,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2293,
+   "id": 2309,
    "title": "The Blood of Fu Manchu",
    "subtitle": "",
    "year": "",
@@ -358400,7 +362626,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2294,
+   "id": 2310,
    "title": "The Body Beneath",
    "subtitle": "",
    "year": "1970",
@@ -358478,7 +362704,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2295,
+   "id": 2311,
    "title": "The Brainiac",
    "subtitle": "",
    "year": "1962",
@@ -358555,7 +362781,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2296,
+   "id": 2312,
    "title": "The Great Adventurer Wesley",
    "subtitle": "",
    "year": "2018",
@@ -358617,7 +362843,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2297,
+   "id": 2313,
    "title": "The Fugitive",
    "subtitle": "",
    "year": "2011",
@@ -358677,7 +362903,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2298,
+   "id": 2314,
    "title": "The Menkoff Method",
    "subtitle": "",
    "year": "2020",
@@ -358737,7 +362963,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2299,
+   "id": 2315,
    "title": "The Night of the Sorcerers",
    "subtitle": "",
    "year": "1974",
@@ -358815,7 +363041,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2300,
+   "id": 2316,
    "title": "The Three Musketeers Anime",
    "subtitle": "",
    "year": "1987",
@@ -358875,7 +363101,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2301,
+   "id": 2317,
    "title": "The Thundermans",
    "subtitle": "",
    "year": "2013–2018",
@@ -359107,7 +363333,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2302,
+   "id": 2318,
    "title": "Tsukuyomi: Moon Phase",
    "subtitle": "",
    "year": "",
@@ -359169,7 +363395,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2303,
+   "id": 2319,
    "title": "Two of Kind: Spirou & Fantasio",
    "subtitle": "",
    "year": "2006–2007",
@@ -359231,7 +363457,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2304,
+   "id": 2320,
    "title": "Trideviyaan",
    "subtitle": "",
    "year": "2016–2017",
@@ -359304,7 +363530,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2305,
+   "id": 2321,
    "title": "Topa y Muni",
    "subtitle": "",
    "year": "",
@@ -359364,7 +363590,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2306,
+   "id": 2322,
    "title": "Thunderbolt Fantasy",
    "subtitle": "",
    "year": "",
@@ -359424,7 +363650,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2307,
+   "id": 2323,
    "title": "Viper",
    "subtitle": "",
    "year": "1996–1999",
@@ -359484,7 +363710,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2308,
+   "id": 2324,
    "title": "V: The Series",
    "subtitle": "",
    "year": "1984",
@@ -359544,7 +363770,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2309,
+   "id": 2325,
    "title": "Vampires on Bikini Beach",
    "subtitle": "",
    "year": "1988",
@@ -359613,7 +363839,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2310,
+   "id": 2326,
    "title": "Wrestling Women vs. The Aztec Mummy",
    "subtitle": "",
    "year": "1964",
@@ -359675,7 +363901,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2311,
+   "id": 2327,
    "title": "Wild 7",
    "subtitle": "",
    "year": "1972–1973",
@@ -359737,7 +363963,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2312,
+   "id": 2328,
    "title": "Zapping Zone",
    "subtitle": "",
    "year": "2000",
@@ -359797,7 +364023,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2313,
+   "id": 2329,
    "title": "Young-gu and Count Dracula",
    "subtitle": "",
    "year": "1992",
@@ -359859,7 +364085,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2314,
+   "id": 2330,
    "title": "Yo soy Bea",
    "subtitle": "",
    "year": "2006",
@@ -359919,7 +364145,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2315,
+   "id": 2331,
    "title": "The Avengers — \"Love All\"",
    "subtitle": "“Love All” · S06E21",
    "year": "1969",
@@ -359991,7 +364217,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2316,
+   "id": 2332,
    "title": "Magpakailanman",
    "subtitle": "“Magkapatid, Biktima ng Kulto” (Sisters, Victims of a Cult) · 28 Sep 2019",
    "year": "2019",
@@ -360059,7 +364285,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2317,
+   "id": 2333,
    "title": "Denshi Sentai Denziman",
    "subtitle": "ep. 28",
    "year": "1980",
@@ -360123,7 +364349,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2318,
+   "id": 2334,
    "title": "Raise the Red Lantern",
    "subtitle": "大红灯笼高高挂",
    "year": "1991",
@@ -360209,7 +364435,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2319,
+   "id": 2335,
    "title": "Ryan's Daughter",
    "subtitle": "",
    "year": "1970",
@@ -360295,7 +364521,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2320,
+   "id": 2336,
    "title": "Aşk-ı Memnu",
    "subtitle": "Forbidden Love · Bihter / Adnan arc",
    "year": "2008–2010",
@@ -360383,7 +364609,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2321,
+   "id": 2337,
    "title": "Pasión prohibida",
    "subtitle": "Bianca / Ariel arc",
    "year": "2013",
@@ -360469,7 +364695,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2322,
+   "id": 2338,
    "title": "Dil Sambhal Jaa Zara",
    "subtitle": "Ahana / Anant arc",
    "year": "2017–2018",
@@ -360547,7 +364773,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2323,
+   "id": 2339,
    "title": "Yasak Elma",
    "subtitle": "Forbidden Fruit · Yıldız / Halit arc",
    "year": "2018–2023",
@@ -360625,7 +364851,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2324,
+   "id": 2340,
    "title": "Dynasty",
    "subtitle": "Krystle / Blake Carrington arc",
    "year": "1981–1989",
@@ -360713,7 +364939,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2325,
+   "id": 2341,
    "title": "Dynasty",
    "subtitle": "Season 2 · Cristal / Blake arc",
    "year": "2017–2022",
@@ -360801,7 +365027,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2326,
+   "id": 2342,
    "title": "The Bold and the Beautiful",
    "subtitle": "Brooke / Eric Forrester arc",
    "year": "1987–",
@@ -360889,7 +365115,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2327,
+   "id": 2343,
    "title": "The Young and the Restless",
    "subtitle": "Jill / Phillip Chancellor II arc",
    "year": "1973–",
@@ -360975,7 +365201,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2328,
+   "id": 2344,
    "title": "Emmerdale",
    "subtitle": "Kim / Frank Tate arc",
    "year": "1989–1999",
@@ -361055,7 +365281,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2329,
+   "id": 2345,
    "title": "Coronation Street",
    "subtitle": "Linda Sykes / Mike Baldwin arc",
    "year": "1999–2001",
@@ -361141,7 +365367,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2330,
+   "id": 2346,
    "title": "Modern Family",
    "subtitle": "Gloria / Jay Pritchett marriage arc",
    "year": "2009–2020",
@@ -361231,7 +365457,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2331,
+   "id": 2347,
    "title": "Mad Men",
    "subtitle": "Jane / Roger Sterling arc",
    "year": "2009–2012",
@@ -361309,7 +365535,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2332,
+   "id": 2348,
    "title": "Tristana",
    "subtitle": "",
    "year": "1970",
@@ -361395,7 +365621,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2333,
+   "id": 2349,
    "title": "Bihter",
    "subtitle": "",
    "year": "2023",
@@ -361481,7 +365707,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2334,
+   "id": 2350,
    "title": "All My Children",
    "subtitle": "Dixie Cooney / Adam Chandler arc",
    "year": "1988–1989",
@@ -361567,7 +365793,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2335,
+   "id": 2351,
    "title": "Guiding Light",
    "subtitle": "Reva Shayne / H.B. Lewis arc",
    "year": "1984–1985",
@@ -361663,7 +365889,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2336,
+   "id": 2352,
    "title": "Diagnosis: Murder",
    "subtitle": "S04E19 · “Delusions of Murder”",
    "year": "1997",
@@ -361971,7 +366197,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2337,
+   "id": 2353,
    "title": "Imago",
    "subtitle": "To Be Free",
    "year": "1970",
@@ -362069,7 +366295,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2338,
+   "id": 2354,
    "title": "The Hunger",
    "subtitle": "S1E12 · “The Sloan Men”",
    "year": "1997",
@@ -362200,7 +366426,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2339,
+   "id": 2355,
    "title": "Desperate Housewives",
    "subtitle": "Season 4 · Susan / Mike · M.J. pregnancy",
    "year": "2007–08",
@@ -362303,7 +366529,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2340,
+   "id": 2356,
    "title": "Parenthood",
    "subtitle": "Kristina / Adam · Nora pregnancy (Seasons 2–3)",
    "year": "2011",
@@ -362404,7 +366630,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2341,
+   "id": 2357,
    "title": "Parenthood",
    "subtitle": "Karen / Gil and Helen pregnancies",
    "year": "1989",
@@ -362501,7 +366727,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2342,
+   "id": 2358,
    "title": "Jane the Virgin",
    "subtitle": "Xiomara / Esteban pregnancy (S2 finale – S3E2 “Chapter Forty-Six”)",
    "year": "2016",
@@ -362630,7 +366856,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2343,
+   "id": 2359,
    "title": "Scenes from a Marriage",
    "subtitle": "Scener ur ett äktenskap · Episode 1 “Innocence and Panic”",
    "year": "1973",
@@ -362737,7 +366963,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2344,
+   "id": 2360,
    "title": "Scenes from a Marriage",
    "subtitle": "HBO miniseries · Episode 1 “Innocence and Panic”",
    "year": "2021",
@@ -362852,7 +367078,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2345,
+   "id": 2361,
    "title": "Raped by an Angel 3: Sexual Fantasy of the Chief Executive (強姦3OL誘惑)",
    "subtitle": "",
    "year": "1998",
@@ -362942,7 +367168,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2346,
+   "id": 2362,
    "title": "Le Déclic / The Click",
    "subtitle": "",
    "year": "1985",
@@ -363045,7 +367271,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2347,
+   "id": 2363,
    "title": "Wanda, the Sadistic Hypnotist / The Sadistic Hypnotist",
    "subtitle": "",
    "year": "1969",
@@ -363146,7 +367372,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2348,
+   "id": 2364,
    "title": "Twisted Fiction",
    "subtitle": "Segment 1 (“Mind F**k”)",
    "year": "2023",
@@ -363239,7 +367465,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2349,
+   "id": 2365,
    "title": "Hypnotic Passions",
    "subtitle": "",
    "year": "1993",
@@ -363319,7 +367545,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2350,
+   "id": 2366,
    "title": "Hypno Sex",
    "subtitle": "",
    "year": "1996",
@@ -363399,7 +367625,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2351,
+   "id": 2367,
    "title": "Patrick Still Lives / Patrick vive ancora",
    "subtitle": "",
    "year": "1980",
@@ -363502,7 +367728,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2352,
+   "id": 2368,
    "title": "Night Train to Terror",
    "subtitle": "Segment “The Case of Harry Billings”",
    "year": "1985",
@@ -363608,7 +367834,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2353,
+   "id": 2369,
    "title": "형사 (TBC) — summer horror special “얼굴없는 미녀”",
    "subtitle": "",
    "year": "1980",
@@ -363714,7 +367940,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2354,
+   "id": 2370,
    "title": "Marley & Me",
    "subtitle": "",
    "year": "2008",
@@ -363793,7 +368019,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2355,
+   "id": 2371,
    "title": "The Five-Year Engagement",
    "subtitle": "",
    "year": "2012",
@@ -363872,7 +368098,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2356,
+   "id": 2372,
    "title": "Fifty Shades Freed",
    "subtitle": "",
    "year": "2018",
@@ -363951,7 +368177,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2357,
+   "id": 2373,
    "title": "Furious 7",
    "subtitle": "",
    "year": "2015",
@@ -364030,7 +368256,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2358,
+   "id": 2374,
    "title": "Ip Man 2",
    "subtitle": "",
    "year": "2010",
@@ -364109,7 +368335,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2359,
+   "id": 2375,
    "title": "Patriot Games",
    "subtitle": "",
    "year": "1992",
@@ -364188,7 +368414,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2360,
+   "id": 2376,
    "title": "Dragon: The Bruce Lee Story",
    "subtitle": "",
    "year": "1993",
@@ -364267,7 +368493,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2361,
+   "id": 2377,
    "title": "Ordet",
    "subtitle": "",
    "year": "1955",
@@ -364346,7 +368572,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2362,
+   "id": 2378,
    "title": "The Rose Tattoo",
    "subtitle": "",
    "year": "1955",
@@ -364425,7 +368651,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2363,
+   "id": 2379,
    "title": "The Case for Christ",
    "subtitle": "",
    "year": "2017",
@@ -364504,7 +368730,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2364,
+   "id": 2380,
    "title": "Starfish",
    "subtitle": "",
    "year": "2016",
@@ -364583,7 +368809,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2365,
+   "id": 2381,
    "title": "Ugly Me",
    "subtitle": "",
    "year": "2006",
@@ -364662,7 +368888,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2366,
+   "id": 2382,
    "title": "Weekend in Taipei",
    "subtitle": "",
    "year": "2024",
@@ -364741,7 +368967,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2367,
+   "id": 2383,
    "title": "Shadow Force",
    "subtitle": "",
    "year": "2025",
@@ -364820,7 +369046,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2368,
+   "id": 2384,
    "title": "Sharknado 3: Oh Hell No!",
    "subtitle": "",
    "year": "2015",
@@ -364899,7 +369125,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2369,
+   "id": 2385,
    "title": "Son of the Mask",
    "subtitle": "",
    "year": "2005",
@@ -364978,7 +369204,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2370,
+   "id": 2386,
    "title": "My Blue Heaven",
    "subtitle": "",
    "year": "1950",
@@ -365059,7 +369285,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2371,
+   "id": 2387,
    "title": "Gangs of Wasseypur – Part 1",
    "subtitle": "",
    "year": "2012",
@@ -365138,7 +369364,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2372,
+   "id": 2388,
    "title": "The Iron Claw",
    "subtitle": "",
    "year": "2023",
@@ -365217,7 +369443,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2373,
+   "id": 2389,
    "title": "In Good Company",
    "subtitle": "",
    "year": "2004",
@@ -365296,7 +369522,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2374,
+   "id": 2390,
    "title": "Nine Months",
    "subtitle": "",
    "year": "1995",
@@ -365377,7 +369603,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2375,
+   "id": 2391,
    "title": "The Legend of Paul and Paula",
    "subtitle": "",
    "year": "1973",
@@ -365458,7 +369684,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2376,
+   "id": 2392,
    "title": "Yesterday, Today and Tomorrow",
    "subtitle": "",
    "year": "1963",
@@ -365537,7 +369763,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2377,
+   "id": 2393,
    "title": "Veetla Vishesham",
    "subtitle": "",
    "year": "2022",
@@ -365616,7 +369842,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2378,
+   "id": 2394,
    "title": "What to Expect When You're Expecting",
    "subtitle": "",
    "year": "2012",
@@ -365695,7 +369921,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2379,
+   "id": 2395,
    "title": "Tully",
    "subtitle": "",
    "year": "2018",
@@ -365774,7 +370000,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2380,
+   "id": 2396,
    "title": "Jhankaar Beats",
    "subtitle": "",
    "year": "2003",
@@ -365853,7 +370079,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2381,
+   "id": 2397,
    "title": "Sakal, Sakali, Saklolo",
    "subtitle": "",
    "year": "2007",
@@ -365932,7 +370158,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2382,
+   "id": 2398,
    "title": "Bewitched",
    "subtitle": "Season 5–6",
    "year": "1969",
@@ -366012,7 +370238,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2383,
+   "id": 2399,
    "title": "The Office",
    "subtitle": "Season 8",
    "year": "2011–12",
@@ -366092,7 +370318,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2384,
+   "id": 2400,
    "title": "Friday Night Lights",
    "subtitle": "Season 5 — Billy & Mindy",
    "year": "2010–11",
@@ -366172,7 +370398,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2385,
+   "id": 2401,
    "title": "Gilmore Girls",
    "subtitle": "Season 5",
    "year": "2004–05",
@@ -366260,7 +370486,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2386,
+   "id": 2402,
    "title": "Marriage Lines",
    "subtitle": "",
    "year": "1966",
@@ -366339,7 +370565,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2387,
+   "id": 2403,
    "title": "One Tree Hill",
    "subtitle": "Season 8",
    "year": "2010–11",
@@ -366419,7 +370645,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2388,
+   "id": 2404,
    "title": "The Last Man on Earth",
    "subtitle": "Season 4",
    "year": "2018",
@@ -366499,7 +370725,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2389,
+   "id": 2405,
    "title": "Charmed",
    "subtitle": "\"Forever Charmed\"",
    "year": "2006",
@@ -366579,7 +370805,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2390,
+   "id": 2406,
    "title": "Shameless",
    "subtitle": "Season 11",
    "year": "2021",
@@ -366659,7 +370885,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2391,
+   "id": 2407,
    "title": "Sons of Anarchy",
    "subtitle": "Season 3–4",
    "year": "2010–11",
@@ -366739,7 +370965,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2392,
+   "id": 2408,
    "title": "The Walking Dead",
    "subtitle": "Season 2–3",
    "year": "2011–12",
@@ -366819,7 +371045,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2393,
+   "id": 2409,
    "title": "Kiralık Aşk",
    "subtitle": "Finale",
    "year": "2017",
@@ -366899,7 +371125,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2394,
+   "id": 2410,
    "title": "Kuruluş: Osman",
    "subtitle": "Season 3–4",
    "year": "2021–22",
@@ -366979,7 +371205,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2395,
+   "id": 2411,
    "title": "Oshin",
    "subtitle": "",
    "year": "1983",
@@ -367058,7 +371284,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2396,
+   "id": 2412,
    "title": "Kuch Rang Pyar Ke Aise Bhi",
    "subtitle": "",
    "year": "2016–2021",
@@ -367137,7 +371363,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2397,
+   "id": 2413,
    "title": "Saath Nibhaana Saathiya",
    "subtitle": "",
    "year": "2010–2017",
@@ -367216,7 +371442,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2398,
+   "id": 2414,
    "title": "Athmasakhi",
    "subtitle": "",
    "year": "2016–2018",
@@ -367297,7 +371523,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2399,
+   "id": 2415,
    "title": "María la del Barrio",
    "subtitle": "",
    "year": "1995",
@@ -367376,7 +371602,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2400,
+   "id": 2416,
    "title": "Solsidan",
    "subtitle": "Season 3",
    "year": "2012",
@@ -367456,7 +371682,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2401,
+   "id": 2417,
    "title": "The Unit",
    "subtitle": "Season 4",
    "year": "2009",
@@ -367536,7 +371762,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2402,
+   "id": 2418,
    "title": "Falling Skies",
    "subtitle": "Season 5 finale",
    "year": "2015",
@@ -367616,7 +371842,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2403,
+   "id": 2419,
    "title": "Brotherhood",
    "subtitle": "Season 3",
    "year": "2008",
@@ -367696,7 +371922,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2404,
+   "id": 2420,
    "title": "Petticoat Junction",
    "subtitle": "",
    "year": "1969",
@@ -367775,7 +372001,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2405,
+   "id": 2421,
    "title": "EastEnders",
    "subtitle": "Pauline & Arthur Fowler",
    "year": "1985",
@@ -367855,7 +372081,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2406,
+   "id": 2422,
    "title": "EastEnders",
    "subtitle": "Honey & Billy Mitchell",
    "year": "2007",
@@ -367935,7 +372161,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2407,
+   "id": 2423,
    "title": "EastEnders",
    "subtitle": "Kat & Alfie Moon",
    "year": "2010",
@@ -368015,7 +372241,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2408,
+   "id": 2424,
    "title": "Coronation Street",
    "subtitle": "Sally & Kevin Webster",
    "year": "1994",
@@ -368095,7 +372321,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2409,
+   "id": 2425,
    "title": "Emmerdale",
    "subtitle": "Chas & Paddy",
    "year": "2018–19",
@@ -368183,7 +372409,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2410,
+   "id": 2426,
    "title": "Home and Away",
    "subtitle": "Pippa & Michael Ross",
    "year": "1991–92",
@@ -368265,7 +372491,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2411,
+   "id": 2427,
    "title": "General Hospital",
    "subtitle": "Frisco & Felicia",
    "year": "1994–95",
@@ -368345,7 +372571,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2412,
+   "id": 2428,
    "title": "General Hospital",
    "subtitle": "Carly & Jax",
    "year": "2009",
@@ -368425,7 +372651,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2413,
+   "id": 2429,
    "title": "Days of Our Lives",
    "subtitle": "Bo & Hope",
    "year": "2006–07",
@@ -368505,7 +372731,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2414,
+   "id": 2430,
    "title": "One Life to Live",
    "subtitle": "Marcie & Michael",
    "year": "2011",
@@ -368585,7 +372811,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2415,
+   "id": 2431,
    "title": "ER",
    "subtitle": "Kerry Weaver and Sandy Lopez arc",
    "year": "2003–2004",
@@ -368741,7 +372967,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2416,
+   "id": 2432,
    "title": "Grey's Anatomy",
    "subtitle": "Callie Torres and Arizona Robbins arc",
    "year": "2011–2014",
@@ -368941,7 +373167,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2417,
+   "id": 2433,
    "title": "Friends",
    "subtitle": "Carol Willick and Susan Bunch pregnancy arc",
    "year": "1994–1995",
@@ -369071,7 +373297,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2418,
+   "id": 2434,
    "title": "Queer as Folk",
    "subtitle": "US series · Melanie Marcus and Lindsay Peterson second baby",
    "year": "2003–2004",
@@ -369251,7 +373477,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2419,
+   "id": 2435,
    "title": "Queer as Folk",
    "subtitle": "UK series · Romey Sullivan and Lisa Levene",
    "year": "1999",
@@ -369347,7 +373573,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2420,
+   "id": 2436,
    "title": "Hospital Central",
    "subtitle": "Maca and Esther (Telecinco)",
    "year": "2006",
@@ -369463,7 +373689,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2421,
+   "id": 2437,
    "title": "Hollyoaks",
    "subtitle": "Esther Bloom and Kim Butterfield surrogacy arc",
    "year": "2015",
@@ -369551,7 +373777,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2422,
+   "id": 2438,
    "title": "Neighbours",
    "subtitle": "Nicolette Stone and Chloe Brennan · surrogacy arc",
    "year": "2020–2021",
@@ -369639,7 +373865,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2423,
+   "id": 2439,
    "title": "Guiding Light",
    "subtitle": "Olivia Spencer and Natalia Rivera (“Otalia”)",
    "year": "2008–2009",
@@ -369755,7 +373981,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2424,
+   "id": 2440,
    "title": "All My Children",
    "subtitle": "Bianca Montgomery and Reese Williams · Gabrielle",
    "year": "2008",
@@ -369865,7 +374091,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2425,
+   "id": 2441,
    "title": "Amar en tiempos revueltos",
    "subtitle": "Teresa and Ana (season 5)",
    "year": "2010",
@@ -369937,7 +374163,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2426,
+   "id": 2442,
    "title": "Entre Nous",
    "subtitle": "",
    "year": "2021",
@@ -370013,7 +374239,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2427,
+   "id": 2443,
    "title": "Hercules in the Haunted World",
    "subtitle": "Ercole al centro della Terra",
    "year": "1961",
@@ -370119,7 +374345,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2428,
+   "id": 2444,
    "title": "Shrek 2",
    "subtitle": "",
    "year": "2004",
@@ -370206,7 +374432,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2429,
+   "id": 2445,
    "title": "Merlin",
    "subtitle": "",
    "year": "2008–12",
@@ -370325,7 +374551,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2430,
+   "id": 2446,
    "title": "Anastasia",
    "subtitle": "",
    "year": "1997",
@@ -370412,7 +374638,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2431,
+   "id": 2447,
    "title": "Captain Thunder",
    "subtitle": "El Capitán Trueno y el Santo Grial",
    "year": "2011",
@@ -370502,7 +374728,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2432,
+   "id": 2448,
    "title": "Hercules Against the Moon Men",
    "subtitle": "Maciste e la regina di Samar",
    "year": "1964",
@@ -370584,7 +374810,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2433,
+   "id": 2449,
    "title": "Alif Laila",
    "subtitle": "",
    "year": "1993–97",
@@ -370701,7 +374927,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2434,
+   "id": 2450,
    "title": "Galtar and the Golden Lance",
    "subtitle": "",
    "year": "1985–86",
@@ -370804,7 +375030,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2435,
+   "id": 2451,
    "title": "Venus in Furs",
    "subtitle": "",
    "year": "1969",
@@ -370885,7 +375111,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2436,
+   "id": 2452,
    "title": "Last Tango in Paris",
    "subtitle": "",
    "year": "1972",
@@ -370966,7 +375192,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2437,
+   "id": 2453,
    "title": "The Teacher",
    "subtitle": "",
    "year": "1974",
@@ -371047,7 +375273,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2438,
+   "id": 2454,
    "title": "Dressed to Kill",
    "subtitle": "",
    "year": "1980",
@@ -371135,7 +375361,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2439,
+   "id": 2455,
    "title": "American Nightmare",
    "subtitle": "",
    "year": "1983",
@@ -371216,7 +375442,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2440,
+   "id": 2456,
    "title": "Blind Date",
    "subtitle": "",
    "year": "1984",
@@ -371304,7 +375530,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2441,
+   "id": 2457,
    "title": "Crimes of Passion",
    "subtitle": "",
    "year": "1984",
@@ -371392,7 +375618,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2442,
+   "id": 2458,
    "title": "The Bedroom Window",
    "subtitle": "",
    "year": "1987",
@@ -371473,7 +375699,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2443,
+   "id": 2459,
    "title": "Five Corners",
    "subtitle": "",
    "year": "1987",
@@ -371561,7 +375787,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2444,
+   "id": 2460,
    "title": "Summer Heat",
    "subtitle": "",
    "year": "1987",
@@ -371649,7 +375875,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2445,
+   "id": 2461,
    "title": "Call Me",
    "subtitle": "",
    "year": "1988",
@@ -371730,7 +375956,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2446,
+   "id": 2462,
    "title": "The Girl in a Swing",
    "subtitle": "",
    "year": "1988",
@@ -371811,7 +376037,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2447,
+   "id": 2463,
    "title": "Masquerade",
    "subtitle": "",
    "year": "1988",
@@ -371892,7 +376118,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2448,
+   "id": 2464,
    "title": "Party Line",
    "subtitle": "",
    "year": "1988",
@@ -371980,7 +376206,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2449,
+   "id": 2465,
    "title": "Jezebel's Kiss",
    "subtitle": "",
    "year": "1990",
@@ -372061,7 +376287,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2450,
+   "id": 2466,
    "title": "Fatal Bond",
    "subtitle": "",
    "year": "1991",
@@ -372149,7 +376375,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2451,
+   "id": 2467,
    "title": "Shattered",
    "subtitle": "",
    "year": "1991",
@@ -372230,7 +376456,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2452,
+   "id": 2468,
    "title": "Animal Instincts",
    "subtitle": "",
    "year": "1992",
@@ -372311,7 +376537,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2453,
+   "id": 2469,
    "title": "Single White Female",
    "subtitle": "",
    "year": "1992",
@@ -372392,7 +376618,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2454,
+   "id": 2470,
    "title": "Betrayal of the Dove",
    "subtitle": "",
    "year": "1993",
@@ -372473,7 +376699,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2455,
+   "id": 2471,
    "title": "Dream Lover",
    "subtitle": "",
    "year": "1993",
@@ -372554,7 +376780,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2456,
+   "id": 2472,
    "title": "A House in the Hills",
    "subtitle": "",
    "year": "1993",
@@ -372635,7 +376861,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2457,
+   "id": 2473,
    "title": "Romeo Is Bleeding",
    "subtitle": "",
    "year": "1993",
@@ -372716,7 +376942,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2458,
+   "id": 2474,
    "title": "Sins of Desire",
    "subtitle": "",
    "year": "1993",
@@ -372797,7 +377023,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2459,
+   "id": 2475,
    "title": "China Moon",
    "subtitle": "",
    "year": "1994",
@@ -372885,7 +377111,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2460,
+   "id": 2476,
    "title": "Dangerous Touch",
    "subtitle": "",
    "year": "1994",
@@ -372966,7 +377192,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2461,
+   "id": 2477,
    "title": "Love Is a Gun",
    "subtitle": "",
    "year": "1994",
@@ -373047,7 +377273,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2462,
+   "id": 2478,
    "title": "The Maddening",
    "subtitle": "",
    "year": "1995",
@@ -373128,7 +377354,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2463,
+   "id": 2479,
    "title": "Mirror, Mirror III: The Voyeur",
    "subtitle": "",
    "year": "1995",
@@ -373209,7 +377435,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2464,
+   "id": 2480,
    "title": "Exit in Red",
    "subtitle": "",
    "year": "1996",
@@ -373290,7 +377516,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2465,
+   "id": 2481,
    "title": "Naked Souls",
    "subtitle": "",
    "year": "1996",
@@ -373371,7 +377597,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2466,
+   "id": 2482,
    "title": "This World, Then the Fireworks",
    "subtitle": "",
    "year": "1997",
@@ -373452,7 +377678,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2467,
+   "id": 2483,
    "title": "New Rose Hotel",
    "subtitle": "",
    "year": "1998",
@@ -373540,7 +377766,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2468,
+   "id": 2484,
    "title": "Zebra Lounge",
    "subtitle": "",
    "year": "2001",
@@ -373621,7 +377847,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2469,
+   "id": 2485,
    "title": "Killing Me Softly",
    "subtitle": "",
    "year": "2002",
@@ -373702,7 +377928,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2470,
+   "id": 2486,
    "title": "Trois 2: Pandora's Box",
    "subtitle": "",
    "year": "2002",
@@ -373790,7 +378016,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2471,
+   "id": 2487,
    "title": "Dot the i",
    "subtitle": "",
    "year": "2003",
@@ -373878,7 +378104,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2472,
+   "id": 2488,
    "title": "Decoys",
    "subtitle": "",
    "year": "2004",
@@ -373966,7 +378192,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2473,
+   "id": 2489,
    "title": "Boarding Gate",
    "subtitle": "",
    "year": "2007",
@@ -374047,7 +378273,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2474,
+   "id": 2490,
    "title": "Chloe",
    "subtitle": "",
    "year": "2009",
@@ -374128,7 +378354,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2475,
+   "id": 2491,
    "title": "The Skin I Live In",
    "subtitle": "",
    "year": "2011",
@@ -374209,7 +378435,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2476,
+   "id": 2492,
    "title": "Plush",
    "subtitle": "",
    "year": "2013",
@@ -374297,7 +378523,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2477,
+   "id": 2493,
    "title": "Innocent Thing",
    "subtitle": "",
    "year": "2014",
@@ -374385,7 +378611,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2478,
+   "id": 2494,
    "title": "The Loft",
    "subtitle": "",
    "year": "2014",
@@ -374473,7 +378699,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2479,
+   "id": 2495,
    "title": "Careful What You Wish For",
    "subtitle": "",
    "year": "2015",
@@ -374561,7 +378787,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2480,
+   "id": 2496,
    "title": "Fatale",
    "subtitle": "",
    "year": "2020",
@@ -374642,7 +378868,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2481,
+   "id": 2497,
    "title": "The Voyeurs",
    "subtitle": "",
    "year": "2021",
@@ -374723,7 +378949,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2482,
+   "id": 2498,
    "title": "Lady Chatterley's Lover",
    "subtitle": "",
    "year": "1981",
@@ -374804,7 +379030,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2483,
+   "id": 2499,
    "title": "The Story of O",
    "subtitle": "",
    "year": "1975",
@@ -374885,7 +379111,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2484,
+   "id": 2500,
    "title": "Mortal Passions",
    "subtitle": "",
    "year": "1989",
@@ -374966,7 +379192,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2485,
+   "id": 2501,
    "title": "Red Shoe Diaries",
    "subtitle": "",
    "year": "1992",
@@ -375047,7 +379273,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2486,
+   "id": 2502,
    "title": "Macabre",
    "subtitle": "",
    "year": "1980",
@@ -375135,7 +379361,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2487,
+   "id": 2503,
    "title": "The Seduction",
    "subtitle": "",
    "year": "1982",
@@ -375223,7 +379449,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2488,
+   "id": 2504,
    "title": "The Hunger",
    "subtitle": "",
    "year": "1983",
@@ -375304,7 +379530,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2489,
+   "id": 2505,
    "title": "Body Double",
    "subtitle": "",
    "year": "1984",
@@ -375392,7 +379618,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2490,
+   "id": 2506,
    "title": "Fear City",
    "subtitle": "",
    "year": "1984",
@@ -375480,7 +379706,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2491,
+   "id": 2507,
    "title": "Jagged Edge",
    "subtitle": "",
    "year": "1985",
@@ -375561,7 +379787,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2492,
+   "id": 2508,
    "title": "52 Pick-Up",
    "subtitle": "",
    "year": "1986",
@@ -375649,7 +379875,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2493,
+   "id": 2509,
    "title": "Slam Dance",
    "subtitle": "",
    "year": "1987",
@@ -375730,7 +379956,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2494,
+   "id": 2510,
    "title": "Stripped to Kill",
    "subtitle": "",
    "year": "1987",
@@ -375811,7 +380037,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2495,
+   "id": 2511,
    "title": "Dangerous Love",
    "subtitle": "",
    "year": "1988",
@@ -375892,7 +380118,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2496,
+   "id": 2512,
    "title": "The Drifter",
    "subtitle": "",
    "year": "1988",
@@ -375973,7 +380199,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2497,
+   "id": 2513,
    "title": "Grievous Bodily Harm",
    "subtitle": "",
    "year": "1988",
@@ -376054,7 +380280,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2498,
+   "id": 2514,
    "title": "Last Rites",
    "subtitle": "",
    "year": "1988",
@@ -376142,7 +380368,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2499,
+   "id": 2515,
    "title": "Spellbinder",
    "subtitle": "",
    "year": "1988",
@@ -376230,7 +380456,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2500,
+   "id": 2516,
    "title": "Kill Me Again",
    "subtitle": "",
    "year": "1989",
@@ -376318,7 +380544,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2501,
+   "id": 2517,
    "title": "Twisted Obsession",
    "subtitle": "",
    "year": "1989",
@@ -376406,7 +380632,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2502,
+   "id": 2518,
    "title": "After Dark, My Sweet",
    "subtitle": "",
    "year": "1990",
@@ -376487,7 +380713,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2503,
+   "id": 2519,
    "title": "Deceptions",
    "subtitle": "",
    "year": "1990",
@@ -376575,7 +380801,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2504,
+   "id": 2520,
    "title": "Fatal Charm",
    "subtitle": "",
    "year": "1990",
@@ -376656,7 +380882,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2505,
+   "id": 2521,
    "title": "The Hot Spot",
    "subtitle": "",
    "year": "1990",
@@ -376737,7 +380963,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2506,
+   "id": 2522,
    "title": "Lower Level",
    "subtitle": "",
    "year": "1991",
@@ -376818,7 +381044,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2507,
+   "id": 2523,
    "title": "Whore",
    "subtitle": "",
    "year": "1991",
@@ -376899,7 +381125,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2508,
+   "id": 2524,
    "title": "Body Chemistry II: Voice of a Stranger",
    "subtitle": "",
    "year": "1992",
@@ -376980,7 +381206,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2509,
+   "id": 2525,
    "title": "Dance with Death",
    "subtitle": "",
    "year": "1992",
@@ -377061,7 +381287,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2510,
+   "id": 2526,
    "title": "Acting on Impulse",
    "subtitle": "",
    "year": "1993",
@@ -377149,7 +381375,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2511,
+   "id": 2527,
    "title": "Body of Evidence",
    "subtitle": "",
    "year": "1993",
@@ -377230,7 +381456,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2512,
+   "id": 2528,
    "title": "Hexed",
    "subtitle": "",
    "year": "1993",
@@ -377318,7 +381544,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2513,
+   "id": 2529,
    "title": "Snapdragon",
    "subtitle": "",
    "year": "1993",
@@ -377399,7 +381625,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2514,
+   "id": 2530,
    "title": "Criminal Passion",
    "subtitle": "",
    "year": "1994",
@@ -377487,7 +381713,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2515,
+   "id": 2531,
    "title": "Fleshtone",
    "subtitle": "",
    "year": "1994",
@@ -377568,7 +381794,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2516,
+   "id": 2532,
    "title": "The Last Seduction",
    "subtitle": "",
    "year": "1994",
@@ -377656,7 +381882,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2517,
+   "id": 2533,
    "title": "Beyond Desire",
    "subtitle": "",
    "year": "1995",
@@ -377737,7 +381963,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2518,
+   "id": 2534,
    "title": "Never Talk to Strangers",
    "subtitle": "",
    "year": "1995",
@@ -377818,7 +382044,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2519,
+   "id": 2535,
    "title": "Showgirls",
    "subtitle": "",
    "year": "1995",
@@ -377899,7 +382125,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2520,
+   "id": 2536,
    "title": "To the Limit",
    "subtitle": "",
    "year": "1995",
@@ -377987,7 +382213,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2521,
+   "id": 2537,
    "title": "Wild Side",
    "subtitle": "",
    "year": "1995",
@@ -378075,7 +382301,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2522,
+   "id": 2538,
    "title": "The Juror",
    "subtitle": "",
    "year": "1996",
@@ -378156,7 +382382,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2523,
+   "id": 2539,
    "title": "The Ex",
    "subtitle": "",
    "year": "1997",
@@ -378237,7 +382463,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2524,
+   "id": 2540,
    "title": "The Last Seduction II",
    "subtitle": "",
    "year": "1999",
@@ -378318,7 +382544,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2525,
+   "id": 2541,
    "title": "Raw Nerve",
    "subtitle": "",
    "year": "1999",
@@ -378406,7 +382632,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2526,
+   "id": 2542,
    "title": "Mercy",
    "subtitle": "",
    "year": "2000",
@@ -378487,7 +382713,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2527,
+   "id": 2543,
    "title": "Trois",
    "subtitle": "",
    "year": "2000",
@@ -378568,7 +382794,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2528,
+   "id": 2544,
    "title": "Cold Heart",
    "subtitle": "",
    "year": "2001",
@@ -378656,7 +382882,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2529,
+   "id": 2545,
    "title": "Lantana",
    "subtitle": "",
    "year": "2001",
@@ -378744,7 +382970,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2530,
+   "id": 2546,
    "title": "Thy Neighbor's Wife",
    "subtitle": "",
    "year": "2001",
@@ -378832,7 +383058,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2531,
+   "id": 2547,
    "title": "Femme Fatale",
    "subtitle": "",
    "year": "2002",
@@ -378920,7 +383146,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2532,
+   "id": 2548,
    "title": "Motives",
    "subtitle": "",
    "year": "2004",
@@ -379001,7 +383227,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2533,
+   "id": 2549,
    "title": "Where the Truth Lies",
    "subtitle": "",
    "year": "2005",
@@ -379082,7 +383308,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2534,
+   "id": 2550,
    "title": "Passion",
    "subtitle": "",
    "year": "2012",
@@ -379163,7 +383389,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2535,
+   "id": 2551,
    "title": "The Canyons",
    "subtitle": "",
    "year": "2013",
@@ -379251,7 +383477,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2536,
+   "id": 2552,
    "title": "Evil Lurks",
    "subtitle": "",
    "year": "2023",
@@ -379732,7 +383958,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2158,
+       "id": 2174,
        "tags": [
         "Verified",
         "Infertility / trouble conceiving → adoption → pregnancy"
@@ -379773,7 +383999,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2370,
+       "id": 2386,
        "from_source": "kids-pregnant-again"
       }
      ],
@@ -380096,6 +384322,18 @@ window.CATALOG = {
        "from_source": "xla62ucxbx02u5"
       },
       {
+       "id": 701,
+       "tags": [
+        "Adult female hypnosis — R-rated-equivalent worldwide",
+        "Wife / female character forcibly hypnotized to obey",
+        "Doctor hypnotizes female characters for personal gain",
+        "Hypnotized woman intimate with the hypnotist or the man he directs",
+        "Comedy, light stories and historical demonstrations",
+        "High confidence"
+       ],
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
        "id": 650,
        "tags": [
         "Adult female hypnosis — R-rated-equivalent worldwide",
@@ -380175,6 +384413,7 @@ window.CATALOG = {
         "Medical / therapeutic hypnosis",
         "Adult female hypnosis — R-rated-equivalent worldwide",
         "Wife / female character forcibly hypnotized to obey",
+        "Doctor hypnotizes female characters for personal gain",
         "Hypnosis",
         "Corroborated · 4 sources"
        ],
@@ -380209,6 +384448,7 @@ window.CATALOG = {
         "Adult female hypnosis — R-rated-equivalent worldwide",
         "Hypnotized to love",
         "Medical / therapeutic hypnosis",
+        "Doctor hypnotizes female characters for personal gain",
         "Post-hypnotic trigger / murderous concealment",
         "High confidence"
        ],
@@ -380219,6 +384459,7 @@ window.CATALOG = {
        "tags": [
         "Adult female hypnosis — R-rated-equivalent worldwide",
         "Human-villain control",
+        "Doctor hypnotizes female characters for personal gain",
         "Hypnotherapist or doctor manipulates a female patient",
         "High confidence"
        ],
@@ -380236,6 +384477,7 @@ window.CATALOG = {
         "Hypnotized / controlled into infidelity",
         "Medical / therapeutic hypnosis",
         "Human-villain control",
+        "Doctor hypnotizes female characters for personal gain",
         "Deep hypnosis / therapist boundary violation",
         "High confidence"
        ],
@@ -380400,6 +384642,32 @@ window.CATALOG = {
        "from_source": "xla62ucxbx02u5"
       },
       {
+       "id": 613,
+       "tags": [
+        "Wife / female character forcibly hypnotized to obey",
+        "Polygamy + female hypnosis / mind control",
+        "Doctor hypnotizes female characters for personal gain",
+        "Adult female hypnosis — R-rated-equivalent worldwide",
+        "Hypnotized woman intimate with the hypnotist or the man he directs",
+        "Doctor-administered hypnosis / sexual enslavement",
+        "Low-medium confidence · explicit sexual content"
+       ],
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 612,
+       "tags": [
+        "Wife / female character forcibly hypnotized to obey",
+        "Polygamy + female hypnosis / mind control",
+        "Doctor hypnotizes female characters for personal gain",
+        "Adult female hypnosis — R-rated-equivalent worldwide",
+        "Hypnotized woman intimate with the hypnotist or the man he directs",
+        "Hypnotic drugs / will alteration",
+        "Low-medium confidence · explicit sexual content"
+       ],
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
        "id": 735,
        "tags": [
         "Adult female hypnosis — R-rated-equivalent worldwide",
@@ -380413,6 +384681,7 @@ window.CATALOG = {
        "id": 651,
        "tags": [
         "Adult female hypnosis — R-rated-equivalent worldwide",
+        "Doctor hypnotizes female characters for personal gain",
         "Hypnotherapist or doctor manipulates a female patient",
         "Medium confidence"
        ],
@@ -380581,6 +384850,7 @@ window.CATALOG = {
         "Adult female hypnosis — R-rated-equivalent worldwide",
         "Wife / female character forcibly hypnotized to obey",
         "Hypnotized to love",
+        "Doctor hypnotizes female characters for personal gain",
         "Criminal mastermind or villain hypnotist",
         "High confidence"
        ],
@@ -380719,9 +384989,12 @@ window.CATALOG = {
        "id": 676,
        "tags": [
         "Adult female hypnosis — R-rated-equivalent worldwide",
-        "Criminal mastermind or villain hypnotist",
-        "Medium-high confidence"
+        "Wife / female character forcibly hypnotized to obey",
+        "Hypnosis / false-memory manipulation",
+        "Medium confidence · memory-manipulation variant"
        ],
+       "provenance": "Source basis: Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Episode sources: Episodate, TVmaze and WhenHBO.",
+       "character": "Character: Teresa",
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -380768,6 +385041,7 @@ window.CATALOG = {
         "Wife / female character forcibly hypnotized to obey",
         "Hypnotized woman intimate with the hypnotist or the man he directs",
         "Human-villain control",
+        "Doctor hypnotizes female characters for personal gain",
         "Criminal mastermind or villain hypnotist",
         "High confidence"
        ],
@@ -381034,8 +385308,9 @@ window.CATALOG = {
         "Adult female hypnosis — R-rated-equivalent worldwide",
         "Hypnotized woman intimate with the hypnotist or the man he directs",
         "Fortune-teller hypnosis",
-        "Medium confidence · explicit sexual content (hardcore stag)"
+        "Medium confidence · 18+ explicit adult short"
        ],
+       "provenance": "Source basis: Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Corroborated by IMDb tt0289230 and 1930s stag-film references.",
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -381524,16 +385799,6 @@ window.CATALOG = {
      "title": "Comedy, light stories and historical demonstrations",
      "notes": [],
      "items": [
-      {
-       "id": 701,
-       "tags": [
-        "Adult female hypnosis — R-rated-equivalent worldwide",
-        "Wife / female character forcibly hypnotized to obey",
-        "Comedy, light stories and historical demonstrations",
-        "High confidence"
-       ],
-       "from_source": "xla62ucxbx02u5"
-      },
       {
        "id": 697,
        "tags": [
@@ -382051,9 +386316,11 @@ window.CATALOG = {
        "tags": [
         "Adult female hypnosis — R-rated-equivalent worldwide",
         "Pregnant woman mind-controlled — variants and leads",
-        "Hypnotic sexual control",
-        "Medium-high confidence · explicit sexual content · animated"
+        "Hypnotized woman intimate with the hypnotist or the man he directs",
+        "Hypnosis in sexual scenarios",
+        "Medium confidence · 18+ explicit adult animation"
        ],
+       "provenance": "Source basis: Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Source basis: Archive.org item listing, hentai database entries and the existing Japanese Wikipedia series record.",
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -382077,6 +386344,7 @@ window.CATALOG = {
         "Mother with child hypnotized / mind-controlled",
         "Wife / female character forcibly hypnotized to obey",
         "Adult female hypnosis — R-rated-equivalent worldwide",
+        "Doctor hypnotizes female characters for personal gain",
         "Predatory hypnotic influence",
         "Medium-high confidence · wife"
        ],
@@ -382497,7 +386765,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2336,
+       "id": 2352,
        "from_source": "older-man-hypnosis"
       }
      ],
@@ -382508,7 +386776,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2338,
+       "id": 2354,
        "from_source": "hypnosis-assault"
       }
      ],
@@ -382523,19 +386791,19 @@ window.CATALOG = {
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2350,
+       "id": 2366,
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2349,
+       "id": 2365,
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2346,
+       "id": 2362,
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2352,
+       "id": 2368,
        "from_source": "hypnosis-assault-loose"
       },
       {
@@ -382551,15 +386819,15 @@ window.CATALOG = {
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2348,
+       "id": 2364,
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2347,
+       "id": 2363,
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2353,
+       "id": 2369,
        "from_source": "hypnosis-assault-loose"
       }
      ],
@@ -382570,7 +386838,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2536,
+       "id": 2552,
        "from_source": "open-sites-hypnosis"
       }
      ],
@@ -383237,7 +387505,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2316,
+       "id": 2332,
        "from_source": "hypnotized-love"
       }
      ],
@@ -383843,11 +388111,11 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2430,
+       "id": 2446,
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2427,
+       "id": 2443,
        "from_source": "royal-hypnosis-loose"
       }
      ],
@@ -383858,7 +388126,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2536,
+       "id": 2552,
        "from_source": "open-sites-hypnosis"
       }
      ],
@@ -383903,6 +388171,293 @@ window.CATALOG = {
       }
      ],
      "from_source": "devil-deal-hypnosis"
+    }
+   ]
+  },
+  {
+   "title": "Doctor hypnotizes female characters for personal gain",
+   "category": "doctor-gain",
+   "description": "Twenty verified findings from a worldwide sweep, grouped by the controller’s gain: sexual exploitation; crime cover-up, silencing or framing; programming a patient to commit crimes; money, inheritance or power; and romantic or possessive control. Thirteen are high confidence and seven medium. Seven previously cataloged overlaps receive membership without duplicate rows; every adult-content flag, age caveat and non-trance mechanism remains explicit.",
+   "notes": [
+    {
+     "html": "<strong>Scope and dedupe:</strong> The five motive groups contain the 20 verified sweep findings (13 high, 7 medium). Seven previously cataloged titles receive category membership without duplicate records. Seventeen low-confidence leads remain outside the catalog. Chip implants, drug-assisted conditioning, gaslighting, machines, memory alteration, non-trance manipulation and fantasy hypnosis are labeled rather than presented as classical trance.",
+     "text": "Scope and dedupe: The five motive groups contain the 20 verified sweep findings (13 high, 7 medium). Seven previously cataloged titles receive category membership without duplicate records. Seventeen low-confidence leads remain outside the catalog. Chip implants, drug-assisted conditioning, gaslighting, machines, memory alteration, non-trance manipulation and fantasy hypnosis are labeled rather than presented as classical trance.",
+     "source": "xla62ucxbx02u5"
+    }
+   ],
+   "from_sources": [
+    "xla62ucxbx02u5"
+   ],
+   "groups": [
+    {
+     "title": "A. Sexual exploitation by the therapist or doctor · 4",
+     "notes": [],
+     "items": [
+      {
+       "id": 701,
+       "summary": "Neurologist Jean-Martin Charcot hypnotizes 19-year-old patient Augustine and exhibits her in clinical demonstrations that serve his research funding and academic standing; reviews also describe erotic desire under medical cover.",
+       "tags": [
+        "Adult female hypnosis — R-rated-equivalent worldwide",
+        "Wife / female character forcibly hypnotized to obey",
+        "Doctor hypnotizes female characters for personal gain",
+        "Hypnotized woman intimate with the hypnotist or the man he directs",
+        "Clinical hypnosis demonstrations",
+        "HIGH · patient is 19 · historical doctor"
+       ],
+       "provenance": "Source basis: Sources reviewed in the 2 October 2026 sweep: Cine-Sport, Newcity Film, New York Press, Spectrum Culture and MUBI.",
+       "entry_note": "Note: Augustine is a 19-year-old young adult; Charcot is a historical figure. The intimacy overlap is borderline rather than a direct hypnosis-to-sex command.",
+       "from_source": "xla62ucxbx02u5"
+      }
+     ]
+    },
+    {
+     "title": "B. Crime cover-up, silencing or framing · 5",
+     "notes": [],
+     "items": [
+      {
+       "id": 2142,
+       "tags": [
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
+        "Hypnotic trance",
+        "HIGH"
+       ],
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 2141,
+       "tags": [
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
+        "Trance presented as therapeutic hypnosis",
+        "HIGH"
+       ],
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 2144,
+       "tags": [
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
+        "Psychiatric conditioning / brainwashing — not stage trance",
+        "HIGH · NON-TRANCE MECHANISM"
+       ],
+       "sources": [
+        {
+         "label": "Bustle",
+         "url": "https://www.bustle.com/articles/21418-did-hannibal-really-just-kill-off-dr-chilton-we-search-for-spoilers-in-the-books"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Yakimono_(Hannibal)"
+        },
+        {
+         "label": "Den of Geek",
+         "url": "https://www.denofgeek.com/tv/hannibal-season-2-episode-7-review-yakimono/"
+        }
+       ],
+       "entry_note": "Note: The series frames this as prolonged psychiatric conditioning and mind control rather than stage-style hypnosis.",
+       "from_source": "xla62ucxbx02u5"
+      }
+     ]
+    },
+    {
+     "title": "C. Programmed to commit crimes · 5",
+     "notes": [],
+     "items": [
+      {
+       "id": 2148,
+       "tags": [
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
+        "Secret clinical hypnosis + bell post-hypnotic trigger",
+        "MEDIUM · [EROTIC] PINK FILM"
+       ],
+       "entry_note": "Note: Erotic pink film. The gain is institutional and commercial experimentation as well as control over the patient.",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 2146,
+       "tags": [
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
+        "Hypnotic drug + electronic mind-control apparatus",
+        "MEDIUM · DRUG / MACHINE MECHANISM"
+       ],
+       "provenance": "Source basis: Additional sources reviewed in the 2 October 2026 sweep: Robert Monell and The Digital Bits.",
+       "entry_note": "Note: The gain is state-secret theft and power; the mechanism combines drugs and a machine rather than standalone trance hypnosis.",
+       "from_source": "xla62ucxbx02u5"
+      }
+     ]
+    },
+    {
+     "title": "D. Money, inheritance or power grab · 4",
+     "notes": [],
+     "items": [
+      {
+       "id": 2147,
+       "tags": [
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
+        "Psychological manipulation in therapy — not formal trance",
+        "MEDIUM · BORDERLINE NON-TRANCE MECHANISM"
+       ],
+       "provenance": "Source basis: Additional sources reviewed in the 2 October 2026 sweep: TVyNovelas and EnPalco.",
+       "entry_note": "Note: The sourced mechanism is psychological manipulation under a therapy setting, not formal trance hypnosis.",
+       "from_source": "xla62ucxbx02u5"
+      }
+     ]
+    },
+    {
+     "title": "E. Romantic or possessive control · 2",
+     "notes": [],
+     "items": [
+      {
+       "id": 2143,
+       "tags": [
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
+        "Brain chip + surgical personality adjustment — sci-fi brainwashing",
+        "HIGH · NON-TRANCE MECHANISM"
+       ],
+       "entry_note": "Note: The control is chip-assisted surgery and brainwashing, not classical hypnosis.",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 2145,
+       "tags": [
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
+        "Hypnosis + drugs",
+        "HIGH · FEMALE DOCTOR"
+       ],
+       "entry_note": "Note: Controller is a female hypnotherapist; the film is based on a therapist-abuse case.",
+       "from_source": "xla62ucxbx02u5"
+      }
+     ]
+    },
+    {
+     "title": "Existing catalog overlaps · 7 membership grants",
+     "notes": [],
+     "items": [
+      {
+       "id": 660,
+       "tags": [
+        "Adult female hypnosis — R-rated-equivalent worldwide",
+        "Wife / female character forcibly hypnotized to obey",
+        "Hypnotized to love",
+        "Doctor hypnotizes female characters for personal gain",
+        "Criminal mastermind or villain hypnotist",
+        "High confidence"
+       ],
+       "entry_note": "Note: Existing-record overlap · criminal mastermind / doctor of psychology",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 99,
+       "tags": [
+        "Mother with child hypnotized / mind-controlled",
+        "Wife / female character forcibly hypnotized to obey",
+        "Adult female hypnosis — R-rated-equivalent worldwide",
+        "Doctor hypnotizes female characters for personal gain",
+        "Predatory hypnotic influence",
+        "Medium-high confidence · wife"
+       ],
+       "character": "Character: Mrs. Livroy",
+       "entry_note": "Note: Existing-record overlap",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 142,
+       "tags": [
+        "Pregnancy-adjacent hypnosis (reversed roles / past trauma)",
+        "Wife hypnotized / controlled by a therapist",
+        "Wife / female character forcibly hypnotized to obey",
+        "Adult female hypnosis — R-rated-equivalent worldwide",
+        "Hypnotized to love",
+        "Medical / therapeutic hypnosis",
+        "Doctor hypnotizes female characters for personal gain",
+        "Post-hypnotic trigger / murderous concealment",
+        "High confidence"
+       ],
+       "entry_note": "Note: Existing-record overlap · hypnotherapist uses a patient for possessive replacement",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 658,
+       "tags": [
+        "Adult female hypnosis — R-rated-equivalent worldwide",
+        "Human-villain control",
+        "Doctor hypnotizes female characters for personal gain",
+        "Hypnotherapist or doctor manipulates a female patient",
+        "High confidence"
+       ],
+       "entry_note": "Note: Existing-record overlap · TEEN-VICTIM CAVEAT",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 18,
+       "tags": [
+        "Hypnotized to love",
+        "Wife hypnotized / controlled by a therapist",
+        "Adult female hypnosis — R-rated-equivalent worldwide",
+        "Female hypnotized / mind-controlled by husband, boyfriend, ex-husband or ex-boyfriend",
+        "Wife / female character forcibly hypnotized to obey",
+        "Hypnotized woman intimate with the hypnotist or the man he directs",
+        "Hypnotized / controlled into infidelity",
+        "Medical / therapeutic hypnosis",
+        "Human-villain control",
+        "Doctor hypnotizes female characters for personal gain",
+        "Deep hypnosis / therapist boundary violation",
+        "High confidence"
+       ],
+       "entry_note": "Note: Existing-record overlap",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 663,
+       "tags": [
+        "Adult female hypnosis — R-rated-equivalent worldwide",
+        "Wife / female character forcibly hypnotized to obey",
+        "Hypnotized woman intimate with the hypnotist or the man he directs",
+        "Human-villain control",
+        "Doctor hypnotizes female characters for personal gain",
+        "Criminal mastermind or villain hypnotist",
+        "High confidence"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Rasputin_the_Mad_Monk"
+        },
+        {
+         "label": "Moria review",
+         "url": "https://moriareviews.com/horror/rasputin-the-mad-monk-1966.htm"
+        },
+        {
+         "label": "EOFFTV review",
+         "url": "https://eofftvreview.wordpress.com/2021/02/18/rasputin-the-mad-monk-1966/"
+        },
+        {
+         "label": "Mental Block",
+         "url": "https://mentalblock.miraheze.org/wiki/Rasputin:_The_Mad_Monk_(1965)"
+        }
+       ],
+       "entry_note": "Note: Existing-record overlap · mystic faith-healer, not a physician",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 651,
+       "tags": [
+        "Adult female hypnosis — R-rated-equivalent worldwide",
+        "Doctor hypnotizes female characters for personal gain",
+        "Hypnotherapist or doctor manipulates a female patient",
+        "Medium confidence"
+       ],
+       "entry_note": "Note: Existing-record overlap",
+       "from_source": "xla62ucxbx02u5"
+      }
+     ]
     }
    ]
   },
@@ -384025,7 +388580,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2315,
+       "id": 2331,
        "from_source": "hypnotized-love"
       },
       {
@@ -384033,7 +388588,7 @@ window.CATALOG = {
        "from_source": "hypnotized-love"
       },
       {
-       "id": 2289,
+       "id": 2305,
        "from_source": "hypnotized-love"
       }
      ],
@@ -384085,7 +388640,7 @@ window.CATALOG = {
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2346,
+       "id": 2362,
        "from_source": "hypnosis-assault-loose"
       },
       {
@@ -384100,7 +388655,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2431,
+       "id": 2447,
        "from_source": "royal-hypnosis-loose"
       }
      ],
@@ -385356,7 +389911,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2168,
+       "id": 2184,
        "tags": [
         "Cataloged",
         "Catalog records"
@@ -385365,7 +389920,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2163,
+       "id": 2179,
        "tags": [
         "Cataloged",
         "Catalog records"
@@ -385374,7 +389929,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2167,
+       "id": 2183,
        "tags": [
         "Cataloged",
         "Catalog records"
@@ -385392,7 +389947,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2164,
+       "id": 2180,
        "tags": [
         "Cataloged",
         "Catalog records"
@@ -385401,7 +389956,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2166,
+       "id": 2182,
        "tags": [
         "Cataloged",
         "Catalog records"
@@ -385410,7 +389965,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2165,
+       "id": 2181,
        "tags": [
         "Cataloged",
         "Catalog records"
@@ -385457,7 +390012,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2186,
+       "id": 2202,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -385469,11 +390024,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2192,
+       "id": 2208,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2202,
+       "id": 2218,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -385489,7 +390044,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2214,
+       "id": 2230,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -385497,11 +390052,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2213,
+       "id": 2229,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2212,
+       "id": 2228,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -385537,11 +390092,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2230,
+       "id": 2246,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2231,
+       "id": 2247,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -385581,7 +390136,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2248,
+       "id": 2264,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -385613,7 +390168,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2261,
+       "id": 2277,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -385621,7 +390176,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2264,
+       "id": 2280,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -385629,11 +390184,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2270,
+       "id": 2286,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2271,
+       "id": 2287,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -385641,7 +390196,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2281,
+       "id": 2297,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -385657,7 +390212,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2289,
+       "id": 2305,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -385669,7 +390224,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2290,
+       "id": 2306,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -385681,7 +390236,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2306,
+       "id": 2322,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -385765,7 +390320,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2338,
+       "id": 2354,
        "from_source": "hypnosis-assault"
       }
      ],
@@ -385791,27 +390346,27 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2433,
+       "id": 2449,
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2430,
+       "id": 2446,
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2431,
+       "id": 2447,
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2434,
+       "id": 2450,
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2427,
+       "id": 2443,
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2429,
+       "id": 2445,
        "from_source": "royal-hypnosis-loose"
       }
      ],
@@ -386628,7 +391183,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2169,
+       "id": 2185,
        "tags": [
         "Cataloged",
         "Comedy / family / fantasy domination"
@@ -386644,11 +391199,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2192,
-       "from_source": "worldwide-hypnosis"
-      },
-      {
-       "id": 2260,
+       "id": 2208,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -386656,7 +391207,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2302,
+       "id": 2292,
+       "from_source": "worldwide-hypnosis"
+      },
+      {
+       "id": 2318,
        "from_source": "worldwide-hypnosis"
       }
      ],
@@ -386667,7 +391222,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2301,
+       "id": 2317,
        "from_source": "mother-kids-hypnosis"
       }
      ],
@@ -387006,7 +391561,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2159,
+       "id": 2175,
        "tags": [
         "Cataloged",
         "Spirit / ghost / paranormal control"
@@ -387119,7 +391674,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2173,
+       "id": 2189,
        "from_source": "india-catalog"
       },
       {
@@ -387215,7 +391770,7 @@ window.CATALOG = {
        "from_source": "india-catalog"
       },
       {
-       "id": 2175,
+       "id": 2191,
        "from_source": "india-catalog"
       },
       {
@@ -387227,7 +391782,7 @@ window.CATALOG = {
        "from_source": "india-catalog"
       },
       {
-       "id": 2174,
+       "id": 2190,
        "from_source": "india-catalog"
       },
       {
@@ -387327,7 +391882,7 @@ window.CATALOG = {
        "from_source": "india-catalog"
       },
       {
-       "id": 2172,
+       "id": 2188,
        "from_source": "india-catalog"
       },
       {
@@ -387470,7 +392025,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2304,
+       "id": 2320,
        "from_source": "worldwide-hypnosis"
       }
      ],
@@ -387507,7 +392062,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2433,
+       "id": 2449,
        "from_source": "royal-hypnosis-loose"
       }
      ],
@@ -387978,6 +392533,7 @@ window.CATALOG = {
         "Hypnotized / controlled into infidelity",
         "Medical / therapeutic hypnosis",
         "Human-villain control",
+        "Doctor hypnotizes female characters for personal gain",
         "Hypnosis by former doctor turned affair partner",
         "Borderline · lover, not formal boyfriend"
        ],
@@ -388138,7 +392694,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2316,
+       "id": 2332,
        "from_source": "hypnotized-love"
       }
      ],
@@ -388149,7 +392705,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2338,
+       "id": 2354,
        "from_source": "hypnosis-assault"
       }
      ],
@@ -388678,6 +393234,8 @@ window.CATALOG = {
        "id": 244,
        "tags": [
         "Human-villain control",
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
         "Human-villain hypnosis / mind control",
         "Research report · web-verified"
        ],
@@ -388754,6 +393312,7 @@ window.CATALOG = {
        "tags": [
         "Human-villain control",
         "Wife / female character forcibly hypnotized to obey",
+        "Doctor hypnotizes female characters for personal gain",
         "Human-villain hypnosis / mind control",
         "Research report · web-verified"
        ],
@@ -390402,7 +394961,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2173,
+       "id": 2189,
        "from_source": "india-catalog"
       },
       {
@@ -390410,7 +394969,7 @@ window.CATALOG = {
        "from_source": "india-catalog"
       },
       {
-       "id": 2172,
+       "id": 2188,
        "from_source": "india-catalog"
       }
      ],
@@ -390429,7 +394988,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2181,
+       "id": 2197,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -390457,7 +395016,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2183,
+       "id": 2199,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -390481,7 +395040,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2187,
+       "id": 2203,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -390541,7 +395100,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2190,
+       "id": 2206,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -390561,7 +395120,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2189,
+       "id": 2205,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -390597,7 +395156,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2293,
+       "id": 2309,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -390617,7 +395176,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2294,
+       "id": 2310,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -390629,7 +395188,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2295,
+       "id": 2311,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -390653,7 +395212,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2198,
+       "id": 2214,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -390669,7 +395228,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2199,
+       "id": 2215,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -390713,7 +395272,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2204,
+       "id": 2220,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -390733,7 +395292,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2205,
+       "id": 2221,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -390765,7 +395324,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2206,
+       "id": 2222,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -390781,7 +395340,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2207,
+       "id": 2223,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -390805,7 +395364,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2212,
+       "id": 2228,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -390817,7 +395376,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2210,
+       "id": 2226,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -390837,7 +395396,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2219,
+       "id": 2235,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -390857,7 +395416,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2215,
+       "id": 2231,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -390873,7 +395432,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2218,
+       "id": 2234,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -390917,7 +395476,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2221,
+       "id": 2237,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -390937,7 +395496,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2223,
+       "id": 2239,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -390961,7 +395520,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2226,
+       "id": 2242,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -390973,7 +395532,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2225,
+       "id": 2241,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -391049,7 +395608,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2297,
+       "id": 2313,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -391057,11 +395616,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2229,
+       "id": 2245,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2232,
+       "id": 2248,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -391073,7 +395632,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2233,
+       "id": 2249,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -391101,7 +395660,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2296,
+       "id": 2312,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -391197,7 +395756,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2239,
+       "id": 2255,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -391217,11 +395776,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2240,
+       "id": 2256,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2241,
+       "id": 2257,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -391325,7 +395884,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2244,
+       "id": 2260,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -391349,7 +395908,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2247,
+       "id": 2263,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -391369,7 +395928,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2255,
+       "id": 2271,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -391453,7 +396012,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2299,
+       "id": 2315,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -391485,7 +396044,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2266,
+       "id": 2282,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -391497,7 +396056,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2265,
+       "id": 2281,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -391505,7 +396064,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2267,
+       "id": 2283,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -391625,7 +396184,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2279,
+       "id": 2295,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -391633,7 +396192,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2280,
+       "id": 2296,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -391657,7 +396216,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2283,
+       "id": 2299,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -391681,7 +396240,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2286,
+       "id": 2302,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -391761,7 +396320,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2291,
+       "id": 2307,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -391769,7 +396328,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2300,
+       "id": 2316,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -391781,7 +396340,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2303,
+       "id": 2319,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -391841,7 +396400,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2307,
+       "id": 2323,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -391869,7 +396428,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2311,
+       "id": 2327,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -391885,7 +396444,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2310,
+       "id": 2326,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -391893,7 +396452,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2313,
+       "id": 2329,
        "from_source": "worldwide-hypnosis"
       }
      ],
@@ -391979,19 +396538,19 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2352,
+       "id": 2368,
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2351,
+       "id": 2367,
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2345,
+       "id": 2361,
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2347,
+       "id": 2363,
        "from_source": "hypnosis-assault-loose"
       }
      ],
@@ -392203,7 +396762,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2149,
+       "id": 2165,
        "tags": [
         "Lead / variant",
         "Leads / variants"
@@ -392230,7 +396789,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2148,
+       "id": 2164,
        "tags": [
         "Lead / variant",
         "Leads / variants"
@@ -392730,7 +397289,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2316,
+       "id": 2332,
        "from_source": "hypnotized-love"
       }
      ],
@@ -392790,6 +397349,185 @@ window.CATALOG = {
       }
      ],
      "from_source": "ig6qlxqxoxvcxla"
+    }
+   ]
+  },
+  {
+   "title": "Hypnotised / spell-bound into marriage (or married while under control)",
+   "category": "hypnotized-marriage",
+   "description": "",
+   "notes": [],
+   "from_sources": [
+    "hypnotized-marriage"
+   ],
+   "declared_count_by_source": {
+    "hypnotized-marriage": null
+   },
+   "groups": [
+    {
+     "title": "Married while hypnotised / spell-bound (wedding performed)",
+     "notes": [],
+     "items": [
+      {
+       "id": 8,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 240,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 220,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 2191,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 1383,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 1825,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 1828,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 1884,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 1953,
+       "from_source": "hypnotized-marriage"
+      }
+     ],
+     "from_source": "hypnotized-marriage"
+    },
+    {
+     "title": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+     "notes": [],
+     "items": [
+      {
+       "id": 861,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 35,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 17,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 3,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 1,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 1125,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 660,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 20,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 41,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 5,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 7,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 1384,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 13,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 19,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 1583,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 4,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 1708,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 11,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 1844,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 1864,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 1869,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 223,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 1945,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 311,
+       "from_source": "hypnotized-marriage"
+      }
+     ],
+     "from_source": "hypnotized-marriage"
+    },
+    {
+     "title": "Mother with children, hypnotised / spell-bound into marriage",
+     "notes": [],
+     "items": [
+      {
+       "id": 62,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 63,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 1648,
+       "from_source": "hypnotized-marriage"
+      }
+     ],
+     "from_source": "hypnotized-marriage"
     }
    ]
   },
@@ -392943,6 +397681,7 @@ window.CATALOG = {
         "Hypnotized / controlled into infidelity",
         "Medical / therapeutic hypnosis",
         "Human-villain control",
+        "Doctor hypnotizes female characters for personal gain",
         "Deep hypnosis / therapist boundary violation",
         "High confidence"
        ],
@@ -393088,7 +397827,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2144,
+       "id": 2160,
        "tags": [
         "Excluded",
         "Boundary note"
@@ -393104,11 +397843,11 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2346,
+       "id": 2362,
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2348,
+       "id": 2364,
        "from_source": "hypnosis-assault-loose"
       }
      ],
@@ -393354,6 +398093,8 @@ window.CATALOG = {
        "tags": [
         "Hypnotized into crime",
         "Human-villain control",
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
         "Hypnotic gaze",
         "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed"
        ],
@@ -393501,7 +398242,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2253,
+       "id": 2269,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -393657,7 +398398,7 @@ window.CATALOG = {
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2352,
+       "id": 2368,
        "from_source": "hypnosis-assault-loose"
       }
      ],
@@ -393778,11 +398519,11 @@ window.CATALOG = {
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2433,
+       "id": 2449,
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2430,
+       "id": 2446,
        "from_source": "royal-hypnosis-loose"
       },
       {
@@ -393794,7 +398535,7 @@ window.CATALOG = {
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2431,
+       "id": 2447,
        "from_source": "royal-hypnosis-loose"
       },
       {
@@ -393802,7 +398543,7 @@ window.CATALOG = {
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2175,
+       "id": 2191,
        "from_source": "royal-hypnosis-loose"
       },
       {
@@ -393810,7 +398551,7 @@ window.CATALOG = {
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2434,
+       "id": 2450,
        "from_source": "royal-hypnosis-loose"
       },
       {
@@ -393818,11 +398559,11 @@ window.CATALOG = {
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2432,
+       "id": 2448,
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2427,
+       "id": 2443,
        "from_source": "royal-hypnosis-loose"
       },
       {
@@ -393850,7 +398591,7 @@ window.CATALOG = {
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2429,
+       "id": 2445,
        "from_source": "royal-hypnosis-loose"
       },
       {
@@ -393886,7 +398627,7 @@ window.CATALOG = {
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2428,
+       "id": 2444,
        "from_source": "royal-hypnosis-loose"
       },
       {
@@ -394376,6 +399117,9 @@ window.CATALOG = {
        "id": 48,
        "tags": [
         "Hypnotized to love",
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
+        "Hypnotized queen/princess for marriage or the throne",
         "Control chip"
        ],
        "from_source": "xla62ucxbx02u5"
@@ -394575,6 +399319,7 @@ window.CATALOG = {
         "Hypnotized / controlled into infidelity",
         "Medical / therapeutic hypnosis",
         "Human-villain control",
+        "Doctor hypnotizes female characters for personal gain",
         "Deep hypnosis / therapist boundary violation",
         "High confidence"
        ],
@@ -395140,6 +399885,7 @@ window.CATALOG = {
         "Romance / marriage compulsion",
         "Research report · web-verified"
        ],
+       "sources": [],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -395236,7 +399982,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2175,
+       "id": 2191,
        "from_source": "india-catalog"
       }
      ],
@@ -395251,15 +399997,15 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2188,
+       "id": 2204,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2184,
+       "id": 2200,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2185,
+       "id": 2201,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -395271,7 +400017,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2202,
+       "id": 2218,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -395283,7 +400029,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2219,
+       "id": 2235,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -395319,15 +400065,15 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2244,
+       "id": 2260,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2245,
+       "id": 2261,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2253,
+       "id": 2269,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -395347,7 +400093,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2270,
+       "id": 2286,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -395390,11 +400136,11 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2315,
+       "id": 2331,
        "from_source": "hypnotized-love"
       },
       {
-       "id": 2317,
+       "id": 2333,
        "from_source": "hypnotized-love"
       },
       {
@@ -395410,7 +400156,7 @@ window.CATALOG = {
        "from_source": "hypnotized-love"
       },
       {
-       "id": 2316,
+       "id": 2332,
        "from_source": "hypnotized-love"
       },
       {
@@ -395418,7 +400164,7 @@ window.CATALOG = {
        "from_source": "hypnotized-love"
       },
       {
-       "id": 2289,
+       "id": 2305,
        "from_source": "hypnotized-love"
       },
       {
@@ -395505,7 +400251,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2338,
+       "id": 2354,
        "from_source": "hypnosis-assault"
       }
      ],
@@ -395535,7 +400281,7 @@ window.CATALOG = {
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2428,
+       "id": 2444,
        "from_source": "royal-hypnosis-loose"
       }
      ],
@@ -395560,7 +400306,7 @@ window.CATALOG = {
   {
    "title": "Hypnotized woman intimate with the hypnotist or the man he directs",
    "category": "hypno-intimacy",
-   "description": "Films, episodes and serials in which a hypnotized woman becomes intimate with the hypnotist or with the man he directs her to. Staged from the mirror catalog’s hypnotized-intimacy index; confidence and consent caveats are labeled per card.",
+   "description": "Films, episodes, serials and adult animation in which a hypnotized woman becomes intimate with the hypnotist or with the person he directs her to. The 2 October deep sweep adds five verified 18+ memberships, including a 1936 stag short, one Japanese adult video and three adult-animation series; confidence, explicit-content status, title distinctions and evidence caveats are labeled per card.",
    "notes": [],
    "from_sources": [
     "xla62ucxbx02u5",
@@ -395683,6 +400429,7 @@ window.CATALOG = {
         "Medical / therapeutic hypnosis",
         "Adult female hypnosis — R-rated-equivalent worldwide",
         "Wife / female character forcibly hypnotized to obey",
+        "Doctor hypnotizes female characters for personal gain",
         "Hypnosis",
         "Corroborated · 4 sources"
        ],
@@ -395722,6 +400469,17 @@ window.CATALOG = {
        "from_source": "xla62ucxbx02u5"
       },
       {
+       "id": 2139,
+       "tags": [
+        "Hypnotized woman intimate with the hypnotist or the man he directs",
+        "Hypnotic control",
+        "Medium confidence · 18+ explicit adult animation"
+       ],
+       "provenance": "Source basis: Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Source basis: AniHentai listing and hentai database entries.",
+       "character": "Character: Female protagonist(s)",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
        "id": 1463,
        "tags": [
         "Hypnotized woman intimate with the hypnotist or the man he directs",
@@ -395746,6 +400504,28 @@ window.CATALOG = {
        ],
        "provenance": "Source basis: Hypnosis-assault research pass, 30 Sep 2026 (adult women only; minors/teen characters excluded; non-graphic wording; each record cross-checked where possible)",
        "entry_note": "Note: Outcome facts: pregnancy outcome: unknown; married: no; kids status: unknown.",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 2138,
+       "tags": [
+        "Hypnotized woman intimate with the hypnotist or the man he directs",
+        "Hypnosis by a family acquaintance",
+        "High confidence as an adult production · 18+ explicit"
+       ],
+       "provenance": "Source basis: Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Source indexes: jav.sb, japavstore, javmala, javfifo and thisjav.",
+       "character": "Character: Meguri (wife)",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 2140,
+       "tags": [
+        "Hypnotized woman intimate with the hypnotist or the man he directs",
+        "Hypnosis",
+        "Medium confidence · 18+ explicit adult animation"
+       ],
+       "provenance": "Source basis: Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Source basis: IMDb and hentai database entries.",
+       "character": "Character: Female characters",
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -395838,7 +400618,7 @@ window.CATALOG = {
        "from_source": "hypnosis-assault"
       },
       {
-       "id": 2336,
+       "id": 2352,
        "from_source": "hypnosis-assault"
       },
       {
@@ -395881,7 +400661,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2536,
+       "id": 2552,
        "from_source": "open-sites-hypnosis"
       }
      ],
@@ -396341,6 +401121,8 @@ window.CATALOG = {
        "tags": [
         "Lesbian couple pregnancy (female same-sex couple)",
         "Pregnant lesbian couple — intimate/sex scene",
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
         "Control mechanism unstated",
         "High · Wikipedia season 7 episode list + character articles"
        ],
@@ -396454,11 +401236,11 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2424,
+       "id": 2440,
        "from_source": "lesbian-pregnancy"
       },
       {
-       "id": 2425,
+       "id": 2441,
        "from_source": "lesbian-pregnancy"
       },
       {
@@ -396466,11 +401248,11 @@ window.CATALOG = {
        "from_source": "lesbian-pregnancy"
       },
       {
-       "id": 2426,
+       "id": 2442,
        "from_source": "lesbian-pregnancy"
       },
       {
-       "id": 2415,
+       "id": 2431,
        "from_source": "lesbian-pregnancy"
       },
       {
@@ -396478,23 +401260,23 @@ window.CATALOG = {
        "from_source": "lesbian-pregnancy"
       },
       {
-       "id": 2417,
+       "id": 2433,
        "from_source": "lesbian-pregnancy"
       },
       {
-       "id": 2416,
+       "id": 2432,
        "from_source": "lesbian-pregnancy"
       },
       {
-       "id": 2423,
+       "id": 2439,
        "from_source": "lesbian-pregnancy"
       },
       {
-       "id": 2421,
+       "id": 2437,
        "from_source": "lesbian-pregnancy"
       },
       {
-       "id": 2420,
+       "id": 2436,
        "from_source": "lesbian-pregnancy"
       },
       {
@@ -396502,7 +401284,7 @@ window.CATALOG = {
        "from_source": "lesbian-pregnancy"
       },
       {
-       "id": 2422,
+       "id": 2438,
        "from_source": "lesbian-pregnancy"
       },
       {
@@ -396510,11 +401292,11 @@ window.CATALOG = {
        "from_source": "lesbian-pregnancy"
       },
       {
-       "id": 2419,
+       "id": 2435,
        "from_source": "lesbian-pregnancy"
       },
       {
-       "id": 2418,
+       "id": 2434,
        "from_source": "lesbian-pregnancy"
       },
       {
@@ -396546,111 +401328,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2492,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2510,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2439,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2452,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2442,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2473,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2489,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2445,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2459,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2514,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2509,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2460,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2438,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2464,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2450,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2504,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2480,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2531,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2515,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2512,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2456,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2491,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2529,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2498,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2524,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2478,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2462,
+       "id": 2508,
        "from_source": "mainstream-erotic"
       },
       {
@@ -396658,11 +401336,35 @@ window.CATALOG = {
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2448,
+       "id": 2455,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2534,
+       "id": 2468,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2458,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2489,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2505,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2461,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2475,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2530,
        "from_source": "mainstream-erotic"
       },
       {
@@ -396670,19 +401372,15 @@ window.CATALOG = {
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2457,
+       "id": 2476,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2451,
+       "id": 2454,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2493,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2494,
+       "id": 2480,
        "from_source": "mainstream-erotic"
       },
       {
@@ -396694,11 +401392,95 @@ window.CATALOG = {
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2435,
+       "id": 2496,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2547,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2531,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2528,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2472,
        "from_source": "mainstream-erotic"
       },
       {
        "id": 2507,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2545,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2514,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2540,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2494,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2478,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2542,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2464,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2550,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2541,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2473,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2467,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2509,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2510,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2482,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2536,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2451,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2523,
        "from_source": "mainstream-erotic"
       }
      ],
@@ -396709,19 +401491,19 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2502,
+       "id": 2518,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2454,
+       "id": 2470,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2517,
+       "id": 2533,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2508,
+       "id": 2524,
        "from_source": "mainstream-erotic"
       },
       {
@@ -396729,43 +401511,23 @@ window.CATALOG = {
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2471,
+       "id": 2487,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2496,
+       "id": 2512,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2505,
+       "id": 2521,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2436,
+       "id": 2452,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2447,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2485,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2519,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2453,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2458,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2499,
+       "id": 2463,
        "from_source": "mainstream-erotic"
       },
       {
@@ -396773,7 +401535,27 @@ window.CATALOG = {
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2533,
+       "id": 2535,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2469,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2474,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2515,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2517,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2549,
        "from_source": "mainstream-erotic"
       }
      ],
@@ -396784,47 +401566,35 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2511,
+       "id": 2527,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2535,
+       "id": 2551,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2479,
+       "id": 2495,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2474,
+       "id": 2490,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2455,
+       "id": 2471,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2449,
+       "id": 2465,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2469,
+       "id": 2485,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2482,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2516,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2486,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2484,
+       "id": 2498,
        "from_source": "mainstream-erotic"
       },
       {
@@ -396832,31 +401602,43 @@ window.CATALOG = {
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2476,
+       "id": 2502,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2444,
+       "id": 2500,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2437,
+       "id": 2548,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2530,
+       "id": 2492,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2470,
+       "id": 2460,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2521,
+       "id": 2453,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2468,
+       "id": 2546,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2486,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2537,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2484,
        "from_source": "mainstream-erotic"
       }
      ],
@@ -396867,39 +401649,51 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2440,
+       "id": 2456,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2528,
+       "id": 2544,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2441,
+       "id": 2457,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2495,
+       "id": 2511,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2503,
+       "id": 2519,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2523,
+       "id": 2539,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2490,
+       "id": 2506,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2443,
+       "id": 2459,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2497,
+       "id": 2513,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2493,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2538,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2516,
        "from_source": "mainstream-erotic"
       },
       {
@@ -396911,43 +401705,31 @@ window.CATALOG = {
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2500,
+       "id": 2534,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2461,
+       "id": 2503,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2506,
+       "id": 2491,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2518,
+       "id": 2529,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2487,
+       "id": 2499,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2475,
+       "id": 2543,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2513,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2483,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2527,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2481,
+       "id": 2497,
        "from_source": "mainstream-erotic"
       }
      ],
@@ -396958,27 +401740,27 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2472,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2446,
-       "from_source": "mainstream-erotic"
-      },
-      {
        "id": 2488,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2463,
+       "id": 2462,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2465,
+       "id": 2504,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2467,
+       "id": 2479,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2481,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2483,
        "from_source": "mainstream-erotic"
       }
      ],
@@ -397127,6 +401909,8 @@ window.CATALOG = {
        "tags": [
         "Medical / therapeutic hypnosis",
         "Wife hypnotized / controlled by a therapist",
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
         "Hypnosis",
         "Corroborated · air-date conflict"
        ],
@@ -397698,7 +402482,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2177,
+       "id": 2193,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -397722,7 +402506,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2209,
+       "id": 2225,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -397730,7 +402514,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2224,
+       "id": 2240,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -397758,7 +402542,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2258,
+       "id": 2274,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -397766,7 +402550,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2178,
+       "id": 2194,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -397812,7 +402596,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2336,
+       "id": 2352,
        "from_source": "older-man-hypnosis"
       },
       {
@@ -397839,7 +402623,7 @@ window.CATALOG = {
        "from_source": "older-man-hypnosis"
       },
       {
-       "id": 2337,
+       "id": 2353,
        "from_source": "older-man-hypnosis"
       },
       {
@@ -397899,15 +402683,15 @@ window.CATALOG = {
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2352,
+       "id": 2368,
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2345,
+       "id": 2361,
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2353,
+       "id": 2369,
        "from_source": "hypnosis-assault-loose"
       }
      ],
@@ -398144,6 +402928,7 @@ window.CATALOG = {
         "Mother with child hypnotized / mind-controlled",
         "Wife / female character forcibly hypnotized to obey",
         "Adult female hypnosis — R-rated-equivalent worldwide",
+        "Doctor hypnotizes female characters for personal gain",
         "Predatory hypnotic influence",
         "Medium-high confidence · wife"
        ],
@@ -398708,7 +403493,7 @@ window.CATALOG = {
        "from_source": "mother-kids-hypnosis"
       },
       {
-       "id": 2301,
+       "id": 2317,
        "from_source": "mother-kids-hypnosis"
       },
       {
@@ -400041,7 +404826,7 @@ window.CATALOG = {
        "from_source": "mom-pregnancy"
       },
       {
-       "id": 2339,
+       "id": 2355,
        "from_source": "mom-pregnancy"
       },
       {
@@ -400105,7 +404890,7 @@ window.CATALOG = {
        "from_source": "mom-pregnancy"
       },
       {
-       "id": 2342,
+       "id": 2358,
        "from_source": "mom-pregnancy"
       },
       {
@@ -400149,11 +404934,11 @@ window.CATALOG = {
        "from_source": "mom-pregnancy"
       },
       {
-       "id": 2341,
+       "id": 2357,
        "from_source": "mom-pregnancy"
       },
       {
-       "id": 2340,
+       "id": 2356,
        "from_source": "mom-pregnancy"
       },
       {
@@ -400161,11 +404946,11 @@ window.CATALOG = {
        "from_source": "mom-pregnancy"
       },
       {
-       "id": 2343,
+       "id": 2359,
        "from_source": "mom-pregnancy"
       },
       {
-       "id": 2344,
+       "id": 2360,
        "from_source": "mom-pregnancy"
       },
       {
@@ -400224,11 +405009,11 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2398,
+       "id": 2414,
        "from_source": "kids-pregnant-again"
       },
       {
-       "id": 2382,
+       "id": 2398,
        "from_source": "kids-pregnant-again"
       },
       {
@@ -400236,207 +405021,7 @@ window.CATALOG = {
        "from_source": "kids-pregnant-again"
       },
       {
-       "id": 2403,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2363,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2389,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2408,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2413,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2360,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2405,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2406,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2407,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2409,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2402,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2356,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2355,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2384,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2357,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2371,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2411,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2412,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2385,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2410,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2373,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2358,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2372,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2380,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2393,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2396,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2394,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2388,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2375,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2399,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2354,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2386,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2370,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2374,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2383,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2414,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2387,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2361,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2395,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2359,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2404,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2362,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2397,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2381,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2367,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2390,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2368,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2400,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2369,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2391,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2364,
+       "id": 2419,
        "from_source": "kids-pregnant-again"
       },
       {
@@ -400444,7 +405029,67 @@ window.CATALOG = {
        "from_source": "kids-pregnant-again"
       },
       {
-       "id": 2365,
+       "id": 2405,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2424,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2429,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2376,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2421,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2422,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2423,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2425,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2418,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2372,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2371,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2400,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2373,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2387,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2427,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2428,
        "from_source": "kids-pregnant-again"
       },
       {
@@ -400452,19 +405097,159 @@ window.CATALOG = {
        "from_source": "kids-pregnant-again"
       },
       {
+       "id": 2426,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2389,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2374,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2388,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2396,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2409,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2412,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2410,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2404,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2391,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2415,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2370,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2402,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2386,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2390,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2399,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2430,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2403,
+       "from_source": "kids-pregnant-again"
+      },
+      {
        "id": 2377,
        "from_source": "kids-pregnant-again"
       },
       {
+       "id": 2411,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2375,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2420,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2378,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2413,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2397,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2383,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2406,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2384,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2416,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2385,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2407,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2380,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2395,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2381,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2417,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2393,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2408,
+       "from_source": "kids-pregnant-again"
+      },
+      {
+       "id": 2382,
+       "from_source": "kids-pregnant-again"
+      },
+      {
        "id": 2392,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2366,
-       "from_source": "kids-pregnant-again"
-      },
-      {
-       "id": 2376,
        "from_source": "kids-pregnant-again"
       }
      ],
@@ -400475,7 +405260,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2424,
+       "id": 2440,
        "from_source": "lesbian-pregnancy"
       },
       {
@@ -400487,19 +405272,19 @@ window.CATALOG = {
        "from_source": "lesbian-pregnancy"
       },
       {
-       "id": 2416,
+       "id": 2432,
        "from_source": "lesbian-pregnancy"
       },
       {
-       "id": 2423,
+       "id": 2439,
        "from_source": "lesbian-pregnancy"
       },
       {
-       "id": 2420,
+       "id": 2436,
        "from_source": "lesbian-pregnancy"
       },
       {
-       "id": 2418,
+       "id": 2434,
        "from_source": "lesbian-pregnancy"
       },
       {
@@ -400515,6 +405300,50 @@ window.CATALOG = {
     "kids-pregnant-again": null,
     "lesbian-pregnancy": null
    }
+  },
+  {
+   "title": "Mother with existing children hypnotised / spell-bound into marriage",
+   "category": "hypnotised-mother-marriage",
+   "description": "",
+   "notes": [],
+   "from_sources": [
+    "hypnotized-marriage"
+   ],
+   "declared_count_by_source": {
+    "hypnotized-marriage": null
+   },
+   "groups": [
+    {
+     "title": "Married while hypnotised / spell-bound (wedding performed)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1953,
+       "from_source": "hypnotized-marriage"
+      }
+     ],
+     "from_source": "hypnotized-marriage"
+    },
+    {
+     "title": "Mother with children, hypnotised / spell-bound into marriage",
+     "notes": [],
+     "items": [
+      {
+       "id": 62,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 63,
+       "from_source": "hypnotized-marriage"
+      },
+      {
+       "id": 1648,
+       "from_source": "hypnotized-marriage"
+      }
+     ],
+     "from_source": "hypnotized-marriage"
+    }
+   ]
   },
   {
    "title": "Other female hypnosis / mind control",
@@ -401918,7 +406747,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2174,
+       "id": 2190,
        "from_source": "india-catalog"
       }
      ],
@@ -401929,7 +406758,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2176,
+       "id": 2192,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -401941,7 +406770,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2180,
+       "id": 2196,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -401953,7 +406782,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2182,
+       "id": 2198,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -401961,11 +406790,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2188,
+       "id": 2204,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2184,
+       "id": 2200,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -401973,7 +406802,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2185,
+       "id": 2201,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402005,7 +406834,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2193,
+       "id": 2209,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402013,7 +406842,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2191,
+       "id": 2207,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402021,7 +406850,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2195,
+       "id": 2211,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402029,19 +406858,19 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2200,
+       "id": 2216,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2202,
+       "id": 2218,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2201,
+       "id": 2217,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2203,
+       "id": 2219,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402061,11 +406890,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2208,
+       "id": 2224,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2175,
+       "id": 2191,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402073,7 +406902,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2222,
+       "id": 2238,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402081,7 +406910,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2220,
+       "id": 2236,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402089,7 +406918,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2227,
+       "id": 2243,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402105,7 +406934,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2228,
+       "id": 2244,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402121,7 +406950,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2231,
+       "id": 2247,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402137,11 +406966,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2234,
+       "id": 2250,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2235,
+       "id": 2251,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402153,7 +406982,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2236,
+       "id": 2252,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402165,7 +406994,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2237,
+       "id": 2253,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402193,7 +407022,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2242,
+       "id": 2258,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402201,11 +407030,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2243,
+       "id": 2259,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2248,
+       "id": 2264,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402213,7 +407042,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2246,
+       "id": 2262,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402225,11 +407054,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2254,
+       "id": 2270,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2252,
+       "id": 2268,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402241,7 +407070,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2298,
+       "id": 2314,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402253,7 +407082,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2259,
+       "id": 2275,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402265,7 +407094,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2260,
+       "id": 2276,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402277,11 +407106,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2261,
+       "id": 2277,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2263,
+       "id": 2279,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402293,23 +407122,23 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2268,
+       "id": 2284,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2179,
+       "id": 2195,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2272,
+       "id": 2288,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2274,
+       "id": 2290,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2273,
+       "id": 2289,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402317,11 +407146,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2276,
+       "id": 2292,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2275,
+       "id": 2291,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402329,7 +407158,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2282,
+       "id": 2298,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402341,7 +407170,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2284,
+       "id": 2300,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402357,7 +407186,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2288,
+       "id": 2304,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402369,7 +407198,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2301,
+       "id": 2317,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402377,11 +407206,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2305,
+       "id": 2321,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2304,
+       "id": 2320,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -402397,11 +407226,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2314,
+       "id": 2330,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2312,
+       "id": 2328,
        "from_source": "worldwide-hypnosis"
       }
      ],
@@ -402423,7 +407252,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2351,
+       "id": 2367,
        "from_source": "hypnosis-assault-loose"
       }
      ],
@@ -402682,7 +407511,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2134,
+       "id": 2150,
        "tags": [
         "Near-miss",
         "Non-qualifying",
@@ -402692,7 +407521,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2135,
+       "id": 2151,
        "tags": [
         "Near-miss",
         "Non-qualifying",
@@ -402702,7 +407531,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2140,
+       "id": 2156,
        "tags": [
         "Near-miss",
         "Non-qualifying",
@@ -402722,7 +407551,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2139,
+       "id": 2155,
        "tags": [
         "Near-miss",
         "Non-qualifying",
@@ -402752,7 +407581,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2136,
+       "id": 2152,
        "tags": [
         "Near-miss",
         "Non-qualifying",
@@ -402762,7 +407591,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2137,
+       "id": 2153,
        "tags": [
         "Near-miss",
         "Non-qualifying",
@@ -402772,7 +407601,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2133,
+       "id": 2149,
        "tags": [
         "Near-miss",
         "Non-qualifying",
@@ -402782,7 +407611,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2138,
+       "id": 2154,
        "tags": [
         "Near-miss",
         "Non-qualifying",
@@ -404441,6 +409270,7 @@ window.CATALOG = {
         "Adult female hypnosis — R-rated-equivalent worldwide",
         "Hypnotized to love",
         "Medical / therapeutic hypnosis",
+        "Doctor hypnotizes female characters for personal gain",
         "Post-hypnotic trigger / murderous concealment",
         "High confidence"
        ],
@@ -406108,7 +410938,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2171,
+       "id": 2187,
        "tags": [
         "Partial / exclusion",
         "Partial / exclusion cases"
@@ -406526,31 +411356,31 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2320,
+       "id": 2336,
        "from_source": "agegap-marriage"
       },
       {
-       "id": 2326,
+       "id": 2342,
        "from_source": "agegap-marriage"
       },
       {
-       "id": 2324,
+       "id": 2340,
        "from_source": "agegap-marriage"
       },
       {
-       "id": 2325,
+       "id": 2341,
        "from_source": "agegap-marriage"
       },
       {
-       "id": 2328,
+       "id": 2344,
        "from_source": "agegap-marriage"
       },
       {
-       "id": 2335,
+       "id": 2351,
        "from_source": "agegap-marriage"
       },
       {
-       "id": 2330,
+       "id": 2346,
        "from_source": "agegap-marriage"
       }
      ],
@@ -406561,7 +411391,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2378,
+       "id": 2394,
        "from_source": "kids-pregnant-again"
       }
      ],
@@ -406572,19 +411402,19 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2416,
+       "id": 2432,
        "from_source": "lesbian-pregnancy"
       },
       {
-       "id": 2423,
+       "id": 2439,
        "from_source": "lesbian-pregnancy"
       },
       {
-       "id": 2420,
+       "id": 2436,
        "from_source": "lesbian-pregnancy"
       },
       {
-       "id": 2418,
+       "id": 2434,
        "from_source": "lesbian-pregnancy"
       }
      ],
@@ -406733,7 +411563,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2170,
+       "id": 2186,
        "tags": [
         "Lead",
         "Unresolved leads"
@@ -407319,11 +412149,11 @@ window.CATALOG = {
   {
    "title": "Pregnant woman hypnotized while pregnant — strict core",
    "category": "pregnant-strict",
-   "description": "Eleven films, episodes, serial arcs and vertical dramas in which a woman’s will is overridden while her pregnancy is ongoing. Literal hypnosis, villain control, supernatural trance and one hired-hypnotist case are separated by controller; Snake Year Salvation adds a documented pregnancy-era pocket-watch hypnosis case, while I Accidentally Had the Billionaire’s Twins is included with its timeline-based pregnancy inference explicitly flagged.",
+   "description": "Twelve films, episodes, serial arcs and vertical dramas in which a woman’s will is overridden while her pregnancy is ongoing. Literal hypnosis, villain control, supernatural trance and one hired-hypnotist case are separated by controller; The Womb / Inang adds a verified pregnancy-era hypnosis scene, while I Accidentally Had the Billionaire’s Twins remains included with its timeline-based pregnancy inference explicitly flagged.",
    "notes": [
     {
-     "html": "<strong>Strict rule:</strong> The same woman must be pregnant while hypnosis, trance or an equivalent will-override is active. Control that only causes pregnancy, non-coercive hypnotherapy, possession without a verified will-override and fetus-targeting rituals are filed in the variants section instead. <em>O Beijo do Vampiro</em> remains a timing-inferred borderline. For <em>Caminhos do Coração</em>, chapter 147’s hypnosis occurs in the same scene as Amália’s pregnancy announcement; this corrects the earlier timing note.",
-     "text": "Strict rule: The same woman must be pregnant while hypnosis, trance or an equivalent will-override is active. Control that only causes pregnancy, non-coercive hypnotherapy, possession without a verified will-override and fetus-targeting rituals are filed in the variants section instead. O Beijo do Vampiro remains a timing-inferred borderline. For Caminhos do Coração , chapter 147’s hypnosis occurs in the same scene as Amália’s pregnancy announcement; this corrects the earlier timing note.",
+     "html": "<strong>Strict rule:</strong> The same woman must be pregnant while hypnosis, trance or an equivalent will-override is active. Control that only causes pregnancy, non-coercive hypnotherapy, possession without a verified will-override and fetus-targeting rituals are filed in the variants section instead. The 2–3 October sweep upgrades <em>The Womb / Inang</em> after two independent plot explainers confirmed Eva hypnotizes pregnant Wulan into staying until after delivery. <em>O Beijo do Vampiro</em> remains a timing-inferred borderline. For <em>Caminhos do Coração</em>, chapter 147’s hypnosis occurs in the same scene as Amália’s pregnancy announcement.",
+     "text": "Strict rule: The same woman must be pregnant while hypnosis, trance or an equivalent will-override is active. Control that only causes pregnancy, non-coercive hypnotherapy, possession without a verified will-override and fetus-targeting rituals are filed in the variants section instead. The 2–3 October sweep upgrades The Womb / Inang after two independent plot explainers confirmed Eva hypnotizes pregnant Wulan into staying until after delivery. O Beijo do Vampiro remains a timing-inferred borderline. For Caminhos do Coração , chapter 147’s hypnosis occurs in the same scene as Amália’s pregnancy announcement.",
      "source": "xla62ucxbx02u5"
     }
    ],
@@ -407402,6 +412232,18 @@ window.CATALOG = {
        ],
        "provenance": "Source basis: Vertical short-drama hypnosis ± pregnancy sweep, 01 Oct 2026 (six vectors; ~85+ query rounds)",
        "entry_note": "Note: The sweep identifies this as the only new strict pregnancy-era hypnosis match. Episode guides alternate the heroine's name between Emma and Dora.",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 168,
+       "tags": [
+        "Pregnant women controlled / possessed by evil forces",
+        "Pregnant woman hypnotized while pregnant — strict core",
+        "Literal hypnosis during pregnancy",
+        "Medium confidence · strict pregnancy-era hypnosis · two independent plot sources"
+       ],
+       "provenance": "Source basis: Worldwide vertical-short and adult/R-rated pregnancy-hypnosis sweep completed 2–3 Oct 2026 across 110 query rounds in 13+ languages. No verified vertical-short, hypno-intimacy or adult/R-rated title was found; five supported catalog updates are retained, with source and confidence limits stated per card, while Ezedike is held outside the catalog pending evidence of a pregnant controlled victim.",
+       "character": "Character: Wulan",
        "from_source": "xla62ucxbx02u5"
       }
      ]
@@ -407568,11 +412410,11 @@ window.CATALOG = {
   {
    "title": "Pregnant woman mind-controlled — variants and leads",
    "category": null,
-   "description": "Twenty-seven pregnancy-and-control cases that do not meet the strict hypnosis-while-pregnant rule: possession, therapeutic sessions without coercion, fetal targeting, control-caused pregnancy, cult coercion, adult-animation variants and unresolved leads. The round-2 sweep adds one attempted-possession variant, corrects one 1971 episode identity, and leaves every mechanism gap explicit.",
+   "description": "Thirty-one pregnancy-and-control cases that do not meet the strict hypnosis-while-pregnant rule: possession, therapeutic sessions without coercion, fetal targeting, control-caused pregnancy, cult coercion, adult-animation variants and unresolved leads. The 2–3 October worldwide sweep adds two medium-confidence supernatural variants and two low-confidence leads, with every missing hypnosis, will-override, date and pregnancy detail stated explicitly.",
    "notes": [
     {
-     "html": "<strong>Round-2 boundary:</strong> No new strict-core title was verified. <em>Don't Turn Around, or You'll Be Sorry</em> is included only as an attempted-possession variant, and <em>The Interns</em> S1E17 only as a diagnostic-hypnosis lead. <strong>Revisit list — not records:</strong> <em>Pregnancy</em> (Nigeria), <em>Zir-i Cin 4: Nesep Bağı</em>, <em>Üç Harfliler: Mühür</em>, <em>Fear Files</em> S3E9, <em>418</em>, the unresolved Nollywood demon-pregnancy video and <em>Revolving Heart / 心门</em>. IAFD direct search and several poorly documented regional or adult-index passes remain open.",
-     "text": "Round-2 boundary: No new strict-core title was verified. Don't Turn Around, or You'll Be Sorry is included only as an attempted-possession variant, and The Interns S1E17 only as a diagnostic-hypnosis lead. Revisit list — not records: Pregnancy (Nigeria), Zir-i Cin 4: Nesep Bağı , Üç Harfliler: Mühür , Fear Files S3E9, 418 , the unresolved Nollywood demon-pregnancy video and Revolving Heart / 心门 . IAFD direct search and several poorly documented regional or adult-index passes remain open.",
+     "html": "<strong>2–3 October worldwide sweep:</strong> 110 multilingual query rounds found no verified vertical-short, hypno-intimacy or adult/R-rated addition. <em>Djinn</em> and <em>Alkarısı Cinnet</em> are medium-confidence supernatural variants; <em>Cin Azabı</em> and <em>Sehr El Aswad</em> remain low-confidence leads, not verified matches. <em>Ezedike (The Pregnant Witches)</em> is held outside the catalog because the pregnant women appear to be agents rather than controlled victims and no mind-control mechanism is confirmed. Earlier round-2 additions and every unresolved mechanism remain labeled on their cards. <strong>Revisit list — not records:</strong> <em>Pregnancy</em> (Nigeria), <em>Zir-i Cin 4: Nesep Bağı</em>, <em>Üç Harfliler: Mühür</em>, <em>Fear Files</em> S3E9, <em>418</em>, the unresolved Nollywood demon-pregnancy video and <em>Revolving Heart / 心门</em>.",
+     "text": "2–3 October worldwide sweep: 110 multilingual query rounds found no verified vertical-short, hypno-intimacy or adult/R-rated addition. Djinn and Alkarısı Cinnet are medium-confidence supernatural variants; Cin Azabı and Sehr El Aswad remain low-confidence leads, not verified matches. Ezedike (The Pregnant Witches) is held outside the catalog because the pregnant women appear to be agents rather than controlled victims and no mind-control mechanism is confirmed. Earlier round-2 additions and every unresolved mechanism remain labeled on their cards. Revisit list — not records: Pregnancy (Nigeria), Zir-i Cin 4: Nesep Bağı , Üç Harfliler: Mühür , Fear Files S3E9, 418 , the unresolved Nollywood demon-pregnancy video and Revolving Heart / 心门 .",
      "source": "xla62ucxbx02u5"
     }
    ],
@@ -407594,6 +412436,17 @@ window.CATALOG = {
        ],
        "provenance": "Source basis: Round-2 super-deep worldwide sweep completed 1 Oct 2026 across seven regional vectors; no net-new strict-core title was verified. Adult / R-rated / erotic plot indexes were included, with remaining access and documentation gaps stated in the catalog notes.",
        "character": "Character: İrem (Merve Özel)",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 2134,
+       "tags": [
+        "Pregnant woman mind-controlled — variants and leads",
+        "Alkarısı / jinn haunting during pregnancy",
+        "Medium confidence · supernatural haunting variant · will-override unverified"
+       ],
+       "provenance": "Source basis: Worldwide vertical-short and adult/R-rated pregnancy-hypnosis sweep completed 2–3 Oct 2026 across 110 query rounds in 13+ languages. No verified vertical-short, hypno-intimacy or adult/R-rated title was found; five supported catalog updates are retained, with source and confidence limits stated per card, while Ezedike is held outside the catalog pending evidence of a pregnant controlled victim.",
+       "character": "Character: Dilara",
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -407641,6 +412494,17 @@ window.CATALOG = {
        ],
        "provenance": "Source basis: Seven-region Indian-language gap-fill sweep; both matches re-verified by direct Wikipedia page fetch on 30 Sep 2026.",
        "character": "Character: Devi",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 2133,
+       "tags": [
+        "Pregnant woman mind-controlled — variants and leads",
+        "Djinn illusion / possession targeting a pregnant woman",
+        "Medium confidence · broader supernatural-control variant · not literal hypnosis"
+       ],
+       "provenance": "Source basis: Worldwide vertical-short and adult/R-rated pregnancy-hypnosis sweep completed 2–3 Oct 2026 across 110 query rounds in 13+ languages. No verified vertical-short, hypno-intimacy or adult/R-rated title was found; five supported catalog updates are retained, with source and confidence limits stated per card, while Ezedike is held outside the catalog pending evidence of a pregnant controlled victim.",
+       "character": "Character: Aisha (Aiysha Hart)",
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -407844,6 +412708,7 @@ window.CATALOG = {
        "tags": [
         "Adult female hypnosis — R-rated-equivalent worldwide",
         "Pregnant woman mind-controlled — variants and leads",
+        "Hypnotized woman intimate with the hypnotist or the man he directs",
         "Hypnotically induced simulated “pregnancy experience”",
         "Adult-animation variant · simulated pregnancy, not a real pregnancy"
        ],
@@ -407890,6 +412755,17 @@ window.CATALOG = {
        ],
        "provenance": "Source basis: Combined worldwide and Indian-language pregnancy-control sweep completed 30 Sep 2026; every title was checked against the loaded catalog before category assignment.",
        "character": "Character: Snigdha",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 2135,
+       "tags": [
+        "Pregnant woman mind-controlled — variants and leads",
+        "Djinn infestation / haunting of a pregnant woman",
+        "Low confidence · unresolved lead · year unverified · single weak source"
+       ],
+       "provenance": "Source basis: Worldwide vertical-short and adult/R-rated pregnancy-hypnosis sweep completed 2–3 Oct 2026 across 110 query rounds in 13+ languages. No verified vertical-short, hypno-intimacy or adult/R-rated title was found; five supported catalog updates are retained, with source and confidence limits stated per card, while Ezedike is held outside the catalog pending evidence of a pregnant controlled victim.",
+       "character": "Character: Zeynep",
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -407961,6 +412837,16 @@ window.CATALOG = {
         "Low confidence · unresolved lead · still airing at time of sweep"
        ],
        "provenance": "Source basis: Combined worldwide and Indian-language pregnancy-control sweep completed 30 Sep 2026; every title was checked against the loaded catalog before category assignment.",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 2136,
+       "tags": [
+        "Pregnant woman mind-controlled — variants and leads",
+        "Black-magic series theme; pregnant victim unverified",
+        "Low confidence · unresolved lead · pregnancy element unverified"
+       ],
+       "provenance": "Source basis: Worldwide vertical-short and adult/R-rated pregnancy-hypnosis sweep completed 2–3 Oct 2026 across 110 query rounds in 13+ languages. No verified vertical-short, hypno-intimacy or adult/R-rated title was found; five supported catalog updates are retained, with source and confidence limits stated per card, while Ezedike is held outside the catalog pending evidence of a pregnant controlled victim.",
        "from_source": "xla62ucxbx02u5"
       }
      ]
@@ -408281,9 +413167,12 @@ window.CATALOG = {
        "id": 168,
        "tags": [
         "Pregnant women controlled / possessed by evil forces",
-        "Occult-group manipulation",
-        "Medium confidence · close variant"
+        "Pregnant woman hypnotized while pregnant — strict core",
+        "Literal hypnosis during pregnancy",
+        "Medium confidence · strict pregnancy-era hypnosis · two independent plot sources"
        ],
+       "provenance": "Source basis: Worldwide vertical-short and adult/R-rated pregnancy-hypnosis sweep completed 2–3 Oct 2026 across 110 query rounds in 13+ languages. No verified vertical-short, hypno-intimacy or adult/R-rated title was found; five supported catalog updates are retained, with source and confidence limits stated per card, while Ezedike is held outside the catalog pending evidence of a pregnant controlled victim.",
+       "character": "Character: Wulan",
        "from_source": "xla62ucxbx02u5"
       }
      ]
@@ -408729,7 +413618,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2175,
+       "id": 2191,
        "from_source": "worldwide-hypnosis"
       }
      ],
@@ -408923,7 +413812,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2141,
+       "id": 2157,
        "tags": [
         "Forcibly hypnotized to obey",
         "Inheritance theft",
@@ -408955,7 +413844,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2142,
+       "id": 2158,
        "tags": [
         "Forcibly hypnotized to obey",
         "Hypnotized into crime",
@@ -409227,7 +414116,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2346,
+       "id": 2362,
        "from_source": "hypnosis-assault-loose"
       }
      ],
@@ -409254,7 +414143,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2143,
+       "id": 2159,
        "tags": [
         "Love potion",
         "Marriage repair",
@@ -412252,15 +417141,15 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2183,
+       "id": 2199,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2187,
+       "id": 2203,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2185,
+       "id": 2201,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -412280,7 +417169,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2194,
+       "id": 2210,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -412292,7 +417181,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2197,
+       "id": 2213,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -412308,7 +417197,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2206,
+       "id": 2222,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -412316,15 +417205,15 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2214,
+       "id": 2230,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2208,
+       "id": 2224,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2219,
+       "id": 2235,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -412344,7 +417233,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2229,
+       "id": 2245,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -412356,11 +417245,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2296,
+       "id": 2312,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2238,
+       "id": 2254,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -412372,23 +417261,23 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2241,
+       "id": 2257,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2249,
+       "id": 2265,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2251,
+       "id": 2267,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2256,
+       "id": 2272,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2259,
+       "id": 2275,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -412400,11 +417289,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2270,
+       "id": 2286,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2271,
+       "id": 2287,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -412416,7 +417305,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2278,
+       "id": 2294,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -412424,39 +417313,15 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2283,
+       "id": 2299,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2284,
+       "id": 2300,
        "from_source": "worldwide-hypnosis"
       },
       {
        "id": 1800,
-       "from_source": "worldwide-hypnosis"
-      },
-      {
-       "id": 2285,
-       "from_source": "worldwide-hypnosis"
-      },
-      {
-       "id": 2287,
-       "from_source": "worldwide-hypnosis"
-      },
-      {
-       "id": 727,
-       "from_source": "worldwide-hypnosis"
-      },
-      {
-       "id": 2289,
-       "from_source": "worldwide-hypnosis"
-      },
-      {
-       "id": 1850,
-       "from_source": "worldwide-hypnosis"
-      },
-      {
-       "id": 2291,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -412468,19 +417333,43 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
+       "id": 727,
+       "from_source": "worldwide-hypnosis"
+      },
+      {
+       "id": 2305,
+       "from_source": "worldwide-hypnosis"
+      },
+      {
+       "id": 1850,
+       "from_source": "worldwide-hypnosis"
+      },
+      {
+       "id": 2307,
+       "from_source": "worldwide-hypnosis"
+      },
+      {
+       "id": 2317,
+       "from_source": "worldwide-hypnosis"
+      },
+      {
+       "id": 2319,
+       "from_source": "worldwide-hypnosis"
+      },
+      {
        "id": 1889,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2308,
+       "id": 2324,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2311,
+       "id": 2327,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2310,
+       "id": 2326,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -412555,7 +417444,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2346,
+       "id": 2362,
        "from_source": "hypnosis-assault-loose"
       },
       {
@@ -412570,7 +417459,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2432,
+       "id": 2448,
        "from_source": "royal-hypnosis-loose"
       }
      ],
@@ -412932,7 +417821,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2330,
+       "id": 2346,
        "from_source": "agegap-marriage"
       }
      ],
@@ -412943,7 +417832,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2339,
+       "id": 2355,
        "from_source": "mom-pregnancy"
       },
       {
@@ -412955,7 +417844,7 @@ window.CATALOG = {
        "from_source": "mom-pregnancy"
       },
       {
-       "id": 2341,
+       "id": 2357,
        "from_source": "mom-pregnancy"
       },
       {
@@ -412982,15 +417871,15 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2398,
+       "id": 2414,
        "from_source": "kids-pregnant-again"
       },
       {
-       "id": 2410,
+       "id": 2426,
        "from_source": "kids-pregnant-again"
       },
       {
-       "id": 2375,
+       "id": 2391,
        "from_source": "kids-pregnant-again"
       }
      ],
@@ -413948,7 +418837,7 @@ window.CATALOG = {
      ],
      "items": [
       {
-       "id": 2157,
+       "id": 2173,
        "tags": [
         "Supported",
         "Supernatural / enchanted-object control"
@@ -416695,7 +421584,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2160,
+       "id": 2176,
        "tags": [
         "Cataloged",
         "Classic gothic mesmerism"
@@ -416736,7 +421625,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2161,
+       "id": 2177,
        "tags": [
         "Cataloged",
         "Modern TV mesmerism"
@@ -416788,7 +421677,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2162,
+       "id": 2178,
        "tags": [
         "Cataloged",
         "Regional vampire cinema"
@@ -416844,7 +421733,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2181,
+       "id": 2197,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -416856,7 +421745,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2294,
+       "id": 2310,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -416864,7 +421753,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2198,
+       "id": 2214,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -416872,7 +421761,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2196,
+       "id": 2212,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -416884,7 +421773,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2211,
+       "id": 2227,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -416892,11 +421781,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2216,
+       "id": 2232,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2215,
+       "id": 2231,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -416904,19 +421793,19 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2218,
+       "id": 2234,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2217,
+       "id": 2233,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2221,
+       "id": 2237,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2223,
+       "id": 2239,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -416924,11 +421813,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2225,
+       "id": 2241,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2228,
+       "id": 2244,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -416936,7 +421825,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2232,
+       "id": 2248,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -416944,11 +421833,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2240,
+       "id": 2256,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2247,
+       "id": 2263,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -416956,27 +421845,27 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2253,
+       "id": 2269,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2250,
+       "id": 2266,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2256,
+       "id": 2272,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2257,
+       "id": 2273,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2299,
+       "id": 2315,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2265,
+       "id": 2281,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -416984,11 +421873,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2262,
+       "id": 2278,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2269,
+       "id": 2285,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -416996,19 +421885,19 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2277,
+       "id": 2293,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2280,
+       "id": 2296,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2292,
+       "id": 2308,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2302,
+       "id": 2318,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -417016,7 +421905,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2309,
+       "id": 2325,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -417028,7 +421917,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2313,
+       "id": 2329,
        "from_source": "worldwide-hypnosis"
       }
      ],
@@ -417043,7 +421932,7 @@ window.CATALOG = {
        "from_source": "hypnotized-love"
       },
       {
-       "id": 2317,
+       "id": 2333,
        "from_source": "hypnotized-love"
       }
      ],
@@ -417209,7 +422098,7 @@ window.CATALOG = {
   {
    "title": "Wife / female character forcibly hypnotized to obey",
    "category": "forced-obedience",
-   "description": "The worldwide index now adds three short-form vertical dramas: The Photo That Changed Everything uses a hypnosis microchip for forced obedience; Beneath the Snow, Something Lies Waiting is a brainwashing-framed variant; and Alpha, She Wasn’t the One carries an explicit memory-erasure rather than obedience caveat. A Lover’s Trap is separately grouped as an unresolved LOW-confidence lead. Earlier additions include Stay Away! She’s a Violent Psycho!, the Hallmark sleeper-agent case Jane Doe: How to Fire Your Boss, and El Maleficio (2023) episode 54 as a thwarted attempted-control event.",
+   "description": "The worldwide index now adds Super Godfather: My Ex Begs Me on Her Knees, a ReelShort vertical drama with an official episode-level hypnosis beat, and cross-files O Hipnotizador S02E02 as a clearly labeled false-memory-manipulation variant. Earlier additions include The Photo That Changed Everything, Beneath the Snow, Something Lies Waiting, Alpha, She Wasn’t the One, Stay Away! She’s a Violent Psycho!, the Hallmark sleeper-agent case Jane Doe: How to Fire Your Boss, and El Maleficio (2023) episode 54. A Lover’s Trap remains a separate unresolved LOW-confidence lead.",
    "notes": [
     {
      "html": "<strong>Search boundary:</strong> Voluntary therapeutic hypnosis without obedience, fake hypnosis, male-only victims and reverse-direction cases were excluded. Sub-Saharan Africa has ~zero verified matches, no Italian or Spanish-language film match was verified, and Tamil/Kannada remain a structural zero; the Nikkatsu / pinku vein and the Philippines/Indonesia are indexing gaps rather than proof of absence.",
@@ -417250,6 +422139,7 @@ window.CATALOG = {
         "Mother with child hypnotized / mind-controlled",
         "Wife / female character forcibly hypnotized to obey",
         "Adult female hypnosis — R-rated-equivalent worldwide",
+        "Doctor hypnotizes female characters for personal gain",
         "Predatory hypnotic influence",
         "Medium-high confidence · wife"
        ],
@@ -417557,6 +422447,18 @@ window.CATALOG = {
        "from_source": "xla62ucxbx02u5"
       },
       {
+       "id": 2137,
+       "tags": [
+        "Vertical short",
+        "Wife / female character forcibly hypnotized to obey",
+        "Supernatural gaze hypnosis / memory and compliance",
+        "High confidence · official episode-level source"
+       ],
+       "provenance": "Source basis: Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded.",
+       "character": "Character: Cathey (Cain Hunter’s stepmother)",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
        "id": 32,
        "tags": [
         "Hypnotized to love",
@@ -417619,9 +422521,71 @@ window.CATALOG = {
        "tags": [
         "Adult female hypnosis — R-rated-equivalent worldwide",
         "Wife / female character forcibly hypnotized to obey",
+        "Doctor hypnotizes female characters for personal gain",
+        "Hypnotized woman intimate with the hypnotist or the man he directs",
         "Comedy, light stories and historical demonstrations",
         "High confidence"
        ],
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 1058,
+       "tags": [
+        "Medical / therapeutic hypnosis",
+        "Wife hypnotized / controlled by a therapist",
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
+        "Hypnosis",
+        "Corroborated · air-date conflict"
+       ],
+       "provenance": "Source basis: Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
+       "entry_note": "Note: Outcome facts: married: no; kids status: unknown.",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 244,
+       "tags": [
+        "Human-villain control",
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
+        "Human-villain hypnosis / mind control",
+        "Research report · web-verified"
+       ],
+       "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 48,
+       "tags": [
+        "Hypnotized to love",
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
+        "Hypnotized queen/princess for marriage or the throne",
+        "Control chip"
+       ],
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 2143,
+       "tags": [
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
+        "Brain chip + surgical personality adjustment — sci-fi brainwashing",
+        "HIGH · NON-TRANCE MECHANISM"
+       ],
+       "entry_note": "Note: The control is chip-assisted surgery and brainwashing, not classical hypnosis.",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 232,
+       "tags": [
+        "Human-villain control",
+        "Wife / female character forcibly hypnotized to obey",
+        "Doctor hypnotizes female characters for personal gain",
+        "Human-villain hypnosis / mind control",
+        "Research report · web-verified"
+       ],
+       "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -417631,6 +422595,7 @@ window.CATALOG = {
         "Medical / therapeutic hypnosis",
         "Adult female hypnosis — R-rated-equivalent worldwide",
         "Wife / female character forcibly hypnotized to obey",
+        "Doctor hypnotizes female characters for personal gain",
         "Hypnosis",
         "Corroborated · 4 sources"
        ],
@@ -417644,9 +422609,67 @@ window.CATALOG = {
         "Adult female hypnosis — R-rated-equivalent worldwide",
         "Wife / female character forcibly hypnotized to obey",
         "Hypnotized to love",
+        "Doctor hypnotizes female characters for personal gain",
         "Criminal mastermind or villain hypnotist",
         "High confidence"
        ],
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 2147,
+       "tags": [
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
+        "Psychological manipulation in therapy — not formal trance",
+        "MEDIUM · BORDERLINE NON-TRANCE MECHANISM"
+       ],
+       "provenance": "Source basis: Additional sources reviewed in the 2 October 2026 sweep: TVyNovelas and EnPalco.",
+       "entry_note": "Note: The sourced mechanism is psychological manipulation under a therapy setting, not formal trance hypnosis.",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 2142,
+       "tags": [
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
+        "Hypnotic trance",
+        "HIGH"
+       ],
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 2141,
+       "tags": [
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
+        "Trance presented as therapeutic hypnosis",
+        "HIGH"
+       ],
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 2144,
+       "tags": [
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
+        "Psychiatric conditioning / brainwashing — not stage trance",
+        "HIGH · NON-TRANCE MECHANISM"
+       ],
+       "sources": [
+        {
+         "label": "Bustle",
+         "url": "https://www.bustle.com/articles/21418-did-hannibal-really-just-kill-off-dr-chilton-we-search-for-spoilers-in-the-books"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Yakimono_(Hannibal)"
+        },
+        {
+         "label": "Den of Geek",
+         "url": "https://www.denofgeek.com/tv/hannibal-season-2-episode-7-review-yakimono/"
+        }
+       ],
+       "entry_note": "Note: The series frames this as prolonged psychiatric conditioning and mind control rather than stage-style hypnosis.",
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -417658,6 +422681,7 @@ window.CATALOG = {
         "Adult female hypnosis — R-rated-equivalent worldwide",
         "Hypnotized to love",
         "Medical / therapeutic hypnosis",
+        "Doctor hypnotizes female characters for personal gain",
         "Post-hypnotic trigger / murderous concealment",
         "High confidence"
        ],
@@ -417675,6 +422699,7 @@ window.CATALOG = {
         "Hypnotized / controlled into infidelity",
         "Medical / therapeutic hypnosis",
         "Human-villain control",
+        "Doctor hypnotizes female characters for personal gain",
         "Deep hypnosis / therapist boundary violation",
         "High confidence"
        ],
@@ -417684,6 +422709,7 @@ window.CATALOG = {
        "id": 620,
        "tags": [
         "Wife / female character forcibly hypnotized to obey",
+        "Doctor hypnotizes female characters for personal gain",
         "Non-consensual hypnotherapy / memory alteration",
         "Medium-high confidence · synopsis-level"
        ],
@@ -417700,6 +422726,68 @@ window.CATALOG = {
         "High confidence · sexual assault"
        ],
        "character": "Character: Zainab",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 2148,
+       "tags": [
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
+        "Secret clinical hypnosis + bell post-hypnotic trigger",
+        "MEDIUM · [EROTIC] PINK FILM"
+       ],
+       "entry_note": "Note: Erotic pink film. The gain is institutional and commercial experimentation as well as control over the patient.",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 1670,
+       "tags": [
+        "Lesbian couple pregnancy (female same-sex couple)",
+        "Pregnant lesbian couple — intimate/sex scene",
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
+        "Control mechanism unstated",
+        "High · Wikipedia season 7 episode list + character articles"
+       ],
+       "provenance": "Source basis: Lesbian-couple pregnancy research pass, 30 Sep 2026 (adult couples only; non-explicit notes)",
+       "entry_note": "Note: Outcome facts: pregnancy outcome: gives birth (twins); kids status: no. Intimacy-scene evidence (1 Oct 2026 sweep): 7x10 'The DArkest Knight' — Alison reveals the pregnancy and they kiss; in S7B they exchange 'I love yous' and become a couple while Alison is visibly pregnant; engaged in the series finale. Kiss-level only; no explicit sex scene documented. Confidence: MEDIUM-HIGH. Note: the pregnancy itself is a coercive backstory — Emily's eggs were non-consensually implanted in Alison by Archer/Elliot.",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 2145,
+       "tags": [
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
+        "Hypnosis + drugs",
+        "HIGH · FEMALE DOCTOR"
+       ],
+       "entry_note": "Note: Controller is a female hypnotherapist; the film is based on a therapist-abuse case.",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 1779,
+       "tags": [
+        "Hypnotized into crime",
+        "Human-villain control",
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
+        "Hypnotic gaze",
+        "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed"
+       ],
+       "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
+       "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 2146,
+       "tags": [
+        "Doctor hypnotizes female characters for personal gain",
+        "Wife / female character forcibly hypnotized to obey",
+        "Hypnotic drug + electronic mind-control apparatus",
+        "MEDIUM · DRUG / MACHINE MECHANISM"
+       ],
+       "provenance": "Source basis: Additional sources reviewed in the 2 October 2026 sweep: Robert Monell and The Digital Bits.",
+       "entry_note": "Note: The gain is state-secret theft and power; the mechanism combines drugs and a machine rather than standalone trance hypnosis.",
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -417827,17 +422915,6 @@ window.CATALOG = {
      "title": "Cult leader, charlatan or fraudulent guru",
      "notes": [],
      "items": [
-      {
-       "id": 232,
-       "tags": [
-        "Human-villain control",
-        "Wife / female character forcibly hypnotized to obey",
-        "Human-villain hypnosis / mind control",
-        "Research report · web-verified"
-       ],
-       "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
-       "from_source": "xla62ucxbx02u5"
-      },
       {
        "id": 606,
        "tags": [
@@ -418056,6 +423133,7 @@ window.CATALOG = {
         "Wife / female character forcibly hypnotized to obey",
         "Hypnotized woman intimate with the hypnotist or the man he directs",
         "Human-villain control",
+        "Doctor hypnotizes female characters for personal gain",
         "Criminal mastermind or villain hypnotist",
         "High confidence"
        ],
@@ -418144,6 +423222,9 @@ window.CATALOG = {
        "tags": [
         "Wife / female character forcibly hypnotized to obey",
         "Polygamy + female hypnosis / mind control",
+        "Doctor hypnotizes female characters for personal gain",
+        "Adult female hypnosis — R-rated-equivalent worldwide",
+        "Hypnotized woman intimate with the hypnotist or the man he directs",
         "Doctor-administered hypnosis / sexual enslavement",
         "Low-medium confidence · explicit sexual content"
        ],
@@ -418154,6 +423235,9 @@ window.CATALOG = {
        "tags": [
         "Wife / female character forcibly hypnotized to obey",
         "Polygamy + female hypnosis / mind control",
+        "Doctor hypnotizes female characters for personal gain",
+        "Adult female hypnosis — R-rated-equivalent worldwide",
+        "Hypnotized woman intimate with the hypnotist or the man he directs",
         "Hypnotic drugs / will alteration",
         "Low-medium confidence · explicit sexual content"
        ],
@@ -418181,6 +423265,18 @@ window.CATALOG = {
         "Witchcraft-induced trance",
         "High confidence · borderline mechanism"
        ],
+       "from_source": "xla62ucxbx02u5"
+      },
+      {
+       "id": 676,
+       "tags": [
+        "Adult female hypnosis — R-rated-equivalent worldwide",
+        "Wife / female character forcibly hypnotized to obey",
+        "Hypnosis / false-memory manipulation",
+        "Medium confidence · memory-manipulation variant"
+       ],
+       "provenance": "Source basis: Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Episode sources: Episodate, TVmaze and WhenHBO.",
+       "character": "Character: Teresa",
        "from_source": "xla62ucxbx02u5"
       }
      ]
@@ -418321,7 +423417,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2146,
+       "id": 2162,
        "tags": [
         "Cataloged",
         "Supernatural"
@@ -418337,7 +423433,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2147,
+       "id": 2163,
        "tags": [
         "Variant",
         "Mechanism variants"
@@ -418353,7 +423449,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2336,
+       "id": 2352,
        "from_source": "older-man-hypnosis"
       }
      ],
@@ -418529,7 +423625,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2151,
+       "id": 2167,
        "tags": [
         "Near-miss",
         "Near-misses"
@@ -418556,7 +423652,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2150,
+       "id": 2166,
        "tags": [
         "Near-miss",
         "Near-misses"
@@ -418932,7 +424028,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2152,
+       "id": 2168,
        "tags": [
         "Close variant",
         "Labeled close variants"
@@ -418948,7 +424044,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2155,
+       "id": 2171,
        "tags": [
         "Near-miss",
         "Near-misses"
@@ -418957,7 +424053,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2153,
+       "id": 2169,
        "tags": [
         "Near-miss",
         "Near-misses"
@@ -418966,7 +424062,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2154,
+       "id": 2170,
        "tags": [
         "Near-miss",
         "Near-misses"
@@ -418975,7 +424071,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2156,
+       "id": 2172,
        "tags": [
         "Near-miss",
         "Near-misses"
@@ -419507,11 +424603,11 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2423,
+       "id": 2439,
        "from_source": "lesbian-pregnancy"
       },
       {
-       "id": 2420,
+       "id": 2436,
        "from_source": "lesbian-pregnancy"
       }
      ],
@@ -420093,39 +425189,59 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 2350,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 2336,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 2349,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 2342,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 2345,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 2338,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 2340,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 2341,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 2344,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 2351,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 2347,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 2346,
+       "from_source": "agegap-marriage"
+      },
+      {
+       "id": 2337,
+       "from_source": "agegap-marriage"
+      },
+      {
        "id": 2334,
-       "from_source": "agegap-marriage"
-      },
-      {
-       "id": 2320,
-       "from_source": "agegap-marriage"
-      },
-      {
-       "id": 2333,
-       "from_source": "agegap-marriage"
-      },
-      {
-       "id": 2326,
-       "from_source": "agegap-marriage"
-      },
-      {
-       "id": 2329,
-       "from_source": "agegap-marriage"
-      },
-      {
-       "id": 2322,
-       "from_source": "agegap-marriage"
-      },
-      {
-       "id": 2324,
-       "from_source": "agegap-marriage"
-      },
-      {
-       "id": 2325,
-       "from_source": "agegap-marriage"
-      },
-      {
-       "id": 2328,
        "from_source": "agegap-marriage"
       },
       {
@@ -420133,35 +425249,15 @@ window.CATALOG = {
        "from_source": "agegap-marriage"
       },
       {
-       "id": 2331,
+       "id": 2348,
        "from_source": "agegap-marriage"
       },
       {
-       "id": 2330,
+       "id": 2339,
        "from_source": "agegap-marriage"
       },
       {
-       "id": 2321,
-       "from_source": "agegap-marriage"
-      },
-      {
-       "id": 2318,
-       "from_source": "agegap-marriage"
-      },
-      {
-       "id": 2319,
-       "from_source": "agegap-marriage"
-      },
-      {
-       "id": 2332,
-       "from_source": "agegap-marriage"
-      },
-      {
-       "id": 2323,
-       "from_source": "agegap-marriage"
-      },
-      {
-       "id": 2327,
+       "id": 2343,
        "from_source": "agegap-marriage"
       }
      ],

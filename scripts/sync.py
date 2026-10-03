@@ -92,6 +92,8 @@ SOURCES = [
      "local": "sources/mainstream-erotic.json", "required": False},
     {"id": "open-sites-hypnosis", "label": "Open-site hypnosis / mind-control sweep",
      "local": "sources/open-sites-hypnosis.json", "required": False},
+    {"id": "hypnotized-marriage", "label": "Hypnotised-marriage research",
+     "local": "sources/hypnotized-marriage.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "

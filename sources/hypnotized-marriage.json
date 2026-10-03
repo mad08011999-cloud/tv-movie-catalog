@@ -1,0 +1,969 @@
+{
+ "id": "hypnotized-marriage",
+ "label": "Hypnotised-marriage research",
+ "group_title": "Hypnotised / spell-bound into marriage (Oct 2026)",
+ "description": "Adult women hypnotised, mind-controlled, spell- or potion-bound into marrying someone, or married while under that control, with kids/pregnancy fields filled (incl. mothers who already have children). Existing cards are tagged; new titles are added only with a verified free legal link. Minors and animal-led titles excluded.",
+ "records": [
+  {
+   "title": "American Dad!",
+   "year": "2007",
+   "match_title": "American Dad!",
+   "match_year": "2007",
+   "format": "tv",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Married while hypnotised / spell-bound (wedding performed)",
+   "sources": [
+    {
+     "label": "TMDB",
+     "url": "https://www.themoviedb.org/tv/1433-american-dad/season/4/episode/5?language=en-US"
+    },
+    {
+     "label": "American Dad Wiki",
+     "url": "https://americandad.fandom.com/wiki/Hayley_Smith"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "married": "yes",
+   "married_note": "Hayley marries Dill Sheppard while brainwashed (Stan, her father, orders it); Dill is the husband, not the controller",
+   "already_married": "no",
+   "already_married_note": "Hayley is unmarried before the order",
+   "kids_status": "no",
+   "kids_note": "no children of her own in the episode",
+   "fit_note": "Adult woman brainwashed by her father into a wedding with a man she did not choose."
+  },
+  {
+   "title": "Black Magic",
+   "year": "1949",
+   "match_title": "Black Magic",
+   "match_year": "1949",
+   "format": "movie",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Married while hypnotised / spell-bound (wedding performed)",
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Black_Magic_(1949_film)"
+    },
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Black_Magic_%281949_Italian-American_film%29"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "already_married": "no",
+   "already_married_note": "Lorenza is not married; Cagliostro hypnotises her to forget her true love and marry him",
+   "fit_note": "Cagliostro hypnotises Lorenza into forgetting her love and marrying him."
+  },
+  {
+   "title": "Another World",
+   "year": "1998–99",
+   "match_title": "Another World",
+   "match_year": "1998–99",
+   "format": "tv",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Married while hypnotised / spell-bound (wedding performed)",
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Another_World_%28Soap_Opera%29"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Another_World_%28TV_series%29"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Lila Roberts is mind-controlled (Lumina) and marries Matt Cory while under control."
+  },
+  {
+   "title": "Isle of the Snake People",
+   "year": "1971",
+   "match_title": "Isle of the Snake People",
+   "match_year": "1971",
+   "format": "movie",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Married while hypnotised / spell-bound (wedding performed)",
+   "sources": [
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Isle_of_the_Snake_People"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Staged marriage ceremony with a hypnotised, mesmerised bride (Mary Ann)."
+  },
+  {
+   "title": "Super Models",
+   "year": "1997–99",
+   "match_title": "Super Models",
+   "match_year": "1997–99",
+   "format": "tv",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Married while hypnotised / spell-bound (wedding performed)",
+   "sources": [
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Super_Models"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Animated series; hypnotised model made a bride (ep. 22) and an agency owner mind-controlled into love and marriage (ep. 24)."
+  },
+  {
+   "title": "The Twilight Zone",
+   "year": "1960",
+   "match_title": "The Twilight Zone",
+   "match_year": "1960",
+   "format": "tv",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Married while hypnotised / spell-bound (wedding performed)",
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Chaser_(The_Twilight_Zone)"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "already_married": "no",
+   "already_married_note": "Leila is unmarried and indifferent to Roger before the love potion",
+   "kids_status": "no",
+   "kids_note": "no children before the potion; she becomes pregnant after the marriage",
+   "fit_note": "Love-potion marriage; she becomes pregnant after the enchantment (see pregnancy fields)."
+  },
+  {
+   "title": "Dharam Veer",
+   "year": "1977",
+   "match_title": "Dharam Veer",
+   "match_year": "1977",
+   "format": "movie",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Married while hypnotised / spell-bound (wedding performed)",
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Dharam_Veer"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Dharam_Veer_%28film%29"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "already_married": "no",
+   "already_married_note": "the princess is unmarried until she is wed to a stranger while in a trance",
+   "fit_note": "Princess in an obedient trance is married to a stranger; pregnant by the end (see pregnancy fields)."
+  },
+  {
+   "title": "Super Force",
+   "year": "1990–1992",
+   "match_title": "Super Force",
+   "match_year": "1990–1992",
+   "format": "tv",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Married while hypnotised / spell-bound (wedding performed)",
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Super_Force"
+    },
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Super_Force"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Mind-control chips program female students to marry rich men (then kill them for the inheritance)."
+  },
+  {
+   "title": "Yeh Hai Chahatein",
+   "year": "2019–2024",
+   "match_title": "Yeh Hai Chahatein",
+   "match_year": "2019–2024",
+   "format": "tv",
+   "categories": [
+    "hypnotized-marriage",
+    "hypnotised-mother-marriage"
+   ],
+   "group": "Married while hypnotised / spell-bound (wedding performed)",
+   "sources": [
+    {
+     "label": "SerialGossip spoiler (16 Jun 2022)",
+     "url": "https://www.serialgossip.com/spoiler-76371-a"
+    },
+    {
+     "label": "TellyChakkar (22 Aug 2022)",
+     "url": "https://www.tellychakkar.com/spoiler-alert/yeh-hai-chahatein-cruel-preesha-gets-flash-of-memory-armaan-increases-her-dosage"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "already_married": "yes",
+   "already_married_note": "Preesha is the wife of rock star Rudraksh Khurana when Armaan drugs and hypnotises her into believing she is happily married to him",
+   "kids_note": "two children: son Saaransh and a newborn taken away",
+   "fit_note": "Already-married mother hypnotised into believing in a new marriage; see also the mother category."
+  },
+  {
+   "title": "Wish Ko Lang: \"Gayuma\"",
+   "year": "2021",
+   "match_title": "Wish Ko Lang: \"Gayuma\"",
+   "match_year": "2021",
+   "format": "tv",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+   "sources": [
+    {
+     "label": "catalog card",
+     "url": "https://mad08011999-cloud.github.io/tv-movie-catalog/"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Love-potion spell makes the woman agree to marry."
+  },
+  {
+   "title": "Yehh Jadu Hai Jinn Ka",
+   "year": "2019–20",
+   "match_title": "Yehh Jadu Hai Jinn Ka",
+   "match_year": "2019–20",
+   "format": "tv",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+   "sources": [
+    {
+     "label": "Bollywood Life",
+     "url": "https://www.bollywoodlife.com/tv/yehh-jaadu-hai-jinn-ka-spoiler-alert-roshni-to-save-aman-from-a-deadly-attack-1542818/"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Resurrected woman under a spell agrees to marry the sorcerer."
+  },
+  {
+   "title": "3D Spy",
+   "year": "2015",
+   "match_title": "3D Spy",
+   "match_year": "2015",
+   "format": "tv",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+   "sources": [
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/3D_Spy_(Thai_TV_Series)"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Thai TV series: evil magician hypnotises a woman into marrying a man."
+  },
+  {
+   "title": "Ivanhoe, the King's Knight",
+   "year": "1997",
+   "match_title": "Ivanhoe, the King's Knight",
+   "match_year": "1997",
+   "format": "tv",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+   "sources": [
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Ivanhoe,_the_King%27s_Knight"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Rowena is drugged and hypnotised into marrying Prince John."
+  },
+  {
+   "title": "Robin of Sherwood",
+   "year": "1986",
+   "match_title": "Robin of Sherwood",
+   "match_year": "1986",
+   "format": "tv",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+   "sources": [
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Robin_of_Sherwood"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Robin_of_Sherwood"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Hypnosis and love potion make Lady Marion enthusiastic in her own wedding ceremony until rescued."
+  },
+  {
+   "title": "The Thief of Baghdad",
+   "year": "1978",
+   "match_title": "The Thief of Baghdad",
+   "match_year": "1978",
+   "format": "movie",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Thief_of_Baghdad_(1978_film)"
+    },
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/The_Thief_of_Baghdad"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Wizard spell makes Princess Yasmine agree to marry him; wedding stopped."
+  },
+  {
+   "title": "The Throne of Fire",
+   "year": "1983",
+   "match_title": "The Throne of Fire",
+   "match_year": "1983",
+   "format": "movie",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+   "sources": [
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/The_Throne_of_Fire"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Throne_of_Fire"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Princess hypnotised into marrying the demon's son; Siegfried intervenes."
+  },
+  {
+   "title": "Wizards of the Lost Kingdom",
+   "year": "1985",
+   "match_title": "Wizards of the Lost Kingdom",
+   "match_year": "1985",
+   "format": "movie",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Wizards_of_the_Lost_Kingdom"
+    },
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Wizards_of_the_Lost_Kingdom"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Princess hypnotised into becoming the usurper's bride."
+  },
+  {
+   "title": "Galavant",
+   "year": "2016",
+   "match_title": "Galavant",
+   "match_year": "2016",
+   "format": "tv",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+   "sources": [
+    {
+     "label": "Episode guide",
+     "url": "http://orma.iasfbo.inaf.it:7007/~mauro/TV/PDF/ENDED/GALAVANT.pdf"
+    },
+    {
+     "label": "AV Club",
+     "url": "https://www.avclub.com/galavant-continues-to-humble-then-humanize-its-villains-1798186253"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Enchanted tiara makes Princess Isabella plan her marriage until it is removed."
+  },
+  {
+   "title": "The Last: Naruto the Movie",
+   "year": "2014",
+   "match_title": "The Last: Naruto the Movie",
+   "match_year": "2014",
+   "format": "movie",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "http://en.wikipedia.org/wiki/The_Last:_Naruto_the_Movie"
+    },
+    {
+     "label": "Boruto Wiki",
+     "url": "https://boruto.fandom.com/wiki/Toneri_%C5%8Ctsutsuki"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Hinata brainwashed to proceed with a wedding; Naruto interrupts. Adult characters only (film set after the war arc)."
+  },
+  {
+   "title": "The Love by Hypnotic",
+   "year": "2019",
+   "match_title": "The Love by Hypnotic",
+   "match_year": "2019",
+   "format": "tv",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+   "sources": [
+    {
+     "label": "MyDramaList review",
+     "url": "https://mydramalist.com/profile/Cykocyn/review/164189"
+    },
+    {
+     "label": "TV Time",
+     "url": "https://www.tvtime.com/show/371109"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Princess hypnotised to erase her first love, then sent into a diplomatic marriage.",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "title": "Flash Gordon",
+   "year": "1936",
+   "match_title": "Flash Gordon",
+   "match_year": "1936",
+   "format": "movie",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+   "sources": [
+    {
+     "label": "Erik Lundegaard",
+     "url": "https://eriklundegaard.com/item/movie-review-flash-gordon-1936"
+    },
+    {
+     "label": "Scribd",
+     "url": "https://www.scribd.com/document/493618604/The-Flash-Gordon-Serials-1936-1940"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Ming hypnotises Dale Arden for a forced wedding; Flash interrupts."
+  },
+  {
+   "title": "Flash Gordon",
+   "year": "1980",
+   "match_title": "Flash Gordon",
+   "match_year": "1980",
+   "format": "movie",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+   "sources": [
+    {
+     "label": "iHeart",
+     "url": "https://www.iheart.com/podcast/105-stuff-to-blow-your-mind-21123915/episode/weirdhouse-cinema-flash-gordon-1980-150759179/"
+    },
+    {
+     "label": "YouTube clip",
+     "url": "https://www.youtube.com/watch?v=Q7Kx4XIs2tU"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Ming hypnotises Dale Arden with his ring and stages a wedding; thwarted."
+  },
+  {
+   "title": "The New Adventures of Flash Gordon",
+   "year": "1979",
+   "match_title": "The New Adventures of Flash Gordon",
+   "match_year": "1979",
+   "format": "tv",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+   "sources": [
+    {
+     "label": "Flash Gordon wiki",
+     "url": "https://flashgordon.fandom.com/wiki/To_Save_Earth"
+    },
+    {
+     "label": "All The Tropes · Hypnotize the Princess",
+     "url": "https://allthetropes.org/wiki/Hypnotize_the_Princess"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Ming hypnotises Dale Arden and begins a forced wedding; Flash rescues her."
+  },
+  {
+   "title": "Road to Rio",
+   "year": "1947",
+   "match_title": "Road to Rio",
+   "match_year": "1947",
+   "format": "movie",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Road_to_Rio"
+    },
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Road_to_Rio"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Hypnotised Lucia to be married off so Vail controls her papers."
+  },
+  {
+   "title": "Spider-Man and His Amazing Friends",
+   "year": "1983",
+   "match_title": "Spider-Man and His Amazing Friends",
+   "match_year": "1983",
+   "format": "tv",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+   "sources": [
+    {
+     "label": "CBR",
+     "url": "https://www.cbr.com/spider-man-vs-dracula-best-halloween-story/"
+    },
+    {
+     "label": "CBR feature",
+     "url": "https://www.cbr.com/spider-man-and-amazing-friends-fought-dracula/"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Dracula hypnotises Angelica Jones / Firestar to make her his bride; rescued before the wedding."
+  },
+  {
+   "title": "Haven",
+   "year": "2015",
+   "match_title": "Haven",
+   "match_year": "2015",
+   "format": "tv",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+   "sources": [
+    {
+     "label": "Haven Wiki",
+     "url": "https://havenmaine.fandom.com/wiki/Henry"
+    },
+    {
+     "label": "Episode guide",
+     "url": "http://orma.iasfbo.inaf.it:7007/~mauro/TV/PDF/ENDED/HAVEN.pdf"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Audrey trapped in a dream where she is his fiancée; refuses.",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "title": "Big Trouble in Little China",
+   "year": "1986",
+   "match_title": "Big Trouble in Little China",
+   "match_year": "1986",
+   "format": "movie",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Big_Trouble_in_Little_China"
+    },
+    {
+     "label": "Backseat Driver Reviews",
+     "url": "http://www.thebackseatdriverreviews.com/behind-every-good-man-importance-of"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Gracie Law (adult lawyer) and Miao Yin entranced as intended brides in a curse-breaking wedding ritual; interrupted."
+  },
+  {
+   "title": "The 5,000 Fingers of Dr. T",
+   "year": "1953",
+   "match_title": "The 5,000 Fingers of Dr. T",
+   "match_year": "1953",
+   "format": "movie",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+   "sources": [
+    {
+     "label": "The Arts Desk",
+     "url": "https://theartsdesk.com/film/dvdblu-ray-5000-fingers-dr-t"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_5,000_Fingers_of_Dr._T."
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "In a dream, Dr. Terwilliker hypnotises Heloise into becoming his bride-to-be; the boy stops the wedding.",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "title": "Devil Doll",
+   "year": "1964",
+   "match_title": "Devil Doll",
+   "match_year": "1964",
+   "format": "movie",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Devil_Doll_(film)"
+    },
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Devil_Doll"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "married": "no",
+   "married_note": "the planned wedding never takes place",
+   "already_married": "no",
+   "already_married_note": "Marianne is unmarried (engaged to no one; has a boyfriend, Mark)",
+   "fit_note": "Hypnotist hypnotises the heiress into agreeing to marry him."
+  },
+  {
+   "title": "Tales From The Crypt",
+   "year": "1990",
+   "match_title": "Tales From The Crypt",
+   "match_year": "1990",
+   "format": "tv",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/List_of_Tales_from_the_Crypt_episodes"
+    },
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Tales_From_The_Crypt_%28TV_Series%29"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Love potion wins a wealthy woman for a land deal; marriage is the aim.",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "title": "Die 1000 Augen des Dr. Mabuse / The Thousand Eyes of Dr. Mabuse",
+   "year": "1960",
+   "match_title": "Die 1000 Augen des Dr. Mabuse / The Thousand Eyes of Dr. Mabuse",
+   "match_year": "1960",
+   "format": "movie",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+   "sources": [
+    {
+     "label": "filmportal.de",
+     "url": "http://www.filmportal.de/film/die-1000-augen-des-dr-mabuse_05ab3755b25840f996f40a62d14f0a6b"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Dr. Mabuse hypnotises Marion Menil to marry Travers and seize his wealth."
+  },
+  {
+   "title": "The Curse of the Jade Scorpion",
+   "year": "2001",
+   "match_title": "The Curse of the Jade Scorpion",
+   "match_year": "2001",
+   "format": "movie",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Curse_of_the_Jade_Scorpion"
+    },
+    {
+     "label": "Utah Statesman",
+     "url": "https://usustatesman.com/column-jade-scorpian-is-a-neurotic-surprise/"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Hypnosis makes a woman believe she is a newlywed in love; a comic variant (post-hypnotic romance, not a legal wedding).",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "title": "The Adventures of Mini-Goddess",
+   "year": "1998",
+   "match_title": "The Adventures of Mini-Goddess",
+   "match_year": "1998",
+   "format": "tv",
+   "categories": [
+    "hypnotized-marriage"
+   ],
+   "group": "Hypnotised / spell-bound into marrying or agreeing to marry (wedding planned or interrupted)",
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/List_of_The_Adventures_of_Mini-Goddess_episodes"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt4734584"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "fit_note": "Enchanted rose makes the goddess Urd accept a proposal and become a devoted wife until the petals fall.",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "title": "El maleficio",
+   "year": "1983–84",
+   "match_title": "El maleficio",
+   "match_year": "1983–84",
+   "format": "tv",
+   "categories": [
+    "hypnotised-mother-marriage",
+    "hypnotized-marriage"
+   ],
+   "group": "Mother with children, hypnotised / spell-bound into marriage",
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/El_maleficio"
+    },
+    {
+     "label": "ViX episode 21",
+     "url": "https://vix.com/es-es/detail/video-4449575"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "kids_status": "yes",
+   "kids_note": "Beatriz is the widowed mother of Vicky and Juanito before she marries Enrique",
+   "already_married": "no",
+   "already_married_note": "widow when she marries the sorcerer Enrique de Martino",
+   "fit_note": "Loose fit: the sorcerer husband holds her \"under his influence\" (ViX guide), but available sources do not prove the sorcery overrides her will; kept as a spell-marriage lead.",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "title": "El maleficio",
+   "year": "2023–24",
+   "match_title": "El maleficio",
+   "match_year": "2023–24",
+   "format": "tv",
+   "categories": [
+    "hypnotised-mother-marriage",
+    "hypnotized-marriage"
+   ],
+   "group": "Mother with children, hypnotised / spell-bound into marriage",
+   "sources": [
+    {
+     "label": "Spanish Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/El_maleficio_(serie_de_televisi%C3%B3n)"
+    },
+    {
+     "label": "Plex / TheTVDB",
+     "url": "https://thetvdb.plex.tv/series/el-maleficio-2023/allseasons/official"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "kids_status": "yes",
+   "kids_note": "Beatriz is a single mother when she marries the sorcerer Enrique (ep. 47)",
+   "fit_note": "Loose fit: widowed/single mother marries a sorcerer; no source confirms hypnosis or a spell on her.",
+   "tags": [
+    "loose fit"
+   ]
+  },
+  {
+   "title": "Perfect Little Angels",
+   "year": "1998",
+   "match_title": "Perfect Little Angels",
+   "match_year": "1998",
+   "format": "movie",
+   "categories": [
+    "hypnotised-mother-marriage",
+    "hypnotized-marriage"
+   ],
+   "group": "Mother with children, hypnotised / spell-bound into marriage",
+   "sources": [
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/Perfect_Little_Angels"
+    }
+   ],
+   "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
+   "kids_note": "daughter Justine watches her mother, Elaine, change; Elaine is a newcomer to the town",
+   "already_married": "no",
+   "already_married_note": "Elaine accepts the doctor's proposal while brainwashed",
+   "fit_note": "Mother brainwashed into accepting a marriage proposal; adult woman with an existing child."
+  }
+ ],
+ "dropped": [
+  {
+   "title": "The Greater Will",
+   "year": "1915",
+   "reason": "fits (Peggy Sloane hypnotised into a marriage ceremony by Stuart Watson; she bears a baby and dies) but no verified free legal watch link; feature appears to be lost/unavailable"
+  },
+  {
+   "title": "I Married a Witch",
+   "year": "1942",
+   "reason": "love-potion marriage (Jennifer drinks her own potion and elopes) but only Prime-membership 'free' offers; the Internet Archive upload has no public-domain basis; no verified free link"
+  },
+  {
+   "title": "Love Potion No. 9",
+   "year": "1992",
+   "reason": "potion is used by both leads for attraction, not a marriage; only Prime offer; skipped"
+  },
+  {
+   "title": "Tales of Terror (Valdemar segment)",
+   "year": "1962",
+   "reason": "hypnotist tries to force the wife to marry him but she is not hypnotised or controlled; not a match"
+  },
+  {
+   "title": "Chinatown Nights",
+   "year": "1938",
+   "reason": "bride-to-be hypnotised and abducted on the eve of her wedding, but no marriage plot beyond rescue; film not available; no link"
+  },
+  {
+   "title": "Scared to Death",
+   "year": "1947",
+   "reason": "married woman under hypnotist's influence, no hypnotised-into-marriage plot (free on Tubi but off-plot)"
+  },
+  {
+   "title": "Don't Cry, Butterfly",
+   "year": "2025",
+   "reason": "Vietnamese film: wife hires a spell master to win back her husband - the spell is on the husband; Prime-only"
+  },
+  {
+   "title": "Making Scents of Love",
+   "year": "2023",
+   "reason": "love-potion rom-com but the man is affected, not the woman"
+  },
+  {
+   "title": "Controlling My Husband",
+   "year": "2024",
+   "reason": "witch spell on the husband, not the woman"
+  },
+  {
+   "title": "Cordel Encantado",
+   "year": "2011",
+   "reason": "potion/sleep-drug is a trick to escape a forced wedding, not marriage under control; no free link"
+  },
+  {
+   "title": "The Witch (Cadi)",
+   "year": "2024",
+   "reason": "Turkish film: bride in an Istanbul mansion tagged hypnosis on TMDB; plot not verifiable and no free link"
+  },
+  {
+   "title": "The Last Empress",
+   "year": "2018-19",
+   "reason": "Korean drama; hypnosis tag on MyDramaList but no verified hypnotised-marriage plot; no free link"
+  },
+  {
+   "title": "Lao Gong Qing He Wo Lian Ai Ba (vertical drama)",
+   "year": "2025",
+   "reason": "hypnosis + married female lead (amnesia) on MyDramaList; plot unverified and no free link"
+  },
+  {
+   "title": "Shut Eye / other thief-hypnotist titles",
+   "year": "various",
+   "reason": "hypnosis of married women for theft, not into marriage"
+  },
+  {
+   "title": "The Legend of Zelda ep. 'Hitch in the Works'",
+   "year": "1989",
+   "reason": "Ganon plans a forced marriage with Zelda, but Zelda's age is not stated; skipped as unverifiable adult"
+  },
+  {
+   "title": "Jack and the Beanstalk (anime)",
+   "year": "1974",
+   "reason": "Princess Margaret's age not stated; skipped"
+  },
+  {
+   "title": "King Arthur's Disasters (Petal potion)",
+   "year": "2005",
+   "reason": "potion hits a servant by mistake; cartoon with unclear adult status; skipped"
+  },
+  {
+   "title": "Shrek 2",
+   "year": "2004",
+   "reason": "Fiona is the target of a love potion for marriage to Prince Charming but the cast is ogre/animal-led; excluded per human-characters-only rule"
+  },
+  {
+   "title": "Adventure Time (hypnosis-marriage episodes)",
+   "year": "2010-18",
+   "reason": "animal/anthropomorphic main characters; excluded"
+  },
+  {
+   "title": "Mighty Morphin Power Rangers (Kimberly)",
+   "year": "1993-95",
+   "reason": "character is a minor; excluded"
+  },
+  {
+   "title": "Kavach: Mahashivratri / Kumkum Bhagya 'drunk wedding' episode",
+   "year": "2019",
+   "reason": "already in the catalog (Kavach) or drugged-not-hypnotised (Kumkum Bhagya); not added"
+  }
+ ],
+ "category_labels": {
+  "hypnotized-marriage": "Hypnotised / spell-bound into marriage (or married while under control)",
+  "hypnotised-mother-marriage": "Mother with existing children hypnotised / spell-bound into marriage"
+ }
+}

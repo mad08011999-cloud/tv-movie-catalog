@@ -39,6 +39,13 @@
      "subtitle": "",
      "year": "2001",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:32",
+     "title": "The Curse of the Jade Scorpion",
+     "subtitle": "",
+     "year": "2001",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -86,6 +93,13 @@
      "subtitle": "",
      "year": "1986",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:27",
+     "title": "Big Trouble in Little China",
+     "subtitle": "",
+     "year": "1986",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -120,6 +134,13 @@
      "subtitle": "",
      "year": "1947",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:24",
+     "title": "Road to Rio",
+     "subtitle": "",
+     "year": "1947",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -143,6 +164,13 @@
     },
     {
      "rid": "royal-hypnosis:11",
+     "title": "Galavant",
+     "subtitle": "",
+     "year": "2016",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:18",
      "title": "Galavant",
      "subtitle": "",
      "year": "2016",
@@ -201,6 +229,13 @@
      "subtitle": "Enter Sandman · S05E17",
      "year": "2015",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:26",
+     "title": "Haven",
+     "subtitle": "",
+     "year": "2015",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -221,6 +256,13 @@
      "subtitle": "Haylias",
      "year": "2007",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:1",
+     "title": "American Dad!",
+     "subtitle": "",
+     "year": "2007",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -295,6 +337,13 @@
      "subtitle": "The Bride of Dracula!",
      "year": "1983",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:25",
+     "title": "Spider-Man and His Amazing Friends",
+     "subtitle": "",
+     "year": "1983",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -335,6 +384,13 @@
      "subtitle": "",
      "year": "2014",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:19",
+     "title": "The Last: Naruto the Movie",
+     "subtitle": "",
+     "year": "2014",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -355,6 +411,26 @@
      "subtitle": "",
      "year": "1985",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 17,
+   "kept": "The Adventures of Mini-Goddess (1998)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:17",
+     "title": "The Adventures of Mini-Goddess",
+     "subtitle": "ああっ女神さまっ 小っちゃいって事は便利だねっ · episodes 14–15",
+     "year": "1998"
+    },
+    {
+     "rid": "hypnotized-marriage:33",
+     "title": "The Adventures of Mini-Goddess",
+     "subtitle": "",
+     "year": "1998",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -451,6 +527,13 @@
      "subtitle": "",
      "year": "2019",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:20",
+     "title": "The Love by Hypnotic",
+     "subtitle": "",
+     "year": "2019",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -471,6 +554,13 @@
      "subtitle": "",
      "year": "1936",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:21",
+     "title": "Flash Gordon",
+     "subtitle": "",
+     "year": "1936",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -811,6 +901,13 @@
      "subtitle": "",
      "year": "1953",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:28",
+     "title": "The 5,000 Fingers of Dr. T",
+     "subtitle": "",
+     "year": "1953",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -987,6 +1084,13 @@
      "subtitle": "",
      "year": "1980",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:22",
+     "title": "Flash Gordon",
+     "subtitle": "",
+     "year": "1980",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -1627,6 +1731,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "alias"
+    },
+    {
+     "rid": "hypnotized-marriage:34",
+     "title": "El maleficio",
+     "subtitle": "",
+     "year": "1983–84",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -1681,6 +1792,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "alias"
+    },
+    {
+     "rid": "hypnotized-marriage:35",
+     "title": "El maleficio",
+     "subtitle": "",
+     "year": "2023–24",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -4571,13 +4689,13 @@
   },
   {
    "kept_id": 168,
-   "kept": "The Womb (2022)",
+   "kept": "The Womb / Inang (2022)",
    "scope": "cross-source",
    "members": [
     {
      "rid": "xla62ucxbx02u5:169",
-     "title": "The Womb",
-     "subtitle": "Inang",
+     "title": "The Womb / Inang",
+     "subtitle": "Netflix release 16 Feb 2023 · dir. Fajar Nugros",
      "year": "2022"
     },
     {
@@ -4585,7 +4703,7 @@
      "title": "The Womb / Inang",
      "subtitle": "",
      "year": "",
-     "matched_by": "alias"
+     "matched_by": "title+year"
     }
    ]
   },
@@ -5978,6 +6096,13 @@
      "subtitle": "",
      "year": "1949",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:2",
+     "title": "Black Magic",
+     "subtitle": "",
+     "year": "1949",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -6052,6 +6177,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "alias"
+    },
+    {
+     "rid": "hypnotized-marriage:10",
+     "title": "Wish Ko Lang: \"Gayuma\"",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -6531,6 +6663,13 @@
      "title": "Another World",
      "subtitle": "",
      "year": "1964–1999",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:3",
+     "title": "Another World",
+     "subtitle": "",
+     "year": "1998–99",
      "matched_by": "match_title"
     }
    ]
@@ -8312,6 +8451,13 @@
      "subtitle": "",
      "year": "2019–20",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:11",
+     "title": "Yehh Jadu Hai Jinn Ka",
+     "subtitle": "",
+     "year": "2019–20",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -14929,6 +15075,13 @@
      "subtitle": "",
      "year": "1960",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:31",
+     "title": "Die 1000 Augen des Dr. Mabuse / The Thousand Eyes of Dr. Mabuse",
+     "subtitle": "",
+     "year": "1960",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -15163,7 +15316,7 @@
     {
      "rid": "xla62ucxbx02u5:681",
      "title": "O Hipnotizador / El Hipnotizador",
-     "subtitle": "",
+     "subtitle": "S02E02 · “Teresa e as Mariposas”",
      "year": "2015–17"
     },
     {
@@ -18383,6 +18536,13 @@
      "subtitle": "ep. 10",
      "year": "2015",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:12",
+     "title": "3D Spy",
+     "subtitle": "",
+     "year": "2015",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -23591,6 +23751,13 @@
      "subtitle": "",
      "year": "1964",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:29",
+     "title": "Devil Doll",
+     "subtitle": "",
+     "year": "1964",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -28467,6 +28634,13 @@
      "subtitle": "",
      "year": "1971",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:4",
+     "title": "Isle of the Snake People",
+     "subtitle": "",
+     "year": "1971",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -28490,6 +28664,13 @@
     },
     {
      "rid": "royal-hypnosis:9",
+     "title": "Ivanhoe, the King's Knight",
+     "subtitle": "",
+     "year": "1997",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:13",
      "title": "Ivanhoe, the King's Knight",
      "subtitle": "",
      "year": "1997",
@@ -32445,6 +32626,13 @@
      "subtitle": "“To Save Earth” · S01E04",
      "year": "1979",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:23",
+     "title": "The New Adventures of Flash Gordon",
+     "subtitle": "",
+     "year": "1979",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -33617,6 +33805,13 @@
     },
     {
      "rid": "mother-kids-hypnosis:14",
+     "title": "Perfect Little Angels",
+     "subtitle": "",
+     "year": "1998",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:36",
      "title": "Perfect Little Angels",
      "subtitle": "",
      "year": "1998",
@@ -34815,6 +35010,13 @@
     },
     {
      "rid": "royal-hypnosis-loose:4",
+     "title": "Robin of Sherwood",
+     "subtitle": "",
+     "year": "1986",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:14",
      "title": "Robin of Sherwood",
      "subtitle": "",
      "year": "1986",
@@ -37039,6 +37241,13 @@
      "subtitle": "",
      "year": "1990–1992",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:8",
+     "title": "Super Force",
+     "subtitle": "",
+     "year": "1990–1992",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -37079,6 +37288,26 @@
      "subtitle": "",
      "year": "2009–2011",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1828,
+   "kept": "Super Models (1997–99)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1842",
+     "title": "Super Models",
+     "subtitle": "“Smoke and Mirrors” (ep. 22) · “Mind of Models” (ep. 24)",
+     "year": "1997–99"
+    },
+    {
+     "rid": "hypnotized-marriage:5",
+     "title": "Super Models",
+     "subtitle": "",
+     "year": "1997–99",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -37412,6 +37641,26 @@
      "rid": "hypnosis-assault-loose:28",
      "title": "Tales from the Crypt",
      "subtitle": "S2E4 · “'Til Death”",
+     "year": "1990",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1844,
+   "kept": "Tales From The Crypt (1990)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1858",
+     "title": "Tales From The Crypt",
+     "subtitle": "",
+     "year": "1990"
+    },
+    {
+     "rid": "hypnotized-marriage:30",
+     "title": "Tales From The Crypt",
+     "subtitle": "",
      "year": "1990",
      "matched_by": "match_title"
     }
@@ -37856,6 +38105,13 @@
      "subtitle": "",
      "year": "1978",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:15",
+     "title": "The Thief of Baghdad",
+     "subtitle": "",
+     "year": "1978",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -37959,6 +38215,13 @@
     },
     {
      "rid": "royal-hypnosis:1",
+     "title": "The Throne of Fire",
+     "subtitle": "",
+     "year": "1983",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:16",
      "title": "The Throne of Fire",
      "subtitle": "",
      "year": "1983",
@@ -38237,6 +38500,13 @@
      "subtitle": "“The Chaser” · S1E31",
      "year": "1960",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:6",
+     "title": "The Twilight Zone",
+     "subtitle": "",
+     "year": "1960",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -39373,6 +39643,13 @@
      "subtitle": "",
      "year": "1985",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:17",
+     "title": "Wizards of the Lost Kingdom",
+     "subtitle": "",
+     "year": "1985",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -39527,6 +39804,13 @@
      "subtitle": "",
      "year": "2019–2024",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnotized-marriage:9",
+     "title": "Yeh Hai Chahatein",
+     "subtitle": "",
+     "year": "2019–2024",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -39685,7 +39969,26 @@
    ]
   },
   {
-   "kept_id": 2159,
+   "kept_id": 2144,
+   "kept": "Hannibal (2014)",
+   "scope": "within-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:2161",
+     "title": "Hannibal",
+     "subtitle": "S2E7 · “Yakimono”",
+     "year": "2014"
+    },
+    {
+     "rid": "xla62ucxbx02u5:2165",
+     "title": "Hannibal",
+     "subtitle": "S2E8 · “Su-zakana”",
+     "year": "2014"
+    }
+   ]
+  },
+  {
+   "kept_id": 2175,
    "kept": "Ezra (2017)",
    "scope": "cross-source",
    "members": [
@@ -39705,7 +40008,7 @@
    ]
   },
   {
-   "kept_id": 2175,
+   "kept_id": 2191,
    "kept": "Dharam Veer (1977)",
    "scope": "cross-source",
    "members": [
@@ -39728,11 +40031,18 @@
      "subtitle": "",
      "year": "1977",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnotized-marriage:7",
+     "title": "Dharam Veer",
+     "subtitle": "",
+     "year": "1977",
+     "matched_by": "match_title"
     }
    ]
   },
   {
-   "kept_id": 2265,
+   "kept_id": 2281,
    "kept": "Out For Blood (2004)",
    "scope": "cross-source",
    "members": [
@@ -39752,7 +40062,7 @@
    ]
   },
   {
-   "kept_id": 2289,
+   "kept_id": 2305,
    "kept": "Super Models (1999)",
    "scope": "cross-source",
    "members": [
@@ -39772,7 +40082,7 @@
    ]
   },
   {
-   "kept_id": 2301,
+   "kept_id": 2317,
    "kept": "The Thundermans (2013–2018)",
    "scope": "cross-source",
    "members": [
@@ -39792,7 +40102,7 @@
    ]
   },
   {
-   "kept_id": 2336,
+   "kept_id": 2352,
    "kept": "Diagnosis: Murder (1997)",
    "scope": "cross-source",
    "members": [
@@ -39862,11 +40172,11 @@
    },
    "status": "applied",
    "kept_id": 785,
-   "retired_id": 2145
+   "retired_id": 2161
   }
  ],
  "raw_counts": {
-  "xla62ucxbx02u5": 2149,
+  "xla62ucxbx02u5": 2166,
   "ig6qlxqxoxvcxla": 990,
   "india-catalog": 163,
   "worldwide-hypnosis": 1085,
@@ -39890,11 +40200,12 @@
   "royal-hypnosis-loose": 32,
   "belly-kissed-kids": 0,
   "mainstream-erotic": 102,
-  "open-sites-hypnosis": 1
+  "open-sites-hypnosis": 1,
+  "hypnotized-marriage": 36
  },
- "entry_count_after_dedupe": 2534,
- "within_source_groups": 0,
- "cross_source_groups": 1697,
+ "entry_count_after_dedupe": 2550,
+ "within_source_groups": 1,
+ "cross_source_groups": 1700,
  "index_only_records": 37,
  "local_only_records": 365
 }
