@@ -1485,6 +1485,13 @@
      "subtitle": "",
      "year": "Date unverified",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "round3:3",
+     "title": "被催眠的她",
+     "subtitle": "Hypnotized Her / 失忆的她：催眠阴谋",
+     "year": "2026",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -31727,6 +31734,13 @@
      "subtitle": "",
      "year": "2025",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "round3:2",
+     "title": "Listen To Your Husband / 听老公的话 (aka 枕边催眠师)",
+     "subtitle": "听老公的话 (aka 枕边催眠师)",
+     "year": "2025",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -42170,6 +42184,26 @@
    ]
   },
   {
+   "kept_id": 1979,
+   "kept": "Got Pregnant by Billionaire Brothers (2024)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1994",
+     "title": "Got Pregnant by Billionaire Brothers",
+     "subtitle": "",
+     "year": "2024"
+    },
+    {
+     "rid": "round3:16",
+     "title": "Got Pregnant by Billionaire Brothers",
+     "subtitle": "Devil's Triangle (NetShort alt title)",
+     "year": "2025",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2144,
    "kept": "Hannibal (2014)",
    "scope": "within-source",
@@ -43051,11 +43085,12 @@
   "no-link-additions": 40,
   "hypno-sweep-oct9": 8,
   "savdhaan-santham-oct9": 1,
-  "round2": 11
+  "round2": 11,
+  "round3": 17
  },
- "entry_count_after_dedupe": 2530,
+ "entry_count_after_dedupe": 2544,
  "within_source_groups": 3,
- "cross_source_groups": 1798,
+ "cross_source_groups": 1799,
  "index_only_records": 57,
- "local_only_records": 317
+ "local_only_records": 331
 }

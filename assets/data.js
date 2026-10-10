@@ -2841,6 +2841,19 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "round3",
+   "label": "Round 3 — vertical-series / microdrama deep search",
+   "kind": "local",
+   "share_url": "sources/round3.json",
+   "description": "Research only; no repo changes. Dedupe base: origin/main data.json fetched 9 Oct 2026 + staged research JSONs (incl. research_round2.json).",
+   "dropped": [],
+   "check": {
+    "raw_count": 17,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -2873,10 +2886,11 @@ window.CATALOG = {
   "no-link-additions": 40,
   "hypno-sweep-oct9": 8,
   "savdhaan-santham-oct9": 1,
-  "round2": 11
+  "round2": 11,
+  "round3": 17
  },
- "raw_total": 5235,
- "entry_count": 2530,
+ "raw_total": 5252,
+ "entry_count": 2544,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -2894,7 +2908,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 238
+   "entry_count": 246
   },
   {
    "key": "walkin",
@@ -2936,7 +2950,7 @@ window.CATALOG = {
    "key": "doctor-gain",
    "label": "Doctor hypnotizes female characters for personal gain",
    "legend_label": "Doctor controls female character for personal gain",
-   "entry_count": 26
+   "entry_count": 27
   },
   {
    "key": "tech",
@@ -2960,7 +2974,7 @@ window.CATALOG = {
    "key": "partner-control",
    "label": "Female controlled by husband / boyfriend / ex-partner",
    "legend_label": "Female controlled by husband / boyfriend / ex-partner",
-   "entry_count": 36
+   "entry_count": 40
   },
   {
    "key": "india-control",
@@ -3002,7 +3016,7 @@ window.CATALOG = {
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 37
+   "entry_count": 42
   },
   {
    "key": "index-54",
@@ -3020,19 +3034,19 @@ window.CATALOG = {
    "key": "hypnotized-marriage",
    "label": "Hypnotised / spell-bound into marriage (or married while under control)",
    "legend_label": "Hypnotised / spell-bound into marriage (or married while under control)",
-   "entry_count": 43
+   "entry_count": 45
   },
   {
    "key": "cheat-control",
    "label": "Hypnotized / controlled into infidelity",
    "legend_label": "Hypnotized / controlled into infidelity",
-   "entry_count": 19
+   "entry_count": 21
   },
   {
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 80
+   "entry_count": 81
   },
   {
    "key": "royal-hypnosis",
@@ -3044,7 +3058,7 @@ window.CATALOG = {
    "key": "love",
    "label": "Hypnotized to love",
    "legend_label": "Hypnotized to love",
-   "entry_count": 180
+   "entry_count": 182
   },
   {
    "key": "hypno-intimacy",
@@ -3074,7 +3088,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 104
+   "entry_count": 108
   },
   {
    "key": "mom-partner-control",
@@ -3086,7 +3100,7 @@ window.CATALOG = {
    "key": "mother",
    "label": "Mother with child hypnotized / mind-controlled",
    "legend_label": "Mother with child hypnotized / mind-controlled",
-   "entry_count": 68
+   "entry_count": 69
   },
   {
    "key": "mom-pregnancy",
@@ -3104,7 +3118,7 @@ window.CATALOG = {
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
    "legend_label": "Other female hypnosis / mind control",
-   "entry_count": 244
+   "entry_count": 245
   },
   {
    "key": "parents-sleeping",
@@ -3122,7 +3136,7 @@ window.CATALOG = {
    "key": "partner-commissioned",
    "label": "Partner hires a third party to control wife / girlfriend",
    "legend_label": "Partner hires a third-party controller",
-   "entry_count": 13
+   "entry_count": 14
   },
   {
    "key": "index-48",
@@ -3152,7 +3166,7 @@ window.CATALOG = {
    "key": "pregnant-variants",
    "label": "Pregnancy + mind control — variants and leads",
    "legend_label": "Pregnancy + mind control — variants and leads",
-   "entry_count": 31
+   "entry_count": 32
   },
   {
    "key": "pregnancy-adjacent",
@@ -3314,7 +3328,7 @@ window.CATALOG = {
    "key": "family",
    "label": "Single mom remarries and gets pregnant with new partner",
    "legend_label": "Single mom remarries and gets pregnant with new partner",
-   "entry_count": 36
+   "entry_count": 39
   },
   {
    "key": "spirit",
@@ -17265,8 +17279,8 @@ window.CATALOG = {
    "id": 56,
    "title": "被催眠的她",
    "subtitle": "The Hypnotized Her",
-   "year": "Date unverified",
-   "meta": "Vertical short drama · China · Mandarin · 60 episodes",
+   "year": "2026",
+   "meta": "Chinese vertical short drama · Mandarin · 60 episodes · premiered 8 Apr 2026 (Duanjubaike)",
    "mechanism": "Hypnosis-themed",
    "confidence_flag": "Loose / unverified · index-verified · LOW · unverified lead; remarriage not established",
    "summary": "A “perfect wife vs. two-faced husband” suspense story centered on visions and delusion; no source establishes that the husband is the hypnotist. Remarried-wife category detail: This Mandarin vertical drama is promoted as a hypnosis-themed story about a “perfect wife” and a two-faced husband, with the wife awakening from an induced-delusion setup. The husband-as-controller reading is suggested, but no source found establishes that this is her remarriage.",
@@ -17283,12 +17297,14 @@ window.CATALOG = {
    "married": "yes",
    "pregnant_end": "no",
    "pregnant_end_note": "a miscarriage is part of the backstory",
-   "evidence": "Single source — three aggregator pages copy one synopsis",
+   "evidence": "4 independent-ish sources (Hongguo, Duanjubaike, Sina recap, aggregator tags); official synopsis does not use the word hypnosis — hypnosis comes from the title, aggregator tags and viewer reviews",
+   "source_conflict": "Some low-quality sites show a different synopsis for the same title (Lin Qian hypnotized by fiancé Gu Yan/friend Su Yao; hypnotist Gu Chen) — it does not match the Hongguo/Duanjubaike credits and is treated as unreliable. A Vietnamese listing says 2 episodes (vs 60), Russian listing says 60 × 3 min. Catalog card 56 has 'Date unverified'; now dated.",
    "fit_note": "Borderline: the title and tags name hypnosis, but no source says who hypnotizes her or describes any intimate scene.",
-   "format": "tv",
+   "format": "vertical series",
    "categories": [
     "wife",
-    "remarried-wife-control"
+    "remarried-wife-control",
+    "partner-control"
    ],
    "sources": [
     {
@@ -17314,6 +17330,22 @@ window.CATALOG = {
     {
      "label": "Nilu listing (催眠之夜：无法逃脱)",
      "url": "https://hk.niluzj.cc/vod/X7EdY.html"
+    },
+    {
+     "label": "Hongguo 被催眠的她 (8.8 rating, 60 eps)",
+     "url": "https://hongguoduanju.com/detail?series_id=7626260850872945688"
+    },
+    {
+     "label": "短剧百科",
+     "url": "https://www.duanjubaike.net/duanju/info-7626260850872945688.html"
+    },
+    {
+     "label": "Sina Weibo news recap",
+     "url": "https://www.sina.cn/news/detail/5286941319760065.html"
+    },
+    {
+     "label": "瓦速短劇 (tags: 催眠 心理操控)",
+     "url": "https://hk.wasudj.cc/content/1548111247.html"
     }
    ],
    "youtube_ids": [
@@ -17324,14 +17356,16 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "round2"
+    "round2",
+    "round3"
    ],
    "source_records": [
     "xla62ucxbx02u5:56",
     "ig6qlxqxoxvcxla:68",
     "ig6qlxqxoxvcxla:299",
     "ig6qlxqxoxvcxla:382",
-    "round2:3"
+    "round2:3",
+    "round3:3"
    ],
    "index_only": false,
    "local_only": false,
@@ -17508,6 +17542,62 @@ window.CATALOG = {
      "fit_note": "Borderline: the title and tags name hypnosis, but no source says who hypnotizes her or describes any intimate scene.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "round3:3",
+     "source": "round3",
+     "label": "被催眠的她 · Hypnotized Her / 失忆的她：催眠阴谋 (2026)",
+     "identifiers": [
+      "subtitle",
+      "year/date"
+     ],
+     "title": "被催眠的她",
+     "subtitle": "Hypnotized Her / 失忆的她：催眠阴谋",
+     "year": "2026",
+     "meta": "Chinese vertical short drama · Mandarin · 60 episodes · premiered 8 Apr 2026 (Duanjubaike)",
+     "summary": "Zhang Qing, a woman with a mental illness, is taken by her husband Zhao Jianghai to live in seclusion in a small county town; the nanny Luo Feifei, who wants the husband, swaps her medication, which instead starts her real awakening. With Dr. Shen Hui she investigates the killing of her parents, a miscarriage, her mental breakdown and the reason for the seclusion. Viewer comments describe a husband with a dual personality (Zhao Jianghe/Zhao Jianghai), a miscarriage caused by the other personality, and one calls it a story of 'hypnosis control' within the marriage.",
+     "character": "Zhang Qing (Lan Lan), husband Zhao Jianghai (Li Zhuoyang), nanny Luo Feifei (Zhao Anhui), Dr. Shen Hui (Zhao Yang)",
+     "note": "Verification: Newly confirmed: 2026 release date (8 Apr 2026), 60 episodes, production credits, cast, nanny/doctor/husband roles, miscarriage backstory. Not confirmed: that the husband is a hypnotist or any intimate scene. Ages are not stated in the sources read; no minor is indicated.",
+     "mechanism": "Hypnosis/psychological control by the husband (title and fan reviews); plot synopsis centres on drug-swapping and delusion",
+     "confidence_flag": "Medium",
+     "categories": [
+      "wife",
+      "remarried-wife-control",
+      "partner-control"
+     ],
+     "sources": [
+      {
+       "label": "Hongguo 被催眠的她 (8.8 rating, 60 eps)",
+       "url": "https://hongguoduanju.com/detail?series_id=7626260850872945688"
+      },
+      {
+       "label": "短剧百科",
+       "url": "https://www.duanjubaike.net/duanju/info-7626260850872945688.html"
+      },
+      {
+       "label": "Sina Weibo news recap",
+       "url": "https://www.sina.cn/news/detail/5286941319760065.html"
+      },
+      {
+       "label": "瓦速短劇 (tags: 催眠 心理操控)",
+       "url": "https://hk.wasudj.cc/content/1548111247.html"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "miscarriage in the backstory; no pregnancy at the end",
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "unknown",
+     "kids_together": "no",
+     "married": "yes",
+     "pregnant_end": "no",
+     "pregnant_end_note": "miscarriage in the backstory; no pregnancy at the end",
+     "evidence": "4 independent-ish sources (Hongguo, Duanjubaike, Sina recap, aggregator tags); official synopsis does not use the word hypnosis — hypnosis comes from the title, aggregator tags and viewer reviews",
+     "source_conflict": "Some low-quality sites show a different synopsis for the same title (Lin Qian hypnotized by fiancé Gu Yan/friend Su Yao; hypnotist Gu Chen) — it does not match the Hongguo/Duanjubaike credits and is treated as unreliable. A Vietnamese listing says 2 episodes (vs 60), Russian listing says 60 × 3 min. Catalog card 56 has 'Date unverified'; now dated.",
+     "fit_note": "Borderline: Hypnosis theme is promoted in title/tags/reviews; official plot is psychological control and drug-swapping. The characters' ages are not stated.",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -17631,6 +17721,69 @@ window.CATALOG = {
       "loose fit"
      ],
      "group": "Round 2 — worldwide deep search (Oct 2026)",
+     "catalog_ids": [
+      56
+     ],
+     "research_no": 3
+    },
+    "round3:3": {
+     "title": "被催眠的她",
+     "subtitle": "Hypnotized Her / 失忆的她：催眠阴谋",
+     "year": "2026",
+     "match_title": "被催眠的她",
+     "match_year": "Date unverified",
+     "format": "vertical series",
+     "meta": "Chinese vertical short drama · Mandarin · 60 episodes · premiered 8 Apr 2026 (Duanjubaike)",
+     "mechanism": "Hypnosis/psychological control by the husband (title and fan reviews); plot synopsis centres on drug-swapping and delusion",
+     "confidence_flag": "Medium",
+     "summary": "Zhang Qing, a woman with a mental illness, is taken by her husband Zhao Jianghai to live in seclusion in a small county town; the nanny Luo Feifei, who wants the husband, swaps her medication, which instead starts her real awakening. With Dr. Shen Hui she investigates the killing of her parents, a miscarriage, her mental breakdown and the reason for the seclusion. Viewer comments describe a husband with a dual personality (Zhao Jianghe/Zhao Jianghai), a miscarriage caused by the other personality, and one calls it a story of 'hypnosis control' within the marriage.",
+     "character": "Zhang Qing (Lan Lan), husband Zhao Jianghai (Li Zhuoyang), nanny Luo Feifei (Zhao Anhui), Dr. Shen Hui (Zhao Yang)",
+     "categories": [
+      "wife",
+      "remarried-wife-control",
+      "partner-control"
+     ],
+     "sources": [
+      {
+       "label": "Hongguo 被催眠的她 (8.8 rating, 60 eps)",
+       "url": "https://hongguoduanju.com/detail?series_id=7626260850872945688"
+      },
+      {
+       "label": "短剧百科",
+       "url": "https://www.duanjubaike.net/duanju/info-7626260850872945688.html"
+      },
+      {
+       "label": "Sina Weibo news recap",
+       "url": "https://www.sina.cn/news/detail/5286941319760065.html"
+      },
+      {
+       "label": "瓦速短劇 (tags: 催眠 心理操控)",
+       "url": "https://hk.wasudj.cc/content/1548111247.html"
+      }
+     ],
+     "married": "yes",
+     "evidence": "4 independent-ish sources (Hongguo, Duanjubaike, Sina recap, aggregator tags); official synopsis does not use the word hypnosis — hypnosis comes from the title, aggregator tags and viewer reviews",
+     "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+     "note": "Verification: Newly confirmed: 2026 release date (8 Apr 2026), 60 episodes, production credits, cast, nanny/doctor/husband roles, miscarriage backstory. Not confirmed: that the husband is a hypnotist or any intimate scene. Ages are not stated in the sources read; no minor is indicated.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnant_end_note": "miscarriage in the backstory; no pregnancy at the end",
+     "pregnancy_note": "miscarriage in the backstory; no pregnancy at the end",
+     "kids_together": "no",
+     "kids_status": "unknown",
+     "source_conflict": "Some low-quality sites show a different synopsis for the same title (Lin Qian hypnotized by fiancé Gu Yan/friend Su Yao; hypnotist Gu Chen) — it does not match the Hongguo/Duanjubaike credits and is treated as unreliable. A Vietnamese listing says 2 episodes (vs 60), Russian listing says 60 × 3 min. Catalog card 56 has 'Date unverified'; now dated.",
+     "fit_note": "Borderline: Hypnosis theme is promoted in title/tags/reviews; official plot is psychological control and drug-swapping. The characters' ages are not stated.",
+     "tags": [
+      "loose fit"
+     ],
+     "override_fields": [
+      "format",
+      "year",
+      "meta",
+      "evidence",
+      "source_conflict"
+     ],
+     "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
      "catalog_ids": [
       56
      ],
@@ -264440,9 +264593,9 @@ window.CATALOG = {
   {
    "id": 1473,
    "title": "Listen To Your Husband",
-   "subtitle": "",
+   "subtitle": "听老公的话 (aka 枕边催眠师)",
    "year": "2025",
-   "meta": "Film · China",
+   "meta": "Chinese vertical short drama · Mandarin · 30 episodes on Hongguo (an older listing shows 17)",
    "mechanism": "Hypnosis",
    "confidence_flag": "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed",
    "summary": "A hypnotist and his sadistic lover hypnotize his wife, planning to steal her money. Scene notes: the husband hypnotized his wife. / The lovers order the hypnotized woman to walk barefoot on the road. / But they didn't count on the fact that in her hypnotic state, the woman has superhuman strength, and attacks anyone who tries to wake her up.",
@@ -264464,10 +264617,10 @@ window.CATALOG = {
    "married": "yes",
    "pregnant_end": "no",
    "pregnant_end_note": "not mentioned",
-   "evidence": "2 sources; the Chinese source is an aggregator synopsis only (no episode detail)",
-   "source_conflict": "Mental Block calls it a 'medium-length drama thriller film'; the Chinese listing shows 17 numbered episodes.",
+   "evidence": "4 sources; Chinese official title 听老公的话 = literal translation of the English title and carries the same character names (Luo Fei, Qi Xia, Zhang Ming) as the 枕边催眠师 listing in round 2",
+   "source_conflict": "Mental Block calls it a 'medium-length drama thriller film' (the card was listed as a film), while the Chinese listings show a numbered vertical series. Episode count 30 (Hongguo, lufadj) vs 17 (old 枕边催眠师 listing). Cast on Hongguo is listed as 张子尧/魏依珂/韦恩 while an aggregator lists characters 洛菲/祁夏/季溪雨 — character names agree, cast listings differ. Year 2025 is inferred from the Hongguo series-id timestamp (~Jun 2025) and a Feb 2026 comment; Mental Block says 2025.",
    "fit_note": "Borderline: the husband hypnotizes his wife, but no source confirms any sexual assault under hypnosis; the English and Chinese titles are matched by character name only.",
-   "format": "movie",
+   "format": "vertical series",
    "categories": [
     "wife",
     "partner-control",
@@ -264481,6 +264634,18 @@ window.CATALOG = {
     {
      "label": "Qipo short-drama listing 枕边催眠师",
      "url": "https://qipodj.cc/metavod/1813313269.html"
+    },
+    {
+     "label": "Hongguo 听老公的话",
+     "url": "https://hongguoduanju.com/detail?series_id=7516558325870234648"
+    },
+    {
+     "label": "短剧百科 听老公的话",
+     "url": "https://duanjubaike.cn/drama/26712"
+    },
+    {
+     "label": "鹿发短剧 聽老公的話",
+     "url": "https://tw.lufadj.cc/html/VjrM.html"
     }
    ],
    "youtube_ids": [],
@@ -264488,13 +264653,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
     "rich-wife-hypnosis",
-    "round2"
+    "round2",
+    "round3"
    ],
    "source_records": [
     "xla62ucxbx02u5:1486",
     "worldwide-hypnosis:551",
     "rich-wife-hypnosis:22",
-    "round2:2"
+    "round2:2",
+    "round3:2"
    ],
    "index_only": false,
    "local_only": false,
@@ -264643,6 +264810,60 @@ window.CATALOG = {
      "fit_note": "Borderline: the husband hypnotizes his wife, but no source confirms any sexual assault under hypnosis; the English and Chinese titles are matched by character name only.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "round3:2",
+     "source": "round3",
+     "label": "Listen To Your Husband / 听老公的话 (aka 枕边催眠师) · 听老公的话 (aka 枕边催眠师) (2025)",
+     "identifiers": [
+      "subtitle",
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "Listen To Your Husband / 听老公的话 (aka 枕边催眠师)",
+     "subtitle": "听老公的话 (aka 枕边催眠师)",
+     "year": "2025",
+     "meta": "Chinese vertical short drama · Mandarin · 30 episodes on Hongguo (an older listing shows 17)",
+     "summary": "Luo Fei hands her family company to her husband Qi Xia, then has unexplained injuries and memory gaps; with psychologist Zhang Ming she realises Qi Xia has been secretly hypnotizing her, aiming at her property and at controlling her mind. When she resists she sinks deeper into trouble, and the plot asks whether her awakening is still under his control. A lufadj blurb says he hypnotized her into a 'doll' on their wedding anniversary.",
+     "character": "Luo Fei, husband Qi Xia, psychologist Zhang Ming",
+     "note": "Verification: Newly confirmed: Chinese title 听老公的话 on Hongguo/Duanjubaike and the husband-hypnotizes-wife plot (strengthens the title identification that was inferred in round 2). Not confirmed: any sexual assault under hypnosis; pregnancy not mentioned.",
+     "mechanism": "Hypnosis by the husband (hypnotic control, memory gaps, unexplained injuries); Mental Block notes a necklace trigger",
+     "confidence_flag": "Medium-high",
+     "categories": [
+      "wife",
+      "partner-control",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "Hongguo 听老公的话",
+       "url": "https://hongguoduanju.com/detail?series_id=7516558325870234648"
+      },
+      {
+       "label": "短剧百科 听老公的话",
+       "url": "https://duanjubaike.cn/drama/26712"
+      },
+      {
+       "label": "鹿发短剧 聽老公的話",
+       "url": "https://tw.lufadj.cc/html/VjrM.html"
+      },
+      {
+       "label": "Mental Block (Listen To Your Husband)",
+       "url": "https://mentalblock.miraheze.org/wiki/Listen_To_Your_Husband"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "not mentioned",
+     "kids_status": "unknown",
+     "kids_together": "no",
+     "married": "yes",
+     "pregnant_end": "no",
+     "pregnant_end_note": "not mentioned",
+     "evidence": "4 sources; Chinese official title 听老公的话 = literal translation of the English title and carries the same character names (Luo Fei, Qi Xia, Zhang Ming) as the 枕边催眠师 listing in round 2",
+     "source_conflict": "Mental Block calls it a 'medium-length drama thriller film' (the card was listed as a film), while the Chinese listings show a numbered vertical series. Episode count 30 (Hongguo, lufadj) vs 17 (old 枕边催眠师 listing). Cast on Hongguo is listed as 张子尧/魏依珂/韦恩 while an aggregator lists characters 洛菲/祁夏/季溪雨 — character names agree, cast listings differ. Year 2025 is inferred from the Hongguo series-id timestamp (~Jun 2025) and a Feb 2026 comment; Mental Block says 2025.",
+     "fit_note": "Husband hypnotizes wife for money/control.",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -264762,6 +264983,66 @@ window.CATALOG = {
       "loose fit"
      ],
      "group": "Round 2 — worldwide deep search (Oct 2026)",
+     "catalog_ids": [
+      1473
+     ],
+     "research_no": 2
+    },
+    "round3:2": {
+     "title": "Listen To Your Husband / 听老公的话 (aka 枕边催眠师)",
+     "year": "2025",
+     "match_title": "Listen To Your Husband",
+     "match_year": "2025",
+     "format": "vertical series",
+     "meta": "Chinese vertical short drama · Mandarin · 30 episodes on Hongguo (an older listing shows 17)",
+     "mechanism": "Hypnosis by the husband (hypnotic control, memory gaps, unexplained injuries); Mental Block notes a necklace trigger",
+     "confidence_flag": "Medium-high",
+     "summary": "Luo Fei hands her family company to her husband Qi Xia, then has unexplained injuries and memory gaps; with psychologist Zhang Ming she realises Qi Xia has been secretly hypnotizing her, aiming at her property and at controlling her mind. When she resists she sinks deeper into trouble, and the plot asks whether her awakening is still under his control. A lufadj blurb says he hypnotized her into a 'doll' on their wedding anniversary.",
+     "character": "Luo Fei, husband Qi Xia, psychologist Zhang Ming",
+     "categories": [
+      "wife",
+      "partner-control",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "Hongguo 听老公的话",
+       "url": "https://hongguoduanju.com/detail?series_id=7516558325870234648"
+      },
+      {
+       "label": "短剧百科 听老公的话",
+       "url": "https://duanjubaike.cn/drama/26712"
+      },
+      {
+       "label": "鹿发短剧 聽老公的話",
+       "url": "https://tw.lufadj.cc/html/VjrM.html"
+      },
+      {
+       "label": "Mental Block (Listen To Your Husband)",
+       "url": "https://mentalblock.miraheze.org/wiki/Listen_To_Your_Husband"
+      }
+     ],
+     "married": "yes",
+     "evidence": "4 sources; Chinese official title 听老公的话 = literal translation of the English title and carries the same character names (Luo Fei, Qi Xia, Zhang Ming) as the 枕边催眠师 listing in round 2",
+     "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+     "note": "Verification: Newly confirmed: Chinese title 听老公的话 on Hongguo/Duanjubaike and the husband-hypnotizes-wife plot (strengthens the title identification that was inferred in round 2). Not confirmed: any sexual assault under hypnosis; pregnancy not mentioned.",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnant_end_note": "not mentioned",
+     "pregnancy_note": "not mentioned",
+     "kids_together": "no",
+     "kids_status": "unknown",
+     "source_conflict": "Mental Block calls it a 'medium-length drama thriller film' (the card was listed as a film), while the Chinese listings show a numbered vertical series. Episode count 30 (Hongguo, lufadj) vs 17 (old 枕边催眠师 listing). Cast on Hongguo is listed as 张子尧/魏依珂/韦恩 while an aggregator lists characters 洛菲/祁夏/季溪雨 — character names agree, cast listings differ. Year 2025 is inferred from the Hongguo series-id timestamp (~Jun 2025) and a Feb 2026 comment; Mental Block says 2025.",
+     "fit_note": "Husband hypnotizes wife for money/control.",
+     "override_fields": [
+      "format",
+      "meta",
+      "subtitle",
+      "evidence",
+      "source_conflict"
+     ],
+     "subtitle": "听老公的话 (aka 枕边催眠师)",
+     "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
      "catalog_ids": [
       1473
      ],
@@ -355213,16 +355494,89 @@ window.CATALOG = {
   {
    "id": 1979,
    "title": "Got Pregnant by Billionaire Brothers",
-   "subtitle": "",
+   "subtitle": "Devil's Triangle (NetShort alt title)",
    "year": "2024",
-   "meta": "Short-form vertical drama series · China-produced · English · NetShort / DramaBox · ~75 episodes",
+   "meta": "NetShort vertical drama · English · 75 episodes (NetShort alt title “Devil's Triangle”)",
    "mechanism": "Hypnosis",
    "confidence_flag": "Medium · NetShort per-episode guides (eps 54/56/62/65/67/74) + DramaBox listing; year approximate",
    "summary": "Heiress Audrey Huntington becomes pregnant by one of the Vanderbilt brothers, Caspian or Killian, with the father's identity unknown. Obsessed suitor Anthony Cavanaugh kidnaps her and hypnotizes her into believing she is his wife and deeply in love with him; the hypnosis arc (eps 54–71) overlaps her revealed pregnancy (ep 62). She resists subconsciously while the brothers vow to save her.",
    "character": "",
    "provenance": "User-requested title verification, 01 Oct 2026 (NetShort episode-guide evidence; not transcript-verified)",
    "note": "Outcome facts: Audrey remains pregnant throughout the hypnosis arc, with her unborn child referenced through episodes 74–75; the forced marriage-sham plot is interrupted.",
-   "format": "tv",
+   "pregnancy_outcome": "pregnant",
+   "pregnancy_note": "Pregnant from the beach-escape arc on; ep 58 'likely pregnant' while hypnotized/captive; ep 62 reveals pregnancy; eps 74–75 baby named after Caspian (the ep 72 and 74 summaries suggest Caspian may not survive — unconfirmed).",
+   "episodes": [
+    {
+     "episode": "Ep 1-4 “The Forced Heiress … The Framing Scandal”",
+     "gist": "Father forces Audrey to meet suitors; Anthony Cavanaugh arrives; Killian charms her; ex-boyfriend Ashton caught taking photos of her.",
+     "number_verified": true
+    },
+    {
+     "episode": "Ep 19 “The Devil's Triangle”",
+     "gist": "Audrey is entangled with both Vanderbilt brothers.",
+     "number_verified": true
+    },
+    {
+     "episode": "Ep 46-52 “Forced Engagement … Twisted Affirmation”",
+     "gist": "Blackmailed into accepting Anthony's proposal; confined at home as 'mentally ill' by Cavanaugh and a complicit doctor; made to profess loyalty to Anthony.",
+     "number_verified": true
+    },
+    {
+     "episode": "Ep 53 “Hypnotic Struggle”",
+     "gist": "Audrey resists a hypnotic suggestion to express hatred toward the brothers.",
+     "number_verified": true
+    },
+    {
+     "episode": "Ep 54 “Hypnotic Deception”",
+     "gist": "Under hypnosis she is made to believe she is Anthony's wife and deeply in love with him despite subconscious resistance.",
+     "number_verified": true
+    },
+    {
+     "episode": "Ep 55-56 “Forced Love / Hypnotized Love”",
+     "gist": "Her father hears her profess love; she declares love for Anthony while hearing voices; the brothers sense something is wrong.",
+     "number_verified": true
+    },
+    {
+     "episode": "Ep 57 “Secret Hypnosis”",
+     "gist": "She finds she is being hypnotized through medication in her food; the brothers vow to save her.",
+     "number_verified": true
+    },
+    {
+     "episode": "Ep 58 “Trapped and Pregnant”",
+     "gist": "She discovers she is likely pregnant and unsure which brother is the father; secret message from Killian hints at escape.",
+     "number_verified": true
+    },
+    {
+     "episode": "Ep 62 “Fatherhood Dilemma”",
+     "gist": "Audrey reveals her pregnancy; Caspian and Killian debate fatherhood and vow to protect her and the baby.",
+     "number_verified": true
+    },
+    {
+     "episode": "Ep 65-69 “Wedding Day Crisis … Wedding Interrupted”",
+     "gist": "Violent standoff on a 'wedding day' with threats to her unborn child; Caspian proposes; a deranged suitor kidnaps and hypnotizes her (ep 67) and forces vows; Caspian arrives with police.",
+     "number_verified": true
+    },
+    {
+     "episode": "Ep 71-72 “Deadly Standoff / Desperate Plea”",
+     "gist": "Anthony holds Audrey hostage; she pleads for Caspian to survive.",
+     "number_verified": true
+    },
+    {
+     "episode": "Ep 74-75 “Family Bonds / Naming the Baby”",
+     "gist": "Brothers embrace the baby as their own; Audrey names her unborn child after Caspian.",
+     "number_verified": true
+    }
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Father is not established in the summaries (either brother).",
+   "kids_together": "unknown",
+   "married": "no",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "Pregnant from the beach-escape arc on; ep 58 'likely pregnant' while hypnotized/captive; ep 62 reveals pregnancy; eps 74–75 baby named after Caspian (the ep 72 and 74 summaries suggest Caspian may not survive — unconfirmed).",
+   "evidence": "NetShort per-episode guides (one platform); DramaKing listing seen only in search results (403 on fetch)",
+   "source_conflict": "The earlier catalog entry gave the year as 2024 (approximate) and 'eps 54–71' for the hypnosis arc; NetShort series id timestamp suggests ~May 2025 (inference). NetShort's page-1 summaries for eps 5–18 are unnumbered, so only eps 1–4, 19–20 are attributed.",
+   "fit_note": "Pregnant adult woman hypnotized by an obsessive suitor.",
+   "format": "vertical series",
    "categories": [
     "love",
     "pregnant-strict"
@@ -355247,22 +355601,199 @@ window.CATALOG = {
     {
      "label": "Series promo",
      "url": "https://youtube.com/watch?v=7SvA6duQSNg"
+    },
+    {
+     "label": "NetShort eps 41-60",
+     "url": "https://netshort.com/full-episodes/got-pregnant-by-billionaire-brothers-1927583834537500674/page/3"
+    },
+    {
+     "label": "NetShort eps 1-20",
+     "url": "https://netshort.com/full-episodes/got-pregnant-by-billionaire-brothers-1927583834537500674/page/1"
+    },
+    {
+     "label": "DramaKing listing (Devil's Triangle alias; seen via search)",
+     "url": "https://www.dramaking.vip/drama/got-pregnant-by-billionaire-brothers-41000122140"
     }
    ],
    "youtube_ids": [
     "7SvA6duQSNg"
    ],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "round3"
    ],
    "source_records": [
-    "xla62ucxbx02u5:1994"
+    "xla62ucxbx02u5:1994",
+    "round3:16"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": "thumbs/7SvA6duQSNg.jpg",
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:1994",
+    "source": "xla62ucxbx02u5",
+    "label": "Got Pregnant by Billionaire Brothers (2024)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Got Pregnant by Billionaire Brothers",
+    "subtitle": "",
+    "year": "2024",
+    "meta": "Short-form vertical drama series · China-produced · English · NetShort / DramaBox · ~75 episodes",
+    "summary": "Heiress Audrey Huntington becomes pregnant by one of the Vanderbilt brothers, Caspian or Killian, with the father's identity unknown. Obsessed suitor Anthony Cavanaugh kidnaps her and hypnotizes her into believing she is his wife and deeply in love with him; the hypnosis arc (eps 54–71) overlaps her revealed pregnancy (ep 62). She resists subconsciously while the brothers vow to save her.",
+    "character": "",
+    "note": "Outcome facts: Audrey remains pregnant throughout the hypnosis arc, with her unborn child referenced through episodes 74–75; the forced marriage-sham plot is interrupted.",
+    "mechanism": "Hypnosis",
+    "confidence_flag": "Medium · NetShort per-episode guides (eps 54/56/62/65/67/74) + DramaBox listing; year approximate",
+    "categories": [
+     "love",
+     "pregnant-strict"
+    ],
+    "sources": [
+     {
+      "label": "NetShort · EP 56",
+      "url": "https://netshort.com/episode/got-pregnant-by-billionaire-brothers-1927583834537500674-ep-56"
+     },
+     {
+      "label": "NetShort · EP 54",
+      "url": "https://netshort.com/episode/got-pregnant-by-billionaire-brothers-1927583834537500674-ep-54"
+     },
+     {
+      "label": "NetShort · EP 61–75",
+      "url": "https://netshort.com/full-episodes/got-pregnant-by-billionaire-brothers-1927583834537500674/page/4"
+     },
+     {
+      "label": "DramaBox listing",
+      "url": "https://www.dramaboxapp.com/tag/63048/76"
+     },
+     {
+      "label": "Series promo",
+      "url": "https://youtube.com/watch?v=7SvA6duQSNg"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "round3:16",
+     "source": "round3",
+     "label": "Got Pregnant by Billionaire Brothers · Devil's Triangle (NetShort alt title) (2025)",
+     "identifiers": [
+      "subtitle",
+      "year/date"
+     ],
+     "title": "Got Pregnant by Billionaire Brothers",
+     "subtitle": "Devil's Triangle (NetShort alt title)",
+     "year": "2025",
+     "meta": "NetShort vertical drama · English · 75 episodes (NetShort alt title “Devil's Triangle”)",
+     "summary": "Heiress Audrey must find a husband or lose her inheritance and has a beach escape with brothers Caspian and Killian Vanderbilt; she becomes pregnant without knowing which is the father. Suitor Anthony Cavanaugh blackmails her into a forced engagement, confines her as 'mentally ill', and hypnotizes her (suggestion and drugged food) to say she loves him and hates the brothers. While held she realises she is likely pregnant (ep 58), escapes with Killian's help, and after a forced-wedding crisis and hostage standoff ends pregnant with both brothers embracing the baby (eps 74–75).",
+     "character": "Audrey Huntington, brothers Caspian and Killian Vanderbilt, suitor Anthony Cavanaugh",
+     "note": "Verification: Confirmed per NetShort summaries: hypnosis eps 53–57 and 67; pregnancy revealed ep 58/62 and continues to ep 75. Not confirmed: any intimate scene while hypnotized; marriage to either brother.",
+     "mechanism": "Hypnosis plus medication in her food: Anthony Cavanaugh makes the heiress believe she is his wife and in love with him (eps 53–57, again 67)",
+     "confidence_flag": "Medium",
+     "categories": [
+      "love",
+      "pregnant-strict"
+     ],
+     "sources": [
+      {
+       "label": "NetShort ep 54 (Hypnotic Deception)",
+       "url": "https://netshort.com/episode/got-pregnant-by-billionaire-brothers-1927583834537500674-ep-54"
+      },
+      {
+       "label": "NetShort eps 41-60",
+       "url": "https://netshort.com/full-episodes/got-pregnant-by-billionaire-brothers-1927583834537500674/page/3"
+      },
+      {
+       "label": "NetShort eps 61-75",
+       "url": "https://netshort.com/full-episodes/got-pregnant-by-billionaire-brothers-1927583834537500674/page/4"
+      },
+      {
+       "label": "NetShort eps 1-20",
+       "url": "https://netshort.com/full-episodes/got-pregnant-by-billionaire-brothers-1927583834537500674/page/1"
+      },
+      {
+       "label": "DramaKing listing (Devil's Triangle alias; seen via search)",
+       "url": "https://www.dramaking.vip/drama/got-pregnant-by-billionaire-brothers-41000122140"
+      }
+     ],
+     "pregnancy_outcome": "pregnant",
+     "pregnancy_note": "Pregnant from the beach-escape arc on; ep 58 'likely pregnant' while hypnotized/captive; ep 62 reveals pregnancy; eps 74–75 baby named after Caspian (the ep 72 and 74 summaries suggest Caspian may not survive — unconfirmed).",
+     "episodes": [
+      {
+       "episode": "Ep 1-4 “The Forced Heiress … The Framing Scandal”",
+       "gist": "Father forces Audrey to meet suitors; Anthony Cavanaugh arrives; Killian charms her; ex-boyfriend Ashton caught taking photos of her.",
+       "number_verified": true
+      },
+      {
+       "episode": "Ep 19 “The Devil's Triangle”",
+       "gist": "Audrey is entangled with both Vanderbilt brothers.",
+       "number_verified": true
+      },
+      {
+       "episode": "Ep 46-52 “Forced Engagement … Twisted Affirmation”",
+       "gist": "Blackmailed into accepting Anthony's proposal; confined at home as 'mentally ill' by Cavanaugh and a complicit doctor; made to profess loyalty to Anthony.",
+       "number_verified": true
+      },
+      {
+       "episode": "Ep 53 “Hypnotic Struggle”",
+       "gist": "Audrey resists a hypnotic suggestion to express hatred toward the brothers.",
+       "number_verified": true
+      },
+      {
+       "episode": "Ep 54 “Hypnotic Deception”",
+       "gist": "Under hypnosis she is made to believe she is Anthony's wife and deeply in love with him despite subconscious resistance.",
+       "number_verified": true
+      },
+      {
+       "episode": "Ep 55-56 “Forced Love / Hypnotized Love”",
+       "gist": "Her father hears her profess love; she declares love for Anthony while hearing voices; the brothers sense something is wrong.",
+       "number_verified": true
+      },
+      {
+       "episode": "Ep 57 “Secret Hypnosis”",
+       "gist": "She finds she is being hypnotized through medication in her food; the brothers vow to save her.",
+       "number_verified": true
+      },
+      {
+       "episode": "Ep 58 “Trapped and Pregnant”",
+       "gist": "She discovers she is likely pregnant and unsure which brother is the father; secret message from Killian hints at escape.",
+       "number_verified": true
+      },
+      {
+       "episode": "Ep 62 “Fatherhood Dilemma”",
+       "gist": "Audrey reveals her pregnancy; Caspian and Killian debate fatherhood and vow to protect her and the baby.",
+       "number_verified": true
+      },
+      {
+       "episode": "Ep 65-69 “Wedding Day Crisis … Wedding Interrupted”",
+       "gist": "Violent standoff on a 'wedding day' with threats to her unborn child; Caspian proposes; a deranged suitor kidnaps and hypnotizes her (ep 67) and forces vows; Caspian arrives with police.",
+       "number_verified": true
+      },
+      {
+       "episode": "Ep 71-72 “Deadly Standoff / Desperate Plea”",
+       "gist": "Anthony holds Audrey hostage; she pleads for Caspian to survive.",
+       "number_verified": true
+      },
+      {
+       "episode": "Ep 74-75 “Family Bonds / Naming the Baby”",
+       "gist": "Brothers embrace the baby as their own; Audrey names her unborn child after Caspian.",
+       "number_verified": true
+      }
+     ],
+     "kids_status": "unknown",
+     "kids_note": "Father is not established in the summaries (either brother).",
+     "kids_together": "unknown",
+     "married": "no",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "Pregnant from the beach-escape arc on; ep 58 'likely pregnant' while hypnotized/captive; ep 62 reveals pregnancy; eps 74–75 baby named after Caspian (the ep 72 and 74 summaries suggest Caspian may not survive — unconfirmed).",
+     "evidence": "NetShort per-episode guides (one platform); DramaKing listing seen only in search results (403 on fetch)",
+     "source_conflict": "The earlier catalog entry gave the year as 2024 (approximate) and 'eps 54–71' for the hypnosis arc; NetShort series id timestamp suggests ~May 2025 (inference). NetShort's page-1 summaries for eps 5–18 are unnumbered, so only eps 1–4, 19–20 are attributed.",
+     "fit_note": "Pregnant adult woman hypnotized by an obsessive suitor.",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:1994": {
      "t": "Got Pregnant by Billionaire Brothers",
@@ -355303,6 +355834,130 @@ window.CATALOG = {
      "psg": "villain",
      "loveSweep": true,
      "verticalShort": true
+    },
+    "round3:16": {
+     "title": "Got Pregnant by Billionaire Brothers",
+     "subtitle": "Devil's Triangle (NetShort alt title)",
+     "year": "2025",
+     "match_title": "Got Pregnant by Billionaire Brothers",
+     "match_year": "2024",
+     "format": "vertical series",
+     "meta": "NetShort vertical drama · English · 75 episodes (NetShort alt title “Devil's Triangle”)",
+     "mechanism": "Hypnosis plus medication in her food: Anthony Cavanaugh makes the heiress believe she is his wife and in love with him (eps 53–57, again 67)",
+     "confidence_flag": "Medium",
+     "summary": "Heiress Audrey must find a husband or lose her inheritance and has a beach escape with brothers Caspian and Killian Vanderbilt; she becomes pregnant without knowing which is the father. Suitor Anthony Cavanaugh blackmails her into a forced engagement, confines her as 'mentally ill', and hypnotizes her (suggestion and drugged food) to say she loves him and hates the brothers. While held she realises she is likely pregnant (ep 58), escapes with Killian's help, and after a forced-wedding crisis and hostage standoff ends pregnant with both brothers embracing the baby (eps 74–75).",
+     "character": "Audrey Huntington, brothers Caspian and Killian Vanderbilt, suitor Anthony Cavanaugh",
+     "categories": [
+      "love",
+      "pregnant-strict"
+     ],
+     "sources": [
+      {
+       "label": "NetShort ep 54 (Hypnotic Deception)",
+       "url": "https://netshort.com/episode/got-pregnant-by-billionaire-brothers-1927583834537500674-ep-54"
+      },
+      {
+       "label": "NetShort eps 41-60",
+       "url": "https://netshort.com/full-episodes/got-pregnant-by-billionaire-brothers-1927583834537500674/page/3"
+      },
+      {
+       "label": "NetShort eps 61-75",
+       "url": "https://netshort.com/full-episodes/got-pregnant-by-billionaire-brothers-1927583834537500674/page/4"
+      },
+      {
+       "label": "NetShort eps 1-20",
+       "url": "https://netshort.com/full-episodes/got-pregnant-by-billionaire-brothers-1927583834537500674/page/1"
+      },
+      {
+       "label": "DramaKing listing (Devil's Triangle alias; seen via search)",
+       "url": "https://www.dramaking.vip/drama/got-pregnant-by-billionaire-brothers-41000122140"
+      }
+     ],
+     "married": "no",
+     "evidence": "NetShort per-episode guides (one platform); DramaKing listing seen only in search results (403 on fetch)",
+     "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+     "note": "Verification: Confirmed per NetShort summaries: hypnosis eps 53–57 and 67; pregnancy revealed ep 58/62 and continues to ep 75. Not confirmed: any intimate scene while hypnotized; marriage to either brother.",
+     "episodes": [
+      {
+       "episode": "Ep 1-4 “The Forced Heiress … The Framing Scandal”",
+       "gist": "Father forces Audrey to meet suitors; Anthony Cavanaugh arrives; Killian charms her; ex-boyfriend Ashton caught taking photos of her.",
+       "number_verified": true
+      },
+      {
+       "episode": "Ep 19 “The Devil's Triangle”",
+       "gist": "Audrey is entangled with both Vanderbilt brothers.",
+       "number_verified": true
+      },
+      {
+       "episode": "Ep 46-52 “Forced Engagement … Twisted Affirmation”",
+       "gist": "Blackmailed into accepting Anthony's proposal; confined at home as 'mentally ill' by Cavanaugh and a complicit doctor; made to profess loyalty to Anthony.",
+       "number_verified": true
+      },
+      {
+       "episode": "Ep 53 “Hypnotic Struggle”",
+       "gist": "Audrey resists a hypnotic suggestion to express hatred toward the brothers.",
+       "number_verified": true
+      },
+      {
+       "episode": "Ep 54 “Hypnotic Deception”",
+       "gist": "Under hypnosis she is made to believe she is Anthony's wife and deeply in love with him despite subconscious resistance.",
+       "number_verified": true
+      },
+      {
+       "episode": "Ep 55-56 “Forced Love / Hypnotized Love”",
+       "gist": "Her father hears her profess love; she declares love for Anthony while hearing voices; the brothers sense something is wrong.",
+       "number_verified": true
+      },
+      {
+       "episode": "Ep 57 “Secret Hypnosis”",
+       "gist": "She finds she is being hypnotized through medication in her food; the brothers vow to save her.",
+       "number_verified": true
+      },
+      {
+       "episode": "Ep 58 “Trapped and Pregnant”",
+       "gist": "She discovers she is likely pregnant and unsure which brother is the father; secret message from Killian hints at escape.",
+       "number_verified": true
+      },
+      {
+       "episode": "Ep 62 “Fatherhood Dilemma”",
+       "gist": "Audrey reveals her pregnancy; Caspian and Killian debate fatherhood and vow to protect her and the baby.",
+       "number_verified": true
+      },
+      {
+       "episode": "Ep 65-69 “Wedding Day Crisis … Wedding Interrupted”",
+       "gist": "Violent standoff on a 'wedding day' with threats to her unborn child; Caspian proposes; a deranged suitor kidnaps and hypnotizes her (ep 67) and forces vows; Caspian arrives with police.",
+       "number_verified": true
+      },
+      {
+       "episode": "Ep 71-72 “Deadly Standoff / Desperate Plea”",
+       "gist": "Anthony holds Audrey hostage; she pleads for Caspian to survive.",
+       "number_verified": true
+      },
+      {
+       "episode": "Ep 74-75 “Family Bonds / Naming the Baby”",
+       "gist": "Brothers embrace the baby as their own; Audrey names her unborn child after Caspian.",
+       "number_verified": true
+      }
+     ],
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "pregnant",
+     "pregnant_end_note": "Pregnant from the beach-escape arc on; ep 58 'likely pregnant' while hypnotized/captive; ep 62 reveals pregnancy; eps 74–75 baby named after Caspian (the ep 72 and 74 summaries suggest Caspian may not survive — unconfirmed).",
+     "pregnancy_note": "Pregnant from the beach-escape arc on; ep 58 'likely pregnant' while hypnotized/captive; ep 62 reveals pregnancy; eps 74–75 baby named after Caspian (the ep 72 and 74 summaries suggest Caspian may not survive — unconfirmed).",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Father is not established in the summaries (either brother).",
+     "source_conflict": "The earlier catalog entry gave the year as 2024 (approximate) and 'eps 54–71' for the hypnosis arc; NetShort series id timestamp suggests ~May 2025 (inference). NetShort's page-1 summaries for eps 5–18 are unnumbered, so only eps 1–4, 19–20 are attributed.",
+     "fit_note": "Pregnant adult woman hypnotized by an obsessive suitor.",
+     "override_fields": [
+      "format",
+      "subtitle",
+      "meta"
+     ],
+     "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "catalog_ids": [
+      1979
+     ],
+     "research_no": 16
     }
    }
   },
@@ -395980,6 +396635,1395 @@ window.CATALOG = {
      "research_no": 13
     }
    }
+  },
+  {
+   "id": 2638,
+   "title": "醒来时，我眼里不是他",
+   "subtitle": "When I Woke, He Wasn't in My Eyes",
+   "year": "2026",
+   "meta": "Chinese vertical short drama · Mandarin · 36 episodes (~2 min) · posted 26 Jun 2026",
+   "mechanism": "Hypnosis by a rival (Song Yanzhi) after a car crash, erasing three years of marriage memory",
+   "confidence_flag": "Medium-high · 3 listings, synopsis only",
+   "summary": "After a car crash, Su Wan is hypnotized by her husband's rival Song Yanzhi, who erases her three years of marriage memory and claims to be her husband while keeping Lin Yue, her real husband, locked behind a one-way mirror to watch them live as a couple. Despite the amnesia she keeps feeling something is wrong; after failed attempts to undo the hypnosis and a rooftop crisis she recovers her memory after an accidental blow, gathers evidence against Song and reunites with Lin Yue. A viewer comment says the villain is not shown being overly intimate with her.",
+   "character": "Su Wan (Yang Zhixuan), husband Lin Yue (Zhang Haowen), rival Song Yanzhi",
+   "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+   "note": "Verification: Confirmed by listing synopsis: hypnosis memory wipe of a married woman by a rival who impersonates the husband. Not confirmed: any intimate scene (viewer comment suggests none of note). Ages are not stated in the sources read; no minor is indicated.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "kids_status": "unknown",
+   "kids_together": "no",
+   "married": "yes",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "evidence": "3 listings (Hongguo, Duanjubaike, aggregator); synopsis identical across them, no episode detail",
+   "source_conflict": "Aggregator suju.cc blurb says the husband was 'killed' and she forgets him; Hongguo/Duanjubaike say he is imprisoned. Duanjubaike air date 26 Jun 2026.",
+   "fit_note": "Hypnotized married woman, false-husband setup; no pregnancy.",
+   "format": "vertical series",
+   "categories": [
+    "wife",
+    "adult-hypnosis",
+    "love"
+   ],
+   "sources": [
+    {
+     "label": "Hongguo (红果短剧) series page",
+     "url": "https://hongguoduanju.com/detail?series_id=7655643065494801470"
+    },
+    {
+     "label": "短剧百科 (Duanjubaike)",
+     "url": "https://www.duanjubaike.net/duanju/info-7655643065494801470.html"
+    },
+    {
+     "label": "速剧 listing",
+     "url": "https://m.suju.cc/en/showview/pq1vOu.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "round3"
+   ],
+   "source_records": [
+    "round3:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "round3:1": {
+     "title": "醒来时，我眼里不是他",
+     "subtitle": "When I Woke, He Wasn't in My Eyes",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "Chinese vertical short drama · Mandarin · 36 episodes (~2 min) · posted 26 Jun 2026",
+     "mechanism": "Hypnosis by a rival (Song Yanzhi) after a car crash, erasing three years of marriage memory",
+     "confidence_flag": "Medium-high · 3 listings, synopsis only",
+     "summary": "After a car crash, Su Wan is hypnotized by her husband's rival Song Yanzhi, who erases her three years of marriage memory and claims to be her husband while keeping Lin Yue, her real husband, locked behind a one-way mirror to watch them live as a couple. Despite the amnesia she keeps feeling something is wrong; after failed attempts to undo the hypnosis and a rooftop crisis she recovers her memory after an accidental blow, gathers evidence against Song and reunites with Lin Yue. A viewer comment says the villain is not shown being overly intimate with her.",
+     "character": "Su Wan (Yang Zhixuan), husband Lin Yue (Zhang Haowen), rival Song Yanzhi",
+     "categories": [
+      "wife",
+      "adult-hypnosis",
+      "love"
+     ],
+     "sources": [
+      {
+       "label": "Hongguo (红果短剧) series page",
+       "url": "https://hongguoduanju.com/detail?series_id=7655643065494801470"
+      },
+      {
+       "label": "短剧百科 (Duanjubaike)",
+       "url": "https://www.duanjubaike.net/duanju/info-7655643065494801470.html"
+      },
+      {
+       "label": "速剧 listing",
+       "url": "https://m.suju.cc/en/showview/pq1vOu.html"
+      }
+     ],
+     "married": "yes",
+     "evidence": "3 listings (Hongguo, Duanjubaike, aggregator); synopsis identical across them, no episode detail",
+     "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnant_end_note": "not mentioned",
+     "pregnancy_note": "not mentioned",
+     "kids_together": "no",
+     "kids_status": "unknown",
+     "source_conflict": "Aggregator suju.cc blurb says the husband was 'killed' and she forgets him; Hongguo/Duanjubaike say he is imprisoned. Duanjubaike air date 26 Jun 2026.",
+     "note": "Verification: Confirmed by listing synopsis: hypnosis memory wipe of a married woman by a rival who impersonates the husband. Not confirmed: any intimate scene (viewer comment suggests none of note). Ages are not stated in the sources read; no minor is indicated.",
+     "fit_note": "Hypnotized married woman, false-husband setup; no pregnancy.",
+     "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "catalog_ids": [],
+     "research_no": 1
+    }
+   }
+  },
+  {
+   "id": 2639,
+   "title": "神秘的她",
+   "subtitle": "The Mysterious Her / 诱她入梦 / 她是谁短剧版 (alias titles on aggregators)",
+   "year": "2025",
+   "meta": "Chinese vertical short drama · Mandarin · 37 episodes · premiered 22 Apr 2025 · 众创剧场, dir. 叶白",
+   "mechanism": "Long-term hypnosis of the wife by her husband; a psychologist friend gives her an anti-hypnosis wristwatch",
+   "confidence_flag": "Medium",
+   "summary": "CEO Pei Jiajia notices after her marriage that she often forgets things and makes decisions against her will. Her friend, psychologist Wen Qing, returns from abroad and finds Pei has been hypnotized for a long time. With a wristwatch that prevents hypnosis Pei sees her loving husband Cheng Junjie's other face: his 'cousin' has been in her marital bed with him, and he is tied to her parents' deaths. She moves to expose the plot and regain her company.",
+   "character": "Pei Jiajia (Ye Jingyi), husband Cheng Junjie (Wang Yige), psychologist friend Wen Qing",
+   "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+   "note": "Verification: Confirmed by listing synopsis: husband hypnotizes wife; infidelity and link to parents' deaths. Not confirmed: pregnancy, any intimate scene with the heroine. Ages are not stated in the sources read; no minor is indicated.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "kids_status": "unknown",
+   "kids_together": "no",
+   "married": "yes",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "evidence": "2 listings (Duanjubaike + aggregator under alias title); synopsis only",
+   "source_conflict": "Aggregators give the same story under other titles (诱她入梦, 她是谁短剧版) with different episode counts; I could only confirm the Duanjubaike page (37 eps).",
+   "fit_note": "Hypnotized wife controlled by husband; adultery in the marital bed is with the 'cousin', not the heroine.",
+   "format": "vertical series",
+   "categories": [
+    "wife",
+    "partner-control",
+    "cheat-control"
+   ],
+   "sources": [
+    {
+     "label": "短剧百科 神秘的她",
+     "url": "https://www.duanjubaike.net/duanju/info-7495975175293258777.html"
+    },
+    {
+     "label": "剧情99 诱她入梦",
+     "url": "https://www.juqing99.com/9K3Bj/index.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "round3"
+   ],
+   "source_records": [
+    "round3:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "round3:4": {
+     "title": "神秘的她",
+     "subtitle": "The Mysterious Her / 诱她入梦 / 她是谁短剧版 (alias titles on aggregators)",
+     "year": "2025",
+     "format": "vertical series",
+     "meta": "Chinese vertical short drama · Mandarin · 37 episodes · premiered 22 Apr 2025 · 众创剧场, dir. 叶白",
+     "mechanism": "Long-term hypnosis of the wife by her husband; a psychologist friend gives her an anti-hypnosis wristwatch",
+     "confidence_flag": "Medium",
+     "summary": "CEO Pei Jiajia notices after her marriage that she often forgets things and makes decisions against her will. Her friend, psychologist Wen Qing, returns from abroad and finds Pei has been hypnotized for a long time. With a wristwatch that prevents hypnosis Pei sees her loving husband Cheng Junjie's other face: his 'cousin' has been in her marital bed with him, and he is tied to her parents' deaths. She moves to expose the plot and regain her company.",
+     "character": "Pei Jiajia (Ye Jingyi), husband Cheng Junjie (Wang Yige), psychologist friend Wen Qing",
+     "categories": [
+      "wife",
+      "partner-control",
+      "cheat-control"
+     ],
+     "sources": [
+      {
+       "label": "短剧百科 神秘的她",
+       "url": "https://www.duanjubaike.net/duanju/info-7495975175293258777.html"
+      },
+      {
+       "label": "剧情99 诱她入梦",
+       "url": "https://www.juqing99.com/9K3Bj/index.html"
+      }
+     ],
+     "married": "yes",
+     "evidence": "2 listings (Duanjubaike + aggregator under alias title); synopsis only",
+     "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnant_end_note": "not mentioned",
+     "pregnancy_note": "not mentioned",
+     "kids_together": "no",
+     "kids_status": "unknown",
+     "source_conflict": "Aggregators give the same story under other titles (诱她入梦, 她是谁短剧版) with different episode counts; I could only confirm the Duanjubaike page (37 eps).",
+     "note": "Verification: Confirmed by listing synopsis: husband hypnotizes wife; infidelity and link to parents' deaths. Not confirmed: pregnancy, any intimate scene with the heroine. Ages are not stated in the sources read; no minor is indicated.",
+     "fit_note": "Hypnotized wife controlled by husband; adultery in the marital bed is with the 'cousin', not the heroine.",
+     "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "catalog_ids": [],
+     "research_no": 4
+    }
+   }
+  },
+  {
+   "id": 2640,
+   "title": "第一百零一次睁眼",
+   "subtitle": "The 101st Time I Opened My Eyes",
+   "year": "2025",
+   "meta": "Chinese vertical short drama · Mandarin · 41 episodes · premiered 29 Sep 2025 (Duanjubaike), dir. 黄智超",
+   "mechanism": "Hypnosis by the husband/'pillow person' (aggregator blurb; not stated in the Duanjubaike synopsis)",
+   "confidence_flag": "Low-medium",
+   "summary": "Newlywed Lin Mengran is stuck in a loop: on her wedding anniversary she is killed and wakes at 6 a.m. again, and fights to find the person behind it. Aggregator blurbs say she then finds that the man beside her is a hypnotist ('is he in love with her or with a controlled doll?'). A recap of ep. 41 says he admits having hypnotized her and claiming to love her; she reports him to the police without result and her memory is rewritten again, making it look like a dream.",
+   "character": "Lin Mengran, husband (named Zhou Ming in the Duanjubaike credits; Xiao Zhijie in aggregator credits), friend Zhang Ting",
+   "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+   "note": "Verification: Hypnosis element only partly verified (aggregator text). Not confirmed: pregnancy or any intimate scene. Ages are not stated in the sources read; no minor is indicated.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "unknown",
+   "kids_together": "no",
+   "married": "yes",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "evidence": "3 listings; hypnosis appears only in aggregator blurbs/recaps, not in the Duanjubaike synopsis",
+   "source_conflict": "Duanjubaike credits (丁海霞 as Lin Mengran, 孟祥鑫 as Zhou Ming) and its synopsis (death loop, no hypnosis) differ from the aggregator blurb/credits (肖志杰 the hypnotist husband); air date 29 Sep 2025 (Duanjubaike) vs 12 Oct 2025 (one aggregator).",
+   "fit_note": "Loose fit: hypnotist husband claim is aggregator-only; main premise is a time/death loop thriller. The characters' ages are not stated.",
+   "format": "vertical series",
+   "categories": [
+    "wife",
+    "partner-control"
+   ],
+   "sources": [
+    {
+     "label": "短剧百科 第一百零一次睜眼",
+     "url": "https://duanjubaike.org/zh-Hant/drama/12906"
+    },
+    {
+     "label": "熱窩短劇 listing (hypnotist blurb)",
+     "url": "https://hk.rewodj.cc/catalog/llLg.html"
+    },
+    {
+     "label": "语谷短剧 (ep 41)",
+     "url": "https://yugudj.cc/cn/ehtml/WeRD/41.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "round3"
+   ],
+   "source_records": [
+    "round3:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "round3:5": {
+     "title": "第一百零一次睁眼",
+     "subtitle": "The 101st Time I Opened My Eyes",
+     "year": "2025",
+     "format": "vertical series",
+     "meta": "Chinese vertical short drama · Mandarin · 41 episodes · premiered 29 Sep 2025 (Duanjubaike), dir. 黄智超",
+     "mechanism": "Hypnosis by the husband/'pillow person' (aggregator blurb; not stated in the Duanjubaike synopsis)",
+     "confidence_flag": "Low-medium",
+     "summary": "Newlywed Lin Mengran is stuck in a loop: on her wedding anniversary she is killed and wakes at 6 a.m. again, and fights to find the person behind it. Aggregator blurbs say she then finds that the man beside her is a hypnotist ('is he in love with her or with a controlled doll?'). A recap of ep. 41 says he admits having hypnotized her and claiming to love her; she reports him to the police without result and her memory is rewritten again, making it look like a dream.",
+     "character": "Lin Mengran, husband (named Zhou Ming in the Duanjubaike credits; Xiao Zhijie in aggregator credits), friend Zhang Ting",
+     "categories": [
+      "wife",
+      "partner-control"
+     ],
+     "sources": [
+      {
+       "label": "短剧百科 第一百零一次睜眼",
+       "url": "https://duanjubaike.org/zh-Hant/drama/12906"
+      },
+      {
+       "label": "熱窩短劇 listing (hypnotist blurb)",
+       "url": "https://hk.rewodj.cc/catalog/llLg.html"
+      },
+      {
+       "label": "语谷短剧 (ep 41)",
+       "url": "https://yugudj.cc/cn/ehtml/WeRD/41.html"
+      }
+     ],
+     "married": "yes",
+     "evidence": "3 listings; hypnosis appears only in aggregator blurbs/recaps, not in the Duanjubaike synopsis",
+     "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnant_end_note": "not mentioned",
+     "pregnancy_note": "not mentioned",
+     "kids_together": "no",
+     "kids_status": "unknown",
+     "source_conflict": "Duanjubaike credits (丁海霞 as Lin Mengran, 孟祥鑫 as Zhou Ming) and its synopsis (death loop, no hypnosis) differ from the aggregator blurb/credits (肖志杰 the hypnotist husband); air date 29 Sep 2025 (Duanjubaike) vs 12 Oct 2025 (one aggregator).",
+     "note": "Verification: Hypnosis element only partly verified (aggregator text). Not confirmed: pregnancy or any intimate scene. Ages are not stated in the sources read; no minor is indicated.",
+     "fit_note": "Loose fit: hypnotist husband claim is aggregator-only; main premise is a time/death loop thriller. The characters' ages are not stated.",
+     "tags": [
+      "loose fit"
+     ],
+     "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "catalog_ids": [],
+     "research_no": 5
+    }
+   }
+  },
+  {
+   "id": 2641,
+   "title": "我靠催眠控制万物",
+   "subtitle": "aka 弄巧成拙：我催眠了个老婆 (alias, unverified)",
+   "year": "2023",
+   "meta": "Chinese vertical short drama · Mandarin · 83 episodes · posted 4 Sep 2023 · 花生小短剧, dir. 齐斌",
+   "mechanism": "Hypnosis by the male lead, who uses weakened powers on the heroine and poses as her fiancé",
+   "confidence_flag": "Medium",
+   "summary": "Chen Tian, once a 'phantom god' of the Illusion Temple, is framed by Luo Zheng and, with his remaining strength, hypnotizes Mu Yunxi and joins her family as a live-in son-in-law for three years. Just before his powers return, Luo Zheng schemes to drive him out and marry Mu; Chen's powers fully awaken, he regains Mu's trust, leads the Mu family against the villain and looks into the original betrayal.",
+   "character": "Chen Tian (Zhang Zihan), Mu Yunxi (Dang Mengyu)",
+   "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+   "note": "Verification: Confirmed by listing synopsis: heroine hypnotized, 3-year live-in marriage-like arrangement under a false fiancé identity. Not confirmed: intimacy, pregnancy. Ages are not stated in the sources read; no minor is indicated.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "unknown",
+   "kids_together": "no",
+   "married": "yes",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "evidence": "2 pages on Duanjubaike (same listing) + Baidu Baike (seen only through search snippets; page timed out when fetched)",
+   "source_conflict": "'弄巧成拙：我催眠了个老婆' appears on two aggregators with 12 or 20 episodes and a vague synopsis; a search summary says it is a reposted alias of this series but I could not verify that, so it is NOT merged here.",
+   "fit_note": "Borderline: Male-lead power-fantasy; the hypnotized woman is the love interest; no pregnancy. The characters' ages are not stated.",
+   "format": "vertical series",
+   "categories": [
+    "hypnotized-marriage",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "短剧百科 (zh-Hans)",
+     "url": "https://duanjubaike.org/zh-Hans/drama/22066"
+    },
+    {
+     "label": "短剧百科 (.net)",
+     "url": "https://www.duanjubaike.net/duanju/info-7274923810552286264.html"
+    },
+    {
+     "label": "百度百科 我靠催眠控制万物",
+     "url": "https://baike.baidu.com/item/%E6%88%91%E9%9D%A0%E5%82%AC%E7%9C%A0%E6%8E%A7%E5%88%B6%E4%B8%87%E7%89%A9/65265684"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "round3"
+   ],
+   "source_records": [
+    "round3:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "round3:6": {
+     "title": "我靠催眠控制万物",
+     "subtitle": "aka 弄巧成拙：我催眠了个老婆 (alias, unverified)",
+     "year": "2023",
+     "format": "vertical series",
+     "meta": "Chinese vertical short drama · Mandarin · 83 episodes · posted 4 Sep 2023 · 花生小短剧, dir. 齐斌",
+     "mechanism": "Hypnosis by the male lead, who uses weakened powers on the heroine and poses as her fiancé",
+     "confidence_flag": "Medium",
+     "summary": "Chen Tian, once a 'phantom god' of the Illusion Temple, is framed by Luo Zheng and, with his remaining strength, hypnotizes Mu Yunxi and joins her family as a live-in son-in-law for three years. Just before his powers return, Luo Zheng schemes to drive him out and marry Mu; Chen's powers fully awaken, he regains Mu's trust, leads the Mu family against the villain and looks into the original betrayal.",
+     "character": "Chen Tian (Zhang Zihan), Mu Yunxi (Dang Mengyu)",
+     "categories": [
+      "hypnotized-marriage",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "短剧百科 (zh-Hans)",
+       "url": "https://duanjubaike.org/zh-Hans/drama/22066"
+      },
+      {
+       "label": "短剧百科 (.net)",
+       "url": "https://www.duanjubaike.net/duanju/info-7274923810552286264.html"
+      },
+      {
+       "label": "百度百科 我靠催眠控制万物",
+       "url": "https://baike.baidu.com/item/%E6%88%91%E9%9D%A0%E5%82%AC%E7%9C%A0%E6%8E%A7%E5%88%B6%E4%B8%87%E7%89%A9/65265684"
+      }
+     ],
+     "married": "yes",
+     "evidence": "2 pages on Duanjubaike (same listing) + Baidu Baike (seen only through search snippets; page timed out when fetched)",
+     "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnant_end_note": "not mentioned",
+     "pregnancy_note": "not mentioned",
+     "kids_together": "no",
+     "kids_status": "unknown",
+     "source_conflict": "'弄巧成拙：我催眠了个老婆' appears on two aggregators with 12 or 20 episodes and a vague synopsis; a search summary says it is a reposted alias of this series but I could not verify that, so it is NOT merged here.",
+     "note": "Verification: Confirmed by listing synopsis: heroine hypnotized, 3-year live-in marriage-like arrangement under a false fiancé identity. Not confirmed: intimacy, pregnancy. Ages are not stated in the sources read; no minor is indicated.",
+     "fit_note": "Borderline: Male-lead power-fantasy; the hypnotized woman is the love interest; no pregnancy. The characters' ages are not stated.",
+     "tags": [
+      "loose fit"
+     ],
+     "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "catalog_ids": [],
+     "research_no": 6
+    }
+   }
+  },
+  {
+   "id": 2642,
+   "title": "私尝",
+   "subtitle": "Private Tasting",
+   "year": "2025",
+   "meta": "Chinese vertical short drama · Mandarin · 78 episodes × ~2 min · 12 May 2025 (Duanjubaike) / 17 May 2025 (MyDramaList)",
+   "mechanism": "Hypnosis memory wipe after a kidnapping; the man later marries her under a false identity",
+   "confidence_flag": "Medium-high",
+   "summary": "Four years earlier Shu Yang was given to Qi Yan by her father; after a flirtation changed her attitude, Qi Yan's family feud led to her being kidnapped and traumatised, and through hypnosis she lost her memory. Four years later she runs a bar and Qi Yan marries her in a quick marriage under the guise of being a member of the Huo family; the story is about repairing old wounds and rekindled feeling inside this formal marriage. Adapted from the web novel 玫瑰无原则，心动至上！.",
+   "character": "Shu Yang / 舒漾 (Zhang Yutian), Qi Yan / 祁砚 (Li Muheng)",
+   "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+   "note": "Verification: Confirmed: hypnosis memory loss and a later marriage to the man who is concealing his identity. Not confirmed: pregnancy, any intimate scene. Ages are not stated in the sources read; no minor is indicated.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "kids_status": "unknown",
+   "kids_together": "no",
+   "married": "yes",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "evidence": "3 sources (MyDramaList, Duanjubaike, Hongguo); synopsis only",
+   "source_conflict": "Dates 12 May vs 17 May 2025; character names rendered differently (MyDramaList Qi Yan/Shu Yang vs Duanjubaike 祁砚/舒漾). MyDramaList says Qi Yan's family feud led to the kidnapping; Duanjubaike says Qi Yan hypnotized her himself — who performs the hypnosis is not clear.",
+   "fit_note": "Hypnotized woman + marriage by a man hiding the past.",
+   "format": "vertical series",
+   "categories": [
+    "hypnotized-marriage",
+    "adult-hypnosis",
+    "love"
+   ],
+   "sources": [
+    {
+     "label": "MyDramaList (Format: Vertical Series)",
+     "url": "https://mydramalist.com/797692-private-tasting"
+    },
+    {
+     "label": "短剧百科 私尝",
+     "url": "https://duanjubaike.cn/drama/23613"
+    },
+    {
+     "label": "Hongguo 私尝",
+     "url": "https://hongguoduanju.com/detail?series_id=7503469206143241240"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "round3"
+   ],
+   "source_records": [
+    "round3:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "round3:7": {
+     "title": "私尝",
+     "subtitle": "Private Tasting",
+     "year": "2025",
+     "format": "vertical series",
+     "meta": "Chinese vertical short drama · Mandarin · 78 episodes × ~2 min · 12 May 2025 (Duanjubaike) / 17 May 2025 (MyDramaList)",
+     "mechanism": "Hypnosis memory wipe after a kidnapping; the man later marries her under a false identity",
+     "confidence_flag": "Medium-high",
+     "summary": "Four years earlier Shu Yang was given to Qi Yan by her father; after a flirtation changed her attitude, Qi Yan's family feud led to her being kidnapped and traumatised, and through hypnosis she lost her memory. Four years later she runs a bar and Qi Yan marries her in a quick marriage under the guise of being a member of the Huo family; the story is about repairing old wounds and rekindled feeling inside this formal marriage. Adapted from the web novel 玫瑰无原则，心动至上！.",
+     "character": "Shu Yang / 舒漾 (Zhang Yutian), Qi Yan / 祁砚 (Li Muheng)",
+     "categories": [
+      "hypnotized-marriage",
+      "adult-hypnosis",
+      "love"
+     ],
+     "sources": [
+      {
+       "label": "MyDramaList (Format: Vertical Series)",
+       "url": "https://mydramalist.com/797692-private-tasting"
+      },
+      {
+       "label": "短剧百科 私尝",
+       "url": "https://duanjubaike.cn/drama/23613"
+      },
+      {
+       "label": "Hongguo 私尝",
+       "url": "https://hongguoduanju.com/detail?series_id=7503469206143241240"
+      }
+     ],
+     "married": "yes",
+     "evidence": "3 sources (MyDramaList, Duanjubaike, Hongguo); synopsis only",
+     "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnant_end_note": "not mentioned",
+     "pregnancy_note": "not mentioned",
+     "kids_together": "no",
+     "kids_status": "unknown",
+     "source_conflict": "Dates 12 May vs 17 May 2025; character names rendered differently (MyDramaList Qi Yan/Shu Yang vs Duanjubaike 祁砚/舒漾). MyDramaList says Qi Yan's family feud led to the kidnapping; Duanjubaike says Qi Yan hypnotized her himself — who performs the hypnosis is not clear.",
+     "note": "Verification: Confirmed: hypnosis memory loss and a later marriage to the man who is concealing his identity. Not confirmed: pregnancy, any intimate scene. Ages are not stated in the sources read; no minor is indicated.",
+     "fit_note": "Hypnotized woman + marriage by a man hiding the past.",
+     "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "catalog_ids": [],
+     "research_no": 7
+    }
+   }
+  },
+  {
+   "id": 2643,
+   "title": "Beneath the Hypnosis",
+   "subtitle": "Rainy Night Scheme / 'Bajo la Hipnosis' / 'La Trampa del Deseo: Secretos bajo la Lluvia' (ShortMax)",
+   "year": "Date unverified",
+   "meta": "ShortMax vertical drama · dubbed English/Spanish · 51 episodes",
+   "mechanism": "Hypnosis used by a husband and his mistress, with a personal trainer sent to entrap the wife",
+   "confidence_flag": "Low-medium · single platform",
+   "summary": "Anne (Ana) and Luke (León) have been married seven years without passion; in a storm she seeks comfort with the younger trainer Felix (Fabián). She does not know Felix was sent by Luke and his lover Ximena to draw her into a deadly plan to collect a life-insurance payout. When she discovers the manipulation through hypnosis, Anne joins Felix to take apart the web of lies and put the guilty in prison.",
+   "character": "Anne/Ana, husband Luke/León, mistress Ximena, trainer Felix/Fabián",
+   "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+   "note": "Verification: Confirmed only through ShortMax mirror text: hypnosis, insurance plot, trainer entrapment. Not confirmed: who is hypnotized or whether she is assaulted; this was the round-2 'could not corroborate' lead — now listed on two ShortMax-mirror pages and MicroDramaList.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "unknown",
+   "kids_together": "no",
+   "married": "yes",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "evidence": "Single source — Single platform (ShortMax mirror site, EN + ES pages); MicroDramaList lists the title but I could not open its detail page",
+   "source_conflict": "Series ids differ between the English (29070) and Spanish (29099) mirror pages; synopses agree. A different mirror shows 'Rainy Night Scheme' under id 17127 (same alias). No Chinese original title found.",
+   "fit_note": "Borderline: Hypnosis is in the title and plot but the mechanism (who hypnotizes whom) is not spelled out. Single source.",
+   "format": "vertical series",
+   "categories": [
+    "wife",
+    "cheat-control",
+    "partner-commissioned"
+   ],
+   "sources": [
+    {
+     "label": "ShortMax mirror (EN) Beneath the Hypnosis",
+     "url": "https://www.shorttv.live/episodes/dubbedrainy-night-scheme-29070"
+    },
+    {
+     "label": "ShortMax mirror (ES) Bajo la Hipnosis",
+     "url": "https://www.shorttv.live/es/drama/dobladola-trampa-del-deseo-secretos-bajo-la-lluvia-29099"
+    },
+    {
+     "label": "MicroDramaList search (title listed)",
+     "url": "https://microdramalist.com/search?q=hypno"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "round3"
+   ],
+   "source_records": [
+    "round3:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "round3:8": {
+     "title": "Beneath the Hypnosis",
+     "subtitle": "Rainy Night Scheme / 'Bajo la Hipnosis' / 'La Trampa del Deseo: Secretos bajo la Lluvia' (ShortMax)",
+     "year": "Date unverified",
+     "format": "vertical series",
+     "meta": "ShortMax vertical drama · dubbed English/Spanish · 51 episodes",
+     "mechanism": "Hypnosis used by a husband and his mistress, with a personal trainer sent to entrap the wife",
+     "confidence_flag": "Low-medium · single platform",
+     "summary": "Anne (Ana) and Luke (León) have been married seven years without passion; in a storm she seeks comfort with the younger trainer Felix (Fabián). She does not know Felix was sent by Luke and his lover Ximena to draw her into a deadly plan to collect a life-insurance payout. When she discovers the manipulation through hypnosis, Anne joins Felix to take apart the web of lies and put the guilty in prison.",
+     "character": "Anne/Ana, husband Luke/León, mistress Ximena, trainer Felix/Fabián",
+     "categories": [
+      "wife",
+      "cheat-control",
+      "partner-commissioned"
+     ],
+     "sources": [
+      {
+       "label": "ShortMax mirror (EN) Beneath the Hypnosis",
+       "url": "https://www.shorttv.live/episodes/dubbedrainy-night-scheme-29070"
+      },
+      {
+       "label": "ShortMax mirror (ES) Bajo la Hipnosis",
+       "url": "https://www.shorttv.live/es/drama/dobladola-trampa-del-deseo-secretos-bajo-la-lluvia-29099"
+      },
+      {
+       "label": "MicroDramaList search (title listed)",
+       "url": "https://microdramalist.com/search?q=hypno"
+      }
+     ],
+     "married": "yes",
+     "evidence": "Single source — Single platform (ShortMax mirror site, EN + ES pages); MicroDramaList lists the title but I could not open its detail page",
+     "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnant_end_note": "not mentioned",
+     "pregnancy_note": "not mentioned",
+     "kids_together": "no",
+     "kids_status": "unknown",
+     "source_conflict": "Series ids differ between the English (29070) and Spanish (29099) mirror pages; synopses agree. A different mirror shows 'Rainy Night Scheme' under id 17127 (same alias). No Chinese original title found.",
+     "note": "Verification: Confirmed only through ShortMax mirror text: hypnosis, insurance plot, trainer entrapment. Not confirmed: who is hypnotized or whether she is assaulted; this was the round-2 'could not corroborate' lead — now listed on two ShortMax-mirror pages and MicroDramaList.",
+     "fit_note": "Borderline: Hypnosis is in the title and plot but the mechanism (who hypnotizes whom) is not spelled out. Single source.",
+     "tags": [
+      "loose fit"
+     ],
+     "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "catalog_ids": [],
+     "research_no": 8
+    }
+   }
+  },
+  {
+   "id": 2644,
+   "title": "催眠曲",
+   "subtitle": "Lullaby / Hypnotic Song",
+   "year": "2025",
+   "meta": "Chinese short drama · Mandarin · 12 episodes · posted 29 May 2025 (listing date)",
+   "mechanism": "Therapeutic hypnosis of an amnesic patient by a hypnotist (listing synopsis)",
+   "confidence_flag": "Low",
+   "summary": "Per one listing: hypnotist Lin Mo treats amnesic patient Su Wan, hoping to unlock her buried memories, and is drawn into a conspiracy involving the tycoon Chen Yuan; Su Wan's memory fragments expose a hidden relationship with Chen, Lin develops feeling for her and finds he too is being controlled by a hidden hand; power between hypnotist and subject flips.",
+   "character": "hypnotist Lin Mo, amnesic woman Su Wan, tycoon Chen Yuan",
+   "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+   "note": "Verification: Hypnosis premise from one listing only; no pregnancy confirmed (the other listing mentions a missing child). Ages are not stated in the sources read; no minor is indicated.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "unknown",
+   "kids_together": "no",
+   "married": "unknown",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "evidence": "2 aggregator listings with different synopses",
+   "source_conflict": "The 马扑 listing gives a different story for the same title (a woman whose identity papers and child are missing; 12 eps) with no hypnotist; only the qkduanju synopsis describes hypnosis. Treat the hypnosis plot as unverified.",
+   "fit_note": "Loose fit: therapeutic hypnosis of an amnesic patient; conflicting synopses; unverified. The characters' ages are not stated.",
+   "format": "vertical series",
+   "categories": [
+    "adult-hypnosis",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "夸克短剧 催眠曲 (12集全)",
+     "url": "https://qkduanju.com/post/26371.html"
+    },
+    {
+     "label": "马扑短剧 催眠曲",
+     "url": "https://hk.mapudj.cc/dianying/EN4d.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "round3"
+   ],
+   "source_records": [
+    "round3:9"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "round3:9": {
+     "title": "催眠曲",
+     "subtitle": "Lullaby / Hypnotic Song",
+     "year": "2025",
+     "format": "vertical series",
+     "meta": "Chinese short drama · Mandarin · 12 episodes · posted 29 May 2025 (listing date)",
+     "mechanism": "Therapeutic hypnosis of an amnesic patient by a hypnotist (listing synopsis)",
+     "confidence_flag": "Low",
+     "summary": "Per one listing: hypnotist Lin Mo treats amnesic patient Su Wan, hoping to unlock her buried memories, and is drawn into a conspiracy involving the tycoon Chen Yuan; Su Wan's memory fragments expose a hidden relationship with Chen, Lin develops feeling for her and finds he too is being controlled by a hidden hand; power between hypnotist and subject flips.",
+     "character": "hypnotist Lin Mo, amnesic woman Su Wan, tycoon Chen Yuan",
+     "categories": [
+      "adult-hypnosis",
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "夸克短剧 催眠曲 (12集全)",
+       "url": "https://qkduanju.com/post/26371.html"
+      },
+      {
+       "label": "马扑短剧 催眠曲",
+       "url": "https://hk.mapudj.cc/dianying/EN4d.html"
+      }
+     ],
+     "married": "unknown",
+     "evidence": "2 aggregator listings with different synopses",
+     "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnant_end_note": "not mentioned",
+     "pregnancy_note": "not mentioned",
+     "kids_together": "no",
+     "kids_status": "unknown",
+     "source_conflict": "The 马扑 listing gives a different story for the same title (a woman whose identity papers and child are missing; 12 eps) with no hypnotist; only the qkduanju synopsis describes hypnosis. Treat the hypnosis plot as unverified.",
+     "note": "Verification: Hypnosis premise from one listing only; no pregnancy confirmed (the other listing mentions a missing child). Ages are not stated in the sources read; no minor is indicated.",
+     "fit_note": "Loose fit: therapeutic hypnosis of an amnesic patient; conflicting synopses; unverified. The characters' ages are not stated.",
+     "tags": [
+      "loose fit"
+     ],
+     "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "catalog_ids": [],
+     "research_no": 9
+    }
+   }
+  },
+  {
+   "id": 2645,
+   "title": "催眠局中局",
+   "subtitle": "Hypnosis Trap Within a Trap",
+   "year": "2026",
+   "meta": "Chinese vertical short drama · Mandarin · 71 episodes · premiered 17 Feb 2026 · 云菜短剧, dir. 赵志一",
+   "mechanism": "Counter-hypnosis: a self-styled 'ghost seer' reverse-hypnotizes a psychiatrist inside a sting",
+   "confidence_flag": "Low-medium · single source",
+   "summary": "Top psychiatrist Lin Ling, who does not believe in ghosts, treats Wen Qin, who claims to see ghosts, and uses hypnosis to dig up his 'past victimisation'. Wen reverse-hypnotizes her, making her face her childhood family fire, and in a guided state she admits the fire was her own negligence and that she poisoned people at a psychiatric hospital. It was a sting set by her mentor and the police; she is arrested for arson and killing.",
+   "character": "Lin Ling (Jin Shan), Wen Qin (Hu Tianyu)",
+   "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+   "note": "Verification: Confirmed by one listing: a woman is hypnotized into confessing. No romance/intimacy; no pregnancy. Ages are not stated in the sources read; no minor is indicated.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "unknown",
+   "kids_together": "no",
+   "married": "unknown",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "evidence": "Single source — Single listing (Duanjubaike); not independently corroborated",
+   "fit_note": "Loose fit: hypnotized woman is the antagonist in a crime sting; no intimacy. The characters' ages are not stated. Single source.",
+   "format": "vertical series",
+   "categories": [
+    "adult-hypnosis",
+    "medical",
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "短剧百科 催眠局中局",
+     "url": "https://www.duanjubaike.net/duanju/info-7607828483242200088.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "round3"
+   ],
+   "source_records": [
+    "round3:10"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "round3:10": {
+     "title": "催眠局中局",
+     "subtitle": "Hypnosis Trap Within a Trap",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "Chinese vertical short drama · Mandarin · 71 episodes · premiered 17 Feb 2026 · 云菜短剧, dir. 赵志一",
+     "mechanism": "Counter-hypnosis: a self-styled 'ghost seer' reverse-hypnotizes a psychiatrist inside a sting",
+     "confidence_flag": "Low-medium · single source",
+     "summary": "Top psychiatrist Lin Ling, who does not believe in ghosts, treats Wen Qin, who claims to see ghosts, and uses hypnosis to dig up his 'past victimisation'. Wen reverse-hypnotizes her, making her face her childhood family fire, and in a guided state she admits the fire was her own negligence and that she poisoned people at a psychiatric hospital. It was a sting set by her mentor and the police; she is arrested for arson and killing.",
+     "character": "Lin Ling (Jin Shan), Wen Qin (Hu Tianyu)",
+     "categories": [
+      "adult-hypnosis",
+      "medical",
+      "crime"
+     ],
+     "sources": [
+      {
+       "label": "短剧百科 催眠局中局",
+       "url": "https://www.duanjubaike.net/duanju/info-7607828483242200088.html"
+      }
+     ],
+     "married": "unknown",
+     "evidence": "Single source — Single listing (Duanjubaike); not independently corroborated",
+     "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnant_end_note": "not mentioned",
+     "pregnancy_note": "not mentioned",
+     "kids_together": "no",
+     "kids_status": "unknown",
+     "note": "Verification: Confirmed by one listing: a woman is hypnotized into confessing. No romance/intimacy; no pregnancy. Ages are not stated in the sources read; no minor is indicated.",
+     "fit_note": "Loose fit: hypnotized woman is the antagonist in a crime sting; no intimacy. The characters' ages are not stated. Single source.",
+     "tags": [
+      "loose fit"
+     ],
+     "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "catalog_ids": [],
+     "research_no": 10
+    }
+   }
+  },
+  {
+   "id": 2646,
+   "title": "指尖牢",
+   "subtitle": "Fingertip Prison",
+   "year": "2026",
+   "meta": "Chinese vertical short drama · Mandarin · 76 episodes · premiered 22 Sep 2026 · 龙萦看剧, dir. 范更长",
+   "mechanism": "Deep hypnosis with a brass pocket watch; hypnotic 'anchor' control of the fiancée; dream layers",
+   "confidence_flag": "Low",
+   "summary": "Suspense author Jiang Xu is deeply hypnotized with a brass pocket watch by his psychologist childhood friend Cheng Che and falls into nested mental prisons. His fiancée Li Yang is controlled by a hypnotic anchor; the quest into his first love Zhou Yun's suspicious 'suicide' ends with everyone revealed as test subjects of a hypnosis expert.",
+   "character": "Jiang Xu (Zhu Zheren), fiancée Li Yang (Li Siyi)",
+   "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+   "note": "Verification: The hypnotized woman (fiancée) is a secondary character; the protagonist is the man. Ages are not stated in the sources read; no minor is indicated.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "unknown",
+   "kids_together": "no",
+   "married": "unknown",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "evidence": "Single source — Single listing (Duanjubaike)",
+   "fit_note": "Loose fit: hypnotized fiancée is secondary; male lead is the main subject. The characters' ages are not stated. Single source.",
+   "format": "vertical series",
+   "categories": [
+    "adult-hypnosis",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "短剧百科 指尖牢",
+     "url": "https://www.duanjubaike.net/duanju/info-7688187489235766334.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "round3"
+   ],
+   "source_records": [
+    "round3:11"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "round3:11": {
+     "title": "指尖牢",
+     "subtitle": "Fingertip Prison",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "Chinese vertical short drama · Mandarin · 76 episodes · premiered 22 Sep 2026 · 龙萦看剧, dir. 范更长",
+     "mechanism": "Deep hypnosis with a brass pocket watch; hypnotic 'anchor' control of the fiancée; dream layers",
+     "confidence_flag": "Low",
+     "summary": "Suspense author Jiang Xu is deeply hypnotized with a brass pocket watch by his psychologist childhood friend Cheng Che and falls into nested mental prisons. His fiancée Li Yang is controlled by a hypnotic anchor; the quest into his first love Zhou Yun's suspicious 'suicide' ends with everyone revealed as test subjects of a hypnosis expert.",
+     "character": "Jiang Xu (Zhu Zheren), fiancée Li Yang (Li Siyi)",
+     "categories": [
+      "adult-hypnosis",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "短剧百科 指尖牢",
+       "url": "https://www.duanjubaike.net/duanju/info-7688187489235766334.html"
+      }
+     ],
+     "married": "unknown",
+     "evidence": "Single source — Single listing (Duanjubaike)",
+     "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnant_end_note": "not mentioned",
+     "pregnancy_note": "not mentioned",
+     "kids_together": "no",
+     "kids_status": "unknown",
+     "note": "Verification: The hypnotized woman (fiancée) is a secondary character; the protagonist is the man. Ages are not stated in the sources read; no minor is indicated.",
+     "fit_note": "Loose fit: hypnotized fiancée is secondary; male lead is the main subject. The characters' ages are not stated. Single source.",
+     "tags": [
+      "loose fit"
+     ],
+     "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "catalog_ids": [],
+     "research_no": 11
+    }
+   }
+  },
+  {
+   "id": 2647,
+   "title": "我能听到妈妈的心声后",
+   "subtitle": "After I Could Hear Mom's Thoughts",
+   "year": "2025",
+   "meta": "Chinese vertical short drama · Mandarin · 35 episodes (Hongguo episode list) · 'rebirth' family revenge",
+   "mechanism": "Hypnosis with a bracelet by a fake daughter and a doctor, to seize the family estate",
+   "confidence_flag": "Medium",
+   "summary": "Yan Xi can hear the thoughts of her mute mother but keeps being blamed for harm her mother seems to cause. After rebirth she defuses crises and finally learns the fake heiress Yan Ruolan and doctor Shen Han have been hypnotizing the mother with a bracelet to take the family fortune; they are punished and mother and daughter start over.",
+   "character": "mute mother (Liu Meilun per cast list), daughter Yan Xi, fake daughter Yan Ruolan, doctor Shen Han",
+   "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+   "note": "Verification: Hypnosis of the mother is stated in the synopsis. No intimacy; no pregnancy; the daughter's age is not given. Ages are not stated in the sources read; no minor is indicated.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "yes",
+   "kids_note": "Mother has an adult-age-unstated daughter (heroine); fake daughter also involved.",
+   "kids_together": "no",
+   "married": "unknown",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "evidence": "3 listings, one synopsis",
+   "source_conflict": "The Hongguo page's sidebar shows '全101集' for other titles; the episode list for this series itself runs to 35 and aggregators agree on 35.",
+   "fit_note": "Borderline: Hypnotized adult mother used for estate gain; the story is family revenge, not romance. The characters' ages are not stated.",
+   "format": "vertical series",
+   "categories": [
+    "mother",
+    "doctor-gain",
+    "family"
+   ],
+   "sources": [
+    {
+     "label": "Hongguo 我能听到妈妈的心声后",
+     "url": "https://hongguoduanju.com/detail?series_id=7532327666075044889"
+    },
+    {
+     "label": "影视仓库 listing",
+     "url": "https://www.yscku.com/detail/7495.html"
+    },
+    {
+     "label": "安速短剧",
+     "url": "https://ansudj.cc/showinfo/77690450.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "round3"
+   ],
+   "source_records": [
+    "round3:12"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "round3:12": {
+     "title": "我能听到妈妈的心声后",
+     "subtitle": "After I Could Hear Mom's Thoughts",
+     "year": "2025",
+     "format": "vertical series",
+     "meta": "Chinese vertical short drama · Mandarin · 35 episodes (Hongguo episode list) · 'rebirth' family revenge",
+     "mechanism": "Hypnosis with a bracelet by a fake daughter and a doctor, to seize the family estate",
+     "confidence_flag": "Medium",
+     "summary": "Yan Xi can hear the thoughts of her mute mother but keeps being blamed for harm her mother seems to cause. After rebirth she defuses crises and finally learns the fake heiress Yan Ruolan and doctor Shen Han have been hypnotizing the mother with a bracelet to take the family fortune; they are punished and mother and daughter start over.",
+     "character": "mute mother (Liu Meilun per cast list), daughter Yan Xi, fake daughter Yan Ruolan, doctor Shen Han",
+     "categories": [
+      "mother",
+      "doctor-gain",
+      "family"
+     ],
+     "sources": [
+      {
+       "label": "Hongguo 我能听到妈妈的心声后",
+       "url": "https://hongguoduanju.com/detail?series_id=7532327666075044889"
+      },
+      {
+       "label": "影视仓库 listing",
+       "url": "https://www.yscku.com/detail/7495.html"
+      },
+      {
+       "label": "安速短剧",
+       "url": "https://ansudj.cc/showinfo/77690450.html"
+      }
+     ],
+     "married": "unknown",
+     "evidence": "3 listings, one synopsis",
+     "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnant_end_note": "not mentioned",
+     "pregnancy_note": "not mentioned",
+     "kids_together": "no",
+     "kids_status": "yes",
+     "kids_note": "Mother has an adult-age-unstated daughter (heroine); fake daughter also involved.",
+     "source_conflict": "The Hongguo page's sidebar shows '全101集' for other titles; the episode list for this series itself runs to 35 and aggregators agree on 35.",
+     "note": "Verification: Hypnosis of the mother is stated in the synopsis. No intimacy; no pregnancy; the daughter's age is not given. Ages are not stated in the sources read; no minor is indicated.",
+     "fit_note": "Borderline: Hypnotized adult mother used for estate gain; the story is family revenge, not romance. The characters' ages are not stated.",
+     "tags": [
+      "loose fit"
+     ],
+     "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "catalog_ids": [],
+     "research_no": 12
+    }
+   }
+  },
+  {
+   "id": 2648,
+   "title": "我的多重人格在自相残杀",
+   "subtitle": "My Multiple Personalities Are Killing Each Other / 我的多重人格 / 'สะกดจิตสะกดใจ' (Bilibili TV Thai)",
+   "year": "2025",
+   "meta": "Chinese vertical short drama · Mandarin · 30 episodes · Bilibili TV start 27 Sep 2025",
+   "mechanism": "Hypnosis of a patient by her psychologist; counter-hypnosis by her friend",
+   "confidence_flag": "Low-medium",
+   "summary": "Psychologist Gu Chenzhou hypnotizes his patient Su Wan to control her, wearing down her mental health. Her close friend Lin Ruochou notices and investigates, hypnotizes Gu back and exposes his real self. When he wakes in rage, the 'real' psychologist appears and reveals Gu is a multiple-personality patient who has killed several people.",
+   "character": "patient Su Wan, psychologist Gu Chenzhou (listing: 顾沉舟 / 顾辰州), friend Lin Ruochou",
+   "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+   "note": "Verification: Hypnosis of a female patient confirmed by the Bilibili TV synopsis; no intimacy or pregnancy mentioned. Ages are not stated in the sources read; no minor is indicated.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "unknown",
+   "kids_together": "no",
+   "married": "unknown",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "evidence": "3 listings (Bilibili TV page opened; Duanjubaike/dianshijum seen via search results)",
+   "source_conflict": "Character names are rendered differently across listings (顾辰州/顾沉舟; 林若愁/林若初).",
+   "fit_note": "Loose fit: psychologist–patient control; thriller, no romance. The characters' ages are not stated.",
+   "format": "vertical series",
+   "categories": [
+    "adult-hypnosis",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Bilibili TV (Thai) สะกดจิตสะกดใจ",
+     "url": "https://www.bilibili.tv/th/play/2259334"
+    },
+    {
+     "label": "短剧百科 我的多重人格",
+     "url": "https://www.duanjubaike.net/duanju/info-7524889508542696473.html"
+    },
+    {
+     "label": "电视剧网",
+     "url": "https://www.dianshijum.com/v/37256.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "round3"
+   ],
+   "source_records": [
+    "round3:13"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "round3:13": {
+     "title": "我的多重人格在自相残杀",
+     "subtitle": "My Multiple Personalities Are Killing Each Other / 我的多重人格 / 'สะกดจิตสะกดใจ' (Bilibili TV Thai)",
+     "year": "2025",
+     "format": "vertical series",
+     "meta": "Chinese vertical short drama · Mandarin · 30 episodes · Bilibili TV start 27 Sep 2025",
+     "mechanism": "Hypnosis of a patient by her psychologist; counter-hypnosis by her friend",
+     "confidence_flag": "Low-medium",
+     "summary": "Psychologist Gu Chenzhou hypnotizes his patient Su Wan to control her, wearing down her mental health. Her close friend Lin Ruochou notices and investigates, hypnotizes Gu back and exposes his real self. When he wakes in rage, the 'real' psychologist appears and reveals Gu is a multiple-personality patient who has killed several people.",
+     "character": "patient Su Wan, psychologist Gu Chenzhou (listing: 顾沉舟 / 顾辰州), friend Lin Ruochou",
+     "categories": [
+      "adult-hypnosis",
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Bilibili TV (Thai) สะกดจิตสะกดใจ",
+       "url": "https://www.bilibili.tv/th/play/2259334"
+      },
+      {
+       "label": "短剧百科 我的多重人格",
+       "url": "https://www.duanjubaike.net/duanju/info-7524889508542696473.html"
+      },
+      {
+       "label": "电视剧网",
+       "url": "https://www.dianshijum.com/v/37256.html"
+      }
+     ],
+     "married": "unknown",
+     "evidence": "3 listings (Bilibili TV page opened; Duanjubaike/dianshijum seen via search results)",
+     "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnant_end_note": "not mentioned",
+     "pregnancy_note": "not mentioned",
+     "kids_together": "no",
+     "kids_status": "unknown",
+     "source_conflict": "Character names are rendered differently across listings (顾辰州/顾沉舟; 林若愁/林若初).",
+     "note": "Verification: Hypnosis of a female patient confirmed by the Bilibili TV synopsis; no intimacy or pregnancy mentioned. Ages are not stated in the sources read; no minor is indicated.",
+     "fit_note": "Loose fit: psychologist–patient control; thriller, no romance. The characters' ages are not stated.",
+     "tags": [
+      "loose fit"
+     ],
+     "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "catalog_ids": [],
+     "research_no": 13
+    }
+   }
+  },
+  {
+   "id": 2649,
+   "title": "Don't Monkey with the Buzz Saw",
+   "subtitle": "",
+   "year": "1914",
+   "meta": "Silent comedy short · 11 min · Kalem Co., dir. Marshall Neilan · released 7 Aug 1914",
+   "mechanism": "Husband learns hypnotism from 'Professor Orbs' and uses it on his wife and mother-in-law",
+   "confidence_flag": "Low",
+   "summary": "After learning hypnotism a husband puts his henpecking wife (Ruth Roland) and his mother-in-law (Laura Oakley) into a trance so he can go out on the town with other women.",
+   "character": "wife (Ruth Roland), mother-in-law (Laura Oakley), husband, hypnotist Professor Orbs (Victor Rodman)",
+   "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+   "note": "Verification: Plot is a single sentence; no intimate scene described.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "unknown",
+   "kids_together": "no",
+   "married": "yes",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "evidence": "Single source — Two data-aggregator pages carrying the same one-line plot (appears TMDB-derived) — treat as one source",
+   "fit_note": "Loose fit: slapstick husband-hypnotizes-wife; no intimacy or pregnancy. Single source.",
+   "format": "short",
+   "categories": [
+    "wife",
+    "partner-control",
+    "family"
+   ],
+   "sources": [
+    {
+     "label": "MOVDATAS",
+     "url": "https://movdatas.com/movies/550913"
+    },
+    {
+     "label": "Flickchart",
+     "url": "https://www.flickchart.com/movie/dont-monkey-with-the-buzz-saw-short"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "round3"
+   ],
+   "source_records": [
+    "round3:14"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "round3:14": {
+     "title": "Don't Monkey with the Buzz Saw",
+     "year": "1914",
+     "format": "short",
+     "meta": "Silent comedy short · 11 min · Kalem Co., dir. Marshall Neilan · released 7 Aug 1914",
+     "mechanism": "Husband learns hypnotism from 'Professor Orbs' and uses it on his wife and mother-in-law",
+     "confidence_flag": "Low",
+     "summary": "After learning hypnotism a husband puts his henpecking wife (Ruth Roland) and his mother-in-law (Laura Oakley) into a trance so he can go out on the town with other women.",
+     "character": "wife (Ruth Roland), mother-in-law (Laura Oakley), husband, hypnotist Professor Orbs (Victor Rodman)",
+     "categories": [
+      "wife",
+      "partner-control",
+      "family"
+     ],
+     "sources": [
+      {
+       "label": "MOVDATAS",
+       "url": "https://movdatas.com/movies/550913"
+      },
+      {
+       "label": "Flickchart",
+       "url": "https://www.flickchart.com/movie/dont-monkey-with-the-buzz-saw-short"
+      }
+     ],
+     "married": "yes",
+     "evidence": "Single source — Two data-aggregator pages carrying the same one-line plot (appears TMDB-derived) — treat as one source",
+     "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnant_end_note": "not mentioned",
+     "pregnancy_note": "not mentioned",
+     "kids_together": "no",
+     "kids_status": "unknown",
+     "note": "Verification: Plot is a single sentence; no intimate scene described.",
+     "fit_note": "Loose fit: slapstick husband-hypnotizes-wife; no intimacy or pregnancy. Single source.",
+     "tags": [
+      "loose fit"
+     ],
+     "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "catalog_ids": [],
+     "research_no": 14
+    }
+   }
+  },
+  {
+   "id": 2650,
+   "title": "Hypnosis",
+   "subtitle": "",
+   "year": "2019",
+   "meta": "French short drama · 10 min · released 17 Jan 2019 · dir. David Trujillo · Esthesie",
+   "mechanism": "Guided hypnosis by a hypnotist to recover lost memories",
+   "confidence_flag": "Low",
+   "summary": "A woman seeking to understand forgotten parts of her life visits a hypnotist; the guided regression leads to a disturbing encounter with her dead sister and a hidden secret about the sister's death.",
+   "character": "the woman (cast listing: Alice Stern / Oliva Combette), hypnotist",
+   "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+   "note": "Verification: Hypnotized adult woman (therapeutic regression); no intimacy or pregnancy mentioned. Ages are not stated in the sources read; no minor is indicated.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "not mentioned",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "unknown",
+   "kids_together": "no",
+   "married": "unknown",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not mentioned",
+   "evidence": "Single source — Single database page",
+   "fit_note": "Loose fit: memory-recovery hypnosis; no intimacy. The characters' ages are not stated. Single source.",
+   "format": "short",
+   "categories": [
+    "adult-hypnosis",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "WatchWhatWhere",
+     "url": "https://watchwhatwhere.com/title/3217810-hypnosis"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "round3"
+   ],
+   "source_records": [
+    "round3:15"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "round3:15": {
+     "title": "Hypnosis",
+     "year": "2019",
+     "format": "short",
+     "meta": "French short drama · 10 min · released 17 Jan 2019 · dir. David Trujillo · Esthesie",
+     "mechanism": "Guided hypnosis by a hypnotist to recover lost memories",
+     "confidence_flag": "Low",
+     "summary": "A woman seeking to understand forgotten parts of her life visits a hypnotist; the guided regression leads to a disturbing encounter with her dead sister and a hidden secret about the sister's death.",
+     "character": "the woman (cast listing: Alice Stern / Oliva Combette), hypnotist",
+     "categories": [
+      "adult-hypnosis",
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "WatchWhatWhere",
+       "url": "https://watchwhatwhere.com/title/3217810-hypnosis"
+      }
+     ],
+     "married": "unknown",
+     "evidence": "Single source — Single database page",
+     "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+     "pregnant_end": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnant_end_note": "not mentioned",
+     "pregnancy_note": "not mentioned",
+     "kids_together": "no",
+     "kids_status": "unknown",
+     "note": "Verification: Hypnotized adult woman (therapeutic regression); no intimacy or pregnancy mentioned. Ages are not stated in the sources read; no minor is indicated.",
+     "fit_note": "Loose fit: memory-recovery hypnosis; no intimacy. The characters' ages are not stated. Single source.",
+     "tags": [
+      "loose fit"
+     ],
+     "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "catalog_ids": [],
+     "research_no": 15
+    }
+   }
+  },
+  {
+   "id": 2651,
+   "title": "Mom, don't sign! Dad is not dead!",
+   "subtitle": "",
+   "year": "Date unverified",
+   "meta": "ReelShort vertical drama · English",
+   "mechanism": "A psychologist's memory manipulation of the HUSBAND (not the pregnant wife)",
+   "confidence_flag": "Low",
+   "summary": "Pregnant Ava is pushed by her mother-in-law Marlene to end her pregnancy after her husband Logan is declared dead. A voice from her unborn child leads her to Logan, alive, injured and held under a psychologist's memory manipulation; together they expose forged authorizations, stolen benefits and a military cover-up and fight their way back to their family.",
+   "character": "pregnant Ava, husband Logan, mother-in-law Marlene",
+   "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+   "note": "Verification: Hypnotized/manipulated person is the man; pregnant adult woman is not hypnotized. Hypnosis is not named explicitly in the blurb ('memory manipulation').",
+   "pregnancy_outcome": "pregnant",
+   "pregnancy_note": "Ava is pregnant at the start; outcome not stated in the episode-1 blurb.",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "unknown",
+   "kids_together": "unknown",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "Ava is pregnant at the start; outcome not stated in the episode-1 blurb.",
+   "evidence": "Single source — ReelShort only (episode 1 blurb; series page seen via search)",
+   "fit_note": "Loose fit: pregnant woman present but not the hypnotized one. Single source.",
+   "format": "vertical series",
+   "categories": [
+    "pregnant-variants",
+    "family"
+   ],
+   "sources": [
+    {
+     "label": "ReelShort ep 1",
+     "url": "https://www.reelshort.com/episodes/episode-1-mom-don-t-sign-dad-is-not-dead-6a7ade4881a82adc940aeaf3-kp769f4m5q"
+    },
+    {
+     "label": "ReelShort series page",
+     "url": "https://www.reelshort.com/movie/mom-don-t-sign-dad-is-not-dead-6a7ade4881a82adc940aeaf3"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "round3"
+   ],
+   "source_records": [
+    "round3:17"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "round3:17": {
+     "title": "Mom, don't sign! Dad is not dead!",
+     "year": "Date unverified",
+     "format": "vertical series",
+     "meta": "ReelShort vertical drama · English",
+     "mechanism": "A psychologist's memory manipulation of the HUSBAND (not the pregnant wife)",
+     "confidence_flag": "Low",
+     "summary": "Pregnant Ava is pushed by her mother-in-law Marlene to end her pregnancy after her husband Logan is declared dead. A voice from her unborn child leads her to Logan, alive, injured and held under a psychologist's memory manipulation; together they expose forged authorizations, stolen benefits and a military cover-up and fight their way back to their family.",
+     "character": "pregnant Ava, husband Logan, mother-in-law Marlene",
+     "categories": [
+      "pregnant-variants",
+      "family"
+     ],
+     "sources": [
+      {
+       "label": "ReelShort ep 1",
+       "url": "https://www.reelshort.com/episodes/episode-1-mom-don-t-sign-dad-is-not-dead-6a7ade4881a82adc940aeaf3-kp769f4m5q"
+      },
+      {
+       "label": "ReelShort series page",
+       "url": "https://www.reelshort.com/movie/mom-don-t-sign-dad-is-not-dead-6a7ade4881a82adc940aeaf3"
+      }
+     ],
+     "married": "yes",
+     "evidence": "Single source — ReelShort only (episode 1 blurb; series page seen via search)",
+     "provenance": "Round-3 vertical-series deep search, 9 Oct 2026 PT (adults only; clinical wording; deduped against origin/main data.json + staged research JSONs incl. research_round2.json)",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "pregnant",
+     "pregnant_end_note": "Ava is pregnant at the start; outcome not stated in the episode-1 blurb.",
+     "pregnancy_note": "Ava is pregnant at the start; outcome not stated in the episode-1 blurb.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "note": "Verification: Hypnotized/manipulated person is the man; pregnant adult woman is not hypnotized. Hypnosis is not named explicitly in the blurb ('memory manipulation').",
+     "fit_note": "Loose fit: pregnant woman present but not the hypnotized one. Single source.",
+     "tags": [
+      "loose fit"
+     ],
+     "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "catalog_ids": [],
+     "research_no": 18
+    }
+   }
   }
  ],
  "sections": [
@@ -396418,7 +398462,8 @@ window.CATALOG = {
     "open-sites-hypnosis",
     "no-link-additions",
     "hypno-sweep-oct9",
-    "round2"
+    "round2",
+    "round3"
    ],
    "groups": [
     {
@@ -399292,6 +401337,45 @@ window.CATALOG = {
       }
      ],
      "from_source": "round2"
+    },
+    {
+     "title": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2650,
+       "from_source": "round3"
+      },
+      {
+       "id": 2645,
+       "from_source": "round3"
+      },
+      {
+       "id": 2644,
+       "from_source": "round3"
+      },
+      {
+       "id": 2648,
+       "from_source": "round3"
+      },
+      {
+       "id": 2641,
+       "from_source": "round3"
+      },
+      {
+       "id": 2646,
+       "from_source": "round3"
+      },
+      {
+       "id": 2642,
+       "from_source": "round3"
+      },
+      {
+       "id": 2638,
+       "from_source": "round3"
+      }
+     ],
+     "from_source": "round3"
     }
    ],
    "declared_count_by_source": {
@@ -399307,7 +401391,8 @@ window.CATALOG = {
     "open-sites-hypnosis": null,
     "no-link-additions": null,
     "hypno-sweep-oct9": null,
-    "round2": null
+    "round2": null,
+    "round3": null
    }
   },
   {
@@ -400718,7 +402803,8 @@ window.CATALOG = {
     }
    ],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "round3"
    ],
    "groups": [
     {
@@ -400990,8 +403076,22 @@ window.CATALOG = {
        "from_source": "xla62ucxbx02u5"
       }
      ]
+    },
+    {
+     "title": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2647,
+       "from_source": "round3"
+      }
+     ],
+     "from_source": "round3"
     }
-   ]
+   ],
+   "declared_count_by_source": {
+    "round3": null
+   }
   },
   {
    "title": "Drugs / science / technology control",
@@ -404756,7 +406856,8 @@ window.CATALOG = {
     "older-man-hypnosis",
     "hypno-leftovers",
     "hypnosis-assault",
-    "round2"
+    "round2",
+    "round3"
    ],
    "groups": [
     {
@@ -405356,6 +407457,29 @@ window.CATALOG = {
        "from_source": "xla62ucxbx02u5"
       }
      ]
+    },
+    {
+     "title": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2649,
+       "from_source": "round3"
+      },
+      {
+       "id": 2639,
+       "from_source": "round3"
+      },
+      {
+       "id": 2640,
+       "from_source": "round3"
+      },
+      {
+       "id": 56,
+       "from_source": "round3"
+      }
+     ],
+     "from_source": "round3"
     }
    ],
    "declared_count_by_source": {
@@ -405366,7 +407490,8 @@ window.CATALOG = {
     "older-man-hypnosis": null,
     "hypno-leftovers": null,
     "hypnosis-assault": null,
-    "round2": null
+    "round2": null,
+    "round3": null
    }
   },
   {
@@ -409542,7 +411667,8 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "rich-wife-hypnosis",
-    "hypno-leftovers"
+    "hypno-leftovers",
+    "round3"
    ],
    "groups": [
     {
@@ -409760,12 +411886,24 @@ window.CATALOG = {
       }
      ],
      "from_source": "ig6qlxqxoxvcxla"
+    },
+    {
+     "title": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2643,
+       "from_source": "round3"
+      }
+     ],
+     "from_source": "round3"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 5,
     "rich-wife-hypnosis": null,
-    "hypno-leftovers": null
+    "hypno-leftovers": null,
+    "round3": null
    }
   },
   {
@@ -409782,7 +411920,8 @@ window.CATALOG = {
     "older-man-hypnosis",
     "hypno-leftovers",
     "hypnosis-assault",
-    "round2"
+    "round2",
+    "round3"
    ],
    "groups": [
     {
@@ -410179,6 +412318,7 @@ window.CATALOG = {
          "url": "https://www.youtube.com/watch?v=ww0eVxvO-b8"
         }
        ],
+       "year_display": "Date unverified",
        "from_source": "xla62ucxbx02u5"
       }
      ]
@@ -410289,6 +412429,33 @@ window.CATALOG = {
       }
      ],
      "from_source": "round2"
+    },
+    {
+     "title": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2643,
+       "from_source": "round3"
+      },
+      {
+       "id": 2649,
+       "from_source": "round3"
+      },
+      {
+       "id": 2639,
+       "from_source": "round3"
+      },
+      {
+       "id": 2640,
+       "from_source": "round3"
+      },
+      {
+       "id": 2638,
+       "from_source": "round3"
+      }
+     ],
+     "from_source": "round3"
     }
    ],
    "declared_count_by_source": {
@@ -410299,7 +412466,8 @@ window.CATALOG = {
     "older-man-hypnosis": null,
     "hypno-leftovers": null,
     "hypnosis-assault": null,
-    "round2": null
+    "round2": null,
+    "round3": null
    }
   },
   {
@@ -410385,11 +412553,13 @@ window.CATALOG = {
    "notes": [],
    "from_sources": [
     "hypnotized-marriage",
-    "no-link-additions"
+    "no-link-additions",
+    "round3"
    ],
    "declared_count_by_source": {
     "hypnotized-marriage": null,
-    "no-link-additions": null
+    "no-link-additions": null,
+    "round3": null
    },
    "groups": [
     {
@@ -410584,6 +412754,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnotized-marriage"
+    },
+    {
+     "title": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2641,
+       "from_source": "round3"
+      },
+      {
+       "id": 2642,
+       "from_source": "round3"
+      }
+     ],
+     "from_source": "round3"
     }
    ]
   },
@@ -410608,7 +412793,8 @@ window.CATALOG = {
     "hypno-intimacy",
     "hypnosis-assault",
     "hypnosis-assault-loose",
-    "round2"
+    "round2",
+    "round3"
    ],
    "groups": [
     {
@@ -410895,6 +413081,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-assault-loose"
+    },
+    {
+     "title": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2643,
+       "from_source": "round3"
+      },
+      {
+       "id": 2639,
+       "from_source": "round3"
+      }
+     ],
+     "from_source": "round3"
     }
    ],
    "declared_count_by_source": {
@@ -410906,7 +413107,8 @@ window.CATALOG = {
     "hypno-intimacy": null,
     "hypnosis-assault": null,
     "hypnosis-assault-loose": null,
-    "round2": null
+    "round2": null,
+    "round3": null
    }
   },
   {
@@ -410929,7 +413131,8 @@ window.CATALOG = {
     "older-man-hypnosis",
     "mother-kids-hypnosis",
     "hypno-leftovers",
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "round3"
    ],
    "groups": [
     {
@@ -411447,6 +413650,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-assault-loose"
+    },
+    {
+     "title": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2645,
+       "from_source": "round3"
+      }
+     ],
+     "from_source": "round3"
     }
    ],
    "declared_count_by_source": {
@@ -411457,7 +413671,8 @@ window.CATALOG = {
     "older-man-hypnosis": null,
     "mother-kids-hypnosis": null,
     "hypno-leftovers": null,
-    "hypnosis-assault-loose": null
+    "hypnosis-assault-loose": null,
+    "round3": null
    }
   },
   {
@@ -411729,7 +413944,8 @@ window.CATALOG = {
     "hypnosis-assault",
     "hypnosis-assault-loose",
     "royal-hypnosis",
-    "royal-hypnosis-loose"
+    "royal-hypnosis-loose",
+    "round3"
    ],
    "groups": [
     {
@@ -411767,6 +413983,28 @@ window.CATALOG = {
         "Pregnant woman hypnotized while pregnant — strict core",
         "Hypnosis",
         "Medium · NetShort per-episode guides (eps 54/56/62/65/67/74) + DramaBox listing; year approximate"
+       ],
+       "sources": [
+        {
+         "label": "NetShort · EP 56",
+         "url": "https://netshort.com/episode/got-pregnant-by-billionaire-brothers-1927583834537500674-ep-56"
+        },
+        {
+         "label": "NetShort · EP 54",
+         "url": "https://netshort.com/episode/got-pregnant-by-billionaire-brothers-1927583834537500674-ep-54"
+        },
+        {
+         "label": "NetShort · EP 61–75",
+         "url": "https://netshort.com/full-episodes/got-pregnant-by-billionaire-brothers-1927583834537500674/page/4"
+        },
+        {
+         "label": "DramaBox listing",
+         "url": "https://www.dramaboxapp.com/tag/63048/76"
+        },
+        {
+         "label": "Series promo",
+         "url": "https://youtube.com/watch?v=7SvA6duQSNg"
+        }
        ],
        "provenance": "Source basis: User-requested title verification, 01 Oct 2026 (NetShort episode-guide evidence; not transcript-verified)",
        "entry_note": "Note: Outcome facts: Audrey remains pregnant throughout the hypnosis arc, with her unborn child referenced through episodes 74–75; the forced marriage-sham plot is interrupted.",
@@ -413384,6 +415622,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "royal-hypnosis-loose"
+    },
+    {
+     "title": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2642,
+       "from_source": "round3"
+      },
+      {
+       "id": 2638,
+       "from_source": "round3"
+      }
+     ],
+     "from_source": "round3"
     }
    ],
    "declared_count_by_source": {
@@ -413398,7 +415651,8 @@ window.CATALOG = {
     "hypnosis-assault": null,
     "hypnosis-assault-loose": null,
     "royal-hypnosis": null,
-    "royal-hypnosis-loose": null
+    "royal-hypnosis-loose": null,
+    "round3": null
    }
   },
   {
@@ -414993,7 +417247,8 @@ window.CATALOG = {
     "hypno-leftovers",
     "hypnosis-assault",
     "hypnosis-assault-loose",
-    "hypno-sweep-oct9"
+    "hypno-sweep-oct9",
+    "round3"
    ],
    "groups": [
     {
@@ -415951,6 +418206,29 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypno-sweep-oct9"
+    },
+    {
+     "title": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2650,
+       "from_source": "round3"
+      },
+      {
+       "id": 2645,
+       "from_source": "round3"
+      },
+      {
+       "id": 2644,
+       "from_source": "round3"
+      },
+      {
+       "id": 2648,
+       "from_source": "round3"
+      }
+     ],
+     "from_source": "round3"
     }
    ],
    "declared_count_by_source": {
@@ -415964,7 +418242,8 @@ window.CATALOG = {
     "hypno-leftovers": null,
     "hypnosis-assault": null,
     "hypnosis-assault-loose": null,
-    "hypno-sweep-oct9": null
+    "hypno-sweep-oct9": null,
+    "round3": null
    }
   },
   {
@@ -416037,7 +418316,8 @@ window.CATALOG = {
     "india-catalog",
     "hypnotized-love",
     "rich-wife-hypnosis",
-    "mother-kids-hypnosis"
+    "mother-kids-hypnosis",
+    "round3"
    ],
    "groups": [
     {
@@ -416758,6 +419038,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "mother-kids-hypnosis"
+    },
+    {
+     "title": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2647,
+       "from_source": "round3"
+      }
+     ],
+     "from_source": "round3"
     }
    ],
    "declared_count_by_source": {
@@ -416765,7 +419056,8 @@ window.CATALOG = {
     "india-catalog": null,
     "hypnotized-love": null,
     "rich-wife-hypnosis": null,
-    "mother-kids-hypnosis": null
+    "mother-kids-hypnosis": null,
+    "round3": null
    }
   },
   {
@@ -418365,7 +420657,8 @@ window.CATALOG = {
     "mother-kids-hypnosis",
     "hypno-leftovers",
     "hypnosis-assault-loose",
-    "round2"
+    "round2",
+    "round3"
    ],
    "groups": [
     {
@@ -420269,6 +422562,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-assault-loose"
+    },
+    {
+     "title": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2646,
+       "from_source": "round3"
+      }
+     ],
+     "from_source": "round3"
     }
    ],
    "declared_count_by_source": {
@@ -420280,7 +422584,8 @@ window.CATALOG = {
     "mother-kids-hypnosis": null,
     "hypno-leftovers": null,
     "hypnosis-assault-loose": null,
-    "round2": null
+    "round2": null,
+    "round3": null
    }
   },
   {
@@ -422253,6 +424558,31 @@ window.CATALOG = {
        "from_source": "xla62ucxbx02u5"
       }
      ]
+    }
+   ]
+  },
+  {
+   "title": "Pregnancy + mind control — variants and leads",
+   "category": "pregnant-variants",
+   "description": "",
+   "notes": [],
+   "from_sources": [
+    "round3"
+   ],
+   "declared_count_by_source": {
+    "round3": null
+   },
+   "groups": [
+    {
+     "title": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2651,
+       "from_source": "round3"
+      }
+     ],
+     "from_source": "round3"
     }
    ]
   },
@@ -425155,7 +427485,8 @@ window.CATALOG = {
     }
    ],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "round3"
    ],
    "groups": [
     {
@@ -425183,6 +427514,28 @@ window.CATALOG = {
         "Pregnant woman hypnotized while pregnant — strict core",
         "Hypnosis",
         "Medium · NetShort per-episode guides (eps 54/56/62/65/67/74) + DramaBox listing; year approximate"
+       ],
+       "sources": [
+        {
+         "label": "NetShort · EP 56",
+         "url": "https://netshort.com/episode/got-pregnant-by-billionaire-brothers-1927583834537500674-ep-56"
+        },
+        {
+         "label": "NetShort · EP 54",
+         "url": "https://netshort.com/episode/got-pregnant-by-billionaire-brothers-1927583834537500674-ep-54"
+        },
+        {
+         "label": "NetShort · EP 61–75",
+         "url": "https://netshort.com/full-episodes/got-pregnant-by-billionaire-brothers-1927583834537500674/page/4"
+        },
+        {
+         "label": "DramaBox listing",
+         "url": "https://www.dramaboxapp.com/tag/63048/76"
+        },
+        {
+         "label": "Series promo",
+         "url": "https://youtube.com/watch?v=7SvA6duQSNg"
+        }
        ],
        "provenance": "Source basis: User-requested title verification, 01 Oct 2026 (NetShort episode-guide evidence; not transcript-verified)",
        "entry_note": "Note: Outcome facts: Audrey remains pregnant throughout the hypnosis arc, with her unborn child referenced through episodes 74–75; the forced marriage-sham plot is interrupted.",
@@ -425402,7 +427755,10 @@ window.CATALOG = {
       }
      ]
     }
-   ]
+   ],
+   "declared_count_by_source": {
+    "round3": null
+   }
   },
   {
    "title": "Pregnant woman mind-controlled — variants and leads",
@@ -426663,7 +429019,8 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "round2"
+    "round2",
+    "round3"
    ],
    "groups": [
     {
@@ -426763,6 +429120,7 @@ window.CATALOG = {
          "url": "https://www.youtube.com/watch?v=ww0eVxvO-b8"
         }
        ],
+       "year_display": "Date unverified",
        "from_source": "xla62ucxbx02u5"
       }
      ]
@@ -426770,7 +429128,8 @@ window.CATALOG = {
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 4,
-    "round2": null
+    "round2": null,
+    "round3": null
    }
   },
   {
@@ -430584,7 +432943,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla",
     "agegap-marriage",
     "mom-pregnancy",
-    "kids-pregnant-again"
+    "kids-pregnant-again",
+    "round3"
    ],
    "groups": [
     {
@@ -430970,13 +433330,33 @@ window.CATALOG = {
       }
      ],
      "from_source": "kids-pregnant-again"
+    },
+    {
+     "title": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2649,
+       "from_source": "round3"
+      },
+      {
+       "id": 2651,
+       "from_source": "round3"
+      },
+      {
+       "id": 2647,
+       "from_source": "round3"
+      }
+     ],
+     "from_source": "round3"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 23,
     "agegap-marriage": null,
     "mom-pregnancy": null,
-    "kids-pregnant-again": null
+    "kids-pregnant-again": null,
+    "round3": null
    }
   },
   {

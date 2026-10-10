@@ -102,6 +102,8 @@ SOURCES = [
      "local": "sources/savdhaan-santham-oct9.json", "required": False},
     {"id": "round2", "label": "Round 2 — worldwide deep search incl. vertical series and shorts",
      "local": "sources/round2.json", "required": False},
+    {"id": "round3", "label": "Round 3 — vertical-series / microdrama deep search",
+     "local": "sources/round3.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -756,7 +758,7 @@ def copy_info(m, primary, g, members):
     return out
 
 
-# A local record may list "override_fields" (OPTIONAL_FIELDS, or the FILL_FIELDS meta / mechanism /
+# A local record may list "override_fields" (OPTIONAL_FIELDS, "format", or the FILL_FIELDS year / subtitle / meta / mechanism /
 # confidence_flag / summary / character / note): for those fields its value takes
 # precedence over earlier sources (normally the primary / earliest copy wins). Overriding a value field also
 # takes its paired note from the same record, so a value is never shown with another source's note.
@@ -941,6 +943,12 @@ def merge_group(g, new_id):
     if conflicts:
         rec["source_conflict"] = " · ".join(([rec["source_conflict"]] if rec.get("source_conflict") else []) + conflicts)
     rec["format"] = primary["format"]
+    # a curated record may correct the card's format (override_fields: ["format"]), e.g. a 30-episode vertical series
+    # that the fan wiki listed as a film
+    fmt = next((m["format"] for m in sorted(members, key=lambda m: (m["source_rank"], m["order"]))
+                if "format" in overrides(m) and m.get("format")), None)
+    if fmt:
+        rec["format"] = fmt
     rec["categories"] = []
     rec["sources"], seen_urls = [], set()
     rec["youtube_ids"] = []
