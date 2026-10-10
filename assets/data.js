@@ -389,11 +389,16 @@ window.CATALOG = {
    "share_url": "https://muse.ai/s/tv-and-movie-research-catalog-ig6qlxqxoxvcxla",
    "page_title": "TV and Movie Research Catalog",
    "kicker": "Screen story-pattern index",
-   "heading": "979 catalog records, sorted by the plot turn that matters.",
+   "heading": "993 catalog records, sorted by the plot turn that matters.",
    "description": "A worldwide research snapshot spanning films, serials, television movies, series, soap operas, independent shorts and vertical microdramas.",
-   "results_text": "803 unique named titles shown · 979 records in source snapshot",
+   "results_text": "817 unique named titles shown · 993 records in source snapshot",
    "links_back_to": "https://muse.ai/s/tv-and-movie-research-catalog-xla62ucxbx02u5",
    "stats": [
+    "9 Oct 2026 Savdhaan India / Shantham Papam targeted sweep: 1 verified Savdhaan India female-hypnosis episode added; no Shantham Papam hypnosis episode was verified",
+    "Targeted sweep coverage: English, Hindi and Kannada-script searches; the Savdhaan India record is flagged as a dramatized real-crime docudrama, and pregnancy / children status remains unknown because the sources are silent",
+    "9 Oct 2026 Indian platform sweep: 13 verified non-duplicate records added and 7 enrichment folds applied to existing records; no new plot category was needed",
+    "Indian sweep coverage: JioHotstar, ZEE5, SonyLIV, Dangal Play, Sun NXT and other national and regional platforms; Hindi, Marathi, Bengali, Tamil, Telugu and wider-language searches across serials, soaps, films, TV movies and web series",
+    "Adult / R-rated / erotic lanes were included without filtering: Aashram and Payal are explicitly tagged; searched adult platforms without a verifiable female-control plot remain documented as coverage gaps",
     "6 Oct 2026 ultrasound × hypnosis intersection sweep: 1 source-supported addition across 2 new plot categories, plus 3 enrichment folds into existing records",
     "Intersection coverage: six worldwide research lanes, 20+ languages, all requested screen formats, adult / R-rated / erotic titles and vertical microdramas; no possession-only title was promoted",
     "Adult / erotic intersection result: no verifiable title combined a pregnancy scan with hypnosis, love-potion or other qualifying control; nothing was filtered out",
@@ -401,7 +406,7 @@ window.CATALOG = {
     "Ultrasound branch now holds 85 primary records across 11 scene-level categories; 9 of the original records carry [Adult] flags",
     "5 Oct 2026 surrogate sweep: 1 confirmed + 2 probable records across 9 research lanes; the trope is nearly nonexistent worldwide",
     "5 Oct 2026 re-sweep: 8 new records + 1 cross-tag fold, including 1 probable vertical-short title with its single-source limitation shown",
-    "979 category records across 66 plot categories; 803 unique named titles shown after title-and-year deduplication",
+    "993 category records across 66 plot categories; 817 unique named titles shown after title-and-year deduplication",
     "0 new qualifying wife-takes-husband-to-hypnotist titles; 2 confirmed near-misses and 1 unverified vertical-short lead held out",
     "Vertical-short coverage remains a discoverability gap: app catalogs are poorly indexed, so only source-supported candidates are included",
     "18 source-supported rich-woman hypnosis or love-potion entries across 6 plot categories after the 5 Oct re-sweep and overlap folds",
@@ -413,9 +418,9 @@ window.CATALOG = {
     "13 net-new adult-context pregnancy-control findings, 3 literal-hypnosis core",
     "30 verified wife-with-children pregnancy titles + 1 medium-confidence lead",
     "3 accepted hypnosis-to-infidelity titles covering 4 woman-instances: 2 high and 2 medium confidence; plus 2 leads",
-    "174 worldwide adult-female hypnosis findings: the 129-title baseline plus 45 adult / erotic gap-fill titles",
+    "176 worldwide adult-female hypnosis findings: the 129-title baseline, 45 adult / erotic gap-fill titles and 2 Indian-platform additions",
     "1 low-confidence mother/current-partner match: El maleficio (1983–84)",
-    "32 forcibly-hypnotized-to-obey category entries: 24 stronger or near-exact cases (including 2 separately flagged adult-animation)",
+    "37 forcibly-hypnotized-to-obey category entries: 29 stronger or near-exact cases (including 2 separately flagged adult-animation)",
     "3 supported stepmother-control matches + 1 low-confidence borderline case",
     "5 verified pregnant-stepmother / bonus-mom titles + 1 low-confidence lead; 4 net-new records + 2 existing records",
     "0 exact remarried-wife / new-husband-or-stepfather control matches",
@@ -428,13 +433,13 @@ window.CATALOG = {
     "21 verified adopt-then-pregnant titles + 4 marginal variants",
     "211 report-listed findings reviewed; 209 net-new catalog records after merging two existing overlaps",
     "34 titles in the focused India–Indonesia pass: 8 Indonesian + 25 identified Indian + 1 possibly Indian",
-    "41 Indian female-control titles: 37 high confidence + 4 possible across 7 Indian languages",
+    "46 Indian female-control titles: 42 high confidence + 4 possible across 7 Indian languages",
     "39 child-walk-in records: 23 shown strict cases, 4 dialogue-confirmed childhood recollections, 6 adult-offspring cases",
     "Catastrophe S2E1 has dual membership",
     "0 airtight pregnant-mother walk-in matches · 1 strongest candidate + 24 other partial cases after a 12-market follow-up",
     "24 husband-controls-wife cases across 3 clearly labeled mechanism groups",
     "20 strong new hypnotized-to-love cases + 7 flagged borderline cases",
-    "17 higher-confidence mother-with-child cases + 12 borderline cases",
+    "18 higher-confidence mother-with-child cases + 12 borderline cases",
     "19 high-confidence + 18 close or medium-confidence pregnant-woman control cases",
     "7 Indian pregnancy-control findings: 6 high-confidence + 1 hypnosis-at-conception film",
     "3 pregnant-character trance cases + 3 pregnancy-adjacent cases",
@@ -442,6 +447,13 @@ window.CATALOG = {
     "Worldwide source review dated 30 Sep 2026"
    ],
    "boundaries": [
+    "9 Oct 2026 targeted serial search: Savdhaan India S42E17 “A hypnotist misuses his skills” (aired 25 April 2014) is the only verified addition. It is a dramatized real-crime docudrama rather than fiction; the reviewed sources do not establish whether Priya, Neha or the other affected women are pregnant or have children.",
+    "Shantham Papam: four targeted English, Hindi and Kannada-script searches found no verifiable female-hypnosis episode, so no record was added. Savdhaan India S34E45 “professor murti hypnotises” was also held out because only a title-level lead was found, without enough victim-gender or plot detail.",
+    "9 Oct 2026 Indian female-hypnosis sweep: five research lanes ran 30+ searches each in English and seven Indian scripts. Thirteen verified non-duplicate records were added and seven enrichment folds were applied to existing records; every addition fit an existing plot category.",
+    "Pregnancy and children fields report only what the reviewed plot sources establish. Unknown means the sources are silent; it does not imply that a character is not pregnant or has no children. Jiji Maa and Suhani Si Ek Ladki have explicit arc-specific pregnancy and end-family detail.",
+    "Confidence caveats retained: the Laal Ishq / Atul episode is single-source; Jarann deliberately leaves black-magic spell versus trauma-induced psychosis unresolved; Nikita Roy is direction-inverted because she resists the control and exposes the godman.",
+    "Coverage gaps: no qualifying Dangal Play / Dangal TV, ShemarooMe, Hungama Play or Eros Now title was verified; original-language Telugu, Odia, Gujarati, Punjabi and Bhojpuri serial searches were empty; Malayalam and Kannada hits were sparse. Adult-platform searches across Kooku, PrimeShots, Nuefliks, Feneo, Hunters, Fliz, Rabbit Movies, Chikooflix, Bigshots, Hotshots and Atrangii found no additional verifiable female-control title.",
+    "Ruled-out items remain outside the catalog when the victim was male, hypnosis was faked or metaphorical, the story used possession alone, or the available evidence did not establish a female mind-control beat. Mayamohini was treated as a Tamil dub of the already cataloged Kavach… Kaali Shaktiyon Se, not a new record.",
     "6 Oct 2026 ultrasound × hypnosis intersection sweep: six research lanes searched English, Latin American / Iberian, South Asian, East / Southeast Asian, European / MENA, adult / erotic and vertical-microdrama sources. The intersection is genuinely near-empty: 1 source-supported record was added and 3 existing records were enriched.",
     "Inclusion caveats: Yehh Jadu Hai Jinn Ka! hypnotizes Rehan rather than pregnant Roshni; Art of the Devil reverses the control direction because Boom commissions the ritual magic; Rosemary’s Baby (2014) uses cult gaslighting and manipulation rather than literal hypnosis. Daayan is the strongest direct scan-to-hypnosis match.",
     "Not promoted: Unter uns and Demain nous appartient have hypnosis and pregnancy but no sourced ultrasound scene; 25 verified near-misses and 4 unverified leads remain outside the catalog. The Handmaid’s Tale season 2 is borderline institutional indoctrination rather than hypnosis, and Ultrasound (2021) has no verifiable sonogram scene despite its title.",
@@ -511,7 +523,7 @@ window.CATALOG = {
     {
      "n": 2,
      "title": "Adult female hypnosis — R-rated-equivalent worldwide",
-     "declared_count": 174
+     "declared_count": 176
     },
     {
      "n": 3,
@@ -531,7 +543,7 @@ window.CATALOG = {
     {
      "n": 6,
      "title": "Forcibly hypnotized to obey",
-     "declared_count": 32
+     "declared_count": 37
     },
     {
      "n": 7,
@@ -546,7 +558,7 @@ window.CATALOG = {
     {
      "n": 9,
      "title": "Partner hires a third-party controller",
-     "declared_count": 4
+     "declared_count": 5
     },
     {
      "n": 10,
@@ -601,12 +613,12 @@ window.CATALOG = {
     {
      "n": 20,
      "title": "Female hypnosis / mind control — India",
-     "declared_count": 41
+     "declared_count": 46
     },
     {
      "n": 21,
      "title": "Villain / tantrik control — India",
-     "declared_count": 9
+     "declared_count": 13
     },
     {
      "n": 22,
@@ -631,7 +643,7 @@ window.CATALOG = {
     {
      "n": 26,
      "title": "Tantrik / black-magic control",
-     "declared_count": 14
+     "declared_count": 17
     },
     {
      "n": 27,
@@ -641,12 +653,12 @@ window.CATALOG = {
     {
      "n": 28,
      "title": "Cult / coercive brainwashing",
-     "declared_count": 14
+     "declared_count": 16
     },
     {
      "n": 29,
      "title": "Medical / therapeutic hypnosis",
-     "declared_count": 9
+     "declared_count": 11
     },
     {
      "n": 30,
@@ -671,7 +683,7 @@ window.CATALOG = {
     {
      "n": 34,
      "title": "Mother with child hypnotized / mind-controlled",
-     "declared_count": 29
+     "declared_count": 30
     },
     {
      "n": 35,
@@ -836,13 +848,13 @@ window.CATALOG = {
    ],
    "check": {
     "layout": "v2",
-    "raw_count": 1005,
-    "raw_detailed_records": 170,
-    "raw_title_items": 835,
-    "declared_named": 803,
-    "page_records": 803,
-    "rendered_cards": 803,
-    "declared_snapshot_total": 979,
+    "raw_count": 1029,
+    "raw_detailed_records": 192,
+    "raw_title_items": 837,
+    "declared_named": 817,
+    "page_records": 817,
+    "rendered_cards": 817,
+    "declared_snapshot_total": 993,
     "ok": true
    },
    "status": "live"
@@ -2833,7 +2845,7 @@ window.CATALOG = {
  ],
  "raw_counts": {
   "xla62ucxbx02u5": 2177,
-  "ig6qlxqxoxvcxla": 1005,
+  "ig6qlxqxoxvcxla": 1029,
   "india-catalog": 163,
   "worldwide-hypnosis": 1085,
   "hypnotized-love": 30,
@@ -2863,8 +2875,8 @@ window.CATALOG = {
   "savdhaan-santham-oct9": 1,
   "round2": 11
  },
- "raw_total": 5211,
- "entry_count": 2521,
+ "raw_total": 5235,
+ "entry_count": 2530,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -2906,7 +2918,7 @@ window.CATALOG = {
    "key": "cult",
    "label": "Cult / coercive brainwashing",
    "legend_label": "Cult / coercive brainwashing",
-   "entry_count": 21
+   "entry_count": 23
   },
   {
    "key": "occult",
@@ -2954,7 +2966,7 @@ window.CATALOG = {
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 135
+   "entry_count": 139
   },
   {
    "key": "hypnotized-to-marry",
@@ -2966,7 +2978,7 @@ window.CATALOG = {
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 102
+   "entry_count": 103
   },
   {
    "key": "index-56",
@@ -3062,7 +3074,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 102
+   "entry_count": 104
   },
   {
    "key": "mom-partner-control",
@@ -3344,7 +3356,7 @@ window.CATALOG = {
    "key": "tantrik",
    "label": "Tantrik / black-magic control",
    "legend_label": "Tantrik / black-magic control",
-   "entry_count": 32
+   "entry_count": 34
   },
   {
    "key": "vampire",
@@ -3356,7 +3368,7 @@ window.CATALOG = {
    "key": "villain",
    "label": "Villain / tantrik control — India",
    "legend_label": "Villain / tantrik control — India",
-   "entry_count": 9
+   "entry_count": 10
   },
   {
    "key": "exwife-control",
@@ -3470,7 +3482,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1",
     "ig6qlxqxoxvcxla:1",
-    "ig6qlxqxoxvcxla:197",
+    "ig6qlxqxoxvcxla:219",
     "worldwide-hypnosis:866",
     "hypno-leftovers:14",
     "hypnotized-marriage:32"
@@ -3556,7 +3568,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:197",
+     "rid": "ig6qlxqxoxvcxla:219",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Curse of the Jade Scorpion (2001)",
      "identifiers": [
@@ -3750,7 +3762,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:197": {
+    "ig6qlxqxoxvcxla:219": {
      "title": "The Curse of the Jade Scorpion (2001)",
      "category": "Hypnotized / controlled into infidelity",
      "group": "Comedy / stage-hypnotist",
@@ -5195,7 +5207,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:6",
     "ig6qlxqxoxvcxla:6",
-    "ig6qlxqxoxvcxla:250"
+    "ig6qlxqxoxvcxla:273"
    ],
    "index_only": false,
    "local_only": false,
@@ -5274,7 +5286,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:250",
+     "rid": "ig6qlxqxoxvcxla:273",
      "source": "ig6qlxqxoxvcxla",
      "label": "Buffy (2000)",
      "identifiers": [
@@ -5357,7 +5369,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:250": {
+    "ig6qlxqxoxvcxla:273": {
      "title": "Buffy (2000)",
      "category": "Forcibly hypnotized to obey",
      "group": "Supernatural",
@@ -7590,9 +7602,9 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:18",
     "ig6qlxqxoxvcxla:66",
-    "ig6qlxqxoxvcxla:296",
-    "ig6qlxqxoxvcxla:321",
-    "ig6qlxqxoxvcxla:523",
+    "ig6qlxqxoxvcxla:319",
+    "ig6qlxqxoxvcxla:344",
+    "ig6qlxqxoxvcxla:547",
     "rich-wife-hypnosis:26",
     "older-man-hypnosis:22",
     "hypno-intimacy:6",
@@ -7726,7 +7738,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:296",
+     "rid": "ig6qlxqxoxvcxla:319",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Hypnotized / Faceless Beauty (2004)",
      "identifiers": [
@@ -7750,7 +7762,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:321",
+     "rid": "ig6qlxqxoxvcxla:344",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Hypnotized / Faceless Beauty (2004)",
      "identifiers": [
@@ -7774,7 +7786,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:523",
+     "rid": "ig6qlxqxoxvcxla:547",
      "source": "ig6qlxqxoxvcxla",
      "label": "Hypnotized (2004 Korea)",
      "identifiers": [
@@ -8131,21 +8143,21 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:296": {
+    "ig6qlxqxoxvcxla:319": {
      "title": "The Hypnotized / Faceless Beauty (2004)",
      "category": "Female controlled by husband / boyfriend / ex-partner",
      "group": "Adult / erotic borderlines",
      "confidence": "Borderline",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:321": {
+    "ig6qlxqxoxvcxla:344": {
      "title": "The Hypnotized / Faceless Beauty (2004)",
      "category": "Wife hypnotized / controlled by a therapist",
      "group": "Therapeutic turning romantic / obsessive",
      "confidence": "Strict match",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:523": {
+    "ig6qlxqxoxvcxla:547": {
      "title": "Hypnotized (2004 Korea)",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -8394,7 +8406,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:19",
-    "ig6qlxqxoxvcxla:666",
+    "ig6qlxqxoxvcxla:690",
     "royal-hypnosis-loose:24",
     "hypnotized-marriage:20"
    ],
@@ -8445,7 +8457,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:666",
+     "rid": "ig6qlxqxoxvcxla:690",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Love by Hypnotic (2019)",
      "identifiers": [
@@ -8589,7 +8601,7 @@ window.CATALOG = {
      "marryNote": "A separate rumor that the couple later has a son remains unconfirmed and is not counted in the children-after-marriage bucket.",
      "marryProv": "Worldwide eight-vector hypnotized-to-marry sweep, 3 Oct 2026 · Three MyDramaList reviews / discussions · independently corroborated across two sweep vectors"
     },
-    "ig6qlxqxoxvcxla:666": {
+    "ig6qlxqxoxvcxla:690": {
      "title": "The Love by Hypnotic (2019)",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
@@ -9761,7 +9773,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:28",
-    "ig6qlxqxoxvcxla:247"
+    "ig6qlxqxoxvcxla:270"
    ],
    "index_only": false,
    "local_only": false,
@@ -9796,7 +9808,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:247",
+     "rid": "ig6qlxqxoxvcxla:270",
      "source": "ig6qlxqxoxvcxla",
      "label": "Hypnotized (1910)",
      "identifiers": [
@@ -9840,7 +9852,7 @@ window.CATALOG = {
      ],
      "fog": "stage"
     },
-    "ig6qlxqxoxvcxla:247": {
+    "ig6qlxqxoxvcxla:270": {
      "title": "Hypnotized (1910)",
      "category": "Forcibly hypnotized to obey",
      "group": "Stage hypnotist",
@@ -10048,9 +10060,9 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla:44",
     "ig6qlxqxoxvcxla:62",
     "ig6qlxqxoxvcxla:154",
-    "ig6qlxqxoxvcxla:233",
-    "ig6qlxqxoxvcxla:264",
-    "ig6qlxqxoxvcxla:317"
+    "ig6qlxqxoxvcxla:255",
+    "ig6qlxqxoxvcxla:287",
+    "ig6qlxqxoxvcxla:340"
    ],
    "index_only": false,
    "local_only": false,
@@ -10177,7 +10189,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:233",
+     "rid": "ig6qlxqxoxvcxla:255",
      "source": "ig6qlxqxoxvcxla",
      "label": "Amore e ipnotismo (1912)",
      "identifiers": [
@@ -10201,7 +10213,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:264",
+     "rid": "ig6qlxqxoxvcxla:287",
      "source": "ig6qlxqxoxvcxla",
      "label": "Amore e ipnotismo",
      "identifiers": [],
@@ -10223,7 +10235,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:317",
+     "rid": "ig6qlxqxoxvcxla:340",
      "source": "ig6qlxqxoxvcxla",
      "label": "Amore e ipnotismo",
      "identifiers": [],
@@ -10347,21 +10359,21 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:233": {
+    "ig6qlxqxoxvcxla:255": {
      "title": "Amore e ipnotismo (1912)",
      "category": "Forcibly hypnotized to obey",
      "group": "Husband / lover / partner / domestic",
      "confidence": "Stronger case",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:264": {
+    "ig6qlxqxoxvcxla:287": {
      "title": "Amore e ipnotismo",
      "category": "Husband hypnotizes / mind-controls wife",
      "group": "Literal hypnosis",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:317": {
+    "ig6qlxqxoxvcxla:340": {
      "title": "Amore e ipnotismo",
      "category": "Wife hypnotized / controlled by a therapist",
      "group": "Coercive / investigative",
@@ -10492,9 +10504,9 @@ window.CATALOG = {
     "xla62ucxbx02u5:32",
     "ig6qlxqxoxvcxla:14",
     "ig6qlxqxoxvcxla:48",
-    "ig6qlxqxoxvcxla:237",
-    "ig6qlxqxoxvcxla:265",
-    "ig6qlxqxoxvcxla:496",
+    "ig6qlxqxoxvcxla:263",
+    "ig6qlxqxoxvcxla:288",
+    "ig6qlxqxoxvcxla:520",
     "worldwide-hypnosis:821",
     "older-man-hypnosis:16",
     "hypno-leftovers:18"
@@ -10615,7 +10627,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:237",
+     "rid": "ig6qlxqxoxvcxla:263",
      "source": "ig6qlxqxoxvcxla",
      "label": "Svengali (1931)",
      "identifiers": [
@@ -10639,7 +10651,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:265",
+     "rid": "ig6qlxqxoxvcxla:288",
      "source": "ig6qlxqxoxvcxla",
      "label": "Svengali (1931) — boundary",
      "identifiers": [
@@ -10664,7 +10676,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:496",
+     "rid": "ig6qlxqxoxvcxla:520",
      "source": "ig6qlxqxoxvcxla",
      "label": "Svengali (1931)",
      "identifiers": [
@@ -10896,21 +10908,21 @@ window.CATALOG = {
       "sources": []
      }
     },
-    "ig6qlxqxoxvcxla:237": {
+    "ig6qlxqxoxvcxla:263": {
      "title": "Svengali (1931)",
      "category": "Forcibly hypnotized to obey",
      "group": "Villain / stranger / criminal",
      "confidence": "Stronger case",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:265": {
+    "ig6qlxqxoxvcxla:288": {
      "title": "Svengali (1931) — boundary",
      "category": "Husband hypnotizes / mind-controls wife",
      "group": "Literal hypnosis",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:496": {
+    "ig6qlxqxoxvcxla:520": {
      "title": "Svengali (1931)",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -11381,8 +11393,8 @@ window.CATALOG = {
     "xla62ucxbx02u5:34",
     "ig6qlxqxoxvcxla:20",
     "ig6qlxqxoxvcxla:58",
-    "ig6qlxqxoxvcxla:266",
-    "ig6qlxqxoxvcxla:308",
+    "ig6qlxqxoxvcxla:289",
+    "ig6qlxqxoxvcxla:331",
     "worldwide-hypnosis:772",
     "rich-wife-hypnosis:1"
    ],
@@ -11517,7 +11529,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:266",
+     "rid": "ig6qlxqxoxvcxla:289",
      "source": "ig6qlxqxoxvcxla",
      "label": "Sleep, My Love (1948)",
      "identifiers": [
@@ -11541,7 +11553,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:308",
+     "rid": "ig6qlxqxoxvcxla:331",
      "source": "ig6qlxqxoxvcxla",
      "label": "Sleep, My Love (1948)",
      "identifiers": [
@@ -11793,14 +11805,14 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:266": {
+    "ig6qlxqxoxvcxla:289": {
      "title": "Sleep, My Love (1948)",
      "category": "Husband hypnotizes / mind-controls wife",
      "group": "Literal hypnosis",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:308": {
+    "ig6qlxqxoxvcxla:331": {
      "title": "Sleep, My Love (1948)",
      "category": "Partner hires a third-party controller",
      "group": "Malicious elimination",
@@ -12368,7 +12380,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:36",
     "ig6qlxqxoxvcxla:15",
-    "ig6qlxqxoxvcxla:497",
+    "ig6qlxqxoxvcxla:521",
     "worldwide-hypnosis:833",
     "older-man-hypnosis:17",
     "hypno-leftovers:19"
@@ -12461,7 +12473,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:497",
+     "rid": "ig6qlxqxoxvcxla:521",
      "source": "ig6qlxqxoxvcxla",
      "label": "Svengali (1954)",
      "identifiers": [
@@ -12659,7 +12671,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:497": {
+    "ig6qlxqxoxvcxla:521": {
      "title": "Svengali (1954)",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -12794,8 +12806,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:37",
-    "ig6qlxqxoxvcxla:248",
-    "ig6qlxqxoxvcxla:500",
+    "ig6qlxqxoxvcxla:271",
+    "ig6qlxqxoxvcxla:524",
     "worldwide-hypnosis:892"
    ],
    "index_only": false,
@@ -12842,7 +12854,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:248",
+     "rid": "ig6qlxqxoxvcxla:271",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Hypnotic Eye (1960)",
      "identifiers": [
@@ -12866,7 +12878,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:500",
+     "rid": "ig6qlxqxoxvcxla:524",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Hypnotic Eye (1960)",
      "identifiers": [
@@ -12958,14 +12970,14 @@ window.CATALOG = {
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
      "fog": "stage"
     },
-    "ig6qlxqxoxvcxla:248": {
+    "ig6qlxqxoxvcxla:271": {
      "title": "The Hypnotic Eye (1960)",
      "category": "Forcibly hypnotized to obey",
      "group": "Stage hypnotist",
      "confidence": "Stronger case",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:500": {
+    "ig6qlxqxoxvcxla:524": {
      "title": "The Hypnotic Eye (1960)",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -13504,8 +13516,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:40",
-    "ig6qlxqxoxvcxla:272",
-    "ig6qlxqxoxvcxla:739"
+    "ig6qlxqxoxvcxla:295",
+    "ig6qlxqxoxvcxla:763"
    ],
    "index_only": false,
    "local_only": false,
@@ -13553,7 +13565,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:272",
+     "rid": "ig6qlxqxoxvcxla:295",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Stepford Wives (1975)",
      "identifiers": [
@@ -13577,7 +13589,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:739",
+     "rid": "ig6qlxqxoxvcxla:763",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Stepford Wives (1975)",
      "identifiers": [
@@ -13636,14 +13648,14 @@ window.CATALOG = {
      ],
      "mg": "borderline"
     },
-    "ig6qlxqxoxvcxla:272": {
+    "ig6qlxqxoxvcxla:295": {
      "title": "The Stepford Wives (1975)",
      "category": "Husband hypnotizes / mind-controls wife",
      "group": "Mind control / occult / simulated reality",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:739": {
+    "ig6qlxqxoxvcxla:763": {
      "title": "The Stepford Wives (1975)",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Borderline",
@@ -14081,7 +14093,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:42",
-    "ig6qlxqxoxvcxla:273",
+    "ig6qlxqxoxvcxla:296",
     "worldwide-hypnosis:738"
    ],
    "index_only": false,
@@ -14133,7 +14145,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:273",
+     "rid": "ig6qlxqxoxvcxla:296",
      "source": "ig6qlxqxoxvcxla",
      "label": "Revenge of the Stepford Wives (1980) — loose",
      "identifiers": [
@@ -14229,7 +14241,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:273": {
+    "ig6qlxqxoxvcxla:296": {
      "title": "Revenge of the Stepford Wives (1980) — loose",
      "category": "Husband hypnotizes / mind-controls wife",
      "group": "Mind control / occult / simulated reality",
@@ -15079,7 +15091,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:45",
-    "ig6qlxqxoxvcxla:274"
+    "ig6qlxqxoxvcxla:297"
    ],
    "index_only": false,
    "local_only": false,
@@ -15117,7 +15129,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:274",
+     "rid": "ig6qlxqxoxvcxla:297",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Stepford Children (1987)",
      "identifiers": [
@@ -15165,7 +15177,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:274": {
+    "ig6qlxqxoxvcxla:297": {
      "title": "The Stepford Children (1987)",
      "category": "Husband hypnotizes / mind-controls wife",
      "group": "Mind control / occult / simulated reality",
@@ -15464,8 +15476,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:48",
-    "ig6qlxqxoxvcxla:202",
-    "ig6qlxqxoxvcxla:208"
+    "ig6qlxqxoxvcxla:224",
+    "ig6qlxqxoxvcxla:230"
    ],
    "index_only": false,
    "local_only": false,
@@ -15507,7 +15519,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:202",
+     "rid": "ig6qlxqxoxvcxla:224",
      "source": "ig6qlxqxoxvcxla",
      "label": "Days of Our Lives (2019) Princess Gina",
      "identifiers": [
@@ -15532,7 +15544,7 @@ window.CATALOG = {
      "matched_by": "prefix"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:208",
+     "rid": "ig6qlxqxoxvcxla:230",
      "source": "ig6qlxqxoxvcxla",
      "label": "Days of Our Lives — Marlena / Kate",
      "identifiers": [
@@ -15606,14 +15618,14 @@ window.CATALOG = {
      ],
      "fog": "therapist"
     },
-    "ig6qlxqxoxvcxla:202": {
+    "ig6qlxqxoxvcxla:224": {
      "title": "Days of Our Lives (2019) Princess Gina",
      "category": "Hypnotized / controlled into infidelity",
      "group": "Boundary note",
      "confidence": "Excluded",
      "note": "Rejected near-misses"
     },
-    "ig6qlxqxoxvcxla:208": {
+    "ig6qlxqxoxvcxla:230": {
      "title": "Days of Our Lives — Marlena / Kate",
      "category": "Wife with children pregnant by another man",
      "group": "Secret affair pregnancy",
@@ -15861,11 +15873,11 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:50",
-    "ig6qlxqxoxvcxla:275",
-    "ig6qlxqxoxvcxla:288",
+    "ig6qlxqxoxvcxla:298",
     "ig6qlxqxoxvcxla:311",
-    "ig6qlxqxoxvcxla:662",
-    "ig6qlxqxoxvcxla:675",
+    "ig6qlxqxoxvcxla:334",
+    "ig6qlxqxoxvcxla:686",
+    "ig6qlxqxoxvcxla:699",
     "worldwide-hypnosis:824"
    ],
    "index_only": false,
@@ -15917,7 +15929,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:275",
+     "rid": "ig6qlxqxoxvcxla:298",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Stepford Wives (2004)",
      "identifiers": [
@@ -15941,7 +15953,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:288",
+     "rid": "ig6qlxqxoxvcxla:311",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Stepford Wives (2004)",
      "identifiers": [
@@ -15965,7 +15977,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:311",
+     "rid": "ig6qlxqxoxvcxla:334",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Stepford Wives (2004)",
      "identifiers": [
@@ -15989,7 +16001,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:662",
+     "rid": "ig6qlxqxoxvcxla:686",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Stepford Wives (2004) — nanochip",
      "identifiers": [
@@ -16014,7 +16026,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:675",
+     "rid": "ig6qlxqxoxvcxla:699",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Stepford Wives (2004)",
      "identifiers": [
@@ -16113,35 +16125,35 @@ window.CATALOG = {
      "pcg": "husband-broader",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:275": {
+    "ig6qlxqxoxvcxla:298": {
      "title": "The Stepford Wives (2004)",
      "category": "Husband hypnotizes / mind-controls wife",
      "group": "Mind control / occult / simulated reality",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:288": {
+    "ig6qlxqxoxvcxla:311": {
      "title": "The Stepford Wives (2004)",
      "category": "Female controlled by husband / boyfriend / ex-partner",
      "group": "Current husband — broader control",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:311": {
+    "ig6qlxqxoxvcxla:334": {
      "title": "The Stepford Wives (2004)",
      "category": "Partner hires a third-party controller",
      "group": "Leads / variants",
      "confidence": "Lead / variant",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:662": {
+    "ig6qlxqxoxvcxla:686": {
      "title": "The Stepford Wives (2004) — nanochip",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:675": {
+    "ig6qlxqxoxvcxla:699": {
      "title": "The Stepford Wives (2004)",
      "category": "Cult / coercive brainwashing",
      "group": "Catalog records",
@@ -16215,7 +16227,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:51",
-    "ig6qlxqxoxvcxla:644"
+    "ig6qlxqxoxvcxla:668"
    ],
    "index_only": false,
    "local_only": false,
@@ -16259,7 +16271,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:644",
+     "rid": "ig6qlxqxoxvcxla:668",
      "source": "ig6qlxqxoxvcxla",
      "label": "Dollhouse (2009–10)",
      "identifiers": [
@@ -16314,7 +16326,7 @@ window.CATALOG = {
      "ahg": "scifi",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:644": {
+    "ig6qlxqxoxvcxla:668": {
      "title": "Dollhouse (2009–10)",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
@@ -16370,12 +16382,12 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla:57",
     "ig6qlxqxoxvcxla:63",
     "ig6qlxqxoxvcxla:155",
-    "ig6qlxqxoxvcxla:267",
-    "ig6qlxqxoxvcxla:298",
-    "ig6qlxqxoxvcxla:307",
-    "ig6qlxqxoxvcxla:318",
-    "ig6qlxqxoxvcxla:450",
-    "ig6qlxqxoxvcxla:707",
+    "ig6qlxqxoxvcxla:290",
+    "ig6qlxqxoxvcxla:321",
+    "ig6qlxqxoxvcxla:330",
+    "ig6qlxqxoxvcxla:341",
+    "ig6qlxqxoxvcxla:473",
+    "ig6qlxqxoxvcxla:731",
     "india-catalog:22"
    ],
    "index_only": false,
@@ -16521,7 +16533,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:267",
+     "rid": "ig6qlxqxoxvcxla:290",
      "source": "ig6qlxqxoxvcxla",
      "label": "Tee Ratra (2010)",
      "identifiers": [
@@ -16545,7 +16557,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:298",
+     "rid": "ig6qlxqxoxvcxla:321",
      "source": "ig6qlxqxoxvcxla",
      "label": "Tee Ratra",
      "identifiers": [],
@@ -16567,7 +16579,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:307",
+     "rid": "ig6qlxqxoxvcxla:330",
      "source": "ig6qlxqxoxvcxla",
      "label": "Tee Ratra (2010)",
      "identifiers": [
@@ -16591,7 +16603,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:318",
+     "rid": "ig6qlxqxoxvcxla:341",
      "source": "ig6qlxqxoxvcxla",
      "label": "Tee Ratra",
      "identifiers": [],
@@ -16613,7 +16625,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:450",
+     "rid": "ig6qlxqxoxvcxla:473",
      "source": "ig6qlxqxoxvcxla",
      "label": "Tee Ratra (2010 Marathi)",
      "identifiers": [
@@ -16638,7 +16650,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:707",
+     "rid": "ig6qlxqxoxvcxla:731",
      "source": "ig6qlxqxoxvcxla",
      "label": "Tee Ratra (2010 Marathi)",
      "identifiers": [
@@ -16828,42 +16840,42 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:267": {
+    "ig6qlxqxoxvcxla:290": {
      "title": "Tee Ratra (2010)",
      "category": "Husband hypnotizes / mind-controls wife",
      "group": "Literal hypnosis",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:298": {
+    "ig6qlxqxoxvcxla:321": {
      "title": "Tee Ratra",
      "category": "Female controlled by husband / boyfriend / ex-partner",
      "group": "Partner-instigated / third-party variants",
      "confidence": "Variant",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:307": {
+    "ig6qlxqxoxvcxla:330": {
      "title": "Tee Ratra (2010)",
      "category": "Partner hires a third-party controller",
      "group": "Extract secret",
      "confidence": "Verified",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:318": {
+    "ig6qlxqxoxvcxla:341": {
      "title": "Tee Ratra",
      "category": "Wife hypnotized / controlled by a therapist",
      "group": "Coercive / investigative",
      "confidence": "Strict match",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:450": {
+    "ig6qlxqxoxvcxla:473": {
      "title": "Tee Ratra (2010 Marathi)",
      "category": "Female hypnosis / mind control — India",
      "group": "Wife controlled by husband",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:707": {
+    "ig6qlxqxoxvcxla:731": {
      "title": "Tee Ratra (2010 Marathi)",
      "category": "Drugs / science / technology control",
      "group": "Catalog records",
@@ -16991,7 +17003,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:54",
-    "ig6qlxqxoxvcxla:293",
+    "ig6qlxqxoxvcxla:316",
     "worldwide-hypnosis:743"
    ],
    "index_only": false,
@@ -17044,7 +17056,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:293",
+     "rid": "ig6qlxqxoxvcxla:316",
      "source": "ig6qlxqxoxvcxla",
      "label": "Scott Pilgrim vs. the World (2010)",
      "identifiers": [
@@ -17156,7 +17168,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:293": {
+    "ig6qlxqxoxvcxla:316": {
      "title": "Scott Pilgrim vs. the World (2010)",
      "category": "Female controlled by husband / boyfriend / ex-partner",
      "group": "Ex-boyfriend",
@@ -17317,8 +17329,8 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:56",
     "ig6qlxqxoxvcxla:68",
-    "ig6qlxqxoxvcxla:276",
-    "ig6qlxqxoxvcxla:359",
+    "ig6qlxqxoxvcxla:299",
+    "ig6qlxqxoxvcxla:382",
     "round2:3"
    ],
    "index_only": false,
@@ -17400,7 +17412,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:276",
+     "rid": "ig6qlxqxoxvcxla:299",
      "source": "ig6qlxqxoxvcxla",
      "label": "被催眠的她 / The Hypnotized Her — loose",
      "identifiers": [
@@ -17424,7 +17436,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:359",
+     "rid": "ig6qlxqxoxvcxla:382",
      "source": "ig6qlxqxoxvcxla",
      "label": "被催眠的她 / The Hypnotized Her — loose",
      "identifiers": [
@@ -17561,14 +17573,14 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:276": {
+    "ig6qlxqxoxvcxla:299": {
      "title": "被催眠的她 / The Hypnotized Her — loose",
      "category": "Husband hypnotizes / mind-controls wife",
      "group": "Mind control / occult / simulated reality",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:359": {
+    "ig6qlxqxoxvcxla:382": {
      "title": "被催眠的她 / The Hypnotized Her — loose",
      "category": "Remarried wife controlled by new husband / stepfather",
      "group": "Closest variants",
@@ -17677,9 +17689,9 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:57",
-    "ig6qlxqxoxvcxla:277",
-    "ig6qlxqxoxvcxla:289",
-    "ig6qlxqxoxvcxla:663",
+    "ig6qlxqxoxvcxla:300",
+    "ig6qlxqxoxvcxla:312",
+    "ig6qlxqxoxvcxla:687",
     "worldwide-hypnosis:297"
    ],
    "index_only": false,
@@ -17733,7 +17745,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:277",
+     "rid": "ig6qlxqxoxvcxla:300",
      "source": "ig6qlxqxoxvcxla",
      "label": "Don’t Worry Darling (2022)",
      "identifiers": [
@@ -17757,7 +17769,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:289",
+     "rid": "ig6qlxqxoxvcxla:312",
      "source": "ig6qlxqxoxvcxla",
      "label": "Don’t Worry Darling",
      "identifiers": [],
@@ -17779,7 +17791,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:663",
+     "rid": "ig6qlxqxoxvcxla:687",
      "source": "ig6qlxqxoxvcxla",
      "label": "Don’t Worry Darling (2022)",
      "identifiers": [
@@ -17878,21 +17890,21 @@ window.CATALOG = {
      ],
      "pcg": "husband-broader"
     },
-    "ig6qlxqxoxvcxla:277": {
+    "ig6qlxqxoxvcxla:300": {
      "title": "Don’t Worry Darling (2022)",
      "category": "Husband hypnotizes / mind-controls wife",
      "group": "Mind control / occult / simulated reality",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:289": {
+    "ig6qlxqxoxvcxla:312": {
      "title": "Don’t Worry Darling",
      "category": "Female controlled by husband / boyfriend / ex-partner",
      "group": "Current husband — broader control",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:663": {
+    "ig6qlxqxoxvcxla:687": {
      "title": "Don’t Worry Darling (2022)",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
@@ -17984,7 +17996,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:58",
-    "ig6qlxqxoxvcxla:268",
+    "ig6qlxqxoxvcxla:291",
     "worldwide-hypnosis:930",
     "rich-wife-hypnosis:11",
     "older-man-hypnosis:21"
@@ -18028,7 +18040,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:268",
+     "rid": "ig6qlxqxoxvcxla:291",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Mask of Diijon (1946)",
      "identifiers": [
@@ -18200,7 +18212,7 @@ window.CATALOG = {
      ],
      "pcg": "husband-direct"
     },
-    "ig6qlxqxoxvcxla:268": {
+    "ig6qlxqxoxvcxla:291": {
      "title": "The Mask of Diijon (1946)",
      "category": "Husband hypnotizes / mind-controls wife",
      "group": "Literal hypnosis",
@@ -18354,7 +18366,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:59",
-    "ig6qlxqxoxvcxla:269",
+    "ig6qlxqxoxvcxla:292",
     "rich-wife-hypnosis:12"
    ],
    "index_only": false,
@@ -18396,7 +18408,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:269",
+     "rid": "ig6qlxqxoxvcxla:292",
      "source": "ig6qlxqxoxvcxla",
      "label": "Le Système Ribadier (1975)",
      "identifiers": [
@@ -18493,7 +18505,7 @@ window.CATALOG = {
      "pcg": "husband-direct",
      "ccg": "other"
     },
-    "ig6qlxqxoxvcxla:269": {
+    "ig6qlxqxoxvcxla:292": {
      "title": "Le Système Ribadier (1975)",
      "category": "Husband hypnotizes / mind-controls wife",
      "group": "Literal hypnosis",
@@ -18575,8 +18587,8 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:60",
     "ig6qlxqxoxvcxla:64",
-    "ig6qlxqxoxvcxla:270",
-    "ig6qlxqxoxvcxla:319"
+    "ig6qlxqxoxvcxla:293",
+    "ig6qlxqxoxvcxla:342"
    ],
    "index_only": false,
    "local_only": false,
@@ -18651,7 +18663,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:270",
+     "rid": "ig6qlxqxoxvcxla:293",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Hypnotist / Hypnotisören (2012)",
      "identifiers": [
@@ -18675,7 +18687,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:319",
+     "rid": "ig6qlxqxoxvcxla:342",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Hypnotist / Hypnotisören (2012)",
      "identifiers": [
@@ -18756,14 +18768,14 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:270": {
+    "ig6qlxqxoxvcxla:293": {
      "title": "The Hypnotist / Hypnotisören (2012)",
      "category": "Husband hypnotizes / mind-controls wife",
      "group": "Literal hypnosis",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:319": {
+    "ig6qlxqxoxvcxla:342": {
      "title": "The Hypnotist / Hypnotisören (2012)",
      "category": "Wife hypnotized / controlled by a therapist",
      "group": "Benevolent / therapeutic",
@@ -18803,8 +18815,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:61",
-    "ig6qlxqxoxvcxla:271",
-    "ig6qlxqxoxvcxla:291",
+    "ig6qlxqxoxvcxla:294",
+    "ig6qlxqxoxvcxla:314",
     "india-catalog:19"
    ],
    "index_only": false,
@@ -18840,7 +18852,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:271",
+     "rid": "ig6qlxqxoxvcxla:294",
      "source": "ig6qlxqxoxvcxla",
      "label": "Silence of Sleep (2020) — loose",
      "identifiers": [
@@ -18865,7 +18877,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:291",
+     "rid": "ig6qlxqxoxvcxla:314",
      "source": "ig6qlxqxoxvcxla",
      "label": "Silence of Sleep (2020)",
      "identifiers": [
@@ -18945,14 +18957,14 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:271": {
+    "ig6qlxqxoxvcxla:294": {
      "title": "Silence of Sleep (2020) — loose",
      "category": "Husband hypnotizes / mind-controls wife",
      "group": "Literal hypnosis",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:291": {
+    "ig6qlxqxoxvcxla:314": {
      "title": "Silence of Sleep (2020)",
      "category": "Female controlled by husband / boyfriend / ex-partner",
      "group": "Current boyfriend / lover",
@@ -19041,13 +19053,13 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:62",
     "ig6qlxqxoxvcxla:59",
-    "ig6qlxqxoxvcxla:278",
-    "ig6qlxqxoxvcxla:299",
-    "ig6qlxqxoxvcxla:314",
-    "ig6qlxqxoxvcxla:357",
-    "ig6qlxqxoxvcxla:361",
-    "ig6qlxqxoxvcxla:627",
-    "ig6qlxqxoxvcxla:734",
+    "ig6qlxqxoxvcxla:301",
+    "ig6qlxqxoxvcxla:322",
+    "ig6qlxqxoxvcxla:337",
+    "ig6qlxqxoxvcxla:380",
+    "ig6qlxqxoxvcxla:384",
+    "ig6qlxqxoxvcxla:651",
+    "ig6qlxqxoxvcxla:758",
     "hypnotized-marriage:34"
    ],
    "index_only": false,
@@ -19159,7 +19171,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:278",
+     "rid": "ig6qlxqxoxvcxla:301",
      "source": "ig6qlxqxoxvcxla",
      "label": "El maleficio — original",
      "identifiers": [
@@ -19183,7 +19195,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:299",
+     "rid": "ig6qlxqxoxvcxla:322",
      "source": "ig6qlxqxoxvcxla",
      "label": "El maleficio",
      "identifiers": [],
@@ -19205,7 +19217,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:314",
+     "rid": "ig6qlxqxoxvcxla:337",
      "source": "ig6qlxqxoxvcxla",
      "label": "El maleficio (1983–84)",
      "identifiers": [
@@ -19229,7 +19241,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:357",
+     "rid": "ig6qlxqxoxvcxla:380",
      "source": "ig6qlxqxoxvcxla",
      "label": "El maleficio — original",
      "identifiers": [
@@ -19253,7 +19265,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:361",
+     "rid": "ig6qlxqxoxvcxla:384",
      "source": "ig6qlxqxoxvcxla",
      "label": "El maleficio — original",
      "identifiers": [
@@ -19277,7 +19289,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:627",
+     "rid": "ig6qlxqxoxvcxla:651",
      "source": "ig6qlxqxoxvcxla",
      "label": "El Maleficio (1983)",
      "identifiers": [
@@ -19301,7 +19313,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:734",
+     "rid": "ig6qlxqxoxvcxla:758",
      "source": "ig6qlxqxoxvcxla",
      "label": "El maleficio — original",
      "identifiers": [
@@ -19471,49 +19483,49 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:278": {
+    "ig6qlxqxoxvcxla:301": {
      "title": "El maleficio — original",
      "category": "Husband hypnotizes / mind-controls wife",
      "group": "Mind control / occult / simulated reality",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:299": {
+    "ig6qlxqxoxvcxla:322": {
      "title": "El maleficio",
      "category": "Female controlled by husband / boyfriend / ex-partner",
      "group": "Partner-instigated / third-party variants",
      "confidence": "Variant",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:314": {
+    "ig6qlxqxoxvcxla:337": {
      "title": "El maleficio (1983–84)",
      "category": "Mother controlled by current husband / boyfriend",
      "group": "Low-confidence inclusion",
      "confidence": "Low confidence",
      "note": "Sorcerer husband Enrique has widowed mother Beatriz “bajo su influjo”; literal hypnosis is not proven."
     },
-    "ig6qlxqxoxvcxla:357": {
+    "ig6qlxqxoxvcxla:380": {
      "title": "El maleficio — original",
      "category": "Remarried wife controlled by new husband / stepfather",
      "group": "Closest variants",
      "confidence": "Near-match",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:361": {
+    "ig6qlxqxoxvcxla:384": {
      "title": "El maleficio — original",
      "category": "Pregnant single mother controlled by new husband / stepfather",
      "group": "Strongest near-misses",
      "confidence": "Near-miss",
      "note": "Pan’s Labyrinth fails criterion 5: its control is mundane."
     },
-    "ig6qlxqxoxvcxla:627": {
+    "ig6qlxqxoxvcxla:651": {
      "title": "El Maleficio (1983)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Turkish / Arab / Latin / African",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:734": {
+    "ig6qlxqxoxvcxla:758": {
      "title": "El maleficio — original",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Borderline",
@@ -19617,10 +19629,10 @@ window.CATALOG = {
     "xla62ucxbx02u5:63",
     "xla62ucxbx02u5:2028",
     "ig6qlxqxoxvcxla:67",
-    "ig6qlxqxoxvcxla:279",
-    "ig6qlxqxoxvcxla:358",
-    "ig6qlxqxoxvcxla:362",
-    "ig6qlxqxoxvcxla:735",
+    "ig6qlxqxoxvcxla:302",
+    "ig6qlxqxoxvcxla:381",
+    "ig6qlxqxoxvcxla:385",
+    "ig6qlxqxoxvcxla:759",
     "hypnotized-marriage:35"
    ],
    "index_only": false,
@@ -19749,7 +19761,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:279",
+     "rid": "ig6qlxqxoxvcxla:302",
      "source": "ig6qlxqxoxvcxla",
      "label": "El maleficio — remake, near-miss",
      "identifiers": [
@@ -19773,7 +19785,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:358",
+     "rid": "ig6qlxqxoxvcxla:381",
      "source": "ig6qlxqxoxvcxla",
      "label": "El maleficio (2023–24) — remake",
      "identifiers": [
@@ -19798,7 +19810,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:362",
+     "rid": "ig6qlxqxoxvcxla:385",
      "source": "ig6qlxqxoxvcxla",
      "label": "El maleficio — remake",
      "identifiers": [
@@ -19822,7 +19834,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:735",
+     "rid": "ig6qlxqxoxvcxla:759",
      "source": "ig6qlxqxoxvcxla",
      "label": "El maleficio — remake",
      "identifiers": [
@@ -19991,28 +20003,28 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:279": {
+    "ig6qlxqxoxvcxla:302": {
      "title": "El maleficio — remake, near-miss",
      "category": "Husband hypnotizes / mind-controls wife",
      "group": "Mind control / occult / simulated reality",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:358": {
+    "ig6qlxqxoxvcxla:381": {
      "title": "El maleficio (2023–24) — remake",
      "category": "Remarried wife controlled by new husband / stepfather",
      "group": "Closest variants",
      "confidence": "Near-match",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:362": {
+    "ig6qlxqxoxvcxla:385": {
      "title": "El maleficio — remake",
      "category": "Pregnant single mother controlled by new husband / stepfather",
      "group": "Strongest near-misses",
      "confidence": "Near-miss",
      "note": "Pan’s Labyrinth fails criterion 5: its control is mundane."
     },
-    "ig6qlxqxoxvcxla:735": {
+    "ig6qlxqxoxvcxla:759": {
      "title": "El maleficio — remake",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Borderline",
@@ -20080,8 +20092,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:64",
-    "ig6qlxqxoxvcxla:280",
-    "ig6qlxqxoxvcxla:295"
+    "ig6qlxqxoxvcxla:303",
+    "ig6qlxqxoxvcxla:318"
    ],
    "index_only": false,
    "local_only": false,
@@ -20117,7 +20129,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:280",
+     "rid": "ig6qlxqxoxvcxla:303",
      "source": "ig6qlxqxoxvcxla",
      "label": "Desejos de Mulher — borderline",
      "identifiers": [
@@ -20141,7 +20153,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:295",
+     "rid": "ig6qlxqxoxvcxla:318",
      "source": "ig6qlxqxoxvcxla",
      "label": "Desejos de Mulher",
      "identifiers": [],
@@ -20186,14 +20198,14 @@ window.CATALOG = {
      ],
      "pcg": "ex-husband-nearmiss"
     },
-    "ig6qlxqxoxvcxla:280": {
+    "ig6qlxqxoxvcxla:303": {
      "title": "Desejos de Mulher — borderline",
      "category": "Husband hypnotizes / mind-controls wife",
      "group": "Mind control / occult / simulated reality",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:295": {
+    "ig6qlxqxoxvcxla:318": {
      "title": "Desejos de Mulher",
      "category": "Female controlled by husband / boyfriend / ex-partner",
      "group": "Ex-husband near-miss only",
@@ -20232,8 +20244,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:65",
-    "ig6qlxqxoxvcxla:281",
-    "ig6qlxqxoxvcxla:300"
+    "ig6qlxqxoxvcxla:304",
+    "ig6qlxqxoxvcxla:323"
    ],
    "index_only": false,
    "local_only": false,
@@ -20268,7 +20280,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:281",
+     "rid": "ig6qlxqxoxvcxla:304",
      "source": "ig6qlxqxoxvcxla",
      "label": "Thunderbolt: Magun (2001)",
      "identifiers": [
@@ -20292,7 +20304,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:300",
+     "rid": "ig6qlxqxoxvcxla:323",
      "source": "ig6qlxqxoxvcxla",
      "label": "Thunderbolt: Magun",
      "identifiers": [],
@@ -20335,14 +20347,14 @@ window.CATALOG = {
      ],
      "pcg": "partner-nearmiss"
     },
-    "ig6qlxqxoxvcxla:281": {
+    "ig6qlxqxoxvcxla:304": {
      "title": "Thunderbolt: Magun (2001)",
      "category": "Husband hypnotizes / mind-controls wife",
      "group": "Mind control / occult / simulated reality",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:300": {
+    "ig6qlxqxoxvcxla:323": {
      "title": "Thunderbolt: Magun",
      "category": "Female controlled by husband / boyfriend / ex-partner",
      "group": "Partner-instigated / third-party variants",
@@ -20380,7 +20392,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:66",
-    "ig6qlxqxoxvcxla:282"
+    "ig6qlxqxoxvcxla:305"
    ],
    "index_only": false,
    "local_only": false,
@@ -20414,7 +20426,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:282",
+     "rid": "ig6qlxqxoxvcxla:305",
      "source": "ig6qlxqxoxvcxla",
      "label": "Gaslight (1944)",
      "identifiers": [
@@ -20458,7 +20470,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:282": {
+    "ig6qlxqxoxvcxla:305": {
      "title": "Gaslight (1944)",
      "category": "Husband hypnotizes / mind-controls wife",
      "group": "Psychological manipulation, no literal hypnosis",
@@ -20505,7 +20517,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:67",
-    "ig6qlxqxoxvcxla:283"
+    "ig6qlxqxoxvcxla:306"
    ],
    "index_only": false,
    "local_only": false,
@@ -20540,7 +20552,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:283",
+     "rid": "ig6qlxqxoxvcxla:306",
      "source": "ig6qlxqxoxvcxla",
      "label": "Él / This Strange Passion (1953)",
      "identifiers": [
@@ -20586,7 +20598,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:283": {
+    "ig6qlxqxoxvcxla:306": {
      "title": "Él / This Strange Passion (1953)",
      "category": "Husband hypnotizes / mind-controls wife",
      "group": "Psychological manipulation, no literal hypnosis",
@@ -20624,7 +20636,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:68",
-    "ig6qlxqxoxvcxla:284"
+    "ig6qlxqxoxvcxla:307"
    ],
    "index_only": false,
    "local_only": false,
@@ -20659,7 +20671,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:284",
+     "rid": "ig6qlxqxoxvcxla:307",
      "source": "ig6qlxqxoxvcxla",
      "label": "Recalled (2021)",
      "identifiers": [
@@ -20704,7 +20716,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:284": {
+    "ig6qlxqxoxvcxla:307": {
      "title": "Recalled (2021)",
      "category": "Husband hypnotizes / mind-controls wife",
      "group": "Psychological manipulation, no literal hypnosis",
@@ -20793,7 +20805,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:69",
-    "ig6qlxqxoxvcxla:285",
+    "ig6qlxqxoxvcxla:308",
     "worldwide-hypnosis:370"
    ],
    "index_only": false,
@@ -20838,7 +20850,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:285",
+     "rid": "ig6qlxqxoxvcxla:308",
      "source": "ig6qlxqxoxvcxla",
      "label": "Flower of Evil (2020)",
      "identifiers": [
@@ -20926,7 +20938,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:285": {
+    "ig6qlxqxoxvcxla:308": {
      "title": "Flower of Evil (2020)",
      "category": "Husband hypnotizes / mind-controls wife",
      "group": "Psychological manipulation, no literal hypnosis",
@@ -20989,7 +21001,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:70",
-    "ig6qlxqxoxvcxla:286"
+    "ig6qlxqxoxvcxla:309"
    ],
    "index_only": false,
    "local_only": false,
@@ -21024,7 +21036,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:286",
+     "rid": "ig6qlxqxoxvcxla:309",
      "source": "ig6qlxqxoxvcxla",
      "label": "Ayna ‘Aqli (1974)",
      "identifiers": [
@@ -21069,7 +21081,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:286": {
+    "ig6qlxqxoxvcxla:309": {
      "title": "Ayna ‘Aqli (1974)",
      "category": "Husband hypnotizes / mind-controls wife",
      "group": "Psychological manipulation, no literal hypnosis",
@@ -21107,7 +21119,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:71",
-    "ig6qlxqxoxvcxla:287"
+    "ig6qlxqxoxvcxla:310"
    ],
    "index_only": false,
    "local_only": false,
@@ -21141,7 +21153,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:287",
+     "rid": "ig6qlxqxoxvcxla:310",
      "source": "ig6qlxqxoxvcxla",
      "label": "To Have & to Hold (1996)",
      "identifiers": [
@@ -21185,7 +21197,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:287": {
+    "ig6qlxqxoxvcxla:310": {
      "title": "To Have & to Hold (1996)",
      "category": "Husband hypnotizes / mind-controls wife",
      "group": "Psychological manipulation, no literal hypnosis",
@@ -21245,8 +21257,8 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:72",
     "xla62ucxbx02u5:133",
-    "ig6qlxqxoxvcxla:374",
-    "ig6qlxqxoxvcxla:966",
+    "ig6qlxqxoxvcxla:397",
+    "ig6qlxqxoxvcxla:990",
     "mom-pregnancy:49"
    ],
    "index_only": false,
@@ -21313,7 +21325,7 @@ window.CATALOG = {
      "distinct_story": true
     },
     {
-     "rid": "ig6qlxqxoxvcxla:374",
+     "rid": "ig6qlxqxoxvcxla:397",
      "source": "ig6qlxqxoxvcxla",
      "label": "Desperate Housewives",
      "identifiers": [],
@@ -21335,7 +21347,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:966",
+     "rid": "ig6qlxqxoxvcxla:990",
      "source": "ig6qlxqxoxvcxla",
      "label": "Desperate Housewives S05E04",
      "identifiers": [
@@ -21442,14 +21454,14 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:374": {
+    "ig6qlxqxoxvcxla:397": {
      "title": "Desperate Housewives",
      "category": "Single mom remarries and gets pregnant with new partner",
      "group": "USA",
      "confidence": "Exact",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:966": {
+    "ig6qlxqxoxvcxla:990": {
      "title": "Desperate Housewives S05E04",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Strict shown — bedroom / sleeping room",
@@ -21521,10 +21533,10 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:73",
     "xla62ucxbx02u5:395",
-    "ig6qlxqxoxvcxla:205",
-    "ig6qlxqxoxvcxla:375",
-    "ig6qlxqxoxvcxla:376",
-    "ig6qlxqxoxvcxla:693"
+    "ig6qlxqxoxvcxla:227",
+    "ig6qlxqxoxvcxla:398",
+    "ig6qlxqxoxvcxla:399",
+    "ig6qlxqxoxvcxla:717"
    ],
    "index_only": false,
    "local_only": false,
@@ -21582,7 +21594,7 @@ window.CATALOG = {
      "distinct_story": true
     },
     {
-     "rid": "ig6qlxqxoxvcxla:205",
+     "rid": "ig6qlxqxoxvcxla:227",
      "source": "ig6qlxqxoxvcxla",
      "label": "General Hospital — Elizabeth / Jason",
      "identifiers": [
@@ -21606,7 +21618,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:375",
+     "rid": "ig6qlxqxoxvcxla:398",
      "source": "ig6qlxqxoxvcxla",
      "label": "General Hospital — case 1",
      "identifiers": [
@@ -21630,7 +21642,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:376",
+     "rid": "ig6qlxqxoxvcxla:399",
      "source": "ig6qlxqxoxvcxla",
      "label": "General Hospital — case 2",
      "identifiers": [
@@ -21654,7 +21666,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:693",
+     "rid": "ig6qlxqxoxvcxla:717",
      "source": "ig6qlxqxoxvcxla",
      "label": "General Hospital (2022)",
      "identifiers": [
@@ -21714,28 +21726,28 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:205": {
+    "ig6qlxqxoxvcxla:227": {
      "title": "General Hospital — Elizabeth / Jason",
      "category": "Wife with children pregnant by another man",
      "group": "Secret affair pregnancy",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:375": {
+    "ig6qlxqxoxvcxla:398": {
      "title": "General Hospital — case 1",
      "category": "Single mom remarries and gets pregnant with new partner",
      "group": "USA",
      "confidence": "Exact",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:376": {
+    "ig6qlxqxoxvcxla:399": {
      "title": "General Hospital — case 2",
      "category": "Single mom remarries and gets pregnant with new partner",
      "group": "USA",
      "confidence": "Exact",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:693": {
+    "ig6qlxqxoxvcxla:717": {
      "title": "General Hospital (2022)",
      "category": "Medical / therapeutic hypnosis",
      "group": "Catalog records",
@@ -21795,8 +21807,8 @@ window.CATALOG = {
     "xla62ucxbx02u5:74",
     "xla62ucxbx02u5:780",
     "ig6qlxqxoxvcxla:42",
-    "ig6qlxqxoxvcxla:209",
-    "ig6qlxqxoxvcxla:378",
+    "ig6qlxqxoxvcxla:231",
+    "ig6qlxqxoxvcxla:401",
     "mom-pregnancy:48"
    ],
    "index_only": false,
@@ -21897,7 +21909,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:209",
+     "rid": "ig6qlxqxoxvcxla:231",
      "source": "ig6qlxqxoxvcxla",
      "label": "Emmerdale",
      "identifiers": [],
@@ -21919,7 +21931,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:378",
+     "rid": "ig6qlxqxoxvcxla:401",
      "source": "ig6qlxqxoxvcxla",
      "label": "Emmerdale",
      "identifiers": [],
@@ -22053,14 +22065,14 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:209": {
+    "ig6qlxqxoxvcxla:231": {
      "title": "Emmerdale",
      "category": "Wife with children pregnant by another man",
      "group": "Secret affair pregnancy",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:378": {
+    "ig6qlxqxoxvcxla:401": {
      "title": "Emmerdale",
      "category": "Single mom remarries and gets pregnant with new partner",
      "group": "UK",
@@ -22132,7 +22144,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:75",
     "xla62ucxbx02u5:746",
-    "ig6qlxqxoxvcxla:379"
+    "ig6qlxqxoxvcxla:402"
    ],
    "index_only": false,
    "local_only": false,
@@ -22192,7 +22204,7 @@ window.CATALOG = {
      "distinct_story": true
     },
     {
-     "rid": "ig6qlxqxoxvcxla:379",
+     "rid": "ig6qlxqxoxvcxla:402",
      "source": "ig6qlxqxoxvcxla",
      "label": "Coronation Street",
      "identifiers": [],
@@ -22254,7 +22266,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:379": {
+    "ig6qlxqxoxvcxla:402": {
      "title": "Coronation Street",
      "category": "Single mom remarries and gets pregnant with new partner",
      "group": "UK",
@@ -22298,9 +22310,9 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:76",
     "xla62ucxbx02u5:388",
-    "ig6qlxqxoxvcxla:380",
-    "ig6qlxqxoxvcxla:381",
-    "ig6qlxqxoxvcxla:684"
+    "ig6qlxqxoxvcxla:403",
+    "ig6qlxqxoxvcxla:404",
+    "ig6qlxqxoxvcxla:708"
    ],
    "index_only": false,
    "local_only": false,
@@ -22358,7 +22370,7 @@ window.CATALOG = {
      "distinct_story": true
     },
     {
-     "rid": "ig6qlxqxoxvcxla:380",
+     "rid": "ig6qlxqxoxvcxla:403",
      "source": "ig6qlxqxoxvcxla",
      "label": "EastEnders — case 1",
      "identifiers": [
@@ -22382,7 +22394,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:381",
+     "rid": "ig6qlxqxoxvcxla:404",
      "source": "ig6qlxqxoxvcxla",
      "label": "EastEnders — case 2",
      "identifiers": [
@@ -22406,7 +22418,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:684",
+     "rid": "ig6qlxqxoxvcxla:708",
      "source": "ig6qlxqxoxvcxla",
      "label": "EastEnders (1997–98)",
      "identifiers": [
@@ -22466,21 +22478,21 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:380": {
+    "ig6qlxqxoxvcxla:403": {
      "title": "EastEnders — case 1",
      "category": "Single mom remarries and gets pregnant with new partner",
      "group": "UK",
      "confidence": "Exact",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:381": {
+    "ig6qlxqxoxvcxla:404": {
      "title": "EastEnders — case 2",
      "category": "Single mom remarries and gets pregnant with new partner",
      "group": "UK",
      "confidence": "Exact",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:684": {
+    "ig6qlxqxoxvcxla:708": {
      "title": "EastEnders (1997–98)",
      "category": "Cult / coercive brainwashing",
      "group": "Catalog records",
@@ -22538,7 +22550,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:77",
     "xla62ucxbx02u5:1345",
-    "ig6qlxqxoxvcxla:382",
+    "ig6qlxqxoxvcxla:405",
     "mom-pregnancy:50",
     "kids-pregnant-again:73"
    ],
@@ -22602,7 +22614,7 @@ window.CATALOG = {
      "distinct_story": true
     },
     {
-     "rid": "ig6qlxqxoxvcxla:382",
+     "rid": "ig6qlxqxoxvcxla:405",
      "source": "ig6qlxqxoxvcxla",
      "label": "Home and Away",
      "identifiers": [],
@@ -22746,7 +22758,7 @@ window.CATALOG = {
      "kids_status": "yes",
      "kids_together": "no"
     },
-    "ig6qlxqxoxvcxla:382": {
+    "ig6qlxqxoxvcxla:405": {
      "title": "Home and Away",
      "category": "Single mom remarries and gets pregnant with new partner",
      "group": "Australia",
@@ -22812,7 +22824,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2446
+    2455
    ]
   },
   {
@@ -22855,7 +22867,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:78",
-    "ig6qlxqxoxvcxla:383",
+    "ig6qlxqxoxvcxla:406",
     "mom-pregnancy:51"
    ],
    "index_only": false,
@@ -22889,7 +22901,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:383",
+     "rid": "ig6qlxqxoxvcxla:406",
      "source": "ig6qlxqxoxvcxla",
      "label": "Umutsuz Ev Kadınları",
      "identifiers": [],
@@ -22971,7 +22983,7 @@ window.CATALOG = {
      "kids_status": "yes",
      "kids_together": "yes"
     },
-    "ig6qlxqxoxvcxla:383": {
+    "ig6qlxqxoxvcxla:406": {
      "title": "Umutsuz Ev Kadınları",
      "category": "Single mom remarries and gets pregnant with new partner",
      "group": "Turkey",
@@ -23044,7 +23056,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:79",
-    "ig6qlxqxoxvcxla:384",
+    "ig6qlxqxoxvcxla:407",
     "mom-pregnancy:52"
    ],
    "index_only": false,
@@ -23078,7 +23090,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:384",
+     "rid": "ig6qlxqxoxvcxla:407",
      "source": "ig6qlxqxoxvcxla",
      "label": "Ömer",
      "identifiers": [],
@@ -23159,7 +23171,7 @@ window.CATALOG = {
      "married": "yes",
      "kids_status": "yes"
     },
-    "ig6qlxqxoxvcxla:384": {
+    "ig6qlxqxoxvcxla:407": {
      "title": "Ömer",
      "category": "Single mom remarries and gets pregnant with new partner",
      "group": "Turkey",
@@ -23232,7 +23244,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:80",
-    "ig6qlxqxoxvcxla:385",
+    "ig6qlxqxoxvcxla:408",
     "mom-pregnancy:53"
    ],
    "index_only": false,
@@ -23266,7 +23278,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:385",
+     "rid": "ig6qlxqxoxvcxla:408",
      "source": "ig6qlxqxoxvcxla",
      "label": "When the Camellia Blooms",
      "identifiers": [],
@@ -23348,7 +23360,7 @@ window.CATALOG = {
      "kids_status": "yes",
      "kids_together": "yes"
     },
-    "ig6qlxqxoxvcxla:385": {
+    "ig6qlxqxoxvcxla:408": {
      "title": "When the Camellia Blooms",
      "category": "Single mom remarries and gets pregnant with new partner",
      "group": "Korea",
@@ -23422,7 +23434,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:81",
-    "ig6qlxqxoxvcxla:386",
+    "ig6qlxqxoxvcxla:409",
     "mom-pregnancy:54"
    ],
    "index_only": false,
@@ -23458,7 +23470,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:386",
+     "rid": "ig6qlxqxoxvcxla:409",
      "source": "ig6qlxqxoxvcxla",
      "label": "Isseul Ttae Jalhae",
      "identifiers": [
@@ -23544,7 +23556,7 @@ window.CATALOG = {
      "kids_status": "yes",
      "kids_together": "yes"
     },
-    "ig6qlxqxoxvcxla:386": {
+    "ig6qlxqxoxvcxla:409": {
      "title": "Isseul Ttae Jalhae",
      "category": "Single mom remarries and gets pregnant with new partner",
      "group": "Korea",
@@ -23602,7 +23614,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:82",
-    "ig6qlxqxoxvcxla:392"
+    "ig6qlxqxoxvcxla:415"
    ],
    "index_only": false,
    "local_only": false,
@@ -23631,7 +23643,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:392",
+     "rid": "ig6qlxqxoxvcxla:415",
      "source": "ig6qlxqxoxvcxla",
      "label": "Abrázame muy fuerte (2000)",
      "identifiers": [
@@ -23671,7 +23683,7 @@ window.CATALOG = {
      "note": "Forced marriage, very dark storyline.",
      "src": []
     },
-    "ig6qlxqxoxvcxla:392": {
+    "ig6qlxqxoxvcxla:415": {
      "title": "Abrázame muy fuerte (2000)",
      "category": "Single mom remarries and gets pregnant with new partner",
      "group": "Mexico",
@@ -23704,7 +23716,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:83",
-    "ig6qlxqxoxvcxla:394"
+    "ig6qlxqxoxvcxla:417"
    ],
    "index_only": false,
    "local_only": false,
@@ -23731,7 +23743,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:394",
+     "rid": "ig6qlxqxoxvcxla:417",
      "source": "ig6qlxqxoxvcxla",
      "label": "Binbir Gece",
      "identifiers": [
@@ -23769,7 +23781,7 @@ window.CATALOG = {
      "s": "Şehrazat's wedding and pregnancy reveal happen in the same episode; miscarriage.",
      "src": []
     },
-    "ig6qlxqxoxvcxla:394": {
+    "ig6qlxqxoxvcxla:417": {
      "title": "Binbir Gece",
      "category": "Single mom remarries and gets pregnant with new partner",
      "group": "Near / partial matches",
@@ -23817,7 +23829,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:84",
-    "ig6qlxqxoxvcxla:395",
+    "ig6qlxqxoxvcxla:418",
     "mom-pregnancy:61"
    ],
    "index_only": false,
@@ -23851,7 +23863,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:395",
+     "rid": "ig6qlxqxoxvcxla:418",
      "source": "ig6qlxqxoxvcxla",
      "label": "Ugly Betty",
      "identifiers": [],
@@ -23931,7 +23943,7 @@ window.CATALOG = {
      "married": "yes",
      "kids_status": "yes"
     },
-    "ig6qlxqxoxvcxla:395": {
+    "ig6qlxqxoxvcxla:418": {
      "title": "Ugly Betty",
      "category": "Single mom remarries and gets pregnant with new partner",
      "group": "Near / partial matches",
@@ -23993,7 +24005,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:85",
-    "ig6qlxqxoxvcxla:396"
+    "ig6qlxqxoxvcxla:419"
    ],
    "index_only": false,
    "local_only": false,
@@ -24025,7 +24037,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:396",
+     "rid": "ig6qlxqxoxvcxla:419",
      "source": "ig6qlxqxoxvcxla",
      "label": "Balika Vadhu",
      "identifiers": [],
@@ -24066,7 +24078,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:396": {
+    "ig6qlxqxoxvcxla:419": {
      "title": "Balika Vadhu",
      "category": "Single mom remarries and gets pregnant with new partner",
      "group": "Near / partial matches",
@@ -24109,8 +24121,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:86",
-    "ig6qlxqxoxvcxla:561",
-    "ig6qlxqxoxvcxla:717"
+    "ig6qlxqxoxvcxla:585",
+    "ig6qlxqxoxvcxla:741"
    ],
    "index_only": false,
    "local_only": false,
@@ -24149,7 +24161,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:561",
+     "rid": "ig6qlxqxoxvcxla:585",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Conjuring (2013)",
      "identifiers": [
@@ -24173,7 +24185,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:717",
+     "rid": "ig6qlxqxoxvcxla:741",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Conjuring (2013)",
      "identifiers": [
@@ -24223,14 +24235,14 @@ window.CATALOG = {
      ],
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:561": {
+    "ig6qlxqxoxvcxla:585": {
      "title": "The Conjuring (2013)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:717": {
+    "ig6qlxqxoxvcxla:741": {
      "title": "The Conjuring (2013)",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Higher-confidence",
@@ -24272,7 +24284,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:87",
-    "ig6qlxqxoxvcxla:718"
+    "ig6qlxqxoxvcxla:742"
    ],
    "index_only": false,
    "local_only": false,
@@ -24310,7 +24322,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:718",
+     "rid": "ig6qlxqxoxvcxla:742",
      "source": "ig6qlxqxoxvcxla",
      "label": "Evil Dead Rise (2023)",
      "identifiers": [
@@ -24358,7 +24370,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:718": {
+    "ig6qlxqxoxvcxla:742": {
      "title": "Evil Dead Rise (2023)",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Higher-confidence",
@@ -24404,7 +24416,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:88",
-    "ig6qlxqxoxvcxla:719"
+    "ig6qlxqxoxvcxla:743"
    ],
    "index_only": false,
    "local_only": false,
@@ -24446,7 +24458,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:719",
+     "rid": "ig6qlxqxoxvcxla:743",
      "source": "ig6qlxqxoxvcxla",
      "label": "Weapons (2025)",
      "identifiers": [
@@ -24498,7 +24510,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:719": {
+    "ig6qlxqxoxvcxla:743": {
      "title": "Weapons (2025)",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Higher-confidence",
@@ -24536,7 +24548,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:89",
-    "ig6qlxqxoxvcxla:720"
+    "ig6qlxqxoxvcxla:744"
    ],
    "index_only": false,
    "local_only": false,
@@ -24570,7 +24582,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:720",
+     "rid": "ig6qlxqxoxvcxla:744",
      "source": "ig6qlxqxoxvcxla",
      "label": "Oculus",
      "identifiers": [],
@@ -24612,7 +24624,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:720": {
+    "ig6qlxqxoxvcxla:744": {
      "title": "Oculus",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Higher-confidence",
@@ -24665,8 +24677,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:90",
-    "ig6qlxqxoxvcxla:563",
-    "ig6qlxqxoxvcxla:721"
+    "ig6qlxqxoxvcxla:587",
+    "ig6qlxqxoxvcxla:745"
    ],
    "index_only": false,
    "local_only": false,
@@ -24705,7 +24717,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:563",
+     "rid": "ig6qlxqxoxvcxla:587",
      "source": "ig6qlxqxoxvcxla",
      "label": "Hereditary (2018)",
      "identifiers": [
@@ -24729,7 +24741,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:721",
+     "rid": "ig6qlxqxoxvcxla:745",
      "source": "ig6qlxqxoxvcxla",
      "label": "Hereditary (2018)",
      "identifiers": [
@@ -24779,14 +24791,14 @@ window.CATALOG = {
      ],
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:563": {
+    "ig6qlxqxoxvcxla:587": {
      "title": "Hereditary (2018)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:721": {
+    "ig6qlxqxoxvcxla:745": {
      "title": "Hereditary (2018)",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Higher-confidence",
@@ -24824,7 +24836,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:91",
-    "ig6qlxqxoxvcxla:722"
+    "ig6qlxqxoxvcxla:746"
    ],
    "index_only": false,
    "local_only": false,
@@ -24858,7 +24870,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:722",
+     "rid": "ig6qlxqxoxvcxla:746",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Taking of Deborah Logan (2014)",
      "identifiers": [
@@ -24902,7 +24914,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:722": {
+    "ig6qlxqxoxvcxla:746": {
      "title": "The Taking of Deborah Logan (2014)",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Higher-confidence",
@@ -24949,7 +24961,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:92",
-    "ig6qlxqxoxvcxla:723"
+    "ig6qlxqxoxvcxla:747"
    ],
    "index_only": false,
    "local_only": false,
@@ -24983,7 +24995,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:723",
+     "rid": "ig6qlxqxoxvcxla:747",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Devil Inside (2012)",
      "identifiers": [
@@ -25027,7 +25039,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:723": {
+    "ig6qlxqxoxvcxla:747": {
      "title": "The Devil Inside (2012)",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Higher-confidence",
@@ -25069,7 +25081,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:93",
-    "ig6qlxqxoxvcxla:724"
+    "ig6qlxqxoxvcxla:748"
    ],
    "index_only": false,
    "local_only": false,
@@ -25107,7 +25119,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:724",
+     "rid": "ig6qlxqxoxvcxla:748",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Forgotten (2004)",
      "identifiers": [
@@ -25155,7 +25167,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:724": {
+    "ig6qlxqxoxvcxla:748": {
      "title": "The Forgotten (2004)",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Higher-confidence",
@@ -25219,7 +25231,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:94",
-    "ig6qlxqxoxvcxla:725"
+    "ig6qlxqxoxvcxla:749"
    ],
    "index_only": false,
    "local_only": false,
@@ -25261,7 +25273,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:725",
+     "rid": "ig6qlxqxoxvcxla:749",
      "source": "ig6qlxqxoxvcxla",
      "label": "Doctor Strange in the Multiverse of Madness (2022)",
      "identifiers": [
@@ -25313,7 +25325,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:725": {
+    "ig6qlxqxoxvcxla:749": {
      "title": "Doctor Strange in the Multiverse of Madness (2022)",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Higher-confidence",
@@ -25363,9 +25375,9 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:95",
     "xla62ucxbx02u5:2169",
-    "ig6qlxqxoxvcxla:200",
-    "ig6qlxqxoxvcxla:726",
-    "ig6qlxqxoxvcxla:775"
+    "ig6qlxqxoxvcxla:222",
+    "ig6qlxqxoxvcxla:750",
+    "ig6qlxqxoxvcxla:799"
    ],
    "index_only": false,
    "local_only": false,
@@ -25432,7 +25444,7 @@ window.CATALOG = {
      "distinct_story": true
     },
     {
-     "rid": "ig6qlxqxoxvcxla:200",
+     "rid": "ig6qlxqxoxvcxla:222",
      "source": "ig6qlxqxoxvcxla",
      "label": "Buffy “Him” / “Something Blue”",
      "identifiers": [
@@ -25456,7 +25468,7 @@ window.CATALOG = {
      "matched_by": "prefix"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:726",
+     "rid": "ig6qlxqxoxvcxla:750",
      "source": "ig6qlxqxoxvcxla",
      "label": "Buffy “Gingerbread” (1999)",
      "identifiers": [
@@ -25481,7 +25493,7 @@ window.CATALOG = {
      "matched_by": "prefix"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:775",
+     "rid": "ig6qlxqxoxvcxla:799",
      "source": "ig6qlxqxoxvcxla",
      "label": "Buffy “Gingerbread”",
      "identifiers": [
@@ -25561,21 +25573,21 @@ window.CATALOG = {
      "marryFlag": "HIGH",
      "marryProv": "Worldwide eight-vector hypnotized-to-marry sweep, 3 Oct 2026 · Wikipedia · Buffyverse Wiki · TV Tropes episode recap"
     },
-    "ig6qlxqxoxvcxla:200": {
+    "ig6qlxqxoxvcxla:222": {
      "title": "Buffy “Him” / “Something Blue”",
      "category": "Hypnotized / controlled into infidelity",
      "group": "Boundary note",
      "confidence": "Excluded",
      "note": "Rejected near-misses"
     },
-    "ig6qlxqxoxvcxla:726": {
+    "ig6qlxqxoxvcxla:750": {
      "title": "Buffy “Gingerbread” (1999)",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Higher-confidence",
      "confidence": "Higher confidence",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:775": {
+    "ig6qlxqxoxvcxla:799": {
      "title": "Buffy “Gingerbread”",
      "category": "Female character controlled by a child / teen",
      "group": "Teen witches / magic / occult",
@@ -25653,8 +25665,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:96",
-    "ig6qlxqxoxvcxla:656",
-    "ig6qlxqxoxvcxla:727",
+    "ig6qlxqxoxvcxla:680",
+    "ig6qlxqxoxvcxla:751",
     "mother-kids-hypnosis:34"
    ],
    "index_only": false,
@@ -25699,7 +25711,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:656",
+     "rid": "ig6qlxqxoxvcxla:680",
      "source": "ig6qlxqxoxvcxla",
      "label": "The 100 season 3",
      "identifiers": [
@@ -25723,7 +25735,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:727",
+     "rid": "ig6qlxqxoxvcxla:751",
      "source": "ig6qlxqxoxvcxla",
      "label": "The 100 season 3",
      "identifiers": [
@@ -25844,14 +25856,14 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:656": {
+    "ig6qlxqxoxvcxla:680": {
      "title": "The 100 season 3",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:727": {
+    "ig6qlxqxoxvcxla:751": {
      "title": "The 100 season 3",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Higher-confidence",
@@ -25953,8 +25965,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:97",
-    "ig6qlxqxoxvcxla:568",
-    "ig6qlxqxoxvcxla:728"
+    "ig6qlxqxoxvcxla:592",
+    "ig6qlxqxoxvcxla:752"
    ],
    "index_only": false,
    "local_only": false,
@@ -25993,7 +26005,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:568",
+     "rid": "ig6qlxqxoxvcxla:592",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Haunting of Hill House",
      "identifiers": [],
@@ -26015,7 +26027,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:728",
+     "rid": "ig6qlxqxoxvcxla:752",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Haunting of Hill House (2018)",
      "identifiers": [
@@ -26065,14 +26077,14 @@ window.CATALOG = {
      ],
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:568": {
+    "ig6qlxqxoxvcxla:592": {
      "title": "The Haunting of Hill House",
      "category": "Demonic / occult control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:728": {
+    "ig6qlxqxoxvcxla:752": {
      "title": "The Haunting of Hill House (2018)",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Higher-confidence",
@@ -26114,7 +26126,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:98",
-    "ig6qlxqxoxvcxla:729"
+    "ig6qlxqxoxvcxla:753"
    ],
    "index_only": false,
    "local_only": false,
@@ -26152,7 +26164,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:729",
+     "rid": "ig6qlxqxoxvcxla:753",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Fourth Kind (2009)",
      "identifiers": [
@@ -26200,7 +26212,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:729": {
+    "ig6qlxqxoxvcxla:753": {
      "title": "The Fourth Kind (2009)",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Higher-confidence",
@@ -26254,8 +26266,8 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:99",
     "ig6qlxqxoxvcxla:45",
-    "ig6qlxqxoxvcxla:234",
-    "ig6qlxqxoxvcxla:730",
+    "ig6qlxqxoxvcxla:256",
+    "ig6qlxqxoxvcxla:754",
     "mother-kids-hypnosis:16"
    ],
    "index_only": false,
@@ -26322,7 +26334,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:234",
+     "rid": "ig6qlxqxoxvcxla:256",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Forces of Evil; or, The Dominant Will (1914)",
      "identifiers": [
@@ -26346,7 +26358,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:730",
+     "rid": "ig6qlxqxoxvcxla:754",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Forces of Evil; or, The Dominant Will (1914)",
      "identifiers": [
@@ -26462,14 +26474,14 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:234": {
+    "ig6qlxqxoxvcxla:256": {
      "title": "The Forces of Evil; or, The Dominant Will (1914)",
      "category": "Forcibly hypnotized to obey",
      "group": "Husband / lover / partner / domestic",
      "confidence": "Stronger case",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:730": {
+    "ig6qlxqxoxvcxla:754": {
      "title": "The Forces of Evil; or, The Dominant Will (1914)",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Higher-confidence",
@@ -26540,7 +26552,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:100",
-    "ig6qlxqxoxvcxla:731"
+    "ig6qlxqxoxvcxla:755"
    ],
    "index_only": false,
    "local_only": false,
@@ -26574,7 +26586,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:731",
+     "rid": "ig6qlxqxoxvcxla:755",
      "source": "ig6qlxqxoxvcxla",
      "label": "Household Demons (2020 short)",
      "identifiers": [
@@ -26619,7 +26631,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:731": {
+    "ig6qlxqxoxvcxla:755": {
      "title": "Household Demons (2020 short)",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Higher-confidence",
@@ -26657,7 +26669,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:101",
-    "ig6qlxqxoxvcxla:732"
+    "ig6qlxqxoxvcxla:756"
    ],
    "index_only": false,
    "local_only": false,
@@ -26691,7 +26703,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:732",
+     "rid": "ig6qlxqxoxvcxla:756",
      "source": "ig6qlxqxoxvcxla",
      "label": "Hypnophone (2021 short)",
      "identifiers": [
@@ -26736,7 +26748,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:732": {
+    "ig6qlxqxoxvcxla:756": {
      "title": "Hypnophone (2021 short)",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Higher-confidence",
@@ -26778,7 +26790,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:102",
-    "ig6qlxqxoxvcxla:733"
+    "ig6qlxqxoxvcxla:757"
    ],
    "index_only": false,
    "local_only": false,
@@ -26817,7 +26829,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:733",
+     "rid": "ig6qlxqxoxvcxla:757",
      "source": "ig6qlxqxoxvcxla",
      "label": "When Evil Lurks / Cuando acecha la maldad (2023 Argentina)",
      "identifiers": [
@@ -26867,7 +26879,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:733": {
+    "ig6qlxqxoxvcxla:757": {
      "title": "When Evil Lurks / Cuando acecha la maldad (2023 Argentina)",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Higher-confidence",
@@ -26925,9 +26937,9 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:103",
-    "ig6qlxqxoxvcxla:339",
-    "ig6qlxqxoxvcxla:620",
-    "ig6qlxqxoxvcxla:736"
+    "ig6qlxqxoxvcxla:362",
+    "ig6qlxqxoxvcxla:644",
+    "ig6qlxqxoxvcxla:760"
    ],
    "index_only": false,
    "local_only": false,
@@ -26972,7 +26984,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:339",
+     "rid": "ig6qlxqxoxvcxla:362",
      "source": "ig6qlxqxoxvcxla",
      "label": "Siccîn / Sijjin (2014)",
      "identifiers": [
@@ -26997,7 +27009,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:620",
+     "rid": "ig6qlxqxoxvcxla:644",
      "source": "ig6qlxqxoxvcxla",
      "label": "Siccîn (2014)",
      "identifiers": [
@@ -27021,7 +27033,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:736",
+     "rid": "ig6qlxqxoxvcxla:760",
      "source": "ig6qlxqxoxvcxla",
      "label": "Siccîn / Sijjin (2014)",
      "identifiers": [
@@ -27079,21 +27091,21 @@ window.CATALOG = {
      "rg": "Turkish, Arab, Latin & African",
      "xwg": "witchcraft"
     },
-    "ig6qlxqxoxvcxla:339": {
+    "ig6qlxqxoxvcxla:362": {
      "title": "Siccîn / Sijjin (2014)",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Witchcraft / spell / black magic",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:620": {
+    "ig6qlxqxoxvcxla:644": {
      "title": "Siccîn (2014)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Turkish / Arab / Latin / African",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:736": {
+    "ig6qlxqxoxvcxla:760": {
      "title": "Siccîn / Sijjin (2014)",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Borderline",
@@ -27136,8 +27148,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:104",
-    "ig6qlxqxoxvcxla:422",
-    "ig6qlxqxoxvcxla:737"
+    "ig6qlxqxoxvcxla:445",
+    "ig6qlxqxoxvcxla:761"
    ],
    "index_only": false,
    "local_only": false,
@@ -27176,7 +27188,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:422",
+     "rid": "ig6qlxqxoxvcxla:445",
      "source": "ig6qlxqxoxvcxla",
      "label": "Sijjin (2023 Indonesia)",
      "identifiers": [
@@ -27201,7 +27213,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:737",
+     "rid": "ig6qlxqxoxvcxla:761",
      "source": "ig6qlxqxoxvcxla",
      "label": "Sijjin — Indonesia",
      "identifiers": [
@@ -27250,14 +27262,14 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:422": {
+    "ig6qlxqxoxvcxla:445": {
      "title": "Sijjin (2023 Indonesia)",
      "category": "Supernatural female control — India & Indonesia",
      "group": "Verified cases",
      "confidence": "Verified",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:737": {
+    "ig6qlxqxoxvcxla:761": {
      "title": "Sijjin — Indonesia",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Borderline",
@@ -27312,10 +27324,10 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:105",
-    "ig6qlxqxoxvcxla:554",
-    "ig6qlxqxoxvcxla:738",
-    "ig6qlxqxoxvcxla:825",
-    "ig6qlxqxoxvcxla:876"
+    "ig6qlxqxoxvcxla:578",
+    "ig6qlxqxoxvcxla:762",
+    "ig6qlxqxoxvcxla:849",
+    "ig6qlxqxoxvcxla:900"
    ],
    "index_only": false,
    "local_only": false,
@@ -27365,7 +27377,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:554",
+     "rid": "ig6qlxqxoxvcxla:578",
      "source": "ig6qlxqxoxvcxla",
      "label": "Rosemary’s Baby (1968)",
      "identifiers": [
@@ -27389,7 +27401,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:738",
+     "rid": "ig6qlxqxoxvcxla:762",
      "source": "ig6qlxqxoxvcxla",
      "label": "Rosemary’s Baby (1968)",
      "identifiers": [
@@ -27413,7 +27425,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:825",
+     "rid": "ig6qlxqxoxvcxla:849",
      "source": "ig6qlxqxoxvcxla",
      "label": "Rosemary’s Baby",
      "identifiers": [],
@@ -27435,7 +27447,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:876",
+     "rid": "ig6qlxqxoxvcxla:900",
      "source": "ig6qlxqxoxvcxla",
      "label": "Rosemary’s Baby (1968)",
      "identifiers": [
@@ -27521,28 +27533,28 @@ window.CATALOG = {
      "variantProv": "Existing catalog record retained as a drug-induced dream-state and reproductive-coercion variant.",
      "pg": "medium"
     },
-    "ig6qlxqxoxvcxla:554": {
+    "ig6qlxqxoxvcxla:578": {
      "title": "Rosemary’s Baby (1968)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:738": {
+    "ig6qlxqxoxvcxla:762": {
      "title": "Rosemary’s Baby (1968)",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Borderline",
      "confidence": "Borderline",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:825": {
+    "ig6qlxqxoxvcxla:849": {
      "title": "Rosemary’s Baby",
      "category": "Pregnant woman hypnotized / mind-controlled",
      "group": "Close variants",
      "confidence": "Variant",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:876": {
+    "ig6qlxqxoxvcxla:900": {
      "title": "Rosemary’s Baby (1968)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "Medium-confidence close variants",
@@ -27590,7 +27602,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:106",
-    "ig6qlxqxoxvcxla:740"
+    "ig6qlxqxoxvcxla:764"
    ],
    "index_only": false,
    "local_only": false,
@@ -27625,7 +27637,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:740",
+     "rid": "ig6qlxqxoxvcxla:764",
      "source": "ig6qlxqxoxvcxla",
      "label": "Incantation / Zhou (2022 Taiwan)",
      "identifiers": [
@@ -27671,7 +27683,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:740": {
+    "ig6qlxqxoxvcxla:764": {
      "title": "Incantation / Zhou (2022 Taiwan)",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Borderline",
@@ -27713,7 +27725,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:107",
-    "ig6qlxqxoxvcxla:741"
+    "ig6qlxqxoxvcxla:765"
    ],
    "index_only": false,
    "local_only": false,
@@ -27751,7 +27763,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:741",
+     "rid": "ig6qlxqxoxvcxla:765",
      "source": "ig6qlxqxoxvcxla",
      "label": "Longlegs (2024)",
      "identifiers": [
@@ -27799,7 +27811,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:741": {
+    "ig6qlxqxoxvcxla:765": {
      "title": "Longlegs (2024)",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Borderline",
@@ -27847,7 +27859,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:108",
-    "ig6qlxqxoxvcxla:742"
+    "ig6qlxqxoxvcxla:766"
    ],
    "index_only": false,
    "local_only": false,
@@ -27881,7 +27893,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:742",
+     "rid": "ig6qlxqxoxvcxla:766",
      "source": "ig6qlxqxoxvcxla",
      "label": "Hypnotizing Mother-in-Law (1908)",
      "identifiers": [
@@ -27925,7 +27937,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:742": {
+    "ig6qlxqxoxvcxla:766": {
      "title": "Hypnotizing Mother-in-Law (1908)",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Borderline",
@@ -27963,7 +27975,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:109",
-    "ig6qlxqxoxvcxla:743"
+    "ig6qlxqxoxvcxla:767"
    ],
    "index_only": false,
    "local_only": false,
@@ -27997,7 +28009,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:743",
+     "rid": "ig6qlxqxoxvcxla:767",
      "source": "ig6qlxqxoxvcxla",
      "label": "Regression — short",
      "identifiers": [
@@ -28041,7 +28053,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:743": {
+    "ig6qlxqxoxvcxla:767": {
      "title": "Regression — short",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Borderline",
@@ -28079,7 +28091,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:110",
-    "ig6qlxqxoxvcxla:744"
+    "ig6qlxqxoxvcxla:768"
    ],
    "index_only": false,
    "local_only": false,
@@ -28113,7 +28125,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:744",
+     "rid": "ig6qlxqxoxvcxla:768",
      "source": "ig6qlxqxoxvcxla",
      "label": "Control (2022 Canada)",
      "identifiers": [
@@ -28158,7 +28170,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:744": {
+    "ig6qlxqxoxvcxla:768": {
      "title": "Control (2022 Canada)",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Borderline",
@@ -28227,7 +28239,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:111",
-    "ig6qlxqxoxvcxla:745"
+    "ig6qlxqxoxvcxla:769"
    ],
    "index_only": false,
    "local_only": false,
@@ -28261,7 +28273,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:745",
+     "rid": "ig6qlxqxoxvcxla:769",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Beldham (2024)",
      "identifiers": [
@@ -28305,7 +28317,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:745": {
+    "ig6qlxqxoxvcxla:769": {
      "title": "The Beldham (2024)",
      "category": "Mother with child hypnotized / mind-controlled",
      "group": "Borderline",
@@ -28367,7 +28379,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:112",
-    "ig6qlxqxoxvcxla:924",
+    "ig6qlxqxoxvcxla:948",
     "pregnant-intimacy:34"
    ],
    "index_only": false,
@@ -28415,7 +28427,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:924",
+     "rid": "ig6qlxqxoxvcxla:948",
      "source": "ig6qlxqxoxvcxla",
      "label": "Neon Bull (2015)",
      "identifiers": [
@@ -28501,7 +28513,7 @@ window.CATALOG = {
      ],
      "psg": "new-partner"
     },
-    "ig6qlxqxoxvcxla:924": {
+    "ig6qlxqxoxvcxla:948": {
      "title": "Neon Bull (2015)",
      "category": "Pregnant characters having sex",
      "group": "New / different partner / affair",
@@ -28572,7 +28584,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:113",
-    "ig6qlxqxoxvcxla:925"
+    "ig6qlxqxoxvcxla:949"
    ],
    "index_only": false,
    "local_only": false,
@@ -28607,7 +28619,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:925",
+     "rid": "ig6qlxqxoxvcxla:949",
      "source": "ig6qlxqxoxvcxla",
      "label": "Girls S06E08",
      "identifiers": [
@@ -28652,7 +28664,7 @@ window.CATALOG = {
      ],
      "psg": "new-partner"
     },
-    "ig6qlxqxoxvcxla:925": {
+    "ig6qlxqxoxvcxla:949": {
      "title": "Girls S06E08",
      "category": "Pregnant characters having sex",
      "group": "New / different partner / affair",
@@ -28708,8 +28720,8 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:114",
     "ig6qlxqxoxvcxla:97",
-    "ig6qlxqxoxvcxla:919",
-    "ig6qlxqxoxvcxla:940"
+    "ig6qlxqxoxvcxla:943",
+    "ig6qlxqxoxvcxla:964"
    ],
    "index_only": false,
    "local_only": false,
@@ -28807,7 +28819,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:919",
+     "rid": "ig6qlxqxoxvcxla:943",
      "source": "ig6qlxqxoxvcxla",
      "label": "Outlander S02E04–06",
      "identifiers": [
@@ -28831,7 +28843,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:940",
+     "rid": "ig6qlxqxoxvcxla:964",
      "source": "ig6qlxqxoxvcxla",
      "label": "Outlander",
      "identifiers": [],
@@ -28931,14 +28943,14 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:919": {
+    "ig6qlxqxoxvcxla:943": {
      "title": "Outlander S02E04–06",
      "category": "Pregnant characters having sex",
      "group": "With husband / established partner",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:940": {
+    "ig6qlxqxoxvcxla:964": {
      "title": "Outlander",
      "category": "Pregnant intimate scenes",
      "group": "Affectionate / romantic / marital",
@@ -28981,7 +28993,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:115",
     "ig6qlxqxoxvcxla:98",
-    "ig6qlxqxoxvcxla:920"
+    "ig6qlxqxoxvcxla:944"
    ],
    "index_only": false,
    "local_only": false,
@@ -29054,7 +29066,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:920",
+     "rid": "ig6qlxqxoxvcxla:944",
      "source": "ig6qlxqxoxvcxla",
      "label": "Superstore",
      "identifiers": [],
@@ -29127,7 +29139,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:920": {
+    "ig6qlxqxoxvcxla:944": {
      "title": "Superstore",
      "category": "Pregnant characters having sex",
      "group": "With husband / established partner",
@@ -29166,7 +29178,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:116",
     "ig6qlxqxoxvcxla:99",
-    "ig6qlxqxoxvcxla:921"
+    "ig6qlxqxoxvcxla:945"
    ],
    "index_only": false,
    "local_only": false,
@@ -29227,7 +29239,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:921",
+     "rid": "ig6qlxqxoxvcxla:945",
      "source": "ig6qlxqxoxvcxla",
      "label": "Fullness — short",
      "identifiers": [
@@ -29292,7 +29304,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:921": {
+    "ig6qlxqxoxvcxla:945": {
      "title": "Fullness — short",
      "category": "Pregnant characters having sex",
      "group": "With husband / established partner",
@@ -29368,7 +29380,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:117",
-    "ig6qlxqxoxvcxla:933",
+    "ig6qlxqxoxvcxla:957",
     "pregnant-intimacy:43"
    ],
    "index_only": false,
@@ -29420,7 +29432,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:933",
+     "rid": "ig6qlxqxoxvcxla:957",
      "source": "ig6qlxqxoxvcxla",
      "label": "Hung S02E01 — borderline",
      "identifiers": [
@@ -29538,7 +29550,7 @@ window.CATALOG = {
      ],
      "psg": "erotic-context"
     },
-    "ig6qlxqxoxvcxla:933": {
+    "ig6qlxqxoxvcxla:957": {
      "title": "Hung S02E01 — borderline",
      "category": "Pregnant characters having sex",
      "group": "Adult animation / sex-work",
@@ -29637,7 +29649,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:118",
-    "ig6qlxqxoxvcxla:948",
+    "ig6qlxqxoxvcxla:972",
     "pregnant-intimacy:32"
    ],
    "index_only": false,
@@ -29680,7 +29692,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:948",
+     "rid": "ig6qlxqxoxvcxla:972",
      "source": "ig6qlxqxoxvcxla",
      "label": "Knocked Up (2007)",
      "identifiers": [
@@ -29761,7 +29773,7 @@ window.CATALOG = {
      ],
      "pig": "attempted"
     },
-    "ig6qlxqxoxvcxla:948": {
+    "ig6qlxqxoxvcxla:972": {
      "title": "Knocked Up (2007)",
      "category": "Pregnant intimate scenes",
      "group": "Attempted / interrupted",
@@ -29826,7 +29838,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:119",
-    "ig6qlxqxoxvcxla:949"
+    "ig6qlxqxoxvcxla:973"
    ],
    "index_only": false,
    "local_only": false,
@@ -29864,7 +29876,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:949",
+     "rid": "ig6qlxqxoxvcxla:973",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Change-Up (2011)",
      "identifiers": [
@@ -29912,7 +29924,7 @@ window.CATALOG = {
      ],
      "pig": "attempted"
     },
-    "ig6qlxqxoxvcxla:949": {
+    "ig6qlxqxoxvcxla:973": {
      "title": "The Change-Up (2011)",
      "category": "Pregnant intimate scenes",
      "group": "Attempted / interrupted",
@@ -29955,8 +29967,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:120",
-    "ig6qlxqxoxvcxla:946",
-    "ig6qlxqxoxvcxla:985"
+    "ig6qlxqxoxvcxla:970",
+    "ig6qlxqxoxvcxla:1009"
    ],
    "index_only": false,
    "local_only": false,
@@ -29995,7 +30007,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:946",
+     "rid": "ig6qlxqxoxvcxla:970",
      "source": "ig6qlxqxoxvcxla",
      "label": "Friends S08E22",
      "identifiers": [
@@ -30019,7 +30031,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:985",
+     "rid": "ig6qlxqxoxvcxla:1009",
      "source": "ig6qlxqxoxvcxla",
      "label": "Friends",
      "identifiers": [],
@@ -30066,14 +30078,14 @@ window.CATALOG = {
      ],
      "pig": "labor"
     },
-    "ig6qlxqxoxvcxla:946": {
+    "ig6qlxqxoxvcxla:970": {
      "title": "Friends S08E22",
      "category": "Pregnant intimate scenes",
      "group": "Labor-induction discussion / attempted",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:985": {
+    "ig6qlxqxoxvcxla:1009": {
      "title": "Friends",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Adult offspring",
@@ -30111,7 +30123,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:121",
-    "ig6qlxqxoxvcxla:950"
+    "ig6qlxqxoxvcxla:974"
    ],
    "index_only": false,
    "local_only": false,
@@ -30145,7 +30157,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:950",
+     "rid": "ig6qlxqxoxvcxla:974",
      "source": "ig6qlxqxoxvcxla",
      "label": "Ready to Pop — short",
      "identifiers": [
@@ -30189,7 +30201,7 @@ window.CATALOG = {
      ],
      "pig": "attempted"
     },
-    "ig6qlxqxoxvcxla:950": {
+    "ig6qlxqxoxvcxla:974": {
      "title": "Ready to Pop — short",
      "category": "Pregnant intimate scenes",
      "group": "Attempted / interrupted",
@@ -30227,7 +30239,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:122",
-    "ig6qlxqxoxvcxla:936"
+    "ig6qlxqxoxvcxla:960"
    ],
    "index_only": false,
    "local_only": false,
@@ -30261,7 +30273,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:936",
+     "rid": "ig6qlxqxoxvcxla:960",
      "source": "ig6qlxqxoxvcxla",
      "label": "Un amour naissant (1992 short)",
      "identifiers": [
@@ -30306,7 +30318,7 @@ window.CATALOG = {
      ],
      "pig": "sensual"
     },
-    "ig6qlxqxoxvcxla:936": {
+    "ig6qlxqxoxvcxla:960": {
      "title": "Un amour naissant (1992 short)",
      "category": "Pregnant intimate scenes",
      "group": "Sensual / erotic short of intercourse",
@@ -30344,7 +30356,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:123",
-    "ig6qlxqxoxvcxla:951"
+    "ig6qlxqxoxvcxla:975"
    ],
    "index_only": false,
    "local_only": false,
@@ -30378,7 +30390,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:951",
+     "rid": "ig6qlxqxoxvcxla:975",
      "source": "ig6qlxqxoxvcxla",
      "label": "Celeste in Spring (2024)",
      "identifiers": [
@@ -30422,7 +30434,7 @@ window.CATALOG = {
      ],
      "pig": "attempted"
     },
-    "ig6qlxqxoxvcxla:951": {
+    "ig6qlxqxoxvcxla:975": {
      "title": "Celeste in Spring (2024)",
      "category": "Pregnant intimate scenes",
      "group": "Attempted / interrupted",
@@ -30460,7 +30472,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:124",
-    "ig6qlxqxoxvcxla:952"
+    "ig6qlxqxoxvcxla:976"
    ],
    "index_only": false,
    "local_only": false,
@@ -30495,7 +30507,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:952",
+     "rid": "ig6qlxqxoxvcxla:976",
      "source": "ig6qlxqxoxvcxla",
      "label": "Jane the Virgin S01E04",
      "identifiers": [
@@ -30540,7 +30552,7 @@ window.CATALOG = {
      ],
      "pig": "fantasy"
     },
-    "ig6qlxqxoxvcxla:952": {
+    "ig6qlxqxoxvcxla:976": {
      "title": "Jane the Virgin S01E04",
      "category": "Pregnant intimate scenes",
      "group": "Sexual fantasy",
@@ -30622,7 +30634,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:125",
     "ig6qlxqxoxvcxla:118",
-    "ig6qlxqxoxvcxla:1000",
+    "ig6qlxqxoxvcxla:1024",
     "mom-pregnancy:63"
    ],
    "index_only": false,
@@ -30753,7 +30765,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:1000",
+     "rid": "ig6qlxqxoxvcxla:1024",
      "source": "ig6qlxqxoxvcxla",
      "label": "Neighbors 2: Sorority Rising (2016)",
      "identifiers": [
@@ -30922,7 +30934,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:1000": {
+    "ig6qlxqxoxvcxla:1024": {
      "title": "Neighbors 2: Sorority Rising (2016)",
      "category": "Pregnant mother + child walk-in",
      "group": "Strongest candidate",
@@ -31268,7 +31280,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:127",
     "ig6qlxqxoxvcxla:123",
-    "ig6qlxqxoxvcxla:955"
+    "ig6qlxqxoxvcxla:979"
    ],
    "index_only": false,
    "local_only": false,
@@ -31349,7 +31361,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:955",
+     "rid": "ig6qlxqxoxvcxla:979",
      "source": "ig6qlxqxoxvcxla",
      "label": "That ’70s Show S01E21",
      "identifiers": [
@@ -31432,7 +31444,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:955": {
+    "ig6qlxqxoxvcxla:979": {
      "title": "That ’70s Show S01E21",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Strict shown — bedroom / sleeping room",
@@ -31663,7 +31675,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:129",
-    "ig6qlxqxoxvcxla:941",
+    "ig6qlxqxoxvcxla:965",
     "india-catalog:160",
     "mom-pregnancy:66"
    ],
@@ -31709,7 +31721,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:941",
+     "rid": "ig6qlxqxoxvcxla:965",
      "source": "ig6qlxqxoxvcxla",
      "label": "Badhaai Ho (2018)",
      "identifiers": [
@@ -31822,7 +31834,7 @@ window.CATALOG = {
      ],
      "pig": "romantic"
     },
-    "ig6qlxqxoxvcxla:941": {
+    "ig6qlxqxoxvcxla:965": {
      "title": "Badhaai Ho (2018)",
      "category": "Pregnant intimate scenes",
      "group": "Affectionate / romantic / marital",
@@ -32151,7 +32163,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:131",
     "ig6qlxqxoxvcxla:102",
-    "ig6qlxqxoxvcxla:954"
+    "ig6qlxqxoxvcxla:978"
    ],
    "index_only": false,
    "local_only": false,
@@ -32245,7 +32257,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:954",
+     "rid": "ig6qlxqxoxvcxla:978",
      "source": "ig6qlxqxoxvcxla",
      "label": "Modern Family S02E13",
      "identifiers": [
@@ -32342,7 +32354,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:954": {
+    "ig6qlxqxoxvcxla:978": {
      "title": "Modern Family S02E13",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Strict shown — bedroom / sleeping room",
@@ -33550,8 +33562,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:140",
-    "ig6qlxqxoxvcxla:800",
-    "ig6qlxqxoxvcxla:821",
+    "ig6qlxqxoxvcxla:824",
+    "ig6qlxqxoxvcxla:845",
     "hypnosis-assault-loose:22"
    ],
    "index_only": false,
@@ -33595,7 +33607,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:800",
+     "rid": "ig6qlxqxoxvcxla:824",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Stranger Within (1974)",
      "identifiers": [
@@ -33619,7 +33631,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:821",
+     "rid": "ig6qlxqxoxvcxla:845",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Stranger Within (1974)",
      "identifiers": [
@@ -33745,14 +33757,14 @@ window.CATALOG = {
      ],
      "strictProv": "Existing catalog record retained in the expanded category; plot evidence remains synopsis-level."
     },
-    "ig6qlxqxoxvcxla:800": {
+    "ig6qlxqxoxvcxla:824": {
      "title": "The Stranger Within (1974)",
      "category": "Pregnant woman controlled by a fetus, ghost child or alien child",
      "group": "Agentic unborn / fetal / alien controllers",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:821": {
+    "ig6qlxqxoxvcxla:845": {
      "title": "The Stranger Within (1974)",
      "category": "Pregnant woman hypnotized / mind-controlled",
      "group": "Doctor / psychiatrist",
@@ -33850,8 +33862,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:141",
-    "ig6qlxqxoxvcxla:823",
-    "ig6qlxqxoxvcxla:880"
+    "ig6qlxqxoxvcxla:847",
+    "ig6qlxqxoxvcxla:904"
    ],
    "index_only": false,
    "local_only": false,
@@ -33895,7 +33907,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:823",
+     "rid": "ig6qlxqxoxvcxla:847",
      "source": "ig6qlxqxoxvcxla",
      "label": "AHS: Delicate (2023–24)",
      "identifiers": [
@@ -33920,7 +33932,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:880",
+     "rid": "ig6qlxqxoxvcxla:904",
      "source": "ig6qlxqxoxvcxla",
      "label": "AHS: Delicate",
      "identifiers": [
@@ -33995,14 +34007,14 @@ window.CATALOG = {
      "variantProv": "Existing catalog record retained as a supernatural-trance case rather than clinical hypnosis.",
      "pg": "medium"
     },
-    "ig6qlxqxoxvcxla:823": {
+    "ig6qlxqxoxvcxla:847": {
      "title": "AHS: Delicate (2023–24)",
      "category": "Pregnant woman hypnotized / mind-controlled",
      "group": "Supernatural occult trance",
      "confidence": "Stronger / variant",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:880": {
+    "ig6qlxqxoxvcxla:904": {
      "title": "AHS: Delicate",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "Medium-confidence close variants",
@@ -34036,7 +34048,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:142",
     "ig6qlxqxoxvcxla:89",
-    "ig6qlxqxoxvcxla:911"
+    "ig6qlxqxoxvcxla:935"
    ],
    "index_only": false,
    "local_only": false,
@@ -34089,7 +34101,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:911",
+     "rid": "ig6qlxqxoxvcxla:935",
      "source": "ig6qlxqxoxvcxla",
      "label": "Stir of Echoes (1999)",
      "identifiers": [
@@ -34143,7 +34155,7 @@ window.CATALOG = {
       "sources": []
      }
     },
-    "ig6qlxqxoxvcxla:911": {
+    "ig6qlxqxoxvcxla:935": {
      "title": "Stir of Echoes (1999)",
      "category": "Pregnancy-adjacent hypnosis (reversed roles / past trauma)",
      "group": "Catalog records",
@@ -34251,9 +34263,9 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla:60",
     "ig6qlxqxoxvcxla:90",
     "ig6qlxqxoxvcxla:134",
-    "ig6qlxqxoxvcxla:244",
-    "ig6qlxqxoxvcxla:315",
-    "ig6qlxqxoxvcxla:912",
+    "ig6qlxqxoxvcxla:267",
+    "ig6qlxqxoxvcxla:338",
+    "ig6qlxqxoxvcxla:936",
     "worldwide-hypnosis:456",
     "hypnotized-love:7",
     "older-man-hypnosis:13"
@@ -34402,7 +34414,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:244",
+     "rid": "ig6qlxqxoxvcxla:267",
      "source": "ig6qlxqxoxvcxla",
      "label": "Hypnotic (2021)",
      "identifiers": [
@@ -34426,7 +34438,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:315",
+     "rid": "ig6qlxqxoxvcxla:338",
      "source": "ig6qlxqxoxvcxla",
      "label": "Hypnotic (2021)",
      "identifiers": [
@@ -34450,7 +34462,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:912",
+     "rid": "ig6qlxqxoxvcxla:936",
      "source": "ig6qlxqxoxvcxla",
      "label": "Hypnotic (2021)",
      "identifiers": [
@@ -34709,21 +34721,21 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:244": {
+    "ig6qlxqxoxvcxla:267": {
      "title": "Hypnotic (2021)",
      "category": "Forcibly hypnotized to obey",
      "group": "Doctor / psychiatrist",
      "confidence": "Stronger case",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:315": {
+    "ig6qlxqxoxvcxla:338": {
      "title": "Hypnotic (2021)",
      "category": "Wife hypnotized / controlled by a therapist",
      "group": "Evil / criminal exploitation",
      "confidence": "Strict match",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:912": {
+    "ig6qlxqxoxvcxla:936": {
      "title": "Hypnotic (2021)",
      "category": "Pregnancy-adjacent hypnosis (reversed roles / past trauma)",
      "group": "Catalog records",
@@ -34858,8 +34870,8 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:144",
     "ig6qlxqxoxvcxla:91",
-    "ig6qlxqxoxvcxla:854",
-    "ig6qlxqxoxvcxla:913"
+    "ig6qlxqxoxvcxla:878",
+    "ig6qlxqxoxvcxla:937"
    ],
    "index_only": false,
    "local_only": false,
@@ -34927,7 +34939,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:854",
+     "rid": "ig6qlxqxoxvcxla:878",
      "source": "ig6qlxqxoxvcxla",
      "label": "Beyond the Door (1974)",
      "identifiers": [
@@ -34951,7 +34963,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:913",
+     "rid": "ig6qlxqxoxvcxla:937",
      "source": "ig6qlxqxoxvcxla",
      "label": "Beyond the Door (1974)",
      "identifiers": [
@@ -35021,14 +35033,14 @@ window.CATALOG = {
       "sources": []
      }
     },
-    "ig6qlxqxoxvcxla:854": {
+    "ig6qlxqxoxvcxla:878": {
      "title": "Beyond the Door (1974)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "High-confidence direct control / possession",
      "confidence": "High confidence",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:913": {
+    "ig6qlxqxoxvcxla:937": {
      "title": "Beyond the Door (1974)",
      "category": "Pregnancy-adjacent hypnosis (reversed roles / past trauma)",
      "group": "Catalog records",
@@ -35107,8 +35119,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:145",
-    "ig6qlxqxoxvcxla:665",
-    "ig6qlxqxoxvcxla:855",
+    "ig6qlxqxoxvcxla:689",
+    "ig6qlxqxoxvcxla:879",
     "worldwide-hypnosis:257",
     "hypnosis-assault-loose:19"
    ],
@@ -35157,7 +35169,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:665",
+     "rid": "ig6qlxqxoxvcxla:689",
      "source": "ig6qlxqxoxvcxla",
      "label": "Demon Seed (1977)",
      "identifiers": [
@@ -35181,7 +35193,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:855",
+     "rid": "ig6qlxqxoxvcxla:879",
      "source": "ig6qlxqxoxvcxla",
      "label": "Demon Seed (1977)",
      "identifiers": [
@@ -35329,14 +35341,14 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:665": {
+    "ig6qlxqxoxvcxla:689": {
      "title": "Demon Seed (1977)",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:855": {
+    "ig6qlxqxoxvcxla:879": {
      "title": "Demon Seed (1977)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "High-confidence direct control / possession",
@@ -35489,7 +35501,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:146",
-    "ig6qlxqxoxvcxla:856"
+    "ig6qlxqxoxvcxla:880"
    ],
    "index_only": false,
    "local_only": false,
@@ -35536,7 +35548,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:856",
+     "rid": "ig6qlxqxoxvcxla:880",
      "source": "ig6qlxqxoxvcxla",
      "label": "Inseminoid (1981)",
      "identifiers": [
@@ -35593,7 +35605,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:856": {
+    "ig6qlxqxoxvcxla:880": {
      "title": "Inseminoid (1981)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "High-confidence direct control / possession",
@@ -35688,8 +35700,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:147",
-    "ig6qlxqxoxvcxla:801",
-    "ig6qlxqxoxvcxla:857"
+    "ig6qlxqxoxvcxla:825",
+    "ig6qlxqxoxvcxla:881"
    ],
    "index_only": false,
    "local_only": false,
@@ -35737,7 +35749,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:801",
+     "rid": "ig6qlxqxoxvcxla:825",
      "source": "ig6qlxqxoxvcxla",
      "label": "Devil Fetus / 魔胎 (1983 Hong Kong)",
      "identifiers": [
@@ -35762,7 +35774,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:857",
+     "rid": "ig6qlxqxoxvcxla:881",
      "source": "ig6qlxqxoxvcxla",
      "label": "Devil Fetus (1983)",
      "identifiers": [
@@ -35821,14 +35833,14 @@ window.CATALOG = {
      ],
      "pcg": "fetal"
     },
-    "ig6qlxqxoxvcxla:801": {
+    "ig6qlxqxoxvcxla:825": {
      "title": "Devil Fetus / 魔胎 (1983 Hong Kong)",
      "category": "Pregnant woman controlled by a fetus, ghost child or alien child",
      "group": "Agentic unborn / fetal / alien controllers",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:857": {
+    "ig6qlxqxoxvcxla:881": {
      "title": "Devil Fetus (1983)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "High-confidence direct control / possession",
@@ -35876,9 +35888,9 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:148",
-    "ig6qlxqxoxvcxla:791",
-    "ig6qlxqxoxvcxla:802",
-    "ig6qlxqxoxvcxla:858"
+    "ig6qlxqxoxvcxla:815",
+    "ig6qlxqxoxvcxla:826",
+    "ig6qlxqxoxvcxla:882"
    ],
    "index_only": false,
    "local_only": false,
@@ -35923,7 +35935,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:791",
+     "rid": "ig6qlxqxoxvcxla:815",
      "source": "ig6qlxqxoxvcxla",
      "label": "Baby Blood (1990)",
      "identifiers": [
@@ -35947,7 +35959,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:802",
+     "rid": "ig6qlxqxoxvcxla:826",
      "source": "ig6qlxqxoxvcxla",
      "label": "Baby Blood (1990)",
      "identifiers": [
@@ -35971,7 +35983,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:858",
+     "rid": "ig6qlxqxoxvcxla:882",
      "source": "ig6qlxqxoxvcxla",
      "label": "Baby Blood (1990)",
      "identifiers": [
@@ -36028,21 +36040,21 @@ window.CATALOG = {
      "ccg": "unborn",
      "pcg": "fetal"
     },
-    "ig6qlxqxoxvcxla:791": {
+    "ig6qlxqxoxvcxla:815": {
      "title": "Baby Blood (1990)",
      "category": "Female character controlled by a child / teen",
      "group": "Unborn / fetal controllers",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:802": {
+    "ig6qlxqxoxvcxla:826": {
      "title": "Baby Blood (1990)",
      "category": "Pregnant woman controlled by a fetus, ghost child or alien child",
      "group": "Agentic unborn / fetal / alien controllers",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:858": {
+    "ig6qlxqxoxvcxla:882": {
      "title": "Baby Blood (1990)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "High-confidence direct control / possession",
@@ -36107,8 +36119,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:149",
-    "ig6qlxqxoxvcxla:803",
-    "ig6qlxqxoxvcxla:859"
+    "ig6qlxqxoxvcxla:827",
+    "ig6qlxqxoxvcxla:883"
    ],
    "index_only": false,
    "local_only": false,
@@ -36151,7 +36163,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:803",
+     "rid": "ig6qlxqxoxvcxla:827",
      "source": "ig6qlxqxoxvcxla",
      "label": "Progeny (1998)",
      "identifiers": [
@@ -36175,7 +36187,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:859",
+     "rid": "ig6qlxqxoxvcxla:883",
      "source": "ig6qlxqxoxvcxla",
      "label": "Progeny (1998)",
      "identifiers": [
@@ -36229,14 +36241,14 @@ window.CATALOG = {
      ],
      "pcg": "fetal"
     },
-    "ig6qlxqxoxvcxla:803": {
+    "ig6qlxqxoxvcxla:827": {
      "title": "Progeny (1998)",
      "category": "Pregnant woman controlled by a fetus, ghost child or alien child",
      "group": "Agentic unborn / fetal / alien controllers",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:859": {
+    "ig6qlxqxoxvcxla:883": {
      "title": "Progeny (1998)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "High-confidence direct control / possession",
@@ -36291,8 +36303,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:150",
-    "ig6qlxqxoxvcxla:804",
-    "ig6qlxqxoxvcxla:860"
+    "ig6qlxqxoxvcxla:828",
+    "ig6qlxqxoxvcxla:884"
    ],
    "index_only": false,
    "local_only": false,
@@ -36343,7 +36355,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:804",
+     "rid": "ig6qlxqxoxvcxla:828",
      "source": "ig6qlxqxoxvcxla",
      "label": "Born (2007)",
      "identifiers": [
@@ -36367,7 +36379,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:860",
+     "rid": "ig6qlxqxoxvcxla:884",
      "source": "ig6qlxqxoxvcxla",
      "label": "Born (2007)",
      "identifiers": [
@@ -36429,14 +36441,14 @@ window.CATALOG = {
      ],
      "pcg": "fetal"
     },
-    "ig6qlxqxoxvcxla:804": {
+    "ig6qlxqxoxvcxla:828": {
      "title": "Born (2007)",
      "category": "Pregnant woman controlled by a fetus, ghost child or alien child",
      "group": "Agentic unborn / fetal / alien controllers",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:860": {
+    "ig6qlxqxoxvcxla:884": {
      "title": "Born (2007)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "High-confidence direct control / possession",
@@ -36482,7 +36494,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:151",
-    "ig6qlxqxoxvcxla:861"
+    "ig6qlxqxoxvcxla:885"
    ],
    "index_only": false,
    "local_only": false,
@@ -36524,7 +36536,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:861",
+     "rid": "ig6qlxqxoxvcxla:885",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Last Exorcism (2010)",
      "identifiers": [
@@ -36576,7 +36588,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:861": {
+    "ig6qlxqxoxvcxla:885": {
      "title": "The Last Exorcism (2010)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "High-confidence direct control / possession",
@@ -36683,9 +36695,9 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:152",
-    "ig6qlxqxoxvcxla:873",
-    "ig6qlxqxoxvcxla:898",
-    "ig6qlxqxoxvcxla:901",
+    "ig6qlxqxoxvcxla:897",
+    "ig6qlxqxoxvcxla:922",
+    "ig6qlxqxoxvcxla:925",
     "india-catalog:144",
     "worldwide-hypnosis:88",
     "devil-deal-hypnosis:1",
@@ -36755,7 +36767,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:873",
+     "rid": "ig6qlxqxoxvcxla:897",
      "source": "ig6qlxqxoxvcxla",
      "label": "Bandh Darwaza (1990)",
      "identifiers": [
@@ -36779,7 +36791,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:898",
+     "rid": "ig6qlxqxoxvcxla:922",
      "source": "ig6qlxqxoxvcxla",
      "label": "Bandh Darwaza (1990)",
      "identifiers": [
@@ -36803,7 +36815,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:901",
+     "rid": "ig6qlxqxoxvcxla:925",
      "source": "ig6qlxqxoxvcxla",
      "label": "Bandh Darwaza",
      "identifiers": [],
@@ -37058,21 +37070,21 @@ window.CATALOG = {
      "ddg": "unknowing-yes",
      "ahg": "wife"
     },
-    "ig6qlxqxoxvcxla:873": {
+    "ig6qlxqxoxvcxla:897": {
      "title": "Bandh Darwaza (1990)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "Medium-confidence close variants",
      "confidence": "Medium / close",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:898": {
+    "ig6qlxqxoxvcxla:922": {
      "title": "Bandh Darwaza (1990)",
      "category": "Pregnant women hypnotized / mind-controlled — India",
      "group": "Close variant — hypnosis causes pregnancy",
      "confidence": "Close / provisional",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:901": {
+    "ig6qlxqxoxvcxla:925": {
      "title": "Bandh Darwaza",
      "category": "Pregnant women controlled — India & Indonesia",
      "group": "India films",
@@ -37280,11 +37292,11 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:153",
-    "ig6qlxqxoxvcxla:792",
-    "ig6qlxqxoxvcxla:805",
-    "ig6qlxqxoxvcxla:862",
-    "ig6qlxqxoxvcxla:892",
-    "ig6qlxqxoxvcxla:902",
+    "ig6qlxqxoxvcxla:816",
+    "ig6qlxqxoxvcxla:829",
+    "ig6qlxqxoxvcxla:886",
+    "ig6qlxqxoxvcxla:916",
+    "ig6qlxqxoxvcxla:926",
     "india-catalog:145"
    ],
    "index_only": false,
@@ -37327,7 +37339,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:792",
+     "rid": "ig6qlxqxoxvcxla:816",
      "source": "ig6qlxqxoxvcxla",
      "label": "Help (2010)",
      "identifiers": [
@@ -37351,7 +37363,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:805",
+     "rid": "ig6qlxqxoxvcxla:829",
      "source": "ig6qlxqxoxvcxla",
      "label": "Help (2010)",
      "identifiers": [
@@ -37375,7 +37387,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:862",
+     "rid": "ig6qlxqxoxvcxla:886",
      "source": "ig6qlxqxoxvcxla",
      "label": "Help (2010)",
      "identifiers": [
@@ -37399,7 +37411,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:892",
+     "rid": "ig6qlxqxoxvcxla:916",
      "source": "ig6qlxqxoxvcxla",
      "label": "Help",
      "identifiers": [],
@@ -37421,7 +37433,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:902",
+     "rid": "ig6qlxqxoxvcxla:926",
      "source": "ig6qlxqxoxvcxla",
      "label": "Help",
      "identifiers": [],
@@ -37494,35 +37506,35 @@ window.CATALOG = {
      "ccg": "unborn",
      "pcg": "fetal"
     },
-    "ig6qlxqxoxvcxla:792": {
+    "ig6qlxqxoxvcxla:816": {
      "title": "Help (2010)",
      "category": "Female character controlled by a child / teen",
      "group": "Unborn / fetal controllers",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:805": {
+    "ig6qlxqxoxvcxla:829": {
      "title": "Help (2010)",
      "category": "Pregnant woman controlled by a fetus, ghost child or alien child",
      "group": "Agentic unborn / fetal / alien controllers",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:862": {
+    "ig6qlxqxoxvcxla:886": {
      "title": "Help (2010)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "High-confidence direct control / possession",
      "confidence": "High confidence",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:892": {
+    "ig6qlxqxoxvcxla:916": {
      "title": "Help",
      "category": "Pregnant women hypnotized / mind-controlled — India",
      "group": "High-confidence pregnancy-era control",
      "confidence": "High confidence",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:902": {
+    "ig6qlxqxoxvcxla:926": {
      "title": "Help",
      "category": "Pregnant women controlled — India & Indonesia",
      "group": "India films",
@@ -37578,10 +37590,10 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:154",
-    "ig6qlxqxoxvcxla:460",
-    "ig6qlxqxoxvcxla:863",
-    "ig6qlxqxoxvcxla:893",
-    "ig6qlxqxoxvcxla:903",
+    "ig6qlxqxoxvcxla:484",
+    "ig6qlxqxoxvcxla:887",
+    "ig6qlxqxoxvcxla:917",
+    "ig6qlxqxoxvcxla:927",
     "india-catalog:151"
    ],
    "index_only": false,
@@ -37620,7 +37632,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:460",
+     "rid": "ig6qlxqxoxvcxla:484",
      "source": "ig6qlxqxoxvcxla",
      "label": "Lapachhapi",
      "identifiers": [],
@@ -37642,7 +37654,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:863",
+     "rid": "ig6qlxqxoxvcxla:887",
      "source": "ig6qlxqxoxvcxla",
      "label": "Lapachhapi (2017)",
      "identifiers": [
@@ -37666,7 +37678,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:893",
+     "rid": "ig6qlxqxoxvcxla:917",
      "source": "ig6qlxqxoxvcxla",
      "label": "Lapachhapi",
      "identifiers": [],
@@ -37688,7 +37700,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:903",
+     "rid": "ig6qlxqxoxvcxla:927",
      "source": "ig6qlxqxoxvcxla",
      "label": "Lapachhapi",
      "identifiers": [],
@@ -37756,28 +37768,28 @@ window.CATALOG = {
      ],
      "icg": "supernatural"
     },
-    "ig6qlxqxoxvcxla:460": {
+    "ig6qlxqxoxvcxla:484": {
      "title": "Lapachhapi",
      "category": "Female hypnosis / mind control — India",
      "group": "Spirit / ghost / paranormal control",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:863": {
+    "ig6qlxqxoxvcxla:887": {
      "title": "Lapachhapi (2017)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "High-confidence direct control / possession",
      "confidence": "High confidence",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:893": {
+    "ig6qlxqxoxvcxla:917": {
      "title": "Lapachhapi",
      "category": "Pregnant women hypnotized / mind-controlled — India",
      "group": "High-confidence pregnancy-era control",
      "confidence": "High confidence",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:903": {
+    "ig6qlxqxoxvcxla:927": {
      "title": "Lapachhapi",
      "category": "Pregnant women controlled — India & Indonesia",
      "group": "India films",
@@ -37833,10 +37845,10 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:155",
-    "ig6qlxqxoxvcxla:461",
-    "ig6qlxqxoxvcxla:864",
-    "ig6qlxqxoxvcxla:894",
-    "ig6qlxqxoxvcxla:904",
+    "ig6qlxqxoxvcxla:485",
+    "ig6qlxqxoxvcxla:888",
+    "ig6qlxqxoxvcxla:918",
+    "ig6qlxqxoxvcxla:928",
     "india-catalog:146"
    ],
    "index_only": false,
@@ -37875,7 +37887,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:461",
+     "rid": "ig6qlxqxoxvcxla:485",
      "source": "ig6qlxqxoxvcxla",
      "label": "Chhorii",
      "identifiers": [],
@@ -37897,7 +37909,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:864",
+     "rid": "ig6qlxqxoxvcxla:888",
      "source": "ig6qlxqxoxvcxla",
      "label": "Chhorii (2021)",
      "identifiers": [
@@ -37921,7 +37933,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:894",
+     "rid": "ig6qlxqxoxvcxla:918",
      "source": "ig6qlxqxoxvcxla",
      "label": "Chhorii",
      "identifiers": [],
@@ -37943,7 +37955,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:904",
+     "rid": "ig6qlxqxoxvcxla:928",
      "source": "ig6qlxqxoxvcxla",
      "label": "Chhorii",
      "identifiers": [],
@@ -38011,28 +38023,28 @@ window.CATALOG = {
      ],
      "icg": "supernatural"
     },
-    "ig6qlxqxoxvcxla:461": {
+    "ig6qlxqxoxvcxla:485": {
      "title": "Chhorii",
      "category": "Female hypnosis / mind control — India",
      "group": "Spirit / ghost / paranormal control",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:864": {
+    "ig6qlxqxoxvcxla:888": {
      "title": "Chhorii (2021)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "High-confidence direct control / possession",
      "confidence": "High confidence",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:894": {
+    "ig6qlxqxoxvcxla:918": {
      "title": "Chhorii",
      "category": "Pregnant women hypnotized / mind-controlled — India",
      "group": "High-confidence pregnancy-era control",
      "confidence": "High confidence",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:904": {
+    "ig6qlxqxoxvcxla:928": {
      "title": "Chhorii",
      "category": "Pregnant women controlled — India & Indonesia",
      "group": "India films",
@@ -38123,11 +38135,11 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:156",
-    "ig6qlxqxoxvcxla:462",
-    "ig6qlxqxoxvcxla:631",
-    "ig6qlxqxoxvcxla:865",
-    "ig6qlxqxoxvcxla:895",
-    "ig6qlxqxoxvcxla:905",
+    "ig6qlxqxoxvcxla:486",
+    "ig6qlxqxoxvcxla:655",
+    "ig6qlxqxoxvcxla:889",
+    "ig6qlxqxoxvcxla:919",
+    "ig6qlxqxoxvcxla:929",
     "india-catalog:147"
    ],
    "index_only": false,
@@ -38193,7 +38205,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:462",
+     "rid": "ig6qlxqxoxvcxla:486",
      "source": "ig6qlxqxoxvcxla",
      "label": "Sasural Simar Ka",
      "identifiers": [],
@@ -38215,7 +38227,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:631",
+     "rid": "ig6qlxqxoxvcxla:655",
      "source": "ig6qlxqxoxvcxla",
      "label": "Sasural Simar Ka",
      "identifiers": [],
@@ -38237,7 +38249,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:865",
+     "rid": "ig6qlxqxoxvcxla:889",
      "source": "ig6qlxqxoxvcxla",
      "label": "Sasural Simar Ka",
      "identifiers": [],
@@ -38259,7 +38271,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:895",
+     "rid": "ig6qlxqxoxvcxla:919",
      "source": "ig6qlxqxoxvcxla",
      "label": "Sasural Simar Ka",
      "identifiers": [],
@@ -38281,7 +38293,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:905",
+     "rid": "ig6qlxqxoxvcxla:929",
      "source": "ig6qlxqxoxvcxla",
      "label": "Sasural Simar Ka",
      "identifiers": [],
@@ -38387,35 +38399,35 @@ window.CATALOG = {
      "polygamySrc": [],
      "polygamyProv": "Worldwide seven-vector sweep plus strict-scope supplement, 1 Oct 2026 · Wikipedia · Filmibeat · SerialGossip · IndiaForums"
     },
-    "ig6qlxqxoxvcxla:462": {
+    "ig6qlxqxoxvcxla:486": {
      "title": "Sasural Simar Ka",
      "category": "Female hypnosis / mind control — India",
      "group": "Spirit / ghost / paranormal control",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:631": {
+    "ig6qlxqxoxvcxla:655": {
      "title": "Sasural Simar Ka",
      "category": "Tantrik / black-magic control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:865": {
+    "ig6qlxqxoxvcxla:889": {
      "title": "Sasural Simar Ka",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "High-confidence direct control / possession",
      "confidence": "High confidence",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:895": {
+    "ig6qlxqxoxvcxla:919": {
      "title": "Sasural Simar Ka",
      "category": "Pregnant women hypnotized / mind-controlled — India",
      "group": "High-confidence pregnancy-era control",
      "confidence": "High confidence",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:905": {
+    "ig6qlxqxoxvcxla:929": {
      "title": "Sasural Simar Ka",
      "category": "Pregnant women controlled — India & Indonesia",
      "group": "India television & soaps",
@@ -38474,7 +38486,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:157",
-    "ig6qlxqxoxvcxla:866"
+    "ig6qlxqxoxvcxla:890"
    ],
    "index_only": false,
    "local_only": false,
@@ -38517,7 +38529,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:866",
+     "rid": "ig6qlxqxoxvcxla:890",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Devil Incarnate / Copiii (2013)",
      "identifiers": [
@@ -38571,7 +38583,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:866": {
+    "ig6qlxqxoxvcxla:890": {
      "title": "The Devil Incarnate / Copiii (2013)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "High-confidence direct control / possession",
@@ -38590,7 +38602,7 @@ window.CATALOG = {
    "confidence_flag": "High confidence · full-recap verified",
    "summary": "The ghost Shanti possesses and hypnotizes Sonya, driving her to break things, attack her husband, force out her mother-in-law and doctor, and attempt premature delivery that same day. Dhruv and his mother recover the bodies from a well and perform last rites; the spirits depart and Sonya is later safe with her newborn.",
    "character": "Sonya · six months pregnant",
-   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "provenance": "Added with its single-source confidence label in the 9 Oct 2026 Indian female-hypnosis platform sweep.",
    "note": "",
    "format": "tv",
    "categories": [
@@ -38600,7 +38612,8 @@ window.CATALOG = {
     "adult-hypnosis",
     "indian-female-hypnosis",
     "adult-pregnancy",
-    "spirit"
+    "spirit",
+    "villain"
    ],
    "sources": [
     {
@@ -38626,6 +38639,10 @@ window.CATALOG = {
     {
      "label": "ZEE5",
      "url": "https://www.zee5.com/tv-shows/details/laal-ishq/0-6-tvshow_1306724328/shaitan-ki-beti/0-1-168587"
+    },
+    {
+     "label": "TellyUpdates",
+     "url": "https://www.tellyupdates.com/laal-ishq-23rd-september-2018-written-episode-update-ganjeshji-saves-atul-from-evil-tantrik-adarsh/"
     }
    ],
    "youtube_ids": [],
@@ -38638,12 +38655,13 @@ window.CATALOG = {
     "xla62ucxbx02u5:158",
     "xla62ucxbx02u5:765",
     "xla62ucxbx02u5:812",
-    "ig6qlxqxoxvcxla:192",
-    "ig6qlxqxoxvcxla:867",
-    "ig6qlxqxoxvcxla:896",
-    "ig6qlxqxoxvcxla:900",
-    "ig6qlxqxoxvcxla:906",
-    "ig6qlxqxoxvcxla:909",
+    "ig6qlxqxoxvcxla:178",
+    "ig6qlxqxoxvcxla:214",
+    "ig6qlxqxoxvcxla:891",
+    "ig6qlxqxoxvcxla:920",
+    "ig6qlxqxoxvcxla:924",
+    "ig6qlxqxoxvcxla:930",
+    "ig6qlxqxoxvcxla:933",
     "india-catalog:148"
    ],
    "index_only": false,
@@ -38755,7 +38773,37 @@ window.CATALOG = {
      "distinct_story": true
     },
     {
-     "rid": "ig6qlxqxoxvcxla:192",
+     "rid": "ig6qlxqxoxvcxla:178",
+     "source": "ig6qlxqxoxvcxla",
+     "label": "Laal Ishq — Ganjeshji Saves Atul From Evil Tantrik Adarsh (2018)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "Laal Ishq — Ganjeshji Saves Atul From Evil Tantrik Adarsh",
+     "subtitle": "",
+     "year": "2018",
+     "meta": "TV horror anthology episode · India · Hindi · &TV",
+     "summary": "Evil tantrik Adarsh hypnotizes Dhristi by eye contact so she will hand over her young son Atul for a human-sacrifice pooja; Adarsh has already used boys in the ritual and treats Atul as a replacement victim.",
+     "character": "Dhristi",
+     "note": "Single-source record: supported by one TellyUpdates recap. Distinct from the two other cataloged Laal Ishq episodes. Pregnancy is unknown. Dhristi already has one son, Atul, and no family-status change is stated by the end.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "villain"
+     ],
+     "sources": [
+      {
+       "label": "TellyUpdates",
+       "url": "https://www.tellyupdates.com/laal-ishq-23rd-september-2018-written-episode-update-ganjeshji-saves-atul-from-evil-tantrik-adarsh/"
+      }
+     ],
+     "distinct_story": true,
+     "index_title": "Laal Ishq — Ganjeshji Saves Atul From Evil Tantrik Adarsh",
+     "matched_by": "alias"
+    },
+    {
+     "rid": "ig6qlxqxoxvcxla:214",
      "source": "ig6qlxqxoxvcxla",
      "label": "Laal Ishq “Shaitan Ki Beti”",
      "identifiers": [
@@ -38779,7 +38827,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:867",
+     "rid": "ig6qlxqxoxvcxla:891",
      "source": "ig6qlxqxoxvcxla",
      "label": "Laal Ishq “Dhruv, Sonya, Unhappy Pregnant Soul” (2018)",
      "identifiers": [
@@ -38804,7 +38852,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:896",
+     "rid": "ig6qlxqxoxvcxla:920",
      "source": "ig6qlxqxoxvcxla",
      "label": "Laal Ishq “Dhruv, Sonya, Unhappy Pregnant Soul”",
      "identifiers": [
@@ -38828,7 +38876,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:900",
+     "rid": "ig6qlxqxoxvcxla:924",
      "source": "ig6qlxqxoxvcxla",
      "label": "Laal Ishq “Shaitan Ki Beti” (2018) — provisional",
      "identifiers": [
@@ -38853,7 +38901,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:906",
+     "rid": "ig6qlxqxoxvcxla:930",
      "source": "ig6qlxqxoxvcxla",
      "label": "Laal Ishq “Dhruv, Sonya, Unhappy Pregnant Soul”",
      "identifiers": [
@@ -38877,7 +38925,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:909",
+     "rid": "ig6qlxqxoxvcxla:933",
      "source": "ig6qlxqxoxvcxla",
      "label": "Laal Ishq “Shaitan Ki Beti”",
      "identifiers": [
@@ -39009,42 +39057,71 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:192": {
+    "ig6qlxqxoxvcxla:178": {
+     "detailed": {
+      "cat": 21,
+      "title": "Laal Ishq — Ganjeshji Saves Atul From Evil Tantrik Adarsh",
+      "year": "2018",
+      "meta": "TV horror anthology episode · India · Hindi · &TV",
+      "subgroup": "Tantrik human-sacrifice plot",
+      "summary": "Evil tantrik Adarsh hypnotizes Dhristi by eye contact so she will hand over her young son Atul for a human-sacrifice pooja; Adarsh has already used boys in the ritual and treats Atul as a replacement victim.",
+      "note": "Single-source record: supported by one TellyUpdates recap. Distinct from the two other cataloged Laal Ishq episodes. Pregnancy is unknown. Dhristi already has one son, Atul, and no family-status change is stated by the end.",
+      "character": "Dhristi",
+      "mechanism": "Eye-contact hypnosis",
+      "controller": "Tantrik Adarsh",
+      "motive": "Obtain Atul for a human-sacrifice ritual",
+      "tags": [
+       "Villain / tantrik control — India",
+       "Mother with child hypnotized / mind-controlled",
+       "Single-source",
+       "Pregnancy status · unknown",
+       "Child before and by end · son Atul"
+      ],
+      "sources": [
+       {
+        "name": "TellyUpdates",
+        "url": "https://www.tellyupdates.com/laal-ishq-23rd-september-2018-written-episode-update-ganjeshji-saves-atul-from-evil-tantrik-adarsh/"
+       }
+      ],
+      "provenance": "Added with its single-source confidence label in the 9 Oct 2026 Indian female-hypnosis platform sweep."
+     }
+    },
+    "ig6qlxqxoxvcxla:214": {
      "title": "Laal Ishq “Shaitan Ki Beti”",
      "category": "Pregnant woman controlled — adult context & rating evidence",
      "group": "Provisional / implied leads",
      "confidence": "Provisional",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:867": {
+    "ig6qlxqxoxvcxla:891": {
      "title": "Laal Ishq “Dhruv, Sonya, Unhappy Pregnant Soul” (2018)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "High-confidence direct control / possession",
      "confidence": "High confidence",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:896": {
+    "ig6qlxqxoxvcxla:920": {
      "title": "Laal Ishq “Dhruv, Sonya, Unhappy Pregnant Soul”",
      "category": "Pregnant women hypnotized / mind-controlled — India",
      "group": "High-confidence pregnancy-era control",
      "confidence": "High confidence",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:900": {
+    "ig6qlxqxoxvcxla:924": {
      "title": "Laal Ishq “Shaitan Ki Beti” (2018) — provisional",
      "category": "Pregnant women hypnotized / mind-controlled — India",
      "group": "Close variant — hypnosis causes pregnancy",
      "confidence": "Close / provisional",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:906": {
+    "ig6qlxqxoxvcxla:930": {
      "title": "Laal Ishq “Dhruv, Sonya, Unhappy Pregnant Soul”",
      "category": "Pregnant women controlled — India & Indonesia",
      "group": "India television & soaps",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:909": {
+    "ig6qlxqxoxvcxla:933": {
      "title": "Laal Ishq “Shaitan Ki Beti”",
      "category": "Pregnant women controlled — India & Indonesia",
      "group": "India television & soaps",
@@ -39156,9 +39233,9 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:159",
-    "ig6qlxqxoxvcxla:868",
-    "ig6qlxqxoxvcxla:897",
-    "ig6qlxqxoxvcxla:907",
+    "ig6qlxqxoxvcxla:892",
+    "ig6qlxqxoxvcxla:921",
+    "ig6qlxqxoxvcxla:931",
     "india-catalog:149",
     "hypnosis-assault-loose:18"
    ],
@@ -39214,7 +39291,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:868",
+     "rid": "ig6qlxqxoxvcxla:892",
      "source": "ig6qlxqxoxvcxla",
      "label": "Naagin 3 — Vish / Hukum / Andhka arc",
      "identifiers": [
@@ -39238,7 +39315,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:897",
+     "rid": "ig6qlxqxoxvcxla:921",
      "source": "ig6qlxqxoxvcxla",
      "label": "Naagin 3",
      "identifiers": [],
@@ -39260,7 +39337,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:907",
+     "rid": "ig6qlxqxoxvcxla:931",
      "source": "ig6qlxqxoxvcxla",
      "label": "Naagin 3",
      "identifiers": [],
@@ -39421,21 +39498,21 @@ window.CATALOG = {
      ],
      "loveNote": "This love-category reading concerns Bela's September 2018 Shahnawaz arc; the same catalog record also covers Vish's separate 2019 controlled-pregnancy arc."
     },
-    "ig6qlxqxoxvcxla:868": {
+    "ig6qlxqxoxvcxla:892": {
      "title": "Naagin 3 — Vish / Hukum / Andhka arc",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "High-confidence direct control / possession",
      "confidence": "High confidence",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:897": {
+    "ig6qlxqxoxvcxla:921": {
      "title": "Naagin 3",
      "category": "Pregnant women hypnotized / mind-controlled — India",
      "group": "High-confidence pregnancy-era control",
      "confidence": "High confidence",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:907": {
+    "ig6qlxqxoxvcxla:931": {
      "title": "Naagin 3",
      "category": "Pregnant women controlled — India & Indonesia",
      "group": "India television & soaps",
@@ -39559,8 +39636,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:160",
-    "ig6qlxqxoxvcxla:874",
-    "ig6qlxqxoxvcxla:910"
+    "ig6qlxqxoxvcxla:898",
+    "ig6qlxqxoxvcxla:934"
    ],
    "index_only": false,
    "local_only": false,
@@ -39603,7 +39680,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:874",
+     "rid": "ig6qlxqxoxvcxla:898",
      "source": "ig6qlxqxoxvcxla",
      "label": "Iblis dalam Kandungan (2022)",
      "identifiers": [
@@ -39627,7 +39704,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:910",
+     "rid": "ig6qlxqxoxvcxla:934",
      "source": "ig6qlxqxoxvcxla",
      "label": "Iblis dalam Kandungan (2022)",
      "identifiers": [
@@ -39680,14 +39757,14 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:874": {
+    "ig6qlxqxoxvcxla:898": {
      "title": "Iblis dalam Kandungan (2022)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "Medium-confidence close variants",
      "confidence": "Medium / close",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:910": {
+    "ig6qlxqxoxvcxla:934": {
      "title": "Iblis dalam Kandungan (2022)",
      "category": "Pregnant women controlled — India & Indonesia",
      "group": "Indonesia films",
@@ -39742,8 +39819,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:161",
-    "ig6qlxqxoxvcxla:397",
-    "ig6qlxqxoxvcxla:869"
+    "ig6qlxqxoxvcxla:420",
+    "ig6qlxqxoxvcxla:893"
    ],
    "index_only": false,
    "local_only": false,
@@ -39794,7 +39871,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:397",
+     "rid": "ig6qlxqxoxvcxla:420",
      "source": "ig6qlxqxoxvcxla",
      "label": "Malignant (2021)",
      "identifiers": [
@@ -39818,7 +39895,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:869",
+     "rid": "ig6qlxqxoxvcxla:893",
      "source": "ig6qlxqxoxvcxla",
      "label": "Malignant (2021)",
      "identifiers": [
@@ -39886,14 +39963,14 @@ window.CATALOG = {
      ],
      "note": "The chronology is well supported, but infertility as the adoption motive is less independently secure."
     },
-    "ig6qlxqxoxvcxla:397": {
+    "ig6qlxqxoxvcxla:420": {
      "title": "Malignant (2021)",
      "category": "Adopt a child, then become pregnant",
      "group": "Infertility / trouble conceiving → adoption → pregnancy",
      "confidence": "Verified",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:869": {
+    "ig6qlxqxoxvcxla:893": {
      "title": "Malignant (2021)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "High-confidence direct control / possession",
@@ -39939,7 +40016,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:162",
-    "ig6qlxqxoxvcxla:870"
+    "ig6qlxqxoxvcxla:894"
    ],
    "index_only": false,
    "local_only": false,
@@ -39981,7 +40058,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:870",
+     "rid": "ig6qlxqxoxvcxla:894",
      "source": "ig6qlxqxoxvcxla",
      "label": "Exorcism in Utero (2023)",
      "identifiers": [
@@ -40033,7 +40110,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:870": {
+    "ig6qlxqxoxvcxla:894": {
      "title": "Exorcism in Utero (2023)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "High-confidence direct control / possession",
@@ -40091,7 +40168,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:163",
-    "ig6qlxqxoxvcxla:871"
+    "ig6qlxqxoxvcxla:895"
    ],
    "index_only": false,
    "local_only": false,
@@ -40129,7 +40206,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:871",
+     "rid": "ig6qlxqxoxvcxla:895",
      "source": "ig6qlxqxoxvcxla",
      "label": "Abyzou: Taker of Children",
      "identifiers": [],
@@ -40175,7 +40252,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:871": {
+    "ig6qlxqxoxvcxla:895": {
      "title": "Abyzou: Taker of Children",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "High-confidence direct control / possession",
@@ -40228,9 +40305,9 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:164",
-    "ig6qlxqxoxvcxla:793",
-    "ig6qlxqxoxvcxla:806",
-    "ig6qlxqxoxvcxla:875"
+    "ig6qlxqxoxvcxla:817",
+    "ig6qlxqxoxvcxla:830",
+    "ig6qlxqxoxvcxla:899"
    ],
    "index_only": false,
    "local_only": false,
@@ -40279,7 +40356,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:793",
+     "rid": "ig6qlxqxoxvcxla:817",
      "source": "ig6qlxqxoxvcxla",
      "label": "Prevenge (2016–17)",
      "identifiers": [
@@ -40303,7 +40380,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:806",
+     "rid": "ig6qlxqxoxvcxla:830",
      "source": "ig6qlxqxoxvcxla",
      "label": "Prevenge",
      "identifiers": [],
@@ -40325,7 +40402,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:875",
+     "rid": "ig6qlxqxoxvcxla:899",
      "source": "ig6qlxqxoxvcxla",
      "label": "Prevenge",
      "identifiers": [],
@@ -40408,21 +40485,21 @@ window.CATALOG = {
      ],
      "variantProv": "Visibly-pregnant-hypnotized worldwide sweep, 1 Oct 2026."
     },
-    "ig6qlxqxoxvcxla:793": {
+    "ig6qlxqxoxvcxla:817": {
      "title": "Prevenge (2016–17)",
      "category": "Female character controlled by a child / teen",
      "group": "Unborn / fetal controllers",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:806": {
+    "ig6qlxqxoxvcxla:830": {
      "title": "Prevenge",
      "category": "Pregnant woman controlled by a fetus, ghost child or alien child",
      "group": "Agentic unborn / fetal / alien controllers",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:875": {
+    "ig6qlxqxoxvcxla:899": {
      "title": "Prevenge",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "Medium-confidence close variants",
@@ -40480,7 +40557,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:165",
     "ig6qlxqxoxvcxla:170",
-    "ig6qlxqxoxvcxla:877"
+    "ig6qlxqxoxvcxla:901"
    ],
    "index_only": false,
    "local_only": false,
@@ -40548,7 +40625,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:877",
+     "rid": "ig6qlxqxoxvcxla:901",
      "source": "ig6qlxqxoxvcxla",
      "label": "Rosemary’s Baby (2014 miniseries)",
      "identifiers": [
@@ -40618,7 +40695,7 @@ window.CATALOG = {
       "provenance": "Mind-control detail folded into the existing 2014 miniseries record from the 6 Oct 2026 intersection sweep."
      }
     },
-    "ig6qlxqxoxvcxla:877": {
+    "ig6qlxqxoxvcxla:901": {
      "title": "Rosemary’s Baby (2014 miniseries)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "Medium-confidence close variants",
@@ -40687,7 +40764,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:166",
-    "ig6qlxqxoxvcxla:878"
+    "ig6qlxqxoxvcxla:902"
    ],
    "index_only": false,
    "local_only": false,
@@ -40729,7 +40806,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:878",
+     "rid": "ig6qlxqxoxvcxla:902",
      "source": "ig6qlxqxoxvcxla",
      "label": "The First Omen (2024)",
      "identifiers": [
@@ -40781,7 +40858,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:878": {
+    "ig6qlxqxoxvcxla:902": {
      "title": "The First Omen (2024)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "Medium-confidence close variants",
@@ -40819,7 +40896,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:167",
-    "ig6qlxqxoxvcxla:879"
+    "ig6qlxqxoxvcxla:903"
    ],
    "index_only": false,
    "local_only": false,
@@ -40853,7 +40930,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:879",
+     "rid": "ig6qlxqxoxvcxla:903",
      "source": "ig6qlxqxoxvcxla",
      "label": "Devil’s Due",
      "identifiers": [],
@@ -40895,7 +40972,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:879": {
+    "ig6qlxqxoxvcxla:903": {
      "title": "Devil’s Due",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "Medium-confidence close variants",
@@ -40937,7 +41014,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:168",
-    "ig6qlxqxoxvcxla:881"
+    "ig6qlxqxoxvcxla:905"
    ],
    "index_only": false,
    "local_only": false,
@@ -40976,7 +41053,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:881",
+     "rid": "ig6qlxqxoxvcxla:905",
      "source": "ig6qlxqxoxvcxla",
      "label": "Huesera (2022)",
      "identifiers": [
@@ -41026,7 +41103,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:881": {
+    "ig6qlxqxoxvcxla:905": {
      "title": "Huesera (2022)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "Medium-confidence close variants",
@@ -41077,7 +41154,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:169",
-    "ig6qlxqxoxvcxla:882"
+    "ig6qlxqxoxvcxla:906"
    ],
    "index_only": false,
    "local_only": false,
@@ -41125,7 +41202,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:882",
+     "rid": "ig6qlxqxoxvcxla:906",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Womb / Inang",
      "identifiers": [],
@@ -41207,7 +41284,7 @@ window.CATALOG = {
      ],
      "strictProv": "Worldwide vertical-short and adult/R-rated pregnancy-hypnosis sweep completed 2–3 Oct 2026 across 110 query rounds in 13+ languages. No verified vertical-short, hypno-intimacy or adult/R-rated title was found; five supported catalog updates are retained, with source and confidence limits stated per card, while Ezedike is held outside the catalog pending evidence of a pregnant controlled victim."
     },
-    "ig6qlxqxoxvcxla:882": {
+    "ig6qlxqxoxvcxla:906": {
      "title": "The Womb / Inang",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "Medium-confidence close variants",
@@ -41245,7 +41322,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:170",
-    "ig6qlxqxoxvcxla:883"
+    "ig6qlxqxoxvcxla:907"
    ],
    "index_only": false,
    "local_only": false,
@@ -41279,7 +41356,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:883",
+     "rid": "ig6qlxqxoxvcxla:907",
      "source": "ig6qlxqxoxvcxla",
      "label": "Kuntilanak 3",
      "identifiers": [],
@@ -41321,7 +41398,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:883": {
+    "ig6qlxqxoxvcxla:907": {
      "title": "Kuntilanak 3",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "Medium-confidence close variants",
@@ -41363,7 +41440,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:171",
-    "ig6qlxqxoxvcxla:884"
+    "ig6qlxqxoxvcxla:908"
    ],
    "index_only": false,
    "local_only": false,
@@ -41401,7 +41478,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:884",
+     "rid": "ig6qlxqxoxvcxla:908",
      "source": "ig6qlxqxoxvcxla",
      "label": "Immaculate (2024)",
      "identifiers": [
@@ -41449,7 +41526,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:884": {
+    "ig6qlxqxoxvcxla:908": {
      "title": "Immaculate (2024)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "Medium-confidence close variants",
@@ -41501,7 +41578,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:172",
-    "ig6qlxqxoxvcxla:885"
+    "ig6qlxqxoxvcxla:909"
    ],
    "index_only": false,
    "local_only": false,
@@ -41539,7 +41616,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:885",
+     "rid": "ig6qlxqxoxvcxla:909",
      "source": "ig6qlxqxoxvcxla",
      "label": "False Positive (2021)",
      "identifiers": [
@@ -41587,7 +41664,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:885": {
+    "ig6qlxqxoxvcxla:909": {
      "title": "False Positive (2021)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "Medium-confidence close variants",
@@ -41629,7 +41706,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:173",
-    "ig6qlxqxoxvcxla:886"
+    "ig6qlxqxoxvcxla:910"
    ],
    "index_only": false,
    "local_only": false,
@@ -41667,7 +41744,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:886",
+     "rid": "ig6qlxqxoxvcxla:910",
      "source": "ig6qlxqxoxvcxla",
      "label": "Deliver Us (2023)",
      "identifiers": [
@@ -41715,7 +41792,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:886": {
+    "ig6qlxqxoxvcxla:910": {
      "title": "Deliver Us (2023)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "Medium-confidence close variants",
@@ -41767,7 +41844,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:174",
-    "ig6qlxqxoxvcxla:887"
+    "ig6qlxqxoxvcxla:911"
    ],
    "index_only": false,
    "local_only": false,
@@ -41805,7 +41882,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:887",
+     "rid": "ig6qlxqxoxvcxla:911",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Astronaut’s Wife (1999)",
      "identifiers": [
@@ -41853,7 +41930,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:887": {
+    "ig6qlxqxoxvcxla:911": {
      "title": "The Astronaut’s Wife (1999)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "Medium-confidence close variants",
@@ -41891,7 +41968,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:175",
-    "ig6qlxqxoxvcxla:888"
+    "ig6qlxqxoxvcxla:912"
    ],
    "index_only": false,
    "local_only": false,
@@ -41925,7 +42002,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:888",
+     "rid": "ig6qlxqxoxvcxla:912",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Tal",
      "identifiers": [],
@@ -41967,7 +42044,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:888": {
+    "ig6qlxqxoxvcxla:912": {
      "title": "The Tal",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "Medium-confidence close variants",
@@ -42005,7 +42082,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:176",
-    "ig6qlxqxoxvcxla:889"
+    "ig6qlxqxoxvcxla:913"
    ],
    "index_only": false,
    "local_only": false,
@@ -42039,7 +42116,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:889",
+     "rid": "ig6qlxqxoxvcxla:913",
      "source": "ig6qlxqxoxvcxla",
      "label": "Kabala (2025 Turkey)",
      "identifiers": [
@@ -42084,7 +42161,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:889": {
+    "ig6qlxqxoxvcxla:913": {
      "title": "Kabala (2025 Turkey)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "Medium-confidence close variants",
@@ -42122,7 +42199,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:177",
-    "ig6qlxqxoxvcxla:890"
+    "ig6qlxqxoxvcxla:914"
    ],
    "index_only": false,
    "local_only": false,
@@ -42156,7 +42233,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:890",
+     "rid": "ig6qlxqxoxvcxla:914",
      "source": "ig6qlxqxoxvcxla",
      "label": "Anak ng Lagim (1988 Philippines)",
      "identifiers": [
@@ -42201,7 +42278,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:890": {
+    "ig6qlxqxoxvcxla:914": {
      "title": "Anak ng Lagim (1988 Philippines)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "Medium-confidence close variants",
@@ -42248,7 +42325,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:178",
     "ig6qlxqxoxvcxla:101",
-    "ig6qlxqxoxvcxla:953"
+    "ig6qlxqxoxvcxla:977"
    ],
    "index_only": false,
    "local_only": false,
@@ -42327,7 +42404,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:953",
+     "rid": "ig6qlxqxoxvcxla:977",
      "source": "ig6qlxqxoxvcxla",
      "label": "Enter the Void (2009)",
      "identifiers": [
@@ -42408,7 +42485,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:953": {
+    "ig6qlxqxoxvcxla:977": {
      "title": "Enter the Void (2009)",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Strict shown — bedroom / sleeping room",
@@ -42646,7 +42723,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:180",
     "ig6qlxqxoxvcxla:104",
-    "ig6qlxqxoxvcxla:956"
+    "ig6qlxqxoxvcxla:980"
    ],
    "index_only": false,
    "local_only": false,
@@ -42727,7 +42804,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:956",
+     "rid": "ig6qlxqxoxvcxla:980",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Americans S02E01",
      "identifiers": [
@@ -42810,7 +42887,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:956": {
+    "ig6qlxqxoxvcxla:980": {
      "title": "The Americans S02E01",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Strict shown — bedroom / sleeping room",
@@ -42857,7 +42934,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:181",
     "ig6qlxqxoxvcxla:105",
-    "ig6qlxqxoxvcxla:957"
+    "ig6qlxqxoxvcxla:981"
    ],
    "index_only": false,
    "local_only": false,
@@ -42938,7 +43015,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:957",
+     "rid": "ig6qlxqxoxvcxla:981",
      "source": "ig6qlxqxoxvcxla",
      "label": "Young Sheldon S07E04",
      "identifiers": [
@@ -43021,7 +43098,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:957": {
+    "ig6qlxqxoxvcxla:981": {
      "title": "Young Sheldon S07E04",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Strict shown — bedroom / sleeping room",
@@ -43068,8 +43145,8 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:182",
     "ig6qlxqxoxvcxla:106",
-    "ig6qlxqxoxvcxla:958",
-    "ig6qlxqxoxvcxla:989"
+    "ig6qlxqxoxvcxla:982",
+    "ig6qlxqxoxvcxla:1013"
    ],
    "index_only": false,
    "local_only": false,
@@ -43150,7 +43227,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:958",
+     "rid": "ig6qlxqxoxvcxla:982",
      "source": "ig6qlxqxoxvcxla",
      "label": "South Park S16E10",
      "identifiers": [
@@ -43174,7 +43251,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:989",
+     "rid": "ig6qlxqxoxvcxla:1013",
      "source": "ig6qlxqxoxvcxla",
      "label": "South Park S20E04",
      "identifiers": [
@@ -43257,14 +43334,14 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:958": {
+    "ig6qlxqxoxvcxla:982": {
      "title": "South Park S16E10",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Strict shown — bedroom / sleeping room",
      "confidence": "Strict",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:989": {
+    "ig6qlxqxoxvcxla:1013": {
      "title": "South Park S20E04",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Other variants",
@@ -43311,9 +43388,9 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:183",
     "ig6qlxqxoxvcxla:107",
-    "ig6qlxqxoxvcxla:959",
-    "ig6qlxqxoxvcxla:960",
-    "ig6qlxqxoxvcxla:973"
+    "ig6qlxqxoxvcxla:983",
+    "ig6qlxqxoxvcxla:984",
+    "ig6qlxqxoxvcxla:997"
    ],
    "index_only": false,
    "local_only": false,
@@ -43394,7 +43471,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:959",
+     "rid": "ig6qlxqxoxvcxla:983",
      "source": "ig6qlxqxoxvcxla",
      "label": "Family Guy — case 1",
      "identifiers": [
@@ -43418,7 +43495,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:960",
+     "rid": "ig6qlxqxoxvcxla:984",
      "source": "ig6qlxqxoxvcxla",
      "label": "Family Guy — case 2",
      "identifiers": [
@@ -43442,7 +43519,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:973",
+     "rid": "ig6qlxqxoxvcxla:997",
      "source": "ig6qlxqxoxvcxla",
      "label": "Family Guy S04E12",
      "identifiers": [
@@ -43525,21 +43602,21 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:959": {
+    "ig6qlxqxoxvcxla:983": {
      "title": "Family Guy — case 1",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Strict shown — bedroom / sleeping room",
      "confidence": "Strict",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:960": {
+    "ig6qlxqxoxvcxla:984": {
      "title": "Family Guy — case 2",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Strict shown — bedroom / sleeping room",
      "confidence": "Strict",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:973": {
+    "ig6qlxqxoxvcxla:997": {
      "title": "Family Guy S04E12",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Strict — bathroom / living room / couch",
@@ -43765,8 +43842,8 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:185",
     "ig6qlxqxoxvcxla:109",
-    "ig6qlxqxoxvcxla:961",
-    "ig6qlxqxoxvcxla:962"
+    "ig6qlxqxoxvcxla:985",
+    "ig6qlxqxoxvcxla:986"
    ],
    "index_only": false,
    "local_only": false,
@@ -43847,7 +43924,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:961",
+     "rid": "ig6qlxqxoxvcxla:985",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Simpsons — case 1",
      "identifiers": [
@@ -43871,7 +43948,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:962",
+     "rid": "ig6qlxqxoxvcxla:986",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Simpsons — case 2",
      "identifiers": [
@@ -43954,14 +44031,14 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:961": {
+    "ig6qlxqxoxvcxla:985": {
      "title": "The Simpsons — case 1",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Strict shown — bedroom / sleeping room",
      "confidence": "Strict",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:962": {
+    "ig6qlxqxoxvcxla:986": {
      "title": "The Simpsons — case 2",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Strict shown — bedroom / sleeping room",
@@ -44008,7 +44085,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:186",
     "ig6qlxqxoxvcxla:110",
-    "ig6qlxqxoxvcxla:963"
+    "ig6qlxqxoxvcxla:987"
    ],
    "index_only": false,
    "local_only": false,
@@ -44081,7 +44158,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:963",
+     "rid": "ig6qlxqxoxvcxla:987",
      "source": "ig6qlxqxoxvcxla",
      "label": "Special Ops: Lioness S02E03",
      "identifiers": [
@@ -44156,7 +44233,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:963": {
+    "ig6qlxqxoxvcxla:987": {
      "title": "Special Ops: Lioness S02E03",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Strict shown — bedroom / sleeping room",
@@ -44198,7 +44275,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:187",
-    "ig6qlxqxoxvcxla:980"
+    "ig6qlxqxoxvcxla:1004"
    ],
    "index_only": false,
    "local_only": false,
@@ -44237,7 +44314,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:980",
+     "rid": "ig6qlxqxoxvcxla:1004",
      "source": "ig6qlxqxoxvcxla",
      "label": "Schitt’s Creek",
      "identifiers": [],
@@ -44284,7 +44361,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:980": {
+    "ig6qlxqxoxvcxla:1004": {
      "title": "Schitt’s Creek",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Adult offspring",
@@ -44448,7 +44525,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:190",
-    "ig6qlxqxoxvcxla:423"
+    "ig6qlxqxoxvcxla:446"
    ],
    "index_only": false,
    "local_only": false,
@@ -44486,7 +44563,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:423",
+     "rid": "ig6qlxqxoxvcxla:446",
      "source": "ig6qlxqxoxvcxla",
      "label": "Sewu Dino",
      "identifiers": [],
@@ -44531,7 +44608,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:423": {
+    "ig6qlxqxoxvcxla:446": {
      "title": "Sewu Dino",
      "category": "Supernatural female control — India & Indonesia",
      "group": "Verified cases",
@@ -44577,7 +44654,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:191",
-    "ig6qlxqxoxvcxla:424"
+    "ig6qlxqxoxvcxla:447"
    ],
    "index_only": false,
    "local_only": false,
@@ -44620,7 +44697,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:424",
+     "rid": "ig6qlxqxoxvcxla:447",
      "source": "ig6qlxqxoxvcxla",
      "label": "Guna-Guna Istri Muda (2024 remake)",
      "identifiers": [
@@ -44673,7 +44750,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:424": {
+    "ig6qlxqxoxvcxla:447": {
      "title": "Guna-Guna Istri Muda (2024 remake)",
      "category": "Supernatural female control — India & Indonesia",
      "group": "Verified cases",
@@ -44711,7 +44788,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:192",
-    "ig6qlxqxoxvcxla:433"
+    "ig6qlxqxoxvcxla:456"
    ],
    "index_only": false,
    "local_only": false,
@@ -44745,7 +44822,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:433",
+     "rid": "ig6qlxqxoxvcxla:456",
      "source": "ig6qlxqxoxvcxla",
      "label": "Kitab Sijjin & Illiyyin (2025)",
      "identifiers": [
@@ -44788,7 +44865,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:433": {
+    "ig6qlxqxoxvcxla:456": {
      "title": "Kitab Sijjin & Illiyyin (2025)",
      "category": "Supernatural female control — India & Indonesia",
      "group": "Possible / ambiguous / single-source",
@@ -44855,10 +44932,10 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:193",
-    "ig6qlxqxoxvcxla:336",
-    "ig6qlxqxoxvcxla:425",
-    "ig6qlxqxoxvcxla:445",
-    "ig6qlxqxoxvcxla:602",
+    "ig6qlxqxoxvcxla:359",
+    "ig6qlxqxoxvcxla:448",
+    "ig6qlxqxoxvcxla:468",
+    "ig6qlxqxoxvcxla:626",
     "india-catalog:98"
    ],
    "index_only": false,
@@ -44921,7 +44998,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:336",
+     "rid": "ig6qlxqxoxvcxla:359",
      "source": "ig6qlxqxoxvcxla",
      "label": "Kavach… Kaali Shaktiyon Se (2016)",
      "identifiers": [
@@ -44945,7 +45022,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:425",
+     "rid": "ig6qlxqxoxvcxla:448",
      "source": "ig6qlxqxoxvcxla",
      "label": "Kavach… Kaali Shaktiyon Se (2016)",
      "identifiers": [
@@ -44969,7 +45046,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:445",
+     "rid": "ig6qlxqxoxvcxla:468",
      "source": "ig6qlxqxoxvcxla",
      "label": "Kavach… Kaali Shaktiyon Se",
      "identifiers": [],
@@ -44991,7 +45068,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:602",
+     "rid": "ig6qlxqxoxvcxla:626",
      "source": "ig6qlxqxoxvcxla",
      "label": "Kavach… Kaali Shaktiyon Se",
      "identifiers": [],
@@ -45085,28 +45162,28 @@ window.CATALOG = {
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
      "rg": "Indian TV serials"
     },
-    "ig6qlxqxoxvcxla:336": {
+    "ig6qlxqxoxvcxla:359": {
      "title": "Kavach… Kaali Shaktiyon Se (2016)",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Possession by dead ex-girlfriend / former lover",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:425": {
+    "ig6qlxqxoxvcxla:448": {
      "title": "Kavach… Kaali Shaktiyon Se (2016)",
      "category": "Supernatural female control — India & Indonesia",
      "group": "Verified cases",
      "confidence": "Verified",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:445": {
+    "ig6qlxqxoxvcxla:468": {
      "title": "Kavach… Kaali Shaktiyon Se",
      "category": "Female hypnosis / mind control — India",
      "group": "Love / marriage / relationship compulsion",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:602": {
+    "ig6qlxqxoxvcxla:626": {
      "title": "Kavach… Kaali Shaktiyon Se",
      "category": "Spirit / ghost / djinn possession",
      "group": "Indian TV serials",
@@ -45172,8 +45249,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:194",
-    "ig6qlxqxoxvcxla:426",
-    "ig6qlxqxoxvcxla:463",
+    "ig6qlxqxoxvcxla:449",
+    "ig6qlxqxoxvcxla:487",
     "india-catalog:80"
    ],
    "index_only": false,
@@ -45222,7 +45299,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:426",
+     "rid": "ig6qlxqxoxvcxla:449",
      "source": "ig6qlxqxoxvcxla",
      "label": "1920 (2008)",
      "identifiers": [
@@ -45246,7 +45323,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:463",
+     "rid": "ig6qlxqxoxvcxla:487",
      "source": "ig6qlxqxoxvcxla",
      "label": "1920",
      "identifiers": [],
@@ -45325,14 +45402,14 @@ window.CATALOG = {
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
      "rg": "Indian films"
     },
-    "ig6qlxqxoxvcxla:426": {
+    "ig6qlxqxoxvcxla:449": {
      "title": "1920 (2008)",
      "category": "Supernatural female control — India & Indonesia",
      "group": "Verified cases",
      "confidence": "Verified",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:463": {
+    "ig6qlxqxoxvcxla:487": {
      "title": "1920",
      "category": "Female hypnosis / mind control — India",
      "group": "Spirit / ghost / paranormal control",
@@ -45389,8 +45466,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:195",
-    "ig6qlxqxoxvcxla:427",
-    "ig6qlxqxoxvcxla:586",
+    "ig6qlxqxoxvcxla:450",
+    "ig6qlxqxoxvcxla:610",
     "india-catalog:81"
    ],
    "index_only": false,
@@ -45430,7 +45507,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:427",
+     "rid": "ig6qlxqxoxvcxla:450",
      "source": "ig6qlxqxoxvcxla",
      "label": "1920: Evil Returns (2012)",
      "identifiers": [
@@ -45454,7 +45531,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:586",
+     "rid": "ig6qlxqxoxvcxla:610",
      "source": "ig6qlxqxoxvcxla",
      "label": "1920: Evil Returns",
      "identifiers": [],
@@ -45523,14 +45600,14 @@ window.CATALOG = {
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
      "rg": "Indian films"
     },
-    "ig6qlxqxoxvcxla:427": {
+    "ig6qlxqxoxvcxla:450": {
      "title": "1920: Evil Returns (2012)",
      "category": "Supernatural female control — India & Indonesia",
      "group": "Verified cases",
      "confidence": "Verified",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:586": {
+    "ig6qlxqxoxvcxla:610": {
      "title": "1920: Evil Returns",
      "category": "Spirit / ghost / djinn possession",
      "group": "Indian films",
@@ -45591,8 +45668,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:196",
-    "ig6qlxqxoxvcxla:352",
-    "ig6qlxqxoxvcxla:428",
+    "ig6qlxqxoxvcxla:375",
+    "ig6qlxqxoxvcxla:451",
     "india-catalog:97"
    ],
    "index_only": false,
@@ -45635,7 +45712,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:352",
+     "rid": "ig6qlxqxoxvcxla:375",
      "source": "ig6qlxqxoxvcxla",
      "label": "Raaz (2002)",
      "identifiers": [
@@ -45659,7 +45736,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:428",
+     "rid": "ig6qlxqxoxvcxla:451",
      "source": "ig6qlxqxoxvcxla",
      "label": "Raaz (2002)",
      "identifiers": [
@@ -45731,14 +45808,14 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:352": {
+    "ig6qlxqxoxvcxla:375": {
      "title": "Raaz (2002)",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Near-misses",
      "confidence": "Near-miss",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:428": {
+    "ig6qlxqxoxvcxla:451": {
      "title": "Raaz (2002)",
      "category": "Supernatural female control — India & Indonesia",
      "group": "Verified cases",
@@ -45794,7 +45871,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:197",
-    "ig6qlxqxoxvcxla:429",
+    "ig6qlxqxoxvcxla:452",
     "india-catalog:83"
    ],
    "index_only": false,
@@ -45833,7 +45910,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:429",
+     "rid": "ig6qlxqxoxvcxla:452",
      "source": "ig6qlxqxoxvcxla",
      "label": "Raaz Reboot (2016)",
      "identifiers": [
@@ -45901,7 +45978,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:429": {
+    "ig6qlxqxoxvcxla:452": {
      "title": "Raaz Reboot (2016)",
      "category": "Supernatural female control — India & Indonesia",
      "group": "Verified cases",
@@ -45964,8 +46041,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:198",
-    "ig6qlxqxoxvcxla:430",
-    "ig6qlxqxoxvcxla:446",
+    "ig6qlxqxoxvcxla:453",
+    "ig6qlxqxoxvcxla:469",
     "india-catalog:85"
    ],
    "index_only": false,
@@ -46011,7 +46088,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:430",
+     "rid": "ig6qlxqxoxvcxla:453",
      "source": "ig6qlxqxoxvcxla",
      "label": "Alone (2015)",
      "identifiers": [
@@ -46035,7 +46112,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:446",
+     "rid": "ig6qlxqxoxvcxla:469",
      "source": "ig6qlxqxoxvcxla",
      "label": "Alone",
      "identifiers": [],
@@ -46111,14 +46188,14 @@ window.CATALOG = {
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
      "rg": "Indian films"
     },
-    "ig6qlxqxoxvcxla:430": {
+    "ig6qlxqxoxvcxla:453": {
      "title": "Alone (2015)",
      "category": "Supernatural female control — India & Indonesia",
      "group": "Verified cases",
      "confidence": "Verified",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:446": {
+    "ig6qlxqxoxvcxla:469": {
      "title": "Alone",
      "category": "Female hypnosis / mind control — India",
      "group": "Love / marriage / relationship compulsion",
@@ -46180,8 +46257,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:199",
-    "ig6qlxqxoxvcxla:431",
-    "ig6qlxqxoxvcxla:464",
+    "ig6qlxqxoxvcxla:454",
+    "ig6qlxqxoxvcxla:488",
     "india-catalog:54"
    ],
    "index_only": false,
@@ -46226,7 +46303,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:431",
+     "rid": "ig6qlxqxoxvcxla:454",
      "source": "ig6qlxqxoxvcxla",
      "label": "Arundhati (2009 Telugu)",
      "identifiers": [
@@ -46251,7 +46328,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:464",
+     "rid": "ig6qlxqxoxvcxla:488",
      "source": "ig6qlxqxoxvcxla",
      "label": "Arundhati",
      "identifiers": [],
@@ -46326,14 +46403,14 @@ window.CATALOG = {
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
      "rg": "Indian films"
     },
-    "ig6qlxqxoxvcxla:431": {
+    "ig6qlxqxoxvcxla:454": {
      "title": "Arundhati (2009 Telugu)",
      "category": "Supernatural female control — India & Indonesia",
      "group": "Verified cases",
      "confidence": "Verified",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:464": {
+    "ig6qlxqxoxvcxla:488": {
      "title": "Arundhati",
      "category": "Female hypnosis / mind control — India",
      "group": "Spirit / ghost / paranormal control",
@@ -46385,7 +46462,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:200",
-    "ig6qlxqxoxvcxla:434",
+    "ig6qlxqxoxvcxla:457",
     "india-catalog:95"
    ],
    "index_only": false,
@@ -46421,7 +46498,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:434",
+     "rid": "ig6qlxqxoxvcxla:457",
      "source": "ig6qlxqxoxvcxla",
      "label": "Mayamohini (2016 Tamil)",
      "identifiers": [
@@ -46487,7 +46564,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:434": {
+    "ig6qlxqxoxvcxla:457": {
      "title": "Mayamohini (2016 Tamil)",
      "category": "Supernatural female control — India & Indonesia",
      "group": "Possible / ambiguous / single-source",
@@ -46549,8 +46626,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:201",
-    "ig6qlxqxoxvcxla:435",
-    "ig6qlxqxoxvcxla:639",
+    "ig6qlxqxoxvcxla:458",
+    "ig6qlxqxoxvcxla:663",
     "india-catalog:40"
    ],
    "index_only": false,
@@ -46595,7 +46672,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:435",
+     "rid": "ig6qlxqxoxvcxla:458",
      "source": "ig6qlxqxoxvcxla",
      "label": "Qayamat Ki Raat (2018–19)",
      "identifiers": [
@@ -46619,7 +46696,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:639",
+     "rid": "ig6qlxqxoxvcxla:663",
      "source": "ig6qlxqxoxvcxla",
      "label": "Qayamat Ki Raat",
      "identifiers": [],
@@ -46702,14 +46779,14 @@ window.CATALOG = {
      "marryFlag": "MEDIUM-HIGH · attempted wedding",
      "marryProv": "Worldwide eight-vector hypnotized-to-marry sweep, 3 Oct 2026 · Wikipedia · TellyUpdates · LatestLY written update (19 Aug 2018) · SerialGossip"
     },
-    "ig6qlxqxoxvcxla:435": {
+    "ig6qlxqxoxvcxla:458": {
      "title": "Qayamat Ki Raat (2018–19)",
      "category": "Supernatural female control — India & Indonesia",
      "group": "Possible / ambiguous / single-source",
      "confidence": "Possible",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:639": {
+    "ig6qlxqxoxvcxla:663": {
      "title": "Qayamat Ki Raat",
      "category": "Tantrik / black-magic control",
      "group": "Catalog records",
@@ -46762,8 +46839,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:202",
-    "ig6qlxqxoxvcxla:436",
-    "ig6qlxqxoxvcxla:595",
+    "ig6qlxqxoxvcxla:459",
+    "ig6qlxqxoxvcxla:619",
     "india-catalog:105"
    ],
    "index_only": false,
@@ -46799,7 +46876,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:436",
+     "rid": "ig6qlxqxoxvcxla:459",
      "source": "ig6qlxqxoxvcxla",
      "label": "Nazar (2018–20)",
      "identifiers": [
@@ -46823,7 +46900,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:595",
+     "rid": "ig6qlxqxoxvcxla:619",
      "source": "ig6qlxqxoxvcxla",
      "label": "Nazar (2018)",
      "identifiers": [
@@ -46890,14 +46967,14 @@ window.CATALOG = {
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
      "rg": "Indian TV serials"
     },
-    "ig6qlxqxoxvcxla:436": {
+    "ig6qlxqxoxvcxla:459": {
      "title": "Nazar (2018–20)",
      "category": "Supernatural female control — India & Indonesia",
      "group": "Possible / ambiguous / single-source",
      "confidence": "Possible",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:595": {
+    "ig6qlxqxoxvcxla:619": {
      "title": "Nazar (2018)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Indian TV serials",
@@ -46949,7 +47026,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:203",
-    "ig6qlxqxoxvcxla:437",
+    "ig6qlxqxoxvcxla:460",
     "india-catalog:38"
    ],
    "index_only": false,
@@ -46984,7 +47061,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:437",
+     "rid": "ig6qlxqxoxvcxla:460",
      "source": "ig6qlxqxoxvcxla",
      "label": "Uttaran (2008–15)",
      "identifiers": [
@@ -47048,7 +47125,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:437": {
+    "ig6qlxqxoxvcxla:460": {
      "title": "Uttaran (2008–15)",
      "category": "Supernatural female control — India & Indonesia",
      "group": "Possible / ambiguous / single-source",
@@ -47124,9 +47201,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:204",
-    "ig6qlxqxoxvcxla:438",
-    "ig6qlxqxoxvcxla:635",
-    "ig6qlxqxoxvcxla:638",
+    "ig6qlxqxoxvcxla:461",
+    "ig6qlxqxoxvcxla:662",
     "india-catalog:39"
    ],
    "index_only": false,
@@ -47167,14 +47243,17 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:438",
+     "rid": "ig6qlxqxoxvcxla:461",
      "source": "ig6qlxqxoxvcxla",
-     "label": "Tantra",
-     "identifiers": [],
+     "label": "Tantra (2018 Hindi series)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
      "title": "Tantra",
      "subtitle": "",
-     "year": "",
-     "meta": "Movies & film serials",
+     "year": "2018 Hindi series",
+     "meta": "TV, soaps & episodes",
      "summary": "",
      "character": "",
      "note": "",
@@ -47185,35 +47264,11 @@ window.CATALOG = {
      ],
      "sources": [],
      "distinct_story": false,
-     "index_title": "Tantra",
+     "index_title": "Tantra (2018 Hindi series)",
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:635",
-     "source": "ig6qlxqxoxvcxla",
-     "label": "Tantra — Telugu film",
-     "identifiers": [
-      "own title/qualifier"
-     ],
-     "title": "Tantra — Telugu film",
-     "subtitle": "",
-     "year": "",
-     "meta": "Movies & film serials",
-     "summary": "",
-     "character": "",
-     "note": "",
-     "mechanism": "",
-     "confidence_flag": "Cataloged",
-     "categories": [
-      "tantrik"
-     ],
-     "sources": [],
-     "distinct_story": false,
-     "index_title": "Tantra — Telugu film",
-     "matched_by": "alias"
-    },
-    {
-     "rid": "ig6qlxqxoxvcxla:638",
+     "rid": "ig6qlxqxoxvcxla:662",
      "source": "ig6qlxqxoxvcxla",
      "label": "Tantra (2018 Hindi series)",
      "identifiers": [
@@ -47286,21 +47341,14 @@ window.CATALOG = {
      "ahg": "occult",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:438": {
-     "title": "Tantra",
+    "ig6qlxqxoxvcxla:461": {
+     "title": "Tantra (2018 Hindi series)",
      "category": "Supernatural female control — India & Indonesia",
      "group": "Possible / ambiguous / single-source",
      "confidence": "Possible",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:635": {
-     "title": "Tantra — Telugu film",
-     "category": "Tantrik / black-magic control",
-     "group": "Catalog records",
-     "confidence": "Cataloged",
-     "note": ""
-    },
-    "ig6qlxqxoxvcxla:638": {
+    "ig6qlxqxoxvcxla:662": {
      "title": "Tantra (2018 Hindi series)",
      "category": "Tantrik / black-magic control",
      "group": "Catalog records",
@@ -47356,7 +47404,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:205",
     "ig6qlxqxoxvcxla:161",
-    "ig6qlxqxoxvcxla:439",
+    "ig6qlxqxoxvcxla:462",
     "india-catalog:41"
    ],
    "index_only": false,
@@ -47423,7 +47471,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:439",
+     "rid": "ig6qlxqxoxvcxla:462",
      "source": "ig6qlxqxoxvcxla",
      "label": "Vashikaranam (2026)",
      "identifiers": [
@@ -47524,7 +47572,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:439": {
+    "ig6qlxqxoxvcxla:462": {
      "title": "Vashikaranam (2026)",
      "category": "Supernatural female control — India & Indonesia",
      "group": "Possible / ambiguous / single-source",
@@ -47584,7 +47632,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:206",
-    "ig6qlxqxoxvcxla:440",
+    "ig6qlxqxoxvcxla:463",
     "india-catalog:121"
    ],
    "index_only": false,
@@ -47627,7 +47675,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:440",
+     "rid": "ig6qlxqxoxvcxla:463",
      "source": "ig6qlxqxoxvcxla",
      "label": "Chandramukhi (2005)",
      "identifiers": [
@@ -47699,7 +47747,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:440": {
+    "ig6qlxqxoxvcxla:463": {
      "title": "Chandramukhi (2005)",
      "category": "Supernatural female control — India & Indonesia",
      "group": "Possible / ambiguous / single-source",
@@ -47778,8 +47826,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:207",
-    "ig6qlxqxoxvcxla:441",
-    "ig6qlxqxoxvcxla:692",
+    "ig6qlxqxoxvcxla:464",
+    "ig6qlxqxoxvcxla:716",
     "india-catalog:122"
    ],
    "index_only": false,
@@ -47832,7 +47880,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:441",
+     "rid": "ig6qlxqxoxvcxla:464",
      "source": "ig6qlxqxoxvcxla",
      "label": "Manichitrathazhu (1993)",
      "identifiers": [
@@ -47856,7 +47904,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:692",
+     "rid": "ig6qlxqxoxvcxla:716",
      "source": "ig6qlxqxoxvcxla",
      "label": "Manichitrathazhu (1993)",
      "identifiers": [
@@ -47945,14 +47993,14 @@ window.CATALOG = {
      "ahg": "therapist",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:441": {
+    "ig6qlxqxoxvcxla:464": {
      "title": "Manichitrathazhu (1993)",
      "category": "Supernatural female control — India & Indonesia",
      "group": "Possible / ambiguous / single-source",
      "confidence": "Possible",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:692": {
+    "ig6qlxqxoxvcxla:716": {
      "title": "Manichitrathazhu (1993)",
      "category": "Medical / therapeutic hypnosis",
      "group": "Catalog records",
@@ -48017,7 +48065,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:208",
-    "ig6qlxqxoxvcxla:442",
+    "ig6qlxqxoxvcxla:465",
     "india-catalog:123"
    ],
    "index_only": false,
@@ -48060,7 +48108,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:442",
+     "rid": "ig6qlxqxoxvcxla:465",
      "source": "ig6qlxqxoxvcxla",
      "label": "Apthamitra (2004)",
      "identifiers": [
@@ -48132,7 +48180,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:442": {
+    "ig6qlxqxoxvcxla:465": {
      "title": "Apthamitra (2004)",
      "category": "Supernatural female control — India & Indonesia",
      "group": "Possible / ambiguous / single-source",
@@ -48192,7 +48240,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:209",
-    "ig6qlxqxoxvcxla:443",
+    "ig6qlxqxoxvcxla:466",
     "india-catalog:126"
    ],
    "index_only": false,
@@ -48235,7 +48283,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:443",
+     "rid": "ig6qlxqxoxvcxla:466",
      "source": "ig6qlxqxoxvcxla",
      "label": "Rajmohol — Bengali",
      "identifiers": [
@@ -48307,7 +48355,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:443": {
+    "ig6qlxqxoxvcxla:466": {
      "title": "Rajmohol — Bengali",
      "category": "Supernatural female control — India & Indonesia",
      "group": "Possible / ambiguous / single-source",
@@ -48368,8 +48416,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:210",
-    "ig6qlxqxoxvcxla:444",
-    "ig6qlxqxoxvcxla:691",
+    "ig6qlxqxoxvcxla:467",
+    "ig6qlxqxoxvcxla:715",
     "india-catalog:124"
    ],
    "index_only": false,
@@ -48413,7 +48461,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:444",
+     "rid": "ig6qlxqxoxvcxla:467",
      "source": "ig6qlxqxoxvcxla",
      "label": "Bhool Bhulaiyaa (2007)",
      "identifiers": [
@@ -48437,7 +48485,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:691",
+     "rid": "ig6qlxqxoxvcxla:715",
      "source": "ig6qlxqxoxvcxla",
      "label": "Bhool Bhulaiyaa (2007)",
      "identifiers": [
@@ -48511,14 +48559,14 @@ window.CATALOG = {
      ],
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:444": {
+    "ig6qlxqxoxvcxla:467": {
      "title": "Bhool Bhulaiyaa (2007)",
      "category": "Supernatural female control — India & Indonesia",
      "group": "Possible / ambiguous / single-source",
      "confidence": "Possible",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:691": {
+    "ig6qlxqxoxvcxla:715": {
      "title": "Bhool Bhulaiyaa (2007)",
      "category": "Medical / therapeutic hypnosis",
      "group": "Catalog records",
@@ -48572,8 +48620,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:211",
-    "ig6qlxqxoxvcxla:432",
-    "ig6qlxqxoxvcxla:465",
+    "ig6qlxqxoxvcxla:455",
+    "ig6qlxqxoxvcxla:489",
     "india-catalog:55"
    ],
    "index_only": false,
@@ -48610,7 +48658,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:432",
+     "rid": "ig6qlxqxoxvcxla:455",
      "source": "ig6qlxqxoxvcxla",
      "label": "Nagavalli (2010 Telugu)",
      "identifiers": [
@@ -48635,7 +48683,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:465",
+     "rid": "ig6qlxqxoxvcxla:489",
      "source": "ig6qlxqxoxvcxla",
      "label": "Nagavalli",
      "identifiers": [],
@@ -48700,14 +48748,14 @@ window.CATALOG = {
      ],
      "icg": "supernatural"
     },
-    "ig6qlxqxoxvcxla:432": {
+    "ig6qlxqxoxvcxla:455": {
      "title": "Nagavalli (2010 Telugu)",
      "category": "Supernatural female control — India & Indonesia",
      "group": "Verified cases",
      "confidence": "Verified",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:465": {
+    "ig6qlxqxoxvcxla:489": {
      "title": "Nagavalli",
      "category": "Female hypnosis / mind control — India",
      "group": "Spirit / ghost / paranormal control",
@@ -48768,7 +48816,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:212",
-    "ig6qlxqxoxvcxla:705",
+    "ig6qlxqxoxvcxla:729",
     "india-catalog:5"
    ],
    "index_only": false,
@@ -48812,7 +48860,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:705",
+     "rid": "ig6qlxqxoxvcxla:729",
      "source": "ig6qlxqxoxvcxla",
      "label": "Parvaiyin Marupakkam (1982 Tamil)",
      "identifiers": [
@@ -48892,7 +48940,7 @@ window.CATALOG = {
      ],
      "ahg": "occult"
     },
-    "ig6qlxqxoxvcxla:705": {
+    "ig6qlxqxoxvcxla:729": {
      "title": "Parvaiyin Marupakkam (1982 Tamil)",
      "category": "Hypnotized into crime",
      "group": "Verified",
@@ -48948,7 +48996,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:213",
-    "ig6qlxqxoxvcxla:706"
+    "ig6qlxqxoxvcxla:730"
    ],
    "index_only": false,
    "local_only": false,
@@ -48982,7 +49030,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:706",
+     "rid": "ig6qlxqxoxvcxla:730",
      "source": "ig6qlxqxoxvcxla",
      "label": "Mesmerism — short; country / year unverified",
      "identifiers": [
@@ -49025,7 +49073,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:706": {
+    "ig6qlxqxoxvcxla:730": {
      "title": "Mesmerism — short; country / year unverified",
      "category": "Hypnotized into crime",
      "group": "Possible / single source",
@@ -49069,8 +49117,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:214",
-    "ig6qlxqxoxvcxla:668",
-    "ig6qlxqxoxvcxla:708",
+    "ig6qlxqxoxvcxla:692",
+    "ig6qlxqxoxvcxla:732",
     "india-catalog:134"
    ],
    "index_only": false,
@@ -49109,7 +49157,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:668",
+     "rid": "ig6qlxqxoxvcxla:692",
      "source": "ig6qlxqxoxvcxla",
      "label": "CTRL (2024)",
      "identifiers": [
@@ -49133,7 +49181,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:708",
+     "rid": "ig6qlxqxoxvcxla:732",
      "source": "ig6qlxqxoxvcxla",
      "label": "CTRL (2024)",
      "identifiers": [
@@ -49201,14 +49249,14 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:668": {
+    "ig6qlxqxoxvcxla:692": {
      "title": "CTRL (2024)",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:708": {
+    "ig6qlxqxoxvcxla:732": {
      "title": "CTRL (2024)",
      "category": "Drugs / science / technology control",
      "group": "Catalog records",
@@ -49278,7 +49326,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:215",
-    "ig6qlxqxoxvcxla:711",
+    "ig6qlxqxoxvcxla:735",
     "india-catalog:104",
     "worldwide-hypnosis:649"
    ],
@@ -49330,7 +49378,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:711",
+     "rid": "ig6qlxqxoxvcxla:735",
      "source": "ig6qlxqxoxvcxla",
      "label": "Naagin season 1 — hypnosis for interrogation",
      "identifiers": [
@@ -49475,7 +49523,7 @@ window.CATALOG = {
      "variantProv": "Combined worldwide and Indian-language pregnancy-control sweep completed 30 Sep 2026; every title was checked against the loaded catalog before category assignment.",
      "icg": "villain"
     },
-    "ig6qlxqxoxvcxla:711": {
+    "ig6qlxqxoxvcxla:735": {
      "title": "Naagin season 1 — hypnosis for interrogation",
      "category": "Other female hypnosis / mind control",
      "group": "Catalog records",
@@ -49556,7 +49604,7 @@ window.CATALOG = {
    "confidence_flag": "Verified",
    "summary": "Villainess Jasmin hypnotizes Durga and orders her to steal the Amman statue, jump into a well with it and later take Surya to the Namboothiri’s house; Maari and Surya seek a cure.",
    "character": "",
-   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog; Wikipedia)",
+   "provenance": "Episode-level detail folded in from the 9 Oct 2026 Indian platform sweep.",
    "note": "",
    "format": "tv",
    "categories": [
@@ -49585,7 +49633,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:216",
-    "ig6qlxqxoxvcxla:712",
+    "ig6qlxqxoxvcxla:186",
+    "ig6qlxqxoxvcxla:736",
     "india-catalog:70"
    ],
    "index_only": false,
@@ -49629,7 +49678,31 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:712",
+     "rid": "ig6qlxqxoxvcxla:186",
+     "source": "ig6qlxqxoxvcxla",
+     "label": "Maari (2022–25)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Maari",
+     "subtitle": "",
+     "year": "2022–25",
+     "meta": "TV serial · India · Tamil · Zee Tamil / ZEE5",
+     "summary": "In an April 2023 arc, Jasmin uses a Namboothiri tantrik to hypnotise Durga after Sreeja removes Durga’s protective dhaga. Durga obeys commands to take Surya to the tantrik’s house, steal the Amman statue, throw it into a well and then jump in herself; Maari stops her and seeks Karuppuswamy’s help to break the hypnosis.",
+     "character": "Durga",
+     "note": "Pregnancy and children statuses are unknown; the reviewed sources do not say.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "other-control"
+     ],
+     "sources": [],
+     "distinct_story": true,
+     "index_title": "Maari",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "ig6qlxqxoxvcxla:736",
      "source": "ig6qlxqxoxvcxla",
      "label": "Maari — hypnotic criminal commands",
      "identifiers": [
@@ -49709,7 +49782,36 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:712": {
+    "ig6qlxqxoxvcxla:186": {
+     "detailed": {
+      "cat": 33,
+      "title": "Maari",
+      "year": "2022–25",
+      "meta": "TV serial · India · Tamil · Zee Tamil / ZEE5",
+      "subgroup": "Hypnotic criminal commands",
+      "summary": "In an April 2023 arc, Jasmin uses a Namboothiri tantrik to hypnotise Durga after Sreeja removes Durga’s protective dhaga. Durga obeys commands to take Surya to the tantrik’s house, steal the Amman statue, throw it into a well and then jump in herself; Maari stops her and seeks Karuppuswamy’s help to break the hypnosis.",
+      "note": "Pregnancy and children statuses are unknown; the reviewed sources do not say.",
+      "character": "Durga",
+      "mechanism": "Tantrik-assisted hypnosis after removal of a protective thread",
+      "controller": "Jasmin with a Namboothiri tantrik",
+      "motive": "Compel Durga to steal and destroy the Amman statue, then endanger herself",
+      "tags": [
+       "Other female hypnosis / mind control",
+       "Pregnancy status · unknown",
+       "Children status · unknown"
+      ],
+      "sources": [
+       {
+        "name": "TellyExpress · 3 episode reports"
+       },
+       {
+        "name": "JustShowBiz · 3 episode reports"
+       }
+      ],
+      "provenance": "Episode-level detail folded in from the 9 Oct 2026 Indian platform sweep."
+     }
+    },
+    "ig6qlxqxoxvcxla:736": {
      "title": "Maari — hypnotic criminal commands",
      "category": "Other female hypnosis / mind control",
      "group": "Catalog records",
@@ -49748,7 +49850,7 @@ window.CATALOG = {
    "confidence_flag": "Verified · therapeutic context",
    "summary": "Sanjana undergoes past-life regression hypnosis; the recovered past-life memories drive her present-day actions and choices.",
    "character": "",
-   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "provenance": "Pregnancy and children detail folded in from the 9 Oct 2026 Indian platform sweep.",
    "note": "",
    "format": "movie",
    "categories": [
@@ -49772,7 +49874,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:217",
-    "ig6qlxqxoxvcxla:713",
+    "ig6qlxqxoxvcxla:184",
+    "ig6qlxqxoxvcxla:737",
     "india-catalog:142"
    ],
    "index_only": false,
@@ -49811,7 +49914,31 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:713",
+     "rid": "ig6qlxqxoxvcxla:184",
+     "source": "ig6qlxqxoxvcxla",
+     "label": "Dangerous Ishhq (2012)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dangerous Ishhq",
+     "subtitle": "",
+     "year": "2012",
+     "meta": "Feature film · India · Hindi",
+     "summary": "Sanjana undergoes past-life regression hypnosis while investigating her fiancé’s kidnapping.",
+     "character": "",
+     "note": "Pregnancy / children update: Sanjana is not pregnant during the film. She and Rohan discuss a future of marriage and children, but no pregnancy occurs and she has no children by the end.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "other-control"
+     ],
+     "sources": [],
+     "distinct_story": true,
+     "index_title": "Dangerous Ishhq",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "ig6qlxqxoxvcxla:737",
      "source": "ig6qlxqxoxvcxla",
      "label": "Dangerous Ishhq (2012) — past-life regression",
      "identifiers": [
@@ -49880,7 +50007,33 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:713": {
+    "ig6qlxqxoxvcxla:184": {
+     "detailed": {
+      "cat": 33,
+      "title": "Dangerous Ishhq",
+      "year": "2012",
+      "meta": "Feature film · India · Hindi",
+      "subgroup": "Past-life regression",
+      "summary": "Sanjana undergoes past-life regression hypnosis while investigating her fiancé’s kidnapping.",
+      "note": "Pregnancy / children update: Sanjana is not pregnant during the film. She and Rohan discuss a future of marriage and children, but no pregnancy occurs and she has no children by the end.",
+      "tags": [
+       "Other female hypnosis / mind control",
+       "Pregnancy during arc · no",
+       "Pregnant at end · no",
+       "Children before and by end · none"
+      ],
+      "sources": [
+       {
+        "name": "Koimoi review"
+       },
+       {
+        "name": "BollywoodLife"
+       }
+      ],
+      "provenance": "Pregnancy and children detail folded in from the 9 Oct 2026 Indian platform sweep."
+     }
+    },
+    "ig6qlxqxoxvcxla:737": {
      "title": "Dangerous Ishhq (2012) — past-life regression",
      "category": "Other female hypnosis / mind control",
      "group": "Catalog records",
@@ -49931,7 +50084,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:218",
-    "ig6qlxqxoxvcxla:714"
+    "ig6qlxqxoxvcxla:738"
    ],
    "index_only": false,
    "local_only": false,
@@ -49965,7 +50118,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:714",
+     "rid": "ig6qlxqxoxvcxla:738",
      "source": "ig6qlxqxoxvcxla",
      "label": "Sepatu Super (2013 Indonesia) — possible",
      "identifiers": [
@@ -50009,7 +50162,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:714": {
+    "ig6qlxqxoxvcxla:738": {
      "title": "Sepatu Super (2013 Indonesia) — possible",
      "category": "Other female hypnosis / mind control",
      "group": "Catalog records",
@@ -50049,7 +50202,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:219",
-    "ig6qlxqxoxvcxla:715"
+    "ig6qlxqxoxvcxla:739"
    ],
    "index_only": false,
    "local_only": false,
@@ -50084,7 +50237,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:715",
+     "rid": "ig6qlxqxoxvcxla:739",
      "source": "ig6qlxqxoxvcxla",
      "label": "Malam Minggu Miko “Hipnotis Vania” — possible, title only",
      "identifiers": [
@@ -50128,7 +50281,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:715": {
+    "ig6qlxqxoxvcxla:739": {
      "title": "Malam Minggu Miko “Hipnotis Vania” — possible, title only",
      "category": "Other female hypnosis / mind control",
      "group": "Catalog records",
@@ -50167,7 +50320,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:220",
-    "ig6qlxqxoxvcxla:716",
+    "ig6qlxqxoxvcxla:740",
     "india-catalog:120"
    ],
    "index_only": false,
@@ -50202,7 +50355,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:716",
+     "rid": "ig6qlxqxoxvcxla:740",
      "source": "ig6qlxqxoxvcxla",
      "label": "Bhaagamathie (2018) — feigned spirit control, boundary case",
      "identifiers": [
@@ -50267,7 +50420,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:716": {
+    "ig6qlxqxoxvcxla:740": {
      "title": "Bhaagamathie (2018) — feigned spirit control, boundary case",
      "category": "Other female hypnosis / mind control",
      "group": "Catalog records",
@@ -50805,8 +50958,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:222",
-    "ig6qlxqxoxvcxla:174",
-    "ig6qlxqxoxvcxla:309"
+    "ig6qlxqxoxvcxla:196",
+    "ig6qlxqxoxvcxla:332"
    ],
    "index_only": false,
    "local_only": false,
@@ -50835,7 +50988,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:174",
+     "rid": "ig6qlxqxoxvcxla:196",
      "source": "ig6qlxqxoxvcxla",
      "label": "White Zombie (1932)",
      "identifiers": [
@@ -50859,7 +51012,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:309",
+     "rid": "ig6qlxqxoxvcxla:332",
      "source": "ig6qlxqxoxvcxla",
      "label": "White Zombie",
      "identifiers": [],
@@ -50895,14 +51048,14 @@ window.CATALOG = {
      "s": "Voodoo master Murder Legendre revives Madeline Parker as a zombie bride obedient only to his hypnotic will.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:174": {
+    "ig6qlxqxoxvcxla:196": {
      "title": "White Zombie (1932)",
      "category": "Hypnotized to love",
      "group": "Literal stage-style hypnosis",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:309": {
+    "ig6qlxqxoxvcxla:332": {
      "title": "White Zombie",
      "category": "Partner hires a third-party controller",
      "group": "Leads / variants",
@@ -50996,7 +51149,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:223",
-    "ig6qlxqxoxvcxla:175",
+    "ig6qlxqxoxvcxla:197",
     "rich-wife-hypnosis:4"
    ],
    "index_only": false,
@@ -51035,7 +51188,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:175",
+     "rid": "ig6qlxqxoxvcxla:197",
      "source": "ig6qlxqxoxvcxla",
      "label": "Pilgrim Lovers / Gayuma",
      "identifiers": [],
@@ -51124,7 +51277,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:175": {
+    "ig6qlxqxoxvcxla:197": {
      "title": "Pilgrim Lovers / Gayuma",
      "category": "Hypnotized to love",
      "group": "Hypnotist's assistant / love-potion variants",
@@ -51200,7 +51353,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:224",
-    "ig6qlxqxoxvcxla:176",
+    "ig6qlxqxoxvcxla:198",
     "hypnotized-marriage:10"
    ],
    "index_only": false,
@@ -51230,7 +51383,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:176",
+     "rid": "ig6qlxqxoxvcxla:198",
      "source": "ig6qlxqxoxvcxla",
      "label": "Wish Ko Lang ‘Gayuma’",
      "identifiers": [
@@ -51297,7 +51450,7 @@ window.CATALOG = {
      "s": "Regina is put under a love-potion spell by obsessed Adan, who makes her agree to marry him.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:176": {
+    "ig6qlxqxoxvcxla:198": {
      "title": "Wish Ko Lang ‘Gayuma’",
      "category": "Hypnotized to love",
      "group": "Hypnotist's assistant / love-potion variants",
@@ -51350,8 +51503,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:225",
-    "ig6qlxqxoxvcxla:177",
-    "ig6qlxqxoxvcxla:696"
+    "ig6qlxqxoxvcxla:199",
+    "ig6qlxqxoxvcxla:720"
    ],
    "index_only": false,
    "local_only": false,
@@ -51380,7 +51533,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:177",
+     "rid": "ig6qlxqxoxvcxla:199",
      "source": "ig6qlxqxoxvcxla",
      "label": "A Midsummer Night’s Dream",
      "identifiers": [],
@@ -51402,7 +51555,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:696",
+     "rid": "ig6qlxqxoxvcxla:720",
      "source": "ig6qlxqxoxvcxla",
      "label": "A Midsummer Night’s Dream variants",
      "identifiers": [
@@ -51440,14 +51593,14 @@ window.CATALOG = {
      "s": "Fairy Queen Titania is bewitched by Puck's magic love-flower juice into doting on the ass-headed Bottom.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:177": {
+    "ig6qlxqxoxvcxla:199": {
      "title": "A Midsummer Night’s Dream",
      "category": "Hypnotized to love",
      "group": "Hypnotist's assistant / love-potion variants",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:696": {
+    "ig6qlxqxoxvcxla:720": {
      "title": "A Midsummer Night’s Dream variants",
      "category": "Fantasy enchantment",
      "group": "Catalog records",
@@ -51480,7 +51633,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:226",
-    "ig6qlxqxoxvcxla:872"
+    "ig6qlxqxoxvcxla:896"
    ],
    "index_only": false,
    "local_only": false,
@@ -51509,7 +51662,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:872",
+     "rid": "ig6qlxqxoxvcxla:896",
      "source": "ig6qlxqxoxvcxla",
      "label": "Apocalipse (2017–18 Brazil)",
      "identifiers": [
@@ -51549,7 +51702,7 @@ window.CATALOG = {
      "pg": "high",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:872": {
+    "ig6qlxqxoxvcxla:896": {
      "title": "Apocalipse (2017–18 Brazil)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "High-confidence direct control / possession",
@@ -51603,7 +51756,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:227",
-    "ig6qlxqxoxvcxla:495",
+    "ig6qlxqxoxvcxla:519",
     "rich-wife-hypnosis:15"
    ],
    "index_only": false,
@@ -51643,7 +51796,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:495",
+     "rid": "ig6qlxqxoxvcxla:519",
      "source": "ig6qlxqxoxvcxla",
      "label": "Dr. Mabuse the Gambler (1922)",
      "identifiers": [
@@ -51735,7 +51888,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:495": {
+    "ig6qlxqxoxvcxla:519": {
      "title": "Dr. Mabuse the Gambler (1922)",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -51841,7 +51994,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:228",
-    "ig6qlxqxoxvcxla:498",
+    "ig6qlxqxoxvcxla:522",
     "worldwide-hypnosis:865"
    ],
    "index_only": false,
@@ -51889,7 +52042,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:498",
+     "rid": "ig6qlxqxoxvcxla:522",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Climax (1944)",
      "identifiers": [
@@ -51985,7 +52138,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:498": {
+    "ig6qlxqxoxvcxla:522": {
      "title": "The Climax (1944)",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -52106,9 +52259,9 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla:61",
     "ig6qlxqxoxvcxla:133",
     "ig6qlxqxoxvcxla:140",
-    "ig6qlxqxoxvcxla:245",
-    "ig6qlxqxoxvcxla:316",
-    "ig6qlxqxoxvcxla:499",
+    "ig6qlxqxoxvcxla:268",
+    "ig6qlxqxoxvcxla:339",
+    "ig6qlxqxoxvcxla:523",
     "worldwide-hypnosis:1051",
     "rich-wife-hypnosis:2"
    ],
@@ -52308,7 +52461,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:245",
+     "rid": "ig6qlxqxoxvcxla:268",
      "source": "ig6qlxqxoxvcxla",
      "label": "Whirlpool (1949)",
      "identifiers": [
@@ -52332,7 +52485,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:316",
+     "rid": "ig6qlxqxoxvcxla:339",
      "source": "ig6qlxqxoxvcxla",
      "label": "Whirlpool (1949)",
      "identifiers": [
@@ -52356,7 +52509,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:499",
+     "rid": "ig6qlxqxoxvcxla:523",
      "source": "ig6qlxqxoxvcxla",
      "label": "Whirlpool (1949)",
      "identifiers": [
@@ -52647,21 +52800,21 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:245": {
+    "ig6qlxqxoxvcxla:268": {
      "title": "Whirlpool (1949)",
      "category": "Forcibly hypnotized to obey",
      "group": "Doctor / psychiatrist",
      "confidence": "Stronger case",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:316": {
+    "ig6qlxqxoxvcxla:339": {
      "title": "Whirlpool (1949)",
      "category": "Wife hypnotized / controlled by a therapist",
      "group": "Evil / criminal exploitation",
      "confidence": "Strict match",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:499": {
+    "ig6qlxqxoxvcxla:523": {
      "title": "Whirlpool (1949)",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -52796,7 +52949,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:230",
-    "ig6qlxqxoxvcxla:501",
+    "ig6qlxqxoxvcxla:525",
     "worldwide-hypnosis:949"
    ],
    "index_only": false,
@@ -52841,7 +52994,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:501",
+     "rid": "ig6qlxqxoxvcxla:525",
      "source": "ig6qlxqxoxvcxla",
      "label": "The She-Creature (1956)",
      "identifiers": [
@@ -52935,7 +53088,7 @@ window.CATALOG = {
      ],
      "fog": "stage"
     },
-    "ig6qlxqxoxvcxla:501": {
+    "ig6qlxqxoxvcxla:525": {
      "title": "The She-Creature (1956)",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -53027,7 +53180,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:231",
-    "ig6qlxqxoxvcxla:502",
+    "ig6qlxqxoxvcxla:526",
     "worldwide-hypnosis:988"
    ],
    "index_only": false,
@@ -53075,7 +53228,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:502",
+     "rid": "ig6qlxqxoxvcxla:526",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Undead (1957)",
      "identifiers": [
@@ -53171,7 +53324,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:502": {
+    "ig6qlxqxoxvcxla:526": {
      "title": "The Undead (1957)",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -53276,7 +53429,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:232",
-    "ig6qlxqxoxvcxla:503"
+    "ig6qlxqxoxvcxla:527"
    ],
    "index_only": false,
    "local_only": false,
@@ -53311,7 +53464,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:503",
+     "rid": "ig6qlxqxoxvcxla:527",
      "source": "ig6qlxqxoxvcxla",
      "label": "Voodoo Woman",
      "identifiers": [],
@@ -53355,7 +53508,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:503": {
+    "ig6qlxqxoxvcxla:527": {
      "title": "Voodoo Woman",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -53399,7 +53552,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:233",
-    "ig6qlxqxoxvcxla:504"
+    "ig6qlxqxoxvcxla:528"
    ],
    "index_only": false,
    "local_only": false,
@@ -53430,7 +53583,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:504",
+     "rid": "ig6qlxqxoxvcxla:528",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Diabolical Dr. Z / Miss Muerte (1966)",
      "identifiers": [
@@ -53494,7 +53647,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:504": {
+    "ig6qlxqxoxvcxla:528": {
      "title": "The Diabolical Dr. Z / Miss Muerte (1966)",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -53549,7 +53702,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:234",
-    "ig6qlxqxoxvcxla:505"
+    "ig6qlxqxoxvcxla:529"
    ],
    "index_only": false,
    "local_only": false,
@@ -53584,7 +53737,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:505",
+     "rid": "ig6qlxqxoxvcxla:529",
      "source": "ig6qlxqxoxvcxla",
      "label": "Dead Again (1991)",
      "identifiers": [
@@ -53630,7 +53783,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:505": {
+    "ig6qlxqxoxvcxla:529": {
      "title": "Dead Again (1991)",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -53688,7 +53841,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:235",
-    "ig6qlxqxoxvcxla:506",
+    "ig6qlxqxoxvcxla:530",
     "worldwide-hypnosis:655"
    ],
    "index_only": false,
@@ -53740,7 +53893,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:506",
+     "rid": "ig6qlxqxoxvcxla:530",
      "source": "ig6qlxqxoxvcxla",
      "label": "Now You See Me (2013)",
      "identifiers": [
@@ -53844,7 +53997,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:506": {
+    "ig6qlxqxoxvcxla:530": {
      "title": "Now You See Me (2013)",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -53930,7 +54083,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:236",
-    "ig6qlxqxoxvcxla:507",
+    "ig6qlxqxoxvcxla:531",
     "worldwide-hypnosis:916"
    ],
    "index_only": false,
@@ -53977,7 +54130,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:507",
+     "rid": "ig6qlxqxoxvcxla:531",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Mentalist (2012)",
      "identifiers": [
@@ -54077,7 +54230,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:507": {
+    "ig6qlxqxoxvcxla:531": {
      "title": "The Mentalist (2012)",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -54151,7 +54304,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:237",
-    "ig6qlxqxoxvcxla:508"
+    "ig6qlxqxoxvcxla:532"
    ],
    "index_only": false,
    "local_only": false,
@@ -54186,7 +54339,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:508",
+     "rid": "ig6qlxqxoxvcxla:532",
      "source": "ig6qlxqxoxvcxla",
      "label": "Dynasty: The Reunion (1991 TV movie)",
      "identifiers": [
@@ -54233,7 +54386,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:508": {
+    "ig6qlxqxoxvcxla:532": {
      "title": "Dynasty: The Reunion (1991 TV movie)",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -54324,8 +54477,8 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:238",
     "ig6qlxqxoxvcxla:79",
-    "ig6qlxqxoxvcxla:372",
-    "ig6qlxqxoxvcxla:509",
+    "ig6qlxqxoxvcxla:395",
+    "ig6qlxqxoxvcxla:533",
     "worldwide-hypnosis:863",
     "rich-wife-hypnosis:38"
    ],
@@ -54412,7 +54565,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:372",
+     "rid": "ig6qlxqxoxvcxla:395",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Bold and the Beautiful (1998) — Taylor Hayes",
      "identifiers": [
@@ -54437,7 +54590,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:509",
+     "rid": "ig6qlxqxoxvcxla:533",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Bold and the Beautiful (1998)",
      "identifiers": [
@@ -54648,14 +54801,14 @@ window.CATALOG = {
       "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
      }
     },
-    "ig6qlxqxoxvcxla:372": {
+    "ig6qlxqxoxvcxla:395": {
      "title": "The Bold and the Beautiful (1998) — Taylor Hayes",
      "category": "Pregnant stepmother / bonus mom",
      "group": "Paternity-mystery soap arc",
      "confidence": "Medium-high",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:509": {
+    "ig6qlxqxoxvcxla:533": {
      "title": "The Bold and the Beautiful (1998)",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -54788,7 +54941,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:239",
-    "ig6qlxqxoxvcxla:510"
+    "ig6qlxqxoxvcxla:534"
    ],
    "index_only": false,
    "local_only": false,
@@ -54817,7 +54970,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:510",
+     "rid": "ig6qlxqxoxvcxla:534",
      "source": "ig6qlxqxoxvcxla",
      "label": "Santa Barbara (1991)",
      "identifiers": [
@@ -54855,7 +55008,7 @@ window.CATALOG = {
      "s": "Marcello Armonti hypnotizes Eden Capwell to make her forget seeing her supposedly dead mother Sophia.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:510": {
+    "ig6qlxqxoxvcxla:534": {
      "title": "Santa Barbara (1991)",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -54888,7 +55041,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:240",
-    "ig6qlxqxoxvcxla:511"
+    "ig6qlxqxoxvcxla:535"
    ],
    "index_only": false,
    "local_only": false,
@@ -54917,7 +55070,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:511",
+     "rid": "ig6qlxqxoxvcxla:535",
      "source": "ig6qlxqxoxvcxla",
      "label": "Port Charles",
      "identifiers": [],
@@ -54953,7 +55106,7 @@ window.CATALOG = {
      "s": "Greg Cooper brainwashes Julie Devlin into becoming a serial killer during the \"General Homicide\" killings.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:511": {
+    "ig6qlxqxoxvcxla:535": {
      "title": "Port Charles",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -55002,7 +55155,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:241",
-    "ig6qlxqxoxvcxla:512",
+    "ig6qlxqxoxvcxla:536",
     "worldwide-hypnosis:75",
     "hypnotized-marriage:3"
    ],
@@ -55043,7 +55196,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:512",
+     "rid": "ig6qlxqxoxvcxla:536",
      "source": "ig6qlxqxoxvcxla",
      "label": "Another World (1998–99)",
      "identifiers": [
@@ -55159,7 +55312,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:512": {
+    "ig6qlxqxoxvcxla:536": {
      "title": "Another World (1998–99)",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -55282,7 +55435,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:242",
-    "ig6qlxqxoxvcxla:513",
+    "ig6qlxqxoxvcxla:537",
     "mother-kids-hypnosis:32"
    ],
    "index_only": false,
@@ -55333,7 +55486,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:513",
+     "rid": "ig6qlxqxoxvcxla:537",
      "source": "ig6qlxqxoxvcxla",
      "label": "One Life to Live (1990s)",
      "identifiers": [
@@ -55457,7 +55610,7 @@ window.CATALOG = {
      ],
      "mg": "high"
     },
-    "ig6qlxqxoxvcxla:513": {
+    "ig6qlxqxoxvcxla:537": {
      "title": "One Life to Live (1990s)",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -55550,8 +55703,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:243",
-    "ig6qlxqxoxvcxla:407",
-    "ig6qlxqxoxvcxla:514"
+    "ig6qlxqxoxvcxla:430",
+    "ig6qlxqxoxvcxla:538"
    ],
    "index_only": false,
    "local_only": false,
@@ -55586,7 +55739,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:407",
+     "rid": "ig6qlxqxoxvcxla:430",
      "source": "ig6qlxqxoxvcxla",
      "label": "All My Children",
      "identifiers": [],
@@ -55608,7 +55761,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:514",
+     "rid": "ig6qlxqxoxvcxla:538",
      "source": "ig6qlxqxoxvcxla",
      "label": "All My Children (1987)",
      "identifiers": [
@@ -55654,14 +55807,14 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:407": {
+    "ig6qlxqxoxvcxla:430": {
      "title": "All My Children",
      "category": "Adopt a child, then become pregnant",
      "group": "Infertility / trouble conceiving → adoption → pregnancy",
      "confidence": "Verified",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:514": {
+    "ig6qlxqxoxvcxla:538": {
      "title": "All My Children (1987)",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -55696,9 +55849,9 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:244",
-    "ig6qlxqxoxvcxla:210",
-    "ig6qlxqxoxvcxla:377",
-    "ig6qlxqxoxvcxla:515"
+    "ig6qlxqxoxvcxla:232",
+    "ig6qlxqxoxvcxla:400",
+    "ig6qlxqxoxvcxla:539"
    ],
    "index_only": false,
    "local_only": false,
@@ -55727,7 +55880,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:210",
+     "rid": "ig6qlxqxoxvcxla:232",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Young and the Restless",
      "identifiers": [],
@@ -55749,7 +55902,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:377",
+     "rid": "ig6qlxqxoxvcxla:400",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Young and the Restless",
      "identifiers": [],
@@ -55771,7 +55924,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:515",
+     "rid": "ig6qlxqxoxvcxla:539",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Young and the Restless (2015–16)",
      "identifiers": [
@@ -55809,21 +55962,21 @@ window.CATALOG = {
      "s": "Dr. Sandy Anderson drugs and brainwashes Sharon Newman into believing she is pregnant, then gives her Nick and Sage's kidnapped baby.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:210": {
+    "ig6qlxqxoxvcxla:232": {
      "title": "The Young and the Restless",
      "category": "Wife with children pregnant by another man",
      "group": "Secret affair pregnancy",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:377": {
+    "ig6qlxqxoxvcxla:400": {
      "title": "The Young and the Restless",
      "category": "Single mom remarries and gets pregnant with new partner",
      "group": "USA",
      "confidence": "Exact",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:515": {
+    "ig6qlxqxoxvcxla:539": {
      "title": "The Young and the Restless (2015–16)",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -55858,7 +56011,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:245",
-    "ig6qlxqxoxvcxla:516"
+    "ig6qlxqxoxvcxla:540"
    ],
    "index_only": false,
    "local_only": false,
@@ -55889,7 +56042,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:516",
+     "rid": "ig6qlxqxoxvcxla:540",
      "source": "ig6qlxqxoxvcxla",
      "label": "Dark Shadows (1967–68)",
      "identifiers": [
@@ -55961,7 +56114,7 @@ window.CATALOG = {
      ],
      "fog": "therapist"
     },
-    "ig6qlxqxoxvcxla:516": {
+    "ig6qlxqxoxvcxla:540": {
      "title": "Dark Shadows (1967–68)",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -56087,9 +56240,9 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:246",
-    "ig6qlxqxoxvcxla:517",
-    "ig6qlxqxoxvcxla:645",
-    "ig6qlxqxoxvcxla:819",
+    "ig6qlxqxoxvcxla:541",
+    "ig6qlxqxoxvcxla:669",
+    "ig6qlxqxoxvcxla:843",
     "hypnosis-assault:27"
    ],
    "index_only": false,
@@ -56144,7 +56297,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:517",
+     "rid": "ig6qlxqxoxvcxla:541",
      "source": "ig6qlxqxoxvcxla",
      "label": "Jessica Jones — Hope Shlottman",
      "identifiers": [
@@ -56168,7 +56321,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:645",
+     "rid": "ig6qlxqxoxvcxla:669",
      "source": "ig6qlxqxoxvcxla",
      "label": "Jessica Jones — Kilgrave",
      "identifiers": [
@@ -56192,7 +56345,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:819",
+     "rid": "ig6qlxqxoxvcxla:843",
      "source": "ig6qlxqxoxvcxla",
      "label": "Jessica Jones",
      "identifiers": [],
@@ -56339,21 +56492,21 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:517": {
+    "ig6qlxqxoxvcxla:541": {
      "title": "Jessica Jones — Hope Shlottman",
      "category": "Human-villain control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:645": {
+    "ig6qlxqxoxvcxla:669": {
      "title": "Jessica Jones — Kilgrave",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:819": {
+    "ig6qlxqxoxvcxla:843": {
      "title": "Jessica Jones",
      "category": "Pregnant woman hypnotized / mind-controlled",
      "group": "Villain / stranger / criminal",
@@ -56459,7 +56612,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:247",
-    "ig6qlxqxoxvcxla:518"
+    "ig6qlxqxoxvcxla:542"
    ],
    "index_only": false,
    "local_only": false,
@@ -56488,7 +56641,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:518",
+     "rid": "ig6qlxqxoxvcxla:542",
      "source": "ig6qlxqxoxvcxla",
      "label": "Os Mutantes: Caminhos do Coração (2008–09)",
      "identifiers": [
@@ -56526,7 +56679,7 @@ window.CATALOG = {
      "s": "Gór hypnotizes Carol with his gaze and voice and commands her to build a bomb.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:518": {
+    "ig6qlxqxoxvcxla:542": {
      "title": "Os Mutantes: Caminhos do Coração (2008–09)",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -56560,8 +56713,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:248",
-    "ig6qlxqxoxvcxla:519",
-    "ig6qlxqxoxvcxla:671"
+    "ig6qlxqxoxvcxla:543",
+    "ig6qlxqxoxvcxla:695"
    ],
    "index_only": false,
    "local_only": false,
@@ -56590,7 +56743,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:519",
+     "rid": "ig6qlxqxoxvcxla:543",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Gifted (2018 Thailand)",
      "identifiers": [
@@ -56615,7 +56768,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:671",
+     "rid": "ig6qlxqxoxvcxla:695",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Gifted (2018)",
      "identifiers": [
@@ -56653,14 +56806,14 @@ window.CATALOG = {
      "s": "Villainous director Chueamanee wields mind-control power over students, compelling obedience.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:519": {
+    "ig6qlxqxoxvcxla:543": {
      "title": "The Gifted (2018 Thailand)",
      "category": "Human-villain control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:671": {
+    "ig6qlxqxoxvcxla:695": {
      "title": "The Gifted (2018)",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
@@ -56709,9 +56862,9 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:249",
-    "ig6qlxqxoxvcxla:520",
-    "ig6qlxqxoxvcxla:669",
-    "ig6qlxqxoxvcxla:782"
+    "ig6qlxqxoxvcxla:544",
+    "ig6qlxqxoxvcxla:693",
+    "ig6qlxqxoxvcxla:806"
    ],
    "index_only": false,
    "local_only": false,
@@ -56755,7 +56908,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:520",
+     "rid": "ig6qlxqxoxvcxla:544",
      "source": "ig6qlxqxoxvcxla",
      "label": "Code Geass (2006–07)",
      "identifiers": [
@@ -56780,7 +56933,7 @@ window.CATALOG = {
      "matched_by": "prefix"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:669",
+     "rid": "ig6qlxqxoxvcxla:693",
      "source": "ig6qlxqxoxvcxla",
      "label": "Code Geass",
      "identifiers": [
@@ -56804,7 +56957,7 @@ window.CATALOG = {
      "matched_by": "prefix"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:782",
+     "rid": "ig6qlxqxoxvcxla:806",
      "source": "ig6qlxqxoxvcxla",
      "label": "Code Geass",
      "identifiers": [
@@ -56860,21 +57013,21 @@ window.CATALOG = {
      ],
      "ahg": "anime"
     },
-    "ig6qlxqxoxvcxla:520": {
+    "ig6qlxqxoxvcxla:544": {
      "title": "Code Geass (2006–07)",
      "category": "Human-villain control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:669": {
+    "ig6qlxqxoxvcxla:693": {
      "title": "Code Geass",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:782": {
+    "ig6qlxqxoxvcxla:806": {
      "title": "Code Geass",
      "category": "Female character controlled by a child / teen",
      "group": "Teen powers / artifacts / technology",
@@ -56908,8 +57061,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:250",
-    "ig6qlxqxoxvcxla:521",
-    "ig6qlxqxoxvcxla:672"
+    "ig6qlxqxoxvcxla:545",
+    "ig6qlxqxoxvcxla:696"
    ],
    "index_only": false,
    "local_only": false,
@@ -56938,7 +57091,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:521",
+     "rid": "ig6qlxqxoxvcxla:545",
      "source": "ig6qlxqxoxvcxla",
      "label": "SPEC: Rei (2013 Japan TV movie)",
      "identifiers": [
@@ -56963,7 +57116,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:672",
+     "rid": "ig6qlxqxoxvcxla:696",
      "source": "ig6qlxqxoxvcxla",
      "label": "SPEC: Rei (2013)",
      "identifiers": [
@@ -57001,14 +57154,14 @@ window.CATALOG = {
      "s": "Detective Saya Toma discovers her memories were fabricated by Chii, a mind-controlling stalker who implanted false memories.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:521": {
+    "ig6qlxqxoxvcxla:545": {
      "title": "SPEC: Rei (2013 Japan TV movie)",
      "category": "Human-villain control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:672": {
+    "ig6qlxqxoxvcxla:696": {
      "title": "SPEC: Rei (2013)",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
@@ -57052,8 +57205,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:251",
-    "ig6qlxqxoxvcxla:355",
-    "ig6qlxqxoxvcxla:522",
+    "ig6qlxqxoxvcxla:378",
+    "ig6qlxqxoxvcxla:546",
     "india-catalog:14",
     "worldwide-hypnosis:712"
    ],
@@ -57090,7 +57243,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:355",
+     "rid": "ig6qlxqxoxvcxla:378",
      "source": "ig6qlxqxoxvcxla",
      "label": "Qubool Hai",
      "identifiers": [],
@@ -57112,7 +57265,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:522",
+     "rid": "ig6qlxqxoxvcxla:546",
      "source": "ig6qlxqxoxvcxla",
      "label": "Qubool Hai (2014)",
      "identifiers": [
@@ -57214,14 +57367,14 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:355": {
+    "ig6qlxqxoxvcxla:378": {
      "title": "Qubool Hai",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Near-misses",
      "confidence": "Near-miss",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:522": {
+    "ig6qlxqxoxvcxla:546": {
      "title": "Qubool Hai (2014)",
      "category": "Human-villain control",
      "group": "Catalog records",
@@ -57324,7 +57477,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:252",
-    "ig6qlxqxoxvcxla:527",
+    "ig6qlxqxoxvcxla:551",
     "worldwide-hypnosis:278",
     "hypnosis-assault-loose:31"
    ],
@@ -57370,7 +57523,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:527",
+     "rid": "ig6qlxqxoxvcxla:551",
      "source": "ig6qlxqxoxvcxla",
      "label": "Dracula (1931)",
      "identifiers": [
@@ -57507,7 +57660,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:527": {
+    "ig6qlxqxoxvcxla:551": {
      "title": "Dracula (1931)",
      "category": "Vampire mesmerism",
      "group": "Classic gothic mesmerism",
@@ -57969,8 +58122,8 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:255",
     "ig6qlxqxoxvcxla:31",
-    "ig6qlxqxoxvcxla:194",
-    "ig6qlxqxoxvcxla:528",
+    "ig6qlxqxoxvcxla:216",
+    "ig6qlxqxoxvcxla:552",
     "worldwide-hypnosis:432"
    ],
    "index_only": false,
@@ -58048,7 +58201,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:194",
+     "rid": "ig6qlxqxoxvcxla:216",
      "source": "ig6qlxqxoxvcxla",
      "label": "Horror of Dracula (1958)",
      "identifiers": [
@@ -58072,7 +58225,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:528",
+     "rid": "ig6qlxqxoxvcxla:552",
      "source": "ig6qlxqxoxvcxla",
      "label": "Horror of Dracula (1958)",
      "identifiers": [
@@ -58186,14 +58339,14 @@ window.CATALOG = {
       "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
      }
     },
-    "ig6qlxqxoxvcxla:194": {
+    "ig6qlxqxoxvcxla:216": {
      "title": "Horror of Dracula (1958)",
      "category": "Hypnotized / controlled into infidelity",
      "group": "Supernatural / occult predator compulsion",
      "confidence": "High confidence",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:528": {
+    "ig6qlxqxoxvcxla:552": {
      "title": "Horror of Dracula (1958)",
      "category": "Vampire mesmerism",
      "group": "Classic gothic mesmerism",
@@ -58268,7 +58421,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:256",
-    "ig6qlxqxoxvcxla:529",
+    "ig6qlxqxoxvcxla:553",
     "worldwide-hypnosis:870"
    ],
    "index_only": false,
@@ -58315,7 +58468,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:529",
+     "rid": "ig6qlxqxoxvcxla:553",
      "source": "ig6qlxqxoxvcxla",
      "label": "Brides of Dracula (1960)",
      "identifiers": [
@@ -58434,7 +58587,7 @@ window.CATALOG = {
      "marryFlag": "MEDIUM · proposal only · existing-record membership grant",
      "marryProv": "Worldwide eight-vector hypnotized-to-marry sweep, 3 Oct 2026 · sources retained on the existing catalog record"
     },
-    "ig6qlxqxoxvcxla:529": {
+    "ig6qlxqxoxvcxla:553": {
      "title": "Brides of Dracula (1960)",
      "category": "Vampire mesmerism",
      "group": "Classic gothic mesmerism",
@@ -58511,7 +58664,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:257",
-    "ig6qlxqxoxvcxla:530",
+    "ig6qlxqxoxvcxla:554",
     "worldwide-hypnosis:513"
    ],
    "index_only": false,
@@ -58556,7 +58709,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:530",
+     "rid": "ig6qlxqxoxvcxla:554",
      "source": "ig6qlxqxoxvcxla",
      "label": "Kiss of the Vampire (1963)",
      "identifiers": [
@@ -58647,7 +58800,7 @@ window.CATALOG = {
      "ahg": "vampire-erotic",
      "ch": "Marianne"
     },
-    "ig6qlxqxoxvcxla:530": {
+    "ig6qlxqxoxvcxla:554": {
      "title": "Kiss of the Vampire (1963)",
      "category": "Vampire mesmerism",
      "group": "Classic gothic mesmerism",
@@ -58736,7 +58889,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:258",
-    "ig6qlxqxoxvcxla:531",
+    "ig6qlxqxoxvcxla:555",
     "worldwide-hypnosis:309"
    ],
    "index_only": false,
@@ -58776,7 +58929,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:531",
+     "rid": "ig6qlxqxoxvcxla:555",
      "source": "ig6qlxqxoxvcxla",
      "label": "Dracula: Prince of Darkness (1966)",
      "identifiers": [
@@ -58860,7 +59013,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:531": {
+    "ig6qlxqxoxvcxla:555": {
      "title": "Dracula: Prince of Darkness (1966)",
      "category": "Vampire mesmerism",
      "group": "Classic gothic mesmerism",
@@ -58933,7 +59086,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:259",
-    "ig6qlxqxoxvcxla:532",
+    "ig6qlxqxoxvcxla:556",
     "worldwide-hypnosis:279"
    ],
    "index_only": false,
@@ -58974,7 +59127,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:532",
+     "rid": "ig6qlxqxoxvcxla:556",
      "source": "ig6qlxqxoxvcxla",
      "label": "Dracula Has Risen from the Grave (1968)",
      "identifiers": [
@@ -59060,7 +59213,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:532": {
+    "ig6qlxqxoxvcxla:556": {
      "title": "Dracula Has Risen from the Grave (1968)",
      "category": "Vampire mesmerism",
      "group": "Classic gothic mesmerism",
@@ -59481,7 +59634,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:262",
-    "ig6qlxqxoxvcxla:545"
+    "ig6qlxqxoxvcxla:569"
    ],
    "index_only": false,
    "local_only": false,
@@ -59517,7 +59670,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:545",
+     "rid": "ig6qlxqxoxvcxla:569",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Vampire Lovers (1970)",
      "identifiers": [
@@ -59566,7 +59719,7 @@ window.CATALOG = {
      "ch": "Emma Morton",
      "fog": "supernatural"
     },
-    "ig6qlxqxoxvcxla:545": {
+    "ig6qlxqxoxvcxla:569": {
      "title": "The Vampire Lovers (1970)",
      "category": "Vampire mesmerism",
      "group": "Erotic / romantic vampire control",
@@ -60320,8 +60473,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:269",
-    "ig6qlxqxoxvcxla:292",
-    "ig6qlxqxoxvcxla:541",
+    "ig6qlxqxoxvcxla:315",
+    "ig6qlxqxoxvcxla:565",
     "worldwide-hypnosis:670"
    ],
    "index_only": false,
@@ -60370,7 +60523,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:292",
+     "rid": "ig6qlxqxoxvcxla:315",
      "source": "ig6qlxqxoxvcxla",
      "label": "O Beijo do Vampiro (2002–03)",
      "identifiers": [
@@ -60394,7 +60547,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:541",
+     "rid": "ig6qlxqxoxvcxla:565",
      "source": "ig6qlxqxoxvcxla",
      "label": "O Beijo do Vampiro (2002–03 Brazil)",
      "identifiers": [
@@ -60548,14 +60701,14 @@ window.CATALOG = {
      "polygamyProv": "Worldwide seven-vector sweep plus strict-scope supplement, 1 Oct 2026 · Wikipedia · Mental Block wiki",
      "note": "3 Oct 2026 hypnotized-to-marry sweep: hypnosis→pregnancy is confirmed via Canal Viva recaps (chapter 41: Victor hypnotizes Ciça and sleeps with her; chapters 130–147 repeat the control; chapter 157: Victor stops when he realizes she is pregnant), but there is no marriage — Ciça cancels her wedding to Roger, and paternity is ambiguous, possibly Roger’s. Do not file under hypnotized-to-marry; revisit status remains open for the pregnant-wife-hypnotized-by-husband question."
     },
-    "ig6qlxqxoxvcxla:292": {
+    "ig6qlxqxoxvcxla:315": {
      "title": "O Beijo do Vampiro (2002–03)",
      "category": "Female controlled by husband / boyfriend / ex-partner",
      "group": "Current boyfriend / lover",
      "confidence": "Medium / high",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:541": {
+    "ig6qlxqxoxvcxla:565": {
      "title": "O Beijo do Vampiro (2002–03 Brazil)",
      "category": "Vampire mesmerism",
      "group": "Regional vampire cinema",
@@ -60859,7 +61012,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:271",
-    "ig6qlxqxoxvcxla:547",
+    "ig6qlxqxoxvcxla:571",
     "worldwide-hypnosis:205"
    ],
    "index_only": false,
@@ -60899,7 +61052,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:547",
+     "rid": "ig6qlxqxoxvcxla:571",
      "source": "ig6qlxqxoxvcxla",
      "label": "Curse of the Crimson Altar (1968)",
      "identifiers": [
@@ -60982,7 +61135,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:547": {
+    "ig6qlxqxoxvcxla:571": {
      "title": "Curse of the Crimson Altar (1968)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
@@ -61055,7 +61208,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:272",
-    "ig6qlxqxoxvcxla:548"
+    "ig6qlxqxoxvcxla:572"
    ],
    "index_only": false,
    "local_only": false,
@@ -61090,7 +61243,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:548",
+     "rid": "ig6qlxqxoxvcxla:572",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Devil Rides Out (1968)",
      "identifiers": [
@@ -61136,7 +61289,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:548": {
+    "ig6qlxqxoxvcxla:572": {
      "title": "The Devil Rides Out (1968)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
@@ -61169,7 +61322,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:273",
-    "ig6qlxqxoxvcxla:549"
+    "ig6qlxqxoxvcxla:573"
    ],
    "index_only": false,
    "local_only": false,
@@ -61198,7 +61351,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:549",
+     "rid": "ig6qlxqxoxvcxla:573",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Blood on Satan’s Claw (1971)",
      "identifiers": [
@@ -61236,7 +61389,7 @@ window.CATALOG = {
      "s": "Angel Blake is taken over by the demonic claw unearthed in the fields and leads the possessed village youths' coven.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:549": {
+    "ig6qlxqxoxvcxla:573": {
      "title": "The Blood on Satan’s Claw (1971)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
@@ -61285,7 +61438,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:274",
-    "ig6qlxqxoxvcxla:550"
+    "ig6qlxqxoxvcxla:574"
    ],
    "index_only": false,
    "local_only": false,
@@ -61314,7 +61467,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:550",
+     "rid": "ig6qlxqxoxvcxla:574",
      "source": "ig6qlxqxoxvcxla",
      "label": "All the Colors of the Dark (1972)",
      "identifiers": [
@@ -61352,7 +61505,7 @@ window.CATALOG = {
      "s": "Jane Harrison is lured and initiated into a satanic cult after hypnotic-regression therapy.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:550": {
+    "ig6qlxqxoxvcxla:574": {
      "title": "All the Colors of the Dark (1972)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
@@ -61385,7 +61538,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:275",
-    "ig6qlxqxoxvcxla:551"
+    "ig6qlxqxoxvcxla:575"
    ],
    "index_only": false,
    "local_only": false,
@@ -61414,7 +61567,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:551",
+     "rid": "ig6qlxqxoxvcxla:575",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Exorcist (1973)",
      "identifiers": [
@@ -61452,7 +61605,7 @@ window.CATALOG = {
      "s": "Regan MacNeil is possessed and controlled by the demon Pazuzu.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:551": {
+    "ig6qlxqxoxvcxla:575": {
      "title": "The Exorcist (1973)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
@@ -61485,7 +61638,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:276",
-    "ig6qlxqxoxvcxla:552"
+    "ig6qlxqxoxvcxla:576"
    ],
    "index_only": false,
    "local_only": false,
@@ -61514,7 +61667,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:552",
+     "rid": "ig6qlxqxoxvcxla:576",
      "source": "ig6qlxqxoxvcxla",
      "label": "Lorna the Exorcist (1974)",
      "identifiers": [
@@ -61552,7 +61705,7 @@ window.CATALOG = {
      "s": "The demonic Lorna possesses 18-year-old Linda Mariel's body and soul to claim her.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:552": {
+    "ig6qlxqxoxvcxla:576": {
      "title": "Lorna the Exorcist (1974)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
@@ -61585,7 +61738,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:277",
-    "ig6qlxqxoxvcxla:553"
+    "ig6qlxqxoxvcxla:577"
    ],
    "index_only": false,
    "local_only": false,
@@ -61614,7 +61767,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:553",
+     "rid": "ig6qlxqxoxvcxla:577",
      "source": "ig6qlxqxoxvcxla",
      "label": "To the Devil a Daughter (1976)",
      "identifiers": [
@@ -61652,7 +61805,7 @@ window.CATALOG = {
      "s": "Catherine Beddows is placed under excommunicated priest Father Michael Rayner's spell, groomed to become the avatar of Astaroth.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:553": {
+    "ig6qlxqxoxvcxla:577": {
      "title": "To the Devil a Daughter (1976)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
@@ -61709,7 +61862,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:278",
-    "ig6qlxqxoxvcxla:555"
+    "ig6qlxqxoxvcxla:579"
    ],
    "index_only": false,
    "local_only": false,
@@ -61738,7 +61891,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:555",
+     "rid": "ig6qlxqxoxvcxla:579",
      "source": "ig6qlxqxoxvcxla",
      "label": "Suspiria (1977)",
      "identifiers": [
@@ -61776,7 +61929,7 @@ window.CATALOG = {
      "s": "Suzy Bannion and the dancers are psychically dominated by Helena Markos and her witches' coven.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:555": {
+    "ig6qlxqxoxvcxla:579": {
      "title": "Suspiria (1977)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
@@ -61862,7 +62015,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:279",
-    "ig6qlxqxoxvcxla:556",
+    "ig6qlxqxoxvcxla:580",
     "worldwide-hypnosis:822"
    ],
    "index_only": false,
@@ -61903,7 +62056,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:556",
+     "rid": "ig6qlxqxoxvcxla:580",
      "source": "ig6qlxqxoxvcxla",
      "label": "Suspiria (2018)",
      "identifiers": [
@@ -61988,7 +62141,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:556": {
+    "ig6qlxqxoxvcxla:580": {
      "title": "Suspiria (2018)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
@@ -62056,7 +62209,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:280",
-    "ig6qlxqxoxvcxla:557"
+    "ig6qlxqxoxvcxla:581"
    ],
    "index_only": false,
    "local_only": false,
@@ -62085,7 +62238,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:557",
+     "rid": "ig6qlxqxoxvcxla:581",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Craft (1996)",
      "identifiers": [
@@ -62123,7 +62276,7 @@ window.CATALOG = {
      "s": "Sarah Bailey is tormented with magically induced visions by Nancy Downs and her coven.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:557": {
+    "ig6qlxqxoxvcxla:581": {
      "title": "The Craft (1996)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
@@ -62179,7 +62332,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:281",
-    "ig6qlxqxoxvcxla:558",
+    "ig6qlxqxoxvcxla:582",
     "worldwide-hypnosis:153"
    ],
    "index_only": false,
@@ -62220,7 +62373,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:558",
+     "rid": "ig6qlxqxoxvcxla:582",
      "source": "ig6qlxqxoxvcxla",
      "label": "Candyman (1992)",
      "identifiers": [
@@ -62305,7 +62458,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:558": {
+    "ig6qlxqxoxvcxla:582": {
      "title": "Candyman (1992)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
@@ -62363,7 +62516,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:282",
-    "ig6qlxqxoxvcxla:559"
+    "ig6qlxqxoxvcxla:583"
    ],
    "index_only": false,
    "local_only": false,
@@ -62392,7 +62545,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:559",
+     "rid": "ig6qlxqxoxvcxla:583",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Gorgon (1964)",
      "identifiers": [
@@ -62430,7 +62583,7 @@ window.CATALOG = {
      "s": "Nurse Carla Hoffman is periodically possessed and controlled by the spirit of the Gorgon Megaera.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:559": {
+    "ig6qlxqxoxvcxla:583": {
      "title": "The Gorgon (1964)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
@@ -62472,7 +62625,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:283",
-    "ig6qlxqxoxvcxla:560"
+    "ig6qlxqxoxvcxla:584"
    ],
    "index_only": false,
    "local_only": false,
@@ -62501,7 +62654,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:560",
+     "rid": "ig6qlxqxoxvcxla:584",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Entity (1982)",
      "identifiers": [
@@ -62539,7 +62692,7 @@ window.CATALOG = {
      "s": "Single mother Carla Moran is physically dominated by an invisible entity that controls and violates her despite her resistance.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:560": {
+    "ig6qlxqxoxvcxla:584": {
      "title": "The Entity (1982)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
@@ -62572,7 +62725,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:284",
-    "ig6qlxqxoxvcxla:562"
+    "ig6qlxqxoxvcxla:586"
    ],
    "index_only": false,
    "local_only": false,
@@ -62601,7 +62754,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:562",
+     "rid": "ig6qlxqxoxvcxla:586",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Babadook (2014)",
      "identifiers": [
@@ -62639,7 +62792,7 @@ window.CATALOG = {
      "s": "Amelia Vanek is possessed and fully controlled by the Babadook, driving her to attempt to murder Samuel.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:562": {
+    "ig6qlxqxoxvcxla:586": {
      "title": "The Babadook (2014)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
@@ -62703,7 +62856,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:285",
-    "ig6qlxqxoxvcxla:564"
+    "ig6qlxqxoxvcxla:588"
    ],
    "index_only": false,
    "local_only": false,
@@ -62732,7 +62885,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:564",
+     "rid": "ig6qlxqxoxvcxla:588",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Skeleton Key (2005)",
      "identifiers": [
@@ -62770,7 +62923,7 @@ window.CATALOG = {
      "s": "Caroline Ellis is trapped in a hoodoo ritual and has her soul switched into Violet's aged body by Mama Cecile.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:564": {
+    "ig6qlxqxoxvcxla:588": {
      "title": "The Skeleton Key (2005)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
@@ -62803,7 +62956,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:286",
-    "ig6qlxqxoxvcxla:565"
+    "ig6qlxqxoxvcxla:589"
    ],
    "index_only": false,
    "local_only": false,
@@ -62832,7 +62985,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:565",
+     "rid": "ig6qlxqxoxvcxla:589",
      "source": "ig6qlxqxoxvcxla",
      "label": "AHS: Asylum (2012)",
      "identifiers": [
@@ -62871,7 +63024,7 @@ window.CATALOG = {
      "s": "The Devil possesses Sister Mary Eunice across the season.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:565": {
+    "ig6qlxqxoxvcxla:589": {
      "title": "AHS: Asylum (2012)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
@@ -62918,7 +63071,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:287",
-    "ig6qlxqxoxvcxla:566",
+    "ig6qlxqxoxvcxla:590",
     "worldwide-hypnosis:673"
    ],
    "index_only": false,
@@ -62959,7 +63112,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:566",
+     "rid": "ig6qlxqxoxvcxla:590",
      "source": "ig6qlxqxoxvcxla",
      "label": "Penny Dreadful",
      "identifiers": [],
@@ -63042,7 +63195,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:566": {
+    "ig6qlxqxoxvcxla:590": {
      "title": "Penny Dreadful",
      "category": "Demonic / occult control",
      "group": "Catalog records",
@@ -63101,7 +63254,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:288",
-    "ig6qlxqxoxvcxla:567"
+    "ig6qlxqxoxvcxla:591"
    ],
    "index_only": false,
    "local_only": false,
@@ -63130,7 +63283,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:567",
+     "rid": "ig6qlxqxoxvcxla:591",
      "source": "ig6qlxqxoxvcxla",
      "label": "Chilling Adventures of Sabrina",
      "identifiers": [],
@@ -63166,7 +63319,7 @@ window.CATALOG = {
      "s": "Lilith possesses Ms. Wardwell's body; Sabrina is brought fully under the Dark Lord's control.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:567": {
+    "ig6qlxqxoxvcxla:591": {
      "title": "Chilling Adventures of Sabrina",
      "category": "Demonic / occult control",
      "group": "Catalog records",
@@ -63199,7 +63352,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:289",
-    "ig6qlxqxoxvcxla:569"
+    "ig6qlxqxoxvcxla:593"
    ],
    "index_only": false,
    "local_only": false,
@@ -63228,7 +63381,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:569",
+     "rid": "ig6qlxqxoxvcxla:593",
      "source": "ig6qlxqxoxvcxla",
      "label": "Passions (2000)",
      "identifiers": [
@@ -63266,7 +63419,7 @@ window.CATALOG = {
      "s": "Witch Tabitha Lenox controls Charity Standish through telepathic commands and an evil necklace, turning her evil and directing her to kill.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:569": {
+    "ig6qlxqxoxvcxla:593": {
      "title": "Passions (2000)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
@@ -63366,7 +63519,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:290",
-    "ig6qlxqxoxvcxla:570",
+    "ig6qlxqxoxvcxla:594",
     "older-man-hypnosis:27"
    ],
    "index_only": false,
@@ -63423,7 +63576,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:570",
+     "rid": "ig6qlxqxoxvcxla:594",
      "source": "ig6qlxqxoxvcxla",
      "label": "Days of Our Lives (1994–95) — Stefano hypnotizes Marlena",
      "identifiers": [
@@ -63577,7 +63730,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:570": {
+    "ig6qlxqxoxvcxla:594": {
      "title": "Days of Our Lives (1994–95) — Stefano hypnotizes Marlena",
      "category": "Demonic / occult control",
      "group": "Catalog records",
@@ -63693,8 +63846,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:291",
-    "ig6qlxqxoxvcxla:571",
-    "ig6qlxqxoxvcxla:649"
+    "ig6qlxqxoxvcxla:595",
+    "ig6qlxqxoxvcxla:673"
    ],
    "index_only": false,
    "local_only": false,
@@ -63723,7 +63876,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:571",
+     "rid": "ig6qlxqxoxvcxla:595",
      "source": "ig6qlxqxoxvcxla",
      "label": "Stranger Things (2022)",
      "identifiers": [
@@ -63748,7 +63901,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:649",
+     "rid": "ig6qlxqxoxvcxla:673",
      "source": "ig6qlxqxoxvcxla",
      "label": "Stranger Things",
      "identifiers": [
@@ -63786,14 +63939,14 @@ window.CATALOG = {
      "s": "Vecna seizes Max Mayfield's mind and body, trapping her in a trance until music breaks his hold.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:571": {
+    "ig6qlxqxoxvcxla:595": {
      "title": "Stranger Things (2022)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:649": {
+    "ig6qlxqxoxvcxla:673": {
      "title": "Stranger Things",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
@@ -63827,8 +63980,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:292",
-    "ig6qlxqxoxvcxla:572",
-    "ig6qlxqxoxvcxla:647"
+    "ig6qlxqxoxvcxla:596",
+    "ig6qlxqxoxvcxla:671"
    ],
    "index_only": false,
    "local_only": false,
@@ -63857,7 +64010,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:572",
+     "rid": "ig6qlxqxoxvcxla:596",
      "source": "ig6qlxqxoxvcxla",
      "label": "Fringe (2010)",
      "identifiers": [
@@ -63882,7 +64035,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:647",
+     "rid": "ig6qlxqxoxvcxla:671",
      "source": "ig6qlxqxoxvcxla",
      "label": "Fringe",
      "identifiers": [
@@ -63920,14 +64073,14 @@ window.CATALOG = {
      "s": "Dead soldier Andrew Rusk's consciousness possesses Lisa Donovan and controls her body to seek revenge.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:572": {
+    "ig6qlxqxoxvcxla:596": {
      "title": "Fringe (2010)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:647": {
+    "ig6qlxqxoxvcxla:671": {
      "title": "Fringe",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
@@ -63960,7 +64113,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:293",
-    "ig6qlxqxoxvcxla:573"
+    "ig6qlxqxoxvcxla:597"
    ],
    "index_only": false,
    "local_only": false,
@@ -63989,7 +64142,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:573",
+     "rid": "ig6qlxqxoxvcxla:597",
      "source": "ig6qlxqxoxvcxla",
      "label": "Uzumaki (2000 film)",
      "identifiers": [
@@ -64028,7 +64181,7 @@ window.CATALOG = {
      "s": "Kirie Goshima and the townswomen fall under the spiral curse's hypnotic spell.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:573": {
+    "ig6qlxqxoxvcxla:597": {
      "title": "Uzumaki (2000 film)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
@@ -64061,7 +64214,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:294",
-    "ig6qlxqxoxvcxla:574"
+    "ig6qlxqxoxvcxla:598"
    ],
    "index_only": false,
    "local_only": false,
@@ -64090,7 +64243,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:574",
+     "rid": "ig6qlxqxoxvcxla:598",
      "source": "ig6qlxqxoxvcxla",
      "label": "Ashes of Love (2018)",
      "identifiers": [
@@ -64128,7 +64281,7 @@ window.CATALOG = {
      "s": "Flower fairy Jinmi is fed the Yun Elixir at birth, suppressing her ability to feel love for decades.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:574": {
+    "ig6qlxqxoxvcxla:598": {
      "title": "Ashes of Love (2018)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
@@ -64162,7 +64315,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:295",
-    "ig6qlxqxoxvcxla:579",
+    "ig6qlxqxoxvcxla:603",
     "india-catalog:71"
    ],
    "index_only": false,
@@ -64192,7 +64345,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:579",
+     "rid": "ig6qlxqxoxvcxla:603",
      "source": "ig6qlxqxoxvcxla",
      "label": "Lisa (1978)",
      "identifiers": [
@@ -64252,7 +64405,7 @@ window.CATALOG = {
      "rg": "Indian films",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:579": {
+    "ig6qlxqxoxvcxla:603": {
      "title": "Lisa (1978)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Indian films",
@@ -64299,7 +64452,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:296",
-    "ig6qlxqxoxvcxla:580",
+    "ig6qlxqxoxvcxla:604",
     "india-catalog:72"
    ],
    "index_only": false,
@@ -64329,7 +64482,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:580",
+     "rid": "ig6qlxqxoxvcxla:604",
      "source": "ig6qlxqxoxvcxla",
      "label": "Veendum Lisa (1987)",
      "identifiers": [
@@ -64389,7 +64542,7 @@ window.CATALOG = {
      "rg": "Indian films",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:580": {
+    "ig6qlxqxoxvcxla:604": {
      "title": "Veendum Lisa (1987)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Indian films",
@@ -64436,7 +64589,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:297",
-    "ig6qlxqxoxvcxla:581",
+    "ig6qlxqxoxvcxla:605",
     "india-catalog:73"
    ],
    "index_only": false,
@@ -64466,7 +64619,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:581",
+     "rid": "ig6qlxqxoxvcxla:605",
      "source": "ig6qlxqxoxvcxla",
      "label": "Aakasha Ganga (1999)",
      "identifiers": [
@@ -64526,7 +64679,7 @@ window.CATALOG = {
      "rg": "Indian films",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:581": {
+    "ig6qlxqxoxvcxla:605": {
      "title": "Aakasha Ganga (1999)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Indian films",
@@ -64579,8 +64732,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:298",
-    "ig6qlxqxoxvcxla:466",
-    "ig6qlxqxoxvcxla:582",
+    "ig6qlxqxoxvcxla:490",
+    "ig6qlxqxoxvcxla:606",
     "india-catalog:56"
    ],
    "index_only": false,
@@ -64616,7 +64769,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:466",
+     "rid": "ig6qlxqxoxvcxla:490",
      "source": "ig6qlxqxoxvcxla",
      "label": "Raat / Raatri (1992)",
      "identifiers": [
@@ -64640,7 +64793,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:582",
+     "rid": "ig6qlxqxoxvcxla:606",
      "source": "ig6qlxqxoxvcxla",
      "label": "Raat / Raatri (1992)",
      "identifiers": [
@@ -64708,14 +64861,14 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:466": {
+    "ig6qlxqxoxvcxla:490": {
      "title": "Raat / Raatri (1992)",
      "category": "Female hypnosis / mind control — India",
      "group": "Spirit / ghost / paranormal control",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:582": {
+    "ig6qlxqxoxvcxla:606": {
      "title": "Raat / Raatri (1992)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Indian films",
@@ -64768,9 +64921,10 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:299",
-    "ig6qlxqxoxvcxla:451",
-    "ig6qlxqxoxvcxla:486",
-    "ig6qlxqxoxvcxla:583"
+    "ig6qlxqxoxvcxla:191",
+    "ig6qlxqxoxvcxla:478",
+    "ig6qlxqxoxvcxla:510",
+    "ig6qlxqxoxvcxla:607"
    ],
    "index_only": false,
    "local_only": false,
@@ -64806,7 +64960,31 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:451",
+     "rid": "ig6qlxqxoxvcxla:191",
+     "source": "ig6qlxqxoxvcxla",
+     "label": "Phoonk (2008)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Phoonk",
+     "subtitle": "",
+     "year": "2008",
+     "meta": "Feature film · India · Hindi",
+     "summary": "After being humiliated and fired by Rajiv, Madhu puts his young daughter Raksha under a black-magic spell: Raksha levitates, speaks in a manly voice and behaves as if possessed. In Phoonk 2, Madhu’s spirit possesses Rajiv’s wife Aarti.",
+     "character": "Raksha; Aarti in the sequel",
+     "note": "Pregnancy: no—Raksha is a child. She has no children; Rohan is her younger brother.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "villain"
+     ],
+     "sources": [],
+     "distinct_story": true,
+     "index_title": "Phoonk",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "ig6qlxqxoxvcxla:478",
      "source": "ig6qlxqxoxvcxla",
      "label": "Phoonk (2008)",
      "identifiers": [
@@ -64830,7 +65008,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:486",
+     "rid": "ig6qlxqxoxvcxla:510",
      "source": "ig6qlxqxoxvcxla",
      "label": "Phoonk (2008)",
      "identifiers": [
@@ -64854,7 +65032,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:583",
+     "rid": "ig6qlxqxoxvcxla:607",
      "source": "ig6qlxqxoxvcxla",
      "label": "Phoonk",
      "identifiers": [],
@@ -64900,21 +65078,47 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:451": {
+    "ig6qlxqxoxvcxla:191": {
+     "detailed": {
+      "cat": 21,
+      "title": "Phoonk",
+      "year": "2008",
+      "meta": "Feature film · India · Hindi",
+      "subgroup": "Externally imposed black-magic control",
+      "summary": "After being humiliated and fired by Rajiv, Madhu puts his young daughter Raksha under a black-magic spell: Raksha levitates, speaks in a manly voice and behaves as if possessed. In Phoonk 2, Madhu’s spirit possesses Rajiv’s wife Aarti.",
+      "note": "Pregnancy: no—Raksha is a child. She has no children; Rohan is her younger brother.",
+      "character": "Raksha; Aarti in the sequel",
+      "mechanism": "Kaala jadu / externally imposed magical control; sequel possession",
+      "controller": "Madhu",
+      "motive": "Revenge against Rajiv",
+      "tags": [
+       "Villain / tantrik control — India",
+       "Pregnancy · no",
+       "Children · none"
+      ],
+      "sources": [
+       {
+        "name": "Phoonk and Phoonk 2 plot coverage"
+       }
+      ],
+      "provenance": "Beat and family-status detail folded in from the 9 Oct 2026 Indian platform sweep."
+     }
+    },
+    "ig6qlxqxoxvcxla:478": {
      "title": "Phoonk (2008)",
      "category": "Female hypnosis / mind control — India",
      "group": "Villain / tantrik / antagonist control",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:486": {
+    "ig6qlxqxoxvcxla:510": {
      "title": "Phoonk (2008)",
      "category": "Villain / tantrik control — India",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:583": {
+    "ig6qlxqxoxvcxla:607": {
      "title": "Phoonk",
      "category": "Spirit / ghost / djinn possession",
      "group": "Indian films",
@@ -64947,7 +65151,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:300",
-    "ig6qlxqxoxvcxla:584"
+    "ig6qlxqxoxvcxla:608"
    ],
    "index_only": false,
    "local_only": false,
@@ -64976,7 +65180,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:584",
+     "rid": "ig6qlxqxoxvcxla:608",
      "source": "ig6qlxqxoxvcxla",
      "label": "Raksha",
      "identifiers": [],
@@ -65013,7 +65217,7 @@ window.CATALOG = {
      "rg": "Indian films",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:584": {
+    "ig6qlxqxoxvcxla:608": {
      "title": "Raksha",
      "category": "Spirit / ghost / djinn possession",
      "group": "Indian films",
@@ -65057,8 +65261,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:301",
-    "ig6qlxqxoxvcxla:467",
-    "ig6qlxqxoxvcxla:585",
+    "ig6qlxqxoxvcxla:491",
+    "ig6qlxqxoxvcxla:609",
     "india-catalog:82"
    ],
    "index_only": false,
@@ -65098,7 +65302,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:467",
+     "rid": "ig6qlxqxoxvcxla:491",
      "source": "ig6qlxqxoxvcxla",
      "label": "Bhoot (2003)",
      "identifiers": [
@@ -65122,7 +65326,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:585",
+     "rid": "ig6qlxqxoxvcxla:609",
      "source": "ig6qlxqxoxvcxla",
      "label": "Bhoot (2003)",
      "identifiers": [
@@ -65194,14 +65398,14 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:467": {
+    "ig6qlxqxoxvcxla:491": {
      "title": "Bhoot (2003)",
      "category": "Female hypnosis / mind control — India",
      "group": "Spirit / ghost / paranormal control",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:585": {
+    "ig6qlxqxoxvcxla:609": {
      "title": "Bhoot (2003)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Indian films",
@@ -65282,8 +65486,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:302",
-    "ig6qlxqxoxvcxla:468",
-    "ig6qlxqxoxvcxla:587"
+    "ig6qlxqxoxvcxla:492",
+    "ig6qlxqxoxvcxla:611"
    ],
    "index_only": false,
    "local_only": false,
@@ -65322,7 +65526,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:468",
+     "rid": "ig6qlxqxoxvcxla:492",
      "source": "ig6qlxqxoxvcxla",
      "label": "Aatma (2013)",
      "identifiers": [
@@ -65346,7 +65550,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:587",
+     "rid": "ig6qlxqxoxvcxla:611",
      "source": "ig6qlxqxoxvcxla",
      "label": "Aatma (2013)",
      "identifiers": [
@@ -65397,14 +65601,14 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:468": {
+    "ig6qlxqxoxvcxla:492": {
      "title": "Aatma (2013)",
      "category": "Female hypnosis / mind control — India",
      "group": "Spirit / ghost / paranormal control",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:587": {
+    "ig6qlxqxoxvcxla:611": {
      "title": "Aatma (2013)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Indian films",
@@ -65438,7 +65642,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:303",
-    "ig6qlxqxoxvcxla:588",
+    "ig6qlxqxoxvcxla:612",
     "india-catalog:84"
    ],
    "index_only": false,
@@ -65468,7 +65672,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:588",
+     "rid": "ig6qlxqxoxvcxla:612",
      "source": "ig6qlxqxoxvcxla",
      "label": "Ragini MMS 2",
      "identifiers": [],
@@ -65526,7 +65730,7 @@ window.CATALOG = {
      "rg": "Indian films",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:588": {
+    "ig6qlxqxoxvcxla:612": {
      "title": "Ragini MMS 2",
      "category": "Spirit / ghost / djinn possession",
      "group": "Indian films",
@@ -65573,7 +65777,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:304",
-    "ig6qlxqxoxvcxla:589",
+    "ig6qlxqxoxvcxla:613",
     "india-catalog:57"
    ],
    "index_only": false,
@@ -65603,7 +65807,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:589",
+     "rid": "ig6qlxqxoxvcxla:613",
      "source": "ig6qlxqxoxvcxla",
      "label": "Mantra 2",
      "identifiers": [],
@@ -65661,7 +65865,7 @@ window.CATALOG = {
      "rg": "Indian films",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:589": {
+    "ig6qlxqxoxvcxla:613": {
      "title": "Mantra 2",
      "category": "Spirit / ghost / djinn possession",
      "group": "Indian films",
@@ -65718,8 +65922,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:305",
-    "ig6qlxqxoxvcxla:469",
-    "ig6qlxqxoxvcxla:590",
+    "ig6qlxqxoxvcxla:493",
+    "ig6qlxqxoxvcxla:614",
     "india-catalog:62"
    ],
    "index_only": false,
@@ -65759,7 +65963,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:469",
+     "rid": "ig6qlxqxoxvcxla:493",
      "source": "ig6qlxqxoxvcxla",
      "label": "Aranmanai 2 (2016)",
      "identifiers": [
@@ -65783,7 +65987,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:590",
+     "rid": "ig6qlxqxoxvcxla:614",
      "source": "ig6qlxqxoxvcxla",
      "label": "Aranmanai 2",
      "identifiers": [],
@@ -65853,14 +66057,14 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:469": {
+    "ig6qlxqxoxvcxla:493": {
      "title": "Aranmanai 2 (2016)",
      "category": "Female hypnosis / mind control — India",
      "group": "Spirit / ghost / paranormal control",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:590": {
+    "ig6qlxqxoxvcxla:614": {
      "title": "Aranmanai 2",
      "category": "Spirit / ghost / djinn possession",
      "group": "Indian films",
@@ -65907,7 +66111,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:306",
-    "ig6qlxqxoxvcxla:591",
+    "ig6qlxqxoxvcxla:615",
     "india-catalog:63"
    ],
    "index_only": false,
@@ -65937,7 +66141,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:591",
+     "rid": "ig6qlxqxoxvcxla:615",
      "source": "ig6qlxqxoxvcxla",
      "label": "Dhilluku Dhuddu",
      "identifiers": [],
@@ -65995,7 +66199,7 @@ window.CATALOG = {
      "rg": "Indian films",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:591": {
+    "ig6qlxqxoxvcxla:615": {
      "title": "Dhilluku Dhuddu",
      "category": "Spirit / ghost / djinn possession",
      "group": "Indian films",
@@ -66047,8 +66251,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:307",
-    "ig6qlxqxoxvcxla:470",
-    "ig6qlxqxoxvcxla:592"
+    "ig6qlxqxoxvcxla:494",
+    "ig6qlxqxoxvcxla:616"
    ],
    "index_only": false,
    "local_only": false,
@@ -66084,7 +66288,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:470",
+     "rid": "ig6qlxqxoxvcxla:494",
      "source": "ig6qlxqxoxvcxla",
      "label": "Aval / Gruham (2017)",
      "identifiers": [
@@ -66108,7 +66312,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:592",
+     "rid": "ig6qlxqxoxvcxla:616",
      "source": "ig6qlxqxoxvcxla",
      "label": "Aval / Gruham (2017)",
      "identifiers": [
@@ -66156,14 +66360,14 @@ window.CATALOG = {
      ],
      "icg": "supernatural"
     },
-    "ig6qlxqxoxvcxla:470": {
+    "ig6qlxqxoxvcxla:494": {
      "title": "Aval / Gruham (2017)",
      "category": "Female hypnosis / mind control — India",
      "group": "Spirit / ghost / paranormal control",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:592": {
+    "ig6qlxqxoxvcxla:616": {
      "title": "Aval / Gruham (2017)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Indian films",
@@ -66196,7 +66400,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:308",
-    "ig6qlxqxoxvcxla:593"
+    "ig6qlxqxoxvcxla:617"
    ],
    "index_only": false,
    "local_only": false,
@@ -66225,7 +66429,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:593",
+     "rid": "ig6qlxqxoxvcxla:617",
      "source": "ig6qlxqxoxvcxla",
      "label": "Masooda (2022)",
      "identifiers": [
@@ -66264,7 +66468,7 @@ window.CATALOG = {
      "rg": "Indian films",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:593": {
+    "ig6qlxqxoxvcxla:617": {
      "title": "Masooda (2022)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Indian films",
@@ -66298,7 +66502,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:309",
-    "ig6qlxqxoxvcxla:594",
+    "ig6qlxqxoxvcxla:618",
     "india-catalog:88"
    ],
    "index_only": false,
@@ -66328,7 +66532,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:594",
+     "rid": "ig6qlxqxoxvcxla:618",
      "source": "ig6qlxqxoxvcxla",
      "label": "Roohi (2021)",
      "identifiers": [
@@ -66388,7 +66592,7 @@ window.CATALOG = {
      "rg": "Indian films",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:594": {
+    "ig6qlxqxoxvcxla:618": {
      "title": "Roohi (2021)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Indian films",
@@ -66476,10 +66680,10 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:310",
     "ig6qlxqxoxvcxla:77",
-    "ig6qlxqxoxvcxla:330",
-    "ig6qlxqxoxvcxla:370",
-    "ig6qlxqxoxvcxla:596",
-    "ig6qlxqxoxvcxla:942",
+    "ig6qlxqxoxvcxla:353",
+    "ig6qlxqxoxvcxla:393",
+    "ig6qlxqxoxvcxla:620",
+    "ig6qlxqxoxvcxla:966",
     "india-catalog:99"
    ],
    "index_only": false,
@@ -66612,7 +66816,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:330",
+     "rid": "ig6qlxqxoxvcxla:353",
      "source": "ig6qlxqxoxvcxla",
      "label": "Yeh Hai Mohabbatein",
      "identifiers": [],
@@ -66634,7 +66838,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:370",
+     "rid": "ig6qlxqxoxvcxla:393",
      "source": "ig6qlxqxoxvcxla",
      "label": "Yeh Hai Mohabbatein (2015 Hindi soap)",
      "identifiers": [
@@ -66659,7 +66863,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:596",
+     "rid": "ig6qlxqxoxvcxla:620",
      "source": "ig6qlxqxoxvcxla",
      "label": "Yeh Hai Mohabbatein",
      "identifiers": [],
@@ -66681,7 +66885,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:942",
+     "rid": "ig6qlxqxoxvcxla:966",
      "source": "ig6qlxqxoxvcxla",
      "label": "Yeh Hai Mohabbatein",
      "identifiers": [],
@@ -66846,28 +67050,28 @@ window.CATALOG = {
       "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
      }
     },
-    "ig6qlxqxoxvcxla:330": {
+    "ig6qlxqxoxvcxla:353": {
      "title": "Yeh Hai Mohabbatein",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Spirit possession by dead ex-wife / first wife",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:370": {
+    "ig6qlxqxoxvcxla:393": {
      "title": "Yeh Hai Mohabbatein (2015 Hindi soap)",
      "category": "Pregnant stepmother / bonus mom",
      "group": "Marriage of convenience; pregnancy celebrated then lost",
      "confidence": "Verified",
      "note": "Shagun possession track; miscarriage."
     },
-    "ig6qlxqxoxvcxla:596": {
+    "ig6qlxqxoxvcxla:620": {
      "title": "Yeh Hai Mohabbatein",
      "category": "Spirit / ghost / djinn possession",
      "group": "Indian TV serials",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:942": {
+    "ig6qlxqxoxvcxla:966": {
      "title": "Yeh Hai Mohabbatein",
      "category": "Pregnant intimate scenes",
      "group": "Affectionate / romantic / marital",
@@ -66940,8 +67144,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:311",
-    "ig6qlxqxoxvcxla:471",
-    "ig6qlxqxoxvcxla:597",
+    "ig6qlxqxoxvcxla:495",
+    "ig6qlxqxoxvcxla:621",
     "india-catalog:108"
    ],
    "index_only": false,
@@ -66986,7 +67190,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:471",
+     "rid": "ig6qlxqxoxvcxla:495",
      "source": "ig6qlxqxoxvcxla",
      "label": "Divya Drishti",
      "identifiers": [],
@@ -67008,7 +67212,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:597",
+     "rid": "ig6qlxqxoxvcxla:621",
      "source": "ig6qlxqxoxvcxla",
      "label": "Divya Drishti",
      "identifiers": [],
@@ -67084,14 +67288,14 @@ window.CATALOG = {
      ],
      "ahg": "serial"
     },
-    "ig6qlxqxoxvcxla:471": {
+    "ig6qlxqxoxvcxla:495": {
      "title": "Divya Drishti",
      "category": "Female hypnosis / mind control — India",
      "group": "Spirit / ghost / paranormal control",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:597": {
+    "ig6qlxqxoxvcxla:621": {
      "title": "Divya Drishti",
      "category": "Spirit / ghost / djinn possession",
      "group": "Indian TV serials",
@@ -67154,9 +67358,9 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:312",
     "ig6qlxqxoxvcxla:168",
-    "ig6qlxqxoxvcxla:178",
-    "ig6qlxqxoxvcxla:447",
-    "ig6qlxqxoxvcxla:598",
+    "ig6qlxqxoxvcxla:200",
+    "ig6qlxqxoxvcxla:470",
+    "ig6qlxqxoxvcxla:622",
     "india-catalog:128",
     "hypnotized-marriage:11"
    ],
@@ -67223,7 +67427,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:178",
+     "rid": "ig6qlxqxoxvcxla:200",
      "source": "ig6qlxqxoxvcxla",
      "label": "Yehh Jadu Hai Jinn Ka",
      "identifiers": [],
@@ -67245,7 +67449,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:447",
+     "rid": "ig6qlxqxoxvcxla:470",
      "source": "ig6qlxqxoxvcxla",
      "label": "Yehh Jadu Hai Jinn Ka",
      "identifiers": [],
@@ -67267,7 +67471,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:598",
+     "rid": "ig6qlxqxoxvcxla:622",
      "source": "ig6qlxqxoxvcxla",
      "label": "Yehh Jadu Hai Jinn Ka",
      "identifiers": [],
@@ -67387,21 +67591,21 @@ window.CATALOG = {
       "provenance": "Existing catalog record cross-tagged from the 6 Oct 2026 ultrasound × hypnosis intersection sweep."
      }
     },
-    "ig6qlxqxoxvcxla:178": {
+    "ig6qlxqxoxvcxla:200": {
      "title": "Yehh Jadu Hai Jinn Ka",
      "category": "Hypnotized to love",
      "group": "Coerced / one-sided romance",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:447": {
+    "ig6qlxqxoxvcxla:470": {
      "title": "Yehh Jadu Hai Jinn Ka",
      "category": "Female hypnosis / mind control — India",
      "group": "Love / marriage / relationship compulsion",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:598": {
+    "ig6qlxqxoxvcxla:622": {
      "title": "Yehh Jadu Hai Jinn Ka",
      "category": "Spirit / ghost / djinn possession",
      "group": "Indian TV serials",
@@ -67467,7 +67671,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:313",
-    "ig6qlxqxoxvcxla:599",
+    "ig6qlxqxoxvcxla:623",
     "india-catalog:90"
    ],
    "index_only": false,
@@ -67497,7 +67701,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:599",
+     "rid": "ig6qlxqxoxvcxla:623",
      "source": "ig6qlxqxoxvcxla",
      "label": "Kaal Bhairav Rahasya",
      "identifiers": [],
@@ -67555,7 +67759,7 @@ window.CATALOG = {
      "rg": "Indian TV serials",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:599": {
+    "ig6qlxqxoxvcxla:623": {
      "title": "Kaal Bhairav Rahasya",
      "category": "Spirit / ghost / djinn possession",
      "group": "Indian TV serials",
@@ -67619,9 +67823,9 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:314",
     "ig6qlxqxoxvcxla:167",
-    "ig6qlxqxoxvcxla:452",
-    "ig6qlxqxoxvcxla:487",
-    "ig6qlxqxoxvcxla:600",
+    "ig6qlxqxoxvcxla:476",
+    "ig6qlxqxoxvcxla:511",
+    "ig6qlxqxoxvcxla:624",
     "india-catalog:107"
    ],
    "index_only": false,
@@ -67691,7 +67895,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:452",
+     "rid": "ig6qlxqxoxvcxla:476",
      "source": "ig6qlxqxoxvcxla",
      "label": "Daayan (2018–19)",
      "identifiers": [
@@ -67715,7 +67919,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:487",
+     "rid": "ig6qlxqxoxvcxla:511",
      "source": "ig6qlxqxoxvcxla",
      "label": "Daayan (2018–19)",
      "identifiers": [
@@ -67739,7 +67943,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:600",
+     "rid": "ig6qlxqxoxvcxla:624",
      "source": "ig6qlxqxoxvcxla",
      "label": "Daayan",
      "identifiers": [],
@@ -67840,21 +68044,21 @@ window.CATALOG = {
       "provenance": "Existing catalog record cross-tagged from the 6 Oct 2026 ultrasound × hypnosis intersection sweep."
      }
     },
-    "ig6qlxqxoxvcxla:452": {
+    "ig6qlxqxoxvcxla:476": {
      "title": "Daayan (2018–19)",
      "category": "Female hypnosis / mind control — India",
      "group": "Villain / tantrik / antagonist control",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:487": {
+    "ig6qlxqxoxvcxla:511": {
      "title": "Daayan (2018–19)",
      "category": "Villain / tantrik control — India",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:600": {
+    "ig6qlxqxoxvcxla:624": {
      "title": "Daayan",
      "category": "Spirit / ghost / djinn possession",
      "group": "Indian TV serials",
@@ -67912,7 +68116,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:315",
-    "ig6qlxqxoxvcxla:601",
+    "ig6qlxqxoxvcxla:625",
     "india-catalog:109"
    ],
    "index_only": false,
@@ -67948,7 +68152,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:601",
+     "rid": "ig6qlxqxoxvcxla:625",
      "source": "ig6qlxqxoxvcxla",
      "label": "Manmohini",
      "identifiers": [],
@@ -68014,7 +68218,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:601": {
+    "ig6qlxqxoxvcxla:625": {
      "title": "Manmohini",
      "category": "Spirit / ghost / djinn possession",
      "group": "Indian TV serials",
@@ -68078,7 +68282,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:316",
-    "ig6qlxqxoxvcxla:603"
+    "ig6qlxqxoxvcxla:627"
    ],
    "index_only": false,
    "local_only": false,
@@ -68107,7 +68311,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:603",
+     "rid": "ig6qlxqxoxvcxla:627",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Priests (2015)",
      "identifiers": [
@@ -68146,7 +68350,7 @@ window.CATALOG = {
      "rg": "Korean",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:603": {
+    "ig6qlxqxoxvcxla:627": {
      "title": "The Priests (2015)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Korean",
@@ -68216,8 +68420,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:317",
-    "ig6qlxqxoxvcxla:604",
-    "ig6qlxqxoxvcxla:761"
+    "ig6qlxqxoxvcxla:628",
+    "ig6qlxqxoxvcxla:785"
    ],
    "index_only": false,
    "local_only": false,
@@ -68253,7 +68457,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:604",
+     "rid": "ig6qlxqxoxvcxla:628",
      "source": "ig6qlxqxoxvcxla",
      "label": "Revenant (2023)",
      "identifiers": [
@@ -68277,7 +68481,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:761",
+     "rid": "ig6qlxqxoxvcxla:785",
      "source": "ig6qlxqxoxvcxla",
      "label": "Revenant (2023 Korea)",
      "identifiers": [
@@ -68326,14 +68530,14 @@ window.CATALOG = {
      ],
      "sub": "악귀"
     },
-    "ig6qlxqxoxvcxla:604": {
+    "ig6qlxqxoxvcxla:628": {
      "title": "Revenant (2023)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Korean",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:761": {
+    "ig6qlxqxoxvcxla:785": {
      "title": "Revenant (2023 Korea)",
      "category": "Female character controlled by a child / teen",
      "group": "Dead-child ghosts possessing females",
@@ -68366,7 +68570,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:318",
-    "ig6qlxqxoxvcxla:605"
+    "ig6qlxqxoxvcxla:629"
    ],
    "index_only": false,
    "local_only": false,
@@ -68395,7 +68599,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:605",
+     "rid": "ig6qlxqxoxvcxla:629",
      "source": "ig6qlxqxoxvcxla",
      "label": "Oh My Ghostess",
      "identifiers": [],
@@ -68432,7 +68636,7 @@ window.CATALOG = {
      "rg": "Korean",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:605": {
+    "ig6qlxqxoxvcxla:629": {
      "title": "Oh My Ghostess",
      "category": "Spirit / ghost / djinn possession",
      "group": "Korean",
@@ -68465,7 +68669,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:319",
-    "ig6qlxqxoxvcxla:606"
+    "ig6qlxqxoxvcxla:630"
    ],
    "index_only": false,
    "local_only": false,
@@ -68494,7 +68698,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:606",
+     "rid": "ig6qlxqxoxvcxla:630",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Guest (2018)",
      "identifiers": [
@@ -68533,7 +68737,7 @@ window.CATALOG = {
      "rg": "Korean",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:606": {
+    "ig6qlxqxoxvcxla:630": {
      "title": "The Guest (2018)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Korean",
@@ -68582,7 +68786,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:320",
-    "ig6qlxqxoxvcxla:607"
+    "ig6qlxqxoxvcxla:631"
    ],
    "index_only": false,
    "local_only": false,
@@ -68611,7 +68815,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:607",
+     "rid": "ig6qlxqxoxvcxla:631",
      "source": "ig6qlxqxoxvcxla",
      "label": "49 Days (2011)",
      "identifiers": [
@@ -68650,7 +68854,7 @@ window.CATALOG = {
      "rg": "Korean",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:607": {
+    "ig6qlxqxoxvcxla:631": {
      "title": "49 Days (2011)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Korean",
@@ -68683,7 +68887,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:321",
-    "ig6qlxqxoxvcxla:608"
+    "ig6qlxqxoxvcxla:632"
    ],
    "index_only": false,
    "local_only": false,
@@ -68712,7 +68916,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:608",
+     "rid": "ig6qlxqxoxvcxla:632",
      "source": "ig6qlxqxoxvcxla",
      "label": "Master’s Sun (2013)",
      "identifiers": [
@@ -68751,7 +68955,7 @@ window.CATALOG = {
      "rg": "Korean",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:608": {
+    "ig6qlxqxoxvcxla:632": {
      "title": "Master’s Sun (2013)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Korean",
@@ -68784,7 +68988,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:322",
-    "ig6qlxqxoxvcxla:609"
+    "ig6qlxqxoxvcxla:633"
    ],
    "index_only": false,
    "local_only": false,
@@ -68813,7 +69017,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:609",
+     "rid": "ig6qlxqxoxvcxla:633",
      "source": "ig6qlxqxoxvcxla",
      "label": "Memento Mori (1999)",
      "identifiers": [
@@ -68852,7 +69056,7 @@ window.CATALOG = {
      "rg": "Korean",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:609": {
+    "ig6qlxqxoxvcxla:633": {
      "title": "Memento Mori (1999)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Korean",
@@ -68895,7 +69099,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:323",
-    "ig6qlxqxoxvcxla:610"
+    "ig6qlxqxoxvcxla:634"
    ],
    "index_only": false,
    "local_only": false,
@@ -68924,7 +69128,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:610",
+     "rid": "ig6qlxqxoxvcxla:634",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Medium (2021)",
      "identifiers": [
@@ -68963,7 +69167,7 @@ window.CATALOG = {
      "rg": "Thai & Filipino",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:610": {
+    "ig6qlxqxoxvcxla:634": {
      "title": "The Medium (2021)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Thai & Filipino",
@@ -69006,7 +69210,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:324",
-    "ig6qlxqxoxvcxla:611"
+    "ig6qlxqxoxvcxla:635"
    ],
    "index_only": false,
    "local_only": false,
@@ -69035,7 +69239,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:611",
+     "rid": "ig6qlxqxoxvcxla:635",
      "source": "ig6qlxqxoxvcxla",
      "label": "Buppah Rahtree (2003)",
      "identifiers": [
@@ -69074,7 +69278,7 @@ window.CATALOG = {
      "rg": "Thai & Filipino",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:611": {
+    "ig6qlxqxoxvcxla:635": {
      "title": "Buppah Rahtree (2003)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Thai & Filipino",
@@ -69113,8 +69317,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:325",
-    "ig6qlxqxoxvcxla:345",
-    "ig6qlxqxoxvcxla:612"
+    "ig6qlxqxoxvcxla:368",
+    "ig6qlxqxoxvcxla:636"
    ],
    "index_only": false,
    "local_only": false,
@@ -69149,7 +69353,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:345",
+     "rid": "ig6qlxqxoxvcxla:368",
      "source": "ig6qlxqxoxvcxla",
      "label": "Shutter (2004)",
      "identifiers": [
@@ -69173,7 +69377,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:612",
+     "rid": "ig6qlxqxoxvcxla:636",
      "source": "ig6qlxqxoxvcxla",
      "label": "Shutter (2004)",
      "identifiers": [
@@ -69220,14 +69424,14 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:345": {
+    "ig6qlxqxoxvcxla:368": {
      "title": "Shutter (2004)",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Labeled close variants",
      "confidence": "Close variant",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:612": {
+    "ig6qlxqxoxvcxla:636": {
      "title": "Shutter (2004)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Thai & Filipino",
@@ -69278,7 +69482,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:326",
-    "ig6qlxqxoxvcxla:613"
+    "ig6qlxqxoxvcxla:637"
    ],
    "index_only": false,
    "local_only": false,
@@ -69307,7 +69511,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:613",
+     "rid": "ig6qlxqxoxvcxla:637",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Killer Bride (2019)",
      "identifiers": [
@@ -69346,7 +69550,7 @@ window.CATALOG = {
      "rg": "Thai & Filipino",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:613": {
+    "ig6qlxqxoxvcxla:637": {
      "title": "The Killer Bride (2019)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Thai & Filipino",
@@ -69390,7 +69594,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:327",
-    "ig6qlxqxoxvcxla:614"
+    "ig6qlxqxoxvcxla:638"
    ],
    "index_only": false,
    "local_only": false,
@@ -69419,7 +69623,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:614",
+     "rid": "ig6qlxqxoxvcxla:638",
      "source": "ig6qlxqxoxvcxla",
      "label": "Kambal, Karibal (2017–18)",
      "identifiers": [
@@ -69458,7 +69662,7 @@ window.CATALOG = {
      "rg": "Thai & Filipino",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:614": {
+    "ig6qlxqxoxvcxla:638": {
      "title": "Kambal, Karibal (2017–18)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Thai & Filipino",
@@ -69491,7 +69695,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:328",
-    "ig6qlxqxoxvcxla:615"
+    "ig6qlxqxoxvcxla:639"
    ],
    "index_only": false,
    "local_only": false,
@@ -69520,7 +69724,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:615",
+     "rid": "ig6qlxqxoxvcxla:639",
      "source": "ig6qlxqxoxvcxla",
      "label": "Hanggang sa Dulo ng Buhay Ko",
      "identifiers": [],
@@ -69557,7 +69761,7 @@ window.CATALOG = {
      "rg": "Thai & Filipino",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:615": {
+    "ig6qlxqxoxvcxla:639": {
      "title": "Hanggang sa Dulo ng Buhay Ko",
      "category": "Spirit / ghost / djinn possession",
      "group": "Thai & Filipino",
@@ -69590,7 +69794,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:329",
-    "ig6qlxqxoxvcxla:616"
+    "ig6qlxqxoxvcxla:640"
    ],
    "index_only": false,
    "local_only": false,
@@ -69619,7 +69823,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:616",
+     "rid": "ig6qlxqxoxvcxla:640",
      "source": "ig6qlxqxoxvcxla",
      "label": "Clarita",
      "identifiers": [],
@@ -69656,7 +69860,7 @@ window.CATALOG = {
      "rg": "Thai & Filipino",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:616": {
+    "ig6qlxqxoxvcxla:640": {
      "title": "Clarita",
      "category": "Spirit / ghost / djinn possession",
      "group": "Thai & Filipino",
@@ -69689,7 +69893,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:330",
-    "ig6qlxqxoxvcxla:617"
+    "ig6qlxqxoxvcxla:641"
    ],
    "index_only": false,
    "local_only": false,
@@ -69718,7 +69922,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:617",
+     "rid": "ig6qlxqxoxvcxla:641",
      "source": "ig6qlxqxoxvcxla",
      "label": "Nang Thip (2018)",
      "identifiers": [
@@ -69757,7 +69961,7 @@ window.CATALOG = {
      "rg": "Thai & Filipino",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:617": {
+    "ig6qlxqxoxvcxla:641": {
      "title": "Nang Thip (2018)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Thai & Filipino",
@@ -69790,7 +69994,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:331",
-    "ig6qlxqxoxvcxla:618"
+    "ig6qlxqxoxvcxla:642"
    ],
    "index_only": false,
    "local_only": false,
@@ -69819,7 +70023,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:618",
+     "rid": "ig6qlxqxoxvcxla:642",
      "source": "ig6qlxqxoxvcxla",
      "label": "Encantadia (2016)",
      "identifiers": [
@@ -69858,7 +70062,7 @@ window.CATALOG = {
      "rg": "Thai & Filipino",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:618": {
+    "ig6qlxqxoxvcxla:642": {
      "title": "Encantadia (2016)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Thai & Filipino",
@@ -69891,7 +70095,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:332",
-    "ig6qlxqxoxvcxla:619"
+    "ig6qlxqxoxvcxla:643"
    ],
    "index_only": false,
    "local_only": false,
@@ -69920,7 +70124,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:619",
+     "rid": "ig6qlxqxoxvcxla:643",
      "source": "ig6qlxqxoxvcxla",
      "label": "Long Khong (2020)",
      "identifiers": [
@@ -69959,7 +70163,7 @@ window.CATALOG = {
      "rg": "Thai & Filipino",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:619": {
+    "ig6qlxqxoxvcxla:643": {
      "title": "Long Khong (2020)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Thai & Filipino",
@@ -69992,7 +70196,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:333",
-    "ig6qlxqxoxvcxla:621"
+    "ig6qlxqxoxvcxla:645"
    ],
    "index_only": false,
    "local_only": false,
@@ -70021,7 +70225,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:621",
+     "rid": "ig6qlxqxoxvcxla:645",
      "source": "ig6qlxqxoxvcxla",
      "label": "Semum (2008)",
      "identifiers": [
@@ -70060,7 +70264,7 @@ window.CATALOG = {
      "rg": "Turkish, Arab, Latin & African",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:621": {
+    "ig6qlxqxoxvcxla:645": {
      "title": "Semum (2008)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Turkish / Arab / Latin / African",
@@ -70093,7 +70297,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:334",
-    "ig6qlxqxoxvcxla:622"
+    "ig6qlxqxoxvcxla:646"
    ],
    "index_only": false,
    "local_only": false,
@@ -70122,7 +70326,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:622",
+     "rid": "ig6qlxqxoxvcxla:646",
      "source": "ig6qlxqxoxvcxla",
      "label": "Dabbe 4: Cin Çarpması (2013)",
      "identifiers": [
@@ -70161,7 +70365,7 @@ window.CATALOG = {
      "rg": "Turkish, Arab, Latin & African",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:622": {
+    "ig6qlxqxoxvcxla:646": {
      "title": "Dabbe 4: Cin Çarpması (2013)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Turkish / Arab / Latin / African",
@@ -70195,7 +70399,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:335",
-    "ig6qlxqxoxvcxla:623"
+    "ig6qlxqxoxvcxla:647"
    ],
    "index_only": false,
    "local_only": false,
@@ -70225,7 +70429,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:623",
+     "rid": "ig6qlxqxoxvcxla:647",
      "source": "ig6qlxqxoxvcxla",
      "label": "Büyü (2004)",
      "identifiers": [
@@ -70274,7 +70478,7 @@ window.CATALOG = {
      "polygamySrc": [],
      "polygamyProv": "Worldwide seven-vector sweep plus strict-scope supplement, 1 Oct 2026 · Middle East / Turkish supplement · existing catalog record"
     },
-    "ig6qlxqxoxvcxla:623": {
+    "ig6qlxqxoxvcxla:647": {
      "title": "Büyü (2004)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Turkish / Arab / Latin / African",
@@ -70309,7 +70513,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:336",
-    "ig6qlxqxoxvcxla:624"
+    "ig6qlxqxoxvcxla:648"
    ],
    "index_only": false,
    "local_only": false,
@@ -70340,7 +70544,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:624",
+     "rid": "ig6qlxqxoxvcxla:648",
      "source": "ig6qlxqxoxvcxla",
      "label": "Muhteşem Yüzyıl episode 88",
      "identifiers": [
@@ -70413,7 +70617,7 @@ window.CATALOG = {
      "ppgProv": "Worldwide ten-vector sweep · 1–2 Oct 2026 · Magnificentcentury · En · Ksut",
      "ppgNote": ""
     },
-    "ig6qlxqxoxvcxla:624": {
+    "ig6qlxqxoxvcxla:648": {
      "title": "Muhteşem Yüzyıl episode 88",
      "category": "Spirit / ghost / djinn possession",
      "group": "Turkish / Arab / Latin / African",
@@ -70446,7 +70650,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:337",
-    "ig6qlxqxoxvcxla:625"
+    "ig6qlxqxoxvcxla:649"
    ],
    "index_only": false,
    "local_only": false,
@@ -70475,7 +70679,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:625",
+     "rid": "ig6qlxqxoxvcxla:649",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Blue Elephant 2 (2019)",
      "identifiers": [
@@ -70515,7 +70719,7 @@ window.CATALOG = {
      "rg": "Turkish, Arab, Latin & African",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:625": {
+    "ig6qlxqxoxvcxla:649": {
      "title": "The Blue Elephant 2 (2019)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Turkish / Arab / Latin / African",
@@ -70548,7 +70752,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:338",
-    "ig6qlxqxoxvcxla:626"
+    "ig6qlxqxoxvcxla:650"
    ],
    "index_only": false,
    "local_only": false,
@@ -70577,7 +70781,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:626",
+     "rid": "ig6qlxqxoxvcxla:650",
      "source": "ig6qlxqxoxvcxla",
      "label": "Warda (2014)",
      "identifiers": [
@@ -70616,7 +70820,7 @@ window.CATALOG = {
      "rg": "Turkish, Arab, Latin & African",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:626": {
+    "ig6qlxqxoxvcxla:650": {
      "title": "Warda (2014)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Turkish / Arab / Latin / African",
@@ -70649,7 +70853,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:339",
-    "ig6qlxqxoxvcxla:628"
+    "ig6qlxqxoxvcxla:652"
    ],
    "index_only": false,
    "local_only": false,
@@ -70678,7 +70882,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:628",
+     "rid": "ig6qlxqxoxvcxla:652",
      "source": "ig6qlxqxoxvcxla",
      "label": "La Chacala (1997)",
      "identifiers": [
@@ -70717,7 +70921,7 @@ window.CATALOG = {
      "rg": "Turkish, Arab, Latin & African",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:628": {
+    "ig6qlxqxoxvcxla:652": {
      "title": "La Chacala (1997)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Turkish / Arab / Latin / African",
@@ -70750,7 +70954,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:340",
-    "ig6qlxqxoxvcxla:629"
+    "ig6qlxqxoxvcxla:653"
    ],
    "index_only": false,
    "local_only": false,
@@ -70779,7 +70983,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:629",
+     "rid": "ig6qlxqxoxvcxla:653",
      "source": "ig6qlxqxoxvcxla",
      "label": "El Habitante (2017)",
      "identifiers": [
@@ -70818,7 +71022,7 @@ window.CATALOG = {
      "rg": "Turkish, Arab, Latin & African",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:629": {
+    "ig6qlxqxoxvcxla:653": {
      "title": "El Habitante (2017)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Turkish / Arab / Latin / African",
@@ -70852,8 +71056,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:341",
-    "ig6qlxqxoxvcxla:630",
-    "ig6qlxqxoxvcxla:842"
+    "ig6qlxqxoxvcxla:654",
+    "ig6qlxqxoxvcxla:866"
    ],
    "index_only": false,
    "local_only": false,
@@ -70883,7 +71087,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:630",
+     "rid": "ig6qlxqxoxvcxla:654",
      "source": "ig6qlxqxoxvcxla",
      "label": "Karishika (1996/98)",
      "identifiers": [
@@ -70908,7 +71112,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:842",
+     "rid": "ig6qlxqxoxvcxla:866",
      "source": "ig6qlxqxoxvcxla",
      "label": "Karishika (1996/98)",
      "identifiers": [
@@ -70951,14 +71155,14 @@ window.CATALOG = {
      "ddg": "lead",
      "note": "No deal by the woman is shown, and Daddy Jonathan's identity is not established. Catalog sources disagree on the release year (1996 versus 1998)."
     },
-    "ig6qlxqxoxvcxla:630": {
+    "ig6qlxqxoxvcxla:654": {
      "title": "Karishika (1996/98)",
      "category": "Spirit / ghost / djinn possession",
      "group": "Turkish / Arab / Latin / African",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:842": {
+    "ig6qlxqxoxvcxla:866": {
      "title": "Karishika (1996/98)",
      "category": "Woman makes a deal with the devil / a demon to become pregnant / have a child",
      "group": "Failed-deal variant & unresolved leads",
@@ -71016,8 +71220,9 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:342",
-    "ig6qlxqxoxvcxla:472",
-    "ig6qlxqxoxvcxla:632",
+    "ig6qlxqxoxvcxla:190",
+    "ig6qlxqxoxvcxla:496",
+    "ig6qlxqxoxvcxla:656",
     "india-catalog:35",
     "worldwide-hypnosis:1038"
    ],
@@ -71069,7 +71274,31 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:472",
+     "rid": "ig6qlxqxoxvcxla:190",
+     "source": "ig6qlxqxoxvcxla",
+     "label": "Veerana (1988)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Veerana",
+     "subtitle": "",
+     "year": "1988",
+     "meta": "Feature film · India · Hindi",
+     "summary": "A tantric Baba explicitly hypnotises young Jasmin, cuts a lock of her hair and places it in witch Nakita’s sarcophagus. Jasmin then walks under hypnosis to the shrine, where Nakita’s spirit enters her body.",
+     "character": "Young Jasmin",
+     "note": "Rare literal-hypnosis beat paired with possession. Pregnancy: no—Jasmin is a child. She has no children.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "tantrik"
+     ],
+     "sources": [],
+     "distinct_story": true,
+     "index_title": "Veerana",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "ig6qlxqxoxvcxla:496",
      "source": "ig6qlxqxoxvcxla",
      "label": "Veerana (1988)",
      "identifiers": [
@@ -71093,7 +71322,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:632",
+     "rid": "ig6qlxqxoxvcxla:656",
      "source": "ig6qlxqxoxvcxla",
      "label": "Veerana (1988)",
      "identifiers": [
@@ -71216,14 +71445,40 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:472": {
+    "ig6qlxqxoxvcxla:190": {
+     "detailed": {
+      "cat": 26,
+      "title": "Veerana",
+      "year": "1988",
+      "meta": "Feature film · India · Hindi",
+      "subgroup": "Literal hypnosis paired with possession",
+      "summary": "A tantric Baba explicitly hypnotises young Jasmin, cuts a lock of her hair and places it in witch Nakita’s sarcophagus. Jasmin then walks under hypnosis to the shrine, where Nakita’s spirit enters her body.",
+      "note": "Rare literal-hypnosis beat paired with possession. Pregnancy: no—Jasmin is a child. She has no children.",
+      "character": "Young Jasmin",
+      "mechanism": "Literal hypnosis followed by spirit possession",
+      "controller": "Tantric Baba; Nakita’s spirit",
+      "motive": "Prepare Jasmin as the vessel for Nakita",
+      "tags": [
+       "Tantrik / black-magic control",
+       "Pregnancy · no",
+       "Children · none"
+      ],
+      "sources": [
+       {
+        "name": "Veerana plot coverage"
+       }
+      ],
+      "provenance": "Literal-hypnosis and family-status detail folded in from the 9 Oct 2026 Indian platform sweep."
+     }
+    },
+    "ig6qlxqxoxvcxla:496": {
      "title": "Veerana (1988)",
      "category": "Female hypnosis / mind control — India",
      "group": "Spirit / ghost / paranormal control",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:632": {
+    "ig6qlxqxoxvcxla:656": {
      "title": "Veerana (1988)",
      "category": "Tantrik / black-magic control",
      "group": "Catalog records",
@@ -71313,7 +71568,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:343",
-    "ig6qlxqxoxvcxla:633",
+    "ig6qlxqxoxvcxla:657",
     "india-catalog:36"
    ],
    "index_only": false,
@@ -71343,7 +71598,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:633",
+     "rid": "ig6qlxqxoxvcxla:657",
      "source": "ig6qlxqxoxvcxla",
      "label": "Raaz 3 (2012)",
      "identifiers": [
@@ -71402,7 +71657,7 @@ window.CATALOG = {
      "s": "Shanaya and black magician Tara Dutt use occult magic to invade actress Sanjana's mind, inflict hallucinations and push her toward suicide.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:633": {
+    "ig6qlxqxoxvcxla:657": {
      "title": "Raaz 3 (2012)",
      "category": "Tantrik / black-magic control",
      "group": "Catalog records",
@@ -71460,10 +71715,11 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:344",
-    "ig6qlxqxoxvcxla:251",
-    "ig6qlxqxoxvcxla:453",
-    "ig6qlxqxoxvcxla:488",
-    "ig6qlxqxoxvcxla:634"
+    "ig6qlxqxoxvcxla:187",
+    "ig6qlxqxoxvcxla:274",
+    "ig6qlxqxoxvcxla:481",
+    "ig6qlxqxoxvcxla:512",
+    "ig6qlxqxoxvcxla:658"
    ],
    "index_only": false,
    "local_only": false,
@@ -71504,7 +71760,31 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:251",
+     "rid": "ig6qlxqxoxvcxla:187",
+     "source": "ig6qlxqxoxvcxla",
+     "label": "Shaitaan (2024)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Shaitaan",
+     "subtitle": "",
+     "year": "2024",
+     "meta": "Feature film · India · Hindi",
+     "summary": "Tantric Vanraj hypnotises teenager Janhvi after feeding her a sweet at a dhaba, then uses her as a puppet and weapon against her family. His ritual involves dozens of hypnotised girls and is intended to grant him the power to hypnotise without external aid; Kabir breaks the control by cutting off Vanraj’s tongue.",
+     "character": "Janhvi and dozens of other girls",
+     "note": "Pregnancy: no—Janhvi is a child / teen. She has no children; Dhruv Rishi is her younger brother.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "forced-obedience"
+     ],
+     "sources": [],
+     "distinct_story": true,
+     "index_title": "Shaitaan",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "ig6qlxqxoxvcxla:274",
      "source": "ig6qlxqxoxvcxla",
      "label": "Shaitaan (2024)",
      "identifiers": [
@@ -71528,7 +71808,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:453",
+     "rid": "ig6qlxqxoxvcxla:481",
      "source": "ig6qlxqxoxvcxla",
      "label": "Shaitaan (2024)",
      "identifiers": [
@@ -71552,7 +71832,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:488",
+     "rid": "ig6qlxqxoxvcxla:512",
      "source": "ig6qlxqxoxvcxla",
      "label": "Shaitaan (2024)",
      "identifiers": [
@@ -71576,7 +71856,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:634",
+     "rid": "ig6qlxqxoxvcxla:658",
      "source": "ig6qlxqxoxvcxla",
      "label": "Shaitaan (2024)",
      "identifiers": [
@@ -71629,28 +71909,56 @@ window.CATALOG = {
      ],
      "fog": "supernatural"
     },
-    "ig6qlxqxoxvcxla:251": {
+    "ig6qlxqxoxvcxla:187": {
+     "detailed": {
+      "cat": 6,
+      "title": "Shaitaan",
+      "year": "2024",
+      "meta": "Feature film · India · Hindi",
+      "subgroup": "Tantric obedience and mass ritual",
+      "summary": "Tantric Vanraj hypnotises teenager Janhvi after feeding her a sweet at a dhaba, then uses her as a puppet and weapon against her family. His ritual involves dozens of hypnotised girls and is intended to grant him the power to hypnotise without external aid; Kabir breaks the control by cutting off Vanraj’s tongue.",
+      "note": "Pregnancy: no—Janhvi is a child / teen. She has no children; Dhruv Rishi is her younger brother.",
+      "character": "Janhvi and dozens of other girls",
+      "mechanism": "Sweet-triggered tantric hypnosis",
+      "controller": "Vanraj",
+      "motive": "Mass ritual and unrestricted hypnotic power",
+      "tags": [
+       "Forcibly hypnotized to obey",
+       "Villain / tantrik control — India",
+       "Tantrik / black-magic control",
+       "Pregnancy · no",
+       "Children · none"
+      ],
+      "sources": [
+       {
+        "name": "OTTplay feature"
+       }
+      ],
+      "provenance": "Beat, motive and family-status detail folded in from the 9 Oct 2026 Indian platform sweep."
+     }
+    },
+    "ig6qlxqxoxvcxla:274": {
      "title": "Shaitaan (2024)",
      "category": "Forcibly hypnotized to obey",
      "group": "Supernatural",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:453": {
+    "ig6qlxqxoxvcxla:481": {
      "title": "Shaitaan (2024)",
      "category": "Female hypnosis / mind control — India",
      "group": "Villain / tantrik / antagonist control",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:488": {
+    "ig6qlxqxoxvcxla:512": {
      "title": "Shaitaan (2024)",
      "category": "Villain / tantrik control — India",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:634": {
+    "ig6qlxqxoxvcxla:658": {
      "title": "Shaitaan (2024)",
      "category": "Tantrik / black-magic control",
      "group": "Catalog records",
@@ -71675,14 +71983,26 @@ window.CATALOG = {
    "categories": [
     "tantrik"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Tantra_(film)"
+    },
+    {
+     "label": "Gulte",
+     "url": "https://www.gulte.com/moviereviews/283939/tantra-movie-review"
+    }
+   ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
+    "ig6qlxqxoxvcxla",
     "india-catalog"
    ],
    "source_records": [
     "xla62ucxbx02u5:345",
+    "ig6qlxqxoxvcxla:183",
+    "ig6qlxqxoxvcxla:659",
     "india-catalog:28"
    ],
    "index_only": false,
@@ -71711,6 +72031,64 @@ window.CATALOG = {
     "distinct_story": false
    },
    "merged_from": [
+    {
+     "rid": "ig6qlxqxoxvcxla:183",
+     "source": "ig6qlxqxoxvcxla",
+     "label": "Tantra (2024)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Tantra",
+     "subtitle": "",
+     "year": "2024",
+     "meta": "Feature film · India · Telugu · theatrical · A-rated",
+     "summary": "Rekha is targeted by tantric pooja performed against her; her friend Sailu acts under the tantric’s influence, going to the graveyard on the twelfth day as predicted, until Teju kills the man performing the ritual.",
+     "character": "Rekha and Sailu",
+     "note": "Pregnancy during the arc, pregnancy at the end, children before and children by the end are unknown; the sources are silent. This is the 2024 Telugu film, not the separate 2018 Hindi series already cataloged.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "tantrik"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Tantra_(film)"
+      },
+      {
+       "label": "Gulte",
+       "url": "https://www.gulte.com/moviereviews/283939/tantra-movie-review"
+      }
+     ],
+     "distinct_story": true,
+     "index_title": "Tantra",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "ig6qlxqxoxvcxla:659",
+     "source": "ig6qlxqxoxvcxla",
+     "label": "Tantra (2024 Telugu film)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "Tantra",
+     "subtitle": "",
+     "year": "2024 Telugu film",
+     "meta": "Movies & film serials",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "Cataloged",
+     "categories": [
+      "tantrik"
+     ],
+     "sources": [],
+     "distinct_story": false,
+     "index_title": "Tantra (2024 Telugu film)",
+     "matched_by": "title+year"
+    },
     {
      "rid": "india-catalog:28",
      "source": "india-catalog",
@@ -71746,6 +72124,46 @@ window.CATALOG = {
      "flag": "Research report · web-verified",
      "s": "Sailu is subjected to an occultist's Tantric rite that makes her wander to the graveyard under its influence.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
+    },
+    "ig6qlxqxoxvcxla:183": {
+     "detailed": {
+      "cat": 26,
+      "title": "Tantra",
+      "year": "2024",
+      "meta": "Feature film · India · Telugu · theatrical · A-rated",
+      "subgroup": "Tantric ritual influence",
+      "summary": "Rekha is targeted by tantric pooja performed against her; her friend Sailu acts under the tantric’s influence, going to the graveyard on the twelfth day as predicted, until Teju kills the man performing the ritual.",
+      "note": "Pregnancy during the arc, pregnancy at the end, children before and children by the end are unknown; the sources are silent. This is the 2024 Telugu film, not the separate 2018 Hindi series already cataloged.",
+      "character": "Rekha and Sailu",
+      "mechanism": "Tantric pooja and external influence",
+      "controller": "The man performing the tantric ritual",
+      "motive": "Black-magic targeting; fuller motive not established in the reviewed sources",
+      "tags": [
+       "Tantrik / black-magic control",
+       "Villain / tantrik control — India",
+       "Verified",
+       "Pregnancy status · unknown",
+       "Children status · unknown"
+      ],
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tantra_(film)"
+       },
+       {
+        "name": "Gulte",
+        "url": "https://www.gulte.com/moviereviews/283939/tantra-movie-review"
+       }
+      ],
+      "provenance": "Added as a distinct 2024 Telugu film in the 9 Oct 2026 Indian female-hypnosis platform sweep."
+     }
+    },
+    "ig6qlxqxoxvcxla:659": {
+     "title": "Tantra (2024 Telugu film)",
+     "category": "Tantrik / black-magic control",
+     "group": "Catalog records",
+     "confidence": "Cataloged",
+     "note": ""
     },
     "india-catalog:28": {
      "title": "Tantra",
@@ -71786,7 +72204,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:346",
-    "ig6qlxqxoxvcxla:636"
+    "ig6qlxqxoxvcxla:660"
    ],
    "index_only": false,
    "local_only": false,
@@ -71815,7 +72233,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:636",
+     "rid": "ig6qlxqxoxvcxla:660",
      "source": "ig6qlxqxoxvcxla",
      "label": "Kataka (2017 Kannada)",
      "identifiers": [
@@ -71854,7 +72272,7 @@ window.CATALOG = {
      "s": "Four-year-old Kavya falls under an ancient black-magic curse after touching an enchanted item.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:636": {
+    "ig6qlxqxoxvcxla:660": {
      "title": "Kataka (2017 Kannada)",
      "category": "Tantrik / black-magic control",
      "group": "Catalog records",
@@ -71899,9 +72317,9 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:347",
-    "ig6qlxqxoxvcxla:454",
-    "ig6qlxqxoxvcxla:489",
-    "ig6qlxqxoxvcxla:637",
+    "ig6qlxqxoxvcxla:475",
+    "ig6qlxqxoxvcxla:513",
+    "ig6qlxqxoxvcxla:661",
     "india-catalog:37"
    ],
    "index_only": false,
@@ -71942,7 +72360,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:454",
+     "rid": "ig6qlxqxoxvcxla:475",
      "source": "ig6qlxqxoxvcxla",
      "label": "Bhool Bhulaiyaa 2 (2022)",
      "identifiers": [
@@ -71966,7 +72384,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:489",
+     "rid": "ig6qlxqxoxvcxla:513",
      "source": "ig6qlxqxoxvcxla",
      "label": "Bhool Bhulaiyaa 2 (2022)",
      "identifiers": [
@@ -71990,7 +72408,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:637",
+     "rid": "ig6qlxqxoxvcxla:661",
      "source": "ig6qlxqxoxvcxla",
      "label": "Bhool Bhulaiyaa 2 (2022)",
      "identifiers": [
@@ -72062,21 +72480,21 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:454": {
+    "ig6qlxqxoxvcxla:475": {
      "title": "Bhool Bhulaiyaa 2 (2022)",
      "category": "Female hypnosis / mind control — India",
      "group": "Villain / tantrik / antagonist control",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:489": {
+    "ig6qlxqxoxvcxla:513": {
      "title": "Bhool Bhulaiyaa 2 (2022)",
      "category": "Villain / tantrik control — India",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:637": {
+    "ig6qlxqxoxvcxla:661": {
      "title": "Bhool Bhulaiyaa 2 (2022)",
      "category": "Tantrik / black-magic control",
      "group": "Catalog records",
@@ -72545,7 +72963,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:351",
-    "ig6qlxqxoxvcxla:746"
+    "ig6qlxqxoxvcxla:770"
    ],
    "index_only": false,
    "local_only": false,
@@ -72581,7 +72999,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:746",
+     "rid": "ig6qlxqxoxvcxla:770",
      "source": "ig6qlxqxoxvcxla",
      "label": "Village of the Damned (1960)",
      "identifiers": [
@@ -72628,7 +73046,7 @@ window.CATALOG = {
      ],
      "sub": "Original film"
     },
-    "ig6qlxqxoxvcxla:746": {
+    "ig6qlxqxoxvcxla:770": {
      "title": "Village of the Damned (1960)",
      "category": "Female character controlled by a child / teen",
      "group": "Living psychic / telekinetic children",
@@ -72782,7 +73200,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:354",
-    "ig6qlxqxoxvcxla:655",
+    "ig6qlxqxoxvcxla:679",
     "worldwide-hypnosis:793"
    ],
    "index_only": false,
@@ -72812,7 +73230,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:655",
+     "rid": "ig6qlxqxoxvcxla:679",
      "source": "ig6qlxqxoxvcxla",
      "label": "Star Trek episodes",
      "identifiers": [
@@ -72880,7 +73298,7 @@ window.CATALOG = {
      "s": "The telepathic Platonians psychokinetically force Lt. Uhura and Nurse Chapel to act against their will.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:655": {
+    "ig6qlxqxoxvcxla:679": {
      "title": "Star Trek episodes",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
@@ -72985,7 +73403,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:356",
-    "ig6qlxqxoxvcxla:650"
+    "ig6qlxqxoxvcxla:674"
    ],
    "index_only": false,
    "local_only": false,
@@ -73020,7 +73438,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:650",
+     "rid": "ig6qlxqxoxvcxla:674",
      "source": "ig6qlxqxoxvcxla",
      "label": "Doctor Who “Terror of the Autons” (1971)",
      "identifiers": [
@@ -73067,7 +73485,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:650": {
+    "ig6qlxqxoxvcxla:674": {
      "title": "Doctor Who “Terror of the Autons” (1971)",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
@@ -73867,7 +74285,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:369",
-    "ig6qlxqxoxvcxla:658"
+    "ig6qlxqxoxvcxla:682"
    ],
    "index_only": false,
    "local_only": false,
@@ -73896,7 +74314,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:658",
+     "rid": "ig6qlxqxoxvcxla:682",
      "source": "ig6qlxqxoxvcxla",
      "label": "Westworld",
      "identifiers": [],
@@ -73932,7 +74350,7 @@ window.CATALOG = {
      "s": "Dolores Abernathy and Maeve Millay are programmed into behavioral loops; Maeve's \"escape\" is revealed as scripted.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:658": {
+    "ig6qlxqxoxvcxla:682": {
      "title": "Westworld",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
@@ -73965,7 +74383,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:370",
-    "ig6qlxqxoxvcxla:646"
+    "ig6qlxqxoxvcxla:670"
    ],
    "index_only": false,
    "local_only": false,
@@ -73994,7 +74412,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:646",
+     "rid": "ig6qlxqxoxvcxla:670",
      "source": "ig6qlxqxoxvcxla",
      "label": "Orphan Black",
      "identifiers": [],
@@ -74030,7 +74448,7 @@ window.CATALOG = {
      "s": "Mathieson remotely manipulates Rachel Duncan's brain via her artificial eye.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:646": {
+    "ig6qlxqxoxvcxla:670": {
      "title": "Orphan Black",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
@@ -74085,7 +74503,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:371",
-    "ig6qlxqxoxvcxla:659",
+    "ig6qlxqxoxvcxla:683",
     "worldwide-hypnosis:142"
    ],
    "index_only": false,
@@ -74124,7 +74542,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:659",
+     "rid": "ig6qlxqxoxvcxla:683",
      "source": "ig6qlxqxoxvcxla",
      "label": "Black Mirror episodes",
      "identifiers": [
@@ -74206,7 +74624,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:659": {
+    "ig6qlxqxoxvcxla:683": {
      "title": "Black Mirror episodes",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
@@ -74691,8 +75109,8 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:380",
     "ig6qlxqxoxvcxla:135",
-    "ig6qlxqxoxvcxla:661",
-    "ig6qlxqxoxvcxla:676"
+    "ig6qlxqxoxvcxla:685",
+    "ig6qlxqxoxvcxla:700"
    ],
    "index_only": false,
    "local_only": false,
@@ -74745,7 +75163,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:661",
+     "rid": "ig6qlxqxoxvcxla:685",
      "source": "ig6qlxqxoxvcxla",
      "label": "Get Out (2017) — Sunken Place",
      "identifiers": [
@@ -74770,7 +75188,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:676",
+     "rid": "ig6qlxqxoxvcxla:700",
      "source": "ig6qlxqxoxvcxla",
      "label": "Get Out (2017)",
      "identifiers": [
@@ -74830,14 +75248,14 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:661": {
+    "ig6qlxqxoxvcxla:685": {
      "title": "Get Out (2017) — Sunken Place",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:676": {
+    "ig6qlxqxoxvcxla:700": {
      "title": "Get Out (2017)",
      "category": "Cult / coercive brainwashing",
      "group": "Catalog records",
@@ -74870,7 +75288,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:381",
-    "ig6qlxqxoxvcxla:677"
+    "ig6qlxqxoxvcxla:701"
    ],
    "index_only": false,
    "local_only": false,
@@ -74899,7 +75317,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:677",
+     "rid": "ig6qlxqxoxvcxla:701",
      "source": "ig6qlxqxoxvcxla",
      "label": "Midsommar (2019)",
      "identifiers": [
@@ -74937,7 +75355,7 @@ window.CATALOG = {
      "s": "Dani Ardor is drugged, isolated, love-bombed and psychologically indoctrinated by the Hårga cult until she submits.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:677": {
+    "ig6qlxqxoxvcxla:701": {
      "title": "Midsommar (2019)",
      "category": "Cult / coercive brainwashing",
      "group": "Catalog records",
@@ -74970,7 +75388,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:382",
-    "ig6qlxqxoxvcxla:678"
+    "ig6qlxqxoxvcxla:702"
    ],
    "index_only": false,
    "local_only": false,
@@ -74999,7 +75417,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:678",
+     "rid": "ig6qlxqxoxvcxla:702",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Stand (1994 miniseries)",
      "identifiers": [
@@ -75038,7 +75456,7 @@ window.CATALOG = {
      "s": "Nadine Cross is commanded by Randall Flagg in visions to join him as his concubine, left \"under The Walkin Dude's thrall.\"",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:678": {
+    "ig6qlxqxoxvcxla:702": {
      "title": "The Stand (1994 miniseries)",
      "category": "Cult / coercive brainwashing",
      "group": "Catalog records",
@@ -75071,7 +75489,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:383",
-    "ig6qlxqxoxvcxla:679"
+    "ig6qlxqxoxvcxla:703"
    ],
    "index_only": false,
    "local_only": false,
@@ -75100,7 +75518,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:679",
+     "rid": "ig6qlxqxoxvcxla:703",
      "source": "ig6qlxqxoxvcxla",
      "label": "Charmed (1999) “Wicca Envy”",
      "identifiers": [
@@ -75139,7 +75557,7 @@ window.CATALOG = {
      "s": "Rex uses astral projection to control Prue Halliwell's mind and manipulate her into stealing a tiara.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:679": {
+    "ig6qlxqxoxvcxla:703": {
      "title": "Charmed (1999) “Wicca Envy”",
      "category": "Cult / coercive brainwashing",
      "group": "Catalog records",
@@ -75172,7 +75590,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:384",
-    "ig6qlxqxoxvcxla:680"
+    "ig6qlxqxoxvcxla:704"
    ],
    "index_only": false,
    "local_only": false,
@@ -75201,7 +75619,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:680",
+     "rid": "ig6qlxqxoxvcxla:704",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Vampire Diaries (2013)",
      "identifiers": [
@@ -75240,7 +75658,7 @@ window.CATALOG = {
      "s": "Rebekah compels Elena Gilbert and Caroline Forbes to answer honestly and remain in the room.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:680": {
+    "ig6qlxqxoxvcxla:704": {
      "title": "The Vampire Diaries (2013)",
      "category": "Cult / coercive brainwashing",
      "group": "Catalog records",
@@ -75274,8 +75692,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:385",
-    "ig6qlxqxoxvcxla:681",
-    "ig6qlxqxoxvcxla:991"
+    "ig6qlxqxoxvcxla:705",
+    "ig6qlxqxoxvcxla:1015"
    ],
    "index_only": false,
    "local_only": false,
@@ -75304,7 +75722,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:681",
+     "rid": "ig6qlxqxoxvcxla:705",
      "source": "ig6qlxqxoxvcxla",
      "label": "Once Upon a Time (2014)",
      "identifiers": [
@@ -75329,7 +75747,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:991",
+     "rid": "ig6qlxqxoxvcxla:1015",
      "source": "ig6qlxqxoxvcxla",
      "label": "Once Upon a Time S02E10",
      "identifiers": [
@@ -75367,14 +75785,14 @@ window.CATALOG = {
      "s": "Ingrid's curse makes Regina and Mary Margaret turn violently against each other.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:681": {
+    "ig6qlxqxoxvcxla:705": {
      "title": "Once Upon a Time (2014)",
      "category": "Cult / coercive brainwashing",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:991": {
+    "ig6qlxqxoxvcxla:1015": {
      "title": "Once Upon a Time S02E10",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Post-coital near-miss",
@@ -75407,7 +75825,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:386",
-    "ig6qlxqxoxvcxla:682"
+    "ig6qlxqxoxvcxla:706"
    ],
    "index_only": false,
    "local_only": false,
@@ -75436,7 +75854,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:682",
+     "rid": "ig6qlxqxoxvcxla:706",
      "source": "ig6qlxqxoxvcxla",
      "label": "Beverly Hills, 90210 (1995)",
      "identifiers": [
@@ -75474,7 +75892,7 @@ window.CATALOG = {
      "s": "Kelly Taylor is brainwashed into joining a cult run by professor Finley.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:682": {
+    "ig6qlxqxoxvcxla:706": {
      "title": "Beverly Hills, 90210 (1995)",
      "category": "Cult / coercive brainwashing",
      "group": "Catalog records",
@@ -75507,7 +75925,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:387",
-    "ig6qlxqxoxvcxla:683"
+    "ig6qlxqxoxvcxla:707"
    ],
    "index_only": false,
    "local_only": false,
@@ -75536,7 +75954,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:683",
+     "rid": "ig6qlxqxoxvcxla:707",
      "source": "ig6qlxqxoxvcxla",
      "label": "Melrose Place",
      "identifiers": [],
@@ -75572,7 +75990,7 @@ window.CATALOG = {
      "s": "Meredith Parker is subjected to cult-inspired brainwashing and drugs that turn her against her family.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:683": {
+    "ig6qlxqxoxvcxla:707": {
      "title": "Melrose Place",
      "category": "Cult / coercive brainwashing",
      "group": "Catalog records",
@@ -75605,7 +76023,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:389",
-    "ig6qlxqxoxvcxla:685"
+    "ig6qlxqxoxvcxla:709"
    ],
    "index_only": false,
    "local_only": false,
@@ -75634,7 +76052,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:685",
+     "rid": "ig6qlxqxoxvcxla:709",
      "source": "ig6qlxqxoxvcxla",
      "label": "One Life to Live (2008)",
      "identifiers": [
@@ -75672,7 +76090,7 @@ window.CATALOG = {
      "s": "Todd Manning isolates and deceives the amnesiac Marty Saybrooke until she is concluded to have been brainwashed.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:685": {
+    "ig6qlxqxoxvcxla:709": {
      "title": "One Life to Live (2008)",
      "category": "Cult / coercive brainwashing",
      "group": "Catalog records",
@@ -75705,7 +76123,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:390",
-    "ig6qlxqxoxvcxla:686"
+    "ig6qlxqxoxvcxla:710"
    ],
    "index_only": false,
    "local_only": false,
@@ -75734,7 +76152,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:686",
+     "rid": "ig6qlxqxoxvcxla:710",
      "source": "ig6qlxqxoxvcxla",
      "label": "Save Me (2017 Korea)",
      "identifiers": [
@@ -75773,7 +76191,7 @@ window.CATALOG = {
      "s": "Im Sang-mi and her family are psychologically broken down and brainwashed by the Guseonwon cult; she is groomed to marry its leader.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:686": {
+    "ig6qlxqxoxvcxla:710": {
      "title": "Save Me (2017 Korea)",
      "category": "Cult / coercive brainwashing",
      "group": "Catalog records",
@@ -75822,7 +76240,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:391",
-    "ig6qlxqxoxvcxla:687"
+    "ig6qlxqxoxvcxla:711"
    ],
    "index_only": false,
    "local_only": false,
@@ -75851,7 +76269,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:687",
+     "rid": "ig6qlxqxoxvcxla:711",
      "source": "ig6qlxqxoxvcxla",
      "label": "Cat People (1942)",
      "identifiers": [
@@ -75889,7 +76307,7 @@ window.CATALOG = {
      "s": "Psychiatrist Dr. Louis Judd hypnotizes Irena Dubrovna, who recounts the cat-woman curse under hypnosis.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:687": {
+    "ig6qlxqxoxvcxla:711": {
      "title": "Cat People (1942)",
      "category": "Medical / therapeutic hypnosis",
      "group": "Catalog records",
@@ -75922,7 +76340,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:392",
-    "ig6qlxqxoxvcxla:688"
+    "ig6qlxqxoxvcxla:712"
    ],
    "index_only": false,
    "local_only": false,
@@ -75951,7 +76369,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:688",
+     "rid": "ig6qlxqxoxvcxla:712",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Seventh Veil (1945)",
      "identifiers": [
@@ -75989,7 +76407,7 @@ window.CATALOG = {
      "s": "Psychiatrist Dr. Larsen uses hypnosis therapy on concert pianist Francesca Cunningham to peel back the \"veils\" of her traumatic past.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:688": {
+    "ig6qlxqxoxvcxla:712": {
      "title": "The Seventh Veil (1945)",
      "category": "Medical / therapeutic hypnosis",
      "group": "Catalog records",
@@ -76022,7 +76440,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:393",
-    "ig6qlxqxoxvcxla:689"
+    "ig6qlxqxoxvcxla:713"
    ],
    "index_only": false,
    "local_only": false,
@@ -76051,7 +76469,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:689",
+     "rid": "ig6qlxqxoxvcxla:713",
      "source": "ig6qlxqxoxvcxla",
      "label": "Freud (1962)",
      "identifiers": [
@@ -76090,7 +76508,7 @@ window.CATALOG = {
      "s": "Freud and Breuer treat patient Cecily Koertner under hypnosis.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:689": {
+    "ig6qlxqxoxvcxla:713": {
      "title": "Freud (1962)",
      "category": "Medical / therapeutic hypnosis",
      "group": "Catalog records",
@@ -76123,7 +76541,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:394",
-    "ig6qlxqxoxvcxla:690"
+    "ig6qlxqxoxvcxla:714"
    ],
    "index_only": false,
    "local_only": false,
@@ -76152,7 +76570,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:690",
+     "rid": "ig6qlxqxoxvcxla:714",
      "source": "ig6qlxqxoxvcxla",
      "label": "Sybil (1976)",
      "identifiers": [
@@ -76190,7 +76608,7 @@ window.CATALOG = {
      "s": "Dr. Cornelia Wilbur repeatedly hypnotizes Sybil Dorsett in therapy to introduce her to her alter personalities.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
     },
-    "ig6qlxqxoxvcxla:690": {
+    "ig6qlxqxoxvcxla:714": {
      "title": "Sybil (1976)",
      "category": "Medical / therapeutic hypnosis",
      "group": "Catalog records",
@@ -76236,8 +76654,8 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:396",
     "xla62ucxbx02u5:1990",
-    "ig6qlxqxoxvcxla:421",
-    "ig6qlxqxoxvcxla:694"
+    "ig6qlxqxoxvcxla:444",
+    "ig6qlxqxoxvcxla:718"
    ],
    "index_only": false,
    "local_only": false,
@@ -76301,7 +76719,7 @@ window.CATALOG = {
      "distinct_story": true
     },
     {
-     "rid": "ig6qlxqxoxvcxla:421",
+     "rid": "ig6qlxqxoxvcxla:444",
      "source": "ig6qlxqxoxvcxla",
      "label": "Neighbours",
      "identifiers": [],
@@ -76323,7 +76741,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:694",
+     "rid": "ig6qlxqxoxvcxla:718",
      "source": "ig6qlxqxoxvcxla",
      "label": "Neighbours episode 8117 (2019)",
      "identifiers": [
@@ -76394,14 +76812,14 @@ window.CATALOG = {
      ],
      "prov": "Pregnant-lesbian-couple intimate/sex scene sweep, 1 Oct 2026 (English mainstream vector)"
     },
-    "ig6qlxqxoxvcxla:421": {
+    "ig6qlxqxoxvcxla:444": {
      "title": "Neighbours",
      "category": "Adopt a child, then become pregnant",
      "group": "Marginal variants",
      "confidence": "Marginal",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:694": {
+    "ig6qlxqxoxvcxla:718": {
      "title": "Neighbours episode 8117 (2019)",
      "category": "Medical / therapeutic hypnosis",
      "group": "Catalog records",
@@ -77027,7 +77445,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:405",
     "ig6qlxqxoxvcxla:131",
-    "ig6qlxqxoxvcxla:258"
+    "ig6qlxqxoxvcxla:281"
    ],
    "index_only": false,
    "local_only": false,
@@ -77092,7 +77510,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:258",
+     "rid": "ig6qlxqxoxvcxla:281",
      "source": "ig6qlxqxoxvcxla",
      "label": "Fallait pas! (1996)",
      "identifiers": [
@@ -77162,7 +77580,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:258": {
+    "ig6qlxqxoxvcxla:281": {
      "title": "Fallait pas! (1996)",
      "category": "Forcibly hypnotized to obey",
      "group": "Disputed",
@@ -77213,9 +77631,9 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:406",
-    "ig6qlxqxoxvcxla:179",
-    "ig6qlxqxoxvcxla:335",
-    "ig6qlxqxoxvcxla:448",
+    "ig6qlxqxoxvcxla:201",
+    "ig6qlxqxoxvcxla:358",
+    "ig6qlxqxoxvcxla:471",
     "india-catalog:94"
    ],
    "index_only": false,
@@ -77262,7 +77680,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:179",
+     "rid": "ig6qlxqxoxvcxla:201",
      "source": "ig6qlxqxoxvcxla",
      "label": "Aranmanai",
      "identifiers": [],
@@ -77284,7 +77702,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:335",
+     "rid": "ig6qlxqxoxvcxla:358",
      "source": "ig6qlxqxoxvcxla",
      "label": "Aranmanai (2014)",
      "identifiers": [
@@ -77308,7 +77726,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:448",
+     "rid": "ig6qlxqxoxvcxla:471",
      "source": "ig6qlxqxoxvcxla",
      "label": "Aranmanai",
      "identifiers": [],
@@ -77404,21 +77822,21 @@ window.CATALOG = {
      "variantCh": "Madhavi",
      "variantProv": "Seven-region Indian-language gap-fill sweep; both matches re-verified by direct Wikipedia page fetch on 30 Sep 2026."
     },
-    "ig6qlxqxoxvcxla:179": {
+    "ig6qlxqxoxvcxla:201": {
      "title": "Aranmanai",
      "category": "Hypnotized to love",
      "group": "Coerced / one-sided romance",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:335": {
+    "ig6qlxqxoxvcxla:358": {
      "title": "Aranmanai (2014)",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Possession by dead ex-girlfriend / former lover",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:448": {
+    "ig6qlxqxoxvcxla:471": {
      "title": "Aranmanai",
      "category": "Female hypnosis / mind control — India",
      "group": "Love / marriage / relationship compulsion",
@@ -77476,8 +77894,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:407",
-    "ig6qlxqxoxvcxla:180",
-    "ig6qlxqxoxvcxla:449",
+    "ig6qlxqxoxvcxla:202",
+    "ig6qlxqxoxvcxla:472",
     "india-catalog:127"
    ],
    "index_only": false,
@@ -77518,7 +77936,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:180",
+     "rid": "ig6qlxqxoxvcxla:202",
      "source": "ig6qlxqxoxvcxla",
      "label": "Anamika",
      "identifiers": [],
@@ -77540,7 +77958,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:449",
+     "rid": "ig6qlxqxoxvcxla:472",
      "source": "ig6qlxqxoxvcxla",
      "label": "Anamika",
      "identifiers": [],
@@ -77609,14 +78027,14 @@ window.CATALOG = {
      ],
      "icg": "love"
     },
-    "ig6qlxqxoxvcxla:180": {
+    "ig6qlxqxoxvcxla:202": {
      "title": "Anamika",
      "category": "Hypnotized to love",
      "group": "Coerced / one-sided romance",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:449": {
+    "ig6qlxqxoxvcxla:472": {
      "title": "Anamika",
      "category": "Female hypnosis / mind control — India",
      "group": "Love / marriage / relationship compulsion",
@@ -77659,7 +78077,7 @@ window.CATALOG = {
    "confidence_flag": "High confidence · index-verified",
    "summary": "Black magician Pratap uses hypnotism and black magic to control Aarya; she acts against her will under his instructions, while other girls remain under his hypnotic control.",
    "character": "",
-   "provenance": "",
+   "provenance": "Sequel and family-status detail folded in from the 9 Oct 2026 Indian platform sweep.",
    "note": "",
    "format": "movie",
    "categories": [
@@ -77681,10 +78099,11 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:408",
-    "ig6qlxqxoxvcxla:261",
-    "ig6qlxqxoxvcxla:455",
-    "ig6qlxqxoxvcxla:490",
-    "ig6qlxqxoxvcxla:640"
+    "ig6qlxqxoxvcxla:188",
+    "ig6qlxqxoxvcxla:284",
+    "ig6qlxqxoxvcxla:482",
+    "ig6qlxqxoxvcxla:514",
+    "ig6qlxqxoxvcxla:664"
    ],
    "index_only": false,
    "local_only": false,
@@ -77721,7 +78140,31 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:261",
+     "rid": "ig6qlxqxoxvcxla:188",
+     "source": "ig6qlxqxoxvcxla",
+     "label": "Vash (2023)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Vash",
+     "subtitle": "",
+     "year": "2023",
+     "meta": "Feature film · India · Gujarati",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "villain"
+     ],
+     "sources": [],
+     "distinct_story": false,
+     "index_title": "Vash",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "ig6qlxqxoxvcxla:284",
      "source": "ig6qlxqxoxvcxla",
      "label": "Vash (2023)",
      "identifiers": [
@@ -77745,7 +78188,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:455",
+     "rid": "ig6qlxqxoxvcxla:482",
      "source": "ig6qlxqxoxvcxla",
      "label": "Vash (2023)",
      "identifiers": [
@@ -77769,7 +78212,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:490",
+     "rid": "ig6qlxqxoxvcxla:514",
      "source": "ig6qlxqxoxvcxla",
      "label": "Vash (2023 Gujarati)",
      "identifiers": [
@@ -77794,7 +78237,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:640",
+     "rid": "ig6qlxqxoxvcxla:664",
      "source": "ig6qlxqxoxvcxla",
      "label": "Vash (2023)",
      "identifiers": [
@@ -77842,28 +78285,50 @@ window.CATALOG = {
      "icg": "villain",
      "fog": "lead"
     },
-    "ig6qlxqxoxvcxla:261": {
+    "ig6qlxqxoxvcxla:188": {
+     "detailed": {
+      "cat": 21,
+      "title": "Vash",
+      "year": "2023",
+      "meta": "Feature film · India · Gujarati",
+      "subgroup": "Vashikaran control",
+      "appendNote": "Sequel enrichment: twelve years later in Vash Level 2, Aarya remains psychologically trapped or withdrawn under Pratap’s lingering vashikaran. Pregnancy is not indicated; she is a daughter, not a mother, and has no children.",
+      "tags": [
+       "Villain / tantrik control — India",
+       "Tantrik / black-magic control",
+       "Pregnancy status · not indicated",
+       "Children · none"
+      ],
+      "sources": [
+       {
+        "name": "Vash Level 2 plot coverage"
+       }
+      ],
+      "provenance": "Sequel and family-status detail folded in from the 9 Oct 2026 Indian platform sweep."
+     }
+    },
+    "ig6qlxqxoxvcxla:284": {
      "title": "Vash (2023)",
      "category": "Forcibly hypnotized to obey",
      "group": "Low-confidence leads",
      "confidence": "Low confidence",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:455": {
+    "ig6qlxqxoxvcxla:482": {
      "title": "Vash (2023)",
      "category": "Female hypnosis / mind control — India",
      "group": "Villain / tantrik / antagonist control",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:490": {
+    "ig6qlxqxoxvcxla:514": {
      "title": "Vash (2023 Gujarati)",
      "category": "Villain / tantrik control — India",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:640": {
+    "ig6qlxqxoxvcxla:664": {
      "title": "Vash (2023)",
      "category": "Tantrik / black-magic control",
      "group": "Catalog records",
@@ -77882,7 +78347,7 @@ window.CATALOG = {
    "confidence_flag": "High confidence · index-verified",
    "summary": "Rajnath orchestrates mass hypnosis of schoolgirls: ten leap from a terrace in unison, while others remain under violent puppet-like control.",
    "character": "",
-   "provenance": "",
+   "provenance": "Sequel detail folded in from the 9 Oct 2026 Indian platform sweep.",
    "note": "",
    "format": "movie",
    "categories": [
@@ -77903,9 +78368,10 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:409",
-    "ig6qlxqxoxvcxla:456",
-    "ig6qlxqxoxvcxla:491",
-    "ig6qlxqxoxvcxla:641"
+    "ig6qlxqxoxvcxla:189",
+    "ig6qlxqxoxvcxla:483",
+    "ig6qlxqxoxvcxla:515",
+    "ig6qlxqxoxvcxla:665"
    ],
    "index_only": false,
    "local_only": false,
@@ -77941,7 +78407,31 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:456",
+     "rid": "ig6qlxqxoxvcxla:189",
+     "source": "ig6qlxqxoxvcxla",
+     "label": "Vash Level 2 (2025)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Vash Level 2",
+     "subtitle": "",
+     "year": "2025",
+     "meta": "Feature film · India · Gujarati / Hindi",
+     "summary": "Twelve years later, Aarya remains psychologically trapped or withdrawn under Pratap’s lingering vashikaran. Rajnath orchestrates mass hypnosis of schoolgirls—ten leap from a school terrace while others attack strangers, vandalise and burn vehicles—to locate Pratap and learn the ultimate spell; Atharva frees Aarya by repaying a Rs 10 karmic debt, then cuts off Rajnath’s tongue.",
+     "character": "Aarya and groups of schoolgirls",
+     "note": "Rajnath’s stated aim includes establishing male power over women. Pregnancy is not indicated; Aarya is the daughter, not a mother, and has no children.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "villain"
+     ],
+     "sources": [],
+     "distinct_story": true,
+     "index_title": "Vash Level 2",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "ig6qlxqxoxvcxla:483",
      "source": "ig6qlxqxoxvcxla",
      "label": "Vash Level 2 (2025)",
      "identifiers": [
@@ -77965,7 +78455,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:491",
+     "rid": "ig6qlxqxoxvcxla:515",
      "source": "ig6qlxqxoxvcxla",
      "label": "Vash Level 2 (2025)",
      "identifiers": [
@@ -77989,7 +78479,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:641",
+     "rid": "ig6qlxqxoxvcxla:665",
      "source": "ig6qlxqxoxvcxla",
      "label": "Vash Level 2 (2025)",
      "identifiers": [
@@ -78035,21 +78525,48 @@ window.CATALOG = {
      ],
      "icg": "villain"
     },
-    "ig6qlxqxoxvcxla:456": {
+    "ig6qlxqxoxvcxla:189": {
+     "detailed": {
+      "cat": 21,
+      "title": "Vash Level 2",
+      "year": "2025",
+      "meta": "Feature film · India · Gujarati / Hindi",
+      "subgroup": "Mass vashikaran",
+      "summary": "Twelve years later, Aarya remains psychologically trapped or withdrawn under Pratap’s lingering vashikaran. Rajnath orchestrates mass hypnosis of schoolgirls—ten leap from a school terrace while others attack strangers, vandalise and burn vehicles—to locate Pratap and learn the ultimate spell; Atharva frees Aarya by repaying a Rs 10 karmic debt, then cuts off Rajnath’s tongue.",
+      "note": "Rajnath’s stated aim includes establishing male power over women. Pregnancy is not indicated; Aarya is the daughter, not a mother, and has no children.",
+      "character": "Aarya and groups of schoolgirls",
+      "mechanism": "Lingering and mass vashikaran",
+      "controller": "Pratap’s lingering control; Rajnath’s mass hypnosis",
+      "motive": "Spread chaos, find Pratap and obtain the ultimate spell",
+      "tags": [
+       "Villain / tantrik control — India",
+       "Tantrik / black-magic control",
+       "Pregnancy status · not indicated",
+       "Children · none"
+      ],
+      "sources": [
+       {
+        "name": "Vash Level 2 plot coverage"
+       }
+      ],
+      "provenance": "Sequel detail folded in from the 9 Oct 2026 Indian platform sweep."
+     }
+    },
+    "ig6qlxqxoxvcxla:483": {
      "title": "Vash Level 2 (2025)",
      "category": "Female hypnosis / mind control — India",
      "group": "Villain / tantrik / antagonist control",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:491": {
+    "ig6qlxqxoxvcxla:515": {
      "title": "Vash Level 2 (2025)",
      "category": "Villain / tantrik control — India",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:641": {
+    "ig6qlxqxoxvcxla:665": {
      "title": "Vash Level 2 (2025)",
      "category": "Tantrik / black-magic control",
      "group": "Catalog records",
@@ -78090,8 +78607,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:410",
-    "ig6qlxqxoxvcxla:457",
-    "ig6qlxqxoxvcxla:492",
+    "ig6qlxqxoxvcxla:479",
+    "ig6qlxqxoxvcxla:516",
     "india-catalog:34"
    ],
    "index_only": false,
@@ -78128,7 +78645,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:457",
+     "rid": "ig6qlxqxoxvcxla:479",
      "source": "ig6qlxqxoxvcxla",
      "label": "Purana Mandir (1984)",
      "identifiers": [
@@ -78152,7 +78669,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:492",
+     "rid": "ig6qlxqxoxvcxla:516",
      "source": "ig6qlxqxoxvcxla",
      "label": "Purana Mandir (1984)",
      "identifiers": [
@@ -78219,14 +78736,14 @@ window.CATALOG = {
      ],
      "icg": "villain"
     },
-    "ig6qlxqxoxvcxla:457": {
+    "ig6qlxqxoxvcxla:479": {
      "title": "Purana Mandir (1984)",
      "category": "Female hypnosis / mind control — India",
      "group": "Villain / tantrik / antagonist control",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:492": {
+    "ig6qlxqxoxvcxla:516": {
      "title": "Purana Mandir (1984)",
      "category": "Villain / tantrik control — India",
      "group": "Catalog records",
@@ -78299,8 +78816,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:411",
-    "ig6qlxqxoxvcxla:458",
-    "ig6qlxqxoxvcxla:493",
+    "ig6qlxqxoxvcxla:477",
+    "ig6qlxqxoxvcxla:517",
     "india-catalog:33"
    ],
    "index_only": false,
@@ -78345,7 +78862,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:458",
+     "rid": "ig6qlxqxoxvcxla:477",
      "source": "ig6qlxqxoxvcxla",
      "label": "Gehrayee (1980)",
      "identifiers": [
@@ -78369,7 +78886,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:493",
+     "rid": "ig6qlxqxoxvcxla:517",
      "source": "ig6qlxqxoxvcxla",
      "label": "Gehrayee (1980)",
      "identifiers": [
@@ -78444,14 +78961,14 @@ window.CATALOG = {
      ],
      "icg": "villain"
     },
-    "ig6qlxqxoxvcxla:458": {
+    "ig6qlxqxoxvcxla:477": {
      "title": "Gehrayee (1980)",
      "category": "Female hypnosis / mind control — India",
      "group": "Villain / tantrik / antagonist control",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:493": {
+    "ig6qlxqxoxvcxla:517": {
      "title": "Gehrayee (1980)",
      "category": "Villain / tantrik control — India",
      "group": "Catalog records",
@@ -78523,8 +79040,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:412",
-    "ig6qlxqxoxvcxla:459",
-    "ig6qlxqxoxvcxla:494",
+    "ig6qlxqxoxvcxla:474",
+    "ig6qlxqxoxvcxla:518",
     "india-catalog:106"
    ],
    "index_only": false,
@@ -78561,7 +79078,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:459",
+     "rid": "ig6qlxqxoxvcxla:474",
      "source": "ig6qlxqxoxvcxla",
      "label": "Ankahee Dastaan – Nazar (2021)",
      "identifiers": [
@@ -78586,7 +79103,7 @@ window.CATALOG = {
      "matched_by": "prefix"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:494",
+     "rid": "ig6qlxqxoxvcxla:518",
      "source": "ig6qlxqxoxvcxla",
      "label": "Ankahee Dastaan – Nazar special episode (2021)",
      "identifiers": [
@@ -78654,14 +79171,14 @@ window.CATALOG = {
      ],
      "icg": "villain"
     },
-    "ig6qlxqxoxvcxla:459": {
+    "ig6qlxqxoxvcxla:474": {
      "title": "Ankahee Dastaan – Nazar (2021)",
      "category": "Female hypnosis / mind control — India",
      "group": "Villain / tantrik / antagonist control",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:494": {
+    "ig6qlxqxoxvcxla:518": {
      "title": "Ankahee Dastaan – Nazar special episode (2021)",
      "category": "Villain / tantrik control — India",
      "group": "Catalog records",
@@ -78715,7 +79232,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:413",
-    "ig6qlxqxoxvcxla:473",
+    "ig6qlxqxoxvcxla:497",
     "india-catalog:61"
    ],
    "index_only": false,
@@ -78751,7 +79268,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:473",
+     "rid": "ig6qlxqxoxvcxla:497",
      "source": "ig6qlxqxoxvcxla",
      "label": "Shock (2004)",
      "identifiers": [
@@ -78817,7 +79334,7 @@ window.CATALOG = {
      ],
      "icg": "supernatural"
     },
-    "ig6qlxqxoxvcxla:473": {
+    "ig6qlxqxoxvcxla:497": {
      "title": "Shock (2004)",
      "category": "Female hypnosis / mind control — India",
      "group": "Spirit / ghost / paranormal control",
@@ -78870,7 +79387,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:414",
-    "ig6qlxqxoxvcxla:474",
+    "ig6qlxqxoxvcxla:498",
     "india-catalog:87"
    ],
    "index_only": false,
@@ -78906,7 +79423,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:474",
+     "rid": "ig6qlxqxoxvcxla:498",
      "source": "ig6qlxqxoxvcxla",
      "label": "Bhoot – Part One: The Haunted Ship (2020)",
      "identifiers": [
@@ -78972,7 +79489,7 @@ window.CATALOG = {
      ],
      "icg": "supernatural"
     },
-    "ig6qlxqxoxvcxla:474": {
+    "ig6qlxqxoxvcxla:498": {
      "title": "Bhoot – Part One: The Haunted Ship (2020)",
      "category": "Female hypnosis / mind control — India",
      "group": "Spirit / ghost / paranormal control",
@@ -79025,7 +79542,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:415",
-    "ig6qlxqxoxvcxla:475",
+    "ig6qlxqxoxvcxla:499",
     "india-catalog:89"
    ],
    "index_only": false,
@@ -79061,7 +79578,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:475",
+     "rid": "ig6qlxqxoxvcxla:499",
      "source": "ig6qlxqxoxvcxla",
      "label": "Bhool Bhulaiyaa 3 (2024)",
      "identifiers": [
@@ -79127,7 +79644,7 @@ window.CATALOG = {
      ],
      "icg": "supernatural"
     },
-    "ig6qlxqxoxvcxla:475": {
+    "ig6qlxqxoxvcxla:499": {
      "title": "Bhool Bhulaiyaa 3 (2024)",
      "category": "Female hypnosis / mind control — India",
      "group": "Spirit / ghost / paranormal control",
@@ -79180,7 +79697,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:416",
-    "ig6qlxqxoxvcxla:476",
+    "ig6qlxqxoxvcxla:500",
     "india-catalog:69"
    ],
    "index_only": false,
@@ -79216,7 +79733,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:476",
+     "rid": "ig6qlxqxoxvcxla:500",
      "source": "ig6qlxqxoxvcxla",
      "label": "Chandramukhi 2 (2023)",
      "identifiers": [
@@ -79282,7 +79799,7 @@ window.CATALOG = {
      ],
      "icg": "supernatural"
     },
-    "ig6qlxqxoxvcxla:476": {
+    "ig6qlxqxoxvcxla:500": {
      "title": "Chandramukhi 2 (2023)",
      "category": "Female hypnosis / mind control — India",
      "group": "Spirit / ghost / paranormal control",
@@ -79339,7 +79856,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:417",
-    "ig6qlxqxoxvcxla:477",
+    "ig6qlxqxoxvcxla:501",
     "india-catalog:76"
    ],
    "index_only": false,
@@ -79379,7 +79896,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:477",
+     "rid": "ig6qlxqxoxvcxla:501",
      "source": "ig6qlxqxoxvcxla",
      "label": "Aptharakshaka (2010)",
      "identifiers": [
@@ -79449,7 +79966,7 @@ window.CATALOG = {
      ],
      "icg": "supernatural"
     },
-    "ig6qlxqxoxvcxla:477": {
+    "ig6qlxqxoxvcxla:501": {
      "title": "Aptharakshaka (2010)",
      "category": "Female hypnosis / mind control — India",
      "group": "Spirit / ghost / paranormal control",
@@ -79502,7 +80019,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:418",
-    "ig6qlxqxoxvcxla:479",
+    "ig6qlxqxoxvcxla:503",
     "india-catalog:86"
    ],
    "index_only": false,
@@ -79538,7 +80055,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:479",
+     "rid": "ig6qlxqxoxvcxla:503",
      "source": "ig6qlxqxoxvcxla",
      "label": "Dybbuk (2021)",
      "identifiers": [
@@ -79604,7 +80121,7 @@ window.CATALOG = {
      ],
      "icg": "supernatural"
     },
-    "ig6qlxqxoxvcxla:479": {
+    "ig6qlxqxoxvcxla:503": {
      "title": "Dybbuk (2021)",
      "category": "Female hypnosis / mind control — India",
      "group": "Spirit / ghost / paranormal control",
@@ -79670,7 +80187,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:419",
-    "ig6qlxqxoxvcxla:480",
+    "ig6qlxqxoxvcxla:504",
     "india-catalog:60"
    ],
    "index_only": false,
@@ -79720,7 +80237,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:480",
+     "rid": "ig6qlxqxoxvcxla:504",
      "source": "ig6qlxqxoxvcxla",
      "label": "Abhinetri / Devi / Tutak Tutak Tutiya (2016)",
      "identifiers": [
@@ -79826,7 +80343,7 @@ window.CATALOG = {
      "variantCh": "Devi",
      "variantProv": "Seven-region Indian-language gap-fill sweep; both matches re-verified by direct Wikipedia page fetch on 30 Sep 2026."
     },
-    "ig6qlxqxoxvcxla:480": {
+    "ig6qlxqxoxvcxla:504": {
      "title": "Abhinetri / Devi / Tutak Tutak Tutiya (2016)",
      "category": "Female hypnosis / mind control — India",
      "group": "Spirit / ghost / paranormal control",
@@ -79903,7 +80420,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:420",
     "xla62ucxbx02u5:876",
-    "ig6qlxqxoxvcxla:481",
+    "ig6qlxqxoxvcxla:505",
     "india-catalog:91",
     "worldwide-hypnosis:10"
    ],
@@ -79982,7 +80499,7 @@ window.CATALOG = {
      "distinct_story": true
     },
     {
-     "rid": "ig6qlxqxoxvcxla:481",
+     "rid": "ig6qlxqxoxvcxla:505",
      "source": "ig6qlxqxoxvcxla",
      "label": "Aahat episode 27",
      "identifiers": [
@@ -80120,7 +80637,7 @@ window.CATALOG = {
      "icg": "supernatural",
      "ahg": "stage"
     },
-    "ig6qlxqxoxvcxla:481": {
+    "ig6qlxqxoxvcxla:505": {
      "title": "Aahat episode 27",
      "category": "Female hypnosis / mind control — India",
      "group": "Spirit / ghost / paranormal control",
@@ -80199,7 +80716,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:421",
-    "ig6qlxqxoxvcxla:482",
+    "ig6qlxqxoxvcxla:506",
     "india-catalog:110"
    ],
    "index_only": false,
@@ -80235,7 +80752,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:482",
+     "rid": "ig6qlxqxoxvcxla:506",
      "source": "ig6qlxqxoxvcxla",
      "label": "Vish (2019) — possible",
      "identifiers": [
@@ -80302,7 +80819,7 @@ window.CATALOG = {
      ],
      "icg": "supernatural"
     },
-    "ig6qlxqxoxvcxla:482": {
+    "ig6qlxqxoxvcxla:506": {
      "title": "Vish (2019) — possible",
      "category": "Female hypnosis / mind control — India",
      "group": "Spirit / ghost / paranormal control",
@@ -80334,7 +80851,7 @@ window.CATALOG = {
    "confidence_flag": "Possible · source wording partly ambiguous",
    "summary": "Rani transforms Amrita and others into pishachas; the available wording does not fully establish the control mechanics.",
    "character": "",
-   "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
+   "provenance": "Episode-level trance detail folded in from the 9 Oct 2026 Indian platform sweep.",
    "note": "",
    "format": "tv",
    "categories": [
@@ -80345,6 +80862,10 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Pishachini"
+    },
+    {
+     "label": "JustShowBiz",
+     "url": "https://www.justshowbiz.net/pishachini-19th-october-2022-written-update/"
     }
    ],
    "youtube_ids": [],
@@ -80355,7 +80876,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:422",
-    "ig6qlxqxoxvcxla:483",
+    "ig6qlxqxoxvcxla:185",
+    "ig6qlxqxoxvcxla:507",
     "india-catalog:111"
    ],
    "index_only": false,
@@ -80391,7 +80913,36 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:483",
+     "rid": "ig6qlxqxoxvcxla:185",
+     "source": "ig6qlxqxoxvcxla",
+     "label": "Pishachini (2022)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Pishachini",
+     "subtitle": "",
+     "year": "2022",
+     "meta": "TV serial · India · Hindi · Colors TV",
+     "summary": "In the 19 October 2022 episode, Rani draws Nikita into a trap or trance while manipulating her; Rani also enchants Sanchit, a male character, into marriage.",
+     "character": "Nikita",
+     "note": "Borderline female mind-control beat retained as an enrichment rather than a new record. Pregnancy and children statuses are not stated in the reviewed source.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "JustShowBiz",
+       "url": "https://www.justshowbiz.net/pishachini-19th-october-2022-written-update/"
+      }
+     ],
+     "distinct_story": true,
+     "index_title": "Pishachini",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "ig6qlxqxoxvcxla:507",
      "source": "ig6qlxqxoxvcxla",
      "label": "Pishachini (2022) — possible",
      "identifiers": [
@@ -80458,7 +81009,35 @@ window.CATALOG = {
      ],
      "icg": "supernatural"
     },
-    "ig6qlxqxoxvcxla:483": {
+    "ig6qlxqxoxvcxla:185": {
+     "detailed": {
+      "cat": 20,
+      "title": "Pishachini",
+      "year": "2022",
+      "meta": "TV serial · India · Hindi · Colors TV",
+      "subgroup": "Borderline trance beat",
+      "summary": "In the 19 October 2022 episode, Rani draws Nikita into a trap or trance while manipulating her; Rani also enchants Sanchit, a male character, into marriage.",
+      "note": "Borderline female mind-control beat retained as an enrichment rather than a new record. Pregnancy and children statuses are not stated in the reviewed source.",
+      "character": "Nikita",
+      "mechanism": "Supernatural trap / trance",
+      "controller": "Rani",
+      "motive": "Manipulation; fuller motive not established in the reviewed source",
+      "tags": [
+       "Female hypnosis / mind control — India",
+       "Borderline",
+       "Pregnancy status · unknown",
+       "Children status · unknown"
+      ],
+      "sources": [
+       {
+        "name": "JustShowBiz",
+        "url": "https://www.justshowbiz.net/pishachini-19th-october-2022-written-update/"
+       }
+      ],
+      "provenance": "Episode-level trance detail folded in from the 9 Oct 2026 Indian platform sweep."
+     }
+    },
+    "ig6qlxqxoxvcxla:507": {
      "title": "Pishachini (2022) — possible",
      "category": "Female hypnosis / mind control — India",
      "group": "Spirit / ghost / paranormal control",
@@ -80515,8 +81094,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:423",
-    "ig6qlxqxoxvcxla:484",
-    "ig6qlxqxoxvcxla:709",
+    "ig6qlxqxoxvcxla:508",
+    "ig6qlxqxoxvcxla:733",
     "india-catalog:136"
    ],
    "index_only": false,
@@ -80556,7 +81135,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:484",
+     "rid": "ig6qlxqxoxvcxla:508",
      "source": "ig6qlxqxoxvcxla",
      "label": "Yeh Vaada Raha (2015–17)",
      "identifiers": [
@@ -80580,7 +81159,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:709",
+     "rid": "ig6qlxqxoxvcxla:733",
      "source": "ig6qlxqxoxvcxla",
      "label": "Yeh Vaada Raha (2015–17)",
      "identifiers": [
@@ -80650,14 +81229,14 @@ window.CATALOG = {
      ],
      "icg": "tech"
     },
-    "ig6qlxqxoxvcxla:484": {
+    "ig6qlxqxoxvcxla:508": {
      "title": "Yeh Vaada Raha (2015–17)",
      "category": "Female hypnosis / mind control — India",
      "group": "Drugs / psychological manipulation",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:709": {
+    "ig6qlxqxoxvcxla:733": {
      "title": "Yeh Vaada Raha (2015–17)",
      "category": "Drugs / science / technology control",
      "group": "Catalog records",
@@ -80728,8 +81307,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:424",
-    "ig6qlxqxoxvcxla:485",
-    "ig6qlxqxoxvcxla:710",
+    "ig6qlxqxoxvcxla:509",
+    "ig6qlxqxoxvcxla:734",
     "india-catalog:137"
    ],
    "index_only": false,
@@ -80765,7 +81344,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:485",
+     "rid": "ig6qlxqxoxvcxla:509",
      "source": "ig6qlxqxoxvcxla",
      "label": "Vish Ya Amrit: Sitara (2018–19) — possible",
      "identifiers": [
@@ -80790,7 +81369,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:710",
+     "rid": "ig6qlxqxoxvcxla:734",
      "source": "ig6qlxqxoxvcxla",
      "label": "Vish Ya Amrit: Sitara (2018–19)",
      "identifiers": [
@@ -80856,14 +81435,14 @@ window.CATALOG = {
      ],
      "icg": "tech"
     },
-    "ig6qlxqxoxvcxla:485": {
+    "ig6qlxqxoxvcxla:509": {
      "title": "Vish Ya Amrit: Sitara (2018–19) — possible",
      "category": "Female hypnosis / mind control — India",
      "group": "Drugs / psychological manipulation",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:710": {
+    "ig6qlxqxoxvcxla:734": {
      "title": "Vish Ya Amrit: Sitara (2018–19)",
      "category": "Drugs / science / technology control",
      "group": "Catalog records",
@@ -80922,7 +81501,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:425",
-    "ig6qlxqxoxvcxla:398"
+    "ig6qlxqxoxvcxla:421"
    ],
    "index_only": false,
    "local_only": false,
@@ -80965,7 +81544,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:398",
+     "rid": "ig6qlxqxoxvcxla:421",
      "source": "ig6qlxqxoxvcxla",
      "label": "Ama, Ina, Anak (1996)",
      "identifiers": [
@@ -81022,7 +81601,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:398": {
+    "ig6qlxqxoxvcxla:421": {
      "title": "Ama, Ina, Anak (1996)",
      "category": "Adopt a child, then become pregnant",
      "group": "Infertility / trouble conceiving → adoption → pregnancy",
@@ -81064,7 +81643,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:426",
-    "ig6qlxqxoxvcxla:399"
+    "ig6qlxqxoxvcxla:422"
    ],
    "index_only": false,
    "local_only": false,
@@ -81102,7 +81681,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:399",
+     "rid": "ig6qlxqxoxvcxla:422",
      "source": "ig6qlxqxoxvcxla",
      "label": "Arthur 2 (1988)",
      "identifiers": [
@@ -81153,7 +81732,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:399": {
+    "ig6qlxqxoxvcxla:422": {
      "title": "Arthur 2 (1988)",
      "category": "Adopt a child, then become pregnant",
      "group": "Infertility / trouble conceiving → adoption → pregnancy",
@@ -81216,7 +81795,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:427",
-    "ig6qlxqxoxvcxla:400",
+    "ig6qlxqxoxvcxla:423",
     "mom-pregnancy:83",
     "kids-pregnant-again:11"
    ],
@@ -81262,7 +81841,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:400",
+     "rid": "ig6qlxqxoxvcxla:423",
      "source": "ig6qlxqxoxvcxla",
      "label": "Sex and the City (2008)",
      "identifiers": [
@@ -81395,7 +81974,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:400": {
+    "ig6qlxqxoxvcxla:423": {
      "title": "Sex and the City (2008)",
      "category": "Adopt a child, then become pregnant",
      "group": "Infertility / trouble conceiving → adoption → pregnancy",
@@ -81496,7 +82075,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:428",
-    "ig6qlxqxoxvcxla:401"
+    "ig6qlxqxoxvcxla:424"
    ],
    "index_only": false,
    "local_only": false,
@@ -81535,7 +82114,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:401",
+     "rid": "ig6qlxqxoxvcxla:424",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Wrong Daughter (2018)",
      "identifiers": [
@@ -81589,7 +82168,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:401": {
+    "ig6qlxqxoxvcxla:424": {
      "title": "The Wrong Daughter (2018)",
      "category": "Adopt a child, then become pregnant",
      "group": "Infertility / trouble conceiving → adoption → pregnancy",
@@ -81641,7 +82220,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:429",
-    "ig6qlxqxoxvcxla:402",
+    "ig6qlxqxoxvcxla:425",
     "india-catalog:159"
    ],
    "index_only": false,
@@ -81681,7 +82260,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:402",
+     "rid": "ig6qlxqxoxvcxla:425",
      "source": "ig6qlxqxoxvcxla",
      "label": "Kabhi Khushi Kabhie Gham (2001)",
      "identifiers": [
@@ -81754,7 +82333,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:402": {
+    "ig6qlxqxoxvcxla:425": {
      "title": "Kabhi Khushi Kabhie Gham (2001)",
      "category": "Adopt a child, then become pregnant",
      "group": "Infertility / trouble conceiving → adoption → pregnancy",
@@ -81834,7 +82413,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:430",
-    "ig6qlxqxoxvcxla:403",
+    "ig6qlxqxoxvcxla:426",
     "mom-pregnancy:84",
     "kids-pregnant-again:12"
    ],
@@ -81883,7 +82462,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:403",
+     "rid": "ig6qlxqxoxvcxla:426",
      "source": "ig6qlxqxoxvcxla",
      "label": "Grey’s Anatomy",
      "identifiers": [],
@@ -82023,7 +82602,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:403": {
+    "ig6qlxqxoxvcxla:426": {
      "title": "Grey’s Anatomy",
      "category": "Adopt a child, then become pregnant",
      "group": "Infertility / trouble conceiving → adoption → pregnancy",
@@ -82128,7 +82707,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:431",
-    "ig6qlxqxoxvcxla:404"
+    "ig6qlxqxoxvcxla:427"
    ],
    "index_only": false,
    "local_only": false,
@@ -82167,7 +82746,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:404",
+     "rid": "ig6qlxqxoxvcxla:427",
      "source": "ig6qlxqxoxvcxla",
      "label": "King of Queens",
      "identifiers": [
@@ -82218,7 +82797,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:404": {
+    "ig6qlxqxoxvcxla:427": {
      "title": "King of Queens",
      "category": "Adopt a child, then become pregnant",
      "group": "Infertility / trouble conceiving → adoption → pregnancy",
@@ -82260,7 +82839,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:432",
-    "ig6qlxqxoxvcxla:405"
+    "ig6qlxqxoxvcxla:428"
    ],
    "index_only": false,
    "local_only": false,
@@ -82299,7 +82878,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:405",
+     "rid": "ig6qlxqxoxvcxla:428",
      "source": "ig6qlxqxoxvcxla",
      "label": "Mike & Molly",
      "identifiers": [],
@@ -82348,7 +82927,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:405": {
+    "ig6qlxqxoxvcxla:428": {
      "title": "Mike & Molly",
      "category": "Adopt a child, then become pregnant",
      "group": "Infertility / trouble conceiving → adoption → pregnancy",
@@ -82399,7 +82978,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:433",
-    "ig6qlxqxoxvcxla:406"
+    "ig6qlxqxoxvcxla:429"
    ],
    "index_only": false,
    "local_only": false,
@@ -82437,7 +83016,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:406",
+     "rid": "ig6qlxqxoxvcxla:429",
      "source": "ig6qlxqxoxvcxla",
      "label": "Call the Midwife",
      "identifiers": [],
@@ -82485,7 +83064,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:406": {
+    "ig6qlxqxoxvcxla:429": {
      "title": "Call the Midwife",
      "category": "Adopt a child, then become pregnant",
      "group": "Infertility / trouble conceiving → adoption → pregnancy",
@@ -82604,7 +83183,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:435",
-    "ig6qlxqxoxvcxla:408"
+    "ig6qlxqxoxvcxla:431"
    ],
    "index_only": false,
    "local_only": false,
@@ -82643,7 +83222,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:408",
+     "rid": "ig6qlxqxoxvcxla:431",
      "source": "ig6qlxqxoxvcxla",
      "label": "Judging Amy",
      "identifiers": [],
@@ -82695,7 +83274,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:408": {
+    "ig6qlxqxoxvcxla:431": {
      "title": "Judging Amy",
      "category": "Adopt a child, then become pregnant",
      "group": "Infertility / trouble conceiving → adoption → pregnancy",
@@ -82737,7 +83316,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:436",
-    "ig6qlxqxoxvcxla:409"
+    "ig6qlxqxoxvcxla:432"
    ],
    "index_only": false,
    "local_only": false,
@@ -82776,7 +83355,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:409",
+     "rid": "ig6qlxqxoxvcxla:432",
      "source": "ig6qlxqxoxvcxla",
      "label": "Mary Tyler Moore Show (1976)",
      "identifiers": [
@@ -82830,7 +83409,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:409": {
+    "ig6qlxqxoxvcxla:432": {
      "title": "Mary Tyler Moore Show (1976)",
      "category": "Adopt a child, then become pregnant",
      "group": "Infertility / trouble conceiving → adoption → pregnancy",
@@ -82942,7 +83521,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:438",
-    "ig6qlxqxoxvcxla:411"
+    "ig6qlxqxoxvcxla:434"
    ],
    "index_only": false,
    "local_only": false,
@@ -82981,7 +83560,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:411",
+     "rid": "ig6qlxqxoxvcxla:434",
      "source": "ig6qlxqxoxvcxla",
      "label": "Only Murders in the Building (2023)",
      "identifiers": [
@@ -83034,7 +83613,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:411": {
+    "ig6qlxqxoxvcxla:434": {
      "title": "Only Murders in the Building (2023)",
      "category": "Adopt a child, then become pregnant",
      "group": "Infertility / trouble conceiving → adoption → pregnancy",
@@ -83080,7 +83659,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:439",
-    "ig6qlxqxoxvcxla:412"
+    "ig6qlxqxoxvcxla:435"
    ],
    "index_only": false,
    "local_only": false,
@@ -83123,7 +83702,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:412",
+     "rid": "ig6qlxqxoxvcxla:435",
      "source": "ig6qlxqxoxvcxla",
      "label": "Smallville",
      "identifiers": [],
@@ -83179,7 +83758,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:412": {
+    "ig6qlxqxoxvcxla:435": {
      "title": "Smallville",
      "category": "Adopt a child, then become pregnant",
      "group": "Infertility / trouble conceiving → adoption → pregnancy",
@@ -83221,7 +83800,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:440",
-    "ig6qlxqxoxvcxla:413"
+    "ig6qlxqxoxvcxla:436"
    ],
    "index_only": false,
    "local_only": false,
@@ -83260,7 +83839,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:413",
+     "rid": "ig6qlxqxoxvcxla:436",
      "source": "ig6qlxqxoxvcxla",
      "label": "Heroes",
      "identifiers": [],
@@ -83312,7 +83891,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:413": {
+    "ig6qlxqxoxvcxla:436": {
      "title": "Heroes",
      "category": "Adopt a child, then become pregnant",
      "group": "Infertility / trouble conceiving → adoption → pregnancy",
@@ -83363,7 +83942,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:441",
-    "ig6qlxqxoxvcxla:414"
+    "ig6qlxqxoxvcxla:437"
    ],
    "index_only": false,
    "local_only": false,
@@ -83402,7 +83981,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:414",
+     "rid": "ig6qlxqxoxvcxla:437",
      "source": "ig6qlxqxoxvcxla",
      "label": "Parenthood",
      "identifiers": [],
@@ -83455,7 +84034,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:414": {
+    "ig6qlxqxoxvcxla:437": {
      "title": "Parenthood",
      "category": "Adopt a child, then become pregnant",
      "group": "Infertility / trouble conceiving → adoption → pregnancy",
@@ -83493,7 +84072,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:442",
-    "ig6qlxqxoxvcxla:415"
+    "ig6qlxqxoxvcxla:438"
    ],
    "index_only": false,
    "local_only": false,
@@ -83528,7 +84107,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:415",
+     "rid": "ig6qlxqxoxvcxla:438",
      "source": "ig6qlxqxoxvcxla",
      "label": "Yu-Gi-Oh! GX",
      "identifiers": [],
@@ -83575,7 +84154,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:415": {
+    "ig6qlxqxoxvcxla:438": {
      "title": "Yu-Gi-Oh! GX",
      "category": "Adopt a child, then become pregnant",
      "group": "Infertility / trouble conceiving → adoption → pregnancy",
@@ -83684,7 +84263,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:443",
-    "ig6qlxqxoxvcxla:416",
+    "ig6qlxqxoxvcxla:439",
     "lesbian-pregnancy:1"
    ],
    "index_only": false,
@@ -83738,7 +84317,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:416",
+     "rid": "ig6qlxqxoxvcxla:439",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Fosters (2013–18)",
      "identifiers": [
@@ -83875,7 +84454,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:416": {
+    "ig6qlxqxoxvcxla:439": {
      "title": "The Fosters (2013–18)",
      "category": "Adopt a child, then become pregnant",
      "group": "Same-sex couple",
@@ -83979,7 +84558,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:444",
-    "ig6qlxqxoxvcxla:417"
+    "ig6qlxqxoxvcxla:440"
    ],
    "index_only": false,
    "local_only": false,
@@ -84018,7 +84597,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:417",
+     "rid": "ig6qlxqxoxvcxla:440",
      "source": "ig6qlxqxoxvcxla",
      "label": "ThunderCats (2011)",
      "identifiers": [
@@ -84072,7 +84651,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:417": {
+    "ig6qlxqxoxvcxla:440": {
      "title": "ThunderCats (2011)",
      "category": "Adopt a child, then become pregnant",
      "group": "Other",
@@ -84114,7 +84693,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:445",
-    "ig6qlxqxoxvcxla:418"
+    "ig6qlxqxoxvcxla:441"
    ],
    "index_only": false,
    "local_only": false,
@@ -84152,7 +84731,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:418",
+     "rid": "ig6qlxqxoxvcxla:441",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Reaping (2007)",
      "identifiers": [
@@ -84206,7 +84785,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:418": {
+    "ig6qlxqxoxvcxla:441": {
      "title": "The Reaping (2007)",
      "category": "Adopt a child, then become pregnant",
      "group": "Marginal variants",
@@ -84268,7 +84847,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:446",
-    "ig6qlxqxoxvcxla:419"
+    "ig6qlxqxoxvcxla:442"
    ],
    "index_only": false,
    "local_only": false,
@@ -84302,7 +84881,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:419",
+     "rid": "ig6qlxqxoxvcxla:442",
      "source": "ig6qlxqxoxvcxla",
      "label": "Omen IV: The Awakening (1991)",
      "identifiers": [
@@ -84351,7 +84930,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:419": {
+    "ig6qlxqxoxvcxla:442": {
      "title": "Omen IV: The Awakening (1991)",
      "category": "Adopt a child, then become pregnant",
      "group": "Marginal variants",
@@ -84389,7 +84968,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:447",
-    "ig6qlxqxoxvcxla:420"
+    "ig6qlxqxoxvcxla:443"
    ],
    "index_only": false,
    "local_only": false,
@@ -84424,7 +85003,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:420",
+     "rid": "ig6qlxqxoxvcxla:443",
      "source": "ig6qlxqxoxvcxla",
      "label": "CSI: NY (2005)",
      "identifiers": [
@@ -84474,7 +85053,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:420": {
+    "ig6qlxqxoxvcxla:443": {
      "title": "CSI: NY (2005)",
      "category": "Adopt a child, then become pregnant",
      "group": "Marginal variants",
@@ -84593,7 +85172,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:449",
     "ig6qlxqxoxvcxla:111",
-    "ig6qlxqxoxvcxla:992"
+    "ig6qlxqxoxvcxla:1016"
    ],
    "index_only": false,
    "local_only": false,
@@ -84672,7 +85251,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:992",
+     "rid": "ig6qlxqxoxvcxla:1016",
      "source": "ig6qlxqxoxvcxla",
      "label": "Shaadi Ke Side Effects (2014)",
      "identifiers": [
@@ -84753,7 +85332,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:992": {
+    "ig6qlxqxoxvcxla:1016": {
      "title": "Shaadi Ke Side Effects (2014)",
      "category": "Parents intimate while children sleep",
      "group": "Baby / infant in parents’ room",
@@ -84803,7 +85382,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:450",
     "ig6qlxqxoxvcxla:112",
-    "ig6qlxqxoxvcxla:993"
+    "ig6qlxqxoxvcxla:1017"
    ],
    "index_only": false,
    "local_only": false,
@@ -84868,7 +85447,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:993",
+     "rid": "ig6qlxqxoxvcxla:1017",
      "source": "ig6qlxqxoxvcxla",
      "label": "Yeh Hai Mohabbatein — 2 Mar 2018 episode",
      "identifiers": [
@@ -84936,7 +85515,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:993": {
+    "ig6qlxqxoxvcxla:1017": {
      "title": "Yeh Hai Mohabbatein — 2 Mar 2018 episode",
      "category": "Parents intimate while children sleep",
      "group": "Child in same room / bed",
@@ -84990,7 +85569,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:451",
     "ig6qlxqxoxvcxla:113",
-    "ig6qlxqxoxvcxla:994"
+    "ig6qlxqxoxvcxla:1018"
    ],
    "index_only": false,
    "local_only": false,
@@ -85063,7 +85642,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:994",
+     "rid": "ig6qlxqxoxvcxla:1018",
      "source": "ig6qlxqxoxvcxla",
      "label": "Malcolm in the Middle “Sleepover” (2000)",
      "identifiers": [
@@ -85140,7 +85719,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:994": {
+    "ig6qlxqxoxvcxla:1018": {
      "title": "Malcolm in the Middle “Sleepover” (2000)",
      "category": "Parents intimate while children sleep",
      "group": "Adjacent space",
@@ -85179,7 +85758,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:452",
     "ig6qlxqxoxvcxla:114",
-    "ig6qlxqxoxvcxla:995"
+    "ig6qlxqxoxvcxla:1019"
    ],
    "index_only": false,
    "local_only": false,
@@ -85244,7 +85823,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:995",
+     "rid": "ig6qlxqxoxvcxla:1019",
      "source": "ig6qlxqxoxvcxla",
      "label": "Everybody Loves Raymond “Halloween Candy” (1998)",
      "identifiers": [
@@ -85312,7 +85891,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:995": {
+    "ig6qlxqxoxvcxla:1019": {
      "title": "Everybody Loves Raymond “Halloween Candy” (1998)",
      "category": "Parents intimate while children sleep",
      "group": "Adjacent space",
@@ -85356,7 +85935,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:453",
     "ig6qlxqxoxvcxla:115",
-    "ig6qlxqxoxvcxla:996"
+    "ig6qlxqxoxvcxla:1020"
    ],
    "index_only": false,
    "local_only": false,
@@ -85430,7 +86009,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:996",
+     "rid": "ig6qlxqxoxvcxla:1020",
      "source": "ig6qlxqxoxvcxla",
      "label": "Yeh Hai Mohabbatein — 26 Dec 2017 episode",
      "identifiers": [
@@ -85509,7 +86088,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:996": {
+    "ig6qlxqxoxvcxla:1020": {
      "title": "Yeh Hai Mohabbatein — 26 Dec 2017 episode",
      "category": "Parents intimate while children sleep",
      "group": "Adjacent space",
@@ -85571,7 +86150,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:454",
     "ig6qlxqxoxvcxla:116",
-    "ig6qlxqxoxvcxla:997"
+    "ig6qlxqxoxvcxla:1021"
    ],
    "index_only": false,
    "local_only": false,
@@ -85650,7 +86229,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:997",
+     "rid": "ig6qlxqxoxvcxla:1021",
      "source": "ig6qlxqxoxvcxla",
      "label": "Parasite (2019) — garden tent",
      "identifiers": [
@@ -85732,7 +86311,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:997": {
+    "ig6qlxqxoxvcxla:1021": {
      "title": "Parasite (2019) — garden tent",
      "category": "Parents intimate while children sleep",
      "group": "Other location variant",
@@ -85789,7 +86368,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:455",
     "ig6qlxqxoxvcxla:117",
-    "ig6qlxqxoxvcxla:998"
+    "ig6qlxqxoxvcxla:1022"
    ],
    "index_only": false,
    "local_only": false,
@@ -85868,7 +86447,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:998",
+     "rid": "ig6qlxqxoxvcxla:1022",
      "source": "ig6qlxqxoxvcxla",
      "label": "Mind the Malhotras (2019–22)",
      "identifiers": [
@@ -85949,7 +86528,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:998": {
+    "ig6qlxqxoxvcxla:1022": {
      "title": "Mind the Malhotras (2019–22)",
      "category": "Parents intimate while children sleep",
      "group": "Thematic near-match",
@@ -85995,7 +86574,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:456",
-    "ig6qlxqxoxvcxla:964"
+    "ig6qlxqxoxvcxla:988"
    ],
    "index_only": false,
    "local_only": false,
@@ -86038,7 +86617,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:964",
+     "rid": "ig6qlxqxoxvcxla:988",
      "source": "ig6qlxqxoxvcxla",
      "label": "The New Dick Van Dyke Show season 3",
      "identifiers": [
@@ -86092,7 +86671,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:964": {
+    "ig6qlxqxoxvcxla:988": {
      "title": "The New Dick Van Dyke Show season 3",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Strict shown — bedroom / sleeping room",
@@ -86134,7 +86713,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:457",
-    "ig6qlxqxoxvcxla:965"
+    "ig6qlxqxoxvcxla:989"
    ],
    "index_only": false,
    "local_only": false,
@@ -86172,7 +86751,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:965",
+     "rid": "ig6qlxqxoxvcxla:989",
      "source": "ig6qlxqxoxvcxla",
      "label": "Catherine Called Birdy (2022)",
      "identifiers": [
@@ -86221,7 +86800,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:965": {
+    "ig6qlxqxoxvcxla:989": {
      "title": "Catherine Called Birdy (2022)",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Strict shown — bedroom / sleeping room",
@@ -86343,8 +86922,8 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:459",
     "xla62ucxbx02u5:460",
-    "ig6qlxqxoxvcxla:967",
-    "ig6qlxqxoxvcxla:968"
+    "ig6qlxqxoxvcxla:991",
+    "ig6qlxqxoxvcxla:992"
    ],
    "index_only": false,
    "local_only": false,
@@ -86411,7 +86990,7 @@ window.CATALOG = {
      "distinct_story": true
     },
     {
-     "rid": "ig6qlxqxoxvcxla:967",
+     "rid": "ig6qlxqxoxvcxla:991",
      "source": "ig6qlxqxoxvcxla",
      "label": "Dawson’s Creek — case 1",
      "identifiers": [
@@ -86435,7 +87014,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:968",
+     "rid": "ig6qlxqxoxvcxla:992",
      "source": "ig6qlxqxoxvcxla",
      "label": "Dawson’s Creek — case 2",
      "identifiers": [
@@ -86506,14 +87085,14 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:967": {
+    "ig6qlxqxoxvcxla:991": {
      "title": "Dawson’s Creek — case 1",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Strict shown — bedroom / sleeping room",
      "confidence": "Strict",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:968": {
+    "ig6qlxqxoxvcxla:992": {
      "title": "Dawson’s Creek — case 2",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Strict shown — bedroom / sleeping room",
@@ -86645,7 +87224,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:462",
-    "ig6qlxqxoxvcxla:969"
+    "ig6qlxqxoxvcxla:993"
    ],
    "index_only": false,
    "local_only": false,
@@ -86692,7 +87271,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:969",
+     "rid": "ig6qlxqxoxvcxla:993",
      "source": "ig6qlxqxoxvcxla",
      "label": "American Dad! (2011)",
      "identifiers": [
@@ -86750,7 +87329,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:969": {
+    "ig6qlxqxoxvcxla:993": {
      "title": "American Dad! (2011)",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Strict shown — bedroom / sleeping room",
@@ -86800,7 +87379,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:463",
-    "ig6qlxqxoxvcxla:972"
+    "ig6qlxqxoxvcxla:996"
    ],
    "index_only": false,
    "local_only": false,
@@ -86847,7 +87426,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:972",
+     "rid": "ig6qlxqxoxvcxla:996",
      "source": "ig6qlxqxoxvcxla",
      "label": "Bob’s Burgers S05E11",
      "identifiers": [
@@ -86905,7 +87484,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:972": {
+    "ig6qlxqxoxvcxla:996": {
      "title": "Bob’s Burgers S05E11",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Strict — bathroom / living room / couch",
@@ -87029,7 +87608,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:465",
-    "ig6qlxqxoxvcxla:974"
+    "ig6qlxqxoxvcxla:998"
    ],
    "index_only": false,
    "local_only": false,
@@ -87076,7 +87655,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:974",
+     "rid": "ig6qlxqxoxvcxla:998",
      "source": "ig6qlxqxoxvcxla",
      "label": "And Just Like That… S01E08",
      "identifiers": [
@@ -87134,7 +87713,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:974": {
+    "ig6qlxqxoxvcxla:998": {
      "title": "And Just Like That… S01E08",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Strict — bathroom / living room / couch",
@@ -87176,7 +87755,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:466",
-    "ig6qlxqxoxvcxla:975"
+    "ig6qlxqxoxvcxla:999"
    ],
    "index_only": false,
    "local_only": false,
@@ -87215,7 +87794,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:975",
+     "rid": "ig6qlxqxoxvcxla:999",
      "source": "ig6qlxqxoxvcxla",
      "label": "Sweet Magnolias S02E07",
      "identifiers": [
@@ -87265,7 +87844,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:975": {
+    "ig6qlxqxoxvcxla:999": {
      "title": "Sweet Magnolias S02E07",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Strict — bathroom / living room / couch",
@@ -87311,7 +87890,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:467",
-    "ig6qlxqxoxvcxla:970"
+    "ig6qlxqxoxvcxla:994"
    ],
    "index_only": false,
    "local_only": false,
@@ -87354,7 +87933,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:970",
+     "rid": "ig6qlxqxoxvcxla:994",
      "source": "ig6qlxqxoxvcxla",
      "label": "Pabbahelgar S01E01 (2019 Iceland)",
      "identifiers": [
@@ -87409,7 +87988,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:970": {
+    "ig6qlxqxoxvcxla:994": {
      "title": "Pabbahelgar S01E01 (2019 Iceland)",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Strict shown — bedroom / sleeping room",
@@ -87455,7 +88034,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:468",
-    "ig6qlxqxoxvcxla:976"
+    "ig6qlxqxoxvcxla:1000"
    ],
    "index_only": false,
    "local_only": false,
@@ -87498,7 +88077,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:976",
+     "rid": "ig6qlxqxoxvcxla:1000",
      "source": "ig6qlxqxoxvcxla",
      "label": "Veronica Mars",
      "identifiers": [],
@@ -87549,7 +88128,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:976": {
+    "ig6qlxqxoxvcxla:1000": {
      "title": "Veronica Mars",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Dialogue-confirmed",
@@ -87604,7 +88183,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:469",
-    "ig6qlxqxoxvcxla:977"
+    "ig6qlxqxoxvcxla:1001"
    ],
    "index_only": false,
    "local_only": false,
@@ -87647,7 +88226,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:977",
+     "rid": "ig6qlxqxoxvcxla:1001",
      "source": "ig6qlxqxoxvcxla",
      "label": "Scrubs",
      "identifiers": [],
@@ -87698,7 +88277,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:977": {
+    "ig6qlxqxoxvcxla:1001": {
      "title": "Scrubs",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Dialogue-confirmed",
@@ -87744,7 +88323,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:470",
-    "ig6qlxqxoxvcxla:978"
+    "ig6qlxqxoxvcxla:1002"
    ],
    "index_only": false,
    "local_only": false,
@@ -87787,7 +88366,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:978",
+     "rid": "ig6qlxqxoxvcxla:1002",
      "source": "ig6qlxqxoxvcxla",
      "label": "Yellowjackets",
      "identifiers": [],
@@ -87838,7 +88417,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:978": {
+    "ig6qlxqxoxvcxla:1002": {
      "title": "Yellowjackets",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Dialogue-confirmed",
@@ -87880,7 +88459,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:471",
-    "ig6qlxqxoxvcxla:979"
+    "ig6qlxqxoxvcxla:1003"
    ],
    "index_only": false,
    "local_only": false,
@@ -87919,7 +88498,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:979",
+     "rid": "ig6qlxqxoxvcxla:1003",
      "source": "ig6qlxqxoxvcxla",
      "label": "Misfits",
      "identifiers": [],
@@ -87966,7 +88545,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:979": {
+    "ig6qlxqxoxvcxla:1003": {
      "title": "Misfits",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Dialogue-confirmed",
@@ -88016,7 +88595,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:472",
-    "ig6qlxqxoxvcxla:981"
+    "ig6qlxqxoxvcxla:1005"
    ],
    "index_only": false,
    "local_only": false,
@@ -88063,7 +88642,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:981",
+     "rid": "ig6qlxqxoxvcxla:1005",
      "source": "ig6qlxqxoxvcxla",
      "label": "Seinfeld",
      "identifiers": [],
@@ -88118,7 +88697,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:981": {
+    "ig6qlxqxoxvcxla:1005": {
      "title": "Seinfeld",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Adult offspring",
@@ -88164,7 +88743,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:473",
-    "ig6qlxqxoxvcxla:982"
+    "ig6qlxqxoxvcxla:1006"
    ],
    "index_only": false,
    "local_only": false,
@@ -88207,7 +88786,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:982",
+     "rid": "ig6qlxqxoxvcxla:1006",
      "source": "ig6qlxqxoxvcxla",
      "label": "Life in Pieces",
      "identifiers": [],
@@ -88258,7 +88837,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:982": {
+    "ig6qlxqxoxvcxla:1006": {
      "title": "Life in Pieces",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Adult offspring",
@@ -88300,7 +88879,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:474",
-    "ig6qlxqxoxvcxla:983"
+    "ig6qlxqxoxvcxla:1007"
    ],
    "index_only": false,
    "local_only": false,
@@ -88339,7 +88918,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:983",
+     "rid": "ig6qlxqxoxvcxla:1007",
      "source": "ig6qlxqxoxvcxla",
      "label": "Psych",
      "identifiers": [],
@@ -88386,7 +88965,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:983": {
+    "ig6qlxqxoxvcxla:1007": {
      "title": "Psych",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Adult offspring",
@@ -88428,7 +89007,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:475",
-    "ig6qlxqxoxvcxla:984"
+    "ig6qlxqxoxvcxla:1008"
    ],
    "index_only": false,
    "local_only": false,
@@ -88467,7 +89046,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:984",
+     "rid": "ig6qlxqxoxvcxla:1008",
      "source": "ig6qlxqxoxvcxla",
      "label": "Titus",
      "identifiers": [],
@@ -88514,7 +89093,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:984": {
+    "ig6qlxqxoxvcxla:1008": {
      "title": "Titus",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Adult offspring",
@@ -88674,7 +89253,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:478",
-    "ig6qlxqxoxvcxla:986"
+    "ig6qlxqxoxvcxla:1010"
    ],
    "index_only": false,
    "local_only": false,
@@ -88709,7 +89288,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:986",
+     "rid": "ig6qlxqxoxvcxla:1010",
      "source": "ig6qlxqxoxvcxla",
      "label": "Soul Food",
      "identifiers": [],
@@ -88752,7 +89331,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:986": {
+    "ig6qlxqxoxvcxla:1010": {
      "title": "Soul Food",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Other variants",
@@ -88796,7 +89375,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:479",
-    "ig6qlxqxoxvcxla:987"
+    "ig6qlxqxoxvcxla:1011"
    ],
    "index_only": false,
    "local_only": false,
@@ -88834,7 +89413,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:987",
+     "rid": "ig6qlxqxoxvcxla:1011",
      "source": "ig6qlxqxoxvcxla",
      "label": "Stepmom (1998)",
      "identifiers": [
@@ -88882,7 +89461,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:987": {
+    "ig6qlxqxoxvcxla:1011": {
      "title": "Stepmom (1998)",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Other variants",
@@ -88928,7 +89507,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:480",
-    "ig6qlxqxoxvcxla:988"
+    "ig6qlxqxoxvcxla:1012"
    ],
    "index_only": false,
    "local_only": false,
@@ -88970,7 +89549,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:988",
+     "rid": "ig6qlxqxoxvcxla:1012",
      "source": "ig6qlxqxoxvcxla",
      "label": "Christmas Evil (1980)",
      "identifiers": [
@@ -89022,7 +89601,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:988": {
+    "ig6qlxqxoxvcxla:1012": {
      "title": "Christmas Evil (1980)",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Other variants",
@@ -89163,7 +89742,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:482",
-    "ig6qlxqxoxvcxla:990"
+    "ig6qlxqxoxvcxla:1014"
    ],
    "index_only": false,
    "local_only": false,
@@ -89206,7 +89785,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:990",
+     "rid": "ig6qlxqxoxvcxla:1014",
      "source": "ig6qlxqxoxvcxla",
      "label": "F Is for Family",
      "identifiers": [],
@@ -89257,7 +89836,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:990": {
+    "ig6qlxqxoxvcxla:1014": {
      "title": "F Is for Family",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Other variants",
@@ -89302,7 +89881,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:483",
     "ig6qlxqxoxvcxla:65",
-    "ig6qlxqxoxvcxla:320"
+    "ig6qlxqxoxvcxla:343"
    ],
    "index_only": false,
    "local_only": false,
@@ -89373,7 +89952,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:320",
+     "rid": "ig6qlxqxoxvcxla:343",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Three Faces of Eve (1957)",
      "identifiers": [
@@ -89446,7 +90025,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:320": {
+    "ig6qlxqxoxvcxla:343": {
      "title": "The Three Faces of Eve (1957)",
      "category": "Wife hypnotized / controlled by a therapist",
      "group": "Benevolent / therapeutic",
@@ -89488,7 +90067,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:484",
-    "ig6qlxqxoxvcxla:326"
+    "ig6qlxqxoxvcxla:349"
    ],
    "index_only": false,
    "local_only": false,
@@ -89526,7 +90105,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:326",
+     "rid": "ig6qlxqxoxvcxla:349",
      "source": "ig6qlxqxoxvcxla",
      "label": "Back from the Dead (1957)",
      "identifiers": [
@@ -89574,7 +90153,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:326": {
+    "ig6qlxqxoxvcxla:349": {
      "title": "Back from the Dead (1957)",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Spirit possession by dead ex-wife / first wife",
@@ -89616,7 +90195,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:485",
-    "ig6qlxqxoxvcxla:327"
+    "ig6qlxqxoxvcxla:350"
    ],
    "index_only": false,
    "local_only": false,
@@ -89654,7 +90233,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:327",
+     "rid": "ig6qlxqxoxvcxla:350",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Tomb of Ligeia (1964)",
      "identifiers": [
@@ -89702,7 +90281,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:327": {
+    "ig6qlxqxoxvcxla:350": {
      "title": "The Tomb of Ligeia (1964)",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Spirit possession by dead ex-wife / first wife",
@@ -89757,7 +90336,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:486",
-    "ig6qlxqxoxvcxla:329"
+    "ig6qlxqxoxvcxla:352"
    ],
    "index_only": false,
    "local_only": false,
@@ -89792,7 +90371,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:329",
+     "rid": "ig6qlxqxoxvcxla:352",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Tomb / Ligeia (2009)",
      "identifiers": [
@@ -89838,7 +90417,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:329": {
+    "ig6qlxqxoxvcxla:352": {
      "title": "The Tomb / Ligeia (2009)",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Spirit possession by dead ex-wife / first wife",
@@ -89896,7 +90475,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:487",
-    "ig6qlxqxoxvcxla:328"
+    "ig6qlxqxoxvcxla:351"
    ],
    "index_only": false,
    "local_only": false,
@@ -89934,7 +90513,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:328",
+     "rid": "ig6qlxqxoxvcxla:351",
      "source": "ig6qlxqxoxvcxla",
      "label": "She Waits (1972)",
      "identifiers": [
@@ -89982,7 +90561,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:328": {
+    "ig6qlxqxoxvcxla:351": {
      "title": "She Waits (1972)",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Spirit possession by dead ex-wife / first wife",
@@ -90020,7 +90599,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:488",
-    "ig6qlxqxoxvcxla:331"
+    "ig6qlxqxoxvcxla:354"
    ],
    "index_only": false,
    "local_only": false,
@@ -90054,7 +90633,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:331",
+     "rid": "ig6qlxqxoxvcxla:354",
      "source": "ig6qlxqxoxvcxla",
      "label": "Second Show (2022)",
      "identifiers": [
@@ -90098,7 +90677,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:331": {
+    "ig6qlxqxoxvcxla:354": {
      "title": "Second Show (2022)",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Spirit possession by dead ex-wife / first wife",
@@ -90140,7 +90719,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:489",
-    "ig6qlxqxoxvcxla:333"
+    "ig6qlxqxoxvcxla:356"
    ],
    "index_only": false,
    "local_only": false,
@@ -90178,7 +90757,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:333",
+     "rid": "ig6qlxqxoxvcxla:356",
      "source": "ig6qlxqxoxvcxla",
      "label": "What Lies Beneath (2000)",
      "identifiers": [
@@ -90226,7 +90805,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:333": {
+    "ig6qlxqxoxvcxla:356": {
      "title": "What Lies Beneath (2000)",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Possession by dead ex-girlfriend / former lover",
@@ -90292,7 +90871,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:490",
-    "ig6qlxqxoxvcxla:334"
+    "ig6qlxqxoxvcxla:357"
    ],
    "index_only": false,
    "local_only": false,
@@ -90331,7 +90910,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:334",
+     "rid": "ig6qlxqxoxvcxla:357",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Matrimony (2007)",
      "identifiers": [
@@ -90380,7 +90959,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:334": {
+    "ig6qlxqxoxvcxla:357": {
      "title": "The Matrimony (2007)",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Possession by dead ex-girlfriend / former lover",
@@ -90423,7 +91002,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:491",
-    "ig6qlxqxoxvcxla:332",
+    "ig6qlxqxoxvcxla:355",
     "india-catalog:93"
    ],
    "index_only": false,
@@ -90462,7 +91041,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:332",
+     "rid": "ig6qlxqxoxvcxla:355",
      "source": "ig6qlxqxoxvcxla",
      "label": "Aayiram Jenmangal (1978)",
      "identifiers": [
@@ -90531,7 +91110,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:332": {
+    "ig6qlxqxoxvcxla:355": {
      "title": "Aayiram Jenmangal (1978)",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Possession by dead ex-girlfriend / former lover",
@@ -90586,7 +91165,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:492",
-    "ig6qlxqxoxvcxla:337"
+    "ig6qlxqxoxvcxla:360"
    ],
    "index_only": false,
    "local_only": false,
@@ -90625,7 +91204,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:337",
+     "rid": "ig6qlxqxoxvcxla:360",
      "source": "ig6qlxqxoxvcxla",
      "label": "Ouanga (1936)",
      "identifiers": [
@@ -90674,7 +91253,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:337": {
+    "ig6qlxqxoxvcxla:360": {
      "title": "Ouanga (1936)",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Witchcraft / spell / black magic",
@@ -90726,7 +91305,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:493",
-    "ig6qlxqxoxvcxla:340"
+    "ig6qlxqxoxvcxla:363"
    ],
    "index_only": false,
    "local_only": false,
@@ -90766,7 +91345,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:340",
+     "rid": "ig6qlxqxoxvcxla:363",
      "source": "ig6qlxqxoxvcxla",
      "label": "Bandish (2019)",
      "identifiers": [
@@ -90826,7 +91405,7 @@ window.CATALOG = {
      "polygamySrc": [],
      "polygamyProv": "Worldwide seven-vector sweep plus strict-scope supplement, 1 Oct 2026 · Wikipedia franchise page · ARY Digital official review · Primesworld · official ARY YouTube synopsis · Beam.pk"
     },
-    "ig6qlxqxoxvcxla:340": {
+    "ig6qlxqxoxvcxla:363": {
      "title": "Bandish (2019)",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Witchcraft / spell / black magic",
@@ -90868,7 +91447,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:494",
-    "ig6qlxqxoxvcxla:338"
+    "ig6qlxqxoxvcxla:361"
    ],
    "index_only": false,
    "local_only": false,
@@ -90907,7 +91486,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:338",
+     "rid": "ig6qlxqxoxvcxla:361",
      "source": "ig6qlxqxoxvcxla",
      "label": "Maléfices (1962)",
      "identifiers": [
@@ -90956,7 +91535,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:338": {
+    "ig6qlxqxoxvcxla:361": {
      "title": "Maléfices (1962)",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Witchcraft / spell / black magic",
@@ -91059,7 +91638,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:496",
-    "ig6qlxqxoxvcxla:346"
+    "ig6qlxqxoxvcxla:369"
    ],
    "index_only": false,
    "local_only": false,
@@ -91094,7 +91673,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:346",
+     "rid": "ig6qlxqxoxvcxla:369",
      "source": "ig6qlxqxoxvcxla",
      "label": "Kaidan (2007)",
      "identifiers": [
@@ -91139,7 +91718,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:346": {
+    "ig6qlxqxoxvcxla:369": {
      "title": "Kaidan (2007)",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Labeled close variants",
@@ -91190,7 +91769,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:497",
-    "ig6qlxqxoxvcxla:347"
+    "ig6qlxqxoxvcxla:370"
    ],
    "index_only": false,
    "local_only": false,
@@ -91229,7 +91808,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:347",
+     "rid": "ig6qlxqxoxvcxla:370",
      "source": "ig6qlxqxoxvcxla",
      "label": "Dalaw (2010)",
      "identifiers": [
@@ -91278,7 +91857,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:347": {
+    "ig6qlxqxoxvcxla:370": {
      "title": "Dalaw (2010)",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Labeled close variants",
@@ -91320,7 +91899,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:498",
-    "ig6qlxqxoxvcxla:348"
+    "ig6qlxqxoxvcxla:371"
    ],
    "index_only": false,
    "local_only": false,
@@ -91359,7 +91938,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:348",
+     "rid": "ig6qlxqxoxvcxla:371",
      "source": "ig6qlxqxoxvcxla",
      "label": "Khurafat: Perjanjian Syaitan (2011)",
      "identifiers": [
@@ -91408,7 +91987,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:348": {
+    "ig6qlxqxoxvcxla:371": {
      "title": "Khurafat: Perjanjian Syaitan (2011)",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Labeled close variants",
@@ -91450,7 +92029,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:499",
-    "ig6qlxqxoxvcxla:342"
+    "ig6qlxqxoxvcxla:365"
    ],
    "index_only": false,
    "local_only": false,
@@ -91489,7 +92068,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:342",
+     "rid": "ig6qlxqxoxvcxla:365",
      "source": "ig6qlxqxoxvcxla",
      "label": "Why the Cuckoo Cries (1967)",
      "identifiers": [
@@ -91538,7 +92117,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:342": {
+    "ig6qlxqxoxvcxla:365": {
      "title": "Why the Cuckoo Cries (1967)",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Labeled close variants",
@@ -91580,7 +92159,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:500",
-    "ig6qlxqxoxvcxla:341"
+    "ig6qlxqxoxvcxla:364"
    ],
    "index_only": false,
    "local_only": false,
@@ -91619,7 +92198,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:341",
+     "rid": "ig6qlxqxoxvcxla:364",
      "source": "ig6qlxqxoxvcxla",
      "label": "El espejo de la bruja (1960)",
      "identifiers": [
@@ -91668,7 +92247,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:341": {
+    "ig6qlxqxoxvcxla:364": {
      "title": "El espejo de la bruja (1960)",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Labeled close variants",
@@ -91706,7 +92285,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:501",
-    "ig6qlxqxoxvcxla:350"
+    "ig6qlxqxoxvcxla:373"
    ],
    "index_only": false,
    "local_only": false,
@@ -91741,7 +92320,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:350",
+     "rid": "ig6qlxqxoxvcxla:373",
      "source": "ig6qlxqxoxvcxla",
      "label": "Jao Ban Jao Ruean (2016)",
      "identifiers": [
@@ -91786,7 +92365,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:350": {
+    "ig6qlxqxoxvcxla:373": {
      "title": "Jao Ban Jao Ruean (2016)",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Labeled close variants",
@@ -91829,7 +92408,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:502",
-    "ig6qlxqxoxvcxla:344",
+    "ig6qlxqxoxvcxla:367",
     "india-catalog:96"
    ],
    "index_only": false,
@@ -91868,7 +92447,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:344",
+     "rid": "ig6qlxqxoxvcxla:367",
      "source": "ig6qlxqxoxvcxla",
      "label": "Yakshagaanam",
      "identifiers": [],
@@ -91935,7 +92514,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:344": {
+    "ig6qlxqxoxvcxla:367": {
      "title": "Yakshagaanam",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Labeled close variants",
@@ -91991,7 +92570,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:503",
-    "ig6qlxqxoxvcxla:343",
+    "ig6qlxqxoxvcxla:366",
     "india-catalog:92"
    ],
    "index_only": false,
@@ -92030,7 +92609,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:343",
+     "rid": "ig6qlxqxoxvcxla:366",
      "source": "ig6qlxqxoxvcxla",
      "label": "Devude Gelichadu (1976)",
      "identifiers": [
@@ -92099,7 +92678,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:343": {
+    "ig6qlxqxoxvcxla:366": {
      "title": "Devude Gelichadu (1976)",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Labeled close variants",
@@ -92183,7 +92762,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:504",
     "ig6qlxqxoxvcxla:69",
-    "ig6qlxqxoxvcxla:360",
+    "ig6qlxqxoxvcxla:383",
     "worldwide-hypnosis:615",
     "rich-wife-hypnosis:13"
    ],
@@ -92279,7 +92858,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:360",
+     "rid": "ig6qlxqxoxvcxla:383",
      "source": "ig6qlxqxoxvcxla",
      "label": "My Husband’s Deadly Past aka Woman on the Edge (2020)",
      "identifiers": [
@@ -92467,7 +93046,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:360": {
+    "ig6qlxqxoxvcxla:383": {
      "title": "My Husband’s Deadly Past aka Woman on the Edge (2020)",
      "category": "Remarried wife controlled by new husband / stepfather",
      "group": "Closest variants",
@@ -92581,7 +93160,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:505",
     "ig6qlxqxoxvcxla:70",
-    "ig6qlxqxoxvcxla:363"
+    "ig6qlxqxoxvcxla:386"
    ],
    "index_only": false,
    "local_only": false,
@@ -92653,7 +93232,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:363",
+     "rid": "ig6qlxqxoxvcxla:386",
      "source": "ig6qlxqxoxvcxla",
      "label": "Pan’s Labyrinth / El laberinto del fauno (2006)",
      "identifiers": [
@@ -92746,7 +93325,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:363": {
+    "ig6qlxqxoxvcxla:386": {
      "title": "Pan’s Labyrinth / El laberinto del fauno (2006)",
      "category": "Pregnant single mother controlled by new husband / stepfather",
      "group": "Strongest near-misses",
@@ -92792,7 +93371,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:506",
-    "ig6qlxqxoxvcxla:747"
+    "ig6qlxqxoxvcxla:771"
    ],
    "index_only": false,
    "local_only": false,
@@ -92834,7 +93413,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:747",
+     "rid": "ig6qlxqxoxvcxla:771",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Innocents (2021 Norway)",
      "identifiers": [
@@ -92887,7 +93466,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:747": {
+    "ig6qlxqxoxvcxla:771": {
      "title": "The Innocents (2021 Norway)",
      "category": "Female character controlled by a child / teen",
      "group": "Living psychic / telekinetic children",
@@ -92957,8 +93536,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:507",
-    "ig6qlxqxoxvcxla:748",
-    "ig6qlxqxoxvcxla:807",
+    "ig6qlxqxoxvcxla:772",
+    "ig6qlxqxoxvcxla:831",
     "mother-kids-hypnosis:7"
    ],
    "index_only": false,
@@ -93005,7 +93584,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:748",
+     "rid": "ig6qlxqxoxvcxla:772",
      "source": "ig6qlxqxoxvcxla",
      "label": "Village of the Damned (1995)",
      "identifiers": [
@@ -93029,7 +93608,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:807",
+     "rid": "ig6qlxqxoxvcxla:831",
      "source": "ig6qlxqxoxvcxla",
      "label": "Village of the Damned (1995)",
      "identifiers": [
@@ -93136,14 +93715,14 @@ window.CATALOG = {
      "pcg": "fetal",
      "mg": "high"
     },
-    "ig6qlxqxoxvcxla:748": {
+    "ig6qlxqxoxvcxla:772": {
      "title": "Village of the Damned (1995)",
      "category": "Female character controlled by a child / teen",
      "group": "Living psychic / telekinetic children",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:807": {
+    "ig6qlxqxoxvcxla:831": {
      "title": "Village of the Damned (1995)",
      "category": "Pregnant woman controlled by a fetus, ghost child or alien child",
      "group": "Agentic unborn / fetal / alien controllers",
@@ -93242,7 +93821,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:508",
-    "ig6qlxqxoxvcxla:749",
+    "ig6qlxqxoxvcxla:773",
     "mother-kids-hypnosis:6"
    ],
    "index_only": false,
@@ -93286,7 +93865,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:749",
+     "rid": "ig6qlxqxoxvcxla:773",
      "source": "ig6qlxqxoxvcxla",
      "label": "Children of the Damned (1964)",
      "identifiers": [
@@ -93387,7 +93966,7 @@ window.CATALOG = {
      ],
      "mg": "high"
     },
-    "ig6qlxqxoxvcxla:749": {
+    "ig6qlxqxoxvcxla:773": {
      "title": "Children of the Damned (1964)",
      "category": "Female character controlled by a child / teen",
      "group": "Living psychic / telekinetic children",
@@ -93468,7 +94047,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:509",
-    "ig6qlxqxoxvcxla:750"
+    "ig6qlxqxoxvcxla:774"
    ],
    "index_only": false,
    "local_only": false,
@@ -93506,7 +94085,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:750",
+     "rid": "ig6qlxqxoxvcxla:774",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Darkest Minds (2018)",
      "identifiers": [
@@ -93554,7 +94133,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:750": {
+    "ig6qlxqxoxvcxla:774": {
      "title": "The Darkest Minds (2018)",
      "category": "Female character controlled by a child / teen",
      "group": "Living psychic / telekinetic children",
@@ -93604,8 +94183,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:510",
-    "ig6qlxqxoxvcxla:751",
-    "ig6qlxqxoxvcxla:752"
+    "ig6qlxqxoxvcxla:775",
+    "ig6qlxqxoxvcxla:776"
    ],
    "index_only": false,
    "local_only": false,
@@ -93652,7 +94231,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:751",
+     "rid": "ig6qlxqxoxvcxla:775",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Twilight Zone “It’s a Good Life” (1961)",
      "identifiers": [
@@ -93677,7 +94256,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:752",
+     "rid": "ig6qlxqxoxvcxla:776",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Twilight Zone “It’s Still a Good Life” (2003)",
      "identifiers": [
@@ -93735,14 +94314,14 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:751": {
+    "ig6qlxqxoxvcxla:775": {
      "title": "The Twilight Zone “It’s a Good Life” (1961)",
      "category": "Female character controlled by a child / teen",
      "group": "Living psychic / telekinetic children",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:752": {
+    "ig6qlxqxoxvcxla:776": {
      "title": "The Twilight Zone “It’s Still a Good Life” (2003)",
      "category": "Female character controlled by a child / teen",
      "group": "Living psychic / telekinetic children",
@@ -93789,8 +94368,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:511",
-    "ig6qlxqxoxvcxla:753",
-    "ig6qlxqxoxvcxla:808"
+    "ig6qlxqxoxvcxla:777",
+    "ig6qlxqxoxvcxla:832"
    ],
    "index_only": false,
    "local_only": false,
@@ -93833,7 +94412,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:753",
+     "rid": "ig6qlxqxoxvcxla:777",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Midwich Cuckoos (2022)",
      "identifiers": [
@@ -93857,7 +94436,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:808",
+     "rid": "ig6qlxqxoxvcxla:832",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Midwich Cuckoos (2022)",
      "identifiers": [
@@ -93911,14 +94490,14 @@ window.CATALOG = {
      ],
      "pcg": "fetal"
     },
-    "ig6qlxqxoxvcxla:753": {
+    "ig6qlxqxoxvcxla:777": {
      "title": "The Midwich Cuckoos (2022)",
      "category": "Female character controlled by a child / teen",
      "group": "Living psychic / telekinetic children",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:808": {
+    "ig6qlxqxoxvcxla:832": {
      "title": "The Midwich Cuckoos (2022)",
      "category": "Pregnant woman controlled by a fetus, ghost child or alien child",
      "group": "Agentic unborn / fetal / alien controllers",
@@ -93960,7 +94539,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:512",
-    "ig6qlxqxoxvcxla:754"
+    "ig6qlxqxoxvcxla:778"
    ],
    "index_only": false,
    "local_only": false,
@@ -93998,7 +94577,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:754",
+     "rid": "ig6qlxqxoxvcxla:778",
      "source": "ig6qlxqxoxvcxla",
      "label": "Mortel (2019–21)",
      "identifiers": [
@@ -94046,7 +94625,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:754": {
+    "ig6qlxqxoxvcxla:778": {
      "title": "Mortel (2019–21)",
      "category": "Female character controlled by a child / teen",
      "group": "Living psychic / telekinetic children",
@@ -94088,7 +94667,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:513",
-    "ig6qlxqxoxvcxla:755"
+    "ig6qlxqxoxvcxla:779"
    ],
    "index_only": false,
    "local_only": false,
@@ -94127,7 +94706,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:755",
+     "rid": "ig6qlxqxoxvcxla:779",
      "source": "ig6qlxqxoxvcxla",
      "label": "Eerie, Indiana (1991)",
      "identifiers": [
@@ -94176,7 +94755,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:755": {
+    "ig6qlxqxoxvcxla:779": {
      "title": "Eerie, Indiana (1991)",
      "category": "Female character controlled by a child / teen",
      "group": "Living psychic / telekinetic children",
@@ -94242,8 +94821,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:514",
-    "ig6qlxqxoxvcxla:652",
-    "ig6qlxqxoxvcxla:756"
+    "ig6qlxqxoxvcxla:676",
+    "ig6qlxqxoxvcxla:780"
    ],
    "index_only": false,
    "local_only": false,
@@ -94282,7 +94861,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:652",
+     "rid": "ig6qlxqxoxvcxla:676",
      "source": "ig6qlxqxoxvcxla",
      "label": "Doctor Who “Fear Her” (2006)",
      "identifiers": [
@@ -94307,7 +94886,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:756",
+     "rid": "ig6qlxqxoxvcxla:780",
      "source": "ig6qlxqxoxvcxla",
      "label": "Doctor Who “Fear Her” (2006)",
      "identifiers": [
@@ -94357,14 +94936,14 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:652": {
+    "ig6qlxqxoxvcxla:676": {
      "title": "Doctor Who “Fear Her” (2006)",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:756": {
+    "ig6qlxqxoxvcxla:780": {
      "title": "Doctor Who “Fear Her” (2006)",
      "category": "Female character controlled by a child / teen",
      "group": "Alien / inhuman child controllers",
@@ -94423,7 +95002,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:515",
-    "ig6qlxqxoxvcxla:757"
+    "ig6qlxqxoxvcxla:781"
    ],
    "index_only": false,
    "local_only": false,
@@ -94461,7 +95040,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:757",
+     "rid": "ig6qlxqxoxvcxla:781",
      "source": "ig6qlxqxoxvcxla",
      "label": "Abigail (2024)",
      "identifiers": [
@@ -94509,7 +95088,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:757": {
+    "ig6qlxqxoxvcxla:781": {
      "title": "Abigail (2024)",
      "category": "Female character controlled by a child / teen",
      "group": "Alien / inhuman child controllers",
@@ -94551,7 +95130,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:516",
-    "ig6qlxqxoxvcxla:758"
+    "ig6qlxqxoxvcxla:782"
    ],
    "index_only": false,
    "local_only": false,
@@ -94589,7 +95168,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:758",
+     "rid": "ig6qlxqxoxvcxla:782",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Faculty (1998)",
      "identifiers": [
@@ -94637,7 +95216,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:758": {
+    "ig6qlxqxoxvcxla:782": {
      "title": "The Faculty (1998)",
      "category": "Female character controlled by a child / teen",
      "group": "Alien / inhuman child controllers",
@@ -94680,8 +95259,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:517",
-    "ig6qlxqxoxvcxla:653",
-    "ig6qlxqxoxvcxla:759"
+    "ig6qlxqxoxvcxla:677",
+    "ig6qlxqxoxvcxla:783"
    ],
    "index_only": false,
    "local_only": false,
@@ -94720,7 +95299,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:653",
+     "rid": "ig6qlxqxoxvcxla:677",
      "source": "ig6qlxqxoxvcxla",
      "label": "Doctor Who “Night Terrors” (2011)",
      "identifiers": [
@@ -94745,7 +95324,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:759",
+     "rid": "ig6qlxqxoxvcxla:783",
      "source": "ig6qlxqxoxvcxla",
      "label": "Doctor Who “Night Terrors” (2011)",
      "identifiers": [
@@ -94795,14 +95374,14 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:653": {
+    "ig6qlxqxoxvcxla:677": {
      "title": "Doctor Who “Night Terrors” (2011)",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:759": {
+    "ig6qlxqxoxvcxla:783": {
      "title": "Doctor Who “Night Terrors” (2011)",
      "category": "Female character controlled by a child / teen",
      "group": "Alien / inhuman child controllers",
@@ -94844,7 +95423,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:518",
-    "ig6qlxqxoxvcxla:760"
+    "ig6qlxqxoxvcxla:784"
    ],
    "index_only": false,
    "local_only": false,
@@ -94882,7 +95461,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:760",
+     "rid": "ig6qlxqxoxvcxla:784",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Whispers (2015)",
      "identifiers": [
@@ -94930,7 +95509,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:760": {
+    "ig6qlxqxoxvcxla:784": {
      "title": "The Whispers (2015)",
      "category": "Female character controlled by a child / teen",
      "group": "Alien / inhuman child controllers",
@@ -94972,7 +95551,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:519",
-    "ig6qlxqxoxvcxla:762"
+    "ig6qlxqxoxvcxla:786"
    ],
    "index_only": false,
    "local_only": false,
@@ -95011,7 +95590,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:762",
+     "rid": "ig6qlxqxoxvcxla:786",
      "source": "ig6qlxqxoxvcxla",
      "label": "Ssshhhh…Phir Koi Hai “Paalna” (2009)",
      "identifiers": [
@@ -95061,7 +95640,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:762": {
+    "ig6qlxqxoxvcxla:786": {
      "title": "Ssshhhh…Phir Koi Hai “Paalna” (2009)",
      "category": "Female character controlled by a child / teen",
      "group": "Dead-child ghosts possessing females",
@@ -95099,7 +95678,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:520",
-    "ig6qlxqxoxvcxla:763"
+    "ig6qlxqxoxvcxla:787"
    ],
    "index_only": false,
    "local_only": false,
@@ -95133,7 +95712,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:763",
+     "rid": "ig6qlxqxoxvcxla:787",
      "source": "ig6qlxqxoxvcxla",
      "label": "Naane Varuvean (2022)",
      "identifiers": [
@@ -95177,7 +95756,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:763": {
+    "ig6qlxqxoxvcxla:787": {
      "title": "Naane Varuvean (2022)",
      "category": "Female character controlled by a child / teen",
      "group": "Dead-child ghosts possessing females",
@@ -95229,7 +95808,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:521",
-    "ig6qlxqxoxvcxla:764",
+    "ig6qlxqxoxvcxla:788",
     "india-catalog:152"
    ],
    "index_only": false,
@@ -95268,7 +95847,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:764",
+     "rid": "ig6qlxqxoxvcxla:788",
      "source": "ig6qlxqxoxvcxla",
      "label": "Munjya (2024)",
      "identifiers": [
@@ -95337,7 +95916,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:764": {
+    "ig6qlxqxoxvcxla:788": {
      "title": "Munjya (2024)",
      "category": "Female character controlled by a child / teen",
      "group": "Dead-child ghosts possessing females",
@@ -95388,7 +95967,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:522",
-    "ig6qlxqxoxvcxla:765"
+    "ig6qlxqxoxvcxla:789"
    ],
    "index_only": false,
    "local_only": false,
@@ -95423,7 +96002,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:765",
+     "rid": "ig6qlxqxoxvcxla:789",
      "source": "ig6qlxqxoxvcxla",
      "label": "One Missed Call (2003)",
      "identifiers": [
@@ -95468,7 +96047,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:765": {
+    "ig6qlxqxoxvcxla:789": {
      "title": "One Missed Call (2003)",
      "category": "Female character controlled by a child / teen",
      "group": "Dead-child ghosts possessing females",
@@ -95520,7 +96099,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:523",
-    "ig6qlxqxoxvcxla:766"
+    "ig6qlxqxoxvcxla:790"
    ],
    "index_only": false,
    "local_only": false,
@@ -95558,7 +96137,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:766",
+     "rid": "ig6qlxqxoxvcxla:790",
      "source": "ig6qlxqxoxvcxla",
      "label": "Cathy’s Curse (1977)",
      "identifiers": [
@@ -95606,7 +96185,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:766": {
+    "ig6qlxqxoxvcxla:790": {
      "title": "Cathy’s Curse (1977)",
      "category": "Female character controlled by a child / teen",
      "group": "Dead-child ghosts possessing females",
@@ -95660,7 +96239,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:524",
-    "ig6qlxqxoxvcxla:767"
+    "ig6qlxqxoxvcxla:791"
    ],
    "index_only": false,
    "local_only": false,
@@ -95695,7 +96274,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:767",
+     "rid": "ig6qlxqxoxvcxla:791",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Tag-Along 2 (2017)",
      "identifiers": [
@@ -95740,7 +96319,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:767": {
+    "ig6qlxqxoxvcxla:791": {
      "title": "The Tag-Along 2 (2017)",
      "category": "Female character controlled by a child / teen",
      "group": "Dead-child ghosts possessing females",
@@ -95794,7 +96373,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:525",
-    "ig6qlxqxoxvcxla:768"
+    "ig6qlxqxoxvcxla:792"
    ],
    "index_only": false,
    "local_only": false,
@@ -95829,7 +96408,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:768",
+     "rid": "ig6qlxqxoxvcxla:792",
      "source": "ig6qlxqxoxvcxla",
      "label": "Ring 0: Birthday (2000)",
      "identifiers": [
@@ -95874,7 +96453,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:768": {
+    "ig6qlxqxoxvcxla:792": {
      "title": "Ring 0: Birthday (2000)",
      "category": "Female character controlled by a child / teen",
      "group": "Dead-child ghosts possessing females",
@@ -95912,7 +96491,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:526",
-    "ig6qlxqxoxvcxla:769"
+    "ig6qlxqxoxvcxla:793"
    ],
    "index_only": false,
    "local_only": false,
@@ -95947,7 +96526,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:769",
+     "rid": "ig6qlxqxoxvcxla:793",
      "source": "ig6qlxqxoxvcxla",
      "label": "Phone (2002)",
      "identifiers": [
@@ -95992,7 +96571,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:769": {
+    "ig6qlxqxoxvcxla:793": {
      "title": "Phone (2002)",
      "category": "Female character controlled by a child / teen",
      "group": "Dead-child ghosts possessing females",
@@ -96040,7 +96619,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:527",
-    "ig6qlxqxoxvcxla:770"
+    "ig6qlxqxoxvcxla:794"
    ],
    "index_only": false,
    "local_only": false,
@@ -96075,7 +96654,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:770",
+     "rid": "ig6qlxqxoxvcxla:794",
      "source": "ig6qlxqxoxvcxla",
      "label": "Bunshinsaba (2004)",
      "identifiers": [
@@ -96121,7 +96700,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:770": {
+    "ig6qlxqxoxvcxla:794": {
      "title": "Bunshinsaba (2004)",
      "category": "Female character controlled by a child / teen",
      "group": "Dead-child ghosts possessing females",
@@ -96163,7 +96742,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:528",
-    "ig6qlxqxoxvcxla:771"
+    "ig6qlxqxoxvcxla:795"
    ],
    "index_only": false,
    "local_only": false,
@@ -96201,7 +96780,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:771",
+     "rid": "ig6qlxqxoxvcxla:795",
      "source": "ig6qlxqxoxvcxla",
      "label": "El libro de piedra (1969)",
      "identifiers": [
@@ -96250,7 +96829,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:771": {
+    "ig6qlxqxoxvcxla:795": {
      "title": "El libro de piedra (1969)",
      "category": "Female character controlled by a child / teen",
      "group": "Dead-child ghosts possessing females",
@@ -96297,7 +96876,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:529",
-    "ig6qlxqxoxvcxla:772"
+    "ig6qlxqxoxvcxla:796"
    ],
    "index_only": false,
    "local_only": false,
@@ -96332,7 +96911,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:772",
+     "rid": "ig6qlxqxoxvcxla:796",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Tag-Along (2015)",
      "identifiers": [
@@ -96377,7 +96956,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:772": {
+    "ig6qlxqxoxvcxla:796": {
      "title": "The Tag-Along (2015)",
      "category": "Female character controlled by a child / teen",
      "group": "Dead-child ghosts possessing females",
@@ -96443,7 +97022,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:530",
-    "ig6qlxqxoxvcxla:773"
+    "ig6qlxqxoxvcxla:797"
    ],
    "index_only": false,
    "local_only": false,
@@ -96481,7 +97060,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:773",
+     "rid": "ig6qlxqxoxvcxla:797",
      "source": "ig6qlxqxoxvcxla",
      "label": "Les Revenants (2012–15)",
      "identifiers": [
@@ -96530,7 +97109,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:773": {
+    "ig6qlxqxoxvcxla:797": {
      "title": "Les Revenants (2012–15)",
      "category": "Female character controlled by a child / teen",
      "group": "Dead-child ghosts possessing females",
@@ -96588,7 +97167,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:531",
-    "ig6qlxqxoxvcxla:774"
+    "ig6qlxqxoxvcxla:798"
    ],
    "index_only": false,
    "local_only": false,
@@ -96626,7 +97205,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:774",
+     "rid": "ig6qlxqxoxvcxla:798",
      "source": "ig6qlxqxoxvcxla",
      "label": "Hasta el viento tiene miedo (1968)",
      "identifiers": [
@@ -96675,7 +97254,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:774": {
+    "ig6qlxqxoxvcxla:798": {
      "title": "Hasta el viento tiene miedo (1968)",
      "category": "Female character controlled by a child / teen",
      "group": "Dead-child ghosts possessing females",
@@ -96717,7 +97296,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:532",
-    "ig6qlxqxoxvcxla:776"
+    "ig6qlxqxoxvcxla:800"
    ],
    "index_only": false,
    "local_only": false,
@@ -96756,7 +97335,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:776",
+     "rid": "ig6qlxqxoxvcxla:800",
      "source": "ig6qlxqxoxvcxla",
      "label": "AHS: Coven (2014)",
      "identifiers": [
@@ -96806,7 +97385,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:776": {
+    "ig6qlxqxoxvcxla:800": {
      "title": "AHS: Coven (2014)",
      "category": "Female character controlled by a child / teen",
      "group": "Teen witches / magic / occult",
@@ -96848,7 +97427,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:533",
-    "ig6qlxqxoxvcxla:777"
+    "ig6qlxqxoxvcxla:801"
    ],
    "index_only": false,
    "local_only": false,
@@ -96886,7 +97465,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:777",
+     "rid": "ig6qlxqxoxvcxla:801",
      "source": "ig6qlxqxoxvcxla",
      "label": "Harry Potter and the Chamber of Secrets (2002)",
      "identifiers": [
@@ -96934,7 +97513,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:777": {
+    "ig6qlxqxoxvcxla:801": {
      "title": "Harry Potter and the Chamber of Secrets (2002)",
      "category": "Female character controlled by a child / teen",
      "group": "Teen witches / magic / occult",
@@ -96976,7 +97555,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:534",
-    "ig6qlxqxoxvcxla:778"
+    "ig6qlxqxoxvcxla:802"
    ],
    "index_only": false,
    "local_only": false,
@@ -97015,7 +97594,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:778",
+     "rid": "ig6qlxqxoxvcxla:802",
      "source": "ig6qlxqxoxvcxla",
      "label": "The X-Files “Chinga” (1998)",
      "identifiers": [
@@ -97065,7 +97644,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:778": {
+    "ig6qlxqxoxvcxla:802": {
      "title": "The X-Files “Chinga” (1998)",
      "category": "Female character controlled by a child / teen",
      "group": "Teen witches / magic / occult",
@@ -97116,8 +97695,8 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:535",
     "xla62ucxbx02u5:536",
-    "ig6qlxqxoxvcxla:779",
-    "ig6qlxqxoxvcxla:780"
+    "ig6qlxqxoxvcxla:803",
+    "ig6qlxqxoxvcxla:804"
    ],
    "index_only": false,
    "local_only": false,
@@ -97188,7 +97767,7 @@ window.CATALOG = {
      "distinct_story": true
     },
     {
-     "rid": "ig6qlxqxoxvcxla:779",
+     "rid": "ig6qlxqxoxvcxla:803",
      "source": "ig6qlxqxoxvcxla",
      "label": "Twilight Zone (1985) — case 1",
      "identifiers": [
@@ -97213,7 +97792,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:780",
+     "rid": "ig6qlxqxoxvcxla:804",
      "source": "ig6qlxqxoxvcxla",
      "label": "Twilight Zone (1985) — case 2",
      "identifiers": [
@@ -97287,14 +97866,14 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:779": {
+    "ig6qlxqxoxvcxla:803": {
      "title": "Twilight Zone (1985) — case 1",
      "category": "Female character controlled by a child / teen",
      "group": "Teen witches / magic / occult",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:780": {
+    "ig6qlxqxoxvcxla:804": {
      "title": "Twilight Zone (1985) — case 2",
      "category": "Female character controlled by a child / teen",
      "group": "Teen witches / magic / occult",
@@ -97336,7 +97915,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:537",
-    "ig6qlxqxoxvcxla:781"
+    "ig6qlxqxoxvcxla:805"
    ],
    "index_only": false,
    "local_only": false,
@@ -97374,7 +97953,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:781",
+     "rid": "ig6qlxqxoxvcxla:805",
      "source": "ig6qlxqxoxvcxla",
      "label": "Veneno para las hadas (1984)",
      "identifiers": [
@@ -97423,7 +98002,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:781": {
+    "ig6qlxqxoxvcxla:805": {
      "title": "Veneno para las hadas (1984)",
      "category": "Female character controlled by a child / teen",
      "group": "Teen witches / magic / occult",
@@ -97530,7 +98109,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:539",
-    "ig6qlxqxoxvcxla:784"
+    "ig6qlxqxoxvcxla:808"
    ],
    "index_only": false,
    "local_only": false,
@@ -97569,7 +98148,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:784",
+     "rid": "ig6qlxqxoxvcxla:808",
      "source": "ig6qlxqxoxvcxla",
      "label": "Naruto",
      "identifiers": [],
@@ -97616,7 +98195,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:784": {
+    "ig6qlxqxoxvcxla:808": {
      "title": "Naruto",
      "category": "Female character controlled by a child / teen",
      "group": "Teen powers / artifacts / technology",
@@ -97689,7 +98268,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:540",
-    "ig6qlxqxoxvcxla:785"
+    "ig6qlxqxoxvcxla:809"
    ],
    "index_only": false,
    "local_only": false,
@@ -97728,7 +98307,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:785",
+     "rid": "ig6qlxqxoxvcxla:809",
      "source": "ig6qlxqxoxvcxla",
      "label": "Avatar: The Last Airbender “The Puppetmaster”",
      "identifiers": [
@@ -97777,7 +98356,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:785": {
+    "ig6qlxqxoxvcxla:809": {
      "title": "Avatar: The Last Airbender “The Puppetmaster”",
      "category": "Female character controlled by a child / teen",
      "group": "Teen powers / artifacts / technology",
@@ -97815,7 +98394,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:541",
-    "ig6qlxqxoxvcxla:786"
+    "ig6qlxqxoxvcxla:810"
    ],
    "index_only": false,
    "local_only": false,
@@ -97850,7 +98429,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:786",
+     "rid": "ig6qlxqxoxvcxla:810",
      "source": "ig6qlxqxoxvcxla",
      "label": "My Hero Academia season 5",
      "identifiers": [
@@ -97895,7 +98474,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:786": {
+    "ig6qlxqxoxvcxla:810": {
      "title": "My Hero Academia season 5",
      "category": "Female character controlled by a child / teen",
      "group": "Teen powers / artifacts / technology",
@@ -97933,7 +98512,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:542",
-    "ig6qlxqxoxvcxla:787"
+    "ig6qlxqxoxvcxla:811"
    ],
    "index_only": false,
    "local_only": false,
@@ -97968,7 +98547,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:787",
+     "rid": "ig6qlxqxoxvcxla:811",
      "source": "ig6qlxqxoxvcxla",
      "label": "Danganronpa 3",
      "identifiers": [
@@ -98013,7 +98592,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:787": {
+    "ig6qlxqxoxvcxla:811": {
      "title": "Danganronpa 3",
      "category": "Female character controlled by a child / teen",
      "group": "Teen powers / artifacts / technology",
@@ -98056,8 +98635,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:543",
-    "ig6qlxqxoxvcxla:670",
-    "ig6qlxqxoxvcxla:788"
+    "ig6qlxqxoxvcxla:694",
+    "ig6qlxqxoxvcxla:812"
    ],
    "index_only": false,
    "local_only": false,
@@ -98095,7 +98674,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:670",
+     "rid": "ig6qlxqxoxvcxla:694",
      "source": "ig6qlxqxoxvcxla",
      "label": "Death Note",
      "identifiers": [],
@@ -98117,7 +98696,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:788",
+     "rid": "ig6qlxqxoxvcxla:812",
      "source": "ig6qlxqxoxvcxla",
      "label": "Death Note",
      "identifiers": [],
@@ -98163,14 +98742,14 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:670": {
+    "ig6qlxqxoxvcxla:694": {
      "title": "Death Note",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:788": {
+    "ig6qlxqxoxvcxla:812": {
      "title": "Death Note",
      "category": "Female character controlled by a child / teen",
      "group": "Teen powers / artifacts / technology",
@@ -98243,7 +98822,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:544",
-    "ig6qlxqxoxvcxla:789"
+    "ig6qlxqxoxvcxla:813"
    ],
    "index_only": false,
    "local_only": false,
@@ -98281,7 +98860,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:789",
+     "rid": "ig6qlxqxoxvcxla:813",
      "source": "ig6qlxqxoxvcxla",
      "label": "Charlotte",
      "identifiers": [],
@@ -98327,7 +98906,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:789": {
+    "ig6qlxqxoxvcxla:813": {
      "title": "Charlotte",
      "category": "Female character controlled by a child / teen",
      "group": "Teen powers / artifacts / technology",
@@ -98369,7 +98948,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:545",
-    "ig6qlxqxoxvcxla:790"
+    "ig6qlxqxoxvcxla:814"
    ],
    "index_only": false,
    "local_only": false,
@@ -98408,7 +98987,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:790",
+     "rid": "ig6qlxqxoxvcxla:814",
      "source": "ig6qlxqxoxvcxla",
      "label": "One Piece — Dressrosa",
      "identifiers": [
@@ -98457,7 +99036,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:790": {
+    "ig6qlxqxoxvcxla:814": {
      "title": "One Piece — Dressrosa",
      "category": "Female character controlled by a child / teen",
      "group": "Teen powers / artifacts / technology",
@@ -98500,8 +99079,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:546",
-    "ig6qlxqxoxvcxla:794",
-    "ig6qlxqxoxvcxla:809"
+    "ig6qlxqxoxvcxla:818",
+    "ig6qlxqxoxvcxla:833"
    ],
    "index_only": false,
    "local_only": false,
@@ -98540,7 +99119,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:794",
+     "rid": "ig6qlxqxoxvcxla:818",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Unborn (1991)",
      "identifiers": [
@@ -98564,7 +99143,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:809",
+     "rid": "ig6qlxqxoxvcxla:833",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Unborn (1991)",
      "identifiers": [
@@ -98614,14 +99193,14 @@ window.CATALOG = {
      ],
      "pcg": "fetal"
     },
-    "ig6qlxqxoxvcxla:794": {
+    "ig6qlxqxoxvcxla:818": {
      "title": "The Unborn (1991)",
      "category": "Female character controlled by a child / teen",
      "group": "Unborn / fetal controllers",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:809": {
+    "ig6qlxqxoxvcxla:833": {
      "title": "The Unborn (1991)",
      "category": "Pregnant woman controlled by a fetus, ghost child or alien child",
      "group": "Agentic unborn / fetal / alien controllers",
@@ -98675,7 +99254,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:547",
-    "ig6qlxqxoxvcxla:796"
+    "ig6qlxqxoxvcxla:820"
    ],
    "index_only": false,
    "local_only": false,
@@ -98709,7 +99288,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:796",
+     "rid": "ig6qlxqxoxvcxla:820",
      "source": "ig6qlxqxoxvcxla",
      "label": "Your Name (2016)",
      "identifiers": [
@@ -98754,7 +99333,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:796": {
+    "ig6qlxqxoxvcxla:820": {
      "title": "Your Name (2016)",
      "category": "Female character controlled by a child / teen",
      "group": "Comedy / family / fantasy domination",
@@ -98847,7 +99426,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:548",
-    "ig6qlxqxoxvcxla:797",
+    "ig6qlxqxoxvcxla:821",
     "worldwide-hypnosis:882",
     "mother-kids-hypnosis:30"
    ],
@@ -98918,7 +99497,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:797",
+     "rid": "ig6qlxqxoxvcxla:821",
      "source": "ig6qlxqxoxvcxla",
      "label": "Fairly OddParents (2003)",
      "identifiers": [
@@ -99124,7 +99703,7 @@ window.CATALOG = {
      "note": "Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
      "prov": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "ig6qlxqxoxvcxla:797": {
+    "ig6qlxqxoxvcxla:821": {
      "title": "Fairly OddParents (2003)",
      "category": "Female character controlled by a child / teen",
      "group": "Comedy / family / fantasy domination",
@@ -99327,7 +99906,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:550",
-    "ig6qlxqxoxvcxla:799"
+    "ig6qlxqxoxvcxla:823"
    ],
    "index_only": false,
    "local_only": false,
@@ -99362,7 +99941,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:799",
+     "rid": "ig6qlxqxoxvcxla:823",
      "source": "ig6qlxqxoxvcxla",
      "label": "Supernatural “Bad Boys” (2013)",
      "identifiers": [
@@ -99408,7 +99987,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:799": {
+    "ig6qlxqxoxvcxla:823": {
      "title": "Supernatural “Bad Boys” (2013)",
      "category": "Female character controlled by a child / teen",
      "group": "Comedy / family / fantasy domination",
@@ -99454,7 +100033,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:551",
-    "ig6qlxqxoxvcxla:810"
+    "ig6qlxqxoxvcxla:834"
    ],
    "index_only": false,
    "local_only": false,
@@ -99497,7 +100076,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:810",
+     "rid": "ig6qlxqxoxvcxla:834",
      "source": "ig6qlxqxoxvcxla",
      "label": "Charmed “Womb Raider” (2002)",
      "identifiers": [
@@ -99551,7 +100130,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:810": {
+    "ig6qlxqxoxvcxla:834": {
      "title": "Charmed “Womb Raider” (2002)",
      "category": "Pregnant woman controlled by a fetus, ghost child or alien child",
      "group": "Agentic unborn / fetal / alien controllers",
@@ -99614,7 +100193,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:552",
-    "ig6qlxqxoxvcxla:811",
+    "ig6qlxqxoxvcxla:835",
     "worldwide-hypnosis:66",
     "occult-pregnancy-nearmiss:2"
    ],
@@ -99670,7 +100249,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:811",
+     "rid": "ig6qlxqxoxvcxla:835",
      "source": "ig6qlxqxoxvcxla",
      "label": "Angel “Expecting” (2000)",
      "identifiers": [
@@ -99809,7 +100388,7 @@ window.CATALOG = {
      ],
      "pg": "medium"
     },
-    "ig6qlxqxoxvcxla:811": {
+    "ig6qlxqxoxvcxla:835": {
      "title": "Angel “Expecting” (2000)",
      "category": "Pregnant woman controlled by a fetus, ghost child or alien child",
      "group": "Agentic unborn / fetal / alien controllers",
@@ -99918,7 +100497,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:553",
-    "ig6qlxqxoxvcxla:812"
+    "ig6qlxqxoxvcxla:836"
    ],
    "index_only": false,
    "local_only": false,
@@ -99956,7 +100535,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:812",
+     "rid": "ig6qlxqxoxvcxla:836",
      "source": "ig6qlxqxoxvcxla",
      "label": "Shelley (2016)",
      "identifiers": [
@@ -100004,7 +100583,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:812": {
+    "ig6qlxqxoxvcxla:836": {
      "title": "Shelley (2016)",
      "category": "Pregnant woman controlled by a fetus, ghost child or alien child",
      "group": "Agentic unborn / fetal / alien controllers",
@@ -100052,7 +100631,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:554",
-    "ig6qlxqxoxvcxla:813"
+    "ig6qlxqxoxvcxla:837"
    ],
    "index_only": false,
    "local_only": false,
@@ -100087,7 +100666,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:813",
+     "rid": "ig6qlxqxoxvcxla:837",
      "source": "ig6qlxqxoxvcxla",
      "label": "Unborn but Forgotten — Korea",
      "identifiers": [
@@ -100132,7 +100711,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:813": {
+    "ig6qlxqxoxvcxla:837": {
      "title": "Unborn but Forgotten — Korea",
      "category": "Pregnant woman controlled by a fetus, ghost child or alien child",
      "group": "Agentic unborn / fetal / alien controllers",
@@ -100174,7 +100753,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:555",
-    "ig6qlxqxoxvcxla:814"
+    "ig6qlxqxoxvcxla:838"
    ],
    "index_only": false,
    "local_only": false,
@@ -100213,7 +100792,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:814",
+     "rid": "ig6qlxqxoxvcxla:838",
      "source": "ig6qlxqxoxvcxla",
      "label": "Womb Ghosts / 惡胎 (2010 Hong Kong)",
      "identifiers": [
@@ -100263,7 +100842,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:814": {
+    "ig6qlxqxoxvcxla:838": {
      "title": "Womb Ghosts / 惡胎 (2010 Hong Kong)",
      "category": "Pregnant woman controlled by a fetus, ghost child or alien child",
      "group": "Agentic unborn / fetal / alien controllers",
@@ -100305,7 +100884,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:556",
-    "ig6qlxqxoxvcxla:816"
+    "ig6qlxqxoxvcxla:840"
    ],
    "index_only": false,
    "local_only": false,
@@ -100344,7 +100923,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:816",
+     "rid": "ig6qlxqxoxvcxla:840",
      "source": "ig6qlxqxoxvcxla",
      "label": "Ju-on: The Grudge 2 (2003)",
      "identifiers": [
@@ -100393,7 +100972,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:816": {
+    "ig6qlxqxoxvcxla:840": {
      "title": "Ju-on: The Grudge 2 (2003)",
      "category": "Pregnant woman controlled by a fetus, ghost child or alien child",
      "group": "Dead-child ghosts",
@@ -100440,7 +101019,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:557",
-    "ig6qlxqxoxvcxla:817"
+    "ig6qlxqxoxvcxla:841"
    ],
    "index_only": false,
    "local_only": false,
@@ -100475,7 +101054,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:817",
+     "rid": "ig6qlxqxoxvcxla:841",
      "source": "ig6qlxqxoxvcxla",
      "label": "Ju-on: The Beginning of the End (2014)",
      "identifiers": [
@@ -100520,7 +101099,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:817": {
+    "ig6qlxqxoxvcxla:841": {
      "title": "Ju-on: The Beginning of the End (2014)",
      "category": "Pregnant woman controlled by a fetus, ghost child or alien child",
      "group": "Dead-child ghosts",
@@ -100558,7 +101137,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:558",
-    "ig6qlxqxoxvcxla:818"
+    "ig6qlxqxoxvcxla:842"
    ],
    "index_only": false,
    "local_only": false,
@@ -100593,7 +101172,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:818",
+     "rid": "ig6qlxqxoxvcxla:842",
      "source": "ig6qlxqxoxvcxla",
      "label": "Mononoke “Zashiki-warashi” (2007)",
      "identifiers": [
@@ -100639,7 +101218,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:818": {
+    "ig6qlxqxoxvcxla:842": {
      "title": "Mononoke “Zashiki-warashi” (2007)",
      "category": "Pregnant woman controlled by a fetus, ghost child or alien child",
      "group": "Dead-child ghosts",
@@ -100690,7 +101269,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:559",
     "ig6qlxqxoxvcxla:121",
-    "ig6qlxqxoxvcxla:1004"
+    "ig6qlxqxoxvcxla:1028"
    ],
    "index_only": false,
    "local_only": false,
@@ -100779,7 +101358,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:1004",
+     "rid": "ig6qlxqxoxvcxla:1028",
      "source": "ig6qlxqxoxvcxla",
      "label": "Un medico in famiglia season 2",
      "identifiers": [
@@ -100872,7 +101451,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:1004": {
+    "ig6qlxqxoxvcxla:1028": {
      "title": "Un medico in famiglia season 2",
      "category": "Pregnant mother + child walk-in",
      "group": "Partial / exclusion cases",
@@ -101127,7 +101706,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:561",
-    "ig6qlxqxoxvcxla:1002"
+    "ig6qlxqxoxvcxla:1026"
    ],
    "index_only": false,
    "local_only": false,
@@ -101178,7 +101757,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:1002",
+     "rid": "ig6qlxqxoxvcxla:1026",
      "source": "ig6qlxqxoxvcxla",
      "label": "Casados con hijos S01E89",
      "identifiers": [
@@ -101240,7 +101819,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:1002": {
+    "ig6qlxqxoxvcxla:1026": {
      "title": "Casados con hijos S01E89",
      "category": "Pregnant mother + child walk-in",
      "group": "Partial / exclusion cases",
@@ -101309,7 +101888,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:562",
-    "ig6qlxqxoxvcxla:1003",
+    "ig6qlxqxoxvcxla:1027",
     "mom-pregnancy:74"
    ],
    "index_only": false,
@@ -101358,7 +101937,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:1003",
+     "rid": "ig6qlxqxoxvcxla:1027",
      "source": "ig6qlxqxoxvcxla",
      "label": "Fais pas ci, fais pas ça season 3",
      "identifiers": [
@@ -101453,7 +102032,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:1003": {
+    "ig6qlxqxoxvcxla:1027": {
      "title": "Fais pas ci, fais pas ça season 3",
      "category": "Pregnant mother + child walk-in",
      "group": "Partial / exclusion cases",
@@ -101719,7 +102298,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:564",
-    "ig6qlxqxoxvcxla:1001",
+    "ig6qlxqxoxvcxla:1025",
     "mom-pregnancy:76"
    ],
    "index_only": false,
@@ -101764,7 +102343,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:1001",
+     "rid": "ig6qlxqxoxvcxla:1025",
      "source": "ig6qlxqxoxvcxla",
      "label": "СашаТаня / SashaTanya",
      "identifiers": [
@@ -101856,7 +102435,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:1001": {
+    "ig6qlxqxoxvcxla:1025": {
      "title": "СашаТаня / SashaTanya",
      "category": "Pregnant mother + child walk-in",
      "group": "Partial / exclusion cases",
@@ -102336,7 +102915,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:569",
     "ig6qlxqxoxvcxla:75",
-    "ig6qlxqxoxvcxla:368"
+    "ig6qlxqxoxvcxla:391"
    ],
    "index_only": false,
    "local_only": false,
@@ -102401,7 +102980,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:368",
+     "rid": "ig6qlxqxoxvcxla:391",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Brightest Roof in the Universe / 宇宙でいちばんあかるい屋根 (2020 Japan)",
      "identifiers": [
@@ -102472,7 +103051,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:368": {
+    "ig6qlxqxoxvcxla:391": {
      "title": "The Brightest Roof in the Universe / 宇宙でいちばんあかるい屋根 (2020 Japan)",
      "category": "Pregnant stepmother / bonus mom",
      "group": "Loving / bonding + displacement anxiety",
@@ -102515,7 +103094,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:570",
     "ig6qlxqxoxvcxla:76",
-    "ig6qlxqxoxvcxla:369"
+    "ig6qlxqxoxvcxla:392"
    ],
    "index_only": false,
    "local_only": false,
@@ -102588,7 +103167,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:369",
+     "rid": "ig6qlxqxoxvcxla:392",
      "source": "ig6qlxqxoxvcxla",
      "label": "Madrasta / A Place in Your Heart (2019–20 Philippines)",
      "identifiers": [
@@ -102665,7 +103244,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:369": {
+    "ig6qlxqxoxvcxla:392": {
      "title": "Madrasta / A Place in Your Heart (2019–20 Philippines)",
      "category": "Pregnant stepmother / bonus mom",
      "group": "Loving / bonding + displacement anxiety",
@@ -102716,7 +103295,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:571",
     "ig6qlxqxoxvcxla:78",
-    "ig6qlxqxoxvcxla:371"
+    "ig6qlxqxoxvcxla:394"
    ],
    "index_only": false,
    "local_only": false,
@@ -102803,7 +103382,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:371",
+     "rid": "ig6qlxqxoxvcxla:394",
      "source": "ig6qlxqxoxvcxla",
      "label": "Mi marido tiene familia (2017–19 Mexico)",
      "identifiers": [
@@ -102894,7 +103473,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:371": {
+    "ig6qlxqxoxvcxla:394": {
      "title": "Mi marido tiene familia (2017–19 Mexico)",
      "category": "Pregnant stepmother / bonus mom",
      "group": "Stepmother through marriage / adoption",
@@ -102933,7 +103512,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:572",
     "ig6qlxqxoxvcxla:80",
-    "ig6qlxqxoxvcxla:373"
+    "ig6qlxqxoxvcxla:396"
    ],
    "index_only": false,
    "local_only": false,
@@ -102996,7 +103575,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:373",
+     "rid": "ig6qlxqxoxvcxla:396",
      "source": "ig6qlxqxoxvcxla",
      "label": "Allein unter Müttern (2010 Germany)",
      "identifiers": [
@@ -103065,7 +103644,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:373": {
+    "ig6qlxqxoxvcxla:396": {
      "title": "Allein unter Müttern (2010 Germany)",
      "category": "Pregnant stepmother / bonus mom",
      "group": "Low-confidence lead",
@@ -103112,7 +103691,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:573",
     "ig6qlxqxoxvcxla:71",
-    "ig6qlxqxoxvcxla:364"
+    "ig6qlxqxoxvcxla:387"
    ],
    "index_only": false,
    "local_only": false,
@@ -103191,7 +103770,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:364",
+     "rid": "ig6qlxqxoxvcxla:387",
      "source": "ig6qlxqxoxvcxla",
      "label": "Snow White: A Tale of Terror (1997)",
      "identifiers": [
@@ -103272,7 +103851,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:364": {
+    "ig6qlxqxoxvcxla:387": {
      "title": "Snow White: A Tale of Terror (1997)",
      "category": "Stepmother / bonus mom hypnotized or mind-controlled",
      "group": "Supernatural / enchanted-object control",
@@ -103482,7 +104061,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:575",
     "ig6qlxqxoxvcxla:74",
-    "ig6qlxqxoxvcxla:367"
+    "ig6qlxqxoxvcxla:390"
    ],
    "index_only": false,
    "local_only": false,
@@ -103561,7 +104140,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:367",
+     "rid": "ig6qlxqxoxvcxla:390",
      "source": "ig6qlxqxoxvcxla",
      "label": "The StepMother (2011)",
      "identifiers": [
@@ -103643,7 +104222,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:367": {
+    "ig6qlxqxoxvcxla:390": {
      "title": "The StepMother (2011)",
      "category": "Stepmother / bonus mom hypnotized or mind-controlled",
      "group": "Borderline",
@@ -103690,7 +104269,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:576",
     "ig6qlxqxoxvcxla:73",
-    "ig6qlxqxoxvcxla:366"
+    "ig6qlxqxoxvcxla:389"
    ],
    "index_only": false,
    "local_only": false,
@@ -103769,7 +104348,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:366",
+     "rid": "ig6qlxqxoxvcxla:389",
      "source": "ig6qlxqxoxvcxla",
      "label": "Disenchanted (2022)",
      "identifiers": [
@@ -103850,7 +104429,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:366": {
+    "ig6qlxqxoxvcxla:389": {
      "title": "Disenchanted (2022)",
      "category": "Stepmother / bonus mom hypnotized or mind-controlled",
      "group": "Supernatural / enchanted-object control",
@@ -103894,7 +104473,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:577",
     "ig6qlxqxoxvcxla:100",
-    "ig6qlxqxoxvcxla:922",
+    "ig6qlxqxoxvcxla:946",
     "india-catalog:161"
    ],
    "index_only": false,
@@ -103957,7 +104536,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:922",
+     "rid": "ig6qlxqxoxvcxla:946",
      "source": "ig6qlxqxoxvcxla",
      "label": "Ribbon (2017)",
      "identifiers": [
@@ -104042,7 +104621,7 @@ window.CATALOG = {
       "sources": []
      }
     },
-    "ig6qlxqxoxvcxla:922": {
+    "ig6qlxqxoxvcxla:946": {
      "title": "Ribbon (2017)",
      "category": "Pregnant characters having sex",
      "group": "With husband / established partner",
@@ -104099,7 +104678,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:578",
-    "ig6qlxqxoxvcxla:923",
+    "ig6qlxqxoxvcxla:947",
     "pregnant-intimacy:36"
    ],
    "index_only": false,
@@ -104139,7 +104718,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:923",
+     "rid": "ig6qlxqxoxvcxla:947",
      "source": "ig6qlxqxoxvcxla",
      "label": "A Happy Event (2011)",
      "identifiers": [
@@ -104217,7 +104796,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:923": {
+    "ig6qlxqxoxvcxla:947": {
      "title": "A Happy Event (2011)",
      "category": "Pregnant characters having sex",
      "group": "With husband / established partner",
@@ -104282,7 +104861,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:579",
-    "ig6qlxqxoxvcxla:926"
+    "ig6qlxqxoxvcxla:950"
    ],
    "index_only": false,
    "local_only": false,
@@ -104320,7 +104899,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:926",
+     "rid": "ig6qlxqxoxvcxla:950",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Back-up Plan (2010)",
      "identifiers": [
@@ -104368,7 +104947,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:926": {
+    "ig6qlxqxoxvcxla:950": {
      "title": "The Back-up Plan (2010)",
      "category": "Pregnant characters having sex",
      "group": "New / different partner / affair",
@@ -104426,7 +105005,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:580",
-    "ig6qlxqxoxvcxla:927",
+    "ig6qlxqxoxvcxla:951",
     "pregnant-intimacy:33"
    ],
    "index_only": false,
@@ -104469,7 +105048,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:927",
+     "rid": "ig6qlxqxoxvcxla:951",
      "source": "ig6qlxqxoxvcxla",
      "label": "Waitress (2007)",
      "identifiers": [
@@ -104550,7 +105129,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:927": {
+    "ig6qlxqxoxvcxla:951": {
      "title": "Waitress (2007)",
      "category": "Pregnant characters having sex",
      "group": "New / different partner / affair",
@@ -104615,7 +105194,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:581",
-    "ig6qlxqxoxvcxla:928"
+    "ig6qlxqxoxvcxla:952"
    ],
    "index_only": false,
    "local_only": false,
@@ -104654,7 +105233,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:928",
+     "rid": "ig6qlxqxoxvcxla:952",
      "source": "ig6qlxqxoxvcxla",
      "label": "Intimate Places (2013 Russia)",
      "identifiers": [
@@ -104704,7 +105283,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:928": {
+    "ig6qlxqxoxvcxla:952": {
      "title": "Intimate Places (2013 Russia)",
      "category": "Pregnant characters having sex",
      "group": "New / different partner / affair",
@@ -104742,7 +105321,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:582",
-    "ig6qlxqxoxvcxla:929"
+    "ig6qlxqxoxvcxla:953"
    ],
    "index_only": false,
    "local_only": false,
@@ -104777,7 +105356,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:929",
+     "rid": "ig6qlxqxoxvcxla:953",
      "source": "ig6qlxqxoxvcxla",
      "label": "Junichi episode 1 (2019)",
      "identifiers": [
@@ -104823,7 +105402,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:929": {
+    "ig6qlxqxoxvcxla:953": {
      "title": "Junichi episode 1 (2019)",
      "category": "Pregnant characters having sex",
      "group": "New / different partner / affair",
@@ -104886,7 +105465,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:583",
-    "ig6qlxqxoxvcxla:930",
+    "ig6qlxqxoxvcxla:954",
     "lesbian-pregnancy:2"
    ],
    "index_only": false,
@@ -104939,7 +105518,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:930",
+     "rid": "ig6qlxqxoxvcxla:954",
      "source": "ig6qlxqxoxvcxla",
      "label": "Perfect (2026)",
      "identifiers": [
@@ -105047,7 +105626,7 @@ window.CATALOG = {
      "prov": "Mirror catalog import, 1 Oct 2026 (lesbian-pregnancy index) · intimacy-scene evidence grant from the pregnant-lesbian-couple sweep, 1 Oct 2026",
      "note": "Intimacy-scene evidence (1 Oct 2026 sweep): third-trimester sex scene between pregnant Mallory (Julia Fox) and drifter Kai (Ashley Moore); multiple nude sex scenes between Kai and pregnant Mallory; Variety (SXSW) describes a 'steamy lesbian romance'. Confidence: HIGH — the strongest erotic-adjacent entry in the sweep."
     },
-    "ig6qlxqxoxvcxla:930": {
+    "ig6qlxqxoxvcxla:954": {
      "title": "Perfect (2026)",
      "category": "Pregnant characters having sex",
      "group": "New / different partner / affair",
@@ -105127,7 +105706,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:584",
-    "ig6qlxqxoxvcxla:931"
+    "ig6qlxqxoxvcxla:955"
    ],
    "index_only": false,
    "local_only": false,
@@ -105166,7 +105745,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:931",
+     "rid": "ig6qlxqxoxvcxla:955",
      "source": "ig6qlxqxoxvcxla",
      "label": "¿Qué culpa tiene el niño? (2016)",
      "identifiers": [
@@ -105215,7 +105794,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:931": {
+    "ig6qlxqxoxvcxla:955": {
      "title": "¿Qué culpa tiene el niño? (2016)",
      "category": "Pregnant characters having sex",
      "group": "Comedy",
@@ -105258,7 +105837,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:585",
-    "ig6qlxqxoxvcxla:932"
+    "ig6qlxqxoxvcxla:956"
    ],
    "index_only": false,
    "local_only": false,
@@ -105298,7 +105877,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:932",
+     "rid": "ig6qlxqxoxvcxla:956",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Handmaid’s Tale S02E10",
      "identifiers": [
@@ -105358,7 +105937,7 @@ window.CATALOG = {
      "polygamySrc": [],
      "polygamyProv": "Worldwide seven-vector sweep plus strict-scope supplement, 1 Oct 2026 · Sources named in the research report"
     },
-    "ig6qlxqxoxvcxla:932": {
+    "ig6qlxqxoxvcxla:956": {
      "title": "The Handmaid’s Tale S02E10",
      "category": "Pregnant characters having sex",
      "group": "Non-consensual",
@@ -105400,7 +105979,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:586",
-    "ig6qlxqxoxvcxla:934"
+    "ig6qlxqxoxvcxla:958"
    ],
    "index_only": false,
    "local_only": false,
@@ -105439,7 +106018,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:934",
+     "rid": "ig6qlxqxoxvcxla:958",
      "source": "ig6qlxqxoxvcxla",
      "label": "Oppai Heart episode 2",
      "identifiers": [
@@ -105488,7 +106067,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:934": {
+    "ig6qlxqxoxvcxla:958": {
      "title": "Oppai Heart episode 2",
      "category": "Pregnant characters having sex",
      "group": "Adult animation / sex-work",
@@ -105532,7 +106111,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:587",
-    "ig6qlxqxoxvcxla:935",
+    "ig6qlxqxoxvcxla:959",
     "pregnant-intimacy:37"
    ],
    "index_only": false,
@@ -105571,7 +106150,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:935",
+     "rid": "ig6qlxqxoxvcxla:959",
      "source": "ig6qlxqxoxvcxla",
      "label": "24 Weeks (2016)",
      "identifiers": [
@@ -105648,7 +106227,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:935": {
+    "ig6qlxqxoxvcxla:959": {
      "title": "24 Weeks (2016)",
      "category": "Pregnant characters having sex",
      "group": "Timing caveat",
@@ -105713,7 +106292,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:588",
-    "ig6qlxqxoxvcxla:937"
+    "ig6qlxqxoxvcxla:961"
    ],
    "index_only": false,
    "local_only": false,
@@ -105752,7 +106331,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:937",
+     "rid": "ig6qlxqxoxvcxla:961",
      "source": "ig6qlxqxoxvcxla",
      "label": "This Is Us pilot (2016)",
      "identifiers": [
@@ -105802,7 +106381,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:937": {
+    "ig6qlxqxoxvcxla:961": {
      "title": "This Is Us pilot (2016)",
      "category": "Pregnant intimate scenes",
      "group": "Sensual / erotic short of intercourse",
@@ -105853,7 +106432,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:589",
-    "ig6qlxqxoxvcxla:938"
+    "ig6qlxqxoxvcxla:962"
    ],
    "index_only": false,
    "local_only": false,
@@ -105891,7 +106470,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:938",
+     "rid": "ig6qlxqxoxvcxla:962",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Third Wife (2018 Vietnam)",
      "identifiers": [
@@ -105940,7 +106519,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:938": {
+    "ig6qlxqxoxvcxla:962": {
      "title": "The Third Wife (2018 Vietnam)",
      "category": "Pregnant intimate scenes",
      "group": "Sensual / erotic short of intercourse",
@@ -106010,7 +106589,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:590",
-    "ig6qlxqxoxvcxla:939"
+    "ig6qlxqxoxvcxla:963"
    ],
    "index_only": false,
    "local_only": false,
@@ -106045,7 +106624,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:939",
+     "rid": "ig6qlxqxoxvcxla:963",
      "source": "ig6qlxqxoxvcxla",
      "label": "As Boas Maneiras / Good Manners (2017 Brazil)",
      "identifiers": [
@@ -106091,7 +106670,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:939": {
+    "ig6qlxqxoxvcxla:963": {
      "title": "As Boas Maneiras / Good Manners (2017 Brazil)",
      "category": "Pregnant intimate scenes",
      "group": "Sensual / erotic short of intercourse",
@@ -106159,7 +106738,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:591",
-    "ig6qlxqxoxvcxla:943"
+    "ig6qlxqxoxvcxla:967"
    ],
    "index_only": false,
    "local_only": false,
@@ -106198,7 +106777,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:943",
+     "rid": "ig6qlxqxoxvcxla:967",
      "source": "ig6qlxqxoxvcxla",
      "label": "Sen Çal Kapımı (2020–21)",
      "identifiers": [
@@ -106247,7 +106826,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:943": {
+    "ig6qlxqxoxvcxla:967": {
      "title": "Sen Çal Kapımı (2020–21)",
      "category": "Pregnant intimate scenes",
      "group": "Affectionate / romantic / marital",
@@ -106289,7 +106868,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:592",
-    "ig6qlxqxoxvcxla:944"
+    "ig6qlxqxoxvcxla:968"
    ],
    "index_only": false,
    "local_only": false,
@@ -106328,7 +106907,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:944",
+     "rid": "ig6qlxqxoxvcxla:968",
      "source": "ig6qlxqxoxvcxla",
      "label": "Pasión de Gavilanes (2003–04)",
      "identifiers": [
@@ -106377,7 +106956,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:944": {
+    "ig6qlxqxoxvcxla:968": {
      "title": "Pasión de Gavilanes (2003–04)",
      "category": "Pregnant intimate scenes",
      "group": "Affectionate / romantic / marital",
@@ -106445,7 +107024,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:593",
-    "ig6qlxqxoxvcxla:947",
+    "ig6qlxqxoxvcxla:971",
     "kids-pregnant-again:15"
    ],
    "index_only": false,
@@ -106490,7 +107069,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:947",
+     "rid": "ig6qlxqxoxvcxla:971",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Big Bang Theory (2018)",
      "identifiers": [
@@ -106587,7 +107166,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:947": {
+    "ig6qlxqxoxvcxla:971": {
      "title": "The Big Bang Theory (2018)",
      "category": "Pregnant intimate scenes",
      "group": "Labor-induction discussion / attempted",
@@ -106672,7 +107251,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:594",
-    "ig6qlxqxoxvcxla:945",
+    "ig6qlxqxoxvcxla:969",
     "pregnant-intimacy:31"
    ],
    "index_only": false,
@@ -106716,7 +107295,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:945",
+     "rid": "ig6qlxqxoxvcxla:969",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Housemaid (2010)",
      "identifiers": [
@@ -106803,7 +107382,7 @@ window.CATALOG = {
      ],
      "psg": "established"
     },
-    "ig6qlxqxoxvcxla:945": {
+    "ig6qlxqxoxvcxla:969": {
      "title": "The Housemaid (2010)",
      "category": "Pregnant intimate scenes",
      "group": "Affectionate / romantic / marital",
@@ -106900,9 +107479,9 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:595",
     "ig6qlxqxoxvcxla:92",
-    "ig6qlxqxoxvcxla:914",
-    "ig6qlxqxoxvcxla:971",
-    "ig6qlxqxoxvcxla:999",
+    "ig6qlxqxoxvcxla:938",
+    "ig6qlxqxoxvcxla:995",
+    "ig6qlxqxoxvcxla:1023",
     "mom-pregnancy:78"
    ],
    "index_only": false,
@@ -106987,7 +107566,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:914",
+     "rid": "ig6qlxqxoxvcxla:938",
      "source": "ig6qlxqxoxvcxla",
      "label": "Catastrophe S2E1 (2015)",
      "identifiers": [
@@ -107012,7 +107591,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:971",
+     "rid": "ig6qlxqxoxvcxla:995",
      "source": "ig6qlxqxoxvcxla",
      "label": "Catastrophe S2E1",
      "identifiers": [
@@ -107036,7 +107615,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:999",
+     "rid": "ig6qlxqxoxvcxla:1023",
      "source": "ig6qlxqxoxvcxla",
      "label": "Catastrophe S2E1 (2015)",
      "identifiers": [
@@ -107165,21 +107744,21 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:914": {
+    "ig6qlxqxoxvcxla:938": {
      "title": "Catastrophe S2E1 (2015)",
      "category": "Pregnant characters having sex",
      "group": "Pleasure-scene expansion",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:971": {
+    "ig6qlxqxoxvcxla:995": {
      "title": "Catastrophe S2E1",
      "category": "Child walks in on parents’ intimate scene",
      "group": "Strict shown — bedroom / sleeping room",
      "confidence": "Strict",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:999": {
+    "ig6qlxqxoxvcxla:1023": {
      "title": "Catastrophe S2E1 (2015)",
      "category": "Pregnant mother + child walk-in",
      "group": "Airtight match",
@@ -107252,7 +107831,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:596",
     "ig6qlxqxoxvcxla:93",
-    "ig6qlxqxoxvcxla:915"
+    "ig6qlxqxoxvcxla:939"
    ],
    "index_only": false,
    "local_only": false,
@@ -107333,7 +107912,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:915",
+     "rid": "ig6qlxqxoxvcxla:939",
      "source": "ig6qlxqxoxvcxla",
      "label": "A Frozen Flower (2008 Korea)",
      "identifiers": [
@@ -107417,7 +107996,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:915": {
+    "ig6qlxqxoxvcxla:939": {
      "title": "A Frozen Flower (2008 Korea)",
      "category": "Pregnant characters having sex",
      "group": "Pleasure-scene expansion",
@@ -107477,7 +108056,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:597",
     "ig6qlxqxoxvcxla:94",
-    "ig6qlxqxoxvcxla:916"
+    "ig6qlxqxoxvcxla:940"
    ],
    "index_only": false,
    "local_only": false,
@@ -107566,7 +108145,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:916",
+     "rid": "ig6qlxqxoxvcxla:940",
      "source": "ig6qlxqxoxvcxla",
      "label": "Los días que vendrán (2019 Spain)",
      "identifiers": [
@@ -107658,7 +108237,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:916": {
+    "ig6qlxqxoxvcxla:940": {
      "title": "Los días que vendrán (2019 Spain)",
      "category": "Pregnant characters having sex",
      "group": "Pleasure-scene expansion",
@@ -107719,7 +108298,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:598",
     "ig6qlxqxoxvcxla:95",
-    "ig6qlxqxoxvcxla:917",
+    "ig6qlxqxoxvcxla:941",
     "pregnant-intimacy:35"
    ],
    "index_only": false,
@@ -107815,7 +108394,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:917",
+     "rid": "ig6qlxqxoxvcxla:941",
      "source": "ig6qlxqxoxvcxla",
      "label": "How to Plan an Orgy in a Small Town (2015)",
      "identifiers": [
@@ -107945,7 +108524,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:917": {
+    "ig6qlxqxoxvcxla:941": {
      "title": "How to Plan an Orgy in a Small Town (2015)",
      "category": "Pregnant characters having sex",
      "group": "Pleasure-scene expansion",
@@ -108024,7 +108603,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:599",
     "ig6qlxqxoxvcxla:96",
-    "ig6qlxqxoxvcxla:918"
+    "ig6qlxqxoxvcxla:942"
    ],
    "index_only": false,
    "local_only": false,
@@ -108095,7 +108674,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:918",
+     "rid": "ig6qlxqxoxvcxla:942",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Pregnant Widow — Nollywood",
      "identifiers": [
@@ -108168,7 +108747,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:918": {
+    "ig6qlxqxoxvcxla:942": {
      "title": "The Pregnant Widow — Nollywood",
      "category": "Pregnant characters having sex",
      "group": "Pleasure-scene expansion",
@@ -108215,8 +108794,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:600",
-    "ig6qlxqxoxvcxla:259",
-    "ig6qlxqxoxvcxla:290"
+    "ig6qlxqxoxvcxla:282",
+    "ig6qlxqxoxvcxla:313"
    ],
    "index_only": false,
    "local_only": false,
@@ -108260,7 +108839,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:259",
+     "rid": "ig6qlxqxoxvcxla:282",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Vise (1954)",
      "identifiers": [
@@ -108284,7 +108863,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:290",
+     "rid": "ig6qlxqxoxvcxla:313",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Vise (1954)",
      "identifiers": [
@@ -108340,14 +108919,14 @@ window.CATALOG = {
      ],
      "pcg": "husband-variant"
     },
-    "ig6qlxqxoxvcxla:259": {
+    "ig6qlxqxoxvcxla:282": {
      "title": "The Vise (1954)",
      "category": "Forcibly hypnotized to obey",
      "group": "Disputed",
      "confidence": "Disputed",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:290": {
+    "ig6qlxqxoxvcxla:313": {
      "title": "The Vise (1954)",
      "category": "Female controlled by husband / boyfriend / ex-partner",
      "group": "Current husband — disputed",
@@ -108387,7 +108966,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:601",
     "ig6qlxqxoxvcxla:46",
-    "ig6qlxqxoxvcxla:235"
+    "ig6qlxqxoxvcxla:257"
    ],
    "index_only": false,
    "local_only": false,
@@ -108451,7 +109030,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:235",
+     "rid": "ig6qlxqxoxvcxla:257",
      "source": "ig6qlxqxoxvcxla",
      "label": "He Learns the Trick of Mesmerism (1909)",
      "identifiers": [
@@ -108519,7 +109098,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:235": {
+    "ig6qlxqxoxvcxla:257": {
      "title": "He Learns the Trick of Mesmerism (1909)",
      "category": "Forcibly hypnotized to obey",
      "group": "Husband / lover / partner / domestic",
@@ -108583,7 +109162,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:602",
     "ig6qlxqxoxvcxla:47",
-    "ig6qlxqxoxvcxla:236",
+    "ig6qlxqxoxvcxla:258",
     "older-man-hypnosis:3",
     "hypno-intimacy:3",
     "hypnosis-assault:4"
@@ -108660,7 +109239,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:236",
+     "rid": "ig6qlxqxoxvcxla:258",
      "source": "ig6qlxqxoxvcxla",
      "label": "LFO (2013)",
      "identifiers": [
@@ -108863,7 +109442,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:236": {
+    "ig6qlxqxoxvcxla:258": {
      "title": "LFO (2013)",
      "category": "Forcibly hypnotized to obey",
      "group": "Husband / lover / partner / domestic",
@@ -109052,7 +109631,7 @@ window.CATALOG = {
     "xla62ucxbx02u5:603",
     "ig6qlxqxoxvcxla:49",
     "ig6qlxqxoxvcxla:152",
-    "ig6qlxqxoxvcxla:238"
+    "ig6qlxqxoxvcxla:266"
    ],
    "index_only": false,
    "local_only": false,
@@ -109156,7 +109735,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:238",
+     "rid": "ig6qlxqxoxvcxla:266",
      "source": "ig6qlxqxoxvcxla",
      "label": "Thirteen Women (1932)",
      "identifiers": [
@@ -109256,7 +109835,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:238": {
+    "ig6qlxqxoxvcxla:266": {
      "title": "Thirteen Women (1932)",
      "category": "Forcibly hypnotized to obey",
      "group": "Villain / stranger / criminal",
@@ -109300,7 +109879,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:604",
     "ig6qlxqxoxvcxla:50",
-    "ig6qlxqxoxvcxla:239"
+    "ig6qlxqxoxvcxla:260"
    ],
    "index_only": false,
    "local_only": false,
@@ -109372,7 +109951,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:239",
+     "rid": "ig6qlxqxoxvcxla:260",
      "source": "ig6qlxqxoxvcxla",
      "label": "In the Power of a Hypnotist (1913)",
      "identifiers": [
@@ -109448,7 +110027,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:239": {
+    "ig6qlxqxoxvcxla:260": {
      "title": "In the Power of a Hypnotist (1913)",
      "category": "Forcibly hypnotized to obey",
      "group": "Villain / stranger / criminal",
@@ -109498,7 +110077,7 @@ window.CATALOG = {
     "xla62ucxbx02u5:605",
     "ig6qlxqxoxvcxla:51",
     "ig6qlxqxoxvcxla:144",
-    "ig6qlxqxoxvcxla:240"
+    "ig6qlxqxoxvcxla:264"
    ],
    "index_only": false,
    "local_only": false,
@@ -109599,7 +110178,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:240",
+     "rid": "ig6qlxqxoxvcxla:264",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Criminal Hypnotist (1909)",
      "identifiers": [
@@ -109698,7 +110277,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:240": {
+    "ig6qlxqxoxvcxla:264": {
      "title": "The Criminal Hypnotist (1909)",
      "category": "Forcibly hypnotized to obey",
      "group": "Villain / stranger / criminal",
@@ -109737,7 +110316,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:606",
     "ig6qlxqxoxvcxla:52",
-    "ig6qlxqxoxvcxla:241"
+    "ig6qlxqxoxvcxla:265"
    ],
    "index_only": false,
    "local_only": false,
@@ -109800,7 +110379,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:241",
+     "rid": "ig6qlxqxoxvcxla:265",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Spy’s Defeat",
      "identifiers": [],
@@ -109863,7 +110442,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:241": {
+    "ig6qlxqxoxvcxla:265": {
      "title": "The Spy’s Defeat",
      "category": "Forcibly hypnotized to obey",
      "group": "Villain / stranger / criminal",
@@ -109902,7 +110481,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:607",
     "ig6qlxqxoxvcxla:53",
-    "ig6qlxqxoxvcxla:242"
+    "ig6qlxqxoxvcxla:261"
    ],
    "index_only": false,
    "local_only": false,
@@ -109967,7 +110546,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:242",
+     "rid": "ig6qlxqxoxvcxla:261",
      "source": "ig6qlxqxoxvcxla",
      "label": "Kommissar Rex (1996)",
      "identifiers": [
@@ -110034,7 +110613,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:242": {
+    "ig6qlxqxoxvcxla:261": {
      "title": "Kommissar Rex (1996)",
      "category": "Forcibly hypnotized to obey",
      "group": "Villain / stranger / criminal",
@@ -110109,7 +110688,7 @@ window.CATALOG = {
     "xla62ucxbx02u5:608",
     "ig6qlxqxoxvcxla:54",
     "ig6qlxqxoxvcxla:141",
-    "ig6qlxqxoxvcxla:243",
+    "ig6qlxqxoxvcxla:259",
     "worldwide-hypnosis:169",
     "rich-wife-hypnosis:30"
    ],
@@ -110221,7 +110800,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:243",
+     "rid": "ig6qlxqxoxvcxla:259",
      "source": "ig6qlxqxoxvcxla",
      "label": "Charlie’s Angels (1976)",
      "identifiers": [
@@ -110422,7 +111001,7 @@ window.CATALOG = {
       "subtitle": "The Seance"
      }
     },
-    "ig6qlxqxoxvcxla:243": {
+    "ig6qlxqxoxvcxla:259": {
      "title": "Charlie’s Angels (1976)",
      "category": "Forcibly hypnotized to obey",
      "group": "Villain / stranger / criminal",
@@ -110567,7 +111146,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:609",
-    "ig6qlxqxoxvcxla:246",
+    "ig6qlxqxoxvcxla:269",
     "older-man-hypnosis:5",
     "hypno-intimacy:4",
     "hypnosis-assault:2"
@@ -110620,7 +111199,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:246",
+     "rid": "ig6qlxqxoxvcxla:269",
      "source": "ig6qlxqxoxvcxla",
      "label": "Nisf Azraa / Half Virgin (1961)",
      "identifiers": [
@@ -110810,7 +111389,7 @@ window.CATALOG = {
      "ahg": "therapist",
      "ch": "Zainab"
     },
-    "ig6qlxqxoxvcxla:246": {
+    "ig6qlxqxoxvcxla:269": {
      "title": "Nisf Azraa / Half Virgin (1961)",
      "category": "Forcibly hypnotized to obey",
      "group": "Doctor / psychiatrist",
@@ -110963,7 +111542,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:610",
-    "ig6qlxqxoxvcxla:260"
+    "ig6qlxqxoxvcxla:283"
    ],
    "index_only": false,
    "local_only": false,
@@ -111002,7 +111581,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:260",
+     "rid": "ig6qlxqxoxvcxla:283",
      "source": "ig6qlxqxoxvcxla",
      "label": "Power of Suggestion (1960)",
      "identifiers": [
@@ -111052,7 +111631,7 @@ window.CATALOG = {
      ],
      "ahg": "stage"
     },
-    "ig6qlxqxoxvcxla:260": {
+    "ig6qlxqxoxvcxla:283": {
      "title": "Power of Suggestion (1960)",
      "category": "Forcibly hypnotized to obey",
      "group": "Disputed",
@@ -111103,7 +111682,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:611",
     "ig6qlxqxoxvcxla:142",
-    "ig6qlxqxoxvcxla:249",
+    "ig6qlxqxoxvcxla:272",
     "rich-wife-hypnosis:5"
    ],
    "index_only": false,
@@ -111168,7 +111747,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:249",
+     "rid": "ig6qlxqxoxvcxla:272",
      "source": "ig6qlxqxoxvcxla",
      "label": "In the Grip of a Charlatan (1913)",
      "identifiers": [
@@ -111275,7 +111854,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:249": {
+    "ig6qlxqxoxvcxla:272": {
      "title": "In the Grip of a Charlatan (1913)",
      "category": "Forcibly hypnotized to obey",
      "group": "Cult leader / charlatan",
@@ -111348,7 +111927,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:612",
-    "ig6qlxqxoxvcxla:256"
+    "ig6qlxqxoxvcxla:279"
    ],
    "index_only": false,
    "local_only": false,
@@ -111387,7 +111966,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:256",
+     "rid": "ig6qlxqxoxvcxla:279",
      "source": "ig6qlxqxoxvcxla",
      "label": "Night of the Eagle (1962)",
      "identifiers": [
@@ -111436,7 +112015,7 @@ window.CATALOG = {
       "forced-obedience"
      ]
     },
-    "ig6qlxqxoxvcxla:256": {
+    "ig6qlxqxoxvcxla:279": {
      "title": "Night of the Eagle (1962)",
      "category": "Forcibly hypnotized to obey",
      "group": "Mechanism variants",
@@ -111559,7 +112138,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:614",
-    "ig6qlxqxoxvcxla:252",
+    "ig6qlxqxoxvcxla:275",
     "hypno-leftovers:3",
     "hypnosis-assault:20"
    ],
@@ -111602,7 +112181,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:252",
+     "rid": "ig6qlxqxoxvcxla:275",
      "source": "ig6qlxqxoxvcxla",
      "label": "Joy à Moscou (1992)",
      "identifiers": [
@@ -111730,7 +112309,7 @@ window.CATALOG = {
      "ahg": "erotic",
      "ch": "Joy and Sophie"
     },
-    "ig6qlxqxoxvcxla:252": {
+    "ig6qlxqxoxvcxla:275": {
      "title": "Joy à Moscou (1992)",
      "category": "Forcibly hypnotized to obey",
      "group": "Supernatural",
@@ -111840,7 +112419,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:615",
-    "ig6qlxqxoxvcxla:262"
+    "ig6qlxqxoxvcxla:285"
    ],
    "index_only": false,
    "local_only": false,
@@ -111883,7 +112462,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:262",
+     "rid": "ig6qlxqxoxvcxla:285",
      "source": "ig6qlxqxoxvcxla",
      "label": "Hypnose (1920)",
      "identifiers": [
@@ -111936,7 +112515,7 @@ window.CATALOG = {
       "forced-obedience"
      ]
     },
-    "ig6qlxqxoxvcxla:262": {
+    "ig6qlxqxoxvcxla:285": {
      "title": "Hypnose (1920)",
      "category": "Forcibly hypnotized to obey",
      "group": "Low-confidence leads",
@@ -111983,7 +112562,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:616",
     "xla62ucxbx02u5:1573",
-    "ig6qlxqxoxvcxla:263",
+    "ig6qlxqxoxvcxla:286",
     "worldwide-hypnosis:612"
    ],
    "index_only": false,
@@ -112045,7 +112624,7 @@ window.CATALOG = {
      "distinct_story": true
     },
     {
-     "rid": "ig6qlxqxoxvcxla:263",
+     "rid": "ig6qlxqxoxvcxla:286",
      "source": "ig6qlxqxoxvcxla",
      "label": "Morgana",
      "identifiers": [],
@@ -112137,7 +112716,7 @@ window.CATALOG = {
       "forced-obedience"
      ]
     },
-    "ig6qlxqxoxvcxla:263": {
+    "ig6qlxqxoxvcxla:286": {
      "title": "Morgana",
      "category": "Forcibly hypnotized to obey",
      "group": "Low-confidence leads",
@@ -112200,7 +112779,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:617",
-    "ig6qlxqxoxvcxla:254"
+    "ig6qlxqxoxvcxla:277"
    ],
    "index_only": false,
    "local_only": false,
@@ -112238,7 +112817,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:254",
+     "rid": "ig6qlxqxoxvcxla:277",
      "source": "ig6qlxqxoxvcxla",
      "label": "Saimin Ryoujoku Gakuen (2008)",
      "identifiers": [
@@ -112316,7 +112895,7 @@ window.CATALOG = {
      ],
      "ahg": "therapist"
     },
-    "ig6qlxqxoxvcxla:254": {
+    "ig6qlxqxoxvcxla:277": {
      "title": "Saimin Ryoujoku Gakuen (2008)",
      "category": "Forcibly hypnotized to obey",
      "group": "Adult animation",
@@ -112358,7 +112937,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:618",
-    "ig6qlxqxoxvcxla:255"
+    "ig6qlxqxoxvcxla:278"
    ],
    "index_only": false,
    "local_only": false,
@@ -112396,7 +112975,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:255",
+     "rid": "ig6qlxqxoxvcxla:278",
      "source": "ig6qlxqxoxvcxla",
      "label": "Saimin Jutsu Zero (2013)",
      "identifiers": [
@@ -112478,7 +113057,7 @@ window.CATALOG = {
      ],
      "ahg": "therapist"
     },
-    "ig6qlxqxoxvcxla:255": {
+    "ig6qlxqxoxvcxla:278": {
      "title": "Saimin Jutsu Zero (2013)",
      "category": "Forcibly hypnotized to obey",
      "group": "Adult animation",
@@ -112497,11 +113076,12 @@ window.CATALOG = {
    "confidence_flag": "High confidence · dedicated episode",
    "summary": "Mother-in-law Uttara hires a doctor to hypnotize daughter-in-law Falguni so she can be taken to the hospital for a uterus-removal surgery; the dedicated episode is titled “Falguni Is Hypnotised” (S02E110).",
    "character": "",
-   "provenance": "",
+   "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep.",
    "note": "",
    "format": "tv",
    "categories": [
-    "indian-female-hypnosis"
+    "indian-female-hypnosis",
+    "medical"
    ],
    "sources": [
     {
@@ -112511,20 +113091,91 @@ window.CATALOG = {
     {
      "label": "TellyReviews",
      "url": "https://tellyreviews.com/2018/03/25/uttara-to-learn-her-shocking-failure-in-jiji-maa/"
+    },
+    {
+     "label": "IWMBuzz · Laddoo reveal",
+     "url": "https://www.iwmbuzz.com/television/spoilers/falguni-know-laddoos-identity-jiji-maa/2019/01/30"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "xla62ucxbx02u5:619"
+    "xla62ucxbx02u5:619",
+    "ig6qlxqxoxvcxla:177"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:619",
+    "source": "xla62ucxbx02u5",
+    "label": "Jiji Maa · S02E110 “Falguni Is Hypnotised” (2018)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Jiji Maa",
+    "subtitle": "S02E110 “Falguni Is Hypnotised”",
+    "year": "2018",
+    "meta": "TV serial (soap) · India · Hindi · Star Bharat",
+    "summary": "Mother-in-law Uttara hires a doctor to hypnotize daughter-in-law Falguni so she can be taken to the hospital for a uterus-removal surgery; the dedicated episode is titled “Falguni Is Hypnotised” (S02E110).",
+    "character": "",
+    "note": "",
+    "mechanism": "Doctor-administered hypnosis on hire",
+    "confidence_flag": "High confidence · dedicated episode",
+    "categories": [
+     "indian-female-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "IWMBuzz",
+      "url": "https://www.iwmbuzz.com/television/spoilers/falguni-hypnotized-star-bharats-jiji-maa/2018/04/03"
+     },
+     {
+      "label": "TellyReviews",
+      "url": "https://tellyreviews.com/2018/03/25/uttara-to-learn-her-shocking-failure-in-jiji-maa/"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "ig6qlxqxoxvcxla:177",
+     "source": "ig6qlxqxoxvcxla",
+     "label": "Jiji Maa (2018)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Jiji Maa",
+     "subtitle": "",
+     "year": "2018",
+     "meta": "TV serial · India · Hindi · Star Bharat",
+     "summary": "Mother-in-law Uttara brings in a doctor to hypnotize Falguni so she can be taken for a secret uterus-removal operation without her knowledge; later, Uttara brainwashes Falguni to shoot her husband Suyash.",
+     "character": "Falguni",
+     "note": "Not pregnant during the hypnosis arc: the plot centers on forced uterus removal and the claim she could never become a mother. End-pregnancy is unknown; she later agrees to be a surrogate, but the reviewed sources do not confirm a completed pregnancy. She had no children before; by the end, Laddoo is revealed as Falguni and Suyash’s biological son.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "IWMBuzz · hypnosis report",
+       "url": "https://www.iwmbuzz.com/television/spoilers/falguni-hypnotized-star-bharats-jiji-maa/2018/04/03"
+      },
+      {
+       "label": "IWMBuzz · Laddoo reveal",
+       "url": "https://www.iwmbuzz.com/television/spoilers/falguni-know-laddoos-identity-jiji-maa/2019/01/30"
+      }
+     ],
+     "distinct_story": true,
+     "index_title": "Jiji Maa",
+     "matched_by": "title+year"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:619": {
      "t": "Jiji Maa",
@@ -112550,6 +113201,44 @@ window.CATALOG = {
       "indian-female-hypnosis"
      ],
      "ihg": "north"
+    },
+    "ig6qlxqxoxvcxla:177": {
+     "detailed": {
+      "cat": 29,
+      "title": "Jiji Maa",
+      "year": "2018",
+      "meta": "TV serial · India · Hindi · Star Bharat",
+      "subgroup": "Doctor-enabled coercive hypnosis",
+      "summary": "Mother-in-law Uttara brings in a doctor to hypnotize Falguni so she can be taken for a secret uterus-removal operation without her knowledge; later, Uttara brainwashes Falguni to shoot her husband Suyash.",
+      "note": "Not pregnant during the hypnosis arc: the plot centers on forced uterus removal and the claim she could never become a mother. End-pregnancy is unknown; she later agrees to be a surrogate, but the reviewed sources do not confirm a completed pregnancy. She had no children before; by the end, Laddoo is revealed as Falguni and Suyash’s biological son.",
+      "character": "Falguni",
+      "mechanism": "Doctor-administered hypnosis; later brainwashing",
+      "controller": "A doctor hired by Uttara; later Uttara",
+      "motive": "Force secret surgery and later compel violence",
+      "tags": [
+       "Medical / therapeutic hypnosis",
+       "Partner hires a third-party controller",
+       "Verified",
+       "Pregnancy during arc · no",
+       "Pregnant at end · unknown",
+       "Children before · none",
+       "Children by end · son Laddoo"
+      ],
+      "sources": [
+       {
+        "name": "IWMBuzz · hypnosis report",
+        "url": "https://www.iwmbuzz.com/television/spoilers/falguni-hypnotized-star-bharats-jiji-maa/2018/04/03"
+       },
+       {
+        "name": "IWMBuzz · Laddoo reveal",
+        "url": "https://www.iwmbuzz.com/television/spoilers/falguni-know-laddoos-identity-jiji-maa/2019/01/30"
+       },
+       {
+        "name": "TellyUpdates written updates"
+       }
+      ],
+      "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep."
+     }
     }
    }
   },
@@ -116842,7 +117531,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:653",
-    "ig6qlxqxoxvcxla:539"
+    "ig6qlxqxoxvcxla:563"
    ],
    "index_only": false,
    "local_only": false,
@@ -116876,7 +117565,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:539",
+     "rid": "ig6qlxqxoxvcxla:563",
      "source": "ig6qlxqxoxvcxla",
      "label": "El vampiro sangriento (1962 Mexico)",
      "identifiers": [
@@ -116921,7 +117610,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:539": {
+    "ig6qlxqxoxvcxla:563": {
      "title": "El vampiro sangriento (1962 Mexico)",
      "category": "Vampire mesmerism",
      "group": "Regional vampire cinema",
@@ -118409,7 +119098,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:664",
-    "ig6qlxqxoxvcxla:830"
+    "ig6qlxqxoxvcxla:854"
    ],
    "index_only": false,
    "local_only": false,
@@ -118445,7 +119134,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:830",
+     "rid": "ig6qlxqxoxvcxla:854",
      "source": "ig6qlxqxoxvcxla",
      "label": "Mind Game (2015 Singapore)",
      "identifiers": [
@@ -118500,7 +119189,7 @@ window.CATALOG = {
      "variantSrc": [],
      "variantProv": "Southeast Asia regional sweep; no source URL was preserved in the coordinator report."
     },
-    "ig6qlxqxoxvcxla:830": {
+    "ig6qlxqxoxvcxla:854": {
      "title": "Mind Game (2015 Singapore)",
      "category": "Pregnant woman hypnotized / mind-controlled",
      "group": "Unresolved leads",
@@ -119786,7 +120475,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:670",
-    "ig6qlxqxoxvcxla:651"
+    "ig6qlxqxoxvcxla:675"
    ],
    "index_only": false,
    "local_only": false,
@@ -119820,7 +120509,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:651",
+     "rid": "ig6qlxqxoxvcxla:675",
      "source": "ig6qlxqxoxvcxla",
      "label": "Doctor Who “The Talons of Weng-Chiang” (1977)",
      "identifiers": [
@@ -119865,7 +120554,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:651": {
+    "ig6qlxqxoxvcxla:675": {
      "title": "Doctor Who “The Talons of Weng-Chiang” (1977)",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
@@ -119960,7 +120649,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:672",
-    "ig6qlxqxoxvcxla:648"
+    "ig6qlxqxoxvcxla:672"
    ],
    "index_only": false,
    "local_only": false,
@@ -119994,7 +120683,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:648",
+     "rid": "ig6qlxqxoxvcxla:672",
      "source": "ig6qlxqxoxvcxla",
      "label": "The X-Files “Pusher”",
      "identifiers": [
@@ -120038,7 +120727,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:648": {
+    "ig6qlxqxoxvcxla:672": {
      "title": "The X-Files “Pusher”",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
@@ -121365,8 +122054,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:681",
-    "ig6qlxqxoxvcxla:172",
-    "ig6qlxqxoxvcxla:325"
+    "ig6qlxqxoxvcxla:194",
+    "ig6qlxqxoxvcxla:348"
    ],
    "index_only": false,
    "local_only": false,
@@ -121402,7 +122091,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:172",
+     "rid": "ig6qlxqxoxvcxla:194",
      "source": "ig6qlxqxoxvcxla",
      "label": "O Hipnotizador",
      "identifiers": [
@@ -121426,7 +122115,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:325",
+     "rid": "ig6qlxqxoxvcxla:348",
      "source": "ig6qlxqxoxvcxla",
      "label": "El Hipnotizador",
      "identifiers": [
@@ -121475,14 +122164,14 @@ window.CATALOG = {
      "fog": "variant",
      "prov": "Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Episode sources: Episodate, TVmaze and WhenHBO."
     },
-    "ig6qlxqxoxvcxla:172": {
+    "ig6qlxqxoxvcxla:194": {
      "title": "O Hipnotizador",
      "category": "Hypnotized to love",
      "group": "Literal stage-style hypnosis",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:325": {
+    "ig6qlxqxoxvcxla:348": {
      "title": "El Hipnotizador",
      "category": "Wife hypnotized / controlled by a therapist",
      "group": "Near-misses",
@@ -122242,7 +122931,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:688",
-    "ig6qlxqxoxvcxla:544",
+    "ig6qlxqxoxvcxla:568",
     "hypno-leftovers:29",
     "hypnosis-assault-loose:34"
    ],
@@ -122282,7 +122971,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:544",
+     "rid": "ig6qlxqxoxvcxla:568",
      "source": "ig6qlxqxoxvcxla",
      "label": "Vampyros Lesbos (1971)",
      "identifiers": [
@@ -122409,7 +123098,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:544": {
+    "ig6qlxqxoxvcxla:568": {
      "title": "Vampyros Lesbos (1971)",
      "category": "Vampire mesmerism",
      "group": "Regional vampire cinema",
@@ -122590,7 +123279,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:690",
-    "ig6qlxqxoxvcxla:536"
+    "ig6qlxqxoxvcxla:560"
    ],
    "index_only": false,
    "local_only": false,
@@ -122624,7 +123313,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:536",
+     "rid": "ig6qlxqxoxvcxla:560",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Vampire Diaries (2014)",
      "identifiers": [
@@ -122669,7 +123358,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:536": {
+    "ig6qlxqxoxvcxla:560": {
      "title": "The Vampire Diaries (2014)",
      "category": "Vampire mesmerism",
      "group": "Modern TV mesmerism",
@@ -123323,7 +124012,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:699",
-    "ig6qlxqxoxvcxla:294"
+    "ig6qlxqxoxvcxla:317"
    ],
    "index_only": false,
    "local_only": false,
@@ -123359,7 +124048,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:294",
+     "rid": "ig6qlxqxoxvcxla:317",
      "source": "ig6qlxqxoxvcxla",
      "label": "Caminhos do Coração (2007–08)",
      "identifiers": [
@@ -123451,7 +124140,7 @@ window.CATALOG = {
      "strictCh": "Amália Fortunato (Mônica Carvalho)",
      "strictProv": "Amo Novelas and Observatório da TV were independently re-checked. Correction: chapter 147's hypnosis occurs in the same scene as Amália's pregnancy announcement, replacing the earlier pre-pregnancy timing note."
     },
-    "ig6qlxqxoxvcxla:294": {
+    "ig6qlxqxoxvcxla:317": {
      "title": "Caminhos do Coração (2007–08)",
      "category": "Female controlled by husband / boyfriend / ex-partner",
      "group": "Ex-boyfriend",
@@ -124281,7 +124970,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:708",
-    "ig6qlxqxoxvcxla:664",
+    "ig6qlxqxoxvcxla:688",
     "worldwide-hypnosis:537"
    ],
    "index_only": false,
@@ -124334,7 +125023,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:664",
+     "rid": "ig6qlxqxoxvcxla:688",
      "source": "ig6qlxqxoxvcxla",
      "label": "Looker (1981)",
      "identifiers": [
@@ -124439,7 +125128,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:664": {
+    "ig6qlxqxoxvcxla:688": {
      "title": "Looker (1981)",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
@@ -124522,7 +125211,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:709",
-    "ig6qlxqxoxvcxla:667",
+    "ig6qlxqxoxvcxla:691",
     "worldwide-hypnosis:266"
    ],
    "index_only": false,
@@ -124562,7 +125251,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:667",
+     "rid": "ig6qlxqxoxvcxla:691",
      "source": "ig6qlxqxoxvcxla",
      "label": "Desire Catcher (2023)",
      "identifiers": [
@@ -124643,7 +125332,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:667": {
+    "ig6qlxqxoxvcxla:691": {
      "title": "Desire Catcher (2023)",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
@@ -125590,7 +126279,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:719",
-    "ig6qlxqxoxvcxla:783"
+    "ig6qlxqxoxvcxla:807"
    ],
    "index_only": false,
    "local_only": false,
@@ -125624,7 +126313,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:783",
+     "rid": "ig6qlxqxoxvcxla:807",
      "source": "ig6qlxqxoxvcxla",
      "label": "Yu-Gi-Oh!",
      "identifiers": [
@@ -125668,7 +126357,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:783": {
+    "ig6qlxqxoxvcxla:807": {
      "title": "Yu-Gi-Oh!",
      "category": "Female character controlled by a child / teen",
      "group": "Teen powers / artifacts / technology",
@@ -128281,7 +128970,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:737",
-    "ig6qlxqxoxvcxla:822"
+    "ig6qlxqxoxvcxla:846"
    ],
    "index_only": false,
    "local_only": false,
@@ -128321,7 +129010,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:822",
+     "rid": "ig6qlxqxoxvcxla:846",
      "source": "ig6qlxqxoxvcxla",
      "label": "Neighbours episodes 4249–4253 (2003)",
      "identifiers": [
@@ -128391,7 +129080,7 @@ window.CATALOG = {
      "variantCh": "Lyn Scully · pregnant with Oscar",
      "variantProv": "Worldwide multilingual indexed sweep completed 30 Sep 2026; adult-video plot-index follow-up found no net-new verified narrative title."
     },
-    "ig6qlxqxoxvcxla:822": {
+    "ig6qlxqxoxvcxla:846": {
      "title": "Neighbours episodes 4249–4253 (2003)",
      "category": "Pregnant woman hypnotized / mind-controlled",
      "group": "Doctor / psychiatrist",
@@ -128604,7 +129293,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:741",
-    "ig6qlxqxoxvcxla:173"
+    "ig6qlxqxoxvcxla:195"
    ],
    "index_only": false,
    "local_only": false,
@@ -128639,7 +129328,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:173",
+     "rid": "ig6qlxqxoxvcxla:195",
      "source": "ig6qlxqxoxvcxla",
      "label": "Black Magic (1975 Hong Kong)",
      "identifiers": [
@@ -128686,7 +129375,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:173": {
+    "ig6qlxqxoxvcxla:195": {
      "title": "Black Magic (1975 Hong Kong)",
      "category": "Hypnotized to love",
      "group": "Literal stage-style hypnosis",
@@ -128759,7 +129448,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:742",
-    "ig6qlxqxoxvcxla:820",
+    "ig6qlxqxoxvcxla:844",
     "older-man-hypnosis:15",
     "hypnosis-assault:23"
    ],
@@ -128814,7 +129503,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:820",
+     "rid": "ig6qlxqxoxvcxla:844",
      "source": "ig6qlxqxoxvcxla",
      "label": "Black Magic Part 2 (1976)",
      "identifiers": [
@@ -129006,7 +129695,7 @@ window.CATALOG = {
      "strictCh": "The doctor's adult wife",
      "strictProv": "Pregnancy overlap verified in the East Asia two-source sweep; control mechanism independently corroborated by the linked release booklet."
     },
-    "ig6qlxqxoxvcxla:820": {
+    "ig6qlxqxoxvcxla:844": {
      "title": "Black Magic Part 2 (1976)",
      "category": "Pregnant woman hypnotized / mind-controlled",
      "group": "Villain / stranger / criminal",
@@ -130586,7 +131275,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:754",
-    "ig6qlxqxoxvcxla:546",
+    "ig6qlxqxoxvcxla:570",
     "worldwide-hypnosis:241"
    ],
    "index_only": false,
@@ -130632,7 +131321,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:546",
+     "rid": "ig6qlxqxoxvcxla:570",
      "source": "ig6qlxqxoxvcxla",
      "label": "Daughters of Darkness (1971)",
      "identifiers": [
@@ -130723,7 +131412,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:546": {
+    "ig6qlxqxoxvcxla:570": {
      "title": "Daughters of Darkness (1971)",
      "category": "Vampire mesmerism",
      "group": "Erotic / romantic vampire control",
@@ -131111,7 +131800,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:757",
-    "ig6qlxqxoxvcxla:543"
+    "ig6qlxqxoxvcxla:567"
    ],
    "index_only": false,
    "local_only": false,
@@ -131149,7 +131838,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:543",
+     "rid": "ig6qlxqxoxvcxla:567",
      "source": "ig6qlxqxoxvcxla",
      "label": "El ataúd del vampiro (1958)",
      "identifiers": [
@@ -131198,7 +131887,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:543": {
+    "ig6qlxqxoxvcxla:567": {
      "title": "El ataúd del vampiro (1958)",
      "category": "Vampire mesmerism",
      "group": "Regional vampire cinema",
@@ -131250,7 +131939,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:758",
-    "ig6qlxqxoxvcxla:542"
+    "ig6qlxqxoxvcxla:566"
    ],
    "index_only": false,
    "local_only": false,
@@ -131298,7 +131987,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:542",
+     "rid": "ig6qlxqxoxvcxla:566",
      "source": "ig6qlxqxoxvcxla",
      "label": "El barón del terror (1962)",
      "identifiers": [
@@ -131357,7 +132046,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:542": {
+    "ig6qlxqxoxvcxla:566": {
      "title": "El barón del terror (1962)",
      "category": "Vampire mesmerism",
      "group": "Regional vampire cinema",
@@ -131924,7 +132613,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:763",
-    "ig6qlxqxoxvcxla:533"
+    "ig6qlxqxoxvcxla:557"
    ],
    "index_only": false,
    "local_only": false,
@@ -131959,7 +132648,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:533",
+     "rid": "ig6qlxqxoxvcxla:557",
      "source": "ig6qlxqxoxvcxla",
      "label": "Forever Knight (1996)",
      "identifiers": [
@@ -132005,7 +132694,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:533": {
+    "ig6qlxqxoxvcxla:557": {
      "title": "Forever Knight (1996)",
      "category": "Vampire mesmerism",
      "group": "Vampire hypnotherapist / therapist",
@@ -132044,7 +132733,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:764",
-    "ig6qlxqxoxvcxla:534"
+    "ig6qlxqxoxvcxla:558"
    ],
    "index_only": false,
    "local_only": false,
@@ -132078,7 +132767,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:534",
+     "rid": "ig6qlxqxoxvcxla:558",
      "source": "ig6qlxqxoxvcxla",
      "label": "Nocturnal (2007)",
      "identifiers": [
@@ -132123,7 +132812,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:534": {
+    "ig6qlxqxoxvcxla:558": {
      "title": "Nocturnal (2007)",
      "category": "Vampire mesmerism",
      "group": "Vampire hypnotherapist / therapist",
@@ -132705,8 +133394,8 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:770",
     "ig6qlxqxoxvcxla:32",
-    "ig6qlxqxoxvcxla:195",
-    "ig6qlxqxoxvcxla:196",
+    "ig6qlxqxoxvcxla:217",
+    "ig6qlxqxoxvcxla:218",
     "worldwide-hypnosis:131",
     "hypnosis-assault-loose:33"
    ],
@@ -132781,7 +133470,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:195",
+     "rid": "ig6qlxqxoxvcxla:217",
      "source": "ig6qlxqxoxvcxla",
      "label": "Bram Stoker’s Dracula (1992) — Lucy",
      "identifiers": [
@@ -132806,7 +133495,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:196",
+     "rid": "ig6qlxqxoxvcxla:218",
      "source": "ig6qlxqxoxvcxla",
      "label": "Bram Stoker’s Dracula (1992) — Mina",
      "identifiers": [
@@ -132968,14 +133657,14 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:195": {
+    "ig6qlxqxoxvcxla:217": {
      "title": "Bram Stoker’s Dracula (1992) — Lucy",
      "category": "Hypnotized / controlled into infidelity",
      "group": "Supernatural / occult predator compulsion",
      "confidence": "High confidence",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:196": {
+    "ig6qlxqxoxvcxla:218": {
      "title": "Bram Stoker’s Dracula (1992) — Mina",
      "category": "Hypnotized / controlled into infidelity",
      "group": "Supernatural / occult predator compulsion",
@@ -133086,7 +133775,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:771",
     "ig6qlxqxoxvcxla:33",
-    "ig6qlxqxoxvcxla:198"
+    "ig6qlxqxoxvcxla:220"
    ],
    "index_only": false,
    "local_only": false,
@@ -133147,7 +133836,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:198",
+     "rid": "ig6qlxqxoxvcxla:220",
      "source": "ig6qlxqxoxvcxla",
      "label": "Intermezzo",
      "identifiers": [],
@@ -133213,7 +133902,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:198": {
+    "ig6qlxqxoxvcxla:220": {
      "title": "Intermezzo",
      "category": "Hypnotized / controlled into infidelity",
      "group": "Unverified leads",
@@ -133252,7 +133941,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:772",
     "ig6qlxqxoxvcxla:34",
-    "ig6qlxqxoxvcxla:199"
+    "ig6qlxqxoxvcxla:221"
    ],
    "index_only": false,
    "local_only": false,
@@ -133315,7 +134004,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:199",
+     "rid": "ig6qlxqxoxvcxla:221",
      "source": "ig6qlxqxoxvcxla",
      "label": "Verliefd (circa 1995)",
      "identifiers": [
@@ -133384,7 +134073,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:199": {
+    "ig6qlxqxoxvcxla:221": {
      "title": "Verliefd (circa 1995)",
      "category": "Hypnotized / controlled into infidelity",
      "group": "Unverified leads",
@@ -133438,7 +134127,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:773",
     "ig6qlxqxoxvcxla:35",
-    "ig6qlxqxoxvcxla:203",
+    "ig6qlxqxoxvcxla:225",
     "mom-pregnancy:19"
    ],
    "index_only": false,
@@ -133511,7 +134200,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:203",
+     "rid": "ig6qlxqxoxvcxla:225",
      "source": "ig6qlxqxoxvcxla",
      "label": "Doctor Zhivago (1965)",
      "identifiers": [
@@ -133626,7 +134315,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:203": {
+    "ig6qlxqxoxvcxla:225": {
      "title": "Doctor Zhivago (1965)",
      "category": "Wife with children pregnant by another man",
      "group": "Secret affair pregnancy",
@@ -133711,7 +134400,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:774",
     "ig6qlxqxoxvcxla:36",
-    "ig6qlxqxoxvcxla:204",
+    "ig6qlxqxoxvcxla:226",
     "mom-pregnancy:20"
    ],
    "index_only": false,
@@ -133794,7 +134483,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:204",
+     "rid": "ig6qlxqxoxvcxla:226",
      "source": "ig6qlxqxoxvcxla",
      "label": "Poldark",
      "identifiers": [],
@@ -133917,7 +134606,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:204": {
+    "ig6qlxqxoxvcxla:226": {
      "title": "Poldark",
      "category": "Wife with children pregnant by another man",
      "group": "Secret affair pregnancy",
@@ -134237,7 +134926,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:776",
     "ig6qlxqxoxvcxla:38",
-    "ig6qlxqxoxvcxla:206",
+    "ig6qlxqxoxvcxla:228",
     "mom-pregnancy:22"
    ],
    "index_only": false,
@@ -134312,7 +135001,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:206",
+     "rid": "ig6qlxqxoxvcxla:228",
      "source": "ig6qlxqxoxvcxla",
      "label": "A Million Little Things",
      "identifiers": [],
@@ -134425,7 +135114,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:206": {
+    "ig6qlxqxoxvcxla:228": {
      "title": "A Million Little Things",
      "category": "Wife with children pregnant by another man",
      "group": "Secret affair pregnancy",
@@ -134506,7 +135195,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:777",
     "ig6qlxqxoxvcxla:39",
-    "ig6qlxqxoxvcxla:207",
+    "ig6qlxqxoxvcxla:229",
     "mom-pregnancy:23"
    ],
    "index_only": false,
@@ -134581,7 +135270,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:207",
+     "rid": "ig6qlxqxoxvcxla:229",
      "source": "ig6qlxqxoxvcxla",
      "label": "Coronation Street — Abi",
      "identifiers": [
@@ -134696,7 +135385,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:207": {
+    "ig6qlxqxoxvcxla:229": {
      "title": "Coronation Street — Abi",
      "category": "Wife with children pregnant by another man",
      "group": "Secret affair pregnancy",
@@ -135498,7 +136187,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:782",
-    "ig6qlxqxoxvcxla:211",
+    "ig6qlxqxoxvcxla:233",
     "mom-pregnancy:27"
    ],
    "index_only": false,
@@ -135539,7 +136228,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:211",
+     "rid": "ig6qlxqxoxvcxla:233",
      "source": "ig6qlxqxoxvcxla",
      "label": "Caer en tentación",
      "identifiers": [],
@@ -135625,7 +136314,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:211": {
+    "ig6qlxqxoxvcxla:233": {
      "title": "Caer en tentación",
      "category": "Wife with children pregnant by another man",
      "group": "Secret affair pregnancy",
@@ -135703,7 +136392,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:783",
-    "ig6qlxqxoxvcxla:212",
+    "ig6qlxqxoxvcxla:234",
     "mom-pregnancy:28"
    ],
    "index_only": false,
@@ -135744,7 +136433,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:212",
+     "rid": "ig6qlxqxoxvcxla:234",
      "source": "ig6qlxqxoxvcxla",
      "label": "Barriga de Aluguel",
      "identifiers": [],
@@ -135830,7 +136519,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:212": {
+    "ig6qlxqxoxvcxla:234": {
      "title": "Barriga de Aluguel",
      "category": "Wife with children pregnant by another man",
      "group": "Secret affair pregnancy",
@@ -135909,7 +136598,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:784",
-    "ig6qlxqxoxvcxla:213",
+    "ig6qlxqxoxvcxla:235",
     "mom-pregnancy:29"
    ],
    "index_only": false,
@@ -135949,7 +136638,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:213",
+     "rid": "ig6qlxqxoxvcxla:235",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Thorn Birds",
      "identifiers": [],
@@ -136035,7 +136724,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:213": {
+    "ig6qlxqxoxvcxla:235": {
      "title": "The Thorn Birds",
      "category": "Wife with children pregnant by another man",
      "group": "Secret affair pregnancy",
@@ -136113,7 +136802,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:785",
-    "ig6qlxqxoxvcxla:214",
+    "ig6qlxqxoxvcxla:236",
     "mom-pregnancy:30"
    ],
    "index_only": false,
@@ -136154,7 +136843,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:214",
+     "rid": "ig6qlxqxoxvcxla:236",
      "source": "ig6qlxqxoxvcxla",
      "label": "Medcezir",
      "identifiers": [],
@@ -136239,7 +136928,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:214": {
+    "ig6qlxqxoxvcxla:236": {
      "title": "Medcezir",
      "category": "Wife with children pregnant by another man",
      "group": "Secret affair pregnancy",
@@ -136306,7 +136995,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:786",
-    "ig6qlxqxoxvcxla:215"
+    "ig6qlxqxoxvcxla:237"
    ],
    "index_only": false,
    "local_only": false,
@@ -136345,7 +137034,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:215",
+     "rid": "ig6qlxqxoxvcxla:237",
      "source": "ig6qlxqxoxvcxla",
      "label": "A Good Lawyer’s Wife",
      "identifiers": [],
@@ -136393,7 +137082,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:215": {
+    "ig6qlxqxoxvcxla:237": {
      "title": "A Good Lawyer’s Wife",
      "category": "Wife with children pregnant by another man",
      "group": "Secret affair pregnancy",
@@ -136459,7 +137148,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:787",
-    "ig6qlxqxoxvcxla:216",
+    "ig6qlxqxoxvcxla:238",
     "mom-pregnancy:31"
    ],
    "index_only": false,
@@ -136497,7 +137186,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:216",
+     "rid": "ig6qlxqxoxvcxla:238",
      "source": "ig6qlxqxoxvcxla",
      "label": "Empresses in the Palace",
      "identifiers": [],
@@ -136597,7 +137286,7 @@ window.CATALOG = {
      "ppgProv": "Worldwide ten-vector sweep · 1–2 Oct 2026 · Wikipedia",
      "ppgNote": "Uncertain: depicted intimacy (implied only per Chinese TV norms)."
     },
-    "ig6qlxqxoxvcxla:216": {
+    "ig6qlxqxoxvcxla:238": {
      "title": "Empresses in the Palace",
      "category": "Wife with children pregnant by another man",
      "group": "Secret affair pregnancy",
@@ -136695,7 +137384,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:788",
-    "ig6qlxqxoxvcxla:217",
+    "ig6qlxqxoxvcxla:239",
     "india-catalog:156",
     "mom-pregnancy:32"
    ],
@@ -136744,7 +137433,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:217",
+     "rid": "ig6qlxqxoxvcxla:239",
      "source": "ig6qlxqxoxvcxla",
      "label": "Ore Kadal",
      "identifiers": [],
@@ -136859,7 +137548,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:217": {
+    "ig6qlxqxoxvcxla:239": {
      "title": "Ore Kadal",
      "category": "Wife with children pregnant by another man",
      "group": "Secret affair pregnancy",
@@ -136952,7 +137641,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:789",
-    "ig6qlxqxoxvcxla:218",
+    "ig6qlxqxoxvcxla:240",
     "mom-pregnancy:33"
    ],
    "index_only": false,
@@ -136992,7 +137681,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:218",
+     "rid": "ig6qlxqxoxvcxla:240",
      "source": "ig6qlxqxoxvcxla",
      "label": "Tempting Fate (2019)",
      "identifiers": [
@@ -137080,7 +137769,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:218": {
+    "ig6qlxqxoxvcxla:240": {
      "title": "Tempting Fate (2019)",
      "category": "Wife with children pregnant by another man",
      "group": "Affair revealed",
@@ -137155,7 +137844,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:790",
-    "ig6qlxqxoxvcxla:219",
+    "ig6qlxqxoxvcxla:241",
     "mom-pregnancy:34"
    ],
    "index_only": false,
@@ -137192,7 +137881,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:219",
+     "rid": "ig6qlxqxoxvcxla:241",
      "source": "ig6qlxqxoxvcxla",
      "label": "Coronation Street — Sarah",
      "identifiers": [
@@ -137276,7 +137965,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:219": {
+    "ig6qlxqxoxvcxla:241": {
      "title": "Coronation Street — Sarah",
      "category": "Wife with children pregnant by another man",
      "group": "Affair revealed",
@@ -137355,7 +138044,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:791",
-    "ig6qlxqxoxvcxla:220",
+    "ig6qlxqxoxvcxla:242",
     "mom-pregnancy:35"
    ],
    "index_only": false,
@@ -137395,7 +138084,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:220",
+     "rid": "ig6qlxqxoxvcxla:242",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Duchess (2008)",
      "identifiers": [
@@ -137483,7 +138172,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:220": {
+    "ig6qlxqxoxvcxla:242": {
      "title": "The Duchess (2008)",
      "category": "Wife with children pregnant by another man",
      "group": "Affair revealed",
@@ -137576,7 +138265,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:792",
-    "ig6qlxqxoxvcxla:221",
+    "ig6qlxqxoxvcxla:243",
     "mom-pregnancy:36"
    ],
    "index_only": false,
@@ -137613,7 +138302,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:221",
+     "rid": "ig6qlxqxoxvcxla:243",
      "source": "ig6qlxqxoxvcxla",
      "label": "Anna Karenina (1985)",
      "identifiers": [
@@ -137698,7 +138387,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:221": {
+    "ig6qlxqxoxvcxla:243": {
      "title": "Anna Karenina (1985)",
      "category": "Wife with children pregnant by another man",
      "group": "Affair revealed",
@@ -137777,7 +138466,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:793",
-    "ig6qlxqxoxvcxla:222",
+    "ig6qlxqxoxvcxla:244",
     "mom-pregnancy:37"
    ],
    "index_only": false,
@@ -137818,7 +138507,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:222",
+     "rid": "ig6qlxqxoxvcxla:244",
      "source": "ig6qlxqxoxvcxla",
      "label": "In Love We Trust (2007)",
      "identifiers": [
@@ -137935,7 +138624,7 @@ window.CATALOG = {
      "married_note": "she stays married to Lao Xie",
      "evidence": "2 sources on the card (Yangcheng Evening News, YesAsia)"
     },
-    "ig6qlxqxoxvcxla:222": {
+    "ig6qlxqxoxvcxla:244": {
      "title": "In Love We Trust (2007)",
      "category": "Wife with children pregnant by another man",
      "group": "Pregnant by ex-lover",
@@ -137945,7 +138634,7 @@ window.CATALOG = {
    },
    "source_conflict": "Merged with the duplicate 2007 index card. Zuo You was produced in 2007 and premiered at the Berlin Film Festival in February 2008",
    "retired_ids": [
-    2181
+    2190
    ],
    "absorbed_titles": [
     {
@@ -137998,7 +138687,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:794",
-    "ig6qlxqxoxvcxla:223",
+    "ig6qlxqxoxvcxla:245",
     "mom-pregnancy:38"
    ],
    "index_only": false,
@@ -138039,7 +138728,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:223",
+     "rid": "ig6qlxqxoxvcxla:245",
      "source": "ig6qlxqxoxvcxla",
      "label": "亲爱的小孩 / Dear Child (2022)",
      "identifiers": [
@@ -138129,7 +138818,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:223": {
+    "ig6qlxqxoxvcxla:245": {
      "title": "亲爱的小孩 / Dear Child (2022)",
      "category": "Wife with children pregnant by another man",
      "group": "Pregnant by ex-lover",
@@ -138203,7 +138892,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:795",
-    "ig6qlxqxoxvcxla:224",
+    "ig6qlxqxoxvcxla:246",
     "mom-pregnancy:39"
    ],
    "index_only": false,
@@ -138240,7 +138929,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:224",
+     "rid": "ig6qlxqxoxvcxla:246",
      "source": "ig6qlxqxoxvcxla",
      "label": "Gülcemal",
      "identifiers": [],
@@ -138322,7 +139011,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:224": {
+    "ig6qlxqxoxvcxla:246": {
      "title": "Gülcemal",
      "category": "Wife with children pregnant by another man",
      "group": "Pregnant by ex-lover",
@@ -138399,7 +139088,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:796",
-    "ig6qlxqxoxvcxla:225",
+    "ig6qlxqxoxvcxla:247",
     "mom-pregnancy:40"
    ],
    "index_only": false,
@@ -138440,7 +139129,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:225",
+     "rid": "ig6qlxqxoxvcxla:247",
      "source": "ig6qlxqxoxvcxla",
      "label": "Anna Karenina (1948)",
      "identifiers": [
@@ -138528,7 +139217,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:225": {
+    "ig6qlxqxoxvcxla:247": {
      "title": "Anna Karenina (1948)",
      "category": "Wife with children pregnant by another man",
      "group": "Wife leaves husband",
@@ -138606,7 +139295,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:797",
-    "ig6qlxqxoxvcxla:226",
+    "ig6qlxqxoxvcxla:248",
     "mom-pregnancy:41"
    ],
    "index_only": false,
@@ -138647,7 +139336,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:226",
+     "rid": "ig6qlxqxoxvcxla:248",
      "source": "ig6qlxqxoxvcxla",
      "label": "Anna Karenina (1997)",
      "identifiers": [
@@ -138735,7 +139424,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:226": {
+    "ig6qlxqxoxvcxla:248": {
      "title": "Anna Karenina (1997)",
      "category": "Wife with children pregnant by another man",
      "group": "Wife leaves husband",
@@ -138814,7 +139503,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:798",
-    "ig6qlxqxoxvcxla:227",
+    "ig6qlxqxoxvcxla:249",
     "mom-pregnancy:42"
    ],
    "index_only": false,
@@ -138855,7 +139544,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:227",
+     "rid": "ig6qlxqxoxvcxla:249",
      "source": "ig6qlxqxoxvcxla",
      "label": "Anna Karenina (2012)",
      "identifiers": [
@@ -138944,7 +139633,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:227": {
+    "ig6qlxqxoxvcxla:249": {
      "title": "Anna Karenina (2012)",
      "category": "Wife with children pregnant by another man",
      "group": "Wife leaves husband",
@@ -139024,7 +139713,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:799",
-    "ig6qlxqxoxvcxla:228",
+    "ig6qlxqxoxvcxla:250",
     "mom-pregnancy:43"
    ],
    "index_only": false,
@@ -139065,7 +139754,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:228",
+     "rid": "ig6qlxqxoxvcxla:250",
      "source": "ig6qlxqxoxvcxla",
      "label": "Anna Karenina (2013)",
      "identifiers": [
@@ -139154,7 +139843,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:228": {
+    "ig6qlxqxoxvcxla:250": {
      "title": "Anna Karenina (2013)",
      "category": "Wife with children pregnant by another man",
      "group": "Wife leaves husband",
@@ -139233,7 +139922,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:800",
-    "ig6qlxqxoxvcxla:229",
+    "ig6qlxqxoxvcxla:251",
     "mom-pregnancy:44"
    ],
    "index_only": false,
@@ -139274,7 +139963,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:229",
+     "rid": "ig6qlxqxoxvcxla:251",
      "source": "ig6qlxqxoxvcxla",
      "label": "Amores verdaderos",
      "identifiers": [],
@@ -139361,7 +140050,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:229": {
+    "ig6qlxqxoxvcxla:251": {
      "title": "Amores verdaderos",
      "category": "Wife with children pregnant by another man",
      "group": "Wife leaves husband",
@@ -139444,7 +140133,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:801",
-    "ig6qlxqxoxvcxla:230",
+    "ig6qlxqxoxvcxla:252",
     "mom-pregnancy:45"
    ],
    "index_only": false,
@@ -139489,7 +140178,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:230",
+     "rid": "ig6qlxqxoxvcxla:252",
      "source": "ig6qlxqxoxvcxla",
      "label": "House of the Dragon season 1",
      "identifiers": [
@@ -139582,7 +140271,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:230": {
+    "ig6qlxqxoxvcxla:252": {
      "title": "House of the Dragon season 1",
      "category": "Wife with children pregnant by another man",
      "group": "Husband-aware / open-secret",
@@ -139661,7 +140350,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:802",
-    "ig6qlxqxoxvcxla:231",
+    "ig6qlxqxoxvcxla:253",
     "mom-pregnancy:46"
    ],
    "index_only": false,
@@ -139701,7 +140390,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:231",
+     "rid": "ig6qlxqxoxvcxla:253",
      "source": "ig6qlxqxoxvcxla",
      "label": "Jules et Jim (1962)",
      "identifiers": [
@@ -139789,7 +140478,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:231": {
+    "ig6qlxqxoxvcxla:253": {
      "title": "Jules et Jim (1962)",
      "category": "Wife with children pregnant by another man",
      "group": "Husband-aware / open-secret",
@@ -139889,7 +140578,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:803",
-    "ig6qlxqxoxvcxla:232",
+    "ig6qlxqxoxvcxla:254",
     "worldwide-hypnosis:60",
     "mom-pregnancy:47"
    ],
@@ -139934,7 +140623,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:232",
+     "rid": "ig6qlxqxoxvcxla:254",
      "source": "ig6qlxqxoxvcxla",
      "label": "Amor en custodia",
      "identifiers": [],
@@ -140055,7 +140744,7 @@ window.CATALOG = {
      ],
      "pregnancy_outcome": "gives birth (twins in the Argentine version)"
     },
-    "ig6qlxqxoxvcxla:232": {
+    "ig6qlxqxoxvcxla:254": {
      "title": "Amor en custodia",
      "category": "Wife with children pregnant by another man",
      "group": "Medium-confidence lead",
@@ -140179,9 +140868,9 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:804",
     "ig6qlxqxoxvcxla:24",
-    "ig6qlxqxoxvcxla:181",
-    "ig6qlxqxoxvcxla:524",
-    "ig6qlxqxoxvcxla:575",
+    "ig6qlxqxoxvcxla:203",
+    "ig6qlxqxoxvcxla:548",
+    "ig6qlxqxoxvcxla:599",
     "occult-pregnancy-nearmiss:1",
     "hypnosis-assault:25"
    ],
@@ -140277,7 +140966,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:181",
+     "rid": "ig6qlxqxoxvcxla:203",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Dunwich Horror (1970)",
      "identifiers": [
@@ -140301,7 +140990,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:524",
+     "rid": "ig6qlxqxoxvcxla:548",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Dunwich Horror (1970)",
      "identifiers": [
@@ -140325,7 +141014,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:575",
+     "rid": "ig6qlxqxoxvcxla:599",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Dunwich Horror (1970)",
      "identifiers": [
@@ -140512,21 +141201,21 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:181": {
+    "ig6qlxqxoxvcxla:203": {
      "title": "The Dunwich Horror (1970)",
      "category": "Pregnant woman controlled — adult context & rating evidence",
      "group": "Core literal-hypnosis matches",
      "confidence": "Core match",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:524": {
+    "ig6qlxqxoxvcxla:548": {
      "title": "The Dunwich Horror (1970)",
      "category": "Human-villain control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:575": {
+    "ig6qlxqxoxvcxla:599": {
      "title": "The Dunwich Horror (1970)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
@@ -140696,9 +141385,9 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:805",
     "ig6qlxqxoxvcxla:25",
-    "ig6qlxqxoxvcxla:182",
-    "ig6qlxqxoxvcxla:525",
-    "ig6qlxqxoxvcxla:660",
+    "ig6qlxqxoxvcxla:204",
+    "ig6qlxqxoxvcxla:549",
+    "ig6qlxqxoxvcxla:684",
     "worldwide-hypnosis:1041"
    ],
    "index_only": false,
@@ -140782,7 +141471,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:182",
+     "rid": "ig6qlxqxoxvcxla:204",
      "source": "ig6qlxqxoxvcxla",
      "label": "Ultrasound (2021)",
      "identifiers": [
@@ -140806,7 +141495,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:525",
+     "rid": "ig6qlxqxoxvcxla:549",
      "source": "ig6qlxqxoxvcxla",
      "label": "Ultrasound (2021)",
      "identifiers": [
@@ -140830,7 +141519,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:660",
+     "rid": "ig6qlxqxoxvcxla:684",
      "source": "ig6qlxqxoxvcxla",
      "label": "Ultrasound (2021)",
      "identifiers": [
@@ -140996,21 +141685,21 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:182": {
+    "ig6qlxqxoxvcxla:204": {
      "title": "Ultrasound (2021)",
      "category": "Pregnant woman controlled — adult context & rating evidence",
      "group": "Core literal-hypnosis matches",
      "confidence": "Core match",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:525": {
+    "ig6qlxqxoxvcxla:549": {
      "title": "Ultrasound (2021)",
      "category": "Human-villain control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:660": {
+    "ig6qlxqxoxvcxla:684": {
      "title": "Ultrasound (2021)",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
@@ -141161,8 +141850,8 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:806",
     "ig6qlxqxoxvcxla:27",
-    "ig6qlxqxoxvcxla:184",
-    "ig6qlxqxoxvcxla:654",
+    "ig6qlxqxoxvcxla:206",
+    "ig6qlxqxoxvcxla:678",
     "worldwide-hypnosis:820",
     "hypnosis-assault-loose:20"
    ],
@@ -141263,7 +141952,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:184",
+     "rid": "ig6qlxqxoxvcxla:206",
      "source": "ig6qlxqxoxvcxla",
      "label": "Stargate SG-1 “Secrets” (1998)",
      "identifiers": [
@@ -141288,7 +141977,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:654",
+     "rid": "ig6qlxqxoxvcxla:678",
      "source": "ig6qlxqxoxvcxla",
      "label": "Stargate SG-1 “Secrets” (1998)",
      "identifiers": [
@@ -141516,14 +142205,14 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:184": {
+    "ig6qlxqxoxvcxla:206": {
      "title": "Stargate SG-1 “Secrets” (1998)",
      "category": "Pregnant woman controlled — adult context & rating evidence",
      "group": "Broader variants — alien / sci-fi parasitic",
      "confidence": "Variant",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:654": {
+    "ig6qlxqxoxvcxla:678": {
      "title": "Stargate SG-1 “Secrets” (1998)",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
@@ -141718,9 +142407,9 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:807",
     "ig6qlxqxoxvcxla:26",
-    "ig6qlxqxoxvcxla:183",
-    "ig6qlxqxoxvcxla:576",
-    "ig6qlxqxoxvcxla:695",
+    "ig6qlxqxoxvcxla:205",
+    "ig6qlxqxoxvcxla:600",
+    "ig6qlxqxoxvcxla:719",
     "hypnosis-assault-loose:21"
    ],
    "index_only": false,
@@ -141806,7 +142495,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:183",
+     "rid": "ig6qlxqxoxvcxla:205",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Antichrist (1974)",
      "identifiers": [
@@ -141830,7 +142519,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:576",
+     "rid": "ig6qlxqxoxvcxla:600",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Antichrist / L’anticristo (1974)",
      "identifiers": [
@@ -141855,7 +142544,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:695",
+     "rid": "ig6qlxqxoxvcxla:719",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Antichrist / L’anticristo (1974)",
      "identifiers": [
@@ -142019,21 +142708,21 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:183": {
+    "ig6qlxqxoxvcxla:205": {
      "title": "The Antichrist (1974)",
      "category": "Pregnant woman controlled — adult context & rating evidence",
      "group": "Core literal-hypnosis matches",
      "confidence": "Core match",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:576": {
+    "ig6qlxqxoxvcxla:600": {
      "title": "The Antichrist / L’anticristo (1974)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:695": {
+    "ig6qlxqxoxvcxla:719": {
      "title": "The Antichrist / L’anticristo (1974)",
      "category": "Medical / therapeutic hypnosis",
      "group": "Catalog records",
@@ -142140,8 +142829,8 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:808",
     "ig6qlxqxoxvcxla:28",
-    "ig6qlxqxoxvcxla:185",
-    "ig6qlxqxoxvcxla:577"
+    "ig6qlxqxoxvcxla:207",
+    "ig6qlxqxoxvcxla:601"
    ],
    "index_only": false,
    "local_only": false,
@@ -142222,7 +142911,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:185",
+     "rid": "ig6qlxqxoxvcxla:207",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Devil’s Doorway (2018)",
      "identifiers": [
@@ -142246,7 +142935,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:577",
+     "rid": "ig6qlxqxoxvcxla:601",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Devil’s Doorway (2018)",
      "identifiers": [
@@ -142332,14 +143021,14 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:185": {
+    "ig6qlxqxoxvcxla:207": {
      "title": "The Devil’s Doorway (2018)",
      "category": "Pregnant woman controlled — adult context & rating evidence",
      "group": "Direct demonic possession",
      "confidence": "Variant",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:577": {
+    "ig6qlxqxoxvcxla:601": {
      "title": "The Devil’s Doorway (2018)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
@@ -142393,7 +143082,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:809",
     "ig6qlxqxoxvcxla:29",
-    "ig6qlxqxoxvcxla:186"
+    "ig6qlxqxoxvcxla:208"
    ],
    "index_only": false,
    "local_only": false,
@@ -142466,7 +143155,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:186",
+     "rid": "ig6qlxqxoxvcxla:208",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Exorcist’s Meter (2017)",
      "identifiers": [
@@ -142545,7 +143234,7 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:186": {
+    "ig6qlxqxoxvcxla:208": {
      "title": "The Exorcist’s Meter (2017)",
      "category": "Pregnant woman controlled — adult context & rating evidence",
      "group": "Spirit / ghost / djinn / black-magic",
@@ -142595,8 +143284,8 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:810",
     "ig6qlxqxoxvcxla:30",
-    "ig6qlxqxoxvcxla:187",
-    "ig6qlxqxoxvcxla:642"
+    "ig6qlxqxoxvcxla:209",
+    "ig6qlxqxoxvcxla:666"
    ],
    "index_only": false,
    "local_only": false,
@@ -142678,7 +143367,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:187",
+     "rid": "ig6qlxqxoxvcxla:209",
      "source": "ig6qlxqxoxvcxla",
      "label": "Seeding of a Ghost (1983)",
      "identifiers": [
@@ -142703,7 +143392,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:642",
+     "rid": "ig6qlxqxoxvcxla:666",
      "source": "ig6qlxqxoxvcxla",
      "label": "種鬼 / Seeding of a Ghost (1983 Hong Kong)",
      "identifiers": [
@@ -142792,14 +143481,14 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:187": {
+    "ig6qlxqxoxvcxla:209": {
      "title": "Seeding of a Ghost (1983)",
      "category": "Pregnant woman controlled — adult context & rating evidence",
      "group": "Spirit / ghost / djinn / black-magic",
      "confidence": "Variant",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:642": {
+    "ig6qlxqxoxvcxla:666": {
      "title": "種鬼 / Seeding of a Ghost (1983 Hong Kong)",
      "category": "Tantrik / black-magic control",
      "group": "Catalog records",
@@ -142854,9 +143543,9 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:811",
-    "ig6qlxqxoxvcxla:188",
-    "ig6qlxqxoxvcxla:899",
-    "ig6qlxqxoxvcxla:908",
+    "ig6qlxqxoxvcxla:210",
+    "ig6qlxqxoxvcxla:923",
+    "ig6qlxqxoxvcxla:932",
     "india-catalog:150"
    ],
    "index_only": false,
@@ -142908,7 +143597,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:188",
+     "rid": "ig6qlxqxoxvcxla:210",
      "source": "ig6qlxqxoxvcxla",
      "label": "Kavach… Mahashivratri / Kavach 2 (2019)",
      "identifiers": [
@@ -142932,7 +143621,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:899",
+     "rid": "ig6qlxqxoxvcxla:923",
      "source": "ig6qlxqxoxvcxla",
      "label": "Kavach… Mahashivratri / Kavach 2 (2019)",
      "identifiers": [
@@ -142956,7 +143645,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:908",
+     "rid": "ig6qlxqxoxvcxla:932",
      "source": "ig6qlxqxoxvcxla",
      "label": "Kavach… Mahashivratri / Kavach 2",
      "identifiers": [],
@@ -143038,21 +143727,21 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:188": {
+    "ig6qlxqxoxvcxla:210": {
      "title": "Kavach… Mahashivratri / Kavach 2 (2019)",
      "category": "Pregnant woman controlled — adult context & rating evidence",
      "group": "Spirit / ghost / djinn / black-magic",
      "confidence": "Variant",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:899": {
+    "ig6qlxqxoxvcxla:923": {
      "title": "Kavach… Mahashivratri / Kavach 2 (2019)",
      "category": "Pregnant women hypnotized / mind-controlled — India",
      "group": "Close variant — hypnosis causes pregnancy",
      "confidence": "Close / provisional",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:908": {
+    "ig6qlxqxoxvcxla:932": {
      "title": "Kavach… Mahashivratri / Kavach 2",
      "category": "Pregnant women controlled — India & Indonesia",
      "group": "India television & soaps",
@@ -143115,8 +143804,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:813",
-    "ig6qlxqxoxvcxla:189",
-    "ig6qlxqxoxvcxla:643"
+    "ig6qlxqxoxvcxla:211",
+    "ig6qlxqxoxvcxla:667"
    ],
    "index_only": false,
    "local_only": false,
@@ -143161,7 +143850,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:189",
+     "rid": "ig6qlxqxoxvcxla:211",
      "source": "ig6qlxqxoxvcxla",
      "label": "Dabbetü’l-Arz: Kıyamet (2023)",
      "identifiers": [
@@ -143185,7 +143874,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:643",
+     "rid": "ig6qlxqxoxvcxla:667",
      "source": "ig6qlxqxoxvcxla",
      "label": "Dabbetü’l-Arz: Kıyamet (2023 Turkey)",
      "identifiers": [
@@ -143242,14 +143931,14 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:189": {
+    "ig6qlxqxoxvcxla:211": {
      "title": "Dabbetü’l-Arz: Kıyamet (2023)",
      "category": "Pregnant woman controlled — adult context & rating evidence",
      "group": "Spirit / ghost / djinn / black-magic",
      "confidence": "Variant",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:643": {
+    "ig6qlxqxoxvcxla:667": {
      "title": "Dabbetü’l-Arz: Kıyamet (2023 Turkey)",
      "category": "Tantrik / black-magic control",
      "group": "Catalog records",
@@ -143297,7 +143986,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:814",
-    "ig6qlxqxoxvcxla:190"
+    "ig6qlxqxoxvcxla:212"
    ],
    "index_only": false,
    "local_only": false,
@@ -143342,7 +144031,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:190",
+     "rid": "ig6qlxqxoxvcxla:212",
      "source": "ig6qlxqxoxvcxla",
      "label": "Gece Gelen: Cin Bebek (2020)",
      "identifiers": [
@@ -143398,7 +144087,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:190": {
+    "ig6qlxqxoxvcxla:212": {
      "title": "Gece Gelen: Cin Bebek (2020)",
      "category": "Pregnant woman controlled — adult context & rating evidence",
      "group": "Spirit / ghost / djinn / black-magic",
@@ -143442,7 +144131,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:815",
-    "ig6qlxqxoxvcxla:193"
+    "ig6qlxqxoxvcxla:215"
    ],
    "index_only": false,
    "local_only": false,
@@ -143483,7 +144172,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:193",
+     "rid": "ig6qlxqxoxvcxla:215",
      "source": "ig6qlxqxoxvcxla",
      "label": "Hell Girl: Two Mirrors episode 21",
      "identifiers": [
@@ -143535,7 +144224,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:193": {
+    "ig6qlxqxoxvcxla:215": {
      "title": "Hell Girl: Two Mirrors episode 21",
      "category": "Pregnant woman controlled — adult context & rating evidence",
      "group": "Provisional / implied leads",
@@ -143580,10 +144269,10 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:816",
-    "ig6qlxqxoxvcxla:191",
-    "ig6qlxqxoxvcxla:673",
-    "ig6qlxqxoxvcxla:795",
-    "ig6qlxqxoxvcxla:815"
+    "ig6qlxqxoxvcxla:213",
+    "ig6qlxqxoxvcxla:697",
+    "ig6qlxqxoxvcxla:819",
+    "ig6qlxqxoxvcxla:839"
    ],
    "index_only": false,
    "local_only": false,
@@ -143624,7 +144313,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:191",
+     "rid": "ig6qlxqxoxvcxla:213",
      "source": "ig6qlxqxoxvcxla",
      "label": "Mushishi episode 21",
      "identifiers": [
@@ -143648,7 +144337,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:673",
+     "rid": "ig6qlxqxoxvcxla:697",
      "source": "ig6qlxqxoxvcxla",
      "label": "Mushishi",
      "identifiers": [
@@ -143672,7 +144361,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:795",
+     "rid": "ig6qlxqxoxvcxla:819",
      "source": "ig6qlxqxoxvcxla",
      "label": "Mushishi (2006)",
      "identifiers": [
@@ -143697,7 +144386,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:815",
+     "rid": "ig6qlxqxoxvcxla:839",
      "source": "ig6qlxqxoxvcxla",
      "label": "Mushishi episode 21",
      "identifiers": [
@@ -143751,28 +144440,28 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:191": {
+    "ig6qlxqxoxvcxla:213": {
      "title": "Mushishi episode 21",
      "category": "Pregnant woman controlled — adult context & rating evidence",
      "group": "Fetal / unborn controller",
      "confidence": "Variant",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:673": {
+    "ig6qlxqxoxvcxla:697": {
      "title": "Mushishi",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:795": {
+    "ig6qlxqxoxvcxla:819": {
      "title": "Mushishi (2006)",
      "category": "Female character controlled by a child / teen",
      "group": "Unborn / fetal controllers",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:815": {
+    "ig6qlxqxoxvcxla:839": {
      "title": "Mushishi episode 21",
      "category": "Pregnant woman controlled by a fetus, ghost child or alien child",
      "group": "Agentic unborn / fetal / alien controllers",
@@ -143825,9 +144514,9 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:817",
-    "ig6qlxqxoxvcxla:578",
-    "ig6qlxqxoxvcxla:674",
-    "ig6qlxqxoxvcxla:824"
+    "ig6qlxqxoxvcxla:602",
+    "ig6qlxqxoxvcxla:698",
+    "ig6qlxqxoxvcxla:848"
    ],
    "index_only": false,
    "local_only": false,
@@ -143875,7 +144564,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:578",
+     "rid": "ig6qlxqxoxvcxla:602",
      "source": "ig6qlxqxoxvcxla",
      "label": "Uzumaki episode 3 (2024 anime)",
      "identifiers": [
@@ -143900,7 +144589,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:674",
+     "rid": "ig6qlxqxoxvcxla:698",
      "source": "ig6qlxqxoxvcxla",
      "label": "Uzumaki (2024 anime)",
      "identifiers": [
@@ -143925,7 +144614,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:824",
+     "rid": "ig6qlxqxoxvcxla:848",
      "source": "ig6qlxqxoxvcxla",
      "label": "Uzumaki episode 3 (2024)",
      "identifiers": [
@@ -144010,21 +144699,21 @@ window.CATALOG = {
      "strictCh": "Pregnant patients at Kurouzu Hospital, including Keiko",
      "strictProv": "The research report treated this as a membership grant, but the catalog contained only the separate 2000 film; the 2024 episode is therefore retained as its own record."
     },
-    "ig6qlxqxoxvcxla:578": {
+    "ig6qlxqxoxvcxla:602": {
      "title": "Uzumaki episode 3 (2024 anime)",
      "category": "Demonic / occult control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:674": {
+    "ig6qlxqxoxvcxla:698": {
      "title": "Uzumaki (2024 anime)",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:824": {
+    "ig6qlxqxoxvcxla:848": {
      "title": "Uzumaki episode 3 (2024)",
      "category": "Pregnant woman hypnotized / mind-controlled",
      "group": "Supernatural occult trance",
@@ -144072,8 +144761,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:818",
-    "ig6qlxqxoxvcxla:826",
-    "ig6qlxqxoxvcxla:891"
+    "ig6qlxqxoxvcxla:850",
+    "ig6qlxqxoxvcxla:915"
    ],
    "index_only": false,
    "local_only": false,
@@ -144116,7 +144805,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:826",
+     "rid": "ig6qlxqxoxvcxla:850",
      "source": "ig6qlxqxoxvcxla",
      "label": "Alem-i Cin 4 (2023)",
      "identifiers": [
@@ -144140,7 +144829,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:891",
+     "rid": "ig6qlxqxoxvcxla:915",
      "source": "ig6qlxqxoxvcxla",
      "label": "Alem-i Cin 4 (2023)",
      "identifiers": [
@@ -144216,14 +144905,14 @@ window.CATALOG = {
      "variantCh": "İrem (Merve Özel)",
      "variantProv": "Round-2 super-deep worldwide sweep completed 1 Oct 2026 across seven regional vectors; no net-new strict-core title was verified. Adult / R-rated / erotic plot indexes were included, with remaining access and documentation gaps stated in the catalog notes."
     },
-    "ig6qlxqxoxvcxla:826": {
+    "ig6qlxqxoxvcxla:850": {
      "title": "Alem-i Cin 4 (2023)",
      "category": "Pregnant woman hypnotized / mind-controlled",
      "group": "Close variants",
      "confidence": "Variant",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:891": {
+    "ig6qlxqxoxvcxla:915": {
      "title": "Alem-i Cin 4 (2023)",
      "category": "Pregnant women controlled / possessed by evil forces",
      "group": "Medium-confidence close variants",
@@ -144266,7 +144955,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:819",
-    "ig6qlxqxoxvcxla:827"
+    "ig6qlxqxoxvcxla:851"
    ],
    "index_only": false,
    "local_only": false,
@@ -144304,7 +144993,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:827",
+     "rid": "ig6qlxqxoxvcxla:851",
      "source": "ig6qlxqxoxvcxla",
      "label": "Anything for Jackson (2020)",
      "identifiers": [
@@ -144370,7 +145059,7 @@ window.CATALOG = {
      "variantCh": "Shannon Becker",
      "variantProv": "Worldwide multilingual indexed sweep completed 30 Sep 2026; adult-video plot-index follow-up found no net-new verified narrative title."
     },
-    "ig6qlxqxoxvcxla:827": {
+    "ig6qlxqxoxvcxla:851": {
      "title": "Anything for Jackson (2020)",
      "category": "Pregnant woman hypnotized / mind-controlled",
      "group": "Close variants",
@@ -144562,8 +145251,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:821",
-    "ig6qlxqxoxvcxla:302",
-    "ig6qlxqxoxvcxla:829",
+    "ig6qlxqxoxvcxla:325",
+    "ig6qlxqxoxvcxla:853",
     "worldwide-hypnosis:218"
    ],
    "index_only": false,
@@ -144613,7 +145302,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:302",
+     "rid": "ig6qlxqxoxvcxla:325",
      "source": "ig6qlxqxoxvcxla",
      "label": "Conde Vrolok T1E61",
      "identifiers": [
@@ -144637,7 +145326,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:829",
+     "rid": "ig6qlxqxoxvcxla:853",
      "source": "ig6qlxqxoxvcxla",
      "label": "Conde Vrolok T1E61",
      "identifiers": [
@@ -144770,14 +145459,14 @@ window.CATALOG = {
      "variantCh": "Emilia",
      "variantProv": "Worldwide multilingual indexed sweep completed 30 Sep 2026; adult-video plot-index follow-up found no net-new verified narrative title."
     },
-    "ig6qlxqxoxvcxla:302": {
+    "ig6qlxqxoxvcxla:325": {
      "title": "Conde Vrolok T1E61",
      "category": "Female controlled by husband / boyfriend / ex-partner",
      "group": "Unresolved leads",
      "confidence": "Lead",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:829": {
+    "ig6qlxqxoxvcxla:853": {
      "title": "Conde Vrolok T1E61",
      "category": "Pregnant woman hypnotized / mind-controlled",
      "group": "Unresolved leads",
@@ -144836,7 +145525,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:822",
-    "ig6qlxqxoxvcxla:831"
+    "ig6qlxqxoxvcxla:855"
    ],
    "index_only": false,
    "local_only": false,
@@ -144865,7 +145554,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:831",
+     "rid": "ig6qlxqxoxvcxla:855",
      "source": "ig6qlxqxoxvcxla",
      "label": "She Never Knew She Was In Love With A Demon Until She Became Pregnant For Her — Nollywood",
      "identifiers": [
@@ -144911,7 +145600,7 @@ window.CATALOG = {
      "variantSrc": [],
      "variantProv": "Single YouTube lead reported by the MENA and sub-Saharan Africa sweep; exact URL was not preserved in the coordinator report."
     },
-    "ig6qlxqxoxvcxla:831": {
+    "ig6qlxqxoxvcxla:855": {
      "title": "She Never Knew She Was In Love With A Demon Until She Became Pregnant For Her — Nollywood",
      "category": "Pregnant woman hypnotized / mind-controlled",
      "group": "Unresolved leads",
@@ -144949,7 +145638,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:823",
-    "ig6qlxqxoxvcxla:303"
+    "ig6qlxqxoxvcxla:326"
    ],
    "index_only": false,
    "local_only": false,
@@ -144984,7 +145673,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:303",
+     "rid": "ig6qlxqxoxvcxla:326",
      "source": "ig6qlxqxoxvcxla",
      "label": "Petite Mort — excluded",
      "identifiers": [
@@ -145029,7 +145718,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:303": {
+    "ig6qlxqxoxvcxla:326": {
      "title": "Petite Mort — excluded",
      "category": "Female controlled by husband / boyfriend / ex-partner",
      "group": "Unresolved leads",
@@ -145075,8 +145764,8 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:824",
     "ig6qlxqxoxvcxla:55",
-    "ig6qlxqxoxvcxla:301",
-    "ig6qlxqxoxvcxla:305"
+    "ig6qlxqxoxvcxla:324",
+    "ig6qlxqxoxvcxla:328"
    ],
    "index_only": false,
    "local_only": false,
@@ -145150,7 +145839,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:301",
+     "rid": "ig6qlxqxoxvcxla:324",
      "source": "ig6qlxqxoxvcxla",
      "label": "Maalaala Mo Kaya “Gayuma”",
      "identifiers": [
@@ -145174,7 +145863,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:305",
+     "rid": "ig6qlxqxoxvcxla:328",
      "source": "ig6qlxqxoxvcxla",
      "label": "Maalaala Mo Kaya “Gayuma” (2012 Philippines)",
      "identifiers": [
@@ -145266,14 +145955,14 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:301": {
+    "ig6qlxqxoxvcxla:324": {
      "title": "Maalaala Mo Kaya “Gayuma”",
      "category": "Female controlled by husband / boyfriend / ex-partner",
      "group": "Partner-instigated / third-party variants",
      "confidence": "Variant",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:305": {
+    "ig6qlxqxoxvcxla:328": {
      "title": "Maalaala Mo Kaya “Gayuma” (2012 Philippines)",
      "category": "Partner hires a third-party controller",
      "group": "Regain love / stop leaving",
@@ -145351,8 +146040,8 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:825",
     "xla62ucxbx02u5:2053",
-    "ig6qlxqxoxvcxla:297",
-    "ig6qlxqxoxvcxla:312",
+    "ig6qlxqxoxvcxla:320",
+    "ig6qlxqxoxvcxla:335",
     "older-man-hypnosis:33",
     "hypno-intimacy:11",
     "hypnosis-assault:10"
@@ -145421,7 +146110,7 @@ window.CATALOG = {
      "distinct_story": true
     },
     {
-     "rid": "ig6qlxqxoxvcxla:297",
+     "rid": "ig6qlxqxoxvcxla:320",
      "source": "ig6qlxqxoxvcxla",
      "label": "Jacquette (1976)",
      "identifiers": [
@@ -145445,7 +146134,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:312",
+     "rid": "ig6qlxqxoxvcxla:335",
      "source": "ig6qlxqxoxvcxla",
      "label": "Jacquette",
      "identifiers": [],
@@ -145638,14 +146327,14 @@ window.CATALOG = {
      "prov": "Worldwide seven-vector sweep plus strict-scope supplement, 1 Oct 2026 · Single detailed IMDb synopsis cited by the sweep · production metadata unverified",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:297": {
+    "ig6qlxqxoxvcxla:320": {
      "title": "Jacquette (1976)",
      "category": "Female controlled by husband / boyfriend / ex-partner",
      "group": "Adult / erotic borderlines",
      "confidence": "Borderline",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:312": {
+    "ig6qlxqxoxvcxla:335": {
      "title": "Jacquette",
      "category": "Partner hires a third-party controller",
      "group": "Leads / variants",
@@ -145791,7 +146480,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:826",
-    "ig6qlxqxoxvcxla:304"
+    "ig6qlxqxoxvcxla:327"
    ],
    "index_only": false,
    "local_only": false,
@@ -145825,7 +146514,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:304",
+     "rid": "ig6qlxqxoxvcxla:327",
      "source": "ig6qlxqxoxvcxla",
      "label": "Hypnothesis",
      "identifiers": [],
@@ -145867,7 +146556,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "ig6qlxqxoxvcxla:304": {
+    "ig6qlxqxoxvcxla:327": {
      "title": "Hypnothesis",
      "category": "Female controlled by husband / boyfriend / ex-partner",
      "group": "Unresolved leads",
@@ -146206,8 +146895,8 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:831",
     "ig6qlxqxoxvcxla:56",
-    "ig6qlxqxoxvcxla:171",
-    "ig6qlxqxoxvcxla:306"
+    "ig6qlxqxoxvcxla:193",
+    "ig6qlxqxoxvcxla:329"
    ],
    "index_only": false,
    "local_only": false,
@@ -146270,7 +146959,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:171",
+     "rid": "ig6qlxqxoxvcxla:193",
      "source": "ig6qlxqxoxvcxla",
      "label": "While You Were Sleeping (2008 Korean short)",
      "identifiers": [
@@ -146295,7 +146984,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:306",
+     "rid": "ig6qlxqxoxvcxla:329",
      "source": "ig6qlxqxoxvcxla",
      "label": "While You Were Sleeping (2008 Korean short)",
      "identifiers": [
@@ -146361,14 +147050,14 @@ window.CATALOG = {
       ]
      }
     },
-    "ig6qlxqxoxvcxla:171": {
+    "ig6qlxqxoxvcxla:193": {
      "title": "While You Were Sleeping (2008 Korean short)",
      "category": "Hypnotized to love",
      "group": "Literal stage-style hypnosis",
      "confidence": "Cataloged",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:306": {
+    "ig6qlxqxoxvcxla:329": {
      "title": "While You Were Sleeping (2008 Korean short)",
      "category": "Partner hires a third-party controller",
      "group": "Change / cure behavior",
@@ -146563,7 +147252,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:834",
     "ig6qlxqxoxvcxla:81",
-    "ig6qlxqxoxvcxla:832"
+    "ig6qlxqxoxvcxla:856"
    ],
    "index_only": false,
    "local_only": false,
@@ -146616,7 +147305,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:832",
+     "rid": "ig6qlxqxoxvcxla:856",
      "source": "ig6qlxqxoxvcxla",
      "label": "Sumala (2024 Indonesia)",
      "identifiers": [
@@ -146674,7 +147363,7 @@ window.CATALOG = {
       "sources": []
      }
     },
-    "ig6qlxqxoxvcxla:832": {
+    "ig6qlxqxoxvcxla:856": {
      "title": "Sumala (2024 Indonesia)",
      "category": "Woman makes a deal with the devil / a demon to become pregnant / have a child",
      "group": "Knowing deal → pregnancy yes; feature films",
@@ -146708,8 +147397,8 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:835",
     "ig6qlxqxoxvcxla:82",
-    "ig6qlxqxoxvcxla:833",
-    "ig6qlxqxoxvcxla:834"
+    "ig6qlxqxoxvcxla:857",
+    "ig6qlxqxoxvcxla:858"
    ],
    "index_only": false,
    "local_only": false,
@@ -146764,7 +147453,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:833",
+     "rid": "ig6qlxqxoxvcxla:857",
      "source": "ig6qlxqxoxvcxla",
      "label": "Anak Perjanjian Syaitan (2019 Malaysia)",
      "identifiers": [
@@ -146789,7 +147478,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:834",
+     "rid": "ig6qlxqxoxvcxla:858",
      "source": "ig6qlxqxoxvcxla",
      "label": "Anak Perjanjian Syaitan sequel (2024 Malaysia)",
      "identifiers": [
@@ -146851,14 +147540,14 @@ window.CATALOG = {
       "sources": []
      }
     },
-    "ig6qlxqxoxvcxla:833": {
+    "ig6qlxqxoxvcxla:857": {
      "title": "Anak Perjanjian Syaitan (2019 Malaysia)",
      "category": "Woman makes a deal with the devil / a demon to become pregnant / have a child",
      "group": "Knowing deal → pregnancy yes; feature films",
      "confidence": "Core",
      "note": ""
     },
-    "ig6qlxqxoxvcxla:834": {
+    "ig6qlxqxoxvcxla:858": {
      "title": "Anak Perjanjian Syaitan sequel (2024 Malaysia)",
      "category": "Woman makes a deal with the devil / a demon to become pregnant / have a child",
      "group": "Knowing deal → pregnancy yes; feature films",
@@ -146892,7 +147581,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:836",
     "ig6qlxqxoxvcxla:83",
-    "ig6qlxqxoxvcxla:835"
+    "ig6qlxqxoxvcxla:859"
    ],
    "index_only": false,
    "local_only": false,
@@ -146945,7 +147634,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:835",
+     "rid": "ig6qlxqxoxvcxla:859",
      "source": "ig6qlxqxoxvcxla",
      "label": "Highway to the Grave (2002 Nigeria)",
      "identifiers": [
@@ -147005,7 +147694,7 @@ window.CATALOG = {
       "sources": []
      }
     },
-    "ig6qlxqxoxvcxla:835": {
+    "ig6qlxqxoxvcxla:859": {
      "title": "Highway to the Grave (2002 Nigeria)",
      "category": "Woman makes a deal with the devil / a demon to become pregnant / have a child",
      "group": "Knowing deal → pregnancy yes; feature films",
@@ -147039,7 +147728,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:837",
     "ig6qlxqxoxvcxla:87",
-    "ig6qlxqxoxvcxla:839"
+    "ig6qlxqxoxvcxla:863"
    ],
    "index_only": false,
    "local_only": false,
@@ -147093,7 +147782,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:839",
+     "rid": "ig6qlxqxoxvcxla:863",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Surrogate (2023 USA)",
      "identifiers": [
@@ -147153,7 +147842,7 @@ window.CATALOG = {
       "sources": []
      }
     },
-    "ig6qlxqxoxvcxla:839": {
+    "ig6qlxqxoxvcxla:863": {
      "title": "The Surrogate (2023 USA)",
      "category": "Woman makes a deal with the devil / a demon to become pregnant / have a child",
      "group": "Knowing deal; short; outcome ambiguous",
@@ -147187,7 +147876,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:838",
     "ig6qlxqxoxvcxla:88",
-    "ig6qlxqxoxvcxla:840"
+    "ig6qlxqxoxvcxla:864"
    ],
    "index_only": false,
    "local_only": false,
@@ -147242,7 +147931,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:840",
+     "rid": "ig6qlxqxoxvcxla:864",
      "source": "ig6qlxqxoxvcxla",
      "label": "AHS: Stories “BA’AL” (2021)",
      "identifiers": [
@@ -147304,7 +147993,7 @@ window.CATALOG = {
       "sources": []
      }
     },
-    "ig6qlxqxoxvcxla:840": {
+    "ig6qlxqxoxvcxla:864": {
      "title": "AHS: Stories “BA’AL” (2021)",
      "category": "Woman makes a deal with the devil / a demon to become pregnant / have a child",
      "group": "Unknowing / tricked fertility scheme → pregnancy yes",
@@ -147347,7 +148036,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:839",
     "ig6qlxqxoxvcxla:84",
-    "ig6qlxqxoxvcxla:836"
+    "ig6qlxqxoxvcxla:860"
    ],
    "index_only": false,
    "local_only": false,
@@ -147419,7 +148108,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:836",
+     "rid": "ig6qlxqxoxvcxla:860",
      "source": "ig6qlxqxoxvcxla",
      "label": "Pengabdi Setan / Satan’s Slaves (2017 Indonesia)",
      "identifiers": [
@@ -147496,7 +148185,7 @@ window.CATALOG = {
       "provenance": "Source basis: The English and Indonesian Wikipedia plot summaries cited in the 30 Sep 2026 worldwide sweep describe the fertility cult, Mawarni's inability to have children and Ian as the devil-incarnate last child."
      }
     },
-    "ig6qlxqxoxvcxla:836": {
+    "ig6qlxqxoxvcxla:860": {
      "title": "Pengabdi Setan / Satan’s Slaves (2017 Indonesia)",
      "category": "Woman makes a deal with the devil / a demon to become pregnant / have a child",
      "group": "Knowing deal → pregnancy yes; feature films",
@@ -147548,7 +148237,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:840",
     "ig6qlxqxoxvcxla:85",
-    "ig6qlxqxoxvcxla:837"
+    "ig6qlxqxoxvcxla:861"
    ],
    "index_only": false,
    "local_only": false,
@@ -147620,7 +148309,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:837",
+     "rid": "ig6qlxqxoxvcxla:861",
      "source": "ig6qlxqxoxvcxla",
      "label": "Soulful (2007 USA)",
      "identifiers": [
@@ -147700,7 +148389,7 @@ window.CATALOG = {
       "provenance": "Source basis: IMDb and the Philadelphia Film Office page cited in the 30 Sep 2026 worldwide sweep; a TMDB person-page result supplied supporting production metadata but no stable URL was preserved."
      }
     },
-    "ig6qlxqxoxvcxla:837": {
+    "ig6qlxqxoxvcxla:861": {
      "title": "Soulful (2007 USA)",
      "category": "Woman makes a deal with the devil / a demon to become pregnant / have a child",
      "group": "Knowing deal → pregnancy yes; feature films",
@@ -147739,7 +148428,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:841",
     "ig6qlxqxoxvcxla:86",
-    "ig6qlxqxoxvcxla:838"
+    "ig6qlxqxoxvcxla:862"
    ],
    "index_only": false,
    "local_only": false,
@@ -147803,7 +148492,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "ig6qlxqxoxvcxla:838",
+     "rid": "ig6qlxqxoxvcxla:862",
      "source": "ig6qlxqxoxvcxla",
      "label": "Exorcismo Negro (1974 Brazil)",
      "identifiers": [
@@ -147874,7 +148563,7 @@ window.CATALOG = {
       "provenance": "Source basis: Two independent Portuguese-language synopses cited in the 30 Sep 2026 sweep—Boca do Inferno and Cine Alerta—agree on the pact for pregnancy and the devil's-son marriage price; film identity is corroborated by Portuguese Wikipedia and Filmow."
      }
     },
-    "ig6qlxqxoxvcxla:838": {
+    "ig6qlxqxoxvcxla:862": {
      "title": "Exorcismo Negro (1974 Brazil)",
      "category": "Woman makes a deal with the devil / a demon to become pregnant / have a child",
      "group": "Knowing deal → pregnancy yes; feature films",
@@ -147922,7 +148611,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:842",
-    "ig6qlxqxoxvcxla:841"
+    "ig6qlxqxoxvcxla:865"
    ],
    "index_only": false,
    "local_only": false,
@@ -147964,7 +148653,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:841",
+     "rid": "ig6qlxqxoxvcxla:865",
      "source": "ig6qlxqxoxvcxla",
      "label": "Secta Sinestra / Bloody Sect (1982 Spain)",
      "identifiers": [
@@ -148020,7 +148709,7 @@ window.CATALOG = {
      ],
      "prov": "Horror DNA's Blu-ray review, the Vinegar Syndrome trailer description and MUBI synopsis cited in the 30 Sep 2026 adult / erotic sweep."
     },
-    "ig6qlxqxoxvcxla:841": {
+    "ig6qlxqxoxvcxla:865": {
      "title": "Secta Sinestra / Bloody Sect (1982 Spain)",
      "category": "Woman makes a deal with the devil / a demon to become pregnant / have a child",
      "group": "Unknowing / tricked fertility scheme → pregnancy yes",
@@ -148062,7 +148751,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:843",
-    "ig6qlxqxoxvcxla:843"
+    "ig6qlxqxoxvcxla:867"
    ],
    "index_only": false,
    "local_only": false,
@@ -148092,7 +148781,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:843",
+     "rid": "ig6qlxqxoxvcxla:867",
      "source": "ig6qlxqxoxvcxla",
      "label": "AHS: Coven “Boy Parts” (2013)",
      "identifiers": [
@@ -148135,7 +148824,7 @@ window.CATALOG = {
      "note": "The bargain is with a practitioner rather than the devil directly; Marie Laveau's power is devil-adjacent through her pact with Papa Legba. This is a failed-deal variant, not an unresolved plot claim, and is distinct from the catalog's Season 3, episode 10 entry.",
      "prov": "Plot sources cited in the 30 Sep 2026 worldwide sweep: Rewire News Group, ScreenCrush, TV Tropes, American Horror Story Wiki and GBReviews."
     },
-    "ig6qlxqxoxvcxla:843": {
+    "ig6qlxqxoxvcxla:867": {
      "title": "AHS: Coven “Boy Parts” (2013)",
      "category": "Woman makes a deal with the devil / a demon to become pregnant / have a child",
      "group": "Failed-deal variant & unresolved leads",
@@ -148173,7 +148862,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:844",
-    "ig6qlxqxoxvcxla:844"
+    "ig6qlxqxoxvcxla:868"
    ],
    "index_only": false,
    "local_only": false,
@@ -148208,7 +148897,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:844",
+     "rid": "ig6qlxqxoxvcxla:868",
      "source": "ig6qlxqxoxvcxla",
      "label": "Fidelium",
      "identifiers": [],
@@ -148254,7 +148943,7 @@ window.CATALOG = {
      ],
      "prov": "Single IMDb synopsis cited in the 30 Sep 2026 worldwide and adult / erotic sweeps; alternative IDs were indexed but not verified."
     },
-    "ig6qlxqxoxvcxla:844": {
+    "ig6qlxqxoxvcxla:868": {
      "title": "Fidelium",
      "category": "Woman makes a deal with the devil / a demon to become pregnant / have a child",
      "group": "Failed-deal variant & unresolved leads",
@@ -148287,7 +148976,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:845",
-    "ig6qlxqxoxvcxla:845"
+    "ig6qlxqxoxvcxla:869"
    ],
    "index_only": false,
    "local_only": false,
@@ -148317,7 +149006,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:845",
+     "rid": "ig6qlxqxoxvcxla:869",
      "source": "ig6qlxqxoxvcxla",
      "label": "GESTACIÓN trailer",
      "identifiers": [
@@ -148359,7 +149048,7 @@ window.CATALOG = {
      "note": "Only a trailer description was located; the full plot, pregnancy outcome, country and whether the counterparty is devil- or demon-coded remain unconfirmed.",
      "prov": "Single trailer description for an Ernesto Aguilar / Margen Cine–Artistic Films project, surfaced in the 30 Sep 2026 Latin America and Iberia sweep."
     },
-    "ig6qlxqxoxvcxla:845": {
+    "ig6qlxqxoxvcxla:869": {
      "title": "GESTACIÓN trailer",
      "category": "Woman makes a deal with the devil / a demon to become pregnant / have a child",
      "group": "Failed-deal variant & unresolved leads",
@@ -148398,7 +149087,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:846",
-    "ig6qlxqxoxvcxla:846",
+    "ig6qlxqxoxvcxla:870",
     "india-catalog:155"
    ],
    "index_only": false,
@@ -148433,7 +149122,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:846",
+     "rid": "ig6qlxqxoxvcxla:870",
      "source": "ig6qlxqxoxvcxla",
      "label": "Satan: The Dark — Tamil",
      "identifiers": [
@@ -148501,7 +149190,7 @@ window.CATALOG = {
      ],
      "prov": "Single Filmibeat synopsis cited in the 30 Sep 2026 South Asia sweep."
     },
-    "ig6qlxqxoxvcxla:846": {
+    "ig6qlxqxoxvcxla:870": {
      "title": "Satan: The Dark — Tamil",
      "category": "Woman makes a deal with the devil / a demon to become pregnant / have a child",
      "group": "Failed-deal variant & unresolved leads",
@@ -148554,7 +149243,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:847",
-    "ig6qlxqxoxvcxla:847"
+    "ig6qlxqxoxvcxla:871"
    ],
    "index_only": false,
    "local_only": false,
@@ -148589,7 +149278,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:847",
+     "rid": "ig6qlxqxoxvcxla:871",
      "source": "ig6qlxqxoxvcxla",
      "label": "魔伶邪陣2 — Taiwan",
      "identifiers": [
@@ -148637,7 +149326,7 @@ window.CATALOG = {
      ],
      "prov": "Single YouTube description cited in the 30 Sep 2026 East and Southeast Asia sweep."
     },
-    "ig6qlxqxoxvcxla:847": {
+    "ig6qlxqxoxvcxla:871": {
      "title": "魔伶邪陣2 — Taiwan",
      "category": "Woman makes a deal with the devil / a demon to become pregnant / have a child",
      "group": "Failed-deal variant & unresolved leads",
@@ -148670,7 +149359,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:848",
-    "ig6qlxqxoxvcxla:848"
+    "ig6qlxqxoxvcxla:872"
    ],
    "index_only": false,
    "local_only": false,
@@ -148700,7 +149389,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:848",
+     "rid": "ig6qlxqxoxvcxla:872",
      "source": "ig6qlxqxoxvcxla",
      "label": "Arabic YouTube twins narration",
      "identifiers": [],
@@ -148739,7 +149428,7 @@ window.CATALOG = {
      "note": "No underlying screen title or production details were identified, and the narration most likely recaps a foreign film. It is not treated as a verified regional title.",
      "prov": "Single Arabic YouTube narration indexed in the 30 Sep 2026 MENA, Turkey and Central Asia sweep; no stable video URL was preserved in the report."
     },
-    "ig6qlxqxoxvcxla:848": {
+    "ig6qlxqxoxvcxla:872": {
      "title": "Arabic YouTube twins narration",
      "category": "Woman makes a deal with the devil / a demon to become pregnant / have a child",
      "group": "Failed-deal variant & unresolved leads",
@@ -148772,7 +149461,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:849",
-    "ig6qlxqxoxvcxla:849"
+    "ig6qlxqxoxvcxla:873"
    ],
    "index_only": false,
    "local_only": false,
@@ -148801,7 +149490,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:849",
+     "rid": "ig6qlxqxoxvcxla:873",
      "source": "ig6qlxqxoxvcxla",
      "label": "Musallat 2: Lanet (2011)",
      "identifiers": [
@@ -148841,7 +149530,7 @@ window.CATALOG = {
      "note": "Only one anonymous forum plot account was found, and the arrangement is mediated through a healer rather than a direct pact with the devil.",
      "prov": "Lead source cited in the 30 Sep 2026 worldwide sweep: uludagsozluk (anonymous forum post)."
     },
-    "ig6qlxqxoxvcxla:849": {
+    "ig6qlxqxoxvcxla:873": {
      "title": "Musallat 2: Lanet (2011)",
      "category": "Woman makes a deal with the devil / a demon to become pregnant / have a child",
      "group": "Failed-deal variant & unresolved leads",
@@ -148874,7 +149563,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:850",
-    "ig6qlxqxoxvcxla:850"
+    "ig6qlxqxoxvcxla:874"
    ],
    "index_only": false,
    "local_only": false,
@@ -148903,7 +149592,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:850",
+     "rid": "ig6qlxqxoxvcxla:874",
      "source": "ig6qlxqxoxvcxla",
      "label": "The Devil’s Daughter (1973 ABC)",
      "identifiers": [
@@ -148943,7 +149632,7 @@ window.CATALOG = {
      "s": "Sources say Alice's mother sold her soul to Satan when Alice was born and bore Satan a child 21 years earlier. The timing suggests a reproductive bargain, but no located source says that obtaining a pregnancy or child was the bargain's purpose.",
      "prov": "Synopsis evidence summarized in the 30 Sep 2026 worldwide sweep; no exact source URL was preserved in the report."
     },
-    "ig6qlxqxoxvcxla:850": {
+    "ig6qlxqxoxvcxla:874": {
      "title": "The Devil’s Daughter (1973 ABC)",
      "category": "Woman makes a deal with the devil / a demon to become pregnant / have a child",
      "group": "Failed-deal variant & unresolved leads",
@@ -148976,7 +149665,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:851",
-    "ig6qlxqxoxvcxla:851"
+    "ig6qlxqxoxvcxla:875"
    ],
    "index_only": false,
    "local_only": false,
@@ -149005,7 +149694,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:851",
+     "rid": "ig6qlxqxoxvcxla:875",
      "source": "ig6qlxqxoxvcxla",
      "label": "THE DEVIL’S BRIDE Part One — Nollywood",
      "identifiers": [
@@ -149045,7 +149734,7 @@ window.CATALOG = {
      "note": "The counterparty is not explicitly devil-coded, and the production may be AI-generated.",
      "prov": "Single YouTube source cited in the 30 Sep 2026 worldwide sweep; its exact URL was not preserved in the report."
     },
-    "ig6qlxqxoxvcxla:851": {
+    "ig6qlxqxoxvcxla:875": {
      "title": "THE DEVIL’S BRIDE Part One — Nollywood",
      "category": "Woman makes a deal with the devil / a demon to become pregnant / have a child",
      "group": "Failed-deal variant & unresolved leads",
@@ -149078,7 +149767,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:852",
-    "ig6qlxqxoxvcxla:852"
+    "ig6qlxqxoxvcxla:876"
    ],
    "index_only": false,
    "local_only": false,
@@ -149107,7 +149796,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:852",
+     "rid": "ig6qlxqxoxvcxla:876",
      "source": "ig6qlxqxoxvcxla",
      "label": "THE NIGHT MARKET — Nollywood",
      "identifiers": [
@@ -149147,7 +149836,7 @@ window.CATALOG = {
      "note": "The source never identifies the counterparty as the devil or a demon.",
      "prov": "Single YouTube source cited in the 30 Sep 2026 worldwide sweep; its exact URL was not preserved in the report."
     },
-    "ig6qlxqxoxvcxla:852": {
+    "ig6qlxqxoxvcxla:876": {
      "title": "THE NIGHT MARKET — Nollywood",
      "category": "Woman makes a deal with the devil / a demon to become pregnant / have a child",
      "group": "Failed-deal variant & unresolved leads",
@@ -149180,7 +149869,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:853",
-    "ig6qlxqxoxvcxla:853"
+    "ig6qlxqxoxvcxla:877"
    ],
    "index_only": false,
    "local_only": false,
@@ -149209,7 +149898,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:853",
+     "rid": "ig6qlxqxoxvcxla:877",
      "source": "ig6qlxqxoxvcxla",
      "label": "THE WATER CHILD — Cameroon / French",
      "identifiers": [
@@ -149250,7 +149939,7 @@ window.CATALOG = {
      "note": "This is a single AI-generated YouTube source, and the counterparty is a goddess rather than explicitly devil-coded.",
      "prov": "Single YouTube source cited in the 30 Sep 2026 worldwide sweep; its exact URL was not preserved in the report."
     },
-    "ig6qlxqxoxvcxla:853": {
+    "ig6qlxqxoxvcxla:877": {
      "title": "THE WATER CHILD — Cameroon / French",
      "category": "Woman makes a deal with the devil / a demon to become pregnant / have a child",
      "group": "Failed-deal variant & unresolved leads",
@@ -150147,7 +150836,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:865",
-    "ig6qlxqxoxvcxla:387",
+    "ig6qlxqxoxvcxla:410",
     "mom-pregnancy:55"
    ],
    "index_only": false,
@@ -150184,7 +150873,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:387",
+     "rid": "ig6qlxqxoxvcxla:410",
      "source": "ig6qlxqxoxvcxla",
      "label": "180天重启计划 / Me and My Family (2025)",
      "identifiers": [
@@ -150271,7 +150960,7 @@ window.CATALOG = {
      "ch": "Wu Li Mei",
      "region": "China / Japan — exact matches"
     },
-    "ig6qlxqxoxvcxla:387": {
+    "ig6qlxqxoxvcxla:410": {
      "title": "180天重启计划 / Me and My Family (2025)",
      "category": "Single mom remarries and gets pregnant with new partner",
      "group": "China / Japan",
@@ -157441,7 +158130,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2370
+    2379
    ]
   },
   {
@@ -157677,7 +158366,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2460
+    2469
    ]
   },
   {
@@ -158030,7 +158719,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:911",
-    "ig6qlxqxoxvcxla:657",
+    "ig6qlxqxoxvcxla:681",
     "worldwide-hypnosis:50"
    ],
    "index_only": false,
@@ -158069,7 +158758,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:657",
+     "rid": "ig6qlxqxoxvcxla:681",
      "source": "ig6qlxqxoxvcxla",
      "label": "Altered Carbon",
      "identifiers": [
@@ -158152,7 +158841,7 @@ window.CATALOG = {
       "scifi"
      ]
     },
-    "ig6qlxqxoxvcxla:657": {
+    "ig6qlxqxoxvcxla:681": {
      "title": "Altered Carbon",
      "category": "Sci-fi / alien / technological control",
      "group": "Catalog records",
@@ -158752,7 +159441,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2461
+    2470
    ]
   },
   {
@@ -162738,7 +163427,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2434
+    2443
    ]
   },
   {
@@ -164495,7 +165184,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2351
+    2360
    ]
   },
   {
@@ -165199,7 +165888,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2356
+    2365
    ]
   },
   {
@@ -168606,7 +169295,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:973",
-    "ig6qlxqxoxvcxla:704",
+    "ig6qlxqxoxvcxla:728",
     "worldwide-hypnosis:108"
    ],
    "index_only": false,
@@ -168645,7 +169334,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:704",
+     "rid": "ig6qlxqxoxvcxla:728",
      "source": "ig6qlxqxoxvcxla",
      "label": "Beauty and the Beast variants",
      "identifiers": [
@@ -168728,7 +169417,7 @@ window.CATALOG = {
       "human"
      ]
     },
-    "ig6qlxqxoxvcxla:704": {
+    "ig6qlxqxoxvcxla:728": {
      "title": "Beauty and the Beast variants",
      "category": "Fantasy enchantment",
      "group": "Catalog records",
@@ -169005,7 +169694,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:975",
-    "ig6qlxqxoxvcxla:537",
+    "ig6qlxqxoxvcxla:561",
     "worldwide-hypnosis:112"
    ],
    "index_only": false,
@@ -169044,7 +169733,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:537",
+     "rid": "ig6qlxqxoxvcxla:561",
      "source": "ig6qlxqxoxvcxla",
      "label": "Being Human — UK",
      "identifiers": [
@@ -169127,7 +169816,7 @@ window.CATALOG = {
       "vampire"
      ]
     },
-    "ig6qlxqxoxvcxla:537": {
+    "ig6qlxqxoxvcxla:561": {
      "title": "Being Human — UK",
      "category": "Vampire mesmerism",
      "group": "Modern TV mesmerism",
@@ -170321,7 +171010,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2418
+    2427
    ]
   },
   {
@@ -171425,7 +172114,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2369
+    2378
    ]
   },
   {
@@ -175794,7 +176483,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2362
+    2371
    ]
   },
   {
@@ -178581,7 +179270,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2439
+    2448
    ]
   },
   {
@@ -180772,7 +181461,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2399
+    2408
    ]
   },
   {
@@ -182316,7 +183005,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2425
+    2434
    ]
   },
   {
@@ -187302,7 +187991,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2444
+    2453
    ]
   },
   {
@@ -187500,7 +188189,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2365
+    2374
    ]
   },
   {
@@ -195486,7 +196175,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2449
+    2458
    ]
   },
   {
@@ -197757,7 +198446,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2353
+    2362
    ]
   },
   {
@@ -198140,7 +198829,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2375
+    2384
    ]
   },
   {
@@ -199707,7 +200396,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:1140",
-    "ig6qlxqxoxvcxla:393",
+    "ig6qlxqxoxvcxla:416",
     "pregnant-intimacy:40",
     "mom-pregnancy:60",
     "kids-pregnant-again:13"
@@ -199762,7 +200451,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:393",
+     "rid": "ig6qlxqxoxvcxla:416",
      "source": "ig6qlxqxoxvcxla",
      "label": "Dexter",
      "identifiers": [],
@@ -199951,7 +200640,7 @@ window.CATALOG = {
      "ch": "Rita",
      "region": "Near / partial matches"
     },
-    "ig6qlxqxoxvcxla:393": {
+    "ig6qlxqxoxvcxla:416": {
      "title": "Dexter",
      "category": "Single mom remarries and gets pregnant with new partner",
      "group": "Near / partial matches",
@@ -200237,7 +200926,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:1142",
-    "ig6qlxqxoxvcxla:324",
+    "ig6qlxqxoxvcxla:347",
     "worldwide-hypnosis:256"
    ],
    "index_only": false,
@@ -200276,7 +200965,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:324",
+     "rid": "ig6qlxqxoxvcxla:347",
      "source": "ig6qlxqxoxvcxla",
      "label": "Diagnosis: Murder S04E19",
      "identifiers": [
@@ -200359,7 +201048,7 @@ window.CATALOG = {
       "medical"
      ]
     },
-    "ig6qlxqxoxvcxla:324": {
+    "ig6qlxqxoxvcxla:347": {
      "title": "Diagnosis: Murder S04E19",
      "category": "Wife hypnotized / controlled by a therapist",
      "group": "Near-misses",
@@ -200394,7 +201083,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2245
+    2254
    ]
   },
   {
@@ -200828,7 +201517,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2372
+    2381
    ]
   },
   {
@@ -202012,7 +202701,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2358
+    2367
    ]
   },
   {
@@ -202675,7 +203364,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:1153",
-    "ig6qlxqxoxvcxla:390",
+    "ig6qlxqxoxvcxla:413",
     "india-catalog:158",
     "mom-pregnancy:58"
    ],
@@ -202712,7 +203401,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:390",
+     "rid": "ig6qlxqxoxvcxla:413",
      "source": "ig6qlxqxoxvcxla",
      "label": "Doli Armaanon Ki",
      "identifiers": [],
@@ -202816,7 +203505,7 @@ window.CATALOG = {
      "ch": "Urmi",
      "region": "India — exact matches"
     },
-    "ig6qlxqxoxvcxla:390": {
+    "ig6qlxqxoxvcxla:413": {
      "title": "Doli Armaanon Ki",
      "category": "Single mom remarries and gets pregnant with new partner",
      "group": "India",
@@ -204797,7 +205486,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2254
+    2263
    ]
   },
   {
@@ -208064,7 +208753,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2396
+    2405
    ]
   },
   {
@@ -209932,7 +210621,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2360
+    2369
    ]
   },
   {
@@ -210136,7 +210825,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2361
+    2370
    ]
   },
   {
@@ -210310,7 +210999,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2441
+    2450
    ]
   },
   {
@@ -210484,7 +211173,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2442
+    2451
    ]
   },
   {
@@ -210658,7 +211347,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2443
+    2452
    ]
   },
   {
@@ -212787,7 +213476,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2364
+    2373
    ]
   },
   {
@@ -212981,7 +213670,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2445
+    2454
    ]
   },
   {
@@ -213799,7 +214488,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2451
+    2460
    ]
   },
   {
@@ -216374,7 +217063,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2438
+    2447
    ]
   },
   {
@@ -217805,7 +218494,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2392
+    2401
    ]
   },
   {
@@ -218436,7 +219125,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2391
+    2400
    ]
   },
   {
@@ -221471,7 +222160,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2420
+    2429
    ]
   },
   {
@@ -221880,7 +222569,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2453
+    2462
    ]
   },
   {
@@ -223543,7 +224232,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2393
+    2402
    ]
   },
   {
@@ -224885,7 +225574,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2407
+    2416
    ]
   },
   {
@@ -226038,7 +226727,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2447
+    2456
    ]
   },
   {
@@ -226212,7 +226901,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2448
+    2457
    ]
   },
   {
@@ -228095,7 +228784,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2421
+    2430
    ]
   },
   {
@@ -230795,7 +231484,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2452
+    2461
    ]
   },
   {
@@ -231805,7 +232494,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2371
+    2380
    ]
   },
   {
@@ -232056,7 +232745,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2459
+    2468
    ]
   },
   {
@@ -232444,16 +233133,30 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Haiwaan%3A_The_Monster"
+    },
+    {
+     "label": "ZEE5 episode page",
+     "url": "https://www.zee5.com/tv-shows/details/haiwaan/0-6-1917/disha-hypnotises-amrita-haiwaan/0-1-manual_72lqt409p7p0"
+    },
+    {
+     "label": "Telly Updates · 26 Jan 2020",
+     "url": "https://www.tellyupdates.com/haiwan-26th-january-2020-written-episode-update-amrita-recognizes-randhir-as-her-husband/"
+    },
+    {
+     "label": "Telly Updates · 16 Feb 2020",
+     "url": "https://www.tellyupdates.com/haiwan-16th-february-2020-written-episode-update/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
+    "ig6qlxqxoxvcxla",
     "india-catalog",
     "worldwide-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:1316",
+    "ig6qlxqxoxvcxla:175",
     "india-catalog:48",
     "worldwide-hypnosis:418"
    ],
@@ -232493,6 +233196,45 @@ window.CATALOG = {
     "distinct_story": false
    },
    "merged_from": [
+    {
+     "rid": "ig6qlxqxoxvcxla:175",
+     "source": "ig6qlxqxoxvcxla",
+     "label": "Haiwaan · E38 · Disha hypnotises Amrita (2019–20)",
+     "identifiers": [
+      "subtitle",
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "Haiwaan",
+     "subtitle": "E38 · Disha hypnotises Amrita",
+     "year": "2019–20",
+     "meta": "TV serial episode · India · Hindi · Zee TV / ZEE5",
+     "summary": "Disha, Amrita’s elder sister, wipes Amrita’s memory by hypnotizing her; Disha also hypnotizes Baby for the Ratan jewel as part of her revenge and the Ratan power struggle.",
+     "character": "Amrita; Baby is also hypnotized",
+     "note": "Pregnancy during the arc, pregnancy at the end, children before and children by the end are unknown; the sources are silent.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "ZEE5 episode page",
+       "url": "https://www.zee5.com/tv-shows/details/haiwaan/0-6-1917/disha-hypnotises-amrita-haiwaan/0-1-manual_72lqt409p7p0"
+      },
+      {
+       "label": "Telly Updates · 26 Jan 2020",
+       "url": "https://www.tellyupdates.com/haiwan-26th-january-2020-written-episode-update-amrita-recognizes-randhir-as-her-husband/"
+      },
+      {
+       "label": "Telly Updates · 16 Feb 2020",
+       "url": "https://www.tellyupdates.com/haiwan-16th-february-2020-written-episode-update/"
+      }
+     ],
+     "distinct_story": true,
+     "index_title": "Haiwaan",
+     "matched_by": "prefix"
+    },
     {
      "rid": "india-catalog:48",
      "source": "india-catalog",
@@ -232584,6 +233326,44 @@ window.CATALOG = {
       "india-control"
      ],
      "icg": "villain"
+    },
+    "ig6qlxqxoxvcxla:175": {
+     "detailed": {
+      "cat": 20,
+      "title": "Haiwaan",
+      "year": "2019–20",
+      "meta": "TV serial episode · India · Hindi · Zee TV / ZEE5",
+      "subgroup": "Memory erasure",
+      "subtitle": "E38 · Disha hypnotises Amrita",
+      "summary": "Disha, Amrita’s elder sister, wipes Amrita’s memory by hypnotizing her; Disha also hypnotizes Baby for the Ratan jewel as part of her revenge and the Ratan power struggle.",
+      "note": "Pregnancy during the arc, pregnancy at the end, children before and children by the end are unknown; the sources are silent.",
+      "character": "Amrita; Baby is also hypnotized",
+      "mechanism": "Hypnosis with memory erasure",
+      "controller": "Disha",
+      "motive": "Revenge against Dharam and Amrita’s family; control of the Ratan jewel",
+      "tags": [
+       "Female hypnosis / mind control — India",
+       "Forcibly hypnotized to obey",
+       "Verified",
+       "Pregnancy status · unknown",
+       "Children status · unknown"
+      ],
+      "sources": [
+       {
+        "name": "ZEE5 episode page",
+        "url": "https://www.zee5.com/tv-shows/details/haiwaan/0-6-1917/disha-hypnotises-amrita-haiwaan/0-1-manual_72lqt409p7p0"
+       },
+       {
+        "name": "Telly Updates · 26 Jan 2020",
+        "url": "https://www.tellyupdates.com/haiwan-26th-january-2020-written-episode-update-amrita-recognizes-randhir-as-her-husband/"
+       },
+       {
+        "name": "Telly Updates · 16 Feb 2020",
+        "url": "https://www.tellyupdates.com/haiwan-16th-february-2020-written-episode-update/"
+       }
+      ],
+      "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep."
+     }
     },
     "india-catalog:48": {
      "title": "Haiwaan: The Monster",
@@ -237647,7 +238427,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2457
+    2466
    ]
   },
   {
@@ -238533,7 +239313,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2456
+    2465
    ]
   },
   {
@@ -240105,7 +240885,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2374
+    2383
    ]
   },
   {
@@ -242393,7 +243173,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2409
+    2418
    ]
   },
   {
@@ -245649,7 +246429,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2394
+    2403
    ]
   },
   {
@@ -246127,7 +246907,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2408
+    2417
    ]
   },
   {
@@ -248120,7 +248900,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2378
+    2387
    ]
   },
   {
@@ -248290,7 +249070,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2416
+    2425
    ]
   },
   {
@@ -254203,7 +254983,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2429
+    2438
    ]
   },
   {
@@ -257104,7 +257884,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2432
+    2441
    ]
   },
   {
@@ -257776,7 +258556,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2430
+    2439
    ]
   },
   {
@@ -260963,7 +261743,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2424
+    2433
    ]
   },
   {
@@ -262696,7 +263476,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2411
+    2420
    ]
   },
   {
@@ -268080,7 +268860,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2367
+    2376
    ]
   },
   {
@@ -269477,7 +270257,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2352
+    2361
    ]
   },
   {
@@ -270030,7 +270810,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:1520",
-    "ig6qlxqxoxvcxla:702",
+    "ig6qlxqxoxvcxla:726",
     "worldwide-hypnosis:582"
    ],
    "index_only": false,
@@ -270073,7 +270853,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:702",
+     "rid": "ig6qlxqxoxvcxla:726",
      "source": "ig6qlxqxoxvcxla",
      "label": "Maleficent",
      "identifiers": [],
@@ -270162,7 +270942,7 @@ window.CATALOG = {
       "fantasy"
      ]
     },
-    "ig6qlxqxoxvcxla:702": {
+    "ig6qlxqxoxvcxla:726": {
      "title": "Maleficent",
      "category": "Fantasy enchantment",
      "group": "Catalog records",
@@ -272359,7 +273139,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2390
+    2399
    ]
   },
   {
@@ -272529,7 +273309,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2422
+    2431
    ]
   },
   {
@@ -272571,7 +273351,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:1534",
-    "ig6qlxqxoxvcxla:391",
+    "ig6qlxqxoxvcxla:414",
     "mom-pregnancy:59"
    ],
    "index_only": false,
@@ -272608,7 +273388,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:391",
+     "rid": "ig6qlxqxoxvcxla:414",
      "source": "ig6qlxqxoxvcxla",
      "label": "María Isabel (1997)",
      "identifiers": [
@@ -272695,7 +273475,7 @@ window.CATALOG = {
      "ch": "María Isabel",
      "region": "Mexico — exact matches"
     },
-    "ig6qlxqxoxvcxla:391": {
+    "ig6qlxqxoxvcxla:414": {
      "title": "María Isabel (1997)",
      "category": "Single mom remarries and gets pregnant with new partner",
      "group": "Mexico",
@@ -272897,7 +273677,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2435
+    2444
    ]
   },
   {
@@ -277818,7 +278598,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2366
+    2375
    ]
   },
   {
@@ -280942,7 +281722,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2406
+    2415
    ]
   },
   {
@@ -282936,7 +283716,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2458
+    2467
    ]
   },
   {
@@ -286315,7 +287095,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2410
+    2419
    ]
   },
   {
@@ -289476,7 +290256,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2419
+    2428
    ]
   },
   {
@@ -290720,7 +291500,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2450
+    2459
    ]
   },
   {
@@ -290894,7 +291674,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2423
+    2432
    ]
   },
   {
@@ -291064,7 +291844,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2397
+    2406
    ]
   },
   {
@@ -291106,7 +291886,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:1642",
-    "ig6qlxqxoxvcxla:388",
+    "ig6qlxqxoxvcxla:411",
     "mom-pregnancy:56"
    ],
    "index_only": false,
@@ -291142,7 +291922,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:388",
+     "rid": "ig6qlxqxoxvcxla:411",
      "source": "ig6qlxqxoxvcxla",
      "label": "Osanago warera ni umare / A Child Is Born (2017)",
      "identifiers": [
@@ -291228,7 +292008,7 @@ window.CATALOG = {
      "ch": "Divorced mother of two",
      "region": "China / Japan — exact matches"
     },
-    "ig6qlxqxoxvcxla:388": {
+    "ig6qlxqxoxvcxla:411": {
      "title": "Osanago warera ni umare / A Child Is Born (2017)",
      "category": "Single mom remarries and gets pregnant with new partner",
      "group": "China / Japan",
@@ -291430,7 +292210,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2431
+    2440
    ]
   },
   {
@@ -293195,7 +293975,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2377
+    2386
    ]
   },
   {
@@ -293436,7 +294216,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2376
+    2385
    ]
   },
   {
@@ -293634,7 +294414,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2357
+    2366
    ]
   },
   {
@@ -293987,7 +294767,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2395
+    2404
    ]
   },
   {
@@ -294332,17 +295112,27 @@ window.CATALOG = {
     {
      "label": "NewsroomPost",
      "url": "https://newsroompost.com/entertainment/payal-ott-release-explore-another-bold-exciting-drama-in-the-ullu-app/5337812.html"
+    },
+    {
+     "label": "Newznew",
+     "url": "https://www.newznew.com/payal-part-1-cast-trailer-release-date-and-storyline-of-the-ullu-web-series/"
+    },
+    {
+     "label": "OTTplay",
+     "url": "https://www.ottplay.com/news/payal-part-2-ott-release-date-heres-when-and-where-you-can-watch-the-new-fantasy-series/5b412dcd27293"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
+    "ig6qlxqxoxvcxla",
     "india-catalog",
     "older-man-hypnosis",
     "hypnosis-assault"
    ],
    "source_records": [
     "xla62ucxbx02u5:1660",
+    "ig6qlxqxoxvcxla:180",
     "india-catalog:153",
     "older-man-hypnosis:6",
     "hypnosis-assault:24"
@@ -294388,6 +295178,40 @@ window.CATALOG = {
     "distinct_story": false
    },
    "merged_from": [
+    {
+     "rid": "ig6qlxqxoxvcxla:180",
+     "source": "ig6qlxqxoxvcxla",
+     "label": "Payal (2024–25)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "Payal",
+     "subtitle": "",
+     "year": "2024–25",
+     "meta": "Web series · India · Hindi · Ullu · 18+",
+     "summary": "A magical anklet hypnotizes any woman who wears it and turns her into the owner’s slave—first for Dadaji, then for his grandson Preetam after he steals the device.",
+     "character": "",
+     "note": "The motive is sexual exploitation. Pregnancy during the arc, pregnancy at the end, children before and children by the end are unknown; the sources are silent.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Newznew",
+       "url": "https://www.newznew.com/payal-part-1-cast-trailer-release-date-and-storyline-of-the-ullu-web-series/"
+      },
+      {
+       "label": "OTTplay",
+       "url": "https://www.ottplay.com/news/payal-part-2-ott-release-date-heres-when-and-where-you-can-watch-the-new-fantasy-series/5b412dcd27293"
+      }
+     ],
+     "distinct_story": true,
+     "index_title": "Payal",
+     "matched_by": "alias"
+    },
     {
      "rid": "india-catalog:153",
      "source": "india-catalog",
@@ -294570,6 +295394,47 @@ window.CATALOG = {
      ],
      "ahg": "villain",
      "icg": "villain"
+    },
+    "ig6qlxqxoxvcxla:180": {
+     "detailed": {
+      "cat": 2,
+      "title": "Payal",
+      "year": "2024–25",
+      "meta": "Web series · India · Hindi · Ullu · 18+",
+      "subgroup": "Erotic fantasy exploitation",
+      "summary": "A magical anklet hypnotizes any woman who wears it and turns her into the owner’s slave—first for Dadaji, then for his grandson Preetam after he steals the device.",
+      "note": "The motive is sexual exploitation. Pregnancy during the arc, pregnancy at the end, children before and children by the end are unknown; the sources are silent.",
+      "mechanism": "Magical hypnotic anklet",
+      "controller": "Dadaji, then Preetam",
+      "motive": "Sexual exploitation",
+      "tags": [
+       "Adult female hypnosis — R-rated-equivalent worldwide",
+       "Forcibly hypnotized to obey",
+       "Verified",
+       "Pregnancy status · unknown",
+       "Children status · unknown"
+      ],
+      "sources": [
+       {
+        "name": "Newznew",
+        "url": "https://www.newznew.com/payal-part-1-cast-trailer-release-date-and-storyline-of-the-ullu-web-series/"
+       },
+       {
+        "name": "OTTplay",
+        "url": "https://www.ottplay.com/news/payal-part-2-ott-release-date-heres-when-and-where-you-can-watch-the-new-fantasy-series/5b412dcd27293"
+       },
+       {
+        "name": "Movieetalks"
+       },
+       {
+        "name": "Fynow"
+       },
+       {
+        "name": "Khabribhai"
+       }
+      ],
+      "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep; adult / erotic lane included."
+     }
     },
     "india-catalog:153": {
      "title": "Payal (Part 1)",
@@ -295371,7 +296236,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2440
+    2449
    ]
   },
   {
@@ -296959,7 +297824,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2610
+    2619
    ]
   },
   {
@@ -300738,7 +301603,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:1692",
-    "ig6qlxqxoxvcxla:389",
+    "ig6qlxqxoxvcxla:412",
     "india-catalog:157",
     "mom-pregnancy:57"
    ],
@@ -300775,7 +301640,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:389",
+     "rid": "ig6qlxqxoxvcxla:412",
      "source": "ig6qlxqxoxvcxla",
      "label": "Punar Vivah",
      "identifiers": [
@@ -300880,7 +301745,7 @@ window.CATALOG = {
      "ch": "Aarti",
      "region": "India — exact matches"
     },
-    "ig6qlxqxoxvcxla:389": {
+    "ig6qlxqxoxvcxla:412": {
      "title": "Punar Vivah",
      "category": "Single mom remarries and gets pregnant with new partner",
      "group": "India",
@@ -301792,7 +302657,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2455
+    2464
    ]
   },
   {
@@ -302144,7 +303009,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2454
+    2463
    ]
   },
   {
@@ -302360,7 +303225,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2354
+    2363
    ]
   },
   {
@@ -307310,7 +308175,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2398
+    2407
    ]
   },
   {
@@ -308329,7 +309194,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2355
+    2364
    ]
   },
   {
@@ -308499,7 +309364,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2433
+    2442
    ]
   },
   {
@@ -308669,7 +309534,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2417
+    2426
    ]
   },
   {
@@ -311207,7 +312072,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2379
+    2388
    ]
   },
   {
@@ -311458,7 +312323,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2380
+    2389
    ]
   },
   {
@@ -313525,7 +314390,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2403
+    2412
    ]
   },
   {
@@ -314414,7 +315279,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2426
+    2435
    ]
   },
   {
@@ -314584,7 +315449,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2404
+    2413
    ]
   },
   {
@@ -321786,7 +322651,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2436
+    2445
    ]
   },
   {
@@ -322284,7 +323149,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2405
+    2414
    ]
   },
   {
@@ -322458,7 +323323,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2427
+    2436
    ]
   },
   {
@@ -324800,7 +325665,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2400
+    2409
    ]
   },
   {
@@ -337979,7 +338844,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2368
+    2377
    ]
   },
   {
@@ -338023,7 +338888,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:1895",
-    "ig6qlxqxoxvcxla:535",
+    "ig6qlxqxoxvcxla:559",
     "worldwide-hypnosis:1003"
    ],
    "index_only": false,
@@ -338067,7 +338932,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "ig6qlxqxoxvcxla:535",
+     "rid": "ig6qlxqxoxvcxla:559",
      "source": "ig6qlxqxoxvcxla",
      "label": "True Blood (2008)",
      "identifiers": [
@@ -338160,7 +339025,7 @@ window.CATALOG = {
       "human"
      ]
     },
-    "ig6qlxqxoxvcxla:535": {
+    "ig6qlxqxoxvcxla:559": {
      "title": "True Blood (2008)",
      "category": "Vampire mesmerism",
      "group": "Modern TV mesmerism",
@@ -338559,7 +339424,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2415
+    2424
    ]
   },
   {
@@ -339296,7 +340161,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2401
+    2410
    ]
   },
   {
@@ -341244,7 +342109,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2437
+    2446
    ]
   },
   {
@@ -344293,7 +345158,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2413
+    2422
    ]
   },
   {
@@ -346379,7 +347244,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2428
+    2437
    ]
   },
   {
@@ -348087,7 +348952,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2402
+    2411
    ]
   },
   {
@@ -348408,7 +349273,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2414
+    2423
    ]
   },
   {
@@ -350980,7 +351845,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2359
+    2368
    ]
   },
   {
@@ -351528,7 +352393,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2412
+    2421
    ]
   },
   {
@@ -352096,7 +352961,7 @@ window.CATALOG = {
     }
    },
    "retired_ids": [
-    2363
+    2372
    ]
   },
   {
@@ -368865,6 +369730,774 @@ window.CATALOG = {
   },
   {
    "id": 2180,
+   "title": "Aahat — The Eye Parts I–II",
+   "subtitle": "",
+   "year": "1996",
+   "meta": "TV horror anthology episodes · India · Hindi · Sony TV / SonyLIV",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "A well-renowned male stage mentalist hypnotizes a woman before reporters as a public demonstration of his powers; the episode then pivots to his murder, which a professor helps police solve.",
+   "character": "Unnamed woman in the public demonstration",
+   "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep.",
+   "note": "Distinct from the already-cataloged Aahat episode 27. Pregnancy during the arc, pregnancy at the end, children before and children by the end are all unknown because the available one-off anthology sources give no family detail.",
+   "format": "movie",
+   "categories": [
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia episode list",
+     "url": "https://en.wikipedia.org/wiki/List_of_Aahat_episodes"
+    },
+    {
+     "label": "SonyLIV episode page",
+     "url": "https://www.sonyliv.com/shows/aahat-1700000144/the-eye-part-i-1000191785"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "ig6qlxqxoxvcxla"
+   ],
+   "source_records": [
+    "ig6qlxqxoxvcxla:171"
+   ],
+   "index_only": true,
+   "local_only": false,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "ig6qlxqxoxvcxla:171": {
+     "detailed": {
+      "cat": 20,
+      "title": "Aahat — The Eye Parts I–II",
+      "year": "1996",
+      "meta": "TV horror anthology episodes · India · Hindi · Sony TV / SonyLIV",
+      "subgroup": "Stage-hypnosis demonstration",
+      "summary": "A well-renowned male stage mentalist hypnotizes a woman before reporters as a public demonstration of his powers; the episode then pivots to his murder, which a professor helps police solve.",
+      "note": "Distinct from the already-cataloged Aahat episode 27. Pregnancy during the arc, pregnancy at the end, children before and children by the end are all unknown because the available one-off anthology sources give no family detail.",
+      "character": "Unnamed woman in the public demonstration",
+      "mechanism": "Stage hypnosis",
+      "controller": "Male mentalist / hypnotist",
+      "motive": "Public demonstration of his powers",
+      "tags": [
+       "Female hypnosis / mind control — India",
+       "Verified",
+       "Pregnancy status · unknown",
+       "Children status · unknown"
+      ],
+      "sources": [
+       {
+        "name": "Wikipedia episode list",
+        "url": "https://en.wikipedia.org/wiki/List_of_Aahat_episodes"
+       },
+       {
+        "name": "SonyLIV episode page",
+        "url": "https://www.sonyliv.com/shows/aahat-1700000144/the-eye-part-i-1000191785"
+       }
+      ],
+      "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep."
+     }
+    }
+   }
+  },
+  {
+   "id": 2181,
+   "title": "Aashram",
+   "subtitle": "",
+   "year": "2020–",
+   "meta": "Web series · India · Hindi · MX Player · 18+ context",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Godman Baba Nirala drugs female devotees, including Pammi and Babita, with spiked prasad or kheer, rendering them unconscious for sexual exploitation under the guise of “purification”; followers are also subjected to coercive brainwashing.",
+   "character": "Pammi, Babita and other female devotees",
+   "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep; adult / R-rated-equivalent lane included.",
+   "note": "Pregnancy during the arc, pregnancy at the end, children before and children by the end are unknown; the reviewed sources are silent on those statuses.",
+   "format": "movie",
+   "categories": [
+    "cult"
+   ],
+   "sources": [],
+   "youtube_ids": [],
+   "from_sources": [
+    "ig6qlxqxoxvcxla"
+   ],
+   "source_records": [
+    "ig6qlxqxoxvcxla:172"
+   ],
+   "index_only": true,
+   "local_only": false,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "ig6qlxqxoxvcxla:172": {
+     "detailed": {
+      "cat": 28,
+      "title": "Aashram",
+      "year": "2020–",
+      "meta": "Web series · India · Hindi · MX Player · 18+ context",
+      "subgroup": "Cult exploitation",
+      "summary": "Godman Baba Nirala drugs female devotees, including Pammi and Babita, with spiked prasad or kheer, rendering them unconscious for sexual exploitation under the guise of “purification”; followers are also subjected to coercive brainwashing.",
+      "note": "Pregnancy during the arc, pregnancy at the end, children before and children by the end are unknown; the reviewed sources are silent on those statuses.",
+      "character": "Pammi, Babita and other female devotees",
+      "mechanism": "Drugged food plus coercive cult brainwashing",
+      "controller": "Baba Nirala",
+      "motive": "Sexual exploitation disguised as purification",
+      "tags": [
+       "Cult / coercive brainwashing",
+       "Adult female hypnosis — R-rated-equivalent worldwide",
+       "Verified",
+       "Pregnancy status · unknown",
+       "Children status · unknown"
+      ],
+      "sources": [
+       {
+        "name": "Cinema Express"
+       },
+       {
+        "name": "MensXP"
+       },
+       {
+        "name": "Bollywood Hungama"
+       },
+       {
+        "name": "LatestLY"
+       },
+       {
+        "name": "Koimoi"
+       }
+      ],
+      "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep; adult / R-rated-equivalent lane included."
+     }
+    }
+   }
+  },
+  {
+   "id": 2182,
+   "title": "Asambhav",
+   "subtitle": "",
+   "year": "2007–2009",
+   "meta": "TV serial · India · Marathi · Zee Marathi · 774 episodes",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Sulekha Raut, taught “mind control and hypnosis” by Tanishka, uses hypnosis as a murder weapon: she hypnotizes her mother Kshipra and orders her to cut her wrist, then targets Nikhil and Abhi in the same revenge campaign against the Shastri family.",
+   "character": "Kshipra; Sulekha also targets male victims Nikhil and Abhi",
+   "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep.",
+   "note": "Pregnancy is not stated. Sulekha is childless; Kshipra’s known children are Sulekha and Poonam. No additional children are mentioned by the end.",
+   "format": "movie",
+   "categories": [
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Asambhav_(TV_series)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "ig6qlxqxoxvcxla"
+   ],
+   "source_records": [
+    "ig6qlxqxoxvcxla:173"
+   ],
+   "index_only": true,
+   "local_only": false,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "ig6qlxqxoxvcxla:173": {
+     "detailed": {
+      "cat": 20,
+      "title": "Asambhav",
+      "year": "2007–2009",
+      "meta": "TV serial · India · Marathi · Zee Marathi · 774 episodes",
+      "subgroup": "Revenge hypnosis",
+      "summary": "Sulekha Raut, taught “mind control and hypnosis” by Tanishka, uses hypnosis as a murder weapon: she hypnotizes her mother Kshipra and orders her to cut her wrist, then targets Nikhil and Abhi in the same revenge campaign against the Shastri family.",
+      "note": "Pregnancy is not stated. Sulekha is childless; Kshipra’s known children are Sulekha and Poonam. No additional children are mentioned by the end.",
+      "character": "Kshipra; Sulekha also targets male victims Nikhil and Abhi",
+      "mechanism": "Learned hypnosis and command suggestion",
+      "controller": "Sulekha Raut, trained by Tanishka",
+      "motive": "Revenge against the Shastri family",
+      "tags": [
+       "Female hypnosis / mind control — India",
+       "Forcibly hypnotized to obey",
+       "Verified",
+       "Pregnancy status · not stated",
+       "Children · Kshipra has Sulekha and Poonam"
+      ],
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Asambhav_(TV_series)"
+       },
+       {
+        "name": "IndiaForums episode recaps"
+       }
+      ],
+      "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep."
+     }
+    }
+   }
+  },
+  {
+   "id": 2183,
+   "title": "Bonyo Premer Golpo S2",
+   "subtitle": "S2E8 The Unsatisfied Wife; S2E10",
+   "year": "2020",
+   "meta": "Web series · India · Bengali · Hoichoi",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Minnie asks Dr. Kanishka to hypnotise her in S2E8 and reveals her deepest secrets; by S2E10, Kanishka unearths a shocking secret from Minnie's hypnosis history.",
+   "character": "Minnie",
+   "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep.",
+   "note": "Clinical, patient-requested hypnosis. Pregnancy during the arc, pregnancy at the end, children before and children by the end are unknown; the asylum-set thriller sources are silent.",
+   "format": "movie",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Hoichoi",
+     "url": "https://hoichoi.tv/shows/watch-bonyo-premer-golpo-bengali-web-series-online"
+    },
+    {
+     "label": "TheTVDB",
+     "url": "https://www.thetvdb.com/series/bonyo-premer-golpo/allseasons/official"
+    },
+    {
+     "label": "Moviefone",
+     "url": "https://www.moviefone.com/tv-shows/bonyo-premer-golpo/qpchGw9tMszoiGgyK5Kp66/seasons/2/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "ig6qlxqxoxvcxla"
+   ],
+   "source_records": [
+    "ig6qlxqxoxvcxla:174"
+   ],
+   "index_only": true,
+   "local_only": false,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "ig6qlxqxoxvcxla:174": {
+     "detailed": {
+      "cat": 29,
+      "title": "Bonyo Premer Golpo S2",
+      "year": "2020",
+      "meta": "Web series · India · Bengali · Hoichoi",
+      "subgroup": "Patient-requested hypnosis",
+      "subtitle": "S2E8 The Unsatisfied Wife; S2E10",
+      "summary": "Minnie asks Dr. Kanishka to hypnotise her in S2E8 and reveals her deepest secrets; by S2E10, Kanishka unearths a shocking secret from Minnie's hypnosis history.",
+      "note": "Clinical, patient-requested hypnosis. Pregnancy during the arc, pregnancy at the end, children before and children by the end are unknown; the asylum-set thriller sources are silent.",
+      "character": "Minnie",
+      "mechanism": "Clinical / therapeutic hypnosis",
+      "controller": "Dr. Kanishka, at Minnie's request",
+      "motive": "Therapy and disclosure of hidden memories or secrets",
+      "tags": [
+       "Medical / therapeutic hypnosis",
+       "Verified",
+       "Pregnancy status · unknown",
+       "Children status · unknown"
+      ],
+      "sources": [
+       {
+        "name": "Hoichoi",
+        "url": "https://hoichoi.tv/shows/watch-bonyo-premer-golpo-bengali-web-series-online"
+       },
+       {
+        "name": "TheTVDB",
+        "url": "https://www.thetvdb.com/series/bonyo-premer-golpo/allseasons/official"
+       },
+       {
+        "name": "Moviefone",
+        "url": "https://www.moviefone.com/tv-shows/bonyo-premer-golpo/qpchGw9tMszoiGgyK5Kp66/seasons/2/"
+       }
+      ],
+      "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep."
+     }
+    }
+   }
+  },
+  {
+   "id": 2184,
+   "title": "Jarann",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Feature film · India · Marathi · theatrical / ZEE5",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Radha is believed to have been placed under a black-magic spell called “jarann” by village witch Ganguti as a child. After returning to the ancestral wada as a widowed adult with her daughter, she again falls under the influence and attacks people trying to help her while Ganguti’s apparition encourages her.",
+   "character": "Radha",
+   "provenance": "Added with the source-reported ambiguity intact in the 9 Oct 2026 Indian female-hypnosis platform sweep.",
+   "note": "Mechanism deliberately remains ambiguous: supernatural spell versus trauma-induced psychosis in Dr. Kulkarni’s explanation. Included on the story’s black-magic framing. Pregnancy is not stated. Radha arrives with daughter Saie, but the plot reveals Saie is not Radha’s biological daughter.",
+   "format": "movie",
+   "categories": [
+    "tantrik"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Jarann"
+    },
+    {
+     "label": "Urbanly",
+     "url": "https://www.urbanly.in/pune/art-entertainment/jarann-review-a-chilling-marathi-thriller-rooted-in-black-magic/"
+    },
+    {
+     "label": "OTTplay",
+     "url": "https://www.ottplay.com/news/jarann-ott-release-date-when-where-stream-amruta-subhash-psychological-thriller/d88755b969312"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "ig6qlxqxoxvcxla"
+   ],
+   "source_records": [
+    "ig6qlxqxoxvcxla:176"
+   ],
+   "index_only": true,
+   "local_only": false,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "ig6qlxqxoxvcxla:176": {
+     "detailed": {
+      "cat": 26,
+      "title": "Jarann",
+      "year": "2025",
+      "meta": "Feature film · India · Marathi · theatrical / ZEE5",
+      "subgroup": "Ambiguous black-magic influence",
+      "summary": "Radha is believed to have been placed under a black-magic spell called “jarann” by village witch Ganguti as a child. After returning to the ancestral wada as a widowed adult with her daughter, she again falls under the influence and attacks people trying to help her while Ganguti’s apparition encourages her.",
+      "note": "Mechanism deliberately remains ambiguous: supernatural spell versus trauma-induced psychosis in Dr. Kulkarni’s explanation. Included on the story’s black-magic framing. Pregnancy is not stated. Radha arrives with daughter Saie, but the plot reveals Saie is not Radha’s biological daughter.",
+      "character": "Radha",
+      "mechanism": "In-fiction black-magic spell; alternative trauma / psychosis explanation",
+      "controller": "Ganguti",
+      "motive": "Not made explicit",
+      "tags": [
+       "Tantrik / black-magic control",
+       "Villain / tantrik control — India",
+       "Verified with mechanism caveat",
+       "Pregnancy status · not stated",
+       "Child before · Saie, later revealed non-biological"
+      ],
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jarann"
+       },
+       {
+        "name": "Urbanly",
+        "url": "https://www.urbanly.in/pune/art-entertainment/jarann-review-a-chilling-marathi-thriller-rooted-in-black-magic/"
+       },
+       {
+        "name": "OTTplay",
+        "url": "https://www.ottplay.com/news/jarann-ott-release-date-when-where-stream-amruta-subhash-psychological-thriller/d88755b969312"
+       }
+      ],
+      "provenance": "Added with the source-reported ambiguity intact in the 9 Oct 2026 Indian female-hypnosis platform sweep."
+     }
+    }
+   }
+  },
+  {
+   "id": 2185,
+   "title": "Nikita Roy",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Feature film · India · Hindi · theatrical",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Godman Amar Dev controls devotees with secretly administered hallucinogens and psychological manipulation; female lead Nikita Roy is targeted with a curse and induced nightmares as part of his apparatus.",
+   "character": "Nikita Roy",
+   "provenance": "Added with the direction-inversion caveat in the 9 Oct 2026 Indian female-hypnosis platform sweep.",
+   "note": "Direction-inverted: Nikita resists and ultimately exposes Amar Dev rather than remaining controlled. Pregnancy and children are not indicated in the reviewed sources.",
+   "format": "movie",
+   "categories": [
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "OTTplay",
+     "url": "https://www.ottplay.com/news/nikita-roy-ending-explained-does-sonakshi-sinha-prove-supernatural-or-just-expose-paresh-rawal-conspiracy/6ddca17e39312"
+    },
+    {
+     "label": "LatestLY",
+     "url": "https://www.latestly.com/entertainment/bollywood/nikita-roy-movie-review-sonakshi-sinha-turns-desi-nancy-drew-in-this-passable-supernatural-mystery-thriller-latestly-exclusive-7006308.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "ig6qlxqxoxvcxla"
+   ],
+   "source_records": [
+    "ig6qlxqxoxvcxla:179"
+   ],
+   "index_only": true,
+   "local_only": false,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "ig6qlxqxoxvcxla:179": {
+     "detailed": {
+      "cat": 28,
+      "title": "Nikita Roy",
+      "year": "2025",
+      "meta": "Feature film · India · Hindi · theatrical",
+      "subgroup": "Cult manipulation resisted",
+      "summary": "Godman Amar Dev controls devotees with secretly administered hallucinogens and psychological manipulation; female lead Nikita Roy is targeted with a curse and induced nightmares as part of his apparatus.",
+      "note": "Direction-inverted: Nikita resists and ultimately exposes Amar Dev rather than remaining controlled. Pregnancy and children are not indicated in the reviewed sources.",
+      "character": "Nikita Roy",
+      "mechanism": "Hallucinogens plus psychological manipulation",
+      "controller": "Amar Dev",
+      "motive": "Cult control and exploitation",
+      "tags": [
+       "Cult / coercive brainwashing",
+       "Direction-inverted · target resists",
+       "Pregnancy status · unknown",
+       "Children status · none indicated"
+      ],
+      "sources": [
+       {
+        "name": "OTTplay",
+        "url": "https://www.ottplay.com/news/nikita-roy-ending-explained-does-sonakshi-sinha-prove-supernatural-or-just-expose-paresh-rawal-conspiracy/6ddca17e39312"
+       },
+       {
+        "name": "LatestLY",
+        "url": "https://www.latestly.com/entertainment/bollywood/nikita-roy-movie-review-sonakshi-sinha-turns-desi-nancy-drew-in-this-passable-supernatural-mystery-thriller-latestly-exclusive-7006308.html"
+       }
+      ],
+      "provenance": "Added with the direction-inversion caveat in the 9 Oct 2026 Indian female-hypnosis platform sweep."
+     }
+    }
+   }
+  },
+  {
+   "id": 2186,
+   "title": "Shaitani Ilaaka",
+   "subtitle": "",
+   "year": "1990",
+   "meta": "Feature film · India · Hindi · theatrical",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Sorceress Lalbai bewitches newlywed brides, placing them under a spell before sacrificing them to the demon Shaitan to restore his powers; she also uses voodoo against Anju.",
+   "character": "Newlywed brides; Anju is targeted by voodoo",
+   "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep.",
+   "note": "The mechanism is described as bewitchment or a spell. Pregnancy is unknown; the victims are newlywed brides and no pregnancy is mentioned. Children are not indicated.",
+   "format": "movie",
+   "categories": [
+    "tantrik"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Shaitani_Ilaaka"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0261296"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "ig6qlxqxoxvcxla"
+   ],
+   "source_records": [
+    "ig6qlxqxoxvcxla:181"
+   ],
+   "index_only": true,
+   "local_only": false,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "ig6qlxqxoxvcxla:181": {
+     "detailed": {
+      "cat": 26,
+      "title": "Shaitani Ilaaka",
+      "year": "1990",
+      "meta": "Feature film · India · Hindi · theatrical",
+      "subgroup": "Sorceress spell and sacrifice",
+      "summary": "Sorceress Lalbai bewitches newlywed brides, placing them under a spell before sacrificing them to the demon Shaitan to restore his powers; she also uses voodoo against Anju.",
+      "note": "The mechanism is described as bewitchment or a spell. Pregnancy is unknown; the victims are newlywed brides and no pregnancy is mentioned. Children are not indicated.",
+      "character": "Newlywed brides; Anju is targeted by voodoo",
+      "mechanism": "Bewitchment / spell and voodoo",
+      "controller": "Lalbai",
+      "motive": "Sacrifice brides to restore Shaitan’s powers",
+      "tags": [
+       "Tantrik / black-magic control",
+       "Villain / tantrik control — India",
+       "Verified",
+       "Pregnancy status · unknown",
+       "Children status · none indicated"
+      ],
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shaitani_Ilaaka"
+       },
+       {
+        "name": "IMDb",
+        "url": "https://www.imdb.com/title/tt0261296"
+       }
+      ],
+      "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep."
+     }
+    }
+   }
+  },
+  {
+   "id": 2187,
+   "title": "Suhani Si Ek Ladki",
+   "subtitle": "",
+   "year": "2015",
+   "meta": "TV serial · India · Hindi · Star Plus",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Surrogate Barbie hypnotizes Suhani to fake mental instability, including a staged terrace suicide, so she can break Suhani’s marriage and marry Yuvraj; Barbie also hypnotizes Dadi.",
+   "character": "Suhani; Dadi is also hypnotized",
+   "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep.",
+   "note": "Suhani is not pregnant during the arc: she had been rendered infertile and the plot centers on surrogacy. End-pregnancy is unknown. She had no children before; by the end she has twins Yuvaan and Yuvaani with Yuvraj and later son Sayyam with Sambhav.",
+   "format": "movie",
+   "categories": [
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Suhani_Si_Ek_Ladki"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "ig6qlxqxoxvcxla"
+   ],
+   "source_records": [
+    "ig6qlxqxoxvcxla:182"
+   ],
+   "index_only": true,
+   "local_only": false,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "ig6qlxqxoxvcxla:182": {
+     "detailed": {
+      "cat": 20,
+      "title": "Suhani Si Ek Ladki",
+      "year": "2015",
+      "meta": "TV serial · India · Hindi · Star Plus",
+      "subgroup": "Surrogate rival hypnosis",
+      "summary": "Surrogate Barbie hypnotizes Suhani to fake mental instability, including a staged terrace suicide, so she can break Suhani’s marriage and marry Yuvraj; Barbie also hypnotizes Dadi.",
+      "note": "Suhani is not pregnant during the arc: she had been rendered infertile and the plot centers on surrogacy. End-pregnancy is unknown. She had no children before; by the end she has twins Yuvaan and Yuvaani with Yuvraj and later son Sayyam with Sambhav.",
+      "character": "Suhani; Dadi is also hypnotized",
+      "mechanism": "Hypnosis and compelled staged behavior",
+      "controller": "Barbie",
+      "motive": "Break Suhani’s marriage and take Yuvraj",
+      "tags": [
+       "Female hypnosis / mind control — India",
+       "Forcibly hypnotized to obey",
+       "Verified",
+       "Pregnancy during arc · no",
+       "Pregnant at end · unknown",
+       "Children before · none",
+       "Children by end · Yuvaan, Yuvaani and Sayyam"
+      ],
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Suhani_Si_Ek_Ladki"
+       },
+       {
+        "name": "TellyChakkar episode coverage"
+       },
+       {
+        "name": "IndiaForums episode coverage"
+       }
+      ],
+      "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep."
+     }
+    }
+   }
+  },
+  {
+   "id": 2188,
+   "title": "Savdhaan India — S42E17 “A hypnotist misuses his skills”",
+   "subtitle": "",
+   "year": "2014",
+   "meta": "TV crime-docudrama episode · India · Hindi",
+   "mechanism": "",
+   "confidence_flag": "Stronger case",
+   "summary": "Pratik hypnotizes women he is romantically involved with and drives them toward suicide. Priya is burned alive amid strange visions; Neha suffers the same dreamlike visions but escapes; more women are affected in the following months.",
+   "character": "Priya, Neha and other women",
+   "provenance": "Aired 25 April 2014; verified in the 9 Oct 2026 targeted Savdhaan India / Shantham Papam sweep.",
+   "note": "Docudrama flag: dramatized real-crime reenactment, not fiction; included because the targeted search specifically covered Savdhaan India. Pregnancy and children status are unknown because the reviewed sources are silent.",
+   "format": "tv",
+   "categories": [
+    "forced-obedience",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Original catalog",
+     "url": "https://muse.ai/s/tv-and-movie-research-catalog-xla62ucxbx02u5"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "ig6qlxqxoxvcxla"
+   ],
+   "source_records": [
+    "ig6qlxqxoxvcxla:192",
+    "ig6qlxqxoxvcxla:262",
+    "ig6qlxqxoxvcxla:480"
+   ],
+   "index_only": true,
+   "local_only": false,
+   "thumbnail": null,
+   "primary_copy": {
+    "rid": "ig6qlxqxoxvcxla:192",
+    "source": "ig6qlxqxoxvcxla",
+    "label": "Savdhaan India — S42E17 “A hypnotist misuses his skills” (2014)",
+    "identifiers": [
+     "year/date",
+     "own title/qualifier"
+    ],
+    "title": "Savdhaan India — S42E17 “A hypnotist misuses his skills”",
+    "subtitle": "",
+    "year": "2014",
+    "meta": "TV crime-docudrama episode · India · Hindi",
+    "summary": "Pratik hypnotizes women he is romantically involved with and drives them toward suicide. Priya is burned alive amid strange visions; Neha suffers the same dreamlike visions but escapes; more women are affected in the following months.",
+    "character": "Priya, Neha and other women",
+    "note": "Docudrama flag: dramatized real-crime reenactment, not fiction; included because the targeted search specifically covered Savdhaan India. Pregnancy and children status are unknown because the reviewed sources are silent.",
+    "mechanism": "",
+    "confidence_flag": "",
+    "categories": [
+     "forced-obedience"
+    ],
+    "sources": [],
+    "distinct_story": false,
+    "index_title": "Savdhaan India — S42E17 “A hypnotist misuses his skills”"
+   },
+   "merged_from": [
+    {
+     "rid": "ig6qlxqxoxvcxla:262",
+     "source": "ig6qlxqxoxvcxla",
+     "label": "Savdhaan India — S42E17 “A hypnotist misuses his skills” (2014)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "Savdhaan India — S42E17 “A hypnotist misuses his skills”",
+     "subtitle": "",
+     "year": "2014",
+     "meta": "TV, soaps & episodes",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "Stronger case",
+     "categories": [
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "Original catalog",
+       "url": "https://muse.ai/s/tv-and-movie-research-catalog-xla62ucxbx02u5"
+      }
+     ],
+     "distinct_story": false,
+     "index_title": "Savdhaan India — S42E17 “A hypnotist misuses his skills” (2014)"
+    },
+    {
+     "rid": "ig6qlxqxoxvcxla:480",
+     "source": "ig6qlxqxoxvcxla",
+     "label": "Savdhaan India — S42E17 “A hypnotist misuses his skills” (2014)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "Savdhaan India — S42E17 “A hypnotist misuses his skills”",
+     "subtitle": "",
+     "year": "2014",
+     "meta": "TV, soaps & episodes",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "Cataloged",
+     "categories": [
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "Original catalog",
+       "url": "https://muse.ai/s/tv-and-movie-research-catalog-xla62ucxbx02u5"
+      }
+     ],
+     "distinct_story": false,
+     "index_title": "Savdhaan India — S42E17 “A hypnotist misuses his skills” (2014)"
+    }
+   ],
+   "raw": {
+    "ig6qlxqxoxvcxla:192": {
+     "detailed": {
+      "cat": 6,
+      "title": "Savdhaan India — S42E17 “A hypnotist misuses his skills”",
+      "year": "2014",
+      "meta": "TV crime-docudrama episode · India · Hindi",
+      "subgroup": "Villain / stranger / criminal",
+      "summary": "Pratik hypnotizes women he is romantically involved with and drives them toward suicide. Priya is burned alive amid strange visions; Neha suffers the same dreamlike visions but escapes; more women are affected in the following months.",
+      "note": "Docudrama flag: dramatized real-crime reenactment, not fiction; included because the targeted search specifically covered Savdhaan India. Pregnancy and children status are unknown because the reviewed sources are silent.",
+      "character": "Priya, Neha and other women",
+      "mechanism": "Literal hypnosis and induced dreamlike visions",
+      "controller": "Pratik",
+      "motive": "Lethal control of women he is romantically involved with",
+      "tags": [
+       "Forcibly hypnotized to obey",
+       "Female hypnosis / mind control — India",
+       "Literal hypnosis",
+       "Docudrama · dramatized real-crime reenactment",
+       "Pregnancy status · unknown",
+       "Children status · unknown",
+       "Verified"
+      ],
+      "sources": [
+       {
+        "name": "JioCinema official episode synopsis"
+       },
+       {
+        "name": "IndiaForums episode discussion"
+       }
+      ],
+      "provenance": "Aired 25 April 2014; verified in the 9 Oct 2026 targeted Savdhaan India / Shantham Papam sweep."
+     }
+    },
+    "ig6qlxqxoxvcxla:262": {
+     "title": "Savdhaan India — S42E17 “A hypnotist misuses his skills” (2014)",
+     "category": "Forcibly hypnotized to obey",
+     "group": "Villain / stranger / criminal",
+     "confidence": "Stronger case",
+     "note": ""
+    },
+    "ig6qlxqxoxvcxla:480": {
+     "title": "Savdhaan India — S42E17 “A hypnotist misuses his skills” (2014)",
+     "category": "Female hypnosis / mind control — India",
+     "group": "Villain / tantrik / antagonist control",
+     "confidence": "Cataloged",
+     "note": ""
+    }
+   }
+  },
+  {
+   "id": 2189,
    "title": "NBC Dracula",
    "subtitle": "",
    "year": "2013",
@@ -368890,7 +370523,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:201"
+    "ig6qlxqxoxvcxla:223"
    ],
    "index_only": true,
    "local_only": false,
@@ -368898,7 +370531,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:201": {
+    "ig6qlxqxoxvcxla:223": {
      "title": "NBC Dracula (2013)",
      "category": "Hypnotized / controlled into infidelity",
      "group": "Boundary note",
@@ -368908,7 +370541,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2182,
+   "id": 2191,
    "title": "Tau kwai mou jeu 2",
    "subtitle": "",
    "year": "2003",
@@ -368934,7 +370567,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:253"
+    "ig6qlxqxoxvcxla:276"
    ],
    "index_only": true,
    "local_only": false,
@@ -368942,7 +370575,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:253": {
+    "ig6qlxqxoxvcxla:276": {
      "title": "Tau kwai mou jeu 2 (2003)",
      "category": "Forcibly hypnotized to obey",
      "group": "Supernatural",
@@ -368952,7 +370585,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2183,
+   "id": 2192,
    "title": "Murder Me Twice",
    "subtitle": "",
    "year": "1958",
@@ -368978,7 +370611,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:257"
+    "ig6qlxqxoxvcxla:280"
    ],
    "index_only": true,
    "local_only": false,
@@ -368986,7 +370619,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:257": {
+    "ig6qlxqxoxvcxla:280": {
      "title": "Murder Me Twice (1958)",
      "category": "Forcibly hypnotized to obey",
      "group": "Mechanism variants",
@@ -368996,7 +370629,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2184,
+   "id": 2193,
    "title": "Take Her by Surprise",
    "subtitle": "",
    "year": "",
@@ -369022,7 +370655,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:310"
+    "ig6qlxqxoxvcxla:333"
    ],
    "index_only": true,
    "local_only": false,
@@ -369030,7 +370663,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:310": {
+    "ig6qlxqxoxvcxla:333": {
      "title": "Take Her by Surprise",
      "category": "Partner hires a third-party controller",
      "group": "Leads / variants",
@@ -369040,7 +370673,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2185,
+   "id": 2194,
    "title": "Be My Master",
    "subtitle": "",
    "year": "",
@@ -369066,7 +370699,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:313"
+    "ig6qlxqxoxvcxla:336"
    ],
    "index_only": true,
    "local_only": false,
@@ -369074,7 +370707,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:313": {
+    "ig6qlxqxoxvcxla:336": {
      "title": "Be My Master",
      "category": "Partner hires a third-party controller",
      "group": "Leads / variants",
@@ -369084,7 +370717,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2186,
+   "id": 2195,
    "title": "A Puppet",
    "subtitle": "",
    "year": "2013",
@@ -369110,7 +370743,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:322"
+    "ig6qlxqxoxvcxla:345"
    ],
    "index_only": true,
    "local_only": false,
@@ -369118,7 +370751,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:322": {
+    "ig6qlxqxoxvcxla:345": {
      "title": "A Puppet (2013)",
      "category": "Wife hypnotized / controlled by a therapist",
      "group": "Near-misses",
@@ -369128,7 +370761,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2187,
+   "id": 2196,
    "title": "Delusions of Murder",
    "subtitle": "",
    "year": "",
@@ -369154,7 +370787,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:323"
+    "ig6qlxqxoxvcxla:346"
    ],
    "index_only": true,
    "local_only": false,
@@ -369162,7 +370795,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:323": {
+    "ig6qlxqxoxvcxla:346": {
      "title": "Delusions of Murder",
      "category": "Wife hypnotized / controlled by a therapist",
      "group": "Near-misses",
@@ -369172,7 +370805,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2188,
+   "id": 2197,
    "title": "Segunda Mano",
    "subtitle": "",
    "year": "2009",
@@ -369198,7 +370831,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:349"
+    "ig6qlxqxoxvcxla:372"
    ],
    "index_only": true,
    "local_only": false,
@@ -369206,7 +370839,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:349": {
+    "ig6qlxqxoxvcxla:372": {
      "title": "Segunda Mano (2009)",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Labeled close variants",
@@ -369216,7 +370849,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2189,
+   "id": 2198,
    "title": "Blithe Spirit",
    "subtitle": "",
    "year": "",
@@ -369242,7 +370875,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:351"
+    "ig6qlxqxoxvcxla:374"
    ],
    "index_only": true,
    "local_only": false,
@@ -369250,7 +370883,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:351": {
+    "ig6qlxqxoxvcxla:374": {
      "title": "Blithe Spirit",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Near-misses",
@@ -369260,7 +370893,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2190,
+   "id": 2199,
    "title": "El fantasma de Elena",
    "subtitle": "",
    "year": "",
@@ -369286,7 +370919,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:353"
+    "ig6qlxqxoxvcxla:376"
    ],
    "index_only": true,
    "local_only": false,
@@ -369294,7 +370927,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:353": {
+    "ig6qlxqxoxvcxla:376": {
      "title": "El fantasma de Elena",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Near-misses",
@@ -369304,7 +370937,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2191,
+   "id": 2200,
    "title": "Bepanah Pyaar",
    "subtitle": "",
    "year": "",
@@ -369330,7 +370963,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:354"
+    "ig6qlxqxoxvcxla:377"
    ],
    "index_only": true,
    "local_only": false,
@@ -369338,7 +370971,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:354": {
+    "ig6qlxqxoxvcxla:377": {
      "title": "Bepanah Pyaar",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Near-misses",
@@ -369348,7 +370981,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2192,
+   "id": 2201,
    "title": "Laura Sin Censura",
    "subtitle": "",
    "year": "",
@@ -369374,7 +371007,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:356"
+    "ig6qlxqxoxvcxla:379"
    ],
    "index_only": true,
    "local_only": false,
@@ -369382,7 +371015,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:356": {
+    "ig6qlxqxoxvcxla:379": {
      "title": "Laura Sin Censura",
      "category": "Wife controlled / possessed by husband’s ex",
      "group": "Near-misses",
@@ -369392,7 +371025,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2193,
+   "id": 2202,
    "title": "The Wishing Box",
    "subtitle": "",
    "year": "1991",
@@ -369418,7 +371051,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:365"
+    "ig6qlxqxoxvcxla:388"
    ],
    "index_only": true,
    "local_only": false,
@@ -369426,7 +371059,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:365": {
+    "ig6qlxqxoxvcxla:388": {
      "title": "The Wishing Box (1991)",
      "category": "Stepmother / bonus mom hypnotized or mind-controlled",
      "group": "Supernatural / enchanted-object control",
@@ -369436,7 +371069,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2194,
+   "id": 2203,
    "title": "Law & Order: SVU",
    "subtitle": "",
    "year": "2003",
@@ -369462,7 +371095,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:410"
+    "ig6qlxqxoxvcxla:433"
    ],
    "index_only": true,
    "local_only": false,
@@ -369470,7 +371103,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:410": {
+    "ig6qlxqxoxvcxla:433": {
      "title": "Law & Order: SVU (2003)",
      "category": "Adopt a child, then become pregnant",
      "group": "Infertility / trouble conceiving → adoption → pregnancy",
@@ -369480,7 +371113,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2195,
+   "id": 2204,
    "title": "Ezra",
    "subtitle": "",
    "year": "2017",
@@ -369507,14 +371140,14 @@ window.CATALOG = {
     "india-catalog"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:478",
+    "ig6qlxqxoxvcxla:502",
     "india-catalog:75"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
    "primary_copy": {
-    "rid": "ig6qlxqxoxvcxla:478",
+    "rid": "ig6qlxqxoxvcxla:502",
     "source": "ig6qlxqxoxvcxla",
     "label": "Ezra (2017)",
     "identifiers": [
@@ -369565,7 +371198,7 @@ window.CATALOG = {
     }
    ],
    "raw": {
-    "ig6qlxqxoxvcxla:478": {
+    "ig6qlxqxoxvcxla:502": {
      "title": "Ezra (2017)",
      "category": "Female hypnosis / mind control — India",
      "group": "Spirit / ghost / paranormal control",
@@ -369588,7 +371221,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2196,
+   "id": 2205,
    "title": "Nosferatu",
    "subtitle": "",
    "year": "1922",
@@ -369614,7 +371247,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:526"
+    "ig6qlxqxoxvcxla:550"
    ],
    "index_only": true,
    "local_only": false,
@@ -369622,7 +371255,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:526": {
+    "ig6qlxqxoxvcxla:550": {
      "title": "Nosferatu (1922)",
      "category": "Vampire mesmerism",
      "group": "Classic gothic mesmerism",
@@ -369679,7 +371312,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2197,
+   "id": 2206,
    "title": "The Strain",
    "subtitle": "",
    "year": "",
@@ -369705,7 +371338,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:538"
+    "ig6qlxqxoxvcxla:562"
    ],
    "index_only": true,
    "local_only": false,
@@ -369713,7 +371346,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:538": {
+    "ig6qlxqxoxvcxla:562": {
      "title": "The Strain",
      "category": "Vampire mesmerism",
      "group": "Modern TV mesmerism",
@@ -369723,7 +371356,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2198,
+   "id": 2207,
    "title": "Santo vs. las mujeres vampiro",
    "subtitle": "",
    "year": "1962",
@@ -369749,7 +371382,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:540"
+    "ig6qlxqxoxvcxla:564"
    ],
    "index_only": true,
    "local_only": false,
@@ -369757,7 +371390,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:540": {
+    "ig6qlxqxoxvcxla:564": {
      "title": "Santo vs. las mujeres vampiro (1962)",
      "category": "Vampire mesmerism",
      "group": "Regional vampire cinema",
@@ -369767,7 +371400,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2199,
+   "id": 2208,
    "title": "Ella Enchanted",
    "subtitle": "",
    "year": "",
@@ -369793,7 +371426,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:697"
+    "ig6qlxqxoxvcxla:721"
    ],
    "index_only": true,
    "local_only": false,
@@ -369801,7 +371434,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:697": {
+    "ig6qlxqxoxvcxla:721": {
      "title": "Ella Enchanted",
      "category": "Fantasy enchantment",
      "group": "Catalog records",
@@ -369811,7 +371444,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2200,
+   "id": 2209,
    "title": "Penelope",
    "subtitle": "",
    "year": "",
@@ -369837,7 +371470,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:698"
+    "ig6qlxqxoxvcxla:722"
    ],
    "index_only": true,
    "local_only": false,
@@ -369845,7 +371478,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:698": {
+    "ig6qlxqxoxvcxla:722": {
      "title": "Penelope",
      "category": "Fantasy enchantment",
      "group": "Catalog records",
@@ -369855,7 +371488,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2201,
+   "id": 2210,
    "title": "Stardust",
    "subtitle": "",
    "year": "",
@@ -369881,7 +371514,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:699"
+    "ig6qlxqxoxvcxla:723"
    ],
    "index_only": true,
    "local_only": false,
@@ -369889,7 +371522,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:699": {
+    "ig6qlxqxoxvcxla:723": {
      "title": "Stardust",
      "category": "Fantasy enchantment",
      "group": "Catalog records",
@@ -369899,7 +371532,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2202,
+   "id": 2211,
    "title": "The Princess Bride — miracle pill",
    "subtitle": "",
    "year": "",
@@ -369925,7 +371558,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:700"
+    "ig6qlxqxoxvcxla:724"
    ],
    "index_only": true,
    "local_only": false,
@@ -369933,7 +371566,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:700": {
+    "ig6qlxqxoxvcxla:724": {
      "title": "The Princess Bride — miracle pill",
      "category": "Fantasy enchantment",
      "group": "Catalog records",
@@ -369943,7 +371576,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2203,
+   "id": 2212,
    "title": "Enchanted",
    "subtitle": "",
    "year": "2007",
@@ -369969,7 +371602,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:701"
+    "ig6qlxqxoxvcxla:725"
    ],
    "index_only": true,
    "local_only": false,
@@ -369977,7 +371610,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:701": {
+    "ig6qlxqxoxvcxla:725": {
      "title": "Enchanted (2007)",
      "category": "Fantasy enchantment",
      "group": "Catalog records",
@@ -369987,7 +371620,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2204,
+   "id": 2213,
    "title": "Cinderella",
    "subtitle": "",
    "year": "2015",
@@ -370013,7 +371646,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:703"
+    "ig6qlxqxoxvcxla:727"
    ],
    "index_only": true,
    "local_only": false,
@@ -370021,7 +371654,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:703": {
+    "ig6qlxqxoxvcxla:727": {
      "title": "Cinderella (2015)",
      "category": "Fantasy enchantment",
      "group": "Catalog records",
@@ -370031,7 +371664,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2205,
+   "id": 2214,
    "title": "Jimmy Timmy Power Hour",
    "subtitle": "",
    "year": "2004",
@@ -370057,7 +371690,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:798"
+    "ig6qlxqxoxvcxla:822"
    ],
    "index_only": true,
    "local_only": false,
@@ -370065,7 +371698,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:798": {
+    "ig6qlxqxoxvcxla:822": {
      "title": "Jimmy Timmy Power Hour (2004)",
      "category": "Female character controlled by a child / teen",
      "group": "Comedy / family / fantasy domination",
@@ -370075,7 +371708,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2206,
+   "id": 2215,
    "title": "Metamorphosis",
    "subtitle": "",
    "year": "1971",
@@ -370101,7 +371734,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:828"
+    "ig6qlxqxoxvcxla:852"
    ],
    "index_only": true,
    "local_only": false,
@@ -370109,7 +371742,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:828": {
+    "ig6qlxqxoxvcxla:852": {
      "title": "Metamorphosis (1971)",
      "category": "Pregnant woman hypnotized / mind-controlled",
      "group": "Unresolved leads",
@@ -370119,7 +371752,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2207,
+   "id": 2216,
    "title": "A Grande Família — excluded",
    "subtitle": "",
    "year": "",
@@ -370145,7 +371778,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:1005"
+    "ig6qlxqxoxvcxla:1029"
    ],
    "index_only": true,
    "local_only": false,
@@ -370153,7 +371786,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "ig6qlxqxoxvcxla:1005": {
+    "ig6qlxqxoxvcxla:1029": {
      "title": "A Grande Família — excluded",
      "category": "Pregnant mother + child walk-in",
      "group": "Partial / exclusion cases",
@@ -370163,7 +371796,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2208,
+   "id": 2217,
    "title": "Ninnu Kori",
    "subtitle": "",
    "year": "c. 2025",
@@ -370221,7 +371854,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2209,
+   "id": 2218,
    "title": "7aum Arivu",
    "subtitle": "",
    "year": "2011",
@@ -370287,7 +371920,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2210,
+   "id": 2219,
    "title": "Durgamati",
    "subtitle": "",
    "year": "2020",
@@ -370345,7 +371978,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2211,
+   "id": 2220,
    "title": "Dharam Veer",
    "subtitle": "",
    "year": "1977",
@@ -370659,7 +372292,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2212,
+   "id": 2221,
    "title": "31 Minutes",
    "subtitle": "",
    "year": "2003",
@@ -370719,7 +372352,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2213,
+   "id": 2222,
    "title": "4 Shimai Tantei Dan",
    "subtitle": "",
    "year": "2008",
@@ -370779,7 +372412,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2214,
+   "id": 2223,
    "title": "A Nightmare on Elm Street 3: Dream Warriors",
    "subtitle": "",
    "year": "1987",
@@ -370847,7 +372480,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2215,
+   "id": 2224,
    "title": "A Portrait of Jianghu: Reincarnated Disciple",
    "subtitle": "",
    "year": "2024",
@@ -370907,7 +372540,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2216,
+   "id": 2225,
    "title": "Aida",
    "subtitle": "",
    "year": "",
@@ -370967,7 +372600,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2217,
+   "id": 2226,
    "title": "Agency of Vengeance: Dark Rising",
    "subtitle": "",
    "year": "2014",
@@ -371029,7 +372662,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2218,
+   "id": 2227,
    "title": "Alma Pirata",
    "subtitle": "",
    "year": "2006",
@@ -371089,7 +372722,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2219,
+   "id": 2228,
    "title": "Alien Presence",
    "subtitle": "",
    "year": "2009",
@@ -371160,7 +372793,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2220,
+   "id": 2229,
    "title": "Amor Mío",
    "subtitle": "",
    "year": "2006",
@@ -371222,7 +372855,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2221,
+   "id": 2230,
    "title": "Austin & Ally",
    "subtitle": "",
    "year": "",
@@ -371286,7 +372919,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2222,
+   "id": 2231,
    "title": "Asian Treasures",
    "subtitle": "",
    "year": "",
@@ -371346,7 +372979,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2223,
+   "id": 2232,
    "title": "Armor Hero Captor",
    "subtitle": "",
    "year": "",
@@ -371408,7 +373041,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2224,
+   "id": 2233,
    "title": "Amor Mío",
    "subtitle": "",
    "year": "2005",
@@ -371470,7 +373103,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2225,
+   "id": 2234,
    "title": "Battle Skipper",
    "subtitle": "",
    "year": "",
@@ -371530,7 +373163,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2226,
+   "id": 2235,
    "title": "Basim Belada",
    "subtitle": "",
    "year": "2023",
@@ -371590,7 +373223,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2227,
+   "id": 2236,
    "title": "Carrossel",
    "subtitle": "",
    "year": "",
@@ -371650,7 +373283,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2228,
+   "id": 2237,
    "title": "Campus Beauty",
    "subtitle": "",
    "year": "",
@@ -371712,7 +373345,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2229,
+   "id": 2238,
    "title": "Candle in the Tomb: The Worm Valley",
    "subtitle": "",
    "year": "2021",
@@ -371772,7 +373405,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2230,
+   "id": 2239,
    "title": "Chalkzone",
    "subtitle": "",
    "year": "",
@@ -371832,7 +373465,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2231,
+   "id": 2240,
    "title": "Chespirito",
    "subtitle": "",
    "year": "",
@@ -371892,7 +373525,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2232,
+   "id": 2241,
    "title": "Cold Hearts",
    "subtitle": "",
    "year": "1999",
@@ -371960,7 +373593,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2233,
+   "id": 2242,
    "title": "Chikyuu Sentai Fiveman",
    "subtitle": "",
    "year": "1990",
@@ -372020,7 +373653,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2234,
+   "id": 2243,
    "title": "Caça Talentos",
    "subtitle": "",
    "year": "1996",
@@ -372082,7 +373715,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2235,
+   "id": 2244,
    "title": "Chaotic Ana",
    "subtitle": "",
    "year": "2007",
@@ -372150,7 +373783,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2236,
+   "id": 2245,
    "title": "Come Home Love: Lo and Behold",
    "subtitle": "",
    "year": "2017",
@@ -372210,7 +373843,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2237,
+   "id": 2246,
    "title": "Crime Time",
    "subtitle": "",
    "year": "",
@@ -372270,7 +373903,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2238,
+   "id": 2247,
    "title": "Con la muerte en los tacones",
    "subtitle": "",
    "year": "2007",
@@ -372334,7 +373967,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2239,
+   "id": 2248,
    "title": "Cuidado con el Angel",
    "subtitle": "",
    "year": "",
@@ -372394,7 +374027,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2240,
+   "id": 2249,
    "title": "Cops and Robbers",
    "subtitle": "",
    "year": "1997–2007",
@@ -372454,7 +374087,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2241,
+   "id": 2250,
    "title": "Curse Of Evil",
    "subtitle": "",
    "year": "1982",
@@ -372514,7 +374147,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2242,
+   "id": 2251,
    "title": "Danger Diva",
    "subtitle": "",
    "year": "2020",
@@ -372576,7 +374209,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2243,
+   "id": 2252,
    "title": "Dark Vision",
    "subtitle": "",
    "year": "2015",
@@ -372645,7 +374278,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2244,
+   "id": 2253,
    "title": "Dennou Boukenki Webdiver",
    "subtitle": "",
    "year": "",
@@ -372707,7 +374340,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2246,
+   "id": 2255,
    "title": "Detective Anna",
    "subtitle": "",
    "year": "2016–2017",
@@ -372783,7 +374416,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2247,
+   "id": 2256,
    "title": "Dear Dracula",
    "subtitle": "",
    "year": "",
@@ -372843,7 +374476,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2248,
+   "id": 2257,
    "title": "Denshi Sentai Denziman: The Movie",
    "subtitle": "",
    "year": "1980",
@@ -372905,7 +374538,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2249,
+   "id": 2258,
    "title": "Delfy and His Friends",
    "subtitle": "",
    "year": "1992",
@@ -372965,7 +374598,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2250,
+   "id": 2259,
    "title": "DC's Legends of Tomorrow",
    "subtitle": "",
    "year": "2016–2022",
@@ -373027,7 +374660,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2251,
+   "id": 2260,
    "title": "Dracula",
    "subtitle": "",
    "year": "1974",
@@ -373089,7 +374722,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2252,
+   "id": 2261,
    "title": "Doctor Satan Versus Black Magic",
    "subtitle": "",
    "year": "1968",
@@ -373149,7 +374782,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2253,
+   "id": 2262,
    "title": "Dracula in Istanbul",
    "subtitle": "",
    "year": "1953",
@@ -373209,7 +374842,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2255,
+   "id": 2264,
    "title": "Do Not Reply",
    "subtitle": "",
    "year": "2019",
@@ -373304,7 +374937,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2256,
+   "id": 2265,
    "title": "El Combo Amarillo",
    "subtitle": "",
    "year": "2011–2015",
@@ -373364,7 +374997,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2257,
+   "id": 2266,
    "title": "Dracula's Curse",
    "subtitle": "",
    "year": "2006",
@@ -373457,7 +375090,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2258,
+   "id": 2267,
    "title": "Dragnet of Spies",
    "subtitle": "",
    "year": "2019",
@@ -373517,7 +375150,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2259,
+   "id": 2268,
    "title": "Dracula’s Coffin",
    "subtitle": "",
    "year": "2018",
@@ -373579,7 +375212,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2260,
+   "id": 2269,
    "title": "Enamorandome de Ramon",
    "subtitle": "",
    "year": "",
@@ -373639,7 +375272,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2261,
+   "id": 2270,
    "title": "Evil Of Dracula",
    "subtitle": "",
    "year": "1974",
@@ -373701,7 +375334,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2262,
+   "id": 2271,
    "title": "Enigma",
    "subtitle": "",
    "year": "1977",
@@ -373761,7 +375394,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2263,
+   "id": 2272,
    "title": "El Torito",
    "subtitle": "",
    "year": "2015",
@@ -373821,7 +375454,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2264,
+   "id": 2273,
    "title": "Frankenstein, El vampiro y compañia",
    "subtitle": "",
    "year": "",
@@ -373883,7 +375516,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2265,
+   "id": 2274,
    "title": "Gall Force The Revolution",
    "subtitle": "",
    "year": "1996",
@@ -373945,7 +375578,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2266,
+   "id": 2275,
    "title": "Futari wa Pretty Cure",
    "subtitle": "",
    "year": "",
@@ -374005,7 +375638,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2267,
+   "id": 2276,
    "title": "Gawayn",
    "subtitle": "",
    "year": "",
@@ -374067,7 +375700,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2268,
+   "id": 2277,
    "title": "Gallery Of Horrors",
    "subtitle": "",
    "year": "1967",
@@ -374129,7 +375762,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2269,
+   "id": 2278,
    "title": "Gen V",
    "subtitle": "",
    "year": "",
@@ -374189,7 +375822,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2270,
+   "id": 2279,
    "title": "Gym Tony",
    "subtitle": "",
    "year": "2014",
@@ -374249,7 +375882,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2271,
+   "id": 2280,
    "title": "Habitación 503",
    "subtitle": "",
    "year": "1993",
@@ -374309,7 +375942,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2272,
+   "id": 2281,
    "title": "Hermosilla y Quintanilla",
    "subtitle": "",
    "year": "",
@@ -374369,7 +376002,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2273,
+   "id": 2282,
    "title": "I Am a Fugitive",
    "subtitle": "",
    "year": "1946",
@@ -374429,7 +376062,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2274,
+   "id": 2283,
    "title": "I Married A Monster",
    "subtitle": "",
    "year": "",
@@ -374489,7 +376122,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2275,
+   "id": 2284,
    "title": "Invasion USA",
    "subtitle": "",
    "year": "1952",
@@ -374549,7 +376182,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2276,
+   "id": 2285,
    "title": "Jackal",
    "subtitle": "",
    "year": "2022",
@@ -374611,7 +376244,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2277,
+   "id": 2286,
    "title": "Joko Anwar's Nightmares and Daydreams",
    "subtitle": "",
    "year": "2024",
@@ -374673,7 +376306,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2278,
+   "id": 2287,
    "title": "La Escuelita",
    "subtitle": "",
    "year": "2000",
@@ -374733,7 +376366,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2279,
+   "id": 2288,
    "title": "La Pelu",
    "subtitle": "",
    "year": "",
@@ -374793,7 +376426,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2280,
+   "id": 2289,
    "title": "La Traicion",
    "subtitle": "",
    "year": "",
@@ -374855,7 +376488,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2281,
+   "id": 2290,
    "title": "Lois and Clark: The New Adventures of Superman",
    "subtitle": "",
    "year": "1993–1997",
@@ -374915,7 +376548,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2282,
+   "id": 2291,
    "title": "Los Fabu",
    "subtitle": "",
    "year": "",
@@ -374975,7 +376608,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2283,
+   "id": 2292,
    "title": "Los Únicos",
    "subtitle": "",
    "year": "",
@@ -375037,7 +376670,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2284,
+   "id": 2293,
    "title": "Legend Heroes",
    "subtitle": "",
    "year": "2016",
@@ -375099,7 +376732,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2285,
+   "id": 2294,
    "title": "Macross Plus",
    "subtitle": "",
    "year": "2040",
@@ -375159,7 +376792,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2286,
+   "id": 2295,
    "title": "Marvel Disk Wars: The Avengers",
    "subtitle": "",
    "year": "",
@@ -375219,7 +376852,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2287,
+   "id": 2296,
    "title": "Max Steel: Team Turbo Fusion Tek",
    "subtitle": "",
    "year": "2016",
@@ -375279,7 +376912,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2288,
+   "id": 2297,
    "title": "Martial Law",
    "subtitle": "",
    "year": "2008",
@@ -375339,7 +376972,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2289,
+   "id": 2298,
    "title": "Mahou Sentai Magiranger",
    "subtitle": "",
    "year": "",
@@ -375403,7 +377036,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2290,
+   "id": 2299,
    "title": "Mars Needs Women",
    "subtitle": "",
    "year": "1967",
@@ -375472,7 +377105,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2291,
+   "id": 2300,
    "title": "Magnum, PI",
    "subtitle": "",
    "year": "1980–1988",
@@ -375532,7 +377165,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2292,
+   "id": 2301,
    "title": "Mega Man",
    "subtitle": "",
    "year": "1995",
@@ -375594,7 +377227,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2293,
+   "id": 2302,
    "title": "Moby Dick and the Mighty Mightor",
    "subtitle": "",
    "year": "1967",
@@ -375654,7 +377287,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2294,
+   "id": 2303,
    "title": "Monster",
    "subtitle": "",
    "year": "2004",
@@ -375714,7 +377347,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2295,
+   "id": 2304,
    "title": "My Secret Identity",
    "subtitle": "",
    "year": "1988",
@@ -375784,7 +377417,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2296,
+   "id": 2305,
    "title": "Nana Seven of Seven",
    "subtitle": "",
    "year": "2002",
@@ -375846,7 +377479,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2297,
+   "id": 2306,
    "title": "Nurse Witch Komugi",
    "subtitle": "",
    "year": "",
@@ -375908,7 +377541,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2298,
+   "id": 2307,
    "title": "Phantom Quest Corp.",
    "subtitle": "",
    "year": "",
@@ -375968,7 +377601,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2299,
+   "id": 2308,
    "title": "Ore Monogatari!!",
    "subtitle": "",
    "year": "2015",
@@ -376028,7 +377661,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2300,
+   "id": 2309,
    "title": "Pepito y el Monstruo",
    "subtitle": "",
    "year": "1957",
@@ -376088,7 +377721,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2301,
+   "id": 2310,
    "title": "Out For Blood",
    "subtitle": "",
    "year": "2004",
@@ -376299,7 +377932,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2302,
+   "id": 2311,
    "title": "Obras maestras del terror",
    "subtitle": "",
    "year": "1959",
@@ -376359,7 +377992,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2303,
+   "id": 2312,
    "title": "Palabra De Mujer",
    "subtitle": "",
    "year": "",
@@ -376419,7 +378052,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2304,
+   "id": 2313,
    "title": "Planet Dolan",
    "subtitle": "",
    "year": "2010",
@@ -376479,7 +378112,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2305,
+   "id": 2314,
    "title": "Potent Media's Sugar Skull Girls",
    "subtitle": "",
    "year": "",
@@ -376539,7 +378172,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2306,
+   "id": 2315,
    "title": "Power Rangers Super Ninja Steel",
    "subtitle": "",
    "year": "2020",
@@ -376603,7 +378236,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2307,
+   "id": 2316,
    "title": "Rainbow Brite Reboot",
    "subtitle": "",
    "year": "2014",
@@ -376665,7 +378298,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2308,
+   "id": 2317,
    "title": "Prova de Amor",
    "subtitle": "",
    "year": "",
@@ -376725,7 +378358,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2309,
+   "id": 2318,
    "title": "Pucca",
    "subtitle": "",
    "year": "",
@@ -376785,7 +378418,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2310,
+   "id": 2319,
    "title": "Psych-Hunter",
    "subtitle": "",
    "year": "2020",
@@ -376845,7 +378478,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2311,
+   "id": 2320,
    "title": "Ronnie Biddles",
    "subtitle": "",
    "year": "",
@@ -376905,7 +378538,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2312,
+   "id": 2321,
    "title": "Romeo!",
    "subtitle": "",
    "year": "2003–2006",
@@ -376967,7 +378600,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2313,
+   "id": 2322,
    "title": "Rider of the Skulls",
    "subtitle": "",
    "year": "1965",
@@ -377027,7 +378660,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2314,
+   "id": 2323,
    "title": "Senki Zesshō Symphogear G",
    "subtitle": "",
    "year": "",
@@ -377087,7 +378720,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2315,
+   "id": 2324,
    "title": "Seiren",
    "subtitle": "",
    "year": "2015",
@@ -377147,7 +378780,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2316,
+   "id": 2325,
    "title": "Shadowhunters",
    "subtitle": "",
    "year": "2016–2019",
@@ -377217,7 +378850,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2317,
+   "id": 2326,
    "title": "Seven & Me",
    "subtitle": "",
    "year": "2016",
@@ -377277,7 +378910,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2318,
+   "id": 2327,
    "title": "Skylanders Academy",
    "subtitle": "",
    "year": "",
@@ -377337,7 +378970,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2319,
+   "id": 2328,
    "title": "Sleep Attack",
    "subtitle": "",
    "year": "2012",
@@ -377399,7 +379032,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2320,
+   "id": 2329,
    "title": "Sonic Underground",
    "subtitle": "",
    "year": "1998",
@@ -377491,7 +379124,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2321,
+   "id": 2330,
    "title": "Spirou & Fantasio's Big Adventures",
    "subtitle": "",
    "year": "2018",
@@ -377551,7 +379184,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2322,
+   "id": 2331,
    "title": "Space Cobra",
    "subtitle": "",
    "year": "1982–1983",
@@ -377611,7 +379244,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2323,
+   "id": 2332,
    "title": "Starship: Apocalypse",
    "subtitle": "",
    "year": "2015",
@@ -377671,7 +379304,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2324,
+   "id": 2333,
    "title": "Susana y Mariano",
    "subtitle": "",
    "year": "",
@@ -377731,7 +379364,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2325,
+   "id": 2334,
    "title": "Super Models",
    "subtitle": "",
    "year": "1999",
@@ -377883,7 +379516,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2326,
+   "id": 2335,
    "title": "Tears to Tiara",
    "subtitle": "",
    "year": "",
@@ -377943,7 +379576,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2327,
+   "id": 2336,
    "title": "Tetsujin 28-go FX",
    "subtitle": "",
    "year": "",
@@ -378005,7 +379638,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2328,
+   "id": 2337,
    "title": "Tales of Dracula",
    "subtitle": "",
    "year": "2015",
@@ -378065,7 +379698,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2329,
+   "id": 2338,
    "title": "The Blood of Fu Manchu",
    "subtitle": "",
    "year": "",
@@ -378125,7 +379758,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2330,
+   "id": 2339,
    "title": "The Body Beneath",
    "subtitle": "",
    "year": "1970",
@@ -378203,7 +379836,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2331,
+   "id": 2340,
    "title": "The Brainiac",
    "subtitle": "",
    "year": "1962",
@@ -378280,7 +379913,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2332,
+   "id": 2341,
    "title": "The Great Adventurer Wesley",
    "subtitle": "",
    "year": "2018",
@@ -378342,7 +379975,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2333,
+   "id": 2342,
    "title": "The Fugitive",
    "subtitle": "",
    "year": "2011",
@@ -378402,7 +380035,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2334,
+   "id": 2343,
    "title": "The Menkoff Method",
    "subtitle": "",
    "year": "2020",
@@ -378462,7 +380095,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2335,
+   "id": 2344,
    "title": "The Night of the Sorcerers",
    "subtitle": "",
    "year": "1974",
@@ -378540,7 +380173,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2336,
+   "id": 2345,
    "title": "The Three Musketeers Anime",
    "subtitle": "",
    "year": "1987",
@@ -378600,7 +380233,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2337,
+   "id": 2346,
    "title": "The Thundermans",
    "subtitle": "",
    "year": "2013–2018",
@@ -378832,7 +380465,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2338,
+   "id": 2347,
    "title": "Tsukuyomi: Moon Phase",
    "subtitle": "",
    "year": "",
@@ -378894,7 +380527,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2339,
+   "id": 2348,
    "title": "Two of Kind: Spirou & Fantasio",
    "subtitle": "",
    "year": "2006–2007",
@@ -378956,7 +380589,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2340,
+   "id": 2349,
    "title": "Trideviyaan",
    "subtitle": "",
    "year": "2016–2017",
@@ -379029,7 +380662,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2341,
+   "id": 2350,
    "title": "Topa y Muni",
    "subtitle": "",
    "year": "",
@@ -379089,7 +380722,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2342,
+   "id": 2351,
    "title": "Thunderbolt Fantasy",
    "subtitle": "",
    "year": "",
@@ -379149,7 +380782,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2343,
+   "id": 2352,
    "title": "Viper",
    "subtitle": "",
    "year": "1996–1999",
@@ -379209,7 +380842,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2344,
+   "id": 2353,
    "title": "V: The Series",
    "subtitle": "",
    "year": "1984",
@@ -379269,7 +380902,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2345,
+   "id": 2354,
    "title": "Vampires on Bikini Beach",
    "subtitle": "",
    "year": "1988",
@@ -379338,7 +380971,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2346,
+   "id": 2355,
    "title": "Wrestling Women vs. The Aztec Mummy",
    "subtitle": "",
    "year": "1964",
@@ -379400,7 +381033,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2347,
+   "id": 2356,
    "title": "Wild 7",
    "subtitle": "",
    "year": "1972–1973",
@@ -379462,7 +381095,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2348,
+   "id": 2357,
    "title": "Zapping Zone",
    "subtitle": "",
    "year": "2000",
@@ -379522,7 +381155,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2349,
+   "id": 2358,
    "title": "Young-gu and Count Dracula",
    "subtitle": "",
    "year": "1992",
@@ -379584,7 +381217,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2350,
+   "id": 2359,
    "title": "Yo soy Bea",
    "subtitle": "",
    "year": "2006",
@@ -379644,7 +381277,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2373,
+   "id": 2382,
    "title": "Imago",
    "subtitle": "To Be Free",
    "year": "1970",
@@ -379742,7 +381375,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2381,
+   "id": 2390,
    "title": "Raped by an Angel 3: Sexual Fantasy of the Chief Executive (強姦3OL誘惑)",
    "subtitle": "",
    "year": "1998",
@@ -379832,7 +381465,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2382,
+   "id": 2391,
    "title": "Le Déclic / The Click",
    "subtitle": "",
    "year": "1985",
@@ -379935,7 +381568,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2383,
+   "id": 2392,
    "title": "Wanda, the Sadistic Hypnotist / The Sadistic Hypnotist",
    "subtitle": "",
    "year": "1969",
@@ -380036,7 +381669,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2384,
+   "id": 2393,
    "title": "Twisted Fiction",
    "subtitle": "Segment 1 (“Mind F**k”)",
    "year": "2023",
@@ -380129,7 +381762,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2385,
+   "id": 2394,
    "title": "Hypnotic Passions",
    "subtitle": "",
    "year": "1993",
@@ -380209,7 +381842,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2386,
+   "id": 2395,
    "title": "Hypno Sex",
    "subtitle": "",
    "year": "1996",
@@ -380289,7 +381922,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2387,
+   "id": 2396,
    "title": "Patrick Still Lives / Patrick vive ancora",
    "subtitle": "",
    "year": "1980",
@@ -380392,7 +382025,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2388,
+   "id": 2397,
    "title": "Night Train to Terror",
    "subtitle": "Segment “The Case of Harry Billings”",
    "year": "1985",
@@ -380498,7 +382131,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2389,
+   "id": 2398,
    "title": "형사 (TBC) — summer horror special “얼굴없는 미녀”",
    "subtitle": "",
    "year": "1980",
@@ -380604,7 +382237,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2462,
+   "id": 2471,
    "title": "Entre Nous",
    "subtitle": "",
    "year": "2021",
@@ -380680,7 +382313,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2463,
+   "id": 2472,
    "title": "Hercules in the Haunted World",
    "subtitle": "Ercole al centro della Terra",
    "year": "1961",
@@ -380786,7 +382419,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2464,
+   "id": 2473,
    "title": "Shrek 2",
    "subtitle": "",
    "year": "2004",
@@ -380873,7 +382506,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2465,
+   "id": 2474,
    "title": "Merlin",
    "subtitle": "",
    "year": "2008–12",
@@ -380992,7 +382625,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2466,
+   "id": 2475,
    "title": "Anastasia",
    "subtitle": "",
    "year": "1997",
@@ -381079,7 +382712,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2467,
+   "id": 2476,
    "title": "Captain Thunder",
    "subtitle": "El Capitán Trueno y el Santo Grial",
    "year": "2011",
@@ -381169,7 +382802,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2468,
+   "id": 2477,
    "title": "Hercules Against the Moon Men",
    "subtitle": "Maciste e la regina di Samar",
    "year": "1964",
@@ -381251,7 +382884,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2469,
+   "id": 2478,
    "title": "Alif Laila",
    "subtitle": "",
    "year": "1993–97",
@@ -381368,7 +383001,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2470,
+   "id": 2479,
    "title": "Galtar and the Golden Lance",
    "subtitle": "",
    "year": "1985–86",
@@ -381471,7 +383104,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2471,
+   "id": 2480,
    "title": "Venus in Furs",
    "subtitle": "",
    "year": "1969",
@@ -381552,7 +383185,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2472,
+   "id": 2481,
    "title": "Last Tango in Paris",
    "subtitle": "",
    "year": "1972",
@@ -381633,7 +383266,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2473,
+   "id": 2482,
    "title": "The Teacher",
    "subtitle": "",
    "year": "1974",
@@ -381714,7 +383347,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2474,
+   "id": 2483,
    "title": "Dressed to Kill",
    "subtitle": "",
    "year": "1980",
@@ -381802,7 +383435,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2475,
+   "id": 2484,
    "title": "American Nightmare",
    "subtitle": "",
    "year": "1983",
@@ -381883,7 +383516,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2476,
+   "id": 2485,
    "title": "Blind Date",
    "subtitle": "",
    "year": "1984",
@@ -381971,7 +383604,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2477,
+   "id": 2486,
    "title": "Crimes of Passion",
    "subtitle": "",
    "year": "1984",
@@ -382059,7 +383692,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2478,
+   "id": 2487,
    "title": "The Bedroom Window",
    "subtitle": "",
    "year": "1987",
@@ -382140,7 +383773,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2479,
+   "id": 2488,
    "title": "Five Corners",
    "subtitle": "",
    "year": "1987",
@@ -382228,7 +383861,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2480,
+   "id": 2489,
    "title": "Summer Heat",
    "subtitle": "",
    "year": "1987",
@@ -382316,7 +383949,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2481,
+   "id": 2490,
    "title": "Call Me",
    "subtitle": "",
    "year": "1988",
@@ -382397,7 +384030,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2482,
+   "id": 2491,
    "title": "The Girl in a Swing",
    "subtitle": "",
    "year": "1988",
@@ -382478,7 +384111,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2483,
+   "id": 2492,
    "title": "Masquerade",
    "subtitle": "",
    "year": "1988",
@@ -382559,7 +384192,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2484,
+   "id": 2493,
    "title": "Party Line",
    "subtitle": "",
    "year": "1988",
@@ -382647,7 +384280,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2485,
+   "id": 2494,
    "title": "Jezebel's Kiss",
    "subtitle": "",
    "year": "1990",
@@ -382728,7 +384361,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2486,
+   "id": 2495,
    "title": "Fatal Bond",
    "subtitle": "",
    "year": "1991",
@@ -382816,7 +384449,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2487,
+   "id": 2496,
    "title": "Shattered",
    "subtitle": "",
    "year": "1991",
@@ -382897,7 +384530,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2488,
+   "id": 2497,
    "title": "Animal Instincts",
    "subtitle": "",
    "year": "1992",
@@ -382978,7 +384611,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2489,
+   "id": 2498,
    "title": "Single White Female",
    "subtitle": "",
    "year": "1992",
@@ -383059,7 +384692,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2490,
+   "id": 2499,
    "title": "Betrayal of the Dove",
    "subtitle": "",
    "year": "1993",
@@ -383140,7 +384773,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2491,
+   "id": 2500,
    "title": "Dream Lover",
    "subtitle": "",
    "year": "1993",
@@ -383221,7 +384854,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2492,
+   "id": 2501,
    "title": "A House in the Hills",
    "subtitle": "",
    "year": "1993",
@@ -383302,7 +384935,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2493,
+   "id": 2502,
    "title": "Romeo Is Bleeding",
    "subtitle": "",
    "year": "1993",
@@ -383383,7 +385016,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2494,
+   "id": 2503,
    "title": "Sins of Desire",
    "subtitle": "",
    "year": "1993",
@@ -383464,7 +385097,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2495,
+   "id": 2504,
    "title": "China Moon",
    "subtitle": "",
    "year": "1994",
@@ -383552,7 +385185,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2496,
+   "id": 2505,
    "title": "Dangerous Touch",
    "subtitle": "",
    "year": "1994",
@@ -383633,7 +385266,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2497,
+   "id": 2506,
    "title": "Love Is a Gun",
    "subtitle": "",
    "year": "1994",
@@ -383714,7 +385347,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2498,
+   "id": 2507,
    "title": "The Maddening",
    "subtitle": "",
    "year": "1995",
@@ -383795,7 +385428,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2499,
+   "id": 2508,
    "title": "Mirror, Mirror III: The Voyeur",
    "subtitle": "",
    "year": "1995",
@@ -383876,7 +385509,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2500,
+   "id": 2509,
    "title": "Exit in Red",
    "subtitle": "",
    "year": "1996",
@@ -383957,7 +385590,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2501,
+   "id": 2510,
    "title": "Naked Souls",
    "subtitle": "",
    "year": "1996",
@@ -384038,7 +385671,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2502,
+   "id": 2511,
    "title": "This World, Then the Fireworks",
    "subtitle": "",
    "year": "1997",
@@ -384119,7 +385752,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2503,
+   "id": 2512,
    "title": "New Rose Hotel",
    "subtitle": "",
    "year": "1998",
@@ -384207,7 +385840,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2504,
+   "id": 2513,
    "title": "Zebra Lounge",
    "subtitle": "",
    "year": "2001",
@@ -384288,7 +385921,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2505,
+   "id": 2514,
    "title": "Killing Me Softly",
    "subtitle": "",
    "year": "2002",
@@ -384369,7 +386002,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2506,
+   "id": 2515,
    "title": "Trois 2: Pandora's Box",
    "subtitle": "",
    "year": "2002",
@@ -384457,7 +386090,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2507,
+   "id": 2516,
    "title": "Dot the i",
    "subtitle": "",
    "year": "2003",
@@ -384545,7 +386178,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2508,
+   "id": 2517,
    "title": "Decoys",
    "subtitle": "",
    "year": "2004",
@@ -384633,7 +386266,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2509,
+   "id": 2518,
    "title": "Boarding Gate",
    "subtitle": "",
    "year": "2007",
@@ -384714,7 +386347,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2510,
+   "id": 2519,
    "title": "Chloe",
    "subtitle": "",
    "year": "2009",
@@ -384795,7 +386428,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2511,
+   "id": 2520,
    "title": "The Skin I Live In",
    "subtitle": "",
    "year": "2011",
@@ -384876,7 +386509,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2512,
+   "id": 2521,
    "title": "Plush",
    "subtitle": "",
    "year": "2013",
@@ -384964,7 +386597,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2513,
+   "id": 2522,
    "title": "Innocent Thing",
    "subtitle": "",
    "year": "2014",
@@ -385052,7 +386685,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2514,
+   "id": 2523,
    "title": "The Loft",
    "subtitle": "",
    "year": "2014",
@@ -385140,7 +386773,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2515,
+   "id": 2524,
    "title": "Careful What You Wish For",
    "subtitle": "",
    "year": "2015",
@@ -385228,7 +386861,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2516,
+   "id": 2525,
    "title": "Fatale",
    "subtitle": "",
    "year": "2020",
@@ -385309,7 +386942,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2517,
+   "id": 2526,
    "title": "The Voyeurs",
    "subtitle": "",
    "year": "2021",
@@ -385390,7 +387023,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2518,
+   "id": 2527,
    "title": "Lady Chatterley's Lover",
    "subtitle": "",
    "year": "1981",
@@ -385471,7 +387104,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2519,
+   "id": 2528,
    "title": "The Story of O",
    "subtitle": "",
    "year": "1975",
@@ -385552,7 +387185,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2520,
+   "id": 2529,
    "title": "Mortal Passions",
    "subtitle": "",
    "year": "1989",
@@ -385633,7 +387266,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2521,
+   "id": 2530,
    "title": "Red Shoe Diaries",
    "subtitle": "",
    "year": "1992",
@@ -385714,7 +387347,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2522,
+   "id": 2531,
    "title": "Macabre",
    "subtitle": "",
    "year": "1980",
@@ -385802,7 +387435,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2523,
+   "id": 2532,
    "title": "The Seduction",
    "subtitle": "",
    "year": "1982",
@@ -385890,7 +387523,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2524,
+   "id": 2533,
    "title": "The Hunger",
    "subtitle": "",
    "year": "1983",
@@ -385971,7 +387604,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2525,
+   "id": 2534,
    "title": "Body Double",
    "subtitle": "",
    "year": "1984",
@@ -386059,7 +387692,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2526,
+   "id": 2535,
    "title": "Fear City",
    "subtitle": "",
    "year": "1984",
@@ -386147,7 +387780,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2527,
+   "id": 2536,
    "title": "Jagged Edge",
    "subtitle": "",
    "year": "1985",
@@ -386228,7 +387861,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2528,
+   "id": 2537,
    "title": "52 Pick-Up",
    "subtitle": "",
    "year": "1986",
@@ -386316,7 +387949,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2529,
+   "id": 2538,
    "title": "Slam Dance",
    "subtitle": "",
    "year": "1987",
@@ -386397,7 +388030,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2530,
+   "id": 2539,
    "title": "Stripped to Kill",
    "subtitle": "",
    "year": "1987",
@@ -386478,7 +388111,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2531,
+   "id": 2540,
    "title": "Dangerous Love",
    "subtitle": "",
    "year": "1988",
@@ -386559,7 +388192,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2532,
+   "id": 2541,
    "title": "The Drifter",
    "subtitle": "",
    "year": "1988",
@@ -386640,7 +388273,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2533,
+   "id": 2542,
    "title": "Grievous Bodily Harm",
    "subtitle": "",
    "year": "1988",
@@ -386721,7 +388354,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2534,
+   "id": 2543,
    "title": "Last Rites",
    "subtitle": "",
    "year": "1988",
@@ -386809,7 +388442,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2535,
+   "id": 2544,
    "title": "Spellbinder",
    "subtitle": "",
    "year": "1988",
@@ -386897,7 +388530,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2536,
+   "id": 2545,
    "title": "Kill Me Again",
    "subtitle": "",
    "year": "1989",
@@ -386985,7 +388618,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2537,
+   "id": 2546,
    "title": "Twisted Obsession",
    "subtitle": "",
    "year": "1989",
@@ -387073,7 +388706,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2538,
+   "id": 2547,
    "title": "After Dark, My Sweet",
    "subtitle": "",
    "year": "1990",
@@ -387154,7 +388787,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2539,
+   "id": 2548,
    "title": "Deceptions",
    "subtitle": "",
    "year": "1990",
@@ -387242,7 +388875,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2540,
+   "id": 2549,
    "title": "Fatal Charm",
    "subtitle": "",
    "year": "1990",
@@ -387323,7 +388956,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2541,
+   "id": 2550,
    "title": "The Hot Spot",
    "subtitle": "",
    "year": "1990",
@@ -387404,7 +389037,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2542,
+   "id": 2551,
    "title": "Lower Level",
    "subtitle": "",
    "year": "1991",
@@ -387485,7 +389118,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2543,
+   "id": 2552,
    "title": "Whore",
    "subtitle": "",
    "year": "1991",
@@ -387566,7 +389199,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2544,
+   "id": 2553,
    "title": "Body Chemistry II: Voice of a Stranger",
    "subtitle": "",
    "year": "1992",
@@ -387647,7 +389280,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2545,
+   "id": 2554,
    "title": "Dance with Death",
    "subtitle": "",
    "year": "1992",
@@ -387728,7 +389361,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2546,
+   "id": 2555,
    "title": "Acting on Impulse",
    "subtitle": "",
    "year": "1993",
@@ -387816,7 +389449,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2547,
+   "id": 2556,
    "title": "Body of Evidence",
    "subtitle": "",
    "year": "1993",
@@ -387897,7 +389530,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2548,
+   "id": 2557,
    "title": "Hexed",
    "subtitle": "",
    "year": "1993",
@@ -387985,7 +389618,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2549,
+   "id": 2558,
    "title": "Snapdragon",
    "subtitle": "",
    "year": "1993",
@@ -388066,7 +389699,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2550,
+   "id": 2559,
    "title": "Criminal Passion",
    "subtitle": "",
    "year": "1994",
@@ -388154,7 +389787,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2551,
+   "id": 2560,
    "title": "Fleshtone",
    "subtitle": "",
    "year": "1994",
@@ -388235,7 +389868,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2552,
+   "id": 2561,
    "title": "The Last Seduction",
    "subtitle": "",
    "year": "1994",
@@ -388323,7 +389956,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2553,
+   "id": 2562,
    "title": "Beyond Desire",
    "subtitle": "",
    "year": "1995",
@@ -388404,7 +390037,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2554,
+   "id": 2563,
    "title": "Never Talk to Strangers",
    "subtitle": "",
    "year": "1995",
@@ -388485,7 +390118,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2555,
+   "id": 2564,
    "title": "Showgirls",
    "subtitle": "",
    "year": "1995",
@@ -388566,7 +390199,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2556,
+   "id": 2565,
    "title": "To the Limit",
    "subtitle": "",
    "year": "1995",
@@ -388654,7 +390287,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2557,
+   "id": 2566,
    "title": "Wild Side",
    "subtitle": "",
    "year": "1995",
@@ -388742,7 +390375,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2558,
+   "id": 2567,
    "title": "The Juror",
    "subtitle": "",
    "year": "1996",
@@ -388823,7 +390456,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2559,
+   "id": 2568,
    "title": "The Ex",
    "subtitle": "",
    "year": "1997",
@@ -388904,7 +390537,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2560,
+   "id": 2569,
    "title": "The Last Seduction II",
    "subtitle": "",
    "year": "1999",
@@ -388985,7 +390618,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2561,
+   "id": 2570,
    "title": "Raw Nerve",
    "subtitle": "",
    "year": "1999",
@@ -389073,7 +390706,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2562,
+   "id": 2571,
    "title": "Mercy",
    "subtitle": "",
    "year": "2000",
@@ -389154,7 +390787,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2563,
+   "id": 2572,
    "title": "Trois",
    "subtitle": "",
    "year": "2000",
@@ -389235,7 +390868,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2564,
+   "id": 2573,
    "title": "Cold Heart",
    "subtitle": "",
    "year": "2001",
@@ -389323,7 +390956,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2565,
+   "id": 2574,
    "title": "Lantana",
    "subtitle": "",
    "year": "2001",
@@ -389411,7 +391044,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2566,
+   "id": 2575,
    "title": "Thy Neighbor's Wife",
    "subtitle": "",
    "year": "2001",
@@ -389499,7 +391132,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2567,
+   "id": 2576,
    "title": "Femme Fatale",
    "subtitle": "",
    "year": "2002",
@@ -389587,7 +391220,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2568,
+   "id": 2577,
    "title": "Motives",
    "subtitle": "",
    "year": "2004",
@@ -389668,7 +391301,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2569,
+   "id": 2578,
    "title": "Where the Truth Lies",
    "subtitle": "",
    "year": "2005",
@@ -389749,7 +391382,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2570,
+   "id": 2579,
    "title": "Passion",
    "subtitle": "",
    "year": "2012",
@@ -389830,7 +391463,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2571,
+   "id": 2580,
    "title": "The Canyons",
    "subtitle": "",
    "year": "2013",
@@ -389918,7 +391551,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2572,
+   "id": 2581,
    "title": "Evil Lurks",
    "subtitle": "",
    "year": "2023",
@@ -390055,7 +391688,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2573,
+   "id": 2582,
    "title": "The Piano Teacher",
    "subtitle": "",
    "year": "2001",
@@ -390136,7 +391769,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2574,
+   "id": 2583,
    "title": "Disclosure",
    "subtitle": "",
    "year": "1994",
@@ -390208,7 +391841,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2575,
+   "id": 2584,
    "title": "Pleasure or Pain",
    "subtitle": "",
    "year": "2013",
@@ -390289,7 +391922,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2576,
+   "id": 2585,
    "title": "Lost Girls & Love Hotels",
    "subtitle": "",
    "year": "2020",
@@ -390384,7 +392017,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2577,
+   "id": 2586,
    "title": "Deadly Illusions",
    "subtitle": "",
    "year": "2021",
@@ -390465,7 +392098,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2578,
+   "id": 2587,
    "title": "Saltburn",
    "subtitle": "",
    "year": "2023",
@@ -390546,7 +392179,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2579,
+   "id": 2588,
    "title": "Tie Me Up! Tie Me Down!",
    "subtitle": "",
    "year": "1989",
@@ -390627,7 +392260,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2580,
+   "id": 2589,
    "title": "Basic Instinct",
    "subtitle": "",
    "year": "1992",
@@ -390699,7 +392332,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2581,
+   "id": 2590,
    "title": "Fatal Attraction",
    "subtitle": "",
    "year": "1987",
@@ -390771,7 +392404,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2582,
+   "id": 2591,
    "title": "Sliver",
    "subtitle": "",
    "year": "1993",
@@ -390843,7 +392476,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2583,
+   "id": 2592,
    "title": "Eyes Wide Shut",
    "subtitle": "",
    "year": "1999",
@@ -390913,7 +392546,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2584,
+   "id": 2593,
    "title": "Wild Orchid",
    "subtitle": "",
    "year": "1989",
@@ -390977,7 +392610,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2585,
+   "id": 2594,
    "title": "Jade",
    "subtitle": "",
    "year": "1995",
@@ -391041,7 +392674,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2586,
+   "id": 2595,
    "title": "9½ Weeks",
    "subtitle": "",
    "year": "1986",
@@ -391103,7 +392736,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2587,
+   "id": 2596,
    "title": "Unfaithful",
    "subtitle": "",
    "year": "2002",
@@ -391167,7 +392800,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2588,
+   "id": 2597,
    "title": "The Dreamers",
    "subtitle": "",
    "year": "2003",
@@ -391231,7 +392864,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2589,
+   "id": 2598,
    "title": "Lust, Caution",
    "subtitle": "",
    "year": "2007",
@@ -391295,7 +392928,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2590,
+   "id": 2599,
    "title": "Damage",
    "subtitle": "",
    "year": "1992",
@@ -391359,7 +392992,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2591,
+   "id": 2600,
    "title": "Bitter Moon",
    "subtitle": "",
    "year": "1992",
@@ -391431,7 +393064,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2592,
+   "id": 2601,
    "title": "Henry & June",
    "subtitle": "",
    "year": "1990",
@@ -391495,7 +393128,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2593,
+   "id": 2602,
    "title": "Crash",
    "subtitle": "",
    "year": "1996",
@@ -391559,7 +393192,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2594,
+   "id": 2603,
    "title": "Bound",
    "subtitle": "",
    "year": "1996",
@@ -391631,7 +393264,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2595,
+   "id": 2604,
    "title": "Body Heat",
    "subtitle": "",
    "year": "1981",
@@ -391695,7 +393328,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2596,
+   "id": 2605,
    "title": "Original Sin",
    "subtitle": "",
    "year": "2001",
@@ -391757,7 +393390,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2597,
+   "id": 2606,
    "title": "Color of Night",
    "subtitle": "",
    "year": "1994",
@@ -391829,7 +393462,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2598,
+   "id": 2607,
    "title": "Indecent Proposal",
    "subtitle": "",
    "year": "1993",
@@ -391901,7 +393534,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2599,
+   "id": 2608,
    "title": "The Greater Will",
    "subtitle": "",
    "year": "1915",
@@ -391991,7 +393624,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2600,
+   "id": 2609,
    "title": "I Married a Witch",
    "subtitle": "",
    "year": "1942",
@@ -392083,7 +393716,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2601,
+   "id": 2610,
    "title": "Love Potion No. 9",
    "subtitle": "",
    "year": "1992",
@@ -392171,7 +393804,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2602,
+   "id": 2611,
    "title": "The Witch (Cadı)",
    "subtitle": "",
    "year": "2024",
@@ -392241,7 +393874,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2603,
+   "id": 2612,
    "title": "The Last Empress",
    "subtitle": "Season 1 · 52 episodes (aired 21 Nov 2018 - 21 Feb 2019); specific brainwashing episodes not identified",
    "year": "2018-19",
@@ -392330,7 +393963,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2604,
+   "id": 2613,
    "title": "Lao Gong Qing He Wo Lian Ai Ba",
    "subtitle": "Season 1 · 86 episodes (aired from 20 Sep 2025); no hypnosis episode identified",
    "year": "2025",
@@ -392407,7 +394040,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2605,
+   "id": 2614,
    "title": "Fascinación",
    "subtitle": "",
    "year": "1949",
@@ -392489,7 +394122,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2606,
+   "id": 2615,
    "title": "The Basilisk",
    "subtitle": "",
    "year": "1914",
@@ -392552,7 +394185,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2607,
+   "id": 2616,
    "title": "The Satin Girl",
    "subtitle": "",
    "year": "1923",
@@ -392617,7 +394250,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2608,
+   "id": 2617,
    "title": "The Search for Bridey Murphy",
    "subtitle": "",
    "year": "1956",
@@ -392688,7 +394321,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2609,
+   "id": 2618,
    "title": "Sum of Existence",
    "subtitle": "",
    "year": "2005",
@@ -392775,7 +394408,7 @@ window.CATALOG = {
    ]
   },
   {
-   "id": 2611,
+   "id": 2620,
    "title": "Chinatown Nights",
    "subtitle": "",
    "year": "1938",
@@ -392838,7 +394471,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2612,
+   "id": 2621,
    "title": "Nix on Hypnotricks",
    "subtitle": "",
    "year": "1941",
@@ -392905,7 +394538,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2613,
+   "id": 2622,
    "title": "Nojor",
    "subtitle": "",
    "year": "2019",
@@ -392977,7 +394610,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2614,
+   "id": 2623,
    "title": "Tujhse Hai Raabta",
    "subtitle": "",
    "year": "2018–2020",
@@ -393049,7 +394682,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2615,
+   "id": 2624,
    "title": "As the World Turns",
    "subtitle": "",
    "year": "2009–10",
@@ -393133,7 +394766,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2616,
+   "id": 2625,
    "title": "General Hospital",
    "subtitle": "",
    "year": "1981–82",
@@ -393213,7 +394846,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2617,
+   "id": 2626,
    "title": "The Love Machine",
    "subtitle": "",
    "year": "2016",
@@ -393287,7 +394920,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2618,
+   "id": 2627,
    "title": "Insatiable Desires",
    "subtitle": "",
    "year": "2003",
@@ -393369,7 +395002,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2619,
+   "id": 2628,
    "title": "Springtime for Dr. Mesmer",
    "subtitle": "",
    "year": "",
@@ -393443,7 +395076,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2620,
+   "id": 2629,
    "title": "O Outro Lado do Paraíso",
    "subtitle": "",
    "year": "2017–18",
@@ -393523,7 +395156,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2621,
+   "id": 2630,
    "title": "Savdhaan India — \"A Hypnotist or a Killer?\" (S68 E46; Madhuri)",
    "subtitle": "",
    "year": "c. Sep 2012",
@@ -393603,7 +395236,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2622,
+   "id": 2631,
    "title": "Love in Oblivion",
    "subtitle": "",
    "year": "2026",
@@ -393702,7 +395335,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2623,
+   "id": 2632,
    "title": "Passione",
    "subtitle": "Berilo and the 'sexual hypnotist' storyline (2–7 Oct 2010)",
    "year": "2010",
@@ -393832,7 +395465,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2624,
+   "id": 2633,
    "title": "Trust Me",
    "subtitle": "",
    "year": "2010",
@@ -393934,7 +395567,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2625,
+   "id": 2634,
    "title": "Sex/Life",
    "subtitle": "S2E3 “Seasons of Love”",
    "year": "2023",
@@ -394058,7 +395691,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2626,
+   "id": 2635,
    "title": "Revenge in the Golden Cage / Miss Schemer vs. Mr. CEO / 晚色上春枝",
    "subtitle": "",
    "year": "2025",
@@ -394155,7 +395788,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2627,
+   "id": 2636,
    "title": "You and Me Makes Three",
    "subtitle": "",
    "year": "2026",
@@ -394252,7 +395885,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2628,
+   "id": 2637,
    "title": "August & Ebony",
    "subtitle": "",
    "year": "2024",
@@ -394693,7 +396326,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2194,
+       "id": 2203,
        "tags": [
         "Verified",
         "Infertility / trouble conceiving → adoption → pregnancy"
@@ -395768,6 +397401,20 @@ window.CATALOG = {
         "Fantasy enchantment",
         "Hypnosis",
         "Medium-high (trailer + platform synopsis)"
+       ],
+       "sources": [
+        {
+         "label": "Unique News Online",
+         "url": "https://www.uniquenewsonline.com/payal-part-1-cast-trailer-release-date-and-storyline-of-the-ullu-web-series/"
+        },
+        {
+         "label": "Movieetalks",
+         "url": "https://movieetalks.com/payal-part-01/"
+        },
+        {
+         "label": "NewsroomPost",
+         "url": "https://newsroompost.com/entertainment/payal-ott-release-explore-another-bold-exciting-drama-in-the-ullu-app/5337812.html"
+        }
        ],
        "provenance": "Source basis: India-only research pass, 30 Sep 2026 (UniqueNewsOnline)",
        "from_source": "xla62ucxbx02u5"
@@ -397509,19 +399156,19 @@ window.CATALOG = {
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2386,
+       "id": 2395,
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2385,
+       "id": 2394,
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2382,
+       "id": 2391,
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2388,
+       "id": 2397,
        "from_source": "hypnosis-assault-loose"
       },
       {
@@ -397537,15 +399184,15 @@ window.CATALOG = {
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2384,
+       "id": 2393,
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2383,
+       "id": 2392,
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2389,
+       "id": 2398,
        "from_source": "hypnosis-assault-loose"
       }
      ],
@@ -397556,7 +399203,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2572,
+       "id": 2581,
        "from_source": "open-sites-hypnosis"
       }
      ],
@@ -397567,7 +399214,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2599,
+       "id": 2608,
        "from_source": "no-link-additions"
       }
      ],
@@ -397578,15 +399225,15 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2606,
+       "id": 2615,
        "from_source": "no-link-additions"
       },
       {
-       "id": 2611,
+       "id": 2620,
        "from_source": "no-link-additions"
       },
       {
-       "id": 2612,
+       "id": 2621,
        "from_source": "no-link-additions"
       },
       {
@@ -397594,15 +399241,15 @@ window.CATALOG = {
        "from_source": "no-link-additions"
       },
       {
-       "id": 2607,
+       "id": 2616,
        "from_source": "no-link-additions"
       },
       {
-       "id": 2608,
+       "id": 2617,
        "from_source": "no-link-additions"
       },
       {
-       "id": 2609,
+       "id": 2618,
        "from_source": "no-link-additions"
       }
      ],
@@ -397613,15 +399260,15 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2618,
+       "id": 2627,
        "from_source": "hypno-sweep-oct9"
       },
       {
-       "id": 2617,
+       "id": 2626,
        "from_source": "hypno-sweep-oct9"
       },
       {
-       "id": 2619,
+       "id": 2628,
        "from_source": "hypno-sweep-oct9"
       }
      ],
@@ -397632,15 +399279,15 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2622,
+       "id": 2631,
        "from_source": "round2"
       },
       {
-       "id": 2623,
+       "id": 2632,
        "from_source": "round2"
       },
       {
-       "id": 2624,
+       "id": 2633,
        "from_source": "round2"
       }
      ],
@@ -397648,7 +399295,7 @@ window.CATALOG = {
     }
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 174,
+    "ig6qlxqxoxvcxla": 176,
     "india-catalog": null,
     "worldwide-hypnosis": null,
     "older-man-hypnosis": null,
@@ -398349,6 +399996,43 @@ window.CATALOG = {
      "from_source": "ig6qlxqxoxvcxla"
     },
     {
+     "title": "Cult exploitation",
+     "notes": [],
+     "items": [
+      {
+       "id": 2181,
+       "tags": [
+        "Cult / coercive brainwashing",
+        "Adult female hypnosis — R-rated-equivalent worldwide",
+        "Verified",
+        "Pregnancy status · unknown",
+        "Children status · unknown"
+       ],
+       "index_title": "Aashram",
+       "from_source": "ig6qlxqxoxvcxla"
+      }
+     ],
+     "from_source": "ig6qlxqxoxvcxla"
+    },
+    {
+     "title": "Cult manipulation resisted",
+     "notes": [],
+     "items": [
+      {
+       "id": 2185,
+       "tags": [
+        "Cult / coercive brainwashing",
+        "Direction-inverted · target resists",
+        "Pregnancy status · unknown",
+        "Children status · none indicated"
+       ],
+       "index_title": "Nikita Roy",
+       "from_source": "ig6qlxqxoxvcxla"
+      }
+     ],
+     "from_source": "ig6qlxqxoxvcxla"
+    },
+    {
      "title": "Worldwide hypnotized-to-love additions (Sep 2026)",
      "notes": [],
      "items": [
@@ -398416,7 +400100,7 @@ window.CATALOG = {
     }
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 14,
+    "ig6qlxqxoxvcxla": 16,
     "india-catalog": null,
     "hypnotized-love": null,
     "devil-deal-hypnosis": null,
@@ -398959,11 +400643,11 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2466,
+       "id": 2475,
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2463,
+       "id": 2472,
        "from_source": "royal-hypnosis-loose"
       }
      ],
@@ -398974,7 +400658,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2572,
+       "id": 2581,
        "from_source": "open-sites-hypnosis"
       }
      ],
@@ -399436,7 +401120,7 @@ window.CATALOG = {
        "from_source": "hypnotized-love"
       },
       {
-       "id": 2325,
+       "id": 2334,
        "from_source": "hypnotized-love"
       }
      ],
@@ -399488,7 +401172,7 @@ window.CATALOG = {
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2382,
+       "id": 2391,
        "from_source": "hypnosis-assault-loose"
       },
       {
@@ -399503,7 +401187,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2467,
+       "id": 2476,
        "from_source": "royal-hypnosis-loose"
       }
      ],
@@ -399992,6 +401676,16 @@ window.CATALOG = {
         "Female hypnosis / mind control — India",
         "Hypnotic gaze",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Haiwaan%3A_The_Monster"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Haiwaan%3A_The_Monster"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
@@ -400759,7 +402453,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2204,
+       "id": 2213,
        "tags": [
         "Cataloged",
         "Catalog records"
@@ -400768,7 +402462,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2199,
+       "id": 2208,
        "tags": [
         "Cataloged",
         "Catalog records"
@@ -400777,7 +402471,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2203,
+       "id": 2212,
        "tags": [
         "Cataloged",
         "Catalog records"
@@ -400795,7 +402489,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2200,
+       "id": 2209,
        "tags": [
         "Cataloged",
         "Catalog records"
@@ -400804,7 +402498,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2202,
+       "id": 2211,
        "tags": [
         "Cataloged",
         "Catalog records"
@@ -400813,7 +402507,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2201,
+       "id": 2210,
        "tags": [
         "Cataloged",
         "Catalog records"
@@ -400860,7 +402554,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2222,
+       "id": 2231,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -400872,11 +402566,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2228,
+       "id": 2237,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2238,
+       "id": 2247,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -400892,7 +402586,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2250,
+       "id": 2259,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -400900,11 +402594,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2249,
+       "id": 2258,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2248,
+       "id": 2257,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -400940,11 +402634,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2266,
+       "id": 2275,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2267,
+       "id": 2276,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -400984,7 +402678,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2284,
+       "id": 2293,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -401016,7 +402710,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2297,
+       "id": 2306,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -401024,7 +402718,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2300,
+       "id": 2309,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -401032,11 +402726,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2306,
+       "id": 2315,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2307,
+       "id": 2316,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -401044,7 +402738,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2317,
+       "id": 2326,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -401060,7 +402754,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2325,
+       "id": 2334,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -401072,7 +402766,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2326,
+       "id": 2335,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -401084,7 +402778,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2342,
+       "id": 2351,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -401194,27 +402888,27 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2469,
+       "id": 2478,
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2466,
+       "id": 2475,
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2467,
+       "id": 2476,
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2470,
+       "id": 2479,
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2463,
+       "id": 2472,
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2465,
+       "id": 2474,
        "from_source": "royal-hypnosis-loose"
       }
      ],
@@ -402031,7 +403725,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2205,
+       "id": 2214,
        "tags": [
         "Cataloged",
         "Comedy / family / fantasy domination"
@@ -402047,19 +403741,19 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2228,
+       "id": 2237,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2296,
+       "id": 2305,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2312,
+       "id": 2321,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2338,
+       "id": 2347,
        "from_source": "worldwide-hypnosis"
       }
      ],
@@ -402070,7 +403764,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2337,
+       "id": 2346,
        "from_source": "mother-kids-hypnosis"
       }
      ],
@@ -402086,7 +403780,7 @@ window.CATALOG = {
   {
    "title": "Female hypnosis / mind control — India",
    "category": "india-control",
-   "description": "37 high-confidence and 4 possible records across seven Indian languages.",
+   "description": "42 high-confidence and 4 possible records across seven Indian languages after the 9 Oct targeted Savdhaan India / Shantham Papam sweep.",
    "notes": [],
    "from_sources": [
     "ig6qlxqxoxvcxla",
@@ -402103,7 +403797,7 @@ window.CATALOG = {
     "savdhaan-santham-oct9"
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 41,
+    "ig6qlxqxoxvcxla": 46,
     "india-catalog": null,
     "worldwide-hypnosis": null,
     "hypnotized-love": null,
@@ -402241,6 +403935,15 @@ window.CATALOG = {
         "Villain / tantrik / antagonist control"
        ],
        "index_title": "Purana Mandir (1984)",
+       "from_source": "ig6qlxqxoxvcxla"
+      },
+      {
+       "id": 2188,
+       "tags": [
+        "Cataloged",
+        "Villain / tantrik / antagonist control"
+       ],
+       "index_title": "Savdhaan India — S42E17 “A hypnotist misuses his skills” (2014)",
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
@@ -402413,7 +404116,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2195,
+       "id": 2204,
        "tags": [
         "Cataloged",
         "Spirit / ghost / paranormal control"
@@ -402522,11 +404225,88 @@ window.CATALOG = {
      "from_source": "ig6qlxqxoxvcxla"
     },
     {
+     "title": "Stage-hypnosis demonstration",
+     "notes": [],
+     "items": [
+      {
+       "id": 2180,
+       "tags": [
+        "Female hypnosis / mind control — India",
+        "Verified",
+        "Pregnancy status · unknown",
+        "Children status · unknown"
+       ],
+       "index_title": "Aahat — The Eye Parts I–II",
+       "from_source": "ig6qlxqxoxvcxla"
+      }
+     ],
+     "from_source": "ig6qlxqxoxvcxla"
+    },
+    {
+     "title": "Revenge hypnosis",
+     "notes": [],
+     "items": [
+      {
+       "id": 2182,
+       "tags": [
+        "Female hypnosis / mind control — India",
+        "Forcibly hypnotized to obey",
+        "Verified",
+        "Pregnancy status · not stated",
+        "Children · Kshipra has Sulekha and Poonam"
+       ],
+       "index_title": "Asambhav",
+       "from_source": "ig6qlxqxoxvcxla"
+      }
+     ],
+     "from_source": "ig6qlxqxoxvcxla"
+    },
+    {
+     "title": "Memory erasure",
+     "notes": [],
+     "items": [
+      {
+       "id": 1305,
+       "tags": [
+        "Female hypnosis / mind control — India",
+        "Forcibly hypnotized to obey",
+        "Verified",
+        "Pregnancy status · unknown",
+        "Children status · unknown"
+       ],
+       "index_title": "Haiwaan",
+       "from_source": "ig6qlxqxoxvcxla"
+      }
+     ],
+     "from_source": "ig6qlxqxoxvcxla"
+    },
+    {
+     "title": "Surrogate rival hypnosis",
+     "notes": [],
+     "items": [
+      {
+       "id": 2187,
+       "tags": [
+        "Female hypnosis / mind control — India",
+        "Forcibly hypnotized to obey",
+        "Verified",
+        "Pregnancy during arc · no",
+        "Pregnant at end · unknown",
+        "Children before · none",
+        "Children by end · Yuvaan, Yuvaani and Sayyam"
+       ],
+       "index_title": "Suhani Si Ek Ladki",
+       "from_source": "ig6qlxqxoxvcxla"
+      }
+     ],
+     "from_source": "ig6qlxqxoxvcxla"
+    },
+    {
      "title": "India-only research additions (Sep 2026)",
      "notes": [],
      "items": [
       {
-       "id": 2209,
+       "id": 2218,
        "from_source": "india-catalog"
       },
       {
@@ -402622,7 +404402,7 @@ window.CATALOG = {
        "from_source": "india-catalog"
       },
       {
-       "id": 2211,
+       "id": 2220,
        "from_source": "india-catalog"
       },
       {
@@ -402634,7 +404414,7 @@ window.CATALOG = {
        "from_source": "india-catalog"
       },
       {
-       "id": 2210,
+       "id": 2219,
        "from_source": "india-catalog"
       },
       {
@@ -402647,10 +404427,6 @@ window.CATALOG = {
       },
       {
        "id": 1303,
-       "from_source": "india-catalog"
-      },
-      {
-       "id": 1305,
        "from_source": "india-catalog"
       },
       {
@@ -402734,7 +404510,7 @@ window.CATALOG = {
        "from_source": "india-catalog"
       },
       {
-       "id": 2208,
+       "id": 2217,
        "from_source": "india-catalog"
       },
       {
@@ -402877,7 +404653,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2340,
+       "id": 2349,
        "from_source": "worldwide-hypnosis"
       }
      ],
@@ -402914,7 +404690,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2469,
+       "id": 2478,
        "from_source": "royal-hypnosis-loose"
       }
      ],
@@ -402925,7 +404701,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2613,
+       "id": 2622,
        "from_source": "hypno-sweep-oct9"
       }
      ],
@@ -402936,7 +404712,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2614,
+       "id": 2623,
        "from_source": "hypno-sweep-oct9"
       }
      ],
@@ -402947,7 +404723,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2621,
+       "id": 2630,
        "from_source": "savdhaan-santham-oct9"
       }
      ],
@@ -406105,7 +407881,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2209,
+       "id": 2218,
        "from_source": "india-catalog"
       },
       {
@@ -406113,7 +407889,7 @@ window.CATALOG = {
        "from_source": "india-catalog"
       },
       {
-       "id": 2208,
+       "id": 2217,
        "from_source": "india-catalog"
       }
      ],
@@ -406132,7 +407908,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2217,
+       "id": 2226,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406160,7 +407936,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2219,
+       "id": 2228,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406184,7 +407960,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2223,
+       "id": 2232,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406244,7 +408020,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2226,
+       "id": 2235,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406264,7 +408040,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2225,
+       "id": 2234,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406300,7 +408076,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2329,
+       "id": 2338,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406320,7 +408096,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2330,
+       "id": 2339,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406332,7 +408108,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2331,
+       "id": 2340,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406356,7 +408132,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2234,
+       "id": 2243,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406372,7 +408148,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2235,
+       "id": 2244,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406416,7 +408192,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2240,
+       "id": 2249,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406436,7 +408212,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2241,
+       "id": 2250,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406468,7 +408244,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2242,
+       "id": 2251,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406484,7 +408260,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2243,
+       "id": 2252,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406508,7 +408284,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2248,
+       "id": 2257,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406520,7 +408296,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2246,
+       "id": 2255,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406540,7 +408316,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2255,
+       "id": 2264,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406560,7 +408336,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2251,
+       "id": 2260,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406620,7 +408396,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2257,
+       "id": 2266,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406640,7 +408416,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2259,
+       "id": 2268,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406664,7 +408440,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2262,
+       "id": 2271,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406676,7 +408452,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2261,
+       "id": 2270,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406752,7 +408528,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2333,
+       "id": 2342,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406760,11 +408536,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2265,
+       "id": 2274,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2268,
+       "id": 2277,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406776,7 +408552,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2269,
+       "id": 2278,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406804,7 +408580,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2332,
+       "id": 2341,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406900,7 +408676,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2275,
+       "id": 2284,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -406920,11 +408696,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2276,
+       "id": 2285,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2277,
+       "id": 2286,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -407028,7 +408804,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2280,
+       "id": 2289,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -407052,7 +408828,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2283,
+       "id": 2292,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -407072,7 +408848,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2291,
+       "id": 2300,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -407156,7 +408932,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2335,
+       "id": 2344,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -407188,7 +408964,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2302,
+       "id": 2311,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -407200,7 +408976,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2301,
+       "id": 2310,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -407208,7 +408984,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2303,
+       "id": 2312,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -407328,7 +409104,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2315,
+       "id": 2324,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -407336,7 +409112,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2316,
+       "id": 2325,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -407360,7 +409136,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2319,
+       "id": 2328,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -407384,7 +409160,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2322,
+       "id": 2331,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -407464,7 +409240,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2327,
+       "id": 2336,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -407472,7 +409248,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2336,
+       "id": 2345,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -407484,7 +409260,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2339,
+       "id": 2348,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -407544,7 +409320,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2343,
+       "id": 2352,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -407572,7 +409348,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2347,
+       "id": 2356,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -407588,7 +409364,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2346,
+       "id": 2355,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -407596,7 +409372,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2349,
+       "id": 2358,
        "from_source": "worldwide-hypnosis"
       }
      ],
@@ -407682,19 +409458,19 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2388,
+       "id": 2397,
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2387,
+       "id": 2396,
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2381,
+       "id": 2390,
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2383,
+       "id": 2392,
        "from_source": "hypnosis-assault-loose"
       }
      ],
@@ -407705,11 +409481,11 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2615,
+       "id": 2624,
        "from_source": "hypno-sweep-oct9"
       },
       {
-       "id": 2616,
+       "id": 2625,
        "from_source": "hypno-sweep-oct9"
       }
      ],
@@ -407720,11 +409496,11 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2623,
+       "id": 2632,
        "from_source": "round2"
       },
       {
-       "id": 2624,
+       "id": 2633,
        "from_source": "round2"
       }
      ],
@@ -407938,7 +409714,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2185,
+       "id": 2194,
        "tags": [
         "Lead / variant",
         "Leads / variants"
@@ -407965,7 +409741,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2184,
+       "id": 2193,
        "tags": [
         "Lead / variant",
         "Leads / variants"
@@ -407987,7 +409763,7 @@ window.CATALOG = {
     }
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 4,
+    "ig6qlxqxoxvcxla": 5,
     "rich-wife-hypnosis": null,
     "hypno-leftovers": null
    }
@@ -408508,7 +410284,7 @@ window.CATALOG = {
        "from_source": "round2"
       },
       {
-       "id": 2622,
+       "id": 2631,
        "from_source": "round2"
       }
      ],
@@ -408633,15 +410409,15 @@ window.CATALOG = {
        "from_source": "hypnotized-marriage"
       },
       {
-       "id": 2211,
+       "id": 2220,
        "from_source": "hypnotized-marriage"
       },
       {
-       "id": 2599,
+       "id": 2608,
        "from_source": "no-link-additions"
       },
       {
-       "id": 2600,
+       "id": 2609,
        "from_source": "no-link-additions"
       },
       {
@@ -408700,7 +410476,7 @@ window.CATALOG = {
        "from_source": "hypnotized-marriage"
       },
       {
-       "id": 2605,
+       "id": 2614,
        "from_source": "no-link-additions"
       },
       {
@@ -408724,11 +410500,11 @@ window.CATALOG = {
        "from_source": "hypnotized-marriage"
       },
       {
-       "id": 2604,
+       "id": 2613,
        "from_source": "no-link-additions"
       },
       {
-       "id": 2603,
+       "id": 2612,
        "from_source": "no-link-additions"
       },
       {
@@ -408740,7 +410516,7 @@ window.CATALOG = {
        "from_source": "hypnotized-marriage"
       },
       {
-       "id": 2601,
+       "id": 2610,
        "from_source": "no-link-additions"
       },
       {
@@ -408776,7 +410552,7 @@ window.CATALOG = {
        "from_source": "hypnotized-marriage"
       },
       {
-       "id": 2602,
+       "id": 2611,
        "from_source": "no-link-additions"
       },
       {
@@ -409094,7 +410870,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2180,
+       "id": 2189,
        "tags": [
         "Excluded",
         "Boundary note"
@@ -409110,11 +410886,11 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2382,
+       "id": 2391,
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2384,
+       "id": 2393,
        "from_source": "hypnosis-assault-loose"
       }
      ],
@@ -409510,7 +411286,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2289,
+       "id": 2298,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -409666,7 +411442,7 @@ window.CATALOG = {
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2388,
+       "id": 2397,
        "from_source": "hypnosis-assault-loose"
       }
      ],
@@ -409787,11 +411563,11 @@ window.CATALOG = {
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2469,
+       "id": 2478,
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2466,
+       "id": 2475,
        "from_source": "royal-hypnosis-loose"
       },
       {
@@ -409803,7 +411579,7 @@ window.CATALOG = {
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2467,
+       "id": 2476,
        "from_source": "royal-hypnosis-loose"
       },
       {
@@ -409811,7 +411587,7 @@ window.CATALOG = {
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2211,
+       "id": 2220,
        "from_source": "royal-hypnosis-loose"
       },
       {
@@ -409819,7 +411595,7 @@ window.CATALOG = {
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2470,
+       "id": 2479,
        "from_source": "royal-hypnosis-loose"
       },
       {
@@ -409827,11 +411603,11 @@ window.CATALOG = {
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2468,
+       "id": 2477,
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2463,
+       "id": 2472,
        "from_source": "royal-hypnosis-loose"
       },
       {
@@ -409859,7 +411635,7 @@ window.CATALOG = {
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2465,
+       "id": 2474,
        "from_source": "royal-hypnosis-loose"
       },
       {
@@ -409895,7 +411671,7 @@ window.CATALOG = {
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2464,
+       "id": 2473,
        "from_source": "royal-hypnosis-loose"
       },
       {
@@ -411312,7 +413088,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2211,
+       "id": 2220,
        "from_source": "india-catalog"
       }
      ],
@@ -411327,15 +413103,15 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2224,
+       "id": 2233,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2220,
+       "id": 2229,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2221,
+       "id": 2230,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -411347,7 +413123,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2238,
+       "id": 2247,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -411359,7 +413135,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2255,
+       "id": 2264,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -411395,15 +413171,15 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2280,
-       "from_source": "worldwide-hypnosis"
-      },
-      {
-       "id": 2281,
-       "from_source": "worldwide-hypnosis"
-      },
-      {
        "id": 2289,
+       "from_source": "worldwide-hypnosis"
+      },
+      {
+       "id": 2290,
+       "from_source": "worldwide-hypnosis"
+      },
+      {
+       "id": 2298,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -411423,7 +413199,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2306,
+       "id": 2315,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -411486,7 +413262,7 @@ window.CATALOG = {
        "from_source": "hypnotized-love"
       },
       {
-       "id": 2325,
+       "id": 2334,
        "from_source": "hypnotized-love"
       },
       {
@@ -411603,7 +413379,7 @@ window.CATALOG = {
        "from_source": "royal-hypnosis-loose"
       },
       {
-       "id": 2464,
+       "id": 2473,
        "from_source": "royal-hypnosis-loose"
       }
      ],
@@ -411966,7 +413742,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2572,
+       "id": 2581,
        "from_source": "open-sites-hypnosis"
       }
      ],
@@ -412071,6 +413847,16 @@ window.CATALOG = {
         "Indian-language female hypnotized against her will (non-pregnant)",
         "Doctor-administered hypnosis on hire",
         "High confidence · dedicated episode"
+       ],
+       "sources": [
+        {
+         "label": "IWMBuzz",
+         "url": "https://www.iwmbuzz.com/television/spoilers/falguni-hypnotized-star-bharats-jiji-maa/2018/04/03"
+        },
+        {
+         "label": "TellyReviews",
+         "url": "https://tellyreviews.com/2018/03/25/uttara-to-learn-her-shocking-failure-in-jiji-maa/"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -412551,7 +414337,7 @@ window.CATALOG = {
        "from_source": "lesbian-pregnancy"
       },
       {
-       "id": 2462,
+       "id": 2471,
        "from_source": "lesbian-pregnancy"
       },
       {
@@ -412594,7 +414380,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2628,
+       "id": 2637,
        "from_source": "round2"
       },
       {
@@ -412602,7 +414388,7 @@ window.CATALOG = {
        "from_source": "round2"
       },
       {
-       "id": 2627,
+       "id": 2636,
        "from_source": "round2"
       }
      ],
@@ -412635,27 +414421,75 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2528,
+       "id": 2537,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2546,
+       "id": 2555,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2475,
+       "id": 2484,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2488,
+       "id": 2497,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2580,
+       "id": 2589,
        "from_source": "no-link-additions"
       },
       {
-       "id": 2478,
+       "id": 2487,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2518,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2534,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2604,
+       "from_source": "no-link-additions"
+      },
+      {
+       "id": 2603,
+       "from_source": "no-link-additions"
+      },
+      {
+       "id": 2490,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2504,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2606,
+       "from_source": "no-link-additions"
+      },
+      {
+       "id": 2559,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2554,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2505,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2583,
+       "from_source": "no-link-additions"
+      },
+      {
+       "id": 2483,
        "from_source": "mainstream-erotic"
       },
       {
@@ -412663,35 +414497,83 @@ window.CATALOG = {
        "from_source": "mainstream-erotic"
       },
       {
+       "id": 2495,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2549,
+       "from_source": "mainstream-erotic"
+      },
+      {
        "id": 2525,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2595,
-       "from_source": "no-link-additions"
+       "id": 2576,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2560,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2557,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2501,
+       "from_source": "mainstream-erotic"
       },
       {
        "id": 2594,
        "from_source": "no-link-additions"
       },
       {
-       "id": 2481,
+       "id": 2536,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2495,
+       "id": 2574,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2597,
+       "id": 2543,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2569,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2523,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2507,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2571,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2605,
        "from_source": "no-link-additions"
       },
       {
-       "id": 2550,
+       "id": 2493,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2545,
+       "id": 2579,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2570,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2502,
        "from_source": "mainstream-erotic"
       },
       {
@@ -412699,15 +414581,260 @@ window.CATALOG = {
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2574,
-       "from_source": "no-link-additions"
-      },
-      {
-       "id": 2474,
+       "id": 2538,
        "from_source": "mainstream-erotic"
       },
       {
+       "id": 2591,
+       "from_source": "no-link-additions"
+      },
+      {
+       "id": 2539,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2511,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2565,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2480,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2552,
+       "from_source": "mainstream-erotic"
+      }
+     ],
+     "from_source": "mainstream-erotic"
+    },
+    {
+     "title": "Erotic drama / romance",
+     "notes": [],
+     "items": [
+      {
+       "id": 2595,
+       "from_source": "no-link-additions"
+      },
+      {
+       "id": 2547,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2499,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2562,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2600,
+       "from_source": "no-link-additions"
+      },
+      {
+       "id": 2553,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 650,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2602,
+       "from_source": "no-link-additions"
+      },
+      {
+       "id": 2516,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2597,
+       "from_source": "no-link-additions"
+      },
+      {
+       "id": 2541,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2592,
+       "from_source": "no-link-additions"
+      },
+      {
+       "id": 2601,
+       "from_source": "no-link-additions"
+      },
+      {
+       "id": 2550,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2481,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2585,
+       "from_source": "no-link-additions"
+      },
+      {
+       "id": 2598,
+       "from_source": "no-link-additions"
+      },
+      {
+       "id": 2492,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2582,
+       "from_source": "no-link-additions"
+      },
+      {
+       "id": 2584,
+       "from_source": "no-link-additions"
+      },
+      {
+       "id": 2530,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2564,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2498,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2503,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2544,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2546,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2578,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2593,
+       "from_source": "no-link-additions"
+      }
+     ],
+     "from_source": "mainstream-erotic"
+    },
+    {
+     "title": "Affair / infidelity / seduction",
+     "notes": [],
+     "items": [
+      {
+       "id": 2556,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2580,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2524,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2519,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2599,
+       "from_source": "no-link-additions"
+      },
+      {
        "id": 2500,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2607,
+       "from_source": "no-link-additions"
+      },
+      {
+       "id": 2494,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2514,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2527,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2561,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2531,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2529,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2577,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2521,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2489,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2482,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2575,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2515,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2596,
+       "from_source": "no-link-additions"
+      },
+      {
+       "id": 2566,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2513,
+       "from_source": "mainstream-erotic"
+      }
+     ],
+     "from_source": "mainstream-erotic"
+    },
+    {
+     "title": "Obsession / stalker / dangerous lover",
+     "notes": [],
+     "items": [
+      {
+       "id": 2485,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2573,
        "from_source": "mainstream-erotic"
       },
       {
@@ -412719,285 +414846,11 @@ window.CATALOG = {
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2516,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2567,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2551,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2548,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2492,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2585,
-       "from_source": "no-link-additions"
-      },
-      {
-       "id": 2527,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2565,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2534,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2560,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2514,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2498,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2562,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2596,
-       "from_source": "no-link-additions"
-      },
-      {
-       "id": 2484,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2570,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2561,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2493,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2487,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2529,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2582,
-       "from_source": "no-link-additions"
-      },
-      {
-       "id": 2530,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2502,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2556,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2471,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2543,
-       "from_source": "mainstream-erotic"
-      }
-     ],
-     "from_source": "mainstream-erotic"
-    },
-    {
-     "title": "Erotic drama / romance",
-     "notes": [],
-     "items": [
-      {
        "id": 2586,
        "from_source": "no-link-additions"
       },
       {
-       "id": 2538,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2490,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2553,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2591,
-       "from_source": "no-link-additions"
-      },
-      {
-       "id": 2544,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 650,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2593,
-       "from_source": "no-link-additions"
-      },
-      {
-       "id": 2507,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2588,
-       "from_source": "no-link-additions"
-      },
-      {
-       "id": 2532,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2583,
-       "from_source": "no-link-additions"
-      },
-      {
-       "id": 2592,
-       "from_source": "no-link-additions"
-      },
-      {
-       "id": 2541,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2472,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2576,
-       "from_source": "no-link-additions"
-      },
-      {
-       "id": 2589,
-       "from_source": "no-link-additions"
-      },
-      {
-       "id": 2483,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2573,
-       "from_source": "no-link-additions"
-      },
-      {
-       "id": 2575,
-       "from_source": "no-link-additions"
-      },
-      {
-       "id": 2521,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2555,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2489,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2494,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2535,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2537,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2569,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2584,
-       "from_source": "no-link-additions"
-      }
-     ],
-     "from_source": "mainstream-erotic"
-    },
-    {
-     "title": "Affair / infidelity / seduction",
-     "notes": [],
-     "items": [
-      {
-       "id": 2547,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2571,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2515,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2510,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2590,
-       "from_source": "no-link-additions"
-      },
-      {
-       "id": 2491,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2598,
-       "from_source": "no-link-additions"
-      },
-      {
-       "id": 2485,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2505,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2518,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2552,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2522,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2520,
+       "id": 2548,
        "from_source": "mainstream-erotic"
       },
       {
@@ -413005,102 +414858,15 @@ window.CATALOG = {
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2512,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2480,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2473,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2566,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2506,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2587,
+       "id": 2590,
        "from_source": "no-link-additions"
       },
       {
-       "id": 2557,
+       "id": 2535,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2504,
-       "from_source": "mainstream-erotic"
-      }
-     ],
-     "from_source": "mainstream-erotic"
-    },
-    {
-     "title": "Obsession / stalker / dangerous lover",
-     "notes": [],
-     "items": [
-      {
-       "id": 2476,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2564,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2477,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2531,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2577,
-       "from_source": "no-link-additions"
-      },
-      {
-       "id": 2539,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2559,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2581,
-       "from_source": "no-link-additions"
-      },
-      {
-       "id": 2526,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2479,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2533,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2513,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2558,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2536,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2497,
+       "id": 2488,
        "from_source": "mainstream-erotic"
       },
       {
@@ -413108,39 +414874,59 @@ window.CATALOG = {
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2554,
+       "id": 2522,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2578,
-       "from_source": "no-link-additions"
-      },
-      {
-       "id": 2523,
+       "id": 2567,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2511,
+       "id": 2545,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2549,
+       "id": 2506,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2519,
+       "id": 2551,
        "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2579,
-       "from_source": "no-link-additions"
       },
       {
        "id": 2563,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2517,
+       "id": 2587,
+       "from_source": "no-link-additions"
+      },
+      {
+       "id": 2532,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2520,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2558,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2528,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2588,
+       "from_source": "no-link-additions"
+      },
+      {
+       "id": 2572,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2526,
        "from_source": "mainstream-erotic"
       }
      ],
@@ -413151,27 +414937,27 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 2517,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2491,
+       "from_source": "mainstream-erotic"
+      },
+      {
+       "id": 2533,
+       "from_source": "mainstream-erotic"
+      },
+      {
        "id": 2508,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2482,
+       "id": 2510,
        "from_source": "mainstream-erotic"
       },
       {
-       "id": 2524,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2499,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2501,
-       "from_source": "mainstream-erotic"
-      },
-      {
-       "id": 2503,
+       "id": 2512,
        "from_source": "mainstream-erotic"
       }
      ],
@@ -413182,7 +414968,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2625,
+       "id": 2634,
        "from_source": "round2"
       }
      ],
@@ -413901,11 +415687,50 @@ window.CATALOG = {
      "from_source": "ig6qlxqxoxvcxla"
     },
     {
+     "title": "Patient-requested hypnosis",
+     "notes": [],
+     "items": [
+      {
+       "id": 2183,
+       "tags": [
+        "Medical / therapeutic hypnosis",
+        "Verified",
+        "Pregnancy status · unknown",
+        "Children status · unknown"
+       ],
+       "index_title": "Bonyo Premer Golpo S2",
+       "from_source": "ig6qlxqxoxvcxla"
+      }
+     ],
+     "from_source": "ig6qlxqxoxvcxla"
+    },
+    {
+     "title": "Doctor-enabled coercive hypnosis",
+     "notes": [],
+     "items": [
+      {
+       "id": 614,
+       "tags": [
+        "Medical / therapeutic hypnosis",
+        "Partner hires a third-party controller",
+        "Verified",
+        "Pregnancy during arc · no",
+        "Pregnant at end · unknown",
+        "Children before · none",
+        "Children by end · son Laddoo"
+       ],
+       "index_title": "Jiji Maa",
+       "from_source": "ig6qlxqxoxvcxla"
+      }
+     ],
+     "from_source": "ig6qlxqxoxvcxla"
+    },
+    {
      "title": "Worldwide hypnosis research (Sep 2026)",
      "notes": [],
      "items": [
       {
-       "id": 2213,
+       "id": 2222,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -413933,7 +415758,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2260,
+       "id": 2269,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -413961,7 +415786,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2294,
+       "id": 2303,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -413969,7 +415794,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2214,
+       "id": 2223,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -414042,7 +415867,7 @@ window.CATALOG = {
        "from_source": "older-man-hypnosis"
       },
       {
-       "id": 2373,
+       "id": 2382,
        "from_source": "older-man-hypnosis"
       },
       {
@@ -414102,15 +415927,15 @@ window.CATALOG = {
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2388,
+       "id": 2397,
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2381,
+       "id": 2390,
        "from_source": "hypnosis-assault-loose"
       },
       {
-       "id": 2389,
+       "id": 2398,
        "from_source": "hypnosis-assault-loose"
       }
      ],
@@ -414121,7 +415946,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2620,
+       "id": 2629,
        "from_source": "hypno-sweep-oct9"
       }
      ],
@@ -414129,7 +415954,7 @@ window.CATALOG = {
     }
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 9,
+    "ig6qlxqxoxvcxla": 11,
     "india-catalog": null,
     "worldwide-hypnosis": null,
     "hypnotized-love": null,
@@ -414924,7 +416749,7 @@ window.CATALOG = {
        "from_source": "mother-kids-hypnosis"
       },
       {
-       "id": 2337,
+       "id": 2346,
        "from_source": "mother-kids-hypnosis"
       },
       {
@@ -414936,7 +416761,7 @@ window.CATALOG = {
     }
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 29,
+    "ig6qlxqxoxvcxla": 30,
     "india-catalog": null,
     "hypnotized-love": null,
     "rich-wife-hypnosis": null,
@@ -416463,7 +418288,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2628,
+       "id": 2637,
        "from_source": "round2"
       },
       {
@@ -417934,7 +419759,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2210,
+       "id": 2219,
        "from_source": "india-catalog"
       }
      ],
@@ -417945,7 +419770,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2212,
+       "id": 2221,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -417957,7 +419782,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2216,
+       "id": 2225,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -417969,7 +419794,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2218,
+       "id": 2227,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -417977,11 +419802,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2224,
+       "id": 2233,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2220,
+       "id": 2229,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -417989,7 +419814,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2221,
+       "id": 2230,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418021,7 +419846,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2229,
+       "id": 2238,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418029,7 +419854,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2227,
+       "id": 2236,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418037,7 +419862,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2231,
+       "id": 2240,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418045,19 +419870,19 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2236,
+       "id": 2245,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2238,
+       "id": 2247,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2237,
+       "id": 2246,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2239,
+       "id": 2248,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418077,11 +419902,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2244,
+       "id": 2253,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2211,
+       "id": 2220,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418089,7 +419914,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2258,
+       "id": 2267,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418097,7 +419922,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2256,
+       "id": 2265,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418105,7 +419930,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2263,
+       "id": 2272,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418121,7 +419946,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2264,
+       "id": 2273,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418137,7 +419962,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2267,
+       "id": 2276,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418153,11 +419978,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2270,
+       "id": 2279,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2271,
+       "id": 2280,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418169,7 +419994,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2272,
+       "id": 2281,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418181,7 +420006,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2273,
+       "id": 2282,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418209,7 +420034,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2278,
+       "id": 2287,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418217,11 +420042,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2279,
+       "id": 2288,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2284,
+       "id": 2293,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418229,7 +420054,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2282,
+       "id": 2291,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418241,11 +420066,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2290,
+       "id": 2299,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2288,
+       "id": 2297,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418257,7 +420082,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2334,
+       "id": 2343,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418269,7 +420094,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2295,
+       "id": 2304,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418281,7 +420106,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2296,
+       "id": 2305,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418293,11 +420118,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2297,
+       "id": 2306,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2299,
+       "id": 2308,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418309,23 +420134,23 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2304,
+       "id": 2313,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2215,
+       "id": 2224,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2308,
+       "id": 2317,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2310,
+       "id": 2319,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2309,
+       "id": 2318,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418333,11 +420158,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2312,
+       "id": 2321,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2311,
+       "id": 2320,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418345,7 +420170,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2318,
+       "id": 2327,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418357,7 +420182,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2320,
+       "id": 2329,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418373,7 +420198,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2324,
+       "id": 2333,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418385,7 +420210,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2337,
+       "id": 2346,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418393,11 +420218,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2341,
+       "id": 2350,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2340,
+       "id": 2349,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -418413,11 +420238,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2350,
+       "id": 2359,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2348,
+       "id": 2357,
        "from_source": "worldwide-hypnosis"
       }
      ],
@@ -418439,7 +420264,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2387,
+       "id": 2396,
        "from_source": "hypnosis-assault-loose"
       }
      ],
@@ -421401,7 +423226,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2625,
+       "id": 2634,
        "from_source": "round2"
       }
      ],
@@ -421753,7 +423578,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2625,
+       "id": 2634,
        "from_source": "round2"
       }
      ],
@@ -422179,7 +424004,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2207,
+       "id": 2216,
        "tags": [
         "Partial / exclusion",
         "Partial / exclusion cases"
@@ -422735,7 +424560,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2206,
+       "id": 2215,
        "tags": [
         "Lead",
         "Unresolved leads"
@@ -424800,7 +426625,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2211,
+       "id": 2220,
        "from_source": "worldwide-hypnosis"
       }
      ],
@@ -425314,7 +427139,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2382,
+       "id": 2391,
        "from_source": "hypnosis-assault-loose"
       }
      ],
@@ -428410,15 +430235,15 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2219,
+       "id": 2228,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2223,
+       "id": 2232,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2221,
+       "id": 2230,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -428438,7 +430263,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2230,
+       "id": 2239,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -428450,7 +430275,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2233,
+       "id": 2242,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -428466,7 +430291,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2242,
+       "id": 2251,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -428474,15 +430299,15 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2250,
+       "id": 2259,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2244,
+       "id": 2253,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2255,
+       "id": 2264,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -428502,7 +430327,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2265,
+       "id": 2274,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -428514,11 +430339,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2332,
+       "id": 2341,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2274,
+       "id": 2283,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -428530,23 +430355,23 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2277,
+       "id": 2286,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2285,
+       "id": 2294,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2287,
+       "id": 2296,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2292,
+       "id": 2301,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2295,
+       "id": 2304,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -428558,11 +430383,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2306,
+       "id": 2315,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2307,
+       "id": 2316,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -428574,7 +430399,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2314,
+       "id": 2323,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -428582,11 +430407,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2319,
+       "id": 2328,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2320,
+       "id": 2329,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -428594,11 +430419,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2321,
+       "id": 2330,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2323,
+       "id": 2332,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -428606,7 +430431,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2325,
+       "id": 2334,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -428614,15 +430439,15 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2327,
+       "id": 2336,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2337,
+       "id": 2346,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2339,
+       "id": 2348,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -428630,15 +430455,15 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2344,
+       "id": 2353,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2347,
+       "id": 2356,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2346,
+       "id": 2355,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -428713,7 +430538,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2382,
+       "id": 2391,
        "from_source": "hypnosis-assault-loose"
       },
       {
@@ -428728,7 +430553,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2468,
+       "id": 2477,
        "from_source": "royal-hypnosis-loose"
       }
      ],
@@ -429890,6 +431715,12 @@ window.CATALOG = {
         "Transformation into pishachas",
         "Possible · source wording partly ambiguous"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Pishachini"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -430114,7 +431945,7 @@ window.CATALOG = {
      ],
      "items": [
       {
-       "id": 2193,
+       "id": 2202,
        "tags": [
         "Supported",
         "Supernatural / enchanted-object control"
@@ -430771,6 +432602,7 @@ window.CATALOG = {
         "Tantrik / black-magic control",
         "Research report · web-verified"
        ],
+       "sources": [],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -430851,7 +432683,7 @@ window.CATALOG = {
         "Cataloged",
         "Catalog records"
        ],
-       "index_title": "Tantra — Telugu film",
+       "index_title": "Tantra (2018 Hindi series)",
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
@@ -430902,6 +432734,44 @@ window.CATALOG = {
      "from_source": "ig6qlxqxoxvcxla"
     },
     {
+     "title": "Ambiguous black-magic influence",
+     "notes": [],
+     "items": [
+      {
+       "id": 2184,
+       "tags": [
+        "Tantrik / black-magic control",
+        "Villain / tantrik control — India",
+        "Verified with mechanism caveat",
+        "Pregnancy status · not stated",
+        "Child before · Saie, later revealed non-biological"
+       ],
+       "index_title": "Jarann",
+       "from_source": "ig6qlxqxoxvcxla"
+      }
+     ],
+     "from_source": "ig6qlxqxoxvcxla"
+    },
+    {
+     "title": "Sorceress spell and sacrifice",
+     "notes": [],
+     "items": [
+      {
+       "id": 2186,
+       "tags": [
+        "Tantrik / black-magic control",
+        "Villain / tantrik control — India",
+        "Verified",
+        "Pregnancy status · unknown",
+        "Children status · none indicated"
+       ],
+       "index_title": "Shaitani Ilaaka",
+       "from_source": "ig6qlxqxoxvcxla"
+      }
+     ],
+     "from_source": "ig6qlxqxoxvcxla"
+    },
+    {
      "title": "India-only research additions (Sep 2026)",
      "notes": [],
      "items": [
@@ -430944,7 +432814,7 @@ window.CATALOG = {
     }
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 14,
+    "ig6qlxqxoxvcxla": 17,
     "india-catalog": null,
     "older-man-hypnosis": null,
     "hypno-leftovers": null,
@@ -433003,7 +434873,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2196,
+       "id": 2205,
        "tags": [
         "Cataloged",
         "Classic gothic mesmerism"
@@ -433044,7 +434914,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2197,
+       "id": 2206,
        "tags": [
         "Cataloged",
         "Modern TV mesmerism"
@@ -433096,7 +434966,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2198,
+       "id": 2207,
        "tags": [
         "Cataloged",
         "Regional vampire cinema"
@@ -433169,7 +435039,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2217,
+       "id": 2226,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -433181,7 +435051,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2330,
+       "id": 2339,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -433189,7 +435059,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2234,
+       "id": 2243,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -433197,7 +435067,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2232,
+       "id": 2241,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -433209,7 +435079,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2247,
+       "id": 2256,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -433217,11 +435087,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2252,
+       "id": 2261,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2251,
+       "id": 2260,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -433229,31 +435099,11 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2253,
+       "id": 2262,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2257,
-       "from_source": "worldwide-hypnosis"
-      },
-      {
-       "id": 2259,
-       "from_source": "worldwide-hypnosis"
-      },
-      {
-       "id": 682,
-       "from_source": "worldwide-hypnosis"
-      },
-      {
-       "id": 2261,
-       "from_source": "worldwide-hypnosis"
-      },
-      {
-       "id": 2264,
-       "from_source": "worldwide-hypnosis"
-      },
-      {
-       "id": 728,
+       "id": 2266,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -433261,27 +435111,31 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
+       "id": 682,
+       "from_source": "worldwide-hypnosis"
+      },
+      {
+       "id": 2270,
+       "from_source": "worldwide-hypnosis"
+      },
+      {
+       "id": 2273,
+       "from_source": "worldwide-hypnosis"
+      },
+      {
+       "id": 728,
+       "from_source": "worldwide-hypnosis"
+      },
+      {
+       "id": 2277,
+       "from_source": "worldwide-hypnosis"
+      },
+      {
        "id": 1330,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2276,
-       "from_source": "worldwide-hypnosis"
-      },
-      {
-       "id": 2283,
-       "from_source": "worldwide-hypnosis"
-      },
-      {
-       "id": 745,
-       "from_source": "worldwide-hypnosis"
-      },
-      {
-       "id": 2289,
-       "from_source": "worldwide-hypnosis"
-      },
-      {
-       "id": 2286,
+       "id": 2285,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -433289,19 +435143,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2293,
-       "from_source": "worldwide-hypnosis"
-      },
-      {
-       "id": 2335,
-       "from_source": "worldwide-hypnosis"
-      },
-      {
-       "id": 2301,
-       "from_source": "worldwide-hypnosis"
-      },
-      {
-       "id": 286,
+       "id": 745,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -433309,7 +435151,35 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2305,
+       "id": 2295,
+       "from_source": "worldwide-hypnosis"
+      },
+      {
+       "id": 2301,
+       "from_source": "worldwide-hypnosis"
+      },
+      {
+       "id": 2302,
+       "from_source": "worldwide-hypnosis"
+      },
+      {
+       "id": 2344,
+       "from_source": "worldwide-hypnosis"
+      },
+      {
+       "id": 2310,
+       "from_source": "worldwide-hypnosis"
+      },
+      {
+       "id": 286,
+       "from_source": "worldwide-hypnosis"
+      },
+      {
+       "id": 2307,
+       "from_source": "worldwide-hypnosis"
+      },
+      {
+       "id": 2314,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -433317,19 +435187,19 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2313,
+       "id": 2322,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2316,
+       "id": 2325,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2328,
+       "id": 2337,
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2338,
+       "id": 2347,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -433337,7 +435207,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2345,
+       "id": 2354,
        "from_source": "worldwide-hypnosis"
       },
       {
@@ -433349,7 +435219,7 @@ window.CATALOG = {
        "from_source": "worldwide-hypnosis"
       },
       {
-       "id": 2349,
+       "id": 2358,
        "from_source": "worldwide-hypnosis"
       }
      ],
@@ -433521,10 +435391,29 @@ window.CATALOG = {
       }
      ],
      "from_source": "ig6qlxqxoxvcxla"
+    },
+    {
+     "title": "Tantrik human-sacrifice plot",
+     "notes": [],
+     "items": [
+      {
+       "id": 157,
+       "tags": [
+        "Villain / tantrik control — India",
+        "Mother with child hypnotized / mind-controlled",
+        "Single-source",
+        "Pregnancy status · unknown",
+        "Child before and by end · son Atul"
+       ],
+       "index_title": "Laal Ishq — Ganjeshji Saves Atul From Evil Tantrik Adarsh",
+       "from_source": "ig6qlxqxoxvcxla"
+      }
+     ],
+     "from_source": "ig6qlxqxoxvcxla"
     }
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 9
+    "ig6qlxqxoxvcxla": 13
    }
   },
   {
@@ -434837,6 +436726,27 @@ window.CATALOG = {
      ]
     },
     {
+     "title": "Villain / stranger / criminal",
+     "notes": [],
+     "items": [
+      {
+       "id": 2188,
+       "tags": [
+        "Forcibly hypnotized to obey",
+        "Female hypnosis / mind control — India",
+        "Literal hypnosis",
+        "Docudrama · dramatized real-crime reenactment",
+        "Pregnancy status · unknown",
+        "Children status · unknown",
+        "Verified"
+       ],
+       "index_title": "Savdhaan India — S42E17 “A hypnotist misuses his skills”",
+       "from_source": "ig6qlxqxoxvcxla"
+      }
+     ],
+     "from_source": "ig6qlxqxoxvcxla"
+    },
+    {
      "title": "Supernatural",
      "notes": [],
      "items": [
@@ -434850,7 +436760,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2182,
+       "id": 2191,
        "tags": [
         "Cataloged",
         "Supernatural"
@@ -434866,7 +436776,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2183,
+       "id": 2192,
        "tags": [
         "Variant",
         "Mechanism variants"
@@ -434898,7 +436808,7 @@ window.CATALOG = {
     }
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 32,
+    "ig6qlxqxoxvcxla": 37,
     "rich-wife-hypnosis": null,
     "older-man-hypnosis": null,
     "mother-kids-hypnosis": null,
@@ -435047,7 +436957,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2187,
+       "id": 2196,
        "tags": [
         "Near-miss",
         "Near-misses"
@@ -435074,7 +436984,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2186,
+       "id": 2195,
        "tags": [
         "Near-miss",
         "Near-misses"
@@ -435450,7 +437360,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2188,
+       "id": 2197,
        "tags": [
         "Close variant",
         "Labeled close variants"
@@ -435466,7 +437376,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2191,
+       "id": 2200,
        "tags": [
         "Near-miss",
         "Near-misses"
@@ -435475,7 +437385,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2189,
+       "id": 2198,
        "tags": [
         "Near-miss",
         "Near-misses"
@@ -435484,7 +437394,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2190,
+       "id": 2199,
        "tags": [
         "Near-miss",
         "Near-misses"
@@ -435493,7 +437403,7 @@ window.CATALOG = {
        "from_source": "ig6qlxqxoxvcxla"
       },
       {
-       "id": 2192,
+       "id": 2201,
        "tags": [
         "Near-miss",
         "Near-misses"
@@ -436597,7 +438507,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2626,
+       "id": 2635,
        "from_source": "round2"
       }
      ],

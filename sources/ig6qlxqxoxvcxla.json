@@ -1,6 +1,11 @@
 {
  "SOURCE": "https://muse.ai/s/tv-and-movie-research-catalog-xla62ucxbx02u5",
  "stats": [
+  "9 Oct 2026 Savdhaan India / Shantham Papam targeted sweep: 1 verified Savdhaan India female-hypnosis episode added; no Shantham Papam hypnosis episode was verified",
+  "Targeted sweep coverage: English, Hindi and Kannada-script searches; the Savdhaan India record is flagged as a dramatized real-crime docudrama, and pregnancy / children status remains unknown because the sources are silent",
+  "9 Oct 2026 Indian platform sweep: 13 verified non-duplicate records added and 7 enrichment folds applied to existing records; no new plot category was needed",
+  "Indian sweep coverage: JioHotstar, ZEE5, SonyLIV, Dangal Play, Sun NXT and other national and regional platforms; Hindi, Marathi, Bengali, Tamil, Telugu and wider-language searches across serials, soaps, films, TV movies and web series",
+  "Adult / R-rated / erotic lanes were included without filtering: Aashram and Payal are explicitly tagged; searched adult platforms without a verifiable female-control plot remain documented as coverage gaps",
   "6 Oct 2026 ultrasound × hypnosis intersection sweep: 1 source-supported addition across 2 new plot categories, plus 3 enrichment folds into existing records",
   "Intersection coverage: six worldwide research lanes, 20+ languages, all requested screen formats, adult / R-rated / erotic titles and vertical microdramas; no possession-only title was promoted",
   "Adult / erotic intersection result: no verifiable title combined a pregnancy scan with hypnosis, love-potion or other qualifying control; nothing was filtered out",
@@ -8,7 +13,7 @@
   "Ultrasound branch now holds 85 primary records across 11 scene-level categories; 9 of the original records carry [Adult] flags",
   "5 Oct 2026 surrogate sweep: 1 confirmed + 2 probable records across 9 research lanes; the trope is nearly nonexistent worldwide",
   "5 Oct 2026 re-sweep: 8 new records + 1 cross-tag fold, including 1 probable vertical-short title with its single-source limitation shown",
-  "979 category records across 66 plot categories; 803 unique named titles shown after title-and-year deduplication",
+  "993 category records across 66 plot categories; 817 unique named titles shown after title-and-year deduplication",
   "0 new qualifying wife-takes-husband-to-hypnotist titles; 2 confirmed near-misses and 1 unverified vertical-short lead held out",
   "Vertical-short coverage remains a discoverability gap: app catalogs are poorly indexed, so only source-supported candidates are included",
   "18 source-supported rich-woman hypnosis or love-potion entries across 6 plot categories after the 5 Oct re-sweep and overlap folds",
@@ -20,9 +25,9 @@
   "13 net-new adult-context pregnancy-control findings, 3 literal-hypnosis core",
   "30 verified wife-with-children pregnancy titles + 1 medium-confidence lead",
   "3 accepted hypnosis-to-infidelity titles covering 4 woman-instances: 2 high and 2 medium confidence; plus 2 leads",
-  "174 worldwide adult-female hypnosis findings: the 129-title baseline plus 45 adult / erotic gap-fill titles",
+  "176 worldwide adult-female hypnosis findings: the 129-title baseline, 45 adult / erotic gap-fill titles and 2 Indian-platform additions",
   "1 low-confidence mother/current-partner match: El maleficio (1983–84)",
-  "32 forcibly-hypnotized-to-obey category entries: 24 stronger or near-exact cases (including 2 separately flagged adult-animation)",
+  "37 forcibly-hypnotized-to-obey category entries: 29 stronger or near-exact cases (including 2 separately flagged adult-animation)",
   "3 supported stepmother-control matches + 1 low-confidence borderline case",
   "5 verified pregnant-stepmother / bonus-mom titles + 1 low-confidence lead; 4 net-new records + 2 existing records",
   "0 exact remarried-wife / new-husband-or-stepfather control matches",
@@ -35,13 +40,13 @@
   "21 verified adopt-then-pregnant titles + 4 marginal variants",
   "211 report-listed findings reviewed; 209 net-new catalog records after merging two existing overlaps",
   "34 titles in the focused India–Indonesia pass: 8 Indonesian + 25 identified Indian + 1 possibly Indian",
-  "41 Indian female-control titles: 37 high confidence + 4 possible across 7 Indian languages",
+  "46 Indian female-control titles: 42 high confidence + 4 possible across 7 Indian languages",
   "39 child-walk-in records: 23 shown strict cases, 4 dialogue-confirmed childhood recollections, 6 adult-offspring cases",
   "Catastrophe S2E1 has dual membership",
   "0 airtight pregnant-mother walk-in matches · 1 strongest candidate + 24 other partial cases after a 12-market follow-up",
   "24 husband-controls-wife cases across 3 clearly labeled mechanism groups",
   "20 strong new hypnotized-to-love cases + 7 flagged borderline cases",
-  "17 higher-confidence mother-with-child cases + 12 borderline cases",
+  "18 higher-confidence mother-with-child cases + 12 borderline cases",
   "19 high-confidence + 18 close or medium-confidence pregnant-woman control cases",
   "7 Indian pregnancy-control findings: 6 high-confidence + 1 hypnosis-at-conception film",
   "3 pregnant-character trance cases + 3 pregnancy-adjacent cases",
@@ -49,6 +54,13 @@
   "Worldwide source review dated 30 Sep 2026"
  ],
  "boundaries": [
+  "9 Oct 2026 targeted serial search: Savdhaan India S42E17 “A hypnotist misuses his skills” (aired 25 April 2014) is the only verified addition. It is a dramatized real-crime docudrama rather than fiction; the reviewed sources do not establish whether Priya, Neha or the other affected women are pregnant or have children.",
+  "Shantham Papam: four targeted English, Hindi and Kannada-script searches found no verifiable female-hypnosis episode, so no record was added. Savdhaan India S34E45 “professor murti hypnotises” was also held out because only a title-level lead was found, without enough victim-gender or plot detail.",
+  "9 Oct 2026 Indian female-hypnosis sweep: five research lanes ran 30+ searches each in English and seven Indian scripts. Thirteen verified non-duplicate records were added and seven enrichment folds were applied to existing records; every addition fit an existing plot category.",
+  "Pregnancy and children fields report only what the reviewed plot sources establish. Unknown means the sources are silent; it does not imply that a character is not pregnant or has no children. Jiji Maa and Suhani Si Ek Ladki have explicit arc-specific pregnancy and end-family detail.",
+  "Confidence caveats retained: the Laal Ishq / Atul episode is single-source; Jarann deliberately leaves black-magic spell versus trauma-induced psychosis unresolved; Nikita Roy is direction-inverted because she resists the control and exposes the godman.",
+  "Coverage gaps: no qualifying Dangal Play / Dangal TV, ShemarooMe, Hungama Play or Eros Now title was verified; original-language Telugu, Odia, Gujarati, Punjabi and Bhojpuri serial searches were empty; Malayalam and Kannada hits were sparse. Adult-platform searches across Kooku, PrimeShots, Nuefliks, Feneo, Hunters, Fliz, Rabbit Movies, Chikooflix, Bigshots, Hotshots and Atrangii found no additional verifiable female-control title.",
+  "Ruled-out items remain outside the catalog when the victim was male, hypnosis was faked or metaphorical, the story used possession alone, or the available evidence did not establish a female mind-control beat. Mayamohini was treated as a Tamil dub of the already cataloged Kavach… Kaali Shaktiyon Se, not a new record.",
   "6 Oct 2026 ultrasound × hypnosis intersection sweep: six research lanes searched English, Latin American / Iberian, South Asian, East / Southeast Asian, European / MENA, adult / erotic and vertical-microdrama sources. The intersection is genuinely near-empty: 1 source-supported record was added and 3 existing records were enriched.",
   "Inclusion caveats: Yehh Jadu Hai Jinn Ka! hypnotizes Rehan rather than pregnant Roshni; Art of the Devil reverses the control direction because Boom commissions the ritual magic; Rosemary’s Baby (2014) uses cult gaslighting and manipulation rather than literal hypnosis. Daayan is the strongest direct scan-to-hypnosis match.",
   "Not promoted: Unter uns and Demain nous appartient have hypnosis and pregnancy but no sourced ultrasound scene; 25 verified near-misses and 4 unverified leads remain outside the catalog. The Handmaid’s Tale season 2 is borderline institutional indoctrination rather than hypnosis, and Ultrasound (2021) has no verifiable sonogram scene despite its title.",
@@ -164,8 +176,8 @@
   {
    "n": 2,
    "title": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "count": 174,
-   "desc": "129-title baseline + 45 adult/erotic gap-fill: 97 high, 50 medium-high, 21 medium and 6 low-medium confidence. “Adult / erotic” is an adult-audience non-pornographic scope.",
+   "count": 176,
+   "desc": "129-title baseline + 45 adult/erotic gap-fill, plus 2 verified Indian-platform additions from the 9 Oct sweep. “Adult / erotic” is an adult-audience non-pornographic scope.",
    "groups": [
     {
      "name": "Svengali / Trilby",
@@ -457,8 +469,8 @@
   {
    "n": 6,
    "title": "Forcibly hypnotized to obey",
-   "count": 32,
-   "desc": "24 stronger or near-exact cases, including the surrogate-sweep cross-tag, plus 8 separated variants or leads.",
+   "count": 37,
+   "desc": "29 stronger or near-exact cases, including the targeted Savdhaan India finding, four additions from the 9 Oct Indian-platform sweep and the surrogate-sweep cross-tag, plus 8 separated variants or leads.",
    "groups": [
     {
      "name": "Husband / lover / partner / domestic",
@@ -474,13 +486,14 @@
     {
      "name": "Villain / stranger / criminal",
      "items": [
-      "Svengali (1931)",
-      "Thirteen Women (1932)",
+      "Charlie’s Angels (1976)",
       "In the Power of a Hypnotist (1913)",
+      "Kommissar Rex (1996)",
+      "Savdhaan India — S42E17 “A hypnotist misuses his skills” (2014)",
+      "Svengali (1931)",
       "The Criminal Hypnotist (1909)",
       "The Spy’s Defeat",
-      "Kommissar Rex (1996)",
-      "Charlie’s Angels (1976)"
+      "Thirteen Women (1932)"
      ],
      "note": "",
      "confidence": "Stronger case"
@@ -706,8 +719,8 @@
   {
    "n": 9,
    "title": "Partner hires a third-party controller",
-   "count": 4,
-   "desc": "The rarest node in the catalog: four verified records, organized by motive.",
+   "count": 5,
+   "desc": "Five verified records, organized by motive; Jiji Maa adds a coercive doctor-hypnosis case.",
    "groups": [
     {
      "name": "Regain love / stop leaving",
@@ -1228,7 +1241,7 @@
       "Qayamat Ki Raat (2018–19)",
       "Nazar (2018–20)",
       "Uttaran (2008–15)",
-      "Tantra",
+      "Tantra (2018 Hindi series)",
       "Vashikaranam (2026)",
       "Chandramukhi (2005)",
       "Manichitrathazhu (1993)",
@@ -1244,8 +1257,8 @@
   {
    "n": 20,
    "title": "Female hypnosis / mind control — India",
-   "count": 41,
-   "desc": "37 high-confidence and 4 possible records across seven Indian languages.",
+   "count": 46,
+   "desc": "42 high-confidence and 4 possible records across seven Indian languages after the 9 Oct targeted Savdhaan India / Shantham Papam sweep.",
    "groups": [
     {
      "name": "Love / marriage / relationship compulsion",
@@ -1270,15 +1283,16 @@
     {
      "name": "Villain / tantrik / antagonist control",
      "items": [
-      "Phoonk (2008)",
-      "Daayan (2018–19)",
-      "Shaitaan (2024)",
+      "Ankahee Dastaan – Nazar (2021)",
       "Bhool Bhulaiyaa 2 (2022)",
-      "Vash (2023)",
-      "Vash Level 2 (2025)",
-      "Purana Mandir (1984)",
+      "Daayan (2018–19)",
       "Gehrayee (1980)",
-      "Ankahee Dastaan – Nazar (2021)"
+      "Phoonk (2008)",
+      "Purana Mandir (1984)",
+      "Savdhaan India — S42E17 “A hypnotist misuses his skills” (2014)",
+      "Shaitaan (2024)",
+      "Vash (2023)",
+      "Vash Level 2 (2025)"
      ],
      "note": "",
      "confidence": "Cataloged"
@@ -1328,8 +1342,8 @@
   {
    "n": 21,
    "title": "Villain / tantrik control — India",
-   "count": 9,
-   "desc": "Indian villain, tantrik and antagonist-control records.",
+   "count": 13,
+   "desc": "Indian villain, tantrik and antagonist-control records, including four additions or cross-tags from the 9 Oct platform sweep.",
    "groups": [
     {
      "name": "Catalog records",
@@ -1604,8 +1618,8 @@
   {
    "n": 26,
    "title": "Tantrik / black-magic control",
-   "count": 14,
-   "desc": "Tantrik and black-magic control records, including the 2026 Hindi daily series Vashikaranam.",
+   "count": 17,
+   "desc": "Tantrik and black-magic control records, including three additions from the 9 Oct Indian-platform sweep and the 2026 Hindi daily series Vashikaranam.",
    "groups": [
     {
      "name": "Catalog records",
@@ -1614,7 +1628,7 @@
       "Veerana (1988)",
       "Raaz 3 (2012)",
       "Shaitaan (2024)",
-      "Tantra — Telugu film",
+      "Tantra (2024 Telugu film)",
       "Kataka (2017 Kannada)",
       "Bhool Bhulaiyaa 2 (2022)",
       "Tantra (2018 Hindi series)",
@@ -1678,8 +1692,8 @@
   {
    "n": 28,
    "title": "Cult / coercive brainwashing",
-   "count": 14,
-   "desc": "Cult and coercive-brainwashing records, including one upcoming October 2026 horror-comedy.",
+   "count": 16,
+   "desc": "Cult and coercive-brainwashing records, including Aashram and Nikita Roy from the 9 Oct Indian-platform sweep.",
    "groups": [
     {
      "name": "Catalog records",
@@ -1705,8 +1719,8 @@
   {
    "n": 29,
    "title": "Medical / therapeutic hypnosis",
-   "count": 9,
-   "desc": "Medical and therapeutic-hypnosis records.",
+   "count": 11,
+   "desc": "Medical and therapeutic-hypnosis records, including Bonyo Premer Golpo S2 and Jiji Maa.",
    "groups": [
     {
      "name": "Catalog records",
@@ -1817,8 +1831,8 @@
   {
    "n": 34,
    "title": "Mother with child hypnotized / mind-controlled",
-   "count": 29,
-   "desc": "17 higher-confidence records plus 12 borderline cases.",
+   "count": 30,
+   "desc": "18 higher-confidence records plus 12 borderline cases.",
    "groups": [
     {
      "name": "Higher-confidence",
@@ -6988,13 +7002,673 @@
     }
    ],
    "provenance": "Mind-control detail folded into the existing 2014 miniseries record from the 6 Oct 2026 intersection sweep."
+  },
+  {
+   "cat": 20,
+   "title": "Aahat — The Eye Parts I–II",
+   "year": "1996",
+   "meta": "TV horror anthology episodes · India · Hindi · Sony TV / SonyLIV",
+   "subgroup": "Stage-hypnosis demonstration",
+   "summary": "A well-renowned male stage mentalist hypnotizes a woman before reporters as a public demonstration of his powers; the episode then pivots to his murder, which a professor helps police solve.",
+   "note": "Distinct from the already-cataloged Aahat episode 27. Pregnancy during the arc, pregnancy at the end, children before and children by the end are all unknown because the available one-off anthology sources give no family detail.",
+   "character": "Unnamed woman in the public demonstration",
+   "mechanism": "Stage hypnosis",
+   "controller": "Male mentalist / hypnotist",
+   "motive": "Public demonstration of his powers",
+   "tags": [
+    "Female hypnosis / mind control — India",
+    "Verified",
+    "Pregnancy status · unknown",
+    "Children status · unknown"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia episode list",
+     "url": "https://en.wikipedia.org/wiki/List_of_Aahat_episodes"
+    },
+    {
+     "name": "SonyLIV episode page",
+     "url": "https://www.sonyliv.com/shows/aahat-1700000144/the-eye-part-i-1000191785"
+    }
+   ],
+   "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep."
+  },
+  {
+   "cat": 28,
+   "title": "Aashram",
+   "year": "2020–",
+   "meta": "Web series · India · Hindi · MX Player · 18+ context",
+   "subgroup": "Cult exploitation",
+   "summary": "Godman Baba Nirala drugs female devotees, including Pammi and Babita, with spiked prasad or kheer, rendering them unconscious for sexual exploitation under the guise of “purification”; followers are also subjected to coercive brainwashing.",
+   "note": "Pregnancy during the arc, pregnancy at the end, children before and children by the end are unknown; the reviewed sources are silent on those statuses.",
+   "character": "Pammi, Babita and other female devotees",
+   "mechanism": "Drugged food plus coercive cult brainwashing",
+   "controller": "Baba Nirala",
+   "motive": "Sexual exploitation disguised as purification",
+   "tags": [
+    "Cult / coercive brainwashing",
+    "Adult female hypnosis — R-rated-equivalent worldwide",
+    "Verified",
+    "Pregnancy status · unknown",
+    "Children status · unknown"
+   ],
+   "sources": [
+    {
+     "name": "Cinema Express"
+    },
+    {
+     "name": "MensXP"
+    },
+    {
+     "name": "Bollywood Hungama"
+    },
+    {
+     "name": "LatestLY"
+    },
+    {
+     "name": "Koimoi"
+    }
+   ],
+   "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep; adult / R-rated-equivalent lane included."
+  },
+  {
+   "cat": 20,
+   "title": "Asambhav",
+   "year": "2007–2009",
+   "meta": "TV serial · India · Marathi · Zee Marathi · 774 episodes",
+   "subgroup": "Revenge hypnosis",
+   "summary": "Sulekha Raut, taught “mind control and hypnosis” by Tanishka, uses hypnosis as a murder weapon: she hypnotizes her mother Kshipra and orders her to cut her wrist, then targets Nikhil and Abhi in the same revenge campaign against the Shastri family.",
+   "note": "Pregnancy is not stated. Sulekha is childless; Kshipra’s known children are Sulekha and Poonam. No additional children are mentioned by the end.",
+   "character": "Kshipra; Sulekha also targets male victims Nikhil and Abhi",
+   "mechanism": "Learned hypnosis and command suggestion",
+   "controller": "Sulekha Raut, trained by Tanishka",
+   "motive": "Revenge against the Shastri family",
+   "tags": [
+    "Female hypnosis / mind control — India",
+    "Forcibly hypnotized to obey",
+    "Verified",
+    "Pregnancy status · not stated",
+    "Children · Kshipra has Sulekha and Poonam"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Asambhav_(TV_series)"
+    },
+    {
+     "name": "IndiaForums episode recaps"
+    }
+   ],
+   "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep."
+  },
+  {
+   "cat": 29,
+   "title": "Bonyo Premer Golpo S2",
+   "year": "2020",
+   "meta": "Web series · India · Bengali · Hoichoi",
+   "subgroup": "Patient-requested hypnosis",
+   "subtitle": "S2E8 The Unsatisfied Wife; S2E10",
+   "summary": "Minnie asks Dr. Kanishka to hypnotise her in S2E8 and reveals her deepest secrets; by S2E10, Kanishka unearths a shocking secret from Minnie's hypnosis history.",
+   "note": "Clinical, patient-requested hypnosis. Pregnancy during the arc, pregnancy at the end, children before and children by the end are unknown; the asylum-set thriller sources are silent.",
+   "character": "Minnie",
+   "mechanism": "Clinical / therapeutic hypnosis",
+   "controller": "Dr. Kanishka, at Minnie's request",
+   "motive": "Therapy and disclosure of hidden memories or secrets",
+   "tags": [
+    "Medical / therapeutic hypnosis",
+    "Verified",
+    "Pregnancy status · unknown",
+    "Children status · unknown"
+   ],
+   "sources": [
+    {
+     "name": "Hoichoi",
+     "url": "https://hoichoi.tv/shows/watch-bonyo-premer-golpo-bengali-web-series-online"
+    },
+    {
+     "name": "TheTVDB",
+     "url": "https://www.thetvdb.com/series/bonyo-premer-golpo/allseasons/official"
+    },
+    {
+     "name": "Moviefone",
+     "url": "https://www.moviefone.com/tv-shows/bonyo-premer-golpo/qpchGw9tMszoiGgyK5Kp66/seasons/2/"
+    }
+   ],
+   "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep."
+  },
+  {
+   "cat": 20,
+   "title": "Haiwaan",
+   "year": "2019–20",
+   "meta": "TV serial episode · India · Hindi · Zee TV / ZEE5",
+   "subgroup": "Memory erasure",
+   "subtitle": "E38 · Disha hypnotises Amrita",
+   "summary": "Disha, Amrita’s elder sister, wipes Amrita’s memory by hypnotizing her; Disha also hypnotizes Baby for the Ratan jewel as part of her revenge and the Ratan power struggle.",
+   "note": "Pregnancy during the arc, pregnancy at the end, children before and children by the end are unknown; the sources are silent.",
+   "character": "Amrita; Baby is also hypnotized",
+   "mechanism": "Hypnosis with memory erasure",
+   "controller": "Disha",
+   "motive": "Revenge against Dharam and Amrita’s family; control of the Ratan jewel",
+   "tags": [
+    "Female hypnosis / mind control — India",
+    "Forcibly hypnotized to obey",
+    "Verified",
+    "Pregnancy status · unknown",
+    "Children status · unknown"
+   ],
+   "sources": [
+    {
+     "name": "ZEE5 episode page",
+     "url": "https://www.zee5.com/tv-shows/details/haiwaan/0-6-1917/disha-hypnotises-amrita-haiwaan/0-1-manual_72lqt409p7p0"
+    },
+    {
+     "name": "Telly Updates · 26 Jan 2020",
+     "url": "https://www.tellyupdates.com/haiwan-26th-january-2020-written-episode-update-amrita-recognizes-randhir-as-her-husband/"
+    },
+    {
+     "name": "Telly Updates · 16 Feb 2020",
+     "url": "https://www.tellyupdates.com/haiwan-16th-february-2020-written-episode-update/"
+    }
+   ],
+   "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep."
+  },
+  {
+   "cat": 26,
+   "title": "Jarann",
+   "year": "2025",
+   "meta": "Feature film · India · Marathi · theatrical / ZEE5",
+   "subgroup": "Ambiguous black-magic influence",
+   "summary": "Radha is believed to have been placed under a black-magic spell called “jarann” by village witch Ganguti as a child. After returning to the ancestral wada as a widowed adult with her daughter, she again falls under the influence and attacks people trying to help her while Ganguti’s apparition encourages her.",
+   "note": "Mechanism deliberately remains ambiguous: supernatural spell versus trauma-induced psychosis in Dr. Kulkarni’s explanation. Included on the story’s black-magic framing. Pregnancy is not stated. Radha arrives with daughter Saie, but the plot reveals Saie is not Radha’s biological daughter.",
+   "character": "Radha",
+   "mechanism": "In-fiction black-magic spell; alternative trauma / psychosis explanation",
+   "controller": "Ganguti",
+   "motive": "Not made explicit",
+   "tags": [
+    "Tantrik / black-magic control",
+    "Villain / tantrik control — India",
+    "Verified with mechanism caveat",
+    "Pregnancy status · not stated",
+    "Child before · Saie, later revealed non-biological"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Jarann"
+    },
+    {
+     "name": "Urbanly",
+     "url": "https://www.urbanly.in/pune/art-entertainment/jarann-review-a-chilling-marathi-thriller-rooted-in-black-magic/"
+    },
+    {
+     "name": "OTTplay",
+     "url": "https://www.ottplay.com/news/jarann-ott-release-date-when-where-stream-amruta-subhash-psychological-thriller/d88755b969312"
+    }
+   ],
+   "provenance": "Added with the source-reported ambiguity intact in the 9 Oct 2026 Indian female-hypnosis platform sweep."
+  },
+  {
+   "cat": 29,
+   "title": "Jiji Maa",
+   "year": "2018",
+   "meta": "TV serial · India · Hindi · Star Bharat",
+   "subgroup": "Doctor-enabled coercive hypnosis",
+   "summary": "Mother-in-law Uttara brings in a doctor to hypnotize Falguni so she can be taken for a secret uterus-removal operation without her knowledge; later, Uttara brainwashes Falguni to shoot her husband Suyash.",
+   "note": "Not pregnant during the hypnosis arc: the plot centers on forced uterus removal and the claim she could never become a mother. End-pregnancy is unknown; she later agrees to be a surrogate, but the reviewed sources do not confirm a completed pregnancy. She had no children before; by the end, Laddoo is revealed as Falguni and Suyash’s biological son.",
+   "character": "Falguni",
+   "mechanism": "Doctor-administered hypnosis; later brainwashing",
+   "controller": "A doctor hired by Uttara; later Uttara",
+   "motive": "Force secret surgery and later compel violence",
+   "tags": [
+    "Medical / therapeutic hypnosis",
+    "Partner hires a third-party controller",
+    "Verified",
+    "Pregnancy during arc · no",
+    "Pregnant at end · unknown",
+    "Children before · none",
+    "Children by end · son Laddoo"
+   ],
+   "sources": [
+    {
+     "name": "IWMBuzz · hypnosis report",
+     "url": "https://www.iwmbuzz.com/television/spoilers/falguni-hypnotized-star-bharats-jiji-maa/2018/04/03"
+    },
+    {
+     "name": "IWMBuzz · Laddoo reveal",
+     "url": "https://www.iwmbuzz.com/television/spoilers/falguni-know-laddoos-identity-jiji-maa/2019/01/30"
+    },
+    {
+     "name": "TellyUpdates written updates"
+    }
+   ],
+   "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep."
+  },
+  {
+   "cat": 21,
+   "title": "Laal Ishq — Ganjeshji Saves Atul From Evil Tantrik Adarsh",
+   "year": "2018",
+   "meta": "TV horror anthology episode · India · Hindi · &TV",
+   "subgroup": "Tantrik human-sacrifice plot",
+   "summary": "Evil tantrik Adarsh hypnotizes Dhristi by eye contact so she will hand over her young son Atul for a human-sacrifice pooja; Adarsh has already used boys in the ritual and treats Atul as a replacement victim.",
+   "note": "Single-source record: supported by one TellyUpdates recap. Distinct from the two other cataloged Laal Ishq episodes. Pregnancy is unknown. Dhristi already has one son, Atul, and no family-status change is stated by the end.",
+   "character": "Dhristi",
+   "mechanism": "Eye-contact hypnosis",
+   "controller": "Tantrik Adarsh",
+   "motive": "Obtain Atul for a human-sacrifice ritual",
+   "tags": [
+    "Villain / tantrik control — India",
+    "Mother with child hypnotized / mind-controlled",
+    "Single-source",
+    "Pregnancy status · unknown",
+    "Child before and by end · son Atul"
+   ],
+   "sources": [
+    {
+     "name": "TellyUpdates",
+     "url": "https://www.tellyupdates.com/laal-ishq-23rd-september-2018-written-episode-update-ganjeshji-saves-atul-from-evil-tantrik-adarsh/"
+    }
+   ],
+   "provenance": "Added with its single-source confidence label in the 9 Oct 2026 Indian female-hypnosis platform sweep."
+  },
+  {
+   "cat": 28,
+   "title": "Nikita Roy",
+   "year": "2025",
+   "meta": "Feature film · India · Hindi · theatrical",
+   "subgroup": "Cult manipulation resisted",
+   "summary": "Godman Amar Dev controls devotees with secretly administered hallucinogens and psychological manipulation; female lead Nikita Roy is targeted with a curse and induced nightmares as part of his apparatus.",
+   "note": "Direction-inverted: Nikita resists and ultimately exposes Amar Dev rather than remaining controlled. Pregnancy and children are not indicated in the reviewed sources.",
+   "character": "Nikita Roy",
+   "mechanism": "Hallucinogens plus psychological manipulation",
+   "controller": "Amar Dev",
+   "motive": "Cult control and exploitation",
+   "tags": [
+    "Cult / coercive brainwashing",
+    "Direction-inverted · target resists",
+    "Pregnancy status · unknown",
+    "Children status · none indicated"
+   ],
+   "sources": [
+    {
+     "name": "OTTplay",
+     "url": "https://www.ottplay.com/news/nikita-roy-ending-explained-does-sonakshi-sinha-prove-supernatural-or-just-expose-paresh-rawal-conspiracy/6ddca17e39312"
+    },
+    {
+     "name": "LatestLY",
+     "url": "https://www.latestly.com/entertainment/bollywood/nikita-roy-movie-review-sonakshi-sinha-turns-desi-nancy-drew-in-this-passable-supernatural-mystery-thriller-latestly-exclusive-7006308.html"
+    }
+   ],
+   "provenance": "Added with the direction-inversion caveat in the 9 Oct 2026 Indian female-hypnosis platform sweep."
+  },
+  {
+   "cat": 2,
+   "title": "Payal",
+   "year": "2024–25",
+   "meta": "Web series · India · Hindi · Ullu · 18+",
+   "subgroup": "Erotic fantasy exploitation",
+   "summary": "A magical anklet hypnotizes any woman who wears it and turns her into the owner’s slave—first for Dadaji, then for his grandson Preetam after he steals the device.",
+   "note": "The motive is sexual exploitation. Pregnancy during the arc, pregnancy at the end, children before and children by the end are unknown; the sources are silent.",
+   "mechanism": "Magical hypnotic anklet",
+   "controller": "Dadaji, then Preetam",
+   "motive": "Sexual exploitation",
+   "tags": [
+    "Adult female hypnosis — R-rated-equivalent worldwide",
+    "Forcibly hypnotized to obey",
+    "Verified",
+    "Pregnancy status · unknown",
+    "Children status · unknown"
+   ],
+   "sources": [
+    {
+     "name": "Newznew",
+     "url": "https://www.newznew.com/payal-part-1-cast-trailer-release-date-and-storyline-of-the-ullu-web-series/"
+    },
+    {
+     "name": "OTTplay",
+     "url": "https://www.ottplay.com/news/payal-part-2-ott-release-date-heres-when-and-where-you-can-watch-the-new-fantasy-series/5b412dcd27293"
+    },
+    {
+     "name": "Movieetalks"
+    },
+    {
+     "name": "Fynow"
+    },
+    {
+     "name": "Khabribhai"
+    }
+   ],
+   "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep; adult / erotic lane included."
+  },
+  {
+   "cat": 26,
+   "title": "Shaitani Ilaaka",
+   "year": "1990",
+   "meta": "Feature film · India · Hindi · theatrical",
+   "subgroup": "Sorceress spell and sacrifice",
+   "summary": "Sorceress Lalbai bewitches newlywed brides, placing them under a spell before sacrificing them to the demon Shaitan to restore his powers; she also uses voodoo against Anju.",
+   "note": "The mechanism is described as bewitchment or a spell. Pregnancy is unknown; the victims are newlywed brides and no pregnancy is mentioned. Children are not indicated.",
+   "character": "Newlywed brides; Anju is targeted by voodoo",
+   "mechanism": "Bewitchment / spell and voodoo",
+   "controller": "Lalbai",
+   "motive": "Sacrifice brides to restore Shaitan’s powers",
+   "tags": [
+    "Tantrik / black-magic control",
+    "Villain / tantrik control — India",
+    "Verified",
+    "Pregnancy status · unknown",
+    "Children status · none indicated"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Shaitani_Ilaaka"
+    },
+    {
+     "name": "IMDb",
+     "url": "https://www.imdb.com/title/tt0261296"
+    }
+   ],
+   "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep."
+  },
+  {
+   "cat": 20,
+   "title": "Suhani Si Ek Ladki",
+   "year": "2015",
+   "meta": "TV serial · India · Hindi · Star Plus",
+   "subgroup": "Surrogate rival hypnosis",
+   "summary": "Surrogate Barbie hypnotizes Suhani to fake mental instability, including a staged terrace suicide, so she can break Suhani’s marriage and marry Yuvraj; Barbie also hypnotizes Dadi.",
+   "note": "Suhani is not pregnant during the arc: she had been rendered infertile and the plot centers on surrogacy. End-pregnancy is unknown. She had no children before; by the end she has twins Yuvaan and Yuvaani with Yuvraj and later son Sayyam with Sambhav.",
+   "character": "Suhani; Dadi is also hypnotized",
+   "mechanism": "Hypnosis and compelled staged behavior",
+   "controller": "Barbie",
+   "motive": "Break Suhani’s marriage and take Yuvraj",
+   "tags": [
+    "Female hypnosis / mind control — India",
+    "Forcibly hypnotized to obey",
+    "Verified",
+    "Pregnancy during arc · no",
+    "Pregnant at end · unknown",
+    "Children before · none",
+    "Children by end · Yuvaan, Yuvaani and Sayyam"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Suhani_Si_Ek_Ladki"
+    },
+    {
+     "name": "TellyChakkar episode coverage"
+    },
+    {
+     "name": "IndiaForums episode coverage"
+    }
+   ],
+   "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep."
+  },
+  {
+   "cat": 26,
+   "title": "Tantra",
+   "year": "2024",
+   "meta": "Feature film · India · Telugu · theatrical · A-rated",
+   "subgroup": "Tantric ritual influence",
+   "summary": "Rekha is targeted by tantric pooja performed against her; her friend Sailu acts under the tantric’s influence, going to the graveyard on the twelfth day as predicted, until Teju kills the man performing the ritual.",
+   "note": "Pregnancy during the arc, pregnancy at the end, children before and children by the end are unknown; the sources are silent. This is the 2024 Telugu film, not the separate 2018 Hindi series already cataloged.",
+   "character": "Rekha and Sailu",
+   "mechanism": "Tantric pooja and external influence",
+   "controller": "The man performing the tantric ritual",
+   "motive": "Black-magic targeting; fuller motive not established in the reviewed sources",
+   "tags": [
+    "Tantrik / black-magic control",
+    "Villain / tantrik control — India",
+    "Verified",
+    "Pregnancy status · unknown",
+    "Children status · unknown"
+   ],
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Tantra_(film)"
+    },
+    {
+     "name": "Gulte",
+     "url": "https://www.gulte.com/moviereviews/283939/tantra-movie-review"
+    }
+   ],
+   "provenance": "Added as a distinct 2024 Telugu film in the 9 Oct 2026 Indian female-hypnosis platform sweep."
+  },
+  {
+   "cat": 33,
+   "title": "Dangerous Ishhq",
+   "year": "2012",
+   "meta": "Feature film · India · Hindi",
+   "subgroup": "Past-life regression",
+   "summary": "Sanjana undergoes past-life regression hypnosis while investigating her fiancé’s kidnapping.",
+   "note": "Pregnancy / children update: Sanjana is not pregnant during the film. She and Rohan discuss a future of marriage and children, but no pregnancy occurs and she has no children by the end.",
+   "tags": [
+    "Other female hypnosis / mind control",
+    "Pregnancy during arc · no",
+    "Pregnant at end · no",
+    "Children before and by end · none"
+   ],
+   "sources": [
+    {
+     "name": "Koimoi review"
+    },
+    {
+     "name": "BollywoodLife"
+    }
+   ],
+   "provenance": "Pregnancy and children detail folded in from the 9 Oct 2026 Indian platform sweep."
+  },
+  {
+   "cat": 20,
+   "title": "Pishachini",
+   "year": "2022",
+   "meta": "TV serial · India · Hindi · Colors TV",
+   "subgroup": "Borderline trance beat",
+   "summary": "In the 19 October 2022 episode, Rani draws Nikita into a trap or trance while manipulating her; Rani also enchants Sanchit, a male character, into marriage.",
+   "note": "Borderline female mind-control beat retained as an enrichment rather than a new record. Pregnancy and children statuses are not stated in the reviewed source.",
+   "character": "Nikita",
+   "mechanism": "Supernatural trap / trance",
+   "controller": "Rani",
+   "motive": "Manipulation; fuller motive not established in the reviewed source",
+   "tags": [
+    "Female hypnosis / mind control — India",
+    "Borderline",
+    "Pregnancy status · unknown",
+    "Children status · unknown"
+   ],
+   "sources": [
+    {
+     "name": "JustShowBiz",
+     "url": "https://www.justshowbiz.net/pishachini-19th-october-2022-written-update/"
+    }
+   ],
+   "provenance": "Episode-level trance detail folded in from the 9 Oct 2026 Indian platform sweep."
+  },
+  {
+   "cat": 33,
+   "title": "Maari",
+   "year": "2022–25",
+   "meta": "TV serial · India · Tamil · Zee Tamil / ZEE5",
+   "subgroup": "Hypnotic criminal commands",
+   "summary": "In an April 2023 arc, Jasmin uses a Namboothiri tantrik to hypnotise Durga after Sreeja removes Durga’s protective dhaga. Durga obeys commands to take Surya to the tantrik’s house, steal the Amman statue, throw it into a well and then jump in herself; Maari stops her and seeks Karuppuswamy’s help to break the hypnosis.",
+   "note": "Pregnancy and children statuses are unknown; the reviewed sources do not say.",
+   "character": "Durga",
+   "mechanism": "Tantrik-assisted hypnosis after removal of a protective thread",
+   "controller": "Jasmin with a Namboothiri tantrik",
+   "motive": "Compel Durga to steal and destroy the Amman statue, then endanger herself",
+   "tags": [
+    "Other female hypnosis / mind control",
+    "Pregnancy status · unknown",
+    "Children status · unknown"
+   ],
+   "sources": [
+    {
+     "name": "TellyExpress · 3 episode reports"
+    },
+    {
+     "name": "JustShowBiz · 3 episode reports"
+    }
+   ],
+   "provenance": "Episode-level detail folded in from the 9 Oct 2026 Indian platform sweep."
+  },
+  {
+   "cat": 6,
+   "title": "Shaitaan",
+   "year": "2024",
+   "meta": "Feature film · India · Hindi",
+   "subgroup": "Tantric obedience and mass ritual",
+   "summary": "Tantric Vanraj hypnotises teenager Janhvi after feeding her a sweet at a dhaba, then uses her as a puppet and weapon against her family. His ritual involves dozens of hypnotised girls and is intended to grant him the power to hypnotise without external aid; Kabir breaks the control by cutting off Vanraj’s tongue.",
+   "note": "Pregnancy: no—Janhvi is a child / teen. She has no children; Dhruv Rishi is her younger brother.",
+   "character": "Janhvi and dozens of other girls",
+   "mechanism": "Sweet-triggered tantric hypnosis",
+   "controller": "Vanraj",
+   "motive": "Mass ritual and unrestricted hypnotic power",
+   "tags": [
+    "Forcibly hypnotized to obey",
+    "Villain / tantrik control — India",
+    "Tantrik / black-magic control",
+    "Pregnancy · no",
+    "Children · none"
+   ],
+   "sources": [
+    {
+     "name": "OTTplay feature"
+    }
+   ],
+   "provenance": "Beat, motive and family-status detail folded in from the 9 Oct 2026 Indian platform sweep."
+  },
+  {
+   "cat": 21,
+   "title": "Vash",
+   "year": "2023",
+   "meta": "Feature film · India · Gujarati",
+   "subgroup": "Vashikaran control",
+   "appendNote": "Sequel enrichment: twelve years later in Vash Level 2, Aarya remains psychologically trapped or withdrawn under Pratap’s lingering vashikaran. Pregnancy is not indicated; she is a daughter, not a mother, and has no children.",
+   "tags": [
+    "Villain / tantrik control — India",
+    "Tantrik / black-magic control",
+    "Pregnancy status · not indicated",
+    "Children · none"
+   ],
+   "sources": [
+    {
+     "name": "Vash Level 2 plot coverage"
+    }
+   ],
+   "provenance": "Sequel and family-status detail folded in from the 9 Oct 2026 Indian platform sweep."
+  },
+  {
+   "cat": 21,
+   "title": "Vash Level 2",
+   "year": "2025",
+   "meta": "Feature film · India · Gujarati / Hindi",
+   "subgroup": "Mass vashikaran",
+   "summary": "Twelve years later, Aarya remains psychologically trapped or withdrawn under Pratap’s lingering vashikaran. Rajnath orchestrates mass hypnosis of schoolgirls—ten leap from a school terrace while others attack strangers, vandalise and burn vehicles—to locate Pratap and learn the ultimate spell; Atharva frees Aarya by repaying a Rs 10 karmic debt, then cuts off Rajnath’s tongue.",
+   "note": "Rajnath’s stated aim includes establishing male power over women. Pregnancy is not indicated; Aarya is the daughter, not a mother, and has no children.",
+   "character": "Aarya and groups of schoolgirls",
+   "mechanism": "Lingering and mass vashikaran",
+   "controller": "Pratap’s lingering control; Rajnath’s mass hypnosis",
+   "motive": "Spread chaos, find Pratap and obtain the ultimate spell",
+   "tags": [
+    "Villain / tantrik control — India",
+    "Tantrik / black-magic control",
+    "Pregnancy status · not indicated",
+    "Children · none"
+   ],
+   "sources": [
+    {
+     "name": "Vash Level 2 plot coverage"
+    }
+   ],
+   "provenance": "Sequel detail folded in from the 9 Oct 2026 Indian platform sweep."
+  },
+  {
+   "cat": 26,
+   "title": "Veerana",
+   "year": "1988",
+   "meta": "Feature film · India · Hindi",
+   "subgroup": "Literal hypnosis paired with possession",
+   "summary": "A tantric Baba explicitly hypnotises young Jasmin, cuts a lock of her hair and places it in witch Nakita’s sarcophagus. Jasmin then walks under hypnosis to the shrine, where Nakita’s spirit enters her body.",
+   "note": "Rare literal-hypnosis beat paired with possession. Pregnancy: no—Jasmin is a child. She has no children.",
+   "character": "Young Jasmin",
+   "mechanism": "Literal hypnosis followed by spirit possession",
+   "controller": "Tantric Baba; Nakita’s spirit",
+   "motive": "Prepare Jasmin as the vessel for Nakita",
+   "tags": [
+    "Tantrik / black-magic control",
+    "Pregnancy · no",
+    "Children · none"
+   ],
+   "sources": [
+    {
+     "name": "Veerana plot coverage"
+    }
+   ],
+   "provenance": "Literal-hypnosis and family-status detail folded in from the 9 Oct 2026 Indian platform sweep."
+  },
+  {
+   "cat": 21,
+   "title": "Phoonk",
+   "year": "2008",
+   "meta": "Feature film · India · Hindi",
+   "subgroup": "Externally imposed black-magic control",
+   "summary": "After being humiliated and fired by Rajiv, Madhu puts his young daughter Raksha under a black-magic spell: Raksha levitates, speaks in a manly voice and behaves as if possessed. In Phoonk 2, Madhu’s spirit possesses Rajiv’s wife Aarti.",
+   "note": "Pregnancy: no—Raksha is a child. She has no children; Rohan is her younger brother.",
+   "character": "Raksha; Aarti in the sequel",
+   "mechanism": "Kaala jadu / externally imposed magical control; sequel possession",
+   "controller": "Madhu",
+   "motive": "Revenge against Rajiv",
+   "tags": [
+    "Villain / tantrik control — India",
+    "Pregnancy · no",
+    "Children · none"
+   ],
+   "sources": [
+    {
+     "name": "Phoonk and Phoonk 2 plot coverage"
+    }
+   ],
+   "provenance": "Beat and family-status detail folded in from the 9 Oct 2026 Indian platform sweep."
+  },
+  {
+   "cat": 6,
+   "title": "Savdhaan India — S42E17 “A hypnotist misuses his skills”",
+   "year": "2014",
+   "meta": "TV crime-docudrama episode · India · Hindi",
+   "subgroup": "Villain / stranger / criminal",
+   "summary": "Pratik hypnotizes women he is romantically involved with and drives them toward suicide. Priya is burned alive amid strange visions; Neha suffers the same dreamlike visions but escapes; more women are affected in the following months.",
+   "note": "Docudrama flag: dramatized real-crime reenactment, not fiction; included because the targeted search specifically covered Savdhaan India. Pregnancy and children status are unknown because the reviewed sources are silent.",
+   "character": "Priya, Neha and other women",
+   "mechanism": "Literal hypnosis and induced dreamlike visions",
+   "controller": "Pratik",
+   "motive": "Lethal control of women he is romantically involved with",
+   "tags": [
+    "Forcibly hypnotized to obey",
+    "Female hypnosis / mind control — India",
+    "Literal hypnosis",
+    "Docudrama · dramatized real-crime reenactment",
+    "Pregnancy status · unknown",
+    "Children status · unknown",
+    "Verified"
+   ],
+   "sources": [
+    {
+     "name": "JioCinema official episode synopsis"
+    },
+    {
+     "name": "IndiaForums episode discussion"
+    }
+   ],
+   "provenance": "Aired 25 April 2014; verified in the 9 Oct 2026 targeted Savdhaan India / Shantham Papam sweep."
   }
  ],
- "page_records": 803,
+ "page_records": 817,
  "title": "TV and Movie Research Catalog",
  "kicker": "Screen story-pattern index",
- "heading": "979 catalog records, sorted by the plot turn that matters.",
+ "heading": "993 catalog records, sorted by the plot turn that matters.",
  "lede": "A worldwide research snapshot spanning films, serials, television movies, series, soap operas, independent shorts and vertical microdramas.",
- "results": "803 unique named titles shown · 979 records in source snapshot",
- "cards": 803
+ "results": "817 unique named titles shown · 993 records in source snapshot",
+ "cards": 817
 }
