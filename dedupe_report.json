@@ -2213,6 +2213,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "kids-pregnant-again:73",
+     "title": "Home and Away",
+     "subtitle": "Pippa & Michael Ross",
+     "year": "1991–92",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -19342,6 +19349,46 @@
    ]
   },
   {
+   "kept_id": 897,
+   "kept": "All My Children (1988–1989)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:907",
+     "title": "All My Children",
+     "subtitle": "Dixie Cooney / Adam Chandler arc",
+     "year": "1988–1989"
+    },
+    {
+     "rid": "agegap-marriage:17",
+     "title": "All My Children",
+     "subtitle": "Dixie Cooney / Adam Chandler arc",
+     "year": "1988–1989",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 898,
+   "kept": "All My Children (2008)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:908",
+     "title": "All My Children",
+     "subtitle": "Bianca Montgomery and Reese Williams · Gabrielle",
+     "year": "2008"
+    },
+    {
+     "rid": "lesbian-pregnancy:22",
+     "title": "All My Children",
+     "subtitle": "Bianca Montgomery and Reese Williams · Gabrielle",
+     "year": "2008",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 899,
    "kept": "All That (1994–2005)",
    "scope": "cross-source",
@@ -19471,6 +19518,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "lesbian-pregnancy:29",
+     "title": "Amar en tiempos revueltos",
+     "subtitle": "Teresa and Ana (season 5)",
+     "year": "2010",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -19936,6 +19990,26 @@
    ]
   },
   {
+   "kept_id": 927,
+   "kept": "Athmasakhi (2016–2018)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:938",
+     "title": "Athmasakhi",
+     "subtitle": "",
+     "year": "2016–2018"
+    },
+    {
+     "rid": "kids-pregnant-again:61",
+     "title": "Athmasakhi",
+     "subtitle": "",
+     "year": "2016–2018",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 928,
    "kept": "Attack of The Robots (None)",
    "scope": "cross-source",
@@ -20116,6 +20190,26 @@
    ]
   },
   {
+   "kept_id": 937,
+   "kept": "The Avengers — \"Love All\" (1969)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:948",
+     "title": "The Avengers — \"Love All\"",
+     "subtitle": "“Love All” · S06E21",
+     "year": "1969"
+    },
+    {
+     "rid": "hypnotized-love:20",
+     "title": "The Avengers — \"Love All\"",
+     "subtitle": "“Love All” · S06E21",
+     "year": "1969",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 938,
    "kept": "Avocado Toast (2020–)",
    "scope": "cross-source",
@@ -20172,6 +20266,26 @@
      "subtitle": "",
      "year": "2015",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 941,
+   "kept": "Aşk-ı Memnu (2008–2010)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:952",
+     "title": "Aşk-ı Memnu",
+     "subtitle": "Forbidden Love · Bihter / Adnan arc",
+     "year": "2008–2010"
+    },
+    {
+     "rid": "agegap-marriage:3",
+     "title": "Aşk-ı Memnu",
+     "subtitle": "Forbidden Love · Bihter / Adnan arc",
+     "year": "2008–2010",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -20777,6 +20891,26 @@
    ]
   },
   {
+   "kept_id": 971,
+   "kept": "Bewitched (1969)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:982",
+     "title": "Bewitched",
+     "subtitle": "Season 5–6",
+     "year": "1969"
+    },
+    {
+     "rid": "kids-pregnant-again:45",
+     "title": "Bewitched",
+     "subtitle": "Season 5–6",
+     "year": "1969",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 972,
    "kept": "Beyond (2012)",
    "scope": "cross-source",
@@ -20867,6 +21001,26 @@
      "subtitle": "",
      "year": "2022",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 976,
+   "kept": "Bihter (2023)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:987",
+     "title": "Bihter",
+     "subtitle": "",
+     "year": "2023"
+    },
+    {
+     "rid": "agegap-marriage:16",
+     "title": "Bihter",
+     "subtitle": "",
+     "year": "2023",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -21358,6 +21512,26 @@
    ]
   },
   {
+   "kept_id": 1001,
+   "kept": "The Bold and the Beautiful (1987–)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1012",
+     "title": "The Bold and the Beautiful",
+     "subtitle": "Brooke Logan / Eric Forrester age-gap arc (series from 1987; distinct from the catalogued 1998 stepmom-pregnancy record)",
+     "year": "1987–"
+    },
+    {
+     "rid": "agegap-marriage:9",
+     "title": "The Bold and the Beautiful",
+     "subtitle": "Brooke / Eric Forrester arc",
+     "year": "1987–",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1002,
    "kept": "Bots Master (1993)",
    "scope": "cross-source",
@@ -21666,6 +21840,26 @@
    ]
   },
   {
+   "kept_id": 1016,
+   "kept": "Brotherhood (2008)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1027",
+     "title": "Brotherhood",
+     "subtitle": "Season 3",
+     "year": "2008"
+    },
+    {
+     "rid": "kids-pregnant-again:66",
+     "title": "Brotherhood",
+     "subtitle": "Season 3",
+     "year": "2008",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1017,
    "kept": "Buck Rogers in the 25th Century (1979–1981)",
    "scope": "cross-source",
@@ -21913,6 +22107,26 @@
    ]
   },
   {
+   "kept_id": 1029,
+   "kept": "The Case for Christ (2017)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1040",
+     "title": "The Case for Christ",
+     "subtitle": "",
+     "year": "2017"
+    },
+    {
+     "rid": "kids-pregnant-again:26",
+     "title": "The Case for Christ",
+     "subtitle": "",
+     "year": "2017",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1030,
    "kept": "Casper's Scare School (2009)",
    "scope": "cross-source",
@@ -22076,6 +22290,26 @@
      "subtitle": "",
      "year": "1941",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1038,
+   "kept": "Charmed (2006)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1049",
+     "title": "Charmed",
+     "subtitle": "\"Forever Charmed\"",
+     "year": "2006"
+    },
+    {
+     "rid": "kids-pregnant-again:52",
+     "title": "Charmed",
+     "subtitle": "\"Forever Charmed\"",
+     "year": "2006",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -22606,6 +22840,46 @@
      "subtitle": "",
      "year": "2012–2015",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1063,
+   "kept": "Coronation Street (1994)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1074",
+     "title": "Coronation Street",
+     "subtitle": "Sally & Kevin Webster",
+     "year": "1994"
+    },
+    {
+     "rid": "kids-pregnant-again:71",
+     "title": "Coronation Street",
+     "subtitle": "Sally & Kevin Webster",
+     "year": "1994",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1064,
+   "kept": "Coronation Street (1999–2001)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1075",
+     "title": "Coronation Street",
+     "subtitle": "Linda Sykes / Mike Baldwin arc",
+     "year": "1999–2001"
+    },
+    {
+     "rid": "agegap-marriage:12",
+     "title": "Coronation Street",
+     "subtitle": "Linda Sykes / Mike Baldwin arc",
+     "year": "1999–2001",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -23518,6 +23792,26 @@
    ]
   },
   {
+   "kept_id": 1111,
+   "kept": "Days of Our Lives (2006–07)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1122",
+     "title": "Days of Our Lives",
+     "subtitle": "Bo & Hope",
+     "year": "2006–07"
+    },
+    {
+     "rid": "kids-pregnant-again:76",
+     "title": "Days of Our Lives",
+     "subtitle": "Bo & Hope",
+     "year": "2006–07",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1112,
    "kept": "De Mesmer con amor (2002)",
    "scope": "cross-source",
@@ -23714,6 +24008,26 @@
    ]
   },
   {
+   "kept_id": 1120,
+   "kept": "Denshi Sentai Denziman (1980)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1131",
+     "title": "Denshi Sentai Denziman",
+     "subtitle": "ep. 28",
+     "year": "1980"
+    },
+    {
+     "rid": "hypnotized-love:29",
+     "title": "Denshi Sentai Denziman",
+     "subtitle": "ep. 28",
+     "year": "1980",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1121,
    "kept": "Department S (1969–1970)",
    "scope": "cross-source",
@@ -23730,6 +24044,26 @@
      "subtitle": "",
      "year": "1969–1970",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1122,
+   "kept": "Desperate Housewives (2007–08)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1133",
+     "title": "Desperate Housewives",
+     "subtitle": "Season 4 · Susan / Mike · M.J. pregnancy",
+     "year": "2007–08"
+    },
+    {
+     "rid": "mom-pregnancy:4",
+     "title": "Desperate Housewives",
+     "subtitle": "Season 4 · Susan / Mike · M.J. pregnancy",
+     "year": "2007–08",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -23973,6 +24307,40 @@
      "subtitle": "",
      "year": "",
      "matched_by": "alias"
+    },
+    {
+     "rid": "worldwide-hypnosis:256",
+     "title": "Diagnosis: Murder",
+     "subtitle": "",
+     "year": "1993–2001",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1132,
+   "kept": "Diagnosis: Murder (1997)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1143",
+     "title": "Diagnosis: Murder",
+     "subtitle": "S04E19 · “Delusions of Murder”",
+     "year": "1997"
+    },
+    {
+     "rid": "older-man-hypnosis:10",
+     "title": "Diagnosis: Murder",
+     "subtitle": "S04E19 · “Delusions of Murder”",
+     "year": "1997",
+     "matched_by": "same title+year"
+    },
+    {
+     "rid": "hypnosis-assault:12",
+     "title": "Diagnosis: Murder",
+     "subtitle": "S04E19 · “Delusions of Murder”",
+     "year": "1997",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -24080,6 +24448,26 @@
      "subtitle": "",
      "year": "1999–2000",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1138,
+   "kept": "Dil Sambhal Jaa Zara (2017–2018)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1149",
+     "title": "Dil Sambhal Jaa Zara",
+     "subtitle": "Ahana / Anant arc",
+     "year": "2017–2018"
+    },
+    {
+     "rid": "agegap-marriage:5",
+     "title": "Dil Sambhal Jaa Zara",
+     "subtitle": "Ahana / Anant arc",
+     "year": "2017–2018",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -24382,6 +24770,26 @@
      "subtitle": "",
      "year": "1990",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1152,
+   "kept": "Dracula (1931 Spanish Version) (1931)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1163",
+     "title": "Dracula (1931 Spanish Version)",
+     "subtitle": "",
+     "year": "1931"
+    },
+    {
+     "rid": "worldwide-hypnosis:287",
+     "title": "Dracula (1931 Spanish Version)",
+     "subtitle": "",
+     "year": "1931",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -24773,6 +25181,26 @@
    ]
   },
   {
+   "kept_id": 1172,
+   "kept": "Dragon: The Bruce Lee Story (1993)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1183",
+     "title": "Dragon: The Bruce Lee Story",
+     "subtitle": "",
+     "year": "1993"
+    },
+    {
+     "rid": "kids-pregnant-again:23",
+     "title": "Dragon: The Bruce Lee Story",
+     "subtitle": "",
+     "year": "1993",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1173,
    "kept": "Drawn Together (2004)",
    "scope": "cross-source",
@@ -24984,11 +25412,98 @@
      "year": "1981–1989"
     },
     {
+     "rid": "agegap-marriage:7",
+     "title": "Dynasty",
+     "subtitle": "Krystle / Blake Carrington arc",
+     "year": "1981–1989",
+     "matched_by": "same title+year"
+    },
+    {
      "rid": "kids-pregnant-again:16",
      "title": "Dynasty",
      "subtitle": "",
      "year": "1981–1989",
      "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1184,
+   "kept": "Dynasty (2017–2022)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1195",
+     "title": "Dynasty",
+     "subtitle": "Season 2 · Cristal / Blake arc",
+     "year": "2017–2022"
+    },
+    {
+     "rid": "agegap-marriage:8",
+     "title": "Dynasty",
+     "subtitle": "Season 2 · Cristal / Blake arc",
+     "year": "2017–2022",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1185,
+   "kept": "EastEnders (1985)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1196",
+     "title": "EastEnders",
+     "subtitle": "Pauline & Arthur Fowler",
+     "year": "1985"
+    },
+    {
+     "rid": "kids-pregnant-again:68",
+     "title": "EastEnders",
+     "subtitle": "Pauline & Arthur Fowler",
+     "year": "1985",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1186,
+   "kept": "EastEnders (2007)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1197",
+     "title": "EastEnders",
+     "subtitle": "Honey & Billy Mitchell",
+     "year": "2007"
+    },
+    {
+     "rid": "kids-pregnant-again:69",
+     "title": "EastEnders",
+     "subtitle": "Honey & Billy Mitchell",
+     "year": "2007",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1187,
+   "kept": "EastEnders (2010)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1198",
+     "title": "EastEnders",
+     "subtitle": "Kat & Alfie Moon",
+     "year": "2010"
+    },
+    {
+     "rid": "kids-pregnant-again:70",
+     "title": "EastEnders",
+     "subtitle": "Kat & Alfie Moon",
+     "year": "2010",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -25221,6 +25736,46 @@
    ]
   },
   {
+   "kept_id": 1198,
+   "kept": "Emmerdale (1989–1999)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1209",
+     "title": "Emmerdale",
+     "subtitle": "Kim / Frank Tate arc",
+     "year": "1989–1999"
+    },
+    {
+     "rid": "agegap-marriage:11",
+     "title": "Emmerdale",
+     "subtitle": "Kim / Frank Tate arc",
+     "year": "1989–1999",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1199,
+   "kept": "Emmerdale (2018–19)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1210",
+     "title": "Emmerdale",
+     "subtitle": "Chas & Paddy",
+     "year": "2018–19"
+    },
+    {
+     "rid": "kids-pregnant-again:72",
+     "title": "Emmerdale",
+     "subtitle": "Chas & Paddy",
+     "year": "2018–19",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1200,
    "kept": "Endless Traps (2018)",
    "scope": "cross-source",
@@ -25277,6 +25832,26 @@
      "subtitle": "",
      "year": "2019",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1204,
+   "kept": "ER (2003–2004)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1215",
+     "title": "ER",
+     "subtitle": "Kerry Weaver and Sandy Lopez arc",
+     "year": "2003–2004"
+    },
+    {
+     "rid": "lesbian-pregnancy:3",
+     "title": "ER",
+     "subtitle": "Kerry Weaver and Sandy Lopez arc",
+     "year": "2003–2004",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -25582,6 +26157,26 @@
    ]
   },
   {
+   "kept_id": 1219,
+   "kept": "Falling Skies (2015)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1230",
+     "title": "Falling Skies",
+     "subtitle": "Season 5 finale",
+     "year": "2015"
+    },
+    {
+     "rid": "kids-pregnant-again:65",
+     "title": "Falling Skies",
+     "subtitle": "Season 5 finale",
+     "year": "2015",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1220,
    "kept": "Family Ties (1984–85)",
    "scope": "cross-source",
@@ -25729,6 +26324,26 @@
    ]
   },
   {
+   "kept_id": 1227,
+   "kept": "Fifty Shades Freed (2018)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1238",
+     "title": "Fifty Shades Freed",
+     "subtitle": "",
+     "year": "2018"
+    },
+    {
+     "rid": "kids-pregnant-again:19",
+     "title": "Fifty Shades Freed",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1228,
    "kept": "Final Frequency (2021)",
    "scope": "cross-source",
@@ -25785,6 +26400,26 @@
      "subtitle": "",
      "year": "1986",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1231,
+   "kept": "The Five-Year Engagement (2012)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1242",
+     "title": "The Five-Year Engagement",
+     "subtitle": "",
+     "year": "2012"
+    },
+    {
+     "rid": "kids-pregnant-again:18",
+     "title": "The Five-Year Engagement",
+     "subtitle": "",
+     "year": "2012",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -26078,6 +26713,26 @@
    ]
   },
   {
+   "kept_id": 1244,
+   "kept": "Friday Night Lights (2010–11)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1255",
+     "title": "Friday Night Lights",
+     "subtitle": "Season 5 — Billy & Mindy",
+     "year": "2010–11"
+    },
+    {
+     "rid": "kids-pregnant-again:47",
+     "title": "Friday Night Lights",
+     "subtitle": "Season 5 — Billy & Mindy",
+     "year": "2010–11",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1245,
    "kept": "Fried Green Tomatoes (1991)",
    "scope": "cross-source",
@@ -26094,6 +26749,26 @@
      "subtitle": "",
      "year": "1991",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1246,
+   "kept": "Friends (1994–1995)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1257",
+     "title": "Friends",
+     "subtitle": "Carol Willick and Susan Bunch pregnancy arc",
+     "year": "1994–1995"
+    },
+    {
+     "rid": "lesbian-pregnancy:6",
+     "title": "Friends",
+     "subtitle": "Carol Willick and Susan Bunch pregnancy arc",
+     "year": "1994–1995",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -26272,6 +26947,26 @@
    ]
   },
   {
+   "kept_id": 1255,
+   "kept": "Furious 7 (2015)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1266",
+     "title": "Furious 7",
+     "subtitle": "",
+     "year": "2015"
+    },
+    {
+     "rid": "kids-pregnant-again:20",
+     "title": "Furious 7",
+     "subtitle": "",
+     "year": "2015",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1256,
    "kept": "Fury of the Wolfman (1970)",
    "scope": "cross-source",
@@ -26412,6 +27107,26 @@
    ]
   },
   {
+   "kept_id": 1263,
+   "kept": "Gangs of Wasseypur – Part 1 (2012)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1274",
+     "title": "Gangs of Wasseypur – Part 1",
+     "subtitle": "",
+     "year": "2012"
+    },
+    {
+     "rid": "kids-pregnant-again:34",
+     "title": "Gangs of Wasseypur – Part 1",
+     "subtitle": "",
+     "year": "2012",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1264,
    "kept": "Gap Dong (2014)",
    "scope": "cross-source",
@@ -26535,6 +27250,46 @@
      "subtitle": "",
      "year": "1963–present",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1270,
+   "kept": "General Hospital (1994–95)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1281",
+     "title": "General Hospital",
+     "subtitle": "Frisco & Felicia",
+     "year": "1994–95"
+    },
+    {
+     "rid": "kids-pregnant-again:74",
+     "title": "General Hospital",
+     "subtitle": "Frisco & Felicia",
+     "year": "1994–95",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1271,
+   "kept": "General Hospital (2009)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1282",
+     "title": "General Hospital",
+     "subtitle": "Carly & Jax",
+     "year": "2009"
+    },
+    {
+     "rid": "kids-pregnant-again:75",
+     "title": "General Hospital",
+     "subtitle": "Carly & Jax",
+     "year": "2009",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -26749,6 +27504,26 @@
      "subtitle": "",
      "year": "2000",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1282,
+   "kept": "Gilmore Girls (2004–05)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1293",
+     "title": "Gilmore Girls",
+     "subtitle": "Season 5",
+     "year": "2004–05"
+    },
+    {
+     "rid": "kids-pregnant-again:48",
+     "title": "Gilmore Girls",
+     "subtitle": "Season 5",
+     "year": "2004–05",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -27020,6 +27795,26 @@
    ]
   },
   {
+   "kept_id": 1296,
+   "kept": "Grey's Anatomy (2011–2014)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1307",
+     "title": "Grey's Anatomy",
+     "subtitle": "Callie Torres and Arizona Robbins arc",
+     "year": "2011–2014"
+    },
+    {
+     "rid": "lesbian-pregnancy:4",
+     "title": "Grey's Anatomy",
+     "subtitle": "Callie Torres and Arizona Robbins arc",
+     "year": "2011–2014",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1297,
    "kept": "Growing Pains (1988)",
    "scope": "cross-source",
@@ -27103,6 +27898,46 @@
      "subtitle": "",
      "year": "1971",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1301,
+   "kept": "Guiding Light (1984–1985)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1312",
+     "title": "Guiding Light",
+     "subtitle": "Reva Shayne / H.B. Lewis arc",
+     "year": "1984–1985"
+    },
+    {
+     "rid": "agegap-marriage:18",
+     "title": "Guiding Light",
+     "subtitle": "Reva Shayne / H.B. Lewis arc",
+     "year": "1984–1985",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1302,
+   "kept": "Guiding Light (2008–2009)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1313",
+     "title": "Guiding Light",
+     "subtitle": "Olivia Spencer and Natalia Rivera (“Otalia”)",
+     "year": "2008–2009"
+    },
+    {
+     "rid": "lesbian-pregnancy:21",
+     "title": "Guiding Light",
+     "subtitle": "Olivia Spencer and Natalia Rivera (“Otalia”)",
+     "year": "2008–2009",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -27756,6 +28591,26 @@
    ]
   },
   {
+   "kept_id": 1333,
+   "kept": "Hollyoaks (2015)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1344",
+     "title": "Hollyoaks",
+     "subtitle": "Esther Bloom and Kim Butterfield surrogacy arc",
+     "year": "2015"
+    },
+    {
+     "rid": "lesbian-pregnancy:13",
+     "title": "Hollyoaks",
+     "subtitle": "Esther Bloom and Kim Butterfield surrogacy arc",
+     "year": "2015",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1334,
    "kept": "Home on the Range (2004)",
    "scope": "cross-source",
@@ -27832,6 +28687,26 @@
      "subtitle": "",
      "year": "1973",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1338,
+   "kept": "Hospital Central (2006)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1350",
+     "title": "Hospital Central",
+     "subtitle": "Maca and Esther (Telecinco)",
+     "year": "2006"
+    },
+    {
+     "rid": "lesbian-pregnancy:12",
+     "title": "Hospital Central",
+     "subtitle": "Maca and Esther (Telecinco)",
+     "year": "2006",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -27973,6 +28848,26 @@
      "subtitle": "",
      "year": "1971",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1345,
+   "kept": "The Hunger (1997)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1357",
+     "title": "The Hunger",
+     "subtitle": "“Judith / Herman Sloan” episode (series 1997–2000; distinct from the catalogued S02E02 “Skin Deep”)",
+     "year": "1997"
+    },
+    {
+     "rid": "hypnosis-assault:29",
+     "title": "The Hunger",
+     "subtitle": "S1E12 · “The Sloan Men”",
+     "year": "1997",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -28253,6 +29148,26 @@
      "subtitle": "",
      "year": "1917",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1360,
+   "kept": "In Good Company (2004)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1372",
+     "title": "In Good Company",
+     "subtitle": "",
+     "year": "2004"
+    },
+    {
+     "rid": "kids-pregnant-again:36",
+     "title": "In Good Company",
+     "subtitle": "",
+     "year": "2004",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -28612,6 +29527,26 @@
    ]
   },
   {
+   "kept_id": 1377,
+   "kept": "Ip Man 2 (2010)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1389",
+     "title": "Ip Man 2",
+     "subtitle": "",
+     "year": "2010"
+    },
+    {
+     "rid": "kids-pregnant-again:21",
+     "title": "Ip Man 2",
+     "subtitle": "",
+     "year": "2010",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1378,
    "kept": "Ira Maya Putri Cinderella (1981)",
    "scope": "cross-source",
@@ -28648,6 +29583,26 @@
      "subtitle": "",
      "year": "1996",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1380,
+   "kept": "The Iron Claw (2023)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1392",
+     "title": "The Iron Claw",
+     "subtitle": "",
+     "year": "2023"
+    },
+    {
+     "rid": "kids-pregnant-again:35",
+     "title": "The Iron Claw",
+     "subtitle": "",
+     "year": "2023",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -28856,6 +29811,46 @@
      "subtitle": "",
      "year": "2007",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1390,
+   "kept": "Jane the Virgin (2016)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1402",
+     "title": "Jane the Virgin",
+     "subtitle": "Xiomara / Esteban pregnancy (S2 finale – S3E2 “Chapter Forty-Six”)",
+     "year": "2016"
+    },
+    {
+     "rid": "mom-pregnancy:7",
+     "title": "Jane the Virgin",
+     "subtitle": "Xiomara / Esteban pregnancy (S2 finale – S3E2 “Chapter Forty-Six”)",
+     "year": "2016",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1391,
+   "kept": "Jhankaar Beats (2003)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1403",
+     "title": "Jhankaar Beats",
+     "subtitle": "",
+     "year": "2003"
+    },
+    {
+     "rid": "kids-pregnant-again:43",
+     "title": "Jhankaar Beats",
+     "subtitle": "",
+     "year": "2003",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -29542,6 +30537,26 @@
    ]
   },
   {
+   "kept_id": 1424,
+   "kept": "Kiralık Aşk (2017)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1436",
+     "title": "Kiralık Aşk",
+     "subtitle": "Finale",
+     "year": "2017"
+    },
+    {
+     "rid": "kids-pregnant-again:56",
+     "title": "Kiralık Aşk",
+     "subtitle": "Finale",
+     "year": "2017",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1425,
    "kept": "Kirokula: Vampir Mugla'da (2011)",
    "scope": "cross-source",
@@ -29850,6 +30865,26 @@
    ]
   },
   {
+   "kept_id": 1438,
+   "kept": "Kuch Rang Pyar Ke Aise Bhi (2016–2021)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1451",
+     "title": "Kuch Rang Pyar Ke Aise Bhi",
+     "subtitle": "",
+     "year": "2016–2021"
+    },
+    {
+     "rid": "kids-pregnant-again:59",
+     "title": "Kuch Rang Pyar Ke Aise Bhi",
+     "subtitle": "",
+     "year": "2016–2021",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1439,
    "kept": "Kudrat (1981)",
    "scope": "cross-source",
@@ -29900,6 +30935,26 @@
      "subtitle": "",
      "year": "1993–1997",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1441,
+   "kept": "Kuruluş: Osman (2021–22)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1454",
+     "title": "Kuruluş: Osman",
+     "subtitle": "Season 3–4",
+     "year": "2021–22"
+    },
+    {
+     "rid": "kids-pregnant-again:57",
+     "title": "Kuruluş: Osman",
+     "subtitle": "Season 3–4",
+     "year": "2021–22",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -30251,6 +31306,26 @@
    ]
   },
   {
+   "kept_id": 1459,
+   "kept": "The Last Man on Earth (2018)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1472",
+     "title": "The Last Man on Earth",
+     "subtitle": "Season 4",
+     "year": "2018"
+    },
+    {
+     "rid": "kids-pregnant-again:51",
+     "title": "The Last Man on Earth",
+     "subtitle": "Season 4",
+     "year": "2018",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1460,
    "kept": "Last Tango in Halifax (2013–2015)",
    "scope": "cross-source",
@@ -30381,6 +31456,26 @@
      "subtitle": "",
      "year": "2016",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1466,
+   "kept": "The Legend of Paul and Paula (1973)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1479",
+     "title": "The Legend of Paul and Paula",
+     "subtitle": "",
+     "year": "1973"
+    },
+    {
+     "rid": "kids-pregnant-again:38",
+     "title": "The Legend of Paul and Paula",
+     "subtitle": "",
+     "year": "1973",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -31013,6 +32108,26 @@
    ]
   },
   {
+   "kept_id": 1497,
+   "kept": "Mad Men (2009–2012)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1510",
+     "title": "Mad Men",
+     "subtitle": "Jane / Roger Sterling arc",
+     "year": "2009–2012"
+    },
+    {
+     "rid": "agegap-marriage:14",
+     "title": "Mad Men",
+     "subtitle": "Jane / Roger Sterling arc",
+     "year": "2009–2012",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1498,
    "kept": "Madame Sin (1972)",
    "scope": "cross-source",
@@ -31150,6 +32265,26 @@
      "subtitle": "",
      "year": "1926",
      "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1504,
+   "kept": "Magpakailanman (2019)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1517",
+     "title": "Magpakailanman",
+     "subtitle": "“Magkapatid, Biktima ng Kulto” (Sisters, Victims of a Cult) · 28 Sep 2019",
+     "year": "2019"
+    },
+    {
+     "rid": "hypnotized-love:25",
+     "title": "Magpakailanman",
+     "subtitle": "“Magkapatid, Biktima ng Kulto” (Sisters, Victims of a Cult) · 28 Sep 2019",
+     "year": "2019",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -31469,6 +32604,46 @@
    ]
   },
   {
+   "kept_id": 1519,
+   "kept": "Marley & Me (2008)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1532",
+     "title": "Marley & Me",
+     "subtitle": "",
+     "year": "2008"
+    },
+    {
+     "rid": "kids-pregnant-again:17",
+     "title": "Marley & Me",
+     "subtitle": "",
+     "year": "2008",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1520,
+   "kept": "Marriage Lines (1966)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1533",
+     "title": "Marriage Lines",
+     "subtitle": "",
+     "year": "1966"
+    },
+    {
+     "rid": "kids-pregnant-again:49",
+     "title": "Marriage Lines",
+     "subtitle": "",
+     "year": "1966",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1521,
    "kept": "María Isabel (1997) (1997)",
    "scope": "cross-source",
@@ -31492,6 +32667,26 @@
      "subtitle": "",
      "year": "1997",
      "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1522,
+   "kept": "María la del Barrio (1995)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1535",
+     "title": "María la del Barrio",
+     "subtitle": "",
+     "year": "1995"
+    },
+    {
+     "rid": "kids-pregnant-again:62",
+     "title": "María la del Barrio",
+     "subtitle": "",
+     "year": "1995",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -32061,6 +33256,13 @@
      "year": "2009–2020"
     },
     {
+     "rid": "agegap-marriage:13",
+     "title": "Modern Family",
+     "subtitle": "Gloria / Jay Pritchett marriage arc",
+     "year": "2009–2020",
+     "matched_by": "same title+year"
+    },
+    {
      "rid": "mom-pregnancy:62",
      "title": "Modern Family",
      "subtitle": "",
@@ -32444,6 +33646,26 @@
    ]
   },
   {
+   "kept_id": 1569,
+   "kept": "My Blue Heaven (1950)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1583",
+     "title": "My Blue Heaven",
+     "subtitle": "",
+     "year": "1950"
+    },
+    {
+     "rid": "kids-pregnant-again:33",
+     "title": "My Blue Heaven",
+     "subtitle": "",
+     "year": "1950",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1570,
    "kept": "My Heart Beats for Lola Volcán (1998)",
    "scope": "cross-source",
@@ -32667,6 +33889,26 @@
      "subtitle": "",
      "year": "1988",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1581,
+   "kept": "Neighbours (2020–2021)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1595",
+     "title": "Neighbours",
+     "subtitle": "Nicolette Stone and Chloe Brennan · surrogacy arc",
+     "year": "2020–2021"
+    },
+    {
+     "rid": "lesbian-pregnancy:14",
+     "title": "Neighbours",
+     "subtitle": "Nicolette Stone and Chloe Brennan · surrogacy arc",
+     "year": "2020–2021",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -33058,6 +34300,26 @@
    ]
   },
   {
+   "kept_id": 1601,
+   "kept": "Nine Months (1995)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1615",
+     "title": "Nine Months",
+     "subtitle": "",
+     "year": "1995"
+    },
+    {
+     "rid": "kids-pregnant-again:37",
+     "title": "Nine Months",
+     "subtitle": "",
+     "year": "1995",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1602,
    "kept": "The Ninth Heart (1979)",
    "scope": "cross-source",
@@ -33386,6 +34648,26 @@
    ]
   },
   {
+   "kept_id": 1617,
+   "kept": "The Office (2011–12)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1631",
+     "title": "The Office",
+     "subtitle": "Season 8",
+     "year": "2011–12"
+    },
+    {
+     "rid": "kids-pregnant-again:46",
+     "title": "The Office",
+     "subtitle": "Season 8",
+     "year": "2011–12",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1618,
    "kept": "Ogres (2015)",
    "scope": "cross-source",
@@ -33526,6 +34808,66 @@
    ]
   },
   {
+   "kept_id": 1625,
+   "kept": "One Life to Live (2011)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1639",
+     "title": "One Life to Live",
+     "subtitle": "Marcie & Michael",
+     "year": "2011"
+    },
+    {
+     "rid": "kids-pregnant-again:77",
+     "title": "One Life to Live",
+     "subtitle": "Marcie & Michael",
+     "year": "2011",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1626,
+   "kept": "One Tree Hill (2010–11)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1640",
+     "title": "One Tree Hill",
+     "subtitle": "Season 8",
+     "year": "2010–11"
+    },
+    {
+     "rid": "kids-pregnant-again:50",
+     "title": "One Tree Hill",
+     "subtitle": "Season 8",
+     "year": "2010–11",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1627,
+   "kept": "Ordet (1955)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1641",
+     "title": "Ordet",
+     "subtitle": "",
+     "year": "1955"
+    },
+    {
+     "rid": "kids-pregnant-again:24",
+     "title": "Ordet",
+     "subtitle": "",
+     "year": "1955",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1628,
    "kept": "Osanago warera ni umare / A Child Is Born (film, 2017) (2017)",
    "scope": "cross-source",
@@ -33549,6 +34891,26 @@
      "subtitle": "",
      "year": "2017",
      "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1629,
+   "kept": "Oshin (1983)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1643",
+     "title": "Oshin",
+     "subtitle": "",
+     "year": "1983"
+    },
+    {
+     "rid": "kids-pregnant-again:58",
+     "title": "Oshin",
+     "subtitle": "",
+     "year": "1983",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -33744,11 +35106,58 @@
      "year": "1989"
     },
     {
+     "rid": "mom-pregnancy:6",
+     "title": "Parenthood",
+     "subtitle": "Karen / Gil and Helen pregnancies",
+     "year": "1989",
+     "matched_by": "same title+year"
+    },
+    {
      "rid": "kids-pregnant-again:1",
      "title": "Parenthood",
      "subtitle": "",
      "year": "1989",
      "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1640,
+   "kept": "Parenthood (2011)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1654",
+     "title": "Parenthood",
+     "subtitle": "Kristina / Adam · Nora pregnancy (Seasons 2–3)",
+     "year": "2011"
+    },
+    {
+     "rid": "mom-pregnancy:5",
+     "title": "Parenthood",
+     "subtitle": "Kristina / Adam · Nora pregnancy (Seasons 2–3)",
+     "year": "2011",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1641,
+   "kept": "Pasión prohibida (2013)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1655",
+     "title": "Pasión prohibida",
+     "subtitle": "Bianca / Ariel arc",
+     "year": "2013"
+    },
+    {
+     "rid": "agegap-marriage:4",
+     "title": "Pasión prohibida",
+     "subtitle": "Bianca / Ariel arc",
+     "year": "2013",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -33769,6 +35178,26 @@
      "subtitle": "",
      "year": "2013",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1643,
+   "kept": "Patriot Games (1992)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1657",
+     "title": "Patriot Games",
+     "subtitle": "",
+     "year": "1992"
+    },
+    {
+     "rid": "kids-pregnant-again:22",
+     "title": "Patriot Games",
+     "subtitle": "",
+     "year": "1992",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -33897,6 +35326,26 @@
      "subtitle": "",
      "year": "1998",
      "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1649,
+   "kept": "Petticoat Junction (1969)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1663",
+     "title": "Petticoat Junction",
+     "subtitle": "",
+     "year": "1969"
+    },
+    {
+     "rid": "kids-pregnant-again:67",
+     "title": "Petticoat Junction",
+     "subtitle": "",
+     "year": "1969",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -34071,6 +35520,13 @@
      "subtitle": "",
      "year": "1963",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "no-link-additions:38",
+     "title": "Please Don't Touch Me",
+     "subtitle": "",
+     "year": "1963",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -34613,6 +36069,66 @@
      "subtitle": "",
      "year": "2010",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1683,
+   "kept": "Queer as Folk (1999)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1697",
+     "title": "Queer as Folk",
+     "subtitle": "UK series · Romey Sullivan and Lisa Levene",
+     "year": "1999"
+    },
+    {
+     "rid": "lesbian-pregnancy:8",
+     "title": "Queer as Folk",
+     "subtitle": "UK series · Romey Sullivan and Lisa Levene",
+     "year": "1999",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1684,
+   "kept": "Queer as Folk (2003–2004)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1698",
+     "title": "Queer as Folk",
+     "subtitle": "US series · Melanie Marcus and Lindsay Peterson second baby",
+     "year": "2003–2004"
+    },
+    {
+     "rid": "lesbian-pregnancy:7",
+     "title": "Queer as Folk",
+     "subtitle": "US series · Melanie Marcus and Lindsay Peterson second baby",
+     "year": "2003–2004",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1685,
+   "kept": "Raise the Red Lantern (1991)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1699",
+     "title": "Raise the Red Lantern",
+     "subtitle": "大红灯笼高高挂",
+     "year": "1991"
+    },
+    {
+     "rid": "agegap-marriage:1",
+     "title": "Raise the Red Lantern",
+     "subtitle": "大红灯笼高高挂",
+     "year": "1991",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -35186,6 +36702,26 @@
    ]
   },
   {
+   "kept_id": 1713,
+   "kept": "The Rose Tattoo (1955)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1727",
+     "title": "The Rose Tattoo",
+     "subtitle": "",
+     "year": "1955"
+    },
+    {
+     "rid": "kids-pregnant-again:25",
+     "title": "The Rose Tattoo",
+     "subtitle": "",
+     "year": "1955",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1714,
    "kept": "Roseanne (1995)",
    "scope": "cross-source",
@@ -35269,6 +36805,66 @@
      "subtitle": "",
      "year": "2019",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1718,
+   "kept": "Ryan's Daughter (1970)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1732",
+     "title": "Ryan's Daughter",
+     "subtitle": "",
+     "year": "1970"
+    },
+    {
+     "rid": "agegap-marriage:2",
+     "title": "Ryan's Daughter",
+     "subtitle": "",
+     "year": "1970",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1719,
+   "kept": "Saath Nibhaana Saathiya (2010–2017)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1733",
+     "title": "Saath Nibhaana Saathiya",
+     "subtitle": "",
+     "year": "2010–2017"
+    },
+    {
+     "rid": "kids-pregnant-again:60",
+     "title": "Saath Nibhaana Saathiya",
+     "subtitle": "",
+     "year": "2010–2017",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1720,
+   "kept": "Sakal, Sakali, Saklolo (2007)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1734",
+     "title": "Sakal, Sakali, Saklolo",
+     "subtitle": "",
+     "year": "2007"
+    },
+    {
+     "rid": "kids-pregnant-again:44",
+     "title": "Sakal, Sakali, Saklolo",
+     "subtitle": "",
+     "year": "2007",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -35560,6 +37156,46 @@
    ]
   },
   {
+   "kept_id": 1735,
+   "kept": "Scenes from a Marriage (1973)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1749",
+     "title": "Scenes from a Marriage",
+     "subtitle": "Scener ur ett äktenskap · Episode 1 “Innocence and Panic”",
+     "year": "1973"
+    },
+    {
+     "rid": "mom-pregnancy:11",
+     "title": "Scenes from a Marriage",
+     "subtitle": "Scener ur ett äktenskap · Episode 1 “Innocence and Panic”",
+     "year": "1973",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1736,
+   "kept": "Scenes from a Marriage (2021)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1750",
+     "title": "Scenes from a Marriage",
+     "subtitle": "HBO miniseries · Episode 1 “Innocence and Panic”",
+     "year": "2021"
+    },
+    {
+     "rid": "mom-pregnancy:12",
+     "title": "Scenes from a Marriage",
+     "subtitle": "HBO miniseries · Episode 1 “Innocence and Panic”",
+     "year": "2021",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1737,
    "kept": "Scooby-Doo! Pirates Ahoy! (2006)",
    "scope": "cross-source",
@@ -35794,6 +37430,26 @@
    ]
   },
   {
+   "kept_id": 1748,
+   "kept": "Shadow Force (2025)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1762",
+     "title": "Shadow Force",
+     "subtitle": "",
+     "year": "2025"
+    },
+    {
+     "rid": "kids-pregnant-again:30",
+     "title": "Shadow Force",
+     "subtitle": "",
+     "year": "2025",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1749,
    "kept": "Shadow Warriors (1980)",
    "scope": "cross-source",
@@ -35877,6 +37533,46 @@
      "subtitle": "",
      "year": "2001",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1753,
+   "kept": "Shameless (2021)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1767",
+     "title": "Shameless",
+     "subtitle": "Season 11",
+     "year": "2021"
+    },
+    {
+     "rid": "kids-pregnant-again:53",
+     "title": "Shameless",
+     "subtitle": "Season 11",
+     "year": "2021",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1754,
+   "kept": "Sharknado 3: Oh Hell No! (2015)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1768",
+     "title": "Sharknado 3: Oh Hell No!",
+     "subtitle": "",
+     "year": "2015"
+    },
+    {
+     "rid": "kids-pregnant-again:31",
+     "title": "Sharknado 3: Oh Hell No!",
+     "subtitle": "",
+     "year": "2015",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -36717,6 +38413,26 @@
    ]
   },
   {
+   "kept_id": 1794,
+   "kept": "Solsidan (2012)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1808",
+     "title": "Solsidan",
+     "subtitle": "Season 3",
+     "year": "2012"
+    },
+    {
+     "rid": "kids-pregnant-again:63",
+     "title": "Solsidan",
+     "subtitle": "Season 3",
+     "year": "2012",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1795,
    "kept": "Son of Dracula (1974)",
    "scope": "cross-source",
@@ -36753,6 +38469,46 @@
      "subtitle": "",
      "year": "2000–2002",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1797,
+   "kept": "Son of the Mask (2005)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1811",
+     "title": "Son of the Mask",
+     "subtitle": "",
+     "year": "2005"
+    },
+    {
+     "rid": "kids-pregnant-again:32",
+     "title": "Son of the Mask",
+     "subtitle": "",
+     "year": "2005",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1798,
+   "kept": "Sons of Anarchy (2010–11)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1812",
+     "title": "Sons of Anarchy",
+     "subtitle": "Season 3–4",
+     "year": "2010–11"
+    },
+    {
+     "rid": "kids-pregnant-again:54",
+     "title": "Sons of Anarchy",
+     "subtitle": "Season 3–4",
+     "year": "2010–11",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -37014,6 +38770,26 @@
      "subtitle": "",
      "year": "1985",
      "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1811,
+   "kept": "Starfish (2016)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1825",
+     "title": "Starfish",
+     "subtitle": "",
+     "year": "2016"
+    },
+    {
+     "rid": "kids-pregnant-again:27",
+     "title": "Starfish",
+     "subtitle": "",
+     "year": "2016",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -38511,6 +40287,26 @@
    ]
   },
   {
+   "kept_id": 1880,
+   "kept": "Tristana (1970)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1894",
+     "title": "Tristana",
+     "subtitle": "",
+     "year": "1970"
+    },
+    {
+     "rid": "agegap-marriage:15",
+     "title": "Tristana",
+     "subtitle": "",
+     "year": "1970",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1881,
    "kept": "True Blood (2008)",
    "scope": "cross-source",
@@ -38561,6 +40357,26 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1883,
+   "kept": "Tully (2018)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1897",
+     "title": "Tully",
+     "subtitle": "",
+     "year": "2018"
+    },
+    {
+     "rid": "kids-pregnant-again:42",
+     "title": "Tully",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -38628,6 +40444,26 @@
      "subtitle": "",
      "year": "1970–1971",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1887,
+   "kept": "Ugly Me (2006)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1901",
+     "title": "Ugly Me",
+     "subtitle": "",
+     "year": "2006"
+    },
+    {
+     "rid": "kids-pregnant-again:28",
+     "title": "Ugly Me",
+     "subtitle": "",
+     "year": "2006",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -38848,6 +40684,26 @@
      "subtitle": "",
      "year": "2011–2016",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1899,
+   "kept": "The Unit (2009)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1913",
+     "title": "The Unit",
+     "subtitle": "Season 4",
+     "year": "2009"
+    },
+    {
+     "rid": "kids-pregnant-again:64",
+     "title": "The Unit",
+     "subtitle": "Season 4",
+     "year": "2009",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -39186,6 +41042,26 @@
    ]
   },
   {
+   "kept_id": 1917,
+   "kept": "Veetla Vishesham (2022)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1931",
+     "title": "Veetla Vishesham",
+     "subtitle": "",
+     "year": "2022"
+    },
+    {
+     "rid": "kids-pregnant-again:40",
+     "title": "Veetla Vishesham",
+     "subtitle": "",
+     "year": "2022",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1918,
    "kept": "Velma (2023–2024)",
    "scope": "cross-source",
@@ -39413,6 +41289,26 @@
    ]
   },
   {
+   "kept_id": 1929,
+   "kept": "The Walking Dead (2011–12)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1943",
+     "title": "The Walking Dead",
+     "subtitle": "Season 2–3",
+     "year": "2011–12"
+    },
+    {
+     "rid": "kids-pregnant-again:55",
+     "title": "The Walking Dead",
+     "subtitle": "Season 2–3",
+     "year": "2011–12",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1930,
    "kept": "Walter Melon (None)",
    "scope": "cross-source",
@@ -39593,6 +41489,26 @@
    ]
   },
   {
+   "kept_id": 1939,
+   "kept": "Weekend in Taipei (2024)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1953",
+     "title": "Weekend in Taipei",
+     "subtitle": "",
+     "year": "2024"
+    },
+    {
+     "rid": "kids-pregnant-again:29",
+     "title": "Weekend in Taipei",
+     "subtitle": "",
+     "year": "2024",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1940,
    "kept": "What Makes a Family (2001)",
    "scope": "cross-source",
@@ -39609,6 +41525,26 @@
      "subtitle": "",
      "year": "2001",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1941,
+   "kept": "What to Expect When You're Expecting (2012)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1955",
+     "title": "What to Expect When You're Expecting",
+     "subtitle": "",
+     "year": "2012"
+    },
+    {
+     "rid": "kids-pregnant-again:41",
+     "title": "What to Expect When You're Expecting",
+     "subtitle": "",
+     "year": "2012",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -39869,6 +41805,26 @@
    ]
   },
   {
+   "kept_id": 1952,
+   "kept": "Yasak Elma (2018–2023)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1966",
+     "title": "Yasak Elma",
+     "subtitle": "Forbidden Fruit · Yıldız / Halit arc",
+     "year": "2018–2023"
+    },
+    {
+     "rid": "agegap-marriage:6",
+     "title": "Yasak Elma",
+     "subtitle": "Forbidden Fruit · Yıldız / Halit arc",
+     "year": "2018–2023",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 1953,
    "kept": "Yeh Hai Chahatein (2019–2024)",
    "scope": "cross-source",
@@ -39892,6 +41848,26 @@
      "subtitle": "",
      "year": "2019–2024",
      "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1954,
+   "kept": "Yesterday, Today and Tomorrow (1963)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1968",
+     "title": "Yesterday, Today and Tomorrow",
+     "subtitle": "",
+     "year": "1963"
+    },
+    {
+     "rid": "kids-pregnant-again:39",
+     "title": "Yesterday, Today and Tomorrow",
+     "subtitle": "",
+     "year": "1963",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -39939,6 +41915,26 @@
      "subtitle": "",
      "year": "1997–1998",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 1957,
+   "kept": "The Young and the Restless (1973–)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1971",
+     "title": "The Young and the Restless",
+     "subtitle": "Jill / Phillip Chancellor II arc",
+     "year": "1973–"
+    },
+    {
+     "rid": "agegap-marriage:10",
+     "title": "The Young and the Restless",
+     "subtitle": "Jill / Phillip Chancellor II arc",
+     "year": "1973–",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -40201,25 +42197,632 @@
      "matched_by": "match_title"
     }
    ]
+  }
+ ],
+ "same_title_year_merges": [
+  {
+   "title": "Diagnosis: Murder",
+   "year": "1993–2001",
+   "kept_id": 1131,
+   "retired_id": 2245
   },
   {
-   "kept_id": 2372,
-   "kept": "Diagnosis: Murder (1997)",
-   "scope": "cross-source",
-   "members": [
-    {
-     "rid": "older-man-hypnosis:10",
-     "title": "Diagnosis: Murder",
-     "subtitle": "S04E19 · “Delusions of Murder”",
-     "year": "1997"
-    },
-    {
-     "rid": "hypnosis-assault:12",
-     "title": "Diagnosis: Murder",
-     "subtitle": "S04E19 · “Delusions of Murder”",
-     "year": "1997"
-    }
-   ]
+   "title": "Dracula (1931 Spanish Version)",
+   "year": "1931",
+   "kept_id": 1152,
+   "retired_id": 2254
+  },
+  {
+   "title": "The Avengers — \"Love All\"",
+   "year": "1969",
+   "kept_id": 937,
+   "retired_id": 2351
+  },
+  {
+   "title": "Magpakailanman",
+   "year": "2019",
+   "kept_id": 1504,
+   "retired_id": 2352
+  },
+  {
+   "title": "Denshi Sentai Denziman",
+   "year": "1980",
+   "kept_id": 1120,
+   "retired_id": 2353
+  },
+  {
+   "title": "Raise the Red Lantern",
+   "year": "1991",
+   "kept_id": 1685,
+   "retired_id": 2354
+  },
+  {
+   "title": "Ryan's Daughter",
+   "year": "1970",
+   "kept_id": 1718,
+   "retired_id": 2355
+  },
+  {
+   "title": "Aşk-ı Memnu",
+   "year": "2008–2010",
+   "kept_id": 941,
+   "retired_id": 2356
+  },
+  {
+   "title": "Pasión prohibida",
+   "year": "2013",
+   "kept_id": 1641,
+   "retired_id": 2357
+  },
+  {
+   "title": "Dil Sambhal Jaa Zara",
+   "year": "2017–2018",
+   "kept_id": 1138,
+   "retired_id": 2358
+  },
+  {
+   "title": "Yasak Elma",
+   "year": "2018–2023",
+   "kept_id": 1952,
+   "retired_id": 2359
+  },
+  {
+   "title": "Dynasty",
+   "year": "1981–1989",
+   "kept_id": 1183,
+   "retired_id": 2360
+  },
+  {
+   "title": "Dynasty",
+   "year": "2017–2022",
+   "kept_id": 1184,
+   "retired_id": 2361
+  },
+  {
+   "title": "The Bold and the Beautiful",
+   "year": "1987–",
+   "kept_id": 1001,
+   "retired_id": 2362
+  },
+  {
+   "title": "The Young and the Restless",
+   "year": "1973–",
+   "kept_id": 1957,
+   "retired_id": 2363
+  },
+  {
+   "title": "Emmerdale",
+   "year": "1989–1999",
+   "kept_id": 1198,
+   "retired_id": 2364
+  },
+  {
+   "title": "Coronation Street",
+   "year": "1999–2001",
+   "kept_id": 1064,
+   "retired_id": 2365
+  },
+  {
+   "title": "Modern Family",
+   "year": "2009–2020",
+   "kept_id": 1550,
+   "retired_id": 2366
+  },
+  {
+   "title": "Mad Men",
+   "year": "2009–2012",
+   "kept_id": 1497,
+   "retired_id": 2367
+  },
+  {
+   "title": "Tristana",
+   "year": "1970",
+   "kept_id": 1880,
+   "retired_id": 2368
+  },
+  {
+   "title": "Bihter",
+   "year": "2023",
+   "kept_id": 976,
+   "retired_id": 2369
+  },
+  {
+   "title": "All My Children",
+   "year": "1988–1989",
+   "kept_id": 897,
+   "retired_id": 2370
+  },
+  {
+   "title": "Guiding Light",
+   "year": "1984–1985",
+   "kept_id": 1301,
+   "retired_id": 2371
+  },
+  {
+   "title": "Diagnosis: Murder",
+   "year": "1997",
+   "kept_id": 1132,
+   "retired_id": 2372
+  },
+  {
+   "title": "The Hunger",
+   "year": "1997",
+   "kept_id": 1345,
+   "retired_id": 2374
+  },
+  {
+   "title": "Desperate Housewives",
+   "year": "2007–08",
+   "kept_id": 1122,
+   "retired_id": 2375
+  },
+  {
+   "title": "Parenthood",
+   "year": "2011",
+   "kept_id": 1640,
+   "retired_id": 2376
+  },
+  {
+   "title": "Parenthood",
+   "year": "1989",
+   "kept_id": 1639,
+   "retired_id": 2377
+  },
+  {
+   "title": "Jane the Virgin",
+   "year": "2016",
+   "kept_id": 1390,
+   "retired_id": 2378
+  },
+  {
+   "title": "Scenes from a Marriage",
+   "year": "1973",
+   "kept_id": 1735,
+   "retired_id": 2379
+  },
+  {
+   "title": "Scenes from a Marriage",
+   "year": "2021",
+   "kept_id": 1736,
+   "retired_id": 2380
+  },
+  {
+   "title": "Marley & Me",
+   "year": "2008",
+   "kept_id": 1519,
+   "retired_id": 2390
+  },
+  {
+   "title": "The Five-Year Engagement",
+   "year": "2012",
+   "kept_id": 1231,
+   "retired_id": 2391
+  },
+  {
+   "title": "Fifty Shades Freed",
+   "year": "2018",
+   "kept_id": 1227,
+   "retired_id": 2392
+  },
+  {
+   "title": "Furious 7",
+   "year": "2015",
+   "kept_id": 1255,
+   "retired_id": 2393
+  },
+  {
+   "title": "Ip Man 2",
+   "year": "2010",
+   "kept_id": 1377,
+   "retired_id": 2394
+  },
+  {
+   "title": "Patriot Games",
+   "year": "1992",
+   "kept_id": 1643,
+   "retired_id": 2395
+  },
+  {
+   "title": "Dragon: The Bruce Lee Story",
+   "year": "1993",
+   "kept_id": 1172,
+   "retired_id": 2396
+  },
+  {
+   "title": "Ordet",
+   "year": "1955",
+   "kept_id": 1627,
+   "retired_id": 2397
+  },
+  {
+   "title": "The Rose Tattoo",
+   "year": "1955",
+   "kept_id": 1713,
+   "retired_id": 2398
+  },
+  {
+   "title": "The Case for Christ",
+   "year": "2017",
+   "kept_id": 1029,
+   "retired_id": 2399
+  },
+  {
+   "title": "Starfish",
+   "year": "2016",
+   "kept_id": 1811,
+   "retired_id": 2400
+  },
+  {
+   "title": "Ugly Me",
+   "year": "2006",
+   "kept_id": 1887,
+   "retired_id": 2401
+  },
+  {
+   "title": "Weekend in Taipei",
+   "year": "2024",
+   "kept_id": 1939,
+   "retired_id": 2402
+  },
+  {
+   "title": "Shadow Force",
+   "year": "2025",
+   "kept_id": 1748,
+   "retired_id": 2403
+  },
+  {
+   "title": "Sharknado 3: Oh Hell No!",
+   "year": "2015",
+   "kept_id": 1754,
+   "retired_id": 2404
+  },
+  {
+   "title": "Son of the Mask",
+   "year": "2005",
+   "kept_id": 1797,
+   "retired_id": 2405
+  },
+  {
+   "title": "My Blue Heaven",
+   "year": "1950",
+   "kept_id": 1569,
+   "retired_id": 2406
+  },
+  {
+   "title": "Gangs of Wasseypur – Part 1",
+   "year": "2012",
+   "kept_id": 1263,
+   "retired_id": 2407
+  },
+  {
+   "title": "The Iron Claw",
+   "year": "2023",
+   "kept_id": 1380,
+   "retired_id": 2408
+  },
+  {
+   "title": "In Good Company",
+   "year": "2004",
+   "kept_id": 1360,
+   "retired_id": 2409
+  },
+  {
+   "title": "Nine Months",
+   "year": "1995",
+   "kept_id": 1601,
+   "retired_id": 2410
+  },
+  {
+   "title": "The Legend of Paul and Paula",
+   "year": "1973",
+   "kept_id": 1466,
+   "retired_id": 2411
+  },
+  {
+   "title": "Yesterday, Today and Tomorrow",
+   "year": "1963",
+   "kept_id": 1954,
+   "retired_id": 2412
+  },
+  {
+   "title": "Veetla Vishesham",
+   "year": "2022",
+   "kept_id": 1917,
+   "retired_id": 2413
+  },
+  {
+   "title": "What to Expect When You're Expecting",
+   "year": "2012",
+   "kept_id": 1941,
+   "retired_id": 2414
+  },
+  {
+   "title": "Tully",
+   "year": "2018",
+   "kept_id": 1883,
+   "retired_id": 2415
+  },
+  {
+   "title": "Jhankaar Beats",
+   "year": "2003",
+   "kept_id": 1391,
+   "retired_id": 2416
+  },
+  {
+   "title": "Sakal, Sakali, Saklolo",
+   "year": "2007",
+   "kept_id": 1720,
+   "retired_id": 2417
+  },
+  {
+   "title": "Bewitched",
+   "year": "1969",
+   "kept_id": 971,
+   "retired_id": 2418
+  },
+  {
+   "title": "The Office",
+   "year": "2011–12",
+   "kept_id": 1617,
+   "retired_id": 2419
+  },
+  {
+   "title": "Friday Night Lights",
+   "year": "2010–11",
+   "kept_id": 1244,
+   "retired_id": 2420
+  },
+  {
+   "title": "Gilmore Girls",
+   "year": "2004–05",
+   "kept_id": 1282,
+   "retired_id": 2421
+  },
+  {
+   "title": "Marriage Lines",
+   "year": "1966",
+   "kept_id": 1520,
+   "retired_id": 2422
+  },
+  {
+   "title": "One Tree Hill",
+   "year": "2010–11",
+   "kept_id": 1626,
+   "retired_id": 2423
+  },
+  {
+   "title": "The Last Man on Earth",
+   "year": "2018",
+   "kept_id": 1459,
+   "retired_id": 2424
+  },
+  {
+   "title": "Charmed",
+   "year": "2006",
+   "kept_id": 1038,
+   "retired_id": 2425
+  },
+  {
+   "title": "Shameless",
+   "year": "2021",
+   "kept_id": 1753,
+   "retired_id": 2426
+  },
+  {
+   "title": "Sons of Anarchy",
+   "year": "2010–11",
+   "kept_id": 1798,
+   "retired_id": 2427
+  },
+  {
+   "title": "The Walking Dead",
+   "year": "2011–12",
+   "kept_id": 1929,
+   "retired_id": 2428
+  },
+  {
+   "title": "Kiralık Aşk",
+   "year": "2017",
+   "kept_id": 1424,
+   "retired_id": 2429
+  },
+  {
+   "title": "Kuruluş: Osman",
+   "year": "2021–22",
+   "kept_id": 1441,
+   "retired_id": 2430
+  },
+  {
+   "title": "Oshin",
+   "year": "1983",
+   "kept_id": 1629,
+   "retired_id": 2431
+  },
+  {
+   "title": "Kuch Rang Pyar Ke Aise Bhi",
+   "year": "2016–2021",
+   "kept_id": 1438,
+   "retired_id": 2432
+  },
+  {
+   "title": "Saath Nibhaana Saathiya",
+   "year": "2010–2017",
+   "kept_id": 1719,
+   "retired_id": 2433
+  },
+  {
+   "title": "Athmasakhi",
+   "year": "2016–2018",
+   "kept_id": 927,
+   "retired_id": 2434
+  },
+  {
+   "title": "María la del Barrio",
+   "year": "1995",
+   "kept_id": 1522,
+   "retired_id": 2435
+  },
+  {
+   "title": "Solsidan",
+   "year": "2012",
+   "kept_id": 1794,
+   "retired_id": 2436
+  },
+  {
+   "title": "The Unit",
+   "year": "2009",
+   "kept_id": 1899,
+   "retired_id": 2437
+  },
+  {
+   "title": "Falling Skies",
+   "year": "2015",
+   "kept_id": 1219,
+   "retired_id": 2438
+  },
+  {
+   "title": "Brotherhood",
+   "year": "2008",
+   "kept_id": 1016,
+   "retired_id": 2439
+  },
+  {
+   "title": "Petticoat Junction",
+   "year": "1969",
+   "kept_id": 1649,
+   "retired_id": 2440
+  },
+  {
+   "title": "EastEnders",
+   "year": "1985",
+   "kept_id": 1185,
+   "retired_id": 2441
+  },
+  {
+   "title": "EastEnders",
+   "year": "2007",
+   "kept_id": 1186,
+   "retired_id": 2442
+  },
+  {
+   "title": "EastEnders",
+   "year": "2010",
+   "kept_id": 1187,
+   "retired_id": 2443
+  },
+  {
+   "title": "Coronation Street",
+   "year": "1994",
+   "kept_id": 1063,
+   "retired_id": 2444
+  },
+  {
+   "title": "Emmerdale",
+   "year": "2018–19",
+   "kept_id": 1199,
+   "retired_id": 2445
+  },
+  {
+   "title": "Home and Away",
+   "year": "1991–92",
+   "kept_id": 77,
+   "retired_id": 2446
+  },
+  {
+   "title": "General Hospital",
+   "year": "1994–95",
+   "kept_id": 1270,
+   "retired_id": 2447
+  },
+  {
+   "title": "General Hospital",
+   "year": "2009",
+   "kept_id": 1271,
+   "retired_id": 2448
+  },
+  {
+   "title": "Days of Our Lives",
+   "year": "2006–07",
+   "kept_id": 1111,
+   "retired_id": 2449
+  },
+  {
+   "title": "One Life to Live",
+   "year": "2011",
+   "kept_id": 1625,
+   "retired_id": 2450
+  },
+  {
+   "title": "ER",
+   "year": "2003–2004",
+   "kept_id": 1204,
+   "retired_id": 2451
+  },
+  {
+   "title": "Grey's Anatomy",
+   "year": "2011–2014",
+   "kept_id": 1296,
+   "retired_id": 2452
+  },
+  {
+   "title": "Friends",
+   "year": "1994–1995",
+   "kept_id": 1246,
+   "retired_id": 2453
+  },
+  {
+   "title": "Queer as Folk",
+   "year": "2003–2004",
+   "kept_id": 1684,
+   "retired_id": 2454
+  },
+  {
+   "title": "Queer as Folk",
+   "year": "1999",
+   "kept_id": 1683,
+   "retired_id": 2455
+  },
+  {
+   "title": "Hospital Central",
+   "year": "2006",
+   "kept_id": 1338,
+   "retired_id": 2456
+  },
+  {
+   "title": "Hollyoaks",
+   "year": "2015",
+   "kept_id": 1333,
+   "retired_id": 2457
+  },
+  {
+   "title": "Neighbours",
+   "year": "2020–2021",
+   "kept_id": 1581,
+   "retired_id": 2458
+  },
+  {
+   "title": "Guiding Light",
+   "year": "2008–2009",
+   "kept_id": 1302,
+   "retired_id": 2459
+  },
+  {
+   "title": "All My Children",
+   "year": "2008",
+   "kept_id": 898,
+   "retired_id": 2460
+  },
+  {
+   "title": "Amar en tiempos revueltos",
+   "year": "2010",
+   "kept_id": 904,
+   "retired_id": 2461
+  },
+  {
+   "title": "Please Don't Touch Me",
+   "year": "1963",
+   "kept_id": 1657,
+   "retired_id": 2610
   }
  ],
  "merge_rules": [
@@ -40321,9 +42924,9 @@
   "savdhaan-santham-oct9": 1,
   "round2": 11
  },
- "entry_count_after_dedupe": 2625,
+ "entry_count_after_dedupe": 2521,
  "within_source_groups": 2,
- "cross_source_groups": 1701,
+ "cross_source_groups": 1797,
  "index_only_records": 48,
- "local_only_records": 421
+ "local_only_records": 317
 }

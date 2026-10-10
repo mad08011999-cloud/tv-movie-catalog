@@ -838,6 +838,60 @@ def apply_merge_rules(groups, rules):
     return log
 
 
+def loose_title(t):
+    """Punctuation-insensitive title key ("Please, Don't Touch Me" == "Please Don't Touch Me")."""
+    return re.sub(r"\W+", " ", unicodedata.normalize("NFKC", t or "").casefold()).strip()
+
+
+def group_primary(g):
+    """The member merge_group() uses as the card's primary (full-catalog before index before local record)."""
+    return sorted(g["members"], key=lambda m: (m.get("_absorbed", False), m["kind"] != "full", m["kind"] == "local",
+                                               not year_key(m["year"]), m["source_rank"], m["order"]))[0]
+
+
+def dedupe_same_title_year(groups):
+    """Final de-duplication pass: groups that still share a (punctuation-insensitive) title and the same year
+    string on the card are one work. This catches curated local records that were kept as separate "standalone"
+    cards (or whose title differs only by punctuation) although the muse.ai catalog already lists the same
+    title+year (+ storyline). The later group is absorbed into the earlier one (the lower, muse.ai ID survives, the
+    other ID is retired and no other ID shifts). The absorbed curated records never become the primary, keep every
+    field in the card's "Merged copies", and win over the muse.ai values for the outcome fields (see preferred());
+    opposite answers are still listed on the source-conflict line. Groups without a year are never joined."""
+    seen, log = {}, []
+    for g in groups:
+        if g.get("_absorbed_into"):
+            continue
+        pr = group_primary(g)
+        yr = pr["year"] or next((m["year"] for m in g["members"] if m["year"]), "")
+        if not yr:
+            continue
+        key = (loose_title(pr["title"]), yr)
+        a = seen.get(key)
+        if a is None:
+            seen[key] = g
+            continue
+        if g["_has_full"] and not a["_has_full"]:   # never move a full-catalog card behind a local one
+            seen[key] = g
+            a, g = g, a
+        for m in g["members"]:
+            m["_absorbed"] = True
+            if m["kind"] == "local":
+                m["_dedupe_pref"] = True
+            a["via"].setdefault(m["rid"], "same title+year")
+        a["members"].extend(g["members"]); a["years"] |= g["years"]
+        g["_absorbed_into"] = a
+        log.append({"keep": a, "absorb": g, "title": pr["title"], "year": yr})
+    return log
+
+
+def preferred(m):
+    """Outcome fields a de-duplicated curated record answers itself: its value (and paired note) wins over muse.ai's."""
+    if not m.get("_dedupe_pref"):
+        return []
+    fs = [f for f in list(NOTE_FIELD) + ["pregnant_has_children", "existing_kids", "pregnancy_again"] if m.get(f)]
+    return fs + [NOTE_FIELD[f] for f in fs if f in NOTE_FIELD]
+
+
 def merge_group(g, new_id):
     members = g["members"]
     # primary: full-catalog record before index record before local (hand-curated) record; with a year
@@ -858,10 +912,11 @@ def merge_group(g, new_id):
             rec[f] = ov; continue
         pool = same_story if f in STORY_FIELDS else members
         rec[f] = primary[f] or next((m[f] for m in pool if m[f]), "")
+    ovr = lambda m: overrides(m) + preferred(m)
     for f in OPTIONAL_FIELDS:
-        ordered = sorted(members, key=lambda m: (f not in overrides(m), m is not primary, m["source_rank"], m["order"]))
-        if f in NOTE_FIELD.values() and any(f in overrides(m) for m in members):
-            v = next((m.get(f) for m in ordered if f in overrides(m)), None)   # note goes with its overridden value
+        ordered = sorted(members, key=lambda m: (f not in ovr(m), m is not primary, m["source_rank"], m["order"]))
+        if f in NOTE_FIELD.values() and any(f in ovr(m) for m in members):
+            v = next((m.get(f) for m in ordered if f in ovr(m)), None)   # note goes with its overridden value
             if v:
                 rec[f] = v
             continue
@@ -933,6 +988,7 @@ def build(parsed):
     for g in groups:
         g["_has_full"] = any(m["kind"] == "full" for m in g["members"])
     merge_log = apply_merge_rules(groups, load_merge_rules())
+    dedupe_log = dedupe_same_title_year(groups)
     for g in groups:
         if g["_has_full"]:
             n_full += 1
@@ -976,6 +1032,11 @@ def build(parsed):
                 ty = {"title": m["title"], "year": m["year"]}
                 if ty not in kept.setdefault("absorbed_titles", []):
                     kept["absorbed_titles"].append(ty)
+    for x in dedupe_log:
+        kept = by_id[x["keep"]["_id"]]
+        kept.setdefault("retired_ids", []).append(x["absorb"]["_id"])
+    report["same_title_year_merges"] = [{"title": x["title"], "year": x["year"], "kept_id": x["keep"]["_id"],
+                                         "retired_id": x["absorb"]["_id"]} for x in dedupe_log]
     report["merge_rules"] = [{k: v for k, v in x.items() if not k.startswith("_")} |
                              ({"kept_id": x["_a"]["_id"], "retired_id": x["_b"]["_id"]} if "_a" in x else {})
                              for x in merge_log]
