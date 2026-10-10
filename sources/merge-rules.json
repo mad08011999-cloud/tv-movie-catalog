@@ -43,6 +43,17 @@
     "year": "2007"
    },
    "conflict_note": "Merged with the duplicate 2007 index card. Zuo You was produced in 2007 and premiered at the Berlin Film Festival in February 2008"
+  },
+  {
+   "keep": {
+    "title": "Dead Man's Gun",
+    "year": "1997"
+   },
+   "absorb": {
+    "title": "Dead Man's Gun",
+    "year": "1998"
+   },
+   "conflict_note": "Merged with the duplicate 1998 card (the muse.ai catalog's own copy of S1E15 “The Mesmerizer”); the episode is first aired 7 Jan 1998 and the series ran 1997–1999"
   }
  ]
 }

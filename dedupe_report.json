@@ -1478,6 +1478,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "alias"
+    },
+    {
+     "rid": "round2:3",
+     "title": "被催眠的她 / 失忆的她：催眠阴谋 / 催眠之夜：无法逃脱",
+     "subtitle": "",
+     "year": "Date unverified",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -23563,6 +23570,13 @@
      "year": "1997–1999"
     },
     {
+     "rid": "xla62ucxbx02u5:1125",
+     "title": "Dead Man's Gun",
+     "subtitle": "S1E15 · “The Mesmerizer”",
+     "year": "1998",
+     "matched_by": "merge rule"
+    },
+    {
      "rid": "worldwide-hypnosis:260",
      "title": "Dead Man's Gun",
      "subtitle": "",
@@ -23580,6 +23594,13 @@
      "rid": "hypnosis-assault:7",
      "title": "Dead Man's Gun",
      "subtitle": "S1E15 · “The Mesmerizer”",
+     "year": "1998",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "round2:1",
+     "title": "Dead Man's Gun",
+     "subtitle": "S1E15 “The Mesmerizer” — extra sources and cast",
      "year": "1998",
      "matched_by": "match_title"
     }
@@ -30504,6 +30525,13 @@
     {
      "rid": "rich-wife-hypnosis:22",
      "title": "Listen To Your Husband",
+     "subtitle": "",
+     "year": "2025",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "round2:2",
+     "title": "Listen To Your Husband / 枕边催眠师 (Pillow Hypnotist)",
      "subtitle": "",
      "year": "2025",
      "matched_by": "match_title"
@@ -40022,6 +40050,26 @@
    ]
   },
   {
+   "kept_id": 1973,
+   "kept": "Des preuves d'amour (2025)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1987",
+     "title": "Des preuves d'amour",
+     "subtitle": "",
+     "year": "2025"
+    },
+    {
+     "rid": "round2:9",
+     "title": "Love Letters / Des preuves d'amour",
+     "subtitle": "",
+     "year": "2025",
+     "matched_by": "alias"
+    }
+   ]
+  },
+  {
    "kept_id": 2144,
    "kept": "Hannibal (2014)",
    "scope": "within-source",
@@ -40226,6 +40274,19 @@
    "status": "applied",
    "kept_id": 785,
    "retired_id": 2181
+  },
+  {
+   "keep": {
+    "title": "Dead Man's Gun",
+    "year": "1997"
+   },
+   "absorb": {
+    "title": "Dead Man's Gun",
+    "year": "1998"
+   },
+   "status": "applied",
+   "kept_id": 1113,
+   "retired_id": 1114
   }
  ],
  "raw_counts": {
@@ -40256,11 +40317,12 @@
   "open-sites-hypnosis": 1,
   "hypnotized-marriage": 36,
   "no-link-additions": 40,
-  "hypno-sweep-oct9": 8
+  "hypno-sweep-oct9": 8,
+  "round2": 11
  },
- "entry_count_after_dedupe": 2618,
+ "entry_count_after_dedupe": 2624,
  "within_source_groups": 2,
- "cross_source_groups": 1700,
+ "cross_source_groups": 1701,
  "index_only_records": 48,
- "local_only_records": 413
+ "local_only_records": 420
 }

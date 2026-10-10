@@ -98,6 +98,8 @@ SOURCES = [
      "local": "sources/no-link-additions.json", "required": False},
     {"id": "hypno-sweep-oct9", "label": "Worldwide hypnosis sweep (9 Oct 2026)",
      "local": "sources/hypno-sweep-oct9.json", "required": False},
+    {"id": "round2", "label": "Round 2 — worldwide deep search incl. vertical series and shorts",
+     "local": "sources/round2.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -118,6 +120,8 @@ SECTION_KEYS = {
     "Pregnant woman hypnotized / mind-controlled by a child (fetus, dead-child ghost, or alien child)": "pregnant-child",
     "Woman makes a deal with the devil / a demon to become pregnant / have a child": "devil-deal-pregnancy",
 }
+# format values that local sources use but the muse.ai catalog's Formats filter does not list
+EXTRA_FORMATS = {"vertical series": "Vertical series"}
 INDEX_FORMATS = {"Movies & film serials": "movie", "TV, soaps & episodes": "tv", "Shorts": "short"}
 TITLE_ABBREVIATIONS = {"ahs: stories": "american horror stories", "ahs": "american horror story"}
 
@@ -1083,7 +1087,8 @@ def build(parsed):
         "raw_total": sum(raw_counts.values()),
         "entry_count": len(entries),
         "categories": cats,
-        "formats": full["formats"],
+        "formats": full["formats"] + [{"key": k, "label": lab} for k, lab in EXTRA_FORMATS.items()
+                                      if k not in {f["key"] for f in full["formats"]} and any(e["format"] == k for e in entries)],
         "entries": entries,
         "sections": sections,
         "unplaced_entry_ids": unplaced,

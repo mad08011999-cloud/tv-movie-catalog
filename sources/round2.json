@@ -1,0 +1,548 @@
+{
+ "id": "round2",
+ "label": "Round 2 — worldwide deep search incl. vertical series and shorts",
+ "group_title": "Round 2 additions (Oct 2026)",
+ "description": "New titles and merge additions found by a bounded deep search. Deduped by normalized title (+year) against origin/main a190027 (2610 entries) and staged sources in other bots' workspaces. 'vertical series' and 'short' are used as format values.",
+ "records": [
+  {
+   "title": "Dead Man's Gun",
+   "subtitle": "S1E15 “The Mesmerizer” — extra sources and cast",
+   "year": "1998",
+   "match_title": "Dead Man's Gun",
+   "match_year": "1997–1999",
+   "format": "tv",
+   "meta": "TV anthology episode · US/Canada · English (Showtime, first aired 7 Jan 1998)",
+   "mechanism": "Traditional hypnosis, boosted by a cursed gun",
+   "confidence_flag": "High on episode identity · medium on the sexual detail",
+   "summary": "Quack hypnotist Dr. Edgar Thurlow (Ted Shackelford) gains strong hypnotic power from the cursed gun; he hypnotizes a dying, much older wealthy man at his wife's request, and the wife falls into a trance too. One source says sex occurs; the Canadian broadcast-standards ruling says only undressing and brief nudity are shown, with sex implied. The episode then turns into a Poe “Valdemar”-style story and ends badly for the hypnotist.",
+   "character": "Dr. Edgar Thurlow (Ted Shackelford); the dying millionaire's wife — likely Charlotte Moorehead (Nicole Oliver), married to Dr. Thomas Moorehead (George Touliatos), but that pairing is unconfirmed",
+   "categories": [
+    "hypno-intimacy",
+    "adult-hypnosis",
+    "cheat-control",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "CBSC/CCNR ruling (French)",
+     "url": "https://www.cbsc.ca/fr/decisions-du-ccnr/page/chro-tv-concernant-dead-mans-gun-the-mesmerizer/"
+    },
+    {
+     "label": "I Think, Therefore I Review (season review)",
+     "url": "https://ithinkthereforeireview.blogspot.com/2019/03/dead-mans-gun-season-one.html"
+    },
+    {
+     "label": "IMDb cast",
+     "url": "https://www.imdb.com/title/tt0556130/fullcredits/"
+    },
+    {
+     "label": "Mental Block",
+     "url": "https://mentalblock.miraheze.org/wiki/Dead_Man%27s_Gun"
+    },
+    {
+     "label": "TheTVDB",
+     "url": "https://www.thetvdb.com/series/dead-mans-gun/episodes/121109"
+    }
+   ],
+   "episodes": [
+    {
+     "episode": "S1E15 “The Mesmerizer”",
+     "air_date": "1998-01-07",
+     "gist": "hypnotist entrances a dying millionaire and his wife; sexual exploitation of the wife while the husband is entranced; Valdemar-style ending",
+     "number_verified": true
+    }
+   ],
+   "married": "yes",
+   "evidence": "2+ independent sources for the episode; the sex-while-entranced detail is Mental Block, the CBSC ruling says undressing/nudity only",
+   "provenance": "Round-2 deep search, 9 Oct 2026 (adults only; clinical wording; deduped against origin/main a190027 and staged sources)",
+   "note": "Adds the IMDb full-credits cast page and the 'wife' category to the existing S1E15 card; the card's corrected summary, outcome lines and conflicts stay as set by the card 1169-era fix. The two Dead Man's Gun cards (series-level and 1998) are merged by sources/merge-rules.json.",
+   "pregnant_end": "no",
+   "pregnancy_outcome": "not pregnant",
+   "pregnant_end_note": "no pregnancy in any source",
+   "pregnancy_note": "no pregnancy in any source",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "source_conflict": "Mental Block numbers it episode 12; Wikipedia, TheTVDB, IMDb give S1E15. Sex act: Mental Block says yes; CBSC says none shown.",
+   "group": "Round 2 — worldwide deep search (Oct 2026)",
+   "catalog_ids": [
+    1113,
+    1114
+   ],
+   "research_no": 1
+  },
+  {
+   "title": "Listen To Your Husband / 枕边催眠师 (Pillow Hypnotist)",
+   "year": "2025",
+   "match_title": "Listen To Your Husband",
+   "match_year": "2025",
+   "format": "vertical series",
+   "meta": "Chinese short drama · Mandarin · 17 episodes listed",
+   "mechanism": "Hypnosis by the husband (a necklace trigger in Mental Block's scene notes)",
+   "confidence_flag": "Medium · identification of the two titles is inferred",
+   "summary": "Luo Fei hands her company to her husband Qi Xia after marrying him, then finds she has unexplained injuries and no memory of them; with psychologist Zhang Ming she learns the hypnotist is her own husband. Mental Block's English entry (same character name) says he and his lover hypnotize her to steal her money.",
+   "character": "Luo Fei, her husband Qi Xia, psychologist Zhang Ming",
+   "categories": [
+    "wife",
+    "partner-control",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Qipo short-drama listing 枕边催眠师",
+     "url": "https://qipodj.cc/metavod/1813313269.html"
+    },
+    {
+     "label": "Mental Block (Listen To Your Husband)",
+     "url": "https://mentalblock.miraheze.org/wiki/Listen_To_Your_Husband"
+    }
+   ],
+   "married": "yes",
+   "evidence": "2 sources; the Chinese source is an aggregator synopsis only (no episode detail)",
+   "provenance": "Round-2 deep search, 9 Oct 2026 (adults only; clinical wording; deduped against origin/main a190027 and staged sources)",
+   "note": "Same work as card 1473 by matching character name (Luo Fei) and premise; no source links the English and Chinese titles, so the identification is inferred. Adds the Chinese title, a 17-episode listing and the format value 'vertical series'. Verification: Confirmed: husband hypnotizes wife. Not confirmed: any sexual assault under hypnosis.",
+   "pregnant_end": "no",
+   "pregnancy_outcome": "not pregnant",
+   "pregnant_end_note": "not mentioned",
+   "pregnancy_note": "not mentioned",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "source_conflict": "Mental Block calls it a 'medium-length drama thriller film'; the Chinese listing shows 17 numbered episodes.",
+   "fit_note": "Borderline: the husband hypnotizes his wife, but no source confirms any sexual assault under hypnosis; the English and Chinese titles are matched by character name only.",
+   "tags": [
+    "loose fit"
+   ],
+   "group": "Round 2 — worldwide deep search (Oct 2026)",
+   "catalog_ids": [
+    1473
+   ],
+   "research_no": 2
+  },
+  {
+   "title": "被催眠的她 / 失忆的她：催眠阴谋 / 催眠之夜：无法逃脱",
+   "year": "Date unverified",
+   "match_title": "被催眠的她",
+   "match_year": "Date unverified",
+   "format": "vertical series",
+   "meta": "Chinese short drama · Mandarin · 60 episodes",
+   "mechanism": "Hypnosis / psychological manipulation (hypnosis named in tags and titles)",
+   "confidence_flag": "Low-medium · aggregator synopsis only",
+   "summary": "Zhang Qing, who has a mental illness, is taken by her husband Zhao Jianghai to live in seclusion in a small county town; a nanny who likes the husband swaps her medication to worsen her condition, which instead starts Zhang Qing's awakening. With doctor Shen Hui she investigates her parents' murder, an accidental miscarriage and her breakdown.",
+   "character": "Zhang Qing, husband Zhao Jianghai, nanny Xiao Luo, doctor Shen Hui",
+   "categories": [
+    "wife",
+    "remarried-wife-control"
+   ],
+   "sources": [
+    {
+     "label": "Dusu short-drama listing",
+     "url": "https://dusuzj.cc/cn/content/260780864.html"
+    },
+    {
+     "label": "Lufa short-drama listing",
+     "url": "https://m.lufadj.cc/html/QV9P1.html"
+    },
+    {
+     "label": "Nilu listing (催眠之夜：无法逃脱)",
+     "url": "https://hk.niluzj.cc/vod/X7EdY.html"
+    }
+   ],
+   "married": "yes",
+   "evidence": "Single source — three aggregator pages copy one synopsis",
+   "provenance": "Round-2 deep search, 9 Oct 2026 (adults only; clinical wording; deduped against origin/main a190027 and staged sources)",
+   "note": "Three alternate Chinese titles share one synopsis and a 60-episode list; this adds the plot and sources to the existing card 56. Whether the husband is the hypnotist is not stated. Verification: Confirmed: title/tags mention hypnosis, wife with mental illness, husband, nanny's medication swap, doctor, miscarriage. Not confirmed: who hypnotizes her, any sexual content.",
+   "pregnant_end": "no",
+   "pregnancy_outcome": "not pregnant",
+   "pregnant_end_note": "a miscarriage is part of the backstory",
+   "pregnancy_note": "a miscarriage is part of the backstory",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "fit_note": "Borderline: the title and tags name hypnosis, but no source says who hypnotizes her or describes any intimate scene.",
+   "tags": [
+    "loose fit"
+   ],
+   "group": "Round 2 — worldwide deep search (Oct 2026)",
+   "catalog_ids": [
+    56
+   ],
+   "research_no": 3
+  },
+  {
+   "title": "Love in Oblivion",
+   "year": "2026",
+   "format": "vertical series",
+   "meta": "Vertical psychological thriller · Ukraine (AMO Pictures) · English",
+   "mechanism": "Hypnosis therapy used to recover memories of an amnesiac wife",
+   "confidence_flag": "Medium · plot teaser only",
+   "summary": "Emily wakes in hospital with no memory and leans on her husband James; hypnosis sessions (with Michael) unlock fragments that suggest betrayal, manipulation and violence, leaving open whether her memories are real or planted.",
+   "character": "Emily (Tetiana Zlova), husband James (Marc Schöttner), Michael (Yevhenii Lisnychyi), Katrina (Ksenia Danilova)",
+   "categories": [
+    "wife",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "I Love Verticals review",
+     "url": "https://i-love-verticals.com/reviews/love-in-oblivion/"
+    },
+    {
+     "label": "The Vertibase",
+     "url": "https://thevertibase.com/series/love-in-oblivion/RjwktKSP2GgGRKR4sXgR"
+    },
+    {
+     "label": "My Vertical Obsession (DramaPops)",
+     "url": "https://www.myverticalobsession.com/117-dramapops-love-in-oblivion/"
+    }
+   ],
+   "married": "yes",
+   "evidence": "2+ independent review/database sources, brief synopses only",
+   "provenance": "Round-2 deep search, 9 Oct 2026 (adults only; clinical wording; deduped against origin/main a190027 and staged sources)",
+   "note": "Episode count and numbering not found. Verification: Confirmed: amnesia, husband, hypnosis recovering memories, manipulation theme. Not confirmed: any sexual assault, whether the husband is the hypnotist, ending.",
+   "pregnant_end": "unknown",
+   "pregnancy_outcome": "unknown",
+   "kids_together": "unknown",
+   "kids_status": "unknown",
+   "fit_note": "Loose fit: hypnosis is memory-recovery therapy and the synopsis does not say she is hypnotized and assaulted.",
+   "tags": [
+    "loose fit"
+   ],
+   "group": "Round 2 — worldwide deep search (Oct 2026)",
+   "catalog_ids": [],
+   "research_no": 4
+  },
+  {
+   "title": "Passione",
+   "subtitle": "Berilo and the 'sexual hypnotist' storyline (2–7 Oct 2010)",
+   "year": "2010",
+   "format": "tv",
+   "meta": "Telenovela · Brazil (TV Globo) · Portuguese",
+   "mechanism": "Hypnotist hired by the wife to alter the husband's perception",
+   "confidence_flag": "High on premise · air dates from column items",
+   "summary": "Berilo returns to his wife Jéssica but cannot perform without his other wife Agostina; Jéssica takes him to a 'sexual hypnotist' found online. Afterwards he sees Agostina in Jéssica and is sexually enthusiastic; later Jéssica, exhausted by the effect, goes back to the hypnotist to undo it.",
+   "character": "Berilo (Bruno Gagliasso) and Jéssica (Gabriela Duarte); Agostina (Leandra Leal) as the imagined woman",
+   "categories": [
+    "adult-hypnosis",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Terra (16 Sep 2010 preview)",
+     "url": "https://www.terra.com.br/diversao/tv/novelas/passione-berilo-enfrenta-hipnose-para-transar-com-jessica,6d59a1cd62b7a310VgnCLD200000bbcceb0aRCRD.html"
+    },
+    {
+     "label": "Área VIP",
+     "url": "https://www.areavip.com.br/novelas/passione/passione-jessica-leva-berilo-a-um-hipnotizador/"
+    },
+    {
+     "label": "OFuxico",
+     "url": "https://ofuxico.com.br/noticias/berilo-e-levado-por-jessica-a-um-hipnotizador-sexual-em-passione/"
+    },
+    {
+     "label": "OFuxico (follow-up)",
+     "url": "https://ofuxico.com.br/noticias/passione-jessica-fica-exausta-com-o-desempenho-sexual-de-berilo/"
+    }
+   ],
+   "episodes": [
+    {
+     "episode": "Chapter not verified",
+     "air_date": "2010-10-02",
+     "gist": "Jéssica takes Berilo to a sexual hypnotist; he then sees Agostina in her",
+     "number_verified": false
+    },
+    {
+     "episode": "Chapter not verified",
+     "air_date": "2010-10-07",
+     "gist": "Jéssica, exhausted, returns to the hypnotist to undo the effect",
+     "number_verified": false
+    }
+   ],
+   "married": "yes",
+   "evidence": "2+ independent Brazilian TV-news sources",
+   "provenance": "Round-2 deep search, 9 Oct 2026 (adults only; clinical wording; deduped against origin/main a190027 and staged sources)",
+   "note": "Soap-opera column items give air dates of 2 Oct 2010 (hypnotist visit) and 7 Oct 2010 (undoing it); chapter numbers not verified. Verification: Confirmed: wife-arranged hypnosis for sexual purposes. Not confirmed: later outcomes.",
+   "pregnant_end": "unknown",
+   "pregnancy_outcome": "unknown",
+   "kids_together": "unknown",
+   "kids_status": "unknown",
+   "fit_note": "Loose fit: the hypnotized person is the husband, and the wife arranged it for marital intimacy, so no one is assaulted under hypnosis.",
+   "tags": [
+    "loose fit"
+   ],
+   "group": "Round 2 — worldwide deep search (Oct 2026)",
+   "catalog_ids": [],
+   "research_no": 5
+  },
+  {
+   "title": "Trust Me",
+   "year": "2010",
+   "format": "short",
+   "meta": "Short thriller · 8 min · English",
+   "mechanism": "Hypnosis by the wife (psychosis) without his knowledge",
+   "confidence_flag": "Medium · brief synopsis",
+   "summary": "A husband is unknowingly hypnotized by his psychotic wife and steered toward self-destruction; the question is whether he discovers it in time.",
+   "character": "Unnamed husband and wife (cast include Marc Cram, Veronika Bellová)",
+   "categories": [
+    "adult-hypnosis",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "WatchWhatWhere",
+     "url": "https://watchwhatwhere.com/title/8716380-trust-me"
+    },
+    {
+     "label": "MovieRanker",
+     "url": "https://www.movieranker.com/movie/25sQuXCHivAjpUt/Trust-Me"
+    },
+    {
+     "label": "AllMovie",
+     "url": "https://www.allmovie.com/movie/trust-me-am553363"
+    }
+   ],
+   "married": "yes",
+   "evidence": "2+ database synopses",
+   "provenance": "Round-2 deep search, 9 Oct 2026 (adults only; clinical wording; deduped against origin/main a190027 and staged sources)",
+   "pregnant_end": "no",
+   "pregnancy_outcome": "not pregnant",
+   "pregnant_end_note": "not applicable",
+   "pregnancy_note": "not applicable",
+   "kids_together": "unknown",
+   "kids_status": "unknown",
+   "fit_note": "Loose fit: a wife hypnotizes her husband to harm him; there is no sexual or intimate element in the synopsis.",
+   "tags": [
+    "loose fit"
+   ],
+   "group": "Round 2 — worldwide deep search (Oct 2026)",
+   "catalog_ids": [],
+   "research_no": 6
+  },
+  {
+   "title": "Sex/Life",
+   "subtitle": "S2E3 “Seasons of Love”",
+   "year": "2023",
+   "format": "tv",
+   "meta": "TV series episode · US · English (Netflix, released 2 Mar 2023)",
+   "mechanism": "n/a (pregnant-intimacy scene)",
+   "confidence_flag": "High",
+   "summary": "Heavily pregnant model Gigi (Wallis Day), married to Brad (Adam Demos), suspects he is still thinking about Billie and initiates an intimate scene with him; Decider notes she is a fully willing participant.",
+   "character": "Gigi (Wallis Day) and Brad (Adam Demos)",
+   "categories": [
+    "pregnant-sex",
+    "erotic-mainstream",
+    "pregnant-intimate"
+   ],
+   "sources": [
+    {
+     "label": "Decider",
+     "url": "https://decider.com/2023/03/03/sex-life-season-2-gigi-wallis-day-pregnant-sex-scene/"
+    },
+    {
+     "label": "AceShowbiz episode guide",
+     "url": "https://www.aceshowbiz.com/tv/episodeguide/sex_life_s02_e03/"
+    },
+    {
+     "label": "Metacritic",
+     "url": "https://www.metacritic.com/tv/sexlife/season-2/episode-3-seasons-of-love/"
+    },
+    {
+     "label": "Ready Steady Cut recap",
+     "url": "https://readysteadycut.com/2023/03/02/sex-life-season-2-episode-3-recap/"
+    }
+   ],
+   "episodes": [
+    {
+     "episode": "S2E3 “Seasons of Love”",
+     "air_date": "2023-03-02",
+     "gist": "pregnant Gigi initiates a sex scene with husband Brad",
+     "number_verified": true
+    }
+   ],
+   "married": "yes",
+   "evidence": "2+ independent sources (Decider, AceShowbiz, Metacritic)",
+   "provenance": "Round-2 deep search, 9 Oct 2026 (adults only; clinical wording; deduped against origin/main a190027 and staged sources)",
+   "note": "Outcome of the pregnancy (birth) not checked.",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "pregnant",
+   "pregnant_end_note": "pregnant (heavily) in the episode; birth not verified",
+   "pregnancy_note": "pregnant (heavily) in the episode; birth not verified",
+   "kids_together": "yes",
+   "kids_status": "unknown",
+   "kids_note": "expecting Brad's child",
+   "group": "Round 2 — worldwide deep search (Oct 2026)",
+   "catalog_ids": [],
+   "research_no": 7
+  },
+  {
+   "title": "Revenge in the Golden Cage / Miss Schemer vs. Mr. CEO / 晚色上春枝",
+   "year": "2025",
+   "format": "vertical series",
+   "meta": "Chinese vertical drama · Mandarin · 80 episodes × ~2 min (from 1 Aug 2025)",
+   "mechanism": "n/a (age-gap seduction and secret marriage)",
+   "confidence_flag": "Medium",
+   "summary": "Poor, clever Bai Zhi plots with her friend to seduce Beijing's richest man, Zhou Chongye, as part of a revenge plan against a stepmother; he is drawn in by her wits, and their relationship moves from schemes to love across a class and age gap (MyDramaList tags include secret marriage and older man / younger woman).",
+   "character": "Bai Zhi (Zhai Yiying) and Zhou Chongye (Wang Chenpeng)",
+   "categories": [
+    "agegap-marriage"
+   ],
+   "sources": [
+    {
+     "label": "MyDramaList",
+     "url": "https://mydramalist.com/791278-shadows-on-spring"
+    },
+    {
+     "label": "DramaFeed",
+     "url": "https://drama-feed.com/en/d/17308"
+    },
+    {
+     "label": "Netshort blog",
+     "url": "https://netshort.com/blog/miss-schemer-vs-mr-ceoa-revenge-pact-a-billionaire-and-a-dangerous-love-gam-1958448072022228993"
+    }
+   ],
+   "married": "yes",
+   "evidence": "2+ sources; marriage taken from MyDramaList tag 'secret marriage' (not from a plot summary)",
+   "provenance": "Round-2 deep search, 9 Oct 2026 (adults only; clinical wording; deduped against origin/main a190027 and staged sources)",
+   "note": "Pregnancy/children not mentioned in sources read.",
+   "pregnant_end": "unknown",
+   "pregnancy_outcome": "unknown",
+   "kids_together": "unknown",
+   "kids_status": "unknown",
+   "fit_note": "Borderline: an age-gap secret-marriage romance with no hypnosis element; the leads' ages are not stated in the sources read.",
+   "tags": [
+    "loose fit"
+   ],
+   "group": "Round 2 — worldwide deep search (Oct 2026)",
+   "catalog_ids": [],
+   "research_no": 10
+  },
+  {
+   "title": "Love Letters / Des preuves d'amour",
+   "year": "2025",
+   "format": "movie",
+   "meta": "Drama-comedy · France · French (Cannes Critics' Week, 97 min)",
+   "mechanism": "n/a (lesbian couple pregnancy and adoption)",
+   "confidence_flag": "High",
+   "summary": "In 2014, Nadia (37) is pregnant with the couple's first child, conceived with a Danish sperm-bank donor, while Céline (32) wrestles with her role as non-gestational parent and the intrusive adoption process France required of her.",
+   "character": "Nadia (Monia Chokri) and Céline (Ella Rumpf)",
+   "categories": [
+    "lesbian-couple-pregnancy",
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Variety review",
+     "url": "https://variety.com/2025/film/reviews/love-letters-review-lesbian-pregnancy-cannes-1236407777/"
+    },
+    {
+     "label": "Unifrance",
+     "url": "https://www.unifrance.org/film/59887/des-preuves-d-amour"
+    },
+    {
+     "label": "AlloCiné",
+     "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=317105.html"
+    }
+   ],
+   "married": "yes",
+   "evidence": "2+ independent sources (Variety, Unifrance, AlloCiné)",
+   "provenance": "Round-2 deep search, 9 Oct 2026 (adults only; clinical wording; deduped against origin/main a190027 and staged sources)",
+   "note": "No explicit intimate scenes are mentioned in the sources read.",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "pregnant",
+   "pregnant_end_note": "Nadia gives birth to a daughter per the Unifrance/ALCA synopsis",
+   "pregnancy_note": "Nadia gives birth to a daughter per the Unifrance/ALCA synopsis",
+   "kids_together": "yes",
+   "kids_status": "no",
+   "kids_note": "their daughter",
+   "fit_note": "Borderline: a lesbian-couple pregnancy and adoption drama with no hypnosis element; it fits the pregnancy categories only.",
+   "tags": [
+    "loose fit"
+   ],
+   "group": "Round 2 — worldwide deep search (Oct 2026)",
+   "catalog_ids": [],
+   "research_no": 11
+  },
+  {
+   "title": "You and Me Makes Three",
+   "year": "2026",
+   "format": "short",
+   "meta": "Comedy short · 19 min · UK · English (premiered 28 Mar 2026)",
+   "mechanism": "n/a (lesbian couple trying to conceive)",
+   "confidence_flag": "Medium",
+   "summary": "Married women Alannah and Amara try to start a family through donor apps, a friendly donor offer and DIY home insemination, coping with negative tests and family support.",
+   "character": "Alannah (Maria Oxley Boardman) and Amara (Dani Moseley)",
+   "categories": [
+    "lesbian-couple-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt40311690/"
+    },
+    {
+     "label": "TMDB",
+     "url": "https://www.themoviedb.org/movie/1640042-you-and-me-makes-three"
+    },
+    {
+     "label": "British Council UK Films",
+     "url": "https://filmsandfestivals.britishcouncil.org/projects/you-and-me-makes-three"
+    }
+   ],
+   "married": "yes",
+   "evidence": "2+ database sources",
+   "provenance": "Round-2 deep search, 9 Oct 2026 (adults only; clinical wording; deduped against origin/main a190027 and staged sources)",
+   "note": "Pregnancy not achieved in the synopsis read; outcome not stated.",
+   "pregnant_end": "unknown",
+   "pregnancy_outcome": "unknown",
+   "kids_together": "unknown",
+   "kids_status": "unknown",
+   "fit_note": "Loose fit: the couple is trying to conceive; a pregnancy is not confirmed in the sources read.",
+   "tags": [
+    "loose fit"
+   ],
+   "group": "Round 2 — worldwide deep search (Oct 2026)",
+   "catalog_ids": [],
+   "research_no": 12
+  },
+  {
+   "title": "August & Ebony",
+   "year": "2024",
+   "format": "short",
+   "meta": "Short · ~13 min · US · English",
+   "mechanism": "n/a (pregnant newlywed lesbian couple)",
+   "confidence_flag": "Medium",
+   "summary": "Ebony, four months pregnant, has married her partner August in a quick 'U-Haul' wedding; her best friend Justin, the child's father, arrives and stays over, and the couple must agree a birth plan and co-parenting.",
+   "character": "Ebony, August and Justin",
+   "categories": [
+    "lesbian-couple-pregnancy",
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Cinema Femme 2025",
+     "url": "https://cinemafemme.eventive.org/films/684f2a3c3cc42f09421b509d"
+    },
+    {
+     "label": "QWOCMAP",
+     "url": "https://qwocmap.org/films/festival/august-and-ebony/"
+    }
+   ],
+   "married": "yes",
+   "evidence": "2 festival listings",
+   "provenance": "Round-2 deep search, 9 Oct 2026 (adults only; clinical wording; deduped against origin/main a190027 and staged sources)",
+   "note": "Second-parent / known-donor storyline.",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "pregnant",
+   "pregnant_end_note": "four months pregnant in the film; delivery not shown in the synopsis",
+   "pregnancy_note": "four months pregnant in the film; delivery not shown in the synopsis",
+   "kids_together": "yes",
+   "kids_status": "unknown",
+   "kids_note": "child with her friend Justin as father; co-parenting with wife August",
+   "fit_note": "Borderline: a newlywed lesbian couple expecting with a known donor; the characters' ages are not stated in the sources read.",
+   "tags": [
+    "loose fit"
+   ],
+   "group": "Round 2 — worldwide deep search (Oct 2026)",
+   "catalog_ids": [],
+   "research_no": 13
+  }
+ ],
+ "dropped": []
+}
