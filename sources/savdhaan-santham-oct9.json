@@ -1,0 +1,52 @@
+{
+ "id": "savdhaan-santham-oct9",
+ "label": "Savdhaan India / Shantham Papam follow-up (9 Oct 2026)",
+ "group_title": "Savdhaan India hypnosis episode (Oct 2026)",
+ "description": "Follow-up search of Savdhaan India and Shantham Papam for hypnotised-woman episodes. Only non-duplicates listed.",
+ "category_labels": {},
+ "dropped": [
+  {
+   "title": "Shantham Papam (Kannada crime anthology, Colors Kannada/Voot/Hotstar)",
+   "reason": "no hypnosis episode found in any source"
+  },
+  {
+   "title": "Savdhaan India S20E04 'A dhongi baba'",
+   "reason": "no plot source mentions hypnosis"
+  }
+ ],
+ "records": [
+  {
+   "title": "Savdhaan India — \"A Hypnotist or a Killer?\" (S68 E46; Madhuri)",
+   "year": "c. Sep 2012",
+   "match_title": "Savdhaan India — A Hypnotist or a Killer?",
+   "match_year": "c. Sep 2012",
+   "format": "tv",
+   "meta": "TV crime anthology episode · Life OK (now on Hotstar / Tata Play Binge) · India · Hindi",
+   "mechanism": "Hypnosis (via music) by a music-school principal",
+   "confidence_flag": "Medium · episode written update + cast announcement (platform listing from a search summary)",
+   "summary": "Based on a true story: an 18-year-old music student from Pune, Madhuri, is hypnotised by her school principal (played by Arif Zakaria), who controls students through music. She suddenly loathes music and turns on her parents, going to their room at midnight with a knife; her parents take her to a certified hypnotherapist, whose sessions reveal the principal's hold. Police raid the school, he is arrested and court sends him to a mental asylum.",
+   "categories": [
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "IndiaForums written update (16 Sept)",
+     "url": "https://www.indiaforums.com/forum/savdhaan-india-11/3198932/written-update-16th-september"
+    },
+    {
+     "label": "IndiaForums cast announcement (11 Sep 2012)",
+     "url": "https://www.indiaforums.com/article/ketkie-jayashree-and-arif-zakaria-in-life-oks-savdhan-india-11_36706"
+    }
+   ],
+   "provenance": "Savdhaan India / Shantham Papam follow-up sweep, 9 Oct 2026 PT",
+   "group": "India — Savdhaan India episodes (Oct 2026 follow-up)",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "No pregnancy in the episode; Madhuri is an 18-year-old student.",
+   "kids_status": "no",
+   "kids_note": "No children; she is an 18-year-old student living with her parents (not stated explicitly as 'no kids', inferred from plot).",
+   "note": "Season/episode number (S68 E46) and platform come from a search summary; air year inferred from the Sep 2012 announcement. Plot is from a fan written update.",
+   "kids_together": "no",
+   "pregnant_end": "no"
+  }
+ ]
+}

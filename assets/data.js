@@ -2796,6 +2796,28 @@ window.CATALOG = {
    "status": "local"
   },
   {
+   "id": "savdhaan-santham-oct9",
+   "label": "Savdhaan India / Shantham Papam follow-up (9 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/savdhaan-santham-oct9.json",
+   "description": "Follow-up search of Savdhaan India and Shantham Papam for hypnotised-woman episodes. Only non-duplicates listed.",
+   "dropped": [
+    {
+     "title": "Shantham Papam (Kannada crime anthology, Colors Kannada/Voot/Hotstar)",
+     "reason": "no hypnosis episode found in any source"
+    },
+    {
+     "title": "Savdhaan India S20E04 'A dhongi baba'",
+     "reason": "no plot source mentions hypnosis"
+    }
+   ],
+   "check": {
+    "raw_count": 1,
+    "ok": true
+   },
+   "status": "local"
+  },
+  {
    "id": "round2",
    "label": "Round 2 — worldwide deep search incl. vertical series and shorts",
    "kind": "local",
@@ -2838,10 +2860,11 @@ window.CATALOG = {
   "hypnotized-marriage": 36,
   "no-link-additions": 40,
   "hypno-sweep-oct9": 8,
+  "savdhaan-santham-oct9": 1,
   "round2": 11
  },
- "raw_total": 5210,
- "entry_count": 2624,
+ "raw_total": 5211,
+ "entry_count": 2625,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -2931,7 +2954,7 @@ window.CATALOG = {
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 134
+   "entry_count": 135
   },
   {
    "key": "hypnotized-to-marry",
@@ -389737,6 +389760,86 @@ window.CATALOG = {
   },
   {
    "id": 2621,
+   "title": "Savdhaan India — \"A Hypnotist or a Killer?\" (S68 E46; Madhuri)",
+   "subtitle": "",
+   "year": "c. Sep 2012",
+   "meta": "TV crime anthology episode · Life OK (now on Hotstar / Tata Play Binge) · India · Hindi",
+   "mechanism": "Hypnosis (via music) by a music-school principal",
+   "confidence_flag": "Medium · episode written update + cast announcement (platform listing from a search summary)",
+   "summary": "Based on a true story: an 18-year-old music student from Pune, Madhuri, is hypnotised by her school principal (played by Arif Zakaria), who controls students through music. She suddenly loathes music and turns on her parents, going to their room at midnight with a knife; her parents take her to a certified hypnotherapist, whose sessions reveal the principal's hold. Police raid the school, he is arrested and court sends him to a mental asylum.",
+   "character": "",
+   "provenance": "Savdhaan India / Shantham Papam follow-up sweep, 9 Oct 2026 PT",
+   "note": "Season/episode number (S68 E46) and platform come from a search summary; air year inferred from the Sep 2012 announcement. Plot is from a fan written update.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "No pregnancy in the episode; Madhuri is an 18-year-old student.",
+   "kids_status": "no",
+   "kids_note": "No children; she is an 18-year-old student living with her parents (not stated explicitly as 'no kids', inferred from plot).",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "format": "tv",
+   "categories": [
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "IndiaForums written update (16 Sept)",
+     "url": "https://www.indiaforums.com/forum/savdhaan-india-11/3198932/written-update-16th-september"
+    },
+    {
+     "label": "IndiaForums cast announcement (11 Sep 2012)",
+     "url": "https://www.indiaforums.com/article/ketkie-jayashree-and-arif-zakaria-in-life-oks-savdhan-india-11_36706"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "savdhaan-santham-oct9"
+   ],
+   "source_records": [
+    "savdhaan-santham-oct9:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "savdhaan-santham-oct9:1": {
+     "title": "Savdhaan India — \"A Hypnotist or a Killer?\" (S68 E46; Madhuri)",
+     "year": "c. Sep 2012",
+     "match_title": "Savdhaan India — A Hypnotist or a Killer?",
+     "match_year": "c. Sep 2012",
+     "format": "tv",
+     "meta": "TV crime anthology episode · Life OK (now on Hotstar / Tata Play Binge) · India · Hindi",
+     "mechanism": "Hypnosis (via music) by a music-school principal",
+     "confidence_flag": "Medium · episode written update + cast announcement (platform listing from a search summary)",
+     "summary": "Based on a true story: an 18-year-old music student from Pune, Madhuri, is hypnotised by her school principal (played by Arif Zakaria), who controls students through music. She suddenly loathes music and turns on her parents, going to their room at midnight with a knife; her parents take her to a certified hypnotherapist, whose sessions reveal the principal's hold. Police raid the school, he is arrested and court sends him to a mental asylum.",
+     "categories": [
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "IndiaForums written update (16 Sept)",
+       "url": "https://www.indiaforums.com/forum/savdhaan-india-11/3198932/written-update-16th-september"
+      },
+      {
+       "label": "IndiaForums cast announcement (11 Sep 2012)",
+       "url": "https://www.indiaforums.com/article/ketkie-jayashree-and-arif-zakaria-in-life-oks-savdhan-india-11_36706"
+      }
+     ],
+     "provenance": "Savdhaan India / Shantham Papam follow-up sweep, 9 Oct 2026 PT",
+     "group": "India — Savdhaan India episodes (Oct 2026 follow-up)",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy in the episode; Madhuri is an 18-year-old student.",
+     "kids_status": "no",
+     "kids_note": "No children; she is an 18-year-old student living with her parents (not stated explicitly as 'no kids', inferred from plot).",
+     "note": "Season/episode number (S68 E46) and platform come from a search summary; air year inferred from the Sep 2012 announcement. Plot is from a fan written update.",
+     "kids_together": "no",
+     "pregnant_end": "no"
+    }
+   }
+  },
+  {
+   "id": 2622,
    "title": "Love in Oblivion",
    "subtitle": "",
    "year": "2026",
@@ -389835,7 +389938,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2622,
+   "id": 2623,
    "title": "Passione",
    "subtitle": "Berilo and the 'sexual hypnotist' storyline (2–7 Oct 2010)",
    "year": "2010",
@@ -389965,7 +390068,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2623,
+   "id": 2624,
    "title": "Trust Me",
    "subtitle": "",
    "year": "2010",
@@ -390067,7 +390170,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2624,
+   "id": 2625,
    "title": "Sex/Life",
    "subtitle": "S2E3 “Seasons of Love”",
    "year": "2023",
@@ -390191,7 +390294,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2625,
+   "id": 2626,
    "title": "Revenge in the Golden Cage / Miss Schemer vs. Mr. CEO / 晚色上春枝",
    "subtitle": "",
    "year": "2025",
@@ -390288,7 +390391,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2626,
+   "id": 2627,
    "title": "You and Me Makes Three",
    "subtitle": "",
    "year": "2026",
@@ -390385,7 +390488,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2627,
+   "id": 2628,
    "title": "August & Ebony",
    "subtitle": "",
    "year": "2024",
@@ -393787,15 +393890,15 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2621,
-       "from_source": "round2"
-      },
-      {
        "id": 2622,
        "from_source": "round2"
       },
       {
        "id": 2623,
+       "from_source": "round2"
+      },
+      {
+       "id": 2624,
        "from_source": "round2"
       }
      ],
@@ -398254,7 +398357,8 @@ window.CATALOG = {
     "hypnosis-assault",
     "hypnosis-assault-loose",
     "royal-hypnosis-loose",
-    "hypno-sweep-oct9"
+    "hypno-sweep-oct9",
+    "savdhaan-santham-oct9"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 41,
@@ -398267,7 +398371,8 @@ window.CATALOG = {
     "hypnosis-assault": null,
     "hypnosis-assault-loose": null,
     "royal-hypnosis-loose": null,
-    "hypno-sweep-oct9": null
+    "hypno-sweep-oct9": null,
+    "savdhaan-santham-oct9": null
    },
    "groups": [
     {
@@ -399094,6 +399199,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypno-sweep-oct9"
+    },
+    {
+     "title": "India — Savdhaan India episodes (Oct 2026 follow-up)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2621,
+       "from_source": "savdhaan-santham-oct9"
+      }
+     ],
+     "from_source": "savdhaan-santham-oct9"
     }
    ]
   },
@@ -403884,11 +404000,11 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2622,
+       "id": 2623,
        "from_source": "round2"
       },
       {
-       "id": 2623,
+       "id": 2624,
        "from_source": "round2"
       }
      ],
@@ -404683,7 +404799,7 @@ window.CATALOG = {
        "from_source": "round2"
       },
       {
-       "id": 2621,
+       "id": 2622,
        "from_source": "round2"
       }
      ],
@@ -408805,7 +408921,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2627,
+       "id": 2628,
        "from_source": "round2"
       },
       {
@@ -408813,7 +408929,7 @@ window.CATALOG = {
        "from_source": "round2"
       },
       {
-       "id": 2626,
+       "id": 2627,
        "from_source": "round2"
       }
      ],
@@ -409393,7 +409509,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2624,
+       "id": 2625,
        "from_source": "round2"
       }
      ],
@@ -412946,7 +413062,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2627,
+       "id": 2628,
        "from_source": "round2"
       },
       {
@@ -417878,7 +417994,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2624,
+       "id": 2625,
        "from_source": "round2"
       }
      ],
@@ -418230,7 +418346,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2624,
+       "id": 2625,
        "from_source": "round2"
       }
      ],
@@ -433260,7 +433376,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2625,
+       "id": 2626,
        "from_source": "round2"
       }
      ],

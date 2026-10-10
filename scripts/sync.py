@@ -98,6 +98,8 @@ SOURCES = [
      "local": "sources/no-link-additions.json", "required": False},
     {"id": "hypno-sweep-oct9", "label": "Worldwide hypnosis sweep (9 Oct 2026)",
      "local": "sources/hypno-sweep-oct9.json", "required": False},
+    {"id": "savdhaan-santham-oct9", "label": "Savdhaan India / Shantham Papam follow-up (9 Oct 2026)",
+     "local": "sources/savdhaan-santham-oct9.json", "required": False},
     {"id": "round2", "label": "Round 2 — worldwide deep search incl. vertical series and shorts",
      "local": "sources/round2.json", "required": False},
 ]
