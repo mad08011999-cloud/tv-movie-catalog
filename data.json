@@ -2748,6 +2748,52 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "hypno-sweep-oct9",
+   "label": "Worldwide hypnosis sweep (9 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/hypno-sweep-oct9.json",
+   "description": "Hand-curated sweep of 9 Oct 2026 across Indian platforms (Hotstar, ZEE5, Sony LIV, Dangal, SunNXT), US/Brazilian soaps and adult/erotic titles. Only titles not already in the catalog are listed; the great majority of leads were already present. Pregnancy and children fields use 'unknown/not stated' where plot sources are silent. Non-explicit.",
+   "dropped": [
+    {
+     "title": "Bindiya Sarkar",
+     "reason": "hypnotised character is male"
+    },
+    {
+     "title": "Hello Pratibha",
+     "reason": "hypnotised character is male"
+    },
+    {
+     "title": "Saravanan Meenatchi",
+     "reason": "hypnotised character is male"
+    },
+    {
+     "title": "Ishq Ki Dastaan – Naagmani (Dangal)",
+     "reason": "sources only say the witch can hypnotise; no specific hypnotised-woman scene verified"
+    },
+    {
+     "title": "Hungry Hypnotist (1971)",
+     "reason": "synopsis does not identify a hypnotised woman"
+    },
+    {
+     "title": "Hypnotic Sensations (1985)",
+     "reason": "hypnotherapist and assistant; no hypnotised woman identified"
+    },
+    {
+     "title": "Tulasi Dalam family",
+     "reason": "hypnotised target is a child"
+    },
+    {
+     "title": "Hypnotic (Thai 2025)",
+     "reason": "heroine is the hypnotist, already catalogued"
+    }
+   ],
+   "check": {
+    "raw_count": 8,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -2777,10 +2823,11 @@
   "mainstream-erotic": 102,
   "open-sites-hypnosis": 1,
   "hypnotized-marriage": 36,
-  "no-link-additions": 40
+  "no-link-additions": 40,
+  "hypno-sweep-oct9": 8
  },
- "raw_total": 5191,
- "entry_count": 2610,
+ "raw_total": 5199,
+ "entry_count": 2618,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -2798,7 +2845,7 @@
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 235
+   "entry_count": 238
   },
   {
    "key": "walkin",
@@ -2870,7 +2917,7 @@
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 132
+   "entry_count": 134
   },
   {
    "key": "hypnotized-to-marry",
@@ -2900,7 +2947,7 @@
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 578
+   "entry_count": 580
   },
   {
    "key": "wife",
@@ -2978,7 +3025,7 @@
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 103
+   "entry_count": 104
   },
   {
    "key": "mom-partner-control",
@@ -388514,6 +388561,624 @@
      "evidence": "single-source lead; Popeye cartoon"
     }
    }
+  },
+  {
+   "id": 2613,
+   "title": "Nojor",
+   "subtitle": "",
+   "year": "2019",
+   "meta": "TV serial · Star Jalsha / Disney+ Hotstar · India · Bengali",
+   "mechanism": "Hypnosis by a daini (witch)",
+   "confidence_flag": "Medium · Wikipedia plot",
+   "summary": "Indu, the younger daughter of the monster-hunter family, is hypnotised by the daini Maya, which lets Maya release the evil spirit Rhimjhim and plot against the lead couple.",
+   "character": "",
+   "provenance": "Worldwide hypnosis sweep (Indian platforms, soaps, adult/erotic), 9 Oct 2026 PT (adult women only; non-explicit; unknowns marked not stated)",
+   "note": "",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "Indu is not pregnant in the plot summary (the heroine Ishani, who is not the hypnotised woman, becomes pregnant and gives birth later in the series).",
+   "kids_status": "no",
+   "kids_note": "Indu is a young unmarried woman with no children.",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "format": "tv",
+   "categories": [
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Nojor"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypno-sweep-oct9"
+   ],
+   "source_records": [
+    "hypno-sweep-oct9:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-sweep-oct9:1": {
+     "title": "Nojor",
+     "year": "2019",
+     "match_title": "Nojor",
+     "match_year": "2019",
+     "format": "tv",
+     "meta": "TV serial · Star Jalsha / Disney+ Hotstar · India · Bengali",
+     "mechanism": "Hypnosis by a daini (witch)",
+     "confidence_flag": "Medium · Wikipedia plot",
+     "summary": "Indu, the younger daughter of the monster-hunter family, is hypnotised by the daini Maya, which lets Maya release the evil spirit Rhimjhim and plot against the lead couple.",
+     "categories": [
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Nojor"
+      }
+     ],
+     "provenance": "Worldwide hypnosis sweep (Indian platforms, soaps, adult/erotic), 9 Oct 2026 PT (adult women only; non-explicit; unknowns marked not stated)",
+     "group": "India — Hotstar / Zee-Star serials (Oct 2026 sweep)",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "Indu is not pregnant in the plot summary (the heroine Ishani, who is not the hypnotised woman, becomes pregnant and gives birth later in the series).",
+     "kids_status": "no",
+     "kids_note": "Indu is a young unmarried woman with no children.",
+     "note": "",
+     "kids_together": "no",
+     "pregnant_end": "no"
+    }
+   }
+  },
+  {
+   "id": 2614,
+   "title": "Tujhse Hai Raabta",
+   "subtitle": "",
+   "year": "2018–2020",
+   "meta": "TV serial · Zee TV (streams on ZEE5) · India · Hindi",
+   "mechanism": "Hypnosis attempt that lands on the wrong person",
+   "confidence_flag": "Medium · episode preview report (single source)",
+   "summary": "Malhar tries to hypnotise Atharva, who has regressed to a child-like state, but Kalyani is hypnotised instead and starts acting like Atharva.",
+   "character": "",
+   "provenance": "Worldwide hypnosis sweep (Indian platforms, soaps, adult/erotic), 9 Oct 2026 PT (adult women only; non-explicit; unknowns marked not stated)",
+   "note": "Uncertain: single preview report (July 2019); the outcome of the hypnosis scene is not stated.",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not stated in the source found for this storyline.",
+   "kids_status": "unknown",
+   "kids_note": "Not stated in the source found; the child in the storyline (Moksh/Pillu) is a ward in a custody dispute, not stated as her own child.",
+   "kids_together": "not stated",
+   "pregnant_end": "unknown",
+   "format": "tv",
+   "categories": [
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "IWMBuzz",
+     "url": "https://www.iwmbuzz.com/television/spoilers/tujhse-hai-raabta-kalyani-hypnotized-act-like-atharva/2019/07/25"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypno-sweep-oct9"
+   ],
+   "source_records": [
+    "hypno-sweep-oct9:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-sweep-oct9:2": {
+     "title": "Tujhse Hai Raabta",
+     "year": "2018–2020",
+     "match_title": "Tujhse Hai Raabta",
+     "match_year": "2018–2020",
+     "format": "tv",
+     "meta": "TV serial · Zee TV (streams on ZEE5) · India · Hindi",
+     "mechanism": "Hypnosis attempt that lands on the wrong person",
+     "confidence_flag": "Medium · episode preview report (single source)",
+     "summary": "Malhar tries to hypnotise Atharva, who has regressed to a child-like state, but Kalyani is hypnotised instead and starts acting like Atharva.",
+     "categories": [
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "IWMBuzz",
+       "url": "https://www.iwmbuzz.com/television/spoilers/tujhse-hai-raabta-kalyani-hypnotized-act-like-atharva/2019/07/25"
+      }
+     ],
+     "provenance": "Worldwide hypnosis sweep (Indian platforms, soaps, adult/erotic), 9 Oct 2026 PT (adult women only; non-explicit; unknowns marked not stated)",
+     "group": "India — Zee TV / ZEE5 serials (Oct 2026 sweep)",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Not stated in the source found for this storyline.",
+     "kids_status": "unknown",
+     "kids_note": "Not stated in the source found; the child in the storyline (Moksh/Pillu) is a ward in a custody dispute, not stated as her own child.",
+     "note": "Uncertain: single preview report (July 2019); the outcome of the hypnosis scene is not stated.",
+     "kids_together": "not stated",
+     "pregnant_end": "unknown"
+    }
+   }
+  },
+  {
+   "id": 2615,
+   "title": "As the World Turns",
+   "subtitle": "",
+   "year": "2009–10",
+   "meta": "TV soap opera · CBS · USA (Mick Dante storyline)",
+   "mechanism": "Hypnosis plus an injected drug",
+   "confidence_flag": "Medium · episode recap",
+   "summary": "Mick, who claims a serum can help infertile Emily conceive, hypnotises her into saying she wants to have his baby, then injects her; she later breaks free and tells her husband Paul that Mick brainwashed her.",
+   "character": "",
+   "provenance": "Worldwide hypnosis sweep (Indian platforms, soaps, adult/erotic), 9 Oct 2026 PT (adult women only; non-explicit; unknowns marked not stated)",
+   "note": "Uncertain: arc dates (late 2009 to 2010) come from a secondary summary; kids and pregnancy fields rest on the two recaps only.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "Emily is preparing for IVF (eggs harvested) in this arc; no pregnancy is shown in the recaps read.",
+   "kids_status": "no",
+   "kids_note": "Emily is trying to conceive and is described as infertile; no existing children are mentioned in the recaps read.",
+   "kids_together": "no",
+   "married": "yes",
+   "married_note": "Emily is married to Paul",
+   "pregnant_end": "no",
+   "format": "tv",
+   "categories": [
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Soaps.com recap",
+     "url": "https://soaps.sheknows.com/as-the-world-turns/recaps/8048/ive-been-brainwashed/"
+    },
+    {
+     "label": "Soaps.com recap (Mick arc)",
+     "url": "https://soaps.sheknows.com/as-the-world-turns/recaps/7606/the-fountain-of-youth/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypno-sweep-oct9"
+   ],
+   "source_records": [
+    "hypno-sweep-oct9:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-sweep-oct9:3": {
+     "title": "As the World Turns",
+     "year": "2009–10",
+     "match_title": "As the World Turns",
+     "match_year": "2009–10",
+     "format": "tv",
+     "meta": "TV soap opera · CBS · USA (Mick Dante storyline)",
+     "mechanism": "Hypnosis plus an injected drug",
+     "confidence_flag": "Medium · episode recap",
+     "summary": "Mick, who claims a serum can help infertile Emily conceive, hypnotises her into saying she wants to have his baby, then injects her; she later breaks free and tells her husband Paul that Mick brainwashed her.",
+     "categories": [
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Soaps.com recap",
+       "url": "https://soaps.sheknows.com/as-the-world-turns/recaps/8048/ive-been-brainwashed/"
+      },
+      {
+       "label": "Soaps.com recap (Mick arc)",
+       "url": "https://soaps.sheknows.com/as-the-world-turns/recaps/7606/the-fountain-of-youth/"
+      }
+     ],
+     "provenance": "Worldwide hypnosis sweep (Indian platforms, soaps, adult/erotic), 9 Oct 2026 PT (adult women only; non-explicit; unknowns marked not stated)",
+     "group": "US daytime soaps (Oct 2026 sweep)",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "Emily is preparing for IVF (eggs harvested) in this arc; no pregnancy is shown in the recaps read.",
+     "kids_status": "no",
+     "kids_note": "Emily is trying to conceive and is described as infertile; no existing children are mentioned in the recaps read.",
+     "note": "Uncertain: arc dates (late 2009 to 2010) come from a secondary summary; kids and pregnancy fields rest on the two recaps only.",
+     "kids_together": "no",
+     "pregnant_end": "no",
+     "married": "yes",
+     "married_note": "Emily is married to Paul"
+    }
+   }
+  },
+  {
+   "id": 2616,
+   "title": "General Hospital",
+   "subtitle": "",
+   "year": "1981–82",
+   "meta": "TV soap opera · ABC · USA (David Gray storyline)",
+   "mechanism": "Hypnosis",
+   "confidence_flag": "Medium · secondary summary (single source)",
+   "summary": "David Gray, hunting the Treasures of Malkuth, hypnotises Laura Spencer after a mistaken identity and sends her out to sea, where she is taken by the Cassadines and believed drowned.",
+   "character": "",
+   "provenance": "Worldwide hypnosis sweep (Indian platforms, soaps, adult/erotic), 9 Oct 2026 PT (adult women only; non-explicit; unknowns marked not stated)",
+   "note": "Uncertain: single secondary summary; pregnancy and children not verified.",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not stated in the sources found.",
+   "kids_status": "unknown",
+   "kids_note": "Not stated in the sources found.",
+   "kids_together": "not stated",
+   "pregnant_end": "unknown",
+   "format": "tv",
+   "categories": [
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Soaps.com GH poll",
+     "url": "https://soaps.sheknows.com/general-hospital/news/40137/throwback-thursday-gh-poll-hypnotizing/"
+    },
+    {
+     "label": "General Hospital Wiki",
+     "url": "https://general-hospital.fandom.com/wiki/David_Grey_(Paul_Rossilli)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypno-sweep-oct9"
+   ],
+   "source_records": [
+    "hypno-sweep-oct9:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-sweep-oct9:4": {
+     "title": "General Hospital",
+     "year": "1981–82",
+     "match_title": "General Hospital",
+     "match_year": "1981–82",
+     "format": "tv",
+     "meta": "TV soap opera · ABC · USA (David Gray storyline)",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · secondary summary (single source)",
+     "summary": "David Gray, hunting the Treasures of Malkuth, hypnotises Laura Spencer after a mistaken identity and sends her out to sea, where she is taken by the Cassadines and believed drowned.",
+     "categories": [
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Soaps.com GH poll",
+       "url": "https://soaps.sheknows.com/general-hospital/news/40137/throwback-thursday-gh-poll-hypnotizing/"
+      },
+      {
+       "label": "General Hospital Wiki",
+       "url": "https://general-hospital.fandom.com/wiki/David_Grey_(Paul_Rossilli)"
+      }
+     ],
+     "provenance": "Worldwide hypnosis sweep (Indian platforms, soaps, adult/erotic), 9 Oct 2026 PT (adult women only; non-explicit; unknowns marked not stated)",
+     "group": "US daytime soaps (Oct 2026 sweep)",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Not stated in the sources found.",
+     "kids_status": "unknown",
+     "kids_note": "Not stated in the sources found.",
+     "note": "Uncertain: single secondary summary; pregnancy and children not verified.",
+     "kids_together": "not stated",
+     "pregnant_end": "unknown"
+    }
+   }
+  },
+  {
+   "id": 2617,
+   "title": "The Love Machine",
+   "subtitle": "",
+   "year": "2016",
+   "meta": "Feature film · USA · adult erotic horror/thriller",
+   "mechanism": "Hypnotic programming via a 'Love Machine'",
+   "confidence_flag": "Medium · TMDB synopsis",
+   "summary": "Women seeking therapy from a relationship counsellor are programmed, via the Love Machine, to kill their partners when a hypnotic trigger fires.",
+   "character": "",
+   "provenance": "Worldwide hypnosis sweep (Indian platforms, soaps, adult/erotic), 9 Oct 2026 PT (adult women only; non-explicit; unknowns marked not stated)",
+   "note": "Adult-themed title; cast ratings not verified. Cataloged factually only.",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "Synopsis does not mention pregnancy.",
+   "kids_status": "not stated",
+   "kids_note": "Synopsis does not mention children.",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "adult": "yes",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "TMDB",
+     "url": "https://www.themoviedb.org/movie/419590-the-love-machine"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypno-sweep-oct9"
+   ],
+   "source_records": [
+    "hypno-sweep-oct9:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-sweep-oct9:5": {
+     "title": "The Love Machine",
+     "year": "2016",
+     "match_title": "The Love Machine",
+     "match_year": "2016",
+     "format": "movie",
+     "meta": "Feature film · USA · adult erotic horror/thriller",
+     "mechanism": "Hypnotic programming via a 'Love Machine'",
+     "confidence_flag": "Medium · TMDB synopsis",
+     "summary": "Women seeking therapy from a relationship counsellor are programmed, via the Love Machine, to kill their partners when a hypnotic trigger fires.",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "TMDB",
+       "url": "https://www.themoviedb.org/movie/419590-the-love-machine"
+      }
+     ],
+     "provenance": "Worldwide hypnosis sweep (Indian platforms, soaps, adult/erotic), 9 Oct 2026 PT (adult women only; non-explicit; unknowns marked not stated)",
+     "group": "Adult / erotic additions (Oct 2026 sweep)",
+     "pregnancy_outcome": "not stated",
+     "pregnancy_note": "Synopsis does not mention pregnancy.",
+     "kids_status": "not stated",
+     "kids_note": "Synopsis does not mention children.",
+     "note": "Adult-themed title; cast ratings not verified. Cataloged factually only.",
+     "adult": "yes",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated"
+    }
+   }
+  },
+  {
+   "id": 2618,
+   "title": "Insatiable Desires",
+   "subtitle": "",
+   "year": "2003",
+   "meta": "Feature film · USA · adult erotic",
+   "mechanism": "Group hypnotherapy",
+   "confidence_flag": "Medium · TMDB synopsis",
+   "summary": "Dr. Karin Clemmons runs group hypnotherapy with patients Tania and Justin to help them explore fantasies; the sessions become increasingly charged.",
+   "character": "",
+   "provenance": "Worldwide hypnosis sweep (Indian platforms, soaps, adult/erotic), 9 Oct 2026 PT (adult women only; non-explicit; unknowns marked not stated)",
+   "note": "Adult-themed title; cataloged factually only. 67 min.",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "Synopsis does not mention pregnancy.",
+   "kids_status": "not stated",
+   "kids_note": "Synopsis does not mention children.",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "adult": "yes",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "TMDB",
+     "url": "https://www.themoviedb.org/movie/195665-insatiable-desires"
+    },
+    {
+     "label": "Letterboxd",
+     "url": "https://letterboxd.com/film/insatiable-desires/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypno-sweep-oct9"
+   ],
+   "source_records": [
+    "hypno-sweep-oct9:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-sweep-oct9:6": {
+     "title": "Insatiable Desires",
+     "year": "2003",
+     "match_title": "Insatiable Desires",
+     "match_year": "2003",
+     "format": "movie",
+     "meta": "Feature film · USA · adult erotic",
+     "mechanism": "Group hypnotherapy",
+     "confidence_flag": "Medium · TMDB synopsis",
+     "summary": "Dr. Karin Clemmons runs group hypnotherapy with patients Tania and Justin to help them explore fantasies; the sessions become increasingly charged.",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "TMDB",
+       "url": "https://www.themoviedb.org/movie/195665-insatiable-desires"
+      },
+      {
+       "label": "Letterboxd",
+       "url": "https://letterboxd.com/film/insatiable-desires/"
+      }
+     ],
+     "provenance": "Worldwide hypnosis sweep (Indian platforms, soaps, adult/erotic), 9 Oct 2026 PT (adult women only; non-explicit; unknowns marked not stated)",
+     "group": "Adult / erotic additions (Oct 2026 sweep)",
+     "pregnancy_outcome": "not stated",
+     "pregnancy_note": "Synopsis does not mention pregnancy.",
+     "kids_status": "not stated",
+     "kids_note": "Synopsis does not mention children.",
+     "note": "Adult-themed title; cataloged factually only. 67 min.",
+     "adult": "yes",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated"
+    }
+   }
+  },
+  {
+   "id": 2619,
+   "title": "Springtime for Dr. Mesmer",
+   "subtitle": "",
+   "year": "",
+   "meta": "Direct-to-video · USA · adult erotic (Dr. Mesmer series)",
+   "mechanism": "Hypnosis by Dr. Mesmer",
+   "confidence_flag": "Low · official page only, year not given",
+   "summary": "Dr. Mesmer hypnotises a woman to seduce her lover and later conditions her to be obedient.",
+   "character": "",
+   "provenance": "Worldwide hypnosis sweep (Indian platforms, soaps, adult/erotic), 9 Oct 2026 PT (adult women only; non-explicit; unknowns marked not stated)",
+   "note": "Uncertain: release year not found (official page shows a placeholder date); plot taken from a search summary of the official page.",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "Not stated.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated.",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "adult": "yes",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "Steve Steele Presents",
+     "url": "https://stevesteelepresents.com/springtime/comingsoon.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypno-sweep-oct9"
+   ],
+   "source_records": [
+    "hypno-sweep-oct9:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-sweep-oct9:7": {
+     "title": "Springtime for Dr. Mesmer",
+     "year": "",
+     "match_title": "Springtime for Dr. Mesmer",
+     "match_year": "",
+     "format": "movie",
+     "meta": "Direct-to-video · USA · adult erotic (Dr. Mesmer series)",
+     "mechanism": "Hypnosis by Dr. Mesmer",
+     "confidence_flag": "Low · official page only, year not given",
+     "summary": "Dr. Mesmer hypnotises a woman to seduce her lover and later conditions her to be obedient.",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Steve Steele Presents",
+       "url": "https://stevesteelepresents.com/springtime/comingsoon.html"
+      }
+     ],
+     "provenance": "Worldwide hypnosis sweep (Indian platforms, soaps, adult/erotic), 9 Oct 2026 PT (adult women only; non-explicit; unknowns marked not stated)",
+     "group": "Adult / erotic additions (Oct 2026 sweep)",
+     "pregnancy_outcome": "not stated",
+     "pregnancy_note": "Not stated.",
+     "kids_status": "not stated",
+     "kids_note": "Not stated.",
+     "note": "Uncertain: release year not found (official page shows a placeholder date); plot taken from a search summary of the official page.",
+     "adult": "yes",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated"
+    }
+   }
+  },
+  {
+   "id": 2620,
+   "title": "O Outro Lado do Paraíso",
+   "subtitle": "",
+   "year": "2017–18",
+   "meta": "TV telenovela · Globo · Brazil · Portuguese",
+   "mechanism": "Hypnotic regression session (therapeutic)",
+   "confidence_flag": "Medium · news reports",
+   "summary": "Laura (Bella Piero) undergoes hypnosis/memory regression with Adriana and recalls that her stepfather, the police chief Vinícius, abused her as a child.",
+   "character": "",
+   "provenance": "Worldwide hypnosis sweep (Indian platforms, soaps, adult/erotic), 9 Oct 2026 PT (adult women only; non-explicit; unknowns marked not stated)",
+   "note": "Uncertain: therapeutic hypnosis rather than hostile; pregnancy and children not verified; the abuse backstory is only noted, not described.",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not stated in the reports read.",
+   "kids_status": "unknown",
+   "kids_note": "Not stated in the reports read.",
+   "kids_together": "not stated",
+   "pregnant_end": "unknown",
+   "format": "tv",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "OFuxico",
+     "url": "https://ofuxico.com.br/noticias/hoje-em-o-outro-lado-do-paraiso-laura-e-hipnotizada-por-adriana/"
+    },
+    {
+     "label": "CLAUDIA",
+     "url": "https://claudia.abril.com.br/famosos/regressao-de-laura-em-o-outro-lado-do-paraiso-vira-polemica/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypno-sweep-oct9"
+   ],
+   "source_records": [
+    "hypno-sweep-oct9:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-sweep-oct9:8": {
+     "title": "O Outro Lado do Paraíso",
+     "year": "2017–18",
+     "match_title": "O Outro Lado do Paraíso",
+     "match_year": "2017–18",
+     "format": "tv",
+     "meta": "TV telenovela · Globo · Brazil · Portuguese",
+     "mechanism": "Hypnotic regression session (therapeutic)",
+     "confidence_flag": "Medium · news reports",
+     "summary": "Laura (Bella Piero) undergoes hypnosis/memory regression with Adriana and recalls that her stepfather, the police chief Vinícius, abused her as a child.",
+     "categories": [
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "OFuxico",
+       "url": "https://ofuxico.com.br/noticias/hoje-em-o-outro-lado-do-paraiso-laura-e-hipnotizada-por-adriana/"
+      },
+      {
+       "label": "CLAUDIA",
+       "url": "https://claudia.abril.com.br/famosos/regressao-de-laura-em-o-outro-lado-do-paraiso-vira-polemica/"
+      }
+     ],
+     "provenance": "Worldwide hypnosis sweep (Indian platforms, soaps, adult/erotic), 9 Oct 2026 PT (adult women only; non-explicit; unknowns marked not stated)",
+     "group": "Worldwide TV / telenovela additions (Oct 2026 sweep)",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Not stated in the reports read.",
+     "kids_status": "unknown",
+     "kids_note": "Not stated in the reports read.",
+     "note": "Uncertain: therapeutic hypnosis rather than hostile; pregnancy and children not verified; the abuse backstory is only noted, not described.",
+     "kids_together": "not stated",
+     "pregnant_end": "unknown"
+    }
+   }
   }
  ],
  "sections": [
@@ -388950,7 +389615,8 @@
     "hypnosis-assault",
     "hypnosis-assault-loose",
     "open-sites-hypnosis",
-    "no-link-additions"
+    "no-link-additions",
+    "hypno-sweep-oct9"
    ],
    "groups": [
     {
@@ -391808,6 +392474,25 @@
       }
      ],
      "from_source": "no-link-additions"
+    },
+    {
+     "title": "Adult / erotic additions (Oct 2026 sweep)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2618,
+       "from_source": "hypno-sweep-oct9"
+      },
+      {
+       "id": 2617,
+       "from_source": "hypno-sweep-oct9"
+      },
+      {
+       "id": 2619,
+       "from_source": "hypno-sweep-oct9"
+      }
+     ],
+     "from_source": "hypno-sweep-oct9"
     }
    ],
    "declared_count_by_source": {
@@ -391821,7 +392506,8 @@
     "hypnosis-assault": null,
     "hypnosis-assault-loose": null,
     "open-sites-hypnosis": null,
-    "no-link-additions": null
+    "no-link-additions": null,
+    "hypno-sweep-oct9": null
    }
   },
   {
@@ -396259,7 +396945,8 @@
     "mother-kids-hypnosis",
     "hypnosis-assault",
     "hypnosis-assault-loose",
-    "royal-hypnosis-loose"
+    "royal-hypnosis-loose",
+    "hypno-sweep-oct9"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 41,
@@ -396271,7 +396958,8 @@
     "mother-kids-hypnosis": null,
     "hypnosis-assault": null,
     "hypnosis-assault-loose": null,
-    "royal-hypnosis-loose": null
+    "royal-hypnosis-loose": null,
+    "hypno-sweep-oct9": null
    },
    "groups": [
     {
@@ -397076,6 +397764,28 @@
       }
      ],
      "from_source": "royal-hypnosis-loose"
+    },
+    {
+     "title": "India — Hotstar / Zee-Star serials (Oct 2026 sweep)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2613,
+       "from_source": "hypno-sweep-oct9"
+      }
+     ],
+     "from_source": "hypno-sweep-oct9"
+    },
+    {
+     "title": "India — Zee TV / ZEE5 serials (Oct 2026 sweep)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2614,
+       "from_source": "hypno-sweep-oct9"
+      }
+     ],
+     "from_source": "hypno-sweep-oct9"
     }
    ]
   },
@@ -398018,7 +398728,8 @@
     "mother-kids-hypnosis",
     "hypno-leftovers",
     "hypnosis-assault",
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "hypno-sweep-oct9"
    ],
    "groups": [
     {
@@ -401835,6 +402546,21 @@
       }
      ],
      "from_source": "hypnosis-assault-loose"
+    },
+    {
+     "title": "US daytime soaps (Oct 2026 sweep)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2615,
+       "from_source": "hypno-sweep-oct9"
+      },
+      {
+       "id": 2616,
+       "from_source": "hypno-sweep-oct9"
+      }
+     ],
+     "from_source": "hypno-sweep-oct9"
     }
    ],
    "declared_count_by_source": {
@@ -401847,7 +402573,8 @@
     "mother-kids-hypnosis": null,
     "hypno-leftovers": null,
     "hypnosis-assault": null,
-    "hypnosis-assault-loose": null
+    "hypnosis-assault-loose": null,
+    "hypno-sweep-oct9": null
    }
   },
   {
@@ -407310,7 +408037,8 @@
     "mother-kids-hypnosis",
     "hypno-leftovers",
     "hypnosis-assault",
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "hypno-sweep-oct9"
    ],
    "groups": [
     {
@@ -408222,6 +408950,17 @@
       }
      ],
      "from_source": "hypnosis-assault-loose"
+    },
+    {
+     "title": "Worldwide TV / telenovela additions (Oct 2026 sweep)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2620,
+       "from_source": "hypno-sweep-oct9"
+      }
+     ],
+     "from_source": "hypno-sweep-oct9"
     }
    ],
    "declared_count_by_source": {
@@ -408234,7 +408973,8 @@
     "mother-kids-hypnosis": null,
     "hypno-leftovers": null,
     "hypnosis-assault": null,
-    "hypnosis-assault-loose": null
+    "hypnosis-assault-loose": null,
+    "hypno-sweep-oct9": null
    }
   },
   {

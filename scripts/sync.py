@@ -96,6 +96,8 @@ SOURCES = [
      "local": "sources/hypnotized-marriage.json", "required": False},
     {"id": "no-link-additions", "label": "No-link additions + adult/erotic pass",
      "local": "sources/no-link-additions.json", "required": False},
+    {"id": "hypno-sweep-oct9", "label": "Worldwide hypnosis sweep (9 Oct 2026)",
+     "local": "sources/hypno-sweep-oct9.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
