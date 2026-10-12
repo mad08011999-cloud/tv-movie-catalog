@@ -841,8 +841,9 @@ def apply_merge_rules(groups, rules):
 
 
 def loose_title(t):
-    """Punctuation-insensitive title key ("Please, Don't Touch Me" == "Please Don't Touch Me")."""
-    return re.sub(r"\W+", " ", unicodedata.normalize("NFKC", t or "").casefold()).strip()
+    """Punctuation-, case- and whitespace-insensitive title key ("Please, Don't Touch Me" == "Please Don't Touch Me",
+    "7 Aum Arivu" == "7aum Arivu")."""
+    return re.sub(r"[\W_]+", "", unicodedata.normalize("NFKC", t or "").casefold())
 
 
 def group_primary(g):

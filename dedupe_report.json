@@ -18782,6 +18782,13 @@
      "year": "2011"
     },
     {
+     "rid": "india-catalog:6",
+     "title": "7aum Arivu",
+     "subtitle": "",
+     "year": "2011",
+     "matched_by": "same title+year"
+    },
+    {
      "rid": "worldwide-hypnosis:22",
      "title": "7 Aum Arivu",
      "subtitle": "",
@@ -42364,6 +42371,12 @@
  ],
  "same_title_year_merges": [
   {
+   "title": "7aum Arivu",
+   "year": "2011",
+   "kept_id": 865,
+   "retired_id": 2218
+  },
+  {
    "title": "Diagnosis: Murder",
    "year": "1993–2001",
    "kept_id": 1131,
@@ -43088,9 +43101,9 @@
   "round2": 11,
   "round3": 17
  },
- "entry_count_after_dedupe": 2544,
+ "entry_count_after_dedupe": 2543,
  "within_source_groups": 3,
  "cross_source_groups": 1799,
  "index_only_records": 57,
- "local_only_records": 331
+ "local_only_records": 330
 }

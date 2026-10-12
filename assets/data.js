@@ -2890,7 +2890,7 @@ window.CATALOG = {
   "round3": 17
  },
  "raw_total": 5252,
- "entry_count": 2544,
+ "entry_count": 2543,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -2980,7 +2980,7 @@ window.CATALOG = {
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 139
+   "entry_count": 138
   },
   {
    "key": "hypnotized-to-marry",
@@ -3010,7 +3010,7 @@ window.CATALOG = {
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 581
+   "entry_count": 580
   },
   {
    "key": "wife",
@@ -152566,10 +152566,12 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
+    "india-catalog",
     "worldwide-hypnosis"
    ],
    "source_records": [
     "xla62ucxbx02u5:874",
+    "india-catalog:6",
     "worldwide-hypnosis:22"
    ],
    "index_only": false,
@@ -152612,6 +152614,40 @@ window.CATALOG = {
     "distinct_story": false
    },
    "merged_from": [
+    {
+     "rid": "india-catalog:6",
+     "source": "india-catalog",
+     "label": "7aum Arivu (2011)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "7aum Arivu",
+     "subtitle": "",
+     "year": "2011",
+     "meta": "Film · India · Tamil",
+     "summary": "Assassin Dong Lee uses hypnotic nokku varmam on a woman to learn the virus-containment plan; she recites it in a trance.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnotic nokku varmam",
+     "confidence_flag": "Medium-high",
+     "categories": [
+      "human",
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/7aum_Arivu"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/7_Aum_Arivu"
+      }
+     ],
+     "distinct_story": true,
+     "matched_by": "same title+year"
+    },
     {
      "rid": "worldwide-hypnosis:22",
      "source": "worldwide-hypnosis",
@@ -152704,8 +152740,35 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "india-catalog:6": {
+     "title": "7aum Arivu",
+     "year": "2011",
+     "format": "movie",
+     "meta": "Film · India · Tamil",
+     "summary": "Assassin Dong Lee uses hypnotic nokku varmam on a woman to learn the virus-containment plan; she recites it in a trance.",
+     "confidence_flag": "Medium-high",
+     "mechanism": "Hypnotic nokku varmam",
+     "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia; Mental Block wiki)",
+     "categories": [
+      "human",
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/7aum_Arivu"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/7_Aum_Arivu"
+      }
+     ]
     }
-   }
+   },
+   "retired_ids": [
+    2218
+   ]
   },
   {
    "id": 866,
@@ -372509,72 +372572,6 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2218,
-   "title": "7aum Arivu",
-   "subtitle": "",
-   "year": "2011",
-   "meta": "Film · India · Tamil",
-   "mechanism": "Hypnotic nokku varmam",
-   "confidence_flag": "Medium-high",
-   "summary": "Assassin Dong Lee uses hypnotic nokku varmam on a woman to learn the virus-containment plan; she recites it in a trance.",
-   "character": "",
-   "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia; Mental Block wiki)",
-   "note": "",
-   "format": "movie",
-   "categories": [
-    "human",
-    "india-control"
-   ],
-   "sources": [
-    {
-     "label": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/7aum_Arivu"
-    },
-    {
-     "label": "Mental Block wiki",
-     "url": "https://mentalblock.miraheze.org/wiki/7_Aum_Arivu"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "india-catalog"
-   ],
-   "source_records": [
-    "india-catalog:6"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "india-catalog:6": {
-     "title": "7aum Arivu",
-     "year": "2011",
-     "format": "movie",
-     "meta": "Film · India · Tamil",
-     "summary": "Assassin Dong Lee uses hypnotic nokku varmam on a woman to learn the virus-containment plan; she recites it in a trance.",
-     "confidence_flag": "Medium-high",
-     "mechanism": "Hypnotic nokku varmam",
-     "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia; Mental Block wiki)",
-     "categories": [
-      "human",
-      "india-control"
-     ],
-     "sources": [
-      {
-       "label": "Wikipedia",
-       "url": "https://en.wikipedia.org/wiki/7aum_Arivu"
-      },
-      {
-       "label": "Mental Block wiki",
-       "url": "https://mentalblock.miraheze.org/wiki/7_Aum_Arivu"
-      }
-     ]
-    }
-   }
-  },
-  {
    "id": 2219,
    "title": "Durgamati",
    "subtitle": "",
@@ -406406,7 +406403,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2218,
+       "id": 865,
        "from_source": "india-catalog"
       },
       {
@@ -406716,10 +406713,6 @@ window.CATALOG = {
      "title": "Worldwide hypnosis research (Sep 2026)",
      "notes": [],
      "items": [
-      {
-       "id": 865,
-       "from_source": "worldwide-hypnosis"
-      },
       {
        "id": 890,
        "from_source": "worldwide-hypnosis"
@@ -410005,10 +409998,6 @@ window.CATALOG = {
      "title": "India-only research additions (Sep 2026)",
      "notes": [],
      "items": [
-      {
-       "id": 2218,
-       "from_source": "india-catalog"
-      },
       {
        "id": 638,
        "from_source": "india-catalog"
