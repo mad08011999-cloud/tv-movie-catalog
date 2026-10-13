@@ -251,7 +251,23 @@ async def capture(page, src):
                 break
             await page.wait_for_timeout(500)
         if not frame:
-            raise RuntimeError("catalog iframe not found on share page (blocked or page changed)")
+            # Content host now 302s to agent.meta.ai unless the request carries a muse.ai
+            # Referer. Sandboxed share iframes sometimes never expose a metaaiusercontent
+            # frame to Playwright; fall back to loading space_url directly with that Referer.
+            space_url = await page.evaluate(r"""() => {
+                const html = document.documentElement.innerHTML;
+                const m = html.match(/"space_url":"([^"]+)"/);
+                return m ? m[1] : null;
+            }""")
+            if not space_url:
+                # Conventional Cloudflare-hosted artifact URL for this share id.
+                space_url = f"https://tv-and-movie-research-catalog-{src['id']}.cf.{CONTENT_HOST}/index.html"
+            await page.goto(space_url, wait_until="networkidle", timeout=90000, referer=src["url"])
+            if CONTENT_HOST not in page.url:
+                raise RuntimeError(
+                    "catalog iframe not found on share page (blocked or page changed); "
+                    f"direct space_url fallback landed on {page.url!r}")
+            frame = page.main_frame
         await frame.wait_for_function(
             "(typeof entries !== 'undefined' && document.querySelectorAll('#grid article.card').length > 0) ||"
             "(typeof categories !== 'undefined' && document.querySelectorAll('article.card').length > 0)",
