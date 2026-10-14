@@ -2821,80 +2821,6 @@ window.CATALOG = {
    "status": "local"
   },
   {
-   "id": "widow-remarry",
-   "label": "Widow/divorcee remarries & pregnant again",
-   "kind": "local",
-   "share_url": "sources/widow-remarry.json",
-   "description": "Adult women with a prior marriage (widowed or divorced) who remarry, or marry the man they are pregnant by, and become pregnant by the new husband. Existing cards are tagged via match_title/match_year. Researched 14 Oct 2026 PT. Records with fewer than 2 independent sources carry fit='loose'.",
-   "dropped": [
-    {
-     "title": "Love Comes Softly",
-     "year": "2003",
-     "reason": "Marty is pregnant by her late husband before the remarriage; her children with Clark are on the 2004 sequel card"
-    },
-    {
-     "title": "The Postman Always Rings Twice",
-     "year": "1981",
-     "reason": "Cora is pregnant but she and Frank do not marry (Wikipedia plot)"
-    },
-    {
-     "title": "Sex Education",
-     "year": "2021",
-     "reason": "Jean is pregnant by Jakob but does not remarry"
-    },
-    {
-     "title": "Mad Men / This Is Us / Six Feet Under",
-     "year": "",
-     "reason": "remarriage without a new pregnancy"
-    },
-    {
-     "title": "Anupamaa",
-     "year": "2020",
-     "reason": "divorcee remarries Anuj; children are adopted, not a pregnancy"
-    },
-    {
-     "title": "Aşk Yeniden",
-     "year": "2015",
-     "reason": "Zeynep had no prior marriage"
-    },
-    {
-     "title": "The Remarried Empress",
-     "year": "2026",
-     "reason": "Navier's pregnancy is confirmed in the novel/webtoon only; not confirmed in the screen adaptation"
-    },
-    {
-     "title": "Middlemarch",
-     "year": "1994",
-     "reason": "widowed Dorothea marries Ladislaw, but no on-screen pregnancy confirmed"
-    },
-    {
-     "title": "Boardwalk Empire",
-     "year": "2010",
-     "reason": "Margaret's later pregnancy is by a man other than her new husband"
-    },
-    {
-     "title": "Rani's story (Reena Kapoor serial)",
-     "year": "",
-     "reason": "Pari was already pregnant by her late husband before remarrying; serial title unconfirmed"
-    },
-    {
-     "title": "Pearl Harbor",
-     "year": "2001",
-     "reason": "Evelyn had no prior marriage"
-    },
-    {
-     "title": "Desperate Housewives (Lynette), Look Who's Talking Too, Tutti pazzi per amore, Athmasakhi, Emmerdale, The Young and the Restless, María Isabel, Abrázame muy fuerte, Ugly Betty, Binbir Gece, When the Camellia Blooms, The Legend of Paul and Paula",
-     "year": "",
-     "reason": "existing 'family' cards where no prior marriage ending in widowhood or divorce is stated"
-    }
-   ],
-   "check": {
-    "raw_count": 33,
-    "ok": true
-   },
-   "status": "local"
-  },
-  {
    "id": "savdhaan-santham-oct9",
    "label": "Savdhaan India / Shantham Papam follow-up (9 Oct 2026)",
    "kind": "local",
@@ -2983,6 +2909,80 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "widow-remarry",
+   "label": "Widow/divorcee remarries & pregnant again",
+   "kind": "local",
+   "share_url": "sources/widow-remarry.json",
+   "description": "Adult women with a prior marriage (widowed or divorced) who remarry, or marry the man they are pregnant by, and become pregnant by the new husband. Existing cards are tagged via match_title/match_year. Researched 14 Oct 2026 PT. Records with fewer than 2 independent sources carry fit='loose'.",
+   "dropped": [
+    {
+     "title": "Love Comes Softly",
+     "year": "2003",
+     "reason": "Marty is pregnant by her late husband before the remarriage; her children with Clark are on the 2004 sequel card"
+    },
+    {
+     "title": "The Postman Always Rings Twice",
+     "year": "1981",
+     "reason": "Cora is pregnant but she and Frank do not marry (Wikipedia plot)"
+    },
+    {
+     "title": "Sex Education",
+     "year": "2021",
+     "reason": "Jean is pregnant by Jakob but does not remarry"
+    },
+    {
+     "title": "Mad Men / This Is Us / Six Feet Under",
+     "year": "",
+     "reason": "remarriage without a new pregnancy"
+    },
+    {
+     "title": "Anupamaa",
+     "year": "2020",
+     "reason": "divorcee remarries Anuj; children are adopted, not a pregnancy"
+    },
+    {
+     "title": "Aşk Yeniden",
+     "year": "2015",
+     "reason": "Zeynep had no prior marriage"
+    },
+    {
+     "title": "The Remarried Empress",
+     "year": "2026",
+     "reason": "Navier's pregnancy is confirmed in the novel/webtoon only; not confirmed in the screen adaptation"
+    },
+    {
+     "title": "Middlemarch",
+     "year": "1994",
+     "reason": "widowed Dorothea marries Ladislaw, but no on-screen pregnancy confirmed"
+    },
+    {
+     "title": "Boardwalk Empire",
+     "year": "2010",
+     "reason": "Margaret's later pregnancy is by a man other than her new husband"
+    },
+    {
+     "title": "Rani's story (Reena Kapoor serial)",
+     "year": "",
+     "reason": "Pari was already pregnant by her late husband before remarrying; serial title unconfirmed"
+    },
+    {
+     "title": "Pearl Harbor",
+     "year": "2001",
+     "reason": "Evelyn had no prior marriage"
+    },
+    {
+     "title": "Desperate Housewives (Lynette), Look Who's Talking Too, Tutti pazzi per amore, Athmasakhi, Emmerdale, The Young and the Restless, María Isabel, Abrázame muy fuerte, Ugly Betty, Binbir Gece, When the Camellia Blooms, The Legend of Paul and Paula",
+     "year": "",
+     "reason": "existing 'family' cards where no prior marriage ending in widowhood or divorce is stated"
+    }
+   ],
+   "check": {
+    "raw_count": 33,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -3014,11 +3014,11 @@ window.CATALOG = {
   "hypnotized-marriage": 36,
   "no-link-additions": 40,
   "hypno-sweep-oct9": 8,
-  "widow-remarry": 33,
   "savdhaan-santham-oct9": 1,
   "widow-divorcee-oct14": 3,
   "round2": 11,
-  "round3": 17
+  "round3": 17,
+  "widow-remarry": 33
  },
  "raw_total": 5302,
  "entry_count": 2561,
@@ -399586,585 +399586,6 @@ window.CATALOG = {
   },
   {
    "id": 2638,
-   "title": "Reign",
-   "subtitle": "",
-   "year": "2013–2017",
-   "meta": "TV series · United States · English",
-   "mechanism": "",
-   "confidence_flag": "5 sources",
-   "summary": "S4E9 'Pulling Strings' — widowed Mary learns she is pregnant by Lord Darnley and marries him; S4E15 'Blood in the Water' (9 Jun 2017) — she gives birth to James.",
-   "character": "Mary Stuart (Adelaide Kane), Lord Darnley (Will Kemp)",
-   "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
-   "note": "Prior marriage: widowed (Francis II, S3). Verified. Sources differ slightly on order (EW: pregnancy found before the wedding).",
-   "kids_status": "no",
-   "kids_together": "yes",
-   "married": "yes",
-   "pregnant_end": "yes",
-   "evidence": "5 sources",
-   "adult": "yes",
-   "format": "TV series",
-   "categories": [
-    "widow-divorcee-remarry-pregnant"
-   ],
-   "sources": [
-    {
-     "label": "EW recap S4E9",
-     "url": "https://ew.com/recap/reign-season-4-episode-9/"
-    },
-    {
-     "label": "TV Guide S4 episodes",
-     "url": "https://www.tvguide.com/tvshows/reign/episodes-season-4/1000051508/"
-    },
-    {
-     "label": "Hidden Remote recap S4E15",
-     "url": "https://hiddenremote.com/2017/06/09/reign-season-4-episode-15-recap-prince-james-finally-arrives/"
-    },
-    {
-     "label": "TVmaze 4x15",
-     "url": "https://www.tvmaze.com/episodes/1146944/reign-4x15-blood-in-the-water"
-    },
-    {
-     "label": "IMDb",
-     "url": "https://www.imdb.com/title/tt2710394/"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "widow-remarry"
-   ],
-   "source_records": [
-    "widow-remarry:10"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "widow-remarry:10": {
-     "title": "Reign",
-     "year": "2013–2017",
-     "format": "TV series",
-     "meta": "TV series · United States · English",
-     "summary": "S4E9 'Pulling Strings' — widowed Mary learns she is pregnant by Lord Darnley and marries him; S4E15 'Blood in the Water' (9 Jun 2017) — she gives birth to James.",
-     "character": "Mary Stuart (Adelaide Kane), Lord Darnley (Will Kemp)",
-     "categories": [
-      "widow-divorcee-remarry-pregnant"
-     ],
-     "sources": [
-      {
-       "label": "EW recap S4E9",
-       "url": "https://ew.com/recap/reign-season-4-episode-9/"
-      },
-      {
-       "label": "TV Guide S4 episodes",
-       "url": "https://www.tvguide.com/tvshows/reign/episodes-season-4/1000051508/"
-      },
-      {
-       "label": "Hidden Remote recap S4E15",
-       "url": "https://hiddenremote.com/2017/06/09/reign-season-4-episode-15-recap-prince-james-finally-arrives/"
-      },
-      {
-       "label": "TVmaze 4x15",
-       "url": "https://www.tvmaze.com/episodes/1146944/reign-4x15-blood-in-the-water"
-      },
-      {
-       "label": "IMDb",
-       "url": "https://www.imdb.com/title/tt2710394/"
-      }
-     ],
-     "married": "yes",
-     "pregnant_end": "yes",
-     "kids_together": "yes",
-     "kids_status": "no",
-     "adult": "yes",
-     "confidence_flag": "5 sources",
-     "evidence": "5 sources",
-     "note": "Prior marriage: widowed (Francis II, S3). Verified. Sources differ slightly on order (EW: pregnancy found before the wedding).",
-     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)"
-    }
-   }
-  },
-  {
-   "id": 2639,
-   "title": "Mary Queen of Scots",
-   "subtitle": "",
-   "year": "2018",
-   "meta": "Film · United Kingdom · English",
-   "mechanism": "",
-   "confidence_flag": "2 sources",
-   "summary": "Widowed Mary returns to Scotland, marries Lord Darnley, and gives birth to son James.",
-   "character": "Mary Stuart (Saoirse Ronan), Henry Darnley (Jack Lowden)",
-   "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
-   "note": "Prior marriage: widowed (Francis II of France). ",
-   "kids_status": "no",
-   "kids_together": "yes",
-   "married": "yes",
-   "pregnant_end": "yes",
-   "evidence": "2 sources",
-   "adult": "yes",
-   "format": "movie",
-   "categories": [
-    "widow-divorcee-remarry-pregnant"
-   ],
-   "sources": [
-    {
-     "label": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/Mary_Queen_of_Scots_(2018_film)"
-    },
-    {
-     "label": "IMDb",
-     "url": "https://www.imdb.com/title/tt2328900/"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "widow-remarry"
-   ],
-   "source_records": [
-    "widow-remarry:11"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "widow-remarry:11": {
-     "title": "Mary Queen of Scots",
-     "year": "2018",
-     "format": "movie",
-     "meta": "Film · United Kingdom · English",
-     "summary": "Widowed Mary returns to Scotland, marries Lord Darnley, and gives birth to son James.",
-     "character": "Mary Stuart (Saoirse Ronan), Henry Darnley (Jack Lowden)",
-     "categories": [
-      "widow-divorcee-remarry-pregnant"
-     ],
-     "sources": [
-      {
-       "label": "Wikipedia",
-       "url": "https://en.wikipedia.org/wiki/Mary_Queen_of_Scots_(2018_film)"
-      },
-      {
-       "label": "IMDb",
-       "url": "https://www.imdb.com/title/tt2328900/"
-      }
-     ],
-     "married": "yes",
-     "pregnant_end": "yes",
-     "kids_together": "yes",
-     "kids_status": "no",
-     "adult": "yes",
-     "confidence_flag": "2 sources",
-     "evidence": "2 sources",
-     "note": "Prior marriage: widowed (Francis II of France). ",
-     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)"
-    }
-   }
-  },
-  {
-   "id": 2640,
-   "title": "The Spanish Princess",
-   "subtitle": "",
-   "year": "2019–2020",
-   "meta": "Miniseries · United States/UK · English",
-   "mechanism": "",
-   "confidence_flag": "2 sources",
-   "summary": "Catherine of Aragon, widowed by Prince Arthur, marries Henry VIII and goes through several on-screen pregnancies.",
-   "character": "Catherine of Aragon (Charlotte Hope), Henry VIII (Ruairi O'Connor)",
-   "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
-   "note": "Prior marriage: widowed (Prince Arthur). ",
-   "kids_status": "no",
-   "kids_together": "yes",
-   "married": "yes",
-   "pregnant_end": "yes",
-   "evidence": "2 sources",
-   "adult": "yes",
-   "format": "TV series",
-   "categories": [
-    "widow-divorcee-remarry-pregnant"
-   ],
-   "sources": [
-    {
-     "label": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/The_Spanish_Princess"
-    },
-    {
-     "label": "IMDb",
-     "url": "https://www.imdb.com/title/tt8417308/"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "widow-remarry"
-   ],
-   "source_records": [
-    "widow-remarry:12"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "widow-remarry:12": {
-     "title": "The Spanish Princess",
-     "year": "2019–2020",
-     "format": "TV series",
-     "meta": "Miniseries · United States/UK · English",
-     "summary": "Catherine of Aragon, widowed by Prince Arthur, marries Henry VIII and goes through several on-screen pregnancies.",
-     "character": "Catherine of Aragon (Charlotte Hope), Henry VIII (Ruairi O'Connor)",
-     "categories": [
-      "widow-divorcee-remarry-pregnant"
-     ],
-     "sources": [
-      {
-       "label": "Wikipedia",
-       "url": "https://en.wikipedia.org/wiki/The_Spanish_Princess"
-      },
-      {
-       "label": "IMDb",
-       "url": "https://www.imdb.com/title/tt8417308/"
-      }
-     ],
-     "married": "yes",
-     "pregnant_end": "yes",
-     "kids_together": "yes",
-     "kids_status": "no",
-     "adult": "yes",
-     "confidence_flag": "2 sources",
-     "evidence": "2 sources",
-     "note": "Prior marriage: widowed (Prince Arthur). ",
-     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)"
-    }
-   }
-  },
-  {
-   "id": 2641,
-   "title": "Becoming Elizabeth",
-   "subtitle": "",
-   "year": "2022",
-   "meta": "TV series · United States/UK · English",
-   "mechanism": "",
-   "confidence_flag": "2 sources",
-   "summary": "Henry VIII's widow Catherine Parr marries Thomas Seymour, learns she is pregnant, and dies after childbirth.",
-   "character": "Catherine Parr (Jessica Raine), Thomas Seymour (Tom Cullen)",
-   "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
-   "note": "Prior marriage: widowed (Henry VIII). ",
-   "kids_status": "no",
-   "kids_together": "yes",
-   "married": "yes",
-   "pregnant_end": "yes",
-   "evidence": "2 sources",
-   "adult": "yes",
-   "format": "TV series",
-   "categories": [
-    "widow-divorcee-remarry-pregnant"
-   ],
-   "sources": [
-    {
-     "label": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/Becoming_Elizabeth"
-    },
-    {
-     "label": "IMDb",
-     "url": "https://www.imdb.com/title/tt11444366/"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "widow-remarry"
-   ],
-   "source_records": [
-    "widow-remarry:13"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "widow-remarry:13": {
-     "title": "Becoming Elizabeth",
-     "year": "2022",
-     "format": "TV series",
-     "meta": "TV series · United States/UK · English",
-     "summary": "Henry VIII's widow Catherine Parr marries Thomas Seymour, learns she is pregnant, and dies after childbirth.",
-     "character": "Catherine Parr (Jessica Raine), Thomas Seymour (Tom Cullen)",
-     "categories": [
-      "widow-divorcee-remarry-pregnant"
-     ],
-     "sources": [
-      {
-       "label": "Wikipedia",
-       "url": "https://en.wikipedia.org/wiki/Becoming_Elizabeth"
-      },
-      {
-       "label": "IMDb",
-       "url": "https://www.imdb.com/title/tt11444366/"
-      }
-     ],
-     "married": "yes",
-     "pregnant_end": "yes",
-     "kids_together": "yes",
-     "kids_status": "no",
-     "adult": "yes",
-     "confidence_flag": "2 sources",
-     "evidence": "2 sources",
-     "note": "Prior marriage: widowed (Henry VIII). ",
-     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)"
-    }
-   }
-  },
-  {
-   "id": 2642,
-   "title": "Grey's Anatomy",
-   "subtitle": "",
-   "year": "2018–2021",
-   "meta": "Medical drama · United States · English",
-   "mechanism": "",
-   "confidence_flag": "4 sources",
-   "summary": "Widowed Teddy Altman (husband Henry died S8) returns in the S14 finale pregnant with Owen Hunt's daughter Allison; Owen proposes in S17E17 and they marry in S18E1 'Here Comes the Sun'.",
-   "character": "Teddy Altman (Kim Raver), Owen Hunt (Kevin McKidd)",
-   "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
-   "note": "Prior marriage: widowed (Henry Burton). Pregnancy and birth precede the wedding by years.",
-   "kids_status": "no",
-   "kids_together": "yes",
-   "married": "yes",
-   "pregnant_end": "yes",
-   "evidence": "4 sources",
-   "adult": "yes",
-   "format": "TV series",
-   "categories": [
-    "widow-divorcee-remarry-pregnant"
-   ],
-   "sources": [
-    {
-     "label": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/Teddy_Altman"
-    },
-    {
-     "label": "Shondaland weddings list",
-     "url": "https://www.shondaland.com/shondaland-series/greys-anatomy/all-the-weddings-from-the-best-to-the-most-disastrous-on-grey-s-anatomy-ranked"
-    },
-    {
-     "label": "TV Insider timeline",
-     "url": "https://www.tvinsider.com/swooon/gallery/greys-anatomy-relationship-timeline-owen-hunt-teddy-altman/"
-    },
-    {
-     "label": "EW S17E17 recap",
-     "url": "https://ew.com/tv/recaps/greys-anatomy-season-17-episode-17/"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "widow-remarry"
-   ],
-   "source_records": [
-    "widow-remarry:15"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "widow-remarry:15": {
-     "title": "Grey's Anatomy",
-     "year": "2018–2021",
-     "format": "TV series",
-     "meta": "Medical drama · United States · English",
-     "summary": "Widowed Teddy Altman (husband Henry died S8) returns in the S14 finale pregnant with Owen Hunt's daughter Allison; Owen proposes in S17E17 and they marry in S18E1 'Here Comes the Sun'.",
-     "character": "Teddy Altman (Kim Raver), Owen Hunt (Kevin McKidd)",
-     "categories": [
-      "widow-divorcee-remarry-pregnant"
-     ],
-     "sources": [
-      {
-       "label": "Wikipedia",
-       "url": "https://en.wikipedia.org/wiki/Teddy_Altman"
-      },
-      {
-       "label": "Shondaland weddings list",
-       "url": "https://www.shondaland.com/shondaland-series/greys-anatomy/all-the-weddings-from-the-best-to-the-most-disastrous-on-grey-s-anatomy-ranked"
-      },
-      {
-       "label": "TV Insider timeline",
-       "url": "https://www.tvinsider.com/swooon/gallery/greys-anatomy-relationship-timeline-owen-hunt-teddy-altman/"
-      },
-      {
-       "label": "EW S17E17 recap",
-       "url": "https://ew.com/tv/recaps/greys-anatomy-season-17-episode-17/"
-      }
-     ],
-     "married": "yes",
-     "pregnant_end": "yes",
-     "kids_together": "yes",
-     "kids_status": "no",
-     "adult": "yes",
-     "confidence_flag": "4 sources",
-     "evidence": "4 sources",
-     "note": "Prior marriage: widowed (Henry Burton). Pregnancy and birth precede the wedding by years.",
-     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)"
-    }
-   }
-  },
-  {
-   "id": 2643,
-   "title": "The Forsyte Saga",
-   "subtitle": "",
-   "year": "2002–2003",
-   "meta": "TV serial · United Kingdom · English",
-   "mechanism": "",
-   "confidence_flag": "2 sources",
-   "summary": "Irene leaves and divorces Soames Forsyte, marries his cousin Young Jolyon, and has their son Jon.",
-   "character": "Irene (Gina McKee), Young Jolyon (Rupert Graves)",
-   "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
-   "note": "Prior marriage: divorced (Soames Forsyte). ",
-   "kids_status": "no",
-   "kids_together": "yes",
-   "married": "yes",
-   "pregnant_end": "yes",
-   "evidence": "2 sources",
-   "adult": "yes",
-   "format": "TV series",
-   "categories": [
-    "widow-divorcee-remarry-pregnant"
-   ],
-   "sources": [
-    {
-     "label": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/The_Forsyte_Saga_(2002_TV_series)"
-    },
-    {
-     "label": "IMDb",
-     "url": "https://www.imdb.com/title/tt0260615/"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "widow-remarry"
-   ],
-   "source_records": [
-    "widow-remarry:16"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "widow-remarry:16": {
-     "title": "The Forsyte Saga",
-     "year": "2002–2003",
-     "format": "TV series",
-     "meta": "TV serial · United Kingdom · English",
-     "summary": "Irene leaves and divorces Soames Forsyte, marries his cousin Young Jolyon, and has their son Jon.",
-     "character": "Irene (Gina McKee), Young Jolyon (Rupert Graves)",
-     "categories": [
-      "widow-divorcee-remarry-pregnant"
-     ],
-     "sources": [
-      {
-       "label": "Wikipedia",
-       "url": "https://en.wikipedia.org/wiki/The_Forsyte_Saga_(2002_TV_series)"
-      },
-      {
-       "label": "IMDb",
-       "url": "https://www.imdb.com/title/tt0260615/"
-      }
-     ],
-     "married": "yes",
-     "pregnant_end": "yes",
-     "kids_together": "yes",
-     "kids_status": "no",
-     "adult": "yes",
-     "confidence_flag": "2 sources",
-     "evidence": "2 sources",
-     "note": "Prior marriage: divorced (Soames Forsyte). ",
-     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)"
-    }
-   }
-  },
-  {
-   "id": 2644,
-   "title": "The Postman Always Rings Twice",
-   "subtitle": "",
-   "year": "1946",
-   "meta": "Film noir · United States · English",
-   "mechanism": "",
-   "confidence_flag": "2 sources",
-   "summary": "After her husband Nick is killed, Cora marries Frank so neither can testify against the other; she later tells him she is pregnant, shortly before a fatal car crash.",
-   "character": "Cora (Lana Turner), Frank Chambers (John Garfield)",
-   "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
-   "note": "Prior marriage: widowed (Nick Smith, killed in their plot). She dies while pregnant.",
-   "kids_status": "no",
-   "kids_together": "no",
-   "married": "yes",
-   "pregnant_end": "yes",
-   "evidence": "2 sources",
-   "adult": "yes",
-   "format": "movie",
-   "categories": [
-    "widow-divorcee-remarry-pregnant"
-   ],
-   "sources": [
-    {
-     "label": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/The_Postman_Always_Rings_Twice_(1946_film)"
-    },
-    {
-     "label": "IMDb",
-     "url": "https://www.imdb.com/title/tt0038854/"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "widow-remarry"
-   ],
-   "source_records": [
-    "widow-remarry:17"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "widow-remarry:17": {
-     "title": "The Postman Always Rings Twice",
-     "year": "1946",
-     "format": "movie",
-     "meta": "Film noir · United States · English",
-     "summary": "After her husband Nick is killed, Cora marries Frank so neither can testify against the other; she later tells him she is pregnant, shortly before a fatal car crash.",
-     "character": "Cora (Lana Turner), Frank Chambers (John Garfield)",
-     "categories": [
-      "widow-divorcee-remarry-pregnant"
-     ],
-     "sources": [
-      {
-       "label": "Wikipedia",
-       "url": "https://en.wikipedia.org/wiki/The_Postman_Always_Rings_Twice_(1946_film)"
-      },
-      {
-       "label": "IMDb",
-       "url": "https://www.imdb.com/title/tt0038854/"
-      }
-     ],
-     "married": "yes",
-     "pregnant_end": "yes",
-     "kids_together": "no",
-     "kids_status": "no",
-     "adult": "yes",
-     "confidence_flag": "2 sources",
-     "evidence": "2 sources",
-     "note": "Prior marriage: widowed (Nick Smith, killed in their plot). She dies while pregnant.",
-     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)"
-    }
-   }
-  },
-  {
-   "id": 2645,
    "title": "Savdhaan India — \"A Hypnotist or a Killer?\" (S68 E46; Madhuri)",
    "subtitle": "",
    "year": "c. Sep 2012",
@@ -400244,7 +399665,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2646,
+   "id": 2639,
    "title": "The Guilt of Janet Ames",
    "subtitle": "",
    "year": "1946",
@@ -400317,7 +399738,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2647,
+   "id": 2640,
    "title": "The Ghost and Mrs. Muir",
    "subtitle": "",
    "year": "1947",
@@ -400398,7 +399819,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2648,
+   "id": 2641,
    "title": "Days of Our Lives — \"The Dragon\" storyline (Emma Donovan)",
    "subtitle": "",
    "year": "1985",
@@ -400472,7 +399893,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2649,
+   "id": 2642,
    "title": "Love in Oblivion",
    "subtitle": "",
    "year": "2026",
@@ -400571,7 +399992,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2650,
+   "id": 2643,
    "title": "Passione",
    "subtitle": "Berilo and the 'sexual hypnotist' storyline (2–7 Oct 2010)",
    "year": "2010",
@@ -400701,7 +400122,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2651,
+   "id": 2644,
    "title": "Trust Me",
    "subtitle": "",
    "year": "2010",
@@ -400803,7 +400224,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2652,
+   "id": 2645,
    "title": "Sex/Life",
    "subtitle": "S2E3 “Seasons of Love”",
    "year": "2023",
@@ -400927,7 +400348,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2653,
+   "id": 2646,
    "title": "Revenge in the Golden Cage / Miss Schemer vs. Mr. CEO / 晚色上春枝",
    "subtitle": "",
    "year": "2025",
@@ -401024,7 +400445,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2654,
+   "id": 2647,
    "title": "You and Me Makes Three",
    "subtitle": "",
    "year": "2026",
@@ -401121,7 +400542,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2655,
+   "id": 2648,
    "title": "August & Ebony",
    "subtitle": "",
    "year": "2024",
@@ -401218,7 +400639,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2656,
+   "id": 2649,
    "title": "醒来时，我眼里不是他",
    "subtitle": "When I Woke, He Wasn't in My Eyes",
    "year": "2026",
@@ -401320,7 +400741,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2657,
+   "id": 2650,
    "title": "神秘的她",
    "subtitle": "The Mysterious Her / 诱她入梦 / 她是谁短剧版 (alias titles on aggregators)",
    "year": "2025",
@@ -401414,7 +400835,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2658,
+   "id": 2651,
    "title": "第一百零一次睁眼",
    "subtitle": "The 101st Time I Opened My Eyes",
    "year": "2025",
@@ -401520,7 +400941,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2659,
+   "id": 2652,
    "title": "我靠催眠控制万物",
    "subtitle": "aka 弄巧成拙：我催眠了个老婆 (alias, unverified)",
    "year": "2023",
@@ -401626,7 +401047,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2660,
+   "id": 2653,
    "title": "私尝",
    "subtitle": "Private Tasting",
    "year": "2025",
@@ -401728,7 +401149,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2661,
+   "id": 2654,
    "title": "Beneath the Hypnosis",
    "subtitle": "Rainy Night Scheme / 'Bajo la Hipnosis' / 'La Trampa del Deseo: Secretos bajo la Lluvia' (ShortMax)",
    "year": "Date unverified",
@@ -401836,7 +401257,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2662,
+   "id": 2655,
    "title": "催眠曲",
    "subtitle": "Lullaby / Hypnotic Song",
    "year": "2025",
@@ -401934,7 +401355,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2663,
+   "id": 2656,
    "title": "催眠局中局",
    "subtitle": "Hypnosis Trap Within a Trap",
    "year": "2026",
@@ -402024,7 +401445,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2664,
+   "id": 2657,
    "title": "指尖牢",
    "subtitle": "Fingertip Prison",
    "year": "2026",
@@ -402112,7 +401533,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2665,
+   "id": 2658,
    "title": "我能听到妈妈的心声后",
    "subtitle": "After I Could Hear Mom's Thoughts",
    "year": "2025",
@@ -402222,7 +401643,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2666,
+   "id": 2659,
    "title": "我的多重人格在自相残杀",
    "subtitle": "My Multiple Personalities Are Killing Each Other / 我的多重人格 / 'สะกดจิตสะกดใจ' (Bilibili TV Thai)",
    "year": "2025",
@@ -402328,7 +401749,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2667,
+   "id": 2660,
    "title": "Don't Monkey with the Buzz Saw",
    "subtitle": "",
    "year": "1914",
@@ -402425,7 +401846,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2668,
+   "id": 2661,
    "title": "Hypnosis",
    "subtitle": "",
    "year": "2019",
@@ -402512,7 +401933,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2669,
+   "id": 2662,
    "title": "Mom, don't sign! Dad is not dead!",
    "subtitle": "",
    "year": "Date unverified",
@@ -402603,6 +402024,585 @@ window.CATALOG = {
      "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
      "catalog_ids": [],
      "research_no": 18
+    }
+   }
+  },
+  {
+   "id": 2663,
+   "title": "Reign",
+   "subtitle": "",
+   "year": "2013–2017",
+   "meta": "TV series · United States · English",
+   "mechanism": "",
+   "confidence_flag": "5 sources",
+   "summary": "S4E9 'Pulling Strings' — widowed Mary learns she is pregnant by Lord Darnley and marries him; S4E15 'Blood in the Water' (9 Jun 2017) — she gives birth to James.",
+   "character": "Mary Stuart (Adelaide Kane), Lord Darnley (Will Kemp)",
+   "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+   "note": "Prior marriage: widowed (Francis II, S3). Verified. Sources differ slightly on order (EW: pregnancy found before the wedding).",
+   "kids_status": "no",
+   "kids_together": "yes",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "evidence": "5 sources",
+   "adult": "yes",
+   "format": "TV series",
+   "categories": [
+    "widow-divorcee-remarry-pregnant"
+   ],
+   "sources": [
+    {
+     "label": "EW recap S4E9",
+     "url": "https://ew.com/recap/reign-season-4-episode-9/"
+    },
+    {
+     "label": "TV Guide S4 episodes",
+     "url": "https://www.tvguide.com/tvshows/reign/episodes-season-4/1000051508/"
+    },
+    {
+     "label": "Hidden Remote recap S4E15",
+     "url": "https://hiddenremote.com/2017/06/09/reign-season-4-episode-15-recap-prince-james-finally-arrives/"
+    },
+    {
+     "label": "TVmaze 4x15",
+     "url": "https://www.tvmaze.com/episodes/1146944/reign-4x15-blood-in-the-water"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt2710394/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "widow-remarry"
+   ],
+   "source_records": [
+    "widow-remarry:10"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "widow-remarry:10": {
+     "title": "Reign",
+     "year": "2013–2017",
+     "format": "TV series",
+     "meta": "TV series · United States · English",
+     "summary": "S4E9 'Pulling Strings' — widowed Mary learns she is pregnant by Lord Darnley and marries him; S4E15 'Blood in the Water' (9 Jun 2017) — she gives birth to James.",
+     "character": "Mary Stuart (Adelaide Kane), Lord Darnley (Will Kemp)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "EW recap S4E9",
+       "url": "https://ew.com/recap/reign-season-4-episode-9/"
+      },
+      {
+       "label": "TV Guide S4 episodes",
+       "url": "https://www.tvguide.com/tvshows/reign/episodes-season-4/1000051508/"
+      },
+      {
+       "label": "Hidden Remote recap S4E15",
+       "url": "https://hiddenremote.com/2017/06/09/reign-season-4-episode-15-recap-prince-james-finally-arrives/"
+      },
+      {
+       "label": "TVmaze 4x15",
+       "url": "https://www.tvmaze.com/episodes/1146944/reign-4x15-blood-in-the-water"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt2710394/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "no",
+     "adult": "yes",
+     "confidence_flag": "5 sources",
+     "evidence": "5 sources",
+     "note": "Prior marriage: widowed (Francis II, S3). Verified. Sources differ slightly on order (EW: pregnancy found before the wedding).",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)"
+    }
+   }
+  },
+  {
+   "id": 2664,
+   "title": "Mary Queen of Scots",
+   "subtitle": "",
+   "year": "2018",
+   "meta": "Film · United Kingdom · English",
+   "mechanism": "",
+   "confidence_flag": "2 sources",
+   "summary": "Widowed Mary returns to Scotland, marries Lord Darnley, and gives birth to son James.",
+   "character": "Mary Stuart (Saoirse Ronan), Henry Darnley (Jack Lowden)",
+   "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+   "note": "Prior marriage: widowed (Francis II of France). ",
+   "kids_status": "no",
+   "kids_together": "yes",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "evidence": "2 sources",
+   "adult": "yes",
+   "format": "movie",
+   "categories": [
+    "widow-divorcee-remarry-pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mary_Queen_of_Scots_(2018_film)"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt2328900/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "widow-remarry"
+   ],
+   "source_records": [
+    "widow-remarry:11"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "widow-remarry:11": {
+     "title": "Mary Queen of Scots",
+     "year": "2018",
+     "format": "movie",
+     "meta": "Film · United Kingdom · English",
+     "summary": "Widowed Mary returns to Scotland, marries Lord Darnley, and gives birth to son James.",
+     "character": "Mary Stuart (Saoirse Ronan), Henry Darnley (Jack Lowden)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Mary_Queen_of_Scots_(2018_film)"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt2328900/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "no",
+     "adult": "yes",
+     "confidence_flag": "2 sources",
+     "evidence": "2 sources",
+     "note": "Prior marriage: widowed (Francis II of France). ",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)"
+    }
+   }
+  },
+  {
+   "id": 2665,
+   "title": "The Spanish Princess",
+   "subtitle": "",
+   "year": "2019–2020",
+   "meta": "Miniseries · United States/UK · English",
+   "mechanism": "",
+   "confidence_flag": "2 sources",
+   "summary": "Catherine of Aragon, widowed by Prince Arthur, marries Henry VIII and goes through several on-screen pregnancies.",
+   "character": "Catherine of Aragon (Charlotte Hope), Henry VIII (Ruairi O'Connor)",
+   "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+   "note": "Prior marriage: widowed (Prince Arthur). ",
+   "kids_status": "no",
+   "kids_together": "yes",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "evidence": "2 sources",
+   "adult": "yes",
+   "format": "TV series",
+   "categories": [
+    "widow-divorcee-remarry-pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Spanish_Princess"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt8417308/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "widow-remarry"
+   ],
+   "source_records": [
+    "widow-remarry:12"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "widow-remarry:12": {
+     "title": "The Spanish Princess",
+     "year": "2019–2020",
+     "format": "TV series",
+     "meta": "Miniseries · United States/UK · English",
+     "summary": "Catherine of Aragon, widowed by Prince Arthur, marries Henry VIII and goes through several on-screen pregnancies.",
+     "character": "Catherine of Aragon (Charlotte Hope), Henry VIII (Ruairi O'Connor)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Spanish_Princess"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt8417308/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "no",
+     "adult": "yes",
+     "confidence_flag": "2 sources",
+     "evidence": "2 sources",
+     "note": "Prior marriage: widowed (Prince Arthur). ",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)"
+    }
+   }
+  },
+  {
+   "id": 2666,
+   "title": "Becoming Elizabeth",
+   "subtitle": "",
+   "year": "2022",
+   "meta": "TV series · United States/UK · English",
+   "mechanism": "",
+   "confidence_flag": "2 sources",
+   "summary": "Henry VIII's widow Catherine Parr marries Thomas Seymour, learns she is pregnant, and dies after childbirth.",
+   "character": "Catherine Parr (Jessica Raine), Thomas Seymour (Tom Cullen)",
+   "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+   "note": "Prior marriage: widowed (Henry VIII). ",
+   "kids_status": "no",
+   "kids_together": "yes",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "evidence": "2 sources",
+   "adult": "yes",
+   "format": "TV series",
+   "categories": [
+    "widow-divorcee-remarry-pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Becoming_Elizabeth"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt11444366/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "widow-remarry"
+   ],
+   "source_records": [
+    "widow-remarry:13"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "widow-remarry:13": {
+     "title": "Becoming Elizabeth",
+     "year": "2022",
+     "format": "TV series",
+     "meta": "TV series · United States/UK · English",
+     "summary": "Henry VIII's widow Catherine Parr marries Thomas Seymour, learns she is pregnant, and dies after childbirth.",
+     "character": "Catherine Parr (Jessica Raine), Thomas Seymour (Tom Cullen)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Becoming_Elizabeth"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt11444366/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "no",
+     "adult": "yes",
+     "confidence_flag": "2 sources",
+     "evidence": "2 sources",
+     "note": "Prior marriage: widowed (Henry VIII). ",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)"
+    }
+   }
+  },
+  {
+   "id": 2667,
+   "title": "Grey's Anatomy",
+   "subtitle": "",
+   "year": "2018–2021",
+   "meta": "Medical drama · United States · English",
+   "mechanism": "",
+   "confidence_flag": "4 sources",
+   "summary": "Widowed Teddy Altman (husband Henry died S8) returns in the S14 finale pregnant with Owen Hunt's daughter Allison; Owen proposes in S17E17 and they marry in S18E1 'Here Comes the Sun'.",
+   "character": "Teddy Altman (Kim Raver), Owen Hunt (Kevin McKidd)",
+   "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+   "note": "Prior marriage: widowed (Henry Burton). Pregnancy and birth precede the wedding by years.",
+   "kids_status": "no",
+   "kids_together": "yes",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "evidence": "4 sources",
+   "adult": "yes",
+   "format": "TV series",
+   "categories": [
+    "widow-divorcee-remarry-pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Teddy_Altman"
+    },
+    {
+     "label": "Shondaland weddings list",
+     "url": "https://www.shondaland.com/shondaland-series/greys-anatomy/all-the-weddings-from-the-best-to-the-most-disastrous-on-grey-s-anatomy-ranked"
+    },
+    {
+     "label": "TV Insider timeline",
+     "url": "https://www.tvinsider.com/swooon/gallery/greys-anatomy-relationship-timeline-owen-hunt-teddy-altman/"
+    },
+    {
+     "label": "EW S17E17 recap",
+     "url": "https://ew.com/tv/recaps/greys-anatomy-season-17-episode-17/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "widow-remarry"
+   ],
+   "source_records": [
+    "widow-remarry:15"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "widow-remarry:15": {
+     "title": "Grey's Anatomy",
+     "year": "2018–2021",
+     "format": "TV series",
+     "meta": "Medical drama · United States · English",
+     "summary": "Widowed Teddy Altman (husband Henry died S8) returns in the S14 finale pregnant with Owen Hunt's daughter Allison; Owen proposes in S17E17 and they marry in S18E1 'Here Comes the Sun'.",
+     "character": "Teddy Altman (Kim Raver), Owen Hunt (Kevin McKidd)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Teddy_Altman"
+      },
+      {
+       "label": "Shondaland weddings list",
+       "url": "https://www.shondaland.com/shondaland-series/greys-anatomy/all-the-weddings-from-the-best-to-the-most-disastrous-on-grey-s-anatomy-ranked"
+      },
+      {
+       "label": "TV Insider timeline",
+       "url": "https://www.tvinsider.com/swooon/gallery/greys-anatomy-relationship-timeline-owen-hunt-teddy-altman/"
+      },
+      {
+       "label": "EW S17E17 recap",
+       "url": "https://ew.com/tv/recaps/greys-anatomy-season-17-episode-17/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "no",
+     "adult": "yes",
+     "confidence_flag": "4 sources",
+     "evidence": "4 sources",
+     "note": "Prior marriage: widowed (Henry Burton). Pregnancy and birth precede the wedding by years.",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)"
+    }
+   }
+  },
+  {
+   "id": 2668,
+   "title": "The Forsyte Saga",
+   "subtitle": "",
+   "year": "2002–2003",
+   "meta": "TV serial · United Kingdom · English",
+   "mechanism": "",
+   "confidence_flag": "2 sources",
+   "summary": "Irene leaves and divorces Soames Forsyte, marries his cousin Young Jolyon, and has their son Jon.",
+   "character": "Irene (Gina McKee), Young Jolyon (Rupert Graves)",
+   "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+   "note": "Prior marriage: divorced (Soames Forsyte). ",
+   "kids_status": "no",
+   "kids_together": "yes",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "evidence": "2 sources",
+   "adult": "yes",
+   "format": "TV series",
+   "categories": [
+    "widow-divorcee-remarry-pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Forsyte_Saga_(2002_TV_series)"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0260615/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "widow-remarry"
+   ],
+   "source_records": [
+    "widow-remarry:16"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "widow-remarry:16": {
+     "title": "The Forsyte Saga",
+     "year": "2002–2003",
+     "format": "TV series",
+     "meta": "TV serial · United Kingdom · English",
+     "summary": "Irene leaves and divorces Soames Forsyte, marries his cousin Young Jolyon, and has their son Jon.",
+     "character": "Irene (Gina McKee), Young Jolyon (Rupert Graves)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Forsyte_Saga_(2002_TV_series)"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0260615/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "no",
+     "adult": "yes",
+     "confidence_flag": "2 sources",
+     "evidence": "2 sources",
+     "note": "Prior marriage: divorced (Soames Forsyte). ",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)"
+    }
+   }
+  },
+  {
+   "id": 2669,
+   "title": "The Postman Always Rings Twice",
+   "subtitle": "",
+   "year": "1946",
+   "meta": "Film noir · United States · English",
+   "mechanism": "",
+   "confidence_flag": "2 sources",
+   "summary": "After her husband Nick is killed, Cora marries Frank so neither can testify against the other; she later tells him she is pregnant, shortly before a fatal car crash.",
+   "character": "Cora (Lana Turner), Frank Chambers (John Garfield)",
+   "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+   "note": "Prior marriage: widowed (Nick Smith, killed in their plot). She dies while pregnant.",
+   "kids_status": "no",
+   "kids_together": "no",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "evidence": "2 sources",
+   "adult": "yes",
+   "format": "movie",
+   "categories": [
+    "widow-divorcee-remarry-pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Postman_Always_Rings_Twice_(1946_film)"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0038854/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "widow-remarry"
+   ],
+   "source_records": [
+    "widow-remarry:17"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "widow-remarry:17": {
+     "title": "The Postman Always Rings Twice",
+     "year": "1946",
+     "format": "movie",
+     "meta": "Film noir · United States · English",
+     "summary": "After her husband Nick is killed, Cora marries Frank so neither can testify against the other; she later tells him she is pregnant, shortly before a fatal car crash.",
+     "character": "Cora (Lana Turner), Frank Chambers (John Garfield)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Postman_Always_Rings_Twice_(1946_film)"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0038854/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "no",
+     "kids_status": "no",
+     "adult": "yes",
+     "confidence_flag": "2 sources",
+     "evidence": "2 sources",
+     "note": "Prior marriage: widowed (Nick Smith, killed in their plot). She dies while pregnant.",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)"
     }
    }
   }
@@ -405919,15 +405919,15 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2649,
+       "id": 2642,
        "from_source": "round2"
       },
       {
-       "id": 2650,
+       "id": 2643,
        "from_source": "round2"
       },
       {
-       "id": 2651,
+       "id": 2644,
        "from_source": "round2"
       }
      ],
@@ -405938,19 +405938,15 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2668,
+       "id": 2661,
        "from_source": "round3"
       },
       {
-       "id": 2663,
+       "id": 2656,
        "from_source": "round3"
       },
       {
-       "id": 2662,
-       "from_source": "round3"
-      },
-      {
-       "id": 2666,
+       "id": 2655,
        "from_source": "round3"
       },
       {
@@ -405958,15 +405954,19 @@ window.CATALOG = {
        "from_source": "round3"
       },
       {
-       "id": 2664,
+       "id": 2652,
        "from_source": "round3"
       },
       {
-       "id": 2660,
+       "id": 2657,
        "from_source": "round3"
       },
       {
-       "id": 2656,
+       "id": 2653,
+       "from_source": "round3"
+      },
+      {
+       "id": 2649,
        "from_source": "round3"
       }
      ],
@@ -407677,7 +407677,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2665,
+       "id": 2658,
        "from_source": "round3"
       }
      ],
@@ -409615,7 +409615,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2647,
+       "id": 2640,
        "from_source": "widow-divorcee-oct14"
       }
      ],
@@ -411586,7 +411586,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2645,
+       "id": 2638,
        "from_source": "savdhaan-santham-oct9"
       }
      ],
@@ -412247,15 +412247,15 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2667,
+       "id": 2660,
        "from_source": "round3"
       },
       {
-       "id": 2657,
+       "id": 2650,
        "from_source": "round3"
       },
       {
-       "id": 2658,
+       "id": 2651,
        "from_source": "round3"
       },
       {
@@ -416416,7 +416416,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2648,
+       "id": 2641,
        "from_source": "widow-divorcee-oct14"
       }
      ],
@@ -416427,11 +416427,11 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2650,
+       "id": 2643,
        "from_source": "round2"
       },
       {
-       "id": 2651,
+       "id": 2644,
        "from_source": "round2"
       }
      ],
@@ -416699,7 +416699,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2661,
+       "id": 2654,
        "from_source": "round3"
       }
      ],
@@ -417231,7 +417231,7 @@ window.CATALOG = {
        "from_source": "round2"
       },
       {
-       "id": 2649,
+       "id": 2642,
        "from_source": "round2"
       }
      ],
@@ -417242,23 +417242,23 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2661,
+       "id": 2654,
        "from_source": "round3"
       },
       {
-       "id": 2667,
+       "id": 2660,
        "from_source": "round3"
       },
       {
-       "id": 2657,
+       "id": 2650,
        "from_source": "round3"
       },
       {
-       "id": 2658,
+       "id": 2651,
        "from_source": "round3"
       },
       {
-       "id": 2656,
+       "id": 2649,
        "from_source": "round3"
       }
      ],
@@ -417567,11 +417567,11 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2659,
+       "id": 2652,
        "from_source": "round3"
       },
       {
-       "id": 2660,
+       "id": 2653,
        "from_source": "round3"
       }
      ],
@@ -417894,11 +417894,11 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2661,
+       "id": 2654,
        "from_source": "round3"
       },
       {
-       "id": 2657,
+       "id": 2650,
        "from_source": "round3"
       }
      ],
@@ -418463,7 +418463,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2663,
+       "id": 2656,
        "from_source": "round3"
       }
      ],
@@ -420455,11 +420455,11 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2660,
+       "id": 2653,
        "from_source": "round3"
       },
       {
-       "id": 2656,
+       "id": 2649,
        "from_source": "round3"
       }
      ],
@@ -421479,7 +421479,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2655,
+       "id": 2648,
        "from_source": "round2"
       },
       {
@@ -421487,7 +421487,7 @@ window.CATALOG = {
        "from_source": "round2"
       },
       {
-       "id": 2654,
+       "id": 2647,
        "from_source": "round2"
       }
      ],
@@ -422067,7 +422067,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2652,
+       "id": 2645,
        "from_source": "round2"
       }
      ],
@@ -423058,7 +423058,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2646,
+       "id": 2639,
        "from_source": "widow-divorcee-oct14"
       }
      ],
@@ -423069,19 +423069,19 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2668,
+       "id": 2661,
        "from_source": "round3"
       },
       {
-       "id": 2663,
+       "id": 2656,
        "from_source": "round3"
       },
       {
-       "id": 2662,
+       "id": 2655,
        "from_source": "round3"
       },
       {
-       "id": 2666,
+       "id": 2659,
        "from_source": "round3"
       }
      ],
@@ -423902,7 +423902,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2665,
+       "id": 2658,
        "from_source": "round3"
       }
      ],
@@ -425540,7 +425540,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2655,
+       "id": 2648,
        "from_source": "round2"
       },
       {
@@ -427528,7 +427528,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2664,
+       "id": 2657,
        "from_source": "round3"
       }
      ],
@@ -429549,7 +429549,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2669,
+       "id": 2662,
        "from_source": "round3"
       }
      ],
@@ -430549,7 +430549,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2652,
+       "id": 2645,
        "from_source": "round2"
       }
      ],
@@ -430901,7 +430901,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2652,
+       "id": 2645,
        "from_source": "round2"
       }
      ],
@@ -438387,15 +438387,15 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2667,
+       "id": 2660,
        "from_source": "round3"
       },
       {
-       "id": 2669,
+       "id": 2662,
        "from_source": "round3"
       },
       {
-       "id": 2665,
+       "id": 2658,
        "from_source": "round3"
       }
      ],
@@ -442939,7 +442939,7 @@ window.CATALOG = {
        "from_source": "widow-remarry"
       },
       {
-       "id": 2641,
+       "id": 2666,
        "from_source": "widow-remarry"
       },
       {
@@ -442963,7 +442963,7 @@ window.CATALOG = {
        "from_source": "widow-remarry"
       },
       {
-       "id": 2643,
+       "id": 2668,
        "from_source": "widow-remarry"
       },
       {
@@ -442971,7 +442971,7 @@ window.CATALOG = {
        "from_source": "widow-remarry"
       },
       {
-       "id": 2642,
+       "id": 2667,
        "from_source": "widow-remarry"
       },
       {
@@ -442987,7 +442987,7 @@ window.CATALOG = {
        "from_source": "widow-remarry"
       },
       {
-       "id": 2639,
+       "id": 2664,
        "from_source": "widow-remarry"
       },
       {
@@ -443019,7 +443019,7 @@ window.CATALOG = {
        "from_source": "widow-remarry"
       },
       {
-       "id": 2644,
+       "id": 2669,
        "from_source": "widow-remarry"
       },
       {
@@ -443027,7 +443027,7 @@ window.CATALOG = {
        "from_source": "widow-remarry"
       },
       {
-       "id": 2638,
+       "id": 2663,
        "from_source": "widow-remarry"
       },
       {
@@ -443035,7 +443035,7 @@ window.CATALOG = {
        "from_source": "widow-remarry"
       },
       {
-       "id": 2640,
+       "id": 2665,
        "from_source": "widow-remarry"
       },
       {
@@ -443084,15 +443084,15 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2648,
+       "id": 2641,
        "from_source": "widow-divorcee-oct14"
       },
       {
-       "id": 2647,
+       "id": 2640,
        "from_source": "widow-divorcee-oct14"
       },
       {
-       "id": 2646,
+       "id": 2639,
        "from_source": "widow-divorcee-oct14"
       }
      ],
@@ -446259,7 +446259,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2653,
+       "id": 2646,
        "from_source": "round2"
       }
      ],

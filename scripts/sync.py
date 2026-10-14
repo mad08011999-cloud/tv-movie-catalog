@@ -98,8 +98,6 @@ SOURCES = [
      "local": "sources/no-link-additions.json", "required": False},
     {"id": "hypno-sweep-oct9", "label": "Worldwide hypnosis sweep (9 Oct 2026)",
      "local": "sources/hypno-sweep-oct9.json", "required": False},
-    {"id": "widow-remarry", "label": "Widow/divorcee remarries & pregnant again",
-     "local": "sources/widow-remarry.json", "required": False},
     {"id": "savdhaan-santham-oct9", "label": "Savdhaan India / Shantham Papam follow-up (9 Oct 2026)",
      "local": "sources/savdhaan-santham-oct9.json", "required": False},
     {"id": "widow-divorcee-oct14", "label": "Widowed / divorced woman hypnosis sweep (14 Oct 2026)",
@@ -108,6 +106,8 @@ SOURCES = [
      "local": "sources/round2.json", "required": False},
     {"id": "round3", "label": "Round 3 — vertical-series / microdrama deep search",
      "local": "sources/round3.json", "required": False},
+    {"id": "widow-remarry", "label": "Widow/divorcee remarries & pregnant again",
+     "local": "sources/widow-remarry.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
