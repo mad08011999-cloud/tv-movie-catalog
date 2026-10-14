@@ -1,6 +1,12 @@
 {
  "SOURCE": "https://muse.ai/s/tv-and-movie-research-catalog-xla62ucxbx02u5",
  "stats": [
+  "14 Oct 2026 Hotstar / ZEE5 / SonyLIV serial-episode sweep: 12 verified non-duplicate records added across the three requested platforms; no new plot category was needed",
+  "Platform sweep coverage: about 120 searches across Hindi, Tamil, Telugu, Malayalam, Kannada, Bengali, Marathi and wider Indian-language lanes; serial episodes and anthology episodes only, with adult / erotic lanes included and nothing filtered",
+  "Verification result: 13 additional single-source or borderline leads were held out; roughly 48 male-victim, attempted, faked, metaphorical, possession-only, out-of-platform or already-catalogued near-misses were not promoted",
+  "9 Oct 2026 vertical-short female-hypnosis sweep: 2 confirmed non-duplicate records added and 1 existing record promoted through an enrichment fold; no new category was needed",
+  "Vertical-short sweep coverage: 7 research lanes, about 150 queries in 20+ languages across major English-language apps, the Chinese short-drama ecosystem, regional platforms and an unfiltered adult / erotic lane",
+  "Pregnancy intersection result: no title was verified in which hypnosis targets the pregnancy; Sweet Strategy is pregnancy-relevant because Elena discovers the pregnancy after the hypnosis event",
   "9 Oct 2026 Savdhaan India / Shantham Papam targeted sweep: 1 verified Savdhaan India female-hypnosis episode added; no Shantham Papam hypnosis episode was verified",
   "Targeted sweep coverage: English, Hindi and Kannada-script searches; the Savdhaan India record is flagged as a dramatized real-crime docudrama, and pregnancy / children status remains unknown because the sources are silent",
   "9 Oct 2026 Indian platform sweep: 13 verified non-duplicate records added and 7 enrichment folds applied to existing records; no new plot category was needed",
@@ -13,21 +19,21 @@
   "Ultrasound branch now holds 85 primary records across 11 scene-level categories; 9 of the original records carry [Adult] flags",
   "5 Oct 2026 surrogate sweep: 1 confirmed + 2 probable records across 9 research lanes; the trope is nearly nonexistent worldwide",
   "5 Oct 2026 re-sweep: 8 new records + 1 cross-tag fold, including 1 probable vertical-short title with its single-source limitation shown",
-  "993 category records across 66 plot categories; 817 unique named titles shown after title-and-year deduplication",
+  "1,007 category records across 66 plot categories; 831 unique named titles shown after title-and-year deduplication",
   "0 new qualifying wife-takes-husband-to-hypnotist titles; 2 confirmed near-misses and 1 unverified vertical-short lead held out",
   "Vertical-short coverage remains a discoverability gap: app catalogs are poorly indexed, so only source-supported candidates are included",
   "18 source-supported rich-woman hypnosis or love-potion entries across 6 plot categories after the 5 Oct re-sweep and overlap folds",
   "15 records reviewed for the partner-to-hypnotist switched-target pattern: 0 exact matches, 2 loose matches and 13 clearly labeled non-qualifying near-misses; 11 are new unique titles and 4 enrich existing catalog records",
   "9 core matches in the devil / demon pregnancy category: 8 result in pregnancy or birth and 1 has an ambiguous outcome",
   "4 verified partner-commissioned control matches: 3 research additions + 1 upgraded existing record",
-  "24 partner-controller entries: 9 direct or broader current-husband cases, 2 current-boyfriend matches, 2 ex-boyfriend",
-  "14 entries in the expanded worldwide pregnant-woman hypnosis / mind-control section: 5 stronger cases, 5 variants, 4 leads",
+  "25 partner-controller entries after the vertical-short addition; current-partner, former-partner and third-party involvement remain separately flagged",
+  "15 entries in the expanded worldwide pregnant-woman hypnosis / mind-control section; the new vertical-short cross-tag is pregnancy-relevant but the pregnancy begins after hypnosis",
   "13 net-new adult-context pregnancy-control findings, 3 literal-hypnosis core",
   "30 verified wife-with-children pregnancy titles + 1 medium-confidence lead",
   "3 accepted hypnosis-to-infidelity titles covering 4 woman-instances: 2 high and 2 medium confidence; plus 2 leads",
   "176 worldwide adult-female hypnosis findings: the 129-title baseline, 45 adult / erotic gap-fill titles and 2 Indian-platform additions",
   "1 low-confidence mother/current-partner match: El maleficio (1983–84)",
-  "37 forcibly-hypnotized-to-obey category entries: 29 stronger or near-exact cases (including 2 separately flagged adult-animation)",
+  "39 forcibly-hypnotized-to-obey category entries after two confirmed vertical-short additions",
   "3 supported stepmother-control matches + 1 low-confidence borderline case",
   "5 verified pregnant-stepmother / bonus-mom titles + 1 low-confidence lead; 4 net-new records + 2 existing records",
   "0 exact remarried-wife / new-husband-or-stepfather control matches",
@@ -54,6 +60,13 @@
   "Worldwide source review dated 30 Sep 2026"
  ],
  "boundaries": [
+  "14 Oct 2026 Hotstar / ZEE5 / SonyLIV sweep: 12 verified serial-episode records were added with zero new categories. Existing Nazar and Qayamat Ki Raat cards did not describe the newly verified beats, so both were added as distinct episode-level records rather than folded or duplicated.",
+  "14 Oct source limits carried on the cards: Bhabi Ji E2714, Ninaithale Inikkum E1153 and E1287, and Trinayani E1369 use the stated single-official-source exception; Naga Bhairavi / Naag Kavach has an inferred version relationship; Jijaji E48 has a later prank retcon; Trinayani’s victim appears to be a child but her age is unconfirmed; Qayamat Ki Raat remains mechanism-ambiguous between puppet control and possession.",
+  "14 Oct held-out leads remain open questions, not catalog records: Divya Drishti lacked a mind-control mechanism; original Baalveer’s Chhal Pari arc lacked independent verification and had conflicting episode numbers; the 2016 Bhabi Ji Angoori beat, several Nazar beats, Annapoorna, Nindu Noorella Saavasam, Tula Japnar Aahe, Mukkupudaka, another Ninaithale Inikkum beat, Viruddh, Adaalat and Bengali Aahat remained single-source, title-only, ambiguous or otherwise under-verified.",
+  "9 Oct 2026 vertical-short sweep: Kiss Me, Even if It Burns and Sweet Strategy: Mr. Vance’s Ex Is Too Proud are the two confirmed non-duplicate additions; 被催眠的她 / The Hypnotized Her was enriched in place and promoted from a loose lead. All three fit existing categories.",
+  "Sweet Strategy source caveat: the matching synopsis appears across 6+ localized ReelShort catalog editions, but every located source is publisher-owned and no independent review, wiki or fandom entry was found. Elena discovers her pregnancy only after the hypnosis event and has son Leo by the story’s end.",
+  "The Hypnotized Her is corroborated by 5+ licensed-drama YouTube repost channels, but its original app and exact release year remain unverified. Sources support husband-directed hypnosis and a fractured-perception thriller; no pregnancy element or remarriage status was established.",
+  "Held out from the vertical-short sweep: six single-source or unidentified candidates, including a Spanish-dubbed memory-wipe lead, an Indonesian gendam series and marginal AI-adult shorts. Regional lanes outside Chinese-origin productions produced no verified native title; app-only and JS-walled catalogs remain a discoverability gap.",
   "9 Oct 2026 targeted serial search: Savdhaan India S42E17 “A hypnotist misuses his skills” (aired 25 April 2014) is the only verified addition. It is a dramatized real-crime docudrama rather than fiction; the reviewed sources do not establish whether Priya, Neha or the other affected women are pregnant or have children.",
   "Shantham Papam: four targeted English, Hindi and Kannada-script searches found no verifiable female-hypnosis episode, so no record was added. Savdhaan India S34E45 “professor murti hypnotises” was also held out because only a title-level lead was found, without enough victim-gender or plot detail.",
   "9 Oct 2026 Indian female-hypnosis sweep: five research lanes ran 30+ searches each in English and seven Indian scripts. Thirteen verified non-duplicate records were added and seven enrichment folds were applied to existing records; every addition fit an existing plot category.",
@@ -125,8 +138,8 @@
   {
    "n": 1,
    "title": "Hypnotized to love",
-   "count": 64,
-   "desc": "Woman hypnotized, enchanted or cursed into love; the 5 Oct re-sweep added three source-supported love-potion or love-spell records.",
+   "count": 65,
+   "desc": "Woman hypnotized, enchanted or cursed into love; the vertical-short sweep adds one confirmed partner-directed memory-erasure case.",
    "groups": [
     {
      "name": "Literal stage-style hypnosis",
@@ -469,8 +482,8 @@
   {
    "n": 6,
    "title": "Forcibly hypnotized to obey",
-   "count": 37,
-   "desc": "29 stronger or near-exact cases, including the targeted Savdhaan India finding, four additions from the 9 Oct Indian-platform sweep and the surrogate-sweep cross-tag, plus 8 separated variants or leads.",
+   "count": 41,
+   "desc": "33 stronger or near-exact cases after the 14 Oct serial-episode sweep, plus 8 separated variants or leads.",
    "groups": [
     {
      "name": "Husband / lover / partner / domestic",
@@ -604,7 +617,7 @@
       "Revenge of the Stepford Wives (1980) — loose",
       "The Stepford Children (1987)",
       "The Stepford Wives (2004)",
-      "被催眠的她 / The Hypnotized Her — loose",
+      "被催眠的她 / The Hypnotized Her",
       "Don’t Worry Darling (2022)",
       "El maleficio — original",
       "El maleficio — remake, near-miss",
@@ -632,8 +645,8 @@
   {
    "n": 8,
    "title": "Female controlled by husband / boyfriend / ex-partner",
-   "count": 24,
-   "desc": "Partner-control records grouped by current partner, former partner and third-party involvement.",
+   "count": 25,
+   "desc": "Partner-control records grouped by current partner, former partner and third-party involvement; one confirmed DramaBox vertical short was added on 9 Oct.",
    "groups": [
     {
      "name": "Current husband — direct hypnosis",
@@ -928,14 +941,21 @@
    "n": 13,
    "title": "Remarried wife controlled by new husband / stepfather",
    "count": 4,
-   "desc": "No verified exact match worldwide; four closest research records are retained.",
+   "desc": "One husband-control mechanism is verified but lacks remarriage evidence; three other closest research records are retained.",
    "groups": [
+    {
+     "name": "Verified husband-control; remarriage unknown",
+     "items": [
+      "被催眠的她 / The Hypnotized Her"
+     ],
+     "note": "",
+     "confidence": "Verified mechanism · category fit partial"
+    },
     {
      "name": "Closest variants",
      "items": [
       "El maleficio — original",
       "El maleficio (2023–24) — remake",
-      "被催眠的她 / The Hypnotized Her — loose",
       "My Husband’s Deadly Past aka Woman on the Edge (2020)"
      ],
      "note": "",
@@ -1212,8 +1232,8 @@
   {
    "n": 19,
    "title": "Supernatural female control — India & Indonesia",
-   "count": 23,
-   "desc": "Focused India–Indonesia findings grouped by verification level.",
+   "count": 24,
+   "desc": "Focused India–Indonesia findings grouped by verification level, including Maitree’s serpent-hypnosis arc.",
    "groups": [
     {
      "name": "Verified cases",
@@ -1257,8 +1277,8 @@
   {
    "n": 20,
    "title": "Female hypnosis / mind control — India",
-   "count": 46,
-   "desc": "42 high-confidence and 4 possible records across seven Indian languages after the 9 Oct targeted Savdhaan India / Shantham Papam sweep.",
+   "count": 57,
+   "desc": "53 high-confidence or source-flagged records and 4 possible records after the 14 Oct Hotstar / ZEE5 / SonyLIV serial-episode sweep.",
    "groups": [
     {
      "name": "Love / marriage / relationship compulsion",
@@ -1342,8 +1362,8 @@
   {
    "n": 21,
    "title": "Villain / tantrik control — India",
-   "count": 13,
-   "desc": "Indian villain, tantrik and antagonist-control records, including four additions or cross-tags from the 9 Oct platform sweep.",
+   "count": 16,
+   "desc": "Indian villain, tantrik and antagonist-control records, including Laal Ishq “Bhavishyawaani”, Naga Bhairavi / Naag Kavach and the Qayamat Ki Raat Karuna arc.",
    "groups": [
     {
      "name": "Catalog records",
@@ -1618,8 +1638,8 @@
   {
    "n": 26,
    "title": "Tantrik / black-magic control",
-   "count": 17,
-   "desc": "Tantrik and black-magic control records, including three additions from the 9 Oct Indian-platform sweep and the 2026 Hindi daily series Vashikaranam.",
+   "count": 18,
+   "desc": "Tantrik and black-magic control records, now including Karuna’s mechanism-ambiguous puppet-control arc in Qayamat Ki Raat.",
    "groups": [
     {
      "name": "Catalog records",
@@ -1767,8 +1787,8 @@
   {
    "n": 31,
    "title": "Hypnotized into crime",
-   "count": 2,
-   "desc": "Cases where hypnosis is linked to criminal commands.",
+   "count": 4,
+   "desc": "Cases where hypnosis is linked to criminal commands, including arson and the kill order in Ninaithale Inikkum E1287.",
    "groups": [
     {
      "name": "Verified",
@@ -1831,8 +1851,8 @@
   {
    "n": 34,
    "title": "Mother with child hypnotized / mind-controlled",
-   "count": 30,
-   "desc": "18 higher-confidence records plus 12 borderline cases.",
+   "count": 31,
+   "desc": "19 higher-confidence records, now including Rukhsar Begum’s E554–E555 arc, plus 12 borderline cases.",
    "groups": [
     {
      "name": "Higher-confidence",
@@ -2040,8 +2060,8 @@
   {
    "n": 37,
    "title": "Pregnant woman hypnotized / mind-controlled",
-   "count": 14,
-   "desc": "Five stronger cases, including the surrogate-sweep cross-tag, five variants and four unresolved leads.",
+   "count": 15,
+   "desc": "Five stronger cases, one pregnancy-relevant post-hypnosis vertical-short cross-tag, five variants and four unresolved leads.",
    "groups": [
     {
      "name": "Villain / stranger / criminal",
@@ -4461,30 +4481,43 @@
   {
    "cat": 13,
    "title": "被催眠的她",
-   "year": "Date unverified",
+   "year": "circa 2025–2026 · exact release year unverified",
    "meta": "Vertical short drama · China · Mandarin · 60 episodes",
-   "subgroup": "Unverified husband-control leads — remarriage or stepfather status missing",
+   "subgroup": "Husband-control vertical dramas — remarriage status not established",
    "subtitle": "The Hypnotized Her",
-   "summary": "A \"perfect wife vs. two-faced husband\" suspense story centered on visions and delusion; no source establishes that the husband is the hypnotist. Remarried-wife category detail: This Mandarin vertical drama is promoted as a hypnosis-themed story about a \"perfect wife\" and a two-faced husband, with the wife awakening from an induced-delusion setup. The husband-as-controller reading is suggested, but no source found establishes that this is her remarriage.",
+   "summary": "A “perfect wife versus two-faced husband” thriller in which the husband uses hypnosis and manipulation to make his wife doubt her sanity: she is told she is a mental patient, and the story repeatedly fractures what she believes she has seen. She ultimately fights back.",
+   "note": "Verified across 5+ licensed-drama YouTube repost channels. The exact release year and original app or catalog entry remain unverified; sources also do not establish that this is a remarriage. Marketed with 纯欲 (sensual-allure) tags. No pregnancy element was found.",
+   "character": "The wife, played by 兰岚; opposite 李卓扬 as the husband",
+   "mechanism": "Husband-directed hypnosis and manipulated perception",
+   "controller": "Her two-faced husband",
+   "motive": "Make her doubt her sanity and accept his version of reality",
    "tags": [
     "Husband hypnotizes / mind-controls wife",
-    "Remarried wife controlled by new husband / stepfather",
     "Hypnosis-themed",
-    "Loose / unverified · index-verified · LOW · unverified lead",
-    "remarriage not established"
+    "Verified · multi-channel licensed reposts",
+    "remarriage not established",
+    "no pregnancy element"
    ],
    "sources": [
     {
-     "name": "YouTube",
+     "name": "盛世短剧 · YouTube",
      "url": "https://www.youtube.com/watch?v=iUqQbMt5N3Y"
     },
     {
-     "name": "YouTube 2",
-     "url": "https://www.youtube.com/watch?v=qulFEjw-m2A"
+     "name": "初六剧场 · YouTube",
+     "url": "https://www.youtube.com/watch?v=ww0eVxvO-b8"
     },
     {
-     "name": "YouTube 3",
-     "url": "https://www.youtube.com/watch?v=ww0eVxvO-b8"
+     "name": "启元推文 · YouTube",
+     "url": "https://www.youtube.com/watch?v=fD4cBd2_KYw"
+    },
+    {
+     "name": "晚安小剧场 · YouTube",
+     "url": "https://www.youtube.com/watch?v=8XYhyEznUIQ"
+    },
+    {
+     "name": "蔓蔓书屋 · YouTube",
+     "url": "https://www.youtube.com/watch?v=qulFEjw-m2A"
     }
    ]
   },
@@ -6629,6 +6662,104 @@
    ]
   },
   {
+   "cat": 8,
+   "title": "Kiss Me, Even if It Burns",
+   "year": "Year unverified",
+   "meta": "Vertical short drama · China · Chinese original / English dub · DramaBox",
+   "subgroup": "Current partner / lover — direct hypnosis",
+   "subtitle": "also Leave You To Her; I Faked My Death to Escape Him, So He Hypnotized Me to Make Me Stay!",
+   "summary": "After Scarlet Novak fakes her death to escape Dylan Pitt, he recaptures her and hypnotizes her to erase her memories so he can rebuild their relationship on his terms. The chaptered synopsis labels the beat “Recaptured by Dylan: Imprisonment and Forced Hypnosis.”",
+   "note": "Vertical short drama on the DramaBox app. Confirmed by the official DramaBox catalog, a plot analysis and authorized YouTube channels. Exact release year unverified. Pregnancy and children are not stated in the reviewed sources, so both remain unknown.",
+   "character": "Scarlet Novak — orphan and bodyguard to male lead Dylan Pitt",
+   "mechanism": "Forced hypnosis and memory erasure",
+   "controller": "Dylan Pitt, her male partner / captor",
+   "motive": "Erase her escape and rebuild the relationship under his control",
+   "tags": [
+    "Female controlled by husband / boyfriend / ex-partner",
+    "Forcibly hypnotized to obey",
+    "Hypnotized to love",
+    "Vertical shorts & microdramas",
+    "CONFIRMED · multi-source",
+    "year unverified",
+    "pregnancy / kids unknown"
+   ],
+   "sources": [
+    {
+     "name": "DramaBox catalog",
+     "url": "https://www.dramaboxapp.com/tag/63618/76"
+    },
+    {
+     "name": "BestieAI plot analysis",
+     "url": "https://bestieai.app/topics/stories/kiss-me-even-if-it-burns-plot-analysis-recap-ending-explained-spoilers"
+    },
+    {
+     "name": "Enchanted Playhouse · YouTube",
+     "url": "https://www.youtube.com/watch?v=Ew_hSUFbj68"
+    },
+    {
+     "name": "Forestlight Drama · YouTube",
+     "url": "https://www.youtube.com/watch?v=mICyVlRxD94"
+    },
+    {
+     "name": "Fave_Drama · YouTube",
+     "url": "https://www.youtube.com/watch?v=uV4zBtaI1hE"
+    },
+    {
+     "name": "CupidCutsDrama · YouTube",
+     "url": "https://www.youtube.com/watch?v=My3FLv8A0Qo"
+    }
+   ]
+  },
+  {
+   "cat": 6,
+   "title": "Sweet Strategy: Mr. Vance's Ex Is Too Proud",
+   "year": "Year unverified",
+   "meta": "Vertical short drama · United States · English · ReelShort",
+   "subgroup": "Villain / rival — hypnotic sleepwalking",
+   "summary": "Elena Hayes is hypnotized by a female rival and, while sleepwalking under hypnosis, starts a fire. Her husband Vincent Vance mistakes it for an attempted murder aimed at his fortune. Heartbroken, Elena flees abroad, discovers she is pregnant, and returns four years later with their son Leo.",
+   "note": "Vertical short drama on the ReelShort app; a US-produced English-language original listed across 6+ localized editions. CONFIRMED with a source limitation: every located source is ReelShort’s own catalog, and no independent review, wiki or fandom entry was found. Exact release year unverified. Pregnancy is discovered after the hypnosis event; she gives birth by story’s end, so this is pregnancy-relevant rather than pregnant-during-hypnosis. No children before the event; son Leo by the end.",
+   "character": "Elena Hayes — Vincent Vance’s wife, later ex-wife",
+   "mechanism": "Rival-induced hypnosis causing sleepwalking arson",
+   "controller": "Elena’s female romantic rival",
+   "motive": "Frame Elena as an attempted murderer and destroy her marriage",
+   "tags": [
+    "Forcibly hypnotized to obey",
+    "Hypnotized into crime",
+    "Pregnant woman hypnotized / mind-controlled",
+    "Vertical shorts & microdramas",
+    "CONFIRMED · publisher-sources-only caveat",
+    "year unverified",
+    "pregnancy discovered after hypnosis",
+    "no kids before · son Leo by end"
+   ],
+   "sources": [
+    {
+     "name": "ReelShort · Arabic catalog",
+     "url": "https://www.reelshort.com/tags/movie-styles/%D8%B1%D9%88%D9%85%D8%A7%D9%86%D8%B3%D9%8A%D8%A9-%D8%AD%D9%84%D9%88%D8%A9-movies-676d210f4582b53a14081b81/45"
+    },
+    {
+     "name": "ReelShort · Portuguese catalog",
+     "url": "https://www.reelshort.com/search?keywords=como%20conquista%20uma%20raposa%20prateada&page=2"
+    },
+    {
+     "name": "ReelShort · Spanish catalog",
+     "url": "https://www.reelshort.com/search?keywords=culpa%20nuestra%20avance&%3Buniqueid=1e1"
+    },
+    {
+     "name": "ReelShort · French catalog",
+     "url": "https://www.reelshort.com/search?keywords=renaissance%20a%20l%27universit%C3%A9%20la%20revanche%20de%20l%27h%C3%A9riti%C3%A8re&page=6"
+    },
+    {
+     "name": "ReelShort · Italian catalog",
+     "url": "https://www.reelshort.com/search?keywords=Stregato%20dal%20Mio%20Rivale%20nell%27Hockey%20dove%20vederlo%20gratis&page=8&uniqueid=1t1"
+    },
+    {
+     "name": "ReelShort · Spanish catalog 2",
+     "url": "https://www.reelshort.com/search?keywords=te%20extra%C3%B1o%20despues%20del%20adi%C3%B3s&page=7&uniqueid=364df0698215"
+    }
+   ]
+  },
+  {
    "cat": 23,
    "title": "Vampire Carnival",
    "year": "2026",
@@ -7662,13 +7793,464 @@
     }
    ],
    "provenance": "Aired 25 April 2014; verified in the 9 Oct 2026 targeted Savdhaan India / Shantham Papam sweep."
+  },
+  {
+   "cat": 20,
+   "cats": [
+    20,
+    34
+   ],
+   "primaryCat": 20,
+   "title": "Aladdin – Naam Toh Suna Hoga — E554 “Rukhsar Hypnotized”",
+   "year": "2021",
+   "meta": "TV serial episode · India · Hindi · Sony SAB / SonyLIV",
+   "subgroup": "Villain-directed maternal hypnosis",
+   "subtitle": "12 Jan 2021 · E555 continuation",
+   "summary": "Zeher and Zafar hypnotize Rukhsar Begum (“Ammi”), Aladdin’s mother, and send her to invite Fairoz to the castle so the villains can be freed from the dungeon. The control continues into E555.",
+   "character": "Rukhsar Begum — Aladdin’s mother",
+   "mechanism": "Hypnosis / magical control",
+   "controller": "Zeher and Zafar",
+   "motive": "Lure Fairoz to the castle and enable their escape",
+   "note": "Pregnancy status is unknown because the sources are silent. She already has one son, Aladdin, and the cited arc reports no change.",
+   "tags": [
+    "Female hypnosis / mind control — India",
+    "Mother with child hypnotized / mind-controlled",
+    "Verified · multi-source",
+    "Pregnancy unknown",
+    "1 child before · 1 by end"
+   ],
+   "sources": [
+    {
+     "name": "SonyLIV · E554",
+     "url": "https://www.sonyliv.com/shows/aladdin-naam-toh-suna-hoga-1700000001/rukhsar-hypnotized-1000104094"
+    },
+    {
+     "name": "SonyLIV · E555",
+     "url": "https://www.sonyliv.com/shows/aladdin-naam-toh-suna-hoga-1700000001/aladdin-proposes-1000104161?watch=true"
+    },
+    {
+     "name": "JioCinema USA · E555",
+     "url": "https://www.jiocinemaus.com/episode/aladdin-naam-toh-suna-hoga-s01e555-aladdin-proposes-full-episode/"
+    }
+   ],
+   "provenance": "Added in the 14 Oct 2026 Hotstar / ZEE5 / SonyLIV serial-episode sweep."
+  },
+  {
+   "cat": 20,
+   "cats": [
+    20,
+    6
+   ],
+   "primaryCat": 20,
+   "title": "Baalveer S3 — E39–E43 Aageel / Kaashvi arc",
+   "year": "2023",
+   "meta": "TV serial arc · India · Hindi · Sony SAB / SonyLIV",
+   "subgroup": "Therapist-disguise villain control",
+   "subtitle": "28–30 Jun 2023 · anchored by E41 and E43",
+   "summary": "Aageel, posing as a therapist, keeps Kaashvi under hypnosis or magical mind-control across the arc, steering her toward harming Eva and Navya, sabotaging Baalveer’s fire show and killing on Aageel’s behalf. Kaashvi resists but is powerless.",
+   "character": "Kaashvi — Baalveer’s partner",
+   "mechanism": "Hypnosis / magical mind-control",
+   "controller": "Aageel, disguised as a therapist",
+   "motive": "Force Kaashvi to commit harmful acts and sabotage Baalveer",
+   "note": "Counted as one arc record, not several episodes. Pregnancy and children are unknown because the sources are silent.",
+   "tags": [
+    "Female hypnosis / mind control — India",
+    "Forcibly hypnotized to obey",
+    "Verified · multi-source",
+    "Pregnancy / kids unknown"
+   ],
+   "sources": [
+    {
+     "name": "SonyLIV · E41",
+     "url": "https://www.sonyliv.com/shows/baalveer-s3-1700000071/baalveer-fights-maha-mahim-1000225909"
+    },
+    {
+     "name": "SonyLIV · E43",
+     "url": "https://www.sonyliv.com/shows/baalveer-s3-1700000071/aageel-controls-kaashvi-1000226542?watch=true"
+    },
+    {
+     "name": "Sony SAB · E43",
+     "url": "https://www.youtube.com/watch?v=09354ZHvbQo"
+    },
+    {
+     "name": "Plex · E43",
+     "url": "https://watch.plex.tv/show/baalveer-3/season/1/episode/43"
+    }
+   ],
+   "provenance": "Added in the 14 Oct 2026 Hotstar / ZEE5 / SonyLIV serial-episode sweep."
+  },
+  {
+   "cat": 20,
+   "cats": [
+    20
+   ],
+   "primaryCat": 20,
+   "title": "Bhabi Ji Ghar Par Hai! — E2714 “Sher Khan Hypnotises Angoori and Anita”",
+   "year": "2025",
+   "meta": "TV serial episode · India · Hindi · &TV / ZEE5",
+   "subgroup": "Comedy captivity track",
+   "subtitle": "31 Oct 2025",
+   "summary": "Sher Khan, revealed to be Junior Chirkin, hypnotises Anita, Angoori and other women and holds them captive, releasing them only when his lover arrives.",
+   "character": "Angoori and Anita, plus other women",
+   "mechanism": "Hypnosis",
+   "controller": "Sher Khan / Junior Chirkin",
+   "motive": "Hold the women until his lover arrives",
+   "note": "Single-official-source exception: the ZEE5 episode page carries an explicit hypnosis synopsis plus the captivity and release detail. Pregnancy and children are unknown because the source is silent.",
+   "tags": [
+    "Female hypnosis / mind control — India",
+    "Comedy track",
+    "Single-official-source exception",
+    "Pregnancy / kids unknown"
+   ],
+   "sources": [
+    {
+     "name": "ZEE5 · E2714",
+     "url": "https://www.zee5.com/tvshows/details/bhabi-ji-ghar-par-hai-/0-6-199/sher-khan-hypnotises-angoori-and-anita/0-1-6z5846947"
+    }
+   ],
+   "provenance": "Added with its source limitation intact in the 14 Oct 2026 Hotstar / ZEE5 / SonyLIV serial-episode sweep."
+  },
+  {
+   "cat": 20,
+   "cats": [
+    20
+   ],
+   "primaryCat": 20,
+   "title": "Jijaji Chhat Per Hain — E48 “The Hypnosis”",
+   "year": "2018",
+   "meta": "TV serial episode · India · Hindi · Sony SAB / SonyLIV",
+   "subgroup": "Accidental self-hypnosis comedy",
+   "subtitle": "14 Mar 2018",
+   "summary": "After watching Lalit hypnotize a man, Elaichi tries to hypnotize Pancham but ends up hypnotized herself and believes Pancham is her husband; the belief continues into E49.",
+   "character": "Elaichi",
+   "mechanism": "Literal hypnosis · accidental self-hypnosis",
+   "controller": "No villain controller; Elaichi’s attempt backfires",
+   "motive": "Elaichi intended to make Pancham do what she wanted",
+   "note": "Comedic accidental self-hypnosis. E51 later reframes the beat as a prank—“she was pretending”—so its in-story reality is ambiguous. Episode guides date E48 to 14 Mar 2018; JioCinema lists 15 Mar. Pregnancy and children are unknown because the sources are silent.",
+   "tags": [
+    "Female hypnosis / mind control — India",
+    "Comedy track",
+    "In-story reality ambiguous",
+    "Pregnancy / kids unknown"
+   ],
+   "sources": [
+    {
+     "name": "SonyLIV · E48",
+     "url": "https://www.sonyliv.com/shows/jijaji-chhat-per-hain-1700000147/the-hypnosis-1000017008?watch=true"
+    },
+    {
+     "name": "TMDB · season 1",
+     "url": "https://www.themoviedb.org/tv/86130-jijaji-chhat-par-hai/season/1"
+    },
+    {
+     "name": "Plex · E48",
+     "url": "https://watch.plex.tv/show/jijaji-chhat-par-hai/season/1/episode/48"
+    }
+   ],
+   "provenance": "Added with the later-prank ambiguity intact in the 14 Oct 2026 Hotstar / ZEE5 / SonyLIV serial-episode sweep."
+  },
+  {
+   "cat": 21,
+   "cats": [
+    21,
+    20
+   ],
+   "primaryCat": 21,
+   "title": "Laal Ishq — “Bhavishyawaani”",
+   "year": "2019",
+   "meta": "TV horror anthology episode · India · Hindi · &TV / ZEE5",
+   "subgroup": "Tarot-card hypnosis and soul trap",
+   "subtitle": "aka “Bhavashyavaani” · E141 · 12 Oct 2019",
+   "summary": "Tarot reader Vedna or Vedana hypnotises Ritu and Mahen, making them forget missing friend Ashima and sit for future predictions, then releases ghosts from her cards to take their souls so a trapped soul can be transferred into her son Himan. Ashima earlier suffered the same fate.",
+   "character": "Ritu — Mahen is also hypnotised",
+   "mechanism": "Hypnosis plus supernatural ghost-card soul trap",
+   "controller": "Vedna / Vedana",
+   "motive": "Harvest souls for a transfer into her son Himan",
+   "note": "Distinct from the three Laal Ishq episodes already catalogued. Pregnancy and children are unknown because the sources are silent.",
+   "tags": [
+    "Villain / tantrik control — India",
+    "Female hypnosis / mind control — India",
+    "Verified · multi-source",
+    "Pregnancy / kids unknown"
+   ],
+   "sources": [
+    {
+     "name": "ZEE5 News · episode preview",
+     "url": "https://www.zee5.com/zee5news/laal-ishq-pictures-from-the-upcoming-episode-of-laal-ishq-bhavishyawaani/"
+    },
+    {
+     "name": "Wikipedia · episode table",
+     "url": "https://en.wikipedia.org/wiki/Laal_Ishq_(Indian_TV_series)"
+    }
+   ],
+   "provenance": "Added as a distinct episode in the 14 Oct 2026 Hotstar / ZEE5 / SonyLIV serial-episode sweep."
+  },
+  {
+   "cat": 20,
+   "cats": [
+    20,
+    19
+   ],
+   "primaryCat": 20,
+   "title": "Maitree — E194 “The Serpent Hypnotises Maitree’s Family”",
+   "year": "2023",
+   "meta": "TV serial episode / arc · India · Hindi · Zee TV / ZEE5",
+   "subgroup": "Naagin family hypnosis",
+   "subtitle": "17 Aug 2023 · children beat on 14 Sep 2023",
+   "summary": "Serpent Jhumki hypnotises Maitree’s family, including Nandini, Kusum and Sadhana; Harsh ousts Maitree and installs Jhumki as daughter-in-law while Maitree re-enters in disguise. On 14 September Jhumki also hypnotises the children, including Vedika.",
+   "character": "Maitree’s family members, including daughter Vedika",
+   "mechanism": "Supernatural serpent hypnosis",
+   "controller": "Jhumki, a serpent / naagin",
+   "motive": "Displace Maitree and pursue marriage to Harsh",
+   "note": "Pregnancy is unknown because the sources are silent. Swayam and Vedika are children present before the arc; no birth or death is reported, so children by the end remain unknown.",
+   "tags": [
+    "Female hypnosis / mind control — India",
+    "Supernatural female control — India & Indonesia",
+    "Verified · multi-source",
+    "Pregnancy unknown",
+    "Children before · Swayam and Vedika",
+    "Children by end unknown"
+   ],
+   "sources": [
+    {
+     "name": "ZEE5 · E194",
+     "url": "https://www.zee5.com/tv-shows/details/maitree/0-6-4z5266104/the-serpent-hypnotises-maitrees-family/0-1-6z5413186"
+    },
+    {
+     "name": "TellyUpdates · 25 Aug 2023",
+     "url": "https://www.tellyupdates.com/maitree-25th-august-2023-written-episode-update-nageshwar-gets-killed/"
+    },
+    {
+     "name": "TellyUpdates · 14 Sep 2023",
+     "url": "https://www.tellyupdates.com/maitree-14th-september-2023-written-episode-update-kusum-regrets-her-decisions-regarding-maitree/"
+    }
+   ],
+   "provenance": "Added in the 14 Oct 2026 Hotstar / ZEE5 / SonyLIV serial-episode sweep."
+  },
+  {
+   "cat": 21,
+   "cats": [
+    21,
+    20
+   ],
+   "primaryCat": 21,
+   "title": "Naga Bhairavi / Naag Kavach — “The Tantric Hypnotises Bhairavi”",
+   "year": "2020 / 2022",
+   "meta": "TV serial episode · India · Telugu / Bhojpuri · Zee Telugu / ZEE5",
+   "subgroup": "Tantrik command hypnosis",
+   "subtitle": "Telugu beat 6 Nov 2020 · Naag Kavach E11, 21 Jul 2022",
+   "summary": "An unnamed Tantric hypnotises Bhairavi and orders her into the temple to learn its secret and bring him the Sampada. She complies; NagArjun confronts the Tantric, the mantra breaks, and Bhairavi loses consciousness before NagArjun carries her home.",
+   "character": "Bhairavi",
+   "mechanism": "Tantrik mantra / hypnosis",
+   "controller": "Unnamed Tantric",
+   "motive": "Obtain the temple’s Sampada and learn its secret",
+   "note": "Counted as one story, not two. The relationship between Telugu original Naga Bhairavi and the Bhojpuri Naag Kavach version is inferred from matching names and episode beats, not explicitly established by a retrieved source. Pregnancy and children are unknown because the sources are silent.",
+   "tags": [
+    "Villain / tantrik control — India",
+    "Female hypnosis / mind control — India",
+    "Version relationship inferred",
+    "Pregnancy / kids unknown"
+   ],
+   "sources": [
+    {
+     "name": "TellyExpress · Telugu update",
+     "url": "https://www.tellyexpress.com/?p=60765"
+    },
+    {
+     "name": "ZEE5 · Naag Kavach E11",
+     "url": "https://www.zee5.com/tv-shows/details/naag-kavach/0-6-4z5178975/the-tantric-hypnotises-bhairavi/0-1-6z5182476"
+    },
+    {
+     "name": "Wikipedia · Naga Bhairavi",
+     "url": "https://en.wikipedia.org/wiki/Naga_Bhairavi"
+    }
+   ],
+   "provenance": "Added with the version-relationship caveat intact in the 14 Oct 2026 Hotstar / ZEE5 / SonyLIV serial-episode sweep."
+  },
+  {
+   "cat": 20,
+   "cats": [
+    20
+   ],
+   "primaryCat": 20,
+   "title": "Nazar — Pari and Barkha/Mohana hypnotized by the Chandarveshi",
+   "year": "2020",
+   "meta": "TV serial episode · India · Hindi · Star Plus / JioHotstar",
+   "subgroup": "Chandarveshi family confrontation",
+   "subtitle": "15 Jan 2020",
+   "summary": "The Chandarveshi, or moon people, hypnotize Pari and Barkha—Mohana in governess disguise—while pursuing Ansh. The family flees and hides, Pari falls unconscious, and they later disguise themselves to confuse the Chandarveshi.",
+   "character": "Pari, a child, and Barkha / Mohana, the villainess in disguise",
+   "mechanism": "Supernatural hypnotism / mind-control",
+   "controller": "The Chandarveshi",
+   "motive": "Pursue Ansh, Mohana’s son and heir to black-magic leadership",
+   "note": "Added as a distinct episode-level record after the existing Nazar cards were checked and found not to describe this beat. Pari is a child: pregnancy is not applicable and she has no children. Barkha/Mohana’s pregnancy status is unknown; she already has son Ansh, with no change in this arc.",
+   "tags": [
+    "Female hypnosis / mind control — India",
+    "Child victim",
+    "Villainess victim in disguise",
+    "Pari · pregnancy N/A · no kids",
+    "Mohana · pregnancy unknown · 1 son"
+   ],
+   "sources": [
+    {
+     "name": "TellyUpdates · 15 Jan 2020",
+     "url": "https://www.tellyupdates.com/nazar-15th-january-2020-written-episode-update/"
+    },
+    {
+     "name": "TellyExpress · Chandarveshi report",
+     "url": "https://www.tellyexpress.com/nazar-piya-realizes-that-the-chandarveshi-wants-ansh-not-barkha/"
+    }
+   ],
+   "provenance": "Added after the required live-card merger check in the 14 Oct 2026 Hotstar / ZEE5 / SonyLIV serial-episode sweep."
+  },
+  {
+   "cat": 20,
+   "cats": [
+    20,
+    6
+   ],
+   "primaryCat": 20,
+   "recordKey": "ninaithale-inikkum-e1153",
+   "title": "Ninaithale Inikkum — E1153 “Georginia Makes Siddharth Unconsicious”",
+   "year": "2025",
+   "meta": "TV serial episode · India · Tamil · Zee Tamil / ZEE5",
+   "subgroup": "Hypnosis facilitating abduction",
+   "subtitle": "15 Jan 2025",
+   "summary": "Vettayin hypnotises Rani and abducts Siddharth; Georginia emits poisonous smoke and makes Siddharth unconscious, after which Rani prays for Siddharth to regain consciousness.",
+   "character": "Rani",
+   "mechanism": "Hypnosis",
+   "controller": "Vettayin",
+   "motive": "Facilitate Siddharth’s abduction",
+   "note": "Single-official-source exception: the ZEE5 page carries an explicit hypnosis synopsis plus the abduction and poison-smoke details. Pregnancy and children are unknown because the episode source is silent; unrelated episode titles mentioning “Rani’s Baby” were not imported.",
+   "tags": [
+    "Female hypnosis / mind control — India",
+    "Forcibly hypnotized to obey",
+    "Single-official-source exception",
+    "Pregnancy / kids unknown"
+   ],
+   "sources": [
+    {
+     "name": "ZEE5 · E1153",
+     "url": "https://www.zee5.com/tv-shows/details/ninaithale-inikkum/0-6-3517/georginia-makes-siddharth-unconsicious/0-1-6z5688147"
+    }
+   ],
+   "provenance": "Added with its source limitation intact in the 14 Oct 2026 Hotstar / ZEE5 / SonyLIV serial-episode sweep."
+  },
+  {
+   "cat": 20,
+   "cats": [
+    20,
+    31
+   ],
+   "primaryCat": 20,
+   "recordKey": "ninaithale-inikkum-e1287",
+   "title": "Ninaithale Inikkum — E1287 “Mano Strikes a Deal with Bommi’s Spirit”",
+   "year": "2025",
+   "meta": "TV serial episode · India · Tamil · Zee Tamil / ZEE5",
+   "subgroup": "Spirit-pact kill command",
+   "subtitle": "24 May 2025 · E1290 follow-up",
+   "summary": "Mano makes a deal with Bommi’s spirit to set Siddharth free, then hypnotises Thamarai and orders her to kill Rani and Namboothiri. E1290, in which Thamarai lies to Mano about Namboothiri’s death, corroborates that the order played out.",
+   "character": "Thamarai",
+   "mechanism": "Hypnosis / spirit-pact control",
+   "controller": "Mano",
+   "motive": "Kill Rani and Namboothiri under Mano’s deal with Bommi’s spirit",
+   "note": "Single-official-source exception: ZEE5’s explicit hypnosis synopsis contains the kill order and deal; E1290 is same-source-family corroboration. Pregnancy and children are unknown because the sources are silent. This is distinct from E1153.",
+   "tags": [
+    "Female hypnosis / mind control — India",
+    "Hypnotized into crime",
+    "Single-official-source exception",
+    "Pregnancy / kids unknown"
+   ],
+   "sources": [
+    {
+     "name": "ZEE5 · E1287",
+     "url": "https://www.zee5.com/global/tv-shows/details/ninaithale-inikkum/0-6-3517/mano-strikes-a-deal-with-bommis-spirit/0-1-6z5756994"
+    },
+    {
+     "name": "ZEE5 · E1290",
+     "url": "https://www.zee5.com/tv-shows/details/ninaithale-inikkum/0-6-3517/thamarai-lies-to-mano/0-1-6z5760460"
+    }
+   ],
+   "provenance": "Added as a distinct episode with its source limitation intact in the 14 Oct 2026 sweep."
+  },
+  {
+   "cat": 26,
+   "cats": [
+    26,
+    21
+   ],
+   "primaryCat": 26,
+   "title": "Qayamat Ki Raat — Karuna as Kalasur’s black-magic puppet",
+   "year": "2018",
+   "meta": "TV serial arc · India · Hindi · Star Plus / JioHotstar",
+   "subgroup": "Reanimated puppet control",
+   "subtitle": "22–28 Jul 2018",
+   "summary": "After Karuna dies in the car accident with Aman, tantrik Kalasur revives her through black magic. She returns as his puppet, watches Gauri and receives an order to kill Raj.",
+   "character": "Karuna",
+   "mechanism": "Black-magic reanimation and puppet control",
+   "controller": "Tantrik Kalasur",
+   "motive": "Kill Raj",
+   "note": "Added as a distinct episode-level arc after the existing Qayamat Ki Raat card was checked and found not to describe this beat. The mechanism remains ambiguous: sources variously call Karuna Kalasur’s puppet, zombie-like, working to his tunes or “possessed.” Included on the explicit puppet-control framing. Pregnancy and children are unknown because the sources are silent.",
+   "tags": [
+    "Tantrik / black-magic control",
+    "Villain / tantrik control — India",
+    "Mechanism ambiguous · puppet / possession",
+    "Pregnancy / kids unknown"
+   ],
+   "sources": [
+    {
+     "name": "LatestLY · 28 Jul 2018",
+     "url": "https://www.latestly.com/entertainment/tv/qayamat-ki-raat-written-episode-update-july-28-2018-gauri-gets-suspicious-about-karunas-identity-293614.html"
+    },
+    {
+     "name": "LatestLY · 22 Jul 2018",
+     "url": "https://www.latestly.com/entertainment/tv/qayamat-ki-raat-written-episode-update-july-22-2018-raj-consoles-gauri-as-they-watch-aman-and-karuna-die-281518.html/amp"
+    },
+    {
+     "name": "IWMBuzz · Karuna / Kalasur report",
+     "url": "https://www.iwmbuzz.com/television/news/hemakshi-sharma-enter-qayamat-ki-raat-dead-karuna-possessed-kalasur/2018/07/25"
+    }
+   ],
+   "provenance": "Added after the required live-card merger check in the 14 Oct 2026 Hotstar / ZEE5 / SonyLIV serial-episode sweep."
+  },
+  {
+   "cat": 20,
+   "cats": [
+    20
+   ],
+   "primaryCat": 20,
+   "title": "Trinayani — E1369 “Gayatri Devi’s Spirit Chokes Tilottama”",
+   "year": "2024",
+   "meta": "TV serial episode · India · Telugu · Zee Telugu / ZEE5",
+   "subgroup": "Low-coercion sleep induction",
+   "subtitle": "7 Oct 2024",
+   "summary": "Vikrant hypnotises Gayatri and puts her to sleep while Nayani withholds that Gayatri Devi’s spirit has arrived; the spirit then chokes Tilottama, who later questions Nayani.",
+   "character": "Gayatri — apparently Nayani’s firstborn daughter",
+   "mechanism": "Hypnosis · sleep induction",
+   "controller": "Vikrant",
+   "motive": "Not stated beyond putting Gayatri to sleep",
+   "note": "Single-official-source exception: ZEE5’s synopsis explicitly states the hypnosis and the spirit-choking detail. Gayatri appears to be a child, based on related episode descriptions, but her age was not confirmed; this is a low-coercion sleep-induction case. Pregnancy is not applicable and she has no children.",
+   "tags": [
+    "Female hypnosis / mind control — India",
+    "Child victim · age not confirmed",
+    "Sleep induction · low coercion",
+    "Single-official-source exception",
+    "Pregnancy N/A · no kids"
+   ],
+   "sources": [
+    {
+     "name": "ZEE5 · E1369",
+     "url": "https://www.zee5.com/tv-shows/details/trinayani/0-6-2459/gayatri-devis-spirit-chokes-tilottama/0-1-6z5632985"
+    }
+   ],
+   "provenance": "Added with its source, age and coercion caveats intact in the 14 Oct 2026 sweep."
   }
  ],
- "page_records": 817,
+ "page_records": 831,
  "title": "TV and Movie Research Catalog",
  "kicker": "Screen story-pattern index",
- "heading": "993 catalog records, sorted by the plot turn that matters.",
+ "heading": "1,007 catalog records, sorted by the plot turn that matters.",
  "lede": "A worldwide research snapshot spanning films, serials, television movies, series, soap operas, independent shorts and vertical microdramas.",
- "results": "817 unique named titles shown · 993 records in source snapshot",
- "cards": 817
+ "results": "831 unique named titles shown · 1,007 records in source snapshot",
+ "cards": 831
 }
