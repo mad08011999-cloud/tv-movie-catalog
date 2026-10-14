@@ -2821,6 +2821,80 @@ window.CATALOG = {
    "status": "local"
   },
   {
+   "id": "widow-remarry",
+   "label": "Widow/divorcee remarries & pregnant again",
+   "kind": "local",
+   "share_url": "sources/widow-remarry.json",
+   "description": "Adult women with a prior marriage (widowed or divorced) who remarry, or marry the man they are pregnant by, and become pregnant by the new husband. Existing cards are tagged via match_title/match_year. Researched 14 Oct 2026 PT. Records with fewer than 2 independent sources carry fit='loose'.",
+   "dropped": [
+    {
+     "title": "Love Comes Softly",
+     "year": "2003",
+     "reason": "Marty is pregnant by her late husband before the remarriage; her children with Clark are on the 2004 sequel card"
+    },
+    {
+     "title": "The Postman Always Rings Twice",
+     "year": "1981",
+     "reason": "Cora is pregnant but she and Frank do not marry (Wikipedia plot)"
+    },
+    {
+     "title": "Sex Education",
+     "year": "2021",
+     "reason": "Jean is pregnant by Jakob but does not remarry"
+    },
+    {
+     "title": "Mad Men / This Is Us / Six Feet Under",
+     "year": "",
+     "reason": "remarriage without a new pregnancy"
+    },
+    {
+     "title": "Anupamaa",
+     "year": "2020",
+     "reason": "divorcee remarries Anuj; children are adopted, not a pregnancy"
+    },
+    {
+     "title": "Aşk Yeniden",
+     "year": "2015",
+     "reason": "Zeynep had no prior marriage"
+    },
+    {
+     "title": "The Remarried Empress",
+     "year": "2026",
+     "reason": "Navier's pregnancy is confirmed in the novel/webtoon only; not confirmed in the screen adaptation"
+    },
+    {
+     "title": "Middlemarch",
+     "year": "1994",
+     "reason": "widowed Dorothea marries Ladislaw, but no on-screen pregnancy confirmed"
+    },
+    {
+     "title": "Boardwalk Empire",
+     "year": "2010",
+     "reason": "Margaret's later pregnancy is by a man other than her new husband"
+    },
+    {
+     "title": "Rani's story (Reena Kapoor serial)",
+     "year": "",
+     "reason": "Pari was already pregnant by her late husband before remarrying; serial title unconfirmed"
+    },
+    {
+     "title": "Pearl Harbor",
+     "year": "2001",
+     "reason": "Evelyn had no prior marriage"
+    },
+    {
+     "title": "Desperate Housewives (Lynette), Look Who's Talking Too, Tutti pazzi per amore, Athmasakhi, Emmerdale, The Young and the Restless, María Isabel, Abrázame muy fuerte, Ugly Betty, Binbir Gece, When the Camellia Blooms, The Legend of Paul and Paula",
+     "year": "",
+     "reason": "existing 'family' cards where no prior marriage ending in widowhood or divorce is stated"
+    }
+   ],
+   "check": {
+    "raw_count": 33,
+    "ok": true
+   },
+   "status": "local"
+  },
+  {
    "id": "savdhaan-santham-oct9",
    "label": "Savdhaan India / Shantham Papam follow-up (9 Oct 2026)",
    "kind": "local",
@@ -2940,13 +3014,14 @@ window.CATALOG = {
   "hypnotized-marriage": 36,
   "no-link-additions": 40,
   "hypno-sweep-oct9": 8,
+  "widow-remarry": 33,
   "savdhaan-santham-oct9": 1,
   "widow-divorcee-oct14": 3,
   "round2": 11,
   "round3": 17
  },
- "raw_total": 5269,
- "entry_count": 2554,
+ "raw_total": 5302,
+ "entry_count": 2561,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -3439,6 +3514,12 @@ window.CATALOG = {
    "label": "Villain / tantrik control — India",
    "legend_label": "Villain / tantrik control — India",
    "entry_count": 12
+  },
+  {
+   "key": "widow-divorcee-remarry-pregnant",
+   "label": "Widow/divorcee remarries & pregnant again",
+   "legend_label": "Widow/divorcee remarries & pregnant again",
+   "entry_count": 33
   },
   {
    "key": "widow-divorcee",
@@ -22772,10 +22853,12 @@ window.CATALOG = {
    "existing_kids": "1",
    "pregnancy_again": "birth",
    "pregnancy_again_note": "son Dale born (later dies of SIDS)",
+   "source_conflict": "Kids together: widow-remarry says “yes”; mom-pregnancy says “no”",
    "format": "tv",
    "categories": [
     "mom-pregnancy",
-    "family"
+    "family",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
@@ -22785,6 +22868,10 @@ window.CATALOG = {
     {
      "label": "Source",
      "url": "https://www.backtothebay.net/characters/leah-patterson-baker/"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0094481/"
     }
    ],
    "youtube_ids": [],
@@ -22792,14 +22879,16 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "mom-pregnancy",
-    "kids-pregnant-again"
+    "kids-pregnant-again",
+    "widow-remarry"
    ],
    "source_records": [
     "xla62ucxbx02u5:77",
     "xla62ucxbx02u5:1345",
     "ig6qlxqxoxvcxla:419",
     "mom-pregnancy:50",
-    "kids-pregnant-again:73"
+    "kids-pregnant-again:73",
+    "widow-remarry:20"
    ],
    "index_only": false,
    "local_only": false,
@@ -22957,6 +23046,44 @@ window.CATALOG = {
      "pregnancy_again_note": "son Dale born (later dies of SIDS)",
      "distinct_story": false,
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "widow-remarry:20",
+     "source": "widow-remarry",
+     "label": "Home and Away (1991–92)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Home and Away",
+     "subtitle": "",
+     "year": "1991–92",
+     "meta": "Soap · Australia · English",
+     "summary": "Widowed foster mother Pippa marries Michael Ross, becomes pregnant and gives birth to Dale.",
+     "character": "Pippa (Debra Lawrance), Michael Ross",
+     "note": "Prior marriage: widowed (Tom Fletcher). ",
+     "mechanism": "",
+     "confidence_flag": "2 sources",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Pippa_Ross"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0094481/"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "evidence": "2 sources",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -23036,6 +23163,38 @@ window.CATALOG = {
      "married_note": "marries Dan",
      "evidence": "single source — Source"
     },
+    "widow-remarry:20": {
+     "title": "Home and Away",
+     "year": "1991–92",
+     "format": "TV series",
+     "meta": "Soap · Australia · English",
+     "summary": "Widowed foster mother Pippa marries Michael Ross, becomes pregnant and gives birth to Dale.",
+     "character": "Pippa (Debra Lawrance), Michael Ross",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Pippa_Ross"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0094481/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "adult": "yes",
+     "confidence_flag": "2 sources",
+     "evidence": "2 sources",
+     "note": "Prior marriage: widowed (Tom Fletcher). ",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+     "match_title": "Home and Away",
+     "match_year": "1991–92"
+    },
     "kids-pregnant-again:73": {
      "title": "Home and Away",
      "year": "1991–92",
@@ -23086,6 +23245,9 @@ window.CATALOG = {
    "character": "Yasemin",
    "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)",
    "note": "",
+   "tags": [
+    "loose fit"
+   ],
    "kids_status": "yes",
    "kids_note": "one daughter, Gamze",
    "kids_together": "yes",
@@ -23095,10 +23257,12 @@ window.CATALOG = {
    "pregnant_end": "yes",
    "pregnant_end_note": "by new husband Sinan; son Çınar Hakkı born",
    "evidence": "single source — Source",
+   "adult": "yes",
    "format": "tv",
    "categories": [
     "family",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
@@ -23110,12 +23274,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "widow-remarry"
    ],
    "source_records": [
     "xla62ucxbx02u5:78",
     "ig6qlxqxoxvcxla:420",
-    "mom-pregnancy:51"
+    "mom-pregnancy:51",
+    "widow-remarry:21"
    ],
    "index_only": false,
    "local_only": false,
@@ -23204,6 +23370,41 @@ window.CATALOG = {
      "evidence": "single source — Source",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "widow-remarry:21",
+     "source": "widow-remarry",
+     "label": "Umutsuz Ev Kadınları",
+     "identifiers": [],
+     "title": "Umutsuz Ev Kadınları",
+     "subtitle": "",
+     "year": "",
+     "meta": "TV series · Turkey · Turkish",
+     "summary": "Divorced Yasemin marries Sinan and has son Çınar Hakkı with him.",
+     "character": "Yasemin, Sinan",
+     "note": "Prior marriage: divorced. Second source not added in this pass.",
+     "mechanism": "",
+     "confidence_flag": "1 sources · loose fit",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia (tr)",
+       "url": "https://tr.wikipedia.org/wiki/Umutsuz_Ev_Kad%C4%B1nlar%C4%B1"
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "evidence": "1 sources — single source",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -23261,6 +23462,38 @@ window.CATALOG = {
      "married": "yes",
      "married_note": "marries Sinan",
      "evidence": "single source — Source"
+    },
+    "widow-remarry:21": {
+     "title": "Umutsuz Ev Kadınları",
+     "year": "",
+     "format": "TV series",
+     "meta": "TV series · Turkey · Turkish",
+     "summary": "Divorced Yasemin marries Sinan and has son Çınar Hakkı with him.",
+     "character": "Yasemin, Sinan",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia (tr)",
+       "url": "https://tr.wikipedia.org/wiki/Umutsuz_Ev_Kad%C4%B1nlar%C4%B1"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "adult": "yes",
+     "confidence_flag": "1 sources · loose fit",
+     "evidence": "1 sources — single source",
+     "note": "Prior marriage: divorced. Second source not added in this pass.",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "match_title": "Umutsuz Ev Kadınları",
+     "match_year": ""
     }
    }
   },
@@ -23276,6 +23509,9 @@ window.CATALOG = {
    "character": "Gamze",
    "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)",
    "note": "Birth unconfirmed in sources.",
+   "tags": [
+    "loose fit"
+   ],
    "kids_status": "yes",
    "kids_note": "one son, Tuna",
    "kids_together": "not stated",
@@ -23284,10 +23520,12 @@ window.CATALOG = {
    "pregnant_end": "yes",
    "pregnant_end_note": "by new husband Ömer; birth unconfirmed in the source",
    "evidence": "single source — Source",
+   "adult": "yes",
    "format": "tv",
    "categories": [
     "family",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
@@ -23299,12 +23537,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "widow-remarry"
    ],
    "source_records": [
     "xla62ucxbx02u5:79",
     "ig6qlxqxoxvcxla:421",
-    "mom-pregnancy:52"
+    "mom-pregnancy:52",
+    "widow-remarry:22"
    ],
    "index_only": false,
    "local_only": false,
@@ -23392,6 +23632,41 @@ window.CATALOG = {
      "evidence": "single source — Source",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "widow-remarry:22",
+     "source": "widow-remarry",
+     "label": "Ömer",
+     "identifiers": [],
+     "title": "Ömer",
+     "subtitle": "",
+     "year": "",
+     "meta": "TV series · Turkey · Turkish",
+     "summary": "Widowed Gamze, mother of Tuna, marries Ömer and becomes pregnant with his child.",
+     "character": "Gamze, Ömer",
+     "note": "Prior marriage: widowed. Second source not added in this pass.",
+     "mechanism": "",
+     "confidence_flag": "1 sources · loose fit",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia (tr)",
+       "url": "https://tr.wikipedia.org/wiki/%C3%96mer_(dizi)"
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "evidence": "1 sources — single source",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -23448,6 +23723,38 @@ window.CATALOG = {
      "married": "yes",
      "married_note": "marries Ömer",
      "evidence": "single source — Source"
+    },
+    "widow-remarry:22": {
+     "title": "Ömer",
+     "year": "",
+     "format": "TV series",
+     "meta": "TV series · Turkey · Turkish",
+     "summary": "Widowed Gamze, mother of Tuna, marries Ömer and becomes pregnant with his child.",
+     "character": "Gamze, Ömer",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia (tr)",
+       "url": "https://tr.wikipedia.org/wiki/%C3%96mer_(dizi)"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "adult": "yes",
+     "confidence_flag": "1 sources · loose fit",
+     "evidence": "1 sources — single source",
+     "note": "Prior marriage: widowed. Second source not added in this pass.",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "match_title": "Ömer",
+     "match_year": ""
     }
    }
   },
@@ -23653,6 +23960,9 @@ window.CATALOG = {
    "character": "Soon-ae",
    "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)",
    "note": "Wedding implied, not explicitly shown.",
+   "tags": [
+    "loose fit"
+   ],
    "kids_status": "yes",
    "kids_note": "not stated how many (divorced mother)",
    "kids_together": "yes",
@@ -23662,27 +23972,35 @@ window.CATALOG = {
    "pregnant_end": "yes",
    "pregnant_end_note": "by new partner Jin-woo; baby born by the finale",
    "evidence": "single source — Source",
+   "adult": "yes",
    "format": "tv",
    "categories": [
     "family",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
      "label": "Source",
      "url": "https://ko.wikipedia.org/wiki/있을_때_잘해!!"
+    },
+    {
+     "label": "Existing catalog card",
+     "url": "https://mad08011999-cloud.github.io/tv-movie-catalog/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "widow-remarry"
    ],
    "source_records": [
     "xla62ucxbx02u5:81",
     "ig6qlxqxoxvcxla:423",
-    "mom-pregnancy:54"
+    "mom-pregnancy:54",
+    "widow-remarry:33"
    ],
    "index_only": false,
    "local_only": false,
@@ -23777,6 +24095,43 @@ window.CATALOG = {
      "evidence": "single source — Source",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "widow-remarry:33",
+     "source": "widow-remarry",
+     "label": "Isseul Ttae Jalhae / Be Good While I'm Here (2006)",
+     "identifiers": [
+      "own title/qualifier"
+     ],
+     "title": "Isseul Ttae Jalhae / Be Good While I'm Here (2006)",
+     "subtitle": "",
+     "year": "",
+     "meta": "TV series · South Korea · Korean",
+     "summary": "Divorced mother Soon-ae and new partner Jin-woo have a baby by the finale.",
+     "character": "Soon-ae, Jin-woo",
+     "note": "Prior marriage: divorced. Marriage to Jin-woo not confirmed; single source.",
+     "mechanism": "",
+     "confidence_flag": "0 new independent sources · loose fit",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Existing catalog card",
+       "url": "https://mad08011999-cloud.github.io/tv-movie-catalog/"
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "married": "unknown",
+     "pregnant_end": "yes",
+     "evidence": "1 sources — single source",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -23834,6 +24189,38 @@ window.CATALOG = {
      "married": "not stated",
      "married_note": "wedding implied, not shown",
      "evidence": "single source — Source"
+    },
+    "widow-remarry:33": {
+     "title": "Isseul Ttae Jalhae / Be Good While I'm Here (2006)",
+     "year": "",
+     "format": "TV series",
+     "meta": "TV series · South Korea · Korean",
+     "summary": "Divorced mother Soon-ae and new partner Jin-woo have a baby by the finale.",
+     "character": "Soon-ae, Jin-woo",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Existing catalog card",
+       "url": "https://mad08011999-cloud.github.io/tv-movie-catalog/"
+      }
+     ],
+     "married": "unknown",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "adult": "yes",
+     "confidence_flag": "0 new independent sources · loose fit",
+     "evidence": "1 sources — single source",
+     "note": "Prior marriage: divorced. Marriage to Jin-woo not confirmed; single source.",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "match_title": "Isseul Ttae Jalhae / Be Good While I'm Here (2006)",
+     "match_year": ""
     }
    }
   },
@@ -24233,26 +24620,42 @@ window.CATALOG = {
    "confidence_flag": "Near-match",
    "summary": "Anandi remarries and has twins but was not already a single mother.",
    "character": "Anandi",
-   "provenance": "",
+   "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
    "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "no",
+   "kids_together": "yes",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "evidence": "1 sources — single source",
+   "adult": "yes",
    "format": "tv",
    "categories": [
-    "family"
+    "family",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
      "label": "Source",
      "url": "https://www.tellychakkar.com/tv/tv-news/anandi-become-mother-of-twins-balika-vadhu-141222?amp"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Balika_Vadhu"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "widow-remarry"
    ],
    "source_records": [
     "xla62ucxbx02u5:85",
-    "ig6qlxqxoxvcxla:433"
+    "ig6qlxqxoxvcxla:433",
+    "widow-remarry:25"
    ],
    "index_only": false,
    "local_only": false,
@@ -24304,6 +24707,41 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Balika Vadhu",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "widow-remarry:25",
+     "source": "widow-remarry",
+     "label": "Balika Vadhu",
+     "identifiers": [],
+     "title": "Balika Vadhu",
+     "subtitle": "",
+     "year": "",
+     "meta": "Hindi serial · India",
+     "summary": "Anandi, divorced from Jagdish as an adult, marries Shivraj Shekhar and later has twins.",
+     "character": "Anandi, Shivraj Shekhar",
+     "note": "Prior marriage: divorced (Jagdish); she was married as a child. The first marriage happened when she was a minor; only the adult remarriage arc fits. Single source.",
+     "mechanism": "",
+     "confidence_flag": "1 sources · loose fit",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Balika_Vadhu"
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "no",
+     "kids_together": "yes",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "evidence": "1 sources — single source",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -24331,6 +24769,38 @@ window.CATALOG = {
      "group": "Near / partial matches",
      "confidence": "Near-match",
      "note": ""
+    },
+    "widow-remarry:25": {
+     "title": "Balika Vadhu",
+     "year": "",
+     "format": "TV serial",
+     "meta": "Hindi serial · India",
+     "summary": "Anandi, divorced from Jagdish as an adult, marries Shivraj Shekhar and later has twins.",
+     "character": "Anandi, Shivraj Shekhar",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Balika_Vadhu"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "no",
+     "adult": "yes",
+     "confidence_flag": "1 sources · loose fit",
+     "evidence": "1 sources — single source",
+     "note": "Prior marriage: divorced (Jagdish); she was married as a child. The first marriage happened when she was a minor; only the adult remarriage arc fits. Single source.",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "match_title": "Balika Vadhu",
+     "match_year": ""
     }
    }
   },
@@ -28930,12 +29400,22 @@ window.CATALOG = {
    "confidence_flag": "High confidence for S02E04–05 · medium for S02E06",
    "summary": "Across three season-two episodes, pregnant Claire and Jamie reconnect sexually in “La Dame Blanche”; after a later fight she wakes him and they have sex while her prosthetic bump remains visible; and in “Best Laid Schemes” he gives her a tender foot rub.",
    "character": "",
-   "provenance": "",
+   "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
    "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "no",
+   "kids_together": "yes",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "evidence": "2 sources",
+   "adult": "yes",
    "format": "tv",
    "categories": [
     "pregnant-sex",
-    "pregnant-intimate"
+    "pregnant-intimate",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
@@ -28957,18 +29437,28 @@ window.CATALOG = {
     {
      "label": "Showbiz Junkies · S02E06",
      "url": "https://www.showbizjunkies.com/tv/outlander-season-2-episode-6-recap/amp/"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Outlander_(TV_series)"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt3006802/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "widow-remarry"
    ],
    "source_records": [
     "xla62ucxbx02u5:114",
     "ig6qlxqxoxvcxla:97",
     "ig6qlxqxoxvcxla:957",
-    "ig6qlxqxoxvcxla:978"
+    "ig6qlxqxoxvcxla:978",
+    "widow-remarry:19"
    ],
    "index_only": false,
    "local_only": false,
@@ -29110,6 +29600,47 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Outlander",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "widow-remarry:19",
+     "source": "widow-remarry",
+     "label": "Outlander (2014–)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Outlander",
+     "subtitle": "",
+     "year": "2014–",
+     "meta": "TV series · UK/US · English",
+     "summary": "Claire, still married to Frank in 1945, is carried back to 1743, marries Jamie Fraser, and becomes pregnant twice (Faith, stillborn; later Brianna).",
+     "character": "Claire (Caitríona Balfe), Jamie Fraser (Sam Heughan)",
+     "note": "Prior marriage: none ended — first husband Frank is alive in another century. Loose fit only: not widowed or divorced.",
+     "mechanism": "",
+     "confidence_flag": "2 sources · loose fit",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Outlander_(TV_series)"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt3006802/"
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "no",
+     "kids_together": "yes",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "evidence": "2 sources",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -29203,6 +29734,42 @@ window.CATALOG = {
      "group": "Affectionate / romantic / marital",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "widow-remarry:19": {
+     "title": "Outlander",
+     "year": "2014–",
+     "format": "TV series",
+     "meta": "TV series · UK/US · English",
+     "summary": "Claire, still married to Frank in 1945, is carried back to 1743, marries Jamie Fraser, and becomes pregnant twice (Faith, stillborn; later Brianna).",
+     "character": "Claire (Caitríona Balfe), Jamie Fraser (Sam Heughan)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Outlander_(TV_series)"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt3006802/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "no",
+     "adult": "yes",
+     "confidence_flag": "2 sources · loose fit",
+     "evidence": "2 sources",
+     "note": "Prior marriage: none ended — first husband Frank is alive in another century. Loose fit only: not widowed or divorced.",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "match_title": "Outlander",
+     "match_year": "2016"
     }
    }
   },
@@ -70923,21 +71490,42 @@ window.CATALOG = {
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "no",
+   "kids_together": "yes",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "evidence": "2 sources",
+   "adult": "yes",
    "format": "tv",
    "categories": [
     "spirit",
     "polygamy-hypnosis",
-    "polygamy-pregnancy"
+    "polygamy-pregnancy",
+    "widow-divorcee-remarry-pregnant"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "label": "Wikipedia (historical Hatice)",
+     "url": "https://en.wikipedia.org/wiki/Hatice_Sultan_(daughter_of_Selim_I)"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt1848220/"
+    }
+   ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "widow-remarry"
    ],
    "source_records": [
     "xla62ucxbx02u5:336",
-    "ig6qlxqxoxvcxla:662"
+    "ig6qlxqxoxvcxla:662",
+    "widow-remarry:18"
    ],
    "index_only": false,
    "local_only": false,
@@ -70990,6 +71578,47 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Muhteşem Yüzyıl episode 88",
      "matched_by": "alias"
+    },
+    {
+     "rid": "widow-remarry:18",
+     "source": "widow-remarry",
+     "label": "Muhteşem Yüzyıl / Magnificent Century (2011–2014)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Muhteşem Yüzyıl / Magnificent Century",
+     "subtitle": "",
+     "year": "2011–2014",
+     "meta": "Period soap · Turkey · Turkish",
+     "summary": "Hatice Sultan, a young widow, marries Pargalı İbrahim Pasha and bears his children.",
+     "character": "Hatice Sultan (Selma Ergeç), İbrahim Pasha (Okan Yalabık)",
+     "note": "Prior marriage: widowed (İskender Pasha, historical). Series portrayal of the prior marriage and pregnancies not confirmed in an episode source; loose.",
+     "mechanism": "",
+     "confidence_flag": "2 sources · loose fit",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia (historical Hatice)",
+       "url": "https://en.wikipedia.org/wiki/Hatice_Sultan_(daughter_of_Selim_I)"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt1848220/"
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "no",
+     "kids_together": "yes",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "evidence": "2 sources",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -71047,6 +71676,40 @@ window.CATALOG = {
      "group": "Turkish / Arab / Latin / African",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "widow-remarry:18": {
+     "title": "Muhteşem Yüzyıl / Magnificent Century",
+     "year": "2011–2014",
+     "format": "TV series",
+     "meta": "Period soap · Turkey · Turkish",
+     "summary": "Hatice Sultan, a young widow, marries Pargalı İbrahim Pasha and bears his children.",
+     "character": "Hatice Sultan (Selma Ergeç), İbrahim Pasha (Okan Yalabık)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia (historical Hatice)",
+       "url": "https://en.wikipedia.org/wiki/Hatice_Sultan_(daughter_of_Selim_I)"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt1848220/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "no",
+     "adult": "yes",
+     "confidence_flag": "2 sources · loose fit",
+     "evidence": "2 sources",
+     "note": "Prior marriage: widowed (İskender Pasha, historical). Series portrayal of the prior marriage and pregnancies not confirmed in an episode source; loose.",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ]
     }
    }
   },
@@ -82194,7 +82857,8 @@ window.CATALOG = {
    "format": "movie",
    "categories": [
     "adopt-pregnancy",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
@@ -82208,6 +82872,14 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Sex_and_the_City"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Sex_and_the_City_(film)"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt1000774/"
     }
    ],
    "youtube_ids": [],
@@ -82215,13 +82887,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "mom-pregnancy",
-    "kids-pregnant-again"
+    "kids-pregnant-again",
+    "widow-remarry"
    ],
    "source_records": [
     "xla62ucxbx02u5:427",
     "ig6qlxqxoxvcxla:437",
     "mom-pregnancy:83",
-    "kids-pregnant-again:11"
+    "kids-pregnant-again:11",
+    "widow-remarry:6"
    ],
    "index_only": false,
    "local_only": false,
@@ -82364,6 +83038,44 @@ window.CATALOG = {
      "pregnancy_again_note": "daughter Rose born",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "widow-remarry:6",
+     "source": "widow-remarry",
+     "label": "Sex and the City (2008)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Sex and the City",
+     "subtitle": "",
+     "year": "2008",
+     "meta": "Film · United States · English",
+     "summary": "Charlotte, divorced from Trey, is married to Harry; after adopting Lily she becomes pregnant and gives birth.",
+     "character": "Charlotte York (Kristin Davis), Harry Goldenblatt (Evan Handler)",
+     "note": "Prior marriage: divorced (Trey MacDougal). ",
+     "mechanism": "",
+     "confidence_flag": "2 sources",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Sex_and_the_City_(film)"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt1000774/"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "evidence": "2 sources",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -82461,6 +83173,38 @@ window.CATALOG = {
      ],
      "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
      "married": "yes",
+     "match_title": "Sex and the City",
+     "match_year": "2008"
+    },
+    "widow-remarry:6": {
+     "title": "Sex and the City",
+     "year": "2008",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "summary": "Charlotte, divorced from Trey, is married to Harry; after adopting Lily she becomes pregnant and gives birth.",
+     "character": "Charlotte York (Kristin Davis), Harry Goldenblatt (Evan Handler)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Sex_and_the_City_(film)"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt1000774/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "adult": "yes",
+     "confidence_flag": "2 sources",
+     "evidence": "2 sources",
+     "note": "Prior marriage: divorced (Trey MacDougal). ",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
      "match_title": "Sex and the City",
      "match_year": "2008"
     }
@@ -134890,10 +135634,13 @@ window.CATALOG = {
    "pregnant_end": "yes",
    "pregnant_end_note": "by Ross Poldark; son Valentine born and passed off as George's",
    "evidence": "3 sources on the card (Den of Geek, Radio Times, ScreenRant)",
+   "adult": "yes",
+   "source_conflict": "Marries her: widow-remarry says “yes”; mom-pregnancy says “no”",
    "format": "tv",
    "categories": [
     "another-man",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
@@ -134907,19 +135654,29 @@ window.CATALOG = {
     {
      "label": "ScreenRant",
      "url": "http://screenrant.com/poldark-the-worst-thing-each-character-has-done/"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Poldark_(2015_TV_series)"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt3636060/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "widow-remarry"
    ],
    "source_records": [
     "xla62ucxbx02u5:774",
     "ig6qlxqxoxvcxla:36",
     "ig6qlxqxoxvcxla:240",
-    "mom-pregnancy:20"
+    "mom-pregnancy:20",
+    "widow-remarry:3"
    ],
    "index_only": false,
    "local_only": false,
@@ -135059,6 +135816,44 @@ window.CATALOG = {
      "evidence": "3 sources on the card (Den of Geek, Radio Times, ScreenRant)",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "widow-remarry:3",
+     "source": "widow-remarry",
+     "label": "Poldark (2015–2019)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Poldark",
+     "subtitle": "",
+     "year": "2015–2019",
+     "meta": "TV series · United Kingdom · English",
+     "summary": "Widowed Elizabeth marries George Warleggan; she bears Valentine (paternity disputed with Ross) and dies after a later pregnancy with George.",
+     "character": "Elizabeth (Heida Reed), George Warleggan (Jack Farthing)",
+     "note": "Prior marriage: widowed (Francis Poldark). Source conflict/ambiguity: Valentine's father (Ross vs George).",
+     "mechanism": "",
+     "confidence_flag": "2 sources",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Poldark_(2015_TV_series)"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt3636060/"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "evidence": "2 sources",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -135157,6 +135952,38 @@ window.CATALOG = {
      "married": "no",
      "married_note": "Ross never marries Elizabeth; she is married to George",
      "evidence": "3 sources on the card (Den of Geek, Radio Times, ScreenRant)"
+    },
+    "widow-remarry:3": {
+     "title": "Poldark",
+     "year": "2015–2019",
+     "format": "TV series",
+     "meta": "TV series · United Kingdom · English",
+     "summary": "Widowed Elizabeth marries George Warleggan; she bears Valentine (paternity disputed with Ross) and dies after a later pregnancy with George.",
+     "character": "Elizabeth (Heida Reed), George Warleggan (Jack Farthing)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Poldark_(2015_TV_series)"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt3636060/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "adult": "yes",
+     "confidence_flag": "2 sources",
+     "evidence": "2 sources",
+     "note": "Prior marriage: widowed (Francis Poldark). Source conflict/ambiguity: Valentine's father (Ross vs George).",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+     "match_title": "Poldark",
+     "match_year": "2015–2019"
     }
    }
   },
@@ -151327,6 +152154,9 @@ window.CATALOG = {
    "character": "Wu Li Mei",
    "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)",
    "note": "Outcome facts: married: yes; kids status: yes.",
+   "tags": [
+    "loose fit"
+   ],
    "kids_status": "yes",
    "kids_note": "not stated how many (divorced mother)",
    "kids_together": "not stated",
@@ -151335,27 +152165,35 @@ window.CATALOG = {
    "pregnant_end": "yes",
    "pregnant_end_note": "by new husband (flash marriage); unexpected pregnancy near 50; outcome not stated",
    "evidence": "single source — Source",
+   "adult": "yes",
    "format": "tv",
    "categories": [
     "mom-pregnancy",
-    "family"
+    "family",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
      "label": "Source",
      "url": "https://www.imdb.com/title/tt29613358"
+    },
+    {
+     "label": "Existing catalog card (no new source)",
+     "url": "https://mad08011999-cloud.github.io/tv-movie-catalog/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "widow-remarry"
    ],
    "source_records": [
     "xla62ucxbx02u5:865",
     "ig6qlxqxoxvcxla:424",
-    "mom-pregnancy:55"
+    "mom-pregnancy:55",
+    "widow-remarry:28"
    ],
    "index_only": false,
    "local_only": false,
@@ -151452,6 +152290,44 @@ window.CATALOG = {
      "evidence": "single source — Source",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "widow-remarry:28",
+     "source": "widow-remarry",
+     "label": "180天重启计划 / Me and My Family (2025)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "180天重启计划 / Me and My Family (2025)",
+     "subtitle": "",
+     "year": "2025",
+     "meta": "TV series · China · Mandarin",
+     "summary": "Divorced mother Wu Limei flash-marries a new partner and unexpectedly becomes pregnant near age 50.",
+     "character": "Wu Limei",
+     "note": "Prior marriage: divorced. Tag only; no new independent source this pass.",
+     "mechanism": "",
+     "confidence_flag": "0 new independent sources · loose fit",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Existing catalog card (no new source)",
+       "url": "https://mad08011999-cloud.github.io/tv-movie-catalog/"
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "evidence": "1 sources — single source",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -151510,6 +152386,38 @@ window.CATALOG = {
      "married": "yes",
      "married_note": "flash marriage",
      "evidence": "single source — Source"
+    },
+    "widow-remarry:28": {
+     "title": "180天重启计划 / Me and My Family (2025)",
+     "year": "2025",
+     "format": "TV series",
+     "meta": "TV series · China · Mandarin",
+     "summary": "Divorced mother Wu Limei flash-marries a new partner and unexpectedly becomes pregnant near age 50.",
+     "character": "Wu Limei",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Existing catalog card (no new source)",
+       "url": "https://mad08011999-cloud.github.io/tv-movie-catalog/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "adult": "yes",
+     "confidence_flag": "0 new independent sources · loose fit",
+     "evidence": "1 sources — single source",
+     "note": "Prior marriage: divorced. Tag only; no new independent source this pass.",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "match_title": "180天重启计划 / Me and My Family (2025)",
+     "match_year": "2025"
     }
    }
   },
@@ -199224,10 +200132,12 @@ window.CATALOG = {
    "pregnant_end_note": "by new husband Mike Delfino; son M.J. (Maynard James) born",
    "evidence": "2+ independent sources (Wikipedia, Desperate Housewives wiki)",
    "fit_note": "Separate storyline from the existing Season 6 (Lynette twins) and S05E04 cards.",
+   "adult": "yes",
    "format": "tv",
    "categories": [
     "mom-pregnancy",
-    "family"
+    "family",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
@@ -199237,16 +200147,26 @@ window.CATALOG = {
     {
      "label": "Desperate Housewives fandom wiki",
      "url": "https://desperatehousewives.fandom.com/wiki/Susan_Delfino"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Desperate_Housewives"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0410975/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "widow-remarry"
    ],
    "source_records": [
     "xla62ucxbx02u5:1133",
-    "mom-pregnancy:4"
+    "mom-pregnancy:4",
+    "widow-remarry:5"
    ],
    "index_only": false,
    "local_only": false,
@@ -199336,6 +200256,44 @@ window.CATALOG = {
      "fit_note": "Separate storyline from the existing Season 6 (Lynette twins) and S05E04 cards.",
      "distinct_story": false,
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "widow-remarry:5",
+     "source": "widow-remarry",
+     "label": "Desperate Housewives (2007–08)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Desperate Housewives",
+     "subtitle": "",
+     "year": "2007–08",
+     "meta": "TV series · United States · English",
+     "summary": "Divorced Susan Mayer, mother of Julie, marries Mike Delfino and becomes pregnant with son M.J.",
+     "character": "Susan Mayer (Teri Hatcher), Mike Delfino (James Denton)",
+     "note": "Prior marriage: divorced (Karl Mayer). ",
+     "mechanism": "",
+     "confidence_flag": "2 sources",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Desperate_Housewives"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0410975/"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "evidence": "2 sources",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -199364,6 +200322,38 @@ window.CATALOG = {
       "mom-pregnancy",
       "family"
      ]
+    },
+    "widow-remarry:5": {
+     "title": "Desperate Housewives",
+     "year": "2007–08",
+     "format": "TV series",
+     "meta": "TV series · United States · English",
+     "summary": "Divorced Susan Mayer, mother of Julie, marries Mike Delfino and becomes pregnant with son M.J.",
+     "character": "Susan Mayer (Teri Hatcher), Mike Delfino (James Denton)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Desperate_Housewives"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0410975/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "adult": "yes",
+     "confidence_flag": "2 sources",
+     "evidence": "2 sources",
+     "note": "Prior marriage: divorced (Karl Mayer). ",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+     "match_title": "Desperate Housewives",
+     "match_year": "2007–08"
     },
     "mom-pregnancy:4": {
      "title": "Desperate Housewives",
@@ -200943,7 +201933,8 @@ window.CATALOG = {
    "categories": [
     "mom-pregnancy",
     "family",
-    "pregnant-sex"
+    "pregnant-sex",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
@@ -200965,6 +201956,10 @@ window.CATALOG = {
     {
      "label": "Wikipedia: Dexter season 3",
      "url": "https://en.wikipedia.org/wiki/Dexter_season_3"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0773262/"
     }
    ],
    "youtube_ids": [],
@@ -200973,14 +201968,16 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla",
     "pregnant-intimacy",
     "mom-pregnancy",
-    "kids-pregnant-again"
+    "kids-pregnant-again",
+    "widow-remarry"
    ],
    "source_records": [
     "xla62ucxbx02u5:1140",
     "ig6qlxqxoxvcxla:430",
     "pregnant-intimacy:40",
     "mom-pregnancy:60",
-    "kids-pregnant-again:13"
+    "kids-pregnant-again:13",
+    "widow-remarry:8"
    ],
    "index_only": false,
    "local_only": false,
@@ -201178,6 +202175,44 @@ window.CATALOG = {
      "pregnancy_again_note": "son Harrison born",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "widow-remarry:8",
+     "source": "widow-remarry",
+     "label": "Dexter (2008)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dexter",
+     "subtitle": "",
+     "year": "2008",
+     "meta": "TV series · United States · English",
+     "summary": "S03E01 'Our Father' — Rita, divorced from Paul, realises she is pregnant by Dexter; they marry in S3 and Harrison is born.",
+     "character": "Rita Bennett (Julie Benz), Dexter Morgan (Michael C. Hall)",
+     "note": "Prior marriage: divorced (Paul Bennett). Pregnancy precedes the wedding.",
+     "mechanism": "",
+     "confidence_flag": "2 sources",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Rita_Bennett"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0773262/"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "evidence": "2 sources",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -201327,6 +202362,38 @@ window.CATALOG = {
      ],
      "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
      "married": "yes",
+     "match_title": "Dexter",
+     "match_year": "2008"
+    },
+    "widow-remarry:8": {
+     "title": "Dexter",
+     "year": "2008",
+     "format": "TV series",
+     "meta": "TV series · United States · English",
+     "summary": "S03E01 'Our Father' — Rita, divorced from Paul, realises she is pregnant by Dexter; they marry in S3 and Harrison is born.",
+     "character": "Rita Bennett (Julie Benz), Dexter Morgan (Michael C. Hall)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Rita_Bennett"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0773262/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "adult": "yes",
+     "confidence_flag": "2 sources",
+     "evidence": "2 sources",
+     "note": "Prior marriage: divorced (Paul Bennett). Pregnancy precedes the wedding.",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
      "match_title": "Dexter",
      "match_year": "2008"
     }
@@ -203915,7 +204982,10 @@ window.CATALOG = {
    "summary": "Divorced mother Urmi marries Ishaan Sinha and gives birth to daughter Ishaani.",
    "character": "Urmi",
    "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
-   "note": "",
+   "note": "Prior marriage: divorced (Samrat). Second source not added in this pass.",
+   "tags": [
+    "loose fit"
+   ],
    "kids_status": "yes",
    "kids_note": "one son, Shaurya",
    "kids_together": "yes",
@@ -203925,15 +204995,21 @@ window.CATALOG = {
    "pregnant_end": "yes",
    "pregnant_end_note": "by new husband Ishaan; daughter Ishaani born",
    "evidence": "single source — Source",
+   "adult": "yes",
    "format": "tv",
    "categories": [
     "mom-pregnancy",
-    "family"
+    "family",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
      "label": "Source",
      "url": "https://en.wikipedia.org/wiki/Doli_Armaano_Ki"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Doli_Armaanon_Ki"
     }
    ],
    "youtube_ids": [],
@@ -203941,13 +205017,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "india-catalog",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "widow-remarry"
    ],
    "source_records": [
     "xla62ucxbx02u5:1153",
     "ig6qlxqxoxvcxla:427",
     "india-catalog:158",
-    "mom-pregnancy:58"
+    "mom-pregnancy:58",
+    "widow-remarry:24"
    ],
    "index_only": false,
    "local_only": false,
@@ -204061,6 +205139,43 @@ window.CATALOG = {
      "evidence": "single source — Source",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "widow-remarry:24",
+     "source": "widow-remarry",
+     "label": "Doli Armaanon Ki (2013–15)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Doli Armaanon Ki",
+     "subtitle": "",
+     "year": "2013–15",
+     "meta": "Hindi serial · India",
+     "summary": "Divorced mother Urmi marries Ishaan Sinha and gives birth to daughter Ishaani.",
+     "character": "Urmi, Ishaan Sinha",
+     "note": "Prior marriage: divorced (Samrat). Second source not added in this pass.",
+     "mechanism": "",
+     "confidence_flag": "1 sources · loose fit",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Doli_Armaanon_Ki"
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "evidence": "1 sources — single source",
+     "adult": "yes",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -204132,6 +205247,38 @@ window.CATALOG = {
      "married": "yes",
      "married_note": "marries Ishaan",
      "evidence": "single source — Source"
+    },
+    "widow-remarry:24": {
+     "title": "Doli Armaanon Ki",
+     "year": "2013–15",
+     "format": "TV serial",
+     "meta": "Hindi serial · India",
+     "summary": "Divorced mother Urmi marries Ishaan Sinha and gives birth to daughter Ishaani.",
+     "character": "Urmi, Ishaan Sinha",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Doli_Armaanon_Ki"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "adult": "yes",
+     "confidence_flag": "1 sources · loose fit",
+     "evidence": "1 sources — single source",
+     "note": "Prior marriage: divorced (Samrat). Second source not added in this pass.",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "match_title": "Doli Armaanon Ki",
+     "match_year": "2013–15"
     }
    },
    "watch_links": [
@@ -205475,7 +206622,8 @@ window.CATALOG = {
    "pregnancy_again_note": "miscarried after slipping on soap left by O'Brien",
    "format": "tv",
    "categories": [
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
@@ -205489,18 +206637,32 @@ window.CATALOG = {
     {
      "label": "Downton Abbey fandom wiki",
      "url": "https://downtonabbey.fandom.com/wiki/Cora_Crawley"
+    },
+    {
+     "label": "ABC News recap",
+     "url": "https://abcnews.com/Entertainment/downton-abbey-series-finale-recap/story?id=37460370"
+    },
+    {
+     "label": "Variety recap",
+     "url": "https://variety.com/2016/tv/news/downton-abbey-series-finale-recap-1201706224/"
+    },
+    {
+     "label": "Downton Abbey Wiki (Fandom)",
+     "url": "https://downtonabbey.fandom.com/wiki/Caroline_Talbot"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "mom-pregnancy",
-    "kids-pregnant-again"
+    "kids-pregnant-again",
+    "widow-remarry"
    ],
    "source_records": [
     "xla62ucxbx02u5:1161",
     "mom-pregnancy:18",
-    "kids-pregnant-again:8"
+    "kids-pregnant-again:8",
+    "widow-remarry:2"
    ],
    "index_only": false,
    "local_only": false,
@@ -205630,6 +206792,48 @@ window.CATALOG = {
      "pregnancy_again_note": "miscarried after slipping on soap left by O'Brien",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "widow-remarry:2",
+     "source": "widow-remarry",
+     "label": "Downton Abbey (2010–2015)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Downton Abbey",
+     "subtitle": "",
+     "year": "2010–2015",
+     "meta": "TV series · United Kingdom · English",
+     "summary": "S6 finale (Christmas special 2015) — widowed Lady Mary, now married to Henry Talbot, tells him she is pregnant; daughter Caroline is later born (1926 in-story).",
+     "character": "Lady Mary (Michelle Dockery), Henry Talbot (Matthew Goode)",
+     "note": "Prior marriage: widowed (Matthew Crawley, S3 finale). Verified. Already mother to George.",
+     "mechanism": "",
+     "confidence_flag": "3 sources",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "ABC News recap",
+       "url": "https://abcnews.com/Entertainment/downton-abbey-series-finale-recap/story?id=37460370"
+      },
+      {
+       "label": "Variety recap",
+       "url": "https://variety.com/2016/tv/news/downton-abbey-series-finale-recap-1201706224/"
+      },
+      {
+       "label": "Downton Abbey Wiki (Fandom)",
+       "url": "https://downtonabbey.fandom.com/wiki/Caroline_Talbot"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "evidence": "3 sources",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -205731,6 +206935,42 @@ window.CATALOG = {
      ],
      "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
      "married": "yes",
+     "match_title": "Downton Abbey",
+     "match_year": "2010"
+    },
+    "widow-remarry:2": {
+     "title": "Downton Abbey",
+     "year": "2010–2015",
+     "format": "TV series",
+     "meta": "TV series · United Kingdom · English",
+     "summary": "S6 finale (Christmas special 2015) — widowed Lady Mary, now married to Henry Talbot, tells him she is pregnant; daughter Caroline is later born (1926 in-story).",
+     "character": "Lady Mary (Michelle Dockery), Henry Talbot (Matthew Goode)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "ABC News recap",
+       "url": "https://abcnews.com/Entertainment/downton-abbey-series-finale-recap/story?id=37460370"
+      },
+      {
+       "label": "Variety recap",
+       "url": "https://variety.com/2016/tv/news/downton-abbey-series-finale-recap-1201706224/"
+      },
+      {
+       "label": "Downton Abbey Wiki (Fandom)",
+       "url": "https://downtonabbey.fandom.com/wiki/Caroline_Talbot"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "adult": "yes",
+     "confidence_flag": "3 sources",
+     "evidence": "3 sources",
+     "note": "Prior marriage: widowed (Matthew Crawley, S3 finale). Verified. Already mother to George.",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
      "match_title": "Downton Abbey",
      "match_year": "2010"
     }
@@ -210928,7 +212168,8 @@ window.CATALOG = {
    "format": "tv",
    "categories": [
     "agegap-marriage",
-    "stepmom-pregnancy"
+    "stepmom-pregnancy",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
@@ -210946,18 +212187,24 @@ window.CATALOG = {
     {
      "label": "Wikipedia (List of Dynasty (1981 TV series) characters)",
      "url": "https://en.wikipedia.org/wiki/List_of_Dynasty_(1981_TV_series)_characters"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0081856/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "agegap-marriage",
-    "kids-pregnant-again"
+    "kids-pregnant-again",
+    "widow-remarry"
    ],
    "source_records": [
     "xla62ucxbx02u5:1194",
     "agegap-marriage:7",
-    "kids-pregnant-again:16"
+    "kids-pregnant-again:16",
+    "widow-remarry:4"
    ],
    "index_only": false,
    "local_only": false,
@@ -211089,6 +212336,44 @@ window.CATALOG = {
      "pregnancy_again_note": "daughter Krystina born in 1984",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "widow-remarry:4",
+     "source": "widow-remarry",
+     "label": "Dynasty (1981–1989)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dynasty",
+     "subtitle": "",
+     "year": "1981–1989",
+     "meta": "Prime-time soap · United States · English",
+     "summary": "Divorcee Krystle marries Blake Carrington, miscarries after a riding accident, then becomes pregnant again and has daughter Krystina.",
+     "character": "Krystle Carrington (Linda Evans), Blake Carrington (John Forsythe)",
+     "note": "Prior marriage: divorced (Mark Jennings). Conflict: the divorce from Mark Jennings is later revealed never to have been official.",
+     "mechanism": "",
+     "confidence_flag": "2 sources",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Krystle_Carrington"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0081856/"
+      }
+     ],
+     "kids_status": "no",
+     "kids_together": "yes",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "evidence": "2 sources",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -211160,6 +212445,38 @@ window.CATALOG = {
      "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
      "married": "yes",
      "fit_note": "existing children are Blake's (Krystle's stepchildren); she had none of her own",
+     "match_title": "Dynasty",
+     "match_year": "1981–1989"
+    },
+    "widow-remarry:4": {
+     "title": "Dynasty",
+     "year": "1981–1989",
+     "format": "TV series",
+     "meta": "Prime-time soap · United States · English",
+     "summary": "Divorcee Krystle marries Blake Carrington, miscarries after a riding accident, then becomes pregnant again and has daughter Krystina.",
+     "character": "Krystle Carrington (Linda Evans), Blake Carrington (John Forsythe)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Krystle_Carrington"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0081856/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "no",
+     "adult": "yes",
+     "confidence_flag": "2 sources",
+     "evidence": "2 sources",
+     "note": "Prior marriage: divorced (Mark Jennings). Conflict: the divorce from Mark Jennings is later revealed never to have been official.",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
      "match_title": "Dynasty",
      "match_year": "1981–1989"
     },
@@ -230594,9 +231911,11 @@ window.CATALOG = {
    "pregnant_end": "yes",
    "pregnant_end_note": "pregnant by husband Rhett; miscarriage after falling down the stairs",
    "evidence": "2+ sources (Wikipedia film plot; Gone with the Wind wiki on Scarlett's children)",
+   "adult": "yes",
    "format": "movie",
    "categories": [
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
@@ -230606,16 +231925,22 @@ window.CATALOG = {
     {
      "label": "Gone with the Wind fandom wiki",
      "url": "https://gonewiththewind.fandom.com/wiki/Scarlett_O%27Hara"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0031381/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "widow-remarry"
    ],
    "source_records": [
     "xla62ucxbx02u5:1301",
-    "mom-pregnancy:8"
+    "mom-pregnancy:8",
+    "widow-remarry:1"
    ],
    "index_only": false,
    "local_only": false,
@@ -230692,6 +232017,44 @@ window.CATALOG = {
      "evidence": "2+ sources (Wikipedia film plot; Gone with the Wind wiki on Scarlett's children)",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "widow-remarry:1",
+     "source": "widow-remarry",
+     "label": "Gone with the Wind (1939)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Gone with the Wind",
+     "subtitle": "",
+     "year": "1939",
+     "meta": "Film · United States · English",
+     "summary": "Twice-widowed Scarlett O'Hara marries Rhett Butler; they have daughter Bonnie, and a later pregnancy ends in miscarriage after a fall on the stairs.",
+     "character": "Scarlett O'Hara (Vivien Leigh), Rhett Butler (Clark Gable)",
+     "note": "Prior marriage: widowed twice (Charles Hamilton, Frank Kennedy). Second pregnancy by Rhett ends in miscarriage.",
+     "mechanism": "",
+     "confidence_flag": "2 sources",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Gone_with_the_Wind_(film)"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0031381/"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "evidence": "2 sources",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -230749,6 +232112,38 @@ window.CATALOG = {
       "mom-pregnancy"
      ],
      "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)"
+    },
+    "widow-remarry:1": {
+     "title": "Gone with the Wind",
+     "year": "1939",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "summary": "Twice-widowed Scarlett O'Hara marries Rhett Butler; they have daughter Bonnie, and a later pregnancy ends in miscarriage after a fall on the stairs.",
+     "character": "Scarlett O'Hara (Vivien Leigh), Rhett Butler (Clark Gable)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Gone_with_the_Wind_(film)"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0031381/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "adult": "yes",
+     "confidence_flag": "2 sources",
+     "evidence": "2 sources",
+     "note": "Prior marriage: widowed twice (Charles Hamilton, Frank Kennedy). Second pregnancy by Rhett ends in miscarriage.",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+     "match_title": "Gone with the Wind",
+     "match_year": "1939"
     }
    }
   },
@@ -279077,7 +280472,8 @@ window.CATALOG = {
     "agegap-marriage",
     "stepmom-pregnancy",
     "family",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
@@ -279091,6 +280487,14 @@ window.CATALOG = {
     {
      "label": "TV Fanatic · S4E12 recap",
      "url": "https://www.tvfanatic.com/modern-family-season-4-episode-12-recap-party-crasher/"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Modern_Family"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt1442437/"
     }
    ],
    "youtube_ids": [],
@@ -279098,13 +280502,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "agegap-marriage",
     "mom-pregnancy",
-    "kids-pregnant-again"
+    "kids-pregnant-again",
+    "widow-remarry"
    ],
    "source_records": [
     "xla62ucxbx02u5:1563",
     "agegap-marriage:13",
     "mom-pregnancy:62",
-    "kids-pregnant-again:14"
+    "kids-pregnant-again:14",
+    "widow-remarry:7"
    ],
    "index_only": false,
    "local_only": false,
@@ -279269,6 +280675,44 @@ window.CATALOG = {
      "pregnancy_again_note": "son Joe born in Season 4",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "widow-remarry:7",
+     "source": "widow-remarry",
+     "label": "Modern Family (2009–2020)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Modern Family",
+     "subtitle": "",
+     "year": "2009–2020",
+     "meta": "Sitcom · United States · English",
+     "summary": "Gloria, divorced from Javier (Manny's father), is married to Jay and becomes pregnant with son Joe (S3 finale, born S4E12).",
+     "character": "Gloria (Sofía Vergara), Jay Pritchett (Ed O'Neill)",
+     "note": "Prior marriage: divorced (Javier Delgado). ",
+     "mechanism": "",
+     "confidence_flag": "2 sources",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Modern_Family"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt1442437/"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "evidence": "2 sources",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -279361,6 +280805,38 @@ window.CATALOG = {
      ],
      "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
      "married": "yes",
+     "match_title": "Modern Family",
+     "match_year": "2009–2020"
+    },
+    "widow-remarry:7": {
+     "title": "Modern Family",
+     "year": "2009–2020",
+     "format": "TV series",
+     "meta": "Sitcom · United States · English",
+     "summary": "Gloria, divorced from Javier (Manny's father), is married to Jay and becomes pregnant with son Joe (S3 finale, born S4E12).",
+     "character": "Gloria (Sofía Vergara), Jay Pritchett (Ed O'Neill)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Modern_Family"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt1442437/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "adult": "yes",
+     "confidence_flag": "2 sources",
+     "evidence": "2 sources",
+     "note": "Prior marriage: divorced (Javier Delgado). ",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
      "match_title": "Modern Family",
      "match_year": "2009–2020"
     },
@@ -292665,6 +294141,9 @@ window.CATALOG = {
    "character": "Divorced mother of two",
    "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)",
    "note": "Outcome facts: married: yes; kids status: yes.",
+   "tags": [
+    "loose fit"
+   ],
    "kids_status": "yes",
    "kids_note": "two (divorced mother of two)",
    "kids_together": "not stated",
@@ -292673,27 +294152,35 @@ window.CATALOG = {
    "pregnant_end": "yes",
    "pregnant_end_note": "by new husband; birth not stated in the source",
    "evidence": "single source — Source",
+   "adult": "yes",
    "format": "movie",
    "categories": [
     "mom-pregnancy",
-    "family"
+    "family",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
      "label": "Source",
      "url": "https://www.imdb.com/title/tt5797164"
+    },
+    {
+     "label": "Existing catalog card (no new source)",
+     "url": "https://mad08011999-cloud.github.io/tv-movie-catalog/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "widow-remarry"
    ],
    "source_records": [
     "xla62ucxbx02u5:1642",
     "ig6qlxqxoxvcxla:425",
-    "mom-pregnancy:56"
+    "mom-pregnancy:56",
+    "widow-remarry:26"
    ],
    "index_only": false,
    "local_only": false,
@@ -292788,6 +294275,43 @@ window.CATALOG = {
      "evidence": "single source — Source",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "widow-remarry:26",
+     "source": "widow-remarry",
+     "label": "Osanago warera ni umare / A Child Is Born (film, 2017)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Osanago warera ni umare / A Child Is Born (film, 2017)",
+     "subtitle": "",
+     "year": "2017",
+     "meta": "Film · Japan · Japanese",
+     "summary": "A divorced mother of two remarries and becomes pregnant with her new husband's child.",
+     "character": "Divorced mother of two and her new husband",
+     "note": "Prior marriage: divorced. Tag only; no new independent source found (Wikipedia search found no page).",
+     "mechanism": "",
+     "confidence_flag": "0 new independent sources · loose fit",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Existing catalog card (no new source)",
+       "url": "https://mad08011999-cloud.github.io/tv-movie-catalog/"
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "evidence": "no independent source found this pass",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -292846,6 +294370,38 @@ window.CATALOG = {
      "married": "yes",
      "married_note": "remarries",
      "evidence": "single source — Source"
+    },
+    "widow-remarry:26": {
+     "title": "Osanago warera ni umare / A Child Is Born (film, 2017)",
+     "year": "2017",
+     "format": "movie",
+     "meta": "Film · Japan · Japanese",
+     "summary": "A divorced mother of two remarries and becomes pregnant with her new husband's child.",
+     "character": "Divorced mother of two and her new husband",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Existing catalog card (no new source)",
+       "url": "https://mad08011999-cloud.github.io/tv-movie-catalog/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "adult": "yes",
+     "confidence_flag": "0 new independent sources · loose fit",
+     "evidence": "no independent source found this pass",
+     "note": "Prior marriage: divorced. Tag only; no new independent source found (Wikipedia search found no page).",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "match_title": "Osanago warera ni umare / A Child Is Born (film, 2017)",
+     "match_year": "2017"
     }
    }
   },
@@ -294500,6 +296056,9 @@ window.CATALOG = {
    "character": "Karen Buckman (Mary Steenburgen); Helen Buckman (Dianne Wiest)",
    "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)",
    "note": "Outcome facts: kids status: yes.",
+   "tags": [
+    "loose fit"
+   ],
    "kids_status": "yes",
    "kids_note": "Karen: three (Kevin, Taylor, Justin); Helen: two (Julie and Garry)",
    "kids_together": "yes",
@@ -294519,7 +296078,8 @@ window.CATALOG = {
    "format": "movie",
    "categories": [
     "mom-pregnancy",
-    "family"
+    "family",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
@@ -294539,12 +296099,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "mom-pregnancy",
-    "kids-pregnant-again"
+    "kids-pregnant-again",
+    "widow-remarry"
    ],
    "source_records": [
     "xla62ucxbx02u5:1653",
     "mom-pregnancy:6",
-    "kids-pregnant-again:1"
+    "kids-pregnant-again:1",
+    "widow-remarry:32"
    ],
    "index_only": false,
    "local_only": false,
@@ -294674,6 +296236,43 @@ window.CATALOG = {
      "pregnancy_again_note": "fourth child born in the closing hospital scene",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "widow-remarry:32",
+     "source": "widow-remarry",
+     "label": "Parenthood (1989)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Parenthood",
+     "subtitle": "",
+     "year": "1989",
+     "meta": "Film · United States · English",
+     "summary": "Divorced Helen, mother of Julie and Garry, dates Garry's teacher George Bowman; the film ends with her giving birth.",
+     "character": "Helen (Dianne Wiest), George Bowman",
+     "note": "Prior marriage: divorced. Single source; whether Helen marries Bowman on screen is not confirmed.",
+     "mechanism": "",
+     "confidence_flag": "1 sources · loose fit",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Parenthood_(film)"
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "married": "unknown",
+     "pregnant_end": "yes",
+     "evidence": "1 sources — single source",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -294736,6 +296335,38 @@ window.CATALOG = {
      ],
      "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
      "married": "yes",
+     "match_title": "Parenthood",
+     "match_year": "1989"
+    },
+    "widow-remarry:32": {
+     "title": "Parenthood",
+     "year": "1989",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "summary": "Divorced Helen, mother of Julie and Garry, dates Garry's teacher George Bowman; the film ends with her giving birth.",
+     "character": "Helen (Dianne Wiest), George Bowman",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Parenthood_(film)"
+      }
+     ],
+     "married": "unknown",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "adult": "yes",
+     "confidence_flag": "1 sources · loose fit",
+     "evidence": "1 sources — single source",
+     "note": "Prior marriage: divorced. Single source; whether Helen marries Bowman on screen is not confirmed.",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
      "match_title": "Parenthood",
      "match_year": "1989"
     },
@@ -302389,15 +304020,21 @@ window.CATALOG = {
    "pregnant_end": "yes",
    "pregnant_end_note": "by new husband Yash; outcome not stated in the source",
    "evidence": "single source — Source",
+   "adult": "yes",
    "format": "tv",
    "categories": [
     "mom-pregnancy",
-    "family"
+    "family",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
      "label": "Source",
      "url": "https://en.wikipedia.org/wiki/Punar_Vivaah_%E2%80%93_Zindagi_Milegi_Dobara"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt2942416/"
     }
    ],
    "youtube_ids": [],
@@ -302405,13 +304042,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "india-catalog",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "widow-remarry"
    ],
    "source_records": [
     "xla62ucxbx02u5:1692",
     "ig6qlxqxoxvcxla:426",
     "india-catalog:157",
-    "mom-pregnancy:57"
+    "mom-pregnancy:57",
+    "widow-remarry:23"
    ],
    "index_only": false,
    "local_only": false,
@@ -302526,6 +304165,44 @@ window.CATALOG = {
      "evidence": "single source — Source",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "widow-remarry:23",
+     "source": "widow-remarry",
+     "label": "Punar Vivah – Zindagi Milegi Dobara (2012–14)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Punar Vivah – Zindagi Milegi Dobara",
+     "subtitle": "",
+     "year": "2012–14",
+     "meta": "Hindi serial · India",
+     "summary": "Divorcee Aarti marries widower Yash and becomes pregnant with his son Aayu.",
+     "character": "Aarti (Kratika Sengar), Yash (Gurmeet Choudhary)",
+     "note": "Prior marriage: divorced (Prashant). ",
+     "mechanism": "",
+     "confidence_flag": "2 sources",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Punar_Vivaah_%E2%80%93_Zindagi_Milegi_Dobara"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt2942416/"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "evidence": "2 sources",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -302596,6 +304273,38 @@ window.CATALOG = {
      "married": "yes",
      "married_note": "marries Yash",
      "evidence": "single source — Source"
+    },
+    "widow-remarry:23": {
+     "title": "Punar Vivah – Zindagi Milegi Dobara",
+     "year": "2012–14",
+     "format": "TV serial",
+     "meta": "Hindi serial · India",
+     "summary": "Divorcee Aarti marries widower Yash and becomes pregnant with his son Aayu.",
+     "character": "Aarti (Kratika Sengar), Yash (Gurmeet Choudhary)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Punar_Vivaah_%E2%80%93_Zindagi_Milegi_Dobara"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt2942416/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "adult": "yes",
+     "confidence_flag": "2 sources",
+     "evidence": "2 sources",
+     "note": "Prior marriage: divorced (Prashant). ",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+     "match_title": "Punar Vivah – Zindagi Milegi Dobara",
+     "match_year": "2012–14"
     }
    }
   },
@@ -349408,10 +351117,12 @@ window.CATALOG = {
    "pregnant_end": "yes",
    "pregnant_end_note": "by lover, later husband, Esteban Reyes; son Stevie Ray born",
    "evidence": "2+ independent sources (Wikipedia list of characters, Weeds wiki)",
+   "adult": "yes",
    "format": "tv",
    "categories": [
     "mom-pregnancy",
-    "family"
+    "family",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
@@ -349421,16 +351132,26 @@ window.CATALOG = {
     {
      "label": "Weeds fandom wiki",
      "url": "https://weeds.fandom.com/wiki/Stevie_Ray_Botwin"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Weeds_(TV_series)"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0439100/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "widow-remarry"
    ],
    "source_records": [
     "xla62ucxbx02u5:1952",
-    "mom-pregnancy:14"
+    "mom-pregnancy:14",
+    "widow-remarry:9"
    ],
    "index_only": false,
    "local_only": false,
@@ -349519,6 +351240,44 @@ window.CATALOG = {
      "evidence": "2+ independent sources (Wikipedia list of characters, Weeds wiki)",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "widow-remarry:9",
+     "source": "widow-remarry",
+     "label": "Weeds (2008–09)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Weeds",
+     "subtitle": "",
+     "year": "2008–09",
+     "meta": "TV series · United States · English",
+     "summary": "Widowed Nancy Botwin becomes pregnant by Esteban Reyes and marries him while pregnant; son Stevie is born.",
+     "character": "Nancy Botwin (Mary-Louise Parker), Esteban Reyes (Demián Bichir)",
+     "note": "Prior marriage: widowed (Judah Botwin). Pregnancy precedes the wedding.",
+     "mechanism": "",
+     "confidence_flag": "2 sources",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Weeds_(TV_series)"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0439100/"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "evidence": "2 sources",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -349588,6 +351347,38 @@ window.CATALOG = {
       "family"
      ],
      "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)"
+    },
+    "widow-remarry:9": {
+     "title": "Weeds",
+     "year": "2008–09",
+     "format": "TV series",
+     "meta": "TV series · United States · English",
+     "summary": "Widowed Nancy Botwin becomes pregnant by Esteban Reyes and marries him while pregnant; son Stevie is born.",
+     "character": "Nancy Botwin (Mary-Louise Parker), Esteban Reyes (Demián Bichir)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Weeds_(TV_series)"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0439100/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "adult": "yes",
+     "confidence_flag": "2 sources",
+     "evidence": "2 sources",
+     "note": "Prior marriage: widowed (Judah Botwin). Pregnancy precedes the wedding.",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+     "match_title": "Weeds",
+     "match_year": "2008–09"
     }
    }
   },
@@ -353782,6 +355573,9 @@ window.CATALOG = {
    "character": "Helen North Beardsley (Lucille Ball)",
    "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)",
    "note": "Outcome facts: married: yes; kids status: yes.",
+   "tags": [
+    "loose fit"
+   ],
    "kids_status": "yes",
    "kids_note": "eight children from her first marriage",
    "kids_together": "yes",
@@ -353799,7 +355593,8 @@ window.CATALOG = {
    "format": "movie",
    "categories": [
     "mom-pregnancy",
-    "family"
+    "family",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
@@ -353819,12 +355614,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "mom-pregnancy",
-    "kids-pregnant-again"
+    "kids-pregnant-again",
+    "widow-remarry"
    ],
    "source_records": [
     "xla62ucxbx02u5:1972",
     "mom-pregnancy:10",
-    "kids-pregnant-again:2"
+    "kids-pregnant-again:2",
+    "widow-remarry:31"
    ],
    "index_only": false,
    "local_only": false,
@@ -353951,6 +355748,43 @@ window.CATALOG = {
      "pregnancy_again_note": "son Joseph born",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "widow-remarry:31",
+     "source": "widow-remarry",
+     "label": "Yours, Mine and Ours (1968)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Yours, Mine and Ours",
+     "subtitle": "",
+     "year": "1968",
+     "meta": "Film · United States · English",
+     "summary": "Widowed Helen North, mother of eight, marries widower Frank Beardsley and gives birth to their son Joseph.",
+     "character": "Helen North (Lucille Ball), Frank Beardsley (Henry Fonda)",
+     "note": "Prior marriage: widowed. Single source.",
+     "mechanism": "",
+     "confidence_flag": "1 sources · loose fit",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Yours,_Mine_and_Ours_(1968_film)"
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "evidence": "1 sources — single source",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -354049,6 +355883,38 @@ window.CATALOG = {
      ],
      "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
      "married": "yes",
+     "match_title": "Yours, Mine and Ours",
+     "match_year": "1968"
+    },
+    "widow-remarry:31": {
+     "title": "Yours, Mine and Ours",
+     "year": "1968",
+     "format": "movie",
+     "meta": "Film · United States · English",
+     "summary": "Widowed Helen North, mother of eight, marries widower Frank Beardsley and gives birth to their son Joseph.",
+     "character": "Helen North (Lucille Ball), Frank Beardsley (Henry Fonda)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Yours,_Mine_and_Ours_(1968_film)"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "adult": "yes",
+     "confidence_flag": "1 sources · loose fit",
+     "evidence": "1 sources — single source",
+     "note": "Prior marriage: widowed. Single source.",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
      "match_title": "Yours, Mine and Ours",
      "match_year": "1968"
     }
@@ -355227,31 +357093,123 @@ window.CATALOG = {
    "character": "",
    "provenance": "DramaExpress + short-drama-sites sweep, 01 Oct 2026 (dramaexpress.net + 11 platforms; adult/18+ vector honest zero)",
    "note": "Explicit scope caveat: filed as a borderline/variant of 'single mom remarries and gets pregnant' because Xu Qin had no children before the remarriage; she does not satisfy the prior-motherhood criterion.",
+   "kids_status": "no",
+   "kids_together": "yes",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "evidence": "3 sources",
+   "adult": "yes",
    "format": "tv",
    "categories": [
     "mom-pregnancy",
-    "family"
+    "family",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
      "label": "BrokenTiara Drama · licensed YouTube upload",
      "url": "https://www.youtube.com/watch?v=Vp_lycfuajI"
+    },
+    {
+     "label": "CPOP HOME",
+     "url": "https://www.cpophome.com/the-barren-union-xu-siqi-su-junhe/"
+    },
+    {
+     "label": "Vertlas",
+     "url": "https://vertlas.com/drama/after-flash-marriage-miss-xu-has-twins"
+    },
+    {
+     "label": "Hongguo",
+     "url": "https://hongguoduanju.com/detail?series_id=7633761667603500057"
     }
    ],
    "youtube_ids": [
     "Vp_lycfuajI"
    ],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "widow-remarry"
    ],
    "source_records": [
-    "xla62ucxbx02u5:1983"
+    "xla62ucxbx02u5:1983",
+    "widow-remarry:27"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": "thumbs/Vp_lycfuajI.jpg",
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:1983",
+    "source": "xla62ucxbx02u5",
+    "label": "七年难孕，再婚后她一胎双宝 · Seven Years Infertile, Twins After Remarriage (c. 2026)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "七年难孕，再婚后她一胎双宝",
+    "subtitle": "Seven Years Infertile, Twins After Remarriage",
+    "year": "c. 2026",
+    "meta": "Short-form vertical drama · Mandarin (English dub on licensing channel) · FlickReels",
+    "summary": "Xu Qin, divorced after 7 childless years, flash-marries a rumored-infertile hospital director's son; pregnant with twins 3 months in; love develops.",
+    "character": "",
+    "note": "Explicit scope caveat: filed as a borderline/variant of 'single mom remarries and gets pregnant' because Xu Qin had no children before the remarriage; she does not satisfy the prior-motherhood criterion.",
+    "mechanism": "Twin pregnancy 3 months after flash remarriage",
+    "confidence_flag": "Medium confidence · BORDERLINE/VARIANT — she was not a mother before the remarriage (divorced after 7 infertile years)",
+    "categories": [
+     "mom-pregnancy",
+     "family"
+    ],
+    "sources": [
+     {
+      "label": "BrokenTiara Drama · licensed YouTube upload",
+      "url": "https://www.youtube.com/watch?v=Vp_lycfuajI"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "widow-remarry:27",
+     "source": "widow-remarry",
+     "label": "七年难孕，再婚后她一胎双宝 (2026)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "七年难孕，再婚后她一胎双宝",
+     "subtitle": "",
+     "year": "2026",
+     "meta": "Vertical short drama (99 eps) · China · Mandarin",
+     "summary": "Xu Qin, divorced after seven childless years, flash-marries her supervisor's son and is pregnant with twins three months later.",
+     "character": "Xu Qin (Xu Siqi), Lu Ze (Su Junhe)",
+     "note": "Prior marriage: divorced (Zhou Yi'an). Released 4 May 2026; alt title 闪婚后，许小姐她一胎双宝.",
+     "mechanism": "",
+     "confidence_flag": "3 sources",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "CPOP HOME",
+       "url": "https://www.cpophome.com/the-barren-union-xu-siqi-su-junhe/"
+      },
+      {
+       "label": "Vertlas",
+       "url": "https://vertlas.com/drama/after-flash-marriage-miss-xu-has-twins"
+      },
+      {
+       "label": "Hongguo",
+       "url": "https://hongguoduanju.com/detail?series_id=7633761667603500057"
+      }
+     ],
+     "kids_status": "no",
+     "kids_together": "yes",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "evidence": "3 sources",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:1983": {
      "t": "七年难孕，再婚后她一胎双宝",
@@ -355275,6 +357233,42 @@ window.CATALOG = {
       "family"
      ],
      "verticalShort": true
+    },
+    "widow-remarry:27": {
+     "title": "七年难孕，再婚后她一胎双宝",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "Vertical short drama (99 eps) · China · Mandarin",
+     "summary": "Xu Qin, divorced after seven childless years, flash-marries her supervisor's son and is pregnant with twins three months later.",
+     "character": "Xu Qin (Xu Siqi), Lu Ze (Su Junhe)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "CPOP HOME",
+       "url": "https://www.cpophome.com/the-barren-union-xu-siqi-su-junhe/"
+      },
+      {
+       "label": "Vertlas",
+       "url": "https://vertlas.com/drama/after-flash-marriage-miss-xu-has-twins"
+      },
+      {
+       "label": "Hongguo",
+       "url": "https://hongguoduanju.com/detail?series_id=7633761667603500057"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "no",
+     "adult": "yes",
+     "confidence_flag": "3 sources",
+     "evidence": "3 sources",
+     "note": "Prior marriage: divorced (Zhou Yi'an). Released 4 May 2026; alt title 闪婚后，许小姐她一胎双宝.",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+     "match_title": "七年难孕，再婚后她一胎双宝",
+     "match_year": "c. 2026"
     }
    }
   },
@@ -355290,31 +357284,111 @@ window.CATALOG = {
    "character": "",
    "provenance": "DramaExpress + short-drama-sites sweep, 01 Oct 2026 (dramaexpress.net + 11 platforms; adult/18+ vector honest zero)",
    "note": "Plot unconfirmed; filed only as a labeled lead.",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "unknown",
+   "kids_together": "yes",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "evidence": "1 sources — single source",
+   "adult": "yes",
    "format": "tv",
    "categories": [
     "mom-pregnancy",
-    "family"
+    "family",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
      "label": "YouTube · commentary-channel synopsis",
      "url": "https://www.youtube.com/watch?v=5Nh8byw3njE"
+    },
+    {
+     "label": "Existing catalog card (single commentary source)",
+     "url": "https://mad08011999-cloud.github.io/tv-movie-catalog/"
     }
    ],
    "youtube_ids": [
     "5Nh8byw3njE"
    ],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "widow-remarry"
    ],
    "source_records": [
-    "xla62ucxbx02u5:1984"
+    "xla62ucxbx02u5:1984",
+    "widow-remarry:29"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:1984",
+    "source": "xla62ucxbx02u5",
+    "label": "寒途向新生 · Cold Journey, New Birth (Year unconfirmed)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "寒途向新生",
+    "subtitle": "Cold Journey, New Birth",
+    "year": "Year unconfirmed",
+    "meta": "Short-form vertical drama · Mandarin · platform unverified",
+    "summary": "Per a single commentary-channel source: pregnant Tong Yang is abandoned, aborts, divorces, later remarries and has a son.",
+    "character": "",
+    "note": "Plot unconfirmed; filed only as a labeled lead.",
+    "mechanism": "Remarriage and son after abandonment/abortion — unverified",
+    "confidence_flag": "Low confidence · UNRESOLVED LEAD — plot unconfirmed; single commentary-channel source; not counted as verified",
+    "categories": [
+     "mom-pregnancy",
+     "family"
+    ],
+    "sources": [
+     {
+      "label": "YouTube · commentary-channel synopsis",
+      "url": "https://www.youtube.com/watch?v=5Nh8byw3njE"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "widow-remarry:29",
+     "source": "widow-remarry",
+     "label": "寒途向新生",
+     "identifiers": [],
+     "title": "寒途向新生",
+     "subtitle": "",
+     "year": "",
+     "meta": "Short drama · China",
+     "summary": "Tong Yang divorces after being abandoned while pregnant, later remarries and has a son.",
+     "character": "Tong Yang",
+     "note": "Prior marriage: divorced. Single source; tag only.",
+     "mechanism": "",
+     "confidence_flag": "0 new independent sources · loose fit",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Existing catalog card (single commentary source)",
+       "url": "https://mad08011999-cloud.github.io/tv-movie-catalog/"
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "unknown",
+     "kids_together": "yes",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "evidence": "1 sources — single source",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:1984": {
      "t": "寒途向新生",
@@ -355338,6 +357412,38 @@ window.CATALOG = {
       "family"
      ],
      "verticalShort": true
+    },
+    "widow-remarry:29": {
+     "title": "寒途向新生",
+     "year": "",
+     "format": "vertical series",
+     "meta": "Short drama · China",
+     "summary": "Tong Yang divorces after being abandoned while pregnant, later remarries and has a son.",
+     "character": "Tong Yang",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Existing catalog card (single commentary source)",
+       "url": "https://mad08011999-cloud.github.io/tv-movie-catalog/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "unknown",
+     "adult": "yes",
+     "confidence_flag": "0 new independent sources · loose fit",
+     "evidence": "1 sources — single source",
+     "note": "Prior marriage: divorced. Single source; tag only.",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "match_title": "寒途向新生",
+     "match_year": "Year unconfirmed"
     }
    }
   },
@@ -359069,9 +361175,16 @@ window.CATALOG = {
    "character": "Marty Claridge Davis",
    "provenance": "Hallmark six-topic sweep completed 1 Oct 2026; roughly 80+ query rounds across Hallmark Channel, Hallmark Mystery, Hallmark+ and the Crown Media / Hallmark Hall of Fame back catalog.",
    "note": "The children are shown, but the remarriage-to-pregnancy transition happens between films rather than as an on-screen pregnancy arc.",
+   "kids_status": "yes",
+   "kids_together": "yes",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "evidence": "2 sources",
+   "adult": "yes",
    "format": "movie",
    "categories": [
-    "family"
+    "family",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
@@ -359085,20 +361198,103 @@ window.CATALOG = {
     {
      "label": "TV Guide",
      "url": "https://Www.Tvguide.com/movies/loves-enduring-promise/videos/2030064028/"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Love%27s_Enduring_Promise"
+    },
+    {
+     "label": "HallmarkDB (Love Comes Softly series)",
+     "url": "https://thehallmarkdb.com/movies/love-comes-softly-2003"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "widow-remarry"
    ],
    "source_records": [
-    "xla62ucxbx02u5:2027"
+    "xla62ucxbx02u5:2027",
+    "widow-remarry:30"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:2027",
+    "source": "xla62ucxbx02u5",
+    "label": "Love's Enduring Promise (2004)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Love's Enduring Promise",
+    "subtitle": "",
+    "year": "2004",
+    "meta": "Hallmark Channel TV movie · premiered 20 Nov 2004",
+    "summary": "Widow Marty Claridge Davis remarries widower Clark Davis. The official Crown Media synopsis says Marty and Clark have two sons of their own, Aaron and Arnie, establishing that Marty has a second child by her new husband after the remarriage; the pregnancy itself occurs off-screen between films.",
+    "character": "Marty Claridge Davis",
+    "note": "The children are shown, but the remarriage-to-pregnancy transition happens between films rather than as an on-screen pregnancy arc.",
+    "mechanism": "Remarriage followed by a child with the new husband",
+    "confidence_flag": "High confidence · pregnancy occurs off-screen between films",
+    "categories": [
+     "family"
+    ],
+    "sources": [
+     {
+      "label": "Crown Media · official synopsis",
+      "url": "http://awsprxdam.crownmediadev.com.s3-us-west-1.amazonaws.com/highRes/648525.pdf"
+     },
+     {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0402348"
+     },
+     {
+      "label": "TV Guide",
+      "url": "https://Www.Tvguide.com/movies/loves-enduring-promise/videos/2030064028/"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "widow-remarry:30",
+     "source": "widow-remarry",
+     "label": "Love's Enduring Promise (2004)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Love's Enduring Promise",
+     "subtitle": "",
+     "year": "2004",
+     "meta": "Hallmark TV movie · United States · English",
+     "summary": "Widow Marty, remarried to widower Clark Davis, has two sons with him (Aaron and Arnie).",
+     "character": "Marty (January Jones), Clark Davis (Dale Midkiff)",
+     "note": "Prior marriage: widowed (Aaron Claridge). Pregnancy itself is not shown on screen.",
+     "mechanism": "",
+     "confidence_flag": "2 sources",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Love%27s_Enduring_Promise"
+      },
+      {
+       "label": "HallmarkDB (Love Comes Softly series)",
+       "url": "https://thehallmarkdb.com/movies/love-comes-softly-2003"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "evidence": "2 sources",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:2027": {
      "t": "Love's Enduring Promise",
@@ -359129,6 +361325,38 @@ window.CATALOG = {
      ],
      "note": "The children are shown, but the remarriage-to-pregnancy transition happens between films rather than as an on-screen pregnancy arc.",
      "prov": "Hallmark six-topic sweep completed 1 Oct 2026; roughly 80+ query rounds across Hallmark Channel, Hallmark Mystery, Hallmark+ and the Crown Media / Hallmark Hall of Fame back catalog."
+    },
+    "widow-remarry:30": {
+     "title": "Love's Enduring Promise",
+     "year": "2004",
+     "format": "TV movie",
+     "meta": "Hallmark TV movie · United States · English",
+     "summary": "Widow Marty, remarried to widower Clark Davis, has two sons with him (Aaron and Arnie).",
+     "character": "Marty (January Jones), Clark Davis (Dale Midkiff)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Love%27s_Enduring_Promise"
+      },
+      {
+       "label": "HallmarkDB (Love Comes Softly series)",
+       "url": "https://thehallmarkdb.com/movies/love-comes-softly-2003"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "adult": "yes",
+     "confidence_flag": "2 sources",
+     "evidence": "2 sources",
+     "note": "Prior marriage: widowed (Aaron Claridge). Pregnancy itself is not shown on screen.",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+     "match_title": "Love's Enduring Promise",
+     "match_year": "2004"
     }
    }
   },
@@ -363585,9 +365813,16 @@ window.CATALOG = {
    "character": "",
    "provenance": "Worldwide ten-vector sweep · 1–2 Oct 2026 · Philipagregory · Tvguide",
    "note": "EDGE: wife + official mistress structure.",
+   "kids_status": "yes",
+   "kids_together": "yes",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "evidence": "3 sources",
+   "adult": "yes",
    "format": "tv",
    "categories": [
-    "polygamy-pregnancy"
+    "polygamy-pregnancy",
+    "widow-divorcee-remarry-pregnant"
    ],
    "sources": [
     {
@@ -363597,20 +365832,107 @@ window.CATALOG = {
     {
      "label": "Tvguide",
      "url": "https://www.tvguide.com/news/starz-white-queen-1068891/"
+    },
+    {
+     "label": "IMDb ep. 2",
+     "url": "https://www.imdb.com/title/tt2618972/"
+    },
+    {
+     "label": "Enstarz ep. 2 preview",
+     "url": "https://www.enstarz.com/articles/23547/20130815/white-queen-spoilers-episode-2-elizabeths-coronation-edwards-betrayal-video.htm"
+    },
+    {
+     "label": "TVHackr ep. 2",
+     "url": "https://tvhackr.com/2013/08/14/the-white-queen-1-02-sneak-peeks-elizabeth-feels-pressure-to-produce-a-son/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "widow-remarry"
    ],
    "source_records": [
-    "xla62ucxbx02u5:2093"
+    "xla62ucxbx02u5:2093",
+    "widow-remarry:14"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:2093",
+    "source": "xla62ucxbx02u5",
+    "label": "The White Queen (2013)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The White Queen",
+    "subtitle": "",
+    "year": "2013",
+    "meta": "TV series · UK · English",
+    "summary": "Edward IV married to Elizabeth Woodville while keeping Jane Shore as acknowledged mistress simultaneously; Elizabeth pregnant/gives birth; depicted sex scenes (Starz cut more explicit).",
+    "character": "",
+    "note": "EDGE: wife + official mistress structure.",
+    "mechanism": "Polygamy / concurrent partners + pregnancy + depicted or reported intimacy",
+    "confidence_flag": "HIGH confidence",
+    "categories": [
+     "polygamy-pregnancy"
+    ],
+    "sources": [
+     {
+      "label": "Philipagregory",
+      "url": "https://philipagregory.fandom.com/wiki/Jane_Shore"
+     },
+     {
+      "label": "Tvguide",
+      "url": "https://www.tvguide.com/news/starz-white-queen-1068891/"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "widow-remarry:14",
+     "source": "widow-remarry",
+     "label": "The White Queen (2013)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The White Queen",
+     "subtitle": "",
+     "year": "2013",
+     "meta": "TV miniseries · United Kingdom · English",
+     "summary": "Ep. 2 'The Price of Power' — Elizabeth Woodville, widow of Sir John Grey and already mother of two sons, has secretly married Edward IV and is pregnant at her coronation, under pressure to give him a son.",
+     "character": "Elizabeth Woodville (Rebecca Ferguson), Edward IV (Max Irons)",
+     "note": "Prior marriage: widowed (Sir John Grey). ",
+     "mechanism": "",
+     "confidence_flag": "3 sources",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "IMDb ep. 2",
+       "url": "https://www.imdb.com/title/tt2618972/"
+      },
+      {
+       "label": "Enstarz ep. 2 preview",
+       "url": "https://www.enstarz.com/articles/23547/20130815/white-queen-spoilers-episode-2-elizabeths-coronation-edwards-betrayal-video.htm"
+      },
+      {
+       "label": "TVHackr ep. 2",
+       "url": "https://tvhackr.com/2013/08/14/the-white-queen-1-02-sneak-peeks-elizabeth-feels-pressure-to-produce-a-son/"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "married": "yes",
+     "pregnant_end": "yes",
+     "evidence": "3 sources",
+     "adult": "yes",
+     "distinct_story": true,
+     "matched_by": "title+year"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:2093": {
      "t": "The White Queen",
@@ -363654,6 +365976,40 @@ window.CATALOG = {
      ],
      "ppgProv": "Worldwide ten-vector sweep · 1–2 Oct 2026 · Philipagregory · Tvguide",
      "ppgNote": "EDGE: wife + official mistress structure."
+    },
+    "widow-remarry:14": {
+     "title": "The White Queen",
+     "year": "2013",
+     "format": "TV series",
+     "meta": "TV miniseries · United Kingdom · English",
+     "summary": "Ep. 2 'The Price of Power' — Elizabeth Woodville, widow of Sir John Grey and already mother of two sons, has secretly married Edward IV and is pregnant at her coronation, under pressure to give him a son.",
+     "character": "Elizabeth Woodville (Rebecca Ferguson), Edward IV (Max Irons)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "IMDb ep. 2",
+       "url": "https://www.imdb.com/title/tt2618972/"
+      },
+      {
+       "label": "Enstarz ep. 2 preview",
+       "url": "https://www.enstarz.com/articles/23547/20130815/white-queen-spoilers-episode-2-elizabeths-coronation-edwards-betrayal-video.htm"
+      },
+      {
+       "label": "TVHackr ep. 2",
+       "url": "https://tvhackr.com/2013/08/14/the-white-queen-1-02-sneak-peeks-elizabeth-feels-pressure-to-produce-a-son/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "adult": "yes",
+     "confidence_flag": "3 sources",
+     "evidence": "3 sources",
+     "note": "Prior marriage: widowed (Sir John Grey). ",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)"
     }
    }
   },
@@ -397230,6 +399586,585 @@ window.CATALOG = {
   },
   {
    "id": 2638,
+   "title": "Reign",
+   "subtitle": "",
+   "year": "2013–2017",
+   "meta": "TV series · United States · English",
+   "mechanism": "",
+   "confidence_flag": "5 sources",
+   "summary": "S4E9 'Pulling Strings' — widowed Mary learns she is pregnant by Lord Darnley and marries him; S4E15 'Blood in the Water' (9 Jun 2017) — she gives birth to James.",
+   "character": "Mary Stuart (Adelaide Kane), Lord Darnley (Will Kemp)",
+   "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+   "note": "Prior marriage: widowed (Francis II, S3). Verified. Sources differ slightly on order (EW: pregnancy found before the wedding).",
+   "kids_status": "no",
+   "kids_together": "yes",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "evidence": "5 sources",
+   "adult": "yes",
+   "format": "TV series",
+   "categories": [
+    "widow-divorcee-remarry-pregnant"
+   ],
+   "sources": [
+    {
+     "label": "EW recap S4E9",
+     "url": "https://ew.com/recap/reign-season-4-episode-9/"
+    },
+    {
+     "label": "TV Guide S4 episodes",
+     "url": "https://www.tvguide.com/tvshows/reign/episodes-season-4/1000051508/"
+    },
+    {
+     "label": "Hidden Remote recap S4E15",
+     "url": "https://hiddenremote.com/2017/06/09/reign-season-4-episode-15-recap-prince-james-finally-arrives/"
+    },
+    {
+     "label": "TVmaze 4x15",
+     "url": "https://www.tvmaze.com/episodes/1146944/reign-4x15-blood-in-the-water"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt2710394/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "widow-remarry"
+   ],
+   "source_records": [
+    "widow-remarry:10"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "widow-remarry:10": {
+     "title": "Reign",
+     "year": "2013–2017",
+     "format": "TV series",
+     "meta": "TV series · United States · English",
+     "summary": "S4E9 'Pulling Strings' — widowed Mary learns she is pregnant by Lord Darnley and marries him; S4E15 'Blood in the Water' (9 Jun 2017) — she gives birth to James.",
+     "character": "Mary Stuart (Adelaide Kane), Lord Darnley (Will Kemp)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "EW recap S4E9",
+       "url": "https://ew.com/recap/reign-season-4-episode-9/"
+      },
+      {
+       "label": "TV Guide S4 episodes",
+       "url": "https://www.tvguide.com/tvshows/reign/episodes-season-4/1000051508/"
+      },
+      {
+       "label": "Hidden Remote recap S4E15",
+       "url": "https://hiddenremote.com/2017/06/09/reign-season-4-episode-15-recap-prince-james-finally-arrives/"
+      },
+      {
+       "label": "TVmaze 4x15",
+       "url": "https://www.tvmaze.com/episodes/1146944/reign-4x15-blood-in-the-water"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt2710394/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "no",
+     "adult": "yes",
+     "confidence_flag": "5 sources",
+     "evidence": "5 sources",
+     "note": "Prior marriage: widowed (Francis II, S3). Verified. Sources differ slightly on order (EW: pregnancy found before the wedding).",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)"
+    }
+   }
+  },
+  {
+   "id": 2639,
+   "title": "Mary Queen of Scots",
+   "subtitle": "",
+   "year": "2018",
+   "meta": "Film · United Kingdom · English",
+   "mechanism": "",
+   "confidence_flag": "2 sources",
+   "summary": "Widowed Mary returns to Scotland, marries Lord Darnley, and gives birth to son James.",
+   "character": "Mary Stuart (Saoirse Ronan), Henry Darnley (Jack Lowden)",
+   "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+   "note": "Prior marriage: widowed (Francis II of France). ",
+   "kids_status": "no",
+   "kids_together": "yes",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "evidence": "2 sources",
+   "adult": "yes",
+   "format": "movie",
+   "categories": [
+    "widow-divorcee-remarry-pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mary_Queen_of_Scots_(2018_film)"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt2328900/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "widow-remarry"
+   ],
+   "source_records": [
+    "widow-remarry:11"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "widow-remarry:11": {
+     "title": "Mary Queen of Scots",
+     "year": "2018",
+     "format": "movie",
+     "meta": "Film · United Kingdom · English",
+     "summary": "Widowed Mary returns to Scotland, marries Lord Darnley, and gives birth to son James.",
+     "character": "Mary Stuart (Saoirse Ronan), Henry Darnley (Jack Lowden)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Mary_Queen_of_Scots_(2018_film)"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt2328900/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "no",
+     "adult": "yes",
+     "confidence_flag": "2 sources",
+     "evidence": "2 sources",
+     "note": "Prior marriage: widowed (Francis II of France). ",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)"
+    }
+   }
+  },
+  {
+   "id": 2640,
+   "title": "The Spanish Princess",
+   "subtitle": "",
+   "year": "2019–2020",
+   "meta": "Miniseries · United States/UK · English",
+   "mechanism": "",
+   "confidence_flag": "2 sources",
+   "summary": "Catherine of Aragon, widowed by Prince Arthur, marries Henry VIII and goes through several on-screen pregnancies.",
+   "character": "Catherine of Aragon (Charlotte Hope), Henry VIII (Ruairi O'Connor)",
+   "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+   "note": "Prior marriage: widowed (Prince Arthur). ",
+   "kids_status": "no",
+   "kids_together": "yes",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "evidence": "2 sources",
+   "adult": "yes",
+   "format": "TV series",
+   "categories": [
+    "widow-divorcee-remarry-pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Spanish_Princess"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt8417308/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "widow-remarry"
+   ],
+   "source_records": [
+    "widow-remarry:12"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "widow-remarry:12": {
+     "title": "The Spanish Princess",
+     "year": "2019–2020",
+     "format": "TV series",
+     "meta": "Miniseries · United States/UK · English",
+     "summary": "Catherine of Aragon, widowed by Prince Arthur, marries Henry VIII and goes through several on-screen pregnancies.",
+     "character": "Catherine of Aragon (Charlotte Hope), Henry VIII (Ruairi O'Connor)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Spanish_Princess"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt8417308/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "no",
+     "adult": "yes",
+     "confidence_flag": "2 sources",
+     "evidence": "2 sources",
+     "note": "Prior marriage: widowed (Prince Arthur). ",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)"
+    }
+   }
+  },
+  {
+   "id": 2641,
+   "title": "Becoming Elizabeth",
+   "subtitle": "",
+   "year": "2022",
+   "meta": "TV series · United States/UK · English",
+   "mechanism": "",
+   "confidence_flag": "2 sources",
+   "summary": "Henry VIII's widow Catherine Parr marries Thomas Seymour, learns she is pregnant, and dies after childbirth.",
+   "character": "Catherine Parr (Jessica Raine), Thomas Seymour (Tom Cullen)",
+   "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+   "note": "Prior marriage: widowed (Henry VIII). ",
+   "kids_status": "no",
+   "kids_together": "yes",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "evidence": "2 sources",
+   "adult": "yes",
+   "format": "TV series",
+   "categories": [
+    "widow-divorcee-remarry-pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Becoming_Elizabeth"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt11444366/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "widow-remarry"
+   ],
+   "source_records": [
+    "widow-remarry:13"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "widow-remarry:13": {
+     "title": "Becoming Elizabeth",
+     "year": "2022",
+     "format": "TV series",
+     "meta": "TV series · United States/UK · English",
+     "summary": "Henry VIII's widow Catherine Parr marries Thomas Seymour, learns she is pregnant, and dies after childbirth.",
+     "character": "Catherine Parr (Jessica Raine), Thomas Seymour (Tom Cullen)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Becoming_Elizabeth"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt11444366/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "no",
+     "adult": "yes",
+     "confidence_flag": "2 sources",
+     "evidence": "2 sources",
+     "note": "Prior marriage: widowed (Henry VIII). ",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)"
+    }
+   }
+  },
+  {
+   "id": 2642,
+   "title": "Grey's Anatomy",
+   "subtitle": "",
+   "year": "2018–2021",
+   "meta": "Medical drama · United States · English",
+   "mechanism": "",
+   "confidence_flag": "4 sources",
+   "summary": "Widowed Teddy Altman (husband Henry died S8) returns in the S14 finale pregnant with Owen Hunt's daughter Allison; Owen proposes in S17E17 and they marry in S18E1 'Here Comes the Sun'.",
+   "character": "Teddy Altman (Kim Raver), Owen Hunt (Kevin McKidd)",
+   "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+   "note": "Prior marriage: widowed (Henry Burton). Pregnancy and birth precede the wedding by years.",
+   "kids_status": "no",
+   "kids_together": "yes",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "evidence": "4 sources",
+   "adult": "yes",
+   "format": "TV series",
+   "categories": [
+    "widow-divorcee-remarry-pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Teddy_Altman"
+    },
+    {
+     "label": "Shondaland weddings list",
+     "url": "https://www.shondaland.com/shondaland-series/greys-anatomy/all-the-weddings-from-the-best-to-the-most-disastrous-on-grey-s-anatomy-ranked"
+    },
+    {
+     "label": "TV Insider timeline",
+     "url": "https://www.tvinsider.com/swooon/gallery/greys-anatomy-relationship-timeline-owen-hunt-teddy-altman/"
+    },
+    {
+     "label": "EW S17E17 recap",
+     "url": "https://ew.com/tv/recaps/greys-anatomy-season-17-episode-17/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "widow-remarry"
+   ],
+   "source_records": [
+    "widow-remarry:15"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "widow-remarry:15": {
+     "title": "Grey's Anatomy",
+     "year": "2018–2021",
+     "format": "TV series",
+     "meta": "Medical drama · United States · English",
+     "summary": "Widowed Teddy Altman (husband Henry died S8) returns in the S14 finale pregnant with Owen Hunt's daughter Allison; Owen proposes in S17E17 and they marry in S18E1 'Here Comes the Sun'.",
+     "character": "Teddy Altman (Kim Raver), Owen Hunt (Kevin McKidd)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Teddy_Altman"
+      },
+      {
+       "label": "Shondaland weddings list",
+       "url": "https://www.shondaland.com/shondaland-series/greys-anatomy/all-the-weddings-from-the-best-to-the-most-disastrous-on-grey-s-anatomy-ranked"
+      },
+      {
+       "label": "TV Insider timeline",
+       "url": "https://www.tvinsider.com/swooon/gallery/greys-anatomy-relationship-timeline-owen-hunt-teddy-altman/"
+      },
+      {
+       "label": "EW S17E17 recap",
+       "url": "https://ew.com/tv/recaps/greys-anatomy-season-17-episode-17/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "no",
+     "adult": "yes",
+     "confidence_flag": "4 sources",
+     "evidence": "4 sources",
+     "note": "Prior marriage: widowed (Henry Burton). Pregnancy and birth precede the wedding by years.",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)"
+    }
+   }
+  },
+  {
+   "id": 2643,
+   "title": "The Forsyte Saga",
+   "subtitle": "",
+   "year": "2002–2003",
+   "meta": "TV serial · United Kingdom · English",
+   "mechanism": "",
+   "confidence_flag": "2 sources",
+   "summary": "Irene leaves and divorces Soames Forsyte, marries his cousin Young Jolyon, and has their son Jon.",
+   "character": "Irene (Gina McKee), Young Jolyon (Rupert Graves)",
+   "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+   "note": "Prior marriage: divorced (Soames Forsyte). ",
+   "kids_status": "no",
+   "kids_together": "yes",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "evidence": "2 sources",
+   "adult": "yes",
+   "format": "TV series",
+   "categories": [
+    "widow-divorcee-remarry-pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Forsyte_Saga_(2002_TV_series)"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0260615/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "widow-remarry"
+   ],
+   "source_records": [
+    "widow-remarry:16"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "widow-remarry:16": {
+     "title": "The Forsyte Saga",
+     "year": "2002–2003",
+     "format": "TV series",
+     "meta": "TV serial · United Kingdom · English",
+     "summary": "Irene leaves and divorces Soames Forsyte, marries his cousin Young Jolyon, and has their son Jon.",
+     "character": "Irene (Gina McKee), Young Jolyon (Rupert Graves)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Forsyte_Saga_(2002_TV_series)"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0260615/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "yes",
+     "kids_status": "no",
+     "adult": "yes",
+     "confidence_flag": "2 sources",
+     "evidence": "2 sources",
+     "note": "Prior marriage: divorced (Soames Forsyte). ",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)"
+    }
+   }
+  },
+  {
+   "id": 2644,
+   "title": "The Postman Always Rings Twice",
+   "subtitle": "",
+   "year": "1946",
+   "meta": "Film noir · United States · English",
+   "mechanism": "",
+   "confidence_flag": "2 sources",
+   "summary": "After her husband Nick is killed, Cora marries Frank so neither can testify against the other; she later tells him she is pregnant, shortly before a fatal car crash.",
+   "character": "Cora (Lana Turner), Frank Chambers (John Garfield)",
+   "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
+   "note": "Prior marriage: widowed (Nick Smith, killed in their plot). She dies while pregnant.",
+   "kids_status": "no",
+   "kids_together": "no",
+   "married": "yes",
+   "pregnant_end": "yes",
+   "evidence": "2 sources",
+   "adult": "yes",
+   "format": "movie",
+   "categories": [
+    "widow-divorcee-remarry-pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Postman_Always_Rings_Twice_(1946_film)"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0038854/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "widow-remarry"
+   ],
+   "source_records": [
+    "widow-remarry:17"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "widow-remarry:17": {
+     "title": "The Postman Always Rings Twice",
+     "year": "1946",
+     "format": "movie",
+     "meta": "Film noir · United States · English",
+     "summary": "After her husband Nick is killed, Cora marries Frank so neither can testify against the other; she later tells him she is pregnant, shortly before a fatal car crash.",
+     "character": "Cora (Lana Turner), Frank Chambers (John Garfield)",
+     "categories": [
+      "widow-divorcee-remarry-pregnant"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Postman_Always_Rings_Twice_(1946_film)"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0038854/"
+      }
+     ],
+     "married": "yes",
+     "pregnant_end": "yes",
+     "kids_together": "no",
+     "kids_status": "no",
+     "adult": "yes",
+     "confidence_flag": "2 sources",
+     "evidence": "2 sources",
+     "note": "Prior marriage: widowed (Nick Smith, killed in their plot). She dies while pregnant.",
+     "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)"
+    }
+   }
+  },
+  {
+   "id": 2645,
    "title": "Savdhaan India — \"A Hypnotist or a Killer?\" (S68 E46; Madhuri)",
    "subtitle": "",
    "year": "c. Sep 2012",
@@ -397309,7 +400244,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2639,
+   "id": 2646,
    "title": "The Guilt of Janet Ames",
    "subtitle": "",
    "year": "1946",
@@ -397382,7 +400317,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2640,
+   "id": 2647,
    "title": "The Ghost and Mrs. Muir",
    "subtitle": "",
    "year": "1947",
@@ -397463,7 +400398,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2641,
+   "id": 2648,
    "title": "Days of Our Lives — \"The Dragon\" storyline (Emma Donovan)",
    "subtitle": "",
    "year": "1985",
@@ -397537,7 +400472,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2642,
+   "id": 2649,
    "title": "Love in Oblivion",
    "subtitle": "",
    "year": "2026",
@@ -397636,7 +400571,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2643,
+   "id": 2650,
    "title": "Passione",
    "subtitle": "Berilo and the 'sexual hypnotist' storyline (2–7 Oct 2010)",
    "year": "2010",
@@ -397766,7 +400701,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2644,
+   "id": 2651,
    "title": "Trust Me",
    "subtitle": "",
    "year": "2010",
@@ -397868,7 +400803,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2645,
+   "id": 2652,
    "title": "Sex/Life",
    "subtitle": "S2E3 “Seasons of Love”",
    "year": "2023",
@@ -397992,7 +400927,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2646,
+   "id": 2653,
    "title": "Revenge in the Golden Cage / Miss Schemer vs. Mr. CEO / 晚色上春枝",
    "subtitle": "",
    "year": "2025",
@@ -398089,7 +401024,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2647,
+   "id": 2654,
    "title": "You and Me Makes Three",
    "subtitle": "",
    "year": "2026",
@@ -398186,7 +401121,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2648,
+   "id": 2655,
    "title": "August & Ebony",
    "subtitle": "",
    "year": "2024",
@@ -398283,7 +401218,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2649,
+   "id": 2656,
    "title": "醒来时，我眼里不是他",
    "subtitle": "When I Woke, He Wasn't in My Eyes",
    "year": "2026",
@@ -398385,7 +401320,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2650,
+   "id": 2657,
    "title": "神秘的她",
    "subtitle": "The Mysterious Her / 诱她入梦 / 她是谁短剧版 (alias titles on aggregators)",
    "year": "2025",
@@ -398479,7 +401414,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2651,
+   "id": 2658,
    "title": "第一百零一次睁眼",
    "subtitle": "The 101st Time I Opened My Eyes",
    "year": "2025",
@@ -398585,7 +401520,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2652,
+   "id": 2659,
    "title": "我靠催眠控制万物",
    "subtitle": "aka 弄巧成拙：我催眠了个老婆 (alias, unverified)",
    "year": "2023",
@@ -398691,7 +401626,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2653,
+   "id": 2660,
    "title": "私尝",
    "subtitle": "Private Tasting",
    "year": "2025",
@@ -398793,7 +401728,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2654,
+   "id": 2661,
    "title": "Beneath the Hypnosis",
    "subtitle": "Rainy Night Scheme / 'Bajo la Hipnosis' / 'La Trampa del Deseo: Secretos bajo la Lluvia' (ShortMax)",
    "year": "Date unverified",
@@ -398901,7 +401836,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2655,
+   "id": 2662,
    "title": "催眠曲",
    "subtitle": "Lullaby / Hypnotic Song",
    "year": "2025",
@@ -398999,7 +401934,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2656,
+   "id": 2663,
    "title": "催眠局中局",
    "subtitle": "Hypnosis Trap Within a Trap",
    "year": "2026",
@@ -399089,7 +402024,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2657,
+   "id": 2664,
    "title": "指尖牢",
    "subtitle": "Fingertip Prison",
    "year": "2026",
@@ -399177,7 +402112,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2658,
+   "id": 2665,
    "title": "我能听到妈妈的心声后",
    "subtitle": "After I Could Hear Mom's Thoughts",
    "year": "2025",
@@ -399287,7 +402222,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2659,
+   "id": 2666,
    "title": "我的多重人格在自相残杀",
    "subtitle": "My Multiple Personalities Are Killing Each Other / 我的多重人格 / 'สะกดจิตสะกดใจ' (Bilibili TV Thai)",
    "year": "2025",
@@ -399393,7 +402328,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2660,
+   "id": 2667,
    "title": "Don't Monkey with the Buzz Saw",
    "subtitle": "",
    "year": "1914",
@@ -399490,7 +402425,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2661,
+   "id": 2668,
    "title": "Hypnosis",
    "subtitle": "",
    "year": "2019",
@@ -399577,7 +402512,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2662,
+   "id": 2669,
    "title": "Mom, don't sign! Dad is not dead!",
    "subtitle": "",
    "year": "Date unverified",
@@ -399852,6 +402787,20 @@ window.CATALOG = {
         "Fertility struggle → adoption → later pregnancy",
         "High confidence · index-sourced",
         "High confidence"
+       ],
+       "sources": [
+        {
+         "label": "Sex and the City Wiki",
+         "url": "https://sexandthecity.fandom.com/wiki/Charlotte_York"
+        },
+        {
+         "label": "Marie Claire",
+         "url": "https://www.marieclaire.co.uk/news/celebrity-news/sex-and-the-city-spoiler-alert-182103"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Sex_and_the_City"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -402970,15 +405919,15 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2642,
+       "id": 2649,
        "from_source": "round2"
       },
       {
-       "id": 2643,
+       "id": 2650,
        "from_source": "round2"
       },
       {
-       "id": 2644,
+       "id": 2651,
        "from_source": "round2"
       }
      ],
@@ -402989,15 +405938,19 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2661,
+       "id": 2668,
        "from_source": "round3"
       },
       {
-       "id": 2656,
+       "id": 2663,
        "from_source": "round3"
       },
       {
-       "id": 2655,
+       "id": 2662,
+       "from_source": "round3"
+      },
+      {
+       "id": 2666,
        "from_source": "round3"
       },
       {
@@ -403005,19 +405958,15 @@ window.CATALOG = {
        "from_source": "round3"
       },
       {
-       "id": 2652,
+       "id": 2664,
        "from_source": "round3"
       },
       {
-       "id": 2657,
+       "id": 2660,
        "from_source": "round3"
       },
       {
-       "id": 2653,
-       "from_source": "round3"
-      },
-      {
-       "id": 2649,
+       "id": 2656,
        "from_source": "round3"
       }
      ],
@@ -404728,7 +407677,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2658,
+       "id": 2665,
        "from_source": "round3"
       }
      ],
@@ -406666,7 +409615,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2640,
+       "id": 2647,
        "from_source": "widow-divorcee-oct14"
       }
      ],
@@ -408637,7 +411586,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2638,
+       "id": 2645,
        "from_source": "savdhaan-santham-oct9"
       }
      ],
@@ -409298,15 +412247,15 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2660,
+       "id": 2667,
        "from_source": "round3"
       },
       {
-       "id": 2650,
+       "id": 2657,
        "from_source": "round3"
       },
       {
-       "id": 2651,
+       "id": 2658,
        "from_source": "round3"
       },
       {
@@ -413467,7 +416416,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2641,
+       "id": 2648,
        "from_source": "widow-divorcee-oct14"
       }
      ],
@@ -413478,11 +416427,11 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2643,
+       "id": 2650,
        "from_source": "round2"
       },
       {
-       "id": 2644,
+       "id": 2651,
        "from_source": "round2"
       }
      ],
@@ -413750,7 +416699,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2654,
+       "id": 2661,
        "from_source": "round3"
       }
      ],
@@ -414282,7 +417231,7 @@ window.CATALOG = {
        "from_source": "round2"
       },
       {
-       "id": 2642,
+       "id": 2649,
        "from_source": "round2"
       }
      ],
@@ -414293,23 +417242,23 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2654,
+       "id": 2661,
        "from_source": "round3"
       },
       {
-       "id": 2660,
+       "id": 2667,
        "from_source": "round3"
       },
       {
-       "id": 2650,
+       "id": 2657,
        "from_source": "round3"
       },
       {
-       "id": 2651,
+       "id": 2658,
        "from_source": "round3"
       },
       {
-       "id": 2649,
+       "id": 2656,
        "from_source": "round3"
       }
      ],
@@ -414618,11 +417567,11 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2652,
+       "id": 2659,
        "from_source": "round3"
       },
       {
-       "id": 2653,
+       "id": 2660,
        "from_source": "round3"
       }
      ],
@@ -414945,11 +417894,11 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2654,
+       "id": 2661,
        "from_source": "round3"
       },
       {
-       "id": 2650,
+       "id": 2657,
        "from_source": "round3"
       }
      ],
@@ -415514,7 +418463,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2656,
+       "id": 2663,
        "from_source": "round3"
       }
      ],
@@ -417506,11 +420455,11 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2653,
+       "id": 2660,
        "from_source": "round3"
       },
       {
-       "id": 2649,
+       "id": 2656,
        "from_source": "round3"
       }
      ],
@@ -418530,7 +421479,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2648,
+       "id": 2655,
        "from_source": "round2"
       },
       {
@@ -418538,7 +421487,7 @@ window.CATALOG = {
        "from_source": "round2"
       },
       {
-       "id": 2647,
+       "id": 2654,
        "from_source": "round2"
       }
      ],
@@ -419118,7 +422067,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2645,
+       "id": 2652,
        "from_source": "round2"
       }
      ],
@@ -420109,7 +423058,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2639,
+       "id": 2646,
        "from_source": "widow-divorcee-oct14"
       }
      ],
@@ -420120,19 +423069,19 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2661,
+       "id": 2668,
        "from_source": "round3"
       },
       {
-       "id": 2656,
+       "id": 2663,
        "from_source": "round3"
       },
       {
-       "id": 2655,
+       "id": 2662,
        "from_source": "round3"
       },
       {
-       "id": 2659,
+       "id": 2666,
        "from_source": "round3"
       }
      ],
@@ -420953,7 +423902,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2658,
+       "id": 2665,
        "from_source": "round3"
       }
      ],
@@ -420993,6 +423942,12 @@ window.CATALOG = {
         "Single mom remarries and gets pregnant with new partner",
         "Control mechanism unstated",
         "Low confidence · single source"
+       ],
+       "sources": [
+        {
+         "label": "Source",
+         "url": "https://www.imdb.com/title/tt29613358"
+        }
        ],
        "provenance": "Source basis: Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)",
        "character": "Character: Wu Li Mei",
@@ -421155,6 +424110,16 @@ window.CATALOG = {
         "Control mechanism unstated",
         "Medium confidence · 2+ independent sources (Wikipedia, Desperate Housewives wiki)"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Susan_Mayer"
+        },
+        {
+         "label": "Desperate Housewives fandom wiki",
+         "url": "https://desperatehousewives.fandom.com/wiki/Susan_Delfino"
+        }
+       ],
        "provenance": "Source basis: Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)",
        "entry_note": "Note: Outcome facts: married: yes; kids status: yes.",
        "from_source": "xla62ucxbx02u5"
@@ -421167,6 +424132,28 @@ window.CATALOG = {
         "Pregnant characters having sex",
         "Control mechanism unstated",
         "Verified"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Rita_Bennett"
+        },
+        {
+         "label": "Source",
+         "url": "https://en.wikipedia.org/wiki/Dexter_season_4"
+        },
+        {
+         "label": "IMDb parents guide (episode)",
+         "url": "https://www.imdb.com/title/tt1242111/parentalguide/"
+        },
+        {
+         "label": "Dexter wiki",
+         "url": "https://dexter.fandom.com/wiki/Episode_301:_Our_Father"
+        },
+        {
+         "label": "Wikipedia: Dexter season 3",
+         "url": "https://en.wikipedia.org/wiki/Dexter_season_3"
+        }
        ],
        "provenance": "Source basis: Pregnant-character intimacy research pass, 30 Sep 2026",
        "character": "Character: Rita",
@@ -421192,6 +424179,12 @@ window.CATALOG = {
         "Control mechanism unstated",
         "Exact match · single mom remarries and gets pregnant"
        ],
+       "sources": [
+        {
+         "label": "Source",
+         "url": "https://en.wikipedia.org/wiki/Doli_Armaano_Ki"
+        }
+       ],
        "provenance": "Source basis: India-only research pass, 30 Sep 2026 (Prior catalog)",
        "character": "Character: Urmi",
        "from_source": "xla62ucxbx02u5"
@@ -421202,6 +424195,20 @@ window.CATALOG = {
         "Mother with children gets pregnant in a passionate relationship (husband, new partner or lover)",
         "Control mechanism unstated",
         "Medium confidence · 2+ independent sources (Wikipedia list of characters, Downton Abbey wiki)"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Downton_Abbey"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/List_of_Downton_Abbey_characters"
+        },
+        {
+         "label": "Downton Abbey fandom wiki",
+         "url": "https://downtonabbey.fandom.com/wiki/Cora_Crawley"
+        }
        ],
        "provenance": "Source basis: Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)",
        "entry_note": "Note: Outcome facts: married: yes; kids status: yes.",
@@ -421413,6 +424420,16 @@ window.CATALOG = {
         "Mother with children gets pregnant in a passionate relationship (husband, new partner or lover)",
         "Control mechanism unstated",
         "Medium confidence · 2+ sources (Wikipedia film plot; Gone with the Wind wiki on Scarlett's children)"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Gone_with_the_Wind_(film)"
+        },
+        {
+         "label": "Gone with the Wind fandom wiki",
+         "url": "https://gonewiththewind.fandom.com/wiki/Scarlett_O%27Hara"
+        }
        ],
        "provenance": "Source basis: Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)",
        "entry_note": "Note: Outcome facts: married: yes; kids status: yes.",
@@ -421748,6 +424765,12 @@ window.CATALOG = {
         "Control mechanism unstated",
         "Low confidence · single source"
        ],
+       "sources": [
+        {
+         "label": "Source",
+         "url": "https://www.imdb.com/title/tt5797164"
+        }
+       ],
        "provenance": "Source basis: Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)",
        "character": "Character: Divorced mother of two",
        "entry_note": "Note: Outcome facts: married: yes; kids status: yes.",
@@ -421817,6 +424840,12 @@ window.CATALOG = {
         "Single mom remarries and gets pregnant with new partner",
         "Control mechanism unstated",
         "Exact match · single mom remarries and gets pregnant"
+       ],
+       "sources": [
+        {
+         "label": "Source",
+         "url": "https://en.wikipedia.org/wiki/Punar_Vivaah_%E2%80%93_Zindagi_Milegi_Dobara"
+        }
        ],
        "provenance": "Source basis: India-only research pass, 30 Sep 2026 (Prior catalog)",
        "character": "Character: Aarti",
@@ -422109,6 +425138,16 @@ window.CATALOG = {
         "Control mechanism unstated",
         "Medium confidence · 2+ independent sources (Wikipedia list of characters, Weeds wiki)"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/List_of_Weeds_characters"
+        },
+        {
+         "label": "Weeds fandom wiki",
+         "url": "https://weeds.fandom.com/wiki/Stevie_Ray_Botwin"
+        }
+       ],
        "provenance": "Source basis: Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)",
        "entry_note": "Note: Outcome facts: married: yes; kids status: yes.",
        "from_source": "xla62ucxbx02u5"
@@ -422180,6 +425219,12 @@ window.CATALOG = {
         "Twin pregnancy 3 months after flash remarriage",
         "Medium confidence · BORDERLINE/VARIANT — she was not a mother before the remarriage (divorced after 7 infertile years)"
        ],
+       "sources": [
+        {
+         "label": "BrokenTiara Drama · licensed YouTube upload",
+         "url": "https://www.youtube.com/watch?v=Vp_lycfuajI"
+        }
+       ],
        "provenance": "Source basis: DramaExpress + short-drama-sites sweep, 01 Oct 2026 (dramaexpress.net + 11 platforms; adult/18+ vector honest zero)",
        "entry_note": "Note: Explicit scope caveat: filed as a borderline/variant of 'single mom remarries and gets pregnant' because Xu Qin had no children before the remarriage; she does not satisfy the prior-motherhood criterion.",
        "from_source": "xla62ucxbx02u5"
@@ -422192,6 +425237,12 @@ window.CATALOG = {
         "Single mom remarries and gets pregnant with new partner",
         "Remarriage and son after abandonment/abortion — unverified",
         "Low confidence · UNRESOLVED LEAD — plot unconfirmed; single commentary-channel source; not counted as verified"
+       ],
+       "sources": [
+        {
+         "label": "YouTube · commentary-channel synopsis",
+         "url": "https://www.youtube.com/watch?v=5Nh8byw3njE"
+        }
        ],
        "provenance": "Source basis: DramaExpress + short-drama-sites sweep, 01 Oct 2026 (dramaexpress.net + 11 platforms; adult/18+ vector honest zero)",
        "entry_note": "Note: Plot unconfirmed; filed only as a labeled lead.",
@@ -422489,7 +425540,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2648,
+       "id": 2655,
        "from_source": "round2"
       },
       {
@@ -424477,7 +427528,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2657,
+       "id": 2664,
        "from_source": "round3"
       }
      ],
@@ -425279,6 +428330,7 @@ window.CATALOG = {
         "Black-magic spell / memory loss",
         "RELATED CROSS-REFERENCE · combination documented"
        ],
+       "sources": [],
        "provenance": "Source basis: Worldwide seven-vector sweep plus strict-scope supplement, 1 Oct 2026 · Middle East / Turkish supplement · existing catalog record",
        "from_source": "xla62ucxbx02u5"
       }
@@ -426022,6 +429074,16 @@ window.CATALOG = {
         "Polygamy / concurrent partners + pregnancy + depicted or reported intimacy",
         "HIGH confidence"
        ],
+       "sources": [
+        {
+         "label": "Philipagregory",
+         "url": "https://philipagregory.fandom.com/wiki/Jane_Shore"
+        },
+        {
+         "label": "Tvguide",
+         "url": "https://www.tvguide.com/news/starz-white-queen-1068891/"
+        }
+       ],
        "provenance": "Source basis: Worldwide ten-vector sweep · 1–2 Oct 2026 · Philipagregory · Tvguide",
        "entry_note": "Note: EDGE: wife + official mistress structure.",
        "from_source": "xla62ucxbx02u5"
@@ -426487,7 +429549,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2662,
+       "id": 2669,
        "from_source": "round3"
       }
      ],
@@ -427157,6 +430219,28 @@ window.CATALOG = {
         "On-screen marital sex",
         "High confidence for S02E04–05 · medium for S02E06"
        ],
+       "sources": [
+        {
+         "label": "Flavorwire",
+         "url": "https://www.flavorwire.com/574062/outlander-season-2-episode-4-la-dame-blanche"
+        },
+        {
+         "label": "Doux Reviews",
+         "url": "https://www.douxreviews.com/2019/08/outlander-la-dame-blanche.html?m=1"
+        },
+        {
+         "label": "Yibada · S02E05",
+         "url": "https://en.yibada.com/articles/121898/20160507/outlander-season-2-episode-5-spoilers-live-stream-where-to-watch-online-untimely-resurrection-video.htm"
+        },
+        {
+         "label": "OVH recap · S02E05",
+         "url": "https://mon.s3.gra.io.cloud.ovh.net/news/outlander-recap-claire-and-jamie-finally-have-sex-17083.html"
+        },
+        {
+         "label": "Showbiz Junkies · S02E06",
+         "url": "https://www.showbizjunkies.com/tv/outlander-season-2-episode-6-recap/amp/"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -427465,7 +430549,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2645,
+       "id": 2652,
        "from_source": "round2"
       }
      ],
@@ -427817,7 +430901,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2645,
+       "id": 2652,
        "from_source": "round2"
       }
      ],
@@ -428504,6 +431588,20 @@ window.CATALOG = {
         "Control mechanism unstated",
         "High · 3 sources"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia — Modern Family characters",
+         "url": "https://en.wikipedia.org/wiki/List_of_Modern_Family_characters"
+        },
+        {
+         "label": "Wikipedia · “Party Crasher”",
+         "url": "https://en.wikipedia.org/wiki/Party_Crasher_(Modern_Family)"
+        },
+        {
+         "label": "TV Fanatic · S4E12 recap",
+         "url": "https://www.tvfanatic.com/modern-family-season-4-episode-12-recap-party-crasher/"
+        }
+       ],
        "provenance": "Source basis: Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
        "entry_note": "Note: Outcome facts: pregnancy outcome: becomes pregnant by the end; kids status: yes.",
        "from_source": "xla62ucxbx02u5"
@@ -428558,6 +431656,24 @@ window.CATALOG = {
         "Pregnant stepmother / bonus mom",
         "Control mechanism unstated",
         "High · 3 sources"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Krystle_Carrington"
+        },
+        {
+         "label": "TheTVDB · S2E7 “The Miscarriage”",
+         "url": "https://www.thetvdb.com/series/dynasty/episodes/47298"
+        },
+        {
+         "label": "You Miserable Bitch",
+         "url": "https://youmiserablebitch.com/blog/2022/9/5/dynasty-top-scenes-alexis-causes-krystles-miscarriage"
+        },
+        {
+         "label": "Wikipedia (List of Dynasty (1981 TV series) characters)",
+         "url": "https://en.wikipedia.org/wiki/List_of_Dynasty_(1981_TV_series)_characters"
+        }
        ],
        "provenance": "Source basis: Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
        "entry_note": "Note: Outcome facts: pregnancy outcome: becomes pregnant by the end; kids status: no.",
@@ -435003,6 +438119,12 @@ window.CATALOG = {
         "Mother with children gets pregnant in a passionate relationship (husband, new partner or lover)",
         "Exact match"
        ],
+       "sources": [
+        {
+         "label": "Source",
+         "url": "https://ko.wikipedia.org/wiki/있을_때_잘해!!"
+        }
+       ],
        "character": "Character: Soon-ae",
        "entry_note": "Note: Wedding implied, not explicitly shown.",
        "from_source": "xla62ucxbx02u5"
@@ -435045,6 +438167,12 @@ window.CATALOG = {
        "tags": [
         "Single mom remarries and gets pregnant with new partner",
         "Near / partial match"
+       ],
+       "sources": [
+        {
+         "label": "Source",
+         "url": "https://www.tellychakkar.com/tv/tv-news/anandi-become-mother-of-twins-balika-vadhu-141222?amp"
+        }
        ],
        "character": "Character: Anandi",
        "from_source": "xla62ucxbx02u5"
@@ -435089,6 +438217,20 @@ window.CATALOG = {
         "Single mom remarries and gets pregnant with new partner",
         "Remarriage followed by a child with the new husband",
         "High confidence · pregnancy occurs off-screen between films"
+       ],
+       "sources": [
+        {
+         "label": "Crown Media · official synopsis",
+         "url": "http://awsprxdam.crownmediadev.com.s3-us-west-1.amazonaws.com/highRes/648525.pdf"
+        },
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0402348"
+        },
+        {
+         "label": "TV Guide",
+         "url": "https://Www.Tvguide.com/movies/loves-enduring-promise/videos/2030064028/"
+        }
        ],
        "provenance": "Source basis: Hallmark six-topic sweep completed 1 Oct 2026; roughly 80+ query rounds across Hallmark Channel, Hallmark Mystery, Hallmark+ and the Crown Media / Hallmark Hall of Fame back catalog.",
        "character": "Character: Marty Claridge Davis",
@@ -435245,15 +438387,15 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2660,
+       "id": 2667,
        "from_source": "round3"
       },
       {
-       "id": 2662,
+       "id": 2669,
        "from_source": "round3"
       },
       {
-       "id": 2658,
+       "id": 2665,
        "from_source": "round3"
       }
      ],
@@ -435993,6 +439135,7 @@ window.CATALOG = {
         "Spirit / ghost / djinn possession",
         "Research report · web-verified"
        ],
+       "sources": [],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -439772,6 +442915,159 @@ window.CATALOG = {
    }
   },
   {
+   "title": "Widow/divorcee remarries & pregnant again",
+   "category": "widow-divorcee-remarry-pregnant",
+   "description": "",
+   "notes": [],
+   "from_sources": [
+    "widow-remarry"
+   ],
+   "declared_count_by_source": {
+    "widow-remarry": null
+   },
+   "groups": [
+    {
+     "title": "Widow/divorcee remarries & pregnant again (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 856,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 85,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 2641,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 1122,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 1129,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 1142,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 1150,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 1183,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 2643,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 1290,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 2642,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 77,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 81,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 2012,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 2639,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 1550,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 335,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 79,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 1628,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 114,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 1639,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 767,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 2644,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 1678,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 2638,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 424,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 2640,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 78,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 1938,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 2076,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 1958,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 1969,
+       "from_source": "widow-remarry"
+      },
+      {
+       "id": 1970,
+       "from_source": "widow-remarry"
+      }
+     ],
+     "from_source": "widow-remarry"
+    }
+   ]
+  },
+  {
    "title": "Widowed / divorced woman hypnotised or mind-controlled",
    "category": "widow-divorcee",
    "description": "",
@@ -439788,15 +443084,15 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2641,
+       "id": 2648,
        "from_source": "widow-divorcee-oct14"
       },
       {
-       "id": 2640,
+       "id": 2647,
        "from_source": "widow-divorcee-oct14"
       },
       {
-       "id": 2639,
+       "id": 2646,
        "from_source": "widow-divorcee-oct14"
       }
      ],
@@ -442048,6 +445344,20 @@ window.CATALOG = {
         "Paternity concealed as husband’s",
         "Medium-high confidence · period / conception-timing caveat"
        ],
+       "sources": [
+        {
+         "label": "Den of Geek",
+         "url": "https://www.denofgeek.com/?p=170661"
+        },
+        {
+         "label": "Radio Times",
+         "url": "https://www.radiotimes.com/tv/drama/poldark-series-3-episode-1-review-a-birth-a-marriage-and-a-death-sees-the-aidan-turner-drama-get-off-to-a-flyer/"
+        },
+        {
+         "label": "ScreenRant",
+         "url": "http://screenrant.com/poldark-the-worst-thing-each-character-has-done/"
+        }
+       ],
        "character": "Character: Elizabeth Warleggan",
        "entry_note": "Note: Sources differ on whether conception occurred immediately before or just after Elizabeth’s wedding to George; she carried the pregnancy as George’s wife while already a mother.",
        "from_source": "xla62ucxbx02u5"
@@ -442745,6 +446055,24 @@ window.CATALOG = {
         "Control mechanism unstated",
         "High · 3 sources"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Krystle_Carrington"
+        },
+        {
+         "label": "TheTVDB · S2E7 “The Miscarriage”",
+         "url": "https://www.thetvdb.com/series/dynasty/episodes/47298"
+        },
+        {
+         "label": "You Miserable Bitch",
+         "url": "https://youmiserablebitch.com/blog/2022/9/5/dynasty-top-scenes-alexis-causes-krystles-miscarriage"
+        },
+        {
+         "label": "Wikipedia (List of Dynasty (1981 TV series) characters)",
+         "url": "https://en.wikipedia.org/wiki/List_of_Dynasty_(1981_TV_series)_characters"
+        }
+       ],
        "provenance": "Source basis: Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
        "entry_note": "Note: Outcome facts: pregnancy outcome: becomes pregnant by the end; kids status: no.",
        "from_source": "xla62ucxbx02u5"
@@ -442816,6 +446144,20 @@ window.CATALOG = {
         "Mother with children gets pregnant in a passionate relationship (husband, new partner or lover)",
         "Control mechanism unstated",
         "High · 3 sources"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia — Modern Family characters",
+         "url": "https://en.wikipedia.org/wiki/List_of_Modern_Family_characters"
+        },
+        {
+         "label": "Wikipedia · “Party Crasher”",
+         "url": "https://en.wikipedia.org/wiki/Party_Crasher_(Modern_Family)"
+        },
+        {
+         "label": "TV Fanatic · S4E12 recap",
+         "url": "https://www.tvfanatic.com/modern-family-season-4-episode-12-recap-party-crasher/"
+        }
        ],
        "provenance": "Source basis: Age-gap marriage research pass, 30 Sep 2026 (young adult wives only; minors and underage-marriage storylines excluded)",
        "entry_note": "Note: Outcome facts: pregnancy outcome: becomes pregnant by the end; kids status: yes.",
@@ -442917,7 +446259,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2646,
+       "id": 2653,
        "from_source": "round2"
       }
      ],
