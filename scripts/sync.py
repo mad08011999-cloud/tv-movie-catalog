@@ -108,6 +108,8 @@ SOURCES = [
      "local": "sources/round3.json", "required": False},
     {"id": "widow-remarry", "label": "Widow/divorcee remarries & pregnant again",
      "local": "sources/widow-remarry.json", "required": False},
+    {"id": "widow-divorcee-oct14b", "label": "Widowed / divorced woman hypnosis sweep round 2 (14 Oct 2026)",
+     "local": "sources/widow-divorcee-oct14b.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "

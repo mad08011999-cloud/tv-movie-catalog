@@ -2983,6 +2983,76 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "widow-divorcee-oct14b",
+   "label": "Widowed / divorced woman hypnosis sweep round 2 (14 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/widow-divorcee-oct14b.json",
+   "description": "Deeper follow-up search (non-English terms, Indian OTT, vertical short-drama apps, adult/erotic). Only non-duplicates or merges into existing cards.",
+   "dropped": [
+    {
+     "title": "Hypnotic (2021)",
+     "reason": "already in catalog; Jenn's engagement ended, she is not a widow or divorcee"
+    },
+    {
+     "title": "To Seduce an Enemy (2003)",
+     "reason": "already in catalog; Daisy demands a divorce but is still married when hypnotised"
+    },
+    {
+     "title": "被催眠的她 / 失忆的她：催眠阴谋 (2026 vertical)",
+     "reason": "already in catalog (card 56); Zhang Qing is bereaved but married"
+    },
+    {
+     "title": "[Doblado] Bajo la Hipnosis (ShortMax vertical)",
+     "reason": "Ana is married, hypnotised by her husband; not a widow/divorcee"
+    },
+    {
+     "title": "Why Did Mr. Qi Change His Mind About the Promised Divorce? (vertical)",
+     "reason": "the woman is the hypnotist, not hypnotised"
+    },
+    {
+     "title": "Vashikaran (WooW/ShortMax Hindi vertical)",
+     "reason": "the widow uses magic on others; she is the controller"
+    },
+    {
+     "title": "Vashikaran (ALTT, 2024)",
+     "reason": "target woman's marital status not stated"
+    },
+    {
+     "title": "The Spiritualist / The Amazing Mr. X (1948)",
+     "reason": "widow Christine is conned by séance tricks; AFI synopsis has no hypnosis"
+    },
+    {
+     "title": "Whirlpool (1949)",
+     "reason": "already in catalog; Ann is married"
+    },
+    {
+     "title": "A Widow Seduced (2024)",
+     "reason": "widow conned by online suitor; no hypnosis"
+    },
+    {
+     "title": "Perry Mason 'The Case of the Betrayed Bride' (1964)",
+     "reason": "wealthy widow's marriage ends in murder; no hypnosis in synopsis"
+    },
+    {
+     "title": "Hart to Hart 'Hart of Diamonds' (1982)",
+     "reason": "Jennifer is hypnotised but married"
+    },
+    {
+     "title": "Shut Eye 'Judgement' (2016)",
+     "reason": "hypnotised woman is married"
+    },
+    {
+     "title": "DramaBox 'The Widow's Game' / 'Desperate Housewife Strikes Back', ReelShort 'Widowed by Marriage'",
+     "reason": "widow/divorce plots without hypnosis or mind control"
+    }
+   ],
+   "check": {
+    "raw_count": 2,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -3018,10 +3088,11 @@ window.CATALOG = {
   "widow-divorcee-oct14": 3,
   "round2": 11,
   "round3": 17,
-  "widow-remarry": 33
+  "widow-remarry": 33,
+  "widow-divorcee-oct14b": 2
  },
- "raw_total": 5302,
- "entry_count": 2561,
+ "raw_total": 5304,
+ "entry_count": 2562,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -3063,7 +3134,7 @@ window.CATALOG = {
    "key": "cult",
    "label": "Cult / coercive brainwashing",
    "legend_label": "Cult / coercive brainwashing",
-   "entry_count": 23
+   "entry_count": 24
   },
   {
    "key": "occult",
@@ -3525,7 +3596,7 @@ window.CATALOG = {
    "key": "widow-divorcee",
    "label": "Widowed / divorced woman hypnotised or mind-controlled",
    "legend_label": "Widowed / divorced woman hypnotised or mind-controlled",
-   "entry_count": 3
+   "entry_count": 5
   },
   {
    "key": "exwife-control",
@@ -188410,12 +188481,17 @@ window.CATALOG = {
    "character": "",
    "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
    "note": "Outcome facts: married: no; kids status: unknown.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "She dies from the fall; no pregnancy in the summary.",
+   "kids_status": "not stated",
+   "kids_note": "No children mentioned in the source.",
    "format": "tv",
    "categories": [
     "medical",
     "therapist-wife",
     "doctor-gain",
-    "forced-obedience"
+    "forced-obedience",
+    "widow-divorcee"
    ],
    "sources": [
     {
@@ -188441,16 +188517,99 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "widow-divorcee-oct14b"
    ],
    "source_records": [
-    "xla62ucxbx02u5:1069"
+    "xla62ucxbx02u5:1069",
+    "widow-divorcee-oct14b:1"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:1069",
+    "source": "xla62ucxbx02u5",
+    "label": "Columbo · S04E06 · “A Deadly State of Mind” (1975)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Columbo",
+    "subtitle": "S04E06 · “A Deadly State of Mind”",
+    "year": "1975",
+    "meta": "TV series · USA · English",
+    "summary": "Psychiatrist Dr. Mark Collier is having an affair with patient Nadia Donner, a rich housewife; after he kills her husband during a planned weekend together, he drugs and hypnotizes her so that a trigger phrase makes her leap from her balcony to her death.",
+    "character": "",
+    "note": "Outcome facts: married: no; kids status: unknown.",
+    "mechanism": "Hypnosis",
+    "confidence_flag": "Corroborated · air-date conflict",
+    "categories": [
+     "medical",
+     "therapist-wife",
+     "doctor-gain",
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia (season 4)",
+      "url": "https://en.wikipedia.org/wiki/Columbo_season_4"
+     },
+     {
+      "label": "Columbophile review",
+      "url": "https://columbophile.com/2018/11/18/episode-review-columbo-a-deadly-state-of-mind/"
+     },
+     {
+      "label": "Columbo wiki (Fandom)",
+      "url": "https://columbo.fandom.com/wiki/A_Deadly_State_of_Mind"
+     },
+     {
+      "label": "Mental Block",
+      "url": "https://mentalblock.miraheze.org/wiki/Columbo"
+     },
+     {
+      "label": "The View from the Junkyard review",
+      "url": "https://junkyard.blog/2022/04/03/columbo-a-deadly-state-of-mind-review/"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "widow-divorcee-oct14b:1",
+     "source": "widow-divorcee-oct14b",
+     "label": "Columbo (1975)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Columbo",
+     "subtitle": "",
+     "year": "1975",
+     "meta": "TV series · NBC · USA · English · S04E06 'A Deadly State of Mind'",
+     "summary": "Nadia Donner's husband Carl is killed by her psychiatrist and lover Dr. Collier, who has her tell police it was a home invasion. When Columbo doubts the story, Collier hypnotises the newly widowed Nadia: on hearing a trigger word on the phone she undresses and dives from her fifth-floor balcony toward the pool, and dies. Columbo later traps Collier.",
+     "character": "",
+     "note": "Merged into the existing 1975 Columbo card to tag the widow-divorcee category; episode-level detail only.",
+     "mechanism": "Hypnotic suggestion with a phone trigger word, by her psychiatrist Dr. Mark Collier",
+     "confidence_flag": "Medium-high · Mental Block episode summary",
+     "categories": [
+      "widow-divorcee",
+      "medical",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block: Columbo",
+       "url": "https://mentalblock.miraheze.org/wiki/Columbo"
+      }
+     ],
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "She dies from the fall; no pregnancy in the summary.",
+     "kids_status": "not stated",
+     "kids_note": "No children mentioned in the source.",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:1069": {
      "t": "Columbo",
@@ -188511,6 +188670,36 @@ window.CATALOG = {
       ]
      ],
      "fog": "therapist"
+    },
+    "widow-divorcee-oct14b:1": {
+     "title": "Columbo",
+     "year": "1975",
+     "match_title": "Columbo",
+     "match_year": "1975",
+     "format": "tv episode",
+     "meta": "TV series · NBC · USA · English · S04E06 'A Deadly State of Mind'",
+     "mechanism": "Hypnotic suggestion with a phone trigger word, by her psychiatrist Dr. Mark Collier",
+     "confidence_flag": "Medium-high · Mental Block episode summary",
+     "summary": "Nadia Donner's husband Carl is killed by her psychiatrist and lover Dr. Collier, who has her tell police it was a home invasion. When Columbo doubts the story, Collier hypnotises the newly widowed Nadia: on hearing a trigger word on the phone she undresses and dives from her fifth-floor balcony toward the pool, and dies. Columbo later traps Collier.",
+     "categories": [
+      "widow-divorcee",
+      "medical",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block: Columbo",
+       "url": "https://mentalblock.miraheze.org/wiki/Columbo"
+      }
+     ],
+     "provenance": "Widow/divorcee hypnosis sweep round 2, 14 Oct 2026 PT",
+     "group": "Widowed / divorced woman hypnotised (Oct 2026)",
+     "widow_divorcee": "Widow (husband murdered earlier in the episode)",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "She dies from the fall; no pregnancy in the summary.",
+     "kids_status": "not stated",
+     "kids_note": "No children mentioned in the source.",
+     "note": "Merged into the existing 1975 Columbo card to tag the widow-divorcee category; episode-level detail only."
     }
    }
   },
@@ -402605,6 +402794,75 @@ window.CATALOG = {
      "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)"
     }
    }
+  },
+  {
+   "id": 2670,
+   "title": "Secrets of the Sisterhood",
+   "subtitle": "",
+   "year": "2019",
+   "meta": "Lifetime TV movie · USA/Canada · English",
+   "mechanism": "Cult indoctrination and coercion (pledge ritual, blackmail, surveillance); no hypnosis",
+   "confidence_flag": "Low-medium · borderline: cult manipulation rather than hypnosis",
+   "summary": "After her mother's death and her husband Rick leaving her, Ashley Shields joins a secret women's group, The Sisterhood, led by charismatic Desiree. It wins her a raise and a favourable divorce, then pulls her into money laundering and blackmail, and Desiree goes after Ashley's inheritance. Ashley works with police, is captured, and is rescued; she ends on probation, reunited with her sister and daughter.",
+   "character": "",
+   "provenance": "Widow/divorcee hypnosis sweep round 2, 14 Oct 2026 PT",
+   "note": "Borderline fit: mind control here is cult coercion, not hypnosis.",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "No pregnancy in the recap.",
+   "kids_status": "yes",
+   "kids_note": "Teenage daughter Grace, from her marriage to Rick (from before); no new children.",
+   "format": "tv movie",
+   "categories": [
+    "cult",
+    "widow-divorcee"
+   ],
+   "sources": [
+    {
+     "label": "Lifetime Uncorked recap",
+     "url": "https://lifetimeuncorked.com/2019/10/20/secrets-of-the-sisterhood-2019-lifetime/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "widow-divorcee-oct14b"
+   ],
+   "source_records": [
+    "widow-divorcee-oct14b:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "widow-divorcee-oct14b:2": {
+     "title": "Secrets of the Sisterhood",
+     "year": "2019",
+     "format": "tv movie",
+     "meta": "Lifetime TV movie · USA/Canada · English",
+     "mechanism": "Cult indoctrination and coercion (pledge ritual, blackmail, surveillance); no hypnosis",
+     "confidence_flag": "Low-medium · borderline: cult manipulation rather than hypnosis",
+     "summary": "After her mother's death and her husband Rick leaving her, Ashley Shields joins a secret women's group, The Sisterhood, led by charismatic Desiree. It wins her a raise and a favourable divorce, then pulls her into money laundering and blackmail, and Desiree goes after Ashley's inheritance. Ashley works with police, is captured, and is rescued; she ends on probation, reunited with her sister and daughter.",
+     "categories": [
+      "cult",
+      "widow-divorcee"
+     ],
+     "sources": [
+      {
+       "label": "Lifetime Uncorked recap",
+       "url": "https://lifetimeuncorked.com/2019/10/20/secrets-of-the-sisterhood-2019-lifetime/"
+      }
+     ],
+     "provenance": "Widow/divorcee hypnosis sweep round 2, 14 Oct 2026 PT",
+     "group": "Widowed / divorced woman hypnotised (Oct 2026)",
+     "widow_divorcee": "Divorced (divorce finalised during the film)",
+     "pregnancy_outcome": "not stated",
+     "pregnancy_note": "No pregnancy in the recap.",
+     "kids_status": "yes",
+     "kids_note": "Teenage daughter Grace, from her marriage to Rick (from before); no new children.",
+     "note": "Borderline fit: mind control here is cult coercion, not hypnosis."
+    }
+   }
   }
  ],
  "sections": [
@@ -406497,7 +406755,8 @@ window.CATALOG = {
     "older-man-hypnosis",
     "mother-kids-hypnosis",
     "hypnosis-assault",
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "widow-divorcee-oct14b"
    ],
    "groups": [
     {
@@ -406777,6 +407036,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-assault"
+    },
+    {
+     "title": "Widowed / divorced woman hypnotised (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2670,
+       "from_source": "widow-divorcee-oct14b"
+      }
+     ],
+     "from_source": "widow-divorcee-oct14b"
     }
    ],
    "declared_count_by_source": {
@@ -406788,7 +407058,8 @@ window.CATALOG = {
     "older-man-hypnosis": null,
     "mother-kids-hypnosis": null,
     "hypnosis-assault": null,
-    "hypnosis-assault-loose": null
+    "hypnosis-assault-loose": null,
+    "widow-divorcee-oct14b": null
    }
   },
   {
@@ -422094,7 +422365,8 @@ window.CATALOG = {
     "hypnosis-assault-loose",
     "hypno-sweep-oct9",
     "widow-divorcee-oct14",
-    "round3"
+    "round3",
+    "widow-divorcee-oct14b"
    ],
    "groups": [
     {
@@ -423101,7 +423373,8 @@ window.CATALOG = {
     "hypnosis-assault-loose": null,
     "hypno-sweep-oct9": null,
     "widow-divorcee-oct14": null,
-    "round3": null
+    "round3": null,
+    "widow-divorcee-oct14b": null
    }
   },
   {
@@ -443073,16 +443346,22 @@ window.CATALOG = {
    "description": "",
    "notes": [],
    "from_sources": [
-    "widow-divorcee-oct14"
+    "widow-divorcee-oct14",
+    "widow-divorcee-oct14b"
    ],
    "declared_count_by_source": {
-    "widow-divorcee-oct14": null
+    "widow-divorcee-oct14": null,
+    "widow-divorcee-oct14b": null
    },
    "groups": [
     {
      "title": "Widowed / divorced woman hypnotised (Oct 2026)",
      "notes": [],
      "items": [
+      {
+       "id": 1058,
+       "from_source": "widow-divorcee-oct14b"
+      },
       {
        "id": 2641,
        "from_source": "widow-divorcee-oct14"
@@ -443094,6 +443373,10 @@ window.CATALOG = {
       {
        "id": 2639,
        "from_source": "widow-divorcee-oct14"
+      },
+      {
+       "id": 2670,
+       "from_source": "widow-divorcee-oct14b"
       }
      ],
      "from_source": "widow-divorcee-oct14"
@@ -443119,7 +443402,8 @@ window.CATALOG = {
     "mother-kids-hypnosis",
     "hypno-leftovers",
     "hypnosis-assault",
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "widow-divorcee-oct14b"
    ],
    "groups": [
     {
@@ -444520,7 +444804,8 @@ window.CATALOG = {
     "mother-kids-hypnosis": null,
     "hypno-leftovers": null,
     "hypnosis-assault": null,
-    "hypnosis-assault-loose": null
+    "hypnosis-assault-loose": null,
+    "widow-divorcee-oct14b": null
    }
   },
   {
