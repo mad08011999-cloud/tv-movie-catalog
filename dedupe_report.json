@@ -43446,11 +43446,12 @@
   "widow-remarry": 33,
   "widow-divorcee-oct14b": 2,
   "recheck-oct14": 3,
-  "indian-langs-oct14": 4
+  "indian-langs-oct14": 4,
+  "fanwiki-screen-oct14": 230
  },
- "entry_count_after_dedupe": 2567,
+ "entry_count_after_dedupe": 2797,
  "within_source_groups": 3,
  "cross_source_groups": 1806,
  "index_only_records": 65,
- "local_only_records": 346
+ "local_only_records": 576
 }
