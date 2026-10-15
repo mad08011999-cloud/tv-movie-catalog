@@ -3908,7 +3908,7 @@
     }
    ],
    "check": {
-    "raw_count": 12,
+    "raw_count": 13,
     "ok": true
    },
    "status": "local"
@@ -3955,10 +3955,10 @@
   "telugu-deep-oct15": 3,
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
-  "official-yt-oct15": 12
+  "official-yt-oct15": 13
  },
- "raw_total": 5531,
- "entry_count": 2787,
+ "raw_total": 5532,
+ "entry_count": 2788,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -3976,7 +3976,7 @@
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 248
+   "entry_count": 249
   },
   {
    "key": "walkin",
@@ -4048,7 +4048,7 @@
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 160
+   "entry_count": 161
   },
   {
    "key": "hypnotized-to-marry",
@@ -4084,7 +4084,7 @@
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 47
+   "entry_count": 48
   },
   {
    "key": "index-54",
@@ -4438,7 +4438,7 @@
    "key": "tantrik",
    "label": "Tantrik / black-magic control",
    "legend_label": "Tantrik / black-magic control",
-   "entry_count": 39
+   "entry_count": 40
   },
   {
    "key": "vampire",
@@ -423763,6 +423763,80 @@
      ]
     }
    }
+  },
+  {
+   "id": 2897,
+   "title": "Rangeen Kahaniyan",
+   "subtitle": "S10 · Vashikaran E01 - Bhola Khilona",
+   "year": "2024",
+   "meta": "Adult anthology web series · Atrangii · Hindi · India",
+   "mechanism": "Vashikaran (black-magic control)",
+   "confidence_flag": "Medium · episode synopsis (WatchWhatWhere listing)",
+   "summary": "A man seeks a tantrik's help to reverse a vashikaran spell cast on his wife; revelations surface about who cast it and why.",
+   "character": "The husband's wife (unnamed in synopsis)",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "yes (wife, per synopsis)",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "tantrik",
+    "india-control",
+    "adult-hypnosis",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "WatchWhatWhere: Vashikaran E01 - Bhola Khilona (Rangeen Kahaniyan S10)",
+     "url": "https://watchwhatwhere.com/title/6688721-vashikaran-e01---bhola-khilona"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:13"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:13": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "title": "Rangeen Kahaniyan",
+     "subtitle": "S10 · Vashikaran E01 - Bhola Khilona",
+     "year": "2024",
+     "format": "tv",
+     "meta": "Adult anthology web series · Atrangii · Hindi · India",
+     "mechanism": "Vashikaran (black-magic control)",
+     "confidence_flag": "Medium · episode synopsis (WatchWhatWhere listing)",
+     "summary": "A man seeks a tantrik's help to reverse a vashikaran spell cast on his wife; revelations surface about who cast it and why.",
+     "character": "The husband's wife (unnamed in synopsis)",
+     "categories": [
+      "tantrik",
+      "india-control",
+      "adult-hypnosis",
+      "wife"
+     ],
+     "sources": [
+      {
+       "label": "WatchWhatWhere: Vashikaran E01 - Bhola Khilona (Rangeen Kahaniyan S10)",
+       "url": "https://watchwhatwhere.com/title/6688721-vashikaran-e01---bhola-khilona"
+      }
+     ],
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "yes (wife, per synopsis)"
+    }
+   }
   }
  ],
  "sections": [
@@ -424218,7 +424292,8 @@
     "round2",
     "round3",
     "new-angles-oct15",
-    "recap-imdb-oct15"
+    "recap-imdb-oct15",
+    "official-yt-oct15"
    ],
    "groups": [
     {
@@ -427153,6 +427228,17 @@
       }
      ],
      "from_source": "recap-imdb-oct15"
+    },
+    {
+     "title": "Official channel episode additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2897,
+       "from_source": "official-yt-oct15"
+      }
+     ],
+     "from_source": "official-yt-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -427171,7 +427257,8 @@
     "round2": null,
     "round3": null,
     "new-angles-oct15": null,
-    "recap-imdb-oct15": null
+    "recap-imdb-oct15": null,
+    "official-yt-oct15": null
    }
   },
   {
@@ -433361,6 +433448,10 @@
        "from_source": "official-yt-oct15"
       },
       {
+       "id": 2897,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2896,
        "from_source": "official-yt-oct15"
       },
@@ -438661,7 +438752,8 @@
     "round2",
     "round3",
     "indian-langs-oct14",
-    "fanwiki-screen-oct14"
+    "fanwiki-screen-oct14",
+    "official-yt-oct15"
    ],
    "groups": [
     {
@@ -439230,6 +439322,17 @@
       }
      ],
      "from_source": "fanwiki-screen-oct14"
+    },
+    {
+     "title": "Official channel episode additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2897,
+       "from_source": "official-yt-oct15"
+      }
+     ],
+     "from_source": "official-yt-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -439243,7 +439346,8 @@
     "round2": null,
     "round3": null,
     "indian-langs-oct14": null,
-    "fanwiki-screen-oct14": null
+    "fanwiki-screen-oct14": null,
+    "official-yt-oct15": null
    }
   },
   {
@@ -463203,6 +463307,10 @@
       },
       {
        "id": 2887,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2897,
        "from_source": "official-yt-oct15"
       }
      ],
