@@ -598,6 +598,34 @@
     }
    ],
    "fit_note": "Aparna's age not stated."
+  },
+  {
+   "standalone": true,
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "group": "Official channel episode additions (Oct 2026)",
+   "format": "tv",
+   "title": "Bairi Behana",
+   "subtitle": "S04E09 'Natasha Is Being Hypnotised'",
+   "year": "2017",
+   "meta": "TV serial · Star Utsav · Hindi · India",
+   "mechanism": "Hypnosis / control",
+   "confidence_flag": "Medium · platform episode synopsis",
+   "summary": "Broadcast 10 Feb 2017: Tej realises that Natasha is being controlled by Manpreet. Natasha is an adult; other episodes show her in jail and at a club.",
+   "character": "Natasha",
+   "categories": [
+    "india-control",
+    "indian-female-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "JioCinema USA: Bairi Behana S04E09 Natasha Is Being Hypnotised",
+     "url": "https://www.jiocinemaus.com/episode/bairi-behana-s04e09-natasha-is-being-hypnotised-full-episode/"
+    }
+   ],
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated"
   }
  ],
  "dropped": []

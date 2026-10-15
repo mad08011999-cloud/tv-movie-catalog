@@ -3902,7 +3902,7 @@ window.CATALOG = {
    "description": "Indian serial episodes from official YouTube channels",
    "dropped": [],
    "check": {
-    "raw_count": 20,
+    "raw_count": 21,
     "ok": true
    },
    "status": "local"
@@ -3949,10 +3949,10 @@ window.CATALOG = {
   "telugu-deep-oct15": 3,
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
-  "official-yt-oct15": 20
+  "official-yt-oct15": 21
  },
- "raw_total": 5539,
- "entry_count": 2795,
+ "raw_total": 5540,
+ "entry_count": 2796,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4042,7 +4042,7 @@ window.CATALOG = {
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 168
+   "entry_count": 169
   },
   {
    "key": "hypnotized-to-marry",
@@ -4132,7 +4132,7 @@ window.CATALOG = {
    "key": "indian-female-hypnosis",
    "label": "Indian-language female hypnotized against her will",
    "legend_label": "Indian-language female hypnotized against her will",
-   "entry_count": 19
+   "entry_count": 20
   },
   {
    "key": "lesbian-couple-pregnancy",
@@ -424369,6 +424369,76 @@ window.CATALOG = {
      "fit_note": "Aparna's age not stated."
     }
    }
+  },
+  {
+   "id": 2905,
+   "title": "Bairi Behana",
+   "subtitle": "S04E09 'Natasha Is Being Hypnotised'",
+   "year": "2017",
+   "meta": "TV serial · Star Utsav · Hindi · India",
+   "mechanism": "Hypnosis / control",
+   "confidence_flag": "Medium · platform episode synopsis",
+   "summary": "Broadcast 10 Feb 2017: Tej realises that Natasha is being controlled by Manpreet. Natasha is an adult; other episodes show her in jail and at a club.",
+   "character": "Natasha",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "india-control",
+    "indian-female-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "JioCinema USA: Bairi Behana S04E09 Natasha Is Being Hypnotised",
+     "url": "https://www.jiocinemaus.com/episode/bairi-behana-s04e09-natasha-is-being-hypnotised-full-episode/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:21"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:21": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "title": "Bairi Behana",
+     "subtitle": "S04E09 'Natasha Is Being Hypnotised'",
+     "year": "2017",
+     "meta": "TV serial · Star Utsav · Hindi · India",
+     "mechanism": "Hypnosis / control",
+     "confidence_flag": "Medium · platform episode synopsis",
+     "summary": "Broadcast 10 Feb 2017: Tej realises that Natasha is being controlled by Manpreet. Natasha is an adult; other episodes show her in jail and at a club.",
+     "character": "Natasha",
+     "categories": [
+      "india-control",
+      "indian-female-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "JioCinema USA: Bairi Behana S04E09 Natasha Is Being Hypnotised",
+       "url": "https://www.jiocinemaus.com/episode/bairi-behana-s04e09-natasha-is-being-hypnotised-full-episode/"
+      }
+     ],
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated"
+    }
+   }
   }
  ],
  "sections": [
@@ -433941,6 +434011,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 2898,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2905,
        "from_source": "official-yt-oct15"
       },
       {
@@ -443710,6 +443784,10 @@ window.CATALOG = {
      "title": "Official channel episode additions (Oct 2026)",
      "notes": [],
      "items": [
+      {
+       "id": 2905,
+       "from_source": "official-yt-oct15"
+      },
       {
        "id": 2890,
        "from_source": "official-yt-oct15"
