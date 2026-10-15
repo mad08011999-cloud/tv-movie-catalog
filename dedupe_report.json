@@ -43447,11 +43447,12 @@
   "widow-divorcee-oct14b": 2,
   "recheck-oct14": 3,
   "indian-langs-oct14": 4,
-  "fanwiki-screen-oct14": 199
+  "fanwiki-screen-oct14": 199,
+  "telugu-deep-oct15": 3
  },
- "entry_count_after_dedupe": 2766,
+ "entry_count_after_dedupe": 2769,
  "within_source_groups": 3,
  "cross_source_groups": 1806,
  "index_only_records": 65,
- "local_only_records": 545
+ "local_only_records": 548
 }

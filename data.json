@@ -3755,6 +3755,64 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "telugu-deep-oct15",
+   "label": "Telugu deep sweep (15 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/telugu-deep-oct15.json",
+   "description": "Telugu-only sweep (~22 searches, English + Telugu script) across films, Star Maa/Zee Telugu/ETV/Gemini serials, Aha/ETV Win, and adult/B-grade.",
+   "dropped": [
+    {
+     "title": "Mukkupudaka E1105 (Zee Telugu 2026)",
+     "reason": "hypnotised person (Srikar) is male"
+    },
+    {
+     "title": "Muddha Mandaram E516 (Zee Telugu 2016)",
+     "reason": "unconscious, not hypnotised"
+    },
+    {
+     "title": "Bhagya Chakramu (1968)",
+     "reason": "trance victim is a young princess; unclear age"
+    },
+    {
+     "title": "Raja Ramesh (1977)",
+     "reason": "Rani sedated (drugged), not hypnotised"
+    },
+    {
+     "title": "Tulasidalam (1989)",
+     "reason": "hypnosis targets a child"
+    },
+    {
+     "title": "Bethaludu / Saithan (2016)",
+     "reason": "hypnotherapy subject is male"
+    },
+    {
+     "title": "Sammohanam (2018)",
+     "reason": "title only; no hypnosis"
+    },
+    {
+     "title": "Raju Gari Gadhi 2 (2017)",
+     "reason": "spirit does not possess/control a woman"
+    },
+    {
+     "title": "Chandrika (2015), Bhairava Dweepam, Arundhati, Amaravathi, Tarangini, Kondaveeti Donga, Anveshitha, Attarintiki Daredi, Geethanjali, Jaganmohini (in catalog as related), Mohini",
+     "reason": "already catalogued"
+    },
+    {
+     "title": "Naga Panchami (Star Maa)",
+     "reason": "spell makes a body invisible; no woman controlled"
+    },
+    {
+     "title": "Jag Janani Maa Vaishno Devi, Bairi Behana, Saatvya Mulichi Saatvi Mulgi, Sathya",
+     "reason": "not Telugu (Hindi/Marathi/Tamil)"
+    }
+   ],
+   "check": {
+    "raw_count": 3,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -3794,10 +3852,11 @@
   "widow-divorcee-oct14b": 2,
   "recheck-oct14": 3,
   "indian-langs-oct14": 4,
-  "fanwiki-screen-oct14": 199
+  "fanwiki-screen-oct14": 199,
+  "telugu-deep-oct15": 3
  },
- "raw_total": 5510,
- "entry_count": 2766,
+ "raw_total": 5513,
+ "entry_count": 2769,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -3995,7 +4054,7 @@
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 111
+   "entry_count": 112
   },
   {
    "key": "mom-partner-control",
@@ -4241,7 +4300,7 @@
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 133
+   "entry_count": 136
   },
   {
    "key": "stepmom-control",
@@ -4259,7 +4318,7 @@
    "key": "evil-female",
    "label": "Supernatural female control — India & Indonesia",
    "legend_label": "Supernatural female control — India & Indonesia",
-   "entry_count": 29
+   "entry_count": 30
   },
   {
    "key": "index-59",
@@ -422032,6 +422091,233 @@
      "group": "Fan-wiki screen additions (Oct 2026)"
     }
    }
+  },
+  {
+   "id": 2876,
+   "title": "Panchakshari",
+   "subtitle": "",
+   "year": "2010",
+   "meta": "Film · Telugu · India",
+   "mechanism": "Spirit possession",
+   "confidence_flag": "Medium-high · Wikipedia + plot summaries",
+   "summary": "Village woman Panchakshari (Anushka Shetty), blessed by Goddess Durga, dies in a temple fire. Her husband Sriram finds her lookalike Honey and brings her to the village; Panchakshari's spirit possesses Honey to stop treasure hunters, then leaves her once the villain is defeated.",
+   "character": "Honey (Anushka Shetty)",
+   "provenance": "Telugu deep sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated (Honey); Panchakshari was Sriram's wife",
+   "pregnant_end": "not stated",
+   "fit_note": "Possession rather than hypnosis",
+   "format": "movie",
+   "categories": [
+    "spirit",
+    "evil-female"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia: Panchakshari",
+     "url": "https://en.wikipedia.org/wiki/Panchakshari"
+    },
+    {
+     "label": "PlotExplained: Panchakshari (2010)",
+     "url": "https://www.plotexplained.com/movie/panchakshari-2010"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "telugu-deep-oct15"
+   ],
+   "source_records": [
+    "telugu-deep-oct15:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "telugu-deep-oct15:1": {
+     "title": "Panchakshari",
+     "year": "2010",
+     "format": "movie",
+     "meta": "Film · Telugu · India",
+     "mechanism": "Spirit possession",
+     "confidence_flag": "Medium-high · Wikipedia + plot summaries",
+     "summary": "Village woman Panchakshari (Anushka Shetty), blessed by Goddess Durga, dies in a temple fire. Her husband Sriram finds her lookalike Honey and brings her to the village; Panchakshari's spirit possesses Honey to stop treasure hunters, then leaves her once the villain is defeated.",
+     "character": "Honey (Anushka Shetty)",
+     "categories": [
+      "spirit",
+      "evil-female"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia: Panchakshari",
+       "url": "https://en.wikipedia.org/wiki/Panchakshari"
+      },
+      {
+       "label": "PlotExplained: Panchakshari (2010)",
+       "url": "https://www.plotexplained.com/movie/panchakshari-2010"
+      }
+     ],
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "married": "not stated (Honey); Panchakshari was Sriram's wife",
+     "fit_note": "Possession rather than hypnosis",
+     "standalone": true,
+     "provenance": "Telugu deep sweep, 15 Oct 2026 PT",
+     "group": "Telugu deep sweep additions (Oct 2026)",
+     "kids_together": "not stated"
+    }
+   }
+  },
+  {
+   "id": 2877,
+   "title": "Ekkadiki Pothavu Chinnavada",
+   "subtitle": "",
+   "year": "2016",
+   "meta": "Film · Telugu · India",
+   "mechanism": "Spirit possession",
+   "confidence_flag": "Medium-high · Wikipedia + IMDb plot",
+   "summary": "In Kerala, Arjun meets a woman calling herself Amala who is really Nithya, possessed by the spirit of Amala, a woman who died in a road accident. The spirit also possesses Parvathi to save her from a forced marriage. The spirit is exorcised and sealed in a bottle; months later Arjun proposes to Nithya and she accepts.",
+   "character": "Nithya (Avika Gor)",
+   "provenance": "Telugu deep sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "no (Arjun proposes at the end)",
+   "pregnant_end": "no (ends with a proposal)",
+   "fit_note": "Possession rather than hypnosis",
+   "format": "movie",
+   "categories": [
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia: Ekkadiki Pothavu Chinnavada",
+     "url": "https://en.wikipedia.org/wiki/Ekkadiki_Pothavu_Chinnavada"
+    },
+    {
+     "label": "IMDb plot",
+     "url": "https://www.imdb.com/title/tt6258486/plotsummary/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "telugu-deep-oct15"
+   ],
+   "source_records": [
+    "telugu-deep-oct15:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "telugu-deep-oct15:2": {
+     "title": "Ekkadiki Pothavu Chinnavada",
+     "year": "2016",
+     "format": "movie",
+     "meta": "Film · Telugu · India",
+     "mechanism": "Spirit possession",
+     "confidence_flag": "Medium-high · Wikipedia + IMDb plot",
+     "summary": "In Kerala, Arjun meets a woman calling herself Amala who is really Nithya, possessed by the spirit of Amala, a woman who died in a road accident. The spirit also possesses Parvathi to save her from a forced marriage. The spirit is exorcised and sealed in a bottle; months later Arjun proposes to Nithya and she accepts.",
+     "character": "Nithya (Avika Gor)",
+     "categories": [
+      "spirit"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia: Ekkadiki Pothavu Chinnavada",
+       "url": "https://en.wikipedia.org/wiki/Ekkadiki_Pothavu_Chinnavada"
+      },
+      {
+       "label": "IMDb plot",
+       "url": "https://www.imdb.com/title/tt6258486/plotsummary/"
+      }
+     ],
+     "pregnant_end": "no (ends with a proposal)",
+     "kids_status": "not stated",
+     "married": "no (Arjun proposes at the end)",
+     "fit_note": "Possession rather than hypnosis",
+     "standalone": true,
+     "provenance": "Telugu deep sweep, 15 Oct 2026 PT",
+     "group": "Telugu deep sweep additions (Oct 2026)",
+     "kids_together": "not stated"
+    }
+   }
+  },
+  {
+   "id": 2878,
+   "title": "Three",
+   "subtitle": "",
+   "year": "2008",
+   "meta": "Film · Telugu · India",
+   "mechanism": "Psychiatric regression into past births",
+   "confidence_flag": "Medium · single review source",
+   "summary": "Nisha hears a voice threatening to kill her. Her neighbour Sriram takes her to a psychiatrist friend; they travel to an island where she recalls the sinister Shanker, and the story moves into regression, past births and psychosis.",
+   "character": "Nisha (Urvashi Sharma)",
+   "provenance": "Telugu deep sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Regression is implied by the review; hypnosis not named explicitly",
+   "format": "movie",
+   "categories": [
+    "medical",
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "Cinema Cinema review (Nov 2008)",
+     "url": "http://cinemacinema-telugulatestmovies.blogspot.com/2008/11/three-movie-review.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "telugu-deep-oct15"
+   ],
+   "source_records": [
+    "telugu-deep-oct15:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "telugu-deep-oct15:3": {
+     "title": "Three",
+     "year": "2008",
+     "format": "movie",
+     "meta": "Film · Telugu · India",
+     "mechanism": "Psychiatric regression into past births",
+     "confidence_flag": "Medium · single review source",
+     "summary": "Nisha hears a voice threatening to kill her. Her neighbour Sriram takes her to a psychiatrist friend; they travel to an island where she recalls the sinister Shanker, and the story moves into regression, past births and psychosis.",
+     "character": "Nisha (Urvashi Sharma)",
+     "categories": [
+      "medical",
+      "spirit"
+     ],
+     "sources": [
+      {
+       "label": "Cinema Cinema review (Nov 2008)",
+       "url": "http://cinemacinema-telugulatestmovies.blogspot.com/2008/11/three-movie-review.html"
+      }
+     ],
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "married": "not stated",
+     "fit_note": "Regression is implied by the review; hypnosis not named explicitly",
+     "standalone": true,
+     "provenance": "Telugu deep sweep, 15 Oct 2026 PT",
+     "group": "Telugu deep sweep additions (Oct 2026)",
+     "kids_together": "not stated"
+    }
+   }
   }
  ],
  "sections": [
@@ -442354,7 +442640,8 @@
     "round3",
     "widow-divorcee-oct14b",
     "indian-langs-oct14",
-    "fanwiki-screen-oct14"
+    "fanwiki-screen-oct14",
+    "telugu-deep-oct15"
    ],
    "groups": [
     {
@@ -443367,6 +443654,17 @@
       }
      ],
      "from_source": "fanwiki-screen-oct14"
+    },
+    {
+     "title": "Telugu deep sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2878,
+       "from_source": "telugu-deep-oct15"
+      }
+     ],
+     "from_source": "telugu-deep-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -443385,7 +443683,8 @@
     "round3": null,
     "widow-divorcee-oct14b": null,
     "indian-langs-oct14": null,
-    "fanwiki-screen-oct14": null
+    "fanwiki-screen-oct14": null,
+    "telugu-deep-oct15": null
    }
   },
   {
@@ -459026,7 +459325,8 @@
     "ig6qlxqxoxvcxla",
     "india-catalog",
     "indian-langs-oct14",
-    "fanwiki-screen-oct14"
+    "fanwiki-screen-oct14",
+    "telugu-deep-oct15"
    ],
    "groups": [
     {
@@ -460054,13 +460354,33 @@
       }
      ],
      "from_source": "fanwiki-screen-oct14"
+    },
+    {
+     "title": "Telugu deep sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2877,
+       "from_source": "telugu-deep-oct15"
+      },
+      {
+       "id": 2876,
+       "from_source": "telugu-deep-oct15"
+      },
+      {
+       "id": 2878,
+       "from_source": "telugu-deep-oct15"
+      }
+     ],
+     "from_source": "telugu-deep-oct15"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 83,
     "india-catalog": null,
     "indian-langs-oct14": null,
-    "fanwiki-screen-oct14": null
+    "fanwiki-screen-oct14": null,
+    "telugu-deep-oct15": null
    }
   },
   {
@@ -460221,7 +460541,8 @@
     "ig6qlxqxoxvcxla",
     "india-catalog",
     "indian-langs-oct14",
-    "fanwiki-screen-oct14"
+    "fanwiki-screen-oct14",
+    "telugu-deep-oct15"
    ],
    "groups": [
     {
@@ -460554,13 +460875,25 @@
       }
      ],
      "from_source": "fanwiki-screen-oct14"
+    },
+    {
+     "title": "Telugu deep sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2876,
+       "from_source": "telugu-deep-oct15"
+      }
+     ],
+     "from_source": "telugu-deep-oct15"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 24,
     "india-catalog": null,
     "indian-langs-oct14": null,
-    "fanwiki-screen-oct14": null
+    "fanwiki-screen-oct14": null,
+    "telugu-deep-oct15": null
    }
   },
   {
