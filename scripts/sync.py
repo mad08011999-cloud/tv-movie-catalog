@@ -112,6 +112,8 @@ SOURCES = [
      "local": "sources/widow-divorcee-oct14b.json", "required": False},
     {"id": "recheck-oct14", "label": "Cross-bot recheck + new/missing sweep incl. vertical shorts (14 Oct 2026)",
      "local": "sources/recheck-oct14.json", "required": False},
+    {"id": "indian-langs-oct14", "label": "Indian-languages female hypnosis sweep (14 Oct 2026)",
+     "local": "sources/indian-langs-oct14.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "

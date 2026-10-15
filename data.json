@@ -3123,6 +3123,72 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "indian-langs-oct14",
+   "label": "Indian-languages female hypnosis sweep (14 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/indian-langs-oct14.json",
+   "description": "Telugu-focused sweep extended to Tamil, Hindi, Kannada, Bengali, Malayalam, Marathi and other Indian languages, cross-checked against the Mental Block wiki's 2,247-page Hypnotized Female category. Only non-duplicate, sourced titles added.",
+   "dropped": [
+    {
+     "title": "Anukokunda Oka Roju (Telugu 2005)",
+     "reason": "heroine drugged, not hypnotised"
+    },
+    {
+     "title": "Amaravathi (Telugu 2009)",
+     "reason": "already catalogued"
+    },
+    {
+     "title": "Tarangini (Telugu 1982)",
+     "reason": "already catalogued"
+    },
+    {
+     "title": "Attarintiki Daredi / Geethanjali (Telugu serials)",
+     "reason": "already catalogued"
+    },
+    {
+     "title": "Punarjanmam (Malayalam 1972) / Maru Piravi / Vintha Katha",
+     "reason": "the husband is hypnotised, not the wife"
+    },
+    {
+     "title": "Muthyamanta Muddu (Telugu)",
+     "reason": "heroine not hypnotised"
+    },
+    {
+     "title": "Bloody Babu (Kannada 2025)",
+     "reason": "hypnotised victim is male"
+    },
+    {
+     "title": "Annapoorna E1206 (Zee Kannada)",
+     "reason": "episode title only from search summary; not verified"
+    },
+    {
+     "title": "Baal Krishna E273 (Hindi)",
+     "reason": "victim is a child; cursed-mask influence"
+    },
+    {
+     "title": "Shaktimaan (Hindi)",
+     "reason": "wiki stub, no scene detail"
+    },
+    {
+     "title": "Parvaiyin Marupakkam, Ulladakkam, Rajmohol, Payal, Maari, Vashikaranam, Ethirmarai, Karn Sangini, Ichhapyaari Naagin",
+     "reason": "already catalogued"
+    },
+    {
+     "title": "Durga (Bengali serial)",
+     "reason": "'mesmerised' used figuratively"
+    },
+    {
+     "title": "Ahalya (Bengali short 2015)",
+     "reason": "hypnotised victim is male"
+    }
+   ],
+   "check": {
+    "raw_count": 4,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -3160,10 +3226,11 @@
   "round3": 17,
   "widow-remarry": 33,
   "widow-divorcee-oct14b": 2,
-  "recheck-oct14": 3
+  "recheck-oct14": 3,
+  "indian-langs-oct14": 4
  },
- "raw_total": 5307,
- "entry_count": 2564,
+ "raw_total": 5311,
+ "entry_count": 2567,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -3193,7 +3260,7 @@
    "key": "index-62",
    "label": "Comedy",
    "legend_label": "Comedy",
-   "entry_count": 0
+   "entry_count": 1
   },
   {
    "key": "index-61",
@@ -3253,7 +3320,7 @@
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 145
+   "entry_count": 147
   },
   {
    "key": "hypnotized-to-marry",
@@ -3283,13 +3350,13 @@
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 583
+   "entry_count": 584
   },
   {
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 42
+   "entry_count": 43
   },
   {
    "key": "index-54",
@@ -3343,7 +3410,7 @@
    "key": "indian-female-hypnosis",
    "label": "Indian-language female hypnotized against her will",
    "legend_label": "Indian-language female hypnotized against her will",
-   "entry_count": 9
+   "entry_count": 10
   },
   {
    "key": "lesbian-couple-pregnancy",
@@ -3373,7 +3440,7 @@
    "key": "mother",
    "label": "Mother with child hypnotized / mind-controlled",
    "legend_label": "Mother with child hypnotized / mind-controlled",
-   "entry_count": 69
+   "entry_count": 70
   },
   {
    "key": "mom-pregnancy",
@@ -3607,7 +3674,7 @@
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 95
+   "entry_count": 96
   },
   {
    "key": "stepmom-control",
@@ -3625,7 +3692,7 @@
    "key": "evil-female",
    "label": "Supernatural female control — India & Indonesia",
    "legend_label": "Supernatural female control — India & Indonesia",
-   "entry_count": 27
+   "entry_count": 28
   },
   {
    "key": "index-59",
@@ -321587,25 +321654,37 @@
    "character": "",
    "provenance": "India-only research pass, 30 Sep 2026 (Wikipedia)",
    "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "no",
+   "pregnant_end": "not stated",
+   "evidence": "Blog plot review",
    "format": "movie",
    "categories": [
     "medical",
-    "india-control"
+    "india-control",
+    "indian-female-hypnosis"
    ],
    "sources": [
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Sila_Nerangalil"
+    },
+    {
+     "label": "In the Black blog review (Feb 2008)",
+     "url": "http://haseembhai.blogspot.com/2008/02/silanerangalil-movie-review.html"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "india-catalog"
+    "india-catalog",
+    "indian-langs-oct14"
    ],
    "source_records": [
     "xla62ucxbx02u5:1784",
-    "india-catalog:139"
+    "india-catalog:139",
+    "indian-langs-oct14:2"
    ],
    "index_only": false,
    "local_only": false,
@@ -321667,6 +321746,41 @@
      ],
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "indian-langs-oct14:2",
+     "source": "indian-langs-oct14",
+     "label": "Silanerangalil (2008)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "Silanerangalil",
+     "subtitle": "",
+     "year": "2008",
+     "meta": "Film · Malayalam · India",
+     "summary": "A mute, traumatised young woman ('Anjali', Navya Nair) in a mission home is treated with hypnotherapy by psychiatrist Krishnan. Under hypnosis she reveals she is the reincarnation of a woman allegedly killed by her husband in 1965, and that her caretaker Jo is the husband's reincarnation; Jo then seeks the truth of the old murder.",
+     "character": "Anjali (Navya Nair)",
+     "note": "",
+     "mechanism": "Psychiatrist's hypnotherapy uncovers a past-life murder",
+     "confidence_flag": "Medium · single review source",
+     "categories": [
+      "medical",
+      "indian-female-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "In the Black blog review (Feb 2008)",
+       "url": "http://haseembhai.blogspot.com/2008/02/silanerangalil-movie-review.html"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "no",
+     "pregnant_end": "not stated",
+     "evidence": "Blog plot review",
+     "distinct_story": true,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -321710,8 +321824,39 @@
        "url": "https://en.wikipedia.org/wiki/Sila_Nerangalil"
       }
      ]
+    },
+    "indian-langs-oct14:2": {
+     "title": "Silanerangalil",
+     "year": "2008",
+     "format": "movie",
+     "meta": "Film · Malayalam · India",
+     "mechanism": "Psychiatrist's hypnotherapy uncovers a past-life murder",
+     "confidence_flag": "Medium · single review source",
+     "summary": "A mute, traumatised young woman ('Anjali', Navya Nair) in a mission home is treated with hypnotherapy by psychiatrist Krishnan. Under hypnosis she reveals she is the reincarnation of a woman allegedly killed by her husband in 1965, and that her caretaker Jo is the husband's reincarnation; Jo then seeks the truth of the old murder.",
+     "character": "Anjali (Navya Nair)",
+     "categories": [
+      "medical",
+      "indian-female-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "In the Black blog review (Feb 2008)",
+       "url": "http://haseembhai.blogspot.com/2008/02/silanerangalil-movie-review.html"
+      }
+     ],
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "no",
+     "evidence": "Blog plot review",
+     "provenance": "Indian-languages sweep, 14 Oct 2026 PT",
+     "group": "Indian-languages sweep additions (Oct 2026)",
+     "standalone": true
     }
-   }
+   },
+   "retired_ids": [
+    2674
+   ]
   },
   {
    "id": 1771,
@@ -404320,6 +404465,235 @@
      "note": "loose fit: the synopsis says 'mental control' but does not say hypnosis; she is an adult in the main story but the control began in childhood."
     }
    }
+  },
+  {
+   "id": 2673,
+   "title": "Ti Ratr",
+   "subtitle": "",
+   "year": "2011",
+   "meta": "Film · Marathi · India",
+   "mechanism": "Home-invader 'salesman' hypnotises the wife to extract secrets",
+   "confidence_flag": "Medium · single review source",
+   "summary": "Newly married Rajani's honeymoon is cut short and odd things happen at home. A salesman arrives for a 'demo' while her husband Rajan is away, takes them hostage, and hypnotises Rajani to extract hard truths about her past. She wakes to Rajan telling her it was a dream, until she finds the salesman's ring in the fish tank.",
+   "character": "Rajani (Aditi Sarangdhar)",
+   "provenance": "Indian-languages sweep, 14 Oct 2026 PT",
+   "note": "",
+   "kids_status": "no (newly married; none mentioned)",
+   "kids_together": "not stated",
+   "married": "yes (to Rajan, before the film)",
+   "pregnant_end": "not stated",
+   "evidence": "Blog plot review",
+   "format": "movie",
+   "categories": [
+    "human",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Kabhi Khushi Kabhi Gum blog review (Nov 2011)",
+     "url": "http://siddhesh-k3g.blogspot.com/2011/11/movie-review-ti-ratr-marathi.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "indian-langs-oct14"
+   ],
+   "source_records": [
+    "indian-langs-oct14:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "indian-langs-oct14:1": {
+     "title": "Ti Ratr",
+     "year": "2011",
+     "format": "movie",
+     "meta": "Film · Marathi · India",
+     "mechanism": "Home-invader 'salesman' hypnotises the wife to extract secrets",
+     "confidence_flag": "Medium · single review source",
+     "summary": "Newly married Rajani's honeymoon is cut short and odd things happen at home. A salesman arrives for a 'demo' while her husband Rajan is away, takes them hostage, and hypnotises Rajani to extract hard truths about her past. She wakes to Rajan telling her it was a dream, until she finds the salesman's ring in the fish tank.",
+     "character": "Rajani (Aditi Sarangdhar)",
+     "categories": [
+      "human",
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "Kabhi Khushi Kabhi Gum blog review (Nov 2011)",
+       "url": "http://siddhesh-k3g.blogspot.com/2011/11/movie-review-ti-ratr-marathi.html"
+      }
+     ],
+     "pregnant_end": "not stated",
+     "kids_status": "no (newly married; none mentioned)",
+     "kids_together": "not stated",
+     "married": "yes (to Rajan, before the film)",
+     "evidence": "Blog plot review",
+     "provenance": "Indian-languages sweep, 14 Oct 2026 PT",
+     "group": "Indian-languages sweep additions (Oct 2026)",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2675,
+   "title": "Fear Files",
+   "subtitle": "Episode 141",
+   "year": "2012–",
+   "meta": "TV horror anthology · Zee TV · Hindi · India",
+   "mechanism": "Possessed girl's hypnotic gaze",
+   "confidence_flag": "Medium · fan wiki episode gallery",
+   "summary": "In a mansion, a possessed girl hypnotises a mother of three with her gaze; under control the mother kills two of her children and then herself.",
+   "character": "Unnamed mother",
+   "provenance": "Indian-languages sweep, 14 Oct 2026 PT",
+   "note": "",
+   "kids_status": "yes (three children, from before)",
+   "kids_together": "n/a",
+   "married": "not stated",
+   "pregnant_end": "no (dies)",
+   "evidence": "Fan wiki episode summary; air date of E141 not confirmed",
+   "format": "tv",
+   "categories": [
+    "spirit",
+    "mother",
+    "evil-female"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki: Fear Files",
+     "url": "https://mentalblock.miraheze.org/wiki/Fear_Files"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "indian-langs-oct14"
+   ],
+   "source_records": [
+    "indian-langs-oct14:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "indian-langs-oct14:3": {
+     "title": "Fear Files",
+     "subtitle": "Episode 141",
+     "year": "2012–",
+     "format": "tv",
+     "meta": "TV horror anthology · Zee TV · Hindi · India",
+     "mechanism": "Possessed girl's hypnotic gaze",
+     "confidence_flag": "Medium · fan wiki episode gallery",
+     "summary": "In a mansion, a possessed girl hypnotises a mother of three with her gaze; under control the mother kills two of her children and then herself.",
+     "character": "Unnamed mother",
+     "categories": [
+      "spirit",
+      "mother",
+      "evil-female"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki: Fear Files",
+       "url": "https://mentalblock.miraheze.org/wiki/Fear_Files"
+      }
+     ],
+     "pregnant_end": "no (dies)",
+     "kids_status": "yes (three children, from before)",
+     "kids_together": "n/a",
+     "married": "not stated",
+     "evidence": "Fan wiki episode summary; air date of E141 not confirmed",
+     "provenance": "Indian-languages sweep, 14 Oct 2026 PT",
+     "group": "Indian-languages sweep additions (Oct 2026)",
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 2676,
+   "title": "May I Come In Madam?",
+   "subtitle": "S1E70 \"Sajan Hypnotises Kashmira\"",
+   "year": "2016",
+   "meta": "Sitcom · &TV · Hindi · India · aired 10 Jun 2016",
+   "mechanism": "Husband hypnotises wife using a book of hypnosis",
+   "confidence_flag": "Medium-high · episode listings",
+   "summary": "Sajan gets the book back from the gorilla and hypnotises his wife Kashmira, while his boss Sanjana turns up at his house.",
+   "character": "Kashmira Agarwal (Sapna Sikarwar)",
+   "provenance": "Indian-languages sweep, 14 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "yes (Sajan's wife)",
+   "pregnant_end": "not stated",
+   "evidence": "Episode title and synopsis on Plex + official YouTube upload",
+   "format": "tv",
+   "categories": [
+    "wife",
+    "index-62",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Plex: S1E70 Sajan Hypnotises Kashmira",
+     "url": "https://watch.plex.tv/show/may-i-come-in-madam/season/1/episode/70"
+    },
+    {
+     "label": "YouTube full episode 70",
+     "url": "https://www.youtube.com/watch?v=p8KAKKtxpU0"
+    }
+   ],
+   "youtube_ids": [
+    "p8KAKKtxpU0"
+   ],
+   "from_sources": [
+    "indian-langs-oct14"
+   ],
+   "source_records": [
+    "indian-langs-oct14:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/p8KAKKtxpU0.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "indian-langs-oct14:4": {
+     "title": "May I Come In Madam?",
+     "subtitle": "S1E70 \"Sajan Hypnotises Kashmira\"",
+     "year": "2016",
+     "format": "tv",
+     "meta": "Sitcom · &TV · Hindi · India · aired 10 Jun 2016",
+     "mechanism": "Husband hypnotises wife using a book of hypnosis",
+     "confidence_flag": "Medium-high · episode listings",
+     "summary": "Sajan gets the book back from the gorilla and hypnotises his wife Kashmira, while his boss Sanjana turns up at his house.",
+     "character": "Kashmira Agarwal (Sapna Sikarwar)",
+     "categories": [
+      "wife",
+      "index-62",
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "Plex: S1E70 Sajan Hypnotises Kashmira",
+       "url": "https://watch.plex.tv/show/may-i-come-in-madam/season/1/episode/70"
+      },
+      {
+       "label": "YouTube full episode 70",
+       "url": "https://www.youtube.com/watch?v=p8KAKKtxpU0"
+      }
+     ],
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "yes (Sajan's wife)",
+     "evidence": "Episode title and synopsis on Plex + official YouTube upload",
+     "provenance": "Indian-languages sweep, 14 Oct 2026 PT",
+     "group": "Indian-languages sweep additions (Oct 2026)",
+     "standalone": true
+    }
+   }
   }
  ],
  "sections": [
@@ -408177,12 +408551,26 @@
    "description": "Eight confirmed ultrasound scenes used as a comic set piece, character turn or pregnancy-denial reveal.",
    "notes": [],
    "from_sources": [
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "indian-langs-oct14"
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 8
+    "ig6qlxqxoxvcxla": 8,
+    "indian-langs-oct14": null
    },
-   "groups": []
+   "groups": [
+    {
+     "title": "Indian-languages sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2676,
+       "from_source": "indian-langs-oct14"
+      }
+     ],
+     "from_source": "indian-langs-oct14"
+    }
+   ]
   },
   {
    "title": "Crime / fraud — fake pregnancy exposed",
@@ -412230,7 +412618,8 @@
     "hypnosis-assault-loose",
     "royal-hypnosis-loose",
     "hypno-sweep-oct9",
-    "savdhaan-santham-oct9"
+    "savdhaan-santham-oct9",
+    "indian-langs-oct14"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 57,
@@ -412244,7 +412633,8 @@
     "hypnosis-assault-loose": null,
     "royal-hypnosis-loose": null,
     "hypno-sweep-oct9": null,
-    "savdhaan-santham-oct9": null
+    "savdhaan-santham-oct9": null,
+    "indian-langs-oct14": null
    },
    "groups": [
     {
@@ -413319,6 +413709,21 @@
       }
      ],
      "from_source": "savdhaan-santham-oct9"
+    },
+    {
+     "title": "Indian-languages sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2676,
+       "from_source": "indian-langs-oct14"
+      },
+      {
+       "id": 2673,
+       "from_source": "indian-langs-oct14"
+      }
+     ],
+     "from_source": "indian-langs-oct14"
     }
    ]
   },
@@ -414311,7 +414716,8 @@
     "hypno-sweep-oct9",
     "widow-divorcee-oct14",
     "round2",
-    "recheck-oct14"
+    "recheck-oct14",
+    "indian-langs-oct14"
    ],
    "groups": [
     {
@@ -418180,6 +418586,17 @@
       }
      ],
      "from_source": "recheck-oct14"
+    },
+    {
+     "title": "Indian-languages sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2673,
+       "from_source": "indian-langs-oct14"
+      }
+     ],
+     "from_source": "indian-langs-oct14"
     }
    ],
    "declared_count_by_source": {
@@ -418196,7 +418613,8 @@
     "hypno-sweep-oct9": null,
     "widow-divorcee-oct14": null,
     "round2": null,
-    "recheck-oct14": null
+    "recheck-oct14": null,
+    "indian-langs-oct14": null
    }
   },
   {
@@ -418473,7 +418891,8 @@
     "hypno-leftovers",
     "hypnosis-assault",
     "round2",
-    "round3"
+    "round3",
+    "indian-langs-oct14"
    ],
    "groups": [
     {
@@ -419008,6 +419427,17 @@
       }
      ],
      "from_source": "round3"
+    },
+    {
+     "title": "Indian-languages sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2676,
+       "from_source": "indian-langs-oct14"
+      }
+     ],
+     "from_source": "indian-langs-oct14"
     }
    ],
    "declared_count_by_source": {
@@ -419019,7 +419449,8 @@
     "hypno-leftovers": null,
     "hypnosis-assault": null,
     "round2": null,
-    "round3": null
+    "round3": null,
+    "indian-langs-oct14": null
    }
   },
   {
@@ -422590,6 +423021,31 @@
    }
   },
   {
+   "title": "Indian-language female hypnotized against her will",
+   "category": "indian-female-hypnosis",
+   "description": "",
+   "notes": [],
+   "from_sources": [
+    "indian-langs-oct14"
+   ],
+   "declared_count_by_source": {
+    "indian-langs-oct14": null
+   },
+   "groups": [
+    {
+     "title": "Indian-languages sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1770,
+       "from_source": "indian-langs-oct14"
+      }
+     ],
+     "from_source": "indian-langs-oct14"
+    }
+   ]
+  },
+  {
    "title": "Indian-language female hypnotized against her will (non-pregnant)",
    "category": null,
    "description": "Eight Indian-language films and television episodes in which a non-pregnant female character is hypnotized, compelled or put into an involuntary trance, plus one unresolved still-airing 2026 lead. South Indian and Manipuri titles are separated from Hindi television; the lead is clearly labeled and not counted among the eight verified or supported cases.",
@@ -423846,7 +424302,8 @@
     "hypno-sweep-oct9",
     "widow-divorcee-oct14",
     "round3",
-    "widow-divorcee-oct14b"
+    "widow-divorcee-oct14b",
+    "indian-langs-oct14"
    ],
    "groups": [
     {
@@ -424411,6 +424868,12 @@
         "Hypnosis",
         "High"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Sila_Nerangalil"
+        }
+       ],
        "provenance": "Source basis: India-only research pass, 30 Sep 2026 (Wikipedia)",
        "from_source": "xla62ucxbx02u5"
       },
@@ -424854,7 +425317,8 @@
     "hypno-sweep-oct9": null,
     "widow-divorcee-oct14": null,
     "round3": null,
-    "widow-divorcee-oct14b": null
+    "widow-divorcee-oct14b": null,
+    "indian-langs-oct14": null
    }
   },
   {
@@ -424928,7 +425392,8 @@
     "hypnotized-love",
     "rich-wife-hypnosis",
     "mother-kids-hypnosis",
-    "round3"
+    "round3",
+    "indian-langs-oct14"
    ],
    "groups": [
     {
@@ -425660,6 +426125,17 @@
       }
      ],
      "from_source": "round3"
+    },
+    {
+     "title": "Indian-languages sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2675,
+       "from_source": "indian-langs-oct14"
+      }
+     ],
+     "from_source": "indian-langs-oct14"
     }
    ],
    "declared_count_by_source": {
@@ -425668,7 +426144,8 @@
     "hypnotized-love": null,
     "rich-wife-hypnosis": null,
     "mother-kids-hypnosis": null,
-    "round3": null
+    "round3": null,
+    "indian-langs-oct14": null
    }
   },
   {
@@ -440210,7 +440687,8 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "india-catalog"
+    "india-catalog",
+    "indian-langs-oct14"
    ],
    "groups": [
     {
@@ -441072,11 +441550,23 @@
       }
      ],
      "from_source": "india-catalog"
+    },
+    {
+     "title": "Indian-languages sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2675,
+       "from_source": "indian-langs-oct14"
+      }
+     ],
+     "from_source": "indian-langs-oct14"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 83,
-    "india-catalog": null
+    "india-catalog": null,
+    "indian-langs-oct14": null
    }
   },
   {
@@ -441235,7 +441725,8 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "india-catalog"
+    "india-catalog",
+    "indian-langs-oct14"
    ],
    "groups": [
     {
@@ -441546,11 +442037,23 @@
        "from_source": "xla62ucxbx02u5"
       }
      ]
+    },
+    {
+     "title": "Indian-languages sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2675,
+       "from_source": "indian-langs-oct14"
+      }
+     ],
+     "from_source": "indian-langs-oct14"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 24,
-    "india-catalog": null
+    "india-catalog": null,
+    "indian-langs-oct14": null
    }
   },
   {
