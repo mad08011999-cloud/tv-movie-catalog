@@ -3580,10 +3580,94 @@ window.CATALOG = {
     {
      "title": "Baalveer (2012)",
      "reason": "wiki episode is S3E44 Kaashvi arc, already catalogued as Baalveer S3 (2023)"
+    },
+    {
+     "title": "Alien Exorcism (2011)",
+     "reason": "removed in review: hypnotised girl is a teenager"
+    },
+    {
+     "title": "Aruna's Magic (2023)",
+     "reason": "removed in review: teen witches"
+    },
+    {
+     "title": "Catweazle (1969)",
+     "reason": "removed in review: children's series"
+    },
+    {
+     "title": "Children of the Corn III: Urban Harvest (1995)",
+     "reason": "removed in review: brainwashed are teenagers"
+    },
+    {
+     "title": "Chucky (2021–2024)",
+     "reason": "removed in review: teen series; victim age unclear"
+    },
+    {
+     "title": "Devil's Domain (2016)",
+     "reason": "removed in review: teen high-school protagonist"
+    },
+    {
+     "title": "Dracula: The Series (1990–1991)",
+     "reason": "removed in review: young/teen cast; victim age unclear"
+    },
+    {
+     "title": "Dwight in Shining Armor (2019)",
+     "reason": "removed in review: teen series"
+    },
+    {
+     "title": "Galaxy Park (2011–2014)",
+     "reason": "removed in review: children's series, teen victims"
+    },
+    {
+     "title": "Goosebumps 2: Haunted Halloween (2018)",
+     "reason": "removed in review: children/teen cast"
+    },
+    {
+     "title": "Hellphone (2007)",
+     "reason": "removed in review: hypnotised girls are students (minors)"
+    },
+    {
+     "title": "Intouchable (2015)",
+     "reason": "removed in review: high-school girl lead"
+    },
+    {
+     "title": "Maligno (2016)",
+     "reason": "removed in review: hypnotised girl is a teenager"
+    },
+    {
+     "title": "My Best Friend is a Vampire (1987)",
+     "reason": "removed in review: teen victims"
+    },
+    {
+     "title": "Out of This World (1987)",
+     "reason": "removed in review: teen sitcom; victim age unclear"
+    },
+    {
+     "title": "Pig's Breakfast (1999)",
+     "reason": "removed in review: children's series"
+    },
+    {
+     "title": "Popular (1999–2001)",
+     "reason": "removed in review: hypnotised girl turns 16"
+    },
+    {
+     "title": "Power Rangers in Space (1998–1999)",
+     "reason": "removed in review: brainwashed are male / teen heroes"
+    },
+    {
+     "title": "Strange Behavior (1981)",
+     "reason": "removed in review: mind-controlled are teenagers"
+    },
+    {
+     "title": "Tamara (2005)",
+     "reason": "removed in review: high-school setting, victims students"
+    },
+    {
+     "title": "VR Troopers (1994) (1994–1996)",
+     "reason": "removed in review: teen cast, mass hypnosis"
     }
    ],
    "check": {
-    "raw_count": 229,
+    "raw_count": 208,
     "ok": true
    },
    "status": "local"
@@ -3626,10 +3710,10 @@ window.CATALOG = {
   "widow-divorcee-oct14b": 2,
   "recheck-oct14": 3,
   "indian-langs-oct14": 4,
-  "fanwiki-screen-oct14": 229
+  "fanwiki-screen-oct14": 208
  },
- "raw_total": 5540,
- "entry_count": 2796,
+ "raw_total": 5519,
+ "entry_count": 2775,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -3659,7 +3743,7 @@ window.CATALOG = {
    "key": "index-62",
    "label": "Comedy",
    "legend_label": "Comedy",
-   "entry_count": 23
+   "entry_count": 19
   },
   {
    "key": "index-61",
@@ -3695,13 +3779,13 @@ window.CATALOG = {
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 49
+   "entry_count": 46
   },
   {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 252
+   "entry_count": 246
   },
   {
    "key": "child-controller",
@@ -3749,7 +3833,7 @@ window.CATALOG = {
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 613
+   "entry_count": 611
   },
   {
    "key": "wife",
@@ -3785,7 +3869,7 @@ window.CATALOG = {
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 145
+   "entry_count": 141
   },
   {
    "key": "royal-hypnosis",
@@ -3797,7 +3881,7 @@ window.CATALOG = {
    "key": "love",
    "label": "Hypnotized to love",
    "legend_label": "Hypnotized to love",
-   "entry_count": 209
+   "entry_count": 204
   },
   {
    "key": "hypno-intimacy",
@@ -4061,7 +4145,7 @@ window.CATALOG = {
    "key": "scifi",
    "label": "Sci-fi / alien / technological control",
    "legend_label": "Sci-fi / alien / technological control",
-   "entry_count": 385
+   "entry_count": 379
   },
   {
    "key": "family",
@@ -4073,7 +4157,7 @@ window.CATALOG = {
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 138
+   "entry_count": 134
   },
   {
    "key": "stepmom-control",
@@ -4115,7 +4199,7 @@ window.CATALOG = {
    "key": "vampire",
    "label": "Vampire mesmerism",
    "legend_label": "Vampire mesmerism",
-   "entry_count": 253
+   "entry_count": 251
   },
   {
    "key": "villain",
@@ -405101,7 +405185,7 @@ window.CATALOG = {
    "year": "2016",
    "meta": "TV · English",
    "mechanism": "Brainwashing, Chemical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "The citizens of the small town of Saturn, California are terrorized by various supernatural an extraordinary threats in the twelve days before christmas. Coffee Cups (Season 1, Episode 5): A young barista suspects a national coffee chain of brainwashing her customers. Scene: Judalina notices the strange behavior of her coworkers. Everyone is smiling, but without emotion. Following an order from the new manager, everyone takes a sip of the new coffee. Judaika's friends were brainwashed by the aliens, and they force her to drink the coffee. Feeling she has no choice, the girl drinks the coffee. Judaika becomes a brainwashed happily drone.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -405123,6 +405207,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: 12 Deadly Days",
      "url": "https://mentalblock.miraheze.org/wiki/12_Deadly_Days"
+    },
+    {
+     "label": "Wikipedia: 12 Deadly Days",
+     "url": "https://en.wikipedia.org/wiki/12_Deadly_Days"
     }
    ],
    "youtube_ids": [],
@@ -405146,7 +405234,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Brainwashing, Chemical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "The citizens of the small town of Saturn, California are terrorized by various supernatural an extraordinary threats in the twelve days before christmas. Coffee Cups (Season 1, Episode 5): A young barista suspects a national coffee chain of brainwashing her customers. Scene: Judalina notices the strange behavior of her coworkers. Everyone is smiling, but without emotion. Following an order from the new manager, everyone takes a sip of the new coffee. Judaika's friends were brainwashed by the aliens, and they force her to drink the coffee. Feeling she has no choice, the girl drinks the coffee. Judaika becomes a brainwashed happily drone.",
      "character": "",
      "categories": [
@@ -405157,6 +405245,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: 12 Deadly Days",
        "url": "https://mentalblock.miraheze.org/wiki/12_Deadly_Days"
+      },
+      {
+       "label": "Wikipedia: 12 Deadly Days",
+       "url": "https://en.wikipedia.org/wiki/12_Deadly_Days"
       }
      ],
      "pregnant_end": "not stated",
@@ -405333,7 +405425,7 @@ window.CATALOG = {
    "year": "2015",
    "meta": "Film · English",
    "mechanism": "Love Hypnosis, Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "A group of aliens confers a man with the power to do absolutely anything, as an experiment, including distorting reality and controlling other people's minds and emotions. Scene: Grant forces Neil to force Catherine to fall madly in love with him. With his dog threatened, Neil does as he is told. Catherine falls under the influence of Neil's spell. She throws herself at Grant, kissing him passionately, and accidentally disarms him. Neil takes the chance to turn Grant into a dog and free Catherine from the spell. Catherine is understandably embarrassed by what she was forced to do.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -405356,6 +405448,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Absolutely Anything",
      "url": "https://mentalblock.miraheze.org/wiki/Absolutely_Anything"
+    },
+    {
+     "label": "Wikipedia: Absolutely Anything",
+     "url": "https://en.wikipedia.org/wiki/Absolutely_Anything"
     }
    ],
    "youtube_ids": [],
@@ -405379,7 +405475,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Love Hypnosis, Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "A group of aliens confers a man with the power to do absolutely anything, as an experiment, including distorting reality and controlling other people's minds and emotions. Scene: Grant forces Neil to force Catherine to fall madly in love with him. With his dog threatened, Neil does as he is told. Catherine falls under the influence of Neil's spell. She throws herself at Grant, kissing him passionately, and accidentally disarms him. Neil takes the chance to turn Grant into a dog and free Catherine from the spell. Catherine is understandably embarrassed by what she was forced to do.",
      "character": "",
      "categories": [
@@ -405390,6 +405486,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Absolutely Anything",
        "url": "https://mentalblock.miraheze.org/wiki/Absolutely_Anything"
+      },
+      {
+       "label": "Wikipedia: Absolutely Anything",
+       "url": "https://en.wikipedia.org/wiki/Absolutely_Anything"
       }
      ],
      "pregnant_end": "not stated",
@@ -405413,7 +405513,7 @@ window.CATALOG = {
    "year": "1970",
    "meta": "TV · English",
    "mechanism": "Brainwashing, Traditional Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Telepathic illusionist, Tarot, and his two assistants solve mysteries and crimes of a macabre or supernatural nature, and battle against villains with various special abilities. Mama Doc: Part 3 (Season 3, Episode 13): Tarot must race against time to save the victims of the lunatic Mama Doc from being transformed into living dolls forever. He uses his hypnotic abilities to defeat the villain. Scene: Tarot hypnotizes Mama Doc with a spoon.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -405435,6 +405535,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Ace of Wands",
      "url": "https://mentalblock.miraheze.org/wiki/Ace_of_Wands"
+    },
+    {
+     "label": "Wikipedia: Ace of Wands (TV series)",
+     "url": "https://en.wikipedia.org/wiki/Ace_of_Wands_(TV_series)"
     }
    ],
    "youtube_ids": [],
@@ -405458,7 +405562,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Brainwashing, Traditional Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Telepathic illusionist, Tarot, and his two assistants solve mysteries and crimes of a macabre or supernatural nature, and battle against villains with various special abilities. Mama Doc: Part 3 (Season 3, Episode 13): Tarot must race against time to save the victims of the lunatic Mama Doc from being transformed into living dolls forever. He uses his hypnotic abilities to defeat the villain. Scene: Tarot hypnotizes Mama Doc with a spoon.",
      "character": "",
      "categories": [
@@ -405469,6 +405573,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Ace of Wands",
        "url": "https://mentalblock.miraheze.org/wiki/Ace_of_Wands"
+      },
+      {
+       "label": "Wikipedia: Ace of Wands (TV series)",
+       "url": "https://en.wikipedia.org/wiki/Ace_of_Wands_(TV_series)"
       }
      ],
      "pregnant_end": "not stated",
@@ -405489,9 +405597,9 @@ window.CATALOG = {
    "title": "Adventure Inc",
    "subtitle": "Spirit Of The Mask (Season 1, Episode 17)",
    "year": "2002",
-   "meta": "TV · language not stated",
+   "meta": "TV · English",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Judson Cross is a leader of a team of treasure hunters known as Adventure Inc. Alongside with his partners, Mckenzie Previn and Gabriel Patterson, he travels to different corners of the world, finding things - things that are priceless, dangerous, and sometimes even unexplainable. Spirit Of The Mask (Season 1, Episode 17): At the Yeveh Burial Ground in West Africa the team is digging for the iron mask of the Yeveh. But the mask contains the pain and hatred of the Yeveh when their culture was destroyed by slavers and anyone touching it falls under a greedy spell and will do everything to keep the mask. Scene: Mckenzie falls under the spell of the mask.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -405512,6 +405620,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Adventure Inc",
      "url": "https://mentalblock.miraheze.org/wiki/Adventure_Inc"
+    },
+    {
+     "label": "Wikipedia: Adventure Inc.",
+     "url": "https://en.wikipedia.org/wiki/Adventure_Inc."
     }
    ],
    "youtube_ids": [],
@@ -405533,9 +405645,9 @@ window.CATALOG = {
      "subtitle": "Spirit Of The Mask (Season 1, Episode 17)",
      "format": "tv",
      "standalone": true,
-     "meta": "TV · language not stated",
+     "meta": "TV · English",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Judson Cross is a leader of a team of treasure hunters known as Adventure Inc. Alongside with his partners, Mckenzie Previn and Gabriel Patterson, he travels to different corners of the world, finding things - things that are priceless, dangerous, and sometimes even unexplainable. Spirit Of The Mask (Season 1, Episode 17): At the Yeveh Burial Ground in West Africa the team is digging for the iron mask of the Yeveh. But the mask contains the pain and hatred of the Yeveh when their culture was destroyed by slavers and anyone touching it falls under a greedy spell and will do everything to keep the mask. Scene: Mckenzie falls under the spell of the mask.",
      "character": "",
      "categories": [
@@ -405545,6 +405657,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Adventure Inc",
        "url": "https://mentalblock.miraheze.org/wiki/Adventure_Inc"
+      },
+      {
+       "label": "Wikipedia: Adventure Inc.",
+       "url": "https://en.wikipedia.org/wiki/Adventure_Inc."
       }
      ],
      "pregnant_end": "not stated",
@@ -405565,9 +405681,9 @@ window.CATALOG = {
    "title": "Agimat ng Agila",
    "subtitle": "Eye Of The Sea Serpent (Season 1, Episode 09) / The Rise Of The Sea Serpent (Season 1, Episode 10)",
    "year": "2021",
-   "meta": "TV · language not stated",
+   "meta": "TV · Tagalog",
    "mechanism": "Brainwashing, Magical Hypnosis, Possession",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "The story revolves around Major Gabriel Labrador (played by Ramon \"Bong\" Revilla Jr.), an exemplary special agent who loses his family in a devastating terrorist attack. Devastated and seeking justice, he ends up becoming the guardian of an ancient mystical power. Eye Of The Sea Serpent (Season 1, Episode 09): Maya accidentally finds the long-lost eye of the sea serpent, and it take control of her mind. The Rise Of The Sea Serpent (Season 1, Episode 10): Maya gets dominated by Agatep’s dark powers as she becomes his channel to its next bearer. Scene: Maya is drawn to the Serpent's Eye. Maya begins to feel the influence of the amulet. The serpent's eye is activated while Maya sleeps. She wakes up under the amulet's control. She gets out of bed in a trance. Hypnotized, the young woman walks through the woods. Magically brainwashed, Maya begins to recite an incantation. The power of Agatep begins to flow through her.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -405588,6 +405704,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Agimat ng Agila",
      "url": "https://mentalblock.miraheze.org/wiki/Agimat_ng_Agila"
+    },
+    {
+     "label": "Wikipedia: Agimat ng Agila",
+     "url": "https://en.wikipedia.org/wiki/Agimat_ng_Agila"
     }
    ],
    "youtube_ids": [],
@@ -405609,9 +405729,9 @@ window.CATALOG = {
      "subtitle": "Eye Of The Sea Serpent (Season 1, Episode 09) / The Rise Of The Sea Serpent (Season 1, Episode 10)",
      "format": "tv",
      "standalone": true,
-     "meta": "TV · language not stated",
+     "meta": "TV · Tagalog",
      "mechanism": "Brainwashing, Magical Hypnosis, Possession",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "The story revolves around Major Gabriel Labrador (played by Ramon \"Bong\" Revilla Jr.), an exemplary special agent who loses his family in a devastating terrorist attack. Devastated and seeking justice, he ends up becoming the guardian of an ancient mystical power. Eye Of The Sea Serpent (Season 1, Episode 09): Maya accidentally finds the long-lost eye of the sea serpent, and it take control of her mind. The Rise Of The Sea Serpent (Season 1, Episode 10): Maya gets dominated by Agatep’s dark powers as she becomes his channel to its next bearer. Scene: Maya is drawn to the Serpent's Eye. Maya begins to feel the influence of the amulet. The serpent's eye is activated while Maya sleeps. She wakes up under the amulet's control. She gets out of bed in a trance. Hypnotized, the young woman walks through the woods. Magically brainwashed, Maya begins to recite an incantation. The power of Agatep begins to flow through her.",
      "character": "",
      "categories": [
@@ -405621,6 +405741,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Agimat ng Agila",
        "url": "https://mentalblock.miraheze.org/wiki/Agimat_ng_Agila"
+      },
+      {
+       "label": "Wikipedia: Agimat ng Agila",
+       "url": "https://en.wikipedia.org/wiki/Agimat_ng_Agila"
       }
      ],
      "pregnant_end": "not stated",
@@ -405641,9 +405765,9 @@ window.CATALOG = {
    "title": "Alegrijes y Rebujos",
    "subtitle": "Episode 74",
    "year": "2003",
-   "meta": "TV · Spanish",
+   "meta": "TV · num_seasons          =",
    "mechanism": "Traditional Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Episode 74: To Add Scene: the goblin hypnotizes the children. the children are hypnotized... ... and falls into a hypnotic sleep.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -405664,6 +405788,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Alegrijes y Rebujos",
      "url": "https://mentalblock.miraheze.org/wiki/Alegrijes_y_Rebujos"
+    },
+    {
+     "label": "Wikipedia: Alegrijes y Rebujos",
+     "url": "https://en.wikipedia.org/wiki/Alegrijes_y_Rebujos"
     }
    ],
    "youtube_ids": [],
@@ -405685,9 +405813,9 @@ window.CATALOG = {
      "subtitle": "Episode 74",
      "format": "tv",
      "standalone": true,
-     "meta": "TV · Spanish",
+     "meta": "TV · num_seasons          =",
      "mechanism": "Traditional Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Episode 74: To Add Scene: the goblin hypnotizes the children. the children are hypnotized... ... and falls into a hypnotic sleep.",
      "character": "",
      "categories": [
@@ -405697,6 +405825,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Alegrijes y Rebujos",
        "url": "https://mentalblock.miraheze.org/wiki/Alegrijes_y_Rebujos"
+      },
+      {
+       "label": "Wikipedia: Alegrijes y Rebujos",
+       "url": "https://en.wikipedia.org/wiki/Alegrijes_y_Rebujos"
       }
      ],
      "pregnant_end": "not stated",
@@ -405714,92 +405846,12 @@ window.CATALOG = {
   },
   {
    "id": 2685,
-   "title": "Alien Exorcism",
-   "subtitle": "",
-   "year": "2011",
-   "meta": "Film · Italian",
-   "mechanism": "Possession",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-   "summary": "Dr. Davide Piso is a scientist who has been studying thousands of cases involving alien abductions with the aid of hypnosis. When the scientist decides to help Saturnia, a teenager that believes herself to be an alien abductee and shows a clear attraction for him, he faces an insurmountable problem: once hypnotised, Saturnia cannot leave the trance condition anymore, hence giving manifestation to Hexabor of Ur, an alien entity coming from Mesopotamian ages. Hexabor considers himself a demi-god a Scene: The girl is put into a trance Mesmerized, she is possessed by the alien in your mind. Davide brings her back from her trance.",
-   "character": "",
-   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-   "note": "",
-   "tags": [
-    "Films Live-Action",
-    "Western Live Action"
-   ],
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-   "format": "movie",
-   "categories": [
-    "spirit",
-    "scifi"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki: Alien Exorcism",
-     "url": "https://mentalblock.miraheze.org/wiki/Alien_Exorcism"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "fanwiki-screen-oct14"
-   ],
-   "source_records": [
-    "fanwiki-screen-oct14:9"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "fanwiki-screen-oct14:9": {
-     "title": "Alien Exorcism",
-     "year": "2011",
-     "subtitle": "",
-     "format": "movie",
-     "standalone": true,
-     "meta": "Film · Italian",
-     "mechanism": "Possession",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-     "summary": "Dr. Davide Piso is a scientist who has been studying thousands of cases involving alien abductions with the aid of hypnosis. When the scientist decides to help Saturnia, a teenager that believes herself to be an alien abductee and shows a clear attraction for him, he faces an insurmountable problem: once hypnotised, Saturnia cannot leave the trance condition anymore, hence giving manifestation to Hexabor of Ur, an alien entity coming from Mesopotamian ages. Hexabor considers himself a demi-god a Scene: The girl is put into a trance Mesmerized, she is possessed by the alien in your mind. Davide brings her back from her trance.",
-     "character": "",
-     "categories": [
-      "spirit",
-      "scifi"
-     ],
-     "sources": [
-      {
-       "label": "Mental Block wiki: Alien Exorcism",
-       "url": "https://mentalblock.miraheze.org/wiki/Alien_Exorcism"
-      }
-     ],
-     "pregnant_end": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "married": "not stated",
-     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-     "group": "Fan-wiki screen additions (Oct 2026)",
-     "tags": [
-      "Films Live-Action",
-      "Western Live Action"
-     ]
-    }
-   }
-  },
-  {
-   "id": 2686,
    "title": "Alien Nation",
    "subtitle": "The Takeover (Season 1, Episode 4)",
    "year": "1989–1990",
    "meta": "TV · English",
    "mechanism": "Chemical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "The Takeover (Season 1, Episode 4): The understaffed police force is stretched beyond its limits during a citywide street riot, with only a skeleton crew including George left behind to defend the precinct's station. A gang of human and Tenctonese thieves led by Diane (Gwynyth Walsh) attack the station and, after a standoff, take George's wife Susan (Scarabelli) hostage. Diane exposes Susan to a canister of the mind-controlling gas used by the alien \"Overseers\" to control their Tenctonese slaves. When George and Sikes chase down the thieves, the entranced Susan is ordered to kill them.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -405822,6 +405874,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Alien Nation (TV Series)",
      "url": "https://mentalblock.miraheze.org/wiki/Alien_Nation_(TV_Series)"
+    },
+    {
+     "label": "Wikipedia: Alien Nation (TV series)",
+     "url": "https://en.wikipedia.org/wiki/Alien_Nation_(TV_series)"
     }
    ],
    "youtube_ids": [],
@@ -405829,7 +405885,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:10"
+    "fanwiki-screen-oct14:9"
    ],
    "index_only": false,
    "local_only": true,
@@ -405837,7 +405893,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:10": {
+    "fanwiki-screen-oct14:9": {
      "title": "Alien Nation",
      "year": "1989–1990",
      "subtitle": "The Takeover (Season 1, Episode 4)",
@@ -405845,7 +405901,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Chemical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "The Takeover (Season 1, Episode 4): The understaffed police force is stretched beyond its limits during a citywide street riot, with only a skeleton crew including George left behind to defend the precinct's station. A gang of human and Tenctonese thieves led by Diane (Gwynyth Walsh) attack the station and, after a standoff, take George's wife Susan (Scarabelli) hostage. Diane exposes Susan to a canister of the mind-controlling gas used by the alien \"Overseers\" to control their Tenctonese slaves. When George and Sikes chase down the thieves, the entranced Susan is ordered to kill them.",
      "character": "",
      "categories": [
@@ -405857,6 +405913,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Alien Nation (TV Series)",
        "url": "https://mentalblock.miraheze.org/wiki/Alien_Nation_(TV_Series)"
+      },
+      {
+       "label": "Wikipedia: Alien Nation (TV series)",
+       "url": "https://en.wikipedia.org/wiki/Alien_Nation_(TV_series)"
       }
      ],
      "pregnant_end": "not stated",
@@ -405873,7 +405933,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2687,
+   "id": 2686,
    "title": "Alien Shark",
    "subtitle": "",
    "year": "2022",
@@ -405910,7 +405970,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:11"
+    "fanwiki-screen-oct14:10"
    ],
    "index_only": false,
    "local_only": true,
@@ -405918,7 +405978,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:11": {
+    "fanwiki-screen-oct14:10": {
      "title": "Alien Shark",
      "year": "2022",
      "subtitle": "",
@@ -405955,13 +406015,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2688,
+   "id": 2687,
    "title": "All Hallows' Eve",
    "subtitle": "",
    "year": "2016",
-   "meta": "Film · language not stated",
+   "meta": "Film · English",
    "mechanism": "Brainwashing, Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "As Eve celebrates her birthday on Halloween night, she discovers she's a witch and accidentally summons an old ancestor who wants to turns the entire town into her brainwashed slaves. Scene: Eve and her friends are surrounded by Delayna brainwashed slaves.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -405983,6 +406043,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: All Hallows' Eve (2016 film)",
      "url": "https://mentalblock.miraheze.org/wiki/All_Hallows'_Eve_(2016_film)"
+    },
+    {
+     "label": "Wikipedia: All Hallows' Eve (2016 film)",
+     "url": "https://en.wikipedia.org/wiki/All_Hallows'_Eve_(2016_film)"
     }
    ],
    "youtube_ids": [],
@@ -405990,7 +406054,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:12"
+    "fanwiki-screen-oct14:11"
    ],
    "index_only": false,
    "local_only": true,
@@ -405998,15 +406062,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:12": {
+    "fanwiki-screen-oct14:11": {
      "title": "All Hallows' Eve",
      "year": "2016",
      "subtitle": "",
      "format": "movie",
      "standalone": true,
-     "meta": "Film · language not stated",
+     "meta": "Film · English",
      "mechanism": "Brainwashing, Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "As Eve celebrates her birthday on Halloween night, she discovers she's a witch and accidentally summons an old ancestor who wants to turns the entire town into her brainwashed slaves. Scene: Eve and her friends are surrounded by Delayna brainwashed slaves.",
      "character": "",
      "categories": [
@@ -406016,6 +406080,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: All Hallows' Eve (2016 film)",
        "url": "https://mentalblock.miraheze.org/wiki/All_Hallows'_Eve_(2016_film)"
+      },
+      {
+       "label": "Wikipedia: All Hallows' Eve (2016 film)",
+       "url": "https://en.wikipedia.org/wiki/All_Hallows'_Eve_(2016_film)"
       }
      ],
      "pregnant_end": "not stated",
@@ -406033,7 +406101,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2689,
+   "id": 2688,
    "title": "Alphas",
    "subtitle": "Pilot ( Season 1, Episode 1 ) / Anger Management ( Season 1, Episode 3 ) / A Short Time in Paradise ( Season 1, Episode ",
    "year": "2011–2012",
@@ -406069,7 +406137,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:13"
+    "fanwiki-screen-oct14:12"
    ],
    "index_only": false,
    "local_only": true,
@@ -406077,7 +406145,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:13": {
+    "fanwiki-screen-oct14:12": {
      "title": "Alphas",
      "year": "2011–2012",
      "subtitle": "Pilot ( Season 1, Episode 1 ) / Anger Management ( Season 1, Episode 3 ) / A Short Time in Paradise ( Season 1, Episode ",
@@ -406113,13 +406181,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2690,
+   "id": 2689,
    "title": "Amityville: It's About Time",
    "subtitle": "",
    "year": "1992",
    "meta": "Film · English",
    "mechanism": "hypnosis / mind control",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "An architect brings home a mysterious old clock, not knowing that it once belonged to the infamous Amityville house. Soon, the clock begins to alter time and space and starts to control the members of the family. Scene: Lisa hears the ticking of the demonic clock. She is drawn to the mirror under the evil influence. Her mind is taken. brainwashed by the evil forces in the clock, Lisa seduces her boyfriend to kill him. Jacob falls under the clock's control and tries to kill his wife. Lisa is totally under the clock's control and tries to kill Rusty.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -406142,6 +406210,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Amityville: It's About Time",
      "url": "https://mentalblock.miraheze.org/wiki/Amityville:_It's_About_Time"
+    },
+    {
+     "label": "Wikipedia: Amityville: It's About Time",
+     "url": "https://en.wikipedia.org/wiki/Amityville:_It's_About_Time"
     }
    ],
    "youtube_ids": [],
@@ -406149,7 +406221,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:14"
+    "fanwiki-screen-oct14:13"
    ],
    "index_only": false,
    "local_only": true,
@@ -406157,7 +406229,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:14": {
+    "fanwiki-screen-oct14:13": {
      "title": "Amityville: It's About Time",
      "year": "1992",
      "subtitle": "",
@@ -406165,7 +406237,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "hypnosis / mind control",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "An architect brings home a mysterious old clock, not knowing that it once belonged to the infamous Amityville house. Soon, the clock begins to alter time and space and starts to control the members of the family. Scene: Lisa hears the ticking of the demonic clock. She is drawn to the mirror under the evil influence. Her mind is taken. brainwashed by the evil forces in the clock, Lisa seduces her boyfriend to kill him. Jacob falls under the clock's control and tries to kill his wife. Lisa is totally under the clock's control and tries to kill Rusty.",
      "character": "",
      "categories": [
@@ -406176,6 +406248,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Amityville: It's About Time",
        "url": "https://mentalblock.miraheze.org/wiki/Amityville:_It's_About_Time"
+      },
+      {
+       "label": "Wikipedia: Amityville: It's About Time",
+       "url": "https://en.wikipedia.org/wiki/Amityville:_It's_About_Time"
       }
      ],
      "pregnant_end": "not stated",
@@ -406193,13 +406269,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2691,
+   "id": 2690,
    "title": "An American Vampire Story",
    "subtitle": "",
    "year": "1997",
    "meta": "Film · English",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Teenager Frankie (Trevor Lissauer), is left in charge of the family home for a few weeks while his parents are vacationing in Europe. After a day of surfing on the beach, Frankie and his best friend Bogie (Danny Hitt) happen upon a group of sexy Bohemian vampires led by Moondoggie (Johnny Venocur) along with his minions Sulka and Katrina (Carmen Electra and Deborah Xavier) and invite them to stay in Frankie's house for a few days in hopes of getting lucky. When Frankie learns that the threesome  Scene: Moondogie hypnotizes Dee Dee. Dee Dee is mesmerized. Moondogie bites Dee Dee. Frankie finds Dee Dee hypnotized. turned into a vampire, Dee Dee threatens Frankie. Moondoggie stops Dee Dee trying to kill Frankie. Moondogie is killed. With Moondoggie's death, Dee Dee is back to normal, with no memories what happened.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -406222,6 +406298,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: An American Vampire Story",
      "url": "https://mentalblock.miraheze.org/wiki/An_American_Vampire_Story"
+    },
+    {
+     "label": "Wikipedia: Vampires (1998 film)",
+     "url": "https://en.wikipedia.org/wiki/Vampires_(1998_film)"
     }
    ],
    "youtube_ids": [],
@@ -406229,7 +406309,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:15"
+    "fanwiki-screen-oct14:14"
    ],
    "index_only": false,
    "local_only": true,
@@ -406237,7 +406317,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:15": {
+    "fanwiki-screen-oct14:14": {
      "title": "An American Vampire Story",
      "year": "1997",
      "subtitle": "",
@@ -406245,7 +406325,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Teenager Frankie (Trevor Lissauer), is left in charge of the family home for a few weeks while his parents are vacationing in Europe. After a day of surfing on the beach, Frankie and his best friend Bogie (Danny Hitt) happen upon a group of sexy Bohemian vampires led by Moondoggie (Johnny Venocur) along with his minions Sulka and Katrina (Carmen Electra and Deborah Xavier) and invite them to stay in Frankie's house for a few days in hopes of getting lucky. When Frankie learns that the threesome  Scene: Moondogie hypnotizes Dee Dee. Dee Dee is mesmerized. Moondogie bites Dee Dee. Frankie finds Dee Dee hypnotized. turned into a vampire, Dee Dee threatens Frankie. Moondoggie stops Dee Dee trying to kill Frankie. Moondogie is killed. With Moondoggie's death, Dee Dee is back to normal, with no memories what happened.",
      "character": "",
      "categories": [
@@ -406256,6 +406336,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: An American Vampire Story",
        "url": "https://mentalblock.miraheze.org/wiki/An_American_Vampire_Story"
+      },
+      {
+       "label": "Wikipedia: Vampires (1998 film)",
+       "url": "https://en.wikipedia.org/wiki/Vampires_(1998_film)"
       }
      ],
      "pregnant_end": "not stated",
@@ -406273,13 +406357,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2692,
+   "id": 2691,
    "title": "Armour of God",
    "subtitle": "",
    "year": "1986",
-   "meta": "Film · Mandarin",
+   "meta": "Film · Cantonese",
    "mechanism": "Brainwashing, Chemical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Jackie, a.k.a. \"Asian Hawk\", is a former musician who becomes an adventurer and treasure hunter. After successfully stealing a sword from an African tribe, he has the weapon auctioned before it is won by May Bannon, the beautiful daughter of Count Bannon. He is reunited with his former bandmate Alan, who seeks his help as his girlfriend Lorelei has been kidnapped by an evil religious cult as a means of acquiring Jackie's services. The cult possesses two pieces of a legendary armour called the \"A Scene: the Villains prepare to drug Lorelei Lorelei is drugged... ... and is brainwashed by the evil cult. Lorelei in a trance, surprises Jackie and May as he tries to declare himself to Jack. This angers May, who leaves. Under mind control, Lorelei tries to seduce Jackie. Confused, Jackie resists her advances. A brainwashed Lorelei catches Alan off guard. She drugs him.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -406303,6 +406387,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Armour of God",
      "url": "https://mentalblock.miraheze.org/wiki/Armour_of_God"
+    },
+    {
+     "label": "Wikipedia: Armour of God (film)",
+     "url": "https://en.wikipedia.org/wiki/Armour_of_God_(film)"
     }
    ],
    "youtube_ids": [],
@@ -406310,7 +406398,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:16"
+    "fanwiki-screen-oct14:15"
    ],
    "index_only": false,
    "local_only": true,
@@ -406318,15 +406406,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:16": {
+    "fanwiki-screen-oct14:15": {
      "title": "Armour of God",
      "year": "1986",
      "subtitle": "",
      "format": "movie",
      "standalone": true,
-     "meta": "Film · Mandarin",
+     "meta": "Film · Cantonese",
      "mechanism": "Brainwashing, Chemical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Jackie, a.k.a. \"Asian Hawk\", is a former musician who becomes an adventurer and treasure hunter. After successfully stealing a sword from an African tribe, he has the weapon auctioned before it is won by May Bannon, the beautiful daughter of Count Bannon. He is reunited with his former bandmate Alan, who seeks his help as his girlfriend Lorelei has been kidnapped by an evil religious cult as a means of acquiring Jackie's services. The cult possesses two pieces of a legendary armour called the \"A Scene: the Villains prepare to drug Lorelei Lorelei is drugged... ... and is brainwashed by the evil cult. Lorelei in a trance, surprises Jackie and May as he tries to declare himself to Jack. This angers May, who leaves. Under mind control, Lorelei tries to seduce Jackie. Confused, Jackie resists her advances. A brainwashed Lorelei catches Alan off guard. She drugs him.",
      "character": "",
      "categories": [
@@ -406338,6 +406426,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Armour of God",
        "url": "https://mentalblock.miraheze.org/wiki/Armour_of_God"
+      },
+      {
+       "label": "Wikipedia: Armour of God (film)",
+       "url": "https://en.wikipedia.org/wiki/Armour_of_God_(film)"
       }
      ],
      "pregnant_end": "not stated",
@@ -406355,89 +406447,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2693,
-   "title": "Aruna's Magic",
-   "subtitle": "End of The World (Season 1, Episode 5)",
-   "year": "2023",
-   "meta": "TV · Portuguese",
-   "mechanism": "Hypnotic Eyes, Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-   "summary": "In search of her place, Mima, a teenager afraid to own up to her power, frees three witches from the past, who set her on a adventure to recover Aruna, a particle capable of bring magic back to the world and restoring solar balance to the universe. End of The World (Season 1, Episode 5): The planet's solar condition deteriorates and a threat resurfaces. Mima is willing to fight, but she is at odds with everyone else. Latifa, Juno, and Cloe summon a Sisterhood to face the enemy. Bruna hypnotizes Hera, put her under mind control. Akashi and Kwame decipher Luminum's bombshell dossier. Scene: Bruma casts her hypnotic gaze. Hera falls under a hypnotic sleep. She opens her eyes, totally under Bruma's control. Hypnotized, Hera answers all of Bruma's questions. In a trance, Hera leads the men of Bruma to where the children are hidden. Mesmerized, Hera does not react to her son's pleas.",
-   "character": "",
-   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-   "note": "",
-   "tags": [
-    "Western Live Action"
-   ],
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-   "format": "tv",
-   "categories": [
-    "fantasy"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki: Aruna's Magic",
-     "url": "https://mentalblock.miraheze.org/wiki/Aruna's_Magic"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "fanwiki-screen-oct14"
-   ],
-   "source_records": [
-    "fanwiki-screen-oct14:17"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "fanwiki-screen-oct14:17": {
-     "title": "Aruna's Magic",
-     "year": "2023",
-     "subtitle": "End of The World (Season 1, Episode 5)",
-     "format": "tv",
-     "standalone": true,
-     "meta": "TV · Portuguese",
-     "mechanism": "Hypnotic Eyes, Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-     "summary": "In search of her place, Mima, a teenager afraid to own up to her power, frees three witches from the past, who set her on a adventure to recover Aruna, a particle capable of bring magic back to the world and restoring solar balance to the universe. End of The World (Season 1, Episode 5): The planet's solar condition deteriorates and a threat resurfaces. Mima is willing to fight, but she is at odds with everyone else. Latifa, Juno, and Cloe summon a Sisterhood to face the enemy. Bruna hypnotizes Hera, put her under mind control. Akashi and Kwame decipher Luminum's bombshell dossier. Scene: Bruma casts her hypnotic gaze. Hera falls under a hypnotic sleep. She opens her eyes, totally under Bruma's control. Hypnotized, Hera answers all of Bruma's questions. In a trance, Hera leads the men of Bruma to where the children are hidden. Mesmerized, Hera does not react to her son's pleas.",
-     "character": "",
-     "categories": [
-      "fantasy"
-     ],
-     "sources": [
-      {
-       "label": "Mental Block wiki: Aruna's Magic",
-       "url": "https://mentalblock.miraheze.org/wiki/Aruna's_Magic"
-      }
-     ],
-     "pregnant_end": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "married": "not stated",
-     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-     "group": "Fan-wiki screen additions (Oct 2026)",
-     "tags": [
-      "Western Live Action"
-     ]
-    }
-   }
-  },
-  {
-   "id": 2694,
+   "id": 2692,
    "title": "Avengers: Age of Ultron",
    "subtitle": "",
    "year": "2015",
    "meta": "Film · English",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "The Avengers raid the eastern European country of Sokovia and capture villain Baron Von Strucker (Thomas Kretschmann) as well as the powerful scepter originally used by Loki (as seen in the previous film, The Avengers). They also encounter two superpowered twins- Pietro (Aaron Taylor-Johnson) and Wanda (Elizabeth Olsen). Wanda, who has the power to \"hex\" minds and implant visions, uses her power on Tony Stark/Iron Man (Downey Jr) to give him a vision of a shattered world full of dead Avengers. U",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -406459,6 +406475,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Avengers: Age of Ultron",
      "url": "https://mentalblock.miraheze.org/wiki/Avengers:_Age_of_Ultron"
+    },
+    {
+     "label": "Wikipedia: Avengers: Age of Ultron",
+     "url": "https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron"
     }
    ],
    "youtube_ids": [],
@@ -406466,7 +406486,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:18"
+    "fanwiki-screen-oct14:16"
    ],
    "index_only": false,
    "local_only": true,
@@ -406474,7 +406494,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:18": {
+    "fanwiki-screen-oct14:16": {
      "title": "Avengers: Age of Ultron",
      "year": "2015",
      "subtitle": "",
@@ -406482,7 +406502,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "The Avengers raid the eastern European country of Sokovia and capture villain Baron Von Strucker (Thomas Kretschmann) as well as the powerful scepter originally used by Loki (as seen in the previous film, The Avengers). They also encounter two superpowered twins- Pietro (Aaron Taylor-Johnson) and Wanda (Elizabeth Olsen). Wanda, who has the power to \"hex\" minds and implant visions, uses her power on Tony Stark/Iron Man (Downey Jr) to give him a vision of a shattered world full of dead Avengers. U",
      "character": "",
      "categories": [
@@ -406492,6 +406512,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Avengers: Age of Ultron",
        "url": "https://mentalblock.miraheze.org/wiki/Avengers:_Age_of_Ultron"
+      },
+      {
+       "label": "Wikipedia: Avengers: Age of Ultron",
+       "url": "https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron"
       }
      ],
      "pregnant_end": "not stated",
@@ -406509,13 +406533,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2695,
+   "id": 2693,
    "title": "Barbie",
    "subtitle": "",
    "year": "2023",
-   "meta": "Film · language not stated",
+   "meta": "Film · English",
    "mechanism": "Brainwashing, Love Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Barbie and Ken are having the time of their lives in the seemingly perfect world of Barbie Land. However, when they get a chance to go to the outside world, they soon discover the joys and perils of living among regular humans. Ken learns about patriarchy and feels respected for the first time. He returns to Barbieland to persuade the other Kens to take it over. The Kens begin to brainwashes the Barbies into submissive roles, such as agreeable girlfriends, housewives, and maids. Barbie arrives a Scene: The Barbies are brainwashed into being happily subservient and obedient to the Kens. Stereotypical Barbie tries to wake her friend Barbie from her trance. But she is convinced that her only goal in life is to serve Ken and make him happy. The mayor of Barbielandia has also been turned into a servile airhead She is deprogrammed by Gloria. Stereotypical Barbie begins kidnapping other Barbies to free them from the Ken's mind control.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -406537,6 +406561,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Barbie (2023 Movie)",
      "url": "https://mentalblock.miraheze.org/wiki/Barbie_(2023_Movie)"
+    },
+    {
+     "label": "Wikipedia: Barbie (film)",
+     "url": "https://en.wikipedia.org/wiki/Barbie_(film)"
     }
    ],
    "youtube_ids": [],
@@ -406544,7 +406572,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:19"
+    "fanwiki-screen-oct14:17"
    ],
    "index_only": false,
    "local_only": true,
@@ -406552,15 +406580,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:19": {
+    "fanwiki-screen-oct14:17": {
      "title": "Barbie",
      "year": "2023",
      "subtitle": "",
      "format": "movie",
      "standalone": true,
-     "meta": "Film · language not stated",
+     "meta": "Film · English",
      "mechanism": "Brainwashing, Love Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Barbie and Ken are having the time of their lives in the seemingly perfect world of Barbie Land. However, when they get a chance to go to the outside world, they soon discover the joys and perils of living among regular humans. Ken learns about patriarchy and feels respected for the first time. He returns to Barbieland to persuade the other Kens to take it over. The Kens begin to brainwashes the Barbies into submissive roles, such as agreeable girlfriends, housewives, and maids. Barbie arrives a Scene: The Barbies are brainwashed into being happily subservient and obedient to the Kens. Stereotypical Barbie tries to wake her friend Barbie from her trance. But she is convinced that her only goal in life is to serve Ken and make him happy. The mayor of Barbielandia has also been turned into a servile airhead She is deprogrammed by Gloria. Stereotypical Barbie begins kidnapping other Barbies to free them from the Ken's mind control.",
      "character": "",
      "categories": [
@@ -406570,6 +406598,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Barbie (2023 Movie)",
        "url": "https://mentalblock.miraheze.org/wiki/Barbie_(2023_Movie)"
+      },
+      {
+       "label": "Wikipedia: Barbie (film)",
+       "url": "https://en.wikipedia.org/wiki/Barbie_(film)"
       }
      ],
      "pregnant_end": "not stated",
@@ -406587,7 +406619,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2696,
+   "id": 2694,
    "title": "Beiyang Remnant Case",
    "subtitle": "Episode 8",
    "year": "2021",
@@ -406621,7 +406653,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:20"
+    "fanwiki-screen-oct14:18"
    ],
    "index_only": false,
    "local_only": true,
@@ -406629,7 +406661,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:20": {
+    "fanwiki-screen-oct14:18": {
      "title": "Beiyang Remnant Case",
      "year": "2021",
      "subtitle": "Episode 8",
@@ -406663,7 +406695,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2697,
+   "id": 2695,
    "title": "Bewitched In Tokyo",
    "subtitle": "(Episode 3)",
    "year": "2004",
@@ -406698,7 +406730,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:21"
+    "fanwiki-screen-oct14:19"
    ],
    "index_only": false,
    "local_only": true,
@@ -406706,7 +406738,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:21": {
+    "fanwiki-screen-oct14:19": {
      "title": "Bewitched In Tokyo",
      "year": "2004",
      "subtitle": "(Episode 3)",
@@ -406741,13 +406773,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2698,
+   "id": 2696,
    "title": "Beyond Reality",
    "subtitle": "The Loving Cup (Season 2, Episode 17)",
    "year": "1991",
-   "meta": "TV · language not stated",
+   "meta": "TV · English",
    "mechanism": "Brainwashing, Love Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "University parapsychologists Laura Wingate and J.J. Stillman investigate reports of ghosts, out-of-body experiences, telekinesis and other unexplained phenomena that occur in ordinary people's lives. Young Celia later joins them. The Loving Cup (Season 2, Episode 17): At an estate auction, Laura, J.J., Celia and Tom Fairbanks run into Swami Raku, who’s planning to run a scam on rich, stuffy matron Margaret Dupar. The scam involves the purchase of a crystal chalice which supposedly puths the people under a love spell. What no one realizes is that the magic of the chalice is real– anyone who reads its inscription falls instantly in love with the first person they look at. What ensues is a bedroom farce in which Celia falls in love for Tom, Mrs. Dupar for J.J., Laura and the swami with each other, and J.J. with himself. I Scene: Celia reads the inscription. She looks at Tom... ... and falls in love under the influence of the chalice. Under the spell's influence, she confesses her feelings to Tom. Laura reads the inscription. Under the influence of the spell, she falls in love for Swami.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -406769,6 +406801,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Beyond Reality",
      "url": "https://mentalblock.miraheze.org/wiki/Beyond_Reality"
+    },
+    {
+     "label": "Wikipedia: Beyond Reality (TV series)",
+     "url": "https://en.wikipedia.org/wiki/Beyond_Reality_(TV_series)"
     }
    ],
    "youtube_ids": [],
@@ -406776,7 +406812,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:22"
+    "fanwiki-screen-oct14:20"
    ],
    "index_only": false,
    "local_only": true,
@@ -406784,15 +406820,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:22": {
+    "fanwiki-screen-oct14:20": {
      "title": "Beyond Reality",
      "year": "1991",
      "subtitle": "The Loving Cup (Season 2, Episode 17)",
      "format": "tv",
      "standalone": true,
-     "meta": "TV · language not stated",
+     "meta": "TV · English",
      "mechanism": "Brainwashing, Love Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "University parapsychologists Laura Wingate and J.J. Stillman investigate reports of ghosts, out-of-body experiences, telekinesis and other unexplained phenomena that occur in ordinary people's lives. Young Celia later joins them. The Loving Cup (Season 2, Episode 17): At an estate auction, Laura, J.J., Celia and Tom Fairbanks run into Swami Raku, who’s planning to run a scam on rich, stuffy matron Margaret Dupar. The scam involves the purchase of a crystal chalice which supposedly puths the people under a love spell. What no one realizes is that the magic of the chalice is real– anyone who reads its inscription falls instantly in love with the first person they look at. What ensues is a bedroom farce in which Celia falls in love for Tom, Mrs. Dupar for J.J., Laura and the swami with each other, and J.J. with himself. I Scene: Celia reads the inscription. She looks at Tom... ... and falls in love under the influence of the chalice. Under the spell's influence, she confesses her feelings to Tom. Laura reads the inscription. Under the influence of the spell, she falls in love for Swami.",
      "character": "",
      "categories": [
@@ -406803,6 +406839,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Beyond Reality",
        "url": "https://mentalblock.miraheze.org/wiki/Beyond_Reality"
+      },
+      {
+       "label": "Wikipedia: Beyond Reality (TV series)",
+       "url": "https://en.wikipedia.org/wiki/Beyond_Reality_(TV_series)"
       }
      ],
      "pregnant_end": "not stated",
@@ -406819,7 +406859,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2699,
+   "id": 2697,
    "title": "Bez Bebek",
    "subtitle": "Episode 13",
    "year": "2007",
@@ -406853,7 +406893,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:23"
+    "fanwiki-screen-oct14:21"
    ],
    "index_only": false,
    "local_only": true,
@@ -406861,7 +406901,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:23": {
+    "fanwiki-screen-oct14:21": {
      "title": "Bez Bebek",
      "year": "2007",
      "subtitle": "Episode 13",
@@ -406895,7 +406935,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2700,
+   "id": 2698,
    "title": "Big Band Clan",
    "subtitle": "Abajo Control (Season 1, Episode 12)",
    "year": "2015",
@@ -406931,7 +406971,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:24"
+    "fanwiki-screen-oct14:22"
    ],
    "index_only": false,
    "local_only": true,
@@ -406939,7 +406979,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:24": {
+    "fanwiki-screen-oct14:22": {
      "title": "Big Band Clan",
      "year": "2015",
      "subtitle": "Abajo Control (Season 1, Episode 12)",
@@ -406975,13 +407015,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2701,
+   "id": 2699,
    "title": "Bigfoot and Wildboy",
    "subtitle": "\"\"Return Of The Vampire\"\" (Season 2, Episode 10)",
    "year": "1977",
    "meta": "TV · language not stated",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Bigfoot finds a young boy lost in the vast wilderness of the Northwestern United States. Bigfoot raises the boy who becomes known as Wildboy. Now, eight years later, they fight crime and aliens who show up around their forest home. \"\"Return Of The Vampire\"\" (Season 2, Episode 10): Bigfoot and Wildboy must hold a vampire queen. Scene: The miners are turned into a mindless slave. the vampire's slaves corner Cindy. Cindy is stalked by the vampire The vampire bites Cindy. Cindy is turned into a obedient slave. After Wildboy imprisons the vampire again in her coffin, the miners wake up from the hypnotic trance... ...just like Cindy.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -407002,6 +407042,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Bigfoot and Wildboy",
      "url": "https://mentalblock.miraheze.org/wiki/Bigfoot_and_Wildboy"
+    },
+    {
+     "label": "Wikipedia: Bigfoot and Wildboy",
+     "url": "https://en.wikipedia.org/wiki/Bigfoot_and_Wildboy"
     }
    ],
    "youtube_ids": [],
@@ -407009,7 +407053,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:25"
+    "fanwiki-screen-oct14:23"
    ],
    "index_only": false,
    "local_only": true,
@@ -407017,7 +407061,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:25": {
+    "fanwiki-screen-oct14:23": {
      "title": "Bigfoot and Wildboy",
      "year": "1977",
      "subtitle": "\"\"Return Of The Vampire\"\" (Season 2, Episode 10)",
@@ -407025,7 +407069,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · language not stated",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Bigfoot finds a young boy lost in the vast wilderness of the Northwestern United States. Bigfoot raises the boy who becomes known as Wildboy. Now, eight years later, they fight crime and aliens who show up around their forest home. \"\"Return Of The Vampire\"\" (Season 2, Episode 10): Bigfoot and Wildboy must hold a vampire queen. Scene: The miners are turned into a mindless slave. the vampire's slaves corner Cindy. Cindy is stalked by the vampire The vampire bites Cindy. Cindy is turned into a obedient slave. After Wildboy imprisons the vampire again in her coffin, the miners wake up from the hypnotic trance... ...just like Cindy.",
      "character": "",
      "categories": [
@@ -407035,6 +407079,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Bigfoot and Wildboy",
        "url": "https://mentalblock.miraheze.org/wiki/Bigfoot_and_Wildboy"
+      },
+      {
+       "label": "Wikipedia: Bigfoot and Wildboy",
+       "url": "https://en.wikipedia.org/wiki/Bigfoot_and_Wildboy"
       }
      ],
      "pregnant_end": "not stated",
@@ -407051,13 +407099,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2702,
+   "id": 2700,
    "title": "Bionic Woman",
    "subtitle": "Brain Wash (Season 3, Episode 8)",
    "year": "1976–1978",
    "meta": "TV · English",
    "mechanism": "Brainwashing, Chemical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Brain Wash (Season 3, Episode 8): Oscar's secretary Peggy Callahan (Jennifer Darling) gushes about her new boyfriend John (Michael Callan) and his hair salon. Jaime goes to the hair salon with her, only to overhear Peggy spilling classified secrets to John. Oscar fires Peggy, who insists that she's innocent. A suspicious Jaime investigates the hair salon and discovers that John is mixing a hypnotic 'truth serum' compound into his shampoo to force his clients, all secretaries and wives of important government officials, to pass along all sorts of valuable secrets. Unfortunately for Jaime, John",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -407079,6 +407127,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Bionic Woman",
      "url": "https://mentalblock.miraheze.org/wiki/Bionic_Woman"
+    },
+    {
+     "label": "Wikipedia: The Bionic Woman",
+     "url": "https://en.wikipedia.org/wiki/The_Bionic_Woman"
     }
    ],
    "youtube_ids": [],
@@ -407086,7 +407138,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:26"
+    "fanwiki-screen-oct14:24"
    ],
    "index_only": false,
    "local_only": true,
@@ -407094,7 +407146,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:26": {
+    "fanwiki-screen-oct14:24": {
      "title": "Bionic Woman",
      "year": "1976–1978",
      "subtitle": "Brain Wash (Season 3, Episode 8)",
@@ -407102,7 +407154,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Brainwashing, Chemical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Brain Wash (Season 3, Episode 8): Oscar's secretary Peggy Callahan (Jennifer Darling) gushes about her new boyfriend John (Michael Callan) and his hair salon. Jaime goes to the hair salon with her, only to overhear Peggy spilling classified secrets to John. Oscar fires Peggy, who insists that she's innocent. A suspicious Jaime investigates the hair salon and discovers that John is mixing a hypnotic 'truth serum' compound into his shampoo to force his clients, all secretaries and wives of important government officials, to pass along all sorts of valuable secrets. Unfortunately for Jaime, John",
      "character": "",
      "categories": [
@@ -407113,6 +407165,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Bionic Woman",
        "url": "https://mentalblock.miraheze.org/wiki/Bionic_Woman"
+      },
+      {
+       "label": "Wikipedia: The Bionic Woman",
+       "url": "https://en.wikipedia.org/wiki/The_Bionic_Woman"
       }
      ],
      "pregnant_end": "not stated",
@@ -407129,13 +407185,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2703,
+   "id": 2701,
    "title": "Bird Box Barcelona",
    "subtitle": "",
    "year": "2023",
    "meta": "Film · language not stated",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "The world is plagued by mysterious alien entities that manipulate people's minds, brainwashing some into \"seers\" but leading most people to die by suicide once they have seen an entity.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -407158,6 +407214,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Bird Box Barcelona",
      "url": "https://mentalblock.miraheze.org/wiki/Bird_Box_Barcelona"
+    },
+    {
+     "label": "Wikipedia: Bird Box Barcelona",
+     "url": "https://en.wikipedia.org/wiki/Bird_Box_Barcelona"
     }
    ],
    "youtube_ids": [],
@@ -407165,7 +407225,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:27"
+    "fanwiki-screen-oct14:25"
    ],
    "index_only": false,
    "local_only": true,
@@ -407173,7 +407233,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:27": {
+    "fanwiki-screen-oct14:25": {
      "title": "Bird Box Barcelona",
      "year": "2023",
      "subtitle": "",
@@ -407181,7 +407241,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · language not stated",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "The world is plagued by mysterious alien entities that manipulate people's minds, brainwashing some into \"seers\" but leading most people to die by suicide once they have seen an entity.",
      "character": "",
      "categories": [
@@ -407191,6 +407251,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Bird Box Barcelona",
        "url": "https://mentalblock.miraheze.org/wiki/Bird_Box_Barcelona"
+      },
+      {
+       "label": "Wikipedia: Bird Box Barcelona",
+       "url": "https://en.wikipedia.org/wiki/Bird_Box_Barcelona"
       }
      ],
      "pregnant_end": "not stated",
@@ -407209,7 +407273,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2704,
+   "id": 2702,
    "title": "Black Circle",
    "subtitle": "",
    "year": "2018",
@@ -407244,7 +407308,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:28"
+    "fanwiki-screen-oct14:26"
    ],
    "index_only": false,
    "local_only": true,
@@ -407252,7 +407316,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:28": {
+    "fanwiki-screen-oct14:26": {
      "title": "Black Circle",
      "year": "2018",
      "subtitle": "",
@@ -407287,13 +407351,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2705,
+   "id": 2703,
    "title": "Black Magic 2 (1976 Hong Kong film)",
    "subtitle": "",
    "year": "1976",
-   "meta": "Film · Cantonese",
+   "meta": "Film · Mandarin",
    "mechanism": "Brainwashing, Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Doctors dealing with patients notice something weird going on, such as zombies with spikes in their heads and when removed, they melt down, patients vomiting up worms, spontaneous combustions, exploding bodies, demon fetuses and the disappearance of entranced women. A male-witch is responsible for all these calamities, but no doctor believes this. Someone must go out there to stop him and prove that he caused all the gory, bizarre crises. Scene: Kang Kong enters his house with a young woman. The woman is in a trance. The cruel sorcerer takes off the girl's clothes... ... leaving her naked. The girl is actually a mindless zombie... ... who reveals his true form when the sorcerer pulls out the nail hidden in her hair. Margarete wakes up under the effect of Kang Kong's hypnotic spell. In a trance, she leaves her home to find the sorcerer.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -407315,6 +407379,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Black Magic 2 (1976 Hong Kong film)",
      "url": "https://mentalblock.miraheze.org/wiki/Black_Magic_2_(1976_Hong_Kong_film)"
+    },
+    {
+     "label": "Wikipedia: Black Magic (1975 film)",
+     "url": "https://en.wikipedia.org/wiki/Black_Magic_(1975_film)"
     }
    ],
    "youtube_ids": [],
@@ -407322,7 +407390,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:29"
+    "fanwiki-screen-oct14:27"
    ],
    "index_only": false,
    "local_only": true,
@@ -407330,15 +407398,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:29": {
+    "fanwiki-screen-oct14:27": {
      "title": "Black Magic 2 (1976 Hong Kong film)",
      "year": "1976",
      "subtitle": "",
      "format": "movie",
      "standalone": true,
-     "meta": "Film · Cantonese",
+     "meta": "Film · Mandarin",
      "mechanism": "Brainwashing, Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Doctors dealing with patients notice something weird going on, such as zombies with spikes in their heads and when removed, they melt down, patients vomiting up worms, spontaneous combustions, exploding bodies, demon fetuses and the disappearance of entranced women. A male-witch is responsible for all these calamities, but no doctor believes this. Someone must go out there to stop him and prove that he caused all the gory, bizarre crises. Scene: Kang Kong enters his house with a young woman. The woman is in a trance. The cruel sorcerer takes off the girl's clothes... ... leaving her naked. The girl is actually a mindless zombie... ... who reveals his true form when the sorcerer pulls out the nail hidden in her hair. Margarete wakes up under the effect of Kang Kong's hypnotic spell. In a trance, she leaves her home to find the sorcerer.",
      "character": "",
      "categories": [
@@ -407348,6 +407416,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Black Magic 2 (1976 Hong Kong film)",
        "url": "https://mentalblock.miraheze.org/wiki/Black_Magic_2_(1976_Hong_Kong_film)"
+      },
+      {
+       "label": "Wikipedia: Black Magic (1975 film)",
+       "url": "https://en.wikipedia.org/wiki/Black_Magic_(1975_film)"
       }
      ],
      "pregnant_end": "not stated",
@@ -407365,13 +407437,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2706,
+   "id": 2704,
    "title": "Black Widow",
    "subtitle": "",
    "year": "2021",
    "meta": "Film · English",
    "mechanism": "Brainwashing, Chemical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "In 1995, super soldier Alexei Shostakov and Black Widow Melina Vostokoff work as Russian undercover agents, posing as a family in Ohio with Natasha Romanoff and Yelena Belova as their daughters. They steal S.H.I.E.L.D. intel and escape to Cuba where their boss, General Dreykov, has Romanoff and Belova taken to the Red Room for training. In the following decades, Shostakov is imprisoned in Russia while Romanoff and Belova become successful, dangerous assassins. Romanoff eventually defects to S.H. Scene: Under Red Room's control, Yelena kills a renegade Black widow. on her dying breath, the renegade black widow sprays the antidote on Yelena. Yelena is free from the Red Room's control. Mind controlled, a widow point her bracelet gun at Natasha. From the control room, Dreykov commands the widow to commit suicide. She obeys, and kill herself. a group of brainwashed black widows training in the Red Room. Dreykov reveals to Natasha that his daughter Antonia survived, and was brainwashed into becoming the taskmaster.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -407394,6 +407466,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Black Widow",
      "url": "https://mentalblock.miraheze.org/wiki/Black_Widow"
+    },
+    {
+     "label": "Wikipedia: Black Widow (2021 film)",
+     "url": "https://en.wikipedia.org/wiki/Black_Widow_(2021_film)"
     }
    ],
    "youtube_ids": [],
@@ -407401,7 +407477,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:30"
+    "fanwiki-screen-oct14:28"
    ],
    "index_only": false,
    "local_only": true,
@@ -407409,7 +407485,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:30": {
+    "fanwiki-screen-oct14:28": {
      "title": "Black Widow",
      "year": "2021",
      "subtitle": "",
@@ -407417,7 +407493,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Brainwashing, Chemical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "In 1995, super soldier Alexei Shostakov and Black Widow Melina Vostokoff work as Russian undercover agents, posing as a family in Ohio with Natasha Romanoff and Yelena Belova as their daughters. They steal S.H.I.E.L.D. intel and escape to Cuba where their boss, General Dreykov, has Romanoff and Belova taken to the Red Room for training. In the following decades, Shostakov is imprisoned in Russia while Romanoff and Belova become successful, dangerous assassins. Romanoff eventually defects to S.H. Scene: Under Red Room's control, Yelena kills a renegade Black widow. on her dying breath, the renegade black widow sprays the antidote on Yelena. Yelena is free from the Red Room's control. Mind controlled, a widow point her bracelet gun at Natasha. From the control room, Dreykov commands the widow to commit suicide. She obeys, and kill herself. a group of brainwashed black widows training in the Red Room. Dreykov reveals to Natasha that his daughter Antonia survived, and was brainwashed into becoming the taskmaster.",
      "character": "",
      "categories": [
@@ -407428,6 +407504,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Black Widow",
        "url": "https://mentalblock.miraheze.org/wiki/Black_Widow"
+      },
+      {
+       "label": "Wikipedia: Black Widow (2021 film)",
+       "url": "https://en.wikipedia.org/wiki/Black_Widow_(2021_film)"
       }
      ],
      "pregnant_end": "not stated",
@@ -407445,13 +407525,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2707,
+   "id": 2705,
    "title": "Blood of Dracula",
    "subtitle": "",
    "year": "1957",
-   "meta": "Film · language not stated",
+   "meta": "Film · English",
    "mechanism": "Magical Hypnosis, Traditional Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Six weeks after the death of her mother, Nancy Perkins' father (Thomas B. Henry) marries Doris (Jeanne Dean) and decides to enroll the 18-year-old Nancy (Sandra Harrison) into a boarding school, the Sherwood School for Girls. They are greeted by the principal, Mrs. Thorndyke (Mary Adams), who emphasizes to Nancy that the school is not a corrective institution but a private preparatory school with a very good reputation. Nancy is immediately harassed by her dormmates that night and at breakfast t Scene: Branding hypnotizes Nancy with the amulet Nancy is hypnotized Nancy wakes up from the trance with no pain in her hand, and complacent with Branding. Branding uses her magic amulet Nancy falls into a trance and turns into a monstruous vampire Nancy kills Branding",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -407475,6 +407555,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Blood of Dracula (1957 film)",
      "url": "https://mentalblock.miraheze.org/wiki/Blood_of_Dracula_(1957_film)"
+    },
+    {
+     "label": "Wikipedia: Blood of Dracula",
+     "url": "https://en.wikipedia.org/wiki/Blood_of_Dracula"
     }
    ],
    "youtube_ids": [],
@@ -407482,7 +407566,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:31"
+    "fanwiki-screen-oct14:29"
    ],
    "index_only": false,
    "local_only": true,
@@ -407490,15 +407574,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:31": {
+    "fanwiki-screen-oct14:29": {
      "title": "Blood of Dracula",
      "year": "1957",
      "subtitle": "",
      "format": "movie",
      "standalone": true,
-     "meta": "Film · language not stated",
+     "meta": "Film · English",
      "mechanism": "Magical Hypnosis, Traditional Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Six weeks after the death of her mother, Nancy Perkins' father (Thomas B. Henry) marries Doris (Jeanne Dean) and decides to enroll the 18-year-old Nancy (Sandra Harrison) into a boarding school, the Sherwood School for Girls. They are greeted by the principal, Mrs. Thorndyke (Mary Adams), who emphasizes to Nancy that the school is not a corrective institution but a private preparatory school with a very good reputation. Nancy is immediately harassed by her dormmates that night and at breakfast t Scene: Branding hypnotizes Nancy with the amulet Nancy is hypnotized Nancy wakes up from the trance with no pain in her hand, and complacent with Branding. Branding uses her magic amulet Nancy falls into a trance and turns into a monstruous vampire Nancy kills Branding",
      "character": "",
      "categories": [
@@ -407510,6 +407594,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Blood of Dracula (1957 film)",
        "url": "https://mentalblock.miraheze.org/wiki/Blood_of_Dracula_(1957_film)"
+      },
+      {
+       "label": "Wikipedia: Blood of Dracula",
+       "url": "https://en.wikipedia.org/wiki/Blood_of_Dracula"
       }
      ],
      "pregnant_end": "not stated",
@@ -407527,7 +407615,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2708,
+   "id": 2706,
    "title": "Bone Chillers",
    "subtitle": "Mummy Dearest (Season 1, Episode 5)",
    "year": "1996",
@@ -407561,7 +407649,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:32"
+    "fanwiki-screen-oct14:30"
    ],
    "index_only": false,
    "local_only": true,
@@ -407569,7 +407657,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:32": {
+    "fanwiki-screen-oct14:30": {
      "title": "Bone Chillers",
      "year": "1996",
      "subtitle": "Mummy Dearest (Season 1, Episode 5)",
@@ -407603,13 +407691,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2709,
+   "id": 2707,
    "title": "California Dreams",
    "subtitle": "Ciao, Jenny (Season 2, Episode 02)",
    "year": "1992",
    "meta": "TV · English",
    "mechanism": "Comedic Hypnosis, Traditional Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Siblings form a rock band with two friends. Ciao, Jenny (Season 2, Episode 02): Jenny is offered the chance to audition for a prestigious music school in Rome, but because Jake has started to fall on love for her, he gets Sly to help him sabotage her performance with hypnosis. Scene: Sly demonstrates his hypnotic abilities by putting Jake's father into a trance. Hypnotized, Jenny plays an eccentric piece of music at her audition, but it pleases the judges and she is approved.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -407631,6 +407719,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: California Dreams",
      "url": "https://mentalblock.miraheze.org/wiki/California_Dreams"
+    },
+    {
+     "label": "Wikipedia: California Dreams",
+     "url": "https://en.wikipedia.org/wiki/California_Dreams"
     }
    ],
    "youtube_ids": [],
@@ -407638,7 +407730,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:33"
+    "fanwiki-screen-oct14:31"
    ],
    "index_only": false,
    "local_only": true,
@@ -407646,7 +407738,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:33": {
+    "fanwiki-screen-oct14:31": {
      "title": "California Dreams",
      "year": "1992",
      "subtitle": "Ciao, Jenny (Season 2, Episode 02)",
@@ -407654,7 +407746,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Comedic Hypnosis, Traditional Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Siblings form a rock band with two friends. Ciao, Jenny (Season 2, Episode 02): Jenny is offered the chance to audition for a prestigious music school in Rome, but because Jake has started to fall on love for her, he gets Sly to help him sabotage her performance with hypnosis. Scene: Sly demonstrates his hypnotic abilities by putting Jake's father into a trance. Hypnotized, Jenny plays an eccentric piece of music at her audition, but it pleases the judges and she is approved.",
      "character": "",
      "categories": [
@@ -407665,6 +407757,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: California Dreams",
        "url": "https://mentalblock.miraheze.org/wiki/California_Dreams"
+      },
+      {
+       "label": "Wikipedia: California Dreams",
+       "url": "https://en.wikipedia.org/wiki/California_Dreams"
       }
      ],
      "pregnant_end": "not stated",
@@ -407681,13 +407777,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2710,
+   "id": 2708,
    "title": "Captain America (1944 movie serial)",
    "subtitle": "Mechanical Executioner (Episode 2)",
    "year": "1944",
-   "meta": "TV · language not stated",
+   "meta": "TV · English",
    "mechanism": "Brainwashing, Chemical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Although Captain America had already been established by Timely Comics as super-soldier Steve Rogers, Republic Pictures rewrote the character as District Attorney Grant Gardner, a gun-toting costumed crimefighter. In the serial, he investigates the mysterious deaths of several scientists and businessmen. Doctor Maldor, AKA \"The Scarab\" (Atwill) is using a hypnotic drug to force the men to kill themselves. His initial motive is simply revenge, but when he learns that one of his would-be victims h Mechanical Executioner (Episode 2): The Scarab greets Gardner's secretary/sidekick Gail Richards (Gray) outside of her office, and uses a needle-tipped ring to inject her with his hypnotic drug. In a trance, she reveals information about Professor Dodge (Hugh Sothern), one of his targets. The Scarab programs Gail to phone the policeman guarding Dodge to tell him to expect two detectives from the DA's office; in reality, the two men who show up are The Scarab's goons, who kidnap Dodge and lay a deadly trap for Gardner.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -407709,6 +407805,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Captain America (1944 movie serial)",
      "url": "https://mentalblock.miraheze.org/wiki/Captain_America_(1944_movie_serial)"
+    },
+    {
+     "label": "Wikipedia: Captain America (serial)",
+     "url": "https://en.wikipedia.org/wiki/Captain_America_(serial)"
     }
    ],
    "youtube_ids": [],
@@ -407716,7 +407816,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:34"
+    "fanwiki-screen-oct14:32"
    ],
    "index_only": false,
    "local_only": true,
@@ -407724,15 +407824,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:34": {
+    "fanwiki-screen-oct14:32": {
      "title": "Captain America (1944 movie serial)",
      "year": "1944",
      "subtitle": "Mechanical Executioner (Episode 2)",
      "format": "tv",
      "standalone": true,
-     "meta": "TV · language not stated",
+     "meta": "TV · English",
      "mechanism": "Brainwashing, Chemical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Although Captain America had already been established by Timely Comics as super-soldier Steve Rogers, Republic Pictures rewrote the character as District Attorney Grant Gardner, a gun-toting costumed crimefighter. In the serial, he investigates the mysterious deaths of several scientists and businessmen. Doctor Maldor, AKA \"The Scarab\" (Atwill) is using a hypnotic drug to force the men to kill themselves. His initial motive is simply revenge, but when he learns that one of his would-be victims h Mechanical Executioner (Episode 2): The Scarab greets Gardner's secretary/sidekick Gail Richards (Gray) outside of her office, and uses a needle-tipped ring to inject her with his hypnotic drug. In a trance, she reveals information about Professor Dodge (Hugh Sothern), one of his targets. The Scarab programs Gail to phone the policeman guarding Dodge to tell him to expect two detectives from the DA's office; in reality, the two men who show up are The Scarab's goons, who kidnap Dodge and lay a deadly trap for Gardner.",
      "character": "",
      "categories": [
@@ -407743,6 +407843,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Captain America (1944 movie serial)",
        "url": "https://mentalblock.miraheze.org/wiki/Captain_America_(1944_movie_serial)"
+      },
+      {
+       "label": "Wikipedia: Captain America (serial)",
+       "url": "https://en.wikipedia.org/wiki/Captain_America_(serial)"
       }
      ],
      "pregnant_end": "not stated",
@@ -407759,13 +407863,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2711,
+   "id": 2709,
    "title": "Captain Kronos - Vampire Hunter",
    "subtitle": "",
    "year": "1974",
    "meta": "Film · English",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "When the young people of a small village start turning up dead, having seeming aged decades overnight, local doctor Marcus (Carson) calls in his friend Captain Kronos, a professional monster-hunter. Kronos and his assistant, Professor Grost (Cater), determine that the victims were killed by a vampire who steals youth, not blood, from its victims. Suspicion falls on the late Lord Dunward's children Paul (Shane Bryant) and Sara (Lois Daine), who are both young and beautiful. Kronos sends his frien Scene: Carla looks into Lady Dunward's eyes Lady Dunward hypnotizes Carla Carla is under Lady Dunward's control Under the vampire's control, Carla stands up. Carla in a trance Mesmerized, Carla is about to serve as food for vampires. Lady Dunward confronts her children, while Carla remains hypnotically frozen in the background. Lady Dunward turns her gaze on her children",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -407788,6 +407892,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Captain Kronos - Vampire Hunter",
      "url": "https://mentalblock.miraheze.org/wiki/Captain_Kronos_-_Vampire_Hunter"
+    },
+    {
+     "label": "Wikipedia: Captain Kronos – Vampire Hunter",
+     "url": "https://en.wikipedia.org/wiki/Captain_Kronos_–_Vampire_Hunter"
     }
    ],
    "youtube_ids": [],
@@ -407795,7 +407903,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:35"
+    "fanwiki-screen-oct14:33"
    ],
    "index_only": false,
    "local_only": true,
@@ -407803,7 +407911,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:35": {
+    "fanwiki-screen-oct14:33": {
      "title": "Captain Kronos - Vampire Hunter",
      "year": "1974",
      "subtitle": "",
@@ -407811,7 +407919,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "When the young people of a small village start turning up dead, having seeming aged decades overnight, local doctor Marcus (Carson) calls in his friend Captain Kronos, a professional monster-hunter. Kronos and his assistant, Professor Grost (Cater), determine that the victims were killed by a vampire who steals youth, not blood, from its victims. Suspicion falls on the late Lord Dunward's children Paul (Shane Bryant) and Sara (Lois Daine), who are both young and beautiful. Kronos sends his frien Scene: Carla looks into Lady Dunward's eyes Lady Dunward hypnotizes Carla Carla is under Lady Dunward's control Under the vampire's control, Carla stands up. Carla in a trance Mesmerized, Carla is about to serve as food for vampires. Lady Dunward confronts her children, while Carla remains hypnotically frozen in the background. Lady Dunward turns her gaze on her children",
      "character": "",
      "categories": [
@@ -407822,6 +407930,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Captain Kronos - Vampire Hunter",
        "url": "https://mentalblock.miraheze.org/wiki/Captain_Kronos_-_Vampire_Hunter"
+      },
+      {
+       "label": "Wikipedia: Captain Kronos – Vampire Hunter",
+       "url": "https://en.wikipedia.org/wiki/Captain_Kronos_–_Vampire_Hunter"
       }
      ],
      "pregnant_end": "not stated",
@@ -407839,13 +407951,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2712,
+   "id": 2710,
    "title": "Castle Rock",
    "subtitle": "2x07- \"The Word\" / 2x08- \"Dirty\" / 2x10- \"Clean\"",
    "year": "2018",
    "meta": "TV · English",
    "mechanism": "Magical Hypnosis, Possession",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Castle Rock combines \"the mythological scale and intimate character storytelling of King’s best-loved works, weaving an epic saga of darkness and light, played out on a few square miles of Maine woodland.\" 2x07- \"The Word\": In extended flashback to four hundred years prior, a group of French settlers in New Jerusalem are starving until one of them, Amity, has an encounter with a hooded \"angel\" and returns with food, land fertility, and a new religion. Those who reject the new religion are killed. Amity is eventually commanded by the angel that all of them must die in ritualistic murder and await resurrection in four hundred years. The last to be killed is Amity's lover, Pere Augustin, who is the first to be resurrected in the present day in the vessel of Ace Merrill. The Marsten House is being r",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -407867,6 +407979,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Castle Rock",
      "url": "https://mentalblock.miraheze.org/wiki/Castle_Rock"
+    },
+    {
+     "label": "Wikipedia: Castle Rock (TV series)",
+     "url": "https://en.wikipedia.org/wiki/Castle_Rock_(TV_series)"
     }
    ],
    "youtube_ids": [],
@@ -407874,7 +407990,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:36"
+    "fanwiki-screen-oct14:34"
    ],
    "index_only": false,
    "local_only": true,
@@ -407882,7 +407998,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:36": {
+    "fanwiki-screen-oct14:34": {
      "title": "Castle Rock",
      "year": "2018",
      "subtitle": "2x07- \"The Word\" / 2x08- \"Dirty\" / 2x10- \"Clean\"",
@@ -407890,7 +408006,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Magical Hypnosis, Possession",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Castle Rock combines \"the mythological scale and intimate character storytelling of King’s best-loved works, weaving an epic saga of darkness and light, played out on a few square miles of Maine woodland.\" 2x07- \"The Word\": In extended flashback to four hundred years prior, a group of French settlers in New Jerusalem are starving until one of them, Amity, has an encounter with a hooded \"angel\" and returns with food, land fertility, and a new religion. Those who reject the new religion are killed. Amity is eventually commanded by the angel that all of them must die in ritualistic murder and await resurrection in four hundred years. The last to be killed is Amity's lover, Pere Augustin, who is the first to be resurrected in the present day in the vessel of Ace Merrill. The Marsten House is being r",
      "character": "",
      "categories": [
@@ -407901,6 +408017,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Castle Rock",
        "url": "https://mentalblock.miraheze.org/wiki/Castle_Rock"
+      },
+      {
+       "label": "Wikipedia: Castle Rock (TV series)",
+       "url": "https://en.wikipedia.org/wiki/Castle_Rock_(TV_series)"
       }
      ],
      "pregnant_end": "not stated",
@@ -407917,13 +408037,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2713,
+   "id": 2711,
    "title": "Cat-Women of the Moon",
    "subtitle": "",
    "year": "1953",
    "meta": "Film · English",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Travelling in a spaceship e a scientific expedition to the Moon encounters a race of cat-women, the last survivors of a two-million-year-old lunar civilization. Residing in caverns, the cat-women have managed to maintain not only the remnants of a breathable atmosphere and Earth-like gravity, but also a pair of gigantic Moon-spiders. Realizing that their remaining atmosphere will soon be exhausted, the cat-women plan to steal the expedition's spaceship and return to Earth, where, in the words of Scene: Helen falls under the Cat-Women mind control In a trance, she introduces herself to the group. Helen tries to resist... But the alpha catwoman reinforces her hypnotic control over her. Helen is brainwashed by Alpha Under cat-women control, Helen tries to seduce her coworker.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -407946,6 +408066,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Cat-Women of the Moon",
      "url": "https://mentalblock.miraheze.org/wiki/Cat-Women_of_the_Moon"
+    },
+    {
+     "label": "Wikipedia: Cat-Women of the Moon",
+     "url": "https://en.wikipedia.org/wiki/Cat-Women_of_the_Moon"
     }
    ],
    "youtube_ids": [],
@@ -407953,7 +408077,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:37"
+    "fanwiki-screen-oct14:35"
    ],
    "index_only": false,
    "local_only": true,
@@ -407961,7 +408085,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:37": {
+    "fanwiki-screen-oct14:35": {
      "title": "Cat-Women of the Moon",
      "year": "1953",
      "subtitle": "",
@@ -407969,7 +408093,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Travelling in a spaceship e a scientific expedition to the Moon encounters a race of cat-women, the last survivors of a two-million-year-old lunar civilization. Residing in caverns, the cat-women have managed to maintain not only the remnants of a breathable atmosphere and Earth-like gravity, but also a pair of gigantic Moon-spiders. Realizing that their remaining atmosphere will soon be exhausted, the cat-women plan to steal the expedition's spaceship and return to Earth, where, in the words of Scene: Helen falls under the Cat-Women mind control In a trance, she introduces herself to the group. Helen tries to resist... But the alpha catwoman reinforces her hypnotic control over her. Helen is brainwashed by Alpha Under cat-women control, Helen tries to seduce her coworker.",
      "character": "",
      "categories": [
@@ -407980,6 +408104,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Cat-Women of the Moon",
        "url": "https://mentalblock.miraheze.org/wiki/Cat-Women_of_the_Moon"
+      },
+      {
+       "label": "Wikipedia: Cat-Women of the Moon",
+       "url": "https://en.wikipedia.org/wiki/Cat-Women_of_the_Moon"
       }
      ],
      "pregnant_end": "not stated",
@@ -407997,161 +408125,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2714,
-   "title": "Catweazle",
-   "subtitle": "1x02- \"Castle Saburac\"",
-   "year": "1969",
-   "meta": "TV · English",
-   "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-   "summary": "The premise in the first episode is that an 11th-century bumbling wizard named Catweazle (Geoffrey Bayldon) is pursued by soldiers through a wood, carrying only his magic charm and his toad familiar. He says a spell as he jumps into a pond. When he emerges from the pond he believes that he has flown from the woods; in fact he has jumped 900 years into the future. Catweazle arrives on a farm in rural England in the year 1969 and befriends a farmer's son, a ginger teenager named Edward Bennet, nic 1x02- \"Castle Saburac\": Catweazle is astonished - and frightened - by everything around him. Including the bath Carrot runs for him. Meanwhile, Sam is hot on his trail. Scene: Catweazle takes a bath in the tub... ...but is surprised by Carrot's mother. The magician puts the woman into a trance. He hypnotizes her with his magic amulet. In a trance, the woman agrees that the old man is invisible to her. Upon waking from the trance, Carrot's mother forgets having seen the wizard, and is unable to see him in front of her.",
-   "character": "",
-   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-   "note": "",
-   "tags": [
-    "Western Live Action"
-   ],
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-   "format": "tv",
-   "categories": [
-    "fantasy"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki: Catweazle",
-     "url": "https://mentalblock.miraheze.org/wiki/Catweazle"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "fanwiki-screen-oct14"
-   ],
-   "source_records": [
-    "fanwiki-screen-oct14:38"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "fanwiki-screen-oct14:38": {
-     "title": "Catweazle",
-     "year": "1969",
-     "subtitle": "1x02- \"Castle Saburac\"",
-     "format": "tv",
-     "standalone": true,
-     "meta": "TV · English",
-     "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-     "summary": "The premise in the first episode is that an 11th-century bumbling wizard named Catweazle (Geoffrey Bayldon) is pursued by soldiers through a wood, carrying only his magic charm and his toad familiar. He says a spell as he jumps into a pond. When he emerges from the pond he believes that he has flown from the woods; in fact he has jumped 900 years into the future. Catweazle arrives on a farm in rural England in the year 1969 and befriends a farmer's son, a ginger teenager named Edward Bennet, nic 1x02- \"Castle Saburac\": Catweazle is astonished - and frightened - by everything around him. Including the bath Carrot runs for him. Meanwhile, Sam is hot on his trail. Scene: Catweazle takes a bath in the tub... ...but is surprised by Carrot's mother. The magician puts the woman into a trance. He hypnotizes her with his magic amulet. In a trance, the woman agrees that the old man is invisible to her. Upon waking from the trance, Carrot's mother forgets having seen the wizard, and is unable to see him in front of her.",
-     "character": "",
-     "categories": [
-      "fantasy"
-     ],
-     "sources": [
-      {
-       "label": "Mental Block wiki: Catweazle",
-       "url": "https://mentalblock.miraheze.org/wiki/Catweazle"
-      }
-     ],
-     "pregnant_end": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "married": "not stated",
-     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-     "group": "Fan-wiki screen additions (Oct 2026)",
-     "tags": [
-      "Western Live Action"
-     ]
-    }
-   }
-  },
-  {
-   "id": 2715,
-   "title": "Children of the Corn III: Urban Harvest",
-   "subtitle": "",
-   "year": "1995",
-   "meta": "Film · English",
-   "mechanism": "Brainwashing, Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-   "summary": "Scene: A group of teenagers are brainwashed by the prophet of the one who walks behind the rows. the young woman is totally brainwashed... ... just like the young man. this girl is also hypnotized. The teenagers are freed from the influence of the prophet. They wake up from their trance with no memory of how they got there.",
-   "character": "",
-   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-   "note": "",
-   "tags": [
-    "Films Live-Action",
-    "Western Live Action"
-   ],
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-   "format": "movie",
-   "categories": [
-    "fantasy"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki: Children of the Corn III: Urban Harvest",
-     "url": "https://mentalblock.miraheze.org/wiki/Children_of_the_Corn_III:_Urban_Harvest"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "fanwiki-screen-oct14"
-   ],
-   "source_records": [
-    "fanwiki-screen-oct14:39"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "fanwiki-screen-oct14:39": {
-     "title": "Children of the Corn III: Urban Harvest",
-     "year": "1995",
-     "subtitle": "",
-     "format": "movie",
-     "standalone": true,
-     "meta": "Film · English",
-     "mechanism": "Brainwashing, Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-     "summary": "Scene: A group of teenagers are brainwashed by the prophet of the one who walks behind the rows. the young woman is totally brainwashed... ... just like the young man. this girl is also hypnotized. The teenagers are freed from the influence of the prophet. They wake up from their trance with no memory of how they got there.",
-     "character": "",
-     "categories": [
-      "fantasy"
-     ],
-     "sources": [
-      {
-       "label": "Mental Block wiki: Children of the Corn III: Urban Harvest",
-       "url": "https://mentalblock.miraheze.org/wiki/Children_of_the_Corn_III:_Urban_Harvest"
-      }
-     ],
-     "pregnant_end": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "married": "not stated",
-     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-     "group": "Fan-wiki screen additions (Oct 2026)",
-     "tags": [
-      "Films Live-Action",
-      "Western Live Action"
-     ]
-    }
-   }
-  },
-  {
-   "id": 2716,
+   "id": 2712,
    "title": "Choujin Sentai Jetman",
    "subtitle": "Ep. 8: The Laughing Diamond / Ep. 9: Muddy Love / Ep. 11: A Dangerous Game / Ep. 13: Maze of Love / Ep. 31: The Squadron",
    "year": "1991",
@@ -408185,7 +408159,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:40"
+    "fanwiki-screen-oct14:36"
    ],
    "index_only": false,
    "local_only": true,
@@ -408193,7 +408167,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:40": {
+    "fanwiki-screen-oct14:36": {
      "title": "Choujin Sentai Jetman",
      "year": "1991",
      "subtitle": "Ep. 8: The Laughing Diamond / Ep. 9: Muddy Love / Ep. 11: A Dangerous Game / Ep. 13: Maze of Love / Ep. 31: The Squadron",
@@ -408227,7 +408201,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2717,
+   "id": 2713,
    "title": "Choujuu Sentai Liveman",
    "subtitle": "Ep. 3: Obular Demonic Transformation / Ep. 9: Rose! Smell Feverish / Ep. 42: Bias' Challenge From Space / Ep. 47: A 1000",
    "year": "1988",
@@ -408262,7 +408236,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:41"
+    "fanwiki-screen-oct14:37"
    ],
    "index_only": false,
    "local_only": true,
@@ -408270,7 +408244,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:41": {
+    "fanwiki-screen-oct14:37": {
      "title": "Choujuu Sentai Liveman",
      "year": "1988",
      "subtitle": "Ep. 3: Obular Demonic Transformation / Ep. 9: Rose! Smell Feverish / Ep. 42: Bias' Challenge From Space / Ep. 47: A 1000",
@@ -408305,7 +408279,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2718,
+   "id": 2714,
    "title": "Choushinsei Flashman",
    "subtitle": "Ep. 14: Love!? Bun and the Female Gangster / Ep. 23: Heart-Throbbing Wishes! / Ep. 27: Dai's Punch of Friendship / Ep. 3",
    "year": "1986",
@@ -408339,7 +408313,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:42"
+    "fanwiki-screen-oct14:38"
    ],
    "index_only": false,
    "local_only": true,
@@ -408347,7 +408321,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:42": {
+    "fanwiki-screen-oct14:38": {
      "title": "Choushinsei Flashman",
      "year": "1986",
      "subtitle": "Ep. 14: Love!? Bun and the Female Gangster / Ep. 23: Heart-Throbbing Wishes! / Ep. 27: Dai's Punch of Friendship / Ep. 3",
@@ -408381,91 +408355,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2719,
-   "title": "Chucky",
-   "subtitle": "Dressed To Kill (Season 3, Episode 4) / Final Destination (Season 3, Episode 8)",
-   "year": "2021–2024",
-   "meta": "TV · English",
-   "mechanism": "Brainwashing, Magical Hypnosis, Possession",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-   "summary": "Chucky (voiced by Brad Dourif) is a living, homicidal doll, possessed by the soul of serial killer Charles Lee Ray. He reveals his true nature to Jake (Arthur), a teenager who purchases Chucky at a yard sale, but turns against Jake when the latter refuses to become a killer. Jake teams up with Devon (Arnarson) and Lexi (Lind) to stop Chucky as the doll resumes his serial killer ways. Things get bloodier when Chucky's ex-wife Tiffany (Jennifer Tilly), inhabiting the body of actress Jennifer Tilly Dressed To Kill (Season 3, Episode 4): Sentenced to death by lethal injection, Tiffany- still assumed by everyone else to be Jennifer Tilly- is sent to prison. There, she launches a plan to escape by ordering a \"Voodoo for Dummies\" book and a set of voodoo dolls. She tests a doll on imprisoned celebrity chef Evelyn (Nia Vardalos), forcing the woman to mutilate and kill herself. Now certain that her plan will work, she uses a second doll to hypnotize prison guard Erica (Rachael Ancheril), who becomes her loyal slave. Final Destination (Season 3, Episode 8): Erica does Tiffany's bidding and coll Scene: Tiffany bewitches a voodoo doll. She starts to control her rival in prison. Under the control of the voodoo spell, Tiffany's rival slits her own throat. A guard makes the mistake of spitting her gum into Tiffany's food, which she uses to bewitch her. The guard is hypnotized... ...and become",
-   "character": "",
-   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-   "note": "",
-   "tags": [
-    "Western Live Action"
-   ],
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-   "format": "tv",
-   "categories": [
-    "spirit",
-    "crime"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki: Chucky",
-     "url": "https://mentalblock.miraheze.org/wiki/Chucky"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "fanwiki-screen-oct14"
-   ],
-   "source_records": [
-    "fanwiki-screen-oct14:43"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "fanwiki-screen-oct14:43": {
-     "title": "Chucky",
-     "year": "2021–2024",
-     "subtitle": "Dressed To Kill (Season 3, Episode 4) / Final Destination (Season 3, Episode 8)",
-     "format": "tv",
-     "standalone": true,
-     "meta": "TV · English",
-     "mechanism": "Brainwashing, Magical Hypnosis, Possession",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-     "summary": "Chucky (voiced by Brad Dourif) is a living, homicidal doll, possessed by the soul of serial killer Charles Lee Ray. He reveals his true nature to Jake (Arthur), a teenager who purchases Chucky at a yard sale, but turns against Jake when the latter refuses to become a killer. Jake teams up with Devon (Arnarson) and Lexi (Lind) to stop Chucky as the doll resumes his serial killer ways. Things get bloodier when Chucky's ex-wife Tiffany (Jennifer Tilly), inhabiting the body of actress Jennifer Tilly Dressed To Kill (Season 3, Episode 4): Sentenced to death by lethal injection, Tiffany- still assumed by everyone else to be Jennifer Tilly- is sent to prison. There, she launches a plan to escape by ordering a \"Voodoo for Dummies\" book and a set of voodoo dolls. She tests a doll on imprisoned celebrity chef Evelyn (Nia Vardalos), forcing the woman to mutilate and kill herself. Now certain that her plan will work, she uses a second doll to hypnotize prison guard Erica (Rachael Ancheril), who becomes her loyal slave. Final Destination (Season 3, Episode 8): Erica does Tiffany's bidding and coll Scene: Tiffany bewitches a voodoo doll. She starts to control her rival in prison. Under the control of the voodoo spell, Tiffany's rival slits her own throat. A guard makes the mistake of spitting her gum into Tiffany's food, which she uses to bewitch her. The guard is hypnotized... ...and become",
-     "character": "",
-     "categories": [
-      "spirit",
-      "crime"
-     ],
-     "sources": [
-      {
-       "label": "Mental Block wiki: Chucky",
-       "url": "https://mentalblock.miraheze.org/wiki/Chucky"
-      }
-     ],
-     "pregnant_end": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "married": "not stated",
-     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-     "group": "Fan-wiki screen additions (Oct 2026)",
-     "tags": [
-      "Western Live Action"
-     ]
-    }
-   }
-  },
-  {
-   "id": 2720,
+   "id": 2715,
    "title": "Comin' Round the Mountain",
    "subtitle": "",
    "year": "1951",
-   "meta": "Film · language not stated",
+   "meta": "Film · English",
    "mechanism": "Brainwashing, Chemical Hypnosis, Love Hypnosis, Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Bud and Lou deals with hillbillies and witches. Trying to get the affection of Dorothy, Wilbert gets a Love Potion with a voodoo witch. The Potion works at beginning, but soon, the problems start. Scene: Wilbur offers Dorothy a drink laced with a love potion. She drinks without suspecting a thing. The potion is working. She finds herself irresistibly drawn to Wilbur. Under the influence of the potion, Dorothy kisses him. He gaves her more potion Under the influence of the potion, Dorothy becomes completely devoted to Wilbur. Wilbur accidentally drinks the potion.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -408488,6 +408384,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Comin' Round the Mountain",
      "url": "https://mentalblock.miraheze.org/wiki/Comin'_Round_the_Mountain"
+    },
+    {
+     "label": "Wikipedia: Comin' Round the Mountain",
+     "url": "https://en.wikipedia.org/wiki/Comin'_Round_the_Mountain"
     }
    ],
    "youtube_ids": [],
@@ -408495,7 +408395,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:44"
+    "fanwiki-screen-oct14:39"
    ],
    "index_only": false,
    "local_only": true,
@@ -408503,15 +408403,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:44": {
+    "fanwiki-screen-oct14:39": {
      "title": "Comin' Round the Mountain",
      "year": "1951",
      "subtitle": "",
      "format": "movie",
      "standalone": true,
-     "meta": "Film · language not stated",
+     "meta": "Film · English",
      "mechanism": "Brainwashing, Chemical Hypnosis, Love Hypnosis, Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Bud and Lou deals with hillbillies and witches. Trying to get the affection of Dorothy, Wilbert gets a Love Potion with a voodoo witch. The Potion works at beginning, but soon, the problems start. Scene: Wilbur offers Dorothy a drink laced with a love potion. She drinks without suspecting a thing. The potion is working. She finds herself irresistibly drawn to Wilbur. Under the influence of the potion, Dorothy kisses him. He gaves her more potion Under the influence of the potion, Dorothy becomes completely devoted to Wilbur. Wilbur accidentally drinks the potion.",
      "character": "",
      "categories": [
@@ -408522,6 +408422,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Comin' Round the Mountain",
        "url": "https://mentalblock.miraheze.org/wiki/Comin'_Round_the_Mountain"
+      },
+      {
+       "label": "Wikipedia: Comin' Round the Mountain",
+       "url": "https://en.wikipedia.org/wiki/Comin'_Round_the_Mountain"
       }
      ],
      "pregnant_end": "not stated",
@@ -408539,13 +408443,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2721,
+   "id": 2716,
    "title": "Conan the Adventurer",
    "subtitle": "The Heart of the Elephant, Part 1 (Season 1, Episode 1)",
    "year": "1997–1998",
-   "meta": "TV · German",
+   "meta": "TV · en-US It was produced by Max A. Keller and Micheline Keller ",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "The Heart of the Elephant, Part 1 (Season 1, Episode 1): Conan befriends a woman named Tamira (Kimberly Kelley), who takes him to her village. There Conan learns that he is destined to destroy Hissah Zuhl and free the people of Cimmeria. The village is attacked by Zuhl's goons, and the evil Yara (Steve Mattila) uses his magic to knock out Conan and hypnotize Tamira.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -408566,6 +408470,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Conan the Adventurer (1997 TV series)",
      "url": "https://mentalblock.miraheze.org/wiki/Conan_the_Adventurer_(1997_TV_series)"
+    },
+    {
+     "label": "Wikipedia: Conan the Adventurer (1997 TV series)",
+     "url": "https://en.wikipedia.org/wiki/Conan_the_Adventurer_(1997_TV_series)"
     }
    ],
    "youtube_ids": [],
@@ -408573,7 +408481,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:45"
+    "fanwiki-screen-oct14:40"
    ],
    "index_only": false,
    "local_only": true,
@@ -408581,15 +408489,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:45": {
+    "fanwiki-screen-oct14:40": {
      "title": "Conan the Adventurer",
      "year": "1997–1998",
      "subtitle": "The Heart of the Elephant, Part 1 (Season 1, Episode 1)",
      "format": "tv",
      "standalone": true,
-     "meta": "TV · German",
+     "meta": "TV · en-US It was produced by Max A. Keller and Micheline Keller ",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "The Heart of the Elephant, Part 1 (Season 1, Episode 1): Conan befriends a woman named Tamira (Kimberly Kelley), who takes him to her village. There Conan learns that he is destined to destroy Hissah Zuhl and free the people of Cimmeria. The village is attacked by Zuhl's goons, and the evil Yara (Steve Mattila) uses his magic to knock out Conan and hypnotize Tamira.",
      "character": "",
      "categories": [
@@ -408599,6 +408507,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Conan the Adventurer (1997 TV series)",
        "url": "https://mentalblock.miraheze.org/wiki/Conan_the_Adventurer_(1997_TV_series)"
+      },
+      {
+       "label": "Wikipedia: Conan the Adventurer (1997 TV series)",
+       "url": "https://en.wikipedia.org/wiki/Conan_the_Adventurer_(1997_TV_series)"
       }
      ],
      "pregnant_end": "not stated",
@@ -408615,13 +408527,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2722,
+   "id": 2717,
    "title": "Counterspy Meets Scotland Yard",
    "subtitle": "",
    "year": "1950",
    "meta": "Film · English",
    "mechanism": "Chemical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "When enemy agents obtain leaked secrets about a guided missile system, an American spy and a British investigator are teamed together to find the source. Scene: Karen is chemically hypnotized by an enemy agent to extract secret missile plans from the British government.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -408643,6 +408555,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Counterspy Meets Scotland Yard",
      "url": "https://mentalblock.miraheze.org/wiki/Counterspy_Meets_Scotland_Yard"
+    },
+    {
+     "label": "Wikipedia: Counterspy Meets Scotland Yard",
+     "url": "https://en.wikipedia.org/wiki/Counterspy_Meets_Scotland_Yard"
     }
    ],
    "youtube_ids": [],
@@ -408650,7 +408566,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:46"
+    "fanwiki-screen-oct14:41"
    ],
    "index_only": false,
    "local_only": true,
@@ -408658,7 +408574,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:46": {
+    "fanwiki-screen-oct14:41": {
      "title": "Counterspy Meets Scotland Yard",
      "year": "1950",
      "subtitle": "",
@@ -408666,7 +408582,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Chemical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "When enemy agents obtain leaked secrets about a guided missile system, an American spy and a British investigator are teamed together to find the source. Scene: Karen is chemically hypnotized by an enemy agent to extract secret missile plans from the British government.",
      "character": "",
      "categories": [
@@ -408676,6 +408592,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Counterspy Meets Scotland Yard",
        "url": "https://mentalblock.miraheze.org/wiki/Counterspy_Meets_Scotland_Yard"
+      },
+      {
+       "label": "Wikipedia: Counterspy Meets Scotland Yard",
+       "url": "https://en.wikipedia.org/wiki/Counterspy_Meets_Scotland_Yard"
       }
      ],
      "pregnant_end": "not stated",
@@ -408693,13 +408613,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2723,
+   "id": 2718,
    "title": "Creepy",
    "subtitle": "",
    "year": "2016",
    "meta": "Film · Japanese",
    "mechanism": "Brainwashing, Chemical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Takakura is a former detective. He receives a request from his ex-colleague, Nogami, to examine a missing family case that occurred six years earlier. Takakura follows Saki's memory. She is the only surviving family member from the case. Meanwhile, Takakura and his wife Yasuko recently moved into a new home. Their neighbor, Nishino, has a sick wife and a young teen daughter. One day, the daughter, Mio, tells him that the man is not her father and she doesn't know him at all. The mystery leads Ta Scene: Yasuko is hypnotized. Under Nishino's control, Yasuko drugs her husband. The hypnotized Yasuko drives the car that takes the villain and his brainwashed victims. Nishino orders Takakura to kill his own dog... But Takakuro anticipated Nishino's plan, and took an anti-hypnotic. He shoots the mind-controlling maniac.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -408723,6 +408643,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Creepy",
      "url": "https://mentalblock.miraheze.org/wiki/Creepy"
+    },
+    {
+     "label": "Wikipedia: Creepy (film)",
+     "url": "https://en.wikipedia.org/wiki/Creepy_(film)"
     }
    ],
    "youtube_ids": [],
@@ -408730,7 +408654,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:47"
+    "fanwiki-screen-oct14:42"
    ],
    "index_only": false,
    "local_only": true,
@@ -408738,7 +408662,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:47": {
+    "fanwiki-screen-oct14:42": {
      "title": "Creepy",
      "year": "2016",
      "subtitle": "",
@@ -408746,7 +408670,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · Japanese",
      "mechanism": "Brainwashing, Chemical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Takakura is a former detective. He receives a request from his ex-colleague, Nogami, to examine a missing family case that occurred six years earlier. Takakura follows Saki's memory. She is the only surviving family member from the case. Meanwhile, Takakura and his wife Yasuko recently moved into a new home. Their neighbor, Nishino, has a sick wife and a young teen daughter. One day, the daughter, Mio, tells him that the man is not her father and she doesn't know him at all. The mystery leads Ta Scene: Yasuko is hypnotized. Under Nishino's control, Yasuko drugs her husband. The hypnotized Yasuko drives the car that takes the villain and his brainwashed victims. Nishino orders Takakura to kill his own dog... But Takakuro anticipated Nishino's plan, and took an anti-hypnotic. He shoots the mind-controlling maniac.",
      "character": "",
      "categories": [
@@ -408758,6 +408682,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Creepy",
        "url": "https://mentalblock.miraheze.org/wiki/Creepy"
+      },
+      {
+       "label": "Wikipedia: Creepy (film)",
+       "url": "https://en.wikipedia.org/wiki/Creepy_(film)"
       }
      ],
      "pregnant_end": "not stated",
@@ -408775,13 +408703,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2724,
+   "id": 2719,
    "title": "Crossworlds",
    "subtitle": "Scene Summary",
    "year": "1996",
    "meta": "Film · English",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "The evil Ferris (Wilson) is searching for a crystal that, when combined with a magical scepter, will create a powerful device capable of allowing for easy travel between alternate universes. When Joe (Charles) meets Laura (Roth), she tells him that his late father was part of a group of heroes dedicated to stopping Ferris, and that the crystal Joe wears around his neck (a gift from his father) is the crystal that Ferris seeks. Together with wise mentor A.T. (Hauer), they try to protect the cryst Scene Summary: Ferris quietly hypnotizes Laura into revealing that Joe has the crystal.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -408803,6 +408731,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Crossworlds",
      "url": "https://mentalblock.miraheze.org/wiki/Crossworlds"
+    },
+    {
+     "label": "Wikipedia: Crossworlds",
+     "url": "https://en.wikipedia.org/wiki/Crossworlds"
     }
    ],
    "youtube_ids": [],
@@ -408810,7 +408742,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:48"
+    "fanwiki-screen-oct14:43"
    ],
    "index_only": false,
    "local_only": true,
@@ -408818,7 +408750,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:48": {
+    "fanwiki-screen-oct14:43": {
      "title": "Crossworlds",
      "year": "1996",
      "subtitle": "Scene Summary",
@@ -408826,7 +408758,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "The evil Ferris (Wilson) is searching for a crystal that, when combined with a magical scepter, will create a powerful device capable of allowing for easy travel between alternate universes. When Joe (Charles) meets Laura (Roth), she tells him that his late father was part of a group of heroes dedicated to stopping Ferris, and that the crystal Joe wears around his neck (a gift from his father) is the crystal that Ferris seeks. Together with wise mentor A.T. (Hauer), they try to protect the cryst Scene Summary: Ferris quietly hypnotizes Laura into revealing that Joe has the crystal.",
      "character": "",
      "categories": [
@@ -408836,6 +408768,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Crossworlds",
        "url": "https://mentalblock.miraheze.org/wiki/Crossworlds"
+      },
+      {
+       "label": "Wikipedia: Crossworlds",
+       "url": "https://en.wikipedia.org/wiki/Crossworlds"
       }
      ],
      "pregnant_end": "not stated",
@@ -408853,13 +408789,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2725,
+   "id": 2720,
    "title": "Curse of the Faceless Man",
    "subtitle": "",
    "year": "1958",
    "meta": "Film · English",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Calcified Pompeii gladiator hypnotizes and kidnaps a scientist's girlfriend in modern-day Naples, Italy. Scene: The bandages that held the gladiator were cut. Tina, under mind control, was responsible. She is in a deep trance, and completely under the gladiator's control.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -408881,6 +408817,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Curse of the Faceless Man",
      "url": "https://mentalblock.miraheze.org/wiki/Curse_of_the_Faceless_Man"
+    },
+    {
+     "label": "Wikipedia: Curse of the Faceless Man",
+     "url": "https://en.wikipedia.org/wiki/Curse_of_the_Faceless_Man"
     }
    ],
    "youtube_ids": [],
@@ -408888,7 +408828,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:49"
+    "fanwiki-screen-oct14:44"
    ],
    "index_only": false,
    "local_only": true,
@@ -408896,7 +408836,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:49": {
+    "fanwiki-screen-oct14:44": {
      "title": "Curse of the Faceless Man",
      "year": "1958",
      "subtitle": "",
@@ -408904,7 +408844,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Calcified Pompeii gladiator hypnotizes and kidnaps a scientist's girlfriend in modern-day Naples, Italy. Scene: The bandages that held the gladiator were cut. Tina, under mind control, was responsible. She is in a deep trance, and completely under the gladiator's control.",
      "character": "",
      "categories": [
@@ -408914,6 +408854,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Curse of the Faceless Man",
        "url": "https://mentalblock.miraheze.org/wiki/Curse_of_the_Faceless_Man"
+      },
+      {
+       "label": "Wikipedia: Curse of the Faceless Man",
+       "url": "https://en.wikipedia.org/wiki/Curse_of_the_Faceless_Man"
       }
      ],
      "pregnant_end": "not stated",
@@ -408931,7 +408875,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2726,
+   "id": 2721,
    "title": "Changeman",
    "subtitle": "Ep. 6: The Targeted High School Girls / Ep. 22: The Soldier Who Disappeared into a Mirror / Ep. 42: The Sailor-Suited Na",
    "year": "1985",
@@ -408967,7 +408911,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:50"
+    "fanwiki-screen-oct14:45"
    ],
    "index_only": false,
    "local_only": true,
@@ -408975,7 +408919,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:50": {
+    "fanwiki-screen-oct14:45": {
      "title": "Changeman",
      "year": "1985",
      "subtitle": "Ep. 6: The Targeted High School Girls / Ep. 22: The Soldier Who Disappeared into a Mirror / Ep. 42: The Sailor-Suited Na",
@@ -409011,7 +408955,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2727,
+   "id": 2722,
    "title": "Dark Rising: The Savage Tales of Summer Vale",
    "subtitle": "Truth and Consequences (Season 1, Episode 7)",
    "year": "2011",
@@ -409046,7 +408990,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:51"
+    "fanwiki-screen-oct14:46"
    ],
    "index_only": false,
    "local_only": true,
@@ -409054,7 +408998,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:51": {
+    "fanwiki-screen-oct14:46": {
      "title": "Dark Rising: The Savage Tales of Summer Vale",
      "year": "2011",
      "subtitle": "Truth and Consequences (Season 1, Episode 7)",
@@ -409089,13 +409033,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2728,
+   "id": 2723,
    "title": "Darna (2009)",
    "subtitle": "Episode 88",
    "year": "2009",
-   "meta": "TV · language not stated",
+   "meta": "TV · Tagalog",
    "mechanism": "Chemical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Episode 88: To Add Scene: The female plants release a hypnotic pheromone in Sarna. The heroine is struck by the polem... ... and falls into a trance. Under mind control, she helps the plant women escape by flying away. The plant women present the hypnotized superheroine to their leader. Deeming her too dangerous to live, the Plant Women order Darna to eat a poisonous herb.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -409116,6 +409060,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Darna (2009)",
      "url": "https://mentalblock.miraheze.org/wiki/Darna_(2009)"
+    },
+    {
+     "label": "Wikipedia: Darna (2009 TV series)",
+     "url": "https://en.wikipedia.org/wiki/Darna_(2009_TV_series)"
     }
    ],
    "youtube_ids": [],
@@ -409123,7 +409071,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:52"
+    "fanwiki-screen-oct14:47"
    ],
    "index_only": false,
    "local_only": true,
@@ -409131,15 +409079,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:52": {
+    "fanwiki-screen-oct14:47": {
      "title": "Darna (2009)",
      "year": "2009",
      "subtitle": "Episode 88",
      "format": "tv",
      "standalone": true,
-     "meta": "TV · language not stated",
+     "meta": "TV · Tagalog",
      "mechanism": "Chemical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Episode 88: To Add Scene: The female plants release a hypnotic pheromone in Sarna. The heroine is struck by the polem... ... and falls into a trance. Under mind control, she helps the plant women escape by flying away. The plant women present the hypnotized superheroine to their leader. Deeming her too dangerous to live, the Plant Women order Darna to eat a poisonous herb.",
      "character": "",
      "categories": [
@@ -409149,6 +409097,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Darna (2009)",
        "url": "https://mentalblock.miraheze.org/wiki/Darna_(2009)"
+      },
+      {
+       "label": "Wikipedia: Darna (2009 TV series)",
+       "url": "https://en.wikipedia.org/wiki/Darna_(2009_TV_series)"
       }
      ],
      "pregnant_end": "not stated",
@@ -409165,7 +409117,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2729,
+   "id": 2724,
    "title": "Dead Enders (Short Movie)",
    "subtitle": "",
    "year": "2023",
@@ -409200,7 +409152,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:53"
+    "fanwiki-screen-oct14:48"
    ],
    "index_only": false,
    "local_only": true,
@@ -409208,7 +409160,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:53": {
+    "fanwiki-screen-oct14:48": {
      "title": "Dead Enders (Short Movie)",
      "year": "2023",
      "subtitle": "",
@@ -409243,7 +409195,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2730,
+   "id": 2725,
    "title": "Detetives Do Prédio Azul",
    "subtitle": "Berenice's Graduation (Season 13. Episode 26)",
    "year": "2012",
@@ -409277,7 +409229,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:54"
+    "fanwiki-screen-oct14:49"
    ],
    "index_only": false,
    "local_only": true,
@@ -409285,7 +409237,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:54": {
+    "fanwiki-screen-oct14:49": {
      "title": "Detetives Do Prédio Azul",
      "year": "2012",
      "subtitle": "Berenice's Graduation (Season 13. Episode 26)",
@@ -409319,91 +409271,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2731,
-   "title": "Devil's Domain",
-   "subtitle": "",
-   "year": "2016",
-   "meta": "Film · English",
-   "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-   "summary": "Lisa (Vodane) is a troubled teenager who becomes a social pariah at her high school after an embarrassing video of her is leaked to the Internet and all of her classmates watch it. She strikes up an online friendship with a beautiful woman named Destiny (Bella), who turns out to be Satan in disguise. After revealing the truth, Destiny offers Lisa a literal 'deal with the Devil'- she will give Lisa's bullies what they deserve and make Lisa rich and famous if Lisa agrees to bear a child for her. L",
-   "character": "",
-   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-   "note": "",
-   "tags": [
-    "Films Live-Action",
-    "Western Live Action"
-   ],
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-   "format": "movie",
-   "categories": [
-    "fantasy"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki: Devil's Domain",
-     "url": "https://mentalblock.miraheze.org/wiki/Devil's_Domain"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "fanwiki-screen-oct14"
-   ],
-   "source_records": [
-    "fanwiki-screen-oct14:55"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "fanwiki-screen-oct14:55": {
-     "title": "Devil's Domain",
-     "year": "2016",
-     "subtitle": "",
-     "format": "movie",
-     "standalone": true,
-     "meta": "Film · English",
-     "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-     "summary": "Lisa (Vodane) is a troubled teenager who becomes a social pariah at her high school after an embarrassing video of her is leaked to the Internet and all of her classmates watch it. She strikes up an online friendship with a beautiful woman named Destiny (Bella), who turns out to be Satan in disguise. After revealing the truth, Destiny offers Lisa a literal 'deal with the Devil'- she will give Lisa's bullies what they deserve and make Lisa rich and famous if Lisa agrees to bear a child for her. L",
-     "character": "",
-     "categories": [
-      "fantasy"
-     ],
-     "sources": [
-      {
-       "label": "Mental Block wiki: Devil's Domain",
-       "url": "https://mentalblock.miraheze.org/wiki/Devil's_Domain"
-      }
-     ],
-     "pregnant_end": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "married": "not stated",
-     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-     "group": "Fan-wiki screen additions (Oct 2026)",
-     "tags": [
-      "Films Live-Action",
-      "Western Live Action"
-     ]
-    }
-   }
-  },
-  {
-   "id": 2732,
+   "id": 2726,
    "title": "Devil's Whisper",
    "subtitle": "",
    "year": "2017",
-   "meta": "Film · Indonesian",
+   "meta": "Film · English",
    "mechanism": "Magical Hypnosis, Possession",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "15 year-old Alejandro Duran, who comes from a religious Latino family, aspires to one day be a Catholic priest. But when Alex discovers a mysterious box he unwittingly unleashes a demonic spirit bent on possessing him. Alex must find a way to defeat this ancient demon, which has been tormenting children since the dawn of man, before it destroys him and everyone he loves with its terrifying powers, including hypnotic powers. Scene: The demon breaks the house. Lucia is hypnotized. She falls under it's hypnotic spell. The demon commands her to come closer. Mesmerized, Lucia obeys. Lucia's children wake their mother from her trance.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -409425,6 +409299,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Devil's Whisper",
      "url": "https://mentalblock.miraheze.org/wiki/Devil's_Whisper"
+    },
+    {
+     "label": "Wikipedia: Devil's Whisper",
+     "url": "https://en.wikipedia.org/wiki/Devil's_Whisper"
     }
    ],
    "youtube_ids": [],
@@ -409432,7 +409310,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:56"
+    "fanwiki-screen-oct14:50"
    ],
    "index_only": false,
    "local_only": true,
@@ -409440,15 +409318,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:56": {
+    "fanwiki-screen-oct14:50": {
      "title": "Devil's Whisper",
      "year": "2017",
      "subtitle": "",
      "format": "movie",
      "standalone": true,
-     "meta": "Film · Indonesian",
+     "meta": "Film · English",
      "mechanism": "Magical Hypnosis, Possession",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "15 year-old Alejandro Duran, who comes from a religious Latino family, aspires to one day be a Catholic priest. But when Alex discovers a mysterious box he unwittingly unleashes a demonic spirit bent on possessing him. Alex must find a way to defeat this ancient demon, which has been tormenting children since the dawn of man, before it destroys him and everyone he loves with its terrifying powers, including hypnotic powers. Scene: The demon breaks the house. Lucia is hypnotized. She falls under it's hypnotic spell. The demon commands her to come closer. Mesmerized, Lucia obeys. Lucia's children wake their mother from her trance.",
      "character": "",
      "categories": [
@@ -409458,6 +409336,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Devil's Whisper",
        "url": "https://mentalblock.miraheze.org/wiki/Devil's_Whisper"
+      },
+      {
+       "label": "Wikipedia: Devil's Whisper",
+       "url": "https://en.wikipedia.org/wiki/Devil's_Whisper"
       }
      ],
      "pregnant_end": "not stated",
@@ -409475,13 +409357,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2733,
+   "id": 2727,
    "title": "Devil Girl from Mars",
    "subtitle": "",
    "year": "1954",
    "meta": "Film · English",
    "mechanism": "hypnosis / mind control",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "In a Scottish inn, the owners, employees and guests are united in the bar. Out of the blue, a flying saucer lands nearby and a woman dressed in black leather like a dominatrix with a cape arrives in the bar armed with a ray-gun. She explains that she is Nyah from Mars and she was heading to London, however her spacecraft collided with an airplane and was damaged; therefore she had to land to repair the saucer. She also explains that she is looking for men to breed with females of her race since  Scene: A man falls under Nyla's control. Doris is found in a hypnotic trance, caused by Nyla.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -409503,6 +409385,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Devil Girl from Mars",
      "url": "https://mentalblock.miraheze.org/wiki/Devil_Girl_from_Mars"
+    },
+    {
+     "label": "Wikipedia: Devil Girl from Mars",
+     "url": "https://en.wikipedia.org/wiki/Devil_Girl_from_Mars"
     }
    ],
    "youtube_ids": [],
@@ -409510,7 +409396,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:57"
+    "fanwiki-screen-oct14:51"
    ],
    "index_only": false,
    "local_only": true,
@@ -409518,7 +409404,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:57": {
+    "fanwiki-screen-oct14:51": {
      "title": "Devil Girl from Mars",
      "year": "1954",
      "subtitle": "",
@@ -409526,7 +409412,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "hypnosis / mind control",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "In a Scottish inn, the owners, employees and guests are united in the bar. Out of the blue, a flying saucer lands nearby and a woman dressed in black leather like a dominatrix with a cape arrives in the bar armed with a ray-gun. She explains that she is Nyah from Mars and she was heading to London, however her spacecraft collided with an airplane and was damaged; therefore she had to land to repair the saucer. She also explains that she is looking for men to breed with females of her race since  Scene: A man falls under Nyla's control. Doris is found in a hypnotic trance, caused by Nyla.",
      "character": "",
      "categories": [
@@ -409536,6 +409422,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Devil Girl from Mars",
        "url": "https://mentalblock.miraheze.org/wiki/Devil_Girl_from_Mars"
+      },
+      {
+       "label": "Wikipedia: Devil Girl from Mars",
+       "url": "https://en.wikipedia.org/wiki/Devil_Girl_from_Mars"
       }
      ],
      "pregnant_end": "not stated",
@@ -409553,7 +409443,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2734,
+   "id": 2728,
    "title": "Di Renjie: Phantom Moth",
    "subtitle": "",
    "year": "2019",
@@ -409589,7 +409479,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:58"
+    "fanwiki-screen-oct14:52"
    ],
    "index_only": false,
    "local_only": true,
@@ -409597,7 +409487,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:58": {
+    "fanwiki-screen-oct14:52": {
      "title": "Di Renjie: Phantom Moth",
      "year": "2019",
      "subtitle": "",
@@ -409633,13 +409523,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2735,
+   "id": 2729,
    "title": "Dimension 404",
    "subtitle": "Cinethrax (Season 1, Episode 2)",
    "year": "2017",
    "meta": "TV · English",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Cinethrax (Season 1, Episode 2): Dusty (Patton Oswalt) and his niece Chloe (Sarah Hyland) attend the screening of a '4D' movie at a theater. Dusty, a 'cinema purist,' insists on bringing his own set of 3D glasses from home instead of using the ones supplied by the theater. As the movie progresses, Dusty realizes that an inter-dimensional creature is using the movie to brainwash and assimilate the audience; he alone can see the creature due to his special glasses. Dusty is eventually able to escape, but is unable to save Chloe and the others before they are fully assimilated into the creature's Scene: Brainwashed people attack Uncle Dusty. The creature brainwashes the audience of the theatre. Hypnotized slaves are surrounding Chloe. Chloe looks into the eyes of the creature. Chloe is entranced. After Dusty decapitates the creature, Chloe apparently snaps out of the trance. But it's too late. Chloe's brainwashing is already complete, her mind was absorbed by the creature's collective intelligence.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -409660,6 +409550,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Dimension 404",
      "url": "https://mentalblock.miraheze.org/wiki/Dimension_404"
+    },
+    {
+     "label": "Wikipedia: Dimension 404",
+     "url": "https://en.wikipedia.org/wiki/Dimension_404"
     }
    ],
    "youtube_ids": [],
@@ -409667,7 +409561,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:59"
+    "fanwiki-screen-oct14:53"
    ],
    "index_only": false,
    "local_only": true,
@@ -409675,7 +409569,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:59": {
+    "fanwiki-screen-oct14:53": {
      "title": "Dimension 404",
      "year": "2017",
      "subtitle": "Cinethrax (Season 1, Episode 2)",
@@ -409683,7 +409577,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Cinethrax (Season 1, Episode 2): Dusty (Patton Oswalt) and his niece Chloe (Sarah Hyland) attend the screening of a '4D' movie at a theater. Dusty, a 'cinema purist,' insists on bringing his own set of 3D glasses from home instead of using the ones supplied by the theater. As the movie progresses, Dusty realizes that an inter-dimensional creature is using the movie to brainwash and assimilate the audience; he alone can see the creature due to his special glasses. Dusty is eventually able to escape, but is unable to save Chloe and the others before they are fully assimilated into the creature's Scene: Brainwashed people attack Uncle Dusty. The creature brainwashes the audience of the theatre. Hypnotized slaves are surrounding Chloe. Chloe looks into the eyes of the creature. Chloe is entranced. After Dusty decapitates the creature, Chloe apparently snaps out of the trance. But it's too late. Chloe's brainwashing is already complete, her mind was absorbed by the creature's collective intelligence.",
      "character": "",
      "categories": [
@@ -409693,6 +409587,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Dimension 404",
        "url": "https://mentalblock.miraheze.org/wiki/Dimension_404"
+      },
+      {
+       "label": "Wikipedia: Dimension 404",
+       "url": "https://en.wikipedia.org/wiki/Dimension_404"
       }
      ],
      "pregnant_end": "not stated",
@@ -409709,7 +409607,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2736,
+   "id": 2730,
    "title": "Doctor Strange",
    "subtitle": "Scene Summary",
    "year": "1978",
@@ -409745,7 +409643,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:60"
+    "fanwiki-screen-oct14:54"
    ],
    "index_only": false,
    "local_only": true,
@@ -409753,7 +409651,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:60": {
+    "fanwiki-screen-oct14:54": {
      "title": "Doctor Strange",
      "year": "1978",
      "subtitle": "Scene Summary",
@@ -409789,13 +409687,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2737,
+   "id": 2731,
    "title": "Don't Listen",
    "subtitle": "",
    "year": "2020",
    "meta": "Film · Spanish",
    "mechanism": "Possession",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Upon moving in a new home with their 8-year-old son Eric, Daniel and Sara are upended by psychophonies, first experienced by Eric and thus attributed by a psychologist to the kid's lack of stability and his own imagination. At the same time, supernatural forces are shown to be capable of controlling people's minds and leading them to death. Seasoned parapsychologist Germán and his daughter Ruth (a sceptic sound engineer) turn in to provide help to Daniel. Scene: A supernatural fly enters Dr. Carol's ear. Carol feels the fly in her ear. The woman falls under supernatural influence. under supernatural control, she steps on the car accelerator. Doctor Carol crashes her car and dies.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -409818,6 +409716,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Don't Listen",
      "url": "https://mentalblock.miraheze.org/wiki/Don't_Listen"
+    },
+    {
+     "label": "Wikipedia: Don't Listen",
+     "url": "https://en.wikipedia.org/wiki/Don't_Listen"
     }
    ],
    "youtube_ids": [],
@@ -409825,7 +409727,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:61"
+    "fanwiki-screen-oct14:55"
    ],
    "index_only": false,
    "local_only": true,
@@ -409833,7 +409735,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:61": {
+    "fanwiki-screen-oct14:55": {
      "title": "Don't Listen",
      "year": "2020",
      "subtitle": "",
@@ -409841,7 +409743,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · Spanish",
      "mechanism": "Possession",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Upon moving in a new home with their 8-year-old son Eric, Daniel and Sara are upended by psychophonies, first experienced by Eric and thus attributed by a psychologist to the kid's lack of stability and his own imagination. At the same time, supernatural forces are shown to be capable of controlling people's minds and leading them to death. Seasoned parapsychologist Germán and his daughter Ruth (a sceptic sound engineer) turn in to provide help to Daniel. Scene: A supernatural fly enters Dr. Carol's ear. Carol feels the fly in her ear. The woman falls under supernatural influence. under supernatural control, she steps on the car accelerator. Doctor Carol crashes her car and dies.",
      "character": "",
      "categories": [
@@ -409851,6 +409753,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Don't Listen",
        "url": "https://mentalblock.miraheze.org/wiki/Don't_Listen"
+      },
+      {
+       "label": "Wikipedia: Don't Listen",
+       "url": "https://en.wikipedia.org/wiki/Don't_Listen"
       }
      ],
      "pregnant_end": "not stated",
@@ -409869,83 +409775,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2738,
-   "title": "Dracula: The Series",
-   "subtitle": "\"Children of the Night\" (Season 1, Episode 1)",
-   "year": "1990–1991",
-   "meta": "TV · English",
-   "mechanism": "hypnosis / mind control",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-   "summary": "\"Children of the Night\" (Season 1, Episode 1): Max and Chris Townsend arrive in a small Luxembourg town to live with their eccentric Uncle Gustav while their mother Eileen (Lynne Cormack) travels on business. Chris is bored and homesick until he meets the beautiful Sophie, who also lives with Gustav. Max begins to suspect that his uncle's behavior is the result of being a vampire. After a chance encounter with businessman Alexander Lucard, Max turns to him for help in destroying Gustav. Only after Lucard lures the three teens to his castle does Max realize his error- Gustav is the vampire-hunt Scene: Dracula is served by Officer Maria Schmidt, who became a mindless slave after being bitten by him. Dracula admires the hypnotized woman.",
-   "character": "",
-   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-   "note": "",
-   "tags": [
-    "Western Live Action"
-   ],
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-   "format": "tv",
-   "categories": [
-    "vampire"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki: Dracula: The Series",
-     "url": "https://mentalblock.miraheze.org/wiki/Dracula:_The_Series"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "fanwiki-screen-oct14"
-   ],
-   "source_records": [
-    "fanwiki-screen-oct14:62"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "fanwiki-screen-oct14:62": {
-     "title": "Dracula: The Series",
-     "year": "1990–1991",
-     "subtitle": "\"Children of the Night\" (Season 1, Episode 1)",
-     "format": "tv",
-     "standalone": true,
-     "meta": "TV · English",
-     "mechanism": "hypnosis / mind control",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-     "summary": "\"Children of the Night\" (Season 1, Episode 1): Max and Chris Townsend arrive in a small Luxembourg town to live with their eccentric Uncle Gustav while their mother Eileen (Lynne Cormack) travels on business. Chris is bored and homesick until he meets the beautiful Sophie, who also lives with Gustav. Max begins to suspect that his uncle's behavior is the result of being a vampire. After a chance encounter with businessman Alexander Lucard, Max turns to him for help in destroying Gustav. Only after Lucard lures the three teens to his castle does Max realize his error- Gustav is the vampire-hunt Scene: Dracula is served by Officer Maria Schmidt, who became a mindless slave after being bitten by him. Dracula admires the hypnotized woman.",
-     "character": "",
-     "categories": [
-      "vampire"
-     ],
-     "sources": [
-      {
-       "label": "Mental Block wiki: Dracula: The Series",
-       "url": "https://mentalblock.miraheze.org/wiki/Dracula:_The_Series"
-      }
-     ],
-     "pregnant_end": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "married": "not stated",
-     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-     "group": "Fan-wiki screen additions (Oct 2026)",
-     "tags": [
-      "Western Live Action"
-     ]
-    }
-   }
-  },
-  {
-   "id": 2739,
+   "id": 2732,
    "title": "Dragon Force",
    "subtitle": "",
    "year": "1982",
@@ -409980,7 +409810,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:63"
+    "fanwiki-screen-oct14:56"
    ],
    "index_only": false,
    "local_only": true,
@@ -409988,7 +409818,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:63": {
+    "fanwiki-screen-oct14:56": {
      "title": "Dragon Force",
      "year": "1982",
      "subtitle": "",
@@ -410023,7 +409853,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2740,
+   "id": 2733,
    "title": "Dragonquest",
    "subtitle": "",
    "year": "2009",
@@ -410058,7 +409888,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:64"
+    "fanwiki-screen-oct14:57"
    ],
    "index_only": false,
    "local_only": true,
@@ -410066,7 +409896,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:64": {
+    "fanwiki-screen-oct14:57": {
      "title": "Dragonquest",
      "year": "2009",
      "subtitle": "",
@@ -410101,89 +409931,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2741,
-   "title": "Dwight in Shining Armor",
-   "subtitle": "Todd (Season 1, Episode 9) / Another Slice of Pilot (Season 4, Episode 1)",
-   "year": "2019",
-   "meta": "TV · English",
-   "mechanism": "Love Hypnosis, Magical Hypnosis, Musical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-   "summary": "Dwight is a present-day teenager who falls into an ancient, underground chamber. He lands on Gretta, a Gothic princess who has been magically sleeping for a thousand years. Dwight inadvertently kisses Gretta, breaking the magic spell. This action also awakens her court magician, Baldric, as well as scores of medieval villains and makes Dwight her de facto champion until her hordes of enemies are defeated. Dwight must deal with new role as protector while helping Gretta assimilate into high schoo Todd (Season 1, Episode 9): Hexela returns to test out a new potion on Gretta. What she does not tell Gretta is that it s a love potion and it will cause Gretta to fall in love with the first thing that she sees, regardless of whether it is human or not. Unfortunately for the local paper boy Todd, he is the first thing Gretta sees. Can Dwight and Baldric find some way to reverse these charms effects, or will this potion become a curse and a hindrance to them all? Another Slice of Pilot (Season 4, Episode 1): As the group waits in the queue at Phoebe's pie cart, Chlodwig retells the events of t Scene: Gretta opens a bewitched letter. The letter's spell is activated. Gretta falls into a hypnotic trance. Gretta sees the newspaper delivery boy through the window. Under the influence of the spell, the young woman falls in love with the boy from the newspaper. Dwight finds Gretta's behavior s",
-   "character": "",
-   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-   "note": "",
-   "tags": [
-    "Western Live Action"
-   ],
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-   "format": "tv",
-   "categories": [
-    "love"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki: Dwight in Shining Armor",
-     "url": "https://mentalblock.miraheze.org/wiki/Dwight_in_Shining_Armor"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "fanwiki-screen-oct14"
-   ],
-   "source_records": [
-    "fanwiki-screen-oct14:65"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "fanwiki-screen-oct14:65": {
-     "title": "Dwight in Shining Armor",
-     "year": "2019",
-     "subtitle": "Todd (Season 1, Episode 9) / Another Slice of Pilot (Season 4, Episode 1)",
-     "format": "tv",
-     "standalone": true,
-     "meta": "TV · English",
-     "mechanism": "Love Hypnosis, Magical Hypnosis, Musical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-     "summary": "Dwight is a present-day teenager who falls into an ancient, underground chamber. He lands on Gretta, a Gothic princess who has been magically sleeping for a thousand years. Dwight inadvertently kisses Gretta, breaking the magic spell. This action also awakens her court magician, Baldric, as well as scores of medieval villains and makes Dwight her de facto champion until her hordes of enemies are defeated. Dwight must deal with new role as protector while helping Gretta assimilate into high schoo Todd (Season 1, Episode 9): Hexela returns to test out a new potion on Gretta. What she does not tell Gretta is that it s a love potion and it will cause Gretta to fall in love with the first thing that she sees, regardless of whether it is human or not. Unfortunately for the local paper boy Todd, he is the first thing Gretta sees. Can Dwight and Baldric find some way to reverse these charms effects, or will this potion become a curse and a hindrance to them all? Another Slice of Pilot (Season 4, Episode 1): As the group waits in the queue at Phoebe's pie cart, Chlodwig retells the events of t Scene: Gretta opens a bewitched letter. The letter's spell is activated. Gretta falls into a hypnotic trance. Gretta sees the newspaper delivery boy through the window. Under the influence of the spell, the young woman falls in love with the boy from the newspaper. Dwight finds Gretta's behavior s",
-     "character": "",
-     "categories": [
-      "love"
-     ],
-     "sources": [
-      {
-       "label": "Mental Block wiki: Dwight in Shining Armor",
-       "url": "https://mentalblock.miraheze.org/wiki/Dwight_in_Shining_Armor"
-      }
-     ],
-     "pregnant_end": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "married": "not stated",
-     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-     "group": "Fan-wiki screen additions (Oct 2026)",
-     "tags": [
-      "Western Live Action"
-     ]
-    }
-   }
-  },
-  {
-   "id": 2742,
+   "id": 2734,
    "title": "ESPY",
    "subtitle": "",
    "year": "1974",
-   "meta": "Film · language not stated",
+   "meta": "Film · Japanese",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "The International Psychic Power Group is a covert organization financed by the United Nations. Made up of clairvoyant supermen under the guise of the International Pollution Research Center, they wage a private war against enemies that threaten world peace and the total annihilation of the human race. With hostility between the East and West reaching a boiling point, four Eastern European delegates are assassinated aboard the Milan-Geneva International Express on their way to the United Nations  Scene: Maria is hypnotized by Ulrov to dance at his club. Her mind is empty. Mentally controlled, Maria dances sensually. In a trance, Maria dances with an employee of Ulrov. Maria submits to the thug. hypnotized, she prepares to kiss the henchman. The pilot and co-pilot are hypnotized by Julietta. Yoshi finds the pilot of the plane in a trance.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -410206,6 +409960,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: ESPY",
      "url": "https://mentalblock.miraheze.org/wiki/ESPY"
+    },
+    {
+     "label": "Wikipedia: ESPY (film)",
+     "url": "https://en.wikipedia.org/wiki/ESPY_(film)"
     }
    ],
    "youtube_ids": [],
@@ -410213,7 +409971,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:66"
+    "fanwiki-screen-oct14:58"
    ],
    "index_only": false,
    "local_only": true,
@@ -410221,15 +409979,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:66": {
+    "fanwiki-screen-oct14:58": {
      "title": "ESPY",
      "year": "1974",
      "subtitle": "",
      "format": "movie",
      "standalone": true,
-     "meta": "Film · language not stated",
+     "meta": "Film · Japanese",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "The International Psychic Power Group is a covert organization financed by the United Nations. Made up of clairvoyant supermen under the guise of the International Pollution Research Center, they wage a private war against enemies that threaten world peace and the total annihilation of the human race. With hostility between the East and West reaching a boiling point, four Eastern European delegates are assassinated aboard the Milan-Geneva International Express on their way to the United Nations  Scene: Maria is hypnotized by Ulrov to dance at his club. Her mind is empty. Mentally controlled, Maria dances sensually. In a trance, Maria dances with an employee of Ulrov. Maria submits to the thug. hypnotized, she prepares to kiss the henchman. The pilot and co-pilot are hypnotized by Julietta. Yoshi finds the pilot of the plane in a trance.",
      "character": "",
      "categories": [
@@ -410240,6 +409998,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: ESPY",
        "url": "https://mentalblock.miraheze.org/wiki/ESPY"
+      },
+      {
+       "label": "Wikipedia: ESPY (film)",
+       "url": "https://en.wikipedia.org/wiki/ESPY_(film)"
       }
      ],
      "pregnant_end": "not stated",
@@ -410257,13 +410019,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2743,
+   "id": 2735,
    "title": "Eerie, Indiana: The Other Dimension",
    "subtitle": "Perfect (Season 1, Episode 10)",
    "year": "1998",
    "meta": "TV · English",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Two friends solve strange mysteries together every day and discover the secrets of their weird small town. Perfect (Season 1, Episode 10): Dolly Smith, a former beauty queen and a makeup saleswoman, recruits Mitchell's sister, Carrie, into being the new model of her cosmetics and day spa, and Mitchell and Stanley must save her from losing her emotions, her brains, and her freedom when the beauty regimen brainwashes the girl. Scene: Carrie is brainwashed to be a \"perfect\" doll girl.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -410284,6 +410046,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Eerie, Indiana: The Other Dimension",
      "url": "https://mentalblock.miraheze.org/wiki/Eerie,_Indiana:_The_Other_Dimension"
+    },
+    {
+     "label": "Wikipedia: Eerie, Indiana: The Other Dimension",
+     "url": "https://en.wikipedia.org/wiki/Eerie,_Indiana:_The_Other_Dimension"
     }
    ],
    "youtube_ids": [],
@@ -410291,7 +410057,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:67"
+    "fanwiki-screen-oct14:59"
    ],
    "index_only": false,
    "local_only": true,
@@ -410299,7 +410065,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:67": {
+    "fanwiki-screen-oct14:59": {
      "title": "Eerie, Indiana: The Other Dimension",
      "year": "1998",
      "subtitle": "Perfect (Season 1, Episode 10)",
@@ -410307,7 +410073,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Two friends solve strange mysteries together every day and discover the secrets of their weird small town. Perfect (Season 1, Episode 10): Dolly Smith, a former beauty queen and a makeup saleswoman, recruits Mitchell's sister, Carrie, into being the new model of her cosmetics and day spa, and Mitchell and Stanley must save her from losing her emotions, her brains, and her freedom when the beauty regimen brainwashes the girl. Scene: Carrie is brainwashed to be a \"perfect\" doll girl.",
      "character": "",
      "categories": [
@@ -410317,6 +410083,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Eerie, Indiana: The Other Dimension",
        "url": "https://mentalblock.miraheze.org/wiki/Eerie,_Indiana:_The_Other_Dimension"
+      },
+      {
+       "label": "Wikipedia: Eerie, Indiana: The Other Dimension",
+       "url": "https://en.wikipedia.org/wiki/Eerie,_Indiana:_The_Other_Dimension"
       }
      ],
      "pregnant_end": "not stated",
@@ -410333,7 +410103,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2744,
+   "id": 2736,
    "title": "El pueblo fantasma",
    "subtitle": "",
    "year": "1965",
@@ -410369,7 +410139,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:68"
+    "fanwiki-screen-oct14:60"
    ],
    "index_only": false,
    "local_only": true,
@@ -410377,7 +410147,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:68": {
+    "fanwiki-screen-oct14:60": {
      "title": "El pueblo fantasma",
      "year": "1965",
      "subtitle": "",
@@ -410413,13 +410183,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2745,
+   "id": 2737,
    "title": "Elvira's Haunted Hill",
    "subtitle": "",
    "year": "2001",
    "meta": "Film · English",
    "mechanism": "Comedic Hypnosis, Possession, Traditional Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "In 1851, Elvira (Peterson) and Zou-Zou (Smith) are on their way to France but find themselves stranded in Transylvania after being kicked out of an inn. They are directed by a doctor (Atkinson) to the local 'haunted castle,' owned and occupied by Lord Vladimere Hellsubus (O'Brien) and his adulterous wife Ema (Scheer). Scene: Elvira doesn't believe in hypnosis. The hypnotist hypnotizes Elvira. She is hypnotized. In a trance, she acts like a Little girl. Elvira is possessed by a vengeful spirit. She wakes up with no memory of what happened.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -410444,6 +410214,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Elvira's Haunted Hill",
      "url": "https://mentalblock.miraheze.org/wiki/Elvira's_Haunted_Hill"
+    },
+    {
+     "label": "Wikipedia: Elvira's Haunted Hills",
+     "url": "https://en.wikipedia.org/wiki/Elvira's_Haunted_Hills"
     }
    ],
    "youtube_ids": [],
@@ -410451,7 +410225,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:69"
+    "fanwiki-screen-oct14:61"
    ],
    "index_only": false,
    "local_only": true,
@@ -410459,7 +410233,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:69": {
+    "fanwiki-screen-oct14:61": {
      "title": "Elvira's Haunted Hill",
      "year": "2001",
      "subtitle": "",
@@ -410467,7 +410241,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Comedic Hypnosis, Possession, Traditional Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "In 1851, Elvira (Peterson) and Zou-Zou (Smith) are on their way to France but find themselves stranded in Transylvania after being kicked out of an inn. They are directed by a doctor (Atkinson) to the local 'haunted castle,' owned and occupied by Lord Vladimere Hellsubus (O'Brien) and his adulterous wife Ema (Scheer). Scene: Elvira doesn't believe in hypnosis. The hypnotist hypnotizes Elvira. She is hypnotized. In a trance, she acts like a Little girl. Elvira is possessed by a vengeful spirit. She wakes up with no memory of what happened.",
      "character": "",
      "categories": [
@@ -410480,6 +410254,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Elvira's Haunted Hill",
        "url": "https://mentalblock.miraheze.org/wiki/Elvira's_Haunted_Hill"
+      },
+      {
+       "label": "Wikipedia: Elvira's Haunted Hills",
+       "url": "https://en.wikipedia.org/wiki/Elvira's_Haunted_Hills"
       }
      ],
      "pregnant_end": "not stated",
@@ -410497,13 +410275,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2746,
+   "id": 2738,
    "title": "Engine Sentai Go-Onger",
    "subtitle": "GP 12: Sosuke Banki!? / GP 30: Punch of Friendship / GP 38: The Maidens' Sanctity / GP 42: Campus Secret",
    "year": "2008",
    "meta": "Film · language not stated",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Machine World (マシンワールド Mashin Wārudo) is one of the 11 Braneworlds (ブレーンワールド Burēnwārudo) other than our own, which is referred to as the Human World (ヒューマンワールド Hyūman Wārudo). Machine World is home to giant vehicular beings called Engines who wage a war against the Gaiark, who desire to pollute their world. Losing, Gaiark's three Pollution Ministers escape to Earth, seeing the Human World as an easier location to create their ideal paradise. The six Engines manage to pursue them, selecting five GP 12: Sosuke Banki!?: While the other Go-ongers are practice sparring with each other, Sōsuke is laid up with a cold and has been resting inside the Ginjiro-go for the last three days. The Ministers send Hatsuden Banki into the city to discharge lightning and cause mayhem. Despite his cold, Sōsuke rushes to confront Hatsuden Banki, who is none too impressed by Sōsuke's confidence. When Sōsuke executes a close range attack, Hatsuden Banki's generator overloads and discharges a bolt of lightning that zaps them both and switches their bodies. The other Go-Ongers find who they think is Sōsuke (bu",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -410524,6 +410302,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Engine Sentai Go-Onger",
      "url": "https://mentalblock.miraheze.org/wiki/Engine_Sentai_Go-Onger"
+    },
+    {
+     "label": "Wikipedia: Engine Sentai Go-onger",
+     "url": "https://en.wikipedia.org/wiki/Engine_Sentai_Go-onger"
     }
    ],
    "youtube_ids": [],
@@ -410531,7 +410313,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:70"
+    "fanwiki-screen-oct14:62"
    ],
    "index_only": false,
    "local_only": true,
@@ -410539,7 +410321,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:70": {
+    "fanwiki-screen-oct14:62": {
      "title": "Engine Sentai Go-Onger",
      "year": "2008",
      "subtitle": "GP 12: Sosuke Banki!? / GP 30: Punch of Friendship / GP 38: The Maidens' Sanctity / GP 42: Campus Secret",
@@ -410547,7 +410329,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · language not stated",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Machine World (マシンワールド Mashin Wārudo) is one of the 11 Braneworlds (ブレーンワールド Burēnwārudo) other than our own, which is referred to as the Human World (ヒューマンワールド Hyūman Wārudo). Machine World is home to giant vehicular beings called Engines who wage a war against the Gaiark, who desire to pollute their world. Losing, Gaiark's three Pollution Ministers escape to Earth, seeing the Human World as an easier location to create their ideal paradise. The six Engines manage to pursue them, selecting five GP 12: Sosuke Banki!?: While the other Go-ongers are practice sparring with each other, Sōsuke is laid up with a cold and has been resting inside the Ginjiro-go for the last three days. The Ministers send Hatsuden Banki into the city to discharge lightning and cause mayhem. Despite his cold, Sōsuke rushes to confront Hatsuden Banki, who is none too impressed by Sōsuke's confidence. When Sōsuke executes a close range attack, Hatsuden Banki's generator overloads and discharges a bolt of lightning that zaps them both and switches their bodies. The other Go-Ongers find who they think is Sōsuke (bu",
      "character": "",
      "categories": [
@@ -410557,6 +410339,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Engine Sentai Go-Onger",
        "url": "https://mentalblock.miraheze.org/wiki/Engine_Sentai_Go-Onger"
+      },
+      {
+       "label": "Wikipedia: Engine Sentai Go-onger",
+       "url": "https://en.wikipedia.org/wiki/Engine_Sentai_Go-onger"
       }
      ],
      "pregnant_end": "not stated",
@@ -410573,13 +410359,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2747,
+   "id": 2739,
    "title": "Eternals",
    "subtitle": "",
    "year": "2021",
    "meta": "Film · English",
    "mechanism": "Possession",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "In 5000 BC, ten super-powered Eternals 1. Ajak (Salma Hayek) (The wise and spiritual leader of the Eternals, who has the ability to heal and is the \"bridge\" between the Eternals and the Celestials), 2. Sersi (Gemma Chan) (An empathetic Eternal with a strong connection to humans and the Earth, who can manipulate and transform matter through physical contact. Loves Ikaris), 3. Ikaris (Richard Madden) (An Eternal who can fly and project cosmic energy beams from his eyes, and is determined to fulfil Scene: Tired of seeing humans killing each other in wars, Druig uses his powers. In a trance, the warriors stop fighting and follow Druig obediently. Druig possesses a follower to greet Sprite. Druig hypnotizes Kingo's butler into throwing away his camera. Mesmerized, the butler obeys. A group of villagers hypnotized by Druig shoot a Deviant.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -410603,6 +410389,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Eternals",
      "url": "https://mentalblock.miraheze.org/wiki/Eternals"
+    },
+    {
+     "label": "Wikipedia: Eternals (film)",
+     "url": "https://en.wikipedia.org/wiki/Eternals_(film)"
     }
    ],
    "youtube_ids": [],
@@ -410610,7 +410400,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:71"
+    "fanwiki-screen-oct14:63"
    ],
    "index_only": false,
    "local_only": true,
@@ -410618,7 +410408,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:71": {
+    "fanwiki-screen-oct14:63": {
      "title": "Eternals",
      "year": "2021",
      "subtitle": "",
@@ -410626,7 +410416,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Possession",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "In 5000 BC, ten super-powered Eternals 1. Ajak (Salma Hayek) (The wise and spiritual leader of the Eternals, who has the ability to heal and is the \"bridge\" between the Eternals and the Celestials), 2. Sersi (Gemma Chan) (An empathetic Eternal with a strong connection to humans and the Earth, who can manipulate and transform matter through physical contact. Loves Ikaris), 3. Ikaris (Richard Madden) (An Eternal who can fly and project cosmic energy beams from his eyes, and is determined to fulfil Scene: Tired of seeing humans killing each other in wars, Druig uses his powers. In a trance, the warriors stop fighting and follow Druig obediently. Druig possesses a follower to greet Sprite. Druig hypnotizes Kingo's butler into throwing away his camera. Mesmerized, the butler obeys. A group of villagers hypnotized by Druig shoot a Deviant.",
      "character": "",
      "categories": [
@@ -410638,6 +410428,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Eternals",
        "url": "https://mentalblock.miraheze.org/wiki/Eternals"
+      },
+      {
+       "label": "Wikipedia: Eternals (film)",
+       "url": "https://en.wikipedia.org/wiki/Eternals_(film)"
       }
      ],
      "pregnant_end": "not stated",
@@ -410655,13 +410449,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2748,
+   "id": 2740,
    "title": "Even Stevens",
    "subtitle": "A Very Scary Story (Season 2, Episode 13)",
    "year": "2000–2003",
    "meta": "TV · English",
    "mechanism": "Brainwashing, Technological Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "A Very Scary Story (Season 2, Episode 13): Louis notices strange things going on at school. Students sent out of class for an 'eye examination' return as sunglasses-wearing, rule-following, milk-drinking drones. It's all part of a plot by Coach Tugnut (Jim Wise) and Principal Wexler (George Bell) to brainwash the students and steal their eyeballs. Soon only Louis and Ren are left, but Ren reveals herself to be the evil mastermind. In the end, the story is revealed to be a scary story that Louis is telling to Beans (Ty Hodges). Scene: A girl is pun in the brainwashing machine. The Process begins. Louis finds his friends' behavior strange. They take off their glasses and show their empty eyes. Louis screams in terror. Another student is brainwashed",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -410683,6 +410477,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Even Stevens",
      "url": "https://mentalblock.miraheze.org/wiki/Even_Stevens"
+    },
+    {
+     "label": "Wikipedia: Even Stevens",
+     "url": "https://en.wikipedia.org/wiki/Even_Stevens"
     }
    ],
    "youtube_ids": [],
@@ -410690,7 +410488,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:72"
+    "fanwiki-screen-oct14:64"
    ],
    "index_only": false,
    "local_only": true,
@@ -410698,7 +410496,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:72": {
+    "fanwiki-screen-oct14:64": {
      "title": "Even Stevens",
      "year": "2000–2003",
      "subtitle": "A Very Scary Story (Season 2, Episode 13)",
@@ -410706,7 +410504,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Brainwashing, Technological Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "A Very Scary Story (Season 2, Episode 13): Louis notices strange things going on at school. Students sent out of class for an 'eye examination' return as sunglasses-wearing, rule-following, milk-drinking drones. It's all part of a plot by Coach Tugnut (Jim Wise) and Principal Wexler (George Bell) to brainwash the students and steal their eyeballs. Soon only Louis and Ren are left, but Ren reveals herself to be the evil mastermind. In the end, the story is revealed to be a scary story that Louis is telling to Beans (Ty Hodges). Scene: A girl is pun in the brainwashing machine. The Process begins. Louis finds his friends' behavior strange. They take off their glasses and show their empty eyes. Louis screams in terror. Another student is brainwashed",
      "character": "",
      "categories": [
@@ -410717,6 +410515,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Even Stevens",
        "url": "https://mentalblock.miraheze.org/wiki/Even_Stevens"
+      },
+      {
+       "label": "Wikipedia: Even Stevens",
+       "url": "https://en.wikipedia.org/wiki/Even_Stevens"
       }
      ],
      "pregnant_end": "not stated",
@@ -410733,7 +410535,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2749,
+   "id": 2741,
    "title": "Fatih di Kampung Jawara",
    "subtitle": "Season 1, Episode 5",
    "year": "2018",
@@ -410768,7 +410570,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:73"
+    "fanwiki-screen-oct14:65"
    ],
    "index_only": false,
    "local_only": true,
@@ -410776,7 +410578,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:73": {
+    "fanwiki-screen-oct14:65": {
      "title": "Fatih di Kampung Jawara",
      "year": "2018",
      "subtitle": "Season 1, Episode 5",
@@ -410811,13 +410613,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2750,
+   "id": 2742,
    "title": "Faust",
    "subtitle": "Scene Summary",
    "year": "2000",
-   "meta": "Film · Spanish",
+   "meta": "Film · English",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Scene Summary: Claire (Van Campen) kidnaps Faust's love interest Jade (Brook) and brainwashes her. Scene: Claire captures Jade Jade is placed in a metal cage Claire starts the brainwash process Round 2 The devilish \"M\" arrives Her mind is corrupted. Jade couldn't be happier to see him Jade participates in M's ceremony",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -410839,6 +410641,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Faust (2000 movie)",
      "url": "https://mentalblock.miraheze.org/wiki/Faust_(2000_movie)"
+    },
+    {
+     "label": "Wikipedia: Faust: Love of the Damned (film)",
+     "url": "https://en.wikipedia.org/wiki/Faust:_Love_of_the_Damned_(film)"
     }
    ],
    "youtube_ids": [],
@@ -410846,7 +410652,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:74"
+    "fanwiki-screen-oct14:66"
    ],
    "index_only": false,
    "local_only": true,
@@ -410854,15 +410660,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:74": {
+    "fanwiki-screen-oct14:66": {
      "title": "Faust",
      "year": "2000",
      "subtitle": "Scene Summary",
      "format": "movie",
      "standalone": true,
-     "meta": "Film · Spanish",
+     "meta": "Film · English",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Scene Summary: Claire (Van Campen) kidnaps Faust's love interest Jade (Brook) and brainwashes her. Scene: Claire captures Jade Jade is placed in a metal cage Claire starts the brainwash process Round 2 The devilish \"M\" arrives Her mind is corrupted. Jade couldn't be happier to see him Jade participates in M's ceremony",
      "character": "",
      "categories": [
@@ -410872,6 +410678,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Faust (2000 movie)",
        "url": "https://mentalblock.miraheze.org/wiki/Faust_(2000_movie)"
+      },
+      {
+       "label": "Wikipedia: Faust: Love of the Damned (film)",
+       "url": "https://en.wikipedia.org/wiki/Faust:_Love_of_the_Damned_(film)"
       }
      ],
      "pregnant_end": "not stated",
@@ -410889,7 +410699,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2751,
+   "id": 2743,
    "title": "Fire Spirit Beast",
    "subtitle": "",
    "year": "2016",
@@ -410924,7 +410734,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:75"
+    "fanwiki-screen-oct14:67"
    ],
    "index_only": false,
    "local_only": true,
@@ -410932,7 +410742,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:75": {
+    "fanwiki-screen-oct14:67": {
      "title": "Fire Spirit Beast",
      "year": "2016",
      "subtitle": "",
@@ -410967,7 +410777,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2752,
+   "id": 2744,
    "title": "Five Spies",
    "subtitle": "Melody of Death! The Terror of Poison Gas! (死の旋律! 毒ガスの恐怖!!) (Season 1, Episode 4)",
    "year": "1997",
@@ -411002,7 +410812,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:76"
+    "fanwiki-screen-oct14:68"
    ],
    "index_only": false,
    "local_only": true,
@@ -411010,7 +410820,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:76": {
+    "fanwiki-screen-oct14:68": {
      "title": "Five Spies",
      "year": "1997",
      "subtitle": "Melody of Death! The Terror of Poison Gas! (死の旋律! 毒ガスの恐怖!!) (Season 1, Episode 4)",
@@ -411045,13 +410855,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2753,
+   "id": 2745,
    "title": "Free Spirit",
    "subtitle": "Too Much of a Good Thing (Season 1, Episode 4)",
    "year": "1989–1990",
    "meta": "TV · English",
    "mechanism": "Brainwashing, Comedic Hypnosis, Love Hypnosis, Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Too Much of a Good Thing (Season 1, Episode 4): After Winnie casts a love spell on a girl that Robb has the hots for, Robb learns that he is the only one who can break the spell. Scene: Winnie casts a love spell on Karen just strong enough to make her pay attention to Robb. The girl falls into a trance. Winnie gets confused about how long she has to keep the spell going thanks to a boy trying to remember the combination to his locker. The witch realizes she has held the spell too long and breaks Karen's trance. Karen looks at Robb under the spell's influence. The spell came out stronger than Winnie intended. under the influence of the spell, Karen becomes totally devoted to Rob.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -411074,6 +410884,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Free Spirit (TV Series)",
      "url": "https://mentalblock.miraheze.org/wiki/Free_Spirit_(TV_Series)"
+    },
+    {
+     "label": "Wikipedia: Free Spirit (TV series)",
+     "url": "https://en.wikipedia.org/wiki/Free_Spirit_(TV_series)"
     }
    ],
    "youtube_ids": [],
@@ -411081,7 +410895,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:77"
+    "fanwiki-screen-oct14:69"
    ],
    "index_only": false,
    "local_only": true,
@@ -411089,7 +410903,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:77": {
+    "fanwiki-screen-oct14:69": {
      "title": "Free Spirit",
      "year": "1989–1990",
      "subtitle": "Too Much of a Good Thing (Season 1, Episode 4)",
@@ -411097,7 +410911,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Brainwashing, Comedic Hypnosis, Love Hypnosis, Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Too Much of a Good Thing (Season 1, Episode 4): After Winnie casts a love spell on a girl that Robb has the hots for, Robb learns that he is the only one who can break the spell. Scene: Winnie casts a love spell on Karen just strong enough to make her pay attention to Robb. The girl falls into a trance. Winnie gets confused about how long she has to keep the spell going thanks to a boy trying to remember the combination to his locker. The witch realizes she has held the spell too long and breaks Karen's trance. Karen looks at Robb under the spell's influence. The spell came out stronger than Winnie intended. under the influence of the spell, Karen becomes totally devoted to Rob.",
      "character": "",
      "categories": [
@@ -411109,6 +410923,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Free Spirit (TV Series)",
        "url": "https://mentalblock.miraheze.org/wiki/Free_Spirit_(TV_Series)"
+      },
+      {
+       "label": "Wikipedia: Free Spirit (TV series)",
+       "url": "https://en.wikipedia.org/wiki/Free_Spirit_(TV_series)"
       }
      ],
      "pregnant_end": "not stated",
@@ -411125,13 +410943,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2754,
+   "id": 2746,
    "title": "French Quarter",
    "subtitle": "",
    "year": "1978",
-   "meta": "Film · French",
+   "meta": "Film · English",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Chronicles the life of a young New Orleans prostitute and her co-workers. A voodoo cult also surrounds the place, and bewitches one of the girls to put her under their control. Scene: In a trance, Laura is taken by the cult to the sacrificial altar. She is completely hypnotized. The priestess places a snake over Laura's body. Under the control of the voodoo spell, she pets the reptile.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -411154,6 +410972,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: French Quarter",
      "url": "https://mentalblock.miraheze.org/wiki/French_Quarter"
+    },
+    {
+     "label": "Wikipedia: French Quarter (film)",
+     "url": "https://en.wikipedia.org/wiki/French_Quarter_(film)"
     }
    ],
    "youtube_ids": [],
@@ -411161,7 +410983,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:78"
+    "fanwiki-screen-oct14:70"
    ],
    "index_only": false,
    "local_only": true,
@@ -411169,15 +410991,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:78": {
+    "fanwiki-screen-oct14:70": {
      "title": "French Quarter",
      "year": "1978",
      "subtitle": "",
      "format": "movie",
      "standalone": true,
-     "meta": "Film · French",
+     "meta": "Film · English",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Chronicles the life of a young New Orleans prostitute and her co-workers. A voodoo cult also surrounds the place, and bewitches one of the girls to put her under their control. Scene: In a trance, Laura is taken by the cult to the sacrificial altar. She is completely hypnotized. The priestess places a snake over Laura's body. Under the control of the voodoo spell, she pets the reptile.",
      "character": "",
      "categories": [
@@ -411188,6 +411010,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: French Quarter",
        "url": "https://mentalblock.miraheze.org/wiki/French_Quarter"
+      },
+      {
+       "label": "Wikipedia: French Quarter (film)",
+       "url": "https://en.wikipedia.org/wiki/French_Quarter_(film)"
       }
      ],
      "pregnant_end": "not stated",
@@ -411205,13 +411031,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2755,
+   "id": 2747,
    "title": "Frozen Scream",
    "subtitle": "",
    "year": "1981",
    "meta": "Film · English",
    "mechanism": "Brainwashing, Chemical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Mad scientists turn people into frozen zombies and the zombies wreak havoc and kill people. Scene: Doctors Stanhope and Johnson gather the students they have turned into mindless slaves. A student under mind control kills one of his classmates. In a trance, Kathryn awaits the call of the evil scientists. When the phone rings, she answers it, and tells what she discovered by posing as Ann's nurse. After hanging up, we can see the mark that the injection of the zombifying serum left on her neck. Ann wakes up, being watched by the scientists' obedient zombies.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -411235,6 +411061,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Frozen Scream",
      "url": "https://mentalblock.miraheze.org/wiki/Frozen_Scream"
+    },
+    {
+     "label": "Wikipedia: Frozen Scream",
+     "url": "https://en.wikipedia.org/wiki/Frozen_Scream"
     }
    ],
    "youtube_ids": [],
@@ -411242,7 +411072,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:79"
+    "fanwiki-screen-oct14:71"
    ],
    "index_only": false,
    "local_only": true,
@@ -411250,7 +411080,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:79": {
+    "fanwiki-screen-oct14:71": {
      "title": "Frozen Scream",
      "year": "1981",
      "subtitle": "",
@@ -411258,7 +411088,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Brainwashing, Chemical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Mad scientists turn people into frozen zombies and the zombies wreak havoc and kill people. Scene: Doctors Stanhope and Johnson gather the students they have turned into mindless slaves. A student under mind control kills one of his classmates. In a trance, Kathryn awaits the call of the evil scientists. When the phone rings, she answers it, and tells what she discovered by posing as Ann's nurse. After hanging up, we can see the mark that the injection of the zombifying serum left on her neck. Ann wakes up, being watched by the scientists' obedient zombies.",
      "character": "",
      "categories": [
@@ -411270,6 +411100,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Frozen Scream",
        "url": "https://mentalblock.miraheze.org/wiki/Frozen_Scream"
+      },
+      {
+       "label": "Wikipedia: Frozen Scream",
+       "url": "https://en.wikipedia.org/wiki/Frozen_Scream"
       }
      ],
      "pregnant_end": "not stated",
@@ -411287,7 +411121,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2756,
+   "id": 2748,
    "title": "Furia à Bahia pour OSS 117",
    "subtitle": "",
    "year": "1965",
@@ -411323,7 +411157,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:80"
+    "fanwiki-screen-oct14:72"
    ],
    "index_only": false,
    "local_only": true,
@@ -411331,7 +411165,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:80": {
+    "fanwiki-screen-oct14:72": {
      "title": "Furia à Bahia pour OSS 117",
      "year": "1965",
      "subtitle": "",
@@ -411367,85 +411201,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2757,
-   "title": "Galaxy Park",
-   "subtitle": "Season 1, Episode 26 / Season 1, Episodes 51-52 / Season 2, Episode 48",
-   "year": "2011–2014",
-   "meta": "TV · Dutch",
-   "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-   "summary": "Season 1, Episode 26: Exo-7, in disguise as human teenager \"Stef,\" is about to be unmasked by alien hunter (and rival alien) Ko (Erik Burke), who is working on an 'alien detector' device. Stef uses his mind control powers to make Mel (Meelberghs) and Paula (Sercu) electrocute Ko. He frees them from mind control at the last second, unwilling to commit murder. Season 1, Episodes 51-52: Stef is ordered to collect the teens and bring them to the spaceship, so he activates his mind control on them and leads them out of the park. He lies to his commander that he was unable to collect his girlfriend",
-   "character": "",
-   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-   "note": "",
-   "tags": [
-    "Western Live Action"
-   ],
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-   "format": "tv",
-   "categories": [
-    "scifi",
-    "crime"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki: Galaxy Park",
-     "url": "https://mentalblock.miraheze.org/wiki/Galaxy_Park"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "fanwiki-screen-oct14"
-   ],
-   "source_records": [
-    "fanwiki-screen-oct14:81"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "fanwiki-screen-oct14:81": {
-     "title": "Galaxy Park",
-     "year": "2011–2014",
-     "subtitle": "Season 1, Episode 26 / Season 1, Episodes 51-52 / Season 2, Episode 48",
-     "format": "tv",
-     "standalone": true,
-     "meta": "TV · Dutch",
-     "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-     "summary": "Season 1, Episode 26: Exo-7, in disguise as human teenager \"Stef,\" is about to be unmasked by alien hunter (and rival alien) Ko (Erik Burke), who is working on an 'alien detector' device. Stef uses his mind control powers to make Mel (Meelberghs) and Paula (Sercu) electrocute Ko. He frees them from mind control at the last second, unwilling to commit murder. Season 1, Episodes 51-52: Stef is ordered to collect the teens and bring them to the spaceship, so he activates his mind control on them and leads them out of the park. He lies to his commander that he was unable to collect his girlfriend",
-     "character": "",
-     "categories": [
-      "scifi",
-      "crime"
-     ],
-     "sources": [
-      {
-       "label": "Mental Block wiki: Galaxy Park",
-       "url": "https://mentalblock.miraheze.org/wiki/Galaxy_Park"
-      }
-     ],
-     "pregnant_end": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "married": "not stated",
-     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-     "group": "Fan-wiki screen additions (Oct 2026)",
-     "tags": [
-      "Western Live Action"
-     ]
-    }
-   }
-  },
-  {
-   "id": 2758,
+   "id": 2749,
    "title": "Gara - Gara Duyung",
    "subtitle": "Ep. 53",
    "year": "2016",
@@ -411480,7 +411236,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:82"
+    "fanwiki-screen-oct14:73"
    ],
    "index_only": false,
    "local_only": true,
@@ -411488,7 +411244,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:82": {
+    "fanwiki-screen-oct14:73": {
      "title": "Gara - Gara Duyung",
      "year": "2016",
      "subtitle": "Ep. 53",
@@ -411523,7 +411279,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2759,
+   "id": 2750,
    "title": "Garo the Movie: Red Requiem",
    "subtitle": "",
    "year": "2010",
@@ -411558,7 +411314,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:83"
+    "fanwiki-screen-oct14:74"
    ],
    "index_only": false,
    "local_only": true,
@@ -411566,7 +411322,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:83": {
+    "fanwiki-screen-oct14:74": {
      "title": "Garo the Movie: Red Requiem",
      "year": "2010",
      "subtitle": "",
@@ -411601,7 +411357,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2760,
+   "id": 2751,
    "title": "Gekisou Sentai Carranger",
    "subtitle": "Ep. 10: A Great Reversal!! Bicycle Training / Ep. 45: The Starting Point of True Love",
    "year": "2017",
@@ -411636,7 +411392,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:84"
+    "fanwiki-screen-oct14:75"
    ],
    "index_only": false,
    "local_only": true,
@@ -411644,7 +411400,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:84": {
+    "fanwiki-screen-oct14:75": {
      "title": "Gekisou Sentai Carranger",
      "year": "2017",
      "subtitle": "Ep. 10: A Great Reversal!! Bicycle Training / Ep. 45: The Starting Point of True Love",
@@ -411679,13 +411435,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2761,
+   "id": 2752,
    "title": "Gilligan's Island",
    "subtitle": "Forget Me Not (Season 1, Episode 30) / The Friendly Physician (Season 2, Episode 29) / Voodoo (Season 3, Episode 5) / Ri",
    "year": "1964–1967",
-   "meta": "TV · English",
+   "meta": "TV · en, archive-date=January 30, 2022, archive-url=https://web.a",
    "mechanism": "Comedic Hypnosis, Magical Hypnosis, Technological Hypnosis, Traditional Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Forget Me Not (Season 1, Episode 30): The Skipper hits his head and develops amnesia, which jeopardizes a chance for the castaways to signal a passing US Navy fleet. To jog the Skipper's memories, the Professor tries hypnotic regression therapy, only to leave the Skipper 'stuck' in his World War II Navy days. He mistakes the other castaways for Japanese soldiers and locks them in a cave. The Professor tries to hypnotize him again, but only manages to entrance Gilligan and Mr. Howell. Eventually, the Skipper is hit on the head with a rock and regains his memories, but the Navy fleet has already",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -411709,6 +411465,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Gilligan's Island",
      "url": "https://mentalblock.miraheze.org/wiki/Gilligan's_Island"
+    },
+    {
+     "label": "Wikipedia: Gilligan's Island",
+     "url": "https://en.wikipedia.org/wiki/Gilligan's_Island"
     }
    ],
    "youtube_ids": [],
@@ -411716,7 +411476,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:85"
+    "fanwiki-screen-oct14:76"
    ],
    "index_only": false,
    "local_only": true,
@@ -411724,15 +411484,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:85": {
+    "fanwiki-screen-oct14:76": {
      "title": "Gilligan's Island",
      "year": "1964–1967",
      "subtitle": "Forget Me Not (Season 1, Episode 30) / The Friendly Physician (Season 2, Episode 29) / Voodoo (Season 3, Episode 5) / Ri",
      "format": "tv",
      "standalone": true,
-     "meta": "TV · English",
+     "meta": "TV · en, archive-date=January 30, 2022, archive-url=https://web.a",
      "mechanism": "Comedic Hypnosis, Magical Hypnosis, Technological Hypnosis, Traditional Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Forget Me Not (Season 1, Episode 30): The Skipper hits his head and develops amnesia, which jeopardizes a chance for the castaways to signal a passing US Navy fleet. To jog the Skipper's memories, the Professor tries hypnotic regression therapy, only to leave the Skipper 'stuck' in his World War II Navy days. He mistakes the other castaways for Japanese soldiers and locks them in a cave. The Professor tries to hypnotize him again, but only manages to entrance Gilligan and Mr. Howell. Eventually, the Skipper is hit on the head with a rock and regains his memories, but the Navy fleet has already",
      "character": "",
      "categories": [
@@ -411745,6 +411505,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Gilligan's Island",
        "url": "https://mentalblock.miraheze.org/wiki/Gilligan's_Island"
+      },
+      {
+       "label": "Wikipedia: Gilligan's Island",
+       "url": "https://en.wikipedia.org/wiki/Gilligan's_Island"
       }
      ],
      "pregnant_end": "not stated",
@@ -411761,7 +411525,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2762,
+   "id": 2753,
    "title": "God of Thunder",
    "subtitle": "",
    "year": "2015",
@@ -411796,7 +411560,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:86"
+    "fanwiki-screen-oct14:77"
    ],
    "index_only": false,
    "local_only": true,
@@ -411804,7 +411568,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:86": {
+    "fanwiki-screen-oct14:77": {
      "title": "God of Thunder",
      "year": "2015",
      "subtitle": "",
@@ -411839,85 +411603,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2763,
-   "title": "Goosebumps 2: Haunted Halloween",
-   "subtitle": "",
-   "year": "2018",
-   "meta": "Film · English",
-   "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-   "summary": "Two teenagers find a magic book that brings a evil ventriloquist's dummy called Slappy to life, and he releases ghouls and monsters over the town. Scene: Kathy is brainwashed and turned into Slappy's servant doll.",
-   "character": "",
-   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-   "note": "",
-   "tags": [
-    "Films Live-Action",
-    "Western Live Action"
-   ],
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-   "format": "movie",
-   "categories": [
-    "index-62"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki: Goosebumps 2: Haunted Halloween",
-     "url": "https://mentalblock.miraheze.org/wiki/Goosebumps_2:_Haunted_Halloween"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "fanwiki-screen-oct14"
-   ],
-   "source_records": [
-    "fanwiki-screen-oct14:87"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "fanwiki-screen-oct14:87": {
-     "title": "Goosebumps 2: Haunted Halloween",
-     "year": "2018",
-     "subtitle": "",
-     "format": "movie",
-     "standalone": true,
-     "meta": "Film · English",
-     "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-     "summary": "Two teenagers find a magic book that brings a evil ventriloquist's dummy called Slappy to life, and he releases ghouls and monsters over the town. Scene: Kathy is brainwashed and turned into Slappy's servant doll.",
-     "character": "",
-     "categories": [
-      "index-62"
-     ],
-     "sources": [
-      {
-       "label": "Mental Block wiki: Goosebumps 2: Haunted Halloween",
-       "url": "https://mentalblock.miraheze.org/wiki/Goosebumps_2:_Haunted_Halloween"
-      }
-     ],
-     "pregnant_end": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "married": "not stated",
-     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-     "group": "Fan-wiki screen additions (Oct 2026)",
-     "tags": [
-      "Films Live-Action",
-      "Western Live Action"
-     ]
-    }
-   }
-  },
-  {
-   "id": 2764,
+   "id": 2754,
    "title": "Gray Matter (2018)",
    "subtitle": "",
    "year": "2018",
@@ -411954,7 +411640,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:88"
+    "fanwiki-screen-oct14:78"
    ],
    "index_only": false,
    "local_only": true,
@@ -411962,7 +411648,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:88": {
+    "fanwiki-screen-oct14:78": {
      "title": "Gray Matter (2018)",
      "year": "2018",
      "subtitle": "",
@@ -411999,13 +411685,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2765,
+   "id": 2755,
    "title": "Grimm",
    "subtitle": "\"Lonelyhearts\" (Season 1, Episode 4)",
    "year": "2011–2017",
    "meta": "TV · English",
    "mechanism": "Chemical Hypnosis, Love Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "\"Lonelyhearts\" (Season 1, Episode 4): After investigating a strange cluster of female deaths and disappearances, Nick sends Monroe (Silas Weir Mitchell) undercover to get a whiff of a hypnotic suspect, the Ziegevolk - one of the most dangerous wesen! Scene: Ziegevolk approaches a woman in a bar. He uses his pheromone touch. The woman feels the effects of the pheromone. Hypnotically, she falls in love with him.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -412027,6 +411713,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Grimm",
      "url": "https://mentalblock.miraheze.org/wiki/Grimm"
+    },
+    {
+     "label": "Wikipedia: Grimm (TV series)",
+     "url": "https://en.wikipedia.org/wiki/Grimm_(TV_series)"
     }
    ],
    "youtube_ids": [],
@@ -412034,7 +411724,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:89"
+    "fanwiki-screen-oct14:79"
    ],
    "index_only": false,
    "local_only": true,
@@ -412042,7 +411732,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:89": {
+    "fanwiki-screen-oct14:79": {
      "title": "Grimm",
      "year": "2011–2017",
      "subtitle": "\"Lonelyhearts\" (Season 1, Episode 4)",
@@ -412050,7 +411740,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Chemical Hypnosis, Love Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "\"Lonelyhearts\" (Season 1, Episode 4): After investigating a strange cluster of female deaths and disappearances, Nick sends Monroe (Silas Weir Mitchell) undercover to get a whiff of a hypnotic suspect, the Ziegevolk - one of the most dangerous wesen! Scene: Ziegevolk approaches a woman in a bar. He uses his pheromone touch. The woman feels the effects of the pheromone. Hypnotically, she falls in love with him.",
      "character": "",
      "categories": [
@@ -412061,6 +411751,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Grimm",
        "url": "https://mentalblock.miraheze.org/wiki/Grimm"
+      },
+      {
+       "label": "Wikipedia: Grimm (TV series)",
+       "url": "https://en.wikipedia.org/wiki/Grimm_(TV_series)"
       }
      ],
      "pregnant_end": "not stated",
@@ -412077,13 +411771,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2766,
+   "id": 2756,
    "title": "Groom Lake",
    "subtitle": "",
    "year": "2002",
-   "meta": "Film · language not stated",
+   "meta": "Film · English",
    "mechanism": "Possession",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "A woman discovers she has a serious terminal illness, so she makes her boyfriend visit Groom Lake, a place of alien activity, hoping to discover life. The problem is that the government hides its own secrets, just as aliens, who are capable of controlling minds and possessing bodies. May have hostile intentions? Scene: Kate wakes up strapped to a stretcher, as an old man possessed by an alien approaches. The girl panics. The alien emanates an energy beam from its mouth. The beam hits Kate, who suddenly calms down. The young woman falls into a hypnotic trance. The alien leaves the old man's body and possesses the body of a robot.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -412107,6 +411801,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Groom Lake",
      "url": "https://mentalblock.miraheze.org/wiki/Groom_Lake"
+    },
+    {
+     "label": "Wikipedia: Groom Lake (film)",
+     "url": "https://en.wikipedia.org/wiki/Groom_Lake_(film)"
     }
    ],
    "youtube_ids": [],
@@ -412114,7 +411812,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:90"
+    "fanwiki-screen-oct14:80"
    ],
    "index_only": false,
    "local_only": true,
@@ -412122,15 +411820,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:90": {
+    "fanwiki-screen-oct14:80": {
      "title": "Groom Lake",
      "year": "2002",
      "subtitle": "",
      "format": "movie",
      "standalone": true,
-     "meta": "Film · language not stated",
+     "meta": "Film · English",
      "mechanism": "Possession",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "A woman discovers she has a serious terminal illness, so she makes her boyfriend visit Groom Lake, a place of alien activity, hoping to discover life. The problem is that the government hides its own secrets, just as aliens, who are capable of controlling minds and possessing bodies. May have hostile intentions? Scene: Kate wakes up strapped to a stretcher, as an old man possessed by an alien approaches. The girl panics. The alien emanates an energy beam from its mouth. The beam hits Kate, who suddenly calms down. The young woman falls into a hypnotic trance. The alien leaves the old man's body and possesses the body of a robot.",
      "character": "",
      "categories": [
@@ -412142,6 +411840,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Groom Lake",
        "url": "https://mentalblock.miraheze.org/wiki/Groom_Lake"
+      },
+      {
+       "label": "Wikipedia: Groom Lake (film)",
+       "url": "https://en.wikipedia.org/wiki/Groom_Lake_(film)"
       }
      ],
      "pregnant_end": "not stated",
@@ -412159,7 +411861,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2767,
+   "id": 2757,
    "title": "H2O: Just Add Water",
    "subtitle": "\"Moon Spell\" (Season 1, Episode 7) / \"The Siren Effect\" (Season 1, Episode 12) / \"Bad Moon Rising\" (Season 1, Episode 18",
    "year": "2006–2010",
@@ -412193,7 +411895,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:91"
+    "fanwiki-screen-oct14:81"
    ],
    "index_only": false,
    "local_only": true,
@@ -412201,7 +411903,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:91": {
+    "fanwiki-screen-oct14:81": {
      "title": "H2O: Just Add Water",
      "year": "2006–2010",
      "subtitle": "\"Moon Spell\" (Season 1, Episode 7) / \"The Siren Effect\" (Season 1, Episode 12) / \"Bad Moon Rising\" (Season 1, Episode 18",
@@ -412235,13 +411937,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2768,
+   "id": 2758,
    "title": "Hammer: House of Horror",
    "subtitle": "1x10- Guardian of the Abyss",
    "year": "1980",
    "meta": "TV · English",
    "mechanism": "Love Hypnosis, Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "This British anthology series, which was produced by England's leading exporters of horror films, told tales of haunted houses, demons, ghosts, and other supernatural wonders. 1x10- Guardian of the Abyss: A scrying glass puts an antiques exporter in the path of a woman fleeing from devil worshipers and the evil hypnotist who leads them. Scene: a girl is brought to the ritual Randolph hypnotizes the girl She is completely under his control the girl goes crazy and hits her head on the pillar several times. Randolph orders the girl to look in the mirror She obeys a demon appears in the mirror Randolph hypnotizes another girl",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -412262,6 +411964,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Hammer: House of Horror",
      "url": "https://mentalblock.miraheze.org/wiki/Hammer:_House_of_Horror"
+    },
+    {
+     "label": "Wikipedia: Hammer House of Horror",
+     "url": "https://en.wikipedia.org/wiki/Hammer_House_of_Horror"
     }
    ],
    "youtube_ids": [],
@@ -412269,7 +411975,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:92"
+    "fanwiki-screen-oct14:82"
    ],
    "index_only": false,
    "local_only": true,
@@ -412277,7 +411983,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:92": {
+    "fanwiki-screen-oct14:82": {
      "title": "Hammer: House of Horror",
      "year": "1980",
      "subtitle": "1x10- Guardian of the Abyss",
@@ -412285,7 +411991,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Love Hypnosis, Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "This British anthology series, which was produced by England's leading exporters of horror films, told tales of haunted houses, demons, ghosts, and other supernatural wonders. 1x10- Guardian of the Abyss: A scrying glass puts an antiques exporter in the path of a woman fleeing from devil worshipers and the evil hypnotist who leads them. Scene: a girl is brought to the ritual Randolph hypnotizes the girl She is completely under his control the girl goes crazy and hits her head on the pillar several times. Randolph orders the girl to look in the mirror She obeys a demon appears in the mirror Randolph hypnotizes another girl",
      "character": "",
      "categories": [
@@ -412295,83 +412001,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Hammer: House of Horror",
        "url": "https://mentalblock.miraheze.org/wiki/Hammer:_House_of_Horror"
-      }
-     ],
-     "pregnant_end": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "married": "not stated",
-     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-     "group": "Fan-wiki screen additions (Oct 2026)",
-     "tags": [
-      "Western Live Action"
-     ]
-    }
-   }
-  },
-  {
-   "id": 2769,
-   "title": "Hellphone",
-   "subtitle": "",
-   "year": "2007",
-   "meta": "Film · French",
-   "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-   "summary": "A teenager is fascinated by his cell phone, which will allow him to achieve his goal: to seduce the beautiful student he is in love with. Unfortunately, this addiction will have consequences for the boy's behavior, when the cell phone acquires a will of its own, and begins to control people's minds. Scene: The Hellphone calls to Margot. Margot answers her phone. She is hypnotized, and sets Clemence's hair on fire. Also in a trance, Clemence doesn't realize that her hair is on fire. Virgile receives a call and falls into a hypnotic trance. Under mind control, he dances naked in the school lunchroom, and kisses one of his friends.",
-   "character": "",
-   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-   "note": "",
-   "tags": [
-    "Films Live-Action",
-    "Western Live Action"
-   ],
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-   "format": "movie",
-   "categories": [
-    "fantasy"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki: Hellphone",
-     "url": "https://mentalblock.miraheze.org/wiki/Hellphone"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "fanwiki-screen-oct14"
-   ],
-   "source_records": [
-    "fanwiki-screen-oct14:93"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "fanwiki-screen-oct14:93": {
-     "title": "Hellphone",
-     "year": "2007",
-     "subtitle": "",
-     "format": "movie",
-     "standalone": true,
-     "meta": "Film · French",
-     "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-     "summary": "A teenager is fascinated by his cell phone, which will allow him to achieve his goal: to seduce the beautiful student he is in love with. Unfortunately, this addiction will have consequences for the boy's behavior, when the cell phone acquires a will of its own, and begins to control people's minds. Scene: The Hellphone calls to Margot. Margot answers her phone. She is hypnotized, and sets Clemence's hair on fire. Also in a trance, Clemence doesn't realize that her hair is on fire. Virgile receives a call and falls into a hypnotic trance. Under mind control, he dances naked in the school lunchroom, and kisses one of his friends.",
-     "character": "",
-     "categories": [
-      "fantasy"
-     ],
-     "sources": [
+      },
       {
-       "label": "Mental Block wiki: Hellphone",
-       "url": "https://mentalblock.miraheze.org/wiki/Hellphone"
+       "label": "Wikipedia: Hammer House of Horror",
+       "url": "https://en.wikipedia.org/wiki/Hammer_House_of_Horror"
       }
      ],
      "pregnant_end": "not stated",
@@ -412382,20 +412015,19 @@ window.CATALOG = {
      "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
      "group": "Fan-wiki screen additions (Oct 2026)",
      "tags": [
-      "Films Live-Action",
       "Western Live Action"
      ]
     }
    }
   },
   {
-   "id": 2770,
+   "id": 2759,
    "title": "Hercules: The Legendary Journeys",
    "subtitle": "The Festival of Dionysus",
    "year": "1995",
-   "meta": "TV · Greek",
+   "meta": "TV · English",
    "mechanism": "Chemical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Hercules is half-man, half-god and a hero of fantastic strength. After his malevolent stepmother, Hera, kills his wife and children, he wanders about Earth with mortal best friend Iolaus, fighting evil and trying to overcome his loss. The Festival of Dionysus: When beloved pacifist king Iphicles of Meliad refuses to cancel the new wine festival of Dionysus after his queen Camilla dreamed the virgins will, as the law allows them, kill him instead of prolong his reign by a year and then crown his firstborn heir Pentheus, she sends their junior son Nestor to Hercules, who had just been cheated by Centaur twins who sneakingly trade places at each drinking duel, without explaining. In Meliad they find the blind seer, who reluctantly predicts another bloodbath. Pentheus prays to war-god Ares. Captain Gudrun's guards fail to overp Scene: Ares enchants the festival wine. The maidens of the festival drink the wine. The ladies fall under the influence of Ares' wine. The young women let themselves be carried along by the crowd. They arm themselves to kill the king and queen. The women are freed from Ares' influence after Hercules destroys the God of War's altar.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -412418,6 +412050,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Hercules: The Legendary Journeys",
      "url": "https://mentalblock.miraheze.org/wiki/Hercules:_The_Legendary_Journeys"
+    },
+    {
+     "label": "Wikipedia: Hercules: The Legendary Journeys",
+     "url": "https://en.wikipedia.org/wiki/Hercules:_The_Legendary_Journeys"
     }
    ],
    "youtube_ids": [],
@@ -412425,7 +412061,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:94"
+    "fanwiki-screen-oct14:83"
    ],
    "index_only": false,
    "local_only": true,
@@ -412433,15 +412069,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:94": {
+    "fanwiki-screen-oct14:83": {
      "title": "Hercules: The Legendary Journeys",
      "year": "1995",
      "subtitle": "The Festival of Dionysus",
      "format": "tv",
      "standalone": true,
-     "meta": "TV · Greek",
+     "meta": "TV · English",
      "mechanism": "Chemical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Hercules is half-man, half-god and a hero of fantastic strength. After his malevolent stepmother, Hera, kills his wife and children, he wanders about Earth with mortal best friend Iolaus, fighting evil and trying to overcome his loss. The Festival of Dionysus: When beloved pacifist king Iphicles of Meliad refuses to cancel the new wine festival of Dionysus after his queen Camilla dreamed the virgins will, as the law allows them, kill him instead of prolong his reign by a year and then crown his firstborn heir Pentheus, she sends their junior son Nestor to Hercules, who had just been cheated by Centaur twins who sneakingly trade places at each drinking duel, without explaining. In Meliad they find the blind seer, who reluctantly predicts another bloodbath. Pentheus prays to war-god Ares. Captain Gudrun's guards fail to overp Scene: Ares enchants the festival wine. The maidens of the festival drink the wine. The ladies fall under the influence of Ares' wine. The young women let themselves be carried along by the crowd. They arm themselves to kill the king and queen. The women are freed from Ares' influence after Hercules destroys the God of War's altar.",
      "character": "",
      "categories": [
@@ -412453,6 +412089,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Hercules: The Legendary Journeys",
        "url": "https://mentalblock.miraheze.org/wiki/Hercules:_The_Legendary_Journeys"
+      },
+      {
+       "label": "Wikipedia: Hercules: The Legendary Journeys",
+       "url": "https://en.wikipedia.org/wiki/Hercules:_The_Legendary_Journeys"
       }
      ],
      "pregnant_end": "not stated",
@@ -412469,7 +412109,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2771,
+   "id": 2760,
    "title": "Highlander: The Series",
    "subtitle": "Avatar (Season 6, Episode 1)",
    "year": "1992–1998",
@@ -412504,7 +412144,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:95"
+    "fanwiki-screen-oct14:84"
    ],
    "index_only": false,
    "local_only": true,
@@ -412512,7 +412152,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:95": {
+    "fanwiki-screen-oct14:84": {
      "title": "Highlander: The Series",
      "year": "1992–1998",
      "subtitle": "Avatar (Season 6, Episode 1)",
@@ -412547,13 +412187,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2772,
+   "id": 2761,
    "title": "Highly Dangerous",
    "subtitle": "",
    "year": "1950",
    "meta": "Film · English",
    "mechanism": "Brainwashing, Chemical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "When British Intelligence discovers that an Iron Curtain country is developing insects as weapons, they persuade eminent entomologist Frances Gray (Margaret Lockwood) to get into the country to collect some specimens. On arrival, her cover is almost immediately blown and her contact murdered. The future looks grim for her and also perhaps for the world. Scene: Frances is injected with a hypnotic drug. Frances begins to feel the effects of the drug. Frances falls into a trance. The spies interrogate Frances, but she mistakes their questions for trivia about her favorite spy radio show, and collapses. The spies return Frances to her government, but as an unexpected effect of the drug, she now believes she is in one of their spy programs.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -412576,6 +412216,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Highly Dangerous",
      "url": "https://mentalblock.miraheze.org/wiki/Highly_Dangerous"
+    },
+    {
+     "label": "Wikipedia: Highly Dangerous",
+     "url": "https://en.wikipedia.org/wiki/Highly_Dangerous"
     }
    ],
    "youtube_ids": [],
@@ -412583,7 +412227,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:96"
+    "fanwiki-screen-oct14:85"
    ],
    "index_only": false,
    "local_only": true,
@@ -412591,7 +412235,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:96": {
+    "fanwiki-screen-oct14:85": {
      "title": "Highly Dangerous",
      "year": "1950",
      "subtitle": "",
@@ -412599,7 +412243,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Brainwashing, Chemical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "When British Intelligence discovers that an Iron Curtain country is developing insects as weapons, they persuade eminent entomologist Frances Gray (Margaret Lockwood) to get into the country to collect some specimens. On arrival, her cover is almost immediately blown and her contact murdered. The future looks grim for her and also perhaps for the world. Scene: Frances is injected with a hypnotic drug. Frances begins to feel the effects of the drug. Frances falls into a trance. The spies interrogate Frances, but she mistakes their questions for trivia about her favorite spy radio show, and collapses. The spies return Frances to her government, but as an unexpected effect of the drug, she now believes she is in one of their spy programs.",
      "character": "",
      "categories": [
@@ -412610,6 +412254,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Highly Dangerous",
        "url": "https://mentalblock.miraheze.org/wiki/Highly_Dangerous"
+      },
+      {
+       "label": "Wikipedia: Highly Dangerous",
+       "url": "https://en.wikipedia.org/wiki/Highly_Dangerous"
       }
      ],
      "pregnant_end": "not stated",
@@ -412627,7 +412275,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2773,
+   "id": 2762,
    "title": "Hikari Sentai Maskman",
    "subtitle": "Ep. 5: The Small Swordsman, Blue / Ep. 23: Mio Who Has Become a Demon / Ep. 41: Female Thieves Haruka & Momoko",
    "year": "1987",
@@ -412661,7 +412309,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:97"
+    "fanwiki-screen-oct14:86"
    ],
    "index_only": false,
    "local_only": true,
@@ -412669,7 +412317,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:97": {
+    "fanwiki-screen-oct14:86": {
      "title": "Hikari Sentai Maskman",
      "year": "1987",
      "subtitle": "Ep. 5: The Small Swordsman, Blue / Ep. 23: Mio Who Has Become a Demon / Ep. 41: Female Thieves Haruka & Momoko",
@@ -412703,7 +412351,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2774,
+   "id": 2763,
    "title": "Honey, I Shrunk the Kids: The TV Show",
    "subtitle": "Honey, I'm Haunted (Season 1, Episode 3) / Honey, You've Drained My Brain (Season 1, Episode 14) / Honey, I'm in the Moo",
    "year": "1997–2000",
@@ -412740,7 +412388,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:98"
+    "fanwiki-screen-oct14:87"
    ],
    "index_only": false,
    "local_only": true,
@@ -412748,7 +412396,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:98": {
+    "fanwiki-screen-oct14:87": {
      "title": "Honey, I Shrunk the Kids: The TV Show",
      "year": "1997–2000",
      "subtitle": "Honey, I'm Haunted (Season 1, Episode 3) / Honey, You've Drained My Brain (Season 1, Episode 14) / Honey, I'm in the Moo",
@@ -412785,7 +412433,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2775,
+   "id": 2764,
    "title": "Hyakuju Sentai Gaoranger",
    "subtitle": "Quest 06: Bison in Love!! / Quest 19: The Bison Retires!? / Quest 36: The Warriors Dance / Quest 38: The Spirit King's D",
    "year": "2018",
@@ -412819,7 +412467,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:99"
+    "fanwiki-screen-oct14:88"
    ],
    "index_only": false,
    "local_only": true,
@@ -412827,7 +412475,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:99": {
+    "fanwiki-screen-oct14:88": {
      "title": "Hyakuju Sentai Gaoranger",
      "year": "2018",
      "subtitle": "Quest 06: Bison in Love!! / Quest 19: The Bison Retires!? / Quest 36: The Warriors Dance / Quest 38: The Spirit King's D",
@@ -412861,13 +412509,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2776,
+   "id": 2765,
    "title": "I'm in the Band",
    "subtitle": "Trippnotized (Season 2, Episode 19)",
    "year": "2009–2011",
    "meta": "TV · English",
    "mechanism": "Comedic Hypnosis, Traditional Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Trippnotized (Season 2, Episode 19): Iron Weasel finally convinces music producer Simon Craig to release their comeback album. Unfortunately, Simon also plans to sign Iron Weasel's arch-rivals, Metal Wolf, to a contract. Derek tries to hypnotize the members of Metal Wolf into making fools of themselves at Simon's party, but the tables are turned when Derek accidentally hypnotizes himself and the rest of Iron Weasel instead. The gang's antics quickly land them in trouble with Simon, but Izzy eavesdrops on Metal Wolf and realizes that she and the rest of the band members have been hypnotized. De Scene: Derek hypnotizes the audience. The audience is hypnotized. Derek programs the mesmerized audience to hate the next band. He snaps out the audience of the trance. The audience reacts with disgust to the next rock band... ...seeing them as a children's music band",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -412889,6 +412537,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: I'm in the Band",
      "url": "https://mentalblock.miraheze.org/wiki/I'm_in_the_Band"
+    },
+    {
+     "label": "Wikipedia: I'm in the Band",
+     "url": "https://en.wikipedia.org/wiki/I'm_in_the_Band"
     }
    ],
    "youtube_ids": [],
@@ -412896,7 +412548,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:100"
+    "fanwiki-screen-oct14:89"
    ],
    "index_only": false,
    "local_only": true,
@@ -412904,7 +412556,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:100": {
+    "fanwiki-screen-oct14:89": {
      "title": "I'm in the Band",
      "year": "2009–2011",
      "subtitle": "Trippnotized (Season 2, Episode 19)",
@@ -412912,7 +412564,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Comedic Hypnosis, Traditional Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Trippnotized (Season 2, Episode 19): Iron Weasel finally convinces music producer Simon Craig to release their comeback album. Unfortunately, Simon also plans to sign Iron Weasel's arch-rivals, Metal Wolf, to a contract. Derek tries to hypnotize the members of Metal Wolf into making fools of themselves at Simon's party, but the tables are turned when Derek accidentally hypnotizes himself and the rest of Iron Weasel instead. The gang's antics quickly land them in trouble with Simon, but Izzy eavesdrops on Metal Wolf and realizes that she and the rest of the band members have been hypnotized. De Scene: Derek hypnotizes the audience. The audience is hypnotized. Derek programs the mesmerized audience to hate the next band. He snaps out the audience of the trance. The audience reacts with disgust to the next rock band... ...seeing them as a children's music band",
      "character": "",
      "categories": [
@@ -412923,6 +412575,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: I'm in the Band",
        "url": "https://mentalblock.miraheze.org/wiki/I'm_in_the_Band"
+      },
+      {
+       "label": "Wikipedia: I'm in the Band",
+       "url": "https://en.wikipedia.org/wiki/I'm_in_the_Band"
       }
      ],
      "pregnant_end": "not stated",
@@ -412939,13 +412595,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2777,
+   "id": 2766,
    "title": "I Walked with a Zombie",
    "subtitle": "",
    "year": "1943",
    "meta": "Film · English",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "A nurse is hired to care for the wife of a sugar plantation owner, and starts to believe the woman was transformed into a mindless zombie slave. Scene: Betsy meets Jessica, and her perpetual trance-like state is explained as a consequence of a tropical fever. A mindless zombie watches the house. Betsy finds Jessica wandering mesmerized through the house, and begins to suspect that she has been the victim of a voodoo spell. While searching for Jessica, who is wandering mesmerized through the plantation, Betsy comes across a zombie slave. A tribe performs a voodoo ritual. Under the spell's influence, Jessica leaves the house.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -412967,6 +412623,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: I Walked with a Zombie",
      "url": "https://mentalblock.miraheze.org/wiki/I_Walked_with_a_Zombie"
+    },
+    {
+     "label": "Wikipedia: I Walked with a Zombie",
+     "url": "https://en.wikipedia.org/wiki/I_Walked_with_a_Zombie"
     }
    ],
    "youtube_ids": [],
@@ -412974,7 +412634,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:101"
+    "fanwiki-screen-oct14:90"
    ],
    "index_only": false,
    "local_only": true,
@@ -412982,7 +412642,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:101": {
+    "fanwiki-screen-oct14:90": {
      "title": "I Walked with a Zombie",
      "year": "1943",
      "subtitle": "",
@@ -412990,7 +412650,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "A nurse is hired to care for the wife of a sugar plantation owner, and starts to believe the woman was transformed into a mindless zombie slave. Scene: Betsy meets Jessica, and her perpetual trance-like state is explained as a consequence of a tropical fever. A mindless zombie watches the house. Betsy finds Jessica wandering mesmerized through the house, and begins to suspect that she has been the victim of a voodoo spell. While searching for Jessica, who is wandering mesmerized through the plantation, Betsy comes across a zombie slave. A tribe performs a voodoo ritual. Under the spell's influence, Jessica leaves the house.",
      "character": "",
      "categories": [
@@ -413000,6 +412660,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: I Walked with a Zombie",
        "url": "https://mentalblock.miraheze.org/wiki/I_Walked_with_a_Zombie"
+      },
+      {
+       "label": "Wikipedia: I Walked with a Zombie",
+       "url": "https://en.wikipedia.org/wiki/I_Walked_with_a_Zombie"
       }
      ],
      "pregnant_end": "not stated",
@@ -413017,7 +412681,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2778,
+   "id": 2767,
    "title": "Ichhapyari naagin",
    "subtitle": "Episode 173",
    "year": "2016",
@@ -413053,7 +412717,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:102"
+    "fanwiki-screen-oct14:91"
    ],
    "index_only": false,
    "local_only": true,
@@ -413061,7 +412725,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:102": {
+    "fanwiki-screen-oct14:91": {
      "title": "Ichhapyari naagin",
      "year": "2016",
      "subtitle": "Episode 173",
@@ -413097,7 +412761,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2779,
+   "id": 2768,
    "title": "Imaginário",
    "subtitle": "Boto (Episode 8)",
    "year": "2016",
@@ -413131,7 +412795,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:103"
+    "fanwiki-screen-oct14:92"
    ],
    "index_only": false,
    "local_only": true,
@@ -413139,7 +412803,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:103": {
+    "fanwiki-screen-oct14:92": {
      "title": "Imaginário",
      "year": "2016",
      "subtitle": "Boto (Episode 8)",
@@ -413173,13 +412837,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2780,
+   "id": 2769,
    "title": "Inazuman Flash",
    "subtitle": "The Mysterious Woman: Whose Name is the Despar Secret Agent (Season 1, Episode 16)",
    "year": "1974",
-   "meta": "TV · language not stated",
+   "meta": "TV · jaDead link, date=March 2022, bot=InternetArchiveBot, fix-at",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "A direct and darker continuation of the first series, after the defeat of Emperor Bamba and his mutant minions Inazuman goes on to fight the evil robots of the Despar Army with the help of cynical cyborg Interpol agent Makoto Arai and the new ability to hurl lightning bolts. Scene: Desper hypnotizes Agent Maya. Agent Maya falls into the hypnotic spell. Hypnotized, Agent Maya is programmed to obey. Agent Maya acts normally on her meeting with her cousin Makoto. Under mind control,Maya threatens to kill Makoto. Maya cannot carry out the order to shoot Makoto, and passes out. Maya wakes up confused from her trance.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -413201,6 +412865,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Inazuman Flash",
      "url": "https://mentalblock.miraheze.org/wiki/Inazuman_Flash"
+    },
+    {
+     "label": "Wikipedia: Inazuman",
+     "url": "https://en.wikipedia.org/wiki/Inazuman"
     }
    ],
    "youtube_ids": [],
@@ -413208,7 +412876,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:104"
+    "fanwiki-screen-oct14:93"
    ],
    "index_only": false,
    "local_only": true,
@@ -413216,15 +412884,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:104": {
+    "fanwiki-screen-oct14:93": {
      "title": "Inazuman Flash",
      "year": "1974",
      "subtitle": "The Mysterious Woman: Whose Name is the Despar Secret Agent (Season 1, Episode 16)",
      "format": "tv",
      "standalone": true,
-     "meta": "TV · language not stated",
+     "meta": "TV · jaDead link, date=March 2022, bot=InternetArchiveBot, fix-at",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "A direct and darker continuation of the first series, after the defeat of Emperor Bamba and his mutant minions Inazuman goes on to fight the evil robots of the Despar Army with the help of cynical cyborg Interpol agent Makoto Arai and the new ability to hurl lightning bolts. Scene: Desper hypnotizes Agent Maya. Agent Maya falls into the hypnotic spell. Hypnotized, Agent Maya is programmed to obey. Agent Maya acts normally on her meeting with her cousin Makoto. Under mind control,Maya threatens to kill Makoto. Maya cannot carry out the order to shoot Makoto, and passes out. Maya wakes up confused from her trance.",
      "character": "",
      "categories": [
@@ -413235,82 +412903,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Inazuman Flash",
        "url": "https://mentalblock.miraheze.org/wiki/Inazuman_Flash"
-      }
-     ],
-     "pregnant_end": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "married": "not stated",
-     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-     "group": "Fan-wiki screen additions (Oct 2026)",
-     "tags": [
-      "Eastern Live Action"
-     ]
-    }
-   }
-  },
-  {
-   "id": 2781,
-   "title": "Intouchable",
-   "subtitle": "Aesop, The Magician (Episode 7)",
-   "year": "2015",
-   "meta": "TV · language not stated",
-   "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-   "summary": "Tian Na is a normal high school girl until the school's most handsome guy, Jie, confesses to her. For their first date, Jie brings her to a space-time video store and suddenly disappears on their way home. Tina's necklace that she has been wearing since she was young also disappears, leaving Tina with only a card that says, \"Game Start\". In order to find Jie and her necklace, she goes on a journey under the guidance of Yu Zao Chuan, a man she found at the video store who claims to be her handsom Aesop, The Magician (Episode 7): The bar leading to the wizarding world has been burnt down and the clue to finding Aesop's seventh magical deacon has been lost. Tianna accidentally discovered that the team's magician and actor actually knew magic, and decided to team up with Yubayakawa to further solve the mystery.. In the production team, Yu Hayakawa got an important role by virtue of her beautiful appearance. The director gave Tianna several roles, so the two lived happily on the production team as they searched for clues about Aesop. During a scene of building destruction, magic The actor  Scene: Aesop cast his hypnotic spell. Tian is hypnotized. Mesmerized, she approaches the magician. In a trance, Tian answers Aesop's questions. After hearing a gunshot, Tian wakes up from her hypnotic trance.",
-   "character": "",
-   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-   "note": "",
-   "tags": [
-    "Eastern Live Action"
-   ],
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-   "format": "tv",
-   "categories": [
-    "fantasy"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki: Intouchable",
-     "url": "https://mentalblock.miraheze.org/wiki/Intouchable"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "fanwiki-screen-oct14"
-   ],
-   "source_records": [
-    "fanwiki-screen-oct14:105"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "fanwiki-screen-oct14:105": {
-     "title": "Intouchable",
-     "year": "2015",
-     "subtitle": "Aesop, The Magician (Episode 7)",
-     "format": "tv",
-     "standalone": true,
-     "meta": "TV · language not stated",
-     "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-     "summary": "Tian Na is a normal high school girl until the school's most handsome guy, Jie, confesses to her. For their first date, Jie brings her to a space-time video store and suddenly disappears on their way home. Tina's necklace that she has been wearing since she was young also disappears, leaving Tina with only a card that says, \"Game Start\". In order to find Jie and her necklace, she goes on a journey under the guidance of Yu Zao Chuan, a man she found at the video store who claims to be her handsom Aesop, The Magician (Episode 7): The bar leading to the wizarding world has been burnt down and the clue to finding Aesop's seventh magical deacon has been lost. Tianna accidentally discovered that the team's magician and actor actually knew magic, and decided to team up with Yubayakawa to further solve the mystery.. In the production team, Yu Hayakawa got an important role by virtue of her beautiful appearance. The director gave Tianna several roles, so the two lived happily on the production team as they searched for clues about Aesop. During a scene of building destruction, magic The actor  Scene: Aesop cast his hypnotic spell. Tian is hypnotized. Mesmerized, she approaches the magician. In a trance, Tian answers Aesop's questions. After hearing a gunshot, Tian wakes up from her hypnotic trance.",
-     "character": "",
-     "categories": [
-      "fantasy"
-     ],
-     "sources": [
+      },
       {
-       "label": "Mental Block wiki: Intouchable",
-       "url": "https://mentalblock.miraheze.org/wiki/Intouchable"
+       "label": "Wikipedia: Inazuman",
+       "url": "https://en.wikipedia.org/wiki/Inazuman"
       }
      ],
      "pregnant_end": "not stated",
@@ -413327,13 +412923,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2782,
+   "id": 2770,
    "title": "Invasion of the Bee Girls",
    "subtitle": "",
    "year": "1973",
-   "meta": "Film · language not stated",
+   "meta": "Film · English",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Government agent Neil Agar (Smith) travels to California to investigate a series of strange deaths. All of the victims are men, employed at a local research facility, who have died from heart failure brought about by sexual exhaustion. With the help of facility librarian Julie (Vetri) and entomologist Susan (Ford), he deduces that the deaths are very similar to the mating habits of honey bees. What Neil doesn't know is that Susan is responsible for the deaths, and has been using her lab to trans",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -413354,6 +412950,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Invasion of the Bee Girls",
      "url": "https://mentalblock.miraheze.org/wiki/Invasion_of_the_Bee_Girls"
+    },
+    {
+     "label": "Wikipedia: Invasion of the Bee Girls",
+     "url": "https://en.wikipedia.org/wiki/Invasion_of_the_Bee_Girls"
     }
    ],
    "youtube_ids": [],
@@ -413361,7 +412961,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:106"
+    "fanwiki-screen-oct14:94"
    ],
    "index_only": false,
    "local_only": true,
@@ -413369,15 +412969,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:106": {
+    "fanwiki-screen-oct14:94": {
      "title": "Invasion of the Bee Girls",
      "year": "1973",
      "subtitle": "",
      "format": "movie",
      "standalone": true,
-     "meta": "Film · language not stated",
+     "meta": "Film · English",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Government agent Neil Agar (Smith) travels to California to investigate a series of strange deaths. All of the victims are men, employed at a local research facility, who have died from heart failure brought about by sexual exhaustion. With the help of facility librarian Julie (Vetri) and entomologist Susan (Ford), he deduces that the deaths are very similar to the mating habits of honey bees. What Neil doesn't know is that Susan is responsible for the deaths, and has been using her lab to trans",
      "character": "",
      "categories": [
@@ -413387,6 +412987,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Invasion of the Bee Girls",
        "url": "https://mentalblock.miraheze.org/wiki/Invasion_of_the_Bee_Girls"
+      },
+      {
+       "label": "Wikipedia: Invasion of the Bee Girls",
+       "url": "https://en.wikipedia.org/wiki/Invasion_of_the_Bee_Girls"
       }
      ],
      "pregnant_end": "not stated",
@@ -413403,13 +413007,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2783,
+   "id": 2771,
    "title": "Isa Tk+",
    "subtitle": "Episode 33, 34,35",
    "year": "2009–2010",
-   "meta": "TV · language not stated",
+   "meta": "TV · Spanish",
    "mechanism": "Comedic Hypnosis, Traditional Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Episode 33, 34,35: Isa finds a book to learn hypnosis, she decides to try this skill on Cristina to tell her all the truth, but Catalina, afraid that Cristina under the effects of hypnosis reveals that she only pretends to be Isa's friend to betray her later, frees Cristina from hypnosis before Isa begins to question her. Accidentally during this process a guy who was there nearby is hypnotized, and can not avoid telling the truth during several chapters in a row generating quite a lot of problems for him and everyone.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -413432,6 +413036,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Isa Tk+",
      "url": "https://mentalblock.miraheze.org/wiki/Isa_Tk+"
+    },
+    {
+     "label": "Wikipedia: Isa TK+",
+     "url": "https://en.wikipedia.org/wiki/Isa_TK+"
     }
    ],
    "youtube_ids": [],
@@ -413439,7 +413047,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:107"
+    "fanwiki-screen-oct14:95"
    ],
    "index_only": false,
    "local_only": true,
@@ -413447,15 +413055,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:107": {
+    "fanwiki-screen-oct14:95": {
      "title": "Isa Tk+",
      "year": "2009–2010",
      "subtitle": "Episode 33, 34,35",
      "format": "tv",
      "standalone": true,
-     "meta": "TV · language not stated",
+     "meta": "TV · Spanish",
      "mechanism": "Comedic Hypnosis, Traditional Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Episode 33, 34,35: Isa finds a book to learn hypnosis, she decides to try this skill on Cristina to tell her all the truth, but Catalina, afraid that Cristina under the effects of hypnosis reveals that she only pretends to be Isa's friend to betray her later, frees Cristina from hypnosis before Isa begins to question her. Accidentally during this process a guy who was there nearby is hypnotized, and can not avoid telling the truth during several chapters in a row generating quite a lot of problems for him and everyone.",
      "character": "",
      "categories": [
@@ -413466,6 +413074,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Isa Tk+",
        "url": "https://mentalblock.miraheze.org/wiki/Isa_Tk+"
+      },
+      {
+       "label": "Wikipedia: Isa TK+",
+       "url": "https://en.wikipedia.org/wiki/Isa_TK+"
       }
      ],
      "pregnant_end": "not stated",
@@ -413483,13 +413095,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2784,
+   "id": 2772,
    "title": "Journey To The Unknown",
    "subtitle": "1x15- Stranger In The Family",
    "year": "1968",
    "meta": "TV · English",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "The series has a fantasy, science fiction, supernatural and horror theme, very similar to the American television series The Twilight Zone, and deals with normal people whose everyday situations somehow become extraordinary. It featured both British and American actors: American actors included George Maharis, Vera Miles, Barbara Bel Geddes, Patty Duke, Carol Lynley, Joseph Cotten, Stefanie Powers and Brandon deWilde, along with familiar British actors such as Dennis Waterman, Jane Asher, Kay Wa 1x15- Stranger In The Family: A boy can control people; this sometimes leads to their deaths. Both a scientist and the agent of a struggling actress (Janice Rule) would like to get their hands on him.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -413510,6 +413122,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Journey To The Unknown (Tv Series)",
      "url": "https://mentalblock.miraheze.org/wiki/Journey_To_The_Unknown_(Tv_Series)"
+    },
+    {
+     "label": "Wikipedia: Journey to the Unknown",
+     "url": "https://en.wikipedia.org/wiki/Journey_to_the_Unknown"
     }
    ],
    "youtube_ids": [],
@@ -413517,7 +413133,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:108"
+    "fanwiki-screen-oct14:96"
    ],
    "index_only": false,
    "local_only": true,
@@ -413525,7 +413141,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:108": {
+    "fanwiki-screen-oct14:96": {
      "title": "Journey To The Unknown",
      "year": "1968",
      "subtitle": "1x15- Stranger In The Family",
@@ -413533,7 +413149,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "The series has a fantasy, science fiction, supernatural and horror theme, very similar to the American television series The Twilight Zone, and deals with normal people whose everyday situations somehow become extraordinary. It featured both British and American actors: American actors included George Maharis, Vera Miles, Barbara Bel Geddes, Patty Duke, Carol Lynley, Joseph Cotten, Stefanie Powers and Brandon deWilde, along with familiar British actors such as Dennis Waterman, Jane Asher, Kay Wa 1x15- Stranger In The Family: A boy can control people; this sometimes leads to their deaths. Both a scientist and the agent of a struggling actress (Janice Rule) would like to get their hands on him.",
      "character": "",
      "categories": [
@@ -413543,6 +413159,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Journey To The Unknown (Tv Series)",
        "url": "https://mentalblock.miraheze.org/wiki/Journey_To_The_Unknown_(Tv_Series)"
+      },
+      {
+       "label": "Wikipedia: Journey to the Unknown",
+       "url": "https://en.wikipedia.org/wiki/Journey_to_the_Unknown"
       }
      ],
      "pregnant_end": "not stated",
@@ -413559,13 +413179,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2785,
+   "id": 2773,
    "title": "Juken Sentai Gekiranger",
    "subtitle": "Lesson 22: Kyui-Kyui! Date with a Celebrity / Lesson 23: Gure-Gure! Gure-Gure! Sukeban Captain",
    "year": "2006",
-   "meta": "Film · language not stated",
+   "meta": "Film · ja The events of the movie take place between Lessons 9 and ",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Four thousand years ago, in China, a form of Kenpo martial arts was developed by ten humans and would become known as the Beast-Fist style. Beast-Fist is a martial art in which one mimics the abilities of animals as well as means of reaching spiritual peace. However, dissent grew among its creators. Three believed that they should use the suffering and hatred harnessed within humans to increase their power, uses their power to assume their monstrous forms, the Three Fist Demons. The other seven  Lesson 22: Kyui-Kyui! Date with a Celebrity: Jan and the Gekiranger work to win back a gem to prevent the revival of the land Kenma, which has fallen in the hands of a selfish rich girl. Lesson 23: Gure-Gure! Gure-Gure! Sukeban Captain: Ran's new position as Gekiranger captain is thrown into doubt when a Beast-Man transforms her into a heartless bad girl.Lost while looking for several missing children, the Kakuranger stay at a mysterious inn that is controll",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -413586,6 +413206,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Juken Sentai Gekiranger",
      "url": "https://mentalblock.miraheze.org/wiki/Juken_Sentai_Gekiranger"
+    },
+    {
+     "label": "Wikipedia: Juken Sentai Gekiranger",
+     "url": "https://en.wikipedia.org/wiki/Juken_Sentai_Gekiranger"
     }
    ],
    "youtube_ids": [],
@@ -413593,7 +413217,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:109"
+    "fanwiki-screen-oct14:97"
    ],
    "index_only": false,
    "local_only": true,
@@ -413601,15 +413225,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:109": {
+    "fanwiki-screen-oct14:97": {
      "title": "Juken Sentai Gekiranger",
      "year": "2006",
      "subtitle": "Lesson 22: Kyui-Kyui! Date with a Celebrity / Lesson 23: Gure-Gure! Gure-Gure! Sukeban Captain",
      "format": "movie",
      "standalone": true,
-     "meta": "Film · language not stated",
+     "meta": "Film · ja The events of the movie take place between Lessons 9 and ",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Four thousand years ago, in China, a form of Kenpo martial arts was developed by ten humans and would become known as the Beast-Fist style. Beast-Fist is a martial art in which one mimics the abilities of animals as well as means of reaching spiritual peace. However, dissent grew among its creators. Three believed that they should use the suffering and hatred harnessed within humans to increase their power, uses their power to assume their monstrous forms, the Three Fist Demons. The other seven  Lesson 22: Kyui-Kyui! Date with a Celebrity: Jan and the Gekiranger work to win back a gem to prevent the revival of the land Kenma, which has fallen in the hands of a selfish rich girl. Lesson 23: Gure-Gure! Gure-Gure! Sukeban Captain: Ran's new position as Gekiranger captain is thrown into doubt when a Beast-Man transforms her into a heartless bad girl.Lost while looking for several missing children, the Kakuranger stay at a mysterious inn that is controll",
      "character": "",
      "categories": [
@@ -413619,6 +413243,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Juken Sentai Gekiranger",
        "url": "https://mentalblock.miraheze.org/wiki/Juken_Sentai_Gekiranger"
+      },
+      {
+       "label": "Wikipedia: Juken Sentai Gekiranger",
+       "url": "https://en.wikipedia.org/wiki/Juken_Sentai_Gekiranger"
       }
      ],
      "pregnant_end": "not stated",
@@ -413635,7 +413263,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2786,
+   "id": 2774,
    "title": "Kaboum",
    "subtitle": "Zombie-Zomba",
    "year": "2007–2012",
@@ -413669,7 +413297,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:110"
+    "fanwiki-screen-oct14:98"
    ],
    "index_only": false,
    "local_only": true,
@@ -413677,7 +413305,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:110": {
+    "fanwiki-screen-oct14:98": {
      "title": "Kaboum",
      "year": "2007–2012",
      "subtitle": "Zombie-Zomba",
@@ -413711,7 +413339,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2787,
+   "id": 2775,
    "title": "Kagaku Sentai Dynaman",
    "subtitle": "Ep. 6: Fight to the Death! The Haunts of a Poisonous Snake / Ep. 10: The Intruder From Outer Space / Ep. 13: The Kidnapp",
    "year": "1983",
@@ -413745,7 +413373,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:111"
+    "fanwiki-screen-oct14:99"
    ],
    "index_only": false,
    "local_only": true,
@@ -413753,7 +413381,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:111": {
+    "fanwiki-screen-oct14:99": {
      "title": "Kagaku Sentai Dynaman",
      "year": "1983",
      "subtitle": "Ep. 6: Fight to the Death! The Haunts of a Poisonous Snake / Ep. 10: The Intruder From Outer Space / Ep. 13: The Kidnapp",
@@ -413787,7 +413415,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2788,
+   "id": 2776,
    "title": "Kamen Rider Ghost",
    "subtitle": "Ep. 47: \"End! The Chain of Sorrow!\"",
    "year": "2015",
@@ -413821,7 +413449,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:112"
+    "fanwiki-screen-oct14:100"
    ],
    "index_only": false,
    "local_only": true,
@@ -413829,7 +413457,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:112": {
+    "fanwiki-screen-oct14:100": {
      "title": "Kamen Rider Ghost",
      "year": "2015",
      "subtitle": "Ep. 47: \"End! The Chain of Sorrow!\"",
@@ -413863,13 +413491,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2789,
+   "id": 2777,
    "title": "Kamen Rider Skyrider",
    "subtitle": "Episode 39 & 40",
    "year": "1979",
    "meta": "TV · Japanese",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Doctor Keitarō Shido, an acclaimed scientist, has been kidnapped by the terrorist organization Neo-Shocker to exploit his expertise in robotics technology. Desperate to escape, he convinces Neo-Shocker's command to allow him to operate on an injured camper. Explaining that he can turn the camper, Hiroshi Tsukuba into a powerful Neo-Shocker warrior, they allow Doctor Shido to operate. However, he quickly turns the tables on them, transforming Hiroshi, not into a kaijin, but the powerful warrior S Episode 39 & 40: While at a resort, Hiroshi and Hayato Ichimonji (Rider #2) work together to save a dancer and a powerful gem used by an oni kaijin to change women into demons like himself. Scene: Urchidemon brainwashes the girl and turn them into his demons slaves. The girls are brainwashed. Kireda is hypnotized. The woman starts to become a demon. Her eyes become red. Kireda is transformed into a demon slave. Hiroshi finds Kireda fainted... ... but is a trap, and demom Kireda bites Hiroshi.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -413891,6 +413519,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Kamen Rider Skyrider",
      "url": "https://mentalblock.miraheze.org/wiki/Kamen_Rider_Skyrider"
+    },
+    {
+     "label": "Wikipedia: Kamen Rider (1979 TV series)",
+     "url": "https://en.wikipedia.org/wiki/Kamen_Rider_(1979_TV_series)"
     }
    ],
    "youtube_ids": [],
@@ -413898,7 +413530,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:113"
+    "fanwiki-screen-oct14:101"
    ],
    "index_only": false,
    "local_only": true,
@@ -413906,7 +413538,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:113": {
+    "fanwiki-screen-oct14:101": {
      "title": "Kamen Rider Skyrider",
      "year": "1979",
      "subtitle": "Episode 39 & 40",
@@ -413914,7 +413546,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · Japanese",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Doctor Keitarō Shido, an acclaimed scientist, has been kidnapped by the terrorist organization Neo-Shocker to exploit his expertise in robotics technology. Desperate to escape, he convinces Neo-Shocker's command to allow him to operate on an injured camper. Explaining that he can turn the camper, Hiroshi Tsukuba into a powerful Neo-Shocker warrior, they allow Doctor Shido to operate. However, he quickly turns the tables on them, transforming Hiroshi, not into a kaijin, but the powerful warrior S Episode 39 & 40: While at a resort, Hiroshi and Hayato Ichimonji (Rider #2) work together to save a dancer and a powerful gem used by an oni kaijin to change women into demons like himself. Scene: Urchidemon brainwashes the girl and turn them into his demons slaves. The girls are brainwashed. Kireda is hypnotized. The woman starts to become a demon. Her eyes become red. Kireda is transformed into a demon slave. Hiroshi finds Kireda fainted... ... but is a trap, and demom Kireda bites Hiroshi.",
      "character": "",
      "categories": [
@@ -413925,6 +413557,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Kamen Rider Skyrider",
        "url": "https://mentalblock.miraheze.org/wiki/Kamen_Rider_Skyrider"
+      },
+      {
+       "label": "Wikipedia: Kamen Rider (1979 TV series)",
+       "url": "https://en.wikipedia.org/wiki/Kamen_Rider_(1979_TV_series)"
       }
      ],
      "pregnant_end": "not stated",
@@ -413941,13 +413577,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2790,
+   "id": 2778,
    "title": "Kamen Rider Stronger",
    "subtitle": "Ep. 34: \"The Snake Woman's Bloodsucking Hell!\"",
    "year": "1975",
    "meta": "TV · Japanese",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Furious by the death of his best friend at the hands of the evil organization known as Black Satan, Sigeru Jo convinces an former Black Satan scientist named Dr. Masaki to turn him into a cyborg. Given the super electromagnetic dynamo implant, Shigeru is reborn as Kamen Rider Stronger, born to protect the world from the Black Satan schemes. Ep. 34: \"The Snake Woman's Bloodsucking Hell!\": Black Satan creates a new monster capable to turn people into Snake zombies, with thristy for blood and loyal for the Snake Woman. Now, Kamen Rider Stronger must run to save the infected people, before is too late. Scene: A teacher and his students are brainwashed and transformed by the Snake woman, and are ready to attack Stronger.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -413968,6 +413604,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Kamen Rider Stronger",
      "url": "https://mentalblock.miraheze.org/wiki/Kamen_Rider_Stronger"
+    },
+    {
+     "label": "Wikipedia: Kamen Rider Stronger",
+     "url": "https://en.wikipedia.org/wiki/Kamen_Rider_Stronger"
     }
    ],
    "youtube_ids": [],
@@ -413975,7 +413615,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:114"
+    "fanwiki-screen-oct14:102"
    ],
    "index_only": false,
    "local_only": true,
@@ -413983,7 +413623,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:114": {
+    "fanwiki-screen-oct14:102": {
      "title": "Kamen Rider Stronger",
      "year": "1975",
      "subtitle": "Ep. 34: \"The Snake Woman's Bloodsucking Hell!\"",
@@ -413991,7 +413631,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · Japanese",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Furious by the death of his best friend at the hands of the evil organization known as Black Satan, Sigeru Jo convinces an former Black Satan scientist named Dr. Masaki to turn him into a cyborg. Given the super electromagnetic dynamo implant, Shigeru is reborn as Kamen Rider Stronger, born to protect the world from the Black Satan schemes. Ep. 34: \"The Snake Woman's Bloodsucking Hell!\": Black Satan creates a new monster capable to turn people into Snake zombies, with thristy for blood and loyal for the Snake Woman. Now, Kamen Rider Stronger must run to save the infected people, before is too late. Scene: A teacher and his students are brainwashed and transformed by the Snake woman, and are ready to attack Stronger.",
      "character": "",
      "categories": [
@@ -414001,6 +413641,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Kamen Rider Stronger",
        "url": "https://mentalblock.miraheze.org/wiki/Kamen_Rider_Stronger"
+      },
+      {
+       "label": "Wikipedia: Kamen Rider Stronger",
+       "url": "https://en.wikipedia.org/wiki/Kamen_Rider_Stronger"
       }
      ],
      "pregnant_end": "not stated",
@@ -414017,13 +413661,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2791,
+   "id": 2779,
    "title": "Kamen Rider X",
    "subtitle": "Run, Cruiser! X-Rider (Episode 2)",
    "year": "1974",
    "meta": "TV · Japanese",
    "mechanism": "Musical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Robotics scientist Keitaro Jin and his son Keisuke become caught up in a campaign of terror by an evil organization known as \"G.O.D.\". They are attacked and the professor's technology gets stolen, but before Keitaro dies, he performs surgery on his son, using the last of his robotics technology to transform Keisuke into the “X-Rider.” To avenge his father's death and ensure the safety of the entire world, Keisuke uses this technology as he battles the monstrous minions of G.O.D.’s Japan branch. Run, Cruiser! X-Rider (Episode 2): As Keisuke Jin is troubled by no longer being human, a mysterious sound hypnotizes everyone who hears it to become violently homicidal. Why is one child not affected? And what links him and the newly-born X-Rider? Scene: An angry crowd runs through the streets. In a rage trance, they start trying to kill each other. Keisuke lands his motorcycle in the middle of the crowd. The fright wakes people from their angry trance. The monster plays it's hypnotic flute. People in the streets are hypnotized into a murderous rage.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -414045,6 +413689,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Kamen Rider X",
      "url": "https://mentalblock.miraheze.org/wiki/Kamen_Rider_X"
+    },
+    {
+     "label": "Wikipedia: Kamen Rider X",
+     "url": "https://en.wikipedia.org/wiki/Kamen_Rider_X"
     }
    ],
    "youtube_ids": [],
@@ -414052,7 +413700,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:115"
+    "fanwiki-screen-oct14:103"
    ],
    "index_only": false,
    "local_only": true,
@@ -414060,7 +413708,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:115": {
+    "fanwiki-screen-oct14:103": {
      "title": "Kamen Rider X",
      "year": "1974",
      "subtitle": "Run, Cruiser! X-Rider (Episode 2)",
@@ -414068,7 +413716,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · Japanese",
      "mechanism": "Musical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Robotics scientist Keitaro Jin and his son Keisuke become caught up in a campaign of terror by an evil organization known as \"G.O.D.\". They are attacked and the professor's technology gets stolen, but before Keitaro dies, he performs surgery on his son, using the last of his robotics technology to transform Keisuke into the “X-Rider.” To avenge his father's death and ensure the safety of the entire world, Keisuke uses this technology as he battles the monstrous minions of G.O.D.’s Japan branch. Run, Cruiser! X-Rider (Episode 2): As Keisuke Jin is troubled by no longer being human, a mysterious sound hypnotizes everyone who hears it to become violently homicidal. Why is one child not affected? And what links him and the newly-born X-Rider? Scene: An angry crowd runs through the streets. In a rage trance, they start trying to kill each other. Keisuke lands his motorcycle in the middle of the crowd. The fright wakes people from their angry trance. The monster plays it's hypnotic flute. People in the streets are hypnotized into a murderous rage.",
      "character": "",
      "categories": [
@@ -414079,6 +413727,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Kamen Rider X",
        "url": "https://mentalblock.miraheze.org/wiki/Kamen_Rider_X"
+      },
+      {
+       "label": "Wikipedia: Kamen Rider X",
+       "url": "https://en.wikipedia.org/wiki/Kamen_Rider_X"
       }
      ],
      "pregnant_end": "not stated",
@@ -414095,13 +413747,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2792,
+   "id": 2780,
    "title": "Kamen Rider ZEZTZ",
    "subtitle": "Episode 17",
    "year": "2025",
    "meta": "TV · Japanese",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "In a world shaped by our dreams and nightmares we see in the sleep, Kamen Rider Zeztz enters people's dreams as an agent on a mission. Equipped with a cutting-edge Rider belt worn across the chest, Zeztz fights agains evil hidden in the dream world. Episode 17: After he lost Zero, Baku continues his mission to rescue Nem. Nurse Haru then reveals a surprising truth about Nem's disappearance, when she is hypnotized by a mysterious woman. Scene: Nurse Haru finds a mysterious woman in Nem's room. The woman hypnotizes the nurse. She falls into a trance. The woman says she's going to take Nam away. Hypnotized, the nurse agrees. Haru tells Baku that she doesn't know why she let the woman do that.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -414122,6 +413774,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Kamen Rider ZEZTZ",
      "url": "https://mentalblock.miraheze.org/wiki/Kamen_Rider_ZEZTZ"
+    },
+    {
+     "label": "Wikipedia: Kamen Rider ZEZTZ",
+     "url": "https://en.wikipedia.org/wiki/Kamen_Rider_ZEZTZ"
     }
    ],
    "youtube_ids": [],
@@ -414129,7 +413785,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:116"
+    "fanwiki-screen-oct14:104"
    ],
    "index_only": false,
    "local_only": true,
@@ -414137,7 +413793,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:116": {
+    "fanwiki-screen-oct14:104": {
      "title": "Kamen Rider ZEZTZ",
      "year": "2025",
      "subtitle": "Episode 17",
@@ -414145,7 +413801,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · Japanese",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "In a world shaped by our dreams and nightmares we see in the sleep, Kamen Rider Zeztz enters people's dreams as an agent on a mission. Equipped with a cutting-edge Rider belt worn across the chest, Zeztz fights agains evil hidden in the dream world. Episode 17: After he lost Zero, Baku continues his mission to rescue Nem. Nurse Haru then reveals a surprising truth about Nem's disappearance, when she is hypnotized by a mysterious woman. Scene: Nurse Haru finds a mysterious woman in Nem's room. The woman hypnotizes the nurse. She falls into a trance. The woman says she's going to take Nam away. Hypnotized, the nurse agrees. Haru tells Baku that she doesn't know why she let the woman do that.",
      "character": "",
      "categories": [
@@ -414155,6 +413811,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Kamen Rider ZEZTZ",
        "url": "https://mentalblock.miraheze.org/wiki/Kamen_Rider_ZEZTZ"
+      },
+      {
+       "label": "Wikipedia: Kamen Rider ZEZTZ",
+       "url": "https://en.wikipedia.org/wiki/Kamen_Rider_ZEZTZ"
       }
      ],
      "pregnant_end": "not stated",
@@ -414171,7 +413831,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2793,
+   "id": 2781,
    "title": "Karma: The Series",
    "subtitle": "Episod 31",
    "year": "2018",
@@ -414205,7 +413865,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:117"
+    "fanwiki-screen-oct14:105"
    ],
    "index_only": false,
    "local_only": true,
@@ -414213,7 +413873,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:117": {
+    "fanwiki-screen-oct14:105": {
      "title": "Karma: The Series",
      "year": "2018",
      "subtitle": "Episod 31",
@@ -414247,13 +413907,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2794,
+   "id": 2782,
    "title": "Kill, Baby, Kill",
    "subtitle": "",
    "year": "1966",
    "meta": "Film · Italian",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "A Carpathian village is haunted by the murderous ghost of a little girl, who can control her victims mind, leading to their deaths. A coroner and a medical student investigat her secrets while a witch tries to protect the villagers. Scene: Melissa haunts Nadienne. The girl panics... ... but falls under Melissa hypnotic control. Under mind control, she gets ups. Melissa orders Nadienne to impale herself with the chandelier. Unable to resist the spirit's control, Nadienne obeys the deadly command.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -414276,6 +413936,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Kill, Baby, Kill",
      "url": "https://mentalblock.miraheze.org/wiki/Kill,_Baby,_Kill"
+    },
+    {
+     "label": "Wikipedia: Kill, Baby, Kill",
+     "url": "https://en.wikipedia.org/wiki/Kill,_Baby,_Kill"
     }
    ],
    "youtube_ids": [],
@@ -414283,7 +413947,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:118"
+    "fanwiki-screen-oct14:106"
    ],
    "index_only": false,
    "local_only": true,
@@ -414291,7 +413955,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:118": {
+    "fanwiki-screen-oct14:106": {
      "title": "Kill, Baby, Kill",
      "year": "1966",
      "subtitle": "",
@@ -414299,7 +413963,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · Italian",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "A Carpathian village is haunted by the murderous ghost of a little girl, who can control her victims mind, leading to their deaths. A coroner and a medical student investigat her secrets while a witch tries to protect the villagers. Scene: Melissa haunts Nadienne. The girl panics... ... but falls under Melissa hypnotic control. Under mind control, she gets ups. Melissa orders Nadienne to impale herself with the chandelier. Unable to resist the spirit's control, Nadienne obeys the deadly command.",
      "character": "",
      "categories": [
@@ -414310,6 +413974,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Kill, Baby, Kill",
        "url": "https://mentalblock.miraheze.org/wiki/Kill,_Baby,_Kill"
+      },
+      {
+       "label": "Wikipedia: Kill, Baby, Kill",
+       "url": "https://en.wikipedia.org/wiki/Kill,_Baby,_Kill"
       }
      ],
      "pregnant_end": "not stated",
@@ -414327,13 +413995,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2795,
+   "id": 2783,
    "title": "Kiss the Girls and Make Them Die",
    "subtitle": "",
    "year": "1966",
-   "meta": "Film · Italian",
+   "meta": "Film · English",
    "mechanism": "Chemical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Banana-loving CIA secret agent Kelly (Conners) and his UK counterpart Susan Fleming (Provine) travel to Rio de Janeiro (along with Susan's high-tech Rolls-Royce supercar), to stop the wealthy industrialist Ardonian (Vallone) from using a rare toxin and a network of satellites to sterilize the entire male population of Earth (excluding himself). To re-populate the Earth \"properly,\" he has also been kidnapping beautiful women and placing them in suspended animation, to serve as the future mothers",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -414355,6 +414023,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Kiss the Girls and Make Them Die",
      "url": "https://mentalblock.miraheze.org/wiki/Kiss_the_Girls_and_Make_Them_Die"
+    },
+    {
+     "label": "Wikipedia: Kiss the Girls and Make Them Die",
+     "url": "https://en.wikipedia.org/wiki/Kiss_the_Girls_and_Make_Them_Die"
     }
    ],
    "youtube_ids": [],
@@ -414362,7 +414034,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:119"
+    "fanwiki-screen-oct14:107"
    ],
    "index_only": false,
    "local_only": true,
@@ -414370,15 +414042,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:119": {
+    "fanwiki-screen-oct14:107": {
      "title": "Kiss the Girls and Make Them Die",
      "year": "1966",
      "subtitle": "",
      "format": "movie",
      "standalone": true,
-     "meta": "Film · Italian",
+     "meta": "Film · English",
      "mechanism": "Chemical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Banana-loving CIA secret agent Kelly (Conners) and his UK counterpart Susan Fleming (Provine) travel to Rio de Janeiro (along with Susan's high-tech Rolls-Royce supercar), to stop the wealthy industrialist Ardonian (Vallone) from using a rare toxin and a network of satellites to sterilize the entire male population of Earth (excluding himself). To re-populate the Earth \"properly,\" he has also been kidnapping beautiful women and placing them in suspended animation, to serve as the future mothers",
      "character": "",
      "categories": [
@@ -414388,6 +414060,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Kiss the Girls and Make Them Die",
        "url": "https://mentalblock.miraheze.org/wiki/Kiss_the_Girls_and_Make_Them_Die"
+      },
+      {
+       "label": "Wikipedia: Kiss the Girls and Make Them Die",
+       "url": "https://en.wikipedia.org/wiki/Kiss_the_Girls_and_Make_Them_Die"
       }
      ],
      "pregnant_end": "not stated",
@@ -414405,7 +414081,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2796,
+   "id": 2784,
    "title": "Kitty Kitty",
    "subtitle": "",
    "year": "2011",
@@ -414440,7 +414116,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:120"
+    "fanwiki-screen-oct14:108"
    ],
    "index_only": false,
    "local_only": true,
@@ -414448,7 +414124,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:120": {
+    "fanwiki-screen-oct14:108": {
      "title": "Kitty Kitty",
      "year": "2011",
      "subtitle": "",
@@ -414483,7 +414159,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2797,
+   "id": 2785,
    "title": "Kofiko",
    "subtitle": "Season 3, Episode 1",
    "year": "1994",
@@ -414518,7 +414194,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:121"
+    "fanwiki-screen-oct14:109"
    ],
    "index_only": false,
    "local_only": true,
@@ -414526,7 +414202,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:121": {
+    "fanwiki-screen-oct14:109": {
      "title": "Kofiko",
      "year": "1994",
      "subtitle": "Season 3, Episode 1",
@@ -414561,7 +414237,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2798,
+   "id": 2786,
    "title": "L'Appart du 5e",
    "subtitle": "La Taupe (Season 4, Episode 9) / Orphan (Season 4, Episode 10) / Histoires de sœurs (Season 4, Episode 12) / L'Heure de ",
    "year": "2013–2016",
@@ -414595,7 +414271,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:122"
+    "fanwiki-screen-oct14:110"
    ],
    "index_only": false,
    "local_only": true,
@@ -414603,7 +414279,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:122": {
+    "fanwiki-screen-oct14:110": {
      "title": "L'Appart du 5e",
      "year": "2013–2016",
      "subtitle": "La Taupe (Season 4, Episode 9) / Orphan (Season 4, Episode 10) / Histoires de sœurs (Season 4, Episode 12) / L'Heure de ",
@@ -414637,13 +414313,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2799,
+   "id": 2787,
    "title": "Land Of The Lost (1991)",
    "subtitle": "Mind Games",
    "year": "1991",
-   "meta": "TV · language not stated",
+   "meta": "TV · English",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "A family is trapped in a alternative world dominated by dinosaus and must fight to survive it. Mind Games: Shrug uses a hypnotic spell to control Christa's mind. Scene: Shrug casts his hypnotic spell. Christa falls under his control. She manages to resist the villain's command to shoot an arrow at her friends. Christa is hypnotized again. Completely under mind control, Christa gets up and runs off into Shrug's territory. Hypnotized, she arrives at the villain's cave.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -414664,6 +414340,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Land Of The Lost (1991)",
      "url": "https://mentalblock.miraheze.org/wiki/Land_Of_The_Lost_(1991)"
+    },
+    {
+     "label": "Wikipedia: Land of the Lost (1991 TV series)",
+     "url": "https://en.wikipedia.org/wiki/Land_of_the_Lost_(1991_TV_series)"
     }
    ],
    "youtube_ids": [],
@@ -414671,7 +414351,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:123"
+    "fanwiki-screen-oct14:111"
    ],
    "index_only": false,
    "local_only": true,
@@ -414679,15 +414359,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:123": {
+    "fanwiki-screen-oct14:111": {
      "title": "Land Of The Lost (1991)",
      "year": "1991",
      "subtitle": "Mind Games",
      "format": "tv",
      "standalone": true,
-     "meta": "TV · language not stated",
+     "meta": "TV · English",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "A family is trapped in a alternative world dominated by dinosaus and must fight to survive it. Mind Games: Shrug uses a hypnotic spell to control Christa's mind. Scene: Shrug casts his hypnotic spell. Christa falls under his control. She manages to resist the villain's command to shoot an arrow at her friends. Christa is hypnotized again. Completely under mind control, Christa gets up and runs off into Shrug's territory. Hypnotized, she arrives at the villain's cave.",
      "character": "",
      "categories": [
@@ -414697,6 +414377,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Land Of The Lost (1991)",
        "url": "https://mentalblock.miraheze.org/wiki/Land_Of_The_Lost_(1991)"
+      },
+      {
+       "label": "Wikipedia: Land of the Lost (1991 TV series)",
+       "url": "https://en.wikipedia.org/wiki/Land_of_the_Lost_(1991_TV_series)"
       }
      ],
      "pregnant_end": "not stated",
@@ -414713,13 +414397,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2800,
+   "id": 2788,
    "title": "Land of the Giants",
    "subtitle": "Pay the Piper",
    "year": "1968",
-   "meta": "TV · language not stated",
+   "meta": "TV · English",
    "mechanism": "Magical Hypnosis, Musical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "A spaceship from Earth crash-lands on anplanet on which everything, including the human-like inhabitants, is twelve times the size of earthlings. Pay the Piper: The travelers come across a macabre giant capable of hypnotizing people with his mystflute which, when played, can draw people magically towards it. Scene: The travellers are hypnotized by the Pied Piper.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -414740,6 +414424,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Land of the Giants",
      "url": "https://mentalblock.miraheze.org/wiki/Land_of_the_Giants"
+    },
+    {
+     "label": "Wikipedia: Land of the Giants",
+     "url": "https://en.wikipedia.org/wiki/Land_of_the_Giants"
     }
    ],
    "youtube_ids": [],
@@ -414747,7 +414435,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:124"
+    "fanwiki-screen-oct14:112"
    ],
    "index_only": false,
    "local_only": true,
@@ -414755,15 +414443,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:124": {
+    "fanwiki-screen-oct14:112": {
      "title": "Land of the Giants",
      "year": "1968",
      "subtitle": "Pay the Piper",
      "format": "tv",
      "standalone": true,
-     "meta": "TV · language not stated",
+     "meta": "TV · English",
      "mechanism": "Magical Hypnosis, Musical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "A spaceship from Earth crash-lands on anplanet on which everything, including the human-like inhabitants, is twelve times the size of earthlings. Pay the Piper: The travelers come across a macabre giant capable of hypnotizing people with his mystflute which, when played, can draw people magically towards it. Scene: The travellers are hypnotized by the Pied Piper.",
      "character": "",
      "categories": [
@@ -414773,6 +414461,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Land of the Giants",
        "url": "https://mentalblock.miraheze.org/wiki/Land_of_the_Giants"
+      },
+      {
+       "label": "Wikipedia: Land of the Giants",
+       "url": "https://en.wikipedia.org/wiki/Land_of_the_Giants"
       }
      ],
      "pregnant_end": "not stated",
@@ -414789,13 +414481,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2801,
+   "id": 2789,
    "title": "Legacies",
    "subtitle": "We're Being Punked, Pedro (Season 1, Episode 3) / Hope Is Not the Goal (Season 1, Episode 4) / We're Gonna Need a Spotli",
    "year": "2018–2022",
    "meta": "TV · English",
    "mechanism": "Brainwashing, Chemical Hypnosis, Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "We're Being Punked, Pedro (Season 1, Episode 3): MG discovers that Kaleb, one of the most powerful vampires at the school, is feeding on humans (including Dana), a practice that is forbidden. Hope Is Not the Goal (Season 1, Episode 4): Alaric sends Hope, MG, Lizzie, and Landon to Mystic Falls when two local students dissapears. Kaleb contiues hypnotizing the girls of school to drink their blood. We're Gonna Need a Spotlight (Season 1, Episode 11): A slug creature infects Hope, who then spreads it to Josie and others. The slugs lower their victim's inhibitions, but they also drive them to form  Scene: MG hypnotizes Dana to find out if she is really interested in him. Mesmerized, Dana confesses that despite finding MG handsome, she only approached him to make another guy jealous. MG commands her to forget this conversation. But remember that he is a very good kisser, and spread the word. MG tells Dana to leave. MG finds Kaleb drinking Dana's blood. Mesmerized, Dana doesn't react when Kaleb offers her blood to MG. Kaleb makes Dana look him in the eye.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -414817,6 +414509,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Legacies",
      "url": "https://mentalblock.miraheze.org/wiki/Legacies"
+    },
+    {
+     "label": "Wikipedia: Legacies (TV series)",
+     "url": "https://en.wikipedia.org/wiki/Legacies_(TV_series)"
     }
    ],
    "youtube_ids": [],
@@ -414824,7 +414520,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:125"
+    "fanwiki-screen-oct14:113"
    ],
    "index_only": false,
    "local_only": true,
@@ -414832,7 +414528,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:125": {
+    "fanwiki-screen-oct14:113": {
      "title": "Legacies",
      "year": "2018–2022",
      "subtitle": "We're Being Punked, Pedro (Season 1, Episode 3) / Hope Is Not the Goal (Season 1, Episode 4) / We're Gonna Need a Spotli",
@@ -414840,7 +414536,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Brainwashing, Chemical Hypnosis, Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "We're Being Punked, Pedro (Season 1, Episode 3): MG discovers that Kaleb, one of the most powerful vampires at the school, is feeding on humans (including Dana), a practice that is forbidden. Hope Is Not the Goal (Season 1, Episode 4): Alaric sends Hope, MG, Lizzie, and Landon to Mystic Falls when two local students dissapears. Kaleb contiues hypnotizing the girls of school to drink their blood. We're Gonna Need a Spotlight (Season 1, Episode 11): A slug creature infects Hope, who then spreads it to Josie and others. The slugs lower their victim's inhibitions, but they also drive them to form  Scene: MG hypnotizes Dana to find out if she is really interested in him. Mesmerized, Dana confesses that despite finding MG handsome, she only approached him to make another guy jealous. MG commands her to forget this conversation. But remember that he is a very good kisser, and spread the word. MG tells Dana to leave. MG finds Kaleb drinking Dana's blood. Mesmerized, Dana doesn't react when Kaleb offers her blood to MG. Kaleb makes Dana look him in the eye.",
      "character": "",
      "categories": [
@@ -414851,6 +414547,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Legacies",
        "url": "https://mentalblock.miraheze.org/wiki/Legacies"
+      },
+      {
+       "label": "Wikipedia: Legacies (TV series)",
+       "url": "https://en.wikipedia.org/wiki/Legacies_(TV_series)"
       }
      ],
      "pregnant_end": "not stated",
@@ -414867,13 +414567,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2802,
+   "id": 2790,
    "title": "Leprechaun 3",
    "subtitle": "",
    "year": "1995",
    "meta": "Film · English",
    "mechanism": "Brainwashing, Love Hypnosis, Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "The film begins with the Leprechaun, having been changed into a statue by a magical medallion, being sold to a Las Vegas pawn shop. When the clerk removes the medallion, the Leprechaun returns to his original form. He strangles the clerk and escapes the pawn shop, losing a gold coin in the process. The coin, which has the power to grant a single wish to anyone holding it, is passed from person to person at a nearby casino. The Leprechaun goes on a murderous rampage while trying to get the coin b Scene: Mitch wishes to have sex with Tammy The magic coin is activated Tammy is enchanted Hypnotized, Tammy believes she is in love with Mitch She prepares to seduce Mitch. Brainwashed, Tammy declares her love and desire for Mitch. Tammy begs Mitch to have sex with her Unaware of the coin's spell, Mitch leads Tammy into the bedroom, who happily follows him.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -414896,6 +414596,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Leprechaun 3",
      "url": "https://mentalblock.miraheze.org/wiki/Leprechaun_3"
+    },
+    {
+     "label": "Wikipedia: Leprechaun 3",
+     "url": "https://en.wikipedia.org/wiki/Leprechaun_3"
     }
    ],
    "youtube_ids": [],
@@ -414903,7 +414607,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:126"
+    "fanwiki-screen-oct14:114"
    ],
    "index_only": false,
    "local_only": true,
@@ -414911,7 +414615,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:126": {
+    "fanwiki-screen-oct14:114": {
      "title": "Leprechaun 3",
      "year": "1995",
      "subtitle": "",
@@ -414919,7 +414623,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Brainwashing, Love Hypnosis, Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "The film begins with the Leprechaun, having been changed into a statue by a magical medallion, being sold to a Las Vegas pawn shop. When the clerk removes the medallion, the Leprechaun returns to his original form. He strangles the clerk and escapes the pawn shop, losing a gold coin in the process. The coin, which has the power to grant a single wish to anyone holding it, is passed from person to person at a nearby casino. The Leprechaun goes on a murderous rampage while trying to get the coin b Scene: Mitch wishes to have sex with Tammy The magic coin is activated Tammy is enchanted Hypnotized, Tammy believes she is in love with Mitch She prepares to seduce Mitch. Brainwashed, Tammy declares her love and desire for Mitch. Tammy begs Mitch to have sex with her Unaware of the coin's spell, Mitch leads Tammy into the bedroom, who happily follows him.",
      "character": "",
      "categories": [
@@ -414930,6 +414634,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Leprechaun 3",
        "url": "https://mentalblock.miraheze.org/wiki/Leprechaun_3"
+      },
+      {
+       "label": "Wikipedia: Leprechaun 3",
+       "url": "https://en.wikipedia.org/wiki/Leprechaun_3"
       }
      ],
      "pregnant_end": "not stated",
@@ -414947,13 +414655,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2803,
+   "id": 2791,
    "title": "Leprechaun In The Hood",
    "subtitle": "",
    "year": "2000",
    "meta": "Film · English",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Rappers Postmaster P (Montgomery), Stray Bullet (Nall) and Butch (Grant) steal a gold flute from gangster Mack Daddy (Ice-T). The magic flute can give them fame and fortune but while stealing the flute, they accidentally release its original owner, the Leprechaun (Davis). The Leprechaun visits a local club and uses his magic to hypnotize and enslave three waitresses (Daya Vaidya, Chloe Hunter, Lori J. Jones), whom he dubs his \"Zombie Fly Girls.\" The hypnotized women help the Leprechaun to hunt d Scene: The Zombie Fly Girls enter the room The boys are happy to see them... ...until they see the ZFG's glowing green eyes The rappers trick the ZFGs into smoking the clover joint In a flashback, a waitress meets the Leprechaun Who touches her head, enslaving her She becomes a Zombie Fly Girl A second waitress.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -414976,6 +414684,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Leprechaun In The Hood",
      "url": "https://mentalblock.miraheze.org/wiki/Leprechaun_In_The_Hood"
+    },
+    {
+     "label": "Wikipedia: Leprechaun in the Hood",
+     "url": "https://en.wikipedia.org/wiki/Leprechaun_in_the_Hood"
     }
    ],
    "youtube_ids": [],
@@ -414983,7 +414695,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:127"
+    "fanwiki-screen-oct14:115"
    ],
    "index_only": false,
    "local_only": true,
@@ -414991,7 +414703,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:127": {
+    "fanwiki-screen-oct14:115": {
      "title": "Leprechaun In The Hood",
      "year": "2000",
      "subtitle": "",
@@ -414999,7 +414711,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Rappers Postmaster P (Montgomery), Stray Bullet (Nall) and Butch (Grant) steal a gold flute from gangster Mack Daddy (Ice-T). The magic flute can give them fame and fortune but while stealing the flute, they accidentally release its original owner, the Leprechaun (Davis). The Leprechaun visits a local club and uses his magic to hypnotize and enslave three waitresses (Daya Vaidya, Chloe Hunter, Lori J. Jones), whom he dubs his \"Zombie Fly Girls.\" The hypnotized women help the Leprechaun to hunt d Scene: The Zombie Fly Girls enter the room The boys are happy to see them... ...until they see the ZFG's glowing green eyes The rappers trick the ZFGs into smoking the clover joint In a flashback, a waitress meets the Leprechaun Who touches her head, enslaving her She becomes a Zombie Fly Girl A second waitress.",
      "character": "",
      "categories": [
@@ -415010,6 +414722,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Leprechaun In The Hood",
        "url": "https://mentalblock.miraheze.org/wiki/Leprechaun_In_The_Hood"
+      },
+      {
+       "label": "Wikipedia: Leprechaun in the Hood",
+       "url": "https://en.wikipedia.org/wiki/Leprechaun_in_the_Hood"
       }
      ],
      "pregnant_end": "not stated",
@@ -415027,13 +414743,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2804,
+   "id": 2792,
    "title": "Lightning Force",
    "subtitle": "Lightning Strikes Back (Season 1, Episode 17)) / The Master: Part 1 (Season 1, Episode 18) / The Master: Part 2 (Season ",
    "year": "1991–1992",
    "meta": "TV · English",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Lightning Strikes Back (Season 1, Episode 17)): Mike \"Lightning\" Rodney, one of the original members of Lightning Force, turns up alive and well after being captured and seemingly killed while on a mission. Rodney assumes that his captors left him for dead after shooting him in the head, but the 'execution' was just a cover story to hide the extensive brainwashing that Rodney underwent. The other team members quickly become suspicious of Lightning and find themselves trying to prove their friend's innocence- or guilt. The Master: Part 1 (Season 1, Episode 18): An American politician visits a s",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -415054,6 +414770,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Lightning Force",
      "url": "https://mentalblock.miraheze.org/wiki/Lightning_Force"
+    },
+    {
+     "label": "Wikipedia: Lightning Force",
+     "url": "https://en.wikipedia.org/wiki/Lightning_Force"
     }
    ],
    "youtube_ids": [],
@@ -415061,7 +414781,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:128"
+    "fanwiki-screen-oct14:116"
    ],
    "index_only": false,
    "local_only": true,
@@ -415069,7 +414789,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:128": {
+    "fanwiki-screen-oct14:116": {
      "title": "Lightning Force",
      "year": "1991–1992",
      "subtitle": "Lightning Strikes Back (Season 1, Episode 17)) / The Master: Part 1 (Season 1, Episode 18) / The Master: Part 2 (Season ",
@@ -415077,7 +414797,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Lightning Strikes Back (Season 1, Episode 17)): Mike \"Lightning\" Rodney, one of the original members of Lightning Force, turns up alive and well after being captured and seemingly killed while on a mission. Rodney assumes that his captors left him for dead after shooting him in the head, but the 'execution' was just a cover story to hide the extensive brainwashing that Rodney underwent. The other team members quickly become suspicious of Lightning and find themselves trying to prove their friend's innocence- or guilt. The Master: Part 1 (Season 1, Episode 18): An American politician visits a s",
      "character": "",
      "categories": [
@@ -415087,6 +414807,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Lightning Force",
        "url": "https://mentalblock.miraheze.org/wiki/Lightning_Force"
+      },
+      {
+       "label": "Wikipedia: Lightning Force",
+       "url": "https://en.wikipedia.org/wiki/Lightning_Force"
       }
      ],
      "pregnant_end": "not stated",
@@ -415103,7 +414827,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2805,
+   "id": 2793,
    "title": "Los Misterios de Rolo y sus Amigos",
    "subtitle": "Hipnotizados",
    "year": "2019",
@@ -415139,7 +414863,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:129"
+    "fanwiki-screen-oct14:117"
    ],
    "index_only": false,
    "local_only": true,
@@ -415147,7 +414871,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:129": {
+    "fanwiki-screen-oct14:117": {
      "title": "Los Misterios de Rolo y sus Amigos",
      "year": "2019",
      "subtitle": "Hipnotizados",
@@ -415183,13 +414907,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2806,
+   "id": 2794,
    "title": "Lost Girl",
    "subtitle": "It's a Fae, Fae, Fae, Fae World (Season 1, Episode 1) / Oh Kappa, My Kappa (Season 1, Episode 3) / It's Better to Burn O",
    "year": "2010–2015",
    "meta": "TV · English",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Bo Dennis is a succubus, one of a race with supernatural powers known as the Fae. By touching someone, Bo can influence them to do anything she asks. In addition, Bo has inherited additional powers: her blood, if it enters another person, can bind them to her giving potentially complete control. Other breeds of Fae also show up with mind-control powers of one kind or another. Hale (K. C. Collins) is a siren, able to use his whistling to put humans or Fae to sleep or make them compliant (plus oth It's a Fae, Fae, Fae, Fae World (Season 1, Episode 1): Bo has been on the run from city to city, since she can't control her feeding powers and is therefore compelled to kill regularly in order to stay alive. Working as a bartender, she is hit on by a man who tries to give her a drugged drink; when she refuses it, he gives it to another girl, Kenzi (Ksenia Solo). Bo then intervenes to prevent the man taking advantage of Kenzi, by having him kiss her instead; she feeds on him and leaves him dead in an elevator. In the morning, Bo and Kenzi discuss matters in a diner. When they are ready to leav",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -415211,6 +414935,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Lost Girl",
      "url": "https://mentalblock.miraheze.org/wiki/Lost_Girl"
+    },
+    {
+     "label": "Wikipedia: Lost Girl",
+     "url": "https://en.wikipedia.org/wiki/Lost_Girl"
     }
    ],
    "youtube_ids": [],
@@ -415218,7 +414946,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:130"
+    "fanwiki-screen-oct14:118"
    ],
    "index_only": false,
    "local_only": true,
@@ -415226,7 +414954,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:130": {
+    "fanwiki-screen-oct14:118": {
      "title": "Lost Girl",
      "year": "2010–2015",
      "subtitle": "It's a Fae, Fae, Fae, Fae World (Season 1, Episode 1) / Oh Kappa, My Kappa (Season 1, Episode 3) / It's Better to Burn O",
@@ -415234,7 +414962,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Bo Dennis is a succubus, one of a race with supernatural powers known as the Fae. By touching someone, Bo can influence them to do anything she asks. In addition, Bo has inherited additional powers: her blood, if it enters another person, can bind them to her giving potentially complete control. Other breeds of Fae also show up with mind-control powers of one kind or another. Hale (K. C. Collins) is a siren, able to use his whistling to put humans or Fae to sleep or make them compliant (plus oth It's a Fae, Fae, Fae, Fae World (Season 1, Episode 1): Bo has been on the run from city to city, since she can't control her feeding powers and is therefore compelled to kill regularly in order to stay alive. Working as a bartender, she is hit on by a man who tries to give her a drugged drink; when she refuses it, he gives it to another girl, Kenzi (Ksenia Solo). Bo then intervenes to prevent the man taking advantage of Kenzi, by having him kiss her instead; she feeds on him and leaves him dead in an elevator. In the morning, Bo and Kenzi discuss matters in a diner. When they are ready to leav",
      "character": "",
      "categories": [
@@ -415245,6 +414973,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Lost Girl",
        "url": "https://mentalblock.miraheze.org/wiki/Lost_Girl"
+      },
+      {
+       "label": "Wikipedia: Lost Girl",
+       "url": "https://en.wikipedia.org/wiki/Lost_Girl"
       }
      ],
      "pregnant_end": "not stated",
@@ -415261,7 +414993,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2807,
+   "id": 2795,
    "title": "Love Potion (Short Film)",
    "subtitle": "",
    "year": "2023",
@@ -415297,7 +415029,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:131"
+    "fanwiki-screen-oct14:119"
    ],
    "index_only": false,
    "local_only": true,
@@ -415305,7 +415037,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:131": {
+    "fanwiki-screen-oct14:119": {
      "title": "Love Potion (Short Film)",
      "year": "2023",
      "subtitle": "",
@@ -415341,13 +415073,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2808,
+   "id": 2796,
    "title": "Lua Vermelha",
    "subtitle": "Episode 2",
    "year": "2010",
    "meta": "TV · Portuguese",
    "mechanism": "Hypnotic Eyes",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "In the town of Sintra Mountains, Human and Vampires live in peace until the 100 years truce is broken by Eternal Light. Afonso, a vampire, and Isabel, a human, will fall in love, A love story that could spark a war between the two species. Episode 2: A vampire hypnotizes a Isabel's friend to her her cellphone number. Scene: The vampire approaches Isabel's friend. He casts his hypnotic gaze. The girl is hypnotized. He orders her to give him Isabel's phone number, and then to forget she ever met him. Mesmerized, the girl gives the vampire Isabel's phone number... ... and remains into a trance.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -415368,6 +415100,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Lua Vermelha",
      "url": "https://mentalblock.miraheze.org/wiki/Lua_Vermelha"
+    },
+    {
+     "label": "Wikipedia: Lua Vermelha",
+     "url": "https://en.wikipedia.org/wiki/Lua_Vermelha"
     }
    ],
    "youtube_ids": [],
@@ -415375,7 +415111,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:132"
+    "fanwiki-screen-oct14:120"
    ],
    "index_only": false,
    "local_only": true,
@@ -415383,7 +415119,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:132": {
+    "fanwiki-screen-oct14:120": {
      "title": "Lua Vermelha",
      "year": "2010",
      "subtitle": "Episode 2",
@@ -415391,7 +415127,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · Portuguese",
      "mechanism": "Hypnotic Eyes",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "In the town of Sintra Mountains, Human and Vampires live in peace until the 100 years truce is broken by Eternal Light. Afonso, a vampire, and Isabel, a human, will fall in love, A love story that could spark a war between the two species. Episode 2: A vampire hypnotizes a Isabel's friend to her her cellphone number. Scene: The vampire approaches Isabel's friend. He casts his hypnotic gaze. The girl is hypnotized. He orders her to give him Isabel's phone number, and then to forget she ever met him. Mesmerized, the girl gives the vampire Isabel's phone number... ... and remains into a trance.",
      "character": "",
      "categories": [
@@ -415401,6 +415137,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Lua Vermelha",
        "url": "https://mentalblock.miraheze.org/wiki/Lua_Vermelha"
+      },
+      {
+       "label": "Wikipedia: Lua Vermelha",
+       "url": "https://en.wikipedia.org/wiki/Lua_Vermelha"
       }
      ],
      "pregnant_end": "not stated",
@@ -415417,7 +415157,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2809,
+   "id": 2797,
    "title": "Lyco",
    "subtitle": "",
    "year": "2018",
@@ -415452,7 +415192,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:133"
+    "fanwiki-screen-oct14:121"
    ],
    "index_only": false,
    "local_only": true,
@@ -415460,7 +415200,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:133": {
+    "fanwiki-screen-oct14:121": {
      "title": "Lyco",
      "year": "2018",
      "subtitle": "",
@@ -415495,7 +415235,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2810,
+   "id": 2798,
    "title": "Magical Chinese Girl Pai Pai!",
    "subtitle": "Episode 25",
    "year": "1989",
@@ -415529,7 +415269,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:134"
+    "fanwiki-screen-oct14:122"
    ],
    "index_only": false,
    "local_only": true,
@@ -415537,7 +415277,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:134": {
+    "fanwiki-screen-oct14:122": {
      "title": "Magical Chinese Girl Pai Pai!",
      "year": "1989",
      "subtitle": "Episode 25",
@@ -415571,7 +415311,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2811,
+   "id": 2799,
    "title": "Mako Mermaids",
    "subtitle": "The Siren (Season 2, Episode 2)",
    "year": "2013",
@@ -415605,7 +415345,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:135"
+    "fanwiki-screen-oct14:123"
    ],
    "index_only": false,
    "local_only": true,
@@ -415613,7 +415353,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:135": {
+    "fanwiki-screen-oct14:123": {
      "title": "Mako Mermaids",
      "year": "2013",
      "subtitle": "The Siren (Season 2, Episode 2)",
@@ -415647,93 +415387,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2812,
-   "title": "Maligno",
-   "subtitle": "",
-   "year": "2016",
-   "meta": "Film · language not stated",
-   "mechanism": "Possession",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-   "summary": "A chilling legend becomes reality when a mysterious sealed hole in the wall opens in the hallway of a main city hospital (Iquitos), and a dark presence is released. This presence hypnotizes Luciana, a teenager girl, and then possessed her, to spread chaos and terror. Scene: Luciana falls under the entity's control. The young woman is completely mesmerized. Hypnotized, Luciana walks to the hole in the wall. Under the control of the entity, Luciana stands in front of the hole. In a trance, the girl puts her head in the hole. Luciana is possessed by the evil spirit.",
-   "character": "",
-   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-   "note": "",
-   "tags": [
-    "Films Live-Action",
-    "Spanish-language Works",
-    "Western Live Action"
-   ],
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-   "format": "movie",
-   "categories": [
-    "spirit"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki: Maligno",
-     "url": "https://mentalblock.miraheze.org/wiki/Maligno"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "fanwiki-screen-oct14"
-   ],
-   "source_records": [
-    "fanwiki-screen-oct14:136"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "fanwiki-screen-oct14:136": {
-     "title": "Maligno",
-     "year": "2016",
-     "subtitle": "",
-     "format": "movie",
-     "standalone": true,
-     "meta": "Film · language not stated",
-     "mechanism": "Possession",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-     "summary": "A chilling legend becomes reality when a mysterious sealed hole in the wall opens in the hallway of a main city hospital (Iquitos), and a dark presence is released. This presence hypnotizes Luciana, a teenager girl, and then possessed her, to spread chaos and terror. Scene: Luciana falls under the entity's control. The young woman is completely mesmerized. Hypnotized, Luciana walks to the hole in the wall. Under the control of the entity, Luciana stands in front of the hole. In a trance, the girl puts her head in the hole. Luciana is possessed by the evil spirit.",
-     "character": "",
-     "categories": [
-      "spirit"
-     ],
-     "sources": [
-      {
-       "label": "Mental Block wiki: Maligno",
-       "url": "https://mentalblock.miraheze.org/wiki/Maligno"
-      }
-     ],
-     "pregnant_end": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "married": "not stated",
-     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-     "group": "Fan-wiki screen additions (Oct 2026)",
-     "tags": [
-      "Films Live-Action",
-      "Spanish-language Works",
-      "Western Live Action"
-     ]
-    }
-   }
-  },
-  {
-   "id": 2813,
+   "id": 2800,
    "title": "Mashin Sentai Kiramager",
    "subtitle": "Episode 10:The Girl Who Chases After Shiguru / Episode 18: Darkness / Episode 19: Partner / Episode 30: Proud Super Warr",
    "year": "2020",
-   "meta": "TV · language not stated",
+   "meta": "TV · Japanese",
    "mechanism": "hypnosis / mind control",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "A princess from a land of jewelry and Kiramai Stones comes to Earth in search of people with a “shining spirit” called Kiramental, a source of outstanding charm and talent. She seeks them out to make them into warriors to defend Earth from an evil army. Five are chosen by the Kiramai Stones, which transform into sentient vehicle companions known as Mashin. Using these powers, they fight the evil army bent on robbing people of their hope and radiance. Episode 10:The Girl Who Chases After Shiguru: After a Kiramental Control training session, Shiguru and Sayo return to the main HQ room to come up with strategies while Juru and the others cheer while watching a PC screen. \"Look look! This popular internet idol has become an urban legend!\" The idol's name is Yodomehime, and only a few chosen fans get to watch her perform live in a special midnight broadcast of her show. However, the more the Kiramagers continued to celebrate, the more and more nervous Shiguru began to feel. As Sayo began to notice that Shiguru wasn't keeping his usual cool comp",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -415754,6 +415414,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Mashin Sentai Kiramager",
      "url": "https://mentalblock.miraheze.org/wiki/Mashin_Sentai_Kiramager"
+    },
+    {
+     "label": "Wikipedia: Mashin Sentai Kiramager",
+     "url": "https://en.wikipedia.org/wiki/Mashin_Sentai_Kiramager"
     }
    ],
    "youtube_ids": [],
@@ -415761,7 +415425,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:137"
+    "fanwiki-screen-oct14:124"
    ],
    "index_only": false,
    "local_only": true,
@@ -415769,15 +415433,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:137": {
+    "fanwiki-screen-oct14:124": {
      "title": "Mashin Sentai Kiramager",
      "year": "2020",
      "subtitle": "Episode 10:The Girl Who Chases After Shiguru / Episode 18: Darkness / Episode 19: Partner / Episode 30: Proud Super Warr",
      "format": "tv",
      "standalone": true,
-     "meta": "TV · language not stated",
+     "meta": "TV · Japanese",
      "mechanism": "hypnosis / mind control",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "A princess from a land of jewelry and Kiramai Stones comes to Earth in search of people with a “shining spirit” called Kiramental, a source of outstanding charm and talent. She seeks them out to make them into warriors to defend Earth from an evil army. Five are chosen by the Kiramai Stones, which transform into sentient vehicle companions known as Mashin. Using these powers, they fight the evil army bent on robbing people of their hope and radiance. Episode 10:The Girl Who Chases After Shiguru: After a Kiramental Control training session, Shiguru and Sayo return to the main HQ room to come up with strategies while Juru and the others cheer while watching a PC screen. \"Look look! This popular internet idol has become an urban legend!\" The idol's name is Yodomehime, and only a few chosen fans get to watch her perform live in a special midnight broadcast of her show. However, the more the Kiramagers continued to celebrate, the more and more nervous Shiguru began to feel. As Sayo began to notice that Shiguru wasn't keeping his usual cool comp",
      "character": "",
      "categories": [
@@ -415787,6 +415451,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Mashin Sentai Kiramager",
        "url": "https://mentalblock.miraheze.org/wiki/Mashin_Sentai_Kiramager"
+      },
+      {
+       "label": "Wikipedia: Mashin Sentai Kiramager",
+       "url": "https://en.wikipedia.org/wiki/Mashin_Sentai_Kiramager"
       }
      ],
      "pregnant_end": "not stated",
@@ -415803,13 +415471,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2814,
+   "id": 2801,
    "title": "Mech-X4",
    "subtitle": "Mech-X4 Versus The Infected (Season 2, Episode 19)",
    "year": "2016",
    "meta": "TV · English",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Ryan Walker mysteriously activates MECH-X4, a giant robot built to defend Bay City from destruction. When monsters begin to attack, Ryan calls his two best friends and his brother to help pilot the robot that is their only hope of saving their town from annihilation. Mech-X4 Versus The Infected (Season 2, Episode 19): A parasitic plant is taking control of numerous people, trapping them in a hive mind state. The Mech-X4 team becomes humanity's last hope. Scene: The mind controlled man releases the spores. His colleague is contaminated. He falls under the plant control. Spores rain down on the city. People are brainwashed by the parasitic plant. Georgia falls under the plant's control.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -415831,6 +415499,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Mech-X4",
      "url": "https://mentalblock.miraheze.org/wiki/Mech-X4"
+    },
+    {
+     "label": "Wikipedia: Mech-X4",
+     "url": "https://en.wikipedia.org/wiki/Mech-X4"
     }
    ],
    "youtube_ids": [],
@@ -415838,7 +415510,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:138"
+    "fanwiki-screen-oct14:125"
    ],
    "index_only": false,
    "local_only": true,
@@ -415846,7 +415518,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:138": {
+    "fanwiki-screen-oct14:125": {
      "title": "Mech-X4",
      "year": "2016",
      "subtitle": "Mech-X4 Versus The Infected (Season 2, Episode 19)",
@@ -415854,7 +415526,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Ryan Walker mysteriously activates MECH-X4, a giant robot built to defend Bay City from destruction. When monsters begin to attack, Ryan calls his two best friends and his brother to help pilot the robot that is their only hope of saving their town from annihilation. Mech-X4 Versus The Infected (Season 2, Episode 19): A parasitic plant is taking control of numerous people, trapping them in a hive mind state. The Mech-X4 team becomes humanity's last hope. Scene: The mind controlled man releases the spores. His colleague is contaminated. He falls under the plant control. Spores rain down on the city. People are brainwashed by the parasitic plant. Georgia falls under the plant's control.",
      "character": "",
      "categories": [
@@ -415865,6 +415537,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Mech-X4",
        "url": "https://mentalblock.miraheze.org/wiki/Mech-X4"
+      },
+      {
+       "label": "Wikipedia: Mech-X4",
+       "url": "https://en.wikipedia.org/wiki/Mech-X4"
       }
      ],
      "pregnant_end": "not stated",
@@ -415881,7 +415557,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2815,
+   "id": 2802,
    "title": "Mega Mindy",
    "subtitle": "Season 1 Episode 3 - De valse dokter / Season 3 Episode 11 - Roofkapje",
    "year": "2008",
@@ -415916,7 +415592,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:139"
+    "fanwiki-screen-oct14:126"
    ],
    "index_only": false,
    "local_only": true,
@@ -415924,7 +415600,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:139": {
+    "fanwiki-screen-oct14:126": {
      "title": "Mega Mindy",
      "year": "2008",
      "subtitle": "Season 1 Episode 3 - De valse dokter / Season 3 Episode 11 - Roofkapje",
@@ -415959,13 +415635,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2816,
+   "id": 2803,
    "title": "Monster Mash: The Movie",
    "subtitle": "",
    "year": "1995",
    "meta": "Film · English",
    "mechanism": "Comedic Hypnosis, Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Scott (Bohen) and Mary (Cameron) are on their way to a Halloween party when their car breaks down. They seek aid at the nearby home of Dr. Frankenstein (Pickett), and encounter a cast of famous monsters including Count Dracula (Anthony Crivello), Igor (John Kassir), a werewolf (Adam Shankman), and a mummified Elvis Presley (E. Aron Price). Dr. Frankenstein hopes to put Scott's brain into the body of his newest monster while Dracula hypnotizes Mary into becoming his new bride. However, Igor final",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -415988,6 +415664,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Monster Mash: The Movie",
      "url": "https://mentalblock.miraheze.org/wiki/Monster_Mash:_The_Movie"
+    },
+    {
+     "label": "Wikipedia: Monster Mash (1995 film)",
+     "url": "https://en.wikipedia.org/wiki/Monster_Mash_(1995_film)"
     }
    ],
    "youtube_ids": [],
@@ -415995,7 +415675,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:140"
+    "fanwiki-screen-oct14:127"
    ],
    "index_only": false,
    "local_only": true,
@@ -416003,7 +415683,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:140": {
+    "fanwiki-screen-oct14:127": {
      "title": "Monster Mash: The Movie",
      "year": "1995",
      "subtitle": "",
@@ -416011,7 +415691,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Comedic Hypnosis, Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Scott (Bohen) and Mary (Cameron) are on their way to a Halloween party when their car breaks down. They seek aid at the nearby home of Dr. Frankenstein (Pickett), and encounter a cast of famous monsters including Count Dracula (Anthony Crivello), Igor (John Kassir), a werewolf (Adam Shankman), and a mummified Elvis Presley (E. Aron Price). Dr. Frankenstein hopes to put Scott's brain into the body of his newest monster while Dracula hypnotizes Mary into becoming his new bride. However, Igor final",
      "character": "",
      "categories": [
@@ -416022,6 +415702,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Monster Mash: The Movie",
        "url": "https://mentalblock.miraheze.org/wiki/Monster_Mash:_The_Movie"
+      },
+      {
+       "label": "Wikipedia: Monster Mash (1995 film)",
+       "url": "https://en.wikipedia.org/wiki/Monster_Mash_(1995_film)"
       }
      ],
      "pregnant_end": "not stated",
@@ -416039,13 +415723,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2817,
+   "id": 2804,
    "title": "Mutant X",
    "subtitle": "A Breed Apart (Season 1, Episode 22) / Body and Soul (Season 2, Episode 9) / She's Come Undone (Season 3, Episode 17) / ",
    "year": "2001–2004",
    "meta": "TV · English",
    "mechanism": "Brainwashing, Possession",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "A Breed Apart (Season 1, Episode 22): A group of mutants that call themselves \"The Strand\" kidnap a mutant named Kelly (Kim Schraner) when she refuses to join them. The team arrives to stop the kidnappers but fail when their mutant powers suddenly malfunction. Later, a member of The Strand enters the government genetics lab and uses her powers to free Gabriel Ashlocke (Michael Easton), the most powerful and evil mutant of all. Ashlocke becomes the leader of The Strand. The Mutant team tracks down Kelly only to find that she is now happily handing out pro-Strand literature to other mutants. Kel",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -416066,6 +415750,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Mutant X",
      "url": "https://mentalblock.miraheze.org/wiki/Mutant_X"
+    },
+    {
+     "label": "Wikipedia: Mutant X (TV series)",
+     "url": "https://en.wikipedia.org/wiki/Mutant_X_(TV_series)"
     }
    ],
    "youtube_ids": [],
@@ -416073,7 +415761,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:141"
+    "fanwiki-screen-oct14:128"
    ],
    "index_only": false,
    "local_only": true,
@@ -416081,7 +415769,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:141": {
+    "fanwiki-screen-oct14:128": {
      "title": "Mutant X",
      "year": "2001–2004",
      "subtitle": "A Breed Apart (Season 1, Episode 22) / Body and Soul (Season 2, Episode 9) / She's Come Undone (Season 3, Episode 17) / ",
@@ -416089,7 +415777,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Brainwashing, Possession",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "A Breed Apart (Season 1, Episode 22): A group of mutants that call themselves \"The Strand\" kidnap a mutant named Kelly (Kim Schraner) when she refuses to join them. The team arrives to stop the kidnappers but fail when their mutant powers suddenly malfunction. Later, a member of The Strand enters the government genetics lab and uses her powers to free Gabriel Ashlocke (Michael Easton), the most powerful and evil mutant of all. Ashlocke becomes the leader of The Strand. The Mutant team tracks down Kelly only to find that she is now happily handing out pro-Strand literature to other mutants. Kel",
      "character": "",
      "categories": [
@@ -416099,89 +415787,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Mutant X",
        "url": "https://mentalblock.miraheze.org/wiki/Mutant_X"
-      }
-     ],
-     "pregnant_end": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "married": "not stated",
-     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-     "group": "Fan-wiki screen additions (Oct 2026)",
-     "tags": [
-      "Western Live Action"
-     ]
-    }
-   }
-  },
-  {
-   "id": 2818,
-   "title": "My Best Friend is a Vampire",
-   "subtitle": "",
-   "year": "1987",
-   "meta": "Film · English",
-   "mechanism": "Brainwashing, Comedic Hypnosis, Love Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-   "summary": "Jeremy Capello (Robert Sean Leonard) is a typical American teenager from Houston struggling with getting himself a girlfriend. Although he has caught the eye of his school's head cheerleader Candy (LeeAnne Locken), he has his attention fixed on his classmate and band geek Darla Blake (Cheryl Pollak), who in turn is unnerved by his constant staring at her. Recently, Jeremy has been having some weird nightmares about a strange woman trying to seduce him, and later he actually encounters that woman Scene: Jeremy hypnotizes Darla. Darla is hypnotized. Jeremy tries to programs Darla to forgive him and date with him again. But the conditioning fails, and Darla dumps Jeremy. Jeremy tries to hypnotize a woman at the club to feel attracted to his friend.. The woman is hypnotized. But she feels attracted by the wrong guy.",
-   "character": "",
-   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-   "note": "",
-   "tags": [
-    "Films Live-Action",
-    "Western Live Action"
-   ],
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-   "format": "movie",
-   "categories": [
-    "vampire",
-    "love",
-    "crime",
-    "index-62"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki: My Best Friend is a Vampire",
-     "url": "https://mentalblock.miraheze.org/wiki/My_Best_Friend_is_a_Vampire"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "fanwiki-screen-oct14"
-   ],
-   "source_records": [
-    "fanwiki-screen-oct14:142"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "fanwiki-screen-oct14:142": {
-     "title": "My Best Friend is a Vampire",
-     "year": "1987",
-     "subtitle": "",
-     "format": "movie",
-     "standalone": true,
-     "meta": "Film · English",
-     "mechanism": "Brainwashing, Comedic Hypnosis, Love Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-     "summary": "Jeremy Capello (Robert Sean Leonard) is a typical American teenager from Houston struggling with getting himself a girlfriend. Although he has caught the eye of his school's head cheerleader Candy (LeeAnne Locken), he has his attention fixed on his classmate and band geek Darla Blake (Cheryl Pollak), who in turn is unnerved by his constant staring at her. Recently, Jeremy has been having some weird nightmares about a strange woman trying to seduce him, and later he actually encounters that woman Scene: Jeremy hypnotizes Darla. Darla is hypnotized. Jeremy tries to programs Darla to forgive him and date with him again. But the conditioning fails, and Darla dumps Jeremy. Jeremy tries to hypnotize a woman at the club to feel attracted to his friend.. The woman is hypnotized. But she feels attracted by the wrong guy.",
-     "character": "",
-     "categories": [
-      "vampire",
-      "love",
-      "crime",
-      "index-62"
-     ],
-     "sources": [
+      },
       {
-       "label": "Mental Block wiki: My Best Friend is a Vampire",
-       "url": "https://mentalblock.miraheze.org/wiki/My_Best_Friend_is_a_Vampire"
+       "label": "Wikipedia: Mutant X (TV series)",
+       "url": "https://en.wikipedia.org/wiki/Mutant_X_(TV_series)"
       }
      ],
      "pregnant_end": "not stated",
@@ -416192,14 +415801,13 @@ window.CATALOG = {
      "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
      "group": "Fan-wiki screen additions (Oct 2026)",
      "tags": [
-      "Films Live-Action",
       "Western Live Action"
      ]
     }
    }
   },
   {
-   "id": 2819,
+   "id": 2805,
    "title": "Mysteries of Black Magic",
    "subtitle": "",
    "year": "1958",
@@ -416236,7 +415844,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:143"
+    "fanwiki-screen-oct14:129"
    ],
    "index_only": false,
    "local_only": true,
@@ -416244,7 +415852,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:143": {
+    "fanwiki-screen-oct14:129": {
      "title": "Mysteries of Black Magic",
      "year": "1958",
      "subtitle": "",
@@ -416281,7 +415889,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2820,
+   "id": 2806,
    "title": "Mystic Knights of Tir Na Nog",
    "subtitle": "Aideen's Choice (Season 1, Episode 18) / Dark Rider (Season 1, Episode 42)",
    "year": "1998–1999",
@@ -416315,7 +415923,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:144"
+    "fanwiki-screen-oct14:130"
    ],
    "index_only": false,
    "local_only": true,
@@ -416323,7 +415931,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:144": {
+    "fanwiki-screen-oct14:130": {
      "title": "Mystic Knights of Tir Na Nog",
      "year": "1998–1999",
      "subtitle": "Aideen's Choice (Season 1, Episode 18) / Dark Rider (Season 1, Episode 42)",
@@ -416357,7 +415965,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2821,
+   "id": 2807,
    "title": "Mythica: The Godslayer",
    "subtitle": "",
    "year": "2016",
@@ -416392,7 +416000,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:145"
+    "fanwiki-screen-oct14:131"
    ],
    "index_only": false,
    "local_only": true,
@@ -416400,7 +416008,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:145": {
+    "fanwiki-screen-oct14:131": {
      "title": "Mythica: The Godslayer",
      "year": "2016",
      "subtitle": "",
@@ -416435,7 +416043,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2822,
+   "id": 2808,
    "title": "Mythica: The Iron Crown",
    "subtitle": "",
    "year": "2016",
@@ -416471,7 +416079,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:146"
+    "fanwiki-screen-oct14:132"
    ],
    "index_only": false,
    "local_only": true,
@@ -416479,7 +416087,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:146": {
+    "fanwiki-screen-oct14:132": {
      "title": "Mythica: The Iron Crown",
      "year": "2016",
      "subtitle": "",
@@ -416515,7 +416123,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2823,
+   "id": 2809,
    "title": "Natty knocks",
    "subtitle": "",
    "year": "2023",
@@ -416551,7 +416159,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:147"
+    "fanwiki-screen-oct14:133"
    ],
    "index_only": false,
    "local_only": true,
@@ -416559,7 +416167,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:147": {
+    "fanwiki-screen-oct14:133": {
      "title": "Natty knocks",
      "year": "2023",
      "subtitle": "",
@@ -416595,7 +416203,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2824,
+   "id": 2810,
    "title": "Ninja 3: The Domination",
    "subtitle": "",
    "year": "1984",
@@ -416631,7 +416239,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:148"
+    "fanwiki-screen-oct14:134"
    ],
    "index_only": false,
    "local_only": true,
@@ -416639,7 +416247,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:148": {
+    "fanwiki-screen-oct14:134": {
      "title": "Ninja 3: The Domination",
      "year": "1984",
      "subtitle": "",
@@ -416675,7 +416283,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2825,
+   "id": 2811,
    "title": "Operation Kid Brother",
    "subtitle": "",
    "year": "1967",
@@ -416710,7 +416318,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:149"
+    "fanwiki-screen-oct14:135"
    ],
    "index_only": false,
    "local_only": true,
@@ -416718,7 +416326,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:149": {
+    "fanwiki-screen-oct14:135": {
      "title": "Operation Kid Brother",
      "year": "1967",
      "subtitle": "",
@@ -416753,87 +416361,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2826,
-   "title": "Out of This World",
-   "subtitle": "Futile Attraction (Season 2, Episode 18)",
-   "year": "1987",
-   "meta": "TV · English",
-   "mechanism": "Brainwashing, Chemical Hypnosis, Love Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-   "summary": "A teenager discovers that her birth father is an alien and that she has superpowers. Futile Attraction (Season 2, Episode 18): When Beano feels that he's lost \"that old Beano magic\" with the ladies, Evie gleeps his new cologne, causing women to become submissively in love with him. It works and all the attention starts to go to his head. Scene: Evie turns the cologne into a love potion. She freezes Beano and sprays the cologne on him. Heather falls into a trance... ...and falls madly in love with Beano. Under the influence of the cologne, many women become passionately subservient. Eager for Beano's attention and love, they serve him and obey his orders without question.",
-   "character": "",
-   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-   "note": "",
-   "tags": [
-    "Western Live Action"
-   ],
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-   "format": "tv",
-   "categories": [
-    "scifi",
-    "tech",
-    "love"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki: Out of This World",
-     "url": "https://mentalblock.miraheze.org/wiki/Out_of_This_World"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "fanwiki-screen-oct14"
-   ],
-   "source_records": [
-    "fanwiki-screen-oct14:150"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "fanwiki-screen-oct14:150": {
-     "title": "Out of This World",
-     "year": "1987",
-     "subtitle": "Futile Attraction (Season 2, Episode 18)",
-     "format": "tv",
-     "standalone": true,
-     "meta": "TV · English",
-     "mechanism": "Brainwashing, Chemical Hypnosis, Love Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-     "summary": "A teenager discovers that her birth father is an alien and that she has superpowers. Futile Attraction (Season 2, Episode 18): When Beano feels that he's lost \"that old Beano magic\" with the ladies, Evie gleeps his new cologne, causing women to become submissively in love with him. It works and all the attention starts to go to his head. Scene: Evie turns the cologne into a love potion. She freezes Beano and sprays the cologne on him. Heather falls into a trance... ...and falls madly in love with Beano. Under the influence of the cologne, many women become passionately subservient. Eager for Beano's attention and love, they serve him and obey his orders without question.",
-     "character": "",
-     "categories": [
-      "scifi",
-      "tech",
-      "love"
-     ],
-     "sources": [
-      {
-       "label": "Mental Block wiki: Out of This World",
-       "url": "https://mentalblock.miraheze.org/wiki/Out_of_This_World"
-      }
-     ],
-     "pregnant_end": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "married": "not stated",
-     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-     "group": "Fan-wiki screen additions (Oct 2026)",
-     "tags": [
-      "Western Live Action"
-     ]
-    }
-   }
-  },
-  {
-   "id": 2827,
+   "id": 2812,
    "title": "Perfumer",
    "subtitle": "Season 1, Episode 2",
    "year": "2025",
@@ -416867,7 +416395,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:151"
+    "fanwiki-screen-oct14:136"
    ],
    "index_only": false,
    "local_only": true,
@@ -416875,7 +416403,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:151": {
+    "fanwiki-screen-oct14:136": {
      "title": "Perfumer",
      "year": "2025",
      "subtitle": "Season 1, Episode 2",
@@ -416909,167 +416437,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2828,
-   "title": "Pig's Breakfast",
-   "subtitle": "Love Smells (Season 1, Episode 10)",
-   "year": "1999",
-   "meta": "TV · English",
-   "mechanism": "Chemical Hypnosis, Comedic Hypnosis, Love Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-   "summary": "When Grob and Meeba, two teenage aliens from the other side of the galaxy, accidentally crash land thei space school bus on earth, things get complicated when they befriend some Earthling children. Love Smells (Season 1, Episode 10): Meeba creates a love potion for Eban and everyone falls in love with everyone else, with some hilarious results. Scene: The boy smells the love potion... ... and falls in love for Meeba.",
-   "character": "",
-   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-   "note": "",
-   "tags": [
-    "Western Live Action"
-   ],
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-   "format": "tv",
-   "categories": [
-    "scifi",
-    "tech",
-    "love",
-    "index-62"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki: Pig's Breakfast",
-     "url": "https://mentalblock.miraheze.org/wiki/Pig's_Breakfast"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "fanwiki-screen-oct14"
-   ],
-   "source_records": [
-    "fanwiki-screen-oct14:152"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "fanwiki-screen-oct14:152": {
-     "title": "Pig's Breakfast",
-     "year": "1999",
-     "subtitle": "Love Smells (Season 1, Episode 10)",
-     "format": "tv",
-     "standalone": true,
-     "meta": "TV · English",
-     "mechanism": "Chemical Hypnosis, Comedic Hypnosis, Love Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-     "summary": "When Grob and Meeba, two teenage aliens from the other side of the galaxy, accidentally crash land thei space school bus on earth, things get complicated when they befriend some Earthling children. Love Smells (Season 1, Episode 10): Meeba creates a love potion for Eban and everyone falls in love with everyone else, with some hilarious results. Scene: The boy smells the love potion... ... and falls in love for Meeba.",
-     "character": "",
-     "categories": [
-      "scifi",
-      "tech",
-      "love",
-      "index-62"
-     ],
-     "sources": [
-      {
-       "label": "Mental Block wiki: Pig's Breakfast",
-       "url": "https://mentalblock.miraheze.org/wiki/Pig's_Breakfast"
-      }
-     ],
-     "pregnant_end": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "married": "not stated",
-     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-     "group": "Fan-wiki screen additions (Oct 2026)",
-     "tags": [
-      "Western Live Action"
-     ]
-    }
-   }
-  },
-  {
-   "id": 2829,
-   "title": "Popular",
-   "subtitle": "Slumber Party Massacre (Season 1, Episode 5)",
-   "year": "1999–2001",
-   "meta": "TV · English",
-   "mechanism": "Comedic Hypnosis, Traditional Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-   "summary": "Slumber Party Massacre (Season 1, Episode 5): Sam's friend Carmen (Sara Rue) invites all of the popular girls to her 16th birthday party, hoping to boost her own social standing. The popular girls agree to attend, mostly because Carmen's handsome brother Leo will be there. Nicole tries to seduce Leo only to be embarassed when she finds out that Leo and Sam are old friends. Feeling vengeful, she tricks Carmen into letting herself be hypnotized, then orders her to act like a chicken in front of the other popular girls.",
-   "character": "",
-   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-   "note": "",
-   "tags": [
-    "Western Live Action"
-   ],
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-   "format": "tv",
-   "categories": [
-    "index-62",
-    "human"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki: Popular (TV Series)",
-     "url": "https://mentalblock.miraheze.org/wiki/Popular_(TV_Series)"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "fanwiki-screen-oct14"
-   ],
-   "source_records": [
-    "fanwiki-screen-oct14:153"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "fanwiki-screen-oct14:153": {
-     "title": "Popular",
-     "year": "1999–2001",
-     "subtitle": "Slumber Party Massacre (Season 1, Episode 5)",
-     "format": "tv",
-     "standalone": true,
-     "meta": "TV · English",
-     "mechanism": "Comedic Hypnosis, Traditional Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-     "summary": "Slumber Party Massacre (Season 1, Episode 5): Sam's friend Carmen (Sara Rue) invites all of the popular girls to her 16th birthday party, hoping to boost her own social standing. The popular girls agree to attend, mostly because Carmen's handsome brother Leo will be there. Nicole tries to seduce Leo only to be embarassed when she finds out that Leo and Sam are old friends. Feeling vengeful, she tricks Carmen into letting herself be hypnotized, then orders her to act like a chicken in front of the other popular girls.",
-     "character": "",
-     "categories": [
-      "index-62",
-      "human"
-     ],
-     "sources": [
-      {
-       "label": "Mental Block wiki: Popular (TV Series)",
-       "url": "https://mentalblock.miraheze.org/wiki/Popular_(TV_Series)"
-      }
-     ],
-     "pregnant_end": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "married": "not stated",
-     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-     "group": "Fan-wiki screen additions (Oct 2026)",
-     "tags": [
-      "Western Live Action"
-     ]
-    }
-   }
-  },
-  {
-   "id": 2830,
+   "id": 2813,
    "title": "Power Rangers Dino Thunder",
    "subtitle": "The Missing Bone (Season 1, Episode 17) / Thunder Storm (Season 1, Episode 31-32)",
    "year": "2004",
@@ -417104,7 +416472,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:154"
+    "fanwiki-screen-oct14:137"
    ],
    "index_only": false,
    "local_only": true,
@@ -417112,7 +416480,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:154": {
+    "fanwiki-screen-oct14:137": {
      "title": "Power Rangers Dino Thunder",
      "year": "2004",
      "subtitle": "The Missing Bone (Season 1, Episode 17) / Thunder Storm (Season 1, Episode 31-32)",
@@ -417147,7 +416515,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2831,
+   "id": 2814,
    "title": "Power Rangers Operation Overdrive",
    "subtitle": "Pirate in Pink (Season 1, Episode 6)",
    "year": "2007",
@@ -417181,7 +416549,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:155"
+    "fanwiki-screen-oct14:138"
    ],
    "index_only": false,
    "local_only": true,
@@ -417189,7 +416557,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:155": {
+    "fanwiki-screen-oct14:138": {
      "title": "Power Rangers Operation Overdrive",
      "year": "2007",
      "subtitle": "Pirate in Pink (Season 1, Episode 6)",
@@ -417223,13 +416591,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2832,
+   "id": 2815,
    "title": "Power Rangers S.P.D.",
    "subtitle": "Recognition (Season 1, Episode 17) / Zapped (Season 1, Episode 23)",
    "year": "2005",
-   "meta": "TV · language not stated",
+   "meta": "TV · English",
    "mechanism": "Brainwashing, Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Recognition (Season 1, Episode 17): When evil alien Wootox is brought in for questioning, he escapes by switching bodies with Sky. Trapped in the body of a monster with a voice that can't be understood, can Sky warn the other Rangers before it's too late? Or will Wootox use the Delta Squad Megazord to destroy Newtech City? Zapped (Season 1, Episode 23): Morgana gives a down and out magician named Mysticon a magic wand in exchange for his help in destroying the Power Rangers. Mysticon uses the wand to hypnotize Sydney Drew AKA the Pink Ranger into being his assistant.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -417250,6 +416618,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Power Rangers S.P.D.",
      "url": "https://mentalblock.miraheze.org/wiki/Power_Rangers_S.P.D."
+    },
+    {
+     "label": "Wikipedia: Power Rangers S.P.D.",
+     "url": "https://en.wikipedia.org/wiki/Power_Rangers_S.P.D."
     }
    ],
    "youtube_ids": [],
@@ -417257,7 +416629,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:156"
+    "fanwiki-screen-oct14:139"
    ],
    "index_only": false,
    "local_only": true,
@@ -417265,15 +416637,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:156": {
+    "fanwiki-screen-oct14:139": {
      "title": "Power Rangers S.P.D.",
      "year": "2005",
      "subtitle": "Recognition (Season 1, Episode 17) / Zapped (Season 1, Episode 23)",
      "format": "tv",
      "standalone": true,
-     "meta": "TV · language not stated",
+     "meta": "TV · English",
      "mechanism": "Brainwashing, Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Recognition (Season 1, Episode 17): When evil alien Wootox is brought in for questioning, he escapes by switching bodies with Sky. Trapped in the body of a monster with a voice that can't be understood, can Sky warn the other Rangers before it's too late? Or will Wootox use the Delta Squad Megazord to destroy Newtech City? Zapped (Season 1, Episode 23): Morgana gives a down and out magician named Mysticon a magic wand in exchange for his help in destroying the Power Rangers. Mysticon uses the wand to hypnotize Sydney Drew AKA the Pink Ranger into being his assistant.",
      "character": "",
      "categories": [
@@ -417283,6 +416655,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Power Rangers S.P.D.",
        "url": "https://mentalblock.miraheze.org/wiki/Power_Rangers_S.P.D."
+      },
+      {
+       "label": "Wikipedia: Power Rangers S.P.D.",
+       "url": "https://en.wikipedia.org/wiki/Power_Rangers_S.P.D."
       }
      ],
      "pregnant_end": "not stated",
@@ -417299,7 +416675,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2833,
+   "id": 2816,
    "title": "Power Rangers Wild Force",
    "subtitle": "Three's a Crowd  (Season 1, Episode 20) / The Flute (Season 1, Episode 29) / Taming of the Zords (Season 1, Episode 31)",
    "year": "2002",
@@ -417333,7 +416709,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:157"
+    "fanwiki-screen-oct14:140"
    ],
    "index_only": false,
    "local_only": true,
@@ -417341,7 +416717,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:157": {
+    "fanwiki-screen-oct14:140": {
      "title": "Power Rangers Wild Force",
      "year": "2002",
      "subtitle": "Three's a Crowd  (Season 1, Episode 20) / The Flute (Season 1, Episode 29) / Taming of the Zords (Season 1, Episode 31)",
@@ -417375,83 +416751,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2834,
-   "title": "Power Rangers in Space",
-   "subtitle": "Shell Shocked (Season 1, Episode 4) / SInvasion of the Body Switcher (Season 1, Episode 19) / Dark Specter's Revenge (Se",
-   "year": "1998–1999",
-   "meta": "TV · English",
-   "mechanism": "Brainwashing, Magical Hypnosis, Technological Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-   "summary": "Shell Shocked (Season 1, Episode 4): In order to destroy the Space Rangers, Astronema uses her powers to brainwash another similar team of teen heroes, the Teenage Mutant Ninja Turtles. With them under her power, the Turtles con the Rangers into letting them on the Astro Megaship, so they can take it over for her. All goes according to plan, until the Rangers escape and the Megaship hits an electric storm. The shock causes the Turtles to break free of Astronema's spell and expel her from the ship. The Rangers return to assist, and plan to return the Turtles back to New York. However, they have",
-   "character": "",
-   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-   "note": "",
-   "tags": [
-    "Western Live Action"
-   ],
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-   "format": "tv",
-   "categories": [
-    "scifi"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki: Power Rangers in Space",
-     "url": "https://mentalblock.miraheze.org/wiki/Power_Rangers_in_Space"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "fanwiki-screen-oct14"
-   ],
-   "source_records": [
-    "fanwiki-screen-oct14:158"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "fanwiki-screen-oct14:158": {
-     "title": "Power Rangers in Space",
-     "year": "1998–1999",
-     "subtitle": "Shell Shocked (Season 1, Episode 4) / SInvasion of the Body Switcher (Season 1, Episode 19) / Dark Specter's Revenge (Se",
-     "format": "tv",
-     "standalone": true,
-     "meta": "TV · English",
-     "mechanism": "Brainwashing, Magical Hypnosis, Technological Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-     "summary": "Shell Shocked (Season 1, Episode 4): In order to destroy the Space Rangers, Astronema uses her powers to brainwash another similar team of teen heroes, the Teenage Mutant Ninja Turtles. With them under her power, the Turtles con the Rangers into letting them on the Astro Megaship, so they can take it over for her. All goes according to plan, until the Rangers escape and the Megaship hits an electric storm. The shock causes the Turtles to break free of Astronema's spell and expel her from the ship. The Rangers return to assist, and plan to return the Turtles back to New York. However, they have",
-     "character": "",
-     "categories": [
-      "scifi"
-     ],
-     "sources": [
-      {
-       "label": "Mental Block wiki: Power Rangers in Space",
-       "url": "https://mentalblock.miraheze.org/wiki/Power_Rangers_in_Space"
-      }
-     ],
-     "pregnant_end": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "married": "not stated",
-     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-     "group": "Fan-wiki screen additions (Oct 2026)",
-     "tags": [
-      "Western Live Action"
-     ]
-    }
-   }
-  },
-  {
-   "id": 2835,
+   "id": 2817,
    "title": "Prime Evil",
    "subtitle": "",
    "year": "1988",
@@ -417486,7 +416786,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:159"
+    "fanwiki-screen-oct14:141"
    ],
    "index_only": false,
    "local_only": true,
@@ -417494,7 +416794,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:159": {
+    "fanwiki-screen-oct14:141": {
      "title": "Prime Evil",
      "year": "1988",
      "subtitle": "",
@@ -417529,13 +416829,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2836,
+   "id": 2818,
    "title": "Prince of Darkness",
    "subtitle": "",
    "year": "1987",
    "meta": "Film · English",
    "mechanism": "Magical Hypnosis, Possession",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "A priest invites quantum physicist Professor Howard Birack and his students to join him in the basement of a monastery belonging to \"The Brotherhood of Sleep\", an old order who communicate through dreams. The priest requires their assistance in investigating a mysterious cylinder containing a swirling green liquid. Among the thirteen academics present are wise-cracking Walter, demure Kelly, and lovers Brian Marsh and Catherine Danforth. They decipher text found next to the cylinder which describ Scene: Susan looks at the anti god liquid the anti god liquid splashes on itself and contaminates Susan Susan is transformed into a zombie slave of the anti god Susan approaches Lisa in her bed Lisa doesn't understand Susan splashes the anti god liquid on Lisa Lisa is contaminated under the control of the Anti god, Susan and Lisa immobilize Calder",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -417557,6 +416857,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Prince of Darkness",
      "url": "https://mentalblock.miraheze.org/wiki/Prince_of_Darkness"
+    },
+    {
+     "label": "Wikipedia: Prince of Darkness (film)",
+     "url": "https://en.wikipedia.org/wiki/Prince_of_Darkness_(film)"
     }
    ],
    "youtube_ids": [],
@@ -417564,7 +416868,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:160"
+    "fanwiki-screen-oct14:142"
    ],
    "index_only": false,
    "local_only": true,
@@ -417572,7 +416876,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:160": {
+    "fanwiki-screen-oct14:142": {
      "title": "Prince of Darkness",
      "year": "1987",
      "subtitle": "",
@@ -417580,7 +416884,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Magical Hypnosis, Possession",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "A priest invites quantum physicist Professor Howard Birack and his students to join him in the basement of a monastery belonging to \"The Brotherhood of Sleep\", an old order who communicate through dreams. The priest requires their assistance in investigating a mysterious cylinder containing a swirling green liquid. Among the thirteen academics present are wise-cracking Walter, demure Kelly, and lovers Brian Marsh and Catherine Danforth. They decipher text found next to the cylinder which describ Scene: Susan looks at the anti god liquid the anti god liquid splashes on itself and contaminates Susan Susan is transformed into a zombie slave of the anti god Susan approaches Lisa in her bed Lisa doesn't understand Susan splashes the anti god liquid on Lisa Lisa is contaminated under the control of the Anti god, Susan and Lisa immobilize Calder",
      "character": "",
      "categories": [
@@ -417590,6 +416894,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Prince of Darkness",
        "url": "https://mentalblock.miraheze.org/wiki/Prince_of_Darkness"
+      },
+      {
+       "label": "Wikipedia: Prince of Darkness (film)",
+       "url": "https://en.wikipedia.org/wiki/Prince_of_Darkness_(film)"
       }
      ],
      "pregnant_end": "not stated",
@@ -417607,13 +416915,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2837,
+   "id": 2819,
    "title": "Re-Animator",
    "subtitle": "",
    "year": "1985",
    "meta": "Film · language not stated",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "At the University of Zurich Institute of Medicine in Switzerland, Herbert West brings his dead professor, Dr. Hans Gruber, back to life. There are horrific side-effects, however; as West explains, the dosage was too large. When accused of killing Gruber, West counters: \"I gave him life!\" West arrives at Miskatonic University in New England in order to further his studies as a medical student. He rents a room from fellow medical student Dan Cain and converts the house's basement into his own pers",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -417636,6 +416944,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Re-Animator",
      "url": "https://mentalblock.miraheze.org/wiki/Re-Animator"
+    },
+    {
+     "label": "Wikipedia: Re-Animator",
+     "url": "https://en.wikipedia.org/wiki/Re-Animator"
     }
    ],
    "youtube_ids": [],
@@ -417643,7 +416955,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:161"
+    "fanwiki-screen-oct14:143"
    ],
    "index_only": false,
    "local_only": true,
@@ -417651,7 +416963,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:161": {
+    "fanwiki-screen-oct14:143": {
      "title": "Re-Animator",
      "year": "1985",
      "subtitle": "",
@@ -417659,7 +416971,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · language not stated",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "At the University of Zurich Institute of Medicine in Switzerland, Herbert West brings his dead professor, Dr. Hans Gruber, back to life. There are horrific side-effects, however; as West explains, the dosage was too large. When accused of killing Gruber, West counters: \"I gave him life!\" West arrives at Miskatonic University in New England in order to further his studies as a medical student. He rents a room from fellow medical student Dan Cain and converts the house's basement into his own pers",
      "character": "",
      "categories": [
@@ -417670,6 +416982,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Re-Animator",
        "url": "https://mentalblock.miraheze.org/wiki/Re-Animator"
+      },
+      {
+       "label": "Wikipedia: Re-Animator",
+       "url": "https://en.wikipedia.org/wiki/Re-Animator"
       }
      ],
      "pregnant_end": "not stated",
@@ -417687,13 +417003,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2838,
+   "id": 2820,
    "title": "Ressha Sentai ToQger",
    "subtitle": "Station 7: Inconsolable, Unmotivatable / Station 12: The Rainbow Commuter Pass / Station 21: The Runaway Bride",
    "year": "2014",
-   "meta": "TV · language not stated",
+   "meta": "TV · Japanese",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Five young people travel on the Rainbow Line. But they have several problems: they'll often arrive at a station only to find it's been taken over by the evil Shadow Line, they can't remember anything beyond their childhoods, and there are lost trains (Resshas) that need to be found. Station 7: Inconsolable, Unmotivatable: After getting too emotionally involved in a ninja movie, Kagura accidentally breaks Hikari's kendama toy, and thinks that he won't forgive her. However, the Ressha stops at a new Dark Station where Seal Shadow has made everyone lose their motivation, and Right, Tokatti, and Mio fall under his spell. Station 12: The Rainbow Commuter Pass: The other ToQgers can no longer see the Ressha and are seemingly devoid of their Imagination. Right tries to get through to them, but Lamp Shadow reveals to him that Z has hypnotized all of them to forget their time on t",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -417714,6 +417030,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Ressha Sentai ToQger",
      "url": "https://mentalblock.miraheze.org/wiki/Ressha_Sentai_ToQger"
+    },
+    {
+     "label": "Wikipedia: Ressha Sentai ToQger",
+     "url": "https://en.wikipedia.org/wiki/Ressha_Sentai_ToQger"
     }
    ],
    "youtube_ids": [],
@@ -417721,7 +417041,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:162"
+    "fanwiki-screen-oct14:144"
    ],
    "index_only": false,
    "local_only": true,
@@ -417729,15 +417049,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:162": {
+    "fanwiki-screen-oct14:144": {
      "title": "Ressha Sentai ToQger",
      "year": "2014",
      "subtitle": "Station 7: Inconsolable, Unmotivatable / Station 12: The Rainbow Commuter Pass / Station 21: The Runaway Bride",
      "format": "tv",
      "standalone": true,
-     "meta": "TV · language not stated",
+     "meta": "TV · Japanese",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Five young people travel on the Rainbow Line. But they have several problems: they'll often arrive at a station only to find it's been taken over by the evil Shadow Line, they can't remember anything beyond their childhoods, and there are lost trains (Resshas) that need to be found. Station 7: Inconsolable, Unmotivatable: After getting too emotionally involved in a ninja movie, Kagura accidentally breaks Hikari's kendama toy, and thinks that he won't forgive her. However, the Ressha stops at a new Dark Station where Seal Shadow has made everyone lose their motivation, and Right, Tokatti, and Mio fall under his spell. Station 12: The Rainbow Commuter Pass: The other ToQgers can no longer see the Ressha and are seemingly devoid of their Imagination. Right tries to get through to them, but Lamp Shadow reveals to him that Z has hypnotized all of them to forget their time on t",
      "character": "",
      "categories": [
@@ -417747,6 +417067,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Ressha Sentai ToQger",
        "url": "https://mentalblock.miraheze.org/wiki/Ressha_Sentai_ToQger"
+      },
+      {
+       "label": "Wikipedia: Ressha Sentai ToQger",
+       "url": "https://en.wikipedia.org/wiki/Ressha_Sentai_ToQger"
       }
      ],
      "pregnant_end": "not stated",
@@ -417763,13 +417087,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2839,
+   "id": 2821,
    "title": "Ritual (2002)",
    "subtitle": "",
    "year": "2002",
    "meta": "Film · English",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "A Jamaican girl has been excluded from her family' inheritance, and seeks revenge against her brother. She attempts to turn the brother's nurse into a mindless zombie slave by use of voodoo, but the plan backfires when the nurse resists. Scene: Caro tricks Alice into putting the zombifying powder in her blood. Caro casts her hypnotic spell. Alice is hypnotized. Under Caro's control, she takes the zombifying powder to give her friend Wesley a massive dose. Alice manages to briefly break free from the witch's control, and blows the zombifying powder in her face. Caro becomes a mindless zombie slave, condemned to serve the village police chief.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -417791,6 +417115,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Ritual (2002)",
      "url": "https://mentalblock.miraheze.org/wiki/Ritual_(2002)"
+    },
+    {
+     "label": "Wikipedia: Ritual (2002 film)",
+     "url": "https://en.wikipedia.org/wiki/Ritual_(2002_film)"
     }
    ],
    "youtube_ids": [],
@@ -417798,7 +417126,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:163"
+    "fanwiki-screen-oct14:145"
    ],
    "index_only": false,
    "local_only": true,
@@ -417806,7 +417134,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:163": {
+    "fanwiki-screen-oct14:145": {
      "title": "Ritual (2002)",
      "year": "2002",
      "subtitle": "",
@@ -417814,7 +417142,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "A Jamaican girl has been excluded from her family' inheritance, and seeks revenge against her brother. She attempts to turn the brother's nurse into a mindless zombie slave by use of voodoo, but the plan backfires when the nurse resists. Scene: Caro tricks Alice into putting the zombifying powder in her blood. Caro casts her hypnotic spell. Alice is hypnotized. Under Caro's control, she takes the zombifying powder to give her friend Wesley a massive dose. Alice manages to briefly break free from the witch's control, and blows the zombifying powder in her face. Caro becomes a mindless zombie slave, condemned to serve the village police chief.",
      "character": "",
      "categories": [
@@ -417824,6 +417152,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Ritual (2002)",
        "url": "https://mentalblock.miraheze.org/wiki/Ritual_(2002)"
+      },
+      {
+       "label": "Wikipedia: Ritual (2002 film)",
+       "url": "https://en.wikipedia.org/wiki/Ritual_(2002_film)"
       }
      ],
      "pregnant_end": "not stated",
@@ -417841,7 +417173,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2840,
+   "id": 2822,
    "title": "Rox",
    "subtitle": "NV Apocalyps (Season 2, Episode 7)",
    "year": "2011–2015",
@@ -417875,7 +417207,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:164"
+    "fanwiki-screen-oct14:146"
    ],
    "index_only": false,
    "local_only": true,
@@ -417883,7 +417215,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:164": {
+    "fanwiki-screen-oct14:146": {
      "title": "Rox",
      "year": "2011–2015",
      "subtitle": "NV Apocalyps (Season 2, Episode 7)",
@@ -417917,13 +417249,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2841,
+   "id": 2823,
    "title": "Ruby Sparks",
    "subtitle": "",
    "year": "2012",
    "meta": "Film · English",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Calvin is a popular writer who starts writing a new book on his manual typewriter about Ruby, the girl of his dreams. He can't believe his eyes when Ruby materializes as a real person, and they begin to have a beautiful relationship. In case of relationship problems, all Calvin has to do is type on his typewriter to control Ruby's mind and actions according to his wishes. Scene: When Ruby tries to break up with him, Calvin reveals that she is not real and that he can control the girl with his typewriter. Ruby doesn't believe it, but she starts snapping her fingers frantically the moment Calvin types what she should do. Under the influence of the typewriter, Ruby falls into a trance and begins to undress and sing to Calvin. Furious with Ruby, Calvin uses the machine to make her believe she is a dog. Under the control of the typewriter, Ruby declares her love and devotion for Calvin. Realizing how monstrous he was being, Calvin frees Ruby from the typewriter's spell, al",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -417945,6 +417277,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Ruby Sparks",
      "url": "https://mentalblock.miraheze.org/wiki/Ruby_Sparks"
+    },
+    {
+     "label": "Wikipedia: Ruby Sparks",
+     "url": "https://en.wikipedia.org/wiki/Ruby_Sparks"
     }
    ],
    "youtube_ids": [],
@@ -417952,7 +417288,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:165"
+    "fanwiki-screen-oct14:147"
    ],
    "index_only": false,
    "local_only": true,
@@ -417960,7 +417296,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:165": {
+    "fanwiki-screen-oct14:147": {
      "title": "Ruby Sparks",
      "year": "2012",
      "subtitle": "",
@@ -417968,7 +417304,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Calvin is a popular writer who starts writing a new book on his manual typewriter about Ruby, the girl of his dreams. He can't believe his eyes when Ruby materializes as a real person, and they begin to have a beautiful relationship. In case of relationship problems, all Calvin has to do is type on his typewriter to control Ruby's mind and actions according to his wishes. Scene: When Ruby tries to break up with him, Calvin reveals that she is not real and that he can control the girl with his typewriter. Ruby doesn't believe it, but she starts snapping her fingers frantically the moment Calvin types what she should do. Under the influence of the typewriter, Ruby falls into a trance and begins to undress and sing to Calvin. Furious with Ruby, Calvin uses the machine to make her believe she is a dog. Under the control of the typewriter, Ruby declares her love and devotion for Calvin. Realizing how monstrous he was being, Calvin frees Ruby from the typewriter's spell, al",
      "character": "",
      "categories": [
@@ -417978,6 +417314,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Ruby Sparks",
        "url": "https://mentalblock.miraheze.org/wiki/Ruby_Sparks"
+      },
+      {
+       "label": "Wikipedia: Ruby Sparks",
+       "url": "https://en.wikipedia.org/wiki/Ruby_Sparks"
       }
      ],
      "pregnant_end": "not stated",
@@ -417995,7 +417335,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2842,
+   "id": 2824,
    "title": "Salut les Musclés",
    "subtitle": "Retour en force (Season 1, Episode 132)",
    "year": "1989",
@@ -418029,7 +417369,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:166"
+    "fanwiki-screen-oct14:148"
    ],
    "index_only": false,
    "local_only": true,
@@ -418037,7 +417377,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:166": {
+    "fanwiki-screen-oct14:148": {
      "title": "Salut les Musclés",
      "year": "1989",
      "subtitle": "Retour en force (Season 1, Episode 132)",
@@ -418071,13 +417411,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2843,
+   "id": 2825,
    "title": "Sands of Oblivion",
    "subtitle": "",
    "year": "2007",
-   "meta": "Film · language not stated",
+   "meta": "Film · English",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Iraq military logistics veteran Mark Tevis joins disabled grandfather George, who finally pursues his lifelong dream: digging up in a Californian desert, the film set for legendary epic films Director Cecil B. DeMille's Biblical The Ten Commandments (1923), which he saw as the young son of the location scout. They find a box containing George's childhood treasure, including an amulet. This unleashes a curse from early Phanaonic times, liberating the monster henchman of the evil god Seth, who sta Scene: Meagan has her arm burned by Anubis' touch. At night, the mark of Anubis appears on the young woman's arm. Meagan falls into a trance. Hypnotized, she walks around the camp without responding to those who speak to her. A giant snake appears before the girl, who, under mental control, does not react. The snake devours her.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -418099,6 +417439,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Sands of Oblivion",
      "url": "https://mentalblock.miraheze.org/wiki/Sands_of_Oblivion"
+    },
+    {
+     "label": "Wikipedia: Sands of Oblivion",
+     "url": "https://en.wikipedia.org/wiki/Sands_of_Oblivion"
     }
    ],
    "youtube_ids": [],
@@ -418106,7 +417450,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:167"
+    "fanwiki-screen-oct14:149"
    ],
    "index_only": false,
    "local_only": true,
@@ -418114,15 +417458,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:167": {
+    "fanwiki-screen-oct14:149": {
      "title": "Sands of Oblivion",
      "year": "2007",
      "subtitle": "",
      "format": "movie",
      "standalone": true,
-     "meta": "Film · language not stated",
+     "meta": "Film · English",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Iraq military logistics veteran Mark Tevis joins disabled grandfather George, who finally pursues his lifelong dream: digging up in a Californian desert, the film set for legendary epic films Director Cecil B. DeMille's Biblical The Ten Commandments (1923), which he saw as the young son of the location scout. They find a box containing George's childhood treasure, including an amulet. This unleashes a curse from early Phanaonic times, liberating the monster henchman of the evil god Seth, who sta Scene: Meagan has her arm burned by Anubis' touch. At night, the mark of Anubis appears on the young woman's arm. Meagan falls into a trance. Hypnotized, she walks around the camp without responding to those who speak to her. A giant snake appears before the girl, who, under mental control, does not react. The snake devours her.",
      "character": "",
      "categories": [
@@ -418132,6 +417476,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Sands of Oblivion",
        "url": "https://mentalblock.miraheze.org/wiki/Sands_of_Oblivion"
+      },
+      {
+       "label": "Wikipedia: Sands of Oblivion",
+       "url": "https://en.wikipedia.org/wiki/Sands_of_Oblivion"
       }
      ],
      "pregnant_end": "not stated",
@@ -418149,7 +417497,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2844,
+   "id": 2826,
    "title": "Santo Vs. Frankenstein's Daughter",
    "subtitle": "Scene Summary",
    "year": "1972",
@@ -418185,7 +417533,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:168"
+    "fanwiki-screen-oct14:150"
    ],
    "index_only": false,
    "local_only": true,
@@ -418193,7 +417541,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:168": {
+    "fanwiki-screen-oct14:150": {
      "title": "Santo Vs. Frankenstein's Daughter",
      "year": "1972",
      "subtitle": "Scene Summary",
@@ -418229,7 +417577,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2845,
+   "id": 2827,
    "title": "Santo Vs. The Martian Invasion",
    "subtitle": "",
    "year": "1967",
@@ -418265,7 +417613,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:169"
+    "fanwiki-screen-oct14:151"
    ],
    "index_only": false,
    "local_only": true,
@@ -418273,7 +417621,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:169": {
+    "fanwiki-screen-oct14:151": {
      "title": "Santo Vs. The Martian Invasion",
      "year": "1967",
      "subtitle": "",
@@ -418309,7 +417657,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2846,
+   "id": 2828,
    "title": "Satria Heroes: Revenge of Darkness",
    "subtitle": "",
    "year": "2017",
@@ -418344,7 +417692,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:170"
+    "fanwiki-screen-oct14:152"
    ],
    "index_only": false,
    "local_only": true,
@@ -418352,7 +417700,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:170": {
+    "fanwiki-screen-oct14:152": {
      "title": "Satria Heroes: Revenge of Darkness",
      "year": "2017",
      "subtitle": "",
@@ -418387,13 +417735,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2847,
+   "id": 2829,
    "title": "SeaQuest DSV",
    "subtitle": "Knight of Shadows (Season 1, Episode 8) / Lostland (Season 2, Episode 12) / Brainlock (Season 3, Episode 11)",
    "year": "1993–1996",
    "meta": "TV · English",
    "mechanism": "Brainwashing, Possession",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Knight of Shadows (Season 1, Episode 8): The seaQuest discovers a century-old shipwreck that is haunted by the ghosts of its crew. One of them possesses Dr. Westphalen. Lostland (Season 2, Episode 12): The seaQuest crew find an ancient helmet which seems to be from the lost city of Atlantis. A professor arrives to debunk this theory. However, the helmet starts warping the minds of Captain Bridger and some of his men. Brainlock (Season 3, Episode 11): On the eve of the signing of the new UEO charter, President Alexander Bourne and Larry Deon conspire to gain control of Lieutenant Fredericks' ps",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -418415,6 +417763,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: SeaQuest DSV",
      "url": "https://mentalblock.miraheze.org/wiki/SeaQuest_DSV"
+    },
+    {
+     "label": "Wikipedia: SeaQuest DSV",
+     "url": "https://en.wikipedia.org/wiki/SeaQuest_DSV"
     }
    ],
    "youtube_ids": [],
@@ -418422,7 +417774,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:171"
+    "fanwiki-screen-oct14:153"
    ],
    "index_only": false,
    "local_only": true,
@@ -418430,7 +417782,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:171": {
+    "fanwiki-screen-oct14:153": {
      "title": "SeaQuest DSV",
      "year": "1993–1996",
      "subtitle": "Knight of Shadows (Season 1, Episode 8) / Lostland (Season 2, Episode 12) / Brainlock (Season 3, Episode 11)",
@@ -418438,7 +417790,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Brainwashing, Possession",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Knight of Shadows (Season 1, Episode 8): The seaQuest discovers a century-old shipwreck that is haunted by the ghosts of its crew. One of them possesses Dr. Westphalen. Lostland (Season 2, Episode 12): The seaQuest crew find an ancient helmet which seems to be from the lost city of Atlantis. A professor arrives to debunk this theory. However, the helmet starts warping the minds of Captain Bridger and some of his men. Brainlock (Season 3, Episode 11): On the eve of the signing of the new UEO charter, President Alexander Bourne and Larry Deon conspire to gain control of Lieutenant Fredericks' ps",
      "character": "",
      "categories": [
@@ -418449,6 +417801,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: SeaQuest DSV",
        "url": "https://mentalblock.miraheze.org/wiki/SeaQuest_DSV"
+      },
+      {
+       "label": "Wikipedia: SeaQuest DSV",
+       "url": "https://en.wikipedia.org/wiki/SeaQuest_DSV"
       }
      ],
      "pregnant_end": "not stated",
@@ -418465,13 +417821,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2848,
+   "id": 2830,
    "title": "She-Wolf of London",
    "subtitle": "Big Top She-Wolf (Season 1, Episode 11)",
    "year": "1990–1991",
    "meta": "TV · English",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Big Top She-Wolf (Season 1, Episode 11): The ringmaster of a circus is able to prevent Randi from transforming during a full moon. He offers to make the change permanent, curing Randi of her lycanthropy forever, but only if she sells her soul to the Devil. When she refuses, he hypnotizes her and attempts to sacrifice her to the Devil anyway.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -418492,6 +417848,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: She-Wolf of London",
      "url": "https://mentalblock.miraheze.org/wiki/She-Wolf_of_London"
+    },
+    {
+     "label": "Wikipedia: She-Wolf of London (TV series)",
+     "url": "https://en.wikipedia.org/wiki/She-Wolf_of_London_(TV_series)"
     }
    ],
    "youtube_ids": [],
@@ -418499,7 +417859,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:172"
+    "fanwiki-screen-oct14:154"
    ],
    "index_only": false,
    "local_only": true,
@@ -418507,7 +417867,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:172": {
+    "fanwiki-screen-oct14:154": {
      "title": "She-Wolf of London",
      "year": "1990–1991",
      "subtitle": "Big Top She-Wolf (Season 1, Episode 11)",
@@ -418515,7 +417875,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Big Top She-Wolf (Season 1, Episode 11): The ringmaster of a circus is able to prevent Randi from transforming during a full moon. He offers to make the change permanent, curing Randi of her lycanthropy forever, but only if she sells her soul to the Devil. When she refuses, he hypnotizes her and attempts to sacrifice her to the Devil anyway.",
      "character": "",
      "categories": [
@@ -418525,6 +417885,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: She-Wolf of London",
        "url": "https://mentalblock.miraheze.org/wiki/She-Wolf_of_London"
+      },
+      {
+       "label": "Wikipedia: She-Wolf of London (TV series)",
+       "url": "https://en.wikipedia.org/wiki/She-Wolf_of_London_(TV_series)"
       }
      ],
      "pregnant_end": "not stated",
@@ -418541,13 +417905,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2849,
+   "id": 2831,
    "title": "Shuriken Sentai Ninninger",
    "subtitle": "Shinobi 18: The Youkai That Yakumo Loved / Shinobi 23: It's Summer! Ninja Courage Test",
    "year": "2015",
-   "meta": "TV · language not stated",
+   "meta": "TV · Japanese",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "The evil warlord Gengetsu Kibaoni was defeated 444 years ago by the Igasaki Clan to which he swore to destroy humanity, and again later the Kibaoni Army once again rose in the times of Last Ninja (ラストニンジャ Rasuto Ninja) in which he was sealed by Yoshitaka Igasaki (Last Ninja). Yet again exactly 444 years later in 2015 Kyuemon Izayoi and Raizo Gabi, the Generals of Kibaoni, rise and start building up the empire again and try to revive Gengetsu Kibaoni. In this time, Tsumuji Igasaki, son of Last Ni Shinobi 18: The Youkai That Yakumo Loved: A new Youkai named Otoroshi appears with the ability to control minds, and Yakumo acts rather oddly about him. Shinobi 23: It's Summer! Ninja Courage Test: Nagi, wanting to see Kasumi be bad at something for once, organizes a Ninja guts challenge. He will have Fuuka and Kasumi enter a building said to be haunted and the boys will disguise themselves to scare them. However, Yokai Yuki-Onna appears and the other Rangers are frozen, leaving Nagi by himself. Knowing that this time it is up to him alone, he decides to confront Yuki-Onna.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -418568,6 +417932,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Shuriken Sentai Ninninger",
      "url": "https://mentalblock.miraheze.org/wiki/Shuriken_Sentai_Ninninger"
+    },
+    {
+     "label": "Wikipedia: Shuriken Sentai Ninninger",
+     "url": "https://en.wikipedia.org/wiki/Shuriken_Sentai_Ninninger"
     }
    ],
    "youtube_ids": [],
@@ -418575,7 +417943,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:173"
+    "fanwiki-screen-oct14:155"
    ],
    "index_only": false,
    "local_only": true,
@@ -418583,15 +417951,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:173": {
+    "fanwiki-screen-oct14:155": {
      "title": "Shuriken Sentai Ninninger",
      "year": "2015",
      "subtitle": "Shinobi 18: The Youkai That Yakumo Loved / Shinobi 23: It's Summer! Ninja Courage Test",
      "format": "tv",
      "standalone": true,
-     "meta": "TV · language not stated",
+     "meta": "TV · Japanese",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "The evil warlord Gengetsu Kibaoni was defeated 444 years ago by the Igasaki Clan to which he swore to destroy humanity, and again later the Kibaoni Army once again rose in the times of Last Ninja (ラストニンジャ Rasuto Ninja) in which he was sealed by Yoshitaka Igasaki (Last Ninja). Yet again exactly 444 years later in 2015 Kyuemon Izayoi and Raizo Gabi, the Generals of Kibaoni, rise and start building up the empire again and try to revive Gengetsu Kibaoni. In this time, Tsumuji Igasaki, son of Last Ni Shinobi 18: The Youkai That Yakumo Loved: A new Youkai named Otoroshi appears with the ability to control minds, and Yakumo acts rather oddly about him. Shinobi 23: It's Summer! Ninja Courage Test: Nagi, wanting to see Kasumi be bad at something for once, organizes a Ninja guts challenge. He will have Fuuka and Kasumi enter a building said to be haunted and the boys will disguise themselves to scare them. However, Yokai Yuki-Onna appears and the other Rangers are frozen, leaving Nagi by himself. Knowing that this time it is up to him alone, he decides to confront Yuki-Onna.",
      "character": "",
      "categories": [
@@ -418601,6 +417969,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Shuriken Sentai Ninninger",
        "url": "https://mentalblock.miraheze.org/wiki/Shuriken_Sentai_Ninninger"
+      },
+      {
+       "label": "Wikipedia: Shuriken Sentai Ninninger",
+       "url": "https://en.wikipedia.org/wiki/Shuriken_Sentai_Ninninger"
       }
      ],
      "pregnant_end": "not stated",
@@ -418617,13 +417989,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2850,
+   "id": 2832,
    "title": "Sinbad and the Minotaur",
    "subtitle": "Scene Summary",
    "year": "2011",
    "meta": "Film · English",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Scene Summary: In a brief scene towards the beginning of the film, Sinbad sneaks into Al Jibbar's camp and ducks into a tent to avoid patrolling guards. He comes face-to-face with three hypnotized harem girls, and meets Tara, who explains that Al Jibbar has used mystical powers to take over the minds of the harem girls.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -418645,6 +418017,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Sinbad and the Minotaur",
      "url": "https://mentalblock.miraheze.org/wiki/Sinbad_and_the_Minotaur"
+    },
+    {
+     "label": "Wikipedia: Sinbad and the Minotaur",
+     "url": "https://en.wikipedia.org/wiki/Sinbad_and_the_Minotaur"
     }
    ],
    "youtube_ids": [],
@@ -418652,7 +418028,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:174"
+    "fanwiki-screen-oct14:156"
    ],
    "index_only": false,
    "local_only": true,
@@ -418660,7 +418036,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:174": {
+    "fanwiki-screen-oct14:156": {
      "title": "Sinbad and the Minotaur",
      "year": "2011",
      "subtitle": "Scene Summary",
@@ -418668,7 +418044,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Scene Summary: In a brief scene towards the beginning of the film, Sinbad sneaks into Al Jibbar's camp and ducks into a tent to avoid patrolling guards. He comes face-to-face with three hypnotized harem girls, and meets Tara, who explains that Al Jibbar has used mystical powers to take over the minds of the harem girls.",
      "character": "",
      "categories": [
@@ -418678,6 +418054,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Sinbad and the Minotaur",
        "url": "https://mentalblock.miraheze.org/wiki/Sinbad_and_the_Minotaur"
+      },
+      {
+       "label": "Wikipedia: Sinbad and the Minotaur",
+       "url": "https://en.wikipedia.org/wiki/Sinbad_and_the_Minotaur"
       }
      ],
      "pregnant_end": "not stated",
@@ -418695,13 +418075,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2851,
+   "id": 2833,
    "title": "Special Unit 2",
    "subtitle": "The Grain (Season 2, Episode 1) / The Love (Season 2, Episode 11)",
    "year": "2001–2002",
    "meta": "TV · English",
    "mechanism": "Love Hypnosis, Magical Hypnosis, Possession",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "The Grain (Season 2, Episode 1): Nick (Landas) and Kate (Lee) investigate a series of spree crimes committed by people with no prior criminal history. They trace the cause to a Sandman, a creature that can possess people while they sleep. The manage to trap the creature inside a downtown bank, but the Sandman possesses Kate when she briefly nods off. When the possessed Kate takes a restaurant full of people hostage, Nick must find a way to trap the Sandman and save his partner without getting anyone killed. The Love (Season 2, Episode 11): A Cupid-like creature, who emits a love-causing scent",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -418724,6 +418104,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Special Unit 2",
      "url": "https://mentalblock.miraheze.org/wiki/Special_Unit_2"
+    },
+    {
+     "label": "Wikipedia: Special Unit 2",
+     "url": "https://en.wikipedia.org/wiki/Special_Unit_2"
     }
    ],
    "youtube_ids": [],
@@ -418731,7 +418115,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:175"
+    "fanwiki-screen-oct14:157"
    ],
    "index_only": false,
    "local_only": true,
@@ -418739,7 +418123,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:175": {
+    "fanwiki-screen-oct14:157": {
      "title": "Special Unit 2",
      "year": "2001–2002",
      "subtitle": "The Grain (Season 2, Episode 1) / The Love (Season 2, Episode 11)",
@@ -418747,7 +418131,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Love Hypnosis, Magical Hypnosis, Possession",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "The Grain (Season 2, Episode 1): Nick (Landas) and Kate (Lee) investigate a series of spree crimes committed by people with no prior criminal history. They trace the cause to a Sandman, a creature that can possess people while they sleep. The manage to trap the creature inside a downtown bank, but the Sandman possesses Kate when she briefly nods off. When the possessed Kate takes a restaurant full of people hostage, Nick must find a way to trap the Sandman and save his partner without getting anyone killed. The Love (Season 2, Episode 11): A Cupid-like creature, who emits a love-causing scent",
      "character": "",
      "categories": [
@@ -418759,6 +418143,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Special Unit 2",
        "url": "https://mentalblock.miraheze.org/wiki/Special_Unit_2"
+      },
+      {
+       "label": "Wikipedia: Special Unit 2",
+       "url": "https://en.wikipedia.org/wiki/Special_Unit_2"
       }
      ],
      "pregnant_end": "not stated",
@@ -418775,13 +418163,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2852,
+   "id": 2834,
    "title": "Star Trek: Enterprise",
    "subtitle": "\"Regeneration\" season 2, episode 49",
    "year": "2001",
-   "meta": "TV · language not stated",
+   "meta": "TV · English",
    "mechanism": "hypnosis / mind control",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "\"Regeneration\" season 2, episode 49: A team is investigating strange wreckage found in the artic including two humanoid bodies frozen in ice. They take them to their laboratory for analysis and that turns out to be a huge mistake as they thaw and awaken-turns out they are borg leftovers from a battle over a century ago [STAR TREK-FIRST CONTACT] and they turn on the scientists. The ENTERPRISE is sent to investigate and piece it together as their sensors pick up a ship hightailing it out of there. ARCHER [SCOTT BAKULA] recalls a speech by ZEFRIM COCHRANE where he mentioned the BORG and realizes",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -418802,6 +418190,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Star Trek: Enterprise",
      "url": "https://mentalblock.miraheze.org/wiki/Star_Trek:_Enterprise"
+    },
+    {
+     "label": "Wikipedia: Star Trek: Enterprise",
+     "url": "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise"
     }
    ],
    "youtube_ids": [],
@@ -418809,7 +418201,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:176"
+    "fanwiki-screen-oct14:158"
    ],
    "index_only": false,
    "local_only": true,
@@ -418817,15 +418209,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:176": {
+    "fanwiki-screen-oct14:158": {
      "title": "Star Trek: Enterprise",
      "year": "2001",
      "subtitle": "\"Regeneration\" season 2, episode 49",
      "format": "tv",
      "standalone": true,
-     "meta": "TV · language not stated",
+     "meta": "TV · English",
      "mechanism": "hypnosis / mind control",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "\"Regeneration\" season 2, episode 49: A team is investigating strange wreckage found in the artic including two humanoid bodies frozen in ice. They take them to their laboratory for analysis and that turns out to be a huge mistake as they thaw and awaken-turns out they are borg leftovers from a battle over a century ago [STAR TREK-FIRST CONTACT] and they turn on the scientists. The ENTERPRISE is sent to investigate and piece it together as their sensors pick up a ship hightailing it out of there. ARCHER [SCOTT BAKULA] recalls a speech by ZEFRIM COCHRANE where he mentioned the BORG and realizes",
      "character": "",
      "categories": [
@@ -418835,6 +418227,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Star Trek: Enterprise",
        "url": "https://mentalblock.miraheze.org/wiki/Star_Trek:_Enterprise"
+      },
+      {
+       "label": "Wikipedia: Star Trek: Enterprise",
+       "url": "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise"
       }
      ],
      "pregnant_end": "not stated",
@@ -418851,13 +418247,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2853,
+   "id": 2835,
    "title": "Star Trek: The Next Generation (1987)",
    "subtitle": "Lonely Among Us (Season 1, Episode 7) / The Mind's Eye (Season 4, Episode 24) / The Game (Season 5, Episode 6)",
    "year": "1987–1994",
-   "meta": "TV · English",
+   "meta": "TV · en-US",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Lonely Among Us (Season 1, Episode 7): While ferrying bickering delegates from rival alien planets, the Enterprise passes through a strange energy cloud and accidentally picks up an energy-based being. It possesses and controls Lt Worf (Michael Dorn) and Dr. Crusher (Gates McFadden) before escaping into the ship's computers. Counselor Troi (Marina Sirtis) hypnotized Worf and Crusher to recover their memories of being possessed. The entity then possesses Picard, who steers the ship back to the energy cloud and prepares to beam himself into it. The Mind's Eye (Season 4, Episode 24): The Romulans",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -418878,6 +418274,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Star Trek: The Next Generation (1987)",
      "url": "https://mentalblock.miraheze.org/wiki/Star_Trek:_The_Next_Generation_(1987)"
+    },
+    {
+     "label": "Wikipedia: List of Star Trek: The Next Generation episodes",
+     "url": "https://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Next_Generation_episodes"
     }
    ],
    "youtube_ids": [],
@@ -418885,7 +418285,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:177"
+    "fanwiki-screen-oct14:159"
    ],
    "index_only": false,
    "local_only": true,
@@ -418893,15 +418293,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:177": {
+    "fanwiki-screen-oct14:159": {
      "title": "Star Trek: The Next Generation (1987)",
      "year": "1987–1994",
      "subtitle": "Lonely Among Us (Season 1, Episode 7) / The Mind's Eye (Season 4, Episode 24) / The Game (Season 5, Episode 6)",
      "format": "tv",
      "standalone": true,
-     "meta": "TV · English",
+     "meta": "TV · en-US",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Lonely Among Us (Season 1, Episode 7): While ferrying bickering delegates from rival alien planets, the Enterprise passes through a strange energy cloud and accidentally picks up an energy-based being. It possesses and controls Lt Worf (Michael Dorn) and Dr. Crusher (Gates McFadden) before escaping into the ship's computers. Counselor Troi (Marina Sirtis) hypnotized Worf and Crusher to recover their memories of being possessed. The entity then possesses Picard, who steers the ship back to the energy cloud and prepares to beam himself into it. The Mind's Eye (Season 4, Episode 24): The Romulans",
      "character": "",
      "categories": [
@@ -418911,6 +418311,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Star Trek: The Next Generation (1987)",
        "url": "https://mentalblock.miraheze.org/wiki/Star_Trek:_The_Next_Generation_(1987)"
+      },
+      {
+       "label": "Wikipedia: List of Star Trek: The Next Generation episodes",
+       "url": "https://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Next_Generation_episodes"
       }
      ],
      "pregnant_end": "not stated",
@@ -418927,13 +418331,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2854,
+   "id": 2836,
    "title": "Stewardess School",
    "subtitle": "",
    "year": "1986",
    "meta": "Film · English",
    "mechanism": "Brainwashing, Traditional Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "A group of varied outcasts(including a former prostitute/stripper and a bumbler who can’t see more than 6 inches in front of his eyes) enter a school to become flight attendants. Somehow, with mad lessons and even hypnosis, the group makes it through to the final test: a cross-country flight.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -418956,6 +418360,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Stewardess School",
      "url": "https://mentalblock.miraheze.org/wiki/Stewardess_School"
+    },
+    {
+     "label": "Wikipedia: Stewardess School",
+     "url": "https://en.wikipedia.org/wiki/Stewardess_School"
     }
    ],
    "youtube_ids": [],
@@ -418963,7 +418371,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:178"
+    "fanwiki-screen-oct14:160"
    ],
    "index_only": false,
    "local_only": true,
@@ -418971,7 +418379,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:178": {
+    "fanwiki-screen-oct14:160": {
      "title": "Stewardess School",
      "year": "1986",
      "subtitle": "",
@@ -418979,7 +418387,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Brainwashing, Traditional Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "A group of varied outcasts(including a former prostitute/stripper and a bumbler who can’t see more than 6 inches in front of his eyes) enter a school to become flight attendants. Somehow, with mad lessons and even hypnosis, the group makes it through to the final test: a cross-country flight.",
      "character": "",
      "categories": [
@@ -418990,90 +418398,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Stewardess School",
        "url": "https://mentalblock.miraheze.org/wiki/Stewardess_School"
-      }
-     ],
-     "pregnant_end": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "married": "not stated",
-     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-     "group": "Fan-wiki screen additions (Oct 2026)",
-     "tags": [
-      "Films Live-Action",
-      "Western Live Action"
-     ]
-    }
-   }
-  },
-  {
-   "id": 2855,
-   "title": "Strange Behavior",
-   "subtitle": "",
-   "year": "1981",
-   "meta": "Film · language not stated",
-   "mechanism": "Brainwashing, Chemical Hypnosis, Traditional Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-   "summary": "A scientist is experimenting with teenagers and turning them into mind controlled murderers. Scene: A mind-controlled girl kills another teenager. Gwen brainwashes a subject by video. A brainwashed killer attacks a boy... ...and then goes after his girlfriend. Pete is injected with the mind control serum. He falls into a trance.",
-   "character": "",
-   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-   "note": "",
-   "tags": [
-    "Films Live-Action",
-    "Western Live Action"
-   ],
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-   "format": "movie",
-   "categories": [
-    "scifi",
-    "tech",
-    "crime",
-    "human"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki: Strange Behavior",
-     "url": "https://mentalblock.miraheze.org/wiki/Strange_Behavior"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "fanwiki-screen-oct14"
-   ],
-   "source_records": [
-    "fanwiki-screen-oct14:179"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "fanwiki-screen-oct14:179": {
-     "title": "Strange Behavior",
-     "year": "1981",
-     "subtitle": "",
-     "format": "movie",
-     "standalone": true,
-     "meta": "Film · language not stated",
-     "mechanism": "Brainwashing, Chemical Hypnosis, Traditional Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-     "summary": "A scientist is experimenting with teenagers and turning them into mind controlled murderers. Scene: A mind-controlled girl kills another teenager. Gwen brainwashes a subject by video. A brainwashed killer attacks a boy... ...and then goes after his girlfriend. Pete is injected with the mind control serum. He falls into a trance.",
-     "character": "",
-     "categories": [
-      "scifi",
-      "tech",
-      "crime",
-      "human"
-     ],
-     "sources": [
+      },
       {
-       "label": "Mental Block wiki: Strange Behavior",
-       "url": "https://mentalblock.miraheze.org/wiki/Strange_Behavior"
+       "label": "Wikipedia: Stewardess School",
+       "url": "https://en.wikipedia.org/wiki/Stewardess_School"
       }
      ],
      "pregnant_end": "not stated",
@@ -419091,13 +418419,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2856,
+   "id": 2837,
    "title": "Super Inday and the Golden Bibe (2010)",
    "subtitle": "",
    "year": "1988",
-   "meta": "Film · language not stated",
+   "meta": "Film · Filipino",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Inday (Marian Rivera) is a simple and innocent province girl with a loving mother. A fallen angel named Goldy (John Lapus) that can transform into a duck meets a tiyanak that was lost on her way to heaven, but he refuses for he cannot go to heaven until he gets a person do good and rewards him salvation. Then they met Inday. The meeting was suddenly interrupted by her neighbor to tell her that her mother is dying. She goes to the house, just as her mother reveals the painful truth, that she was  Scene: Kokang is caught by her evil boss. the evil spirits casts a hypnotic spell in Kokang. the woman is hypnotized. mesmerized Kokang follows her boss jumping like a rabbit. Inday finds the mesmerized Kokang overseeing the kidnapping of the children. Inday slaps Kokang to snap her out of the trance. Kokakng is happy to have her mind freed, but upset that her face hurts.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -419119,6 +418447,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Super Inday and the Golden Bibe (2010)",
      "url": "https://mentalblock.miraheze.org/wiki/Super_Inday_and_the_Golden_Bibe_(2010)"
+    },
+    {
+     "label": "Wikipedia: Super Inday and the Golden Bibe (2010 film)",
+     "url": "https://en.wikipedia.org/wiki/Super_Inday_and_the_Golden_Bibe_(2010_film)"
     }
    ],
    "youtube_ids": [],
@@ -419126,7 +418458,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:180"
+    "fanwiki-screen-oct14:161"
    ],
    "index_only": false,
    "local_only": true,
@@ -419134,15 +418466,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:180": {
+    "fanwiki-screen-oct14:161": {
      "title": "Super Inday and the Golden Bibe (2010)",
      "year": "1988",
      "subtitle": "",
      "format": "movie",
      "standalone": true,
-     "meta": "Film · language not stated",
+     "meta": "Film · Filipino",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Inday (Marian Rivera) is a simple and innocent province girl with a loving mother. A fallen angel named Goldy (John Lapus) that can transform into a duck meets a tiyanak that was lost on her way to heaven, but he refuses for he cannot go to heaven until he gets a person do good and rewards him salvation. Then they met Inday. The meeting was suddenly interrupted by her neighbor to tell her that her mother is dying. She goes to the house, just as her mother reveals the painful truth, that she was  Scene: Kokang is caught by her evil boss. the evil spirits casts a hypnotic spell in Kokang. the woman is hypnotized. mesmerized Kokang follows her boss jumping like a rabbit. Inday finds the mesmerized Kokang overseeing the kidnapping of the children. Inday slaps Kokang to snap her out of the trance. Kokakng is happy to have her mind freed, but upset that her face hurts.",
      "character": "",
      "categories": [
@@ -419152,6 +418484,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Super Inday and the Golden Bibe (2010)",
        "url": "https://mentalblock.miraheze.org/wiki/Super_Inday_and_the_Golden_Bibe_(2010)"
+      },
+      {
+       "label": "Wikipedia: Super Inday and the Golden Bibe (2010 film)",
+       "url": "https://en.wikipedia.org/wiki/Super_Inday_and_the_Golden_Bibe_(2010_film)"
       }
      ],
      "pregnant_end": "not stated",
@@ -419169,91 +418505,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2857,
-   "title": "Tamara",
-   "subtitle": "",
-   "year": "2005",
-   "meta": "Film · language not stated",
-   "mechanism": "Brainwashing, Magical Hypnosis, Possession",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-   "summary": "Tamara Riley is a shy and unattractive but intelligent teenage girl who likes witchcraft and has a crush on Bill Natolly, her handsome English teacher. When a critical article she writes about the school's athletes is published, two of the star athletes, Shawn and Patrick, want revenge. Tamara attempts to perform a magical ritual to bind her fate to that of her teacher, but when she must spill her own blood, she ceases the ritual. That night, a prank is orchestrated by Shawn and Patrick, along w",
-   "character": "",
-   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-   "note": "",
-   "tags": [
-    "Films Live-Action",
-    "Western Live Action"
-   ],
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-   "format": "movie",
-   "categories": [
-    "spirit"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki: Tamara",
-     "url": "https://mentalblock.miraheze.org/wiki/Tamara"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "fanwiki-screen-oct14"
-   ],
-   "source_records": [
-    "fanwiki-screen-oct14:181"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "fanwiki-screen-oct14:181": {
-     "title": "Tamara",
-     "year": "2005",
-     "subtitle": "",
-     "format": "movie",
-     "standalone": true,
-     "meta": "Film · language not stated",
-     "mechanism": "Brainwashing, Magical Hypnosis, Possession",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-     "summary": "Tamara Riley is a shy and unattractive but intelligent teenage girl who likes witchcraft and has a crush on Bill Natolly, her handsome English teacher. When a critical article she writes about the school's athletes is published, two of the star athletes, Shawn and Patrick, want revenge. Tamara attempts to perform a magical ritual to bind her fate to that of her teacher, but when she must spill her own blood, she ceases the ritual. That night, a prank is orchestrated by Shawn and Patrick, along w",
-     "character": "",
-     "categories": [
-      "spirit"
-     ],
-     "sources": [
-      {
-       "label": "Mental Block wiki: Tamara",
-       "url": "https://mentalblock.miraheze.org/wiki/Tamara"
-      }
-     ],
-     "pregnant_end": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "married": "not stated",
-     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-     "group": "Fan-wiki screen additions (Oct 2026)",
-     "tags": [
-      "Films Live-Action",
-      "Western Live Action"
-     ]
-    }
-   }
-  },
-  {
-   "id": 2858,
+   "id": 2838,
    "title": "Teen Wolf (2011)",
    "subtitle": "Superposition (Season 6, Episode 2) / Memory Found (Season 6, Episode 9)",
    "year": "2011–2017",
    "meta": "TV · English",
    "mechanism": "hypnosis / mind control",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Superposition (Season 6, Episode 2): While Scott, Lydia, and Malia search for lost memories of a missing friend, Corey discovers a connection between his abilities and The Wild Hunt. Memory Found (Season 6, Episode 9): While Liam and Theo act as decoys, Scott, Lydia and Malia enact a desperate plan to try and remember Stiles.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -419274,6 +418532,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Teen Wolf (2011)",
      "url": "https://mentalblock.miraheze.org/wiki/Teen_Wolf_(2011)"
+    },
+    {
+     "label": "Wikipedia: Teen Wolf (2011 TV series)",
+     "url": "https://en.wikipedia.org/wiki/Teen_Wolf_(2011_TV_series)"
     }
    ],
    "youtube_ids": [],
@@ -419281,7 +418543,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:182"
+    "fanwiki-screen-oct14:162"
    ],
    "index_only": false,
    "local_only": true,
@@ -419289,7 +418551,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:182": {
+    "fanwiki-screen-oct14:162": {
      "title": "Teen Wolf (2011)",
      "year": "2011–2017",
      "subtitle": "Superposition (Season 6, Episode 2) / Memory Found (Season 6, Episode 9)",
@@ -419297,7 +418559,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "hypnosis / mind control",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Superposition (Season 6, Episode 2): While Scott, Lydia, and Malia search for lost memories of a missing friend, Corey discovers a connection between his abilities and The Wild Hunt. Memory Found (Season 6, Episode 9): While Liam and Theo act as decoys, Scott, Lydia and Malia enact a desperate plan to try and remember Stiles.",
      "character": "",
      "categories": [
@@ -419307,6 +418569,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Teen Wolf (2011)",
        "url": "https://mentalblock.miraheze.org/wiki/Teen_Wolf_(2011)"
+      },
+      {
+       "label": "Wikipedia: Teen Wolf (2011 TV series)",
+       "url": "https://en.wikipedia.org/wiki/Teen_Wolf_(2011_TV_series)"
       }
      ],
      "pregnant_end": "not stated",
@@ -419323,13 +418589,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2859,
+   "id": 2839,
    "title": "That's So Raven",
    "subtitle": "Wake Up Victor (Season 1, Episode 4)",
    "year": "2003",
    "meta": "TV · English",
    "mechanism": "Comedic Hypnosis, Traditional Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Wake Up Victor (Season 1, Episode 4): Cory and his friend Miles attempt to hypnotize Chelsea and Raven. Instead, they hypnotize Victor. However, Victor was supposed to appear on a prestigious cooking show with impatient host Kelly Bryant. Can Raven and her family save her dad from utter failure before it's too late?",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -419351,6 +418617,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: That's So Raven",
      "url": "https://mentalblock.miraheze.org/wiki/That's_So_Raven"
+    },
+    {
+     "label": "Wikipedia: That's So Raven",
+     "url": "https://en.wikipedia.org/wiki/That's_So_Raven"
     }
    ],
    "youtube_ids": [],
@@ -419358,7 +418628,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:183"
+    "fanwiki-screen-oct14:163"
    ],
    "index_only": false,
    "local_only": true,
@@ -419366,7 +418636,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:183": {
+    "fanwiki-screen-oct14:163": {
      "title": "That's So Raven",
      "year": "2003",
      "subtitle": "Wake Up Victor (Season 1, Episode 4)",
@@ -419374,7 +418644,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Comedic Hypnosis, Traditional Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Wake Up Victor (Season 1, Episode 4): Cory and his friend Miles attempt to hypnotize Chelsea and Raven. Instead, they hypnotize Victor. However, Victor was supposed to appear on a prestigious cooking show with impatient host Kelly Bryant. Can Raven and her family save her dad from utter failure before it's too late?",
      "character": "",
      "categories": [
@@ -419385,6 +418655,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: That's So Raven",
        "url": "https://mentalblock.miraheze.org/wiki/That's_So_Raven"
+      },
+      {
+       "label": "Wikipedia: That's So Raven",
+       "url": "https://en.wikipedia.org/wiki/That's_So_Raven"
       }
      ],
      "pregnant_end": "not stated",
@@ -419401,7 +418675,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2860,
+   "id": 2840,
    "title": "The Adventures of Doctor Fu Manchu",
    "subtitle": "The Prisoner of Doctor Fu Manchu (Season 1, Episode 1)",
    "year": "1956",
@@ -419435,7 +418709,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:184"
+    "fanwiki-screen-oct14:164"
    ],
    "index_only": false,
    "local_only": true,
@@ -419443,7 +418717,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:184": {
+    "fanwiki-screen-oct14:164": {
      "title": "The Adventures of Doctor Fu Manchu",
      "year": "1956",
      "subtitle": "The Prisoner of Doctor Fu Manchu (Season 1, Episode 1)",
@@ -419477,13 +418751,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2861,
+   "id": 2841,
    "title": "The Adventures of Superman",
    "subtitle": "The Secret of Superman (Season 1, Episode 10) / Drums of Death (Season 1, Episode 18) / The Magic Secret (Season 6, Epis",
    "year": "1952–1958",
    "meta": "TV · English",
    "mechanism": "hypnosis / mind control",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "The Secret of Superman (Season 1, Episode 10): Doctor Ort (Peter Brocco) believes that someone at The Daily Planet knows the truth about Superman's secret identity, so he uses a hypnotic trance-inducing truth serum on the newspaper's staff in an attempt to find out who Superman really is. Drums of Death (Season 1, Episode 18): Perry and Clark head to Haiti to rescue Jimmy and Perry's sister Kate (Mabel Albertson) from the voodoo priest they were sent to film. The priest hypnotizes Kate and Jimmy to keep them docile, and makes them believe that the flimsy paper chains around their wrists are ma",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -419504,6 +418778,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: The Adventures of Superman",
      "url": "https://mentalblock.miraheze.org/wiki/The_Adventures_of_Superman"
+    },
+    {
+     "label": "Wikipedia: Adventures of Superman (TV series)",
+     "url": "https://en.wikipedia.org/wiki/Adventures_of_Superman_(TV_series)"
     }
    ],
    "youtube_ids": [],
@@ -419511,7 +418789,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:185"
+    "fanwiki-screen-oct14:165"
    ],
    "index_only": false,
    "local_only": true,
@@ -419519,7 +418797,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:185": {
+    "fanwiki-screen-oct14:165": {
      "title": "The Adventures of Superman",
      "year": "1952–1958",
      "subtitle": "The Secret of Superman (Season 1, Episode 10) / Drums of Death (Season 1, Episode 18) / The Magic Secret (Season 6, Epis",
@@ -419527,7 +418805,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "hypnosis / mind control",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "The Secret of Superman (Season 1, Episode 10): Doctor Ort (Peter Brocco) believes that someone at The Daily Planet knows the truth about Superman's secret identity, so he uses a hypnotic trance-inducing truth serum on the newspaper's staff in an attempt to find out who Superman really is. Drums of Death (Season 1, Episode 18): Perry and Clark head to Haiti to rescue Jimmy and Perry's sister Kate (Mabel Albertson) from the voodoo priest they were sent to film. The priest hypnotizes Kate and Jimmy to keep them docile, and makes them believe that the flimsy paper chains around their wrists are ma",
      "character": "",
      "categories": [
@@ -419537,6 +418815,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: The Adventures of Superman",
        "url": "https://mentalblock.miraheze.org/wiki/The_Adventures_of_Superman"
+      },
+      {
+       "label": "Wikipedia: Adventures of Superman (TV series)",
+       "url": "https://en.wikipedia.org/wiki/Adventures_of_Superman_(TV_series)"
       }
      ],
      "pregnant_end": "not stated",
@@ -419553,7 +418835,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2862,
+   "id": 2842,
    "title": "The Aliens Are Coming",
    "subtitle": "",
    "year": "1980",
@@ -419589,7 +418871,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:186"
+    "fanwiki-screen-oct14:166"
    ],
    "index_only": false,
    "local_only": true,
@@ -419597,7 +418879,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:186": {
+    "fanwiki-screen-oct14:166": {
      "title": "The Aliens Are Coming",
      "year": "1980",
      "subtitle": "",
@@ -419633,7 +418915,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2863,
+   "id": 2843,
    "title": "The Beasts of Terror",
    "subtitle": "",
    "year": "1972",
@@ -419670,7 +418952,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:187"
+    "fanwiki-screen-oct14:167"
    ],
    "index_only": false,
    "local_only": true,
@@ -419678,7 +418960,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:187": {
+    "fanwiki-screen-oct14:167": {
      "title": "The Beasts of Terror",
      "year": "1972",
      "subtitle": "",
@@ -419715,7 +418997,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2864,
+   "id": 2844,
    "title": "The Blacklist",
    "subtitle": "Luther Braxton Conclusion (Season 2, Episode 10)",
    "year": "2013",
@@ -419731,8 +419013,9 @@ window.CATALOG = {
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
+   "married": "yes (married to Tom Keen)",
+   "pregnant_end": "not in this episode; Liz becomes pregnant in season 3",
+   "pregnant_end_note": "Wikipedia: Megan Boone's pregnancy was written into season 3.",
    "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
    "format": "tv",
    "categories": [
@@ -419749,7 +419032,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:188"
+    "fanwiki-screen-oct14:168"
    ],
    "index_only": false,
    "local_only": true,
@@ -419757,7 +419040,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:188": {
+    "fanwiki-screen-oct14:168": {
      "title": "The Blacklist",
      "year": "2013",
      "subtitle": "Luther Braxton Conclusion (Season 2, Episode 10)",
@@ -419777,27 +419060,28 @@ window.CATALOG = {
        "url": "https://mentalblock.miraheze.org/wiki/The_Blacklist"
       }
      ],
-     "pregnant_end": "not stated",
+     "pregnant_end": "not in this episode; Liz becomes pregnant in season 3",
      "kids_status": "not stated",
      "kids_together": "not stated",
-     "married": "not stated",
+     "married": "yes (married to Tom Keen)",
      "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
      "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
      "group": "Fan-wiki screen additions (Oct 2026)",
      "tags": [
       "Western Live Action"
-     ]
+     ],
+     "pregnant_end_note": "Wikipedia: Megan Boone's pregnancy was written into season 3."
     }
    }
   },
   {
-   "id": 2865,
+   "id": 2845,
    "title": "The Champions",
    "subtitle": "Shadow of the Panther (Season 1, Episode 16)",
    "year": "1968–1969",
    "meta": "TV · English",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Shadow of the Panther (Season 1, Episode 16): Sharron (Bastedo) travels to Haiti where an associate has turned up dead- apparently frightened to death. Her investigation takes her to a local resort that is popular with foreign VIPs. Journalist David Crayley (Donald Sutherland) tells Sharron that some of the VIPs have been acting very strangely. Later, Sharron runs until Crayley only to discover that he is acting and talking like a mindless zombie. Sharron attends the resort's magic show, where Dumballa the Magician performs some tricks. Many of the VIPs in the room follow Dumballa after the sh",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -419818,6 +419102,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: The Champions",
      "url": "https://mentalblock.miraheze.org/wiki/The_Champions"
+    },
+    {
+     "label": "Wikipedia: The Champions",
+     "url": "https://en.wikipedia.org/wiki/The_Champions"
     }
    ],
    "youtube_ids": [],
@@ -419825,7 +419113,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:189"
+    "fanwiki-screen-oct14:169"
    ],
    "index_only": false,
    "local_only": true,
@@ -419833,7 +419121,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:189": {
+    "fanwiki-screen-oct14:169": {
      "title": "The Champions",
      "year": "1968–1969",
      "subtitle": "Shadow of the Panther (Season 1, Episode 16)",
@@ -419841,7 +419129,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Shadow of the Panther (Season 1, Episode 16): Sharron (Bastedo) travels to Haiti where an associate has turned up dead- apparently frightened to death. Her investigation takes her to a local resort that is popular with foreign VIPs. Journalist David Crayley (Donald Sutherland) tells Sharron that some of the VIPs have been acting very strangely. Later, Sharron runs until Crayley only to discover that he is acting and talking like a mindless zombie. Sharron attends the resort's magic show, where Dumballa the Magician performs some tricks. Many of the VIPs in the room follow Dumballa after the sh",
      "character": "",
      "categories": [
@@ -419851,6 +419139,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: The Champions",
        "url": "https://mentalblock.miraheze.org/wiki/The_Champions"
+      },
+      {
+       "label": "Wikipedia: The Champions",
+       "url": "https://en.wikipedia.org/wiki/The_Champions"
       }
      ],
      "pregnant_end": "not stated",
@@ -419867,13 +419159,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2866,
+   "id": 2846,
    "title": "The Chronicle",
    "subtitle": "Touched by an Alien (Season 1, Episode 11) / Hell Mall (Season 1, Episode 21)",
    "year": "2001–2002",
    "meta": "TV · English",
    "mechanism": "Magical Hypnosis, Possession",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Touched by an Alien (Season 1, Episode 11): The reporters track a sex-loving, body-hopping alien to a hotel, which is in the middle of hosting a swingers convention. After finding a corpse in a hotel room, Tucker and Wes (Wilson) theorize that the alien called for room service and then jumped into the body of Sandy, the hotel worker who delivered the meal. After finding Sandy and tying her up, she tells them that the hotel has two employees with that name. The second Sandy, possessed by the alien, seduces Grace (Sofer) and takes over her body. She is captured after she returns to the Chronicle Scene: The alien tries attacking the reporters, but is injured Grace, Wes, and Tucker track him to a hotel That is currently full of people looking to hook up The reporters find the man's destroyed body Tucker and Wes capture and tie up an enthusiastic human Sandy Meanwhile, the possessed Sandy approaches Grace Grace is instantly mesmerized Alien Sandy seduces Grace",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -419895,6 +419187,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: The Chronicle",
      "url": "https://mentalblock.miraheze.org/wiki/The_Chronicle"
+    },
+    {
+     "label": "Wikipedia: The Chronicle (TV series)",
+     "url": "https://en.wikipedia.org/wiki/The_Chronicle_(TV_series)"
     }
    ],
    "youtube_ids": [],
@@ -419902,7 +419198,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:190"
+    "fanwiki-screen-oct14:170"
    ],
    "index_only": false,
    "local_only": true,
@@ -419910,7 +419206,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:190": {
+    "fanwiki-screen-oct14:170": {
      "title": "The Chronicle",
      "year": "2001–2002",
      "subtitle": "Touched by an Alien (Season 1, Episode 11) / Hell Mall (Season 1, Episode 21)",
@@ -419918,7 +419214,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Magical Hypnosis, Possession",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Touched by an Alien (Season 1, Episode 11): The reporters track a sex-loving, body-hopping alien to a hotel, which is in the middle of hosting a swingers convention. After finding a corpse in a hotel room, Tucker and Wes (Wilson) theorize that the alien called for room service and then jumped into the body of Sandy, the hotel worker who delivered the meal. After finding Sandy and tying her up, she tells them that the hotel has two employees with that name. The second Sandy, possessed by the alien, seduces Grace (Sofer) and takes over her body. She is captured after she returns to the Chronicle Scene: The alien tries attacking the reporters, but is injured Grace, Wes, and Tucker track him to a hotel That is currently full of people looking to hook up The reporters find the man's destroyed body Tucker and Wes capture and tie up an enthusiastic human Sandy Meanwhile, the possessed Sandy approaches Grace Grace is instantly mesmerized Alien Sandy seduces Grace",
      "character": "",
      "categories": [
@@ -419929,6 +419225,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: The Chronicle",
        "url": "https://mentalblock.miraheze.org/wiki/The_Chronicle"
+      },
+      {
+       "label": "Wikipedia: The Chronicle (TV series)",
+       "url": "https://en.wikipedia.org/wiki/The_Chronicle_(TV_series)"
       }
      ],
      "pregnant_end": "not stated",
@@ -419945,13 +419245,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2867,
+   "id": 2847,
    "title": "The Demon Headmaster (2019)",
    "subtitle": "Everystudentastar (Season 1, Episode 1)",
    "year": "1996",
    "meta": "TV · English",
    "mechanism": "Brainwashing, Technological Hypnosis, Traditional Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "A group of mismatched kids discover their headmaster is using hypnotism to gain ultimate control of their school. Everystudentastar (Season 1, Episode 1): Lizzie and Tyler Warren return to their failing school, Hazelbrook, only to find it's been transformed the table-topping Hazelbrook Academy. How? Under the strict leadership of the mysterious Headmaster and his hypnotic powers. Scene: A hypnotized student from the headmaster's school. Angelica and her mother were are hypnotized by the headmaster. Angelica becomes a brainwashed slave. the Headmaster puts a crowd of protesters in a trance. A woman is mesmerized after receiving an email from the Headmaster. Lizzie falls under the Headmaster's mind control.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -419973,6 +419273,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: The Demon Headmaster (2019)",
      "url": "https://mentalblock.miraheze.org/wiki/The_Demon_Headmaster_(2019)"
+    },
+    {
+     "label": "Wikipedia: The Demon Headmaster (1996 TV series)",
+     "url": "https://en.wikipedia.org/wiki/The_Demon_Headmaster_(1996_TV_series)"
     }
    ],
    "youtube_ids": [],
@@ -419980,7 +419284,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:191"
+    "fanwiki-screen-oct14:171"
    ],
    "index_only": false,
    "local_only": true,
@@ -419988,7 +419292,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:191": {
+    "fanwiki-screen-oct14:171": {
      "title": "The Demon Headmaster (2019)",
      "year": "1996",
      "subtitle": "Everystudentastar (Season 1, Episode 1)",
@@ -419996,7 +419300,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Brainwashing, Technological Hypnosis, Traditional Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "A group of mismatched kids discover their headmaster is using hypnotism to gain ultimate control of their school. Everystudentastar (Season 1, Episode 1): Lizzie and Tyler Warren return to their failing school, Hazelbrook, only to find it's been transformed the table-topping Hazelbrook Academy. How? Under the strict leadership of the mysterious Headmaster and his hypnotic powers. Scene: A hypnotized student from the headmaster's school. Angelica and her mother were are hypnotized by the headmaster. Angelica becomes a brainwashed slave. the Headmaster puts a crowd of protesters in a trance. A woman is mesmerized after receiving an email from the Headmaster. Lizzie falls under the Headmaster's mind control.",
      "character": "",
      "categories": [
@@ -420007,6 +419311,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: The Demon Headmaster (2019)",
        "url": "https://mentalblock.miraheze.org/wiki/The_Demon_Headmaster_(2019)"
+      },
+      {
+       "label": "Wikipedia: The Demon Headmaster (1996 TV series)",
+       "url": "https://en.wikipedia.org/wiki/The_Demon_Headmaster_(1996_TV_series)"
       }
      ],
      "pregnant_end": "not stated",
@@ -420023,7 +419331,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2868,
+   "id": 2848,
    "title": "The Eyes of the Mummy",
    "subtitle": "",
    "year": "1918",
@@ -420058,7 +419366,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:192"
+    "fanwiki-screen-oct14:172"
    ],
    "index_only": false,
    "local_only": true,
@@ -420066,7 +419374,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:192": {
+    "fanwiki-screen-oct14:172": {
      "title": "The Eyes of the Mummy",
      "year": "1918",
      "subtitle": "",
@@ -420101,7 +419409,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2869,
+   "id": 2849,
    "title": "The Fox Spirit and the Golden Seal",
    "subtitle": "",
    "year": "2018",
@@ -420136,7 +419444,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:193"
+    "fanwiki-screen-oct14:173"
    ],
    "index_only": false,
    "local_only": true,
@@ -420144,7 +419452,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:193": {
+    "fanwiki-screen-oct14:173": {
      "title": "The Fox Spirit and the Golden Seal",
      "year": "2018",
      "subtitle": "",
@@ -420179,13 +419487,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2870,
+   "id": 2850,
    "title": "The Fuller Report",
    "subtitle": "",
    "year": "1968",
-   "meta": "Film · French",
+   "meta": "Film · Italian",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Dick Worth (Clark) is an American race car driver who is sent to Sweden on a marketing tour. When he arrives in Stockholm he meets Svetlana Golyadkin (Loncar), a Russian ballerina who has become the talk of the town after deciding to defect to the west. Meanwhile, the talk of the local spy community centers around a document known as The Fuller Report, which describes the details of a mysterious plot that is supposed to create international chaos. Worth is initially mistaken for a spy who knows",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -420207,6 +419515,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: The Fuller Report",
      "url": "https://mentalblock.miraheze.org/wiki/The_Fuller_Report"
+    },
+    {
+     "label": "Wikipedia: The Fuller Report",
+     "url": "https://en.wikipedia.org/wiki/The_Fuller_Report"
     }
    ],
    "youtube_ids": [],
@@ -420214,7 +419526,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:194"
+    "fanwiki-screen-oct14:174"
    ],
    "index_only": false,
    "local_only": true,
@@ -420222,15 +419534,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:194": {
+    "fanwiki-screen-oct14:174": {
      "title": "The Fuller Report",
      "year": "1968",
      "subtitle": "",
      "format": "movie",
      "standalone": true,
-     "meta": "Film · French",
+     "meta": "Film · Italian",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Dick Worth (Clark) is an American race car driver who is sent to Sweden on a marketing tour. When he arrives in Stockholm he meets Svetlana Golyadkin (Loncar), a Russian ballerina who has become the talk of the town after deciding to defect to the west. Meanwhile, the talk of the local spy community centers around a document known as The Fuller Report, which describes the details of a mysterious plot that is supposed to create international chaos. Worth is initially mistaken for a spy who knows",
      "character": "",
      "categories": [
@@ -420240,6 +419552,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: The Fuller Report",
        "url": "https://mentalblock.miraheze.org/wiki/The_Fuller_Report"
+      },
+      {
+       "label": "Wikipedia: The Fuller Report",
+       "url": "https://en.wikipedia.org/wiki/The_Fuller_Report"
       }
      ],
      "pregnant_end": "not stated",
@@ -420257,13 +419573,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2871,
+   "id": 2851,
    "title": "The Heavenly Idol",
    "subtitle": "Episode 5",
    "year": "2023",
-   "meta": "TV · Korean",
+   "meta": "TV · ko, via=Naver, archive-date=May 27, 2023, archive-url=https:",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "an unknown idol, Woo Yeon-woo, was possessed by Rembrary, a trickster god. Episode 5: Woo Sil's voice suddenly doesn't come out when he's onstage, because Rembrary hypnotizes a stagehand into giving him drugged water..Rembrary finds out that Yeon Woo was involved with a religious group. Dating rumors about a member of Wild Animal break out. Scene: A stagehand gives water to Woo Sil. He drinks without suspecting anything. The stage manager is actually under hypnotic control. Discreetly, Rembrary releases her from the hypnotic spell. Woo Sil tries to sing... ... but his voice is gone.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -420284,6 +419600,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: The Heavenly Idol",
      "url": "https://mentalblock.miraheze.org/wiki/The_Heavenly_Idol"
+    },
+    {
+     "label": "Wikipedia: The Heavenly Idol",
+     "url": "https://en.wikipedia.org/wiki/The_Heavenly_Idol"
     }
    ],
    "youtube_ids": [],
@@ -420291,7 +419611,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:195"
+    "fanwiki-screen-oct14:175"
    ],
    "index_only": false,
    "local_only": true,
@@ -420299,15 +419619,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:195": {
+    "fanwiki-screen-oct14:175": {
      "title": "The Heavenly Idol",
      "year": "2023",
      "subtitle": "Episode 5",
      "format": "tv",
      "standalone": true,
-     "meta": "TV · Korean",
+     "meta": "TV · ko, via=Naver, archive-date=May 27, 2023, archive-url=https:",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "an unknown idol, Woo Yeon-woo, was possessed by Rembrary, a trickster god. Episode 5: Woo Sil's voice suddenly doesn't come out when he's onstage, because Rembrary hypnotizes a stagehand into giving him drugged water..Rembrary finds out that Yeon Woo was involved with a religious group. Dating rumors about a member of Wild Animal break out. Scene: A stagehand gives water to Woo Sil. He drinks without suspecting anything. The stage manager is actually under hypnotic control. Discreetly, Rembrary releases her from the hypnotic spell. Woo Sil tries to sing... ... but his voice is gone.",
      "character": "",
      "categories": [
@@ -420317,6 +419637,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: The Heavenly Idol",
        "url": "https://mentalblock.miraheze.org/wiki/The_Heavenly_Idol"
+      },
+      {
+       "label": "Wikipedia: The Heavenly Idol",
+       "url": "https://en.wikipedia.org/wiki/The_Heavenly_Idol"
       }
      ],
      "pregnant_end": "not stated",
@@ -420333,7 +419657,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2872,
+   "id": 2852,
    "title": "The Killing of Satan",
    "subtitle": "",
    "year": "1983",
@@ -420369,7 +419693,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:196"
+    "fanwiki-screen-oct14:176"
    ],
    "index_only": false,
    "local_only": true,
@@ -420377,7 +419701,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:196": {
+    "fanwiki-screen-oct14:176": {
      "title": "The Killing of Satan",
      "year": "1983",
      "subtitle": "",
@@ -420413,13 +419737,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2873,
+   "id": 2853,
    "title": "The King of Fighters",
    "subtitle": "",
    "year": "2010",
    "meta": "Film · English",
    "mechanism": "Brainwashing, Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "The mysterious Rugal Bernstein (Park) steals three Japanese relics from a museum, hoping to use them to awaken an ancient evil known as the Orochi and obtain limitless powers for himself, but one of the relics (the Kusanagi Sword) turns out to be a forgery. He escapes into a dimension that is home to The King of Fighters martial arts tournament, where he issues challenges to other fighters in the hope of killing and eliminating them. CIA agent Mai Shiranui (Q) and her boyfriend Iori (Lee) partne Scene: Vice and Mature travel to the KoF dimension They are surprised by Rugal He taunts them before jumping in to fight Rugal easily defeats both women and prepares to kill Mature He then changes his plans, and kisses Mature The kiss corrupts Mature and turns her evil As Vice looks on helplessly Soon after, an evil Mature stares adoringly at her new master",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -420442,6 +419766,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: The King of Fighters (2010 Film)",
      "url": "https://mentalblock.miraheze.org/wiki/The_King_of_Fighters_(2010_Film)"
+    },
+    {
+     "label": "Wikipedia: The King of Fighters (film)",
+     "url": "https://en.wikipedia.org/wiki/The_King_of_Fighters_(film)"
     }
    ],
    "youtube_ids": [],
@@ -420449,7 +419777,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:197"
+    "fanwiki-screen-oct14:177"
    ],
    "index_only": false,
    "local_only": true,
@@ -420457,7 +419785,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:197": {
+    "fanwiki-screen-oct14:177": {
      "title": "The King of Fighters",
      "year": "2010",
      "subtitle": "",
@@ -420465,7 +419793,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Brainwashing, Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "The mysterious Rugal Bernstein (Park) steals three Japanese relics from a museum, hoping to use them to awaken an ancient evil known as the Orochi and obtain limitless powers for himself, but one of the relics (the Kusanagi Sword) turns out to be a forgery. He escapes into a dimension that is home to The King of Fighters martial arts tournament, where he issues challenges to other fighters in the hope of killing and eliminating them. CIA agent Mai Shiranui (Q) and her boyfriend Iori (Lee) partne Scene: Vice and Mature travel to the KoF dimension They are surprised by Rugal He taunts them before jumping in to fight Rugal easily defeats both women and prepares to kill Mature He then changes his plans, and kisses Mature The kiss corrupts Mature and turns her evil As Vice looks on helplessly Soon after, an evil Mature stares adoringly at her new master",
      "character": "",
      "categories": [
@@ -420476,6 +419804,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: The King of Fighters (2010 Film)",
        "url": "https://mentalblock.miraheze.org/wiki/The_King_of_Fighters_(2010_Film)"
+      },
+      {
+       "label": "Wikipedia: The King of Fighters (film)",
+       "url": "https://en.wikipedia.org/wiki/The_King_of_Fighters_(film)"
       }
      ],
      "pregnant_end": "not stated",
@@ -420493,7 +419825,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2874,
+   "id": 2854,
    "title": "The King of Pub",
    "subtitle": "",
    "year": "2016",
@@ -420528,7 +419860,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:198"
+    "fanwiki-screen-oct14:178"
    ],
    "index_only": false,
    "local_only": true,
@@ -420536,7 +419868,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:198": {
+    "fanwiki-screen-oct14:178": {
      "title": "The King of Pub",
      "year": "2016",
      "subtitle": "",
@@ -420571,13 +419903,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2875,
+   "id": 2855,
    "title": "The Legend Of Hell House",
    "subtitle": "",
    "year": "1973",
-   "meta": "Film · language not stated",
+   "meta": "Film · English",
    "mechanism": "Brainwashing, Possession",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Physicist Dr. Lionel Barrett is enlisted by eccentric millionaire Rudolph Deutsch to undertake an investigation on the afterlife at Belasco House, the \"Mount Everest of haunted houses.\" The house was originally owned by Emeric Belasco, an imposing, perverted millionaire and supposed murderer, who disappeared soon after a massacre occurred at the home. The house is believed to be haunted by the victims of Belasco's twisted and sadistic desires. Accompanying Barrett are his wife, Ann, as well as t Scene: Fischer sees Anne behaving strangely Anne is under the influence of the house Entranced, Anne tries to seduce Fischer mesmerized, Anne invites Fischer to an orgy with everyone in the house. Anne takes off her robe... ...and stands naked in front of Fischer. Fischer slaps Anne in the face to snap her out of the trance Anne wakes up from the trance, shocked and unable to explain her behavior.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -420601,6 +419933,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: The Legend Of Hell House",
      "url": "https://mentalblock.miraheze.org/wiki/The_Legend_Of_Hell_House"
+    },
+    {
+     "label": "Wikipedia: The Legend of Hell House",
+     "url": "https://en.wikipedia.org/wiki/The_Legend_of_Hell_House"
     }
    ],
    "youtube_ids": [],
@@ -420608,7 +419944,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:199"
+    "fanwiki-screen-oct14:179"
    ],
    "index_only": false,
    "local_only": true,
@@ -420616,15 +419952,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:199": {
+    "fanwiki-screen-oct14:179": {
      "title": "The Legend Of Hell House",
      "year": "1973",
      "subtitle": "",
      "format": "movie",
      "standalone": true,
-     "meta": "Film · language not stated",
+     "meta": "Film · English",
      "mechanism": "Brainwashing, Possession",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Physicist Dr. Lionel Barrett is enlisted by eccentric millionaire Rudolph Deutsch to undertake an investigation on the afterlife at Belasco House, the \"Mount Everest of haunted houses.\" The house was originally owned by Emeric Belasco, an imposing, perverted millionaire and supposed murderer, who disappeared soon after a massacre occurred at the home. The house is believed to be haunted by the victims of Belasco's twisted and sadistic desires. Accompanying Barrett are his wife, Ann, as well as t Scene: Fischer sees Anne behaving strangely Anne is under the influence of the house Entranced, Anne tries to seduce Fischer mesmerized, Anne invites Fischer to an orgy with everyone in the house. Anne takes off her robe... ...and stands naked in front of Fischer. Fischer slaps Anne in the face to snap her out of the trance Anne wakes up from the trance, shocked and unable to explain her behavior.",
      "character": "",
      "categories": [
@@ -420636,6 +419972,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: The Legend Of Hell House",
        "url": "https://mentalblock.miraheze.org/wiki/The_Legend_Of_Hell_House"
+      },
+      {
+       "label": "Wikipedia: The Legend of Hell House",
+       "url": "https://en.wikipedia.org/wiki/The_Legend_of_Hell_House"
       }
      ],
      "pregnant_end": "not stated",
@@ -420653,13 +419993,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2876,
+   "id": 2856,
    "title": "The Legend of the 7 Golden Vampires",
    "subtitle": "",
    "year": "1974",
-   "meta": "Film · Mandarin",
+   "meta": "Film · budget         =",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "While lecturing in China, Professor Lawrence Van Helsing agrees to help eight kung fu-trained siblings reclaim their ancestral mountain village, now the domain of seven powerful vampires and their army of undead slaves and brainwashed victims. Scene: Kah uses his hypnotic powers on one of the kidnapped girls. The girl is hypnotized. Mesmerized, she approaches the vampire. The young girl is completely under Kah's control. The vampire is ready to bite his victim. With the pain of the bite, the girl wakes up from her trance and screams in terror.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -420681,6 +420021,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: The Legend of the 7 Golden Vampires",
      "url": "https://mentalblock.miraheze.org/wiki/The_Legend_of_the_7_Golden_Vampires"
+    },
+    {
+     "label": "Wikipedia: The Legend of the 7 Golden Vampires",
+     "url": "https://en.wikipedia.org/wiki/The_Legend_of_the_7_Golden_Vampires"
     }
    ],
    "youtube_ids": [],
@@ -420688,7 +420032,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:200"
+    "fanwiki-screen-oct14:180"
    ],
    "index_only": false,
    "local_only": true,
@@ -420696,15 +420040,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:200": {
+    "fanwiki-screen-oct14:180": {
      "title": "The Legend of the 7 Golden Vampires",
      "year": "1974",
      "subtitle": "",
      "format": "movie",
      "standalone": true,
-     "meta": "Film · Mandarin",
+     "meta": "Film · budget         =",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "While lecturing in China, Professor Lawrence Van Helsing agrees to help eight kung fu-trained siblings reclaim their ancestral mountain village, now the domain of seven powerful vampires and their army of undead slaves and brainwashed victims. Scene: Kah uses his hypnotic powers on one of the kidnapped girls. The girl is hypnotized. Mesmerized, she approaches the vampire. The young girl is completely under Kah's control. The vampire is ready to bite his victim. With the pain of the bite, the girl wakes up from her trance and screams in terror.",
      "character": "",
      "categories": [
@@ -420714,6 +420058,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: The Legend of the 7 Golden Vampires",
        "url": "https://mentalblock.miraheze.org/wiki/The_Legend_of_the_7_Golden_Vampires"
+      },
+      {
+       "label": "Wikipedia: The Legend of the 7 Golden Vampires",
+       "url": "https://en.wikipedia.org/wiki/The_Legend_of_the_7_Golden_Vampires"
       }
      ],
      "pregnant_end": "not stated",
@@ -420731,13 +420079,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2877,
+   "id": 2857,
    "title": "The Librarians: The Next Chapter",
    "subtitle": "And the Deadly Drekavac (Season 1, Episode 1) / And the Dance of Doom (Season 1, Episode 2) / And the Thief of Love (Sea",
    "year": "2025–",
    "meta": "TV · English",
    "mechanism": "Brainwashing, Love Hypnosis, Magical Hypnosis, Possession",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "And the Deadly Drekavac (Season 1, Episode 1): After being trapped in time for 178 years, Vikram arrives in 2025 with the help of Jacob Stone (Christian Kane), the current Librarian. Desperate to return to 1847, Vikram ignores Javob's warning and reopens the Well of Magic. Instead of sending him back in time, the Well unleashes a wave of magic across Serbia. Jacob places Vikram in charge of a Library Annex in Belgrade and gives him six months to clean up the magical mess he has made. The first 'mess' Vikram deals with is the emergence of a Drekavac, a wailing Slovakian supernatural spirit. The Scene: The hypnotized Lysa lures Connor for a trap. Connor finds Lysa mesmerized. Connor is enchanted by the hypno spell. They are under control of the villain. The villain programs their minds. Totally under mind control, they agree to follow the commands.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -420759,6 +420107,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: The Librarians: The Next Chapter",
      "url": "https://mentalblock.miraheze.org/wiki/The_Librarians:_The_Next_Chapter"
+    },
+    {
+     "label": "Wikipedia: The Librarians: The Next Chapter",
+     "url": "https://en.wikipedia.org/wiki/The_Librarians:_The_Next_Chapter"
     }
    ],
    "youtube_ids": [],
@@ -420766,7 +420118,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:201"
+    "fanwiki-screen-oct14:181"
    ],
    "index_only": false,
    "local_only": true,
@@ -420774,7 +420126,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:201": {
+    "fanwiki-screen-oct14:181": {
      "title": "The Librarians: The Next Chapter",
      "year": "2025–",
      "subtitle": "And the Deadly Drekavac (Season 1, Episode 1) / And the Dance of Doom (Season 1, Episode 2) / And the Thief of Love (Sea",
@@ -420782,7 +420134,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Brainwashing, Love Hypnosis, Magical Hypnosis, Possession",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "And the Deadly Drekavac (Season 1, Episode 1): After being trapped in time for 178 years, Vikram arrives in 2025 with the help of Jacob Stone (Christian Kane), the current Librarian. Desperate to return to 1847, Vikram ignores Javob's warning and reopens the Well of Magic. Instead of sending him back in time, the Well unleashes a wave of magic across Serbia. Jacob places Vikram in charge of a Library Annex in Belgrade and gives him six months to clean up the magical mess he has made. The first 'mess' Vikram deals with is the emergence of a Drekavac, a wailing Slovakian supernatural spirit. The Scene: The hypnotized Lysa lures Connor for a trap. Connor finds Lysa mesmerized. Connor is enchanted by the hypno spell. They are under control of the villain. The villain programs their minds. Totally under mind control, they agree to follow the commands.",
      "character": "",
      "categories": [
@@ -420793,6 +420145,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: The Librarians: The Next Chapter",
        "url": "https://mentalblock.miraheze.org/wiki/The_Librarians:_The_Next_Chapter"
+      },
+      {
+       "label": "Wikipedia: The Librarians: The Next Chapter",
+       "url": "https://en.wikipedia.org/wiki/The_Librarians:_The_Next_Chapter"
       }
      ],
      "pregnant_end": "not stated",
@@ -420809,13 +420165,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2878,
+   "id": 2858,
    "title": "The Mentalist",
    "subtitle": "Russet Potatoes (Season 1, Episode 18) / Red Badge (Season 2, Episode 3)",
    "year": "2008–2015",
    "meta": "TV · English",
    "mechanism": "Traditional Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Russet Potatoes (Season 1, Episode 18): Jane and the CBI team try to track down a hypnotist who is making other people commit crimes for him. Red Badge (Season 2, Episode 3): When convicted criminal Bill McTeer (Edward Conna) turns up dead, all signs point to Agent Lisbon (Tunney) as the suspect, including incriminating fingerprints. She can't remember anything about the night of the murder and wonders if she might be the killer. Jane hypnotizes her to recall some memories.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -420837,6 +420193,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: The Mentalist",
      "url": "https://mentalblock.miraheze.org/wiki/The_Mentalist"
+    },
+    {
+     "label": "Wikipedia: The Mentalist",
+     "url": "https://en.wikipedia.org/wiki/The_Mentalist"
     }
    ],
    "youtube_ids": [],
@@ -420844,7 +420204,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:202"
+    "fanwiki-screen-oct14:182"
    ],
    "index_only": false,
    "local_only": true,
@@ -420852,7 +420212,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:202": {
+    "fanwiki-screen-oct14:182": {
      "title": "The Mentalist",
      "year": "2008–2015",
      "subtitle": "Russet Potatoes (Season 1, Episode 18) / Red Badge (Season 2, Episode 3)",
@@ -420860,7 +420220,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Traditional Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Russet Potatoes (Season 1, Episode 18): Jane and the CBI team try to track down a hypnotist who is making other people commit crimes for him. Red Badge (Season 2, Episode 3): When convicted criminal Bill McTeer (Edward Conna) turns up dead, all signs point to Agent Lisbon (Tunney) as the suspect, including incriminating fingerprints. She can't remember anything about the night of the murder and wonders if she might be the killer. Jane hypnotizes her to recall some memories.",
      "character": "",
      "categories": [
@@ -420871,6 +420231,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: The Mentalist",
        "url": "https://mentalblock.miraheze.org/wiki/The_Mentalist"
+      },
+      {
+       "label": "Wikipedia: The Mentalist",
+       "url": "https://en.wikipedia.org/wiki/The_Mentalist"
       }
      ],
      "pregnant_end": "not stated",
@@ -420887,7 +420251,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2879,
+   "id": 2859,
    "title": "The Mississippi Mummy",
    "subtitle": "",
    "year": "2021",
@@ -420922,7 +420286,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:203"
+    "fanwiki-screen-oct14:183"
    ],
    "index_only": false,
    "local_only": true,
@@ -420930,7 +420294,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:203": {
+    "fanwiki-screen-oct14:183": {
      "title": "The Mississippi Mummy",
      "year": "2021",
      "subtitle": "",
@@ -420965,7 +420329,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2880,
+   "id": 2860,
    "title": "The Mummy Resurrected",
    "subtitle": "",
    "year": "2014",
@@ -421000,7 +420364,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:204"
+    "fanwiki-screen-oct14:184"
    ],
    "index_only": false,
    "local_only": true,
@@ -421008,7 +420372,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:204": {
+    "fanwiki-screen-oct14:184": {
      "title": "The Mummy Resurrected",
      "year": "2014",
      "subtitle": "",
@@ -421043,13 +420407,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2881,
+   "id": 2861,
    "title": "The Plague Of The Zombies",
    "subtitle": "",
    "year": "1966",
-   "meta": "Film · language not stated",
+   "meta": "Film · English",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "In a Cornish village in August 1860, the inhabitants of the town are dying from a mysterious plague that seems to be spreading at an accelerated rate. Even the local doctor, Peter Tompson (Brook Williams), cannot combat the disease. Alarmed, Tompson sends for outside help from his friend Sir James Forbes (André Morell). Accompanying Sir James is his daughter Sylvia (Diane Clare). In an attempt to learn more about the disease, Sir James and Dr. Thompson disinter the corpses that were recently bur",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -421071,6 +420435,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: The Plague Of The Zombies",
      "url": "https://mentalblock.miraheze.org/wiki/The_Plague_Of_The_Zombies"
+    },
+    {
+     "label": "Wikipedia: The Plague of the Zombies",
+     "url": "https://en.wikipedia.org/wiki/The_Plague_of_the_Zombies"
     }
    ],
    "youtube_ids": [],
@@ -421078,7 +420446,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:205"
+    "fanwiki-screen-oct14:185"
    ],
    "index_only": false,
    "local_only": true,
@@ -421086,15 +420454,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:205": {
+    "fanwiki-screen-oct14:185": {
      "title": "The Plague Of The Zombies",
      "year": "1966",
      "subtitle": "",
      "format": "movie",
      "standalone": true,
-     "meta": "Film · language not stated",
+     "meta": "Film · English",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "In a Cornish village in August 1860, the inhabitants of the town are dying from a mysterious plague that seems to be spreading at an accelerated rate. Even the local doctor, Peter Tompson (Brook Williams), cannot combat the disease. Alarmed, Tompson sends for outside help from his friend Sir James Forbes (André Morell). Accompanying Sir James is his daughter Sylvia (Diane Clare). In an attempt to learn more about the disease, Sir James and Dr. Thompson disinter the corpses that were recently bur",
      "character": "",
      "categories": [
@@ -421104,6 +420472,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: The Plague Of The Zombies",
        "url": "https://mentalblock.miraheze.org/wiki/The_Plague_Of_The_Zombies"
+      },
+      {
+       "label": "Wikipedia: The Plague of the Zombies",
+       "url": "https://en.wikipedia.org/wiki/The_Plague_of_the_Zombies"
       }
      ],
      "pregnant_end": "not stated",
@@ -421121,13 +420493,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2882,
+   "id": 2862,
    "title": "The Secret Adventures of Jules Verne (2000)",
    "subtitle": "The Eyes of Lazarus (Season 1, Episode 6) / The Victorian Candidate (Season 1, Episode 21)",
    "year": "2000",
    "meta": "TV · English",
    "mechanism": "Brainwashing, Possession",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "The Eyes of Lazarus (Season 1, Episode 6): Passepartout (Courtemanche) conducts a seance to communicate with the spirit of his dead aunt, but instead becomes possessed by Lazarus, an anarchist who died at the hands of Phineas Fogg (Praed). Lazarus intends to use Passepartout to kill Fogg, but he is committed to a mental institution. When Rebecca (Hunt) visits Passepartout in his cell, she foolishly places herself in a position that allows Lazarus to possess her. It's up to Verne and Fogg (and Passepartout's dead aunt) to save Rebecca and stop Lazarus. The Victorian Candidate (Season 1, Episode",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -421150,6 +420522,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: The Secret Adventures of Jules Verne (2000)",
      "url": "https://mentalblock.miraheze.org/wiki/The_Secret_Adventures_of_Jules_Verne_(2000)"
+    },
+    {
+     "label": "Wikipedia: The Secret Adventures of Jules Verne",
+     "url": "https://en.wikipedia.org/wiki/The_Secret_Adventures_of_Jules_Verne"
     }
    ],
    "youtube_ids": [],
@@ -421157,7 +420533,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:206"
+    "fanwiki-screen-oct14:186"
    ],
    "index_only": false,
    "local_only": true,
@@ -421165,7 +420541,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:206": {
+    "fanwiki-screen-oct14:186": {
      "title": "The Secret Adventures of Jules Verne (2000)",
      "year": "2000",
      "subtitle": "The Eyes of Lazarus (Season 1, Episode 6) / The Victorian Candidate (Season 1, Episode 21)",
@@ -421173,7 +420549,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Brainwashing, Possession",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "The Eyes of Lazarus (Season 1, Episode 6): Passepartout (Courtemanche) conducts a seance to communicate with the spirit of his dead aunt, but instead becomes possessed by Lazarus, an anarchist who died at the hands of Phineas Fogg (Praed). Lazarus intends to use Passepartout to kill Fogg, but he is committed to a mental institution. When Rebecca (Hunt) visits Passepartout in his cell, she foolishly places herself in a position that allows Lazarus to possess her. It's up to Verne and Fogg (and Passepartout's dead aunt) to save Rebecca and stop Lazarus. The Victorian Candidate (Season 1, Episode",
      "character": "",
      "categories": [
@@ -421185,6 +420561,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: The Secret Adventures of Jules Verne (2000)",
        "url": "https://mentalblock.miraheze.org/wiki/The_Secret_Adventures_of_Jules_Verne_(2000)"
+      },
+      {
+       "label": "Wikipedia: The Secret Adventures of Jules Verne",
+       "url": "https://en.wikipedia.org/wiki/The_Secret_Adventures_of_Jules_Verne"
       }
      ],
      "pregnant_end": "not stated",
@@ -421201,13 +420581,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2883,
+   "id": 2863,
    "title": "The Suicide Squad",
    "subtitle": "",
    "year": "2021",
-   "meta": "Film · English",
+   "meta": "Film · EnglishSpanish",
    "mechanism": "Possession",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "The Suicide Squad is a secret task force consisting of convicted supervillains housed in the Belle Rive penitentiary. Intelligence officer Amanda Waller gathers the inmates for a new mission, for which they will receive shortened prison sentences: infiltrate and destroy a laboratory on the island nation of Corto Maltese before the island's new anti-American regime can weaponize Project Starfish. With the help of rebellion leader Sol Soria, the Squad members capture The Thinker, who is the lead s Scene: Starro is unleashed Starro release it's spawn. The army of Corto Maltese is controlled by Starro. Starro hypnotized the army of Corto Maltese The spawns of Starro attacks the people of Corto Maltese Harley Quinn stabs starro in the eye. Devoured from the inside by rats that entered through the wound made by Harley Quinn, Starro collapses. Starro's victims collapse along with him.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -421230,6 +420610,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: The Suicide Squad",
      "url": "https://mentalblock.miraheze.org/wiki/The_Suicide_Squad"
+    },
+    {
+     "label": "Wikipedia: The Suicide Squad (film)",
+     "url": "https://en.wikipedia.org/wiki/The_Suicide_Squad_(film)"
     }
    ],
    "youtube_ids": [],
@@ -421237,7 +420621,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:207"
+    "fanwiki-screen-oct14:187"
    ],
    "index_only": false,
    "local_only": true,
@@ -421245,15 +420629,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:207": {
+    "fanwiki-screen-oct14:187": {
      "title": "The Suicide Squad",
      "year": "2021",
      "subtitle": "",
      "format": "movie",
      "standalone": true,
-     "meta": "Film · English",
+     "meta": "Film · EnglishSpanish",
      "mechanism": "Possession",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "The Suicide Squad is a secret task force consisting of convicted supervillains housed in the Belle Rive penitentiary. Intelligence officer Amanda Waller gathers the inmates for a new mission, for which they will receive shortened prison sentences: infiltrate and destroy a laboratory on the island nation of Corto Maltese before the island's new anti-American regime can weaponize Project Starfish. With the help of rebellion leader Sol Soria, the Squad members capture The Thinker, who is the lead s Scene: Starro is unleashed Starro release it's spawn. The army of Corto Maltese is controlled by Starro. Starro hypnotized the army of Corto Maltese The spawns of Starro attacks the people of Corto Maltese Harley Quinn stabs starro in the eye. Devoured from the inside by rats that entered through the wound made by Harley Quinn, Starro collapses. Starro's victims collapse along with him.",
      "character": "",
      "categories": [
@@ -421264,6 +420648,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: The Suicide Squad",
        "url": "https://mentalblock.miraheze.org/wiki/The_Suicide_Squad"
+      },
+      {
+       "label": "Wikipedia: The Suicide Squad (film)",
+       "url": "https://en.wikipedia.org/wiki/The_Suicide_Squad_(film)"
       }
      ],
      "pregnant_end": "not stated",
@@ -421281,13 +420669,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2884,
+   "id": 2864,
    "title": "The Suite Life of Zack & Cody",
    "subtitle": "Super Twins (Season 3, Episode 4)",
    "year": "2005–2008",
    "meta": "TV · English",
    "mechanism": "Comedic Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Super Twins (Season 3, Episode 4): Zack and Cody gain superpowers after they make a wish, and become superheroes. Mr. Moseby also gains superpowers, and becomes a supervillain called \"The Mean-ager.\" Moseby's powers include mind control, which he uses on Carey when she asks him for a raise (under his influence, she instead agrees to take a pay cut). Moseby plots to turn all kids into adults using a diamond-powered 'Adultifier,' which relies on diamonds supplied by a hypnotized London. Zack and Cody manage to turn the tables on the new super-nemesis and use the Adultifier to turn Mr. Moseby int Scene:",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -421308,6 +420696,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: The Suite Life of Zack & Cody",
      "url": "https://mentalblock.miraheze.org/wiki/The_Suite_Life_of_Zack_&_Cody"
+    },
+    {
+     "label": "Wikipedia: The Suite Life of Zack & Cody",
+     "url": "https://en.wikipedia.org/wiki/The_Suite_Life_of_Zack_&_Cody"
     }
    ],
    "youtube_ids": [],
@@ -421315,7 +420707,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:208"
+    "fanwiki-screen-oct14:188"
    ],
    "index_only": false,
    "local_only": true,
@@ -421323,7 +420715,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:208": {
+    "fanwiki-screen-oct14:188": {
      "title": "The Suite Life of Zack & Cody",
      "year": "2005–2008",
      "subtitle": "Super Twins (Season 3, Episode 4)",
@@ -421331,7 +420723,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Comedic Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Super Twins (Season 3, Episode 4): Zack and Cody gain superpowers after they make a wish, and become superheroes. Mr. Moseby also gains superpowers, and becomes a supervillain called \"The Mean-ager.\" Moseby's powers include mind control, which he uses on Carey when she asks him for a raise (under his influence, she instead agrees to take a pay cut). Moseby plots to turn all kids into adults using a diamond-powered 'Adultifier,' which relies on diamonds supplied by a hypnotized London. Zack and Cody manage to turn the tables on the new super-nemesis and use the Adultifier to turn Mr. Moseby int Scene:",
      "character": "",
      "categories": [
@@ -421341,6 +420733,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: The Suite Life of Zack & Cody",
        "url": "https://mentalblock.miraheze.org/wiki/The_Suite_Life_of_Zack_&_Cody"
+      },
+      {
+       "label": "Wikipedia: The Suite Life of Zack & Cody",
+       "url": "https://en.wikipedia.org/wiki/The_Suite_Life_of_Zack_&_Cody"
       }
      ],
      "pregnant_end": "not stated",
@@ -421357,7 +420753,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2885,
+   "id": 2865,
    "title": "The Ultimate Ranger",
    "subtitle": "Episode 38",
    "year": "2016",
@@ -421391,7 +420787,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:209"
+    "fanwiki-screen-oct14:189"
    ],
    "index_only": false,
    "local_only": true,
@@ -421399,7 +420795,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:209": {
+    "fanwiki-screen-oct14:189": {
      "title": "The Ultimate Ranger",
      "year": "2016",
      "subtitle": "Episode 38",
@@ -421433,13 +420829,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2886,
+   "id": 2866,
    "title": "The Wheel of Time",
    "subtitle": "The Shadow In The Night (Season 3, Episode 6)",
    "year": "2021",
-   "meta": "TV · language not stated",
+   "meta": "TV · English",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "The lives of five villagers change forever when a strange and powerful woman arrives, claiming one of them is the child of an ancient prophecy with the power to tip the balance between Light and Dark forever. The Shadow In The Night (Season 3, Episode 6): Two women falls under the mind control's spell of a witch, and are interrogated. Scene: Nynaeve and Elayne are put under a hypnotic spell. They fall into a trance. Under the witch's control, the women get up. Moghedian interrogates the women. brainwashed, they tell everything the witch wants to known. She is completely under Moghedian's control",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -421460,6 +420856,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: The Wheel of Time",
      "url": "https://mentalblock.miraheze.org/wiki/The_Wheel_of_Time"
+    },
+    {
+     "label": "Wikipedia: The Wheel of Time (TV series)",
+     "url": "https://en.wikipedia.org/wiki/The_Wheel_of_Time_(TV_series)"
     }
    ],
    "youtube_ids": [],
@@ -421467,7 +420867,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:210"
+    "fanwiki-screen-oct14:190"
    ],
    "index_only": false,
    "local_only": true,
@@ -421475,15 +420875,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:210": {
+    "fanwiki-screen-oct14:190": {
      "title": "The Wheel of Time",
      "year": "2021",
      "subtitle": "The Shadow In The Night (Season 3, Episode 6)",
      "format": "tv",
      "standalone": true,
-     "meta": "TV · language not stated",
+     "meta": "TV · English",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "The lives of five villagers change forever when a strange and powerful woman arrives, claiming one of them is the child of an ancient prophecy with the power to tip the balance between Light and Dark forever. The Shadow In The Night (Season 3, Episode 6): Two women falls under the mind control's spell of a witch, and are interrogated. Scene: Nynaeve and Elayne are put under a hypnotic spell. They fall into a trance. Under the witch's control, the women get up. Moghedian interrogates the women. brainwashed, they tell everything the witch wants to known. She is completely under Moghedian's control",
      "character": "",
      "categories": [
@@ -421493,6 +420893,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: The Wheel of Time",
        "url": "https://mentalblock.miraheze.org/wiki/The_Wheel_of_Time"
+      },
+      {
+       "label": "Wikipedia: The Wheel of Time (TV series)",
+       "url": "https://en.wikipedia.org/wiki/The_Wheel_of_Time_(TV_series)"
       }
      ],
      "pregnant_end": "not stated",
@@ -421509,13 +420913,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2887,
+   "id": 2867,
    "title": "The Wild Wild West",
    "subtitle": "Night of the Steel Assassin (Season 1, Episode 16) / The Night of the Tartar (Season 2, Episode 19) / Night of the Wolf ",
    "year": "1965–1969",
    "meta": "TV · English",
    "mechanism": "Brainwashing, Chemical Hypnosis, Traditional Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Night of the Steel Assassin (Season 1, Episode 16): Torres (John Denher), a Civil War veteran who was left for dead by his comrades, is rebuilt as a crude \"bionic man\" and uses his new enhanced abilities to seek murderous revenge. West and Gordon accompany President Grant on a trip to Mexico, unaware that Torres has set his sights on the man he believes is most responsible for his predicament- the former Union Army general Ulysses Grant! Nina (Sue Anne Langdon), the daughter of murdered soldier RL Gilbert, confronts Torres, only to be promptly hypnotized and turned into a bubbly, airheaded sal Scene: Gordon shows the girls the hypnotic globe. The girls falls into a trance. Gordon and West implant the hypnotic suggestion that they go on a fancy, expensive date. Hypnotized, the girls smile, satisfied with the encounter. Talamantes hypnotizes Leandra. Leandra falls into a trance. James West points a gun at the villain without knowing that Leandra is hypnotized. Under mind control, Leandra knocks West out.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -421539,6 +420943,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: The Wild Wild West",
      "url": "https://mentalblock.miraheze.org/wiki/The_Wild_Wild_West"
+    },
+    {
+     "label": "Wikipedia: The Wild Wild West",
+     "url": "https://en.wikipedia.org/wiki/The_Wild_Wild_West"
     }
    ],
    "youtube_ids": [],
@@ -421546,7 +420954,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:211"
+    "fanwiki-screen-oct14:191"
    ],
    "index_only": false,
    "local_only": true,
@@ -421554,7 +420962,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:211": {
+    "fanwiki-screen-oct14:191": {
      "title": "The Wild Wild West",
      "year": "1965–1969",
      "subtitle": "Night of the Steel Assassin (Season 1, Episode 16) / The Night of the Tartar (Season 2, Episode 19) / Night of the Wolf ",
@@ -421562,7 +420970,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Brainwashing, Chemical Hypnosis, Traditional Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Night of the Steel Assassin (Season 1, Episode 16): Torres (John Denher), a Civil War veteran who was left for dead by his comrades, is rebuilt as a crude \"bionic man\" and uses his new enhanced abilities to seek murderous revenge. West and Gordon accompany President Grant on a trip to Mexico, unaware that Torres has set his sights on the man he believes is most responsible for his predicament- the former Union Army general Ulysses Grant! Nina (Sue Anne Langdon), the daughter of murdered soldier RL Gilbert, confronts Torres, only to be promptly hypnotized and turned into a bubbly, airheaded sal Scene: Gordon shows the girls the hypnotic globe. The girls falls into a trance. Gordon and West implant the hypnotic suggestion that they go on a fancy, expensive date. Hypnotized, the girls smile, satisfied with the encounter. Talamantes hypnotizes Leandra. Leandra falls into a trance. James West points a gun at the villain without knowing that Leandra is hypnotized. Under mind control, Leandra knocks West out.",
      "character": "",
      "categories": [
@@ -421575,6 +420983,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: The Wild Wild West",
        "url": "https://mentalblock.miraheze.org/wiki/The_Wild_Wild_West"
+      },
+      {
+       "label": "Wikipedia: The Wild Wild West",
+       "url": "https://en.wikipedia.org/wiki/The_Wild_Wild_West"
       }
      ],
      "pregnant_end": "not stated",
@@ -421591,13 +421003,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2888,
+   "id": 2868,
    "title": "The Witches (1966)",
    "subtitle": "",
    "year": "1966",
-   "meta": "Film · language not stated",
+   "meta": "Film · English",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "After being threatened by witchcraft in Africa, Christian missionary Gwen Mayfield has a nervous breakdown and returns to England. She is invited to teach in a private school owned by the wealthy Alan Bax and his sister Stephanie Bax in the village of Heddaby. After a time in the place, she witnesses weird events with locals, and she realizes that the place is indeed a coven and her student Linda Rigg is being prepared for a sacrifice with a hypnotic voodoo spell. Scene: Gwen finds the mesmerized Linda in Stephanie's lair. Gwen tries to talk to her... ... but she is in a deep trance. Hypnotized, the girl obeys the witch's orders and follows her. Under mind control, the cultists dance. Stephanie reinforces her hypnotic spell on Linda. Under Stephanie's hypnotic spell, Linda starts to dance. Stephanie's followers worship the mesmerized Linda as the sacrifice.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -421619,6 +421031,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: The Witches (1966)",
      "url": "https://mentalblock.miraheze.org/wiki/The_Witches_(1966)"
+    },
+    {
+     "label": "Wikipedia: The Witches (1966 film)",
+     "url": "https://en.wikipedia.org/wiki/The_Witches_(1966_film)"
     }
    ],
    "youtube_ids": [],
@@ -421626,7 +421042,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:212"
+    "fanwiki-screen-oct14:192"
    ],
    "index_only": false,
    "local_only": true,
@@ -421634,15 +421050,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:212": {
+    "fanwiki-screen-oct14:192": {
      "title": "The Witches (1966)",
      "year": "1966",
      "subtitle": "",
      "format": "movie",
      "standalone": true,
-     "meta": "Film · language not stated",
+     "meta": "Film · English",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "After being threatened by witchcraft in Africa, Christian missionary Gwen Mayfield has a nervous breakdown and returns to England. She is invited to teach in a private school owned by the wealthy Alan Bax and his sister Stephanie Bax in the village of Heddaby. After a time in the place, she witnesses weird events with locals, and she realizes that the place is indeed a coven and her student Linda Rigg is being prepared for a sacrifice with a hypnotic voodoo spell. Scene: Gwen finds the mesmerized Linda in Stephanie's lair. Gwen tries to talk to her... ... but she is in a deep trance. Hypnotized, the girl obeys the witch's orders and follows her. Under mind control, the cultists dance. Stephanie reinforces her hypnotic spell on Linda. Under Stephanie's hypnotic spell, Linda starts to dance. Stephanie's followers worship the mesmerized Linda as the sacrifice.",
      "character": "",
      "categories": [
@@ -421652,6 +421068,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: The Witches (1966)",
        "url": "https://mentalblock.miraheze.org/wiki/The_Witches_(1966)"
+      },
+      {
+       "label": "Wikipedia: The Witches (1966 film)",
+       "url": "https://en.wikipedia.org/wiki/The_Witches_(1966_film)"
       }
      ],
      "pregnant_end": "not stated",
@@ -421669,7 +421089,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2889,
+   "id": 2869,
    "title": "Titans",
    "subtitle": "1x11- Dick Grayson / 2x01- Trigon / 2x11- \"E.L._.O / 2x12- Faux Hawk / 2x13- Nightwing",
    "year": "2014",
@@ -421704,7 +421124,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:213"
+    "fanwiki-screen-oct14:193"
    ],
    "index_only": false,
    "local_only": true,
@@ -421712,7 +421132,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:213": {
+    "fanwiki-screen-oct14:193": {
      "title": "Titans",
      "year": "2014",
      "subtitle": "1x11- Dick Grayson / 2x01- Trigon / 2x11- \"E.L._.O / 2x12- Faux Hawk / 2x13- Nightwing",
@@ -421747,13 +421167,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2890,
+   "id": 2870,
    "title": "Tragic Ceremony",
    "subtitle": "",
    "year": "1972",
-   "meta": "Film · Italian",
+   "meta": "Film · budget         =",
    "mechanism": "Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Four young people are enjoying the easy life, cruising on a yacht in the sun. Returning to land their car runs out of fuel and they find themselves outside a large manor belonging to Lord and Lady Alexander. Hoping to find fuel they are invited in to stay the night and shelter from a heavy storm. The three men are put up in the servant's quarters while Jane gets a room in the house. Hearing a strange noise she is put into a trance and heads down stairs, finding the Alexanders performing a black  Scene: Jane falls under the spell of the cult. Hypnotized, the young woman stands up and picks up a chandelier. In a trance, she walks through the mansion. Jane is completely under the control of the cult. Under the influence of the hypnotic spell, Jane allows herself to be placed on the sacrificial altar. Jane's friends save her from being sacrificed.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -421776,6 +421196,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Tragic Ceremony",
      "url": "https://mentalblock.miraheze.org/wiki/Tragic_Ceremony"
+    },
+    {
+     "label": "Wikipedia: Tragic Ceremony",
+     "url": "https://en.wikipedia.org/wiki/Tragic_Ceremony"
     }
    ],
    "youtube_ids": [],
@@ -421783,7 +421207,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:214"
+    "fanwiki-screen-oct14:194"
    ],
    "index_only": false,
    "local_only": true,
@@ -421791,15 +421215,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:214": {
+    "fanwiki-screen-oct14:194": {
      "title": "Tragic Ceremony",
      "year": "1972",
      "subtitle": "",
      "format": "movie",
      "standalone": true,
-     "meta": "Film · Italian",
+     "meta": "Film · budget         =",
      "mechanism": "Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Four young people are enjoying the easy life, cruising on a yacht in the sun. Returning to land their car runs out of fuel and they find themselves outside a large manor belonging to Lord and Lady Alexander. Hoping to find fuel they are invited in to stay the night and shelter from a heavy storm. The three men are put up in the servant's quarters while Jane gets a room in the house. Hearing a strange noise she is put into a trance and heads down stairs, finding the Alexanders performing a black  Scene: Jane falls under the spell of the cult. Hypnotized, the young woman stands up and picks up a chandelier. In a trance, she walks through the mansion. Jane is completely under the control of the cult. Under the influence of the hypnotic spell, Jane allows herself to be placed on the sacrificial altar. Jane's friends save her from being sacrificed.",
      "character": "",
      "categories": [
@@ -421810,6 +421234,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Tragic Ceremony",
        "url": "https://mentalblock.miraheze.org/wiki/Tragic_Ceremony"
+      },
+      {
+       "label": "Wikipedia: Tragic Ceremony",
+       "url": "https://en.wikipedia.org/wiki/Tragic_Ceremony"
       }
      ],
      "pregnant_end": "not stated",
@@ -421827,13 +421255,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2891,
+   "id": 2871,
    "title": "Turbo: A Power Rangers Movie",
    "subtitle": "",
    "year": "1997",
    "meta": "Film · English",
    "mechanism": "Brainwashing, Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "On the planet Liaria, a wizard named Lerigot is being hunted down by Divatox; an intergalactic space pirate, who is seeking his golden key to traverse an inter-dimensional gateway and enter into matrimony with Maligore, an imprisoned demon who promises her great riches and power. Lerigot escapes Divatox's forces and travels to Earth in search of Zordon and his friend Alpha 5, but arrives in Africa by accident. Weakened by the sun's ultraviolet rays, Lerigot meets a pack of chimpanzees and wander",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -421855,6 +421283,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Turbo: A Power Rangers Movie",
      "url": "https://mentalblock.miraheze.org/wiki/Turbo:_A_Power_Rangers_Movie"
+    },
+    {
+     "label": "Wikipedia: Turbo: A Power Rangers Movie",
+     "url": "https://en.wikipedia.org/wiki/Turbo:_A_Power_Rangers_Movie"
     }
    ],
    "youtube_ids": [],
@@ -421862,7 +421294,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:215"
+    "fanwiki-screen-oct14:195"
    ],
    "index_only": false,
    "local_only": true,
@@ -421870,7 +421302,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:215": {
+    "fanwiki-screen-oct14:195": {
      "title": "Turbo: A Power Rangers Movie",
      "year": "1997",
      "subtitle": "",
@@ -421878,7 +421310,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Brainwashing, Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "On the planet Liaria, a wizard named Lerigot is being hunted down by Divatox; an intergalactic space pirate, who is seeking his golden key to traverse an inter-dimensional gateway and enter into matrimony with Maligore, an imprisoned demon who promises her great riches and power. Lerigot escapes Divatox's forces and travels to Earth in search of Zordon and his friend Alpha 5, but arrives in Africa by accident. Weakened by the sun's ultraviolet rays, Lerigot meets a pack of chimpanzees and wander",
      "character": "",
      "categories": [
@@ -421888,6 +421320,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Turbo: A Power Rangers Movie",
        "url": "https://mentalblock.miraheze.org/wiki/Turbo:_A_Power_Rangers_Movie"
+      },
+      {
+       "label": "Wikipedia: Turbo: A Power Rangers Movie",
+       "url": "https://en.wikipedia.org/wiki/Turbo:_A_Power_Rangers_Movie"
       }
      ],
      "pregnant_end": "not stated",
@@ -421905,7 +421341,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2892,
+   "id": 2872,
    "title": "Unlucky Charms",
    "subtitle": "",
    "year": "2013",
@@ -421940,7 +421376,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:216"
+    "fanwiki-screen-oct14:196"
    ],
    "index_only": false,
    "local_only": true,
@@ -421948,7 +421384,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:216": {
+    "fanwiki-screen-oct14:196": {
      "title": "Unlucky Charms",
      "year": "2013",
      "subtitle": "",
@@ -421983,13 +421419,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2893,
+   "id": 2873,
    "title": "Upstream Color",
    "subtitle": "",
    "year": "2013",
    "meta": "Film · English",
    "mechanism": "Chemical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium-high · Wikipedia plot confirms drugged hypnotic state",
    "summary": "Kris (Seimetz), a young professional, is tasered by The Thief (Martins) as she leaves a club. The Thief forces her to ingest a strange grub that places her into a hypnotic state and very open to suggestion. For the next few days, The Thief uses his hold on Kris to have her sign away all of her assets, collect all of her cash and valuable belongings from local banks, and take out large personal loans (giving him the money). Knowing that the grub's influence will expire soon, The Thief leaves. Kri",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -422001,7 +421437,8 @@ window.CATALOG = {
    "kids_status": "not stated",
    "kids_together": "not stated",
    "married": "not stated",
-   "pregnant_end": "not stated",
+   "pregnant_end": "no (Kris mistakenly believes she is pregnant)",
+   "pregnant_end_note": "Wikipedia plot: Kris mistakenly believes herself to be pregnant.",
    "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
    "format": "movie",
    "categories": [
@@ -422012,6 +421449,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Upstream Color",
      "url": "https://mentalblock.miraheze.org/wiki/Upstream_Color"
+    },
+    {
+     "label": "Wikipedia: Upstream Color",
+     "url": "https://en.wikipedia.org/wiki/Upstream_Color"
     }
    ],
    "youtube_ids": [],
@@ -422019,7 +421460,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:217"
+    "fanwiki-screen-oct14:197"
    ],
    "index_only": false,
    "local_only": true,
@@ -422027,7 +421468,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:217": {
+    "fanwiki-screen-oct14:197": {
      "title": "Upstream Color",
      "year": "2013",
      "subtitle": "",
@@ -422035,7 +421476,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Chemical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium-high · Wikipedia plot confirms drugged hypnotic state",
      "summary": "Kris (Seimetz), a young professional, is tasered by The Thief (Martins) as she leaves a club. The Thief forces her to ingest a strange grub that places her into a hypnotic state and very open to suggestion. For the next few days, The Thief uses his hold on Kris to have her sign away all of her assets, collect all of her cash and valuable belongings from local banks, and take out large personal loans (giving him the money). Knowing that the grub's influence will expire soon, The Thief leaves. Kri",
      "character": "",
      "categories": [
@@ -422046,9 +421487,13 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Upstream Color",
        "url": "https://mentalblock.miraheze.org/wiki/Upstream_Color"
+      },
+      {
+       "label": "Wikipedia: Upstream Color",
+       "url": "https://en.wikipedia.org/wiki/Upstream_Color"
       }
      ],
-     "pregnant_end": "not stated",
+     "pregnant_end": "no (Kris mistakenly believes she is pregnant)",
      "kids_status": "not stated",
      "kids_together": "not stated",
      "married": "not stated",
@@ -422058,88 +421503,13 @@ window.CATALOG = {
      "tags": [
       "Films Live-Action",
       "Western Live Action"
-     ]
+     ],
+     "pregnant_end_note": "Wikipedia plot: Kris mistakenly believes herself to be pregnant."
     }
    }
   },
   {
-   "id": 2894,
-   "title": "VR Troopers (1994)",
-   "subtitle": "Grimlord's Greatest Hits (Season 1, Episode 23) / The Transmutant (Season 1, Episode 42) / The Old Switcheroo (Season 1,",
-   "year": "1994–1996",
-   "meta": "TV · Japanese",
-   "mechanism": "Brainwashing, Love Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-   "summary": "Grimlord's Greatest Hits (Season 1, Episode 23): The teens are going to put on a dance-a-thon so that a student of theirs, Brandon, can afford to go to a special music academy. Grimlord decides to hypnotize everyone so that he can defeat the Troopers and plays his evil music for everyone, causing them to become zombies. Grimlord's plan goes awry as J.B. and Brandon are not hypnotized. Grimlord then kidnaps Brandon. The Troopers must infiltrate Grimlord's disk plant, rescue Brandon, and fight the evil Diskbot. The Transmutant (Season 1, Episode 42): J.B. spars with Ryan in an effort to relax be",
-   "character": "",
-   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-   "note": "",
-   "tags": [
-    "Western Live Action"
-   ],
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-   "format": "tv",
-   "categories": [
-    "love"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki: VR Troopers (1994)",
-     "url": "https://mentalblock.miraheze.org/wiki/VR_Troopers_(1994)"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "fanwiki-screen-oct14"
-   ],
-   "source_records": [
-    "fanwiki-screen-oct14:218"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "fanwiki-screen-oct14:218": {
-     "title": "VR Troopers (1994)",
-     "year": "1994–1996",
-     "subtitle": "Grimlord's Greatest Hits (Season 1, Episode 23) / The Transmutant (Season 1, Episode 42) / The Old Switcheroo (Season 1,",
-     "format": "tv",
-     "standalone": true,
-     "meta": "TV · Japanese",
-     "mechanism": "Brainwashing, Love Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-     "summary": "Grimlord's Greatest Hits (Season 1, Episode 23): The teens are going to put on a dance-a-thon so that a student of theirs, Brandon, can afford to go to a special music academy. Grimlord decides to hypnotize everyone so that he can defeat the Troopers and plays his evil music for everyone, causing them to become zombies. Grimlord's plan goes awry as J.B. and Brandon are not hypnotized. Grimlord then kidnaps Brandon. The Troopers must infiltrate Grimlord's disk plant, rescue Brandon, and fight the evil Diskbot. The Transmutant (Season 1, Episode 42): J.B. spars with Ryan in an effort to relax be",
-     "character": "",
-     "categories": [
-      "love"
-     ],
-     "sources": [
-      {
-       "label": "Mental Block wiki: VR Troopers (1994)",
-       "url": "https://mentalblock.miraheze.org/wiki/VR_Troopers_(1994)"
-      }
-     ],
-     "pregnant_end": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "married": "not stated",
-     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-     "group": "Fan-wiki screen additions (Oct 2026)",
-     "tags": [
-      "Western Live Action"
-     ]
-    }
-   }
-  },
-  {
-   "id": 2895,
+   "id": 2874,
    "title": "Vampire High",
    "subtitle": "There's a New Vampire in Town (Season 1, Episode 2)",
    "year": "2001–2002",
@@ -422173,7 +421543,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:219"
+    "fanwiki-screen-oct14:198"
    ],
    "index_only": false,
    "local_only": true,
@@ -422181,7 +421551,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:219": {
+    "fanwiki-screen-oct14:198": {
      "title": "Vampire High",
      "year": "2001–2002",
      "subtitle": "There's a New Vampire in Town (Season 1, Episode 2)",
@@ -422215,13 +421585,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2896,
+   "id": 2875,
    "title": "Vampirina: Teenage Vampire",
    "subtitle": "First Day of School (Season 1, Episode 2)",
    "year": "2025",
    "meta": "TV · English",
    "mechanism": "Brainwashing, Hypnotic Eyes",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "A teenager vampire girl attends performing arts school, hiding her identity. Her Overprotective father assigns ghostly guardian to watch over her as she pursues her love for music. First Day of School (Season 1, Episode 2): Vee hypnotizes the teacher into becoming her biggest fan, but things get a little out of control. Scene: Vee uses her hypnotic gaze. The teacher is hypnotized.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -422242,6 +421612,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Vampirina: Teenage Vampire",
      "url": "https://mentalblock.miraheze.org/wiki/Vampirina:_Teenage_Vampire"
+    },
+    {
+     "label": "Wikipedia: Vampirina: Teenage Vampire",
+     "url": "https://en.wikipedia.org/wiki/Vampirina:_Teenage_Vampire"
     }
    ],
    "youtube_ids": [],
@@ -422249,7 +421623,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:220"
+    "fanwiki-screen-oct14:199"
    ],
    "index_only": false,
    "local_only": true,
@@ -422257,7 +421631,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:220": {
+    "fanwiki-screen-oct14:199": {
      "title": "Vampirina: Teenage Vampire",
      "year": "2025",
      "subtitle": "First Day of School (Season 1, Episode 2)",
@@ -422265,7 +421639,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Brainwashing, Hypnotic Eyes",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "A teenager vampire girl attends performing arts school, hiding her identity. Her Overprotective father assigns ghostly guardian to watch over her as she pursues her love for music. First Day of School (Season 1, Episode 2): Vee hypnotizes the teacher into becoming her biggest fan, but things get a little out of control. Scene: Vee uses her hypnotic gaze. The teacher is hypnotized.",
      "character": "",
      "categories": [
@@ -422275,6 +421649,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Vampirina: Teenage Vampire",
        "url": "https://mentalblock.miraheze.org/wiki/Vampirina:_Teenage_Vampire"
+      },
+      {
+       "label": "Wikipedia: Vampirina: Teenage Vampire",
+       "url": "https://en.wikipedia.org/wiki/Vampirina:_Teenage_Vampire"
       }
      ],
      "pregnant_end": "not stated",
@@ -422291,13 +421669,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2897,
+   "id": 2876,
    "title": "Weird Science",
    "subtitle": "Demon Lisa (Season 4, Episode 13) / Gary and Wyatt's Bloodsucking Adventure (Season 4, Episode 19)",
    "year": "1994–1998",
    "meta": "TV · English",
    "mechanism": "Comedic Hypnosis, Magical Hypnosis, Possession",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Demon Lisa (Season 4, Episode 13): During a Halloween party, Lisa is possessed by a cyber-demon, which wants to use her genie powers to take over the world. Gary and Wyatt's Bloodsucking Adventure (Season 4, Episode 19): Lisa turns Gary and Wyatt into Anne Rice-esque vampires (who crave chocolate milk instead of blood) so that they'll be cool enough to get into an exclusive club. The boys enjoy using their new vampire powers to hypnotize the beautiful women they find inside the club, not realizing that the place is run by vampires. When Lisa tries to save them, she is hypnotized by the head va Scene: A girl rebuffs Gary's attempt to chat with her Gary uses his new vampire powers to hypnotize her She is instantly hypnotized And falls under Gary's control By the time Wyatt shows up, Gary has collected a harem The head vampire surprises Lisa and hypnotizes her Lisa falls into a trance Gary and Wyatt find Lisa under the vampire's control",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -422320,6 +421698,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Weird Science (TV Series)",
      "url": "https://mentalblock.miraheze.org/wiki/Weird_Science_(TV_Series)"
+    },
+    {
+     "label": "Wikipedia: Weird Science (TV series)",
+     "url": "https://en.wikipedia.org/wiki/Weird_Science_(TV_series)"
     }
    ],
    "youtube_ids": [],
@@ -422327,7 +421709,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:221"
+    "fanwiki-screen-oct14:200"
    ],
    "index_only": false,
    "local_only": true,
@@ -422335,7 +421717,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:221": {
+    "fanwiki-screen-oct14:200": {
      "title": "Weird Science",
      "year": "1994–1998",
      "subtitle": "Demon Lisa (Season 4, Episode 13) / Gary and Wyatt's Bloodsucking Adventure (Season 4, Episode 19)",
@@ -422343,7 +421725,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Comedic Hypnosis, Magical Hypnosis, Possession",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Demon Lisa (Season 4, Episode 13): During a Halloween party, Lisa is possessed by a cyber-demon, which wants to use her genie powers to take over the world. Gary and Wyatt's Bloodsucking Adventure (Season 4, Episode 19): Lisa turns Gary and Wyatt into Anne Rice-esque vampires (who crave chocolate milk instead of blood) so that they'll be cool enough to get into an exclusive club. The boys enjoy using their new vampire powers to hypnotize the beautiful women they find inside the club, not realizing that the place is run by vampires. When Lisa tries to save them, she is hypnotized by the head va Scene: A girl rebuffs Gary's attempt to chat with her Gary uses his new vampire powers to hypnotize her She is instantly hypnotized And falls under Gary's control By the time Wyatt shows up, Gary has collected a harem The head vampire surprises Lisa and hypnotizes her Lisa falls into a trance Gary and Wyatt find Lisa under the vampire's control",
      "character": "",
      "categories": [
@@ -422355,6 +421737,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Weird Science (TV Series)",
        "url": "https://mentalblock.miraheze.org/wiki/Weird_Science_(TV_Series)"
+      },
+      {
+       "label": "Wikipedia: Weird Science (TV series)",
+       "url": "https://en.wikipedia.org/wiki/Weird_Science_(TV_series)"
       }
      ],
      "pregnant_end": "not stated",
@@ -422371,7 +421757,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2898,
+   "id": 2877,
    "title": "Which is Witch?",
    "subtitle": "Madly in Love (Season 1, Episode 13) / Yes, Jack (Season 1, Episode 21) / An Evil Phone (Season 1, Episode 22)",
    "year": "2013–2014",
@@ -422406,7 +421792,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:222"
+    "fanwiki-screen-oct14:201"
    ],
    "index_only": false,
    "local_only": true,
@@ -422414,7 +421800,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:222": {
+    "fanwiki-screen-oct14:201": {
      "title": "Which is Witch?",
      "year": "2013–2014",
      "subtitle": "Madly in Love (Season 1, Episode 13) / Yes, Jack (Season 1, Episode 21) / An Evil Phone (Season 1, Episode 22)",
@@ -422449,13 +421835,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2899,
+   "id": 2878,
    "title": "Wicked Science",
    "subtitle": "Love Potion Number 9 (Season 1, Episode 10)",
    "year": "2004",
    "meta": "TV · English",
    "mechanism": "Chemical Hypnosis, Comedic Hypnosis, Love Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Love Potion Number 9 (Season 1, Episode 10): Toby produces a pheromone compound to make the guys irresistible to the girls.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -422478,6 +421864,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Wicked Science",
      "url": "https://mentalblock.miraheze.org/wiki/Wicked_Science"
+    },
+    {
+     "label": "Wikipedia: Wicked Science",
+     "url": "https://en.wikipedia.org/wiki/Wicked_Science"
     }
    ],
    "youtube_ids": [],
@@ -422485,7 +421875,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:223"
+    "fanwiki-screen-oct14:202"
    ],
    "index_only": false,
    "local_only": true,
@@ -422493,7 +421883,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:223": {
+    "fanwiki-screen-oct14:202": {
      "title": "Wicked Science",
      "year": "2004",
      "subtitle": "Love Potion Number 9 (Season 1, Episode 10)",
@@ -422501,7 +421891,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Chemical Hypnosis, Comedic Hypnosis, Love Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Love Potion Number 9 (Season 1, Episode 10): Toby produces a pheromone compound to make the guys irresistible to the girls.",
      "character": "",
      "categories": [
@@ -422513,6 +421903,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Wicked Science",
        "url": "https://mentalblock.miraheze.org/wiki/Wicked_Science"
+      },
+      {
+       "label": "Wikipedia: Wicked Science",
+       "url": "https://en.wikipedia.org/wiki/Wicked_Science"
       }
      ],
      "pregnant_end": "not stated",
@@ -422529,13 +421923,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2900,
+   "id": 2879,
    "title": "X2",
    "subtitle": "",
    "year": "2003",
    "meta": "Film · English",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Stryker uses a mind control serum to brainwash the mutants.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -422557,6 +421951,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: X2 (2003 Movie)",
      "url": "https://mentalblock.miraheze.org/wiki/X2_(2003_Movie)"
+    },
+    {
+     "label": "Wikipedia: X2 (film)",
+     "url": "https://en.wikipedia.org/wiki/X2_(film)"
     }
    ],
    "youtube_ids": [],
@@ -422564,7 +421962,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:224"
+    "fanwiki-screen-oct14:203"
    ],
    "index_only": false,
    "local_only": true,
@@ -422572,7 +421970,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:224": {
+    "fanwiki-screen-oct14:203": {
      "title": "X2",
      "year": "2003",
      "subtitle": "",
@@ -422580,7 +421978,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "Film · English",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Stryker uses a mind control serum to brainwash the mutants.",
      "character": "",
      "categories": [
@@ -422590,6 +421988,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: X2 (2003 Movie)",
        "url": "https://mentalblock.miraheze.org/wiki/X2_(2003_Movie)"
+      },
+      {
+       "label": "Wikipedia: X2 (film)",
+       "url": "https://en.wikipedia.org/wiki/X2_(film)"
       }
      ],
      "pregnant_end": "not stated",
@@ -422607,13 +422009,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2901,
+   "id": 2880,
    "title": "Xena: Warrior Princess",
    "subtitle": "The Haunting of Amphipolis (Season 6, Episode 2)",
    "year": "1995",
    "meta": "TV · English",
    "mechanism": "Possession",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "The Haunting of Amphipolis (Season 6, Episode 2): Xena visits her mother at her hometown only to find it's become a ghost town, where demon Mephistopheles plans to use the tavern to escape from hell. Later, that same demon possesses Gabrielle, only to be exorcised out of her by Xena.",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -422634,6 +422036,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Xena: Warrior Princess",
      "url": "https://mentalblock.miraheze.org/wiki/Xena:_Warrior_Princess"
+    },
+    {
+     "label": "Wikipedia: Xena: Warrior Princess",
+     "url": "https://en.wikipedia.org/wiki/Xena:_Warrior_Princess"
     }
    ],
    "youtube_ids": [],
@@ -422641,7 +422047,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:225"
+    "fanwiki-screen-oct14:204"
    ],
    "index_only": false,
    "local_only": true,
@@ -422649,7 +422055,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:225": {
+    "fanwiki-screen-oct14:204": {
      "title": "Xena: Warrior Princess",
      "year": "1995",
      "subtitle": "The Haunting of Amphipolis (Season 6, Episode 2)",
@@ -422657,7 +422063,7 @@ window.CATALOG = {
      "standalone": true,
      "meta": "TV · English",
      "mechanism": "Possession",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "The Haunting of Amphipolis (Season 6, Episode 2): Xena visits her mother at her hometown only to find it's become a ghost town, where demon Mephistopheles plans to use the tavern to escape from hell. Later, that same demon possesses Gabrielle, only to be exorcised out of her by Xena.",
      "character": "",
      "categories": [
@@ -422667,6 +422073,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Xena: Warrior Princess",
        "url": "https://mentalblock.miraheze.org/wiki/Xena:_Warrior_Princess"
+      },
+      {
+       "label": "Wikipedia: Xena: Warrior Princess",
+       "url": "https://en.wikipedia.org/wiki/Xena:_Warrior_Princess"
       }
      ],
      "pregnant_end": "not stated",
@@ -422683,7 +422093,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2902,
+   "id": 2881,
    "title": "Yolk Man",
    "subtitle": "Episode 2 / Episode 3",
    "year": "2019",
@@ -422719,7 +422129,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:226"
+    "fanwiki-screen-oct14:205"
    ],
    "index_only": false,
    "local_only": true,
@@ -422727,7 +422137,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:226": {
+    "fanwiki-screen-oct14:205": {
      "title": "Yolk Man",
      "year": "2019",
      "subtitle": "Episode 2 / Episode 3",
@@ -422763,13 +422173,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2903,
+   "id": 2882,
    "title": "Zyuden Sentai Kyoryuger",
    "subtitle": "Brave 11: Utchi! How Cool / Brave 19: Kyawaeen! The Stolen Family / Brave 25: What's This! The Nightmare of the Deboth A",
    "year": "2013",
-   "meta": "TV · language not stated",
+   "meta": "TV · en, publisher=The Tokusatsu Network, access-date=2017-03-02 ",
    "mechanism": "Love Hypnosis, Possession",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "Long ago, in the time of the dinosaurs, the Earth was invaded by an alien menace called Deboth, the leader of an invasion army. On the verge of extinction, some of the dinosaurs are transformed into Zyudenryu and seal Deboth and his forces in ice. Now, in the modern world, the Deboth Army have thawed and now intend to commence the mass extinction of humanity while thawing their still frozen leader. But having prepared for it, Wise God Torin gathers the only people capable of helping the Zyudenry Brave 11: Utchi! How Cool: Amy introduces Utsusemimaru to modern living while Candelilla takes to the stage once more with Debo Honenukky. Brave 19: Kyawaeen! The Stolen Family: After meeting a spoiled boy named Yuji, Utsusemimaru discovers that the boy's parents are under the thrall of Debo Kyawaeen, a Debo Monster so cute it kidnaps parents away from their children. Brave 25: What's This! The Nightmare of the Deboth Army: After all but Candelilla and Luckyuro are destroyed, Luckyuro sends Debo Akkumoon to torment the Kyoryugers in their dreams. Brave 37: Revenge! The Ghost Deboth Army: With",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -422791,6 +422201,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Zyuden Sentai Kyoryuger",
      "url": "https://mentalblock.miraheze.org/wiki/Zyuden_Sentai_Kyoryuger"
+    },
+    {
+     "label": "Wikipedia: Zyuden Sentai Kyoryuger",
+     "url": "https://en.wikipedia.org/wiki/Zyuden_Sentai_Kyoryuger"
     }
    ],
    "youtube_ids": [],
@@ -422798,7 +422212,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:227"
+    "fanwiki-screen-oct14:206"
    ],
    "index_only": false,
    "local_only": true,
@@ -422806,15 +422220,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:227": {
+    "fanwiki-screen-oct14:206": {
      "title": "Zyuden Sentai Kyoryuger",
      "year": "2013",
      "subtitle": "Brave 11: Utchi! How Cool / Brave 19: Kyawaeen! The Stolen Family / Brave 25: What's This! The Nightmare of the Deboth A",
      "format": "tv",
      "standalone": true,
-     "meta": "TV · language not stated",
+     "meta": "TV · en, publisher=The Tokusatsu Network, access-date=2017-03-02 ",
      "mechanism": "Love Hypnosis, Possession",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "Long ago, in the time of the dinosaurs, the Earth was invaded by an alien menace called Deboth, the leader of an invasion army. On the verge of extinction, some of the dinosaurs are transformed into Zyudenryu and seal Deboth and his forces in ice. Now, in the modern world, the Deboth Army have thawed and now intend to commence the mass extinction of humanity while thawing their still frozen leader. But having prepared for it, Wise God Torin gathers the only people capable of helping the Zyudenry Brave 11: Utchi! How Cool: Amy introduces Utsusemimaru to modern living while Candelilla takes to the stage once more with Debo Honenukky. Brave 19: Kyawaeen! The Stolen Family: After meeting a spoiled boy named Yuji, Utsusemimaru discovers that the boy's parents are under the thrall of Debo Kyawaeen, a Debo Monster so cute it kidnaps parents away from their children. Brave 25: What's This! The Nightmare of the Deboth Army: After all but Candelilla and Luckyuro are destroyed, Luckyuro sends Debo Akkumoon to torment the Kyoryugers in their dreams. Brave 37: Revenge! The Ghost Deboth Army: With",
      "character": "",
      "categories": [
@@ -422825,6 +422239,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Zyuden Sentai Kyoryuger",
        "url": "https://mentalblock.miraheze.org/wiki/Zyuden_Sentai_Kyoryuger"
+      },
+      {
+       "label": "Wikipedia: Zyuden Sentai Kyoryuger",
+       "url": "https://en.wikipedia.org/wiki/Zyuden_Sentai_Kyoryuger"
       }
      ],
      "pregnant_end": "not stated",
@@ -422841,13 +422259,13 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2904,
+   "id": 2883,
    "title": "Zyuden Sentai Kyoryuger: Gaburincho of Music",
    "subtitle": "",
    "year": "2013",
-   "meta": "Film · language not stated",
+   "meta": "Film · en, publisher=The Tokusatsu Network, access-date=2017-03-02 ",
    "mechanism": "Brainwashing",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
    "summary": "The Kyoryugers attend the show by pop star Meeko, a girl from Daigo's past. But when a group of Zorima led by two girls raids the area, the Kyoryugers hold off the Dino Girls while Kyoryu Red gets Meeko to safety. However, as the latter she lost her pendant, Daigo and Meeko encounter a former Deboth Army member named D who gained the power to become Deathryuger who confirms the girl to be the one he is looking for. Even with the Kyoryugers gathered, Deathryuger overpowers them all before taking",
    "character": "",
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
@@ -422868,6 +422286,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: Zyuden Sentai Kyoryuger: Gaburincho of Music",
      "url": "https://mentalblock.miraheze.org/wiki/Zyuden_Sentai_Kyoryuger:_Gaburincho_of_Music"
+    },
+    {
+     "label": "Wikipedia: Zyuden Sentai Kyoryuger",
+     "url": "https://en.wikipedia.org/wiki/Zyuden_Sentai_Kyoryuger"
     }
    ],
    "youtube_ids": [],
@@ -422875,7 +422297,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:228"
+    "fanwiki-screen-oct14:207"
    ],
    "index_only": false,
    "local_only": true,
@@ -422883,15 +422305,15 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:228": {
+    "fanwiki-screen-oct14:207": {
      "title": "Zyuden Sentai Kyoryuger: Gaburincho of Music",
      "year": "2013",
      "subtitle": "",
      "format": "movie",
      "standalone": true,
-     "meta": "Film · language not stated",
+     "meta": "Film · en, publisher=The Tokusatsu Network, access-date=2017-03-02 ",
      "mechanism": "Brainwashing",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
      "summary": "The Kyoryugers attend the show by pop star Meeko, a girl from Daigo's past. But when a group of Zorima led by two girls raids the area, the Kyoryugers hold off the Dino Girls while Kyoryu Red gets Meeko to safety. However, as the latter she lost her pendant, Daigo and Meeko encounter a former Deboth Army member named D who gained the power to become Deathryuger who confirms the girl to be the one he is looking for. Even with the Kyoryugers gathered, Deathryuger overpowers them all before taking",
      "character": "",
      "categories": [
@@ -422901,6 +422323,10 @@ window.CATALOG = {
       {
        "label": "Mental Block wiki: Zyuden Sentai Kyoryuger: Gaburincho of Music",
        "url": "https://mentalblock.miraheze.org/wiki/Zyuden_Sentai_Kyoryuger:_Gaburincho_of_Music"
+      },
+      {
+       "label": "Wikipedia: Zyuden Sentai Kyoryuger",
+       "url": "https://en.wikipedia.org/wiki/Zyuden_Sentai_Kyoryuger"
       }
      ],
      "pregnant_end": "not stated",
@@ -422917,7 +422343,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2905,
+   "id": 2884,
    "title": "Kaunri Kanya",
    "subtitle": "",
    "year": "2013",
@@ -422954,7 +422380,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:229"
+    "fanwiki-screen-oct14:208"
    ],
    "index_only": false,
    "local_only": true,
@@ -422962,7 +422388,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:229": {
+    "fanwiki-screen-oct14:208": {
      "title": "Kaunri Kanya",
      "year": "2013",
      "format": "movie",
@@ -426879,15 +426305,19 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2700,
+       "id": 2698,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2709,
+       "id": 2707,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2727,
+       "id": 2722,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2737,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -426895,11 +426325,7 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2753,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2761,
+       "id": 2752,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -426907,63 +426333,47 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2774,
+       "id": 2765,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2776,
+       "id": 2771,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2783,
+       "id": 2785,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2797,
+       "id": 2793,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2805,
+       "id": 2803,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2816,
+       "id": 2836,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2818,
+       "id": 2864,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2828,
+       "id": 2839,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2829,
+       "id": 2876,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2854,
+       "id": 2877,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2884,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2859,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2897,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2898,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2899,
+       "id": 2878,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -427298,15 +426708,15 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2692,
+       "id": 2691,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2754,
+       "id": 2746,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2890,
+       "id": 2870,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -428434,35 +427844,39 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2686,
+       "id": 2685,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2692,
+       "id": 2691,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2863,
+       "id": 2843,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2702,
+       "id": 2700,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2706,
+       "id": 2704,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2710,
+       "id": 2708,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2720,
+       "id": 2715,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2722,
+       "id": 2717,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2718,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -428470,11 +427884,19 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2728,
+       "id": 2679,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2679,
+       "id": 2747,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2748,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2749,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -428482,27 +427904,23 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2756,
+       "id": 2759,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2758,
+       "id": 2761,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2765,
+       "id": 2763,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2770,
+       "id": 2783,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2772,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2774,
+       "id": 2789,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -428510,15 +427928,11 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2801,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
        "id": 2807,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2821,
+       "id": 2808,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -428526,31 +427940,15 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2826,
+       "id": 2873,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2828,
+       "id": 2878,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2840,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2855,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2893,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2899,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2887,
+       "id": 2867,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -430300,95 +429698,91 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2688,
+       "id": 2687,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2693,
+       "id": 2697,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2699,
+       "id": 2703,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2705,
+       "id": 2706,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2708,
+       "id": 2716,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2714,
+       "id": 2720,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2715,
+       "id": 2722,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2721,
+       "id": 2728,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2725,
+       "id": 2730,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2727,
+       "id": 2733,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2731,
+       "id": 2848,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2734,
+       "id": 2741,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2736,
+       "id": 2743,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2740,
+       "id": 2849,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2868,
+       "id": 2746,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2749,
+       "id": 2750,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2751,
+       "id": 2851,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2869,
+       "id": 2760,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2754,
+       "id": 2766,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2759,
+       "id": 2767,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2871,
+       "id": 2768,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2769,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2771,
+       "id": 2776,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -430396,23 +429790,27 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2778,
+       "id": 2782,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2779,
+       "id": 2852,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2781,
+       "id": 2853,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2788,
+       "id": 2786,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2789,
+       "id": 2787,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2791,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -430420,23 +429818,15 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2872,
+       "id": 2797,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2873,
+       "id": 2859,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2798,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2799,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2803,
+       "id": 2805,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -430444,31 +429834,43 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2809,
+       "id": 2812,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2879,
+       "id": 2861,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2819,
+       "id": 2813,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2820,
+       "id": 2815,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2827,
+       "id": 2817,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2881,
+       "id": 2821,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2830,
+       "id": 2823,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2824,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2825,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2828,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -430476,55 +429878,27 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2835,
+       "id": 2837,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2839,
+       "id": 2870,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2841,
+       "id": 2871,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2842,
+       "id": 2865,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2843,
+       "id": 2866,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2846,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2850,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2856,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2890,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2891,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2885,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2886,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2888,
+       "id": 2868,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -437402,11 +436776,11 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2860,
+       "id": 2840,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2861,
+       "id": 2841,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -437414,79 +436788,7 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2700,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2864,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2707,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2709,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2865,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2867,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2743,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2745,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2750,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2870,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2761,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2776,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2783,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2786,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2797,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2805,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2878,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2829,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2838,
+       "id": 2698,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -437494,23 +436796,87 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2849,
+       "id": 2705,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2854,
+       "id": 2707,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2855,
+       "id": 2845,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2859,
+       "id": 2847,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2887,
+       "id": 2735,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2737,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2742,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2850,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2752,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2765,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2771,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2774,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2785,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2793,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2858,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2820,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2826,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2831,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2836,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2839,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2867,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -438364,39 +437730,39 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2690,
+       "id": 2689,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2697,
+       "id": 2695,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2723,
+       "id": 2718,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2749,
+       "id": 2741,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2770,
+       "id": 2759,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2778,
+       "id": 2767,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2872,
+       "id": 2852,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2875,
+       "id": 2855,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2902,
+       "id": 2881,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -439615,11 +438981,19 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 2685,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
        "id": 2686,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2687,
+       "id": 2688,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2690,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -439631,23 +439005,23 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2690,
+       "id": 2694,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2692,
+       "id": 2704,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2696,
+       "id": 2705,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2706,
+       "id": 2708,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2707,
+       "id": 2709,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -439659,7 +439033,7 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2712,
+       "id": 2721,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -439667,19 +439041,19 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2726,
+       "id": 2718,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2717,
+       "id": 2728,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2719,
+       "id": 2730,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2723,
+       "id": 2732,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -439687,15 +439061,19 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2736,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
        "id": 2739,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2742,
+       "id": 2740,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2744,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2745,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -439707,15 +439085,11 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2752,
+       "id": 2749,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2753,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2755,
+       "id": 2754,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -439723,135 +439097,43 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2757,
+       "id": 2759,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2758,
+       "id": 2760,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2764,
+       "id": 2761,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2766,
+       "id": 2762,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2770,
+       "id": 2767,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2771,
+       "id": 2769,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2772,
+       "id": 2777,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2773,
+       "id": 2779,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2778,
+       "id": 2782,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2780,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2789,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2791,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2794,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2873,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2875,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2802,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2803,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2804,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2806,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2813,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2814,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2815,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2878,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2818,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2819,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2822,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2823,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2824,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2825,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2830,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2837,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2882,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2851,
+       "id": 2853,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -439859,15 +439141,83 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2889,
+       "id": 2790,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2892,
+       "id": 2791,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2887,
+       "id": 2792,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2794,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2800,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2801,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2802,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2858,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2805,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2808,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2809,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2810,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2811,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2813,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2819,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2862,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2833,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2869,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2872,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2867,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -441890,7 +441240,11 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2689,
+       "id": 2688,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2693,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -441898,47 +441252,59 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2697,
+       "id": 2696,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2698,
+       "id": 2715,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2720,
+       "id": 2745,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2741,
+       "id": 2751,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2753,
+       "id": 2755,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2760,
+       "id": 2758,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2765,
+       "id": 2764,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2768,
+       "id": 2854,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2775,
+       "id": 2790,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2874,
+       "id": 2857,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2802,
+       "id": 2795,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2798,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2799,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2833,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -441946,47 +441312,11 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2807,
+       "id": 2878,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2810,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2811,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2818,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2826,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2828,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2851,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2894,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2898,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2899,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2903,
+       "id": 2882,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -444654,11 +443984,11 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2745,
+       "id": 2737,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2761,
+       "id": 2752,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -449145,31 +448475,31 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2746,
+       "id": 2738,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2762,
+       "id": 2753,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2767,
+       "id": 2757,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2785,
+       "id": 2773,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2833,
+       "id": 2816,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2858,
+       "id": 2838,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2904,
+       "id": 2883,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -459638,47 +458968,47 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2687,
+       "id": 2842,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2862,
+       "id": 2688,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2689,
+       "id": 2692,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2694,
+       "id": 2843,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2863,
+       "id": 2696,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2698,
+       "id": 2700,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2702,
+       "id": 2701,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2703,
+       "id": 2711,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2713,
+       "id": 2721,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2726,
+       "id": 2846,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2866,
+       "id": 2719,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -459686,23 +459016,31 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
+       "id": 2847,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2727,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
        "id": 2729,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2867,
+       "id": 2734,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2733,
+       "id": 2739,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2735,
+       "id": 2740,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2742,
+       "id": 2744,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -459710,35 +459048,39 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2748,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
        "id": 2752,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2755,
+       "id": 2754,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2757,
+       "id": 2756,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2761,
+       "id": 2763,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2764,
+       "id": 2769,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2766,
+       "id": 2770,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2774,
+       "id": 2772,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2778,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2779,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -459746,47 +459088,39 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2782,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
        "id": 2784,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2790,
+       "id": 2788,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2791,
+       "id": 2801,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2792,
+       "id": 2802,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2796,
+       "id": 2819,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2800,
+       "id": 2827,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2814,
+       "id": 2829,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2815,
+       "id": 2862,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2826,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2828,
+       "id": 2830,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -459794,59 +459128,31 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2837,
+       "id": 2835,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2845,
+       "id": 2863,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2847,
+       "id": 2869,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2882,
+       "id": 2873,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2848,
+       "id": 2867,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2852,
+       "id": 2879,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2853,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2855,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2883,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2889,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2893,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2887,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2900,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2902,
+       "id": 2881,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -461213,19 +460519,23 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2685,
+       "id": 2686,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2687,
+       "id": 2842,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2862,
+       "id": 2702,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2704,
+       "id": 2710,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2721,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -461233,35 +460543,27 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
+       "id": 2713,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2714,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2846,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2725,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
        "id": 2726,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2716,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2717,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2718,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2866,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2719,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2730,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2732,
+       "id": 2731,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -461269,91 +460571,39 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2745,
+       "id": 2739,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2747,
+       "id": 2751,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2760,
+       "id": 2754,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2764,
+       "id": 2756,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2766,
+       "id": 2763,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2774,
+       "id": 2775,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2787,
+       "id": 2781,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2793,
+       "id": 2884,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2905,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2875,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2877,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2812,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2880,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2817,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2823,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2824,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2831,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2836,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2847,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2882,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2851,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2883,
+       "id": 2855,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -461361,19 +460611,59 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2897,
+       "id": 2860,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2901,
+       "id": 2804,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2902,
+       "id": 2809,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2903,
+       "id": 2810,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2814,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2818,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2829,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2862,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2833,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2863,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2876,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2880,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2881,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2882,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -461873,7 +461163,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2905,
+       "id": 2884,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -464873,59 +464163,51 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2691,
+       "id": 2690,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2701,
+       "id": 2699,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2707,
+       "id": 2705,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2711,
+       "id": 2709,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2738,
+       "id": 2736,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2744,
+       "id": 2789,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2801,
+       "id": 2856,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2796,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2803,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2874,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2875,
        "from_source": "fanwiki-screen-oct14"
       },
       {
        "id": 2876,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2808,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2816,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2818,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2895,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2896,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2897,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
