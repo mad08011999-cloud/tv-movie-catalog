@@ -3902,7 +3902,7 @@ window.CATALOG = {
    "description": "Indian serial episodes from official YouTube channels",
    "dropped": [],
    "check": {
-    "raw_count": 39,
+    "raw_count": 42,
     "ok": true
    },
    "status": "local"
@@ -3949,10 +3949,10 @@ window.CATALOG = {
   "telugu-deep-oct15": 3,
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
-  "official-yt-oct15": 39
+  "official-yt-oct15": 42
  },
- "raw_total": 5558,
- "entry_count": 2814,
+ "raw_total": 5561,
+ "entry_count": 2817,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -3970,7 +3970,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 250
+   "entry_count": 251
   },
   {
    "key": "walkin",
@@ -4024,7 +4024,7 @@ window.CATALOG = {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 254
+   "entry_count": 255
   },
   {
    "key": "child-controller",
@@ -4042,7 +4042,7 @@ window.CATALOG = {
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 185
+   "entry_count": 188
   },
   {
    "key": "hypnotized-to-marry",
@@ -4114,7 +4114,7 @@ window.CATALOG = {
    "key": "royal-hypnosis",
    "label": "Hypnotized queen/princess for marriage or the throne",
    "legend_label": "Hypnotized queen / princess",
-   "entry_count": 47
+   "entry_count": 48
   },
   {
    "key": "love",
@@ -4132,7 +4132,7 @@ window.CATALOG = {
    "key": "indian-female-hypnosis",
    "label": "Indian-language female hypnotized against her will",
    "legend_label": "Indian-language female hypnotized against her will",
-   "entry_count": 27
+   "entry_count": 28
   },
   {
    "key": "lesbian-couple-pregnancy",
@@ -4432,7 +4432,7 @@ window.CATALOG = {
    "key": "tantrik",
    "label": "Tantrik / black-magic control",
    "legend_label": "Tantrik / black-magic control",
-   "entry_count": 44
+   "entry_count": 45
   },
   {
    "key": "vampire",
@@ -425834,6 +425834,252 @@ window.CATALOG = {
      ]
     }
    }
+  },
+  {
+   "id": 2924,
+   "title": "Daanav Hunters",
+   "subtitle": "E5–E6 'Vashikaran I & II'",
+   "year": "2020 (EPIC On episode dates; series 2014)",
+   "meta": "TV/OTT series · EPIC On · Hindi · India",
+   "mechanism": "Vashikaran (hypnotism)",
+   "confidence_flag": "Medium · platform episode synopses",
+   "summary": "Raghav, Sandhya's eccentric fiancé and a master of vashikaran (hypnotism), has brought Sandhya (Vanya's aunt) and the board of trustees under his control in order to seize the Bhagwat property. He fails to control Vanya. He later hypnotises Arkin and Shoondi and plans to marry Sandhya to secure his stake.",
+   "character": "Sandhya",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "no (engaged to Raghav, who plans to marry her)",
+   "pregnant_end": "not stated",
+   "fit_note": "Sandhya is an adult (Vanya's aunt, engaged).",
+   "format": "tv",
+   "categories": [
+    "india-control",
+    "tantrik",
+    "indian-female-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "EPIC On: Daanav Hunters S1 E5 'Vashikaran I' / E6 'Vashikaran II'",
+     "url": "https://www.epicon.in/tv-shows/daanav-hunters/season-1/e6-vashikaran-ii"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:40"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:40": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "no (engaged to Raghav, who plans to marry her)",
+     "title": "Daanav Hunters",
+     "subtitle": "E5–E6 'Vashikaran I & II'",
+     "year": "2020 (EPIC On episode dates; series 2014)",
+     "meta": "TV/OTT series · EPIC On · Hindi · India",
+     "mechanism": "Vashikaran (hypnotism)",
+     "confidence_flag": "Medium · platform episode synopses",
+     "summary": "Raghav, Sandhya's eccentric fiancé and a master of vashikaran (hypnotism), has brought Sandhya (Vanya's aunt) and the board of trustees under his control in order to seize the Bhagwat property. He fails to control Vanya. He later hypnotises Arkin and Shoondi and plans to marry Sandhya to secure his stake.",
+     "character": "Sandhya",
+     "categories": [
+      "india-control",
+      "tantrik",
+      "indian-female-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "EPIC On: Daanav Hunters S1 E5 'Vashikaran I' / E6 'Vashikaran II'",
+       "url": "https://www.epicon.in/tv-shows/daanav-hunters/season-1/e6-vashikaran-ii"
+      }
+     ],
+     "fit_note": "Sandhya is an adult (Vanya's aunt, engaged)."
+    }
+   }
+  },
+  {
+   "id": 2925,
+   "title": "Aladdin – Naam Toh Suna Hoga — E38 “Under The Influence”",
+   "subtitle": "E38",
+   "year": "2018",
+   "meta": "TV serial · Sony SAB · Hindi · India",
+   "mechanism": "Hypnosis (mind control)",
+   "confidence_flag": "Medium · platform episode synopsis",
+   "summary": "Zayn hypnotizes Princess Yasmine and has her complete a task so he can get complete hold of her mind; Aladdin realises she is in danger and sets out to rescue her.",
+   "character": "Yasmine",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Yasmine's age is not stated; she is the adult hero's romantic lead.",
+   "format": "tv",
+   "categories": [
+    "royal-hypnosis",
+    "fantasy",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Sony LIV: Aladdin Naam Toh Suna Hoga E38 'Under The Influence'",
+     "url": "https://www.sonyliv.com/shows/aladdin-naam-toh-suna-hoga-1700000001/under-the-influence-1000008531"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:41"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:41": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Aladdin – Naam Toh Suna Hoga — E38 “Under The Influence”",
+     "subtitle": "E38",
+     "year": "2018",
+     "meta": "TV serial · Sony SAB · Hindi · India",
+     "mechanism": "Hypnosis (mind control)",
+     "confidence_flag": "Medium · platform episode synopsis",
+     "summary": "Zayn hypnotizes Princess Yasmine and has her complete a task so he can get complete hold of her mind; Aladdin realises she is in danger and sets out to rescue her.",
+     "character": "Yasmine",
+     "categories": [
+      "royal-hypnosis",
+      "fantasy",
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "Sony LIV: Aladdin Naam Toh Suna Hoga E38 'Under The Influence'",
+       "url": "https://www.sonyliv.com/shows/aladdin-naam-toh-suna-hoga-1700000001/under-the-influence-1000008531"
+      }
+     ],
+     "fit_note": "Yasmine's age is not stated; she is the adult hero's romantic lead."
+    }
+   }
+  },
+  {
+   "id": 2926,
+   "title": "Aa Family Comedy Che",
+   "subtitle": "Hypnosis arc (Ep. 228–247)",
+   "year": "2014–",
+   "meta": "TV sitcom · Colors Gujarati / JioHotstar · Gujarati · India",
+   "mechanism": "Pendulum hypnosis (comic)",
+   "confidence_flag": "Low-Medium · platform and official episode titles",
+   "summary": "A pendulum-hypnosis arc: Disha, obsessed with the pendulum, hypnotizes the whole family; JioHotstar episode titles include 'Hypnotizing Disha and Charu' and 'Re-hypnotizing Disha', and Charu searches for the mind-control pendulum.",
+   "character": "Disha; Charu",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Ages of Disha and Charu not stated. The series launched 3 Nov 2014 (IMDb); the arc's air date is not stated.",
+   "format": "tv",
+   "categories": [
+    "adult-hypnosis",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "JioHotstar: Aa Family Comedy Che – Hypnotizing Disha and Charu",
+     "url": "https://www.hotstar.com/in/tv/Aa-Family-Comedy-Che/1971002439/hypnotizing-disha-and-charu/1971182589"
+    },
+    {
+     "label": "JioHotstar: Aa Family Comedy Che – Re-hypnotizing Disha",
+     "url": "https://www.hotstar.com/in/tv/Aa-Family-Comedy-Che/1971002439/re-hypnotizing-disha/1971182521"
+    },
+    {
+     "label": "Colors Gujarati (YouTube): Aa Family Comedy Che | Ep 229 | Under the Spell Vidya Faces the Darkness",
+     "url": "https://www.youtube.com/watch?v=hAhE5qOvQhw"
+    },
+    {
+     "label": "IMDb: Aa Family Comedy Che",
+     "url": "https://www.imdb.com/title/tt16731992/"
+    }
+   ],
+   "youtube_ids": [
+    "hAhE5qOvQhw"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:42"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/hAhE5qOvQhw.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:42": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Aa Family Comedy Che",
+     "subtitle": "Hypnosis arc (Ep. 228–247)",
+     "year": "2014–",
+     "meta": "TV sitcom · Colors Gujarati / JioHotstar · Gujarati · India",
+     "mechanism": "Pendulum hypnosis (comic)",
+     "confidence_flag": "Low-Medium · platform and official episode titles",
+     "summary": "A pendulum-hypnosis arc: Disha, obsessed with the pendulum, hypnotizes the whole family; JioHotstar episode titles include 'Hypnotizing Disha and Charu' and 'Re-hypnotizing Disha', and Charu searches for the mind-control pendulum.",
+     "character": "Disha; Charu",
+     "categories": [
+      "adult-hypnosis",
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "JioHotstar: Aa Family Comedy Che – Hypnotizing Disha and Charu",
+       "url": "https://www.hotstar.com/in/tv/Aa-Family-Comedy-Che/1971002439/hypnotizing-disha-and-charu/1971182589"
+      },
+      {
+       "label": "JioHotstar: Aa Family Comedy Che – Re-hypnotizing Disha",
+       "url": "https://www.hotstar.com/in/tv/Aa-Family-Comedy-Che/1971002439/re-hypnotizing-disha/1971182521"
+      },
+      {
+       "label": "Colors Gujarati (YouTube): Aa Family Comedy Che | Ep 229 | Under the Spell Vidya Faces the Darkness",
+       "url": "https://www.youtube.com/watch?v=hAhE5qOvQhw"
+      },
+      {
+       "label": "IMDb: Aa Family Comedy Che",
+       "url": "https://www.imdb.com/title/tt16731992/"
+      }
+     ],
+     "fit_note": "Ages of Disha and Charu not stated. The series launched 3 Nov 2014 (IMDb); the arc's air date is not stated."
+    }
+   }
   }
  ],
  "sections": [
@@ -429230,6 +429476,10 @@ window.CATALOG = {
      "title": "Official channel episode additions (Oct 2026)",
      "notes": [],
      "items": [
+      {
+       "id": 2926,
+       "from_source": "official-yt-oct15"
+      },
       {
        "id": 2910,
        "from_source": "official-yt-oct15"
@@ -433388,6 +433638,10 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 2925,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2894,
        "from_source": "official-yt-oct15"
       },
@@ -435425,6 +435679,14 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 2926,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2925,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2898,
        "from_source": "official-yt-oct15"
       },
@@ -435438,6 +435700,10 @@ window.CATALOG = {
       },
       {
        "id": 2908,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2924,
        "from_source": "official-yt-oct15"
       },
       {
@@ -443012,6 +443278,10 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 2925,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2896,
        "from_source": "official-yt-oct15"
       }
@@ -445285,6 +445555,10 @@ window.CATALOG = {
       },
       {
        "id": 2908,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2924,
        "from_source": "official-yt-oct15"
       },
       {
@@ -465560,6 +465834,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 2898,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2924,
        "from_source": "official-yt-oct15"
       },
       {

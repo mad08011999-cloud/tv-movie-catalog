@@ -1178,6 +1178,107 @@
      "url": "https://www.youtube.com/watch?v=0K_NhFnfkiE"
     }
    ]
+  },
+  {
+   "standalone": true,
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "group": "Official channel episode additions (Oct 2026)",
+   "format": "tv",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "no (engaged to Raghav, who plans to marry her)",
+   "title": "Daanav Hunters",
+   "subtitle": "E5–E6 'Vashikaran I & II'",
+   "year": "2020 (EPIC On episode dates; series 2014)",
+   "meta": "TV/OTT series · EPIC On · Hindi · India",
+   "mechanism": "Vashikaran (hypnotism)",
+   "confidence_flag": "Medium · platform episode synopses",
+   "summary": "Raghav, Sandhya's eccentric fiancé and a master of vashikaran (hypnotism), has brought Sandhya (Vanya's aunt) and the board of trustees under his control in order to seize the Bhagwat property. He fails to control Vanya. He later hypnotises Arkin and Shoondi and plans to marry Sandhya to secure his stake.",
+   "character": "Sandhya",
+   "categories": [
+    "india-control",
+    "tantrik",
+    "indian-female-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "EPIC On: Daanav Hunters S1 E5 'Vashikaran I' / E6 'Vashikaran II'",
+     "url": "https://www.epicon.in/tv-shows/daanav-hunters/season-1/e6-vashikaran-ii"
+    }
+   ],
+   "fit_note": "Sandhya is an adult (Vanya's aunt, engaged)."
+  },
+  {
+   "standalone": true,
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "group": "Official channel episode additions (Oct 2026)",
+   "format": "tv",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "title": "Aladdin – Naam Toh Suna Hoga — E38 “Under The Influence”",
+   "subtitle": "E38",
+   "year": "2018",
+   "meta": "TV serial · Sony SAB · Hindi · India",
+   "mechanism": "Hypnosis (mind control)",
+   "confidence_flag": "Medium · platform episode synopsis",
+   "summary": "Zayn hypnotizes Princess Yasmine and has her complete a task so he can get complete hold of her mind; Aladdin realises she is in danger and sets out to rescue her.",
+   "character": "Yasmine",
+   "categories": [
+    "royal-hypnosis",
+    "fantasy",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Sony LIV: Aladdin Naam Toh Suna Hoga E38 'Under The Influence'",
+     "url": "https://www.sonyliv.com/shows/aladdin-naam-toh-suna-hoga-1700000001/under-the-influence-1000008531"
+    }
+   ],
+   "fit_note": "Yasmine's age is not stated; she is the adult hero's romantic lead."
+  },
+  {
+   "standalone": true,
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "group": "Official channel episode additions (Oct 2026)",
+   "format": "tv",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "title": "Aa Family Comedy Che",
+   "subtitle": "Hypnosis arc (Ep. 228–247)",
+   "year": "2014–",
+   "meta": "TV sitcom · Colors Gujarati / JioHotstar · Gujarati · India",
+   "mechanism": "Pendulum hypnosis (comic)",
+   "confidence_flag": "Low-Medium · platform and official episode titles",
+   "summary": "A pendulum-hypnosis arc: Disha, obsessed with the pendulum, hypnotizes the whole family; JioHotstar episode titles include 'Hypnotizing Disha and Charu' and 'Re-hypnotizing Disha', and Charu searches for the mind-control pendulum.",
+   "character": "Disha; Charu",
+   "categories": [
+    "adult-hypnosis",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "JioHotstar: Aa Family Comedy Che – Hypnotizing Disha and Charu",
+     "url": "https://www.hotstar.com/in/tv/Aa-Family-Comedy-Che/1971002439/hypnotizing-disha-and-charu/1971182589"
+    },
+    {
+     "label": "JioHotstar: Aa Family Comedy Che – Re-hypnotizing Disha",
+     "url": "https://www.hotstar.com/in/tv/Aa-Family-Comedy-Che/1971002439/re-hypnotizing-disha/1971182521"
+    },
+    {
+     "label": "Colors Gujarati (YouTube): Aa Family Comedy Che | Ep 229 | Under the Spell Vidya Faces the Darkness",
+     "url": "https://www.youtube.com/watch?v=hAhE5qOvQhw"
+    },
+    {
+     "label": "IMDb: Aa Family Comedy Che",
+     "url": "https://www.imdb.com/title/tt16731992/"
+    }
+   ],
+   "fit_note": "Ages of Disha and Charu not stated. The series launched 3 Nov 2014 (IMDb); the arc's air date is not stated."
   }
  ],
  "dropped": []
