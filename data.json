@@ -3902,7 +3902,7 @@
    "description": "Indian serial episodes from official YouTube channels",
    "dropped": [],
    "check": {
-    "raw_count": 21,
+    "raw_count": 27,
     "ok": true
    },
    "status": "local"
@@ -3949,10 +3949,10 @@
   "telugu-deep-oct15": 3,
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
-  "official-yt-oct15": 21
+  "official-yt-oct15": 27
  },
- "raw_total": 5540,
- "entry_count": 2796,
+ "raw_total": 5546,
+ "entry_count": 2802,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -3970,7 +3970,7 @@
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 249
+   "entry_count": 250
   },
   {
    "key": "walkin",
@@ -4024,7 +4024,7 @@
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 250
+   "entry_count": 251
   },
   {
    "key": "child-controller",
@@ -4042,7 +4042,7 @@
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 169
+   "entry_count": 175
   },
   {
    "key": "hypnotized-to-marry",
@@ -4078,7 +4078,7 @@
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 49
+   "entry_count": 50
   },
   {
    "key": "index-54",
@@ -4132,7 +4132,7 @@
    "key": "indian-female-hypnosis",
    "label": "Indian-language female hypnotized against her will",
    "legend_label": "Indian-language female hypnotized against her will",
-   "entry_count": 20
+   "entry_count": 21
   },
   {
    "key": "lesbian-couple-pregnancy",
@@ -4396,7 +4396,7 @@
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 138
+   "entry_count": 141
   },
   {
    "key": "stepmom-control",
@@ -4414,7 +4414,7 @@
    "key": "evil-female",
    "label": "Supernatural female control — India & Indonesia",
    "legend_label": "Supernatural female control — India & Indonesia",
-   "entry_count": 37
+   "entry_count": 41
   },
   {
    "key": "index-59",
@@ -424439,6 +424439,465 @@
      "married": "not stated"
     }
    }
+  },
+  {
+   "id": 2906,
+   "title": "Nazar",
+   "subtitle": "Clip: 'Mohana ne kiya Vedashri ko apne vash mein!'",
+   "year": "2023 (YouTube upload; series 2018–2020)",
+   "meta": "TV serial · StarPlus · Hindi · India",
+   "mechanism": "Witch's control (vash)",
+   "confidence_flag": "Medium · official clip title",
+   "summary": "The daayan Mohana brings Vedashri under her control (vash).",
+   "character": "Vedashri",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Vedashri is an adult in the Rathod family; age not explicitly stated in the source.",
+   "format": "tv",
+   "categories": [
+    "india-control",
+    "evil-female",
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "StarPlus (YouTube): Nazar | Mohana ne kiya Vedashri ko apne vash mein!",
+     "url": "https://www.youtube.com/watch?v=-G7ZtEH6-RU"
+    },
+    {
+     "label": "StarPlus (YouTube): Mohana ne kiya Vedashri ko vash mein!",
+     "url": "https://www.youtube.com/watch?v=m3843VYUCf0"
+    }
+   ],
+   "youtube_ids": [
+    "-G7ZtEH6-RU",
+    "m3843VYUCf0"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:22"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/-G7ZtEH6-RU.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:22": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Nazar",
+     "subtitle": "Clip: 'Mohana ne kiya Vedashri ko apne vash mein!'",
+     "year": "2023 (YouTube upload; series 2018–2020)",
+     "meta": "TV serial · StarPlus · Hindi · India",
+     "mechanism": "Witch's control (vash)",
+     "confidence_flag": "Medium · official clip title",
+     "summary": "The daayan Mohana brings Vedashri under her control (vash).",
+     "character": "Vedashri",
+     "categories": [
+      "india-control",
+      "evil-female",
+      "spirit"
+     ],
+     "sources": [
+      {
+       "label": "StarPlus (YouTube): Nazar | Mohana ne kiya Vedashri ko apne vash mein!",
+       "url": "https://www.youtube.com/watch?v=-G7ZtEH6-RU"
+      },
+      {
+       "label": "StarPlus (YouTube): Mohana ne kiya Vedashri ko vash mein!",
+       "url": "https://www.youtube.com/watch?v=m3843VYUCf0"
+      }
+     ],
+     "fit_note": "Vedashri is an adult in the Rathod family; age not explicitly stated in the source."
+    }
+   }
+  },
+  {
+   "id": 2907,
+   "title": "Noyontara",
+   "subtitle": "Ep. 168",
+   "year": "2025",
+   "meta": "TV serial · Colors TV (Hindi dub of Colors Bangla series) · India",
+   "mechanism": "Spirit control",
+   "confidence_flag": "Low-Medium · official recap title",
+   "summary": "Asha sees Poulomi under Shaoli's control.",
+   "character": "Poulomi",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Poulomi's age not stated.",
+   "format": "tv",
+   "categories": [
+    "spirit",
+    "india-control",
+    "evil-female"
+   ],
+   "sources": [
+    {
+     "label": "Colors TV (YouTube): Noyontara | Ep. 168 | Asha Sees Poulomi Under Shaoli's Control",
+     "url": "https://www.youtube.com/watch?v=hgEuZn9VPvQ"
+    }
+   ],
+   "youtube_ids": [
+    "hgEuZn9VPvQ"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:23"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/hgEuZn9VPvQ.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:23": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Noyontara",
+     "subtitle": "Ep. 168",
+     "year": "2025",
+     "meta": "TV serial · Colors TV (Hindi dub of Colors Bangla series) · India",
+     "mechanism": "Spirit control",
+     "confidence_flag": "Low-Medium · official recap title",
+     "summary": "Asha sees Poulomi under Shaoli's control.",
+     "character": "Poulomi",
+     "categories": [
+      "spirit",
+      "india-control",
+      "evil-female"
+     ],
+     "sources": [
+      {
+       "label": "Colors TV (YouTube): Noyontara | Ep. 168 | Asha Sees Poulomi Under Shaoli's Control",
+       "url": "https://www.youtube.com/watch?v=hgEuZn9VPvQ"
+      }
+     ],
+     "fit_note": "Poulomi's age not stated."
+    }
+   }
+  },
+  {
+   "id": 2908,
+   "title": "CID",
+   "subtitle": "11 Apr 2025 – 'Undercover hue Purvi aur Pankaj ko kisne kiya Hypnotize?'",
+   "year": "2025",
+   "meta": "TV crime series · Sony (CID 2) · Hindi · India",
+   "mechanism": "Stage-style eye-fixation hypnosis",
+   "confidence_flag": "Medium · official episode description",
+   "summary": "Robber Sohan, posing as a salesman, hypnotizes Kunal's wife Amrita by staring into her eyes so that he and Rinky can loot her locker; officers Purvi and Pankaj are also hypnotized undercover.",
+   "character": "Amrita; Purvi",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "yes (Amrita is Kunal's wife)",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "india-control",
+    "indian-female-hypnosis",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "Sony WAH (YouTube): CID | 11 Apr 2025",
+     "url": "https://www.youtube.com/watch?v=cl77pX5r3zc"
+    }
+   ],
+   "youtube_ids": [
+    "cl77pX5r3zc"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:24"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/cl77pX5r3zc.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:24": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "yes (Amrita is Kunal's wife)",
+     "title": "CID",
+     "subtitle": "11 Apr 2025 – 'Undercover hue Purvi aur Pankaj ko kisne kiya Hypnotize?'",
+     "year": "2025",
+     "meta": "TV crime series · Sony (CID 2) · Hindi · India",
+     "mechanism": "Stage-style eye-fixation hypnosis",
+     "confidence_flag": "Medium · official episode description",
+     "summary": "Robber Sohan, posing as a salesman, hypnotizes Kunal's wife Amrita by staring into her eyes so that he and Rinky can loot her locker; officers Purvi and Pankaj are also hypnotized undercover.",
+     "character": "Amrita; Purvi",
+     "categories": [
+      "india-control",
+      "indian-female-hypnosis",
+      "wife"
+     ],
+     "sources": [
+      {
+       "label": "Sony WAH (YouTube): CID | 11 Apr 2025",
+       "url": "https://www.youtube.com/watch?v=cl77pX5r3zc"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2909,
+   "title": "Raazz Mahal – Dakini Ka Rahasya",
+   "subtitle": "Ep. 107",
+   "year": "2022–23",
+   "meta": "TV serial · Zee TV (official Shemaroo upload) · Hindi · India",
+   "mechanism": "Maya shakti (magical control)",
+   "confidence_flag": "Medium · official episode title",
+   "summary": "Sunaina falls under the control of the maya shakti (magical power).",
+   "character": "Sunaina",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Sunaina's age not stated.",
+   "format": "tv",
+   "categories": [
+    "india-control",
+    "spirit",
+    "evil-female"
+   ],
+   "sources": [
+    {
+     "label": "Shemaroo Umang (YouTube): Raazz Mahal | सुनैना माया शक्ति के वश में | Full Episode 107",
+     "url": "https://www.youtube.com/watch?v=Rt_n1C2LvZs"
+    }
+   ],
+   "youtube_ids": [
+    "Rt_n1C2LvZs"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:25"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/Rt_n1C2LvZs.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:25": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Raazz Mahal – Dakini Ka Rahasya",
+     "subtitle": "Ep. 107",
+     "year": "2022–23",
+     "meta": "TV serial · Zee TV (official Shemaroo upload) · Hindi · India",
+     "mechanism": "Maya shakti (magical control)",
+     "confidence_flag": "Medium · official episode title",
+     "summary": "Sunaina falls under the control of the maya shakti (magical power).",
+     "character": "Sunaina",
+     "categories": [
+      "india-control",
+      "spirit",
+      "evil-female"
+     ],
+     "sources": [
+      {
+       "label": "Shemaroo Umang (YouTube): Raazz Mahal | सुनैना माया शक्ति के वश में | Full Episode 107",
+       "url": "https://www.youtube.com/watch?v=Rt_n1C2LvZs"
+      }
+     ],
+     "fit_note": "Sunaina's age not stated."
+    }
+   }
+  },
+  {
+   "id": 2910,
+   "title": "May I Come In Madam?",
+   "subtitle": "Clip: 'Sanjana hui hypnotize'",
+   "year": "2024 (YouTube upload; series 2016–17)",
+   "meta": "TV sitcom · Star Bharat · Hindi · India",
+   "mechanism": "Hypnosis (comic)",
+   "confidence_flag": "Medium · official clip description",
+   "summary": "The hypnotized Sanjana (Sajan's boss) showers her love on Sajan, which leaves him worried instead of happy.",
+   "character": "Sanjana",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "adult-hypnosis",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "STAR Bharat (YouTube): Sanjana hui hypnotize | May I Come in Madam",
+     "url": "https://www.youtube.com/watch?v=eYn6j3TWlSs"
+    }
+   ],
+   "youtube_ids": [
+    "eYn6j3TWlSs"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:26"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/eYn6j3TWlSs.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:26": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "May I Come In Madam?",
+     "subtitle": "Clip: 'Sanjana hui hypnotize'",
+     "year": "2024 (YouTube upload; series 2016–17)",
+     "meta": "TV sitcom · Star Bharat · Hindi · India",
+     "mechanism": "Hypnosis (comic)",
+     "confidence_flag": "Medium · official clip description",
+     "summary": "The hypnotized Sanjana (Sajan's boss) showers her love on Sajan, which leaves him worried instead of happy.",
+     "character": "Sanjana",
+     "categories": [
+      "adult-hypnosis",
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "STAR Bharat (YouTube): Sanjana hui hypnotize | May I Come in Madam",
+       "url": "https://www.youtube.com/watch?v=eYn6j3TWlSs"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2911,
+   "title": "Nagin",
+   "subtitle": "Ep. 40",
+   "year": "2012",
+   "meta": "TV serial · Zee TV · Hindi · India",
+   "mechanism": "Nagin's control (vash)",
+   "confidence_flag": "Low-Medium · official episode title",
+   "summary": "The Nagin brings Mohini under her control.",
+   "character": "Mohini",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Mohini's age not stated.",
+   "format": "tv",
+   "categories": [
+    "india-control",
+    "fantasy",
+    "evil-female"
+   ],
+   "sources": [
+    {
+     "label": "Zee TV (YouTube): Nagin | Ep.40 | Mohini को Nagin ने क्यों किया अपने वश में? | Full Episode",
+     "url": "https://www.youtube.com/watch?v=hrlpYryE2PA"
+    }
+   ],
+   "youtube_ids": [
+    "hrlpYryE2PA"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:27"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/hrlpYryE2PA.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:27": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Nagin",
+     "subtitle": "Ep. 40",
+     "year": "2012",
+     "meta": "TV serial · Zee TV · Hindi · India",
+     "mechanism": "Nagin's control (vash)",
+     "confidence_flag": "Low-Medium · official episode title",
+     "summary": "The Nagin brings Mohini under her control.",
+     "character": "Mohini",
+     "categories": [
+      "india-control",
+      "fantasy",
+      "evil-female"
+     ],
+     "sources": [
+      {
+       "label": "Zee TV (YouTube): Nagin | Ep.40 | Mohini को Nagin ने क्यों किया अपने वश में? | Full Episode",
+       "url": "https://www.youtube.com/watch?v=hrlpYryE2PA"
+      }
+     ],
+     "fit_note": "Mohini's age not stated."
+    }
+   }
   }
  ],
  "sections": [
@@ -427835,6 +428294,10 @@
      "title": "Official channel episode additions (Oct 2026)",
      "notes": [],
      "items": [
+      {
+       "id": 2910,
+       "from_source": "official-yt-oct15"
+      },
       {
        "id": 2897,
        "from_source": "official-yt-oct15"
@@ -431993,6 +432456,10 @@
        "from_source": "official-yt-oct15"
       },
       {
+       "id": 2911,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2896,
        "from_source": "official-yt-oct15"
       }
@@ -434022,6 +434489,10 @@
        "from_source": "official-yt-oct15"
       },
       {
+       "id": 2908,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2901,
        "from_source": "official-yt-oct15"
       },
@@ -434046,6 +434517,10 @@
        "from_source": "official-yt-oct15"
       },
       {
+       "id": 2910,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2893,
        "from_source": "official-yt-oct15"
       },
@@ -434066,11 +434541,27 @@
        "from_source": "official-yt-oct15"
       },
       {
+       "id": 2911,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2906,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2887,
        "from_source": "official-yt-oct15"
       },
       {
+       "id": 2907,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2891,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2909,
        "from_source": "official-yt-oct15"
       },
       {
@@ -439962,6 +440453,10 @@
      "notes": [],
      "items": [
       {
+       "id": 2908,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2897,
        "from_source": "official-yt-oct15"
       },
@@ -443790,6 +444285,10 @@
       },
       {
        "id": 2890,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2908,
        "from_source": "official-yt-oct15"
       },
       {
@@ -462864,6 +463363,18 @@
       {
        "id": 2892,
        "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2906,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2907,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2909,
+       "from_source": "official-yt-oct15"
       }
      ],
      "from_source": "official-yt-oct15"
@@ -463405,6 +463916,22 @@
       },
       {
        "id": 2899,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2911,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2906,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2907,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2909,
        "from_source": "official-yt-oct15"
       },
       {
