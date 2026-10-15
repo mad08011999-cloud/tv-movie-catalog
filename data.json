@@ -3900,9 +3900,15 @@
    "kind": "local",
    "share_url": "sources/official-yt-oct15.json",
    "description": "Indian serial episodes from official YouTube channels",
-   "dropped": [],
+   "dropped": [
+    {
+     "title": "Ave Kallu",
+     "subtitle": "Ep. 70",
+     "reason": "Controller Mohini is female (woman-as-controller rule)"
+    }
+   ],
    "check": {
-    "raw_count": 9,
+    "raw_count": 10,
     "ok": true
    },
    "status": "local"
@@ -3949,10 +3955,10 @@
   "telugu-deep-oct15": 3,
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
-  "official-yt-oct15": 9
+  "official-yt-oct15": 10
  },
- "raw_total": 5528,
- "entry_count": 2784,
+ "raw_total": 5529,
+ "entry_count": 2785,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4024,7 +4030,7 @@
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 248
+   "entry_count": 249
   },
   {
    "key": "child-controller",
@@ -4042,7 +4048,7 @@
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 157
+   "entry_count": 158
   },
   {
    "key": "hypnotized-to-marry",
@@ -4432,7 +4438,7 @@
    "key": "tantrik",
    "label": "Tantrik / black-magic control",
    "legend_label": "Tantrik / black-magic control",
-   "entry_count": 37
+   "entry_count": 38
   },
   {
    "key": "vampire",
@@ -423013,78 +423019,6 @@
   },
   {
    "id": 2887,
-   "title": "Ave Kallu",
-   "subtitle": "Ep. 70",
-   "year": "2023",
-   "meta": "TV serial · Star Maa · Telugu · India",
-   "mechanism": "Vashikaran stone",
-   "confidence_flag": "Medium · official episode description",
-   "summary": "Kavya touches a vashikaran stone and falls under Mohini's control.",
-   "character": "Kavya",
-   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
-   "note": "",
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "format": "tv",
-   "categories": [
-    "tantrik",
-    "india-control"
-   ],
-   "sources": [
-    {
-     "label": "Star Maa (YouTube): Ave Kallu Ep 70",
-     "url": "https://www.youtube.com/watch?v=lgbtdwGYkgE"
-    }
-   ],
-   "youtube_ids": [
-    "lgbtdwGYkgE"
-   ],
-   "from_sources": [
-    "official-yt-oct15"
-   ],
-   "source_records": [
-    "official-yt-oct15:3"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": "thumbs/lgbtdwGYkgE.jpg",
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "official-yt-oct15:3": {
-     "title": "Ave Kallu",
-     "subtitle": "Ep. 70",
-     "year": "2023",
-     "format": "tv",
-     "meta": "TV serial · Star Maa · Telugu · India",
-     "mechanism": "Vashikaran stone",
-     "confidence_flag": "Medium · official episode description",
-     "summary": "Kavya touches a vashikaran stone and falls under Mohini's control.",
-     "character": "Kavya",
-     "categories": [
-      "tantrik",
-      "india-control"
-     ],
-     "sources": [
-      {
-       "label": "Star Maa (YouTube): Ave Kallu Ep 70",
-       "url": "https://www.youtube.com/watch?v=lgbtdwGYkgE"
-      }
-     ],
-     "standalone": true,
-     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
-     "group": "Official channel episode additions (Oct 2026)",
-     "pregnant_end": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "married": "not stated"
-    }
-   }
-  },
-  {
-   "id": 2888,
    "title": "Neethane Enthan Ponvasantham",
    "subtitle": "Ep 215",
    "year": "2020–2022",
@@ -423117,7 +423051,7 @@
     "official-yt-oct15"
    ],
    "source_records": [
-    "official-yt-oct15:4"
+    "official-yt-oct15:3"
    ],
    "index_only": false,
    "local_only": true,
@@ -423125,7 +423059,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "official-yt-oct15:4": {
+    "official-yt-oct15:3": {
      "title": "Neethane Enthan Ponvasantham",
      "subtitle": "Ep 215",
      "year": "2020–2022",
@@ -423156,7 +423090,7 @@
    }
   },
   {
-   "id": 2889,
+   "id": 2888,
    "title": "Sembaruthi",
    "subtitle": "Full Ep 633",
    "year": "2017–2022",
@@ -423190,7 +423124,7 @@
     "official-yt-oct15"
    ],
    "source_records": [
-    "official-yt-oct15:5"
+    "official-yt-oct15:4"
    ],
    "index_only": false,
    "local_only": true,
@@ -423198,7 +423132,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "official-yt-oct15:5": {
+    "official-yt-oct15:4": {
      "title": "Sembaruthi",
      "subtitle": "Full Ep 633",
      "year": "2017–2022",
@@ -423230,7 +423164,7 @@
    }
   },
   {
-   "id": 2890,
+   "id": 2889,
    "title": "Khichdi",
    "subtitle": "Season 3 Ep 4",
    "year": "2018",
@@ -423269,7 +423203,7 @@
     "official-yt-oct15"
    ],
    "source_records": [
-    "official-yt-oct15:6"
+    "official-yt-oct15:5"
    ],
    "index_only": false,
    "local_only": true,
@@ -423277,7 +423211,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "official-yt-oct15:6": {
+    "official-yt-oct15:5": {
      "title": "Khichdi",
      "subtitle": "Season 3 Ep 4",
      "year": "2018",
@@ -423313,7 +423247,7 @@
    }
   },
   {
-   "id": 2891,
+   "id": 2890,
    "title": "Bhabi Ji Ghar Par Hai!",
    "subtitle": "Episode 224 (7 Jan 2016)",
    "year": "2016",
@@ -423347,7 +423281,7 @@
     "official-yt-oct15"
    ],
    "source_records": [
-    "official-yt-oct15:7"
+    "official-yt-oct15:6"
    ],
    "index_only": false,
    "local_only": true,
@@ -423355,7 +423289,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "official-yt-oct15:7": {
+    "official-yt-oct15:6": {
      "title": "Bhabi Ji Ghar Par Hai!",
      "subtitle": "Episode 224 (7 Jan 2016)",
      "year": "2016",
@@ -423387,7 +423321,7 @@
    }
   },
   {
-   "id": 2892,
+   "id": 2891,
    "title": "Othiri Othiri Swapnangal",
    "subtitle": "EP 265",
    "year": "2026",
@@ -423421,7 +423355,7 @@
     "official-yt-oct15"
    ],
    "source_records": [
-    "official-yt-oct15:8"
+    "official-yt-oct15:7"
    ],
    "index_only": false,
    "local_only": true,
@@ -423429,7 +423363,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "official-yt-oct15:8": {
+    "official-yt-oct15:7": {
      "standalone": true,
      "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
      "group": "Official channel episode additions (Oct 2026)",
@@ -423461,7 +423395,7 @@
    }
   },
   {
-   "id": 2893,
+   "id": 2892,
    "title": "Naagamandala",
    "subtitle": "Full ep 97 (10 May 2024)",
    "year": "2024",
@@ -423494,7 +423428,7 @@
     "official-yt-oct15"
    ],
    "source_records": [
-    "official-yt-oct15:9"
+    "official-yt-oct15:8"
    ],
    "index_only": false,
    "local_only": true,
@@ -423502,7 +423436,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "official-yt-oct15:9": {
+    "official-yt-oct15:8": {
      "standalone": true,
      "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
      "group": "Official channel episode additions (Oct 2026)",
@@ -423527,6 +423461,152 @@
       {
        "label": "Zee Kannada (YouTube): A Mesmerised Punya Does a Snake Dance - Naagamandala - Full ep 97",
        "url": "https://www.youtube.com/watch?v=d9YEJV_Zaho"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2893,
+   "title": "Mohi",
+   "subtitle": "Full Episode 105",
+   "year": "2024",
+   "meta": "TV serial · StarPlus · Hindi · India",
+   "mechanism": "Vashikaran",
+   "confidence_flag": "Low-Medium · official episode title",
+   "summary": "Official title asks 'Kisne kiya Mohi pe vashikaran?' — the heroine Mohi is under a vashikaran spell; who cast it is the episode's question.",
+   "character": "Mohi",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "tantrik",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "StarPlus (YouTube): Kisne kiya Mohi pe वशीकरण? | Full Episode:105 | Mohi",
+     "url": "https://www.youtube.com/watch?v=Olajvr8CLy4"
+    }
+   ],
+   "youtube_ids": [
+    "Olajvr8CLy4"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:9"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/Olajvr8CLy4.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:9": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Mohi",
+     "subtitle": "Full Episode 105",
+     "year": "2024",
+     "meta": "TV serial · StarPlus · Hindi · India",
+     "mechanism": "Vashikaran",
+     "confidence_flag": "Low-Medium · official episode title",
+     "summary": "Official title asks 'Kisne kiya Mohi pe vashikaran?' — the heroine Mohi is under a vashikaran spell; who cast it is the episode's question.",
+     "character": "Mohi",
+     "categories": [
+      "tantrik",
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "StarPlus (YouTube): Kisne kiya Mohi pe वशीकरण? | Full Episode:105 | Mohi",
+       "url": "https://www.youtube.com/watch?v=Olajvr8CLy4"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2894,
+   "title": "Kiranmala",
+   "subtitle": "Vashikaran yagna clip (Jalsha Classics)",
+   "year": "2014–2016",
+   "meta": "TV serial · Star Jalsha · Bengali · India",
+   "mechanism": "Vashikaran yagna by sorcerer (attempt)",
+   "confidence_flag": "Low · official clip title poses it as a question; outcome not stated",
+   "summary": "The sorcerer Kaltapasvi performs a vashikaran yagna to bring Kiranmala under his control.",
+   "character": "Kiranmala",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "tantrik",
+    "india-control",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "Star Jalsha (YouTube): বশীকরণ যজ্ঞ করে কি কিরণমালাকে বশ করতে পারবে কালতপস্বী ?",
+     "url": "https://www.youtube.com/watch?v=-qJ-cfHShbw"
+    }
+   ],
+   "youtube_ids": [
+    "-qJ-cfHShbw"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:10"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/-qJ-cfHShbw.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:10": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Kiranmala",
+     "subtitle": "Vashikaran yagna clip (Jalsha Classics)",
+     "year": "2014–2016",
+     "meta": "TV serial · Star Jalsha · Bengali · India",
+     "mechanism": "Vashikaran yagna by sorcerer (attempt)",
+     "confidence_flag": "Low · official clip title poses it as a question; outcome not stated",
+     "summary": "The sorcerer Kaltapasvi performs a vashikaran yagna to bring Kiranmala under his control.",
+     "character": "Kiranmala",
+     "categories": [
+      "tantrik",
+      "india-control",
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "Star Jalsha (YouTube): বশীকরণ যজ্ঞ করে কি কিরণমালাকে বশ করতে পারবে কালতপস্বী ?",
+       "url": "https://www.youtube.com/watch?v=-qJ-cfHShbw"
       }
      ]
     }
@@ -427522,11 +427602,11 @@
      "notes": [],
      "items": [
       {
-       "id": 2891,
+       "id": 2890,
        "from_source": "official-yt-oct15"
       },
       {
-       "id": 2890,
+       "id": 2889,
        "from_source": "official-yt-oct15"
       },
       {
@@ -429129,7 +429209,8 @@
     "royal-hypnosis-loose",
     "widow-divorcee-oct14",
     "fanwiki-screen-oct14",
-    "new-angles-oct15"
+    "new-angles-oct15",
+    "official-yt-oct15"
    ],
    "groups": [
     {
@@ -431061,6 +431142,17 @@
       }
      ],
      "from_source": "new-angles-oct15"
+    },
+    {
+     "title": "Official channel episode additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2894,
+       "from_source": "official-yt-oct15"
+      }
+     ],
+     "from_source": "official-yt-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -431076,7 +431168,8 @@
     "royal-hypnosis-loose": null,
     "widow-divorcee-oct14": null,
     "fanwiki-screen-oct14": null,
-    "new-angles-oct15": null
+    "new-angles-oct15": null,
+    "official-yt-oct15": null
    }
   },
   {
@@ -433072,15 +433165,19 @@
      "notes": [],
      "items": [
       {
-       "id": 2887,
-       "from_source": "official-yt-oct15"
-      },
-      {
-       "id": 2891,
-       "from_source": "official-yt-oct15"
-      },
-      {
        "id": 2890,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2889,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2894,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2893,
        "from_source": "official-yt-oct15"
       },
       {
@@ -433092,19 +433189,19 @@
        "from_source": "official-yt-oct15"
       },
       {
-       "id": 2893,
-       "from_source": "official-yt-oct15"
-      },
-      {
-       "id": 2888,
-       "from_source": "official-yt-oct15"
-      },
-      {
        "id": 2892,
        "from_source": "official-yt-oct15"
       },
       {
-       "id": 2889,
+       "id": 2887,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2891,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2888,
        "from_source": "official-yt-oct15"
       }
      ],
@@ -442769,11 +442866,11 @@
      "notes": [],
      "items": [
       {
-       "id": 2891,
+       "id": 2890,
        "from_source": "official-yt-oct15"
       },
       {
-       "id": 2890,
+       "id": 2889,
        "from_source": "official-yt-oct15"
       },
       {
@@ -442785,11 +442882,11 @@
        "from_source": "official-yt-oct15"
       },
       {
-       "id": 2892,
+       "id": 2891,
        "from_source": "official-yt-oct15"
       },
       {
-       "id": 2889,
+       "id": 2888,
        "from_source": "official-yt-oct15"
       }
      ],
@@ -445104,7 +445201,7 @@
      "notes": [],
      "items": [
       {
-       "id": 2892,
+       "id": 2891,
        "from_source": "official-yt-oct15"
       }
      ],
@@ -461826,7 +461923,7 @@
      "notes": [],
      "items": [
       {
-       "id": 2893,
+       "id": 2892,
        "from_source": "official-yt-oct15"
       }
      ],
@@ -462352,7 +462449,7 @@
      "notes": [],
      "items": [
       {
-       "id": 2889,
+       "id": 2888,
        "from_source": "official-yt-oct15"
       }
      ],
@@ -462912,11 +463009,15 @@
      "notes": [],
      "items": [
       {
-       "id": 2887,
+       "id": 2894,
        "from_source": "official-yt-oct15"
       },
       {
-       "id": 2888,
+       "id": 2893,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2887,
        "from_source": "official-yt-oct15"
       }
      ],

@@ -62,34 +62,6 @@
    "married": "not stated"
   },
   {
-   "title": "Ave Kallu",
-   "subtitle": "Ep. 70",
-   "year": "2023",
-   "format": "tv",
-   "meta": "TV serial · Star Maa · Telugu · India",
-   "mechanism": "Vashikaran stone",
-   "confidence_flag": "Medium · official episode description",
-   "summary": "Kavya touches a vashikaran stone and falls under Mohini's control.",
-   "character": "Kavya",
-   "categories": [
-    "tantrik",
-    "india-control"
-   ],
-   "sources": [
-    {
-     "label": "Star Maa (YouTube): Ave Kallu Ep 70",
-     "url": "https://www.youtube.com/watch?v=lgbtdwGYkgE"
-    }
-   ],
-   "standalone": true,
-   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
-   "group": "Official channel episode additions (Oct 2026)",
-   "pregnant_end": "not stated",
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated"
-  },
-  {
    "title": "Neethane Enthan Ponvasantham",
    "subtitle": "Ep 215",
    "year": "2020–2022",
@@ -264,7 +236,70 @@
      "url": "https://www.youtube.com/watch?v=d9YEJV_Zaho"
     }
    ]
+  },
+  {
+   "standalone": true,
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "group": "Official channel episode additions (Oct 2026)",
+   "format": "tv",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "title": "Mohi",
+   "subtitle": "Full Episode 105",
+   "year": "2024",
+   "meta": "TV serial · StarPlus · Hindi · India",
+   "mechanism": "Vashikaran",
+   "confidence_flag": "Low-Medium · official episode title",
+   "summary": "Official title asks 'Kisne kiya Mohi pe vashikaran?' — the heroine Mohi is under a vashikaran spell; who cast it is the episode's question.",
+   "character": "Mohi",
+   "categories": [
+    "tantrik",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "StarPlus (YouTube): Kisne kiya Mohi pe वशीकरण? | Full Episode:105 | Mohi",
+     "url": "https://www.youtube.com/watch?v=Olajvr8CLy4"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "group": "Official channel episode additions (Oct 2026)",
+   "format": "tv",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "title": "Kiranmala",
+   "subtitle": "Vashikaran yagna clip (Jalsha Classics)",
+   "year": "2014–2016",
+   "meta": "TV serial · Star Jalsha · Bengali · India",
+   "mechanism": "Vashikaran yagna by sorcerer (attempt)",
+   "confidence_flag": "Low · official clip title poses it as a question; outcome not stated",
+   "summary": "The sorcerer Kaltapasvi performs a vashikaran yagna to bring Kiranmala under his control.",
+   "character": "Kiranmala",
+   "categories": [
+    "tantrik",
+    "india-control",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "Star Jalsha (YouTube): বশীকরণ যজ্ঞ করে কি কিরণমালাকে বশ করতে পারবে কালতপস্বী ?",
+     "url": "https://www.youtube.com/watch?v=-qJ-cfHShbw"
+    }
+   ]
   }
  ],
- "dropped": []
+ "dropped": [
+  {
+   "title": "Ave Kallu",
+   "subtitle": "Ep. 70",
+   "reason": "Controller Mohini is female (woman-as-controller rule)"
+  }
+ ]
 }

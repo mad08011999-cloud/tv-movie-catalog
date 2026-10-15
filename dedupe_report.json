@@ -43451,11 +43451,11 @@
   "telugu-deep-oct15": 3,
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
-  "official-yt-oct15": 9
+  "official-yt-oct15": 10
  },
- "entry_count_after_dedupe": 2784,
+ "entry_count_after_dedupe": 2785,
  "within_source_groups": 3,
  "cross_source_groups": 1806,
  "index_only_records": 65,
- "local_only_records": 563
+ "local_only_records": 564
 }
