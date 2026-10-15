@@ -1,0 +1,149 @@
+{
+ "id": "new-angles-oct15",
+ "label": "New-angles sweep: TV Tropes, Letterboxd, soaps, K/Turkish/C-dramas (15 Oct 2026)",
+ "group_title": "New-angles sweep additions (Oct 2026)",
+ "description": "Sweep of TV Tropes trope pages, Letterboxd, soap operas and Korean/Turkish/Chinese dramas; minors excluded.",
+ "records": [
+  {
+   "title": "The Legend of William Tell",
+   "subtitle": "S1E1 \"Shaytana's Eye\" and later episodes",
+   "year": "1998",
+   "format": "tv",
+   "meta": "TV fantasy series · New Zealand · English",
+   "mechanism": "Sorcerer's crystal (Shaytana's Eye) hypnosis; dream projection",
+   "confidence_flag": "Medium-high · episode recap + TV Tropes + episode listings",
+   "summary": "Sorcerer Kreel and Lord Xax seize the kingdom of Kale. Kreel uses Shaytana's Eye to hypnotise Princess Vara so she trusts Xax as 'Lord Protector' and doesn't want to be rescued; he does it at least three times, once by planting dreams in her mind.",
+   "character": "Princess Vara",
+   "categories": [
+    "royal-hypnosis",
+    "fantasy"
+   ],
+   "married": "no",
+   "sources": [
+    {
+     "label": "rewind_tv recap: Shaytana's Eye",
+     "url": "https://rewind-tv.livejournal.com/13948.html"
+    },
+    {
+     "label": "TV Tropes: The Legend of William Tell",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Series/TheLegendOfWilliamTell"
+    },
+    {
+     "label": "SideReel S1E1 (aired 30 Aug 1998)",
+     "url": "https://www.sidereel.com/tv-shows/the-legend-of-william-tell/season-1/episode-1"
+    }
+   ],
+   "standalone": true,
+   "provenance": "New-angles sweep, 15 Oct 2026 PT",
+   "group": "New-angles sweep additions (Oct 2026)",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated"
+  },
+  {
+   "title": "Hypnorotica",
+   "year": "1973",
+   "format": "movie",
+   "meta": "Film · USA · English · adult (X)",
+   "mechanism": "Hypnotherapist's sessions with patients",
+   "confidence_flag": "Medium · Letterboxd synopsis + review",
+   "summary": "Adult anthology framed by a hypnotist-therapist (Peter Savage) discussing patients he has entranced, including a woman traumatised by abuse; vignettes of the hypnotised patients follow.",
+   "character": "Female patients (unnamed)",
+   "categories": [
+    "adult-hypnosis",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Letterboxd: Hypnorotica (1973)",
+     "url": "https://letterboxd.com/film/hypnorotica/details/"
+    }
+   ],
+   "fit_note": "Also known as The Hypnotist / Hypnotized!",
+   "standalone": true,
+   "provenance": "New-angles sweep, 15 Oct 2026 PT",
+   "group": "New-angles sweep additions (Oct 2026)",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated"
+  },
+  {
+   "title": "Signal",
+   "subtitle": "Episode 9",
+   "year": "2016",
+   "format": "tv",
+   "meta": "TV drama · tvN · South Korea · Korean",
+   "mechanism": "Voluntary forensic hypnosis to recover memory",
+   "confidence_flag": "Medium-high · news recap",
+   "summary": "Detective Cha Soo-hyun reveals she survived the Hongwon-dong serial murders and undergoes hypnosis to recall the killer; she remembers a rotten smell and hitting something, then begins shaking and the session fails.",
+   "character": "Cha Soo-hyun (Kim Hye-soo)",
+   "categories": [
+    "medical"
+   ],
+   "married": "no",
+   "sources": [
+    {
+     "label": "KDramaStars: Signal Kim Hye Soo tries hypnosis (Feb 2016)",
+     "url": "https://www.kdramastars.com/articles/113967/20160226/signal-kim-hye-soo-tries-hypnosis.htm"
+    }
+   ],
+   "standalone": true,
+   "provenance": "New-angles sweep, 15 Oct 2026 PT",
+   "group": "New-angles sweep additions (Oct 2026)",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated"
+  },
+  {
+   "title": "Cennet Mahallesi",
+   "subtitle": "Episode 61",
+   "year": "2004–2007",
+   "format": "tv",
+   "meta": "TV comedy · Show TV · Turkey · Turkish",
+   "mechanism": "Stage-style hypnosis; obeys every command",
+   "confidence_flag": "Medium · official episode synopsis; episode air year not confirmed",
+   "summary": "After Menekşe and Muharrem attend a hypnosis weight-loss session, Beter Ali sees that hypnotised people obey every order and decides to hypnotise Penbe. Hypnotised, she carries out every command and the whole neighbourhood tries to take advantage.",
+   "character": "Penbe",
+   "categories": [
+    "index-62",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "ShowTürk: Cennet Mahallesi 61. Bölüm",
+     "url": "https://www.showturk.com.tr/dizi/tum_bolumler/cennet-mahallesi-sezon-1-bolum-61-izle/15714"
+    }
+   ],
+   "standalone": true,
+   "provenance": "New-angles sweep, 15 Oct 2026 PT",
+   "group": "New-angles sweep additions (Oct 2026)",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated"
+  }
+ ],
+ "dropped": [
+  {
+   "title": "Sen Çal Kapımı E39 (Turkish 2021)",
+   "reason": "Eda only pretends to be hypnotised"
+  },
+  {
+   "title": "Alemin Kıralı E30 (Turkish 2012)",
+   "reason": "the man (Kubat) is hypnotised, not Nihale"
+  },
+  {
+   "title": "How to Seduce Women Through Hypnosis (1992)",
+   "reason": "instructional video, not a narrative title"
+  },
+  {
+   "title": "The Hypnotized (Korea 2004), 被催眠的她 (2026), She Did What He Wanted (1971), Hypnotic (2021), Dark Shadows, Passions, Port Charles, B&B, Days, Y&R",
+   "reason": "already catalogued"
+  },
+  {
+   "title": "TV Tropes Hypnotize the Captive / Mind Control pages",
+   "reason": "remaining entries are animation, comics, games or already catalogued"
+  }
+ ]
+}

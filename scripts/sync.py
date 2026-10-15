@@ -118,6 +118,8 @@ SOURCES = [
      "local": "sources/fanwiki-screen-oct14.json", "required": False},
     {"id": "telugu-deep-oct15", "label": "Telugu deep sweep (15 Oct 2026)",
      "local": "sources/telugu-deep-oct15.json", "required": False},
+    {"id": "new-angles-oct15", "label": "New-angles sweep (15 Oct 2026)",
+     "local": "sources/new-angles-oct15.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "

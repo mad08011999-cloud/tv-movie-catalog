@@ -3813,6 +3813,40 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "new-angles-oct15",
+   "label": "New-angles sweep (15 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/new-angles-oct15.json",
+   "description": "Sweep of TV Tropes trope pages, Letterboxd, soap operas and Korean/Turkish/Chinese dramas; minors excluded.",
+   "dropped": [
+    {
+     "title": "Sen Çal Kapımı E39 (Turkish 2021)",
+     "reason": "Eda only pretends to be hypnotised"
+    },
+    {
+     "title": "Alemin Kıralı E30 (Turkish 2012)",
+     "reason": "the man (Kubat) is hypnotised, not Nihale"
+    },
+    {
+     "title": "How to Seduce Women Through Hypnosis (1992)",
+     "reason": "instructional video, not a narrative title"
+    },
+    {
+     "title": "The Hypnotized (Korea 2004), 被催眠的她 (2026), She Did What He Wanted (1971), Hypnotic (2021), Dark Shadows, Passions, Port Charles, B&B, Days, Y&R",
+     "reason": "already catalogued"
+    },
+    {
+     "title": "TV Tropes Hypnotize the Captive / Mind Control pages",
+     "reason": "remaining entries are animation, comics, games or already catalogued"
+    }
+   ],
+   "check": {
+    "raw_count": 4,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -3853,10 +3887,11 @@ window.CATALOG = {
   "recheck-oct14": 3,
   "indian-langs-oct14": 4,
   "fanwiki-screen-oct14": 199,
-  "telugu-deep-oct15": 3
+  "telugu-deep-oct15": 3,
+  "new-angles-oct15": 4
  },
- "raw_total": 5513,
- "entry_count": 2769,
+ "raw_total": 5517,
+ "entry_count": 2773,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -3874,7 +3909,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 246
+   "entry_count": 247
   },
   {
    "key": "walkin",
@@ -3886,7 +3921,7 @@ window.CATALOG = {
    "key": "index-62",
    "label": "Comedy",
    "legend_label": "Comedy",
-   "entry_count": 16
+   "entry_count": 17
   },
   {
    "key": "index-61",
@@ -3928,7 +3963,7 @@ window.CATALOG = {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 247
+   "entry_count": 248
   },
   {
    "key": "child-controller",
@@ -3976,7 +4011,7 @@ window.CATALOG = {
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 609
+   "entry_count": 610
   },
   {
    "key": "wife",
@@ -4018,7 +4053,7 @@ window.CATALOG = {
    "key": "royal-hypnosis",
    "label": "Hypnotized queen/princess for marriage or the throne",
    "legend_label": "Hypnotized queen / princess",
-   "entry_count": 45
+   "entry_count": 46
   },
   {
    "key": "love",
@@ -4054,7 +4089,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 112
+   "entry_count": 114
   },
   {
    "key": "mom-partner-control",
@@ -422318,6 +422353,301 @@ window.CATALOG = {
      "kids_together": "not stated"
     }
    }
+  },
+  {
+   "id": 2879,
+   "title": "The Legend of William Tell",
+   "subtitle": "S1E1 \"Shaytana's Eye\" and later episodes",
+   "year": "1998",
+   "meta": "TV fantasy series · New Zealand · English",
+   "mechanism": "Sorcerer's crystal (Shaytana's Eye) hypnosis; dream projection",
+   "confidence_flag": "Medium-high · episode recap + TV Tropes + episode listings",
+   "summary": "Sorcerer Kreel and Lord Xax seize the kingdom of Kale. Kreel uses Shaytana's Eye to hypnotise Princess Vara so she trusts Xax as 'Lord Protector' and doesn't want to be rescued; he does it at least three times, once by planting dreams in her mind.",
+   "character": "Princess Vara",
+   "provenance": "New-angles sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "no",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "royal-hypnosis",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "rewind_tv recap: Shaytana's Eye",
+     "url": "https://rewind-tv.livejournal.com/13948.html"
+    },
+    {
+     "label": "TV Tropes: The Legend of William Tell",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Series/TheLegendOfWilliamTell"
+    },
+    {
+     "label": "SideReel S1E1 (aired 30 Aug 1998)",
+     "url": "https://www.sidereel.com/tv-shows/the-legend-of-william-tell/season-1/episode-1"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "new-angles-oct15"
+   ],
+   "source_records": [
+    "new-angles-oct15:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "new-angles-oct15:1": {
+     "title": "The Legend of William Tell",
+     "subtitle": "S1E1 \"Shaytana's Eye\" and later episodes",
+     "year": "1998",
+     "format": "tv",
+     "meta": "TV fantasy series · New Zealand · English",
+     "mechanism": "Sorcerer's crystal (Shaytana's Eye) hypnosis; dream projection",
+     "confidence_flag": "Medium-high · episode recap + TV Tropes + episode listings",
+     "summary": "Sorcerer Kreel and Lord Xax seize the kingdom of Kale. Kreel uses Shaytana's Eye to hypnotise Princess Vara so she trusts Xax as 'Lord Protector' and doesn't want to be rescued; he does it at least three times, once by planting dreams in her mind.",
+     "character": "Princess Vara",
+     "categories": [
+      "royal-hypnosis",
+      "fantasy"
+     ],
+     "married": "no",
+     "sources": [
+      {
+       "label": "rewind_tv recap: Shaytana's Eye",
+       "url": "https://rewind-tv.livejournal.com/13948.html"
+      },
+      {
+       "label": "TV Tropes: The Legend of William Tell",
+       "url": "https://tvtropes.org/pmwiki/pmwiki.php/Series/TheLegendOfWilliamTell"
+      },
+      {
+       "label": "SideReel S1E1 (aired 30 Aug 1998)",
+       "url": "https://www.sidereel.com/tv-shows/the-legend-of-william-tell/season-1/episode-1"
+      }
+     ],
+     "standalone": true,
+     "provenance": "New-angles sweep, 15 Oct 2026 PT",
+     "group": "New-angles sweep additions (Oct 2026)",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated"
+    }
+   }
+  },
+  {
+   "id": 2880,
+   "title": "Hypnorotica",
+   "subtitle": "",
+   "year": "1973",
+   "meta": "Film · USA · English · adult (X)",
+   "mechanism": "Hypnotherapist's sessions with patients",
+   "confidence_flag": "Medium · Letterboxd synopsis + review",
+   "summary": "Adult anthology framed by a hypnotist-therapist (Peter Savage) discussing patients he has entranced, including a woman traumatised by abuse; vignettes of the hypnotised patients follow.",
+   "character": "Female patients (unnamed)",
+   "provenance": "New-angles sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Also known as The Hypnotist / Hypnotized!",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Letterboxd: Hypnorotica (1973)",
+     "url": "https://letterboxd.com/film/hypnorotica/details/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "new-angles-oct15"
+   ],
+   "source_records": [
+    "new-angles-oct15:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "new-angles-oct15:2": {
+     "title": "Hypnorotica",
+     "year": "1973",
+     "format": "movie",
+     "meta": "Film · USA · English · adult (X)",
+     "mechanism": "Hypnotherapist's sessions with patients",
+     "confidence_flag": "Medium · Letterboxd synopsis + review",
+     "summary": "Adult anthology framed by a hypnotist-therapist (Peter Savage) discussing patients he has entranced, including a woman traumatised by abuse; vignettes of the hypnotised patients follow.",
+     "character": "Female patients (unnamed)",
+     "categories": [
+      "adult-hypnosis",
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Letterboxd: Hypnorotica (1973)",
+       "url": "https://letterboxd.com/film/hypnorotica/details/"
+      }
+     ],
+     "fit_note": "Also known as The Hypnotist / Hypnotized!",
+     "standalone": true,
+     "provenance": "New-angles sweep, 15 Oct 2026 PT",
+     "group": "New-angles sweep additions (Oct 2026)",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated"
+    }
+   }
+  },
+  {
+   "id": 2881,
+   "title": "Signal",
+   "subtitle": "Episode 9",
+   "year": "2016",
+   "meta": "TV drama · tvN · South Korea · Korean",
+   "mechanism": "Voluntary forensic hypnosis to recover memory",
+   "confidence_flag": "Medium-high · news recap",
+   "summary": "Detective Cha Soo-hyun reveals she survived the Hongwon-dong serial murders and undergoes hypnosis to recall the killer; she remembers a rotten smell and hitting something, then begins shaking and the session fails.",
+   "character": "Cha Soo-hyun (Kim Hye-soo)",
+   "provenance": "New-angles sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "no",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "KDramaStars: Signal Kim Hye Soo tries hypnosis (Feb 2016)",
+     "url": "https://www.kdramastars.com/articles/113967/20160226/signal-kim-hye-soo-tries-hypnosis.htm"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "new-angles-oct15"
+   ],
+   "source_records": [
+    "new-angles-oct15:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "new-angles-oct15:3": {
+     "title": "Signal",
+     "subtitle": "Episode 9",
+     "year": "2016",
+     "format": "tv",
+     "meta": "TV drama · tvN · South Korea · Korean",
+     "mechanism": "Voluntary forensic hypnosis to recover memory",
+     "confidence_flag": "Medium-high · news recap",
+     "summary": "Detective Cha Soo-hyun reveals she survived the Hongwon-dong serial murders and undergoes hypnosis to recall the killer; she remembers a rotten smell and hitting something, then begins shaking and the session fails.",
+     "character": "Cha Soo-hyun (Kim Hye-soo)",
+     "categories": [
+      "medical"
+     ],
+     "married": "no",
+     "sources": [
+      {
+       "label": "KDramaStars: Signal Kim Hye Soo tries hypnosis (Feb 2016)",
+       "url": "https://www.kdramastars.com/articles/113967/20160226/signal-kim-hye-soo-tries-hypnosis.htm"
+      }
+     ],
+     "standalone": true,
+     "provenance": "New-angles sweep, 15 Oct 2026 PT",
+     "group": "New-angles sweep additions (Oct 2026)",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated"
+    }
+   }
+  },
+  {
+   "id": 2882,
+   "title": "Cennet Mahallesi",
+   "subtitle": "Episode 61",
+   "year": "2004–2007",
+   "meta": "TV comedy · Show TV · Turkey · Turkish",
+   "mechanism": "Stage-style hypnosis; obeys every command",
+   "confidence_flag": "Medium · official episode synopsis; episode air year not confirmed",
+   "summary": "After Menekşe and Muharrem attend a hypnosis weight-loss session, Beter Ali sees that hypnotised people obey every order and decides to hypnotise Penbe. Hypnotised, she carries out every command and the whole neighbourhood tries to take advantage.",
+   "character": "Penbe",
+   "provenance": "New-angles sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "index-62",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "ShowTürk: Cennet Mahallesi 61. Bölüm",
+     "url": "https://www.showturk.com.tr/dizi/tum_bolumler/cennet-mahallesi-sezon-1-bolum-61-izle/15714"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "new-angles-oct15"
+   ],
+   "source_records": [
+    "new-angles-oct15:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "new-angles-oct15:4": {
+     "title": "Cennet Mahallesi",
+     "subtitle": "Episode 61",
+     "year": "2004–2007",
+     "format": "tv",
+     "meta": "TV comedy · Show TV · Turkey · Turkish",
+     "mechanism": "Stage-style hypnosis; obeys every command",
+     "confidence_flag": "Medium · official episode synopsis; episode air year not confirmed",
+     "summary": "After Menekşe and Muharrem attend a hypnosis weight-loss session, Beter Ali sees that hypnotised people obey every order and decides to hypnotise Penbe. Hypnotised, she carries out every command and the whole neighbourhood tries to take advantage.",
+     "character": "Penbe",
+     "categories": [
+      "index-62",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "ShowTürk: Cennet Mahallesi 61. Bölüm",
+       "url": "https://www.showturk.com.tr/dizi/tum_bolumler/cennet-mahallesi-sezon-1-bolum-61-izle/15714"
+      }
+     ],
+     "standalone": true,
+     "provenance": "New-angles sweep, 15 Oct 2026 PT",
+     "group": "New-angles sweep additions (Oct 2026)",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated"
+    }
+   }
   }
  ],
  "sections": [
@@ -422771,7 +423101,8 @@ window.CATALOG = {
     "no-link-additions",
     "hypno-sweep-oct9",
     "round2",
-    "round3"
+    "round3",
+    "new-angles-oct15"
    ],
    "groups": [
     {
@@ -425684,6 +426015,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "round3"
+    },
+    {
+     "title": "New-angles sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2880,
+       "from_source": "new-angles-oct15"
+      }
+     ],
+     "from_source": "new-angles-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -425700,7 +426042,8 @@ window.CATALOG = {
     "no-link-additions": null,
     "hypno-sweep-oct9": null,
     "round2": null,
-    "round3": null
+    "round3": null,
+    "new-angles-oct15": null
    }
   },
   {
@@ -426177,12 +426520,14 @@ window.CATALOG = {
    "from_sources": [
     "ig6qlxqxoxvcxla",
     "indian-langs-oct14",
-    "fanwiki-screen-oct14"
+    "fanwiki-screen-oct14",
+    "new-angles-oct15"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 8,
     "indian-langs-oct14": null,
-    "fanwiki-screen-oct14": null
+    "fanwiki-screen-oct14": null,
+    "new-angles-oct15": null
    },
    "groups": [
     {
@@ -426262,6 +426607,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "fanwiki-screen-oct14"
+    },
+    {
+     "title": "New-angles sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2882,
+       "from_source": "new-angles-oct15"
+      }
+     ],
+     "from_source": "new-angles-oct15"
     }
    ]
   },
@@ -427842,7 +428198,8 @@ window.CATALOG = {
     "hypnosis-assault-loose",
     "royal-hypnosis-loose",
     "widow-divorcee-oct14",
-    "fanwiki-screen-oct14"
+    "fanwiki-screen-oct14",
+    "new-angles-oct15"
    ],
    "groups": [
     {
@@ -429763,6 +430120,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "fanwiki-screen-oct14"
+    },
+    {
+     "title": "New-angles sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2879,
+       "from_source": "new-angles-oct15"
+      }
+     ],
+     "from_source": "new-angles-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -429777,7 +430145,8 @@ window.CATALOG = {
     "hypnosis-assault-loose": null,
     "royal-hypnosis-loose": null,
     "widow-divorcee-oct14": null,
-    "fanwiki-screen-oct14": null
+    "fanwiki-screen-oct14": null,
+    "new-angles-oct15": null
    }
   },
   {
@@ -432746,7 +433115,8 @@ window.CATALOG = {
     "round2",
     "recheck-oct14",
     "indian-langs-oct14",
-    "fanwiki-screen-oct14"
+    "fanwiki-screen-oct14",
+    "new-angles-oct15"
    ],
    "groups": [
     {
@@ -436733,6 +437103,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "fanwiki-screen-oct14"
+    },
+    {
+     "title": "New-angles sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2882,
+       "from_source": "new-angles-oct15"
+      }
+     ],
+     "from_source": "new-angles-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -436751,7 +437132,8 @@ window.CATALOG = {
     "round2": null,
     "recheck-oct14": null,
     "indian-langs-oct14": null,
-    "fanwiki-screen-oct14": null
+    "fanwiki-screen-oct14": null,
+    "new-angles-oct15": null
    }
   },
   {
@@ -438913,7 +439295,8 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "royal-hypnosis",
-    "royal-hypnosis-loose"
+    "royal-hypnosis-loose",
+    "new-angles-oct15"
    ],
    "groups": [
     {
@@ -439133,11 +439516,23 @@ window.CATALOG = {
       }
      ],
      "from_source": "royal-hypnosis-loose"
+    },
+    {
+     "title": "New-angles sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2879,
+       "from_source": "new-angles-oct15"
+      }
+     ],
+     "from_source": "new-angles-oct15"
     }
    ],
    "declared_count_by_source": {
     "royal-hypnosis": null,
-    "royal-hypnosis-loose": null
+    "royal-hypnosis-loose": null,
+    "new-angles-oct15": null
    }
   },
   {
@@ -442641,7 +443036,8 @@ window.CATALOG = {
     "widow-divorcee-oct14b",
     "indian-langs-oct14",
     "fanwiki-screen-oct14",
-    "telugu-deep-oct15"
+    "telugu-deep-oct15",
+    "new-angles-oct15"
    ],
    "groups": [
     {
@@ -443665,6 +444061,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "telugu-deep-oct15"
+    },
+    {
+     "title": "New-angles sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2880,
+       "from_source": "new-angles-oct15"
+      },
+      {
+       "id": 2881,
+       "from_source": "new-angles-oct15"
+      }
+     ],
+     "from_source": "new-angles-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -443684,7 +444095,8 @@ window.CATALOG = {
     "widow-divorcee-oct14b": null,
     "indian-langs-oct14": null,
     "fanwiki-screen-oct14": null,
-    "telugu-deep-oct15": null
+    "telugu-deep-oct15": null,
+    "new-angles-oct15": null
    }
   },
   {
