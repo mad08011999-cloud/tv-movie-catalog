@@ -385,13 +385,246 @@
    "kids_status": "not stated",
    "kids_together": "not stated",
    "married": "yes (wife, per synopsis)"
-  }
- ],
- "dropped": [
+  },
   {
+   "standalone": true,
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "group": "Official channel episode additions (Oct 2026)",
+   "format": "tv",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
    "title": "Ave Kallu",
    "subtitle": "Ep. 70",
-   "reason": "Controller Mohini is female (woman-as-controller rule)"
+   "year": "2023",
+   "meta": "TV serial · Star Maa · Telugu · India",
+   "mechanism": "Vashikaran stone (witch's control)",
+   "confidence_flag": "Medium · official clip description",
+   "summary": "Kavya tries to kill the witch Mohini with a trishul; Mohini throws a stone and, on touching it, Kavya comes under Mohini's control.",
+   "character": "Kavya",
+   "categories": [
+    "tantrik",
+    "india-control",
+    "evil-female"
+   ],
+   "sources": [
+    {
+     "label": "Star Maa (YouTube): Ave Kallu Ep 70 Highlight 1 | వశీకరణ రాయిని తాకిన Kavya",
+     "url": "https://www.youtube.com/watch?v=lgbtdwGYkgE"
+    }
+   ],
+   "fit_note": "Adult status inferred from adult-cast supernatural serial; not explicitly stated."
+  },
+  {
+   "standalone": true,
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "group": "Official channel episode additions (Oct 2026)",
+   "format": "tv",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "title": "Ave Kallu",
+   "subtitle": "Ep. 33",
+   "year": "2023",
+   "meta": "TV serial · Star Maa · Telugu · India",
+   "mechanism": "Witch's control (vasham)",
+   "confidence_flag": "Medium · official clip description",
+   "summary": "Mohini takes control of Vaidehi to execute her plan and escape her curse.",
+   "character": "Vaidehi",
+   "categories": [
+    "india-control",
+    "evil-female",
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "Star Maa (YouTube): Ave Kallu Ep-33 Highlights | మోహిని వైదేహిని తన వశం చేసుకుంది",
+     "url": "https://www.youtube.com/watch?v=DyeejOpkXtI"
+    }
+   ],
+   "fit_note": "Adult status inferred; not explicitly stated."
+  },
+  {
+   "standalone": true,
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "group": "Official channel episode additions (Oct 2026)",
+   "format": "tv",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "title": "Naagin 2",
+   "subtitle": "Ep. 73 (highlights)",
+   "year": "2016–17",
+   "meta": "TV serial · Colors TV · Hindi · India",
+   "mechanism": "Hypnotic spell (mind control)",
+   "confidence_flag": "Medium · official clip description",
+   "summary": "Rocky breaks the powerful hypnotic spell Taniya had cast over Ruchika to control her mind.",
+   "character": "Ruchika",
+   "categories": [
+    "india-control",
+    "indian-female-hypnosis",
+    "evil-female"
+   ],
+   "sources": [
+    {
+     "label": "Colors TV (YouTube): Naagin S2 | Highlights Ep. 73 | The End Of Taniya Spell On Ruchika",
+     "url": "https://www.youtube.com/watch?v=G2MbLX47o5k"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "group": "Official channel episode additions (Oct 2026)",
+   "format": "tv",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "title": "Saath Nibhaana Saathiya",
+   "subtitle": "Full Ep. 783",
+   "year": "2010–2017",
+   "meta": "TV serial · StarPlus · Hindi · India",
+   "mechanism": "Vash (control)",
+   "confidence_flag": "Low-Medium · official episode title",
+   "summary": "Urmila brings Rashi (Gopi's sister-in-law, an adult married woman in the Modi family) under her control.",
+   "character": "Rashi",
+   "categories": [
+    "india-control",
+    "evil-female",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "StarPlus (YouTube): Urmila Rashi को अपने वश में कर लेती है! | Full Ep. 783 | Saath Nibhaana Saathiya",
+     "url": "https://www.youtube.com/watch?v=OBbYXmPMmvs"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "group": "Official channel episode additions (Oct 2026)",
+   "format": "tv",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "title": "Divya Drishti",
+   "subtitle": "Episode 40",
+   "year": "2019–20",
+   "meta": "TV serial · StarPlus · Hindi · India",
+   "mechanism": "Under Pishachini's control",
+   "confidence_flag": "Medium · official episode title",
+   "summary": "Mahima falls under the control of the witch Pishachini.",
+   "character": "Mahima",
+   "categories": [
+    "india-control",
+    "evil-female",
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "StarPlus Thriller (YouTube): Divya-Drishti | Episode 40 | Part 1 | Mahima hai Pishachini ke vash mein!",
+     "url": "https://www.youtube.com/watch?v=GjK--LNij2M"
+    },
+    {
+     "label": "StarPlus Thriller (YouTube): Part 2",
+     "url": "https://www.youtube.com/watch?v=hVhFiUcKpn0"
+    }
+   ],
+   "fit_note": "Adult status inferred; not explicitly stated."
+  },
+  {
+   "standalone": true,
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "group": "Official channel episode additions (Oct 2026)",
+   "format": "tv",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "yes (Pappy's wife, per Wikipedia)",
+   "title": "Ishq Ki Dastaan – Naagmani",
+   "subtitle": "Episodic glimpse (Aug 2022)",
+   "year": "2022–2023",
+   "meta": "TV serial · Dangal TV · Hindi · India",
+   "mechanism": "Witch's spell (vash)",
+   "confidence_flag": "Medium · official clip title",
+   "summary": "The witch Mohini casts a spell on Babli and brings her under her control. Babli is Pappy Singh's wife per Wikipedia cast list.",
+   "character": "Babli",
+   "categories": [
+    "india-control",
+    "evil-female",
+    "tantrik"
+   ],
+   "sources": [
+    {
+     "label": "Dangal TV Channel (YouTube): मोहिनी ने बबली को अपने वश में किया | Mohini Casts A Spell On Babli",
+     "url": "https://www.youtube.com/watch?v=vfKEehetGiE"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "group": "Official channel episode additions (Oct 2026)",
+   "format": "tv",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "yes (Kedar's wife, per Wikipedia)",
+   "title": "Saatvya Mulichi Saatvi Mulgi",
+   "subtitle": "Episode 633 (11 Aug 2024)",
+   "year": "2024",
+   "meta": "TV serial · Zee Marathi · Marathi · India",
+   "mechanism": "Supernatural hypnosis",
+   "confidence_flag": "Medium · platform episode synopsis",
+   "summary": "Ketaki gets hypnotised while talking to Reema and accidentally tries to push Isha. Ketaki is Kedar's wife (adult) per Wikipedia cast list.",
+   "character": "Ketaki",
+   "categories": [
+    "india-control",
+    "indian-female-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "ZEE5: Episode 633 – Ketaki Gets Hypnotised While Talking to Reema",
+     "url": "https://www.zee5.com/global/tv-shows/details/saatvya-mulichi-saatvi-mulgi/0-6-4z5214554/ketaki-gets-hypnotised-while-talking-to-reema/0-1-6z5603006"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "group": "Official channel episode additions (Oct 2026)",
+   "format": "tv",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "title": "Fear Files",
+   "subtitle": "Ep. 183",
+   "year": "2012–",
+   "meta": "TV horror anthology · Zee TV · Hindi · India",
+   "mechanism": "Black magic and vashikaran",
+   "confidence_flag": "Low-Medium · official episode title",
+   "summary": "Aparna dies as a result of Shayanti's black magic and vashikaran.",
+   "character": "Aparna",
+   "categories": [
+    "tantrik",
+    "india-control",
+    "evil-female"
+   ],
+   "sources": [
+    {
+     "label": "Zee TV (YouTube): Shayanti के काले जादू और वशीकरण से हुई Aparna की मौत | Fear Files | Ep. 183",
+     "url": "https://www.youtube.com/watch?v=Yc8N4Uh8gAc"
+    }
+   ],
+   "fit_note": "Aparna's age not stated."
   }
- ]
+ ],
+ "dropped": []
 }
