@@ -1,0 +1,105 @@
+{
+ "id": "recap-imdb-oct15",
+ "label": "Telugu recap sites, dubbed films, IMDb keywords (15 Oct 2026)",
+ "group_title": "Recap/IMDb-keyword sweep additions (Oct 2026)",
+ "description": "Telugu written-update/recap sites, Telugu-dubbed films, IMDb keyword pages.",
+ "records": [
+  {
+   "title": "Mukkupudaka",
+   "subtitle": "E1291 (27 Aug 2026)",
+   "year": "2026",
+   "format": "tv",
+   "meta": "TV serial · Zee Telugu / ZEE5 · Telugu · India",
+   "mechanism": "Talisman-induced hypnotic spell (occult)",
+   "confidence_flag": "Medium · episode synopsis (JioCinema USA listing)",
+   "summary": "Krishna secures a talisman on Akshaya; under a hypnotic spell she puts on the nose ring and goes to the occultist.",
+   "character": "Akshaya",
+   "categories": [
+    "tantrik",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "JioCinema USA: Mukkupudaka S01 E1291",
+     "url": "https://www.jiocinemaus.com/episode/mukkupudaka-s01-e1291-27th-august-2026/"
+    }
+   ],
+   "standalone": true,
+   "provenance": "Recap/IMDb-keyword sweep, 15 Oct 2026 PT",
+   "group": "Recap/IMDb-keyword sweep additions (Oct 2026)",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated"
+  },
+  {
+   "title": "The Mummy's Kiss: 2nd Dynasty",
+   "year": "2006",
+   "format": "movie",
+   "meta": "Film (direct-to-video) · USA · English · erotic horror",
+   "mechanism": "Mummy's 'ka'-draining kiss turns women into zombie-like slaves",
+   "confidence_flag": "Medium-high · TMDB synopsis + detailed review; IMDb keyword 'hypnotized woman'",
+   "summary": "Museum director Dr. Zita Furneaux revives the mummy of sorceress Hor-Shep-Sut to abduct young women, drains their 'ka' with a kiss after sex and turns them into zombie-like handmaidens. Reporter Elyse investigates. The goddess Nephthys destroys Zita and restores the women.",
+   "character": "Abducted young women; reporter Elyse",
+   "categories": [
+    "adult-hypnosis",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "TMDB: The Mummy's Kiss: 2nd Dynasty",
+     "url": "https://www.themoviedb.org/movie/72033-the-mummy-s-kiss-2nd-dynasty"
+    },
+    {
+     "label": "Hayes Hudson's House of Horror review",
+     "url": "http://hayeshudsonshouseofhorror.blogspot.com/2010/02/i-recently-had-pleasure-of-watching.html"
+    },
+    {
+     "label": "IMDb plot keywords",
+     "url": "https://www.imdb.com/title/tt0889208/keywords/"
+    }
+   ],
+   "standalone": true,
+   "provenance": "Recap/IMDb-keyword sweep, 15 Oct 2026 PT",
+   "group": "Recap/IMDb-keyword sweep additions (Oct 2026)",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated"
+  }
+ ],
+ "dropped": [
+  {
+   "title": "Ninnu Kori (Oct 29 2025 episode)",
+   "reason": "already catalogued"
+  },
+  {
+   "title": "Nindu Noorella Saavasam E848 (Zee Telugu 2026)",
+   "reason": "hypnotised person (Ranvir) is male"
+  },
+  {
+   "title": "Mukkupudaka E1105",
+   "reason": "hypnotised person (Srikar) is male"
+  },
+  {
+   "title": "Jaganmohini (2009, Telugu dub)",
+   "reason": "ghost controls a man"
+  },
+  {
+   "title": "Rasikudu (2014 dub), Indrudu (2014 dub)",
+   "reason": "no hypnosis of a woman"
+  },
+  {
+   "title": "Naagin 4 (2020), Noyontara (2025)",
+   "reason": "hypnotised are male"
+  },
+  {
+   "title": "Chandrakanta (Colors 2018)",
+   "reason": "hypnotised is male (Veer)"
+  },
+  {
+   "title": "IMDb keyword search pages",
+   "reason": "blocked (403); used per-title keyword pages via search instead"
+  }
+ ]
+}

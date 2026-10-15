@@ -3847,6 +3847,52 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "recap-imdb-oct15",
+   "label": "Telugu recaps / dubbed / IMDb keywords (15 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/recap-imdb-oct15.json",
+   "description": "Telugu written-update/recap sites, Telugu-dubbed films, IMDb keyword pages.",
+   "dropped": [
+    {
+     "title": "Ninnu Kori (Oct 29 2025 episode)",
+     "reason": "already catalogued"
+    },
+    {
+     "title": "Nindu Noorella Saavasam E848 (Zee Telugu 2026)",
+     "reason": "hypnotised person (Ranvir) is male"
+    },
+    {
+     "title": "Mukkupudaka E1105",
+     "reason": "hypnotised person (Srikar) is male"
+    },
+    {
+     "title": "Jaganmohini (2009, Telugu dub)",
+     "reason": "ghost controls a man"
+    },
+    {
+     "title": "Rasikudu (2014 dub), Indrudu (2014 dub)",
+     "reason": "no hypnosis of a woman"
+    },
+    {
+     "title": "Naagin 4 (2020), Noyontara (2025)",
+     "reason": "hypnotised are male"
+    },
+    {
+     "title": "Chandrakanta (Colors 2018)",
+     "reason": "hypnotised is male (Veer)"
+    },
+    {
+     "title": "IMDb keyword search pages",
+     "reason": "blocked (403); used per-title keyword pages via search instead"
+    }
+   ],
+   "check": {
+    "raw_count": 2,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -3888,10 +3934,11 @@
   "indian-langs-oct14": 4,
   "fanwiki-screen-oct14": 199,
   "telugu-deep-oct15": 3,
-  "new-angles-oct15": 4
+  "new-angles-oct15": 4,
+  "recap-imdb-oct15": 2
  },
- "raw_total": 5517,
- "entry_count": 2773,
+ "raw_total": 5519,
+ "entry_count": 2775,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -3909,7 +3956,7 @@
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 247
+   "entry_count": 248
   },
   {
    "key": "walkin",
@@ -3939,7 +3986,7 @@
    "key": "occult",
    "label": "Demonic / occult control",
    "legend_label": "Demonic / occult control",
-   "entry_count": 53
+   "entry_count": 54
   },
   {
    "key": "devil-deal-pregnancy-hypnosis",
@@ -3981,7 +4028,7 @@
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 147
+   "entry_count": 148
   },
   {
    "key": "hypnotized-to-marry",
@@ -4371,7 +4418,7 @@
    "key": "tantrik",
    "label": "Tantrik / black-magic control",
    "legend_label": "Tantrik / black-magic control",
-   "entry_count": 34
+   "entry_count": 35
   },
   {
    "key": "vampire",
@@ -422648,6 +422695,161 @@
      "married": "not stated"
     }
    }
+  },
+  {
+   "id": 2883,
+   "title": "Mukkupudaka",
+   "subtitle": "E1291 (27 Aug 2026)",
+   "year": "2026",
+   "meta": "TV serial · Zee Telugu / ZEE5 · Telugu · India",
+   "mechanism": "Talisman-induced hypnotic spell (occult)",
+   "confidence_flag": "Medium · episode synopsis (JioCinema USA listing)",
+   "summary": "Krishna secures a talisman on Akshaya; under a hypnotic spell she puts on the nose ring and goes to the occultist.",
+   "character": "Akshaya",
+   "provenance": "Recap/IMDb-keyword sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "tantrik",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "JioCinema USA: Mukkupudaka S01 E1291",
+     "url": "https://www.jiocinemaus.com/episode/mukkupudaka-s01-e1291-27th-august-2026/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "recap-imdb-oct15"
+   ],
+   "source_records": [
+    "recap-imdb-oct15:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "recap-imdb-oct15:1": {
+     "title": "Mukkupudaka",
+     "subtitle": "E1291 (27 Aug 2026)",
+     "year": "2026",
+     "format": "tv",
+     "meta": "TV serial · Zee Telugu / ZEE5 · Telugu · India",
+     "mechanism": "Talisman-induced hypnotic spell (occult)",
+     "confidence_flag": "Medium · episode synopsis (JioCinema USA listing)",
+     "summary": "Krishna secures a talisman on Akshaya; under a hypnotic spell she puts on the nose ring and goes to the occultist.",
+     "character": "Akshaya",
+     "categories": [
+      "tantrik",
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "JioCinema USA: Mukkupudaka S01 E1291",
+       "url": "https://www.jiocinemaus.com/episode/mukkupudaka-s01-e1291-27th-august-2026/"
+      }
+     ],
+     "standalone": true,
+     "provenance": "Recap/IMDb-keyword sweep, 15 Oct 2026 PT",
+     "group": "Recap/IMDb-keyword sweep additions (Oct 2026)",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated"
+    }
+   }
+  },
+  {
+   "id": 2884,
+   "title": "The Mummy's Kiss: 2nd Dynasty",
+   "subtitle": "",
+   "year": "2006",
+   "meta": "Film (direct-to-video) · USA · English · erotic horror",
+   "mechanism": "Mummy's 'ka'-draining kiss turns women into zombie-like slaves",
+   "confidence_flag": "Medium-high · TMDB synopsis + detailed review; IMDb keyword 'hypnotized woman'",
+   "summary": "Museum director Dr. Zita Furneaux revives the mummy of sorceress Hor-Shep-Sut to abduct young women, drains their 'ka' with a kiss after sex and turns them into zombie-like handmaidens. Reporter Elyse investigates. The goddess Nephthys destroys Zita and restores the women.",
+   "character": "Abducted young women; reporter Elyse",
+   "provenance": "Recap/IMDb-keyword sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "TMDB: The Mummy's Kiss: 2nd Dynasty",
+     "url": "https://www.themoviedb.org/movie/72033-the-mummy-s-kiss-2nd-dynasty"
+    },
+    {
+     "label": "Hayes Hudson's House of Horror review",
+     "url": "http://hayeshudsonshouseofhorror.blogspot.com/2010/02/i-recently-had-pleasure-of-watching.html"
+    },
+    {
+     "label": "IMDb plot keywords",
+     "url": "https://www.imdb.com/title/tt0889208/keywords/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "recap-imdb-oct15"
+   ],
+   "source_records": [
+    "recap-imdb-oct15:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "recap-imdb-oct15:2": {
+     "title": "The Mummy's Kiss: 2nd Dynasty",
+     "year": "2006",
+     "format": "movie",
+     "meta": "Film (direct-to-video) · USA · English · erotic horror",
+     "mechanism": "Mummy's 'ka'-draining kiss turns women into zombie-like slaves",
+     "confidence_flag": "Medium-high · TMDB synopsis + detailed review; IMDb keyword 'hypnotized woman'",
+     "summary": "Museum director Dr. Zita Furneaux revives the mummy of sorceress Hor-Shep-Sut to abduct young women, drains their 'ka' with a kiss after sex and turns them into zombie-like handmaidens. Reporter Elyse investigates. The goddess Nephthys destroys Zita and restores the women.",
+     "character": "Abducted young women; reporter Elyse",
+     "categories": [
+      "adult-hypnosis",
+      "occult"
+     ],
+     "sources": [
+      {
+       "label": "TMDB: The Mummy's Kiss: 2nd Dynasty",
+       "url": "https://www.themoviedb.org/movie/72033-the-mummy-s-kiss-2nd-dynasty"
+      },
+      {
+       "label": "Hayes Hudson's House of Horror review",
+       "url": "http://hayeshudsonshouseofhorror.blogspot.com/2010/02/i-recently-had-pleasure-of-watching.html"
+      },
+      {
+       "label": "IMDb plot keywords",
+       "url": "https://www.imdb.com/title/tt0889208/keywords/"
+      }
+     ],
+     "standalone": true,
+     "provenance": "Recap/IMDb-keyword sweep, 15 Oct 2026 PT",
+     "group": "Recap/IMDb-keyword sweep additions (Oct 2026)",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated"
+    }
+   }
   }
  ],
  "sections": [
@@ -423102,7 +423304,8 @@
     "hypno-sweep-oct9",
     "round2",
     "round3",
-    "new-angles-oct15"
+    "new-angles-oct15",
+    "recap-imdb-oct15"
    ],
    "groups": [
     {
@@ -426026,6 +426229,17 @@
       }
      ],
      "from_source": "new-angles-oct15"
+    },
+    {
+     "title": "Recap/IMDb-keyword sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2884,
+       "from_source": "recap-imdb-oct15"
+      }
+     ],
+     "from_source": "recap-imdb-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -426043,7 +426257,8 @@
     "hypno-sweep-oct9": null,
     "round2": null,
     "round3": null,
-    "new-angles-oct15": null
+    "new-angles-oct15": null,
+    "recap-imdb-oct15": null
    }
   },
   {
@@ -426994,7 +427209,8 @@
     "hypnosis-assault",
     "hypnosis-assault-loose",
     "royal-hypnosis-loose",
-    "open-sites-hypnosis"
+    "open-sites-hypnosis",
+    "recap-imdb-oct15"
    ],
    "groups": [
     {
@@ -427529,6 +427745,17 @@
       }
      ],
      "from_source": "open-sites-hypnosis"
+    },
+    {
+     "title": "Recap/IMDb-keyword sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2884,
+       "from_source": "recap-imdb-oct15"
+      }
+     ],
+     "from_source": "recap-imdb-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -427542,7 +427769,8 @@
     "hypnosis-assault": null,
     "hypnosis-assault-loose": null,
     "royal-hypnosis-loose": null,
-    "open-sites-hypnosis": null
+    "open-sites-hypnosis": null,
+    "recap-imdb-oct15": null
    }
   },
   {
@@ -431016,7 +431244,8 @@
     "royal-hypnosis-loose",
     "hypno-sweep-oct9",
     "savdhaan-santham-oct9",
-    "indian-langs-oct14"
+    "indian-langs-oct14",
+    "recap-imdb-oct15"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 57,
@@ -431031,7 +431260,8 @@
     "royal-hypnosis-loose": null,
     "hypno-sweep-oct9": null,
     "savdhaan-santham-oct9": null,
-    "indian-langs-oct14": null
+    "indian-langs-oct14": null,
+    "recap-imdb-oct15": null
    },
    "groups": [
     {
@@ -432121,6 +432351,17 @@
       }
      ],
      "from_source": "indian-langs-oct14"
+    },
+    {
+     "title": "Recap/IMDb-keyword sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2883,
+       "from_source": "recap-imdb-oct15"
+      }
+     ],
+     "from_source": "recap-imdb-oct15"
     }
    ]
   },
@@ -461414,7 +461655,8 @@
     "older-man-hypnosis",
     "hypno-leftovers",
     "hypnosis-assault",
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "recap-imdb-oct15"
    ],
    "groups": [
     {
@@ -461833,6 +462075,17 @@
       }
      ],
      "from_source": "hypnosis-assault-loose"
+    },
+    {
+     "title": "Recap/IMDb-keyword sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2883,
+       "from_source": "recap-imdb-oct15"
+      }
+     ],
+     "from_source": "recap-imdb-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -461841,7 +462094,8 @@
     "older-man-hypnosis": null,
     "hypno-leftovers": null,
     "hypnosis-assault": null,
-    "hypnosis-assault-loose": null
+    "hypnosis-assault-loose": null,
+    "recap-imdb-oct15": null
    }
   },
   {
