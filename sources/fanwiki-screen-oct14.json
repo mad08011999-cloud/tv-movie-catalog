@@ -586,38 +586,6 @@
    ]
   },
   {
-   "title": "Baalveer",
-   "year": "2012",
-   "subtitle": "Baalveer Ka Magic Show (Season 3, Episode 44)",
-   "format": "tv",
-   "standalone": true,
-   "meta": "TV · Hindi",
-   "mechanism": "Brainwashing, Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-   "summary": "Baalveer is a superkid who fights for good and honest children against the forces of evil. Baalveer also protects his city and the planet itself from different threats, from aliens to evil sorcerers. Throughout the series, new heroes take on the title of Baalveer. Baalveer Ka Magic Show (Season 3, Episode 44): Kurja is held captive by Shashmaag, who agrees to release her on one condition: Kurja denies receiving assistance from Shashmaag. Maha Mahim Uttan attempts to locate Shashmaag but is unsuccessful. Benaam warns Veer not to use his magical abilities to run the show because they could exacerbate the situation. Aageel manipulates Kaashvi' mind into killing Baalveer. Will Aageel's motivation for changing Kaashvi into an evil soul be exposed? Scene: Aangeel shows the magic crystal to Kaashvi Kaashvi tries to resist. She closes her eyes. Aangeel forces kaashvh to open her eyes with a spell. The young woman is bewitched when she looks at the crystal... ... and falls into the witch's control.",
-   "character": "",
-   "categories": [
-    "fantasy",
-    "crime"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki: Baalveer",
-     "url": "https://mentalblock.miraheze.org/wiki/Baalveer"
-    }
-   ],
-   "pregnant_end": "not stated",
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-   "group": "Fan-wiki screen additions (Oct 2026)",
-   "tags": [
-    "Eastern Live Action"
-   ]
-  },
-  {
    "title": "Barbie",
    "year": "2023",
    "subtitle": "",
@@ -7765,6 +7733,10 @@
   {
    "title": "Baal Krishna, Shaktimaan",
    "reason": "child victim / stub page"
+  },
+  {
+   "title": "Baalveer (2012)",
+   "reason": "wiki episode is S3E44 Kaashvi arc, already catalogued as Baalveer S3 (2023)"
   }
  ]
 }

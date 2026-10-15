@@ -3576,10 +3576,14 @@ window.CATALOG = {
     {
      "title": "Baal Krishna, Shaktimaan",
      "reason": "child victim / stub page"
+    },
+    {
+     "title": "Baalveer (2012)",
+     "reason": "wiki episode is S3E44 Kaashvi arc, already catalogued as Baalveer S3 (2023)"
     }
    ],
    "check": {
-    "raw_count": 230,
+    "raw_count": 229,
     "ok": true
    },
    "status": "local"
@@ -3622,10 +3626,10 @@ window.CATALOG = {
   "widow-divorcee-oct14b": 2,
   "recheck-oct14": 3,
   "indian-langs-oct14": 4,
-  "fanwiki-screen-oct14": 230
+  "fanwiki-screen-oct14": 229
  },
- "raw_total": 5541,
- "entry_count": 2797,
+ "raw_total": 5540,
+ "entry_count": 2796,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -3697,7 +3701,7 @@ window.CATALOG = {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 253
+   "entry_count": 252
   },
   {
    "key": "child-controller",
@@ -3781,7 +3785,7 @@ window.CATALOG = {
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 146
+   "entry_count": 145
   },
   {
    "key": "royal-hypnosis",
@@ -406506,84 +406510,6 @@ window.CATALOG = {
   },
   {
    "id": 2695,
-   "title": "Baalveer",
-   "subtitle": "Baalveer Ka Magic Show (Season 3, Episode 44)",
-   "year": "2012",
-   "meta": "TV · Hindi",
-   "mechanism": "Brainwashing, Magical Hypnosis",
-   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-   "summary": "Baalveer is a superkid who fights for good and honest children against the forces of evil. Baalveer also protects his city and the planet itself from different threats, from aliens to evil sorcerers. Throughout the series, new heroes take on the title of Baalveer. Baalveer Ka Magic Show (Season 3, Episode 44): Kurja is held captive by Shashmaag, who agrees to release her on one condition: Kurja denies receiving assistance from Shashmaag. Maha Mahim Uttan attempts to locate Shashmaag but is unsuccessful. Benaam warns Veer not to use his magical abilities to run the show because they could exacerbate the situation. Aageel manipulates Kaashvi' mind into killing Baalveer. Will Aageel's motivation for changing Kaashvi into an evil soul be exposed? Scene: Aangeel shows the magic crystal to Kaashvi Kaashvi tries to resist. She closes her eyes. Aangeel forces kaashvh to open her eyes with a spell. The young woman is bewitched when she looks at the crystal... ... and falls into the witch's control.",
-   "character": "",
-   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-   "note": "",
-   "tags": [
-    "Eastern Live Action"
-   ],
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-   "format": "tv",
-   "categories": [
-    "fantasy",
-    "crime"
-   ],
-   "sources": [
-    {
-     "label": "Mental Block wiki: Baalveer",
-     "url": "https://mentalblock.miraheze.org/wiki/Baalveer"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "fanwiki-screen-oct14"
-   ],
-   "source_records": [
-    "fanwiki-screen-oct14:19"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "fanwiki-screen-oct14:19": {
-     "title": "Baalveer",
-     "year": "2012",
-     "subtitle": "Baalveer Ka Magic Show (Season 3, Episode 44)",
-     "format": "tv",
-     "standalone": true,
-     "meta": "TV · Hindi",
-     "mechanism": "Brainwashing, Magical Hypnosis",
-     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
-     "summary": "Baalveer is a superkid who fights for good and honest children against the forces of evil. Baalveer also protects his city and the planet itself from different threats, from aliens to evil sorcerers. Throughout the series, new heroes take on the title of Baalveer. Baalveer Ka Magic Show (Season 3, Episode 44): Kurja is held captive by Shashmaag, who agrees to release her on one condition: Kurja denies receiving assistance from Shashmaag. Maha Mahim Uttan attempts to locate Shashmaag but is unsuccessful. Benaam warns Veer not to use his magical abilities to run the show because they could exacerbate the situation. Aageel manipulates Kaashvi' mind into killing Baalveer. Will Aageel's motivation for changing Kaashvi into an evil soul be exposed? Scene: Aangeel shows the magic crystal to Kaashvi Kaashvi tries to resist. She closes her eyes. Aangeel forces kaashvh to open her eyes with a spell. The young woman is bewitched when she looks at the crystal... ... and falls into the witch's control.",
-     "character": "",
-     "categories": [
-      "fantasy",
-      "crime"
-     ],
-     "sources": [
-      {
-       "label": "Mental Block wiki: Baalveer",
-       "url": "https://mentalblock.miraheze.org/wiki/Baalveer"
-      }
-     ],
-     "pregnant_end": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "married": "not stated",
-     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
-     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
-     "group": "Fan-wiki screen additions (Oct 2026)",
-     "tags": [
-      "Eastern Live Action"
-     ]
-    }
-   }
-  },
-  {
-   "id": 2696,
    "title": "Barbie",
    "subtitle": "",
    "year": "2023",
@@ -406618,7 +406544,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:20"
+    "fanwiki-screen-oct14:19"
    ],
    "index_only": false,
    "local_only": true,
@@ -406626,7 +406552,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:20": {
+    "fanwiki-screen-oct14:19": {
      "title": "Barbie",
      "year": "2023",
      "subtitle": "",
@@ -406661,7 +406587,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2697,
+   "id": 2696,
    "title": "Beiyang Remnant Case",
    "subtitle": "Episode 8",
    "year": "2021",
@@ -406695,7 +406621,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:21"
+    "fanwiki-screen-oct14:20"
    ],
    "index_only": false,
    "local_only": true,
@@ -406703,7 +406629,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:21": {
+    "fanwiki-screen-oct14:20": {
      "title": "Beiyang Remnant Case",
      "year": "2021",
      "subtitle": "Episode 8",
@@ -406737,7 +406663,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2698,
+   "id": 2697,
    "title": "Bewitched In Tokyo",
    "subtitle": "(Episode 3)",
    "year": "2004",
@@ -406772,7 +406698,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:22"
+    "fanwiki-screen-oct14:21"
    ],
    "index_only": false,
    "local_only": true,
@@ -406780,7 +406706,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:22": {
+    "fanwiki-screen-oct14:21": {
      "title": "Bewitched In Tokyo",
      "year": "2004",
      "subtitle": "(Episode 3)",
@@ -406815,7 +406741,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2699,
+   "id": 2698,
    "title": "Beyond Reality",
    "subtitle": "The Loving Cup (Season 2, Episode 17)",
    "year": "1991",
@@ -406850,7 +406776,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:23"
+    "fanwiki-screen-oct14:22"
    ],
    "index_only": false,
    "local_only": true,
@@ -406858,7 +406784,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:23": {
+    "fanwiki-screen-oct14:22": {
      "title": "Beyond Reality",
      "year": "1991",
      "subtitle": "The Loving Cup (Season 2, Episode 17)",
@@ -406893,7 +406819,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2700,
+   "id": 2699,
    "title": "Bez Bebek",
    "subtitle": "Episode 13",
    "year": "2007",
@@ -406927,7 +406853,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:24"
+    "fanwiki-screen-oct14:23"
    ],
    "index_only": false,
    "local_only": true,
@@ -406935,7 +406861,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:24": {
+    "fanwiki-screen-oct14:23": {
      "title": "Bez Bebek",
      "year": "2007",
      "subtitle": "Episode 13",
@@ -406969,7 +406895,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2701,
+   "id": 2700,
    "title": "Big Band Clan",
    "subtitle": "Abajo Control (Season 1, Episode 12)",
    "year": "2015",
@@ -407005,7 +406931,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:25"
+    "fanwiki-screen-oct14:24"
    ],
    "index_only": false,
    "local_only": true,
@@ -407013,7 +406939,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:25": {
+    "fanwiki-screen-oct14:24": {
      "title": "Big Band Clan",
      "year": "2015",
      "subtitle": "Abajo Control (Season 1, Episode 12)",
@@ -407049,7 +406975,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2702,
+   "id": 2701,
    "title": "Bigfoot and Wildboy",
    "subtitle": "\"\"Return Of The Vampire\"\" (Season 2, Episode 10)",
    "year": "1977",
@@ -407083,7 +407009,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:26"
+    "fanwiki-screen-oct14:25"
    ],
    "index_only": false,
    "local_only": true,
@@ -407091,7 +407017,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:26": {
+    "fanwiki-screen-oct14:25": {
      "title": "Bigfoot and Wildboy",
      "year": "1977",
      "subtitle": "\"\"Return Of The Vampire\"\" (Season 2, Episode 10)",
@@ -407125,7 +407051,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2703,
+   "id": 2702,
    "title": "Bionic Woman",
    "subtitle": "Brain Wash (Season 3, Episode 8)",
    "year": "1976–1978",
@@ -407160,7 +407086,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:27"
+    "fanwiki-screen-oct14:26"
    ],
    "index_only": false,
    "local_only": true,
@@ -407168,7 +407094,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:27": {
+    "fanwiki-screen-oct14:26": {
      "title": "Bionic Woman",
      "year": "1976–1978",
      "subtitle": "Brain Wash (Season 3, Episode 8)",
@@ -407203,7 +407129,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2704,
+   "id": 2703,
    "title": "Bird Box Barcelona",
    "subtitle": "",
    "year": "2023",
@@ -407239,7 +407165,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:28"
+    "fanwiki-screen-oct14:27"
    ],
    "index_only": false,
    "local_only": true,
@@ -407247,7 +407173,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:28": {
+    "fanwiki-screen-oct14:27": {
      "title": "Bird Box Barcelona",
      "year": "2023",
      "subtitle": "",
@@ -407283,7 +407209,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2705,
+   "id": 2704,
    "title": "Black Circle",
    "subtitle": "",
    "year": "2018",
@@ -407318,7 +407244,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:29"
+    "fanwiki-screen-oct14:28"
    ],
    "index_only": false,
    "local_only": true,
@@ -407326,7 +407252,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:29": {
+    "fanwiki-screen-oct14:28": {
      "title": "Black Circle",
      "year": "2018",
      "subtitle": "",
@@ -407361,7 +407287,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2706,
+   "id": 2705,
    "title": "Black Magic 2 (1976 Hong Kong film)",
    "subtitle": "",
    "year": "1976",
@@ -407396,7 +407322,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:30"
+    "fanwiki-screen-oct14:29"
    ],
    "index_only": false,
    "local_only": true,
@@ -407404,7 +407330,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:30": {
+    "fanwiki-screen-oct14:29": {
      "title": "Black Magic 2 (1976 Hong Kong film)",
      "year": "1976",
      "subtitle": "",
@@ -407439,7 +407365,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2707,
+   "id": 2706,
    "title": "Black Widow",
    "subtitle": "",
    "year": "2021",
@@ -407475,7 +407401,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:31"
+    "fanwiki-screen-oct14:30"
    ],
    "index_only": false,
    "local_only": true,
@@ -407483,7 +407409,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:31": {
+    "fanwiki-screen-oct14:30": {
      "title": "Black Widow",
      "year": "2021",
      "subtitle": "",
@@ -407519,7 +407445,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2708,
+   "id": 2707,
    "title": "Blood of Dracula",
    "subtitle": "",
    "year": "1957",
@@ -407556,7 +407482,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:32"
+    "fanwiki-screen-oct14:31"
    ],
    "index_only": false,
    "local_only": true,
@@ -407564,7 +407490,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:32": {
+    "fanwiki-screen-oct14:31": {
      "title": "Blood of Dracula",
      "year": "1957",
      "subtitle": "",
@@ -407601,7 +407527,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2709,
+   "id": 2708,
    "title": "Bone Chillers",
    "subtitle": "Mummy Dearest (Season 1, Episode 5)",
    "year": "1996",
@@ -407635,7 +407561,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:33"
+    "fanwiki-screen-oct14:32"
    ],
    "index_only": false,
    "local_only": true,
@@ -407643,7 +407569,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:33": {
+    "fanwiki-screen-oct14:32": {
      "title": "Bone Chillers",
      "year": "1996",
      "subtitle": "Mummy Dearest (Season 1, Episode 5)",
@@ -407677,7 +407603,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2710,
+   "id": 2709,
    "title": "California Dreams",
    "subtitle": "Ciao, Jenny (Season 2, Episode 02)",
    "year": "1992",
@@ -407712,7 +407638,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:34"
+    "fanwiki-screen-oct14:33"
    ],
    "index_only": false,
    "local_only": true,
@@ -407720,7 +407646,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:34": {
+    "fanwiki-screen-oct14:33": {
      "title": "California Dreams",
      "year": "1992",
      "subtitle": "Ciao, Jenny (Season 2, Episode 02)",
@@ -407755,7 +407681,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2711,
+   "id": 2710,
    "title": "Captain America (1944 movie serial)",
    "subtitle": "Mechanical Executioner (Episode 2)",
    "year": "1944",
@@ -407790,7 +407716,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:35"
+    "fanwiki-screen-oct14:34"
    ],
    "index_only": false,
    "local_only": true,
@@ -407798,7 +407724,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:35": {
+    "fanwiki-screen-oct14:34": {
      "title": "Captain America (1944 movie serial)",
      "year": "1944",
      "subtitle": "Mechanical Executioner (Episode 2)",
@@ -407833,7 +407759,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2712,
+   "id": 2711,
    "title": "Captain Kronos - Vampire Hunter",
    "subtitle": "",
    "year": "1974",
@@ -407869,7 +407795,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:36"
+    "fanwiki-screen-oct14:35"
    ],
    "index_only": false,
    "local_only": true,
@@ -407877,7 +407803,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:36": {
+    "fanwiki-screen-oct14:35": {
      "title": "Captain Kronos - Vampire Hunter",
      "year": "1974",
      "subtitle": "",
@@ -407913,7 +407839,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2713,
+   "id": 2712,
    "title": "Castle Rock",
    "subtitle": "2x07- \"The Word\" / 2x08- \"Dirty\" / 2x10- \"Clean\"",
    "year": "2018",
@@ -407948,7 +407874,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:37"
+    "fanwiki-screen-oct14:36"
    ],
    "index_only": false,
    "local_only": true,
@@ -407956,7 +407882,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:37": {
+    "fanwiki-screen-oct14:36": {
      "title": "Castle Rock",
      "year": "2018",
      "subtitle": "2x07- \"The Word\" / 2x08- \"Dirty\" / 2x10- \"Clean\"",
@@ -407991,7 +407917,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2714,
+   "id": 2713,
    "title": "Cat-Women of the Moon",
    "subtitle": "",
    "year": "1953",
@@ -408027,7 +407953,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:38"
+    "fanwiki-screen-oct14:37"
    ],
    "index_only": false,
    "local_only": true,
@@ -408035,7 +407961,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:38": {
+    "fanwiki-screen-oct14:37": {
      "title": "Cat-Women of the Moon",
      "year": "1953",
      "subtitle": "",
@@ -408071,7 +407997,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2715,
+   "id": 2714,
    "title": "Catweazle",
    "subtitle": "1x02- \"Castle Saburac\"",
    "year": "1969",
@@ -408105,7 +408031,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:39"
+    "fanwiki-screen-oct14:38"
    ],
    "index_only": false,
    "local_only": true,
@@ -408113,7 +408039,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:39": {
+    "fanwiki-screen-oct14:38": {
      "title": "Catweazle",
      "year": "1969",
      "subtitle": "1x02- \"Castle Saburac\"",
@@ -408147,7 +408073,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2716,
+   "id": 2715,
    "title": "Children of the Corn III: Urban Harvest",
    "subtitle": "",
    "year": "1995",
@@ -408182,7 +408108,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:40"
+    "fanwiki-screen-oct14:39"
    ],
    "index_only": false,
    "local_only": true,
@@ -408190,7 +408116,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:40": {
+    "fanwiki-screen-oct14:39": {
      "title": "Children of the Corn III: Urban Harvest",
      "year": "1995",
      "subtitle": "",
@@ -408225,7 +408151,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2717,
+   "id": 2716,
    "title": "Choujin Sentai Jetman",
    "subtitle": "Ep. 8: The Laughing Diamond / Ep. 9: Muddy Love / Ep. 11: A Dangerous Game / Ep. 13: Maze of Love / Ep. 31: The Squadron",
    "year": "1991",
@@ -408259,7 +408185,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:41"
+    "fanwiki-screen-oct14:40"
    ],
    "index_only": false,
    "local_only": true,
@@ -408267,7 +408193,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:41": {
+    "fanwiki-screen-oct14:40": {
      "title": "Choujin Sentai Jetman",
      "year": "1991",
      "subtitle": "Ep. 8: The Laughing Diamond / Ep. 9: Muddy Love / Ep. 11: A Dangerous Game / Ep. 13: Maze of Love / Ep. 31: The Squadron",
@@ -408301,7 +408227,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2718,
+   "id": 2717,
    "title": "Choujuu Sentai Liveman",
    "subtitle": "Ep. 3: Obular Demonic Transformation / Ep. 9: Rose! Smell Feverish / Ep. 42: Bias' Challenge From Space / Ep. 47: A 1000",
    "year": "1988",
@@ -408336,7 +408262,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:42"
+    "fanwiki-screen-oct14:41"
    ],
    "index_only": false,
    "local_only": true,
@@ -408344,7 +408270,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:42": {
+    "fanwiki-screen-oct14:41": {
      "title": "Choujuu Sentai Liveman",
      "year": "1988",
      "subtitle": "Ep. 3: Obular Demonic Transformation / Ep. 9: Rose! Smell Feverish / Ep. 42: Bias' Challenge From Space / Ep. 47: A 1000",
@@ -408379,7 +408305,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2719,
+   "id": 2718,
    "title": "Choushinsei Flashman",
    "subtitle": "Ep. 14: Love!? Bun and the Female Gangster / Ep. 23: Heart-Throbbing Wishes! / Ep. 27: Dai's Punch of Friendship / Ep. 3",
    "year": "1986",
@@ -408413,7 +408339,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:43"
+    "fanwiki-screen-oct14:42"
    ],
    "index_only": false,
    "local_only": true,
@@ -408421,7 +408347,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:43": {
+    "fanwiki-screen-oct14:42": {
      "title": "Choushinsei Flashman",
      "year": "1986",
      "subtitle": "Ep. 14: Love!? Bun and the Female Gangster / Ep. 23: Heart-Throbbing Wishes! / Ep. 27: Dai's Punch of Friendship / Ep. 3",
@@ -408455,7 +408381,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2720,
+   "id": 2719,
    "title": "Chucky",
    "subtitle": "Dressed To Kill (Season 3, Episode 4) / Final Destination (Season 3, Episode 8)",
    "year": "2021–2024",
@@ -408490,7 +408416,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:44"
+    "fanwiki-screen-oct14:43"
    ],
    "index_only": false,
    "local_only": true,
@@ -408498,7 +408424,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:44": {
+    "fanwiki-screen-oct14:43": {
      "title": "Chucky",
      "year": "2021–2024",
      "subtitle": "Dressed To Kill (Season 3, Episode 4) / Final Destination (Season 3, Episode 8)",
@@ -408533,7 +408459,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2721,
+   "id": 2720,
    "title": "Comin' Round the Mountain",
    "subtitle": "",
    "year": "1951",
@@ -408569,7 +408495,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:45"
+    "fanwiki-screen-oct14:44"
    ],
    "index_only": false,
    "local_only": true,
@@ -408577,7 +408503,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:45": {
+    "fanwiki-screen-oct14:44": {
      "title": "Comin' Round the Mountain",
      "year": "1951",
      "subtitle": "",
@@ -408613,7 +408539,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2722,
+   "id": 2721,
    "title": "Conan the Adventurer",
    "subtitle": "The Heart of the Elephant, Part 1 (Season 1, Episode 1)",
    "year": "1997–1998",
@@ -408647,7 +408573,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:46"
+    "fanwiki-screen-oct14:45"
    ],
    "index_only": false,
    "local_only": true,
@@ -408655,7 +408581,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:46": {
+    "fanwiki-screen-oct14:45": {
      "title": "Conan the Adventurer",
      "year": "1997–1998",
      "subtitle": "The Heart of the Elephant, Part 1 (Season 1, Episode 1)",
@@ -408689,7 +408615,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2723,
+   "id": 2722,
    "title": "Counterspy Meets Scotland Yard",
    "subtitle": "",
    "year": "1950",
@@ -408724,7 +408650,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:47"
+    "fanwiki-screen-oct14:46"
    ],
    "index_only": false,
    "local_only": true,
@@ -408732,7 +408658,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:47": {
+    "fanwiki-screen-oct14:46": {
      "title": "Counterspy Meets Scotland Yard",
      "year": "1950",
      "subtitle": "",
@@ -408767,7 +408693,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2724,
+   "id": 2723,
    "title": "Creepy",
    "subtitle": "",
    "year": "2016",
@@ -408804,7 +408730,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:48"
+    "fanwiki-screen-oct14:47"
    ],
    "index_only": false,
    "local_only": true,
@@ -408812,7 +408738,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:48": {
+    "fanwiki-screen-oct14:47": {
      "title": "Creepy",
      "year": "2016",
      "subtitle": "",
@@ -408849,7 +408775,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2725,
+   "id": 2724,
    "title": "Crossworlds",
    "subtitle": "Scene Summary",
    "year": "1996",
@@ -408884,7 +408810,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:49"
+    "fanwiki-screen-oct14:48"
    ],
    "index_only": false,
    "local_only": true,
@@ -408892,7 +408818,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:49": {
+    "fanwiki-screen-oct14:48": {
      "title": "Crossworlds",
      "year": "1996",
      "subtitle": "Scene Summary",
@@ -408927,7 +408853,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2726,
+   "id": 2725,
    "title": "Curse of the Faceless Man",
    "subtitle": "",
    "year": "1958",
@@ -408962,7 +408888,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:50"
+    "fanwiki-screen-oct14:49"
    ],
    "index_only": false,
    "local_only": true,
@@ -408970,7 +408896,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:50": {
+    "fanwiki-screen-oct14:49": {
      "title": "Curse of the Faceless Man",
      "year": "1958",
      "subtitle": "",
@@ -409005,7 +408931,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2727,
+   "id": 2726,
    "title": "Changeman",
    "subtitle": "Ep. 6: The Targeted High School Girls / Ep. 22: The Soldier Who Disappeared into a Mirror / Ep. 42: The Sailor-Suited Na",
    "year": "1985",
@@ -409041,7 +408967,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:51"
+    "fanwiki-screen-oct14:50"
    ],
    "index_only": false,
    "local_only": true,
@@ -409049,7 +408975,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:51": {
+    "fanwiki-screen-oct14:50": {
      "title": "Changeman",
      "year": "1985",
      "subtitle": "Ep. 6: The Targeted High School Girls / Ep. 22: The Soldier Who Disappeared into a Mirror / Ep. 42: The Sailor-Suited Na",
@@ -409085,7 +409011,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2728,
+   "id": 2727,
    "title": "Dark Rising: The Savage Tales of Summer Vale",
    "subtitle": "Truth and Consequences (Season 1, Episode 7)",
    "year": "2011",
@@ -409120,7 +409046,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:52"
+    "fanwiki-screen-oct14:51"
    ],
    "index_only": false,
    "local_only": true,
@@ -409128,7 +409054,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:52": {
+    "fanwiki-screen-oct14:51": {
      "title": "Dark Rising: The Savage Tales of Summer Vale",
      "year": "2011",
      "subtitle": "Truth and Consequences (Season 1, Episode 7)",
@@ -409163,7 +409089,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2729,
+   "id": 2728,
    "title": "Darna (2009)",
    "subtitle": "Episode 88",
    "year": "2009",
@@ -409197,7 +409123,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:53"
+    "fanwiki-screen-oct14:52"
    ],
    "index_only": false,
    "local_only": true,
@@ -409205,7 +409131,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:53": {
+    "fanwiki-screen-oct14:52": {
      "title": "Darna (2009)",
      "year": "2009",
      "subtitle": "Episode 88",
@@ -409239,7 +409165,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2730,
+   "id": 2729,
    "title": "Dead Enders (Short Movie)",
    "subtitle": "",
    "year": "2023",
@@ -409274,7 +409200,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:54"
+    "fanwiki-screen-oct14:53"
    ],
    "index_only": false,
    "local_only": true,
@@ -409282,7 +409208,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:54": {
+    "fanwiki-screen-oct14:53": {
      "title": "Dead Enders (Short Movie)",
      "year": "2023",
      "subtitle": "",
@@ -409317,7 +409243,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2731,
+   "id": 2730,
    "title": "Detetives Do Prédio Azul",
    "subtitle": "Berenice's Graduation (Season 13. Episode 26)",
    "year": "2012",
@@ -409351,7 +409277,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:55"
+    "fanwiki-screen-oct14:54"
    ],
    "index_only": false,
    "local_only": true,
@@ -409359,7 +409285,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:55": {
+    "fanwiki-screen-oct14:54": {
      "title": "Detetives Do Prédio Azul",
      "year": "2012",
      "subtitle": "Berenice's Graduation (Season 13. Episode 26)",
@@ -409393,7 +409319,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2732,
+   "id": 2731,
    "title": "Devil's Domain",
    "subtitle": "",
    "year": "2016",
@@ -409428,7 +409354,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:56"
+    "fanwiki-screen-oct14:55"
    ],
    "index_only": false,
    "local_only": true,
@@ -409436,7 +409362,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:56": {
+    "fanwiki-screen-oct14:55": {
      "title": "Devil's Domain",
      "year": "2016",
      "subtitle": "",
@@ -409471,7 +409397,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2733,
+   "id": 2732,
    "title": "Devil's Whisper",
    "subtitle": "",
    "year": "2017",
@@ -409506,7 +409432,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:57"
+    "fanwiki-screen-oct14:56"
    ],
    "index_only": false,
    "local_only": true,
@@ -409514,7 +409440,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:57": {
+    "fanwiki-screen-oct14:56": {
      "title": "Devil's Whisper",
      "year": "2017",
      "subtitle": "",
@@ -409549,7 +409475,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2734,
+   "id": 2733,
    "title": "Devil Girl from Mars",
    "subtitle": "",
    "year": "1954",
@@ -409584,7 +409510,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:58"
+    "fanwiki-screen-oct14:57"
    ],
    "index_only": false,
    "local_only": true,
@@ -409592,7 +409518,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:58": {
+    "fanwiki-screen-oct14:57": {
      "title": "Devil Girl from Mars",
      "year": "1954",
      "subtitle": "",
@@ -409627,7 +409553,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2735,
+   "id": 2734,
    "title": "Di Renjie: Phantom Moth",
    "subtitle": "",
    "year": "2019",
@@ -409663,7 +409589,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:59"
+    "fanwiki-screen-oct14:58"
    ],
    "index_only": false,
    "local_only": true,
@@ -409671,7 +409597,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:59": {
+    "fanwiki-screen-oct14:58": {
      "title": "Di Renjie: Phantom Moth",
      "year": "2019",
      "subtitle": "",
@@ -409707,7 +409633,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2736,
+   "id": 2735,
    "title": "Dimension 404",
    "subtitle": "Cinethrax (Season 1, Episode 2)",
    "year": "2017",
@@ -409741,7 +409667,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:60"
+    "fanwiki-screen-oct14:59"
    ],
    "index_only": false,
    "local_only": true,
@@ -409749,7 +409675,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:60": {
+    "fanwiki-screen-oct14:59": {
      "title": "Dimension 404",
      "year": "2017",
      "subtitle": "Cinethrax (Season 1, Episode 2)",
@@ -409783,7 +409709,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2737,
+   "id": 2736,
    "title": "Doctor Strange",
    "subtitle": "Scene Summary",
    "year": "1978",
@@ -409819,7 +409745,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:61"
+    "fanwiki-screen-oct14:60"
    ],
    "index_only": false,
    "local_only": true,
@@ -409827,7 +409753,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:61": {
+    "fanwiki-screen-oct14:60": {
      "title": "Doctor Strange",
      "year": "1978",
      "subtitle": "Scene Summary",
@@ -409863,7 +409789,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2738,
+   "id": 2737,
    "title": "Don't Listen",
    "subtitle": "",
    "year": "2020",
@@ -409899,7 +409825,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:62"
+    "fanwiki-screen-oct14:61"
    ],
    "index_only": false,
    "local_only": true,
@@ -409907,7 +409833,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:62": {
+    "fanwiki-screen-oct14:61": {
      "title": "Don't Listen",
      "year": "2020",
      "subtitle": "",
@@ -409943,7 +409869,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2739,
+   "id": 2738,
    "title": "Dracula: The Series",
    "subtitle": "\"Children of the Night\" (Season 1, Episode 1)",
    "year": "1990–1991",
@@ -409977,7 +409903,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:63"
+    "fanwiki-screen-oct14:62"
    ],
    "index_only": false,
    "local_only": true,
@@ -409985,7 +409911,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:63": {
+    "fanwiki-screen-oct14:62": {
      "title": "Dracula: The Series",
      "year": "1990–1991",
      "subtitle": "\"Children of the Night\" (Season 1, Episode 1)",
@@ -410019,7 +409945,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2740,
+   "id": 2739,
    "title": "Dragon Force",
    "subtitle": "",
    "year": "1982",
@@ -410054,7 +409980,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:64"
+    "fanwiki-screen-oct14:63"
    ],
    "index_only": false,
    "local_only": true,
@@ -410062,7 +409988,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:64": {
+    "fanwiki-screen-oct14:63": {
      "title": "Dragon Force",
      "year": "1982",
      "subtitle": "",
@@ -410097,7 +410023,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2741,
+   "id": 2740,
    "title": "Dragonquest",
    "subtitle": "",
    "year": "2009",
@@ -410132,7 +410058,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:65"
+    "fanwiki-screen-oct14:64"
    ],
    "index_only": false,
    "local_only": true,
@@ -410140,7 +410066,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:65": {
+    "fanwiki-screen-oct14:64": {
      "title": "Dragonquest",
      "year": "2009",
      "subtitle": "",
@@ -410175,7 +410101,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2742,
+   "id": 2741,
    "title": "Dwight in Shining Armor",
    "subtitle": "Todd (Season 1, Episode 9) / Another Slice of Pilot (Season 4, Episode 1)",
    "year": "2019",
@@ -410209,7 +410135,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:66"
+    "fanwiki-screen-oct14:65"
    ],
    "index_only": false,
    "local_only": true,
@@ -410217,7 +410143,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:66": {
+    "fanwiki-screen-oct14:65": {
      "title": "Dwight in Shining Armor",
      "year": "2019",
      "subtitle": "Todd (Season 1, Episode 9) / Another Slice of Pilot (Season 4, Episode 1)",
@@ -410251,7 +410177,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2743,
+   "id": 2742,
    "title": "ESPY",
    "subtitle": "",
    "year": "1974",
@@ -410287,7 +410213,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:67"
+    "fanwiki-screen-oct14:66"
    ],
    "index_only": false,
    "local_only": true,
@@ -410295,7 +410221,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:67": {
+    "fanwiki-screen-oct14:66": {
      "title": "ESPY",
      "year": "1974",
      "subtitle": "",
@@ -410331,7 +410257,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2744,
+   "id": 2743,
    "title": "Eerie, Indiana: The Other Dimension",
    "subtitle": "Perfect (Season 1, Episode 10)",
    "year": "1998",
@@ -410365,7 +410291,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:68"
+    "fanwiki-screen-oct14:67"
    ],
    "index_only": false,
    "local_only": true,
@@ -410373,7 +410299,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:68": {
+    "fanwiki-screen-oct14:67": {
      "title": "Eerie, Indiana: The Other Dimension",
      "year": "1998",
      "subtitle": "Perfect (Season 1, Episode 10)",
@@ -410407,7 +410333,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2745,
+   "id": 2744,
    "title": "El pueblo fantasma",
    "subtitle": "",
    "year": "1965",
@@ -410443,7 +410369,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:69"
+    "fanwiki-screen-oct14:68"
    ],
    "index_only": false,
    "local_only": true,
@@ -410451,7 +410377,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:69": {
+    "fanwiki-screen-oct14:68": {
      "title": "El pueblo fantasma",
      "year": "1965",
      "subtitle": "",
@@ -410487,7 +410413,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2746,
+   "id": 2745,
    "title": "Elvira's Haunted Hill",
    "subtitle": "",
    "year": "2001",
@@ -410525,7 +410451,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:70"
+    "fanwiki-screen-oct14:69"
    ],
    "index_only": false,
    "local_only": true,
@@ -410533,7 +410459,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:70": {
+    "fanwiki-screen-oct14:69": {
      "title": "Elvira's Haunted Hill",
      "year": "2001",
      "subtitle": "",
@@ -410571,7 +410497,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2747,
+   "id": 2746,
    "title": "Engine Sentai Go-Onger",
    "subtitle": "GP 12: Sosuke Banki!? / GP 30: Punch of Friendship / GP 38: The Maidens' Sanctity / GP 42: Campus Secret",
    "year": "2008",
@@ -410605,7 +410531,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:71"
+    "fanwiki-screen-oct14:70"
    ],
    "index_only": false,
    "local_only": true,
@@ -410613,7 +410539,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:71": {
+    "fanwiki-screen-oct14:70": {
      "title": "Engine Sentai Go-Onger",
      "year": "2008",
      "subtitle": "GP 12: Sosuke Banki!? / GP 30: Punch of Friendship / GP 38: The Maidens' Sanctity / GP 42: Campus Secret",
@@ -410647,7 +410573,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2748,
+   "id": 2747,
    "title": "Eternals",
    "subtitle": "",
    "year": "2021",
@@ -410684,7 +410610,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:72"
+    "fanwiki-screen-oct14:71"
    ],
    "index_only": false,
    "local_only": true,
@@ -410692,7 +410618,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:72": {
+    "fanwiki-screen-oct14:71": {
      "title": "Eternals",
      "year": "2021",
      "subtitle": "",
@@ -410729,7 +410655,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2749,
+   "id": 2748,
    "title": "Even Stevens",
    "subtitle": "A Very Scary Story (Season 2, Episode 13)",
    "year": "2000–2003",
@@ -410764,7 +410690,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:73"
+    "fanwiki-screen-oct14:72"
    ],
    "index_only": false,
    "local_only": true,
@@ -410772,7 +410698,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:73": {
+    "fanwiki-screen-oct14:72": {
      "title": "Even Stevens",
      "year": "2000–2003",
      "subtitle": "A Very Scary Story (Season 2, Episode 13)",
@@ -410807,7 +410733,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2750,
+   "id": 2749,
    "title": "Fatih di Kampung Jawara",
    "subtitle": "Season 1, Episode 5",
    "year": "2018",
@@ -410842,7 +410768,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:74"
+    "fanwiki-screen-oct14:73"
    ],
    "index_only": false,
    "local_only": true,
@@ -410850,7 +410776,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:74": {
+    "fanwiki-screen-oct14:73": {
      "title": "Fatih di Kampung Jawara",
      "year": "2018",
      "subtitle": "Season 1, Episode 5",
@@ -410885,7 +410811,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2751,
+   "id": 2750,
    "title": "Faust",
    "subtitle": "Scene Summary",
    "year": "2000",
@@ -410920,7 +410846,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:75"
+    "fanwiki-screen-oct14:74"
    ],
    "index_only": false,
    "local_only": true,
@@ -410928,7 +410854,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:75": {
+    "fanwiki-screen-oct14:74": {
      "title": "Faust",
      "year": "2000",
      "subtitle": "Scene Summary",
@@ -410963,7 +410889,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2752,
+   "id": 2751,
    "title": "Fire Spirit Beast",
    "subtitle": "",
    "year": "2016",
@@ -410998,7 +410924,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:76"
+    "fanwiki-screen-oct14:75"
    ],
    "index_only": false,
    "local_only": true,
@@ -411006,7 +410932,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:76": {
+    "fanwiki-screen-oct14:75": {
      "title": "Fire Spirit Beast",
      "year": "2016",
      "subtitle": "",
@@ -411041,7 +410967,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2753,
+   "id": 2752,
    "title": "Five Spies",
    "subtitle": "Melody of Death! The Terror of Poison Gas! (死の旋律! 毒ガスの恐怖!!) (Season 1, Episode 4)",
    "year": "1997",
@@ -411076,7 +411002,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:77"
+    "fanwiki-screen-oct14:76"
    ],
    "index_only": false,
    "local_only": true,
@@ -411084,7 +411010,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:77": {
+    "fanwiki-screen-oct14:76": {
      "title": "Five Spies",
      "year": "1997",
      "subtitle": "Melody of Death! The Terror of Poison Gas! (死の旋律! 毒ガスの恐怖!!) (Season 1, Episode 4)",
@@ -411119,7 +411045,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2754,
+   "id": 2753,
    "title": "Free Spirit",
    "subtitle": "Too Much of a Good Thing (Season 1, Episode 4)",
    "year": "1989–1990",
@@ -411155,7 +411081,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:78"
+    "fanwiki-screen-oct14:77"
    ],
    "index_only": false,
    "local_only": true,
@@ -411163,7 +411089,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:78": {
+    "fanwiki-screen-oct14:77": {
      "title": "Free Spirit",
      "year": "1989–1990",
      "subtitle": "Too Much of a Good Thing (Season 1, Episode 4)",
@@ -411199,7 +411125,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2755,
+   "id": 2754,
    "title": "French Quarter",
    "subtitle": "",
    "year": "1978",
@@ -411235,7 +411161,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:79"
+    "fanwiki-screen-oct14:78"
    ],
    "index_only": false,
    "local_only": true,
@@ -411243,7 +411169,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:79": {
+    "fanwiki-screen-oct14:78": {
      "title": "French Quarter",
      "year": "1978",
      "subtitle": "",
@@ -411279,7 +411205,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2756,
+   "id": 2755,
    "title": "Frozen Scream",
    "subtitle": "",
    "year": "1981",
@@ -411316,7 +411242,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:80"
+    "fanwiki-screen-oct14:79"
    ],
    "index_only": false,
    "local_only": true,
@@ -411324,7 +411250,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:80": {
+    "fanwiki-screen-oct14:79": {
      "title": "Frozen Scream",
      "year": "1981",
      "subtitle": "",
@@ -411361,7 +411287,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2757,
+   "id": 2756,
    "title": "Furia à Bahia pour OSS 117",
    "subtitle": "",
    "year": "1965",
@@ -411397,7 +411323,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:81"
+    "fanwiki-screen-oct14:80"
    ],
    "index_only": false,
    "local_only": true,
@@ -411405,7 +411331,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:81": {
+    "fanwiki-screen-oct14:80": {
      "title": "Furia à Bahia pour OSS 117",
      "year": "1965",
      "subtitle": "",
@@ -411441,7 +411367,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2758,
+   "id": 2757,
    "title": "Galaxy Park",
    "subtitle": "Season 1, Episode 26 / Season 1, Episodes 51-52 / Season 2, Episode 48",
    "year": "2011–2014",
@@ -411476,7 +411402,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:82"
+    "fanwiki-screen-oct14:81"
    ],
    "index_only": false,
    "local_only": true,
@@ -411484,7 +411410,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:82": {
+    "fanwiki-screen-oct14:81": {
      "title": "Galaxy Park",
      "year": "2011–2014",
      "subtitle": "Season 1, Episode 26 / Season 1, Episodes 51-52 / Season 2, Episode 48",
@@ -411519,7 +411445,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2759,
+   "id": 2758,
    "title": "Gara - Gara Duyung",
    "subtitle": "Ep. 53",
    "year": "2016",
@@ -411554,7 +411480,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:83"
+    "fanwiki-screen-oct14:82"
    ],
    "index_only": false,
    "local_only": true,
@@ -411562,7 +411488,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:83": {
+    "fanwiki-screen-oct14:82": {
      "title": "Gara - Gara Duyung",
      "year": "2016",
      "subtitle": "Ep. 53",
@@ -411597,7 +411523,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2760,
+   "id": 2759,
    "title": "Garo the Movie: Red Requiem",
    "subtitle": "",
    "year": "2010",
@@ -411632,7 +411558,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:84"
+    "fanwiki-screen-oct14:83"
    ],
    "index_only": false,
    "local_only": true,
@@ -411640,7 +411566,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:84": {
+    "fanwiki-screen-oct14:83": {
      "title": "Garo the Movie: Red Requiem",
      "year": "2010",
      "subtitle": "",
@@ -411675,7 +411601,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2761,
+   "id": 2760,
    "title": "Gekisou Sentai Carranger",
    "subtitle": "Ep. 10: A Great Reversal!! Bicycle Training / Ep. 45: The Starting Point of True Love",
    "year": "2017",
@@ -411710,7 +411636,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:85"
+    "fanwiki-screen-oct14:84"
    ],
    "index_only": false,
    "local_only": true,
@@ -411718,7 +411644,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:85": {
+    "fanwiki-screen-oct14:84": {
      "title": "Gekisou Sentai Carranger",
      "year": "2017",
      "subtitle": "Ep. 10: A Great Reversal!! Bicycle Training / Ep. 45: The Starting Point of True Love",
@@ -411753,7 +411679,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2762,
+   "id": 2761,
    "title": "Gilligan's Island",
    "subtitle": "Forget Me Not (Season 1, Episode 30) / The Friendly Physician (Season 2, Episode 29) / Voodoo (Season 3, Episode 5) / Ri",
    "year": "1964–1967",
@@ -411790,7 +411716,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:86"
+    "fanwiki-screen-oct14:85"
    ],
    "index_only": false,
    "local_only": true,
@@ -411798,7 +411724,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:86": {
+    "fanwiki-screen-oct14:85": {
      "title": "Gilligan's Island",
      "year": "1964–1967",
      "subtitle": "Forget Me Not (Season 1, Episode 30) / The Friendly Physician (Season 2, Episode 29) / Voodoo (Season 3, Episode 5) / Ri",
@@ -411835,7 +411761,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2763,
+   "id": 2762,
    "title": "God of Thunder",
    "subtitle": "",
    "year": "2015",
@@ -411870,7 +411796,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:87"
+    "fanwiki-screen-oct14:86"
    ],
    "index_only": false,
    "local_only": true,
@@ -411878,7 +411804,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:87": {
+    "fanwiki-screen-oct14:86": {
      "title": "God of Thunder",
      "year": "2015",
      "subtitle": "",
@@ -411913,7 +411839,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2764,
+   "id": 2763,
    "title": "Goosebumps 2: Haunted Halloween",
    "subtitle": "",
    "year": "2018",
@@ -411948,7 +411874,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:88"
+    "fanwiki-screen-oct14:87"
    ],
    "index_only": false,
    "local_only": true,
@@ -411956,7 +411882,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:88": {
+    "fanwiki-screen-oct14:87": {
      "title": "Goosebumps 2: Haunted Halloween",
      "year": "2018",
      "subtitle": "",
@@ -411991,7 +411917,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2765,
+   "id": 2764,
    "title": "Gray Matter (2018)",
    "subtitle": "",
    "year": "2018",
@@ -412028,7 +411954,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:89"
+    "fanwiki-screen-oct14:88"
    ],
    "index_only": false,
    "local_only": true,
@@ -412036,7 +411962,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:89": {
+    "fanwiki-screen-oct14:88": {
      "title": "Gray Matter (2018)",
      "year": "2018",
      "subtitle": "",
@@ -412073,7 +411999,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2766,
+   "id": 2765,
    "title": "Grimm",
    "subtitle": "\"Lonelyhearts\" (Season 1, Episode 4)",
    "year": "2011–2017",
@@ -412108,7 +412034,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:90"
+    "fanwiki-screen-oct14:89"
    ],
    "index_only": false,
    "local_only": true,
@@ -412116,7 +412042,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:90": {
+    "fanwiki-screen-oct14:89": {
      "title": "Grimm",
      "year": "2011–2017",
      "subtitle": "\"Lonelyhearts\" (Season 1, Episode 4)",
@@ -412151,7 +412077,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2767,
+   "id": 2766,
    "title": "Groom Lake",
    "subtitle": "",
    "year": "2002",
@@ -412188,7 +412114,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:91"
+    "fanwiki-screen-oct14:90"
    ],
    "index_only": false,
    "local_only": true,
@@ -412196,7 +412122,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:91": {
+    "fanwiki-screen-oct14:90": {
      "title": "Groom Lake",
      "year": "2002",
      "subtitle": "",
@@ -412233,7 +412159,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2768,
+   "id": 2767,
    "title": "H2O: Just Add Water",
    "subtitle": "\"Moon Spell\" (Season 1, Episode 7) / \"The Siren Effect\" (Season 1, Episode 12) / \"Bad Moon Rising\" (Season 1, Episode 18",
    "year": "2006–2010",
@@ -412267,7 +412193,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:92"
+    "fanwiki-screen-oct14:91"
    ],
    "index_only": false,
    "local_only": true,
@@ -412275,7 +412201,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:92": {
+    "fanwiki-screen-oct14:91": {
      "title": "H2O: Just Add Water",
      "year": "2006–2010",
      "subtitle": "\"Moon Spell\" (Season 1, Episode 7) / \"The Siren Effect\" (Season 1, Episode 12) / \"Bad Moon Rising\" (Season 1, Episode 18",
@@ -412309,7 +412235,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2769,
+   "id": 2768,
    "title": "Hammer: House of Horror",
    "subtitle": "1x10- Guardian of the Abyss",
    "year": "1980",
@@ -412343,7 +412269,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:93"
+    "fanwiki-screen-oct14:92"
    ],
    "index_only": false,
    "local_only": true,
@@ -412351,7 +412277,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:93": {
+    "fanwiki-screen-oct14:92": {
      "title": "Hammer: House of Horror",
      "year": "1980",
      "subtitle": "1x10- Guardian of the Abyss",
@@ -412385,7 +412311,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2770,
+   "id": 2769,
    "title": "Hellphone",
    "subtitle": "",
    "year": "2007",
@@ -412420,7 +412346,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:94"
+    "fanwiki-screen-oct14:93"
    ],
    "index_only": false,
    "local_only": true,
@@ -412428,7 +412354,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:94": {
+    "fanwiki-screen-oct14:93": {
      "title": "Hellphone",
      "year": "2007",
      "subtitle": "",
@@ -412463,7 +412389,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2771,
+   "id": 2770,
    "title": "Hercules: The Legendary Journeys",
    "subtitle": "The Festival of Dionysus",
    "year": "1995",
@@ -412499,7 +412425,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:95"
+    "fanwiki-screen-oct14:94"
    ],
    "index_only": false,
    "local_only": true,
@@ -412507,7 +412433,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:95": {
+    "fanwiki-screen-oct14:94": {
      "title": "Hercules: The Legendary Journeys",
      "year": "1995",
      "subtitle": "The Festival of Dionysus",
@@ -412543,7 +412469,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2772,
+   "id": 2771,
    "title": "Highlander: The Series",
    "subtitle": "Avatar (Season 6, Episode 1)",
    "year": "1992–1998",
@@ -412578,7 +412504,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:96"
+    "fanwiki-screen-oct14:95"
    ],
    "index_only": false,
    "local_only": true,
@@ -412586,7 +412512,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:96": {
+    "fanwiki-screen-oct14:95": {
      "title": "Highlander: The Series",
      "year": "1992–1998",
      "subtitle": "Avatar (Season 6, Episode 1)",
@@ -412621,7 +412547,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2773,
+   "id": 2772,
    "title": "Highly Dangerous",
    "subtitle": "",
    "year": "1950",
@@ -412657,7 +412583,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:97"
+    "fanwiki-screen-oct14:96"
    ],
    "index_only": false,
    "local_only": true,
@@ -412665,7 +412591,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:97": {
+    "fanwiki-screen-oct14:96": {
      "title": "Highly Dangerous",
      "year": "1950",
      "subtitle": "",
@@ -412701,7 +412627,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2774,
+   "id": 2773,
    "title": "Hikari Sentai Maskman",
    "subtitle": "Ep. 5: The Small Swordsman, Blue / Ep. 23: Mio Who Has Become a Demon / Ep. 41: Female Thieves Haruka & Momoko",
    "year": "1987",
@@ -412735,7 +412661,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:98"
+    "fanwiki-screen-oct14:97"
    ],
    "index_only": false,
    "local_only": true,
@@ -412743,7 +412669,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:98": {
+    "fanwiki-screen-oct14:97": {
      "title": "Hikari Sentai Maskman",
      "year": "1987",
      "subtitle": "Ep. 5: The Small Swordsman, Blue / Ep. 23: Mio Who Has Become a Demon / Ep. 41: Female Thieves Haruka & Momoko",
@@ -412777,7 +412703,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2775,
+   "id": 2774,
    "title": "Honey, I Shrunk the Kids: The TV Show",
    "subtitle": "Honey, I'm Haunted (Season 1, Episode 3) / Honey, You've Drained My Brain (Season 1, Episode 14) / Honey, I'm in the Moo",
    "year": "1997–2000",
@@ -412814,7 +412740,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:99"
+    "fanwiki-screen-oct14:98"
    ],
    "index_only": false,
    "local_only": true,
@@ -412822,7 +412748,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:99": {
+    "fanwiki-screen-oct14:98": {
      "title": "Honey, I Shrunk the Kids: The TV Show",
      "year": "1997–2000",
      "subtitle": "Honey, I'm Haunted (Season 1, Episode 3) / Honey, You've Drained My Brain (Season 1, Episode 14) / Honey, I'm in the Moo",
@@ -412859,7 +412785,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2776,
+   "id": 2775,
    "title": "Hyakuju Sentai Gaoranger",
    "subtitle": "Quest 06: Bison in Love!! / Quest 19: The Bison Retires!? / Quest 36: The Warriors Dance / Quest 38: The Spirit King's D",
    "year": "2018",
@@ -412893,7 +412819,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:100"
+    "fanwiki-screen-oct14:99"
    ],
    "index_only": false,
    "local_only": true,
@@ -412901,7 +412827,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:100": {
+    "fanwiki-screen-oct14:99": {
      "title": "Hyakuju Sentai Gaoranger",
      "year": "2018",
      "subtitle": "Quest 06: Bison in Love!! / Quest 19: The Bison Retires!? / Quest 36: The Warriors Dance / Quest 38: The Spirit King's D",
@@ -412935,7 +412861,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2777,
+   "id": 2776,
    "title": "I'm in the Band",
    "subtitle": "Trippnotized (Season 2, Episode 19)",
    "year": "2009–2011",
@@ -412970,7 +412896,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:101"
+    "fanwiki-screen-oct14:100"
    ],
    "index_only": false,
    "local_only": true,
@@ -412978,7 +412904,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:101": {
+    "fanwiki-screen-oct14:100": {
      "title": "I'm in the Band",
      "year": "2009–2011",
      "subtitle": "Trippnotized (Season 2, Episode 19)",
@@ -413013,7 +412939,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2778,
+   "id": 2777,
    "title": "I Walked with a Zombie",
    "subtitle": "",
    "year": "1943",
@@ -413048,7 +412974,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:102"
+    "fanwiki-screen-oct14:101"
    ],
    "index_only": false,
    "local_only": true,
@@ -413056,7 +412982,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:102": {
+    "fanwiki-screen-oct14:101": {
      "title": "I Walked with a Zombie",
      "year": "1943",
      "subtitle": "",
@@ -413091,7 +413017,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2779,
+   "id": 2778,
    "title": "Ichhapyari naagin",
    "subtitle": "Episode 173",
    "year": "2016",
@@ -413127,7 +413053,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:103"
+    "fanwiki-screen-oct14:102"
    ],
    "index_only": false,
    "local_only": true,
@@ -413135,7 +413061,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:103": {
+    "fanwiki-screen-oct14:102": {
      "title": "Ichhapyari naagin",
      "year": "2016",
      "subtitle": "Episode 173",
@@ -413171,7 +413097,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2780,
+   "id": 2779,
    "title": "Imaginário",
    "subtitle": "Boto (Episode 8)",
    "year": "2016",
@@ -413205,7 +413131,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:104"
+    "fanwiki-screen-oct14:103"
    ],
    "index_only": false,
    "local_only": true,
@@ -413213,7 +413139,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:104": {
+    "fanwiki-screen-oct14:103": {
      "title": "Imaginário",
      "year": "2016",
      "subtitle": "Boto (Episode 8)",
@@ -413247,7 +413173,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2781,
+   "id": 2780,
    "title": "Inazuman Flash",
    "subtitle": "The Mysterious Woman: Whose Name is the Despar Secret Agent (Season 1, Episode 16)",
    "year": "1974",
@@ -413282,7 +413208,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:105"
+    "fanwiki-screen-oct14:104"
    ],
    "index_only": false,
    "local_only": true,
@@ -413290,7 +413216,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:105": {
+    "fanwiki-screen-oct14:104": {
      "title": "Inazuman Flash",
      "year": "1974",
      "subtitle": "The Mysterious Woman: Whose Name is the Despar Secret Agent (Season 1, Episode 16)",
@@ -413325,7 +413251,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2782,
+   "id": 2781,
    "title": "Intouchable",
    "subtitle": "Aesop, The Magician (Episode 7)",
    "year": "2015",
@@ -413359,7 +413285,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:106"
+    "fanwiki-screen-oct14:105"
    ],
    "index_only": false,
    "local_only": true,
@@ -413367,7 +413293,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:106": {
+    "fanwiki-screen-oct14:105": {
      "title": "Intouchable",
      "year": "2015",
      "subtitle": "Aesop, The Magician (Episode 7)",
@@ -413401,7 +413327,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2783,
+   "id": 2782,
    "title": "Invasion of the Bee Girls",
    "subtitle": "",
    "year": "1973",
@@ -413435,7 +413361,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:107"
+    "fanwiki-screen-oct14:106"
    ],
    "index_only": false,
    "local_only": true,
@@ -413443,7 +413369,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:107": {
+    "fanwiki-screen-oct14:106": {
      "title": "Invasion of the Bee Girls",
      "year": "1973",
      "subtitle": "",
@@ -413477,7 +413403,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2784,
+   "id": 2783,
    "title": "Isa Tk+",
    "subtitle": "Episode 33, 34,35",
    "year": "2009–2010",
@@ -413513,7 +413439,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:108"
+    "fanwiki-screen-oct14:107"
    ],
    "index_only": false,
    "local_only": true,
@@ -413521,7 +413447,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:108": {
+    "fanwiki-screen-oct14:107": {
      "title": "Isa Tk+",
      "year": "2009–2010",
      "subtitle": "Episode 33, 34,35",
@@ -413557,7 +413483,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2785,
+   "id": 2784,
    "title": "Journey To The Unknown",
    "subtitle": "1x15- Stranger In The Family",
    "year": "1968",
@@ -413591,7 +413517,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:109"
+    "fanwiki-screen-oct14:108"
    ],
    "index_only": false,
    "local_only": true,
@@ -413599,7 +413525,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:109": {
+    "fanwiki-screen-oct14:108": {
      "title": "Journey To The Unknown",
      "year": "1968",
      "subtitle": "1x15- Stranger In The Family",
@@ -413633,7 +413559,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2786,
+   "id": 2785,
    "title": "Juken Sentai Gekiranger",
    "subtitle": "Lesson 22: Kyui-Kyui! Date with a Celebrity / Lesson 23: Gure-Gure! Gure-Gure! Sukeban Captain",
    "year": "2006",
@@ -413667,7 +413593,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:110"
+    "fanwiki-screen-oct14:109"
    ],
    "index_only": false,
    "local_only": true,
@@ -413675,7 +413601,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:110": {
+    "fanwiki-screen-oct14:109": {
      "title": "Juken Sentai Gekiranger",
      "year": "2006",
      "subtitle": "Lesson 22: Kyui-Kyui! Date with a Celebrity / Lesson 23: Gure-Gure! Gure-Gure! Sukeban Captain",
@@ -413709,7 +413635,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2787,
+   "id": 2786,
    "title": "Kaboum",
    "subtitle": "Zombie-Zomba",
    "year": "2007–2012",
@@ -413743,7 +413669,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:111"
+    "fanwiki-screen-oct14:110"
    ],
    "index_only": false,
    "local_only": true,
@@ -413751,7 +413677,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:111": {
+    "fanwiki-screen-oct14:110": {
      "title": "Kaboum",
      "year": "2007–2012",
      "subtitle": "Zombie-Zomba",
@@ -413785,7 +413711,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2788,
+   "id": 2787,
    "title": "Kagaku Sentai Dynaman",
    "subtitle": "Ep. 6: Fight to the Death! The Haunts of a Poisonous Snake / Ep. 10: The Intruder From Outer Space / Ep. 13: The Kidnapp",
    "year": "1983",
@@ -413819,7 +413745,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:112"
+    "fanwiki-screen-oct14:111"
    ],
    "index_only": false,
    "local_only": true,
@@ -413827,7 +413753,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:112": {
+    "fanwiki-screen-oct14:111": {
      "title": "Kagaku Sentai Dynaman",
      "year": "1983",
      "subtitle": "Ep. 6: Fight to the Death! The Haunts of a Poisonous Snake / Ep. 10: The Intruder From Outer Space / Ep. 13: The Kidnapp",
@@ -413861,7 +413787,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2789,
+   "id": 2788,
    "title": "Kamen Rider Ghost",
    "subtitle": "Ep. 47: \"End! The Chain of Sorrow!\"",
    "year": "2015",
@@ -413895,7 +413821,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:113"
+    "fanwiki-screen-oct14:112"
    ],
    "index_only": false,
    "local_only": true,
@@ -413903,7 +413829,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:113": {
+    "fanwiki-screen-oct14:112": {
      "title": "Kamen Rider Ghost",
      "year": "2015",
      "subtitle": "Ep. 47: \"End! The Chain of Sorrow!\"",
@@ -413937,7 +413863,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2790,
+   "id": 2789,
    "title": "Kamen Rider Skyrider",
    "subtitle": "Episode 39 & 40",
    "year": "1979",
@@ -413972,7 +413898,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:114"
+    "fanwiki-screen-oct14:113"
    ],
    "index_only": false,
    "local_only": true,
@@ -413980,7 +413906,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:114": {
+    "fanwiki-screen-oct14:113": {
      "title": "Kamen Rider Skyrider",
      "year": "1979",
      "subtitle": "Episode 39 & 40",
@@ -414015,7 +413941,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2791,
+   "id": 2790,
    "title": "Kamen Rider Stronger",
    "subtitle": "Ep. 34: \"The Snake Woman's Bloodsucking Hell!\"",
    "year": "1975",
@@ -414049,7 +413975,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:115"
+    "fanwiki-screen-oct14:114"
    ],
    "index_only": false,
    "local_only": true,
@@ -414057,7 +413983,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:115": {
+    "fanwiki-screen-oct14:114": {
      "title": "Kamen Rider Stronger",
      "year": "1975",
      "subtitle": "Ep. 34: \"The Snake Woman's Bloodsucking Hell!\"",
@@ -414091,7 +414017,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2792,
+   "id": 2791,
    "title": "Kamen Rider X",
    "subtitle": "Run, Cruiser! X-Rider (Episode 2)",
    "year": "1974",
@@ -414126,7 +414052,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:116"
+    "fanwiki-screen-oct14:115"
    ],
    "index_only": false,
    "local_only": true,
@@ -414134,7 +414060,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:116": {
+    "fanwiki-screen-oct14:115": {
      "title": "Kamen Rider X",
      "year": "1974",
      "subtitle": "Run, Cruiser! X-Rider (Episode 2)",
@@ -414169,7 +414095,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2793,
+   "id": 2792,
    "title": "Kamen Rider ZEZTZ",
    "subtitle": "Episode 17",
    "year": "2025",
@@ -414203,7 +414129,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:117"
+    "fanwiki-screen-oct14:116"
    ],
    "index_only": false,
    "local_only": true,
@@ -414211,7 +414137,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:117": {
+    "fanwiki-screen-oct14:116": {
      "title": "Kamen Rider ZEZTZ",
      "year": "2025",
      "subtitle": "Episode 17",
@@ -414245,7 +414171,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2794,
+   "id": 2793,
    "title": "Karma: The Series",
    "subtitle": "Episod 31",
    "year": "2018",
@@ -414279,7 +414205,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:118"
+    "fanwiki-screen-oct14:117"
    ],
    "index_only": false,
    "local_only": true,
@@ -414287,7 +414213,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:118": {
+    "fanwiki-screen-oct14:117": {
      "title": "Karma: The Series",
      "year": "2018",
      "subtitle": "Episod 31",
@@ -414321,7 +414247,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2795,
+   "id": 2794,
    "title": "Kill, Baby, Kill",
    "subtitle": "",
    "year": "1966",
@@ -414357,7 +414283,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:119"
+    "fanwiki-screen-oct14:118"
    ],
    "index_only": false,
    "local_only": true,
@@ -414365,7 +414291,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:119": {
+    "fanwiki-screen-oct14:118": {
      "title": "Kill, Baby, Kill",
      "year": "1966",
      "subtitle": "",
@@ -414401,7 +414327,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2796,
+   "id": 2795,
    "title": "Kiss the Girls and Make Them Die",
    "subtitle": "",
    "year": "1966",
@@ -414436,7 +414362,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:120"
+    "fanwiki-screen-oct14:119"
    ],
    "index_only": false,
    "local_only": true,
@@ -414444,7 +414370,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:120": {
+    "fanwiki-screen-oct14:119": {
      "title": "Kiss the Girls and Make Them Die",
      "year": "1966",
      "subtitle": "",
@@ -414479,7 +414405,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2797,
+   "id": 2796,
    "title": "Kitty Kitty",
    "subtitle": "",
    "year": "2011",
@@ -414514,7 +414440,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:121"
+    "fanwiki-screen-oct14:120"
    ],
    "index_only": false,
    "local_only": true,
@@ -414522,7 +414448,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:121": {
+    "fanwiki-screen-oct14:120": {
      "title": "Kitty Kitty",
      "year": "2011",
      "subtitle": "",
@@ -414557,7 +414483,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2798,
+   "id": 2797,
    "title": "Kofiko",
    "subtitle": "Season 3, Episode 1",
    "year": "1994",
@@ -414592,7 +414518,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:122"
+    "fanwiki-screen-oct14:121"
    ],
    "index_only": false,
    "local_only": true,
@@ -414600,7 +414526,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:122": {
+    "fanwiki-screen-oct14:121": {
      "title": "Kofiko",
      "year": "1994",
      "subtitle": "Season 3, Episode 1",
@@ -414635,7 +414561,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2799,
+   "id": 2798,
    "title": "L'Appart du 5e",
    "subtitle": "La Taupe (Season 4, Episode 9) / Orphan (Season 4, Episode 10) / Histoires de sœurs (Season 4, Episode 12) / L'Heure de ",
    "year": "2013–2016",
@@ -414669,7 +414595,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:123"
+    "fanwiki-screen-oct14:122"
    ],
    "index_only": false,
    "local_only": true,
@@ -414677,7 +414603,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:123": {
+    "fanwiki-screen-oct14:122": {
      "title": "L'Appart du 5e",
      "year": "2013–2016",
      "subtitle": "La Taupe (Season 4, Episode 9) / Orphan (Season 4, Episode 10) / Histoires de sœurs (Season 4, Episode 12) / L'Heure de ",
@@ -414711,7 +414637,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2800,
+   "id": 2799,
    "title": "Land Of The Lost (1991)",
    "subtitle": "Mind Games",
    "year": "1991",
@@ -414745,7 +414671,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:124"
+    "fanwiki-screen-oct14:123"
    ],
    "index_only": false,
    "local_only": true,
@@ -414753,7 +414679,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:124": {
+    "fanwiki-screen-oct14:123": {
      "title": "Land Of The Lost (1991)",
      "year": "1991",
      "subtitle": "Mind Games",
@@ -414787,7 +414713,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2801,
+   "id": 2800,
    "title": "Land of the Giants",
    "subtitle": "Pay the Piper",
    "year": "1968",
@@ -414821,7 +414747,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:125"
+    "fanwiki-screen-oct14:124"
    ],
    "index_only": false,
    "local_only": true,
@@ -414829,7 +414755,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:125": {
+    "fanwiki-screen-oct14:124": {
      "title": "Land of the Giants",
      "year": "1968",
      "subtitle": "Pay the Piper",
@@ -414863,7 +414789,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2802,
+   "id": 2801,
    "title": "Legacies",
    "subtitle": "We're Being Punked, Pedro (Season 1, Episode 3) / Hope Is Not the Goal (Season 1, Episode 4) / We're Gonna Need a Spotli",
    "year": "2018–2022",
@@ -414898,7 +414824,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:126"
+    "fanwiki-screen-oct14:125"
    ],
    "index_only": false,
    "local_only": true,
@@ -414906,7 +414832,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:126": {
+    "fanwiki-screen-oct14:125": {
      "title": "Legacies",
      "year": "2018–2022",
      "subtitle": "We're Being Punked, Pedro (Season 1, Episode 3) / Hope Is Not the Goal (Season 1, Episode 4) / We're Gonna Need a Spotli",
@@ -414941,7 +414867,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2803,
+   "id": 2802,
    "title": "Leprechaun 3",
    "subtitle": "",
    "year": "1995",
@@ -414977,7 +414903,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:127"
+    "fanwiki-screen-oct14:126"
    ],
    "index_only": false,
    "local_only": true,
@@ -414985,7 +414911,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:127": {
+    "fanwiki-screen-oct14:126": {
      "title": "Leprechaun 3",
      "year": "1995",
      "subtitle": "",
@@ -415021,7 +414947,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2804,
+   "id": 2803,
    "title": "Leprechaun In The Hood",
    "subtitle": "",
    "year": "2000",
@@ -415057,7 +414983,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:128"
+    "fanwiki-screen-oct14:127"
    ],
    "index_only": false,
    "local_only": true,
@@ -415065,7 +414991,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:128": {
+    "fanwiki-screen-oct14:127": {
      "title": "Leprechaun In The Hood",
      "year": "2000",
      "subtitle": "",
@@ -415101,7 +415027,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2805,
+   "id": 2804,
    "title": "Lightning Force",
    "subtitle": "Lightning Strikes Back (Season 1, Episode 17)) / The Master: Part 1 (Season 1, Episode 18) / The Master: Part 2 (Season ",
    "year": "1991–1992",
@@ -415135,7 +415061,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:129"
+    "fanwiki-screen-oct14:128"
    ],
    "index_only": false,
    "local_only": true,
@@ -415143,7 +415069,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:129": {
+    "fanwiki-screen-oct14:128": {
      "title": "Lightning Force",
      "year": "1991–1992",
      "subtitle": "Lightning Strikes Back (Season 1, Episode 17)) / The Master: Part 1 (Season 1, Episode 18) / The Master: Part 2 (Season ",
@@ -415177,7 +415103,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2806,
+   "id": 2805,
    "title": "Los Misterios de Rolo y sus Amigos",
    "subtitle": "Hipnotizados",
    "year": "2019",
@@ -415213,7 +415139,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:130"
+    "fanwiki-screen-oct14:129"
    ],
    "index_only": false,
    "local_only": true,
@@ -415221,7 +415147,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:130": {
+    "fanwiki-screen-oct14:129": {
      "title": "Los Misterios de Rolo y sus Amigos",
      "year": "2019",
      "subtitle": "Hipnotizados",
@@ -415257,7 +415183,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2807,
+   "id": 2806,
    "title": "Lost Girl",
    "subtitle": "It's a Fae, Fae, Fae, Fae World (Season 1, Episode 1) / Oh Kappa, My Kappa (Season 1, Episode 3) / It's Better to Burn O",
    "year": "2010–2015",
@@ -415292,7 +415218,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:131"
+    "fanwiki-screen-oct14:130"
    ],
    "index_only": false,
    "local_only": true,
@@ -415300,7 +415226,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:131": {
+    "fanwiki-screen-oct14:130": {
      "title": "Lost Girl",
      "year": "2010–2015",
      "subtitle": "It's a Fae, Fae, Fae, Fae World (Season 1, Episode 1) / Oh Kappa, My Kappa (Season 1, Episode 3) / It's Better to Burn O",
@@ -415335,7 +415261,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2808,
+   "id": 2807,
    "title": "Love Potion (Short Film)",
    "subtitle": "",
    "year": "2023",
@@ -415371,7 +415297,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:132"
+    "fanwiki-screen-oct14:131"
    ],
    "index_only": false,
    "local_only": true,
@@ -415379,7 +415305,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:132": {
+    "fanwiki-screen-oct14:131": {
      "title": "Love Potion (Short Film)",
      "year": "2023",
      "subtitle": "",
@@ -415415,7 +415341,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2809,
+   "id": 2808,
    "title": "Lua Vermelha",
    "subtitle": "Episode 2",
    "year": "2010",
@@ -415449,7 +415375,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:133"
+    "fanwiki-screen-oct14:132"
    ],
    "index_only": false,
    "local_only": true,
@@ -415457,7 +415383,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:133": {
+    "fanwiki-screen-oct14:132": {
      "title": "Lua Vermelha",
      "year": "2010",
      "subtitle": "Episode 2",
@@ -415491,7 +415417,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2810,
+   "id": 2809,
    "title": "Lyco",
    "subtitle": "",
    "year": "2018",
@@ -415526,7 +415452,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:134"
+    "fanwiki-screen-oct14:133"
    ],
    "index_only": false,
    "local_only": true,
@@ -415534,7 +415460,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:134": {
+    "fanwiki-screen-oct14:133": {
      "title": "Lyco",
      "year": "2018",
      "subtitle": "",
@@ -415569,7 +415495,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2811,
+   "id": 2810,
    "title": "Magical Chinese Girl Pai Pai!",
    "subtitle": "Episode 25",
    "year": "1989",
@@ -415603,7 +415529,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:135"
+    "fanwiki-screen-oct14:134"
    ],
    "index_only": false,
    "local_only": true,
@@ -415611,7 +415537,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:135": {
+    "fanwiki-screen-oct14:134": {
      "title": "Magical Chinese Girl Pai Pai!",
      "year": "1989",
      "subtitle": "Episode 25",
@@ -415645,7 +415571,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2812,
+   "id": 2811,
    "title": "Mako Mermaids",
    "subtitle": "The Siren (Season 2, Episode 2)",
    "year": "2013",
@@ -415679,7 +415605,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:136"
+    "fanwiki-screen-oct14:135"
    ],
    "index_only": false,
    "local_only": true,
@@ -415687,7 +415613,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:136": {
+    "fanwiki-screen-oct14:135": {
      "title": "Mako Mermaids",
      "year": "2013",
      "subtitle": "The Siren (Season 2, Episode 2)",
@@ -415721,7 +415647,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2813,
+   "id": 2812,
    "title": "Maligno",
    "subtitle": "",
    "year": "2016",
@@ -415757,7 +415683,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:137"
+    "fanwiki-screen-oct14:136"
    ],
    "index_only": false,
    "local_only": true,
@@ -415765,7 +415691,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:137": {
+    "fanwiki-screen-oct14:136": {
      "title": "Maligno",
      "year": "2016",
      "subtitle": "",
@@ -415801,7 +415727,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2814,
+   "id": 2813,
    "title": "Mashin Sentai Kiramager",
    "subtitle": "Episode 10:The Girl Who Chases After Shiguru / Episode 18: Darkness / Episode 19: Partner / Episode 30: Proud Super Warr",
    "year": "2020",
@@ -415835,7 +415761,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:138"
+    "fanwiki-screen-oct14:137"
    ],
    "index_only": false,
    "local_only": true,
@@ -415843,7 +415769,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:138": {
+    "fanwiki-screen-oct14:137": {
      "title": "Mashin Sentai Kiramager",
      "year": "2020",
      "subtitle": "Episode 10:The Girl Who Chases After Shiguru / Episode 18: Darkness / Episode 19: Partner / Episode 30: Proud Super Warr",
@@ -415877,7 +415803,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2815,
+   "id": 2814,
    "title": "Mech-X4",
    "subtitle": "Mech-X4 Versus The Infected (Season 2, Episode 19)",
    "year": "2016",
@@ -415912,7 +415838,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:139"
+    "fanwiki-screen-oct14:138"
    ],
    "index_only": false,
    "local_only": true,
@@ -415920,7 +415846,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:139": {
+    "fanwiki-screen-oct14:138": {
      "title": "Mech-X4",
      "year": "2016",
      "subtitle": "Mech-X4 Versus The Infected (Season 2, Episode 19)",
@@ -415955,7 +415881,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2816,
+   "id": 2815,
    "title": "Mega Mindy",
    "subtitle": "Season 1 Episode 3 - De valse dokter / Season 3 Episode 11 - Roofkapje",
    "year": "2008",
@@ -415990,7 +415916,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:140"
+    "fanwiki-screen-oct14:139"
    ],
    "index_only": false,
    "local_only": true,
@@ -415998,7 +415924,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:140": {
+    "fanwiki-screen-oct14:139": {
      "title": "Mega Mindy",
      "year": "2008",
      "subtitle": "Season 1 Episode 3 - De valse dokter / Season 3 Episode 11 - Roofkapje",
@@ -416033,7 +415959,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2817,
+   "id": 2816,
    "title": "Monster Mash: The Movie",
    "subtitle": "",
    "year": "1995",
@@ -416069,7 +415995,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:141"
+    "fanwiki-screen-oct14:140"
    ],
    "index_only": false,
    "local_only": true,
@@ -416077,7 +416003,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:141": {
+    "fanwiki-screen-oct14:140": {
      "title": "Monster Mash: The Movie",
      "year": "1995",
      "subtitle": "",
@@ -416113,7 +416039,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2818,
+   "id": 2817,
    "title": "Mutant X",
    "subtitle": "A Breed Apart (Season 1, Episode 22) / Body and Soul (Season 2, Episode 9) / She's Come Undone (Season 3, Episode 17) / ",
    "year": "2001–2004",
@@ -416147,7 +416073,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:142"
+    "fanwiki-screen-oct14:141"
    ],
    "index_only": false,
    "local_only": true,
@@ -416155,7 +416081,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:142": {
+    "fanwiki-screen-oct14:141": {
      "title": "Mutant X",
      "year": "2001–2004",
      "subtitle": "A Breed Apart (Season 1, Episode 22) / Body and Soul (Season 2, Episode 9) / She's Come Undone (Season 3, Episode 17) / ",
@@ -416189,7 +416115,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2819,
+   "id": 2818,
    "title": "My Best Friend is a Vampire",
    "subtitle": "",
    "year": "1987",
@@ -416227,7 +416153,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:143"
+    "fanwiki-screen-oct14:142"
    ],
    "index_only": false,
    "local_only": true,
@@ -416235,7 +416161,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:143": {
+    "fanwiki-screen-oct14:142": {
      "title": "My Best Friend is a Vampire",
      "year": "1987",
      "subtitle": "",
@@ -416273,7 +416199,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2820,
+   "id": 2819,
    "title": "Mysteries of Black Magic",
    "subtitle": "",
    "year": "1958",
@@ -416310,7 +416236,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:144"
+    "fanwiki-screen-oct14:143"
    ],
    "index_only": false,
    "local_only": true,
@@ -416318,7 +416244,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:144": {
+    "fanwiki-screen-oct14:143": {
      "title": "Mysteries of Black Magic",
      "year": "1958",
      "subtitle": "",
@@ -416355,7 +416281,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2821,
+   "id": 2820,
    "title": "Mystic Knights of Tir Na Nog",
    "subtitle": "Aideen's Choice (Season 1, Episode 18) / Dark Rider (Season 1, Episode 42)",
    "year": "1998–1999",
@@ -416389,7 +416315,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:145"
+    "fanwiki-screen-oct14:144"
    ],
    "index_only": false,
    "local_only": true,
@@ -416397,7 +416323,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:145": {
+    "fanwiki-screen-oct14:144": {
      "title": "Mystic Knights of Tir Na Nog",
      "year": "1998–1999",
      "subtitle": "Aideen's Choice (Season 1, Episode 18) / Dark Rider (Season 1, Episode 42)",
@@ -416431,7 +416357,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2822,
+   "id": 2821,
    "title": "Mythica: The Godslayer",
    "subtitle": "",
    "year": "2016",
@@ -416466,7 +416392,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:146"
+    "fanwiki-screen-oct14:145"
    ],
    "index_only": false,
    "local_only": true,
@@ -416474,7 +416400,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:146": {
+    "fanwiki-screen-oct14:145": {
      "title": "Mythica: The Godslayer",
      "year": "2016",
      "subtitle": "",
@@ -416509,7 +416435,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2823,
+   "id": 2822,
    "title": "Mythica: The Iron Crown",
    "subtitle": "",
    "year": "2016",
@@ -416545,7 +416471,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:147"
+    "fanwiki-screen-oct14:146"
    ],
    "index_only": false,
    "local_only": true,
@@ -416553,7 +416479,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:147": {
+    "fanwiki-screen-oct14:146": {
      "title": "Mythica: The Iron Crown",
      "year": "2016",
      "subtitle": "",
@@ -416589,7 +416515,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2824,
+   "id": 2823,
    "title": "Natty knocks",
    "subtitle": "",
    "year": "2023",
@@ -416625,7 +416551,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:148"
+    "fanwiki-screen-oct14:147"
    ],
    "index_only": false,
    "local_only": true,
@@ -416633,7 +416559,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:148": {
+    "fanwiki-screen-oct14:147": {
      "title": "Natty knocks",
      "year": "2023",
      "subtitle": "",
@@ -416669,7 +416595,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2825,
+   "id": 2824,
    "title": "Ninja 3: The Domination",
    "subtitle": "",
    "year": "1984",
@@ -416705,7 +416631,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:149"
+    "fanwiki-screen-oct14:148"
    ],
    "index_only": false,
    "local_only": true,
@@ -416713,7 +416639,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:149": {
+    "fanwiki-screen-oct14:148": {
      "title": "Ninja 3: The Domination",
      "year": "1984",
      "subtitle": "",
@@ -416749,7 +416675,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2826,
+   "id": 2825,
    "title": "Operation Kid Brother",
    "subtitle": "",
    "year": "1967",
@@ -416784,7 +416710,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:150"
+    "fanwiki-screen-oct14:149"
    ],
    "index_only": false,
    "local_only": true,
@@ -416792,7 +416718,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:150": {
+    "fanwiki-screen-oct14:149": {
      "title": "Operation Kid Brother",
      "year": "1967",
      "subtitle": "",
@@ -416827,7 +416753,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2827,
+   "id": 2826,
    "title": "Out of This World",
    "subtitle": "Futile Attraction (Season 2, Episode 18)",
    "year": "1987",
@@ -416863,7 +416789,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:151"
+    "fanwiki-screen-oct14:150"
    ],
    "index_only": false,
    "local_only": true,
@@ -416871,7 +416797,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:151": {
+    "fanwiki-screen-oct14:150": {
      "title": "Out of This World",
      "year": "1987",
      "subtitle": "Futile Attraction (Season 2, Episode 18)",
@@ -416907,7 +416833,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2828,
+   "id": 2827,
    "title": "Perfumer",
    "subtitle": "Season 1, Episode 2",
    "year": "2025",
@@ -416941,7 +416867,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:152"
+    "fanwiki-screen-oct14:151"
    ],
    "index_only": false,
    "local_only": true,
@@ -416949,7 +416875,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:152": {
+    "fanwiki-screen-oct14:151": {
      "title": "Perfumer",
      "year": "2025",
      "subtitle": "Season 1, Episode 2",
@@ -416983,7 +416909,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2829,
+   "id": 2828,
    "title": "Pig's Breakfast",
    "subtitle": "Love Smells (Season 1, Episode 10)",
    "year": "1999",
@@ -417020,7 +416946,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:153"
+    "fanwiki-screen-oct14:152"
    ],
    "index_only": false,
    "local_only": true,
@@ -417028,7 +416954,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:153": {
+    "fanwiki-screen-oct14:152": {
      "title": "Pig's Breakfast",
      "year": "1999",
      "subtitle": "Love Smells (Season 1, Episode 10)",
@@ -417065,7 +416991,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2830,
+   "id": 2829,
    "title": "Popular",
    "subtitle": "Slumber Party Massacre (Season 1, Episode 5)",
    "year": "1999–2001",
@@ -417100,7 +417026,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:154"
+    "fanwiki-screen-oct14:153"
    ],
    "index_only": false,
    "local_only": true,
@@ -417108,7 +417034,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:154": {
+    "fanwiki-screen-oct14:153": {
      "title": "Popular",
      "year": "1999–2001",
      "subtitle": "Slumber Party Massacre (Season 1, Episode 5)",
@@ -417143,7 +417069,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2831,
+   "id": 2830,
    "title": "Power Rangers Dino Thunder",
    "subtitle": "The Missing Bone (Season 1, Episode 17) / Thunder Storm (Season 1, Episode 31-32)",
    "year": "2004",
@@ -417178,7 +417104,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:155"
+    "fanwiki-screen-oct14:154"
    ],
    "index_only": false,
    "local_only": true,
@@ -417186,7 +417112,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:155": {
+    "fanwiki-screen-oct14:154": {
      "title": "Power Rangers Dino Thunder",
      "year": "2004",
      "subtitle": "The Missing Bone (Season 1, Episode 17) / Thunder Storm (Season 1, Episode 31-32)",
@@ -417221,7 +417147,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2832,
+   "id": 2831,
    "title": "Power Rangers Operation Overdrive",
    "subtitle": "Pirate in Pink (Season 1, Episode 6)",
    "year": "2007",
@@ -417255,7 +417181,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:156"
+    "fanwiki-screen-oct14:155"
    ],
    "index_only": false,
    "local_only": true,
@@ -417263,7 +417189,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:156": {
+    "fanwiki-screen-oct14:155": {
      "title": "Power Rangers Operation Overdrive",
      "year": "2007",
      "subtitle": "Pirate in Pink (Season 1, Episode 6)",
@@ -417297,7 +417223,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2833,
+   "id": 2832,
    "title": "Power Rangers S.P.D.",
    "subtitle": "Recognition (Season 1, Episode 17) / Zapped (Season 1, Episode 23)",
    "year": "2005",
@@ -417331,7 +417257,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:157"
+    "fanwiki-screen-oct14:156"
    ],
    "index_only": false,
    "local_only": true,
@@ -417339,7 +417265,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:157": {
+    "fanwiki-screen-oct14:156": {
      "title": "Power Rangers S.P.D.",
      "year": "2005",
      "subtitle": "Recognition (Season 1, Episode 17) / Zapped (Season 1, Episode 23)",
@@ -417373,7 +417299,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2834,
+   "id": 2833,
    "title": "Power Rangers Wild Force",
    "subtitle": "Three's a Crowd  (Season 1, Episode 20) / The Flute (Season 1, Episode 29) / Taming of the Zords (Season 1, Episode 31)",
    "year": "2002",
@@ -417407,7 +417333,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:158"
+    "fanwiki-screen-oct14:157"
    ],
    "index_only": false,
    "local_only": true,
@@ -417415,7 +417341,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:158": {
+    "fanwiki-screen-oct14:157": {
      "title": "Power Rangers Wild Force",
      "year": "2002",
      "subtitle": "Three's a Crowd  (Season 1, Episode 20) / The Flute (Season 1, Episode 29) / Taming of the Zords (Season 1, Episode 31)",
@@ -417449,7 +417375,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2835,
+   "id": 2834,
    "title": "Power Rangers in Space",
    "subtitle": "Shell Shocked (Season 1, Episode 4) / SInvasion of the Body Switcher (Season 1, Episode 19) / Dark Specter's Revenge (Se",
    "year": "1998–1999",
@@ -417483,7 +417409,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:159"
+    "fanwiki-screen-oct14:158"
    ],
    "index_only": false,
    "local_only": true,
@@ -417491,7 +417417,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:159": {
+    "fanwiki-screen-oct14:158": {
      "title": "Power Rangers in Space",
      "year": "1998–1999",
      "subtitle": "Shell Shocked (Season 1, Episode 4) / SInvasion of the Body Switcher (Season 1, Episode 19) / Dark Specter's Revenge (Se",
@@ -417525,7 +417451,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2836,
+   "id": 2835,
    "title": "Prime Evil",
    "subtitle": "",
    "year": "1988",
@@ -417560,7 +417486,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:160"
+    "fanwiki-screen-oct14:159"
    ],
    "index_only": false,
    "local_only": true,
@@ -417568,7 +417494,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:160": {
+    "fanwiki-screen-oct14:159": {
      "title": "Prime Evil",
      "year": "1988",
      "subtitle": "",
@@ -417603,7 +417529,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2837,
+   "id": 2836,
    "title": "Prince of Darkness",
    "subtitle": "",
    "year": "1987",
@@ -417638,7 +417564,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:161"
+    "fanwiki-screen-oct14:160"
    ],
    "index_only": false,
    "local_only": true,
@@ -417646,7 +417572,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:161": {
+    "fanwiki-screen-oct14:160": {
      "title": "Prince of Darkness",
      "year": "1987",
      "subtitle": "",
@@ -417681,7 +417607,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2838,
+   "id": 2837,
    "title": "Re-Animator",
    "subtitle": "",
    "year": "1985",
@@ -417717,7 +417643,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:162"
+    "fanwiki-screen-oct14:161"
    ],
    "index_only": false,
    "local_only": true,
@@ -417725,7 +417651,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:162": {
+    "fanwiki-screen-oct14:161": {
      "title": "Re-Animator",
      "year": "1985",
      "subtitle": "",
@@ -417761,7 +417687,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2839,
+   "id": 2838,
    "title": "Ressha Sentai ToQger",
    "subtitle": "Station 7: Inconsolable, Unmotivatable / Station 12: The Rainbow Commuter Pass / Station 21: The Runaway Bride",
    "year": "2014",
@@ -417795,7 +417721,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:163"
+    "fanwiki-screen-oct14:162"
    ],
    "index_only": false,
    "local_only": true,
@@ -417803,7 +417729,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:163": {
+    "fanwiki-screen-oct14:162": {
      "title": "Ressha Sentai ToQger",
      "year": "2014",
      "subtitle": "Station 7: Inconsolable, Unmotivatable / Station 12: The Rainbow Commuter Pass / Station 21: The Runaway Bride",
@@ -417837,7 +417763,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2840,
+   "id": 2839,
    "title": "Ritual (2002)",
    "subtitle": "",
    "year": "2002",
@@ -417872,7 +417798,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:164"
+    "fanwiki-screen-oct14:163"
    ],
    "index_only": false,
    "local_only": true,
@@ -417880,7 +417806,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:164": {
+    "fanwiki-screen-oct14:163": {
      "title": "Ritual (2002)",
      "year": "2002",
      "subtitle": "",
@@ -417915,7 +417841,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2841,
+   "id": 2840,
    "title": "Rox",
    "subtitle": "NV Apocalyps (Season 2, Episode 7)",
    "year": "2011–2015",
@@ -417949,7 +417875,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:165"
+    "fanwiki-screen-oct14:164"
    ],
    "index_only": false,
    "local_only": true,
@@ -417957,7 +417883,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:165": {
+    "fanwiki-screen-oct14:164": {
      "title": "Rox",
      "year": "2011–2015",
      "subtitle": "NV Apocalyps (Season 2, Episode 7)",
@@ -417991,7 +417917,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2842,
+   "id": 2841,
    "title": "Ruby Sparks",
    "subtitle": "",
    "year": "2012",
@@ -418026,7 +417952,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:166"
+    "fanwiki-screen-oct14:165"
    ],
    "index_only": false,
    "local_only": true,
@@ -418034,7 +417960,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:166": {
+    "fanwiki-screen-oct14:165": {
      "title": "Ruby Sparks",
      "year": "2012",
      "subtitle": "",
@@ -418069,7 +417995,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2843,
+   "id": 2842,
    "title": "Salut les Musclés",
    "subtitle": "Retour en force (Season 1, Episode 132)",
    "year": "1989",
@@ -418103,7 +418029,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:167"
+    "fanwiki-screen-oct14:166"
    ],
    "index_only": false,
    "local_only": true,
@@ -418111,7 +418037,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:167": {
+    "fanwiki-screen-oct14:166": {
      "title": "Salut les Musclés",
      "year": "1989",
      "subtitle": "Retour en force (Season 1, Episode 132)",
@@ -418145,7 +418071,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2844,
+   "id": 2843,
    "title": "Sands of Oblivion",
    "subtitle": "",
    "year": "2007",
@@ -418180,7 +418106,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:168"
+    "fanwiki-screen-oct14:167"
    ],
    "index_only": false,
    "local_only": true,
@@ -418188,7 +418114,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:168": {
+    "fanwiki-screen-oct14:167": {
      "title": "Sands of Oblivion",
      "year": "2007",
      "subtitle": "",
@@ -418223,7 +418149,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2845,
+   "id": 2844,
    "title": "Santo Vs. Frankenstein's Daughter",
    "subtitle": "Scene Summary",
    "year": "1972",
@@ -418259,7 +418185,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:169"
+    "fanwiki-screen-oct14:168"
    ],
    "index_only": false,
    "local_only": true,
@@ -418267,7 +418193,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:169": {
+    "fanwiki-screen-oct14:168": {
      "title": "Santo Vs. Frankenstein's Daughter",
      "year": "1972",
      "subtitle": "Scene Summary",
@@ -418303,7 +418229,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2846,
+   "id": 2845,
    "title": "Santo Vs. The Martian Invasion",
    "subtitle": "",
    "year": "1967",
@@ -418339,7 +418265,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:170"
+    "fanwiki-screen-oct14:169"
    ],
    "index_only": false,
    "local_only": true,
@@ -418347,7 +418273,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:170": {
+    "fanwiki-screen-oct14:169": {
      "title": "Santo Vs. The Martian Invasion",
      "year": "1967",
      "subtitle": "",
@@ -418383,7 +418309,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2847,
+   "id": 2846,
    "title": "Satria Heroes: Revenge of Darkness",
    "subtitle": "",
    "year": "2017",
@@ -418418,7 +418344,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:171"
+    "fanwiki-screen-oct14:170"
    ],
    "index_only": false,
    "local_only": true,
@@ -418426,7 +418352,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:171": {
+    "fanwiki-screen-oct14:170": {
      "title": "Satria Heroes: Revenge of Darkness",
      "year": "2017",
      "subtitle": "",
@@ -418461,7 +418387,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2848,
+   "id": 2847,
    "title": "SeaQuest DSV",
    "subtitle": "Knight of Shadows (Season 1, Episode 8) / Lostland (Season 2, Episode 12) / Brainlock (Season 3, Episode 11)",
    "year": "1993–1996",
@@ -418496,7 +418422,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:172"
+    "fanwiki-screen-oct14:171"
    ],
    "index_only": false,
    "local_only": true,
@@ -418504,7 +418430,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:172": {
+    "fanwiki-screen-oct14:171": {
      "title": "SeaQuest DSV",
      "year": "1993–1996",
      "subtitle": "Knight of Shadows (Season 1, Episode 8) / Lostland (Season 2, Episode 12) / Brainlock (Season 3, Episode 11)",
@@ -418539,7 +418465,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2849,
+   "id": 2848,
    "title": "She-Wolf of London",
    "subtitle": "Big Top She-Wolf (Season 1, Episode 11)",
    "year": "1990–1991",
@@ -418573,7 +418499,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:173"
+    "fanwiki-screen-oct14:172"
    ],
    "index_only": false,
    "local_only": true,
@@ -418581,7 +418507,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:173": {
+    "fanwiki-screen-oct14:172": {
      "title": "She-Wolf of London",
      "year": "1990–1991",
      "subtitle": "Big Top She-Wolf (Season 1, Episode 11)",
@@ -418615,7 +418541,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2850,
+   "id": 2849,
    "title": "Shuriken Sentai Ninninger",
    "subtitle": "Shinobi 18: The Youkai That Yakumo Loved / Shinobi 23: It's Summer! Ninja Courage Test",
    "year": "2015",
@@ -418649,7 +418575,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:174"
+    "fanwiki-screen-oct14:173"
    ],
    "index_only": false,
    "local_only": true,
@@ -418657,7 +418583,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:174": {
+    "fanwiki-screen-oct14:173": {
      "title": "Shuriken Sentai Ninninger",
      "year": "2015",
      "subtitle": "Shinobi 18: The Youkai That Yakumo Loved / Shinobi 23: It's Summer! Ninja Courage Test",
@@ -418691,7 +418617,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2851,
+   "id": 2850,
    "title": "Sinbad and the Minotaur",
    "subtitle": "Scene Summary",
    "year": "2011",
@@ -418726,7 +418652,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:175"
+    "fanwiki-screen-oct14:174"
    ],
    "index_only": false,
    "local_only": true,
@@ -418734,7 +418660,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:175": {
+    "fanwiki-screen-oct14:174": {
      "title": "Sinbad and the Minotaur",
      "year": "2011",
      "subtitle": "Scene Summary",
@@ -418769,7 +418695,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2852,
+   "id": 2851,
    "title": "Special Unit 2",
    "subtitle": "The Grain (Season 2, Episode 1) / The Love (Season 2, Episode 11)",
    "year": "2001–2002",
@@ -418805,7 +418731,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:176"
+    "fanwiki-screen-oct14:175"
    ],
    "index_only": false,
    "local_only": true,
@@ -418813,7 +418739,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:176": {
+    "fanwiki-screen-oct14:175": {
      "title": "Special Unit 2",
      "year": "2001–2002",
      "subtitle": "The Grain (Season 2, Episode 1) / The Love (Season 2, Episode 11)",
@@ -418849,7 +418775,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2853,
+   "id": 2852,
    "title": "Star Trek: Enterprise",
    "subtitle": "\"Regeneration\" season 2, episode 49",
    "year": "2001",
@@ -418883,7 +418809,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:177"
+    "fanwiki-screen-oct14:176"
    ],
    "index_only": false,
    "local_only": true,
@@ -418891,7 +418817,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:177": {
+    "fanwiki-screen-oct14:176": {
      "title": "Star Trek: Enterprise",
      "year": "2001",
      "subtitle": "\"Regeneration\" season 2, episode 49",
@@ -418925,7 +418851,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2854,
+   "id": 2853,
    "title": "Star Trek: The Next Generation (1987)",
    "subtitle": "Lonely Among Us (Season 1, Episode 7) / The Mind's Eye (Season 4, Episode 24) / The Game (Season 5, Episode 6)",
    "year": "1987–1994",
@@ -418959,7 +418885,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:178"
+    "fanwiki-screen-oct14:177"
    ],
    "index_only": false,
    "local_only": true,
@@ -418967,7 +418893,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:178": {
+    "fanwiki-screen-oct14:177": {
      "title": "Star Trek: The Next Generation (1987)",
      "year": "1987–1994",
      "subtitle": "Lonely Among Us (Season 1, Episode 7) / The Mind's Eye (Season 4, Episode 24) / The Game (Season 5, Episode 6)",
@@ -419001,7 +418927,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2855,
+   "id": 2854,
    "title": "Stewardess School",
    "subtitle": "",
    "year": "1986",
@@ -419037,7 +418963,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:179"
+    "fanwiki-screen-oct14:178"
    ],
    "index_only": false,
    "local_only": true,
@@ -419045,7 +418971,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:179": {
+    "fanwiki-screen-oct14:178": {
      "title": "Stewardess School",
      "year": "1986",
      "subtitle": "",
@@ -419081,7 +419007,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2856,
+   "id": 2855,
    "title": "Strange Behavior",
    "subtitle": "",
    "year": "1981",
@@ -419119,7 +419045,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:180"
+    "fanwiki-screen-oct14:179"
    ],
    "index_only": false,
    "local_only": true,
@@ -419127,7 +419053,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:180": {
+    "fanwiki-screen-oct14:179": {
      "title": "Strange Behavior",
      "year": "1981",
      "subtitle": "",
@@ -419165,7 +419091,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2857,
+   "id": 2856,
    "title": "Super Inday and the Golden Bibe (2010)",
    "subtitle": "",
    "year": "1988",
@@ -419200,7 +419126,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:181"
+    "fanwiki-screen-oct14:180"
    ],
    "index_only": false,
    "local_only": true,
@@ -419208,7 +419134,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:181": {
+    "fanwiki-screen-oct14:180": {
      "title": "Super Inday and the Golden Bibe (2010)",
      "year": "1988",
      "subtitle": "",
@@ -419243,7 +419169,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2858,
+   "id": 2857,
    "title": "Tamara",
    "subtitle": "",
    "year": "2005",
@@ -419278,7 +419204,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:182"
+    "fanwiki-screen-oct14:181"
    ],
    "index_only": false,
    "local_only": true,
@@ -419286,7 +419212,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:182": {
+    "fanwiki-screen-oct14:181": {
      "title": "Tamara",
      "year": "2005",
      "subtitle": "",
@@ -419321,7 +419247,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2859,
+   "id": 2858,
    "title": "Teen Wolf (2011)",
    "subtitle": "Superposition (Season 6, Episode 2) / Memory Found (Season 6, Episode 9)",
    "year": "2011–2017",
@@ -419355,7 +419281,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:183"
+    "fanwiki-screen-oct14:182"
    ],
    "index_only": false,
    "local_only": true,
@@ -419363,7 +419289,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:183": {
+    "fanwiki-screen-oct14:182": {
      "title": "Teen Wolf (2011)",
      "year": "2011–2017",
      "subtitle": "Superposition (Season 6, Episode 2) / Memory Found (Season 6, Episode 9)",
@@ -419397,7 +419323,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2860,
+   "id": 2859,
    "title": "That's So Raven",
    "subtitle": "Wake Up Victor (Season 1, Episode 4)",
    "year": "2003",
@@ -419432,7 +419358,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:184"
+    "fanwiki-screen-oct14:183"
    ],
    "index_only": false,
    "local_only": true,
@@ -419440,7 +419366,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:184": {
+    "fanwiki-screen-oct14:183": {
      "title": "That's So Raven",
      "year": "2003",
      "subtitle": "Wake Up Victor (Season 1, Episode 4)",
@@ -419475,7 +419401,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2861,
+   "id": 2860,
    "title": "The Adventures of Doctor Fu Manchu",
    "subtitle": "The Prisoner of Doctor Fu Manchu (Season 1, Episode 1)",
    "year": "1956",
@@ -419509,7 +419435,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:185"
+    "fanwiki-screen-oct14:184"
    ],
    "index_only": false,
    "local_only": true,
@@ -419517,7 +419443,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:185": {
+    "fanwiki-screen-oct14:184": {
      "title": "The Adventures of Doctor Fu Manchu",
      "year": "1956",
      "subtitle": "The Prisoner of Doctor Fu Manchu (Season 1, Episode 1)",
@@ -419551,7 +419477,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2862,
+   "id": 2861,
    "title": "The Adventures of Superman",
    "subtitle": "The Secret of Superman (Season 1, Episode 10) / Drums of Death (Season 1, Episode 18) / The Magic Secret (Season 6, Epis",
    "year": "1952–1958",
@@ -419585,7 +419511,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:186"
+    "fanwiki-screen-oct14:185"
    ],
    "index_only": false,
    "local_only": true,
@@ -419593,7 +419519,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:186": {
+    "fanwiki-screen-oct14:185": {
      "title": "The Adventures of Superman",
      "year": "1952–1958",
      "subtitle": "The Secret of Superman (Season 1, Episode 10) / Drums of Death (Season 1, Episode 18) / The Magic Secret (Season 6, Epis",
@@ -419627,7 +419553,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2863,
+   "id": 2862,
    "title": "The Aliens Are Coming",
    "subtitle": "",
    "year": "1980",
@@ -419663,7 +419589,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:187"
+    "fanwiki-screen-oct14:186"
    ],
    "index_only": false,
    "local_only": true,
@@ -419671,7 +419597,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:187": {
+    "fanwiki-screen-oct14:186": {
      "title": "The Aliens Are Coming",
      "year": "1980",
      "subtitle": "",
@@ -419707,7 +419633,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2864,
+   "id": 2863,
    "title": "The Beasts of Terror",
    "subtitle": "",
    "year": "1972",
@@ -419744,7 +419670,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:188"
+    "fanwiki-screen-oct14:187"
    ],
    "index_only": false,
    "local_only": true,
@@ -419752,7 +419678,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:188": {
+    "fanwiki-screen-oct14:187": {
      "title": "The Beasts of Terror",
      "year": "1972",
      "subtitle": "",
@@ -419789,7 +419715,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2865,
+   "id": 2864,
    "title": "The Blacklist",
    "subtitle": "Luther Braxton Conclusion (Season 2, Episode 10)",
    "year": "2013",
@@ -419823,7 +419749,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:189"
+    "fanwiki-screen-oct14:188"
    ],
    "index_only": false,
    "local_only": true,
@@ -419831,7 +419757,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:189": {
+    "fanwiki-screen-oct14:188": {
      "title": "The Blacklist",
      "year": "2013",
      "subtitle": "Luther Braxton Conclusion (Season 2, Episode 10)",
@@ -419865,7 +419791,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2866,
+   "id": 2865,
    "title": "The Champions",
    "subtitle": "Shadow of the Panther (Season 1, Episode 16)",
    "year": "1968–1969",
@@ -419899,7 +419825,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:190"
+    "fanwiki-screen-oct14:189"
    ],
    "index_only": false,
    "local_only": true,
@@ -419907,7 +419833,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:190": {
+    "fanwiki-screen-oct14:189": {
      "title": "The Champions",
      "year": "1968–1969",
      "subtitle": "Shadow of the Panther (Season 1, Episode 16)",
@@ -419941,7 +419867,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2867,
+   "id": 2866,
    "title": "The Chronicle",
    "subtitle": "Touched by an Alien (Season 1, Episode 11) / Hell Mall (Season 1, Episode 21)",
    "year": "2001–2002",
@@ -419976,7 +419902,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:191"
+    "fanwiki-screen-oct14:190"
    ],
    "index_only": false,
    "local_only": true,
@@ -419984,7 +419910,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:191": {
+    "fanwiki-screen-oct14:190": {
      "title": "The Chronicle",
      "year": "2001–2002",
      "subtitle": "Touched by an Alien (Season 1, Episode 11) / Hell Mall (Season 1, Episode 21)",
@@ -420019,7 +419945,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2868,
+   "id": 2867,
    "title": "The Demon Headmaster (2019)",
    "subtitle": "Everystudentastar (Season 1, Episode 1)",
    "year": "1996",
@@ -420054,7 +419980,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:192"
+    "fanwiki-screen-oct14:191"
    ],
    "index_only": false,
    "local_only": true,
@@ -420062,7 +419988,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:192": {
+    "fanwiki-screen-oct14:191": {
      "title": "The Demon Headmaster (2019)",
      "year": "1996",
      "subtitle": "Everystudentastar (Season 1, Episode 1)",
@@ -420097,7 +420023,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2869,
+   "id": 2868,
    "title": "The Eyes of the Mummy",
    "subtitle": "",
    "year": "1918",
@@ -420132,7 +420058,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:193"
+    "fanwiki-screen-oct14:192"
    ],
    "index_only": false,
    "local_only": true,
@@ -420140,7 +420066,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:193": {
+    "fanwiki-screen-oct14:192": {
      "title": "The Eyes of the Mummy",
      "year": "1918",
      "subtitle": "",
@@ -420175,7 +420101,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2870,
+   "id": 2869,
    "title": "The Fox Spirit and the Golden Seal",
    "subtitle": "",
    "year": "2018",
@@ -420210,7 +420136,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:194"
+    "fanwiki-screen-oct14:193"
    ],
    "index_only": false,
    "local_only": true,
@@ -420218,7 +420144,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:194": {
+    "fanwiki-screen-oct14:193": {
      "title": "The Fox Spirit and the Golden Seal",
      "year": "2018",
      "subtitle": "",
@@ -420253,7 +420179,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2871,
+   "id": 2870,
    "title": "The Fuller Report",
    "subtitle": "",
    "year": "1968",
@@ -420288,7 +420214,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:195"
+    "fanwiki-screen-oct14:194"
    ],
    "index_only": false,
    "local_only": true,
@@ -420296,7 +420222,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:195": {
+    "fanwiki-screen-oct14:194": {
      "title": "The Fuller Report",
      "year": "1968",
      "subtitle": "",
@@ -420331,7 +420257,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2872,
+   "id": 2871,
    "title": "The Heavenly Idol",
    "subtitle": "Episode 5",
    "year": "2023",
@@ -420365,7 +420291,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:196"
+    "fanwiki-screen-oct14:195"
    ],
    "index_only": false,
    "local_only": true,
@@ -420373,7 +420299,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:196": {
+    "fanwiki-screen-oct14:195": {
      "title": "The Heavenly Idol",
      "year": "2023",
      "subtitle": "Episode 5",
@@ -420407,7 +420333,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2873,
+   "id": 2872,
    "title": "The Killing of Satan",
    "subtitle": "",
    "year": "1983",
@@ -420443,7 +420369,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:197"
+    "fanwiki-screen-oct14:196"
    ],
    "index_only": false,
    "local_only": true,
@@ -420451,7 +420377,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:197": {
+    "fanwiki-screen-oct14:196": {
      "title": "The Killing of Satan",
      "year": "1983",
      "subtitle": "",
@@ -420487,7 +420413,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2874,
+   "id": 2873,
    "title": "The King of Fighters",
    "subtitle": "",
    "year": "2010",
@@ -420523,7 +420449,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:198"
+    "fanwiki-screen-oct14:197"
    ],
    "index_only": false,
    "local_only": true,
@@ -420531,7 +420457,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:198": {
+    "fanwiki-screen-oct14:197": {
      "title": "The King of Fighters",
      "year": "2010",
      "subtitle": "",
@@ -420567,7 +420493,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2875,
+   "id": 2874,
    "title": "The King of Pub",
    "subtitle": "",
    "year": "2016",
@@ -420602,7 +420528,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:199"
+    "fanwiki-screen-oct14:198"
    ],
    "index_only": false,
    "local_only": true,
@@ -420610,7 +420536,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:199": {
+    "fanwiki-screen-oct14:198": {
      "title": "The King of Pub",
      "year": "2016",
      "subtitle": "",
@@ -420645,7 +420571,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2876,
+   "id": 2875,
    "title": "The Legend Of Hell House",
    "subtitle": "",
    "year": "1973",
@@ -420682,7 +420608,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:200"
+    "fanwiki-screen-oct14:199"
    ],
    "index_only": false,
    "local_only": true,
@@ -420690,7 +420616,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:200": {
+    "fanwiki-screen-oct14:199": {
      "title": "The Legend Of Hell House",
      "year": "1973",
      "subtitle": "",
@@ -420727,7 +420653,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2877,
+   "id": 2876,
    "title": "The Legend of the 7 Golden Vampires",
    "subtitle": "",
    "year": "1974",
@@ -420762,7 +420688,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:201"
+    "fanwiki-screen-oct14:200"
    ],
    "index_only": false,
    "local_only": true,
@@ -420770,7 +420696,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:201": {
+    "fanwiki-screen-oct14:200": {
      "title": "The Legend of the 7 Golden Vampires",
      "year": "1974",
      "subtitle": "",
@@ -420805,7 +420731,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2878,
+   "id": 2877,
    "title": "The Librarians: The Next Chapter",
    "subtitle": "And the Deadly Drekavac (Season 1, Episode 1) / And the Dance of Doom (Season 1, Episode 2) / And the Thief of Love (Sea",
    "year": "2025–",
@@ -420840,7 +420766,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:202"
+    "fanwiki-screen-oct14:201"
    ],
    "index_only": false,
    "local_only": true,
@@ -420848,7 +420774,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:202": {
+    "fanwiki-screen-oct14:201": {
      "title": "The Librarians: The Next Chapter",
      "year": "2025–",
      "subtitle": "And the Deadly Drekavac (Season 1, Episode 1) / And the Dance of Doom (Season 1, Episode 2) / And the Thief of Love (Sea",
@@ -420883,7 +420809,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2879,
+   "id": 2878,
    "title": "The Mentalist",
    "subtitle": "Russet Potatoes (Season 1, Episode 18) / Red Badge (Season 2, Episode 3)",
    "year": "2008–2015",
@@ -420918,7 +420844,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:203"
+    "fanwiki-screen-oct14:202"
    ],
    "index_only": false,
    "local_only": true,
@@ -420926,7 +420852,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:203": {
+    "fanwiki-screen-oct14:202": {
      "title": "The Mentalist",
      "year": "2008–2015",
      "subtitle": "Russet Potatoes (Season 1, Episode 18) / Red Badge (Season 2, Episode 3)",
@@ -420961,7 +420887,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2880,
+   "id": 2879,
    "title": "The Mississippi Mummy",
    "subtitle": "",
    "year": "2021",
@@ -420996,7 +420922,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:204"
+    "fanwiki-screen-oct14:203"
    ],
    "index_only": false,
    "local_only": true,
@@ -421004,7 +420930,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:204": {
+    "fanwiki-screen-oct14:203": {
      "title": "The Mississippi Mummy",
      "year": "2021",
      "subtitle": "",
@@ -421039,7 +420965,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2881,
+   "id": 2880,
    "title": "The Mummy Resurrected",
    "subtitle": "",
    "year": "2014",
@@ -421074,7 +421000,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:205"
+    "fanwiki-screen-oct14:204"
    ],
    "index_only": false,
    "local_only": true,
@@ -421082,7 +421008,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:205": {
+    "fanwiki-screen-oct14:204": {
      "title": "The Mummy Resurrected",
      "year": "2014",
      "subtitle": "",
@@ -421117,7 +421043,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2882,
+   "id": 2881,
    "title": "The Plague Of The Zombies",
    "subtitle": "",
    "year": "1966",
@@ -421152,7 +421078,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:206"
+    "fanwiki-screen-oct14:205"
    ],
    "index_only": false,
    "local_only": true,
@@ -421160,7 +421086,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:206": {
+    "fanwiki-screen-oct14:205": {
      "title": "The Plague Of The Zombies",
      "year": "1966",
      "subtitle": "",
@@ -421195,7 +421121,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2883,
+   "id": 2882,
    "title": "The Secret Adventures of Jules Verne (2000)",
    "subtitle": "The Eyes of Lazarus (Season 1, Episode 6) / The Victorian Candidate (Season 1, Episode 21)",
    "year": "2000",
@@ -421231,7 +421157,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:207"
+    "fanwiki-screen-oct14:206"
    ],
    "index_only": false,
    "local_only": true,
@@ -421239,7 +421165,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:207": {
+    "fanwiki-screen-oct14:206": {
      "title": "The Secret Adventures of Jules Verne (2000)",
      "year": "2000",
      "subtitle": "The Eyes of Lazarus (Season 1, Episode 6) / The Victorian Candidate (Season 1, Episode 21)",
@@ -421275,7 +421201,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2884,
+   "id": 2883,
    "title": "The Suicide Squad",
    "subtitle": "",
    "year": "2021",
@@ -421311,7 +421237,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:208"
+    "fanwiki-screen-oct14:207"
    ],
    "index_only": false,
    "local_only": true,
@@ -421319,7 +421245,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:208": {
+    "fanwiki-screen-oct14:207": {
      "title": "The Suicide Squad",
      "year": "2021",
      "subtitle": "",
@@ -421355,7 +421281,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2885,
+   "id": 2884,
    "title": "The Suite Life of Zack & Cody",
    "subtitle": "Super Twins (Season 3, Episode 4)",
    "year": "2005–2008",
@@ -421389,7 +421315,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:209"
+    "fanwiki-screen-oct14:208"
    ],
    "index_only": false,
    "local_only": true,
@@ -421397,7 +421323,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:209": {
+    "fanwiki-screen-oct14:208": {
      "title": "The Suite Life of Zack & Cody",
      "year": "2005–2008",
      "subtitle": "Super Twins (Season 3, Episode 4)",
@@ -421431,7 +421357,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2886,
+   "id": 2885,
    "title": "The Ultimate Ranger",
    "subtitle": "Episode 38",
    "year": "2016",
@@ -421465,7 +421391,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:210"
+    "fanwiki-screen-oct14:209"
    ],
    "index_only": false,
    "local_only": true,
@@ -421473,7 +421399,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:210": {
+    "fanwiki-screen-oct14:209": {
      "title": "The Ultimate Ranger",
      "year": "2016",
      "subtitle": "Episode 38",
@@ -421507,7 +421433,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2887,
+   "id": 2886,
    "title": "The Wheel of Time",
    "subtitle": "The Shadow In The Night (Season 3, Episode 6)",
    "year": "2021",
@@ -421541,7 +421467,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:211"
+    "fanwiki-screen-oct14:210"
    ],
    "index_only": false,
    "local_only": true,
@@ -421549,7 +421475,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:211": {
+    "fanwiki-screen-oct14:210": {
      "title": "The Wheel of Time",
      "year": "2021",
      "subtitle": "The Shadow In The Night (Season 3, Episode 6)",
@@ -421583,7 +421509,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2888,
+   "id": 2887,
    "title": "The Wild Wild West",
    "subtitle": "Night of the Steel Assassin (Season 1, Episode 16) / The Night of the Tartar (Season 2, Episode 19) / Night of the Wolf ",
    "year": "1965–1969",
@@ -421620,7 +421546,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:212"
+    "fanwiki-screen-oct14:211"
    ],
    "index_only": false,
    "local_only": true,
@@ -421628,7 +421554,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:212": {
+    "fanwiki-screen-oct14:211": {
      "title": "The Wild Wild West",
      "year": "1965–1969",
      "subtitle": "Night of the Steel Assassin (Season 1, Episode 16) / The Night of the Tartar (Season 2, Episode 19) / Night of the Wolf ",
@@ -421665,7 +421591,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2889,
+   "id": 2888,
    "title": "The Witches (1966)",
    "subtitle": "",
    "year": "1966",
@@ -421700,7 +421626,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:213"
+    "fanwiki-screen-oct14:212"
    ],
    "index_only": false,
    "local_only": true,
@@ -421708,7 +421634,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:213": {
+    "fanwiki-screen-oct14:212": {
      "title": "The Witches (1966)",
      "year": "1966",
      "subtitle": "",
@@ -421743,7 +421669,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2890,
+   "id": 2889,
    "title": "Titans",
    "subtitle": "1x11- Dick Grayson / 2x01- Trigon / 2x11- \"E.L._.O / 2x12- Faux Hawk / 2x13- Nightwing",
    "year": "2014",
@@ -421778,7 +421704,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:214"
+    "fanwiki-screen-oct14:213"
    ],
    "index_only": false,
    "local_only": true,
@@ -421786,7 +421712,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:214": {
+    "fanwiki-screen-oct14:213": {
      "title": "Titans",
      "year": "2014",
      "subtitle": "1x11- Dick Grayson / 2x01- Trigon / 2x11- \"E.L._.O / 2x12- Faux Hawk / 2x13- Nightwing",
@@ -421821,7 +421747,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2891,
+   "id": 2890,
    "title": "Tragic Ceremony",
    "subtitle": "",
    "year": "1972",
@@ -421857,7 +421783,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:215"
+    "fanwiki-screen-oct14:214"
    ],
    "index_only": false,
    "local_only": true,
@@ -421865,7 +421791,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:215": {
+    "fanwiki-screen-oct14:214": {
      "title": "Tragic Ceremony",
      "year": "1972",
      "subtitle": "",
@@ -421901,7 +421827,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2892,
+   "id": 2891,
    "title": "Turbo: A Power Rangers Movie",
    "subtitle": "",
    "year": "1997",
@@ -421936,7 +421862,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:216"
+    "fanwiki-screen-oct14:215"
    ],
    "index_only": false,
    "local_only": true,
@@ -421944,7 +421870,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:216": {
+    "fanwiki-screen-oct14:215": {
      "title": "Turbo: A Power Rangers Movie",
      "year": "1997",
      "subtitle": "",
@@ -421979,7 +421905,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2893,
+   "id": 2892,
    "title": "Unlucky Charms",
    "subtitle": "",
    "year": "2013",
@@ -422014,7 +421940,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:217"
+    "fanwiki-screen-oct14:216"
    ],
    "index_only": false,
    "local_only": true,
@@ -422022,7 +421948,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:217": {
+    "fanwiki-screen-oct14:216": {
      "title": "Unlucky Charms",
      "year": "2013",
      "subtitle": "",
@@ -422057,7 +421983,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2894,
+   "id": 2893,
    "title": "Upstream Color",
    "subtitle": "",
    "year": "2013",
@@ -422093,7 +422019,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:218"
+    "fanwiki-screen-oct14:217"
    ],
    "index_only": false,
    "local_only": true,
@@ -422101,7 +422027,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:218": {
+    "fanwiki-screen-oct14:217": {
      "title": "Upstream Color",
      "year": "2013",
      "subtitle": "",
@@ -422137,7 +422063,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2895,
+   "id": 2894,
    "title": "VR Troopers (1994)",
    "subtitle": "Grimlord's Greatest Hits (Season 1, Episode 23) / The Transmutant (Season 1, Episode 42) / The Old Switcheroo (Season 1,",
    "year": "1994–1996",
@@ -422171,7 +422097,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:219"
+    "fanwiki-screen-oct14:218"
    ],
    "index_only": false,
    "local_only": true,
@@ -422179,7 +422105,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:219": {
+    "fanwiki-screen-oct14:218": {
      "title": "VR Troopers (1994)",
      "year": "1994–1996",
      "subtitle": "Grimlord's Greatest Hits (Season 1, Episode 23) / The Transmutant (Season 1, Episode 42) / The Old Switcheroo (Season 1,",
@@ -422213,7 +422139,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2896,
+   "id": 2895,
    "title": "Vampire High",
    "subtitle": "There's a New Vampire in Town (Season 1, Episode 2)",
    "year": "2001–2002",
@@ -422247,7 +422173,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:220"
+    "fanwiki-screen-oct14:219"
    ],
    "index_only": false,
    "local_only": true,
@@ -422255,7 +422181,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:220": {
+    "fanwiki-screen-oct14:219": {
      "title": "Vampire High",
      "year": "2001–2002",
      "subtitle": "There's a New Vampire in Town (Season 1, Episode 2)",
@@ -422289,7 +422215,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2897,
+   "id": 2896,
    "title": "Vampirina: Teenage Vampire",
    "subtitle": "First Day of School (Season 1, Episode 2)",
    "year": "2025",
@@ -422323,7 +422249,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:221"
+    "fanwiki-screen-oct14:220"
    ],
    "index_only": false,
    "local_only": true,
@@ -422331,7 +422257,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:221": {
+    "fanwiki-screen-oct14:220": {
      "title": "Vampirina: Teenage Vampire",
      "year": "2025",
      "subtitle": "First Day of School (Season 1, Episode 2)",
@@ -422365,7 +422291,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2898,
+   "id": 2897,
    "title": "Weird Science",
    "subtitle": "Demon Lisa (Season 4, Episode 13) / Gary and Wyatt's Bloodsucking Adventure (Season 4, Episode 19)",
    "year": "1994–1998",
@@ -422401,7 +422327,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:222"
+    "fanwiki-screen-oct14:221"
    ],
    "index_only": false,
    "local_only": true,
@@ -422409,7 +422335,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:222": {
+    "fanwiki-screen-oct14:221": {
      "title": "Weird Science",
      "year": "1994–1998",
      "subtitle": "Demon Lisa (Season 4, Episode 13) / Gary and Wyatt's Bloodsucking Adventure (Season 4, Episode 19)",
@@ -422445,7 +422371,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2899,
+   "id": 2898,
    "title": "Which is Witch?",
    "subtitle": "Madly in Love (Season 1, Episode 13) / Yes, Jack (Season 1, Episode 21) / An Evil Phone (Season 1, Episode 22)",
    "year": "2013–2014",
@@ -422480,7 +422406,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:223"
+    "fanwiki-screen-oct14:222"
    ],
    "index_only": false,
    "local_only": true,
@@ -422488,7 +422414,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:223": {
+    "fanwiki-screen-oct14:222": {
      "title": "Which is Witch?",
      "year": "2013–2014",
      "subtitle": "Madly in Love (Season 1, Episode 13) / Yes, Jack (Season 1, Episode 21) / An Evil Phone (Season 1, Episode 22)",
@@ -422523,7 +422449,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2900,
+   "id": 2899,
    "title": "Wicked Science",
    "subtitle": "Love Potion Number 9 (Season 1, Episode 10)",
    "year": "2004",
@@ -422559,7 +422485,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:224"
+    "fanwiki-screen-oct14:223"
    ],
    "index_only": false,
    "local_only": true,
@@ -422567,7 +422493,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:224": {
+    "fanwiki-screen-oct14:223": {
      "title": "Wicked Science",
      "year": "2004",
      "subtitle": "Love Potion Number 9 (Season 1, Episode 10)",
@@ -422603,7 +422529,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2901,
+   "id": 2900,
    "title": "X2",
    "subtitle": "",
    "year": "2003",
@@ -422638,7 +422564,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:225"
+    "fanwiki-screen-oct14:224"
    ],
    "index_only": false,
    "local_only": true,
@@ -422646,7 +422572,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:225": {
+    "fanwiki-screen-oct14:224": {
      "title": "X2",
      "year": "2003",
      "subtitle": "",
@@ -422681,7 +422607,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2902,
+   "id": 2901,
    "title": "Xena: Warrior Princess",
    "subtitle": "The Haunting of Amphipolis (Season 6, Episode 2)",
    "year": "1995",
@@ -422715,7 +422641,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:226"
+    "fanwiki-screen-oct14:225"
    ],
    "index_only": false,
    "local_only": true,
@@ -422723,7 +422649,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:226": {
+    "fanwiki-screen-oct14:225": {
      "title": "Xena: Warrior Princess",
      "year": "1995",
      "subtitle": "The Haunting of Amphipolis (Season 6, Episode 2)",
@@ -422757,7 +422683,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2903,
+   "id": 2902,
    "title": "Yolk Man",
    "subtitle": "Episode 2 / Episode 3",
    "year": "2019",
@@ -422793,7 +422719,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:227"
+    "fanwiki-screen-oct14:226"
    ],
    "index_only": false,
    "local_only": true,
@@ -422801,7 +422727,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:227": {
+    "fanwiki-screen-oct14:226": {
      "title": "Yolk Man",
      "year": "2019",
      "subtitle": "Episode 2 / Episode 3",
@@ -422837,7 +422763,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2904,
+   "id": 2903,
    "title": "Zyuden Sentai Kyoryuger",
    "subtitle": "Brave 11: Utchi! How Cool / Brave 19: Kyawaeen! The Stolen Family / Brave 25: What's This! The Nightmare of the Deboth A",
    "year": "2013",
@@ -422872,7 +422798,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:228"
+    "fanwiki-screen-oct14:227"
    ],
    "index_only": false,
    "local_only": true,
@@ -422880,7 +422806,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:228": {
+    "fanwiki-screen-oct14:227": {
      "title": "Zyuden Sentai Kyoryuger",
      "year": "2013",
      "subtitle": "Brave 11: Utchi! How Cool / Brave 19: Kyawaeen! The Stolen Family / Brave 25: What's This! The Nightmare of the Deboth A",
@@ -422915,7 +422841,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2905,
+   "id": 2904,
    "title": "Zyuden Sentai Kyoryuger: Gaburincho of Music",
    "subtitle": "",
    "year": "2013",
@@ -422949,7 +422875,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:229"
+    "fanwiki-screen-oct14:228"
    ],
    "index_only": false,
    "local_only": true,
@@ -422957,7 +422883,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:229": {
+    "fanwiki-screen-oct14:228": {
      "title": "Zyuden Sentai Kyoryuger: Gaburincho of Music",
      "year": "2013",
      "subtitle": "",
@@ -422991,7 +422917,7 @@ window.CATALOG = {
    }
   },
   {
-   "id": 2906,
+   "id": 2905,
    "title": "Kaunri Kanya",
    "subtitle": "",
    "year": "2013",
@@ -423028,7 +422954,7 @@ window.CATALOG = {
     "fanwiki-screen-oct14"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:230"
+    "fanwiki-screen-oct14:229"
    ],
    "index_only": false,
    "local_only": true,
@@ -423036,7 +422962,7 @@ window.CATALOG = {
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "fanwiki-screen-oct14:230": {
+    "fanwiki-screen-oct14:229": {
      "title": "Kaunri Kanya",
      "year": "2013",
      "format": "movie",
@@ -426953,59 +426879,63 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2701,
+       "id": 2700,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2710,
+       "id": 2709,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2728,
+       "id": 2727,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2746,
+       "id": 2745,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2754,
+       "id": 2753,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2762,
+       "id": 2761,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2764,
+       "id": 2763,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2775,
+       "id": 2774,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2777,
+       "id": 2776,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2784,
+       "id": 2783,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2798,
+       "id": 2797,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2806,
+       "id": 2805,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2817,
+       "id": 2816,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2819,
+       "id": 2818,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2828,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -427013,19 +426943,19 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2830,
+       "id": 2854,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2855,
+       "id": 2884,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2885,
+       "id": 2859,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2860,
+       "id": 2897,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -427034,10 +426964,6 @@ window.CATALOG = {
       },
       {
        "id": 2899,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2900,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -427376,11 +427302,11 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2755,
+       "id": 2754,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2891,
+       "id": 2890,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -428516,23 +428442,27 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2864,
+       "id": 2863,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2703,
+       "id": 2702,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2707,
+       "id": 2706,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2711,
+       "id": 2710,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2721,
+       "id": 2720,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2722,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -428540,11 +428470,7 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2724,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2729,
+       "id": 2728,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -428552,43 +428478,47 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
+       "id": 2755,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
        "id": 2756,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2757,
+       "id": 2758,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2759,
+       "id": 2765,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2766,
+       "id": 2770,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2771,
+       "id": 2772,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2773,
+       "id": 2774,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2775,
+       "id": 2795,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2796,
+       "id": 2801,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2802,
+       "id": 2807,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2808,
+       "id": 2821,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -428596,35 +428526,31 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2823,
+       "id": 2826,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2827,
+       "id": 2828,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2829,
+       "id": 2840,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2841,
+       "id": 2855,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2856,
+       "id": 2893,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2894,
+       "id": 2899,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2900,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2888,
+       "id": 2887,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -430382,19 +430308,19 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2695,
+       "id": 2699,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2700,
+       "id": 2705,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2706,
+       "id": 2708,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2709,
+       "id": 2714,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -430402,35 +430328,43 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2716,
+       "id": 2721,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2722,
+       "id": 2725,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2726,
+       "id": 2727,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2728,
+       "id": 2731,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2732,
+       "id": 2734,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2735,
+       "id": 2736,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2737,
+       "id": 2740,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2741,
+       "id": 2868,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2749,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2751,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -430438,35 +430372,27 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2750,
+       "id": 2754,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2752,
+       "id": 2759,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2870,
+       "id": 2871,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2755,
+       "id": 2769,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2760,
+       "id": 2771,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2872,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2770,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2772,
+       "id": 2777,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -430478,11 +430404,11 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2780,
+       "id": 2781,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2782,
+       "id": 2788,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -430490,11 +430416,11 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2790,
+       "id": 2794,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2795,
+       "id": 2872,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -430502,7 +430428,7 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2874,
+       "id": 2798,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -430510,23 +430436,23 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2800,
+       "id": 2803,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2804,
+       "id": 2806,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2807,
+       "id": 2809,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2810,
+       "id": 2879,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2880,
+       "id": 2819,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -430534,31 +430460,31 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2821,
+       "id": 2827,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2828,
+       "id": 2881,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2882,
+       "id": 2830,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2831,
+       "id": 2832,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2833,
+       "id": 2835,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2836,
+       "id": 2839,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2840,
+       "id": 2841,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -430570,19 +430496,19 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2844,
+       "id": 2846,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2847,
+       "id": 2850,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2851,
+       "id": 2856,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2857,
+       "id": 2890,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -430590,7 +430516,7 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2892,
+       "id": 2885,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -430598,11 +430524,7 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2887,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2889,
+       "id": 2888,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -437480,11 +437402,11 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2861,
+       "id": 2860,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2862,
+       "id": 2861,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -437492,7 +437414,19 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2701,
+       "id": 2700,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2864,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2707,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2709,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -437500,79 +437434,71 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2708,
+       "id": 2867,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2710,
+       "id": 2743,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2866,
+       "id": 2745,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2868,
+       "id": 2750,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2744,
+       "id": 2870,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2746,
+       "id": 2761,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2751,
+       "id": 2776,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2871,
+       "id": 2783,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2762,
+       "id": 2786,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2777,
+       "id": 2797,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2784,
+       "id": 2805,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2787,
+       "id": 2878,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2798,
+       "id": 2829,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2806,
+       "id": 2838,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2879,
+       "id": 2844,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2830,
+       "id": 2849,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2839,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2845,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2850,
+       "id": 2854,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -437580,15 +437506,11 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2856,
+       "id": 2859,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2860,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2888,
+       "id": 2887,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -438446,35 +438368,35 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2698,
+       "id": 2697,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2724,
+       "id": 2723,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2750,
+       "id": 2749,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2771,
+       "id": 2770,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2779,
+       "id": 2778,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2873,
+       "id": 2872,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2876,
+       "id": 2875,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2903,
+       "id": 2902,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -439717,11 +439639,11 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2695,
+       "id": 2696,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2697,
+       "id": 2706,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -439729,7 +439651,7 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2708,
+       "id": 2710,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -439745,39 +439667,39 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2714,
+       "id": 2726,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2727,
+       "id": 2717,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2718,
+       "id": 2719,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2720,
+       "id": 2723,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2724,
+       "id": 2734,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2735,
+       "id": 2736,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2737,
+       "id": 2739,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2740,
+       "id": 2742,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2743,
+       "id": 2747,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -439785,7 +439707,7 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2749,
+       "id": 2752,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -439793,7 +439715,7 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2754,
+       "id": 2755,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -439809,15 +439731,15 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2759,
+       "id": 2764,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2765,
+       "id": 2766,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2767,
+       "id": 2770,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -439833,35 +439755,35 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2774,
+       "id": 2778,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2779,
+       "id": 2780,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2781,
+       "id": 2789,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2790,
+       "id": 2791,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2792,
+       "id": 2794,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2795,
+       "id": 2873,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2874,
+       "id": 2875,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2876,
+       "id": 2802,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -439873,11 +439795,11 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2805,
+       "id": 2806,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2807,
+       "id": 2813,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -439889,11 +439811,11 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2816,
+       "id": 2878,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2879,
+       "id": 2818,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -439901,7 +439823,7 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2820,
+       "id": 2822,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -439917,39 +439839,35 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2826,
+       "id": 2830,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2831,
+       "id": 2837,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2838,
+       "id": 2882,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2883,
+       "id": 2851,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2852,
+       "id": 2855,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2856,
+       "id": 2889,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2890,
+       "id": 2892,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2893,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2888,
+       "id": 2887,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -441976,7 +441894,11 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2696,
+       "id": 2695,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2697,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -441984,51 +441906,51 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2699,
+       "id": 2720,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2721,
+       "id": 2741,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2742,
+       "id": 2753,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2754,
+       "id": 2760,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2761,
+       "id": 2765,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2766,
+       "id": 2768,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2769,
+       "id": 2775,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2776,
+       "id": 2874,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2875,
+       "id": 2802,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2803,
+       "id": 2877,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2878,
+       "id": 2807,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2808,
+       "id": 2810,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -442036,27 +441958,27 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2812,
+       "id": 2818,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2819,
+       "id": 2826,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2827,
+       "id": 2828,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2829,
+       "id": 2851,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2852,
+       "id": 2894,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2895,
+       "id": 2898,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -442064,11 +441986,7 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2900,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2904,
+       "id": 2903,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -444736,11 +444654,11 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2746,
+       "id": 2745,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2762,
+       "id": 2761,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -449227,31 +449145,31 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2747,
+       "id": 2746,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2763,
+       "id": 2762,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2768,
+       "id": 2767,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2786,
+       "id": 2785,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2834,
+       "id": 2833,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2859,
+       "id": 2858,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2905,
+       "id": 2904,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -459724,7 +459642,7 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2863,
+       "id": 2862,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -459736,11 +459654,15 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2864,
+       "id": 2863,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2699,
+       "id": 2698,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2702,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -459748,15 +459670,23 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2704,
+       "id": 2713,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2714,
+       "id": 2726,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2727,
+       "id": 2866,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2724,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2729,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -459764,27 +459694,19 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2725,
+       "id": 2733,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2730,
+       "id": 2735,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2868,
+       "id": 2742,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2734,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2736,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2743,
+       "id": 2747,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -459792,47 +459714,47 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2749,
+       "id": 2752,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2753,
+       "id": 2755,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2756,
+       "id": 2757,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2758,
+       "id": 2761,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2762,
+       "id": 2764,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2765,
+       "id": 2766,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2767,
+       "id": 2774,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2775,
+       "id": 2780,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2781,
+       "id": 2782,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2783,
+       "id": 2784,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2785,
+       "id": 2790,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -459844,15 +459766,15 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2793,
+       "id": 2796,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2797,
+       "id": 2800,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2801,
+       "id": 2814,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -459860,27 +459782,31 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2816,
+       "id": 2826,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2827,
+       "id": 2828,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2829,
+       "id": 2834,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2835,
+       "id": 2837,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2838,
+       "id": 2845,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2846,
+       "id": 2847,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2882,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -459888,11 +459814,7 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2883,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2849,
+       "id": 2852,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -459900,35 +459822,31 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2854,
+       "id": 2855,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2856,
+       "id": 2883,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2884,
+       "id": 2889,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2890,
+       "id": 2893,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2894,
+       "id": 2887,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2888,
+       "id": 2900,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2901,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2903,
+       "id": 2902,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -461303,19 +461221,23 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2863,
+       "id": 2862,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2705,
+       "id": 2704,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2713,
+       "id": 2712,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2727,
+       "id": 2726,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2716,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -461327,83 +461249,83 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
+       "id": 2866,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
        "id": 2719,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2867,
+       "id": 2730,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2720,
+       "id": 2732,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2731,
+       "id": 2737,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2733,
+       "id": 2745,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2738,
+       "id": 2747,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2746,
+       "id": 2760,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2748,
+       "id": 2764,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2761,
+       "id": 2766,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2765,
+       "id": 2774,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2767,
+       "id": 2787,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2775,
+       "id": 2793,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2788,
+       "id": 2905,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2794,
+       "id": 2875,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2906,
+       "id": 2877,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2876,
+       "id": 2812,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2878,
+       "id": 2880,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2813,
+       "id": 2817,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2881,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2818,
+       "id": 2823,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -461411,19 +461333,23 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2825,
+       "id": 2831,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2832,
+       "id": 2836,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2837,
+       "id": 2847,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2848,
+       "id": 2882,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2851,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -461431,19 +461357,15 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2852,
+       "id": 2857,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2884,
+       "id": 2897,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2858,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2898,
+       "id": 2901,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -461452,10 +461374,6 @@ window.CATALOG = {
       },
       {
        "id": 2903,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2904,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -461955,7 +461873,7 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
-       "id": 2906,
+       "id": 2905,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -464959,43 +464877,47 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2702,
+       "id": 2701,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2708,
+       "id": 2707,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2712,
+       "id": 2711,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2739,
+       "id": 2738,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2745,
+       "id": 2744,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2802,
+       "id": 2801,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2877,
+       "id": 2876,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2809,
+       "id": 2808,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2817,
+       "id": 2816,
        "from_source": "fanwiki-screen-oct14"
       },
       {
-       "id": 2819,
+       "id": 2818,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2895,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -465004,10 +464926,6 @@ window.CATALOG = {
       },
       {
        "id": 2897,
-       "from_source": "fanwiki-screen-oct14"
-      },
-      {
-       "id": 2898,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
