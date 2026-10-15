@@ -3664,10 +3664,22 @@ window.CATALOG = {
     {
      "title": "VR Troopers (1994) (1994–1996)",
      "reason": "removed in review: teen cast, mass hypnosis"
+    },
+    {
+     "title": "American Horror Story / Star Trek (Original Series)",
+     "reason": "no-year page screened: overlapping episodes/seasons already catalogued"
+    },
+    {
+     "title": "Power Rangers (6 pages) / Super Sentai (6 pages) / Garuda Knight BIMA-X / Bureau of Magical Things / Marvin Marvin / Egg God / Machineman",
+     "reason": "no-year page screened: teen or child cast/victims"
+    },
+    {
+     "title": "Clone Action / Fight Against the Shadow / The Storm of Broadcast",
+     "reason": "no-year page screened: release year and plot not confirmable"
     }
    ],
    "check": {
-    "raw_count": 208,
+    "raw_count": 215,
     "ok": true
    },
    "status": "local"
@@ -3710,10 +3722,10 @@ window.CATALOG = {
   "widow-divorcee-oct14b": 2,
   "recheck-oct14": 3,
   "indian-langs-oct14": 4,
-  "fanwiki-screen-oct14": 208
+  "fanwiki-screen-oct14": 215
  },
- "raw_total": 5519,
- "entry_count": 2775,
+ "raw_total": 5526,
+ "entry_count": 2782,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -3743,7 +3755,7 @@ window.CATALOG = {
    "key": "index-62",
    "label": "Comedy",
    "legend_label": "Comedy",
-   "entry_count": 19
+   "entry_count": 20
   },
   {
    "key": "index-61",
@@ -3779,13 +3791,13 @@ window.CATALOG = {
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 46
+   "entry_count": 47
   },
   {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 246
+   "entry_count": 249
   },
   {
    "key": "child-controller",
@@ -3833,13 +3845,13 @@ window.CATALOG = {
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 611
+   "entry_count": 612
   },
   {
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 52
+   "entry_count": 53
   },
   {
    "key": "index-54",
@@ -3869,7 +3881,7 @@ window.CATALOG = {
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 141
+   "entry_count": 142
   },
   {
    "key": "royal-hypnosis",
@@ -3881,7 +3893,7 @@ window.CATALOG = {
    "key": "love",
    "label": "Hypnotized to love",
    "legend_label": "Hypnotized to love",
-   "entry_count": 204
+   "entry_count": 205
   },
   {
    "key": "hypno-intimacy",
@@ -3911,7 +3923,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 111
+   "entry_count": 112
   },
   {
    "key": "mom-partner-control",
@@ -4145,7 +4157,7 @@ window.CATALOG = {
    "key": "scifi",
    "label": "Sci-fi / alien / technological control",
    "legend_label": "Sci-fi / alien / technological control",
-   "entry_count": 379
+   "entry_count": 380
   },
   {
    "key": "family",
@@ -4157,7 +4169,7 @@ window.CATALOG = {
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 134
+   "entry_count": 136
   },
   {
    "key": "stepmom-control",
@@ -422422,6 +422434,558 @@ window.CATALOG = {
      "group": "Fan-wiki screen additions (Oct 2026)"
     }
    }
+  },
+  {
+   "id": 2885,
+   "title": "Detective Extralarge",
+   "subtitle": "Black Magic (Season 1, Episode 6)",
+   "year": "1991–1993",
+   "meta": "TV · Italian",
+   "mechanism": "Magical Hypnosis",
+   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "summary": "Jack Costello (Bud Spencer) is a retired cop and now private detective who lives in Miami, who handles a myriad of cases for unusual clients. At his side are old police buddy Sam Bosley (Lou Bedford) and cartoonist-turned-amateur sleuth Jean Philippe Dumas (Philip Michael Thomas), who is using Costello as an influence and has nicknamed the burly detective \"Extralarge.\" In the second series, Costello faces other dangerous cases, again with Bosley and Archibald (Michael Winslow), the son of an old Black Magic (Season 1, Episode 6): Elizabeth is in a car with her boyfriend when suddenly she feels a pain in the stomach so strong she seizes a knife and stabs herself to death. Her boyfriend is charged with her murder and Dumas is present at his trial and he is struck by the boy's story. In the meantime Extralarge gets the task to find Kathy, the missing step-daughter of Laureen. Her father is dying of an unheard of disease and he desires to see her. The two girls were friends and a shade of Black Magic overhangs on them and their families. Scene: Zorac cast his hypnotic gaze. Kathy is hypnotized. Mesmerized, Kathy is helpless in front of Zorac. Zorac is ready to sacrifice the mesmerized Kathy. extralarge comes to the rescue. Zorac uses the entranced Kathy as a human shield. Kathy's trance is broken by a spell from Mamma Limbo.",
+   "character": "",
+   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
+   "note": "",
+   "tags": [
+    "Western Live Action"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+   "format": "tv",
+   "categories": [
+    "fantasy",
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki: Detective Extralarge",
+     "url": "https://mentalblock.miraheze.org/wiki/Detective_Extralarge"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fanwiki-screen-oct14"
+   ],
+   "source_records": [
+    "fanwiki-screen-oct14:209"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fanwiki-screen-oct14:209": {
+     "title": "Detective Extralarge",
+     "year": "1991–1993",
+     "subtitle": "Black Magic (Season 1, Episode 6)",
+     "format": "tv",
+     "standalone": true,
+     "meta": "TV · Italian",
+     "mechanism": "Magical Hypnosis",
+     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "summary": "Jack Costello (Bud Spencer) is a retired cop and now private detective who lives in Miami, who handles a myriad of cases for unusual clients. At his side are old police buddy Sam Bosley (Lou Bedford) and cartoonist-turned-amateur sleuth Jean Philippe Dumas (Philip Michael Thomas), who is using Costello as an influence and has nicknamed the burly detective \"Extralarge.\" In the second series, Costello faces other dangerous cases, again with Bosley and Archibald (Michael Winslow), the son of an old Black Magic (Season 1, Episode 6): Elizabeth is in a car with her boyfriend when suddenly she feels a pain in the stomach so strong she seizes a knife and stabs herself to death. Her boyfriend is charged with her murder and Dumas is present at his trial and he is struck by the boy's story. In the meantime Extralarge gets the task to find Kathy, the missing step-daughter of Laureen. Her father is dying of an unheard of disease and he desires to see her. The two girls were friends and a shade of Black Magic overhangs on them and their families. Scene: Zorac cast his hypnotic gaze. Kathy is hypnotized. Mesmerized, Kathy is helpless in front of Zorac. Zorac is ready to sacrifice the mesmerized Kathy. extralarge comes to the rescue. Zorac uses the entranced Kathy as a human shield. Kathy's trance is broken by a spell from Mamma Limbo.",
+     "character": "",
+     "categories": [
+      "fantasy",
+      "crime"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki: Detective Extralarge",
+       "url": "https://mentalblock.miraheze.org/wiki/Detective_Extralarge"
+      }
+     ],
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
+     "group": "Fan-wiki screen additions (Oct 2026)",
+     "tags": [
+      "Western Live Action"
+     ]
+    }
+   }
+  },
+  {
+   "id": 2886,
+   "title": "Hay alguien ahí",
+   "subtitle": "\"Luces Que Se Encienden\" (Season 1, Episode 3)",
+   "year": "2009–2010",
+   "meta": "TV · Spanish",
+   "mechanism": "Traditional Hypnosis",
+   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "summary": "Set in an enigmatic house where a family moves in and soon sees their new life altered by a series of inexplicable phenomena. The plot revolves around the mystery that surrounds this house and the terrible events that happen to its new tenants: a couple in crisis and their three children. The Pardo-Simón family moves in with all their hopes placed on a better and, above all, quieter life. But what they don't know is that before their arrival something unexpected will happen. A supernatural force \"Luces Que Se Encienden\" (Season 1, Episode 3): Tormented by remorse, Íñigo calls the emergency service to rescue the body of a woman trapped at the bottom of a ravine due to Silvia's reckless driving. Overcome by the strange phenomena that are happening in the house, Clara goes to some clinical hypnosis sessions. His therapist puts him in contact with Jorge Selvas, a young and tormented medium from whom he begs for help for his family. Scene: Clara's psychiatrist hypnotizes her to recover her teenage memories.",
+   "character": "",
+   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
+   "note": "",
+   "tags": [
+    "Spanish-language Works",
+    "Western Live Action"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+   "format": "tv",
+   "categories": [
+    "medical",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki: Hay alguien ahí",
+     "url": "https://mentalblock.miraheze.org/wiki/Hay_alguien_ahí"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fanwiki-screen-oct14"
+   ],
+   "source_records": [
+    "fanwiki-screen-oct14:210"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fanwiki-screen-oct14:210": {
+     "title": "Hay alguien ahí",
+     "year": "2009–2010",
+     "subtitle": "\"Luces Que Se Encienden\" (Season 1, Episode 3)",
+     "format": "tv",
+     "standalone": true,
+     "meta": "TV · Spanish",
+     "mechanism": "Traditional Hypnosis",
+     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "summary": "Set in an enigmatic house where a family moves in and soon sees their new life altered by a series of inexplicable phenomena. The plot revolves around the mystery that surrounds this house and the terrible events that happen to its new tenants: a couple in crisis and their three children. The Pardo-Simón family moves in with all their hopes placed on a better and, above all, quieter life. But what they don't know is that before their arrival something unexpected will happen. A supernatural force \"Luces Que Se Encienden\" (Season 1, Episode 3): Tormented by remorse, Íñigo calls the emergency service to rescue the body of a woman trapped at the bottom of a ravine due to Silvia's reckless driving. Overcome by the strange phenomena that are happening in the house, Clara goes to some clinical hypnosis sessions. His therapist puts him in contact with Jorge Selvas, a young and tormented medium from whom he begs for help for his family. Scene: Clara's psychiatrist hypnotizes her to recover her teenage memories.",
+     "character": "",
+     "categories": [
+      "medical",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki: Hay alguien ahí",
+       "url": "https://mentalblock.miraheze.org/wiki/Hay_alguien_ahí"
+      }
+     ],
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
+     "group": "Fan-wiki screen additions (Oct 2026)",
+     "tags": [
+      "Spanish-language Works",
+      "Western Live Action"
+     ]
+    }
+   }
+  },
+  {
+   "id": 2887,
+   "title": "La Vengança De La Momia",
+   "subtitle": "",
+   "year": "1975",
+   "meta": "Film · Spanish",
+   "mechanism": "Magical Hypnosis",
+   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "summary": "After the cruel Egyptian pharaoh Amenhotep's mummy was discovered and transported to London, his distant relative travels from Egypt to England in order to resurrect his body. Scene: Helen falls into a trance Helen is mentally summoned by the Mummy. Abigail arrives and breaks Helen's trance. Amenhotep enter's in Helen's room. Helen is hypnotized by the Mummy. Under mind control, Helen kisses the Mummy. The mummy carries Helen to his lair.",
+   "character": "",
+   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
+   "note": "",
+   "tags": [
+    "Films Live-Action",
+    "Spanish-language Works",
+    "Western Live Action"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+   "format": "movie",
+   "categories": [
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki: La Vengança De La Momia",
+     "url": "https://mentalblock.miraheze.org/wiki/La_Vengança_De_La_Momia"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fanwiki-screen-oct14"
+   ],
+   "source_records": [
+    "fanwiki-screen-oct14:211"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fanwiki-screen-oct14:211": {
+     "title": "La Vengança De La Momia",
+     "year": "1975",
+     "subtitle": "",
+     "format": "movie",
+     "standalone": true,
+     "meta": "Film · Spanish",
+     "mechanism": "Magical Hypnosis",
+     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "summary": "After the cruel Egyptian pharaoh Amenhotep's mummy was discovered and transported to London, his distant relative travels from Egypt to England in order to resurrect his body. Scene: Helen falls into a trance Helen is mentally summoned by the Mummy. Abigail arrives and breaks Helen's trance. Amenhotep enter's in Helen's room. Helen is hypnotized by the Mummy. Under mind control, Helen kisses the Mummy. The mummy carries Helen to his lair.",
+     "character": "",
+     "categories": [
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki: La Vengança De La Momia",
+       "url": "https://mentalblock.miraheze.org/wiki/La_Vengança_De_La_Momia"
+      }
+     ],
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
+     "group": "Fan-wiki screen additions (Oct 2026)",
+     "tags": [
+      "Films Live-Action",
+      "Spanish-language Works",
+      "Western Live Action"
+     ]
+    }
+   }
+  },
+  {
+   "id": 2888,
+   "title": "Legend of the Seeker",
+   "subtitle": "Prophecy / Destiny (Season 1, Episode 1+2) / Elixir (Season 1, Episode 6) / Sacrifice (Season 1, Episode 10) / Confessio",
+   "year": "2008–2010",
+   "meta": "TV · English",
+   "mechanism": "Magical Hypnosis",
+   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "summary": "Prophecy / Destiny (Season 1, Episode 1+2): Kahlan is chased by Lord Rahl's men, when one of them tries to attack her she successfully manages to get a hold of him and enslave him with her powers, making him fight his own comrades for her. Rahl's soldiers destroy the boundary, in the pursuit of the Book of Counted Shadows. Kahlan and Richard fight them off. Kahlan uses her Confessing powers to enslave the commander. Elixir (Season 1, Episode 6): The heroes's horses was stolen by a yound boy who serves a local gang of thieve and outlaws that deals in magical potions, in the nerbay village. when",
+   "character": "",
+   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
+   "note": "",
+   "tags": [
+    "Western Live Action"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated (pregnancy mentioned on source page; check)",
+   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+   "format": "tv",
+   "categories": [
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki: Legend of the Seeker",
+     "url": "https://mentalblock.miraheze.org/wiki/Legend_of_the_Seeker"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fanwiki-screen-oct14"
+   ],
+   "source_records": [
+    "fanwiki-screen-oct14:212"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fanwiki-screen-oct14:212": {
+     "title": "Legend of the Seeker",
+     "year": "2008–2010",
+     "subtitle": "Prophecy / Destiny (Season 1, Episode 1+2) / Elixir (Season 1, Episode 6) / Sacrifice (Season 1, Episode 10) / Confessio",
+     "format": "tv",
+     "standalone": true,
+     "meta": "TV · English",
+     "mechanism": "Magical Hypnosis",
+     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "summary": "Prophecy / Destiny (Season 1, Episode 1+2): Kahlan is chased by Lord Rahl's men, when one of them tries to attack her she successfully manages to get a hold of him and enslave him with her powers, making him fight his own comrades for her. Rahl's soldiers destroy the boundary, in the pursuit of the Book of Counted Shadows. Kahlan and Richard fight them off. Kahlan uses her Confessing powers to enslave the commander. Elixir (Season 1, Episode 6): The heroes's horses was stolen by a yound boy who serves a local gang of thieve and outlaws that deals in magical potions, in the nerbay village. when",
+     "character": "",
+     "categories": [
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki: Legend of the Seeker",
+       "url": "https://mentalblock.miraheze.org/wiki/Legend_of_the_Seeker"
+      }
+     ],
+     "pregnant_end": "not stated (pregnancy mentioned on source page; check)",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
+     "group": "Fan-wiki screen additions (Oct 2026)",
+     "tags": [
+      "Western Live Action"
+     ]
+    }
+   }
+  },
+  {
+   "id": 2889,
+   "title": "Pluribus",
+   "subtitle": "We Is Us (Season 1, Episode 1) / Pirate Lady (Season 1, Episode 2) / Please, Carol (Season 1, Episode 4) / La Chica o El",
+   "year": "2025",
+   "meta": "TV · English",
+   "mechanism": "Chemical Hypnosis, Love Hypnosis",
+   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "summary": "We Is Us (Season 1, Episode 1): Astronomers discover a radio signal from 600 light years away that contains a viral sequence. After 18 months, the virus is researched in a lab. One scientist is bitten by a rat with the disease and becomes the first human to be assimilated into the hive. The hive proceed to kiss security guards and janitors to assimilate them. One of the scientists licks free donuts to spread the virus. Some time later, Carol and her partner Helen stand outside a bar at night. Carol notices planes in the sky flying parallel, then sees a car crash. While Carol goes over to help,",
+   "character": "",
+   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
+   "note": "",
+   "tags": [
+    "Western Live Action"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+   "format": "tv",
+   "categories": [
+    "spirit",
+    "scifi",
+    "tech",
+    "love"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki: Pluribus",
+     "url": "https://mentalblock.miraheze.org/wiki/Pluribus"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fanwiki-screen-oct14"
+   ],
+   "source_records": [
+    "fanwiki-screen-oct14:213"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fanwiki-screen-oct14:213": {
+     "title": "Pluribus",
+     "year": "2025",
+     "subtitle": "We Is Us (Season 1, Episode 1) / Pirate Lady (Season 1, Episode 2) / Please, Carol (Season 1, Episode 4) / La Chica o El",
+     "format": "tv",
+     "standalone": true,
+     "meta": "TV · English",
+     "mechanism": "Chemical Hypnosis, Love Hypnosis",
+     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "summary": "We Is Us (Season 1, Episode 1): Astronomers discover a radio signal from 600 light years away that contains a viral sequence. After 18 months, the virus is researched in a lab. One scientist is bitten by a rat with the disease and becomes the first human to be assimilated into the hive. The hive proceed to kiss security guards and janitors to assimilate them. One of the scientists licks free donuts to spread the virus. Some time later, Carol and her partner Helen stand outside a bar at night. Carol notices planes in the sky flying parallel, then sees a car crash. While Carol goes over to help,",
+     "character": "",
+     "categories": [
+      "spirit",
+      "scifi",
+      "tech",
+      "love"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki: Pluribus",
+       "url": "https://mentalblock.miraheze.org/wiki/Pluribus"
+      }
+     ],
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
+     "group": "Fan-wiki screen additions (Oct 2026)",
+     "tags": [
+      "Western Live Action"
+     ]
+    }
+   }
+  },
+  {
+   "id": 2890,
+   "title": "That Girl",
+   "subtitle": "At the Drop of a Budget (Season 4, Episode 5)",
+   "year": "1966–1971",
+   "meta": "TV · English",
+   "mechanism": "Comedic Hypnosis",
+   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+   "summary": "At the Drop of a Budget (Season 4, Episode 5): When Donald is helping Ann start a budget, Ann is suffering from a misunderstood post-hypnotic suggestion to buy anything \"at the drop of a hat.\"",
+   "character": "",
+   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
+   "note": "",
+   "tags": [
+    "Western Live Action"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+   "format": "tv",
+   "categories": [
+    "index-62"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki: That Girl (1966)",
+     "url": "https://mentalblock.miraheze.org/wiki/That_Girl_(1966)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fanwiki-screen-oct14"
+   ],
+   "source_records": [
+    "fanwiki-screen-oct14:214"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fanwiki-screen-oct14:214": {
+     "title": "That Girl",
+     "year": "1966–1971",
+     "subtitle": "At the Drop of a Budget (Season 4, Episode 5)",
+     "format": "tv",
+     "standalone": true,
+     "meta": "TV · English",
+     "mechanism": "Comedic Hypnosis",
+     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+     "summary": "At the Drop of a Budget (Season 4, Episode 5): When Donald is helping Ann start a budget, Ann is suffering from a misunderstood post-hypnotic suggestion to buy anything \"at the drop of a hat.\"",
+     "character": "",
+     "categories": [
+      "index-62"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki: That Girl (1966)",
+       "url": "https://mentalblock.miraheze.org/wiki/That_Girl_(1966)"
+      }
+     ],
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
+     "group": "Fan-wiki screen additions (Oct 2026)",
+     "tags": [
+      "Western Live Action"
+     ]
+    }
+   }
+  },
+  {
+   "id": 2891,
+   "title": "Siluman Kera",
+   "subtitle": "",
+   "year": "1989",
+   "meta": "Film · Indonesian",
+   "mechanism": "Magical Hypnosis, Possession",
+   "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified · year 1989 unconfirmed",
+   "summary": "Johan Giru and his wife Sofia lead an expedition to Lafayetta Island to study monkeys. Sofia is kidnapped by the ancestral spirit of the island. Johan frees her and asks Sofia to burn the wooden doll the spirit has sent her, but after 17 years their daughter receives the same wooden doll as a gift. Scene: the doll comes to life and gets up the doll stalks Sofia while she sleeps Sofia is hypnotized Mesmerized, Sofia follows the doll the doll comes to life and gets up in Luci's bedroom the doll hypnotizes Luci Luci is possessed by a evil spirit Possessed, Luci attacks Sanjaya",
+   "character": "",
+   "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
+   "note": "",
+   "tags": [
+    "Eastern Live Action",
+    "Films Live-Action"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+   "format": "movie",
+   "categories": [
+    "spirit",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki: Siluman Kera",
+     "url": "https://mentalblock.miraheze.org/wiki/Siluman_Kera"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "fanwiki-screen-oct14"
+   ],
+   "source_records": [
+    "fanwiki-screen-oct14:215"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "fanwiki-screen-oct14:215": {
+     "title": "Siluman Kera",
+     "year": "1989",
+     "subtitle": "",
+     "format": "movie",
+     "standalone": true,
+     "meta": "Film · Indonesian",
+     "mechanism": "Magical Hypnosis, Possession",
+     "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified · year 1989 unconfirmed",
+     "summary": "Johan Giru and his wife Sofia lead an expedition to Lafayetta Island to study monkeys. Sofia is kidnapped by the ancestral spirit of the island. Johan frees her and asks Sofia to burn the wooden doll the spirit has sent her, but after 17 years their daughter receives the same wooden doll as a gift. Scene: the doll comes to life and gets up the doll stalks Sofia while she sleeps Sofia is hypnotized Mesmerized, Sofia follows the doll the doll comes to life and gets up in Luci's bedroom the doll hypnotizes Luci Luci is possessed by a evil spirit Possessed, Luci attacks Sanjaya",
+     "character": "",
+     "categories": [
+      "spirit",
+      "wife"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki: Siluman Kera",
+       "url": "https://mentalblock.miraheze.org/wiki/Siluman_Kera"
+      }
+     ],
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+     "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
+     "group": "Fan-wiki screen additions (Oct 2026)",
+     "tags": [
+      "Eastern Live Action",
+      "Films Live-Action"
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -426361,6 +426925,10 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
+       "id": 2890,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
        "id": 2839,
        "from_source": "fanwiki-screen-oct14"
       },
@@ -427933,6 +428501,10 @@ window.CATALOG = {
       },
       {
        "id": 2808,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2889,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -429726,6 +430298,10 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
+       "id": 2885,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
        "id": 2728,
        "from_source": "fanwiki-screen-oct14"
       },
@@ -429806,7 +430382,15 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
+       "id": 2887,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
        "id": 2787,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2888,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -436832,6 +437416,10 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
+       "id": 2886,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
        "id": 2765,
        "from_source": "fanwiki-screen-oct14"
       },
@@ -437759,6 +438347,10 @@ window.CATALOG = {
       },
       {
        "id": 2855,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2891,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -439042,6 +439634,10 @@ window.CATALOG = {
       },
       {
        "id": 2718,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2885,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -441301,6 +441897,10 @@ window.CATALOG = {
       },
       {
        "id": 2799,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2889,
        "from_source": "fanwiki-screen-oct14"
       },
       {
@@ -443989,6 +444589,10 @@ window.CATALOG = {
       },
       {
        "id": 2752,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2886,
        "from_source": "fanwiki-screen-oct14"
       }
      ],
@@ -459104,6 +459708,10 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
+       "id": 2889,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
        "id": 2819,
        "from_source": "fanwiki-screen-oct14"
       },
@@ -460627,6 +461235,10 @@ window.CATALOG = {
        "from_source": "fanwiki-screen-oct14"
       },
       {
+       "id": 2889,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
        "id": 2814,
        "from_source": "fanwiki-screen-oct14"
       },
@@ -460640,6 +461252,10 @@ window.CATALOG = {
       },
       {
        "id": 2862,
+       "from_source": "fanwiki-screen-oct14"
+      },
+      {
+       "id": 2891,
        "from_source": "fanwiki-screen-oct14"
       },
       {
