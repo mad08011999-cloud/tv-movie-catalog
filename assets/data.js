@@ -3902,7 +3902,7 @@ window.CATALOG = {
    "description": "Indian serial episodes from official YouTube channels",
    "dropped": [],
    "check": {
-    "raw_count": 30,
+    "raw_count": 39,
     "ok": true
    },
    "status": "local"
@@ -3949,10 +3949,10 @@ window.CATALOG = {
   "telugu-deep-oct15": 3,
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
-  "official-yt-oct15": 30
+  "official-yt-oct15": 39
  },
- "raw_total": 5549,
- "entry_count": 2805,
+ "raw_total": 5558,
+ "entry_count": 2814,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4024,7 +4024,7 @@ window.CATALOG = {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 251
+   "entry_count": 254
   },
   {
    "key": "child-controller",
@@ -4042,7 +4042,7 @@ window.CATALOG = {
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 177
+   "entry_count": 185
   },
   {
    "key": "hypnotized-to-marry",
@@ -4078,7 +4078,7 @@ window.CATALOG = {
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 50
+   "entry_count": 51
   },
   {
    "key": "index-54",
@@ -4132,7 +4132,7 @@ window.CATALOG = {
    "key": "indian-female-hypnosis",
    "label": "Indian-language female hypnotized against her will",
    "legend_label": "Indian-language female hypnotized against her will",
-   "entry_count": 24
+   "entry_count": 27
   },
   {
    "key": "lesbian-couple-pregnancy",
@@ -4150,7 +4150,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 116
+   "entry_count": 117
   },
   {
    "key": "mom-partner-control",
@@ -4396,7 +4396,7 @@ window.CATALOG = {
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 141
+   "entry_count": 142
   },
   {
    "key": "stepmom-control",
@@ -4414,7 +4414,7 @@ window.CATALOG = {
    "key": "evil-female",
    "label": "Supernatural female control — India & Indonesia",
    "legend_label": "Supernatural female control — India & Indonesia",
-   "entry_count": 42
+   "entry_count": 49
   },
   {
    "key": "index-59",
@@ -4432,7 +4432,7 @@ window.CATALOG = {
    "key": "tantrik",
    "label": "Tantrik / black-magic control",
    "legend_label": "Tantrik / black-magic control",
-   "entry_count": 43
+   "entry_count": 44
   },
   {
    "key": "vampire",
@@ -424443,20 +424443,20 @@ window.CATALOG = {
   {
    "id": 2906,
    "title": "Nazar",
-   "subtitle": "Clip: 'Mohana ne kiya Vedashri ko apne vash mein!'",
+   "subtitle": "Clips: Mohana controls Vedashri; Shalaka controls Neha",
    "year": "2023 (YouTube upload; series 2018–2020)",
    "meta": "TV serial · StarPlus · Hindi · India",
    "mechanism": "Witch's control (vash)",
    "confidence_flag": "Medium · official clip title",
-   "summary": "The daayan Mohana brings Vedashri under her control (vash).",
-   "character": "Vedashri",
+   "summary": "The daayan Mohana brings Vedashri under her control (vash). In another 2023 clip, Shalaka brings Neha under her control.",
+   "character": "Vedashri; Neha",
    "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
    "note": "",
    "kids_status": "not stated",
    "kids_together": "not stated",
    "married": "not stated",
    "pregnant_end": "not stated",
-   "fit_note": "Vedashri is an adult in the Rathod family; age not explicitly stated in the source.",
+   "fit_note": "Vedashri and Neha: ages not explicitly stated in the sources.",
    "format": "tv",
    "categories": [
     "india-control",
@@ -424471,11 +424471,16 @@ window.CATALOG = {
     {
      "label": "StarPlus (YouTube): Mohana ne kiya Vedashri ko vash mein!",
      "url": "https://www.youtube.com/watch?v=m3843VYUCf0"
+    },
+    {
+     "label": "StarPlus (YouTube): Nazar | Kyun kiya Shalaka ne Neha ko vash mein?",
+     "url": "https://www.youtube.com/watch?v=AA4YItOcYi8"
     }
    ],
    "youtube_ids": [
     "-G7ZtEH6-RU",
-    "m3843VYUCf0"
+    "m3843VYUCf0",
+    "AA4YItOcYi8"
    ],
    "from_sources": [
     "official-yt-oct15"
@@ -424499,13 +424504,13 @@ window.CATALOG = {
      "kids_together": "not stated",
      "married": "not stated",
      "title": "Nazar",
-     "subtitle": "Clip: 'Mohana ne kiya Vedashri ko apne vash mein!'",
+     "subtitle": "Clips: Mohana controls Vedashri; Shalaka controls Neha",
      "year": "2023 (YouTube upload; series 2018–2020)",
      "meta": "TV serial · StarPlus · Hindi · India",
      "mechanism": "Witch's control (vash)",
      "confidence_flag": "Medium · official clip title",
-     "summary": "The daayan Mohana brings Vedashri under her control (vash).",
-     "character": "Vedashri",
+     "summary": "The daayan Mohana brings Vedashri under her control (vash). In another 2023 clip, Shalaka brings Neha under her control.",
+     "character": "Vedashri; Neha",
      "categories": [
       "india-control",
       "evil-female",
@@ -424519,9 +424524,13 @@ window.CATALOG = {
       {
        "label": "StarPlus (YouTube): Mohana ne kiya Vedashri ko vash mein!",
        "url": "https://www.youtube.com/watch?v=m3843VYUCf0"
+      },
+      {
+       "label": "StarPlus (YouTube): Nazar | Kyun kiya Shalaka ne Neha ko vash mein?",
+       "url": "https://www.youtube.com/watch?v=AA4YItOcYi8"
       }
      ],
-     "fit_note": "Vedashri is an adult in the Rathod family; age not explicitly stated in the source."
+     "fit_note": "Vedashri and Neha: ages not explicitly stated in the sources."
     }
    }
   },
@@ -424609,8 +424618,8 @@ window.CATALOG = {
    "meta": "TV crime series · Sony (CID 2) · Hindi · India",
    "mechanism": "Stage-style eye-fixation hypnosis",
    "confidence_flag": "Medium · official episode description",
-   "summary": "Robber Sohan, posing as a salesman, hypnotizes Kunal's wife Amrita by staring into her eyes so that he and Rinky can loot her locker; officers Purvi and Pankaj are also hypnotized undercover.",
-   "character": "Amrita; Purvi",
+   "summary": "Robber Sohan, posing as a salesman, hypnotizes Kunal's wife Amrita by staring into her eyes so that he and Rinky can loot her locker; officers Purvi and Pankaj are also hypnotized undercover. A separate 18 Feb 2025 episode asks who has brought officer Shreya under their control (vash).",
+   "character": "Amrita; Purvi; Shreya",
    "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
    "note": "",
    "kids_status": "not stated",
@@ -424627,10 +424636,15 @@ window.CATALOG = {
     {
      "label": "Sony WAH (YouTube): CID | 11 Apr 2025",
      "url": "https://www.youtube.com/watch?v=cl77pX5r3zc"
+    },
+    {
+     "label": "Sony WAH (YouTube): किसने किया Shreya को अपने वश में? | CID | 18 Feb 2025",
+     "url": "https://www.youtube.com/watch?v=UMatLKEdIQY"
     }
    ],
    "youtube_ids": [
-    "cl77pX5r3zc"
+    "cl77pX5r3zc",
+    "UMatLKEdIQY"
    ],
    "from_sources": [
     "official-yt-oct15"
@@ -424659,8 +424673,8 @@ window.CATALOG = {
      "meta": "TV crime series · Sony (CID 2) · Hindi · India",
      "mechanism": "Stage-style eye-fixation hypnosis",
      "confidence_flag": "Medium · official episode description",
-     "summary": "Robber Sohan, posing as a salesman, hypnotizes Kunal's wife Amrita by staring into her eyes so that he and Rinky can loot her locker; officers Purvi and Pankaj are also hypnotized undercover.",
-     "character": "Amrita; Purvi",
+     "summary": "Robber Sohan, posing as a salesman, hypnotizes Kunal's wife Amrita by staring into her eyes so that he and Rinky can loot her locker; officers Purvi and Pankaj are also hypnotized undercover. A separate 18 Feb 2025 episode asks who has brought officer Shreya under their control (vash).",
+     "character": "Amrita; Purvi; Shreya",
      "categories": [
       "india-control",
       "indian-female-hypnosis",
@@ -424670,6 +424684,10 @@ window.CATALOG = {
       {
        "label": "Sony WAH (YouTube): CID | 11 Apr 2025",
        "url": "https://www.youtube.com/watch?v=cl77pX5r3zc"
+      },
+      {
+       "label": "Sony WAH (YouTube): किसने किया Shreya को अपने वश में? | CID | 18 Feb 2025",
+       "url": "https://www.youtube.com/watch?v=UMatLKEdIQY"
       }
      ]
     }
@@ -425072,9 +425090,15 @@ window.CATALOG = {
     {
      "label": "JioHotstar: Faltu – Faltu Gets Hypnotised",
      "url": "https://www.hotstar.com/in/tv/Faltu/1260121083/faltu-gets-hypnotised/1000282208"
+    },
+    {
+     "label": "StarPlus (YouTube): Faltu hui hypnotised! | S1 | Ep.82",
+     "url": "https://www.youtube.com/watch?v=3KpoRlrdiKA"
     }
    ],
-   "youtube_ids": [],
+   "youtube_ids": [
+    "3KpoRlrdiKA"
+   ],
    "from_sources": [
     "official-yt-oct15"
    ],
@@ -425083,7 +425107,7 @@ window.CATALOG = {
    ],
    "index_only": false,
    "local_only": true,
-   "thumbnail": null,
+   "thumbnail": "thumbs/3KpoRlrdiKA.jpg",
    "primary_copy": null,
    "merged_from": [],
    "raw": {
@@ -425112,6 +425136,700 @@ window.CATALOG = {
       {
        "label": "JioHotstar: Faltu – Faltu Gets Hypnotised",
        "url": "https://www.hotstar.com/in/tv/Faltu/1260121083/faltu-gets-hypnotised/1000282208"
+      },
+      {
+       "label": "StarPlus (YouTube): Faltu hui hypnotised! | S1 | Ep.82",
+       "url": "https://www.youtube.com/watch?v=3KpoRlrdiKA"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2915,
+   "title": "Saubhagyavati Bhava: Niyam Aur Shartein Laagu",
+   "subtitle": "Ep. 71",
+   "year": "2024",
+   "meta": "TV serial · Star Bharat · Hindi · India",
+   "mechanism": "Vash (control)",
+   "confidence_flag": "Medium · official episode title",
+   "summary": "Dadi falls under Mahek's control (vash).",
+   "character": "Dadi",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Dadi (grandmother): adult.",
+   "format": "tv",
+   "categories": [
+    "india-control",
+    "evil-female"
+   ],
+   "sources": [
+    {
+     "label": "STAR Bharat (YouTube): Mahek ke vash mein Dadi | Saubhagyavati Bhava | EPISODE-71 PART 02",
+     "url": "https://www.youtube.com/watch?v=nl0QViwqHFM"
+    }
+   ],
+   "youtube_ids": [
+    "nl0QViwqHFM"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:31"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/nl0QViwqHFM.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:31": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Saubhagyavati Bhava: Niyam Aur Shartein Laagu",
+     "subtitle": "Ep. 71",
+     "year": "2024",
+     "meta": "TV serial · Star Bharat · Hindi · India",
+     "mechanism": "Vash (control)",
+     "confidence_flag": "Medium · official episode title",
+     "summary": "Dadi falls under Mahek's control (vash).",
+     "character": "Dadi",
+     "categories": [
+      "india-control",
+      "evil-female"
+     ],
+     "sources": [
+      {
+       "label": "STAR Bharat (YouTube): Mahek ke vash mein Dadi | Saubhagyavati Bhava | EPISODE-71 PART 02",
+       "url": "https://www.youtube.com/watch?v=nl0QViwqHFM"
+      }
+     ],
+     "fit_note": "Dadi (grandmother): adult."
+    }
+   }
+  },
+  {
+   "id": 2916,
+   "title": "Naagarjuna – Ek Yoddha",
+   "subtitle": "Ep. 125",
+   "year": "2025 (YouTube upload)",
+   "meta": "TV serial · Star Bharat · Hindi · India",
+   "mechanism": "Vash (supernatural control)",
+   "confidence_flag": "Medium · official episode title",
+   "summary": "Noorie falls under Maskini's control.",
+   "character": "Noorie",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Noorie's age not stated.",
+   "format": "tv",
+   "categories": [
+    "india-control",
+    "fantasy",
+    "evil-female"
+   ],
+   "sources": [
+    {
+     "label": "STAR Bharat (YouTube): Noorie Hai Maskini Ke Vash Mein! FULL EP-125",
+     "url": "https://www.youtube.com/watch?v=2mQzoLa6Fq0"
+    }
+   ],
+   "youtube_ids": [
+    "2mQzoLa6Fq0"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:32"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/2mQzoLa6Fq0.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:32": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Naagarjuna – Ek Yoddha",
+     "subtitle": "Ep. 125",
+     "year": "2025 (YouTube upload)",
+     "meta": "TV serial · Star Bharat · Hindi · India",
+     "mechanism": "Vash (supernatural control)",
+     "confidence_flag": "Medium · official episode title",
+     "summary": "Noorie falls under Maskini's control.",
+     "character": "Noorie",
+     "categories": [
+      "india-control",
+      "fantasy",
+      "evil-female"
+     ],
+     "sources": [
+      {
+       "label": "STAR Bharat (YouTube): Noorie Hai Maskini Ke Vash Mein! FULL EP-125",
+       "url": "https://www.youtube.com/watch?v=2mQzoLa6Fq0"
+      }
+     ],
+     "fit_note": "Noorie's age not stated."
+    }
+   }
+  },
+  {
+   "id": 2917,
+   "title": "Jaadu Teri Nazar – Dayan Ka Mausam",
+   "subtitle": "Ep. 29",
+   "year": "2025",
+   "meta": "TV serial · StarPlus · Hindi · India",
+   "mechanism": "Witch's control (vash)",
+   "confidence_flag": "Medium · official clip title",
+   "summary": "Veena falls under the dayan's control.",
+   "character": "Veena",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Veena's age not stated.",
+   "format": "tv",
+   "categories": [
+    "india-control",
+    "evil-female",
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "StarPlus (YouTube): Veena है Dayan के वश में! | Ep.29 | Highlights",
+     "url": "https://www.youtube.com/watch?v=jG-qw4tsO-k"
+    }
+   ],
+   "youtube_ids": [
+    "jG-qw4tsO-k"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:33"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/jG-qw4tsO-k.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:33": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Jaadu Teri Nazar – Dayan Ka Mausam",
+     "subtitle": "Ep. 29",
+     "year": "2025",
+     "meta": "TV serial · StarPlus · Hindi · India",
+     "mechanism": "Witch's control (vash)",
+     "confidence_flag": "Medium · official clip title",
+     "summary": "Veena falls under the dayan's control.",
+     "character": "Veena",
+     "categories": [
+      "india-control",
+      "evil-female",
+      "spirit"
+     ],
+     "sources": [
+      {
+       "label": "StarPlus (YouTube): Veena है Dayan के वश में! | Ep.29 | Highlights",
+       "url": "https://www.youtube.com/watch?v=jG-qw4tsO-k"
+      }
+     ],
+     "fit_note": "Veena's age not stated."
+    }
+   }
+  },
+  {
+   "id": 2918,
+   "title": "Muddha Mandaram",
+   "subtitle": "Ep. 999",
+   "year": "2024 (YouTube upload; series 2014–2019)",
+   "meta": "TV serial · Zee Telugu · Telugu · India",
+   "mechanism": "Hypnosis",
+   "confidence_flag": "Medium · official episode title",
+   "summary": "Neelambari hypnotises Parvathi, one of the show's two lead women.",
+   "character": "Parvathi",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "india-control",
+    "indian-female-hypnosis",
+    "evil-female"
+   ],
+   "sources": [
+    {
+     "label": "Zee Telugu (YouTube): Neelambari Parvathiని హిప్నోటైజ్ చేస్తుంది | Muddha Mandaram | Full Ep. 999",
+     "url": "https://www.youtube.com/watch?v=cDy2nGTYj6c"
+    }
+   ],
+   "youtube_ids": [
+    "cDy2nGTYj6c"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:34"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/cDy2nGTYj6c.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:34": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Muddha Mandaram",
+     "subtitle": "Ep. 999",
+     "year": "2024 (YouTube upload; series 2014–2019)",
+     "meta": "TV serial · Zee Telugu · Telugu · India",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · official episode title",
+     "summary": "Neelambari hypnotises Parvathi, one of the show's two lead women.",
+     "character": "Parvathi",
+     "categories": [
+      "india-control",
+      "indian-female-hypnosis",
+      "evil-female"
+     ],
+     "sources": [
+      {
+       "label": "Zee Telugu (YouTube): Neelambari Parvathiని హిప్నోటైజ్ చేస్తుంది | Muddha Mandaram | Full Ep. 999",
+       "url": "https://www.youtube.com/watch?v=cDy2nGTYj6c"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2919,
+   "title": "Tikuli – Suhagin Ya Abhagin",
+   "subtitle": "Webisodes (Jun–Jul 2023)",
+   "year": "2023",
+   "meta": "TV serial · Zee Ganga · Bhojpuri/Hindi · India",
+   "mechanism": "Baba's and Mohini's vash (black-magic control)",
+   "confidence_flag": "Medium · official clip descriptions",
+   "summary": "A Baba enslaves Keshav's mother, turning her into a puppet under his command; later Mohini casts a spell over Varsha (and Bablu), bringing them under her control.",
+   "character": "Keshav's mother; Varsha",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Keshav's mother is an adult; Varsha's age is not stated.",
+   "format": "tv",
+   "categories": [
+    "tantrik",
+    "india-control",
+    "evil-female"
+   ],
+   "sources": [
+    {
+     "label": "Zee Ganga (YouTube): Keshav की माँ को बाबा ने अपने वश मे किया | Tikuli",
+     "url": "https://www.youtube.com/watch?v=NhFgqOYq4QQ"
+    },
+    {
+     "label": "Zee Ganga (YouTube): Mohini ने किया Varsha और Bablu को अपने वश में | Tikuli",
+     "url": "https://www.youtube.com/watch?v=WfNEVBsmGnE"
+    }
+   ],
+   "youtube_ids": [
+    "NhFgqOYq4QQ",
+    "WfNEVBsmGnE"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:35"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/NhFgqOYq4QQ.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:35": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Tikuli – Suhagin Ya Abhagin",
+     "subtitle": "Webisodes (Jun–Jul 2023)",
+     "year": "2023",
+     "meta": "TV serial · Zee Ganga · Bhojpuri/Hindi · India",
+     "mechanism": "Baba's and Mohini's vash (black-magic control)",
+     "confidence_flag": "Medium · official clip descriptions",
+     "summary": "A Baba enslaves Keshav's mother, turning her into a puppet under his command; later Mohini casts a spell over Varsha (and Bablu), bringing them under her control.",
+     "character": "Keshav's mother; Varsha",
+     "categories": [
+      "tantrik",
+      "india-control",
+      "evil-female"
+     ],
+     "sources": [
+      {
+       "label": "Zee Ganga (YouTube): Keshav की माँ को बाबा ने अपने वश मे किया | Tikuli",
+       "url": "https://www.youtube.com/watch?v=NhFgqOYq4QQ"
+      },
+      {
+       "label": "Zee Ganga (YouTube): Mohini ने किया Varsha और Bablu को अपने वश में | Tikuli",
+       "url": "https://www.youtube.com/watch?v=WfNEVBsmGnE"
+      }
+     ],
+     "fit_note": "Keshav's mother is an adult; Varsha's age is not stated."
+    }
+   }
+  },
+  {
+   "id": 2920,
+   "title": "Naagin 4",
+   "subtitle": "Ep. 36 (highlights)",
+   "year": "2019–20",
+   "meta": "TV serial · Colors TV · Hindi · India",
+   "mechanism": "Memory-altering dark-magic spell",
+   "confidence_flag": "Medium · official clip description",
+   "summary": "Shalakha casts a powerful memory-altering spell on Brinda so that she forgets that Dev is responsible for her mother's death.",
+   "character": "Brinda",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "india-control",
+    "evil-female",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "Colors TV (YouTube): Naagin S4 | Highlights Ep. 36 | Shalakha's Evil Spell To Brainwash Brinda!",
+     "url": "https://www.youtube.com/watch?v=mrKA1UandTg"
+    }
+   ],
+   "youtube_ids": [
+    "mrKA1UandTg"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:36"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/mrKA1UandTg.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:36": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Naagin 4",
+     "subtitle": "Ep. 36 (highlights)",
+     "year": "2019–20",
+     "meta": "TV serial · Colors TV · Hindi · India",
+     "mechanism": "Memory-altering dark-magic spell",
+     "confidence_flag": "Medium · official clip description",
+     "summary": "Shalakha casts a powerful memory-altering spell on Brinda so that she forgets that Dev is responsible for her mother's death.",
+     "character": "Brinda",
+     "categories": [
+      "india-control",
+      "evil-female",
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "Colors TV (YouTube): Naagin S4 | Highlights Ep. 36 | Shalakha's Evil Spell To Brainwash Brinda!",
+       "url": "https://www.youtube.com/watch?v=mrKA1UandTg"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2921,
+   "title": "Sasural Simar Ka",
+   "subtitle": "Full Ep. 757 & 760",
+   "year": "2026 (YouTube upload; series 2011–18)",
+   "meta": "TV serial · Colors TV · Hindi · India",
+   "mechanism": "Hypnosis",
+   "confidence_flag": "Medium · official episode descriptions",
+   "summary": "Simar, who has been hypnotised, opens up to Amar (Ep. 757); in Ep. 760 she discovers that she was hypnotised and struggles to understand the truth behind the strange incidents.",
+   "character": "Simar",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "yes (Prem's wife, the show's central married couple)",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "india-control",
+    "indian-female-hypnosis",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "Colors Rishtey (YouTube): Sasural Simar Ka | Simar Learns She Was Hypnotised | Full Ep - 760",
+     "url": "https://www.youtube.com/watch?v=kec2dNHp-30"
+    },
+    {
+     "label": "Colors Rishtey (YouTube): Simar Talks to Amar After Getting Hypnotised | Full Ep - 757",
+     "url": "https://www.youtube.com/watch?v=-g7M7rjs0jg"
+    }
+   ],
+   "youtube_ids": [
+    "kec2dNHp-30",
+    "-g7M7rjs0jg"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:37"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/kec2dNHp-30.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:37": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "yes (Prem's wife, the show's central married couple)",
+     "title": "Sasural Simar Ka",
+     "subtitle": "Full Ep. 757 & 760",
+     "year": "2026 (YouTube upload; series 2011–18)",
+     "meta": "TV serial · Colors TV · Hindi · India",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · official episode descriptions",
+     "summary": "Simar, who has been hypnotised, opens up to Amar (Ep. 757); in Ep. 760 she discovers that she was hypnotised and struggles to understand the truth behind the strange incidents.",
+     "character": "Simar",
+     "categories": [
+      "india-control",
+      "indian-female-hypnosis",
+      "wife"
+     ],
+     "sources": [
+      {
+       "label": "Colors Rishtey (YouTube): Sasural Simar Ka | Simar Learns She Was Hypnotised | Full Ep - 760",
+       "url": "https://www.youtube.com/watch?v=kec2dNHp-30"
+      },
+      {
+       "label": "Colors Rishtey (YouTube): Simar Talks to Amar After Getting Hypnotised | Full Ep - 757",
+       "url": "https://www.youtube.com/watch?v=-g7M7rjs0jg"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2922,
+   "title": "Anhonee",
+   "subtitle": "Ep. 64",
+   "year": "2020 (YouTube upload)",
+   "meta": "TV horror anthology · Zee TV · Hindi · India",
+   "mechanism": "Hypnosis by a doctor",
+   "confidence_flag": "Low-Medium · official episode title",
+   "summary": "A doctor hypnotises Pinky.",
+   "character": "Pinky",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Pinky's age not stated.",
+   "format": "tv",
+   "categories": [
+    "medical",
+    "indian-female-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "Zee TV (YouTube): Anhonee | Ep.64 | Pinky को doctor ने किया hypnotise | Full Episode",
+     "url": "https://www.youtube.com/watch?v=h1c-lP3fFsI"
+    }
+   ],
+   "youtube_ids": [
+    "h1c-lP3fFsI"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:38"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/h1c-lP3fFsI.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:38": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Anhonee",
+     "subtitle": "Ep. 64",
+     "year": "2020 (YouTube upload)",
+     "meta": "TV horror anthology · Zee TV · Hindi · India",
+     "mechanism": "Hypnosis by a doctor",
+     "confidence_flag": "Low-Medium · official episode title",
+     "summary": "A doctor hypnotises Pinky.",
+     "character": "Pinky",
+     "categories": [
+      "medical",
+      "indian-female-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Zee TV (YouTube): Anhonee | Ep.64 | Pinky को doctor ने किया hypnotise | Full Episode",
+       "url": "https://www.youtube.com/watch?v=h1c-lP3fFsI"
+      }
+     ],
+     "fit_note": "Pinky's age not stated."
+    }
+   }
+  },
+  {
+   "id": 2923,
+   "title": "Yehh Jadu Hai Jinn Ka",
+   "subtitle": "Clip: 'Roshni aur Aman aa gaye Jalpari Jinn ke vash mein!'",
+   "year": "2024 (YouTube upload; series 2019–20)",
+   "meta": "TV serial · StarPlus · Hindi · India",
+   "mechanism": "Jinn's control (vash)",
+   "confidence_flag": "Medium · official clip title",
+   "summary": "Roshni (with Aman) falls under the Jalpari Jinn's control.",
+   "character": "Roshni",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "india-control",
+    "fantasy",
+    "evil-female"
+   ],
+   "sources": [
+    {
+     "label": "StarPlus (YouTube): Roshni aur Aman aa gaye Jalpari Jinn ke वश mein! | Yehh Jadu Hai Jinn Ka",
+     "url": "https://www.youtube.com/watch?v=0K_NhFnfkiE"
+    }
+   ],
+   "youtube_ids": [
+    "0K_NhFnfkiE"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:39"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/0K_NhFnfkiE.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:39": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Yehh Jadu Hai Jinn Ka",
+     "subtitle": "Clip: 'Roshni aur Aman aa gaye Jalpari Jinn ke vash mein!'",
+     "year": "2024 (YouTube upload; series 2019–20)",
+     "meta": "TV serial · StarPlus · Hindi · India",
+     "mechanism": "Jinn's control (vash)",
+     "confidence_flag": "Medium · official clip title",
+     "summary": "Roshni (with Aman) falls under the Jalpari Jinn's control.",
+     "character": "Roshni",
+     "categories": [
+      "india-control",
+      "fantasy",
+      "evil-female"
+     ],
+     "sources": [
+      {
+       "label": "StarPlus (YouTube): Roshni aur Aman aa gaye Jalpari Jinn ke वश mein! | Yehh Jadu Hai Jinn Ka",
+       "url": "https://www.youtube.com/watch?v=0K_NhFnfkiE"
       }
      ]
     }
@@ -432674,11 +433392,23 @@ window.CATALOG = {
        "from_source": "official-yt-oct15"
       },
       {
+       "id": 2916,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2920,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2911,
        "from_source": "official-yt-oct15"
       },
       {
        "id": 2896,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2923,
        "from_source": "official-yt-oct15"
       }
      ],
@@ -434727,6 +435457,10 @@ window.CATALOG = {
        "from_source": "official-yt-oct15"
       },
       {
+       "id": 2917,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2895,
        "from_source": "official-yt-oct15"
       },
@@ -434751,6 +435485,10 @@ window.CATALOG = {
        "from_source": "official-yt-oct15"
       },
       {
+       "id": 2918,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2886,
        "from_source": "official-yt-oct15"
       },
@@ -434759,7 +435497,15 @@ window.CATALOG = {
        "from_source": "official-yt-oct15"
       },
       {
+       "id": 2916,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2899,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2920,
        "from_source": "official-yt-oct15"
       },
       {
@@ -434807,7 +435553,23 @@ window.CATALOG = {
        "from_source": "official-yt-oct15"
       },
       {
+       "id": 2921,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2915,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2888,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2919,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2923,
        "from_source": "official-yt-oct15"
       }
      ],
@@ -440689,6 +441451,10 @@ window.CATALOG = {
       {
        "id": 2900,
        "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2921,
+       "from_source": "official-yt-oct15"
       }
      ],
      "from_source": "official-yt-oct15"
@@ -444506,6 +445272,10 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 2922,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2905,
        "from_source": "official-yt-oct15"
       },
@@ -444538,6 +445308,10 @@ window.CATALOG = {
        "from_source": "official-yt-oct15"
       },
       {
+       "id": 2918,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2886,
        "from_source": "official-yt-oct15"
       },
@@ -444555,6 +445329,10 @@ window.CATALOG = {
       },
       {
        "id": 2903,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2921,
        "from_source": "official-yt-oct15"
       },
       {
@@ -446872,6 +447650,10 @@ window.CATALOG = {
      "title": "Official channel episode additions (Oct 2026)",
      "notes": [],
      "items": [
+      {
+       "id": 2922,
+       "from_source": "official-yt-oct15"
+      },
       {
        "id": 2913,
        "from_source": "official-yt-oct15"
@@ -463603,6 +464385,10 @@ window.CATALOG = {
        "from_source": "official-yt-oct15"
       },
       {
+       "id": 2917,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2892,
        "from_source": "official-yt-oct15"
       },
@@ -464157,7 +464943,23 @@ window.CATALOG = {
        "from_source": "official-yt-oct15"
       },
       {
+       "id": 2917,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2918,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2916,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2899,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2920,
        "from_source": "official-yt-oct15"
       },
       {
@@ -464185,7 +464987,19 @@ window.CATALOG = {
        "from_source": "official-yt-oct15"
       },
       {
+       "id": 2915,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2888,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2919,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2923,
        "from_source": "official-yt-oct15"
       }
      ],
@@ -464774,6 +465588,10 @@ window.CATALOG = {
       },
       {
        "id": 2897,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2919,
        "from_source": "official-yt-oct15"
       }
      ],
