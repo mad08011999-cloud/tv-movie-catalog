@@ -3902,7 +3902,7 @@ window.CATALOG = {
    "description": "Indian serial episodes from official YouTube channels",
    "dropped": [],
    "check": {
-    "raw_count": 7,
+    "raw_count": 9,
     "ok": true
    },
    "status": "local"
@@ -3949,10 +3949,10 @@ window.CATALOG = {
   "telugu-deep-oct15": 3,
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
-  "official-yt-oct15": 7
+  "official-yt-oct15": 9
  },
- "raw_total": 5526,
- "entry_count": 2782,
+ "raw_total": 5528,
+ "entry_count": 2784,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4042,7 +4042,7 @@ window.CATALOG = {
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 155
+   "entry_count": 157
   },
   {
    "key": "hypnotized-to-marry",
@@ -4132,7 +4132,7 @@ window.CATALOG = {
    "key": "indian-female-hypnosis",
    "label": "Indian-language female hypnotized against her will",
    "legend_label": "Indian-language female hypnotized against her will",
-   "entry_count": 15
+   "entry_count": 16
   },
   {
    "key": "lesbian-couple-pregnancy",
@@ -4150,7 +4150,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 114
+   "entry_count": 115
   },
   {
    "key": "mom-partner-control",
@@ -4396,7 +4396,7 @@ window.CATALOG = {
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 136
+   "entry_count": 137
   },
   {
    "key": "stepmom-control",
@@ -423385,6 +423385,152 @@ window.CATALOG = {
      "married": "not stated"
     }
    }
+  },
+  {
+   "id": 2892,
+   "title": "Othiri Othiri Swapnangal",
+   "subtitle": "EP 265",
+   "year": "2026",
+   "meta": "TV serial · Mazhavil Manorama · Malayalam · India",
+   "mechanism": "Police hypnosis to recover memories",
+   "confidence_flag": "Medium · official episode description",
+   "summary": "The police try hypnosis to find out what is on Varsha's mind; Yamini also gives her medicine to help her regain lost memories.",
+   "character": "Varsha",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "indian-female-hypnosis",
+    "india-control",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Mazhavil Manorama (YouTube): EP 265 | Othiri Othiri Swapnangal | Police Turn to Hypnosis to Uncover Varsha's Hidden Memories",
+     "url": "https://www.youtube.com/watch?v=vwxpv29CeAs"
+    }
+   ],
+   "youtube_ids": [
+    "vwxpv29CeAs"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/vwxpv29CeAs.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:8": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Othiri Othiri Swapnangal",
+     "subtitle": "EP 265",
+     "year": "2026",
+     "meta": "TV serial · Mazhavil Manorama · Malayalam · India",
+     "mechanism": "Police hypnosis to recover memories",
+     "confidence_flag": "Medium · official episode description",
+     "summary": "The police try hypnosis to find out what is on Varsha's mind; Yamini also gives her medicine to help her regain lost memories.",
+     "character": "Varsha",
+     "categories": [
+      "indian-female-hypnosis",
+      "india-control",
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Mazhavil Manorama (YouTube): EP 265 | Othiri Othiri Swapnangal | Police Turn to Hypnosis to Uncover Varsha's Hidden Memories",
+       "url": "https://www.youtube.com/watch?v=vwxpv29CeAs"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2893,
+   "title": "Naagamandala",
+   "subtitle": "Full ep 97 (10 May 2024)",
+   "year": "2024",
+   "meta": "TV serial · Zee Kannada · Kannada · India",
+   "mechanism": "Mesmerised / entranced (snake-god supernatural)",
+   "confidence_flag": "Low-Medium · official episode title",
+   "summary": "Punya, mesmerised, performs a snake dance (official title); episode also shows Parnika worshipping the snake god.",
+   "character": "Punya",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "india-control",
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "Zee Kannada (YouTube): A Mesmerised Punya Does a Snake Dance - Naagamandala - Full ep 97",
+     "url": "https://www.youtube.com/watch?v=d9YEJV_Zaho"
+    }
+   ],
+   "youtube_ids": [
+    "d9YEJV_Zaho"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:9"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/d9YEJV_Zaho.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:9": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Naagamandala",
+     "subtitle": "Full ep 97 (10 May 2024)",
+     "year": "2024",
+     "meta": "TV serial · Zee Kannada · Kannada · India",
+     "mechanism": "Mesmerised / entranced (snake-god supernatural)",
+     "confidence_flag": "Low-Medium · official episode title",
+     "summary": "Punya, mesmerised, performs a snake dance (official title); episode also shows Parnika worshipping the snake god.",
+     "character": "Punya",
+     "categories": [
+      "india-control",
+      "spirit"
+     ],
+     "sources": [
+      {
+       "label": "Zee Kannada (YouTube): A Mesmerised Punya Does a Snake Dance - Naagamandala - Full ep 97",
+       "url": "https://www.youtube.com/watch?v=d9YEJV_Zaho"
+      }
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -432946,7 +433092,15 @@ window.CATALOG = {
        "from_source": "official-yt-oct15"
       },
       {
+       "id": 2893,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2888,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2892,
        "from_source": "official-yt-oct15"
       },
       {
@@ -442631,6 +442785,10 @@ window.CATALOG = {
        "from_source": "official-yt-oct15"
       },
       {
+       "id": 2892,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2889,
        "from_source": "official-yt-oct15"
       }
@@ -443900,7 +444058,8 @@ window.CATALOG = {
     "indian-langs-oct14",
     "fanwiki-screen-oct14",
     "telugu-deep-oct15",
-    "new-angles-oct15"
+    "new-angles-oct15",
+    "official-yt-oct15"
    ],
    "groups": [
     {
@@ -444939,6 +445098,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "new-angles-oct15"
+    },
+    {
+     "title": "Official channel episode additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2892,
+       "from_source": "official-yt-oct15"
+      }
+     ],
+     "from_source": "official-yt-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -444959,7 +445129,8 @@ window.CATALOG = {
     "indian-langs-oct14": null,
     "fanwiki-screen-oct14": null,
     "telugu-deep-oct15": null,
-    "new-angles-oct15": null
+    "new-angles-oct15": null,
+    "official-yt-oct15": null
    }
   },
   {
@@ -460601,7 +460772,8 @@ window.CATALOG = {
     "india-catalog",
     "indian-langs-oct14",
     "fanwiki-screen-oct14",
-    "telugu-deep-oct15"
+    "telugu-deep-oct15",
+    "official-yt-oct15"
    ],
    "groups": [
     {
@@ -461648,6 +461820,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "telugu-deep-oct15"
+    },
+    {
+     "title": "Official channel episode additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2893,
+       "from_source": "official-yt-oct15"
+      }
+     ],
+     "from_source": "official-yt-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -461655,7 +461838,8 @@ window.CATALOG = {
     "india-catalog": null,
     "indian-langs-oct14": null,
     "fanwiki-screen-oct14": null,
-    "telugu-deep-oct15": null
+    "telugu-deep-oct15": null,
+    "official-yt-oct15": null
    }
   },
   {

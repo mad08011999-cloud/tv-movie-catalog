@@ -207,6 +207,63 @@
    "kids_status": "not stated",
    "kids_together": "not stated",
    "married": "not stated"
+  },
+  {
+   "standalone": true,
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "group": "Official channel episode additions (Oct 2026)",
+   "format": "tv",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "title": "Othiri Othiri Swapnangal",
+   "subtitle": "EP 265",
+   "year": "2026",
+   "meta": "TV serial · Mazhavil Manorama · Malayalam · India",
+   "mechanism": "Police hypnosis to recover memories",
+   "confidence_flag": "Medium · official episode description",
+   "summary": "The police try hypnosis to find out what is on Varsha's mind; Yamini also gives her medicine to help her regain lost memories.",
+   "character": "Varsha",
+   "categories": [
+    "indian-female-hypnosis",
+    "india-control",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Mazhavil Manorama (YouTube): EP 265 | Othiri Othiri Swapnangal | Police Turn to Hypnosis to Uncover Varsha's Hidden Memories",
+     "url": "https://www.youtube.com/watch?v=vwxpv29CeAs"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "group": "Official channel episode additions (Oct 2026)",
+   "format": "tv",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "title": "Naagamandala",
+   "subtitle": "Full ep 97 (10 May 2024)",
+   "year": "2024",
+   "meta": "TV serial · Zee Kannada · Kannada · India",
+   "mechanism": "Mesmerised / entranced (snake-god supernatural)",
+   "confidence_flag": "Low-Medium · official episode title",
+   "summary": "Punya, mesmerised, performs a snake dance (official title); episode also shows Parnika worshipping the snake god.",
+   "character": "Punya",
+   "categories": [
+    "india-control",
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "Zee Kannada (YouTube): A Mesmerised Punya Does a Snake Dance - Naagamandala - Full ep 97",
+     "url": "https://www.youtube.com/watch?v=d9YEJV_Zaho"
+    }
+   ]
   }
  ],
  "dropped": []
