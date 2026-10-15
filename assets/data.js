@@ -3902,7 +3902,7 @@ window.CATALOG = {
    "description": "Indian serial episodes from official YouTube channels",
    "dropped": [],
    "check": {
-    "raw_count": 27,
+    "raw_count": 30,
     "ok": true
    },
    "status": "local"
@@ -3949,10 +3949,10 @@ window.CATALOG = {
   "telugu-deep-oct15": 3,
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
-  "official-yt-oct15": 27
+  "official-yt-oct15": 30
  },
- "raw_total": 5546,
- "entry_count": 2802,
+ "raw_total": 5549,
+ "entry_count": 2805,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4042,7 +4042,7 @@ window.CATALOG = {
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 175
+   "entry_count": 177
   },
   {
    "key": "hypnotized-to-marry",
@@ -4132,7 +4132,7 @@ window.CATALOG = {
    "key": "indian-female-hypnosis",
    "label": "Indian-language female hypnotized against her will",
    "legend_label": "Indian-language female hypnotized against her will",
-   "entry_count": 21
+   "entry_count": 24
   },
   {
    "key": "lesbian-couple-pregnancy",
@@ -4150,7 +4150,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 115
+   "entry_count": 116
   },
   {
    "key": "mom-partner-control",
@@ -4414,7 +4414,7 @@ window.CATALOG = {
    "key": "evil-female",
    "label": "Supernatural female control — India & Indonesia",
    "legend_label": "Supernatural female control — India & Indonesia",
-   "entry_count": 41
+   "entry_count": 42
   },
   {
    "key": "index-59",
@@ -424898,6 +424898,224 @@ window.CATALOG = {
      "fit_note": "Mohini's age not stated."
     }
    }
+  },
+  {
+   "id": 2912,
+   "title": "Ninaithale Inikkum — E819 “Tamanna Hypnotises Mallika”",
+   "subtitle": "23 Feb 2024",
+   "year": "2024",
+   "meta": "TV serial · Zee Tamil · Tamil · India",
+   "mechanism": "Hypnosis",
+   "confidence_flag": "Medium · official episode description",
+   "summary": "Savitri is astonished to learn that Tamanna has hypnotised Mallika, Bommi's sister.",
+   "character": "Mallika",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Mallika's age isn't stated here; a later ZEE5 synopsis (E1215) has her pose as a nurse, so she is presumably an adult.",
+   "format": "tv",
+   "categories": [
+    "india-control",
+    "indian-female-hypnosis",
+    "evil-female"
+   ],
+   "sources": [
+    {
+     "label": "Zee Tamil (YouTube): Ninaithale Inikkum | Full Ep 819 | 23 Feb 24",
+     "url": "https://www.youtube.com/watch?v=7uwzg1QFIGQ"
+    }
+   ],
+   "youtube_ids": [
+    "7uwzg1QFIGQ"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:28"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/7uwzg1QFIGQ.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:28": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Ninaithale Inikkum — E819 “Tamanna Hypnotises Mallika”",
+     "subtitle": "23 Feb 2024",
+     "year": "2024",
+     "meta": "TV serial · Zee Tamil · Tamil · India",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · official episode description",
+     "summary": "Savitri is astonished to learn that Tamanna has hypnotised Mallika, Bommi's sister.",
+     "character": "Mallika",
+     "categories": [
+      "india-control",
+      "indian-female-hypnosis",
+      "evil-female"
+     ],
+     "sources": [
+      {
+       "label": "Zee Tamil (YouTube): Ninaithale Inikkum | Full Ep 819 | 23 Feb 24",
+       "url": "https://www.youtube.com/watch?v=7uwzg1QFIGQ"
+      }
+     ],
+     "fit_note": "Mallika's age isn't stated here; a later ZEE5 synopsis (E1215) has her pose as a nurse, so she is presumably an adult."
+    }
+   }
+  },
+  {
+   "id": 2913,
+   "title": "Grahan Zindagi Ka",
+   "subtitle": "Episode 15 – 'A Hypnotised Rama Talks about Her Childhood'",
+   "year": "2023",
+   "meta": "TV serial · ZEE5 · Hindi · India",
+   "mechanism": "Therapeutic hypnosis",
+   "confidence_flag": "Low-Medium · platform episode title",
+   "summary": "Under hypnosis, Rama talks about her childhood.",
+   "character": "Rama",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Rama is recalling her childhood, so she is presumably an adult at the time; age isn't stated.",
+   "format": "tv",
+   "categories": [
+    "medical",
+    "indian-female-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "ZEE5: Grahan Zindagi Ka – episodes list (E15 'A Hypnotised Rama Talks about Her Childhood', 29 May)",
+     "url": "https://www.zee5.com/global/tv-shows/details/grahan-zindagi-ka/0-6-4z5363527/episodes"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:29"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:29": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Grahan Zindagi Ka",
+     "subtitle": "Episode 15 – 'A Hypnotised Rama Talks about Her Childhood'",
+     "year": "2023",
+     "meta": "TV serial · ZEE5 · Hindi · India",
+     "mechanism": "Therapeutic hypnosis",
+     "confidence_flag": "Low-Medium · platform episode title",
+     "summary": "Under hypnosis, Rama talks about her childhood.",
+     "character": "Rama",
+     "categories": [
+      "medical",
+      "indian-female-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "ZEE5: Grahan Zindagi Ka – episodes list (E15 'A Hypnotised Rama Talks about Her Childhood', 29 May)",
+       "url": "https://www.zee5.com/global/tv-shows/details/grahan-zindagi-ka/0-6-4z5363527/episodes"
+      }
+     ],
+     "fit_note": "Rama is recalling her childhood, so she is presumably an adult at the time; age isn't stated."
+    }
+   }
+  },
+  {
+   "id": 2914,
+   "title": "Faltu",
+   "subtitle": "Episode 82 – 'Faltu Gets Hypnotised'",
+   "year": "2022–23",
+   "meta": "TV serial · StarPlus / JioHotstar · Hindi · India",
+   "mechanism": "Hypnosis",
+   "confidence_flag": "Low · platform episode title only",
+   "summary": "An episode titled 'Faltu Gets Hypnotised'; the title character, an adult woman who trains at a cricket academy in later episodes, is hypnotised.",
+   "character": "Faltu",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "india-control",
+    "indian-female-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "JioHotstar: Faltu – Faltu Gets Hypnotised",
+     "url": "https://www.hotstar.com/in/tv/Faltu/1260121083/faltu-gets-hypnotised/1000282208"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:30"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:30": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Faltu",
+     "subtitle": "Episode 82 – 'Faltu Gets Hypnotised'",
+     "year": "2022–23",
+     "meta": "TV serial · StarPlus / JioHotstar · Hindi · India",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Low · platform episode title only",
+     "summary": "An episode titled 'Faltu Gets Hypnotised'; the title character, an adult woman who trains at a cricket academy in later episodes, is hypnotised.",
+     "character": "Faltu",
+     "categories": [
+      "india-control",
+      "indian-female-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "JioHotstar: Faltu – Faltu Gets Hypnotised",
+       "url": "https://www.hotstar.com/in/tv/Faltu/1260121083/faltu-gets-hypnotised/1000282208"
+      }
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -434497,6 +434715,10 @@ window.CATALOG = {
        "from_source": "official-yt-oct15"
       },
       {
+       "id": 2914,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2904,
        "from_source": "official-yt-oct15"
       },
@@ -434550,6 +434772,10 @@ window.CATALOG = {
       },
       {
        "id": 2887,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2912,
        "from_source": "official-yt-oct15"
       },
       {
@@ -444292,6 +444518,14 @@ window.CATALOG = {
        "from_source": "official-yt-oct15"
       },
       {
+       "id": 2914,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2913,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2895,
        "from_source": "official-yt-oct15"
       },
@@ -444309,6 +444543,10 @@ window.CATALOG = {
       },
       {
        "id": 2899,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2912,
        "from_source": "official-yt-oct15"
       },
       {
@@ -446634,6 +446872,10 @@ window.CATALOG = {
      "title": "Official channel episode additions (Oct 2026)",
      "notes": [],
      "items": [
+      {
+       "id": 2913,
+       "from_source": "official-yt-oct15"
+      },
       {
        "id": 2891,
        "from_source": "official-yt-oct15"
@@ -463924,6 +464166,10 @@ window.CATALOG = {
       },
       {
        "id": 2906,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2912,
        "from_source": "official-yt-oct15"
       },
       {

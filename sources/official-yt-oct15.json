@@ -807,6 +807,93 @@
     }
    ],
    "fit_note": "Mohini's age not stated."
+  },
+  {
+   "standalone": true,
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "group": "Official channel episode additions (Oct 2026)",
+   "format": "tv",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "title": "Ninaithale Inikkum — E819 “Tamanna Hypnotises Mallika”",
+   "subtitle": "23 Feb 2024",
+   "year": "2024",
+   "meta": "TV serial · Zee Tamil · Tamil · India",
+   "mechanism": "Hypnosis",
+   "confidence_flag": "Medium · official episode description",
+   "summary": "Savitri is astonished to learn that Tamanna has hypnotised Mallika, Bommi's sister.",
+   "character": "Mallika",
+   "categories": [
+    "india-control",
+    "indian-female-hypnosis",
+    "evil-female"
+   ],
+   "sources": [
+    {
+     "label": "Zee Tamil (YouTube): Ninaithale Inikkum | Full Ep 819 | 23 Feb 24",
+     "url": "https://www.youtube.com/watch?v=7uwzg1QFIGQ"
+    }
+   ],
+   "fit_note": "Mallika's age isn't stated here; a later ZEE5 synopsis (E1215) has her pose as a nurse, so she is presumably an adult."
+  },
+  {
+   "standalone": true,
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "group": "Official channel episode additions (Oct 2026)",
+   "format": "tv",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "title": "Grahan Zindagi Ka",
+   "subtitle": "Episode 15 – 'A Hypnotised Rama Talks about Her Childhood'",
+   "year": "2023",
+   "meta": "TV serial · ZEE5 · Hindi · India",
+   "mechanism": "Therapeutic hypnosis",
+   "confidence_flag": "Low-Medium · platform episode title",
+   "summary": "Under hypnosis, Rama talks about her childhood.",
+   "character": "Rama",
+   "categories": [
+    "medical",
+    "indian-female-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "ZEE5: Grahan Zindagi Ka – episodes list (E15 'A Hypnotised Rama Talks about Her Childhood', 29 May)",
+     "url": "https://www.zee5.com/global/tv-shows/details/grahan-zindagi-ka/0-6-4z5363527/episodes"
+    }
+   ],
+   "fit_note": "Rama is recalling her childhood, so she is presumably an adult at the time; age isn't stated."
+  },
+  {
+   "standalone": true,
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "group": "Official channel episode additions (Oct 2026)",
+   "format": "tv",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "title": "Faltu",
+   "subtitle": "Episode 82 – 'Faltu Gets Hypnotised'",
+   "year": "2022–23",
+   "meta": "TV serial · StarPlus / JioHotstar · Hindi · India",
+   "mechanism": "Hypnosis",
+   "confidence_flag": "Low · platform episode title only",
+   "summary": "An episode titled 'Faltu Gets Hypnotised'; the title character, an adult woman who trains at a cricket academy in later episodes, is hypnotised.",
+   "character": "Faltu",
+   "categories": [
+    "india-control",
+    "indian-female-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "JioHotstar: Faltu – Faltu Gets Hypnotised",
+     "url": "https://www.hotstar.com/in/tv/Faltu/1260121083/faltu-gets-hypnotised/1000282208"
+    }
+   ]
   }
  ],
  "dropped": []
