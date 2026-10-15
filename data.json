@@ -3053,6 +3053,76 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "recheck-oct14",
+   "label": "Cross-bot recheck + new/missing sweep incl. vertical shorts (14 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/recheck-oct14.json",
+   "description": "Recheck of other bots' research plus a web sweep of every category for new or missing titles, including vertical series / microdramas (ReelShort, DramaBox, ShortMax, Hongguo, Vigloo) and YouTube Shorts. Nearly every lead was already in the catalog; only verified titles are added, in existing categories. Rejected leads are in dropped.",
+   "dropped": [
+    {
+     "title": "Class in Hypnosis / 최면교실 (2024 Vigloo vertical)",
+     "reason": "school-student cast (minors); hypnotist and victims are teens"
+    },
+    {
+     "title": "Hypnosis Battle / Hypnotic Duel / 催眠对决 (2024)",
+     "reason": "male psychologist is the subject; no female hypnosis"
+    },
+    {
+     "title": "Past Life (2025/2026)",
+     "reason": "male journalist hypnotised; wife not hypnotised"
+    },
+    {
+     "title": "The Hypnotized (2014, asiaflix listing)",
+     "reason": "mis-dated listing of Faceless Beauty / The Hypnotized (2004), already card 18"
+    },
+    {
+     "title": "Taskhir (2025, farsinama review)",
+     "reason": "review text appears machine-generated with invented cast; not verifiable"
+    },
+    {
+     "title": "Mannat Har Khushi Paane Ki (2026 track)",
+     "reason": "hypnotised character Dua is a child"
+    },
+    {
+     "title": "Under His Hypnosis / 被催眠的她 (2026)",
+     "reason": "already in catalog; note a Reddit post attaches the Listen To Your Husband (Luo Fei) synopsis to this title, while Hongguo/Sina give the Zhang Qing plot"
+    },
+    {
+     "title": "Listen To Your Husband / Lost Memories: A Hypnotized Marriage",
+     "reason": "already in catalog (2025 vertical)"
+    },
+    {
+     "title": "Beneath the Hypnosis (ShortMax)",
+     "reason": "already in catalog"
+    },
+    {
+     "title": "Private Tasting / 私尝 (2025)",
+     "reason": "already in catalog"
+    },
+    {
+     "title": "Mann Sundar (Dangal 2026, Yuvraj hypnotises Ruhi)",
+     "reason": "already in catalog (card 1513)"
+    },
+    {
+     "title": "YouTube Shorts hypnosis roleplay / ASMR clips",
+     "reason": "audio roleplay / skits, not scripted film or TV series"
+    },
+    {
+     "title": "Blemished (ReelShort)",
+     "reason": "'hypnotized' only figuratively by an ad; male lead"
+    },
+    {
+     "title": "Alias S5E12 'There's Only One Sydney Bristow'",
+     "reason": "no hypnosis; the hypnosis episode is S5E9"
+    }
+   ],
+   "check": {
+    "raw_count": 3,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -3089,10 +3159,11 @@
   "round2": 11,
   "round3": 17,
   "widow-remarry": 33,
-  "widow-divorcee-oct14b": 2
+  "widow-divorcee-oct14b": 2,
+  "recheck-oct14": 3
  },
- "raw_total": 5304,
- "entry_count": 2562,
+ "raw_total": 5307,
+ "entry_count": 2564,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -3194,7 +3265,7 @@
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 104
+   "entry_count": 106
   },
   {
    "key": "index-56",
@@ -3212,7 +3283,7 @@
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 581
+   "entry_count": 583
   },
   {
    "key": "wife",
@@ -3320,7 +3391,7 @@
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
    "legend_label": "Other female hypnosis / mind control",
-   "entry_count": 245
+   "entry_count": 246
   },
   {
    "key": "parents-sleeping",
@@ -3446,13 +3517,13 @@
    "key": "index-37",
    "label": "Pregnant woman hypnotized / mind-controlled",
    "legend_label": "Pregnant woman hypnotized / mind-controlled",
-   "entry_count": 13
+   "entry_count": 14
   },
   {
    "key": "pregnant-strict",
    "label": "Pregnant woman hypnotized while pregnant — strict core",
    "legend_label": "Pregnant woman hypnotized while pregnant — strict core",
-   "entry_count": 12
+   "entry_count": 13
   },
   {
    "key": "pregnancy-evil",
@@ -3542,7 +3613,7 @@
    "key": "stepmom-control",
    "label": "Stepmother / bonus mom hypnotized or mind-controlled",
    "legend_label": "Stepmother / bonus mom hypnotized or mind-controlled",
-   "entry_count": 5
+   "entry_count": 6
   },
   {
    "key": "index-60",
@@ -329891,24 +329962,71 @@
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    "E",
+    "p",
+    " ",
+    "8",
+    "1",
+    ":",
+    "s",
+    "t",
+    "e",
+    "m",
+    "o",
+    "h",
+    "r",
+    "L",
+    "u",
+    "i",
+    "a",
+    "(",
+    "G",
+    "l",
+    "y",
+    "d",
+    "M",
+    "c",
+    ")",
+    "n",
+    "b",
+    "f",
+    "g",
+    "v",
+    "-",
+    "k",
+    ";",
+    "9",
+    "0",
+    "w",
+    "."
+   ],
    "format": "tv",
    "categories": [
-    "love"
+    "love",
+    "stepmom-control",
+    "forced-obedience"
    ],
    "sources": [
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/The_Stepdaughters"
+    },
+    {
+     "label": "Wikipedia: The Stepdaughters (2018 Philippine television drama series)",
+     "url": "https://en.wikipedia.org/wiki/The_Stepdaughters"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "recheck-oct14"
    ],
    "source_records": [
     "xla62ucxbx02u5:1829",
-    "worldwide-hypnosis:982"
+    "worldwide-hypnosis:982",
+    "recheck-oct14:3"
    ],
    "index_only": false,
    "local_only": false,
@@ -329968,6 +330086,36 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "recheck-oct14:3",
+     "source": "recheck-oct14",
+     "label": "The Stepdaughters (2018)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Stepdaughters",
+     "subtitle": "",
+     "year": "2018",
+     "meta": "TV series · GMA Network · Philippines · Tagalog · 178 episodes (2018)",
+     "summary": "",
+     "character": "",
+     "note": "Correction: identified as the 2018 GMA Network series (year was 'None', country unverified). The stepdaughter has a hypnotist entrance her stepmother, so the card gains stepmom-control and forced-obedience.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "stepmom-control",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia: The Stepdaughters (2018 Philippine television drama series)",
+       "url": "https://en.wikipedia.org/wiki/The_Stepdaughters"
+      }
+     ],
+     "episodes": "Ep 81: stepmother Luisa (Glydel Mercado) hypnotised by a hired hypnotist for her stepdaughter and given a lighter-click trigger; Ep 90: she starts to wake and is put back under.",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -330011,6 +330159,27 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "recheck-oct14:3": {
+     "title": "The Stepdaughters",
+     "match_title": "The Stepdaughters",
+     "match_year": "None",
+     "year": "2018",
+     "format": "tv",
+     "meta": "TV series · GMA Network · Philippines · Tagalog · 178 episodes (2018)",
+     "categories": [
+      "stepmom-control",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia: The Stepdaughters (2018 Philippine television drama series)",
+       "url": "https://en.wikipedia.org/wiki/The_Stepdaughters"
+      }
+     ],
+     "episodes": "Ep 81: stepmother Luisa (Glydel Mercado) hypnotised by a hired hypnotist for her stepdaughter and given a lighter-click trigger; Ep 90: she starts to wake and is put back under.",
+     "provenance": "Recheck sweep, 14 Oct 2026 PT",
+     "note": "Correction: identified as the 2018 GMA Network series (year was 'None', country unverified). The stepdaughter has a hypnotist entrance her stepmother, so the card gains stepmom-control and forced-obedience."
     }
    }
   },
@@ -404000,6 +404169,157 @@
      "note": "Borderline fit: mind control here is cult coercion, not hypnosis."
     }
    }
+  },
+  {
+   "id": 2671,
+   "title": "Alias",
+   "subtitle": "S5E9 \"The Horizon\"",
+   "year": "2005",
+   "meta": "TV series · ABC · USA · English · S05E09 'The Horizon' (aired 13 Dec 2005) · TV-14",
+   "mechanism": "Forced hypnosis by Prophet Five captors to extract secrets",
+   "confidence_flag": "Medium-high · two independent episode listings",
+   "summary": "Pregnant CIA agent Sydney Bristow is abducted by Prophet Five (Desantis) and put under hypnosis so she will reveal what Vaughn told her about 'The Horizon'. She realises what is happening and resists by giving a false name. When she wakes she is on a ship and learns her captor is interested in her unborn baby.",
+   "character": "Sydney Bristow (Jennifer Garner)",
+   "provenance": "Recheck sweep, 14 Oct 2026 PT",
+   "note": "Free with ads on Pluto TV (US) at time of check.",
+   "pregnancy_outcome": "pregnant during hypnosis; baby born later in season 5",
+   "pregnancy_note": "Sydney is pregnant with Vaughn's child while hypnotised; she gives birth later in the season (S5E11).",
+   "married": "no (engaged; Vaughn presumed dead)",
+   "evidence": "Joyn episode synopsis (hypnosis, unborn baby) + Pluto TV episode listing (title, air date, capture)",
+   "format": "tv",
+   "categories": [
+    "index-37",
+    "pregnant-strict",
+    "human",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Joyn: Alias – Die Agentin S5E9 'Unter Hypnose' synopsis",
+     "url": "https://www.joyn.at/serien/alias-die-agentin/5-9-unter-hypnose"
+    },
+    {
+     "label": "Pluto TV: Alias S5E9 'The Horizon'",
+     "url": "https://pluto.tv/us/shows/970003512/episode/6a566c79920a04f6d7ecc8a2/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "recheck-oct14"
+   ],
+   "source_records": [
+    "recheck-oct14:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "recheck-oct14:1": {
+     "title": "Alias",
+     "year": "2005",
+     "subtitle": "S5E9 \"The Horizon\"",
+     "format": "tv",
+     "standalone": true,
+     "meta": "TV series · ABC · USA · English · S05E09 'The Horizon' (aired 13 Dec 2005) · TV-14",
+     "mechanism": "Forced hypnosis by Prophet Five captors to extract secrets",
+     "confidence_flag": "Medium-high · two independent episode listings",
+     "summary": "Pregnant CIA agent Sydney Bristow is abducted by Prophet Five (Desantis) and put under hypnosis so she will reveal what Vaughn told her about 'The Horizon'. She realises what is happening and resists by giving a false name. When she wakes she is on a ship and learns her captor is interested in her unborn baby.",
+     "character": "Sydney Bristow (Jennifer Garner)",
+     "categories": [
+      "index-37",
+      "pregnant-strict",
+      "human",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "Joyn: Alias – Die Agentin S5E9 'Unter Hypnose' synopsis",
+       "url": "https://www.joyn.at/serien/alias-die-agentin/5-9-unter-hypnose"
+      },
+      {
+       "label": "Pluto TV: Alias S5E9 'The Horizon'",
+       "url": "https://pluto.tv/us/shows/970003512/episode/6a566c79920a04f6d7ecc8a2/"
+      }
+     ],
+     "pregnancy_outcome": "pregnant during hypnosis; baby born later in season 5",
+     "pregnancy_note": "Sydney is pregnant with Vaughn's child while hypnotised; she gives birth later in the season (S5E11).",
+     "married": "no (engaged; Vaughn presumed dead)",
+     "evidence": "Joyn episode synopsis (hypnosis, unborn baby) + Pluto TV episode listing (title, air date, capture)",
+     "provenance": "Recheck sweep, 14 Oct 2026 PT",
+     "group": "Recheck sweep additions (Oct 2026)",
+     "note": "Free with ads on Pluto TV (US) at time of check."
+    }
+   }
+  },
+  {
+   "id": 2672,
+   "title": "Lost Control for Him",
+   "subtitle": "为她失控 / Wo Dui Ni Shang Yin",
+   "year": "2025",
+   "meta": "Chinese vertical short drama · Mandarin · 65 episodes (~2 min) · aired 23 Oct 2025",
+   "mechanism": "Long-term 'mental control' by her stepfather (method not specified in the synopsis)",
+   "confidence_flag": "Low-medium · single listing synopsis; loose fit",
+   "summary": "Qin Sang has been under the mental control of her stepfather Shen Guodong since childhood. After seeing him murder her mother and grandfather she feigns obedience while planning revenge, and allies with his enemy Zhou Yanzhi, who later saves her from drugging and a suicide attempt.",
+   "character": "Qin Sang (He Shi), stepfather Shen Guodong, Zhou Yanzhi (Wang Xuan)",
+   "provenance": "Recheck sweep, 14 Oct 2026 PT",
+   "note": "loose fit: the synopsis says 'mental control' but does not say hypnosis; she is an adult in the main story but the control began in childhood.",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "not mentioned",
+   "evidence": "MyDramaList synopsis (sourced from r/DramaRush); single source",
+   "format": "vertical series",
+   "categories": [
+    "human",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "MyDramaList",
+     "url": "https://mydramalist.com/794104-wo-dui-ni-shang-yin"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "recheck-oct14"
+   ],
+   "source_records": [
+    "recheck-oct14:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "recheck-oct14:2": {
+     "title": "Lost Control for Him",
+     "subtitle": "为她失控 / Wo Dui Ni Shang Yin",
+     "year": "2025",
+     "format": "vertical series",
+     "meta": "Chinese vertical short drama · Mandarin · 65 episodes (~2 min) · aired 23 Oct 2025",
+     "mechanism": "Long-term 'mental control' by her stepfather (method not specified in the synopsis)",
+     "confidence_flag": "Low-medium · single listing synopsis; loose fit",
+     "summary": "Qin Sang has been under the mental control of her stepfather Shen Guodong since childhood. After seeing him murder her mother and grandfather she feigns obedience while planning revenge, and allies with his enemy Zhou Yanzhi, who later saves her from drugging and a suicide attempt.",
+     "character": "Qin Sang (He Shi), stepfather Shen Guodong, Zhou Yanzhi (Wang Xuan)",
+     "categories": [
+      "human",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "MyDramaList",
+       "url": "https://mydramalist.com/794104-wo-dui-ni-shang-yin"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "not mentioned",
+     "evidence": "MyDramaList synopsis (sourced from r/DramaRush); single source",
+     "provenance": "Recheck sweep, 14 Oct 2026 PT",
+     "group": "Recheck sweep additions (Oct 2026)",
+     "note": "loose fit: the synopsis says 'mental control' but does not say hypnosis; she is an adult in the main story but the control began in childhood."
+    }
+   }
   }
  ],
  "sections": [
@@ -413990,7 +414310,8 @@
     "hypnosis-assault-loose",
     "hypno-sweep-oct9",
     "widow-divorcee-oct14",
-    "round2"
+    "round2",
+    "recheck-oct14"
    ],
    "groups": [
     {
@@ -417844,6 +418165,21 @@
       }
      ],
      "from_source": "round2"
+    },
+    {
+     "title": "Recheck sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2671,
+       "from_source": "recheck-oct14"
+      },
+      {
+       "id": 2672,
+       "from_source": "recheck-oct14"
+      }
+     ],
+     "from_source": "recheck-oct14"
     }
    ],
    "declared_count_by_source": {
@@ -417859,7 +418195,8 @@
     "hypnosis-assault-loose": null,
     "hypno-sweep-oct9": null,
     "widow-divorcee-oct14": null,
-    "round2": null
+    "round2": null,
+    "recheck-oct14": null
    }
   },
   {
@@ -421222,6 +421559,12 @@
         "Hypnotized to love",
         "Trance",
         "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/The_Stepdaughters"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
@@ -427028,7 +427371,8 @@
     "hypno-leftovers",
     "hypnosis-assault-loose",
     "round2",
-    "round3"
+    "round3",
+    "recheck-oct14"
    ],
    "groups": [
     {
@@ -428943,6 +429287,17 @@
       }
      ],
      "from_source": "round3"
+    },
+    {
+     "title": "Recheck sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2672,
+       "from_source": "recheck-oct14"
+      }
+     ],
+     "from_source": "recheck-oct14"
     }
    ],
    "declared_count_by_source": {
@@ -428955,7 +429310,8 @@
     "hypno-leftovers": null,
     "hypnosis-assault-loose": null,
     "round2": null,
-    "round3": null
+    "round3": null,
+    "recheck-oct14": null
    }
   },
   {
@@ -433196,10 +433552,12 @@
    "description": "Five stronger cases, one pregnancy-relevant post-hypnosis vertical-short cross-tag, five variants and four unresolved leads.",
    "notes": [],
    "from_sources": [
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "recheck-oct14"
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 15
+    "ig6qlxqxoxvcxla": 15,
+    "recheck-oct14": null
    },
    "groups": [
     {
@@ -433353,6 +433711,17 @@
       }
      ],
      "from_source": "ig6qlxqxoxvcxla"
+    },
+    {
+     "title": "Recheck sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2671,
+       "from_source": "recheck-oct14"
+      }
+     ],
+     "from_source": "recheck-oct14"
     }
    ]
   },
@@ -433921,7 +434290,8 @@
    ],
    "from_sources": [
     "xla62ucxbx02u5",
-    "round3"
+    "round3",
+    "recheck-oct14"
    ],
    "groups": [
     {
@@ -434189,10 +434559,22 @@
        "from_source": "xla62ucxbx02u5"
       }
      ]
+    },
+    {
+     "title": "Recheck sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2671,
+       "from_source": "recheck-oct14"
+      }
+     ],
+     "from_source": "recheck-oct14"
     }
    ],
    "declared_count_by_source": {
-    "round3": null
+    "round3": null,
+    "recheck-oct14": null
    }
   },
   {
@@ -440715,7 +441097,8 @@
    ],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "recheck-oct14"
    ],
    "groups": [
     {
@@ -440797,10 +441180,22 @@
       }
      ],
      "from_source": "ig6qlxqxoxvcxla"
+    },
+    {
+     "title": "Recheck sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1815,
+       "from_source": "recheck-oct14"
+      }
+     ],
+     "from_source": "recheck-oct14"
     }
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 4
+    "ig6qlxqxoxvcxla": 4,
+    "recheck-oct14": null
    }
   },
   {
@@ -444540,7 +444935,8 @@
     "hypno-leftovers",
     "hypnosis-assault",
     "hypnosis-assault-loose",
-    "widow-divorcee-oct14b"
+    "widow-divorcee-oct14b",
+    "recheck-oct14"
    ],
    "groups": [
     {
@@ -445932,6 +446328,21 @@
       }
      ],
      "from_source": "hypnosis-assault-loose"
+    },
+    {
+     "title": "Recheck sweep additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2671,
+       "from_source": "recheck-oct14"
+      },
+      {
+       "id": 1815,
+       "from_source": "recheck-oct14"
+      }
+     ],
+     "from_source": "recheck-oct14"
     }
    ],
    "declared_count_by_source": {
@@ -445942,7 +446353,8 @@
     "hypno-leftovers": null,
     "hypnosis-assault": null,
     "hypnosis-assault-loose": null,
-    "widow-divorcee-oct14b": null
+    "widow-divorcee-oct14b": null,
+    "recheck-oct14": null
    }
   },
   {
