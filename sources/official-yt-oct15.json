@@ -396,13 +396,13 @@
    "kids_together": "not stated",
    "married": "not stated",
    "title": "Ave Kallu",
-   "subtitle": "Ep. 70",
+   "subtitle": "Ep. 33 & Ep. 70",
    "year": "2023",
    "meta": "TV serial · Star Maa · Telugu · India",
    "mechanism": "Vashikaran stone (witch's control)",
    "confidence_flag": "Medium · official clip description",
-   "summary": "Kavya tries to kill the witch Mohini with a trishul; Mohini throws a stone and, on touching it, Kavya comes under Mohini's control.",
-   "character": "Kavya",
+   "summary": "Ep. 33: Mohini takes control of Vaidehi to execute her plan and escape her curse. Ep. 70: Kavya touches a vashikaran stone thrown by Mohini and comes under her control.",
+   "character": "Vaidehi; Kavya",
    "categories": [
     "tantrik",
     "india-control",
@@ -410,41 +410,15 @@
    ],
    "sources": [
     {
+     "label": "Star Maa (YouTube): Ave Kallu Ep-33 Highlights | మోహిని వైదేహిని తన వశం చేసుకుంది",
+     "url": "https://www.youtube.com/watch?v=DyeejOpkXtI"
+    },
+    {
      "label": "Star Maa (YouTube): Ave Kallu Ep 70 Highlight 1 | వశీకరణ రాయిని తాకిన Kavya",
      "url": "https://www.youtube.com/watch?v=lgbtdwGYkgE"
     }
    ],
    "fit_note": "Adult status inferred from adult-cast supernatural serial; not explicitly stated."
-  },
-  {
-   "standalone": true,
-   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
-   "group": "Official channel episode additions (Oct 2026)",
-   "format": "tv",
-   "pregnant_end": "not stated",
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "title": "Ave Kallu",
-   "subtitle": "Ep. 33",
-   "year": "2023",
-   "meta": "TV serial · Star Maa · Telugu · India",
-   "mechanism": "Witch's control (vasham)",
-   "confidence_flag": "Medium · official clip description",
-   "summary": "Mohini takes control of Vaidehi to execute her plan and escape her curse.",
-   "character": "Vaidehi",
-   "categories": [
-    "india-control",
-    "evil-female",
-    "spirit"
-   ],
-   "sources": [
-    {
-     "label": "Star Maa (YouTube): Ave Kallu Ep-33 Highlights | మోహిని వైదేహిని తన వశం చేసుకుంది",
-     "url": "https://www.youtube.com/watch?v=DyeejOpkXtI"
-    }
-   ],
-   "fit_note": "Adult status inferred; not explicitly stated."
   },
   {
    "standalone": true,
@@ -486,7 +460,7 @@
    "married": "not stated",
    "title": "Saath Nibhaana Saathiya",
    "subtitle": "Full Ep. 783",
-   "year": "2010–2017",
+   "year": "2026 (YouTube upload; series 2010–2017)",
    "meta": "TV serial · StarPlus · Hindi · India",
    "mechanism": "Vash (control)",
    "confidence_flag": "Low-Medium · official episode title",
@@ -515,7 +489,7 @@
    "married": "not stated",
    "title": "Divya Drishti",
    "subtitle": "Episode 40",
-   "year": "2019–20",
+   "year": "2023 (YouTube upload; series 2019–20)",
    "meta": "TV serial · StarPlus · Hindi · India",
    "mechanism": "Under Pishachini's control",
    "confidence_flag": "Medium · official episode title",
@@ -606,7 +580,7 @@
    "married": "not stated",
    "title": "Fear Files",
    "subtitle": "Ep. 183",
-   "year": "2012–",
+   "year": "2014",
    "meta": "TV horror anthology · Zee TV · Hindi · India",
    "mechanism": "Black magic and vashikaran",
    "confidence_flag": "Low-Medium · official episode title",

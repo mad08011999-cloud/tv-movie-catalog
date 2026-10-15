@@ -8528,13 +8528,6 @@
      "subtitle": "",
      "year": "2019–20",
      "matched_by": "title+year"
-    },
-    {
-     "rid": "official-yt-oct15:18",
-     "title": "Divya Drishti",
-     "subtitle": "Episode 40",
-     "year": "2019–20",
-     "matched_by": "same title+year"
     }
    ]
   },
@@ -37165,13 +37158,6 @@
      "subtitle": "",
      "year": "2010–2017",
      "matched_by": "same title+year"
-    },
-    {
-     "rid": "official-yt-oct15:17",
-     "title": "Saath Nibhaana Saathiya",
-     "subtitle": "Full Ep. 783",
-     "year": "2010–2017",
-     "matched_by": "same title+year"
     }
    ]
   },
@@ -42717,44 +42703,6 @@
      "matched_by": "match_title"
     }
    ]
-  },
-  {
-   "kept_id": 2675,
-   "kept": "Fear Files (2012–)",
-   "scope": "cross-source",
-   "members": [
-    {
-     "rid": "indian-langs-oct14:3",
-     "title": "Fear Files",
-     "subtitle": "Episode 141",
-     "year": "2012–"
-    },
-    {
-     "rid": "official-yt-oct15:21",
-     "title": "Fear Files",
-     "subtitle": "Ep. 183",
-     "year": "2012–"
-    }
-   ]
-  },
-  {
-   "kept_id": 2898,
-   "kept": "Ave Kallu (2023)",
-   "scope": "within-source",
-   "members": [
-    {
-     "rid": "official-yt-oct15:14",
-     "title": "Ave Kallu",
-     "subtitle": "Ep. 70",
-     "year": "2023"
-    },
-    {
-     "rid": "official-yt-oct15:15",
-     "title": "Ave Kallu",
-     "subtitle": "Ep. 33",
-     "year": "2023"
-    }
-   ]
   }
  ],
  "same_title_year_merges": [
@@ -43393,12 +43341,6 @@
    "year": "2008",
    "kept_id": 1770,
    "retired_id": 2674
-  },
-  {
-   "title": "Divya Drishti",
-   "year": "2019–20",
-   "kept_id": 310,
-   "retired_id": 2900
   }
  ],
  "merge_rules": [
@@ -43509,11 +43451,11 @@
   "telugu-deep-oct15": 3,
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
-  "official-yt-oct15": 21
+  "official-yt-oct15": 20
  },
- "entry_count_after_dedupe": 2792,
- "within_source_groups": 4,
- "cross_source_groups": 1807,
+ "entry_count_after_dedupe": 2795,
+ "within_source_groups": 3,
+ "cross_source_groups": 1806,
  "index_only_records": 65,
- "local_only_records": 571
+ "local_only_records": 574
 }
