@@ -3893,6 +3893,19 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "official-yt-oct15",
+   "label": "Official channel episodes (15 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/official-yt-oct15.json",
+   "description": "Indian serial episodes from official YouTube channels",
+   "dropped": [],
+   "check": {
+    "raw_count": 7,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -3935,10 +3948,11 @@ window.CATALOG = {
   "fanwiki-screen-oct14": 199,
   "telugu-deep-oct15": 3,
   "new-angles-oct15": 4,
-  "recap-imdb-oct15": 2
+  "recap-imdb-oct15": 2,
+  "official-yt-oct15": 7
  },
- "raw_total": 5519,
- "entry_count": 2775,
+ "raw_total": 5526,
+ "entry_count": 2782,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -3968,7 +3982,7 @@ window.CATALOG = {
    "key": "index-62",
    "label": "Comedy",
    "legend_label": "Comedy",
-   "entry_count": 17
+   "entry_count": 20
   },
   {
    "key": "index-61",
@@ -4028,7 +4042,7 @@ window.CATALOG = {
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 148
+   "entry_count": 155
   },
   {
    "key": "hypnotized-to-marry",
@@ -4118,7 +4132,7 @@ window.CATALOG = {
    "key": "indian-female-hypnosis",
    "label": "Indian-language female hypnotized against her will",
    "legend_label": "Indian-language female hypnotized against her will",
-   "entry_count": 10
+   "entry_count": 15
   },
   {
    "key": "lesbian-couple-pregnancy",
@@ -4400,7 +4414,7 @@ window.CATALOG = {
    "key": "evil-female",
    "label": "Supernatural female control — India & Indonesia",
    "legend_label": "Supernatural female control — India & Indonesia",
-   "entry_count": 30
+   "entry_count": 31
   },
   {
    "key": "index-59",
@@ -4418,7 +4432,7 @@ window.CATALOG = {
    "key": "tantrik",
    "label": "Tantrik / black-magic control",
    "legend_label": "Tantrik / black-magic control",
-   "entry_count": 35
+   "entry_count": 37
   },
   {
    "key": "vampire",
@@ -422850,6 +422864,527 @@ window.CATALOG = {
      "married": "not stated"
     }
    }
+  },
+  {
+   "id": 2885,
+   "title": "Muddha Mandaram",
+   "subtitle": "Ep. 172",
+   "year": "2014–2019",
+   "meta": "TV serial · Zee Telugu · Telugu · India",
+   "mechanism": "Hypnosis during a puja",
+   "confidence_flag": "Medium · official episode title",
+   "summary": "Parvathi is hypnotised during a puja (official episode title: 'Parvathi hypnotised').",
+   "character": "Parvathi",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "indian-female-hypnosis",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Zee Telugu Classics (YouTube): పార్వతి హిప్నటైజ్ చేయబడింది | Muddha Mandaram | Ep. 172",
+     "url": "https://www.youtube.com/watch?v=i1aMF0uSJ_g"
+    }
+   ],
+   "youtube_ids": [
+    "i1aMF0uSJ_g"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/i1aMF0uSJ_g.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:1": {
+     "title": "Muddha Mandaram",
+     "subtitle": "Ep. 172",
+     "year": "2014–2019",
+     "format": "tv",
+     "meta": "TV serial · Zee Telugu · Telugu · India",
+     "mechanism": "Hypnosis during a puja",
+     "confidence_flag": "Medium · official episode title",
+     "summary": "Parvathi is hypnotised during a puja (official episode title: 'Parvathi hypnotised').",
+     "character": "Parvathi",
+     "categories": [
+      "indian-female-hypnosis",
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "Zee Telugu Classics (YouTube): పార్వతి హిప్నటైజ్ చేయబడింది | Muddha Mandaram | Ep. 172",
+       "url": "https://www.youtube.com/watch?v=i1aMF0uSJ_g"
+      }
+     ],
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated"
+    }
+   }
+  },
+  {
+   "id": 2886,
+   "title": "Muthyamantha Muddu",
+   "subtitle": "Full Episode 298",
+   "year": "not stated",
+   "meta": "TV serial · Zee Telugu · Telugu · India",
+   "mechanism": "Hypnosis attempt (to cure miserliness)",
+   "confidence_flag": "Low · attempt; outcome not stated in description",
+   "summary": "Govind tries to hypnotise Geetha to cure her miserliness.",
+   "character": "Geetha",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "indian-female-hypnosis",
+    "india-control",
+    "index-62"
+   ],
+   "sources": [
+    {
+     "label": "Zee Telugu Classics (YouTube): Govind tries to hypnotise Geetha | Muthyamantha Muddu | Full Episode 298",
+     "url": "https://www.youtube.com/watch?v=06UvzeN-fP4"
+    }
+   ],
+   "youtube_ids": [
+    "06UvzeN-fP4"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/06UvzeN-fP4.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:2": {
+     "title": "Muthyamantha Muddu",
+     "subtitle": "Full Episode 298",
+     "year": "not stated",
+     "format": "tv",
+     "meta": "TV serial · Zee Telugu · Telugu · India",
+     "mechanism": "Hypnosis attempt (to cure miserliness)",
+     "confidence_flag": "Low · attempt; outcome not stated in description",
+     "summary": "Govind tries to hypnotise Geetha to cure her miserliness.",
+     "character": "Geetha",
+     "categories": [
+      "indian-female-hypnosis",
+      "india-control",
+      "index-62"
+     ],
+     "sources": [
+      {
+       "label": "Zee Telugu Classics (YouTube): Govind tries to hypnotise Geetha | Muthyamantha Muddu | Full Episode 298",
+       "url": "https://www.youtube.com/watch?v=06UvzeN-fP4"
+      }
+     ],
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated"
+    }
+   }
+  },
+  {
+   "id": 2887,
+   "title": "Ave Kallu",
+   "subtitle": "Ep. 70",
+   "year": "2023",
+   "meta": "TV serial · Star Maa · Telugu · India",
+   "mechanism": "Vashikaran stone",
+   "confidence_flag": "Medium · official episode description",
+   "summary": "Kavya touches a vashikaran stone and falls under Mohini's control.",
+   "character": "Kavya",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "tantrik",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Star Maa (YouTube): Ave Kallu Ep 70",
+     "url": "https://www.youtube.com/watch?v=lgbtdwGYkgE"
+    }
+   ],
+   "youtube_ids": [
+    "lgbtdwGYkgE"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/lgbtdwGYkgE.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:3": {
+     "title": "Ave Kallu",
+     "subtitle": "Ep. 70",
+     "year": "2023",
+     "format": "tv",
+     "meta": "TV serial · Star Maa · Telugu · India",
+     "mechanism": "Vashikaran stone",
+     "confidence_flag": "Medium · official episode description",
+     "summary": "Kavya touches a vashikaran stone and falls under Mohini's control.",
+     "character": "Kavya",
+     "categories": [
+      "tantrik",
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "Star Maa (YouTube): Ave Kallu Ep 70",
+       "url": "https://www.youtube.com/watch?v=lgbtdwGYkgE"
+      }
+     ],
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated"
+    }
+   }
+  },
+  {
+   "id": 2888,
+   "title": "Neethane Enthan Ponvasantham",
+   "subtitle": "Ep 215",
+   "year": "2020–2022",
+   "meta": "TV serial · Zee Tamil · Tamil · India",
+   "mechanism": "Vasiya marundu (love/control potion) in payasam",
+   "confidence_flag": "Medium · official episode title",
+   "summary": "Leela is given 'vasiya marundu' mixed into payasam.",
+   "character": "Leela",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "tantrik",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "ZEE5 Tamil Classics (YouTube): Leela is given 'vasiya marundu' | Neethane Enthan Ponvasantham | Ep 215",
+     "url": "https://www.youtube.com/watch?v=cEbLiMbvs80"
+    }
+   ],
+   "youtube_ids": [
+    "cEbLiMbvs80"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/cEbLiMbvs80.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:4": {
+     "title": "Neethane Enthan Ponvasantham",
+     "subtitle": "Ep 215",
+     "year": "2020–2022",
+     "format": "tv",
+     "meta": "TV serial · Zee Tamil · Tamil · India",
+     "mechanism": "Vasiya marundu (love/control potion) in payasam",
+     "confidence_flag": "Medium · official episode title",
+     "summary": "Leela is given 'vasiya marundu' mixed into payasam.",
+     "character": "Leela",
+     "categories": [
+      "tantrik",
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "ZEE5 Tamil Classics (YouTube): Leela is given 'vasiya marundu' | Neethane Enthan Ponvasantham | Ep 215",
+       "url": "https://www.youtube.com/watch?v=cEbLiMbvs80"
+      }
+     ],
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated"
+    }
+   }
+  },
+  {
+   "id": 2889,
+   "title": "Sembaruthi",
+   "subtitle": "Full Ep 633",
+   "year": "2017–2022",
+   "meta": "TV serial · Zee Tamil · Tamil · India",
+   "mechanism": "Hypnosis",
+   "confidence_flag": "Medium · official episode description",
+   "summary": "Vanaja successfully hypnotises Mithra, then decides to hypnotise Akhila.",
+   "character": "Mithra; Akhila (planned)",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "indian-female-hypnosis",
+    "india-control",
+    "evil-female"
+   ],
+   "sources": [
+    {
+     "label": "Zee Tamil (YouTube): அகிலாவை hypnotize செய்ய வனஜா | Sembaruthi | Full Ep 633",
+     "url": "https://www.youtube.com/watch?v=mhwl2cb7Q_w"
+    }
+   ],
+   "youtube_ids": [
+    "mhwl2cb7Q_w"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/mhwl2cb7Q_w.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:5": {
+     "title": "Sembaruthi",
+     "subtitle": "Full Ep 633",
+     "year": "2017–2022",
+     "format": "tv",
+     "meta": "TV serial · Zee Tamil · Tamil · India",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "Medium · official episode description",
+     "summary": "Vanaja successfully hypnotises Mithra, then decides to hypnotise Akhila.",
+     "character": "Mithra; Akhila (planned)",
+     "categories": [
+      "indian-female-hypnosis",
+      "india-control",
+      "evil-female"
+     ],
+     "sources": [
+      {
+       "label": "Zee Tamil (YouTube): அகிலாவை hypnotize செய்ய வனஜா | Sembaruthi | Full Ep 633",
+       "url": "https://www.youtube.com/watch?v=mhwl2cb7Q_w"
+      }
+     ],
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated"
+    }
+   }
+  },
+  {
+   "id": 2890,
+   "title": "Khichdi",
+   "subtitle": "Season 3 Ep 4",
+   "year": "2018",
+   "meta": "TV sitcom · StarPlus · Hindi · India",
+   "mechanism": "Hypnosis (comic)",
+   "confidence_flag": "Medium · official episode title",
+   "summary": "Hansa gets hypnotised in a comic episode of the Parekh family sitcom.",
+   "character": "Hansa Parekh",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "indian-female-hypnosis",
+    "index-62",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "StarPlus (YouTube): Khichdi Season 3 Episode 4 part 1",
+     "url": "https://www.youtube.com/watch?v=m4j4GJIcMBg"
+    },
+    {
+     "label": "StarPlus (YouTube): Khichdi Season 3 Episode 4 part 2",
+     "url": "https://www.youtube.com/watch?v=nhoxPb5s8II"
+    }
+   ],
+   "youtube_ids": [
+    "m4j4GJIcMBg",
+    "nhoxPb5s8II"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/m4j4GJIcMBg.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:6": {
+     "title": "Khichdi",
+     "subtitle": "Season 3 Ep 4",
+     "year": "2018",
+     "format": "tv",
+     "meta": "TV sitcom · StarPlus · Hindi · India",
+     "mechanism": "Hypnosis (comic)",
+     "confidence_flag": "Medium · official episode title",
+     "summary": "Hansa gets hypnotised in a comic episode of the Parekh family sitcom.",
+     "character": "Hansa Parekh",
+     "categories": [
+      "indian-female-hypnosis",
+      "index-62",
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "StarPlus (YouTube): Khichdi Season 3 Episode 4 part 1",
+       "url": "https://www.youtube.com/watch?v=m4j4GJIcMBg"
+      },
+      {
+       "label": "StarPlus (YouTube): Khichdi Season 3 Episode 4 part 2",
+       "url": "https://www.youtube.com/watch?v=nhoxPb5s8II"
+      }
+     ],
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated"
+    }
+   }
+  },
+  {
+   "id": 2891,
+   "title": "Bhabi Ji Ghar Par Hai!",
+   "subtitle": "Episode 224 (7 Jan 2016)",
+   "year": "2016",
+   "meta": "TV sitcom · &TV · Hindi · India",
+   "mechanism": "Hypnosis (comic)",
+   "confidence_flag": "Low-Medium · official episode title only",
+   "summary": "Angoori is hypnotised (per official video title); description covers the okra rivalry plot.",
+   "character": "Angoori",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "indian-female-hypnosis",
+    "index-62",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "&TV (YouTube): Bhabi Ji Ghar Par Hai! Episode 224",
+     "url": "https://www.youtube.com/watch?v=Ns7LaxQyjig"
+    }
+   ],
+   "youtube_ids": [
+    "Ns7LaxQyjig"
+   ],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/Ns7LaxQyjig.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:7": {
+     "title": "Bhabi Ji Ghar Par Hai!",
+     "subtitle": "Episode 224 (7 Jan 2016)",
+     "year": "2016",
+     "format": "tv",
+     "meta": "TV sitcom · &TV · Hindi · India",
+     "mechanism": "Hypnosis (comic)",
+     "confidence_flag": "Low-Medium · official episode title only",
+     "summary": "Angoori is hypnotised (per official video title); description covers the okra rivalry plot.",
+     "character": "Angoori",
+     "categories": [
+      "indian-female-hypnosis",
+      "index-62",
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "&TV (YouTube): Bhabi Ji Ghar Par Hai! Episode 224",
+       "url": "https://www.youtube.com/watch?v=Ns7LaxQyjig"
+      }
+     ],
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated"
+    }
+   }
   }
  ],
  "sections": [
@@ -426736,13 +427271,15 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla",
     "indian-langs-oct14",
     "fanwiki-screen-oct14",
-    "new-angles-oct15"
+    "new-angles-oct15",
+    "official-yt-oct15"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 8,
     "indian-langs-oct14": null,
     "fanwiki-screen-oct14": null,
-    "new-angles-oct15": null
+    "new-angles-oct15": null,
+    "official-yt-oct15": null
    },
    "groups": [
     {
@@ -426833,6 +427370,25 @@ window.CATALOG = {
       }
      ],
      "from_source": "new-angles-oct15"
+    },
+    {
+     "title": "Official channel episode additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2891,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2890,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2886,
+       "from_source": "official-yt-oct15"
+      }
+     ],
+     "from_source": "official-yt-oct15"
     }
    ]
   },
@@ -431245,7 +431801,8 @@ window.CATALOG = {
     "hypno-sweep-oct9",
     "savdhaan-santham-oct9",
     "indian-langs-oct14",
-    "recap-imdb-oct15"
+    "recap-imdb-oct15",
+    "official-yt-oct15"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 57,
@@ -431261,7 +431818,8 @@ window.CATALOG = {
     "hypno-sweep-oct9": null,
     "savdhaan-santham-oct9": null,
     "indian-langs-oct14": null,
-    "recap-imdb-oct15": null
+    "recap-imdb-oct15": null,
+    "official-yt-oct15": null
    },
    "groups": [
     {
@@ -432362,6 +432920,41 @@ window.CATALOG = {
       }
      ],
      "from_source": "recap-imdb-oct15"
+    },
+    {
+     "title": "Official channel episode additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2887,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2891,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2890,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2885,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2886,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2888,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2889,
+       "from_source": "official-yt-oct15"
+      }
+     ],
+     "from_source": "official-yt-oct15"
     }
    ]
   },
@@ -441998,10 +442591,12 @@ window.CATALOG = {
    "description": "",
    "notes": [],
    "from_sources": [
-    "indian-langs-oct14"
+    "indian-langs-oct14",
+    "official-yt-oct15"
    ],
    "declared_count_by_source": {
-    "indian-langs-oct14": null
+    "indian-langs-oct14": null,
+    "official-yt-oct15": null
    },
    "groups": [
     {
@@ -442014,6 +442609,33 @@ window.CATALOG = {
       }
      ],
      "from_source": "indian-langs-oct14"
+    },
+    {
+     "title": "Official channel episode additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2891,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2890,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2885,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2886,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2889,
+       "from_source": "official-yt-oct15"
+      }
+     ],
+     "from_source": "official-yt-oct15"
     }
    ]
   },
@@ -461195,7 +461817,8 @@ window.CATALOG = {
     "india-catalog",
     "indian-langs-oct14",
     "fanwiki-screen-oct14",
-    "telugu-deep-oct15"
+    "telugu-deep-oct15",
+    "official-yt-oct15"
    ],
    "groups": [
     {
@@ -461539,6 +462162,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "telugu-deep-oct15"
+    },
+    {
+     "title": "Official channel episode additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2889,
+       "from_source": "official-yt-oct15"
+      }
+     ],
+     "from_source": "official-yt-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -461546,7 +462180,8 @@ window.CATALOG = {
     "india-catalog": null,
     "indian-langs-oct14": null,
     "fanwiki-screen-oct14": null,
-    "telugu-deep-oct15": null
+    "telugu-deep-oct15": null,
+    "official-yt-oct15": null
    }
   },
   {
@@ -461656,7 +462291,8 @@ window.CATALOG = {
     "hypno-leftovers",
     "hypnosis-assault",
     "hypnosis-assault-loose",
-    "recap-imdb-oct15"
+    "recap-imdb-oct15",
+    "official-yt-oct15"
    ],
    "groups": [
     {
@@ -462086,6 +462722,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "recap-imdb-oct15"
+    },
+    {
+     "title": "Official channel episode additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2887,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2888,
+       "from_source": "official-yt-oct15"
+      }
+     ],
+     "from_source": "official-yt-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -462095,7 +462746,8 @@ window.CATALOG = {
     "hypno-leftovers": null,
     "hypnosis-assault": null,
     "hypnosis-assault-loose": null,
-    "recap-imdb-oct15": null
+    "recap-imdb-oct15": null,
+    "official-yt-oct15": null
    }
   },
   {
