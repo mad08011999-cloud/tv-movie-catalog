@@ -3902,7 +3902,7 @@ window.CATALOG = {
    "description": "Indian serial episodes from official YouTube channels",
    "dropped": [],
    "check": {
-    "raw_count": 42,
+    "raw_count": 45,
     "ok": true
    },
    "status": "local"
@@ -3949,10 +3949,10 @@ window.CATALOG = {
   "telugu-deep-oct15": 3,
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
-  "official-yt-oct15": 42
+  "official-yt-oct15": 45
  },
- "raw_total": 5561,
- "entry_count": 2817,
+ "raw_total": 5564,
+ "entry_count": 2820,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -3970,7 +3970,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 251
+   "entry_count": 252
   },
   {
    "key": "walkin",
@@ -4024,7 +4024,7 @@ window.CATALOG = {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 255
+   "entry_count": 257
   },
   {
    "key": "child-controller",
@@ -4042,7 +4042,7 @@ window.CATALOG = {
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 188
+   "entry_count": 191
   },
   {
    "key": "hypnotized-to-marry",
@@ -4396,7 +4396,7 @@ window.CATALOG = {
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 142
+   "entry_count": 143
   },
   {
    "key": "stepmom-control",
@@ -4414,7 +4414,7 @@ window.CATALOG = {
    "key": "evil-female",
    "label": "Supernatural female control — India & Indonesia",
    "legend_label": "Supernatural female control — India & Indonesia",
-   "entry_count": 49
+   "entry_count": 50
   },
   {
    "key": "index-59",
@@ -426080,6 +426080,248 @@ window.CATALOG = {
      "fit_note": "Ages of Disha and Charu not stated. The series launched 3 Nov 2014 (IMDb); the arc's air date is not stated."
     }
    }
+  },
+  {
+   "id": 2927,
+   "title": "Gharwali Pedwali",
+   "subtitle": "Episode 81 – 'Maddy Hypnotises Latika' (6 Apr 2026)",
+   "year": "2025–26",
+   "meta": "TV sitcom · &TV / ZEE5 · Hindi · India",
+   "mechanism": "Yaksha's spell (hypnosis)",
+   "confidence_flag": "Medium · episode synopsis",
+   "summary": "Maddy (a Yaksha in disguise) hypnotises Ramesh and Suresh into attacking Rita and Geeta, then casts his spell on Latika too. In Ep. 82, Latika and Saavi discover Maddy's true identity.",
+   "character": "Latika",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "symbolic (Latika is a tree spirit who believes she is Jeetu's wife, per Wikipedia)",
+   "pregnant_end": "not stated",
+   "fit_note": "Latika is a female tree spirit presented as an adult wife figure.",
+   "format": "tv",
+   "categories": [
+    "india-control",
+    "spirit",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "Episode Hive: Gharwali Pedwali S1E81 'Maddy Hypnotises Latika'",
+     "url": "https://www.episodehive.com/tv-shows/gharwali-pedwali/all"
+    },
+    {
+     "label": "ZEE5: Gharwali Pedwali Ep 82 (follow-up)",
+     "url": "https://www.zee5.com/global/tv-shows/details/gharwali-pedwali/0-6-4z5841016/latika-and-saavi-discover-maddys-true-identity/0-1-6z5941832"
+    },
+    {
+     "label": "Wikipedia: Gharwali Pedwali",
+     "url": "https://en.wikipedia.org/wiki/Gharwali_Pedwali"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:43"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:43": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "symbolic (Latika is a tree spirit who believes she is Jeetu's wife, per Wikipedia)",
+     "title": "Gharwali Pedwali",
+     "subtitle": "Episode 81 – 'Maddy Hypnotises Latika' (6 Apr 2026)",
+     "year": "2025–26",
+     "meta": "TV sitcom · &TV / ZEE5 · Hindi · India",
+     "mechanism": "Yaksha's spell (hypnosis)",
+     "confidence_flag": "Medium · episode synopsis",
+     "summary": "Maddy (a Yaksha in disguise) hypnotises Ramesh and Suresh into attacking Rita and Geeta, then casts his spell on Latika too. In Ep. 82, Latika and Saavi discover Maddy's true identity.",
+     "character": "Latika",
+     "categories": [
+      "india-control",
+      "spirit",
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "Episode Hive: Gharwali Pedwali S1E81 'Maddy Hypnotises Latika'",
+       "url": "https://www.episodehive.com/tv-shows/gharwali-pedwali/all"
+      },
+      {
+       "label": "ZEE5: Gharwali Pedwali Ep 82 (follow-up)",
+       "url": "https://www.zee5.com/global/tv-shows/details/gharwali-pedwali/0-6-4z5841016/latika-and-saavi-discover-maddys-true-identity/0-1-6z5941832"
+      },
+      {
+       "label": "Wikipedia: Gharwali Pedwali",
+       "url": "https://en.wikipedia.org/wiki/Gharwali_Pedwali"
+      }
+     ],
+     "fit_note": "Latika is a female tree spirit presented as an adult wife figure."
+    }
+   }
+  },
+  {
+   "id": 2928,
+   "title": "Hero – Gayab Mode On — E190 “The Professor In Disguise”",
+   "subtitle": "E190",
+   "year": "2020",
+   "meta": "TV serial · Sony SAB · Hindi · India",
+   "mechanism": "Hypnosis (memory wipe)",
+   "confidence_flag": "Medium · platform episode synopsis",
+   "summary": "Meethi learns Yakshika's truth and is attacked, but Yakshika hypnotizes her and makes her forget everything.",
+   "character": "Meethi",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Meethi's age not stated.",
+   "format": "tv",
+   "categories": [
+    "india-control",
+    "evil-female",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "Sony LIV: Hero: Gayab Mode On E190 'The Professor In Disguise'",
+     "url": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/the-professor-in-disguise-1000133496"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:44"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:44": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Hero – Gayab Mode On — E190 “The Professor In Disguise”",
+     "subtitle": "E190",
+     "year": "2020",
+     "meta": "TV serial · Sony SAB · Hindi · India",
+     "mechanism": "Hypnosis (memory wipe)",
+     "confidence_flag": "Medium · platform episode synopsis",
+     "summary": "Meethi learns Yakshika's truth and is attacked, but Yakshika hypnotizes her and makes her forget everything.",
+     "character": "Meethi",
+     "categories": [
+      "india-control",
+      "evil-female",
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "Sony LIV: Hero: Gayab Mode On E190 'The Professor In Disguise'",
+       "url": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/the-professor-in-disguise-1000133496"
+      }
+     ],
+     "fit_note": "Meethi's age not stated."
+    }
+   }
+  },
+  {
+   "id": 2929,
+   "title": "Five Star Thattukada",
+   "subtitle": "Episode 'Kalyani is Hypnotised'",
+   "year": "2016–",
+   "meta": "TV sitcom · Asianet Plus / JioHotstar · Malayalam · India",
+   "mechanism": "Hypnosis (comic)",
+   "confidence_flag": "Low · platform episode title only",
+   "summary": "An episode titled 'Kalyani is Hypnotised'. Kalyani is an adult character; other episode titles include 'Meet Dr. Kalyani'.",
+   "character": "Kalyani",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "adult-hypnosis",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "JioHotstar: Five Star Thattukada – Kalyani is Hypnotised",
+     "url": "https://www.hotstar.com/in/shows/five-star-thattukada/8410/kalyani-is-hypnotised/1000161444/watch"
+    },
+    {
+     "label": "nettv4u: 5 Star Thattukada synopsis",
+     "url": "https://nettv4u.com/about/malayalam/tv-shows/5-star-thattukada"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:45"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:45": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Five Star Thattukada",
+     "subtitle": "Episode 'Kalyani is Hypnotised'",
+     "year": "2016–",
+     "meta": "TV sitcom · Asianet Plus / JioHotstar · Malayalam · India",
+     "mechanism": "Hypnosis (comic)",
+     "confidence_flag": "Low · platform episode title only",
+     "summary": "An episode titled 'Kalyani is Hypnotised'. Kalyani is an adult character; other episode titles include 'Meet Dr. Kalyani'.",
+     "character": "Kalyani",
+     "categories": [
+      "adult-hypnosis",
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "JioHotstar: Five Star Thattukada – Kalyani is Hypnotised",
+       "url": "https://www.hotstar.com/in/shows/five-star-thattukada/8410/kalyani-is-hypnotised/1000161444/watch"
+      },
+      {
+       "label": "nettv4u: 5 Star Thattukada synopsis",
+       "url": "https://nettv4u.com/about/malayalam/tv-shows/5-star-thattukada"
+      }
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -429478,6 +429720,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 2926,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2929,
        "from_source": "official-yt-oct15"
       },
       {
@@ -433642,6 +433888,14 @@ window.CATALOG = {
        "from_source": "official-yt-oct15"
       },
       {
+       "id": 2927,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2928,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2894,
        "from_source": "official-yt-oct15"
       },
@@ -435716,6 +435970,18 @@ window.CATALOG = {
       },
       {
        "id": 2904,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2929,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2927,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2928,
        "from_source": "official-yt-oct15"
       },
       {
@@ -464659,6 +464925,10 @@ window.CATALOG = {
        "from_source": "official-yt-oct15"
       },
       {
+       "id": 2927,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2917,
        "from_source": "official-yt-oct15"
       },
@@ -465210,6 +465480,10 @@ window.CATALOG = {
       },
       {
        "id": 2904,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2928,
        "from_source": "official-yt-oct15"
       },
       {

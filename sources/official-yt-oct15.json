@@ -1279,6 +1279,106 @@
     }
    ],
    "fit_note": "Ages of Disha and Charu not stated. The series launched 3 Nov 2014 (IMDb); the arc's air date is not stated."
+  },
+  {
+   "standalone": true,
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "group": "Official channel episode additions (Oct 2026)",
+   "format": "tv",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "symbolic (Latika is a tree spirit who believes she is Jeetu's wife, per Wikipedia)",
+   "title": "Gharwali Pedwali",
+   "subtitle": "Episode 81 – 'Maddy Hypnotises Latika' (6 Apr 2026)",
+   "year": "2025–26",
+   "meta": "TV sitcom · &TV / ZEE5 · Hindi · India",
+   "mechanism": "Yaksha's spell (hypnosis)",
+   "confidence_flag": "Medium · episode synopsis",
+   "summary": "Maddy (a Yaksha in disguise) hypnotises Ramesh and Suresh into attacking Rita and Geeta, then casts his spell on Latika too. In Ep. 82, Latika and Saavi discover Maddy's true identity.",
+   "character": "Latika",
+   "categories": [
+    "india-control",
+    "spirit",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "Episode Hive: Gharwali Pedwali S1E81 'Maddy Hypnotises Latika'",
+     "url": "https://www.episodehive.com/tv-shows/gharwali-pedwali/all"
+    },
+    {
+     "label": "ZEE5: Gharwali Pedwali Ep 82 (follow-up)",
+     "url": "https://www.zee5.com/global/tv-shows/details/gharwali-pedwali/0-6-4z5841016/latika-and-saavi-discover-maddys-true-identity/0-1-6z5941832"
+    },
+    {
+     "label": "Wikipedia: Gharwali Pedwali",
+     "url": "https://en.wikipedia.org/wiki/Gharwali_Pedwali"
+    }
+   ],
+   "fit_note": "Latika is a female tree spirit presented as an adult wife figure."
+  },
+  {
+   "standalone": true,
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "group": "Official channel episode additions (Oct 2026)",
+   "format": "tv",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "title": "Hero – Gayab Mode On — E190 “The Professor In Disguise”",
+   "subtitle": "E190",
+   "year": "2020",
+   "meta": "TV serial · Sony SAB · Hindi · India",
+   "mechanism": "Hypnosis (memory wipe)",
+   "confidence_flag": "Medium · platform episode synopsis",
+   "summary": "Meethi learns Yakshika's truth and is attacked, but Yakshika hypnotizes her and makes her forget everything.",
+   "character": "Meethi",
+   "categories": [
+    "india-control",
+    "evil-female",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "Sony LIV: Hero: Gayab Mode On E190 'The Professor In Disguise'",
+     "url": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/the-professor-in-disguise-1000133496"
+    }
+   ],
+   "fit_note": "Meethi's age not stated."
+  },
+  {
+   "standalone": true,
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "group": "Official channel episode additions (Oct 2026)",
+   "format": "tv",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "title": "Five Star Thattukada",
+   "subtitle": "Episode 'Kalyani is Hypnotised'",
+   "year": "2016–",
+   "meta": "TV sitcom · Asianet Plus / JioHotstar · Malayalam · India",
+   "mechanism": "Hypnosis (comic)",
+   "confidence_flag": "Low · platform episode title only",
+   "summary": "An episode titled 'Kalyani is Hypnotised'. Kalyani is an adult character; other episode titles include 'Meet Dr. Kalyani'.",
+   "character": "Kalyani",
+   "categories": [
+    "adult-hypnosis",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "JioHotstar: Five Star Thattukada – Kalyani is Hypnotised",
+     "url": "https://www.hotstar.com/in/shows/five-star-thattukada/8410/kalyani-is-hypnotised/1000161444/watch"
+    },
+    {
+     "label": "nettv4u: 5 Star Thattukada synopsis",
+     "url": "https://nettv4u.com/about/malayalam/tv-shows/5-star-thattukada"
+    }
+   ]
   }
  ],
  "dropped": []
