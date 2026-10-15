@@ -3908,7 +3908,7 @@
     }
    ],
    "check": {
-    "raw_count": 10,
+    "raw_count": 12,
     "ok": true
    },
    "status": "local"
@@ -3955,10 +3955,10 @@
   "telugu-deep-oct15": 3,
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
-  "official-yt-oct15": 10
+  "official-yt-oct15": 12
  },
- "raw_total": 5529,
- "entry_count": 2785,
+ "raw_total": 5531,
+ "entry_count": 2787,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4030,7 +4030,7 @@
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 249
+   "entry_count": 250
   },
   {
    "key": "child-controller",
@@ -4048,7 +4048,7 @@
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 158
+   "entry_count": 160
   },
   {
    "key": "hypnotized-to-marry",
@@ -4120,7 +4120,7 @@
    "key": "royal-hypnosis",
    "label": "Hypnotized queen/princess for marriage or the throne",
    "legend_label": "Hypnotized queen / princess",
-   "entry_count": 46
+   "entry_count": 47
   },
   {
    "key": "love",
@@ -4138,7 +4138,7 @@
    "key": "indian-female-hypnosis",
    "label": "Indian-language female hypnotized against her will",
    "legend_label": "Indian-language female hypnotized against her will",
-   "entry_count": 16
+   "entry_count": 17
   },
   {
    "key": "lesbian-couple-pregnancy",
@@ -4438,7 +4438,7 @@
    "key": "tantrik",
    "label": "Tantrik / black-magic control",
    "legend_label": "Tantrik / black-magic control",
-   "entry_count": 38
+   "entry_count": 39
   },
   {
    "key": "vampire",
@@ -423611,6 +423611,158 @@
      ]
     }
    }
+  },
+  {
+   "id": 2895,
+   "title": "Jag Janani Maa Vaishno Devi",
+   "subtitle": "S01E143 (16 Mar 2020)",
+   "year": "2020",
+   "meta": "TV serial · Star Bharat · Hindi · India",
+   "mechanism": "Hypnosis by occult sage",
+   "confidence_flag": "Medium · platform episode synopsis",
+   "summary": "As Samriddhi acts, Bhairavnath hypnotises Bhakti (played by adult actress Neha Bam per Wikipedia cast list).",
+   "character": "Bhakti",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "indian-female-hypnosis",
+    "india-control",
+    "tantrik"
+   ],
+   "sources": [
+    {
+     "label": "JioCinema USA (Star Bharat listing): Jag Janani Maa Vaishno Devi S01E143 Bhairavnath Hypnotises Bhakti",
+     "url": "https://www.jiocinemaus.com/episode/jag-janani-maa-vaishno-devi-s01e143-bhairavnath-hypnotises-bhakti-full-episode/"
+    },
+    {
+     "label": "JioHotstar: Bhairavnath Hypnotises Bhakti",
+     "url": "https://www.hotstar.com/in/tv/maa-vaishnodevi/s-2353/bhairavnath-hypnotises-bhakti/1000248995"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:11"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:11": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Jag Janani Maa Vaishno Devi",
+     "subtitle": "S01E143 (16 Mar 2020)",
+     "year": "2020",
+     "meta": "TV serial · Star Bharat · Hindi · India",
+     "mechanism": "Hypnosis by occult sage",
+     "confidence_flag": "Medium · platform episode synopsis",
+     "summary": "As Samriddhi acts, Bhairavnath hypnotises Bhakti (played by adult actress Neha Bam per Wikipedia cast list).",
+     "character": "Bhakti",
+     "categories": [
+      "indian-female-hypnosis",
+      "india-control",
+      "tantrik"
+     ],
+     "sources": [
+      {
+       "label": "JioCinema USA (Star Bharat listing): Jag Janani Maa Vaishno Devi S01E143 Bhairavnath Hypnotises Bhakti",
+       "url": "https://www.jiocinemaus.com/episode/jag-janani-maa-vaishno-devi-s01e143-bhairavnath-hypnotises-bhakti-full-episode/"
+      },
+      {
+       "label": "JioHotstar: Bhairavnath Hypnotises Bhakti",
+       "url": "https://www.hotstar.com/in/tv/maa-vaishnodevi/s-2353/bhairavnath-hypnotises-bhakti/1000248995"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2896,
+   "title": "Roopkatha",
+   "subtitle": "S01E203 (4 Dec 2017)",
+   "year": "2017",
+   "meta": "TV serial · Colors Bangla · Bengali · India",
+   "mechanism": "Hypnotic enslavement by a king",
+   "confidence_flag": "Medium · platform episode synopsis",
+   "summary": "King Bhadra hypnotises Agni and Bhumi so they are completely committed to his reign; Mohini plans to exploit their enslavement.",
+   "character": "Bhumi (with Agni)",
+   "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "royal-hypnosis",
+    "india-control",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "JioCinema USA (Colors Bangla listing): Roopkatha S01E203 - Agni and Bhumi are hypnotised!",
+     "url": "https://www.jiocinemaus.com/episode/roopkatha-s01e203-4th-december-2017-full-episode/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "official-yt-oct15"
+   ],
+   "source_records": [
+    "official-yt-oct15:12"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "official-yt-oct15:12": {
+     "standalone": true,
+     "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
+     "group": "Official channel episode additions (Oct 2026)",
+     "format": "tv",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "title": "Roopkatha",
+     "subtitle": "S01E203 (4 Dec 2017)",
+     "year": "2017",
+     "meta": "TV serial · Colors Bangla · Bengali · India",
+     "mechanism": "Hypnotic enslavement by a king",
+     "confidence_flag": "Medium · platform episode synopsis",
+     "summary": "King Bhadra hypnotises Agni and Bhumi so they are completely committed to his reign; Mohini plans to exploit their enslavement.",
+     "character": "Bhumi (with Agni)",
+     "categories": [
+      "royal-hypnosis",
+      "india-control",
+      "fantasy"
+     ],
+     "sources": [
+      {
+       "label": "JioCinema USA (Colors Bangla listing): Roopkatha S01E203 - Agni and Bhumi are hypnotised!",
+       "url": "https://www.jiocinemaus.com/episode/roopkatha-s01e203-4th-december-2017-full-episode/"
+      }
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -431150,6 +431302,10 @@
       {
        "id": 2894,
        "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2896,
+       "from_source": "official-yt-oct15"
       }
      ],
      "from_source": "official-yt-oct15"
@@ -433169,6 +433325,10 @@
        "from_source": "official-yt-oct15"
       },
       {
+       "id": 2895,
+       "from_source": "official-yt-oct15"
+      },
+      {
        "id": 2889,
        "from_source": "official-yt-oct15"
       },
@@ -433198,6 +433358,10 @@
       },
       {
        "id": 2891,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2896,
        "from_source": "official-yt-oct15"
       },
       {
@@ -440381,7 +440545,8 @@
     "xla62ucxbx02u5",
     "royal-hypnosis",
     "royal-hypnosis-loose",
-    "new-angles-oct15"
+    "new-angles-oct15",
+    "official-yt-oct15"
    ],
    "groups": [
     {
@@ -440612,12 +440777,24 @@
       }
      ],
      "from_source": "new-angles-oct15"
+    },
+    {
+     "title": "Official channel episode additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2896,
+       "from_source": "official-yt-oct15"
+      }
+     ],
+     "from_source": "official-yt-oct15"
     }
    ],
    "declared_count_by_source": {
     "royal-hypnosis": null,
     "royal-hypnosis-loose": null,
-    "new-angles-oct15": null
+    "new-angles-oct15": null,
+    "official-yt-oct15": null
    }
   },
   {
@@ -442867,6 +443044,10 @@
      "items": [
       {
        "id": 2890,
+       "from_source": "official-yt-oct15"
+      },
+      {
+       "id": 2895,
        "from_source": "official-yt-oct15"
       },
       {
@@ -463008,6 +463189,10 @@
      "title": "Official channel episode additions (Oct 2026)",
      "notes": [],
      "items": [
+      {
+       "id": 2895,
+       "from_source": "official-yt-oct15"
+      },
       {
        "id": 2894,
        "from_source": "official-yt-oct15"
