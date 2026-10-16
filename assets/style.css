@@ -265,3 +265,6 @@ details.merged .clinks a{font-size:.7rem}
 /* older-man hypnosis research: cross-check lines */
 .entry-note.evidence.single strong{color:#b45309}
 .entry-note.conflict strong{color:#b91c1c}
+#labelToggle{height:44px;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:8px;padding:0 13px;cursor:pointer}
+#labelToggle[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.content-label{margin:0 0 6px;padding:4px 8px;border:2px solid #b3261e;border-radius:6px;color:#b3261e;font-size:.85em;display:inline-block}

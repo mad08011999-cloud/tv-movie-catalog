@@ -146,6 +146,8 @@ SOURCES = [
      "local": "sources/youtube-sweep-oct15.json", "required": False},
     {"id": "gap-check-vertical-oct15", "label": "Gap-check: vertical series / microdramas (15 Oct 2026)",
      "local": "sources/gap-check-vertical-oct15.json", "required": False},
+    {"id": "adult-fanmade-oct15", "label": "Hardcore / adult and fan-made / roleplay listings (15 Oct 2026)",
+     "local": "sources/adult-fanmade-oct15.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -591,7 +593,8 @@ def parse_local(src, payload, known_labels):
         for f in OPTIONAL_FIELDS:      # e.g. pregnancy outcome; only local sources carry these
             if x.get(f):
                 r[f] = x[f]
-        for s_ in r["sources"]:
+        for s_ in ([] if x.get("no_media") else r["sources"]):   # no_media: text-only card, no thumbnail
+
             mm = YT.search(s_["url"])
             if mm and mm.group(1) not in r["youtube_ids"]:
                 r["youtube_ids"].append(mm.group(1))
@@ -769,7 +772,7 @@ OPTIONAL_FIELDS = ("pregnancy_outcome", "pregnancy_note", "pregnancy_highlight",
                    "kids_together", "kids_together_note", "married", "married_note", "pregnant_end",
                    "pregnant_end_note", "evidence", "source_conflict", "fit_note", "child_witness",
                    "rating", "adult", "existing_kids", "pregnancy_again", "pregnancy_again_note",
-                   "already_married", "already_married_note")
+                   "already_married", "already_married_note", "content_label")
 # list-valued optional fields are unioned across all merged copies (in primary-first, source order)
 UNION_FIELDS = ("episodes", "tags")
 

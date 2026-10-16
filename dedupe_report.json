@@ -39131,6 +39131,13 @@
      "subtitle": "",
      "year": "1971",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "adult-fanmade-oct15:3",
+     "title": "She Did What He Wanted",
+     "subtitle": "",
+     "year": "1971",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -46248,11 +46255,12 @@
   "belly-kissed-kids": 2,
   "female-wife-scenes-oct15": 4,
   "youtube-sweep-oct15": 5,
-  "gap-check-vertical-oct15": 5
+  "gap-check-vertical-oct15": 5,
+  "adult-fanmade-oct15": 3
  },
- "entry_count_after_dedupe": 2894,
+ "entry_count_after_dedupe": 2896,
  "within_source_groups": 3,
  "cross_source_groups": 1893,
  "index_only_records": 61,
- "local_only_records": 673
+ "local_only_records": 675
 }

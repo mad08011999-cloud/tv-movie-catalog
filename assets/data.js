@@ -4406,6 +4406,40 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "adult-fanmade-oct15",
+   "label": "Hardcore / adult and fan-made / roleplay listings (15 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/adult-fanmade-oct15.json",
+   "description": "Text-only listings requested by the user: hardcore / adult films and fan-made / roleplay clips with female hypnosis. Adults only (hard rule); no media downloaded and no thumbnails. These cards carry a visible content label and are hidden from the default view unless 'Show hardcore / fan-made' is on or their category is selected.",
+   "dropped": [
+    {
+     "title": "Fan-made / roleplay channels: memoman29, Hypnotic Finale",
+     "reason": "performers' ages cannot be verified from metadata (titles include 'Stepmom', 'Mom's friend', 'Viral challenge'); possibly AI-generated; adults-only rule"
+    },
+    {
+     "title": "Blissful, RikkaCD917, Cinema Hypno",
+     "reason": "not fan productions: compilations of unnamed clips from professional films/TV; source titles and ages unverifiable"
+    },
+    {
+     "title": "hypnolatino 'Hipnotizada 04'",
+     "reason": "clip from George of the Jungle 2 (2003), already in catalog (card 1274), not fan-made"
+    },
+    {
+     "title": "Phantasm Phoebe",
+     "reason": "AI-generated (stated in description)"
+    },
+    {
+     "title": "Uya Kuya TV",
+     "reason": "stage/reality hypnosis of real people"
+    }
+   ],
+   "check": {
+    "raw_count": 3,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -4460,10 +4494,11 @@ window.CATALOG = {
   "belly-kissed-kids": 2,
   "female-wife-scenes-oct15": 4,
   "youtube-sweep-oct15": 5,
-  "gap-check-vertical-oct15": 5
+  "gap-check-vertical-oct15": 5,
+  "adult-fanmade-oct15": 3
  },
- "raw_total": 5854,
- "entry_count": 2894,
+ "raw_total": 5857,
+ "entry_count": 2896,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4481,7 +4516,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 269
+   "entry_count": 271
   },
   {
    "key": "walkin",
@@ -4574,6 +4609,12 @@ window.CATALOG = {
    "entry_count": 0
   },
   {
+   "key": "hardcore-adult",
+   "label": "Hardcore / adult",
+   "legend_label": "Hardcore / adult",
+   "entry_count": 3
+  },
+  {
    "key": "index-58",
    "label": "High-risk pregnancy / medical drama",
    "legend_label": "High-risk pregnancy / medical drama",
@@ -4631,13 +4672,13 @@ window.CATALOG = {
    "key": "love",
    "label": "Hypnotized to love",
    "legend_label": "Hypnotized to love",
-   "entry_count": 207
+   "entry_count": 208
   },
   {
    "key": "hypno-intimacy",
    "label": "Hypnotized woman intimate with the hypnotist or the man he directs",
    "legend_label": "Hypnotized into intimacy",
-   "entry_count": 37
+   "entry_count": 39
   },
   {
    "key": "indian-female-hypnosis",
@@ -4661,7 +4702,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 148
+   "entry_count": 149
   },
   {
    "key": "mom-partner-control",
@@ -328202,13 +328243,17 @@ window.CATALOG = {
    "pregnant_end": "unknown",
    "evidence": "2 independent sources (TMDB, IMDb)",
    "fit_note": "Directed by William Rotsler.",
+   "rating": "X (hardcore)",
+   "adult": "yes",
+   "content_label": "Hardcore / adult",
    "format": "movie",
    "categories": [
     "hypno-intimacy",
     "adult-hypnosis",
     "forced-obedience",
     "love",
-    "polygamy-hypnosis"
+    "polygamy-hypnosis",
+    "hardcore-adult"
    ],
    "sources": [
     {
@@ -328218,16 +328263,22 @@ window.CATALOG = {
     {
      "label": "IMDb",
      "url": "https://www.imdb.com/title/tt0128482/"
+    },
+    {
+     "label": "Letterboxd",
+     "url": "https://letterboxd.com/film/she-did-what-he-wanted/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "hypnosis-assault"
+    "hypnosis-assault",
+    "adult-fanmade-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1769",
-    "hypnosis-assault:31"
+    "hypnosis-assault:31",
+    "adult-fanmade-oct15:3"
    ],
    "index_only": false,
    "local_only": false,
@@ -328308,6 +328359,37 @@ window.CATALOG = {
      "fit_note": "Directed by William Rotsler.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "adult-fanmade-oct15:3",
+     "source": "adult-fanmade-oct15",
+     "label": "She Did What He Wanted (1971)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "She Did What He Wanted",
+     "subtitle": "",
+     "year": "1971",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "Labelled Hardcore / adult: Letterboxd describes it as explicitly hardcore.",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "hardcore-adult"
+     ],
+     "sources": [
+      {
+       "label": "Letterboxd",
+       "url": "https://letterboxd.com/film/she-did-what-he-wanted/"
+      }
+     ],
+     "rating": "X (hardcore)",
+     "adult": "yes",
+     "content_label": "Hardcore / adult",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -328396,6 +328478,29 @@ window.CATALOG = {
      "provenance": "Hypnosis-assault research pass, 30 Sep 2026 (adult women only; minors/teen characters excluded; non-graphic wording; each record cross-checked where possible)",
      "group": "Hypnotized woman sexually assaulted under hypnosis (Sep 2026)",
      "catalog_ids": []
+    },
+    "adult-fanmade-oct15:3": {
+     "format": "movie",
+     "no_media": true,
+     "adult": "yes",
+     "rating": "X (hardcore)",
+     "content_label": "Hardcore / adult",
+     "group": "Hardcore / adult listings (text only)",
+     "provenance": "Hardcore / adult listing, 15 Oct 2026 PT — text only, no media downloaded; adult performers only",
+     "title": "She Did What He Wanted",
+     "match_title": "She Did What He Wanted",
+     "match_year": "1971",
+     "year": "1971",
+     "categories": [
+      "hardcore-adult"
+     ],
+     "sources": [
+      {
+       "label": "Letterboxd",
+       "url": "https://letterboxd.com/film/she-did-what-he-wanted/"
+      }
+     ],
+     "note": "Labelled Hardcore / adult: Letterboxd describes it as explicitly hardcore."
     }
    }
   },
@@ -447178,6 +447283,201 @@ window.CATALOG = {
      "adult": "no"
     }
    }
+  },
+  {
+   "id": 3029,
+   "title": "A Place Beyond Shame",
+   "subtitle": "",
+   "year": "1980",
+   "meta": "Hardcore / adult · USA · English · dir. Fred J. Lincoln & Sharon Mitchell · rated X",
+   "mechanism": "Therapeutic hypnosis by psychiatrist Michael",
+   "confidence_flag": "",
+   "summary": "Seka finds she has lost her sex drive and cannot bear a man touching her. Her psychiatrist Michael (Paul Thomas) hypnotises her so she can reconnect with her sexuality; under hypnosis she relives a series of sexual fantasies.",
+   "character": "Seka (Seka); Dr. Michael (Paul Thomas)",
+   "provenance": "Hardcore / adult listing, 15 Oct 2026 PT — text only, no media downloaded; adult performers only",
+   "note": "Cast list includes a 'Young Seka' flashback role; the hypnotised character is the adult Seka. Text-only listing.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "No pregnancy in the summaries.",
+   "kids_status": "no",
+   "kids_note": "No children mentioned.",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "TMDB + Blu-ray.com + Letterboxd agree",
+   "rating": "X (hardcore)",
+   "adult": "yes",
+   "content_label": "Hardcore / adult",
+   "format": "movie",
+   "categories": [
+    "hardcore-adult",
+    "adult-hypnosis",
+    "medical",
+    "hypno-intimacy"
+   ],
+   "sources": [
+    {
+     "label": "TMDB",
+     "url": "https://www.themoviedb.org/movie/460261-a-place-beyond-shame"
+    },
+    {
+     "label": "Blu-ray.com",
+     "url": "https://www.blu-ray.com/A-Place-Beyond-Shame/644752/"
+    },
+    {
+     "label": "Letterboxd (reviews describe the hypnosis framing)",
+     "url": "https://letterboxd.com/film/a-place-beyond-shame/"
+    },
+    {
+     "label": "YouTube lead (fan upload of the hypnosis scene)",
+     "url": "https://www.youtube.com/watch?v=gHyCJDyxwGM"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "adult-fanmade-oct15"
+   ],
+   "source_records": [
+    "adult-fanmade-oct15:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "adult-fanmade-oct15:1": {
+     "format": "movie",
+     "no_media": true,
+     "adult": "yes",
+     "rating": "X (hardcore)",
+     "content_label": "Hardcore / adult",
+     "group": "Hardcore / adult listings (text only)",
+     "provenance": "Hardcore / adult listing, 15 Oct 2026 PT — text only, no media downloaded; adult performers only",
+     "title": "A Place Beyond Shame",
+     "year": "1980",
+     "meta": "Hardcore / adult · USA · English · dir. Fred J. Lincoln & Sharon Mitchell · rated X",
+     "mechanism": "Therapeutic hypnosis by psychiatrist Michael",
+     "summary": "Seka finds she has lost her sex drive and cannot bear a man touching her. Her psychiatrist Michael (Paul Thomas) hypnotises her so she can reconnect with her sexuality; under hypnosis she relives a series of sexual fantasies.",
+     "character": "Seka (Seka); Dr. Michael (Paul Thomas)",
+     "categories": [
+      "hardcore-adult",
+      "adult-hypnosis",
+      "medical",
+      "hypno-intimacy"
+     ],
+     "sources": [
+      {
+       "label": "TMDB",
+       "url": "https://www.themoviedb.org/movie/460261-a-place-beyond-shame"
+      },
+      {
+       "label": "Blu-ray.com",
+       "url": "https://www.blu-ray.com/A-Place-Beyond-Shame/644752/"
+      },
+      {
+       "label": "Letterboxd (reviews describe the hypnosis framing)",
+       "url": "https://letterboxd.com/film/a-place-beyond-shame/"
+      },
+      {
+       "label": "YouTube lead (fan upload of the hypnosis scene)",
+       "url": "https://www.youtube.com/watch?v=gHyCJDyxwGM"
+      }
+     ],
+     "pregnant_end": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy in the summaries.",
+     "kids_together": "no",
+     "kids_status": "no",
+     "kids_note": "No children mentioned.",
+     "evidence": "TMDB + Blu-ray.com + Letterboxd agree",
+     "note": "Cast list includes a 'Young Seka' flashback role; the hypnotised character is the adult Seka. Text-only listing."
+    }
+   }
+  },
+  {
+   "id": 3030,
+   "title": "Hypnotized",
+   "subtitle": "aka Hypnoerotica",
+   "year": "1973",
+   "meta": "Hardcore / adult · USA · English · dir. Peter Savage (as Armand Peters)",
+   "mechanism": "Hypnosis by the narrator-doctor Laurence Thurston",
+   "confidence_flag": "",
+   "summary": "A framing story in which Dr. Laurence Thurston talks about hypnosis with patients. One woman (Andrea True) is hypnotised; walking through Times Square she meets a man (Jamie Gillis), falls for him instantly and will do anything he asks, and they have sex.",
+   "character": "Hypnotised woman (Andrea True); Jamie Gillis; Dr. Thurston (Peter Savage)",
+   "provenance": "Hardcore / adult listing, 15 Oct 2026 PT — text only, no media downloaded; adult performers only",
+   "note": "loose fit: single source; the review describes her as hypnotised before the encounter.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "Not mentioned.",
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "single review source",
+   "rating": "X (hardcore)",
+   "adult": "yes",
+   "content_label": "Hardcore / adult",
+   "format": "movie",
+   "categories": [
+    "hardcore-adult",
+    "adult-hypnosis",
+    "love",
+    "hypno-intimacy"
+   ],
+   "sources": [
+    {
+     "label": "Rock! Shock! Pop! review (Alpha Blue Archives release)",
+     "url": "https://rockshockpop.com/articles/movies-aa/380718-hypnotized-plus-the-lost-films-of-tina-russell"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "adult-fanmade-oct15"
+   ],
+   "source_records": [
+    "adult-fanmade-oct15:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "adult-fanmade-oct15:2": {
+     "format": "movie",
+     "no_media": true,
+     "adult": "yes",
+     "rating": "X (hardcore)",
+     "content_label": "Hardcore / adult",
+     "group": "Hardcore / adult listings (text only)",
+     "provenance": "Hardcore / adult listing, 15 Oct 2026 PT — text only, no media downloaded; adult performers only",
+     "title": "Hypnotized",
+     "subtitle": "aka Hypnoerotica",
+     "year": "1973",
+     "meta": "Hardcore / adult · USA · English · dir. Peter Savage (as Armand Peters)",
+     "mechanism": "Hypnosis by the narrator-doctor Laurence Thurston",
+     "summary": "A framing story in which Dr. Laurence Thurston talks about hypnosis with patients. One woman (Andrea True) is hypnotised; walking through Times Square she meets a man (Jamie Gillis), falls for him instantly and will do anything he asks, and they have sex.",
+     "character": "Hypnotised woman (Andrea True); Jamie Gillis; Dr. Thurston (Peter Savage)",
+     "categories": [
+      "hardcore-adult",
+      "adult-hypnosis",
+      "love",
+      "hypno-intimacy"
+     ],
+     "sources": [
+      {
+       "label": "Rock! Shock! Pop! review (Alpha Blue Archives release)",
+       "url": "https://rockshockpop.com/articles/movies-aa/380718-hypnotized-plus-the-lost-films-of-tina-russell"
+      }
+     ],
+     "pregnant_end": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "Not mentioned.",
+     "kids_together": "no",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "evidence": "single review source",
+     "note": "loose fit: single source; the review describes her as hypnotised before the encounter."
+    }
+   }
   }
  ],
  "sections": [
@@ -447638,7 +447938,8 @@ window.CATALOG = {
     "streaming-oct15",
     "hypno-turkey-oct15",
     "kr-cn-hypnosis",
-    "youtube-sweep-oct15"
+    "youtube-sweep-oct15",
+    "adult-fanmade-oct15"
    ],
    "groups": [
     {
@@ -448869,6 +449170,16 @@ window.CATALOG = {
         "Polygamy + female hypnosis / mind control",
         "Hypnotic gaze",
         "Corroborated · 2 sources"
+       ],
+       "sources": [
+        {
+         "label": "TMDB",
+         "url": "https://www.themoviedb.org/movie/619608-she-did-what-he-wanted"
+        },
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0128482/"
+        }
        ],
        "provenance": "Source basis: Hypnosis-assault research pass, 30 Sep 2026 (adult women only; minors/teen characters excluded; non-graphic wording; each record cross-checked where possible)",
        "entry_note": "Note: Outcome facts: pregnancy outcome: unknown; married: no; kids status: unknown.",
@@ -450978,6 +451289,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "youtube-sweep-oct15"
+    },
+    {
+     "title": "Hardcore / adult listings (text only)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3030,
+       "from_source": "adult-fanmade-oct15"
+      },
+      {
+       "id": 3029,
+       "from_source": "adult-fanmade-oct15"
+      }
+     ],
+     "from_source": "adult-fanmade-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -451001,7 +451327,8 @@ window.CATALOG = {
     "streaming-oct15": null,
     "hypno-turkey-oct15": null,
     "kr-cn-hypnosis": null,
-    "youtube-sweep-oct15": null
+    "youtube-sweep-oct15": null,
+    "adult-fanmade-oct15": null
    }
   },
   {
@@ -458618,6 +458945,39 @@ window.CATALOG = {
    "groups": []
   },
   {
+   "title": "Hardcore / adult",
+   "category": "hardcore-adult",
+   "description": "",
+   "notes": [],
+   "from_sources": [
+    "adult-fanmade-oct15"
+   ],
+   "declared_count_by_source": {
+    "adult-fanmade-oct15": null
+   },
+   "groups": [
+    {
+     "title": "Hardcore / adult listings (text only)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3030,
+       "from_source": "adult-fanmade-oct15"
+      },
+      {
+       "id": 3029,
+       "from_source": "adult-fanmade-oct15"
+      },
+      {
+       "id": 1755,
+       "from_source": "adult-fanmade-oct15"
+      }
+     ],
+     "from_source": "adult-fanmade-oct15"
+    }
+   ]
+  },
+  {
    "title": "High-risk pregnancy / medical drama",
    "category": "index-58",
    "description": "Fourteen confirmed ultrasound scenes that reveal risk, loss, multiples, a complication or an urgent medical decision.",
@@ -465531,7 +465891,8 @@ window.CATALOG = {
     "fanwiki-screen-oct14",
     "hypnotized-female-oct15",
     "indonesia-sinetron-oct15",
-    "hypno-turkey-oct15"
+    "hypno-turkey-oct15",
+    "adult-fanmade-oct15"
    ],
    "groups": [
     {
@@ -467475,6 +467836,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypno-turkey-oct15"
+    },
+    {
+     "title": "Hardcore / adult listings (text only)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3030,
+       "from_source": "adult-fanmade-oct15"
+      }
+     ],
+     "from_source": "adult-fanmade-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -467494,7 +467866,8 @@ window.CATALOG = {
     "fanwiki-screen-oct14": null,
     "hypnotized-female-oct15": null,
     "indonesia-sinetron-oct15": null,
-    "hypno-turkey-oct15": null
+    "hypno-turkey-oct15": null,
+    "adult-fanmade-oct15": null
    }
   },
   {
@@ -467509,7 +467882,8 @@ window.CATALOG = {
     "hypnosis-assault",
     "open-sites-hypnosis",
     "round2",
-    "hypnotized-female-oct15"
+    "hypnotized-female-oct15",
+    "adult-fanmade-oct15"
    ],
    "groups": [
     {
@@ -467781,6 +468155,16 @@ window.CATALOG = {
         "Hypnotic gaze",
         "Corroborated · 2 sources"
        ],
+       "sources": [
+        {
+         "label": "TMDB",
+         "url": "https://www.themoviedb.org/movie/619608-she-did-what-he-wanted"
+        },
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0128482/"
+        }
+       ],
        "provenance": "Source basis: Hypnosis-assault research pass, 30 Sep 2026 (adult women only; minors/teen characters excluded; non-graphic wording; each record cross-checked where possible)",
        "entry_note": "Note: Outcome facts: pregnancy outcome: unknown; married: no; kids status: unknown.",
        "from_source": "xla62ucxbx02u5"
@@ -467915,6 +468299,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnotized-female-oct15"
+    },
+    {
+     "title": "Hardcore / adult listings (text only)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3030,
+       "from_source": "adult-fanmade-oct15"
+      },
+      {
+       "id": 3029,
+       "from_source": "adult-fanmade-oct15"
+      }
+     ],
+     "from_source": "adult-fanmade-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -467923,7 +468322,8 @@ window.CATALOG = {
     "hypnosis-assault": null,
     "open-sites-hypnosis": null,
     "round2": null,
-    "hypnotized-female-oct15": null
+    "hypnotized-female-oct15": null,
+    "adult-fanmade-oct15": null
    }
   },
   {
@@ -469354,7 +469754,8 @@ window.CATALOG = {
     "hypno-turkey-oct15",
     "kr-cn-hypnosis",
     "kr-cn-hypnosis-r2",
-    "female-wife-scenes-oct15"
+    "female-wife-scenes-oct15",
+    "adult-fanmade-oct15"
    ],
    "groups": [
     {
@@ -470601,6 +471002,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "female-wife-scenes-oct15"
+    },
+    {
+     "title": "Hardcore / adult listings (text only)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3029,
+       "from_source": "adult-fanmade-oct15"
+      }
+     ],
+     "from_source": "adult-fanmade-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -470629,7 +471041,8 @@ window.CATALOG = {
     "hypno-turkey-oct15": null,
     "kr-cn-hypnosis": null,
     "kr-cn-hypnosis-r2": null,
-    "female-wife-scenes-oct15": null
+    "female-wife-scenes-oct15": null,
+    "adult-fanmade-oct15": null
    }
   },
   {
@@ -492115,6 +492528,16 @@ window.CATALOG = {
         "Polygamy + female hypnosis / mind control",
         "Hypnotic gaze",
         "Corroborated · 2 sources"
+       ],
+       "sources": [
+        {
+         "label": "TMDB",
+         "url": "https://www.themoviedb.org/movie/619608-she-did-what-he-wanted"
+        },
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0128482/"
+        }
        ],
        "provenance": "Source basis: Hypnosis-assault research pass, 30 Sep 2026 (adult women only; minors/teen characters excluded; non-graphic wording; each record cross-checked where possible)",
        "entry_note": "Note: Outcome facts: pregnancy outcome: unknown; married: no; kids status: unknown.",

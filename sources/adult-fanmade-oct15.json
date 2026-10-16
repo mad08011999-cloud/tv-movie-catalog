@@ -1,0 +1,140 @@
+{
+ "id": "adult-fanmade-oct15",
+ "label": "Hardcore / adult and fan-made / roleplay listings (15 Oct 2026)",
+ "group_title": "Hardcore / adult listings (text only)",
+ "description": "Text-only listings requested by the user: hardcore / adult films and fan-made / roleplay clips with female hypnosis. Adults only (hard rule); no media downloaded and no thumbnails. These cards carry a visible content label and are hidden from the default view unless 'Show hardcore / fan-made' is on or their category is selected.",
+ "category_labels": {
+  "hardcore-adult": "Hardcore / adult",
+  "fan-made-roleplay": "Fan-made / roleplay (not a professional production)"
+ },
+ "records": [
+  {
+   "format": "movie",
+   "no_media": true,
+   "adult": "yes",
+   "rating": "X (hardcore)",
+   "content_label": "Hardcore / adult",
+   "group": "Hardcore / adult listings (text only)",
+   "provenance": "Hardcore / adult listing, 15 Oct 2026 PT — text only, no media downloaded; adult performers only",
+   "title": "A Place Beyond Shame",
+   "year": "1980",
+   "meta": "Hardcore / adult · USA · English · dir. Fred J. Lincoln & Sharon Mitchell · rated X",
+   "mechanism": "Therapeutic hypnosis by psychiatrist Michael",
+   "summary": "Seka finds she has lost her sex drive and cannot bear a man touching her. Her psychiatrist Michael (Paul Thomas) hypnotises her so she can reconnect with her sexuality; under hypnosis she relives a series of sexual fantasies.",
+   "character": "Seka (Seka); Dr. Michael (Paul Thomas)",
+   "categories": [
+    "hardcore-adult",
+    "adult-hypnosis",
+    "medical",
+    "hypno-intimacy"
+   ],
+   "sources": [
+    {
+     "label": "TMDB",
+     "url": "https://www.themoviedb.org/movie/460261-a-place-beyond-shame"
+    },
+    {
+     "label": "Blu-ray.com",
+     "url": "https://www.blu-ray.com/A-Place-Beyond-Shame/644752/"
+    },
+    {
+     "label": "Letterboxd (reviews describe the hypnosis framing)",
+     "url": "https://letterboxd.com/film/a-place-beyond-shame/"
+    },
+    {
+     "label": "YouTube lead (fan upload of the hypnosis scene)",
+     "url": "https://www.youtube.com/watch?v=gHyCJDyxwGM"
+    }
+   ],
+   "pregnant_end": "no",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "No pregnancy in the summaries.",
+   "kids_together": "no",
+   "kids_status": "no",
+   "kids_note": "No children mentioned.",
+   "evidence": "TMDB + Blu-ray.com + Letterboxd agree",
+   "note": "Cast list includes a 'Young Seka' flashback role; the hypnotised character is the adult Seka. Text-only listing."
+  },
+  {
+   "format": "movie",
+   "no_media": true,
+   "adult": "yes",
+   "rating": "X (hardcore)",
+   "content_label": "Hardcore / adult",
+   "group": "Hardcore / adult listings (text only)",
+   "provenance": "Hardcore / adult listing, 15 Oct 2026 PT — text only, no media downloaded; adult performers only",
+   "title": "Hypnotized",
+   "subtitle": "aka Hypnoerotica",
+   "year": "1973",
+   "meta": "Hardcore / adult · USA · English · dir. Peter Savage (as Armand Peters)",
+   "mechanism": "Hypnosis by the narrator-doctor Laurence Thurston",
+   "summary": "A framing story in which Dr. Laurence Thurston talks about hypnosis with patients. One woman (Andrea True) is hypnotised; walking through Times Square she meets a man (Jamie Gillis), falls for him instantly and will do anything he asks, and they have sex.",
+   "character": "Hypnotised woman (Andrea True); Jamie Gillis; Dr. Thurston (Peter Savage)",
+   "categories": [
+    "hardcore-adult",
+    "adult-hypnosis",
+    "love",
+    "hypno-intimacy"
+   ],
+   "sources": [
+    {
+     "label": "Rock! Shock! Pop! review (Alpha Blue Archives release)",
+     "url": "https://rockshockpop.com/articles/movies-aa/380718-hypnotized-plus-the-lost-films-of-tina-russell"
+    }
+   ],
+   "pregnant_end": "no",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "Not mentioned.",
+   "kids_together": "no",
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "evidence": "single review source",
+   "note": "loose fit: single source; the review describes her as hypnotised before the encounter."
+  },
+  {
+   "format": "movie",
+   "no_media": true,
+   "adult": "yes",
+   "rating": "X (hardcore)",
+   "content_label": "Hardcore / adult",
+   "group": "Hardcore / adult listings (text only)",
+   "provenance": "Hardcore / adult listing, 15 Oct 2026 PT — text only, no media downloaded; adult performers only",
+   "title": "She Did What He Wanted",
+   "match_title": "She Did What He Wanted",
+   "match_year": "1971",
+   "year": "1971",
+   "categories": [
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "Letterboxd",
+     "url": "https://letterboxd.com/film/she-did-what-he-wanted/"
+    }
+   ],
+   "note": "Labelled Hardcore / adult: Letterboxd describes it as explicitly hardcore."
+  }
+ ],
+ "dropped": [
+  {
+   "title": "Fan-made / roleplay channels: memoman29, Hypnotic Finale",
+   "reason": "performers' ages cannot be verified from metadata (titles include 'Stepmom', 'Mom's friend', 'Viral challenge'); possibly AI-generated; adults-only rule"
+  },
+  {
+   "title": "Blissful, RikkaCD917, Cinema Hypno",
+   "reason": "not fan productions: compilations of unnamed clips from professional films/TV; source titles and ages unverifiable"
+  },
+  {
+   "title": "hypnolatino 'Hipnotizada 04'",
+   "reason": "clip from George of the Jungle 2 (2003), already in catalog (card 1274), not fan-made"
+  },
+  {
+   "title": "Phantasm Phoebe",
+   "reason": "AI-generated (stated in description)"
+  },
+  {
+   "title": "Uya Kuya TV",
+   "reason": "stage/reality hypnosis of real people"
+  }
+ ]
+}

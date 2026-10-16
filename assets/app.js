@@ -83,7 +83,9 @@
     (state.tag === 'all' || (e.tags || []).includes(state.tag)) &&
     (state.again === 'all' || (state.again === 'any' ? !!e.pregnancy_again : e.pregnancy_again === state.again)) &&
     (!state.q || state.q.split(/\s+/).every(t => e._hay.includes(t)));
-  const freeOk = e => !state.free || (e.watch_links || []).length > 0;
+  const LABEL_CATS = ['hardcore-adult', 'fan-made-roleplay'];
+  const labelOk = e => !e.content_label || state.labelled || LABEL_CATS.includes(state.cat);
+  const freeOk = e => labelOk(e) && (!state.free || (e.watch_links || []).length > 0);
   const matches = e => baseMatch(e) && yearOk(e) && freeOk(e);
   function periodCounts(){   // live counts per period under the other active filters
     const base = D.entries.filter(e => baseMatch(e) && yearOk(e, true) && freeOk(e));
@@ -127,6 +129,7 @@
     const lab = (s) => s.replace(/^(Character:|Note:|Source basis:)/, '<strong>$1</strong>');
     return `<article class="card" id="r${e.id}">${thumb}
       <div class="card-top"><span>${esc(e.meta)}</span><span class="year">${badges}${esc(app.year_display || e.year || 'Year unresolved')}</span></div>
+      ${e.content_label ? `<p class="content-label" role="note"><strong>${esc(e.content_label)}</strong></p>` : ''}
       <h3>${esc(e.title)}${e.subtitle ? `<small>${esc(e.subtitle)}</small>` : ''}</h3>${subgroup}
       ${ch ? `<p class="character">${lab(esc(ch))}</p>` : ''}
       ${summary ? `<p class="summary">${esc(summary)}</p>` : ''}
@@ -193,14 +196,14 @@
 
   function sync(push){
     $('#category').value = state.cat; $('#format').value = state.fmt; $('#source').value = state.src; $('#tag').value = state.tag; $('#again').value = state.again;
-    $('#period').value = state.yr; $('#freeToggle').setAttribute('aria-pressed', state.free);
+    $('#period').value = state.yr; $('#freeToggle').setAttribute('aria-pressed', state.free); $('#labelToggle').setAttribute('aria-pressed', !!state.labelled);
     ['ymin', 'ymax'].forEach(k => { const el = $('#' + k); if (document.activeElement !== el) el.value = state[k]; });   // don't clobber a year being typed
     document.querySelectorAll('.view-toggle button').forEach(b => b.setAttribute('aria-pressed', b.dataset.view === state.view));
     document.querySelectorAll('#legend button').forEach(b => b.setAttribute('aria-pressed', b.dataset.cat === state.cat));
     const p = new URLSearchParams();
     if (state.q) p.set('q', state.q); if (state.cat !== 'all') p.set('cat', state.cat);
     if (state.fmt !== 'all') p.set('fmt', state.fmt); if (state.src !== 'all') p.set('src', state.src); if (state.tag !== 'all') p.set('tag', state.tag); if (state.again !== 'all') p.set('again', state.again);
-    if (state.yr !== 'all') p.set('yr', state.yr); if (state.ymin) p.set('ymin', state.ymin); if (state.ymax) p.set('ymax', state.ymax); if (state.free) p.set('free', '1'); if (state.view !== 'grid') p.set('view', state.view);
+    if (state.yr !== 'all') p.set('yr', state.yr); if (state.ymin) p.set('ymin', state.ymin); if (state.ymax) p.set('ymax', state.ymax); if (state.free) p.set('free', '1'); if (state.labelled) p.set('lab', '1'); if (state.view !== 'grid') p.set('view', state.view);
     if (push) history.replaceState(null, '', (p.toString() ? '#' + p : location.pathname));
     updateMore();
     render();
@@ -221,7 +224,7 @@
   const init = new URLSearchParams(location.hash.slice(1));
   state.q = (init.get('q') || '').toLowerCase(); state.cat = init.get('cat') || 'all'; state.fmt = init.get('fmt') || 'all'; state.src = init.get('src') || 'all'; state.tag = init.get('tag') || 'all';
   state.again = ['any', 'birth', 'miscarriage', 'ongoing', 'unknown'].includes(init.get('again')) ? init.get('again') : 'all';
-  state.yr = periodOf[init.get('yr')] ? init.get('yr') : 'all'; state.ymin = init.get('ymin') || ''; state.ymax = init.get('ymax') || ''; state.free = init.get('free') === '1'; state.view = init.get('view') || 'grid';
+  state.yr = periodOf[init.get('yr')] ? init.get('yr') : 'all'; state.ymin = init.get('ymin') || ''; state.ymax = init.get('ymax') || ''; state.free = init.get('free') === '1'; state.labelled = init.get('lab') === '1'; state.view = init.get('view') || 'grid';
   if (hiddenActive()) setMore(true);   // a hidden filter set from the URL hash opens the panel
   let t;
   $('#search').addEventListener('input', e => { clearTimeout(t); t = setTimeout(() => { state.q = e.target.value.trim().toLowerCase(); state.limit = PAGE; sync(true); }, 120); });
@@ -241,6 +244,7 @@
   ['#ymin', '#ymax'].forEach(id => $(id).addEventListener('input', () => { clearTimeout(yt); yt = setTimeout(() => {
     state.ymin = yv('#ymin'); state.ymax = yv('#ymax'); state.limit = PAGE; sync(true); }, 250); }));
   $('#freeToggle').addEventListener('click', () => { state.free = !state.free; state.limit = PAGE; sync(true); });
+  $('#labelToggle').addEventListener('click', () => { state.labelled = !state.labelled; state.limit = PAGE; sync(true); });
   $('#yclear').addEventListener('click', () => { state.yr = 'all'; state.ymin = state.ymax = ''; state.limit = PAGE; sync(true); });
   $('#legend').addEventListener('click', e => { const b = e.target.closest('button'); if (!b) return; state.cat = state.cat === b.dataset.cat ? 'all' : b.dataset.cat; state.limit = PAGE; sync(true); $('#grid').scrollIntoView({behavior:'smooth'}); });
   document.querySelector('.view-toggle').addEventListener('click', e => { const b = e.target.closest('button'); if (!b) return; state.view = b.dataset.view; sync(true); });
