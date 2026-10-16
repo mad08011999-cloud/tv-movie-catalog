@@ -246,6 +246,219 @@
       "adult": "no",
       "provenance": "Deep gap-check (rich-wife, older-man, assault, pregnancy, tantrik/pelet, KR/CN/TW/HK, Indian, Turkish), 15 Oct 2026 PT (adults only; non-explicit notes)",
       "note": ""
+    },
+    {
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep gap-check batch 3 (telenovela, Thai/Tagalog/Indonesian/Turkish/Korean, Chinese tag sweeps), 15 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "The Young and the Restless",
+      "year": "2024",
+      "format": "tv",
+      "meta": "Daytime soap · United States · English · CBS",
+      "character": "Ashley Abbott (Eileen Davidson)",
+      "summary": "Martin Laurent impersonates his twin, psychiatrist Alan Laurent, and treats Ashley, steering her memory so she sees Tucker as violent. Under hypnosis led by the real Alan she recovers the truth, and Martin attacks her before the twins' fatal fight.",
+      "hypnotist": "Martin Laurent posing as Dr. Alan Laurent (Robert Newman); later Alan's recovery hypnosis",
+      "gain_motive": [
+        "obsession / control of patient"
+      ],
+      "method": "Psychiatric manipulation and hypnosis",
+      "categories": [
+        "doctor-gain",
+        "other-control"
+      ],
+      "episodes": [
+        {
+          "episode": "6 June 2024",
+          "air_date": "2024-06-06",
+          "gist": "Alan hypnotises Ashley; she remembers that 'Alan' was really Martin, who then grabs her.",
+          "number_verified": false
+        },
+        {
+          "episode": "7 June 2024",
+          "air_date": "2024-06-07",
+          "gist": "Ashley's breakthrough clears Tucker; Martin and Alan fight and Martin dies.",
+          "number_verified": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Soaps.com recap (June 6)",
+          "url": "https://soaps.sheknows.com/the-young-and-the-restless/recaps/733394/ashley-attacked-alan-brother-martin/"
+        },
+        {
+          "label": "Soaps.com recap (June 7)",
+          "url": "https://soaps.sheknows.com/the-young-and-the-restless/recaps/733547/alan-martin-fight-death/"
+        },
+        {
+          "label": "Y&R Recaps June 7 2024",
+          "url": "https://yandrrecaps.com/recaps/yr-recap-june-7-2024-ashley-breakthrough-martin-alan-fight-tucker-exonerated/"
+        },
+        {
+          "label": "The Soap Scoop",
+          "url": "https://thesoapscoop.com/young-and-the-restless-martin-attacks-ashley/"
+        }
+      ],
+      "evidence": "Multiple daily recaps",
+      "confidence_flag": "High · 4 sources",
+      "note": "2024 Ashley/Martin arc; separate from the existing 2009, 2014, 2015–16 and Mariah cards. Episode numbers are given as air dates."
+    },
+    {
+      "pregnant_end": "no",
+      "kids_status": "yes",
+      "kids_together": "no",
+      "provenance": "Deep gap-check batch 3 (telenovela, Thai/Tagalog/Indonesian/Turkish/Korean, Chinese tag sweeps), 15 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Garota do Momento",
+      "year": "2024–25",
+      "format": "tv",
+      "meta": "Telenovela · Brazil · Portuguese · TV Globo",
+      "character": "Clarice (Carol Castro)",
+      "summary": "Clarice, Beatriz's mother, was kept drugged and without memory by Juliano. In the final stretch she seeks hypnosis sessions with Dr. Gregório to recover the night of her accident, and the two fall in love.",
+      "hypnotist": "Dr. Gregório (Rocco Pitanga), therapeutic",
+      "gain_motive": [
+        "memory recovery"
+      ],
+      "method": "Clinical hypnosis sessions",
+      "categories": [
+        "medical",
+        "love"
+      ],
+      "fit": "loose",
+      "tags": [
+        "loose fit"
+      ],
+      "kids_note": "Mother of adult daughter Beatriz",
+      "episodes": [
+        {
+          "episode": "Final stretch (April 2025)",
+          "gist": "Clarice starts hypnosis with Gregório; memories don't come at first; romance develops and Juliano grows jealous.",
+          "number_verified": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "OFuxico",
+          "url": "https://ofuxico.com.br/novelas/garota-do-momento/clarice-se-trata-com-hipnose-e-vive-novo-amor-em-garota-do-momento/"
+        }
+      ],
+      "evidence": "Press summary of upcoming chapters",
+      "confidence_flag": "Single source · flag",
+      "note": "Loose fit: therapeutic hypnosis; Juliano's control is by drugging, not hypnosis."
+    },
+    {
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep gap-check batch 3 (telenovela, Thai/Tagalog/Indonesian/Turkish/Korean, Chinese tag sweeps), 15 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Simplemente María",
+      "year": "2015–16",
+      "format": "tv",
+      "meta": "Telenovela · Mexico · Spanish · Televisa",
+      "character": "María Flores (Claudia Álvarez)",
+      "summary": "María undergoes a hypnosis session that brings back memories of José Ignacio.",
+      "hypnotist": "Therapist (unnamed in source)",
+      "gain_motive": [
+        "memory recovery"
+      ],
+      "method": "Hypnosis session",
+      "categories": [
+        "medical"
+      ],
+      "fit": "loose",
+      "tags": [
+        "loose fit"
+      ],
+      "episodes": [
+        {
+          "episode": "131",
+          "gist": "María is hypnotised and recalls the truth of her past with José Ignacio.",
+          "number_verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "Televisa tlnovelas ch.131",
+          "url": "https://www.televisa.com/tlnovelas/simplemente-maria-131-maria-recuerda-la-verdad-de-su-pasado-video"
+        }
+      ],
+      "evidence": "Broadcaster episode clip page",
+      "confidence_flag": "Single source · flag",
+      "note": "Loose fit: therapeutic hypnosis only."
+    },
+    {
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep gap-check batch 3 (telenovela, Thai/Tagalog/Indonesian/Turkish/Korean, Chinese tag sweeps), 15 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Flex x Cop",
+      "year": "2024",
+      "format": "tv",
+      "meta": "TV series · South Korea · Korean · SBS / Disney+",
+      "character": "Dr. Seo (psychiatrist)",
+      "summary": "Psychiatrist Dr. Seo uses hypnosis to kill a blackmailer's accomplice. Jin Yi-soo has her hypnotised in turn with her old professor's help, and under hypnosis she walks into the police station and confesses.",
+      "hypnotist": "Jin Yi-soo with psychiatrist Yoo Myeong-suk",
+      "gain_motive": [
+        "forced confession"
+      ],
+      "method": "Hypnosis",
+      "categories": [
+        "crime",
+        "evil-female"
+      ],
+      "episodes": [
+        {
+          "episode": "8",
+          "gist": "Dr. Seo's hypnosis murders are exposed; she is hypnotised into confessing and is arrested.",
+          "number_verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "Film Fugitives ep 8 recap",
+          "url": "https://fugitives.com/flex-x-cop-episode-8-recap-and-ending-explained-2024-kdrama/"
+        }
+      ],
+      "evidence": "Episode recap",
+      "confidence_flag": "Single source · flag",
+      "note": "Female villain hypnotist who is herself hypnotised into confessing."
+    },
+    {
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep gap-check batch 3 (telenovela, Thai/Tagalog/Indonesian/Turkish/Korean, Chinese tag sweeps), 15 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Scarlet Blue",
+      "year": "2024",
+      "format": "movie",
+      "meta": "Film · France/Réunion · French · dir. Aurélia Mengin",
+      "character": "Alter (Amélie Daure / Anne-Sophie Charron)",
+      "summary": "Alter, who has depression and schizophrenia, consults a healer who practises mystical hypnosis and learns that her mother is hiding a secret.",
+      "hypnotist": "Healer Léondro Lecreulx (Stefano Cassetti)",
+      "gain_motive": [
+        "therapy"
+      ],
+      "method": "Mystical hypnosis therapy",
+      "categories": [
+        "medical"
+      ],
+      "fit": "loose",
+      "tags": [
+        "loose fit"
+      ],
+      "sources": [
+        {
+          "label": "Movies Review 101 (FrightFest)",
+          "url": "https://moviesreview101.com/scarlet-blue-2024-frightfest-2024-movie-review/"
+        }
+      ],
+      "evidence": "Festival review with synopsis",
+      "confidence_flag": "Single source · flag",
+      "note": "Loose fit: therapy hypnosis in a horror-mystery."
     }
   ],
   "dropped": [
@@ -264,6 +477,19 @@
     "Saamri (1985): marriage is arranged through a will and black magic; not a controlled woman",
     "The Love of Hypnosis (2026): no mind control",
     "Svengali/Trilby versions, Road to Rio, SVU 'Spellbound', Magpakailanman 'A Scandalous Crime', Hypnotized (2004), The Scarapist, Guna-Guna Istri Muda, Vash/Vash Level 2, Shaitaan, O Outro Lado do Paraíso, Hypnosen, Off Pedder, 被催眠的催眠师, 被催眠的她/诱她入梦, 听老公的话: already in the catalog",
-    "Mental Block 'Hypnotized Female' category (2,246 pages): every page title is already in the catalog except 'Spiderman and His Amazing Friends' (animated, out of scope)"
+    "Mental Block 'Hypnotized Female' category (2,246 pages): every page title is already in the catalog except 'Spiderman and His Amazing Friends' (animated, out of scope)",
+    "Ninnu Kori Oct 2025: Virat's plan to hypnotise Shalini fails (card 2225 already covers the show)",
+    "Dui Shalik (Star Jalsha 2024): forced medication only, no hypnosis",
+    "Mann Atisundar: the tantrik threatens the family rather than controlling a woman",
+    "Vashikaranam (Sony 2026) is already card 204; Jaadu Teri Nazar is already card 2917",
+    "A Caverna Encantada (SBT 2024): children's novela, minor characters",
+    "下错蛊后裴总成了我的小娇夫 / 给夫下蛊: male target",
+    "최면교실 Class in Hypnosis: school setting, possible minors",
+    "Magpakailanman 'The Power of Hypnotism' (2017): victims not identifiable from sources",
+    "Noyontara: Shaoli's hypnosis of Poulomi fails; card 2907 exists",
+    "Kızıl Goncalar ep35: male target",
+    "La Rosa de Guadalupe (Victoria, 2024): not clear she had children before the affair",
+    "Dr. Phil hypnotist-lawyer episode: non-fiction talk show",
+    "Thara Patham: audio"
   ]
 }
