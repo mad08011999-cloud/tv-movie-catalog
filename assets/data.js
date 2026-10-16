@@ -4579,6 +4579,44 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "pregnancy-yt-oct15",
+   "label": "Pregnancy storylines YouTube sweep (15 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/pregnancy-yt-oct15.json",
+   "description": "YouTube sweep of official broadcaster channels (StarPlus, Zee TV, Colors, Sony SET/SAB, Zee Keralam/Kannada/Bangla/Marathi) and movie channels for female-pregnancy storylines, plus web plot sources for films. Titles/descriptions mined with yt-dlp (no video downloaded). Existing categories only; titles already in the catalog skipped. Unknown outcomes and prior-kids status are marked 'unknown' / 'not stated'.",
+   "dropped": [
+    {
+     "title": "Imlie, Parineetii, Sasural Simar Ka, Jodha Akbar, Shaadi Ke Side Effects, Badhaai Ho, Knocked Up, Fifty Shades Freed, Fatal Attraction, Father of the Bride Part II",
+     "reason": "already in the catalog"
+    },
+    {
+     "title": "Iniya Iru Malargal",
+     "reason": "Tamil dub of Kumkum Bhagya"
+    },
+    {
+     "title": "Anupama '9 months pregnant' (Bollywood Spy)",
+     "reason": "clickbait fan channel, unverified"
+    },
+    {
+     "title": "Never Rarely Sometimes Always / Where the Heart Is",
+     "reason": "minor protagonist"
+    },
+    {
+     "title": "Pandya Store Ep 971, Kaise Mujhe Tum Mil Gaye Ep 502",
+     "reason": "no pregnancy evidence in upload"
+    },
+    {
+     "title": "Baby Mama, Chori Chori Chupke Chupke, Good Newwz, Mimi, Salaam Namaste",
+     "reason": "added concurrently by sources/pregnant-yt-oct15.json"
+    }
+   ],
+   "check": {
+    "raw_count": 50,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -4637,10 +4675,11 @@ window.CATALOG = {
   "adult-fanmade-oct15": 3,
   "deep-gap-oct15": 17,
   "youtube-deep-oct15": 43,
-  "pregnant-yt-oct15": 24
+  "pregnant-yt-oct15": 24,
+  "pregnancy-yt-oct15": 50
  },
- "raw_total": 5941,
- "entry_count": 2963,
+ "raw_total": 5991,
+ "entry_count": 3012,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4676,7 +4715,7 @@ window.CATALOG = {
    "key": "index-61",
    "label": "Crime / fraud — fake pregnancy exposed",
    "legend_label": "Crime / fraud — fake pregnancy exposed",
-   "entry_count": 0
+   "entry_count": 2
   },
   {
    "key": "cult",
@@ -4760,7 +4799,7 @@ window.CATALOG = {
    "key": "index-58",
    "label": "High-risk pregnancy / medical drama",
    "legend_label": "High-risk pregnancy / medical drama",
-   "entry_count": 2
+   "entry_count": 8
   },
   {
    "key": "human",
@@ -4838,7 +4877,7 @@ window.CATALOG = {
    "key": "erotic-mainstream",
    "label": "Mainstream erotic / erotic-thriller / erotic-drama (rated releases)",
    "legend_label": "Mainstream erotic / erotic-thriller / erotic-drama (rated releases)",
-   "entry_count": 130
+   "entry_count": 133
   },
   {
    "key": "medical",
@@ -4862,7 +4901,7 @@ window.CATALOG = {
    "key": "mom-pregnancy",
    "label": "Mother with children gets pregnant in a passionate relationship (husband, new partner or lover)",
    "legend_label": "Mother pregnant again",
-   "entry_count": 178
+   "entry_count": 180
   },
   {
    "key": "hypnotised-mother-marriage",
@@ -4904,7 +4943,7 @@ window.CATALOG = {
    "key": "index-57",
    "label": "Paternity / infidelity mystery",
    "legend_label": "Paternity / infidelity mystery",
-   "entry_count": 0
+   "entry_count": 5
   },
   {
    "key": "polygamy-hypnosis",
@@ -4934,7 +4973,7 @@ window.CATALOG = {
    "key": "pregnant",
    "label": "pregnant",
    "legend_label": "pregnant",
-   "entry_count": 16
+   "entry_count": 61
   },
   {
    "key": "belly-kissed",
@@ -5072,7 +5111,7 @@ window.CATALOG = {
    "key": "index-63",
    "label": "Romantic drama / family drama",
    "legend_label": "Romantic drama / family drama",
-   "entry_count": 0
+   "entry_count": 13
   },
   {
    "key": "scifi",
@@ -5102,7 +5141,7 @@ window.CATALOG = {
    "key": "index-60",
    "label": "Supernatural / horror / thriller reveal",
    "legend_label": "Supernatural / horror / thriller reveal",
-   "entry_count": 3
+   "entry_count": 4
   },
   {
    "key": "evil-female",
@@ -5114,7 +5153,7 @@ window.CATALOG = {
    "key": "index-59",
    "label": "Surrogacy / IVF / fertility drama",
    "legend_label": "Surrogacy / IVF / fertility drama",
-   "entry_count": 6
+   "entry_count": 8
   },
   {
    "key": "index-55",
@@ -269675,6 +269714,17 @@ window.CATALOG = {
    "character": "Sonakshi (Erica Fernandes) and Dev Dixit (Shaheer Sheikh)",
    "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
    "note": "Outcome facts: married: yes; kids status: yes.",
+   "pregnancy_note": "pregnancy loss indicated (heartbeat stopped, Ep 386)",
+   "episodes": [
+    {
+     "episode": "Ep 386",
+     "title": "Sonakshi Falls Ill Due to Pregnancy",
+     "gist": "fetal heartbeat stops"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
    "kids_status": "yes",
    "kids_note": "daughter Suhana",
    "married": "yes",
@@ -269686,28 +269736,39 @@ window.CATALOG = {
    "existing_kids": "1",
    "pregnancy_again": "birth",
    "pregnancy_again_note": "son Shubh born",
+   "source_conflict": "Pregnant by the end: kids-pregnant-again says “yes”; pregnancy-yt-oct15 says “no” · Already has children: kids-pregnant-again says “yes”; pregnancy-yt-oct15 says “no”",
    "format": "tv",
    "categories": [
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "pregnant",
+    "index-58"
    ],
    "sources": [
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Kuch_Rang_Pyar_Ke_Aise_Bhi"
+    },
+    {
+     "label": "Har Pal Drama: Ep 386",
+     "url": "https://www.youtube.com/watch?v=mPl3dBsYUb0"
     }
    ],
-   "youtube_ids": [],
+   "youtube_ids": [
+    "mPl3dBsYUb0"
+   ],
    "from_sources": [
     "xla62ucxbx02u5",
-    "kids-pregnant-again"
+    "kids-pregnant-again",
+    "pregnancy-yt-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1451",
-    "kids-pregnant-again:59"
+    "kids-pregnant-again:59",
+    "pregnancy-yt-oct15:11"
    ],
    "index_only": false,
    "local_only": false,
-   "thumbnail": null,
+   "thumbnail": "thumbs/mPl3dBsYUb0.jpg",
    "primary_copy": {
     "rid": "xla62ucxbx02u5:1451",
     "source": "xla62ucxbx02u5",
@@ -269774,6 +269835,52 @@ window.CATALOG = {
      "pregnancy_again_note": "son Shubh born",
      "distinct_story": false,
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "pregnancy-yt-oct15:11",
+     "source": "pregnancy-yt-oct15",
+     "label": "Kuch Rang Pyar Ke Aise Bhi (2016–2021)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Kuch Rang Pyar Ke Aise Bhi",
+     "subtitle": "",
+     "year": "2016–2021",
+     "meta": "India · Hindi · Sony serial",
+     "summary": "Pregnant Sonakshi falls ill; at the ultrasound the baby's heartbeat has stopped (Ep 386).",
+     "character": "Sonakshi Bose Dixit",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "medium · official channel upload",
+     "categories": [
+      "pregnant",
+      "index-58"
+     ],
+     "sources": [
+      {
+       "label": "Har Pal Drama: Ep 386",
+       "url": "https://www.youtube.com/watch?v=mPl3dBsYUb0"
+      }
+     ],
+     "pregnancy_note": "pregnancy loss indicated (heartbeat stopped, Ep 386)",
+     "episodes": [
+      {
+       "episode": "Ep 386",
+       "title": "Sonakshi Falls Ill Due to Pregnancy",
+       "gist": "fetal heartbeat stops"
+      }
+     ],
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "kids_status": "no",
+     "kids_note": "not stated",
+     "pregnant_end": "no",
+     "pregnant_end_note": "pregnancy loss indicated (heartbeat stopped, Ep 386)",
+     "evidence": "official channel upload: title + description",
+     "rating": "TV (Indian daily soap, family)",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -269796,6 +269903,43 @@ window.CATALOG = {
      "c": [
       "mom-pregnancy"
      ]
+    },
+    "pregnancy-yt-oct15:11": {
+     "title": "Kuch Rang Pyar Ke Aise Bhi",
+     "year": "2016–2021",
+     "format": "tv",
+     "meta": "India · Hindi · Sony serial",
+     "character": "Sonakshi Bose Dixit",
+     "summary": "Pregnant Sonakshi falls ill; at the ultrasound the baby's heartbeat has stopped (Ep 386).",
+     "categories": [
+      "pregnant",
+      "index-58"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 386",
+       "title": "Sonakshi Falls Ill Due to Pregnancy",
+       "gist": "fetal heartbeat stops"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "not stated",
+     "pregnant_end": "no",
+     "pregnant_end_note": "pregnancy loss indicated (heartbeat stopped, Ep 386)",
+     "pregnancy_note": "pregnancy loss indicated (heartbeat stopped, Ep 386)",
+     "sources": [
+      {
+       "label": "Har Pal Drama: Ep 386",
+       "url": "https://www.youtube.com/watch?v=mPl3dBsYUb0"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "medium · official channel upload",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
     },
     "kids-pregnant-again:59": {
      "title": "Kuch Rang Pyar Ke Aise Bhi",
@@ -455121,6 +455265,4650 @@ window.CATALOG = {
      "evidence": "YouTube-only (auto-captions of the full upload); age not stated (adult)"
     }
    }
+  },
+  {
+   "id": 3098,
+   "title": "Yeh Rishta Kya Kehlata Hai",
+   "subtitle": "",
+   "year": "2009–present",
+   "meta": "India · Hindi · StarPlus serial",
+   "mechanism": "",
+   "confidence_flag": "high · official channel uploads",
+   "summary": "Long-running family saga with several pregnancy arcs: Akshara's first pregnancy (Ep 601–606), a second pregnancy announced (Ep 691) and the birth of a son (Ep 811–815); in a later generation Akshara is pregnant with twins (Ep 1344) and a later Akshara's pregnancy is revealed (Ep 1581).",
+   "character": "Akshara Singhania (and later-generation Akshara)",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "son born (Ep 811–815); twin and later-generation outcomes not stated in the uploads",
+   "episodes": [
+    {
+     "episode": "Ep 601–606",
+     "title": "Is Akshara Pregnant?",
+     "gist": "pregnancy suspected and confirmed; Naitik worried about becoming a father"
+    },
+    {
+     "episode": "Ep 691",
+     "title": "Akshara Is Pregnant Again!",
+     "gist": "family happy with the news"
+    },
+    {
+     "episode": "Ep 811–815",
+     "title": "Akshara gives birth to a son",
+     "gist": "birth"
+    },
+    {
+     "episode": "Ep 1344",
+     "title": "Akshara Pregnant With Twins",
+     "gist": "later-generation twin pregnancy"
+    },
+    {
+     "episode": "Ep 1581–1582",
+     "title": "Akshara's Pregnancy Is Revealed!",
+     "gist": "later-generation pregnancy revealed"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "not stated for the first pregnancy (Ep 601); the Ep 691 title says 'pregnant again'",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "son born (Ep 811–815); twin and later-generation outcomes not stated in the uploads",
+   "evidence": "multiple uploads: titles + descriptions",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant",
+    "index-63"
+   ],
+   "sources": [
+    {
+     "label": "StarPlus: Is Akshara Pregnant? Ep 601-605",
+     "url": "https://www.youtube.com/watch?v=Buzn-9oP9GA"
+    },
+    {
+     "label": "Official: Akshara gives birth to a son Ep 811-815",
+     "url": "https://www.youtube.com/watch?v=HOd6g-noMhQ"
+    },
+    {
+     "label": "Official: Akshara Pregnant With Twins Ep 1344",
+     "url": "https://www.youtube.com/watch?v=0Yk2qKul75o"
+    }
+   ],
+   "youtube_ids": [
+    "Buzn-9oP9GA",
+    "HOd6g-noMhQ",
+    "0Yk2qKul75o"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/Buzn-9oP9GA.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:1": {
+     "title": "Yeh Rishta Kya Kehlata Hai",
+     "year": "2009–present",
+     "format": "tv",
+     "meta": "India · Hindi · StarPlus serial",
+     "character": "Akshara Singhania (and later-generation Akshara)",
+     "summary": "Long-running family saga with several pregnancy arcs: Akshara's first pregnancy (Ep 601–606), a second pregnancy announced (Ep 691) and the birth of a son (Ep 811–815); in a later generation Akshara is pregnant with twins (Ep 1344) and a later Akshara's pregnancy is revealed (Ep 1581).",
+     "categories": [
+      "pregnant",
+      "index-63"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 601–606",
+       "title": "Is Akshara Pregnant?",
+       "gist": "pregnancy suspected and confirmed; Naitik worried about becoming a father"
+      },
+      {
+       "episode": "Ep 691",
+       "title": "Akshara Is Pregnant Again!",
+       "gist": "family happy with the news"
+      },
+      {
+       "episode": "Ep 811–815",
+       "title": "Akshara gives birth to a son",
+       "gist": "birth"
+      },
+      {
+       "episode": "Ep 1344",
+       "title": "Akshara Pregnant With Twins",
+       "gist": "later-generation twin pregnancy"
+      },
+      {
+       "episode": "Ep 1581–1582",
+       "title": "Akshara's Pregnancy Is Revealed!",
+       "gist": "later-generation pregnancy revealed"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "not stated for the first pregnancy (Ep 601); the Ep 691 title says 'pregnant again'",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "son born (Ep 811–815); twin and later-generation outcomes not stated in the uploads",
+     "pregnancy_note": "son born (Ep 811–815); twin and later-generation outcomes not stated in the uploads",
+     "sources": [
+      {
+       "label": "StarPlus: Is Akshara Pregnant? Ep 601-605",
+       "url": "https://www.youtube.com/watch?v=Buzn-9oP9GA"
+      },
+      {
+       "label": "Official: Akshara gives birth to a son Ep 811-815",
+       "url": "https://www.youtube.com/watch?v=HOd6g-noMhQ"
+      },
+      {
+       "label": "Official: Akshara Pregnant With Twins Ep 1344",
+       "url": "https://www.youtube.com/watch?v=0Yk2qKul75o"
+      }
+     ],
+     "evidence": "multiple uploads: titles + descriptions",
+     "confidence_flag": "high · official channel uploads",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3099,
+   "title": "Anupamaa",
+   "subtitle": "",
+   "year": "2020–present",
+   "meta": "India · Hindi · StarPlus serial",
+   "mechanism": "",
+   "confidence_flag": "medium · official channel upload",
+   "summary": "Several women in the Shah family get pregnant: Kinjal (pregnancy suspected Ep 233, goes into labour Ep 669), Kavya (pregnant Ep 932, baby shower Ep 1093) and Prarthana (pregnant Ep 1678).",
+   "character": "Kinjal, Kavya, Prarthana (daughters-in-law / Vanraj's second wife)",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "Kinjal goes into labour (Ep 669); other outcomes not stated in the uploads",
+   "episodes": [
+    {
+     "episode": "Ep 233",
+     "title": "Is Kinjal pregnant?",
+     "gist": "pregnancy suspected"
+    },
+    {
+     "episode": "Ep 669",
+     "title": "Kinjal Goes Into Labour!",
+     "gist": "labour; health takes a serious turn"
+    },
+    {
+     "episode": "Ep 932",
+     "title": "Kavya Is Pregnant!",
+     "gist": "Kavya pregnant"
+    },
+    {
+     "episode": "Ep 1093",
+     "title": "Kavya's baby shower",
+     "gist": "godh bharai"
+    },
+    {
+     "episode": "Ep 1678",
+     "title": "Prarthana Is Pregnant!",
+     "gist": "Prarthana pregnant"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "none stated for Kinjal, Kavya or Prarthana at the time of these pregnancies",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "Kinjal goes into labour (Ep 669); other outcomes not stated in the uploads",
+   "evidence": "multiple uploads: titles + descriptions",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant",
+    "index-63"
+   ],
+   "sources": [
+    {
+     "label": "Anupama official: Kinjal Goes Into Labour Ep 669",
+     "url": "https://www.youtube.com/watch?v=m691PR49394"
+    },
+    {
+     "label": "Anupama official: Kavya Is Pregnant Ep 932",
+     "url": "https://www.youtube.com/watch?v=HIA6gYzipm8"
+    },
+    {
+     "label": "StarPlus: Prarthana Is Pregnant Ep 1678",
+     "url": "https://www.youtube.com/watch?v=RUt1qs0aZa0"
+    }
+   ],
+   "youtube_ids": [
+    "m691PR49394",
+    "HIA6gYzipm8",
+    "RUt1qs0aZa0"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/m691PR49394.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:2": {
+     "title": "Anupamaa",
+     "year": "2020–present",
+     "format": "tv",
+     "meta": "India · Hindi · StarPlus serial",
+     "character": "Kinjal, Kavya, Prarthana (daughters-in-law / Vanraj's second wife)",
+     "summary": "Several women in the Shah family get pregnant: Kinjal (pregnancy suspected Ep 233, goes into labour Ep 669), Kavya (pregnant Ep 932, baby shower Ep 1093) and Prarthana (pregnant Ep 1678).",
+     "categories": [
+      "pregnant",
+      "index-63"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 233",
+       "title": "Is Kinjal pregnant?",
+       "gist": "pregnancy suspected"
+      },
+      {
+       "episode": "Ep 669",
+       "title": "Kinjal Goes Into Labour!",
+       "gist": "labour; health takes a serious turn"
+      },
+      {
+       "episode": "Ep 932",
+       "title": "Kavya Is Pregnant!",
+       "gist": "Kavya pregnant"
+      },
+      {
+       "episode": "Ep 1093",
+       "title": "Kavya's baby shower",
+       "gist": "godh bharai"
+      },
+      {
+       "episode": "Ep 1678",
+       "title": "Prarthana Is Pregnant!",
+       "gist": "Prarthana pregnant"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "none stated for Kinjal, Kavya or Prarthana at the time of these pregnancies",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "Kinjal goes into labour (Ep 669); other outcomes not stated in the uploads",
+     "pregnancy_note": "Kinjal goes into labour (Ep 669); other outcomes not stated in the uploads",
+     "sources": [
+      {
+       "label": "Anupama official: Kinjal Goes Into Labour Ep 669",
+       "url": "https://www.youtube.com/watch?v=m691PR49394"
+      },
+      {
+       "label": "Anupama official: Kavya Is Pregnant Ep 932",
+       "url": "https://www.youtube.com/watch?v=HIA6gYzipm8"
+      },
+      {
+       "label": "StarPlus: Prarthana Is Pregnant Ep 1678",
+       "url": "https://www.youtube.com/watch?v=RUt1qs0aZa0"
+      }
+     ],
+     "evidence": "multiple uploads: titles + descriptions",
+     "confidence_flag": "medium · official channel upload",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3100,
+   "title": "Ghum Hai Kisikey Pyaar Meiin",
+   "subtitle": "",
+   "year": "2020–present",
+   "meta": "India · Hindi · StarPlus serial",
+   "mechanism": "",
+   "confidence_flag": "medium · official channel upload",
+   "summary": "Sai's pregnancy is suspected and confirmed (Ep 524, 574) and the family holds a joint baby shower for Sai and Patralekha (Ep 575).",
+   "character": "Sai and Patralekha (Pakhi)",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "outcome not stated in these uploads",
+   "episodes": [
+    {
+     "episode": "Ep 524",
+     "title": "Good news for Sai!",
+     "gist": "good news"
+    },
+    {
+     "episode": "Ep 574",
+     "title": "Is Sai Pregnant?",
+     "gist": "Bhavani suspects"
+    },
+    {
+     "episode": "Ep 575",
+     "title": "Patralekha and Sai's Baby Shower!",
+     "gist": "joint baby shower"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "outcome not stated in these uploads",
+   "evidence": "multiple uploads: titles + descriptions",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant",
+    "index-63"
+   ],
+   "sources": [
+    {
+     "label": "Official: Sai ke liye acchi khabar Ep 524",
+     "url": "https://www.youtube.com/watch?v=-HN80hK4uGg"
+    },
+    {
+     "label": "Official: Patralekha aur Sai ki godh bharai Ep 575",
+     "url": "https://www.youtube.com/watch?v=sDMV8k5uAc0"
+    }
+   ],
+   "youtube_ids": [
+    "-HN80hK4uGg",
+    "sDMV8k5uAc0"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/-HN80hK4uGg.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:3": {
+     "title": "Ghum Hai Kisikey Pyaar Meiin",
+     "year": "2020–present",
+     "format": "tv",
+     "meta": "India · Hindi · StarPlus serial",
+     "character": "Sai and Patralekha (Pakhi)",
+     "summary": "Sai's pregnancy is suspected and confirmed (Ep 524, 574) and the family holds a joint baby shower for Sai and Patralekha (Ep 575).",
+     "categories": [
+      "pregnant",
+      "index-63"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 524",
+       "title": "Good news for Sai!",
+       "gist": "good news"
+      },
+      {
+       "episode": "Ep 574",
+       "title": "Is Sai Pregnant?",
+       "gist": "Bhavani suspects"
+      },
+      {
+       "episode": "Ep 575",
+       "title": "Patralekha and Sai's Baby Shower!",
+       "gist": "joint baby shower"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "outcome not stated in these uploads",
+     "pregnancy_note": "outcome not stated in these uploads",
+     "sources": [
+      {
+       "label": "Official: Sai ke liye acchi khabar Ep 524",
+       "url": "https://www.youtube.com/watch?v=-HN80hK4uGg"
+      },
+      {
+       "label": "Official: Patralekha aur Sai ki godh bharai Ep 575",
+       "url": "https://www.youtube.com/watch?v=sDMV8k5uAc0"
+      }
+     ],
+     "evidence": "multiple uploads: titles + descriptions",
+     "confidence_flag": "medium · official channel upload",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3101,
+   "title": "Kumkum Bhagya",
+   "subtitle": "",
+   "year": "2014–2025",
+   "meta": "India · Hindi · Zee TV serial",
+   "mechanism": "",
+   "confidence_flag": "high · official channel uploads",
+   "summary": "Pragya's pregnancy is celebrated while Tanu plots to kill her unborn baby (Ep 1303–1306, Feb 2019); in later generations Prachi's pregnancy delights Ranbir (Ep 2045, Jan 2022) and Purvi is expecting (Ep 2987).",
+   "character": "Pragya; later Prachi and Purvi",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "outcomes not stated in these uploads",
+   "episodes": [
+    {
+     "episode": "Ep 1303",
+     "title": "Party for Pragya's pregnancy",
+     "gist": "celebration"
+    },
+    {
+     "episode": "Ep 1305",
+     "title": "Tanu plans to kill Pragya's baby",
+     "gist": "villain plot"
+    },
+    {
+     "episode": "Ep 2045",
+     "title": "Prachi's pregnancy news",
+     "gist": "Ranbir overjoyed"
+    },
+    {
+     "episode": "Ep 2987",
+     "title": "Purvi is going to be a mother",
+     "gist": "pregnancy"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "outcomes not stated in these uploads",
+   "evidence": "multiple uploads: titles + descriptions",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant",
+    "index-63"
+   ],
+   "sources": [
+    {
+     "label": "Zee TV: Kumkum Bhagya Ep 1303",
+     "url": "https://www.youtube.com/watch?v=GHNet_iBMIk"
+    },
+    {
+     "label": "Zee TV: Kumkum Bhagya Ep 1305",
+     "url": "https://www.youtube.com/watch?v=ywhl9OyNrTg"
+    },
+    {
+     "label": "Zee TV: Purvi maa banne wali hai Ep 2987",
+     "url": "https://www.youtube.com/watch?v=TcgMtJwjiu8"
+    }
+   ],
+   "youtube_ids": [
+    "GHNet_iBMIk",
+    "ywhl9OyNrTg",
+    "TcgMtJwjiu8"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/GHNet_iBMIk.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:4": {
+     "title": "Kumkum Bhagya",
+     "year": "2014–2025",
+     "format": "tv",
+     "meta": "India · Hindi · Zee TV serial",
+     "character": "Pragya; later Prachi and Purvi",
+     "summary": "Pragya's pregnancy is celebrated while Tanu plots to kill her unborn baby (Ep 1303–1306, Feb 2019); in later generations Prachi's pregnancy delights Ranbir (Ep 2045, Jan 2022) and Purvi is expecting (Ep 2987).",
+     "categories": [
+      "pregnant",
+      "index-63"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 1303",
+       "title": "Party for Pragya's pregnancy",
+       "gist": "celebration"
+      },
+      {
+       "episode": "Ep 1305",
+       "title": "Tanu plans to kill Pragya's baby",
+       "gist": "villain plot"
+      },
+      {
+       "episode": "Ep 2045",
+       "title": "Prachi's pregnancy news",
+       "gist": "Ranbir overjoyed"
+      },
+      {
+       "episode": "Ep 2987",
+       "title": "Purvi is going to be a mother",
+       "gist": "pregnancy"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "outcomes not stated in these uploads",
+     "pregnancy_note": "outcomes not stated in these uploads",
+     "sources": [
+      {
+       "label": "Zee TV: Kumkum Bhagya Ep 1303",
+       "url": "https://www.youtube.com/watch?v=GHNet_iBMIk"
+      },
+      {
+       "label": "Zee TV: Kumkum Bhagya Ep 1305",
+       "url": "https://www.youtube.com/watch?v=ywhl9OyNrTg"
+      },
+      {
+       "label": "Zee TV: Purvi maa banne wali hai Ep 2987",
+       "url": "https://www.youtube.com/watch?v=TcgMtJwjiu8"
+      }
+     ],
+     "evidence": "multiple uploads: titles + descriptions",
+     "confidence_flag": "high · official channel uploads",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3102,
+   "title": "Kundali Bhagya",
+   "subtitle": "",
+   "year": "2017–2024",
+   "meta": "India · Hindi · Zee TV serial",
+   "mechanism": "",
+   "confidence_flag": "medium · official channel upload",
+   "summary": "Preeta becomes pregnant (Ep 1004, 2021) and is pregnant again in a later track (Ep 1261, Jun 2022).",
+   "character": "Preeta Arora / Luthra",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "outcome not stated in the uploads",
+   "episodes": [
+    {
+     "episode": "Ep 1004",
+     "title": "Preeta gets PREGNANT",
+     "gist": "pregnancy"
+    },
+    {
+     "episode": "Ep 1261",
+     "title": "Preeta hui pregnant!",
+     "gist": "later pregnancy"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "outcome not stated in the uploads",
+   "evidence": "multiple uploads: titles + descriptions",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant",
+    "index-63"
+   ],
+   "sources": [
+    {
+     "label": "Zee TV: Preeta gets PREGNANT Ep 1004",
+     "url": "https://www.youtube.com/watch?v=Smws8uxBaSw"
+    },
+    {
+     "label": "Zee TV: Preeta hui pregnant Ep 1261",
+     "url": "https://www.youtube.com/watch?v=tNERidNiMNM"
+    }
+   ],
+   "youtube_ids": [
+    "Smws8uxBaSw",
+    "tNERidNiMNM"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/Smws8uxBaSw.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:5": {
+     "title": "Kundali Bhagya",
+     "year": "2017–2024",
+     "format": "tv",
+     "meta": "India · Hindi · Zee TV serial",
+     "character": "Preeta Arora / Luthra",
+     "summary": "Preeta becomes pregnant (Ep 1004, 2021) and is pregnant again in a later track (Ep 1261, Jun 2022).",
+     "categories": [
+      "pregnant",
+      "index-63"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 1004",
+       "title": "Preeta gets PREGNANT",
+       "gist": "pregnancy"
+      },
+      {
+       "episode": "Ep 1261",
+       "title": "Preeta hui pregnant!",
+       "gist": "later pregnancy"
+      }
+     ],
+     "kids_status": "unknown",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "outcome not stated in the uploads",
+     "pregnancy_note": "outcome not stated in the uploads",
+     "sources": [
+      {
+       "label": "Zee TV: Preeta gets PREGNANT Ep 1004",
+       "url": "https://www.youtube.com/watch?v=Smws8uxBaSw"
+      },
+      {
+       "label": "Zee TV: Preeta hui pregnant Ep 1261",
+       "url": "https://www.youtube.com/watch?v=tNERidNiMNM"
+      }
+     ],
+     "evidence": "multiple uploads: titles + descriptions",
+     "confidence_flag": "medium · official channel upload",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3103,
+   "title": "Yeh Teri Galiyan",
+   "subtitle": "",
+   "year": "2018–2019",
+   "meta": "India · Hindi · Zee TV serial",
+   "mechanism": "",
+   "confidence_flag": "medium · official channel upload",
+   "summary": "Asmita faints and learns she is pregnant just as she wants to surrender to the police (Ep 283); Nandini is also pregnant (Ep 286); a seven-month leap follows Asmita's check-ups.",
+   "character": "Asmita and Nandini",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "outcome not stated",
+   "episodes": [
+    {
+     "episode": "Ep 283",
+     "title": "Asmita is pregnant",
+     "gist": "Shantanu rushes her to a nursing home"
+    },
+    {
+     "episode": "Ep 286",
+     "title": "Nandini is pregnant",
+     "gist": "seven-month leap"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "outcome not stated",
+   "evidence": "multiple uploads: titles + descriptions",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant",
+    "index-63"
+   ],
+   "sources": [
+    {
+     "label": "Zee TV: Asmita is pregnant Ep 283",
+     "url": "https://www.youtube.com/watch?v=R1NtyIEkjyI"
+    },
+    {
+     "label": "Zee TV: Nandini is pregnant Ep 286",
+     "url": "https://www.youtube.com/watch?v=_huDm8AregE"
+    }
+   ],
+   "youtube_ids": [
+    "R1NtyIEkjyI",
+    "_huDm8AregE"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/R1NtyIEkjyI.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:6": {
+     "title": "Yeh Teri Galiyan",
+     "year": "2018–2019",
+     "format": "tv",
+     "meta": "India · Hindi · Zee TV serial",
+     "character": "Asmita and Nandini",
+     "summary": "Asmita faints and learns she is pregnant just as she wants to surrender to the police (Ep 283); Nandini is also pregnant (Ep 286); a seven-month leap follows Asmita's check-ups.",
+     "categories": [
+      "pregnant",
+      "index-63"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 283",
+       "title": "Asmita is pregnant",
+       "gist": "Shantanu rushes her to a nursing home"
+      },
+      {
+       "episode": "Ep 286",
+       "title": "Nandini is pregnant",
+       "gist": "seven-month leap"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "outcome not stated",
+     "pregnancy_note": "outcome not stated",
+     "sources": [
+      {
+       "label": "Zee TV: Asmita is pregnant Ep 283",
+       "url": "https://www.youtube.com/watch?v=R1NtyIEkjyI"
+      },
+      {
+       "label": "Zee TV: Nandini is pregnant Ep 286",
+       "url": "https://www.youtube.com/watch?v=_huDm8AregE"
+      }
+     ],
+     "evidence": "multiple uploads: titles + descriptions",
+     "confidence_flag": "medium · official channel upload",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3104,
+   "title": "Vasudha",
+   "subtitle": "",
+   "year": "2024–present",
+   "meta": "India · Hindi · Zee TV serial",
+   "mechanism": "",
+   "confidence_flag": "medium · official channel upload",
+   "summary": "Divya faints and is found to be pregnant with Devansh's child (2025); later the family questions Vasu's pregnancy (2026).",
+   "character": "Divya; Vasudha",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "outcome not stated",
+   "episodes": [
+    {
+     "episode": "2025 clip",
+     "title": "Vasudha's happy news!",
+     "gist": "Devansh to become a father"
+    },
+    {
+     "episode": "2026 clip",
+     "title": "Santosh doubts Vasu's pregnancy",
+     "gist": "suspicion"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "outcome not stated",
+   "evidence": "multiple uploads: titles + descriptions",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant",
+    "index-57"
+   ],
+   "sources": [
+    {
+     "label": "Zee TV: Vasudha's happy news",
+     "url": "https://www.youtube.com/watch?v=FefrKRo2N30"
+    },
+    {
+     "label": "Zee TV: Santosh ka shaq",
+     "url": "https://www.youtube.com/watch?v=9hck2qLDOXA"
+    }
+   ],
+   "youtube_ids": [
+    "FefrKRo2N30",
+    "9hck2qLDOXA"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/FefrKRo2N30.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:7": {
+     "title": "Vasudha",
+     "year": "2024–present",
+     "format": "tv",
+     "meta": "India · Hindi · Zee TV serial",
+     "character": "Divya; Vasudha",
+     "summary": "Divya faints and is found to be pregnant with Devansh's child (2025); later the family questions Vasu's pregnancy (2026).",
+     "categories": [
+      "pregnant",
+      "index-57"
+     ],
+     "episodes": [
+      {
+       "episode": "2025 clip",
+       "title": "Vasudha's happy news!",
+       "gist": "Devansh to become a father"
+      },
+      {
+       "episode": "2026 clip",
+       "title": "Santosh doubts Vasu's pregnancy",
+       "gist": "suspicion"
+      }
+     ],
+     "kids_status": "unknown",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "outcome not stated",
+     "pregnancy_note": "outcome not stated",
+     "sources": [
+      {
+       "label": "Zee TV: Vasudha's happy news",
+       "url": "https://www.youtube.com/watch?v=FefrKRo2N30"
+      },
+      {
+       "label": "Zee TV: Santosh ka shaq",
+       "url": "https://www.youtube.com/watch?v=9hck2qLDOXA"
+      }
+     ],
+     "evidence": "multiple uploads: titles + descriptions",
+     "confidence_flag": "medium · official channel upload",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3105,
+   "title": "Punar Vivaah – Zindagi Milegi Dobara",
+   "subtitle": "",
+   "year": "2012–2013",
+   "meta": "India · Hindi · Zee TV serial",
+   "mechanism": "",
+   "confidence_flag": "low · single upload title",
+   "summary": "The secret of Aarti's pregnancy comes out (Ep 162).",
+   "character": "Aarti",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "outcome not stated",
+   "episodes": [
+    {
+     "episode": "Ep 162",
+     "title": "Aarti's pregnancy secret revealed",
+     "gist": "reveal"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "outcome not stated",
+   "evidence": "official channel upload: title + description",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Zee TV: Punar Vivaah Ep 162",
+     "url": "https://www.youtube.com/watch?v=Blw497Q9_WQ"
+    }
+   ],
+   "youtube_ids": [
+    "Blw497Q9_WQ"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/Blw497Q9_WQ.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:8": {
+     "title": "Punar Vivaah – Zindagi Milegi Dobara",
+     "year": "2012–2013",
+     "format": "tv",
+     "meta": "India · Hindi · Zee TV serial",
+     "character": "Aarti",
+     "summary": "The secret of Aarti's pregnancy comes out (Ep 162).",
+     "categories": [
+      "pregnant"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 162",
+       "title": "Aarti's pregnancy secret revealed",
+       "gist": "reveal"
+      }
+     ],
+     "kids_status": "unknown",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "outcome not stated",
+     "pregnancy_note": "outcome not stated",
+     "sources": [
+      {
+       "label": "Zee TV: Punar Vivaah Ep 162",
+       "url": "https://www.youtube.com/watch?v=Blw497Q9_WQ"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "low · single upload title",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3106,
+   "title": "Tere Bina Jiya Jaye Naa",
+   "subtitle": "",
+   "year": "2022–2023",
+   "meta": "India · Hindi · Zee TV serial",
+   "mechanism": "",
+   "confidence_flag": "medium · official channel upload",
+   "summary": "Devraj is persuaded to divorce Krisha but changes his mind when the doctor reveals she is pregnant (Ep 197).",
+   "character": "Krisha",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "outcome not stated",
+   "episodes": [
+    {
+     "episode": "Ep 197",
+     "title": "Devraj learns Krisha is pregnant",
+     "gist": "divorce called off"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "outcome not stated",
+   "evidence": "official channel upload: title + description",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Zee TV: Ep 197",
+     "url": "https://www.youtube.com/watch?v=hsno-Trl2_o"
+    }
+   ],
+   "youtube_ids": [
+    "hsno-Trl2_o"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:9"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/hsno-Trl2_o.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:9": {
+     "title": "Tere Bina Jiya Jaye Naa",
+     "year": "2022–2023",
+     "format": "tv",
+     "meta": "India · Hindi · Zee TV serial",
+     "character": "Krisha",
+     "summary": "Devraj is persuaded to divorce Krisha but changes his mind when the doctor reveals she is pregnant (Ep 197).",
+     "categories": [
+      "pregnant"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 197",
+       "title": "Devraj learns Krisha is pregnant",
+       "gist": "divorce called off"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "outcome not stated",
+     "pregnancy_note": "outcome not stated",
+     "sources": [
+      {
+       "label": "Zee TV: Ep 197",
+       "url": "https://www.youtube.com/watch?v=hsno-Trl2_o"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "medium · official channel upload",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3107,
+   "title": "Bhagya Lakshmi",
+   "subtitle": "",
+   "year": "2021–2025",
+   "meta": "India · Hindi · Zee TV serial",
+   "mechanism": "",
+   "confidence_flag": "medium · official channel upload",
+   "summary": "Lakshmi hides her pregnancy from the family and Rishi while Malishka also announces a pregnancy; Guru Maa learns of Lakshmi's pregnancy (Ep 1159–1189, Dec 2024–Jan 2025).",
+   "character": "Lakshmi; Malishka",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "outcome not stated",
+   "episodes": [
+    {
+     "episode": "Ep 1159–1160",
+     "title": "Malishka's pregnancy news",
+     "gist": "Lakshmi upset"
+    },
+    {
+     "episode": "Jan 2025",
+     "title": "Lakshmi hides her pregnancy",
+     "gist": "doctor prevented from disclosing"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "outcome not stated",
+   "evidence": "multiple uploads: titles + descriptions",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant",
+    "index-63"
+   ],
+   "sources": [
+    {
+     "label": "Zee TV: Lakshmi hides pregnancy",
+     "url": "https://www.youtube.com/watch?v=s_k4_zT-Gjc"
+    },
+    {
+     "label": "Zee TV: Ep 1160",
+     "url": "https://www.youtube.com/watch?v=LvS05jV_HHk"
+    }
+   ],
+   "youtube_ids": [
+    "s_k4_zT-Gjc",
+    "LvS05jV_HHk"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:10"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/s_k4_zT-Gjc.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:10": {
+     "title": "Bhagya Lakshmi",
+     "year": "2021–2025",
+     "format": "tv",
+     "meta": "India · Hindi · Zee TV serial",
+     "character": "Lakshmi; Malishka",
+     "summary": "Lakshmi hides her pregnancy from the family and Rishi while Malishka also announces a pregnancy; Guru Maa learns of Lakshmi's pregnancy (Ep 1159–1189, Dec 2024–Jan 2025).",
+     "categories": [
+      "pregnant",
+      "index-63"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 1159–1160",
+       "title": "Malishka's pregnancy news",
+       "gist": "Lakshmi upset"
+      },
+      {
+       "episode": "Jan 2025",
+       "title": "Lakshmi hides her pregnancy",
+       "gist": "doctor prevented from disclosing"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "outcome not stated",
+     "pregnancy_note": "outcome not stated",
+     "sources": [
+      {
+       "label": "Zee TV: Lakshmi hides pregnancy",
+       "url": "https://www.youtube.com/watch?v=s_k4_zT-Gjc"
+      },
+      {
+       "label": "Zee TV: Ep 1160",
+       "url": "https://www.youtube.com/watch?v=LvS05jV_HHk"
+      }
+     ],
+     "evidence": "multiple uploads: titles + descriptions",
+     "confidence_flag": "medium · official channel upload",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3108,
+   "title": "Bade Achhe Lagte Hain 2",
+   "subtitle": "",
+   "year": "2021–2023",
+   "meta": "India · Hindi · Sony serial",
+   "mechanism": "",
+   "confidence_flag": "medium · official channel upload",
+   "summary": "Priya's pregnancy news (Ep 342, Dec 2022) comes amid family business tension; Nandini and Vedika's reactions are feared.",
+   "character": "Priya Kapoor",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "outcome not stated in the upload",
+   "episodes": [
+    {
+     "episode": "Ep 342",
+     "title": "Priya Ki Pregnancy Ki Khabar",
+     "gist": "news"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "outcome not stated in the upload",
+   "evidence": "official channel upload: title + description",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant",
+    "index-63"
+   ],
+   "sources": [
+    {
+     "label": "SET India: Ep 342",
+     "url": "https://www.youtube.com/watch?v=7kk5l5sLUdI"
+    }
+   ],
+   "youtube_ids": [
+    "7kk5l5sLUdI"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:12"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/7kk5l5sLUdI.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:12": {
+     "title": "Bade Achhe Lagte Hain 2",
+     "year": "2021–2023",
+     "format": "tv",
+     "meta": "India · Hindi · Sony serial",
+     "character": "Priya Kapoor",
+     "summary": "Priya's pregnancy news (Ep 342, Dec 2022) comes amid family business tension; Nandini and Vedika's reactions are feared.",
+     "categories": [
+      "pregnant",
+      "index-63"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 342",
+       "title": "Priya Ki Pregnancy Ki Khabar",
+       "gist": "news"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "outcome not stated in the upload",
+     "pregnancy_note": "outcome not stated in the upload",
+     "sources": [
+      {
+       "label": "SET India: Ep 342",
+       "url": "https://www.youtube.com/watch?v=7kk5l5sLUdI"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "medium · official channel upload",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3109,
+   "title": "Dil Diyaan Gallaan",
+   "subtitle": "",
+   "year": "2023",
+   "meta": "India · Hindi · Sony SAB serial",
+   "mechanism": "",
+   "confidence_flag": "medium · official channel upload",
+   "summary": "Amrita is told in front of everyone that she is pregnant; the story leaps eight months (Ep 222–226).",
+   "character": "Amrita",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "outcome not stated",
+   "episodes": [
+    {
+     "episode": "Ep 222",
+     "title": "Pregnancy Ki Sacchai",
+     "gist": "truth"
+    },
+    {
+     "episode": "Ep 226",
+     "title": "Amrita Is Pregnant",
+     "gist": "eight-month leap"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "outcome not stated",
+   "evidence": "official channel upload: title + description",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Sony SAB: Ep 226",
+     "url": "https://www.youtube.com/watch?v=jK93SNnFyLg"
+    }
+   ],
+   "youtube_ids": [
+    "jK93SNnFyLg"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:13"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/jK93SNnFyLg.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:13": {
+     "title": "Dil Diyaan Gallaan",
+     "year": "2023",
+     "format": "tv",
+     "meta": "India · Hindi · Sony SAB serial",
+     "character": "Amrita",
+     "summary": "Amrita is told in front of everyone that she is pregnant; the story leaps eight months (Ep 222–226).",
+     "categories": [
+      "pregnant"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 222",
+       "title": "Pregnancy Ki Sacchai",
+       "gist": "truth"
+      },
+      {
+       "episode": "Ep 226",
+       "title": "Amrita Is Pregnant",
+       "gist": "eight-month leap"
+      }
+     ],
+     "kids_status": "unknown",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "outcome not stated",
+     "pregnancy_note": "outcome not stated",
+     "sources": [
+      {
+       "label": "Sony SAB: Ep 226",
+       "url": "https://www.youtube.com/watch?v=jK93SNnFyLg"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "medium · official channel upload",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3110,
+   "title": "Pushpa Impossible",
+   "subtitle": "",
+   "year": "2022–2025",
+   "meta": "India · Hindi · Sony SAB serial",
+   "mechanism": "",
+   "confidence_flag": "medium · official channel upload",
+   "summary": "Pushpa learns Prarthana is pregnant; husband Chirag is delighted but Prarthana has mixed feelings (Ep 659, Jul 2024).",
+   "character": "Prarthana (daughter-in-law)",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "outcome not stated",
+   "episodes": [
+    {
+     "episode": "Ep 659",
+     "title": "Announcing Prarthana's Pregnancy",
+     "gist": "mixed feelings"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "outcome not stated",
+   "evidence": "official channel upload: title + description",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Sony SAB: Ep 659",
+     "url": "https://www.youtube.com/watch?v=pYYV9QBv4i4"
+    }
+   ],
+   "youtube_ids": [
+    "pYYV9QBv4i4"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:14"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/pYYV9QBv4i4.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:14": {
+     "title": "Pushpa Impossible",
+     "year": "2022–2025",
+     "format": "tv",
+     "meta": "India · Hindi · Sony SAB serial",
+     "character": "Prarthana (daughter-in-law)",
+     "summary": "Pushpa learns Prarthana is pregnant; husband Chirag is delighted but Prarthana has mixed feelings (Ep 659, Jul 2024).",
+     "categories": [
+      "pregnant"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 659",
+       "title": "Announcing Prarthana's Pregnancy",
+       "gist": "mixed feelings"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "outcome not stated",
+     "pregnancy_note": "outcome not stated",
+     "sources": [
+      {
+       "label": "Sony SAB: Ep 659",
+       "url": "https://www.youtube.com/watch?v=pYYV9QBv4i4"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "medium · official channel upload",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3111,
+   "title": "Dabangii: Mulgii Aayi Re Aayi",
+   "subtitle": "",
+   "year": "2023–2024",
+   "meta": "India · Hindi · Sony serial",
+   "mechanism": "",
+   "confidence_flag": "low · single upload",
+   "summary": "Eklavya is stressed to learn Zai is pregnant; Zai reacts badly to medicines given by Arya (Ep 164).",
+   "character": "Zai",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "outcome not stated",
+   "episodes": [
+    {
+     "episode": "Ep 164",
+     "title": "Zai's Pregnancy",
+     "gist": "bad reaction to medicine"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Eklavya already has a daughter (Arya) per the show premise; Zai's own children not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "outcome not stated",
+   "evidence": "official channel upload: title + description",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant",
+    "index-58"
+   ],
+   "sources": [
+    {
+     "label": "SET India: Ep 164",
+     "url": "https://www.youtube.com/watch?v=HSjQ6BEE8jg"
+    }
+   ],
+   "youtube_ids": [
+    "HSjQ6BEE8jg"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:15"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/HSjQ6BEE8jg.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:15": {
+     "title": "Dabangii: Mulgii Aayi Re Aayi",
+     "year": "2023–2024",
+     "format": "tv",
+     "meta": "India · Hindi · Sony serial",
+     "character": "Zai",
+     "summary": "Eklavya is stressed to learn Zai is pregnant; Zai reacts badly to medicines given by Arya (Ep 164).",
+     "categories": [
+      "pregnant",
+      "index-58"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 164",
+       "title": "Zai's Pregnancy",
+       "gist": "bad reaction to medicine"
+      }
+     ],
+     "kids_status": "unknown",
+     "kids_note": "Eklavya already has a daughter (Arya) per the show premise; Zai's own children not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "outcome not stated",
+     "pregnancy_note": "outcome not stated",
+     "sources": [
+      {
+       "label": "SET India: Ep 164",
+       "url": "https://www.youtube.com/watch?v=HSjQ6BEE8jg"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "low · single upload",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3112,
+   "title": "Story 9 Months Ki",
+   "subtitle": "",
+   "year": "2020–2021",
+   "meta": "India · Hindi · Sony serial",
+   "mechanism": "",
+   "confidence_flag": "medium · official upload + premise",
+   "summary": "A single career woman decides to have a baby through a sperm donor/IVF; the series follows her pregnancy.",
+   "character": "Aliya",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "outcome not stated in the premiere upload",
+   "episodes": [
+    {
+     "episode": "Ep 1",
+     "title": "Staying Connected",
+     "gist": "premiere"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "none",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "outcome not stated in the premiere upload",
+   "evidence": "official channel upload: title + description",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "index-59"
+   ],
+   "sources": [
+    {
+     "label": "SET India: Ep 1",
+     "url": "https://www.youtube.com/watch?v=Bh-i2Q90oCY"
+    }
+   ],
+   "youtube_ids": [
+    "Bh-i2Q90oCY"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:16"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/Bh-i2Q90oCY.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:16": {
+     "title": "Story 9 Months Ki",
+     "year": "2020–2021",
+     "format": "tv",
+     "meta": "India · Hindi · Sony serial",
+     "character": "Aliya",
+     "summary": "A single career woman decides to have a baby through a sperm donor/IVF; the series follows her pregnancy.",
+     "categories": [
+      "index-59"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 1",
+       "title": "Staying Connected",
+       "gist": "premiere"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "none",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "outcome not stated in the premiere upload",
+     "pregnancy_note": "outcome not stated in the premiere upload",
+     "sources": [
+      {
+       "label": "SET India: Ep 1",
+       "url": "https://www.youtube.com/watch?v=Bh-i2Q90oCY"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "medium · official upload + premise",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3113,
+   "title": "Punyashlok Ahilyabai",
+   "subtitle": "",
+   "year": "2021–2023",
+   "meta": "India · Hindi · Sony serial",
+   "mechanism": "",
+   "confidence_flag": "medium · official channel upload",
+   "summary": "Devastated by Khanderao's second wedding, Ahilya's pregnancy comes to light (Ep 335, Apr 2022).",
+   "character": "Ahilya",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "outcome not stated in the upload",
+   "episodes": [
+    {
+     "episode": "Ep 335",
+     "title": "The News Is Out",
+     "gist": "pregnancy revealed"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "outcome not stated in the upload",
+   "evidence": "official channel upload: title + description",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "SET India: Ep 335",
+     "url": "https://www.youtube.com/watch?v=qhVnlKGF9l0"
+    }
+   ],
+   "youtube_ids": [
+    "qhVnlKGF9l0"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:17"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/qhVnlKGF9l0.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:17": {
+     "title": "Punyashlok Ahilyabai",
+     "year": "2021–2023",
+     "format": "tv",
+     "meta": "India · Hindi · Sony serial",
+     "character": "Ahilya",
+     "summary": "Devastated by Khanderao's second wedding, Ahilya's pregnancy comes to light (Ep 335, Apr 2022).",
+     "categories": [
+      "pregnant"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 335",
+       "title": "The News Is Out",
+       "gist": "pregnancy revealed"
+      }
+     ],
+     "kids_status": "unknown",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "outcome not stated in the upload",
+     "pregnancy_note": "outcome not stated in the upload",
+     "sources": [
+      {
+       "label": "SET India: Ep 335",
+       "url": "https://www.youtube.com/watch?v=qhVnlKGF9l0"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "medium · official channel upload",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3114,
+   "title": "Pocket Mein Aasman",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "India · Hindi · StarPlus serial",
+   "mechanism": "",
+   "confidence_flag": "medium · official channel upload",
+   "summary": "Rani, who dreams of becoming a doctor, learns she is pregnant (Ep 36); the premise says she will become both a mother and a doctor.",
+   "character": "Rani",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "not stated",
+   "episodes": [
+    {
+     "episode": "Ep 36",
+     "title": "Rani Is Pregnant!",
+     "gist": "precap"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "evidence": "official channel upload: title + description",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "StarPlus: Ep 36",
+     "url": "https://www.youtube.com/watch?v=EJECDOXafcI"
+    }
+   ],
+   "youtube_ids": [
+    "EJECDOXafcI"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:18"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/EJECDOXafcI.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:18": {
+     "title": "Pocket Mein Aasman",
+     "year": "2025",
+     "format": "tv",
+     "meta": "India · Hindi · StarPlus serial",
+     "character": "Rani",
+     "summary": "Rani, who dreams of becoming a doctor, learns she is pregnant (Ep 36); the premise says she will become both a mother and a doctor.",
+     "categories": [
+      "pregnant"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 36",
+       "title": "Rani Is Pregnant!",
+       "gist": "precap"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "not stated",
+     "pregnancy_note": "not stated",
+     "sources": [
+      {
+       "label": "StarPlus: Ep 36",
+       "url": "https://www.youtube.com/watch?v=EJECDOXafcI"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "medium · official channel upload",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3115,
+   "title": "Ishqbaaz",
+   "subtitle": "",
+   "year": "2016–2019",
+   "meta": "India · Hindi · StarPlus serial",
+   "mechanism": "",
+   "confidence_flag": "low · question-title upload",
+   "summary": "The family asks whether Tia is pregnant (Ep 163–164).",
+   "character": "Tia",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "not stated in the upload",
+   "episodes": [
+    {
+     "episode": "Ep 163–164",
+     "title": "Is Tia Pregnant?",
+     "gist": "question"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated in the upload",
+   "evidence": "official channel upload: title + description",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant",
+    "index-57"
+   ],
+   "sources": [
+    {
+     "label": "StarPlus: Ep 163-164",
+     "url": "https://www.youtube.com/watch?v=IAx2pJ-ASwY"
+    }
+   ],
+   "youtube_ids": [
+    "IAx2pJ-ASwY"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:19"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/IAx2pJ-ASwY.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:19": {
+     "title": "Ishqbaaz",
+     "year": "2016–2019",
+     "format": "tv",
+     "meta": "India · Hindi · StarPlus serial",
+     "character": "Tia",
+     "summary": "The family asks whether Tia is pregnant (Ep 163–164).",
+     "categories": [
+      "pregnant",
+      "index-57"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 163–164",
+       "title": "Is Tia Pregnant?",
+       "gist": "question"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "not stated in the upload",
+     "pregnancy_note": "not stated in the upload",
+     "sources": [
+      {
+       "label": "StarPlus: Ep 163-164",
+       "url": "https://www.youtube.com/watch?v=IAx2pJ-ASwY"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "low · question-title upload",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3116,
+   "title": "Udaariyaan",
+   "subtitle": "",
+   "year": "2021–2024",
+   "meta": "India · Hindi / Punjabi · Colors TV serial",
+   "mechanism": "",
+   "confidence_flag": "medium · promo/news uploads",
+   "summary": "Tejo tells Fateh she is pregnant (Ep 442) and later reveals the death of her unborn child; in later generations Nehmat's pregnancy truth comes out and Asma is pregnant (Ep 975).",
+   "character": "Tejo; Nehmat; Asma",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "Tejo's unborn child dies (per promo titles); others not stated",
+   "episodes": [
+    {
+     "episode": "Ep 442",
+     "title": "Tejo breaks pregnancy news to Fateh",
+     "gist": "news"
+    },
+    {
+     "episode": "later",
+     "title": "Tejo reveals her unborn child's death",
+     "gist": "loss"
+    },
+    {
+     "episode": "Ep ~715",
+     "title": "Nehmat's pregnancy truth",
+     "gist": "reveal"
+    },
+    {
+     "episode": "Ep 975",
+     "title": "Asma is pregnant",
+     "gist": "pregnancy"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "not stated",
+   "pregnant_end": "no",
+   "pregnant_end_note": "Tejo's unborn child dies (per promo titles); others not stated",
+   "evidence": "multiple uploads: titles + descriptions",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant",
+    "index-57"
+   ],
+   "sources": [
+    {
+     "label": "FilmiBeat promo Ep 442",
+     "url": "https://www.youtube.com/watch?v=WxUOsGxk45g"
+    },
+    {
+     "label": "IWMBuzz: Tejo reveals unborn child's death",
+     "url": "https://www.youtube.com/watch?v=gCSwBwrXTdE"
+    }
+   ],
+   "youtube_ids": [
+    "WxUOsGxk45g",
+    "gCSwBwrXTdE"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:20"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/WxUOsGxk45g.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:20": {
+     "title": "Udaariyaan",
+     "year": "2021–2024",
+     "format": "tv",
+     "meta": "India · Hindi / Punjabi · Colors TV serial",
+     "character": "Tejo; Nehmat; Asma",
+     "summary": "Tejo tells Fateh she is pregnant (Ep 442) and later reveals the death of her unborn child; in later generations Nehmat's pregnancy truth comes out and Asma is pregnant (Ep 975).",
+     "categories": [
+      "pregnant",
+      "index-57"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 442",
+       "title": "Tejo breaks pregnancy news to Fateh",
+       "gist": "news"
+      },
+      {
+       "episode": "later",
+       "title": "Tejo reveals her unborn child's death",
+       "gist": "loss"
+      },
+      {
+       "episode": "Ep ~715",
+       "title": "Nehmat's pregnancy truth",
+       "gist": "reveal"
+      },
+      {
+       "episode": "Ep 975",
+       "title": "Asma is pregnant",
+       "gist": "pregnancy"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "not stated",
+     "pregnant_end": "no",
+     "pregnant_end_note": "Tejo's unborn child dies (per promo titles); others not stated",
+     "pregnancy_note": "Tejo's unborn child dies (per promo titles); others not stated",
+     "sources": [
+      {
+       "label": "FilmiBeat promo Ep 442",
+       "url": "https://www.youtube.com/watch?v=WxUOsGxk45g"
+      },
+      {
+       "label": "IWMBuzz: Tejo reveals unborn child's death",
+       "url": "https://www.youtube.com/watch?v=gCSwBwrXTdE"
+      }
+     ],
+     "evidence": "multiple uploads: titles + descriptions",
+     "confidence_flag": "medium · promo/news uploads",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3117,
+   "title": "Mannat",
+   "subtitle": "",
+   "year": "2024–2025",
+   "meta": "India · Hindi · Colors TV serial",
+   "mechanism": "",
+   "confidence_flag": "medium · official channel upload",
+   "summary": "Mannat wants to tell Vikrant she is pregnant, but Vishakha's misunderstanding gets in the way.",
+   "character": "Mannat",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "not stated",
+   "episodes": [
+    {
+     "episode": "Dec 2025 clip",
+     "title": "Mannat Is Pregnant",
+     "gist": "news withheld"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "evidence": "official channel upload: title + description",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Colors TV: Mannat Is Pregnant",
+     "url": "https://www.youtube.com/watch?v=gcI2VPuoXxU"
+    }
+   ],
+   "youtube_ids": [
+    "gcI2VPuoXxU"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:21"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/gcI2VPuoXxU.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:21": {
+     "title": "Mannat",
+     "year": "2024–2025",
+     "format": "tv",
+     "meta": "India · Hindi · Colors TV serial",
+     "character": "Mannat",
+     "summary": "Mannat wants to tell Vikrant she is pregnant, but Vishakha's misunderstanding gets in the way.",
+     "categories": [
+      "pregnant"
+     ],
+     "episodes": [
+      {
+       "episode": "Dec 2025 clip",
+       "title": "Mannat Is Pregnant",
+       "gist": "news withheld"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "not stated",
+     "pregnancy_note": "not stated",
+     "sources": [
+      {
+       "label": "Colors TV: Mannat Is Pregnant",
+       "url": "https://www.youtube.com/watch?v=gcI2VPuoXxU"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "medium · official channel upload",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3118,
+   "title": "Kasam – Tere Pyaar Ki",
+   "subtitle": "",
+   "year": "2016–2018",
+   "meta": "India · Hindi · Colors TV serial",
+   "mechanism": "",
+   "confidence_flag": "low · single clip",
+   "summary": "Smiley's pregnancy news shocks the whole family.",
+   "character": "Smiley",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "not stated",
+   "episodes": [
+    {
+     "episode": "clip",
+     "title": "Smiley's Pregnancy News Shocks the Entire Family",
+     "gist": "shock"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "evidence": "official channel upload: title + description",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Colors TV clip",
+     "url": "https://www.youtube.com/watch?v=EpNGK4Gbt8g"
+    }
+   ],
+   "youtube_ids": [
+    "EpNGK4Gbt8g"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:22"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/EpNGK4Gbt8g.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:22": {
+     "title": "Kasam – Tere Pyaar Ki",
+     "year": "2016–2018",
+     "format": "tv",
+     "meta": "India · Hindi · Colors TV serial",
+     "character": "Smiley",
+     "summary": "Smiley's pregnancy news shocks the whole family.",
+     "categories": [
+      "pregnant"
+     ],
+     "episodes": [
+      {
+       "episode": "clip",
+       "title": "Smiley's Pregnancy News Shocks the Entire Family",
+       "gist": "shock"
+      }
+     ],
+     "kids_status": "unknown",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "not stated",
+     "pregnancy_note": "not stated",
+     "sources": [
+      {
+       "label": "Colors TV clip",
+       "url": "https://www.youtube.com/watch?v=EpNGK4Gbt8g"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "low · single clip",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3119,
+   "title": "Mangal Lakshmi",
+   "subtitle": "",
+   "year": "2024–present",
+   "meta": "India · Hindi · Colors TV serial",
+   "mechanism": "",
+   "confidence_flag": "medium · official channel upload",
+   "summary": "Adit hides Saumya's pregnancy news from Mangal (Ep 594).",
+   "character": "Saumya",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "not stated",
+   "episodes": [
+    {
+     "episode": "Ep 594",
+     "title": "Adit hides Saumya's pregnancy news",
+     "gist": "secret"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "evidence": "official channel upload: title + description",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Colors TV: Ep 594 recap",
+     "url": "https://www.youtube.com/watch?v=mOr185pjRbg"
+    }
+   ],
+   "youtube_ids": [
+    "mOr185pjRbg"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:23"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/mOr185pjRbg.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:23": {
+     "title": "Mangal Lakshmi",
+     "year": "2024–present",
+     "format": "tv",
+     "meta": "India · Hindi · Colors TV serial",
+     "character": "Saumya",
+     "summary": "Adit hides Saumya's pregnancy news from Mangal (Ep 594).",
+     "categories": [
+      "pregnant"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 594",
+       "title": "Adit hides Saumya's pregnancy news",
+       "gist": "secret"
+      }
+     ],
+     "kids_status": "unknown",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "not stated",
+     "pregnancy_note": "not stated",
+     "sources": [
+      {
+       "label": "Colors TV: Ep 594 recap",
+       "url": "https://www.youtube.com/watch?v=mOr185pjRbg"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "medium · official channel upload",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3120,
+   "title": "Choti Sarrdaarni",
+   "subtitle": "",
+   "year": "2019–2021",
+   "meta": "India · Hindi · Colors TV serial",
+   "mechanism": "",
+   "confidence_flag": "medium · official channel upload",
+   "summary": "Meher prepares to reveal her pregnancy to her husband Sarab and fears he may blame her.",
+   "character": "Meher",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "not stated in the promo",
+   "episodes": [
+    {
+     "episode": "promo",
+     "title": "Meher's Pregnancy Reveal",
+     "gist": "how will Sarab react"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "yes",
+   "kids_note": "Meher already has a son, Param, from her earlier relationship (series premise)",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated in the promo",
+   "evidence": "official channel upload: title + description",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant",
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Colors TV International promo",
+     "url": "https://www.youtube.com/watch?v=AIMU64-j9zY"
+    }
+   ],
+   "youtube_ids": [
+    "AIMU64-j9zY"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:24"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/AIMU64-j9zY.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:24": {
+     "title": "Choti Sarrdaarni",
+     "year": "2019–2021",
+     "format": "tv",
+     "meta": "India · Hindi · Colors TV serial",
+     "character": "Meher",
+     "summary": "Meher prepares to reveal her pregnancy to her husband Sarab and fears he may blame her.",
+     "categories": [
+      "pregnant",
+      "mom-pregnancy"
+     ],
+     "episodes": [
+      {
+       "episode": "promo",
+       "title": "Meher's Pregnancy Reveal",
+       "gist": "how will Sarab react"
+      }
+     ],
+     "kids_status": "yes",
+     "kids_note": "Meher already has a son, Param, from her earlier relationship (series premise)",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "not stated in the promo",
+     "pregnancy_note": "not stated in the promo",
+     "sources": [
+      {
+       "label": "Colors TV International promo",
+       "url": "https://www.youtube.com/watch?v=AIMU64-j9zY"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "medium · official channel upload",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3121,
+   "title": "Dil Se Dil Tak",
+   "subtitle": "",
+   "year": "2017–2018",
+   "meta": "India · Hindi · Colors TV serial",
+   "mechanism": "",
+   "confidence_flag": "medium · official channel upload",
+   "summary": "The Bhanushali family receives wonderful news about Shorvori's pregnancy.",
+   "character": "Shorvori Bhanushali",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "not stated",
+   "episodes": [
+    {
+     "episode": "clip",
+     "title": "Shorvori's pregnancy news",
+     "gist": "joy"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "evidence": "multiple uploads: titles + descriptions",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Colors TV clip",
+     "url": "https://www.youtube.com/watch?v=SPFYMF5e5Qw"
+    },
+    {
+     "label": "Colors TV clip 2",
+     "url": "https://www.youtube.com/watch?v=xnS-7v4of4M"
+    }
+   ],
+   "youtube_ids": [
+    "SPFYMF5e5Qw",
+    "xnS-7v4of4M"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:25"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/SPFYMF5e5Qw.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:25": {
+     "title": "Dil Se Dil Tak",
+     "year": "2017–2018",
+     "format": "tv",
+     "meta": "India · Hindi · Colors TV serial",
+     "character": "Shorvori Bhanushali",
+     "summary": "The Bhanushali family receives wonderful news about Shorvori's pregnancy.",
+     "categories": [
+      "pregnant"
+     ],
+     "episodes": [
+      {
+       "episode": "clip",
+       "title": "Shorvori's pregnancy news",
+       "gist": "joy"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "not stated",
+     "pregnancy_note": "not stated",
+     "sources": [
+      {
+       "label": "Colors TV clip",
+       "url": "https://www.youtube.com/watch?v=SPFYMF5e5Qw"
+      },
+      {
+       "label": "Colors TV clip 2",
+       "url": "https://www.youtube.com/watch?v=xnS-7v4of4M"
+      }
+     ],
+     "evidence": "multiple uploads: titles + descriptions",
+     "confidence_flag": "medium · official channel upload",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3122,
+   "title": "Diya Aur Baati Hum",
+   "subtitle": "",
+   "year": "2011–2016",
+   "meta": "India · Hindi · StarPlus serial",
+   "mechanism": "",
+   "confidence_flag": "low · single clip",
+   "summary": "Sandhya gives Sooraj good news of her pregnancy.",
+   "character": "Sandhya Rathi",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "not stated in the clip",
+   "episodes": [
+    {
+     "episode": "clip",
+     "title": "Sandhya gives Sooraj good news",
+     "gist": "news"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated in the clip",
+   "evidence": "official channel upload: title + description",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "StarPlus clip",
+     "url": "https://www.youtube.com/watch?v=La0-qBkJtYc"
+    }
+   ],
+   "youtube_ids": [
+    "La0-qBkJtYc"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:26"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/La0-qBkJtYc.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:26": {
+     "title": "Diya Aur Baati Hum",
+     "year": "2011–2016",
+     "format": "tv",
+     "meta": "India · Hindi · StarPlus serial",
+     "character": "Sandhya Rathi",
+     "summary": "Sandhya gives Sooraj good news of her pregnancy.",
+     "categories": [
+      "pregnant"
+     ],
+     "episodes": [
+      {
+       "episode": "clip",
+       "title": "Sandhya gives Sooraj good news",
+       "gist": "news"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "not stated in the clip",
+     "pregnancy_note": "not stated in the clip",
+     "sources": [
+      {
+       "label": "StarPlus clip",
+       "url": "https://www.youtube.com/watch?v=La0-qBkJtYc"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "low · single clip",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3123,
+   "title": "Phulwa",
+   "subtitle": "",
+   "year": "2011–2012",
+   "meta": "India · Hindi · Colors TV serial",
+   "mechanism": "",
+   "confidence_flag": "low · single clip",
+   "summary": "Aarti receives her pregnancy news.",
+   "character": "Aarti",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "not stated",
+   "episodes": [
+    {
+     "episode": "clip",
+     "title": "Aarti gets her Pregnancy News",
+     "gist": "news"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "evidence": "official channel upload: title + description",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Colors Rishtey clip",
+     "url": "https://www.youtube.com/watch?v=DUSjUNJ9KHI"
+    }
+   ],
+   "youtube_ids": [
+    "DUSjUNJ9KHI"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:27"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/DUSjUNJ9KHI.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:27": {
+     "title": "Phulwa",
+     "year": "2011–2012",
+     "format": "tv",
+     "meta": "India · Hindi · Colors TV serial",
+     "character": "Aarti",
+     "summary": "Aarti receives her pregnancy news.",
+     "categories": [
+      "pregnant"
+     ],
+     "episodes": [
+      {
+       "episode": "clip",
+       "title": "Aarti gets her Pregnancy News",
+       "gist": "news"
+      }
+     ],
+     "kids_status": "unknown",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "not stated",
+     "pregnancy_note": "not stated",
+     "sources": [
+      {
+       "label": "Colors Rishtey clip",
+       "url": "https://www.youtube.com/watch?v=DUSjUNJ9KHI"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "low · single clip",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3124,
+   "title": "Shyamambaram",
+   "subtitle": "",
+   "year": "2023–2025",
+   "meta": "India · Malayalam · Zee Keralam serial",
+   "mechanism": "",
+   "confidence_flag": "medium · official channel upload",
+   "summary": "Aishwarya becomes pregnant (Ep 175); later the pregnant Shyama is pushed off the stairs by Aishwarya and rushed to hospital (Ep 568).",
+   "character": "Aishwarya; Shyama",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "not stated",
+   "episodes": [
+    {
+     "episode": "Ep 175",
+     "title": "Aishwarya Becomes Pregnant",
+     "gist": "pregnancy"
+    },
+    {
+     "episode": "Ep 568",
+     "title": "No pregnant lady should go through this",
+     "gist": "Shyama attacked"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "evidence": "multiple uploads: titles + descriptions",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant",
+    "index-58"
+   ],
+   "sources": [
+    {
+     "label": "Zee Keralam Ep 175",
+     "url": "https://www.youtube.com/watch?v=PYx-W_KBlko"
+    },
+    {
+     "label": "Zee Keralam Ep 568",
+     "url": "https://www.youtube.com/watch?v=lNfGeKBxbZY"
+    }
+   ],
+   "youtube_ids": [
+    "PYx-W_KBlko",
+    "lNfGeKBxbZY"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:28"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/PYx-W_KBlko.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:28": {
+     "title": "Shyamambaram",
+     "year": "2023–2025",
+     "format": "tv",
+     "meta": "India · Malayalam · Zee Keralam serial",
+     "character": "Aishwarya; Shyama",
+     "summary": "Aishwarya becomes pregnant (Ep 175); later the pregnant Shyama is pushed off the stairs by Aishwarya and rushed to hospital (Ep 568).",
+     "categories": [
+      "pregnant",
+      "index-58"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 175",
+       "title": "Aishwarya Becomes Pregnant",
+       "gist": "pregnancy"
+      },
+      {
+       "episode": "Ep 568",
+       "title": "No pregnant lady should go through this",
+       "gist": "Shyama attacked"
+      }
+     ],
+     "kids_status": "unknown",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "not stated",
+     "pregnancy_note": "not stated",
+     "sources": [
+      {
+       "label": "Zee Keralam Ep 175",
+       "url": "https://www.youtube.com/watch?v=PYx-W_KBlko"
+      },
+      {
+       "label": "Zee Keralam Ep 568",
+       "url": "https://www.youtube.com/watch?v=lNfGeKBxbZY"
+      }
+     ],
+     "evidence": "multiple uploads: titles + descriptions",
+     "confidence_flag": "medium · official channel upload",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3125,
+   "title": "Parvathy",
+   "subtitle": "",
+   "year": "2023–2025",
+   "meta": "India · Malayalam · Zee Keralam serial",
+   "mechanism": "",
+   "confidence_flag": "medium · official channel upload",
+   "summary": "Ria's plan to frame Parvathy fails, and Ria tells Prabhavathy that Parvathy is pregnant (Ep 405).",
+   "character": "Parvathy",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "not stated",
+   "episodes": [
+    {
+     "episode": "Ep 405",
+     "title": "Parvathy is pregnant",
+     "gist": "reveal"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "evidence": "official channel upload: title + description",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Zee Keralam Ep 405",
+     "url": "https://www.youtube.com/watch?v=4S411iwGi7I"
+    }
+   ],
+   "youtube_ids": [
+    "4S411iwGi7I"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:29"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/4S411iwGi7I.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:29": {
+     "title": "Parvathy",
+     "year": "2023–2025",
+     "format": "tv",
+     "meta": "India · Malayalam · Zee Keralam serial",
+     "character": "Parvathy",
+     "summary": "Ria's plan to frame Parvathy fails, and Ria tells Prabhavathy that Parvathy is pregnant (Ep 405).",
+     "categories": [
+      "pregnant"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 405",
+       "title": "Parvathy is pregnant",
+       "gist": "reveal"
+      }
+     ],
+     "kids_status": "unknown",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "not stated",
+     "pregnancy_note": "not stated",
+     "sources": [
+      {
+       "label": "Zee Keralam Ep 405",
+       "url": "https://www.youtube.com/watch?v=4S411iwGi7I"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "medium · official channel upload",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3126,
+   "title": "Suryaputhri",
+   "subtitle": "",
+   "year": "2000s",
+   "meta": "India · Malayalam serial (PMI Classics)",
+   "mechanism": "",
+   "confidence_flag": "medium · uploader synopsis",
+   "summary": "Kalyani joyfully announces her pregnancy, but husband Sukhu, poisoned by his mother, denies the child is his because they sleep apart and tells her to leave (Ep 75).",
+   "character": "Kalyani",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "not stated",
+   "episodes": [
+    {
+     "episode": "Ep 75",
+     "title": "Kalyani Is Pregnant — But Sukhu Says It's Not His",
+     "gist": "paternity denied"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "evidence": "official channel upload: title + description",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant",
+    "index-57"
+   ],
+   "sources": [
+    {
+     "label": "PMI Classics Ep 75",
+     "url": "https://www.youtube.com/watch?v=UBll5tZu4y0"
+    }
+   ],
+   "youtube_ids": [
+    "UBll5tZu4y0"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:30"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/UBll5tZu4y0.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:30": {
+     "title": "Suryaputhri",
+     "year": "2000s",
+     "format": "tv",
+     "meta": "India · Malayalam serial (PMI Classics)",
+     "character": "Kalyani",
+     "summary": "Kalyani joyfully announces her pregnancy, but husband Sukhu, poisoned by his mother, denies the child is his because they sleep apart and tells her to leave (Ep 75).",
+     "categories": [
+      "pregnant",
+      "index-57"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 75",
+       "title": "Kalyani Is Pregnant — But Sukhu Says It's Not His",
+       "gist": "paternity denied"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "not stated",
+     "pregnancy_note": "not stated",
+     "sources": [
+      {
+       "label": "PMI Classics Ep 75",
+       "url": "https://www.youtube.com/watch?v=UBll5tZu4y0"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "medium · uploader synopsis",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3127,
+   "title": "Naagini 2",
+   "subtitle": "",
+   "year": "2019–2023",
+   "meta": "India · Kannada · Zee Kannada serial",
+   "mechanism": "",
+   "confidence_flag": "low · title only",
+   "summary": "Shivani becomes pregnant (Ep 456).",
+   "character": "Shivani",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "not stated",
+   "episodes": [
+    {
+     "episode": "Ep 456",
+     "title": "Garbhiniyaaguva Shivani",
+     "gist": "pregnancy"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "evidence": "official channel upload: title + description",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Zee Kannada Ep 456",
+     "url": "https://www.youtube.com/watch?v=e_E74I-CkGA"
+    }
+   ],
+   "youtube_ids": [
+    "e_E74I-CkGA"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:31"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/e_E74I-CkGA.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:31": {
+     "title": "Naagini 2",
+     "year": "2019–2023",
+     "format": "tv",
+     "meta": "India · Kannada · Zee Kannada serial",
+     "character": "Shivani",
+     "summary": "Shivani becomes pregnant (Ep 456).",
+     "categories": [
+      "pregnant"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 456",
+       "title": "Garbhiniyaaguva Shivani",
+       "gist": "pregnancy"
+      }
+     ],
+     "kids_status": "unknown",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "not stated",
+     "pregnancy_note": "not stated",
+     "sources": [
+      {
+       "label": "Zee Kannada Ep 456",
+       "url": "https://www.youtube.com/watch?v=e_E74I-CkGA"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "low · title only",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3128,
+   "title": "Joyee",
+   "subtitle": "",
+   "year": "2018–2020",
+   "meta": "India · Bengali · Zee Bangla serial",
+   "mechanism": "",
+   "confidence_flag": "low · title only",
+   "summary": "Joyee is going to become a mother (Ep 569).",
+   "character": "Joyee",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "not stated",
+   "episodes": [
+    {
+     "episode": "Ep 569",
+     "title": "Maa hote cholechhe Joyee",
+     "gist": "pregnancy"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "evidence": "official channel upload: title + description",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Zee Bangla Ep 569",
+     "url": "https://www.youtube.com/watch?v=_Y5xgH-orXY"
+    }
+   ],
+   "youtube_ids": [
+    "_Y5xgH-orXY"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:32"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/_Y5xgH-orXY.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:32": {
+     "title": "Joyee",
+     "year": "2018–2020",
+     "format": "tv",
+     "meta": "India · Bengali · Zee Bangla serial",
+     "character": "Joyee",
+     "summary": "Joyee is going to become a mother (Ep 569).",
+     "categories": [
+      "pregnant"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 569",
+       "title": "Maa hote cholechhe Joyee",
+       "gist": "pregnancy"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "not stated",
+     "pregnancy_note": "not stated",
+     "sources": [
+      {
+       "label": "Zee Bangla Ep 569",
+       "url": "https://www.youtube.com/watch?v=_Y5xgH-orXY"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "low · title only",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3129,
+   "title": "Tula Japnar Aahe",
+   "subtitle": "",
+   "year": "2025–present",
+   "meta": "India · Marathi · Zee Marathi serial",
+   "mechanism": "",
+   "confidence_flag": "medium · official channel upload",
+   "summary": "A doctor congratulates Atharva, revealing Meera is pregnant; Maya and Manjiri react with shock and suspicion.",
+   "character": "Meera",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "not stated",
+   "episodes": [
+    {
+     "episode": "Sep 2026 clip",
+     "title": "Meera garodar aahe!",
+     "gist": "Atharva shocked"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "evidence": "official channel upload: title + description",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Zee Marathi clip",
+     "url": "https://www.youtube.com/watch?v=L6J8rB-nXCc"
+    }
+   ],
+   "youtube_ids": [
+    "L6J8rB-nXCc"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:33"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/L6J8rB-nXCc.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:33": {
+     "title": "Tula Japnar Aahe",
+     "year": "2025–present",
+     "format": "tv",
+     "meta": "India · Marathi · Zee Marathi serial",
+     "character": "Meera",
+     "summary": "A doctor congratulates Atharva, revealing Meera is pregnant; Maya and Manjiri react with shock and suspicion.",
+     "categories": [
+      "pregnant"
+     ],
+     "episodes": [
+      {
+       "episode": "Sep 2026 clip",
+       "title": "Meera garodar aahe!",
+       "gist": "Atharva shocked"
+      }
+     ],
+     "kids_status": "unknown",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "not stated",
+     "pregnancy_note": "not stated",
+     "sources": [
+      {
+       "label": "Zee Marathi clip",
+       "url": "https://www.youtube.com/watch?v=L6J8rB-nXCc"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "medium · official channel upload",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3130,
+   "title": "Honaar Soon Mee Hyaa Gharchi",
+   "subtitle": "",
+   "year": "2013–2016",
+   "meta": "India · Marathi · Zee Marathi serial",
+   "mechanism": "",
+   "confidence_flag": "medium · official channel upload",
+   "summary": "Pregnant Janhvi stumbles and falls (Ep 680).",
+   "character": "Janhvi",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "not stated in the upload",
+   "episodes": [
+    {
+     "episode": "Ep 680",
+     "title": "Garodar Janhvi dhadpadli",
+     "gist": "fall"
+    }
+   ],
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated in the upload",
+   "evidence": "official channel upload: title + description",
+   "rating": "TV (Indian daily soap, family)",
+   "format": "tv",
+   "categories": [
+    "pregnant",
+    "index-58"
+   ],
+   "sources": [
+    {
+     "label": "Zee Marathi Ep 680",
+     "url": "https://www.youtube.com/watch?v=DEI6eNs9ESs"
+    }
+   ],
+   "youtube_ids": [
+    "DEI6eNs9ESs"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:34"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/DEI6eNs9ESs.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:34": {
+     "title": "Honaar Soon Mee Hyaa Gharchi",
+     "year": "2013–2016",
+     "format": "tv",
+     "meta": "India · Marathi · Zee Marathi serial",
+     "character": "Janhvi",
+     "summary": "Pregnant Janhvi stumbles and falls (Ep 680).",
+     "categories": [
+      "pregnant",
+      "index-58"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 680",
+       "title": "Garodar Janhvi dhadpadli",
+       "gist": "fall"
+      }
+     ],
+     "kids_status": "no",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "not stated in the upload",
+     "pregnancy_note": "not stated in the upload",
+     "sources": [
+      {
+       "label": "Zee Marathi Ep 680",
+       "url": "https://www.youtube.com/watch?v=DEI6eNs9ESs"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "medium · official channel upload",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "TV (Indian daily soap, family)"
+    }
+   }
+  },
+  {
+   "id": 3131,
+   "title": "Priyasakhi",
+   "subtitle": "",
+   "year": "2005",
+   "meta": "India · Tamil · film",
+   "mechanism": "",
+   "confidence_flag": "medium · plot summary",
+   "summary": "Newly married Priya becomes pregnant but is not ready and seeks an abortion; her husband is furious and follows her to stop it.",
+   "character": "Priya (Sadha) and Sandhanam (Madhavan)",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "outcome not stated in the clip description",
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "none",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "outcome not stated in the clip description",
+   "evidence": "single source",
+   "format": "movie",
+   "categories": [
+    "pregnant",
+    "index-63"
+   ],
+   "sources": [
+    {
+     "label": "Homescreen Entertainment Tamil clip",
+     "url": "https://www.youtube.com/watch?v=YDbeph23ojI"
+    }
+   ],
+   "youtube_ids": [
+    "YDbeph23ojI"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:35"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/YDbeph23ojI.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:35": {
+     "title": "Priyasakhi",
+     "year": "2005",
+     "format": "movie",
+     "meta": "India · Tamil · film",
+     "character": "Priya (Sadha) and Sandhanam (Madhavan)",
+     "summary": "Newly married Priya becomes pregnant but is not ready and seeks an abortion; her husband is furious and follows her to stop it.",
+     "categories": [
+      "pregnant",
+      "index-63"
+     ],
+     "kids_status": "no",
+     "kids_note": "none",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "outcome not stated in the clip description",
+     "pregnancy_note": "outcome not stated in the clip description",
+     "sources": [
+      {
+       "label": "Homescreen Entertainment Tamil clip",
+       "url": "https://www.youtube.com/watch?v=YDbeph23ojI"
+      }
+     ],
+     "evidence": "single source",
+     "confidence_flag": "medium · plot summary",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3132,
+   "title": "Imaigal",
+   "subtitle": "",
+   "year": "1983",
+   "meta": "India · Tamil · film",
+   "mechanism": "",
+   "confidence_flag": "low · clip title only",
+   "summary": "Emotional scene in which Saritha's character becomes pregnant.",
+   "character": "Saritha's character",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "not stated",
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "evidence": "single source",
+   "format": "movie",
+   "categories": [
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Tamil Movies clip",
+     "url": "https://www.youtube.com/watch?v=oQrHurXWC64"
+    }
+   ],
+   "youtube_ids": [
+    "oQrHurXWC64"
+   ],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:36"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/oQrHurXWC64.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:36": {
+     "title": "Imaigal",
+     "year": "1983",
+     "format": "movie",
+     "meta": "India · Tamil · film",
+     "character": "Saritha's character",
+     "summary": "Emotional scene in which Saritha's character becomes pregnant.",
+     "categories": [
+      "pregnant"
+     ],
+     "kids_status": "unknown",
+     "kids_note": "not stated",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "not stated",
+     "pregnancy_note": "not stated",
+     "sources": [
+      {
+       "label": "Tamil Movies clip",
+       "url": "https://www.youtube.com/watch?v=oQrHurXWC64"
+      }
+     ],
+     "evidence": "single source",
+     "confidence_flag": "low · clip title only",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3133,
+   "title": "Kya Kehna",
+   "subtitle": "",
+   "year": "2000",
+   "meta": "India · Hindi · film",
+   "mechanism": "",
+   "confidence_flag": "medium · plot summary",
+   "summary": "A college student becomes pregnant, is abandoned by her boyfriend and decides to keep the baby despite social stigma.",
+   "character": "Priya Bakshi (Preity Zinta)",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "baby born",
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "none",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "baby born",
+   "evidence": "single source",
+   "format": "movie",
+   "categories": [
+    "pregnant",
+    "index-63"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kya_Kehna"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:37"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:37": {
+     "title": "Kya Kehna",
+     "year": "2000",
+     "format": "movie",
+     "meta": "India · Hindi · film",
+     "character": "Priya Bakshi (Preity Zinta)",
+     "summary": "A college student becomes pregnant, is abandoned by her boyfriend and decides to keep the baby despite social stigma.",
+     "categories": [
+      "pregnant",
+      "index-63"
+     ],
+     "kids_status": "no",
+     "kids_note": "none",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "baby born",
+     "pregnancy_note": "baby born",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Kya_Kehna"
+      }
+     ],
+     "evidence": "single source",
+     "confidence_flag": "medium · plot summary",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3134,
+   "title": "Filhaal...",
+   "subtitle": "",
+   "year": "2002",
+   "meta": "India · Hindi · film",
+   "mechanism": "",
+   "confidence_flag": "medium · plot summary",
+   "summary": "Rewa becomes a surrogate mother for her childless best friend Sia, straining both relationships.",
+   "character": "Rewa and Sia",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "baby born",
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "none",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "baby born",
+   "evidence": "single source",
+   "format": "movie",
+   "categories": [
+    "index-59"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Filhaal..."
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:38"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:38": {
+     "title": "Filhaal...",
+     "year": "2002",
+     "format": "movie",
+     "meta": "India · Hindi · film",
+     "character": "Rewa and Sia",
+     "summary": "Rewa becomes a surrogate mother for her childless best friend Sia, straining both relationships.",
+     "categories": [
+      "index-59"
+     ],
+     "kids_status": "no",
+     "kids_note": "none",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "baby born",
+     "pregnancy_note": "baby born",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Filhaal..."
+      }
+     ],
+     "evidence": "single source",
+     "confidence_flag": "medium · plot summary",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3135,
+   "title": "Thappad",
+   "subtitle": "",
+   "year": "2020",
+   "meta": "India · Hindi · film",
+   "mechanism": "",
+   "confidence_flag": "medium · plot summary",
+   "summary": "After her husband slaps her, Amrita seeks a divorce and then learns she is pregnant; she keeps the baby but goes ahead with the separation.",
+   "character": "Amrita (Taapsee Pannu)",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "still pregnant at the end",
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "none",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "still pregnant at the end",
+   "evidence": "single source",
+   "format": "movie",
+   "categories": [
+    "pregnant",
+    "index-63"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Thappad"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:39"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:39": {
+     "title": "Thappad",
+     "year": "2020",
+     "format": "movie",
+     "meta": "India · Hindi · film",
+     "character": "Amrita (Taapsee Pannu)",
+     "summary": "After her husband slaps her, Amrita seeks a divorce and then learns she is pregnant; she keeps the baby but goes ahead with the separation.",
+     "categories": [
+      "pregnant",
+      "index-63"
+     ],
+     "kids_status": "no",
+     "kids_note": "none",
+     "pregnant_end": "unknown",
+     "pregnant_end_note": "still pregnant at the end",
+     "pregnancy_note": "still pregnant at the end",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Thappad"
+      }
+     ],
+     "evidence": "single source",
+     "confidence_flag": "medium · plot summary",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3136,
+   "title": "Kahaani",
+   "subtitle": "",
+   "year": "2012",
+   "meta": "India · Hindi · film",
+   "mechanism": "",
+   "confidence_flag": "medium · plot summary",
+   "summary": "A visibly pregnant woman searches Kolkata for her missing husband; the pregnancy turns out to be a prosthetic used for revenge.",
+   "character": "Vidya Bagchi (Vidya Balan)",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "pregnancy was faked",
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "not stated",
+   "pregnant_end": "no",
+   "pregnant_end_note": "pregnancy was faked",
+   "evidence": "single source",
+   "format": "movie",
+   "categories": [
+    "index-61"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kahaani"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:40"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:40": {
+     "title": "Kahaani",
+     "year": "2012",
+     "format": "movie",
+     "meta": "India · Hindi · film",
+     "character": "Vidya Bagchi (Vidya Balan)",
+     "summary": "A visibly pregnant woman searches Kolkata for her missing husband; the pregnancy turns out to be a prosthetic used for revenge.",
+     "categories": [
+      "index-61"
+     ],
+     "kids_status": "no",
+     "kids_note": "not stated",
+     "pregnant_end": "no",
+     "pregnant_end_note": "pregnancy was faked",
+     "pregnancy_note": "pregnancy was faked",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Kahaani"
+      }
+     ],
+     "evidence": "single source",
+     "confidence_flag": "medium · plot summary",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3137,
+   "title": "Aitraaz",
+   "subtitle": "",
+   "year": "2004",
+   "meta": "India · Hindi · erotic thriller",
+   "mechanism": "",
+   "confidence_flag": "medium · plot summary",
+   "summary": "In flashbacks Sonia becomes pregnant by Raj and terminates the pregnancy to pursue wealth; years later she tries to seduce him.",
+   "character": "Sonia Roy (Priyanka Chopra)",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "abortion",
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "none",
+   "pregnant_end": "no",
+   "pregnant_end_note": "abortion",
+   "evidence": "single source",
+   "format": "movie",
+   "categories": [
+    "erotic-mainstream",
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Aitraaz"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:41"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:41": {
+     "title": "Aitraaz",
+     "year": "2004",
+     "format": "movie",
+     "meta": "India · Hindi · erotic thriller",
+     "character": "Sonia Roy (Priyanka Chopra)",
+     "summary": "In flashbacks Sonia becomes pregnant by Raj and terminates the pregnancy to pursue wealth; years later she tries to seduce him.",
+     "categories": [
+      "erotic-mainstream",
+      "pregnant"
+     ],
+     "kids_status": "no",
+     "kids_note": "none",
+     "pregnant_end": "no",
+     "pregnant_end_note": "abortion",
+     "pregnancy_note": "abortion",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Aitraaz"
+      }
+     ],
+     "evidence": "single source",
+     "confidence_flag": "medium · plot summary",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3138,
+   "title": "Saving Face",
+   "subtitle": "",
+   "year": "2004",
+   "meta": "United States · English / Mandarin · film",
+   "mechanism": "",
+   "confidence_flag": "medium · plot summary",
+   "summary": "A 48-year-old widowed mother turns up pregnant and is thrown out by her father; her daughter Wil takes her in.",
+   "character": "Hwei-Lan Gao (Joan Chen)",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "baby born",
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "yes",
+   "kids_note": "adult daughter Wil",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "baby born",
+   "evidence": "single source",
+   "rating": "R",
+   "format": "movie",
+   "categories": [
+    "mom-pregnancy",
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Saving_Face_(2004_film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:42"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:42": {
+     "title": "Saving Face",
+     "year": "2004",
+     "format": "movie",
+     "meta": "United States · English / Mandarin · film",
+     "character": "Hwei-Lan Gao (Joan Chen)",
+     "summary": "A 48-year-old widowed mother turns up pregnant and is thrown out by her father; her daughter Wil takes her in.",
+     "categories": [
+      "mom-pregnancy",
+      "pregnant"
+     ],
+     "kids_status": "yes",
+     "kids_note": "adult daughter Wil",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "baby born",
+     "pregnancy_note": "baby born",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Saving_Face_(2004_film)"
+      }
+     ],
+     "evidence": "single source",
+     "confidence_flag": "medium · plot summary",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "R"
+    }
+   }
+  },
+  {
+   "id": 3139,
+   "title": "4 Months, 3 Weeks and 2 Days",
+   "subtitle": "",
+   "year": "2007",
+   "meta": "Romania · Romanian · film",
+   "mechanism": "",
+   "confidence_flag": "medium · plot summary",
+   "summary": "In 1987 Romania a student arranges an illegal abortion for her pregnant roommate.",
+   "character": "Găbița and Otilia",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "abortion",
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "none",
+   "pregnant_end": "no",
+   "pregnant_end_note": "abortion",
+   "evidence": "single source",
+   "rating": "NR (adult themes)",
+   "format": "movie",
+   "categories": [
+    "pregnant",
+    "index-58"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/4_Months,_3_Weeks_and_2_Days"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:43"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:43": {
+     "title": "4 Months, 3 Weeks and 2 Days",
+     "year": "2007",
+     "format": "movie",
+     "meta": "Romania · Romanian · film",
+     "character": "Găbița and Otilia",
+     "summary": "In 1987 Romania a student arranges an illegal abortion for her pregnant roommate.",
+     "categories": [
+      "pregnant",
+      "index-58"
+     ],
+     "kids_status": "no",
+     "kids_note": "none",
+     "pregnant_end": "no",
+     "pregnant_end_note": "abortion",
+     "pregnancy_note": "abortion",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/4_Months,_3_Weeks_and_2_Days"
+      }
+     ],
+     "evidence": "single source",
+     "confidence_flag": "medium · plot summary",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "NR (adult themes)"
+    }
+   }
+  },
+  {
+   "id": 3140,
+   "title": "Fools Rush In",
+   "subtitle": "",
+   "year": "1997",
+   "meta": "United States · English · film",
+   "mechanism": "",
+   "confidence_flag": "medium · plot summary",
+   "summary": "A one-night stand leads to pregnancy and a hasty Las Vegas marriage between two very different people.",
+   "character": "Isabel Fuentes (Salma Hayek)",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "baby born",
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "none",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "baby born",
+   "evidence": "single source",
+   "rating": "PG-13",
+   "format": "movie",
+   "categories": [
+    "pregnant",
+    "index-63"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Fools_Rush_In_(1997_film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:44"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:44": {
+     "title": "Fools Rush In",
+     "year": "1997",
+     "format": "movie",
+     "meta": "United States · English · film",
+     "character": "Isabel Fuentes (Salma Hayek)",
+     "summary": "A one-night stand leads to pregnancy and a hasty Las Vegas marriage between two very different people.",
+     "categories": [
+      "pregnant",
+      "index-63"
+     ],
+     "kids_status": "no",
+     "kids_note": "none",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "baby born",
+     "pregnancy_note": "baby born",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Fools_Rush_In_(1997_film)"
+      }
+     ],
+     "evidence": "single source",
+     "confidence_flag": "medium · plot summary",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "PG-13"
+    }
+   }
+  },
+  {
+   "id": 3141,
+   "title": "Look Who's Talking",
+   "subtitle": "",
+   "year": "1989",
+   "meta": "United States · English · film",
+   "mechanism": "",
+   "confidence_flag": "medium · plot summary",
+   "summary": "An accountant becomes pregnant by her married lover, who abandons her; a cab driver helps deliver the baby.",
+   "character": "Mollie Jensen (Kirstie Alley)",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "son Mikey born",
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "none",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "son Mikey born",
+   "evidence": "single source",
+   "rating": "PG-13",
+   "format": "movie",
+   "categories": [
+    "pregnant",
+    "index-63"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Look_Who%27s_Talking"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:45"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:45": {
+     "title": "Look Who's Talking",
+     "year": "1989",
+     "format": "movie",
+     "meta": "United States · English · film",
+     "character": "Mollie Jensen (Kirstie Alley)",
+     "summary": "An accountant becomes pregnant by her married lover, who abandons her; a cab driver helps deliver the baby.",
+     "categories": [
+      "pregnant",
+      "index-63"
+     ],
+     "kids_status": "no",
+     "kids_note": "none",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "son Mikey born",
+     "pregnancy_note": "son Mikey born",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Look_Who%27s_Talking"
+      }
+     ],
+     "evidence": "single source",
+     "confidence_flag": "medium · plot summary",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "PG-13"
+    }
+   }
+  },
+  {
+   "id": 3142,
+   "title": "Obvious Child",
+   "subtitle": "",
+   "year": "2014",
+   "meta": "United States · English · film",
+   "mechanism": "",
+   "confidence_flag": "medium · plot summary",
+   "summary": "A comedian becomes pregnant after a one-night stand and decides to have an abortion.",
+   "character": "Donna Stern (Jenny Slate)",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "abortion",
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "none",
+   "pregnant_end": "no",
+   "pregnant_end_note": "abortion",
+   "evidence": "single source",
+   "rating": "R",
+   "format": "movie",
+   "categories": [
+    "pregnant"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Obvious_Child"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:46"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:46": {
+     "title": "Obvious Child",
+     "year": "2014",
+     "format": "movie",
+     "meta": "United States · English · film",
+     "character": "Donna Stern (Jenny Slate)",
+     "summary": "A comedian becomes pregnant after a one-night stand and decides to have an abortion.",
+     "categories": [
+      "pregnant"
+     ],
+     "kids_status": "no",
+     "kids_note": "none",
+     "pregnant_end": "no",
+     "pregnant_end_note": "abortion",
+     "pregnancy_note": "abortion",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Obvious_Child"
+      }
+     ],
+     "evidence": "single source",
+     "confidence_flag": "medium · plot summary",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "R"
+    }
+   }
+  },
+  {
+   "id": 3143,
+   "title": "Children of Men",
+   "subtitle": "",
+   "year": "2006",
+   "meta": "United Kingdom · English · film",
+   "mechanism": "",
+   "confidence_flag": "medium · plot summary",
+   "summary": "In a world where humans are infertile, a refugee is the first woman pregnant in 18 years.",
+   "character": "Kee",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "daughter born",
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "none",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "daughter born",
+   "evidence": "single source",
+   "rating": "R",
+   "format": "movie",
+   "categories": [
+    "pregnant",
+    "index-58"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Children_of_Men"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:47"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:47": {
+     "title": "Children of Men",
+     "year": "2006",
+     "format": "movie",
+     "meta": "United Kingdom · English · film",
+     "character": "Kee",
+     "summary": "In a world where humans are infertile, a refugee is the first woman pregnant in 18 years.",
+     "categories": [
+      "pregnant",
+      "index-58"
+     ],
+     "kids_status": "no",
+     "kids_note": "none",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "daughter born",
+     "pregnancy_note": "daughter born",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Children_of_Men"
+      }
+     ],
+     "evidence": "single source",
+     "confidence_flag": "medium · plot summary",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "R"
+    }
+   }
+  },
+  {
+   "id": 3144,
+   "title": "Blue Valentine",
+   "subtitle": "",
+   "year": "2010",
+   "meta": "United States · English · film",
+   "mechanism": "",
+   "confidence_flag": "medium · plot summary",
+   "summary": "Cindy becomes pregnant, possibly by her former boyfriend; Dean marries her and raises daughter Frankie.",
+   "character": "Cindy (Michelle Williams)",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "daughter Frankie born",
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "none",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "daughter Frankie born",
+   "evidence": "single source",
+   "rating": "R",
+   "format": "movie",
+   "categories": [
+    "index-57",
+    "erotic-mainstream"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Blue_Valentine_(film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:48"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:48": {
+     "title": "Blue Valentine",
+     "year": "2010",
+     "format": "movie",
+     "meta": "United States · English · film",
+     "character": "Cindy (Michelle Williams)",
+     "summary": "Cindy becomes pregnant, possibly by her former boyfriend; Dean marries her and raises daughter Frankie.",
+     "categories": [
+      "index-57",
+      "erotic-mainstream"
+     ],
+     "kids_status": "no",
+     "kids_note": "none",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "daughter Frankie born",
+     "pregnancy_note": "daughter Frankie born",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Blue_Valentine_(film)"
+      }
+     ],
+     "evidence": "single source",
+     "confidence_flag": "medium · plot summary",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "R"
+    }
+   }
+  },
+  {
+   "id": 3145,
+   "title": "Betty Blue",
+   "subtitle": "",
+   "year": "1986",
+   "meta": "France · French · erotic drama",
+   "mechanism": "",
+   "confidence_flag": "medium · plot summary",
+   "summary": "Betty believes she is pregnant; the negative test helps trigger her breakdown.",
+   "character": "Betty (Béatrice Dalle)",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "not pregnant (false belief)",
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "none",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not pregnant (false belief)",
+   "evidence": "single source",
+   "rating": "R / unrated cut",
+   "format": "movie",
+   "categories": [
+    "erotic-mainstream",
+    "index-61"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Betty_Blue"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:49"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:49": {
+     "title": "Betty Blue",
+     "year": "1986",
+     "format": "movie",
+     "meta": "France · French · erotic drama",
+     "character": "Betty (Béatrice Dalle)",
+     "summary": "Betty believes she is pregnant; the negative test helps trigger her breakdown.",
+     "categories": [
+      "erotic-mainstream",
+      "index-61"
+     ],
+     "kids_status": "no",
+     "kids_note": "none",
+     "pregnant_end": "no",
+     "pregnant_end_note": "not pregnant (false belief)",
+     "pregnancy_note": "not pregnant (false belief)",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Betty_Blue"
+      }
+     ],
+     "evidence": "single source",
+     "confidence_flag": "medium · plot summary",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "R / unrated cut"
+    }
+   }
+  },
+  {
+   "id": 3146,
+   "title": "The Twilight Saga: Breaking Dawn – Part 1",
+   "subtitle": "",
+   "year": "2011",
+   "meta": "United States · English · film",
+   "mechanism": "",
+   "confidence_flag": "medium · plot summary",
+   "summary": "After her honeymoon Bella is pregnant with a fast-growing half-vampire child that endangers her life.",
+   "character": "Bella Swan",
+   "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+   "note": "",
+   "pregnancy_note": "daughter Renesmee born",
+   "tags": [
+    "pregnancy-yt-oct15"
+   ],
+   "kids_status": "no",
+   "kids_note": "none",
+   "pregnant_end": "yes",
+   "pregnant_end_note": "daughter Renesmee born",
+   "evidence": "single source",
+   "rating": "PG-13",
+   "format": "movie",
+   "categories": [
+    "pregnant",
+    "index-60"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Twilight_Saga:_Breaking_Dawn_%E2%80%93_Part_1"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnancy-yt-oct15"
+   ],
+   "source_records": [
+    "pregnancy-yt-oct15:50"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnancy-yt-oct15:50": {
+     "title": "The Twilight Saga: Breaking Dawn – Part 1",
+     "year": "2011",
+     "format": "movie",
+     "meta": "United States · English · film",
+     "character": "Bella Swan",
+     "summary": "After her honeymoon Bella is pregnant with a fast-growing half-vampire child that endangers her life.",
+     "categories": [
+      "pregnant",
+      "index-60"
+     ],
+     "kids_status": "no",
+     "kids_note": "none",
+     "pregnant_end": "yes",
+     "pregnant_end_note": "daughter Renesmee born",
+     "pregnancy_note": "daughter Renesmee born",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Twilight_Saga:_Breaking_Dawn_%E2%80%93_Part_1"
+      }
+     ],
+     "evidence": "single source",
+     "confidence_flag": "medium · plot summary",
+     "provenance": "Pregnancy YouTube sweep 15 Oct 2026 PT — official-channel titles/descriptions mined with yt-dlp (no video downloaded); web knowledge for films",
+     "tags": [
+      "pregnancy-yt-oct15"
+     ],
+     "rating": "PG-13"
+    }
+   }
   }
  ],
  "sections": [
@@ -459603,12 +464391,30 @@ window.CATALOG = {
    "description": "Twelve confirmed stories in which an ultrasound, scan image or sonography appointment enables or exposes pregnancy fraud.",
    "notes": [],
    "from_sources": [
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "pregnancy-yt-oct15"
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 12
+    "ig6qlxqxoxvcxla": 12,
+    "pregnancy-yt-oct15": null
    },
-   "groups": []
+   "groups": [
+    {
+     "title": "Pregnancy storylines — YouTube sweep (Indian serials + worldwide films)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3145,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3136,
+       "from_source": "pregnancy-yt-oct15"
+      }
+     ],
+     "from_source": "pregnancy-yt-oct15"
+    }
+   ]
   },
   {
    "title": "Cult / coercive brainwashing",
@@ -466732,11 +471538,13 @@ window.CATALOG = {
    "notes": [],
    "from_sources": [
     "ig6qlxqxoxvcxla",
-    "pregnant-yt-oct15"
+    "pregnant-yt-oct15",
+    "pregnancy-yt-oct15"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 14,
-    "pregnant-yt-oct15": null
+    "pregnant-yt-oct15": null,
+    "pregnancy-yt-oct15": null
    },
    "groups": [
     {
@@ -466753,6 +471561,37 @@ window.CATALOG = {
       }
      ],
      "from_source": "pregnant-yt-oct15"
+    },
+    {
+     "title": "Pregnancy storylines — YouTube sweep (Indian serials + worldwide films)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3139,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3143,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3111,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3130,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 1438,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3124,
+       "from_source": "pregnancy-yt-oct15"
+      }
+     ],
+     "from_source": "pregnancy-yt-oct15"
     }
    ]
   },
@@ -477131,13 +481970,15 @@ window.CATALOG = {
     "mainstream-erotic",
     "no-link-additions",
     "round2",
-    "youtube-sweep-oct15"
+    "youtube-sweep-oct15",
+    "pregnancy-yt-oct15"
    ],
    "declared_count_by_source": {
     "mainstream-erotic": null,
     "no-link-additions": null,
     "round2": null,
-    "youtube-sweep-oct15": null
+    "youtube-sweep-oct15": null,
+    "pregnancy-yt-oct15": null
    },
    "groups": [
     {
@@ -477708,6 +482549,25 @@ window.CATALOG = {
       }
      ],
      "from_source": "youtube-sweep-oct15"
+    },
+    {
+     "title": "Pregnancy storylines — YouTube sweep (Indian serials + worldwide films)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3137,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3145,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3144,
+       "from_source": "pregnancy-yt-oct15"
+      }
+     ],
+     "from_source": "pregnancy-yt-oct15"
     }
    ]
   },
@@ -479960,7 +484820,8 @@ window.CATALOG = {
     "lesbian-pregnancy",
     "round2",
     "deep-gap-oct15",
-    "pregnant-yt-oct15"
+    "pregnant-yt-oct15",
+    "pregnancy-yt-oct15"
    ],
    "groups": [
     {
@@ -480591,6 +485452,12 @@ window.CATALOG = {
         "Mother with children gets pregnant in a passionate relationship (husband, new partner or lover)",
         "Control mechanism unstated",
         "Medium · Wikipedia"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Kuch_Rang_Pyar_Ke_Aise_Bhi"
+        }
        ],
        "provenance": "Source basis: Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
        "entry_note": "Note: Outcome facts: married: yes; kids status: yes.",
@@ -481619,6 +486486,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "pregnant-yt-oct15"
+    },
+    {
+     "title": "Pregnancy storylines — YouTube sweep (Indian serials + worldwide films)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3120,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3138,
+       "from_source": "pregnancy-yt-oct15"
+      }
+     ],
+     "from_source": "pregnancy-yt-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -481627,7 +486509,8 @@ window.CATALOG = {
     "lesbian-pregnancy": null,
     "round2": null,
     "deep-gap-oct15": null,
-    "pregnant-yt-oct15": null
+    "pregnant-yt-oct15": null,
+    "pregnancy-yt-oct15": null
    }
   },
   {
@@ -484191,12 +489074,42 @@ window.CATALOG = {
    "description": "Three confirmed scenes where scan timing or an accompanying test drives a paternity or infidelity mystery.",
    "notes": [],
    "from_sources": [
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "pregnancy-yt-oct15"
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 3
+    "ig6qlxqxoxvcxla": 3,
+    "pregnancy-yt-oct15": null
    },
-   "groups": []
+   "groups": [
+    {
+     "title": "Pregnancy storylines — YouTube sweep (Indian serials + worldwide films)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3144,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3115,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3126,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3116,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3104,
+       "from_source": "pregnancy-yt-oct15"
+      }
+     ],
+     "from_source": "pregnancy-yt-oct15"
+    }
+   ]
   },
   {
    "title": "Polygamy + female hypnosis / mind control",
@@ -485952,14 +490865,16 @@ window.CATALOG = {
     "occult-pregnancy-nearmiss",
     "hypnosis-assault",
     "hypnosis-assault-loose",
-    "pregnant-yt-oct15"
+    "pregnant-yt-oct15",
+    "pregnancy-yt-oct15"
    ],
    "declared_count_by_source": {
     "worldwide-hypnosis": null,
     "occult-pregnancy-nearmiss": null,
     "hypnosis-assault": null,
     "hypnosis-assault-loose": null,
-    "pregnant-yt-oct15": null
+    "pregnant-yt-oct15": null,
+    "pregnancy-yt-oct15": null
    },
    "groups": [
     {
@@ -486056,6 +490971,193 @@ window.CATALOG = {
       }
      ],
      "from_source": "pregnant-yt-oct15"
+    },
+    {
+     "title": "Pregnancy storylines — YouTube sweep (Indian serials + worldwide films)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3139,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3137,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3099,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3108,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3107,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3143,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3120,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3111,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3109,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3121,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3122,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3140,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3100,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3130,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3132,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3115,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3128,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3118,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 1438,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3101,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3102,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3133,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3141,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3119,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3117,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3127,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3142,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3125,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3123,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3114,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3131,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3105,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3113,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3110,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3138,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3124,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3126,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3106,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3135,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3129,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3146,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3116,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3104,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3098,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3103,
+       "from_source": "pregnancy-yt-oct15"
+      }
+     ],
+     "from_source": "pregnancy-yt-oct15"
     }
    ]
   },
@@ -491076,12 +496178,74 @@ window.CATALOG = {
    "description": "Twenty-eight confirmed ultrasound scenes used for bonding, reconciliation, a family decision or an emotional pregnancy turn.",
    "notes": [],
    "from_sources": [
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "pregnancy-yt-oct15"
    ],
    "declared_count_by_source": {
-    "ig6qlxqxoxvcxla": 28
+    "ig6qlxqxoxvcxla": 28,
+    "pregnancy-yt-oct15": null
    },
-   "groups": []
+   "groups": [
+    {
+     "title": "Pregnancy storylines — YouTube sweep (Indian serials + worldwide films)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3099,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3108,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3107,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3140,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3100,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3101,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3102,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3133,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3141,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3131,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3135,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3098,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3103,
+       "from_source": "pregnancy-yt-oct15"
+      }
+     ],
+     "from_source": "pregnancy-yt-oct15"
+    }
+   ]
   },
   {
    "title": "Sci-fi / alien / technological control",
@@ -496405,11 +501569,13 @@ window.CATALOG = {
    "notes": [],
    "from_sources": [
     "ig6qlxqxoxvcxla",
-    "pregnant-yt-oct15"
+    "pregnant-yt-oct15",
+    "pregnancy-yt-oct15"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 4,
-    "pregnant-yt-oct15": null
+    "pregnant-yt-oct15": null,
+    "pregnancy-yt-oct15": null
    },
    "groups": [
     {
@@ -496441,6 +501607,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "pregnant-yt-oct15"
+    },
+    {
+     "title": "Pregnancy storylines — YouTube sweep (Indian serials + worldwide films)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3146,
+       "from_source": "pregnancy-yt-oct15"
+      }
+     ],
+     "from_source": "pregnancy-yt-oct15"
     }
    ]
   },
@@ -496967,11 +502144,13 @@ window.CATALOG = {
    "notes": [],
    "from_sources": [
     "ig6qlxqxoxvcxla",
-    "pregnant-yt-oct15"
+    "pregnant-yt-oct15",
+    "pregnancy-yt-oct15"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 4,
-    "pregnant-yt-oct15": null
+    "pregnant-yt-oct15": null,
+    "pregnancy-yt-oct15": null
    },
    "groups": [
     {
@@ -497004,6 +502183,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "pregnant-yt-oct15"
+    },
+    {
+     "title": "Pregnancy storylines — YouTube sweep (Indian serials + worldwide films)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3134,
+       "from_source": "pregnancy-yt-oct15"
+      },
+      {
+       "id": 3112,
+       "from_source": "pregnancy-yt-oct15"
+      }
+     ],
+     "from_source": "pregnancy-yt-oct15"
     }
    ]
   },
