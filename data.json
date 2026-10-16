@@ -4208,6 +4208,85 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "kr-cn-hypnosis-r2",
+   "label": "KR/CN/TW/HK female-hypnosis research, round 2",
+   "kind": "local",
+   "share_url": "sources/kr-cn-hypnosis-r2.json",
+   "description": "KR/CN/TW/HK female-hypnosis pass, round 2, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "dropped": [
+    {
+     "title": "Class in Hypnosis (최면교실)",
+     "year": "2024",
+     "reason": "Vigloo short: a high-school bully setting (students). Minors; excluded."
+    },
+    {
+     "title": "Deep Hypnosis (重度催眠)",
+     "year": "2026",
+     "reason": "The patient, Huo Wencan, was traumatised as a child, and the film is framed around minors' and teens' mental health; her adult status is not confirmed."
+    },
+    {
+     "title": "The Wife's Secret World (妻子的秘密世界)",
+     "year": "2022",
+     "reason": "Tagged 'hypnosis' by CPOP Home, but the plot is gaslighting plus a humanoid-robot twist; no hypnosis is confirmed."
+    },
+    {
+     "title": "渡念师",
+     "year": "",
+     "reason": "A husband-and-wife hypnotist team; no female hypnosis subject is described."
+    },
+    {
+     "title": "Virtues of Harmony II (皆大歡喜) ep 270",
+     "year": "2012",
+     "reason": "Only a man (Ah Hong) is hypnotised."
+    },
+    {
+     "title": "Bride Wannabe / 必娶女人 ep 3",
+     "year": "2008",
+     "reason": "The male lead is hypnotised, not the heroine."
+    },
+    {
+     "title": "Come Under My Spell (被催眠的少妇)",
+     "year": "1979",
+     "reason": "An American film; out of scope."
+    },
+    {
+     "title": "Raped by an Angel 3 (強姦3)",
+     "year": "1998",
+     "reason": "Already in the catalog (id 2398). The hypnotist is the woman herself; nothing to add."
+    },
+    {
+     "title": "Beneath the Hypnosis (ShortMax)",
+     "year": "",
+     "reason": "Already in the catalog (id 2654) with its fields set; the original Chinese title was not found."
+    },
+    {
+     "title": "The Love by Hypnotic (明月照我心)",
+     "year": "2019",
+     "reason": "Already in the catalog (id 19); the heroine is the hypnotist."
+    },
+    {
+     "title": "The Hypnotized (Asiaflix 2014, 2 eps)",
+     "year": "2014",
+     "reason": "A mislabelled re-listing of the 2004 film Faceless Beauty, which is already merged."
+    },
+    {
+     "title": "Justice Sung Begins (狀王之王) ep 10",
+     "year": "2024",
+     "reason": "Retried: Ying-tou (櫻桃) is played by Chong Sze-man (born 1995), but no source gives the character's age, so the adults-only rule cannot be confirmed. Still dropped. Note that the series year is 2024 per Baidu/Wikipedia, not 2021."
+    },
+    {
+     "title": "JAV hypnosis titles (TOT-004, SRMC-045, etc.)",
+     "year": "",
+     "reason": "Japanese productions surfaced by the Korean search terms; out of the KR/CN/TW/HK scope."
+    }
+   ],
+   "check": {
+    "raw_count": 5,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -4258,10 +4337,11 @@
   "indonesia-sinetron-oct15": 4,
   "hypno-turkey-oct15": 5,
   "kr-cn-hypnosis": 79,
-  "wife-hypnosis-oct15": 109
+  "wife-hypnosis-oct15": 109,
+  "kr-cn-hypnosis-r2": 5
  },
- "raw_total": 5833,
- "entry_count": 2875,
+ "raw_total": 5838,
+ "entry_count": 2879,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4381,7 +4461,7 @@
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 618
+   "entry_count": 622
   },
   {
    "key": "wife",
@@ -4459,7 +4539,7 @@
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 142
+   "entry_count": 146
   },
   {
    "key": "mom-partner-control",
@@ -132007,6 +132087,21 @@
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "Episode 15",
+     "air_date": "",
+     "gist": "Hypnotist Lu Fengping guides college student Liu Ningning back to the incident scene under hypnosis; she becomes uncontrollable and he ends the session.",
+     "number_verified": true
+    },
+    {
+     "episode": "Episode 16",
+     "air_date": "",
+     "gist": "Under hypnosis she recovers a repressed memory: Gao Yongxiang hit his head after knocking over a teacher, and Lao Yang locked her in a room to protect her. She later remembers and surrenders.",
+     "number_verified": true
+    }
+   ],
+   "hypnotist": "Lu Fengping (hypnotist protagonist)",
    "kids_status": "not stated",
    "kids_together": "not stated",
    "married": "not stated",
@@ -132030,6 +132125,10 @@
     {
      "label": "Viki: Desire Catcher",
      "url": "https://www.viki.com/tv/39798c-desire-catcher"
+    },
+    {
+     "label": "CPOP Home ep 16 recap",
+     "url": "https://www.cpophome.com/desire-catcher-zheng-yecheng-xin-yunlai/recap/16/"
     }
    ],
    "youtube_ids": [
@@ -132039,13 +132138,15 @@
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "worldwide-hypnosis",
-    "streaming-oct15"
+    "streaming-oct15",
+    "kr-cn-hypnosis-r2"
    ],
    "source_records": [
     "xla62ucxbx02u5:709",
     "ig6qlxqxoxvcxla:705",
     "worldwide-hypnosis:266",
-    "streaming-oct15:14"
+    "streaming-oct15:14",
+    "kr-cn-hypnosis-r2:5"
    ],
    "index_only": false,
    "local_only": false,
@@ -132170,6 +132271,45 @@
      "pregnant_end": "not stated",
      "distinct_story": true,
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis-r2:5",
+     "source": "kr-cn-hypnosis-r2",
+     "label": "Desire Catcher (无眠之境)",
+     "identifiers": [],
+     "title": "Desire Catcher (无眠之境)",
+     "subtitle": "",
+     "year": "",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "Liu Ningning is described as a college student; her exact age is not given.",
+     "mechanism": "",
+     "confidence_flag": "Medium · one recap site",
+     "categories": [],
+     "sources": [
+      {
+       "label": "CPOP Home ep 16 recap",
+       "url": "https://www.cpophome.com/desire-catcher-zheng-yecheng-xin-yunlai/recap/16/"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "Episode 15",
+       "air_date": "",
+       "gist": "Hypnotist Lu Fengping guides college student Liu Ningning back to the incident scene under hypnosis; she becomes uncontrollable and he ends the session.",
+       "number_verified": true
+      },
+      {
+       "episode": "Episode 16",
+       "air_date": "",
+       "gist": "Under hypnosis she recovers a repressed memory: Gao Yongxiang hit his head after knocking over a teacher, and Lao Yang locked her in a room to protect her. She later remembers and surrenders.",
+       "number_verified": true
+      }
+     ],
+     "hypnotist": "Lu Fengping (hypnotist protagonist)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -132224,6 +132364,36 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "kr-cn-hypnosis-r2:5": {
+     "title": "Desire Catcher (无眠之境)",
+     "match_title": "Desire Catcher (无眠之境)",
+     "match_year": "2023",
+     "categories": [],
+     "episodes": [
+      {
+       "episode": "Episode 15",
+       "air_date": "",
+       "gist": "Hypnotist Lu Fengping guides college student Liu Ningning back to the incident scene under hypnosis; she becomes uncontrollable and he ends the session.",
+       "number_verified": true
+      },
+      {
+       "episode": "Episode 16",
+       "air_date": "",
+       "gist": "Under hypnosis she recovers a repressed memory: Gao Yongxiang hit his head after knocking over a teacher, and Lao Yang locked her in a room to protect her. She later remembers and surrenders.",
+       "number_verified": true
+      }
+     ],
+     "hypnotist": "Lu Fengping (hypnotist protagonist)",
+     "sources": [
+      {
+       "label": "CPOP Home ep 16 recap",
+       "url": "https://www.cpophome.com/desire-catcher-zheng-yecheng-xin-yunlai/recap/16/"
+      }
+     ],
+     "confidence_flag": "Medium · one recap site",
+     "note": "Liu Ningning is described as a college student; her exact age is not given.",
+     "provenance": "KR/CN/TW/HK female-hypnosis pass, round 2, 15 Oct 2026 PT (adults only; non-explicit notes)"
     },
     "streaming-oct15:14": {
      "standalone": true,
@@ -444943,6 +445113,474 @@
      "evidence": "Wikipedia; Mental Block"
     }
    }
+  },
+  {
+   "id": 3010,
+   "title": "Face to Face (雙面伊人)",
+   "subtitle": "",
+   "year": "1999",
+   "meta": "TVB suspense drama · Hong Kong · Cantonese · 20 episodes · prod. & dir. Wong Sum-wai",
+   "mechanism": "",
+   "confidence_flag": "High · per-episode synopsis (episode numbers from the synopsis; air dates not found)",
+   "summary": "After a yacht explosion, Yiu Lok-tin wakes up with amnesia and is drawn to Lam Ching, now the fiancée of his 'brother' Fong Tak-shun. Ching turns out to have a second personality, Ning. Lok-tin hypnotises her to find out why Ning appears, and learns of a childhood trauma. Tak-shun is later revealed as the killer of Ching's parents.",
+   "character": "Lam Ching 林靜 (Gigi Fu Ka-ying), who also has an alter persona, Ning 寧",
+   "provenance": "KR/CN/TW/HK female-hypnosis pass, round 2, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "pregnancy_outcome": "miscarriage",
+   "pregnancy_note": "Pregnant in ep 18 (by Tak-shun); miscarries after the car crash in the finale.",
+   "episodes": [
+    {
+     "episode": "Episode 13",
+     "air_date": "",
+     "gist": "Lok-tin hypnotises Ching to find why Ning appears. Under hypnosis she says Ning began after she was locked in a room for a week as a child. Her mother overhears and feels responsible. Ching suddenly switches to Ning and kisses Lok-tin.",
+     "number_verified": true
+    },
+    {
+     "episode": "Episode 18",
+     "air_date": "",
+     "gist": "Ching is pregnant by her husband Tak-shun.",
+     "number_verified": true
+    },
+    {
+     "episode": "Episode 20 (finale)",
+     "air_date": "",
+     "gist": "Tak-shun is exposed as a killer and crashes the car with Ching. She miscarries in hospital, and all three fall from a building during the rescue.",
+     "number_verified": true
+    }
+   ],
+   "hypnotist": "Yiu Lok-tin 姚樂天 (Ekin Cheng)",
+   "gain_motive": [
+    "therapy / finding the cause of her alter personality"
+   ],
+   "method": "Hypnosis (therapeutic regression)",
+   "kids_status": "no",
+   "kids_note": "No children before the story.",
+   "kids_together": "no",
+   "kids_together_note": "No surviving child; the ending after the fall is not detailed in the synopsis.",
+   "pregnant_end": "no",
+   "evidence": "Per-episode synopsis + Wikipedia listing",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "medical",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Episode synopsis 1–20 (daanhuizong, Baike mirror)",
+     "url": "https://www.daanhuizong.net/117413.html"
+    },
+    {
+     "label": "Wikipedia (zh): 雙面伊人",
+     "url": "https://zh.wikipedia.org/wiki/%E9%9B%99%E9%9D%A2%E4%BC%8A%E4%BA%BA"
+    },
+    {
+     "label": "TVmao episode 20",
+     "url": "https://www.tvmao.com/drama/VFI0bA==/episode/6-20"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kr-cn-hypnosis-r2"
+   ],
+   "source_records": [
+    "kr-cn-hypnosis-r2:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kr-cn-hypnosis-r2:1": {
+     "title": "Face to Face (雙面伊人)",
+     "year": "1999",
+     "format": "tv",
+     "meta": "TVB suspense drama · Hong Kong · Cantonese · 20 episodes · prod. & dir. Wong Sum-wai",
+     "character": "Lam Ching 林靜 (Gigi Fu Ka-ying), who also has an alter persona, Ning 寧",
+     "summary": "After a yacht explosion, Yiu Lok-tin wakes up with amnesia and is drawn to Lam Ching, now the fiancée of his 'brother' Fong Tak-shun. Ching turns out to have a second personality, Ning. Lok-tin hypnotises her to find out why Ning appears, and learns of a childhood trauma. Tak-shun is later revealed as the killer of Ching's parents.",
+     "hypnotist": "Yiu Lok-tin 姚樂天 (Ekin Cheng)",
+     "gain_motive": [
+      "therapy / finding the cause of her alter personality"
+     ],
+     "method": "Hypnosis (therapeutic regression)",
+     "categories": [
+      "medical",
+      "human"
+     ],
+     "episodes": [
+      {
+       "episode": "Episode 13",
+       "air_date": "",
+       "gist": "Lok-tin hypnotises Ching to find why Ning appears. Under hypnosis she says Ning began after she was locked in a room for a week as a child. Her mother overhears and feels responsible. Ching suddenly switches to Ning and kisses Lok-tin.",
+       "number_verified": true
+      },
+      {
+       "episode": "Episode 18",
+       "air_date": "",
+       "gist": "Ching is pregnant by her husband Tak-shun.",
+       "number_verified": true
+      },
+      {
+       "episode": "Episode 20 (finale)",
+       "air_date": "",
+       "gist": "Tak-shun is exposed as a killer and crashes the car with Ching. She miscarries in hospital, and all three fall from a building during the rescue.",
+       "number_verified": true
+      }
+     ],
+     "pregnant_end": "no",
+     "pregnancy_outcome": "miscarriage",
+     "pregnancy_note": "Pregnant in ep 18 (by Tak-shun); miscarries after the car crash in the finale.",
+     "kids_together": "no",
+     "kids_together_note": "No surviving child; the ending after the fall is not detailed in the synopsis.",
+     "kids_status": "no",
+     "kids_note": "No children before the story.",
+     "sources": [
+      {
+       "label": "Episode synopsis 1–20 (daanhuizong, Baike mirror)",
+       "url": "https://www.daanhuizong.net/117413.html"
+      },
+      {
+       "label": "Wikipedia (zh): 雙面伊人",
+       "url": "https://zh.wikipedia.org/wiki/%E9%9B%99%E9%9D%A2%E4%BC%8A%E4%BA%BA"
+      },
+      {
+       "label": "TVmao episode 20",
+       "url": "https://www.tvmao.com/drama/VFI0bA==/episode/6-20"
+      }
+     ],
+     "evidence": "Per-episode synopsis + Wikipedia listing",
+     "confidence_flag": "High · per-episode synopsis (episode numbers from the synopsis; air dates not found)",
+     "adult": "no",
+     "provenance": "KR/CN/TW/HK female-hypnosis pass, round 2, 15 Oct 2026 PT (adults only; non-explicit notes)",
+     "note": ""
+    }
+   }
+  },
+  {
+   "id": 3011,
+   "title": "August Bride (8월의 신부)",
+   "subtitle": "",
+   "year": "1996",
+   "meta": "TV series · South Korea · Korean · SBS · 16 episodes (7 Aug – 25 Sep 1996)",
+   "mechanism": "",
+   "confidence_flag": "Medium · plot detail from one fan synopsis; episode numbers for the hypnosis scenes not found",
+   "summary": "Photographer Ga-young loses her memory in an accident at Cheongpyeong Lake. She starts hypnotherapy with psychiatrist Dr. Moon to recover it, but the hypnosis brings back memories of a past life instead, in which she loved Jae-min. In the present she is drawn to Nam-gyu, his reincarnation, and both later recover their past-life memories through Dr. Moon's hypnosis.",
+   "character": "Song Ga-young (Kim Ji-ho), a photographer; past life Yoon Jin-kyung",
+   "provenance": "KR/CN/TW/HK female-hypnosis pass, round 2, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "One blog calls it an MBC weekend drama; Namu and Korean Wikipedia (via search) give SBS Wed–Thu, 1996, which is used here.",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "No pregnancy in the available synopses.",
+   "hypnotist": "Psychiatrist Dr. Moon (Jung Dong-hwan)",
+   "gain_motive": [
+    "therapy / memory recovery"
+   ],
+   "method": "Hypnotherapy (regression, which leads to past-life recall)",
+   "kids_status": "no",
+   "kids_note": "No children mentioned.",
+   "kids_together": "no",
+   "kids_together_note": "Ga-young and Nam-gyu part, then both die in an accident at the end.",
+   "pregnant_end": "no",
+   "evidence": "Namu Wiki + Korean Wikipedia (broadcaster/dates); plot from a fan synopsis",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "medical",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Korean Wikipedia: 8월의 신부",
+     "url": "https://ko.wikipedia.org/wiki/8%EC%9B%94%EC%9D%98_%EC%8B%A0%EB%B6%80"
+    },
+    {
+     "label": "Namu Wiki: 8월의 신부",
+     "url": "https://namu.wiki/w/8%EC%9B%94%EC%9D%98%20%EC%8B%A0%EB%B6%80"
+    },
+    {
+     "label": "Drama encyclopedia blog (Daum cafe)",
+     "url": "https://m.cafe.daum.net/ygy2317/Rp4o/8"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kr-cn-hypnosis-r2"
+   ],
+   "source_records": [
+    "kr-cn-hypnosis-r2:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kr-cn-hypnosis-r2:2": {
+     "title": "August Bride (8월의 신부)",
+     "year": "1996",
+     "format": "tv",
+     "meta": "TV series · South Korea · Korean · SBS · 16 episodes (7 Aug – 25 Sep 1996)",
+     "character": "Song Ga-young (Kim Ji-ho), a photographer; past life Yoon Jin-kyung",
+     "summary": "Photographer Ga-young loses her memory in an accident at Cheongpyeong Lake. She starts hypnotherapy with psychiatrist Dr. Moon to recover it, but the hypnosis brings back memories of a past life instead, in which she loved Jae-min. In the present she is drawn to Nam-gyu, his reincarnation, and both later recover their past-life memories through Dr. Moon's hypnosis.",
+     "hypnotist": "Psychiatrist Dr. Moon (Jung Dong-hwan)",
+     "gain_motive": [
+      "therapy / memory recovery"
+     ],
+     "method": "Hypnotherapy (regression, which leads to past-life recall)",
+     "categories": [
+      "medical",
+      "human"
+     ],
+     "episodes": [],
+     "pregnant_end": "no",
+     "pregnancy_outcome": "not pregnant",
+     "pregnancy_note": "No pregnancy in the available synopses.",
+     "kids_together": "no",
+     "kids_together_note": "Ga-young and Nam-gyu part, then both die in an accident at the end.",
+     "kids_status": "no",
+     "kids_note": "No children mentioned.",
+     "sources": [
+      {
+       "label": "Korean Wikipedia: 8월의 신부",
+       "url": "https://ko.wikipedia.org/wiki/8%EC%9B%94%EC%9D%98_%EC%8B%A0%EB%B6%80"
+      },
+      {
+       "label": "Namu Wiki: 8월의 신부",
+       "url": "https://namu.wiki/w/8%EC%9B%94%EC%9D%98%20%EC%8B%A0%EB%B6%80"
+      },
+      {
+       "label": "Drama encyclopedia blog (Daum cafe)",
+       "url": "https://m.cafe.daum.net/ygy2317/Rp4o/8"
+      }
+     ],
+     "evidence": "Namu Wiki + Korean Wikipedia (broadcaster/dates); plot from a fan synopsis",
+     "confidence_flag": "Medium · plot detail from one fan synopsis; episode numbers for the hypnosis scenes not found",
+     "adult": "no",
+     "note": "One blog calls it an MBC weekend drama; Namu and Korean Wikipedia (via search) give SBS Wed–Thu, 1996, which is used here.",
+     "provenance": "KR/CN/TW/HK female-hypnosis pass, round 2, 15 Oct 2026 PT (adults only; non-explicit notes)"
+    }
+   }
+  },
+  {
+   "id": 3012,
+   "title": "Durian's Affair (아씨 두리안)",
+   "subtitle": "",
+   "year": "2023",
+   "meta": "TV series · South Korea · Korean · TV Chosun weekend miniseries · writer Phoebe (Im Sung-han) · streaming Coupang Play",
+   "mechanism": "",
+   "confidence_flag": "High (hypnosis ep 9) · Medium (ending details from press summaries)",
+   "summary": "After a lunar eclipse, Joseon noblewoman Du-rian and her daughter-in-law So-jeo find themselves in a chaebol family's house in modern Seoul. When fingerprint checks fail to identify them, Dan Chi-gam and Dan Chi-jeong have both women hypnotised to learn who they are; in trance they start talking about their past.",
+   "character": "Du-rian (Park Joo-mi) and her daughter-in-law Kim So-jeo (Lee Da-yeon), Joseon women who time-slip to the present",
+   "provenance": "KR/CN/TW/HK female-hypnosis pass, round 2, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Du-rian: in the finale she is asked to bear Chi-gam's child but vanishes with him through the pond on an eclipse day; whether she was pregnant is not stated. So-jeo marries Dan Deung-myeong and has a son, Dan Bin.",
+   "episodes": [
+    {
+     "episode": "Episode 9",
+     "air_date": "2023-07-22",
+     "gist": "Chi-gam and Chi-jeong arrange hypnotherapy for Du-rian and So-jeo. In trance, So-jeo tearfully talks about the past (it turns out to be about a dog), and Du-rian falls asleep, so neither session works. Later, Du-rian suddenly retches while eating with Chi-jeong.",
+     "number_verified": true
+    }
+   ],
+   "hypnotist": "A hypnotherapist arranged by Dan Chi-gam and Dan Chi-jeong",
+   "gain_motive": [
+    "identify them (memory recovery)"
+   ],
+   "method": "Hypnotherapy session",
+   "kids_status": "yes",
+   "kids_note": "Du-rian has an adult son in Joseon, Park Eon (So-jeo's husband).",
+   "kids_together": "yes",
+   "kids_together_note": "So-jeo and Deung-myeong end with a son, Dan Bin. For Du-rian and Chi-gam, no child is stated.",
+   "pregnant_end": "unknown",
+   "evidence": "Official broadcaster synopsis + press articles",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "medical",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "TV Chosun official ep 9 synopsis",
+     "url": "https://www.tvchosun.com/pressroom/pressroom_004/659308/detail.cstv"
+    },
+    {
+     "label": "Bizenter ep 9 preview",
+     "url": "https://enter.etoday.co.kr/news/view/244839"
+    },
+    {
+     "label": "SPOTV News finale article",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=626237"
+    },
+    {
+     "label": "Sports Donga finale article",
+     "url": "https://sports.donga.com/ent/article/all/20230814/120694191/1"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kr-cn-hypnosis-r2"
+   ],
+   "source_records": [
+    "kr-cn-hypnosis-r2:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kr-cn-hypnosis-r2:3": {
+     "title": "Durian's Affair (아씨 두리안)",
+     "year": "2023",
+     "format": "tv",
+     "meta": "TV series · South Korea · Korean · TV Chosun weekend miniseries · writer Phoebe (Im Sung-han) · streaming Coupang Play",
+     "character": "Du-rian (Park Joo-mi) and her daughter-in-law Kim So-jeo (Lee Da-yeon), Joseon women who time-slip to the present",
+     "summary": "After a lunar eclipse, Joseon noblewoman Du-rian and her daughter-in-law So-jeo find themselves in a chaebol family's house in modern Seoul. When fingerprint checks fail to identify them, Dan Chi-gam and Dan Chi-jeong have both women hypnotised to learn who they are; in trance they start talking about their past.",
+     "hypnotist": "A hypnotherapist arranged by Dan Chi-gam and Dan Chi-jeong",
+     "gain_motive": [
+      "identify them (memory recovery)"
+     ],
+     "method": "Hypnotherapy session",
+     "categories": [
+      "medical",
+      "human"
+     ],
+     "episodes": [
+      {
+       "episode": "Episode 9",
+       "air_date": "2023-07-22",
+       "gist": "Chi-gam and Chi-jeong arrange hypnotherapy for Du-rian and So-jeo. In trance, So-jeo tearfully talks about the past (it turns out to be about a dog), and Du-rian falls asleep, so neither session works. Later, Du-rian suddenly retches while eating with Chi-jeong.",
+       "number_verified": true
+      }
+     ],
+     "pregnant_end": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Du-rian: in the finale she is asked to bear Chi-gam's child but vanishes with him through the pond on an eclipse day; whether she was pregnant is not stated. So-jeo marries Dan Deung-myeong and has a son, Dan Bin.",
+     "kids_together": "yes",
+     "kids_together_note": "So-jeo and Deung-myeong end with a son, Dan Bin. For Du-rian and Chi-gam, no child is stated.",
+     "kids_status": "yes",
+     "kids_note": "Du-rian has an adult son in Joseon, Park Eon (So-jeo's husband).",
+     "sources": [
+      {
+       "label": "TV Chosun official ep 9 synopsis",
+       "url": "https://www.tvchosun.com/pressroom/pressroom_004/659308/detail.cstv"
+      },
+      {
+       "label": "Bizenter ep 9 preview",
+       "url": "https://enter.etoday.co.kr/news/view/244839"
+      },
+      {
+       "label": "SPOTV News finale article",
+       "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=626237"
+      },
+      {
+       "label": "Sports Donga finale article",
+       "url": "https://sports.donga.com/ent/article/all/20230814/120694191/1"
+      }
+     ],
+     "evidence": "Official broadcaster synopsis + press articles",
+     "confidence_flag": "High (hypnosis ep 9) · Medium (ending details from press summaries)",
+     "adult": "no",
+     "provenance": "KR/CN/TW/HK female-hypnosis pass, round 2, 15 Oct 2026 PT (adults only; non-explicit notes)",
+     "note": ""
+    }
+   }
+  },
+  {
+   "id": 3013,
+   "title": "天外飞书之催眠怪谈 (Tian Wai Fei Shu: Hypnosis Tales)",
+   "subtitle": "",
+   "year": "2018",
+   "meta": "Web movie (网络电影) · China · Mandarin · iQiyi exclusive · 65 min · released online 29 Mar 2018 · dir. Li Wanjun",
+   "mechanism": "",
+   "confidence_flag": "Medium · synopsis only; the hypnotist and ending are not described",
+   "summary": "Two ancient-era characters read a 'modern hypnosis novel'. Inside it, the anxious, possessive Marsha is hypnotised and lives inside an imagined murder mystery, in which she suspects her best friend Mengmeng of an affair with her boyfriend Xiaoye and of plotting against her and her younger brother.",
+   "character": "Marsha 玛莎 (Zhang Yingying)",
+   "provenance": "KR/CN/TW/HK female-hypnosis pass, round 2, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not covered by the synopses.",
+   "hypnotist": "Not named in the synopses (a hypnotherapy session in the 'novel')",
+   "gain_motive": [
+    "therapy"
+   ],
+   "method": "Hypnosis leading to an imagined scenario",
+   "kids_status": "no",
+   "kids_note": "Only a younger brother, Xiaobei, is mentioned.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "Maoyan synopsis + iQiyi listing",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "medical",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Maoyan web-movie page",
+     "url": "https://piaofang.maoyan.com/netMovie/1233059"
+    },
+    {
+     "label": "iQ.com wiki page",
+     "url": "https://www.iq.com/wiki/zh_cn/album/%E5%A4%A9%E5%A4%96%E9%A3%9E%E4%B9%A6%E4%B9%8B%E5%82%AC%E7%9C%A0%E6%80%AA%E8%B0%88-2018-19rrbgs0tc"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "kr-cn-hypnosis-r2"
+   ],
+   "source_records": [
+    "kr-cn-hypnosis-r2:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "kr-cn-hypnosis-r2:4": {
+     "title": "天外飞书之催眠怪谈 (Tian Wai Fei Shu: Hypnosis Tales)",
+     "year": "2018",
+     "format": "movie",
+     "meta": "Web movie (网络电影) · China · Mandarin · iQiyi exclusive · 65 min · released online 29 Mar 2018 · dir. Li Wanjun",
+     "character": "Marsha 玛莎 (Zhang Yingying)",
+     "summary": "Two ancient-era characters read a 'modern hypnosis novel'. Inside it, the anxious, possessive Marsha is hypnotised and lives inside an imagined murder mystery, in which she suspects her best friend Mengmeng of an affair with her boyfriend Xiaoye and of plotting against her and her younger brother.",
+     "hypnotist": "Not named in the synopses (a hypnotherapy session in the 'novel')",
+     "gain_motive": [
+      "therapy"
+     ],
+     "method": "Hypnosis leading to an imagined scenario",
+     "categories": [
+      "medical",
+      "human"
+     ],
+     "episodes": [],
+     "pregnant_end": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Not covered by the synopses.",
+     "kids_together": "unknown",
+     "kids_status": "no",
+     "kids_note": "Only a younger brother, Xiaobei, is mentioned.",
+     "sources": [
+      {
+       "label": "Maoyan web-movie page",
+       "url": "https://piaofang.maoyan.com/netMovie/1233059"
+      },
+      {
+       "label": "iQ.com wiki page",
+       "url": "https://www.iq.com/wiki/zh_cn/album/%E5%A4%A9%E5%A4%96%E9%A3%9E%E4%B9%A6%E4%B9%8B%E5%82%AC%E7%9C%A0%E6%80%AA%E8%B0%88-2018-19rrbgs0tc"
+      }
+     ],
+     "evidence": "Maoyan synopsis + iQiyi listing",
+     "confidence_flag": "Medium · synopsis only; the hypnotist and ending are not described",
+     "adult": "no",
+     "provenance": "KR/CN/TW/HK female-hypnosis pass, round 2, 15 Oct 2026 PT (adults only; non-explicit notes)",
+     "note": ""
+    }
+   }
   }
  ],
  "sections": [
@@ -456350,7 +456988,8 @@
     "hypnotized-female-oct15",
     "indonesia-sinetron-oct15",
     "hypno-turkey-oct15",
-    "kr-cn-hypnosis"
+    "kr-cn-hypnosis",
+    "kr-cn-hypnosis-r2"
    ],
    "groups": [
     {
@@ -460414,6 +461053,29 @@
       }
      ],
      "from_source": "kr-cn-hypnosis"
+    },
+    {
+     "title": "KR/CN/TW/HK hypnosis (round 2)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3011,
+       "from_source": "kr-cn-hypnosis-r2"
+      },
+      {
+       "id": 3012,
+       "from_source": "kr-cn-hypnosis-r2"
+      },
+      {
+       "id": 3010,
+       "from_source": "kr-cn-hypnosis-r2"
+      },
+      {
+       "id": 3013,
+       "from_source": "kr-cn-hypnosis-r2"
+      }
+     ],
+     "from_source": "kr-cn-hypnosis-r2"
     }
    ],
    "declared_count_by_source": {
@@ -460438,7 +461100,8 @@
     "hypnotized-female-oct15": null,
     "indonesia-sinetron-oct15": null,
     "hypno-turkey-oct15": null,
-    "kr-cn-hypnosis": null
+    "kr-cn-hypnosis": null,
+    "kr-cn-hypnosis-r2": null
    }
   },
   {
@@ -466921,7 +467584,8 @@
     "indian-parallel-oct15",
     "indonesia-sinetron-oct15",
     "hypno-turkey-oct15",
-    "kr-cn-hypnosis"
+    "kr-cn-hypnosis",
+    "kr-cn-hypnosis-r2"
    ],
    "groups": [
     {
@@ -468130,6 +468794,29 @@
       }
      ],
      "from_source": "kr-cn-hypnosis"
+    },
+    {
+     "title": "KR/CN/TW/HK hypnosis (round 2)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3011,
+       "from_source": "kr-cn-hypnosis-r2"
+      },
+      {
+       "id": 3012,
+       "from_source": "kr-cn-hypnosis-r2"
+      },
+      {
+       "id": 3010,
+       "from_source": "kr-cn-hypnosis-r2"
+      },
+      {
+       "id": 3013,
+       "from_source": "kr-cn-hypnosis-r2"
+      }
+     ],
+     "from_source": "kr-cn-hypnosis-r2"
     }
    ],
    "declared_count_by_source": {
@@ -468156,7 +468843,8 @@
     "indian-parallel-oct15": null,
     "indonesia-sinetron-oct15": null,
     "hypno-turkey-oct15": null,
-    "kr-cn-hypnosis": null
+    "kr-cn-hypnosis": null,
+    "kr-cn-hypnosis-r2": null
    }
   },
   {
