@@ -152,6 +152,8 @@ SOURCES = [
      "local": "sources/deep-gap-oct15.json", "required": False},
     {"id": "youtube-deep-oct15", "label": "YouTube deep sweep (15 Oct 2026)",
      "local": "sources/youtube-deep-oct15.json", "required": False},
+    {"id": "pregnant-yt-oct15", "label": "Adult pregnancy sweep via YouTube (15 Oct 2026)",
+     "local": "sources/pregnant-yt-oct15.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "

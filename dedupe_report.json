@@ -3136,6 +3136,13 @@
      "subtitle": "",
      "year": "1968",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-yt-oct15:22",
+     "title": "Rosemary’s Baby",
+     "subtitle": "",
+     "year": "1968",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -3459,6 +3466,13 @@
      "subtitle": "",
      "year": "2007",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-yt-oct15:18",
+     "title": "Knocked Up",
+     "subtitle": "",
+     "year": "2007",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -4883,6 +4897,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-yt-oct15:24",
+     "title": "Prevenge",
+     "subtitle": "",
+     "year": "2016–17",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -5030,6 +5051,13 @@
      "subtitle": "",
      "year": "2024",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-yt-oct15:23",
+     "title": "Immaculate",
+     "subtitle": "",
+     "year": "2024",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -14106,6 +14134,13 @@
      "subtitle": "",
      "year": "2010",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-yt-oct15:21",
+     "title": "The Back-up Plan",
+     "subtitle": "",
+     "year": "2010",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -14133,6 +14168,13 @@
      "subtitle": "",
      "year": "2007",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-yt-oct15:19",
+     "title": "Waitress",
+     "subtitle": "",
+     "year": "2007",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -21351,6 +21393,13 @@
      "subtitle": "",
      "year": "2009",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-yt-oct15:20",
+     "title": "Away We Go",
+     "subtitle": "",
+     "year": "2009",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -46341,11 +46390,12 @@
   "gap-check-vertical-oct15": 5,
   "adult-fanmade-oct15": 3,
   "deep-gap-oct15": 17,
-  "youtube-deep-oct15": 43
+  "youtube-deep-oct15": 43,
+  "pregnant-yt-oct15": 24
  },
- "entry_count_after_dedupe": 2946,
+ "entry_count_after_dedupe": 2963,
  "within_source_groups": 3,
  "cross_source_groups": 1894,
  "index_only_records": 61,
- "local_only_records": 725
+ "local_only_records": 742
 }

@@ -1,0 +1,558 @@
+{
+ "id": "pregnant-yt-oct15",
+ "label": "Adult pregnancy sweep via YouTube (15 Oct 2026)",
+ "group_title": "Pregnant (YouTube-sourced)",
+ "description": "Adult pregnant characters found through YouTube clips, trailers, full uploads and auto-captions, cross-checked with Wikipedia where possible. Father, outcome and prior kids recorded.",
+ "category_labels": {},
+ "records": [
+  {
+   "title": "Baby Mama",
+   "year": "2008",
+   "format": "movie",
+   "meta": "US · English · comedy film",
+   "categories": [
+    "pregnant",
+    "index-59"
+   ],
+   "character": "Kate Holbrook; surrogate Angie Ostrowiski",
+   "summary": "Single executive Kate hires working-class Angie as a surrogate; Angie turns out to be pregnant by her own boyfriend, and Kate unexpectedly conceives too.",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "Angie gives birth to a daughter (Stephanie); Kate has a daughter in the epilogue",
+   "pregnancy_note": "Father: Angie's baby: her boyfriend Carl (not Kate's embryo); Kate's baby: her boyfriend Rob",
+   "kids_status": "no",
+   "kids_note": "neither woman has children before",
+   "sources": [
+    {
+     "label": "YouTube: Angie's Water Breaks clip",
+     "url": "https://www.youtube.com/watch?v=Dnfl290-aIY"
+    },
+    {
+     "label": "YouTube: Angie finds out she is pregnant",
+     "url": "https://www.youtube.com/watch?v=g4qq2pWkPyc"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Baby_Mama_(film)"
+    }
+   ],
+   "evidence": "YouTube clips + Wikipedia"
+  },
+  {
+   "title": "Fargo",
+   "year": "1996",
+   "format": "movie",
+   "meta": "US · English · crime film",
+   "categories": [
+    "pregnant"
+   ],
+   "character": "Police Chief Marge Gunderson",
+   "summary": "A heavily pregnant small-town police chief investigates a string of murders tied to a botched kidnapping, while her morning sickness and appetite add humor.",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "still pregnant at the end (due in about two months)",
+   "pregnancy_note": "Father: her husband Norm Gunderson",
+   "kids_status": "no",
+   "kids_note": "none",
+   "sources": [
+    {
+     "label": "YouTube: Morning Sickness scene (Movieclips)",
+     "url": "https://www.youtube.com/watch?v=kPHbIyDTPHU"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Fargo_(1996_film)"
+    }
+   ],
+   "evidence": "YouTube clip + Wikipedia"
+  },
+  {
+   "title": "À l'intérieur / Inside",
+   "year": "2007",
+   "format": "movie",
+   "meta": "France · French · horror film",
+   "categories": [
+    "pregnant",
+    "index-60"
+   ],
+   "character": "Sarah Scarangelo",
+   "summary": "A grieving widow due to give birth on Christmas Eve is besieged in her home by a woman who wants to take her unborn child.",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "the intruder cuts the baby out at the end; Sarah dies",
+   "pregnancy_note": "Father: her late husband Matthieu (killed in a car crash four months earlier)",
+   "kids_status": "no",
+   "kids_note": "none",
+   "sources": [
+    {
+     "label": "YouTube: Official trailer",
+     "url": "https://www.youtube.com/watch?v=uJ1Hza-lZms"
+    },
+    {
+     "label": "YouTube: Teaser trailer",
+     "url": "https://www.youtube.com/watch?v=0wkrFF5j7ao"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Inside_(2007_film)"
+    }
+   ],
+   "evidence": "YouTube trailers + Wikipedia"
+  },
+  {
+   "title": "mother!",
+   "year": "2017",
+   "format": "movie",
+   "meta": "US · English · allegorical horror film",
+   "categories": [
+    "pregnant",
+    "index-60"
+   ],
+   "character": "Mother",
+   "summary": "A young wife renovating her poet husband's isolated house becomes pregnant while uninvited guests overrun the home.",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "son born; seized and killed by the crowd",
+   "pregnancy_note": "Father: her husband, \"Him\" (the poet)",
+   "kids_status": "no",
+   "kids_note": "none",
+   "sources": [
+    {
+     "label": "YouTube: TIFF trailer",
+     "url": "https://www.youtube.com/watch?v=MbsRAnPACCY"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mother!"
+    }
+   ],
+   "evidence": "YouTube trailer + Wikipedia"
+  },
+  {
+   "title": "Bridget Jones's Baby",
+   "year": "2016",
+   "format": "movie",
+   "meta": "UK · English · romantic comedy film",
+   "categories": [
+    "pregnant"
+   ],
+   "character": "Bridget Jones",
+   "summary": "Bridget, now in her forties, becomes pregnant and doesn't know which of two men is the father.",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "son William born; she marries Mark",
+   "pregnancy_note": "Father: Mark Darcy (Jack Qwant was the other possibility)",
+   "kids_status": "no",
+   "kids_note": "none",
+   "sources": [
+    {
+     "label": "YouTube: Official trailer",
+     "url": "https://www.youtube.com/watch?v=mJsvmscPY9w"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Bridget_Jones%27s_Baby"
+    }
+   ],
+   "evidence": "YouTube trailer + Wikipedia"
+  },
+  {
+   "title": "A Quiet Place",
+   "year": "2018",
+   "format": "movie",
+   "meta": "US · English · horror film",
+   "categories": [
+    "mom-pregnancy",
+    "index-58"
+   ],
+   "character": "Evelyn Abbott",
+   "summary": "In a world hunted by sound-sensitive creatures, a mother gives birth in silence in a flooded basement while protecting her children.",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "son born; he survives",
+   "pregnancy_note": "Father: her husband Lee Abbott",
+   "kids_status": "yes",
+   "kids_note": "daughter Regan and son Marcus (son Beau was killed earlier)",
+   "sources": [
+    {
+     "label": "YouTube: Giving Birth in Silence",
+     "url": "https://www.youtube.com/watch?v=iWQ55tDFKIg"
+    },
+    {
+     "label": "YouTube: The Bathtub scene",
+     "url": "https://www.youtube.com/watch?v=CeJQF4L0hx8"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/A_Quiet_Place_(film)"
+    }
+   ],
+   "evidence": "YouTube clips + Wikipedia"
+  },
+  {
+   "title": "Good Newwz",
+   "year": "2019",
+   "format": "movie",
+   "meta": "India · Hindi · comedy film",
+   "categories": [
+    "index-59"
+   ],
+   "character": "Deepti Batra and Monika Batra",
+   "summary": "An IVF clinic mixes up the sperm of two couples who share the surname Batra, so each wife carries the other husband's child.",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "both give birth at the end (Monika delivers Varun's child)",
+   "pregnancy_note": "Father: Deepti's baby: Honey Batra; Monika's baby: Varun Batra",
+   "kids_status": "no",
+   "kids_note": "none (Monika had two earlier miscarriages)",
+   "sources": [
+    {
+     "label": "YouTube: Official trailer",
+     "url": "https://www.youtube.com/watch?v=r9VJpqoAr84"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Good_Newwz"
+    }
+   ],
+   "evidence": "YouTube trailer + Wikipedia"
+  },
+  {
+   "title": "Mimi",
+   "year": "2021",
+   "format": "movie",
+   "meta": "India · Hindi · comedy-drama film",
+   "categories": [
+    "index-59"
+   ],
+   "character": "Mimi Rathore",
+   "summary": "An aspiring actress agrees to be a surrogate for an American couple, who abandon her mid-pregnancy after a Down syndrome scare.",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "healthy son (Raj) born; she raises him",
+   "pregnancy_note": "Father: John (the American intended father, via IVF)",
+   "kids_status": "no",
+   "kids_note": "none",
+   "sources": [
+    {
+     "label": "YouTube: Official trailer (Netflix India)",
+     "url": "https://www.youtube.com/watch?v=_sc3HyeNxPs"
+    },
+    {
+     "label": "YouTube: Surrogacy clip",
+     "url": "https://www.youtube.com/watch?v=Dl2QpMv5X74"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mimi_(2021_Hindi_film)"
+    }
+   ],
+   "evidence": "YouTube trailer/clip + Wikipedia"
+  },
+  {
+   "title": "Salaam Namaste",
+   "year": "2005",
+   "format": "movie",
+   "meta": "India · Hindi/English (set in Australia) · romantic comedy film",
+   "categories": [
+    "pregnant"
+   ],
+   "character": "Ambar Malhotra",
+   "summary": "A live-in couple in Melbourne face an unplanned pregnancy; she decides to keep it.",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "twins born",
+   "pregnancy_note": "Father: her partner Nick Arora",
+   "kids_status": "no",
+   "kids_note": "none",
+   "sources": [
+    {
+     "label": "YouTube: Clip",
+     "url": "https://www.youtube.com/watch?v=X8juJjf-eZY"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Salaam_Namaste_(film)"
+    }
+   ],
+   "evidence": "YouTube clip + Wikipedia"
+  },
+  {
+   "title": "Chori Chori Chupke Chupke",
+   "year": "2001",
+   "format": "movie",
+   "meta": "India · Hindi · drama film",
+   "categories": [
+    "index-59"
+   ],
+   "character": "Madhubala (Madhu)",
+   "summary": "After his wife Priya miscarries and becomes infertile, Raj arranges for Madhu to carry his child secretly as a surrogate.",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "baby born; Madhu gives him to Raj and Priya",
+   "pregnancy_note": "Father: Raj Malhotra",
+   "kids_status": "no",
+   "kids_note": "none",
+   "sources": [
+    {
+     "label": "YouTube: Climax scene",
+     "url": "https://www.youtube.com/watch?v=w9NXyy7mcCA"
+    },
+    {
+     "label": "YouTube: Clip",
+     "url": "https://www.youtube.com/watch?v=3e6x8UtZgYk"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Chori_Chori_Chupke_Chupke"
+    }
+   ],
+   "evidence": "YouTube clips + Wikipedia"
+  },
+  {
+   "title": "Pieces of a Woman",
+   "year": "2020",
+   "format": "movie",
+   "meta": "Canada/US · English · drama film",
+   "categories": [
+    "index-58"
+   ],
+   "character": "Martha Weiss",
+   "summary": "A woman's home birth ends with her newborn's death, followed by grief and a court case against the midwife.",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "daughter dies shortly after birth",
+   "pregnancy_note": "Father: her partner Sean Carson",
+   "kids_status": "no",
+   "kids_note": "none",
+   "sources": [
+    {
+     "label": "YouTube: Official trailer (Netflix)",
+     "url": "https://www.youtube.com/watch?v=1zLKbMAZNGI"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Pieces_of_a_Woman"
+    }
+   ],
+   "evidence": "YouTube trailer + Wikipedia"
+  },
+  {
+   "title": "Due Date",
+   "year": "2010",
+   "format": "movie",
+   "meta": "US · English · road comedy film",
+   "categories": [
+    "pregnant"
+   ],
+   "character": "Sarah Highman",
+   "summary": "Peter races cross-country to reach his wife Sarah before she gives birth.",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "daughter born",
+   "pregnancy_note": "Father: her husband Peter Highman",
+   "kids_status": "no",
+   "kids_note": "none",
+   "sources": [
+    {
+     "label": "YouTube: Sarah gives birth clip",
+     "url": "https://www.youtube.com/watch?v=pTkcH5xcXPo"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Due_Date"
+    }
+   ],
+   "evidence": "YouTube clip + Wikipedia"
+  },
+  {
+   "title": "The Switch",
+   "year": "2010",
+   "format": "movie",
+   "meta": "US · English · romantic comedy film",
+   "categories": [
+    "index-59"
+   ],
+   "character": "Kassie Larson",
+   "summary": "A single woman conceives by artificial insemination, unaware that her best friend swapped the donor sample for his own.",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "son Sebastian born",
+   "pregnancy_note": "Father: Wally Mars (secretly swapped for donor Roland)",
+   "kids_status": "no",
+   "kids_note": "none",
+   "sources": [
+    {
+     "label": "YouTube: Official trailer (Miramax)",
+     "url": "https://www.youtube.com/watch?v=cjEWE-ukREs"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Switch_(2010_film)"
+    }
+   ],
+   "evidence": "YouTube trailer + Wikipedia"
+  },
+  {
+   "title": "Delivery Man",
+   "year": "2013",
+   "format": "movie",
+   "meta": "US · English · comedy film",
+   "categories": [
+    "pregnant"
+   ],
+   "character": "Emma",
+   "summary": "A prolific former sperm donor's NYPD-officer girlfriend Emma is pregnant with his child as he learns he fathered 533 children.",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "baby born; David proposes",
+   "pregnancy_note": "Father: David Wozniak",
+   "kids_status": "no",
+   "kids_note": "none",
+   "sources": [
+    {
+     "label": "YouTube: Official trailer",
+     "url": "https://www.youtube.com/watch?v=mQ_i3boDR7c"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Delivery_Man_(film)"
+    }
+   ],
+   "evidence": "YouTube trailer + Wikipedia"
+  },
+  {
+   "title": "おおかみこどもの雨と雪 / Wolf Children",
+   "year": "2012",
+   "format": "movie",
+   "meta": "Japan · Japanese · animated film",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "character": "Hana",
+   "summary": "A college student falls in love with a wolf-man and has two half-wolf children, then raises them alone after he dies.",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "Yuki born, then son Ame; the father dies soon after Ame's birth",
+   "pregnancy_note": "Father: the wolf man (unnamed partner)",
+   "kids_status": "yes",
+   "kids_note": "daughter Yuki (before her second pregnancy)",
+   "sources": [
+    {
+     "label": "YouTube: Hana gives birth",
+     "url": "https://www.youtube.com/watch?v=ctaJVWEEnyU"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Wolf_Children"
+    }
+   ],
+   "evidence": "YouTube clip + Wikipedia"
+  },
+  {
+   "title": "未来のミライ / Mirai",
+   "year": "2018",
+   "format": "movie",
+   "meta": "Japan · Japanese · animated film",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "character": "Kun's mother",
+   "summary": "Four-year-old Kun's mother gives birth to his sister Mirai, and his jealousy sets off magical time-travel encounters.",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "daughter Mirai born",
+   "pregnancy_note": "Father: Kun's father (her husband, an architect)",
+   "kids_status": "yes",
+   "kids_note": "son Kun (4)",
+   "sources": [
+    {
+     "label": "YouTube: Official English trailer (GKIDS)",
+     "url": "https://www.youtube.com/watch?v=E8-PW5wvt30"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mirai_(2018_film)"
+    }
+   ],
+   "evidence": "YouTube trailer + Wikipedia"
+  },
+  {
+   "title": "Accidentally Pregnant with the Right Billionaire's Twins",
+   "year": "2026",
+   "format": "vertical series",
+   "meta": "US-produced English vertical short drama · full-movie YouTube upload (Drama Rush Time)",
+   "categories": [
+    "index-59"
+   ],
+   "character": "Sophie",
+   "summary": "Sophie's mother and brother trick her into IVF to sell the babies; the embryos turn out to be billionaire Ryder Carlton's, who protects her.",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "twins born, a boy and a girl; Sophie survives",
+   "pregnancy_note": "Father: Ryder Carlton (via IVF)",
+   "kids_status": "no",
+   "kids_note": "none",
+   "sources": [
+    {
+     "label": "YouTube: Full movie upload (title, description, auto-captions)",
+     "url": "https://www.youtube.com/watch?v=7IFBnd4RgUc"
+    }
+   ],
+   "evidence": "YouTube-only (auto-captions of the full upload); age not stated (adult)"
+  },
+  {
+   "title": "Knocked Up",
+   "year": "2007",
+   "format": "movie",
+   "match_title": "Knocked Up",
+   "match_year": "2007",
+   "kids_status": "no",
+   "kids_note": "none — Alison has no children before"
+  },
+  {
+   "title": "Waitress",
+   "year": "2007",
+   "format": "movie",
+   "match_title": "Waitress",
+   "match_year": "2007",
+   "kids_status": "no",
+   "kids_note": "none — Jenna has no children before"
+  },
+  {
+   "title": "Away We Go",
+   "year": "2009",
+   "format": "movie",
+   "match_title": "Away We Go",
+   "match_year": "2009",
+   "kids_status": "no",
+   "kids_note": "none — Verona's first child"
+  },
+  {
+   "title": "The Back-up Plan",
+   "year": "2010",
+   "format": "movie",
+   "match_title": "The Back-up Plan",
+   "match_year": "2010",
+   "kids_status": "no",
+   "kids_note": "none — Zoe's first pregnancy (twins)"
+  },
+  {
+   "title": "Rosemary’s Baby",
+   "year": "1968",
+   "format": "movie",
+   "match_title": "Rosemary’s Baby",
+   "match_year": "1968",
+   "kids_status": "no",
+   "kids_note": "none — Rosemary's first child"
+  },
+  {
+   "title": "Immaculate",
+   "year": "2024",
+   "format": "movie",
+   "match_title": "Immaculate",
+   "match_year": "2024",
+   "kids_status": "no",
+   "kids_note": "none — Sister Cecilia, a nun"
+  },
+  {
+   "title": "Prevenge",
+   "year": "2016–17",
+   "format": "movie",
+   "match_title": "Prevenge",
+   "match_year": "2016–17",
+   "kids_status": "no",
+   "kids_note": "none — Ruth's first child"
+  }
+ ],
+ "dropped": [
+  "Children of Men (Kee's age unestablished)",
+  "Juno, Where the Heart Is, Kya Kehna (teen/young pregnancies)",
+  "'18yo unexpectedly pregnant…' microdrama (borderline age; excluded)",
+  "'I Got Pregnant with Triplets by the Mafia Boss' (no plot details beyond the title; unverified)",
+  "Titane, Lamb (non-human pregnancy framing)"
+ ]
+}
