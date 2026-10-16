@@ -3915,7 +3915,7 @@ window.CATALOG = {
    "description": "Titles and episodes found on streaming-service title pages (Netflix, Prime Video, Disney+, etc.)",
    "dropped": [],
    "check": {
-    "raw_count": 40,
+    "raw_count": 46,
     "ok": true
    },
    "status": "local"
@@ -3963,10 +3963,10 @@ window.CATALOG = {
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
   "official-yt-oct15": 45,
-  "streaming-oct15": 40
+  "streaming-oct15": 46
  },
- "raw_total": 5604,
- "entry_count": 2831,
+ "raw_total": 5610,
+ "entry_count": 2835,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -3984,7 +3984,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 262
+   "entry_count": 265
   },
   {
    "key": "walkin",
@@ -4092,7 +4092,7 @@ window.CATALOG = {
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 52
+   "entry_count": 53
   },
   {
    "key": "index-54",
@@ -4164,7 +4164,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 129
+   "entry_count": 130
   },
   {
    "key": "mom-partner-control",
@@ -15996,13 +15996,10 @@ window.CATALOG = {
    "tags": [
     "loose fit"
    ],
-   "kids_status": "unknown",
-   "kids_note": "not mentioned",
-   "kids_together": "no",
-   "married": "no",
-   "married_note": "she is married to Joe throughout",
-   "pregnant_end": "no",
-   "pregnant_end_note": "no pregnancy in any recap",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "evidence": "2+ independent sources (IMDb, Wikipedia, PostCredit, Lansdown recap, Mental Block)",
    "source_conflict": "Episode number: Wikipedia, IMDb and PostCredit give S01E10; Mental Block lists it as Season 1 Episode 11",
    "fit_note": "Age gap: Ferrer about 72, Phillips about 40; 'young adult' fit is loose",
@@ -16050,6 +16047,10 @@ window.CATALOG = {
     {
      "label": "TV Tropes: Hypno Fool",
      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoFool"
+    },
+    {
+     "label": "Tubi: Murder, She Wrote 'Death Casts a Spell'",
+     "url": "https://tubitv.com/tv-shows/200209503/s01-e11-death-casts-a-spell"
     }
    ],
    "youtube_ids": [],
@@ -16057,13 +16058,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
     "older-man-hypnosis",
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "streaming-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:44",
     "worldwide-hypnosis:618",
     "older-man-hypnosis:7",
-    "hypnosis-assault-loose:7"
+    "hypnosis-assault-loose:7",
+    "streaming-oct15:46"
    ],
    "index_only": false,
    "local_only": false,
@@ -16299,6 +16302,38 @@ window.CATALOG = {
      "fit_note": "Loose fit: her claim of being hypnotized into the affair is never confirmed.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "streaming-oct15:46",
+     "source": "streaming-oct15",
+     "label": "Murder, She Wrote (1984)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Murder, She Wrote",
+     "subtitle": "",
+     "year": "1984",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Tubi: Murder, She Wrote 'Death Casts a Spell'",
+       "url": "https://tubitv.com/tv-shows/200209503/s01-e11-death-casts-a-spell"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": false,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -16510,8 +16545,37 @@ window.CATALOG = {
      "catalog_ids": [
       44
      ]
+    },
+    "streaming-oct15:46": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "",
+     "confidence_flag": "",
+     "summary": "",
+     "character": "",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "title": "Murder, She Wrote",
+     "year": "1984",
+     "sources": [
+      {
+       "label": "Tubi: Murder, She Wrote 'Death Casts a Spell'",
+       "url": "https://tubitv.com/tv-shows/200209503/s01-e11-death-casts-a-spell"
+      }
+     ]
     }
-   }
+   },
+   "retired_ids": [
+    2965
+   ]
   },
   {
    "id": 45,
@@ -56213,25 +56277,36 @@ window.CATALOG = {
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "format": "movie",
    "categories": [
     "human",
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "medical"
    ],
    "sources": [
     {
      "label": "Wikipedia",
      "url": "http://en.wikipedia.org/wiki/Dead_Again"
+    },
+    {
+     "label": "Tubi: Dead Again (1991)",
+     "url": "https://tubitv.com/movies/305438/dead-again"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "streaming-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:234",
-    "ig6qlxqxoxvcxla:543"
+    "ig6qlxqxoxvcxla:543",
+    "streaming-oct15:45"
    ],
    "index_only": false,
    "local_only": false,
@@ -56288,6 +56363,38 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Dead Again (1991)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "streaming-oct15:45",
+     "source": "streaming-oct15",
+     "label": "Dead Again (1991)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dead Again",
+     "subtitle": "",
+     "year": "1991",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Tubi: Dead Again (1991)",
+       "url": "https://tubitv.com/movies/305438/dead-again"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": false,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -56318,8 +56425,37 @@ window.CATALOG = {
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "streaming-oct15:45": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "",
+     "confidence_flag": "",
+     "summary": "",
+     "character": "",
+     "categories": [
+      "medical"
+     ],
+     "title": "Dead Again",
+     "year": "1991",
+     "sources": [
+      {
+       "label": "Tubi: Dead Again (1991)",
+       "url": "https://tubitv.com/movies/305438/dead-again"
+      }
+     ]
     }
-   }
+   },
+   "retired_ids": [
+    2964
+   ]
   },
   {
    "id": 234,
@@ -429540,6 +429676,277 @@ window.CATALOG = {
      ]
     }
    }
+  },
+  {
+   "id": 2960,
+   "title": "Feel So Good",
+   "subtitle": "",
+   "year": "2022",
+   "meta": "",
+   "mechanism": "Hypnosis",
+   "confidence_flag": "",
+   "summary": "Tubi synopsis: broke, aimless and jobless, a young woman becomes the unknowing victim of Valentine, a desperate hypnotist who uses his victims to commit crimes.",
+   "character": "",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "Tubi: Feel So Good (2022)",
+     "url": "https://tubitv.com/movies/673172/feel-so-good"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:41"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:41": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "",
+     "summary": "Tubi synopsis: broke, aimless and jobless, a young woman becomes the unknowing victim of Valentine, a desperate hypnotist who uses his victims to commit crimes.",
+     "character": "",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "title": "Feel So Good",
+     "year": "2022",
+     "sources": [
+      {
+       "label": "Tubi: Feel So Good (2022)",
+       "url": "https://tubitv.com/movies/673172/feel-so-good"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2961,
+   "title": "The Avengers — \"Pandora\"",
+   "subtitle": "S06E30",
+   "year": "1969",
+   "meta": "TV series · ITV · UK · English",
+   "mechanism": "Drugging and brainwashing",
+   "confidence_flag": "",
+   "summary": "Pluto TV synopsis: two brothers kidnap and drug Tara and try to brainwash her into believing she is Pandora, a young woman closely resembling their elderly father's fiancée.",
+   "character": "Tara King",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "Pluto TV: The Avengers S6E30 'Pandora'",
+     "url": "https://pluto.tv/us/shows/2030017/episode/6441d36a64898f001a700630/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:42"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:42": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "S06E30",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Drugging and brainwashing",
+     "confidence_flag": "",
+     "summary": "Pluto TV synopsis: two brothers kidnap and drug Tara and try to brainwash her into believing she is Pandora, a young woman closely resembling their elderly father's fiancée.",
+     "character": "Tara King",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "title": "The Avengers — \"Pandora\"",
+     "year": "1969",
+     "meta": "TV series · ITV · UK · English",
+     "sources": [
+      {
+       "label": "Pluto TV: The Avengers S6E30 'Pandora'",
+       "url": "https://pluto.tv/us/shows/2030017/episode/6441d36a64898f001a700630/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2962,
+   "title": "The George Burns and Gracie Allen Show — \"Hypnotizing Gracie\"",
+   "subtitle": "S08E21",
+   "year": "1958",
+   "meta": "Sitcom · CBS · USA · English",
+   "mechanism": "Stage/therapeutic hypnosis",
+   "confidence_flag": "",
+   "summary": "Plex synopsis: George reluctantly lets Gracie see a hypnotist, and she comes out of the meeting with a completely different personality.",
+   "character": "Gracie Allen",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "Yes: Gracie is George's wife in the show",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "Plex: Burns & Allen S8E21 'Hypnotizing Gracie'",
+     "url": "https://watch.plex.tv/show/the-george-burns-and-gracie-allen-show/season/8/episode/21"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:43"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:43": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "S08E21",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "Yes: Gracie is George's wife in the show",
+     "mechanism": "Stage/therapeutic hypnosis",
+     "confidence_flag": "",
+     "summary": "Plex synopsis: George reluctantly lets Gracie see a hypnotist, and she comes out of the meeting with a completely different personality.",
+     "character": "Gracie Allen",
+     "categories": [
+      "wife"
+     ],
+     "title": "The George Burns and Gracie Allen Show — \"Hypnotizing Gracie\"",
+     "year": "1958",
+     "meta": "Sitcom · CBS · USA · English",
+     "sources": [
+      {
+       "label": "Plex: Burns & Allen S8E21 'Hypnotizing Gracie'",
+       "url": "https://watch.plex.tv/show/the-george-burns-and-gracie-allen-show/season/8/episode/21"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2963,
+   "title": "Hypnotizing Mamie",
+   "subtitle": "",
+   "year": "1913",
+   "meta": "Short comedy · USA · silent",
+   "mechanism": "Stage hypnosis",
+   "confidence_flag": "",
+   "summary": "Plex synopsis: 'Professor Svengali', a hypnotist, entrances Mamie and puts her on stage as 'Madam Zaza'. A bucket of water brings her out of the trance and she begs Dan for forgiveness.",
+   "character": "Mamie",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "Plex: Hypnotizing Mamie (1913)",
+     "url": "https://watch.plex.tv/movie/hypnotizing-mamie"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:44"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:44": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Stage hypnosis",
+     "confidence_flag": "",
+     "summary": "Plex synopsis: 'Professor Svengali', a hypnotist, entrances Mamie and puts her on stage as 'Madam Zaza'. A bucket of water brings her out of the trance and she begs Dan for forgiveness.",
+     "character": "Mamie",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "title": "Hypnotizing Mamie",
+     "year": "1913",
+     "meta": "Short comedy · USA · silent",
+     "sources": [
+      {
+       "label": "Plex: Hypnotizing Mamie (1913)",
+       "url": "https://watch.plex.tv/movie/hypnotizing-mamie"
+      }
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -430882,6 +431289,12 @@ window.CATALOG = {
         "Human-villain hypnosis / mind control",
         "Research report · web-verified"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "http://en.wikipedia.org/wiki/Dead_Again"
+        }
+       ],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -431476,6 +431889,44 @@ window.CATALOG = {
         "Human-villain control",
         "Claimed hypnosis",
         "Claim left ambiguous"
+       ],
+       "sources": [
+        {
+         "label": "Episode Hive",
+         "url": "https://episodehive.com/tv-shows/murder-she-wrote/season-1"
+        },
+        {
+         "label": "Podscan",
+         "url": "https://podscan.fm/podcasts/now-listen-here-woman-a-murder-she-wrote-podcast/episodes/11season-1episode-10"
+        },
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0653494"
+        },
+        {
+         "label": "Wikipedia episode list",
+         "url": "https://en.wikipedia.org/wiki/List_of_Murder,_She_Wrote_episodes"
+        },
+        {
+         "label": "PostCredit",
+         "url": "https://postcredit.tv/tv/484/season/1/episode/10"
+        },
+        {
+         "label": "Chris Lansdown recap",
+         "url": "https://blog.chrislansdown.com/2024/09/10/murder-she-wrote-death-casts-a-spell/"
+        },
+        {
+         "label": "Mental Block",
+         "url": "https://mentalblock.miraheze.org/wiki/Murder%2C_She_Wrote"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Murder%2C_She_Wrote"
+        },
+        {
+         "label": "TV Tropes: Hypno Fool",
+         "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoFool"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -433153,6 +433604,10 @@ window.CATALOG = {
        "from_source": "streaming-oct15"
       },
       {
+       "id": 2961,
+       "from_source": "streaming-oct15"
+      },
+      {
        "id": 2949,
        "from_source": "streaming-oct15"
       },
@@ -433161,7 +433616,15 @@ window.CATALOG = {
        "from_source": "streaming-oct15"
       },
       {
+       "id": 2960,
+       "from_source": "streaming-oct15"
+      },
+      {
        "id": 1285,
+       "from_source": "streaming-oct15"
+      },
+      {
+       "id": 2963,
        "from_source": "streaming-oct15"
       },
       {
@@ -441220,6 +441683,12 @@ window.CATALOG = {
         "Human-villain hypnosis / mind control",
         "Research report · web-verified"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "http://en.wikipedia.org/wiki/Dead_Again"
+        }
+       ],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -445583,6 +446052,10 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 2962,
+       "from_source": "streaming-oct15"
+      },
+      {
        "id": 2935,
        "from_source": "streaming-oct15"
       }
@@ -446169,6 +446642,44 @@ window.CATALOG = {
         "Human-villain control",
         "Claimed hypnosis",
         "Claim left ambiguous"
+       ],
+       "sources": [
+        {
+         "label": "Episode Hive",
+         "url": "https://episodehive.com/tv-shows/murder-she-wrote/season-1"
+        },
+        {
+         "label": "Podscan",
+         "url": "https://podscan.fm/podcasts/now-listen-here-woman-a-murder-she-wrote-podcast/episodes/11season-1episode-10"
+        },
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0653494"
+        },
+        {
+         "label": "Wikipedia episode list",
+         "url": "https://en.wikipedia.org/wiki/List_of_Murder,_She_Wrote_episodes"
+        },
+        {
+         "label": "PostCredit",
+         "url": "https://postcredit.tv/tv/484/season/1/episode/10"
+        },
+        {
+         "label": "Chris Lansdown recap",
+         "url": "https://blog.chrislansdown.com/2024/09/10/murder-she-wrote-death-casts-a-spell/"
+        },
+        {
+         "label": "Mental Block",
+         "url": "https://mentalblock.miraheze.org/wiki/Murder%2C_She_Wrote"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Murder%2C_She_Wrote"
+        },
+        {
+         "label": "TV Tropes: Hypno Fool",
+         "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoFool"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -448209,6 +448720,44 @@ window.CATALOG = {
         "Human-villain control",
         "Claimed hypnosis",
         "Claim left ambiguous"
+       ],
+       "sources": [
+        {
+         "label": "Episode Hive",
+         "url": "https://episodehive.com/tv-shows/murder-she-wrote/season-1"
+        },
+        {
+         "label": "Podscan",
+         "url": "https://podscan.fm/podcasts/now-listen-here-woman-a-murder-she-wrote-podcast/episodes/11season-1episode-10"
+        },
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0653494"
+        },
+        {
+         "label": "Wikipedia episode list",
+         "url": "https://en.wikipedia.org/wiki/List_of_Murder,_She_Wrote_episodes"
+        },
+        {
+         "label": "PostCredit",
+         "url": "https://postcredit.tv/tv/484/season/1/episode/10"
+        },
+        {
+         "label": "Chris Lansdown recap",
+         "url": "https://blog.chrislansdown.com/2024/09/10/murder-she-wrote-death-casts-a-spell/"
+        },
+        {
+         "label": "Mental Block",
+         "url": "https://mentalblock.miraheze.org/wiki/Murder%2C_She_Wrote"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Murder%2C_She_Wrote"
+        },
+        {
+         "label": "TV Tropes: Hypno Fool",
+         "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoFool"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -451967,6 +452516,10 @@ window.CATALOG = {
       },
       {
        "id": 2951,
+       "from_source": "streaming-oct15"
+      },
+      {
+       "id": 233,
        "from_source": "streaming-oct15"
       },
       {

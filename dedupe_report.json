@@ -1207,6 +1207,13 @@
      "subtitle": "S01E10 · “Death Casts a Spell”",
      "year": "1984",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "streaming-oct15:46",
+     "title": "Murder, She Wrote",
+     "subtitle": "",
+     "year": "1984",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -6635,6 +6642,13 @@
      "subtitle": "",
      "year": "1991",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "streaming-oct15:45",
+     "title": "Dead Again",
+     "subtitle": "",
+     "year": "1991",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -43795,6 +43809,18 @@
    "year": "2013",
    "kept_id": 1679,
    "retired_id": 2959
+  },
+  {
+   "title": "Dead Again",
+   "year": "1991",
+   "kept_id": 233,
+   "retired_id": 2964
+  },
+  {
+   "title": "Murder, She Wrote",
+   "year": "1984",
+   "kept_id": 44,
+   "retired_id": 2965
   }
  ],
  "merge_rules": [
@@ -43906,11 +43932,11 @@
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
   "official-yt-oct15": 45,
-  "streaming-oct15": 40
+  "streaming-oct15": 46
  },
- "entry_count_after_dedupe": 2831,
+ "entry_count_after_dedupe": 2835,
  "within_source_groups": 3,
  "cross_source_groups": 1817,
  "index_only_records": 64,
- "local_only_records": 610
+ "local_only_records": 614
 }
