@@ -91,6 +91,34 @@
      "url": "https://tv.apple.com/in/episode/maya-hypnotises-mata-jaganmohini/umc.cmc.2kereyqc87kp0ydwpyu8n2pj6?showId=umc.cmc.4i83m3mgdfewkifssu9gspubd"
     }
    ]
+  },
+  {
+   "standalone": true,
+   "group": "Indian web-sources parallel sweep (Oct 2026)",
+   "provenance": "Indian web-sources parallel sweep, 15 Oct 2026 PT",
+   "format": "series",
+   "subtitle": "13 Aug 2024 episode",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "mechanism": "Hypnosis by a psychiatrist",
+   "confidence_flag": "Single written-update source",
+   "summary": "Parineet secretly arranges for a psychiatrist to hypnotise Neeti in front of the family; under hypnosis Neeti recalls childhood memories of Parineet and is about to name those behind Parineet's supposed death at the temple when Daljeet breaks the trance.",
+   "character": "Neeti",
+   "categories": [
+    "india-control",
+    "medical"
+   ],
+   "title": "Parineetii",
+   "year": "2022–2025",
+   "meta": "TV serial · India · Hindi · Colors TV",
+   "sources": [
+    {
+     "label": "JustShowBiz: Parineetii 13 Aug 2024 written update",
+     "url": "https://www.justshowbiz.net/parineetii-13th-august-2024-written-update/"
+    }
+   ]
   }
  ]
 }

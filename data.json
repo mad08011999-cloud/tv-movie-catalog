@@ -3928,7 +3928,7 @@
    "description": "Web recap sites, Wikipedia and platform episode pages; 15 Oct 2026.",
    "dropped": [],
    "check": {
-    "raw_count": 3,
+    "raw_count": 4,
     "ok": true
    },
    "status": "local"
@@ -3977,10 +3977,10 @@
   "recap-imdb-oct15": 2,
   "official-yt-oct15": 45,
   "streaming-oct15": 61,
-  "indian-parallel-oct15": 3
+  "indian-parallel-oct15": 4
  },
- "raw_total": 5628,
- "entry_count": 2848,
+ "raw_total": 5629,
+ "entry_count": 2849,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4070,7 +4070,7 @@
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 195
+   "entry_count": 196
   },
   {
    "key": "hypnotized-to-marry",
@@ -4178,7 +4178,7 @@
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 133
+   "entry_count": 134
   },
   {
    "key": "mom-partner-control",
@@ -431241,6 +431241,76 @@
      ]
     }
    }
+  },
+  {
+   "id": 2983,
+   "title": "Parineetii",
+   "subtitle": "13 Aug 2024 episode",
+   "year": "2022–2025",
+   "meta": "TV serial · India · Hindi · Colors TV",
+   "mechanism": "Hypnosis by a psychiatrist",
+   "confidence_flag": "Single written-update source",
+   "summary": "Parineet secretly arranges for a psychiatrist to hypnotise Neeti in front of the family; under hypnosis Neeti recalls childhood memories of Parineet and is about to name those behind Parineet's supposed death at the temple when Daljeet breaks the trance.",
+   "character": "Neeti",
+   "provenance": "Indian web-sources parallel sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "series",
+   "categories": [
+    "india-control",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "JustShowBiz: Parineetii 13 Aug 2024 written update",
+     "url": "https://www.justshowbiz.net/parineetii-13th-august-2024-written-update/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "indian-parallel-oct15"
+   ],
+   "source_records": [
+    "indian-parallel-oct15:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "indian-parallel-oct15:4": {
+     "standalone": true,
+     "group": "Indian web-sources parallel sweep (Oct 2026)",
+     "provenance": "Indian web-sources parallel sweep, 15 Oct 2026 PT",
+     "format": "series",
+     "subtitle": "13 Aug 2024 episode",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnosis by a psychiatrist",
+     "confidence_flag": "Single written-update source",
+     "summary": "Parineet secretly arranges for a psychiatrist to hypnotise Neeti in front of the family; under hypnosis Neeti recalls childhood memories of Parineet and is about to name those behind Parineet's supposed death at the temple when Daljeet breaks the trance.",
+     "character": "Neeti",
+     "categories": [
+      "india-control",
+      "medical"
+     ],
+     "title": "Parineetii",
+     "year": "2022–2025",
+     "meta": "TV serial · India · Hindi · Colors TV",
+     "sources": [
+      {
+       "label": "JustShowBiz: Parineetii 13 Aug 2024 written update",
+       "url": "https://www.justshowbiz.net/parineetii-13th-august-2024-written-update/"
+      }
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -441503,6 +441573,10 @@
       },
       {
        "id": 2981,
+       "from_source": "indian-parallel-oct15"
+      },
+      {
+       "id": 2983,
        "from_source": "indian-parallel-oct15"
       }
      ],
@@ -452919,7 +452993,8 @@
     "telugu-deep-oct15",
     "new-angles-oct15",
     "official-yt-oct15",
-    "streaming-oct15"
+    "streaming-oct15",
+    "indian-parallel-oct15"
    ],
    "groups": [
     {
@@ -454064,6 +454139,17 @@
       }
      ],
      "from_source": "streaming-oct15"
+    },
+    {
+     "title": "Indian web-sources parallel sweep (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2983,
+       "from_source": "indian-parallel-oct15"
+      }
+     ],
+     "from_source": "indian-parallel-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -454086,7 +454172,8 @@
     "telugu-deep-oct15": null,
     "new-angles-oct15": null,
     "official-yt-oct15": null,
-    "streaming-oct15": null
+    "streaming-oct15": null,
+    "indian-parallel-oct15": null
    }
   },
   {
