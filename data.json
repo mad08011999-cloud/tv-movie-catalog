@@ -4274,6 +4274,60 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "female-wife-scenes-oct15",
+   "label": "Female / wife hypnosis scenes sweep (15 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/female-wife-scenes-oct15.json",
+   "description": "Scene-level sweep (YouTube clip titles/descriptions via yt-dlp metadata, episode guides) for adult women, especially wives, hypnotized on screen. Existing categories only. Each record names the episode/scene, the hypnotist and whether she is a wife.",
+   "dropped": [
+    {
+     "title": "Shivers (1975)",
+     "reason": "YouTube clip titled as a hypnosis scene but the film's plot is parasites, not hypnosis; unverified"
+    },
+    {
+     "title": "Petrocelli (stage hypnotist episode)",
+     "reason": "Woman is the hypnotist; the hypnotized person is a man"
+    },
+    {
+     "title": "Passion and Romance: Double or Nothing (1997)",
+     "reason": "Clip age-restricted; plot could not be verified"
+    },
+    {
+     "title": "The Hypnotic Spy",
+     "reason": "Could not identify the film or year"
+    },
+    {
+     "title": "Aini Malaikat Tak Bersayap (Indonesia, eps 89/198)",
+     "reason": "Clip descriptions do not describe who is hypnotized or confirm she is an adult; needs more research"
+    },
+    {
+     "title": "Sweet Hearth Drama 'Wife Was Hypnotized By Husband...' (vertical short)",
+     "reason": "No series title identified; channel disclaimer mentions minor actors; unverifiable"
+    },
+    {
+     "title": "La main de l'assassin (1990 TV film)",
+     "reason": "The hypnotized person is a male ministry employee"
+    },
+    {
+     "title": "Beverly Hills mayor's wife hypnotized (Tom Silver)",
+     "reason": "Real stage show, not a film or series"
+    },
+    {
+     "title": "Community (Britta), Futurama (Amy), American Dad (Hayley), The Mentalist, Gran Hotel, Tic Tac, Sen Çal Kapımı",
+     "reason": "Already in the catalog or title-level duplicate; no new verified scene detail added"
+    },
+    {
+     "title": "Teşkilat ep 126 (Selen brainwashed)",
+     "reason": "Not enough sourcing within this pass"
+    }
+   ],
+   "check": {
+    "raw_count": 4,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -4325,10 +4379,11 @@
   "kr-cn-hypnosis": 79,
   "wife-hypnosis-oct15": 109,
   "kr-cn-hypnosis-r2": 5,
-  "belly-kissed-kids": 2
+  "belly-kissed-kids": 2,
+  "female-wife-scenes-oct15": 4
  },
- "raw_total": 5840,
- "entry_count": 2880,
+ "raw_total": 5844,
+ "entry_count": 2884,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4358,7 +4413,7 @@
    "key": "index-62",
    "label": "Comedy",
    "legend_label": "Comedy",
-   "entry_count": 20
+   "entry_count": 23
   },
   {
    "key": "index-61",
@@ -4526,7 +4581,7 @@
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 146
+   "entry_count": 148
   },
   {
    "key": "mom-partner-control",
@@ -4832,7 +4887,7 @@
    "key": "widow-divorcee",
    "label": "Widowed / divorced woman hypnotised or mind-controlled",
    "legend_label": "Widowed / divorced woman hypnotised or mind-controlled",
-   "entry_count": 6
+   "entry_count": 7
   },
   {
    "key": "exwife-control",
@@ -4844,13 +4899,13 @@
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 109
+   "entry_count": 111
   },
   {
    "key": "therapist-wife",
    "label": "Wife hypnotized / controlled by a therapist",
    "legend_label": "Wife hypnotized / controlled by a therapist",
-   "entry_count": 17
+   "entry_count": 18
   },
   {
    "key": "another-man",
@@ -445670,6 +445725,442 @@
      "evidence": "Animoon; CEE Animation; Zlín Film Festival; Ale Kino! festival"
     }
    }
+  },
+  {
+   "id": 3015,
+   "title": "Dallas",
+   "subtitle": "S4E4 \"Who Done It?\" (aired 21 Nov 1980)",
+   "year": "1980",
+   "meta": "US · English · CBS prime-time soap",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Scene: S4E4 \"Who Done It?\". Sue Ellen Ewing, jailed after her fingerprints are found on the gun used to shoot her husband J.R., is put under hypnosis by her psychiatrist Dr. Simon Ellby to recover the night of the shooting; under hypnosis she remembers that her sister Kristin shot J.R. and framed her. Hypnotist: psychiatrist Dr. Ellby. Wife: yes (J.R. Ewing's wife).",
+   "character": "Sue Ellen Ewing (Linda Gray)",
+   "provenance": "Female/wife scenes sweep, 15 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "Not in this episode (Kristin, not Sue Ellen, is revealed pregnant by J.R.)",
+   "episodes": [
+    {
+     "episode": "S4E4",
+     "title": "Who Done It?",
+     "air_date": "1980-11-21",
+     "gist": "Dr. Ellby hypnotizes Sue Ellen; she recalls Kristin shot J.R."
+    }
+   ],
+   "kids_status": "yes",
+   "kids_note": "Son John Ross Ewing III with J.R., born before this episode",
+   "kids_together": "yes",
+   "pregnant_end": "no",
+   "evidence": "Episode guides (TVmaze, Rotten Tomatoes, Dallas Decoder) + YouTube clip",
+   "fit_note": "Therapeutic memory-recovery hypnosis, consensual",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: J.R. Ewing",
+   "format": "tv",
+   "categories": [
+    "wife-hypnotized",
+    "therapist-wife",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "YouTube clip: Hypnosis Scene In Dallas - Sue Ellen Gets Hypnotized",
+     "url": "https://www.youtube.com/watch?v=eDpZdZr37bo"
+    },
+    {
+     "label": "TVmaze: Dallas 4x04 Who Done It?",
+     "url": "https://www.tvmaze.com/episodes/80302/dallas-4x04-who-done-it"
+    },
+    {
+     "label": "Dallas Decoder: Who Done It?",
+     "url": "https://dallasdecoder.com/tag/who-done-it/page/2/"
+    }
+   ],
+   "youtube_ids": [
+    "eDpZdZr37bo"
+   ],
+   "from_sources": [
+    "female-wife-scenes-oct15"
+   ],
+   "source_records": [
+    "female-wife-scenes-oct15:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/eDpZdZr37bo.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "female-wife-scenes-oct15:1": {
+     "title": "Dallas",
+     "subtitle": "S4E4 \"Who Done It?\" (aired 21 Nov 1980)",
+     "year": "1980",
+     "format": "tv",
+     "meta": "US · English · CBS prime-time soap",
+     "summary": "Scene: S4E4 \"Who Done It?\". Sue Ellen Ewing, jailed after her fingerprints are found on the gun used to shoot her husband J.R., is put under hypnosis by her psychiatrist Dr. Simon Ellby to recover the night of the shooting; under hypnosis she remembers that her sister Kristin shot J.R. and framed her. Hypnotist: psychiatrist Dr. Ellby. Wife: yes (J.R. Ewing's wife).",
+     "character": "Sue Ellen Ewing (Linda Gray)",
+     "categories": [
+      "wife-hypnotized",
+      "therapist-wife",
+      "medical"
+     ],
+     "episodes": [
+      {
+       "episode": "S4E4",
+       "title": "Who Done It?",
+       "air_date": "1980-11-21",
+       "gist": "Dr. Ellby hypnotizes Sue Ellen; she recalls Kristin shot J.R."
+      }
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: J.R. Ewing",
+     "pregnant_end": "no",
+     "pregnancy_note": "Not in this episode (Kristin, not Sue Ellen, is revealed pregnant by J.R.)",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "kids_note": "Son John Ross Ewing III with J.R., born before this episode",
+     "fit_note": "Therapeutic memory-recovery hypnosis, consensual",
+     "sources": [
+      {
+       "label": "YouTube clip: Hypnosis Scene In Dallas - Sue Ellen Gets Hypnotized",
+       "url": "https://www.youtube.com/watch?v=eDpZdZr37bo"
+      },
+      {
+       "label": "TVmaze: Dallas 4x04 Who Done It?",
+       "url": "https://www.tvmaze.com/episodes/80302/dallas-4x04-who-done-it"
+      },
+      {
+       "label": "Dallas Decoder: Who Done It?",
+       "url": "https://dallasdecoder.com/tag/who-done-it/page/2/"
+      }
+     ],
+     "evidence": "Episode guides (TVmaze, Rotten Tomatoes, Dallas Decoder) + YouTube clip",
+     "standalone": true,
+     "provenance": "Female/wife scenes sweep, 15 Oct 2026 PT",
+     "group": "Female / wife hypnosis scenes (Oct 2026)"
+    }
+   }
+  },
+  {
+   "id": 3016,
+   "title": "Martin",
+   "subtitle": "S4E23 \"The Tooth Will Set You Free\" (aired 28 Mar 1996)",
+   "year": "1996",
+   "meta": "US · English · FOX sitcom",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Scene: S4E23. Pam James is hypnotized by a dentist (Dr. Friendly, Steve White) for a painful dental procedure; because of Martin's interference she stays under and behaves like Martin whenever someone claps, including on her blind date at an artist's showing. Hypnotist: dentist. Wife: no (single).",
+   "character": "Pamela \"Pam\" James (Tichina Arnold)",
+   "provenance": "Female/wife scenes sweep, 15 Oct 2026 PT",
+   "note": "",
+   "episodes": [
+    {
+     "episode": "S4E23",
+     "title": "The Tooth Will Set You Free",
+     "air_date": "1996-03-28",
+     "gist": "Dentist hypnotizes Pam; clap trigger makes her act like Martin on her date"
+    }
+   ],
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "TheTVDB, IMDb, Plex episode synopses + YouTube clip",
+   "already_married": "no",
+   "format": "tv",
+   "categories": [
+    "medical",
+    "index-62"
+   ],
+   "sources": [
+    {
+     "label": "YouTube clip: Pam James Hypnotized by a Dentist",
+     "url": "https://www.youtube.com/watch?v=wPnBY-Pfsz8"
+    },
+    {
+     "label": "TheTVDB: The Tooth Will Set You Free",
+     "url": "https://www.thetvdb.com/series/martin/episodes/177364"
+    },
+    {
+     "label": "IMDb: The Tooth Will Set You Free",
+     "url": "https://www.imdb.com/title/tt0642741/"
+    }
+   ],
+   "youtube_ids": [
+    "wPnBY-Pfsz8"
+   ],
+   "from_sources": [
+    "female-wife-scenes-oct15"
+   ],
+   "source_records": [
+    "female-wife-scenes-oct15:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/wPnBY-Pfsz8.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "female-wife-scenes-oct15:2": {
+     "title": "Martin",
+     "subtitle": "S4E23 \"The Tooth Will Set You Free\" (aired 28 Mar 1996)",
+     "year": "1996",
+     "format": "tv",
+     "meta": "US · English · FOX sitcom",
+     "summary": "Scene: S4E23. Pam James is hypnotized by a dentist (Dr. Friendly, Steve White) for a painful dental procedure; because of Martin's interference she stays under and behaves like Martin whenever someone claps, including on her blind date at an artist's showing. Hypnotist: dentist. Wife: no (single).",
+     "character": "Pamela \"Pam\" James (Tichina Arnold)",
+     "categories": [
+      "medical",
+      "index-62"
+     ],
+     "episodes": [
+      {
+       "episode": "S4E23",
+       "title": "The Tooth Will Set You Free",
+       "air_date": "1996-03-28",
+       "gist": "Dentist hypnotizes Pam; clap trigger makes her act like Martin on her date"
+      }
+     ],
+     "already_married": "no",
+     "pregnant_end": "no",
+     "kids_together": "no",
+     "kids_status": "no",
+     "sources": [
+      {
+       "label": "YouTube clip: Pam James Hypnotized by a Dentist",
+       "url": "https://www.youtube.com/watch?v=wPnBY-Pfsz8"
+      },
+      {
+       "label": "TheTVDB: The Tooth Will Set You Free",
+       "url": "https://www.thetvdb.com/series/martin/episodes/177364"
+      },
+      {
+       "label": "IMDb: The Tooth Will Set You Free",
+       "url": "https://www.imdb.com/title/tt0642741/"
+      }
+     ],
+     "evidence": "TheTVDB, IMDb, Plex episode synopses + YouTube clip",
+     "standalone": true,
+     "provenance": "Female/wife scenes sweep, 15 Oct 2026 PT",
+     "group": "Female / wife hypnosis scenes (Oct 2026)"
+    }
+   }
+  },
+  {
+   "id": 3017,
+   "title": "Mrs Brown's Boys",
+   "subtitle": "S3E1 \"Mammy's Spell\" (aired 1 Jan 2013)",
+   "year": "2013",
+   "meta": "UK/Ireland · English · BBC One sitcom",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Scene: S3E1 \"Mammy's Spell\". At the christening party for Dermot and Maria's triplets a stage hypnotist (Derek Mooney) puts widowed Agnes Brown and Winnie under; afterwards Agnes acts like an Alsatian dog at the word 'triplets' and a stripper at the word 'baptism'. Hypnotist: hired stage hypnotist. Wife: no (widow).",
+   "character": "Agnes Brown (Brendan O'Carroll); also Winnie McGoogan",
+   "provenance": "Female/wife scenes sweep, 15 Oct 2026 PT",
+   "note": "",
+   "episodes": [
+    {
+     "episode": "S3E1",
+     "title": "Mammy's Spell",
+     "air_date": "2013-01-01",
+     "gist": "Stage hypnotist leaves Agnes with trigger words"
+    }
+   ],
+   "kids_status": "yes",
+   "kids_note": "Grown children (Mark, Dermot, Cathy, Rory and others) from her late husband",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "BBC, British Comedy Guide, fandom wiki + official BritBox clip",
+   "fit_note": "Comedy; female character played by a man",
+   "already_married": "no",
+   "already_married_note": "Widow",
+   "format": "tv",
+   "categories": [
+    "widow-divorcee",
+    "index-62"
+   ],
+   "sources": [
+    {
+     "label": "BritBox clip: Agnes Gets Hypnotized",
+     "url": "https://www.youtube.com/watch?v=MxwDGAWEQSk"
+    },
+    {
+     "label": "BBC programmes: Mammy's Spell",
+     "url": "https://www.bbc.co.uk/programmes/b01ppy1h"
+    },
+    {
+     "label": "British Comedy Guide: Mammy's Spell",
+     "url": "https://www.comedy.co.uk/tv/mrs_browns_boys/episodes/3/1/"
+    }
+   ],
+   "youtube_ids": [
+    "MxwDGAWEQSk"
+   ],
+   "from_sources": [
+    "female-wife-scenes-oct15"
+   ],
+   "source_records": [
+    "female-wife-scenes-oct15:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/MxwDGAWEQSk.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "female-wife-scenes-oct15:3": {
+     "title": "Mrs Brown's Boys",
+     "subtitle": "S3E1 \"Mammy's Spell\" (aired 1 Jan 2013)",
+     "year": "2013",
+     "format": "tv",
+     "meta": "UK/Ireland · English · BBC One sitcom",
+     "summary": "Scene: S3E1 \"Mammy's Spell\". At the christening party for Dermot and Maria's triplets a stage hypnotist (Derek Mooney) puts widowed Agnes Brown and Winnie under; afterwards Agnes acts like an Alsatian dog at the word 'triplets' and a stripper at the word 'baptism'. Hypnotist: hired stage hypnotist. Wife: no (widow).",
+     "character": "Agnes Brown (Brendan O'Carroll); also Winnie McGoogan",
+     "categories": [
+      "widow-divorcee",
+      "index-62"
+     ],
+     "episodes": [
+      {
+       "episode": "S3E1",
+       "title": "Mammy's Spell",
+       "air_date": "2013-01-01",
+       "gist": "Stage hypnotist leaves Agnes with trigger words"
+      }
+     ],
+     "already_married": "no",
+     "already_married_note": "Widow",
+     "pregnant_end": "no",
+     "kids_together": "no",
+     "kids_status": "yes",
+     "kids_note": "Grown children (Mark, Dermot, Cathy, Rory and others) from her late husband",
+     "fit_note": "Comedy; female character played by a man",
+     "sources": [
+      {
+       "label": "BritBox clip: Agnes Gets Hypnotized",
+       "url": "https://www.youtube.com/watch?v=MxwDGAWEQSk"
+      },
+      {
+       "label": "BBC programmes: Mammy's Spell",
+       "url": "https://www.bbc.co.uk/programmes/b01ppy1h"
+      },
+      {
+       "label": "British Comedy Guide: Mammy's Spell",
+       "url": "https://www.comedy.co.uk/tv/mrs_browns_boys/episodes/3/1/"
+      }
+     ],
+     "evidence": "BBC, British Comedy Guide, fandom wiki + official BritBox clip",
+     "standalone": true,
+     "provenance": "Female/wife scenes sweep, 15 Oct 2026 PT",
+     "group": "Female / wife hypnosis scenes (Oct 2026)"
+    }
+   }
+  },
+  {
+   "id": 3018,
+   "title": "Cesur Hemşire",
+   "subtitle": "Episode 2 (aired 8 Dec 2013)",
+   "year": "2013",
+   "meta": "Turkey · Turkish · atv comedy series",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Scene: episode 2. The official NTC Medya clip 'Ceyda, hipnoz oluyor!' shows surgeon Ceyda, wife of 18 years of male nurse Cesur, being hypnotized. The atv episode synopsis says Cesur plans, with psychiatrist Babür, to use hypnosis to make Dr. Kenan confess to stealing their project, so Ceyda's hypnosis appears to be a side effect of that plan. Hypnotist: presumably psychiatrist Babür (not confirmed). Wife: yes.",
+   "character": "Ceyda (Şebnem Bozoklu)",
+   "provenance": "Female/wife scenes sweep, 15 Oct 2026 PT",
+   "note": "",
+   "episodes": [
+    {
+     "episode": "2",
+     "title": "2. Bölüm",
+     "air_date": "2013-12-08",
+     "gist": "Ceyda gets hypnotized during the hypnosis plan against Dr. Kenan"
+    }
+   ],
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "yes",
+   "kids_note": "16-year-old twins Cömert and Canan with Cesur (born before the story)",
+   "kids_together": "yes",
+   "pregnant_end": "unknown",
+   "evidence": "Official clip title + broadcaster synopsis (single source for Ceyda's hypnosis)",
+   "fit_note": "Loose fit: only the clip title confirms Ceyda is the one hypnotized; who hypnotizes her is not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Cesur",
+   "format": "tv",
+   "categories": [
+    "wife-hypnotized",
+    "index-62"
+   ],
+   "sources": [
+    {
+     "label": "NTC Medya clip: Ceyda, hipnoz oluyor! - Cesur Hemşire 2. Bölüm",
+     "url": "https://www.youtube.com/watch?v=TfcxRdcxWVw"
+    },
+    {
+     "label": "atv: Cesur Hemşire 2. Bölüm synopsis",
+     "url": "https://www.atv.com.tr/cesur-hemsire/2-bolum/izle"
+    }
+   ],
+   "youtube_ids": [
+    "TfcxRdcxWVw"
+   ],
+   "from_sources": [
+    "female-wife-scenes-oct15"
+   ],
+   "source_records": [
+    "female-wife-scenes-oct15:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/TfcxRdcxWVw.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "female-wife-scenes-oct15:4": {
+     "title": "Cesur Hemşire",
+     "subtitle": "Episode 2 (aired 8 Dec 2013)",
+     "year": "2013",
+     "format": "tv",
+     "meta": "Turkey · Turkish · atv comedy series",
+     "summary": "Scene: episode 2. The official NTC Medya clip 'Ceyda, hipnoz oluyor!' shows surgeon Ceyda, wife of 18 years of male nurse Cesur, being hypnotized. The atv episode synopsis says Cesur plans, with psychiatrist Babür, to use hypnosis to make Dr. Kenan confess to stealing their project, so Ceyda's hypnosis appears to be a side effect of that plan. Hypnotist: presumably psychiatrist Babür (not confirmed). Wife: yes.",
+     "character": "Ceyda (Şebnem Bozoklu)",
+     "categories": [
+      "wife-hypnotized",
+      "index-62"
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "episodes": [
+      {
+       "episode": "2",
+       "title": "2. Bölüm",
+       "air_date": "2013-12-08",
+       "gist": "Ceyda gets hypnotized during the hypnosis plan against Dr. Kenan"
+      }
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Cesur",
+     "pregnant_end": "unknown",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "kids_note": "16-year-old twins Cömert and Canan with Cesur (born before the story)",
+     "fit_note": "Loose fit: only the clip title confirms Ceyda is the one hypnotized; who hypnotizes her is not stated",
+     "sources": [
+      {
+       "label": "NTC Medya clip: Ceyda, hipnoz oluyor! - Cesur Hemşire 2. Bölüm",
+       "url": "https://www.youtube.com/watch?v=TfcxRdcxWVw"
+      },
+      {
+       "label": "atv: Cesur Hemşire 2. Bölüm synopsis",
+       "url": "https://www.atv.com.tr/cesur-hemsire/2-bolum/izle"
+      }
+     ],
+     "evidence": "Official clip title + broadcaster synopsis (single source for Ceyda's hypnosis)",
+     "standalone": true,
+     "provenance": "Female/wife scenes sweep, 15 Oct 2026 PT",
+     "group": "Female / wife hypnosis scenes (Oct 2026)"
+    }
+   }
   }
  ],
  "sections": [
@@ -449959,14 +450450,16 @@
     "indian-langs-oct14",
     "fanwiki-screen-oct14",
     "new-angles-oct15",
-    "official-yt-oct15"
+    "official-yt-oct15",
+    "female-wife-scenes-oct15"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 8,
     "indian-langs-oct14": null,
     "fanwiki-screen-oct14": null,
     "new-angles-oct15": null,
-    "official-yt-oct15": null
+    "official-yt-oct15": null,
+    "female-wife-scenes-oct15": null
    },
    "groups": [
     {
@@ -450076,6 +450569,25 @@
       }
      ],
      "from_source": "official-yt-oct15"
+    },
+    {
+     "title": "Female / wife hypnosis scenes (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3018,
+       "from_source": "female-wife-scenes-oct15"
+      },
+      {
+       "id": 3016,
+       "from_source": "female-wife-scenes-oct15"
+      },
+      {
+       "id": 3017,
+       "from_source": "female-wife-scenes-oct15"
+      }
+     ],
+     "from_source": "female-wife-scenes-oct15"
     }
    ]
   },
@@ -467674,7 +468186,8 @@
     "indonesia-sinetron-oct15",
     "hypno-turkey-oct15",
     "kr-cn-hypnosis",
-    "kr-cn-hypnosis-r2"
+    "kr-cn-hypnosis-r2",
+    "female-wife-scenes-oct15"
    ],
    "groups": [
     {
@@ -468906,6 +469419,21 @@
       }
      ],
      "from_source": "kr-cn-hypnosis-r2"
+    },
+    {
+     "title": "Female / wife hypnosis scenes (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3015,
+       "from_source": "female-wife-scenes-oct15"
+      },
+      {
+       "id": 3016,
+       "from_source": "female-wife-scenes-oct15"
+      }
+     ],
+     "from_source": "female-wife-scenes-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -468933,7 +469461,8 @@
     "indonesia-sinetron-oct15": null,
     "hypno-turkey-oct15": null,
     "kr-cn-hypnosis": null,
-    "kr-cn-hypnosis-r2": null
+    "kr-cn-hypnosis-r2": null,
+    "female-wife-scenes-oct15": null
    }
   },
   {
@@ -489993,12 +490522,14 @@
    "from_sources": [
     "widow-divorcee-oct14",
     "widow-divorcee-oct14b",
-    "hypnotized-female-oct15"
+    "hypnotized-female-oct15",
+    "female-wife-scenes-oct15"
    ],
    "declared_count_by_source": {
     "widow-divorcee-oct14": null,
     "widow-divorcee-oct14b": null,
-    "hypnotized-female-oct15": null
+    "hypnotized-female-oct15": null,
+    "female-wife-scenes-oct15": null
    },
    "groups": [
     {
@@ -490038,6 +490569,17 @@
       }
      ],
      "from_source": "hypnotized-female-oct15"
+    },
+    {
+     "title": "Female / wife hypnosis scenes (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3017,
+       "from_source": "female-wife-scenes-oct15"
+      }
+     ],
+     "from_source": "female-wife-scenes-oct15"
     }
    ]
   },
@@ -491725,10 +492267,12 @@
    "description": "",
    "notes": [],
    "from_sources": [
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "female-wife-scenes-oct15"
    ],
    "declared_count_by_source": {
-    "wife-hypnosis-oct15": null
+    "wife-hypnosis-oct15": null,
+    "female-wife-scenes-oct15": null
    },
    "groups": [
     {
@@ -492173,6 +492717,21 @@
       }
      ],
      "from_source": "wife-hypnosis-oct15"
+    },
+    {
+     "title": "Female / wife hypnosis scenes (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3018,
+       "from_source": "female-wife-scenes-oct15"
+      },
+      {
+       "id": 3015,
+       "from_source": "female-wife-scenes-oct15"
+      }
+     ],
+     "from_source": "female-wife-scenes-oct15"
     }
    ]
   },
@@ -492194,7 +492753,8 @@
     "older-man-hypnosis",
     "hypnosis-assault",
     "hypnosis-assault-loose",
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "female-wife-scenes-oct15"
    ],
    "groups": [
     {
@@ -492395,6 +492955,17 @@
       }
      ],
      "from_source": "wife-hypnosis-oct15"
+    },
+    {
+     "title": "Female / wife hypnosis scenes (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3015,
+       "from_source": "female-wife-scenes-oct15"
+      }
+     ],
+     "from_source": "female-wife-scenes-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -492403,7 +492974,8 @@
     "older-man-hypnosis": null,
     "hypnosis-assault": null,
     "hypnosis-assault-loose": null,
-    "wife-hypnosis-oct15": null
+    "wife-hypnosis-oct15": null,
+    "female-wife-scenes-oct15": null
    }
   },
   {

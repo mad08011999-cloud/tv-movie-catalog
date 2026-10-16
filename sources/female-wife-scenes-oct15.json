@@ -1,0 +1,92 @@
+{
+ "id": "female-wife-scenes-oct15",
+ "label": "Female / wife hypnosis scenes sweep (15 Oct 2026)",
+ "group_title": "Female / wife hypnosis scenes (Oct 2026)",
+ "description": "Scene-level sweep (YouTube clip titles/descriptions via yt-dlp metadata, episode guides) for adult women, especially wives, hypnotized on screen. Existing categories only. Each record names the episode/scene, the hypnotist and whether she is a wife.",
+ "category_labels": {},
+ "records": [
+  {
+   "title": "Dallas", "subtitle": "S4E4 \"Who Done It?\" (aired 21 Nov 1980)", "year": "1980", "format": "tv",
+   "meta": "US · English · CBS prime-time soap",
+   "summary": "Scene: S4E4 \"Who Done It?\". Sue Ellen Ewing, jailed after her fingerprints are found on the gun used to shoot her husband J.R., is put under hypnosis by her psychiatrist Dr. Simon Ellby to recover the night of the shooting; under hypnosis she remembers that her sister Kristin shot J.R. and framed her. Hypnotist: psychiatrist Dr. Ellby. Wife: yes (J.R. Ewing's wife).",
+   "character": "Sue Ellen Ewing (Linda Gray)",
+   "categories": ["wife-hypnotized", "therapist-wife", "medical"],
+   "episodes": [{"episode": "S4E4", "title": "Who Done It?", "air_date": "1980-11-21", "gist": "Dr. Ellby hypnotizes Sue Ellen; she recalls Kristin shot J.R."}],
+   "already_married": "yes", "already_married_note": "Yes — husband: J.R. Ewing",
+   "pregnant_end": "no", "pregnancy_note": "Not in this episode (Kristin, not Sue Ellen, is revealed pregnant by J.R.)",
+   "kids_together": "yes", "kids_status": "yes", "kids_note": "Son John Ross Ewing III with J.R., born before this episode",
+   "fit_note": "Therapeutic memory-recovery hypnosis, consensual",
+   "sources": [
+    {"label": "YouTube clip: Hypnosis Scene In Dallas - Sue Ellen Gets Hypnotized", "url": "https://www.youtube.com/watch?v=eDpZdZr37bo"},
+    {"label": "TVmaze: Dallas 4x04 Who Done It?", "url": "https://www.tvmaze.com/episodes/80302/dallas-4x04-who-done-it"},
+    {"label": "Dallas Decoder: Who Done It?", "url": "https://dallasdecoder.com/tag/who-done-it/page/2/"}
+   ],
+   "evidence": "Episode guides (TVmaze, Rotten Tomatoes, Dallas Decoder) + YouTube clip",
+   "standalone": true, "provenance": "Female/wife scenes sweep, 15 Oct 2026 PT", "group": "Female / wife hypnosis scenes (Oct 2026)"
+  },
+  {
+   "title": "Martin", "subtitle": "S4E23 \"The Tooth Will Set You Free\" (aired 28 Mar 1996)", "year": "1996", "format": "tv",
+   "meta": "US · English · FOX sitcom",
+   "summary": "Scene: S4E23. Pam James is hypnotized by a dentist (Dr. Friendly, Steve White) for a painful dental procedure; because of Martin's interference she stays under and behaves like Martin whenever someone claps, including on her blind date at an artist's showing. Hypnotist: dentist. Wife: no (single).",
+   "character": "Pamela \"Pam\" James (Tichina Arnold)",
+   "categories": ["medical", "index-62"],
+   "episodes": [{"episode": "S4E23", "title": "The Tooth Will Set You Free", "air_date": "1996-03-28", "gist": "Dentist hypnotizes Pam; clap trigger makes her act like Martin on her date"}],
+   "already_married": "no", "pregnant_end": "no", "kids_together": "no", "kids_status": "no",
+   "sources": [
+    {"label": "YouTube clip: Pam James Hypnotized by a Dentist", "url": "https://www.youtube.com/watch?v=wPnBY-Pfsz8"},
+    {"label": "TheTVDB: The Tooth Will Set You Free", "url": "https://www.thetvdb.com/series/martin/episodes/177364"},
+    {"label": "IMDb: The Tooth Will Set You Free", "url": "https://www.imdb.com/title/tt0642741/"}
+   ],
+   "evidence": "TheTVDB, IMDb, Plex episode synopses + YouTube clip",
+   "standalone": true, "provenance": "Female/wife scenes sweep, 15 Oct 2026 PT", "group": "Female / wife hypnosis scenes (Oct 2026)"
+  },
+  {
+   "title": "Mrs Brown's Boys", "subtitle": "S3E1 \"Mammy's Spell\" (aired 1 Jan 2013)", "year": "2013", "format": "tv",
+   "meta": "UK/Ireland · English · BBC One sitcom",
+   "summary": "Scene: S3E1 \"Mammy's Spell\". At the christening party for Dermot and Maria's triplets a stage hypnotist (Derek Mooney) puts widowed Agnes Brown and Winnie under; afterwards Agnes acts like an Alsatian dog at the word 'triplets' and a stripper at the word 'baptism'. Hypnotist: hired stage hypnotist. Wife: no (widow).",
+   "character": "Agnes Brown (Brendan O'Carroll); also Winnie McGoogan",
+   "categories": ["widow-divorcee", "index-62"],
+   "episodes": [{"episode": "S3E1", "title": "Mammy's Spell", "air_date": "2013-01-01", "gist": "Stage hypnotist leaves Agnes with trigger words"}],
+   "already_married": "no", "already_married_note": "Widow",
+   "pregnant_end": "no", "kids_together": "no", "kids_status": "yes", "kids_note": "Grown children (Mark, Dermot, Cathy, Rory and others) from her late husband",
+   "fit_note": "Comedy; female character played by a man",
+   "sources": [
+    {"label": "BritBox clip: Agnes Gets Hypnotized", "url": "https://www.youtube.com/watch?v=MxwDGAWEQSk"},
+    {"label": "BBC programmes: Mammy's Spell", "url": "https://www.bbc.co.uk/programmes/b01ppy1h"},
+    {"label": "British Comedy Guide: Mammy's Spell", "url": "https://www.comedy.co.uk/tv/mrs_browns_boys/episodes/3/1/"}
+   ],
+   "evidence": "BBC, British Comedy Guide, fandom wiki + official BritBox clip",
+   "standalone": true, "provenance": "Female/wife scenes sweep, 15 Oct 2026 PT", "group": "Female / wife hypnosis scenes (Oct 2026)"
+  },
+  {
+   "title": "Cesur Hemşire", "subtitle": "Episode 2 (aired 8 Dec 2013)", "year": "2013", "format": "tv",
+   "meta": "Turkey · Turkish · atv comedy series",
+   "summary": "Scene: episode 2. The official NTC Medya clip 'Ceyda, hipnoz oluyor!' shows surgeon Ceyda, wife of 18 years of male nurse Cesur, being hypnotized. The atv episode synopsis says Cesur plans, with psychiatrist Babür, to use hypnosis to make Dr. Kenan confess to stealing their project, so Ceyda's hypnosis appears to be a side effect of that plan. Hypnotist: presumably psychiatrist Babür (not confirmed). Wife: yes.",
+   "character": "Ceyda (Şebnem Bozoklu)",
+   "categories": ["wife-hypnotized", "index-62"],
+   "tags": ["loose fit"],
+   "episodes": [{"episode": "2", "title": "2. Bölüm", "air_date": "2013-12-08", "gist": "Ceyda gets hypnotized during the hypnosis plan against Dr. Kenan"}],
+   "already_married": "yes", "already_married_note": "Yes — husband: Cesur",
+   "pregnant_end": "unknown", "kids_together": "yes", "kids_status": "yes", "kids_note": "16-year-old twins Cömert and Canan with Cesur (born before the story)",
+   "fit_note": "Loose fit: only the clip title confirms Ceyda is the one hypnotized; who hypnotizes her is not stated",
+   "sources": [
+    {"label": "NTC Medya clip: Ceyda, hipnoz oluyor! - Cesur Hemşire 2. Bölüm", "url": "https://www.youtube.com/watch?v=TfcxRdcxWVw"},
+    {"label": "atv: Cesur Hemşire 2. Bölüm synopsis", "url": "https://www.atv.com.tr/cesur-hemsire/2-bolum/izle"}
+   ],
+   "evidence": "Official clip title + broadcaster synopsis (single source for Ceyda's hypnosis)",
+   "standalone": true, "provenance": "Female/wife scenes sweep, 15 Oct 2026 PT", "group": "Female / wife hypnosis scenes (Oct 2026)"
+  }
+ ],
+ "dropped": [
+  {"title": "Shivers (1975)", "reason": "YouTube clip titled as a hypnosis scene but the film's plot is parasites, not hypnosis; unverified"},
+  {"title": "Petrocelli (stage hypnotist episode)", "reason": "Woman is the hypnotist; the hypnotized person is a man"},
+  {"title": "Passion and Romance: Double or Nothing (1997)", "reason": "Clip age-restricted; plot could not be verified"},
+  {"title": "The Hypnotic Spy", "reason": "Could not identify the film or year"},
+  {"title": "Aini Malaikat Tak Bersayap (Indonesia, eps 89/198)", "reason": "Clip descriptions do not describe who is hypnotized or confirm she is an adult; needs more research"},
+  {"title": "Sweet Hearth Drama 'Wife Was Hypnotized By Husband...' (vertical short)", "reason": "No series title identified; channel disclaimer mentions minor actors; unverifiable"},
+  {"title": "La main de l'assassin (1990 TV film)", "reason": "The hypnotized person is a male ministry employee"},
+  {"title": "Beverly Hills mayor's wife hypnotized (Tom Silver)", "reason": "Real stage show, not a film or series"},
+  {"title": "Community (Britta), Futurama (Amy), American Dad (Hayley), The Mentalist, Gran Hotel, Tic Tac, Sen Çal Kapımı", "reason": "Already in the catalog or title-level duplicate; no new verified scene detail added"},
+  {"title": "Teşkilat ep 126 (Selen brainwashed)", "reason": "Not enough sourcing within this pass"}
+ ]
+}
