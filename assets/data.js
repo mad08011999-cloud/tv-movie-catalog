@@ -4447,9 +4447,26 @@ window.CATALOG = {
    "kind": "local",
    "share_url": "sources/deep-gap-oct15.json",
    "description": "Deep gap-check (rich-wife, older-man, assault, pregnancy, tantrik/pelet, KR/CN/TW/HK, Indian, Turkish), 15 Oct 2026 PT (adults only; non-explicit notes)",
-   "dropped": [],
+   "dropped": [
+    "Madre Luna (Telemundo 2007): her pregnancy by Leonardo is backstory, with no prior children, so it doesn't fit mom-with-kids",
+    "Lintrik: Ilmu Pemikat (2025), Sihir Pelakor (2025), Sosok Ketiga: Lintrik: the pelet targets a man (Sosok Ketiga is already in the catalog)",
+    "Aşk Mantık İntikam, Iss Pyaar Ko Kya Naam Doon (Kushi/Arnav), Mangal Lakshmi (Jia/Karthik), Noyontara (Shaoli/Surjo), Kızıl Goncalar, Ben de Özledim: hypnosis target is male",
+    "神瞳觉醒, 我的系统追美女送技能, 透视小地主: sexualized AI or harem shorts on piracy sites; excluded",
+    "Big Wolf on Campus S1E10: high-school character (possible minor)",
+    "步步陷落, 以身为饵的她: listings show no hypnosis",
+    "Ye Zhuang / 夜妆: no release date; hypnosis is only for memory recall",
+    "Broken (UK 2025 short): no hypnotic control of a woman in the synopsis",
+    "Hyeonhok / Hypnosis (Suzy, Kim Seon-ho): the woman is the vampire, not the one controlled; not yet aired",
+    "Misterios de la magia negra (1958), El hipnotizador (1940): female hypnotist / murder-investigation plot; no woman controlled for gain",
+    "Pelet – Terpaksa Menikahi Pembantu, Istri Dipelet Dukun Bertindak, They Used Hypnosis to Steal My Fortune (Dreame): web novels, not screen media",
+    "Thara Patham (Kuku FM): audio series",
+    "Saamri (1985): marriage is arranged through a will and black magic; not a controlled woman",
+    "The Love of Hypnosis (2026): no mind control",
+    "Svengali/Trilby versions, Road to Rio, SVU 'Spellbound', Magpakailanman 'A Scandalous Crime', Hypnotized (2004), The Scarapist, Guna-Guna Istri Muda, Vash/Vash Level 2, Shaitaan, O Outro Lado do Paraíso, Hypnosen, Off Pedder, 被催眠的催眠师, 被催眠的她/诱她入梦, 听老公的话: already in the catalog",
+    "Mental Block 'Hypnotized Female' category (2,246 pages): every page title is already in the catalog except 'Spiderman and His Amazing Friends' (animated, out of scope)"
+   ],
    "check": {
-    "raw_count": 4,
+    "raw_count": 6,
     "ok": true
    },
    "status": "local"
@@ -4509,10 +4526,10 @@ window.CATALOG = {
   "youtube-sweep-oct15": 5,
   "gap-check-vertical-oct15": 5,
   "adult-fanmade-oct15": 3,
-  "deep-gap-oct15": 4
+  "deep-gap-oct15": 6
  },
- "raw_total": 5861,
- "entry_count": 2899,
+ "raw_total": 5863,
+ "entry_count": 2901,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4572,7 +4589,7 @@ window.CATALOG = {
    "key": "doctor-gain",
    "label": "Doctor hypnotizes female characters for personal gain",
    "legend_label": "Doctor controls female character for personal gain",
-   "entry_count": 27
+   "entry_count": 28
   },
   {
    "key": "tech",
@@ -4734,7 +4751,7 @@ window.CATALOG = {
    "key": "mom-pregnancy",
    "label": "Mother with children gets pregnant in a passionate relationship (husband, new partner or lover)",
    "legend_label": "Mother pregnant again",
-   "entry_count": 172
+   "entry_count": 173
   },
   {
    "key": "hypnotised-mother-marriage",
@@ -4914,7 +4931,7 @@ window.CATALOG = {
    "key": "index-49",
    "label": "Rich woman hypnotized — money / inheritance / fraud",
    "legend_label": "Rich woman hypnotized — money / inheritance / fraud",
-   "entry_count": 22
+   "entry_count": 23
   },
   {
    "key": "index-52",
@@ -447910,6 +447927,188 @@ window.CATALOG = {
      "adult": "no"
     }
    }
+  },
+  {
+   "id": 3034,
+   "title": "嘘！天黑别闭眼 (Darkness: Eyes Wide Open)",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Chinese vertical short drama · Mandarin · 79 × ~2 min · aired 25 Jul 2025 (iQIYI)",
+   "mechanism": "",
+   "confidence_flag": "High · multiple sources (the hypnosis detail is from the Chinese synopses)",
+   "summary": "Heiress Xu Miao Yun is framed for murder by her younger sister and psychiatrist Leng Fan Zhou. Under cover of treating her, Leng imprisons her and uses hypnosis and brainwashing to reshape her identity so he can seize a family treasure, until her fiancé and the police expose them.",
+   "character": "Xu Miao Yun 徐妙韵, an heiress",
+   "provenance": "Deep gap-check (rich-wife, older-man, assault, pregnancy, tantrik/pelet, KR/CN/TW/HK, Indian, Turkish), 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Psychiatrist Leng Fan Zhou 冷凡舟",
+   "gain_motive": [
+    "family treasure / wealth",
+    "obsession"
+   ],
+   "method": "Hypnosis / brainwashing under the guise of therapy",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "MDL + two synopsis listings",
+   "adult": "no",
+   "format": "vertical series",
+   "categories": [
+    "index-49",
+    "doctor-gain"
+   ],
+   "sources": [
+    {
+     "label": "MyDramaList",
+     "url": "https://mydramalist.com/799094-darkness-eyes-wide-open"
+    },
+    {
+     "label": "ContentChina playlet page (synopsis)",
+     "url": "https://video.contentchina.com/playlet/84303"
+    },
+    {
+     "label": "Pumudj listing",
+     "url": "https://www.pumudj.cc/view/1y02.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-gap-oct15"
+   ],
+   "source_records": [
+    "deep-gap-oct15:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-gap-oct15:5": {
+     "title": "嘘！天黑别闭眼 (Darkness: Eyes Wide Open)",
+     "year": "2025",
+     "format": "vertical series",
+     "meta": "Chinese vertical short drama · Mandarin · 79 × ~2 min · aired 25 Jul 2025 (iQIYI)",
+     "character": "Xu Miao Yun 徐妙韵, an heiress",
+     "summary": "Heiress Xu Miao Yun is framed for murder by her younger sister and psychiatrist Leng Fan Zhou. Under cover of treating her, Leng imprisons her and uses hypnosis and brainwashing to reshape her identity so he can seize a family treasure, until her fiancé and the police expose them.",
+     "hypnotist": "Psychiatrist Leng Fan Zhou 冷凡舟",
+     "gain_motive": [
+      "family treasure / wealth",
+      "obsession"
+     ],
+     "method": "Hypnosis / brainwashing under the guise of therapy",
+     "categories": [
+      "index-49",
+      "doctor-gain"
+     ],
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "sources": [
+      {
+       "label": "MyDramaList",
+       "url": "https://mydramalist.com/799094-darkness-eyes-wide-open"
+      },
+      {
+       "label": "ContentChina playlet page (synopsis)",
+       "url": "https://video.contentchina.com/playlet/84303"
+      },
+      {
+       "label": "Pumudj listing",
+       "url": "https://www.pumudj.cc/view/1y02.html"
+      }
+     ],
+     "evidence": "MDL + two synopsis listings",
+     "confidence_flag": "High · multiple sources (the hypnosis detail is from the Chinese synopses)",
+     "adult": "no",
+     "provenance": "Deep gap-check (rich-wife, older-man, assault, pregnancy, tantrik/pelet, KR/CN/TW/HK, Indian, Turkish), 15 Oct 2026 PT (adults only; non-explicit notes)",
+     "note": ""
+    }
+   }
+  },
+  {
+   "id": 3035,
+   "title": "Bir Zamanlar Çukurova (Bitter Lands / Terra Amara)",
+   "subtitle": "",
+   "year": "2018–2022",
+   "meta": "Turkish TV series · ATV · 4 seasons, 141 episodes",
+   "mechanism": "",
+   "confidence_flag": "Single source for the pregnancy plot · Medium (spoiler preview article)",
+   "summary": "In the final season, Züleyha reconciles with her husband Demir and finds she is pregnant with her third child. She keeps it secret at first, Şermin tells Demir, and the pregnancy later ends in a miscarriage.",
+   "character": "Züleyha Altun (Hilal Altınbilek), mother of Adnan and Leyla",
+   "provenance": "Deep gap-check (rich-wife, older-man, assault, pregnancy, tantrik/pelet, KR/CN/TW/HK, Indian, Turkish), 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "Adnan and Leyla",
+   "married": "yes",
+   "pregnant_end": "no",
+   "pregnant_end_note": "miscarriage reported in previews",
+   "evidence": "Spoiler preview; Wikipedia confirms only the series and characters",
+   "adult": "no",
+   "existing_kids": "2",
+   "pregnancy_again": "miscarriage",
+   "pregnancy_again_note": "third pregnancy (by husband Demir) in season 4; previews say it ends in miscarriage",
+   "format": "tv",
+   "categories": [
+    "mom-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Napolike preview (Italian broadcast, 24 Jun 2023)",
+     "url": "https://www.napolike.com/televisione/2023/06/terra-amara-anticipazioni-turche-zuleyha-incinta-del-terzo-figlio-222557"
+    },
+    {
+     "label": "Wikipedia (series facts only)",
+     "url": "https://en.wikipedia.org/wiki/Bir_Zamanlar_%C3%87ukurova"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-gap-oct15"
+   ],
+   "source_records": [
+    "deep-gap-oct15:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-gap-oct15:6": {
+     "title": "Bir Zamanlar Çukurova (Bitter Lands / Terra Amara)",
+     "year": "2018–2022",
+     "format": "tv",
+     "meta": "Turkish TV series · ATV · 4 seasons, 141 episodes",
+     "character": "Züleyha Altun (Hilal Altınbilek), mother of Adnan and Leyla",
+     "summary": "In the final season, Züleyha reconciles with her husband Demir and finds she is pregnant with her third child. She keeps it secret at first, Şermin tells Demir, and the pregnancy later ends in a miscarriage.",
+     "categories": [
+      "mom-pregnancy"
+     ],
+     "existing_kids": "2",
+     "pregnancy_again": "miscarriage",
+     "pregnancy_again_note": "third pregnancy (by husband Demir) in season 4; previews say it ends in miscarriage",
+     "kids_status": "yes",
+     "kids_note": "Adnan and Leyla",
+     "pregnant_end": "no",
+     "pregnant_end_note": "miscarriage reported in previews",
+     "married": "yes",
+     "sources": [
+      {
+       "label": "Napolike preview (Italian broadcast, 24 Jun 2023)",
+       "url": "https://www.napolike.com/televisione/2023/06/terra-amara-anticipazioni-turche-zuleyha-incinta-del-terzo-figlio-222557"
+      },
+      {
+       "label": "Wikipedia (series facts only)",
+       "url": "https://en.wikipedia.org/wiki/Bir_Zamanlar_%C3%87ukurova"
+      }
+     ],
+     "evidence": "Spoiler preview; Wikipedia confirms only the series and characters",
+     "confidence_flag": "Single source for the pregnancy plot · Medium (spoiler preview article)",
+     "adult": "no",
+     "provenance": "Deep gap-check (rich-wife, older-man, assault, pregnancy, tantrik/pelet, KR/CN/TW/HK, Indian, Turkish), 15 Oct 2026 PT (adults only; non-explicit notes)",
+     "note": ""
+    }
+   }
   }
  ],
  "sections": [
@@ -453410,7 +453609,8 @@ window.CATALOG = {
    ],
    "from_sources": [
     "xla62ucxbx02u5",
-    "round3"
+    "round3",
+    "deep-gap-oct15"
    ],
    "groups": [
     {
@@ -453757,10 +453957,22 @@ window.CATALOG = {
       }
      ],
      "from_source": "round3"
+    },
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3034,
+       "from_source": "deep-gap-oct15"
+      }
+     ],
+     "from_source": "deep-gap-oct15"
     }
    ],
    "declared_count_by_source": {
-    "round3": null
+    "round3": null,
+    "deep-gap-oct15": null
    }
   },
   {
@@ -472370,7 +472582,8 @@ window.CATALOG = {
     "mom-pregnancy",
     "kids-pregnant-again",
     "lesbian-pregnancy",
-    "round2"
+    "round2",
+    "deep-gap-oct15"
    ],
    "groups": [
     {
@@ -473991,13 +474204,25 @@ window.CATALOG = {
       }
      ],
      "from_source": "round2"
+    },
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3035,
+       "from_source": "deep-gap-oct15"
+      }
+     ],
+     "from_source": "deep-gap-oct15"
     }
    ],
    "declared_count_by_source": {
     "mom-pregnancy": null,
     "kids-pregnant-again": null,
     "lesbian-pregnancy": null,
-    "round2": null
+    "round2": null,
+    "deep-gap-oct15": null
    }
   },
   {
@@ -483019,6 +483244,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 3031,
+       "from_source": "deep-gap-oct15"
+      },
+      {
+       "id": 3034,
        "from_source": "deep-gap-oct15"
       }
      ],
