@@ -1459,6 +1459,117 @@
      "url": "https://www.tellychakkar.com/tv/tv-news/sony-entertainment-television-launch-new-show-vashikaranam-16th-march-2026-onwards"
     }
    ]
+  },
+  {
+   "standalone": true,
+   "group": "Streaming-service additions (Oct 2026)",
+   "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+   "format": "tv",
+   "subtitle": "Upcoming-episode spoiler, 16 Jun 2016",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "Yes: Aradhya is married to Aryan",
+   "mechanism": "Hypnotism",
+   "confidence_flag": "",
+   "summary": "SerialGossip: Poorva uses Kaveri to hypnotise Aradhya so she will sign divorce papers; Kaveri is worried that her hypnotism is no longer working on Aradhya, and Aradhya discovers their plan.",
+   "character": "Aradhya",
+   "categories": [
+    "indian-female-hypnosis"
+   ],
+   "title": "Krishnadasi — Kaveri's hypnotism of Aradhya",
+   "year": "2016",
+   "meta": "TV serial · Colors · India · Hindi",
+   "sources": [
+    {
+     "label": "SerialGossip: Krishnadasi spoiler",
+     "url": "https://www.serialgossip.com/spoiler-5862-a"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "group": "Streaming-service additions (Oct 2026)",
+   "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+   "format": "tv",
+   "subtitle": "",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "",
+   "character": "",
+   "categories": [
+    "indian-female-hypnosis"
+   ],
+   "title": "Tujhse Hai Raabta",
+   "year": "2018–2020",
+   "sources": [
+    {
+     "label": "Bollywood Life: 25 Jul 2019 written update (Kalyani gets hypnotized)",
+     "url": "https://www.bollywoodlife.com/tv/tujhse-hai-raabta-25-july-2019-written-update-kalyani-gets-hypnotized-instead-of-atharva-1448642/"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "group": "Streaming-service additions (Oct 2026)",
+   "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+   "format": "tv",
+   "subtitle": "Episode 30 · 15 Sep 2018",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "mechanism": "Hypnotic spell",
+   "confidence_flag": "",
+   "summary": "Episode listing and TellyUpdates: Shahnawaz hypnotises Bela and keeps her under his spell; her attempts to escape fail, and Mahir and Vish reach his cave.",
+   "character": "Bela",
+   "categories": [
+    "fantasy"
+   ],
+   "title": "Naagin 3 — \"Bela Under Shahnawaaz's Spell\"",
+   "year": "2018",
+   "meta": "TV serial · Colors · India · Hindi",
+   "sources": [
+    {
+     "label": "TellyUpdates: Naagin 3 written updates (15 Sep 2018 'Shahnawaz Hypnotizes Bela')",
+     "url": "https://www.tellyupdates.com/tv-serials/colors/naagin-season-3/amp/page/27/"
+    },
+    {
+     "label": "Episode listing: S3E30 'Bela Under Shahnawaaz's Spell'",
+     "url": "https://kodiapps.com/episode-76791-3-30"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "group": "Streaming-service additions (Oct 2026)",
+   "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+   "format": "tv",
+   "subtitle": "3 Aug 2017 episode",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "mechanism": "Hypnotherapy",
+   "confidence_flag": "",
+   "summary": "TellyUpdates written update headline: Ishita takes Shagun for hypnotherapy.",
+   "character": "Shagun",
+   "categories": [
+    "medical"
+   ],
+   "title": "Yeh Hai Mohabbatein — Shagun's hypnotherapy",
+   "year": "2017",
+   "meta": "TV serial · Star Plus · India · Hindi",
+   "sources": [
+    {
+     "label": "TellyUpdates: 3 Aug 2017 written update",
+     "url": "https://www.tellyupdates.com/yeh-hai-mohabbatein-3rd-august-2017-written-episode-update-ishita-takes-shagun-hypnotherapy/"
+    }
+   ]
   }
  ]
 }

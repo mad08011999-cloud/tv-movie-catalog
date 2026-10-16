@@ -3915,7 +3915,7 @@
    "description": "Titles and episodes found on streaming-service title pages (Netflix, Prime Video, Disney+, etc.)",
    "dropped": [],
    "check": {
-    "raw_count": 53,
+    "raw_count": 57,
     "ok": true
    },
    "status": "local"
@@ -3963,10 +3963,10 @@
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
   "official-yt-oct15": 45,
-  "streaming-oct15": 53
+  "streaming-oct15": 57
  },
- "raw_total": 5617,
- "entry_count": 2839,
+ "raw_total": 5621,
+ "entry_count": 2842,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4038,7 +4038,7 @@
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 258
+   "entry_count": 259
   },
   {
    "key": "child-controller",
@@ -4146,7 +4146,7 @@
    "key": "indian-female-hypnosis",
    "label": "Indian-language female hypnotized against her will",
    "legend_label": "Indian-language female hypnotized against her will",
-   "entry_count": 28
+   "entry_count": 30
   },
   {
    "key": "lesbian-couple-pregnancy",
@@ -4164,7 +4164,7 @@
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 132
+   "entry_count": 133
   },
   {
    "key": "mom-partner-control",
@@ -403705,29 +403705,101 @@
    "kids_status": "unknown",
    "kids_note": "Not stated in the source found; the child in the storyline (Moksh/Pillu) is a ward in a custody dispute, not stated as her own child.",
    "kids_together": "not stated",
+   "married": "not stated",
    "pregnant_end": "unknown",
    "format": "tv",
    "categories": [
-    "india-control"
+    "india-control",
+    "indian-female-hypnosis"
    ],
    "sources": [
     {
      "label": "IWMBuzz",
      "url": "https://www.iwmbuzz.com/television/spoilers/tujhse-hai-raabta-kalyani-hypnotized-act-like-atharva/2019/07/25"
+    },
+    {
+     "label": "Bollywood Life: 25 Jul 2019 written update (Kalyani gets hypnotized)",
+     "url": "https://www.bollywoodlife.com/tv/tujhse-hai-raabta-25-july-2019-written-update-kalyani-gets-hypnotized-instead-of-atharva-1448642/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypno-sweep-oct9"
+    "hypno-sweep-oct9",
+    "streaming-oct15"
    ],
    "source_records": [
-    "hypno-sweep-oct9:2"
+    "hypno-sweep-oct9:2",
+    "streaming-oct15:55"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypno-sweep-oct9:2",
+    "source": "hypno-sweep-oct9",
+    "label": "Tujhse Hai Raabta (2018–2020)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Tujhse Hai Raabta",
+    "subtitle": "",
+    "year": "2018–2020",
+    "meta": "TV serial · Zee TV (streams on ZEE5) · India · Hindi",
+    "summary": "Malhar tries to hypnotise Atharva, who has regressed to a child-like state, but Kalyani is hypnotised instead and starts acting like Atharva.",
+    "character": "",
+    "note": "Uncertain: single preview report (July 2019); the outcome of the hypnosis scene is not stated.",
+    "mechanism": "Hypnosis attempt that lands on the wrong person",
+    "confidence_flag": "Medium · episode preview report (single source)",
+    "categories": [
+     "india-control"
+    ],
+    "sources": [
+     {
+      "label": "IWMBuzz",
+      "url": "https://www.iwmbuzz.com/television/spoilers/tujhse-hai-raabta-kalyani-hypnotized-act-like-atharva/2019/07/25"
+     }
+    ],
+    "pregnancy_outcome": "unknown",
+    "pregnancy_note": "Not stated in the source found for this storyline.",
+    "kids_status": "unknown",
+    "kids_note": "Not stated in the source found; the child in the storyline (Moksh/Pillu) is a ward in a custody dispute, not stated as her own child.",
+    "kids_together": "not stated",
+    "pregnant_end": "unknown",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "streaming-oct15:55",
+     "source": "streaming-oct15",
+     "label": "Tujhse Hai Raabta (2018–2020)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Tujhse Hai Raabta",
+     "subtitle": "",
+     "year": "2018–2020",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "indian-female-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Bollywood Life: 25 Jul 2019 written update (Kalyani gets hypnotized)",
+       "url": "https://www.bollywoodlife.com/tv/tujhse-hai-raabta-25-july-2019-written-update-kalyani-gets-hypnotized-instead-of-atharva-1448642/"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": false
+    }
+   ],
    "raw": {
     "hypno-sweep-oct9:2": {
      "title": "Tujhse Hai Raabta",
@@ -403757,6 +403829,32 @@
      "note": "Uncertain: single preview report (July 2019); the outcome of the hypnosis scene is not stated.",
      "kids_together": "not stated",
      "pregnant_end": "unknown"
+    },
+    "streaming-oct15:55": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "",
+     "confidence_flag": "",
+     "summary": "",
+     "character": "",
+     "categories": [
+      "indian-female-hypnosis"
+     ],
+     "title": "Tujhse Hai Raabta",
+     "year": "2018–2020",
+     "sources": [
+      {
+       "label": "Bollywood Life: 25 Jul 2019 written update (Kalyani gets hypnotized)",
+       "url": "https://www.bollywoodlife.com/tv/tujhse-hai-raabta-25-july-2019-written-update-kalyani-gets-hypnotized-instead-of-atharva-1448642/"
+      }
+     ]
     }
    }
   },
@@ -430460,6 +430558,218 @@
      ]
     }
    }
+  },
+  {
+   "id": 2973,
+   "title": "Krishnadasi — Kaveri's hypnotism of Aradhya",
+   "subtitle": "Upcoming-episode spoiler, 16 Jun 2016",
+   "year": "2016",
+   "meta": "TV serial · Colors · India · Hindi",
+   "mechanism": "Hypnotism",
+   "confidence_flag": "",
+   "summary": "SerialGossip: Poorva uses Kaveri to hypnotise Aradhya so she will sign divorce papers; Kaveri is worried that her hypnotism is no longer working on Aradhya, and Aradhya discovers their plan.",
+   "character": "Aradhya",
+   "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "Yes: Aradhya is married to Aryan",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "indian-female-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "SerialGossip: Krishnadasi spoiler",
+     "url": "https://www.serialgossip.com/spoiler-5862-a"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:54"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:54": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "Upcoming-episode spoiler, 16 Jun 2016",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "Yes: Aradhya is married to Aryan",
+     "mechanism": "Hypnotism",
+     "confidence_flag": "",
+     "summary": "SerialGossip: Poorva uses Kaveri to hypnotise Aradhya so she will sign divorce papers; Kaveri is worried that her hypnotism is no longer working on Aradhya, and Aradhya discovers their plan.",
+     "character": "Aradhya",
+     "categories": [
+      "indian-female-hypnosis"
+     ],
+     "title": "Krishnadasi — Kaveri's hypnotism of Aradhya",
+     "year": "2016",
+     "meta": "TV serial · Colors · India · Hindi",
+     "sources": [
+      {
+       "label": "SerialGossip: Krishnadasi spoiler",
+       "url": "https://www.serialgossip.com/spoiler-5862-a"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2974,
+   "title": "Naagin 3 — \"Bela Under Shahnawaaz's Spell\"",
+   "subtitle": "Episode 30 · 15 Sep 2018",
+   "year": "2018",
+   "meta": "TV serial · Colors · India · Hindi",
+   "mechanism": "Hypnotic spell",
+   "confidence_flag": "",
+   "summary": "Episode listing and TellyUpdates: Shahnawaz hypnotises Bela and keeps her under his spell; her attempts to escape fail, and Mahir and Vish reach his cave.",
+   "character": "Bela",
+   "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "TellyUpdates: Naagin 3 written updates (15 Sep 2018 'Shahnawaz Hypnotizes Bela')",
+     "url": "https://www.tellyupdates.com/tv-serials/colors/naagin-season-3/amp/page/27/"
+    },
+    {
+     "label": "Episode listing: S3E30 'Bela Under Shahnawaaz's Spell'",
+     "url": "https://kodiapps.com/episode-76791-3-30"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:56"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:56": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "Episode 30 · 15 Sep 2018",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnotic spell",
+     "confidence_flag": "",
+     "summary": "Episode listing and TellyUpdates: Shahnawaz hypnotises Bela and keeps her under his spell; her attempts to escape fail, and Mahir and Vish reach his cave.",
+     "character": "Bela",
+     "categories": [
+      "fantasy"
+     ],
+     "title": "Naagin 3 — \"Bela Under Shahnawaaz's Spell\"",
+     "year": "2018",
+     "meta": "TV serial · Colors · India · Hindi",
+     "sources": [
+      {
+       "label": "TellyUpdates: Naagin 3 written updates (15 Sep 2018 'Shahnawaz Hypnotizes Bela')",
+       "url": "https://www.tellyupdates.com/tv-serials/colors/naagin-season-3/amp/page/27/"
+      },
+      {
+       "label": "Episode listing: S3E30 'Bela Under Shahnawaaz's Spell'",
+       "url": "https://kodiapps.com/episode-76791-3-30"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2975,
+   "title": "Yeh Hai Mohabbatein — Shagun's hypnotherapy",
+   "subtitle": "3 Aug 2017 episode",
+   "year": "2017",
+   "meta": "TV serial · Star Plus · India · Hindi",
+   "mechanism": "Hypnotherapy",
+   "confidence_flag": "",
+   "summary": "TellyUpdates written update headline: Ishita takes Shagun for hypnotherapy.",
+   "character": "Shagun",
+   "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "TellyUpdates: 3 Aug 2017 written update",
+     "url": "https://www.tellyupdates.com/yeh-hai-mohabbatein-3rd-august-2017-written-episode-update-ishita-takes-shagun-hypnotherapy/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:57"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:57": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "3 Aug 2017 episode",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnotherapy",
+     "confidence_flag": "",
+     "summary": "TellyUpdates written update headline: Ishita takes Shagun for hypnotherapy.",
+     "character": "Shagun",
+     "categories": [
+      "medical"
+     ],
+     "title": "Yeh Hai Mohabbatein — Shagun's hypnotherapy",
+     "year": "2017",
+     "meta": "TV serial · Star Plus · India · Hindi",
+     "sources": [
+      {
+       "label": "TellyUpdates: 3 Aug 2017 written update",
+       "url": "https://www.tellyupdates.com/yeh-hai-mohabbatein-3rd-august-2017-written-episode-update-ishita-takes-shagun-hypnotherapy/"
+      }
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -438472,6 +438782,10 @@
      "items": [
       {
        "id": 2954,
+       "from_source": "streaming-oct15"
+      },
+      {
+       "id": 2974,
        "from_source": "streaming-oct15"
       }
      ],
@@ -450689,11 +451003,13 @@
    "notes": [],
    "from_sources": [
     "indian-langs-oct14",
-    "official-yt-oct15"
+    "official-yt-oct15",
+    "streaming-oct15"
    ],
    "declared_count_by_source": {
     "indian-langs-oct14": null,
-    "official-yt-oct15": null
+    "official-yt-oct15": null,
+    "streaming-oct15": null
    },
    "groups": [
     {
@@ -450785,6 +451101,21 @@
       }
      ],
      "from_source": "official-yt-oct15"
+    },
+    {
+     "title": "Streaming-service additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2973,
+       "from_source": "streaming-oct15"
+      },
+      {
+       "id": 2631,
+       "from_source": "streaming-oct15"
+      }
+     ],
+     "from_source": "streaming-oct15"
     }
    ]
   },
@@ -453194,6 +453525,10 @@
       },
       {
        "id": 2626,
+       "from_source": "streaming-oct15"
+      },
+      {
+       "id": 2975,
        "from_source": "streaming-oct15"
       }
      ],
