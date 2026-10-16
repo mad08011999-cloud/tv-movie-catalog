@@ -1,0 +1,649 @@
+{
+ "id": "hypnosis-yt-oct15",
+ "label": "Female hypnosis YouTube sweep (15 Oct 2026)",
+ "group_title": "Female hypnosis — YouTube sweep (captions + comments)",
+ "description": "24 YouTube searches in 14 languages (Hindi, Tamil, Telugu, Malayalam, Kannada, Bengali, Marathi, Indonesian, Spanish, Italian, French, German, Chinese, Korean, Turkish, Russian); 45 candidate videos mined with yt-dlp for description, auto-captions (many blocked by HTTP 429) and top 30 comments. Existing categories only; titles already in the catalog skipped.",
+ "category_labels": {},
+ "records": [
+  {
+   "title": "Antichrist",
+   "year": "2009",
+   "format": "movie",
+   "meta": "Denmark / Sweden / France · English · film (Lars von Trier)",
+   "mechanism": "hypnosis by therapist husband",
+   "character": "She (Charlotte Gainsbourg), wife of He (Willem Dafoe)",
+   "summary": "After their young son's death, a therapist husband treats his grieving wife himself and takes her to their forest cabin, where he guides her through a hypnosis exercise; the therapy collapses into violence.",
+   "categories": [
+    "therapist-wife",
+    "wife-hypnotized",
+    "erotic-mainstream"
+   ],
+   "already_married": "yes",
+   "already_married_note": "married couple",
+   "married": "yes",
+   "kids_status": "yes",
+   "kids_note": "one son, Nic, who dies at the start of the film",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not pregnant",
+   "pregnancy_note": "not pregnant",
+   "kids_together": "no",
+   "kids_together_note": "the couple's only child dies; no further children",
+   "sources": [
+    {
+     "label": "YouTube (Cinémotion): Antichrist - Hypnosis forest scene",
+     "url": "https://www.youtube.com/watch?v=GNIXd1Ty3K0"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Antichrist_(film)"
+    }
+   ],
+   "evidence": "YouTube clip title + Wikipedia plot",
+   "confidence_flag": "high",
+   "provenance": "Hypnosis YouTube sweep 15 Oct 2026 PT — yt-dlp titles, descriptions, auto-captions (where not rate-limited) and top comments; no video downloaded",
+   "tags": [
+    "hypnosis-yt-oct15"
+   ],
+   "rating": "unrated / 18 (adult content)"
+  },
+  {
+   "title": "Shrimaan Shrimati",
+   "year": "1994–1999",
+   "format": "tv",
+   "meta": "India · Hindi · Doordarshan sitcom",
+   "mechanism": "hypnosis (attempted; neighbour)",
+   "character": "Prema Shalini (Dilruba's wife); Ganga Mausi's daughter",
+   "summary": "After Ganga Mausi's daughter is hypnotized and robbed of her jewelry, Keshav goes to a hypnotism teacher, Barabandi, to learn hypnosis so he can use it on his neighbour's wife Prema Shalini (Ep 31).",
+   "categories": [
+    "wife-hypnotized",
+    "india-control",
+    "human"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Prema is married to Dilruba",
+   "married": "yes",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not stated",
+   "pregnancy_note": "not stated",
+   "kids_together": "unknown",
+   "sources": [
+    {
+     "label": "Mastikhor upload: Shrimaan Shrimati EP 31",
+     "url": "https://www.youtube.com/watch?v=P-dK6SgvFpY"
+    },
+    {
+     "label": "Fan upload: Shrimaan Shrimati Full Episode Hypnosis",
+     "url": "https://www.youtube.com/watch?v=Y1DBSZ2uuOM"
+    }
+   ],
+   "evidence": "upload description + Hindi auto-captions ('2 minute mein hypnotism tatha mohini vidya')",
+   "confidence_flag": "medium · whether Prema is actually put under is not stated",
+   "provenance": "Hypnosis YouTube sweep 15 Oct 2026 PT — yt-dlp titles, descriptions, auto-captions (where not rate-limited) and top comments; no video downloaded",
+   "tags": [
+    "hypnosis-yt-oct15"
+   ],
+   "episodes": [
+    {
+     "episode": "Ep 31",
+     "title": "Keshav's Entertaining Hypnotism Journey",
+     "gist": "daughter of Ganga Mausi hypnotized and robbed; Keshav learns hypnosis to use on Prema"
+    }
+   ]
+  },
+  {
+   "title": "Lekar Hum Deewana Dil",
+   "year": "2024–2025",
+   "format": "tv",
+   "meta": "India · Hindi · Dangal TV serial",
+   "mechanism": "hypnosis",
+   "character": "Tara and Rati",
+   "summary": "Samrat is shown apparently hypnotizing Tara and Rati (Mini Episode 117); the upload title frames it as a question.",
+   "categories": [
+    "india-control",
+    "indian-female-hypnosis",
+    "human"
+   ],
+   "already_married": "unknown",
+   "already_married_note": "not stated",
+   "married": "unknown",
+   "kids_status": "unknown",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "pregnancy_note": "not stated",
+   "kids_together": "unknown",
+   "sources": [
+    {
+     "label": "Rimjhim Dangal TV: Mini Episode 117",
+     "url": "https://www.youtube.com/watch?v=67JxF8Sl72c"
+    }
+   ],
+   "evidence": "official Dangal channel title",
+   "confidence_flag": "loose fit · title is a question; no captions available (HTTP 429)",
+   "provenance": "Hypnosis YouTube sweep 15 Oct 2026 PT — yt-dlp titles, descriptions, auto-captions (where not rate-limited) and top comments; no video downloaded",
+   "tags": [
+    "hypnosis-yt-oct15"
+   ],
+   "episodes": [
+    {
+     "episode": "Mini Ep 117",
+     "title": "Samrat ne Tara aur Rati ko hypnotize kiya?",
+     "gist": ""
+    }
+   ]
+  },
+  {
+   "title": "India Alert — Ep 434 \"Rahasyamayi Sangeetshala\"",
+   "year": "2020",
+   "format": "tv",
+   "meta": "India · Hindi · Dangal TV crime anthology",
+   "mechanism": "hypnosis (sammohan vidya)",
+   "character": "Shruti (student)",
+   "summary": "Manu and Shruti join a music gurukul and stop contacting their families; Shruti's parents grow worried, and the guru is revealed to have learned 'sammohan vidya' (hypnotism) from a sadhu and used it to bring students under his control. The same story is re-cut as Crime Se Savdhan 'Sangeet Ke Bahane Gair Kam'.",
+   "categories": [
+    "india-control",
+    "indian-female-hypnosis",
+    "crime",
+    "human"
+   ],
+   "already_married": "no",
+   "already_married_note": "student",
+   "married": "no",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "pregnant_end": "no",
+   "pregnant_end_note": "not stated",
+   "pregnancy_note": "not stated",
+   "kids_together": "no",
+   "sources": [
+    {
+     "label": "Dangal TV Channel: India Alert Ep 434",
+     "url": "https://www.youtube.com/watch?v=oQrbbeLpicI"
+    },
+    {
+     "label": "Crime Se Savdhan: Sangeet Ke Bahane Gair Kam",
+     "url": "https://www.youtube.com/watch?v=O-q7zAQHQpk"
+    }
+   ],
+   "evidence": "official description + Hindi auto-captions ('guru ji ne sammohan se apne vash mein kar')",
+   "confidence_flag": "medium",
+   "provenance": "Hypnosis YouTube sweep 15 Oct 2026 PT — yt-dlp titles, descriptions, auto-captions (where not rate-limited) and top comments; no video downloaded",
+   "tags": [
+    "hypnosis-yt-oct15"
+   ],
+   "episodes": [
+    {
+     "episode": "Ep 434",
+     "title": "Rahasyamayi Sangeetshala",
+     "gist": "music guru hypnotizes students"
+    }
+   ]
+  },
+  {
+   "title": "Aini Malaikat Tak Bersayap — Eps 151",
+   "year": "2025",
+   "format": "tv",
+   "meta": "Indonesia · Indonesian · ANTV sinetron",
+   "mechanism": "magic bracelet hypnosis (gelang sakti)",
+   "character": "Sania (target); Murni (Wildan's wife)",
+   "summary": "Lazy husband Wildan, a motorbike-taxi driver, uses a magic bracelet to hypnotize passengers and others; captions show him being told to hypnotize Sania.",
+   "categories": [
+    "other-control",
+    "tantrik",
+    "human"
+   ],
+   "already_married": "unknown",
+   "already_married_note": "Sania's status not stated; Wildan himself is married to Murni",
+   "married": "unknown",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "pregnancy_note": "not stated",
+   "kids_together": "unknown",
+   "sources": [
+    {
+     "label": "ANTV Official: Eps 151 FULL",
+     "url": "https://www.youtube.com/watch?v=JAr3jIpjvPU"
+    }
+   ],
+   "evidence": "official description + Indonesian auto-captions + comments",
+   "confidence_flag": "medium · black-magic hypnosis",
+   "provenance": "Hypnosis YouTube sweep 15 Oct 2026 PT — yt-dlp titles, descriptions, auto-captions (where not rate-limited) and top comments; no video downloaded",
+   "tags": [
+    "hypnosis-yt-oct15"
+   ]
+  },
+  {
+   "title": "Aladin — Eps 10",
+   "year": "2000s",
+   "format": "tv",
+   "meta": "Indonesia · Indonesian · MNCTV fantasy sinetron",
+   "mechanism": "hypnosis",
+   "character": "Medina",
+   "summary": "Medina becomes the target of Bang Lahab's hypnosis; captions show her insisting she is not hypnotized.",
+   "categories": [
+    "other-control",
+    "fantasy",
+    "human"
+   ],
+   "already_married": "unknown",
+   "already_married_note": "not stated",
+   "married": "unknown",
+   "kids_status": "unknown",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "pregnancy_note": "not stated",
+   "kids_together": "unknown",
+   "sources": [
+    {
+     "label": "MNCTV: Aladin Eps 10 Part 5",
+     "url": "https://www.youtube.com/watch?v=IFplSOevYvA"
+    }
+   ],
+   "evidence": "official upload title + auto-captions",
+   "confidence_flag": "loose fit · outcome not shown",
+   "provenance": "Hypnosis YouTube sweep 15 Oct 2026 PT — yt-dlp titles, descriptions, auto-captions (where not rate-limited) and top comments; no video downloaded",
+   "tags": [
+    "hypnosis-yt-oct15"
+   ]
+  },
+  {
+   "title": "Utusan dari Surga — Eps 5",
+   "year": "2000s",
+   "format": "tv",
+   "meta": "Indonesia · Indonesian · RCTI sinetron",
+   "mechanism": "pendulum hypnosis",
+   "character": "a woman in Kampung Golay (Yuni's victim)",
+   "summary": "A pendulum hypnosis ('look at this pendulum, you will be hypnotized') is used to take money; a woman is said to have been hypnotized (Eps 5).",
+   "categories": [
+    "other-control",
+    "crime",
+    "human"
+   ],
+   "already_married": "unknown",
+   "already_married_note": "not stated",
+   "married": "unknown",
+   "kids_status": "unknown",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "pregnancy_note": "not stated",
+   "kids_together": "unknown",
+   "sources": [
+    {
+     "label": "RCTI Mega Drama: Eps 05 Part 4",
+     "url": "https://www.youtube.com/watch?v=7Ue-2yZmg3o"
+    }
+   ],
+   "evidence": "official upload + auto-captions",
+   "confidence_flag": "loose fit · victim's identity unclear",
+   "provenance": "Hypnosis YouTube sweep 15 Oct 2026 PT — yt-dlp titles, descriptions, auto-captions (where not rate-limited) and top comments; no video downloaded",
+   "tags": [
+    "hypnosis-yt-oct15"
+   ]
+  },
+  {
+   "title": "Kuasa Ilahi — \"Teror Gendam Suami Istri\"",
+   "year": "2025",
+   "format": "tv",
+   "meta": "Indonesia · Indonesian · MNCTV religious drama",
+   "mechanism": "gendam (hypnotic scam)",
+   "character": "a married couple (wife and husband)",
+   "summary": "Gendam (hypnotic scam) terror against a husband and wife, who are deceived 'without a trace'.",
+   "categories": [
+    "wife-hypnotized",
+    "crime",
+    "human"
+   ],
+   "already_married": "yes",
+   "already_married_note": "husband and wife",
+   "married": "yes",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "pregnancy_note": "not stated",
+   "kids_together": "unknown",
+   "sources": [
+    {
+     "label": "MNCTV Official",
+     "url": "https://www.youtube.com/watch?v=fZxYGhCj-kk"
+    }
+   ],
+   "evidence": "official upload title",
+   "confidence_flag": "loose fit · title only",
+   "provenance": "Hypnosis YouTube sweep 15 Oct 2026 PT — yt-dlp titles, descriptions, auto-captions (where not rate-limited) and top comments; no video downloaded",
+   "tags": [
+    "hypnosis-yt-oct15"
+   ]
+  },
+  {
+   "title": "Catatan Hati — Eps 37",
+   "year": "2026",
+   "format": "tv",
+   "meta": "Indonesia · Indonesian · sinetron (VIVA Drama)",
+   "mechanism": "cult influence",
+   "character": "the mother",
+   "summary": "A daughter fights to rescue her mother, who falls under the sway of a deviant cult leader, Ki Bagja, and changes drastically.",
+   "categories": [
+    "cult",
+    "mother"
+   ],
+   "already_married": "unknown",
+   "already_married_note": "not stated",
+   "married": "unknown",
+   "kids_status": "yes",
+   "kids_note": "a daughter",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "pregnancy_note": "not stated",
+   "kids_together": "unknown",
+   "sources": [
+    {
+     "label": "VIVA Drama: Catatan Hati Eps 37 FULL",
+     "url": "https://www.youtube.com/watch?v=lI_prmdumEM"
+    }
+   ],
+   "evidence": "official description",
+   "confidence_flag": "loose fit · cult influence, not hypnosis in the strict sense",
+   "provenance": "Hypnosis YouTube sweep 15 Oct 2026 PT — yt-dlp titles, descriptions, auto-captions (where not rate-limited) and top comments; no video downloaded",
+   "tags": [
+    "hypnosis-yt-oct15"
+   ]
+  },
+  {
+   "title": "Wanita Perindu Surga 2 — Eps 43",
+   "year": "2024",
+   "format": "tv",
+   "meta": "Indonesia · Indonesian · ANTV FTV",
+   "mechanism": "jaran goyang love spell",
+   "character": "not stated",
+   "summary": "A woman uses 'jaran goyang' love magic so that everything goes her way.",
+   "categories": [
+    "love",
+    "tantrik"
+   ],
+   "already_married": "unknown",
+   "already_married_note": "not stated",
+   "married": "unknown",
+   "kids_status": "unknown",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "pregnancy_note": "not stated",
+   "kids_together": "unknown",
+   "sources": [
+    {
+     "label": "ANTV Official: Eps 43 FULL",
+     "url": "https://www.youtube.com/watch?v=oOuVSVDW6l4"
+    }
+   ],
+   "evidence": "official upload title + description",
+   "confidence_flag": "loose fit · love spell, target not stated",
+   "provenance": "Hypnosis YouTube sweep 15 Oct 2026 PT — yt-dlp titles, descriptions, auto-captions (where not rate-limited) and top comments; no video downloaded",
+   "tags": [
+    "hypnosis-yt-oct15"
+   ]
+  },
+  {
+   "title": "Sana Bir Sır Vereceğim",
+   "year": "2023",
+   "format": "tv",
+   "meta": "Turkey · Turkish · series",
+   "mechanism": "supernatural enthrallment",
+   "character": "Aylin",
+   "summary": "Savaş uses his powers to enthrall Aylin and make her believe she spent the night with Tilki.",
+   "categories": [
+    "other-control",
+    "fantasy",
+    "cheat-control"
+   ],
+   "already_married": "unknown",
+   "already_married_note": "not stated",
+   "married": "unknown",
+   "kids_status": "unknown",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "pregnancy_note": "not stated",
+   "kids_together": "unknown",
+   "sources": [
+    {
+     "label": "Official channel clip",
+     "url": "https://www.youtube.com/watch?v=pHBVJfo6yzI"
+    }
+   ],
+   "evidence": "official clip title + description",
+   "confidence_flag": "medium",
+   "provenance": "Hypnosis YouTube sweep 15 Oct 2026 PT — yt-dlp titles, descriptions, auto-captions (where not rate-limited) and top comments; no video downloaded",
+   "tags": [
+    "hypnosis-yt-oct15"
+   ]
+  },
+  {
+   "title": "Şen Yuva",
+   "year": "1990s",
+   "format": "tv",
+   "meta": "Turkey · Turkish · sitcom",
+   "mechanism": "hypnosis (attempt)",
+   "character": "Eylem",
+   "summary": "Nurettin tries to hypnotize Eylem (Episode 10) in the comedy about a family-therapist couple.",
+   "categories": [
+    "other-control",
+    "index-62"
+   ],
+   "already_married": "unknown",
+   "already_married_note": "not stated",
+   "married": "unknown",
+   "kids_status": "unknown",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "pregnancy_note": "not stated",
+   "kids_together": "unknown",
+   "sources": [
+    {
+     "label": "retro tv: Şen Yuva 10. Bölüm",
+     "url": "https://www.youtube.com/watch?v=5VUsifVxF80"
+    }
+   ],
+   "evidence": "clip title + description",
+   "confidence_flag": "loose fit · attempt; success not stated",
+   "provenance": "Hypnosis YouTube sweep 15 Oct 2026 PT — yt-dlp titles, descriptions, auto-captions (where not rate-limited) and top comments; no video downloaded",
+   "tags": [
+    "hypnosis-yt-oct15"
+   ],
+   "episodes": [
+    {
+     "episode": "Ep 10",
+     "title": "Nurettin, Eylem'i hipnoz etmeye çalışıyor",
+     "gist": ""
+    }
+   ]
+  },
+  {
+   "title": "Yedi Numara",
+   "year": "2000–2002",
+   "format": "tv",
+   "meta": "Turkey · Turkish · comedy series",
+   "mechanism": "hypnosis",
+   "character": "Ayten",
+   "summary": "Ayten is hypnotized, and Cansu hypnotizes everyone (Episode 18) in the comedy about four students renting house number seven.",
+   "categories": [
+    "other-control",
+    "index-62"
+   ],
+   "already_married": "unknown",
+   "already_married_note": "not stated",
+   "married": "unknown",
+   "kids_status": "unknown",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "pregnancy_note": "not stated",
+   "kids_together": "unknown",
+   "sources": [
+    {
+     "label": "Yedi Numara: Ayten Hipnoz Oldu 18. Bölüm",
+     "url": "https://www.youtube.com/watch?v=VyKm5hh2gL8"
+    },
+    {
+     "label": "Yedi Numara: Cansu Herkesi Hipnoz Etti",
+     "url": "https://www.youtube.com/watch?v=2gtXPwqnd5c"
+    }
+   ],
+   "evidence": "official clip titles",
+   "confidence_flag": "medium",
+   "provenance": "Hypnosis YouTube sweep 15 Oct 2026 PT — yt-dlp titles, descriptions, auto-captions (where not rate-limited) and top comments; no video downloaded",
+   "tags": [
+    "hypnosis-yt-oct15"
+   ],
+   "episodes": [
+    {
+     "episode": "Ep 18",
+     "title": "Ayten Hipnoz Oldu",
+     "gist": ""
+    }
+   ]
+  },
+  {
+   "title": "K11 – Die neuen Fälle",
+   "year": "2020–2022",
+   "format": "tv",
+   "meta": "Germany · German · Sat.1 crime series",
+   "mechanism": "investigative hypnosis",
+   "character": "Kommissarin Daniela 'Dani' Stamm; a young woman witness",
+   "summary": "Investigators use hypnosis: a young woman found half-naked in the woods with no memory recalls under hypnosis; in another case the badly injured Inspector Daniela Stamm is hypnotized to recover where a dead kidnapper hid two children.",
+   "categories": [
+    "medical",
+    "other-control"
+   ],
+   "already_married": "unknown",
+   "already_married_note": "not stated",
+   "married": "unknown",
+   "kids_status": "unknown",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "pregnancy_note": "not stated",
+   "kids_together": "unknown",
+   "sources": [
+    {
+     "label": "K11 official: Ermittlung mit Hypnose",
+     "url": "https://www.youtube.com/watch?v=1bsuMJHHYMU"
+    },
+    {
+     "label": "K11 official: Hypnose als einzige Rettung",
+     "url": "https://www.youtube.com/watch?v=D3gFnSGvqjA"
+    }
+   ],
+   "evidence": "official descriptions + comments",
+   "confidence_flag": "medium",
+   "provenance": "Hypnosis YouTube sweep 15 Oct 2026 PT — yt-dlp titles, descriptions, auto-captions (where not rate-limited) and top comments; no video downloaded",
+   "tags": [
+    "hypnosis-yt-oct15"
+   ]
+  },
+  {
+   "title": "Klinik am Südring",
+   "year": "2021",
+   "format": "tv",
+   "meta": "Germany · German · Sat.1 medical docudrama",
+   "mechanism": "therapeutic hypnosis",
+   "character": "a female patient",
+   "summary": "A woman undergoes hypnosis to get rid of headaches, falls and is brought to the ER, where a stroke is suspected while her roommate turns criminal.",
+   "categories": [
+    "medical"
+   ],
+   "already_married": "unknown",
+   "already_married_note": "not stated",
+   "married": "unknown",
+   "kids_status": "unknown",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "pregnancy_note": "not stated",
+   "kids_together": "unknown",
+   "sources": [
+    {
+     "label": "Klinik am Südring official",
+     "url": "https://www.youtube.com/watch?v=3PCoV-Ur2Ew"
+    }
+   ],
+   "evidence": "official description + German auto-captions",
+   "confidence_flag": "medium",
+   "provenance": "Hypnosis YouTube sweep 15 Oct 2026 PT — yt-dlp titles, descriptions, auto-captions (where not rate-limited) and top comments; no video downloaded",
+   "tags": [
+    "hypnosis-yt-oct15"
+   ]
+  },
+  {
+   "title": "Amar es para siempre",
+   "year": "2013–2020",
+   "format": "tv",
+   "meta": "Spain · Spanish · Antena 3 daily soap",
+   "mechanism": "hypnosis session",
+   "character": "Mónica",
+   "summary": "Ascensión worries about what Mónica may have revealed during a hypnosis session, and Gabriel tries to find out.",
+   "categories": [
+    "medical",
+    "other-control"
+   ],
+   "already_married": "unknown",
+   "already_married_note": "not stated",
+   "married": "unknown",
+   "kids_status": "unknown",
+   "kids_note": "not stated",
+   "pregnant_end": "unknown",
+   "pregnant_end_note": "not stated",
+   "pregnancy_note": "not stated",
+   "kids_together": "unknown",
+   "sources": [
+    {
+     "label": "Telenovelas clip",
+     "url": "https://www.youtube.com/watch?v=4t86dCWrzzU"
+    }
+   ],
+   "evidence": "clip description",
+   "confidence_flag": "loose fit",
+   "provenance": "Hypnosis YouTube sweep 15 Oct 2026 PT — yt-dlp titles, descriptions, auto-captions (where not rate-limited) and top comments; no video downloaded",
+   "tags": [
+    "hypnosis-yt-oct15"
+   ]
+  }
+ ],
+ "dropped": [
+  {
+   "title": "FIR (Chautala hypnotized), Akasya Durağı ep 121, Gutur Gu, Tenali Rama, Sembaruthi, Bhabi Ji Ghar Par Hai, Naagin S5, Baalveer S3, Hero – Gayab Mode On, CID, Days of Our Lives, The Mentalist, Floricienta, Tic Tac, Lost Girl, Smallville, Charlie's Angels, Wonder Woman, Dark Angel, Strange Paradise, 77 Sunset Strip, Surfside 6, Wild Wild West, Man from U.N.C.L.E., Brides of Fu Manchu, Lair of the White Worm, Gallery of Horrors, A Taste of Blood, Billy the Kid Versus Dracula, Batwoman, Profit, Hypnotic (2021/2023), No: 309, Cennet Mahallesi, Kanıt, Cesur Hemşire, Sen Çal Kapımı, Kaçak Gelinler, Emmanuelle 4, Fallait pas!, Maitree, Amanah Wali 5, Othiri Othiri Swapnangal, Super Shoes",
+   "reason": "already in the catalog"
+  },
+  {
+   "title": "Sarabhai vs Sarabhai Ep 39",
+   "reason": "hypnotist episode, but who is hypnotized (female?) not established"
+  },
+  {
+   "title": "Sherlock Holmes and the Woman in Green; Hands of a Murderer (La main de l'assassin); Milady (Anime Sanjushi); Batman 1966 Siren; Tenali Rama Sammohini",
+   "reason": "female is the hypnotist, victims male"
+  },
+  {
+   "title": "Kecil-Kecil Mikir Jadi Manten Eps 72; Afili Aşk; Dick Van Dyke S2E6",
+   "reason": "hypnotized character is male"
+  },
+  {
+   "title": "I Love Jinny; Abhimanyu Ki Alien Family; Shiva; Motu Patlu; Ben 10",
+   "reason": "children's show / minor"
+  },
+  {
+   "title": "Hidayah FTV hypnotist episodes; Hometown (2021); Kundali Milan Ep 99; Dhee Ante Dhee",
+   "reason": "female victim or original title not established"
+  },
+  {
+   "title": "Fan 'hypno' compilation channels, stage-hypnosis, adult/explicit uploads",
+   "reason": "not scripted released works / explicit"
+  }
+ ]
+}

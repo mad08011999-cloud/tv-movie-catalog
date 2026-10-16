@@ -97,6 +97,11 @@ input:focus,select:focus,button:focus-visible,a:focus-visible{outline:3px solid 
 .category-note{grid-column:1/-1;margin:8px 0 6px;padding:16px 18px;background:var(--soft-teal);border-top:2px solid var(--teal);color:var(--ink);font-size:.86rem}
 .category-note strong{color:var(--teal)}
 .summary{font-size:.9rem;color:var(--muted);margin:0 0 18px}
+.outcome{display:grid;gap:5px;margin:-3px 0 18px;padding:11px 12px;border-top:2px solid var(--gold);background:var(--soft-gold);font-size:.76rem;line-height:1.42;color:var(--ink)}
+.outcome>strong{font-size:.72rem;color:var(--gold);letter-spacing:.04em;text-transform:uppercase}
+.outcome-items{display:flex;flex-wrap:wrap;gap:4px 14px}
+.outcome-item b{font-weight:700;color:var(--muted)}
+.outcome-note{color:var(--muted);font-style:italic}
 .tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:auto}
 .tag.love,.tag.forced-obedience,.tag.hypnotized-to-marry{color:var(--accent);background:var(--soft-red)}
 .tag.adult-hypnosis{color:var(--navy);background:var(--soft-navy)}
@@ -268,33 +273,3 @@ details.merged .clinks a{font-size:.7rem}
 #labelToggle{height:44px;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:8px;padding:0 13px;cursor:pointer}
 #labelToggle[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
 .content-label{margin:0 0 6px;padding:4px 8px;border:2px solid #b3261e;border-radius:6px;color:#b3261e;font-size:.85em;display:inline-block}
-
-/* dual-handle year slider (two range inputs sharing one track) */
-.yr-slider{flex:1 1 300px;min-width:220px;display:flex;flex-direction:column;gap:2px}
-.yr-slider output{font-weight:600;font-variant-numeric:tabular-nums;font-size:.95em}
-.yr-track{position:relative;height:34px;touch-action:pan-y}
-.yr-track::before{content:"";position:absolute;left:12px;right:12px;top:50%;height:6px;margin-top:-3px;border-radius:3px;background:rgba(127,127,127,.32)}
-.yr-fill{position:absolute;top:50%;height:6px;margin-top:-3px;border-radius:3px;background:currentColor;opacity:.75;pointer-events:none}
-.yr-track input[type=range]{position:absolute;left:0;top:0;width:100%;height:34px;margin:0;padding:0;border:0;background:none;box-shadow:none;pointer-events:none;-webkit-appearance:none;appearance:none;outline:none;min-width:0}
-.yr-track input[type=range]::-webkit-slider-runnable-track{height:34px;background:none;border:0}
-.yr-track input[type=range]::-moz-range-track{height:34px;background:none;border:0}
-.yr-track input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;pointer-events:auto;width:24px;height:24px;margin-top:5px;border-radius:50%;background:#fff;border:2px solid #333;box-shadow:0 1px 3px rgba(0,0,0,.35);cursor:grab}
-.yr-track input[type=range]::-moz-range-thumb{pointer-events:auto;width:22px;height:22px;border-radius:50%;background:#fff;border:2px solid #333;box-shadow:0 1px 3px rgba(0,0,0,.35);cursor:grab}
-.yr-track input[type=range]:focus-visible::-webkit-slider-thumb{outline:3px solid #4a90e2;outline-offset:2px}
-.yr-track input[type=range]:focus-visible::-moz-range-thumb{outline:3px solid #4a90e2;outline-offset:2px}
-@media (pointer:coarse){.yr-track,.yr-track input[type=range],.yr-track input[type=range]::-webkit-slider-runnable-track{height:44px}
-  .yr-track input[type=range]::-webkit-slider-thumb{width:32px;height:32px;margin-top:6px}
-  .yr-track input[type=range]::-moz-range-thumb{width:30px;height:30px}
-  .yr-track::before{left:16px;right:16px}}
-@media(max-width:640px){.more-panel .yr-slider{flex:1 1 100%}}
-/* smart search chips */
-.chips{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:0 0 14px}
-.chips[hidden]{display:none}
-.chips-lbl{font-weight:600;margin-right:2px}
-.chips-help{flex:1 1 100%;font-size:.82em;opacity:.7}
-.chip{font:inherit;font-size:.86em;border-radius:999px;padding:4px 10px;border:1px solid rgba(127,127,127,.5);background:transparent;color:inherit;cursor:pointer;line-height:1.3}
-.chip.hard,.chip.not{background:rgba(127,127,127,.18);border-color:currentColor}
-.chip.not{text-decoration:none;border-style:dashed}
-.chip.text{font-style:italic}
-.chip.off{opacity:.45;text-decoration:line-through}
-.chip span{margin-left:4px;font-weight:700}
