@@ -620,7 +620,7 @@
    ]
   },
   {
-   "title": "Khichdi (Season 3)",
+   "title": "Khichdi",
    "year": "2018",
    "format": "tv",
    "meta": "India · StarPlus sitcom",
@@ -657,7 +657,9 @@
    "note": "loose fit: confirmed only from the official channel's upload.",
    "tags": [
     "youtube-deep-oct15"
-   ]
+   ],
+   "match_title": "Khichdi",
+   "match_year": "2018"
   },
   {
    "title": "Faltu",
