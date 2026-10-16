@@ -3919,6 +3919,19 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "indian-parallel-oct15",
+   "label": "Indian web-sources parallel sweep (15 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/indian-parallel-oct15.json",
+   "description": "Web recap sites, Wikipedia and platform episode pages; 15 Oct 2026.",
+   "dropped": [],
+   "check": {
+    "raw_count": 3,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -3963,10 +3976,11 @@ window.CATALOG = {
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
   "official-yt-oct15": 45,
-  "streaming-oct15": 61
+  "streaming-oct15": 61,
+  "indian-parallel-oct15": 3
  },
- "raw_total": 5625,
- "entry_count": 2845,
+ "raw_total": 5628,
+ "entry_count": 2848,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4014,7 +4028,7 @@ window.CATALOG = {
    "key": "occult",
    "label": "Demonic / occult control",
    "legend_label": "Demonic / occult control",
-   "entry_count": 54
+   "entry_count": 55
   },
   {
    "key": "devil-deal-pregnancy-hypnosis",
@@ -4038,7 +4052,7 @@ window.CATALOG = {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 259
+   "entry_count": 260
   },
   {
    "key": "child-controller",
@@ -4056,7 +4070,7 @@ window.CATALOG = {
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 192
+   "entry_count": 195
   },
   {
    "key": "hypnotized-to-marry",
@@ -4086,7 +4100,7 @@ window.CATALOG = {
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 610
+   "entry_count": 611
   },
   {
    "key": "wife",
@@ -431009,6 +431023,224 @@ window.CATALOG = {
      "url2": "https://en.wikipedia.org/wiki/Pudhcha_Paaul"
     }
    }
+  },
+  {
+   "id": 2980,
+   "title": "Ishq Mein Marjawan",
+   "subtitle": "",
+   "year": "2017",
+   "meta": "TV serial · India · Hindi · Colors TV",
+   "mechanism": "Hypnosis by a doctor",
+   "confidence_flag": "Spoiler/forum sources",
+   "summary": "Deep brings in Dr. Bhandari (Ashish Kaul) to hypnotise Aarohi and wreck her mental state so she can be framed for Tara's crimes; later, after kidnapping her, Dr. Bhandari hypnotises Aarohi to extract her identity and plans before she turns the tables.",
+   "character": "Aarohi",
+   "provenance": "Indian web-sources parallel sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "series",
+   "categories": [
+    "india-control",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "SerialXpress: Deep has Aarohi hypnotised (26 Nov 2017)",
+     "url": "https://www.serialxpress.com/upcoming-twist-12652-a"
+    },
+    {
+     "label": "India Forums: Dr. Bhandari hypnotises Aarohi",
+     "url": "https://www.indiaforums.com/forum/ishq-mein-marjawan/4951168/aarohi-to-register-her-first-triumph-with-dr-bhandaris-death"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "indian-parallel-oct15"
+   ],
+   "source_records": [
+    "indian-parallel-oct15:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "indian-parallel-oct15:1": {
+     "standalone": true,
+     "group": "Indian web-sources parallel sweep (Oct 2026)",
+     "provenance": "Indian web-sources parallel sweep, 15 Oct 2026 PT",
+     "format": "series",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnosis by a doctor",
+     "confidence_flag": "Spoiler/forum sources",
+     "summary": "Deep brings in Dr. Bhandari (Ashish Kaul) to hypnotise Aarohi and wreck her mental state so she can be framed for Tara's crimes; later, after kidnapping her, Dr. Bhandari hypnotises Aarohi to extract her identity and plans before she turns the tables.",
+     "character": "Aarohi",
+     "categories": [
+      "india-control",
+      "human"
+     ],
+     "title": "Ishq Mein Marjawan",
+     "year": "2017",
+     "meta": "TV serial · India · Hindi · Colors TV",
+     "sources": [
+      {
+       "label": "SerialXpress: Deep has Aarohi hypnotised (26 Nov 2017)",
+       "url": "https://www.serialxpress.com/upcoming-twist-12652-a"
+      },
+      {
+       "label": "India Forums: Dr. Bhandari hypnotises Aarohi",
+       "url": "https://www.indiaforums.com/forum/ishq-mein-marjawan/4951168/aarohi-to-register-her-first-triumph-with-dr-bhandaris-death"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2981,
+   "title": "Naagini",
+   "subtitle": "",
+   "year": "2016–2020",
+   "meta": "TV serial · India · Kannada · Zee Kannada",
+   "mechanism": "Magical mind control",
+   "confidence_flag": "",
+   "summary": "The 'eraser' (Bhairava) controls the mind of Amrutha, an ichchadhari naagin married to Arjun, making her ask for ayurveda treatment so Arjun can be lured to a village and killed.",
+   "character": "Amrutha",
+   "provenance": "Indian web-sources parallel sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "yes — married to Arjun",
+   "pregnant_end": "not stated",
+   "format": "series",
+   "categories": [
+    "india-control",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia: Naagini",
+     "url": "https://en.wikipedia.org/wiki/Naagini"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "indian-parallel-oct15"
+   ],
+   "source_records": [
+    "indian-parallel-oct15:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "indian-parallel-oct15:2": {
+     "standalone": true,
+     "group": "Indian web-sources parallel sweep (Oct 2026)",
+     "provenance": "Indian web-sources parallel sweep, 15 Oct 2026 PT",
+     "format": "series",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "yes — married to Arjun",
+     "mechanism": "Magical mind control",
+     "confidence_flag": "",
+     "summary": "The 'eraser' (Bhairava) controls the mind of Amrutha, an ichchadhari naagin married to Arjun, making her ask for ayurveda treatment so Arjun can be lured to a village and killed.",
+     "character": "Amrutha",
+     "categories": [
+      "india-control",
+      "fantasy"
+     ],
+     "title": "Naagini",
+     "year": "2016–2020",
+     "meta": "TV serial · India · Kannada · Zee Kannada",
+     "sources": [
+      {
+       "label": "Wikipedia: Naagini",
+       "url": "https://en.wikipedia.org/wiki/Naagini"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2982,
+   "title": "Mukkupudaka",
+   "subtitle": "E1072 (13 Dec 2025)",
+   "year": "2025",
+   "meta": "TV serial · India · Telugu · Zee Telugu",
+   "mechanism": "Occult hypnosis",
+   "confidence_flag": "Episode synopsis only",
+   "summary": "When Vedavathi and Niharika consult Mata Jaganmohini, Maya uses her occult powers to hypnotise her.",
+   "character": "Mata Jaganmohini",
+   "provenance": "Indian web-sources parallel sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "series",
+   "categories": [
+    "india-control",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "Apple TV (IN) / ZEE5: Mukkupudaka E1072 'Maya Hypnotises Mata Jaganmohini' (13 Dec 2025)",
+     "url": "https://tv.apple.com/in/episode/maya-hypnotises-mata-jaganmohini/umc.cmc.2kereyqc87kp0ydwpyu8n2pj6?showId=umc.cmc.4i83m3mgdfewkifssu9gspubd"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "indian-parallel-oct15"
+   ],
+   "source_records": [
+    "indian-parallel-oct15:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "indian-parallel-oct15:3": {
+     "standalone": true,
+     "group": "Indian web-sources parallel sweep (Oct 2026)",
+     "provenance": "Indian web-sources parallel sweep, 15 Oct 2026 PT",
+     "format": "series",
+     "subtitle": "E1072 (13 Dec 2025)",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Occult hypnosis",
+     "confidence_flag": "Episode synopsis only",
+     "summary": "When Vedavathi and Niharika consult Mata Jaganmohini, Maya uses her occult powers to hypnotise her.",
+     "character": "Mata Jaganmohini",
+     "categories": [
+      "india-control",
+      "occult"
+     ],
+     "title": "Mukkupudaka",
+     "year": "2025",
+     "meta": "TV serial · India · Telugu · Zee Telugu",
+     "sources": [
+      {
+       "label": "Apple TV (IN) / ZEE5: Mukkupudaka E1072 'Maya Hypnotises Mata Jaganmohini' (13 Dec 2025)",
+       "url": "https://tv.apple.com/in/episode/maya-hypnotises-mata-jaganmohini/umc.cmc.2kereyqc87kp0ydwpyu8n2pj6?showId=umc.cmc.4i83m3mgdfewkifssu9gspubd"
+      }
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -435746,7 +435978,8 @@ window.CATALOG = {
     "hypnosis-assault-loose",
     "royal-hypnosis-loose",
     "open-sites-hypnosis",
-    "recap-imdb-oct15"
+    "recap-imdb-oct15",
+    "indian-parallel-oct15"
    ],
    "groups": [
     {
@@ -436302,6 +436535,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "recap-imdb-oct15"
+    },
+    {
+     "title": "Indian web-sources parallel sweep (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2982,
+       "from_source": "indian-parallel-oct15"
+      }
+     ],
+     "from_source": "indian-parallel-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -436316,7 +436560,8 @@ window.CATALOG = {
     "hypnosis-assault-loose": null,
     "royal-hypnosis-loose": null,
     "open-sites-hypnosis": null,
-    "recap-imdb-oct15": null
+    "recap-imdb-oct15": null,
+    "indian-parallel-oct15": null
    }
   },
   {
@@ -437039,7 +437284,8 @@ window.CATALOG = {
     "fanwiki-screen-oct14",
     "new-angles-oct15",
     "official-yt-oct15",
-    "streaming-oct15"
+    "streaming-oct15",
+    "indian-parallel-oct15"
    ],
    "groups": [
     {
@@ -439029,6 +439275,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "streaming-oct15"
+    },
+    {
+     "title": "Indian web-sources parallel sweep (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2981,
+       "from_source": "indian-parallel-oct15"
+      }
+     ],
+     "from_source": "indian-parallel-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -439046,7 +439303,8 @@ window.CATALOG = {
     "fanwiki-screen-oct14": null,
     "new-angles-oct15": null,
     "official-yt-oct15": null,
-    "streaming-oct15": null
+    "streaming-oct15": null,
+    "indian-parallel-oct15": null
    }
   },
   {
@@ -439919,7 +440177,8 @@ window.CATALOG = {
     "indian-langs-oct14",
     "recap-imdb-oct15",
     "official-yt-oct15",
-    "streaming-oct15"
+    "streaming-oct15",
+    "indian-parallel-oct15"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 57,
@@ -439937,7 +440196,8 @@ window.CATALOG = {
     "indian-langs-oct14": null,
     "recap-imdb-oct15": null,
     "official-yt-oct15": null,
-    "streaming-oct15": null
+    "streaming-oct15": null,
+    "indian-parallel-oct15": null
    },
    "groups": [
     {
@@ -441228,6 +441488,25 @@ window.CATALOG = {
       }
      ],
      "from_source": "streaming-oct15"
+    },
+    {
+     "title": "Indian web-sources parallel sweep (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2980,
+       "from_source": "indian-parallel-oct15"
+      },
+      {
+       "id": 2982,
+       "from_source": "indian-parallel-oct15"
+      },
+      {
+       "id": 2981,
+       "from_source": "indian-parallel-oct15"
+      }
+     ],
+     "from_source": "indian-parallel-oct15"
     }
    ]
   },
@@ -442245,7 +442524,8 @@ window.CATALOG = {
     "recheck-oct14",
     "indian-langs-oct14",
     "fanwiki-screen-oct14",
-    "new-angles-oct15"
+    "new-angles-oct15",
+    "indian-parallel-oct15"
    ],
    "groups": [
     {
@@ -446249,6 +446529,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "new-angles-oct15"
+    },
+    {
+     "title": "Indian web-sources parallel sweep (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2980,
+       "from_source": "indian-parallel-oct15"
+      }
+     ],
+     "from_source": "indian-parallel-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -446268,7 +446559,8 @@ window.CATALOG = {
     "recheck-oct14": null,
     "indian-langs-oct14": null,
     "fanwiki-screen-oct14": null,
-    "new-angles-oct15": null
+    "new-angles-oct15": null,
+    "indian-parallel-oct15": null
    }
   },
   {

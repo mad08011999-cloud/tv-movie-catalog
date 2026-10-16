@@ -1,0 +1,96 @@
+{
+ "id": "indian-parallel-oct15",
+ "label": "Indian web-sources parallel sweep (15 Oct 2026)",
+ "group_title": "Indian web-sources parallel sweep (Oct 2026)",
+ "description": "Web recap sites, Wikipedia and platform episode pages; 15 Oct 2026.",
+ "records": [
+  {
+   "standalone": true,
+   "group": "Indian web-sources parallel sweep (Oct 2026)",
+   "provenance": "Indian web-sources parallel sweep, 15 Oct 2026 PT",
+   "format": "series",
+   "subtitle": "",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "mechanism": "Hypnosis by a doctor",
+   "confidence_flag": "Spoiler/forum sources",
+   "summary": "Deep brings in Dr. Bhandari (Ashish Kaul) to hypnotise Aarohi and wreck her mental state so she can be framed for Tara's crimes; later, after kidnapping her, Dr. Bhandari hypnotises Aarohi to extract her identity and plans before she turns the tables.",
+   "character": "Aarohi",
+   "categories": [
+    "india-control",
+    "human"
+   ],
+   "title": "Ishq Mein Marjawan",
+   "year": "2017",
+   "meta": "TV serial · India · Hindi · Colors TV",
+   "sources": [
+    {
+     "label": "SerialXpress: Deep has Aarohi hypnotised (26 Nov 2017)",
+     "url": "https://www.serialxpress.com/upcoming-twist-12652-a"
+    },
+    {
+     "label": "India Forums: Dr. Bhandari hypnotises Aarohi",
+     "url": "https://www.indiaforums.com/forum/ishq-mein-marjawan/4951168/aarohi-to-register-her-first-triumph-with-dr-bhandaris-death"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "group": "Indian web-sources parallel sweep (Oct 2026)",
+   "provenance": "Indian web-sources parallel sweep, 15 Oct 2026 PT",
+   "format": "series",
+   "subtitle": "",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "yes — married to Arjun",
+   "mechanism": "Magical mind control",
+   "confidence_flag": "",
+   "summary": "The 'eraser' (Bhairava) controls the mind of Amrutha, an ichchadhari naagin married to Arjun, making her ask for ayurveda treatment so Arjun can be lured to a village and killed.",
+   "character": "Amrutha",
+   "categories": [
+    "india-control",
+    "fantasy"
+   ],
+   "title": "Naagini",
+   "year": "2016–2020",
+   "meta": "TV serial · India · Kannada · Zee Kannada",
+   "sources": [
+    {
+     "label": "Wikipedia: Naagini",
+     "url": "https://en.wikipedia.org/wiki/Naagini"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "group": "Indian web-sources parallel sweep (Oct 2026)",
+   "provenance": "Indian web-sources parallel sweep, 15 Oct 2026 PT",
+   "format": "series",
+   "subtitle": "E1072 (13 Dec 2025)",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "mechanism": "Occult hypnosis",
+   "confidence_flag": "Episode synopsis only",
+   "summary": "When Vedavathi and Niharika consult Mata Jaganmohini, Maya uses her occult powers to hypnotise her.",
+   "character": "Mata Jaganmohini",
+   "categories": [
+    "india-control",
+    "occult"
+   ],
+   "title": "Mukkupudaka",
+   "year": "2025",
+   "meta": "TV serial · India · Telugu · Zee Telugu",
+   "sources": [
+    {
+     "label": "Apple TV (IN) / ZEE5: Mukkupudaka E1072 'Maya Hypnotises Mata Jaganmohini' (13 Dec 2025)",
+     "url": "https://tv.apple.com/in/episode/maya-hypnotises-mata-jaganmohini/umc.cmc.2kereyqc87kp0ydwpyu8n2pj6?showId=umc.cmc.4i83m3mgdfewkifssu9gspubd"
+    }
+   ]
+  }
+ ]
+}

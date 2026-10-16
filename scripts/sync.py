@@ -126,6 +126,8 @@ SOURCES = [
      "local": "sources/official-yt-oct15.json", "required": False},
     {"id": "streaming-oct15", "label": "Streaming-service catalog pages (15 Oct 2026)",
      "local": "sources/streaming-oct15.json", "required": False},
+    {"id": "indian-parallel-oct15", "label": "Indian web-sources parallel sweep (15 Oct 2026)",
+     "local": "sources/indian-parallel-oct15.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "

@@ -44003,11 +44003,12 @@
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
   "official-yt-oct15": 45,
-  "streaming-oct15": 61
+  "streaming-oct15": 61,
+  "indian-parallel-oct15": 3
  },
- "entry_count_after_dedupe": 2845,
+ "entry_count_after_dedupe": 2848,
  "within_source_groups": 3,
  "cross_source_groups": 1818,
  "index_only_records": 64,
- "local_only_records": 624
+ "local_only_records": 627
 }
