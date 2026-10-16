@@ -4056,6 +4056,70 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "hypno-turkey-oct15",
+   "label": "Turkish female-hypnosis sweep (15 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/hypno-turkey-oct15.json",
+   "description": "Turkish-language titles where an adult woman is hypnotized or spell-controlled. Existing categories only. Merges into existing cards via match_title.",
+   "dropped": [
+    {
+     "title": "Şeytan",
+     "year": "1974",
+     "reason": "the hypnotized character Gül is a child"
+    },
+    {
+     "title": "Galip Derviş",
+     "year": "2014",
+     "reason": "S2E17 'Derviş Hipnoz Oluyor' (1 Mar 2014): the hypnotized character is male (Galip)"
+    },
+    {
+     "title": "Aşk Mantık İntikam",
+     "year": "2021",
+     "reason": "Eko hypnotizes a man (Yalçın)"
+    },
+    {
+     "title": "Ben de Özledim",
+     "year": "",
+     "reason": "Ali (male) is hypnotized"
+    },
+    {
+     "title": "Avrupa Yakası",
+     "year": "",
+     "reason": "the hypnosis target is male (Volkan)"
+    },
+    {
+     "title": "Alemin Kıralı",
+     "year": "",
+     "reason": "Kubat (male) is hypnotized (ep. 30)"
+    },
+    {
+     "title": "Leyla ile Mecnun ep. 82",
+     "year": "",
+     "reason": "Yavuz (male) is hypnotized; ep. 8 is used instead"
+    },
+    {
+     "title": "Arka Sokaklar — 'Sonu ölümle biten hipnoz oyunu'",
+     "year": "2025",
+     "reason": "Kanal D clip (28 Feb 2025) only; who is hypnotized (reportedly a mother) and her age could not be confirmed"
+    },
+    {
+     "title": "Hipnotizma / Hypnotic",
+     "year": "2021",
+     "reason": "Canadian film; only the Turkish release title"
+    },
+    {
+     "title": "Another Self / Zeytin Ağacı",
+     "year": "2022",
+     "reason": "family-constellation therapy, not hypnosis"
+    }
+   ],
+   "check": {
+    "raw_count": 5,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -4103,10 +4167,11 @@ window.CATALOG = {
   "streaming-oct15": 61,
   "indian-parallel-oct15": 4,
   "hypnotized-female-oct15": 7,
-  "indonesia-sinetron-oct15": 4
+  "indonesia-sinetron-oct15": 4,
+  "hypno-turkey-oct15": 5
  },
- "raw_total": 5640,
- "entry_count": 2860,
+ "raw_total": 5645,
+ "entry_count": 2864,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4124,7 +4189,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 267
+   "entry_count": 268
   },
   {
    "key": "walkin",
@@ -4154,7 +4219,7 @@ window.CATALOG = {
    "key": "occult",
    "label": "Demonic / occult control",
    "legend_label": "Demonic / occult control",
-   "entry_count": 57
+   "entry_count": 58
   },
   {
    "key": "devil-deal-pregnancy-hypnosis",
@@ -4208,7 +4273,7 @@ window.CATALOG = {
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 110
+   "entry_count": 111
   },
   {
    "key": "index-56",
@@ -4274,7 +4339,7 @@ window.CATALOG = {
    "key": "love",
    "label": "Hypnotized to love",
    "legend_label": "Hypnotized to love",
-   "entry_count": 206
+   "entry_count": 207
   },
   {
    "key": "hypno-intimacy",
@@ -4304,7 +4369,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 135
+   "entry_count": 138
   },
   {
    "key": "mom-partner-control",
@@ -4316,7 +4381,7 @@ window.CATALOG = {
    "key": "mother",
    "label": "Mother with child hypnotized / mind-controlled",
    "legend_label": "Mother with child hypnotized / mind-controlled",
-   "entry_count": 70
+   "entry_count": 71
   },
   {
    "key": "mom-pregnancy",
@@ -307175,10 +307240,35 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "S2E2",
+     "air_date": "2019-04-26",
+     "gist": "Under Faysal's influence, Leyla puts Hakan in danger",
+     "number_verified": true
+    },
+    {
+     "episode": "S2E5",
+     "air_date": "2019-04-26",
+     "gist": "Another Immortal takes control of Leyla's mind and orders her to kill Hakan",
+     "number_verified": true
+    },
+    {
+     "episode": "S2E6",
+     "air_date": "2019-04-26",
+     "gist": "Leyla's programming activates; she attacks Hakan, and Zeynep kills her in self-defense",
+     "number_verified": true
+    }
+   ],
+   "kids_status": "no",
+   "kids_together": "no",
+   "married": "no",
+   "pregnant_end": "no",
    "format": "tv",
    "categories": [
     "crime",
-    "human"
+    "human",
+    "forced-obedience"
    ],
    "sources": [
     {
@@ -307188,16 +307278,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/The_Protector_%28Turkish_TV_series%29"
+    },
+    {
+     "label": "TVmaze S2E5",
+     "url": "https://www.tvmaze.com/episodes/1645930/the-protector-2x05-episode-5"
+    },
+    {
+     "label": "TVmaze S2E6",
+     "url": "https://www.tvmaze.com/episodes/1645931/the-protector-2x06-episode-6"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypno-turkey-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1688",
-    "worldwide-hypnosis:950"
+    "worldwide-hypnosis:950",
+    "hypno-turkey-oct15:5"
    ],
    "index_only": false,
    "local_only": false,
@@ -307269,6 +307369,67 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypno-turkey-oct15:5",
+     "source": "hypno-turkey-oct15",
+     "label": "The Protector (2018–2020)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Protector",
+     "subtitle": "",
+     "year": "2018–2020",
+     "meta": "Netflix series · Turkey · Turkish (Hakan: Muhafız)",
+     "summary": "Leyla falls under the Immortals' influence: under Faysal she endangers Hakan; then another Immortal takes over her mind and programs her as an assassin against Hakan, and she is killed.",
+     "character": "Leyla (Ayça Ayşin Turan)",
+     "note": "All season 2 episodes were released the same day on Netflix. Leyla's death is per the Mental Block wiki only.",
+     "mechanism": "Immortals' mind control / hypnotic programming",
+     "confidence_flag": "3 sources",
+     "categories": [
+      "forced-obedience",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "TVmaze S2E5",
+       "url": "https://www.tvmaze.com/episodes/1645930/the-protector-2x05-episode-5"
+      },
+      {
+       "label": "TVmaze S2E6",
+       "url": "https://www.tvmaze.com/episodes/1645931/the-protector-2x06-episode-6"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/The_Protector"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S2E2",
+       "air_date": "2019-04-26",
+       "gist": "Under Faysal's influence, Leyla puts Hakan in danger",
+       "number_verified": true
+      },
+      {
+       "episode": "S2E5",
+       "air_date": "2019-04-26",
+       "gist": "Another Immortal takes control of Leyla's mind and orders her to kill Hakan",
+       "number_verified": true
+      },
+      {
+       "episode": "S2E6",
+       "air_date": "2019-04-26",
+       "gist": "Leyla's programming activates; she attacks Hakan, and Zeynep kills her in self-defense",
+       "number_verified": true
+      }
+     ],
+     "kids_status": "no",
+     "kids_together": "no",
+     "married": "no",
+     "pregnant_end": "no",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -307322,6 +307483,62 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypno-turkey-oct15:5": {
+     "title": "The Protector",
+     "match_title": "The Protector",
+     "match_year": "2018–2020",
+     "year": "2018–2020",
+     "format": "TV series",
+     "meta": "Netflix series · Turkey · Turkish (Hakan: Muhafız)",
+     "mechanism": "Immortals' mind control / hypnotic programming",
+     "categories": [
+      "forced-obedience",
+      "human"
+     ],
+     "summary": "Leyla falls under the Immortals' influence: under Faysal she endangers Hakan; then another Immortal takes over her mind and programs her as an assassin against Hakan, and she is killed.",
+     "character": "Leyla (Ayça Ayşin Turan)",
+     "episodes": [
+      {
+       "episode": "S2E2",
+       "air_date": "2019-04-26",
+       "gist": "Under Faysal's influence, Leyla puts Hakan in danger",
+       "number_verified": true
+      },
+      {
+       "episode": "S2E5",
+       "air_date": "2019-04-26",
+       "gist": "Another Immortal takes control of Leyla's mind and orders her to kill Hakan",
+       "number_verified": true
+      },
+      {
+       "episode": "S2E6",
+       "air_date": "2019-04-26",
+       "gist": "Leyla's programming activates; she attacks Hakan, and Zeynep kills her in self-defense",
+       "number_verified": true
+      }
+     ],
+     "note": "All season 2 episodes were released the same day on Netflix. Leyla's death is per the Mental Block wiki only.",
+     "pregnant_end": "no",
+     "kids_together": "no",
+     "kids_status": "no",
+     "married": "no",
+     "sources": [
+      {
+       "label": "TVmaze S2E5",
+       "url": "https://www.tvmaze.com/episodes/1645930/the-protector-2x05-episode-5"
+      },
+      {
+       "label": "TVmaze S2E6",
+       "url": "https://www.tvmaze.com/episodes/1645931/the-protector-2x06-episode-6"
+      },
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/The_Protector"
+      }
+     ],
+     "provenance": "Turkish hypnosis sweep, 15 Oct 2026 PT (adults only; clinical wording)",
+     "confidence_flag": "3 sources"
     }
    }
   },
@@ -432460,6 +432677,372 @@ window.CATALOG = {
      "episodes": "Ep 48 (13 Sep 2024)."
     }
    }
+  },
+  {
+   "id": 2995,
+   "title": "Sıfır Dediğimde / On the Count of Zero",
+   "subtitle": "",
+   "year": "2007",
+   "meta": "Film · Turkey · Turkish",
+   "mechanism": "Clinical hypnosis (regression) by a psychiatrist",
+   "confidence_flag": "4 sources",
+   "summary": "Aslı, a final-year art student who lost a valuable borrowed book, is hypnotized by psychiatrist Dr. Melih to recover the memory; in the trance she meets a mysterious man, which sets off strange events in the real world.",
+   "character": "Aslı (Damla Tokel); Dr. Melih (Hazım Körmükçü)",
+   "provenance": "Turkish hypnosis sweep, 15 Oct 2026 PT (adults only; clinical wording)",
+   "note": "Age not stated (a final-year university student, so presumably adult; flagged). Film — trance sessions run through the whole film.",
+   "kids_status": "no",
+   "kids_together": "no",
+   "married": "no",
+   "pregnant_end": "no",
+   "format": "movie",
+   "categories": [
+    "medical",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0940765/"
+    },
+    {
+     "label": "Beyazperde",
+     "url": "https://www.beyazperde.com/haberler/filmler/haberler-8589/"
+    },
+    {
+     "label": "Sinemalar.com",
+     "url": "https://www.sinemalar.com/haber/512/sifir-dedigimde-balik-denizi-gorebilir-mi"
+    },
+    {
+     "label": "Öteki Sinema",
+     "url": "https://www.otekisinema.com/sifir-dedigimde-2/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypno-turkey-oct15"
+   ],
+   "source_records": [
+    "hypno-turkey-oct15:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-turkey-oct15:1": {
+     "title": "Sıfır Dediğimde / On the Count of Zero",
+     "year": "2007",
+     "format": "movie",
+     "meta": "Film · Turkey · Turkish",
+     "mechanism": "Clinical hypnosis (regression) by a psychiatrist",
+     "categories": [
+      "medical",
+      "adult-hypnosis"
+     ],
+     "summary": "Aslı, a final-year art student who lost a valuable borrowed book, is hypnotized by psychiatrist Dr. Melih to recover the memory; in the trance she meets a mysterious man, which sets off strange events in the real world.",
+     "character": "Aslı (Damla Tokel); Dr. Melih (Hazım Körmükçü)",
+     "note": "Age not stated (a final-year university student, so presumably adult; flagged). Film — trance sessions run through the whole film.",
+     "pregnant_end": "no",
+     "kids_together": "no",
+     "kids_status": "no",
+     "married": "no",
+     "sources": [
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0940765/"
+      },
+      {
+       "label": "Beyazperde",
+       "url": "https://www.beyazperde.com/haberler/filmler/haberler-8589/"
+      },
+      {
+       "label": "Sinemalar.com",
+       "url": "https://www.sinemalar.com/haber/512/sifir-dedigimde-balik-denizi-gorebilir-mi"
+      },
+      {
+       "label": "Öteki Sinema",
+       "url": "https://www.otekisinema.com/sifir-dedigimde-2/"
+      }
+     ],
+     "provenance": "Turkish hypnosis sweep, 15 Oct 2026 PT (adults only; clinical wording)",
+     "confidence_flag": "4 sources"
+    }
+   }
+  },
+  {
+   "id": 2996,
+   "title": "Leyla ile Mecnun",
+   "subtitle": "",
+   "year": "2011–2013",
+   "meta": "TV series · Turkey · Turkish (TRT 1)",
+   "mechanism": "Therapeutic hypnosis for amnesia",
+   "confidence_flag": "2 sources",
+   "summary": "After an accident leaves Leyla with amnesia, a therapist hypnotizes her; in the trance she sees Aksakallı Dede, who tells her the man she loves is named Mecnun.",
+   "character": "Leyla (Ezgi Asaroğlu)",
+   "provenance": "Turkish hypnosis sweep, 15 Oct 2026 PT (adults only; clinical wording)",
+   "note": "Age not stated (adult woman of marriageable age; flagged). Did not check whether Leyla and Mecnun marry or have children by the series end.",
+   "episodes": [
+    {
+     "episode": "S1E8 “Mantar”",
+     "air_date": "2011-03-30",
+     "gist": "A therapist hypnotizes amnesiac Leyla; in the trance Aksakallı Dede tells her the man she loves is Mecnun",
+     "number_verified": true
+    }
+   ],
+   "kids_status": "no",
+   "kids_together": "unknown",
+   "married": "unknown",
+   "pregnant_end": "unknown",
+   "format": "TV series",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Turkish Wikipedia (episode)",
+     "url": "https://tr.wikipedia.org/wiki/Mantar_(Leyla_ile_Mecnun)"
+    },
+    {
+     "label": "IMDb (episode)",
+     "url": "https://www.imdb.com/title/tt1862825/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypno-turkey-oct15"
+   ],
+   "source_records": [
+    "hypno-turkey-oct15:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-turkey-oct15:2": {
+     "title": "Leyla ile Mecnun",
+     "year": "2011–2013",
+     "format": "TV series",
+     "meta": "TV series · Turkey · Turkish (TRT 1)",
+     "mechanism": "Therapeutic hypnosis for amnesia",
+     "categories": [
+      "medical"
+     ],
+     "summary": "After an accident leaves Leyla with amnesia, a therapist hypnotizes her; in the trance she sees Aksakallı Dede, who tells her the man she loves is named Mecnun.",
+     "character": "Leyla (Ezgi Asaroğlu)",
+     "note": "Age not stated (adult woman of marriageable age; flagged). Did not check whether Leyla and Mecnun marry or have children by the series end.",
+     "episodes": [
+      {
+       "episode": "S1E8 “Mantar”",
+       "air_date": "2011-03-30",
+       "gist": "A therapist hypnotizes amnesiac Leyla; in the trance Aksakallı Dede tells her the man she loves is Mecnun",
+       "number_verified": true
+      }
+     ],
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "kids_status": "no",
+     "married": "unknown",
+     "sources": [
+      {
+       "label": "Turkish Wikipedia (episode)",
+       "url": "https://tr.wikipedia.org/wiki/Mantar_(Leyla_ile_Mecnun)"
+      },
+      {
+       "label": "IMDb (episode)",
+       "url": "https://www.imdb.com/title/tt1862825/"
+      }
+     ],
+     "provenance": "Turkish hypnosis sweep, 15 Oct 2026 PT (adults only; clinical wording)",
+     "confidence_flag": "2 sources"
+    }
+   }
+  },
+  {
+   "id": 2997,
+   "title": "Vuslat",
+   "subtitle": "",
+   "year": "2019–2020",
+   "meta": "TV series · Turkey · Turkish (TRT 1)",
+   "mechanism": "Hypnosis session by a psychologist, arranged by her son",
+   "confidence_flag": "3 sources",
+   "summary": "To learn the truth about his father, Kerem arranges with a psychologist to put his mother Alice into a hypnosis session to get her to talk.",
+   "character": "Alice (mother of adult son Kerem)",
+   "provenance": "Turkish hypnosis sweep, 15 Oct 2026 PT (adults only; clinical wording)",
+   "note": "Both press sources reproduce the same official synopsis, so they are not fully independent (conflict flag). Air date inferred from articles published the night of 24 Feb 2020.",
+   "episodes": [
+    {
+     "episode": "Ep. 42",
+     "air_date": "2020-02-24 (approx.)",
+     "gist": "A psychologist hypnotizes Alice at her son Kerem's request so she will reveal what she knows about his father",
+     "number_verified": true
+    }
+   ],
+   "kids_status": "yes",
+   "kids_together": "unknown",
+   "married": "unknown",
+   "pregnant_end": "no",
+   "format": "TV series",
+   "categories": [
+    "medical",
+    "mother"
+   ],
+   "sources": [
+    {
+     "label": "Sözcü",
+     "url": "https://www.sozcu.com.tr/vuslat-43-yeni-bolum-fragmani-yayinlandi-mi-vuslat-42-son-bolum-izle-wp5643610"
+    },
+    {
+     "label": "Milliyet",
+     "url": "https://www.milliyet.com.tr/gundem/vuslat-43-yeni-bolum-fragmani-yayinlandi-vuslat-42-son-bolum-full-kesintisiz-izleme-linki-yayinda-6152098"
+    },
+    {
+     "label": "dizisi.info",
+     "url": "https://www.dizisi.info.tr/vuslat/ozeti/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypno-turkey-oct15"
+   ],
+   "source_records": [
+    "hypno-turkey-oct15:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-turkey-oct15:3": {
+     "title": "Vuslat",
+     "year": "2019–2020",
+     "format": "TV series",
+     "meta": "TV series · Turkey · Turkish (TRT 1)",
+     "mechanism": "Hypnosis session by a psychologist, arranged by her son",
+     "categories": [
+      "medical",
+      "mother"
+     ],
+     "summary": "To learn the truth about his father, Kerem arranges with a psychologist to put his mother Alice into a hypnosis session to get her to talk.",
+     "character": "Alice (mother of adult son Kerem)",
+     "note": "Both press sources reproduce the same official synopsis, so they are not fully independent (conflict flag). Air date inferred from articles published the night of 24 Feb 2020.",
+     "episodes": [
+      {
+       "episode": "Ep. 42",
+       "air_date": "2020-02-24 (approx.)",
+       "gist": "A psychologist hypnotizes Alice at her son Kerem's request so she will reveal what she knows about his father",
+       "number_verified": true
+      }
+     ],
+     "pregnant_end": "no",
+     "kids_together": "unknown",
+     "kids_status": "yes",
+     "married": "unknown",
+     "sources": [
+      {
+       "label": "Sözcü",
+       "url": "https://www.sozcu.com.tr/vuslat-43-yeni-bolum-fragmani-yayinlandi-mi-vuslat-42-son-bolum-izle-wp5643610"
+      },
+      {
+       "label": "Milliyet",
+       "url": "https://www.milliyet.com.tr/gundem/vuslat-43-yeni-bolum-fragmani-yayinlandi-vuslat-42-son-bolum-full-kesintisiz-izleme-linki-yayinda-6152098"
+      },
+      {
+       "label": "dizisi.info",
+       "url": "https://www.dizisi.info.tr/vuslat/ozeti/"
+      }
+     ],
+     "provenance": "Turkish hypnosis sweep, 15 Oct 2026 PT (adults only; clinical wording)",
+     "confidence_flag": "3 sources"
+    }
+   }
+  },
+  {
+   "id": 2998,
+   "title": "Cin “Aşk Büyüsü”",
+   "subtitle": "",
+   "year": "2019",
+   "meta": "Horror film · Turkey · Turkish",
+   "mechanism": "Love spell (büyü) to bind a woman's will",
+   "confidence_flag": "3 sources",
+   "summary": "After failing to win Esra, Musa turns to a love spell popularized on social media; it quickly takes effect on her, then drags Musa into disaster.",
+   "character": "Esra; Musa",
+   "provenance": "Turkish hypnosis sweep, 15 Oct 2026 PT (adults only; clinical wording)",
+   "note": "Ages not stated (adults; flagged). The sources don't say how far Esra's will is controlled. Outcomes not found. Released 26 Jul 2019; written and directed by Battal Karslıoğlu.",
+   "kids_status": "unknown",
+   "kids_together": "unknown",
+   "married": "unknown",
+   "pregnant_end": "unknown",
+   "format": "movie",
+   "categories": [
+    "love",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "Sinemalar.com",
+     "url": "https://www.sinemalar.com/film/263045/cin-ask-buyusu"
+    },
+    {
+     "label": "Beyazperde",
+     "url": "https://www.beyazperde.com/filmler/film-273548/"
+    },
+    {
+     "label": "Son Dakika",
+     "url": "https://www.sondakika.com/sinema/haber-cin-ask-buyusu-filmi-12212928/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypno-turkey-oct15"
+   ],
+   "source_records": [
+    "hypno-turkey-oct15:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-turkey-oct15:4": {
+     "title": "Cin “Aşk Büyüsü”",
+     "year": "2019",
+     "format": "movie",
+     "meta": "Horror film · Turkey · Turkish",
+     "mechanism": "Love spell (büyü) to bind a woman's will",
+     "categories": [
+      "love",
+      "occult"
+     ],
+     "summary": "After failing to win Esra, Musa turns to a love spell popularized on social media; it quickly takes effect on her, then drags Musa into disaster.",
+     "character": "Esra; Musa",
+     "note": "Ages not stated (adults; flagged). The sources don't say how far Esra's will is controlled. Outcomes not found. Released 26 Jul 2019; written and directed by Battal Karslıoğlu.",
+     "pregnant_end": "unknown",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "married": "unknown",
+     "sources": [
+      {
+       "label": "Sinemalar.com",
+       "url": "https://www.sinemalar.com/film/263045/cin-ask-buyusu"
+      },
+      {
+       "label": "Beyazperde",
+       "url": "https://www.beyazperde.com/filmler/film-273548/"
+      },
+      {
+       "label": "Son Dakika",
+       "url": "https://www.sondakika.com/sinema/haber-cin-ask-buyusu-filmi-12212928/"
+      }
+     ],
+     "provenance": "Turkish hypnosis sweep, 15 Oct 2026 PT (adults only; clinical wording)",
+     "confidence_flag": "3 sources"
+    }
+   }
   }
  ],
  "sections": [
@@ -432917,7 +433500,8 @@ window.CATALOG = {
     "new-angles-oct15",
     "recap-imdb-oct15",
     "official-yt-oct15",
-    "streaming-oct15"
+    "streaming-oct15",
+    "hypno-turkey-oct15"
    ],
    "groups": [
     {
@@ -436211,6 +436795,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "streaming-oct15"
+    },
+    {
+     "title": "Turkish female hypnosis sweep (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2995,
+       "from_source": "hypno-turkey-oct15"
+      }
+     ],
+     "from_source": "hypno-turkey-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -436231,7 +436826,8 @@ window.CATALOG = {
     "new-angles-oct15": null,
     "recap-imdb-oct15": null,
     "official-yt-oct15": null,
-    "streaming-oct15": null
+    "streaming-oct15": null,
+    "hypno-turkey-oct15": null
    }
   },
   {
@@ -437206,7 +437802,8 @@ window.CATALOG = {
     "open-sites-hypnosis",
     "recap-imdb-oct15",
     "indian-parallel-oct15",
-    "hypnotized-female-oct15"
+    "hypnotized-female-oct15",
+    "hypno-turkey-oct15"
    ],
    "groups": [
     {
@@ -437788,6 +438385,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnotized-female-oct15"
+    },
+    {
+     "title": "Turkish female hypnosis sweep (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2998,
+       "from_source": "hypno-turkey-oct15"
+      }
+     ],
+     "from_source": "hypno-turkey-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -437804,7 +438412,8 @@ window.CATALOG = {
     "open-sites-hypnosis": null,
     "recap-imdb-oct15": null,
     "indian-parallel-oct15": null,
-    "hypnotized-female-oct15": null
+    "hypnotized-female-oct15": null,
+    "hypno-turkey-oct15": null
    }
   },
   {
@@ -443787,7 +444396,8 @@ window.CATALOG = {
     "new-angles-oct15",
     "indian-parallel-oct15",
     "hypnotized-female-oct15",
-    "indonesia-sinetron-oct15"
+    "indonesia-sinetron-oct15",
+    "hypno-turkey-oct15"
    ],
    "groups": [
     {
@@ -447850,7 +448460,8 @@ window.CATALOG = {
     "new-angles-oct15": null,
     "indian-parallel-oct15": null,
     "hypnotized-female-oct15": null,
-    "indonesia-sinetron-oct15": null
+    "indonesia-sinetron-oct15": null,
+    "hypno-turkey-oct15": null
    }
   },
   {
@@ -449743,6 +450354,16 @@ window.CATALOG = {
         "Trance",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/The_Protector"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Protector_%28Turkish_TV_series%29"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -450498,7 +451119,8 @@ window.CATALOG = {
     "round3",
     "fanwiki-screen-oct14",
     "hypnotized-female-oct15",
-    "indonesia-sinetron-oct15"
+    "indonesia-sinetron-oct15",
+    "hypno-turkey-oct15"
    ],
    "groups": [
     {
@@ -452431,6 +453053,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "indonesia-sinetron-oct15"
+    },
+    {
+     "title": "Turkish female hypnosis sweep (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2998,
+       "from_source": "hypno-turkey-oct15"
+      }
+     ],
+     "from_source": "hypno-turkey-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -452449,7 +453082,8 @@ window.CATALOG = {
     "round3": null,
     "fanwiki-screen-oct14": null,
     "hypnotized-female-oct15": null,
-    "indonesia-sinetron-oct15": null
+    "indonesia-sinetron-oct15": null,
+    "hypno-turkey-oct15": null
    }
   },
   {
@@ -454275,7 +454909,8 @@ window.CATALOG = {
     "official-yt-oct15",
     "streaming-oct15",
     "indian-parallel-oct15",
-    "indonesia-sinetron-oct15"
+    "indonesia-sinetron-oct15",
+    "hypno-turkey-oct15"
    ],
    "groups": [
     {
@@ -455442,6 +456077,25 @@ window.CATALOG = {
       }
      ],
      "from_source": "indonesia-sinetron-oct15"
+    },
+    {
+     "title": "Turkish female hypnosis sweep (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2996,
+       "from_source": "hypno-turkey-oct15"
+      },
+      {
+       "id": 2995,
+       "from_source": "hypno-turkey-oct15"
+      },
+      {
+       "id": 2997,
+       "from_source": "hypno-turkey-oct15"
+      }
+     ],
+     "from_source": "hypno-turkey-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -455466,7 +456120,8 @@ window.CATALOG = {
     "official-yt-oct15": null,
     "streaming-oct15": null,
     "indian-parallel-oct15": null,
-    "indonesia-sinetron-oct15": null
+    "indonesia-sinetron-oct15": null,
+    "hypno-turkey-oct15": null
    }
   },
   {
@@ -455541,7 +456196,8 @@ window.CATALOG = {
     "rich-wife-hypnosis",
     "mother-kids-hypnosis",
     "round3",
-    "indian-langs-oct14"
+    "indian-langs-oct14",
+    "hypno-turkey-oct15"
    ],
    "groups": [
     {
@@ -456284,6 +456940,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "indian-langs-oct14"
+    },
+    {
+     "title": "Turkish female hypnosis sweep (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2997,
+       "from_source": "hypno-turkey-oct15"
+      }
+     ],
+     "from_source": "hypno-turkey-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -456293,7 +456960,8 @@ window.CATALOG = {
     "rich-wife-hypnosis": null,
     "mother-kids-hypnosis": null,
     "round3": null,
-    "indian-langs-oct14": null
+    "indian-langs-oct14": null,
+    "hypno-turkey-oct15": null
    }
   },
   {
@@ -476552,7 +477220,8 @@ window.CATALOG = {
     "widow-divorcee-oct14b",
     "recheck-oct14",
     "hypnotized-female-oct15",
-    "indonesia-sinetron-oct15"
+    "indonesia-sinetron-oct15",
+    "hypno-turkey-oct15"
    ],
    "groups": [
     {
@@ -478151,6 +478820,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "indonesia-sinetron-oct15"
+    },
+    {
+     "title": "Turkish female hypnosis sweep (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1674,
+       "from_source": "hypno-turkey-oct15"
+      }
+     ],
+     "from_source": "hypno-turkey-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -478164,7 +478844,8 @@ window.CATALOG = {
     "widow-divorcee-oct14b": null,
     "recheck-oct14": null,
     "hypnotized-female-oct15": null,
-    "indonesia-sinetron-oct15": null
+    "indonesia-sinetron-oct15": null,
+    "hypno-turkey-oct15": null
    }
   },
   {

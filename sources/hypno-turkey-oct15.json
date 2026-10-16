@@ -1,0 +1,267 @@
+{
+ "id": "hypno-turkey-oct15",
+ "label": "Turkish female-hypnosis sweep (15 Oct 2026)",
+ "group_title": "Turkish female hypnosis sweep (Oct 2026)",
+ "description": "Turkish-language titles where an adult woman is hypnotized or spell-controlled. Existing categories only. Merges into existing cards via match_title.",
+ "records": [
+  {
+   "title": "Sıfır Dediğimde / On the Count of Zero",
+   "year": "2007",
+   "format": "movie",
+   "meta": "Film · Turkey · Turkish",
+   "mechanism": "Clinical hypnosis (regression) by a psychiatrist",
+   "categories": [
+    "medical",
+    "adult-hypnosis"
+   ],
+   "summary": "Aslı, a final-year art student who lost a valuable borrowed book, is hypnotized by psychiatrist Dr. Melih to recover the memory; in the trance she meets a mysterious man, which sets off strange events in the real world.",
+   "character": "Aslı (Damla Tokel); Dr. Melih (Hazım Körmükçü)",
+   "note": "Age not stated (a final-year university student, so presumably adult; flagged). Film — trance sessions run through the whole film.",
+   "pregnant_end": "no",
+   "kids_together": "no",
+   "kids_status": "no",
+   "married": "no",
+   "sources": [
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0940765/"
+    },
+    {
+     "label": "Beyazperde",
+     "url": "https://www.beyazperde.com/haberler/filmler/haberler-8589/"
+    },
+    {
+     "label": "Sinemalar.com",
+     "url": "https://www.sinemalar.com/haber/512/sifir-dedigimde-balik-denizi-gorebilir-mi"
+    },
+    {
+     "label": "Öteki Sinema",
+     "url": "https://www.otekisinema.com/sifir-dedigimde-2/"
+    }
+   ],
+   "provenance": "Turkish hypnosis sweep, 15 Oct 2026 PT (adults only; clinical wording)",
+   "confidence_flag": "4 sources"
+  },
+  {
+   "title": "Leyla ile Mecnun",
+   "year": "2011–2013",
+   "format": "TV series",
+   "meta": "TV series · Turkey · Turkish (TRT 1)",
+   "mechanism": "Therapeutic hypnosis for amnesia",
+   "categories": [
+    "medical"
+   ],
+   "summary": "After an accident leaves Leyla with amnesia, a therapist hypnotizes her; in the trance she sees Aksakallı Dede, who tells her the man she loves is named Mecnun.",
+   "character": "Leyla (Ezgi Asaroğlu)",
+   "note": "Age not stated (adult woman of marriageable age; flagged). Did not check whether Leyla and Mecnun marry or have children by the series end.",
+   "episodes": [
+    {
+     "episode": "S1E8 “Mantar”",
+     "air_date": "2011-03-30",
+     "gist": "A therapist hypnotizes amnesiac Leyla; in the trance Aksakallı Dede tells her the man she loves is Mecnun",
+     "number_verified": true
+    }
+   ],
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_status": "no",
+   "married": "unknown",
+   "sources": [
+    {
+     "label": "Turkish Wikipedia (episode)",
+     "url": "https://tr.wikipedia.org/wiki/Mantar_(Leyla_ile_Mecnun)"
+    },
+    {
+     "label": "IMDb (episode)",
+     "url": "https://www.imdb.com/title/tt1862825/"
+    }
+   ],
+   "provenance": "Turkish hypnosis sweep, 15 Oct 2026 PT (adults only; clinical wording)",
+   "confidence_flag": "2 sources"
+  },
+  {
+   "title": "Vuslat",
+   "year": "2019–2020",
+   "format": "TV series",
+   "meta": "TV series · Turkey · Turkish (TRT 1)",
+   "mechanism": "Hypnosis session by a psychologist, arranged by her son",
+   "categories": [
+    "medical",
+    "mother"
+   ],
+   "summary": "To learn the truth about his father, Kerem arranges with a psychologist to put his mother Alice into a hypnosis session to get her to talk.",
+   "character": "Alice (mother of adult son Kerem)",
+   "note": "Both press sources reproduce the same official synopsis, so they are not fully independent (conflict flag). Air date inferred from articles published the night of 24 Feb 2020.",
+   "episodes": [
+    {
+     "episode": "Ep. 42",
+     "air_date": "2020-02-24 (approx.)",
+     "gist": "A psychologist hypnotizes Alice at her son Kerem's request so she will reveal what she knows about his father",
+     "number_verified": true
+    }
+   ],
+   "pregnant_end": "no",
+   "kids_together": "unknown",
+   "kids_status": "yes",
+   "married": "unknown",
+   "sources": [
+    {
+     "label": "Sözcü",
+     "url": "https://www.sozcu.com.tr/vuslat-43-yeni-bolum-fragmani-yayinlandi-mi-vuslat-42-son-bolum-izle-wp5643610"
+    },
+    {
+     "label": "Milliyet",
+     "url": "https://www.milliyet.com.tr/gundem/vuslat-43-yeni-bolum-fragmani-yayinlandi-vuslat-42-son-bolum-full-kesintisiz-izleme-linki-yayinda-6152098"
+    },
+    {
+     "label": "dizisi.info",
+     "url": "https://www.dizisi.info.tr/vuslat/ozeti/"
+    }
+   ],
+   "provenance": "Turkish hypnosis sweep, 15 Oct 2026 PT (adults only; clinical wording)",
+   "confidence_flag": "3 sources"
+  },
+  {
+   "title": "Cin “Aşk Büyüsü”",
+   "year": "2019",
+   "format": "movie",
+   "meta": "Horror film · Turkey · Turkish",
+   "mechanism": "Love spell (büyü) to bind a woman's will",
+   "categories": [
+    "love",
+    "occult"
+   ],
+   "summary": "After failing to win Esra, Musa turns to a love spell popularized on social media; it quickly takes effect on her, then drags Musa into disaster.",
+   "character": "Esra; Musa",
+   "note": "Ages not stated (adults; flagged). The sources don't say how far Esra's will is controlled. Outcomes not found. Released 26 Jul 2019; written and directed by Battal Karslıoğlu.",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_status": "unknown",
+   "married": "unknown",
+   "sources": [
+    {
+     "label": "Sinemalar.com",
+     "url": "https://www.sinemalar.com/film/263045/cin-ask-buyusu"
+    },
+    {
+     "label": "Beyazperde",
+     "url": "https://www.beyazperde.com/filmler/film-273548/"
+    },
+    {
+     "label": "Son Dakika",
+     "url": "https://www.sondakika.com/sinema/haber-cin-ask-buyusu-filmi-12212928/"
+    }
+   ],
+   "provenance": "Turkish hypnosis sweep, 15 Oct 2026 PT (adults only; clinical wording)",
+   "confidence_flag": "3 sources"
+  },
+  {
+   "title": "The Protector",
+   "match_title": "The Protector",
+   "match_year": "2018–2020",
+   "year": "2018–2020",
+   "format": "TV series",
+   "meta": "Netflix series · Turkey · Turkish (Hakan: Muhafız)",
+   "mechanism": "Immortals' mind control / hypnotic programming",
+   "categories": [
+    "forced-obedience",
+    "human"
+   ],
+   "summary": "Leyla falls under the Immortals' influence: under Faysal she endangers Hakan; then another Immortal takes over her mind and programs her as an assassin against Hakan, and she is killed.",
+   "character": "Leyla (Ayça Ayşin Turan)",
+   "episodes": [
+    {
+     "episode": "S2E2",
+     "air_date": "2019-04-26",
+     "gist": "Under Faysal's influence, Leyla puts Hakan in danger",
+     "number_verified": true
+    },
+    {
+     "episode": "S2E5",
+     "air_date": "2019-04-26",
+     "gist": "Another Immortal takes control of Leyla's mind and orders her to kill Hakan",
+     "number_verified": true
+    },
+    {
+     "episode": "S2E6",
+     "air_date": "2019-04-26",
+     "gist": "Leyla's programming activates; she attacks Hakan, and Zeynep kills her in self-defense",
+     "number_verified": true
+    }
+   ],
+   "note": "All season 2 episodes were released the same day on Netflix. Leyla's death is per the Mental Block wiki only.",
+   "pregnant_end": "no",
+   "kids_together": "no",
+   "kids_status": "no",
+   "married": "no",
+   "sources": [
+    {
+     "label": "TVmaze S2E5",
+     "url": "https://www.tvmaze.com/episodes/1645930/the-protector-2x05-episode-5"
+    },
+    {
+     "label": "TVmaze S2E6",
+     "url": "https://www.tvmaze.com/episodes/1645931/the-protector-2x06-episode-6"
+    },
+    {
+     "label": "Mental Block wiki",
+     "url": "https://mentalblock.miraheze.org/wiki/The_Protector"
+    }
+   ],
+   "provenance": "Turkish hypnosis sweep, 15 Oct 2026 PT (adults only; clinical wording)",
+   "confidence_flag": "3 sources"
+  }
+ ],
+ "dropped": [
+  {
+   "title": "Şeytan",
+   "year": "1974",
+   "reason": "the hypnotized character Gül is a child"
+  },
+  {
+   "title": "Galip Derviş",
+   "year": "2014",
+   "reason": "S2E17 'Derviş Hipnoz Oluyor' (1 Mar 2014): the hypnotized character is male (Galip)"
+  },
+  {
+   "title": "Aşk Mantık İntikam",
+   "year": "2021",
+   "reason": "Eko hypnotizes a man (Yalçın)"
+  },
+  {
+   "title": "Ben de Özledim",
+   "year": "",
+   "reason": "Ali (male) is hypnotized"
+  },
+  {
+   "title": "Avrupa Yakası",
+   "year": "",
+   "reason": "the hypnosis target is male (Volkan)"
+  },
+  {
+   "title": "Alemin Kıralı",
+   "year": "",
+   "reason": "Kubat (male) is hypnotized (ep. 30)"
+  },
+  {
+   "title": "Leyla ile Mecnun ep. 82",
+   "year": "",
+   "reason": "Yavuz (male) is hypnotized; ep. 8 is used instead"
+  },
+  {
+   "title": "Arka Sokaklar — 'Sonu ölümle biten hipnoz oyunu'",
+   "year": "2025",
+   "reason": "Kanal D clip (28 Feb 2025) only; who is hypnotized (reportedly a mother) and her age could not be confirmed"
+  },
+  {
+   "title": "Hipnotizma / Hypnotic",
+   "year": "2021",
+   "reason": "Canadian film; only the Turkish release title"
+  },
+  {
+   "title": "Another Self / Zeytin Ağacı",
+   "year": "2022",
+   "reason": "family-constellation therapy, not hypnosis"
+  }
+ ]
+}
