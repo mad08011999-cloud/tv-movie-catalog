@@ -148,6 +148,8 @@ SOURCES = [
      "local": "sources/gap-check-vertical-oct15.json", "required": False},
     {"id": "adult-fanmade-oct15", "label": "Hardcore / adult and fan-made / roleplay listings (15 Oct 2026)",
      "local": "sources/adult-fanmade-oct15.json", "required": False},
+    {"id": "deep-gap-oct15", "label": "Deep gap-check across catalog topics (15 Oct 2026)",
+     "local": "sources/deep-gap-oct15.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "

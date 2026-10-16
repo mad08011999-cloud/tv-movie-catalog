@@ -26585,6 +26585,13 @@
      "subtitle": "",
      "year": "1979–1985",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "deep-gap-oct15:3",
+     "title": "The Dukes of Hazzard",
+     "subtitle": "",
+     "year": "1979–1985",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -46256,11 +46263,12 @@
   "female-wife-scenes-oct15": 4,
   "youtube-sweep-oct15": 5,
   "gap-check-vertical-oct15": 5,
-  "adult-fanmade-oct15": 3
+  "adult-fanmade-oct15": 3,
+  "deep-gap-oct15": 4
  },
- "entry_count_after_dedupe": 2896,
+ "entry_count_after_dedupe": 2899,
  "within_source_groups": 3,
  "cross_source_groups": 1893,
  "index_only_records": 61,
- "local_only_records": 675
+ "local_only_records": 678
 }

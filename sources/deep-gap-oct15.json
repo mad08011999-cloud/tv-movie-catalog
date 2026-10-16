@@ -1,0 +1,178 @@
+{
+  "id": "deep-gap-oct15",
+  "label": "Deep gap-check across catalog topics (15 Oct 2026)",
+  "group_title": "Deep gap-check (missed titles)",
+  "description": "Deep gap-check (rich-wife, older-man, assault, pregnancy, tantrik/pelet, KR/CN/TW/HK, Indian, Turkish), 15 Oct 2026 PT (adults only; non-explicit notes)",
+  "category_labels": {},
+  "records": [
+    {
+      "title": "Minder",
+      "year": "1984",
+      "format": "tv",
+      "subtitle": "“Hypnotising Rita” · S05E07",
+      "meta": "TV episode · UK · English · ITV (Euston Films) · first aired 17 Oct 1984",
+      "character": "Rita (Nicola Cowper), an heiress due to inherit £25,000",
+      "summary": "Rita's family believe her fiancé, hypnotherapist Dr. Sudbury, has hypnotised her to get her inheritance. Arthur and Terry help the couple escape, but once the money is withheld Sudbury disappears with the funds and Rita attempts suicide.",
+      "hypnotist": "Dr. Sudbury (Donald Sumpter), hypnotherapist fiancé",
+      "gain_motive": [
+        "inheritance / money"
+      ],
+      "method": "Hypnosis (alleged by family; he turns out to be a fortune hunter)",
+      "categories": [
+        "index-49",
+        "love"
+      ],
+      "episodes": [
+        {
+          "episode": "S05E07 “Hypnotising Rita”",
+          "air_date": "1984-10-17",
+          "gist": "Heiress Rita's hypnotherapist fiancé is suspected of hypnotising her for her £25,000 inheritance, and he later absconds with the money.",
+          "number_verified": true
+        }
+      ],
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "sources": [
+        {
+          "label": "A Cup of Crime episode page",
+          "url": "https://www.acupofcrime.com/tv/minder/episodes/s05e07/"
+        },
+        {
+          "label": "Dailymotion upload (title only)",
+          "url": "https://www.dailymotion.com/video/xa09l5u"
+        }
+      ],
+      "evidence": "Episode guide synopsis",
+      "confidence_flag": "Medium · one detailed synopsis (the Dailymotion upload confirms the title only); on-screen hypnosis is alleged rather than confirmed",
+      "provenance": "Deep gap-check (rich-wife, older-man, assault, pregnancy, tantrik/pelet, KR/CN/TW/HK, Indian, Turkish), 15 Oct 2026 PT (adults only; non-explicit notes)",
+      "note": "",
+      "adult": "no"
+    },
+    {
+      "title": "The Van Osten Jewels",
+      "year": "1911",
+      "format": "short",
+      "meta": "Silent one-reel drama · USA · Yankee Film Co. · released 30 Oct 1911 (also advertised as The Van Ousten Jewels)",
+      "character": "Young woman engaged to the heir of the Van Osten millions",
+      "summary": "A French crook posing as a nobleman hypnotises the fiancée of the Van Osten heir and orders her to bring him the family jewels. A detective sees it happen, arrests him, and makes him release her from the spell.",
+      "hypnotist": "French crook posing as a nobleman",
+      "gain_motive": [
+        "jewel theft"
+      ],
+      "method": "Hypnosis",
+      "categories": [
+        "crime",
+        "forced-obedience"
+      ],
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "sources": [
+        {
+          "label": "AFI Catalog",
+          "url": "https://catalog.afi.com/Film/66282-THE-VAN-OSTEN-JEWELS"
+        },
+        {
+          "label": "AFI Catalog print view (Moving Picture World, 28 Oct 1911)",
+          "url": "https://catalog.afi.com/Catalog/MovieDetailsPrintView/66282"
+        }
+      ],
+      "evidence": "AFI Catalog quoting the 1911 trade synopsis",
+      "confidence_flag": "High · AFI Catalog (single publisher, contemporary trade review)",
+      "provenance": "Deep gap-check (rich-wife, older-man, assault, pregnancy, tantrik/pelet, KR/CN/TW/HK, Indian, Turkish), 15 Oct 2026 PT (adults only; non-explicit notes)",
+      "note": "",
+      "adult": "no"
+    },
+    {
+      "title": "The Dukes of Hazzard",
+      "year": "1979–1985",
+      "format": "tv",
+      "meta": "TV series · United States · English · CBS",
+      "character": "Daisy Duke (Catherine Bach)",
+      "summary": "In “Heiress Daisy Duke”, Boss Hogg pays Professor Crandall to hypnotise Daisy into believing she is Vivian Stewart, a lost heiress, so he can collect a $200,000 reward. Two cousins who would inherit try to kill her.",
+      "hypnotist": "Professor Crandall (Walker Edmiston), hired by Boss Hogg",
+      "gain_motive": [
+        "reward money / fraud"
+      ],
+      "method": "Hypnosis with trigger phrases",
+      "categories": [
+        "other-control",
+        "crime"
+      ],
+      "episodes": [
+        {
+          "episode": "S06E13 “Heiress Daisy Duke”",
+          "air_date": "1984-01-06",
+          "gist": "Daisy is hypnotised with trigger phrases to pose as a lost heiress for Boss Hogg's reward scheme, then de-hypnotised at the end.",
+          "number_verified": true
+        }
+      ],
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "sources": [
+        {
+          "label": "Dukes of Hazzard Wiki",
+          "url": "https://dukesofhazzard.fandom.com/wiki/Heiress_Daisy_Duke"
+        }
+      ],
+      "evidence": "Fan-wiki episode plot",
+      "confidence_flag": "Single source · detailed fan-wiki plot",
+      "note": "Episode enrichment for the existing card. The rich-wife sweep rejected it for that category because Daisy is neither rich nor a wife, so it is placed under control/crime instead.",
+      "provenance": "Deep gap-check (rich-wife, older-man, assault, pregnancy, tantrik/pelet, KR/CN/TW/HK, Indian, Turkish), 15 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no"
+    },
+    {
+      "title": "狀王之王 (Justice Sung Begins)",
+      "year": "2024",
+      "format": "tv",
+      "meta": "TVB Qing-era mystery comedy · Hong Kong · Cantonese · 18 episodes · Jade, 29 Jan – 22 Feb 2024",
+      "character": "Ying Tou 櫻桃 (Chong Sze-man), a murder suspect",
+      "summary": "Lawyer Sung Sai-kit has coroner Nim San-san hypnotise the jailed suspect Ying Tou to test her innocence. She goes into a deep trance and San-san reports she is innocent. A second attempt, on a male witness, fails.",
+      "hypnotist": "Nim San-san 念珊珊 (Chan Ching-yee), coroner",
+      "gain_motive": [
+        "investigation (proving innocence)"
+      ],
+      "method": "Hypnosis",
+      "categories": [
+        "medical"
+      ],
+      "fit": "loose",
+      "tags": [
+        "loose fit"
+      ],
+      "episodes": [
+        {
+          "episode": "Episode 10",
+          "air_date": "2024-02-12 (week of)",
+          "gist": "Ying Tou is hypnotised in her cell to establish her innocence, and the case turns on opium-affected witnesses.",
+          "number_verified": true
+        }
+      ],
+      "pregnant_end": "no",
+      "kids_status": "unknown",
+      "kids_together": "unknown",
+      "sources": [
+        {
+          "label": "Taicike episode 10 synopsis",
+          "url": "https://www.taicike.com/tv/30259524/fj/2391.html"
+        },
+        {
+          "label": "Wikipedia (zh): 狀王之王",
+          "url": "https://zh.wikipedia.org/wiki/%E7%8B%80%E7%8E%8B%E4%B9%8B%E7%8E%8B"
+        },
+        {
+          "label": "TVB clip ‘催眠搵真兇’ ep 10 (mirror)",
+          "url": "https://www.vivi01.com/video766305.html"
+        }
+      ],
+      "evidence": "Episode synopsis + Wikipedia + clip title",
+      "confidence_flag": "High · three sources",
+      "note": "Loose fit: investigative hypnosis by a female coroner, with no exploitation.",
+      "provenance": "Deep gap-check (rich-wife, older-man, assault, pregnancy, tantrik/pelet, KR/CN/TW/HK, Indian, Turkish), 15 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no"
+    }
+  ],
+  "dropped": []
+}

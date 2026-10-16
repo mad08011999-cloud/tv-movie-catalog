@@ -4440,6 +4440,19 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "deep-gap-oct15",
+   "label": "Deep gap-check across catalog topics (15 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/deep-gap-oct15.json",
+   "description": "Deep gap-check (rich-wife, older-man, assault, pregnancy, tantrik/pelet, KR/CN/TW/HK, Indian, Turkish), 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "dropped": [],
+   "check": {
+    "raw_count": 4,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -4495,10 +4508,11 @@ window.CATALOG = {
   "female-wife-scenes-oct15": 4,
   "youtube-sweep-oct15": 5,
   "gap-check-vertical-oct15": 5,
-  "adult-fanmade-oct15": 3
+  "adult-fanmade-oct15": 3,
+  "deep-gap-oct15": 4
  },
- "raw_total": 5857,
- "entry_count": 2896,
+ "raw_total": 5861,
+ "entry_count": 2899,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4600,7 +4614,7 @@ window.CATALOG = {
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 114
+   "entry_count": 115
   },
   {
    "key": "index-56",
@@ -4660,7 +4674,7 @@ window.CATALOG = {
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 104
+   "entry_count": 106
   },
   {
    "key": "royal-hypnosis",
@@ -4672,7 +4686,7 @@ window.CATALOG = {
    "key": "love",
    "label": "Hypnotized to love",
    "legend_label": "Hypnotized to love",
-   "entry_count": 208
+   "entry_count": 209
   },
   {
    "key": "hypno-intimacy",
@@ -4702,7 +4716,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 149
+   "entry_count": 150
   },
   {
    "key": "mom-partner-control",
@@ -4900,7 +4914,7 @@ window.CATALOG = {
    "key": "index-49",
    "label": "Rich woman hypnotized — money / inheritance / fraud",
    "legend_label": "Rich woman hypnotized — money / inheritance / fraud",
-   "entry_count": 21
+   "entry_count": 22
   },
   {
    "key": "index-52",
@@ -219929,9 +219943,28 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "S06E13 “Heiress Daisy Duke”",
+     "air_date": "1984-01-06",
+     "gist": "Daisy is hypnotised with trigger phrases to pose as a lost heiress for Boss Hogg's reward scheme, then de-hypnotised at the end.",
+     "number_verified": true
+    }
+   ],
+   "hypnotist": "Professor Crandall (Walker Edmiston), hired by Boss Hogg",
+   "gain_motive": [
+    "reward money / fraud"
+   ],
+   "method": "Hypnosis with trigger phrases",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Fan-wiki episode plot",
+   "adult": "no",
    "format": "tv",
    "categories": [
-    "other-control"
+    "other-control",
+    "crime"
    ],
    "sources": [
     {
@@ -219945,16 +219978,22 @@ window.CATALOG = {
     {
      "label": "TV Tropes: Hypno Pendulum",
      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoPendulum"
+    },
+    {
+     "label": "Dukes of Hazzard Wiki",
+     "url": "https://dukesofhazzard.fandom.com/wiki/Heiress_Daisy_Duke"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "deep-gap-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1193",
-    "worldwide-hypnosis:885"
+    "worldwide-hypnosis:885",
+    "deep-gap-oct15:3"
    ],
    "index_only": false,
    "local_only": false,
@@ -220032,6 +220071,53 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "deep-gap-oct15:3",
+     "source": "deep-gap-oct15",
+     "label": "The Dukes of Hazzard (1979–1985)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Dukes of Hazzard",
+     "subtitle": "",
+     "year": "1979–1985",
+     "meta": "TV series · United States · English · CBS",
+     "summary": "In “Heiress Daisy Duke”, Boss Hogg pays Professor Crandall to hypnotise Daisy into believing she is Vivian Stewart, a lost heiress, so he can collect a $200,000 reward. Two cousins who would inherit try to kill her.",
+     "character": "Daisy Duke (Catherine Bach)",
+     "note": "Episode enrichment for the existing card. The rich-wife sweep rejected it for that category because Daisy is neither rich nor a wife, so it is placed under control/crime instead.",
+     "mechanism": "",
+     "confidence_flag": "Single source · detailed fan-wiki plot",
+     "categories": [
+      "other-control",
+      "crime"
+     ],
+     "sources": [
+      {
+       "label": "Dukes of Hazzard Wiki",
+       "url": "https://dukesofhazzard.fandom.com/wiki/Heiress_Daisy_Duke"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S06E13 “Heiress Daisy Duke”",
+       "air_date": "1984-01-06",
+       "gist": "Daisy is hypnotised with trigger phrases to pose as a lost heiress for Boss Hogg's reward scheme, then de-hypnotised at the end.",
+       "number_verified": true
+      }
+     ],
+     "hypnotist": "Professor Crandall (Walker Edmiston), hired by Boss Hogg",
+     "gain_motive": [
+      "reward money / fraud"
+     ],
+     "method": "Hypnosis with trigger phrases",
+     "kids_status": "no",
+     "kids_together": "no",
+     "pregnant_end": "no",
+     "evidence": "Fan-wiki episode plot",
+     "adult": "no",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -220091,6 +220177,45 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "deep-gap-oct15:3": {
+     "title": "The Dukes of Hazzard",
+     "year": "1979–1985",
+     "format": "tv",
+     "meta": "TV series · United States · English · CBS",
+     "character": "Daisy Duke (Catherine Bach)",
+     "summary": "In “Heiress Daisy Duke”, Boss Hogg pays Professor Crandall to hypnotise Daisy into believing she is Vivian Stewart, a lost heiress, so he can collect a $200,000 reward. Two cousins who would inherit try to kill her.",
+     "hypnotist": "Professor Crandall (Walker Edmiston), hired by Boss Hogg",
+     "gain_motive": [
+      "reward money / fraud"
+     ],
+     "method": "Hypnosis with trigger phrases",
+     "categories": [
+      "other-control",
+      "crime"
+     ],
+     "episodes": [
+      {
+       "episode": "S06E13 “Heiress Daisy Duke”",
+       "air_date": "1984-01-06",
+       "gist": "Daisy is hypnotised with trigger phrases to pose as a lost heiress for Boss Hogg's reward scheme, then de-hypnotised at the end.",
+       "number_verified": true
+      }
+     ],
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "sources": [
+      {
+       "label": "Dukes of Hazzard Wiki",
+       "url": "https://dukesofhazzard.fandom.com/wiki/Heiress_Daisy_Duke"
+      }
+     ],
+     "evidence": "Fan-wiki episode plot",
+     "confidence_flag": "Single source · detailed fan-wiki plot",
+     "note": "Episode enrichment for the existing card. The rich-wife sweep rejected it for that category because Daisy is neither rich nor a wife, so it is placed under control/crime instead.",
+     "provenance": "Deep gap-check (rich-wife, older-man, assault, pregnancy, tantrik/pelet, KR/CN/TW/HK, Indian, Turkish), 15 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no"
     }
    }
   },
@@ -447478,6 +447603,313 @@ window.CATALOG = {
      "note": "loose fit: single source; the review describes her as hypnotised before the encounter."
     }
    }
+  },
+  {
+   "id": 3031,
+   "title": "Minder",
+   "subtitle": "“Hypnotising Rita” · S05E07",
+   "year": "1984",
+   "meta": "TV episode · UK · English · ITV (Euston Films) · first aired 17 Oct 1984",
+   "mechanism": "",
+   "confidence_flag": "Medium · one detailed synopsis (the Dailymotion upload confirms the title only); on-screen hypnosis is alleged rather than confirmed",
+   "summary": "Rita's family believe her fiancé, hypnotherapist Dr. Sudbury, has hypnotised her to get her inheritance. Arthur and Terry help the couple escape, but once the money is withheld Sudbury disappears with the funds and Rita attempts suicide.",
+   "character": "Rita (Nicola Cowper), an heiress due to inherit £25,000",
+   "provenance": "Deep gap-check (rich-wife, older-man, assault, pregnancy, tantrik/pelet, KR/CN/TW/HK, Indian, Turkish), 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "episodes": [
+    {
+     "episode": "S05E07 “Hypnotising Rita”",
+     "air_date": "1984-10-17",
+     "gist": "Heiress Rita's hypnotherapist fiancé is suspected of hypnotising her for her £25,000 inheritance, and he later absconds with the money.",
+     "number_verified": true
+    }
+   ],
+   "hypnotist": "Dr. Sudbury (Donald Sumpter), hypnotherapist fiancé",
+   "gain_motive": [
+    "inheritance / money"
+   ],
+   "method": "Hypnosis (alleged by family; he turns out to be a fortune hunter)",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Episode guide synopsis",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "index-49",
+    "love"
+   ],
+   "sources": [
+    {
+     "label": "A Cup of Crime episode page",
+     "url": "https://www.acupofcrime.com/tv/minder/episodes/s05e07/"
+    },
+    {
+     "label": "Dailymotion upload (title only)",
+     "url": "https://www.dailymotion.com/video/xa09l5u"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-gap-oct15"
+   ],
+   "source_records": [
+    "deep-gap-oct15:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-gap-oct15:1": {
+     "title": "Minder",
+     "year": "1984",
+     "format": "tv",
+     "subtitle": "“Hypnotising Rita” · S05E07",
+     "meta": "TV episode · UK · English · ITV (Euston Films) · first aired 17 Oct 1984",
+     "character": "Rita (Nicola Cowper), an heiress due to inherit £25,000",
+     "summary": "Rita's family believe her fiancé, hypnotherapist Dr. Sudbury, has hypnotised her to get her inheritance. Arthur and Terry help the couple escape, but once the money is withheld Sudbury disappears with the funds and Rita attempts suicide.",
+     "hypnotist": "Dr. Sudbury (Donald Sumpter), hypnotherapist fiancé",
+     "gain_motive": [
+      "inheritance / money"
+     ],
+     "method": "Hypnosis (alleged by family; he turns out to be a fortune hunter)",
+     "categories": [
+      "index-49",
+      "love"
+     ],
+     "episodes": [
+      {
+       "episode": "S05E07 “Hypnotising Rita”",
+       "air_date": "1984-10-17",
+       "gist": "Heiress Rita's hypnotherapist fiancé is suspected of hypnotising her for her £25,000 inheritance, and he later absconds with the money.",
+       "number_verified": true
+      }
+     ],
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "sources": [
+      {
+       "label": "A Cup of Crime episode page",
+       "url": "https://www.acupofcrime.com/tv/minder/episodes/s05e07/"
+      },
+      {
+       "label": "Dailymotion upload (title only)",
+       "url": "https://www.dailymotion.com/video/xa09l5u"
+      }
+     ],
+     "evidence": "Episode guide synopsis",
+     "confidence_flag": "Medium · one detailed synopsis (the Dailymotion upload confirms the title only); on-screen hypnosis is alleged rather than confirmed",
+     "provenance": "Deep gap-check (rich-wife, older-man, assault, pregnancy, tantrik/pelet, KR/CN/TW/HK, Indian, Turkish), 15 Oct 2026 PT (adults only; non-explicit notes)",
+     "note": "",
+     "adult": "no"
+    }
+   }
+  },
+  {
+   "id": 3032,
+   "title": "The Van Osten Jewels",
+   "subtitle": "",
+   "year": "1911",
+   "meta": "Silent one-reel drama · USA · Yankee Film Co. · released 30 Oct 1911 (also advertised as The Van Ousten Jewels)",
+   "mechanism": "",
+   "confidence_flag": "High · AFI Catalog (single publisher, contemporary trade review)",
+   "summary": "A French crook posing as a nobleman hypnotises the fiancée of the Van Osten heir and orders her to bring him the family jewels. A detective sees it happen, arrests him, and makes him release her from the spell.",
+   "character": "Young woman engaged to the heir of the Van Osten millions",
+   "provenance": "Deep gap-check (rich-wife, older-man, assault, pregnancy, tantrik/pelet, KR/CN/TW/HK, Indian, Turkish), 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "French crook posing as a nobleman",
+   "gain_motive": [
+    "jewel theft"
+   ],
+   "method": "Hypnosis",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "AFI Catalog quoting the 1911 trade synopsis",
+   "adult": "no",
+   "format": "short",
+   "categories": [
+    "crime",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "AFI Catalog",
+     "url": "https://catalog.afi.com/Film/66282-THE-VAN-OSTEN-JEWELS"
+    },
+    {
+     "label": "AFI Catalog print view (Moving Picture World, 28 Oct 1911)",
+     "url": "https://catalog.afi.com/Catalog/MovieDetailsPrintView/66282"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-gap-oct15"
+   ],
+   "source_records": [
+    "deep-gap-oct15:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-gap-oct15:2": {
+     "title": "The Van Osten Jewels",
+     "year": "1911",
+     "format": "short",
+     "meta": "Silent one-reel drama · USA · Yankee Film Co. · released 30 Oct 1911 (also advertised as The Van Ousten Jewels)",
+     "character": "Young woman engaged to the heir of the Van Osten millions",
+     "summary": "A French crook posing as a nobleman hypnotises the fiancée of the Van Osten heir and orders her to bring him the family jewels. A detective sees it happen, arrests him, and makes him release her from the spell.",
+     "hypnotist": "French crook posing as a nobleman",
+     "gain_motive": [
+      "jewel theft"
+     ],
+     "method": "Hypnosis",
+     "categories": [
+      "crime",
+      "forced-obedience"
+     ],
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "sources": [
+      {
+       "label": "AFI Catalog",
+       "url": "https://catalog.afi.com/Film/66282-THE-VAN-OSTEN-JEWELS"
+      },
+      {
+       "label": "AFI Catalog print view (Moving Picture World, 28 Oct 1911)",
+       "url": "https://catalog.afi.com/Catalog/MovieDetailsPrintView/66282"
+      }
+     ],
+     "evidence": "AFI Catalog quoting the 1911 trade synopsis",
+     "confidence_flag": "High · AFI Catalog (single publisher, contemporary trade review)",
+     "provenance": "Deep gap-check (rich-wife, older-man, assault, pregnancy, tantrik/pelet, KR/CN/TW/HK, Indian, Turkish), 15 Oct 2026 PT (adults only; non-explicit notes)",
+     "note": "",
+     "adult": "no"
+    }
+   }
+  },
+  {
+   "id": 3033,
+   "title": "狀王之王 (Justice Sung Begins)",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "TVB Qing-era mystery comedy · Hong Kong · Cantonese · 18 episodes · Jade, 29 Jan – 22 Feb 2024",
+   "mechanism": "",
+   "confidence_flag": "High · three sources",
+   "summary": "Lawyer Sung Sai-kit has coroner Nim San-san hypnotise the jailed suspect Ying Tou to test her innocence. She goes into a deep trance and San-san reports she is innocent. A second attempt, on a male witness, fails.",
+   "character": "Ying Tou 櫻桃 (Chong Sze-man), a murder suspect",
+   "provenance": "Deep gap-check (rich-wife, older-man, assault, pregnancy, tantrik/pelet, KR/CN/TW/HK, Indian, Turkish), 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: investigative hypnosis by a female coroner, with no exploitation.",
+   "episodes": [
+    {
+     "episode": "Episode 10",
+     "air_date": "2024-02-12 (week of)",
+     "gist": "Ying Tou is hypnotised in her cell to establish her innocence, and the case turns on opium-affected witnesses.",
+     "number_verified": true
+    }
+   ],
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Nim San-san 念珊珊 (Chan Ching-yee), coroner",
+   "gain_motive": [
+    "investigation (proving innocence)"
+   ],
+   "method": "Hypnosis",
+   "kids_status": "unknown",
+   "kids_together": "unknown",
+   "pregnant_end": "no",
+   "evidence": "Episode synopsis + Wikipedia + clip title",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Taicike episode 10 synopsis",
+     "url": "https://www.taicike.com/tv/30259524/fj/2391.html"
+    },
+    {
+     "label": "Wikipedia (zh): 狀王之王",
+     "url": "https://zh.wikipedia.org/wiki/%E7%8B%80%E7%8E%8B%E4%B9%8B%E7%8E%8B"
+    },
+    {
+     "label": "TVB clip ‘催眠搵真兇’ ep 10 (mirror)",
+     "url": "https://www.vivi01.com/video766305.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-gap-oct15"
+   ],
+   "source_records": [
+    "deep-gap-oct15:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-gap-oct15:4": {
+     "title": "狀王之王 (Justice Sung Begins)",
+     "year": "2024",
+     "format": "tv",
+     "meta": "TVB Qing-era mystery comedy · Hong Kong · Cantonese · 18 episodes · Jade, 29 Jan – 22 Feb 2024",
+     "character": "Ying Tou 櫻桃 (Chong Sze-man), a murder suspect",
+     "summary": "Lawyer Sung Sai-kit has coroner Nim San-san hypnotise the jailed suspect Ying Tou to test her innocence. She goes into a deep trance and San-san reports she is innocent. A second attempt, on a male witness, fails.",
+     "hypnotist": "Nim San-san 念珊珊 (Chan Ching-yee), coroner",
+     "gain_motive": [
+      "investigation (proving innocence)"
+     ],
+     "method": "Hypnosis",
+     "categories": [
+      "medical"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "episodes": [
+      {
+       "episode": "Episode 10",
+       "air_date": "2024-02-12 (week of)",
+       "gist": "Ying Tou is hypnotised in her cell to establish her innocence, and the case turns on opium-affected witnesses.",
+       "number_verified": true
+      }
+     ],
+     "pregnant_end": "no",
+     "kids_status": "unknown",
+     "kids_together": "unknown",
+     "sources": [
+      {
+       "label": "Taicike episode 10 synopsis",
+       "url": "https://www.taicike.com/tv/30259524/fj/2391.html"
+      },
+      {
+       "label": "Wikipedia (zh): 狀王之王",
+       "url": "https://zh.wikipedia.org/wiki/%E7%8B%80%E7%8E%8B%E4%B9%8B%E7%8E%8B"
+      },
+      {
+       "label": "TVB clip ‘催眠搵真兇’ ep 10 (mirror)",
+       "url": "https://www.vivi01.com/video766305.html"
+      }
+     ],
+     "evidence": "Episode synopsis + Wikipedia + clip title",
+     "confidence_flag": "High · three sources",
+     "note": "Loose fit: investigative hypnosis by a female coroner, with no exploitation.",
+     "provenance": "Deep gap-check (rich-wife, older-man, assault, pregnancy, tantrik/pelet, KR/CN/TW/HK, Indian, Turkish), 15 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no"
+    }
+   }
   }
  ],
  "sections": [
@@ -464918,7 +465350,8 @@ window.CATALOG = {
     "round3",
     "fanwiki-screen-oct14",
     "kr-cn-hypnosis",
-    "youtube-sweep-oct15"
+    "youtube-sweep-oct15",
+    "deep-gap-oct15"
    ],
    "groups": [
     {
@@ -465570,6 +466003,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "youtube-sweep-oct15"
+    },
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1182,
+       "from_source": "deep-gap-oct15"
+      },
+      {
+       "id": 3032,
+       "from_source": "deep-gap-oct15"
+      }
+     ],
+     "from_source": "deep-gap-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -465584,7 +466032,8 @@ window.CATALOG = {
     "round3": null,
     "fanwiki-screen-oct14": null,
     "kr-cn-hypnosis": null,
-    "youtube-sweep-oct15": null
+    "youtube-sweep-oct15": null,
+    "deep-gap-oct15": null
    }
   },
   {
@@ -465892,7 +466341,8 @@ window.CATALOG = {
     "hypnotized-female-oct15",
     "indonesia-sinetron-oct15",
     "hypno-turkey-oct15",
-    "adult-fanmade-oct15"
+    "adult-fanmade-oct15",
+    "deep-gap-oct15"
    ],
    "groups": [
     {
@@ -467847,6 +468297,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "adult-fanmade-oct15"
+    },
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3031,
+       "from_source": "deep-gap-oct15"
+      }
+     ],
+     "from_source": "deep-gap-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -467867,7 +468328,8 @@ window.CATALOG = {
     "hypnotized-female-oct15": null,
     "indonesia-sinetron-oct15": null,
     "hypno-turkey-oct15": null,
-    "adult-fanmade-oct15": null
+    "adult-fanmade-oct15": null,
+    "deep-gap-oct15": null
    }
   },
   {
@@ -469755,7 +470217,8 @@ window.CATALOG = {
     "kr-cn-hypnosis",
     "kr-cn-hypnosis-r2",
     "female-wife-scenes-oct15",
-    "adult-fanmade-oct15"
+    "adult-fanmade-oct15",
+    "deep-gap-oct15"
    ],
    "groups": [
     {
@@ -471013,6 +471476,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "adult-fanmade-oct15"
+    },
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3033,
+       "from_source": "deep-gap-oct15"
+      }
+     ],
+     "from_source": "deep-gap-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -471042,7 +471516,8 @@ window.CATALOG = {
     "kr-cn-hypnosis": null,
     "kr-cn-hypnosis-r2": null,
     "female-wife-scenes-oct15": null,
-    "adult-fanmade-oct15": null
+    "adult-fanmade-oct15": null,
+    "deep-gap-oct15": null
    }
   },
   {
@@ -473589,7 +474064,8 @@ window.CATALOG = {
     "recheck-oct14",
     "fanwiki-screen-oct14",
     "hypnotized-female-oct15",
-    "youtube-sweep-oct15"
+    "youtube-sweep-oct15",
+    "deep-gap-oct15"
    ],
    "groups": [
     {
@@ -474002,6 +474478,20 @@ window.CATALOG = {
         "Other female hypnosis / mind control",
         "Trance",
         "High · fan-wiki scene log + TV Tropes example"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/The_Dukes_of_Hazzard"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Dukes_of_Hazzard"
+        },
+        {
+         "label": "TV Tropes: Hypno Pendulum",
+         "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoPendulum"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
@@ -475626,7 +476116,8 @@ window.CATALOG = {
     "recheck-oct14": null,
     "fanwiki-screen-oct14": null,
     "hypnotized-female-oct15": null,
-    "youtube-sweep-oct15": null
+    "youtube-sweep-oct15": null,
+    "deep-gap-oct15": null
    }
   },
   {
@@ -482351,12 +482842,14 @@ window.CATALOG = {
    "from_sources": [
     "ig6qlxqxoxvcxla",
     "rich-wife-hypnosis",
-    "hypnotized-female-oct15"
+    "hypnotized-female-oct15",
+    "deep-gap-oct15"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 9,
     "rich-wife-hypnosis": null,
-    "hypnotized-female-oct15": null
+    "hypnotized-female-oct15": null,
+    "deep-gap-oct15": null
    },
    "groups": [
     {
@@ -482519,6 +483012,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnotized-female-oct15"
+    },
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3031,
+       "from_source": "deep-gap-oct15"
+      }
+     ],
+     "from_source": "deep-gap-oct15"
     }
    ]
   },
@@ -492205,7 +492709,8 @@ window.CATALOG = {
     "hypnotized-female-oct15",
     "indonesia-sinetron-oct15",
     "hypno-turkey-oct15",
-    "kr-cn-hypnosis"
+    "kr-cn-hypnosis",
+    "deep-gap-oct15"
    ],
    "groups": [
     {
@@ -493850,6 +494355,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "kr-cn-hypnosis"
+    },
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3032,
+       "from_source": "deep-gap-oct15"
+      }
+     ],
+     "from_source": "deep-gap-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -493865,7 +494381,8 @@ window.CATALOG = {
     "hypnotized-female-oct15": null,
     "indonesia-sinetron-oct15": null,
     "hypno-turkey-oct15": null,
-    "kr-cn-hypnosis": null
+    "kr-cn-hypnosis": null,
+    "deep-gap-oct15": null
    }
   },
   {
