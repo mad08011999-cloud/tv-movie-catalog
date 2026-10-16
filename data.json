@@ -3915,7 +3915,7 @@
    "description": "Titles and episodes found on streaming-service title pages (Netflix, Prime Video, Disney+, etc.)",
    "dropped": [],
    "check": {
-    "raw_count": 57,
+    "raw_count": 59,
     "ok": true
    },
    "status": "local"
@@ -3963,10 +3963,10 @@
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
   "official-yt-oct15": 45,
-  "streaming-oct15": 57
+  "streaming-oct15": 59
  },
- "raw_total": 5621,
- "entry_count": 2842,
+ "raw_total": 5623,
+ "entry_count": 2843,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -59933,6 +59933,10 @@
    "note": "",
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "format": "tv",
    "categories": [
     "human",
@@ -59950,14 +59954,16 @@
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "india-catalog",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "streaming-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:251",
     "ig6qlxqxoxvcxla:392",
     "ig6qlxqxoxvcxla:560",
     "india-catalog:14",
-    "worldwide-hypnosis:712"
+    "worldwide-hypnosis:712",
+    "streaming-oct15:59"
    ],
    "index_only": false,
    "local_only": false,
@@ -60091,6 +60097,31 @@
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "streaming-oct15:59",
+     "source": "streaming-oct15",
+     "label": "Qubool Hai (2014)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Qubool Hai",
+     "subtitle": "",
+     "year": "2014",
+     "meta": "",
+     "summary": "14 Mar 2014 episode: Khushbu is drugged, then hypnotised with a swinging crystal and questioned about her real identity.",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -60169,8 +60200,36 @@
      "pregnancy_outcome": "unknown",
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "streaming-oct15:59": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+     "format": "tv series",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "",
+     "confidence_flag": "",
+     "summary": "14 Mar 2014 episode: Khushbu is drugged, then hypnotised with a swinging crystal and questioned about her real identity.",
+     "character": "",
+     "categories": [],
+     "title": "Qubool Hai",
+     "year": "2014",
+     "country": "India",
+     "language": "Hindi",
+     "category": "indian-female-hypnosis",
+     "victim": "Khushbu (Nikhat)",
+     "controller": "Aarti, a hypnotist (at Sameera's urging)",
+     "source_name": "Filmibeat written update (14 Mar 2014)",
+     "url": "https://www.filmibeat.com/television/news/2014/qubool-hai-zee-tv-14th-march-tanveer-insulted-khushbu-hypnotised-134304.html"
     }
-   }
+   },
+   "retired_ids": [
+    2977
+   ]
   },
   {
    "id": 251,
@@ -430770,6 +430829,66 @@
      ]
     }
    }
+  },
+  {
+   "id": 2976,
+   "title": "Jijaji Chhat Par Hai — \"The Hypnosis\"",
+   "subtitle": "",
+   "year": "2018",
+   "meta": "",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Elaichi tries to hypnotise Pancham to make him do what she wants, but ends up hypnotised herself and believes Pancham is her husband.",
+   "character": "",
+   "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv episode",
+   "categories": [],
+   "sources": [],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:58"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:58": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+     "format": "tv episode",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "",
+     "confidence_flag": "",
+     "summary": "Elaichi tries to hypnotise Pancham to make him do what she wants, but ends up hypnotised herself and believes Pancham is her husband.",
+     "character": "",
+     "categories": [],
+     "title": "Jijaji Chhat Par Hai — \"The Hypnosis\"",
+     "year": "2018",
+     "episode": "S1.E48 (14 Mar 2018)",
+     "country": "India",
+     "language": "Hindi",
+     "category": "indian-female-hypnosis",
+     "victim": "Elaichi",
+     "controller": "self-induced (her own hypnosis attempt on Pancham backfires)",
+     "source_name": "BingeBase episode guide",
+     "url": "https://bingebase.com/tv/jijaji-chhat-par-hai-2018/season/1/episode/48"
+    }
+   }
   }
  ],
  "sections": [
@@ -477834,6 +477953,8 @@
    }
   }
  ],
- "unplaced_entry_ids": [],
+ "unplaced_entry_ids": [
+  2976
+ ],
  "watch_links_count": 513
 }
