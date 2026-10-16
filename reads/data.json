@@ -1,0 +1,676 @@
+{
+ "generated": "2026-10-15",
+ "categories": [
+  {
+   "key": "wife-hypnotized",
+   "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
+   "entry_count": 11
+  },
+  {
+   "key": "pregnant-variants",
+   "label": "Pregnancy + mind control — variants and leads",
+   "entry_count": 5
+  },
+  {
+   "key": "occult",
+   "label": "Demonic / occult control",
+   "entry_count": 3
+  },
+  {
+   "key": "human",
+   "label": "Human-villain control",
+   "entry_count": 5
+  },
+  {
+   "key": "scifi",
+   "label": "Sci-fi / alien / technological control",
+   "entry_count": 4
+  },
+  {
+   "key": "fantasy",
+   "label": "Fantasy enchantment",
+   "entry_count": 3
+  },
+  {
+   "key": "forced-obedience",
+   "label": "Forcibly hypnotized to obey",
+   "entry_count": 1
+  },
+  {
+   "key": "other-control",
+   "label": "Other female hypnosis / mind control",
+   "entry_count": 1
+  },
+  {
+   "key": "hardcore-adult",
+   "label": "Hardcore / adult",
+   "entry_count": 12
+  },
+  {
+   "key": "fan-made-roleplay",
+   "label": "Fan-made / roleplay (not a professional production)",
+   "entry_count": 1
+  }
+ ],
+ "formats": {
+  "Novel": 3,
+  "Comic book": 4,
+  "Hentai manga": 2,
+  "Hentai doujinshi": 1,
+  "Hentai CG collection": 1,
+  "Hentai doujinshi (parody)": 1,
+  "Manhwa (webtoon)": 6,
+  "Adult web comic": 1
+ },
+ "entries": [
+  {
+   "title": "Dracula",
+   "original_title": "Dracula",
+   "creator": "Bram Stoker",
+   "year": 1897,
+   "format": "Novel",
+   "language": "English",
+   "publisher": "Archibald Constable & Co.",
+   "gist": "Count Dracula forces Mina Harker into a blood bond that leaves her telepathically linked to him; Van Helsing then hypnotizes her before dawn so she can report Dracula's movements.",
+   "where": "Ch. 21 (blood bond); hypnosis sessions Ch. 23–25",
+   "wife": "yes (Jonathan Harker's wife)",
+   "pregnant_end": "no (son born after the story)",
+   "kids_together": "yes — son Quincey Harker (closing note)",
+   "kids_before": "no",
+   "categories": [
+    "wife-hypnotized",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia: Mina Harker",
+     "url": "https://en.wikipedia.org/wiki/Mina_Harker"
+    },
+    {
+     "label": "Wikipedia: Dracula",
+     "url": "https://en.wikipedia.org/wiki/Dracula"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "married schoolteacher",
+   "id": 1
+  },
+  {
+   "title": "Trilby",
+   "original_title": "Trilby",
+   "creator": "George du Maurier",
+   "year": 1894,
+   "format": "Novel",
+   "language": "English",
+   "publisher": "Harper & Brothers / Osgood, McIlvaine",
+   "gist": "The musician and hypnotist Svengali puts the tone-deaf artist's model Trilby O'Ferrall under hypnosis and makes her a celebrated singer, 'La Svengali'; she cannot sing once his control ends.",
+   "where": "Later chapters (her career as 'La Svengali' and collapse after his death)",
+   "wife": "no (passed off as Svengali's partner; never legally married in the sources)",
+   "pregnant_end": "unknown",
+   "kids_together": "no",
+   "kids_before": "no",
+   "categories": [
+    "other-control",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia: Trilby (novel)",
+     "url": "https://en.wikipedia.org/wiki/Trilby_(novel)"
+    },
+    {
+     "label": "Wikipedia: Svengali",
+     "url": "https://en.wikipedia.org/wiki/Svengali"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "adult artist's model",
+   "id": 2
+  },
+  {
+   "title": "The Avengers #200 (Ms. Marvel / Marcus)",
+   "original_title": "The Avengers #200",
+   "creator": "Jim Shooter, David Michelinie, Bob Layton, George Pérez; Marvel",
+   "year": 1980,
+   "format": "Comic book",
+   "language": "English",
+   "publisher": "Marvel Comics",
+   "gist": "Marcus takes Carol Danvers (Ms. Marvel) to another dimension, rapes and impregnates her; commentators note the story implies he brainwashed her into 'loving' him, and she leaves with him.",
+   "where": "The Avengers #200 (Oct 1980)",
+   "wife": "no",
+   "pregnant_end": "yes — gives birth on Earth to a child who ages into Marcus",
+   "kids_together": "yes (the Marcus child)",
+   "kids_before": "no",
+   "categories": [
+    "pregnant-variants",
+    "scifi"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia: Carol Danvers",
+     "url": "https://en.wikipedia.org/wiki/Carol_Danvers"
+    }
+   ],
+   "loose_fit": true,
+   "note": "Brainwashing is implied (critics' reading), so this is a loose fit.",
+   "adult_basis": "adult superhero",
+   "id": 3
+  },
+  {
+   "title": "Alias (Jessica Jones vs. the Purple Man)",
+   "original_title": "Alias",
+   "creator": "Brian Michael Bendis, Michael Gaydos",
+   "year": 2003,
+   "format": "Comic book",
+   "language": "English",
+   "publisher": "Marvel Comics (MAX)",
+   "gist": "Zebediah Killgrave, the Purple Man, uses mind control to put Jessica Jones under his command for months, psychologically torturing her and forcing her into his schemes; she later breaks his control.",
+   "where": "Alias #24–28",
+   "wife": "no",
+   "pregnant_end": "yes — pregnant by Luke Cage at the end of Alias #28",
+   "kids_together": "yes (with Luke Cage, after the control; daughter Danielle later)",
+   "kids_before": "no",
+   "categories": [
+    "human",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia: Jessica Jones",
+     "url": "https://en.wikipedia.org/wiki/Jessica_Jones"
+    },
+    {
+     "label": "Wikipedia: Alias (comics)",
+     "url": "https://en.wikipedia.org/wiki/Alias_(comics)"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "adult private investigator",
+   "id": 4
+  },
+  {
+   "title": "Fantastic Four: Malice, Mistress of Hate",
+   "original_title": "Fantastic Four #280–284",
+   "creator": "John Byrne",
+   "year": 1985,
+   "format": "Comic book",
+   "language": "English",
+   "publisher": "Marvel Comics",
+   "gist": "Psycho-Man manipulates a depressed Susan Storm into becoming Malice, Mistress of Hate, and she attacks her own family until Reed breaks the control.",
+   "where": "Fantastic Four #280–281, 283",
+   "wife": "yes (Reed Richards' wife)",
+   "pregnant_end": "no",
+   "kids_together": "yes — son Franklin (born before)",
+   "kids_before": "yes — Franklin; a second pregnancy was stillborn just before (FF #267)",
+   "categories": [
+    "wife-hypnotized",
+    "scifi"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia: Invisible Woman",
+     "url": "https://en.wikipedia.org/wiki/Invisible_Woman"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "married adult",
+   "id": 5
+  },
+  {
+   "title": "The Dark Phoenix Saga",
+   "original_title": "Uncanny X-Men #129–137",
+   "creator": "Chris Claremont, John Byrne",
+   "year": 1980,
+   "format": "Comic book",
+   "language": "English",
+   "publisher": "Marvel Comics",
+   "gist": "Mastermind (Jason Wyngarde), using Emma Frost's mind-tap device, projects illusions into Jean Grey's mind so she believes she is Lady Grey, the Hellfire Club's Black Queen and his lover.",
+   "where": "X-Men #129–134",
+   "wife": "no",
+   "pregnant_end": "unknown",
+   "kids_together": "no",
+   "kids_before": "no",
+   "categories": [
+    "human",
+    "scifi"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia: The Dark Phoenix Saga",
+     "url": "https://en.wikipedia.org/wiki/The_Dark_Phoenix_Saga"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "adult X-Man",
+   "id": 6
+  },
+  {
+   "title": "Rosemary's Baby",
+   "original_title": "Rosemary's Baby",
+   "creator": "Ira Levin",
+   "year": 1967,
+   "format": "Novel",
+   "language": "English",
+   "publisher": "Random House",
+   "gist": "Rosemary Woodhouse is drugged with a tainted dessert and, in a trance-like dream state during a coven ritual, is raped and impregnated.",
+   "where": "Part One (the ritual night)",
+   "wife": "yes (Guy Woodhouse's wife)",
+   "pregnant_end": "yes — gives birth to the child",
+   "kids_together": "yes (the child; father is not her husband)",
+   "kids_before": "no",
+   "categories": [
+    "wife-hypnotized",
+    "occult",
+    "pregnant-variants"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia: Rosemary's Baby",
+     "url": "https://en.wikipedia.org/wiki/Rosemary%27s_Baby"
+    }
+   ],
+   "loose_fit": true,
+   "note": "Drugging and a ritual, not formal hypnosis — loose fit.",
+   "adult_basis": "married adult",
+   "id": 7
+  },
+  {
+   "title": "Tauros ~Hypnotism Wife NTR~",
+   "original_title": "タウロス ～催眠妻NTR～",
+   "creator": "Yokoyama Naoki",
+   "year": 2017,
+   "format": "Hentai manga",
+   "language": "Japanese",
+   "publisher": "GOT",
+   "gist": "Manager Harada hypnotizes the company president's wife into treating him as her second husband.",
+   "where": "Title story",
+   "wife": "yes (the president's wife)",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "MangaUpdates",
+     "url": "https://www.mangaupdates.com/series/74262965204"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "MangaUpdates: Married Female Lead",
+   "content_label": "Hardcore / adult",
+   "id": 8
+  },
+  {
+   "title": "Tonari no Hitozuma ga Saimin o Kakerarete Netorareta Hanashi",
+   "original_title": "隣の人妻が催眠をかけられて寝取られた話 (The Neighbour's Wife Gets Hypnotized and Stolen)",
+   "creator": "Syomu",
+   "year": 2019,
+   "format": "Hentai manga",
+   "language": "Japanese",
+   "publisher": "Irodori Comics / Night Comic",
+   "gist": "With a clap of his hands a college student down the block turns the wife Hitoe into an obedient pet with no memory afterwards.",
+   "where": "Whole work",
+   "wife": "yes (hitozuma)",
+   "pregnant_end": "unknown (tagged 'Impregnation' on MangaUpdates)",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "MangaUpdates",
+     "url": "https://www.mangaupdates.com/series/45462053118"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "MangaUpdates: Cheating Wife; description: wife",
+   "content_label": "Hardcore / adult",
+   "id": 9
+  },
+  {
+   "title": "Kuchou ni Saimin Kakerarete Ninshin shichaimashita",
+   "original_title": "区長に催眠かけられて妊娠しちゃいました (Hypnotized by the Neighbourhood Head and Got Pregnant)",
+   "creator": "Nanatsu no Kagiana (Nanakagi Satoshi)",
+   "year": 2019,
+   "format": "Hentai doujinshi",
+   "language": "Japanese",
+   "publisher": "self-published",
+   "gist": "A young couple's talkative neighbourhood-association head persuades them to 'try hypnosis' as a game; they really fall under it and he uses it on the wife.",
+   "where": "Whole work",
+   "wife": "yes",
+   "pregnant_end": "yes (per title)",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "pregnant-variants",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "MangaUpdates",
+     "url": "https://www.mangaupdates.com/series/66634703828"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "description: married couple",
+   "content_label": "Hardcore / adult",
+   "id": 10
+  },
+  {
+   "title": "Saiminjutsu de Shinkon Hitozuma Manaka-san to Ecchi Shiyou",
+   "original_title": "催眠術で新婚人妻まなかさんとエッチしよう",
+   "creator": "Sumiyao",
+   "year": 2017,
+   "format": "Hentai CG collection",
+   "language": "Japanese",
+   "publisher": "self-published",
+   "gist": "Hypnosis makes the newlywed wife Manaka believe the hypnotist is her husband.",
+   "where": "Whole work",
+   "wife": "yes (newlywed)",
+   "pregnant_end": "unknown (tagged Pregnancy / Impregnation; described as baby-making)",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "pregnant-variants",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "MangaUpdates",
+     "url": "https://www.mangaupdates.com/series/36772663783"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "description: newlywed wife",
+   "content_label": "Hardcore / adult",
+   "id": 11
+  },
+  {
+   "title": "Dragon Ball Z dj – Android 18's Hypnosis NTR",
+   "original_title": "人造人間18号 催眠NTR",
+   "creator": "Kaientai (Shuten Douji)",
+   "year": 2013,
+   "format": "Hentai doujinshi (parody)",
+   "language": "Japanese",
+   "publisher": "self-published (doujin)",
+   "gist": "Parody where Android 18, Krillin's wife, is hypnotized and cheated with.",
+   "where": "Whole work",
+   "wife": "yes (Krillin's wife)",
+   "pregnant_end": "unknown (tagged Pregnancy / Impregnation)",
+   "kids_together": "unknown",
+   "kids_before": "yes — daughter Marron in canon",
+   "categories": [
+    "wife-hypnotized",
+    "pregnant-variants",
+    "hardcore-adult",
+    "fan-made-roleplay"
+   ],
+   "sources": [
+    {
+     "label": "MangaUpdates",
+     "url": "https://www.mangaupdates.com/series/65965532574"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "MangaUpdates: Housewife/ves, Milf/s",
+   "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
+   "id": 12
+  },
+  {
+   "title": "Absolute Hypnosis in Another World",
+   "original_title": "이세계 절대최면",
+   "creator": "Kamadi, OneDollar (story); Grilled Mero (art)",
+   "year": 2022,
+   "format": "Manhwa (webtoon)",
+   "language": "Korean",
+   "publisher": "Toptoon / Day Comics",
+   "gist": "Transported 'HYPNO' uses hypnosis to build a harem; the first woman he meets in the new world is a married woman.",
+   "where": "From ch. 1",
+   "wife": "yes (the first target)",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "fantasy",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "MangaUpdates",
+     "url": "https://www.mangaupdates.com/series/8348791852"
+    }
+   ],
+   "loose_fit": true,
+   "note": "Only the married woman's arc is listed; other targets are not covered here.",
+   "adult_basis": "MangaUpdates: Wife, Milf/s",
+   "content_label": "Hardcore / adult",
+   "id": 13
+  },
+  {
+   "title": "My Harem Revenge",
+   "original_title": "하렘 리벤지",
+   "creator": "Flower Storm, Numin (story); Ohlron (art)",
+   "year": 2024,
+   "format": "Manhwa (webtoon)",
+   "language": "Korean",
+   "publisher": "Toptoon / Day Comics",
+   "gist": "Evan, awakened as an incubus, dominates the women who persecuted him one by one, including married women.",
+   "where": "Throughout",
+   "wife": "some targets are married",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "occult",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "MangaUpdates",
+     "url": "https://www.mangaupdates.com/series/78175965384"
+    }
+   ],
+   "loose_fit": true,
+   "note": "",
+   "adult_basis": "MangaUpdates: Married Female Lead, Milf/s",
+   "content_label": "Hardcore / adult",
+   "id": 14
+  },
+  {
+   "title": "Panty Note",
+   "original_title": "팬티노트",
+   "creator": "Wang Kang-cheol (story); Dong Dong-joo (art)",
+   "year": 2020,
+   "format": "Manhwa (webtoon)",
+   "language": "Korean",
+   "publisher": "Toptoon / Day Comics",
+   "gist": "A magic notebook lets its owner seduce any woman whose panties he has seen; married women are among them.",
+   "where": "Throughout",
+   "wife": "some targets are married",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "fantasy",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "MangaUpdates",
+     "url": "https://www.mangaupdates.com/series/21844894697"
+    }
+   ],
+   "loose_fit": true,
+   "note": "",
+   "adult_basis": "MangaUpdates: Married Love Interest/s, Milf/s",
+   "content_label": "Hardcore / adult",
+   "id": 15
+  },
+  {
+   "title": "Supervisor Access",
+   "original_title": "관리자 권한",
+   "creator": "Kim Duck Jo, Pro Workers (story); Beluga, Park Subeom (art)",
+   "year": 2022,
+   "format": "Manhwa (webtoon)",
+   "language": "Korean",
+   "publisher": "Toptoon / Day Comics",
+   "gist": "An office worker gets system 'missions' and powers to make female co-workers comply.",
+   "where": "Throughout",
+   "wife": "some targets are married",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "scifi",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "MangaUpdates",
+     "url": "https://www.mangaupdates.com/series/13762339152"
+    }
+   ],
+   "loose_fit": true,
+   "note": "",
+   "adult_basis": "MangaUpdates: Office Worker/s, Cheating Wife",
+   "content_label": "Hardcore / adult",
+   "id": 16
+  },
+  {
+   "title": "Mind Control Candle",
+   "original_title": "최면 양초",
+   "creator": "nayak, Soni Silyeowo (story); Ellije Sin (art)",
+   "year": 2024,
+   "format": "Manhwa (webtoon)",
+   "language": "Korean",
+   "publisher": "Toptoon / Toptoon Global",
+   "gist": "Brad uses a hypnotizing candle on Sophie, an older woman who is 'like a mother' to him.",
+   "where": "From ch. 1",
+   "wife": "unknown",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "fantasy",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "MangaUpdates",
+     "url": "https://www.mangaupdates.com/series/21991848040"
+    }
+   ],
+   "loose_fit": true,
+   "note": "",
+   "adult_basis": "MangaUpdates: Milf/s",
+   "content_label": "Hardcore / adult",
+   "id": 17
+  },
+  {
+   "title": "Under His Hypnosis",
+   "original_title": "그의 최면",
+   "creator": "Neulhana (story); Alice Crazy (art)",
+   "year": 2024,
+   "format": "Manhwa (webtoon)",
+   "language": "Korean",
+   "publisher": "Lezhin / Toomics",
+   "gist": "Burned-out office worker Heeju answers a mysterious flyer and ends up under a man's hypnosis.",
+   "where": "From ch. 1",
+   "wife": "no",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "human",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "MangaUpdates",
+     "url": "https://www.mangaupdates.com/series/30531921772"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "MangaUpdates: Office Lady/ies",
+   "content_label": "Hardcore / adult",
+   "id": 18
+  },
+  {
+   "title": "Smoking Hypnosis",
+   "original_title": "喫煙催眠",
+   "creator": "Dr. Stein",
+   "year": 2023,
+   "format": "Adult web comic",
+   "language": "Japanese",
+   "publisher": "Pixiv / Fanbox (self-published)",
+   "gist": "A virtuous woman who hated cigarettes falls into a hypnotist's plot and becomes a heavy smoker and promiscuous.",
+   "where": "Series",
+   "wife": "unknown (tagged Adultery)",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "human",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "MangaUpdates",
+     "url": "https://www.mangaupdates.com/series/12407560307"
+    }
+   ],
+   "loose_fit": true,
+   "note": "",
+   "adult_basis": "MangaUpdates: Adultery",
+   "content_label": "Hardcore / adult",
+   "id": 19
+  }
+ ],
+ "dropped": [
+  {
+   "title": "Saimin Gakusei Shidou, Saimin Choukyou Gakuen, Bullied: Revenge Hypnosis, Mahou Shoujo Saimin PakopaCause, Siren, Honey Drops, Sweet Bitch!, Zecchou Shoujo and other school-set hypnosis hentai",
+   "reason": "school setting / characters could be minors"
+  },
+  {
+   "title": "Delimama, Mind Flare stepmother works",
+   "reason": "the hypnotist is a stepson whose age is not stated"
+  },
+  {
+   "title": "Kare ni Saimin o Kaketara Ninshin Saserareta, Suki na Hito ni Saimin Kaketa",
+   "reason": "the hypnotized character is male"
+  },
+  {
+   "title": "Madelyne Pryor (Inferno)",
+   "reason": "a bargain with a demon, not mind control"
+  },
+  {
+   "title": "Run Away (manhwa), Living With My Ex-Wife",
+   "reason": "memory loss or unclear hypnosis"
+  },
+  {
+   "title": "Konna Karada de Ii no Nara, Hakuchuumu, Ero-Isu",
+   "reason": "anthologies whose hypnosis stories can't be tied to an adult woman"
+  }
+ ]
+}

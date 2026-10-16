@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Reads catalog — female hypnosis &amp; mind control in comics, manga and fiction</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,500;6..72,650&display=swap">
+<link rel="stylesheet" href="../assets/style.css">
+<link rel="icon" href="../favicon.svg" type="image/svg+xml">
+<style>
+.rgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px;margin:16px 0 40px}
+.rcard{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px 16px;box-shadow:var(--shadow)}
+.rcard h3{font-family:Newsreader,serif;margin:0 0 2px;font-size:1.2rem}
+.rcard .orig{color:var(--muted);font-size:.9em;margin:0 0 6px}
+.rcard dl{display:grid;grid-template-columns:auto 1fr;gap:2px 10px;margin:8px 0;font-size:.9em}
+.rcard dt{color:var(--muted)}.rcard dd{margin:0}
+.chips span{display:inline-block;font-size:.75em;border:1px solid var(--line);border-radius:99px;padding:1px 8px;margin:2px 4px 0 0}
+.loose{color:var(--gold);font-weight:600}
+.rbar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:14px}
+.rbar input,.rbar select,.rbar button{height:40px;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:8px;padding:0 10px}
+.rbar button[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+.content-label{margin:0 0 6px;padding:4px 8px;border:2px solid #b3261e;border-radius:6px;color:#b3261e;font-size:.85em;display:inline-block}
+</style>
+</head>
+<body>
+<div class="topbar"><div class="wrap"><span><a href="../">← TV &amp; movie catalog</a> · Reads: comics, manga, manhwa, novels and other written fiction</span><span><a href="data.json" download>Download data.json</a></span></div></div>
+<main class="wrap">
+<h1 style="font-family:Newsreader,serif">Reads catalog: hypnotized and mind-controlled women in written fiction</h1>
+<p>Text-only listings (no covers or page scans). Each entry gives who hypnotizes whom, where it happens, whether she is a wife, and the pregnancy / kids fields (“unknown” when sources are silent). Adults only. Explicit works carry the “Hardcore / adult” label and are hidden until you choose to show them.</p>
+<div class="rbar">
+<input id="q" type="search" placeholder="Search title, author, gist…" aria-label="Search">
+<select id="cat" aria-label="Category"><option value="">All categories</option></select>
+<select id="fmt" aria-label="Format"><option value="">All formats</option></select>
+<button id="labelToggle" type="button" aria-pressed="false">Show hardcore / fan-made</button>
+<span id="count"></span>
+</div>
+<div id="grid" class="rgrid"></div>
+<details><summary>Rejected leads</summary><ul id="dropped"></ul></details>
+</main>
+<footer class="wrap"><span id="gen"></span><span>Source links open in a new tab</span></footer>
+<script src="reads.js"></script>
+</body>
+</html>
