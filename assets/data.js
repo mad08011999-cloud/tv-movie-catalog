@@ -3915,7 +3915,7 @@ window.CATALOG = {
    "description": "Titles and episodes found on streaming-service title pages (Netflix, Prime Video, Disney+, etc.)",
    "dropped": [],
    "check": {
-    "raw_count": 59,
+    "raw_count": 60,
     "ok": true
    },
    "status": "local"
@@ -3963,10 +3963,10 @@ window.CATALOG = {
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
   "official-yt-oct15": 45,
-  "streaming-oct15": 59
+  "streaming-oct15": 60
  },
- "raw_total": 5623,
- "entry_count": 2843,
+ "raw_total": 5624,
+ "entry_count": 2844,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -430889,6 +430889,65 @@ window.CATALOG = {
      "url": "https://bingebase.com/tv/jijaji-chhat-par-hai-2018/season/1/episode/48"
     }
    }
+  },
+  {
+   "id": 2978,
+   "title": "Kooman",
+   "subtitle": "",
+   "year": "2022",
+   "meta": "",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Durai, a black-magic practitioner, has hypnotised Lakshmi and uses her as an accomplice in rituals that push victims into apparent suicides. She attacks constable Giri on his command and is freed from the hypnosis after Durai is stopped.",
+   "character": "",
+   "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "movie",
+   "categories": [],
+   "sources": [],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:60"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:60": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "",
+     "confidence_flag": "",
+     "summary": "Durai, a black-magic practitioner, has hypnotised Lakshmi and uses her as an accomplice in rituals that push victims into apparent suicides. She attacks constable Giri on his command and is freed from the hypnosis after Durai is stopped.",
+     "character": "",
+     "categories": [],
+     "title": "Kooman",
+     "year": "2022",
+     "country": "India",
+     "language": "Malayalam",
+     "category": "tantrik",
+     "victim": "Lakshmi",
+     "controller": "Karuppu Durai (black-magic practitioner)",
+     "source_name": "PlotExplained",
+     "url": "https://www.plotexplained.com/movie/kooman-2022"
+    }
+   }
   }
  ],
  "sections": [
@@ -477954,7 +478013,8 @@ window.CATALOG = {
   }
  ],
  "unplaced_entry_ids": [
-  2976
+  2976,
+  2978
  ],
  "watch_links_count": 513
 };
