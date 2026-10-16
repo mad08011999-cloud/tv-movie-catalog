@@ -1,0 +1,244 @@
+{
+ "id": "youtube-sweep-oct15",
+ "label": "YouTube-led worldwide sweep (15 Oct 2026)",
+ "group_title": "YouTube-led worldwide sweep (Oct 2026)",
+ "description": "Leads from YouTube searches in many languages (metadata and descriptions via yt-dlp; no video downloads), confirmed with Wikipedia or other references where possible. Adults only; loose fit where only a clip title supports the plot.",
+ "records": [
+  {
+   "title": "Amanah Wali 5",
+   "year": "2021",
+   "format": "tv",
+   "meta": "Sinetron · RCTI · MNC Pictures · Indonesia · 13 Apr 2021 – 2 Apr 2022",
+   "mechanism": "Street hypnosis (gendam-style) by Dani",
+   "summary": "Dani hypnotises Mitha and takes her money; later the villagers suspect a hypnotist is working in the area and ask Dani to stop hypnotising people.",
+   "character": "Mitha (Syarifadiya); Dani",
+   "categories": [
+    "crime",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "RCTI Mega Drama (official YouTube): Eps 101 Part 7",
+     "url": "https://www.youtube.com/watch?v=oAD3nuM5Ne4"
+    },
+    {
+     "label": "RCTI Mega Drama: Eps 103 Part 4",
+     "url": "https://www.youtube.com/watch?v=9M-VEL3kF-0"
+    },
+    {
+     "label": "Wikipedia (Indonesian): Amanah Wali 5",
+     "url": "https://id.wikipedia.org/wiki/Amanah_Wali_5"
+    }
+   ],
+   "pregnant_end": "unknown",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not stated.",
+   "kids_together": "unknown",
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "evidence": "RCTI Mega Drama (official YouTube): Eps 101 Part 7 + RCTI Mega Drama: Eps 103 Part 4 + Wikipedia (Indonesian): Amanah Wali 5",
+   "confidence_flag": "Medium · official clip + reference",
+   "provenance": "YouTube-led sweep, 15 Oct 2026 PT (metadata only, no downloads; adults only)",
+   "group": "YouTube-led worldwide sweep (Oct 2026)",
+   "note": "Plot from official clip titles; Wikipedia confirms the series, year and that Syarifadiya plays Mitha.",
+   "adult": "yes",
+   "episodes": "Ep 101: Dani hypnotises Mitha and takes her money; eps 103 & 119: aftermath."
+  },
+  {
+   "title": "Emmanuelle 4",
+   "year": "1984",
+   "format": "movie",
+   "meta": "Film · France · erotic · dir. Francis Leroi",
+   "mechanism": "Crystal-pendulum hypnosis by Oswaldo the magician",
+   "summary": "Sylvia flees her lover Marc, has plastic surgery in Brazil and becomes Emmanuelle. At a party the magician Oswaldo (Fabrice Luchini) says he wants to hypnotise her; she scoffs and he challenges her to resist. A clip shows him hypnotising a woman with a crystal pendulum.",
+   "character": "Emmanuelle (Mia Nygren / Sylvia Kristel); Oswaldo (Fabrice Luchini)",
+   "categories": [
+    "adult-hypnosis",
+    "erotic-mainstream"
+   ],
+   "sources": [
+    {
+     "label": "YouTube clip (fan upload): Emmanuelle 4 – scène d'hypnose",
+     "url": "https://www.youtube.com/watch?v=8ubWQLcpueU"
+    },
+    {
+     "label": "Wikipedia (French): Emmanuelle 4",
+     "url": "https://fr.wikipedia.org/wiki/Emmanuelle_4"
+    },
+    {
+     "label": "AlloCiné trivia (Luchini as hypnotist)",
+     "url": "https://www.allocine.fr/film/fichefilm-44650/secrets-tournage/"
+    },
+    {
+     "label": "Transcript (Springfield)",
+     "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=emmanuelle-iv"
+    }
+   ],
+   "pregnant_end": "no",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "No pregnancy in the plot summaries.",
+   "kids_together": "no",
+   "kids_status": "no",
+   "kids_note": "No children.",
+   "evidence": "YouTube clip (fan upload): Emmanuelle 4 – scène d'hypnose + Wikipedia (French): Emmanuelle 4 + AlloCiné trivia (Luchini as hypnotist) + Transcript (Springfield)",
+   "confidence_flag": "Medium · official clip + reference",
+   "provenance": "YouTube-led sweep, 15 Oct 2026 PT (metadata only, no downloads; adults only)",
+   "group": "YouTube-led worldwide sweep (Oct 2026)",
+   "note": "loose fit: sources confirm Luchini plays the hypnotist and offers to hypnotise Emmanuelle; the woman in the clip is not named.",
+   "adult": "yes"
+  },
+  {
+   "title": "Tukang Bubur Pengen Naik Haji",
+   "year": "2024",
+   "format": "tv",
+   "meta": "Sinetron · RCTI · MNC Pictures · Indonesia · from 1 Jan 2024",
+   "mechanism": "Street hypnosis by a stranger",
+   "summary": "Laras is hypnotised by a stranger.",
+   "character": "Laras (Claudia Andhara)",
+   "categories": [
+    "crime",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "RCTI – Layar Drama Indonesia (official YouTube): Eps 59–60 Part 6",
+     "url": "https://www.youtube.com/watch?v=_3Q7prANOBY"
+    },
+    {
+     "label": "Wikipedia (Indonesian): Tukang Bubur Pengen Naik Haji",
+     "url": "https://id.wikipedia.org/wiki/Tukang_Bubur_Pengen_Naik_Haji"
+    }
+   ],
+   "pregnant_end": "unknown",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not stated.",
+   "kids_together": "unknown",
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "evidence": "RCTI – Layar Drama Indonesia (official YouTube): Eps 59–60 Part 6 + Wikipedia (Indonesian): Tukang Bubur Pengen Naik Haji",
+   "confidence_flag": "Medium · official clip + reference",
+   "provenance": "YouTube-led sweep, 15 Oct 2026 PT (metadata only, no downloads; adults only)",
+   "group": "YouTube-led worldwide sweep (Oct 2026)",
+   "note": "loose fit: only the official clip title describes the hypnosis.",
+   "adult": "yes",
+   "episodes": "Eps 59–60."
+  },
+  {
+   "title": "Terikat Janji",
+   "year": "2026",
+   "format": "tv",
+   "meta": "Sinetron · RCTI & Netflix · MNC Pictures · Indonesia · from 6 Apr 2026",
+   "mechanism": "Hypnosis (perpetrator not named in the clip)",
+   "summary": "Reza rescues Jihan from hypnosis.",
+   "character": "Jihan Almira Kusuma (Yoriko Angeline); Reza (Rizky Djanbi)",
+   "categories": [
+    "human",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "RCTI – Layar Drama Indonesia (official YouTube): Episode 46 best scene",
+     "url": "https://www.youtube.com/watch?v=T9uE-kIYhqQ"
+    },
+    {
+     "label": "Wikipedia (Indonesian): Terikat Janji",
+     "url": "https://id.wikipedia.org/wiki/Terikat_Janji"
+    }
+   ],
+   "pregnant_end": "unknown",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not stated.",
+   "kids_together": "unknown",
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "evidence": "RCTI – Layar Drama Indonesia (official YouTube): Episode 46 best scene + Wikipedia (Indonesian): Terikat Janji",
+   "confidence_flag": "Medium · official clip + reference",
+   "provenance": "YouTube-led sweep, 15 Oct 2026 PT (metadata only, no downloads; adults only)",
+   "group": "YouTube-led worldwide sweep (Oct 2026)",
+   "note": "loose fit: only the official clip title describes the hypnosis.",
+   "adult": "yes",
+   "episodes": "Ep 46."
+  },
+  {
+   "title": "Maddam Sir",
+   "year": "2020",
+   "format": "tv",
+   "meta": "TV series · Sony SAB · India · Hindi · 24 Feb 2020 – 18 Feb 2023",
+   "mechanism": "Hypnosis (episode not identified)",
+   "summary": "Comedy-drama about the women officers of a Lucknow Mahila police station; a compilation clip shows Sub-Inspector Karishma Singh being hypnotised.",
+   "character": "SI Karishma Singh",
+   "categories": [
+    "other-control",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "YouTube compilation (unofficial channel 'Lady Inspector')",
+     "url": "https://www.youtube.com/watch?v=lynwtVSELtQ"
+    },
+    {
+     "label": "Wikipedia: Maddam Sir",
+     "url": "https://en.wikipedia.org/wiki/Maddam_Sir"
+    }
+   ],
+   "pregnant_end": "unknown",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not stated.",
+   "kids_together": "unknown",
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "evidence": "YouTube compilation (unofficial channel 'Lady Inspector') + Wikipedia: Maddam Sir",
+   "confidence_flag": "Medium · official clip + reference",
+   "provenance": "YouTube-led sweep, 15 Oct 2026 PT (metadata only, no downloads; adults only)",
+   "group": "YouTube-led worldwide sweep (Oct 2026)",
+   "note": "loose fit: episode not identified; fan compilation clip; Wikipedia confirms the series and character.",
+   "adult": "yes"
+  }
+ ],
+ "dropped": [
+  {
+   "title": "Aladdin (MNCTV 2012) – Medina hypnotised by Lahab",
+   "reason": "Medina's actress Indah Permatasari was about 13 in 2012 (minor)"
+  },
+  {
+   "title": "Mesmerized / Hipnotizada (1985)",
+   "reason": "Victoria hypnotises her husband; the woman is the hypnotist"
+  },
+  {
+   "title": "El Refugio (2006) cap. 99",
+   "reason": "youth series; Celeste likely a minor"
+  },
+  {
+   "title": "Sepatu Super, Fatih di Kampung Jawara, Cennet Mahallesi, Krishna Arjun, Tic Tac, Floricienta, Zorro, Smallville, The Mentalist, Signal, Bhabi Ji Ghar Par Hai, Naagin 3/5, Nazar, Jijaji Chhat Par Hai, The Prisoner, Fallait pas!, Lair of the White Worm, A Taste of Blood, El extraño retorno de Diana Salazar, 被催眠的她",
+   "reason": "already in catalog"
+  },
+  {
+   "title": "Hati yang Memilih, TOP Masih Ngojek, Dunia Terbalik, Suhaagan Chudail, Get Out, Kızıl Goncalar, La main de l'assassin",
+   "reason": "hypnotised character is male"
+  },
+  {
+   "title": "I Love Jinny ep 11",
+   "reason": "Finny is trapped, not hypnotised per description"
+  },
+  {
+   "title": "Kuasa Ilahi 'Teror Gendam Suami Istri' (MNCTV clip)",
+   "reason": "couple scammed; no woman-specific plot; series/broadcaster ambiguous"
+  },
+  {
+   "title": "Kaçak Gelinler ep 11",
+   "reason": "unclear who is hypnotised"
+  },
+  {
+   "title": "Unnamed Chinese vertical uploads (渣男催眠妻子 [FULL]; 驯不服的鹰：我用催眠囚她一生)",
+   "reason": "no confirmable title/plot outside the upload"
+  },
+  {
+   "title": "A Place Beyond Shame (1980)",
+   "reason": "hardcore pornography, excluded"
+  },
+  {
+   "title": "RikkaCD917 compilations, memoman29, Hypnotic Finale, Blissful, Phantasm Phoebe, hypnolatino, AI Cinema clips, Uya Kuya, stage-hypnosis channels",
+   "reason": "fan-made, roleplay, AI or reality/stage content"
+  }
+ ]
+}

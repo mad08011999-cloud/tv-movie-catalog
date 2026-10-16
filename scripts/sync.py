@@ -142,6 +142,8 @@ SOURCES = [
      "local": "sources/belly-kissed-kids.json", "required": False},
     {"id": "female-wife-scenes-oct15", "label": "Female / wife hypnosis scenes sweep (15 Oct 2026)",
      "local": "sources/female-wife-scenes-oct15.json", "required": False},
+    {"id": "youtube-sweep-oct15", "label": "YouTube-led worldwide sweep (15 Oct 2026)",
+     "local": "sources/youtube-sweep-oct15.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
