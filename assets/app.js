@@ -66,29 +66,38 @@
       ...e.categories.map(c => catLabel[c] || c), ...(e.merged_from || []).map(m => [m.label, m.summary, m.character, m.note].join(' '))].join(' \u0001 ').toLowerCase();
   });
   // ---------- smart context search (client-side; no external services) ----------
-  // A longer descriptive query (3+ words that contain at least one recognised term) is parsed into
-  // structured criteria built from the real data fields. Hard criteria (years, format, country,
-  // pregnancy, free link, exclusions) filter; soft ones (categories, kids, mechanism, controller,
-  // motive, adult, witness, leftover words) score and rank. Short plain searches behave as before.
+  // Any recognised concept term (even one word) switches the search box into context mode:
+  //  * hard filters: years/decades, format, country/language, free link, pregnancy status, exclusions;
+  //  * concepts (mother, wife, pregnant again, hypnosis, vampire, …): each has a STRONG test (the site's
+  //    own categories / structured fields) and a WEAK test (the term appears in the plot text);
+  //  * results come in tiers: title matches, then best matches (every concept matched strongly), then near
+  //    matches (every concept matched, some only in the text; text-only terms must sit near each other),
+  //    then partial matches (all but one concept) when the first tiers are small. Dividers show the tiers.
+  // Searches with no recognised term behave exactly as before (every word must appear).
   const low = v => String(v ?? '').toLowerCase();
   const isYes = v => v === true || /^yes/.test(low(v));
   const hasCat = (e, keys) => e.categories.some(c => keys.includes(c));
-  const geo = e => e._geo || (e._geo = [e.title, e.subtitle, e.meta, e.provenance, e.character, ...(e.merged_from || []).map(m => m.label)].join(' ').toLowerCase());
+  // plot text without the category labels (labels such as 'Wife hypnotized (by … vampire …)' would
+  // otherwise make every wife record 'mention' vampires)
+  D.entries.forEach(e => { let t = e._hay; e.categories.forEach(c => { const l = low(catLabel[c]); if (l) t = t.split(l).join(' '); }); e._txt = t; });
+  const geo = e => e._geo || (e._geo = [e.title, e.subtitle, e.meta, ...(e.merged_from || []).map(m => m.label)].join(' ').toLowerCase());   // provenance is per source batch, so it is not used for country
   const metaL = e => low(e.meta);
   const PREG_POS = ['becomes pregnant by the end', 'still pregnant at the end', 'pregnant', 'gives birth', 'gives birth (twins)', 'pregnant at start', 'pregnant before the hypnosis'];
-  const pregSignal = e => PREG_POS.includes(low(e.pregnancy_outcome)) || isYes(e.pregnant_end) || !!e.pregnancy_again ||
-    e.categories.some(c => /pregnan/.test(c) || /pregnan/i.test(catLabel[c] || '')) || e._hay.includes('pregnan');
+  const PREG_CATS = D.categories.filter(c => /pregnan/i.test(c.key + ' ' + c.label)).map(c => c.key);
+  const HYP_CATS = D.categories.filter(c => /hypno|mesmer|trance|mind-control|mind control/i.test(c.label)).map(c => c.key);
   const pregKnown = e => { const o = low(e.pregnancy_outcome), p = low(e.pregnant_end);
     return (o && !/^(unknown|not stated)/.test(o)) || /^(yes|no)/.test(p); };
-  const kidsBefore = e => isYes(e.kids_status) || +e.existing_kids > 0 || isYes(e.pregnant_has_children) ||
-    hasCat(e, ['mother', 'mom-pregnancy', 'mom-partner-control', 'hypnotised-mother-marriage', 'another-man', 'family', 'pregnant-walkin']);
+  const MOM_CATS = ['mother', 'mom-pregnancy', 'mom-partner-control', 'hypnotised-mother-marriage', 'pregnant-walkin', 'family', 'another-man', 'stepfather-control'];
+  const WIFE_CATS = ['wife', 'wife-hypnotized', 'therapist-wife', 'partner-control', 'index-54', 'remarried-wife-control', 'partner-commissioned', 'partner-pregnant-hire', 'index-48', 'exwife-control', 'mom-partner-control', 'another-man', 'agegap-marriage', 'polygamy-hypnosis', 'polygamy-pregnancy', 'cheat-control'];
+  const HUSB_CATS = ['wife', 'index-54', 'partner-control', 'mom-partner-control', 'remarried-wife-control', 'stepfather-control', 'partner-commissioned', 'partner-pregnant-hire', 'index-48'];
+  const AGAIN_CATS = ['mom-pregnancy', 'widow-divorcee-remarry-pregnant', 'family', 'another-man'];
   const gm = (e, re) => re.test([].concat(e.gain_motive || []).join(' ').toLowerCase());
   const hyp = (e, re) => re.test(low(e.hypnotist));
   const COUNTRIES = [
-    ['Korea', /\b(south )?koreans?\b|\bkorea\b|\bk-?dramas?\b/, e => /korea|k-drama|\bkbs\d?\b|\bsbs\b|\bmbc\b|\btvn\b|\bjtbc\b|tv chosun/.test(metaL(e) + ' ' + low(e.provenance)) || /[\uac00-\ud7af]/.test(e.title + (e.subtitle || ''))],
-    ['China', /\bchin(a|ese)\b|\bmandarin\b|\bc-?dramas?\b|\bmainland\b/, e => /china|chinese|mandarin|c-drama|iqiyi|youku|tencent|mango tv|hongguo|douyin|kuaishou/.test(metaL(e) + ' ' + low(e.provenance)) || (/[\u4e00-\u9fff]/.test(e.title + (e.subtitle || '')) && !/[\u3040-\u30ff]/.test(e.title + (e.subtitle || '')) && !/hong kong|taiwan|japan/.test(metaL(e)))],
-    ['Hong Kong', /\bhong kong\b|\bhk\b|\bcantonese\b|\btvb\b/, e => /hong kong|cantonese|\btvb\b|\bhk\b/.test(metaL(e) + ' ' + low(e.provenance))],
-    ['Taiwan', /\btaiwan(ese)?\b/, e => /taiwan/.test(metaL(e) + ' ' + low(e.provenance))],
+    ['Korea', /\b(south )?koreans?\b|\bkorea\b|\bk-?dramas?\b/, e => /korea|k-drama|\bkbs\d?\b|\bsbs\b|\bmbc\b|\btvn\b|\bjtbc\b|tv chosun/.test(geo(e)) || /[\uac00-\ud7af]/.test(e.title + (e.subtitle || ''))],
+    ['China', /\bchin(a|ese)\b|\bmandarin\b|\bc-?dramas?\b|\bmainland\b/, e => /china|chinese|mandarin|c-drama|iqiyi|youku|tencent|mango tv|hongguo|douyin|kuaishou/.test(geo(e)) || (/[\u4e00-\u9fff]/.test(e.title + (e.subtitle || '')) && !/[\u3040-\u30ff]/.test(e.title + (e.subtitle || '')) && !/hong kong|taiwan|japan/.test(metaL(e)))],
+    ['Hong Kong', /\bhong kong\b|\bhk\b|\bcantonese\b|\btvb\b/, e => /hong kong|cantonese|\btvb\b|\bhk\b/.test(geo(e))],
+    ['Taiwan', /\btaiwan(ese)?\b/, e => /taiwan/.test(geo(e))],
     ['Japan', /\bjapan(ese)?\b|\banime\b|\bj-?dramas?\b/, e => /japan|anime|j-drama/.test(metaL(e)) || /[\u3040-\u30ff]/.test(e.title + (e.subtitle || ''))],
     ['Hindi', /\bhindi\b|\bbollywood\b/, e => /hindi|bollywood/.test(geo(e))],
     ['Tamil', /\btamil\b|\bkollywood\b/, e => /tamil/.test(geo(e))],
@@ -99,7 +108,7 @@
     ['Marathi', /\bmarathi\b/, e => /marathi/.test(geo(e))],
     ['India', /\bindian?\b|\bdesi\b/, e => /india|hindi|tamil|telugu|malayalam|kannada|bengali|marathi|bollywood|star plus|zee tv|colors tv|sony tv/.test(geo(e))],
     ['Turkey', /\bturk(ey|ish|iye)\b/, e => /turk/.test(geo(e))],
-    ['Spanish-language', /\bspanish\b|\bspain\b|\bmexic(o|an)\b|\blatin( american)?\b|\btelenovelas?\b|\bargentin\w*|\bcolombian?\b/, e => /spanish|spain|mexic|telenovela|argentin|colombia|venezuel|chile|peru/.test(metaL(e) + ' ' + low(e.provenance))],
+    ['Spanish-language', /\bspanish\b|\bspain\b|\bmexic(o|an)\b|\blatin( american)?\b|\btelenovelas?\b|\bargentin\w*|\bcolombian?\b/, e => /spanish|spain|mexic|telenovela|argentin|colombia|venezuel|chile|peru/.test(geo(e))],
     ['Brazil / Portuguese', /\bbrazil\w*|\bportugu\w*/, e => /brazil|portug/.test(metaL(e))],
     ['Indonesia', /\bindonesian?\b|\bsinetron\b/, e => /indonesia|sinetron/.test(geo(e))],
     ['Philippines', /\bfilipino\b|\bphilippines?\b|\bpinoy\b/, e => /philippin|filipino|pinoy/.test(geo(e))],
@@ -111,22 +120,6 @@
     ['Italy', /\bital(y|ian)\b/, e => /ital/.test(metaL(e))],
     ['UK', /\bbritish\b|\buk\b|\bengland\b/, e => /\buk\b|british|england|bbc|itv/.test(metaL(e))],
     ['US', /\bamerican\b|\busa\b|\bhollywood\b/, e => /\bus\b|usa|united states|american|hollywood/.test(metaL(e))]];
-  // categories: explicit synonyms + phrases generated from the category labels themselves
-  const CAT_SYN = [
-    [/\blesbians?\b|\bsame[- ]sex\b|\btwo moms\b|\bwlw\b/, 'Lesbian couple', ['lesbian-couple-pregnancy', 'pregnant-lesbian-intimate']],
-    [/\brich (wife|wives|woman|women|lady|heiress|widow)\b|\bheiress\b|\bwealthy (wife|woman)\b/, 'Rich woman', ['index-49', 'index-50', 'index-51', 'index-52', 'index-53', 'index-54']],
-    [/\bsurroga\w*|\bivf\b/, 'Surrogacy / IVF', ['index-55', 'index-59']],
-    [/\bstep-?mo(m|ther)s?\b|\bbonus mom\b/, 'Stepmother', ['stepmom-control', 'stepmom-pregnancy']],
-    [/\bwidow\w*|\bdivorc\w*/, 'Widow / divorcee', ['widow-divorcee', 'widow-divorcee-remarry-pregnant']],
-    [/\bpolygam\w*|\bco-?wives?\b|\bsecond wife\b/, 'Polygamy', ['polygamy-hypnosis', 'polygamy-pregnancy']],
-    [/\b(queens?|princess(es)?|royal\w*)\b/, 'Royal', ['royal-hypnosis']],
-    [/\bcults?\b|\bbrainwash\w*/, 'Cult / brainwashing', ['cult']],
-    [/\bdevil\b|\bdeal with (a|the) (devil|demon)\b/, "Devil's deal", ['devil-deal-pregnancy-hypnosis', 'devil-deal-pregnancy']],
-    [/\b(age[- ]gap|young wife|older husband|older man)\b/, 'Age-gap marriage', ['agegap-marriage']],
-    [/\b(cheat\w*|infidelity|affair)\b/, 'Infidelity', ['cheat-control', 'index-57']],
-    [/\bultrasound|\bscan\b|\bgender reveal\b/, 'Ultrasound / scan', ['index-56', 'index-64', 'index-65', 'index-66']],
-    [/\bwalks? in\b|\bwalk-?in\b/, 'Child walk-in', ['walkin', 'pregnant-walkin']],
-    [/\bsurrogate\b/, 'Surrogate', ['index-55']]];
   const STOP_CAT = new Set(['female', 'females', 'character', 'characters', 'woman', 'women', 'with', 'by', 'and', 'or', 'the', 'a', 'an', 'of', 'her', 'for', 'into', 'to', 'while', 'then', 'gets', 'india', 'worldwide']);
   const catPhrases = [];
   D.categories.forEach(c => String(c.label).toLowerCase().split(/\s*(?:\/|—|–|\(|\)|,|&|\+|;|:)\s*/).forEach(seg => {
@@ -138,10 +131,12 @@
     'she her hers he him his they them their it its from as if whether specify specifies specified say says said show shows showing find finding looking look want wants ' +
     'titles title any some all also etc movie movies film films tv series show shows female females woman women girl girls lady ladies character characters story stories ' +
     'plot plots get gets got end ending ends up out about like kind type one ones me my i you your please list give us we our there here then than so such very more most ' +
-    'into onto over under while when what how why can could would should will just only even still already both each other others where couple couples state states ' +
-    'storyline storylines scene scenes include includes including also research style cases case drama dramas episode episodes').split(' '));
+    'into onto over under while when what how why can could would should will just only even still already both each other others state states ' +
+    'storyline storylines scene scenes include includes including research style cases case drama dramas episode episodes couple couples').split(' '));
   const R = (re, mk) => ({re, mk});
-  const C = (id, label, group, kind, test) => ({id, label, group, kind, test});
+  // kind: 'hard' (filter, OR inside a group) | 'not' (exclusion) | 'concept' (strong test + weak text regex) | 'text'
+  const C = (id, label, group, kind, test, weak) => ({id, label, group, kind, test, weak: weak || null});
+  const K = (id, label, strong, weak) => C(id, label, id, 'concept', strong, weak);
   const RULES = [
     // years (hard)
     R(/\b(?:from |between )?((?:18|19|20)\d\d)\s*(?:-|to|until|through|and|till)\s*((?:18|19|20)\d\d)\b/g, m => ['range', +m[1], +m[2]]),
@@ -150,102 +145,144 @@
     R(/\b(?:the )?((?:18|19|20)\d)0'?s\b/g, m => ['range', +(m[1] + '0'), +(m[1] + '9')]),
     R(/\b(?:the )?'?([0-9])0'?s\b/g, m => { const d = +m[1]; const base = d <= 2 ? 2000 : 1900; return ['range', base + d * 10, base + d * 10 + 9]; }),
     R(/\b(?:in )?((?:18|19|20)\d\d)\b/g, m => ['range', +m[1], +m[1]]),
-    // pregnancy (hard, OR within the group)
+    // pregnancy status (hard field filters)
     R(/\b(?:specify|specifies|specified|state[sd]?|says?|whether|if|tell me if|mention\w*)\b[^|]{0,30}?\bpregnan\w*(?: (?:or not|at the end|in the end|by the end|at end))?/g, () => C('preg:known', 'Pregnancy: status recorded', 'preg', 'hard', pregKnown)),
-    R(/\bpregnant again\b|\bsecond pregnancy\b|\banother (?:baby|pregnancy)\b|\bpregnancy again\b/g, () => C('again', 'Pregnant again', 'again', 'hard', e => !!e.pregnancy_again)),
-    R(/\bmiscarr\w*|\blos(?:es|t|e) the baby\b/g, () => C('preg:misc', 'Pregnancy: miscarriage', 'preg', 'hard', e => low(e.pregnancy_outcome) === 'miscarriage' || /miscarr/.test(low(e.pregnant_end) + low(e.pregnancy_note) + low(e.pregnant_end_note)) || e.pregnancy_again === 'miscarriage')),
-    R(/\bgives? birth\b|\bhas the baby\b|\bbaby is born\b|\bdelivers? (?:the |a )?baby\b/g, () => C('preg:birth', 'Pregnancy: gives birth', 'preg', 'hard', e => /birth/.test(low(e.pregnancy_outcome)) || /born|birth/.test(low(e.pregnant_end)) || e.pregnancy_again === 'birth')),
     R(/\b(?:not|never|isn't|is not) pregnan\w*/g, () => C('preg:no', 'Pregnancy: not pregnant', 'preg', 'hard', e => low(e.pregnancy_outcome) === 'not pregnant' || /^no/.test(low(e.pregnant_end)))),
-    R(/\bpregnan\w* (?:at|in|by) the end\b|\bpregnant at end\b|\bends? (?:up )?pregnant\b|\bbecomes? pregnant\b|\bgets? pregnant\b|\bfalls? pregnant\b/g, () => C('preg:end', 'Pregnancy: pregnant at end', 'preg', 'hard', e => PREG_POS.slice(0, 5).includes(low(e.pregnancy_outcome)) || isYes(e.pregnant_end))),
-    R(/\bpregnan\w*|\bexpecting\b|\bbaby bump\b|\bwith child\b/g, () => C('preg:any', 'Pregnancy: pregnant storyline', 'preg', 'hard', pregSignal)),
-    // children (soft)
-    R(/\b(?:kids?|child(?:ren)?|sons?|daughters?)\s+(?:see|sees|saw|seeing|watch|watches|watching|witness\w*|notice\w*|catch\w*|find\w*)\b|\bchild witness\w*|\bwitness(?:ed)? by (?:her )?(?:kids|children)\b/g, () => C('witness', 'Child witness', 'witness', 'soft', e => !!e.child_witness || hasCat(e, ['walkin', 'pregnant-walkin']))),
-    R(/\b(?:couple|they|together)\b[^|]{0,20}?\b(?:kids|children|baby)\b|\b(?:kids|children) together\b|\bend(?:s|ing)? (?:up )?with (?:kids|children|a baby|a child)\b|\bhave kids at the end\b/g, () => C('kidsend', 'Couple has kids at end', 'kidsend', 'soft', e => isYes(e.kids_together))),
-    R(/\b(?:no|without) (?:kids|children|child)\b|\bchildless\b/g, () => C('kids:no', 'Kids before: none', 'kids', 'soft', e => /^no/.test(low(e.kids_status)) || e.existing_kids === '0' || /^no/.test(low(e.pregnant_has_children)))),
-    R(/\b(?:already )?(?:has|have|having|with) (?:kids|children|a child|a son|a daughter|existing kids)\b(?: from before)?|\bkids from before\b|\bexisting (?:kids|children)\b|\bmothers?\b|\bmoms?\b|\bmums?\b/g, () => C('kids:yes', 'Kids before: yes', 'kids', 'soft', kidsBefore)),
-    // adult (soft)
-    R(/\badults?(?: only| title| rated)?\b|\br-?rated\b|\bnc-?17\b|\b18\+|\berotic\w*|\bexplicit\b|\bsteamy\b/g, () => C('adult', 'Adult / R-rated', 'adult', 'soft', e => isYes(e.adult) || /^(r\b|nc-17|tv-ma)/i.test(e.rating || '') || hasCat(e, ['adult-hypnosis', 'erotic-mainstream', 'hardcore-adult', 'index-64', 'adult-pregnancy']))),
-    // controller (soft)
-    R(/\bmother[- ]in[- ]law\b|\bsaas\b/g, () => C('who:mil', 'Controller: mother-in-law', 'who:mil', 'soft', e => /mother[- ]in[- ]law|\bsaas\b/.test(e._hay))),
-    R(/\bstep-?(?:father|dad)\b/g, () => C('who:step', 'Controller: stepfather', 'who:step', 'soft', e => hasCat(e, ['stepfather-control', 'remarried-wife-control']))),
-    R(/\bhusbands?\b|\bspouse\b/g, () => C('who:husband', 'Controller: husband', 'who:husband', 'soft', e => hasCat(e, ['wife', 'index-54', 'partner-control', 'mom-partner-control', 'remarried-wife-control', 'stepfather-control', 'partner-commissioned']) || hyp(e, /husband/))),
-    R(/\bboyfriend\b|\bex[- ]?(?:husband|boyfriend)\b|\bpartner\b/g, () => C('who:partner', 'Controller: partner / ex', 'who:partner', 'soft', e => hasCat(e, ['partner-control', 'mom-partner-control', 'partner-commissioned']) || hyp(e, /boyfriend|partner|\bex\b/))),
-    R(/\b(?:hypno)?therapist\b|\bpsychiatrist\b|\bpsychologist\b|\bshrink\b|\bcounsel+or\b/g, () => C('who:therapist', 'Controller: therapist', 'who:therapist', 'soft', e => hasCat(e, ['therapist-wife', 'medical']) || hyp(e, /therap|psychiat|psycholog/))),
-    R(/\bdoctors?\b|\bdr\b/g, () => C('who:doctor', 'Controller: doctor', 'who:doctor', 'soft', e => hasCat(e, ['doctor-gain', 'medical']) || hyp(e, /doctor|\bdr\b|physician/))),
-    R(/\bvillains?\b|\bbad guy\b/g, () => C('who:villain', 'Controller: villain', 'who:villain', 'soft', e => hasCat(e, ['human', 'villain']))),
-    // motive (soft)
-    R(/\binherit\w*|\bestate\b/g, () => C('why:inherit', 'Motive: inheritance', 'why:inherit', 'soft', e => gm(e, /inherit/) || /inherit/.test(e._hay))),
-    R(/\bmoney\b|\bwealth\b|\bfortune\b|\bproperty\b|\binsurance\b|\bgreed\b/g, () => C('why:money', 'Motive: money', 'why:money', 'soft', e => gm(e, /money|inherit|fraud/) || hasCat(e, ['index-49']) || /\bmoney\b|fortune|property|insurance|inherit/.test(e._hay))),
-    R(/\bmarr(?:y|iage|ied|ies)\b|\bwedding\b|\bbrides?\b/g, () => C('why:marriage', 'Motive: marriage', 'why:marriage', 'soft', e => gm(e, /marr/) || hasCat(e, ['hypnotized-to-marry', 'hypnotized-marriage', 'index-51', 'hypnotised-mother-marriage']) || isYes(e.married))),
-    R(/\blove potions?\b|\bpotions?\b/g, () => C('mech:potion', 'Method: love potion', 'mech:potion', 'soft', e => /potion/.test(e._hay) || hasCat(e, ['index-53']))),
-    R(/\blove\b|\bromance\b|\bromantic\b/g, () => C('why:love', 'Motive: love', 'why:love', 'soft', e => gm(e, /love/) || hasCat(e, ['love', 'index-51', 'index-53']))),
-    R(/\bsex\w*|\blust\b|\bintima\w*|\bseduc\w*/g, () => C('why:sex', 'Motive: sex / intimacy', 'why:sex', 'soft', e => gm(e, /sex/) || hasCat(e, ['hypno-intimacy', 'index-50', 'pregnant-sex', 'pregnant-intimate']))),
-    R(/\bcrimes?\b|\bcriminal\b|\bmurder\w*|\bkill\w*|\brobber\w*|\bheist\b|\bfraud\b/g, () => C('why:crime', 'Motive: crime', 'why:crime', 'soft', e => gm(e, /crime|fraud|murder/) || hasCat(e, ['crime']))),
-    R(/\brevenge\b|\bvengeance\b/g, () => C('why:revenge', 'Motive: revenge', 'why:revenge', 'soft', e => gm(e, /revenge/) || hasCat(e, ['index-52']) || /revenge/.test(e._hay))),
-    // mechanism (soft)
-    R(/\bmind[- ]?control\w*/g, () => C('mech:mind', 'Method: mind control', 'mech:mind', 'soft', e => /mind[- ]?control|brainwash/.test(e._hay))),
-    R(/\bhypno\w*|\bmesmeri[sz]\w*|\btrance\w*/g, () => C('mech:hypno', 'Method: hypnosis', 'mech:hypno', 'soft', e => /hypno|mesmer|trance/.test(e._hay))),
-    R(/\bdevices?\b|\bgadgets?\b|\bmicrochip\w*|\bchips?\b|\bmachines?\b/g, () => C('mech:device', 'Method: device / tech', 'mech:device', 'soft', e => hasCat(e, ['tech', 'scifi']) || /device|chip|machine/.test(e._hay))),
-    R(/\bvampir\w*|\bdracula\b/g, () => C('mech:vampire', 'Method: vampire', 'mech:vampire', 'soft', e => hasCat(e, ['vampire']) || /vampir|dracula/.test(e._hay))),
-    R(/\bblack magic\b|\btantri[ck]\w*|\bwitchcraft\b|\bspells?\b|\bmagic\w*/g, () => C('mech:magic', 'Method: magic / spell', 'mech:magic', 'soft', e => hasCat(e, ['tantrik', 'villain', 'fantasy', 'occult']) || /magic|spell|tantri/.test(e._hay))),
-    R(/\bdrug\w*|\bpills?\b/g, () => C('mech:drug', 'Method: drugs', 'mech:drug', 'soft', e => /drug|pill/.test(e._hay))),
-    // other hard / soft
+    // pregnancy concepts
+    R(/\bpregnan\w* again\b|\bagain pregnant\b|\bexpecting again\b|\b(?:second|2nd|third|3rd|another|next) (?:pregnancy|baby|child)\b|\bpregnancy again\b|\bre-?pregnan\w*/g, () => K('again', 'Pregnant again', e => !!e.pregnancy_again || hasCat(e, AGAIN_CATS), /pregnan\w* again|again pregnant|expecting again|(second|another|next) (pregnancy|baby)/)),
+    R(/\bmiscarr\w*|\blos(?:es|t|e) (?:the|her) baby\b/g, () => K('misc', 'Pregnancy: miscarriage', e => low(e.pregnancy_outcome) === 'miscarriage' || /miscarr/.test(low(e.pregnant_end) + low(e.pregnancy_note) + low(e.pregnant_end_note)) || e.pregnancy_again === 'miscarriage', /miscarr|lost (the|her) baby/)),
+    R(/\bgives? birth\b|\bgave birth\b|\bhas the baby\b|\bbaby is born\b|\bchildbirth\b|\bdelivers? (?:the |a )?baby\b/g, () => K('birth', 'Pregnancy: gives birth', e => /birth/.test(low(e.pregnancy_outcome)) || /born|birth/.test(low(e.pregnant_end)) || e.pregnancy_again === 'birth', /gives birth|gave birth|giving birth|baby is born|childbirth|delivers (a|the|her) baby/)),
+    R(/\bpregnan\w* (?:at|in|by) the end\b|\bpregnant at end\b|\bends? (?:up )?pregnant\b|\bbecomes? pregnant\b|\bgets? pregnant\b|\bfalls? pregnant\b/g, () => K('pregend', 'Pregnancy: pregnant at end', e => PREG_POS.slice(0, 5).includes(low(e.pregnancy_outcome)) || isYes(e.pregnant_end), /pregnant (at|by) the end|becomes pregnant|gets pregnant/)),
+    R(/\bpregnan\w*|\bexpecting\b|\bbaby bump\b|\bwith child\b|\bmother-to-be\b/g, () => K('preg', 'Pregnant', e => PREG_POS.includes(low(e.pregnancy_outcome)) || isYes(e.pregnant_end) || !!e.pregnancy_again || hasCat(e, PREG_CATS), /pregnan|expecting a baby|baby bump/)),
+    R(/\badopt\w*/g, () => K('adopt', 'Adoption', e => hasCat(e, ['adopt-pregnancy']), /adopt/)),
+    // who she is
+    R(/\b(?:kids?|child(?:ren)?|sons?|daughters?)\s+(?:see|sees|saw|seeing|watch|watches|watching|witness\w*|notice\w*|catch\w*|find\w*)\b|\bchild witness\w*|\bwitness(?:ed)? by (?:her )?(?:kids|children)\b/g, () => K('witness', 'Child witness', e => !!e.child_witness || hasCat(e, ['walkin', 'pregnant-walkin']), /(kids?|child(ren)?|son|daughter)\W+(\w+\W+){0,3}?(see|sees|saw|watch\w*|witness\w*|notice\w*)/)),
+    R(/\b(?:couple|they|together)\b[^|]{0,20}?\b(?:kids|children|baby)\b|\b(?:kids|children) together\b|\bend(?:s|ing)? (?:up )?with (?:kids|children|a baby|a child)\b|\bhave kids at the end\b/g, () => K('kidsend', 'Couple has kids at end', e => isYes(e.kids_together))),
+    R(/\b(?:no|without) (?:kids|children|child)\b|\bchildless\b/g, () => K('nokids', 'No kids before', e => /^no/.test(low(e.kids_status)) || e.existing_kids === '0' || /^no/.test(low(e.pregnant_has_children)))),
+    R(/\bstep-?mo(?:m|ms|ther|thers)\b|\bstep-?mum\b|\bbonus moms?\b/g, () => K('stepmom', 'Stepmother', e => hasCat(e, ['stepmom-control', 'stepmom-pregnancy']), /step-?mo(m|ther)|stepmum|bonus mom/)),
+    R(/\bmother[- ]in[- ]law\b|\bsaas\b/g, () => K('mil', 'Mother-in-law', e => false, /mother[- ]in[- ]law|\bsaas\b/)),
+    R(/\b(?:already )?(?:has|have|having|with) (?:kids|children|a child|a son|a daughter|existing kids)\b(?: from before)?|\bkids from before\b|\bexisting (?:kids|children)\b|\bmothers?\b|\bmoms?\b|\bmums?\b|\bmommy\b|\bmummy\b|\bmommies\b|\bmama\b|\bmaa\b/g, () => K('mom', 'Mother / has kids', e => hasCat(e, MOM_CATS) || isYes(e.kids_status) || +e.existing_kids > 0 || isYes(e.pregnant_has_children), /\b(mother|mom|mum|mommy|mummy|mama)s?\b/)),
+    R(/\bwi(?:fe|ves)\b|\bmarried wom[ae]n\b|\bhousewi(?:fe|ves)\b|\bbrides?\b/g, () => K('wife', 'Wife', e => hasCat(e, WIFE_CATS) || isYes(e.already_married), /\b(house)?wi(fe|ves)\b|\bmarried\b/)),
+    R(/\blesbians?\b|\bsame[- ]sex\b|\btwo moms\b|\bwlw\b/g, () => K('lesbian', 'Lesbian couple', e => hasCat(e, ['lesbian-couple-pregnancy', 'pregnant-lesbian-intimate']), /lesbian|same-sex|two mothers|two moms/)),
+    R(/\b(?:rich|wealthy) (?:wife|wives|woman|women|lady|heiress|widow)\b|\bheiress\w*|\bmillionair\w*|\bbillionair\w*|\brich\b|\bwealthy\b/g, () => K('rich', 'Rich woman / heiress', e => hasCat(e, ['index-49', 'index-50', 'index-51', 'index-52', 'index-53', 'index-54']), /heiress|\brich\b|wealthy|millionair|billionair|fortune/)),
+    R(/\bwidow\w*|\bdivorc\w*/g, () => K('widow', 'Widow / divorcee', e => hasCat(e, ['widow-divorcee', 'widow-divorcee-remarry-pregnant']), /widow|divorc/)),
+    R(/\bsurroga\w*|\bivf\b/g, () => K('surrogate', 'Surrogacy / IVF', e => hasCat(e, ['index-55', 'index-59']), /surroga|ivf/)),
+    R(/\bpolygam\w*|\bco-?wives?\b|\bsecond wife\b/g, () => K('polygamy', 'Polygamy', e => hasCat(e, ['polygamy-hypnosis', 'polygamy-pregnancy']), /polygam|second wife|co-wife/)),
+    R(/\b(?:queens?|princess(?:es)?|royal\w*)\b/g, () => K('royal', 'Queen / princess', e => hasCat(e, ['royal-hypnosis']), /\bqueen|princess|royal/)),
+    R(/\bcults?\b|\bbrainwash\w*/g, () => K('cult', 'Cult / brainwashing', e => hasCat(e, ['cult']), /\bcult\b|brainwash/)),
+    R(/\bdevil\b|\bdeal with (?:a|the) (?:devil|demon)\b/g, () => K('devil', "Devil's deal", e => hasCat(e, ['devil-deal-pregnancy-hypnosis', 'devil-deal-pregnancy']), /devil/)),
+    R(/\b(?:age[- ]gap|young wife|older husband|older man)\b/g, () => K('agegap', 'Age-gap marriage', e => hasCat(e, ['agegap-marriage']), /age gap|older husband|older man/)),
+    R(/\b(?:cheat\w*|infidelity|affair)\b/g, () => K('cheat', 'Infidelity', e => hasCat(e, ['cheat-control', 'index-57']), /cheat|infidelity|affair/)),
+    R(/\bultrasound|\bscan\b|\bgender reveal\b/g, () => K('scan', 'Ultrasound / scan', e => hasCat(e, ['index-56', 'index-64', 'index-65', 'index-66']), /ultrasound|gender reveal/)),
+    R(/\bwalks? in\b|\bwalk-?in\b/g, () => K('walkin', 'Child walk-in', e => hasCat(e, ['walkin', 'pregnant-walkin']), /walks? in/)),
+    R(/\badults?(?: only| title| rated)?\b|\br-?rated\b|\bnc-?17\b|\b18\+|\berotic\w*|\bexplicit\b|\bsteamy\b/g, () => K('adult', 'Adult / R-rated', e => isYes(e.adult) || /^(r\b|nc-17|tv-ma)/i.test(e.rating || '') || hasCat(e, ['adult-hypnosis', 'erotic-mainstream', 'hardcore-adult', 'index-64', 'adult-pregnancy']))),
+    // who controls her
+    R(/\bstep-?(?:father|dad)\b/g, () => K('stepdad', 'Controller: stepfather', e => hasCat(e, ['stepfather-control', 'remarried-wife-control']), /step-?(father|dad)/)),
+    R(/\bhusbands?\b|\bspouse\b/g, () => K('husband', 'Controller: husband', e => hasCat(e, HUSB_CATS) || hyp(e, /husband/), /husband/)),
+    R(/\bboyfriend\b|\bex[- ]?(?:husband|boyfriend)\b|\bpartner\b/g, () => K('partner', 'Controller: partner / ex', e => hasCat(e, ['partner-control', 'mom-partner-control', 'partner-commissioned']) || hyp(e, /boyfriend|partner|\bex\b/), /boyfriend|partner/)),
+    R(/\b(?:hypno)?therapists?\b|\bpsychiatrists?\b|\bpsychologists?\b|\bshrinks?\b|\bcounsel+ors?\b|\bhypnotherap\w*/g, () => K('therapist', 'Controller: therapist', e => hasCat(e, ['therapist-wife', 'medical']) || hyp(e, /therap|psychiat|psycholog/), /therap|psychiat|psycholog/)),
+    R(/\bdoctors?\b|\bdr\b/g, () => K('doctor', 'Controller: doctor', e => hasCat(e, ['doctor-gain', 'medical']) || hyp(e, /doctor|\bdr\b|physician/), /doctor|\bdr\b/)),
+    R(/\bvillains?\b|\bbad guy\b/g, () => K('villain', 'Controller: villain', e => hasCat(e, ['human', 'villain']))),
+    R(/\btantri[ck]\w*|\bblack magic\b|\bwitchcraft\b|\bsorcer\w*/g, () => K('magic', 'Tantrik / black magic', e => hasCat(e, ['tantrik', 'villain', 'occult']), /tantri|black magic|witchcraft|sorcer/)),
+    // why
+    R(/\binherit\w*|\bestate\b/g, () => K('inherit', 'Motive: inheritance', e => gm(e, /inherit/), /inherit/)),
+    R(/\bmoney\b|\bwealth\b|\bfortune\b|\bproperty\b|\binsurance\b|\bgreed\b/g, () => K('money', 'Motive: money', e => gm(e, /money|inherit|fraud/) || hasCat(e, ['index-49']), /\bmoney\b|fortune|property|insurance|inherit/)),
+    R(/\bmarr(?:y|iage|ied|ies)\b|\bwedding\b/g, () => K('marriage', 'Marriage', e => gm(e, /marr/) || hasCat(e, ['hypnotized-to-marry', 'hypnotized-marriage', 'index-51', 'hypnotised-mother-marriage']) || isYes(e.married), /marr(y|iage|ies)|wedding/)),
+    R(/\blove potions?\b|\bpotions?\b|\blove spells?\b/g, () => K('potion', 'Love potion', e => hasCat(e, ['index-53']), /potion|love spell/)),
+    R(/\blove\b|\bromance\b|\bromantic\b/g, () => K('love', 'Love', e => gm(e, /love/) || hasCat(e, ['love', 'index-51', 'index-53']))),
+    R(/\bsex\w*|\blust\b|\bintima\w*|\bseduc\w*/g, () => K('sex', 'Sex / intimacy', e => gm(e, /sex/) || hasCat(e, ['hypno-intimacy', 'index-50', 'pregnant-sex', 'pregnant-intimate', 'pregnant-lesbian-intimate']), /\bsex|intima|seduc/)),
+    R(/\bcrimes?\b|\bcriminal\b|\bmurder\w*|\bkill\w*|\brobber\w*|\bheist\b|\bfraud\b/g, () => K('crime', 'Crime', e => gm(e, /crime|fraud|murder/) || hasCat(e, ['crime']), /crime|murder|robber|heist|fraud/)),
+    R(/\brevenge\b|\bvengeance\b/g, () => K('revenge', 'Revenge', e => gm(e, /revenge/) || hasCat(e, ['index-52']), /revenge|vengeance/)),
+    // how
+    R(/\bmind[- ]?control\w*/g, () => K('mind', 'Mind control', e => hasCat(e, HYP_CATS), /mind[- ]?control|brainwash/)),
+    R(/\bhypno\w*|\bmesmeri[sz]\w*|\btrance\w*|\bspell-?bound\b/g, () => K('hypno', 'Hypnotized', e => hasCat(e, HYP_CATS), /hypno|mesmer|trance/)),
+    R(/\bdevices?\b|\bgadgets?\b|\bmicrochip\w*|\bmachines?\b/g, () => K('device', 'Device / tech', e => hasCat(e, ['tech', 'scifi']), /device|chip|machine/)),
+    R(/\bvampir\w*/g, () => K('vampire', 'Vampire', e => hasCat(e, ['vampire']), /vampir|dracula/)),
+    R(/\bmagic\w*|\bspells?\b|\benchant\w*/g, () => K('spell', 'Magic / spell', e => hasCat(e, ['tantrik', 'fantasy', 'occult']), /magic|spell|enchant/)),
+    R(/\bdrug\w*|\bpills?\b/g, () => K('drug', 'Drugs', e => hasCat(e, ['tech']), /drug|pill/)),
+    R(/\bhigh[- ]confidence\b|\bverified\b|\bconfirmed\b|\breliable\b/g, () => K('conf', 'High confidence', e => /^high|verified|cross-checked/i.test((e.confidence_flag || '') + ' ' + (e.evidence || '')))),
+    // format / free (hard)
     R(/\bvertical(?: short)?(?: dramas?| series| shorts?| plays?)?\b|\bmicro-?dramas?\b|\bshort (?:dramas?|plays?)\b|\breelshort\b|\bdramabox\b|\bshortmax\b|\bflextv\b|\bgoodshort\b|\bnetshort\b|\bdramawave\b|\bhongguo\b|\bdouyin\b|\bkuaishou\b/g, () => C('fmt:vertical', 'Format: vertical short / microdrama', 'fmt', 'hard', e => e.format === 'vertical series' || /vertical|micro-?drama|short drama|reelshort|dramabox|shortmax|flextv|goodshort|netshort|dramawave|hongguo|douyin|kuaishou/.test(metaL(e)))),
-    R(/\bfree(?: link| links| to watch| streaming| online)?\b|\bwatch free\b/g, () => C('free', 'Has free link', 'free', 'hard', e => (e.watch_links || []).length > 0)),
-    R(/\bhigh[- ]confidence\b|\bverified\b|\bconfirmed\b|\breliable\b/g, () => C('conf', 'Confidence: high / verified', 'conf', 'soft', e => /^high|verified|cross-checked/i.test((e.confidence_flag || '') + ' ' + (e.evidence || '')))),
+    R(/\bfree (?:link|links|to watch|streaming|online)\b|\bwatch free\b|\bfree\b/g, () => C('free', 'Has free link', 'free', 'hard', e => (e.watch_links || []).length > 0)),
     R(/\b(?:web )?movies?\b|\b(?:feature |web )?films?\b|\bcinema\b/g, () => C('fmt:movie', 'Format: movie', 'fmt', 'hard', e => e.format === 'movie')),
     R(/\btv(?: series| shows?| dramas?)?\b|\b(?:web )?series\b|\bsoaps?(?: operas?)?\b|\bserials?\b|\bepisodes?\b|\bsitcoms?\b|\btelenovelas?\b|\bsinetron\b|\bdramas?\b/g, () => C('fmt:tv', 'Format: TV / soap / episode', 'fmt', 'hard', e => e.format === 'tv')),
     R(/\bshorts\b|\bshort films?\b/g, () => C('fmt:short', 'Format: shorts', 'fmt', 'hard', e => e.format === 'short'))];
   const NEG = [   // words that may be excluded with 'not' / 'no' / 'without' / 'excluding'
-    [/^possess\w*|^spirits?$|^ghosts?$|^djinn$/, 'possession / spirits', e => hasCat(e, ['spirit', 'pregnancy-evil', 'exwife-control']) || /possess/.test(e._hay)],
+    [/^possess\w*|^spirits?$|^ghosts?$|^djinn$/, 'possession / spirits', e => hasCat(e, ['spirit', 'pregnancy-evil', 'exwife-control']) || /possess/.test(e._txt)],
     [/^supernatural$|^demons?$|^demonic$|^occult$/, 'supernatural', e => hasCat(e, ['occult', 'spirit', 'pregnancy-evil', 'index-60', 'evil-female'])],
-    [/^vampir\w*$/, 'vampires', e => hasCat(e, ['vampire']) || /vampir/.test(e._hay)],
-    [/^magic\w*$|^black magic$|^tantri\w*$|^spells?$/, 'magic', e => hasCat(e, ['tantrik', 'fantasy', 'occult'])],
+    [/^vampir\w*$/, 'vampires', e => hasCat(e, ['vampire']) || /vampir/.test(e._txt)],
+    [/^magic\w*$|^tantri\w*$|^spells?$/, 'magic', e => hasCat(e, ['tantrik', 'fantasy', 'occult'])],
     [/^horror$/, 'horror', e => /horror/.test(metaL(e)) || hasCat(e, ['index-60'])],
     [/^comed\w*$/, 'comedy', e => /comedy/.test(metaL(e)) || hasCat(e, ['index-62'])],
     [/^hardcore$|^porn\w*$/, 'hardcore', e => hasCat(e, ['hardcore-adult']) || !!e.content_label],
     [/^fan[- ]?made$|^roleplay$/, 'fan-made', e => hasCat(e, ['fan-made-roleplay'])],
     [/^anim\w*$|^cartoons?$|^anime$/, 'animation', e => /anim|cartoon/.test(metaL(e))],
-    [/^aliens?$|^sci-?fi$/, 'sci-fi', e => hasCat(e, ['scifi'])],
-    [/^minors?$|^teens?$|^kids?$|^children$/, '__skip__', null]];
+    [/^aliens?$|^sci-?fi$/, 'sci-fi', e => hasCat(e, ['scifi'])]];
   let parsedFor = null, parsed = null;
   function parseQuery(q){
     if (q === parsedFor) return parsed;
     let s = ' ' + q.toLowerCase().replace(/[–—]/g, '-').replace(/[’‘`]/g, "'").replace(/[^\p{L}\p{N}'+\- ]+/gu, ' | ').replace(/\s+/g, ' ') + ' ';
     const crit = [], ids = new Set(); let lo = null, hi = null, yearHit = false;
     const push = c => { if (!ids.has(c.id)) { ids.add(c.id); crit.push(c); } };
-    // negations first: 'not possession', 'no vampires', 'without magic', 'excluding horror'
-    s = s.replace(/\b(?:not|no|non|without|excluding|exclude|except|minus)[- ]((?:black )?[\p{L}-]+)/gu, (m, w) => {
+    s = s.replace(/\b(?:not|no|non|without|excluding|exclude|except|minus)[- ]([\p{L}-]+)/gu, (m, w) => {
       const hit = NEG.find(([re]) => re.test(w)); if (!hit) return m;
-      if (!hit[2]) return m;   // e.g. 'no kids' is a kids-before criterion, not an exclusion
       push(C('not:' + hit[1], 'Exclude: ' + hit[1], 'not:' + hit[1], 'not', hit[2])); return ' | ';
     });
-    for (const [re, label, keys] of CAT_SYN) s = s.replace(new RegExp(re.source, 'g'), () => { push(C('cat:' + label, 'Category: ' + label, 'cat:' + label, 'soft', e => hasCat(e, keys))); return ' | '; });
-    for (const [ph, key] of catPhrases) if (s.includes(' ' + ph + ' ')) { s = s.split(' ' + ph + ' ').join(' | '); push(C('cat:' + key, 'Category: ' + (legendLabel[key] || key), 'cat:' + key, 'soft', e => e.categories.includes(key))); }
     for (const [label, qre, test] of COUNTRIES) s = s.replace(new RegExp(qre.source, 'g'), () => { push(C('geo:' + label, 'Country: ' + label, 'geo', 'hard', test)); return ' | '; });
-    for (const {re, mk} of RULES) s = s.replace(re, (...a) => { const r = mk(a); if (Array.isArray(r)) { yearHit = true; if (r[1] !== null) lo = lo === null ? r[1] : Math.min(lo, r[1]); if (r[2] !== null) hi = hi === null ? r[2] : Math.max(hi, r[2]); if (r[1] === null) lo = lo; } else push(r); return ' | '; });
+    for (const {re, mk} of RULES) s = s.replace(re, (...a) => { const r = mk(a); if (Array.isArray(r)) { yearHit = true; if (r[1] !== null) lo = lo === null ? r[1] : Math.min(lo, r[1]); if (r[2] !== null) hi = hi === null ? r[2] : Math.max(hi, r[2]); } else push(r); return ' | '; });
+    // category phrases taken from the site's own labels (whatever the concept rules did not already cover)
+    for (const [ph, key] of catPhrases) if (s.includes(' ' + ph + ' ')) { s = s.split(' ' + ph + ' ').join(' | '); push(K('cat:' + key, 'Category: ' + (legendLabel[key] || key), e => e.categories.includes(key))); }
     if (yearHit) { const L = lo, H = hi; push(C('year', 'Years: ' + (L !== null && H !== null ? (L === H ? L : L + '–' + H) : L !== null ? L + ' or later' : 'up to ' + H), 'year', 'hard', e => e._year !== null && (L === null || e._year >= L) && (H === null || e._year <= H))); }
     const text = [...new Set(s.split(/[\s|]+/).map(w => w.replace(/^[-']+|[-']+$/g, '')).filter(w => w.length >= 3 && !STOP.has(w) && !/^\d+$/.test(w)))];
     text.forEach(w => { const stem = w.length > 4 ? w.replace(/(ies|es|s)$/, '') : w;
       crit.push(C('text:' + w, '“' + w + '”', 'text:' + w, 'text', e => e._hay.includes(stem))); });
     parsedFor = q; parsed = crit; return crit;
   }
-  // smart mode: 3+ words with at least one recognised (non-text) criterion
-  const smartOn = () => !!state.q && state.q.split(/\s+/).length >= 3 && parseQuery(state.q).some(c => c.kind !== 'text');
+  // context mode whenever any recognised (non-text) term is present
+  const smartOn = () => !!state.q && parseQuery(state.q).some(c => c.kind !== 'text');
   const activeCrit = () => parseQuery(state.q).filter(c => !state.drop.has(c.id));
-  function smartScore(e){   // -1 = excluded; otherwise the number of soft / text criteria matched
-    const cs = activeCrit(), groups = {};
+  const idxs = (h, re) => { const g = new RegExp(re.source, 'g'), r = []; let m; while ((m = g.exec(h)) && r.length < 60) { r.push(m.index); if (!m[0]) g.lastIndex++; } return r; };
+  const near = (h, a, b, d) => { const A = idxs(h, a), B = idxs(h, b); return A.some(i => B.some(j => Math.abs(i - j) <= d)); };
+  // tier 0 = title match, 1 = every concept strong, 2 = every concept matched (some only in the text),
+  // 3 = all but one concept matched (only shown when tiers 1+2 are small); -1 = excluded
+  function tierOf(e, cs){
+    const groups = {};
     for (const c of cs) if (c.kind === 'hard') (groups[c.group] = groups[c.group] || []).push(c);
-    for (const g in groups) if (!groups[g].some(c => c.test(e))) return -1;
-    for (const c of cs) if (c.kind === 'not' && c.test(e)) return -1;
-    const soft = cs.filter(c => c.kind === 'soft'), text = cs.filter(c => c.kind === 'text');
-    const sOk = soft.filter(c => c.test(e)), tHit = text.filter(c => c.test(e)).length, sHit = sOk.length;
-    const need = soft.length >= 3 ? Math.ceil(soft.length / 2) : soft.length ? 1 : 0;
-    if (sHit < need) return -1;
-    if (!soft.length && !Object.keys(groups).length && text.length && !tHit) return -1;
-    // categories are the most specific hints, so they weigh double; leftover words count half
-    return sOk.reduce((n, c) => n + (c.group.startsWith('cat:') ? 2 : 1), 0) + tHit * 0.5;
+    for (const g in groups) if (!groups[g].some(c => c.test(e))) return [-1, 0];
+    for (const c of cs) if (c.kind === 'not' && c.test(e)) return [-1, 0];
+    const ks = cs.filter(c => c.kind === 'concept'), text = cs.filter(c => c.kind === 'text');
+    const tHit = text.filter(c => c.test(e)).length;
+    const words = (cs._titleWords || []);
+    const tl = low(e.title + ' ' + (e.subtitle || ''));
+    const titleHit = words.length && words.every(w => tl.includes(w));
+    if (!ks.length) return titleHit ? [0, 9] : (text.length && !tHit ? [-1, 0] : [1, tHit]);
+    const strong = [], weak = [], miss = [];
+    for (const c of ks) { if (c.test(e)) strong.push(c); else if (c.weak && c.weak.test(e._txt)) weak.push(c); else miss.push(c); }
+    // two or more concepts found only in the text must be mentioned close together
+    if (weak.length >= 2) for (const c of [...weak]) if (!weak.some(o => o !== c && near(e._txt, c.weak, o.weak, 160))) { weak.splice(weak.indexOf(c), 1); miss.push(c); }
+    const score = strong.length * 3 + weak.length + tHit * 0.5;
+    if (titleHit) return [0, score];
+    if (!miss.length) return [weak.length ? 2 : 1, score];
+    if (ks.length >= 3 && miss.length === 1 && strong.length >= 2) return [3, score];
+    return [-1, 0];
   }
+  let tierCache = {key: null};
+  function tierStats(cs){   // how many records reach tiers 1-2 for this query (ignoring the other UI filters)
+    const key = state.q + '|' + [...state.drop].join(',');
+    if (tierCache.key !== key) { let n = 0; for (const e of D.entries) { const t = tierOf(e, cs)[0]; if (t === 0 || t === 1 || t === 2) n++; } tierCache = {key, n}; }
+    return tierCache.n;
+  }
+  function smartScore(e){
+    const cs = activeCrit();
+    if (!cs._titleWords) {   // words a title would need to contain to count as a title match
+      const w = state.q.split(/[^\p{L}\p{N}']+/u).filter(x => x.length >= 3 && !STOP.has(x));
+      cs._titleWords = w.length ? w : [];
+    }
+    const [t, s] = tierOf(e, cs);
+    if (t === 3 && tierStats(cs) >= 15) { e._tier = -1; return -1; }
+    e._tier = t; return t < 0 ? -1 : s;
+  }
+  const TIER_LABEL = ['Title matches', 'Best matches: every term matched by the catalog’s own categories / fields', 'Near matches: some terms found only in the plot text', 'Partial matches: all but one term'];
   function renderChips(){
     const box = $('#chips');
     if (!smartOn()) { box.hidden = true; box.innerHTML = ''; return; }
@@ -253,8 +290,8 @@
     box.hidden = false;
     box.innerHTML = `<span class="chips-lbl">Understood as:</span>` + cs.map(c => {
       const off = state.drop.has(c.id);
-      return `<button type="button" class="chip ${c.kind}${off ? ' off' : ''}" data-chip="${esc(c.id)}" aria-pressed="${!off}" title="${off ? 'Dropped: click to use again' : (c.kind === 'hard' ? 'Filter' : c.kind === 'not' ? 'Exclusion' : 'Ranking hint') + ': click to drop'}">${c.kind === 'text' ? 'Text: ' : ''}${esc(c.label)} <span aria-hidden="true">${off ? '+' : '×'}</span></button>`; }).join('') +
-      `<span class="chips-help">Filters (solid) must match; the rest rank results (best match first).</span>`;
+      return `<button type="button" class="chip ${c.kind === 'concept' ? 'soft' : c.kind}${off ? ' off' : ''}" data-chip="${esc(c.id)}" aria-pressed="${!off}" title="${off ? 'Dropped: click to use again' : (c.kind === 'hard' ? 'Filter' : c.kind === 'not' ? 'Exclusion' : c.kind === 'text' ? 'Extra word (ranking only)' : 'Main term') + ': click to drop'}">${c.kind === 'text' ? 'Text: ' : ''}${esc(c.label)} <span aria-hidden="true">${off ? '+' : '×'}</span></button>`; }).join('') +
+      `<span class="chips-help">Solid chips filter; outlined chips are the main terms (best matches first). Click a chip to drop it.</span>`;
   }
   // year filter: one min–max range (dual-handle slider) whose bounds come from the data; the period
   // buckets are presets that move the slider ('custom' = any other range). Records without a year are
@@ -318,7 +355,7 @@
     const distinct = copies.filter(m => m.distinct_story).length;
     const copyRow = (m, i) => {
       const plot = m.summary ? esc(m.summary) : `<em>${m.index_title ? 'title-index listing only; the source gives no plot for this copy' : 'no plot in the source for this copy'}</em>`;
-      const extra = [m.character ? `<strong>Character:</strong> ${esc(m.character.replace(/^Character:\s*/i, ''))}` : '', (m.episodes || []).length ? `<strong>Episodes:</strong> ${m.episodes.map(x => esc(x.episode) + ' — ' + esc(x.gist)).join('; ')}` : '', m.pregnant_has_children ? `<strong>Already has children:</strong> ${esc(m.pregnant_has_children)}` : '', m.married ? `<strong>Marries her:</strong> ${esc(m.married)}` : '', m.already_married ? `<strong>Already married when hypnotized:</strong> ${esc(m.already_married)}` : '', m.pregnant_end ? `<strong>Pregnant by the end:</strong> ${esc(m.pregnant_end)}` : '', m.kids_together ? `<strong>Kids together:</strong> ${esc(m.kids_together)}` : '', m.kids_status ? `<strong>Already has children:</strong> ${esc(m.kids_status)}` : '', m.pregnancy_again ? `<strong>Pregnant again:</strong> ${esc(m.pregnancy_again)}` : '', m.rating ? `<strong>Rating:</strong> ${esc(m.rating)}` : '', m.evidence ? `<strong>${/^single source/i.test(m.evidence) ? 'Single source' : 'Sources cross-checked'}:</strong> ${esc(m.evidence.replace(/^single source\s*[—-]\s*/i, ''))}` : '', m.source_conflict ? `<strong>Source conflict:</strong> ${esc(m.source_conflict)}` : '', m.fit_note ? `<strong>Fit:</strong> ${esc(m.fit_note)}` : '', (m.tags || []).length ? `<strong>Tags:</strong> ${m.tags.map(esc).join(', ')}` : '', m.note ? `<strong>Note:</strong> ${esc(m.note)}` : '', (m.categories || []).length ? `<strong>Listed under:</strong> ${m.categories.map(c => esc(catLabel[c] || c)).join(', ')}` : '',
+      const extra = [m.character ? `<strong>Character:</strong> ${esc(m.character.replace(/^Character:\s*/i, ''))}` : '', (Array.isArray(m.episodes) ? m.episodes : []).length ? `<strong>Episodes:</strong> ${m.episodes.map(x => esc(x.episode) + ' — ' + esc(x.gist)).join('; ')}` : '', m.pregnant_has_children ? `<strong>Already has children:</strong> ${esc(m.pregnant_has_children)}` : '', m.married ? `<strong>Marries her:</strong> ${esc(m.married)}` : '', m.already_married ? `<strong>Already married when hypnotized:</strong> ${esc(m.already_married)}` : '', m.pregnant_end ? `<strong>Pregnant by the end:</strong> ${esc(m.pregnant_end)}` : '', m.kids_together ? `<strong>Kids together:</strong> ${esc(m.kids_together)}` : '', m.kids_status ? `<strong>Already has children:</strong> ${esc(m.kids_status)}` : '', m.pregnancy_again ? `<strong>Pregnant again:</strong> ${esc(m.pregnancy_again)}` : '', m.rating ? `<strong>Rating:</strong> ${esc(m.rating)}` : '', m.evidence ? `<strong>${/^single source/i.test(m.evidence) ? 'Single source' : 'Sources cross-checked'}:</strong> ${esc(m.evidence.replace(/^single source\s*[—-]\s*/i, ''))}` : '', m.source_conflict ? `<strong>Source conflict:</strong> ${esc(m.source_conflict)}` : '', m.fit_note ? `<strong>Fit:</strong> ${esc(m.fit_note)}` : '', (m.tags || []).length ? `<strong>Tags:</strong> ${m.tags.map(esc).join(', ')}` : '', m.note ? `<strong>Note:</strong> ${esc(m.note)}` : '', (m.categories || []).length ? `<strong>Listed under:</strong> ${m.categories.map(c => esc(catLabel[c] || c)).join(', ')}` : '',
         m.identifiers.length ? '' : '<span class="noid">no episode, date or alternate title given in the source</span>'].filter(Boolean).join(' · ');
       const links = (m.sources || []).length ? ` <span class="clinks">${m.sources.map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label || 'Source')} ↗</a>`).join(' ')}</span>` : '';
       return `<li class="${m.distinct_story ? 'distinct' : ''}"><span class="csrc" title="${esc(srcLabel[m.source])}">${esc(srcShort[m.source])}</span> <strong class="clabel">${esc(m.label)}</strong>${i === 0 ? ' <span class="cmain">shown above</span>' : ''} — <span class="cplot">${plot}</span>${extra ? `<span class="cextra">${extra}</span>` : ''}${links}</li>`;
@@ -347,7 +384,7 @@
       ${e.evidence ? `<p class="entry-note evidence${/^single source/i.test(e.evidence) ? ' single' : ''}"><strong>${/^single source/i.test(e.evidence) ? 'Single source' : 'Sources cross-checked'}:</strong> ${esc(e.evidence.replace(/^single source\s*[—-]\s*/i, ''))}</p>` : ''}
       ${e.source_conflict ? `<p class="entry-note conflict"><strong>Source conflict:</strong> ${esc(e.source_conflict)}</p>` : ''}
       ${e.fit_note ? `<p class="entry-note"><strong>Fit:</strong> ${esc(e.fit_note)}</p>` : ''}
-      ${(e.episodes || []).length ? `<div class="episodes"><strong>Episodes</strong><ul>${e.episodes.map(x => `<li><b>${esc(x.episode)}</b>${x.air_date ? ` <span class="epdate">(${esc(x.air_date)})</span>` : ''}${x.number_verified === false ? ' <em>episode number not verified</em>' : ''} — ${esc(x.gist)}</li>`).join('')}</ul></div>` : ''}
+      ${Array.isArray(e.episodes) && e.episodes.length ? `<div class="episodes"><strong>Episodes</strong><ul>${e.episodes.map(x => `<li><b>${esc(x.episode)}</b>${x.air_date ? ` <span class="epdate">(${esc(x.air_date)})</span>` : ''}${x.number_verified === false ? ' <em>episode number not verified</em>' : ''} — ${esc(x.gist)}</li>`).join('')}</ul></div>` : ''}
       ${e.pregnancy_outcome ? `<p class="entry-note"><strong>Pregnancy outcome:</strong> ${esc(e.pregnancy_outcome)}${e.pregnancy_note ? ' — ' + esc(e.pregnancy_note) : ''}</p>` : ''}
       ${watch}
       <div class="tags">${tags || appTags}${(e.tags || []).map(t => `<button type="button" class="tag reftag" data-tag="${esc(t)}" title="Reference tag — click to filter">#${esc(t)}</button>`).join('')}</div>
@@ -360,13 +397,19 @@
   function render(){
     const grid = $('#grid');
     const smart = smartOn();
-    const hits = D.entries.filter(matches).sort(smart && state.view === 'grid' ? (x, y) => (y._score - x._score) || byEntry(x, y) : byEntry);
+    const hits = D.entries.filter(matches).sort(smart && state.view === 'grid' ? (x, y) => (x._tier - y._tier) || (y._score - x._score) || byEntry(x, y) : byEntry);
     periodCounts(); renderChips();
     $('#count').textContent = `${hits.length} record${hits.length === 1 ? '' : 's'}` + (hits.length !== D.entries.length ? ` of ${D.entries.length}` : '');
     if (!hits.length){ grid.innerHTML = '<div class="empty">No records match these filters.</div>'; return; }
     let html = '';
     if (state.view === 'grid'){
-      html = hits.slice(0, state.limit).map(e => card(e)).join('');
+      if (smart) {   // tier dividers: title matches / best / near / partial
+        const per = {}; hits.forEach(e => { per[e._tier] = (per[e._tier] || 0) + 1; });
+        const multi = Object.keys(per).length > 1; let last = null;
+        html = hits.slice(0, state.limit).map(e => { let d = '';
+          if (multi && e._tier !== last) { last = e._tier; d = `<div class="tier tier${e._tier}" role="separator"><strong>${esc(TIER_LABEL[e._tier])}</strong> <span>${per[e._tier]} record${per[e._tier] === 1 ? '' : 's'}</span></div>`; }
+          return d + card(e); }).join('');
+      } else html = hits.slice(0, state.limit).map(e => card(e)).join('');
       if (hits.length > state.limit) html += `<div class="more-wrap"><button type="button" id="more">Show more (${hits.length - state.limit} remaining)</button></div>`;
     } else {
       const ok = new Set(hits.map(e => e.id)); const shown = new Set();
