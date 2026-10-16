@@ -3915,7 +3915,7 @@ window.CATALOG = {
    "description": "Titles and episodes found on streaming-service title pages (Netflix, Prime Video, Disney+, etc.)",
    "dropped": [],
    "check": {
-    "raw_count": 60,
+    "raw_count": 61,
     "ok": true
    },
    "status": "local"
@@ -3963,10 +3963,10 @@ window.CATALOG = {
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
   "official-yt-oct15": 45,
-  "streaming-oct15": 60
+  "streaming-oct15": 61
  },
- "raw_total": 5624,
- "entry_count": 2844,
+ "raw_total": 5625,
+ "entry_count": 2845,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -430948,6 +430948,67 @@ window.CATALOG = {
      "url": "https://www.plotexplained.com/movie/kooman-2022"
     }
    }
+  },
+  {
+   "id": 2979,
+   "title": "Pudhcha Paaul — \"Rupali Hypnotises Kalyani\"",
+   "subtitle": "",
+   "year": "2011–2016",
+   "meta": "",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "JioHotstar lists an episode titled \"Rupali hypnotises Kalyani\". Rupali, Kalyani's jealous cousin, schemes against her throughout the series.",
+   "character": "",
+   "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "yes (Wikipedia: Kalyani is married to Soham)",
+   "pregnant_end": "not stated",
+   "format": "tv episode",
+   "categories": [],
+   "sources": [],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:61"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:61": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+     "format": "tv episode",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "yes (Wikipedia: Kalyani is married to Soham)",
+     "mechanism": "",
+     "confidence_flag": "",
+     "summary": "JioHotstar lists an episode titled \"Rupali hypnotises Kalyani\". Rupali, Kalyani's jealous cousin, schemes against her throughout the series.",
+     "character": "",
+     "categories": [],
+     "title": "Pudhcha Paaul — \"Rupali Hypnotises Kalyani\"",
+     "year": "2011–2016",
+     "episode": "S31 E7 (JioHotstar listing)",
+     "country": "India",
+     "language": "Marathi",
+     "category": "indian-female-hypnosis",
+     "victim": "Kalyani Sardeshmukh",
+     "controller": "Rupali, her jealous cousin",
+     "source_name": "JioHotstar episode page; Wikipedia series article",
+     "url": "https://www.hotstar.com/in/shows/pudhcha-paaul/960/rupali-hypnotises-kalyani/1000057721/watch",
+     "url2": "https://en.wikipedia.org/wiki/Pudhcha_Paaul"
+    }
+   }
   }
  ],
  "sections": [
@@ -478014,7 +478075,8 @@ window.CATALOG = {
  ],
  "unplaced_entry_ids": [
   2976,
-  2978
+  2978,
+  2979
  ],
  "watch_links_count": 513
 };
