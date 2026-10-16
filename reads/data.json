@@ -4,22 +4,22 @@
   {
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 24
+   "entry_count": 31
   },
   {
    "key": "pregnant-variants",
    "label": "Pregnancy + mind control — variants and leads",
-   "entry_count": 9
+   "entry_count": 11
   },
   {
    "key": "occult",
    "label": "Demonic / occult control",
-   "entry_count": 6
+   "entry_count": 7
   },
   {
    "key": "human",
    "label": "Human-villain control",
-   "entry_count": 11
+   "entry_count": 15
   },
   {
    "key": "scifi",
@@ -29,7 +29,7 @@
   {
    "key": "fantasy",
    "label": "Fantasy enchantment",
-   "entry_count": 5
+   "entry_count": 7
   },
   {
    "key": "forced-obedience",
@@ -44,7 +44,7 @@
   {
    "key": "hardcore-adult",
    "label": "Hardcore / adult",
-   "entry_count": 25
+   "entry_count": 29
   },
   {
    "key": "fan-made-roleplay",
@@ -54,13 +54,16 @@
  ],
  "formats": {
   "Novel": 7,
-  "Comic book": 5,
+  "Comic book": 7,
   "Hentai manga": 4,
   "Hentai doujinshi": 10,
   "Hentai CG collection": 1,
   "Hentai doujinshi (parody)": 3,
   "Manhwa (webtoon)": 6,
-  "Adult web comic": 1
+  "Adult web comic": 1,
+  "Erotic novella (self-published)": 3,
+  "Erotic short-story series (self-published)": 1,
+  "Manhua (webtoon)": 1
  },
  "entries": [
   {
@@ -1202,6 +1205,231 @@
    "adult_basis": "tags: widow, milf",
    "content_label": "Hardcore / adult",
    "id": 37
+  },
+  {
+   "title": "Avengers West Coast #49 / Atlantis Attacks ('Bride of Set')",
+   "original_title": "Avengers West Coast #49; Avengers West Coast Annual #4",
+   "creator": "John Byrne",
+   "year": 1989,
+   "format": "Comic book",
+   "language": "English",
+   "publisher": "Marvel Comics",
+   "gist": "The Scarlet Witch, the Vision's wife, is brainwashed twice. First she serves the parasitic entity That Which Endures. Then, in the Atlantis Attacks crossover, she is made one of the seven brainwashed 'Brides of Set'.",
+   "where": "AWC #49; Atlantis Attacks Pt 12 (AWC Annual #4 'Gather Now Ye 7 Brides')",
+   "wife": "yes (the Vision's wife)",
+   "pregnant_end": "no",
+   "kids_together": "yes (twins Thomas and William, later revealed to be illusory)",
+   "kids_before": "yes",
+   "categories": [
+    "wife-hypnotized",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia: Scarlet Witch",
+     "url": "https://en.wikipedia.org/wiki/Scarlet_Witch"
+    },
+    {
+     "label": "Wikipedia: Atlantis Attacks",
+     "url": "https://en.wikipedia.org/wiki/Atlantis_Attacks"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "married adult",
+   "id": 38
+  },
+  {
+   "title": "Aquaman vol. 5 (Peter David run): Mera in the Netherworld",
+   "original_title": "Aquaman (1994 series)",
+   "creator": "Peter David",
+   "year": 1995,
+   "format": "Comic book",
+   "language": "English",
+   "publisher": "DC Comics",
+   "gist": "Aquaman's wife Mera is held in the Netherworld and brainwashed by Thanatos, an old enemy of her husband. She returns with a second son, 'AJ', whose father (Aquaman or Thanatos) is never made clear.",
+   "where": "Aquaman vol. 5 ('Return of the Queen' arc; issue numbers not verified)",
+   "wife": "yes (Aquaman's wife)",
+   "pregnant_end": "has a child, 'AJ', while held (father unclear)",
+   "kids_together": "unknown",
+   "kids_before": "yes (Arthur Jr.)",
+   "categories": [
+    "wife-hypnotized",
+    "fantasy",
+    "pregnant-variants"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia: Mera (character)",
+     "url": "https://en.wikipedia.org/wiki/Mera_(character)"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "married adult queen",
+   "id": 39
+  },
+  {
+   "title": "My Hypnotized Wife",
+   "original_title": "My Hypnotized Wife",
+   "creator": "Barbara Shumway",
+   "year": 2015,
+   "format": "Erotic novella (self-published)",
+   "language": "English",
+   "publisher": "Smashwords",
+   "gist": "A husband persuades his wife to try hypnosis for weight loss and secretly plants a command that she obey a hidden trigger.",
+   "where": "Whole work",
+   "wife": "yes",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "human",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "Goodreads",
+     "url": "https://www.goodreads.com/book/show/27865854-my-hypnotized-wife"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "long-married wife",
+   "content_label": "Hardcore / adult",
+   "id": 40
+  },
+  {
+   "title": "Exposing His Hypnotized BBW Wife",
+   "original_title": "Exposing His Hypnotized BBW Wife",
+   "creator": "Lexie Syrah",
+   "year": 2015,
+   "format": "Erotic novella (self-published)",
+   "language": "English",
+   "publisher": "Lexie Syrah",
+   "gist": "Eric has his wife Kim, married to him for ten years, under hypnotic control and uses it to exhibit her.",
+   "where": "Whole work",
+   "wife": "yes (married 10 years)",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "human",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "Goodreads",
+     "url": "https://www.goodreads.com/book/show/25945021-exposing-his-hypnotized-bbw-wife"
+    }
+   ],
+   "loose_fit": false,
+   "note": "The blurb mentions a 'young' salesman whose age isn't stated. He is not the person hypnotized.",
+   "adult_basis": "wife married 10 years",
+   "content_label": "Hardcore / adult",
+   "id": 41
+  },
+  {
+   "title": "The Barber Hypnotized My Wife to Crave BBC",
+   "original_title": "The Barber Hypnotized My Wife to Crave BBC",
+   "creator": "Brenda Brainjack",
+   "year": 2026,
+   "format": "Erotic novella (self-published)",
+   "language": "English",
+   "publisher": "Independently published",
+   "gist": "A barber's hypnotic suggestions reprogram both husband and wife; the wife, Arlina, becomes a 'hotwife' under his control.",
+   "where": "Whole work (43 pp.)",
+   "wife": "yes",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "human",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "Goodreads",
+     "url": "https://www.goodreads.com/book/show/252373494-the-barber-hypnotized-my-wife-to-crave-bbc"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "wife",
+   "content_label": "Hardcore / adult",
+   "id": 42
+  },
+  {
+   "title": "Hypnotized Wife (Episodes 1–3)",
+   "original_title": "Hypnotized Wife",
+   "creator": "Andy Mann",
+   "year": 2021,
+   "format": "Erotic short-story series (self-published)",
+   "language": "English",
+   "publisher": "self-published",
+   "gist": "Eric becomes obsessed with hypnotizing his wife Carol. His attempts fail, and she only pretends to be under because she loves him. Later episodes bring in another wife, Jamie.",
+   "where": "Episodes 1–3",
+   "wife": "yes",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "human",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "Goodreads Ep. 1",
+     "url": "https://www.goodreads.com/book/show/58754659-hypnotized-wife"
+    },
+    {
+     "label": "Goodreads Ep. 2",
+     "url": "https://www.goodreads.com/book/show/58754727-hypnotized-wife"
+    },
+    {
+     "label": "Goodreads Ep. 3",
+     "url": "https://www.goodreads.com/book/show/58754813-hypnotized-wife-3"
+    }
+   ],
+   "loose_fit": true,
+   "note": "The hypnosis is faked, so this is a loose fit.",
+   "adult_basis": "married couple",
+   "content_label": "Hardcore / adult",
+   "id": 43
+  },
+  {
+   "title": "Who Is the Wrong Bride?",
+   "original_title": "错嫁新娘 (Who Is the Wrong Bride?)",
+   "creator": "KaiYuan Comic / FanCiYuan / Yuanqidan Comics",
+   "year": 2018,
+   "format": "Manhua (webtoon)",
+   "language": "Chinese",
+   "publisher": "iQIYI Manhua; EN: WebComics",
+   "gist": "A woman becomes the ninth wife of a rumoured blood-drinking lord whose eight previous wives went mad or died. MangaUpdates tags the series with Hypnotism, Forced into Marriage and Pregnancy, but the source doesn't say who is hypnotized.",
+   "where": "142 chapters (complete); chapter for the hypnosis not verified",
+   "wife": "yes (ninth wife)",
+   "pregnant_end": "unknown (tagged Pregnancy)",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "fantasy",
+    "pregnant-variants"
+   ],
+   "sources": [
+    {
+     "label": "MangaUpdates (tags)",
+     "url": "https://www.mangaupdates.com/series/45583620835"
+    }
+   ],
+   "loose_fit": true,
+   "note": "Inclusion rests on tags only.",
+   "adult_basis": "married bride",
+   "id": 44
   }
  ],
  "dropped": [
@@ -1248,6 +1476,18 @@
   {
    "title": "How to Make a Family Using a Hypnosis App",
    "reason": "a 'family' whose members' ages aren't stated"
+  },
+  {
+   "title": "Uncanny X-Men #270–271 (Storm, Genosha)",
+   "reason": "Storm had been de-aged to a child at the time"
+  },
+  {
+   "title": "Jue Se Yi Fei, Hey Boss I Am Your New Wife (manhua)",
+   "reason": "the source doesn't say who is hypnotized or how old they are"
+  },
+  {
+   "title": "Webtoon/Tapas 'Hypnosis' Canvas comics",
+   "reason": "characters' ages aren't stated"
   }
  ]
 }
