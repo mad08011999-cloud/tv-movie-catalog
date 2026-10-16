@@ -4184,6 +4184,30 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "wife-hypnosis-oct15",
+   "label": "Wife hypnotized sweep (15 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/wife-hypnosis-oct15.json",
+   "description": "Adult women who are wives when hypnotized (hypnosis/mesmerism/trance suggestion; loose-fit tags for spell/drug/device). Adds already-married (d) with husband, plus pregnancy/kids fields where known.",
+   "dropped": [
+    "Possession/ghost cards (not hypnosis)",
+    "Stepford robot replacements",
+    "Gaslighting without hypnosis",
+    "Widows/fiancées at time of hypnosis",
+    "Ultrasound (2021): hypnosis began when Cyndi was 17 — minor, excluded",
+    "Passione (husband hypnotized)",
+    "Abracadabra (husband hypnotized)",
+    "El maleficio #62 (already_married=no)",
+    "Flintstones 'The Hypnotist' (Barney hypnotized)",
+    "El Señor de la Querencia 2024 (Lucrecia's marital status at hypnosis unverified)"
+   ],
+   "check": {
+    "raw_count": 109,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -4233,10 +4257,11 @@ window.CATALOG = {
   "hypnotized-female-oct15": 7,
   "indonesia-sinetron-oct15": 4,
   "hypno-turkey-oct15": 5,
-  "kr-cn-hypnosis": 79
+  "kr-cn-hypnosis": 79,
+  "wife-hypnosis-oct15": 109
  },
- "raw_total": 5724,
- "entry_count": 2870,
+ "raw_total": 5833,
+ "entry_count": 2875,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4320,7 +4345,7 @@ window.CATALOG = {
    "key": "partner-control",
    "label": "Female controlled by husband / boyfriend / ex-partner",
    "legend_label": "Female controlled by husband / boyfriend / ex-partner",
-   "entry_count": 41
+   "entry_count": 42
   },
   {
    "key": "india-control",
@@ -4674,7 +4699,7 @@ window.CATALOG = {
    "key": "family",
    "label": "Single mom remarries and gets pregnant with new partner",
    "legend_label": "Single mom remarries and gets pregnant with new partner",
-   "entry_count": 39
+   "entry_count": 40
   },
   {
    "key": "spirit",
@@ -4749,16 +4774,22 @@ window.CATALOG = {
    "entry_count": 33
   },
   {
+   "key": "wife-hypnotized",
+   "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
+   "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
+   "entry_count": 109
+  },
+  {
    "key": "therapist-wife",
    "label": "Wife hypnotized / controlled by a therapist",
    "legend_label": "Wife hypnotized / controlled by a therapist",
-   "entry_count": 15
+   "entry_count": 17
   },
   {
    "key": "another-man",
    "label": "Wife with children pregnant by another man",
    "legend_label": "Wife with children pregnant by another man",
-   "entry_count": 36
+   "entry_count": 37
   },
   {
    "key": "devil-deal-pregnancy",
@@ -8903,6 +8934,8 @@ window.CATALOG = {
    "pregnant_end": "not stated",
    "evidence": "2+ sources (IMDb, KOFIC — as cited by the existing catalog record; not re-fetched in this pass)",
    "fit_note": "No age gap — the therapist is not portrayed as an older man",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
    "format": "movie",
    "categories": [
     "love",
@@ -8915,7 +8948,8 @@ window.CATALOG = {
     "medical",
     "human",
     "doctor-gain",
-    "index-50"
+    "index-50",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -8980,7 +9014,8 @@ window.CATALOG = {
     "hypno-intimacy",
     "hypnosis-assault",
     "streaming-oct15",
-    "kr-cn-hypnosis"
+    "kr-cn-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:18",
@@ -8993,7 +9028,8 @@ window.CATALOG = {
     "hypno-intimacy:6",
     "hypnosis-assault:5",
     "streaming-oct15:2",
-    "kr-cn-hypnosis:8"
+    "kr-cn-hypnosis:8",
+    "wife-hypnosis-oct15:1"
    ],
    "index_only": false,
    "local_only": false,
@@ -9462,6 +9498,31 @@ window.CATALOG = {
      "kids_together_note": "No children are mentioned for Jin-su and her husband or for her and the doctor.",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:1",
+     "source": "wife-hypnosis-oct15",
+     "label": "The Hypnotized / Faceless Beauty (2004)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Hypnotized / Faceless Beauty",
+     "subtitle": "",
+     "year": "2004",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -9817,6 +9878,18 @@ window.CATALOG = {
      ],
      "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
      "note": ""
+    },
+    "wife-hypnosis-oct15:1": {
+     "title": "The Hypnotized / Faceless Beauty",
+     "year": "2004",
+     "format": "movie",
+     "match_title": "The Hypnotized / Faceless Beauty",
+     "match_year": "2004",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband"
     },
     "streaming-oct15:2": {
      "standalone": true,
@@ -11581,13 +11654,20 @@ window.CATALOG = {
    "character": "",
    "provenance": "",
    "note": "",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her doctor husband (Helen Thomas)",
    "format": "short",
    "categories": [
     "wife",
     "therapist-wife",
     "forced-obedience",
     "partner-control",
-    "index-54"
+    "index-54",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -11598,7 +11678,8 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:30",
@@ -11607,7 +11688,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla:154",
     "ig6qlxqxoxvcxla:269",
     "ig6qlxqxoxvcxla:301",
-    "ig6qlxqxoxvcxla:354"
+    "ig6qlxqxoxvcxla:354",
+    "wife-hypnosis-oct15:2"
    ],
    "index_only": false,
    "local_only": false,
@@ -11800,6 +11882,35 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Amore e ipnotismo",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:2",
+     "source": "wife-hypnosis-oct15",
+     "label": "Amore e ipnotismo (1912)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Amore e ipnotismo",
+     "subtitle": "",
+     "year": "1912",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her doctor husband (Helen Thomas)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -11924,6 +12035,22 @@ window.CATALOG = {
      "group": "Coercive / investigative",
      "confidence": "Strict match",
      "note": ""
+    },
+    "wife-hypnosis-oct15:2": {
+     "title": "Amore e ipnotismo",
+     "year": "1912",
+     "format": "short",
+     "match_title": "Amore e ipnotismo",
+     "match_year": "1912",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her doctor husband (Helen Thomas)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     }
    }
   },
@@ -13016,6 +13143,10 @@ window.CATALOG = {
    "method": "hypnosis (drug-assisted)",
    "kids_status": "no",
    "kids_note": "none in the plot",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Richard Courtland",
    "format": "movie",
    "categories": [
     "wife",
@@ -13024,7 +13155,8 @@ window.CATALOG = {
     "partner-commissioned",
     "love",
     "medical",
-    "index-49"
+    "index-49",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -13061,7 +13193,8 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "worldwide-hypnosis",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:34",
@@ -13070,7 +13203,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla:303",
     "ig6qlxqxoxvcxla:345",
     "worldwide-hypnosis:772",
-    "rich-wife-hypnosis:1"
+    "rich-wife-hypnosis:1",
+    "wife-hypnosis-oct15:3"
    ],
    "index_only": false,
    "local_only": false,
@@ -13350,6 +13484,33 @@ window.CATALOG = {
      "kids_note": "none in the plot",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:3",
+     "source": "wife-hypnosis-oct15",
+     "label": "Sleep, My Love (1948)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Sleep, My Love",
+     "subtitle": "",
+     "year": "1948",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_together": "no",
+     "pregnant_end": "no",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Richard Courtland",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -13576,6 +13737,20 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "no pregnancy for her in the cited plot sources",
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "wife-hypnosis-oct15:3": {
+     "title": "Sleep, My Love",
+     "year": "1948",
+     "format": "movie",
+     "match_title": "Sleep, My Love",
+     "match_year": "1948",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Richard Courtland",
+     "pregnant_end": "no",
+     "kids_together": "no"
     }
    },
    "watch_links": [
@@ -15891,10 +16066,21 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Loose fit: control via pills/treatment rather than pure hypnosis",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Andy (Megan's husband)",
    "format": "tv",
    "categories": [
     "wife",
-    "scifi"
+    "scifi",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -15922,12 +16108,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:42",
     "ig6qlxqxoxvcxla:310",
-    "worldwide-hypnosis:738"
+    "worldwide-hypnosis:738",
+    "wife-hypnosis-oct15:4"
    ],
    "index_only": false,
    "local_only": false,
@@ -16035,6 +16223,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:4",
+     "source": "wife-hypnosis-oct15",
+     "label": "Revenge of the Stepford Wives (1980)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Revenge of the Stepford Wives",
+     "subtitle": "",
+     "year": "1980",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Loose fit: control via pills/treatment rather than pure hypnosis",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Andy (Megan's husband)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -16105,6 +16326,26 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "wife-hypnosis-oct15:4": {
+     "title": "Revenge of the Stepford Wives",
+     "year": "1980",
+     "format": "tv",
+     "match_title": "Revenge of the Stepford Wives",
+     "match_year": "1980",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Andy (Megan's husband)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: control via pills/treatment rather than pure hypnosis"
     }
    }
   },
@@ -17347,6 +17588,16 @@ window.CATALOG = {
    "character": "",
    "provenance": "",
    "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "yes",
+   "kids_note": "Shawn-Douglas (son)",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Loose fit: conditioning plus implant/drug elements",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Bo Brady (Hope as 'Princess Gina')",
    "format": "tv",
    "categories": [
     "love",
@@ -17354,7 +17605,8 @@ window.CATALOG = {
     "forced-obedience",
     "royal-hypnosis",
     "cheat-control",
-    "another-man"
+    "another-man",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -17369,12 +17621,14 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:48",
     "ig6qlxqxoxvcxla:238",
-    "ig6qlxqxoxvcxla:244"
+    "ig6qlxqxoxvcxla:244",
+    "wife-hypnosis-oct15:5"
    ],
    "index_only": false,
    "local_only": false,
@@ -17463,6 +17717,39 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Days of Our Lives — Marlena / Kate",
      "matched_by": "alias"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:5",
+     "source": "wife-hypnosis-oct15",
+     "label": "Days of Our Lives (1998–99 / 2019–20)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Days of Our Lives",
+     "subtitle": "",
+     "year": "1998–99 / 2019–20",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "yes",
+     "kids_note": "Shawn-Douglas (son)",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Loose fit: conditioning plus implant/drug elements",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Bo Brady (Hope as 'Princess Gina')",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -17528,6 +17815,26 @@ window.CATALOG = {
      "group": "Secret affair pregnancy",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "wife-hypnosis-oct15:5": {
+     "title": "Days of Our Lives",
+     "year": "1998–99 / 2019–20",
+     "format": "tv",
+     "match_title": "Days of Our Lives",
+     "match_year": "1998–99 / 2019–20",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Bo Brady (Hope as 'Princess Gina')",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "yes",
+     "kids_note": "Shawn-Douglas (son)",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: conditioning plus implant/drug elements"
     }
    }
   },
@@ -18244,6 +18551,12 @@ window.CATALOG = {
    "character": "",
    "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
    "note": "",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
    "format": "movie",
    "categories": [
     "wife",
@@ -18252,7 +18565,8 @@ window.CATALOG = {
     "therapist-wife",
     "partner-control",
     "partner-commissioned",
-    "index-54"
+    "index-54",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -18272,7 +18586,8 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "india-catalog"
+    "india-catalog",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:52",
@@ -18285,7 +18600,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla:355",
     "ig6qlxqxoxvcxla:487",
     "ig6qlxqxoxvcxla:745",
-    "india-catalog:22"
+    "india-catalog:22",
+    "wife-hypnosis-oct15:6"
    ],
    "index_only": false,
    "local_only": false,
@@ -18591,6 +18907,35 @@ window.CATALOG = {
      "sources": [],
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:6",
+     "source": "wife-hypnosis-oct15",
+     "label": "Tee Ratra (2010)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Tee Ratra",
+     "subtitle": "",
+     "year": "2010",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -18791,6 +19136,22 @@ window.CATALOG = {
      "categories": [],
      "sources": [],
      "present": true
+    },
+    "wife-hypnosis-oct15:6": {
+     "title": "Tee Ratra",
+     "year": "2010",
+     "format": "movie",
+     "match_title": "Tee Ratra",
+     "match_year": "2010",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     }
    }
   },
@@ -19183,11 +19544,14 @@ window.CATALOG = {
    "evidence": "4 independent-ish sources (Hongguo, Duanjubaike, Sina recap, aggregator tags); official synopsis does not use the word hypnosis — hypnosis comes from the title, aggregator tags and viewer reviews",
    "source_conflict": "Some low-quality sites show a different synopsis for the same title (Lin Qian hypnotized by fiancé Gu Yan/friend Su Yao; hypnotist Gu Chen) — it does not match the Hongguo/Duanjubaike credits and is treated as unreliable. A Vietnamese listing says 2 episodes (vs 60), Russian listing says 60 × 3 min. Catalog card 56 has 'Date unverified'; now dated.",
    "fit_note": "Borderline: the title and tags name hypnosis, but no source says who hypnotizes her or describes any intimate scene.",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
    "format": "vertical series",
    "categories": [
     "wife",
     "remarried-wife-control",
-    "partner-control"
+    "partner-control",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -19255,7 +19619,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla",
     "round2",
     "round3",
-    "kr-cn-hypnosis"
+    "kr-cn-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:56",
@@ -19264,7 +19629,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla:394",
     "round2:3",
     "round3:3",
-    "kr-cn-hypnosis:7"
+    "kr-cn-hypnosis:7",
+    "wife-hypnosis-oct15:7"
    ],
    "index_only": false,
    "local_only": false,
@@ -19539,6 +19905,35 @@ window.CATALOG = {
      "pregnancy_note": "Backstory miscarriage (意外流产) that she investigates; she is not pregnant on screen.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:7",
+     "source": "wife-hypnosis-oct15",
+     "label": "被催眠的她 (2026)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "被催眠的她",
+     "subtitle": "",
+     "year": "2026",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: identity of the hypnotist not firmly established",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -19769,6 +20164,22 @@ window.CATALOG = {
      "confidence_flag": "Medium · platform pages",
      "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
      "note": ""
+    },
+    "wife-hypnosis-oct15:7": {
+     "title": "被催眠的她",
+     "year": "2026",
+     "format": "vertical series",
+     "match_title": "被催眠的她",
+     "match_year": "2026",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: identity of the hypnotist not firmly established"
     }
    }
   },
@@ -20103,12 +20514,15 @@ window.CATALOG = {
    "pregnant_end": "no",
    "evidence": "2+ independent sources (Wikipedia, Mental Block)",
    "fit_note": "Hypnosis is used to make her commit a crime — no intimate scene between them is documented",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Diijon",
    "format": "movie",
    "categories": [
     "wife",
     "partner-control",
     "crime",
-    "human"
+    "human",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -20126,14 +20540,16 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla",
     "worldwide-hypnosis",
     "rich-wife-hypnosis",
-    "older-man-hypnosis"
+    "older-man-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:58",
     "ig6qlxqxoxvcxla:305",
     "worldwide-hypnosis:930",
     "rich-wife-hypnosis:11",
-    "older-man-hypnosis:21"
+    "older-man-hypnosis:21",
+    "wife-hypnosis-oct15:8"
    ],
    "index_only": false,
    "local_only": false,
@@ -20317,6 +20733,31 @@ window.CATALOG = {
      "fit_note": "Hypnosis is used to make her commit a crime — no intimate scene between them is documented",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:8",
+     "source": "wife-hypnosis-oct15",
+     "label": "The Mask of Diijon (1946)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Mask of Diijon",
+     "subtitle": "",
+     "year": "1946",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Diijon",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -20450,6 +20891,18 @@ window.CATALOG = {
      ],
      "group": "Loose fit — outside the strict older-man criteria (Sep 2026)",
      "confidence_flag": "Loose fit"
+    },
+    "wife-hypnosis-oct15:8": {
+     "title": "The Mask of Diijon",
+     "year": "1946",
+     "format": "movie",
+     "match_title": "The Mask of Diijon",
+     "match_year": "1946",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Diijon"
     }
    }
   },
@@ -20475,12 +20928,17 @@ window.CATALOG = {
    "method": "hypnosis (gaze)",
    "kids_status": "no",
    "kids_note": "none in Feydeau's plot",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Ribadier (wife Angèle)",
    "format": "tv",
    "categories": [
     "wife",
     "partner-control",
     "cheat-control",
-    "index-50"
+    "index-50",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -20496,12 +20954,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:59",
     "ig6qlxqxoxvcxla:306",
-    "rich-wife-hypnosis:12"
+    "rich-wife-hypnosis:12",
+    "wife-hypnosis-oct15:9"
    ],
    "index_only": false,
    "local_only": false,
@@ -20609,6 +21069,33 @@ window.CATALOG = {
      "kids_note": "none in Feydeau's plot",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:9",
+     "source": "wife-hypnosis-oct15",
+     "label": "Le Système Ribadier (1975)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Le Système Ribadier",
+     "subtitle": "",
+     "year": "1975",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Ribadier (wife Angèle)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -20682,6 +21169,20 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "no pregnancy for her in the cited plot sources",
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "wife-hypnosis-oct15:9": {
+     "title": "Le Système Ribadier",
+     "year": "1975",
+     "format": "tv",
+     "match_title": "Le Système Ribadier",
+     "match_year": "1975",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Ribadier (wife Angèle)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated"
     }
    }
   },
@@ -20697,11 +21198,18 @@ window.CATALOG = {
    "character": "",
    "provenance": "",
    "note": "",
+   "kids_status": "yes",
+   "kids_note": "son Benjamin",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Erik Maria Bark (wife Simone)",
    "format": "movie",
    "categories": [
     "wife",
     "therapist-wife",
-    "partner-control"
+    "partner-control",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -20716,13 +21224,15 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:60",
     "ig6qlxqxoxvcxla:64",
     "ig6qlxqxoxvcxla:307",
-    "ig6qlxqxoxvcxla:356"
+    "ig6qlxqxoxvcxla:356",
+    "wife-hypnosis-oct15:10"
    ],
    "index_only": false,
    "local_only": false,
@@ -20843,6 +21353,35 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "The Hypnotist / Hypnotisören (2012)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:10",
+     "source": "wife-hypnosis-oct15",
+     "label": "The Hypnotist / Hypnotisören (2012)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Hypnotist / Hypnotisören",
+     "subtitle": "",
+     "year": "2012",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "yes",
+     "kids_note": "son Benjamin",
+     "kids_together": "no",
+     "pregnant_end": "no",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Erik Maria Bark (wife Simone)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -20915,6 +21454,22 @@ window.CATALOG = {
      "group": "Benevolent / therapeutic",
      "confidence": "Strict match",
      "note": ""
+    },
+    "wife-hypnosis-oct15:10": {
+     "title": "The Hypnotist / Hypnotisören",
+     "year": "2012",
+     "format": "movie",
+     "match_title": "The Hypnotist / Hypnotisören",
+     "match_year": "2012",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Erik Maria Bark (wife Simone)",
+     "pregnant_end": "no",
+     "kids_together": "no",
+     "kids_status": "yes",
+     "kids_note": "son Benjamin"
     }
    }
   },
@@ -28878,13 +29433,18 @@ window.CATALOG = {
    "method": "hypnosis",
    "kids_status": "yes",
    "kids_note": "2 daughters",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
    "child_witness": "seeing her children helps break Dr. Gregory's hold on her",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Mr. Livroy",
    "format": "short",
    "categories": [
     "mother",
     "forced-obedience",
     "adult-hypnosis",
-    "doctor-gain"
+    "doctor-gain",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -28896,14 +29456,16 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "mother-kids-hypnosis"
+    "mother-kids-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:99",
     "ig6qlxqxoxvcxla:45",
     "ig6qlxqxoxvcxla:270",
     "ig6qlxqxoxvcxla:768",
-    "mother-kids-hypnosis:16"
+    "mother-kids-hypnosis:16",
+    "wife-hypnosis-oct15:99"
    ],
    "index_only": false,
    "local_only": false,
@@ -29056,6 +29618,33 @@ window.CATALOG = {
      "child_witness": "seeing her children helps break Dr. Gregory's hold on her",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:99",
+     "source": "wife-hypnosis-oct15",
+     "label": "The Forces of Evil; or, The Dominant Will (1914)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Forces of Evil; or, The Dominant Will",
+     "subtitle": "",
+     "year": "1914",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Mr. Livroy",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -29155,6 +29744,20 @@ window.CATALOG = {
      "pregnancy_outcome": "unknown",
      "pregnancy_note": "the cited sources do not mention a pregnancy",
      "provenance": "Mother-hypnotized-in-front-of-her-children research pass (30 Sep 2026): worldwide search (Mental Block wiki, Wikipedia/de/ja episode tables, TV Tropes, fan wikis, soap and Indian-serial recap sites); strict hypnosis, mesmerism, hypnotic trance or hypnosis-like devices only; spirit/demonic/black-magic possession excluded; adult mothers only; the child must see her hypnotized or in the trance; no title where children witness sexual content."
+    },
+    "wife-hypnosis-oct15:99": {
+     "title": "The Forces of Evil; or, The Dominant Will",
+     "year": "1914",
+     "format": "short",
+     "match_title": "The Forces of Evil; or, The Dominant Will",
+     "match_year": "1914",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Mr. Livroy",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated"
     }
    }
   },
@@ -36412,13 +37015,16 @@ window.CATALOG = {
    "pregnant_end_note": "gives birth to the alien child before she is taken away",
    "evidence": "2+ independent sources (Wikipedia, Moria)",
    "fit_note": "Loose fit: hypnosis is investigative; the impregnation is by an alien beam, with no sexual assault by a man.",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: David Collins (wife Ann)",
    "format": "tv",
    "categories": [
     "pregnant-child",
     "pregnant-strict",
     "index-37",
     "pregnant",
-    "scifi"
+    "scifi",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -36438,13 +37044,15 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:140",
     "ig6qlxqxoxvcxla:838",
     "ig6qlxqxoxvcxla:859",
-    "hypnosis-assault-loose:22"
+    "hypnosis-assault-loose:22",
+    "wife-hypnosis-oct15:98"
    ],
    "index_only": false,
    "local_only": false,
@@ -36585,6 +37193,31 @@ window.CATALOG = {
      "fit_note": "Loose fit: hypnosis is investigative; the impregnation is by an alien beam, with no sexual assault by a man.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:98",
+     "source": "wife-hypnosis-oct15",
+     "label": "The Stranger Within (1974)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Stranger Within",
+     "subtitle": "",
+     "year": "1974",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: David Collins (wife Ann)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -36700,6 +37333,18 @@ window.CATALOG = {
      "catalog_ids": [
       146
      ]
+    },
+    "wife-hypnosis-oct15:98": {
+     "title": "The Stranger Within",
+     "year": "1974",
+     "format": "tv",
+     "match_title": "The Stranger Within",
+     "match_year": "1974",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: David Collins (wife Ann)"
     }
    }
   },
@@ -37095,6 +37740,8 @@ window.CATALOG = {
    "pregnant_end": "not stated",
    "evidence": "2+ independent sources (Wikipedia, Screen Rant, Den of Geek)",
    "fit_note": "Loose: only Screen Rant mentions a dream of him lying with her; no consummated scene documented",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Gina's husband",
    "format": "movie",
    "categories": [
     "pregnancy-adjacent",
@@ -37104,7 +37751,8 @@ window.CATALOG = {
     "love",
     "medical",
     "doctor-gain",
-    "index-48"
+    "index-48",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -37143,7 +37791,8 @@ window.CATALOG = {
     "worldwide-hypnosis",
     "hypnotized-love",
     "older-man-hypnosis",
-    "streaming-oct15"
+    "streaming-oct15",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:143",
@@ -37157,7 +37806,8 @@ window.CATALOG = {
     "hypnotized-love:7",
     "older-man-hypnosis:13",
     "streaming-oct15:3",
-    "streaming-oct15:22"
+    "streaming-oct15:22",
+    "wife-hypnosis-oct15:11"
    ],
    "index_only": false,
    "local_only": false,
@@ -37548,6 +38198,31 @@ window.CATALOG = {
      "pregnant_end": "not stated",
      "distinct_story": false,
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:11",
+     "source": "wife-hypnosis-oct15",
+     "label": "Hypnotic (2021)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Hypnotic",
+     "subtitle": "",
+     "year": "2021",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Gina's husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -37781,6 +38456,18 @@ window.CATALOG = {
      "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
      "note": "",
      "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
+    },
+    "wife-hypnosis-oct15:11": {
+     "title": "Hypnotic",
+     "year": "2021",
+     "format": "movie",
+     "match_title": "Hypnotic",
+     "match_year": "2021",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Gina's husband"
     },
     "streaming-oct15:3": {
      "standalone": true,
@@ -55002,11 +55689,16 @@ window.CATALOG = {
    ],
    "method": "hypnosis",
    "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Count Told (wife Countess Told)",
    "format": "movie",
    "categories": [
     "human",
     "adult-hypnosis",
-    "index-50"
+    "index-50",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -55022,12 +55714,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:227",
     "ig6qlxqxoxvcxla:533",
-    "rich-wife-hypnosis:15"
+    "rich-wife-hypnosis:15",
+    "wife-hypnosis-oct15:101"
    ],
    "index_only": false,
    "local_only": false,
@@ -55130,6 +55824,33 @@ window.CATALOG = {
      "kids_status": "no",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:101",
+     "source": "wife-hypnosis-oct15",
+     "label": "Dr. Mabuse the Gambler (1922)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dr. Mabuse the Gambler",
+     "subtitle": "",
+     "year": "1922",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_together": "no",
+     "pregnant_end": "no",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Count Told (wife Countess Told)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -55198,6 +55919,20 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "no pregnancy for her in the cited plot sources",
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "wife-hypnosis-oct15:101": {
+     "title": "Dr. Mabuse the Gambler",
+     "year": "1922",
+     "format": "movie",
+     "match_title": "Dr. Mabuse the Gambler",
+     "match_year": "1922",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Count Told (wife Countess Told)",
+     "pregnant_end": "no",
+     "kids_together": "no"
     }
    },
    "watch_links": [
@@ -55468,6 +56203,10 @@ window.CATALOG = {
    "method": "hypnosis (post-hypnotic suggestion)",
    "kids_status": "no",
    "kids_note": "none in the plot",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: William Sutton (wife Ann)",
    "format": "movie",
    "categories": [
     "human",
@@ -55476,7 +56215,8 @@ window.CATALOG = {
     "adult-hypnosis",
     "crime",
     "index-48",
-    "index-49"
+    "index-49",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -55521,7 +56261,8 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "worldwide-hypnosis",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:229",
@@ -55533,7 +56274,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla:353",
     "ig6qlxqxoxvcxla:537",
     "worldwide-hypnosis:1051",
-    "rich-wife-hypnosis:2"
+    "rich-wife-hypnosis:2",
+    "wife-hypnosis-oct15:12"
    ],
    "index_only": false,
    "local_only": false,
@@ -55900,6 +56642,33 @@ window.CATALOG = {
      "kids_note": "none in the plot",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:12",
+     "source": "wife-hypnosis-oct15",
+     "label": "Whirlpool (1949)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Whirlpool",
+     "subtitle": "",
+     "year": "1949",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_together": "no",
+     "pregnant_end": "no",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: William Sutton (wife Ann)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -56174,6 +56943,20 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "no pregnancy for her in the cited plot sources",
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "wife-hypnosis-oct15:12": {
+     "title": "Whirlpool",
+     "year": "1949",
+     "format": "movie",
+     "match_title": "Whirlpool",
+     "match_year": "1949",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: William Sutton (wife Ann)",
+     "pregnant_end": "no",
+     "kids_together": "no"
     }
    }
   },
@@ -57628,10 +58411,17 @@ window.CATALOG = {
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "kids_status": "yes",
+   "kids_note": "daughter Krystina",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Blake Carrington (wife Krystle)",
    "format": "movie",
    "categories": [
     "human",
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -57642,11 +58432,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:237",
-    "ig6qlxqxoxvcxla:546"
+    "ig6qlxqxoxvcxla:546",
+    "wife-hypnosis-oct15:13"
    ],
    "index_only": false,
    "local_only": false,
@@ -57704,6 +58496,35 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Dynasty: The Reunion (1991 TV movie)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:13",
+     "source": "wife-hypnosis-oct15",
+     "label": "Dynasty: The Reunion (1991)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dynasty: The Reunion",
+     "subtitle": "",
+     "year": "1991",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "yes",
+     "kids_note": "daughter Krystina",
+     "kids_together": "no",
+     "pregnant_end": "no",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Blake Carrington (wife Krystle)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -57734,6 +58555,22 @@ window.CATALOG = {
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "wife-hypnosis-oct15:13": {
+     "title": "Dynasty: The Reunion",
+     "year": "1991",
+     "format": "movie",
+     "match_title": "Dynasty: The Reunion",
+     "match_year": "1991",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Blake Carrington (wife Krystle)",
+     "pregnant_end": "no",
+     "kids_together": "no",
+     "kids_status": "yes",
+     "kids_note": "daughter Krystina"
     }
    }
   },
@@ -59177,23 +60014,36 @@ window.CATALOG = {
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Loose fit: drug-induced suggestion",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Dylan McAvoy (wife Sharon)",
    "format": "tv",
    "categories": [
     "human",
     "another-man",
-    "family"
+    "family",
+    "wife-hypnotized"
    ],
    "sources": [],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:244",
     "ig6qlxqxoxvcxla:246",
     "ig6qlxqxoxvcxla:414",
-    "ig6qlxqxoxvcxla:553"
+    "ig6qlxqxoxvcxla:553",
+    "wife-hypnosis-oct15:14"
    ],
    "index_only": false,
    "local_only": false,
@@ -59288,6 +60138,39 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "The Young and the Restless (2015–16)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:14",
+     "source": "wife-hypnosis-oct15",
+     "label": "The Young and the Restless (2015–16)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Young and the Restless",
+     "subtitle": "",
+     "year": "2015–16",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Loose fit: drug-induced suggestion",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Dylan McAvoy (wife Sharon)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -59324,6 +60207,26 @@ window.CATALOG = {
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "wife-hypnosis-oct15:14": {
+     "title": "The Young and the Restless",
+     "year": "2015–16",
+     "format": "tv",
+     "match_title": "The Young and the Restless",
+     "match_year": "2015–16",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Dylan McAvoy (wife Sharon)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: drug-induced suggestion"
     }
    }
   },
@@ -61494,11 +62397,22 @@ window.CATALOG = {
    "note": "Only Mina qualifies for this category; Lucy has no established partner in the 1958 film. The seduction detail rests on specialist fandom wikis rather than a higher-authority plot source.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Loose fit: vampiric mesmerism",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Arthur Holmwood (wife Mina)",
    "format": "movie",
    "categories": [
     "vampire",
     "cheat-control",
-    "human"
+    "human",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -61518,14 +62432,16 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:255",
     "ig6qlxqxoxvcxla:31",
     "ig6qlxqxoxvcxla:230",
     "ig6qlxqxoxvcxla:566",
-    "worldwide-hypnosis:432"
+    "worldwide-hypnosis:432",
+    "wife-hypnosis-oct15:15"
    ],
    "index_only": false,
    "local_only": false,
@@ -61679,6 +62595,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:15",
+     "source": "wife-hypnosis-oct15",
+     "label": "Horror of Dracula (1958)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Horror of Dracula",
+     "subtitle": "",
+     "year": "1958",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Loose fit: vampiric mesmerism",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Arthur Holmwood (wife Mina)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -61775,6 +62724,26 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "wife-hypnosis-oct15:15": {
+     "title": "Horror of Dracula",
+     "year": "1958",
+     "format": "movie",
+     "match_title": "Horror of Dracula",
+     "match_year": "1958",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Arthur Holmwood (wife Mina)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: vampiric mesmerism"
     }
    }
   },
@@ -62037,11 +63006,22 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Loose fit: vampiric mesmerism",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Gerald Harcourt (wife Marianne)",
    "format": "movie",
    "categories": [
     "vampire",
     "human",
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -62061,12 +63041,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:257",
     "ig6qlxqxoxvcxla:568",
-    "worldwide-hypnosis:513"
+    "worldwide-hypnosis:513",
+    "wife-hypnosis-oct15:16"
    ],
    "index_only": false,
    "local_only": false,
@@ -62167,6 +63149,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:16",
+     "source": "wife-hypnosis-oct15",
+     "label": "Kiss of the Vampire (1963)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Kiss of the Vampire",
+     "subtitle": "",
+     "year": "1963",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Loose fit: vampiric mesmerism",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Gerald Harcourt (wife Marianne)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -62233,6 +63248,26 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "wife-hypnosis-oct15:16": {
+     "title": "Kiss of the Vampire",
+     "year": "1963",
+     "format": "movie",
+     "match_title": "Kiss of the Vampire",
+     "match_year": "1963",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Gerald Harcourt (wife Marianne)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: vampiric mesmerism"
     }
    },
    "watch_links": [
@@ -78240,23 +79275,91 @@ window.CATALOG = {
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "yes",
+   "kids_note": "James and Phillipa",
+   "kids_together": "yes — James and Phillipa (born before the inception)",
+   "pregnant_end": "no",
+   "fit_note": "Loose fit: idea implanted via dream-sharing, not hypnosis",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Dom Cobb (wife Mal)",
    "format": "movie",
    "categories": [
-    "scifi"
+    "scifi",
+    "wife-hypnotized"
    ],
    "sources": [],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "xla62ucxbx02u5:372"
+    "xla62ucxbx02u5:372",
+    "wife-hypnosis-oct15:102"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:372",
+    "source": "xla62ucxbx02u5",
+    "label": "Inception (2010)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Inception",
+    "subtitle": "",
+    "year": "2010",
+    "meta": "Film · USA/UK",
+    "summary": "Cobb implants Mal with the idea that her world isn't real, a conviction that survives waking and kills her.",
+    "character": "",
+    "note": "",
+    "mechanism": "Sci-fi / alien / technological control",
+    "confidence_flag": "Research report · web-verified",
+    "categories": [
+     "scifi"
+    ],
+    "sources": [],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:102",
+     "source": "wife-hypnosis-oct15",
+     "label": "Inception (2010)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Inception",
+     "subtitle": "",
+     "year": "2010",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "yes",
+     "kids_note": "James and Phillipa",
+     "kids_together": "yes — James and Phillipa (born before the inception)",
+     "pregnant_end": "no",
+     "fit_note": "Loose fit: idea implanted via dream-sharing, not hypnosis",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Dom Cobb (wife Mal)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:372": {
      "t": "Inception",
@@ -78270,6 +79373,26 @@ window.CATALOG = {
      "flag": "Research report · web-verified",
      "s": "Cobb implants Mal with the idea that her world isn't real, a conviction that survives waking and kills her.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
+    },
+    "wife-hypnosis-oct15:102": {
+     "title": "Inception",
+     "year": "2010",
+     "format": "movie",
+     "match_title": "Inception",
+     "match_year": "2010",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Dom Cobb (wife Mal)",
+     "pregnant_end": "no",
+     "kids_together": "yes — James and Phillipa (born before the inception)",
+     "kids_status": "yes",
+     "kids_note": "James and Phillipa",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: idea implanted via dream-sharing, not hypnosis"
     }
    }
   },
@@ -80990,12 +82113,19 @@ window.CATALOG = {
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: the hero (his wife)",
    "format": "movie",
    "categories": [
     "fantasy",
     "forced-obedience",
     "adult-hypnosis",
-    "index-48"
+    "index-48",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -81010,12 +82140,14 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:405",
     "ig6qlxqxoxvcxla:131",
-    "ig6qlxqxoxvcxla:295"
+    "ig6qlxqxoxvcxla:295",
+    "wife-hypnosis-oct15:17"
    ],
    "index_only": false,
    "local_only": false,
@@ -81102,6 +82234,35 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Fallait pas! (1996)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:17",
+     "source": "wife-hypnosis-oct15",
+     "label": "Fallait pas ! (1996)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Fallait pas !",
+     "subtitle": "",
+     "year": "1996",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: the hero (his wife)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -81156,6 +82317,22 @@ window.CATALOG = {
      "group": "Disputed",
      "confidence": "Disputed",
      "note": ""
+    },
+    "wife-hypnosis-oct15:17": {
+     "title": "Fallait pas !",
+     "year": "1996",
+     "format": "movie",
+     "match_title": "Fallait pas !",
+     "match_year": "1996",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: the hero (his wife)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     }
    }
   },
@@ -93509,9 +94686,16 @@ window.CATALOG = {
    "character": "",
    "provenance": "",
    "note": "",
+   "kids_status": "yes",
+   "kids_note": "daughter Bonnie",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Ralph White (wife Eve)",
    "format": "movie",
    "categories": [
-    "therapist-wife"
+    "therapist-wife",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -93528,12 +94712,14 @@ window.CATALOG = {
    ],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:483",
     "ig6qlxqxoxvcxla:65",
-    "ig6qlxqxoxvcxla:357"
+    "ig6qlxqxoxvcxla:357",
+    "wife-hypnosis-oct15:18"
    ],
    "index_only": false,
    "local_only": false,
@@ -93626,6 +94812,35 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "The Three Faces of Eve (1957)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:18",
+     "source": "wife-hypnosis-oct15",
+     "label": "The Three Faces of Eve (1957)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Three Faces of Eve",
+     "subtitle": "",
+     "year": "1957",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "yes",
+     "kids_note": "daughter Bonnie",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Ralph White (wife Eve)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -93683,6 +94898,22 @@ window.CATALOG = {
      "group": "Benevolent / therapeutic",
      "confidence": "Strict match",
      "note": ""
+    },
+    "wife-hypnosis-oct15:18": {
+     "title": "The Three Faces of Eve",
+     "year": "1957",
+     "format": "movie",
+     "match_title": "The Three Faces of Eve",
+     "match_year": "1957",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Ralph White (wife Eve)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "yes",
+     "kids_note": "daughter Bonnie"
     }
    }
   },
@@ -96373,6 +97604,10 @@ window.CATALOG = {
    "method": "hypnotherapy misuse (memory manipulation)",
    "kids_status": "yes",
    "kids_note": "1 daughter, Jordan",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Otto",
    "format": "tv",
    "categories": [
     "remarried-wife-control",
@@ -96380,7 +97615,8 @@ window.CATALOG = {
     "therapist-wife",
     "medical",
     "mother",
-    "crime"
+    "crime",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -96409,14 +97645,16 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "worldwide-hypnosis",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:504",
     "ig6qlxqxoxvcxla:69",
     "ig6qlxqxoxvcxla:397",
     "worldwide-hypnosis:615",
-    "rich-wife-hypnosis:13"
+    "rich-wife-hypnosis:13",
+    "wife-hypnosis-oct15:19"
    ],
    "index_only": false,
    "local_only": false,
@@ -96620,6 +97858,33 @@ window.CATALOG = {
      "kids_note": "1 daughter, Jordan",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:19",
+     "source": "wife-hypnosis-oct15",
+     "label": "My Husband's Deadly Past (2020)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "My Husband's Deadly Past",
+     "subtitle": "",
+     "year": "2020",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Otto",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -96774,6 +98039,20 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "no pregnancy for her in the cited plot sources",
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "wife-hypnosis-oct15:19": {
+     "title": "My Husband's Deadly Past",
+     "year": "2020",
+     "format": "tv",
+     "match_title": "My Husband's Deadly Past",
+     "match_year": "2020",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Otto",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated"
     }
    }
   },
@@ -112420,10 +113699,17 @@ window.CATALOG = {
    "character": "",
    "provenance": "",
    "note": "Conflicting synopsis readings: retained as a clearly labeled lead rather than an airtight match.",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Dr. Damon (wife Anita)",
    "format": "tv",
    "categories": [
     "forced-obedience",
-    "partner-control"
+    "partner-control",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -112442,12 +113728,14 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:600",
     "ig6qlxqxoxvcxla:296",
-    "ig6qlxqxoxvcxla:327"
+    "ig6qlxqxoxvcxla:327",
+    "wife-hypnosis-oct15:20"
    ],
    "index_only": false,
    "local_only": false,
@@ -112537,6 +113825,35 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "The Vise (1954)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:20",
+     "source": "wife-hypnosis-oct15",
+     "label": "The Vise (1954)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Vise",
+     "subtitle": "",
+     "year": "1954",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Dr. Damon (wife Anita)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -112584,6 +113901,22 @@ window.CATALOG = {
      "group": "Current husband — disputed",
      "confidence": "Disputed",
      "note": ""
+    },
+    "wife-hypnosis-oct15:20": {
+     "title": "The Vise",
+     "year": "1954",
+     "format": "tv",
+     "match_title": "The Vise",
+     "match_year": "1954",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Dr. Damon (wife Anita)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     }
    }
   },
@@ -112599,10 +113932,17 @@ window.CATALOG = {
    "character": "",
    "provenance": "",
    "note": "",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Jones",
    "format": "short",
    "categories": [
     "forced-obedience",
-    "partner-control"
+    "partner-control",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -112613,12 +113953,14 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:601",
     "ig6qlxqxoxvcxla:46",
-    "ig6qlxqxoxvcxla:271"
+    "ig6qlxqxoxvcxla:271",
+    "wife-hypnosis-oct15:21"
    ],
    "index_only": false,
    "local_only": false,
@@ -112704,6 +114046,35 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "He Learns the Trick of Mesmerism (1909)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:21",
+     "source": "wife-hypnosis-oct15",
+     "label": "He Learns the Trick of Mesmerism (1909)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "He Learns the Trick of Mesmerism",
+     "subtitle": "",
+     "year": "1909",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Jones",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -112756,6 +114127,22 @@ window.CATALOG = {
      "group": "Husband / lover / partner / domestic",
      "confidence": "Stronger case",
      "note": ""
+    },
+    "wife-hypnosis-oct15:21": {
+     "title": "He Learns the Trick of Mesmerism",
+     "year": "1909",
+     "format": "short",
+     "match_title": "He Learns the Trick of Mesmerism",
+     "match_year": "1909",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Jones",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     }
    }
   },
@@ -112782,12 +114169,15 @@ window.CATALOG = {
    "pregnant_end_note": "no pregnancy in any review or plot summary",
    "evidence": "2+ independent sources (Wikipedia, The Wee Review, Hollywood Reporter)",
    "fit_note": "Age gap implied (middle-aged widower vs young couple); exact ages not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Simon (wife Linn)",
    "format": "movie",
    "categories": [
     "forced-obedience",
     "hypno-intimacy",
     "adult-hypnosis",
-    "tech"
+    "tech",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -112809,7 +114199,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla",
     "older-man-hypnosis",
     "hypno-intimacy",
-    "hypnosis-assault"
+    "hypnosis-assault",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:602",
@@ -112817,7 +114208,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla:272",
     "older-man-hypnosis:3",
     "hypno-intimacy:3",
-    "hypnosis-assault:4"
+    "hypnosis-assault:4",
+    "wife-hypnosis-oct15:22"
    ],
    "index_only": false,
    "local_only": false,
@@ -113039,6 +114431,31 @@ window.CATALOG = {
      "evidence": "2+ independent sources (Wikipedia, The Wee Review, Hollywood Reporter)",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:22",
+     "source": "wife-hypnosis-oct15",
+     "label": "LFO (2013)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "LFO",
+     "subtitle": "",
+     "year": "2013",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Simon (wife Linn)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -113209,6 +114626,18 @@ window.CATALOG = {
      "catalog_ids": [
       605
      ]
+    },
+    "wife-hypnosis-oct15:22": {
+     "title": "LFO",
+     "year": "2013",
+     "format": "movie",
+     "match_title": "LFO",
+     "match_year": "2013",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Simon (wife Linn)"
     }
    },
    "watch_links": [
@@ -115558,9 +116987,20 @@ window.CATALOG = {
    "character": "",
    "provenance": "",
    "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "no",
+   "kids_note": "no",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Loose fit: witchcraft trance framed as control",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Norman Taylor (wife Tansy)",
    "format": "movie",
    "categories": [
-    "forced-obedience"
+    "forced-obedience",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -115575,11 +117015,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:612",
-    "ig6qlxqxoxvcxla:293"
+    "ig6qlxqxoxvcxla:293",
+    "wife-hypnosis-oct15:23"
    ],
    "index_only": false,
    "local_only": false,
@@ -115640,6 +117082,39 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Night of the Eagle (1962)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:23",
+     "source": "wife-hypnosis-oct15",
+     "label": "Night of the Eagle (1962)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Night of the Eagle",
+     "subtitle": "",
+     "year": "1962",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "no",
+     "kids_note": "no",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Loose fit: witchcraft trance framed as control",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Norman Taylor (wife Tansy)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -115673,6 +117148,26 @@ window.CATALOG = {
      "group": "Mechanism variants",
      "confidence": "Variant",
      "note": ""
+    },
+    "wife-hypnosis-oct15:23": {
+     "title": "Night of the Eagle",
+     "year": "1962",
+     "format": "movie",
+     "match_title": "Night of the Eagle",
+     "match_year": "1962",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Norman Taylor (wife Tansy)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "no",
+     "kids_note": "no",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: witchcraft trance framed as control"
     }
    }
   },
@@ -115692,10 +117187,13 @@ window.CATALOG = {
    "kids_together": "not stated",
    "married": "not stated",
    "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Lucy Pryor's husband",
    "format": "tv",
    "categories": [
     "forced-obedience",
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -115718,11 +117216,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "streaming-oct15"
+    "streaming-oct15",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:613",
-    "streaming-oct15:34"
+    "streaming-oct15:34",
+    "wife-hypnosis-oct15:24"
    ],
    "index_only": false,
    "local_only": false,
@@ -115795,6 +117295,31 @@ window.CATALOG = {
      "pregnant_end": "not stated",
      "distinct_story": false,
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:24",
+     "source": "wife-hypnosis-oct15",
+     "label": "Alfred Hitchcock Presents (1958)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Alfred Hitchcock Presents",
+     "subtitle": "",
+     "year": "1958",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Lucy Pryor's husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -115821,6 +117346,18 @@ window.CATALOG = {
      "c": [
       "forced-obedience"
      ]
+    },
+    "wife-hypnosis-oct15:24": {
+     "title": "Alfred Hitchcock Presents",
+     "year": "1958",
+     "format": "tv",
+     "match_title": "Alfred Hitchcock Presents",
+     "match_year": "1958",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Lucy Pryor's husband"
     },
     "streaming-oct15:34": {
      "standalone": true,
@@ -120653,9 +122190,16 @@ window.CATALOG = {
    "character": "",
    "provenance": "",
    "note": "",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Anders Olsen (wife Marie)",
    "format": "movie",
    "categories": [
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -120665,16 +122209,74 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "xla62ucxbx02u5:650"
+    "xla62ucxbx02u5:650",
+    "wife-hypnosis-oct15:25"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:650",
+    "source": "xla62ucxbx02u5",
+    "label": "Hypnose / The Guardian Angel (2018)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Hypnose / The Guardian Angel",
+    "subtitle": "",
+    "year": "2018",
+    "meta": "film · 2018, Denmark/Finland/Croatia",
+    "summary": "criminal hypnotist Bjørn Schouw Nielsen befriends and holds Marie, the wife of investigator Anders Olsen, under his control.",
+    "character": "",
+    "note": "",
+    "mechanism": "Husband hypnotizes wife",
+    "confidence_flag": "High confidence",
+    "categories": [
+     "adult-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "French Wikipedia",
+      "url": "https://fr.wikipedia.org/wiki/Hypnose_(film,_2018)"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:25",
+     "source": "wife-hypnosis-oct15",
+     "label": "Hypnose / The Guardian Angel (2018)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Hypnose / The Guardian Angel",
+     "subtitle": "",
+     "year": "2018",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Anders Olsen (wife Marie)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:650": {
      "t": "Hypnose / The Guardian Angel",
@@ -120694,6 +122296,22 @@ window.CATALOG = {
        "https://fr.wikipedia.org/wiki/Hypnose_(film,_2018)"
       ]
      ]
+    },
+    "wife-hypnosis-oct15:25": {
+     "title": "Hypnose / The Guardian Angel",
+     "year": "2018",
+     "format": "movie",
+     "match_title": "Hypnose / The Guardian Angel",
+     "match_year": "2018",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Anders Olsen (wife Marie)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     }
    }
   },
@@ -120728,6 +122346,8 @@ window.CATALOG = {
    "evidence": "2+ independent sources (Mental Block, TMDB, IMDb)",
    "source_conflict": "Mental Block says Yuki only pretended to be hypnotized and Joe's memories of using her were planted suggestions; the employee victims are real.",
    "fit_note": "Rich-man fit is clear; the age gap is not stated in any source (loose 'older man' fit)",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Joe Siu (wife Daisy)",
    "format": "movie",
    "categories": [
     "adult-hypnosis",
@@ -120736,7 +122356,8 @@ window.CATALOG = {
     "human",
     "crime",
     "forced-obedience",
-    "wife"
+    "wife",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -120767,7 +122388,8 @@ window.CATALOG = {
     "rich-wife-hypnosis",
     "older-man-hypnosis",
     "hypno-leftovers",
-    "hypnosis-assault"
+    "hypnosis-assault",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:651",
@@ -120775,7 +122397,8 @@ window.CATALOG = {
     "rich-wife-hypnosis:14",
     "older-man-hypnosis:4",
     "hypno-leftovers:6",
-    "hypnosis-assault:16"
+    "hypnosis-assault:16",
+    "wife-hypnosis-oct15:26"
    ],
    "index_only": false,
    "local_only": false,
@@ -121049,6 +122672,31 @@ window.CATALOG = {
      "source_conflict": "Mental Block says Yuki only pretended to be hypnotized and Joe's memories of using her were planted suggestions; the employee victims are real.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:26",
+     "source": "wife-hypnosis-oct15",
+     "label": "To Seduce an Enemy (2003)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "To Seduce an Enemy",
+     "subtitle": "",
+     "year": "2003",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Joe Siu (wife Daisy)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -121293,6 +122941,18 @@ window.CATALOG = {
       629,
       618
      ]
+    },
+    "wife-hypnosis-oct15:26": {
+     "title": "To Seduce an Enemy",
+     "year": "2003",
+     "format": "movie",
+     "match_title": "To Seduce an Enemy",
+     "match_year": "2003",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Joe Siu (wife Daisy)"
     }
    }
   },
@@ -121308,9 +122968,16 @@ window.CATALOG = {
    "character": "",
    "provenance": "",
    "note": "",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Fathan (wife Fathiyah)",
    "format": "tv",
    "categories": [
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -121320,16 +122987,74 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "xla62ucxbx02u5:652"
+    "xla62ucxbx02u5:652",
+    "wife-hypnosis-oct15:27"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:652",
+    "source": "xla62ucxbx02u5",
+    "label": "Dia Anakku (2010–11)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Dia Anakku",
+    "subtitle": "",
+    "year": "2010–11",
+    "meta": "sinetron · 2010–11, Indonesia",
+    "summary": "newlywed Fathiyah (married Fathan ep 139) is hypnotized in ep 142 by a mysterious person using a pendulum necklace.",
+    "character": "",
+    "note": "",
+    "mechanism": "Husband hypnotizes wife",
+    "confidence_flag": "High confidence",
+    "categories": [
+     "adult-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "helloskyblu.blogspot.com",
+      "url": "http://helloskyblu.blogspot.com/2010/12/sinopsis-sinetron-dia-anakku-episode-1.html"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:27",
+     "source": "wife-hypnosis-oct15",
+     "label": "Dia Anakku (2010–11)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dia Anakku",
+     "subtitle": "",
+     "year": "2010–11",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Fathan (wife Fathiyah)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:652": {
      "t": "Dia Anakku",
@@ -121349,6 +123074,22 @@ window.CATALOG = {
        "http://helloskyblu.blogspot.com/2010/12/sinopsis-sinetron-dia-anakku-episode-1.html"
       ]
      ]
+    },
+    "wife-hypnosis-oct15:27": {
+     "title": "Dia Anakku",
+     "year": "2010–11",
+     "format": "tv",
+     "match_title": "Dia Anakku",
+     "match_year": "2010–11",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Fathan (wife Fathiyah)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     }
    },
    "watch_links": [
@@ -121493,9 +123234,16 @@ window.CATALOG = {
    "character": "",
    "provenance": "",
    "note": "",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Sofía Andrade's husband",
    "format": "tv",
    "categories": [
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -121505,16 +123253,74 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "xla62ucxbx02u5:654"
+    "xla62ucxbx02u5:654",
+    "wife-hypnosis-oct15:28"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:654",
+    "source": "xla62ucxbx02u5",
+    "label": "Yo soy Franky (2015–16)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Yo soy Franky",
+    "subtitle": "",
+    "year": "2015–16",
+    "meta": "telenovela · 2015–16, Colombia",
+    "summary": "android Luz hypnotizes Sofía Andrade (Paula Barreto), a married woman/mother, twice (memory erasure/deception), plus Tamara.",
+    "character": "",
+    "note": "",
+    "mechanism": "Husband hypnotizes wife",
+    "confidence_flag": "High confidence",
+    "categories": [
+     "adult-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "mentalblock.miraheze.org",
+      "url": "https://mentalblock.miraheze.org/wiki/Yo_Soy_Franky"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:28",
+     "source": "wife-hypnosis-oct15",
+     "label": "Yo soy Franky (2015–16)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Yo soy Franky",
+     "subtitle": "",
+     "year": "2015–16",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Sofía Andrade's husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:654": {
      "t": "Yo soy Franky",
@@ -121534,6 +123340,22 @@ window.CATALOG = {
        "https://mentalblock.miraheze.org/wiki/Yo_Soy_Franky"
       ]
      ]
+    },
+    "wife-hypnosis-oct15:28": {
+     "title": "Yo soy Franky",
+     "year": "2015–16",
+     "format": "tv",
+     "match_title": "Yo soy Franky",
+     "match_year": "2015–16",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Sofía Andrade's husband",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     }
    }
   },
@@ -123176,9 +124998,16 @@ window.CATALOG = {
    "character": "",
    "provenance": "",
    "note": "",
+   "kids_status": "no",
+   "kids_note": "no",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Nicolas (wife Mathilde)",
    "format": "movie",
    "categories": [
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -123188,16 +125017,74 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "xla62ucxbx02u5:661"
+    "xla62ucxbx02u5:661",
+    "wife-hypnosis-oct15:29"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:661",
+    "source": "xla62ucxbx02u5",
+    "label": "Le Septième Ciel / The Seventh Heaven (1997)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Le Septième Ciel / The Seventh Heaven",
+    "subtitle": "",
+    "year": "1997",
+    "meta": "film · 1997, France",
+    "summary": "married Mathilde repeatedly consults a doctor-hypnotist; therapeutic hypnosis restores her enjoyment of life and changes her marriage.",
+    "character": "",
+    "note": "",
+    "mechanism": "Hypnotherapist or doctor manipulates a female patient",
+    "confidence_flag": "Medium-high confidence",
+    "categories": [
+     "adult-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "repertoire.cinema.mcc.gouv.qc.ca",
+      "url": "https://repertoire.cinema.mcc.gouv.qc.ca/wp-content/blogs.dir/2/files/sites/4/2008/09/118232.2.pdf"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:29",
+     "source": "wife-hypnosis-oct15",
+     "label": "Le Septième Ciel / The Seventh Heaven (1997)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Le Septième Ciel / The Seventh Heaven",
+     "subtitle": "",
+     "year": "1997",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "no",
+     "kids_note": "no",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Nicolas (wife Mathilde)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:661": {
      "t": "Le Septième Ciel / The Seventh Heaven",
@@ -123217,6 +125104,22 @@ window.CATALOG = {
        "https://repertoire.cinema.mcc.gouv.qc.ca/wp-content/blogs.dir/2/files/sites/4/2008/09/118232.2.pdf"
       ]
      ]
+    },
+    "wife-hypnosis-oct15:29": {
+     "title": "Le Septième Ciel / The Seventh Heaven",
+     "year": "1997",
+     "format": "movie",
+     "match_title": "Le Septième Ciel / The Seventh Heaven",
+     "match_year": "1997",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Nicolas (wife Mathilde)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "no",
+     "kids_note": "no"
     }
    }
   },
@@ -126955,9 +128858,16 @@ window.CATALOG = {
    "character": "",
    "provenance": "",
    "note": "",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Osman Ağa (wife Safiye; both hypnotized by telephone)",
    "format": "tv",
    "categories": [
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -126969,16 +128879,74 @@ window.CATALOG = {
     "xMquqOO0jmU"
    ],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "xla62ucxbx02u5:684"
+    "xla62ucxbx02u5:684",
+    "wife-hypnosis-oct15:104"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": "thumbs/xMquqOO0jmU.jpg",
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:684",
+    "source": "xla62ucxbx02u5",
+    "label": "Akasya Durağı, ep 121 (2011)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Akasya Durağı, ep 121",
+    "subtitle": "",
+    "year": "2011",
+    "meta": "TV family-comedy episode · aired 21 May 2011, Turkey",
+    "summary": "Osman Ağa and adult woman Safiye \"were hypnotized by telephone and do everything they are told\" (comic stage-style telephone hypnosis; controller unidentified).",
+    "character": "",
+    "note": "",
+    "mechanism": "Stage hypnotist, showman or television expert",
+    "confidence_flag": "Medium-high confidence",
+    "categories": [
+     "adult-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/watch?v=xMquqOO0jmU"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:104",
+     "source": "wife-hypnosis-oct15",
+     "label": "Akasya Durağı, ep 121 (2011)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Akasya Durağı, ep 121",
+     "subtitle": "",
+     "year": "2011",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Osman Ağa (wife Safiye; both hypnotized by telephone)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:684": {
      "t": "Akasya Durağı, ep 121",
@@ -126998,6 +128966,22 @@ window.CATALOG = {
        "https://www.youtube.com/watch?v=xMquqOO0jmU"
       ]
      ]
+    },
+    "wife-hypnosis-oct15:104": {
+     "title": "Akasya Durağı, ep 121",
+     "year": "2011",
+     "format": "tv",
+     "match_title": "Akasya Durağı, ep 121",
+     "match_year": "2011",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Osman Ağa (wife Safiye; both hypnotized by telephone)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     }
    }
   },
@@ -131629,10 +133613,13 @@ window.CATALOG = {
    "evidence": "Single source — Wikipedia plot only",
    "source_conflict": "Wikipedia names the husband both 'Carlo' and 'Marco'. · Marries her: hypnosis-assault-loose says “yes”; older-man-hypnosis says “no”",
    "fit_note": "Laura's intimacy with Horatio happens only in trance visions; ages are not stated and Horatio is not described as older",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Laura's photographer husband",
    "format": "movie",
    "categories": [
     "adult-hypnosis",
-    "cult"
+    "cult",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -131652,12 +133639,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "older-man-hypnosis",
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:724",
     "older-man-hypnosis:28",
-    "hypnosis-assault-loose:9"
+    "hypnosis-assault-loose:9",
+    "wife-hypnosis-oct15:31"
    ],
    "index_only": false,
    "local_only": false,
@@ -131780,6 +133769,31 @@ window.CATALOG = {
      "fit_note": "Loose fit: the intimacy under trance is only a vision; the rape in the film is by her husband and not under hypnosis.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:31",
+     "source": "wife-hypnosis-oct15",
+     "label": "Smooth Velvet, Raw Silk / Velluto nero / Black Emmanuelle, White Emmanuelle (1976)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Smooth Velvet, Raw Silk / Velluto nero / Black Emmanuelle, White Emmanuelle",
+     "subtitle": "",
+     "year": "1976",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Laura's photographer husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -131883,6 +133897,18 @@ window.CATALOG = {
      "catalog_ids": [
       702
      ]
+    },
+    "wife-hypnosis-oct15:31": {
+     "title": "Smooth Velvet, Raw Silk / Velluto nero / Black Emmanuelle, White Emmanuelle",
+     "year": "1976",
+     "format": "movie",
+     "match_title": "Smooth Velvet, Raw Silk / Velluto nero / Black Emmanuelle, White Emmanuelle",
+     "match_year": "1976",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Laura's photographer husband"
     }
    }
   },
@@ -132497,12 +134523,15 @@ window.CATALOG = {
    "pregnant_end_note": "the only synopsis doesn't cover it",
    "evidence": "Single source — IMDb listing only",
    "fit_note": "Ages are unknown, so the young-woman / older-man fit cannot be checked",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband (married couple)",
    "format": "short",
    "categories": [
     "adult-hypnosis",
     "hypno-intimacy",
     "index-48",
-    "index-50"
+    "index-50",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -132529,7 +134558,8 @@ window.CATALOG = {
     "rich-wife-hypnosis",
     "older-man-hypnosis",
     "hypno-leftovers",
-    "hypnosis-assault"
+    "hypnosis-assault",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:729",
@@ -132537,7 +134567,8 @@ window.CATALOG = {
     "rich-wife-hypnosis:6",
     "older-man-hypnosis:32",
     "hypno-leftovers:4",
-    "hypnosis-assault:14"
+    "hypnosis-assault:14",
+    "wife-hypnosis-oct15:32"
    ],
    "index_only": false,
    "local_only": false,
@@ -132768,6 +134799,31 @@ window.CATALOG = {
      "evidence": "Single source (IMDb synopsis; TV Guide listing only)",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:32",
+     "source": "wife-hypnosis-oct15",
+     "label": "The Hypnotist (1936)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Hypnotist",
+     "subtitle": "",
+     "year": "1936",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband (married couple)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -132965,6 +135021,18 @@ window.CATALOG = {
      "catalog_ids": [
       818
      ]
+    },
+    "wife-hypnosis-oct15:32": {
+     "title": "The Hypnotist",
+     "year": "1936",
+     "format": "short",
+     "match_title": "The Hypnotist",
+     "match_year": "1936",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband (married couple)"
     }
    }
   },
@@ -133927,11 +135995,18 @@ window.CATALOG = {
    "character": "Lyn Scully · pregnant with Oscar",
    "provenance": "Worldwide multilingual indexed sweep completed 30 Sep 2026; adult-video plot-index follow-up found no net-new verified narrative title.",
    "note": "",
+   "kids_status": "yes",
+   "kids_note": "daughters Stephanie, Felicity, Michelle; son Jack",
+   "kids_together": "yes (Oscar)",
+   "pregnant_end": "yes — by Joe; son Oscar born",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Joe Scully (wife Lyn)",
    "format": "tv",
    "categories": [
     "adult-hypnosis",
     "pregnant-variants",
-    "index-37"
+    "index-37",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -133946,11 +136021,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:737",
-    "ig6qlxqxoxvcxla:860"
+    "ig6qlxqxoxvcxla:860",
+    "wife-hypnosis-oct15:33"
    ],
    "index_only": false,
    "local_only": false,
@@ -134013,6 +136090,35 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Neighbours episodes 4249–4253 (2003)",
      "matched_by": "alias"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:33",
+     "source": "wife-hypnosis-oct15",
+     "label": "Neighbours (2003)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Neighbours",
+     "subtitle": "",
+     "year": "2003",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "yes",
+     "kids_note": "daughters Stephanie, Felicity, Michelle; son Jack",
+     "kids_together": "yes (Oscar)",
+     "pregnant_end": "yes — by Joe; son Oscar born",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Joe Scully (wife Lyn)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -134066,6 +136172,22 @@ window.CATALOG = {
      "group": "Doctor / psychiatrist",
      "confidence": "Stronger / variant",
      "note": ""
+    },
+    "wife-hypnosis-oct15:33": {
+     "title": "Neighbours",
+     "year": "2003",
+     "format": "tv",
+     "match_title": "Neighbours",
+     "match_year": "2003",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Joe Scully (wife Lyn)",
+     "pregnant_end": "yes — by Joe; son Oscar born",
+     "kids_together": "yes (Oscar)",
+     "kids_status": "yes",
+     "kids_note": "daughters Stephanie, Felicity, Michelle; son Jack"
     }
    }
   },
@@ -134432,12 +136554,15 @@ window.CATALOG = {
    "evidence": "2+ independent sources (Mental Block, Asian Movie Pulse, easternKicks)",
    "source_conflict": "Husband: Mental Block calls her Chi Chung's wife; easternKicks says she is Zhen Sheng's wife",
    "fit_note": "Asian Movie Pulse says he loses five years per spell and stays young on rituals (older in years); actor ages not given",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: the doctor (his wife)",
    "format": "movie",
    "categories": [
     "adult-hypnosis",
     "pregnant-strict",
     "tantrik",
-    "index-37"
+    "index-37",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -134466,13 +136591,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "older-man-hypnosis",
-    "hypnosis-assault"
+    "hypnosis-assault",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:742",
     "ig6qlxqxoxvcxla:858",
     "older-man-hypnosis:15",
-    "hypnosis-assault:23"
+    "hypnosis-assault:23",
+    "wife-hypnosis-oct15:34"
    ],
    "index_only": false,
    "local_only": false,
@@ -134645,6 +136772,35 @@ window.CATALOG = {
      "fit_note": "Borderline: Sorcery rather than hypnosis.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:34",
+     "source": "wife-hypnosis-oct15",
+     "label": "Black Magic Part 2 (1976)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Black Magic Part 2",
+     "subtitle": "",
+     "year": "1976",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: sorcery rather than hypnosis",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: the doctor (his wife)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -134813,6 +136969,22 @@ window.CATALOG = {
      "catalog_ids": [
       714
      ]
+    },
+    "wife-hypnosis-oct15:34": {
+     "title": "Black Magic Part 2",
+     "year": "1976",
+     "format": "movie",
+     "match_title": "Black Magic Part 2",
+     "match_year": "1976",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: the doctor (his wife)",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: sorcery rather than hypnosis"
     }
    }
   },
@@ -135515,9 +137687,16 @@ window.CATALOG = {
    "character": "Katharina",
    "provenance": "",
    "note": "",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Willi (wife Katharina)",
    "format": "tv",
    "categories": [
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -135529,16 +137708,75 @@ window.CATALOG = {
     "4o0gAU-2pVk"
    ],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "xla62ucxbx02u5:748"
+    "xla62ucxbx02u5:748",
+    "wife-hypnosis-oct15:35"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": "thumbs/4o0gAU-2pVk.jpg",
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:748",
+    "source": "xla62ucxbx02u5",
+    "label": "Didi der Untermieter · Episode 17 · “Hypnotisiert” (c. 1986–91)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Didi der Untermieter",
+    "subtitle": "Episode 17 · “Hypnotisiert”",
+    "year": "c. 1986–91",
+    "meta": "TV episode · Germany · German",
+    "summary": "A stage hypnotist hypnotizes Katharina and her husband Willi, leaving them with exchanged personalities for several days.",
+    "character": "Katharina",
+    "note": "",
+    "mechanism": "Stage-hypnosis personality swap",
+    "confidence_flag": "Medium-high confidence · wife · airdate unverified",
+    "categories": [
+     "adult-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "YouTube episode upload",
+      "url": "https://www.youtube.com/watch?v=4o0gAU-2pVk"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:35",
+     "source": "wife-hypnosis-oct15",
+     "label": "Didi der Untermieter (c. 1986–91)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Didi der Untermieter",
+     "subtitle": "",
+     "year": "c. 1986–91",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Willi (wife Katharina)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:748": {
      "t": "Didi der Untermieter",
@@ -135560,6 +137798,22 @@ window.CATALOG = {
        "https://www.youtube.com/watch?v=4o0gAU-2pVk"
       ]
      ]
+    },
+    "wife-hypnosis-oct15:35": {
+     "title": "Didi der Untermieter",
+     "year": "c. 1986–91",
+     "format": "tv",
+     "match_title": "Didi der Untermieter",
+     "match_year": "c. 1986–91",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Willi (wife Katharina)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     }
    }
   },
@@ -136930,11 +139184,22 @@ window.CATALOG = {
    "character": "Victoria / unidentified wife claim",
    "provenance": "",
    "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Loose fit: sources conflict on the hypnosis/marriage details",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
    "format": "movie",
    "categories": [
     "adult-hypnosis",
     "human",
-    "vampire"
+    "vampire",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -136957,11 +139222,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:758",
-    "ig6qlxqxoxvcxla:580"
+    "ig6qlxqxoxvcxla:580",
+    "wife-hypnosis-oct15:36"
    ],
    "index_only": false,
    "local_only": false,
@@ -137031,6 +139298,39 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "El barón del terror (1962)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:36",
+     "source": "wife-hypnosis-oct15",
+     "label": "El barón del terror (1962)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "El barón del terror",
+     "subtitle": "",
+     "year": "1962",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Loose fit: sources conflict on the hypnosis/marriage details",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -137074,6 +139374,26 @@ window.CATALOG = {
      "group": "Regional vampire cinema",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "wife-hypnosis-oct15:36": {
+     "title": "El barón del terror",
+     "year": "1962",
+     "format": "movie",
+     "match_title": "El barón del terror",
+     "match_year": "1962",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: sources conflict on the hypnosis/marriage details"
     }
    },
    "watch_links": [
@@ -151839,9 +154159,16 @@ window.CATALOG = {
    "character": "",
    "provenance": "",
    "note": "",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Rezeda's husband",
    "format": "short",
    "categories": [
-    "partner-control"
+    "partner-control",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -151863,16 +154190,86 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "xla62ucxbx02u5:827"
+    "xla62ucxbx02u5:827",
+    "wife-hypnosis-oct15:37"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:827",
+    "source": "xla62ucxbx02u5",
+    "label": "A hipnotizált feleség / The Hypnotized Wife (1932)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "A hipnotizált feleség / The Hypnotized Wife",
+    "subtitle": "",
+    "year": "1932",
+    "meta": "Short comedy film · Hungary · Hungarian · black-and-white sound",
+    "summary": "After learning that his friend Kelemen hypnotized his own wife into obedience, Rezeda goes home and puts his wife Rezedáné into a trance. She follows his commands until cold water wakes her, reversing the domestic power play. The film therefore contains two husband-to-wife hypnosis instances.",
+    "character": "",
+    "note": "",
+    "mechanism": "Literal hypnosis by current husband",
+    "confidence_flag": "High confidence",
+    "categories": [
+     "partner-control"
+    ],
+    "sources": [
+     {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt30475535"
+     },
+     {
+      "label": "Hungarian Wikipedia",
+      "url": "https://hu.wikipedia.org/wiki/Békeffi_László"
+     },
+     {
+      "label": "Hangosfilm",
+      "url": "https://www.hangosfilm.hu/filmenciklopedia/bekeffi-laszlo"
+     },
+     {
+      "label": "Hungarian Film Archive record",
+      "url": "https://en.mandadb.hu/dokumentum/490217/a_hipnotizlt_felesg_RJ_62.pdf"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:37",
+     "source": "wife-hypnosis-oct15",
+     "label": "A hipnotizált feleség / The Hypnotized Wife (1932)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "A hipnotizált feleség / The Hypnotized Wife",
+     "subtitle": "",
+     "year": "1932",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Rezeda's husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:827": {
      "t": "A hipnotizált feleség / The Hypnotized Wife",
@@ -151904,6 +154301,22 @@ window.CATALOG = {
        "https://en.mandadb.hu/dokumentum/490217/a_hipnotizlt_felesg_RJ_62.pdf"
       ]
      ]
+    },
+    "wife-hypnosis-oct15:37": {
+     "title": "A hipnotizált feleség / The Hypnotized Wife",
+     "year": "1932",
+     "format": "short",
+     "match_title": "A hipnotizált feleség / The Hypnotized Wife",
+     "match_year": "1932",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Rezeda's husband",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     }
    }
   },
@@ -151919,9 +154332,16 @@ window.CATALOG = {
    "character": "",
    "provenance": "",
    "note": "",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Eugène Ribadier (wife Angèle)",
    "format": "tv",
    "categories": [
-    "partner-control"
+    "partner-control",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -151935,16 +154355,79 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "xla62ucxbx02u5:828"
+    "xla62ucxbx02u5:828",
+    "wife-hypnosis-oct15:38"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:828",
+    "source": "xla62ucxbx02u5",
+    "label": "Paris 1900: Feydeau · “The Ribadier System” · S1E1 (1964)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Paris 1900: Feydeau",
+    "subtitle": "“The Ribadier System” · S1E1",
+    "year": "1964",
+    "meta": "TV anthology episode · United Kingdom · English · ITV / Granada · 60 min",
+    "summary": "Eugène Ribadier uses his gift of hypnotism to put his wife Angèle to sleep while he visits his mistress, then wakes her with a secret method when he returns. His confidence collapses after he reveals the system to Thommereux, who wakes Angèle and exposes Ribadier’s deceit.",
+    "character": "",
+    "note": "",
+    "mechanism": "Literal hypnosis by current husband",
+    "confidence_flag": "High confidence",
+    "categories": [
+     "partner-control"
+    ],
+    "sources": [
+     {
+      "label": "CTVA UK",
+      "url": "http://ctva.biz/UK/Granada/Paris1900.htm"
+     },
+     {
+      "label": "Wikipedia · Le Système Ribadier",
+      "url": "https://en.wikipedia.org/wiki/Le_Système_Ribadier"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:38",
+     "source": "wife-hypnosis-oct15",
+     "label": "Paris 1900: Feydeau (1964)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Paris 1900: Feydeau",
+     "subtitle": "",
+     "year": "1964",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Eugène Ribadier (wife Angèle)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:828": {
      "t": "Paris 1900: Feydeau",
@@ -151969,6 +154452,22 @@ window.CATALOG = {
        "https://en.wikipedia.org/wiki/Le_Système_Ribadier"
       ]
      ]
+    },
+    "wife-hypnosis-oct15:38": {
+     "title": "Paris 1900: Feydeau",
+     "year": "1964",
+     "format": "tv",
+     "match_title": "Paris 1900: Feydeau",
+     "match_year": "1964",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Eugène Ribadier (wife Angèle)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     }
    }
   },
@@ -151984,9 +154483,16 @@ window.CATALOG = {
    "character": "",
    "provenance": "",
    "note": "",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Reardon",
    "format": "tv",
    "categories": [
-    "partner-control"
+    "partner-control",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -152004,16 +154510,83 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "xla62ucxbx02u5:829"
+    "xla62ucxbx02u5:829",
+    "wife-hypnosis-oct15:39"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:829",
+    "source": "xla62ucxbx02u5",
+    "label": "Tales of Wells Fargo · “The Gold Witch” · S6E31 (1962)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Tales of Wells Fargo",
+    "subtitle": "“The Gold Witch” · S6E31",
+    "year": "1962",
+    "meta": "TV series episode · United States · English · NBC · 49 min",
+    "summary": "The Great Reardon hypnotizes his wife into a deep stage trance and exploits her apparent powers in a scheme to swindle a mine owner out of $10,000. She eventually recognizes the extent of her husband’s deceit as the fraud unravels in the mine.",
+    "character": "",
+    "note": "",
+    "mechanism": "Literal stage hypnosis by current husband",
+    "confidence_flag": "High confidence",
+    "categories": [
+     "partner-control"
+    ],
+    "sources": [
+     {
+      "label": "TV Guide",
+      "url": "https://www.tvguide.com/tvshows/wells-fargo/episodes-season-6/1000246789/"
+     },
+     {
+      "label": "Rotten Tomatoes",
+      "url": "https://www.rottentomatoes.com/tv/tales_of_wells_fargo/s06/e31"
+     },
+     {
+      "label": "Simkl",
+      "url": "https://simkl.com/tv/6163/tales-of-wells-fargo/season-6/episode-31/"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:39",
+     "source": "wife-hypnosis-oct15",
+     "label": "Tales of Wells Fargo (1962)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Tales of Wells Fargo",
+     "subtitle": "",
+     "year": "1962",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Reardon",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:829": {
      "t": "Tales of Wells Fargo",
@@ -152042,6 +154615,22 @@ window.CATALOG = {
        "https://simkl.com/tv/6163/tales-of-wells-fargo/season-6/episode-31/"
       ]
      ]
+    },
+    "wife-hypnosis-oct15:39": {
+     "title": "Tales of Wells Fargo",
+     "year": "1962",
+     "format": "tv",
+     "match_title": "Tales of Wells Fargo",
+     "match_year": "1962",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Reardon",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     }
    }
   },
@@ -152057,9 +154646,16 @@ window.CATALOG = {
    "character": "",
    "provenance": "",
    "note": "",
+   "kids_status": "yes",
+   "kids_note": "Sami, Eric, Belle (adult children)",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: John Black (Marlena; hypnotized by Alex North)",
    "format": "tv",
    "categories": [
-    "partner-control"
+    "partner-control",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -152081,16 +154677,87 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "xla62ucxbx02u5:830"
+    "xla62ucxbx02u5:830",
+    "wife-hypnosis-oct15:40"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:830",
+    "source": "xla62ucxbx02u5",
+    "label": "Days of Our Lives · Alex North / Marlena Evans arc (2005–06)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Days of Our Lives",
+    "subtitle": "Alex North / Marlena Evans arc",
+    "year": "2005–06",
+    "meta": "Daytime soap opera · United States · English · NBC",
+    "summary": "Alex North, revealed as Marlena Evans’s first husband and still legally married to her, repeatedly hypnotizes her without her knowledge, drugs her herbal tea and manipulates her memories so that she chooses him over John. Alex and Marlena renew their vows during the arc before his control is exposed.",
+    "character": "",
+    "note": "",
+    "mechanism": "Hypnosis, drugs and memory manipulation by husband",
+    "confidence_flag": "High confidence · distinct from the 1994–95 Stefano arc",
+    "categories": [
+     "partner-control"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia · characters introduced in the 2000s",
+      "url": "https://en.wikipedia.org/wiki/List_of_Days_of_Our_Lives_characters_introduced_in_the_2000s"
+     },
+     {
+      "label": "SoapCentral · Dr. Alex North",
+      "url": "https://www.soapcentral.com/character/dr-alex-north"
+     },
+     {
+      "label": "SoapCentral · week of 5 Sep 2005",
+      "url": "https://www.soapcentral.com/days-of-our-lives/days-of-our-lives-weekly-recap-for-050905"
+     },
+     {
+      "label": "Wikipedia · John and Marlena",
+      "url": "https://en.wikipedia.org/wiki/John_Black_and_Marlena_Evans"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:40",
+     "source": "wife-hypnosis-oct15",
+     "label": "Days of Our Lives (2005–06)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Days of Our Lives",
+     "subtitle": "",
+     "year": "2005–06",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "yes",
+     "kids_note": "Sami, Eric, Belle (adult children)",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: John Black (Marlena; hypnotized by Alex North)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:830": {
      "t": "Days of Our Lives",
@@ -152123,6 +154790,22 @@ window.CATALOG = {
        "https://en.wikipedia.org/wiki/John_Black_and_Marlena_Evans"
       ]
      ]
+    },
+    "wife-hypnosis-oct15:40": {
+     "title": "Days of Our Lives",
+     "year": "2005–06",
+     "format": "tv",
+     "match_title": "Days of Our Lives",
+     "match_year": "2005–06",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: John Black (Marlena; hypnotized by Alex North)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "yes",
+     "kids_note": "Sami, Eric, Belle (adult children)"
     }
    }
   },
@@ -152141,10 +154824,15 @@ window.CATALOG = {
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
    "kids_status": "unknown",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
    "format": "short",
    "categories": [
     "partner-commissioned",
-    "love"
+    "love",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -152156,14 +154844,16 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "kr-cn-hypnosis"
+    "kr-cn-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:831",
     "ig6qlxqxoxvcxla:56",
     "ig6qlxqxoxvcxla:207",
     "ig6qlxqxoxvcxla:343",
-    "kr-cn-hypnosis:24"
+    "kr-cn-hypnosis:24",
+    "wife-hypnosis-oct15:41"
    ],
    "index_only": false,
    "local_only": false,
@@ -152298,6 +154988,33 @@ window.CATALOG = {
      "kids_status": "unknown",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:41",
+     "source": "wife-hypnosis-oct15",
+     "label": "While You Were Sleeping (2008)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "While You Were Sleeping",
+     "subtitle": "",
+     "year": "2008",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -152367,6 +155084,20 @@ window.CATALOG = {
      "kids_status": "unknown",
      "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
      "note": ""
+    },
+    "wife-hypnosis-oct15:41": {
+     "title": "While You Were Sleeping",
+     "year": "2008",
+     "format": "short",
+     "match_title": "While You Were Sleeping",
+     "match_year": "2008",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated"
     }
    }
   },
@@ -152382,9 +155113,16 @@ window.CATALOG = {
    "character": "",
    "provenance": "",
    "note": "Remake of the “lost episode” sketch “The Hypnotist,” which aired January 29, 1955.",
+   "kids_status": "no",
+   "kids_note": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Ralph Kramden (wife Alice)",
    "format": "tv",
    "categories": [
-    "partner-commissioned"
+    "partner-commissioned",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -152406,16 +155144,86 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "xla62ucxbx02u5:832"
+    "xla62ucxbx02u5:832",
+    "wife-hypnosis-oct15:42"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:832",
+    "source": "xla62ucxbx02u5",
+    "label": "The Honeymooners — “Sleepy Time Gal” (1968)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Honeymooners — “Sleepy Time Gal”",
+    "subtitle": "",
+    "year": "1968",
+    "meta": "TV sketch · USA · The Jackie Gleason Show · CBS",
+    "summary": "Ralph persuades the hypnotist to put Alice in a trance so she will reveal where her secret stash of money is hidden; he wants the money for the Raccoon convention in Chicago.",
+    "character": "",
+    "note": "Remake of the “lost episode” sketch “The Hypnotist,” which aired January 29, 1955.",
+    "mechanism": "Husband Ralph Kramden → hypnotist (a fellow member of his Raccoon lodge) → wife Alice Kramden",
+    "confidence_flag": "HIGH confidence",
+    "categories": [
+     "partner-commissioned"
+    ],
+    "sources": [
+     {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0614078"
+     },
+     {
+      "label": "Wikipedia episode list",
+      "url": "https://en.wikipedia.org/wiki/List_of_The_Honeymooners_sketches"
+     },
+     {
+      "label": "Episode Calendar",
+      "url": "https://episodecalendar.com/pl/episodes/2226767"
+     },
+     {
+      "label": "Tubi",
+      "url": "https://tubitv.com/tv-shows/506635/s03-e12-the-hypnotist"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:42",
+     "source": "wife-hypnosis-oct15",
+     "label": "The Honeymooners — “Sleepy Time Gal” (1968)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Honeymooners — “Sleepy Time Gal”",
+     "subtitle": "",
+     "year": "1968",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "no",
+     "kids_note": "no",
+     "kids_together": "no",
+     "pregnant_end": "no",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Ralph Kramden (wife Alice)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:832": {
      "t": "The Honeymooners — “Sleepy Time Gal”",
@@ -152448,6 +155256,22 @@ window.CATALOG = {
        "https://tubitv.com/tv-shows/506635/s03-e12-the-hypnotist"
       ]
      ]
+    },
+    "wife-hypnosis-oct15:42": {
+     "title": "The Honeymooners — “Sleepy Time Gal”",
+     "year": "1968",
+     "format": "tv",
+     "match_title": "The Honeymooners — “Sleepy Time Gal”",
+     "match_year": "1968",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Ralph Kramden (wife Alice)",
+     "pregnant_end": "no",
+     "kids_together": "no",
+     "kids_status": "no",
+     "kids_note": "no"
     }
    }
   },
@@ -152463,9 +155287,16 @@ window.CATALOG = {
    "character": "",
    "provenance": "",
    "note": "",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
    "format": "film",
    "categories": [
-    "partner-commissioned"
+    "partner-commissioned",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -152487,16 +155318,86 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "xla62ucxbx02u5:833"
+    "xla62ucxbx02u5:833",
+    "wife-hypnosis-oct15:43"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:833",
+    "source": "xla62ucxbx02u5",
+    "label": "Sri Krishna 2006",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Sri Krishna 2006",
+    "subtitle": "",
+    "year": "2006",
+    "meta": "Film · India · Telugu",
+    "summary": "Per the user's report (2026-10-01), in this Telugu film directed by Vijayendra Prasad (starring Srikanth, Venu, Ramya Krishna, Gowri Munjal) the husband pays a hypnotist to hypnotize his wife. This plot point is UNVERIFIED and contradicts the published record: every plot synopsis found describes a bigamy comedy — Venkateshwarulu (Venu) wants two wives at his grandmother's insistence, Indu (Gowri Munjal) agrees in order to teach him a lesson, and her 'first husband' (Srikanth) turns up — with no hypnotist anywhere in the story. The sole hypnotism element in any source is a NowRunning review line praising comedy bits between comedians Ali and Venu Madhav based on hypnotism.",
+    "character": "",
+    "note": "",
+    "mechanism": "Husband pays a hypnotist to hypnotize his wife (user's claim)",
+    "confidence_flag": "USER-REPORTED / UNVERIFIED — added 2026-10-01 at the user's explicit insistence after verification failed. Plot synopses reviewed (Wikipedia EN/TE, Filmibeat, Rotten Tomatoes, Apple TV, ZEE5, Letterboxd, TeluguOne, NowRunning review) describe a bigamy comedy and do NOT corroborate a husband-hires-hypnotist plot; the only hypnotism element found is comedy bits between comedians Ali and Venu Madhav ('jokes involving Ali and Venumadhav basing on hypnotism are well conceived' — NowRunning).",
+    "categories": [
+     "partner-commissioned"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sri_Krishna_2006"
+     },
+     {
+      "label": "NowRunning review",
+      "url": "https://www.nowrunning.com/movie/3084/telugu/sri-krishna-2006/777/review.htm"
+     },
+     {
+      "label": "Filmibeat story",
+      "url": "https://www.filmibeat.com/telugu/movies/srikrishna-2006/story.html"
+     },
+     {
+      "label": "TeluguOne review",
+      "url": "https://www.teluguone.com/tmdb/moviereview/Sri-Krishna-2006-en-3701.html"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:43",
+     "source": "wife-hypnosis-oct15",
+     "label": "Sri Krishna 2006",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Sri Krishna 2006",
+     "subtitle": "",
+     "year": "2006",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:833": {
      "t": "Sri Krishna 2006",
@@ -152528,6 +155429,22 @@ window.CATALOG = {
        "https://www.teluguone.com/tmdb/moviereview/Sri-Krishna-2006-en-3701.html"
       ]
      ]
+    },
+    "wife-hypnosis-oct15:43": {
+     "title": "Sri Krishna 2006",
+     "year": "2006",
+     "format": "film",
+     "match_title": "Sri Krishna 2006",
+     "match_year": "2006",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     }
    }
   },
@@ -155396,9 +158313,20 @@ window.CATALOG = {
    "character": "",
    "provenance": "Combined worldwide and Indian-language pregnancy-control sweep completed 30 Sep 2026; every title was checked against the loaded catalog before category assignment.",
    "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Loose fit: adult anime; framing unclear",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
    "format": "tv",
    "categories": [
-    "pregnant-variants"
+    "pregnant-variants",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -155408,16 +158336,79 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "xla62ucxbx02u5:856"
+    "xla62ucxbx02u5:856",
+    "wife-hypnosis-oct15:44"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:856",
+    "source": "xla62ucxbx02u5",
+    "label": "Kyonyuu Hitozuma Onna Kyoushi Saimin · 巨乳人妻女教師催眠 (2016)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Kyonyuu Hitozuma Onna Kyoushi Saimin",
+    "subtitle": "巨乳人妻女教師催眠",
+    "year": "2016",
+    "meta": "Adult anime OVA · Japan · Japanese · 2 episodes",
+    "summary": "A protagonist uses a “Hypnosys app” on adult married teachers. Pregnancy, mind-control and impregnation tags support a control-causing-pregnancy reading, but evidence that a woman is hypnotized after pregnancy has begun is not established.",
+    "character": "",
+    "note": "",
+    "mechanism": "“Hypnosys app” control of married teachers",
+    "confidence_flag": "Low-medium confidence · explicit adult animation · VARIANT: control-causing-pregnancy (not hypnosis-while-pregnant)",
+    "categories": [
+     "pregnant-variants"
+    ],
+    "sources": [
+     {
+      "label": "MyAnimeList review",
+      "url": "https://myanimelist.net/reviews.php?id=209286"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:44",
+     "source": "wife-hypnosis-oct15",
+     "label": "Kyonyuu Hitozuma Onna Kyoushi Saimin (2016)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Kyonyuu Hitozuma Onna Kyoushi Saimin",
+     "subtitle": "",
+     "year": "2016",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Loose fit: adult anime; framing unclear",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:856": {
      "t": "Kyonyuu Hitozuma Onna Kyoushi Saimin",
@@ -155439,6 +158430,26 @@ window.CATALOG = {
       ]
      ],
      "prov": "Combined worldwide and Indian-language pregnancy-control sweep completed 30 Sep 2026; every title was checked against the loaded catalog before category assignment."
+    },
+    "wife-hypnosis-oct15:44": {
+     "title": "Kyonyuu Hitozuma Onna Kyoushi Saimin",
+     "year": "2016",
+     "format": "tv",
+     "match_title": "Kyonyuu Hitozuma Onna Kyoushi Saimin",
+     "match_year": "2016",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: adult anime; framing unclear"
     }
    }
   },
@@ -177003,12 +180014,17 @@ window.CATALOG = {
    "method": "stage hypnosis with a trigger word ('ming')",
    "kids_status": "yes",
    "kids_note": "2: Simon (13) and Kate (11)",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
    "fit_note": "Borderline: Episode titles come from the CBBC fan wiki (descriptive rather than broadcast titles); only the first and last air dates are sourced.",
    "child_witness": "Simon and Kate see their mother Sarah and father Geoff black out and act like naughty children, cover for them, film them as proof, find the trigger and track down Ming",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Sarah Spiller's husband",
    "format": "tv",
    "categories": [
     "mother",
-    "other-control"
+    "other-control",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -177027,11 +180043,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "mother-kids-hypnosis"
+    "mother-kids-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:985",
-    "mother-kids-hypnosis:21"
+    "mother-kids-hypnosis:21",
+    "wife-hypnosis-oct15:45"
    ],
    "index_only": false,
    "local_only": false,
@@ -177146,6 +180164,33 @@ window.CATALOG = {
      "child_witness": "Simon and Kate see their mother Sarah and father Geoff black out and act like naughty children, cover for them, film them as proof, find the trigger and track down Ming",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:45",
+     "source": "wife-hypnosis-oct15",
+     "label": "Big Kids (2000)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Big Kids",
+     "subtitle": "",
+     "year": "2000",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Sarah Spiller's husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -177244,6 +180289,20 @@ window.CATALOG = {
      "note": "Episode titles come from the CBBC fan wiki (descriptive rather than broadcast titles); only the first and last air dates are sourced.",
      "fit_note": "Borderline: Episode titles come from the CBBC fan wiki (descriptive rather than broadcast titles); only the first and last air dates are sourced.",
      "provenance": "Mother-hypnotized-in-front-of-her-children research pass (30 Sep 2026): worldwide search (Mental Block wiki, Wikipedia/de/ja episode tables, TV Tropes, fan wikis, soap and Indian-serial recap sites); strict hypnosis, mesmerism, hypnotic trance or hypnosis-like devices only; spirit/demonic/black-magic possession excluded; adult mothers only; the child must see her hypnotized or in the trance; no title where children witness sexual content."
+    },
+    "wife-hypnosis-oct15:45": {
+     "title": "Big Kids",
+     "year": "2000",
+     "format": "tv",
+     "match_title": "Big Kids",
+     "match_year": "2000",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Sarah Spiller's husband",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated"
     }
    }
   },
@@ -194357,10 +197416,15 @@ window.CATALOG = {
    "method": "hypnotic device (rigged television)",
    "kids_status": "no",
    "kids_note": "Courage is their adopted dog",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Eustace Bagge (wife Muriel)",
    "format": "tv",
    "categories": [
     "scifi",
-    "crime"
+    "crime",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -194384,12 +197448,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1079",
     "worldwide-hypnosis:195",
-    "rich-wife-hypnosis:27"
+    "rich-wife-hypnosis:27",
+    "wife-hypnosis-oct15:46"
    ],
    "index_only": false,
    "local_only": false,
@@ -194521,6 +197587,31 @@ window.CATALOG = {
      "kids_note": "Courage is their adopted dog",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:46",
+     "source": "wife-hypnosis-oct15",
+     "label": "Courage the Cowardly Dog",
+     "identifiers": [],
+     "title": "Courage the Cowardly Dog",
+     "subtitle": "",
+     "year": "",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_together": "no",
+     "pregnant_end": "no",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Eustace Bagge (wife Muriel)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -194632,6 +197723,20 @@ window.CATALOG = {
       }
      ],
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "wife-hypnosis-oct15:46": {
+     "title": "Courage the Cowardly Dog",
+     "year": "",
+     "format": "tv",
+     "match_title": "Courage the Cowardly Dog",
+     "match_year": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Eustace Bagge (wife Muriel)",
+     "pregnant_end": "no",
+     "kids_together": "no"
     }
    }
   },
@@ -201848,13 +204953,16 @@ window.CATALOG = {
    "evidence": "2+ independent sources for the film (Semaine de la Critique, SIC México, Cinema Saturno); the twist that she only pretended after the first session comes from Mental Block alone",
    "source_conflict": "Ending twist: she says hypnosis only worked the first time and she pretended afterwards, so only the first encounter is under hypnosis.",
    "fit_note": "Mexican short (about 9 min, Cannes Critics' Week 2002), also titled “De Mesmer, con amor o Té para dos”. Psychology student Alberto hypnotizes his lonely married neighbor María with a trigger phrase. She later reveals the hypnosis only worked the first time, so it is not tagged hypno-intimacy",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: María's husband",
    "format": "movie",
    "categories": [
     "adult-hypnosis",
     "hypno-intimacy",
     "cheat-control",
     "medical",
-    "index-50"
+    "index-50",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -201880,14 +204988,16 @@ window.CATALOG = {
     "worldwide-hypnosis",
     "rich-wife-hypnosis",
     "hypno-leftovers",
-    "hypnosis-assault"
+    "hypnosis-assault",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1123",
     "worldwide-hypnosis:252",
     "rich-wife-hypnosis:24",
     "hypno-leftovers:10",
-    "hypnosis-assault:22"
+    "hypnosis-assault:22",
+    "wife-hypnosis-oct15:47"
    ],
    "index_only": false,
    "local_only": false,
@@ -202089,6 +205199,31 @@ window.CATALOG = {
      "fit_note": "Borderline: only the first encounter is under hypnosis — she says she pretended afterwards",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:47",
+     "source": "wife-hypnosis-oct15",
+     "label": "De Mesmer con amor (2002)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "De Mesmer con amor",
+     "subtitle": "",
+     "year": "2002",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: María's husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -202258,6 +205393,18 @@ window.CATALOG = {
      "catalog_ids": [
       1164
      ]
+    },
+    "wife-hypnosis-oct15:47": {
+     "title": "De Mesmer con amor",
+     "year": "2002",
+     "format": "movie",
+     "match_title": "De Mesmer con amor",
+     "match_year": "2002",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: María's husband"
     }
    }
   },
@@ -202303,7 +205450,8 @@ window.CATALOG = {
     "cheat-control",
     "fantasy",
     "human",
-    "wife"
+    "wife",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -202341,7 +205489,8 @@ window.CATALOG = {
     "worldwide-hypnosis",
     "hypno-intimacy",
     "hypnosis-assault",
-    "round2"
+    "round2",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1124",
@@ -202349,7 +205498,8 @@ window.CATALOG = {
     "worldwide-hypnosis:260",
     "hypno-intimacy:8",
     "hypnosis-assault:7",
-    "round2:1"
+    "round2:1",
+    "wife-hypnosis-oct15:48"
    ],
    "index_only": false,
    "local_only": false,
@@ -202654,6 +205804,31 @@ window.CATALOG = {
      "source_conflict": "Mental Block numbers it episode 12; Wikipedia, TheTVDB, IMDb give S1E15. Sex act: Mental Block says yes; CBSC says none shown.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:48",
+     "source": "wife-hypnosis-oct15",
+     "label": "Dead Man's Gun (1997–1999)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dead Man's Gun",
+     "subtitle": "",
+     "year": "1997–1999",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -202910,6 +206085,18 @@ window.CATALOG = {
       1114
      ],
      "research_no": 1
+    },
+    "wife-hypnosis-oct15:48": {
+     "title": "Dead Man's Gun",
+     "year": "1997–1999",
+     "format": "tv",
+     "match_title": "Dead Man's Gun",
+     "match_year": "1997–1999",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband"
     },
     "xla62ucxbx02u5:1125": {
      "t": "Dead Man's Gun",
@@ -218173,6 +221360,8 @@ window.CATALOG = {
    "pregnant_end_note": "no pregnancy in the plot summary",
    "evidence": "Single source — only Mental Block gives the plot; IMDb and the Québec registry confirm the film (Mexico, 1992) but not the plot",
    "fit_note": "The man in the intimate scene (the butler) is not the one who hypnotized her; no ages are given",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
    "format": "movie",
    "categories": [
     "adult-hypnosis",
@@ -218180,7 +221369,8 @@ window.CATALOG = {
     "cheat-control",
     "partner-control",
     "other-control",
-    "index-50"
+    "index-50",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -218203,7 +221393,8 @@ window.CATALOG = {
     "rich-wife-hypnosis",
     "older-man-hypnosis",
     "hypno-leftovers",
-    "hypnosis-assault"
+    "hypnosis-assault",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1201",
@@ -218211,7 +221402,8 @@ window.CATALOG = {
     "rich-wife-hypnosis:23",
     "older-man-hypnosis:26",
     "hypno-leftovers:2",
-    "hypnosis-assault:21"
+    "hypnosis-assault:21",
+    "wife-hypnosis-oct15:49"
    ],
    "index_only": false,
    "local_only": false,
@@ -218459,6 +221651,31 @@ window.CATALOG = {
      "fit_note": "Borderline: The man who exploits her is not the hypnotist, so hypno-intimacy is not applied.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:49",
+     "source": "wife-hypnosis-oct15",
+     "label": "El Gato con Gatas (1992)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "El Gato con Gatas",
+     "subtitle": "",
+     "year": "1992",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -218670,6 +221887,18 @@ window.CATALOG = {
      "catalog_ids": [
       1224
      ]
+    },
+    "wife-hypnosis-oct15:49": {
+     "title": "El Gato con Gatas",
+     "year": "1992",
+     "format": "movie",
+     "match_title": "El Gato con Gatas",
+     "match_year": "1992",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband"
     }
    }
   },
@@ -239787,12 +243016,19 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Balu (Gutur Gu)",
    "format": "tv",
    "categories": [
     "wife",
     "partner-control",
     "india-control",
-    "other-control"
+    "other-control",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -239804,12 +243040,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "india-catalog",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1314",
     "india-catalog:20",
-    "worldwide-hypnosis:415"
+    "worldwide-hypnosis:415",
+    "wife-hypnosis-oct15:50"
    ],
    "index_only": false,
    "local_only": false,
@@ -239901,6 +243139,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:50",
+     "source": "wife-hypnosis-oct15",
+     "label": "Gutur Gu (2010–14)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Gutur Gu",
+     "subtitle": "",
+     "year": "2010–14",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Balu (Gutur Gu)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -239969,6 +243236,22 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "wife-hypnosis-oct15:50": {
+     "title": "Gutur Gu",
+     "year": "2010–14",
+     "format": "tv",
+     "match_title": "Gutur Gu",
+     "match_year": "2010–14",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Balu (Gutur Gu)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     }
    }
   },
@@ -249064,11 +252347,18 @@ window.CATALOG = {
    "character": "",
    "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
    "note": "",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Babbal (wife Iccha)",
    "format": "tv",
    "categories": [
     "tantrik",
     "crime",
-    "india-control"
+    "india-control",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -249079,11 +252369,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "india-catalog"
+    "india-catalog",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1365",
-    "india-catalog:46"
+    "india-catalog:46",
+    "wife-hypnosis-oct15:51"
    ],
    "index_only": false,
    "local_only": false,
@@ -249147,6 +252439,35 @@ window.CATALOG = {
      ],
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:51",
+     "source": "wife-hypnosis-oct15",
+     "label": "Ichhapyaari Naagin (2016–17)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Ichhapyaari Naagin",
+     "subtitle": "",
+     "year": "2016–17",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Babbal (wife Iccha)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -249192,6 +252513,22 @@ window.CATALOG = {
        "url": "https://mentalblock.miraheze.org/wiki/Ichhapyari_naagin"
       }
      ]
+    },
+    "wife-hypnosis-oct15:51": {
+     "title": "Ichhapyaari Naagin",
+     "year": "2016–17",
+     "format": "tv",
+     "match_title": "Ichhapyaari Naagin",
+     "match_year": "2016–17",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Babbal (wife Iccha)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     }
    }
   },
@@ -259820,7 +263157,8 @@ window.CATALOG = {
     "wife",
     "tantrik",
     "india-control",
-    "royal-hypnosis"
+    "royal-hypnosis",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -259837,13 +263175,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "india-catalog",
     "hypno-leftovers",
-    "royal-hypnosis-loose"
+    "royal-hypnosis-loose",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1424",
     "india-catalog:44",
     "hypno-leftovers:26",
-    "royal-hypnosis-loose:10"
+    "royal-hypnosis-loose:10",
+    "wife-hypnosis-oct15:53"
    ],
    "index_only": false,
    "local_only": false,
@@ -259983,6 +263323,31 @@ window.CATALOG = {
      "already_married_note": "Royal-hypnosis loose fit: Princess Uruvi is already Karn's wife; Kasturi, who claims to be his first wife, uses hypnotic powder and a tantrik to make her seduce Karna — a marital scheme, not the throne",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:53",
+     "source": "wife-hypnosis-oct15",
+     "label": "Karn Sangini (2018–19)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Karn Sangini",
+     "subtitle": "",
+     "year": "2018–19",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Karn (wife Uruvi)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -260088,6 +263453,18 @@ window.CATALOG = {
      ],
      "already_married": "yes",
      "already_married_note": "Royal-hypnosis loose fit: Princess Uruvi is already Karn's wife; Kasturi, who claims to be his first wife, uses hypnotic powder and a tantrik to make her seduce Karna — a marital scheme, not the throne"
+    },
+    "wife-hypnosis-oct15:53": {
+     "title": "Karn Sangini",
+     "year": "2018–19",
+     "format": "tv",
+     "match_title": "Karn Sangini",
+     "match_year": "2018–19",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Karn (wife Uruvi)"
     }
    },
    "watch_links": [
@@ -268531,9 +271908,16 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
    "format": "movie",
    "categories": [
-    "human"
+    "human",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -268548,11 +271932,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1469",
-    "worldwide-hypnosis:550"
+    "worldwide-hypnosis:550",
+    "wife-hypnosis-oct15:54"
    ],
    "index_only": false,
    "local_only": false,
@@ -268622,6 +272008,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:54",
+     "source": "wife-hypnosis-oct15",
+     "label": "Lady Morgan's Vengeance (1965)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Lady Morgan's Vengeance",
+     "subtitle": "",
+     "year": "1965",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -268673,6 +272088,22 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "wife-hypnosis-oct15:54": {
+     "title": "Lady Morgan's Vengeance",
+     "year": "1965",
+     "format": "movie",
+     "match_title": "Lady Morgan's Vengeance",
+     "match_year": "1965",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     }
    }
   },
@@ -271956,11 +275387,14 @@ window.CATALOG = {
    "evidence": "4 sources; Chinese official title 听老公的话 = literal translation of the English title and carries the same character names (Luo Fei, Qi Xia, Zhang Ming) as the 枕边催眠师 listing in round 2",
    "source_conflict": "Mental Block calls it a 'medium-length drama thriller film' (the card was listed as a film), while the Chinese listings show a numbered vertical series. Episode count 30 (Hongguo, lufadj) vs 17 (old 枕边催眠师 listing). Cast on Hongguo is listed as 张子尧/魏依珂/韦恩 while an aggregator lists characters 洛菲/祁夏/季溪雨 — character names agree, cast listings differ. Year 2025 is inferred from the Hongguo series-id timestamp (~Jun 2025) and a Feb 2026 comment; Mental Block says 2025.",
    "fit_note": "Borderline: the husband hypnotizes his wife, but no source confirms any sexual assault under hypnosis; the English and Chinese titles are matched by character name only.",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Qi Xia (wife Luo Fei)",
    "format": "vertical series",
    "categories": [
     "wife",
     "partner-control",
-    "other-control"
+    "other-control",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -271995,7 +275429,8 @@ window.CATALOG = {
     "rich-wife-hypnosis",
     "round2",
     "round3",
-    "kr-cn-hypnosis"
+    "kr-cn-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1486",
@@ -272003,7 +275438,8 @@ window.CATALOG = {
     "rich-wife-hypnosis:22",
     "round2:2",
     "round3:2",
-    "kr-cn-hypnosis:10"
+    "kr-cn-hypnosis:10",
+    "wife-hypnosis-oct15:55"
    ],
    "index_only": false,
    "local_only": false,
@@ -272234,6 +275670,31 @@ window.CATALOG = {
      ],
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:55",
+     "source": "wife-hypnosis-oct15",
+     "label": "Listen To Your Husband (2025)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Listen To Your Husband",
+     "subtitle": "",
+     "year": "2025",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Qi Xia (wife Luo Fei)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -272437,6 +275898,18 @@ window.CATALOG = {
      ],
      "note": "Names and the Dr. Zhang detail come from a fan post (low weight); the core plot matches the existing Mental Block card.",
      "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)"
+    },
+    "wife-hypnosis-oct15:55": {
+     "title": "Listen To Your Husband",
+     "year": "2025",
+     "format": "vertical series",
+     "match_title": "Listen To Your Husband",
+     "match_year": "2025",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Qi Xia (wife Luo Fei)"
     }
    }
   },
@@ -273534,9 +277007,16 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
    "format": "tv",
    "categories": [
-    "other-control"
+    "other-control",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -273551,11 +277031,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1494",
-    "worldwide-hypnosis:555"
+    "worldwide-hypnosis:555",
+    "wife-hypnosis-oct15:56"
    ],
    "index_only": false,
    "local_only": false,
@@ -273625,6 +277107,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:56",
+     "source": "wife-hypnosis-oct15",
+     "label": "Los Ladrones van a la Oficina (1993)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Los Ladrones van a la Oficina",
+     "subtitle": "",
+     "year": "1993",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -273676,6 +277187,22 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "wife-hypnosis-oct15:56": {
+     "title": "Los Ladrones van a la Oficina",
+     "year": "1993",
+     "format": "tv",
+     "match_title": "Los Ladrones van a la Oficina",
+     "match_year": "1993",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     }
    }
   },
@@ -277781,12 +281308,19 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: unknown.",
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "Pregnancy status is not stated in the available sources.",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
    "format": "tv",
    "categories": [
     "love",
     "wife",
     "partner-control",
-    "cult"
+    "cult",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -277797,11 +281331,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "hypnotized-love"
+    "hypnotized-love",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1517",
-    "hypnotized-love:25"
+    "hypnotized-love:25",
+    "wife-hypnosis-oct15:57"
    ],
    "index_only": false,
    "local_only": false,
@@ -277871,6 +281407,35 @@ window.CATALOG = {
      "pregnancy_note": "Pregnancy status is not stated in the available sources.",
      "distinct_story": false,
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:57",
+     "source": "wife-hypnosis-oct15",
+     "label": "Magpakailanman (2019)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Magpakailanman",
+     "subtitle": "",
+     "year": "2019",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -277899,6 +281464,22 @@ window.CATALOG = {
      ],
      "pcg": "husband-broader",
      "wg": "psychological"
+    },
+    "wife-hypnosis-oct15:57": {
+     "title": "Magpakailanman",
+     "year": "2019",
+     "format": "tv",
+     "match_title": "Magpakailanman",
+     "match_year": "2019",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     },
     "hypnotized-love:25": {
      "title": "Magpakailanman",
@@ -279615,10 +283196,15 @@ window.CATALOG = {
    ],
    "method": "hypnosis (a power he says a holy man gave him)",
    "kids_status": "unknown",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Nahar (wife Ruhi)",
    "format": "tv",
    "categories": [
     "wife",
-    "india-control"
+    "india-control",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -279629,11 +283215,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1526",
-    "rich-wife-hypnosis:45"
+    "rich-wife-hypnosis:45",
+    "wife-hypnosis-oct15:58"
    ],
    "index_only": false,
    "local_only": false,
@@ -279711,6 +283299,33 @@ window.CATALOG = {
      "kids_status": "unknown",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:58",
+     "source": "wife-hypnosis-oct15",
+     "label": "Mann Sundar (2026)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Mann Sundar",
+     "subtitle": "",
+     "year": "2026",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Nahar (wife Ruhi)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -279772,6 +283387,20 @@ window.CATALOG = {
       }
      ],
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "wife-hypnosis-oct15:58": {
+     "title": "Mann Sundar",
+     "year": "2026",
+     "format": "tv",
+     "match_title": "Mann Sundar",
+     "match_year": "2026",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Nahar (wife Ruhi)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated"
     }
    }
   },
@@ -295641,11 +299270,16 @@ window.CATALOG = {
    "method": "hypnosis",
    "kids_status": "no",
    "kids_note": "she and Erol are only planning children when introduced",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Erol (wife Filiz)",
    "format": "tv",
    "categories": [
     "wife",
     "partner-control",
-    "human"
+    "human",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -295673,12 +299307,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1618",
     "worldwide-hypnosis:1084",
-    "rich-wife-hypnosis:28"
+    "rich-wife-hypnosis:28",
+    "wife-hypnosis-oct15:59"
    ],
    "index_only": false,
    "local_only": false,
@@ -295834,6 +299470,33 @@ window.CATALOG = {
      "kids_note": "she and Erol are only planning children when introduced",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:59",
+     "source": "wife-hypnosis-oct15",
+     "label": "No: 309 (2016–2017)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "No: 309",
+     "subtitle": "",
+     "year": "2016–2017",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Erol (wife Filiz)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -295965,6 +299628,20 @@ window.CATALOG = {
       }
      ],
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "wife-hypnosis-oct15:59": {
+     "title": "No: 309",
+     "year": "2016–2017",
+     "format": "tv",
+     "match_title": "No: 309",
+     "match_year": "2016–2017",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Erol (wife Filiz)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated"
     }
    }
   },
@@ -301522,11 +305199,22 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "fit_note": "Loose fit: backstory only",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Byron Volpe (his wife, in backstory)",
    "format": "movie",
    "categories": [
     "fantasy",
     "crime",
-    "human"
+    "human",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -301541,11 +305229,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1651",
-    "worldwide-hypnosis:668"
+    "worldwide-hypnosis:668",
+    "wife-hypnosis-oct15:103"
    ],
    "index_only": false,
    "local_only": false,
@@ -301619,6 +305309,39 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:103",
+     "source": "wife-hypnosis-oct15",
+     "label": "Parasomnia (2008)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Parasomnia",
+     "subtitle": "",
+     "year": "2008",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "no",
+     "pregnant_end": "no",
+     "fit_note": "Loose fit: backstory only",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Byron Volpe (his wife, in backstory)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -301674,6 +305397,26 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "wife-hypnosis-oct15:103": {
+     "title": "Parasomnia",
+     "year": "2008",
+     "format": "movie",
+     "match_title": "Parasomnia",
+     "match_year": "2008",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Byron Volpe (his wife, in backstory)",
+     "pregnant_end": "no",
+     "kids_together": "no",
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: backstory only"
     }
    },
    "watch_links": [
@@ -322512,9 +326255,16 @@ window.CATALOG = {
    "note": "Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "kids_status": "no",
+   "kids_note": "no",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Nicolas (wife Mathilde)",
    "format": "movie",
    "categories": [
-    "other-control"
+    "other-control",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -322529,11 +326279,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1760",
-    "worldwide-hypnosis:761"
+    "worldwide-hypnosis:761",
+    "wife-hypnosis-oct15:30"
    ],
    "index_only": false,
    "local_only": false,
@@ -322603,6 +326355,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:30",
+     "source": "wife-hypnosis-oct15",
+     "label": "Seventh Heaven (1997)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Seventh Heaven",
+     "subtitle": "",
+     "year": "1997",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "no",
+     "kids_note": "no",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Nicolas (wife Mathilde)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -322654,6 +326435,22 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "wife-hypnosis-oct15:30": {
+     "title": "Seventh Heaven",
+     "year": "1997",
+     "format": "movie",
+     "match_title": "Seventh Heaven",
+     "match_year": "1997",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Nicolas (wife Mathilde)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "no",
+     "kids_note": "no"
     }
    }
   },
@@ -326012,9 +329809,14 @@ window.CATALOG = {
    ],
    "method": "hypnosis (bracelet)",
    "kids_status": "unknown",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
    "format": "tv",
    "categories": [
-    "other-control"
+    "other-control",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -326030,12 +329832,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1780",
     "worldwide-hypnosis:784",
-    "rich-wife-hypnosis:36"
+    "rich-wife-hypnosis:36",
+    "wife-hypnosis-oct15:60"
    ],
    "index_only": false,
    "local_only": false,
@@ -326153,6 +329957,33 @@ window.CATALOG = {
      "kids_status": "unknown",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:60",
+     "source": "wife-hypnosis-oct15",
+     "label": "Shut Eye (2016)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Shut Eye",
+     "subtitle": "",
+     "year": "2016",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -326244,6 +330075,20 @@ window.CATALOG = {
       }
      ],
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "wife-hypnosis-oct15:60": {
+     "title": "Shut Eye",
+     "year": "2016",
+     "format": "tv",
+     "match_title": "Shut Eye",
+     "match_year": "2016",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated"
     }
    },
    "watch_links": [
@@ -327990,6 +331835,9 @@ window.CATALOG = {
      "number_verified": false
     }
    ],
+   "tags": [
+    "loose fit"
+   ],
    "hypnotist": "a gang of thieves",
    "gain_motive": [
     "money",
@@ -327997,11 +331845,17 @@ window.CATALOG = {
    ],
    "method": "trance-inducing powder (hypnotic device)",
    "kids_status": "unknown",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Loose fit: sindoor/powder spell rather than hypnosis",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
    "format": "tv",
    "categories": [
     "tantrik",
     "india-control",
-    "crime"
+    "crime",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -328013,12 +331867,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "india-catalog",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1791",
     "india-catalog:52",
-    "rich-wife-hypnosis:40"
+    "rich-wife-hypnosis:40",
+    "wife-hypnosis-oct15:61"
    ],
    "index_only": false,
    "local_only": false,
@@ -328126,6 +331982,37 @@ window.CATALOG = {
      "kids_status": "unknown",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:61",
+     "source": "wife-hypnosis-oct15",
+     "label": "Sindoor Ki Keemat (2023)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Sindoor Ki Keemat",
+     "subtitle": "",
+     "year": "2023",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Loose fit: sindoor/powder spell rather than hypnosis",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -328208,6 +332095,24 @@ window.CATALOG = {
       }
      ],
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "wife-hypnosis-oct15:61": {
+     "title": "Sindoor Ki Keemat",
+     "year": "2023",
+     "format": "tv",
+     "match_title": "Sindoor Ki Keemat",
+     "match_year": "2023",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: sindoor/powder spell rather than hypnosis"
     }
    }
   },
@@ -329731,9 +333636,16 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Brad (wife Jenny)",
    "format": "movie",
    "categories": [
-    "scifi"
+    "scifi",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -329744,11 +333656,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1801",
-    "worldwide-hypnosis:780"
+    "worldwide-hypnosis:780",
+    "wife-hypnosis-oct15:62"
    ],
    "index_only": false,
    "local_only": false,
@@ -329810,6 +333724,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:62",
+     "source": "wife-hypnosis-oct15",
+     "label": "Sleepwalker (2022)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Sleepwalker",
+     "subtitle": "",
+     "year": "2022",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Brad (wife Jenny)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -329853,6 +333796,22 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "wife-hypnosis-oct15:62": {
+     "title": "Sleepwalker",
+     "year": "2022",
+     "format": "movie",
+     "match_title": "Sleepwalker",
+     "match_year": "2022",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Brad (wife Jenny)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     }
    }
   },
@@ -336253,10 +340212,15 @@ window.CATALOG = {
    ],
    "method": "hypnosis",
    "kids_status": "unknown",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
    "format": "tv",
    "categories": [
     "human",
-    "crime"
+    "crime",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -336272,12 +340236,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1835",
     "worldwide-hypnosis:819",
-    "rich-wife-hypnosis:32"
+    "rich-wife-hypnosis:32",
+    "wife-hypnosis-oct15:63"
    ],
    "index_only": false,
    "local_only": false,
@@ -336397,6 +340363,33 @@ window.CATALOG = {
      "kids_status": "unknown",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:63",
+     "source": "wife-hypnosis-oct15",
+     "label": "Streets of Broken Lights (1995–2019)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Streets of Broken Lights",
+     "subtitle": "",
+     "year": "1995–2019",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -336490,6 +340483,20 @@ window.CATALOG = {
       }
      ],
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "wife-hypnosis-oct15:63": {
+     "title": "Streets of Broken Lights",
+     "year": "1995–2019",
+     "format": "tv",
+     "match_title": "Streets of Broken Lights",
+     "match_year": "1995–2019",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated"
     }
    }
   },
@@ -360994,6 +365001,8 @@ window.CATALOG = {
    "method": "hypnosis (with memory-erasing drugs)",
    "kids_status": "yes",
    "kids_note": "2: son Saaransh and a newborn taken away by Revathi",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
    "fit_note": "Already-married mother hypnotised into believing in a new marriage; see also the mother category.",
    "already_married": "yes",
    "already_married_note": "Preesha is the wife of rock star Rudraksh Khurana when Armaan drugs and hypnotises her into believing she is happily married to him",
@@ -361004,7 +365013,8 @@ window.CATALOG = {
     "mother",
     "love",
     "hypnotized-marriage",
-    "hypnotised-mother-marriage"
+    "hypnotised-mother-marriage",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -361028,12 +365038,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "rich-wife-hypnosis",
-    "hypnotized-marriage"
+    "hypnotized-marriage",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1967",
     "rich-wife-hypnosis:44",
-    "hypnotized-marriage:9"
+    "hypnotized-marriage:9",
+    "wife-hypnosis-oct15:64"
    ],
    "index_only": false,
    "local_only": false,
@@ -361192,6 +365204,33 @@ window.CATALOG = {
      "already_married_note": "Preesha is the wife of rock star Rudraksh Khurana when Armaan drugs and hypnotises her into believing she is happily married to him",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:64",
+     "source": "wife-hypnosis-oct15",
+     "label": "Yeh Hai Chahatein (2019–2024)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Yeh Hai Chahatein",
+     "subtitle": "",
+     "year": "2019–2024",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Rudraksh (wife Preesha)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -361325,6 +365364,20 @@ window.CATALOG = {
      "already_married_note": "Preesha is the wife of rock star Rudraksh Khurana when Armaan drugs and hypnotises her into believing she is happily married to him",
      "kids_note": "two children: son Saaransh and a newborn taken away",
      "fit_note": "Already-married mother hypnotised into believing in a new marriage; see also the mother category."
+    },
+    "wife-hypnosis-oct15:64": {
+     "title": "Yeh Hai Chahatein",
+     "year": "2019–2024",
+     "format": "tv",
+     "match_title": "Yeh Hai Chahatein",
+     "match_year": "2019–2024",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Rudraksh (wife Preesha)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated"
     }
    }
   },
@@ -362993,11 +367046,14 @@ window.CATALOG = {
    "pregnant_end": "unknown",
    "evidence": "2+ independent sources (Tower Records, eiga.com, Klockworx: '妻が催眠術を受けて医師に凌辱される')",
    "source_conflict": "The film frames the assaults as possibly dreams; the source story and marketing present them as hypnotic violation.",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Yuriko's husband",
    "format": "movie",
    "categories": [
     "hypno-intimacy",
     "adult-hypnosis",
-    "medical"
+    "medical",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -363016,11 +367072,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "hypnosis-assault"
+    "hypnosis-assault",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1976",
-    "hypnosis-assault:34"
+    "hypnosis-assault:34",
+    "wife-hypnosis-oct15:65"
    ],
    "index_only": false,
    "local_only": false,
@@ -363108,6 +367166,31 @@ window.CATALOG = {
      "source_conflict": "The film frames the assaults as possibly dreams; the source story and marketing present them as hypnotic violation.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:65",
+     "source": "wife-hypnosis-oct15",
+     "label": "魔睡 / Masui (2019)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "魔睡 / Masui",
+     "subtitle": "",
+     "year": "2019",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Yuriko's husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -363181,6 +367264,18 @@ window.CATALOG = {
      "provenance": "Hypnosis-assault research pass, 30 Sep 2026 (adult women only; minors/teen characters excluded; non-graphic wording; each record cross-checked where possible)",
      "group": "Hypnotized woman sexually assaulted under hypnosis (Sep 2026)",
      "catalog_ids": []
+    },
+    "wife-hypnosis-oct15:65": {
+     "title": "魔睡 / Masui",
+     "year": "2019",
+     "format": "movie",
+     "match_title": "魔睡 / Masui",
+     "match_year": "2019",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Yuriko's husband"
     }
    }
   },
@@ -365485,10 +369580,17 @@ window.CATALOG = {
    "character": "",
    "provenance": "Vertical short-drama hypnosis ± pregnancy sweep, 01 Oct 2026 (official synopsis corroborated across multiple indexed ReelShort pages)",
    "note": "Pregnancy is discovered after the hypnosis-and-fire incident. She may already have been pregnant during the hypnosis, but the timing is not confirmed, so this is not filed in the strict pregnancy-era category.",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Vincent Vance (wife Elena)",
    "format": "tv",
    "categories": [
     "love",
-    "forced-obedience"
+    "forced-obedience",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -365527,11 +369629,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1996",
-    "ig6qlxqxoxvcxla:157"
+    "ig6qlxqxoxvcxla:157",
+    "wife-hypnosis-oct15:66"
    ],
    "index_only": false,
    "local_only": false,
@@ -365614,6 +369718,35 @@ window.CATALOG = {
      "distinct_story": true,
      "index_title": "Sweet Strategy: Mr. Vance's Ex Is Too Proud",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:66",
+     "source": "wife-hypnosis-oct15",
+     "label": "Sweet Strategy: Mr. Vance's Ex Is Too Proud (Unconfirmed)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Sweet Strategy: Mr. Vance's Ex Is Too Proud",
+     "subtitle": "",
+     "year": "Unconfirmed",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Vincent Vance (wife Elena)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -365694,6 +369827,22 @@ window.CATALOG = {
        }
       ]
      }
+    },
+    "wife-hypnosis-oct15:66": {
+     "title": "Sweet Strategy: Mr. Vance's Ex Is Too Proud",
+     "year": "Unconfirmed",
+     "format": "tv",
+     "match_title": "Sweet Strategy: Mr. Vance's Ex Is Too Proud",
+     "match_year": "Unconfirmed",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Vincent Vance (wife Elena)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     }
    }
   },
@@ -365981,10 +370130,15 @@ window.CATALOG = {
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
    "kids_status": "unknown",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Vincent Wallace (wife Kathy)",
    "format": "tv",
    "categories": [
     "love",
-    "pregnant-strict"
+    "pregnant-strict",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -365997,11 +370151,13 @@ window.CATALOG = {
    ],
    "from_sources": [
     "xla62ucxbx02u5",
-    "kr-cn-hypnosis"
+    "kr-cn-hypnosis",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:2000",
-    "kr-cn-hypnosis:55"
+    "kr-cn-hypnosis:55",
+    "wife-hypnosis-oct15:67"
    ],
    "index_only": false,
    "local_only": false,
@@ -366058,6 +370214,33 @@ window.CATALOG = {
      "kids_status": "unknown",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:67",
+     "source": "wife-hypnosis-oct15",
+     "label": "I Accidentally Had the Billionaire's Twins. 6 Years Later, They Saved His Empire! (Unconfirmed)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "I Accidentally Had the Billionaire's Twins. 6 Years Later, They Saved His Empire!",
+     "subtitle": "",
+     "year": "Unconfirmed",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Vincent Wallace (wife Kathy)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -366101,6 +370284,20 @@ window.CATALOG = {
      "kids_status": "unknown",
      "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
      "note": ""
+    },
+    "wife-hypnosis-oct15:67": {
+     "title": "I Accidentally Had the Billionaire's Twins. 6 Years Later, They Saved His Empire!",
+     "year": "Unconfirmed",
+     "format": "tv",
+     "match_title": "I Accidentally Had the Billionaire's Twins. 6 Years Later, They Saved His Empire!",
+     "match_year": "Unconfirmed",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Vincent Wallace (wife Kathy)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated"
     }
    }
   },
@@ -377823,23 +382020,83 @@ window.CATALOG = {
    "character": "Meguri (wife)",
    "provenance": "Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Source indexes: jav.sb, japavstore, javmala, javfifo and thisjav.",
    "note": "",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Meguri's husband",
    "format": "movie",
    "categories": [
-    "hypno-intimacy"
+    "hypno-intimacy",
+    "wife-hypnotized"
    ],
    "sources": [],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "xla62ucxbx02u5:2155"
+    "xla62ucxbx02u5:2155",
+    "wife-hypnosis-oct15:68"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:2155",
+    "source": "xla62ucxbx02u5",
+    "label": "PPPD-305 (2014)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "PPPD-305",
+    "subtitle": "",
+    "year": "2014",
+    "meta": "Adult video (JAV) · OPPAI · Japan · Japanese",
+    "summary": "A friend of the husband, presented as a hypnosis specialist, hypnotizes Meguri in an NTR-themed adult scenario. The production is indexed with a “Hypnosis” genre tag.",
+    "character": "Meguri (wife)",
+    "note": "",
+    "mechanism": "Hypnosis by a family acquaintance",
+    "confidence_flag": "High confidence as an adult production · 18+ explicit",
+    "categories": [
+     "hypno-intimacy"
+    ],
+    "sources": [],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:68",
+     "source": "wife-hypnosis-oct15",
+     "label": "PPPD-305 (2014)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "PPPD-305",
+     "subtitle": "",
+     "year": "2014",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Meguri's husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:2155": {
      "t": "PPPD-305",
@@ -377855,6 +382112,22 @@ window.CATALOG = {
      "s": "A friend of the husband, presented as a hypnosis specialist, hypnotizes Meguri in an NTR-themed adult scenario. The production is indexed with a “Hypnosis” genre tag.",
      "src": [],
      "prov": "Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Source indexes: jav.sb, japavstore, javmala, javfifo and thisjav."
+    },
+    "wife-hypnosis-oct15:68": {
+     "title": "PPPD-305",
+     "year": "2014",
+     "format": "movie",
+     "match_title": "PPPD-305",
+     "match_year": "2014",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Meguri's husband",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     }
    }
   },
@@ -378061,10 +382334,17 @@ window.CATALOG = {
    "character": "",
    "provenance": "",
    "note": "",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Kevin O'Connor (wife Terry Brock)",
    "format": "tv",
    "categories": [
     "doctor-gain",
-    "forced-obedience"
+    "forced-obedience",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -378082,16 +382362,84 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "xla62ucxbx02u5:2159"
+    "xla62ucxbx02u5:2159",
+    "wife-hypnosis-oct15:69"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:2159",
+    "source": "xla62ucxbx02u5",
+    "label": "General Hospital · 1985–86 · Kevin O’Connor / Laurelton storyline (1985–86)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "General Hospital",
+    "subtitle": "1985–86 · Kevin O’Connor / Laurelton storyline",
+    "year": "1985–86",
+    "meta": "Daytime soap opera · United States · English",
+    "summary": "Doctor and serial killer Kevin O’Connor hypnotizes fiancée and later wife Terry Brock into believing she committed the Laurelton murders, shifting blame for his crimes onto her.",
+    "character": "",
+    "note": "",
+    "mechanism": "Hypnotic trance",
+    "confidence_flag": "HIGH",
+    "categories": [
+     "doctor-gain",
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "Soap Opera Digest",
+      "url": "https://www.soapoperadigest.com/content/ghs-devious-dastardly-docs-0/"
+     },
+     {
+      "label": "SoapCentral",
+      "url": "https://www.soapcentral.com/general-hospital/general-hospital-s-notorious-serial-killers"
+     },
+     {
+      "label": "General Hospital Wiki",
+      "url": "https://general-hospital.fandom.com/wiki/The_Laurelton_Murders"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:69",
+     "source": "wife-hypnosis-oct15",
+     "label": "General Hospital (1985–86)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "General Hospital",
+     "subtitle": "",
+     "year": "1985–86",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Kevin O'Connor (wife Terry Brock)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:2159": {
      "t": "General Hospital",
@@ -378143,6 +382491,22 @@ window.CATALOG = {
       ]
      ],
      "fog": "therapist"
+    },
+    "wife-hypnosis-oct15:69": {
+     "title": "General Hospital",
+     "year": "1985–86",
+     "format": "tv",
+     "match_title": "General Hospital",
+     "match_year": "1985–86",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Kevin O'Connor (wife Terry Brock)",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     }
    }
   },
@@ -378480,10 +382844,17 @@ window.CATALOG = {
    "character": "",
    "provenance": "",
    "note": "Controller is a female hypnotherapist; the film is based on a therapist-abuse case.",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Lana's husband",
    "format": "movie",
    "categories": [
     "doctor-gain",
-    "forced-obedience"
+    "forced-obedience",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -378501,16 +382872,83 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "xla62ucxbx02u5:2162"
+    "xla62ucxbx02u5:2162",
+    "wife-hypnosis-oct15:70"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:2162",
+    "source": "xla62ucxbx02u5",
+    "label": "The Scarapist (2015)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Scarapist",
+    "subtitle": "",
+    "year": "2015",
+    "meta": "Film · United States · English · 81 min",
+    "summary": "Female hypnotherapist Ilse draws novelist, wife and mother Lana into bogus therapy, uses hypnosis with controlling effects, deceives Lana’s husband and extends control over the patient’s family.",
+    "character": "",
+    "note": "Controller is a female hypnotherapist; the film is based on a therapist-abuse case.",
+    "mechanism": "Hypnosis + drugs",
+    "confidence_flag": "HIGH · FEMALE DOCTOR",
+    "categories": [
+     "doctor-gain",
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Scarapist"
+     },
+     {
+      "label": "ScreenAnarchy",
+      "url": "https://screenanarchy.com/2016/10/a-winning-recipe-for-halloween-popcorn-trick-or-treat-candy-and-the-scarapist-contrib.html"
+     },
+     {
+      "label": "HorrorBuzz",
+      "url": "https://horrorbuzz.com/award-winning-indie-horror-the-scarapist-arrives-on-tubi-this-month/"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:70",
+     "source": "wife-hypnosis-oct15",
+     "label": "The Scarapist (2015)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Scarapist",
+     "subtitle": "",
+     "year": "2015",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Lana's husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:2162": {
      "t": "The Scarapist",
@@ -378562,6 +383000,22 @@ window.CATALOG = {
       ]
      ],
      "fog": "therapist"
+    },
+    "wife-hypnosis-oct15:70": {
+     "title": "The Scarapist",
+     "year": "2015",
+     "format": "movie",
+     "match_title": "The Scarapist",
+     "match_year": "2015",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Lana's husband",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     }
    }
   },
@@ -381084,9 +385538,16 @@ window.CATALOG = {
    "character": "Minnie",
    "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep.",
    "note": "Clinical, patient-requested hypnosis. Pregnancy during the arc, pregnancy at the end, children before and children by the end are unknown; the asylum-set thriller sources are silent.",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Minnie's husband",
    "format": "movie",
    "categories": [
-    "medical"
+    "medical",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -381104,16 +385565,84 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:176"
+    "ig6qlxqxoxvcxla:176",
+    "wife-hypnosis-oct15:71"
    ],
-   "index_only": true,
+   "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "ig6qlxqxoxvcxla:176",
+    "source": "ig6qlxqxoxvcxla",
+    "label": "Bonyo Premer Golpo S2 · S2E8 The Unsatisfied Wife; S2E10 (2020)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Bonyo Premer Golpo S2",
+    "subtitle": "S2E8 The Unsatisfied Wife; S2E10",
+    "year": "2020",
+    "meta": "Web series · India · Bengali · Hoichoi",
+    "summary": "Minnie asks Dr. Kanishka to hypnotise her in S2E8 and reveals her deepest secrets; by S2E10, Kanishka unearths a shocking secret from Minnie's hypnosis history.",
+    "character": "Minnie",
+    "note": "Clinical, patient-requested hypnosis. Pregnancy during the arc, pregnancy at the end, children before and children by the end are unknown; the asylum-set thriller sources are silent.",
+    "mechanism": "",
+    "confidence_flag": "",
+    "categories": [
+     "medical"
+    ],
+    "sources": [
+     {
+      "label": "Hoichoi",
+      "url": "https://hoichoi.tv/shows/watch-bonyo-premer-golpo-bengali-web-series-online"
+     },
+     {
+      "label": "TheTVDB",
+      "url": "https://www.thetvdb.com/series/bonyo-premer-golpo/allseasons/official"
+     },
+     {
+      "label": "Moviefone",
+      "url": "https://www.moviefone.com/tv-shows/bonyo-premer-golpo/qpchGw9tMszoiGgyK5Kp66/seasons/2/"
+     }
+    ],
+    "distinct_story": false,
+    "index_title": "Bonyo Premer Golpo S2"
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:71",
+     "source": "wife-hypnosis-oct15",
+     "label": "Bonyo Premer Golpo S2 (2020)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Bonyo Premer Golpo S2",
+     "subtitle": "",
+     "year": "2020",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Minnie's husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "ig6qlxqxoxvcxla:176": {
      "detailed": {
@@ -381151,6 +385680,22 @@ window.CATALOG = {
       ],
       "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep."
      }
+    },
+    "wife-hypnosis-oct15:71": {
+     "title": "Bonyo Premer Golpo S2",
+     "year": "2020",
+     "format": "movie",
+     "match_title": "Bonyo Premer Golpo S2",
+     "match_year": "2020",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Minnie's husband",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated"
     }
    }
   },
@@ -381321,9 +385866,20 @@ window.CATALOG = {
    "character": "Newlywed brides; Anju is targeted by voodoo",
    "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep.",
    "note": "The mechanism is described as bewitchment or a spell. Pregnancy is unknown; the victims are newlywed brides and no pregnancy is mentioned. Children are not indicated.",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "fit_note": "Loose fit: supernatural trance; framing unclear",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
    "format": "movie",
    "categories": [
-    "tantrik"
+    "tantrik",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -381337,16 +385893,83 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:183"
+    "ig6qlxqxoxvcxla:183",
+    "wife-hypnosis-oct15:72"
    ],
-   "index_only": true,
+   "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "ig6qlxqxoxvcxla:183",
+    "source": "ig6qlxqxoxvcxla",
+    "label": "Shaitani Ilaaka (1990)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Shaitani Ilaaka",
+    "subtitle": "",
+    "year": "1990",
+    "meta": "Feature film · India · Hindi · theatrical",
+    "summary": "Sorceress Lalbai bewitches newlywed brides, placing them under a spell before sacrificing them to the demon Shaitan to restore his powers; she also uses voodoo against Anju.",
+    "character": "Newlywed brides; Anju is targeted by voodoo",
+    "note": "The mechanism is described as bewitchment or a spell. Pregnancy is unknown; the victims are newlywed brides and no pregnancy is mentioned. Children are not indicated.",
+    "mechanism": "",
+    "confidence_flag": "",
+    "categories": [
+     "tantrik"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shaitani_Ilaaka"
+     },
+     {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0261296"
+     }
+    ],
+    "distinct_story": false,
+    "index_title": "Shaitani Ilaaka"
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:72",
+     "source": "wife-hypnosis-oct15",
+     "label": "Shaitani Ilaaka (1990)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Shaitani Ilaaka",
+     "subtitle": "",
+     "year": "1990",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "tags": [
+      "loose fit"
+     ],
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "fit_note": "Loose fit: supernatural trance; framing unclear",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "ig6qlxqxoxvcxla:183": {
      "detailed": {
@@ -381380,6 +386003,26 @@ window.CATALOG = {
       ],
       "provenance": "Added in the 9 Oct 2026 Indian female-hypnosis platform sweep."
      }
+    },
+    "wife-hypnosis-oct15:72": {
+     "title": "Shaitani Ilaaka",
+     "year": "1990",
+     "format": "movie",
+     "match_title": "Shaitani Ilaaka",
+     "match_year": "1990",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: supernatural trance; framing unclear"
     }
    }
   },
@@ -393980,13 +398623,16 @@ window.CATALOG = {
    "evidence": "2+ independent sources (Unifrance, TMDB, plus French review sites read in the earlier pass)",
    "source_conflict": "Release given as 17 Apr 1985 (Unifrance); one French database gives 1984.",
    "fit_note": "Loose fit: the device triggers compulsive arousal while she stays conscious; it is technological conditioning, not a hypnotic trance.",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
    "format": "movie",
    "categories": [
     "tech",
     "scifi",
     "adult-hypnosis",
     "cheat-control",
-    "index-50"
+    "index-50",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -394000,16 +398646,96 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "hypnosis-assault-loose:11"
+    "hypnosis-assault-loose:11",
+    "wife-hypnosis-oct15:73"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-assault-loose:11",
+    "source": "hypnosis-assault-loose",
+    "label": "Le Déclic / The Click (1985)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Le Déclic / The Click",
+    "subtitle": "",
+    "year": "1985",
+    "meta": "Erotic sci-fi film · France · French (from Milo Manara's comic)",
+    "summary": "Dr. Fez, made to take the fall for his rich employer, takes revenge with a remote-control device originally built to condition rats: with it he triggers irresistible sexual urges in his employer's haughty wife, Claudia Christiani, who stays conscious throughout, including in public.",
+    "character": "Claudia Christiani (Florence Guérin) and Dr. Fez (Jean-Pierre Kalfon)",
+    "note": "",
+    "mechanism": "Stolen remote-control conditioning device",
+    "confidence_flag": "Corroborated · loose fit",
+    "categories": [
+     "tech",
+     "scifi",
+     "adult-hypnosis",
+     "cheat-control",
+     "index-50"
+    ],
+    "sources": [
+     {
+      "label": "Unifrance",
+      "url": "https://www.unifrance.org/film/3533/le-declic"
+     },
+     {
+      "label": "TMDB",
+      "url": "https://www.themoviedb.org/movie/67359-le-declic"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "not mentioned",
+    "tags": [
+     "loose fit"
+    ],
+    "kids_status": "unknown",
+    "kids_together": "no",
+    "married": "yes",
+    "married_note": "married to Christiani",
+    "pregnant_end": "no",
+    "pregnant_end_note": "not mentioned",
+    "evidence": "2+ independent sources (Unifrance, TMDB, plus French review sites read in the earlier pass)",
+    "source_conflict": "Release given as 17 Apr 1985 (Unifrance); one French database gives 1984.",
+    "fit_note": "Loose fit: the device triggers compulsive arousal while she stays conscious; it is technological conditioning, not a hypnotic trance.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:73",
+     "source": "wife-hypnosis-oct15",
+     "label": "Le Déclic / The Click (1985)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Le Déclic / The Click",
+     "subtitle": "",
+     "year": "1985",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: remote-control device rather than hypnosis",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-assault-loose:11": {
      "title": "Le Déclic / The Click",
@@ -394054,6 +398780,22 @@ window.CATALOG = {
       "loose fit"
      ],
      "catalog_ids": []
+    },
+    "wife-hypnosis-oct15:73": {
+     "title": "Le Déclic / The Click",
+     "year": "1985",
+     "format": "movie",
+     "match_title": "Le Déclic / The Click",
+     "match_year": "1985",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: remote-control device rather than hypnosis"
     }
    }
   },
@@ -394181,10 +398923,13 @@ window.CATALOG = {
    "pregnant_end": "unknown",
    "evidence": "Single source for the plot (Film Threat); IMDb confirms the title",
    "fit_note": "Loose fit: unverified — sources stop at her entranced visit to the hypnotist; no source states a sexual assault.",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Tim (wife Tina)",
    "format": "movie",
    "categories": [
     "adult-hypnosis",
-    "cheat-control"
+    "cheat-control",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -394198,16 +398943,87 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "hypnosis-assault-loose:15"
+    "hypnosis-assault-loose:15",
+    "wife-hypnosis-oct15:74"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnosis-assault-loose:15",
+    "source": "hypnosis-assault-loose",
+    "label": "Twisted Fiction · Segment 1 (“Mind F**k”) (2023)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Twisted Fiction",
+    "subtitle": "Segment 1 (“Mind F**k”)",
+    "year": "2023",
+    "meta": "Adult horror anthology · United States · English",
+    "summary": "In the first segment, stage hypnotist the Great Xaxxo hypnotizes volunteers, including Tina, so that they climax whenever his name is spoken; her husband Tim confronts her, and a night later Tina takes a 2 a.m. call and sleepwalks to Xaxxo's lair with Tim following. (A separate segment involves a producer drugging and raping an actress, without hypnosis.)",
+    "character": "Tina, her husband Tim and the Great Xaxxo",
+    "note": "Verification: Confirmed: stage hypnosis with a sexual trigger and her entranced night visit to the hypnotist. Not confirmed: what happens at his lair.",
+    "mechanism": "Stage hypnosis with a name trigger",
+    "confidence_flag": "Single source · loose fit",
+    "categories": [
+     "adult-hypnosis",
+     "cheat-control"
+    ],
+    "sources": [
+     {
+      "label": "Film Threat review",
+      "url": "https://filmthreat.com/reviews/twisted-fiction/"
+     },
+     {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt28432475/"
+     }
+    ],
+    "pregnancy_outcome": "unknown",
+    "tags": [
+     "loose fit"
+    ],
+    "kids_status": "unknown",
+    "kids_together": "unknown",
+    "married": "yes",
+    "married_note": "Tina is married to Tim",
+    "pregnant_end": "unknown",
+    "evidence": "Single source for the plot (Film Threat); IMDb confirms the title",
+    "fit_note": "Loose fit: unverified — sources stop at her entranced visit to the hypnotist; no source states a sexual assault.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:74",
+     "source": "wife-hypnosis-oct15",
+     "label": "Twisted Fiction (2023)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Twisted Fiction",
+     "subtitle": "",
+     "year": "2023",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Tim (wife Tina)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnosis-assault-loose:15": {
      "title": "Twisted Fiction",
@@ -394248,6 +399064,18 @@ window.CATALOG = {
      ],
      "note": "Verification: Confirmed: stage hypnosis with a sexual trigger and her entranced night visit to the hypnotist. Not confirmed: what happens at his lair.",
      "catalog_ids": []
+    },
+    "wife-hypnosis-oct15:74": {
+     "title": "Twisted Fiction",
+     "year": "2023",
+     "format": "movie",
+     "match_title": "Twisted Fiction",
+     "match_year": "2023",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Tim (wife Tina)"
     }
    }
   },
@@ -406822,12 +411650,15 @@ window.CATALOG = {
     "loose fit"
    ],
    "kids_status": "unknown",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
    "evidence": "single source - TMDB overview; Wikipedia gives only cast and director",
    "already_married": "yes",
    "already_married_note": "she is the hypnotist's wife",
    "format": "movie",
    "categories": [
-    "hypnotized-marriage"
+    "hypnotized-marriage",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -406841,16 +411672,83 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "no-link-additions"
+    "no-link-additions",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "no-link-additions:33"
+    "no-link-additions:33",
+    "wife-hypnosis-oct15:75"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "no-link-additions:33",
+    "source": "no-link-additions",
+    "label": "Fascinación (1949)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Fascinación",
+    "subtitle": "",
+    "year": "1949",
+    "meta": "Feature film · Argentina · Spanish",
+    "summary": "The wife of a hypnotist lives in uncertainty over whether she is with her husband out of love or because she has been a victim of his influence.",
+    "character": "",
+    "note": "No free link found (checked JustWatch US on 3 Oct 2026). No streaming or purchase listing found. Loose fit: she is already his wife; whether she was hypnotised into the marriage is the film's question.",
+    "mechanism": "Hypnotic influence of a husband (TMDB)",
+    "confidence_flag": "Low · TMDB overview + Wikipedia stub",
+    "categories": [
+     "hypnotized-marriage"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fascinaci%C3%B3n"
+     },
+     {
+      "label": "TMDB",
+      "url": "https://www.themoviedb.org/movie/423410"
+     }
+    ],
+    "tags": [
+     "loose fit"
+    ],
+    "kids_status": "unknown",
+    "evidence": "single source - TMDB overview; Wikipedia gives only cast and director",
+    "already_married": "yes",
+    "already_married_note": "she is the hypnotist's wife",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:75",
+     "source": "wife-hypnosis-oct15",
+     "label": "Fascinación (1949)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Fascinación",
+     "subtitle": "",
+     "year": "1949",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "no-link-additions:33": {
      "title": "Fascinación",
@@ -406885,6 +411783,20 @@ window.CATALOG = {
      "already_married_note": "she is the hypnotist's wife",
      "kids_status": "unknown",
      "evidence": "single source - TMDB overview; Wikipedia gives only cast and director"
+    },
+    "wife-hypnosis-oct15:75": {
+     "title": "Fascinación",
+     "year": "1949",
+     "format": "movie",
+     "match_title": "Fascinación",
+     "match_year": "1949",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated"
     }
    }
   },
@@ -407037,7 +411949,8 @@ window.CATALOG = {
    "format": "movie",
    "categories": [
     "adult-hypnosis",
-    "medical"
+    "medical",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -407056,11 +411969,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "no-link-additions",
-    "streaming-oct15"
+    "streaming-oct15",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
     "no-link-additions:36",
-    "streaming-oct15:1"
+    "streaming-oct15:1",
+    "wife-hypnosis-oct15:76"
    ],
    "index_only": false,
    "local_only": true,
@@ -407129,6 +412044,31 @@ window.CATALOG = {
      "married": "not stated",
      "pregnant_end": "not stated",
      "distinct_story": true
+    },
+    {
+     "rid": "wife-hypnosis-oct15:76",
+     "source": "wife-hypnosis-oct15",
+     "label": "The Search for Bridey Murphy (1956)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Search for Bridey Murphy",
+     "subtitle": "",
+     "year": "1956",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Hugh Simmons (wife Ruth)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -407186,6 +412126,18 @@ window.CATALOG = {
        "url": "https://www.netflix.com/title/70153726"
       }
      ]
+    },
+    "wife-hypnosis-oct15:76": {
+     "title": "The Search for Bridey Murphy",
+     "year": "1956",
+     "format": "movie",
+     "match_title": "The Search for Bridey Murphy",
+     "match_year": "1956",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Hugh Simmons (wife Ruth)"
     }
    }
   },
@@ -407771,9 +412723,12 @@ window.CATALOG = {
    "married": "yes",
    "married_note": "Emily is married to Paul",
    "pregnant_end": "no",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Paul Ryan (wife Emily)",
    "format": "tv",
    "categories": [
-    "human"
+    "human",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -407787,16 +412742,82 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypno-sweep-oct9"
+    "hypno-sweep-oct9",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "hypno-sweep-oct9:3"
+    "hypno-sweep-oct9:3",
+    "wife-hypnosis-oct15:77"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypno-sweep-oct9:3",
+    "source": "hypno-sweep-oct9",
+    "label": "As the World Turns (2009–10)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "As the World Turns",
+    "subtitle": "",
+    "year": "2009–10",
+    "meta": "TV soap opera · CBS · USA (Mick Dante storyline)",
+    "summary": "Mick, who claims a serum can help infertile Emily conceive, hypnotises her into saying she wants to have his baby, then injects her; she later breaks free and tells her husband Paul that Mick brainwashed her.",
+    "character": "",
+    "note": "Uncertain: arc dates (late 2009 to 2010) come from a secondary summary; kids and pregnancy fields rest on the two recaps only.",
+    "mechanism": "Hypnosis plus an injected drug",
+    "confidence_flag": "Medium · episode recap",
+    "categories": [
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "Soaps.com recap",
+      "url": "https://soaps.sheknows.com/as-the-world-turns/recaps/8048/ive-been-brainwashed/"
+     },
+     {
+      "label": "Soaps.com recap (Mick arc)",
+      "url": "https://soaps.sheknows.com/as-the-world-turns/recaps/7606/the-fountain-of-youth/"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "Emily is preparing for IVF (eggs harvested) in this arc; no pregnancy is shown in the recaps read.",
+    "kids_status": "no",
+    "kids_note": "Emily is trying to conceive and is described as infertile; no existing children are mentioned in the recaps read.",
+    "kids_together": "no",
+    "married": "yes",
+    "married_note": "Emily is married to Paul",
+    "pregnant_end": "no",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:77",
+     "source": "wife-hypnosis-oct15",
+     "label": "As the World Turns (2009–10)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "As the World Turns",
+     "subtitle": "",
+     "year": "2009–10",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Paul Ryan (wife Emily)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypno-sweep-oct9:3": {
      "title": "As the World Turns",
@@ -407832,6 +412853,18 @@ window.CATALOG = {
      "pregnant_end": "no",
      "married": "yes",
      "married_note": "Emily is married to Paul"
+    },
+    "wife-hypnosis-oct15:77": {
+     "title": "As the World Turns",
+     "year": "2009–10",
+     "format": "tv",
+     "match_title": "As the World Turns",
+     "match_year": "2009–10",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Paul Ryan (wife Emily)"
     }
    }
   },
@@ -408555,10 +413588,13 @@ window.CATALOG = {
    "pregnant_end": "unknown",
    "evidence": "2+ independent review/database sources, brief synopses only",
    "fit_note": "Loose fit: hypnosis is memory-recovery therapy and the synopsis does not say she is hypnotized and assaulted.",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: James (wife Emily)",
    "format": "vertical series",
    "categories": [
     "wife",
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -408576,16 +413612,89 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "round2"
+    "round2",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "round2:4"
+    "round2:4",
+    "wife-hypnosis-oct15:78"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "round2:4",
+    "source": "round2",
+    "label": "Love in Oblivion (2026)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Love in Oblivion",
+    "subtitle": "",
+    "year": "2026",
+    "meta": "Vertical psychological thriller · Ukraine (AMO Pictures) · English",
+    "summary": "Emily wakes in hospital with no memory and leans on her husband James; hypnosis sessions (with Michael) unlock fragments that suggest betrayal, manipulation and violence, leaving open whether her memories are real or planted.",
+    "character": "Emily (Tetiana Zlova), husband James (Marc Schöttner), Michael (Yevhenii Lisnychyi), Katrina (Ksenia Danilova)",
+    "note": "Episode count and numbering not found. Verification: Confirmed: amnesia, husband, hypnosis recovering memories, manipulation theme. Not confirmed: any sexual assault, whether the husband is the hypnotist, ending.",
+    "mechanism": "Hypnosis therapy used to recover memories of an amnesiac wife",
+    "confidence_flag": "Medium · plot teaser only",
+    "categories": [
+     "wife",
+     "adult-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "I Love Verticals review",
+      "url": "https://i-love-verticals.com/reviews/love-in-oblivion/"
+     },
+     {
+      "label": "The Vertibase",
+      "url": "https://thevertibase.com/series/love-in-oblivion/RjwktKSP2GgGRKR4sXgR"
+     },
+     {
+      "label": "My Vertical Obsession (DramaPops)",
+      "url": "https://www.myverticalobsession.com/117-dramapops-love-in-oblivion/"
+     }
+    ],
+    "pregnancy_outcome": "unknown",
+    "tags": [
+     "loose fit"
+    ],
+    "kids_status": "unknown",
+    "kids_together": "unknown",
+    "married": "yes",
+    "pregnant_end": "unknown",
+    "evidence": "2+ independent review/database sources, brief synopses only",
+    "fit_note": "Loose fit: hypnosis is memory-recovery therapy and the synopsis does not say she is hypnotized and assaulted.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:78",
+     "source": "wife-hypnosis-oct15",
+     "label": "Love in Oblivion (2026)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Love in Oblivion",
+     "subtitle": "",
+     "year": "2026",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: James (wife Emily)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "round2:4": {
      "title": "Love in Oblivion",
@@ -408629,6 +413738,18 @@ window.CATALOG = {
      "group": "Round 2 — worldwide deep search (Oct 2026)",
      "catalog_ids": [],
      "research_no": 4
+    },
+    "wife-hypnosis-oct15:78": {
+     "title": "Love in Oblivion",
+     "year": "2026",
+     "format": "vertical series",
+     "match_title": "Love in Oblivion",
+     "match_year": "2026",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: James (wife Emily)"
     }
    }
   },
@@ -409301,11 +414422,14 @@ window.CATALOG = {
    "evidence": "3 listings (Hongguo, Duanjubaike, aggregator); synopsis identical across them, no episode detail",
    "source_conflict": "Aggregator suju.cc blurb says the husband was 'killed' and she forgets him; Hongguo/Duanjubaike say he is imprisoned. Duanjubaike air date 26 Jun 2026.",
    "fit_note": "Hypnotized married woman, false-husband setup; no pregnancy.",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Lin Yue (wife Su Wan)",
    "format": "vertical series",
    "categories": [
     "wife",
     "adult-hypnosis",
-    "love"
+    "love",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -409323,16 +414447,91 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "round3"
+    "round3",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "round3:1"
+    "round3:1",
+    "wife-hypnosis-oct15:79"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "round3:1",
+    "source": "round3",
+    "label": "醒来时，我眼里不是他 · When I Woke, He Wasn't in My Eyes (2026)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "醒来时，我眼里不是他",
+    "subtitle": "When I Woke, He Wasn't in My Eyes",
+    "year": "2026",
+    "meta": "Chinese vertical short drama · Mandarin · 36 episodes (~2 min) · posted 26 Jun 2026",
+    "summary": "After a car crash, Su Wan is hypnotized by her husband's rival Song Yanzhi, who erases her three years of marriage memory and claims to be her husband while keeping Lin Yue, her real husband, locked behind a one-way mirror to watch them live as a couple. Despite the amnesia she keeps feeling something is wrong; after failed attempts to undo the hypnosis and a rooftop crisis she recovers her memory after an accidental blow, gathers evidence against Song and reunites with Lin Yue. A viewer comment says the villain is not shown being overly intimate with her.",
+    "character": "Su Wan (Yang Zhixuan), husband Lin Yue (Zhang Haowen), rival Song Yanzhi",
+    "note": "Verification: Confirmed by listing synopsis: hypnosis memory wipe of a married woman by a rival who impersonates the husband. Not confirmed: any intimate scene (viewer comment suggests none of note). Ages are not stated in the sources read; no minor is indicated.",
+    "mechanism": "Hypnosis by a rival (Song Yanzhi) after a car crash, erasing three years of marriage memory",
+    "confidence_flag": "Medium-high · 3 listings, synopsis only",
+    "categories": [
+     "wife",
+     "adult-hypnosis",
+     "love"
+    ],
+    "sources": [
+     {
+      "label": "Hongguo (红果短剧) series page",
+      "url": "https://hongguoduanju.com/detail?series_id=7655643065494801470"
+     },
+     {
+      "label": "短剧百科 (Duanjubaike)",
+      "url": "https://www.duanjubaike.net/duanju/info-7655643065494801470.html"
+     },
+     {
+      "label": "速剧 listing",
+      "url": "https://m.suju.cc/en/showview/pq1vOu.html"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "not mentioned",
+    "kids_status": "unknown",
+    "kids_together": "no",
+    "married": "yes",
+    "pregnant_end": "no",
+    "pregnant_end_note": "not mentioned",
+    "evidence": "3 listings (Hongguo, Duanjubaike, aggregator); synopsis identical across them, no episode detail",
+    "source_conflict": "Aggregator suju.cc blurb says the husband was 'killed' and she forgets him; Hongguo/Duanjubaike say he is imprisoned. Duanjubaike air date 26 Jun 2026.",
+    "fit_note": "Hypnotized married woman, false-husband setup; no pregnancy.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:79",
+     "source": "wife-hypnosis-oct15",
+     "label": "醒来时，我眼里不是他 (2026)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "醒来时，我眼里不是他",
+     "subtitle": "",
+     "year": "2026",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Lin Yue (wife Su Wan)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "round3:1": {
      "title": "醒来时，我眼里不是他",
@@ -409378,6 +414577,18 @@ window.CATALOG = {
      "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
      "catalog_ids": [],
      "research_no": 1
+    },
+    "wife-hypnosis-oct15:79": {
+     "title": "醒来时，我眼里不是他",
+     "year": "2026",
+     "format": "vertical series",
+     "match_title": "醒来时，我眼里不是他",
+     "match_year": "2026",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Lin Yue (wife Su Wan)"
     }
    }
   },
@@ -409403,11 +414614,14 @@ window.CATALOG = {
    "evidence": "2 listings (Duanjubaike + aggregator under alias title); synopsis only",
    "source_conflict": "Aggregators give the same story under other titles (诱她入梦, 她是谁短剧版) with different episode counts; I could only confirm the Duanjubaike page (37 eps).",
    "fit_note": "Hypnotized wife controlled by husband; adultery in the marital bed is with the 'cousin', not the heroine.",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Cheng Junjie (wife Pei Jiajia)",
    "format": "vertical series",
    "categories": [
     "wife",
     "partner-control",
-    "cheat-control"
+    "cheat-control",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -409421,16 +414635,87 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "round3"
+    "round3",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "round3:4"
+    "round3:4",
+    "wife-hypnosis-oct15:80"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "round3:4",
+    "source": "round3",
+    "label": "神秘的她 · The Mysterious Her / 诱她入梦 / 她是谁短剧版 (alias titles on aggregators) (2025)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "神秘的她",
+    "subtitle": "The Mysterious Her / 诱她入梦 / 她是谁短剧版 (alias titles on aggregators)",
+    "year": "2025",
+    "meta": "Chinese vertical short drama · Mandarin · 37 episodes · premiered 22 Apr 2025 · 众创剧场, dir. 叶白",
+    "summary": "CEO Pei Jiajia notices after her marriage that she often forgets things and makes decisions against her will. Her friend, psychologist Wen Qing, returns from abroad and finds Pei has been hypnotized for a long time. With a wristwatch that prevents hypnosis Pei sees her loving husband Cheng Junjie's other face: his 'cousin' has been in her marital bed with him, and he is tied to her parents' deaths. She moves to expose the plot and regain her company.",
+    "character": "Pei Jiajia (Ye Jingyi), husband Cheng Junjie (Wang Yige), psychologist friend Wen Qing",
+    "note": "Verification: Confirmed by listing synopsis: husband hypnotizes wife; infidelity and link to parents' deaths. Not confirmed: pregnancy, any intimate scene with the heroine. Ages are not stated in the sources read; no minor is indicated.",
+    "mechanism": "Long-term hypnosis of the wife by her husband; a psychologist friend gives her an anti-hypnosis wristwatch",
+    "confidence_flag": "Medium",
+    "categories": [
+     "wife",
+     "partner-control",
+     "cheat-control"
+    ],
+    "sources": [
+     {
+      "label": "短剧百科 神秘的她",
+      "url": "https://www.duanjubaike.net/duanju/info-7495975175293258777.html"
+     },
+     {
+      "label": "剧情99 诱她入梦",
+      "url": "https://www.juqing99.com/9K3Bj/index.html"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "not mentioned",
+    "kids_status": "unknown",
+    "kids_together": "no",
+    "married": "yes",
+    "pregnant_end": "no",
+    "pregnant_end_note": "not mentioned",
+    "evidence": "2 listings (Duanjubaike + aggregator under alias title); synopsis only",
+    "source_conflict": "Aggregators give the same story under other titles (诱她入梦, 她是谁短剧版) with different episode counts; I could only confirm the Duanjubaike page (37 eps).",
+    "fit_note": "Hypnotized wife controlled by husband; adultery in the marital bed is with the 'cousin', not the heroine.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:80",
+     "source": "wife-hypnosis-oct15",
+     "label": "神秘的她 (2025)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "神秘的她",
+     "subtitle": "",
+     "year": "2025",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Cheng Junjie (wife Pei Jiajia)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "round3:4": {
      "title": "神秘的她",
@@ -409472,6 +414757,18 @@ window.CATALOG = {
      "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
      "catalog_ids": [],
      "research_no": 4
+    },
+    "wife-hypnosis-oct15:80": {
+     "title": "神秘的她",
+     "year": "2025",
+     "format": "vertical series",
+     "match_title": "神秘的她",
+     "match_year": "2025",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Cheng Junjie (wife Pei Jiajia)"
     }
    }
   },
@@ -409500,10 +414797,13 @@ window.CATALOG = {
    "evidence": "3 listings; hypnosis appears only in aggregator blurbs/recaps, not in the Duanjubaike synopsis",
    "source_conflict": "Duanjubaike credits (丁海霞 as Lin Mengran, 孟祥鑫 as Zhou Ming) and its synopsis (death loop, no hypnosis) differ from the aggregator blurb/credits (肖志杰 the hypnotist husband); air date 29 Sep 2025 (Duanjubaike) vs 12 Oct 2025 (one aggregator).",
    "fit_note": "Loose fit: hypnotist husband claim is aggregator-only; main premise is a time/death loop thriller. The characters' ages are not stated.",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Lin Mengran's husband",
    "format": "vertical series",
    "categories": [
     "wife",
-    "partner-control"
+    "partner-control",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -409521,16 +414821,93 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "round3"
+    "round3",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "round3:5"
+    "round3:5",
+    "wife-hypnosis-oct15:81"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "round3:5",
+    "source": "round3",
+    "label": "第一百零一次睁眼 · The 101st Time I Opened My Eyes (2025)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "第一百零一次睁眼",
+    "subtitle": "The 101st Time I Opened My Eyes",
+    "year": "2025",
+    "meta": "Chinese vertical short drama · Mandarin · 41 episodes · premiered 29 Sep 2025 (Duanjubaike), dir. 黄智超",
+    "summary": "Newlywed Lin Mengran is stuck in a loop: on her wedding anniversary she is killed and wakes at 6 a.m. again, and fights to find the person behind it. Aggregator blurbs say she then finds that the man beside her is a hypnotist ('is he in love with her or with a controlled doll?'). A recap of ep. 41 says he admits having hypnotized her and claiming to love her; she reports him to the police without result and her memory is rewritten again, making it look like a dream.",
+    "character": "Lin Mengran, husband (named Zhou Ming in the Duanjubaike credits; Xiao Zhijie in aggregator credits), friend Zhang Ting",
+    "note": "Verification: Hypnosis element only partly verified (aggregator text). Not confirmed: pregnancy or any intimate scene. Ages are not stated in the sources read; no minor is indicated.",
+    "mechanism": "Hypnosis by the husband/'pillow person' (aggregator blurb; not stated in the Duanjubaike synopsis)",
+    "confidence_flag": "Low-medium",
+    "categories": [
+     "wife",
+     "partner-control"
+    ],
+    "sources": [
+     {
+      "label": "短剧百科 第一百零一次睜眼",
+      "url": "https://duanjubaike.org/zh-Hant/drama/12906"
+     },
+     {
+      "label": "熱窩短劇 listing (hypnotist blurb)",
+      "url": "https://hk.rewodj.cc/catalog/llLg.html"
+     },
+     {
+      "label": "语谷短剧 (ep 41)",
+      "url": "https://yugudj.cc/cn/ehtml/WeRD/41.html"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "not mentioned",
+    "tags": [
+     "loose fit"
+    ],
+    "kids_status": "unknown",
+    "kids_together": "no",
+    "married": "yes",
+    "pregnant_end": "no",
+    "pregnant_end_note": "not mentioned",
+    "evidence": "3 listings; hypnosis appears only in aggregator blurbs/recaps, not in the Duanjubaike synopsis",
+    "source_conflict": "Duanjubaike credits (丁海霞 as Lin Mengran, 孟祥鑫 as Zhou Ming) and its synopsis (death loop, no hypnosis) differ from the aggregator blurb/credits (肖志杰 the hypnotist husband); air date 29 Sep 2025 (Duanjubaike) vs 12 Oct 2025 (one aggregator).",
+    "fit_note": "Loose fit: hypnotist husband claim is aggregator-only; main premise is a time/death loop thriller. The characters' ages are not stated.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:81",
+     "source": "wife-hypnosis-oct15",
+     "label": "第一百零一次睁眼 (2025)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "第一百零一次睁眼",
+     "subtitle": "",
+     "year": "2025",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Lin Mengran's husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "round3:5": {
      "title": "第一百零一次睁眼",
@@ -409578,6 +414955,18 @@ window.CATALOG = {
      "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
      "catalog_ids": [],
      "research_no": 5
+    },
+    "wife-hypnosis-oct15:81": {
+     "title": "第一百零一次睁眼",
+     "year": "2025",
+     "format": "vertical series",
+     "match_title": "第一百零一次睁眼",
+     "match_year": "2025",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Lin Mengran's husband"
     }
    }
   },
@@ -409814,11 +415203,14 @@ window.CATALOG = {
    "evidence": "Single source — Single platform (ShortMax mirror site, EN + ES pages); MicroDramaList lists the title but I could not open its detail page",
    "source_conflict": "Series ids differ between the English (29070) and Spanish (29099) mirror pages; synopses agree. A different mirror shows 'Rainy Night Scheme' under id 17127 (same alias). No Chinese original title found.",
    "fit_note": "Borderline: Hypnosis is in the title and plot but the mechanism (who hypnotizes whom) is not spelled out. Single source.",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Luke (wife Anne)",
    "format": "vertical series",
    "categories": [
     "wife",
     "cheat-control",
-    "partner-commissioned"
+    "partner-commissioned",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -409836,16 +415228,94 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "round3"
+    "round3",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "round3:8"
+    "round3:8",
+    "wife-hypnosis-oct15:82"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "round3:8",
+    "source": "round3",
+    "label": "Beneath the Hypnosis · Rainy Night Scheme / 'Bajo la Hipnosis' / 'La Trampa del Deseo: Secretos bajo la Lluvia' (ShortMax) (Date unverified)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Beneath the Hypnosis",
+    "subtitle": "Rainy Night Scheme / 'Bajo la Hipnosis' / 'La Trampa del Deseo: Secretos bajo la Lluvia' (ShortMax)",
+    "year": "Date unverified",
+    "meta": "ShortMax vertical drama · dubbed English/Spanish · 51 episodes",
+    "summary": "Anne (Ana) and Luke (León) have been married seven years without passion; in a storm she seeks comfort with the younger trainer Felix (Fabián). She does not know Felix was sent by Luke and his lover Ximena to draw her into a deadly plan to collect a life-insurance payout. When she discovers the manipulation through hypnosis, Anne joins Felix to take apart the web of lies and put the guilty in prison.",
+    "character": "Anne/Ana, husband Luke/León, mistress Ximena, trainer Felix/Fabián",
+    "note": "Verification: Confirmed only through ShortMax mirror text: hypnosis, insurance plot, trainer entrapment. Not confirmed: who is hypnotized or whether she is assaulted; this was the round-2 'could not corroborate' lead — now listed on two ShortMax-mirror pages and MicroDramaList.",
+    "mechanism": "Hypnosis used by a husband and his mistress, with a personal trainer sent to entrap the wife",
+    "confidence_flag": "Low-medium · single platform",
+    "categories": [
+     "wife",
+     "cheat-control",
+     "partner-commissioned"
+    ],
+    "sources": [
+     {
+      "label": "ShortMax mirror (EN) Beneath the Hypnosis",
+      "url": "https://www.shorttv.live/episodes/dubbedrainy-night-scheme-29070"
+     },
+     {
+      "label": "ShortMax mirror (ES) Bajo la Hipnosis",
+      "url": "https://www.shorttv.live/es/drama/dobladola-trampa-del-deseo-secretos-bajo-la-lluvia-29099"
+     },
+     {
+      "label": "MicroDramaList search (title listed)",
+      "url": "https://microdramalist.com/search?q=hypno"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "not mentioned",
+    "tags": [
+     "loose fit"
+    ],
+    "kids_status": "unknown",
+    "kids_together": "no",
+    "married": "yes",
+    "pregnant_end": "no",
+    "pregnant_end_note": "not mentioned",
+    "evidence": "Single source — Single platform (ShortMax mirror site, EN + ES pages); MicroDramaList lists the title but I could not open its detail page",
+    "source_conflict": "Series ids differ between the English (29070) and Spanish (29099) mirror pages; synopses agree. A different mirror shows 'Rainy Night Scheme' under id 17127 (same alias). No Chinese original title found.",
+    "fit_note": "Borderline: Hypnosis is in the title and plot but the mechanism (who hypnotizes whom) is not spelled out. Single source.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:82",
+     "source": "wife-hypnosis-oct15",
+     "label": "Beneath the Hypnosis (Date unverified)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Beneath the Hypnosis",
+     "subtitle": "",
+     "year": "Date unverified",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Luke (wife Anne)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "round3:8": {
      "title": "Beneath the Hypnosis",
@@ -409894,6 +415364,18 @@ window.CATALOG = {
      "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
      "catalog_ids": [],
      "research_no": 8
+    },
+    "wife-hypnosis-oct15:82": {
+     "title": "Beneath the Hypnosis",
+     "year": "Date unverified",
+     "format": "vertical series",
+     "match_title": "Beneath the Hypnosis",
+     "match_year": "Date unverified",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Luke (wife Anne)"
     }
    }
   },
@@ -410413,11 +415895,14 @@ window.CATALOG = {
    "pregnant_end_note": "not mentioned",
    "evidence": "Single source — Two data-aggregator pages carrying the same one-line plot (appears TMDB-derived) — treat as one source",
    "fit_note": "Loose fit: slapstick husband-hypnotizes-wife; no intimacy or pregnancy. Single source.",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
    "format": "short",
    "categories": [
     "wife",
     "partner-control",
-    "family"
+    "family",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -410431,16 +415916,88 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "round3"
+    "round3",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "round3:14"
+    "round3:14",
+    "wife-hypnosis-oct15:83"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "round3:14",
+    "source": "round3",
+    "label": "Don't Monkey with the Buzz Saw (1914)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Don't Monkey with the Buzz Saw",
+    "subtitle": "",
+    "year": "1914",
+    "meta": "Silent comedy short · 11 min · Kalem Co., dir. Marshall Neilan · released 7 Aug 1914",
+    "summary": "After learning hypnotism a husband puts his henpecking wife (Ruth Roland) and his mother-in-law (Laura Oakley) into a trance so he can go out on the town with other women.",
+    "character": "wife (Ruth Roland), mother-in-law (Laura Oakley), husband, hypnotist Professor Orbs (Victor Rodman)",
+    "note": "Verification: Plot is a single sentence; no intimate scene described.",
+    "mechanism": "Husband learns hypnotism from 'Professor Orbs' and uses it on his wife and mother-in-law",
+    "confidence_flag": "Low",
+    "categories": [
+     "wife",
+     "partner-control",
+     "family"
+    ],
+    "sources": [
+     {
+      "label": "MOVDATAS",
+      "url": "https://movdatas.com/movies/550913"
+     },
+     {
+      "label": "Flickchart",
+      "url": "https://www.flickchart.com/movie/dont-monkey-with-the-buzz-saw-short"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "not mentioned",
+    "tags": [
+     "loose fit"
+    ],
+    "kids_status": "unknown",
+    "kids_together": "no",
+    "married": "yes",
+    "pregnant_end": "no",
+    "pregnant_end_note": "not mentioned",
+    "evidence": "Single source — Two data-aggregator pages carrying the same one-line plot (appears TMDB-derived) — treat as one source",
+    "fit_note": "Loose fit: slapstick husband-hypnotizes-wife; no intimacy or pregnancy. Single source.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:83",
+     "source": "wife-hypnosis-oct15",
+     "label": "Don't Monkey with the Buzz Saw (1914)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Don't Monkey with the Buzz Saw",
+     "subtitle": "",
+     "year": "1914",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "round3:14": {
      "title": "Don't Monkey with the Buzz Saw",
@@ -410483,6 +416040,18 @@ window.CATALOG = {
      "group": "Round 3 — vertical series / microdrama deep search (Oct 2026)",
      "catalog_ids": [],
      "research_no": 14
+    },
+    "wife-hypnosis-oct15:83": {
+     "title": "Don't Monkey with the Buzz Saw",
+     "year": "1914",
+     "format": "short",
+     "match_title": "Don't Monkey with the Buzz Saw",
+     "match_year": "1914",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband"
     }
    }
   },
@@ -411849,10 +417418,13 @@ window.CATALOG = {
    "married": "yes (to Rajan, before the film)",
    "pregnant_end": "not stated",
    "evidence": "Blog plot review",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Rajan (wife Rajani)",
    "format": "movie",
    "categories": [
     "human",
-    "india-control"
+    "india-control",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -411862,16 +417434,76 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "indian-langs-oct14"
+    "indian-langs-oct14",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "indian-langs-oct14:1"
+    "indian-langs-oct14:1",
+    "wife-hypnosis-oct15:84"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "indian-langs-oct14:1",
+    "source": "indian-langs-oct14",
+    "label": "Ti Ratr (2011)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Ti Ratr",
+    "subtitle": "",
+    "year": "2011",
+    "meta": "Film · Marathi · India",
+    "summary": "Newly married Rajani's honeymoon is cut short and odd things happen at home. A salesman arrives for a 'demo' while her husband Rajan is away, takes them hostage, and hypnotises Rajani to extract hard truths about her past. She wakes to Rajan telling her it was a dream, until she finds the salesman's ring in the fish tank.",
+    "character": "Rajani (Aditi Sarangdhar)",
+    "note": "",
+    "mechanism": "Home-invader 'salesman' hypnotises the wife to extract secrets",
+    "confidence_flag": "Medium · single review source",
+    "categories": [
+     "human",
+     "india-control"
+    ],
+    "sources": [
+     {
+      "label": "Kabhi Khushi Kabhi Gum blog review (Nov 2011)",
+      "url": "http://siddhesh-k3g.blogspot.com/2011/11/movie-review-ti-ratr-marathi.html"
+     }
+    ],
+    "kids_status": "no (newly married; none mentioned)",
+    "kids_together": "not stated",
+    "married": "yes (to Rajan, before the film)",
+    "pregnant_end": "not stated",
+    "evidence": "Blog plot review",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:84",
+     "source": "wife-hypnosis-oct15",
+     "label": "Ti Ratr (2011)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Ti Ratr",
+     "subtitle": "",
+     "year": "2011",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Rajan (wife Rajani)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "indian-langs-oct14:1": {
      "title": "Ti Ratr",
@@ -411900,6 +417532,18 @@ window.CATALOG = {
      "provenance": "Indian-languages sweep, 14 Oct 2026 PT",
      "group": "Indian-languages sweep additions (Oct 2026)",
      "standalone": true
+    },
+    "wife-hypnosis-oct15:84": {
+     "title": "Ti Ratr",
+     "year": "2011",
+     "format": "movie",
+     "match_title": "Ti Ratr",
+     "match_year": "2011",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Rajan (wife Rajani)"
     }
    }
   },
@@ -411994,11 +417638,14 @@ window.CATALOG = {
    "married": "yes (Sajan's wife)",
    "pregnant_end": "not stated",
    "evidence": "Episode title and synopsis on Plex + official YouTube upload",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Sajan (wife Kashmira)",
    "format": "tv",
    "categories": [
     "wife",
     "index-62",
-    "india-control"
+    "india-control",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -412014,16 +417661,82 @@ window.CATALOG = {
     "p8KAKKtxpU0"
    ],
    "from_sources": [
-    "indian-langs-oct14"
+    "indian-langs-oct14",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "indian-langs-oct14:4"
+    "indian-langs-oct14:4",
+    "wife-hypnosis-oct15:85"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": "thumbs/p8KAKKtxpU0.jpg",
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "indian-langs-oct14:4",
+    "source": "indian-langs-oct14",
+    "label": "May I Come In Madam? · S1E70 \"Sajan Hypnotises Kashmira\" (2016)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "May I Come In Madam?",
+    "subtitle": "S1E70 \"Sajan Hypnotises Kashmira\"",
+    "year": "2016",
+    "meta": "Sitcom · &TV · Hindi · India · aired 10 Jun 2016",
+    "summary": "Sajan gets the book back from the gorilla and hypnotises his wife Kashmira, while his boss Sanjana turns up at his house.",
+    "character": "Kashmira Agarwal (Sapna Sikarwar)",
+    "note": "",
+    "mechanism": "Husband hypnotises wife using a book of hypnosis",
+    "confidence_flag": "Medium-high · episode listings",
+    "categories": [
+     "wife",
+     "index-62",
+     "india-control"
+    ],
+    "sources": [
+     {
+      "label": "Plex: S1E70 Sajan Hypnotises Kashmira",
+      "url": "https://watch.plex.tv/show/may-i-come-in-madam/season/1/episode/70"
+     },
+     {
+      "label": "YouTube full episode 70",
+      "url": "https://www.youtube.com/watch?v=p8KAKKtxpU0"
+     }
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "yes (Sajan's wife)",
+    "pregnant_end": "not stated",
+    "evidence": "Episode title and synopsis on Plex + official YouTube upload",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:85",
+     "source": "wife-hypnosis-oct15",
+     "label": "May I Come In Madam? (2016)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "May I Come In Madam?",
+     "subtitle": "",
+     "year": "2016",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Sajan (wife Kashmira)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "indian-langs-oct14:4": {
      "title": "May I Come In Madam?",
@@ -412058,6 +417771,18 @@ window.CATALOG = {
      "provenance": "Indian-languages sweep, 14 Oct 2026 PT",
      "group": "Indian-languages sweep additions (Oct 2026)",
      "standalone": true
+    },
+    "wife-hypnosis-oct15:85": {
+     "title": "May I Come In Madam?",
+     "year": "2016",
+     "format": "tv",
+     "match_title": "May I Come In Madam?",
+     "match_year": "2016",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Sajan (wife Kashmira)"
     }
    }
   },
@@ -419473,16 +425198,21 @@ window.CATALOG = {
    "note": "",
    "tags": [
     "Films Live-Action",
-    "Western Live Action"
+    "Western Live Action",
+    "loose fit"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
    "married": "not stated",
    "pregnant_end": "not stated",
    "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+   "fit_note": "Loose fit: voodoo zombification trance",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Paul Holland (wife Jessica)",
    "format": "movie",
    "categories": [
-    "fantasy"
+    "fantasy",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -419496,16 +425226,87 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "fanwiki-screen-oct14"
+    "fanwiki-screen-oct14",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:86"
+    "fanwiki-screen-oct14:86",
+    "wife-hypnosis-oct15:100"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "fanwiki-screen-oct14:86",
+    "source": "fanwiki-screen-oct14",
+    "label": "I Walked with a Zombie (1943)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "I Walked with a Zombie",
+    "subtitle": "",
+    "year": "1943",
+    "meta": "Film · English",
+    "summary": "A nurse is hired to care for the wife of a sugar plantation owner, and starts to believe the woman was transformed into a mindless zombie slave. Scene: Betsy meets Jessica, and her perpetual trance-like state is explained as a consequence of a tropical fever. A mindless zombie watches the house. Betsy finds Jessica wandering mesmerized through the house, and begins to suspect that she has been the victim of a voodoo spell. While searching for Jessica, who is wandering mesmerized through the plantation, Betsy comes across a zombie slave. A tribe performs a voodoo ritual. Under the spell's influence, Jessica leaves the house.",
+    "character": "",
+    "note": "",
+    "mechanism": "Magical Hypnosis",
+    "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
+    "categories": [
+     "fantasy"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki: I Walked with a Zombie",
+      "url": "https://mentalblock.miraheze.org/wiki/I_Walked_with_a_Zombie"
+     },
+     {
+      "label": "Wikipedia: I Walked with a Zombie",
+      "url": "https://en.wikipedia.org/wiki/I_Walked_with_a_Zombie"
+     }
+    ],
+    "tags": [
+     "Films Live-Action",
+     "Western Live Action"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:100",
+     "source": "wife-hypnosis-oct15",
+     "label": "I Walked with a Zombie (1943)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "I Walked with a Zombie",
+     "subtitle": "",
+     "year": "1943",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: voodoo zombification trance",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Paul Holland (wife Jessica)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "fanwiki-screen-oct14:86": {
      "title": "I Walked with a Zombie",
@@ -419542,6 +425343,22 @@ window.CATALOG = {
       "Films Live-Action",
       "Western Live Action"
      ]
+    },
+    "wife-hypnosis-oct15:100": {
+     "title": "I Walked with a Zombie",
+     "year": "1943",
+     "format": "movie",
+     "match_title": "I Walked with a Zombie",
+     "match_year": "1943",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Paul Holland (wife Jessica)",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: voodoo zombification trance"
     }
    }
   },
@@ -419565,10 +425382,13 @@ window.CATALOG = {
    "married": "not stated",
    "pregnant_end": "not stated",
    "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Babbal (wife Iccha)",
    "format": "tv",
    "categories": [
     "fantasy",
-    "crime"
+    "crime",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -419578,16 +425398,80 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "fanwiki-screen-oct14"
+    "fanwiki-screen-oct14",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:87"
+    "fanwiki-screen-oct14:87",
+    "wife-hypnosis-oct15:52"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "fanwiki-screen-oct14:87",
+    "source": "fanwiki-screen-oct14",
+    "label": "Ichhapyari naagin · Episode 173 (2016)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Ichhapyari naagin",
+    "subtitle": "Episode 173",
+    "year": "2016",
+    "meta": "TV · language not stated",
+    "summary": "The life of Iccha, a shape-shifting snake, dramatically changes and becomes complicated when she falls in love with Babbal Pratap, a human. Episode 173: Waku tells Iccha that she is hypnotized by her Guru. Iccha tells Waku that she will not allow anyone to kill Babbal. Waku replies Iccha that she will be compelled to kill her husband. Scene: Guru gives a poisoned needle to Iccha. Guru casts a hypnotic spell. Iccha is enchanted... ... and falls into a trance. Hypnotized, Iccha is ordered to kill her husband. In a trance, she prepares to carry out the order.",
+    "character": "",
+    "note": "",
+    "mechanism": "Magical Hypnosis",
+    "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+    "categories": [
+     "fantasy",
+     "crime"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki: Ichhapyari naagin",
+      "url": "https://mentalblock.miraheze.org/wiki/Ichhapyari_naagin"
+     }
+    ],
+    "tags": [
+     "Eastern Live Action"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:52",
+     "source": "wife-hypnosis-oct15",
+     "label": "Ichhapyari naagin (2016)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Ichhapyari naagin",
+     "subtitle": "",
+     "year": "2016",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Babbal (wife Iccha)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "fanwiki-screen-oct14:87": {
      "title": "Ichhapyari naagin",
@@ -419620,6 +425504,18 @@ window.CATALOG = {
      "tags": [
       "Eastern Live Action"
      ]
+    },
+    "wife-hypnosis-oct15:52": {
+     "title": "Ichhapyari naagin",
+     "year": "2016",
+     "format": "tv",
+     "match_title": "Ichhapyari naagin",
+     "match_year": "2016",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Babbal (wife Iccha)"
     }
    }
   },
@@ -431092,16 +436988,23 @@ window.CATALOG = {
    "character": "The husband's wife (unnamed in synopsis)",
    "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
    "note": "",
+   "tags": [
+    "loose fit"
+   ],
    "kids_status": "not stated",
    "kids_together": "not stated",
    "married": "yes (wife, per synopsis)",
    "pregnant_end": "not stated",
+   "fit_note": "Loose fit: anthology; hypnosis framing unclear",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
    "format": "tv",
    "categories": [
     "tantrik",
     "india-control",
     "adult-hypnosis",
-    "wife"
+    "wife",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -431111,16 +437014,82 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "official-yt-oct15"
+    "official-yt-oct15",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "official-yt-oct15:13"
+    "official-yt-oct15:13",
+    "wife-hypnosis-oct15:86"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "official-yt-oct15:13",
+    "source": "official-yt-oct15",
+    "label": "Rangeen Kahaniyan · S10 · Vashikaran E01 - Bhola Khilona (2024)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Rangeen Kahaniyan",
+    "subtitle": "S10 · Vashikaran E01 - Bhola Khilona",
+    "year": "2024",
+    "meta": "Adult anthology web series · Atrangii · Hindi · India",
+    "summary": "A man seeks a tantrik's help to reverse a vashikaran spell cast on his wife; revelations surface about who cast it and why.",
+    "character": "The husband's wife (unnamed in synopsis)",
+    "note": "",
+    "mechanism": "Vashikaran (black-magic control)",
+    "confidence_flag": "Medium · episode synopsis (WatchWhatWhere listing)",
+    "categories": [
+     "tantrik",
+     "india-control",
+     "adult-hypnosis",
+     "wife"
+    ],
+    "sources": [
+     {
+      "label": "WatchWhatWhere: Vashikaran E01 - Bhola Khilona (Rangeen Kahaniyan S10)",
+      "url": "https://watchwhatwhere.com/title/6688721-vashikaran-e01---bhola-khilona"
+     }
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "yes (wife, per synopsis)",
+    "pregnant_end": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:86",
+     "source": "wife-hypnosis-oct15",
+     "label": "Rangeen Kahaniyan (2024)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Rangeen Kahaniyan",
+     "subtitle": "",
+     "year": "2024",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: anthology; hypnosis framing unclear",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "official-yt-oct15:13": {
      "standalone": true,
@@ -431151,6 +437120,22 @@ window.CATALOG = {
      "kids_status": "not stated",
      "kids_together": "not stated",
      "married": "yes (wife, per synopsis)"
+    },
+    "wife-hypnosis-oct15:86": {
+     "title": "Rangeen Kahaniyan",
+     "year": "2024",
+     "format": "tv",
+     "match_title": "Rangeen Kahaniyan",
+     "match_year": "2024",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: anthology; hypnosis framing unclear"
     }
    }
   },
@@ -431325,15 +437310,22 @@ window.CATALOG = {
    "character": "Rashi",
    "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
    "note": "",
+   "tags": [
+    "loose fit"
+   ],
    "kids_status": "not stated",
    "kids_together": "not stated",
    "married": "not stated",
    "pregnant_end": "not stated",
+   "fit_note": "Loose fit: YouTube-upload framing; hypnosis loosely depicted",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Rashi's husband",
    "format": "tv",
    "categories": [
     "india-control",
     "evil-female",
-    "wife"
+    "wife",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -431345,16 +437337,81 @@ window.CATALOG = {
     "OBbYXmPMmvs"
    ],
    "from_sources": [
-    "official-yt-oct15"
+    "official-yt-oct15",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "official-yt-oct15:16"
+    "official-yt-oct15:16",
+    "wife-hypnosis-oct15:87"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": "thumbs/OBbYXmPMmvs.jpg",
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "official-yt-oct15:16",
+    "source": "official-yt-oct15",
+    "label": "Saath Nibhaana Saathiya · Full Ep. 783 (2026 (YouTube upload; series 2010–2017))",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Saath Nibhaana Saathiya",
+    "subtitle": "Full Ep. 783",
+    "year": "2026 (YouTube upload; series 2010–2017)",
+    "meta": "TV serial · StarPlus · Hindi · India",
+    "summary": "Urmila brings Rashi (Gopi's sister-in-law, an adult married woman in the Modi family) under her control.",
+    "character": "Rashi",
+    "note": "",
+    "mechanism": "Vash (control)",
+    "confidence_flag": "Low-Medium · official episode title",
+    "categories": [
+     "india-control",
+     "evil-female",
+     "wife"
+    ],
+    "sources": [
+     {
+      "label": "StarPlus (YouTube): Urmila Rashi को अपने वश में कर लेती है! | Full Ep. 783 | Saath Nibhaana Saathiya",
+      "url": "https://www.youtube.com/watch?v=OBbYXmPMmvs"
+     }
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:87",
+     "source": "wife-hypnosis-oct15",
+     "label": "Saath Nibhaana Saathiya (2026 (YouTube upload; series 2010–2017))",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Saath Nibhaana Saathiya",
+     "subtitle": "",
+     "year": "2026 (YouTube upload; series 2010–2017)",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: YouTube-upload framing; hypnosis loosely depicted",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Rashi's husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "official-yt-oct15:16": {
      "standalone": true,
@@ -431384,6 +437441,22 @@ window.CATALOG = {
        "url": "https://www.youtube.com/watch?v=OBbYXmPMmvs"
       }
      ]
+    },
+    "wife-hypnosis-oct15:87": {
+     "title": "Saath Nibhaana Saathiya",
+     "year": "2026 (YouTube upload; series 2010–2017)",
+     "format": "tv",
+     "match_title": "Saath Nibhaana Saathiya",
+     "match_year": "2026 (YouTube upload; series 2010–2017)",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Rashi's husband",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: YouTube-upload framing; hypnosis loosely depicted"
     }
    }
   },
@@ -431484,15 +437557,22 @@ window.CATALOG = {
    "character": "Babli",
    "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
    "note": "",
+   "tags": [
+    "loose fit"
+   ],
    "kids_status": "not stated",
    "kids_together": "not stated",
    "married": "yes (Pappy's wife, per Wikipedia)",
    "pregnant_end": "not stated",
+   "fit_note": "Loose fit: naagmani power rather than pure hypnosis",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Pappy Singh (wife Babli)",
    "format": "tv",
    "categories": [
     "india-control",
     "evil-female",
-    "tantrik"
+    "tantrik",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -431504,16 +437584,81 @@ window.CATALOG = {
     "vfKEehetGiE"
    ],
    "from_sources": [
-    "official-yt-oct15"
+    "official-yt-oct15",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "official-yt-oct15:18"
+    "official-yt-oct15:18",
+    "wife-hypnosis-oct15:88"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": "thumbs/vfKEehetGiE.jpg",
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "official-yt-oct15:18",
+    "source": "official-yt-oct15",
+    "label": "Ishq Ki Dastaan – Naagmani · Episodic glimpse (Aug 2022) (2022–2023)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Ishq Ki Dastaan – Naagmani",
+    "subtitle": "Episodic glimpse (Aug 2022)",
+    "year": "2022–2023",
+    "meta": "TV serial · Dangal TV · Hindi · India",
+    "summary": "The witch Mohini casts a spell on Babli and brings her under her control. Babli is Pappy Singh's wife per Wikipedia cast list.",
+    "character": "Babli",
+    "note": "",
+    "mechanism": "Witch's spell (vash)",
+    "confidence_flag": "Medium · official clip title",
+    "categories": [
+     "india-control",
+     "evil-female",
+     "tantrik"
+    ],
+    "sources": [
+     {
+      "label": "Dangal TV Channel (YouTube): मोहिनी ने बबली को अपने वश में किया | Mohini Casts A Spell On Babli",
+      "url": "https://www.youtube.com/watch?v=vfKEehetGiE"
+     }
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "yes (Pappy's wife, per Wikipedia)",
+    "pregnant_end": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:88",
+     "source": "wife-hypnosis-oct15",
+     "label": "Ishq Ki Dastaan – Naagmani (2022–2023)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Ishq Ki Dastaan – Naagmani",
+     "subtitle": "",
+     "year": "2022–2023",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: naagmani power rather than pure hypnosis",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Pappy Singh (wife Babli)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "official-yt-oct15:18": {
      "standalone": true,
@@ -431543,6 +437688,22 @@ window.CATALOG = {
        "url": "https://www.youtube.com/watch?v=vfKEehetGiE"
       }
      ]
+    },
+    "wife-hypnosis-oct15:88": {
+     "title": "Ishq Ki Dastaan – Naagmani",
+     "year": "2022–2023",
+     "format": "tv",
+     "match_title": "Ishq Ki Dastaan – Naagmani",
+     "match_year": "2022–2023",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Pappy Singh (wife Babli)",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: naagmani power rather than pure hypnosis"
     }
    }
   },
@@ -431562,10 +437723,13 @@ window.CATALOG = {
    "kids_together": "not stated",
    "married": "yes (Kedar's wife, per Wikipedia)",
    "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Kedar (wife Ketaki)",
    "format": "tv",
    "categories": [
     "india-control",
-    "indian-female-hypnosis"
+    "indian-female-hypnosis",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -431575,16 +437739,76 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "official-yt-oct15"
+    "official-yt-oct15",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "official-yt-oct15:19"
+    "official-yt-oct15:19",
+    "wife-hypnosis-oct15:89"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "official-yt-oct15:19",
+    "source": "official-yt-oct15",
+    "label": "Saatvya Mulichi Saatvi Mulgi · Episode 633 (11 Aug 2024) (2024)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Saatvya Mulichi Saatvi Mulgi",
+    "subtitle": "Episode 633 (11 Aug 2024)",
+    "year": "2024",
+    "meta": "TV serial · Zee Marathi · Marathi · India",
+    "summary": "Ketaki gets hypnotised while talking to Reema and accidentally tries to push Isha. Ketaki is Kedar's wife (adult) per Wikipedia cast list.",
+    "character": "Ketaki",
+    "note": "",
+    "mechanism": "Supernatural hypnosis",
+    "confidence_flag": "Medium · platform episode synopsis",
+    "categories": [
+     "india-control",
+     "indian-female-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "ZEE5: Episode 633 – Ketaki Gets Hypnotised While Talking to Reema",
+      "url": "https://www.zee5.com/global/tv-shows/details/saatvya-mulichi-saatvi-mulgi/0-6-4z5214554/ketaki-gets-hypnotised-while-talking-to-reema/0-1-6z5603006"
+     }
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "yes (Kedar's wife, per Wikipedia)",
+    "pregnant_end": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:89",
+     "source": "wife-hypnosis-oct15",
+     "label": "Saatvya Mulichi Saatvi Mulgi (2024)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Saatvya Mulichi Saatvi Mulgi",
+     "subtitle": "",
+     "year": "2024",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Kedar (wife Ketaki)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "official-yt-oct15:19": {
      "standalone": true,
@@ -431613,6 +437837,18 @@ window.CATALOG = {
        "url": "https://www.zee5.com/global/tv-shows/details/saatvya-mulichi-saatvi-mulgi/0-6-4z5214554/ketaki-gets-hypnotised-while-talking-to-reema/0-1-6z5603006"
       }
      ]
+    },
+    "wife-hypnosis-oct15:89": {
+     "title": "Saatvya Mulichi Saatvi Mulgi",
+     "year": "2024",
+     "format": "tv",
+     "match_title": "Saatvya Mulichi Saatvi Mulgi",
+     "match_year": "2024",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Kedar (wife Ketaki)"
     }
    }
   },
@@ -431948,11 +438184,14 @@ window.CATALOG = {
    "kids_together": "not stated",
    "married": "yes (Amrita is Kunal's wife)",
    "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Kunal (wife Amrita)",
    "format": "tv",
    "categories": [
     "india-control",
     "indian-female-hypnosis",
-    "wife"
+    "wife",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -431969,16 +438208,81 @@ window.CATALOG = {
     "UMatLKEdIQY"
    ],
    "from_sources": [
-    "official-yt-oct15"
+    "official-yt-oct15",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "official-yt-oct15:24"
+    "official-yt-oct15:24",
+    "wife-hypnosis-oct15:90"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": "thumbs/cl77pX5r3zc.jpg",
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "official-yt-oct15:24",
+    "source": "official-yt-oct15",
+    "label": "CID · 11 Apr 2025 – 'Undercover hue Purvi aur Pankaj ko kisne kiya Hypnotize?' (2025)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "CID",
+    "subtitle": "11 Apr 2025 – 'Undercover hue Purvi aur Pankaj ko kisne kiya Hypnotize?'",
+    "year": "2025",
+    "meta": "TV crime series · Sony (CID 2) · Hindi · India",
+    "summary": "Robber Sohan, posing as a salesman, hypnotizes Kunal's wife Amrita by staring into her eyes so that he and Rinky can loot her locker; officers Purvi and Pankaj are also hypnotized undercover. A separate 18 Feb 2025 episode asks who has brought officer Shreya under their control (vash).",
+    "character": "Amrita; Purvi; Shreya",
+    "note": "",
+    "mechanism": "Stage-style eye-fixation hypnosis",
+    "confidence_flag": "Medium · official episode description",
+    "categories": [
+     "india-control",
+     "indian-female-hypnosis",
+     "wife"
+    ],
+    "sources": [
+     {
+      "label": "Sony WAH (YouTube): CID | 11 Apr 2025",
+      "url": "https://www.youtube.com/watch?v=cl77pX5r3zc"
+     },
+     {
+      "label": "Sony WAH (YouTube): किसने किया Shreya को अपने वश में? | CID | 18 Feb 2025",
+      "url": "https://www.youtube.com/watch?v=UMatLKEdIQY"
+     }
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "yes (Amrita is Kunal's wife)",
+    "pregnant_end": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:90",
+     "source": "wife-hypnosis-oct15",
+     "label": "CID (2025)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "CID",
+     "subtitle": "",
+     "year": "2025",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Kunal (wife Amrita)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "official-yt-oct15:24": {
      "standalone": true,
@@ -432012,6 +438316,18 @@ window.CATALOG = {
        "url": "https://www.youtube.com/watch?v=UMatLKEdIQY"
       }
      ]
+    },
+    "wife-hypnosis-oct15:90": {
+     "title": "CID",
+     "year": "2025",
+     "format": "tv",
+     "match_title": "CID",
+     "match_year": "2025",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Kunal (wife Amrita)"
     }
    }
   },
@@ -432942,11 +439258,14 @@ window.CATALOG = {
    "kids_together": "not stated",
    "married": "yes (Prem's wife, the show's central married couple)",
    "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Prem (wife Simar)",
    "format": "tv",
    "categories": [
     "india-control",
     "indian-female-hypnosis",
-    "wife"
+    "wife",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -432963,16 +439282,81 @@ window.CATALOG = {
     "-g7M7rjs0jg"
    ],
    "from_sources": [
-    "official-yt-oct15"
+    "official-yt-oct15",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "official-yt-oct15:37"
+    "official-yt-oct15:37",
+    "wife-hypnosis-oct15:91"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": "thumbs/kec2dNHp-30.jpg",
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "official-yt-oct15:37",
+    "source": "official-yt-oct15",
+    "label": "Sasural Simar Ka · Full Ep. 757 & 760 (2026 (YouTube upload; series 2011–18))",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Sasural Simar Ka",
+    "subtitle": "Full Ep. 757 & 760",
+    "year": "2026 (YouTube upload; series 2011–18)",
+    "meta": "TV serial · Colors TV · Hindi · India",
+    "summary": "Simar, who has been hypnotised, opens up to Amar (Ep. 757); in Ep. 760 she discovers that she was hypnotised and struggles to understand the truth behind the strange incidents.",
+    "character": "Simar",
+    "note": "",
+    "mechanism": "Hypnosis",
+    "confidence_flag": "Medium · official episode descriptions",
+    "categories": [
+     "india-control",
+     "indian-female-hypnosis",
+     "wife"
+    ],
+    "sources": [
+     {
+      "label": "Colors Rishtey (YouTube): Sasural Simar Ka | Simar Learns She Was Hypnotised | Full Ep - 760",
+      "url": "https://www.youtube.com/watch?v=kec2dNHp-30"
+     },
+     {
+      "label": "Colors Rishtey (YouTube): Simar Talks to Amar After Getting Hypnotised | Full Ep - 757",
+      "url": "https://www.youtube.com/watch?v=-g7M7rjs0jg"
+     }
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "yes (Prem's wife, the show's central married couple)",
+    "pregnant_end": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:91",
+     "source": "wife-hypnosis-oct15",
+     "label": "Sasural Simar Ka (2026 (YouTube upload; series 2011–18))",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Sasural Simar Ka",
+     "subtitle": "",
+     "year": "2026 (YouTube upload; series 2011–18)",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Prem (wife Simar)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "official-yt-oct15:37": {
      "standalone": true,
@@ -433006,6 +439390,18 @@ window.CATALOG = {
        "url": "https://www.youtube.com/watch?v=-g7M7rjs0jg"
       }
      ]
+    },
+    "wife-hypnosis-oct15:91": {
+     "title": "Sasural Simar Ka",
+     "year": "2026 (YouTube upload; series 2011–18)",
+     "format": "tv",
+     "match_title": "Sasural Simar Ka",
+     "match_year": "2026 (YouTube upload; series 2011–18)",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Prem (wife Simar)"
     }
    }
   },
@@ -433727,14 +440123,21 @@ window.CATALOG = {
    "character": "Housewives",
    "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
    "note": "",
+   "tags": [
+    "loose fit"
+   ],
    "kids_status": "not stated",
    "kids_together": "not stated",
    "married": "not stated",
    "pregnant_end": "not stated",
+   "fit_note": "Loose fit: tarot/charm framing",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
    "format": "movie",
    "categories": [
     "adult-hypnosis",
-    "wife"
+    "wife",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -433744,16 +440147,79 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "streaming-oct15"
+    "streaming-oct15",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "streaming-oct15:8"
+    "streaming-oct15:8",
+    "wife-hypnosis-oct15:92"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "streaming-oct15:8",
+    "source": "streaming-oct15",
+    "label": "Love in The Cards (2012)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Love in The Cards",
+    "subtitle": "",
+    "year": "2012",
+    "meta": "Film · USA · English · TV-MA (Full Moon Features)",
+    "summary": "Prime Video synopsis: a hypnotist who lost his powers gains the ability to control women with an inherited magical amulet, and gains 'popularity' with the attractive housewives of his business partners, friends and neighbours.",
+    "character": "Housewives",
+    "note": "",
+    "mechanism": "Magical amulet (control of women)",
+    "confidence_flag": "Medium · platform synopsis",
+    "categories": [
+     "adult-hypnosis",
+     "wife"
+    ],
+    "sources": [
+     {
+      "label": "Prime Video: Love in The Cards",
+      "url": "https://www.primevideo.com/detail/0LUMUK9MXT6IHGHW3TDO8KXSEZ"
+     }
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:92",
+     "source": "wife-hypnosis-oct15",
+     "label": "Love in The Cards (2012)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Love in The Cards",
+     "subtitle": "",
+     "year": "2012",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: tarot/charm framing",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "streaming-oct15:8": {
      "standalone": true,
@@ -433782,6 +440248,22 @@ window.CATALOG = {
        "url": "https://www.primevideo.com/detail/0LUMUK9MXT6IHGHW3TDO8KXSEZ"
       }
      ]
+    },
+    "wife-hypnosis-oct15:92": {
+     "title": "Love in The Cards",
+     "year": "2012",
+     "format": "movie",
+     "match_title": "Love in The Cards",
+     "match_year": "2012",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: her husband",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: tarot/charm framing"
     }
    }
   },
@@ -434587,9 +441069,12 @@ window.CATALOG = {
    "kids_together": "not stated",
    "married": "Yes: Gracie is George's wife in the show",
    "pregnant_end": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: George Burns (wife Gracie)",
    "format": "tv",
    "categories": [
-    "wife"
+    "wife",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -434599,16 +441084,75 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "streaming-oct15"
+    "streaming-oct15",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "streaming-oct15:43"
+    "streaming-oct15:43",
+    "wife-hypnosis-oct15:93"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "streaming-oct15:43",
+    "source": "streaming-oct15",
+    "label": "The George Burns and Gracie Allen Show — \"Hypnotizing Gracie\" · S08E21 (1958)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "The George Burns and Gracie Allen Show — \"Hypnotizing Gracie\"",
+    "subtitle": "S08E21",
+    "year": "1958",
+    "meta": "Sitcom · CBS · USA · English",
+    "summary": "Plex synopsis: George reluctantly lets Gracie see a hypnotist, and she comes out of the meeting with a completely different personality.",
+    "character": "Gracie Allen",
+    "note": "",
+    "mechanism": "Stage/therapeutic hypnosis",
+    "confidence_flag": "",
+    "categories": [
+     "wife"
+    ],
+    "sources": [
+     {
+      "label": "Plex: Burns & Allen S8E21 'Hypnotizing Gracie'",
+      "url": "https://watch.plex.tv/show/the-george-burns-and-gracie-allen-show/season/8/episode/21"
+     }
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "Yes: Gracie is George's wife in the show",
+    "pregnant_end": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:93",
+     "source": "wife-hypnosis-oct15",
+     "label": "The George Burns and Gracie Allen Show — \"Hypnotizing Gracie\" (1958)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The George Burns and Gracie Allen Show — \"Hypnotizing Gracie\"",
+     "subtitle": "",
+     "year": "1958",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: George Burns (wife Gracie)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "streaming-oct15:43": {
      "standalone": true,
@@ -434636,6 +441180,18 @@ window.CATALOG = {
        "url": "https://watch.plex.tv/show/the-george-burns-and-gracie-allen-show/season/8/episode/21"
       }
      ]
+    },
+    "wife-hypnosis-oct15:93": {
+     "title": "The George Burns and Gracie Allen Show — \"Hypnotizing Gracie\"",
+     "year": "1958",
+     "format": "tv",
+     "match_title": "The George Burns and Gracie Allen Show — \"Hypnotizing Gracie\"",
+     "match_year": "1958",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: George Burns (wife Gracie)"
     }
    }
   },
@@ -435958,11 +442514,14 @@ window.CATALOG = {
    "pregnant_end": "unknown",
    "evidence": "Mental Block plot + gallery (single source)",
    "adult": "yes",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Kulka (wife Erka)",
    "format": "movie",
    "categories": [
     "vampire",
     "fantasy",
-    "forced-obedience"
+    "forced-obedience",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -435972,16 +442531,80 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "hypnotized-female-oct15"
+    "hypnotized-female-oct15",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "hypnotized-female-oct15:4"
+    "hypnotized-female-oct15:4",
+    "wife-hypnosis-oct15:94"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "hypnotized-female-oct15:4",
+    "source": "hypnotized-female-oct15",
+    "label": "Tarkan: Altın Madalyon (1972)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Tarkan: Altın Madalyon",
+    "subtitle": "",
+    "year": "1972",
+    "meta": "Film · Turkey · Turkish · dir. Mehmet Aslan · aka Tarkan: The Golden Medallion",
+    "summary": "While Tarkan and friends try to rescue Attila's kidnapped son, Kulka's wife Erka is hypnotised by the vampire witch Gosha; in a trance she leaves the child she was protecting and walks into a giant spider web where she is trapped.",
+    "character": "Erka, wife of Kulka",
+    "note": "",
+    "mechanism": "Hypnotic gaze of the vampire witch Gosha",
+    "confidence_flag": "Medium · single source",
+    "categories": [
+     "vampire",
+     "fantasy",
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block: Tarkan: Altin Madalyon",
+      "url": "https://mentalblock.miraheze.org/wiki/Tarkan:_Altin_Madalyon"
+     }
+    ],
+    "pregnancy_outcome": "unknown",
+    "pregnancy_note": "Not stated.",
+    "kids_status": "unknown",
+    "kids_note": "She is guarding Attila's son, not her own child; her own children not stated.",
+    "kids_together": "unknown",
+    "pregnant_end": "unknown",
+    "evidence": "Mental Block plot + gallery (single source)",
+    "adult": "yes",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:94",
+     "source": "wife-hypnosis-oct15",
+     "label": "Tarkan: Altın Madalyon (1972)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Tarkan: Altın Madalyon",
+     "subtitle": "",
+     "year": "1972",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Kulka (wife Erka)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "hypnotized-female-oct15:4": {
      "title": "Tarkan: Altın Madalyon",
@@ -436014,6 +442637,18 @@ window.CATALOG = {
      "group": "Female hypnotized sweep — Indonesia first, then worldwide (Oct 2026)",
      "note": "",
      "adult": "yes"
+    },
+    "wife-hypnosis-oct15:94": {
+     "title": "Tarkan: Altın Madalyon",
+     "year": "1972",
+     "format": "movie",
+     "match_title": "Tarkan: Altın Madalyon",
+     "match_year": "1972",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Kulka (wife Erka)"
     }
    }
   },
@@ -436314,11 +442949,14 @@ window.CATALOG = {
    "pregnant_end": "unknown",
    "evidence": "Fimela: Sinopsis Sodrun Merayu Tuhan Eps 47, Jai Hipnotis Khadijah",
    "adult": "yes",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Sodrun (wife Khadijah)",
    "format": "tv",
    "categories": [
     "love",
     "cheat-control",
-    "human"
+    "human",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -436328,16 +442966,81 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "indonesia-sinetron-oct15"
+    "indonesia-sinetron-oct15",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "indonesia-sinetron-oct15:1"
+    "indonesia-sinetron-oct15:1",
+    "wife-hypnosis-oct15:95"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "indonesia-sinetron-oct15:1",
+    "source": "indonesia-sinetron-oct15",
+    "label": "Sodrun Merayu Tuhan (2018)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Sodrun Merayu Tuhan",
+    "subtitle": "",
+    "year": "2018",
+    "meta": "Sinetron · SCTV · Indonesia · Indonesian",
+    "summary": "Jai learns hypnosis with a pendulum from the street conman Tosim so that Khadijah, Sodrun's wife, will fall for him. He hypnotises her; she drives her husband Sodrun out of the house, thinking he is Jai, and the trance will break if she hears the tahu bulat seller's call.",
+    "character": "Khadijah (wife of Sodrun); Jai",
+    "note": "",
+    "mechanism": "Pendulum hypnosis learned from the street hypnotist Tosim",
+    "confidence_flag": "Medium · single source",
+    "categories": [
+     "love",
+     "cheat-control",
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "Fimela: Sinopsis Sodrun Merayu Tuhan Eps 47, Jai Hipnotis Khadijah",
+      "url": "https://www.fimela.com/entertainment/read/3250545/sinopsis-sodrun-merayu-tuhan-eps-47-jai-hipnotis-khadijah"
+     }
+    ],
+    "pregnancy_outcome": "unknown",
+    "pregnancy_note": "Not stated in the episode synopsis.",
+    "episodes": "Ep 47 (2 Feb 2018): Jai hypnotises Khadijah.",
+    "kids_status": "unknown",
+    "kids_note": "Married to Sodrun; children not stated in the source.",
+    "kids_together": "unknown",
+    "pregnant_end": "unknown",
+    "evidence": "Fimela: Sinopsis Sodrun Merayu Tuhan Eps 47, Jai Hipnotis Khadijah",
+    "adult": "yes",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:95",
+     "source": "wife-hypnosis-oct15",
+     "label": "Sodrun Merayu Tuhan (2018)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Sodrun Merayu Tuhan",
+     "subtitle": "",
+     "year": "2018",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Sodrun (wife Khadijah)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "indonesia-sinetron-oct15:1": {
      "title": "Sodrun Merayu Tuhan",
@@ -436371,6 +443074,18 @@ window.CATALOG = {
      "note": "",
      "adult": "yes",
      "episodes": "Ep 47 (2 Feb 2018): Jai hypnotises Khadijah."
+    },
+    "wife-hypnosis-oct15:95": {
+     "title": "Sodrun Merayu Tuhan",
+     "year": "2018",
+     "format": "tv",
+     "match_title": "Sodrun Merayu Tuhan",
+     "match_year": "2018",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Sodrun (wife Khadijah)"
     }
    }
   },
@@ -436426,10 +443141,13 @@ window.CATALOG = {
    "pregnant_end": "unknown",
    "evidence": "Sisnet TV: Inayah ANTV ep 154 (14 Sep 2020) + Sisnet TV: Inayah ANTV ep 155 (15 Sep 2020) + Wikipedia (Indonesian): Inayah",
    "adult": "yes",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Raden Doso (wife Ajeng)",
    "format": "tv",
    "categories": [
     "human",
-    "forced-obedience"
+    "forced-obedience",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -436447,16 +443165,88 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "indonesia-sinetron-oct15"
+    "indonesia-sinetron-oct15",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "indonesia-sinetron-oct15:2"
+    "indonesia-sinetron-oct15:2",
+    "wife-hypnosis-oct15:96"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "indonesia-sinetron-oct15:2",
+    "source": "indonesia-sinetron-oct15",
+    "label": "Inayah (2009)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Inayah",
+    "subtitle": "",
+    "year": "2009",
+    "meta": "Sinetron · Indosiar 2009 (rerun ANTV 2020) · Soraya Intercine Films · Indonesia",
+    "summary": "In the harem drama about Raden Doso's wives, Teddy has the hypnotist Pak Sentot hypnotise Ajeng: when she is woken she falls unconscious again under hypnosis. In the next episode she escapes and Sentot is blamed for failing.",
+    "character": "Ajeng (Dhea Imut); Teddy; Pak Sentot",
+    "note": "Ajeng is played by adult actress Dhea Imut; her age in the story is not stated.",
+    "mechanism": "Hypnosis by Pak Sentot, hired by Teddy",
+    "confidence_flag": "Medium-high · 2+ sources",
+    "categories": [
+     "human",
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "Sisnet TV: Inayah ANTV ep 154 (14 Sep 2020)",
+      "url": "https://www.sisnettv.com/2020/09/sinopsis-inayah-antv-senin-14-september.html"
+     },
+     {
+      "label": "Sisnet TV: Inayah ANTV ep 155 (15 Sep 2020)",
+      "url": "https://www.sisnettv.com/2020/09/sinopsis-inayah-antv-selasa-15.html"
+     },
+     {
+      "label": "Wikipedia (Indonesian): Inayah",
+      "url": "https://id.wikipedia.org/wiki/Inayah"
+     }
+    ],
+    "pregnancy_outcome": "unknown",
+    "pregnancy_note": "Not stated for Ajeng.",
+    "episodes": "ANTV rerun ep 154 (14 Sep 2020): hypnotised; ep 155: she escapes.",
+    "kids_status": "unknown",
+    "kids_note": "Not stated for Ajeng.",
+    "kids_together": "unknown",
+    "pregnant_end": "unknown",
+    "evidence": "Sisnet TV: Inayah ANTV ep 154 (14 Sep 2020) + Sisnet TV: Inayah ANTV ep 155 (15 Sep 2020) + Wikipedia (Indonesian): Inayah",
+    "adult": "yes",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:96",
+     "source": "wife-hypnosis-oct15",
+     "label": "Inayah (2009)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Inayah",
+     "subtitle": "",
+     "year": "2009",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Raden Doso (wife Ajeng)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "indonesia-sinetron-oct15:2": {
      "title": "Inayah",
@@ -436497,6 +443287,18 @@ window.CATALOG = {
      "note": "Ajeng is played by adult actress Dhea Imut; her age in the story is not stated.",
      "adult": "yes",
      "episodes": "ANTV rerun ep 154 (14 Sep 2020): hypnotised; ep 155: she escapes."
+    },
+    "wife-hypnosis-oct15:96": {
+     "title": "Inayah",
+     "year": "2009",
+     "format": "tv",
+     "match_title": "Inayah",
+     "match_year": "2009",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Raden Doso (wife Ajeng)"
     }
    }
   },
@@ -436514,17 +443316,24 @@ window.CATALOG = {
    "note": "loose fit: pelet love magic rather than hypnosis.",
    "pregnancy_outcome": "unknown",
    "pregnancy_note": "Not stated.",
+   "tags": [
+    "loose fit"
+   ],
    "kids_status": "no",
    "kids_note": "Newly married at the start; no children mentioned.",
    "kids_together": "unknown",
    "pregnant_end": "unknown",
    "evidence": "filmindonesia.or.id: Pelet",
+   "fit_note": "Loose fit: pelet love-magic framed as mind control",
    "adult": "yes",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Pandu (wife Saraswati)",
    "format": "movie",
    "categories": [
     "tantrik",
     "love",
-    "cheat-control"
+    "cheat-control",
+    "wife-hypnotized"
    ],
    "sources": [
     {
@@ -436534,16 +443343,84 @@ window.CATALOG = {
    ],
    "youtube_ids": [],
    "from_sources": [
-    "indonesia-sinetron-oct15"
+    "indonesia-sinetron-oct15",
+    "wife-hypnosis-oct15"
    ],
    "source_records": [
-    "indonesia-sinetron-oct15:3"
+    "indonesia-sinetron-oct15:3",
+    "wife-hypnosis-oct15:97"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "indonesia-sinetron-oct15:3",
+    "source": "indonesia-sinetron-oct15",
+    "label": "Pelet (1987)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Pelet",
+    "subtitle": "",
+    "year": "1987",
+    "meta": "Film · Indonesia · Indonesian · dir. Imam Tantowi",
+    "summary": "At Saraswati's wedding to Pandu, Sam, whom she had rejected, appears. Pandu has an accident, and with a dukun's help Sam 'tames' Saraswati with pelet. Sam's jealous girlfriend Utari uses another dukun to disfigure Saraswati, who is cured by a kyai; Sam is killed by Utari's gang.",
+    "character": "Saraswati (Diah Puri Handayani)",
+    "note": "loose fit: pelet love magic rather than hypnosis.",
+    "mechanism": "Pelet love magic through a dukun",
+    "confidence_flag": "Medium · single source",
+    "categories": [
+     "tantrik",
+     "love",
+     "cheat-control"
+    ],
+    "sources": [
+     {
+      "label": "filmindonesia.or.id: Pelet",
+      "url": "https://filmindonesia.or.id/film/lf-p005-87-138502"
+     }
+    ],
+    "pregnancy_outcome": "unknown",
+    "pregnancy_note": "Not stated.",
+    "kids_status": "no",
+    "kids_note": "Newly married at the start; no children mentioned.",
+    "kids_together": "unknown",
+    "pregnant_end": "unknown",
+    "evidence": "filmindonesia.or.id: Pelet",
+    "adult": "yes",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "wife-hypnosis-oct15:97",
+     "source": "wife-hypnosis-oct15",
+     "label": "Pelet (1987)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Pelet",
+     "subtitle": "",
+     "year": "1987",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [],
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: pelet love-magic framed as mind control",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Pandu (wife Saraswati)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "indonesia-sinetron-oct15:3": {
      "title": "Pelet",
@@ -436576,6 +443453,22 @@ window.CATALOG = {
      "group": "Indonesian sinetron / FTV deep pass (Oct 2026)",
      "note": "loose fit: pelet love magic rather than hypnosis.",
      "adult": "yes"
+    },
+    "wife-hypnosis-oct15:97": {
+     "title": "Pelet",
+     "year": "1987",
+     "format": "movie",
+     "match_title": "Pelet",
+     "match_year": "1987",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Pandu (wife Saraswati)",
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Loose fit: pelet love-magic framed as mind control"
     }
    }
   },
@@ -437741,6 +444634,313 @@ window.CATALOG = {
      "adult": "no",
      "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
      "note": ""
+    }
+   }
+  },
+  {
+   "id": 3005,
+   "title": "My Mom's a Werewolf",
+   "subtitle": "",
+   "year": "1989",
+   "meta": "US · English · horror-comedy film",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Suburban housewife Leslie Shaber is hypnotized by pet-shop owner Harry Thropen's glowing eyes and bitten so she becomes his werewolf mate; her daughter Jennifer breaks the spell by killing him with silver.",
+   "character": "Leslie Shaber",
+   "provenance": "",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "daughter Jennifer (teen)",
+   "kids_together": "yes — daughter Jennifer (from before); no new children",
+   "pregnant_end": "no",
+   "evidence": "Wikipedia; Mental Block; MidnightCult/Horror Society reviews",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Howard Shaber",
+   "format": "movie",
+   "categories": [
+    "wife-hypnotized",
+    "another-man"
+   ],
+   "sources": [],
+   "youtube_ids": [],
+   "from_sources": [
+    "wife-hypnosis-oct15"
+   ],
+   "source_records": [
+    "wife-hypnosis-oct15:105"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "wife-hypnosis-oct15:105": {
+     "title": "My Mom's a Werewolf",
+     "year": "1989",
+     "format": "movie",
+     "meta": "US · English · horror-comedy film",
+     "categories": [
+      "wife-hypnotized",
+      "another-man"
+     ],
+     "summary": "Suburban housewife Leslie Shaber is hypnotized by pet-shop owner Harry Thropen's glowing eyes and bitten so she becomes his werewolf mate; her daughter Jennifer breaks the spell by killing him with silver.",
+     "character": "Leslie Shaber",
+     "pregnant_end": "no",
+     "kids_together": "yes — daughter Jennifer (from before); no new children",
+     "kids_status": "yes",
+     "kids_note": "daughter Jennifer (teen)",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Howard Shaber",
+     "evidence": "Wikipedia; Mental Block; MidnightCult/Horror Society reviews"
+    }
+   }
+  },
+  {
+   "id": 3006,
+   "title": "Honey, I Shrunk the Kids: The TV Show — \"Honey, It's a Billion Dollar Brain\"",
+   "subtitle": "",
+   "year": "1999",
+   "meta": "US/Canada · English · S3E2 (aired 2 Oct 1999)",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "A revived disembodied brain hypnotizes Wayne Szalinski's family to build its fantasy family, turning Diane into a 1950s-style housewife, before Wayne undoes the hypnosis.",
+   "character": "Diane Szalinski",
+   "provenance": "",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "Amy and Nick (also affected; teens, non-sexual)",
+   "kids_together": "yes — Amy and Nick (from before)",
+   "pregnant_end": "no",
+   "evidence": "Wikipedia episode list; TVmaze; Mental Block",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Wayne Szalinski",
+   "format": "tv",
+   "categories": [
+    "wife-hypnotized",
+    "family"
+   ],
+   "sources": [],
+   "youtube_ids": [],
+   "from_sources": [
+    "wife-hypnosis-oct15"
+   ],
+   "source_records": [
+    "wife-hypnosis-oct15:106"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "wife-hypnosis-oct15:106": {
+     "title": "Honey, I Shrunk the Kids: The TV Show — \"Honey, It's a Billion Dollar Brain\"",
+     "year": "1999",
+     "format": "tv",
+     "meta": "US/Canada · English · S3E2 (aired 2 Oct 1999)",
+     "categories": [
+      "wife-hypnotized",
+      "family"
+     ],
+     "summary": "A revived disembodied brain hypnotizes Wayne Szalinski's family to build its fantasy family, turning Diane into a 1950s-style housewife, before Wayne undoes the hypnosis.",
+     "character": "Diane Szalinski",
+     "pregnant_end": "no",
+     "kids_together": "yes — Amy and Nick (from before)",
+     "kids_status": "yes",
+     "kids_note": "Amy and Nick (also affected; teens, non-sexual)",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Wayne Szalinski",
+     "evidence": "Wikipedia episode list; TVmaze; Mental Block"
+    }
+   }
+  },
+  {
+   "id": 3007,
+   "title": "Workin' Moms — \"Consent\"",
+   "subtitle": "",
+   "year": "2018",
+   "meta": "Canada · English · S2E5 (aired 30 Jan 2018)",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Anne agrees to a hypnotherapy session with her ex-husband Brad, records it, and later discovers he tried to plant sexual suggestions in her mind.",
+   "character": "Anne Carlson",
+   "provenance": "",
+   "note": "",
+   "kids_status": "yes",
+   "kids_note": "daughters Alice (teen) and Charlotte (baby)",
+   "kids_together": "Anne and Lionel: yes — Alice and Charlotte (both from before)",
+   "pregnant_end": "no",
+   "evidence": "Wikipedia season page; Romper review; episode transcript; Tunefind",
+   "fit_note": "Relevant partner differs: hypnotist is her ex-husband, not her current partner",
+   "already_married": "yes",
+   "already_married_note": "Yes — living as wife of Lionel Carlson (same season reveals they were never legally married); hypnotist is her ex-husband Brad",
+   "format": "tv",
+   "categories": [
+    "wife-hypnotized",
+    "partner-control",
+    "therapist-wife"
+   ],
+   "sources": [],
+   "youtube_ids": [],
+   "from_sources": [
+    "wife-hypnosis-oct15"
+   ],
+   "source_records": [
+    "wife-hypnosis-oct15:107"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "wife-hypnosis-oct15:107": {
+     "title": "Workin' Moms — \"Consent\"",
+     "year": "2018",
+     "format": "tv",
+     "meta": "Canada · English · S2E5 (aired 30 Jan 2018)",
+     "categories": [
+      "wife-hypnotized",
+      "partner-control",
+      "therapist-wife"
+     ],
+     "summary": "Anne agrees to a hypnotherapy session with her ex-husband Brad, records it, and later discovers he tried to plant sexual suggestions in her mind.",
+     "character": "Anne Carlson",
+     "pregnant_end": "no",
+     "kids_together": "Anne and Lionel: yes — Alice and Charlotte (both from before)",
+     "kids_status": "yes",
+     "kids_note": "daughters Alice (teen) and Charlotte (baby)",
+     "already_married": "yes",
+     "already_married_note": "Yes — living as wife of Lionel Carlson (same season reveals they were never legally married); hypnotist is her ex-husband Brad",
+     "fit_note": "Relevant partner differs: hypnotist is her ex-husband, not her current partner",
+     "evidence": "Wikipedia season page; Romper review; episode transcript; Tunefind"
+    }
+   }
+  },
+  {
+   "id": 3008,
+   "title": "Extreme Lust! Doing a Married Wife",
+   "subtitle": "",
+   "year": "2009",
+   "meta": "Japan · Japanese · pink film (Shintoho, dir. Akira Fukamachi)",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Married Akiko Nozawa, terrified of ringing telephones, is taken by her husband to a psychiatric clinic where hypnotherapy uncovers a past tragedy tied to his business partner Numata.",
+   "character": "Akiko Nozawa",
+   "provenance": "",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "evidence": "Moviefone; TMDB (same synopsis text — effectively single source)",
+   "adult": true,
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Shunsuke Nozawa",
+   "format": "movie",
+   "categories": [
+    "wife-hypnotized",
+    "therapist-wife"
+   ],
+   "sources": [],
+   "youtube_ids": [],
+   "from_sources": [
+    "wife-hypnosis-oct15"
+   ],
+   "source_records": [
+    "wife-hypnosis-oct15:108"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "wife-hypnosis-oct15:108": {
+     "title": "Extreme Lust! Doing a Married Wife",
+     "year": "2009",
+     "format": "movie",
+     "meta": "Japan · Japanese · pink film (Shintoho, dir. Akira Fukamachi)",
+     "categories": [
+      "wife-hypnotized",
+      "therapist-wife"
+     ],
+     "adult": true,
+     "summary": "Married Akiko Nozawa, terrified of ringing telephones, is taken by her husband to a psychiatric clinic where hypnotherapy uncovers a past tragedy tied to his business partner Numata.",
+     "character": "Akiko Nozawa",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "not stated",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Shunsuke Nozawa",
+     "evidence": "Moviefone; TMDB (same synopsis text — effectively single source)"
+    }
+   }
+  },
+  {
+   "id": 3009,
+   "title": "It",
+   "subtitle": "",
+   "year": "1990",
+   "meta": "US · English · two-part miniseries",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Audra, wife of novelist Bill Denbrough, follows him to Derry and is left in a catatonic trance after seeing It's Deadlights; Bill eventually brings her out of it.",
+   "character": "Audra Phillips-Denbrough",
+   "provenance": "",
+   "note": "",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "no",
+   "kids_note": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Wikipedia; Mental Block",
+   "fit_note": "Loose fit: supernatural Deadlights trance, not hypnosis",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Bill Denbrough",
+   "format": "tv",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "sources": [],
+   "youtube_ids": [],
+   "from_sources": [
+    "wife-hypnosis-oct15"
+   ],
+   "source_records": [
+    "wife-hypnosis-oct15:109"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "wife-hypnosis-oct15:109": {
+     "title": "It",
+     "year": "1990",
+     "format": "tv",
+     "meta": "US · English · two-part miniseries",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "summary": "Audra, wife of novelist Bill Denbrough, follows him to Derry and is left in a catatonic trance after seeing It's Deadlights; Bill eventually brings her out of it.",
+     "character": "Audra Phillips-Denbrough",
+     "pregnant_end": "no",
+     "kids_together": "no",
+     "kids_status": "no",
+     "kids_note": "no",
+     "already_married": "yes",
+     "already_married_note": "Yes — husband: Bill Denbrough",
+     "fit_note": "Loose fit: supernatural Deadlights trance, not hypnosis",
+     "evidence": "Wikipedia; Mental Block"
     }
    }
   }
@@ -448144,7 +455344,8 @@ window.CATALOG = {
     "hypno-leftovers",
     "hypnosis-assault",
     "round2",
-    "round3"
+    "round3",
+    "wife-hypnosis-oct15"
    ],
    "groups": [
     {
@@ -448788,6 +455989,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "round3"
+    },
+    {
+     "title": "Wife hypnotized",
+     "notes": [],
+     "items": [
+      {
+       "id": 3007,
+       "from_source": "wife-hypnosis-oct15"
+      }
+     ],
+     "from_source": "wife-hypnosis-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -448799,7 +456011,8 @@ window.CATALOG = {
     "hypno-leftovers": null,
     "hypnosis-assault": null,
     "round2": null,
-    "round3": null
+    "round3": null,
+    "wife-hypnosis-oct15": null
    }
   },
   {
@@ -476247,7 +483460,8 @@ window.CATALOG = {
     "agegap-marriage",
     "mom-pregnancy",
     "kids-pregnant-again",
-    "round3"
+    "round3",
+    "wife-hypnosis-oct15"
    ],
    "groups": [
     {
@@ -476678,6 +483892,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "round3"
+    },
+    {
+     "title": "Wife hypnotized",
+     "notes": [],
+     "items": [
+      {
+       "id": 3006,
+       "from_source": "wife-hypnosis-oct15"
+      }
+     ],
+     "from_source": "wife-hypnosis-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -476685,7 +483910,8 @@ window.CATALOG = {
     "agegap-marriage": null,
     "mom-pregnancy": null,
     "kids-pregnant-again": null,
-    "round3": null
+    "round3": null,
+    "wife-hypnosis-oct15": null
    }
   },
   {
@@ -483698,6 +490924,463 @@ window.CATALOG = {
    }
   },
   {
+   "title": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
+   "category": "wife-hypnotized",
+   "description": "",
+   "notes": [],
+   "from_sources": [
+    "wife-hypnosis-oct15"
+   ],
+   "declared_count_by_source": {
+    "wife-hypnosis-oct15": null
+   },
+   "groups": [
+    {
+     "title": "Wife hypnotized",
+     "notes": [],
+     "items": [
+      {
+       "id": 679,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 608,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 30,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2632,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2654,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 974,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 737,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2183,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2908,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 1068,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 48,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 821,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 1112,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 1113,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 647,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 742,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2660,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 226,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 236,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 752,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 1190,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 3008,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 402,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2622,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 99,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2142,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2962,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 1303,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 596,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 818,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 3006,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 823,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 254,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 645,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 142,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 724,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 60,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 18,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 1985,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2762,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 1353,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2763,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2992,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 371,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2902,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 3009,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 1412,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 256,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 847,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 1456,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2399,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 656,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 59,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 597,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 1473,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 1481,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2642,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2935,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 1504,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 1513,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 58,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2676,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 500,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 3005,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 732,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 607,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 1604,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 1637,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 819,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2993,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2138,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2897,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 42,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2900,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2903,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2921,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2145,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2625,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 1746,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2186,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 1766,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 1777,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 34,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 1787,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 719,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2991,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 824,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 139,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 1821,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 1981,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 820,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2987,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 52,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 479,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2673,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 646,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2401,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 595,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 822,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 228,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 3007,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 1953,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 649,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 243,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2650,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2651,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 56,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 2649,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 1962,
+       "from_source": "wife-hypnosis-oct15"
+      }
+     ],
+     "from_source": "wife-hypnosis-oct15"
+    }
+   ]
+  },
+  {
    "title": "Wife hypnotized / controlled by a therapist",
    "category": "therapist-wife",
    "description": "Seven strict cases in which a wife is hypnotized or deliberately controlled by a therapist, psychiatrist, hypnotherapist or physician using hypnosis. Six are feature films and one is a silent short; no confirmed television, soap, telenovela, anime or web-series match was found.",
@@ -483714,7 +491397,8 @@ window.CATALOG = {
     "rich-wife-hypnosis",
     "older-man-hypnosis",
     "hypnosis-assault",
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "wife-hypnosis-oct15"
    ],
    "groups": [
     {
@@ -483900,6 +491584,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "older-man-hypnosis"
+    },
+    {
+     "title": "Wife hypnotized",
+     "notes": [],
+     "items": [
+      {
+       "id": 3008,
+       "from_source": "wife-hypnosis-oct15"
+      },
+      {
+       "id": 3007,
+       "from_source": "wife-hypnosis-oct15"
+      }
+     ],
+     "from_source": "wife-hypnosis-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -483907,7 +491606,8 @@ window.CATALOG = {
     "rich-wife-hypnosis": null,
     "older-man-hypnosis": null,
     "hypnosis-assault": null,
-    "hypnosis-assault-loose": null
+    "hypnosis-assault-loose": null,
+    "wife-hypnosis-oct15": null
    }
   },
   {
@@ -484333,7 +492033,8 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "mom-pregnancy",
-    "lesbian-pregnancy"
+    "lesbian-pregnancy",
+    "wife-hypnosis-oct15"
    ],
    "groups": [
     {
@@ -484823,12 +492524,24 @@ window.CATALOG = {
       }
      ],
      "from_source": "ig6qlxqxoxvcxla"
+    },
+    {
+     "title": "Wife hypnotized",
+     "notes": [],
+     "items": [
+      {
+       "id": 3005,
+       "from_source": "wife-hypnosis-oct15"
+      }
+     ],
+     "from_source": "wife-hypnosis-oct15"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 31,
     "mom-pregnancy": null,
-    "lesbian-pregnancy": null
+    "lesbian-pregnancy": null,
+    "wife-hypnosis-oct15": null
    }
   },
   {

@@ -1,0 +1,1666 @@
+{
+ "id": "wife-hypnosis-oct15",
+ "label": "Wife hypnotized sweep (15 Oct 2026)",
+ "group_title": "Wife hypnotized",
+ "description": "Adult women who are wives when hypnotized (hypnosis/mesmerism/trance suggestion; loose-fit tags for spell/drug/device). Adds already-married (d) with husband, plus pregnancy/kids fields where known.",
+ "category_labels": {
+  "wife-hypnotized": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)"
+ },
+ "records": [
+  {
+   "title": "The Hypnotized / Faceless Beauty",
+   "year": "2004",
+   "format": "movie",
+   "match_title": "The Hypnotized / Faceless Beauty",
+   "match_year": "2004",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband"
+  },
+  {
+   "title": "Amore e ipnotismo",
+   "year": "1912",
+   "format": "short",
+   "match_title": "Amore e ipnotismo",
+   "match_year": "1912",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her doctor husband (Helen Thomas)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "Sleep, My Love",
+   "year": "1948",
+   "format": "movie",
+   "match_title": "Sleep, My Love",
+   "match_year": "1948",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Richard Courtland",
+   "pregnant_end": "no",
+   "kids_together": "no"
+  },
+  {
+   "title": "Revenge of the Stepford Wives",
+   "year": "1980",
+   "format": "tv",
+   "match_title": "Revenge of the Stepford Wives",
+   "match_year": "1980",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Andy (Megan's husband)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "tags": [
+    "loose fit"
+   ],
+   "fit_note": "Loose fit: control via pills/treatment rather than pure hypnosis"
+  },
+  {
+   "title": "Days of Our Lives",
+   "year": "1998–99 / 2019–20",
+   "format": "tv",
+   "match_title": "Days of Our Lives",
+   "match_year": "1998–99 / 2019–20",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Bo Brady (Hope as 'Princess Gina')",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "yes",
+   "kids_note": "Shawn-Douglas (son)",
+   "tags": [
+    "loose fit"
+   ],
+   "fit_note": "Loose fit: conditioning plus implant/drug elements"
+  },
+  {
+   "title": "Tee Ratra",
+   "year": "2010",
+   "format": "movie",
+   "match_title": "Tee Ratra",
+   "match_year": "2010",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "被催眠的她",
+   "year": "2026",
+   "format": "vertical series",
+   "match_title": "被催眠的她",
+   "match_year": "2026",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
+   "tags": [
+    "loose fit"
+   ],
+   "fit_note": "Loose fit: identity of the hypnotist not firmly established"
+  },
+  {
+   "title": "The Mask of Diijon",
+   "year": "1946",
+   "format": "movie",
+   "match_title": "The Mask of Diijon",
+   "match_year": "1946",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Diijon"
+  },
+  {
+   "title": "Le Système Ribadier",
+   "year": "1975",
+   "format": "tv",
+   "match_title": "Le Système Ribadier",
+   "match_year": "1975",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Ribadier (wife Angèle)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated"
+  },
+  {
+   "title": "The Hypnotist / Hypnotisören",
+   "year": "2012",
+   "format": "movie",
+   "match_title": "The Hypnotist / Hypnotisören",
+   "match_year": "2012",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Erik Maria Bark (wife Simone)",
+   "pregnant_end": "no",
+   "kids_together": "no",
+   "kids_status": "yes",
+   "kids_note": "son Benjamin"
+  },
+  {
+   "title": "Hypnotic",
+   "year": "2021",
+   "format": "movie",
+   "match_title": "Hypnotic",
+   "match_year": "2021",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Gina's husband"
+  },
+  {
+   "title": "Whirlpool",
+   "year": "1949",
+   "format": "movie",
+   "match_title": "Whirlpool",
+   "match_year": "1949",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: William Sutton (wife Ann)",
+   "pregnant_end": "no",
+   "kids_together": "no"
+  },
+  {
+   "title": "Dynasty: The Reunion",
+   "year": "1991",
+   "format": "movie",
+   "match_title": "Dynasty: The Reunion",
+   "match_year": "1991",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Blake Carrington (wife Krystle)",
+   "pregnant_end": "no",
+   "kids_together": "no",
+   "kids_status": "yes",
+   "kids_note": "daughter Krystina"
+  },
+  {
+   "title": "The Young and the Restless",
+   "year": "2015–16",
+   "format": "tv",
+   "match_title": "The Young and the Restless",
+   "match_year": "2015–16",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Dylan McAvoy (wife Sharon)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "tags": [
+    "loose fit"
+   ],
+   "fit_note": "Loose fit: drug-induced suggestion"
+  },
+  {
+   "title": "Horror of Dracula",
+   "year": "1958",
+   "format": "movie",
+   "match_title": "Horror of Dracula",
+   "match_year": "1958",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Arthur Holmwood (wife Mina)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "tags": [
+    "loose fit"
+   ],
+   "fit_note": "Loose fit: vampiric mesmerism"
+  },
+  {
+   "title": "Kiss of the Vampire",
+   "year": "1963",
+   "format": "movie",
+   "match_title": "Kiss of the Vampire",
+   "match_year": "1963",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Gerald Harcourt (wife Marianne)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "tags": [
+    "loose fit"
+   ],
+   "fit_note": "Loose fit: vampiric mesmerism"
+  },
+  {
+   "title": "Fallait pas !",
+   "year": "1996",
+   "format": "movie",
+   "match_title": "Fallait pas !",
+   "match_year": "1996",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: the hero (his wife)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "The Three Faces of Eve",
+   "year": "1957",
+   "format": "movie",
+   "match_title": "The Three Faces of Eve",
+   "match_year": "1957",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Ralph White (wife Eve)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "yes",
+   "kids_note": "daughter Bonnie"
+  },
+  {
+   "title": "My Husband's Deadly Past",
+   "year": "2020",
+   "format": "tv",
+   "match_title": "My Husband's Deadly Past",
+   "match_year": "2020",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Otto",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated"
+  },
+  {
+   "title": "The Vise",
+   "year": "1954",
+   "format": "tv",
+   "match_title": "The Vise",
+   "match_year": "1954",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Dr. Damon (wife Anita)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "He Learns the Trick of Mesmerism",
+   "year": "1909",
+   "format": "short",
+   "match_title": "He Learns the Trick of Mesmerism",
+   "match_year": "1909",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Jones",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "LFO",
+   "year": "2013",
+   "format": "movie",
+   "match_title": "LFO",
+   "match_year": "2013",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Simon (wife Linn)"
+  },
+  {
+   "title": "Night of the Eagle",
+   "year": "1962",
+   "format": "movie",
+   "match_title": "Night of the Eagle",
+   "match_year": "1962",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Norman Taylor (wife Tansy)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "no",
+   "kids_note": "no",
+   "tags": [
+    "loose fit"
+   ],
+   "fit_note": "Loose fit: witchcraft trance framed as control"
+  },
+  {
+   "title": "Alfred Hitchcock Presents",
+   "year": "1958",
+   "format": "tv",
+   "match_title": "Alfred Hitchcock Presents",
+   "match_year": "1958",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Lucy Pryor's husband"
+  },
+  {
+   "title": "Hypnose / The Guardian Angel",
+   "year": "2018",
+   "format": "movie",
+   "match_title": "Hypnose / The Guardian Angel",
+   "match_year": "2018",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Anders Olsen (wife Marie)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "To Seduce an Enemy",
+   "year": "2003",
+   "format": "movie",
+   "match_title": "To Seduce an Enemy",
+   "match_year": "2003",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Joe Siu (wife Daisy)"
+  },
+  {
+   "title": "Dia Anakku",
+   "year": "2010–11",
+   "format": "tv",
+   "match_title": "Dia Anakku",
+   "match_year": "2010–11",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Fathan (wife Fathiyah)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "Yo soy Franky",
+   "year": "2015–16",
+   "format": "tv",
+   "match_title": "Yo soy Franky",
+   "match_year": "2015–16",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Sofía Andrade's husband",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "Le Septième Ciel / The Seventh Heaven",
+   "year": "1997",
+   "format": "movie",
+   "match_title": "Le Septième Ciel / The Seventh Heaven",
+   "match_year": "1997",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Nicolas (wife Mathilde)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "no",
+   "kids_note": "no"
+  },
+  {
+   "title": "Seventh Heaven",
+   "year": "1997",
+   "format": "movie",
+   "match_title": "Seventh Heaven",
+   "match_year": "1997",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Nicolas (wife Mathilde)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "no",
+   "kids_note": "no"
+  },
+  {
+   "title": "Smooth Velvet, Raw Silk / Velluto nero / Black Emmanuelle, White Emmanuelle",
+   "year": "1976",
+   "format": "movie",
+   "match_title": "Smooth Velvet, Raw Silk / Velluto nero / Black Emmanuelle, White Emmanuelle",
+   "match_year": "1976",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Laura's photographer husband"
+  },
+  {
+   "title": "The Hypnotist",
+   "year": "1936",
+   "format": "short",
+   "match_title": "The Hypnotist",
+   "match_year": "1936",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband (married couple)"
+  },
+  {
+   "title": "Neighbours",
+   "year": "2003",
+   "format": "tv",
+   "match_title": "Neighbours",
+   "match_year": "2003",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Joe Scully (wife Lyn)",
+   "pregnant_end": "yes — by Joe; son Oscar born",
+   "kids_together": "yes (Oscar)",
+   "kids_status": "yes",
+   "kids_note": "daughters Stephanie, Felicity, Michelle; son Jack"
+  },
+  {
+   "title": "Black Magic Part 2",
+   "year": "1976",
+   "format": "movie",
+   "match_title": "Black Magic Part 2",
+   "match_year": "1976",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: the doctor (his wife)",
+   "tags": [
+    "loose fit"
+   ],
+   "fit_note": "Loose fit: sorcery rather than hypnosis"
+  },
+  {
+   "title": "Didi der Untermieter",
+   "year": "c. 1986–91",
+   "format": "tv",
+   "match_title": "Didi der Untermieter",
+   "match_year": "c. 1986–91",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Willi (wife Katharina)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "El barón del terror",
+   "year": "1962",
+   "format": "movie",
+   "match_title": "El barón del terror",
+   "match_year": "1962",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "tags": [
+    "loose fit"
+   ],
+   "fit_note": "Loose fit: sources conflict on the hypnosis/marriage details"
+  },
+  {
+   "title": "A hipnotizált feleség / The Hypnotized Wife",
+   "year": "1932",
+   "format": "short",
+   "match_title": "A hipnotizált feleség / The Hypnotized Wife",
+   "match_year": "1932",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Rezeda's husband",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "Paris 1900: Feydeau",
+   "year": "1964",
+   "format": "tv",
+   "match_title": "Paris 1900: Feydeau",
+   "match_year": "1964",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Eugène Ribadier (wife Angèle)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "Tales of Wells Fargo",
+   "year": "1962",
+   "format": "tv",
+   "match_title": "Tales of Wells Fargo",
+   "match_year": "1962",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Reardon",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "Days of Our Lives",
+   "year": "2005–06",
+   "format": "tv",
+   "match_title": "Days of Our Lives",
+   "match_year": "2005–06",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: John Black (Marlena; hypnotized by Alex North)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "yes",
+   "kids_note": "Sami, Eric, Belle (adult children)"
+  },
+  {
+   "title": "While You Were Sleeping",
+   "year": "2008",
+   "format": "short",
+   "match_title": "While You Were Sleeping",
+   "match_year": "2008",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated"
+  },
+  {
+   "title": "The Honeymooners — “Sleepy Time Gal”",
+   "year": "1968",
+   "format": "tv",
+   "match_title": "The Honeymooners — “Sleepy Time Gal”",
+   "match_year": "1968",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Ralph Kramden (wife Alice)",
+   "pregnant_end": "no",
+   "kids_together": "no",
+   "kids_status": "no",
+   "kids_note": "no"
+  },
+  {
+   "title": "Sri Krishna 2006",
+   "year": "2006",
+   "format": "film",
+   "match_title": "Sri Krishna 2006",
+   "match_year": "2006",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "Kyonyuu Hitozuma Onna Kyoushi Saimin",
+   "year": "2016",
+   "format": "tv",
+   "match_title": "Kyonyuu Hitozuma Onna Kyoushi Saimin",
+   "match_year": "2016",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "tags": [
+    "loose fit"
+   ],
+   "fit_note": "Loose fit: adult anime; framing unclear"
+  },
+  {
+   "title": "Big Kids",
+   "year": "2000",
+   "format": "tv",
+   "match_title": "Big Kids",
+   "match_year": "2000",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Sarah Spiller's husband",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated"
+  },
+  {
+   "title": "Courage the Cowardly Dog",
+   "year": "",
+   "format": "tv",
+   "match_title": "Courage the Cowardly Dog",
+   "match_year": "",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Eustace Bagge (wife Muriel)",
+   "pregnant_end": "no",
+   "kids_together": "no"
+  },
+  {
+   "title": "De Mesmer con amor",
+   "year": "2002",
+   "format": "movie",
+   "match_title": "De Mesmer con amor",
+   "match_year": "2002",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: María's husband"
+  },
+  {
+   "title": "Dead Man's Gun",
+   "year": "1997–1999",
+   "format": "tv",
+   "match_title": "Dead Man's Gun",
+   "match_year": "1997–1999",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband"
+  },
+  {
+   "title": "El Gato con Gatas",
+   "year": "1992",
+   "format": "movie",
+   "match_title": "El Gato con Gatas",
+   "match_year": "1992",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband"
+  },
+  {
+   "title": "Gutur Gu",
+   "year": "2010–14",
+   "format": "tv",
+   "match_title": "Gutur Gu",
+   "match_year": "2010–14",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Balu (Gutur Gu)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "Ichhapyaari Naagin",
+   "year": "2016–17",
+   "format": "tv",
+   "match_title": "Ichhapyaari Naagin",
+   "match_year": "2016–17",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Babbal (wife Iccha)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "Ichhapyari naagin",
+   "year": "2016",
+   "format": "tv",
+   "match_title": "Ichhapyari naagin",
+   "match_year": "2016",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Babbal (wife Iccha)"
+  },
+  {
+   "title": "Karn Sangini",
+   "year": "2018–19",
+   "format": "tv",
+   "match_title": "Karn Sangini",
+   "match_year": "2018–19",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Karn (wife Uruvi)"
+  },
+  {
+   "title": "Lady Morgan's Vengeance",
+   "year": "1965",
+   "format": "movie",
+   "match_title": "Lady Morgan's Vengeance",
+   "match_year": "1965",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "Listen To Your Husband",
+   "year": "2025",
+   "format": "vertical series",
+   "match_title": "Listen To Your Husband",
+   "match_year": "2025",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Qi Xia (wife Luo Fei)"
+  },
+  {
+   "title": "Los Ladrones van a la Oficina",
+   "year": "1993",
+   "format": "tv",
+   "match_title": "Los Ladrones van a la Oficina",
+   "match_year": "1993",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "Magpakailanman",
+   "year": "2019",
+   "format": "tv",
+   "match_title": "Magpakailanman",
+   "match_year": "2019",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "Mann Sundar",
+   "year": "2026",
+   "format": "tv",
+   "match_title": "Mann Sundar",
+   "match_year": "2026",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Nahar (wife Ruhi)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated"
+  },
+  {
+   "title": "No: 309",
+   "year": "2016–2017",
+   "format": "tv",
+   "match_title": "No: 309",
+   "match_year": "2016–2017",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Erol (wife Filiz)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated"
+  },
+  {
+   "title": "Shut Eye",
+   "year": "2016",
+   "format": "tv",
+   "match_title": "Shut Eye",
+   "match_year": "2016",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated"
+  },
+  {
+   "title": "Sindoor Ki Keemat",
+   "year": "2023",
+   "format": "tv",
+   "match_title": "Sindoor Ki Keemat",
+   "match_year": "2023",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "tags": [
+    "loose fit"
+   ],
+   "fit_note": "Loose fit: sindoor/powder spell rather than hypnosis"
+  },
+  {
+   "title": "Sleepwalker",
+   "year": "2022",
+   "format": "movie",
+   "match_title": "Sleepwalker",
+   "match_year": "2022",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Brad (wife Jenny)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "Streets of Broken Lights",
+   "year": "1995–2019",
+   "format": "tv",
+   "match_title": "Streets of Broken Lights",
+   "match_year": "1995–2019",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated"
+  },
+  {
+   "title": "Yeh Hai Chahatein",
+   "year": "2019–2024",
+   "format": "tv",
+   "match_title": "Yeh Hai Chahatein",
+   "match_year": "2019–2024",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Rudraksh (wife Preesha)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated"
+  },
+  {
+   "title": "魔睡 / Masui",
+   "year": "2019",
+   "format": "movie",
+   "match_title": "魔睡 / Masui",
+   "match_year": "2019",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Yuriko's husband"
+  },
+  {
+   "title": "Sweet Strategy: Mr. Vance's Ex Is Too Proud",
+   "year": "Unconfirmed",
+   "format": "tv",
+   "match_title": "Sweet Strategy: Mr. Vance's Ex Is Too Proud",
+   "match_year": "Unconfirmed",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Vincent Vance (wife Elena)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "I Accidentally Had the Billionaire's Twins. 6 Years Later, They Saved His Empire!",
+   "year": "Unconfirmed",
+   "format": "tv",
+   "match_title": "I Accidentally Had the Billionaire's Twins. 6 Years Later, They Saved His Empire!",
+   "match_year": "Unconfirmed",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Vincent Wallace (wife Kathy)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated"
+  },
+  {
+   "title": "PPPD-305",
+   "year": "2014",
+   "format": "movie",
+   "match_title": "PPPD-305",
+   "match_year": "2014",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Meguri's husband",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "General Hospital",
+   "year": "1985–86",
+   "format": "tv",
+   "match_title": "General Hospital",
+   "match_year": "1985–86",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Kevin O'Connor (wife Terry Brock)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "The Scarapist",
+   "year": "2015",
+   "format": "movie",
+   "match_title": "The Scarapist",
+   "match_year": "2015",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Lana's husband",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "Bonyo Premer Golpo S2",
+   "year": "2020",
+   "format": "movie",
+   "match_title": "Bonyo Premer Golpo S2",
+   "match_year": "2020",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Minnie's husband",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "Shaitani Ilaaka",
+   "year": "1990",
+   "format": "movie",
+   "match_title": "Shaitani Ilaaka",
+   "match_year": "1990",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "tags": [
+    "loose fit"
+   ],
+   "fit_note": "Loose fit: supernatural trance; framing unclear"
+  },
+  {
+   "title": "Le Déclic / The Click",
+   "year": "1985",
+   "format": "movie",
+   "match_title": "Le Déclic / The Click",
+   "match_year": "1985",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
+   "tags": [
+    "loose fit"
+   ],
+   "fit_note": "Loose fit: remote-control device rather than hypnosis"
+  },
+  {
+   "title": "Twisted Fiction",
+   "year": "2023",
+   "format": "movie",
+   "match_title": "Twisted Fiction",
+   "match_year": "2023",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Tim (wife Tina)"
+  },
+  {
+   "title": "Fascinación",
+   "year": "1949",
+   "format": "movie",
+   "match_title": "Fascinación",
+   "match_year": "1949",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated"
+  },
+  {
+   "title": "The Search for Bridey Murphy",
+   "year": "1956",
+   "format": "movie",
+   "match_title": "The Search for Bridey Murphy",
+   "match_year": "1956",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Hugh Simmons (wife Ruth)"
+  },
+  {
+   "title": "As the World Turns",
+   "year": "2009–10",
+   "format": "tv",
+   "match_title": "As the World Turns",
+   "match_year": "2009–10",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Paul Ryan (wife Emily)"
+  },
+  {
+   "title": "Love in Oblivion",
+   "year": "2026",
+   "format": "vertical series",
+   "match_title": "Love in Oblivion",
+   "match_year": "2026",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: James (wife Emily)"
+  },
+  {
+   "title": "醒来时，我眼里不是他",
+   "year": "2026",
+   "format": "vertical series",
+   "match_title": "醒来时，我眼里不是他",
+   "match_year": "2026",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Lin Yue (wife Su Wan)"
+  },
+  {
+   "title": "神秘的她",
+   "year": "2025",
+   "format": "vertical series",
+   "match_title": "神秘的她",
+   "match_year": "2025",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Cheng Junjie (wife Pei Jiajia)"
+  },
+  {
+   "title": "第一百零一次睁眼",
+   "year": "2025",
+   "format": "vertical series",
+   "match_title": "第一百零一次睁眼",
+   "match_year": "2025",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Lin Mengran's husband"
+  },
+  {
+   "title": "Beneath the Hypnosis",
+   "year": "Date unverified",
+   "format": "vertical series",
+   "match_title": "Beneath the Hypnosis",
+   "match_year": "Date unverified",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Luke (wife Anne)"
+  },
+  {
+   "title": "Don't Monkey with the Buzz Saw",
+   "year": "1914",
+   "format": "short",
+   "match_title": "Don't Monkey with the Buzz Saw",
+   "match_year": "1914",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband"
+  },
+  {
+   "title": "Ti Ratr",
+   "year": "2011",
+   "format": "movie",
+   "match_title": "Ti Ratr",
+   "match_year": "2011",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Rajan (wife Rajani)"
+  },
+  {
+   "title": "May I Come In Madam?",
+   "year": "2016",
+   "format": "tv",
+   "match_title": "May I Come In Madam?",
+   "match_year": "2016",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Sajan (wife Kashmira)"
+  },
+  {
+   "title": "Rangeen Kahaniyan",
+   "year": "2024",
+   "format": "tv",
+   "match_title": "Rangeen Kahaniyan",
+   "match_year": "2024",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
+   "tags": [
+    "loose fit"
+   ],
+   "fit_note": "Loose fit: anthology; hypnosis framing unclear"
+  },
+  {
+   "title": "Saath Nibhaana Saathiya",
+   "year": "2026 (YouTube upload; series 2010–2017)",
+   "format": "tv",
+   "match_title": "Saath Nibhaana Saathiya",
+   "match_year": "2026 (YouTube upload; series 2010–2017)",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Rashi's husband",
+   "tags": [
+    "loose fit"
+   ],
+   "fit_note": "Loose fit: YouTube-upload framing; hypnosis loosely depicted"
+  },
+  {
+   "title": "Ishq Ki Dastaan – Naagmani",
+   "year": "2022–2023",
+   "format": "tv",
+   "match_title": "Ishq Ki Dastaan – Naagmani",
+   "match_year": "2022–2023",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Pappy Singh (wife Babli)",
+   "tags": [
+    "loose fit"
+   ],
+   "fit_note": "Loose fit: naagmani power rather than pure hypnosis"
+  },
+  {
+   "title": "Saatvya Mulichi Saatvi Mulgi",
+   "year": "2024",
+   "format": "tv",
+   "match_title": "Saatvya Mulichi Saatvi Mulgi",
+   "match_year": "2024",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Kedar (wife Ketaki)"
+  },
+  {
+   "title": "CID",
+   "year": "2025",
+   "format": "tv",
+   "match_title": "CID",
+   "match_year": "2025",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Kunal (wife Amrita)"
+  },
+  {
+   "title": "Sasural Simar Ka",
+   "year": "2026 (YouTube upload; series 2011–18)",
+   "format": "tv",
+   "match_title": "Sasural Simar Ka",
+   "match_year": "2026 (YouTube upload; series 2011–18)",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Prem (wife Simar)"
+  },
+  {
+   "title": "Love in The Cards",
+   "year": "2012",
+   "format": "movie",
+   "match_title": "Love in The Cards",
+   "match_year": "2012",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: her husband",
+   "tags": [
+    "loose fit"
+   ],
+   "fit_note": "Loose fit: tarot/charm framing"
+  },
+  {
+   "title": "The George Burns and Gracie Allen Show — \"Hypnotizing Gracie\"",
+   "year": "1958",
+   "format": "tv",
+   "match_title": "The George Burns and Gracie Allen Show — \"Hypnotizing Gracie\"",
+   "match_year": "1958",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: George Burns (wife Gracie)"
+  },
+  {
+   "title": "Tarkan: Altın Madalyon",
+   "year": "1972",
+   "format": "movie",
+   "match_title": "Tarkan: Altın Madalyon",
+   "match_year": "1972",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Kulka (wife Erka)"
+  },
+  {
+   "title": "Sodrun Merayu Tuhan",
+   "year": "2018",
+   "format": "tv",
+   "match_title": "Sodrun Merayu Tuhan",
+   "match_year": "2018",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Sodrun (wife Khadijah)"
+  },
+  {
+   "title": "Inayah",
+   "year": "2009",
+   "format": "tv",
+   "match_title": "Inayah",
+   "match_year": "2009",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Raden Doso (wife Ajeng)"
+  },
+  {
+   "title": "Pelet",
+   "year": "1987",
+   "format": "movie",
+   "match_title": "Pelet",
+   "match_year": "1987",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Pandu (wife Saraswati)",
+   "tags": [
+    "loose fit"
+   ],
+   "fit_note": "Loose fit: pelet love-magic framed as mind control"
+  },
+  {
+   "title": "The Stranger Within",
+   "year": "1974",
+   "format": "tv",
+   "match_title": "The Stranger Within",
+   "match_year": "1974",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: David Collins (wife Ann)"
+  },
+  {
+   "title": "The Forces of Evil; or, The Dominant Will",
+   "year": "1914",
+   "format": "short",
+   "match_title": "The Forces of Evil; or, The Dominant Will",
+   "match_year": "1914",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Mr. Livroy",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated"
+  },
+  {
+   "title": "I Walked with a Zombie",
+   "year": "1943",
+   "format": "movie",
+   "match_title": "I Walked with a Zombie",
+   "match_year": "1943",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Paul Holland (wife Jessica)",
+   "tags": [
+    "loose fit"
+   ],
+   "fit_note": "Loose fit: voodoo zombification trance"
+  },
+  {
+   "title": "Dr. Mabuse the Gambler",
+   "year": "1922",
+   "format": "movie",
+   "match_title": "Dr. Mabuse the Gambler",
+   "match_year": "1922",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Count Told (wife Countess Told)",
+   "pregnant_end": "no",
+   "kids_together": "no"
+  },
+  {
+   "title": "Inception",
+   "year": "2010",
+   "format": "movie",
+   "match_title": "Inception",
+   "match_year": "2010",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Dom Cobb (wife Mal)",
+   "pregnant_end": "no",
+   "kids_together": "yes — James and Phillipa (born before the inception)",
+   "kids_status": "yes",
+   "kids_note": "James and Phillipa",
+   "tags": [
+    "loose fit"
+   ],
+   "fit_note": "Loose fit: idea implanted via dream-sharing, not hypnosis"
+  },
+  {
+   "title": "Parasomnia",
+   "year": "2008",
+   "format": "movie",
+   "match_title": "Parasomnia",
+   "match_year": "2008",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Byron Volpe (his wife, in backstory)",
+   "pregnant_end": "no",
+   "kids_together": "no",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "tags": [
+    "loose fit"
+   ],
+   "fit_note": "Loose fit: backstory only"
+  },
+  {
+   "title": "Akasya Durağı, ep 121",
+   "year": "2011",
+   "format": "tv",
+   "match_title": "Akasya Durağı, ep 121",
+   "match_year": "2011",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Osman Ağa (wife Safiye; both hypnotized by telephone)",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated"
+  },
+  {
+   "title": "My Mom's a Werewolf",
+   "year": "1989",
+   "format": "movie",
+   "meta": "US · English · horror-comedy film",
+   "categories": [
+    "wife-hypnotized",
+    "another-man"
+   ],
+   "summary": "Suburban housewife Leslie Shaber is hypnotized by pet-shop owner Harry Thropen's glowing eyes and bitten so she becomes his werewolf mate; her daughter Jennifer breaks the spell by killing him with silver.",
+   "character": "Leslie Shaber",
+   "pregnant_end": "no",
+   "kids_together": "yes — daughter Jennifer (from before); no new children",
+   "kids_status": "yes",
+   "kids_note": "daughter Jennifer (teen)",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Howard Shaber",
+   "evidence": "Wikipedia; Mental Block; MidnightCult/Horror Society reviews"
+  },
+  {
+   "title": "Honey, I Shrunk the Kids: The TV Show — \"Honey, It's a Billion Dollar Brain\"",
+   "year": "1999",
+   "format": "tv",
+   "meta": "US/Canada · English · S3E2 (aired 2 Oct 1999)",
+   "categories": [
+    "wife-hypnotized",
+    "family"
+   ],
+   "summary": "A revived disembodied brain hypnotizes Wayne Szalinski's family to build its fantasy family, turning Diane into a 1950s-style housewife, before Wayne undoes the hypnosis.",
+   "character": "Diane Szalinski",
+   "pregnant_end": "no",
+   "kids_together": "yes — Amy and Nick (from before)",
+   "kids_status": "yes",
+   "kids_note": "Amy and Nick (also affected; teens, non-sexual)",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Wayne Szalinski",
+   "evidence": "Wikipedia episode list; TVmaze; Mental Block"
+  },
+  {
+   "title": "Workin' Moms — \"Consent\"",
+   "year": "2018",
+   "format": "tv",
+   "meta": "Canada · English · S2E5 (aired 30 Jan 2018)",
+   "categories": [
+    "wife-hypnotized",
+    "partner-control",
+    "therapist-wife"
+   ],
+   "summary": "Anne agrees to a hypnotherapy session with her ex-husband Brad, records it, and later discovers he tried to plant sexual suggestions in her mind.",
+   "character": "Anne Carlson",
+   "pregnant_end": "no",
+   "kids_together": "Anne and Lionel: yes — Alice and Charlotte (both from before)",
+   "kids_status": "yes",
+   "kids_note": "daughters Alice (teen) and Charlotte (baby)",
+   "already_married": "yes",
+   "already_married_note": "Yes — living as wife of Lionel Carlson (same season reveals they were never legally married); hypnotist is her ex-husband Brad",
+   "fit_note": "Relevant partner differs: hypnotist is her ex-husband, not her current partner",
+   "evidence": "Wikipedia season page; Romper review; episode transcript; Tunefind"
+  },
+  {
+   "title": "Extreme Lust! Doing a Married Wife",
+   "year": "2009",
+   "format": "movie",
+   "meta": "Japan · Japanese · pink film (Shintoho, dir. Akira Fukamachi)",
+   "categories": [
+    "wife-hypnotized",
+    "therapist-wife"
+   ],
+   "adult": true,
+   "summary": "Married Akiko Nozawa, terrified of ringing telephones, is taken by her husband to a psychiatric clinic where hypnotherapy uncovers a past tragedy tied to his business partner Numata.",
+   "character": "Akiko Nozawa",
+   "pregnant_end": "not stated",
+   "kids_together": "not stated",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Shunsuke Nozawa",
+   "evidence": "Moviefone; TMDB (same synopsis text — effectively single source)"
+  },
+  {
+   "title": "It",
+   "year": "1990",
+   "format": "tv",
+   "meta": "US · English · two-part miniseries",
+   "categories": [
+    "wife-hypnotized"
+   ],
+   "tags": [
+    "loose fit"
+   ],
+   "summary": "Audra, wife of novelist Bill Denbrough, follows him to Derry and is left in a catatonic trance after seeing It's Deadlights; Bill eventually brings her out of it.",
+   "character": "Audra Phillips-Denbrough",
+   "pregnant_end": "no",
+   "kids_together": "no",
+   "kids_status": "no",
+   "kids_note": "no",
+   "already_married": "yes",
+   "already_married_note": "Yes — husband: Bill Denbrough",
+   "fit_note": "Loose fit: supernatural Deadlights trance, not hypnosis",
+   "evidence": "Wikipedia; Mental Block"
+  }
+ ],
+ "dropped": [
+  "Possession/ghost cards (not hypnosis)",
+  "Stepford robot replacements",
+  "Gaslighting without hypnosis",
+  "Widows/fiancées at time of hypnosis",
+  "Ultrasound (2021): hypnosis began when Cyndi was 17 — minor, excluded",
+  "Passione (husband hypnotized)",
+  "Abracadabra (husband hypnotized)",
+  "El maleficio #62 (already_married=no)",
+  "Flintstones 'The Hypnotist' (Barney hypnotized)",
+  "El Señor de la Querencia 2024 (Lucrecia's marital status at hypnosis unverified)"
+ ]
+}

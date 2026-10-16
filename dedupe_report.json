@@ -507,6 +507,13 @@
      "subtitle": "",
      "year": "2004",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:1",
+     "title": "The Hypnotized / Faceless Beauty",
+     "subtitle": "",
+     "year": "2004",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -737,6 +744,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:2",
+     "title": "Amore e ipnotismo",
+     "subtitle": "",
+     "year": "1912",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -898,6 +912,13 @@
     },
     {
      "rid": "rich-wife-hypnosis:1",
+     "title": "Sleep, My Love",
+     "subtitle": "",
+     "year": "1948",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:3",
      "title": "Sleep, My Love",
      "subtitle": "",
      "year": "1948",
@@ -1160,6 +1181,13 @@
      "subtitle": "",
      "year": "1980",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:4",
+     "title": "Revenge of the Stepford Wives",
+     "subtitle": "",
+     "year": "1980",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -1295,6 +1323,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "alias"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:5",
+     "title": "Days of Our Lives",
+     "subtitle": "",
+     "year": "1998–99 / 2019–20",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -1473,6 +1508,13 @@
      "subtitle": "",
      "year": "2010",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:6",
+     "title": "Tee Ratra",
+     "subtitle": "",
+     "year": "2010",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -1551,6 +1593,13 @@
     },
     {
      "rid": "kr-cn-hypnosis:7",
+     "title": "被催眠的她",
+     "subtitle": "",
+     "year": "2026",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:7",
      "title": "被催眠的她",
      "subtitle": "",
      "year": "2026",
@@ -1637,6 +1686,13 @@
      "subtitle": "",
      "year": "1946",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:8",
+     "title": "The Mask of Diijon",
+     "subtitle": "",
+     "year": "1946",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -1660,6 +1716,13 @@
     },
     {
      "rid": "rich-wife-hypnosis:12",
+     "title": "Le Système Ribadier",
+     "subtitle": "",
+     "year": "1975",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:9",
      "title": "Le Système Ribadier",
      "subtitle": "",
      "year": "1975",
@@ -1698,6 +1761,13 @@
      "subtitle": "",
      "year": "2012",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:10",
+     "title": "The Hypnotist / Hypnotisören",
+     "subtitle": "",
+     "year": "2012",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -2890,6 +2960,13 @@
      "subtitle": "",
      "year": "1914",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:99",
+     "title": "The Forces of Evil; or, The Dominant Will",
+     "subtitle": "",
+     "year": "1914",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -3859,6 +3936,13 @@
      "subtitle": "",
      "year": "1974",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:98",
+     "title": "The Stranger Within",
+     "subtitle": "",
+     "year": "1974",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -4003,6 +4087,13 @@
      "subtitle": "",
      "year": "2021",
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:11",
+     "title": "Hypnotic",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -6474,6 +6565,13 @@
      "subtitle": "",
      "year": "1922",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:101",
+     "title": "Dr. Mabuse the Gambler",
+     "subtitle": "",
+     "year": "1922",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -6573,6 +6671,13 @@
     },
     {
      "rid": "rich-wife-hypnosis:2",
+     "title": "Whirlpool",
+     "subtitle": "",
+     "year": "1949",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:12",
      "title": "Whirlpool",
      "subtitle": "",
      "year": "1949",
@@ -6772,6 +6877,13 @@
      "subtitle": "",
      "year": "1991 TV movie",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:13",
+     "title": "Dynasty: The Reunion",
+     "subtitle": "",
+     "year": "1991",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -6982,6 +7094,13 @@
      "subtitle": "",
      "year": "2015–16",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:14",
+     "title": "The Young and the Restless",
+     "subtitle": "",
+     "year": "2015–16",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -7314,6 +7433,13 @@
      "subtitle": "",
      "year": "1958",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:15",
+     "title": "Horror of Dracula",
+     "subtitle": "",
+     "year": "1958",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -7368,6 +7494,13 @@
      "subtitle": "",
      "year": "1963",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:16",
+     "title": "Kiss of the Vampire",
+     "subtitle": "",
+     "year": "1963",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -9781,6 +9914,26 @@
    ]
   },
   {
+   "kept_id": 371,
+   "kept": "Inception (2010)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:372",
+     "title": "Inception",
+     "subtitle": "",
+     "year": "2010"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:102",
+     "title": "Inception",
+     "subtitle": "",
+     "year": "2010",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 379,
    "kept": "Get Out (2017)",
    "scope": "cross-source",
@@ -10158,6 +10311,13 @@
      "subtitle": "",
      "year": "1996",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:17",
+     "title": "Fallait pas !",
+     "subtitle": "",
+     "year": "1996",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -11880,6 +12040,13 @@
      "subtitle": "",
      "year": "1957",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:18",
+     "title": "The Three Faces of Eve",
+     "subtitle": "",
+     "year": "1957",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -12318,6 +12485,13 @@
     },
     {
      "rid": "rich-wife-hypnosis:13",
+     "title": "My Husband's Deadly Past",
+     "subtitle": "",
+     "year": "2020",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:19",
      "title": "My Husband's Deadly Past",
      "subtitle": "",
      "year": "2020",
@@ -14436,6 +14610,13 @@
      "subtitle": "",
      "year": "1954",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:20",
+     "title": "The Vise",
+     "subtitle": "",
+     "year": "1954",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -14463,6 +14644,13 @@
      "subtitle": "",
      "year": "1909",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:21",
+     "title": "He Learns the Trick of Mesmerism",
+     "subtitle": "",
+     "year": "1909",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -14507,6 +14695,13 @@
     },
     {
      "rid": "hypnosis-assault:4",
+     "title": "LFO",
+     "subtitle": "",
+     "year": "2013",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:22",
      "title": "LFO",
      "subtitle": "",
      "year": "2013",
@@ -14823,6 +15018,13 @@
      "subtitle": "",
      "year": "1962",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:23",
+     "title": "Night of the Eagle",
+     "subtitle": "",
+     "year": "1962",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -14843,6 +15045,13 @@
      "subtitle": "",
      "year": "1958",
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:24",
+     "title": "Alfred Hitchcock Presents",
+     "subtitle": "",
+     "year": "1958",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -15257,6 +15466,26 @@
    ]
   },
   {
+   "kept_id": 645,
+   "kept": "Hypnose / The Guardian Angel (2018)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:650",
+     "title": "Hypnose / The Guardian Angel",
+     "subtitle": "",
+     "year": "2018"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:25",
+     "title": "Hypnose / The Guardian Angel",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 646,
    "kept": "To Seduce an Enemy (2003)",
    "scope": "cross-source",
@@ -15301,6 +15530,33 @@
      "subtitle": "Tau kwai mou jeu 2: Yau yan fan jeu",
      "year": "2003",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:26",
+     "title": "To Seduce an Enemy",
+     "subtitle": "",
+     "year": "2003",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 647,
+   "kept": "Dia Anakku (2010–11)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:652",
+     "title": "Dia Anakku",
+     "subtitle": "",
+     "year": "2010–11"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:27",
+     "title": "Dia Anakku",
+     "subtitle": "",
+     "year": "2010–11",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -15321,6 +15577,26 @@
      "subtitle": "",
      "year": "1962 Mexico",
      "matched_by": "alias"
+    }
+   ]
+  },
+  {
+   "kept_id": 649,
+   "kept": "Yo soy Franky (2015–16)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:654",
+     "title": "Yo soy Franky",
+     "subtitle": "",
+     "year": "2015–16"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:28",
+     "title": "Yo soy Franky",
+     "subtitle": "",
+     "year": "2015–16",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -15476,6 +15752,26 @@
      "title": "The Hypnosis (최면)",
      "subtitle": "",
      "year": "2021",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 656,
+   "kept": "Le Septième Ciel / The Seventh Heaven (1997)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:661",
+     "title": "Le Septième Ciel / The Seventh Heaven",
+     "subtitle": "",
+     "year": "1997"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:29",
+     "title": "Le Septième Ciel / The Seventh Heaven",
+     "subtitle": "",
+     "year": "1997",
      "matched_by": "match_title"
     }
    ]
@@ -15835,6 +16131,26 @@
      "subtitle": "S02E02 · “Teresa and the Moths”",
      "year": "2015–17",
      "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 679,
+   "kept": "Akasya Durağı, ep 121 (2011)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:684",
+     "title": "Akasya Durağı, ep 121",
+     "subtitle": "",
+     "year": "2011"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:104",
+     "title": "Akasya Durağı, ep 121",
+     "subtitle": "",
+     "year": "2011",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -16238,6 +16554,13 @@
      "subtitle": "",
      "year": "1976",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:31",
+     "title": "Smooth Velvet, Raw Silk / Velluto nero / Black Emmanuelle, White Emmanuelle",
+     "subtitle": "",
+     "year": "1976",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -16320,6 +16643,13 @@
      "subtitle": "",
      "year": "1936",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:32",
+     "title": "The Hypnotist",
+     "subtitle": "",
+     "year": "1936",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -16394,6 +16724,13 @@
      "subtitle": "",
      "year": "2003",
      "matched_by": "alias"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:33",
+     "title": "Neighbours",
+     "subtitle": "",
+     "year": "2003",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -16455,6 +16792,13 @@
      "subtitle": "勾魂降頭 · Revenge of the Zombies",
      "year": "1976",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:34",
+     "title": "Black Magic Part 2",
+     "subtitle": "",
+     "year": "1976",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -16514,6 +16858,26 @@
      "title": "Spell / Nam Man Prai (น้ำมันพราย)",
      "subtitle": "",
      "year": "2014",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 742,
+   "kept": "Didi der Untermieter (c. 1986–91)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:748",
+     "title": "Didi der Untermieter",
+     "subtitle": "Episode 17 · “Hypnotisiert”",
+     "year": "c. 1986–91"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:35",
+     "title": "Didi der Untermieter",
+     "subtitle": "",
+     "year": "c. 1986–91",
      "matched_by": "match_title"
     }
    ]
@@ -16662,6 +17026,13 @@
      "subtitle": "",
      "year": "1962",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:36",
+     "title": "El barón del terror",
+     "subtitle": "",
+     "year": "1962",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -18467,6 +18838,86 @@
    ]
   },
   {
+   "kept_id": 818,
+   "kept": "A hipnotizált feleség / The Hypnotized Wife (1932)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:827",
+     "title": "A hipnotizált feleség / The Hypnotized Wife",
+     "subtitle": "",
+     "year": "1932"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:37",
+     "title": "A hipnotizált feleség / The Hypnotized Wife",
+     "subtitle": "",
+     "year": "1932",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 819,
+   "kept": "Paris 1900: Feydeau (1964)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:828",
+     "title": "Paris 1900: Feydeau",
+     "subtitle": "“The Ribadier System” · S1E1",
+     "year": "1964"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:38",
+     "title": "Paris 1900: Feydeau",
+     "subtitle": "",
+     "year": "1964",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 820,
+   "kept": "Tales of Wells Fargo (1962)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:829",
+     "title": "Tales of Wells Fargo",
+     "subtitle": "“The Gold Witch” · S6E31",
+     "year": "1962"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:39",
+     "title": "Tales of Wells Fargo",
+     "subtitle": "",
+     "year": "1962",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 821,
+   "kept": "Days of Our Lives (2005–06)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:830",
+     "title": "Days of Our Lives",
+     "subtitle": "Alex North / Marlena Evans arc",
+     "year": "2005–06"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:40",
+     "title": "Days of Our Lives",
+     "subtitle": "",
+     "year": "2005–06",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 822,
    "kept": "While You Were Sleeping (2008)",
    "scope": "cross-source",
@@ -18503,6 +18954,53 @@
      "title": "While You Were Sleeping",
      "subtitle": "",
      "year": "2008",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:41",
+     "title": "While You Were Sleeping",
+     "subtitle": "",
+     "year": "2008",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 823,
+   "kept": "The Honeymooners — “Sleepy Time Gal” (1968)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:832",
+     "title": "The Honeymooners — “Sleepy Time Gal”",
+     "subtitle": "",
+     "year": "1968"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:42",
+     "title": "The Honeymooners — “Sleepy Time Gal”",
+     "subtitle": "",
+     "year": "1968",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 824,
+   "kept": "Sri Krishna 2006 (2006)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:833",
+     "title": "Sri Krishna 2006",
+     "subtitle": "",
+     "year": "2006"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:43",
+     "title": "Sri Krishna 2006",
+     "subtitle": "",
+     "year": "2006",
      "matched_by": "match_title"
     }
    ]
@@ -18974,6 +19472,26 @@
      "subtitle": "",
      "year": "",
      "matched_by": "alias"
+    }
+   ]
+  },
+  {
+   "kept_id": 847,
+   "kept": "Kyonyuu Hitozuma Onna Kyoushi Saimin (2016)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:856",
+     "title": "Kyonyuu Hitozuma Onna Kyoushi Saimin",
+     "subtitle": "巨乳人妻女教師催眠",
+     "year": "2016"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:44",
+     "title": "Kyonyuu Hitozuma Onna Kyoushi Saimin",
+     "subtitle": "",
+     "year": "2016",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -21540,6 +22058,13 @@
      "subtitle": "",
      "year": "2000",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:45",
+     "title": "Big Kids",
+     "subtitle": "",
+     "year": "2000",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -23553,6 +24078,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:46",
+     "title": "Courage the Cowardly Dog",
+     "subtitle": "",
+     "year": "",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -24435,6 +24967,13 @@
      "subtitle": "",
      "year": "2002",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:47",
+     "title": "De Mesmer con amor",
+     "subtitle": "",
+     "year": "2002",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -24482,6 +25021,13 @@
      "title": "Dead Man's Gun",
      "subtitle": "S1E15 “The Mesmerizer” — extra sources and cast",
      "year": "1998",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:48",
+     "title": "Dead Man's Gun",
+     "subtitle": "",
+     "year": "1997–1999",
      "matched_by": "match_title"
     }
    ]
@@ -26230,6 +26776,13 @@
     },
     {
      "rid": "hypnosis-assault:21",
+     "title": "El Gato con Gatas",
+     "subtitle": "",
+     "year": "1992",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:49",
      "title": "El Gato con Gatas",
      "subtitle": "",
      "year": "1992",
@@ -28677,6 +29230,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:50",
+     "title": "Gutur Gu",
+     "subtitle": "",
+     "year": "2010–14",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -29768,6 +30328,13 @@
      "subtitle": "",
      "year": "2016–17",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:51",
+     "title": "Ichhapyaari Naagin",
+     "subtitle": "",
+     "year": "2016–17",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -31060,6 +31627,13 @@
      "subtitle": "",
      "year": "2018–19",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:53",
+     "title": "Karn Sangini",
+     "subtitle": "",
+     "year": "2018–19",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -32044,6 +32618,13 @@
      "subtitle": "",
      "year": "1965",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:54",
+     "title": "Lady Morgan's Vengeance",
+     "subtitle": "",
+     "year": "1965",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -32440,6 +33021,13 @@
      "subtitle": "",
      "year": "2025",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:55",
+     "title": "Listen To Your Husband",
+     "subtitle": "",
+     "year": "2025",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -32600,6 +33188,13 @@
      "subtitle": "",
      "year": "1993",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:56",
+     "title": "Los Ladrones van a la Oficina",
+     "subtitle": "",
+     "year": "1993",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -33095,6 +33690,13 @@
      "subtitle": "“Magkapatid, Biktima ng Kulto” (Sisters, Victims of a Cult) · 28 Sep 2019",
      "year": "2019",
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:57",
+     "title": "Magpakailanman",
+     "subtitle": "",
+     "year": "2019",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -33303,6 +33905,13 @@
      "subtitle": "",
      "year": "2026",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:58",
+     "title": "Mann Sundar",
+     "subtitle": "",
+     "year": "2026",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -35235,6 +35844,13 @@
      "subtitle": "",
      "year": "2016–2017",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:59",
+     "title": "No: 309",
+     "subtitle": "",
+     "year": "2016–2017",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -35916,6 +36532,13 @@
      "subtitle": "",
      "year": "2008",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:103",
+     "title": "Parasomnia",
+     "subtitle": "",
+     "year": "2008",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -38300,6 +38923,13 @@
      "subtitle": "",
      "year": "1997",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:30",
+     "title": "Seventh Heaven",
+     "subtitle": "",
+     "year": "1997",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -38728,6 +39358,13 @@
      "subtitle": "",
      "year": "2016",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:60",
+     "title": "Shut Eye",
+     "subtitle": "",
+     "year": "2016",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -38969,6 +39606,13 @@
      "subtitle": "",
      "year": "2023",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:61",
+     "title": "Sindoor Ki Keemat",
+     "subtitle": "",
+     "year": "2023",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -39169,6 +39813,13 @@
      "subtitle": "",
      "year": "2022",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:62",
+     "title": "Sleepwalker",
+     "subtitle": "",
+     "year": "2022",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -39922,6 +40573,13 @@
     },
     {
      "rid": "rich-wife-hypnosis:32",
+     "title": "Streets of Broken Lights",
+     "subtitle": "",
+     "year": "1995–2019",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:63",
      "title": "Streets of Broken Lights",
      "subtitle": "",
      "year": "1995–2019",
@@ -42791,6 +43449,13 @@
      "subtitle": "",
      "year": "2019–2024",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:64",
+     "title": "Yeh Hai Chahatein",
+     "subtitle": "",
+     "year": "2019–2024",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -42992,6 +43657,13 @@
      "subtitle": "",
      "year": "2019",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:65",
+     "title": "魔睡 / Masui",
+     "subtitle": "",
+     "year": "2019",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -43139,6 +43811,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:66",
+     "title": "Sweet Strategy: Mr. Vance's Ex Is Too Proud",
+     "subtitle": "",
+     "year": "Unconfirmed",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -43175,6 +43854,13 @@
     },
     {
      "rid": "kr-cn-hypnosis:55",
+     "title": "I Accidentally Had the Billionaire's Twins. 6 Years Later, They Saved His Empire!",
+     "subtitle": "",
+     "year": "Unconfirmed",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:67",
      "title": "I Accidentally Had the Billionaire's Twins. 6 Years Later, They Saved His Empire!",
      "subtitle": "",
      "year": "Unconfirmed",
@@ -43323,6 +44009,46 @@
    ]
   },
   {
+   "kept_id": 2138,
+   "kept": "PPPD-305 (2014)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:2155",
+     "title": "PPPD-305",
+     "subtitle": "",
+     "year": "2014"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:68",
+     "title": "PPPD-305",
+     "subtitle": "",
+     "year": "2014",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2142,
+   "kept": "General Hospital (1985–86)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:2159",
+     "title": "General Hospital",
+     "subtitle": "1985–86 · Kevin O’Connor / Laurelton storyline",
+     "year": "1985–86"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:69",
+     "title": "General Hospital",
+     "subtitle": "",
+     "year": "1985–86",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2144,
    "kept": "Hannibal (2014)",
    "scope": "within-source",
@@ -43342,6 +44068,26 @@
    ]
   },
   {
+   "kept_id": 2145,
+   "kept": "The Scarapist (2015)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:2162",
+     "title": "The Scarapist",
+     "subtitle": "",
+     "year": "2015"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:70",
+     "title": "The Scarapist",
+     "subtitle": "",
+     "year": "2015",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2175,
    "kept": "Hypnotized Bride (2026)",
    "scope": "cross-source",
@@ -43357,6 +44103,46 @@
      "title": "Hypnotized Bride",
      "subtitle": "",
      "year": "2026",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2183,
+   "kept": "Bonyo Premer Golpo S2 (2020)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "ig6qlxqxoxvcxla:176",
+     "title": "Bonyo Premer Golpo S2",
+     "subtitle": "S2E8 The Unsatisfied Wife; S2E10",
+     "year": "2020"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:71",
+     "title": "Bonyo Premer Golpo S2",
+     "subtitle": "",
+     "year": "2020",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2186,
+   "kept": "Shaitani Ilaaka (1990)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "ig6qlxqxoxvcxla:183",
+     "title": "Shaitani Ilaaka",
+     "subtitle": "",
+     "year": "1990"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:72",
+     "title": "Shaitani Ilaaka",
+     "subtitle": "",
+     "year": "1990",
      "matched_by": "match_title"
     }
    ]
@@ -43720,6 +44506,46 @@
    ]
   },
   {
+   "kept_id": 2399,
+   "kept": "Le Déclic / The Click (1985)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-assault-loose:11",
+     "title": "Le Déclic / The Click",
+     "subtitle": "",
+     "year": "1985"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:73",
+     "title": "Le Déclic / The Click",
+     "subtitle": "",
+     "year": "1985",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2401,
+   "kept": "Twisted Fiction (2023)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-assault-loose:15",
+     "title": "Twisted Fiction",
+     "subtitle": "Segment 1 (“Mind F**k”)",
+     "year": "2023"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:74",
+     "title": "Twisted Fiction",
+     "subtitle": "",
+     "year": "2023",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2589,
    "kept": "Evil Lurks (2023)",
    "scope": "cross-source",
@@ -43779,6 +44605,26 @@
    ]
   },
   {
+   "kept_id": 2622,
+   "kept": "Fascinación (1949)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "no-link-additions:33",
+     "title": "Fascinación",
+     "subtitle": "",
+     "year": "1949"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:75",
+     "title": "Fascinación",
+     "subtitle": "",
+     "year": "1949",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2625,
    "kept": "The Search for Bridey Murphy (1956)",
    "scope": "cross-source",
@@ -43794,6 +44640,13 @@
      "title": "The Search for Bridey Murphy",
      "subtitle": "",
      "year": "1956"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:76",
+     "title": "The Search for Bridey Murphy",
+     "subtitle": "",
+     "year": "1956",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -43836,6 +44689,146 @@
    ]
   },
   {
+   "kept_id": 2632,
+   "kept": "As the World Turns (2009–10)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypno-sweep-oct9:3",
+     "title": "As the World Turns",
+     "subtitle": "",
+     "year": "2009–10"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:77",
+     "title": "As the World Turns",
+     "subtitle": "",
+     "year": "2009–10",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2642,
+   "kept": "Love in Oblivion (2026)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "round2:4",
+     "title": "Love in Oblivion",
+     "subtitle": "",
+     "year": "2026"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:78",
+     "title": "Love in Oblivion",
+     "subtitle": "",
+     "year": "2026",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2649,
+   "kept": "醒来时，我眼里不是他 (2026)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "round3:1",
+     "title": "醒来时，我眼里不是他",
+     "subtitle": "When I Woke, He Wasn't in My Eyes",
+     "year": "2026"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:79",
+     "title": "醒来时，我眼里不是他",
+     "subtitle": "",
+     "year": "2026",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2650,
+   "kept": "神秘的她 (2025)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "round3:4",
+     "title": "神秘的她",
+     "subtitle": "The Mysterious Her / 诱她入梦 / 她是谁短剧版 (alias titles on aggregators)",
+     "year": "2025"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:80",
+     "title": "神秘的她",
+     "subtitle": "",
+     "year": "2025",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2651,
+   "kept": "第一百零一次睁眼 (2025)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "round3:5",
+     "title": "第一百零一次睁眼",
+     "subtitle": "The 101st Time I Opened My Eyes",
+     "year": "2025"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:81",
+     "title": "第一百零一次睁眼",
+     "subtitle": "",
+     "year": "2025",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2654,
+   "kept": "Beneath the Hypnosis (Date unverified)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "round3:8",
+     "title": "Beneath the Hypnosis",
+     "subtitle": "Rainy Night Scheme / 'Bajo la Hipnosis' / 'La Trampa del Deseo: Secretos bajo la Lluvia' (ShortMax)",
+     "year": "Date unverified"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:82",
+     "title": "Beneath the Hypnosis",
+     "subtitle": "",
+     "year": "Date unverified",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2660,
+   "kept": "Don't Monkey with the Buzz Saw (1914)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "round3:14",
+     "title": "Don't Monkey with the Buzz Saw",
+     "subtitle": "",
+     "year": "1914"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:83",
+     "title": "Don't Monkey with the Buzz Saw",
+     "subtitle": "",
+     "year": "1914",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2672,
    "kept": "Lost Control for Him (2025)",
    "scope": "cross-source",
@@ -43851,6 +44844,46 @@
      "title": "Lost Control for Him",
      "subtitle": "",
      "year": "2025",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2673,
+   "kept": "Ti Ratr (2011)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "indian-langs-oct14:1",
+     "title": "Ti Ratr",
+     "subtitle": "",
+     "year": "2011"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:84",
+     "title": "Ti Ratr",
+     "subtitle": "",
+     "year": "2011",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2676,
+   "kept": "May I Come In Madam? (2016)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "indian-langs-oct14:4",
+     "title": "May I Come In Madam?",
+     "subtitle": "S1E70 \"Sajan Hypnotises Kashmira\"",
+     "year": "2016"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:85",
+     "title": "May I Come In Madam?",
+     "subtitle": "",
+     "year": "2016",
      "matched_by": "match_title"
     }
    ]
@@ -43911,6 +44944,46 @@
      "title": "Black Magic 2 (1976 Hong Kong film)",
      "subtitle": "",
      "year": "1976",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2762,
+   "kept": "I Walked with a Zombie (1943)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "fanwiki-screen-oct14:86",
+     "title": "I Walked with a Zombie",
+     "subtitle": "",
+     "year": "1943"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:100",
+     "title": "I Walked with a Zombie",
+     "subtitle": "",
+     "year": "1943",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2763,
+   "kept": "Ichhapyari naagin (2016)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "fanwiki-screen-oct14:87",
+     "title": "Ichhapyari naagin",
+     "subtitle": "Episode 173",
+     "year": "2016"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:52",
+     "title": "Ichhapyari naagin",
+     "subtitle": "",
+     "year": "2016",
      "matched_by": "match_title"
     }
    ]
@@ -44009,6 +45082,246 @@
      "title": "Signal",
      "subtitle": "",
      "year": "2016",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2897,
+   "kept": "Rangeen Kahaniyan (2024)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "official-yt-oct15:13",
+     "title": "Rangeen Kahaniyan",
+     "subtitle": "S10 · Vashikaran E01 - Bhola Khilona",
+     "year": "2024"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:86",
+     "title": "Rangeen Kahaniyan",
+     "subtitle": "",
+     "year": "2024",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2900,
+   "kept": "Saath Nibhaana Saathiya (2026 (YouTube upload; series 2010–2017))",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "official-yt-oct15:16",
+     "title": "Saath Nibhaana Saathiya",
+     "subtitle": "Full Ep. 783",
+     "year": "2026 (YouTube upload; series 2010–2017)"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:87",
+     "title": "Saath Nibhaana Saathiya",
+     "subtitle": "",
+     "year": "2026 (YouTube upload; series 2010–2017)",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2902,
+   "kept": "Ishq Ki Dastaan – Naagmani (2022–2023)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "official-yt-oct15:18",
+     "title": "Ishq Ki Dastaan – Naagmani",
+     "subtitle": "Episodic glimpse (Aug 2022)",
+     "year": "2022–2023"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:88",
+     "title": "Ishq Ki Dastaan – Naagmani",
+     "subtitle": "",
+     "year": "2022–2023",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2903,
+   "kept": "Saatvya Mulichi Saatvi Mulgi (2024)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "official-yt-oct15:19",
+     "title": "Saatvya Mulichi Saatvi Mulgi",
+     "subtitle": "Episode 633 (11 Aug 2024)",
+     "year": "2024"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:89",
+     "title": "Saatvya Mulichi Saatvi Mulgi",
+     "subtitle": "",
+     "year": "2024",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2908,
+   "kept": "CID (2025)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "official-yt-oct15:24",
+     "title": "CID",
+     "subtitle": "11 Apr 2025 – 'Undercover hue Purvi aur Pankaj ko kisne kiya Hypnotize?'",
+     "year": "2025"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:90",
+     "title": "CID",
+     "subtitle": "",
+     "year": "2025",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2921,
+   "kept": "Sasural Simar Ka (2026 (YouTube upload; series 2011–18))",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "official-yt-oct15:37",
+     "title": "Sasural Simar Ka",
+     "subtitle": "Full Ep. 757 & 760",
+     "year": "2026 (YouTube upload; series 2011–18)"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:91",
+     "title": "Sasural Simar Ka",
+     "subtitle": "",
+     "year": "2026 (YouTube upload; series 2011–18)",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2935,
+   "kept": "Love in The Cards (2012)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "streaming-oct15:8",
+     "title": "Love in The Cards",
+     "subtitle": "",
+     "year": "2012"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:92",
+     "title": "Love in The Cards",
+     "subtitle": "",
+     "year": "2012",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2962,
+   "kept": "The George Burns and Gracie Allen Show — \"Hypnotizing Gracie\" (1958)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "streaming-oct15:43",
+     "title": "The George Burns and Gracie Allen Show — \"Hypnotizing Gracie\"",
+     "subtitle": "S08E21",
+     "year": "1958"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:93",
+     "title": "The George Burns and Gracie Allen Show — \"Hypnotizing Gracie\"",
+     "subtitle": "",
+     "year": "1958",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2987,
+   "kept": "Tarkan: Altın Madalyon (1972)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnotized-female-oct15:4",
+     "title": "Tarkan: Altın Madalyon",
+     "subtitle": "",
+     "year": "1972"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:94",
+     "title": "Tarkan: Altın Madalyon",
+     "subtitle": "",
+     "year": "1972",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2991,
+   "kept": "Sodrun Merayu Tuhan (2018)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "indonesia-sinetron-oct15:1",
+     "title": "Sodrun Merayu Tuhan",
+     "subtitle": "",
+     "year": "2018"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:95",
+     "title": "Sodrun Merayu Tuhan",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2992,
+   "kept": "Inayah (2009)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "indonesia-sinetron-oct15:2",
+     "title": "Inayah",
+     "subtitle": "",
+     "year": "2009"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:96",
+     "title": "Inayah",
+     "subtitle": "",
+     "year": "2009",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2993,
+   "kept": "Pelet (1987)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "indonesia-sinetron-oct15:3",
+     "title": "Pelet",
+     "subtitle": "",
+     "year": "1987"
+    },
+    {
+     "rid": "wife-hypnosis-oct15:97",
+     "title": "Pelet",
+     "subtitle": "",
+     "year": "1987",
      "matched_by": "match_title"
     }
    ]
@@ -44916,11 +46229,12 @@
   "hypnotized-female-oct15": 7,
   "indonesia-sinetron-oct15": 4,
   "hypno-turkey-oct15": 5,
-  "kr-cn-hypnosis": 79
+  "kr-cn-hypnosis": 79,
+  "wife-hypnosis-oct15": 109
  },
- "entry_count_after_dedupe": 2870,
+ "entry_count_after_dedupe": 2875,
  "within_source_groups": 3,
- "cross_source_groups": 1848,
- "index_only_records": 63,
- "local_only_records": 649
+ "cross_source_groups": 1893,
+ "index_only_records": 61,
+ "local_only_records": 654
 }
