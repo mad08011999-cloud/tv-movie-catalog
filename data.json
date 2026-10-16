@@ -4502,6 +4502,64 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "youtube-deep-oct15",
+   "label": "YouTube deep sweep (15 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/youtube-deep-oct15.json",
+   "description": "Exhaustive YouTube sweep: 133 search queries in 23 languages (ytsearch50) plus 104 searches inside 40 official broadcaster channels; metadata, chapters, tags, auto-captions and top 100 comments mined with yt-dlp; no video downloaded.",
+   "dropped": [
+    {
+     "title": "Cewek Cewek Badung — Galuh kidnapped and hypnotized (GTV)",
+     "reason": "teen school drama; adults-only rule"
+    },
+    {
+     "title": "Kembalinya Raden Kian Santang — Rara Santang hypnotized by her mother",
+     "reason": "character age unverifiable"
+    },
+    {
+     "title": "Magic 5, Aladdin (MNCTV), Fatih di Kampung Jawara child/teen characters",
+     "reason": "minors or unverifiable age"
+    },
+    {
+     "title": "Uya Kuya / Rumah Uya / Romy Rafael / Denny Darko segments; Pesbukers, OVJ, Brownis hypnosis bits",
+     "reason": "real-people stage/reality hypnosis"
+    },
+    {
+     "title": "Phantasm Phoebe, AI Hypno-Generation, KK爱看 AI漫剧, Afghan Story AI, Naz Vision AI drama",
+     "reason": "AI-generated"
+    },
+    {
+     "title": "Rikka/Blissful/Hypno Man/Dtwdom/Trance and Freeze/Radlen Wotan/sisonpyh compilations",
+     "reason": "compilations of clips; every identifiable title already in the catalog or unverifiable"
+    },
+    {
+     "title": "Nollywood 'Sinful Sin — teenage girl hypnotized'",
+     "reason": "minor"
+    },
+    {
+     "title": "Regal Studio Presents: Secret Gayuma Recipe; Noyontara; Suhaagan Chudail; Manmohini; Jodha Akbar ep 507",
+     "reason": "the person spelled/hypnotized is male"
+    },
+    {
+     "title": "Rainbow / news 'thôi miên' robbery reports (VTC14, SaigonTV, Astro Awani)",
+     "reason": "real news, not fiction"
+    },
+    {
+     "title": "Chinese/Vietnamese recap and short-drama re-uploads (e.g. 被催眠的她, 'He hypnotized me…' story channels)",
+     "reason": "unofficial re-uploads/narrated stories; title and cast not verifiable from the upload"
+    },
+    {
+     "title": "Legacy (Emanet) 'Seher hipnotizada por la voz', Fruto Prohibido 'hipnotizada por la ropa', Becoming a Lady 'under the spell of the night'",
+     "reason": "figurative use of 'hypnotized/spell', no hypnosis"
+    }
+   ],
+   "check": {
+    "raw_count": 43,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -4558,10 +4616,11 @@
   "youtube-sweep-oct15": 5,
   "gap-check-vertical-oct15": 5,
   "adult-fanmade-oct15": 3,
-  "deep-gap-oct15": 17
+  "deep-gap-oct15": 17,
+  "youtube-deep-oct15": 43
  },
- "raw_total": 5874,
- "entry_count": 2912,
+ "raw_total": 5917,
+ "entry_count": 2946,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4609,7 +4668,7 @@
    "key": "occult",
    "label": "Demonic / occult control",
    "legend_label": "Demonic / occult control",
-   "entry_count": 58
+   "entry_count": 60
   },
   {
    "key": "devil-deal-pregnancy-hypnosis",
@@ -4621,7 +4680,7 @@
    "key": "doctor-gain",
    "label": "Doctor hypnotizes female characters for personal gain",
    "legend_label": "Doctor controls female character for personal gain",
-   "entry_count": 31
+   "entry_count": 32
   },
   {
    "key": "tech",
@@ -4633,7 +4692,7 @@
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 263
+   "entry_count": 265
   },
   {
    "key": "child-controller",
@@ -4651,7 +4710,7 @@
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 197
+   "entry_count": 200
   },
   {
    "key": "hypnotized-to-marry",
@@ -4687,13 +4746,13 @@
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 626
+   "entry_count": 639
   },
   {
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 53
+   "entry_count": 54
   },
   {
    "key": "index-54",
@@ -4723,19 +4782,19 @@
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 109
+   "entry_count": 119
   },
   {
    "key": "royal-hypnosis",
    "label": "Hypnotized queen/princess for marriage or the throne",
    "legend_label": "Hypnotized queen / princess",
-   "entry_count": 48
+   "entry_count": 49
   },
   {
    "key": "love",
    "label": "Hypnotized to love",
    "legend_label": "Hypnotized to love",
-   "entry_count": 210
+   "entry_count": 213
   },
   {
    "key": "hypno-intimacy",
@@ -4765,7 +4824,7 @@
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 155
+   "entry_count": 163
   },
   {
    "key": "mom-partner-control",
@@ -4795,7 +4854,7 @@
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
    "legend_label": "Other female hypnosis / mind control",
-   "entry_count": 263
+   "entry_count": 273
   },
   {
    "key": "parents-sleeping",
@@ -4843,7 +4902,7 @@
    "key": "pregnant-variants",
    "label": "Pregnancy + mind control — variants and leads",
    "legend_label": "Pregnancy + mind control — variants and leads",
-   "entry_count": 32
+   "entry_count": 34
   },
   {
    "key": "pregnancy-adjacent",
@@ -4999,7 +5058,7 @@
    "key": "scifi",
    "label": "Sci-fi / alien / technological control",
    "legend_label": "Sci-fi / alien / technological control",
-   "entry_count": 379
+   "entry_count": 380
   },
   {
    "key": "family",
@@ -5011,7 +5070,7 @@
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 148
+   "entry_count": 151
   },
   {
    "key": "stepmom-control",
@@ -5029,7 +5088,7 @@
    "key": "evil-female",
    "label": "Supernatural female control — India & Indonesia",
    "legend_label": "Supernatural female control — India & Indonesia",
-   "entry_count": 54
+   "entry_count": 55
   },
   {
    "key": "index-59",
@@ -5083,13 +5142,13 @@
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 112
+   "entry_count": 117
   },
   {
    "key": "therapist-wife",
    "label": "Wife hypnotized / controlled by a therapist",
    "legend_label": "Wife hypnotized / controlled by a therapist",
-   "entry_count": 18
+   "entry_count": 20
   },
   {
    "key": "another-man",
@@ -11159,9 +11218,20 @@
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "A Scandalous Crime (21 Mar 2020)",
+     "title": "#MPK: Babaeng naging sunud-sunuran nang dahil sa hipnotismo",
+     "gist": "Rina cannot escape the man who abducted her because he controls her through hypnotism (Vaness del Moral, Ash Ortega). Wife: no."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
    "format": "tv",
    "categories": [
-    "love"
+    "love",
+    "crime"
    ],
    "sources": [
     {
@@ -11175,18 +11245,25 @@
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/Magpakailanman"
+    },
+    {
+     "label": "YouTube (official channel): #MPK: Babaeng naging sunud-sunuran nang dahil sa hipnotismo",
+     "url": "https://www.youtube.com/watch?v=bAUWprbEKs8"
     }
    ],
    "youtube_ids": [
-    "65HyWs4RnCE"
+    "65HyWs4RnCE",
+    "bAUWprbEKs8"
    ],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "youtube-deep-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:23",
-    "worldwide-hypnosis:574"
+    "worldwide-hypnosis:574",
+    "youtube-deep-oct15:41"
    ],
    "index_only": false,
    "local_only": false,
@@ -11255,6 +11332,44 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "youtube-deep-oct15:41",
+     "source": "youtube-deep-oct15",
+     "label": "Magpakailanman (2020)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Magpakailanman",
+     "subtitle": "",
+     "year": "2020",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "crime"
+     ],
+     "sources": [
+      {
+       "label": "YouTube (official channel): #MPK: Babaeng naging sunud-sunuran nang dahil sa hipnotismo",
+       "url": "https://www.youtube.com/watch?v=bAUWprbEKs8"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "A Scandalous Crime (21 Mar 2020)",
+       "title": "#MPK: Babaeng naging sunud-sunuran nang dahil sa hipnotismo",
+       "gist": "Rina cannot escape the man who abducted her because he controls her through hypnotism (Vaness del Moral, Ash Ortega). Wife: no."
+      }
+     ],
+     "tags": [
+      "youtube-deep-oct15"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -11306,6 +11421,32 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "youtube-deep-oct15:41": {
+     "title": "Magpakailanman",
+     "match_title": "Magpakailanman",
+     "match_year": "2020",
+     "year": "2020",
+     "categories": [
+      "crime"
+     ],
+     "episodes": [
+      {
+       "episode": "A Scandalous Crime (21 Mar 2020)",
+       "title": "#MPK: Babaeng naging sunud-sunuran nang dahil sa hipnotismo",
+       "gist": "Rina cannot escape the man who abducted her because he controls her through hypnotism (Vaness del Moral, Ash Ortega). Wife: no."
+      }
+     ],
+     "sources": [
+      {
+       "label": "YouTube (official channel): #MPK: Babaeng naging sunud-sunuran nang dahil sa hipnotismo",
+       "url": "https://www.youtube.com/watch?v=bAUWprbEKs8"
+      }
+     ],
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
     }
    },
    "watch_links": [
@@ -43174,10 +43315,16 @@
      "air_date": "31 Mar 2019",
      "gist": "Vishakha gives birth to Andhka; Hukum vows to finish off Bela",
      "number_verified": false
+    },
+    {
+     "episode": "Ep 30",
+     "title": "Naagin S3 | Full Episode Ep. 30 | Bela under Shahnawaaz's spell",
+     "gist": "Shahnawaz/Shaan hypnotizes Bela (and in Ep 28–29 Vishakha and Sumitra) to force Bela into a nikah. Wife: Bela is Mahir's wife."
     }
    ],
    "tags": [
-    "loose fit"
+    "loose fit",
+    "youtube-deep-oct15"
    ],
    "kids_status": "unknown",
    "kids_together": "yes",
@@ -43224,14 +43371,21 @@
     {
      "label": "SerialGossip",
      "url": "https://www.serialgossip.com/gossip-37553-a"
+    },
+    {
+     "label": "YouTube (official channel): Naagin S3 | Full Episode Ep. 30 | Bela under Shahnawaaz's spell",
+     "url": "https://www.youtube.com/watch?v=cn-IGbdnbuk"
     }
    ],
-   "youtube_ids": [],
+   "youtube_ids": [
+    "cn-IGbdnbuk"
+   ],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "india-catalog",
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "youtube-deep-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:159",
@@ -43239,11 +43393,12 @@
     "ig6qlxqxoxvcxla:935",
     "ig6qlxqxoxvcxla:945",
     "india-catalog:149",
-    "hypnosis-assault-loose:18"
+    "hypnosis-assault-loose:18",
+    "youtube-deep-oct15:38"
    ],
    "index_only": false,
    "local_only": false,
-   "thumbnail": null,
+   "thumbnail": "thumbs/cn-IGbdnbuk.jpg",
    "primary_copy": {
     "rid": "xla62ucxbx02u5:159",
     "source": "xla62ucxbx02u5",
@@ -43446,6 +43601,44 @@
      "fit_note": "Loose fit: the pregnancy is presented as magical; no source describes a sexual act under the hypnosis.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "youtube-deep-oct15:38",
+     "source": "youtube-deep-oct15",
+     "label": "Naagin 3 (2018–19)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Naagin 3",
+     "subtitle": "",
+     "year": "2018–19",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "YouTube (official channel): Naagin S3 | Full Episode Ep. 30 | Bela under Shahnawaaz's spell",
+       "url": "https://www.youtube.com/watch?v=cn-IGbdnbuk"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 30",
+       "title": "Naagin S3 | Full Episode Ep. 30 | Bela under Shahnawaaz's spell",
+       "gist": "Shahnawaz/Shaan hypnotizes Bela (and in Ep 28–29 Vishakha and Sumitra) to force Bela into a nikah. Wife: Bela is Mahir's wife."
+      }
+     ],
+     "tags": [
+      "youtube-deep-oct15"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -43596,6 +43789,32 @@
      ],
      "catalog_ids": [
       165
+     ]
+    },
+    "youtube-deep-oct15:38": {
+     "title": "Naagin 3",
+     "match_title": "Naagin 3",
+     "match_year": "2018–19",
+     "year": "2018–19",
+     "categories": [
+      "india-control"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 30",
+       "title": "Naagin S3 | Full Episode Ep. 30 | Bela under Shahnawaaz's spell",
+       "gist": "Shahnawaz/Shaan hypnotizes Bela (and in Ep 28–29 Vishakha and Sumitra) to force Bela into a nikah. Wife: Bela is Mahir's wife."
+      }
+     ],
+     "sources": [
+      {
+       "label": "YouTube (official channel): Naagin S3 | Full Episode Ep. 30 | Bela under Shahnawaaz's spell",
+       "url": "https://www.youtube.com/watch?v=cn-IGbdnbuk"
+      }
+     ],
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "tags": [
+      "youtube-deep-oct15"
      ]
     }
    }
@@ -75313,8 +75532,16 @@
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "episodes": [
+    {
+     "episode": "Hatice's spell",
+     "title": "Hürrem Sultan Kara Büyünün Etkisinde",
+     "gist": "Hatice has a black-magic spell cast on Hürrem. Wife: yes (Süleyman's wife)."
+    }
+   ],
    "tags": [
-    "loose fit"
+    "loose fit",
+    "youtube-deep-oct15"
    ],
    "kids_status": "no",
    "kids_together": "yes",
@@ -75327,7 +75554,8 @@
     "spirit",
     "polygamy-hypnosis",
     "polygamy-pregnancy",
-    "widow-divorcee-remarry-pregnant"
+    "widow-divorcee-remarry-pregnant",
+    "occult"
    ],
    "sources": [
     {
@@ -75337,22 +75565,30 @@
     {
      "label": "IMDb",
      "url": "https://www.imdb.com/title/tt1848220/"
+    },
+    {
+     "label": "YouTube (official channel): Hürrem Sultan Kara Büyünün Etkisinde",
+     "url": "https://www.youtube.com/watch?v=NVF92F13jQE"
     }
    ],
-   "youtube_ids": [],
+   "youtube_ids": [
+    "NVF92F13jQE"
+   ],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "widow-remarry"
+    "widow-remarry",
+    "youtube-deep-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:336",
     "ig6qlxqxoxvcxla:662",
-    "widow-remarry:18"
+    "widow-remarry:18",
+    "youtube-deep-oct15:42"
    ],
    "index_only": false,
    "local_only": false,
-   "thumbnail": null,
+   "thumbnail": "thumbs/NVF92F13jQE.jpg",
    "primary_copy": {
     "rid": "xla62ucxbx02u5:336",
     "source": "xla62ucxbx02u5",
@@ -75442,6 +75678,44 @@
      "adult": "yes",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "youtube-deep-oct15:42",
+     "source": "youtube-deep-oct15",
+     "label": "Muhteşem Yüzyıl / Magnificent Century (2011–14)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Muhteşem Yüzyıl / Magnificent Century",
+     "subtitle": "",
+     "year": "2011–14",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "occult"
+     ],
+     "sources": [
+      {
+       "label": "YouTube (official channel): Hürrem Sultan Kara Büyünün Etkisinde",
+       "url": "https://www.youtube.com/watch?v=NVF92F13jQE"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "Hatice's spell",
+       "title": "Hürrem Sultan Kara Büyünün Etkisinde",
+       "gist": "Hatice has a black-magic spell cast on Hürrem. Wife: yes (Süleyman's wife)."
+      }
+     ],
+     "tags": [
+      "youtube-deep-oct15"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -75534,6 +75808,32 @@
       "loose fit"
      ],
      "milestones_note": "Pregnancy milestones (reveal / checkup / shower / birth): not found — no episode-level source for the pregnancy reveal, checkup, shower or birth"
+    },
+    "youtube-deep-oct15:42": {
+     "title": "Muhteşem Yüzyıl / Magnificent Century",
+     "match_title": "Muhteşem Yüzyıl / Magnificent Century",
+     "match_year": "2011–14",
+     "year": "2011–14",
+     "categories": [
+      "occult"
+     ],
+     "episodes": [
+      {
+       "episode": "Hatice's spell",
+       "title": "Hürrem Sultan Kara Büyünün Etkisinde",
+       "gist": "Hatice has a black-magic spell cast on Hürrem. Wife: yes (Süleyman's wife)."
+      }
+     ],
+     "sources": [
+      {
+       "label": "YouTube (official channel): Hürrem Sultan Kara Büyünün Etkisinde",
+       "url": "https://www.youtube.com/watch?v=NVF92F13jQE"
+      }
+     ],
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
     }
    }
   },
@@ -131020,32 +131320,65 @@
    "confidence_flag": "High confidence",
    "summary": "Gór uses a hypnotic gaze on adult women Irma, Cassandra and Lúcia, altering their decisions; explicitly \"hipnotiza\" in TV press.",
    "character": "",
-   "provenance": "",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
    "note": "",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "clip",
+     "title": "Caminhos do Coração | Rodrigo Hipnotiza Lúcia e Apanha de Danilo",
+     "gist": "Hypnotist: Rodrigo (mutant). Wife: unknown."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "fan clip channel; title only",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
    "format": "tv",
    "categories": [
     "adult-hypnosis",
     "partner-control",
-    "pregnant-strict"
+    "pregnant-strict",
+    "other-control",
+    "scifi"
    ],
    "sources": [
     {
      "label": "observatoriodatv.com.br",
      "url": "https://observatoriodatv.com.br/noticias/gor-hipnotiza-equipe-da-progenese-em-caminhos-do-coracao"
+    },
+    {
+     "label": "YouTube (official channel): Caminhos do Coração | Rodrigo Hipnotiza Lúcia e Apanha de Danilo",
+     "url": "https://www.youtube.com/watch?v=KQ7ZPCO-Wus"
+    },
+    {
+     "label": "YouTube: Rodrigo Hipnotiza Amália",
+     "url": "https://www.youtube.com/watch?v=a2e-2CZCwuM"
     }
    ],
-   "youtube_ids": [],
+   "youtube_ids": [
+    "KQ7ZPCO-Wus",
+    "a2e-2CZCwuM"
+   ],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "youtube-deep-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:699",
-    "ig6qlxqxoxvcxla:331"
+    "ig6qlxqxoxvcxla:331",
+    "youtube-deep-oct15:23"
    ],
    "index_only": false,
    "local_only": false,
-   "thumbnail": null,
+   "thumbnail": "thumbs/KQ7ZPCO-Wus.jpg",
    "primary_copy": {
     "rid": "xla62ucxbx02u5:699",
     "source": "xla62ucxbx02u5",
@@ -131098,6 +131431,57 @@
      "sources": [],
      "distinct_story": false,
      "index_title": "Caminhos do Coração (2007–08)",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "youtube-deep-oct15:23",
+     "source": "youtube-deep-oct15",
+     "label": "Caminhos do Coração (2007–08)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Caminhos do Coração",
+     "subtitle": "",
+     "year": "2007–08",
+     "meta": "Brazil · RecordTV telenovela",
+     "summary": "Rodrigo hypnotizes Lúcia (and is beaten by Danilo) and later hypnotizes Amália. Hypnotist: Rodrigo (mutant). Wife: unknown.",
+     "character": "Lúcia; Amália",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "mechanism": "hypnosis",
+     "confidence_flag": "loose fit",
+     "categories": [
+      "other-control",
+      "scifi"
+     ],
+     "sources": [
+      {
+       "label": "YouTube (official channel): Caminhos do Coração | Rodrigo Hipnotiza Lúcia e Apanha de Danilo",
+       "url": "https://www.youtube.com/watch?v=KQ7ZPCO-Wus"
+      },
+      {
+       "label": "YouTube: Rodrigo Hipnotiza Amália",
+       "url": "https://www.youtube.com/watch?v=a2e-2CZCwuM"
+      }
+     ],
+     "pregnancy_note": "Not stated in the official upload.",
+     "episodes": [
+      {
+       "episode": "clip",
+       "title": "Caminhos do Coração | Rodrigo Hipnotiza Lúcia e Apanha de Danilo",
+       "gist": "Hypnotist: Rodrigo (mutant). Wife: unknown."
+      }
+     ],
+     "tags": [
+      "youtube-deep-oct15"
+     ],
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "kids_together": "unknown",
+     "pregnant_end": "unknown",
+     "evidence": "fan clip channel; title only",
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "distinct_story": true,
      "matched_by": "title+year"
     }
    ],
@@ -131175,6 +131559,50 @@
      "group": "Ex-boyfriend",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "youtube-deep-oct15:23": {
+     "title": "Caminhos do Coração",
+     "year": "2007–08",
+     "format": "tv",
+     "meta": "Brazil · RecordTV telenovela",
+     "mechanism": "hypnosis",
+     "summary": "Rodrigo hypnotizes Lúcia (and is beaten by Danilo) and later hypnotizes Amália. Hypnotist: Rodrigo (mutant). Wife: unknown.",
+     "character": "Lúcia; Amália",
+     "categories": [
+      "other-control",
+      "scifi"
+     ],
+     "episodes": [
+      {
+       "episode": "clip",
+       "title": "Caminhos do Coração | Rodrigo Hipnotiza Lúcia e Apanha de Danilo",
+       "gist": "Hypnotist: Rodrigo (mutant). Wife: unknown."
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): Caminhos do Coração | Rodrigo Hipnotiza Lúcia e Apanha de Danilo",
+       "url": "https://www.youtube.com/watch?v=KQ7ZPCO-Wus"
+      },
+      {
+       "label": "YouTube: Rodrigo Hipnotiza Amália",
+       "url": "https://www.youtube.com/watch?v=a2e-2CZCwuM"
+      }
+     ],
+     "evidence": "fan clip channel; title only",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
     }
    }
   },
@@ -294628,6 +295056,16 @@
    "character": "",
    "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)",
    "note": "",
+   "episodes": [
+    {
+     "episode": "Ep 24",
+     "title": "Naagin S5 | Ep. 24 | Jai Hypnotizes Bani With A Perfume",
+     "gist": "Jay hypnotizes Bani with a perfume and orders her to kill Veer. Wife: no (Veer's love interest at this point)."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
    "format": "tv",
    "categories": [
     "fantasy",
@@ -294637,20 +295075,28 @@
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/Naagin"
+    },
+    {
+     "label": "YouTube (official channel): Naagin S5 | Ep. 24 | Jai Hypnotizes Bani With A Perfume",
+     "url": "https://www.youtube.com/watch?v=WgE-DXap8QU"
     }
    ],
-   "youtube_ids": [],
+   "youtube_ids": [
+    "WgE-DXap8QU"
+   ],
    "from_sources": [
     "xla62ucxbx02u5",
-    "india-catalog"
+    "india-catalog",
+    "youtube-deep-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1588",
-    "india-catalog:162"
+    "india-catalog:162",
+    "youtube-deep-oct15:39"
    ],
    "index_only": false,
    "local_only": false,
-   "thumbnail": null,
+   "thumbnail": "thumbs/WgE-DXap8QU.jpg",
    "primary_copy": {
     "rid": "xla62ucxbx02u5:1588",
     "source": "xla62ucxbx02u5",
@@ -294708,6 +295154,44 @@
      ],
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "youtube-deep-oct15:39",
+     "source": "youtube-deep-oct15",
+     "label": "Naagin 5 (2020–21)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Naagin 5",
+     "subtitle": "",
+     "year": "2020–21",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "YouTube (official channel): Naagin S5 | Ep. 24 | Jai Hypnotizes Bani With A Perfume",
+       "url": "https://www.youtube.com/watch?v=WgE-DXap8QU"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 24",
+       "title": "Naagin S5 | Ep. 24 | Jai Hypnotizes Bani With A Perfume",
+       "gist": "Jay hypnotizes Bani with a perfume and orders her to kill Veer. Wife: no (Veer's love interest at this point)."
+      }
+     ],
+     "tags": [
+      "youtube-deep-oct15"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -294751,6 +295235,32 @@
       }
      ],
      "provenance": "India-only research pass, 30 Sep 2026 (Mental Block wiki)"
+    },
+    "youtube-deep-oct15:39": {
+     "title": "Naagin 5",
+     "match_title": "Naagin 5",
+     "match_year": "2020–21",
+     "year": "2020–21",
+     "categories": [
+      "india-control"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 24",
+       "title": "Naagin S5 | Ep. 24 | Jai Hypnotizes Bani With A Perfume",
+       "gist": "Jay hypnotizes Bani with a perfume and orders her to kill Veer. Wife: no (Veer's love interest at this point)."
+      }
+     ],
+     "sources": [
+      {
+       "label": "YouTube (official channel): Naagin S5 | Ep. 24 | Jai Hypnotizes Bani With A Perfume",
+       "url": "https://www.youtube.com/watch?v=WgE-DXap8QU"
+      }
+     ],
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
     }
    }
   },
@@ -323514,7 +324024,15 @@
      "episode": "Ep. 172 “Chapter 172”",
      "gist": "Camila learns Bóris is El Achid; to keep his revenge plot going he hypnotizes her into acting out a suicide.",
      "number_verified": false
+    },
+    {
+     "episode": "Chapters 151 & 172",
+     "title": "BÓRIS HIPNOTIZA LUCRÉCIA E FABÍOLA | SASSARICANDO",
+     "gist": "Hypnotist: Bóris. Wife: unknown."
     }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
    ],
    "hypnotist": "Lebanese millionaire El Achid, hiding as Bóris Aidan",
    "gain_motive": [
@@ -323523,31 +324041,51 @@
    ],
    "method": "hypnosis",
    "kids_status": "no",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
    "format": "tv",
    "categories": [
     "crime",
-    "human"
+    "human",
+    "other-control"
    ],
    "sources": [
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/Sassaricando"
+    },
+    {
+     "label": "YouTube (official channel): BÓRIS HIPNOTIZA LUCRÉCIA E FABÍOLA | SASSARICANDO",
+     "url": "https://www.youtube.com/watch?v=CPoOmpX-RBM"
+    },
+    {
+     "label": "YouTube (Globoplay Novelas): Camila cai em encanto feito por Bóris",
+     "url": "https://www.youtube.com/watch?v=m1oTJ_0emFc"
     }
    ],
-   "youtube_ids": [],
+   "youtube_ids": [
+    "CPoOmpX-RBM",
+    "m1oTJ_0emFc"
+   ],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "youtube-deep-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1742",
     "worldwide-hypnosis:757",
-    "rich-wife-hypnosis:35"
+    "rich-wife-hypnosis:35",
+    "youtube-deep-oct15:22"
    ],
    "index_only": false,
    "local_only": false,
-   "thumbnail": null,
+   "thumbnail": "thumbs/CPoOmpX-RBM.jpg",
    "primary_copy": {
     "rid": "xla62ucxbx02u5:1742",
     "source": "xla62ucxbx02u5",
@@ -323652,6 +324190,57 @@
      "kids_status": "no",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "youtube-deep-oct15:22",
+     "source": "youtube-deep-oct15",
+     "label": "Sassaricando (1987–88)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Sassaricando",
+     "subtitle": "",
+     "year": "1987–88",
+     "meta": "Brazil · TV Globo telenovela",
+     "summary": "Bóris hypnotizes Lucrécia and Fabíola to steal shares in the Abdala textile mill (ch. 151); later hypnotizes Camila so it looks like she killed herself (ch. 172). Hypnotist: Bóris. Wife: unknown.",
+     "character": "Lucrécia; Fabíola; Camila",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "mechanism": "hypnosis",
+     "confidence_flag": "loose fit",
+     "categories": [
+      "crime",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "YouTube (official channel): BÓRIS HIPNOTIZA LUCRÉCIA E FABÍOLA | SASSARICANDO",
+       "url": "https://www.youtube.com/watch?v=CPoOmpX-RBM"
+      },
+      {
+       "label": "YouTube (Globoplay Novelas): Camila cai em encanto feito por Bóris",
+       "url": "https://www.youtube.com/watch?v=m1oTJ_0emFc"
+      }
+     ],
+     "pregnancy_note": "Not stated in the official upload.",
+     "episodes": [
+      {
+       "episode": "Chapters 151 & 172",
+       "title": "BÓRIS HIPNOTIZA LUCRÉCIA E FABÍOLA | SASSARICANDO",
+       "gist": "Hypnotist: Bóris. Wife: unknown."
+      }
+     ],
+     "tags": [
+      "youtube-deep-oct15"
+     ],
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "kids_together": "unknown",
+     "pregnant_end": "unknown",
+     "evidence": "official channel upload: title + description",
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -323734,6 +324323,50 @@
       }
      ],
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "youtube-deep-oct15:22": {
+     "title": "Sassaricando",
+     "year": "1987–88",
+     "format": "tv",
+     "meta": "Brazil · TV Globo telenovela",
+     "mechanism": "hypnosis",
+     "summary": "Bóris hypnotizes Lucrécia and Fabíola to steal shares in the Abdala textile mill (ch. 151); later hypnotizes Camila so it looks like she killed herself (ch. 172). Hypnotist: Bóris. Wife: unknown.",
+     "character": "Lucrécia; Fabíola; Camila",
+     "categories": [
+      "crime",
+      "other-control"
+     ],
+     "episodes": [
+      {
+       "episode": "Chapters 151 & 172",
+       "title": "BÓRIS HIPNOTIZA LUCRÉCIA E FABÍOLA | SASSARICANDO",
+       "gist": "Hypnotist: Bóris. Wife: unknown."
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): BÓRIS HIPNOTIZA LUCRÉCIA E FABÍOLA | SASSARICANDO",
+       "url": "https://www.youtube.com/watch?v=CPoOmpX-RBM"
+      },
+      {
+       "label": "YouTube (Globoplay Novelas): Camila cai em encanto feito por Bóris",
+       "url": "https://www.youtube.com/watch?v=m1oTJ_0emFc"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
     }
    }
   },
@@ -350621,6 +351254,16 @@
    "note": "Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "episodes": [
+    {
+     "episode": "T1E46",
+     "title": "Dominique está hipnotizada | Tic Tac - T1E46",
+     "gist": "Dominique is under hypnosis (official TVN upload). Wife: unknown."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
    "format": "tv",
    "categories": [
     "other-control"
@@ -350633,20 +351276,28 @@
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Tic_Tac_%28TV_series%29"
+    },
+    {
+     "label": "YouTube (official channel): Dominique está hipnotizada | Tic Tac - T1E46",
+     "url": "https://www.youtube.com/watch?v=EzXK7ARjl80"
     }
    ],
-   "youtube_ids": [],
+   "youtube_ids": [
+    "EzXK7ARjl80"
+   ],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "youtube-deep-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1885",
-    "worldwide-hypnosis:995"
+    "worldwide-hypnosis:995",
+    "youtube-deep-oct15:43"
    ],
    "index_only": false,
    "local_only": false,
-   "thumbnail": null,
+   "thumbnail": "thumbs/EzXK7ARjl80.jpg",
    "primary_copy": {
     "rid": "xla62ucxbx02u5:1885",
     "source": "xla62ucxbx02u5",
@@ -350712,6 +351363,44 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "youtube-deep-oct15:43",
+     "source": "youtube-deep-oct15",
+     "label": "Tic Tac (1997)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Tic Tac",
+     "subtitle": "",
+     "year": "1997",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "YouTube (official channel): Dominique está hipnotizada | Tic Tac - T1E46",
+       "url": "https://www.youtube.com/watch?v=EzXK7ARjl80"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "T1E46",
+       "title": "Dominique está hipnotizada | Tic Tac - T1E46",
+       "gist": "Dominique is under hypnosis (official TVN upload). Wife: unknown."
+      }
+     ],
+     "tags": [
+      "youtube-deep-oct15"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -350763,6 +351452,32 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "youtube-deep-oct15:43": {
+     "title": "Tic Tac",
+     "match_title": "Tic Tac",
+     "match_year": "1997",
+     "year": "1997",
+     "categories": [
+      "other-control"
+     ],
+     "episodes": [
+      {
+       "episode": "T1E46",
+       "title": "Dominique está hipnotizada | Tic Tac - T1E46",
+       "gist": "Dominique is under hypnosis (official TVN upload). Wife: unknown."
+      }
+     ],
+     "sources": [
+      {
+       "label": "YouTube (official channel): Dominique está hipnotizada | Tic Tac - T1E46",
+       "url": "https://www.youtube.com/watch?v=EzXK7ARjl80"
+      }
+     ],
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
     }
    }
   },
@@ -418253,6 +418968,16 @@
    "character": "Kashmira Agarwal (Sapna Sikarwar)",
    "provenance": "Indian-languages sweep, 14 Oct 2026 PT",
    "note": "",
+   "episodes": [
+    {
+     "episode": "Ep 70",
+     "title": "FULL EPISODE-70 | Sajan ne kiya Kashmira ko hypnotize | May I Come in Madam",
+     "gist": "Sajan hypnotizes his wife Kashmira. Wife: yes."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
    "kids_status": "not stated",
    "kids_together": "not stated",
    "married": "yes (Sajan's wife)",
@@ -418275,18 +419000,25 @@
     {
      "label": "YouTube full episode 70",
      "url": "https://www.youtube.com/watch?v=p8KAKKtxpU0"
+    },
+    {
+     "label": "YouTube (official channel): FULL EPISODE-70 | Sajan ne kiya Kashmira ko hypnotize | May I Come in Madam",
+     "url": "https://www.youtube.com/watch?v=BIqrK4rb_i4"
     }
    ],
    "youtube_ids": [
-    "p8KAKKtxpU0"
+    "p8KAKKtxpU0",
+    "BIqrK4rb_i4"
    ],
    "from_sources": [
     "indian-langs-oct14",
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "youtube-deep-oct15"
    ],
    "source_records": [
     "indian-langs-oct14:4",
-    "wife-hypnosis-oct15:85"
+    "wife-hypnosis-oct15:85",
+    "youtube-deep-oct15:40"
    ],
    "index_only": false,
    "local_only": true,
@@ -418355,6 +419087,44 @@
      "already_married_note": "Yes — husband: Sajan (wife Kashmira)",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "youtube-deep-oct15:40",
+     "source": "youtube-deep-oct15",
+     "label": "May I Come In Madam? (2016)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "May I Come In Madam?",
+     "subtitle": "",
+     "year": "2016",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "sources": [
+      {
+       "label": "YouTube (official channel): FULL EPISODE-70 | Sajan ne kiya Kashmira ko hypnotize | May I Come in Madam",
+       "url": "https://www.youtube.com/watch?v=BIqrK4rb_i4"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 70",
+       "title": "FULL EPISODE-70 | Sajan ne kiya Kashmira ko hypnotize | May I Come in Madam",
+       "gist": "Sajan hypnotizes his wife Kashmira. Wife: yes."
+      }
+     ],
+     "tags": [
+      "youtube-deep-oct15"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -418403,6 +419173,32 @@
      ],
      "already_married": "yes",
      "already_married_note": "Yes — husband: Sajan (wife Kashmira)"
+    },
+    "youtube-deep-oct15:40": {
+     "title": "May I Come In Madam?",
+     "match_title": "May I Come In Madam?",
+     "match_year": "2016",
+     "year": "2016",
+     "categories": [
+      "wife-hypnotized"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 70",
+       "title": "FULL EPISODE-70 | Sajan ne kiya Kashmira ko hypnotize | May I Come in Madam",
+       "gist": "Sajan hypnotizes his wife Kashmira. Wife: yes."
+      }
+     ],
+     "sources": [
+      {
+       "label": "YouTube (official channel): FULL EPISODE-70 | Sajan ne kiya Kashmira ko hypnotize | May I Come in Madam",
+       "url": "https://www.youtube.com/watch?v=BIqrK4rb_i4"
+      }
+     ],
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
     }
    }
   },
@@ -439335,10 +440131,25 @@
    "character": "Faltu",
    "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
    "note": "",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "Ep 82",
+     "title": "Faltu hui hypnotised! | S1 | Ep.82 | Faltu",
+     "gist": "Hypnotist: not named in upload. Wife: unknown."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
    "kids_status": "not stated",
+   "kids_note": "Not stated.",
    "kids_together": "not stated",
    "married": "not stated",
    "pregnant_end": "not stated",
+   "evidence": "official channel upload: title + description",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
    "format": "tv",
    "categories": [
     "india-control",
@@ -439358,16 +440169,101 @@
     "3KpoRlrdiKA"
    ],
    "from_sources": [
-    "official-yt-oct15"
+    "official-yt-oct15",
+    "youtube-deep-oct15"
    ],
    "source_records": [
-    "official-yt-oct15:30"
+    "official-yt-oct15:30",
+    "youtube-deep-oct15:17"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": "thumbs/3KpoRlrdiKA.jpg",
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "official-yt-oct15:30",
+    "source": "official-yt-oct15",
+    "label": "Faltu · Episode 82 – 'Faltu Gets Hypnotised' (2022–23)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Faltu",
+    "subtitle": "Episode 82 – 'Faltu Gets Hypnotised'",
+    "year": "2022–23",
+    "meta": "TV serial · StarPlus / JioHotstar · Hindi · India",
+    "summary": "An episode titled 'Faltu Gets Hypnotised'; the title character, an adult woman who trains at a cricket academy in later episodes, is hypnotised.",
+    "character": "Faltu",
+    "note": "",
+    "mechanism": "Hypnosis",
+    "confidence_flag": "Low · platform episode title only",
+    "categories": [
+     "india-control",
+     "indian-female-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "JioHotstar: Faltu – Faltu Gets Hypnotised",
+      "url": "https://www.hotstar.com/in/tv/Faltu/1260121083/faltu-gets-hypnotised/1000282208"
+     },
+     {
+      "label": "StarPlus (YouTube): Faltu hui hypnotised! | S1 | Ep.82",
+      "url": "https://www.youtube.com/watch?v=3KpoRlrdiKA"
+     }
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "youtube-deep-oct15:17",
+     "source": "youtube-deep-oct15",
+     "label": "Faltu (2022–23)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Faltu",
+     "subtitle": "",
+     "year": "2022–23",
+     "meta": "India · StarPlus serial",
+     "summary": "Faltu gets hypnotised. Hypnotist: not named in upload. Wife: unknown.",
+     "character": "Faltu (Niharika Chouksey)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "mechanism": "hypnosis",
+     "confidence_flag": "loose fit",
+     "categories": [
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "YouTube (official channel): Faltu hui hypnotised! | S1 | Ep.82 | Faltu",
+       "url": "https://www.youtube.com/watch?v=3KpoRlrdiKA"
+      }
+     ],
+     "pregnancy_note": "Not stated in the official upload.",
+     "episodes": [
+      {
+       "episode": "Ep 82",
+       "title": "Faltu hui hypnotised! | S1 | Ep.82 | Faltu",
+       "gist": "Hypnotist: not named in upload. Wife: unknown."
+      }
+     ],
+     "tags": [
+      "youtube-deep-oct15"
+     ],
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "kids_together": "unknown",
+     "pregnant_end": "unknown",
+     "evidence": "official channel upload: title + description",
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "distinct_story": true,
+     "matched_by": "title+year"
+    }
+   ],
    "raw": {
     "official-yt-oct15:30": {
      "standalone": true,
@@ -439399,6 +440295,45 @@
        "label": "StarPlus (YouTube): Faltu hui hypnotised! | S1 | Ep.82",
        "url": "https://www.youtube.com/watch?v=3KpoRlrdiKA"
       }
+     ]
+    },
+    "youtube-deep-oct15:17": {
+     "title": "Faltu",
+     "year": "2022–23",
+     "format": "tv",
+     "meta": "India · StarPlus serial",
+     "mechanism": "hypnosis",
+     "summary": "Faltu gets hypnotised. Hypnotist: not named in upload. Wife: unknown.",
+     "character": "Faltu (Niharika Chouksey)",
+     "categories": [
+      "india-control"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 82",
+       "title": "Faltu hui hypnotised! | S1 | Ep.82 | Faltu",
+       "gist": "Hypnotist: not named in upload. Wife: unknown."
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): Faltu hui hypnotised! | S1 | Ep.82 | Faltu",
+       "url": "https://www.youtube.com/watch?v=3KpoRlrdiKA"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
      ]
     }
    }
@@ -449208,6 +450143,3375 @@
      "note": "No hypnosis. Only the pregnancy reveal is sourced; whether it carried to term is not verified."
     }
    }
+  },
+  {
+   "id": 3047,
+   "title": "Ummi",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Indonesia · ANTV sinetron",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Afifah is put under hypnosis by Abah Asep (via a paid hypnotist) to make her hate Rehan; Ummi tries to break the influence and zamzam water weakens it. Hypnotist: Abah Asep (and a hired hypnotist, Eps 67). Wife: unknown (Rehan is her love interest). Caption timestamp: 00:00:20, 00:02:59, 00:09:14.",
+   "character": "Afifah",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "Eps 67–69",
+     "title": "Afifah Jadi Korban Hipnotis Abah | Ummi Eps 68 Full",
+     "gist": "Hypnotist: Abah Asep (and a hired hypnotist, Eps 67). Wife: unknown (Rehan is her love interest). Caption timestamp: 00:00:20, 00:02:59, 00:09:14.",
+     "timestamp": "00:00:20, 00:02:59, 00:09:14"
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description + auto-captions",
+   "already_married": "unknown",
+   "already_married_note": "unknown (Rehan is her love interest)",
+   "format": "tv",
+   "categories": [
+    "other-control",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): Afifah Jadi Korban Hipnotis Abah | Ummi Eps 68 Full",
+     "url": "https://www.youtube.com/watch?v=U5TK3FArYLo"
+    }
+   ],
+   "youtube_ids": [
+    "U5TK3FArYLo"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/U5TK3FArYLo.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:1": {
+     "title": "Ummi",
+     "year": "2025",
+     "format": "tv",
+     "meta": "Indonesia · ANTV sinetron",
+     "mechanism": "hypnosis",
+     "summary": "Afifah is put under hypnosis by Abah Asep (via a paid hypnotist) to make her hate Rehan; Ummi tries to break the influence and zamzam water weakens it. Hypnotist: Abah Asep (and a hired hypnotist, Eps 67). Wife: unknown (Rehan is her love interest). Caption timestamp: 00:00:20, 00:02:59, 00:09:14.",
+     "character": "Afifah",
+     "categories": [
+      "other-control",
+      "human"
+     ],
+     "episodes": [
+      {
+       "episode": "Eps 67–69",
+       "title": "Afifah Jadi Korban Hipnotis Abah | Ummi Eps 68 Full",
+       "gist": "Hypnotist: Abah Asep (and a hired hypnotist, Eps 67). Wife: unknown (Rehan is her love interest). Caption timestamp: 00:00:20, 00:02:59, 00:09:14.",
+       "timestamp": "00:00:20, 00:02:59, 00:09:14"
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown (Rehan is her love interest)",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): Afifah Jadi Korban Hipnotis Abah | Ummi Eps 68 Full",
+       "url": "https://www.youtube.com/watch?v=U5TK3FArYLo"
+      }
+     ],
+     "evidence": "official channel upload: title + description + auto-captions",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3048,
+   "title": "Cinta Sebening Embun",
+   "subtitle": "",
+   "year": "2019",
+   "meta": "Indonesia · RCTI sinetron",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Tiara is hypnotized by a man sent by Dewi. Hypnotist: man hired by Dewi. Wife: unknown.",
+   "character": "Tiara",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "5 July 2019 episode",
+     "title": "CINTA SEBENING EMBUN - Tiara Di Hipnotis Dengan Orang Suruhan Dewi [5 JULI 2019]",
+     "gist": "Hypnotist: man hired by Dewi. Wife: unknown."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
+   "format": "tv",
+   "categories": [
+    "other-control",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): CINTA SEBENING EMBUN - Tiara Di Hipnotis Dengan Orang Suruhan Dewi [5 JULI 2019]",
+     "url": "https://www.youtube.com/watch?v=AXkyBKnaPw4"
+    }
+   ],
+   "youtube_ids": [
+    "AXkyBKnaPw4"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/AXkyBKnaPw4.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:2": {
+     "title": "Cinta Sebening Embun",
+     "year": "2019",
+     "format": "tv",
+     "meta": "Indonesia · RCTI sinetron",
+     "mechanism": "hypnosis",
+     "summary": "Tiara is hypnotized by a man sent by Dewi. Hypnotist: man hired by Dewi. Wife: unknown.",
+     "character": "Tiara",
+     "categories": [
+      "other-control",
+      "human"
+     ],
+     "episodes": [
+      {
+       "episode": "5 July 2019 episode",
+       "title": "CINTA SEBENING EMBUN - Tiara Di Hipnotis Dengan Orang Suruhan Dewi [5 JULI 2019]",
+       "gist": "Hypnotist: man hired by Dewi. Wife: unknown."
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): CINTA SEBENING EMBUN - Tiara Di Hipnotis Dengan Orang Suruhan Dewi [5 JULI 2019]",
+       "url": "https://www.youtube.com/watch?v=AXkyBKnaPw4"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3049,
+   "title": "Buaya Putih",
+   "subtitle": "",
+   "year": "2017–18",
+   "meta": "Indonesia · RCTI sinetron (fantasy)",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Bunga is hypnotized so she will kill someone; an earlier attempt using the white-crocodile spirit fails. Hypnotist: villain (unnamed in upload). Wife: unknown.",
+   "character": "Bunga",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "5 Jan 2018 episode",
+     "title": "BUAYA PUTIH - Bunga Di Hipnotis Agar Membunuh Orang [5 JANUARI 2018]",
+     "gist": "Hypnotist: villain (unnamed in upload). Wife: unknown."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
+   "format": "tv",
+   "categories": [
+    "other-control",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): BUAYA PUTIH - Bunga Di Hipnotis Agar Membunuh Orang [5 JANUARI 2018]",
+     "url": "https://www.youtube.com/watch?v=jgLeABIOJeI"
+    }
+   ],
+   "youtube_ids": [
+    "jgLeABIOJeI"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/jgLeABIOJeI.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:3": {
+     "title": "Buaya Putih",
+     "year": "2017–18",
+     "format": "tv",
+     "meta": "Indonesia · RCTI sinetron (fantasy)",
+     "mechanism": "hypnosis",
+     "summary": "Bunga is hypnotized so she will kill someone; an earlier attempt using the white-crocodile spirit fails. Hypnotist: villain (unnamed in upload). Wife: unknown.",
+     "character": "Bunga",
+     "categories": [
+      "other-control",
+      "fantasy"
+     ],
+     "episodes": [
+      {
+       "episode": "5 Jan 2018 episode",
+       "title": "BUAYA PUTIH - Bunga Di Hipnotis Agar Membunuh Orang [5 JANUARI 2018]",
+       "gist": "Hypnotist: villain (unnamed in upload). Wife: unknown."
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): BUAYA PUTIH - Bunga Di Hipnotis Agar Membunuh Orang [5 JANUARI 2018]",
+       "url": "https://www.youtube.com/watch?v=jgLeABIOJeI"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3050,
+   "title": "Sepatu Super",
+   "subtitle": "",
+   "year": "2019–20",
+   "meta": "Indonesia · MNCTV family sinetron",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Ncing (Aunt) Ranti is hypnotized and turns against Reyhan (Eps 35); Ncing Romlah is hypnotized by Popo the clown (Eps 47). Hypnotist: villain; Badut Popo (Eps 47). Wife: unknown.",
+   "character": "Ncing Ranti; Ncing Romlah (Yati Surachman)",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "Eps 35 & 47",
+     "title": "Ncing Ranti Kena Hipnotis dan Balik Membenci Reyhan | SEPATU SUPER | EPS. 35 | PART 5",
+     "gist": "Hypnotist: villain; Badut Popo (Eps 47). Wife: unknown."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
+   "format": "tv",
+   "categories": [
+    "other-control",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): Ncing Ranti Kena Hipnotis dan Balik Membenci Reyhan | SEPATU SUPER | EPS. 35 | PART 5",
+     "url": "https://www.youtube.com/watch?v=So-kdBncUsA"
+    },
+    {
+     "label": "YouTube (MNCTV): Ncing Romlah di Hipnotis sama Badut Popo - Sepatu Super Eps 47",
+     "url": "https://www.youtube.com/watch?v=4_CNr3v8RDg"
+    }
+   ],
+   "youtube_ids": [
+    "So-kdBncUsA",
+    "4_CNr3v8RDg"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/So-kdBncUsA.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:4": {
+     "title": "Sepatu Super",
+     "year": "2019–20",
+     "format": "tv",
+     "meta": "Indonesia · MNCTV family sinetron",
+     "mechanism": "hypnosis",
+     "summary": "Ncing (Aunt) Ranti is hypnotized and turns against Reyhan (Eps 35); Ncing Romlah is hypnotized by Popo the clown (Eps 47). Hypnotist: villain; Badut Popo (Eps 47). Wife: unknown.",
+     "character": "Ncing Ranti; Ncing Romlah (Yati Surachman)",
+     "categories": [
+      "other-control",
+      "human"
+     ],
+     "episodes": [
+      {
+       "episode": "Eps 35 & 47",
+       "title": "Ncing Ranti Kena Hipnotis dan Balik Membenci Reyhan | SEPATU SUPER | EPS. 35 | PART 5",
+       "gist": "Hypnotist: villain; Badut Popo (Eps 47). Wife: unknown."
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): Ncing Ranti Kena Hipnotis dan Balik Membenci Reyhan | SEPATU SUPER | EPS. 35 | PART 5",
+       "url": "https://www.youtube.com/watch?v=So-kdBncUsA"
+      },
+      {
+       "label": "YouTube (MNCTV): Ncing Romlah di Hipnotis sama Badut Popo - Sepatu Super Eps 47",
+       "url": "https://www.youtube.com/watch?v=4_CNr3v8RDg"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3051,
+   "title": "Pondok Pak Cus",
+   "subtitle": "",
+   "year": "2016",
+   "meta": "Indonesia · Trans TV sitcom",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Citra is hypnotized by a criminal. Hypnotist: a criminal. Wife: unknown.",
+   "character": "Citra",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "Eps 74",
+     "title": "Citra Kena Hipnotis Penjahat | Eps.74 PONDOK PAK CUS",
+     "gist": "Hypnotist: a criminal. Wife: unknown."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
+   "format": "tv",
+   "categories": [
+    "crime",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): Citra Kena Hipnotis Penjahat | Eps.74 PONDOK PAK CUS",
+     "url": "https://www.youtube.com/watch?v=lhhbKSYfSa8"
+    }
+   ],
+   "youtube_ids": [
+    "lhhbKSYfSa8"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/lhhbKSYfSa8.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:5": {
+     "title": "Pondok Pak Cus",
+     "year": "2016",
+     "format": "tv",
+     "meta": "Indonesia · Trans TV sitcom",
+     "mechanism": "hypnosis",
+     "summary": "Citra is hypnotized by a criminal. Hypnotist: a criminal. Wife: unknown.",
+     "character": "Citra",
+     "categories": [
+      "crime",
+      "human"
+     ],
+     "episodes": [
+      {
+       "episode": "Eps 74",
+       "title": "Citra Kena Hipnotis Penjahat | Eps.74 PONDOK PAK CUS",
+       "gist": "Hypnotist: a criminal. Wife: unknown."
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): Citra Kena Hipnotis Penjahat | Eps.74 PONDOK PAK CUS",
+       "url": "https://www.youtube.com/watch?v=lhhbKSYfSa8"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3052,
+   "title": "Suparman Reborn",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Indonesia · MNCTV comedy",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Euis is hypnotized by a con man and hands over all her money; Suparman catches the hypnotist. Hypnotist: street con-man hypnotist. Wife: unknown. Caption timestamp: 00:08:50, 00:17:05.",
+   "character": "Euis",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "Season 1 Eps 1",
+     "title": "Euis Meringis Jadi Korban Hipnotis | SUPARMAN REBORN 1 | EPS. 01",
+     "gist": "Hypnotist: street con-man hypnotist. Wife: unknown. Caption timestamp: 00:08:50, 00:17:05.",
+     "timestamp": "00:08:50, 00:17:05"
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description + auto-captions",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
+   "format": "tv",
+   "categories": [
+    "crime",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): Euis Meringis Jadi Korban Hipnotis | SUPARMAN REBORN 1 | EPS. 01",
+     "url": "https://www.youtube.com/watch?v=m6U42_lZ-MI"
+    }
+   ],
+   "youtube_ids": [
+    "m6U42_lZ-MI"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/m6U42_lZ-MI.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:6": {
+     "title": "Suparman Reborn",
+     "year": "2026",
+     "format": "tv",
+     "meta": "Indonesia · MNCTV comedy",
+     "mechanism": "hypnosis",
+     "summary": "Euis is hypnotized by a con man and hands over all her money; Suparman catches the hypnotist. Hypnotist: street con-man hypnotist. Wife: unknown. Caption timestamp: 00:08:50, 00:17:05.",
+     "character": "Euis",
+     "categories": [
+      "crime",
+      "human"
+     ],
+     "episodes": [
+      {
+       "episode": "Season 1 Eps 1",
+       "title": "Euis Meringis Jadi Korban Hipnotis | SUPARMAN REBORN 1 | EPS. 01",
+       "gist": "Hypnotist: street con-man hypnotist. Wife: unknown. Caption timestamp: 00:08:50, 00:17:05.",
+       "timestamp": "00:08:50, 00:17:05"
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): Euis Meringis Jadi Korban Hipnotis | SUPARMAN REBORN 1 | EPS. 01",
+       "url": "https://www.youtube.com/watch?v=m6U42_lZ-MI"
+      }
+     ],
+     "evidence": "official channel upload: title + description + auto-captions",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3053,
+   "title": "Entong Lagi",
+   "subtitle": "",
+   "year": "2019",
+   "meta": "Indonesia · MNCTV sinetron",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Mpok Lela is hypnotized by a thief and left standing frozen by the roadside. Hypnotist: hypnotist thief. Wife: unknown.",
+   "character": "Mpok Lela",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "Eps 16",
+     "title": "Mpok Lela Kena Hipnotis Diem di Pinggir Jalan - Entong Lagi Eps 16 PART 2",
+     "gist": "Hypnotist: hypnotist thief. Wife: unknown."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
+   "format": "tv",
+   "categories": [
+    "crime",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): Mpok Lela Kena Hipnotis Diem di Pinggir Jalan - Entong Lagi Eps 16 PART 2",
+     "url": "https://www.youtube.com/watch?v=pbOTmzHfZ3E"
+    }
+   ],
+   "youtube_ids": [
+    "pbOTmzHfZ3E"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/pbOTmzHfZ3E.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:7": {
+     "title": "Entong Lagi",
+     "year": "2019",
+     "format": "tv",
+     "meta": "Indonesia · MNCTV sinetron",
+     "mechanism": "hypnosis",
+     "summary": "Mpok Lela is hypnotized by a thief and left standing frozen by the roadside. Hypnotist: hypnotist thief. Wife: unknown.",
+     "character": "Mpok Lela",
+     "categories": [
+      "crime",
+      "human"
+     ],
+     "episodes": [
+      {
+       "episode": "Eps 16",
+       "title": "Mpok Lela Kena Hipnotis Diem di Pinggir Jalan - Entong Lagi Eps 16 PART 2",
+       "gist": "Hypnotist: hypnotist thief. Wife: unknown."
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): Mpok Lela Kena Hipnotis Diem di Pinggir Jalan - Entong Lagi Eps 16 PART 2",
+       "url": "https://www.youtube.com/watch?v=pbOTmzHfZ3E"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3054,
+   "title": "Super Dede",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Indonesia · MNCTV comedy",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Ceu Entin is hypnotized and loses her takings, after a beautiful woman hypnotizes Ipul at the laundry. Hypnotist: con-artist hypnotists. Wife: unknown. Caption timestamp: 00:02:19, 00:07:09.",
+   "character": "Ceu Entin",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "Eps 7",
+     "title": "Ceu Entin juga terkena hipnotis, uang jualan raib | SUPER DEDE | EPS 07 PART 3",
+     "gist": "Hypnotist: con-artist hypnotists. Wife: unknown. Caption timestamp: 00:02:19, 00:07:09.",
+     "timestamp": "00:02:19, 00:07:09"
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description + auto-captions",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
+   "format": "tv",
+   "categories": [
+    "crime",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): Ceu Entin juga terkena hipnotis, uang jualan raib | SUPER DEDE | EPS 07 PART 3",
+     "url": "https://www.youtube.com/watch?v=4cl9l3JGfpY"
+    }
+   ],
+   "youtube_ids": [
+    "4cl9l3JGfpY"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/4cl9l3JGfpY.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:8": {
+     "title": "Super Dede",
+     "year": "2026",
+     "format": "tv",
+     "meta": "Indonesia · MNCTV comedy",
+     "mechanism": "hypnosis",
+     "summary": "Ceu Entin is hypnotized and loses her takings, after a beautiful woman hypnotizes Ipul at the laundry. Hypnotist: con-artist hypnotists. Wife: unknown. Caption timestamp: 00:02:19, 00:07:09.",
+     "character": "Ceu Entin",
+     "categories": [
+      "crime",
+      "human"
+     ],
+     "episodes": [
+      {
+       "episode": "Eps 7",
+       "title": "Ceu Entin juga terkena hipnotis, uang jualan raib | SUPER DEDE | EPS 07 PART 3",
+       "gist": "Hypnotist: con-artist hypnotists. Wife: unknown. Caption timestamp: 00:02:19, 00:07:09.",
+       "timestamp": "00:02:19, 00:07:09"
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): Ceu Entin juga terkena hipnotis, uang jualan raib | SUPER DEDE | EPS 07 PART 3",
+       "url": "https://www.youtube.com/watch?v=4cl9l3JGfpY"
+      }
+     ],
+     "evidence": "official channel upload: title + description + auto-captions",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3055,
+   "title": "Emak Gue Jawara",
+   "subtitle": "",
+   "year": "2023",
+   "meta": "Indonesia · MNCTV sinetron",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Dinda finds Nisa handing all her jewellery to a stranger who hypnotized her; Zaskia is also hypnotized by a stranger. Hypnotist: street hypnotist robber. Wife: unknown. Caption timestamp: 00:02:22.",
+   "character": "Nisa; Zaskia",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "Eps 14",
+     "title": "HAMPIR AJA! Nisa Jadi Korban Hipnotis Orang Ini | EMAK GUE JAWARA | EPS 14 (1/4)",
+     "gist": "Hypnotist: street hypnotist robber. Wife: unknown. Caption timestamp: 00:02:22.",
+     "timestamp": "00:02:22"
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description + auto-captions",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
+   "format": "tv",
+   "categories": [
+    "crime",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): HAMPIR AJA! Nisa Jadi Korban Hipnotis Orang Ini | EMAK GUE JAWARA | EPS 14 (1/4)",
+     "url": "https://www.youtube.com/watch?v=KZyrixrBQ1U"
+    },
+    {
+     "label": "YouTube (MNCTV): Zaskia Kena Hipnotis Oleh Orang Gak Dikenal",
+     "url": "https://www.youtube.com/watch?v=I4-1o8hoPUI"
+    }
+   ],
+   "youtube_ids": [
+    "KZyrixrBQ1U",
+    "I4-1o8hoPUI"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:9"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/KZyrixrBQ1U.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:9": {
+     "title": "Emak Gue Jawara",
+     "year": "2023",
+     "format": "tv",
+     "meta": "Indonesia · MNCTV sinetron",
+     "mechanism": "hypnosis",
+     "summary": "Dinda finds Nisa handing all her jewellery to a stranger who hypnotized her; Zaskia is also hypnotized by a stranger. Hypnotist: street hypnotist robber. Wife: unknown. Caption timestamp: 00:02:22.",
+     "character": "Nisa; Zaskia",
+     "categories": [
+      "crime",
+      "human"
+     ],
+     "episodes": [
+      {
+       "episode": "Eps 14",
+       "title": "HAMPIR AJA! Nisa Jadi Korban Hipnotis Orang Ini | EMAK GUE JAWARA | EPS 14 (1/4)",
+       "gist": "Hypnotist: street hypnotist robber. Wife: unknown. Caption timestamp: 00:02:22.",
+       "timestamp": "00:02:22"
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): HAMPIR AJA! Nisa Jadi Korban Hipnotis Orang Ini | EMAK GUE JAWARA | EPS 14 (1/4)",
+       "url": "https://www.youtube.com/watch?v=KZyrixrBQ1U"
+      },
+      {
+       "label": "YouTube (MNCTV): Zaskia Kena Hipnotis Oleh Orang Gak Dikenal",
+       "url": "https://www.youtube.com/watch?v=I4-1o8hoPUI"
+      }
+     ],
+     "evidence": "official channel upload: title + description + auto-captions",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3056,
+   "title": "Mencintaimu Sekali Lagi",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Indonesia · RCTI sinetron",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Arini and her husband Lingga are hypnotized and scammed. Hypnotist: scammers. Wife: yes (Lingga's wife, per comments).",
+   "character": "Arini",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "Eps 260",
+     "title": "TERHIPNOTIS! Arini & Lingga Jadi Korban Penipuan | MENCINTAIMU SEKALI LAGI | Eps 260 Part 1",
+     "gist": "Hypnotist: scammers. Wife: yes (Lingga's wife, per comments)."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "yes",
+   "kids_note": "Comments mention her child Angga.",
+   "kids_together": "yes",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description",
+   "already_married": "yes",
+   "already_married_note": "yes (Lingga's wife, per comments)",
+   "format": "tv",
+   "categories": [
+    "crime",
+    "wife-hypnotized"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): TERHIPNOTIS! Arini & Lingga Jadi Korban Penipuan | MENCINTAIMU SEKALI LAGI | Eps 260 Part 1",
+     "url": "https://www.youtube.com/watch?v=DA2mwG5WzVw"
+    }
+   ],
+   "youtube_ids": [
+    "DA2mwG5WzVw"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:10"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/DA2mwG5WzVw.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:10": {
+     "title": "Mencintaimu Sekali Lagi",
+     "year": "2025",
+     "format": "tv",
+     "meta": "Indonesia · RCTI sinetron",
+     "mechanism": "hypnosis",
+     "summary": "Arini and her husband Lingga are hypnotized and scammed. Hypnotist: scammers. Wife: yes (Lingga's wife, per comments).",
+     "character": "Arini",
+     "categories": [
+      "crime",
+      "wife-hypnotized"
+     ],
+     "episodes": [
+      {
+       "episode": "Eps 260",
+       "title": "TERHIPNOTIS! Arini & Lingga Jadi Korban Penipuan | MENCINTAIMU SEKALI LAGI | Eps 260 Part 1",
+       "gist": "Hypnotist: scammers. Wife: yes (Lingga's wife, per comments)."
+      }
+     ],
+     "already_married": "yes",
+     "already_married_note": "yes (Lingga's wife, per comments)",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "kids_note": "Comments mention her child Angga.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): TERHIPNOTIS! Arini & Lingga Jadi Korban Penipuan | MENCINTAIMU SEKALI LAGI | Eps 260 Part 1",
+       "url": "https://www.youtube.com/watch?v=DA2mwG5WzVw"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3057,
+   "title": "Antara Cinta dan Dusta",
+   "subtitle": "",
+   "year": "2023",
+   "meta": "Indonesia · MD Entertainment sinetron",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Atikah is hypnotized by Dokter Sultan; captions say the hypnotism also affects Mbak Tiara. Hypnotist: Dokter Sultan. Wife: unknown. Caption timestamp: 00:04:24.",
+   "character": "Atikah",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "clip",
+     "title": "Gawat! Atikah di Hipnotis Dokter Sultan Antara Cinta dan Dusta",
+     "gist": "Hypnotist: Dokter Sultan. Wife: unknown. Caption timestamp: 00:04:24.",
+     "timestamp": "00:04:24"
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description + auto-captions",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
+   "format": "tv",
+   "categories": [
+    "medical",
+    "doctor-gain"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): Gawat! Atikah di Hipnotis Dokter Sultan Antara Cinta dan Dusta",
+     "url": "https://www.youtube.com/watch?v=2c2ttgAuNQI"
+    }
+   ],
+   "youtube_ids": [
+    "2c2ttgAuNQI"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:11"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/2c2ttgAuNQI.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:11": {
+     "title": "Antara Cinta dan Dusta",
+     "year": "2023",
+     "format": "tv",
+     "meta": "Indonesia · MD Entertainment sinetron",
+     "mechanism": "hypnosis",
+     "summary": "Atikah is hypnotized by Dokter Sultan; captions say the hypnotism also affects Mbak Tiara. Hypnotist: Dokter Sultan. Wife: unknown. Caption timestamp: 00:04:24.",
+     "character": "Atikah",
+     "categories": [
+      "medical",
+      "doctor-gain"
+     ],
+     "episodes": [
+      {
+       "episode": "clip",
+       "title": "Gawat! Atikah di Hipnotis Dokter Sultan Antara Cinta dan Dusta",
+       "gist": "Hypnotist: Dokter Sultan. Wife: unknown. Caption timestamp: 00:04:24.",
+       "timestamp": "00:04:24"
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): Gawat! Atikah di Hipnotis Dokter Sultan Antara Cinta dan Dusta",
+       "url": "https://www.youtube.com/watch?v=2c2ttgAuNQI"
+      }
+     ],
+     "evidence": "official channel upload: title + description + auto-captions",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3058,
+   "title": "Cahaya Cinta",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Indonesia · ANTV sinetron",
+   "mechanism": "love magic / spell",
+   "confidence_flag": "loose fit",
+   "summary": "Mira's black-magic guna-guna finally makes Indah totally submissive (Eps 39). Hypnotist: Mira (guna-guna spell). Wife: unknown. Caption timestamp: 00:24:02, 00:24:43.",
+   "character": "Indah",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "Eps 39",
+     "title": "Indah Tunduk Total! Guna-Guna Mira Akhirnya Berhasil! | Cahaya Cinta Eps 39 Full",
+     "gist": "Hypnotist: Mira (guna-guna spell). Wife: unknown. Caption timestamp: 00:24:02, 00:24:43.",
+     "timestamp": "00:24:02, 00:24:43"
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description + auto-captions",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
+   "format": "tv",
+   "categories": [
+    "love",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): Indah Tunduk Total! Guna-Guna Mira Akhirnya Berhasil! | Cahaya Cinta Eps 39 Full",
+     "url": "https://www.youtube.com/watch?v=03eB78CFs-0"
+    }
+   ],
+   "youtube_ids": [
+    "03eB78CFs-0"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:12"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/03eB78CFs-0.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:12": {
+     "title": "Cahaya Cinta",
+     "year": "2025",
+     "format": "tv",
+     "meta": "Indonesia · ANTV sinetron",
+     "mechanism": "love magic / spell",
+     "summary": "Mira's black-magic guna-guna finally makes Indah totally submissive (Eps 39). Hypnotist: Mira (guna-guna spell). Wife: unknown. Caption timestamp: 00:24:02, 00:24:43.",
+     "character": "Indah",
+     "categories": [
+      "love",
+      "occult"
+     ],
+     "episodes": [
+      {
+       "episode": "Eps 39",
+       "title": "Indah Tunduk Total! Guna-Guna Mira Akhirnya Berhasil! | Cahaya Cinta Eps 39 Full",
+       "gist": "Hypnotist: Mira (guna-guna spell). Wife: unknown. Caption timestamp: 00:24:02, 00:24:43.",
+       "timestamp": "00:24:02, 00:24:43"
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): Indah Tunduk Total! Guna-Guna Mira Akhirnya Berhasil! | Cahaya Cinta Eps 39 Full",
+       "url": "https://www.youtube.com/watch?v=03eB78CFs-0"
+      }
+     ],
+     "evidence": "official channel upload: title + description + auto-captions",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3059,
+   "title": "Maalaala Mo Kaya: Gayuma (Ina Raymundo)",
+   "subtitle": "",
+   "year": "1990s",
+   "meta": "Philippines · ABS-CBN anthology episode 235",
+   "mechanism": "love magic / spell",
+   "confidence_flag": "loose fit",
+   "summary": "Love-potion (gayuma) episode starring Ina Raymundo. Hypnotist: love potion. Wife: unknown.",
+   "character": "Ina Raymundo's character",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "Episode 235",
+     "title": "Maalaala Mo Kaya: Gayuma feat. Ina Raymundo (Full Episode 235)",
+     "gist": "Hypnotist: love potion. Wife: unknown."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
+   "format": "tv",
+   "categories": [
+    "love"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): Maalaala Mo Kaya: Gayuma feat. Ina Raymundo (Full Episode 235)",
+     "url": "https://www.youtube.com/watch?v=6IkNyYfM_vQ"
+    }
+   ],
+   "youtube_ids": [
+    "6IkNyYfM_vQ"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:13"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/6IkNyYfM_vQ.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:13": {
+     "title": "Maalaala Mo Kaya: Gayuma (Ina Raymundo)",
+     "year": "1990s",
+     "format": "tv",
+     "meta": "Philippines · ABS-CBN anthology episode 235",
+     "mechanism": "love magic / spell",
+     "summary": "Love-potion (gayuma) episode starring Ina Raymundo. Hypnotist: love potion. Wife: unknown.",
+     "character": "Ina Raymundo's character",
+     "categories": [
+      "love"
+     ],
+     "episodes": [
+      {
+       "episode": "Episode 235",
+       "title": "Maalaala Mo Kaya: Gayuma feat. Ina Raymundo (Full Episode 235)",
+       "gist": "Hypnotist: love potion. Wife: unknown."
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): Maalaala Mo Kaya: Gayuma feat. Ina Raymundo (Full Episode 235)",
+       "url": "https://www.youtube.com/watch?v=6IkNyYfM_vQ"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ],
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 3060,
+   "title": "Ipaglaban Mo: Gayuma",
+   "subtitle": "",
+   "year": "2019",
+   "meta": "Philippines · ABS-CBN",
+   "mechanism": "love magic / spell",
+   "confidence_flag": "loose fit",
+   "summary": "Lily (Ria Atayde), insecure after motherhood, has a renowned healer Pedring prepare a gayuma love spell for her husband Gimo. Hypnotist: healer Pedring (spell aimed at the husband; loose). Wife: yes (Gimo's wife).",
+   "character": "Lily (Ria Atayde)",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "6 Apr 2019 episode",
+     "title": "Gayuma | Ipaglaban Mo Recap",
+     "gist": "Hypnotist: healer Pedring (spell aimed at the husband; loose). Wife: yes (Gimo's wife)."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "yes",
+   "kids_note": "Son William with Gimo.",
+   "kids_together": "yes",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description",
+   "already_married": "yes",
+   "already_married_note": "yes (Gimo's wife)",
+   "format": "tv",
+   "categories": [
+    "love",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): Gayuma | Ipaglaban Mo Recap",
+     "url": "https://www.youtube.com/watch?v=r5nT5q-GqXE"
+    }
+   ],
+   "youtube_ids": [
+    "r5nT5q-GqXE"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:14"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/r5nT5q-GqXE.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:14": {
+     "title": "Ipaglaban Mo: Gayuma",
+     "year": "2019",
+     "format": "tv",
+     "meta": "Philippines · ABS-CBN",
+     "mechanism": "love magic / spell",
+     "summary": "Lily (Ria Atayde), insecure after motherhood, has a renowned healer Pedring prepare a gayuma love spell for her husband Gimo. Hypnotist: healer Pedring (spell aimed at the husband; loose). Wife: yes (Gimo's wife).",
+     "character": "Lily (Ria Atayde)",
+     "categories": [
+      "love",
+      "wife"
+     ],
+     "episodes": [
+      {
+       "episode": "6 Apr 2019 episode",
+       "title": "Gayuma | Ipaglaban Mo Recap",
+       "gist": "Hypnotist: healer Pedring (spell aimed at the husband; loose). Wife: yes (Gimo's wife)."
+      }
+     ],
+     "already_married": "yes",
+     "already_married_note": "yes (Gimo's wife)",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "kids_note": "Son William with Gimo.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): Gayuma | Ipaglaban Mo Recap",
+       "url": "https://www.youtube.com/watch?v=r5nT5q-GqXE"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3061,
+   "title": "Anhonee",
+   "subtitle": "",
+   "year": "2006",
+   "meta": "India · Zee TV horror anthology",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "A doctor hypnotizes Pinky ('…sleep, Pinky… now you are asleep'). Hypnotist: a doctor. Wife: unknown. Caption timestamp: 00:00:20.",
+   "character": "Pinky",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "Ep 64",
+     "title": "Anhonee | Ep.64 | Pinky को doctor ने किया hypnotise | Full Episode",
+     "gist": "Hypnotist: a doctor. Wife: unknown. Caption timestamp: 00:00:20.",
+     "timestamp": "00:00:20"
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description + auto-captions",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
+   "format": "tv",
+   "categories": [
+    "medical",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): Anhonee | Ep.64 | Pinky को doctor ने किया hypnotise | Full Episode",
+     "url": "https://www.youtube.com/watch?v=h1c-lP3fFsI"
+    }
+   ],
+   "youtube_ids": [
+    "h1c-lP3fFsI"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:15"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/h1c-lP3fFsI.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:15": {
+     "title": "Anhonee",
+     "year": "2006",
+     "format": "tv",
+     "meta": "India · Zee TV horror anthology",
+     "mechanism": "hypnosis",
+     "summary": "A doctor hypnotizes Pinky ('…sleep, Pinky… now you are asleep'). Hypnotist: a doctor. Wife: unknown. Caption timestamp: 00:00:20.",
+     "character": "Pinky",
+     "categories": [
+      "medical",
+      "india-control"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 64",
+       "title": "Anhonee | Ep.64 | Pinky को doctor ने किया hypnotise | Full Episode",
+       "gist": "Hypnotist: a doctor. Wife: unknown. Caption timestamp: 00:00:20.",
+       "timestamp": "00:00:20"
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): Anhonee | Ep.64 | Pinky को doctor ने किया hypnotise | Full Episode",
+       "url": "https://www.youtube.com/watch?v=h1c-lP3fFsI"
+      }
+     ],
+     "evidence": "official channel upload: title + description + auto-captions",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3062,
+   "title": "Khichdi (Season 3)",
+   "subtitle": "",
+   "year": "2018",
+   "meta": "India · StarPlus sitcom",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Hansa Parekh gets hypnotized. Hypnotist: not named in upload. Wife: yes (Praful's wife).",
+   "character": "Hansa Parekh (Supriya Pathak)",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "S3 Ep 4",
+     "title": "Khichdi | Season 3 | Episode 4 | Part 1 | Hansa hui hypnotize!",
+     "gist": "Hypnotist: not named in upload. Wife: yes (Praful's wife)."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "yes",
+   "kids_note": "Son Jacky with Praful.",
+   "kids_together": "yes",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description",
+   "already_married": "yes",
+   "already_married_note": "yes (Praful's wife)",
+   "format": "tv",
+   "categories": [
+    "wife-hypnotized",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): Khichdi | Season 3 | Episode 4 | Part 1 | Hansa hui hypnotize!",
+     "url": "https://www.youtube.com/watch?v=m4j4GJIcMBg"
+    }
+   ],
+   "youtube_ids": [
+    "m4j4GJIcMBg"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:16"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/m4j4GJIcMBg.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:16": {
+     "title": "Khichdi (Season 3)",
+     "year": "2018",
+     "format": "tv",
+     "meta": "India · StarPlus sitcom",
+     "mechanism": "hypnosis",
+     "summary": "Hansa Parekh gets hypnotized. Hypnotist: not named in upload. Wife: yes (Praful's wife).",
+     "character": "Hansa Parekh (Supriya Pathak)",
+     "categories": [
+      "wife-hypnotized",
+      "human"
+     ],
+     "episodes": [
+      {
+       "episode": "S3 Ep 4",
+       "title": "Khichdi | Season 3 | Episode 4 | Part 1 | Hansa hui hypnotize!",
+       "gist": "Hypnotist: not named in upload. Wife: yes (Praful's wife)."
+      }
+     ],
+     "already_married": "yes",
+     "already_married_note": "yes (Praful's wife)",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "kids_note": "Son Jacky with Praful.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): Khichdi | Season 3 | Episode 4 | Part 1 | Hansa hui hypnotize!",
+       "url": "https://www.youtube.com/watch?v=m4j4GJIcMBg"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3063,
+   "title": "CID — Bhoot Series (Purvi hypnotized)",
+   "subtitle": "",
+   "year": "2022",
+   "meta": "India · Sony / LIV Crime",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Inspector Purvi is hypnotized by an evil spirit and is about to give up her life before she saves an innocent girl. Hypnotist: an evil spirit. Wife: no (unmarried officer).",
+   "character": "Inspector Purvi (Ansha Sayed)",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "Bhoot Series episode",
+     "title": "Purvi फंस गई सम्मोहन के Vicious जाल में! | CID | Bhoot Series | 24-Dec-2022",
+     "gist": "Hypnotist: an evil spirit. Wife: no (unmarried officer)."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description",
+   "already_married": "no",
+   "already_married_note": "no (unmarried officer)",
+   "format": "tv",
+   "categories": [
+    "spirit",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): Purvi फंस गई सम्मोहन के Vicious जाल में! | CID | Bhoot Series | 24-Dec-2022",
+     "url": "https://www.youtube.com/watch?v=ZUSKWqb77WE"
+    }
+   ],
+   "youtube_ids": [
+    "ZUSKWqb77WE"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:18"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/ZUSKWqb77WE.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:18": {
+     "title": "CID — Bhoot Series (Purvi hypnotized)",
+     "year": "2022",
+     "format": "tv",
+     "meta": "India · Sony / LIV Crime",
+     "mechanism": "hypnosis",
+     "summary": "Inspector Purvi is hypnotized by an evil spirit and is about to give up her life before she saves an innocent girl. Hypnotist: an evil spirit. Wife: no (unmarried officer).",
+     "character": "Inspector Purvi (Ansha Sayed)",
+     "categories": [
+      "spirit",
+      "india-control"
+     ],
+     "episodes": [
+      {
+       "episode": "Bhoot Series episode",
+       "title": "Purvi फंस गई सम्मोहन के Vicious जाल में! | CID | Bhoot Series | 24-Dec-2022",
+       "gist": "Hypnotist: an evil spirit. Wife: no (unmarried officer)."
+      }
+     ],
+     "already_married": "no",
+     "already_married_note": "no (unmarried officer)",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): Purvi फंस गई सम्मोहन के Vicious जाल में! | CID | Bhoot Series | 24-Dec-2022",
+       "url": "https://www.youtube.com/watch?v=ZUSKWqb77WE"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ],
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 3064,
+   "title": "CID — Knives Out (hypnotized woman)",
+   "subtitle": "",
+   "year": "2023",
+   "meta": "India · Sony / LIV Crime",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "A woman who cannot remember past incidents turns out to have been hypnotized; Daya saves her and her family. Hypnotist: the criminal. Wife: unknown. Caption timestamp: 00:29:57, 00:38:12.",
+   "character": "the hypnotized woman",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "Knives Out case",
+     "title": "Daya Risks His Life To Save A Hypnotized Woman | CID | Knives Out | 05-01-2023",
+     "gist": "Hypnotist: the criminal. Wife: unknown. Caption timestamp: 00:29:57, 00:38:12.",
+     "timestamp": "00:29:57, 00:38:12"
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description + auto-captions",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
+   "format": "tv",
+   "categories": [
+    "crime",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): Daya Risks His Life To Save A Hypnotized Woman | CID | Knives Out | 05-01-2023",
+     "url": "https://www.youtube.com/watch?v=7v7W3nlRfRM"
+    }
+   ],
+   "youtube_ids": [
+    "7v7W3nlRfRM"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:19"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/7v7W3nlRfRM.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:19": {
+     "title": "CID — Knives Out (hypnotized woman)",
+     "year": "2023",
+     "format": "tv",
+     "meta": "India · Sony / LIV Crime",
+     "mechanism": "hypnosis",
+     "summary": "A woman who cannot remember past incidents turns out to have been hypnotized; Daya saves her and her family. Hypnotist: the criminal. Wife: unknown. Caption timestamp: 00:29:57, 00:38:12.",
+     "character": "the hypnotized woman",
+     "categories": [
+      "crime",
+      "india-control"
+     ],
+     "episodes": [
+      {
+       "episode": "Knives Out case",
+       "title": "Daya Risks His Life To Save A Hypnotized Woman | CID | Knives Out | 05-01-2023",
+       "gist": "Hypnotist: the criminal. Wife: unknown. Caption timestamp: 00:29:57, 00:38:12.",
+       "timestamp": "00:29:57, 00:38:12"
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): Daya Risks His Life To Save A Hypnotized Woman | CID | Knives Out | 05-01-2023",
+       "url": "https://www.youtube.com/watch?v=7v7W3nlRfRM"
+      }
+     ],
+     "evidence": "official channel upload: title + description + auto-captions",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ],
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 3065,
+   "title": "Cesur Hemşire",
+   "subtitle": "",
+   "year": "2021",
+   "meta": "Turkey · FOX TV comedy",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Surgeon Ceyda, wife of nurse Cesur, is hypnotized with a 'hypnosis machine'. Hypnotist: hypnosis machine. Wife: yes (Cesur's wife of 18 years). Caption timestamp: 00:02:10.",
+   "character": "Ceyda (Şebnem Bozoklu)",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "Ep 2",
+     "title": "Ceyda, hipnoz oluyor! - Cesur Hemşire 2. Bölüm",
+     "gist": "Hypnotist: hypnosis machine. Wife: yes (Cesur's wife of 18 years). Caption timestamp: 00:02:10.",
+     "timestamp": "00:02:10"
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "yes",
+   "kids_note": "Twins Cömert and Canan (about 16) with Cesur.",
+   "kids_together": "yes",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description + auto-captions",
+   "already_married": "yes",
+   "already_married_note": "yes (Cesur's wife of 18 years)",
+   "format": "tv",
+   "categories": [
+    "wife-hypnotized",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): Ceyda, hipnoz oluyor! - Cesur Hemşire 2. Bölüm",
+     "url": "https://www.youtube.com/watch?v=TfcxRdcxWVw"
+    }
+   ],
+   "youtube_ids": [
+    "TfcxRdcxWVw"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:20"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/TfcxRdcxWVw.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:20": {
+     "title": "Cesur Hemşire",
+     "year": "2021",
+     "format": "tv",
+     "meta": "Turkey · FOX TV comedy",
+     "mechanism": "hypnosis",
+     "summary": "Surgeon Ceyda, wife of nurse Cesur, is hypnotized with a 'hypnosis machine'. Hypnotist: hypnosis machine. Wife: yes (Cesur's wife of 18 years). Caption timestamp: 00:02:10.",
+     "character": "Ceyda (Şebnem Bozoklu)",
+     "categories": [
+      "wife-hypnotized",
+      "human"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 2",
+       "title": "Ceyda, hipnoz oluyor! - Cesur Hemşire 2. Bölüm",
+       "gist": "Hypnotist: hypnosis machine. Wife: yes (Cesur's wife of 18 years). Caption timestamp: 00:02:10.",
+       "timestamp": "00:02:10"
+      }
+     ],
+     "already_married": "yes",
+     "already_married_note": "yes (Cesur's wife of 18 years)",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "kids_note": "Twins Cömert and Canan (about 16) with Cesur.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): Ceyda, hipnoz oluyor! - Cesur Hemşire 2. Bölüm",
+       "url": "https://www.youtube.com/watch?v=TfcxRdcxWVw"
+      }
+     ],
+     "evidence": "official channel upload: title + description + auto-captions",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3066,
+   "title": "Kaçak Gelinler",
+   "subtitle": "",
+   "year": "2014",
+   "meta": "Turkey · Show TV comedy",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Almila hypnotizes Şebnem in a session to make her remember. Hypnotist: Almila. Wife: no (runaway bride).",
+   "character": "Şebnem",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "Ep 11",
+     "title": "Şebnem'in Hipnoz Seansı Başlıyor | Kaçak Gelinler",
+     "gist": "Hypnotist: Almila. Wife: no (runaway bride)."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description",
+   "already_married": "no",
+   "already_married_note": "no (runaway bride)",
+   "format": "tv",
+   "categories": [
+    "other-control",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): Şebnem'in Hipnoz Seansı Başlıyor | Kaçak Gelinler",
+     "url": "https://www.youtube.com/watch?v=j-dTbHdibIo"
+    }
+   ],
+   "youtube_ids": [
+    "j-dTbHdibIo"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:21"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/j-dTbHdibIo.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:21": {
+     "title": "Kaçak Gelinler",
+     "year": "2014",
+     "format": "tv",
+     "meta": "Turkey · Show TV comedy",
+     "mechanism": "hypnosis",
+     "summary": "Almila hypnotizes Şebnem in a session to make her remember. Hypnotist: Almila. Wife: no (runaway bride).",
+     "character": "Şebnem",
+     "categories": [
+      "other-control",
+      "human"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 11",
+       "title": "Şebnem'in Hipnoz Seansı Başlıyor | Kaçak Gelinler",
+       "gist": "Hypnotist: Almila. Wife: no (runaway bride)."
+      }
+     ],
+     "already_married": "no",
+     "already_married_note": "no (runaway bride)",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): Şebnem'in Hipnoz Seansı Başlıyor | Kaçak Gelinler",
+       "url": "https://www.youtube.com/watch?v=j-dTbHdibIo"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3067,
+   "title": "Éramos Seis",
+   "subtitle": "",
+   "year": "2019–20",
+   "meta": "Brazil · TV Globo telenovela",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Justina remembers her father's death through a pendulum hypnosis session, exposing Emília's lie. Hypnotist: hypnotist with pendulum (session arranged by her sister). Wife: no. Caption timestamp: 00:02:22, 00:02:48.",
+   "character": "Justina",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "Feb 2020 chapters",
+     "title": "Éramos Seis – Justina se lembra da morte do pai com ajuda de hipnose",
+     "gist": "Hypnotist: hypnotist with pendulum (session arranged by her sister). Wife: no. Caption timestamp: 00:02:22, 00:02:48.",
+     "timestamp": "00:02:22, 00:02:48"
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description + auto-captions",
+   "already_married": "no",
+   "already_married_note": "no",
+   "format": "tv",
+   "categories": [
+    "medical",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): Éramos Seis – Justina se lembra da morte do pai com ajuda de hipnose",
+     "url": "https://www.youtube.com/watch?v=kc3nRok9nt8"
+    }
+   ],
+   "youtube_ids": [
+    "kc3nRok9nt8"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:24"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/kc3nRok9nt8.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:24": {
+     "title": "Éramos Seis",
+     "year": "2019–20",
+     "format": "tv",
+     "meta": "Brazil · TV Globo telenovela",
+     "mechanism": "hypnosis",
+     "summary": "Justina remembers her father's death through a pendulum hypnosis session, exposing Emília's lie. Hypnotist: hypnotist with pendulum (session arranged by her sister). Wife: no. Caption timestamp: 00:02:22, 00:02:48.",
+     "character": "Justina",
+     "categories": [
+      "medical",
+      "other-control"
+     ],
+     "episodes": [
+      {
+       "episode": "Feb 2020 chapters",
+       "title": "Éramos Seis – Justina se lembra da morte do pai com ajuda de hipnose",
+       "gist": "Hypnotist: hypnotist with pendulum (session arranged by her sister). Wife: no. Caption timestamp: 00:02:22, 00:02:48.",
+       "timestamp": "00:02:22, 00:02:48"
+      }
+     ],
+     "already_married": "no",
+     "already_married_note": "no",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): Éramos Seis – Justina se lembra da morte do pai com ajuda de hipnose",
+       "url": "https://www.youtube.com/watch?v=kc3nRok9nt8"
+      }
+     ],
+     "evidence": "official channel upload: title + description + auto-captions",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3068,
+   "title": "Bad Beauty (โฉมโฉด)",
+   "subtitle": "",
+   "year": "2022",
+   "meta": "Thailand · AIS PLAY series",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "A psychiatrist hypnotizes his patient — the mistress — so she will attack his wife. Hypnotist: a psychiatrist. Wife: no (she is the mistress; target is the wife).",
+   "character": "the mistress (patient)",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "EP 12",
+     "title": "สะกดจิตเมียน้อยไปสิ | โฉมโฉด Highlight EP.12",
+     "gist": "Hypnotist: a psychiatrist. Wife: no (she is the mistress; target is the wife)."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description",
+   "already_married": "no",
+   "already_married_note": "no (she is the mistress; target is the wife)",
+   "format": "tv",
+   "categories": [
+    "therapist-wife",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): สะกดจิตเมียน้อยไปสิ | โฉมโฉด Highlight EP.12",
+     "url": "https://www.youtube.com/watch?v=L62HvP30Fr4"
+    }
+   ],
+   "youtube_ids": [
+    "L62HvP30Fr4"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:25"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/L62HvP30Fr4.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:25": {
+     "title": "Bad Beauty (โฉมโฉด)",
+     "year": "2022",
+     "format": "tv",
+     "meta": "Thailand · AIS PLAY series",
+     "mechanism": "hypnosis",
+     "summary": "A psychiatrist hypnotizes his patient — the mistress — so she will attack his wife. Hypnotist: a psychiatrist. Wife: no (she is the mistress; target is the wife).",
+     "character": "the mistress (patient)",
+     "categories": [
+      "therapist-wife",
+      "medical"
+     ],
+     "episodes": [
+      {
+       "episode": "EP 12",
+       "title": "สะกดจิตเมียน้อยไปสิ | โฉมโฉด Highlight EP.12",
+       "gist": "Hypnotist: a psychiatrist. Wife: no (she is the mistress; target is the wife)."
+      }
+     ],
+     "already_married": "no",
+     "already_married_note": "no (she is the mistress; target is the wife)",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): สะกดจิตเมียน้อยไปสิ | โฉมโฉด Highlight EP.12",
+       "url": "https://www.youtube.com/watch?v=L62HvP30Fr4"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3069,
+   "title": "Hypnotic Revenge (จิตสะกดแค้น)",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Thailand · one31 lakorn",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Hypnosis is used to extract secrets; in EP9 a woman is hypnotized into believing she is someone's wife. Hypnotist: the hypnotist protagonist. Wife: made to believe she is a wife.",
+   "character": "hypnotized woman",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "EP 9",
+     "title": "แผนการล้วงความลับ! สะกดจิตหลอกเป็นเมีย | Highlight จิตสะกดแค้น EP9",
+     "gist": "Hypnotist: the hypnotist protagonist. Wife: made to believe she is a wife."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description",
+   "already_married": "unknown",
+   "already_married_note": "made to believe she is a wife",
+   "format": "tv",
+   "categories": [
+    "wife-hypnotized",
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): แผนการล้วงความลับ! สะกดจิตหลอกเป็นเมีย | Highlight จิตสะกดแค้น EP9",
+     "url": "https://www.youtube.com/watch?v=CFauXd8gk7k"
+    }
+   ],
+   "youtube_ids": [
+    "CFauXd8gk7k"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:26"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/CFauXd8gk7k.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:26": {
+     "title": "Hypnotic Revenge (จิตสะกดแค้น)",
+     "year": "2025",
+     "format": "tv",
+     "meta": "Thailand · one31 lakorn",
+     "mechanism": "hypnosis",
+     "summary": "Hypnosis is used to extract secrets; in EP9 a woman is hypnotized into believing she is someone's wife. Hypnotist: the hypnotist protagonist. Wife: made to believe she is a wife.",
+     "character": "hypnotized woman",
+     "categories": [
+      "wife-hypnotized",
+      "crime"
+     ],
+     "episodes": [
+      {
+       "episode": "EP 9",
+       "title": "แผนการล้วงความลับ! สะกดจิตหลอกเป็นเมีย | Highlight จิตสะกดแค้น EP9",
+       "gist": "Hypnotist: the hypnotist protagonist. Wife: made to believe she is a wife."
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "made to believe she is a wife",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): แผนการล้วงความลับ! สะกดจิตหลอกเป็นเมีย | Highlight จิตสะกดแค้น EP9",
+       "url": "https://www.youtube.com/watch?v=CFauXd8gk7k"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3070,
+   "title": "Phanom Naka (พนมนาคา)",
+   "subtitle": "",
+   "year": "2023",
+   "meta": "Thailand · one31 lakorn",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Doctor Asia is hypnotized into dancing to recall a past life. Hypnotist: not named in upload. Wife: no.",
+   "character": "Asia (Green Asadaporn)",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "Ep 4",
+     "title": "สะกดจิตให้เธอรำ ระลึกความหลังในอดีต?! | Highlight พนมนาคา Ep.04",
+     "gist": "Hypnotist: not named in upload. Wife: no."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description",
+   "already_married": "no",
+   "already_married_note": "no",
+   "format": "tv",
+   "categories": [
+    "spirit",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): สะกดจิตให้เธอรำ ระลึกความหลังในอดีต?! | Highlight พนมนาคา Ep.04",
+     "url": "https://www.youtube.com/watch?v=t-TfJ0Rt6_g"
+    }
+   ],
+   "youtube_ids": [
+    "t-TfJ0Rt6_g"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:27"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/t-TfJ0Rt6_g.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:27": {
+     "title": "Phanom Naka (พนมนาคา)",
+     "year": "2023",
+     "format": "tv",
+     "meta": "Thailand · one31 lakorn",
+     "mechanism": "hypnosis",
+     "summary": "Doctor Asia is hypnotized into dancing to recall a past life. Hypnotist: not named in upload. Wife: no.",
+     "character": "Asia (Green Asadaporn)",
+     "categories": [
+      "spirit",
+      "fantasy"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 4",
+       "title": "สะกดจิตให้เธอรำ ระลึกความหลังในอดีต?! | Highlight พนมนาคา Ep.04",
+       "gist": "Hypnotist: not named in upload. Wife: no."
+      }
+     ],
+     "already_married": "no",
+     "already_married_note": "no",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): สะกดจิตให้เธอรำ ระลึกความหลังในอดีต?! | Highlight พนมนาคา Ep.04",
+       "url": "https://www.youtube.com/watch?v=t-TfJ0Rt6_g"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3071,
+   "title": "Mani Phayabat (มณีพยาบาท)",
+   "subtitle": "",
+   "year": "2023",
+   "meta": "Thailand · one31 lakorn",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Mukda forces her way in and hypnotizes Ploy Rung. Hypnotist: Mukda. Wife: unknown.",
+   "character": "Ploy Rung",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "EP 7",
+     "title": "มุกดาบุกสะกดจิตพลอยรุ้ง | Highlight #มณีพยาบาท EP7",
+     "gist": "Hypnotist: Mukda. Wife: unknown."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
+   "format": "tv",
+   "categories": [
+    "spirit",
+    "evil-female"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): มุกดาบุกสะกดจิตพลอยรุ้ง | Highlight #มณีพยาบาท EP7",
+     "url": "https://www.youtube.com/watch?v=5xa9UJD0M5Y"
+    }
+   ],
+   "youtube_ids": [
+    "5xa9UJD0M5Y"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:28"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/5xa9UJD0M5Y.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:28": {
+     "title": "Mani Phayabat (มณีพยาบาท)",
+     "year": "2023",
+     "format": "tv",
+     "meta": "Thailand · one31 lakorn",
+     "mechanism": "hypnosis",
+     "summary": "Mukda forces her way in and hypnotizes Ploy Rung. Hypnotist: Mukda. Wife: unknown.",
+     "character": "Ploy Rung",
+     "categories": [
+      "spirit",
+      "evil-female"
+     ],
+     "episodes": [
+      {
+       "episode": "EP 7",
+       "title": "มุกดาบุกสะกดจิตพลอยรุ้ง | Highlight #มณีพยาบาท EP7",
+       "gist": "Hypnotist: Mukda. Wife: unknown."
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): มุกดาบุกสะกดจิตพลอยรุ้ง | Highlight #มณีพยาบาท EP7",
+       "url": "https://www.youtube.com/watch?v=5xa9UJD0M5Y"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3072,
+   "title": "Maiden Holmes (少女大人)",
+   "subtitle": "",
+   "year": "2020",
+   "meta": "China · Tencent costume drama",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Su Ci is hypnotized into trying to kill herself; Prince Qi arrives in time. Hypnotist: a painter (per related clip). Wife: no.",
+   "character": "Su Ci",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "EP 12",
+     "title": "EP12 Clip 苏瓷被催眠想自杀，齐王及时赶到阻止【少女大人 Maiden Holmes】",
+     "gist": "Hypnotist: a painter (per related clip). Wife: no."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description",
+   "already_married": "no",
+   "already_married_note": "no",
+   "format": "tv",
+   "categories": [
+    "other-control",
+    "royal-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): EP12 Clip 苏瓷被催眠想自杀，齐王及时赶到阻止【少女大人 Maiden Holmes】",
+     "url": "https://www.youtube.com/watch?v=L1FWnpa8G0g"
+    }
+   ],
+   "youtube_ids": [
+    "L1FWnpa8G0g"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:29"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/L1FWnpa8G0g.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:29": {
+     "title": "Maiden Holmes (少女大人)",
+     "year": "2020",
+     "format": "tv",
+     "meta": "China · Tencent costume drama",
+     "mechanism": "hypnosis",
+     "summary": "Su Ci is hypnotized into trying to kill herself; Prince Qi arrives in time. Hypnotist: a painter (per related clip). Wife: no.",
+     "character": "Su Ci",
+     "categories": [
+      "other-control",
+      "royal-hypnosis"
+     ],
+     "episodes": [
+      {
+       "episode": "EP 12",
+       "title": "EP12 Clip 苏瓷被催眠想自杀，齐王及时赶到阻止【少女大人 Maiden Holmes】",
+       "gist": "Hypnotist: a painter (per related clip). Wife: no."
+      }
+     ],
+     "already_married": "no",
+     "already_married_note": "no",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): EP12 Clip 苏瓷被催眠想自杀，齐王及时赶到阻止【少女大人 Maiden Holmes】",
+       "url": "https://www.youtube.com/watch?v=L1FWnpa8G0g"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3073,
+   "title": "Wonderful Hand (妙手)",
+   "subtitle": "",
+   "year": "2023",
+   "meta": "China · Youku medical drama",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Lin Hao uses hypnosis to cure He Xinxin's fear of blood. Hypnotist: Dr. Lin Hao. Wife: no.",
+   "character": "He Xinxin",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "EP 2–3",
+     "title": "EP02-03 林昊用催眠术治何心欣晕血症 | 妙手 Wonderful Hand",
+     "gist": "Hypnotist: Dr. Lin Hao. Wife: no."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description",
+   "already_married": "no",
+   "already_married_note": "no",
+   "format": "tv",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): EP02-03 林昊用催眠术治何心欣晕血症 | 妙手 Wonderful Hand",
+     "url": "https://www.youtube.com/watch?v=DZ3aMY28GdY"
+    }
+   ],
+   "youtube_ids": [
+    "DZ3aMY28GdY"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:30"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/DZ3aMY28GdY.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:30": {
+     "title": "Wonderful Hand (妙手)",
+     "year": "2023",
+     "format": "tv",
+     "meta": "China · Youku medical drama",
+     "mechanism": "hypnosis",
+     "summary": "Lin Hao uses hypnosis to cure He Xinxin's fear of blood. Hypnotist: Dr. Lin Hao. Wife: no.",
+     "character": "He Xinxin",
+     "categories": [
+      "medical"
+     ],
+     "episodes": [
+      {
+       "episode": "EP 2–3",
+       "title": "EP02-03 林昊用催眠术治何心欣晕血症 | 妙手 Wonderful Hand",
+       "gist": "Hypnotist: Dr. Lin Hao. Wife: no."
+      }
+     ],
+     "already_married": "no",
+     "already_married_note": "no",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): EP02-03 林昊用催眠术治何心欣晕血症 | 妙手 Wonderful Hand",
+       "url": "https://www.youtube.com/watch?v=DZ3aMY28GdY"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3074,
+   "title": "Crucial Moment: Hypnosis (關鍵時刻 催眠)",
+   "subtitle": "",
+   "year": "2019",
+   "meta": "Taiwan · FTV docudrama",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Two-part 'Hypnosis' story in the anthology docudrama. Hypnotist: not named in upload. Wife: unknown.",
+   "character": "female lead (Wang Yun-ting cast)",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "EP 124–125",
+     "title": "關鍵時刻 EP124｜催眠(上)",
+     "gist": "Hypnotist: not named in upload. Wife: unknown."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
+   "format": "tv",
+   "categories": [
+    "crime",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): 關鍵時刻 EP124｜催眠(上)",
+     "url": "https://www.youtube.com/watch?v=fcasZdQPTXE"
+    }
+   ],
+   "youtube_ids": [
+    "fcasZdQPTXE"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:31"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/fcasZdQPTXE.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:31": {
+     "title": "Crucial Moment: Hypnosis (關鍵時刻 催眠)",
+     "year": "2019",
+     "format": "tv",
+     "meta": "Taiwan · FTV docudrama",
+     "mechanism": "hypnosis",
+     "summary": "Two-part 'Hypnosis' story in the anthology docudrama. Hypnotist: not named in upload. Wife: unknown.",
+     "character": "female lead (Wang Yun-ting cast)",
+     "categories": [
+      "crime",
+      "human"
+     ],
+     "episodes": [
+      {
+       "episode": "EP 124–125",
+       "title": "關鍵時刻 EP124｜催眠(上)",
+       "gist": "Hypnotist: not named in upload. Wife: unknown."
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): 關鍵時刻 EP124｜催眠(上)",
+       "url": "https://www.youtube.com/watch?v=fcasZdQPTXE"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3075,
+   "title": "One Family (一家人)",
+   "subtitle": "",
+   "year": "2000s",
+   "meta": "Taiwan · serial (fan clip)",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Xiaodong hypnotizes herself into a pregnancy and really becomes pregnant (ep 100). Hypnotist: self-hypnosis. Wife: unknown.",
+   "character": "Xiaodong",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Uploader's title says she really became pregnant after self-hypnosis.",
+   "episodes": [
+    {
+     "episode": "Ep 100",
+     "title": "一家人 | 100集 | 曉冬竟然自我催眠成功真的懷孕了",
+     "gist": "Hypnotist: self-hypnosis. Wife: unknown."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "yes",
+   "evidence": "fan clip; title only",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
+   "format": "tv",
+   "categories": [
+    "pregnant-variants",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): 一家人 | 100集 | 曉冬竟然自我催眠成功真的懷孕了",
+     "url": "https://www.youtube.com/watch?v=KOboZBj9XV4"
+    }
+   ],
+   "youtube_ids": [
+    "KOboZBj9XV4"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:32"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/KOboZBj9XV4.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:32": {
+     "title": "One Family (一家人)",
+     "year": "2000s",
+     "format": "tv",
+     "meta": "Taiwan · serial (fan clip)",
+     "mechanism": "hypnosis",
+     "summary": "Xiaodong hypnotizes herself into a pregnancy and really becomes pregnant (ep 100). Hypnotist: self-hypnosis. Wife: unknown.",
+     "character": "Xiaodong",
+     "categories": [
+      "pregnant-variants",
+      "human"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 100",
+       "title": "一家人 | 100集 | 曉冬竟然自我催眠成功真的懷孕了",
+       "gist": "Hypnotist: self-hypnosis. Wife: unknown."
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "yes",
+     "pregnancy_note": "Uploader's title says she really became pregnant after self-hypnosis.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): 一家人 | 100集 | 曉冬竟然自我催眠成功真的懷孕了",
+       "url": "https://www.youtube.com/watch?v=KOboZBj9XV4"
+      }
+     ],
+     "evidence": "fan clip; title only",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3076,
+   "title": "Potato Star 2013QR3 (감자별)",
+   "subtitle": "",
+   "year": "2014",
+   "meta": "South Korea · tvN sitcom",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "A pregnant wife's morning sickness is treated with hypnosis so she can picture vegetables on her husband's face (EP116). Hypnotist: a hypnotist (therapy). Wife: yes. Caption timestamp: 00:01:29.",
+   "character": "pregnant wife",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "She is pregnant (morning sickness) in this episode.",
+   "episodes": [
+    {
+     "episode": "EP 116",
+     "title": "[D라마] EP116-04 입덧 때문에 급기야 최면술까지 도입? | #감자별",
+     "gist": "Hypnotist: a hypnotist (therapy). Wife: yes. Caption timestamp: 00:01:29.",
+     "timestamp": "00:01:29"
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "yes",
+   "evidence": "official channel upload: title + description + auto-captions",
+   "already_married": "yes",
+   "already_married_note": "yes",
+   "format": "tv",
+   "categories": [
+    "pregnant-variants",
+    "wife-hypnotized"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): [D라마] EP116-04 입덧 때문에 급기야 최면술까지 도입? | #감자별",
+     "url": "https://www.youtube.com/watch?v=XeBi7q8kch0"
+    }
+   ],
+   "youtube_ids": [
+    "XeBi7q8kch0"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:33"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/XeBi7q8kch0.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:33": {
+     "title": "Potato Star 2013QR3 (감자별)",
+     "year": "2014",
+     "format": "tv",
+     "meta": "South Korea · tvN sitcom",
+     "mechanism": "hypnosis",
+     "summary": "A pregnant wife's morning sickness is treated with hypnosis so she can picture vegetables on her husband's face (EP116). Hypnotist: a hypnotist (therapy). Wife: yes. Caption timestamp: 00:01:29.",
+     "character": "pregnant wife",
+     "categories": [
+      "pregnant-variants",
+      "wife-hypnotized"
+     ],
+     "episodes": [
+      {
+       "episode": "EP 116",
+       "title": "[D라마] EP116-04 입덧 때문에 급기야 최면술까지 도입? | #감자별",
+       "gist": "Hypnotist: a hypnotist (therapy). Wife: yes. Caption timestamp: 00:01:29.",
+       "timestamp": "00:01:29"
+      }
+     ],
+     "already_married": "yes",
+     "already_married_note": "yes",
+     "pregnant_end": "yes",
+     "pregnancy_note": "She is pregnant (morning sickness) in this episode.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): [D라마] EP116-04 입덧 때문에 급기야 최면술까지 도입? | #감자별",
+       "url": "https://www.youtube.com/watch?v=XeBi7q8kch0"
+      }
+     ],
+     "evidence": "official channel upload: title + description + auto-captions",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3077,
+   "title": "Woman's Secret (여자의 비밀)",
+   "subtitle": "",
+   "year": "2016",
+   "meta": "South Korea · KBS2 daily drama",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Yoo-jung (So Yi-hyun) recalls an accident under hypnotherapy and cries. Hypnotist: a therapist. Wife: unknown.",
+   "character": "Kang Ji-yoo (So Yi-hyun)",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "28 Jul 2016 episode",
+     "title": "여자의 비밀 - 소이현, 최면 치료에서 사고 떠올리며 '눈물'",
+     "gist": "Hypnotist: a therapist. Wife: unknown."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
+   "format": "tv",
+   "categories": [
+    "medical",
+    "therapist-wife"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): 여자의 비밀 - 소이현, 최면 치료에서 사고 떠올리며 '눈물'",
+     "url": "https://www.youtube.com/watch?v=5IjfbbbFaBg"
+    }
+   ],
+   "youtube_ids": [
+    "5IjfbbbFaBg"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:34"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/5IjfbbbFaBg.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:34": {
+     "title": "Woman's Secret (여자의 비밀)",
+     "year": "2016",
+     "format": "tv",
+     "meta": "South Korea · KBS2 daily drama",
+     "mechanism": "hypnosis",
+     "summary": "Yoo-jung (So Yi-hyun) recalls an accident under hypnotherapy and cries. Hypnotist: a therapist. Wife: unknown.",
+     "character": "Kang Ji-yoo (So Yi-hyun)",
+     "categories": [
+      "medical",
+      "therapist-wife"
+     ],
+     "episodes": [
+      {
+       "episode": "28 Jul 2016 episode",
+       "title": "여자의 비밀 - 소이현, 최면 치료에서 사고 떠올리며 '눈물'",
+       "gist": "Hypnotist: a therapist. Wife: unknown."
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): 여자의 비밀 - 소이현, 최면 치료에서 사고 떠올리며 '눈물'",
+       "url": "https://www.youtube.com/watch?v=5IjfbbbFaBg"
+      }
+     ],
+     "evidence": "official channel upload: title + description",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3078,
+   "title": "Doll House (인형의 집)",
+   "subtitle": "",
+   "year": "2018",
+   "meta": "South Korea · KBS2 daily drama",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Kkot-nim (Bae Noo-ri) worries about the memories hypnosis may bring back. Hypnotist: a therapist. Wife: unknown. Caption timestamp: 00:01:06.",
+   "character": "Kkot-nim (Bae Noo-ri)",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "2 Apr 2018 episode",
+     "title": "인형의 집 - 배누리, 최면으로 되살릴 기억에 걱정",
+     "gist": "Hypnotist: a therapist. Wife: unknown. Caption timestamp: 00:01:06.",
+     "timestamp": "00:01:06"
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description + auto-captions",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
+   "format": "tv",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): 인형의 집 - 배누리, 최면으로 되살릴 기억에 걱정",
+     "url": "https://www.youtube.com/watch?v=Zr3eWziHVyA"
+    }
+   ],
+   "youtube_ids": [
+    "Zr3eWziHVyA"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:35"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/Zr3eWziHVyA.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:35": {
+     "title": "Doll House (인형의 집)",
+     "year": "2018",
+     "format": "tv",
+     "meta": "South Korea · KBS2 daily drama",
+     "mechanism": "hypnosis",
+     "summary": "Kkot-nim (Bae Noo-ri) worries about the memories hypnosis may bring back. Hypnotist: a therapist. Wife: unknown. Caption timestamp: 00:01:06.",
+     "character": "Kkot-nim (Bae Noo-ri)",
+     "categories": [
+      "medical"
+     ],
+     "episodes": [
+      {
+       "episode": "2 Apr 2018 episode",
+       "title": "인형의 집 - 배누리, 최면으로 되살릴 기억에 걱정",
+       "gist": "Hypnotist: a therapist. Wife: unknown. Caption timestamp: 00:01:06.",
+       "timestamp": "00:01:06"
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): 인형의 집 - 배누리, 최면으로 되살릴 기억에 걱정",
+       "url": "https://www.youtube.com/watch?v=Zr3eWziHVyA"
+      }
+     ],
+     "evidence": "official channel upload: title + description + auto-captions",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3079,
+   "title": "Psychologists 2 (Психологини)",
+   "subtitle": "",
+   "year": "2019",
+   "meta": "Russia · STS series (fan clip)",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Alina under hypnosis with Matvey. Hypnotist: Matvey. Wife: no.",
+   "character": "Alina",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "season 2",
+     "title": "Психологини - 2 \\ Матвей и Алина \\- под гипнозом",
+     "gist": "Hypnotist: Matvey. Wife: no."
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "fan clip; title only",
+   "already_married": "no",
+   "already_married_note": "no",
+   "format": "tv",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): Психологини - 2 \\ Матвей и Алина \\- под гипнозом",
+     "url": "https://www.youtube.com/watch?v=kPlF72UGO-k"
+    }
+   ],
+   "youtube_ids": [
+    "kPlF72UGO-k"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:36"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/kPlF72UGO-k.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:36": {
+     "title": "Psychologists 2 (Психологини)",
+     "year": "2019",
+     "format": "tv",
+     "meta": "Russia · STS series (fan clip)",
+     "mechanism": "hypnosis",
+     "summary": "Alina under hypnosis with Matvey. Hypnotist: Matvey. Wife: no.",
+     "character": "Alina",
+     "categories": [
+      "medical"
+     ],
+     "episodes": [
+      {
+       "episode": "season 2",
+       "title": "Психологини - 2 \\ Матвей и Алина \\- под гипнозом",
+       "gist": "Hypnotist: Matvey. Wife: no."
+      }
+     ],
+     "already_married": "no",
+     "already_married_note": "no",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): Психологини - 2 \\ Матвей и Алина \\- под гипнозом",
+       "url": "https://www.youtube.com/watch?v=kPlF72UGO-k"
+      }
+     ],
+     "evidence": "fan clip; title only",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3080,
+   "title": "Habitación 309 (No: 309)",
+   "subtitle": "",
+   "year": "2016–17",
+   "meta": "Turkey · FOX (Spanish dub)",
+   "mechanism": "hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "Filiz recovers from hypnosis after being linked to a plot. Hypnotist: not named in upload. Wife: unknown. Caption timestamp: 00:02:37.",
+   "character": "Filiz",
+   "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the official channel's upload.",
+   "pregnancy_note": "Not stated in the official upload.",
+   "episodes": [
+    {
+     "episode": "Cap. 155",
+     "title": "Filiz Recuperada De La Hipnosis - Habitación 309",
+     "gist": "Hypnotist: not named in upload. Wife: unknown. Caption timestamp: 00:02:37.",
+     "timestamp": "00:02:37"
+    }
+   ],
+   "tags": [
+    "youtube-deep-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "official channel upload: title + description + auto-captions",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
+   "format": "tv",
+   "categories": [
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (official channel): Filiz Recuperada De La Hipnosis - Habitación 309",
+     "url": "https://www.youtube.com/watch?v=ZBr9wiIJS1I"
+    }
+   ],
+   "youtube_ids": [
+    "ZBr9wiIJS1I"
+   ],
+   "from_sources": [
+    "youtube-deep-oct15"
+   ],
+   "source_records": [
+    "youtube-deep-oct15:37"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/ZBr9wiIJS1I.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-deep-oct15:37": {
+     "title": "Habitación 309 (No: 309)",
+     "year": "2016–17",
+     "format": "tv",
+     "meta": "Turkey · FOX (Spanish dub)",
+     "mechanism": "hypnosis",
+     "summary": "Filiz recovers from hypnosis after being linked to a plot. Hypnotist: not named in upload. Wife: unknown. Caption timestamp: 00:02:37.",
+     "character": "Filiz",
+     "categories": [
+      "other-control"
+     ],
+     "episodes": [
+      {
+       "episode": "Cap. 155",
+       "title": "Filiz Recuperada De La Hipnosis - Habitación 309",
+       "gist": "Hypnotist: not named in upload. Wife: unknown. Caption timestamp: 00:02:37.",
+       "timestamp": "00:02:37"
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the official upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube (official channel): Filiz Recuperada De La Hipnosis - Habitación 309",
+       "url": "https://www.youtube.com/watch?v=ZBr9wiIJS1I"
+      }
+     ],
+     "evidence": "official channel upload: title + description + auto-captions",
+     "confidence_flag": "loose fit",
+     "provenance": "YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "note": "loose fit: confirmed only from the official channel's upload.",
+     "tags": [
+      "youtube-deep-oct15"
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -451513,6 +455817,12 @@
         "Pregnant woman hypnotized while pregnant — strict core",
         "Soap, serial and telenovela hypnosis arcs",
         "High confidence"
+       ],
+       "sources": [
+        {
+         "label": "observatoriodatv.com.br",
+         "url": "https://observatoriodatv.com.br/noticias/gor-hipnotiza-equipe-da-progenese-em-caminhos-do-coracao"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -454055,7 +458365,8 @@
     "recap-imdb-oct15",
     "indian-parallel-oct15",
     "hypnotized-female-oct15",
-    "hypno-turkey-oct15"
+    "hypno-turkey-oct15",
+    "youtube-deep-oct15"
    ],
    "groups": [
     {
@@ -454648,6 +458959,21 @@
       }
      ],
      "from_source": "hypno-turkey-oct15"
+    },
+    {
+     "title": "YouTube deep sweep — official channel episodes",
+     "notes": [],
+     "items": [
+      {
+       "id": 3058,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 335,
+       "from_source": "youtube-deep-oct15"
+      }
+     ],
+     "from_source": "youtube-deep-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -454665,7 +458991,8 @@
     "recap-imdb-oct15": null,
     "indian-parallel-oct15": null,
     "hypnotized-female-oct15": null,
-    "hypno-turkey-oct15": null
+    "hypno-turkey-oct15": null,
+    "youtube-deep-oct15": null
    }
   },
   {
@@ -454709,7 +459036,8 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "round3",
-    "deep-gap-oct15"
+    "deep-gap-oct15",
+    "youtube-deep-oct15"
    ],
    "groups": [
     {
@@ -455079,11 +459407,23 @@
       }
      ],
      "from_source": "deep-gap-oct15"
+    },
+    {
+     "title": "YouTube deep sweep — official channel episodes",
+     "notes": [],
+     "items": [
+      {
+       "id": 3057,
+       "from_source": "youtube-deep-oct15"
+      }
+     ],
+     "from_source": "youtube-deep-oct15"
     }
    ],
    "declared_count_by_source": {
     "round3": null,
-    "deep-gap-oct15": null
+    "deep-gap-oct15": null,
+    "youtube-deep-oct15": null
    }
   },
   {
@@ -455430,7 +459770,8 @@
     "indian-parallel-oct15",
     "hypnotized-female-oct15",
     "kr-cn-hypnosis",
-    "gap-check-vertical-oct15"
+    "gap-check-vertical-oct15",
+    "youtube-deep-oct15"
    ],
    "groups": [
     {
@@ -456258,6 +460599,12 @@
         "Female hypnosis / mind control — India",
         "Trance",
         "Medium"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Naagin"
+        }
        ],
        "provenance": "Source basis: India-only research pass, 30 Sep 2026 (Mental Block wiki)",
        "from_source": "xla62ucxbx02u5"
@@ -457464,6 +461811,21 @@
       }
      ],
      "from_source": "gap-check-vertical-oct15"
+    },
+    {
+     "title": "YouTube deep sweep — official channel episodes",
+     "notes": [],
+     "items": [
+      {
+       "id": 3049,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3070,
+       "from_source": "youtube-deep-oct15"
+      }
+     ],
+     "from_source": "youtube-deep-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -457485,7 +461847,8 @@
     "indian-parallel-oct15": null,
     "hypnotized-female-oct15": null,
     "kr-cn-hypnosis": null,
-    "gap-check-vertical-oct15": null
+    "gap-check-vertical-oct15": null,
+    "youtube-deep-oct15": null
    }
   },
   {
@@ -458360,7 +462723,8 @@
     "official-yt-oct15",
     "streaming-oct15",
     "indian-parallel-oct15",
-    "youtube-sweep-oct15"
+    "youtube-sweep-oct15",
+    "youtube-deep-oct15"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 57,
@@ -458380,7 +462744,8 @@
     "official-yt-oct15": null,
     "streaming-oct15": null,
     "indian-parallel-oct15": null,
-    "youtube-sweep-oct15": null
+    "youtube-sweep-oct15": null,
+    "youtube-deep-oct15": null
    },
    "groups": [
     {
@@ -459705,6 +464070,25 @@
       }
      ],
      "from_source": "youtube-sweep-oct15"
+    },
+    {
+     "title": "YouTube deep sweep — official channel episodes",
+     "notes": [],
+     "items": [
+      {
+       "id": 3061,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3063,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3064,
+       "from_source": "youtube-deep-oct15"
+      }
+     ],
+     "from_source": "youtube-deep-oct15"
     }
    ]
   },
@@ -460776,7 +465160,8 @@
     "kr-cn-hypnosis",
     "kr-cn-hypnosis-r2",
     "youtube-sweep-oct15",
-    "gap-check-vertical-oct15"
+    "gap-check-vertical-oct15",
+    "youtube-deep-oct15"
    ],
    "groups": [
     {
@@ -464893,6 +469278,65 @@
       }
      ],
      "from_source": "gap-check-vertical-oct15"
+    },
+    {
+     "title": "YouTube deep sweep — official channel episodes",
+     "notes": [],
+     "items": [
+      {
+       "id": 3065,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3048,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3074,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3055,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3053,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3066,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3062,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3075,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3051,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3050,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3052,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3054,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3047,
+       "from_source": "youtube-deep-oct15"
+      }
+     ],
+     "from_source": "youtube-deep-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -464920,7 +469364,8 @@
     "kr-cn-hypnosis": null,
     "kr-cn-hypnosis-r2": null,
     "youtube-sweep-oct15": null,
-    "gap-check-vertical-oct15": null
+    "gap-check-vertical-oct15": null,
+    "youtube-deep-oct15": null
    }
   },
   {
@@ -465202,7 +469647,8 @@
     "fanwiki-screen-oct14",
     "official-yt-oct15",
     "streaming-oct15",
-    "kr-cn-hypnosis"
+    "kr-cn-hypnosis",
+    "youtube-deep-oct15"
    ],
    "groups": [
     {
@@ -465845,6 +470291,17 @@
       }
      ],
      "from_source": "streaming-oct15"
+    },
+    {
+     "title": "YouTube deep sweep — official channel episodes",
+     "notes": [],
+     "items": [
+      {
+       "id": 3060,
+       "from_source": "youtube-deep-oct15"
+      }
+     ],
+     "from_source": "youtube-deep-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -465861,7 +470318,8 @@
     "fanwiki-screen-oct14": null,
     "official-yt-oct15": null,
     "streaming-oct15": null,
-    "kr-cn-hypnosis": null
+    "kr-cn-hypnosis": null,
+    "youtube-deep-oct15": null
    }
   },
   {
@@ -466674,7 +471132,8 @@
     "fanwiki-screen-oct14",
     "kr-cn-hypnosis",
     "youtube-sweep-oct15",
-    "deep-gap-oct15"
+    "deep-gap-oct15",
+    "youtube-deep-oct15"
    ],
    "groups": [
     {
@@ -466870,6 +471329,12 @@
         "Human-villain control",
         "Trance",
         "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Sassaricando"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
@@ -467353,6 +471818,53 @@
       }
      ],
      "from_source": "deep-gap-oct15"
+    },
+    {
+     "title": "YouTube deep sweep — official channel episodes",
+     "notes": [],
+     "items": [
+      {
+       "id": 3064,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3074,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3055,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3053,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3069,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 23,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3056,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3051,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3052,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3054,
+       "from_source": "youtube-deep-oct15"
+      }
+     ],
+     "from_source": "youtube-deep-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -467368,7 +471880,8 @@
     "fanwiki-screen-oct14": null,
     "kr-cn-hypnosis": null,
     "youtube-sweep-oct15": null,
-    "deep-gap-oct15": null
+    "deep-gap-oct15": null,
+    "youtube-deep-oct15": null
    }
   },
   {
@@ -467381,7 +471894,8 @@
     "royal-hypnosis",
     "royal-hypnosis-loose",
     "new-angles-oct15",
-    "official-yt-oct15"
+    "official-yt-oct15",
+    "youtube-deep-oct15"
    ],
    "groups": [
     {
@@ -467627,13 +472141,25 @@
       }
      ],
      "from_source": "official-yt-oct15"
+    },
+    {
+     "title": "YouTube deep sweep — official channel episodes",
+     "notes": [],
+     "items": [
+      {
+       "id": 3072,
+       "from_source": "youtube-deep-oct15"
+      }
+     ],
+     "from_source": "youtube-deep-oct15"
     }
    ],
    "declared_count_by_source": {
     "royal-hypnosis": null,
     "royal-hypnosis-loose": null,
     "new-angles-oct15": null,
-    "official-yt-oct15": null
+    "official-yt-oct15": null,
+    "youtube-deep-oct15": null
    }
   },
   {
@@ -467677,7 +472203,8 @@
     "indonesia-sinetron-oct15",
     "hypno-turkey-oct15",
     "adult-fanmade-oct15",
-    "deep-gap-oct15"
+    "deep-gap-oct15",
+    "youtube-deep-oct15"
    ],
    "groups": [
     {
@@ -468571,6 +473098,20 @@
         "Hypnotized to love",
         "Hypnotism",
         "Borderline · index-verified"
+       ],
+       "sources": [
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt12009858"
+        },
+        {
+         "label": "YouTube",
+         "url": "https://www.youtube.com/watch?v=65HyWs4RnCE"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Magpakailanman"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -469647,6 +474188,25 @@
       }
      ],
      "from_source": "deep-gap-oct15"
+    },
+    {
+     "title": "YouTube deep sweep — official channel episodes",
+     "notes": [],
+     "items": [
+      {
+       "id": 3058,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3060,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3059,
+       "from_source": "youtube-deep-oct15"
+      }
+     ],
+     "from_source": "youtube-deep-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -469668,7 +474228,8 @@
     "indonesia-sinetron-oct15": null,
     "hypno-turkey-oct15": null,
     "adult-fanmade-oct15": null,
-    "deep-gap-oct15": null
+    "deep-gap-oct15": null,
+    "youtube-deep-oct15": null
    }
   },
   {
@@ -471557,7 +476118,8 @@
     "kr-cn-hypnosis-r2",
     "female-wife-scenes-oct15",
     "adult-fanmade-oct15",
-    "deep-gap-oct15"
+    "deep-gap-oct15",
+    "youtube-deep-oct15"
    ],
    "groups": [
     {
@@ -472846,6 +477408,45 @@
       }
      ],
      "from_source": "deep-gap-oct15"
+    },
+    {
+     "title": "YouTube deep sweep — official channel episodes",
+     "notes": [],
+     "items": [
+      {
+       "id": 3061,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3057,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3068,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3078,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3067,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3079,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3077,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3073,
+       "from_source": "youtube-deep-oct15"
+      }
+     ],
+     "from_source": "youtube-deep-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -472876,7 +477477,8 @@
     "kr-cn-hypnosis-r2": null,
     "female-wife-scenes-oct15": null,
     "adult-fanmade-oct15": null,
-    "deep-gap-oct15": null
+    "deep-gap-oct15": null,
+    "youtube-deep-oct15": null
    }
   },
   {
@@ -475445,7 +480047,8 @@
     "fanwiki-screen-oct14",
     "hypnotized-female-oct15",
     "youtube-sweep-oct15",
-    "deep-gap-oct15"
+    "deep-gap-oct15",
+    "youtube-deep-oct15"
    ],
    "groups": [
     {
@@ -476794,6 +481397,16 @@
         "Control mechanism unstated",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Tic_Tac_%28TV_series%29"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Tic_Tac_%28TV_series%29"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -477491,6 +482104,53 @@
       }
      ],
      "from_source": "deep-gap-oct15"
+    },
+    {
+     "title": "YouTube deep sweep — official channel episodes",
+     "notes": [],
+     "items": [
+      {
+       "id": 3049,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 694,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3048,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3067,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3080,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3066,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3072,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 1728,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3050,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3047,
+       "from_source": "youtube-deep-oct15"
+      }
+     ],
+     "from_source": "youtube-deep-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -477508,7 +482168,8 @@
     "fanwiki-screen-oct14": null,
     "hypnotized-female-oct15": null,
     "youtube-sweep-oct15": null,
-    "deep-gap-oct15": null
+    "deep-gap-oct15": null,
+    "youtube-deep-oct15": null
    }
   },
   {
@@ -479501,10 +484162,12 @@
    "description": "",
    "notes": [],
    "from_sources": [
-    "round3"
+    "round3",
+    "youtube-deep-oct15"
    ],
    "declared_count_by_source": {
-    "round3": null
+    "round3": null,
+    "youtube-deep-oct15": null
    },
    "groups": [
     {
@@ -479517,6 +484180,21 @@
       }
      ],
      "from_source": "round3"
+    },
+    {
+     "title": "YouTube deep sweep — official channel episodes",
+     "notes": [],
+     "items": [
+      {
+       "id": 3075,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3076,
+       "from_source": "youtube-deep-oct15"
+      }
+     ],
+     "from_source": "youtube-deep-oct15"
     }
    ]
   },
@@ -484735,7 +489413,8 @@
     "hypnosis-assault-loose",
     "royal-hypnosis-loose",
     "fanwiki-screen-oct14",
-    "hypnotized-female-oct15"
+    "hypnotized-female-oct15",
+    "youtube-deep-oct15"
    ],
    "groups": [
     {
@@ -488252,6 +492931,17 @@
       }
      ],
      "from_source": "hypnotized-female-oct15"
+    },
+    {
+     "title": "YouTube deep sweep — official channel episodes",
+     "notes": [],
+     "items": [
+      {
+       "id": 694,
+       "from_source": "youtube-deep-oct15"
+      }
+     ],
+     "from_source": "youtube-deep-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -488267,7 +492957,8 @@
     "hypnosis-assault-loose": null,
     "royal-hypnosis-loose": null,
     "fanwiki-screen-oct14": null,
-    "hypnotized-female-oct15": null
+    "hypnotized-female-oct15": null,
+    "youtube-deep-oct15": null
    }
   },
   {
@@ -488749,7 +493440,8 @@
     "telugu-deep-oct15",
     "official-yt-oct15",
     "streaming-oct15",
-    "hypnotized-female-oct15"
+    "hypnotized-female-oct15",
+    "youtube-deep-oct15"
    ],
    "groups": [
     {
@@ -489865,6 +494557,25 @@
       }
      ],
      "from_source": "hypnotized-female-oct15"
+    },
+    {
+     "title": "YouTube deep sweep — official channel episodes",
+     "notes": [],
+     "items": [
+      {
+       "id": 3063,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3071,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3070,
+       "from_source": "youtube-deep-oct15"
+      }
+     ],
+     "from_source": "youtube-deep-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -489875,7 +494586,8 @@
     "telugu-deep-oct15": null,
     "official-yt-oct15": null,
     "streaming-oct15": null,
-    "hypnotized-female-oct15": null
+    "hypnotized-female-oct15": null,
+    "youtube-deep-oct15": null
    }
   },
   {
@@ -490041,7 +494753,8 @@
     "official-yt-oct15",
     "streaming-oct15",
     "hypnotized-female-oct15",
-    "deep-gap-oct15"
+    "deep-gap-oct15",
+    "youtube-deep-oct15"
    ],
    "groups": [
     {
@@ -490515,6 +495228,17 @@
       }
      ],
      "from_source": "deep-gap-oct15"
+    },
+    {
+     "title": "YouTube deep sweep — official channel episodes",
+     "notes": [],
+     "items": [
+      {
+       "id": 3071,
+       "from_source": "youtube-deep-oct15"
+      }
+     ],
+     "from_source": "youtube-deep-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -490526,7 +495250,8 @@
     "official-yt-oct15": null,
     "streaming-oct15": null,
     "hypnotized-female-oct15": null,
-    "deep-gap-oct15": null
+    "deep-gap-oct15": null,
+    "youtube-deep-oct15": null
    }
   },
   {
@@ -495801,12 +500526,14 @@
    "from_sources": [
     "wife-hypnosis-oct15",
     "female-wife-scenes-oct15",
-    "gap-check-vertical-oct15"
+    "gap-check-vertical-oct15",
+    "youtube-deep-oct15"
    ],
    "declared_count_by_source": {
     "wife-hypnosis-oct15": null,
     "female-wife-scenes-oct15": null,
-    "gap-check-vertical-oct15": null
+    "gap-check-vertical-oct15": null,
+    "youtube-deep-oct15": null
    },
    "groups": [
     {
@@ -496277,6 +501004,33 @@
       }
      ],
      "from_source": "gap-check-vertical-oct15"
+    },
+    {
+     "title": "YouTube deep sweep — official channel episodes",
+     "notes": [],
+     "items": [
+      {
+       "id": 3065,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3069,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3062,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3056,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3076,
+       "from_source": "youtube-deep-oct15"
+      }
+     ],
+     "from_source": "youtube-deep-oct15"
     }
    ]
   },
@@ -496299,7 +501053,8 @@
     "hypnosis-assault",
     "hypnosis-assault-loose",
     "wife-hypnosis-oct15",
-    "female-wife-scenes-oct15"
+    "female-wife-scenes-oct15",
+    "youtube-deep-oct15"
    ],
    "groups": [
     {
@@ -496511,6 +501266,21 @@
       }
      ],
      "from_source": "female-wife-scenes-oct15"
+    },
+    {
+     "title": "YouTube deep sweep — official channel episodes",
+     "notes": [],
+     "items": [
+      {
+       "id": 3068,
+       "from_source": "youtube-deep-oct15"
+      },
+      {
+       "id": 3077,
+       "from_source": "youtube-deep-oct15"
+      }
+     ],
+     "from_source": "youtube-deep-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -496520,7 +501290,8 @@
     "hypnosis-assault": null,
     "hypnosis-assault-loose": null,
     "wife-hypnosis-oct15": null,
-    "female-wife-scenes-oct15": null
+    "female-wife-scenes-oct15": null,
+    "youtube-deep-oct15": null
    }
   },
   {

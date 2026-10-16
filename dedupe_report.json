@@ -629,6 +629,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "youtube-deep-oct15:41",
+     "title": "Magpakailanman",
+     "subtitle": "",
+     "year": "2020",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -4739,6 +4746,13 @@
      "rid": "hypnosis-assault-loose:18",
      "title": "Naagin 3",
      "subtitle": "Vish / Hukum / Andhka arc",
+     "year": "2018–19",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "youtube-deep-oct15:38",
+     "title": "Naagin 3",
+     "subtitle": "",
      "year": "2018–19",
      "matched_by": "match_title"
     }
@@ -9385,6 +9399,13 @@
      "subtitle": "",
      "year": "2011–2014",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "youtube-deep-oct15:42",
+     "title": "Muhteşem Yüzyıl / Magnificent Century",
+     "subtitle": "",
+     "year": "2011–14",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -16329,6 +16350,13 @@
     {
      "rid": "ig6qlxqxoxvcxla:331",
      "title": "Caminhos do Coração (2007–08)",
+     "subtitle": "",
+     "year": "2007–08",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "youtube-deep-oct15:23",
+     "title": "Caminhos do Coração",
      "subtitle": "",
      "year": "2007–08",
      "matched_by": "title+year"
@@ -35230,6 +35258,13 @@
      "subtitle": "",
      "year": "2020–21",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "youtube-deep-oct15:39",
+     "title": "Naagin 5",
+     "subtitle": "",
+     "year": "2020–21",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -38563,6 +38598,13 @@
      "subtitle": "",
      "year": "1987",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "youtube-deep-oct15:22",
+     "title": "Sassaricando",
+     "subtitle": "",
+     "year": "1987–88",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -41731,6 +41773,13 @@
      "subtitle": "",
      "year": "1997",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "youtube-deep-oct15:43",
+     "title": "Tic Tac",
+     "subtitle": "",
+     "year": "1997",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -44913,6 +44962,13 @@
      "subtitle": "",
      "year": "2016",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "youtube-deep-oct15:40",
+     "title": "May I Come In Madam?",
+     "subtitle": "",
+     "year": "2016",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -45211,6 +45267,26 @@
      "subtitle": "",
      "year": "2025",
      "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2914,
+   "kept": "Faltu (2022–23)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "official-yt-oct15:30",
+     "title": "Faltu",
+     "subtitle": "Episode 82 – 'Faltu Gets Hypnotised'",
+     "year": "2022–23"
+    },
+    {
+     "rid": "youtube-deep-oct15:17",
+     "title": "Faltu",
+     "subtitle": "",
+     "year": "2022–23",
+     "matched_by": "title+year"
     }
    ]
   },
@@ -46264,11 +46340,12 @@
   "youtube-sweep-oct15": 5,
   "gap-check-vertical-oct15": 5,
   "adult-fanmade-oct15": 3,
-  "deep-gap-oct15": 17
+  "deep-gap-oct15": 17,
+  "youtube-deep-oct15": 43
  },
- "entry_count_after_dedupe": 2912,
+ "entry_count_after_dedupe": 2946,
  "within_source_groups": 3,
- "cross_source_groups": 1893,
+ "cross_source_groups": 1894,
  "index_only_records": 61,
- "local_only_records": 691
+ "local_only_records": 725
 }
