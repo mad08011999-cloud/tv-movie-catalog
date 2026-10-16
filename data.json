@@ -3915,7 +3915,7 @@
    "description": "Titles and episodes found on streaming-service title pages (Netflix, Prime Video, Disney+, etc.)",
    "dropped": [],
    "check": {
-    "raw_count": 46,
+    "raw_count": 49,
     "ok": true
    },
    "status": "local"
@@ -3963,10 +3963,10 @@
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
   "official-yt-oct15": 45,
-  "streaming-oct15": 46
+  "streaming-oct15": 49
  },
- "raw_total": 5610,
- "entry_count": 2835,
+ "raw_total": 5613,
+ "entry_count": 2836,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -3984,7 +3984,7 @@
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 265
+   "entry_count": 267
   },
   {
    "key": "walkin",
@@ -224757,9 +224757,14 @@
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot.",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "format": "tv",
    "categories": [
-    "other-control"
+    "other-control",
+    "adult-hypnosis"
    ],
    "sources": [
     {
@@ -224769,16 +224774,22 @@
     {
      "label": "TV Tropes: Hypno Fool",
      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoFool"
+    },
+    {
+     "label": "Tubi: The Flying Nun S2E4",
+     "url": "https://tubitv.com/tv-shows/591665/s02-e04-the-return-of-father-lundigan"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "streaming-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1247",
-    "worldwide-hypnosis:1066"
+    "worldwide-hypnosis:1066",
+    "streaming-oct15:48"
    ],
    "index_only": false,
    "local_only": false,
@@ -224848,6 +224859,38 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "streaming-oct15:48",
+     "source": "streaming-oct15",
+     "label": "The Flying Nun (1967–1970)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Flying Nun",
+     "subtitle": "",
+     "year": "1967–1970",
+     "meta": "",
+     "summary": "Tubi synopsis, S2E4 'The Return of Father Lundigan': under hypnosis, Sister Bertrille and Reverend Mother switch personalities.",
+     "character": "Sister Bertrille; Reverend Mother",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Tubi: The Flying Nun S2E4",
+       "url": "https://tubitv.com/tv-shows/591665/s02-e04-the-return-of-father-lundigan"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -224899,8 +224942,37 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): TV Tropes hypnosis trope pages, Wikipedia 'Films about hypnosis' and targeted web searches."
+    },
+    "streaming-oct15:48": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "",
+     "summary": "Tubi synopsis, S2E4 'The Return of Father Lundigan': under hypnosis, Sister Bertrille and Reverend Mother switch personalities.",
+     "character": "Sister Bertrille; Reverend Mother",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "title": "The Flying Nun",
+     "year": "1967–1970",
+     "sources": [
+      {
+       "label": "Tubi: The Flying Nun S2E4",
+       "url": "https://tubitv.com/tv-shows/591665/s02-e04-the-return-of-father-lundigan"
+      }
+     ]
     }
    },
+   "retired_ids": [
+    2967
+   ],
    "watch_links": [
     {
      "service": "Tubi",
@@ -225309,11 +225381,9 @@
     "sex"
    ],
    "method": "hypnotherapy misuse",
-   "kids_status": "unknown",
-   "kids_note": "not mentioned",
-   "kids_together": "no",
-   "married": "no",
-   "married_note": "Mrs. Lowell is married to someone else",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
    "pregnant_end": "no",
    "pregnant_end_note": "no pregnancy for Mrs. Lowell or the other patients in TVmaze, TV Guide, TheTVDB or Mental Block",
    "evidence": "2+ independent sources (Wikipedia, Mental Block)",
@@ -225357,6 +225427,14 @@
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Freddy%27s_Nightmares"
+    },
+    {
+     "label": "Plex: Freddy's Nightmares S2E13 'What You Don't Know Can Kill You'",
+     "url": "https://watch.plex.tv/show/freddys-nightmares/season/2/episode/13"
+    },
+    {
+     "label": "Tubi: Freddy's Nightmares S2E13",
+     "url": "https://tubitv.com/tv-shows/663659/s02-e13-what-you-don-t-know-can-kill-you"
     }
    ],
    "youtube_ids": [],
@@ -225366,7 +225444,8 @@
     "rich-wife-hypnosis",
     "older-man-hypnosis",
     "hypno-intimacy",
-    "hypnosis-assault"
+    "hypnosis-assault",
+    "streaming-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1250",
@@ -225374,7 +225453,8 @@
     "rich-wife-hypnosis:34",
     "older-man-hypnosis:31",
     "hypno-intimacy:7",
-    "hypnosis-assault:6"
+    "hypnosis-assault:6",
+    "streaming-oct15:49"
    ],
    "index_only": false,
    "local_only": false,
@@ -225695,6 +225775,42 @@
      "source_conflict": "Air date: catalog copies list both 7 Jan 1990 and 8 Jan 1990.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "streaming-oct15:49",
+     "source": "streaming-oct15",
+     "label": "Freddy's Nightmares (1988–1990)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Freddy's Nightmares",
+     "subtitle": "",
+     "year": "1988–1990",
+     "meta": "",
+     "summary": "Plex synopsis: a psychiatrist uses women under hypnosis to get what he wants, then uses mind control to stop a fellow psychiatrist from exposing him.",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Plex: Freddy's Nightmares S2E13 'What You Don't Know Can Kill You'",
+       "url": "https://watch.plex.tv/show/freddys-nightmares/season/2/episode/13"
+      },
+      {
+       "label": "Tubi: Freddy's Nightmares S2E13",
+       "url": "https://tubitv.com/tv-shows/663659/s02-e13-what-you-don-t-know-can-kill-you"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -225984,8 +226100,41 @@
      "catalog_ids": [
       1251
      ]
+    },
+    "streaming-oct15:49": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "",
+     "confidence_flag": "",
+     "summary": "Plex synopsis: a psychiatrist uses women under hypnosis to get what he wants, then uses mind control to stop a fellow psychiatrist from exposing him.",
+     "character": "",
+     "categories": [
+      "medical"
+     ],
+     "title": "Freddy's Nightmares",
+     "year": "1988–1990",
+     "sources": [
+      {
+       "label": "Plex: Freddy's Nightmares S2E13 'What You Don't Know Can Kill You'",
+       "url": "https://watch.plex.tv/show/freddys-nightmares/season/2/episode/13"
+      },
+      {
+       "label": "Tubi: Freddy's Nightmares S2E13",
+       "url": "https://tubitv.com/tv-shows/663659/s02-e13-what-you-don-t-know-can-kill-you"
+      }
+     ]
     }
-   }
+   },
+   "retired_ids": [
+    2968
+   ]
   },
   {
    "id": 1240,
@@ -429947,6 +430096,74 @@
      ]
     }
    }
+  },
+  {
+   "id": 2966,
+   "title": "The Carol Burnett Show — \"Carol & Sis\" hypnotist sketch",
+   "subtitle": "Season 2 · guests Shirley Jones, Ken Berry (16 Feb 1969)",
+   "year": "1969",
+   "meta": "Variety show · CBS · USA · English",
+   "mechanism": "Lingering hypnotic suggestion",
+   "confidence_flag": "",
+   "summary": "Pluto TV synopsis: in the 'Carol & Sis' sketch, Carol suffers under the lingering spell of a hypnotist.",
+   "character": "Carol",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "Pluto TV: The Best of the Carol Burnett Show S2E18",
+     "url": "https://pluto.tv/us/shows/2220051/episode/625d97dca21115001381f2ba/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:47"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:47": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "Season 2 · guests Shirley Jones, Ken Berry (16 Feb 1969)",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Lingering hypnotic suggestion",
+     "confidence_flag": "",
+     "summary": "Pluto TV synopsis: in the 'Carol & Sis' sketch, Carol suffers under the lingering spell of a hypnotist.",
+     "character": "Carol",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "title": "The Carol Burnett Show — \"Carol & Sis\" hypnotist sketch",
+     "year": "1969",
+     "meta": "Variety show · CBS · USA · English",
+     "sources": [
+      {
+       "label": "Pluto TV: The Best of the Carol Burnett Show S2E18",
+       "url": "https://pluto.tv/us/shows/2220051/episode/625d97dca21115001381f2ba/"
+      }
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -432637,6 +432854,36 @@
         "Trance",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
        ],
+       "sources": [
+        {
+         "label": "IMDb (rape-by-hypnosis keyword)",
+         "url": "https://www.imdb.com/title/tt0582777/"
+        },
+        {
+         "label": "TVmaze",
+         "url": "https://www.tvmaze.com/episodes/261588/freddys-nightmares-2x13-what-you-dont-know-can-kill-you"
+        },
+        {
+         "label": "TheTVDB",
+         "url": "https://thetvdb.com/series/freddys-nightmares/episodes/48512"
+        },
+        {
+         "label": "Mental Block",
+         "url": "https://mentalblock.miraheze.org/wiki/Freddy%27s_Nightmares"
+        },
+        {
+         "label": "Wikipedia episode list",
+         "url": "https://en.wikipedia.org/wiki/List_of_Freddy%27s_Nightmares_episodes"
+        },
+        {
+         "label": "TV Guide · season 2",
+         "url": "https://www.tvguide.com/tvshows/freddys-nightmares/episodes-season-2/1030263160/"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Freddy%27s_Nightmares"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -433608,6 +433855,10 @@
        "from_source": "streaming-oct15"
       },
       {
+       "id": 2966,
+       "from_source": "streaming-oct15"
+      },
+      {
        "id": 2949,
        "from_source": "streaming-oct15"
       },
@@ -433617,6 +433868,10 @@
       },
       {
        "id": 2960,
+       "from_source": "streaming-oct15"
+      },
+      {
+       "id": 1236,
        "from_source": "streaming-oct15"
       },
       {
@@ -446533,6 +446788,36 @@
         "Trance",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
        ],
+       "sources": [
+        {
+         "label": "IMDb (rape-by-hypnosis keyword)",
+         "url": "https://www.imdb.com/title/tt0582777/"
+        },
+        {
+         "label": "TVmaze",
+         "url": "https://www.tvmaze.com/episodes/261588/freddys-nightmares-2x13-what-you-dont-know-can-kill-you"
+        },
+        {
+         "label": "TheTVDB",
+         "url": "https://thetvdb.com/series/freddys-nightmares/episodes/48512"
+        },
+        {
+         "label": "Mental Block",
+         "url": "https://mentalblock.miraheze.org/wiki/Freddy%27s_Nightmares"
+        },
+        {
+         "label": "Wikipedia episode list",
+         "url": "https://en.wikipedia.org/wiki/List_of_Freddy%27s_Nightmares_episodes"
+        },
+        {
+         "label": "TV Guide · season 2",
+         "url": "https://www.tvguide.com/tvshows/freddys-nightmares/episodes-season-2/1030263160/"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Freddy%27s_Nightmares"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -449819,6 +450104,36 @@
         "Hypnotized / controlled into infidelity",
         "Trance",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
+       ],
+       "sources": [
+        {
+         "label": "IMDb (rape-by-hypnosis keyword)",
+         "url": "https://www.imdb.com/title/tt0582777/"
+        },
+        {
+         "label": "TVmaze",
+         "url": "https://www.tvmaze.com/episodes/261588/freddys-nightmares-2x13-what-you-dont-know-can-kill-you"
+        },
+        {
+         "label": "TheTVDB",
+         "url": "https://thetvdb.com/series/freddys-nightmares/episodes/48512"
+        },
+        {
+         "label": "Mental Block",
+         "url": "https://mentalblock.miraheze.org/wiki/Freddy%27s_Nightmares"
+        },
+        {
+         "label": "Wikipedia episode list",
+         "url": "https://en.wikipedia.org/wiki/List_of_Freddy%27s_Nightmares_episodes"
+        },
+        {
+         "label": "TV Guide · season 2",
+         "url": "https://www.tvguide.com/tvshows/freddys-nightmares/episodes-season-2/1030263160/"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Freddy%27s_Nightmares"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
@@ -455571,6 +455886,16 @@
         "Other female hypnosis / mind control",
         "Hypnosis",
         "Medium · TV Tropes example; series confirmed on Wikipedia"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Flying_Nun"
+        },
+        {
+         "label": "TV Tropes: Hypno Fool",
+         "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoFool"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): TV Tropes hypnosis trope pages, Wikipedia 'Films about hypnosis' and targeted web searches.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
@@ -473537,6 +473862,36 @@
         "Hypnotized / controlled into infidelity",
         "Trance",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
+       ],
+       "sources": [
+        {
+         "label": "IMDb (rape-by-hypnosis keyword)",
+         "url": "https://www.imdb.com/title/tt0582777/"
+        },
+        {
+         "label": "TVmaze",
+         "url": "https://www.tvmaze.com/episodes/261588/freddys-nightmares-2x13-what-you-dont-know-can-kill-you"
+        },
+        {
+         "label": "TheTVDB",
+         "url": "https://thetvdb.com/series/freddys-nightmares/episodes/48512"
+        },
+        {
+         "label": "Mental Block",
+         "url": "https://mentalblock.miraheze.org/wiki/Freddy%27s_Nightmares"
+        },
+        {
+         "label": "Wikipedia episode list",
+         "url": "https://en.wikipedia.org/wiki/List_of_Freddy%27s_Nightmares_episodes"
+        },
+        {
+         "label": "TV Guide · season 2",
+         "url": "https://www.tvguide.com/tvshows/freddys-nightmares/episodes-season-2/1030263160/"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Freddy%27s_Nightmares"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",

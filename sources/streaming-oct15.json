@@ -1261,6 +1261,89 @@
      "url": "https://tubitv.com/tv-shows/200209503/s01-e11-death-casts-a-spell"
     }
    ]
+  },
+  {
+   "standalone": true,
+   "group": "Streaming-service additions (Oct 2026)",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "format": "tv",
+   "subtitle": "Season 2 · guests Shirley Jones, Ken Berry (16 Feb 1969)",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "mechanism": "Lingering hypnotic suggestion",
+   "confidence_flag": "",
+   "summary": "Pluto TV synopsis: in the 'Carol & Sis' sketch, Carol suffers under the lingering spell of a hypnotist.",
+   "character": "Carol",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "title": "The Carol Burnett Show — \"Carol & Sis\" hypnotist sketch",
+   "year": "1969",
+   "meta": "Variety show · CBS · USA · English",
+   "sources": [
+    {
+     "label": "Pluto TV: The Best of the Carol Burnett Show S2E18",
+     "url": "https://pluto.tv/us/shows/2220051/episode/625d97dca21115001381f2ba/"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "group": "Streaming-service additions (Oct 2026)",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "format": "tv",
+   "subtitle": "",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "mechanism": "Hypnosis",
+   "confidence_flag": "",
+   "summary": "Tubi synopsis, S2E4 'The Return of Father Lundigan': under hypnosis, Sister Bertrille and Reverend Mother switch personalities.",
+   "character": "Sister Bertrille; Reverend Mother",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "title": "The Flying Nun",
+   "year": "1967–1970",
+   "sources": [
+    {
+     "label": "Tubi: The Flying Nun S2E4",
+     "url": "https://tubitv.com/tv-shows/591665/s02-e04-the-return-of-father-lundigan"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "group": "Streaming-service additions (Oct 2026)",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "format": "tv",
+   "subtitle": "",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Plex synopsis: a psychiatrist uses women under hypnosis to get what he wants, then uses mind control to stop a fellow psychiatrist from exposing him.",
+   "character": "",
+   "categories": [
+    "medical"
+   ],
+   "title": "Freddy's Nightmares",
+   "year": "1988–1990",
+   "sources": [
+    {
+     "label": "Plex: Freddy's Nightmares S2E13 'What You Don't Know Can Kill You'",
+     "url": "https://watch.plex.tv/show/freddys-nightmares/season/2/episode/13"
+    },
+    {
+     "label": "Tubi: Freddy's Nightmares S2E13",
+     "url": "https://tubitv.com/tv-shows/663659/s02-e13-what-you-don-t-know-can-kill-you"
+    }
+   ]
   }
  ]
 }

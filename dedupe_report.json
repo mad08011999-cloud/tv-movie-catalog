@@ -26955,6 +26955,13 @@
      "subtitle": "",
      "year": "1967–1970",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "streaming-oct15:48",
+     "title": "The Flying Nun",
+     "subtitle": "",
+     "year": "1967–1970",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -27050,6 +27057,13 @@
      "subtitle": "S02E13 · “What You Don't Know Can Kill You”",
      "year": "1990",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "streaming-oct15:49",
+     "title": "Freddy's Nightmares",
+     "subtitle": "",
+     "year": "1988–1990",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -43821,6 +43835,18 @@
    "year": "1984",
    "kept_id": 44,
    "retired_id": 2965
+  },
+  {
+   "title": "The Flying Nun",
+   "year": "1967–1970",
+   "kept_id": 1236,
+   "retired_id": 2967
+  },
+  {
+   "title": "Freddy's Nightmares",
+   "year": "1988–1990",
+   "kept_id": 1239,
+   "retired_id": 2968
   }
  ],
  "merge_rules": [
@@ -43932,11 +43958,11 @@
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
   "official-yt-oct15": 45,
-  "streaming-oct15": 46
+  "streaming-oct15": 49
  },
- "entry_count_after_dedupe": 2835,
+ "entry_count_after_dedupe": 2836,
  "within_source_groups": 3,
  "cross_source_groups": 1817,
  "index_only_records": 64,
- "local_only_records": 614
+ "local_only_records": 615
 }
