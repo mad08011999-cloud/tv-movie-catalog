@@ -4,37 +4,37 @@
   {
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 14
+   "entry_count": 24
   },
   {
    "key": "pregnant-variants",
    "label": "Pregnancy + mind control — variants and leads",
-   "entry_count": 5
+   "entry_count": 9
   },
   {
    "key": "occult",
    "label": "Demonic / occult control",
-   "entry_count": 5
+   "entry_count": 6
   },
   {
    "key": "human",
    "label": "Human-villain control",
-   "entry_count": 7
+   "entry_count": 11
   },
   {
    "key": "scifi",
    "label": "Sci-fi / alien / technological control",
-   "entry_count": 5
+   "entry_count": 8
   },
   {
    "key": "fantasy",
    "label": "Fantasy enchantment",
-   "entry_count": 4
+   "entry_count": 5
   },
   {
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
-   "entry_count": 2
+   "entry_count": 4
   },
   {
    "key": "other-control",
@@ -44,21 +44,21 @@
   {
    "key": "hardcore-adult",
    "label": "Hardcore / adult",
-   "entry_count": 12
+   "entry_count": 25
   },
   {
    "key": "fan-made-roleplay",
    "label": "Fan-made / roleplay (not a professional production)",
-   "entry_count": 1
+   "entry_count": 3
   }
  ],
  "formats": {
   "Novel": 7,
   "Comic book": 5,
-  "Hentai manga": 2,
-  "Hentai doujinshi": 1,
+  "Hentai manga": 4,
+  "Hentai doujinshi": 10,
   "Hentai CG collection": 1,
-  "Hentai doujinshi (parody)": 1,
+  "Hentai doujinshi (parody)": 3,
   "Manhwa (webtoon)": 6,
   "Adult web comic": 1
  },
@@ -412,7 +412,7 @@
    "gist": "Parody where Android 18, Krillin's wife, is hypnotized and cheated with.",
    "where": "Whole work",
    "wife": "yes (Krillin's wife)",
-   "pregnant_end": "unknown (tagged Pregnancy / Impregnation)",
+   "pregnant_end": "unknown (tagged pregnant / impregnation)",
    "kids_together": "unknown",
    "kids_before": "yes — daughter Marron in canon",
    "categories": [
@@ -425,6 +425,10 @@
     {
      "label": "MangaUpdates",
      "url": "https://www.mangaupdates.com/series/65965532574"
+    },
+    {
+     "label": "nhentai tag metadata (English release)",
+     "url": "https://nhentai.net/g/479787/"
     }
    ],
    "loose_fit": false,
@@ -720,7 +724,7 @@
    "kids_before": "no",
    "categories": [
     "wife-hypnotized",
-    "medical",
+    "human",
     "human"
    ],
    "sources": [
@@ -795,6 +799,409 @@
    "note": "An attempt she resists; loose fit.",
    "adult_basis": "centuries-old sorceress",
    "id": 24
+  },
+  {
+   "title": "Hitozuma Saimin Appli",
+   "original_title": "人妻催眠アプリ (Housewife Hypnosis App)",
+   "creator": "EBA",
+   "year": 2024,
+   "format": "Hentai manga",
+   "language": "Japanese",
+   "publisher": "(English: Doujins.com)",
+   "gist": "A man uses a hypnosis app on a housewife.",
+   "where": "Ch. 1–6",
+   "wife": "yes (hitozuma)",
+   "pregnant_end": "unknown (tagged impregnation)",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "scifi",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "nhentai tag metadata (Ch. 1–6)",
+     "url": "https://nhentai.net/g/633508/"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "title: hitozuma; tag: milf",
+   "content_label": "Hardcore / adult",
+   "id": 25
+  },
+  {
+   "title": "Otonari no Hitozuma o Joushiki Kaihen Appli de Hame Houdai!",
+   "original_title": "お隣の人妻を常識改変アプリでハメ放題! (Using a Hypno App on the Wife Next Door)",
+   "creator": "Buppa Studio (Kazuhiro)",
+   "year": 2020,
+   "format": "Hentai doujinshi",
+   "language": "Japanese",
+   "publisher": "self-published",
+   "gist": "A neighbour uses a common-sense-alteration app on the married woman next door.",
+   "where": "Whole work",
+   "wife": "yes (neighbour's wife)",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "scifi",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "nhentai tag metadata",
+     "url": "https://nhentai.net/g/418481/"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "title: hitozuma; tags: milf, cheating",
+   "content_label": "Hardcore / adult",
+   "id": 26
+  },
+  {
+   "title": "Saimin Kisei Kazoku",
+   "original_title": "催眠寄生家族 ～常識改変、家族になって夫公認の人妻催眠セックス～",
+   "creator": "Himeya (Abe Inori)",
+   "year": 2021,
+   "format": "Hentai doujinshi",
+   "language": "Japanese",
+   "publisher": "self-published",
+   "gist": "Through hypnotic common-sense alteration a man 'joins' a married couple's family and the husband accepts it.",
+   "where": "Whole work",
+   "wife": "yes (hitozuma)",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "nhentai tag metadata",
+     "url": "https://nhentai.net/g/424521/"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "title: hitozuma; tags: milf, netorare",
+   "content_label": "Hardcore / adult",
+   "id": 27
+  },
+  {
+   "title": "Fat Hypnotist VS Former Young Married Woman",
+   "original_title": "(original Japanese title not in the metadata)",
+   "creator": "Nobishiro",
+   "year": 2021,
+   "format": "Hentai doujinshi",
+   "language": "Japanese",
+   "publisher": "self-published",
+   "gist": "A fat hypnotist takes over a formerly young married woman's mind.",
+   "where": "Whole work",
+   "wife": "yes",
+   "pregnant_end": "unknown (tagged impregnation)",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "human",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "nhentai tag metadata",
+     "url": "https://nhentai.net/g/379442/"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "title: married woman; tag: milf",
+   "content_label": "Hardcore / adult",
+   "id": 28
+  },
+  {
+   "title": "Hitozuma Saimin Conveni Nikubenki (Kouhen)",
+   "original_title": "人妻催眠コンビニ肉便器 後編",
+   "creator": "Okina Keikaku (Shiwasu no Okina)",
+   "year": 2020,
+   "format": "Hentai doujinshi",
+   "language": "Japanese",
+   "publisher": "self-published",
+   "gist": "A wife working at a convenience store is hypnotized into sexual servitude.",
+   "where": "Second part (kouhen)",
+   "wife": "yes (hitozuma)",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "human",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "nhentai tag metadata",
+     "url": "https://nhentai.net/g/296446/"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "title: hitozuma; tag: milf",
+   "content_label": "Hardcore / adult",
+   "id": 29
+  },
+  {
+   "title": "Hitozuma Kairou",
+   "original_title": "人妻快楼 ～旦那想いの人妻は催眠で淫らな風俗嬢へ～",
+   "creator": "Karino Keshouhin (Karino Teru)",
+   "year": 2025,
+   "format": "Hentai doujinshi",
+   "language": "Japanese",
+   "publisher": "self-published",
+   "gist": "A wife devoted to her husband is hypnotized into working as a lewd sex worker.",
+   "where": "Whole work",
+   "wife": "yes (husband-devoted hitozuma)",
+   "pregnant_end": "yes (tagged pregnant)",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "forced-obedience",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "nhentai tag metadata",
+     "url": "https://nhentai.net/g/629003/"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "title: hitozuma; tag: milf",
+   "content_label": "Hardcore / adult",
+   "id": 30
+  },
+  {
+   "title": "\"Konnan Uwaki ni Naru Wake Naishi\" Yanmama Amami Himeko wa Saiminchuu!",
+   "original_title": "「こんなん浮気になるわけないし」ヤンママ天海姫子は催眠中!",
+   "creator": "Hotel Shikinseki (Protohotel)",
+   "year": 2024,
+   "format": "Hentai doujinshi",
+   "language": "Japanese",
+   "publisher": "self-published",
+   "gist": "Young married mother Amami Himeko, sure that 'this can't count as cheating', is under hypnosis.",
+   "where": "Whole work",
+   "wife": "yes (yanmama, a young married mother)",
+   "pregnant_end": "yes (tagged pregnant / impregnation)",
+   "kids_together": "unknown",
+   "kids_before": "yes (she is a mother, per the title)",
+   "categories": [
+    "wife-hypnotized",
+    "pregnant-variants",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "nhentai tag metadata",
+     "url": "https://nhentai.net/g/568864/"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "title: yanmama; tags: milf, cheating",
+   "content_label": "Hardcore / adult",
+   "id": 31
+  },
+  {
+   "title": "Saimin Seishidou – Ninpu Seikou Shidou",
+   "original_title": "催眠性指導 妊婦性交指導 (Hypnotic Sex Counselling for Pregnant Women)",
+   "creator": "50on! (Aiue Oka)",
+   "year": 2025,
+   "format": "Hentai doujinshi",
+   "language": "Japanese",
+   "publisher": "self-published",
+   "gist": "A 'counsellor' uses hypnosis on pregnant wives during sex counselling.",
+   "where": "Whole work",
+   "wife": "yes (pregnant wives)",
+   "pregnant_end": "yes (already pregnant in the story; tagged pregnant)",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "pregnant-variants",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "nhentai tag metadata",
+     "url": "https://nhentai.net/g/653354/"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "pregnant wives; tags: milf, netorare",
+   "content_label": "Hardcore / adult",
+   "id": 32
+  },
+  {
+   "title": "Saimin Joushi (Hypnosis Boss)",
+   "original_title": "催眠上司",
+   "creator": "Jirou",
+   "year": 2022,
+   "format": "Hentai manga",
+   "language": "Japanese",
+   "publisher": "(chapter in Sennou Appli de Iinari Onaho Joshi)",
+   "gist": "A subordinate uses a brainwashing app on his female boss.",
+   "where": "Chapter in the collection",
+   "wife": "unknown",
+   "pregnant_end": "yes (tagged pregnant)",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "scifi",
+    "pregnant-variants",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "nhentai tag metadata",
+     "url": "https://nhentai.net/g/397367/"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "female boss; tag: milf",
+   "content_label": "Hardcore / adult",
+   "id": 33
+  },
+  {
+   "title": "Kyonyuu Onna Joushi Saimin Nikuningyou 2",
+   "original_title": "巨乳女上司催眠肉人形2",
+   "creator": "M (Amano Ameno)",
+   "year": 2019,
+   "format": "Hentai doujinshi",
+   "language": "Japanese",
+   "publisher": "self-published",
+   "gist": "A female boss is hypnotized into a 'flesh doll'.",
+   "where": "Part 2",
+   "wife": "unknown",
+   "pregnant_end": "yes (tagged pregnant)",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "human",
+    "pregnant-variants",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "nhentai tag metadata",
+     "url": "https://nhentai.net/g/284375/"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "female boss (josei joushi); tag: milf",
+   "content_label": "Hardcore / adult",
+   "id": 34
+  },
+  {
+   "title": "Saimin Senshadou (Girls und Panzer parody)",
+   "original_title": "催眠戦車道",
+   "creator": "BONJin (Ozy)",
+   "year": 2017,
+   "format": "Hentai doujinshi (parody)",
+   "language": "Japanese",
+   "publisher": "self-published (Comiket 92)",
+   "gist": "Parody in which Shiho Nishizumi, head of the Nishizumi school and Miho and Maho's mother, is hypnotized.",
+   "where": "Whole work",
+   "wife": "yes (married mother in canon)",
+   "pregnant_end": "unknown (tagged impregnation)",
+   "kids_together": "unknown",
+   "kids_before": "yes (daughters Maho and Miho in canon)",
+   "categories": [
+    "wife-hypnotized",
+    "hardcore-adult",
+    "fan-made-roleplay"
+   ],
+   "sources": [
+    {
+     "label": "nhentai tag metadata",
+     "url": "https://nhentai.net/g/355271/"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "character Shiho Nishizumi, adult mother; tag: milf",
+   "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
+   "id": 35
+  },
+  {
+   "title": "Majimena Iemoto no Kyousei Saimin Inda Kiroku (Girls und Panzer parody)",
+   "original_title": "真面目な家元の強制催眠淫堕記録",
+   "creator": "Keigai Tengen (Momofuki Rio)",
+   "year": 2019,
+   "format": "Hentai doujinshi (parody)",
+   "language": "Japanese",
+   "publisher": "self-published",
+   "gist": "Parody in which the serious school head Shiho Nishizumi is forcibly hypnotized and cheats.",
+   "where": "Whole work",
+   "wife": "yes (married mother in canon)",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "yes (daughters in canon)",
+   "categories": [
+    "wife-hypnotized",
+    "forced-obedience",
+    "hardcore-adult",
+    "fan-made-roleplay"
+   ],
+   "sources": [
+    {
+     "label": "nhentai tag metadata",
+     "url": "https://nhentai.net/g/405324/"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "Shiho Nishizumi; tags: milf, cheating",
+   "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
+   "id": 36
+  },
+  {
+   "title": "The Socially Awkward Yukionna Widow and the Cursed Ring",
+   "original_title": "(original Japanese title not in the metadata)",
+   "creator": "Zeroshiki Kouichi",
+   "year": 2025,
+   "format": "Hentai doujinshi",
+   "language": "Japanese",
+   "publisher": "self-published",
+   "gist": "A cursed ring puts a socially awkward yuki-onna widow, Yukino Mifuyu, under mind control.",
+   "where": "Whole work",
+   "wife": "widow",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "occult",
+    "fantasy",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "nhentai tag metadata",
+     "url": "https://nhentai.net/g/614937/"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "tags: widow, milf",
+   "content_label": "Hardcore / adult",
+   "id": 37
   }
  ],
  "dropped": [
@@ -821,6 +1228,26 @@
   {
    "title": "Konna Karada de Ii no Nara, Hakuchuumu, Ero-Isu",
    "reason": "anthologies whose hypnosis stories can't be tied to an adult woman"
+  },
+  {
+   "title": "To LOVE-Ru parodies (Sephie, Tearju), 'Tomodachi no Haha' / 'Hiru wa Tomodachi no Okaa-san' / Saimin Kanojo's mother books",
+   "reason": "the partner or hypnotist is (or could be) a high-schooler"
+  },
+  {
+   "title": "Saimin Seikatsu (Jougasaki Yuuko), Netorare x VR",
+   "reason": "school setting"
+  },
+  {
+   "title": "Sensual Phrase (Aine), Majokko Meg-chan, Pokémon Adventures, Ranger's Apprentice (Alys)",
+   "reason": "minor or unverifiable age (from TV Tropes)"
+  },
+  {
+   "title": "Mind Control (2025 manhwa), The Lord of the Harem",
+   "reason": "targets include 'girls' whose ages aren't stated"
+  },
+  {
+   "title": "How to Make a Family Using a Hypnosis App",
+   "reason": "a 'family' whose members' ages aren't stated"
   }
  ]
 }
