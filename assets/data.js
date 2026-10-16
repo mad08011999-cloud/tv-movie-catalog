@@ -3915,7 +3915,7 @@ window.CATALOG = {
    "description": "Titles and episodes found on streaming-service title pages (Netflix, Prime Video, Disney+, etc.)",
    "dropped": [],
    "check": {
-    "raw_count": 14,
+    "raw_count": 26,
     "ok": true
    },
    "status": "local"
@@ -3963,10 +3963,10 @@ window.CATALOG = {
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
   "official-yt-oct15": 45,
-  "streaming-oct15": 14
+  "streaming-oct15": 26
  },
- "raw_total": 5578,
- "entry_count": 2823,
+ "raw_total": 5590,
+ "entry_count": 2826,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -3984,7 +3984,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 254
+   "entry_count": 256
   },
   {
    "key": "walkin",
@@ -4164,7 +4164,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 123
+   "entry_count": 127
   },
   {
    "key": "mom-partner-control",
@@ -4410,7 +4410,7 @@ window.CATALOG = {
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 144
+   "entry_count": 145
   },
   {
    "key": "stepmom-control",
@@ -4428,7 +4428,7 @@ window.CATALOG = {
    "key": "evil-female",
    "label": "Supernatural female control — India & Indonesia",
    "legend_label": "Supernatural female control — India & Indonesia",
-   "entry_count": 50
+   "entry_count": 51
   },
   {
    "key": "index-59",
@@ -14491,11 +14491,16 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "format": "tv",
    "categories": [
     "love",
     "adult-hypnosis",
-    "vampire"
+    "vampire",
+    "evil-female"
    ],
    "sources": [
     {
@@ -14513,16 +14518,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Dark_Shadows"
+    },
+    {
+     "label": "Pluto TV: Dark Shadows S4E22 (Ep 352)",
+     "url": "https://pluto.tv/us/shows/2950831/episode/5f4478b59025f2001a7983c9/"
+    },
+    {
+     "label": "Pluto TV: Dark Shadows S3E5 (Ep 295)",
+     "url": "https://pluto.tv/us/shows/2950831/episode/5f4405299025f2001a79622f/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "streaming-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:39",
-    "worldwide-hypnosis:228"
+    "worldwide-hypnosis:228",
+    "streaming-oct15:23"
    ],
    "index_only": false,
    "local_only": false,
@@ -14603,6 +14618,42 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "streaming-oct15:23",
+     "source": "streaming-oct15",
+     "label": "Dark Shadows (1966–71)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dark Shadows",
+     "subtitle": "",
+     "year": "1966–71",
+     "meta": "",
+     "summary": "Pluto TV episode synopses: Ep 295, Julia hypnotises Maggie before she can say anything about Barnabas. Ep 347 and Ep 352, Julia hypnotises Victoria. Ep 351, under Barnabas' control, Carolyn is ordered to help him win Victoria.",
+     "character": "Maggie Evans; Victoria Winters; Carolyn Stoddard",
+     "note": "",
+     "mechanism": "Hypnosis / vampire thrall",
+     "confidence_flag": "",
+     "categories": [
+      "evil-female"
+     ],
+     "sources": [
+      {
+       "label": "Pluto TV: Dark Shadows S4E22 (Ep 352)",
+       "url": "https://pluto.tv/us/shows/2950831/episode/5f4478b59025f2001a7983c9/"
+      },
+      {
+       "label": "Pluto TV: Dark Shadows S3E5 (Ep 295)",
+       "url": "https://pluto.tv/us/shows/2950831/episode/5f4405299025f2001a79622f/"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -14665,8 +14716,41 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "streaming-oct15:23": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnosis / vampire thrall",
+     "confidence_flag": "",
+     "summary": "Pluto TV episode synopses: Ep 295, Julia hypnotises Maggie before she can say anything about Barnabas. Ep 347 and Ep 352, Julia hypnotises Victoria. Ep 351, under Barnabas' control, Carolyn is ordered to help him win Victoria.",
+     "character": "Maggie Evans; Victoria Winters; Carolyn Stoddard",
+     "categories": [
+      "evil-female"
+     ],
+     "title": "Dark Shadows",
+     "year": "1966–71",
+     "sources": [
+      {
+       "label": "Pluto TV: Dark Shadows S4E22 (Ep 352)",
+       "url": "https://pluto.tv/us/shows/2950831/episode/5f4478b59025f2001a7983c9/"
+      },
+      {
+       "label": "Pluto TV: Dark Shadows S3E5 (Ep 295)",
+       "url": "https://pluto.tv/us/shows/2950831/episode/5f4405299025f2001a79622f/"
+      }
+     ]
     }
    },
+   "retired_ids": [
+    2947
+   ],
    "watch_links": [
     {
      "service": "Pluto TV",
@@ -36251,6 +36335,10 @@ window.CATALOG = {
     {
      "label": "Netflix: Hypnotic",
      "url": "https://www.netflix.com/title/81225962"
+    },
+    {
+     "label": "MUBI: Hypnotic (2021)",
+     "url": "https://mubi.com/en/us/films/hypnotic-2021"
     }
    ],
    "youtube_ids": [],
@@ -36273,7 +36361,8 @@ window.CATALOG = {
     "worldwide-hypnosis:456",
     "hypnotized-love:7",
     "older-man-hypnosis:13",
-    "streaming-oct15:3"
+    "streaming-oct15:3",
+    "streaming-oct15:22"
    ],
    "index_only": false,
    "local_only": false,
@@ -36632,6 +36721,38 @@ window.CATALOG = {
      "pregnant_end": "not stated",
      "distinct_story": true,
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "streaming-oct15:22",
+     "source": "streaming-oct15",
+     "label": "Hypnotic (2021)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Hypnotic",
+     "subtitle": "",
+     "year": "2021",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "MUBI: Hypnotic (2021)",
+       "url": "https://mubi.com/en/us/films/hypnotic-2021"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": false,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -36890,6 +37011,32 @@ window.CATALOG = {
       {
        "label": "Netflix: Hypnotic",
        "url": "https://www.netflix.com/title/81225962"
+      }
+     ]
+    },
+    "streaming-oct15:22": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "",
+     "confidence_flag": "",
+     "summary": "",
+     "character": "",
+     "categories": [
+      "medical"
+     ],
+     "title": "Hypnotic",
+     "year": "2021",
+     "sources": [
+      {
+       "label": "MUBI: Hypnotic (2021)",
+       "url": "https://mubi.com/en/us/films/hypnotic-2021"
       }
      ]
     }
@@ -65291,11 +65438,16 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "format": "tv",
    "categories": [
     "occult",
     "vampire",
-    "human"
+    "human",
+    "medical"
    ],
    "sources": [
     {
@@ -65305,18 +65457,24 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Penny_Dreadful_%28TV_series%29"
+    },
+    {
+     "label": "Paramount+: Penny Dreadful S3E4 'A Blade of Grass'",
+     "url": "https://www.paramountplus.com/shows/video/GGQ7PI3Es97lm9kpQJnsGPb6Va0Motee/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "streaming-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:287",
     "ig6qlxqxoxvcxla:604",
-    "worldwide-hypnosis:673"
+    "worldwide-hypnosis:673",
+    "streaming-oct15:17"
    ],
    "index_only": false,
    "local_only": false,
@@ -65411,6 +65569,38 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "streaming-oct15:17",
+     "source": "streaming-oct15",
+     "label": "Penny Dreadful (2014)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Penny Dreadful",
+     "subtitle": "",
+     "year": "2014",
+     "meta": "",
+     "summary": "Paramount+ synopsis, S3E4 'A Blade of Grass': Vanessa persuades Dr. Seward to use hypnosis to take her back in time.",
+     "character": "Vanessa Ives",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "",
+     "categories": [
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Paramount+: Penny Dreadful S3E4 'A Blade of Grass'",
+       "url": "https://www.paramountplus.com/shows/video/GGQ7PI3Es97lm9kpQJnsGPb6Va0Motee/"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -65471,8 +65661,37 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "streaming-oct15:17": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "",
+     "summary": "Paramount+ synopsis, S3E4 'A Blade of Grass': Vanessa persuades Dr. Seward to use hypnosis to take her back in time.",
+     "character": "Vanessa Ives",
+     "categories": [
+      "medical"
+     ],
+     "title": "Penny Dreadful",
+     "year": "2014",
+     "sources": [
+      {
+       "label": "Paramount+: Penny Dreadful S3E4 'A Blade of Grass'",
+       "url": "https://www.paramountplus.com/shows/video/GGQ7PI3Es97lm9kpQJnsGPb6Va0Motee/"
+      }
+     ]
     }
-   }
+   },
+   "retired_ids": [
+    2943
+   ]
   },
   {
    "id": 287,
@@ -121438,6 +121657,10 @@ window.CATALOG = {
     {
      "label": "iQIYI (iQ.com): The Hypnosis (2021)",
      "url": "https://www.iq.com/album/the-hypnosis-2021-vjeqwnghxk?lang=en_us"
+    },
+    {
+     "label": "Tubi: The Hypnosis (2021)",
+     "url": "https://tubitv.com/movies/676274/the-hypnosis"
     }
    ],
    "youtube_ids": [],
@@ -121447,7 +121670,8 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:660",
-    "streaming-oct15:13"
+    "streaming-oct15:13",
+    "streaming-oct15:16"
    ],
    "index_only": false,
    "local_only": false,
@@ -121511,6 +121735,38 @@ window.CATALOG = {
      "pregnant_end": "not stated",
      "distinct_story": true,
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "streaming-oct15:16",
+     "source": "streaming-oct15",
+     "label": "The Hypnosis (최면) (2021)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Hypnosis (최면)",
+     "subtitle": "",
+     "year": "2021",
+     "meta": "",
+     "summary": "Tubi listing. Do-hyun sends his depressed friend Seo Hyun-jung to Professor Choi for hypnotherapy. Afterwards she sees visions of a child, Seung-min, and later kills herself.",
+     "character": "Seo Hyun-jung (college student)",
+     "note": "",
+     "mechanism": "Hypnotherapy",
+     "confidence_flag": "",
+     "categories": [
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Tubi: The Hypnosis (2021)",
+       "url": "https://tubitv.com/movies/676274/the-hypnosis"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -121557,6 +121813,32 @@ window.CATALOG = {
       {
        "label": "iQIYI (iQ.com): The Hypnosis (2021)",
        "url": "https://www.iq.com/album/the-hypnosis-2021-vjeqwnghxk?lang=en_us"
+      }
+     ]
+    },
+    "streaming-oct15:16": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnotherapy",
+     "confidence_flag": "",
+     "summary": "Tubi listing. Do-hyun sends his depressed friend Seo Hyun-jung to Professor Choi for hypnotherapy. Afterwards she sees visions of a child, Seung-min, and later kills herself.",
+     "character": "Seo Hyun-jung (college student)",
+     "categories": [
+      "medical"
+     ],
+     "title": "The Hypnosis (최면)",
+     "year": "2021",
+     "sources": [
+      {
+       "label": "Tubi: The Hypnosis (2021)",
+       "url": "https://tubitv.com/movies/676274/the-hypnosis"
       }
      ]
     }
@@ -121864,6 +122146,10 @@ window.CATALOG = {
    "character": "",
    "provenance": "Southeast Asia regional sweep; no source URL was preserved in the coordinator report.",
    "note": "",
+   "kids_status": "not stated",
+   "kids_together": "No: Annie and Yongyan break up and he is arrested (Prime Video). Wikipedia says she gives birth to their child, but they do not end up together.",
+   "married": "not stated",
+   "pregnant_end": "Yes: Annie is still pregnant at the end (Prime Video synopsis)",
    "format": "tv",
    "categories": [
     "adult-hypnosis",
@@ -121874,16 +122160,22 @@ window.CATALOG = {
     {
      "label": "IMDb",
      "url": "https://www.imdb.com/title/tt9270830"
+    },
+    {
+     "label": "Prime Video: Mind Game, Season 1",
+     "url": "https://www.primevideo.com/detail/Mind-Game/0HIT4EE49RKFGKBAP7WCJ15R63"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "streaming-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:664",
-    "ig6qlxqxoxvcxla:868"
+    "ig6qlxqxoxvcxla:868",
+    "streaming-oct15:15"
    ],
    "index_only": false,
    "local_only": false,
@@ -121942,6 +122234,38 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Mind Game (2015 Singapore)",
      "matched_by": "alias"
+    },
+    {
+     "rid": "streaming-oct15:15",
+     "source": "streaming-oct15",
+     "label": "Mind Game / 心迷 (2015)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Mind Game / 心迷",
+     "subtitle": "",
+     "year": "2015",
+     "meta": "",
+     "summary": "Prime Video episode synopses: Annie is hypnotised and, under hypnosis, tries to kill Xuezhi; psychologist Yung-Yan (Guo Yongyan) manipulates people through hypnosis. Annie later discovers she is pregnant and is still pregnant when Yung-Yan is arrested.",
+     "character": "Annie (Zhao Anni)",
+     "note": "",
+     "mechanism": "Hypnosis by a psychologist",
+     "confidence_flag": "",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Prime Video: Mind Game, Season 1",
+       "url": "https://www.primevideo.com/detail/Mind-Game/0HIT4EE49RKFGKBAP7WCJ15R63"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "No: Annie and Yongyan break up and he is arrested (Prime Video). Wikipedia says she gives birth to their child, but they do not end up together.",
+     "married": "not stated",
+     "pregnant_end": "Yes: Annie is still pregnant at the end (Prime Video synopsis)",
+     "distinct_story": true,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -121980,8 +122304,41 @@ window.CATALOG = {
      "group": "Unresolved leads",
      "confidence": "Lead",
      "note": ""
+    },
+    "streaming-oct15:15": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "",
+     "pregnant_end": "Yes: Annie is still pregnant at the end (Prime Video synopsis)",
+     "kids_status": "not stated",
+     "kids_together": "No: Annie and Yongyan break up and he is arrested (Prime Video). Wikipedia says she gives birth to their child, but they do not end up together.",
+     "married": "not stated",
+     "mechanism": "Hypnosis by a psychologist",
+     "confidence_flag": "",
+     "summary": "Prime Video episode synopses: Annie is hypnotised and, under hypnosis, tries to kill Xuezhi; psychologist Yung-Yan (Guo Yongyan) manipulates people through hypnosis. Annie later discovers she is pregnant and is still pregnant when Yung-Yan is arrested.",
+     "character": "Annie (Zhao Anni)",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "title": "Mind Game / 心迷",
+     "year": "2015",
+     "override_fields": [
+      "pregnant_end",
+      "kids_together"
+     ],
+     "sources": [
+      {
+       "label": "Prime Video: Mind Game, Season 1",
+       "url": "https://www.primevideo.com/detail/Mind-Game/0HIT4EE49RKFGKBAP7WCJ15R63"
+      }
+     ]
     }
-   }
+   },
+   "retired_ids": [
+    2942
+   ]
   },
   {
    "id": 660,
@@ -127359,30 +127716,100 @@ window.CATALOG = {
    "confidence_flag": "High confidence",
    "summary": "Vera undergoes hypnotherapy to quit smoking; afterward she loses social inhibitions and behaves increasingly strangely.",
    "character": "",
-   "provenance": "",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
    "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "format": "movie",
    "categories": [
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "medical"
    ],
    "sources": [
     {
      "label": "French Wikipedia",
      "url": "https://fr.wikipedia.org/wiki/Sous_hypnose"
+    },
+    {
+     "label": "MUBI: The Hypnosis (2023)",
+     "url": "https://mubi.com/en/us/films/the-hypnosis-2023"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "streaming-oct15"
    ],
    "source_records": [
-    "xla62ucxbx02u5:704"
+    "xla62ucxbx02u5:704",
+    "streaming-oct15:21"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:704",
+    "source": "xla62ucxbx02u5",
+    "label": "Hypnosen / The Hypnosis / Sous hypnose (2023)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Hypnosen / The Hypnosis / Sous hypnose",
+    "subtitle": "",
+    "year": "2023",
+    "meta": "film · 2023, Sweden/Norway/France",
+    "summary": "Vera undergoes hypnotherapy to quit smoking; afterward she loses social inhibitions and behaves increasingly strangely.",
+    "character": "",
+    "note": "",
+    "mechanism": "Comedy, light stories and historical demonstrations",
+    "confidence_flag": "High confidence",
+    "categories": [
+     "adult-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "French Wikipedia",
+      "url": "https://fr.wikipedia.org/wiki/Sous_hypnose"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "streaming-oct15:21",
+     "source": "streaming-oct15",
+     "label": "Hypnosen / The Hypnosis / Sous hypnose (2023)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Hypnosen / The Hypnosis / Sous hypnose",
+     "subtitle": "",
+     "year": "2023",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "MUBI: The Hypnosis (2023)",
+       "url": "https://mubi.com/en/us/films/the-hypnosis-2023"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": false,
+     "matched_by": "same title+year"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:704": {
      "t": "Hypnosen / The Hypnosis / Sous hypnose",
@@ -127402,8 +127829,37 @@ window.CATALOG = {
        "https://fr.wikipedia.org/wiki/Sous_hypnose"
       ]
      ]
+    },
+    "streaming-oct15:21": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "",
+     "confidence_flag": "",
+     "summary": "",
+     "character": "",
+     "categories": [
+      "medical"
+     ],
+     "title": "Hypnosen / The Hypnosis / Sous hypnose",
+     "year": "2023",
+     "sources": [
+      {
+       "label": "MUBI: The Hypnosis (2023)",
+       "url": "https://mubi.com/en/us/films/the-hypnosis-2023"
+      }
+     ]
     }
-   }
+   },
+   "retired_ids": [
+    2946
+   ]
   },
   {
    "id": 700,
@@ -233312,25 +233768,36 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "format": "movie",
    "categories": [
     "scifi",
-    "human"
+    "human",
+    "adult-hypnosis"
    ],
    "sources": [
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/Girl_Next"
+    },
+    {
+     "label": "JustWatch: Girl Next (Prime Video, Tubi)",
+     "url": "https://www.justwatch.com/us/movie/girl-next"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "streaming-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1296",
-    "worldwide-hypnosis:414"
+    "worldwide-hypnosis:414",
+    "streaming-oct15:26"
    ],
    "index_only": false,
    "local_only": false,
@@ -233394,6 +233861,38 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "streaming-oct15:26",
+     "source": "streaming-oct15",
+     "label": "Girl Next (2021)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Girl Next",
+     "subtitle": "",
+     "year": "2021",
+     "meta": "",
+     "summary": "JustWatch synopsis: traffickers use drug- and trauma-based mind control to turn women into 'Sofia' dolls.",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "JustWatch: Girl Next (Prime Video, Tubi)",
+       "url": "https://www.justwatch.com/us/movie/girl-next"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -233439,8 +233938,37 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "streaming-oct15:26": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "",
+     "confidence_flag": "",
+     "summary": "JustWatch synopsis: traffickers use drug- and trauma-based mind control to turn women into 'Sofia' dolls.",
+     "character": "",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "title": "Girl Next",
+     "year": "2021",
+     "sources": [
+      {
+       "label": "JustWatch: Girl Next (Prime Video, Tubi)",
+       "url": "https://www.justwatch.com/us/movie/girl-next"
+      }
+     ]
     }
    },
+   "retired_ids": [
+    2950
+   ],
    "watch_links": [
     {
      "service": "Hoopla",
@@ -285624,6 +286152,10 @@ window.CATALOG = {
    "note": "Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "format": "movie",
    "categories": [
     "medical"
@@ -285636,16 +286168,22 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Murder_in_Mind_%28film%29"
+    },
+    {
+     "label": "MUBI: Murder in Mind (1997)",
+     "url": "https://mubi.com/en/us/films/murder-in-mind"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "streaming-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1579",
-    "worldwide-hypnosis:614"
+    "worldwide-hypnosis:614",
+    "streaming-oct15:19"
    ],
    "index_only": false,
    "local_only": false,
@@ -285715,6 +286253,38 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "streaming-oct15:19",
+     "source": "streaming-oct15",
+     "label": "Murder In Mind (1997)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Murder In Mind",
+     "subtitle": "",
+     "year": "1997",
+     "meta": "",
+     "summary": "MUBI synopsis: a woman uses hypnosis to identify her husband's killer.",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "MUBI: Murder in Mind (1997)",
+       "url": "https://mubi.com/en/us/films/murder-in-mind"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -285766,8 +286336,37 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "streaming-oct15:19": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "",
+     "confidence_flag": "",
+     "summary": "MUBI synopsis: a woman uses hypnosis to identify her husband's killer.",
+     "character": "",
+     "categories": [
+      "medical"
+     ],
+     "title": "Murder In Mind",
+     "year": "1997",
+     "sources": [
+      {
+       "label": "MUBI: Murder in Mind (1997)",
+       "url": "https://mubi.com/en/us/films/murder-in-mind"
+      }
+     ]
     }
-   }
+   },
+   "retired_ids": [
+    2945
+   ]
   },
   {
    "id": 1566,
@@ -380915,9 +381514,14 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "format": "movie",
    "categories": [
-    "human"
+    "human",
+    "medical"
    ],
    "sources": [
     {
@@ -380927,20 +381531,90 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Chaotic_Ana"
+    },
+    {
+     "label": "MUBI: Chaotic Ana (2007)",
+     "url": "https://mubi.com/en/us/films/chaotic-ana"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "streaming-oct15"
    ],
    "source_records": [
-    "worldwide-hypnosis:184"
+    "worldwide-hypnosis:184",
+    "streaming-oct15:20"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:184",
+    "source": "worldwide-hypnosis",
+    "label": "Chaotic Ana (2007)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Chaotic Ana",
+    "subtitle": "",
+    "year": "2007",
+    "meta": "Film · Spain · Spanish",
+    "summary": "The teenager artist Ana is raised in Ibiza by her German father Klaus in a naturalist lifestyle in a cave. One day, she meets a woman called Justine that invites Ana to move to Madrid, offering education and economical support, to live in an old house with other artists having classes of Arts and with the only commitment of studying.",
+    "character": "",
+    "note": "",
+    "mechanism": "Traditional hypnosis (pendulum, watch, voice or gaze)",
+    "confidence_flag": "High · fan-wiki scene log + Wikipedia plot mentions hypnosis",
+    "categories": [
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/Chaotic_Ana"
+     },
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chaotic_Ana"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "streaming-oct15:20",
+     "source": "streaming-oct15",
+     "label": "Chaotic Ana (2007)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Chaotic Ana",
+     "subtitle": "",
+     "year": "2007",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "MUBI: Chaotic Ana (2007)",
+       "url": "https://mubi.com/en/us/films/chaotic-ana"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": false
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:184": {
      "title": "Chaotic Ana",
@@ -380966,6 +381640,32 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "streaming-oct15:20": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "",
+     "confidence_flag": "",
+     "summary": "",
+     "character": "",
+     "categories": [
+      "medical"
+     ],
+     "title": "Chaotic Ana",
+     "year": "2007",
+     "sources": [
+      {
+       "label": "MUBI: Chaotic Ana (2007)",
+       "url": "https://mubi.com/en/us/films/chaotic-ana"
+      }
+     ]
     }
    }
   },
@@ -427431,6 +428131,225 @@ window.CATALOG = {
      ]
     }
    }
+  },
+  {
+   "id": 2944,
+   "title": "Insaniac",
+   "subtitle": "",
+   "year": "2021",
+   "meta": "",
+   "mechanism": "Hypnosis",
+   "confidence_flag": "",
+   "summary": "Tubi synopsis: a deranged woman with amnesia is hypnotised so she can explore her own mind, which turns out to be a nightmarish landscape of violence and horror.",
+   "character": "",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "movie",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Tubi: Insaniac (2021)",
+     "url": "https://tubitv.com/movies/616721/insaniac"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:18"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:18": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "",
+     "summary": "Tubi synopsis: a deranged woman with amnesia is hypnotised so she can explore her own mind, which turns out to be a nightmarish landscape of violence and horror.",
+     "character": "",
+     "categories": [
+      "medical"
+     ],
+     "title": "Insaniac",
+     "year": "2021",
+     "sources": [
+      {
+       "label": "Tubi: Insaniac (2021)",
+       "url": "https://tubitv.com/movies/616721/insaniac"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2948,
+   "title": "The RIP Files — \"The Mad Major\"",
+   "subtitle": "S1E9",
+   "year": "2011",
+   "meta": "Paranormal reality series · USA · English",
+   "mechanism": "Hypnotic trance",
+   "confidence_flag": "",
+   "summary": "Pluto TV synopsis: using hypnosis, Jim puts Sara into a trance that heightens her psychic senses and leads to the discovery of a previously unknown spirit.",
+   "character": "Sara",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "Pluto TV: The RIP Files S1E9 'The Mad Major'",
+     "url": "https://pluto.tv/us/shows/3150463/episode/64e39dc8e675cb001327fd57/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:24"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:24": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "S1E9",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnotic trance",
+     "confidence_flag": "",
+     "summary": "Pluto TV synopsis: using hypnosis, Jim puts Sara into a trance that heightens her psychic senses and leads to the discovery of a previously unknown spirit.",
+     "character": "Sara",
+     "categories": [
+      "spirit"
+     ],
+     "title": "The RIP Files — \"The Mad Major\"",
+     "year": "2011",
+     "meta": "Paranormal reality series · USA · English",
+     "sources": [
+      {
+       "label": "Pluto TV: The RIP Files S1E9 'The Mad Major'",
+       "url": "https://pluto.tv/us/shows/3150463/episode/64e39dc8e675cb001327fd57/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2949,
+   "title": "Crime of Desire (Junoon) — \"The Unsatisfied Wife\"",
+   "subtitle": "Episode 8",
+   "year": "2020",
+   "meta": "Hindi web series · hoichoi · India",
+   "mechanism": "Hypnosis",
+   "confidence_flag": "",
+   "summary": "Episode synopsis (TheTVDB): Minnie reveals her deepest secrets to Kanishka and asks him to hypnotise her. The series streams on hoichoi and is also listed on Prime Video and Apple TV.",
+   "character": "Minnie",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "Yes: the episode is titled 'The Unsatisfied Wife'",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "Prime Video: Crime of Desire, Season 1 (hoichoi)",
+     "url": "https://www.primevideo.com/detail/JunoonHindi/0LH2QQ2G0P5ILDD7NVHHA9RQQH"
+    },
+    {
+     "label": "Apple TV: Crime of Desire",
+     "url": "https://tv.apple.com/in/show/crime-of-desire/umc.cmc.2s2dsujvbk4hri9dfli54cw1x"
+    },
+    {
+     "label": "TheTVDB: 'The Unsatisfied Wife'",
+     "url": "https://thetvdb.com/series/bonyo-premer-golpo/episodes/7996106"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:25"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:25": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "Episode 8",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "Yes: the episode is titled 'The Unsatisfied Wife'",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "",
+     "summary": "Episode synopsis (TheTVDB): Minnie reveals her deepest secrets to Kanishka and asks him to hypnotise her. The series streams on hoichoi and is also listed on Prime Video and Apple TV.",
+     "character": "Minnie",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "title": "Crime of Desire (Junoon) — \"The Unsatisfied Wife\"",
+     "year": "2020",
+     "meta": "Hindi web series · hoichoi · India",
+     "sources": [
+      {
+       "label": "Prime Video: Crime of Desire, Season 1 (hoichoi)",
+       "url": "https://www.primevideo.com/detail/JunoonHindi/0LH2QQ2G0P5ILDD7NVHHA9RQQH"
+      },
+      {
+       "label": "Apple TV: Crime of Desire",
+       "url": "https://tv.apple.com/in/show/crime-of-desire/umc.cmc.2s2dsujvbk4hri9dfli54cw1x"
+      },
+      {
+       "label": "TheTVDB: 'The Unsatisfied Wife'",
+       "url": "https://thetvdb.com/series/bonyo-premer-golpo/episodes/7996106"
+      }
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -428532,6 +429451,12 @@ window.CATALOG = {
         "Hypnotherapist or doctor manipulates a female patient",
         "Medium-high confidence"
        ],
+       "sources": [
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt9270830"
+        }
+       ],
        "provenance": "Source basis: Southeast Asia regional sweep; no source URL was preserved in the coordinator report.",
        "from_source": "xla62ucxbx02u5"
       },
@@ -429449,6 +430374,24 @@ window.CATALOG = {
         "Literal hypnosis",
         "Single fan-wiki source"
        ],
+       "sources": [
+        {
+         "label": "Mental Block Wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Dark_Shadows_(1966_TV_series)"
+        },
+        {
+         "label": "hero.fandom.com",
+         "url": "https://hero.fandom.com/wiki/Barnabas_Collins"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Dark_Shadows_%281966_TV_series%29"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Dark_Shadows"
+        }
+       ],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -429853,6 +430796,12 @@ window.CATALOG = {
         "Adult female hypnosis — R-rated-equivalent worldwide",
         "Comedy, light stories and historical demonstrations",
         "High confidence"
+       ],
+       "sources": [
+        {
+         "label": "French Wikipedia",
+         "url": "https://fr.wikipedia.org/wiki/Sous_hypnose"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -431009,6 +431958,14 @@ window.CATALOG = {
      "title": "Streaming-service additions (Oct 2026)",
      "notes": [],
      "items": [
+      {
+       "id": 2949,
+       "from_source": "streaming-oct15"
+      },
+      {
+       "id": 1285,
+       "from_source": "streaming-oct15"
+      },
       {
        "id": 2935,
        "from_source": "streaming-oct15"
@@ -432280,6 +433237,16 @@ window.CATALOG = {
         "Human-villain control",
         "Demonic / occult control",
         "Research report · web-verified"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Penny_Dreadful"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Penny_Dreadful_%28TV_series%29"
+        }
        ],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
@@ -445515,6 +446482,24 @@ window.CATALOG = {
         "Literal hypnosis",
         "Single fan-wiki source"
        ],
+       "sources": [
+        {
+         "label": "Mental Block Wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Dark_Shadows_(1966_TV_series)"
+        },
+        {
+         "label": "hero.fandom.com",
+         "url": "https://hero.fandom.com/wiki/Barnabas_Collins"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Dark_Shadows_%281966_TV_series%29"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Dark_Shadows"
+        }
+       ],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -449066,6 +450051,16 @@ window.CATALOG = {
         "Control mechanism unstated",
         "High · fan-wiki scene log + Wikipedia plot mentions hypnosis"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Murder_In_Mind_%281997_Movie%29"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Murder_in_Mind_%28film%29"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -449734,6 +450729,10 @@ window.CATALOG = {
        "from_source": "streaming-oct15"
       },
       {
+       "id": 2252,
+       "from_source": "streaming-oct15"
+      },
+      {
        "id": 704,
        "from_source": "streaming-oct15"
       },
@@ -449742,11 +450741,23 @@ window.CATALOG = {
        "from_source": "streaming-oct15"
       },
       {
+       "id": 699,
+       "from_source": "streaming-oct15"
+      },
+      {
        "id": 655,
        "from_source": "streaming-oct15"
       },
       {
+       "id": 2944,
+       "from_source": "streaming-oct15"
+      },
+      {
        "id": 2934,
+       "from_source": "streaming-oct15"
+      },
+      {
+       "id": 286,
        "from_source": "streaming-oct15"
       },
       {
@@ -462561,6 +463572,12 @@ window.CATALOG = {
         "Trance",
         "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Girl_Next"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -466533,6 +467550,10 @@ window.CATALOG = {
       {
        "id": 2934,
        "from_source": "streaming-oct15"
+      },
+      {
+       "id": 2948,
+       "from_source": "streaming-oct15"
       }
      ],
      "from_source": "streaming-oct15"
@@ -466708,7 +467729,8 @@ window.CATALOG = {
     "indian-langs-oct14",
     "fanwiki-screen-oct14",
     "telugu-deep-oct15",
-    "official-yt-oct15"
+    "official-yt-oct15",
+    "streaming-oct15"
    ],
    "groups": [
     {
@@ -467139,6 +468161,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "official-yt-oct15"
+    },
+    {
+     "title": "Streaming-service additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 39,
+       "from_source": "streaming-oct15"
+      }
+     ],
+     "from_source": "streaming-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -467147,7 +468180,8 @@ window.CATALOG = {
     "indian-langs-oct14": null,
     "fanwiki-screen-oct14": null,
     "telugu-deep-oct15": null,
-    "official-yt-oct15": null
+    "official-yt-oct15": null,
+    "streaming-oct15": null
    }
   },
   {

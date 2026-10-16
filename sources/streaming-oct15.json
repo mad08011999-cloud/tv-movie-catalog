@@ -383,6 +383,336 @@
      "url": "https://www.viki.com/tv/39798c-desire-catcher"
     }
    ]
+  },
+  {
+   "standalone": true,
+   "group": "Streaming-service additions (Oct 2026)",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "format": "tv",
+   "subtitle": "",
+   "pregnant_end": "Yes: Annie is still pregnant at the end (Prime Video synopsis)",
+   "kids_status": "not stated",
+   "kids_together": "No: Annie and Yongyan break up and he is arrested (Prime Video). Wikipedia says she gives birth to their child, but they do not end up together.",
+   "married": "not stated",
+   "mechanism": "Hypnosis by a psychologist",
+   "confidence_flag": "",
+   "summary": "Prime Video episode synopses: Annie is hypnotised and, under hypnosis, tries to kill Xuezhi; psychologist Yung-Yan (Guo Yongyan) manipulates people through hypnosis. Annie later discovers she is pregnant and is still pregnant when Yung-Yan is arrested.",
+   "character": "Annie (Zhao Anni)",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "title": "Mind Game / 心迷",
+   "year": "2015",
+   "override_fields": [
+    "pregnant_end",
+    "kids_together"
+   ],
+   "sources": [
+    {
+     "label": "Prime Video: Mind Game, Season 1",
+     "url": "https://www.primevideo.com/detail/Mind-Game/0HIT4EE49RKFGKBAP7WCJ15R63"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "group": "Streaming-service additions (Oct 2026)",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "format": "movie",
+   "subtitle": "",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "mechanism": "Hypnotherapy",
+   "confidence_flag": "",
+   "summary": "Tubi listing. Do-hyun sends his depressed friend Seo Hyun-jung to Professor Choi for hypnotherapy. Afterwards she sees visions of a child, Seung-min, and later kills herself.",
+   "character": "Seo Hyun-jung (college student)",
+   "categories": [
+    "medical"
+   ],
+   "title": "The Hypnosis (최면)",
+   "year": "2021",
+   "sources": [
+    {
+     "label": "Tubi: The Hypnosis (2021)",
+     "url": "https://tubitv.com/movies/676274/the-hypnosis"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "group": "Streaming-service additions (Oct 2026)",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "format": "tv",
+   "subtitle": "",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "mechanism": "Hypnosis",
+   "confidence_flag": "",
+   "summary": "Paramount+ synopsis, S3E4 'A Blade of Grass': Vanessa persuades Dr. Seward to use hypnosis to take her back in time.",
+   "character": "Vanessa Ives",
+   "categories": [
+    "medical"
+   ],
+   "title": "Penny Dreadful",
+   "year": "2014",
+   "sources": [
+    {
+     "label": "Paramount+: Penny Dreadful S3E4 'A Blade of Grass'",
+     "url": "https://www.paramountplus.com/shows/video/GGQ7PI3Es97lm9kpQJnsGPb6Va0Motee/"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "group": "Streaming-service additions (Oct 2026)",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "format": "movie",
+   "subtitle": "",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "mechanism": "Hypnosis",
+   "confidence_flag": "",
+   "summary": "Tubi synopsis: a deranged woman with amnesia is hypnotised so she can explore her own mind, which turns out to be a nightmarish landscape of violence and horror.",
+   "character": "",
+   "categories": [
+    "medical"
+   ],
+   "title": "Insaniac",
+   "year": "2021",
+   "sources": [
+    {
+     "label": "Tubi: Insaniac (2021)",
+     "url": "https://tubitv.com/movies/616721/insaniac"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "group": "Streaming-service additions (Oct 2026)",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "format": "movie",
+   "subtitle": "",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "MUBI synopsis: a woman uses hypnosis to identify her husband's killer.",
+   "character": "",
+   "categories": [
+    "medical"
+   ],
+   "title": "Murder In Mind",
+   "year": "1997",
+   "sources": [
+    {
+     "label": "MUBI: Murder in Mind (1997)",
+     "url": "https://mubi.com/en/us/films/murder-in-mind"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "group": "Streaming-service additions (Oct 2026)",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "format": "movie",
+   "subtitle": "",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "",
+   "character": "",
+   "categories": [
+    "medical"
+   ],
+   "title": "Chaotic Ana",
+   "year": "2007",
+   "sources": [
+    {
+     "label": "MUBI: Chaotic Ana (2007)",
+     "url": "https://mubi.com/en/us/films/chaotic-ana"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "group": "Streaming-service additions (Oct 2026)",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "format": "movie",
+   "subtitle": "",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "",
+   "character": "",
+   "categories": [
+    "medical"
+   ],
+   "title": "Hypnosen / The Hypnosis / Sous hypnose",
+   "year": "2023",
+   "sources": [
+    {
+     "label": "MUBI: The Hypnosis (2023)",
+     "url": "https://mubi.com/en/us/films/the-hypnosis-2023"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "group": "Streaming-service additions (Oct 2026)",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "format": "movie",
+   "subtitle": "",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "",
+   "character": "",
+   "categories": [
+    "medical"
+   ],
+   "title": "Hypnotic",
+   "year": "2021",
+   "sources": [
+    {
+     "label": "MUBI: Hypnotic (2021)",
+     "url": "https://mubi.com/en/us/films/hypnotic-2021"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "group": "Streaming-service additions (Oct 2026)",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "format": "tv",
+   "subtitle": "",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "mechanism": "Hypnosis / vampire thrall",
+   "confidence_flag": "",
+   "summary": "Pluto TV episode synopses: Ep 295, Julia hypnotises Maggie before she can say anything about Barnabas. Ep 347 and Ep 352, Julia hypnotises Victoria. Ep 351, under Barnabas' control, Carolyn is ordered to help him win Victoria.",
+   "character": "Maggie Evans; Victoria Winters; Carolyn Stoddard",
+   "categories": [
+    "evil-female"
+   ],
+   "title": "Dark Shadows",
+   "year": "1966–71",
+   "sources": [
+    {
+     "label": "Pluto TV: Dark Shadows S4E22 (Ep 352)",
+     "url": "https://pluto.tv/us/shows/2950831/episode/5f4478b59025f2001a7983c9/"
+    },
+    {
+     "label": "Pluto TV: Dark Shadows S3E5 (Ep 295)",
+     "url": "https://pluto.tv/us/shows/2950831/episode/5f4405299025f2001a79622f/"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "group": "Streaming-service additions (Oct 2026)",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "format": "tv",
+   "subtitle": "S1E9",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "mechanism": "Hypnotic trance",
+   "confidence_flag": "",
+   "summary": "Pluto TV synopsis: using hypnosis, Jim puts Sara into a trance that heightens her psychic senses and leads to the discovery of a previously unknown spirit.",
+   "character": "Sara",
+   "categories": [
+    "spirit"
+   ],
+   "title": "The RIP Files — \"The Mad Major\"",
+   "year": "2011",
+   "meta": "Paranormal reality series · USA · English",
+   "sources": [
+    {
+     "label": "Pluto TV: The RIP Files S1E9 'The Mad Major'",
+     "url": "https://pluto.tv/us/shows/3150463/episode/64e39dc8e675cb001327fd57/"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "group": "Streaming-service additions (Oct 2026)",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "format": "tv",
+   "subtitle": "Episode 8",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "Yes: the episode is titled 'The Unsatisfied Wife'",
+   "mechanism": "Hypnosis",
+   "confidence_flag": "",
+   "summary": "Episode synopsis (TheTVDB): Minnie reveals her deepest secrets to Kanishka and asks him to hypnotise her. The series streams on hoichoi and is also listed on Prime Video and Apple TV.",
+   "character": "Minnie",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "title": "Crime of Desire (Junoon) — \"The Unsatisfied Wife\"",
+   "year": "2020",
+   "meta": "Hindi web series · hoichoi · India",
+   "sources": [
+    {
+     "label": "Prime Video: Crime of Desire, Season 1 (hoichoi)",
+     "url": "https://www.primevideo.com/detail/JunoonHindi/0LH2QQ2G0P5ILDD7NVHHA9RQQH"
+    },
+    {
+     "label": "Apple TV: Crime of Desire",
+     "url": "https://tv.apple.com/in/show/crime-of-desire/umc.cmc.2s2dsujvbk4hri9dfli54cw1x"
+    },
+    {
+     "label": "TheTVDB: 'The Unsatisfied Wife'",
+     "url": "https://thetvdb.com/series/bonyo-premer-golpo/episodes/7996106"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "group": "Streaming-service additions (Oct 2026)",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "format": "movie",
+   "subtitle": "",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "JustWatch synopsis: traffickers use drug- and trauma-based mind control to turn women into 'Sofia' dolls.",
+   "character": "",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "title": "Girl Next",
+   "year": "2021",
+   "sources": [
+    {
+     "label": "JustWatch: Girl Next (Prime Video, Tubi)",
+     "url": "https://www.justwatch.com/us/movie/girl-next"
+    }
+   ]
   }
  ]
 }

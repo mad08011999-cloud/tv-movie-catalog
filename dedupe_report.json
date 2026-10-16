@@ -1037,6 +1037,13 @@
      "subtitle": "",
      "year": "1966",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "streaming-oct15:23",
+     "title": "Dark Shadows",
+     "subtitle": "",
+     "year": "1966–71",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -3922,6 +3929,13 @@
     },
     {
      "rid": "streaming-oct15:3",
+     "title": "Hypnotic",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "same title+year"
+    },
+    {
+     "rid": "streaming-oct15:22",
      "title": "Hypnotic",
      "subtitle": "",
      "year": "2021",
@@ -7873,6 +7887,13 @@
      "subtitle": "",
      "year": "2014–2016",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "streaming-oct15:17",
+     "title": "Penny Dreadful",
+     "subtitle": "",
+     "year": "2014",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -15324,6 +15345,13 @@
      "subtitle": "",
      "year": "2021",
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "streaming-oct15:16",
+     "title": "The Hypnosis (최면)",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -15364,6 +15392,13 @@
      "subtitle": "",
      "year": "2015 Singapore",
      "matched_by": "alias"
+    },
+    {
+     "rid": "streaming-oct15:15",
+     "title": "Mind Game / 心迷",
+     "subtitle": "",
+     "year": "2015",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -15829,6 +15864,26 @@
      "subtitle": "",
      "year": "2019",
      "matched_by": "alias"
+    }
+   ]
+  },
+  {
+   "kept_id": 699,
+   "kept": "Hypnosen / The Hypnosis / Sous hypnose (2023)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:704",
+     "title": "Hypnosen / The Hypnosis / Sous hypnose",
+     "subtitle": "",
+     "year": "2023"
+    },
+    {
+     "rid": "streaming-oct15:21",
+     "title": "Hypnosen / The Hypnosis / Sous hypnose",
+     "subtitle": "",
+     "year": "2023",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -27923,6 +27978,13 @@
      "subtitle": "",
      "year": "2021",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "streaming-oct15:26",
+     "title": "Girl Next",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -33956,6 +34018,13 @@
      "subtitle": "",
      "year": "1997",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "streaming-oct15:19",
+     "title": "Murder In Mind",
+     "subtitle": "",
+     "year": "1997",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -42734,6 +42803,25 @@
    ]
   },
   {
+   "kept_id": 2252,
+   "kept": "Chaotic Ana (2007)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:184",
+     "title": "Chaotic Ana",
+     "subtitle": "",
+     "year": "2007"
+    },
+    {
+     "rid": "streaming-oct15:20",
+     "title": "Chaotic Ana",
+     "subtitle": "",
+     "year": "2007"
+    }
+   ]
+  },
+  {
    "kept_id": 2318,
    "kept": "Out For Blood (2004)",
    "scope": "cross-source",
@@ -43522,6 +43610,42 @@
    "year": "2023",
    "kept_id": 704,
    "retired_id": 2941
+  },
+  {
+   "title": "Mind Game / 心迷",
+   "year": "2015",
+   "kept_id": 659,
+   "retired_id": 2942
+  },
+  {
+   "title": "Penny Dreadful",
+   "year": "2014",
+   "kept_id": 286,
+   "retired_id": 2943
+  },
+  {
+   "title": "Murder In Mind",
+   "year": "1997",
+   "kept_id": 1565,
+   "retired_id": 2945
+  },
+  {
+   "title": "Hypnosen / The Hypnosis / Sous hypnose",
+   "year": "2023",
+   "kept_id": 699,
+   "retired_id": 2946
+  },
+  {
+   "title": "Dark Shadows",
+   "year": "1966–71",
+   "kept_id": 39,
+   "retired_id": 2947
+  },
+  {
+   "title": "Girl Next",
+   "year": "2021",
+   "kept_id": 1285,
+   "retired_id": 2950
   }
  ],
  "merge_rules": [
@@ -43633,11 +43757,11 @@
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
   "official-yt-oct15": 45,
-  "streaming-oct15": 14
+  "streaming-oct15": 26
  },
- "entry_count_after_dedupe": 2823,
+ "entry_count_after_dedupe": 2826,
  "within_source_groups": 3,
- "cross_source_groups": 1810,
+ "cross_source_groups": 1812,
  "index_only_records": 65,
- "local_only_records": 602
+ "local_only_records": 605
 }
