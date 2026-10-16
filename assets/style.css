@@ -273,6 +273,3 @@ details.merged .clinks a{font-size:.7rem}
 #labelToggle{height:44px;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:8px;padding:0 13px;cursor:pointer}
 #labelToggle[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
 .content-label{margin:0 0 6px;padding:4px 8px;border:2px solid #b3261e;border-radius:6px;color:#b3261e;font-size:.85em;display:inline-block}
-.tier{grid-column:1/-1;display:flex;gap:10px;align-items:baseline;flex-wrap:wrap;border-top:2px solid currentColor;padding:10px 0 2px;margin-top:6px}
-.tier span{opacity:.7;font-size:.9em}
-.tier.tier2,.tier.tier3{border-top-style:dashed;opacity:.9}
