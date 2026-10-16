@@ -500,6 +500,13 @@
      "subtitle": "",
      "year": "2004",
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:8",
+     "title": "The Hypnotized / Faceless Beauty",
+     "subtitle": "",
+     "year": "2004",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -530,6 +537,13 @@
     },
     {
      "rid": "hypnotized-marriage:20",
+     "title": "The Love by Hypnotic",
+     "subtitle": "",
+     "year": "2019",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "kr-cn-hypnosis:11",
      "title": "The Love by Hypnotic",
      "subtitle": "",
      "year": "2019",
@@ -1534,6 +1548,13 @@
      "subtitle": "Hypnotized Her / 失忆的她：催眠阴谋",
      "year": "2026",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "kr-cn-hypnosis:7",
+     "title": "被催眠的她",
+     "subtitle": "",
+     "year": "2026",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -1962,6 +1983,13 @@
      "subtitle": "",
      "year": "2021",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:12",
+     "title": "Recalled",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -1989,6 +2017,13 @@
      "subtitle": "",
      "year": "2020",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:13",
+     "title": "Flower of Evil",
+     "subtitle": "",
+     "year": "2020",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -3037,6 +3072,13 @@
      "subtitle": "",
      "year": "2022 Taiwan",
      "matched_by": "alias"
+    },
+    {
+     "rid": "kr-cn-hypnosis:14",
+     "title": "Incantation",
+     "subtitle": "",
+     "year": "2022",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -15367,6 +15409,13 @@
      "subtitle": "",
      "year": "2014",
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:15",
+     "title": "The Great Hypnotist (催眠大师)",
+     "subtitle": "",
+     "year": "2014",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -15384,6 +15433,13 @@
     {
      "rid": "hypnosis-assault:17",
      "title": "Marionette / The Puppet (꼭두각시)",
+     "subtitle": "",
+     "year": "2013",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "kr-cn-hypnosis:9",
+     "title": "Marionette (꼭두각시)",
      "subtitle": "",
      "year": "2013",
      "matched_by": "match_title"
@@ -15414,6 +15470,13 @@
      "subtitle": "",
      "year": "2021",
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:16",
+     "title": "The Hypnosis (최면)",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -15664,6 +15727,33 @@
      "subtitle": "",
      "year": "2003",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "kr-cn-hypnosis:17",
+     "title": "Oldboy (올드보이)",
+     "subtitle": "",
+     "year": "2003",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 671,
+   "kept": "Guilt by Design (催眠·裁決) (2019)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:676",
+     "title": "Guilt by Design (催眠·裁決)",
+     "subtitle": "",
+     "year": "2019"
+    },
+    {
+     "rid": "kr-cn-hypnosis:18",
+     "title": "Guilt by Design (催眠·裁決)",
+     "subtitle": "",
+     "year": "2019",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -15745,6 +15835,26 @@
      "subtitle": "S02E02 · “Teresa and the Moths”",
      "year": "2015–17",
      "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 680,
+   "kept": "Master of Hypnotism (催眠大师) (2017)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:685",
+     "title": "Master of Hypnotism (催眠大师)",
+     "subtitle": "",
+     "year": "2017"
+    },
+    {
+     "rid": "kr-cn-hypnosis:19",
+     "title": "Master of Hypnotism (催眠大师)",
+     "subtitle": "",
+     "year": "2017",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -16031,6 +16141,26 @@
    ]
   },
   {
+   "kept_id": 705,
+   "kept": "The Girl in a Tiny Room (Year unresolved)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:710",
+     "title": "The Girl in a Tiny Room",
+     "subtitle": "",
+     "year": "Year unresolved"
+    },
+    {
+     "rid": "kr-cn-hypnosis:20",
+     "title": "The Girl in a Tiny Room",
+     "subtitle": "",
+     "year": "Year unresolved",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 713,
    "kept": "El Zorro, la espada y la rosa (2007)",
    "scope": "cross-source",
@@ -16284,6 +16414,13 @@
      "subtitle": "",
      "year": "1975 Hong Kong",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:21",
+     "title": "Black Magic",
+     "subtitle": "",
+     "year": "1975",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -17866,6 +18003,13 @@
      "subtitle": "",
      "year": "2017",
      "matched_by": "alias"
+    },
+    {
+     "rid": "kr-cn-hypnosis:22",
+     "title": "降魔的 / The Exorcist's Meter",
+     "subtitle": "",
+     "year": "2017",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -17900,6 +18044,13 @@
      "subtitle": "",
      "year": "1983 Hong Kong",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:23",
+     "title": "種鬼 / Seeding of a Ghost",
+     "subtitle": "",
+     "year": "1983",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -18346,6 +18497,13 @@
      "subtitle": "",
      "year": "2008 Korean short",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:24",
+     "title": "While You Were Sleeping",
+     "subtitle": "",
+     "year": "2008",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -21067,6 +21225,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:25",
+     "title": "Be My Cat",
+     "subtitle": "",
+     "year": "None",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -22764,6 +22929,13 @@
      "subtitle": "",
      "year": "2021",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:26",
+     "title": "Chinese Speaking Vampires",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -25379,6 +25551,13 @@
      "subtitle": "",
      "year": "2019",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:27",
+     "title": "Dracula: A Vampyre in Beijing",
+     "subtitle": "",
+     "year": "2019",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -25579,6 +25758,13 @@
      "subtitle": "",
      "year": "1982",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:28",
+     "title": "Dracula Rises from Coffin",
+     "subtitle": "",
+     "year": "1982",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -25699,6 +25885,13 @@
      "subtitle": "",
      "year": "2021",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:29",
+     "title": "Dream Garden",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -26241,6 +26434,13 @@
      "subtitle": "",
      "year": "2018",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:30",
+     "title": "Endless Traps",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -26482,6 +26682,13 @@
      "subtitle": "",
      "year": "1998",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:31",
+     "title": "Exodus From Afar",
+     "subtitle": "",
+     "year": "1998",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -26582,6 +26789,13 @@
      "subtitle": "",
      "year": "2020",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:32",
+     "title": "Fairyland Lovers",
+     "subtitle": "",
+     "year": "2020",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -26602,6 +26816,13 @@
      "subtitle": "",
      "year": "2015",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:33",
+     "title": "Falling Down",
+     "subtitle": "",
+     "year": "2015",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -27003,6 +27224,13 @@
      "subtitle": "ep. 62",
      "year": "2011",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:34",
+     "title": "Flying wooden donkey",
+     "subtitle": "",
+     "year": "2011",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -27606,6 +27834,13 @@
      "subtitle": "",
      "year": "2014",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:35",
+     "title": "Gap Dong",
+     "subtitle": "",
+     "year": "2014",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -28703,6 +28938,13 @@
      "subtitle": "",
      "year": "2010",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:36",
+     "title": "Haunters",
+     "subtitle": "",
+     "year": "2010",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -28770,6 +29012,13 @@
      "subtitle": "",
      "year": "2015",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:37",
+     "title": "Heart for Heaven",
+     "subtitle": "",
+     "year": "2015",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -29151,6 +29400,13 @@
      "subtitle": "",
      "year": "1990",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:38",
+     "title": "Hong Kong Paradise",
+     "subtitle": "",
+     "year": "1990",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -29552,6 +29808,13 @@
      "subtitle": "",
      "year": "2018",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:39",
+     "title": "I'm a Pet At Dali Temple",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -29819,6 +30082,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:40",
+     "title": "The Inflatable Lover",
+     "subtitle": "",
+     "year": "None",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -30435,6 +30705,13 @@
      "subtitle": "",
      "year": "2015",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:41",
+     "title": "The Journey of Flower",
+     "subtitle": "",
+     "year": "2015",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -30475,6 +30752,13 @@
      "subtitle": "",
      "year": "2016",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:42",
+     "title": "Jue Sheng",
+     "subtitle": "",
+     "year": "2016",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -31177,6 +31461,13 @@
      "subtitle": "",
      "year": "2019",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:43",
+     "title": "The Knight of Shadows: Between Yin and Yang",
+     "subtitle": "",
+     "year": "2019",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -31954,6 +32245,13 @@
      "subtitle": "",
      "year": "2016",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:44",
+     "title": "Legend of Nine Tails Fox",
+     "subtitle": "",
+     "year": "2016",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -32133,6 +32431,13 @@
      "rid": "round3:2",
      "title": "Listen To Your Husband / 听老公的话 (aka 枕边催眠师)",
      "subtitle": "听老公的话 (aka 枕边催眠师)",
+     "year": "2025",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "kr-cn-hypnosis:10",
+     "title": "Listen To Your Husband",
+     "subtitle": "",
      "year": "2025",
      "matched_by": "match_title"
     }
@@ -34128,6 +34433,13 @@
      "subtitle": "",
      "year": "2025",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:45",
+     "title": "Murderer Report",
+     "subtitle": "",
+     "year": "2025",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -37266,6 +37578,13 @@
      "subtitle": "",
      "year": "2016",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:46",
+     "title": "Rookie Agent Rouge",
+     "subtitle": "",
+     "year": "2016",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -37660,6 +37979,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:47",
+     "title": "The Scanned Love",
+     "subtitle": "",
+     "year": "None",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -38883,6 +39209,13 @@
      "subtitle": "",
      "year": "2024",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:48",
+     "title": "Sniper Elite: Nano Crisis",
+     "subtitle": "",
+     "year": "2024",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -40041,6 +40374,13 @@
      "subtitle": "",
      "year": "2020",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:49",
+     "title": "Tale Of The Nine Tailed",
+     "subtitle": "",
+     "year": "2020",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -40725,6 +41065,13 @@
      "subtitle": "",
      "year": "2017",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:50",
+     "title": "Tientsin Mystic",
+     "subtitle": "",
+     "year": "2017",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -41226,6 +41573,13 @@
      "subtitle": "",
      "year": "2018",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:51",
+     "title": "Under The Knife",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -42718,6 +43072,13 @@
      "subtitle": "also Leave You To Her; I Faked My Death to Escape Him, So He Hypnotized Me to Make Me Stay!",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "kr-cn-hypnosis:52",
+     "title": "Kiss Me, Even If It Burns",
+     "subtitle": "",
+     "year": "None",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -42737,6 +43098,26 @@
      "title": "Got Pregnant by Billionaire Brothers",
      "subtitle": "Devil's Triangle (NetShort alt title)",
      "year": "2025",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1980,
+   "kept": "Snake Year Salvation: CEO's Bargain Bride (c. 2024–26)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1995",
+     "title": "Snake Year Salvation: CEO's Bargain Bride",
+     "subtitle": "",
+     "year": "c. 2024–26"
+    },
+    {
+     "rid": "kr-cn-hypnosis:53",
+     "title": "Snake Year Salvation: CEO's Bargain Bride",
+     "subtitle": "",
+     "year": "c. 2024–26",
      "matched_by": "match_title"
     }
    ]
@@ -42762,6 +43143,86 @@
    ]
   },
   {
+   "kept_id": 1982,
+   "kept": "Twisted Vows (Unconfirmed)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1997",
+     "title": "Twisted Vows",
+     "subtitle": "",
+     "year": "Unconfirmed"
+    },
+    {
+     "rid": "kr-cn-hypnosis:54",
+     "title": "Twisted Vows",
+     "subtitle": "",
+     "year": "Unconfirmed",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1985,
+   "kept": "I Accidentally Had the Billionaire's Twins. 6 Years Later, They Saved His Empire! (Unconfirmed)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:2000",
+     "title": "I Accidentally Had the Billionaire's Twins. 6 Years Later, They Saved His Empire!",
+     "subtitle": "",
+     "year": "Unconfirmed"
+    },
+    {
+     "rid": "kr-cn-hypnosis:55",
+     "title": "I Accidentally Had the Billionaire's Twins. 6 Years Later, They Saved His Empire!",
+     "subtitle": "",
+     "year": "Unconfirmed",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1986,
+   "kept": "Broken Bone Rose (Unconfirmed)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:2001",
+     "title": "Broken Bone Rose",
+     "subtitle": "折骨薔薇 · alternate title: 开到荼蘼，花事终了",
+     "year": "Unconfirmed"
+    },
+    {
+     "rid": "kr-cn-hypnosis:56",
+     "title": "Broken Bone Rose",
+     "subtitle": "",
+     "year": "Unconfirmed",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 1987,
+   "kept": "Stay Away! She's a Violent Psycho! (Unconfirmed)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:2002",
+     "title": "Stay Away! She's a Violent Psycho!",
+     "subtitle": "",
+     "year": "Unconfirmed"
+    },
+    {
+     "rid": "kr-cn-hypnosis:57",
+     "title": "Stay Away! She's a Violent Psycho!",
+     "subtitle": "",
+     "year": "Unconfirmed",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2012,
    "kept": "Love's Enduring Promise (2004)",
    "scope": "cross-source",
@@ -42777,6 +43238,46 @@
      "title": "Love's Enduring Promise",
      "subtitle": "",
      "year": "2004",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2023,
+   "kept": "Creation of the Gods I: Kingdom of Storms (2023)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:2039",
+     "title": "Creation of the Gods I: Kingdom of Storms",
+     "subtitle": "封神第一部：朝歌风云",
+     "year": "2023"
+    },
+    {
+     "rid": "kr-cn-hypnosis:58",
+     "title": "Creation of the Gods I: Kingdom of Storms",
+     "subtitle": "",
+     "year": "2023",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2039,
+   "kept": "Moon Embracing the Sun (2012)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:2056",
+     "title": "Moon Embracing the Sun",
+     "subtitle": "해를 품은 달",
+     "year": "2012"
+    },
+    {
+     "rid": "kr-cn-hypnosis:59",
+     "title": "Moon Embracing the Sun",
+     "subtitle": "",
+     "year": "2012",
      "matched_by": "match_title"
     }
    ]
@@ -42802,6 +43303,26 @@
    ]
   },
   {
+   "kept_id": 2137,
+   "kept": "Super Godfather: My Ex Begs Me on Her Knees (c. 2026)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:2154",
+     "title": "Super Godfather: My Ex Begs Me on Her Knees",
+     "subtitle": "",
+     "year": "c. 2026"
+    },
+    {
+     "rid": "kr-cn-hypnosis:60",
+     "title": "Super Godfather: My Ex Begs Me on Her Knees",
+     "subtitle": "",
+     "year": "c. 2026",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2144,
    "kept": "Hannibal (2014)",
    "scope": "within-source",
@@ -42817,6 +43338,26 @@
      "title": "Hannibal",
      "subtitle": "S2E8 · “Su-zakana”",
      "year": "2014"
+    }
+   ]
+  },
+  {
+   "kept_id": 2175,
+   "kept": "Hypnotized Bride (2026)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "ig6qlxqxoxvcxla:165",
+     "title": "Hypnotized Bride",
+     "subtitle": "",
+     "year": "2026"
+    },
+    {
+     "rid": "kr-cn-hypnosis:61",
+     "title": "Hypnotized Bride",
+     "subtitle": "",
+     "year": "2026",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -42920,6 +43461,46 @@
    ]
   },
   {
+   "kept_id": 2232,
+   "kept": "A Portrait of Jianghu: Reincarnated Disciple (2024)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:29",
+     "title": "A Portrait of Jianghu: Reincarnated Disciple",
+     "subtitle": "",
+     "year": "2024"
+    },
+    {
+     "rid": "kr-cn-hypnosis:62",
+     "title": "A Portrait of Jianghu: Reincarnated Disciple",
+     "subtitle": "",
+     "year": "2024",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2246,
+   "kept": "Candle in the Tomb: The Worm Valley (2021)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:164",
+     "title": "Candle in the Tomb: The Worm Valley",
+     "subtitle": "",
+     "year": "2021"
+    },
+    {
+     "rid": "kr-cn-hypnosis:63",
+     "title": "Candle in the Tomb: The Worm Valley",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2252,
    "kept": "Chaotic Ana (2007)",
    "scope": "cross-source",
@@ -42939,6 +43520,66 @@
    ]
   },
   {
+   "kept_id": 2258,
+   "kept": "Curse Of Evil (1982)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:213",
+     "title": "Curse Of Evil",
+     "subtitle": "",
+     "year": "1982"
+    },
+    {
+     "rid": "kr-cn-hypnosis:64",
+     "title": "Curse Of Evil",
+     "subtitle": "",
+     "year": "1982",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2284,
+   "kept": "Gawayn (no year)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:379",
+     "title": "Gawayn",
+     "subtitle": "",
+     "year": ""
+    },
+    {
+     "rid": "kr-cn-hypnosis:65",
+     "title": "Gawayn",
+     "subtitle": "",
+     "year": "",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2301,
+   "kept": "Legend Heroes (2016)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:558",
+     "title": "Legend Heroes",
+     "subtitle": "",
+     "year": "2016"
+    },
+    {
+     "rid": "kr-cn-hypnosis:66",
+     "title": "Legend Heroes",
+     "subtitle": "",
+     "year": "2016",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2318,
    "kept": "Out For Blood (2004)",
    "scope": "cross-source",
@@ -42954,6 +43595,46 @@
      "title": "Out for Blood",
      "subtitle": "",
      "year": "2004",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2326,
+   "kept": "Pucca (no year)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:715",
+     "title": "Pucca",
+     "subtitle": "",
+     "year": ""
+    },
+    {
+     "rid": "kr-cn-hypnosis:67",
+     "title": "Pucca",
+     "subtitle": "",
+     "year": "",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2327,
+   "kept": "Psych-Hunter (2020)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:722",
+     "title": "Psych-Hunter",
+     "subtitle": "",
+     "year": "2020"
+    },
+    {
+     "rid": "kr-cn-hypnosis:68",
+     "title": "Psych-Hunter",
+     "subtitle": "",
+     "year": "2020",
      "matched_by": "match_title"
     }
    ]
@@ -42979,6 +43660,26 @@
    ]
   },
   {
+   "kept_id": 2349,
+   "kept": "The Great Adventurer Wesley (2018)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:891",
+     "title": "The Great Adventurer Wesley",
+     "subtitle": "",
+     "year": "2018"
+    },
+    {
+     "rid": "kr-cn-hypnosis:69",
+     "title": "The Great Adventurer Wesley",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2354,
    "kept": "The Thundermans (2013–2018)",
    "scope": "cross-source",
@@ -42999,6 +43700,26 @@
    ]
   },
   {
+   "kept_id": 2366,
+   "kept": "Young-gu and Count Dracula (1992)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:1061",
+     "title": "Young-gu and Count Dracula",
+     "subtitle": "",
+     "year": "1992"
+    },
+    {
+     "rid": "kr-cn-hypnosis:70",
+     "title": "Young-gu and Count Dracula",
+     "subtitle": "",
+     "year": "1992",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2589,
    "kept": "Evil Lurks (2023)",
    "scope": "cross-source",
@@ -43014,6 +43735,46 @@
      "title": "Evil Lurks",
      "subtitle": "",
      "year": "2023"
+    }
+   ]
+  },
+  {
+   "kept_id": 2620,
+   "kept": "The Last Empress (2018-19)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "no-link-additions:31",
+     "title": "The Last Empress",
+     "subtitle": "Season 1 · 52 episodes (aired 21 Nov 2018 - 21 Feb 2019); specific brainwashing episodes not identified",
+     "year": "2018-19"
+    },
+    {
+     "rid": "kr-cn-hypnosis:71",
+     "title": "The Last Empress",
+     "subtitle": "",
+     "year": "2018-19",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2621,
+   "kept": "Lao Gong Qing He Wo Lian Ai Ba (2025)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "no-link-additions:32",
+     "title": "Lao Gong Qing He Wo Lian Ai Ba",
+     "subtitle": "Season 1 · 86 episodes (aired from 20 Sep 2025); no hypnosis episode identified",
+     "year": "2025"
+    },
+    {
+     "rid": "kr-cn-hypnosis:72",
+     "title": "Lao Gong Qing He Wo Lian Ai Ba",
+     "subtitle": "",
+     "year": "2025",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -43075,6 +43836,106 @@
    ]
   },
   {
+   "kept_id": 2672,
+   "kept": "Lost Control for Him (2025)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "recheck-oct14:2",
+     "title": "Lost Control for Him",
+     "subtitle": "为她失控 / Wo Dui Ni Shang Yin",
+     "year": "2025"
+    },
+    {
+     "rid": "kr-cn-hypnosis:73",
+     "title": "Lost Control for Him",
+     "subtitle": "",
+     "year": "2025",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2679,
+   "kept": "A Different Kind of Pretty Man (2014)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "fanwiki-screen-oct14:3",
+     "title": "A Different Kind of Pretty Man",
+     "subtitle": "Episode 19",
+     "year": "2014"
+    },
+    {
+     "rid": "kr-cn-hypnosis:74",
+     "title": "A Different Kind of Pretty Man",
+     "subtitle": "",
+     "year": "2014",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2691,
+   "kept": "Armour of God (1986)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "fanwiki-screen-oct14:15",
+     "title": "Armour of God",
+     "subtitle": "",
+     "year": "1986"
+    },
+    {
+     "rid": "kr-cn-hypnosis:75",
+     "title": "Armour of God",
+     "subtitle": "",
+     "year": "1986",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2703,
+   "kept": "Black Magic 2 (1976 Hong Kong film) (1976)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "fanwiki-screen-oct14:27",
+     "title": "Black Magic 2 (1976 Hong Kong film)",
+     "subtitle": "",
+     "year": "1976"
+    },
+    {
+     "rid": "kr-cn-hypnosis:76",
+     "title": "Black Magic 2 (1976 Hong Kong film)",
+     "subtitle": "",
+     "year": "1976",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2833,
+   "kept": "The Fox Spirit and the Golden Seal (2018)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "fanwiki-screen-oct14:157",
+     "title": "The Fox Spirit and the Golden Seal",
+     "subtitle": "",
+     "year": "2018"
+    },
+    {
+     "rid": "kr-cn-hypnosis:77",
+     "title": "The Fox Spirit and the Golden Seal",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2857,
    "kept": "Upstream Color (2013)",
    "scope": "cross-source",
@@ -43094,6 +43955,26 @@
    ]
   },
   {
+   "kept_id": 2863,
+   "kept": "Yolk Man (2019)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "fanwiki-screen-oct14:187",
+     "title": "Yolk Man",
+     "subtitle": "Episode 2 / Episode 3",
+     "year": "2019"
+    },
+    {
+     "rid": "kr-cn-hypnosis:78",
+     "title": "Yolk Man",
+     "subtitle": "",
+     "year": "2019",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2872,
    "kept": "That Girl (1966–1971)",
    "scope": "cross-source",
@@ -43109,6 +43990,26 @@
      "title": "That Girl",
      "subtitle": "At the Drop of a Budget (Season 4, Episode 5)",
      "year": "1966–1971"
+    }
+   ]
+  },
+  {
+   "kept_id": 2881,
+   "kept": "Signal (2016)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "new-angles-oct15:3",
+     "title": "Signal",
+     "subtitle": "Episode 9",
+     "year": "2016"
+    },
+    {
+     "rid": "kr-cn-hypnosis:79",
+     "title": "Signal",
+     "subtitle": "",
+     "year": "2016",
+     "matched_by": "match_title"
     }
    ]
   }
@@ -44014,11 +44915,12 @@
   "indian-parallel-oct15": 4,
   "hypnotized-female-oct15": 7,
   "indonesia-sinetron-oct15": 4,
-  "hypno-turkey-oct15": 5
+  "hypno-turkey-oct15": 5,
+  "kr-cn-hypnosis": 79
  },
- "entry_count_after_dedupe": 2864,
+ "entry_count_after_dedupe": 2870,
  "within_source_groups": 3,
- "cross_source_groups": 1818,
- "index_only_records": 64,
- "local_only_records": 643
+ "cross_source_groups": 1848,
+ "index_only_records": 63,
+ "local_only_records": 649
 }

@@ -1,0 +1,1306 @@
+{
+ "id": "kr-cn-hypnosis",
+ "label": "Korean / Chinese / TW / HK female-hypnosis research",
+ "group_title": "Korea, China, Taiwan & Hong Kong — female hypnotised (Oct 2026)",
+ "description": "Korean and Chinese-language (incl. Taiwan and Hong Kong) films, series, daily dramas and vertical shorts where an adult female character is hypnotised (hypnosis, mesmerism or a hypnotic device; possession and black magic excluded). Records carry hypnotist, motive, method, pregnant_end / pregnancy_outcome, kids_together (does the couple end up with children) and kids_status (children before the story), plus per-episode notes for series. Adults only; non-explicit notes.",
+ "category_labels": {},
+ "records": [
+  {
+   "title": "Hypnotized Hypnotist (被催眠的催眠师)",
+   "year": "2017",
+   "format": "tv",
+   "meta": "Web series · China · Mandarin · 19 episodes · premiered 13 Apr 2017 · dir. Tan Jiayan",
+   "character": "Xia Ye 夏曳 (Kong Mu's fiancée) and policewoman Song Yi 宋奕",
+   "summary": "Republican-era Tianhai. Hypnotist Kong Mu discovers that his fiancée Xia Ye has been placed under the 'Pan Si Rao' (盘丝绕) hypnosis by the leader of a Japanese hypnotist sect and made to frame his ally. Policewoman Song Yi is also put into trance by Kong Mu to clear a drug reaction, and later breaks a group hypnosis in the finale.",
+   "hypnotist": "The sect leader (宗主) of a Japanese hypnotist organisation hypnotises Xia Ye; Kong Mu hypnotises Xia Ye to read her trance-dream, and Song Yi to treat her; Meng Qingsong traps the group in a hypnotic realm in the finale",
+   "gain_motive": [
+    "revenge",
+    "crime / sabotage"
+   ],
+   "method": "Hypnosis (the 'Pan Si Rao' binding technique; trance-dream entry; a totem object in the finale)",
+   "categories": [
+    "forced-obedience",
+    "human",
+    "crime"
+   ],
+   "episodes": [
+    {
+     "episode": "Episode 10",
+     "air_date": "",
+     "gist": "Song Yi swallows a hallucinogenic drug; Kong Mu hypnotises her to undo its effects and watches over her. Suspicion falls on Xia Ye.",
+     "number_verified": true
+    },
+    {
+     "episode": "Episode 11",
+     "air_date": "",
+     "gist": "Kong Mu hypnotises Xia Ye and finds her bound by 'Pan Si Rao' inside her trance; she admits that her controller made her plant drugs on Ouyang Feng. He makes her forget the session.",
+     "number_verified": true
+    },
+    {
+     "episode": "Episode 19 (finale)",
+     "air_date": "",
+     "gist": "The sect leader orders the entranced Xia Ye to kill Meng Hai, and she hesitates. Meng Qingsong traps the group in a hypnotic 'sea of sand', and Song Yi breaks it. Xia Ye is freed and leaves the city.",
+     "number_verified": true
+    }
+   ],
+   "pregnant_end": "no",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "No pregnancy in the episode recaps.",
+   "kids_together": "no",
+   "kids_together_note": "Xia Ye has no children and leaves alone. Kong Mu ends up with Song Yi; no children are mentioned.",
+   "kids_status": "no",
+   "sources": [
+    {
+     "label": "Douban (via Baidu snippet): 被催眠的催眠师",
+     "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E5%82%AC%E7%9C%A0%E7%9A%84%E5%82%AC%E7%9C%A0%E5%B8%88%E8%AF%84%E4%BB%B7"
+    },
+    {
+     "label": "Tongye episode 10 recap",
+     "url": "https://tongye.cn/fenjijuqing/beicuimiandecuimianshi-episode-10.html"
+    },
+    {
+     "label": "Tongye episode 11 recap",
+     "url": "https://tongye.cn/fenjijuqing/beicuimiandecuimianshi-episode-11.html"
+    },
+    {
+     "label": "Tongye episode 19 recap",
+     "url": "https://tongye.cn/fenjijuqing/beicuimiandecuimianshi-episode-19.html"
+    }
+   ],
+   "evidence": "Episode recaps (Tongye) + Douban listing",
+   "confidence_flag": "High · per-episode recaps",
+   "adult": "no",
+   "note": "Per-episode air dates were not found, so only the premiere date is given.",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)"
+  },
+  {
+   "title": "Off Pedder (畢打自己人)",
+   "year": "2009",
+   "format": "tv",
+   "subtitle": "Episode 212 · 殷賞 hypnosis",
+   "meta": "TVB sitcom · Hong Kong · Cantonese · 336 episodes (2008–2010)",
+   "character": "Yan Seung 殷賞 (magazine staffer)",
+   "summary": "Yan Seung lets Dr. Law hypnotise her to recover a lost drunken evening: how she lost her favourite shoes and ended up in men's socks. The recovered memory shows that she shouted at her colleague Ka-sing, whose socks they were.",
+   "hypnotist": "Dr. Law",
+   "gain_motive": [
+    "memory recovery (her own request)"
+   ],
+   "method": "Hypnotic regression",
+   "categories": [
+    "medical"
+   ],
+   "episodes": [
+    {
+     "episode": "Episode 212",
+     "air_date": "2009-08-14",
+     "gist": "Yan Seung is hypnotised by Dr. Law to recover the missing night; she confronts Ka-sing with the recovered memory.",
+     "number_verified": true
+    }
+   ],
+   "pregnant_end": "no",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "No pregnancy in this episode.",
+   "kids_together": "unknown",
+   "kids_status": "no",
+   "kids_note": "No children in the episode summary.",
+   "sources": [
+    {
+     "label": "TVB episode page (archived)",
+     "url": "https://web.archive.org/web/20100419113004/http://programme.tvb.com/drama/offpedder/episode/212/"
+    },
+    {
+     "label": "Wikipedia: Off Pedder",
+     "url": "https://en.wikipedia.org/wiki/Off_Pedder"
+    }
+   ],
+   "evidence": "Official TVB synopsis",
+   "confidence_flag": "High · official broadcaster synopsis",
+   "adult": "no",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Hyde, Jekyll, Me (하이드 지킬, 나)",
+   "year": "2015",
+   "format": "tv",
+   "meta": "TV series · South Korea · Korean · SBS · 20 episodes (21 Jan – 26 Mar 2015)",
+   "character": "Jang Ha-na (Han Ji-min)",
+   "summary": "Circus worker Ha-na sees hypnotherapist Yoon Tae-joo (secretly Lee Soo-hyun, bent on revenge on Seo-jin). Over about twelve sessions he hypnotises her: he extracts what she knows about Seo-jin's third personality and plants a command that makes her phone lure Robin into a trap.",
+   "hypnotist": "Psychiatrist / hypnotherapist Yoon Tae-joo (Sung Joon)",
+   "gain_motive": [
+    "revenge"
+   ],
+   "method": "Hypnotherapy sessions plus post-hypnotic programming; a hypnotic song is also used on the police",
+   "categories": [
+    "medical",
+    "human",
+    "forced-obedience"
+   ],
+   "episodes": [
+    {
+     "episode": "Episode 12",
+     "air_date": "2015-02-26",
+     "gist": "Tae-joo reveals he has hypnotised Ha-na in twelve sessions. He hypnotises her to learn about 'Terry' and uses her phone to text Robin to a theatre trap.",
+     "number_verified": true
+    },
+    {
+     "episode": "Episode 14",
+     "air_date": "2015-03-05",
+     "gist": "Tae-joo, unmasked, uses a hypnotic song on the police and escapes, then kidnaps Ha-na at the episode's end.",
+     "number_verified": true
+    }
+   ],
+   "pregnant_end": "no",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "No pregnancy in the recaps or the series synopsis.",
+   "kids_together": "no",
+   "kids_status": "no",
+   "kids_note": "Ha-na has no children.",
+   "sources": [
+    {
+     "label": "Dramabeans ep 12 recap",
+     "url": "https://dramabeans.com/2015/02/hyde-jekyll-me-episode-12/"
+    },
+    {
+     "label": "A Koala's Playground ep 14 recap",
+     "url": "https://koalasplayground.com/2015/03/05/hyde-jekyll-me-episode-14-recap/"
+    },
+    {
+     "label": "Wikipedia: Hyde Jekyll, Me",
+     "url": "https://en.wikipedia.org/wiki/Hyde,_Jekyll,_Me"
+    }
+   ],
+   "evidence": "Two independent episode recaps + Wikipedia",
+   "confidence_flag": "High · 2+ sources",
+   "adult": "no",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Alchemy of Souls (환혼)",
+   "year": "2022",
+   "format": "tv",
+   "subtitle": "Part 1 finale · Mudeok bell hypnosis",
+   "meta": "TV series · South Korea · Korean · tvN · Part 1, 20 episodes",
+   "character": "Mudeok / Naksu (Jung So-min)",
+   "summary": "Jin Mu learns that the assassin Naksu's soul is inside Mudeok's body and hypnotises her. In the trance she kills Jin Woo-tak and stabs her beloved Jang Uk. When she comes to, he hypnotises her again with the bell that controls soul-shifters, and she disappears into the lake.",
+   "hypnotist": "Jin Mu (Jo Jae-yoon)",
+   "gain_motive": [
+    "power",
+    "framing Naksu for his crimes"
+   ],
+   "method": "Hypnosis via a soul-shifter control bell (a fantasy device)",
+   "categories": [
+    "fantasy",
+    "forced-obedience",
+    "crime"
+   ],
+   "episodes": [
+    {
+     "episode": "Episode 20 (Part 1 finale)",
+     "air_date": "2022-08-28",
+     "gist": "The hypnotised Mudeok kills Jin Woo-tak and stabs Jang Uk on a wedding day; Jin Mu re-hypnotises her with the bell and she vanishes into the lake.",
+     "number_verified": true
+    }
+   ],
+   "pregnant_end": "no",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "No pregnancy in the Part 1 finale.",
+   "kids_together": "no",
+   "kids_status": "no",
+   "kids_note": "No children at this point.",
+   "sources": [
+    {
+     "label": "ZAPZEE ep 20 recap",
+     "url": "https://zapzee.net/2022/08/29/alchemy-of-souls-episode-20-recap-jang-wook-and-jung-so-min-face-tragic-end-with-a-new-beginning/"
+    },
+    {
+     "label": "Wikipedia: Alchemy of Souls",
+     "url": "https://en.wikipedia.org/wiki/Alchemy_of_Souls"
+    }
+   ],
+   "evidence": "single source — ZAPZEE recap (Wikipedia confirms the series)",
+   "confidence_flag": "Medium · single recap; magic-world device",
+   "fit_note": "The control comes from a fantasy 'soul-shifter bell', a hypnotic device in a magic setting. It is not possession or black magic, but it is a loose fit.",
+   "adult": "no",
+   "tags": [
+    "loose fit"
+   ],
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Anchor (앵커)",
+   "year": "2022",
+   "format": "movie",
+   "meta": "Film · South Korea · Korean · dir. Jung Ji-yeon · released 20 Apr 2022",
+   "character": "Jung Se-ra (Chun Woo-hee)",
+   "summary": "Ambitious news anchor Se-ra investigates a caller's murder and meets the victim's psychiatrist, Choi In-ho. He increasingly influences her by confronting her psyche with hypnosis while she is torn between him and her controlling mother.",
+   "hypnotist": "Psychiatrist Choi In-ho (Shin Ha-kyun)",
+   "gain_motive": [
+    "psychological manipulation"
+   ],
+   "method": "Hypnosis in therapy sessions",
+   "categories": [
+    "medical",
+    "human"
+   ],
+   "pregnant_end": "no",
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "No pregnancy in the synopses.",
+   "kids_together": "no",
+   "kids_status": "no",
+   "kids_note": "Se-ra is unmarried and has no children.",
+   "sources": [
+    {
+     "label": "MyDramaList: Anchor (synopsis + review noting hypnosis)",
+     "url": "https://mydramalist.com/40459-anchor"
+    },
+    {
+     "label": "Wikipedia: Anchor (2022 film)",
+     "url": "https://en.wikipedia.org/wiki/Anchor_(2022_film)"
+    }
+   ],
+   "evidence": "single source for the hypnosis detail — MyDramaList user review; Wikipedia plot does not mention hypnosis",
+   "confidence_flag": "Medium · hypnosis detail from one review",
+   "adult": "no",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "The Two Sisters (피도 눈물도 없이)",
+   "year": "2024",
+   "format": "tv",
+   "subtitle": "Episode 91 · Hye-ji hypnotherapy",
+   "meta": "Daily drama · South Korea · Korean · KBS2 · 2024",
+   "character": "Hye-ji",
+   "summary": "In the KBS2 daily revenge drama, Dr. Lee manipulates Hye-ji's memory during a hypnotherapy session.",
+   "hypnotist": "Dr. Lee",
+   "gain_motive": [
+    "memory manipulation"
+   ],
+   "method": "Hypnotherapy",
+   "categories": [
+    "medical",
+    "human"
+   ],
+   "episodes": [
+    {
+     "episode": "Episode 91 “Manipulated Memory”",
+     "air_date": "2024-05-28",
+     "gist": "Hye-ji storms after her next target, Jun-mo; meanwhile Dr. Lee successfully manipulates her memory during hypnotherapy.",
+     "number_verified": true
+    }
+   ],
+   "pregnant_end": "unknown",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Only the episode synopsis was checked.",
+   "kids_together": "unknown",
+   "kids_status": "unknown",
+   "sources": [
+    {
+     "label": "MyDramaList ep 91 (Viu synopsis)",
+     "url": "https://mydramalist.com/761225-in-cold-blood/episode/91"
+    }
+   ],
+   "evidence": "single source — Viu synopsis via MyDramaList",
+   "confidence_flag": "Medium · single official synopsis",
+   "adult": "no",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "被催眠的她",
+   "year": "2026",
+   "match_title": "被催眠的她",
+   "match_year": "2026",
+   "format": "vertical series",
+   "categories": [
+    "wife"
+   ],
+   "meta": "Chinese vertical short drama · Mandarin · 60 episodes · Hongguo (红果短剧) · released 12 Apr 2026",
+   "character": "Zhang Qing 张晴 (Lan Lan 兰岚); husband Zhao Jianghai 赵江海 (Li Zhuoyang 李卓扬)",
+   "summary": "Zhang Qing, said to be mentally ill, lives secluded with her husband Zhao Jianghai. A nanny swaps her medicine, which sets off her awakening. With Dr. Shen Hui she uncovers the truth behind her parents' murder, a miscarriage and her breakdown; promotion calls it a story of hypnotic/psychological control inside the marriage.",
+   "pregnancy_note": "Backstory miscarriage (意外流产) that she investigates; she is not pregnant on screen.",
+   "sources": [
+    {
+     "label": "Hongguo (红果短剧) series page",
+     "url": "https://hongguoduanju.com/detail?series_id=7626260850872945688"
+    },
+    {
+     "label": "Vertlas: Hypnotized (被催眠的她)",
+     "url": "https://vertlas.com/drama/hypnotized"
+    }
+   ],
+   "confidence_flag": "Medium · platform pages",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "The Hypnotized / Faceless Beauty",
+   "year": "2004",
+   "match_title": "The Hypnotized / Faceless Beauty",
+   "match_year": "2004",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "character": "Jin-su / Ji-su (Kim Hye-soo); psychiatrist Seok-won (Kim Tae-woo); husband Min-seok (Yoon Chan)",
+   "kids_together": "no",
+   "kids_together_note": "No children are mentioned for Jin-su and her husband or for her and the doctor.",
+   "sources": [
+    {
+     "label": "AsianWiki: Hypnotized",
+     "url": "https://asianwiki.com/Hypnotized"
+    },
+    {
+     "label": "MyDramaList: Hypnotized (2004)",
+     "url": "https://mydramalist.com/8548-hypnotized"
+    }
+   ],
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Marionette (꼭두각시)",
+   "year": "2013",
+   "match_title": "Marionette (꼭두각시)",
+   "match_year": "2013",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "character": "Hyeon-jin (Gu Ji-sung); psychiatrist Ji-hoon (Kim Tae-hoon)",
+   "hypnotist": "Psychiatrist Ji-hoon",
+   "method": "Hypnotherapy plus a post-hypnotic suggestion: she must come to him every Sunday at 3 p.m.",
+   "gain_motive": [
+    "love / obsession"
+   ],
+   "kids_together": "no",
+   "sources": [
+    {
+     "label": "MyDramaList: Marionette (2013)",
+     "url": "https://mydramalist.com/7127-marionette"
+    },
+    {
+     "label": "KMDb: 인형 / 꼭두각시",
+     "url": "https://www.kmdb.or.kr/db/kor/detail/movie/K/13806"
+    }
+   ],
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Listen To Your Husband",
+   "year": "2025",
+   "match_title": "Listen To Your Husband",
+   "match_year": "2025",
+   "format": "vertical series",
+   "categories": [
+    "wife"
+   ],
+   "character": "Luo Fei (wife); husband Qi Xia",
+   "summary": "Luo Fei marries Qi Xia, who secretly hypnotises her to take her family's inheritance. With help from Dr. Zhang she discovers it, pretends to stay hypnotised and trains to resist.",
+   "sources": [
+    {
+     "label": "Reddit r/CShortDramas: 听老公的话 / Listen to Your Husband",
+     "url": "https://www.reddit.com/r/CShortDramas/comments/1lhfj7m/"
+    }
+   ],
+   "note": "Names and the Dr. Zhang detail come from a fan post (low weight); the core plot matches the existing Mental Block card.",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)"
+  },
+  {
+   "title": "The Love by Hypnotic",
+   "year": "2019",
+   "match_title": "The Love by Hypnotic",
+   "match_year": "2019",
+   "format": "tv",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Recalled",
+   "year": "2021",
+   "match_title": "Recalled",
+   "match_year": "2021",
+   "format": "movie",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "The Wikipedia synopsis does not say.",
+   "kids_status": "unknown",
+   "sources": [
+    {
+     "label": "Wikipedia: Recalled (film)",
+     "url": "https://en.wikipedia.org/wiki/Recalled_(film)"
+    }
+   ],
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Flower of Evil",
+   "year": "2020",
+   "match_title": "Flower of Evil",
+   "match_year": "2020",
+   "format": "tv",
+   "categories": [],
+   "kids_status": "yes",
+   "kids_note": "Ji-won and Hee-sung have a six-year-old daughter, Baek Eun-ha.",
+   "sources": [
+    {
+     "label": "Wikipedia: Flower of Evil (South Korean TV series)",
+     "url": "https://en.wikipedia.org/wiki/Flower_of_Evil_(South_Korean_TV_series)"
+    }
+   ],
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Incantation",
+   "year": "2022",
+   "match_title": "Incantation",
+   "match_year": "2022",
+   "format": "movie",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "The Great Hypnotist (催眠大师)",
+   "year": "2014",
+   "match_title": "The Great Hypnotist (催眠大师)",
+   "match_year": "2014",
+   "format": "movie",
+   "categories": [],
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "No pregnancy for Ren Xiaoyan in the Wikipedia plot (only her adoptive mother's past pregnancy is mentioned).",
+   "sources": [
+    {
+     "label": "Wikipedia: The Great Hypnotist",
+     "url": "https://en.wikipedia.org/wiki/The_Great_Hypnotist"
+    }
+   ],
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "The Hypnosis (최면)",
+   "year": "2021",
+   "match_title": "The Hypnosis (최면)",
+   "match_year": "2021",
+   "format": "movie",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Oldboy (올드보이)",
+   "year": "2003",
+   "match_title": "Oldboy (올드보이)",
+   "match_year": "2003",
+   "format": "movie",
+   "categories": [],
+   "kids_status": "no",
+   "kids_note": "Mi-do is herself Dae-su's lost daughter; she has no children of her own in the Wikipedia plot.",
+   "sources": [
+    {
+     "label": "Wikipedia: Oldboy (2003 film)",
+     "url": "https://en.wikipedia.org/wiki/Oldboy_(2003_film)"
+    }
+   ],
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Guilt by Design (催眠·裁決)",
+   "year": "2019",
+   "match_title": "Guilt by Design (催眠·裁決)",
+   "match_year": "2019",
+   "format": "movie",
+   "categories": [],
+   "pregnancy_outcome": "not pregnant",
+   "pregnancy_note": "No pregnancy in the Wikipedia plot.",
+   "kids_status": "unknown",
+   "sources": [
+    {
+     "label": "Wikipedia: Guilt by Design",
+     "url": "https://en.wikipedia.org/wiki/Guilt_by_Design"
+    }
+   ],
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Master of Hypnotism (催眠大师)",
+   "year": "2017",
+   "match_title": "Master of Hypnotism (催眠大师)",
+   "match_year": "2017",
+   "format": "tv",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Variety programme; not applicable or not stated.",
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "The Girl in a Tiny Room",
+   "year": "Year unresolved",
+   "match_title": "The Girl in a Tiny Room",
+   "match_year": "Year unresolved",
+   "format": "short",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Black Magic",
+   "year": "1975",
+   "match_title": "Black Magic",
+   "match_year": "1975",
+   "format": "movie",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "降魔的 / The Exorcist's Meter",
+   "year": "2017",
+   "match_title": "降魔的 / The Exorcist's Meter",
+   "match_year": "2017",
+   "format": "tv",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "種鬼 / Seeding of a Ghost",
+   "year": "1983",
+   "match_title": "種鬼 / Seeding of a Ghost",
+   "match_year": "1983",
+   "format": "movie",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "While You Were Sleeping",
+   "year": "2008",
+   "match_title": "While You Were Sleeping",
+   "match_year": "2008",
+   "format": "short",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Be My Cat",
+   "year": "None",
+   "match_title": "Be My Cat",
+   "match_year": "None",
+   "format": "tv",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Chinese Speaking Vampires",
+   "year": "2021",
+   "match_title": "Chinese Speaking Vampires",
+   "match_year": "2021",
+   "format": "movie",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Dracula: A Vampyre in Beijing",
+   "year": "2019",
+   "match_title": "Dracula: A Vampyre in Beijing",
+   "match_year": "2019",
+   "format": "movie",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Dracula Rises from Coffin",
+   "year": "1982",
+   "match_title": "Dracula Rises from Coffin",
+   "match_year": "1982",
+   "format": "movie",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Dream Garden",
+   "year": "2021",
+   "match_title": "Dream Garden",
+   "match_year": "2021",
+   "format": "tv",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Endless Traps",
+   "year": "2018",
+   "match_title": "Endless Traps",
+   "match_year": "2018",
+   "format": "movie",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Exodus From Afar",
+   "year": "1998",
+   "match_title": "Exodus From Afar",
+   "match_year": "1998",
+   "format": "movie",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Fairyland Lovers",
+   "year": "2020",
+   "match_title": "Fairyland Lovers",
+   "match_year": "2020",
+   "format": "tv",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Falling Down",
+   "year": "2015",
+   "match_title": "Falling Down",
+   "match_year": "2015",
+   "format": "tv",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Flying wooden donkey",
+   "year": "2011",
+   "match_title": "Flying wooden donkey",
+   "match_year": "2011",
+   "format": "tv",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Gap Dong",
+   "year": "2014",
+   "match_title": "Gap Dong",
+   "match_year": "2014",
+   "format": "tv",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Haunters",
+   "year": "2010",
+   "match_title": "Haunters",
+   "match_year": "2010",
+   "format": "movie",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Heart for Heaven",
+   "year": "2015",
+   "match_title": "Heart for Heaven",
+   "match_year": "2015",
+   "format": "movie",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Hong Kong Paradise",
+   "year": "1990",
+   "match_title": "Hong Kong Paradise",
+   "match_year": "1990",
+   "format": "movie",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "I'm a Pet At Dali Temple",
+   "year": "2018",
+   "match_title": "I'm a Pet At Dali Temple",
+   "match_year": "2018",
+   "format": "tv",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "The Inflatable Lover",
+   "year": "None",
+   "match_title": "The Inflatable Lover",
+   "match_year": "None",
+   "format": "movie",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "The Journey of Flower",
+   "year": "2015",
+   "match_title": "The Journey of Flower",
+   "match_year": "2015",
+   "format": "tv",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Jue Sheng",
+   "year": "2016",
+   "match_title": "Jue Sheng",
+   "match_year": "2016",
+   "format": "tv",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "The Knight of Shadows: Between Yin and Yang",
+   "year": "2019",
+   "match_title": "The Knight of Shadows: Between Yin and Yang",
+   "match_year": "2019",
+   "format": "movie",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Legend of Nine Tails Fox",
+   "year": "2016",
+   "match_title": "Legend of Nine Tails Fox",
+   "match_year": "2016",
+   "format": "tv",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Murderer Report",
+   "year": "2025",
+   "match_title": "Murderer Report",
+   "match_year": "2025",
+   "format": "movie",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Rookie Agent Rouge",
+   "year": "2016",
+   "match_title": "Rookie Agent Rouge",
+   "match_year": "2016",
+   "format": "tv",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "The Scanned Love",
+   "year": "None",
+   "match_title": "The Scanned Love",
+   "match_year": "None",
+   "format": "movie",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Sniper Elite: Nano Crisis",
+   "year": "2024",
+   "match_title": "Sniper Elite: Nano Crisis",
+   "match_year": "2024",
+   "format": "movie",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Tale Of The Nine Tailed",
+   "year": "2020",
+   "match_title": "Tale Of The Nine Tailed",
+   "match_year": "2020",
+   "format": "tv",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Tientsin Mystic",
+   "year": "2017",
+   "match_title": "Tientsin Mystic",
+   "match_year": "2017",
+   "format": "tv",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Under The Knife",
+   "year": "2018",
+   "match_title": "Under The Knife",
+   "match_year": "2018",
+   "format": "movie",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Kiss Me, Even If It Burns",
+   "year": "None",
+   "match_title": "Kiss Me, Even If It Burns",
+   "match_year": "None",
+   "format": "tv",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Snake Year Salvation: CEO's Bargain Bride",
+   "year": "c. 2024–26",
+   "match_title": "Snake Year Salvation: CEO's Bargain Bride",
+   "match_year": "c. 2024–26",
+   "format": "tv",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Twisted Vows",
+   "year": "Unconfirmed",
+   "match_title": "Twisted Vows",
+   "match_year": "Unconfirmed",
+   "format": "tv",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "I Accidentally Had the Billionaire's Twins. 6 Years Later, They Saved His Empire!",
+   "year": "Unconfirmed",
+   "match_title": "I Accidentally Had the Billionaire's Twins. 6 Years Later, They Saved His Empire!",
+   "match_year": "Unconfirmed",
+   "format": "tv",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Broken Bone Rose",
+   "year": "Unconfirmed",
+   "match_title": "Broken Bone Rose",
+   "match_year": "Unconfirmed",
+   "format": "tv",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Stay Away! She's a Violent Psycho!",
+   "year": "Unconfirmed",
+   "match_title": "Stay Away! She's a Violent Psycho!",
+   "match_year": "Unconfirmed",
+   "format": "tv",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Creation of the Gods I: Kingdom of Storms",
+   "year": "2023",
+   "match_title": "Creation of the Gods I: Kingdom of Storms",
+   "match_year": "2023",
+   "format": "movie",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Moon Embracing the Sun",
+   "year": "2012",
+   "match_title": "Moon Embracing the Sun",
+   "match_year": "2012",
+   "format": "tv",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Super Godfather: My Ex Begs Me on Her Knees",
+   "year": "c. 2026",
+   "match_title": "Super Godfather: My Ex Begs Me on Her Knees",
+   "match_year": "c. 2026",
+   "format": "tv",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Hypnotized Bride",
+   "year": "2026",
+   "match_title": "Hypnotized Bride",
+   "match_year": "2026",
+   "format": "movie",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "A Portrait of Jianghu: Reincarnated Disciple",
+   "year": "2024",
+   "match_title": "A Portrait of Jianghu: Reincarnated Disciple",
+   "match_year": "2024",
+   "format": "tv",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Candle in the Tomb: The Worm Valley",
+   "year": "2021",
+   "match_title": "Candle in the Tomb: The Worm Valley",
+   "match_year": "2021",
+   "format": "tv",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Curse Of Evil",
+   "year": "1982",
+   "match_title": "Curse Of Evil",
+   "match_year": "1982",
+   "format": "movie",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Gawayn",
+   "year": "",
+   "match_title": "Gawayn",
+   "match_year": "",
+   "format": "tv",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Legend Heroes",
+   "year": "2016",
+   "match_title": "Legend Heroes",
+   "match_year": "2016",
+   "format": "tv",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Pucca",
+   "year": "",
+   "match_title": "Pucca",
+   "match_year": "",
+   "format": "tv",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Psych-Hunter",
+   "year": "2020",
+   "match_title": "Psych-Hunter",
+   "match_year": "2020",
+   "format": "tv",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "The Great Adventurer Wesley",
+   "year": "2018",
+   "match_title": "The Great Adventurer Wesley",
+   "match_year": "2018",
+   "format": "tv",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Young-gu and Count Dracula",
+   "year": "1992",
+   "match_title": "Young-gu and Count Dracula",
+   "match_year": "1992",
+   "format": "movie",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "The Last Empress",
+   "year": "2018-19",
+   "match_title": "The Last Empress",
+   "match_year": "2018-19",
+   "format": "tv",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Lao Gong Qing He Wo Lian Ai Ba",
+   "year": "2025",
+   "match_title": "Lao Gong Qing He Wo Lian Ai Ba",
+   "match_year": "2025",
+   "format": "tv",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Lost Control for Him",
+   "year": "2025",
+   "match_title": "Lost Control for Him",
+   "match_year": "2025",
+   "format": "vertical series",
+   "categories": [],
+   "kids_status": "unknown",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "A Different Kind of Pretty Man",
+   "year": "2014",
+   "match_title": "A Different Kind of Pretty Man",
+   "match_year": "2014",
+   "format": "tv",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Armour of God",
+   "year": "1986",
+   "match_title": "Armour of God",
+   "match_year": "1986",
+   "format": "movie",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Black Magic 2 (1976 Hong Kong film)",
+   "year": "1976",
+   "match_title": "Black Magic 2 (1976 Hong Kong film)",
+   "match_year": "1976",
+   "format": "movie",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "The Fox Spirit and the Golden Seal",
+   "year": "2018",
+   "match_title": "The Fox Spirit and the Golden Seal",
+   "match_year": "2018",
+   "format": "movie",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Yolk Man",
+   "year": "2019",
+   "match_title": "Yolk Man",
+   "match_year": "2019",
+   "format": "tv",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  },
+  {
+   "title": "Signal",
+   "year": "2016",
+   "match_title": "Signal",
+   "match_year": "2016",
+   "format": "tv",
+   "categories": [],
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not verifiable from the sources checked (Oct 2026).",
+   "provenance": "Korean/Chinese/TW/HK female-hypnosis pass, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": ""
+  }
+ ],
+ "dropped": [
+  {
+   "title": "Justice Sung Begins (狀王之王)",
+   "year": "2021",
+   "reason": "Ep 10: Lin Sun-sun hypnotises Ying-tou (櫻桃) to prove her innocent, but no source gives Ying-tou's age, so the adults-only rule cannot be confirmed."
+  },
+  {
+   "title": "Sweet Strategy: Mr. Vance's Ex Is Too Proud",
+   "year": "c. 2025",
+   "reason": "ReelShort original filmed in English (US cast), not a Korean or Chinese production."
+  },
+  {
+   "title": "Love Me If You Dare (他来了，请闭眼)",
+   "year": "2015",
+   "reason": "Eps 20–21: Jian Yao is drugged and held by Xie Han; the recaps show hallucinogens, not hypnosis."
+  },
+  {
+   "title": "Hidden Sense / 異空感應 (TVB)",
+   "year": "2024",
+   "reason": "Ep 16 hypnotherapy is performed on a man."
+  },
+  {
+   "title": "Virtues of Harmony II (皆大歡喜)",
+   "year": "2012",
+   "reason": "Ep 270: the man (阿康) is the one hypnotised."
+  },
+  {
+   "title": "台灣X檔案",
+   "year": "c. 2020",
+   "reason": "Ep 28: the man (彥文) is the one hypnotised."
+  },
+  {
+   "title": "최면에 걸리다 / 최면 게임의 여주인공 / When I Pretended to Be Hypnotized",
+   "year": "2021–2025",
+   "reason": "Web novels and a webtoon, not screen media."
+  },
+  {
+   "title": "최면 (Suzy / Kim Seon-ho series)",
+   "year": "announced",
+   "reason": "In development; the plot involves a vampire woman and no on-screen hypnosis is verified."
+  },
+  {
+   "title": "Hypnotic (致命催眠)",
+   "year": "2021",
+   "reason": "US Netflix film (Douban listing only)."
+  },
+  {
+   "title": "The Love by Hypnotic (明月照我心)",
+   "year": "2019",
+   "reason": "Already in the catalog; the heroine is the hypnotist, not the hypnotised one, so there is nothing to merge."
+  }
+ ]
+}
