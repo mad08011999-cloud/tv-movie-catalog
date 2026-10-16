@@ -799,6 +799,13 @@
      "subtitle": "",
      "year": "1931",
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "streaming-oct15:39",
+     "title": "Svengali",
+     "subtitle": "",
+     "year": "1931",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -1040,6 +1047,13 @@
     },
     {
      "rid": "streaming-oct15:23",
+     "title": "Dark Shadows",
+     "subtitle": "",
+     "year": "1966–71",
+     "matched_by": "same title+year"
+    },
+    {
+     "rid": "streaming-oct15:40",
      "title": "Dark Shadows",
      "subtitle": "",
      "year": "1966–71",
@@ -14739,6 +14753,26 @@
      "subtitle": "",
      "year": "1962",
      "matched_by": "title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 608,
+   "kept": "Alfred Hitchcock Presents (1958)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:613",
+     "title": "Alfred Hitchcock Presents",
+     "subtitle": "“Murder Me Twice” · S04E09",
+     "year": "1958"
+    },
+    {
+     "rid": "streaming-oct15:34",
+     "title": "Alfred Hitchcock Presents",
+     "subtitle": "",
+     "year": "1958",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -31523,6 +31557,13 @@
      "subtitle": "",
      "year": "1997–2001",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "streaming-oct15:36",
+     "title": "La Femme Nikita",
+     "subtitle": "",
+     "year": "1997–2001",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -36473,6 +36514,13 @@
      "subtitle": "",
      "year": "2013",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "streaming-oct15:37",
+     "title": "The Puppet",
+     "subtitle": "",
+     "year": "2013",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -42749,6 +42797,26 @@
    ]
   },
   {
+   "kept_id": 2200,
+   "kept": "Murder Me Twice (1958)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "ig6qlxqxoxvcxla:294",
+     "title": "Murder Me Twice (1958)",
+     "subtitle": "",
+     "year": "1958"
+    },
+    {
+     "rid": "streaming-oct15:35",
+     "title": "Murder Me Twice",
+     "subtitle": "",
+     "year": "1958",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
    "kept_id": 2212,
    "kept": "Ezra (2017)",
    "scope": "cross-source",
@@ -42916,6 +42984,25 @@
      "title": "The Search for Bridey Murphy",
      "subtitle": "",
      "year": "1956"
+    }
+   ]
+  },
+  {
+   "kept_id": 2626,
+   "kept": "Sum of Existence (2005)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "no-link-additions:37",
+     "title": "Sum of Existence",
+     "subtitle": "",
+     "year": "2005"
+    },
+    {
+     "rid": "streaming-oct15:38",
+     "title": "Sum of Existence",
+     "subtitle": "",
+     "year": "2005"
     }
    ]
   },
@@ -43684,6 +43771,30 @@
    "year": "2021",
    "kept_id": 1285,
    "retired_id": 2950
+  },
+  {
+   "title": "Alfred Hitchcock Presents",
+   "year": "1958",
+   "kept_id": 608,
+   "retired_id": 2956
+  },
+  {
+   "title": "Murder Me Twice",
+   "year": "1958",
+   "kept_id": 2200,
+   "retired_id": 2957
+  },
+  {
+   "title": "La Femme Nikita",
+   "year": "1997–2001",
+   "kept_id": 1449,
+   "retired_id": 2958
+  },
+  {
+   "title": "The Puppet",
+   "year": "2013",
+   "kept_id": 1679,
+   "retired_id": 2959
   }
  ],
  "merge_rules": [
@@ -43795,11 +43906,11 @@
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
   "official-yt-oct15": 45,
-  "streaming-oct15": 29
+  "streaming-oct15": 40
  },
- "entry_count_after_dedupe": 2827,
+ "entry_count_after_dedupe": 2831,
  "within_source_groups": 3,
- "cross_source_groups": 1814,
- "index_only_records": 65,
- "local_only_records": 606
+ "cross_source_groups": 1817,
+ "index_only_records": 64,
+ "local_only_records": 610
 }

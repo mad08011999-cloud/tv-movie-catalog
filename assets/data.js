@@ -3915,7 +3915,7 @@ window.CATALOG = {
    "description": "Titles and episodes found on streaming-service title pages (Netflix, Prime Video, Disney+, etc.)",
    "dropped": [],
    "check": {
-    "raw_count": 29,
+    "raw_count": 40,
     "ok": true
    },
    "status": "local"
@@ -3963,10 +3963,10 @@ window.CATALOG = {
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
   "official-yt-oct15": 45,
-  "streaming-oct15": 29
+  "streaming-oct15": 40
  },
- "raw_total": 5593,
- "entry_count": 2827,
+ "raw_total": 5604,
+ "entry_count": 2831,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -3984,7 +3984,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 257
+   "entry_count": 262
   },
   {
    "key": "walkin",
@@ -4038,7 +4038,7 @@ window.CATALOG = {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 257
+   "entry_count": 258
   },
   {
    "key": "child-controller",
@@ -4164,7 +4164,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 128
+   "entry_count": 129
   },
   {
    "key": "mom-partner-control",
@@ -4410,7 +4410,7 @@ window.CATALOG = {
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 146
+   "entry_count": 147
   },
   {
    "key": "stepmom-control",
@@ -11659,6 +11659,10 @@ window.CATALOG = {
     {
      "label": "Netflix: Svengali (1931)",
      "url": "https://www.netflix.com/title/60010959"
+    },
+    {
+     "label": "Tubi: Svengali (1931)",
+     "url": "https://tubitv.com/movies/100055542/svengali"
     }
    ],
    "youtube_ids": [],
@@ -11680,7 +11684,8 @@ window.CATALOG = {
     "worldwide-hypnosis:821",
     "older-man-hypnosis:16",
     "hypno-leftovers:18",
-    "streaming-oct15:5"
+    "streaming-oct15:5",
+    "streaming-oct15:39"
    ],
    "index_only": false,
    "local_only": false,
@@ -12007,6 +12012,38 @@ window.CATALOG = {
      "pregnant_end": "not stated",
      "distinct_story": true,
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "streaming-oct15:39",
+     "source": "streaming-oct15",
+     "label": "Svengali (1931)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Svengali",
+     "subtitle": "",
+     "year": "1931",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Tubi: Svengali (1931)",
+       "url": "https://tubitv.com/movies/100055542/svengali"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": false,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -12239,6 +12276,32 @@ window.CATALOG = {
       {
        "label": "Netflix: Svengali (1931)",
        "url": "https://www.netflix.com/title/60010959"
+      }
+     ]
+    },
+    "streaming-oct15:39": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "",
+     "confidence_flag": "",
+     "summary": "",
+     "character": "",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "title": "Svengali",
+     "year": "1931",
+     "sources": [
+      {
+       "label": "Tubi: Svengali (1931)",
+       "url": "https://tubitv.com/movies/100055542/svengali"
       }
      ]
     }
@@ -14526,6 +14589,14 @@ window.CATALOG = {
     {
      "label": "Pluto TV: Dark Shadows S3E5 (Ep 295)",
      "url": "https://pluto.tv/us/shows/2950831/episode/5f4405299025f2001a79622f/"
+    },
+    {
+     "label": "Pluto TV: Dark Shadows S13E29 (Angelique hypnotises Rachel)",
+     "url": "https://pluto.tv/us/shows/2950831/episode/6246921ebfc85300133cd889/"
+    },
+    {
+     "label": "Pluto TV: Dark Shadows S2E30 (Ep 280, Victoria in a séance trance)",
+     "url": "https://pluto.tv/us/shows/2950831/episode/5f46c5631924b7001a62d166/"
     }
    ],
    "youtube_ids": [],
@@ -14537,7 +14608,8 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:39",
     "worldwide-hypnosis:228",
-    "streaming-oct15:23"
+    "streaming-oct15:23",
+    "streaming-oct15:40"
    ],
    "index_only": false,
    "local_only": false,
@@ -14654,6 +14726,42 @@ window.CATALOG = {
      "pregnant_end": "not stated",
      "distinct_story": true,
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "streaming-oct15:40",
+     "source": "streaming-oct15",
+     "label": "Dark Shadows (1966–71)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dark Shadows",
+     "subtitle": "",
+     "year": "1966–71",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "evil-female"
+     ],
+     "sources": [
+      {
+       "label": "Pluto TV: Dark Shadows S13E29 (Angelique hypnotises Rachel)",
+       "url": "https://pluto.tv/us/shows/2950831/episode/6246921ebfc85300133cd889/"
+      },
+      {
+       "label": "Pluto TV: Dark Shadows S2E30 (Ep 280, Victoria in a séance trance)",
+       "url": "https://pluto.tv/us/shows/2950831/episode/5f46c5631924b7001a62d166/"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": false,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -14744,6 +14852,36 @@ window.CATALOG = {
       {
        "label": "Pluto TV: Dark Shadows S3E5 (Ep 295)",
        "url": "https://pluto.tv/us/shows/2950831/episode/5f4405299025f2001a79622f/"
+      }
+     ]
+    },
+    "streaming-oct15:40": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "",
+     "confidence_flag": "",
+     "summary": "",
+     "character": "",
+     "categories": [
+      "evil-female"
+     ],
+     "title": "Dark Shadows",
+     "year": "1966–71",
+     "sources": [
+      {
+       "label": "Pluto TV: Dark Shadows S13E29 (Angelique hypnotises Rachel)",
+       "url": "https://pluto.tv/us/shows/2950831/episode/6246921ebfc85300133cd889/"
+      },
+      {
+       "label": "Pluto TV: Dark Shadows S2E30 (Ep 280, Victoria in a séance trance)",
+       "url": "https://pluto.tv/us/shows/2950831/episode/5f46c5631924b7001a62d166/"
       }
      ]
     }
@@ -114676,11 +114814,16 @@ window.CATALOG = {
    "confidence_flag": "Medium confidence · volunteered trance",
    "summary": "Amateur hypnotist Miles Farnham puts Lucy Pryor into a trance during a séance; under hypnosis she stabs her husband with total amnesia and, when hypnotized again in court, kills Farnham. The episode frames the acts as past-life regression or possession, and Lucy initially volunteers for the trance.",
    "character": "",
-   "provenance": "",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
    "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "format": "tv",
    "categories": [
-    "forced-obedience"
+    "forced-obedience",
+    "adult-hypnosis"
    ],
    "sources": [
     {
@@ -114690,20 +114833,98 @@ window.CATALOG = {
     {
      "label": "Ranker",
      "url": "https://www.ranker.com/list/full-list-of-alfred-hitchcock-presents-episodes/reference?page=2"
+    },
+    {
+     "label": "The Roku Channel: 'Murder Me Twice' S4E9",
+     "url": "https://therokuchannel.roku.com/details/b41f195283075eea85a0824801b7d20c/alfred-hitchcock-presents-s4-e9-murder-me-twice"
+    },
+    {
+     "label": "Peacock: 'Murder Me Twice' S4E9",
+     "url": "https://www.peacocktv.com/watch-online/tv/alfred-hitchcock-presents/6231083507338548112/seasons/4/episodes/murder-me-twice-episode-9/50786e0c-6cd5-31e4-89e7-dee4eaa4b16d"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "streaming-oct15"
    ],
    "source_records": [
-    "xla62ucxbx02u5:613"
+    "xla62ucxbx02u5:613",
+    "streaming-oct15:34"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:613",
+    "source": "xla62ucxbx02u5",
+    "label": "Alfred Hitchcock Presents · “Murder Me Twice” · S04E09 (1958)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Alfred Hitchcock Presents",
+    "subtitle": "“Murder Me Twice” · S04E09",
+    "year": "1958",
+    "meta": "TV series episode · United States · English",
+    "summary": "Amateur hypnotist Miles Farnham puts Lucy Pryor into a trance during a séance; under hypnosis she stabs her husband with total amnesia and, when hypnotized again in court, kills Farnham. The episode frames the acts as past-life regression or possession, and Lucy initially volunteers for the trance.",
+    "character": "",
+    "note": "",
+    "mechanism": "Hypnotic trance / past-life regression",
+    "confidence_flag": "Medium confidence · volunteered trance",
+    "categories": [
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "TheTVDB",
+      "url": "https://thetvdb.com/series/alfred-hitchcock-presents/allseasons/official"
+     },
+     {
+      "label": "Ranker",
+      "url": "https://www.ranker.com/list/full-list-of-alfred-hitchcock-presents-episodes/reference?page=2"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "streaming-oct15:34",
+     "source": "streaming-oct15",
+     "label": "Alfred Hitchcock Presents (1958)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Alfred Hitchcock Presents",
+     "subtitle": "",
+     "year": "1958",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "The Roku Channel: 'Murder Me Twice' S4E9",
+       "url": "https://therokuchannel.roku.com/details/b41f195283075eea85a0824801b7d20c/alfred-hitchcock-presents-s4-e9-murder-me-twice"
+      },
+      {
+       "label": "Peacock: 'Murder Me Twice' S4E9",
+       "url": "https://www.peacocktv.com/watch-online/tv/alfred-hitchcock-presents/6231083507338548112/seasons/4/episodes/murder-me-twice-episode-9/50786e0c-6cd5-31e4-89e7-dee4eaa4b16d"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": false,
+     "matched_by": "same title+year"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:613": {
      "t": "Alfred Hitchcock Presents",
@@ -114728,8 +114949,41 @@ window.CATALOG = {
      "c": [
       "forced-obedience"
      ]
+    },
+    "streaming-oct15:34": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "",
+     "confidence_flag": "",
+     "summary": "",
+     "character": "",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "title": "Alfred Hitchcock Presents",
+     "year": "1958",
+     "sources": [
+      {
+       "label": "The Roku Channel: 'Murder Me Twice' S4E9",
+       "url": "https://therokuchannel.roku.com/details/b41f195283075eea85a0824801b7d20c/alfred-hitchcock-presents-s4-e9-murder-me-twice"
+      },
+      {
+       "label": "Peacock: 'Murder Me Twice' S4E9",
+       "url": "https://www.peacocktv.com/watch-online/tv/alfred-hitchcock-presents/6231083507338548112/seasons/4/episodes/murder-me-twice-episode-9/50786e0c-6cd5-31e4-89e7-dee4eaa4b16d"
+      }
+     ]
     }
-   }
+   },
+   "retired_ids": [
+    2956
+   ]
   },
   {
    "id": 609,
@@ -264635,10 +264889,15 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "format": "tv",
    "categories": [
     "scifi",
-    "other-control"
+    "other-control",
+    "adult-hypnosis"
    ],
    "sources": [
     {
@@ -264648,16 +264907,22 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/La_Femme_Nikita_%28TV_series%29"
+    },
+    {
+     "label": "Tubi: La Femme Nikita S1E20 'Brainwash'",
+     "url": "https://tubitv.com/tv-shows/716753/s01-e20-brainwash"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "streaming-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1462",
-    "worldwide-hypnosis:518"
+    "worldwide-hypnosis:518",
+    "streaming-oct15:36"
    ],
    "index_only": false,
    "local_only": false,
@@ -264729,6 +264994,38 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "streaming-oct15:36",
+     "source": "streaming-oct15",
+     "label": "La Femme Nikita (1997–2001)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "La Femme Nikita",
+     "subtitle": "",
+     "year": "1997–2001",
+     "meta": "",
+     "summary": "Tubi synopsis, S1E20 'Brainwash': Nikita is brainwashed to carry out a suicide/assassination.",
+     "character": "Nikita",
+     "note": "",
+     "mechanism": "Brainwashing",
+     "confidence_flag": "",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Tubi: La Femme Nikita S1E20 'Brainwash'",
+       "url": "https://tubitv.com/tv-shows/716753/s01-e20-brainwash"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -264782,8 +265079,37 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "streaming-oct15:36": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Brainwashing",
+     "confidence_flag": "",
+     "summary": "Tubi synopsis, S1E20 'Brainwash': Nikita is brainwashed to carry out a suicide/assassination.",
+     "character": "Nikita",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "title": "La Femme Nikita",
+     "year": "1997–2001",
+     "sources": [
+      {
+       "label": "Tubi: La Femme Nikita S1E20 'Brainwash'",
+       "url": "https://tubitv.com/tv-shows/716753/s01-e20-brainwash"
+      }
+     ]
     }
    },
+   "retired_ids": [
+    2958
+   ],
    "watch_links": [
     {
      "service": "Plex (free)",
@@ -307313,6 +307639,10 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "format": "movie",
    "categories": [
     "medical"
@@ -307321,16 +307651,22 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/The_Puppet_%282013%29"
+    },
+    {
+     "label": "Tubi: The Puppet (2013)",
+     "url": "https://tubitv.com/movies/319172/the-puppet"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "streaming-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1693",
-    "worldwide-hypnosis:947"
+    "worldwide-hypnosis:947",
+    "streaming-oct15:37"
    ],
    "index_only": false,
    "local_only": false,
@@ -307392,6 +307728,38 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "streaming-oct15:37",
+     "source": "streaming-oct15",
+     "label": "The Puppet (2013)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Puppet",
+     "subtitle": "",
+     "year": "2013",
+     "meta": "",
+     "summary": "Tubi synopsis: a psychiatrist enters a menacing relationship of power and betrayal with a woman he can control through hypnotism.",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Tubi: The Puppet (2013)",
+       "url": "https://tubitv.com/movies/319172/the-puppet"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -307435,8 +307803,37 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "streaming-oct15:37": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "",
+     "confidence_flag": "",
+     "summary": "Tubi synopsis: a psychiatrist enters a menacing relationship of power and betrayal with a woman he can control through hypnotism.",
+     "character": "",
+     "categories": [
+      "medical"
+     ],
+     "title": "The Puppet",
+     "year": "2013",
+     "sources": [
+      {
+       "label": "Tubi: The Puppet (2013)",
+       "url": "https://tubitv.com/movies/319172/the-puppet"
+      }
+     ]
     }
-   }
+   },
+   "retired_ids": [
+    2959
+   ]
   },
   {
    "id": 1680,
@@ -378446,30 +378843,101 @@ window.CATALOG = {
    "confidence_flag": "Variant",
    "summary": "",
    "character": "",
-   "provenance": "",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
    "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "format": "movie",
    "categories": [
-    "forced-obedience"
+    "forced-obedience",
+    "adult-hypnosis"
    ],
    "sources": [
     {
      "label": "Original catalog",
      "url": "https://muse.ai/s/tv-and-movie-research-catalog-xla62ucxbx02u5"
+    },
+    {
+     "label": "Peacock: Alfred Hitchcock Presents S4E9",
+     "url": "https://www.peacocktv.com/watch-online/tv/alfred-hitchcock-presents/6231083507338548112/seasons/4/episodes/murder-me-twice-episode-9/50786e0c-6cd5-31e4-89e7-dee4eaa4b16d"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "streaming-oct15"
    ],
    "source_records": [
-    "ig6qlxqxoxvcxla:294"
+    "ig6qlxqxoxvcxla:294",
+    "streaming-oct15:35"
    ],
-   "index_only": true,
+   "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "ig6qlxqxoxvcxla:294",
+    "source": "ig6qlxqxoxvcxla",
+    "label": "Murder Me Twice (1958)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Murder Me Twice",
+    "subtitle": "",
+    "year": "1958",
+    "meta": "Movies & film serials",
+    "summary": "",
+    "character": "",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "Variant",
+    "categories": [
+     "forced-obedience"
+    ],
+    "sources": [
+     {
+      "label": "Original catalog",
+      "url": "https://muse.ai/s/tv-and-movie-research-catalog-xla62ucxbx02u5"
+     }
+    ],
+    "distinct_story": false,
+    "index_title": "Murder Me Twice (1958)"
+   },
+   "merged_from": [
+    {
+     "rid": "streaming-oct15:35",
+     "source": "streaming-oct15",
+     "label": "Murder Me Twice (1958)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Murder Me Twice",
+     "subtitle": "",
+     "year": "1958",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Peacock: Alfred Hitchcock Presents S4E9",
+       "url": "https://www.peacocktv.com/watch-online/tv/alfred-hitchcock-presents/6231083507338548112/seasons/4/episodes/murder-me-twice-episode-9/50786e0c-6cd5-31e4-89e7-dee4eaa4b16d"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": false,
+     "matched_by": "same title+year"
+    }
+   ],
    "raw": {
     "ig6qlxqxoxvcxla:294": {
      "title": "Murder Me Twice (1958)",
@@ -378477,8 +378945,37 @@ window.CATALOG = {
      "group": "Mechanism variants",
      "confidence": "Variant",
      "note": ""
+    },
+    "streaming-oct15:35": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "",
+     "confidence_flag": "",
+     "summary": "",
+     "character": "",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "title": "Murder Me Twice",
+     "year": "1958",
+     "sources": [
+      {
+       "label": "Peacock: Alfred Hitchcock Presents S4E9",
+       "url": "https://www.peacocktv.com/watch-online/tv/alfred-hitchcock-presents/6231083507338548112/seasons/4/episodes/murder-me-twice-episode-9/50786e0c-6cd5-31e4-89e7-dee4eaa4b16d"
+      }
+     ]
     }
-   }
+   },
+   "retired_ids": [
+    2957
+   ]
   },
   {
    "id": 2201,
@@ -402445,29 +402942,106 @@ window.CATALOG = {
    "tags": [
     "loose fit"
    ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "evidence": "single-source lead; plot not verified",
    "format": "movie",
    "categories": [
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "medical"
    ],
    "sources": [
     {
      "label": "JustWatch (where to watch)",
      "url": "https://www.justwatch.com/us/movie/sum-of-existence"
+    },
+    {
+     "label": "Tubi: Sum of Existence (2005)",
+     "url": "https://tubitv.com/movies/486747/sum-of-existence"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "no-link-additions"
+    "no-link-additions",
+    "streaming-oct15"
    ],
    "source_records": [
-    "no-link-additions:37"
+    "no-link-additions:37",
+    "streaming-oct15:38"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "no-link-additions:37",
+    "source": "no-link-additions",
+    "label": "Sum of Existence (2005)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Sum of Existence",
+    "subtitle": "",
+    "year": "2005",
+    "meta": "Film",
+    "summary": "A drama in which an adult woman undergoes hypnotic therapy (single-source lead; no detailed plot verified).",
+    "character": "",
+    "note": "Free legal link verified (Fandango at Home Free, Tubi). Loose fit: thin lead.",
+    "mechanism": "Hypnotic therapy",
+    "confidence_flag": "Medium-low · single-source plot",
+    "categories": [
+     "adult-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "JustWatch (where to watch)",
+      "url": "https://www.justwatch.com/us/movie/sum-of-existence"
+     },
+     {
+      "label": "JustWatch",
+      "url": "https://www.justwatch.com/us/movie/sum-of-existence"
+     }
+    ],
+    "tags": [
+     "loose fit"
+    ],
+    "evidence": "single-source lead; plot not verified",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "streaming-oct15:38",
+     "source": "streaming-oct15",
+     "label": "Sum of Existence (2005)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Sum of Existence",
+     "subtitle": "",
+     "year": "2005",
+     "meta": "",
+     "summary": "Tubi synopsis: after a violent assault, a woman is hypnotised to forget it, but her attacker has other plans.",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Tubi: Sum of Existence (2005)",
+       "url": "https://tubitv.com/movies/486747/sum-of-existence"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true
+    }
+   ],
    "raw": {
     "no-link-additions:37": {
      "title": "Sum of Existence",
@@ -402498,6 +403072,32 @@ window.CATALOG = {
       "loose fit"
      ],
      "evidence": "single-source lead; plot not verified"
+    },
+    "streaming-oct15:38": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "",
+     "confidence_flag": "",
+     "summary": "Tubi synopsis: after a violent assault, a woman is hypnotised to forget it, but her attacker has other plans.",
+     "character": "",
+     "categories": [
+      "medical"
+     ],
+     "title": "Sum of Existence",
+     "year": "2005",
+     "sources": [
+      {
+       "label": "Tubi: Sum of Existence (2005)",
+       "url": "https://tubitv.com/movies/486747/sum-of-existence"
+      }
+     ]
     }
    },
    "watch_links": [
@@ -428652,6 +429252,294 @@ window.CATALOG = {
      ]
     }
    }
+  },
+  {
+   "id": 2952,
+   "title": "Lois & Clark: The New Adventures of Superman — \"Contact\"",
+   "subtitle": "S03E03",
+   "year": "1995",
+   "meta": "TV series · ABC · USA · English",
+   "mechanism": "Hypnosis",
+   "confidence_flag": "",
+   "summary": "Tubi synopsis: a vengeful computer genius hypnotises Lois so that she distracts Superman from protecting the world's computer-software market.",
+   "character": "Lois Lane",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "Tubi: Lois & Clark S3E3 'Contact'",
+     "url": "https://tubitv.com/tv-shows/200032425/s03-e03-contact"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:30"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:30": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "S03E03",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "",
+     "summary": "Tubi synopsis: a vengeful computer genius hypnotises Lois so that she distracts Superman from protecting the world's computer-software market.",
+     "character": "Lois Lane",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "title": "Lois & Clark: The New Adventures of Superman — \"Contact\"",
+     "year": "1995",
+     "meta": "TV series · ABC · USA · English",
+     "sources": [
+      {
+       "label": "Tubi: Lois & Clark S3E3 'Contact'",
+       "url": "https://tubitv.com/tv-shows/200032425/s03-e03-contact"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2953,
+   "title": "Dark Realm — \"She's the One\"",
+   "subtitle": "S01E02",
+   "year": "2000",
+   "meta": "Anthology series · English",
+   "mechanism": "Brainwashing",
+   "confidence_flag": "",
+   "summary": "Tubi synopsis: a young man must free his model girlfriend from an exclusive beauty spa where she has been brainwashed into undergoing extensive plastic surgery.",
+   "character": "Model girlfriend (unnamed in synopsis)",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "Tubi: Dark Realm S1E2 'She's the One'",
+     "url": "https://tubitv.com/tv-shows/200256623/s01-e02-she-s-the-one"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:31"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:31": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "S01E02",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Brainwashing",
+     "confidence_flag": "",
+     "summary": "Tubi synopsis: a young man must free his model girlfriend from an exclusive beauty spa where she has been brainwashed into undergoing extensive plastic surgery.",
+     "character": "Model girlfriend (unnamed in synopsis)",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "title": "Dark Realm — \"She's the One\"",
+     "year": "2000",
+     "meta": "Anthology series · English",
+     "sources": [
+      {
+       "label": "Tubi: Dark Realm S1E2 'She's the One'",
+       "url": "https://tubitv.com/tv-shows/200256623/s01-e02-she-s-the-one"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2954,
+   "title": "Charmed — \"Siren's Song\"",
+   "subtitle": "S05E03",
+   "year": "2002",
+   "meta": "TV series · The WB · USA · English",
+   "mechanism": "Siren's spell / entrancement",
+   "confidence_flag": "",
+   "summary": "Pluto TV synopsis: Cole and Phoebe both fall under the spell of the Siren, who lures husbands to her and entrances their wives to follow with intent to kill. Piper and Paige must save Phoebe.",
+   "character": "Phoebe Halliwell",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "Pluto TV: Charmed S5E3 'Siren's Song'",
+     "url": "https://pluto.tv/us/shows/2140884/episode/61ca0e3542817b001a8df3f0/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:32"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:32": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "S05E03",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Siren's spell / entrancement",
+     "confidence_flag": "",
+     "summary": "Pluto TV synopsis: Cole and Phoebe both fall under the spell of the Siren, who lures husbands to her and entrances their wives to follow with intent to kill. Piper and Paige must save Phoebe.",
+     "character": "Phoebe Halliwell",
+     "categories": [
+      "fantasy"
+     ],
+     "title": "Charmed — \"Siren's Song\"",
+     "year": "2002",
+     "meta": "TV series · The WB · USA · English",
+     "sources": [
+      {
+       "label": "Pluto TV: Charmed S5E3 'Siren's Song'",
+       "url": "https://pluto.tv/us/shows/2140884/episode/61ca0e3542817b001a8df3f0/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2955,
+   "title": "One Step Beyond — \"The Villa\"",
+   "subtitle": "S03E32",
+   "year": "1961",
+   "meta": "Anthology series · ABC · USA · English",
+   "mechanism": "Hypnotic trance (strobe experiment)",
+   "confidence_flag": "",
+   "summary": "Listed on The Roku Channel and Plex. Mary Low is hypnotised during a strobe-light experiment and, in a trance, has a vision of a person trapped in a lift at an Italian villa (IMDb plot).",
+   "character": "Mary Low",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "The Roku Channel: One Step Beyond 'The Villa'",
+     "url": "https://therokuchannel.roku.com/details/1f47fa3dc8075c429131175c5e6e9700/one-step-beyond-s0-e0-the-villa"
+    },
+    {
+     "label": "Plex: One Step Beyond S3E32",
+     "url": "https://watch.plex.tv/show/one-step-beyond/season/3/episode/32"
+    },
+    {
+     "label": "IMDb plot",
+     "url": "https://www.imdb.com/title/tt0507850/plotsummary/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:33"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:33": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "S03E32",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnotic trance (strobe experiment)",
+     "confidence_flag": "",
+     "summary": "Listed on The Roku Channel and Plex. Mary Low is hypnotised during a strobe-light experiment and, in a trance, has a vision of a person trapped in a lift at an Italian villa (IMDb plot).",
+     "character": "Mary Low",
+     "categories": [
+      "spirit"
+     ],
+     "title": "One Step Beyond — \"The Villa\"",
+     "year": "1961",
+     "meta": "Anthology series · ABC · USA · English",
+     "sources": [
+      {
+       "label": "The Roku Channel: One Step Beyond 'The Villa'",
+       "url": "https://therokuchannel.roku.com/details/1f47fa3dc8075c429131175c5e6e9700/one-step-beyond-s0-e0-the-villa"
+      },
+      {
+       "label": "Plex: One Step Beyond S3E32",
+       "url": "https://watch.plex.tv/show/one-step-beyond/season/3/episode/32"
+      },
+      {
+       "label": "IMDb plot",
+       "url": "https://www.imdb.com/title/tt0507850/plotsummary/"
+      }
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -432261,7 +433149,15 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 608,
+       "from_source": "streaming-oct15"
+      },
+      {
        "id": 2949,
+       "from_source": "streaming-oct15"
+      },
+      {
+       "id": 2953,
        "from_source": "streaming-oct15"
       },
       {
@@ -432269,7 +433165,19 @@ window.CATALOG = {
        "from_source": "streaming-oct15"
       },
       {
+       "id": 1449,
+       "from_source": "streaming-oct15"
+      },
+      {
+       "id": 2952,
+       "from_source": "streaming-oct15"
+      },
+      {
        "id": 2935,
+       "from_source": "streaming-oct15"
+      },
+      {
+       "id": 2200,
        "from_source": "streaming-oct15"
       },
       {
@@ -434567,7 +435475,8 @@ window.CATALOG = {
     "widow-divorcee-oct14",
     "fanwiki-screen-oct14",
     "new-angles-oct15",
-    "official-yt-oct15"
+    "official-yt-oct15",
+    "streaming-oct15"
    ],
    "groups": [
     {
@@ -436542,6 +437451,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "official-yt-oct15"
+    },
+    {
+     "title": "Streaming-service additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2954,
+       "from_source": "streaming-oct15"
+      }
+     ],
+     "from_source": "streaming-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -436558,7 +437478,8 @@ window.CATALOG = {
     "widow-divorcee-oct14": null,
     "fanwiki-screen-oct14": null,
     "new-angles-oct15": null,
-    "official-yt-oct15": null
+    "official-yt-oct15": null,
+    "streaming-oct15": null
    }
   },
   {
@@ -450465,6 +451386,12 @@ window.CATALOG = {
         "Hypnosis",
         "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/The_Puppet_%282013%29"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -451072,6 +451999,10 @@ window.CATALOG = {
       },
       {
        "id": 2625,
+       "from_source": "streaming-oct15"
+      },
+      {
+       "id": 2626,
        "from_source": "streaming-oct15"
       }
      ],
@@ -464336,6 +465267,16 @@ window.CATALOG = {
         "Hypnosis",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/La_Femme_Nikita"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/La_Femme_Nikita_%28TV_series%29"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -467863,6 +468804,10 @@ window.CATALOG = {
       },
       {
        "id": 2934,
+       "from_source": "streaming-oct15"
+      },
+      {
+       "id": 2955,
        "from_source": "streaming-oct15"
       },
       {
@@ -473254,6 +474199,16 @@ window.CATALOG = {
         "Wife / female character forcibly hypnotized to obey",
         "Hypnotic trance / past-life regression",
         "Medium confidence · volunteered trance"
+       ],
+       "sources": [
+        {
+         "label": "TheTVDB",
+         "url": "https://thetvdb.com/series/alfred-hitchcock-presents/allseasons/official"
+        },
+        {
+         "label": "Ranker",
+         "url": "https://www.ranker.com/list/full-list-of-alfred-hitchcock-presents-episodes/reference?page=2"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
