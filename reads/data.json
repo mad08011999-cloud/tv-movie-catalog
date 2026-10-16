@@ -4,7 +4,7 @@
   {
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 11
+   "entry_count": 14
   },
   {
    "key": "pregnant-variants",
@@ -14,27 +14,27 @@
   {
    "key": "occult",
    "label": "Demonic / occult control",
-   "entry_count": 3
+   "entry_count": 5
   },
   {
    "key": "human",
    "label": "Human-villain control",
-   "entry_count": 5
+   "entry_count": 7
   },
   {
    "key": "scifi",
    "label": "Sci-fi / alien / technological control",
-   "entry_count": 4
+   "entry_count": 5
   },
   {
    "key": "fantasy",
    "label": "Fantasy enchantment",
-   "entry_count": 3
+   "entry_count": 4
   },
   {
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
-   "entry_count": 1
+   "entry_count": 2
   },
   {
    "key": "other-control",
@@ -53,8 +53,8 @@
   }
  ],
  "formats": {
-  "Novel": 3,
-  "Comic book": 4,
+  "Novel": 7,
+  "Comic book": 5,
   "Hentai manga": 2,
   "Hentai doujinshi": 1,
   "Hentai CG collection": 1,
@@ -645,6 +645,156 @@
    "adult_basis": "MangaUpdates: Adultery",
    "content_label": "Hardcore / adult",
    "id": 19
+  },
+  {
+   "title": "Joseph Balsamo (Memoirs of a Physician)",
+   "original_title": "Joseph Balsamo",
+   "creator": "Alexandre Dumas (with Auguste Maquet)",
+   "year": 1846,
+   "format": "Novel",
+   "language": "French",
+   "publisher": "serialised in La Presse",
+   "gist": "Balsamo (Cagliostro) keeps his reluctant young wife Lorenza Feliciani locked away and in magnetic trances, using her clairvoyance in trance to learn the future and his victims' secrets; she loves him only while entranced and rebels when lucid.",
+   "where": "Throughout (Lorenza chapters)",
+   "wife": "yes (Balsamo's wife, against her will)",
+   "pregnant_end": "no",
+   "kids_together": "no",
+   "kids_before": "no",
+   "categories": [
+    "wife-hypnotized",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "Wikipédia (fr): Joseph Balsamo (roman)",
+     "url": "https://fr.wikipedia.org/wiki/Joseph_Balsamo_(roman)"
+    }
+   ],
+   "loose_fit": false,
+   "note": "The same novel has Gilbert rape Andrée de Taverney during her magnetic sleep and then take the child she bears. Her age isn't stated in the sources, so she isn't listed.",
+   "adult_basis": "married woman (épouse)",
+   "id": 20
+  },
+  {
+   "title": "The House of the Seven Gables",
+   "original_title": "The House of the Seven Gables",
+   "creator": "Nathaniel Hawthorne",
+   "year": 1851,
+   "format": "Novel",
+   "language": "English",
+   "publisher": "Ticknor and Fields",
+   "gist": "In Holgrave's story-within-the-story, Matthew Maule hypnotizes the haughty Alice Pyncheon, supposedly to find documents, and leaves her permanently under his command; he forces her into public humiliations, and she dies of pneumonia after being made to go out in the cold in an evening dress.",
+   "where": "Ch. 13 'Alice Pyncheon'",
+   "wife": "no",
+   "pregnant_end": "no",
+   "kids_together": "no",
+   "kids_before": "no",
+   "categories": [
+    "human",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia: The House of the Seven Gables",
+     "url": "https://en.wikipedia.org/wiki/The_House_of_the_Seven_Gables"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "adult daughter of a colonial gentleman, of marriageable age (inferred, not stated)",
+   "id": 21
+  },
+  {
+   "title": "False Memory",
+   "original_title": "False Memory",
+   "creator": "Dean Koontz",
+   "year": 1999,
+   "format": "Novel",
+   "language": "English",
+   "publisher": "Bantam Books",
+   "gist": "Psychiatrist Dr. Mark Ahriman drugs and programs his patients. Martie Rhodes, a wife, is conditioned into crippling phobias and obedience, and her agoraphobic friend Susan Jagger is repeatedly raped under hypnotic control.",
+   "where": "Throughout",
+   "wife": "yes (Martie is Dusty Rhodes' wife)",
+   "pregnant_end": "no",
+   "kids_together": "no",
+   "kids_before": "no",
+   "categories": [
+    "wife-hypnotized",
+    "medical",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia: False Memory (novel)",
+     "url": "https://en.wikipedia.org/wiki/False_Memory_(novel)"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "married adult",
+   "id": 22
+  },
+  {
+   "title": "Action Comics #593 (Big Barda and Sleez)",
+   "original_title": "Action Comics #593",
+   "creator": "John Byrne",
+   "year": 1987,
+   "format": "Comic book",
+   "language": "English",
+   "publisher": "DC Comics",
+   "gist": "The New God Sleez brainwashes Superman and Big Barda, who is Mister Miracle's wife, sexually assaults Barda on film, and tries to make them perform in a pornographic film.",
+   "where": "Action Comics #593 (Oct 1987)",
+   "wife": "yes (Scott Free / Mister Miracle's wife)",
+   "pregnant_end": "no",
+   "kids_together": "no",
+   "kids_before": "no",
+   "categories": [
+    "wife-hypnotized",
+    "scifi"
+   ],
+   "sources": [
+    {
+     "label": "TV Tropes: Hypnotize the Princess (Comic Books)",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnotizeThePrincess"
+    }
+   ],
+   "loose_fit": false,
+   "note": "",
+   "adult_basis": "married adult",
+   "id": 23
+  },
+  {
+   "title": "Enchanters' End Game (The Belgariad, book 5)",
+   "original_title": "Enchanters' End Game",
+   "creator": "David Eddings",
+   "year": 1984,
+   "format": "Novel",
+   "language": "English",
+   "publisher": "Del Rey",
+   "gist": "The dark god Torak, whose prophecy names Polgara as his bride, tries to bend her mind to his will during the final confrontation; her refusal breaks his morale and leads to his defeat.",
+   "where": "Final chapters (Cthol Mishrak)",
+   "wife": "no (marries Durnik later)",
+   "pregnant_end": "no",
+   "kids_together": "no",
+   "kids_before": "no",
+   "categories": [
+    "occult",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "TV Tropes: Hypnotize the Princess (Literature)",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnotizeThePrincess"
+    },
+    {
+     "label": "Wikipedia: Polgara the Sorceress",
+     "url": "https://en.wikipedia.org/wiki/Polgara_the_Sorceress"
+    }
+   ],
+   "loose_fit": true,
+   "note": "An attempt she resists; loose fit.",
+   "adult_basis": "centuries-old sorceress",
+   "id": 24
   }
  ],
  "dropped": [
