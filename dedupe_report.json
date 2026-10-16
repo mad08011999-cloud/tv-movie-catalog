@@ -46809,11 +46809,11 @@
   "pregnant-yt-oct15": 24,
   "pregnancy-yt-oct15": 50,
   "hypnosis-yt-oct15": 16,
-  "youtube-india-oct15": 11
+  "youtube-india-oct15": 23
  },
- "entry_count_after_dedupe": 3099,
+ "entry_count_after_dedupe": 3111,
  "within_source_groups": 6,
  "cross_source_groups": 1907,
  "index_only_records": 59,
- "local_only_records": 800
+ "local_only_records": 812
 }

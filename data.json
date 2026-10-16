@@ -4737,7 +4737,7 @@
     }
    ],
    "check": {
-    "raw_count": 11,
+    "raw_count": 23,
     "ok": true
    },
    "status": "local"
@@ -4802,10 +4802,10 @@
   "pregnant-yt-oct15": 24,
   "pregnancy-yt-oct15": 50,
   "hypnosis-yt-oct15": 16,
-  "youtube-india-oct15": 11
+  "youtube-india-oct15": 23
  },
- "raw_total": 6104,
- "entry_count": 3099,
+ "raw_total": 6116,
+ "entry_count": 3111,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4853,7 +4853,7 @@
    "key": "occult",
    "label": "Demonic / occult control",
    "legend_label": "Demonic / occult control",
-   "entry_count": 109
+   "entry_count": 110
   },
   {
    "key": "devil-deal-pregnancy-hypnosis",
@@ -4895,7 +4895,7 @@
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 210
+   "entry_count": 212
   },
   {
    "key": "hypnotized-to-marry",
@@ -4931,7 +4931,7 @@
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 687
+   "entry_count": 688
   },
   {
    "key": "wife",
@@ -4967,7 +4967,7 @@
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 136
+   "entry_count": 140
   },
   {
    "key": "royal-hypnosis",
@@ -5003,13 +5003,13 @@
    "key": "erotic-mainstream",
    "label": "Mainstream erotic / erotic-thriller / erotic-drama (rated releases)",
    "legend_label": "Mainstream erotic / erotic-thriller / erotic-drama (rated releases)",
-   "entry_count": 134
+   "entry_count": 135
   },
   {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 176
+   "entry_count": 177
   },
   {
    "key": "mom-partner-control",
@@ -5039,7 +5039,7 @@
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
    "legend_label": "Other female hypnosis / mind control",
-   "entry_count": 314
+   "entry_count": 317
   },
   {
    "key": "parents-sleeping",
@@ -5255,7 +5255,7 @@
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 182
+   "entry_count": 185
   },
   {
    "key": "stepmom-control",
@@ -5291,7 +5291,7 @@
    "key": "tantrik",
    "label": "Tantrik / black-magic control",
    "legend_label": "Tantrik / black-magic control",
-   "entry_count": 57
+   "entry_count": 62
   },
   {
    "key": "vampire",
@@ -5327,7 +5327,7 @@
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 121
+   "entry_count": 123
   },
   {
    "key": "therapist-wife",
@@ -468738,6 +468738,1164 @@
      ]
     }
    }
+  },
+  {
+   "id": 3238,
+   "title": "Shiv Shakti – Tap Tyag Tandav",
+   "subtitle": "",
+   "year": "2023–",
+   "meta": "India · Colors TV mythological serial · Hindi",
+   "mechanism": "",
+   "confidence_flag": "loose fit",
+   "summary": "Parvati, enchanted by Malla and Mani's tantric powers, drifts towards them; Kartikeya and Narayan fail to break the Shiv Tantra. Hypnotist/caster: Malla and Mani (tantra). Wife: yes (Shiv's wife). Caption timestamp: 00:01:33, 00:04:46, 00:10:05.",
+   "character": "Parvati / Shakti (Subha Rajput)",
+   "provenance": "Indian-media YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the YouTube upload's title/description/captions.",
+   "pregnancy_note": "Not stated in the upload.",
+   "episodes": [
+    {
+     "episode": "~Ep 900 highlight",
+     "title": "Shiv Shakti | Parvati Falls Under Malla and Mani’s Tantric Spell | Highlights | Colors Rishtey",
+     "gist": "Hypnotist/caster: Malla and Mani (tantra). Wife: yes (Shiv's wife). Caption timestamp: 00:01:33, 00:04:46, 00:10:05.",
+     "timestamp": "00:01:33, 00:04:46, 00:10:05"
+    }
+   ],
+   "tags": [
+    "youtube-india-oct15"
+   ],
+   "kids_status": "yes",
+   "kids_note": "Son Kartikeya appears in the scene.",
+   "kids_together": "yes",
+   "pregnant_end": "unknown",
+   "already_married": "yes",
+   "already_married_note": "yes (Shiv's wife)",
+   "format": "tv",
+   "categories": [
+    "tantrik",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "YouTube: Shiv Shakti | Parvati Falls Under Malla and Mani’s Tantric Spell | Highlights | Colors Rishtey",
+     "url": "https://www.youtube.com/watch?v=bvQ-2Y_g_ns"
+    }
+   ],
+   "youtube_ids": [
+    "bvQ-2Y_g_ns"
+   ],
+   "from_sources": [
+    "youtube-india-oct15"
+   ],
+   "source_records": [
+    "youtube-india-oct15:12"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/bvQ-2Y_g_ns.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-india-oct15:12": {
+     "title": "Shiv Shakti – Tap Tyag Tandav",
+     "year": "2023–",
+     "format": "tv",
+     "meta": "India · Colors TV mythological serial · Hindi",
+     "summary": "Parvati, enchanted by Malla and Mani's tantric powers, drifts towards them; Kartikeya and Narayan fail to break the Shiv Tantra. Hypnotist/caster: Malla and Mani (tantra). Wife: yes (Shiv's wife). Caption timestamp: 00:01:33, 00:04:46, 00:10:05.",
+     "character": "Parvati / Shakti (Subha Rajput)",
+     "categories": [
+      "tantrik",
+      "occult"
+     ],
+     "episodes": [
+      {
+       "episode": "~Ep 900 highlight",
+       "title": "Shiv Shakti | Parvati Falls Under Malla and Mani’s Tantric Spell | Highlights | Colors Rishtey",
+       "gist": "Hypnotist/caster: Malla and Mani (tantra). Wife: yes (Shiv's wife). Caption timestamp: 00:01:33, 00:04:46, 00:10:05.",
+       "timestamp": "00:01:33, 00:04:46, 00:10:05"
+      }
+     ],
+     "already_married": "yes",
+     "already_married_note": "yes (Shiv's wife)",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the upload.",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "kids_note": "Son Kartikeya appears in the scene.",
+     "sources": [
+      {
+       "label": "YouTube: Shiv Shakti | Parvati Falls Under Malla and Mani’s Tantric Spell | Highlights | Colors Rishtey",
+       "url": "https://www.youtube.com/watch?v=bvQ-2Y_g_ns"
+      }
+     ],
+     "confidence_flag": "loose fit",
+     "note": "loose fit: confirmed only from the YouTube upload's title/description/captions.",
+     "provenance": "Indian-media YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "tags": [
+      "youtube-india-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3239,
+   "title": "Agnipareeksha Jeevan Ki – Gangaa",
+   "subtitle": "",
+   "year": "2017",
+   "meta": "India · Colors TV serial · Hindi",
+   "mechanism": "",
+   "confidence_flag": "loose fit",
+   "summary": "At an old temple Ganga gets flashbacks and walks towards danger in a hypnotised state; Shiv stops her. Hypnotist/caster: unexplained force (trance). Wife: unknown.",
+   "character": "Ganga (Jayshree Soni)",
+   "provenance": "Indian-media YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the YouTube upload's title/description/captions.",
+   "pregnancy_note": "Not stated in the upload.",
+   "episodes": [
+    {
+     "episode": "highlight",
+     "title": "Ganga’s Mysterious Trance Shocks Shiv | Agnipareeksha Jeevan Ki- Gangaa | Colors Rishtey",
+     "gist": "Hypnotist/caster: unexplained force (trance). Wife: unknown."
+    }
+   ],
+   "tags": [
+    "youtube-india-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
+   "format": "tv",
+   "categories": [
+    "other-control",
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "YouTube: Ganga’s Mysterious Trance Shocks Shiv | Agnipareeksha Jeevan Ki- Gangaa | Colors Rishtey",
+     "url": "https://www.youtube.com/watch?v=ck2KIMUayfc"
+    }
+   ],
+   "youtube_ids": [
+    "ck2KIMUayfc"
+   ],
+   "from_sources": [
+    "youtube-india-oct15"
+   ],
+   "source_records": [
+    "youtube-india-oct15:13"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/ck2KIMUayfc.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-india-oct15:13": {
+     "title": "Agnipareeksha Jeevan Ki – Gangaa",
+     "year": "2017",
+     "format": "tv",
+     "meta": "India · Colors TV serial · Hindi",
+     "summary": "At an old temple Ganga gets flashbacks and walks towards danger in a hypnotised state; Shiv stops her. Hypnotist/caster: unexplained force (trance). Wife: unknown.",
+     "character": "Ganga (Jayshree Soni)",
+     "categories": [
+      "other-control",
+      "spirit"
+     ],
+     "episodes": [
+      {
+       "episode": "highlight",
+       "title": "Ganga’s Mysterious Trance Shocks Shiv | Agnipareeksha Jeevan Ki- Gangaa | Colors Rishtey",
+       "gist": "Hypnotist/caster: unexplained force (trance). Wife: unknown."
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube: Ganga’s Mysterious Trance Shocks Shiv | Agnipareeksha Jeevan Ki- Gangaa | Colors Rishtey",
+       "url": "https://www.youtube.com/watch?v=ck2KIMUayfc"
+      }
+     ],
+     "confidence_flag": "loose fit",
+     "note": "loose fit: confirmed only from the YouTube upload's title/description/captions.",
+     "provenance": "Indian-media YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "tags": [
+      "youtube-india-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3240,
+   "title": "Vidhya No 1",
+   "subtitle": "",
+   "year": "2021–23",
+   "meta": "India · Zee Tamil serial · Tamil",
+   "mechanism": "",
+   "confidence_flag": "loose fit",
+   "summary": "Sanjay steals dust from Vidhya's feet and tries to take her sari; Patti and Sanjay meet a sorcerer to cast vasiyam on her. Hypnotist/caster: a sorcerer hired by Patti and Sanjay. Wife: yes (bahu/daughter-in-law).",
+   "character": "Vidhya (Tejaswini), Vedavalli's daughter-in-law",
+   "provenance": "Indian-media YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the YouTube upload's title/description/captions.",
+   "pregnancy_note": "Not stated in the upload.",
+   "episodes": [
+    {
+     "episode": "Ep 419 (6 Jun 2023)",
+     "title": "Vidhya-க்கு வசியம் பண்ண போறாங்களா | Vidhya No 1 | Full Ep 419 | Zee Tamil",
+     "gist": "Hypnotist/caster: a sorcerer hired by Patti and Sanjay. Wife: yes (bahu/daughter-in-law)."
+    }
+   ],
+   "tags": [
+    "youtube-india-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "already_married": "yes",
+   "already_married_note": "yes (bahu/daughter-in-law)",
+   "format": "tv",
+   "categories": [
+    "tantrik",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "YouTube: Vidhya-க்கு வசியம் பண்ண போறாங்களா | Vidhya No 1 | Full Ep 419 | Zee Tamil",
+     "url": "https://www.youtube.com/watch?v=cdR3J3Hnnb4"
+    }
+   ],
+   "youtube_ids": [
+    "cdR3J3Hnnb4"
+   ],
+   "from_sources": [
+    "youtube-india-oct15"
+   ],
+   "source_records": [
+    "youtube-india-oct15:14"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/cdR3J3Hnnb4.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-india-oct15:14": {
+     "title": "Vidhya No 1",
+     "year": "2021–23",
+     "format": "tv",
+     "meta": "India · Zee Tamil serial · Tamil",
+     "summary": "Sanjay steals dust from Vidhya's feet and tries to take her sari; Patti and Sanjay meet a sorcerer to cast vasiyam on her. Hypnotist/caster: a sorcerer hired by Patti and Sanjay. Wife: yes (bahu/daughter-in-law).",
+     "character": "Vidhya (Tejaswini), Vedavalli's daughter-in-law",
+     "categories": [
+      "tantrik",
+      "india-control"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 419 (6 Jun 2023)",
+       "title": "Vidhya-க்கு வசியம் பண்ண போறாங்களா | Vidhya No 1 | Full Ep 419 | Zee Tamil",
+       "gist": "Hypnotist/caster: a sorcerer hired by Patti and Sanjay. Wife: yes (bahu/daughter-in-law)."
+      }
+     ],
+     "already_married": "yes",
+     "already_married_note": "yes (bahu/daughter-in-law)",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube: Vidhya-க்கு வசியம் பண்ண போறாங்களா | Vidhya No 1 | Full Ep 419 | Zee Tamil",
+       "url": "https://www.youtube.com/watch?v=cdR3J3Hnnb4"
+      }
+     ],
+     "confidence_flag": "loose fit",
+     "note": "loose fit: confirmed only from the YouTube upload's title/description/captions.",
+     "provenance": "Indian-media YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "tags": [
+      "youtube-india-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3241,
+   "title": "CID — In The Eye (hypnotized housewife)",
+   "subtitle": "",
+   "year": "2023",
+   "meta": "India · Sony / LIV Crime · Hindi · Ep 1364",
+   "mechanism": "",
+   "confidence_flag": "loose fit",
+   "summary": "Two burglars posing as salespeople hypnotize a woman into revealing her locker codes and rob her; she then finds her husband dead. Hypnotist/caster: two burglar hypnotists. Wife: yes. Caption timestamp: 00:21:26, 00:21:28, 00:26:48.",
+   "character": "the housewife",
+   "provenance": "Indian-media YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the YouTube upload's title/description/captions.",
+   "pregnancy_note": "Not stated in the upload.",
+   "episodes": [
+    {
+     "episode": "Ep 1364",
+     "title": "Undercover हुए Purvi & Sachin को किसने किया Hypnotize? | CID | In The Eye | 22 Sep 2023 | Full Episode",
+     "gist": "Hypnotist/caster: two burglar hypnotists. Wife: yes. Caption timestamp: 00:21:26, 00:21:28, 00:26:48.",
+     "timestamp": "00:21:26, 00:21:28, 00:26:48"
+    }
+   ],
+   "tags": [
+    "youtube-india-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "already_married": "yes",
+   "already_married_note": "yes",
+   "format": "tv",
+   "categories": [
+    "crime",
+    "wife-hypnotized"
+   ],
+   "sources": [
+    {
+     "label": "YouTube: Undercover हुए Purvi & Sachin को किसने किया Hypnotize? | CID | In The Eye | 22 Sep 2023 | Full Episode",
+     "url": "https://www.youtube.com/watch?v=vF0uMP7Aw4s"
+    }
+   ],
+   "youtube_ids": [
+    "vF0uMP7Aw4s"
+   ],
+   "from_sources": [
+    "youtube-india-oct15"
+   ],
+   "source_records": [
+    "youtube-india-oct15:15"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/vF0uMP7Aw4s.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-india-oct15:15": {
+     "title": "CID — In The Eye (hypnotized housewife)",
+     "year": "2023",
+     "format": "tv",
+     "meta": "India · Sony / LIV Crime · Hindi · Ep 1364",
+     "summary": "Two burglars posing as salespeople hypnotize a woman into revealing her locker codes and rob her; she then finds her husband dead. Hypnotist/caster: two burglar hypnotists. Wife: yes. Caption timestamp: 00:21:26, 00:21:28, 00:26:48.",
+     "character": "the housewife",
+     "categories": [
+      "crime",
+      "wife-hypnotized"
+     ],
+     "episodes": [
+      {
+       "episode": "Ep 1364",
+       "title": "Undercover हुए Purvi & Sachin को किसने किया Hypnotize? | CID | In The Eye | 22 Sep 2023 | Full Episode",
+       "gist": "Hypnotist/caster: two burglar hypnotists. Wife: yes. Caption timestamp: 00:21:26, 00:21:28, 00:26:48.",
+       "timestamp": "00:21:26, 00:21:28, 00:26:48"
+      }
+     ],
+     "already_married": "yes",
+     "already_married_note": "yes",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube: Undercover हुए Purvi & Sachin को किसने किया Hypnotize? | CID | In The Eye | 22 Sep 2023 | Full Episode",
+       "url": "https://www.youtube.com/watch?v=vF0uMP7Aw4s"
+      }
+     ],
+     "confidence_flag": "loose fit",
+     "note": "loose fit: confirmed only from the YouTube upload's title/description/captions.",
+     "provenance": "Indian-media YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "tags": [
+      "youtube-india-oct15"
+     ],
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 3242,
+   "title": "Crime Alert — Andhvishwas baba ne kiya bahu ko vashikaran",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "India · Dangal 2 crime show · Hindi",
+   "mechanism": "",
+   "confidence_flag": "loose fit",
+   "summary": "A neglected wife and mother falls under a superstition baba's vashikaran (episode 'Bandi Zindagi'). Hypnotist/caster: a fraud baba. Wife: yes (ek maa, ek patni).",
+   "character": "the bahu",
+   "provenance": "Indian-media YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the YouTube upload's title/description/captions.",
+   "pregnancy_note": "Not stated in the upload.",
+   "episodes": [
+    {
+     "episode": "Full episode (6 Feb 2026 upload)",
+     "title": "Crime Alert | अंधविश्वास बाबा ने किया बहू को वशीकरण! | Full Episode | Dangal 2",
+     "gist": "Hypnotist/caster: a fraud baba. Wife: yes (ek maa, ek patni)."
+    }
+   ],
+   "tags": [
+    "youtube-india-oct15"
+   ],
+   "kids_status": "yes",
+   "kids_note": "Description calls her 'ek maa'.",
+   "kids_together": "yes",
+   "pregnant_end": "unknown",
+   "already_married": "yes",
+   "already_married_note": "yes (ek maa, ek patni)",
+   "format": "tv",
+   "categories": [
+    "tantrik",
+    "crime",
+    "wife-hypnotized"
+   ],
+   "sources": [
+    {
+     "label": "YouTube: Crime Alert | अंधविश्वास बाबा ने किया बहू को वशीकरण! | Full Episode | Dangal 2",
+     "url": "https://www.youtube.com/watch?v=47FzeArnKKA"
+    }
+   ],
+   "youtube_ids": [
+    "47FzeArnKKA"
+   ],
+   "from_sources": [
+    "youtube-india-oct15"
+   ],
+   "source_records": [
+    "youtube-india-oct15:16"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/47FzeArnKKA.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-india-oct15:16": {
+     "title": "Crime Alert — Andhvishwas baba ne kiya bahu ko vashikaran",
+     "year": "2026",
+     "format": "tv",
+     "meta": "India · Dangal 2 crime show · Hindi",
+     "summary": "A neglected wife and mother falls under a superstition baba's vashikaran (episode 'Bandi Zindagi'). Hypnotist/caster: a fraud baba. Wife: yes (ek maa, ek patni).",
+     "character": "the bahu",
+     "categories": [
+      "tantrik",
+      "crime",
+      "wife-hypnotized"
+     ],
+     "episodes": [
+      {
+       "episode": "Full episode (6 Feb 2026 upload)",
+       "title": "Crime Alert | अंधविश्वास बाबा ने किया बहू को वशीकरण! | Full Episode | Dangal 2",
+       "gist": "Hypnotist/caster: a fraud baba. Wife: yes (ek maa, ek patni)."
+      }
+     ],
+     "already_married": "yes",
+     "already_married_note": "yes (ek maa, ek patni)",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the upload.",
+     "kids_together": "yes",
+     "kids_status": "yes",
+     "kids_note": "Description calls her 'ek maa'.",
+     "sources": [
+      {
+       "label": "YouTube: Crime Alert | अंधविश्वास बाबा ने किया बहू को वशीकरण! | Full Episode | Dangal 2",
+       "url": "https://www.youtube.com/watch?v=47FzeArnKKA"
+      }
+     ],
+     "confidence_flag": "loose fit",
+     "note": "loose fit: confirmed only from the YouTube upload's title/description/captions.",
+     "provenance": "Indian-media YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "tags": [
+      "youtube-india-oct15"
+     ],
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 3243,
+   "title": "Vashikaran (WooW web series)",
+   "subtitle": "",
+   "year": "2023–25",
+   "meta": "India · WooW app web series · Hindi",
+   "mechanism": "",
+   "confidence_flag": "loose fit",
+   "summary": "Web series about vashikaran starring Ekta More and Bharti Jha; captions mention 'those who do vashikaran'. Hypnotist/caster: vashikaran practitioner. Wife: unknown (comments mention her husband). Caption timestamp: 00:12:22.",
+   "character": "character played by Ekta More / Bharti Jha",
+   "provenance": "Indian-media YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the YouTube upload's title/description/captions.",
+   "pregnancy_note": "Not stated in the upload.",
+   "episodes": [
+    {
+     "episode": "Chapter 1",
+     "title": "Vashikaran - Chapter 1 | New Hindi Web Series 2025 | WooW",
+     "gist": "Hypnotist/caster: vashikaran practitioner. Wife: unknown (comments mention her husband). Caption timestamp: 00:12:22.",
+     "timestamp": "00:12:22"
+    }
+   ],
+   "tags": [
+    "youtube-india-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "already_married": "unknown",
+   "already_married_note": "unknown (comments mention her husband)",
+   "format": "tv",
+   "categories": [
+    "erotic-mainstream",
+    "tantrik"
+   ],
+   "sources": [
+    {
+     "label": "YouTube: Vashikaran - Chapter 1 | New Hindi Web Series 2025 | WooW",
+     "url": "https://www.youtube.com/watch?v=ijWKwCbwxUM"
+    },
+    {
+     "label": "YouTube (WooW): Vashikaran - Promo (2023)",
+     "url": "https://www.youtube.com/watch?v=TpkX4zu22yw"
+    }
+   ],
+   "youtube_ids": [
+    "ijWKwCbwxUM",
+    "TpkX4zu22yw"
+   ],
+   "from_sources": [
+    "youtube-india-oct15"
+   ],
+   "source_records": [
+    "youtube-india-oct15:17"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/ijWKwCbwxUM.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-india-oct15:17": {
+     "title": "Vashikaran (WooW web series)",
+     "year": "2023–25",
+     "format": "tv",
+     "meta": "India · WooW app web series · Hindi",
+     "summary": "Web series about vashikaran starring Ekta More and Bharti Jha; captions mention 'those who do vashikaran'. Hypnotist/caster: vashikaran practitioner. Wife: unknown (comments mention her husband). Caption timestamp: 00:12:22.",
+     "character": "character played by Ekta More / Bharti Jha",
+     "categories": [
+      "erotic-mainstream",
+      "tantrik"
+     ],
+     "episodes": [
+      {
+       "episode": "Chapter 1",
+       "title": "Vashikaran - Chapter 1 | New Hindi Web Series 2025 | WooW",
+       "gist": "Hypnotist/caster: vashikaran practitioner. Wife: unknown (comments mention her husband). Caption timestamp: 00:12:22.",
+       "timestamp": "00:12:22"
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown (comments mention her husband)",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube: Vashikaran - Chapter 1 | New Hindi Web Series 2025 | WooW",
+       "url": "https://www.youtube.com/watch?v=ijWKwCbwxUM"
+      },
+      {
+       "label": "YouTube (WooW): Vashikaran - Promo (2023)",
+       "url": "https://www.youtube.com/watch?v=TpkX4zu22yw"
+      }
+     ],
+     "confidence_flag": "loose fit",
+     "note": "loose fit: confirmed only from the YouTube upload's title/description/captions.",
+     "provenance": "Indian-media YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "tags": [
+      "youtube-india-oct15"
+     ],
+     "content_note": "Adult OTT app (WooW); the YouTube chapter is non-explicit, so no hardcore label."
+    }
+   }
+  },
+  {
+   "id": 3244,
+   "title": "Ravana Brahma",
+   "subtitle": "",
+   "year": "1986",
+   "meta": "India · Telugu film (dir. K. Raghavendra Rao)",
+   "mechanism": "",
+   "confidence_flag": "loose fit",
+   "summary": "Giribabu's character hypnotizes Sri Lakshmi's character and traps her. Hypnotist/caster: Giribabu's character. Wife: unknown. Caption timestamp: 00:03:35.",
+   "character": "Sri Lakshmi's character",
+   "provenance": "Indian-media YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the YouTube upload's title/description/captions.",
+   "pregnancy_note": "Not stated in the upload.",
+   "episodes": [
+    {
+     "episode": "film scene",
+     "title": "Giribabu Hypnosis Sri Lakshmi And Traps - Ravana Brahma Movie Scenes",
+     "gist": "Hypnotist/caster: Giribabu's character. Wife: unknown. Caption timestamp: 00:03:35.",
+     "timestamp": "00:03:35"
+    }
+   ],
+   "tags": [
+    "youtube-india-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
+   "format": "film",
+   "categories": [
+    "other-control",
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "YouTube: Giribabu Hypnosis Sri Lakshmi And Traps - Ravana Brahma Movie Scenes",
+     "url": "https://www.youtube.com/watch?v=C1A2znSAd_E"
+    }
+   ],
+   "youtube_ids": [
+    "C1A2znSAd_E"
+   ],
+   "from_sources": [
+    "youtube-india-oct15"
+   ],
+   "source_records": [
+    "youtube-india-oct15:18"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/C1A2znSAd_E.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-india-oct15:18": {
+     "title": "Ravana Brahma",
+     "year": "1986",
+     "format": "film",
+     "meta": "India · Telugu film (dir. K. Raghavendra Rao)",
+     "summary": "Giribabu's character hypnotizes Sri Lakshmi's character and traps her. Hypnotist/caster: Giribabu's character. Wife: unknown. Caption timestamp: 00:03:35.",
+     "character": "Sri Lakshmi's character",
+     "categories": [
+      "other-control",
+      "crime"
+     ],
+     "episodes": [
+      {
+       "episode": "film scene",
+       "title": "Giribabu Hypnosis Sri Lakshmi And Traps - Ravana Brahma Movie Scenes",
+       "gist": "Hypnotist/caster: Giribabu's character. Wife: unknown. Caption timestamp: 00:03:35.",
+       "timestamp": "00:03:35"
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube: Giribabu Hypnosis Sri Lakshmi And Traps - Ravana Brahma Movie Scenes",
+       "url": "https://www.youtube.com/watch?v=C1A2znSAd_E"
+      }
+     ],
+     "confidence_flag": "loose fit",
+     "note": "loose fit: confirmed only from the YouTube upload's title/description/captions.",
+     "provenance": "Indian-media YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "tags": [
+      "youtube-india-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3245,
+   "title": "Chitrangada",
+   "subtitle": "",
+   "year": "2017",
+   "meta": "India · Telugu horror film (Anjali)",
+   "mechanism": "",
+   "confidence_flag": "loose fit",
+   "summary": "Anjali's character undergoes hypnosis and describes her dream. Hypnotist/caster: a doctor/hypnotherapist. Wife: no.",
+   "character": "Anjali's character",
+   "provenance": "Indian-media YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the YouTube upload's title/description/captions.",
+   "pregnancy_note": "Not stated in the upload.",
+   "episodes": [
+    {
+     "episode": "film scene",
+     "title": "Anjali Undergo For Hypnosis And Tells About Dream || Chitrangada Movie Scenes",
+     "gist": "Hypnotist/caster: a doctor/hypnotherapist. Wife: no."
+    }
+   ],
+   "tags": [
+    "youtube-india-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "already_married": "no",
+   "already_married_note": "no",
+   "format": "film",
+   "categories": [
+    "medical",
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "YouTube: Anjali Undergo For Hypnosis And Tells About Dream || Chitrangada Movie Scenes",
+     "url": "https://www.youtube.com/watch?v=cbcVDmca8yk"
+    }
+   ],
+   "youtube_ids": [
+    "cbcVDmca8yk"
+   ],
+   "from_sources": [
+    "youtube-india-oct15"
+   ],
+   "source_records": [
+    "youtube-india-oct15:19"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/cbcVDmca8yk.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-india-oct15:19": {
+     "title": "Chitrangada",
+     "year": "2017",
+     "format": "film",
+     "meta": "India · Telugu horror film (Anjali)",
+     "summary": "Anjali's character undergoes hypnosis and describes her dream. Hypnotist/caster: a doctor/hypnotherapist. Wife: no.",
+     "character": "Anjali's character",
+     "categories": [
+      "medical",
+      "spirit"
+     ],
+     "episodes": [
+      {
+       "episode": "film scene",
+       "title": "Anjali Undergo For Hypnosis And Tells About Dream || Chitrangada Movie Scenes",
+       "gist": "Hypnotist/caster: a doctor/hypnotherapist. Wife: no."
+      }
+     ],
+     "already_married": "no",
+     "already_married_note": "no",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube: Anjali Undergo For Hypnosis And Tells About Dream || Chitrangada Movie Scenes",
+       "url": "https://www.youtube.com/watch?v=cbcVDmca8yk"
+      }
+     ],
+     "confidence_flag": "loose fit",
+     "note": "loose fit: confirmed only from the YouTube upload's title/description/captions.",
+     "provenance": "Indian-media YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "tags": [
+      "youtube-india-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3246,
+   "title": "Psycho",
+   "subtitle": "",
+   "year": "2020",
+   "meta": "India · Tamil film (dir. Mysskin), Telugu-dubbed clip",
+   "mechanism": "",
+   "confidence_flag": "loose fit",
+   "summary": "Rajkumar Pitchumani's character hypnotizes Aditi Rao Hydari's character. Hypnotist/caster: Rajkumar Pitchumani's character. Wife: no.",
+   "character": "Dagini (Aditi Rao Hydari)",
+   "provenance": "Indian-media YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the YouTube upload's title/description/captions.",
+   "pregnancy_note": "Not stated in the upload.",
+   "episodes": [
+    {
+     "episode": "film scene",
+     "title": "Rajkumar Pitchumani Hypnotizing Aditi Rao Hydari Interesting Scene || Psycho Movie",
+     "gist": "Hypnotist/caster: Rajkumar Pitchumani's character. Wife: no."
+    }
+   ],
+   "tags": [
+    "youtube-india-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "already_married": "no",
+   "already_married_note": "no",
+   "format": "film",
+   "categories": [
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "YouTube: Rajkumar Pitchumani Hypnotizing Aditi Rao Hydari Interesting Scene || Psycho Movie",
+     "url": "https://www.youtube.com/watch?v=KQ2ftXFVTuw"
+    }
+   ],
+   "youtube_ids": [
+    "KQ2ftXFVTuw"
+   ],
+   "from_sources": [
+    "youtube-india-oct15"
+   ],
+   "source_records": [
+    "youtube-india-oct15:20"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/KQ2ftXFVTuw.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-india-oct15:20": {
+     "title": "Psycho",
+     "year": "2020",
+     "format": "film",
+     "meta": "India · Tamil film (dir. Mysskin), Telugu-dubbed clip",
+     "summary": "Rajkumar Pitchumani's character hypnotizes Aditi Rao Hydari's character. Hypnotist/caster: Rajkumar Pitchumani's character. Wife: no.",
+     "character": "Dagini (Aditi Rao Hydari)",
+     "categories": [
+      "other-control"
+     ],
+     "episodes": [
+      {
+       "episode": "film scene",
+       "title": "Rajkumar Pitchumani Hypnotizing Aditi Rao Hydari Interesting Scene || Psycho Movie",
+       "gist": "Hypnotist/caster: Rajkumar Pitchumani's character. Wife: no."
+      }
+     ],
+     "already_married": "no",
+     "already_married_note": "no",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube: Rajkumar Pitchumani Hypnotizing Aditi Rao Hydari Interesting Scene || Psycho Movie",
+       "url": "https://www.youtube.com/watch?v=KQ2ftXFVTuw"
+      }
+     ],
+     "confidence_flag": "loose fit",
+     "note": "loose fit: confirmed only from the YouTube upload's title/description/captions.",
+     "provenance": "Indian-media YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "tags": [
+      "youtube-india-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3247,
+   "title": "Dhee Ante Dhee (Telugu dub of a Malayalam film)",
+   "subtitle": "",
+   "year": "unknown",
+   "meta": "India · Malayalam film dubbed in Telugu (Suresh Gopi, Biju Menon, Indraja)",
+   "mechanism": "",
+   "confidence_flag": "loose fit",
+   "summary": "A sadhu hypnotizes women. Hypnotist/caster: a sadhu. Wife: unknown.",
+   "character": "women (Indraja cast)",
+   "provenance": "Indian-media YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the YouTube upload's title/description/captions.",
+   "pregnancy_note": "Not stated in the upload.",
+   "episodes": [
+    {
+     "episode": "film scene",
+     "title": "Dhee Ante Dhee Movie Scenes - Sadhu hypnotizing women | Indraja | Suresh Gopi",
+     "gist": "Hypnotist/caster: a sadhu. Wife: unknown."
+    }
+   ],
+   "tags": [
+    "youtube-india-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
+   "format": "film",
+   "categories": [
+    "tantrik",
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "YouTube: Dhee Ante Dhee Movie Scenes - Sadhu hypnotizing women | Indraja | Suresh Gopi",
+     "url": "https://www.youtube.com/watch?v=CrEzN6JNoP8"
+    }
+   ],
+   "youtube_ids": [
+    "CrEzN6JNoP8"
+   ],
+   "from_sources": [
+    "youtube-india-oct15"
+   ],
+   "source_records": [
+    "youtube-india-oct15:21"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/CrEzN6JNoP8.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-india-oct15:21": {
+     "title": "Dhee Ante Dhee (Telugu dub of a Malayalam film)",
+     "year": "unknown",
+     "format": "film",
+     "meta": "India · Malayalam film dubbed in Telugu (Suresh Gopi, Biju Menon, Indraja)",
+     "summary": "A sadhu hypnotizes women. Hypnotist/caster: a sadhu. Wife: unknown.",
+     "character": "women (Indraja cast)",
+     "categories": [
+      "tantrik",
+      "crime"
+     ],
+     "episodes": [
+      {
+       "episode": "film scene",
+       "title": "Dhee Ante Dhee Movie Scenes - Sadhu hypnotizing women | Indraja | Suresh Gopi",
+       "gist": "Hypnotist/caster: a sadhu. Wife: unknown."
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube: Dhee Ante Dhee Movie Scenes - Sadhu hypnotizing women | Indraja | Suresh Gopi",
+       "url": "https://www.youtube.com/watch?v=CrEzN6JNoP8"
+      }
+     ],
+     "confidence_flag": "loose fit",
+     "note": "loose fit: confirmed only from the YouTube upload's title/description/captions.",
+     "provenance": "Indian-media YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "tags": [
+      "youtube-india-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3248,
+   "title": "Ladies Room",
+   "subtitle": "",
+   "year": "2022–",
+   "meta": "India · Kaumudy TV sitcom · Malayalam",
+   "mechanism": "",
+   "confidence_flag": "loose fit",
+   "summary": "Episode 'Hypnotism' of the four-women sitcom. Hypnotist/caster: not named. Wife: unknown.",
+   "character": "the flatmates",
+   "provenance": "Indian-media YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the YouTube upload's title/description/captions.",
+   "pregnancy_note": "Not stated in the upload.",
+   "episodes": [
+    {
+     "episode": "EP 182",
+     "title": "Ladies Room | Hypnotism | EP 182 | Comedy Serial ( Sitcom )",
+     "gist": "Hypnotist/caster: not named. Wife: unknown."
+    }
+   ],
+   "tags": [
+    "youtube-india-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "already_married": "unknown",
+   "already_married_note": "unknown",
+   "format": "tv",
+   "categories": [
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "YouTube: Ladies Room | Hypnotism | EP 182 | Comedy Serial ( Sitcom )",
+     "url": "https://www.youtube.com/watch?v=2CgksqfpzlY"
+    }
+   ],
+   "youtube_ids": [
+    "2CgksqfpzlY"
+   ],
+   "from_sources": [
+    "youtube-india-oct15"
+   ],
+   "source_records": [
+    "youtube-india-oct15:22"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/2CgksqfpzlY.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-india-oct15:22": {
+     "title": "Ladies Room",
+     "year": "2022–",
+     "format": "tv",
+     "meta": "India · Kaumudy TV sitcom · Malayalam",
+     "summary": "Episode 'Hypnotism' of the four-women sitcom. Hypnotist/caster: not named. Wife: unknown.",
+     "character": "the flatmates",
+     "categories": [
+      "human"
+     ],
+     "episodes": [
+      {
+       "episode": "EP 182",
+       "title": "Ladies Room | Hypnotism | EP 182 | Comedy Serial ( Sitcom )",
+       "gist": "Hypnotist/caster: not named. Wife: unknown."
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube: Ladies Room | Hypnotism | EP 182 | Comedy Serial ( Sitcom )",
+       "url": "https://www.youtube.com/watch?v=2CgksqfpzlY"
+      }
+     ],
+     "confidence_flag": "loose fit",
+     "note": "loose fit: confirmed only from the YouTube upload's title/description/captions.",
+     "provenance": "Indian-media YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "tags": [
+      "youtube-india-oct15"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3249,
+   "title": "Do Chutki Sindoor",
+   "subtitle": "",
+   "year": "2023–24",
+   "meta": "India · Nazara TV serial · Hindi",
+   "mechanism": "",
+   "confidence_flag": "loose fit",
+   "summary": "A Brahmarakshas brings Dadiya (the grandmother) under his control. Hypnotist/caster: a Brahmarakshas. Wife: unknown (grandmother).",
+   "character": "Dadiya",
+   "provenance": "Indian-media YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+   "note": "loose fit: confirmed only from the YouTube upload's title/description/captions.",
+   "pregnancy_note": "Not stated in the upload.",
+   "episodes": [
+    {
+     "episode": "best scene",
+     "title": "Brahmarakshas Ne Kiya Dadiya Ko Vash Mein | Do Chutki Sindoor | Nazara TV",
+     "gist": "Hypnotist/caster: a Brahmarakshas. Wife: unknown (grandmother)."
+    }
+   ],
+   "tags": [
+    "youtube-india-oct15"
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "already_married": "unknown",
+   "already_married_note": "unknown (grandmother)",
+   "format": "tv",
+   "categories": [
+    "spirit",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "YouTube: Brahmarakshas Ne Kiya Dadiya Ko Vash Mein | Do Chutki Sindoor | Nazara TV",
+     "url": "https://www.youtube.com/watch?v=zmzUbBjw-5o"
+    }
+   ],
+   "youtube_ids": [
+    "zmzUbBjw-5o"
+   ],
+   "from_sources": [
+    "youtube-india-oct15"
+   ],
+   "source_records": [
+    "youtube-india-oct15:23"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/zmzUbBjw-5o.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "youtube-india-oct15:23": {
+     "title": "Do Chutki Sindoor",
+     "year": "2023–24",
+     "format": "tv",
+     "meta": "India · Nazara TV serial · Hindi",
+     "summary": "A Brahmarakshas brings Dadiya (the grandmother) under his control. Hypnotist/caster: a Brahmarakshas. Wife: unknown (grandmother).",
+     "character": "Dadiya",
+     "categories": [
+      "spirit",
+      "india-control"
+     ],
+     "episodes": [
+      {
+       "episode": "best scene",
+       "title": "Brahmarakshas Ne Kiya Dadiya Ko Vash Mein | Do Chutki Sindoor | Nazara TV",
+       "gist": "Hypnotist/caster: a Brahmarakshas. Wife: unknown (grandmother)."
+      }
+     ],
+     "already_married": "unknown",
+     "already_married_note": "unknown (grandmother)",
+     "pregnant_end": "unknown",
+     "pregnancy_note": "Not stated in the upload.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "sources": [
+      {
+       "label": "YouTube: Brahmarakshas Ne Kiya Dadiya Ko Vash Mein | Do Chutki Sindoor | Nazara TV",
+       "url": "https://www.youtube.com/watch?v=zmzUbBjw-5o"
+      }
+     ],
+     "confidence_flag": "loose fit",
+     "note": "loose fit: confirmed only from the YouTube upload's title/description/captions.",
+     "provenance": "Indian-media YouTube deep sweep 15 Oct 2026 PT — official-channel metadata, auto-captions and top comments mined with yt-dlp (no video downloaded)",
+     "tags": [
+      "youtube-india-oct15"
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -474475,6 +475633,10 @@
       {
        "id": 2976,
        "from_source": "youtube-india-oct15"
+      },
+      {
+       "id": 3238,
+       "from_source": "youtube-india-oct15"
       }
      ],
      "from_source": "youtube-india-oct15"
@@ -479692,6 +480854,21 @@
       }
      ],
      "from_source": "hypnosis-yt-oct15"
+    },
+    {
+     "title": "Indian TV, film and web — YouTube deep sweep",
+     "notes": [],
+     "items": [
+      {
+       "id": 3249,
+       "from_source": "youtube-india-oct15"
+      },
+      {
+       "id": 3240,
+       "from_source": "youtube-india-oct15"
+      }
+     ],
+     "from_source": "youtube-india-oct15"
     }
    ]
   },
@@ -485129,6 +486306,17 @@
       }
      ],
      "from_source": "hypnosis-yt-oct15"
+    },
+    {
+     "title": "Indian TV, film and web — YouTube deep sweep",
+     "notes": [],
+     "items": [
+      {
+       "id": 3248,
+       "from_source": "youtube-india-oct15"
+      }
+     ],
+     "from_source": "youtube-india-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -488259,6 +489447,22 @@
      "title": "Indian TV, film and web — YouTube deep sweep",
      "notes": [],
      "items": [
+      {
+       "id": 3241,
+       "from_source": "youtube-india-oct15"
+      },
+      {
+       "id": 3242,
+       "from_source": "youtube-india-oct15"
+      },
+      {
+       "id": 3247,
+       "from_source": "youtube-india-oct15"
+      },
+      {
+       "id": 3244,
+       "from_source": "youtube-india-oct15"
+      },
       {
        "id": 1856,
        "from_source": "youtube-india-oct15"
@@ -491984,7 +493188,8 @@
     "round2",
     "youtube-sweep-oct15",
     "pregnancy-yt-oct15",
-    "hypnosis-yt-oct15"
+    "hypnosis-yt-oct15",
+    "youtube-india-oct15"
    ],
    "declared_count_by_source": {
     "mainstream-erotic": null,
@@ -491992,7 +493197,8 @@
     "round2": null,
     "youtube-sweep-oct15": null,
     "pregnancy-yt-oct15": null,
-    "hypnosis-yt-oct15": null
+    "hypnosis-yt-oct15": null,
+    "youtube-india-oct15": null
    },
    "groups": [
     {
@@ -492593,6 +493799,17 @@
       }
      ],
      "from_source": "hypnosis-yt-oct15"
+    },
+    {
+     "title": "Indian TV, film and web — YouTube deep sweep",
+     "notes": [],
+     "items": [
+      {
+       "id": 3243,
+       "from_source": "youtube-india-oct15"
+      }
+     ],
+     "from_source": "youtube-india-oct15"
     }
    ]
   },
@@ -494028,6 +495245,10 @@
      "items": [
       {
        "id": 905,
+       "from_source": "youtube-india-oct15"
+      },
+      {
+       "id": 3245,
        "from_source": "youtube-india-oct15"
       }
      ],
@@ -498857,6 +500078,18 @@
      "items": [
       {
        "id": 417,
+       "from_source": "youtube-india-oct15"
+      },
+      {
+       "id": 3239,
+       "from_source": "youtube-india-oct15"
+      },
+      {
+       "id": 3246,
+       "from_source": "youtube-india-oct15"
+      },
+      {
+       "id": 3244,
        "from_source": "youtube-india-oct15"
       },
       {
@@ -511972,7 +513205,19 @@
      "notes": [],
      "items": [
       {
+       "id": 3239,
+       "from_source": "youtube-india-oct15"
+      },
+      {
        "id": 2976,
+       "from_source": "youtube-india-oct15"
+      },
+      {
+       "id": 3245,
+       "from_source": "youtube-india-oct15"
+      },
+      {
+       "id": 3249,
        "from_source": "youtube-india-oct15"
       }
      ],
@@ -512869,7 +514114,8 @@
     "streaming-oct15",
     "hypnotized-female-oct15",
     "indonesia-sinetron-oct15",
-    "hypnosis-yt-oct15"
+    "hypnosis-yt-oct15",
+    "youtube-india-oct15"
    ],
    "groups": [
     {
@@ -513424,6 +514670,33 @@
       }
      ],
      "from_source": "hypnosis-yt-oct15"
+    },
+    {
+     "title": "Indian TV, film and web — YouTube deep sweep",
+     "notes": [],
+     "items": [
+      {
+       "id": 3242,
+       "from_source": "youtube-india-oct15"
+      },
+      {
+       "id": 3247,
+       "from_source": "youtube-india-oct15"
+      },
+      {
+       "id": 3238,
+       "from_source": "youtube-india-oct15"
+      },
+      {
+       "id": 3243,
+       "from_source": "youtube-india-oct15"
+      },
+      {
+       "id": 3240,
+       "from_source": "youtube-india-oct15"
+      }
+     ],
+     "from_source": "youtube-india-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -513438,7 +514711,8 @@
     "streaming-oct15": null,
     "hypnotized-female-oct15": null,
     "indonesia-sinetron-oct15": null,
-    "hypnosis-yt-oct15": null
+    "hypnosis-yt-oct15": null,
+    "youtube-india-oct15": null
    }
   },
   {
@@ -518795,6 +520069,14 @@
      "title": "Indian TV, film and web — YouTube deep sweep",
      "notes": [],
      "items": [
+      {
+       "id": 3241,
+       "from_source": "youtube-india-oct15"
+      },
+      {
+       "id": 3242,
+       "from_source": "youtube-india-oct15"
+      },
       {
        "id": 155,
        "from_source": "youtube-india-oct15"
