@@ -42882,6 +42882,25 @@
    ]
   },
   {
+   "kept_id": 2589,
+   "kept": "Evil Lurks (2023)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "open-sites-hypnosis:1",
+     "title": "Evil Lurks",
+     "subtitle": "",
+     "year": "2023"
+    },
+    {
+     "rid": "streaming-oct15:28",
+     "title": "Evil Lurks",
+     "subtitle": "",
+     "year": "2023"
+    }
+   ]
+  },
+  {
    "kept_id": 2625,
    "kept": "The Search for Bridey Murphy (1956)",
    "scope": "cross-source",
@@ -42916,6 +42935,25 @@
      "title": "Upstream Color",
      "subtitle": "",
      "year": "2013"
+    }
+   ]
+  },
+  {
+   "kept_id": 2872,
+   "kept": "That Girl (1966–1971)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "fanwiki-screen-oct14:196",
+     "title": "That Girl",
+     "subtitle": "At the Drop of a Budget (Season 4, Episode 5)",
+     "year": "1966–1971"
+    },
+    {
+     "rid": "streaming-oct15:27",
+     "title": "That Girl",
+     "subtitle": "At the Drop of a Budget (Season 4, Episode 5)",
+     "year": "1966–1971"
     }
    ]
   }
@@ -43757,11 +43795,11 @@
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
   "official-yt-oct15": 45,
-  "streaming-oct15": 26
+  "streaming-oct15": 29
  },
- "entry_count_after_dedupe": 2826,
+ "entry_count_after_dedupe": 2827,
  "within_source_groups": 3,
- "cross_source_groups": 1812,
+ "cross_source_groups": 1814,
  "index_only_records": 65,
- "local_only_records": 605
+ "local_only_records": 606
 }

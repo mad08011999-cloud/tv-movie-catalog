@@ -3915,7 +3915,7 @@
    "description": "Titles and episodes found on streaming-service title pages (Netflix, Prime Video, Disney+, etc.)",
    "dropped": [],
    "check": {
-    "raw_count": 26,
+    "raw_count": 29,
     "ok": true
    },
    "status": "local"
@@ -3963,10 +3963,10 @@
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
   "official-yt-oct15": 45,
-  "streaming-oct15": 26
+  "streaming-oct15": 29
  },
- "raw_total": 5590,
- "entry_count": 2826,
+ "raw_total": 5593,
+ "entry_count": 2827,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -3984,7 +3984,7 @@
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 256
+   "entry_count": 257
   },
   {
    "key": "walkin",
@@ -4164,7 +4164,7 @@
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 127
+   "entry_count": 128
   },
   {
    "key": "mom-partner-control",
@@ -4410,7 +4410,7 @@
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 145
+   "entry_count": 146
   },
   {
    "key": "stepmom-control",
@@ -399465,7 +399465,8 @@
    "categories": [
     "adult-hypnosis",
     "hypno-intimacy",
-    "occult"
+    "occult",
+    "spirit"
    ],
    "sources": [
     {
@@ -399487,20 +399488,114 @@
     {
      "label": "TMDB keyword page: hypnotist / hypnosis",
      "url": "https://www.themoviedb.org/movie/1011207"
+    },
+    {
+     "label": "Tubi: Evil Lurks",
+     "url": "https://tubitv.com/movies/710290/evil-lurks"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "open-sites-hypnosis"
+    "open-sites-hypnosis",
+    "streaming-oct15"
    ],
    "source_records": [
-    "open-sites-hypnosis:1"
+    "open-sites-hypnosis:1",
+    "streaming-oct15:28"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "open-sites-hypnosis:1",
+    "source": "open-sites-hypnosis",
+    "label": "Evil Lurks (2023)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Evil Lurks",
+    "subtitle": "",
+    "year": "2023",
+    "meta": "Feature film · United States · English",
+    "summary": "Grieving Kimberly joins a hypnotherapy group and is singled out by the hypnotist Harold, who is possessed by the \"Shh Man\". He puts her under hypnosis in a private session and assaults her; she is committed to a psychiatric hospital and gives birth to a daughter, Erica. Fifteen years later, at the next blood moon, the entity returns for its offspring. Non-graphic note: the assault is implied and the film's focus is Kimberly's trauma and protecting Erica.",
+    "character": "Kimberly (Amanda Winston), a grieving adult woman, and the hypnotist Harold (Chris Shern); daughter Erica (Savannah Mae) is a child of the assault and is not hypnotized or shown in any sexual context",
+    "note": "Possession-framed hypnosis (the hypnotist is possessed), so tagged occult as well; indie horror.",
+    "mechanism": "Hypnotherapy (a hypnotherapist possessed by an entity, the \"Shh Man\", hypnotizes a grieving woman in a private session)",
+    "confidence_flag": "Corroborated · 4 independent reviews/synopses",
+    "categories": [
+     "adult-hypnosis",
+     "hypno-intimacy",
+     "occult"
+    ],
+    "sources": [
+     {
+      "label": "Rotten Tomatoes (synopsis)",
+      "url": "https://www.rottentomatoes.com/m/evil_lurks"
+     },
+     {
+      "label": "Special Mark Productions review",
+      "url": "https://www.specialmarkproductions.com/reviews/review-evil-lurks-2023"
+     },
+     {
+      "label": "Horror Nation review",
+      "url": "https://horror-nation.com/evil-lurks-review/"
+     },
+     {
+      "label": "Severed Cinema review",
+      "url": "https://severed-cinema.com/exploring-the-depths-of-mind-bending-horror-a-review-of-evil-lurks/"
+     },
+     {
+      "label": "TMDB keyword page: hypnotist / hypnosis",
+      "url": "https://www.themoviedb.org/movie/1011207"
+     }
+    ],
+    "pregnancy_outcome": "birth",
+    "pregnancy_note": "daughter Erica is born while Kimberly is hospitalised; Erica is 15 at the later blood moon",
+    "kids_status": "yes",
+    "kids_note": "one daughter, Erica (born after the assault)",
+    "kids_together": "no",
+    "married": "unknown",
+    "married_note": "her grief follows a loss; marital status not stated in the synopses",
+    "pregnant_end": "yes",
+    "pregnant_end_note": "Kimberly gives birth to Erica in the psychiatric hospital after the assault (birth)",
+    "evidence": "2+ independent sources (Rotten Tomatoes, Special Mark Productions, Horror Nation, Severed Cinema)",
+    "rating": "NR",
+    "adult": "yes",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "streaming-oct15:28",
+     "source": "streaming-oct15",
+     "label": "Evil Lurks (2023)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Evil Lurks",
+     "subtitle": "",
+     "year": "2023",
+     "meta": "",
+     "summary": "Tubi synopsis (Tubi lists it as 2022): grieving Kimberly joins a hypnotherapy group and is singled out by a hypnotist possessed by an evil known as the Shh Man.",
+     "character": "Kimberly",
+     "note": "",
+     "mechanism": "Hypnotherapy by a possessed hypnotist",
+     "confidence_flag": "",
+     "categories": [
+      "spirit"
+     ],
+     "sources": [
+      {
+       "label": "Tubi: Evil Lurks",
+       "url": "https://tubitv.com/movies/710290/evil-lurks"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true
+    }
+   ],
    "raw": {
     "open-sites-hypnosis:1": {
      "title": "Evil Lurks",
@@ -399555,6 +399650,32 @@
      "rating": "NR",
      "adult": "yes",
      "group": "Hypnotized woman sexually assaulted under hypnosis (Oct 2026)"
+    },
+    "streaming-oct15:28": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnotherapy by a possessed hypnotist",
+     "confidence_flag": "",
+     "summary": "Tubi synopsis (Tubi lists it as 2022): grieving Kimberly joins a hypnotherapy group and is singled out by a hypnotist possessed by an evil known as the Shh Man.",
+     "character": "Kimberly",
+     "categories": [
+      "spirit"
+     ],
+     "title": "Evil Lurks",
+     "year": "2023",
+     "sources": [
+      {
+       "label": "Tubi: Evil Lurks",
+       "url": "https://tubitv.com/movies/710290/evil-lurks"
+      }
+     ]
     }
    },
    "watch_links": [
@@ -423501,7 +423622,8 @@
    "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
    "format": "tv",
    "categories": [
-    "index-62"
+    "index-62",
+    "adult-hypnosis"
    ],
    "sources": [
     {
@@ -423511,20 +423633,98 @@
     {
      "label": "IMDb: That Girl (1966, TV series)",
      "url": "https://www.imdb.com/title/tt0060034/"
+    },
+    {
+     "label": "Peacock: That Girl S4E5 'At the Drop of a Budget'",
+     "url": "https://www.peacocktv.com/watch-online/tv/that-girl/8350703238512400112/seasons/4/episodes/at-the-drop-of-a-budget-episode-5/81f1c971-bf36-3bcb-9880-cdb13bcb55be"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "fanwiki-screen-oct14"
+    "fanwiki-screen-oct14",
+    "streaming-oct15"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:196"
+    "fanwiki-screen-oct14:196",
+    "streaming-oct15:27"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "fanwiki-screen-oct14:196",
+    "source": "fanwiki-screen-oct14",
+    "label": "That Girl · At the Drop of a Budget (Season 4, Episode 5) (1966–1971)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "That Girl",
+    "subtitle": "At the Drop of a Budget (Season 4, Episode 5)",
+    "year": "1966–1971",
+    "meta": "TV · English",
+    "summary": "At the Drop of a Budget (Season 4, Episode 5): When Donald is helping Ann start a budget, Ann is suffering from a misunderstood post-hypnotic suggestion to buy anything \"at the drop of a hat.\"",
+    "character": "",
+    "note": "",
+    "mechanism": "Comedic Hypnosis",
+    "confidence_flag": "Medium · scene from fan wiki; title/year confirmed on IMDb",
+    "categories": [
+     "index-62"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki: That Girl (1966)",
+      "url": "https://mentalblock.miraheze.org/wiki/That_Girl_(1966)"
+     },
+     {
+      "label": "IMDb: That Girl (1966, TV series)",
+      "url": "https://www.imdb.com/title/tt0060034/"
+     }
+    ],
+    "tags": [
+     "Western Live Action"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "streaming-oct15:27",
+     "source": "streaming-oct15",
+     "label": "That Girl · At the Drop of a Budget (Season 4, Episode 5) (1966–1971)",
+     "identifiers": [
+      "subtitle",
+      "year/date"
+     ],
+     "title": "That Girl",
+     "subtitle": "At the Drop of a Budget (Season 4, Episode 5)",
+     "year": "1966–1971",
+     "meta": "",
+     "summary": "Peacock synopsis: a hypnotic suggestion sends Ann on a buying spree.",
+     "character": "Ann Marie",
+     "note": "",
+     "mechanism": "Hypnotic suggestion",
+     "confidence_flag": "",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Peacock: That Girl S4E5 'At the Drop of a Budget'",
+       "url": "https://www.peacocktv.com/watch-online/tv/that-girl/8350703238512400112/seasons/4/episodes/at-the-drop-of-a-budget-episode-5/81f1c971-bf36-3bcb-9880-cdb13bcb55be"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true
+    }
+   ],
    "raw": {
     "fanwiki-screen-oct14:196": {
      "title": "That Girl",
@@ -423559,6 +423759,32 @@
      "group": "Fan-wiki screen additions (Oct 2026)",
      "tags": [
       "Western Live Action"
+     ]
+    },
+    "streaming-oct15:27": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "At the Drop of a Budget (Season 4, Episode 5)",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnotic suggestion",
+     "confidence_flag": "",
+     "summary": "Peacock synopsis: a hypnotic suggestion sends Ann on a buying spree.",
+     "character": "Ann Marie",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "title": "That Girl",
+     "year": "1966–1971",
+     "sources": [
+      {
+       "label": "Peacock: That Girl S4E5 'At the Drop of a Budget'",
+       "url": "https://www.peacocktv.com/watch-online/tv/that-girl/8350703238512400112/seasons/4/episodes/at-the-drop-of-a-budget-episode-5/81f1c971-bf36-3bcb-9880-cdb13bcb55be"
+      }
      ]
     }
    }
@@ -428350,6 +428576,82 @@
      ]
     }
    }
+  },
+  {
+   "id": 2951,
+   "title": "Days of Our Lives — Cat's hypnosis session (7 Jul 2026)",
+   "subtitle": "Season 61, Episode 227",
+   "year": "2026",
+   "meta": "Daytime soap · NBC/Peacock · USA · English",
+   "mechanism": "Therapeutic hypnosis (Marlena)",
+   "confidence_flag": "",
+   "summary": "Peacock synopsis: Cat undergoes hypnosis with Marlena. In the session (Soap Central recap), Cat recalls reading to an unconscious EJ in Italy and kissing him, then asks to book another session.",
+   "character": "Cat",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Peacock: Days of our Lives S61E227 (7 Jul 2026)",
+     "url": "https://www.peacocktv.com/watch-online/tv/days-of-our-lives/6652017821458389112/seasons/61/episodes/tuesday-july-7-2026-episode-227/e9bca31a-da10-3351-b158-6933c7cb3260"
+    },
+    {
+     "label": "Soap Central recap, 7 Jul",
+     "url": "https://www.soapcentral.com/days-of-our-lives/days-lives-recap-july-7-lexie-tears-ej-apart-gambling-with-her-life"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:29"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:29": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "Season 61, Episode 227",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Therapeutic hypnosis (Marlena)",
+     "confidence_flag": "",
+     "summary": "Peacock synopsis: Cat undergoes hypnosis with Marlena. In the session (Soap Central recap), Cat recalls reading to an unconscious EJ in Italy and kissing him, then asks to book another session.",
+     "character": "Cat",
+     "categories": [
+      "medical"
+     ],
+     "title": "Days of Our Lives — Cat's hypnosis session (7 Jul 2026)",
+     "year": "2026",
+     "meta": "Daytime soap · NBC/Peacock · USA · English",
+     "sources": [
+      {
+       "label": "Peacock: Days of our Lives S61E227 (7 Jul 2026)",
+       "url": "https://www.peacocktv.com/watch-online/tv/days-of-our-lives/6652017821458389112/seasons/61/episodes/tuesday-july-7-2026-episode-227/e9bca31a-da10-3351-b158-6933c7cb3260"
+      },
+      {
+       "label": "Soap Central recap, 7 Jul",
+       "url": "https://www.soapcentral.com/days-of-our-lives/days-lives-recap-july-7-lexie-tears-ej-apart-gambling-with-her-life"
+      }
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -431968,6 +432270,10 @@
       },
       {
        "id": 2935,
+       "from_source": "streaming-oct15"
+      },
+      {
+       "id": 2872,
        "from_source": "streaming-oct15"
       },
       {
@@ -450733,6 +451039,10 @@
        "from_source": "streaming-oct15"
       },
       {
+       "id": 2951,
+       "from_source": "streaming-oct15"
+      },
+      {
        "id": 704,
        "from_source": "streaming-oct15"
       },
@@ -467547,6 +467857,10 @@
      "title": "Streaming-service additions (Oct 2026)",
      "notes": [],
      "items": [
+      {
+       "id": 2589,
+       "from_source": "streaming-oct15"
+      },
       {
        "id": 2934,
        "from_source": "streaming-oct15"

@@ -713,6 +713,89 @@
      "url": "https://www.justwatch.com/us/movie/girl-next"
     }
    ]
+  },
+  {
+   "standalone": true,
+   "group": "Streaming-service additions (Oct 2026)",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "format": "tv",
+   "subtitle": "At the Drop of a Budget (Season 4, Episode 5)",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "mechanism": "Hypnotic suggestion",
+   "confidence_flag": "",
+   "summary": "Peacock synopsis: a hypnotic suggestion sends Ann on a buying spree.",
+   "character": "Ann Marie",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "title": "That Girl",
+   "year": "1966–1971",
+   "sources": [
+    {
+     "label": "Peacock: That Girl S4E5 'At the Drop of a Budget'",
+     "url": "https://www.peacocktv.com/watch-online/tv/that-girl/8350703238512400112/seasons/4/episodes/at-the-drop-of-a-budget-episode-5/81f1c971-bf36-3bcb-9880-cdb13bcb55be"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "group": "Streaming-service additions (Oct 2026)",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "format": "movie",
+   "subtitle": "",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "mechanism": "Hypnotherapy by a possessed hypnotist",
+   "confidence_flag": "",
+   "summary": "Tubi synopsis (Tubi lists it as 2022): grieving Kimberly joins a hypnotherapy group and is singled out by a hypnotist possessed by an evil known as the Shh Man.",
+   "character": "Kimberly",
+   "categories": [
+    "spirit"
+   ],
+   "title": "Evil Lurks",
+   "year": "2023",
+   "sources": [
+    {
+     "label": "Tubi: Evil Lurks",
+     "url": "https://tubitv.com/movies/710290/evil-lurks"
+    }
+   ]
+  },
+  {
+   "standalone": true,
+   "group": "Streaming-service additions (Oct 2026)",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "format": "tv",
+   "subtitle": "Season 61, Episode 227",
+   "pregnant_end": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "mechanism": "Therapeutic hypnosis (Marlena)",
+   "confidence_flag": "",
+   "summary": "Peacock synopsis: Cat undergoes hypnosis with Marlena. In the session (Soap Central recap), Cat recalls reading to an unconscious EJ in Italy and kissing him, then asks to book another session.",
+   "character": "Cat",
+   "categories": [
+    "medical"
+   ],
+   "title": "Days of Our Lives — Cat's hypnosis session (7 Jul 2026)",
+   "year": "2026",
+   "meta": "Daytime soap · NBC/Peacock · USA · English",
+   "sources": [
+    {
+     "label": "Peacock: Days of our Lives S61E227 (7 Jul 2026)",
+     "url": "https://www.peacocktv.com/watch-online/tv/days-of-our-lives/6652017821458389112/seasons/61/episodes/tuesday-july-7-2026-episode-227/e9bca31a-da10-3351-b158-6933c7cb3260"
+    },
+    {
+     "label": "Soap Central recap, 7 Jul",
+     "url": "https://www.soapcentral.com/days-of-our-lives/days-lives-recap-july-7-lexie-tears-ej-apart-gambling-with-her-life"
+    }
+   ]
   }
  ]
 }
