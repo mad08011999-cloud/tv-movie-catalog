@@ -128,6 +128,8 @@ SOURCES = [
      "local": "sources/streaming-oct15.json", "required": False},
     {"id": "indian-parallel-oct15", "label": "Indian web-sources parallel sweep (15 Oct 2026)",
      "local": "sources/indian-parallel-oct15.json", "required": False},
+    {"id": "hypnotized-female-oct15", "label": "Female hypnotized sweep — Indonesia first, then worldwide (15 Oct 2026)",
+     "local": "sources/hypnotized-female-oct15.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
