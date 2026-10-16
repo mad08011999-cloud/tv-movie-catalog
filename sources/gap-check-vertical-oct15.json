@@ -1,0 +1,188 @@
+{
+  "id": "gap-check-vertical-oct15",
+  "label": "Gap-check: vertical series / microdramas across catalog topics (15 Oct 2026)",
+  "group_title": "Gap-check (vertical & missed titles)",
+  "description": "Gap-check across catalog topics, vertical/microdrama focus, 15 Oct 2026 PT (adults only; non-explicit notes)",
+  "category_labels": {},
+  "records": [
+    {
+      "title": "产后惊魂：双面月子中心 / 金笼 (Postpartum Terror: The Two-Faced Confinement Center)",
+      "year": "2025",
+      "format": "vertical series",
+      "meta": "Chinese vertical short drama (duanju) · Mandarin · 58 episodes listed (one mirror lists 31) · aka 宝妈噩梦：致命的月子 / 豪门月子里的阴谋",
+      "character": "The young wife (娇妻) who checks into the family's luxury postpartum centre",
+      "summary": "A new mother checks into a top-end postpartum confinement centre run by her wealthy in-laws (the Zhou family) and finds it is really a 'hypnosis therapy' operation the family uses to control people. She works to expose the family secret and rescue a controlled relative.",
+      "hypnotist": "The Zhou family / centre staff (not named in listings)",
+      "method": "Hypnosis presented as therapy",
+      "categories": [
+        "wife-hypnotized",
+        "human"
+      ],
+      "fit": "loose",
+      "tags": [
+        "loose fit"
+      ],
+      "pregnant_end": "no",
+      "pregnancy_outcome": "already given birth at the start (postpartum)",
+      "kids_status": "yes",
+      "kids_note": "Newborn (she has just given birth)",
+      "kids_together": "yes",
+      "kids_together_note": "Newborn with her husband",
+      "sources": [
+        {
+          "label": "Lejidj listing (58 eps, synopsis)",
+          "url": "https://lejidj.cc/show/mEdX.html"
+        },
+        {
+          "label": "Duhedj listing as 金笼 (cast 周慕白/方媛)",
+          "url": "https://duhedj.cc/detail/mJuAJr.html"
+        },
+        {
+          "label": "Yugudj listing (created 2025-05-03)",
+          "url": "https://yugudj.cc/cn/ehtml/oRB3.html"
+        }
+      ],
+      "evidence": "Three duanju mirror listings with the same synopsis",
+      "confidence_flag": "Medium · mirror sites only (no official platform page found); episode count conflicts (58 vs 31)",
+      "note": "Loose fit: listings say the centre is a hypnosis-therapy front, but don't confirm on-screen that the wife herself is hypnotized.",
+      "provenance": "Gap-check across catalog topics, vertical/microdrama focus, 15 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no"
+    },
+    {
+      "title": "Head Witch in Charge",
+      "year": "2026",
+      "format": "vertical series",
+      "meta": "ReelShort vertical drama · USA · English · 61 episodes · Jenna Gilmer, Jackson Tiller",
+      "character": "Leona Sherwood, heiress of the Light-witch family",
+      "summary": "Witch heiress Leona must marry to strengthen her family wand. Rival wizard Erik, pushed by his father, approaches her under a false name; he can hypnotize people and casts dream spells on her before they end up in an arranged marriage.",
+      "hypnotist": "Erik Svensen (wizard)",
+      "method": "Magic spells / hypnosis",
+      "categories": [
+        "fantasy",
+        "hypnotized-marriage"
+      ],
+      "fit": "loose",
+      "tags": [
+        "loose fit"
+      ],
+      "pregnant_end": "unknown",
+      "kids_status": "no",
+      "kids_together": "unknown",
+      "sources": [
+        {
+          "label": "ReelShort Fandom cast article",
+          "url": "https://www.reelshort.com/fandom/head-witch-in-charge-cast-01-2-6d20641c0a9a/"
+        },
+        {
+          "label": "ReelShort series page",
+          "url": "https://www.reelshort.com/movie/head-witch-in-charge-69d91af7ff2f5a4b160bb1e3"
+        }
+      ],
+      "evidence": "Official ReelShort pages",
+      "confidence_flag": "Medium · official platform; spell-on-heiress detail from one fandom article",
+      "note": "Loose fit: the control is fantasy spell-casting, and the marriage is arranged rather than caused by the spell.",
+      "provenance": "Gap-check across catalog topics, vertical/microdrama focus, 15 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no"
+    },
+    {
+      "title": "Dr. Obsessive: Fall for Him or Lose Your Mind",
+      "year": "2026",
+      "format": "vertical series",
+      "meta": "Kuku TV vertical drama · English · 45 × ~2 min · rated A",
+      "character": "Maya",
+      "summary": "Maya wakes in a high-tech clinic where Silas uses a neural chip, scans and biofeedback to control her memory and choices. She is publicly bound to him in a 'neural wedding' and pushed toward compliance, while secretly hacking the system with her ally Leo until she seizes control.",
+      "hypnotist": "Silas and the clinic staff",
+      "method": "Neural chip / biofeedback (technological mind control)",
+      "categories": [
+        "tech",
+        "hypnotized-marriage"
+      ],
+      "pregnant_end": "unknown",
+      "kids_status": "unknown",
+      "kids_together": "unknown",
+      "adult": "yes",
+      "sources": [
+        {
+          "label": "Kuku TV show page",
+          "url": "https://kukutv.app/show/drobsessive-fall-for-him-or-lose-your-mind"
+        }
+      ],
+      "evidence": "Official app listing synopsis",
+      "confidence_flag": "Single source · official Kuku TV listing",
+      "provenance": "Gap-check across catalog topics, vertical/microdrama focus, 15 Oct 2026 PT (adults only; non-explicit notes)",
+      "note": ""
+    },
+    {
+      "title": "Patience mon amour",
+      "year": "2021",
+      "format": "vertical series",
+      "meta": "France · French · 31 vertical episodes of 2–6 min, released daily as Instagram stories on @arte_asuivre · created by Camille Duvelleroy (ARTE / Bachibouzouk)",
+      "character": "Alice (Isabelle Joly) and Gabrielle (Sophie de Fürst)",
+      "summary": "After seven years together, Alice and Gabrielle want a child and go through assisted reproduction in Barcelona. When Gabrielle is diagnosed with endometriosis, Alice becomes the one to carry, facing repeated inseminations and negative tests.",
+      "categories": [
+        "lesbian-couple-pregnancy"
+      ],
+      "pregnant_end": "not stated in sources",
+      "kids_status": "no",
+      "kids_note": "No children before the series",
+      "kids_together": "not stated in sources",
+      "sources": [
+        {
+          "label": "aufeminin article (13 Jul 2021)",
+          "url": "https://www.aufeminin.com/serie-tv/sur-l-instagram-d-arte-une-fiction-sur-la-pma-d-un-couple-de-lesbiennes-s4026603.html"
+        },
+        {
+          "label": "ARTE Digital Productions",
+          "url": "https://www.arte.tv/digitalproductions/en/patience-mon-amour"
+        },
+        {
+          "label": "IFdigital",
+          "url": "https://ifdigital.institutfrancais.com/en/creation/patience-mon-amour"
+        }
+      ],
+      "evidence": "Press article + ARTE + Institut français",
+      "confidence_flag": "High · multiple sources",
+      "provenance": "Gap-check across catalog topics, vertical/microdrama focus, 15 Oct 2026 PT (adults only; non-explicit notes)",
+      "note": "",
+      "adult": "no"
+    },
+    {
+      "title": "Double Parked",
+      "year": "2024",
+      "format": "tv",
+      "meta": "New Zealand · English · comedy-drama · 8 × 22 min · Warner Bros. Discovery NZ (ThreeNow) · Madeleine Sami, Chris Parker",
+      "character": "Steph and Nat",
+      "summary": "Lesbian couple Steph and Nat give up after a long run of failed IVF and try at home with a donor friend. A clinic mix-up then reveals Steph is pregnant from IVF just as Nat finds out she is pregnant too, so they face two pregnancies at once.",
+      "categories": [
+        "lesbian-couple-pregnancy"
+      ],
+      "pregnant_end": "yes (both pregnant during the series; birth outcome not verified)",
+      "kids_status": "no",
+      "kids_note": "No children before the series",
+      "kids_together": "not stated in sources",
+      "sources": [
+        {
+          "label": "Bomanbridge distributor page",
+          "url": "https://www.bomanbridge.tv/programme/1279/double-parked"
+        },
+        {
+          "label": "ABC News review (22 Feb 2024)",
+          "url": "https://www.abc.net.au/news/2024-02-22/double-parked-review-madeleine-sami-chris-parker-kiwi-comedy/103484020"
+        }
+      ],
+      "evidence": "Distributor synopsis + ABC review",
+      "confidence_flag": "High · two sources",
+      "provenance": "Gap-check across catalog topics, vertical/microdrama focus, 15 Oct 2026 PT (adults only; non-explicit notes)",
+      "note": "",
+      "adult": "no"
+    }
+  ],
+  "dropped": [
+    "神瞳觉醒 / 催眠神瞳 (AI short): explicit incest content on piracy sites; excluded",
+    "Class in Hypnosis / 최면교실 (Vigloo 2024): school-bullying setting, and the heroine is the hypnotist; minors likely",
+    "The Love of Hypnosis (2026 CN short): synopsis has no mind control",
+    "Pelet – Terpaksa Menikahi Pembantu (NovelToon): web novel, not screen media",
+    "Vashikaran (WOOW 2023): stepmother uses black magic on her stepsons; no female target",
+    "Beneath the Hypnosis, Listen To Your Husband / 听老公的话, Got Pregnant by Billionaire Brothers, 被催眠的她: already in the catalog"
+  ]
+}

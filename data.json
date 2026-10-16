@@ -4386,6 +4386,26 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "gap-check-vertical-oct15",
+   "label": "Gap-check: vertical series / microdramas (15 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/gap-check-vertical-oct15.json",
+   "description": "Gap-check across catalog topics, vertical/microdrama focus, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "dropped": [
+    "神瞳觉醒 / 催眠神瞳 (AI short): explicit incest content on piracy sites; excluded",
+    "Class in Hypnosis / 최면교실 (Vigloo 2024): school-bullying setting, and the heroine is the hypnotist; minors likely",
+    "The Love of Hypnosis (2026 CN short): synopsis has no mind control",
+    "Pelet – Terpaksa Menikahi Pembantu (NovelToon): web novel, not screen media",
+    "Vashikaran (WOOW 2023): stepmother uses black magic on her stepsons; no female target",
+    "Beneath the Hypnosis, Listen To Your Husband / 听老公的话, Got Pregnant by Billionaire Brothers, 被催眠的她: already in the catalog"
+   ],
+   "check": {
+    "raw_count": 5,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -4439,10 +4459,11 @@
   "kr-cn-hypnosis-r2": 5,
   "belly-kissed-kids": 2,
   "female-wife-scenes-oct15": 4,
-  "youtube-sweep-oct15": 5
+  "youtube-sweep-oct15": 5,
+  "gap-check-vertical-oct15": 5
  },
- "raw_total": 5849,
- "entry_count": 2889,
+ "raw_total": 5854,
+ "entry_count": 2894,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4508,13 +4529,13 @@
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 39
+   "entry_count": 40
   },
   {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 262
+   "entry_count": 263
   },
   {
    "key": "child-controller",
@@ -4562,7 +4583,7 @@
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 625
+   "entry_count": 626
   },
   {
    "key": "wife",
@@ -4586,7 +4607,7 @@
    "key": "hypnotized-marriage",
    "label": "Hypnotised / spell-bound into marriage (or married while under control)",
    "legend_label": "Hypnotised / spell-bound into marriage (or married while under control)",
-   "entry_count": 45
+   "entry_count": 47
   },
   {
    "key": "cheat-control",
@@ -4628,7 +4649,7 @@
    "key": "lesbian-couple-pregnancy",
    "label": "Lesbian couple pregnancy (female same-sex couple)",
    "legend_label": "Lesbian couple pregnancy",
-   "entry_count": 49
+   "entry_count": 51
   },
   {
    "key": "erotic-mainstream",
@@ -4958,7 +4979,7 @@
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 111
+   "entry_count": 112
   },
   {
    "key": "therapist-wife",
@@ -446732,6 +446753,431 @@
      "adult": "yes"
     }
    }
+  },
+  {
+   "id": 3024,
+   "title": "产后惊魂：双面月子中心 / 金笼 (Postpartum Terror: The Two-Faced Confinement Center)",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Chinese vertical short drama (duanju) · Mandarin · 58 episodes listed (one mirror lists 31) · aka 宝妈噩梦：致命的月子 / 豪门月子里的阴谋",
+   "mechanism": "",
+   "confidence_flag": "Medium · mirror sites only (no official platform page found); episode count conflicts (58 vs 31)",
+   "summary": "A new mother checks into a top-end postpartum confinement centre run by her wealthy in-laws (the Zhou family) and finds it is really a 'hypnosis therapy' operation the family uses to control people. She works to expose the family secret and rescue a controlled relative.",
+   "character": "The young wife (娇妻) who checks into the family's luxury postpartum centre",
+   "provenance": "Gap-check across catalog topics, vertical/microdrama focus, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: listings say the centre is a hypnosis-therapy front, but don't confirm on-screen that the wife herself is hypnotized.",
+   "pregnancy_outcome": "already given birth at the start (postpartum)",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "The Zhou family / centre staff (not named in listings)",
+   "method": "Hypnosis presented as therapy",
+   "kids_status": "yes",
+   "kids_note": "Newborn (she has just given birth)",
+   "kids_together": "yes",
+   "kids_together_note": "Newborn with her husband",
+   "pregnant_end": "no",
+   "evidence": "Three duanju mirror listings with the same synopsis",
+   "adult": "no",
+   "format": "vertical series",
+   "categories": [
+    "wife-hypnotized",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Lejidj listing (58 eps, synopsis)",
+     "url": "https://lejidj.cc/show/mEdX.html"
+    },
+    {
+     "label": "Duhedj listing as 金笼 (cast 周慕白/方媛)",
+     "url": "https://duhedj.cc/detail/mJuAJr.html"
+    },
+    {
+     "label": "Yugudj listing (created 2025-05-03)",
+     "url": "https://yugudj.cc/cn/ehtml/oRB3.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "gap-check-vertical-oct15"
+   ],
+   "source_records": [
+    "gap-check-vertical-oct15:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "gap-check-vertical-oct15:1": {
+     "title": "产后惊魂：双面月子中心 / 金笼 (Postpartum Terror: The Two-Faced Confinement Center)",
+     "year": "2025",
+     "format": "vertical series",
+     "meta": "Chinese vertical short drama (duanju) · Mandarin · 58 episodes listed (one mirror lists 31) · aka 宝妈噩梦：致命的月子 / 豪门月子里的阴谋",
+     "character": "The young wife (娇妻) who checks into the family's luxury postpartum centre",
+     "summary": "A new mother checks into a top-end postpartum confinement centre run by her wealthy in-laws (the Zhou family) and finds it is really a 'hypnosis therapy' operation the family uses to control people. She works to expose the family secret and rescue a controlled relative.",
+     "hypnotist": "The Zhou family / centre staff (not named in listings)",
+     "method": "Hypnosis presented as therapy",
+     "categories": [
+      "wife-hypnotized",
+      "human"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "pregnant_end": "no",
+     "pregnancy_outcome": "already given birth at the start (postpartum)",
+     "kids_status": "yes",
+     "kids_note": "Newborn (she has just given birth)",
+     "kids_together": "yes",
+     "kids_together_note": "Newborn with her husband",
+     "sources": [
+      {
+       "label": "Lejidj listing (58 eps, synopsis)",
+       "url": "https://lejidj.cc/show/mEdX.html"
+      },
+      {
+       "label": "Duhedj listing as 金笼 (cast 周慕白/方媛)",
+       "url": "https://duhedj.cc/detail/mJuAJr.html"
+      },
+      {
+       "label": "Yugudj listing (created 2025-05-03)",
+       "url": "https://yugudj.cc/cn/ehtml/oRB3.html"
+      }
+     ],
+     "evidence": "Three duanju mirror listings with the same synopsis",
+     "confidence_flag": "Medium · mirror sites only (no official platform page found); episode count conflicts (58 vs 31)",
+     "note": "Loose fit: listings say the centre is a hypnosis-therapy front, but don't confirm on-screen that the wife herself is hypnotized.",
+     "provenance": "Gap-check across catalog topics, vertical/microdrama focus, 15 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no"
+    }
+   }
+  },
+  {
+   "id": 3025,
+   "title": "Head Witch in Charge",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "ReelShort vertical drama · USA · English · 61 episodes · Jenna Gilmer, Jackson Tiller",
+   "mechanism": "",
+   "confidence_flag": "Medium · official platform; spell-on-heiress detail from one fandom article",
+   "summary": "Witch heiress Leona must marry to strengthen her family wand. Rival wizard Erik, pushed by his father, approaches her under a false name; he can hypnotize people and casts dream spells on her before they end up in an arranged marriage.",
+   "character": "Leona Sherwood, heiress of the Light-witch family",
+   "provenance": "Gap-check across catalog topics, vertical/microdrama focus, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: the control is fantasy spell-casting, and the marriage is arranged rather than caused by the spell.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Erik Svensen (wizard)",
+   "method": "Magic spells / hypnosis",
+   "kids_status": "no",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "Official ReelShort pages",
+   "adult": "no",
+   "format": "vertical series",
+   "categories": [
+    "fantasy",
+    "hypnotized-marriage"
+   ],
+   "sources": [
+    {
+     "label": "ReelShort Fandom cast article",
+     "url": "https://www.reelshort.com/fandom/head-witch-in-charge-cast-01-2-6d20641c0a9a/"
+    },
+    {
+     "label": "ReelShort series page",
+     "url": "https://www.reelshort.com/movie/head-witch-in-charge-69d91af7ff2f5a4b160bb1e3"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "gap-check-vertical-oct15"
+   ],
+   "source_records": [
+    "gap-check-vertical-oct15:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "gap-check-vertical-oct15:2": {
+     "title": "Head Witch in Charge",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "ReelShort vertical drama · USA · English · 61 episodes · Jenna Gilmer, Jackson Tiller",
+     "character": "Leona Sherwood, heiress of the Light-witch family",
+     "summary": "Witch heiress Leona must marry to strengthen her family wand. Rival wizard Erik, pushed by his father, approaches her under a false name; he can hypnotize people and casts dream spells on her before they end up in an arranged marriage.",
+     "hypnotist": "Erik Svensen (wizard)",
+     "method": "Magic spells / hypnosis",
+     "categories": [
+      "fantasy",
+      "hypnotized-marriage"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "pregnant_end": "unknown",
+     "kids_status": "no",
+     "kids_together": "unknown",
+     "sources": [
+      {
+       "label": "ReelShort Fandom cast article",
+       "url": "https://www.reelshort.com/fandom/head-witch-in-charge-cast-01-2-6d20641c0a9a/"
+      },
+      {
+       "label": "ReelShort series page",
+       "url": "https://www.reelshort.com/movie/head-witch-in-charge-69d91af7ff2f5a4b160bb1e3"
+      }
+     ],
+     "evidence": "Official ReelShort pages",
+     "confidence_flag": "Medium · official platform; spell-on-heiress detail from one fandom article",
+     "note": "Loose fit: the control is fantasy spell-casting, and the marriage is arranged rather than caused by the spell.",
+     "provenance": "Gap-check across catalog topics, vertical/microdrama focus, 15 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no"
+    }
+   }
+  },
+  {
+   "id": 3026,
+   "title": "Dr. Obsessive: Fall for Him or Lose Your Mind",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Kuku TV vertical drama · English · 45 × ~2 min · rated A",
+   "mechanism": "",
+   "confidence_flag": "Single source · official Kuku TV listing",
+   "summary": "Maya wakes in a high-tech clinic where Silas uses a neural chip, scans and biofeedback to control her memory and choices. She is publicly bound to him in a 'neural wedding' and pushed toward compliance, while secretly hacking the system with her ally Leo until she seizes control.",
+   "character": "Maya",
+   "provenance": "Gap-check across catalog topics, vertical/microdrama focus, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Silas and the clinic staff",
+   "method": "Neural chip / biofeedback (technological mind control)",
+   "kids_status": "unknown",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "Official app listing synopsis",
+   "adult": "yes",
+   "format": "vertical series",
+   "categories": [
+    "tech",
+    "hypnotized-marriage"
+   ],
+   "sources": [
+    {
+     "label": "Kuku TV show page",
+     "url": "https://kukutv.app/show/drobsessive-fall-for-him-or-lose-your-mind"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "gap-check-vertical-oct15"
+   ],
+   "source_records": [
+    "gap-check-vertical-oct15:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "gap-check-vertical-oct15:3": {
+     "title": "Dr. Obsessive: Fall for Him or Lose Your Mind",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "Kuku TV vertical drama · English · 45 × ~2 min · rated A",
+     "character": "Maya",
+     "summary": "Maya wakes in a high-tech clinic where Silas uses a neural chip, scans and biofeedback to control her memory and choices. She is publicly bound to him in a 'neural wedding' and pushed toward compliance, while secretly hacking the system with her ally Leo until she seizes control.",
+     "hypnotist": "Silas and the clinic staff",
+     "method": "Neural chip / biofeedback (technological mind control)",
+     "categories": [
+      "tech",
+      "hypnotized-marriage"
+     ],
+     "pregnant_end": "unknown",
+     "kids_status": "unknown",
+     "kids_together": "unknown",
+     "adult": "yes",
+     "sources": [
+      {
+       "label": "Kuku TV show page",
+       "url": "https://kukutv.app/show/drobsessive-fall-for-him-or-lose-your-mind"
+      }
+     ],
+     "evidence": "Official app listing synopsis",
+     "confidence_flag": "Single source · official Kuku TV listing",
+     "provenance": "Gap-check across catalog topics, vertical/microdrama focus, 15 Oct 2026 PT (adults only; non-explicit notes)",
+     "note": ""
+    }
+   }
+  },
+  {
+   "id": 3027,
+   "title": "Patience mon amour",
+   "subtitle": "",
+   "year": "2021",
+   "meta": "France · French · 31 vertical episodes of 2–6 min, released daily as Instagram stories on @arte_asuivre · created by Camille Duvelleroy (ARTE / Bachibouzouk)",
+   "mechanism": "",
+   "confidence_flag": "High · multiple sources",
+   "summary": "After seven years together, Alice and Gabrielle want a child and go through assisted reproduction in Barcelona. When Gabrielle is diagnosed with endometriosis, Alice becomes the one to carry, facing repeated inseminations and negative tests.",
+   "character": "Alice (Isabelle Joly) and Gabrielle (Sophie de Fürst)",
+   "provenance": "Gap-check across catalog topics, vertical/microdrama focus, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "kids_status": "no",
+   "kids_note": "No children before the series",
+   "kids_together": "not stated in sources",
+   "pregnant_end": "not stated in sources",
+   "evidence": "Press article + ARTE + Institut français",
+   "adult": "no",
+   "format": "vertical series",
+   "categories": [
+    "lesbian-couple-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "aufeminin article (13 Jul 2021)",
+     "url": "https://www.aufeminin.com/serie-tv/sur-l-instagram-d-arte-une-fiction-sur-la-pma-d-un-couple-de-lesbiennes-s4026603.html"
+    },
+    {
+     "label": "ARTE Digital Productions",
+     "url": "https://www.arte.tv/digitalproductions/en/patience-mon-amour"
+    },
+    {
+     "label": "IFdigital",
+     "url": "https://ifdigital.institutfrancais.com/en/creation/patience-mon-amour"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "gap-check-vertical-oct15"
+   ],
+   "source_records": [
+    "gap-check-vertical-oct15:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "gap-check-vertical-oct15:4": {
+     "title": "Patience mon amour",
+     "year": "2021",
+     "format": "vertical series",
+     "meta": "France · French · 31 vertical episodes of 2–6 min, released daily as Instagram stories on @arte_asuivre · created by Camille Duvelleroy (ARTE / Bachibouzouk)",
+     "character": "Alice (Isabelle Joly) and Gabrielle (Sophie de Fürst)",
+     "summary": "After seven years together, Alice and Gabrielle want a child and go through assisted reproduction in Barcelona. When Gabrielle is diagnosed with endometriosis, Alice becomes the one to carry, facing repeated inseminations and negative tests.",
+     "categories": [
+      "lesbian-couple-pregnancy"
+     ],
+     "pregnant_end": "not stated in sources",
+     "kids_status": "no",
+     "kids_note": "No children before the series",
+     "kids_together": "not stated in sources",
+     "sources": [
+      {
+       "label": "aufeminin article (13 Jul 2021)",
+       "url": "https://www.aufeminin.com/serie-tv/sur-l-instagram-d-arte-une-fiction-sur-la-pma-d-un-couple-de-lesbiennes-s4026603.html"
+      },
+      {
+       "label": "ARTE Digital Productions",
+       "url": "https://www.arte.tv/digitalproductions/en/patience-mon-amour"
+      },
+      {
+       "label": "IFdigital",
+       "url": "https://ifdigital.institutfrancais.com/en/creation/patience-mon-amour"
+      }
+     ],
+     "evidence": "Press article + ARTE + Institut français",
+     "confidence_flag": "High · multiple sources",
+     "provenance": "Gap-check across catalog topics, vertical/microdrama focus, 15 Oct 2026 PT (adults only; non-explicit notes)",
+     "note": "",
+     "adult": "no"
+    }
+   }
+  },
+  {
+   "id": 3028,
+   "title": "Double Parked",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "New Zealand · English · comedy-drama · 8 × 22 min · Warner Bros. Discovery NZ (ThreeNow) · Madeleine Sami, Chris Parker",
+   "mechanism": "",
+   "confidence_flag": "High · two sources",
+   "summary": "Lesbian couple Steph and Nat give up after a long run of failed IVF and try at home with a donor friend. A clinic mix-up then reveals Steph is pregnant from IVF just as Nat finds out she is pregnant too, so they face two pregnancies at once.",
+   "character": "Steph and Nat",
+   "provenance": "Gap-check across catalog topics, vertical/microdrama focus, 15 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "kids_status": "no",
+   "kids_note": "No children before the series",
+   "kids_together": "not stated in sources",
+   "pregnant_end": "yes (both pregnant during the series; birth outcome not verified)",
+   "evidence": "Distributor synopsis + ABC review",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "lesbian-couple-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Bomanbridge distributor page",
+     "url": "https://www.bomanbridge.tv/programme/1279/double-parked"
+    },
+    {
+     "label": "ABC News review (22 Feb 2024)",
+     "url": "https://www.abc.net.au/news/2024-02-22/double-parked-review-madeleine-sami-chris-parker-kiwi-comedy/103484020"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "gap-check-vertical-oct15"
+   ],
+   "source_records": [
+    "gap-check-vertical-oct15:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "gap-check-vertical-oct15:5": {
+     "title": "Double Parked",
+     "year": "2024",
+     "format": "tv",
+     "meta": "New Zealand · English · comedy-drama · 8 × 22 min · Warner Bros. Discovery NZ (ThreeNow) · Madeleine Sami, Chris Parker",
+     "character": "Steph and Nat",
+     "summary": "Lesbian couple Steph and Nat give up after a long run of failed IVF and try at home with a donor friend. A clinic mix-up then reveals Steph is pregnant from IVF just as Nat finds out she is pregnant too, so they face two pregnancies at once.",
+     "categories": [
+      "lesbian-couple-pregnancy"
+     ],
+     "pregnant_end": "yes (both pregnant during the series; birth outcome not verified)",
+     "kids_status": "no",
+     "kids_note": "No children before the series",
+     "kids_together": "not stated in sources",
+     "sources": [
+      {
+       "label": "Bomanbridge distributor page",
+       "url": "https://www.bomanbridge.tv/programme/1279/double-parked"
+      },
+      {
+       "label": "ABC News review (22 Feb 2024)",
+       "url": "https://www.abc.net.au/news/2024-02-22/double-parked-review-madeleine-sami-chris-parker-kiwi-comedy/103484020"
+      }
+     ],
+     "evidence": "Distributor synopsis + ABC review",
+     "confidence_flag": "High · two sources",
+     "provenance": "Gap-check across catalog topics, vertical/microdrama focus, 15 Oct 2026 PT (adults only; non-explicit notes)",
+     "note": "",
+     "adult": "no"
+    }
+   }
   }
  ],
  "sections": [
@@ -452574,7 +453020,8 @@
     "hypnosis-assault",
     "hypnosis-assault-loose",
     "royal-hypnosis-loose",
-    "fanwiki-screen-oct14"
+    "fanwiki-screen-oct14",
+    "gap-check-vertical-oct15"
    ],
    "groups": [
     {
@@ -452849,6 +453296,17 @@
       }
      ],
      "from_source": "fanwiki-screen-oct14"
+    },
+    {
+     "title": "Gap-check (vertical & missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3026,
+       "from_source": "gap-check-vertical-oct15"
+      }
+     ],
+     "from_source": "gap-check-vertical-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -452861,7 +453319,8 @@
     "hypnosis-assault": null,
     "hypnosis-assault-loose": null,
     "royal-hypnosis-loose": null,
-    "fanwiki-screen-oct14": null
+    "fanwiki-screen-oct14": null,
+    "gap-check-vertical-oct15": null
    }
   },
   {
@@ -452888,7 +453347,8 @@
     "streaming-oct15",
     "indian-parallel-oct15",
     "hypnotized-female-oct15",
-    "kr-cn-hypnosis"
+    "kr-cn-hypnosis",
+    "gap-check-vertical-oct15"
    ],
    "groups": [
     {
@@ -454911,6 +455371,17 @@
       }
      ],
      "from_source": "kr-cn-hypnosis"
+    },
+    {
+     "title": "Gap-check (vertical & missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3025,
+       "from_source": "gap-check-vertical-oct15"
+      }
+     ],
+     "from_source": "gap-check-vertical-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -454931,7 +455402,8 @@
     "streaming-oct15": null,
     "indian-parallel-oct15": null,
     "hypnotized-female-oct15": null,
-    "kr-cn-hypnosis": null
+    "kr-cn-hypnosis": null,
+    "gap-check-vertical-oct15": null
    }
   },
   {
@@ -458188,7 +458660,8 @@
     "hypno-turkey-oct15",
     "kr-cn-hypnosis",
     "kr-cn-hypnosis-r2",
-    "youtube-sweep-oct15"
+    "youtube-sweep-oct15",
+    "gap-check-vertical-oct15"
    ],
    "groups": [
     {
@@ -462294,6 +462767,17 @@
       }
      ],
      "from_source": "youtube-sweep-oct15"
+    },
+    {
+     "title": "Gap-check (vertical & missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3024,
+       "from_source": "gap-check-vertical-oct15"
+      }
+     ],
+     "from_source": "gap-check-vertical-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -462320,7 +462804,8 @@
     "hypno-turkey-oct15": null,
     "kr-cn-hypnosis": null,
     "kr-cn-hypnosis-r2": null,
-    "youtube-sweep-oct15": null
+    "youtube-sweep-oct15": null,
+    "gap-check-vertical-oct15": null
    }
   },
   {
@@ -463348,12 +463833,14 @@
    "from_sources": [
     "hypnotized-marriage",
     "no-link-additions",
-    "round3"
+    "round3",
+    "gap-check-vertical-oct15"
    ],
    "declared_count_by_source": {
     "hypnotized-marriage": null,
     "no-link-additions": null,
-    "round3": null
+    "round3": null,
+    "gap-check-vertical-oct15": null
    },
    "groups": [
     {
@@ -463563,6 +464050,21 @@
       }
      ],
      "from_source": "round3"
+    },
+    {
+     "title": "Gap-check (vertical & missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3026,
+       "from_source": "gap-check-vertical-oct15"
+      },
+      {
+       "id": 3025,
+       "from_source": "gap-check-vertical-oct15"
+      }
+     ],
+     "from_source": "gap-check-vertical-oct15"
     }
    ]
   },
@@ -467732,7 +468234,8 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "lesbian-pregnancy",
-    "round2"
+    "round2",
+    "gap-check-vertical-oct15"
    ],
    "groups": [
     {
@@ -468207,11 +468710,27 @@
       }
      ],
      "from_source": "round2"
+    },
+    {
+     "title": "Gap-check (vertical & missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3028,
+       "from_source": "gap-check-vertical-oct15"
+      },
+      {
+       "id": 3027,
+       "from_source": "gap-check-vertical-oct15"
+      }
+     ],
+     "from_source": "gap-check-vertical-oct15"
     }
    ],
    "declared_count_by_source": {
     "lesbian-pregnancy": null,
-    "round2": null
+    "round2": null,
+    "gap-check-vertical-oct15": null
    }
   },
   {
@@ -492933,11 +493452,13 @@
    "notes": [],
    "from_sources": [
     "wife-hypnosis-oct15",
-    "female-wife-scenes-oct15"
+    "female-wife-scenes-oct15",
+    "gap-check-vertical-oct15"
    ],
    "declared_count_by_source": {
     "wife-hypnosis-oct15": null,
-    "female-wife-scenes-oct15": null
+    "female-wife-scenes-oct15": null,
+    "gap-check-vertical-oct15": null
    },
    "groups": [
     {
@@ -493397,6 +493918,17 @@
       }
      ],
      "from_source": "female-wife-scenes-oct15"
+    },
+    {
+     "title": "Gap-check (vertical & missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3024,
+       "from_source": "gap-check-vertical-oct15"
+      }
+     ],
+     "from_source": "gap-check-vertical-oct15"
     }
    ]
   },
