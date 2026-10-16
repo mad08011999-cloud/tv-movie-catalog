@@ -1,32 +1,50 @@
 {
  "id": "belly-kissed-kids",
  "label": "Pregnant belly touched / kissed / talked to by kids",
- "group_title": "Pregnant belly touched by kids additions (Oct 2026)",
- "description": "Family-friendly films and TV episodes where a visibly pregnant woman has her belly kissed, touched, listened to or talked to by children (own children, siblings or other kids). Strictly wholesome, non-sexual scenes; every record names the episode (season/episode) where the scene occurs and has a verified free legal watch link.",
- "category_labels": {
-  "belly-kissed": "Pregnant belly kissed / touched by kids"
- },
- "records": [],
- "dropped": [
+ "group_title": "Kids and the pregnant belly (family moment)",
+ "description": "Innocent, non-sexual family scenes where children touch, kiss, listen to or talk to a visibly pregnant woman's belly. Human characters only (Peppa Pig removed in 8ddbbc2).",
+ "category_labels": {},
+ "records": [
   {
-   "title": "Sesame Street (Maria's pregnancy, Eps. 2568–2574 and 3583)",
-   "year": "1988/2000s",
-   "reason": "scenes found on Muppet Wiki (Big Bird tells a story to the baby in Maria's tummy; Zoe feels the baby kick) but no free legal full-episode link verified"
+   "title": "The Fresh Prince of Bel-Air — \"Hilary Gets a Job\"",
+   "year": "1992",
+   "format": "tv",
+   "categories": [
+    "belly-kissed"
+   ],
+   "meta": "US · English · sitcom, S3E4 (NBC, aired 5 Oct 1992)",
+   "character": "Vivian Banks",
+   "summary": "Will plays music to his pregnant Aunt Viv's belly because he heard babies respond to music, and she feels the baby kick; it's a light family moment.",
+   "kids_status": "yes",
+   "kids_note": "Nephew Will Smith (teen, lives with the family) does the belly scene; Viv's children Hilary, Carlton and Ashley",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "Son Nicky born later in season 3",
+   "evidence": "single source for the belly scene (episode transcript); episode details from Wikipedia, Rotten Tomatoes and Clip.Cafe"
   },
   {
-   "title": "The Rugrats Movie",
-   "year": "1998",
-   "reason": "rejected: transcript shows no child touching or talking to Didi's belly"
-  },
-  {
-   "title": "Mirai",
-   "year": "2018",
-   "reason": "rejected: no pregnancy scene (baby is born before the film starts)"
-  },
-  {
-   "title": "Peppa Pig — Mummy Rabbit's Bump",
-   "year": "2011",
-   "reason": "Removed at user request: animal (anthropomorphic) characters; catalog keeps human-character titles only."
+   "title": "Bella in the Belly / Bella w brzuszku",
+   "year": "2022",
+   "format": "tv",
+   "categories": [
+    "belly-kissed"
+   ],
+   "meta": "Poland · Polish · 2D animated preschool series, 26 × 6 min (Animoon)",
+   "character": "Benny and Bella's mother",
+   "summary": "Five-year-old Benny puts his ear to and touches his mother's pregnant belly to talk to his unborn sister Bella, explaining the world to her through imagination.",
+   "kids_status": "yes",
+   "kids_note": "Son Benny (5); unborn daughter Bella",
+   "pregnant_end": "yes",
+   "pregnancy_outcome": "not stated (the series premise keeps Bella unborn)",
+   "evidence": "Animoon; CEE Animation; Zlín Film Festival; Ale Kino! festival"
   }
+ ],
+ "dropped": [
+  "Peppa Pig 'Mummy Rabbit's Bump': animal characters (removed in 8ddbbc2; human-only rule kept)",
+  "Max and Ruby, Sesame Street 'Three Bears and a New Baby', Berenstain Bears' Easter Surprise: animal characters",
+  "Baby Blues (Wanda, Darryl and the kids feel the kick): comic strip, not film/TV",
+  "We Were Gonna Have a Baby…: picture book",
+  "The Rugrats Movie (1998): toddlers only bump into Didi's belly; no affectionate touch",
+  "Caillou 'Big Brother Caillou': fandom recap says there's no belly touch (unverified)",
+  "Malcolm in the Middle S4E20, Modern Family S4E7: the baby kicks, but no child touches the belly in the transcript"
  ]
 }

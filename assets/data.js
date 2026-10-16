@@ -2261,40 +2261,6 @@ window.CATALOG = {
    "status": "local"
   },
   {
-   "id": "belly-kissed-kids",
-   "label": "Pregnant belly touched / kissed / talked to by kids",
-   "kind": "local",
-   "share_url": "sources/belly-kissed-kids.json",
-   "description": "Family-friendly films and TV episodes where a visibly pregnant woman has her belly kissed, touched, listened to or talked to by children (own children, siblings or other kids). Strictly wholesome, non-sexual scenes; every record names the episode (season/episode) where the scene occurs and has a verified free legal watch link.",
-   "dropped": [
-    {
-     "title": "Sesame Street (Maria's pregnancy, Eps. 2568–2574 and 3583)",
-     "year": "1988/2000s",
-     "reason": "scenes found on Muppet Wiki (Big Bird tells a story to the baby in Maria's tummy; Zoe feels the baby kick) but no free legal full-episode link verified"
-    },
-    {
-     "title": "The Rugrats Movie",
-     "year": "1998",
-     "reason": "rejected: transcript shows no child touching or talking to Didi's belly"
-    },
-    {
-     "title": "Mirai",
-     "year": "2018",
-     "reason": "rejected: no pregnancy scene (baby is born before the film starts)"
-    },
-    {
-     "title": "Peppa Pig — Mummy Rabbit's Bump",
-     "year": "2011",
-     "reason": "Removed at user request: animal (anthropomorphic) characters; catalog keeps human-character titles only."
-    }
-   ],
-   "check": {
-    "raw_count": 0,
-    "ok": false
-   },
-   "status": "local"
-  },
-  {
    "id": "mainstream-erotic",
    "label": "Mainstream erotic / R-rated research",
    "kind": "local",
@@ -4287,6 +4253,27 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "belly-kissed-kids",
+   "label": "Pregnant belly touched / kissed / talked to by kids",
+   "kind": "local",
+   "share_url": "sources/belly-kissed-kids.json",
+   "description": "Innocent, non-sexual family scenes where children touch, kiss, listen to or talk to a visibly pregnant woman's belly. Human characters only (Peppa Pig removed in 8ddbbc2).",
+   "dropped": [
+    "Peppa Pig 'Mummy Rabbit's Bump': animal characters (removed in 8ddbbc2; human-only rule kept)",
+    "Max and Ruby, Sesame Street 'Three Bears and a New Baby', Berenstain Bears' Easter Surprise: animal characters",
+    "Baby Blues (Wanda, Darryl and the kids feel the kick): comic strip, not film/TV",
+    "We Were Gonna Have a Baby…: picture book",
+    "The Rugrats Movie (1998): toddlers only bump into Didi's belly; no affectionate touch",
+    "Caillou 'Big Brother Caillou': fandom recap says there's no belly touch (unverified)",
+    "Malcolm in the Middle S4E20, Modern Family S4E7: the baby kicks, but no child touches the belly in the transcript"
+   ],
+   "check": {
+    "raw_count": 2,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -4312,7 +4299,6 @@ window.CATALOG = {
   "lesbian-pregnancy": 44,
   "royal-hypnosis": 11,
   "royal-hypnosis-loose": 32,
-  "belly-kissed-kids": 0,
   "mainstream-erotic": 102,
   "open-sites-hypnosis": 1,
   "hypnotized-marriage": 36,
@@ -4338,10 +4324,11 @@ window.CATALOG = {
   "hypno-turkey-oct15": 5,
   "kr-cn-hypnosis": 79,
   "wife-hypnosis-oct15": 109,
-  "kr-cn-hypnosis-r2": 5
+  "kr-cn-hypnosis-r2": 5,
+  "belly-kissed-kids": 2
  },
- "raw_total": 5838,
- "entry_count": 2879,
+ "raw_total": 5840,
+ "entry_count": 2880,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4635,7 +4622,7 @@ window.CATALOG = {
    "key": "belly-kissed",
    "label": "Pregnant belly kissed / touched by kids",
    "legend_label": "Pregnant belly kissed / touched by kids",
-   "entry_count": 7
+   "entry_count": 9
   },
   {
    "key": "pregnant-sex",
@@ -231278,6 +231265,7 @@ window.CATALOG = {
    "character": "Vivian Banks",
    "provenance": "Mother-with-kids pregnancy pass, 30 Sep 2026 PT (adult mother who already has children becomes pregnant in a passionate relationship with husband, new partner or lover; adults only)",
    "note": "Loose fit: a marital sitcom pregnancy with no affair; the couple's romance is played lightly. Outcome facts: married: yes; kids status: yes.",
+   "pregnancy_outcome": "Son Nicky born later in season 3",
    "episodes": [
     {
      "episode": "Season 3 · “The Baby Comes Out”",
@@ -231306,7 +231294,8 @@ window.CATALOG = {
    "pregnancy_again_note": "son Nicholas 'Nicky' Banks born in 1993",
    "format": "tv",
    "categories": [
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "belly-kissed"
    ],
    "sources": [
     {
@@ -231330,12 +231319,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "mom-pregnancy",
-    "kids-pregnant-again"
+    "kids-pregnant-again",
+    "belly-kissed-kids"
    ],
    "source_records": [
     "xla62ucxbx02u5:1251",
     "mom-pregnancy:3",
-    "kids-pregnant-again:4"
+    "kids-pregnant-again:4",
+    "belly-kissed-kids:1"
    ],
    "index_only": false,
    "local_only": false,
@@ -231477,6 +231468,35 @@ window.CATALOG = {
      "pregnancy_again_note": "son Nicholas 'Nicky' Banks born in 1993",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "belly-kissed-kids:1",
+     "source": "belly-kissed-kids",
+     "label": "The Fresh Prince of Bel-Air — \"Hilary Gets a Job\" (1992)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "The Fresh Prince of Bel-Air — \"Hilary Gets a Job\"",
+     "subtitle": "",
+     "year": "1992",
+     "meta": "US · English · sitcom, S3E4 (NBC, aired 5 Oct 1992)",
+     "summary": "Will plays music to his pregnant Aunt Viv's belly because he heard babies respond to music, and she feels the baby kick; it's a light family moment.",
+     "character": "Vivian Banks",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "belly-kissed"
+     ],
+     "sources": [],
+     "pregnancy_outcome": "Son Nicky born later in season 3",
+     "kids_status": "yes",
+     "kids_note": "Nephew Will Smith (teen, lives with the family) does the belly scene; Viv's children Hilary, Carlton and Ashley",
+     "pregnant_end": "yes",
+     "evidence": "single source for the belly scene (episode transcript); episode details from Wikipedia, Rotten Tomatoes and Clip.Cafe",
+     "distinct_story": true,
+     "matched_by": "alias"
     }
    ],
    "raw": {
@@ -231592,6 +231612,22 @@ window.CATALOG = {
      "married": "yes",
      "match_title": "The Fresh Prince of Bel-Air",
      "match_year": "1992–93"
+    },
+    "belly-kissed-kids:1": {
+     "title": "The Fresh Prince of Bel-Air — \"Hilary Gets a Job\"",
+     "year": "1992",
+     "format": "tv",
+     "categories": [
+      "belly-kissed"
+     ],
+     "meta": "US · English · sitcom, S3E4 (NBC, aired 5 Oct 1992)",
+     "character": "Vivian Banks",
+     "summary": "Will plays music to his pregnant Aunt Viv's belly because he heard babies respond to music, and she feels the baby kick; it's a light family moment.",
+     "kids_status": "yes",
+     "kids_note": "Nephew Will Smith (teen, lives with the family) does the belly scene; Viv's children Hilary, Carlton and Ashley",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Son Nicky born later in season 3",
+     "evidence": "single source for the belly scene (episode transcript); episode details from Wikipedia, Rotten Tomatoes and Clip.Cafe"
     }
    }
   },
@@ -445581,6 +445617,59 @@ window.CATALOG = {
      "note": ""
     }
    }
+  },
+  {
+   "id": 3014,
+   "title": "Bella in the Belly / Bella w brzuszku",
+   "subtitle": "",
+   "year": "2022",
+   "meta": "Poland · Polish · 2D animated preschool series, 26 × 6 min (Animoon)",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Five-year-old Benny puts his ear to and touches his mother's pregnant belly to talk to his unborn sister Bella, explaining the world to her through imagination.",
+   "character": "Benny and Bella's mother",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "not stated (the series premise keeps Bella unborn)",
+   "kids_status": "yes",
+   "kids_note": "Son Benny (5); unborn daughter Bella",
+   "pregnant_end": "yes",
+   "evidence": "Animoon; CEE Animation; Zlín Film Festival; Ale Kino! festival",
+   "format": "tv",
+   "categories": [
+    "belly-kissed"
+   ],
+   "sources": [],
+   "youtube_ids": [],
+   "from_sources": [
+    "belly-kissed-kids"
+   ],
+   "source_records": [
+    "belly-kissed-kids:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "belly-kissed-kids:2": {
+     "title": "Bella in the Belly / Bella w brzuszku",
+     "year": "2022",
+     "format": "tv",
+     "categories": [
+      "belly-kissed"
+     ],
+     "meta": "Poland · Polish · 2D animated preschool series, 26 × 6 min (Animoon)",
+     "character": "Benny and Bella's mother",
+     "summary": "Five-year-old Benny puts his ear to and touches his mother's pregnant belly to talk to his unborn sister Bella, explaining the world to her through imagination.",
+     "kids_status": "yes",
+     "kids_note": "Son Benny (5); unborn daughter Bella",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "not stated (the series premise keeps Bella unborn)",
+     "evidence": "Animoon; CEE Animation; Zlín Film Festival; Ale Kino! festival"
+    }
+   }
   }
  ],
  "sections": [
@@ -475607,7 +475696,8 @@ window.CATALOG = {
     }
    ],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "belly-kissed-kids"
    ],
    "groups": [
     {
@@ -475753,8 +475843,26 @@ window.CATALOG = {
        "from_source": "xla62ucxbx02u5"
       }
      ]
+    },
+    {
+     "title": "Kids and the pregnant belly (family moment)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3014,
+       "from_source": "belly-kissed-kids"
+      },
+      {
+       "id": 1240,
+       "from_source": "belly-kissed-kids"
+      }
+     ],
+     "from_source": "belly-kissed-kids"
     }
-   ]
+   ],
+   "declared_count_by_source": {
+    "belly-kissed-kids": null
+   }
   },
   {
    "title": "Pregnant characters having sex",

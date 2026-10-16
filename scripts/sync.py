@@ -86,8 +86,6 @@ SOURCES = [
      "local": "sources/royal-hypnosis.json", "required": False},
     {"id": "royal-hypnosis-loose", "label": "Queen/princess hypnotized — loose-fit and leftover leads",
      "local": "sources/royal-hypnosis-loose.json", "required": False},
-    {"id": "belly-kissed-kids", "label": "Pregnant belly touched / kissed / talked to by kids",
-     "local": "sources/belly-kissed-kids.json", "required": False},
     {"id": "mainstream-erotic", "label": "Mainstream erotic / R-rated research",
      "local": "sources/mainstream-erotic.json", "required": False},
     {"id": "open-sites-hypnosis", "label": "Open-site hypnosis / mind-control sweep",
@@ -140,6 +138,8 @@ SOURCES = [
      "local": "sources/wife-hypnosis-oct15.json", "required": False},
     {"id": "kr-cn-hypnosis-r2", "label": "KR/CN/TW/HK female-hypnosis research, round 2",
      "local": "sources/kr-cn-hypnosis-r2.json", "required": False},
+    {"id": "belly-kissed-kids", "label": "Pregnant belly touched / kissed / talked to by kids",
+     "local": "sources/belly-kissed-kids.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
