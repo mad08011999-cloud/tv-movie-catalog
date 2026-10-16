@@ -36,7 +36,7 @@
     <label class="search">
       <span style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)">Search titles or plot details</span>
       <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="m16.2 16.2 4.2 4.2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="2"/></svg>
-      <input id="search" type="search" placeholder="Search titles, characters, countries…" autocomplete="off">
+      <input id="search" type="search" placeholder="Search titles… or describe: korean, pregnant at end, has kids, 2010-2024" autocomplete="off">
     </label>
     <select id="category" aria-label="Category"><option value="all">All categories</option></select>
     <select id="format" aria-label="Format"><option value="all">All formats</option></select>
@@ -51,9 +51,13 @@
       </div>
       <div class="yearbar" role="group" aria-label="Release year">
         <select id="period" aria-label="Release period"><option value="all">All years</option></select>
-        <span class="yr-range"><input id="ymin" type="number" inputmode="numeric" min="1800" max="2100" placeholder="From year" aria-label="From year (optional)">
-        <span aria-hidden="true">–</span>
-        <input id="ymax" type="number" inputmode="numeric" min="1800" max="2100" placeholder="To year" aria-label="To year (optional)"></span>
+        <div class="yr-slider" id="yrSlider">
+          <output id="yrOut" for="ymin ymax" aria-live="polite"></output>
+          <div class="yr-track"><div class="yr-fill" id="yrFill"></div>
+            <input id="ymin" type="range" step="1" aria-label="From year">
+            <input id="ymax" type="range" step="1" aria-label="To year">
+          </div>
+        </div>
         <button type="button" id="yclear">Reset years</button>
         <button type="button" id="freeToggle" aria-pressed="false" title="Only records with a verified free / legal streaming link">Has free link</button>
         <button type="button" id="labelToggle" aria-pressed="false" title="Hardcore / adult and fan-made / roleplay listings are hidden unless this is on or their category is selected">Show hardcore / fan-made</button>
@@ -64,6 +68,7 @@
 
 <main class="wrap">
   <div class="results-head"><h2>Catalog</h2><p id="count" aria-live="polite"></p></div>
+  <div id="chips" class="chips" role="group" aria-label="Search understood as" hidden></div>
   <section id="grid" class="grid" aria-label="Catalog entries"></section>
   <section class="research-notes" id="notes"></section>
 </main>
