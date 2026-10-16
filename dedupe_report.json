@@ -493,6 +493,13 @@
      "subtitle": "얼굴없는 미녀",
      "year": "2004",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "streaming-oct15:2",
+     "title": "The Hypnotized / Faceless Beauty",
+     "subtitle": "",
+     "year": "2004",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -785,6 +792,13 @@
      "subtitle": "",
      "year": "1931",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "streaming-oct15:5",
+     "title": "Svengali",
+     "subtitle": "",
+     "year": "1931",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -3905,6 +3919,13 @@
      "subtitle": "",
      "year": "2021",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "streaming-oct15:3",
+     "title": "Hypnotic",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -15236,6 +15257,33 @@
      "subtitle": "",
      "year": "2008",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "streaming-oct15:4",
+     "title": "À l'aventure / Adventure",
+     "subtitle": "",
+     "year": "2008",
+     "matched_by": "same title+year"
+    }
+   ]
+  },
+  {
+   "kept_id": 653,
+   "kept": "The Great Hypnotist (催眠大师) (2014)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:658",
+     "title": "The Great Hypnotist (催眠大师)",
+     "subtitle": "",
+     "year": "2014"
+    },
+    {
+     "rid": "streaming-oct15:12",
+     "title": "The Great Hypnotist (催眠大师)",
+     "subtitle": "",
+     "year": "2014",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -15256,6 +15304,26 @@
      "subtitle": "",
      "year": "2013",
      "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 655,
+   "kept": "The Hypnosis (최면) (2021)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:660",
+     "title": "The Hypnosis (최면)",
+     "subtitle": "",
+     "year": "2021"
+    },
+    {
+     "rid": "streaming-oct15:13",
+     "title": "The Hypnosis (최면)",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -15573,6 +15641,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "alias"
+    },
+    {
+     "rid": "streaming-oct15:11",
+     "title": "O Hipnotizador / El Hipnotizador",
+     "subtitle": "S02E02 · “Teresa and the Moths”",
+     "year": "2015–17",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -15828,6 +15903,13 @@
      "subtitle": "",
      "year": "2023",
      "matched_by": "alias"
+    },
+    {
+     "rid": "streaming-oct15:14",
+     "title": "Desire Catcher (无眠之境)",
+     "subtitle": "",
+     "year": "2023",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -31680,6 +31762,13 @@
      "subtitle": "S18E18 · “Spellbound”",
      "year": "2017",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "streaming-oct15:10",
+     "title": "Law & Order: Special Victims Unit",
+     "subtitle": "S18E18 · “Spellbound”",
+     "year": "2017",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -42703,6 +42792,44 @@
      "matched_by": "match_title"
     }
    ]
+  },
+  {
+   "kept_id": 2625,
+   "kept": "The Search for Bridey Murphy (1956)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "no-link-additions:36",
+     "title": "The Search for Bridey Murphy",
+     "subtitle": "",
+     "year": "1956"
+    },
+    {
+     "rid": "streaming-oct15:1",
+     "title": "The Search for Bridey Murphy",
+     "subtitle": "",
+     "year": "1956"
+    }
+   ]
+  },
+  {
+   "kept_id": 2857,
+   "kept": "Upstream Color (2013)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "fanwiki-screen-oct14:181",
+     "title": "Upstream Color",
+     "subtitle": "",
+     "year": "2013"
+    },
+    {
+     "rid": "streaming-oct15:6",
+     "title": "Upstream Color",
+     "subtitle": "",
+     "year": "2013"
+    }
+   ]
   }
  ],
  "same_title_year_merges": [
@@ -43341,6 +43468,60 @@
    "year": "2008",
    "kept_id": 1770,
    "retired_id": 2674
+  },
+  {
+   "title": "The Hypnotized / Faceless Beauty",
+   "year": "2004",
+   "kept_id": 18,
+   "retired_id": 2930
+  },
+  {
+   "title": "Hypnotic",
+   "year": "2021",
+   "kept_id": 142,
+   "retired_id": 2931
+  },
+  {
+   "title": "À l'aventure / Adventure",
+   "year": "2008",
+   "kept_id": 652,
+   "retired_id": 2932
+  },
+  {
+   "title": "Svengali",
+   "year": "1931",
+   "kept_id": 32,
+   "retired_id": 2933
+  },
+  {
+   "title": "Law & Order: Special Victims Unit",
+   "year": "2017",
+   "kept_id": 1463,
+   "retired_id": 2937
+  },
+  {
+   "title": "O Hipnotizador / El Hipnotizador",
+   "year": "2015–17",
+   "kept_id": 676,
+   "retired_id": 2938
+  },
+  {
+   "title": "The Great Hypnotist (催眠大师)",
+   "year": "2014",
+   "kept_id": 653,
+   "retired_id": 2939
+  },
+  {
+   "title": "The Hypnosis (최면)",
+   "year": "2021",
+   "kept_id": 655,
+   "retired_id": 2940
+  },
+  {
+   "title": "Desire Catcher (无眠之境)",
+   "year": "2023",
+   "kept_id": 704,
+   "retired_id": 2941
   }
  ],
  "merge_rules": [
@@ -43367,8 +43548,8 @@
     "year": "2004"
    },
    "status": "not applied",
-   "keep_matches": 1,
-   "absorb_matches": 0
+   "keep_matches": 2,
+   "absorb_matches": 1
   },
   {
    "keep": {
@@ -43451,11 +43632,12 @@
   "telugu-deep-oct15": 3,
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
-  "official-yt-oct15": 45
+  "official-yt-oct15": 45,
+  "streaming-oct15": 14
  },
- "entry_count_after_dedupe": 2820,
+ "entry_count_after_dedupe": 2823,
  "within_source_groups": 3,
- "cross_source_groups": 1806,
+ "cross_source_groups": 1810,
  "index_only_records": 65,
- "local_only_records": 599
+ "local_only_records": 602
 }

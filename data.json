@@ -3906,6 +3906,19 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "streaming-oct15",
+   "label": "Streaming-service catalog pages (15 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/streaming-oct15.json",
+   "description": "Titles and episodes found on streaming-service title pages (Netflix, Prime Video, Disney+, etc.)",
+   "dropped": [],
+   "check": {
+    "raw_count": 14,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -3949,10 +3962,11 @@
   "telugu-deep-oct15": 3,
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
-  "official-yt-oct15": 45
+  "official-yt-oct15": 45,
+  "streaming-oct15": 14
  },
- "raw_total": 5564,
- "entry_count": 2820,
+ "raw_total": 5578,
+ "entry_count": 2823,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -3970,7 +3984,7 @@
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 252
+   "entry_count": 254
   },
   {
    "key": "walkin",
@@ -4078,7 +4092,7 @@
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 51
+   "entry_count": 52
   },
   {
    "key": "index-54",
@@ -4150,7 +4164,7 @@
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 117
+   "entry_count": 123
   },
   {
    "key": "mom-partner-control",
@@ -4396,7 +4410,7 @@
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 143
+   "entry_count": 144
   },
   {
    "key": "stepmom-control",
@@ -8613,13 +8627,10 @@
     "sex"
    ],
    "method": "hypnotherapy misuse",
-   "kids_status": "unknown",
-   "kids_note": "not mentioned",
-   "kids_together": "no",
-   "married": "no",
-   "married_note": "she is married to another man",
-   "pregnant_end": "unknown",
-   "pregnant_end_note": "no pregnancy in the cited summaries",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "evidence": "2+ sources (IMDb, KOFIC — as cited by the existing catalog record; not re-fetched in this pass)",
    "fit_note": "No age gap — the therapist is not portrayed as an older man",
    "format": "movie",
@@ -8676,6 +8687,10 @@
     {
      "label": "OhmyStar (context)",
      "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0001875783"
+    },
+    {
+     "label": "Netflix: Hypnotized (2004)",
+     "url": "https://www.netflix.com/title/70205164"
     }
    ],
    "youtube_ids": [],
@@ -8685,7 +8700,8 @@
     "rich-wife-hypnosis",
     "older-man-hypnosis",
     "hypno-intimacy",
-    "hypnosis-assault"
+    "hypnosis-assault",
+    "streaming-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:18",
@@ -8696,7 +8712,8 @@
     "rich-wife-hypnosis:26",
     "older-man-hypnosis:22",
     "hypno-intimacy:6",
-    "hypnosis-assault:5"
+    "hypnosis-assault:5",
+    "streaming-oct15:2"
    ],
    "index_only": false,
    "local_only": false,
@@ -9099,6 +9116,38 @@
      "evidence": "2+ independent sources (Variety, TV Tropes, WilfMovies)",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "streaming-oct15:2",
+     "source": "streaming-oct15",
+     "label": "The Hypnotized / Faceless Beauty (2004)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Hypnotized / Faceless Beauty",
+     "subtitle": "",
+     "year": "2004",
+     "meta": "Film · South Korea · Korean",
+     "summary": "Netflix (as 'Hypnotized'): a failed novelist, after learning of her husband's affair, develops an unhealthy relationship with her therapist.",
+     "character": "",
+     "note": "",
+     "mechanism": "Therapist's hypnosis",
+     "confidence_flag": "",
+     "categories": [
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Netflix: Hypnotized (2004)",
+       "url": "https://www.netflix.com/title/70205164"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -9429,8 +9478,38 @@
       18,
       257
      ]
+    },
+    "streaming-oct15:2": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Therapist's hypnosis",
+     "confidence_flag": "",
+     "summary": "Netflix (as 'Hypnotized'): a failed novelist, after learning of her husband's affair, develops an unhealthy relationship with her therapist.",
+     "character": "",
+     "categories": [
+      "medical"
+     ],
+     "title": "The Hypnotized / Faceless Beauty",
+     "year": "2004",
+     "meta": "Film · South Korea · Korean",
+     "sources": [
+      {
+       "label": "Netflix: Hypnotized (2004)",
+       "url": "https://www.netflix.com/title/70205164"
+      }
+     ]
     }
-   }
+   },
+   "retired_ids": [
+    2930
+   ]
   },
   {
    "id": 19,
@@ -11541,12 +11620,10 @@
    "tags": [
     "loose fit"
    ],
-   "kids_status": "no",
-   "kids_note": "none mentioned",
-   "kids_together": "no",
-   "married": "no",
-   "married_note": "he presents her as 'Madame Svengali', a husband-figure rather than her legal husband",
-   "pregnant_end": "no",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "evidence": "2+ independent sources (Wikipedia, Rotten Tomatoes)",
    "fit_note": "Hypnotic control only — no intimate scene between them is documented",
    "format": "movie",
@@ -11578,6 +11655,10 @@
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Svengali_%281931_film%29"
+    },
+    {
+     "label": "Netflix: Svengali (1931)",
+     "url": "https://www.netflix.com/title/60010959"
     }
    ],
    "youtube_ids": [],
@@ -11586,7 +11667,8 @@
     "ig6qlxqxoxvcxla",
     "worldwide-hypnosis",
     "older-man-hypnosis",
-    "hypno-leftovers"
+    "hypno-leftovers",
+    "streaming-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:32",
@@ -11597,7 +11679,8 @@
     "ig6qlxqxoxvcxla:534",
     "worldwide-hypnosis:821",
     "older-man-hypnosis:16",
-    "hypno-leftovers:18"
+    "hypno-leftovers:18",
+    "streaming-oct15:5"
    ],
    "index_only": false,
    "local_only": false,
@@ -11892,6 +11975,38 @@
      "fit_note": "John Barrymore version. Svengali hypnotizes Trilby and controls her by thought; she fakes her suicide and tours as “Madame Svengali” until his power fails. No intimacy is shown",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "streaming-oct15:5",
+     "source": "streaming-oct15",
+     "label": "Svengali (1931)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Svengali",
+     "subtitle": "",
+     "year": "1931",
+     "meta": "Film · USA · English",
+     "summary": "Netflix synopsis: a songstress meets the hypnotist Svengali and leaves everyone behind to pursue a concert career.",
+     "character": "Trilby",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Netflix: Svengali (1931)",
+       "url": "https://www.netflix.com/title/60010959"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -12099,8 +12214,38 @@
      "married_note": "she performs as “Madame Svengali”, but no legal marriage is shown",
      "evidence": "2+ independent sources (Wikipedia, Rotten Tomatoes, Mental Block)",
      "fit_note": "John Barrymore version. Svengali hypnotizes Trilby and controls her by thought; she fakes her suicide and tours as “Madame Svengali” until his power fails. No intimacy is shown"
+    },
+    "streaming-oct15:5": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "",
+     "summary": "Netflix synopsis: a songstress meets the hypnotist Svengali and leaves everyone behind to pursue a concert career.",
+     "character": "Trilby",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "title": "Svengali",
+     "year": "1931",
+     "meta": "Film · USA · English",
+     "sources": [
+      {
+       "label": "Netflix: Svengali (1931)",
+       "url": "https://www.netflix.com/title/60010959"
+      }
+     ]
     }
    },
+   "retired_ids": [
+    2933
+   ],
    "watch_links": [
     {
      "service": "Kanopy",
@@ -36065,12 +36210,10 @@
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "Jenn had a late-term stillbirth before the story begins; Dr. Meade's hypnotherapy exploits that trauma (pregnancy-adjacent).",
-   "kids_status": "no",
-   "kids_note": "she had a stillbirth before the story; no living children",
-   "kids_together": "no",
-   "married": "no",
-   "married_note": "he proposes; she kills him",
-   "pregnant_end": "no",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "evidence": "2+ independent sources (Wikipedia, Screen Rant, Den of Geek)",
    "fit_note": "Loose: only Screen Rant mentions a dream of him lying with her; no consummated scene documented",
    "format": "movie",
@@ -36104,6 +36247,10 @@
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Hypnotic_%282021_film%29"
+    },
+    {
+     "label": "Netflix: Hypnotic",
+     "url": "https://www.netflix.com/title/81225962"
     }
    ],
    "youtube_ids": [],
@@ -36112,7 +36259,8 @@
     "ig6qlxqxoxvcxla",
     "worldwide-hypnosis",
     "hypnotized-love",
-    "older-man-hypnosis"
+    "older-man-hypnosis",
+    "streaming-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:143",
@@ -36124,7 +36272,8 @@
     "ig6qlxqxoxvcxla:950",
     "worldwide-hypnosis:456",
     "hypnotized-love:7",
-    "older-man-hypnosis:13"
+    "older-man-hypnosis:13",
+    "streaming-oct15:3"
    ],
    "index_only": false,
    "local_only": false,
@@ -36451,6 +36600,38 @@
      "fit_note": "Loose: only Screen Rant mentions a dream of him lying with her; no consummated scene documented",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "streaming-oct15:3",
+     "source": "streaming-oct15",
+     "label": "Hypnotic (2021)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Hypnotic",
+     "subtitle": "",
+     "year": "2021",
+     "meta": "Film · USA · English",
+     "summary": "Netflix synopsis: Jenn turns to a mysterious hypnotherapist for help, only to find herself caught in a deadly mind game.",
+     "character": "Jenn",
+     "note": "",
+     "mechanism": "Hypnotherapy",
+     "confidence_flag": "",
+     "categories": [
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Netflix: Hypnotic",
+       "url": "https://www.netflix.com/title/81225962"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -36684,8 +36865,38 @@
      "provenance": "Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
      "note": "",
      "group": "Young woman hypnotized by an older / rich man (Sep 2026)"
+    },
+    "streaming-oct15:3": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnotherapy",
+     "confidence_flag": "",
+     "summary": "Netflix synopsis: Jenn turns to a mysterious hypnotherapist for help, only to find herself caught in a deadly mind game.",
+     "character": "Jenn",
+     "categories": [
+      "medical"
+     ],
+     "title": "Hypnotic",
+     "year": "2021",
+     "meta": "Film · USA · English",
+     "sources": [
+      {
+       "label": "Netflix: Hypnotic",
+       "url": "https://www.netflix.com/title/81225962"
+      }
+     ]
     }
-   }
+   },
+   "retired_ids": [
+    2931
+   ]
   },
   {
    "id": 143,
@@ -120572,8 +120783,8 @@
    "provenance": "Hypnosis / mind-control leftovers pass, 30 Sep 2026 PT (leads left out of hypno-intimacy; adults only)",
    "note": "",
    "kids_status": "not stated",
-   "kids_together": "no",
-   "married": "no",
+   "kids_together": "not stated",
+   "married": "not stated",
    "pregnant_end": "not stated",
    "evidence": "2+ independent sources (Wikipedia, Ciné-club de Caen, Cinenode)",
    "fit_note": "French erotic drama by Jean-Claude Brisseau. Psychiatry student Greg introduces Sandrine to hypnosis, and under hypnosis Mina relives a medieval nun's ecstasy. The hypnosis is regression and exploration, and no intimacy under hypnosis is confirmed, so it is not tagged hypno-intimacy",
@@ -120594,16 +120805,22 @@
     {
      "label": "Cinenode",
      "url": "https://cinenode.com/film/28201/a-laventure"
+    },
+    {
+     "label": "Netflix: À l'aventure",
+     "url": "https://www.netflix.com/title/70127501"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "hypno-leftovers"
+    "hypno-leftovers",
+    "streaming-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:657",
-    "hypno-leftovers:9"
+    "hypno-leftovers:9",
+    "streaming-oct15:4"
    ],
    "index_only": false,
    "local_only": false,
@@ -120682,6 +120899,38 @@
      "fit_note": "French erotic drama by Jean-Claude Brisseau. Psychiatry student Greg introduces Sandrine to hypnosis, and under hypnosis Mina relives a medieval nun's ecstasy. The hypnosis is regression and exploration, and no intimacy under hypnosis is confirmed, so it is not tagged hypno-intimacy",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "streaming-oct15:4",
+     "source": "streaming-oct15",
+     "label": "À l'aventure / Adventure (2008)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "À l'aventure / Adventure",
+     "subtitle": "",
+     "year": "2008",
+     "meta": "Film · France · French",
+     "summary": "Netflix synopsis: Greg, a psychiatry student, uses hypnosis to lead Sandrine into increasingly unconventional, mystical erotic experiences.",
+     "character": "Sandrine",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Netflix: À l'aventure",
+       "url": "https://www.netflix.com/title/70127501"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -120743,8 +120992,38 @@
      "married_note": "",
      "evidence": "2+ independent sources (Wikipedia, Ciné-club de Caen, Cinenode)",
      "fit_note": "French erotic drama by Jean-Claude Brisseau. Psychiatry student Greg introduces Sandrine to hypnosis, and under hypnosis Mina relives a medieval nun's ecstasy. The hypnosis is regression and exploration, and no intimacy under hypnosis is confirmed, so it is not tagged hypno-intimacy"
+    },
+    "streaming-oct15:4": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "",
+     "summary": "Netflix synopsis: Greg, a psychiatry student, uses hypnosis to lead Sandrine into increasingly unconventional, mystical erotic experiences.",
+     "character": "Sandrine",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "title": "À l'aventure / Adventure",
+     "year": "2008",
+     "meta": "Film · France · French",
+     "sources": [
+      {
+       "label": "Netflix: À l'aventure",
+       "url": "https://www.netflix.com/title/70127501"
+      }
+     ]
     }
-   }
+   },
+   "retired_ids": [
+    2932
+   ]
   },
   {
    "id": 653,
@@ -120756,30 +121035,100 @@
    "confidence_flag": "High confidence",
    "summary": "hypnotherapist Xu Ruining uses hypnotherapy on troubled patient Ren Xiaoyan (Karen Mok); sessions become a battle of hypnotic manipulation as buried memories of his late wife surface.",
    "character": "",
-   "provenance": "",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
    "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "format": "movie",
    "categories": [
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "medical"
    ],
    "sources": [
     {
      "label": "Chinese Wikipedia",
      "url": "https://zh.wikipedia.org/wiki/%E5%82%AC%E7%9C%A0%E5%A4%A7%E5%B8%AB"
+    },
+    {
+     "label": "iQIYI (iQ.com): The Great Hypnotist",
+     "url": "https://www.iq.com/album/the-great-hypnotist-2016-1rtw9bizf4w?lang=en_us"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "streaming-oct15"
    ],
    "source_records": [
-    "xla62ucxbx02u5:658"
+    "xla62ucxbx02u5:658",
+    "streaming-oct15:12"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:658",
+    "source": "xla62ucxbx02u5",
+    "label": "The Great Hypnotist (催眠大师) (2014)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Great Hypnotist (催眠大师)",
+    "subtitle": "",
+    "year": "2014",
+    "meta": "film · 2014, China",
+    "summary": "hypnotherapist Xu Ruining uses hypnotherapy on troubled patient Ren Xiaoyan (Karen Mok); sessions become a battle of hypnotic manipulation as buried memories of his late wife surface.",
+    "character": "",
+    "note": "",
+    "mechanism": "Hypnotherapist or doctor manipulates a female patient",
+    "confidence_flag": "High confidence",
+    "categories": [
+     "adult-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "Chinese Wikipedia",
+      "url": "https://zh.wikipedia.org/wiki/%E5%82%AC%E7%9C%A0%E5%A4%A7%E5%B8%AB"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "streaming-oct15:12",
+     "source": "streaming-oct15",
+     "label": "The Great Hypnotist (催眠大师) (2014)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Great Hypnotist (催眠大师)",
+     "subtitle": "",
+     "year": "2014",
+     "meta": "Film · China · Mandarin",
+     "summary": "Streaming listing on iQIYI (iQ.com; listed there as 2016). Hypnotist Xu Ruining treats patient Ren Xiaoyan.",
+     "character": "Ren Xiaoyan",
+     "note": "",
+     "mechanism": "Hypnotherapy",
+     "confidence_flag": "",
+     "categories": [
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "iQIYI (iQ.com): The Great Hypnotist",
+       "url": "https://www.iq.com/album/the-great-hypnotist-2016-1rtw9bizf4w?lang=en_us"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true,
+     "matched_by": "same title+year"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:658": {
      "t": "The Great Hypnotist (催眠大师)",
@@ -120799,8 +121148,38 @@
        "https://zh.wikipedia.org/wiki/%E5%82%AC%E7%9C%A0%E5%A4%A7%E5%B8%AB"
       ]
      ]
+    },
+    "streaming-oct15:12": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnotherapy",
+     "confidence_flag": "",
+     "summary": "Streaming listing on iQIYI (iQ.com; listed there as 2016). Hypnotist Xu Ruining treats patient Ren Xiaoyan.",
+     "character": "Ren Xiaoyan",
+     "categories": [
+      "medical"
+     ],
+     "title": "The Great Hypnotist (催眠大师)",
+     "year": "2014",
+     "meta": "Film · China · Mandarin",
+     "sources": [
+      {
+       "label": "iQIYI (iQ.com): The Great Hypnotist",
+       "url": "https://www.iq.com/album/the-great-hypnotist-2016-1rtw9bizf4w?lang=en_us"
+      }
+     ]
     }
-   }
+   },
+   "retired_ids": [
+    2939
+   ]
   },
   {
    "id": 654,
@@ -121040,30 +121419,100 @@
    "confidence_flag": "Medium-high confidence",
    "summary": "student Hyeon-jeong undergoes hypnosis therapy for depression and is drawn into hallucinations; friends realize someone is controlling them through hypnosis.",
    "character": "",
-   "provenance": "",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
    "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "format": "movie",
    "categories": [
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "medical"
    ],
    "sources": [
     {
      "label": "IMDb",
      "url": "https://www.imdb.com/title/tt14406178"
+    },
+    {
+     "label": "iQIYI (iQ.com): The Hypnosis (2021)",
+     "url": "https://www.iq.com/album/the-hypnosis-2021-vjeqwnghxk?lang=en_us"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "streaming-oct15"
    ],
    "source_records": [
-    "xla62ucxbx02u5:660"
+    "xla62ucxbx02u5:660",
+    "streaming-oct15:13"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:660",
+    "source": "xla62ucxbx02u5",
+    "label": "The Hypnosis (최면) (2021)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Hypnosis (최면)",
+    "subtitle": "",
+    "year": "2021",
+    "meta": "film · 2021, South Korea",
+    "summary": "student Hyeon-jeong undergoes hypnosis therapy for depression and is drawn into hallucinations; friends realize someone is controlling them through hypnosis.",
+    "character": "",
+    "note": "",
+    "mechanism": "Hypnotherapist or doctor manipulates a female patient",
+    "confidence_flag": "Medium-high confidence",
+    "categories": [
+     "adult-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt14406178"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "streaming-oct15:13",
+     "source": "streaming-oct15",
+     "label": "The Hypnosis (최면) (2021)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Hypnosis (최면)",
+     "subtitle": "",
+     "year": "2021",
+     "meta": "Film · South Korea · Korean",
+     "summary": "iQIYI synopsis: after hypnotherapy with Professor Choi, Dohyun and his friends are tormented by memory phantoms.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnotherapy",
+     "confidence_flag": "",
+     "categories": [
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "iQIYI (iQ.com): The Hypnosis (2021)",
+       "url": "https://www.iq.com/album/the-hypnosis-2021-vjeqwnghxk?lang=en_us"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true,
+     "matched_by": "same title+year"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:660": {
      "t": "The Hypnosis (최면)",
@@ -121083,8 +121532,38 @@
        "https://www.imdb.com/title/tt14406178"
       ]
      ]
+    },
+    "streaming-oct15:13": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnotherapy",
+     "confidence_flag": "",
+     "summary": "iQIYI synopsis: after hypnotherapy with Professor Choi, Dohyun and his friends are tormented by memory phantoms.",
+     "character": "",
+     "categories": [
+      "medical"
+     ],
+     "title": "The Hypnosis (최면)",
+     "year": "2021",
+     "meta": "Film · South Korea · Korean",
+     "sources": [
+      {
+       "label": "iQIYI (iQ.com): The Hypnosis (2021)",
+       "url": "https://www.iq.com/album/the-hypnosis-2021-vjeqwnghxk?lang=en_us"
+      }
+     ]
     }
    },
+   "retired_ids": [
+    2940
+   ],
    "watch_links": [
     {
      "service": "Prime Video free with ads (Freevee)",
@@ -124340,6 +124819,10 @@
    "character": "Teresa",
    "provenance": "Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Episode sources: Episodate, TVmaze and WhenHBO.",
    "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "format": "tv",
    "categories": [
     "adult-hypnosis",
@@ -124351,17 +124834,23 @@
     {
      "label": "IMDb",
      "url": "https://www.imdb.com/title/tt4905820/episodes/?year=2017"
+    },
+    {
+     "label": "HBO Max: The Hypnotist S2E2 'Teresa and the Moths'",
+     "url": "https://www.hbomax.com/vc/en/shows/el-hipnotizador/s2/c2882eab-ea86-4b24-a33c-6651b6648b5d/e2-teresa-and-the-moths/5d8da92b-d20b-4c3c-b503-56e048483cd3"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "streaming-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:681",
     "ig6qlxqxoxvcxla:208",
-    "ig6qlxqxoxvcxla:362"
+    "ig6qlxqxoxvcxla:362",
+    "streaming-oct15:11"
    ],
    "index_only": false,
    "local_only": false,
@@ -124443,6 +124932,39 @@
      "distinct_story": false,
      "index_title": "El Hipnotizador",
      "matched_by": "alias"
+    },
+    {
+     "rid": "streaming-oct15:11",
+     "source": "streaming-oct15",
+     "label": "O Hipnotizador / El Hipnotizador · S02E02 · “Teresa and the Moths” (2015–17)",
+     "identifiers": [
+      "subtitle",
+      "year/date"
+     ],
+     "title": "O Hipnotizador / El Hipnotizador",
+     "subtitle": "S02E02 · “Teresa and the Moths”",
+     "year": "2015–17",
+     "meta": "TV series · HBO Latin America · Spanish/Portuguese",
+     "summary": "HBO Max synopsis: Arenas agrees to hypnotize Teresa, until something strange happens.",
+     "character": "Teresa",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "HBO Max: The Hypnotist S2E2 'Teresa and the Moths'",
+       "url": "https://www.hbomax.com/vc/en/shows/el-hipnotizador/s2/c2882eab-ea86-4b24-a33c-6651b6648b5d/e2-teresa-and-the-moths/5d8da92b-d20b-4c3c-b503-56e048483cd3"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -124483,8 +125005,38 @@
      "group": "Near-misses",
      "confidence": "Near-miss",
      "note": ""
+    },
+    "streaming-oct15:11": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "S02E02 · “Teresa and the Moths”",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "",
+     "summary": "HBO Max synopsis: Arenas agrees to hypnotize Teresa, until something strange happens.",
+     "character": "Teresa",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "title": "O Hipnotizador / El Hipnotizador",
+     "year": "2015–17",
+     "meta": "TV series · HBO Latin America · Spanish/Portuguese",
+     "sources": [
+      {
+       "label": "HBO Max: The Hypnotist S2E2 'Teresa and the Moths'",
+       "url": "https://www.hbomax.com/vc/en/shows/el-hipnotizador/s2/c2882eab-ea86-4b24-a33c-6651b6648b5d/e2-teresa-and-the-moths/5d8da92b-d20b-4c3c-b503-56e048483cd3"
+      }
+     ]
     }
-   }
+   },
+   "retired_ids": [
+    2938
+   ]
   },
   {
    "id": 677,
@@ -127491,11 +128043,16 @@
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "format": "tv",
    "categories": [
     "adult-hypnosis",
     "human",
-    "scifi"
+    "scifi",
+    "medical"
    ],
    "sources": [
     {
@@ -127505,6 +128062,10 @@
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/Desire_Catcher"
+    },
+    {
+     "label": "Viki: Desire Catcher",
+     "url": "https://www.viki.com/tv/39798c-desire-catcher"
     }
    ],
    "youtube_ids": [
@@ -127513,12 +128074,14 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "streaming-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:709",
     "ig6qlxqxoxvcxla:705",
-    "worldwide-hypnosis:266"
+    "worldwide-hypnosis:266",
+    "streaming-oct15:14"
    ],
    "index_only": false,
    "local_only": false,
@@ -127611,6 +128174,38 @@
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "alias"
+    },
+    {
+     "rid": "streaming-oct15:14",
+     "source": "streaming-oct15",
+     "label": "Desire Catcher (无眠之境) (2023)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Desire Catcher (无眠之境)",
+     "subtitle": "",
+     "year": "2023",
+     "meta": "TV series · China · Mandarin",
+     "summary": "Viki synopsis: a brilliant hypnotist and a skeptical detective unravel a sinister web of crimes.",
+     "character": "",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "",
+     "categories": [
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Viki: Desire Catcher",
+       "url": "https://www.viki.com/tv/39798c-desire-catcher"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -127665,8 +128260,38 @@
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "streaming-oct15:14": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "",
+     "summary": "Viki synopsis: a brilliant hypnotist and a skeptical detective unravel a sinister web of crimes.",
+     "character": "",
+     "categories": [
+      "medical"
+     ],
+     "title": "Desire Catcher (无眠之境)",
+     "year": "2023",
+     "meta": "TV series · China · Mandarin",
+     "sources": [
+      {
+       "label": "Viki: Desire Catcher",
+       "url": "https://www.viki.com/tv/39798c-desire-catcher"
+      }
+     ]
     }
-   }
+   },
+   "retired_ids": [
+    2941
+   ]
   },
   {
    "id": 705,
@@ -266047,11 +266672,10 @@
      "number_verified": true
     }
    ],
-   "kids_status": "unknown",
-   "kids_together": "no",
-   "married": "no",
-   "pregnant_end": "no",
-   "pregnant_end_note": "no pregnancy in any recap",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "evidence": "2+ independent sources (Wikipedia, TVmaze, TV Fanatic, CarterMatt)",
    "fit_note": "Age gap not stated (Townsend about 44, Hager about 32); loose older-man fit",
    "format": "tv",
@@ -266089,6 +266713,10 @@
     {
      "label": "CarterMatt",
      "url": "https://cartermatt.com/253621/"
+    },
+    {
+     "label": "Apple TV: Law & Order: SVU S18E18 'Spellbound'",
+     "url": "https://tv.apple.com/us/episode/spellbound/umc.cmc.3n2f3cqvd661b87dzh921wqlf?showId=umc.cmc.172avp74w4r2h59qogn39svn1"
     }
    ],
    "youtube_ids": [],
@@ -266096,13 +266724,15 @@
     "xla62ucxbx02u5",
     "older-man-hypnosis",
     "hypno-intimacy",
-    "hypnosis-assault"
+    "hypnosis-assault",
+    "streaming-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:1476",
     "older-man-hypnosis:11",
     "hypno-intimacy:5",
-    "hypnosis-assault:11"
+    "hypnosis-assault:11",
+    "streaming-oct15:10"
    ],
    "index_only": false,
    "local_only": false,
@@ -266320,6 +266950,39 @@
      "evidence": "2+ independent sources (IMDb, Wikipedia, TVmaze, TV Fanatic)",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "streaming-oct15:10",
+     "source": "streaming-oct15",
+     "label": "Law & Order: Special Victims Unit · S18E18 · “Spellbound” (2017)",
+     "identifiers": [
+      "subtitle",
+      "year/date"
+     ],
+     "title": "Law & Order: Special Victims Unit",
+     "subtitle": "S18E18 · “Spellbound”",
+     "year": "2017",
+     "meta": "TV series · NBC · USA · English",
+     "summary": "Apple TV synopsis: the SVU investigates a charismatic spiritual healer after a client claims he incapacitated and assaulted her using hypnosis.",
+     "character": "Abby Clarke",
+     "note": "",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Apple TV: Law & Order: SVU S18E18 'Spellbound'",
+       "url": "https://tv.apple.com/us/episode/spellbound/umc.cmc.3n2f3cqvd661b87dzh921wqlf?showId=umc.cmc.172avp74w4r2h59qogn39svn1"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -266513,8 +267176,38 @@
      "catalog_ids": [
       1951
      ]
+    },
+    "streaming-oct15:10": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "S18E18 · “Spellbound”",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnosis",
+     "confidence_flag": "",
+     "summary": "Apple TV synopsis: the SVU investigates a charismatic spiritual healer after a client claims he incapacitated and assaulted her using hypnosis.",
+     "character": "Abby Clarke",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "title": "Law & Order: Special Victims Unit",
+     "year": "2017",
+     "meta": "TV series · NBC · USA · English",
+     "sources": [
+      {
+       "label": "Apple TV: Law & Order: SVU S18E18 'Spellbound'",
+       "url": "https://tv.apple.com/us/episode/spellbound/umc.cmc.3n2f3cqvd661b87dzh921wqlf?showId=umc.cmc.172avp74w4r2h59qogn39svn1"
+      }
+     ]
     }
-   }
+   },
+   "retired_ids": [
+    2937
+   ]
   },
   {
    "id": 1464,
@@ -400755,11 +401448,16 @@
    "character": "",
    "provenance": "No-link additions + adult/erotic pass, 3 Oct 2026 PT (user lifted the free-link requirement; adults only; no pornography)",
    "note": "No free link found (checked JustWatch US on 3 Oct 2026). Where to watch: Prime Video (included with Prime).",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "already_married": "yes",
    "already_married_note": "she is a friend's wife (a married woman)",
    "format": "movie",
    "categories": [
-    "adult-hypnosis"
+    "adult-hypnosis",
+    "medical"
    ],
    "sources": [
     {
@@ -400769,20 +401467,90 @@
     {
      "label": "TMDB",
      "url": "https://www.themoviedb.org/movie/144191"
+    },
+    {
+     "label": "Netflix: The Search for Bridey Murphy",
+     "url": "https://www.netflix.com/title/70153726"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "no-link-additions"
+    "no-link-additions",
+    "streaming-oct15"
    ],
    "source_records": [
-    "no-link-additions:36"
+    "no-link-additions:36",
+    "streaming-oct15:1"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "no-link-additions:36",
+    "source": "no-link-additions",
+    "label": "The Search for Bridey Murphy (1956)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Search for Bridey Murphy",
+    "subtitle": "",
+    "year": "1956",
+    "meta": "Film",
+    "summary": "After seeing what hypnotism can do, a doctor studies it in depth; experimenting on a friend's wife, he regresses her to an apparent earlier life as Bridey Murphy.",
+    "character": "",
+    "note": "No free link found (checked JustWatch US on 3 Oct 2026). Where to watch: Prime Video (included with Prime).",
+    "mechanism": "Hypnotic age regression",
+    "confidence_flag": "Medium · plot summary",
+    "categories": [
+     "adult-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "JustWatch (where to watch)",
+      "url": "https://www.justwatch.com/us/movie/the-search-for-bridey-murphy"
+     },
+     {
+      "label": "TMDB",
+      "url": "https://www.themoviedb.org/movie/144191"
+     }
+    ],
+    "already_married": "yes",
+    "already_married_note": "she is a friend's wife (a married woman)",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "streaming-oct15:1",
+     "source": "streaming-oct15",
+     "label": "The Search for Bridey Murphy (1956)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Search for Bridey Murphy",
+     "subtitle": "",
+     "year": "1956",
+     "meta": "Film · USA · English",
+     "summary": "Netflix synopsis: researchers attempt to solve the mystery of a woman put into hypnotic regression, who vividly relates a past life.",
+     "character": "Ruth Simmons",
+     "note": "",
+     "mechanism": "Hypnotic regression",
+     "confidence_flag": "",
+     "categories": [
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Netflix: The Search for Bridey Murphy",
+       "url": "https://www.netflix.com/title/70153726"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true
+    }
+   ],
    "raw": {
     "no-link-additions:36": {
      "title": "The Search for Bridey Murphy",
@@ -400811,6 +401579,33 @@
      "note": "No free link found (checked JustWatch US on 3 Oct 2026). Where to watch: Prime Video (included with Prime).",
      "already_married": "yes",
      "already_married_note": "she is a friend's wife (a married woman)"
+    },
+    "streaming-oct15:1": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnotic regression",
+     "confidence_flag": "",
+     "summary": "Netflix synopsis: researchers attempt to solve the mystery of a woman put into hypnotic regression, who vividly relates a past life.",
+     "character": "Ruth Simmons",
+     "categories": [
+      "medical"
+     ],
+     "title": "The Search for Bridey Murphy",
+     "year": "1956",
+     "meta": "Film · USA · English",
+     "sources": [
+      {
+       "label": "Netflix: The Search for Bridey Murphy",
+       "url": "https://www.netflix.com/title/70153726"
+      }
+     ]
     }
    }
   },
@@ -420621,7 +421416,8 @@
    "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
    "format": "movie",
    "categories": [
-    "scifi"
+    "scifi",
+    "adult-hypnosis"
    ],
    "sources": [
     {
@@ -420631,20 +421427,98 @@
     {
      "label": "Wikipedia: Upstream Color",
      "url": "https://en.wikipedia.org/wiki/Upstream_Color"
+    },
+    {
+     "label": "Prime Video: Upstream Color",
+     "url": "https://www.primevideo.com/detail/Upstream-Color/0QOHSJH2MT8TBD1TMHQQK20JYY"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "fanwiki-screen-oct14"
+    "fanwiki-screen-oct14",
+    "streaming-oct15"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:181"
+    "fanwiki-screen-oct14:181",
+    "streaming-oct15:6"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "fanwiki-screen-oct14:181",
+    "source": "fanwiki-screen-oct14",
+    "label": "Upstream Color (2013)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Upstream Color",
+    "subtitle": "",
+    "year": "2013",
+    "meta": "Film · English",
+    "summary": "Kris (Seimetz), a young professional, is tasered by The Thief (Martins) as she leaves a club. The Thief forces her to ingest a strange grub that places her into a hypnotic state and very open to suggestion. For the next few days, The Thief uses his hold on Kris to have her sign away all of her assets, collect all of her cash and valuable belongings from local banks, and take out large personal loans (giving him the money). Knowing that the grub's influence will expire soon, The Thief leaves. Kri",
+    "character": "",
+    "note": "",
+    "mechanism": "Chemical Hypnosis",
+    "confidence_flag": "Medium-high · Wikipedia plot confirms drugged hypnotic state",
+    "categories": [
+     "scifi"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki: Upstream Color",
+      "url": "https://mentalblock.miraheze.org/wiki/Upstream_Color"
+     },
+     {
+      "label": "Wikipedia: Upstream Color",
+      "url": "https://en.wikipedia.org/wiki/Upstream_Color"
+     }
+    ],
+    "tags": [
+     "Films Live-Action",
+     "Western Live Action"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "no (Kris mistakenly believes she is pregnant)",
+    "pregnant_end_note": "Wikipedia plot: Kris mistakenly believes herself to be pregnant.",
+    "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "streaming-oct15:6",
+     "source": "streaming-oct15",
+     "label": "Upstream Color (2013)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Upstream Color",
+     "subtitle": "",
+     "year": "2013",
+     "meta": "Film · USA · English",
+     "summary": "Prime Video synopsis: a woman is abducted and hypnotized with an organic material harvested from a flower.",
+     "character": "Kris",
+     "note": "",
+     "mechanism": "Organic hypnotic agent",
+     "confidence_flag": "",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Prime Video: Upstream Color",
+       "url": "https://www.primevideo.com/detail/Upstream-Color/0QOHSJH2MT8TBD1TMHQQK20JYY"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true
+    }
+   ],
    "raw": {
     "fanwiki-screen-oct14:181": {
      "title": "Upstream Color",
@@ -420682,6 +421556,33 @@
       "Western Live Action"
      ],
      "pregnant_end_note": "Wikipedia plot: Kris mistakenly believes herself to be pregnant."
+    },
+    "streaming-oct15:6": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Organic hypnotic agent",
+     "confidence_flag": "",
+     "summary": "Prime Video synopsis: a woman is abducted and hypnotized with an organic material harvested from a flower.",
+     "character": "Kris",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "title": "Upstream Color",
+     "year": "2013",
+     "meta": "Film · USA · English",
+     "sources": [
+      {
+       "label": "Prime Video: Upstream Color",
+       "url": "https://www.primevideo.com/detail/Upstream-Color/0QOHSJH2MT8TBD1TMHQQK20JYY"
+      }
+     ]
     }
    }
   },
@@ -426322,6 +427223,214 @@
      ]
     }
    }
+  },
+  {
+   "id": 2934,
+   "title": "Intrusive",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Film · USA · English",
+   "mechanism": "Hypnotherapy",
+   "confidence_flag": "Low-Medium · platform synopsis",
+   "summary": "Prime Video synopsis: a woman undergoes hypnotherapy to rid her of demonic possession.",
+   "character": "",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "movie",
+   "categories": [
+    "medical",
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "Prime Video: Intrusive",
+     "url": "https://www.primevideo.com/detail/0GFBCL723UXO7P8GL9B7QL7P27"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:7": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnotherapy",
+     "confidence_flag": "Low-Medium · platform synopsis",
+     "summary": "Prime Video synopsis: a woman undergoes hypnotherapy to rid her of demonic possession.",
+     "character": "",
+     "categories": [
+      "medical",
+      "spirit"
+     ],
+     "title": "Intrusive",
+     "year": "2025",
+     "meta": "Film · USA · English",
+     "sources": [
+      {
+       "label": "Prime Video: Intrusive",
+       "url": "https://www.primevideo.com/detail/0GFBCL723UXO7P8GL9B7QL7P27"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2935,
+   "title": "Love in The Cards",
+   "subtitle": "",
+   "year": "2012",
+   "meta": "Film · USA · English · TV-MA (Full Moon Features)",
+   "mechanism": "Magical amulet (control of women)",
+   "confidence_flag": "Medium · platform synopsis",
+   "summary": "Prime Video synopsis: a hypnotist who lost his powers gains the ability to control women with an inherited magical amulet, and gains 'popularity' with the attractive housewives of his business partners, friends and neighbours.",
+   "character": "Housewives",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "Prime Video: Love in The Cards",
+     "url": "https://www.primevideo.com/detail/0LUMUK9MXT6IHGHW3TDO8KXSEZ"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:8": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Magical amulet (control of women)",
+     "confidence_flag": "Medium · platform synopsis",
+     "summary": "Prime Video synopsis: a hypnotist who lost his powers gains the ability to control women with an inherited magical amulet, and gains 'popularity' with the attractive housewives of his business partners, friends and neighbours.",
+     "character": "Housewives",
+     "categories": [
+      "adult-hypnosis",
+      "wife"
+     ],
+     "title": "Love in The Cards",
+     "year": "2012",
+     "meta": "Film · USA · English · TV-MA (Full Moon Features)",
+     "sources": [
+      {
+       "label": "Prime Video: Love in The Cards",
+       "url": "https://www.primevideo.com/detail/0LUMUK9MXT6IHGHW3TDO8KXSEZ"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2936,
+   "title": "Carlawood",
+   "subtitle": "Episode: Carla consults a hypnotist",
+   "year": "",
+   "meta": "TV series · Prime Video · English",
+   "mechanism": "Hypnotherapy",
+   "confidence_flag": "Low · platform synopsis; on-screen hypnosis not confirmed",
+   "summary": "Prime Video episode synopsis: Carla embarks on self-improvement by consulting a hypnotist to help with her performance anxiety.",
+   "character": "Carla Collins",
+   "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "yes (married to Tyrone Power Jr., per synopsis)",
+   "pregnant_end": "not stated",
+   "format": "tv",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Prime Video: Carlawood",
+     "url": "https://www.primevideo.com/detail/Carlawood/0L3I5IHE1E6ZCJOIYQFNB6P9GX"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:9"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:9": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Streaming-service catalog sweep, 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "Episode: Carla consults a hypnotist",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "yes (married to Tyrone Power Jr., per synopsis)",
+     "mechanism": "Hypnotherapy",
+     "confidence_flag": "Low · platform synopsis; on-screen hypnosis not confirmed",
+     "summary": "Prime Video episode synopsis: Carla embarks on self-improvement by consulting a hypnotist to help with her performance anxiety.",
+     "character": "Carla Collins",
+     "categories": [
+      "medical"
+     ],
+     "title": "Carlawood",
+     "year": "",
+     "meta": "TV series · Prime Video · English",
+     "sources": [
+      {
+       "label": "Prime Video: Carlawood",
+       "url": "https://www.primevideo.com/detail/Carlawood/0L3I5IHE1E6ZCJOIYQFNB6P9GX"
+      }
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -426778,7 +427887,8 @@
     "round3",
     "new-angles-oct15",
     "recap-imdb-oct15",
-    "official-yt-oct15"
+    "official-yt-oct15",
+    "streaming-oct15"
    ],
    "groups": [
     {
@@ -426827,6 +427937,28 @@
         "Female hypnotized into marriage",
         "Literal hypnosis",
         "Borderline · not a legal husband"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Svengali_(1931_film)"
+        },
+        {
+         "label": "Rotten Tomatoes",
+         "url": "https://www.rottentomatoes.com/m/1020664-svengali"
+        },
+        {
+         "label": "mentalblock.miraheze.org",
+         "url": "https://mentalblock.miraheze.org/wiki/Svengali_(1931)"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Svengali_%281931%29"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Svengali_%281931_film%29"
+        }
        ],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
@@ -427173,6 +428305,12 @@
         "Hypnotherapist or doctor manipulates a female patient",
         "High confidence"
        ],
+       "sources": [
+        {
+         "label": "Chinese Wikipedia",
+         "url": "https://zh.wikipedia.org/wiki/%E5%82%AC%E7%9C%A0%E5%A4%A7%E5%B8%AB"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -427181,6 +428319,12 @@
         "Adult female hypnosis — R-rated-equivalent worldwide",
         "Hypnotherapist or doctor manipulates a female patient",
         "Medium-high confidence"
+       ],
+       "sources": [
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt14406178"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -427196,6 +428340,28 @@
         "Doctor hypnotizes female characters for personal gain",
         "Post-hypnotic trigger / murderous concealment",
         "High confidence"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Hypnotic_(2021_film)"
+        },
+        {
+         "label": "Den of Geek",
+         "url": "https://www.denofgeek.com/movies/hypnotic-ending-explained/"
+        },
+        {
+         "label": "Screen Rant",
+         "url": "https://screenrant.com/hypnotic-netflix-movie-ending-explained/"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Hypnotic"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Hypnotic_%282021_film%29"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -427225,6 +428391,48 @@
         "Doctor hypnotizes female characters for personal gain",
         "Deep hypnosis / therapist boundary violation",
         "High confidence"
+       ],
+       "sources": [
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0419730"
+        },
+        {
+         "label": "KOFIC",
+         "url": "http://www.kofic.org/eng/films/index/filmsView.jsp?movieCd=20040625"
+        },
+        {
+         "label": "Letterboxd",
+         "url": "https://letterboxd.com/film/hypnotized/"
+        },
+        {
+         "label": "YesAsia",
+         "url": "https://www.yesasia.com/global/the-hypnotized-vcd-korea-version/1003882986-0-0-0-en/info.html"
+        },
+        {
+         "label": "AllMovie",
+         "url": "https://www.allmovie.com/movie/the-hypnotized-am54419"
+        },
+        {
+         "label": "moviefone.com",
+         "url": "https://www.moviefone.com/movie/hypnotized/6xiSsZiEnZgh9dfWFgVMA/main/"
+        },
+        {
+         "label": "Variety review",
+         "url": "https://variety.com/2004/film/reviews/hypnotized-1200529788/"
+        },
+        {
+         "label": "TV Tropes",
+         "url": "https://tvtropes.org/pmwiki/pmwiki.php/Film/TheHypnotized"
+        },
+        {
+         "label": "WilfMovies",
+         "url": "https://wilfmovies.com/movies/the-hypnotized-2004/"
+        },
+        {
+         "label": "OhmyStar (context)",
+         "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0001875783"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -427267,6 +428475,20 @@
         "Medical / therapeutic hypnosis",
         "Hypnotherapist or doctor manipulates a female patient",
         "High confidence"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/%C3%80_l%27aventure"
+        },
+        {
+         "label": "Ciné-club de Caen",
+         "url": "https://www.cineclubdecaen.com/realisateur/brisseau/alaventure.htm"
+        },
+        {
+         "label": "Cinenode",
+         "url": "https://cinenode.com/film/28201/a-laventure"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -427737,6 +428959,12 @@
         "Wife / female character forcibly hypnotized to obey",
         "Hypnosis / false-memory manipulation",
         "Medium confidence · memory-manipulation variant"
+       ],
+       "sources": [
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt4905820/episodes/?year=2017"
+        }
        ],
        "provenance": "Source basis: Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Episode sources: Episodate, TVmaze and WhenHBO.",
        "character": "Character: Teresa",
@@ -428662,6 +429890,16 @@
         "Science-fiction, technology and psychic control framed as hypnosis",
         "Medium confidence"
        ],
+       "sources": [
+        {
+         "label": "YouTube",
+         "url": "https://www.youtube.com/watch?v=Ymkd5Vvxfiw"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Desire_Catcher"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -428887,6 +430125,36 @@
         "Wife / female character forcibly hypnotized to obey",
         "Hypnosis",
         "Corroborated · 4 sources"
+       ],
+       "sources": [
+        {
+         "label": "All Things Law & Order recap",
+         "url": "https://allthingslawandorder.blogspot.com/2017/05/law-order-svu-spellbound-recap-review.html"
+        },
+        {
+         "label": "Distractify",
+         "url": "https://www.distractify.com/p/what-happened-to-declan-trask-svu"
+        },
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt5902036/"
+        },
+        {
+         "label": "Wikipedia (season 18)",
+         "url": "https://en.wikipedia.org/wiki/Law_%26_Order:_Special_Victims_Unit_season_18"
+        },
+        {
+         "label": "TVmaze",
+         "url": "https://www.tvmaze.com/episodes/1071386/law-order-special-victims-unit-18x18-spellbound"
+        },
+        {
+         "label": "TV Fanatic review",
+         "url": "https://www.tvfanatic.com/law-and-order-svu-season-18-episode-18-review-spellbound/"
+        },
+        {
+         "label": "CarterMatt",
+         "url": "https://cartermatt.com/253621/"
+        }
        ],
        "provenance": "Source basis: Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
        "entry_note": "Note: Age gap not stated (Townsend about 44, Hager about 32); loose older-man fit Outcome facts: married: no; kids status: unknown.",
@@ -429736,6 +431004,21 @@
       }
      ],
      "from_source": "official-yt-oct15"
+    },
+    {
+     "title": "Streaming-service additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2935,
+       "from_source": "streaming-oct15"
+      },
+      {
+       "id": 2857,
+       "from_source": "streaming-oct15"
+      }
+     ],
+     "from_source": "streaming-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -429755,7 +431038,8 @@
     "round3": null,
     "new-angles-oct15": null,
     "recap-imdb-oct15": null,
-    "official-yt-oct15": null
+    "official-yt-oct15": null,
+    "streaming-oct15": null
    }
   },
   {
@@ -431525,6 +432809,28 @@
         "Post-hypnotic trigger / murderous concealment",
         "High confidence"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Hypnotic_(2021_film)"
+        },
+        {
+         "label": "Den of Geek",
+         "url": "https://www.denofgeek.com/movies/hypnotic-ending-explained/"
+        },
+        {
+         "label": "Screen Rant",
+         "url": "https://screenrant.com/hypnotic-netflix-movie-ending-explained/"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Hypnotic"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Hypnotic_%282021_film%29"
+        }
+       ],
        "entry_note": "Note: Existing-record overlap · hypnotherapist uses a patient for possessive replacement",
        "from_source": "xla62ucxbx02u5"
       },
@@ -431555,6 +432861,48 @@
         "Doctor hypnotizes female characters for personal gain",
         "Deep hypnosis / therapist boundary violation",
         "High confidence"
+       ],
+       "sources": [
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0419730"
+        },
+        {
+         "label": "KOFIC",
+         "url": "http://www.kofic.org/eng/films/index/filmsView.jsp?movieCd=20040625"
+        },
+        {
+         "label": "Letterboxd",
+         "url": "https://letterboxd.com/film/hypnotized/"
+        },
+        {
+         "label": "YesAsia",
+         "url": "https://www.yesasia.com/global/the-hypnotized-vcd-korea-version/1003882986-0-0-0-en/info.html"
+        },
+        {
+         "label": "AllMovie",
+         "url": "https://www.allmovie.com/movie/the-hypnotized-am54419"
+        },
+        {
+         "label": "moviefone.com",
+         "url": "https://www.moviefone.com/movie/hypnotized/6xiSsZiEnZgh9dfWFgVMA/main/"
+        },
+        {
+         "label": "Variety review",
+         "url": "https://variety.com/2004/film/reviews/hypnotized-1200529788/"
+        },
+        {
+         "label": "TV Tropes",
+         "url": "https://tvtropes.org/pmwiki/pmwiki.php/Film/TheHypnotized"
+        },
+        {
+         "label": "WilfMovies",
+         "url": "https://wilfmovies.com/movies/the-hypnotized-2004/"
+        },
+        {
+         "label": "OhmyStar (context)",
+         "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0001875783"
+        }
        ],
        "entry_note": "Note: Existing-record overlap",
        "from_source": "xla62ucxbx02u5"
@@ -436959,6 +438307,28 @@
         "Mesmeric / stage hypnosis + telepathic control",
         "HIGH · existing-record membership grant"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Svengali_(1931_film)"
+        },
+        {
+         "label": "Rotten Tomatoes",
+         "url": "https://www.rottentomatoes.com/m/1020664-svengali"
+        },
+        {
+         "label": "mentalblock.miraheze.org",
+         "url": "https://mentalblock.miraheze.org/wiki/Svengali_(1931)"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Svengali_%281931%29"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Svengali_%281931_film%29"
+        }
+       ],
        "provenance": "Source basis: Worldwide eight-vector hypnotized-to-marry sweep, 3 Oct 2026 · sources retained on the existing catalog record",
        "from_source": "xla62ucxbx02u5"
       },
@@ -441398,7 +442768,8 @@
     "round3",
     "indian-langs-oct14",
     "fanwiki-screen-oct14",
-    "official-yt-oct15"
+    "official-yt-oct15",
+    "streaming-oct15"
    ],
    "groups": [
     {
@@ -441583,6 +442954,28 @@
         "Female hypnotized into marriage",
         "Literal hypnosis",
         "Borderline · not a legal husband"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Svengali_(1931_film)"
+        },
+        {
+         "label": "Rotten Tomatoes",
+         "url": "https://www.rottentomatoes.com/m/1020664-svengali"
+        },
+        {
+         "label": "mentalblock.miraheze.org",
+         "url": "https://mentalblock.miraheze.org/wiki/Svengali_(1931)"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Svengali_%281931%29"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Svengali_%281931_film%29"
+        }
        ],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
@@ -441990,6 +443383,17 @@
       }
      ],
      "from_source": "official-yt-oct15"
+    },
+    {
+     "title": "Streaming-service additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2935,
+       "from_source": "streaming-oct15"
+      }
+     ],
+     "from_source": "streaming-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -442004,7 +443408,8 @@
     "round3": null,
     "indian-langs-oct14": null,
     "fanwiki-screen-oct14": null,
-    "official-yt-oct15": null
+    "official-yt-oct15": null,
+    "streaming-oct15": null
    }
   },
   {
@@ -442480,6 +443885,48 @@
         "Doctor hypnotizes female characters for personal gain",
         "Deep hypnosis / therapist boundary violation",
         "High confidence"
+       ],
+       "sources": [
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0419730"
+        },
+        {
+         "label": "KOFIC",
+         "url": "http://www.kofic.org/eng/films/index/filmsView.jsp?movieCd=20040625"
+        },
+        {
+         "label": "Letterboxd",
+         "url": "https://letterboxd.com/film/hypnotized/"
+        },
+        {
+         "label": "YesAsia",
+         "url": "https://www.yesasia.com/global/the-hypnotized-vcd-korea-version/1003882986-0-0-0-en/info.html"
+        },
+        {
+         "label": "AllMovie",
+         "url": "https://www.allmovie.com/movie/the-hypnotized-am54419"
+        },
+        {
+         "label": "moviefone.com",
+         "url": "https://www.moviefone.com/movie/hypnotized/6xiSsZiEnZgh9dfWFgVMA/main/"
+        },
+        {
+         "label": "Variety review",
+         "url": "https://variety.com/2004/film/reviews/hypnotized-1200529788/"
+        },
+        {
+         "label": "TV Tropes",
+         "url": "https://tvtropes.org/pmwiki/pmwiki.php/Film/TheHypnotized"
+        },
+        {
+         "label": "WilfMovies",
+         "url": "https://wilfmovies.com/movies/the-hypnotized-2004/"
+        },
+        {
+         "label": "OhmyStar (context)",
+         "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0001875783"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -444283,6 +445730,48 @@
         "Deep hypnosis / therapist boundary violation",
         "High confidence"
        ],
+       "sources": [
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0419730"
+        },
+        {
+         "label": "KOFIC",
+         "url": "http://www.kofic.org/eng/films/index/filmsView.jsp?movieCd=20040625"
+        },
+        {
+         "label": "Letterboxd",
+         "url": "https://letterboxd.com/film/hypnotized/"
+        },
+        {
+         "label": "YesAsia",
+         "url": "https://www.yesasia.com/global/the-hypnotized-vcd-korea-version/1003882986-0-0-0-en/info.html"
+        },
+        {
+         "label": "AllMovie",
+         "url": "https://www.allmovie.com/movie/the-hypnotized-am54419"
+        },
+        {
+         "label": "moviefone.com",
+         "url": "https://www.moviefone.com/movie/hypnotized/6xiSsZiEnZgh9dfWFgVMA/main/"
+        },
+        {
+         "label": "Variety review",
+         "url": "https://variety.com/2004/film/reviews/hypnotized-1200529788/"
+        },
+        {
+         "label": "TV Tropes",
+         "url": "https://tvtropes.org/pmwiki/pmwiki.php/Film/TheHypnotized"
+        },
+        {
+         "label": "WilfMovies",
+         "url": "https://wilfmovies.com/movies/the-hypnotized-2004/"
+        },
+        {
+         "label": "OhmyStar (context)",
+         "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0001875783"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -445594,6 +447083,36 @@
         "Wife / female character forcibly hypnotized to obey",
         "Hypnosis",
         "Corroborated · 4 sources"
+       ],
+       "sources": [
+        {
+         "label": "All Things Law & Order recap",
+         "url": "https://allthingslawandorder.blogspot.com/2017/05/law-order-svu-spellbound-recap-review.html"
+        },
+        {
+         "label": "Distractify",
+         "url": "https://www.distractify.com/p/what-happened-to-declan-trask-svu"
+        },
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt5902036/"
+        },
+        {
+         "label": "Wikipedia (season 18)",
+         "url": "https://en.wikipedia.org/wiki/Law_%26_Order:_Special_Victims_Unit_season_18"
+        },
+        {
+         "label": "TVmaze",
+         "url": "https://www.tvmaze.com/episodes/1071386/law-order-special-victims-unit-18x18-spellbound"
+        },
+        {
+         "label": "TV Fanatic review",
+         "url": "https://www.tvfanatic.com/law-and-order-svu-season-18-episode-18-review-spellbound/"
+        },
+        {
+         "label": "CarterMatt",
+         "url": "https://cartermatt.com/253621/"
+        }
        ],
        "provenance": "Source basis: Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
        "entry_note": "Note: Age gap not stated (Townsend about 44, Hager about 32); loose older-man fit Outcome facts: married: no; kids status: unknown.",
@@ -447146,7 +448665,8 @@
     "fanwiki-screen-oct14",
     "telugu-deep-oct15",
     "new-angles-oct15",
-    "official-yt-oct15"
+    "official-yt-oct15",
+    "streaming-oct15"
    ],
    "groups": [
     {
@@ -448204,6 +449724,37 @@
       }
      ],
      "from_source": "official-yt-oct15"
+    },
+    {
+     "title": "Streaming-service additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2936,
+       "from_source": "streaming-oct15"
+      },
+      {
+       "id": 704,
+       "from_source": "streaming-oct15"
+      },
+      {
+       "id": 653,
+       "from_source": "streaming-oct15"
+      },
+      {
+       "id": 655,
+       "from_source": "streaming-oct15"
+      },
+      {
+       "id": 2934,
+       "from_source": "streaming-oct15"
+      },
+      {
+       "id": 2625,
+       "from_source": "streaming-oct15"
+      }
+     ],
+     "from_source": "streaming-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -448225,7 +449776,8 @@
     "fanwiki-screen-oct14": null,
     "telugu-deep-oct15": null,
     "new-angles-oct15": null,
-    "official-yt-oct15": null
+    "official-yt-oct15": null,
+    "streaming-oct15": null
    }
   },
   {
@@ -454807,6 +456359,28 @@
         "Doctor hypnotizes female characters for personal gain",
         "Post-hypnotic trigger / murderous concealment",
         "High confidence"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Hypnotic_(2021_film)"
+        },
+        {
+         "label": "Den of Geek",
+         "url": "https://www.denofgeek.com/movies/hypnotic-ending-explained/"
+        },
+        {
+         "label": "Screen Rant",
+         "url": "https://screenrant.com/hypnotic-netflix-movie-ending-explained/"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Hypnotic"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Hypnotic_%282021_film%29"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -463868,7 +465442,8 @@
     "indian-langs-oct14",
     "fanwiki-screen-oct14",
     "telugu-deep-oct15",
-    "official-yt-oct15"
+    "official-yt-oct15",
+    "streaming-oct15"
    ],
    "groups": [
     {
@@ -464950,6 +466525,17 @@
       }
      ],
      "from_source": "official-yt-oct15"
+    },
+    {
+     "title": "Streaming-service additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2934,
+       "from_source": "streaming-oct15"
+      }
+     ],
+     "from_source": "streaming-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -464958,7 +466544,8 @@
     "indian-langs-oct14": null,
     "fanwiki-screen-oct14": null,
     "telugu-deep-oct15": null,
-    "official-yt-oct15": null
+    "official-yt-oct15": null,
+    "streaming-oct15": null
    }
   },
   {
@@ -469417,6 +471004,28 @@
         "Literal hypnosis",
         "Borderline · not a legal husband"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Svengali_(1931_film)"
+        },
+        {
+         "label": "Rotten Tomatoes",
+         "url": "https://www.rottentomatoes.com/m/1020664-svengali"
+        },
+        {
+         "label": "mentalblock.miraheze.org",
+         "url": "https://mentalblock.miraheze.org/wiki/Svengali_(1931)"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Svengali_%281931%29"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Svengali_%281931_film%29"
+        }
+       ],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -469633,6 +471242,28 @@
         "Post-hypnotic trigger / murderous concealment",
         "High confidence"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Hypnotic_(2021_film)"
+        },
+        {
+         "label": "Den of Geek",
+         "url": "https://www.denofgeek.com/movies/hypnotic-ending-explained/"
+        },
+        {
+         "label": "Screen Rant",
+         "url": "https://screenrant.com/hypnotic-netflix-movie-ending-explained/"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Hypnotic"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Hypnotic_%282021_film%29"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -469650,6 +471281,48 @@
         "Doctor hypnotizes female characters for personal gain",
         "Deep hypnosis / therapist boundary violation",
         "High confidence"
+       ],
+       "sources": [
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0419730"
+        },
+        {
+         "label": "KOFIC",
+         "url": "http://www.kofic.org/eng/films/index/filmsView.jsp?movieCd=20040625"
+        },
+        {
+         "label": "Letterboxd",
+         "url": "https://letterboxd.com/film/hypnotized/"
+        },
+        {
+         "label": "YesAsia",
+         "url": "https://www.yesasia.com/global/the-hypnotized-vcd-korea-version/1003882986-0-0-0-en/info.html"
+        },
+        {
+         "label": "AllMovie",
+         "url": "https://www.allmovie.com/movie/the-hypnotized-am54419"
+        },
+        {
+         "label": "moviefone.com",
+         "url": "https://www.moviefone.com/movie/hypnotized/6xiSsZiEnZgh9dfWFgVMA/main/"
+        },
+        {
+         "label": "Variety review",
+         "url": "https://variety.com/2004/film/reviews/hypnotized-1200529788/"
+        },
+        {
+         "label": "TV Tropes",
+         "url": "https://tvtropes.org/pmwiki/pmwiki.php/Film/TheHypnotized"
+        },
+        {
+         "label": "WilfMovies",
+         "url": "https://wilfmovies.com/movies/the-hypnotized-2004/"
+        },
+        {
+         "label": "OhmyStar (context)",
+         "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0001875783"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -470032,6 +471705,36 @@
         "Hypnosis",
         "Corroborated · 4 sources"
        ],
+       "sources": [
+        {
+         "label": "All Things Law & Order recap",
+         "url": "https://allthingslawandorder.blogspot.com/2017/05/law-order-svu-spellbound-recap-review.html"
+        },
+        {
+         "label": "Distractify",
+         "url": "https://www.distractify.com/p/what-happened-to-declan-trask-svu"
+        },
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt5902036/"
+        },
+        {
+         "label": "Wikipedia (season 18)",
+         "url": "https://en.wikipedia.org/wiki/Law_%26_Order:_Special_Victims_Unit_season_18"
+        },
+        {
+         "label": "TVmaze",
+         "url": "https://www.tvmaze.com/episodes/1071386/law-order-special-victims-unit-18x18-spellbound"
+        },
+        {
+         "label": "TV Fanatic review",
+         "url": "https://www.tvfanatic.com/law-and-order-svu-season-18-episode-18-review-spellbound/"
+        },
+        {
+         "label": "CarterMatt",
+         "url": "https://cartermatt.com/253621/"
+        }
+       ],
        "provenance": "Source basis: Older-man hypnosis research pass, 30 Sep 2026 (young adult women only; minors/teen characters excluded; each record cross-checked against independent sources)",
        "entry_note": "Note: Age gap not stated (Townsend about 44, Hager about 32); loose older-man fit Outcome facts: married: no; kids status: unknown.",
        "from_source": "xla62ucxbx02u5"
@@ -470222,6 +471925,12 @@
         "Wife / female character forcibly hypnotized to obey",
         "Hypnosis / false-memory manipulation",
         "Medium confidence · memory-manipulation variant"
+       ],
+       "sources": [
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt4905820/episodes/?year=2017"
+        }
        ],
        "provenance": "Source basis: Worldwide vertical-short and adult / R-rated / erotic female-hypnosis sweep, 2 Oct 2026 (~117 query rounds). Sources named on the research record; unresolved and title-only leads excluded. Episode sources: Episodate, TVmaze and WhenHBO.",
        "character": "Character: Teresa",
