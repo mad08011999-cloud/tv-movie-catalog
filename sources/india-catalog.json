@@ -255,7 +255,7 @@
   },
   {
    "title": "FIR",
-   "year": "",
+   "year": "2014",
    "format": "tv",
    "meta": "TV sitcom · SAB TV · ep. 1302 \"Inspector Chautala Hypnotized\" · India · Hindi",
    "summary": "Inspector Chandramukhi Chautala is hypnotized and acts strangely while the others try to snap her out of it.",
@@ -263,9 +263,18 @@
    "mechanism": "",
    "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
    "categories": [],
-   "sources": [],
+   "sources": [
+    {
+     "label": "Apple TV (IN): F.I.R. S1 E1302 'Inspector Chautala Hypnotized' (25 Dec 2014)",
+     "url": "https://tv.apple.com/in/episode/inspector-chautala-hypnotized/umc.cmc.1jzeaheemvcf7f3dg8yjw7yp?showId=umc.cmc.686l6lraqcjec97wnr0x564qb"
+    }
+   ],
    "present": true,
-   "match_title": "FIR — ep 1302 \"Inspector Chautala Hypnotized\""
+   "match_title": "FIR — ep 1302 \"Inspector Chautala Hypnotized\"",
+   "override_fields": [
+    "year"
+   ],
+   "match_year": ""
   },
   {
    "title": "Qubool Hai",

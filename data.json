@@ -127418,7 +127418,7 @@
    "id": 691,
    "title": "FIR — ep 1302 \"Inspector Chautala Hypnotized\"",
    "subtitle": "",
-   "year": "Year unresolved",
+   "year": "2014",
    "meta": "TV serial episode · SAB TV, India",
    "mechanism": "Soap, serial and telenovela hypnosis arcs",
    "confidence_flag": "Medium-high confidence",
@@ -127434,6 +127434,10 @@
     {
      "label": "sonyliv.com",
      "url": "https://www.sonyliv.com/shows/fir-1700000151/inspector-chautala-hypnotized-1000027822"
+    },
+    {
+     "label": "Apple TV (IN): F.I.R. S1 E1302 'Inspector Chautala Hypnotized' (25 Dec 2014)",
+     "url": "https://tv.apple.com/in/episode/inspector-chautala-hypnotized/umc.cmc.1jzeaheemvcf7f3dg8yjw7yp?showId=umc.cmc.686l6lraqcjec97wnr0x564qb"
     }
    ],
    "youtube_ids": [],
@@ -127479,13 +127483,14 @@
     {
      "rid": "india-catalog:13",
      "source": "india-catalog",
-     "label": "FIR",
+     "label": "FIR (2014)",
      "identifiers": [
+      "year/date",
       "own title/qualifier"
      ],
      "title": "FIR",
      "subtitle": "",
-     "year": "",
+     "year": "2014",
      "meta": "TV sitcom · SAB TV · ep. 1302 \"Inspector Chautala Hypnotized\" · India · Hindi",
      "summary": "Inspector Chandramukhi Chautala is hypnotized and acts strangely while the others try to snap her out of it.",
      "character": "",
@@ -127493,7 +127498,12 @@
      "mechanism": "",
      "confidence_flag": "Medium-high",
      "categories": [],
-     "sources": [],
+     "sources": [
+      {
+       "label": "Apple TV (IN): F.I.R. S1 E1302 'Inspector Chautala Hypnotized' (25 Dec 2014)",
+       "url": "https://tv.apple.com/in/episode/inspector-chautala-hypnotized/umc.cmc.1jzeaheemvcf7f3dg8yjw7yp?showId=umc.cmc.686l6lraqcjec97wnr0x564qb"
+      }
+     ],
      "distinct_story": true,
      "matched_by": "match_title"
     }
@@ -127520,7 +127530,7 @@
     },
     "india-catalog:13": {
      "title": "FIR",
-     "year": "",
+     "year": "2014",
      "format": "tv",
      "meta": "TV sitcom · SAB TV · ep. 1302 \"Inspector Chautala Hypnotized\" · India · Hindi",
      "summary": "Inspector Chandramukhi Chautala is hypnotized and acts strangely while the others try to snap her out of it.",
@@ -127528,9 +127538,18 @@
      "mechanism": "",
      "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
      "categories": [],
-     "sources": [],
+     "sources": [
+      {
+       "label": "Apple TV (IN): F.I.R. S1 E1302 'Inspector Chautala Hypnotized' (25 Dec 2014)",
+       "url": "https://tv.apple.com/in/episode/inspector-chautala-hypnotized/umc.cmc.1jzeaheemvcf7f3dg8yjw7yp?showId=umc.cmc.686l6lraqcjec97wnr0x564qb"
+      }
+     ],
      "present": true,
-     "match_title": "FIR — ep 1302 \"Inspector Chautala Hypnotized\""
+     "match_title": "FIR — ep 1302 \"Inspector Chautala Hypnotized\"",
+     "override_fields": [
+      "year"
+     ],
+     "match_year": ""
     }
    }
   },
@@ -433632,6 +433651,13 @@
         "Soap, serial and telenovela hypnosis arcs",
         "Medium-high confidence"
        ],
+       "sources": [
+        {
+         "label": "sonyliv.com",
+         "url": "https://www.sonyliv.com/shows/fir-1700000151/inspector-chautala-hypnotized-1000027822"
+        }
+       ],
+       "year_display": "Year unresolved",
        "from_source": "xla62ucxbx02u5"
       },
       {
