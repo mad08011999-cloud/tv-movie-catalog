@@ -3915,7 +3915,7 @@
    "description": "Titles and episodes found on streaming-service title pages (Netflix, Prime Video, Disney+, etc.)",
    "dropped": [],
    "check": {
-    "raw_count": 49,
+    "raw_count": 53,
     "ok": true
    },
    "status": "local"
@@ -3963,10 +3963,10 @@
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
   "official-yt-oct15": 45,
-  "streaming-oct15": 49
+  "streaming-oct15": 53
  },
- "raw_total": 5613,
- "entry_count": 2836,
+ "raw_total": 5617,
+ "entry_count": 2839,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4056,7 +4056,7 @@
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 191
+   "entry_count": 192
   },
   {
    "key": "hypnotized-to-marry",
@@ -4164,7 +4164,7 @@
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 130
+   "entry_count": 132
   },
   {
    "key": "mom-partner-control",
@@ -4446,7 +4446,7 @@
    "key": "tantrik",
    "label": "Tantrik / black-magic control",
    "legend_label": "Tantrik / black-magic control",
-   "entry_count": 45
+   "entry_count": 46
   },
   {
    "key": "vampire",
@@ -49975,30 +49975,45 @@
    "character": "",
    "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog; SonyLIV listing)",
    "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "format": "tv",
    "categories": [
     "evil-female",
     "pregnant-variants",
     "indian-female-hypnosis",
-    "tantrik"
+    "tantrik",
+    "india-control"
    ],
    "sources": [
     {
      "label": "Gadgets 360",
      "url": "https://www.gadgets360.com/entertainment/news/vashikaranam-ott-tv-release-when-and-where-to-watch-the-supernatural-drama-on-sonyliv-11189854"
+    },
+    {
+     "label": "JioCinema USA: Vashikaranam (54 episodes)",
+     "url": "https://www.jiocinemaus.com/watch/tv/vashikaranam/"
+    },
+    {
+     "label": "Tellychakkar: launch announcement",
+     "url": "https://www.tellychakkar.com/tv/tv-news/sony-entertainment-television-launch-new-show-vashikaranam-16th-march-2026-onwards"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "india-catalog"
+    "india-catalog",
+    "streaming-oct15"
    ],
    "source_records": [
     "xla62ucxbx02u5:205",
     "ig6qlxqxoxvcxla:163",
     "ig6qlxqxoxvcxla:476",
-    "india-catalog:41"
+    "india-catalog:41",
+    "streaming-oct15:53"
    ],
    "index_only": false,
    "local_only": false,
@@ -50107,6 +50122,42 @@
      "sources": [],
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "streaming-oct15:53",
+     "source": "streaming-oct15",
+     "label": "Vashikaranam (2026)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Vashikaranam",
+     "subtitle": "",
+     "year": "2026",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "india-control"
+     ],
+     "sources": [
+      {
+       "label": "JioCinema USA: Vashikaranam (54 episodes)",
+       "url": "https://www.jiocinemaus.com/watch/tv/vashikaranam/"
+      },
+      {
+       "label": "Tellychakkar: launch announcement",
+       "url": "https://www.tellychakkar.com/tv/tv-news/sony-entertainment-television-launch-new-show-vashikaranam-16th-march-2026-onwards"
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": false,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -50184,8 +50235,41 @@
      "categories": [],
      "sources": [],
      "present": true
+    },
+    "streaming-oct15:53": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+     "format": "tv",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "",
+     "confidence_flag": "",
+     "summary": "",
+     "character": "",
+     "categories": [
+      "india-control"
+     ],
+     "title": "Vashikaranam",
+     "year": "2026",
+     "sources": [
+      {
+       "label": "JioCinema USA: Vashikaranam (54 episodes)",
+       "url": "https://www.jiocinemaus.com/watch/tv/vashikaranam/"
+      },
+      {
+       "label": "Tellychakkar: launch announcement",
+       "url": "https://www.tellychakkar.com/tv/tv-news/sony-entertainment-television-launch-new-show-vashikaranam-16th-march-2026-onwards"
+      }
+     ]
     }
-   }
+   },
+   "retired_ids": [
+    2972
+   ]
   },
   {
    "id": 205,
@@ -430164,6 +430248,218 @@
      ]
     }
    }
+  },
+  {
+   "id": 2969,
+   "title": "Phir Wahi Raat",
+   "subtitle": "",
+   "year": "1980",
+   "meta": "Film · India · Hindi",
+   "mechanism": "Therapeutic hypnosis; staged haunting",
+   "confidence_flag": "",
+   "summary": "Plot summary (PlotExplained): psychiatrist Dr Vijay hypnotises Asha to ease her terror of a ghostly woman. The haunting turns out to be a scheme by her cousin Ashok to manipulate her.",
+   "character": "Asha",
+   "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "movie",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "PlotExplained: Phir Wahi Raat (1980)",
+     "url": "https://www.plotexplained.com/movie/phir-wahiraat-1980"
+    },
+    {
+     "label": "Letterboxd",
+     "url": "https://letterboxd.com/film/phir-wahi-raat/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:50"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:50": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Therapeutic hypnosis; staged haunting",
+     "confidence_flag": "",
+     "summary": "Plot summary (PlotExplained): psychiatrist Dr Vijay hypnotises Asha to ease her terror of a ghostly woman. The haunting turns out to be a scheme by her cousin Ashok to manipulate her.",
+     "character": "Asha",
+     "categories": [
+      "medical"
+     ],
+     "title": "Phir Wahi Raat",
+     "year": "1980",
+     "meta": "Film · India · Hindi",
+     "sources": [
+      {
+       "label": "PlotExplained: Phir Wahi Raat (1980)",
+       "url": "https://www.plotexplained.com/movie/phir-wahiraat-1980"
+      },
+      {
+       "label": "Letterboxd",
+       "url": "https://letterboxd.com/film/phir-wahi-raat/"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2970,
+   "title": "Khooni Ilaaka",
+   "subtitle": "",
+   "year": "1999",
+   "meta": "Film · India · Hindi · A-certified",
+   "mechanism": "Tantrik hypnosis",
+   "confidence_flag": "",
+   "summary": "Official press booklet (Cinemaazi): a dangerous tantrik hypnotises village women and girls to exploit them sexually. Killed by the Thakur, his spirit possesses the Thakur and keeps preying on the villagers.",
+   "character": "Village women",
+   "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "movie",
+   "categories": [
+    "tantrik"
+   ],
+   "sources": [
+    {
+     "label": "Cinemaazi: Khooni Ilaaka (1999)",
+     "url": "https://www.cinemaazi.com/film/khooni-ilaaka"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:51"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:51": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Tantrik hypnosis",
+     "confidence_flag": "",
+     "summary": "Official press booklet (Cinemaazi): a dangerous tantrik hypnotises village women and girls to exploit them sexually. Killed by the Thakur, his spirit possesses the Thakur and keeps preying on the villagers.",
+     "character": "Village women",
+     "categories": [
+      "tantrik"
+     ],
+     "title": "Khooni Ilaaka",
+     "year": "1999",
+     "meta": "Film · India · Hindi · A-certified",
+     "sources": [
+      {
+       "label": "Cinemaazi: Khooni Ilaaka (1999)",
+       "url": "https://www.cinemaazi.com/film/khooni-ilaaka"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": 2971,
+   "title": "Love Aaj Kal Porshu",
+   "subtitle": "",
+   "year": "2020",
+   "meta": "Film · India · Bengali",
+   "mechanism": "Hypnotherapy / memory replacement",
+   "confidence_flag": "",
+   "summary": "Review/synopsis (Pakaoo): at a resort run for a TV show, hypnotherapist Batuk Babu takes control of guests Abhik and Tista's minds, wiping and replacing their memories every night so they meet 'for the first time' each day on camera.",
+   "character": "Tista",
+   "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+   "note": "",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "format": "movie",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Pakaoo: Love Aaj Kal Porshu review (streams on hoichoi)",
+     "url": "https://pakaoo.in/movie/love-aaj-kal-porshu-movie-review/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "streaming-oct15"
+   ],
+   "source_records": [
+    "streaming-oct15:52"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "streaming-oct15:52": {
+     "standalone": true,
+     "group": "Streaming-service additions (Oct 2026)",
+     "provenance": "Indian sweep (web), 15 Oct 2026 PT",
+     "format": "movie",
+     "subtitle": "",
+     "pregnant_end": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "mechanism": "Hypnotherapy / memory replacement",
+     "confidence_flag": "",
+     "summary": "Review/synopsis (Pakaoo): at a resort run for a TV show, hypnotherapist Batuk Babu takes control of guests Abhik and Tista's minds, wiping and replacing their memories every night so they meet 'for the first time' each day on camera.",
+     "character": "Tista",
+     "categories": [
+      "medical"
+     ],
+     "title": "Love Aaj Kal Porshu",
+     "year": "2020",
+     "meta": "Film · India · Bengali",
+     "sources": [
+      {
+       "label": "Pakaoo: Love Aaj Kal Porshu review (streams on hoichoi)",
+       "url": "https://pakaoo.in/movie/love-aaj-kal-porshu-movie-review/"
+      }
+     ]
+    }
+   }
   }
  ],
  "sections": [
@@ -439069,7 +439365,8 @@
     "savdhaan-santham-oct9",
     "indian-langs-oct14",
     "recap-imdb-oct15",
-    "official-yt-oct15"
+    "official-yt-oct15",
+    "streaming-oct15"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 57,
@@ -439086,7 +439383,8 @@
     "savdhaan-santham-oct9": null,
     "indian-langs-oct14": null,
     "recap-imdb-oct15": null,
-    "official-yt-oct15": null
+    "official-yt-oct15": null,
+    "streaming-oct15": null
    },
    "groups": [
     {
@@ -440366,6 +440664,17 @@
       }
      ],
      "from_source": "official-yt-oct15"
+    },
+    {
+     "title": "Streaming-service additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 204,
+       "from_source": "streaming-oct15"
+      }
+     ],
+     "from_source": "streaming-oct15"
     }
    ]
   },
@@ -450643,6 +450952,12 @@
         "Vashikaran control; pregnant victim unverified",
         "Low confidence · unresolved lead · still airing at time of sweep"
        ],
+       "sources": [
+        {
+         "label": "Gadgets 360",
+         "url": "https://www.gadgets360.com/entertainment/news/vashikaranam-ott-tv-release-when-and-where-to-watch-the-supernatural-drama-on-sonyliv-11189854"
+        }
+       ],
        "provenance": "Source basis: Combined worldwide and Indian-language pregnancy-control sweep completed 30 Sep 2026; every title was checked against the loaded catalog before category assignment.",
        "from_source": "xla62ucxbx02u5"
       }
@@ -452862,7 +453177,15 @@
        "from_source": "streaming-oct15"
       },
       {
+       "id": 2971,
+       "from_source": "streaming-oct15"
+      },
+      {
        "id": 286,
+       "from_source": "streaming-oct15"
+      },
+      {
+       "id": 2969,
        "from_source": "streaming-oct15"
       },
       {
@@ -463151,6 +463474,12 @@
         "Vashikaran control; pregnant victim unverified",
         "Low confidence · unresolved lead · still airing at time of sweep"
        ],
+       "sources": [
+        {
+         "label": "Gadgets 360",
+         "url": "https://www.gadgets360.com/entertainment/news/vashikaranam-ott-tv-release-when-and-where-to-watch-the-supernatural-drama-on-sonyliv-11189854"
+        }
+       ],
        "provenance": "Source basis: Combined worldwide and Indian-language pregnancy-control sweep completed 30 Sep 2026; every title was checked against the loaded catalog before category assignment.",
        "from_source": "xla62ucxbx02u5"
       },
@@ -470175,6 +470504,12 @@
         "Supernatural possession",
         "Possible · single source"
        ],
+       "sources": [
+        {
+         "label": "Gadgets 360",
+         "url": "https://www.gadgets360.com/entertainment/news/vashikaranam-ott-tv-release-when-and-where-to-watch-the-supernatural-drama-on-sonyliv-11189854"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       }
      ]
@@ -470429,7 +470764,8 @@
     "hypnosis-assault",
     "hypnosis-assault-loose",
     "recap-imdb-oct15",
-    "official-yt-oct15"
+    "official-yt-oct15",
+    "streaming-oct15"
    ],
    "groups": [
     {
@@ -470906,6 +471242,17 @@
       }
      ],
      "from_source": "official-yt-oct15"
+    },
+    {
+     "title": "Streaming-service additions (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2970,
+       "from_source": "streaming-oct15"
+      }
+     ],
+     "from_source": "streaming-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -470916,7 +471263,8 @@
     "hypnosis-assault": null,
     "hypnosis-assault-loose": null,
     "recap-imdb-oct15": null,
-    "official-yt-oct15": null
+    "official-yt-oct15": null,
+    "streaming-oct15": null
    }
   },
   {

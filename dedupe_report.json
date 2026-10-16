@@ -5789,6 +5789,13 @@
      "subtitle": "",
      "year": "2026",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "streaming-oct15:53",
+     "title": "Vashikaranam",
+     "subtitle": "",
+     "year": "2026",
+     "matched_by": "same title+year"
     }
    ]
   },
@@ -43847,6 +43854,12 @@
    "year": "1988–1990",
    "kept_id": 1239,
    "retired_id": 2968
+  },
+  {
+   "title": "Vashikaranam",
+   "year": "2026",
+   "kept_id": 204,
+   "retired_id": 2972
   }
  ],
  "merge_rules": [
@@ -43958,11 +43971,11 @@
   "new-angles-oct15": 4,
   "recap-imdb-oct15": 2,
   "official-yt-oct15": 45,
-  "streaming-oct15": 49
+  "streaming-oct15": 53
  },
- "entry_count_after_dedupe": 2836,
+ "entry_count_after_dedupe": 2839,
  "within_source_groups": 3,
  "cross_source_groups": 1817,
  "index_only_records": 64,
- "local_only_records": 615
+ "local_only_records": 618
 }
