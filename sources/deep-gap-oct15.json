@@ -459,6 +459,235 @@
       "evidence": "Festival review with synopsis",
       "confidence_flag": "Single source · flag",
       "note": "Loose fit: therapy hypnosis in a horror-mystery."
+    },
+    {
+      "pregnant_end": "no",
+      "kids_status": "yes",
+      "kids_together": "no",
+      "provenance": "Deep gap-check final pass (Marathi/Kannada/Malayalam, Turkish, Indonesian, ES/PT/EN/DE), 15 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Arka Sokaklar",
+      "year": "2006–",
+      "format": "tv",
+      "meta": "TV series · Turkey · Turkish · Kanal D",
+      "character": "Egemen's mother (guest)",
+      "summary": "A mother trusts the doctor treating her young son. Through suggestion and drugs ('a hypnosis game'), the doctor steers her into killing her own husband. The team ties the murder to him and arrests him.",
+      "hypnotist": "Unnamed doctor (guest villain)",
+      "gain_motive": [
+        "destroying families / control"
+      ],
+      "method": "Hypnotic suggestion plus medication",
+      "categories": [
+        "doctor-gain",
+        "crime"
+      ],
+      "kids_note": "Mother of young son Egemen (no child involvement in the control)",
+      "episodes": [
+        {
+          "episode": "703",
+          "gist": "A doctor's hypnosis game leads a mother to kill her husband; the team catches the doctor.",
+          "number_verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "Kanal D clip 'Sonu ölümle biten hipnoz oyunu'",
+          "url": "https://www.kanald.com.tr/arka-sokaklar/ozel-klipler/sonu-olumle-biten-hipnoz-oyunu"
+        },
+        {
+          "label": "Kanal D clip 'Sapkın doktor için yolun sonu'",
+          "url": "https://www.kanald.com.tr/arka-sokaklar/ozel-klipler/sapkin-doktor-icin-yolun-sonu"
+        }
+      ],
+      "evidence": "Broadcaster clip descriptions",
+      "confidence_flag": "Medium · 2 broadcaster pages"
+    },
+    {
+      "pregnant_end": "yes (alleged in the case)",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep gap-check final pass (Marathi/Kannada/Malayalam, Turkish, Indonesian, ES/PT/EN/DE), 15 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Richter Alexander Hold",
+      "year": "2001–2013",
+      "format": "tv",
+      "meta": "Scripted court show · Germany · German · Sat.1",
+      "character": "Female patient (case 1)",
+      "summary": "Case 1: Dr. Werner Burger is accused of assaulting a patient during hypnosis treatment and making her pregnant. The court asks whether he is guilty or the victim of an intrigue.",
+      "hypnotist": "Dr. Werner Burger (accused)",
+      "gain_motive": [
+        "abuse of patient (alleged)"
+      ],
+      "method": "Hypnosis treatment",
+      "categories": [
+        "doctor-gain",
+        "crime"
+      ],
+      "episodes": [
+        {
+          "episode": "S02 Folge 326 'Grausame Hypnose'",
+          "gist": "Trial of a doctor accused of assault under hypnosis that led to a pregnancy.",
+          "number_verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "Joyn episode page",
+          "url": "https://www.joyn.de/serien/richter-alexander-hold/2-326-grausame-hypnose"
+        }
+      ],
+      "evidence": "Streaming episode synopsis",
+      "confidence_flag": "Single source · flag",
+      "note": "Scripted courtroom fiction; the outcome isn't stated in the source."
+    },
+    {
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep gap-check final pass (Marathi/Kannada/Malayalam, Turkish, Indonesian, ES/PT/EN/DE), 15 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Vienna Blood",
+      "year": "2019–",
+      "format": "tv",
+      "meta": "TV series · UK/Austria · English · BBC / ORF",
+      "character": "Amelia Lydgate (Charlene McKenna)",
+      "summary": "Dr. Max Liebermann uses hypnosis to try to cure Amelia's hysteria and learn who attacked her. His interest in her grows.",
+      "hypnotist": "Dr. Max Liebermann (Matthew Beard)",
+      "gain_motive": [
+        "treatment / investigation"
+      ],
+      "method": "Clinical hypnosis",
+      "categories": [
+        "medical"
+      ],
+      "fit": "loose",
+      "tags": [
+        "loose fit"
+      ],
+      "episodes": [
+        {
+          "episode": "S01E02",
+          "air_date": "2020-01-26",
+          "gist": "Max hypnotises Amelia to treat her hysteria and identify her attacker.",
+          "number_verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "PBS clip 'Amelia's Hypnosis'",
+          "url": "https://www.pbs.org/video/amelias-hypnosis-t27m7j/"
+        }
+      ],
+      "evidence": "Broadcaster clip description",
+      "confidence_flag": "Single source · flag",
+      "note": "Loose fit: therapeutic hypnosis. The air date is the US PBS date."
+    },
+    {
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep gap-check final pass (Marathi/Kannada/Malayalam, Turkish, Indonesian, ES/PT/EN/DE), 15 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Bloch",
+      "year": "2002–2013",
+      "format": "tv",
+      "meta": "TV film series · Germany · German · Das Erste",
+      "character": "Stefanie Rudolf (Anna Maria Mühe)",
+      "summary": "In 'Die Lavendelkönigin', psychotherapist Bloch treats Stefanie with hypnotherapy. The hypnosis triggers a transference, she accuses him of assault in a session, and he is jailed until he uncovers her real, earlier trauma.",
+      "hypnotist": "Maximilian Bloch (Dieter Pfaff)",
+      "gain_motive": [
+        "therapy"
+      ],
+      "method": "Hypnotherapy",
+      "categories": [
+        "medical"
+      ],
+      "fit": "loose",
+      "tags": [
+        "loose fit"
+      ],
+      "episodes": [
+        {
+          "episode": "'Die Lavendelkönigin'",
+          "air_date": "2013-04-24",
+          "gist": "After hypnotherapy, a patient accuses Bloch of assault; the accusation is a transference of an older trauma.",
+          "number_verified": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "TV Wunschliste",
+          "url": "https://www.wunschliste.de/episode/477690/bloch-die-lavendelkoenigin"
+        }
+      ],
+      "evidence": "Episode guide synopsis",
+      "confidence_flag": "Single source · flag",
+      "note": "Loose fit: the assault is a false accusation, and the hypnosis is therapy."
+    },
+    {
+      "pregnant_end": "yes",
+      "kids_status": "yes",
+      "kids_together": "yes",
+      "provenance": "Deep gap-check final pass (Marathi/Kannada/Malayalam, Turkish, Indonesian, ES/PT/EN/DE), 15 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Silencios de familia",
+      "year": "2016",
+      "format": "tv",
+      "meta": "TV series · Argentina · Spanish · El Trece",
+      "character": "Elisa (Julieta Díaz)",
+      "summary": "Dentist Miguel is to become a father again twice over: his lover Fabiana tells him she is pregnant, and his wife Elisa, already a mother, has her own pregnancy confirmed.",
+      "categories": [
+        "mom-pregnancy",
+        "another-man"
+      ],
+      "kids_note": "Elisa and Miguel already have children (including youngest Mia)",
+      "episodes": [
+        {
+          "episode": "21 Sep 2016 chapter",
+          "air_date": "2016-09-21",
+          "gist": "Fabiana tells Miguel she is pregnant; Elisa's pregnancy is confirmed at the clinic.",
+          "number_verified": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "eltrece preview",
+          "url": "https://www.eltrecetv.com.ar/noticias/silencios-de-familia/adelanto-fabiana-le-comunica-su-embarazo-a-miguel-y-elisa-se_089305/"
+        }
+      ],
+      "evidence": "Broadcaster chapter preview",
+      "confidence_flag": "Single source · flag",
+      "note": "No hypnosis. The pregnancy/family card: a mother with kids pregnant again while the husband's lover is also pregnant."
+    },
+    {
+      "pregnant_end": "unclear",
+      "kids_status": "yes",
+      "kids_together": "no",
+      "provenance": "Deep gap-check final pass (Marathi/Kannada/Malayalam, Turkish, Indonesian, ES/PT/EN/DE), 15 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Aai Kuthe Kay Karte!",
+      "year": "2019–2024",
+      "format": "tv",
+      "meta": "Serial · India · Marathi · Star Pravah",
+      "character": "Sanjana",
+      "summary": "Sanjana, who has a son (Nikhil) from her first marriage, gets a positive pregnancy test with Aniruddha, who would become a father for a fourth time.",
+      "categories": [
+        "mom-pregnancy"
+      ],
+      "kids_note": "Son Nikhil from her earlier marriage",
+      "sources": [
+        {
+          "label": "Lokmat News18 (Marathi)",
+          "url": "https://lokmat.news18.com/entertainment/sanjana-is-pregnant-in-aai-kuthe-kay-karte-serial-in-star-pravah-mhgm-763795.html"
+        },
+        {
+          "label": "Times of India (Sanjana and Nikhil)",
+          "url": "https://timesofindia.indiatimes.com/tv/news/marathi/aai-kuthe-kay-karte-sanjana-gets-emotional-thinking-about-nikhil-staying-away-from-her/articleshow/103615407.cms"
+        }
+      ],
+      "evidence": "News headline/snippet (article blocked to the fetcher)",
+      "confidence_flag": "Low · headline-level; outcome not verified",
+      "note": "No hypnosis. Only the pregnancy reveal is sourced; whether it carried to term is not verified."
     }
   ],
   "dropped": [
@@ -490,6 +719,25 @@
     "Kızıl Goncalar ep35: male target",
     "La Rosa de Guadalupe (Victoria, 2024): not clear she had children before the affair",
     "Dr. Phil hypnotist-lawyer episode: non-fiction talk show",
-    "Thara Patham: audio"
+    "Thara Patham: audio",
+    "Kavacha (Kannada dub of Qayamat Ki Raat): already card 200",
+    "Manthrikam (Malayalam dub of Nazar): already card 201",
+    "Kajalmaya (Marathi 2025): male target",
+    "Halad Rusali Kunku Hasala: the heroine is knocked unconscious, not controlled",
+    "Apollena (Feb 2025): fake black magician; no control of the woman",
+    "Bir Gece Masalı ep21: comic fake amulet",
+    "Pengasuh hipnotis keluarga kaya: female hypnotist treats men",
+    "Dari Jendela SMP: minors",
+    "Renascer 2024 (Ritinha): no prior children",
+    "The World of the Married: the pregnant woman is the lover, with no kids",
+    "Una Familia de Diez (Renata): only imagines a pregnancy",
+    "Kızılcık Şerbeti (Nilay): no affair; the baby is her husband's",
+    "Amanecer (Julia): affair with kids, but no pregnancy",
+    "K 11 ep569 'Mord unter Hypnose': hypnosis target unclear",
+    "A Minha Sogra é uma Bruxa ep12: male target",
+    "Caso Cerrado hypnosis cases: reality/arbitration show",
+    "Kyunki Saas Bhi Kabhi Bahu Thi (Nov 2025): fake exorcism, no hypnosis",
+    "Peppa Pig: animal characters",
+    "Mi marido tiene familia ep97: already card 566"
   ]
 }
