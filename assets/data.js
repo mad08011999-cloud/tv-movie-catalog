@@ -3994,6 +3994,68 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "indonesia-sinetron-oct15",
+   "label": "Indonesian sinetron / FTV deep pass (15 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/indonesia-sinetron-oct15.json",
+   "description": "Deep Indonesian-language pass (hipnotis, dihipnotis, gendam, pelet, guna-guna, santet, pengasihan) over sinetron, FTV and films on Indonesian Wikipedia, broadcaster and news synopsis sites. Adults only; pelet entries marked loose fit; three pregnancy/kids fields on each card.",
+   "dropped": [
+    {
+     "title": "Dendam Nyi Pelet (Indosiar 2001–04)",
+     "reason": "no plot or episode synopsis found showing a woman under pelet"
+    },
+    {
+     "title": "Misteri Nini Pelet (SCTV 2001–02)",
+     "reason": "Wikipedia gives cast only; no plot found"
+    },
+    {
+     "title": "FTV SCTV 'Pelet Cinta di Tambak Ikan' (2016)",
+     "reason": "Vidio title only; no synopsis"
+    },
+    {
+     "title": "Indra Ketujuh (ANTV) ep 32",
+     "reason": "clip title only; episode synopsis does not mention pelet"
+    },
+    {
+     "title": "Magic 5 (Indosiar)",
+     "reason": "already in catalog; the hypnotist is a teen"
+    },
+    {
+     "title": "Luka Cinta (2024) ep 83",
+     "reason": "hypnotherapy subject is a man (William)"
+    },
+    {
+     "title": "TOP: Tukang Ojek Pengkolan",
+     "reason": "hypnotised character is a man (Tisna)"
+    },
+    {
+     "title": "Joko Anwar's Nightmares and Daydreams 'Hypnotized'",
+     "reason": "already in catalog"
+    },
+    {
+     "title": "Guna-Guna Istri Muda (2024)",
+     "reason": "already in catalog"
+    },
+    {
+     "title": "Suara Hati Istri (Indosiar)",
+     "reason": "no pelet / hypnosis episode found in synopses"
+    },
+    {
+     "title": "Menembus Mata Batin ep 271 'Kak Erna kena pelet'",
+     "reason": "series already in catalog; clip title only"
+    },
+    {
+     "title": "Cahaya Cinta (ANTV) ep 29",
+     "reason": "the wife uses pelet on her husband; no woman entranced"
+    }
+   ],
+   "check": {
+    "raw_count": 4,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -4040,10 +4102,11 @@ window.CATALOG = {
   "official-yt-oct15": 45,
   "streaming-oct15": 61,
   "indian-parallel-oct15": 4,
-  "hypnotized-female-oct15": 7
+  "hypnotized-female-oct15": 7,
+  "indonesia-sinetron-oct15": 4
  },
- "raw_total": 5636,
- "entry_count": 2856,
+ "raw_total": 5640,
+ "entry_count": 2860,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4145,7 +4208,7 @@ window.CATALOG = {
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 109
+   "entry_count": 110
   },
   {
    "key": "index-56",
@@ -4163,7 +4226,7 @@ window.CATALOG = {
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 612
+   "entry_count": 614
   },
   {
    "key": "wife",
@@ -4193,7 +4256,7 @@ window.CATALOG = {
    "key": "cheat-control",
    "label": "Hypnotized / controlled into infidelity",
    "legend_label": "Hypnotized / controlled into infidelity",
-   "entry_count": 21
+   "entry_count": 23
   },
   {
    "key": "crime",
@@ -4211,7 +4274,7 @@ window.CATALOG = {
    "key": "love",
    "label": "Hypnotized to love",
    "legend_label": "Hypnotized to love",
-   "entry_count": 204
+   "entry_count": 206
   },
   {
    "key": "hypno-intimacy",
@@ -4241,7 +4304,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 134
+   "entry_count": 135
   },
   {
    "key": "mom-partner-control",
@@ -4523,7 +4586,7 @@ window.CATALOG = {
    "key": "tantrik",
    "label": "Tantrik / black-magic control",
    "legend_label": "Tantrik / black-magic control",
-   "entry_count": 49
+   "entry_count": 50
   },
   {
    "key": "vampire",
@@ -431990,6 +432053,413 @@ window.CATALOG = {
      "adult": "yes"
     }
    }
+  },
+  {
+   "id": 2991,
+   "title": "Sodrun Merayu Tuhan",
+   "subtitle": "",
+   "year": "2018",
+   "meta": "Sinetron · SCTV · Indonesia · Indonesian",
+   "mechanism": "Pendulum hypnosis learned from the street hypnotist Tosim",
+   "confidence_flag": "Medium · single source",
+   "summary": "Jai learns hypnosis with a pendulum from the street conman Tosim so that Khadijah, Sodrun's wife, will fall for him. He hypnotises her; she drives her husband Sodrun out of the house, thinking he is Jai, and the trance will break if she hears the tahu bulat seller's call.",
+   "character": "Khadijah (wife of Sodrun); Jai",
+   "provenance": "Indonesian sinetron/FTV deep pass, 15 Oct 2026 PT (adults only)",
+   "note": "",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not stated in the episode synopsis.",
+   "episodes": [
+    "E",
+    "p",
+    " ",
+    "4",
+    "7",
+    "(",
+    "2",
+    "F",
+    "e",
+    "b",
+    "0",
+    "1",
+    "8",
+    ")",
+    ":",
+    "J",
+    "a",
+    "i",
+    "h",
+    "y",
+    "n",
+    "o",
+    "t",
+    "s",
+    "K",
+    "d",
+    "j",
+    "."
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Married to Sodrun; children not stated in the source.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "Fimela: Sinopsis Sodrun Merayu Tuhan Eps 47, Jai Hipnotis Khadijah",
+   "adult": "yes",
+   "format": "tv",
+   "categories": [
+    "love",
+    "cheat-control",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Fimela: Sinopsis Sodrun Merayu Tuhan Eps 47, Jai Hipnotis Khadijah",
+     "url": "https://www.fimela.com/entertainment/read/3250545/sinopsis-sodrun-merayu-tuhan-eps-47-jai-hipnotis-khadijah"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "indonesia-sinetron-oct15"
+   ],
+   "source_records": [
+    "indonesia-sinetron-oct15:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "indonesia-sinetron-oct15:1": {
+     "title": "Sodrun Merayu Tuhan",
+     "year": "2018",
+     "format": "tv",
+     "meta": "Sinetron · SCTV · Indonesia · Indonesian",
+     "mechanism": "Pendulum hypnosis learned from the street hypnotist Tosim",
+     "summary": "Jai learns hypnosis with a pendulum from the street conman Tosim so that Khadijah, Sodrun's wife, will fall for him. He hypnotises her; she drives her husband Sodrun out of the house, thinking he is Jai, and the trance will break if she hears the tahu bulat seller's call.",
+     "character": "Khadijah (wife of Sodrun); Jai",
+     "categories": [
+      "love",
+      "cheat-control",
+      "human"
+     ],
+     "sources": [
+      {
+       "label": "Fimela: Sinopsis Sodrun Merayu Tuhan Eps 47, Jai Hipnotis Khadijah",
+       "url": "https://www.fimela.com/entertainment/read/3250545/sinopsis-sodrun-merayu-tuhan-eps-47-jai-hipnotis-khadijah"
+      }
+     ],
+     "pregnant_end": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Not stated in the episode synopsis.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Married to Sodrun; children not stated in the source.",
+     "evidence": "Fimela: Sinopsis Sodrun Merayu Tuhan Eps 47, Jai Hipnotis Khadijah",
+     "confidence_flag": "Medium · single source",
+     "provenance": "Indonesian sinetron/FTV deep pass, 15 Oct 2026 PT (adults only)",
+     "group": "Indonesian sinetron / FTV deep pass (Oct 2026)",
+     "note": "",
+     "adult": "yes",
+     "episodes": "Ep 47 (2 Feb 2018): Jai hypnotises Khadijah."
+    }
+   }
+  },
+  {
+   "id": 2992,
+   "title": "Inayah",
+   "subtitle": "",
+   "year": "2009",
+   "meta": "Sinetron · Indosiar 2009 (rerun ANTV 2020) · Soraya Intercine Films · Indonesia",
+   "mechanism": "Hypnosis by Pak Sentot, hired by Teddy",
+   "confidence_flag": "Medium-high · 2+ sources",
+   "summary": "In the harem drama about Raden Doso's wives, Teddy has the hypnotist Pak Sentot hypnotise Ajeng: when she is woken she falls unconscious again under hypnosis. In the next episode she escapes and Sentot is blamed for failing.",
+   "character": "Ajeng (Dhea Imut); Teddy; Pak Sentot",
+   "provenance": "Indonesian sinetron/FTV deep pass, 15 Oct 2026 PT (adults only)",
+   "note": "Ajeng is played by adult actress Dhea Imut; her age in the story is not stated.",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not stated for Ajeng.",
+   "episodes": [
+    "A",
+    "N",
+    "T",
+    "V",
+    " ",
+    "r",
+    "e",
+    "u",
+    "n",
+    "p",
+    "1",
+    "5",
+    "4",
+    "(",
+    "S",
+    "2",
+    "0",
+    ")",
+    ":",
+    "h",
+    "y",
+    "o",
+    "t",
+    "i",
+    "s",
+    "d",
+    ";",
+    "c",
+    "a",
+    "."
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated for Ajeng.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "Sisnet TV: Inayah ANTV ep 154 (14 Sep 2020) + Sisnet TV: Inayah ANTV ep 155 (15 Sep 2020) + Wikipedia (Indonesian): Inayah",
+   "adult": "yes",
+   "format": "tv",
+   "categories": [
+    "human",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Sisnet TV: Inayah ANTV ep 154 (14 Sep 2020)",
+     "url": "https://www.sisnettv.com/2020/09/sinopsis-inayah-antv-senin-14-september.html"
+    },
+    {
+     "label": "Sisnet TV: Inayah ANTV ep 155 (15 Sep 2020)",
+     "url": "https://www.sisnettv.com/2020/09/sinopsis-inayah-antv-selasa-15.html"
+    },
+    {
+     "label": "Wikipedia (Indonesian): Inayah",
+     "url": "https://id.wikipedia.org/wiki/Inayah"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "indonesia-sinetron-oct15"
+   ],
+   "source_records": [
+    "indonesia-sinetron-oct15:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "indonesia-sinetron-oct15:2": {
+     "title": "Inayah",
+     "year": "2009",
+     "format": "tv",
+     "meta": "Sinetron · Indosiar 2009 (rerun ANTV 2020) · Soraya Intercine Films · Indonesia",
+     "mechanism": "Hypnosis by Pak Sentot, hired by Teddy",
+     "summary": "In the harem drama about Raden Doso's wives, Teddy has the hypnotist Pak Sentot hypnotise Ajeng: when she is woken she falls unconscious again under hypnosis. In the next episode she escapes and Sentot is blamed for failing.",
+     "character": "Ajeng (Dhea Imut); Teddy; Pak Sentot",
+     "categories": [
+      "human",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "Sisnet TV: Inayah ANTV ep 154 (14 Sep 2020)",
+       "url": "https://www.sisnettv.com/2020/09/sinopsis-inayah-antv-senin-14-september.html"
+      },
+      {
+       "label": "Sisnet TV: Inayah ANTV ep 155 (15 Sep 2020)",
+       "url": "https://www.sisnettv.com/2020/09/sinopsis-inayah-antv-selasa-15.html"
+      },
+      {
+       "label": "Wikipedia (Indonesian): Inayah",
+       "url": "https://id.wikipedia.org/wiki/Inayah"
+      }
+     ],
+     "pregnant_end": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Not stated for Ajeng.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated for Ajeng.",
+     "evidence": "Sisnet TV: Inayah ANTV ep 154 (14 Sep 2020) + Sisnet TV: Inayah ANTV ep 155 (15 Sep 2020) + Wikipedia (Indonesian): Inayah",
+     "confidence_flag": "Medium-high · 2+ sources",
+     "provenance": "Indonesian sinetron/FTV deep pass, 15 Oct 2026 PT (adults only)",
+     "group": "Indonesian sinetron / FTV deep pass (Oct 2026)",
+     "note": "Ajeng is played by adult actress Dhea Imut; her age in the story is not stated.",
+     "adult": "yes",
+     "episodes": "ANTV rerun ep 154 (14 Sep 2020): hypnotised; ep 155: she escapes."
+    }
+   }
+  },
+  {
+   "id": 2993,
+   "title": "Pelet",
+   "subtitle": "",
+   "year": "1987",
+   "meta": "Film · Indonesia · Indonesian · dir. Imam Tantowi",
+   "mechanism": "Pelet love magic through a dukun",
+   "confidence_flag": "Medium · single source",
+   "summary": "At Saraswati's wedding to Pandu, Sam, whom she had rejected, appears. Pandu has an accident, and with a dukun's help Sam 'tames' Saraswati with pelet. Sam's jealous girlfriend Utari uses another dukun to disfigure Saraswati, who is cured by a kyai; Sam is killed by Utari's gang.",
+   "character": "Saraswati (Diah Puri Handayani)",
+   "provenance": "Indonesian sinetron/FTV deep pass, 15 Oct 2026 PT (adults only)",
+   "note": "loose fit: pelet love magic rather than hypnosis.",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not stated.",
+   "kids_status": "no",
+   "kids_note": "Newly married at the start; no children mentioned.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "filmindonesia.or.id: Pelet",
+   "adult": "yes",
+   "format": "movie",
+   "categories": [
+    "tantrik",
+    "love",
+    "cheat-control"
+   ],
+   "sources": [
+    {
+     "label": "filmindonesia.or.id: Pelet",
+     "url": "https://filmindonesia.or.id/film/lf-p005-87-138502"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "indonesia-sinetron-oct15"
+   ],
+   "source_records": [
+    "indonesia-sinetron-oct15:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "indonesia-sinetron-oct15:3": {
+     "title": "Pelet",
+     "year": "1987",
+     "format": "movie",
+     "meta": "Film · Indonesia · Indonesian · dir. Imam Tantowi",
+     "mechanism": "Pelet love magic through a dukun",
+     "summary": "At Saraswati's wedding to Pandu, Sam, whom she had rejected, appears. Pandu has an accident, and with a dukun's help Sam 'tames' Saraswati with pelet. Sam's jealous girlfriend Utari uses another dukun to disfigure Saraswati, who is cured by a kyai; Sam is killed by Utari's gang.",
+     "character": "Saraswati (Diah Puri Handayani)",
+     "categories": [
+      "tantrik",
+      "love",
+      "cheat-control"
+     ],
+     "sources": [
+      {
+       "label": "filmindonesia.or.id: Pelet",
+       "url": "https://filmindonesia.or.id/film/lf-p005-87-138502"
+      }
+     ],
+     "pregnant_end": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Not stated.",
+     "kids_together": "unknown",
+     "kids_status": "no",
+     "kids_note": "Newly married at the start; no children mentioned.",
+     "evidence": "filmindonesia.or.id: Pelet",
+     "confidence_flag": "Medium · single source",
+     "provenance": "Indonesian sinetron/FTV deep pass, 15 Oct 2026 PT (adults only)",
+     "group": "Indonesian sinetron / FTV deep pass (Oct 2026)",
+     "note": "loose fit: pelet love magic rather than hypnosis.",
+     "adult": "yes"
+    }
+   }
+  },
+  {
+   "id": 2994,
+   "title": "Cinta Yasmin",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "Sinetron · RCTI · Indonesia · Indonesian",
+   "mechanism": "Calming hypnosis by Romeo, a doctor who knows hypnosis",
+   "confidence_flag": "Medium · single source",
+   "summary": "When Yasmin panics because Diah has been kidnapped, Romeo, a doctor trained in hypnosis, has her close her eyes, calms her and brings her round, and she is at peace again.",
+   "character": "Yasmin; Romeo",
+   "provenance": "Indonesian sinetron/FTV deep pass, 15 Oct 2026 PT (adults only)",
+   "note": "Mild, consensual calming hypnosis; single source.",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not stated.",
+   "episodes": [
+    "E",
+    "p",
+    " ",
+    "4",
+    "8",
+    "(",
+    "1",
+    "3",
+    "S",
+    "e",
+    "2",
+    "0",
+    ")",
+    "."
+   ],
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "evidence": "Zona Priangan (Pikiran Rakyat): Cinta Yasmin ep 48, 13 Sep 2024",
+   "adult": "yes",
+   "format": "tv",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Zona Priangan (Pikiran Rakyat): Cinta Yasmin ep 48, 13 Sep 2024",
+     "url": "https://zonapriangan.pikiran-rakyat.com/entertainment/pr-468558228/cinta-yasmin-jumat-13-september-yasmin-menemukan-cinta-sejati-setelah-romeo-menghipnosisnya-dengan-tenang"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "indonesia-sinetron-oct15"
+   ],
+   "source_records": [
+    "indonesia-sinetron-oct15:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "indonesia-sinetron-oct15:4": {
+     "title": "Cinta Yasmin",
+     "year": "2024",
+     "format": "tv",
+     "meta": "Sinetron · RCTI · Indonesia · Indonesian",
+     "mechanism": "Calming hypnosis by Romeo, a doctor who knows hypnosis",
+     "summary": "When Yasmin panics because Diah has been kidnapped, Romeo, a doctor trained in hypnosis, has her close her eyes, calms her and brings her round, and she is at peace again.",
+     "character": "Yasmin; Romeo",
+     "categories": [
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Zona Priangan (Pikiran Rakyat): Cinta Yasmin ep 48, 13 Sep 2024",
+       "url": "https://zonapriangan.pikiran-rakyat.com/entertainment/pr-468558228/cinta-yasmin-jumat-13-september-yasmin-menemukan-cinta-sejati-setelah-romeo-menghipnosisnya-dengan-tenang"
+      }
+     ],
+     "pregnant_end": "unknown",
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "Not stated.",
+     "kids_together": "unknown",
+     "kids_status": "unknown",
+     "kids_note": "Not stated.",
+     "evidence": "Zona Priangan (Pikiran Rakyat): Cinta Yasmin ep 48, 13 Sep 2024",
+     "confidence_flag": "Medium · single source",
+     "provenance": "Indonesian sinetron/FTV deep pass, 15 Oct 2026 PT (adults only)",
+     "group": "Indonesian sinetron / FTV deep pass (Oct 2026)",
+     "note": "Mild, consensual calming hypnosis; single source.",
+     "adult": "yes",
+     "episodes": "Ep 48 (13 Sep 2024)."
+    }
+   }
   }
  ],
  "sections": [
@@ -443316,7 +443786,8 @@ window.CATALOG = {
     "fanwiki-screen-oct14",
     "new-angles-oct15",
     "indian-parallel-oct15",
-    "hypnotized-female-oct15"
+    "hypnotized-female-oct15",
+    "indonesia-sinetron-oct15"
    ],
    "groups": [
     {
@@ -447342,6 +447813,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnotized-female-oct15"
+    },
+    {
+     "title": "Indonesian sinetron / FTV deep pass (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2992,
+       "from_source": "indonesia-sinetron-oct15"
+      },
+      {
+       "id": 2991,
+       "from_source": "indonesia-sinetron-oct15"
+      }
+     ],
+     "from_source": "indonesia-sinetron-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -447363,7 +447849,8 @@ window.CATALOG = {
     "fanwiki-screen-oct14": null,
     "new-angles-oct15": null,
     "indian-parallel-oct15": null,
-    "hypnotized-female-oct15": null
+    "hypnotized-female-oct15": null,
+    "indonesia-sinetron-oct15": null
    }
   },
   {
@@ -448615,7 +449102,8 @@ window.CATALOG = {
     "hypnosis-assault",
     "hypnosis-assault-loose",
     "round2",
-    "round3"
+    "round3",
+    "indonesia-sinetron-oct15"
    ],
    "groups": [
     {
@@ -449027,6 +449515,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "round3"
+    },
+    {
+     "title": "Indonesian sinetron / FTV deep pass (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2993,
+       "from_source": "indonesia-sinetron-oct15"
+      },
+      {
+       "id": 2991,
+       "from_source": "indonesia-sinetron-oct15"
+      }
+     ],
+     "from_source": "indonesia-sinetron-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -449039,7 +449542,8 @@ window.CATALOG = {
     "hypnosis-assault": null,
     "hypnosis-assault-loose": null,
     "round2": null,
-    "round3": null
+    "round3": null,
+    "indonesia-sinetron-oct15": null
    }
   },
   {
@@ -449993,7 +450497,8 @@ window.CATALOG = {
     "royal-hypnosis-loose",
     "round3",
     "fanwiki-screen-oct14",
-    "hypnotized-female-oct15"
+    "hypnotized-female-oct15",
+    "indonesia-sinetron-oct15"
    ],
    "groups": [
     {
@@ -451911,6 +452416,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnotized-female-oct15"
+    },
+    {
+     "title": "Indonesian sinetron / FTV deep pass (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2993,
+       "from_source": "indonesia-sinetron-oct15"
+      },
+      {
+       "id": 2991,
+       "from_source": "indonesia-sinetron-oct15"
+      }
+     ],
+     "from_source": "indonesia-sinetron-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -451928,7 +452448,8 @@ window.CATALOG = {
     "royal-hypnosis-loose": null,
     "round3": null,
     "fanwiki-screen-oct14": null,
-    "hypnotized-female-oct15": null
+    "hypnotized-female-oct15": null,
+    "indonesia-sinetron-oct15": null
    }
   },
   {
@@ -453753,7 +454274,8 @@ window.CATALOG = {
     "new-angles-oct15",
     "official-yt-oct15",
     "streaming-oct15",
-    "indian-parallel-oct15"
+    "indian-parallel-oct15",
+    "indonesia-sinetron-oct15"
    ],
    "groups": [
     {
@@ -454909,6 +455431,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "indian-parallel-oct15"
+    },
+    {
+     "title": "Indonesian sinetron / FTV deep pass (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2994,
+       "from_source": "indonesia-sinetron-oct15"
+      }
+     ],
+     "from_source": "indonesia-sinetron-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -454932,7 +455465,8 @@ window.CATALOG = {
     "new-angles-oct15": null,
     "official-yt-oct15": null,
     "streaming-oct15": null,
-    "indian-parallel-oct15": null
+    "indian-parallel-oct15": null,
+    "indonesia-sinetron-oct15": null
    }
   },
   {
@@ -472555,7 +473089,8 @@ window.CATALOG = {
     "recap-imdb-oct15",
     "official-yt-oct15",
     "streaming-oct15",
-    "hypnotized-female-oct15"
+    "hypnotized-female-oct15",
+    "indonesia-sinetron-oct15"
    ],
    "groups": [
     {
@@ -473062,6 +473597,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnotized-female-oct15"
+    },
+    {
+     "title": "Indonesian sinetron / FTV deep pass (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2993,
+       "from_source": "indonesia-sinetron-oct15"
+      }
+     ],
+     "from_source": "indonesia-sinetron-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -473074,7 +473620,8 @@ window.CATALOG = {
     "recap-imdb-oct15": null,
     "official-yt-oct15": null,
     "streaming-oct15": null,
-    "hypnotized-female-oct15": null
+    "hypnotized-female-oct15": null,
+    "indonesia-sinetron-oct15": null
    }
   },
   {
@@ -476004,7 +476551,8 @@ window.CATALOG = {
     "hypnosis-assault-loose",
     "widow-divorcee-oct14b",
     "recheck-oct14",
-    "hypnotized-female-oct15"
+    "hypnotized-female-oct15",
+    "indonesia-sinetron-oct15"
    ],
    "groups": [
     {
@@ -477592,6 +478140,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnotized-female-oct15"
+    },
+    {
+     "title": "Indonesian sinetron / FTV deep pass (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 2992,
+       "from_source": "indonesia-sinetron-oct15"
+      }
+     ],
+     "from_source": "indonesia-sinetron-oct15"
     }
    ],
    "declared_count_by_source": {
@@ -477604,7 +478163,8 @@ window.CATALOG = {
     "hypnosis-assault-loose": null,
     "widow-divorcee-oct14b": null,
     "recheck-oct14": null,
-    "hypnotized-female-oct15": null
+    "hypnotized-female-oct15": null,
+    "indonesia-sinetron-oct15": null
    }
   },
   {

@@ -1,0 +1,194 @@
+{
+ "id": "indonesia-sinetron-oct15",
+ "label": "Indonesian sinetron / FTV deep pass (15 Oct 2026)",
+ "group_title": "Indonesian sinetron / FTV deep pass (Oct 2026)",
+ "description": "Deep Indonesian-language pass (hipnotis, dihipnotis, gendam, pelet, guna-guna, santet, pengasihan) over sinetron, FTV and films on Indonesian Wikipedia, broadcaster and news synopsis sites. Adults only; pelet entries marked loose fit; three pregnancy/kids fields on each card.",
+ "records": [
+  {
+   "title": "Sodrun Merayu Tuhan",
+   "year": "2018",
+   "format": "tv",
+   "meta": "Sinetron · SCTV · Indonesia · Indonesian",
+   "mechanism": "Pendulum hypnosis learned from the street hypnotist Tosim",
+   "summary": "Jai learns hypnosis with a pendulum from the street conman Tosim so that Khadijah, Sodrun's wife, will fall for him. He hypnotises her; she drives her husband Sodrun out of the house, thinking he is Jai, and the trance will break if she hears the tahu bulat seller's call.",
+   "character": "Khadijah (wife of Sodrun); Jai",
+   "categories": [
+    "love",
+    "cheat-control",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Fimela: Sinopsis Sodrun Merayu Tuhan Eps 47, Jai Hipnotis Khadijah",
+     "url": "https://www.fimela.com/entertainment/read/3250545/sinopsis-sodrun-merayu-tuhan-eps-47-jai-hipnotis-khadijah"
+    }
+   ],
+   "pregnant_end": "unknown",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not stated in the episode synopsis.",
+   "kids_together": "unknown",
+   "kids_status": "unknown",
+   "kids_note": "Married to Sodrun; children not stated in the source.",
+   "evidence": "Fimela: Sinopsis Sodrun Merayu Tuhan Eps 47, Jai Hipnotis Khadijah",
+   "confidence_flag": "Medium · single source",
+   "provenance": "Indonesian sinetron/FTV deep pass, 15 Oct 2026 PT (adults only)",
+   "group": "Indonesian sinetron / FTV deep pass (Oct 2026)",
+   "note": "",
+   "adult": "yes",
+   "episodes": "Ep 47 (2 Feb 2018): Jai hypnotises Khadijah."
+  },
+  {
+   "title": "Inayah",
+   "year": "2009",
+   "format": "tv",
+   "meta": "Sinetron · Indosiar 2009 (rerun ANTV 2020) · Soraya Intercine Films · Indonesia",
+   "mechanism": "Hypnosis by Pak Sentot, hired by Teddy",
+   "summary": "In the harem drama about Raden Doso's wives, Teddy has the hypnotist Pak Sentot hypnotise Ajeng: when she is woken she falls unconscious again under hypnosis. In the next episode she escapes and Sentot is blamed for failing.",
+   "character": "Ajeng (Dhea Imut); Teddy; Pak Sentot",
+   "categories": [
+    "human",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Sisnet TV: Inayah ANTV ep 154 (14 Sep 2020)",
+     "url": "https://www.sisnettv.com/2020/09/sinopsis-inayah-antv-senin-14-september.html"
+    },
+    {
+     "label": "Sisnet TV: Inayah ANTV ep 155 (15 Sep 2020)",
+     "url": "https://www.sisnettv.com/2020/09/sinopsis-inayah-antv-selasa-15.html"
+    },
+    {
+     "label": "Wikipedia (Indonesian): Inayah",
+     "url": "https://id.wikipedia.org/wiki/Inayah"
+    }
+   ],
+   "pregnant_end": "unknown",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not stated for Ajeng.",
+   "kids_together": "unknown",
+   "kids_status": "unknown",
+   "kids_note": "Not stated for Ajeng.",
+   "evidence": "Sisnet TV: Inayah ANTV ep 154 (14 Sep 2020) + Sisnet TV: Inayah ANTV ep 155 (15 Sep 2020) + Wikipedia (Indonesian): Inayah",
+   "confidence_flag": "Medium-high · 2+ sources",
+   "provenance": "Indonesian sinetron/FTV deep pass, 15 Oct 2026 PT (adults only)",
+   "group": "Indonesian sinetron / FTV deep pass (Oct 2026)",
+   "note": "Ajeng is played by adult actress Dhea Imut; her age in the story is not stated.",
+   "adult": "yes",
+   "episodes": "ANTV rerun ep 154 (14 Sep 2020): hypnotised; ep 155: she escapes."
+  },
+  {
+   "title": "Pelet",
+   "year": "1987",
+   "format": "movie",
+   "meta": "Film · Indonesia · Indonesian · dir. Imam Tantowi",
+   "mechanism": "Pelet love magic through a dukun",
+   "summary": "At Saraswati's wedding to Pandu, Sam, whom she had rejected, appears. Pandu has an accident, and with a dukun's help Sam 'tames' Saraswati with pelet. Sam's jealous girlfriend Utari uses another dukun to disfigure Saraswati, who is cured by a kyai; Sam is killed by Utari's gang.",
+   "character": "Saraswati (Diah Puri Handayani)",
+   "categories": [
+    "tantrik",
+    "love",
+    "cheat-control"
+   ],
+   "sources": [
+    {
+     "label": "filmindonesia.or.id: Pelet",
+     "url": "https://filmindonesia.or.id/film/lf-p005-87-138502"
+    }
+   ],
+   "pregnant_end": "unknown",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not stated.",
+   "kids_together": "unknown",
+   "kids_status": "no",
+   "kids_note": "Newly married at the start; no children mentioned.",
+   "evidence": "filmindonesia.or.id: Pelet",
+   "confidence_flag": "Medium · single source",
+   "provenance": "Indonesian sinetron/FTV deep pass, 15 Oct 2026 PT (adults only)",
+   "group": "Indonesian sinetron / FTV deep pass (Oct 2026)",
+   "note": "loose fit: pelet love magic rather than hypnosis.",
+   "adult": "yes"
+  },
+  {
+   "title": "Cinta Yasmin",
+   "year": "2024",
+   "format": "tv",
+   "meta": "Sinetron · RCTI · Indonesia · Indonesian",
+   "mechanism": "Calming hypnosis by Romeo, a doctor who knows hypnosis",
+   "summary": "When Yasmin panics because Diah has been kidnapped, Romeo, a doctor trained in hypnosis, has her close her eyes, calms her and brings her round, and she is at peace again.",
+   "character": "Yasmin; Romeo",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Zona Priangan (Pikiran Rakyat): Cinta Yasmin ep 48, 13 Sep 2024",
+     "url": "https://zonapriangan.pikiran-rakyat.com/entertainment/pr-468558228/cinta-yasmin-jumat-13-september-yasmin-menemukan-cinta-sejati-setelah-romeo-menghipnosisnya-dengan-tenang"
+    }
+   ],
+   "pregnant_end": "unknown",
+   "pregnancy_outcome": "unknown",
+   "pregnancy_note": "Not stated.",
+   "kids_together": "unknown",
+   "kids_status": "unknown",
+   "kids_note": "Not stated.",
+   "evidence": "Zona Priangan (Pikiran Rakyat): Cinta Yasmin ep 48, 13 Sep 2024",
+   "confidence_flag": "Medium · single source",
+   "provenance": "Indonesian sinetron/FTV deep pass, 15 Oct 2026 PT (adults only)",
+   "group": "Indonesian sinetron / FTV deep pass (Oct 2026)",
+   "note": "Mild, consensual calming hypnosis; single source.",
+   "adult": "yes",
+   "episodes": "Ep 48 (13 Sep 2024)."
+  }
+ ],
+ "dropped": [
+  {
+   "title": "Dendam Nyi Pelet (Indosiar 2001–04)",
+   "reason": "no plot or episode synopsis found showing a woman under pelet"
+  },
+  {
+   "title": "Misteri Nini Pelet (SCTV 2001–02)",
+   "reason": "Wikipedia gives cast only; no plot found"
+  },
+  {
+   "title": "FTV SCTV 'Pelet Cinta di Tambak Ikan' (2016)",
+   "reason": "Vidio title only; no synopsis"
+  },
+  {
+   "title": "Indra Ketujuh (ANTV) ep 32",
+   "reason": "clip title only; episode synopsis does not mention pelet"
+  },
+  {
+   "title": "Magic 5 (Indosiar)",
+   "reason": "already in catalog; the hypnotist is a teen"
+  },
+  {
+   "title": "Luka Cinta (2024) ep 83",
+   "reason": "hypnotherapy subject is a man (William)"
+  },
+  {
+   "title": "TOP: Tukang Ojek Pengkolan",
+   "reason": "hypnotised character is a man (Tisna)"
+  },
+  {
+   "title": "Joko Anwar's Nightmares and Daydreams 'Hypnotized'",
+   "reason": "already in catalog"
+  },
+  {
+   "title": "Guna-Guna Istri Muda (2024)",
+   "reason": "already in catalog"
+  },
+  {
+   "title": "Suara Hati Istri (Indosiar)",
+   "reason": "no pelet / hypnosis episode found in synopses"
+  },
+  {
+   "title": "Menembus Mata Batin ep 271 'Kak Erna kena pelet'",
+   "reason": "series already in catalog; clip title only"
+  },
+  {
+   "title": "Cahaya Cinta (ANTV) ep 29",
+   "reason": "the wife uses pelet on her husband; no woman entranced"
+  }
+ ]
+}
