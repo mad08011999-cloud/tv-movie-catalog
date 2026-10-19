@@ -45880,7 +45880,7 @@
   {
    "kept_id": 3277,
    "kept": "Days of Our Lives — Cat Greene hypnosis (2026) (2026)",
-   "scope": "within-source",
+   "scope": "cross-source",
    "members": [
     {
      "rid": "deep-refresh-oct18:28",
@@ -45890,6 +45890,13 @@
     },
     {
      "rid": "deep-refresh-oct18:44",
+     "title": "Days of Our Lives — Cat Greene hypnosis (2026)",
+     "subtitle": "",
+     "year": "2026",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "weekly-oct19:4",
      "title": "Days of Our Lives — Cat Greene hypnosis (2026)",
      "subtitle": "",
      "year": "2026",
@@ -46837,11 +46844,12 @@
   "pregnancy-yt-oct15": 50,
   "hypnosis-yt-oct15": 16,
   "youtube-india-oct15": 23,
-  "deep-refresh-oct18": 97
+  "deep-refresh-oct18": 97,
+  "weekly-oct19": 4
  },
- "entry_count_after_dedupe": 3206,
- "within_source_groups": 7,
- "cross_source_groups": 1907,
+ "entry_count_after_dedupe": 3209,
+ "within_source_groups": 6,
+ "cross_source_groups": 1908,
  "index_only_records": 59,
- "local_only_records": 907
+ "local_only_records": 910
 }

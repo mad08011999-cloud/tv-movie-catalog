@@ -1,0 +1,242 @@
+{
+ "id": "weekly-oct19",
+ "label": "Weekly sweep (19 Oct 2026)",
+ "group_title": "Weekly sweep — 19 Oct 2026",
+ "description": "Weekly routine sweep, 19 Oct 2026 PT. Adult women hypnotised, under vashikaran or mind-controlled in titles newly aired or newly listed between about 12 and 19 Oct 2026. Covers official YouTube channels (Colors, Sony, Star, Zee, ETV and others), Indian OTT, Netflix/Prime/Peacock, X, theatrical releases and regional VOD. Adults only; notes are non-explicit. Each record cites the channel or platform with a direct link.",
+ "category_labels": {},
+ "records": [
+  {
+   "title": "Street Fighter",
+   "year": "2026",
+   "format": "movie",
+   "meta": "Film · USA/Japan · English · Paramount Pictures / Legendary · dir. Kitao Sakurai · theatrical release 16 Oct 2026 · BBFC 12A",
+   "character": "Cammy (Mel Jarnson)",
+   "summary": "In this live-action adaptation, Cammy is M. Bison's right hand and one of his brainwashed 'Dolls'. The actress has said this Cammy is mind-controlled like the other Dolls. The film shows little of the conditioning on screen.",
+   "hypnotist": "M. Bison (Shadaloo)",
+   "method": "Brainwashing / mind control ('Dolls' programme)",
+   "mechanism": "Brainwashing",
+   "gain_motive": [
+    "other (loyal soldier)"
+   ],
+   "categories": [
+    "forced-obedience",
+    "human"
+   ],
+   "fit": "loose",
+   "tags": [
+    "loose fit",
+    "weekly-oct19"
+   ],
+   "already_married": "unknown",
+   "pregnant_end": "not stated",
+   "pregnancy_note": "Not stated in sources.",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "kids_note": "Not stated in sources.",
+   "sources": [
+    {
+     "label": "Paramount Pictures — official Street Fighter site",
+     "url": "https://www.streetfightermovie.com/"
+    },
+    {
+     "label": "Kotaku — who was that in the Street Fighter movie (Cammy)",
+     "url": "https://kotaku.com/who-the-hell-was-that-in-the-street-fighter-movie-because-it-wasnt-cammy-2000746822"
+    },
+    {
+     "label": "GamersExtra — Cammy reinvention",
+     "url": "https://gamersextra.com/news/street-fighter-fans-are-questioning-the-movie-s-radical-cammy-reinvention/"
+    },
+    {
+     "label": "Wikipedia — Street Fighter (2026 film)",
+     "url": "https://en.wikipedia.org/wiki/Street_Fighter_(2026_film)"
+    }
+   ],
+   "evidence": "Official site and wiki for release; press articles and actress interview for the brainwashed-Doll characterisation",
+   "confidence_flag": "Medium · loose fit (brainwashing mostly implied on screen)",
+   "provenance": "Weekly sweep, 19 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "note": "Loose fit: Cammy's mind control is part of the backstory and barely depicted on screen."
+  },
+  {
+   "title": "Ketok Palu — \"Dukun Palsu Dituntut! Modus Hipnotis Bikin Heboh Sidang\" (Episode 22)",
+   "year": "2012",
+   "format": "tv",
+   "meta": "Comedy courtroom sketch show · Indonesia · Indonesian · Episode 22 (dated 22 Jan 2012) · newly listed on Seven Hub VOD in Oct 2026",
+   "character": "Meriam Bellina (as herself / the victim)",
+   "summary": "In this mock-courtroom comedy, a fake shaman (dukun palsu) is put on trial. The episode blurb warns 'don't look into his eyes!': because of his hypnosis, Meriam Bellina gave all her wealth to Epi Kusnandar after just two touches.",
+   "hypnotist": "Fake shaman (Epi Kusnandar)",
+   "method": "Hypnosis (gaze and touch)",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "money"
+   ],
+   "categories": [
+    "index-49",
+    "human",
+    "index-62"
+   ],
+   "fit": "loose",
+   "tags": [
+    "loose fit",
+    "comedy",
+    "weekly-oct19"
+   ],
+   "episodes": [
+    {
+     "episode": "Episode 22",
+     "air_date": "2012-01-22",
+     "title": "Dukun Palsu Dituntut! Modus Hipnotis Bikin Heboh Sidang",
+     "gist": "Meriam Bellina, hypnotised by a fake shaman, hands over all her wealth; the case goes to the comedy court.",
+     "number_verified": true
+    }
+   ],
+   "already_married": "unknown",
+   "pregnant_end": "not stated",
+   "pregnancy_note": "Not stated in the listing.",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "kids_note": "Not stated in the listing.",
+   "sources": [
+    {
+     "label": "Seven Hub (VOD) — Ketok Palu Episode 22",
+     "url": "https://sevenhub.id/vod/video/dukun-palsu-dituntut-modus-hipnotis-bikin-heboh-sidang"
+    }
+   ],
+   "evidence": "Platform episode page: title plus synopsis ('Gara-gara hipnotis, Meriam Bellina memberikan seluruh hartanya ke Epi Kusnandar hanya dengan 2 sentuhan saja')",
+   "confidence_flag": "Single source · flag",
+   "provenance": "Weekly sweep, 19 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "note": "Loose fit: a comedy sketch. Not watched; based on the platform synopsis.",
+   "standalone": true
+  },
+  {
+   "title": "CID — Jungle Ka Darinda (Shreya & Tarika mind-controlled)",
+   "year": "2013",
+   "format": "tv",
+   "meta": "India · Hindi · Sony TV / Sony LIV · two-part case, Part 2 aired 14 Jul 2013",
+   "character": "Shreya; Dr Tarika",
+   "summary": "Scientist Dr Abhinav Prakash fakes his death and injects people with a green mutagen. Inspector Shreya and then forensic expert Dr Tarika fall under its control: entranced and green-eyed, they obey his orders and attack their CID colleagues until an antidote restores them.",
+   "hypnotist": "Dr Abhinav Prakash (rogue scientist)",
+   "method": "Injected mutagen / serum mind control",
+   "mechanism": "Drug / serum control",
+   "gain_motive": [
+    "revenge"
+   ],
+   "categories": [
+    "tech",
+    "forced-obedience",
+    "india-control"
+   ],
+   "fit": "good",
+   "tags": [
+    "weekly-oct19"
+   ],
+   "episodes": [
+    {
+     "episode": "Jungle Ka Darinda — Part 2",
+     "air_date": "2013-07-14",
+     "gist": "Shreya and Tarika are under the mutagen's control and turn on the team; the antidote frees them.",
+     "number_verified": false
+    }
+   ],
+   "already_married": "unknown",
+   "already_married_note": "Not stated.",
+   "pregnant_end": "not stated",
+   "pregnancy_note": "Not stated.",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "kids_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Sony LIV — CID: Jungle Ka Darinda (Part 2)",
+     "url": "https://www.sonyliv.com/shows/cid-1700000196/jungle-ka-darinda-part-2-1000043937"
+    },
+    {
+     "label": "India Forums episode write-up (14 Jul 2013)",
+     "url": "https://www.indiaforums.com/forum/cid/3666069/wu-jungle-ka-darinda-ii-14th-july-2013"
+    },
+    {
+     "label": "YouTube clip (Crime pe Charcha, uploaded 13 Oct 2026)",
+     "url": "https://www.youtube.com/watch?v=dx55Zo3kasw"
+    }
+   ],
+   "evidence": "Sony LIV episode page and a detailed fan write-up. A YouTube clip uploaded this week brought it up in the sweep.",
+   "confidence_flag": "Medium · 2+ sources",
+   "provenance": "Weekly sweep, 19 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "note": "Surfaced via a clip re-uploaded this week; the episode itself is from 2013.",
+   "standalone": true
+  },
+  {
+   "title": "Days of Our Lives — Cat Greene hypnosis (2026)",
+   "year": "2026",
+   "format": "tv",
+   "meta": "Soap opera · USA · Peacock",
+   "character": "Cat Greene (AnnaLynne McCord)",
+   "summary": "Dr Marlena Evans hypnotises Cat to recover memories of her time at an Italian clinic with a bandaged EJ DiMera. In the 13 Oct 2026 session Cat opens up about EJ, and Marlena asks whether she is really falling for him.",
+   "hypnotist": "Dr Marlena Evans (therapeutic)",
+   "method": "Hypnosis sessions",
+   "categories": [
+    "medical"
+   ],
+   "fit": "loose",
+   "tags": [
+    "loose fit",
+    "weekly-oct19"
+   ],
+   "episodes": [
+    {
+     "episode": "13 Oct 2026",
+     "air_date": "2026-10-13",
+     "gist": "Follow-up hypnosis session: Cat talks about EJ and her ISA cover; she balks when Marlena suggests she has feelings for him.",
+     "number_verified": false
+    }
+   ],
+   "pregnant_end": "no",
+   "kids_status": "no",
+   "kids_together": "no",
+   "sources": [
+    {
+     "label": "Peacock — Days of our Lives",
+     "url": "https://www.peacocktv.com/stream-tv/days-of-our-lives"
+    },
+    {
+     "label": "Soap Central — DAYS video preview 12–16 Oct 2026",
+     "url": "https://www.soapcentral.com/days-of-our-lives/news-days-video-preview-october-12-16-sophia-s-return-ej-s-reveal-joy-s-dirty-tricks"
+    },
+    {
+     "label": "Soaps.com (SheKnows) recap, 13 Oct 2026",
+     "url": "https://soaps.sheknows.com/days-of-our-lives/recaps/847504/tuesday-xander-philip-save-mansion/"
+    }
+   ],
+   "evidence": "Weekly preview ('Cat undergoes hypnosis again') plus the episode recap for 13 Oct 2026",
+   "confidence_flag": "Medium · 2 sources",
+   "provenance": "Weekly sweep, 19 Oct 2026 PT (adults only; non-explicit notes)",
+   "adult": "no",
+   "note": "Adds the newly aired 13 Oct 2026 session to the existing card. Loose fit: consensual therapeutic hypnosis."
+  }
+ ],
+ "dropped": [
+  "Naagin S4 Colors TV clips uploaded 12–13 Oct 2026 (Shalakha's spell on Brinda, idwgI2aBD7I): duplicate of existing Naagin 4 card (memory-altering spell on Brinda); the other S4 clips have Dev (male) under Shalakha's spell",
+  "Mannat (Colors): the hypnotised character Dua is a child — excluded",
+  "Kyunki Saas Bhi Kabhi Bahu Thi 2: Mihir (male) hypnotised by a doctor — male target",
+  "Na Umra Ki Seema Ho Ep 84: Maithili hypnotises Abhay (male) — male target",
+  "Vampire Carnival: already in catalog",
+  "Inspector Rex 'Under Hypnosis': already in catalog",
+  "Carrie (2026, Prime Video): teen protagonist — excluded",
+  "Evil Dead Burn (Netflix, 16 Oct 2026): demonic possession, not hypnosis/mind control; no verified Netflix title URL",
+  "Naagin 2 Colors clip YL1I5mmqn2c: only a plan to hypnotise Shesha; the actual hypnosis is of Rocky (male); Ruchika storyline already in catalog",
+  "Apsara (StarPlus, premieres 21 Oct 2026): captivity not shown as mind control; outside window",
+  "Chinese short drama '被催眠遺忘親生骨肉' (reupload channel): official title/platform unidentified",
+  "Crime Alert / Andhvishwas (JioHotstar, 2 Oct 2026): godman manipulation, outside window",
+  "A Doctor to Die For (Lifetime, 3 Oct 2026): drugging; outside window",
+  "Japanese drama 憧れの作家は人間じゃありませんでした (Oct 2026): vampire hypnosis but no adult woman target confirmed",
+  "どうも、好きな人に惚れ薬を依頼された魔女です: no control of a woman confirmed",
+  "Divya Prem Ep 459: no hypnosis confirmed",
+  "Andala Rakshasi (ETV Telugu) Ep 395: 'mesmerised by beauty' only — not hypnosis",
+  "Old Filipino teleseryes resurfaced by an X archive account (Mulawin, Krystala, Mga Mata ni Anghelita, Illumina): not newly aired/listed",
+  "Anonymous 'Hypnosis Revealed A Terrifying Secret' reupload: unidentifiable source title",
+  "Kanojo Saimin (school setting) and SORA-649 (explicit AV): excluded",
+  "Past Life: male target"
+ ]
+}
