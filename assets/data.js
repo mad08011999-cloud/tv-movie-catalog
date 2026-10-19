@@ -4810,10 +4810,17 @@ window.CATALOG = {
     "The Love of Hypnosis (no control of woman); Diagnosis Murder Delusions, Hypnotized 2004, Parasomnia, Fatih di Kampung Jawara, Bloody Sect, You Shouldn't Have Let Me In, Save Me (dups); Kanojo Saimin OVA 2026 (schoolgirls); hypnobirth newsreels (non-fiction); UZU-024 (explicit AV)",
     "Sıfır Dediğimde, Guna-Guna Istri Muda, Brittas Empire, Mrs Brown's Boys, Zwei Mütter, Diana Salazar, Double Parked (dups); Kanojo Saimin (school); Princess Arete (princess age unclear/young); Nuevo Amores de Mercado (male hypnotized); Upaay (wife controls husband); Antique (no control); azab animation (wife uses pelet on husband)",
     "Ultrasound, Parasomnia, Valley of the Zombies, Weapons, Sasural Simar Ka, The Hypnosis (dups); Bride for a Vampire 2025 (no synopsis); Electric Child (no control); Virgin Punk (no plot verified); Oh My Wife (spirit possesses husband); Firangi Bahu (not controlling woman); UZU-014 (explicit AV); The Woman 2025 (no hypnosis)",
-    "A Caverna Encantada (SBT children's novela, child characters); Assisted Living Atrocious Hypnosis (male); RHOP Juan Dixon (reality, male); Whirlpool, Perfumer, Sihir Isteri (dups); Susuk Rupawan (woman uses black magic herself); 蛊王妃 (heroine uses gu); Cult of the Family (documentary); Kamakshi (witch preys on men); Doctor Bahu (no magic); Güzel Aşklar Diyarı (no spell/control confirmed)"
+    "A Caverna Encantada (SBT children's novela, child characters); Assisted Living Atrocious Hypnosis (male); RHOP Juan Dixon (reality, male); Whirlpool, Perfumer, Sihir Isteri (dups); Susuk Rupawan (woman uses black magic herself); 蛊王妃 (heroine uses gu); Cult of the Family (documentary); Kamakshi (witch preys on men); Doctor Bahu (no magic); Güzel Aşklar Diyarı (no spell/control confirmed)",
+    "Pemikat Jiwa, The Surrogate 2026, Pluribus, Tempting Fate (dups); Pelet Biduan Jalang (target of pelet unclear); NTR Knight (explicit hentai); Beneath the Cosmic Waves (podcast); Return to the Palace (no woman controlled); Other Mommy (child protagonist); Fixation (unproduced screenplay); Fatal Desires/Desire 2026 (no control); Bangla natoks Ottachari Bou/Shat Din (no control)",
+    "Friends hypnosis tape (male); Mrs Brown's Boys, The Hunger, Daughters of Darkness, Vampyros Lesbos, Hypnotic Thai, Love Letters (dups); Carmilla 2019 (teen); Dancing on the Grave (true-crime docuseries); Saving Hope Great Randall (patient gender unverified); Bitter Sweet Hell (husband manipulated); Hypnosis CinePrime (no hypnosis in synopsis); Perfect Strangers King and I (male)",
+    "Sisters 1973, Goku Midnight Eye, Rosemary's Baby, Blood Spattered Bride, Black Magic, Smallville Hypnotic, The Mentalist, The Hypnotized (dups); Mesmerized 1985 (bride hypnotizes husband: male target); Becoming Witch (no control); Our Father 2022 (documentary); He Can Hear His Wife's Inner Voice (mind-reading, not control); Belladonna of Sadness (sexual-violence focus, devil pact by choice; skipped); Transcorporation (documentary)",
+    "Sleep My Love, The Love by Hypnotic, Hypnotic 2021, Dead Ringers, Double Parked, Hypnotized 2004, In Utero (dups); Bewitched Very Special Delivery (spell on Darrin, male); Dick Van Dyke drunk (male); Panor 2025 (protagonist's childhood/classmates; curse not control); Audible Dracula 2026 (audio drama, not screen); Ghost of Love (no control); Woman Being Controlled by a Remote Control (adult short, unverified); In Her Mother's Footsteps (single thin listing, skipped)",
+    "Chhorii, Prem Ya Paheli–Chandrakanta, Baan Bussaba Ban, A Private Life, The Hypnotist 2012, Beneath the Hypnosis, The Puppet 2025 (dups); Eris no Seihai (16-yr-old heroine); Kimagure Orange Road ep39 (high-school Madoka); Mujhe Khuda Pay Yaqeen Hai (husband targeted); The Demoness (control of woman unconfirmed); Hypnotic 2023 (daughter is child); The Wrong Womb, Garbhdaan (plots unverified)",
+    "Dick Van Dyke drunk, Flintstones Hypnotist (male targets); The Climax, The Magician, Dr Mabuse films, Nuer Mek 2, Ngin Pak Pee, Brides of Dracula, Svengali, Ultrasound (dups); Please Don't Eat the Daisies (husband healed); Million Pound Shaman Scam (documentary); Maharani (no vashikaran); Benjamin short (surrogacy only, unverified); Dainee (witch-hunt, no control); Nishir Daak/Bhog (possession details unverified)",
+    "The Seed (dup 1744), Progeny, Demon Seed, Mask of Diijon, Please Don't Touch Me, Wanda the Sadistic Hypnotist, Lucifer's Women, Reverse 2026, Lily's Ritual (dups/just added); How to Seduce Women Through Hypnosis 1992 (adult instructional video); Suzanne's Hypnosis (unverified); O-Girl (obscure, unverified); The Air (no spell control); hypnosis anime OVAs (school/explicit); GoodShort necklace drama (title unidentified); Alien Seed (unverified)"
    ],
    "check": {
-    "raw_count": 57,
+    "raw_count": 75,
     "ok": true
    },
    "status": "local"
@@ -4879,10 +4886,10 @@ window.CATALOG = {
   "pregnancy-yt-oct15": 50,
   "hypnosis-yt-oct15": 16,
   "youtube-india-oct15": 23,
-  "deep-refresh-oct18": 57
+  "deep-refresh-oct18": 75
  },
- "raw_total": 6173,
- "entry_count": 3167,
+ "raw_total": 6191,
+ "entry_count": 3185,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4900,7 +4907,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 296
+   "entry_count": 298
   },
   {
    "key": "walkin",
@@ -4924,13 +4931,13 @@ window.CATALOG = {
    "key": "cult",
    "label": "Cult / coercive brainwashing",
    "legend_label": "Cult / coercive brainwashing",
-   "entry_count": 39
+   "entry_count": 42
   },
   {
    "key": "occult",
    "label": "Demonic / occult control",
    "legend_label": "Demonic / occult control",
-   "entry_count": 115
+   "entry_count": 117
   },
   {
    "key": "devil-deal-pregnancy-hypnosis",
@@ -4948,7 +4955,7 @@ window.CATALOG = {
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 59
+   "entry_count": 60
   },
   {
    "key": "fantasy",
@@ -4966,13 +4973,13 @@ window.CATALOG = {
    "key": "partner-control",
    "label": "Female controlled by husband / boyfriend / ex-partner",
    "legend_label": "Female controlled by husband / boyfriend / ex-partner",
-   "entry_count": 49
+   "entry_count": 52
   },
   {
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 214
+   "entry_count": 215
   },
   {
    "key": "hypnotized-to-marry",
@@ -4984,7 +4991,7 @@ window.CATALOG = {
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 192
+   "entry_count": 193
   },
   {
    "key": "index-56",
@@ -5014,7 +5021,7 @@ window.CATALOG = {
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 106
+   "entry_count": 107
   },
   {
    "key": "index-54",
@@ -5050,7 +5057,7 @@ window.CATALOG = {
    "key": "royal-hypnosis",
    "label": "Hypnotized queen/princess for marriage or the throne",
    "legend_label": "Hypnotized queen / princess",
-   "entry_count": 53
+   "entry_count": 55
   },
   {
    "key": "love",
@@ -5074,7 +5081,7 @@ window.CATALOG = {
    "key": "lesbian-couple-pregnancy",
    "label": "Lesbian couple pregnancy (female same-sex couple)",
    "legend_label": "Lesbian couple pregnancy",
-   "entry_count": 55
+   "entry_count": 56
   },
   {
    "key": "erotic-mainstream",
@@ -5086,7 +5093,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 184
+   "entry_count": 185
   },
   {
    "key": "mom-partner-control",
@@ -5098,7 +5105,7 @@ window.CATALOG = {
    "key": "mother",
    "label": "Mother with child hypnotized / mind-controlled",
    "legend_label": "Mother with child hypnotized / mind-controlled",
-   "entry_count": 85
+   "entry_count": 87
   },
   {
    "key": "mom-pregnancy",
@@ -5116,7 +5123,7 @@ window.CATALOG = {
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
    "legend_label": "Other female hypnosis / mind control",
-   "entry_count": 319
+   "entry_count": 320
   },
   {
    "key": "parents-sleeping",
@@ -5254,7 +5261,7 @@ window.CATALOG = {
    "key": "pregnancy-evil",
    "label": "Pregnant women controlled / possessed by evil forces",
    "legend_label": "Pregnant women controlled / possessed by evil forces",
-   "entry_count": 61
+   "entry_count": 62
   },
   {
    "key": "regional-pregnancy",
@@ -5332,7 +5339,7 @@ window.CATALOG = {
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 189
+   "entry_count": 194
   },
   {
    "key": "stepmom-control",
@@ -5356,7 +5363,7 @@ window.CATALOG = {
    "key": "index-59",
    "label": "Surrogacy / IVF / fertility drama",
    "legend_label": "Surrogacy / IVF / fertility drama",
-   "entry_count": 21
+   "entry_count": 24
   },
   {
    "key": "index-55",
@@ -474778,6 +474785,1477 @@ window.CATALOG = {
      "note": "Loose fit: fraud, not hypnosis."
     }
    }
+  },
+  {
+   "id": 3306,
+   "title": "Unchosen",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "TV series · UK · Netflix · 6 episodes · creator Julie Gearey",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Rosie lives in a cloistered Christian sect whose leader, Mr Phillips, abuses female members, while her devout husband punishes her with violence. Escaped convict Sam uses coercion to become a pillar of the community and begins an affair with her.",
+   "character": "Rosie (Molly Windsor), wife and mother",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Mr Phillips / the sect; Sam",
+   "method": "Cult indoctrination and coercion",
+   "kids_status": "yes",
+   "kids_note": "Daughter Grace",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Official cast/plot article",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "cult",
+    "partner-control"
+   ],
+   "sources": [
+    {
+     "label": "Netflix Tudum",
+     "url": "https://www.netflix.com/tudum/articles/unchosen-plot-cast-news"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:58"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:58": {
+     "pregnant_end": "no",
+     "kids_status": "yes",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Unchosen",
+     "year": "2026",
+     "format": "tv",
+     "meta": "TV series · UK · Netflix · 6 episodes · creator Julie Gearey",
+     "character": "Rosie (Molly Windsor), wife and mother",
+     "summary": "Rosie lives in a cloistered Christian sect whose leader, Mr Phillips, abuses female members, while her devout husband punishes her with violence. Escaped convict Sam uses coercion to become a pillar of the community and begins an affair with her.",
+     "hypnotist": "Mr Phillips / the sect; Sam",
+     "method": "Cult indoctrination and coercion",
+     "categories": [
+      "cult",
+      "partner-control"
+     ],
+     "kids_note": "Daughter Grace",
+     "sources": [
+      {
+       "label": "Netflix Tudum",
+       "url": "https://www.netflix.com/tudum/articles/unchosen-plot-cast-news"
+      }
+     ],
+     "evidence": "Official cast/plot article",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3307,
+   "title": "The Voices of Our Mother",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Film · Canada · Shudder (19 Jun 2026) · dir. Mark O'Brien",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Four estranged siblings return to their ailing mother and must work out whether she has dementia or is possessed by something evil.",
+   "character": "The mother (Sheila McCarthy)",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: the possession is ambiguous (dementia or possession).",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Evil entity",
+   "method": "Possession",
+   "kids_status": "yes",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Listing + interview",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "spirit",
+    "mother"
+   ],
+   "sources": [
+    {
+     "label": "Rotten Tomatoes",
+     "url": "https://www.rottentomatoes.com/m/the_voices_of_our_mother"
+    },
+    {
+     "label": "Horror Geek Life",
+     "url": "https://www.horrorgeeklife.com/2026/06/19/shudder-the-voices-of-our-mother-mark-obrien-sheila-mccarthy-interview/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:59"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:59": {
+     "pregnant_end": "no",
+     "kids_status": "yes",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Voices of Our Mother",
+     "year": "2026",
+     "format": "movie",
+     "meta": "Film · Canada · Shudder (19 Jun 2026) · dir. Mark O'Brien",
+     "character": "The mother (Sheila McCarthy)",
+     "summary": "Four estranged siblings return to their ailing mother and must work out whether she has dementia or is possessed by something evil.",
+     "hypnotist": "Evil entity",
+     "method": "Possession",
+     "categories": [
+      "spirit",
+      "mother"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "Rotten Tomatoes",
+       "url": "https://www.rottentomatoes.com/m/the_voices_of_our_mother"
+      },
+      {
+       "label": "Horror Geek Life",
+       "url": "https://www.horrorgeeklife.com/2026/06/19/shudder-the-voices-of-our-mother-mark-obrien-sheila-mccarthy-interview/"
+      }
+     ],
+     "evidence": "Listing + interview",
+     "confidence_flag": "Medium · 2 sources",
+     "note": "Loose fit: the possession is ambiguous (dementia or possession)."
+    }
+   }
+  },
+  {
+   "id": 3308,
+   "title": "The Surrogacy (Madre de alquiler)",
+   "subtitle": "",
+   "year": "2023",
+   "meta": "TV series · Mexico · Spanish · Netflix",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A young woman rents her womb to a powerful family.",
+   "character": "The surrogate",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: surrogacy drama with no hypnosis.",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "yes",
+   "evidence": "Official + database",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "index-59"
+   ],
+   "sources": [
+    {
+     "label": "Netflix Media Center",
+     "url": "https://media.netflix.com/en/only-on-netflix/81406598"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt27787160/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:60"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:60": {
+     "pregnant_end": "yes",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Surrogacy (Madre de alquiler)",
+     "year": "2023",
+     "format": "tv",
+     "meta": "TV series · Mexico · Spanish · Netflix",
+     "character": "The surrogate",
+     "summary": "A young woman rents her womb to a powerful family.",
+     "categories": [
+      "index-59"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "Netflix Media Center",
+       "url": "https://media.netflix.com/en/only-on-netflix/81406598"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt27787160/"
+      }
+     ],
+     "evidence": "Official + database",
+     "confidence_flag": "Medium · 2 sources",
+     "note": "Loose fit: surrogacy drama with no hypnosis."
+    }
+   }
+  },
+  {
+   "id": 3309,
+   "title": "The Lightning Incident (Lightning Field)",
+   "subtitle": "",
+   "year": "1991",
+   "meta": "TV film · USA · USA Network World Premiere Movie",
+   "mechanism": "",
+   "confidence_flag": "High · 3 sources",
+   "summary": "A pregnant woman suffering nightmares is hypnotized by a friend with a countdown induction and is entranced again later. A devil-worshipping cult kidnaps her baby, and she uses newly found psychic abilities to track them.",
+   "character": "Pregnant sculptor (Nancy McKeon)",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "She is hypnotized while pregnant.",
+   "hypnotist": "A friend (therapeutic); the cult",
+   "method": "Hypnosis (countdown induction)",
+   "kids_status": "yes",
+   "kids_together": "no",
+   "pregnant_end": "yes",
+   "evidence": "Listing + blog + hypnosis-film guide",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "adult-hypnosis",
+    "pregnancy-evil",
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "Rotten Tomatoes",
+     "url": "https://www.rottentomatoes.com/m/lightning_incident"
+    },
+    {
+     "label": "Made for TV Mayhem",
+     "url": "http://madefortvmayhem.blogspot.com/2014/11/the-usa-world-premiere-movie-project.html"
+    },
+    {
+     "label": "Deep Trance Now — Hypnosis in the Movies",
+     "url": "https://deeptrancenow.com/movies.htm"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:61"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:61": {
+     "pregnant_end": "yes",
+     "kids_status": "yes",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Lightning Incident (Lightning Field)",
+     "year": "1991",
+     "format": "movie",
+     "meta": "TV film · USA · USA Network World Premiere Movie",
+     "character": "Pregnant sculptor (Nancy McKeon)",
+     "summary": "A pregnant woman suffering nightmares is hypnotized by a friend with a countdown induction and is entranced again later. A devil-worshipping cult kidnaps her baby, and she uses newly found psychic abilities to track them.",
+     "hypnotist": "A friend (therapeutic); the cult",
+     "method": "Hypnosis (countdown induction)",
+     "categories": [
+      "adult-hypnosis",
+      "pregnancy-evil",
+      "cult"
+     ],
+     "sources": [
+      {
+       "label": "Rotten Tomatoes",
+       "url": "https://www.rottentomatoes.com/m/lightning_incident"
+      },
+      {
+       "label": "Made for TV Mayhem",
+       "url": "http://madefortvmayhem.blogspot.com/2014/11/the-usa-world-premiere-movie-project.html"
+      },
+      {
+       "label": "Deep Trance Now — Hypnosis in the Movies",
+       "url": "https://deeptrancenow.com/movies.htm"
+      }
+     ],
+     "evidence": "Listing + blog + hypnosis-film guide",
+     "confidence_flag": "High · 3 sources",
+     "note": "She is hypnotized while pregnant."
+    }
+   }
+  },
+  {
+   "id": 3310,
+   "title": "Lies Hidden in My Garden (마당이 있는 집)",
+   "subtitle": "",
+   "year": "2023",
+   "meta": "TV series · South Korea · ENA",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A wife investigates a foul smell and a buried body in her garden while her husband dismisses her, lies to her and manipulates her into doubting herself.",
+   "character": "Moon Joo-ran (Kim Tae-hee)",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: psychological gaslighting, not hypnosis.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Her husband",
+   "method": "Gaslighting",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Database + recap",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "partner-control"
+   ],
+   "sources": [
+    {
+     "label": "MyDramaList",
+     "url": "https://mydramalist.com/740197-a-house-with-a-yard"
+    },
+    {
+     "label": "DMT recap",
+     "url": "https://dmtalkies.com/lies-hidden-in-my-garden-episode1-recap-ending-explained-2023-series/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:62"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:62": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Lies Hidden in My Garden (마당이 있는 집)",
+     "year": "2023",
+     "format": "tv",
+     "meta": "TV series · South Korea · ENA",
+     "character": "Moon Joo-ran (Kim Tae-hee)",
+     "summary": "A wife investigates a foul smell and a buried body in her garden while her husband dismisses her, lies to her and manipulates her into doubting herself.",
+     "hypnotist": "Her husband",
+     "method": "Gaslighting",
+     "categories": [
+      "partner-control"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "MyDramaList",
+       "url": "https://mydramalist.com/740197-a-house-with-a-yard"
+      },
+      {
+       "label": "DMT recap",
+       "url": "https://dmtalkies.com/lies-hidden-in-my-garden-episode1-recap-ending-explained-2023-series/"
+      }
+     ],
+     "evidence": "Database + recap",
+     "confidence_flag": "Medium · 2 sources",
+     "note": "Loose fit: psychological gaslighting, not hypnosis."
+    }
+   }
+  },
+  {
+   "id": 3311,
+   "title": "The Dragon King and His Unwanted Virgin Bride",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Vertical series · Melolo · 50 episodes",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Princess Anna is forced to marry the Dragon King in her stepsister's place. Her stepmother brands her shoulder and compels the marriage by magic.",
+   "character": "Princess Anna",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: the compulsion is only described briefly.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Stepmother and a witch",
+   "method": "Magical brand / compulsion",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Streaming-listing synopsis",
+   "adult": "no",
+   "format": "vertical series",
+   "categories": [
+    "royal-hypnosis",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "DramaDizilerim listing",
+     "url": "https://dramadizilerim.com/en/series/the-dragon-king-and-his-unwanted-virgin-bride"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:63"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:63": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Dragon King and His Unwanted Virgin Bride",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "Vertical series · Melolo · 50 episodes",
+     "character": "Princess Anna",
+     "summary": "Princess Anna is forced to marry the Dragon King in her stepsister's place. Her stepmother brands her shoulder and compels the marriage by magic.",
+     "hypnotist": "Stepmother and a witch",
+     "method": "Magical brand / compulsion",
+     "categories": [
+      "royal-hypnosis",
+      "forced-obedience"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "DramaDizilerim listing",
+       "url": "https://dramadizilerim.com/en/series/the-dragon-king-and-his-unwanted-virgin-bride"
+      }
+     ],
+     "evidence": "Streaming-listing synopsis",
+     "confidence_flag": "Single source · flag",
+     "note": "Loose fit: the compulsion is only described briefly."
+    }
+   }
+  },
+  {
+   "id": 3312,
+   "title": "Lily's Ritual (El ritual de Lily)",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Film · Spain · dir. Manu Herrera",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Lily is lured to a remote cabin for a witchcraft initiation with three other women, then bound and offered as a sacrifice to the demon Lilith.",
+   "character": "Lily",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: deception and binding, not trance control.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "The coven",
+   "method": "Occult ritual",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Trade news + database",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "occult",
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "Variety",
+     "url": "https://variety.com/2025/film/news/spanish-horror-film-lilys-ritual-black-mandala-grimmfest-1236540798/"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt33451030/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:64"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:64": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Lily's Ritual (El ritual de Lily)",
+     "year": "2025",
+     "format": "movie",
+     "meta": "Film · Spain · dir. Manu Herrera",
+     "character": "Lily",
+     "summary": "Lily is lured to a remote cabin for a witchcraft initiation with three other women, then bound and offered as a sacrifice to the demon Lilith.",
+     "hypnotist": "The coven",
+     "method": "Occult ritual",
+     "categories": [
+      "occult",
+      "cult"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "Variety",
+       "url": "https://variety.com/2025/film/news/spanish-horror-film-lilys-ritual-black-mandala-grimmfest-1236540798/"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt33451030/"
+      }
+     ],
+     "evidence": "Trade news + database",
+     "confidence_flag": "Medium · 2 sources",
+     "note": "Loose fit: deception and binding, not trance control."
+    }
+   }
+  },
+  {
+   "id": 3313,
+   "title": "The Babymaker: The Dr. Cecil Jacobson Story (Seeds of Deception)",
+   "subtitle": "",
+   "year": "1994",
+   "meta": "TV film · USA · CBS",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Fertility doctor Cecil Jacobson secretly inseminates his patients with his own sperm while claiming they are receiving donor sperm.",
+   "character": "Mary Bennett (Melissa Gilbert) and other patients",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: fraud, not hypnosis; based on a true case.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Dr Cecil Jacobson (George Dzundza)",
+   "method": "Medical deception",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "yes",
+   "evidence": "Encyclopedia + review",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "index-59",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Babymaker:_The_Dr._Cecil_Jacobson_Story"
+    },
+    {
+     "label": "Variety review",
+     "url": "https://variety.com/1994/tv/reviews/cbs-tuesday-movie-babymaker-the-cecil-jacobson-story-1200435942/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:65"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:65": {
+     "pregnant_end": "yes",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Babymaker: The Dr. Cecil Jacobson Story (Seeds of Deception)",
+     "year": "1994",
+     "format": "movie",
+     "meta": "TV film · USA · CBS",
+     "character": "Mary Bennett (Melissa Gilbert) and other patients",
+     "summary": "Fertility doctor Cecil Jacobson secretly inseminates his patients with his own sperm while claiming they are receiving donor sperm.",
+     "hypnotist": "Dr Cecil Jacobson (George Dzundza)",
+     "method": "Medical deception",
+     "categories": [
+      "index-59",
+      "medical"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Babymaker:_The_Dr._Cecil_Jacobson_Story"
+      },
+      {
+       "label": "Variety review",
+       "url": "https://variety.com/1994/tv/reviews/cbs-tuesday-movie-babymaker-the-cecil-jacobson-story-1200435942/"
+      }
+     ],
+     "evidence": "Encyclopedia + review",
+     "confidence_flag": "Medium · 2 sources",
+     "note": "Loose fit: fraud, not hypnosis; based on a true case."
+    }
+   }
+  },
+  {
+   "id": 3314,
+   "title": "Love & Crown",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "TV series · China · Mandarin · stars Ren Jialun, Peng Xiaoran",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "In episode 7, Princess Xiao Ying drugs Empress Cangcang with 'Puppet Incense' and hypnotizes her to forget the visit, hate Emperor Xiao Huan and kill him. At the sound of a bell Cangcang attacks him with a sword, then dislocates her own arm to resist the command.",
+   "character": "Empress Ling Cangcang (Peng Xiaoran)",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "episodes": [
+    {
+     "episode": "7",
+     "gist": "Puppet Incense hypnosis; trance assassination attempt.",
+     "number_verified": true
+    }
+   ],
+   "hypnotist": "Princess Xiao Ying",
+   "method": "Puppet Incense + hypnotic command with bell trigger",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Episode recap",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "royal-hypnosis",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "CPOP HOME ep 7 recap",
+     "url": "https://www.cpophome.com/love-and-crown-ren-jialun-peng-xiaoran/recap/7/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:66"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:66": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Love & Crown",
+     "year": "2025",
+     "format": "tv",
+     "meta": "TV series · China · Mandarin · stars Ren Jialun, Peng Xiaoran",
+     "character": "Empress Ling Cangcang (Peng Xiaoran)",
+     "summary": "In episode 7, Princess Xiao Ying drugs Empress Cangcang with 'Puppet Incense' and hypnotizes her to forget the visit, hate Emperor Xiao Huan and kill him. At the sound of a bell Cangcang attacks him with a sword, then dislocates her own arm to resist the command.",
+     "hypnotist": "Princess Xiao Ying",
+     "method": "Puppet Incense + hypnotic command with bell trigger",
+     "categories": [
+      "royal-hypnosis",
+      "other-control"
+     ],
+     "episodes": [
+      {
+       "episode": "7",
+       "gist": "Puppet Incense hypnosis; trance assassination attempt.",
+       "number_verified": true
+      }
+     ],
+     "sources": [
+      {
+       "label": "CPOP HOME ep 7 recap",
+       "url": "https://www.cpophome.com/love-and-crown-ren-jialun-peng-xiaoran/recap/7/"
+      }
+     ],
+     "evidence": "Episode recap",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3315,
+   "title": "Poongatru Thirumbuma",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "TV series · India · Tamil",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Anandhi escapes from her controlling, obsessive and abusive husband Veerapathiran, who later pursues her.",
+   "character": "Anandhi",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: abusive control, no hypnosis.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Veerapathiran (husband)",
+   "method": "Coercive control",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Encyclopedia",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "partner-control",
+    "india-control"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Poongatru_Thirumbuma"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:67"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:67": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Poongatru Thirumbuma",
+     "year": "2025",
+     "format": "tv",
+     "meta": "TV series · India · Tamil",
+     "character": "Anandhi",
+     "summary": "Anandhi escapes from her controlling, obsessive and abusive husband Veerapathiran, who later pursues her.",
+     "hypnotist": "Veerapathiran (husband)",
+     "method": "Coercive control",
+     "categories": [
+      "partner-control",
+      "india-control"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Poongatru_Thirumbuma"
+      }
+     ],
+     "evidence": "Encyclopedia",
+     "confidence_flag": "Single source · flag",
+     "note": "Loose fit: abusive control, no hypnosis."
+    }
+   }
+  },
+  {
+   "id": 3316,
+   "title": "Recollection",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Film · USA · dir. Caden Butera · Persimmon release 19 Mar 2026",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "In 2033 the corporation Vitality governs society through mandatory memory cleansing. When a glitch restores Kate's forcibly erased past, Vitality hunts her to reclaim it.",
+   "character": "Kate Parker (Rosslyn Luke)",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: society-wide memory control.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Vitality corporation",
+   "method": "Mandatory memory erasure",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Distribution news",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "Macabre Daily",
+     "url": "https://www.macabredaily.com/articles/persimmon-acquires-sci-fi-thriller-recollection-2025-for-release-this-march"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:68"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:68": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Recollection",
+     "year": "2025",
+     "format": "movie",
+     "meta": "Film · USA · dir. Caden Butera · Persimmon release 19 Mar 2026",
+     "character": "Kate Parker (Rosslyn Luke)",
+     "summary": "In 2033 the corporation Vitality governs society through mandatory memory cleansing. When a glitch restores Kate's forcibly erased past, Vitality hunts her to reclaim it.",
+     "hypnotist": "Vitality corporation",
+     "method": "Mandatory memory erasure",
+     "categories": [
+      "tech"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "Macabre Daily",
+       "url": "https://www.macabredaily.com/articles/persimmon-acquires-sci-fi-thriller-recollection-2025-for-release-this-march"
+      }
+     ],
+     "evidence": "Distribution news",
+     "confidence_flag": "Single source · flag",
+     "note": "Loose fit: society-wide memory control."
+    }
+   }
+  },
+  {
+   "id": 3317,
+   "title": "Ottashikharam",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Web series · India · Malayalam · manoramaMAX / Prime Video",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A middle-aged childless couple opts for surrogacy, and when the young surrogate gives birth, a conflict over parental rights unfolds.",
+   "character": "The young surrogate",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: surrogacy drama with no control.",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "yes",
+   "evidence": "Platform synopsis",
+   "adult": "no",
+   "format": "web series",
+   "categories": [
+    "index-59"
+   ],
+   "sources": [
+    {
+     "label": "Prime Video",
+     "url": "https://www.primevideo.com/detail/Ottashikharam/0TM5QGX3FFMWZD87T0PNU1RBRI"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:69"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:69": {
+     "pregnant_end": "yes",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Ottashikharam",
+     "year": "2025",
+     "format": "web series",
+     "meta": "Web series · India · Malayalam · manoramaMAX / Prime Video",
+     "character": "The young surrogate",
+     "summary": "A middle-aged childless couple opts for surrogacy, and when the young surrogate gives birth, a conflict over parental rights unfolds.",
+     "categories": [
+      "index-59"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "Prime Video",
+       "url": "https://www.primevideo.com/detail/Ottashikharam/0TM5QGX3FFMWZD87T0PNU1RBRI"
+      }
+     ],
+     "evidence": "Platform synopsis",
+     "confidence_flag": "Single source · flag",
+     "note": "Loose fit: surrogacy drama with no control."
+    }
+   }
+  },
+  {
+   "id": 3318,
+   "title": "My Royal Nemesis",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "TV series · South Korea · 14 episodes (8 May–20 Jun 2026)",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "The spirit of a Joseon-era villainess possesses modern actress Shin Seo-ri and causes chaos on a historical-drama set.",
+   "character": "Shin Seo-ri, modern actress",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "The villainess's spirit",
+   "method": "Possession",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Wiki + news",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "DramaWiki",
+     "url": "https://wiki.d-addicts.com/My_Royal_Nemesis"
+    },
+    {
+     "label": "Soompi",
+     "url": "https://www.soompi.com/article/1839298wpp/lim-ji-yeon-causes-chaos-on-historical-drama-set-after-reincarnating-from-joseon-in-my-royal-nemesis"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:70"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:70": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "My Royal Nemesis",
+     "year": "2026",
+     "format": "tv",
+     "meta": "TV series · South Korea · 14 episodes (8 May–20 Jun 2026)",
+     "character": "Shin Seo-ri, modern actress",
+     "summary": "The spirit of a Joseon-era villainess possesses modern actress Shin Seo-ri and causes chaos on a historical-drama set.",
+     "hypnotist": "The villainess's spirit",
+     "method": "Possession",
+     "categories": [
+      "spirit"
+     ],
+     "sources": [
+      {
+       "label": "DramaWiki",
+       "url": "https://wiki.d-addicts.com/My_Royal_Nemesis"
+      },
+      {
+       "label": "Soompi",
+       "url": "https://www.soompi.com/article/1839298wpp/lim-ji-yeon-causes-chaos-on-historical-drama-set-after-reincarnating-from-joseon-in-my-royal-nemesis"
+      }
+     ],
+     "evidence": "Wiki + news",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
+  },
+  {
+   "id": 3319,
+   "title": "You're Not Supposed to Be Here",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "TV film · USA · Lifetime",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A pregnant lesbian couple take a babymoon to a remote mountain town where hostile locals want something they have.",
+   "character": "Zoe and Kennedy (Chrishell Stause, Diora Baird)",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: no hypnosis. The year comes from the release announcement; verify.",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "yes",
+   "evidence": "Press release + article",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "lesbian-couple-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "Lifetime press release",
+     "url": "https://www.pressparty.com/pg/newsdesk/LifetimeUS/view/353234/"
+    },
+    {
+     "label": "Autostraddle",
+     "url": "https://www.autostraddle.com/chrishell-stause-movie-diora-baird-lifetime-lesbian-pregnacy-thriller/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:71"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:71": {
+     "pregnant_end": "yes",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "You're Not Supposed to Be Here",
+     "year": "2025",
+     "format": "movie",
+     "meta": "TV film · USA · Lifetime",
+     "character": "Zoe and Kennedy (Chrishell Stause, Diora Baird)",
+     "summary": "A pregnant lesbian couple take a babymoon to a remote mountain town where hostile locals want something they have.",
+     "categories": [
+      "lesbian-couple-pregnancy"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "Lifetime press release",
+       "url": "https://www.pressparty.com/pg/newsdesk/LifetimeUS/view/353234/"
+      },
+      {
+       "label": "Autostraddle",
+       "url": "https://www.autostraddle.com/chrishell-stause-movie-diora-baird-lifetime-lesbian-pregnacy-thriller/"
+      }
+     ],
+     "evidence": "Press release + article",
+     "confidence_flag": "Medium · 2 sources",
+     "note": "Loose fit: no hypnosis. The year comes from the release announcement; verify."
+    }
+   }
+  },
+  {
+   "id": 3320,
+   "title": "Temptress",
+   "subtitle": "",
+   "year": "1995",
+   "meta": "Film · USA · R-rated erotic horror",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Karin returns from India with a Kali statue she does not remember getting and changes into a seductive, violent stranger. Hypnosis and recovered memories reveal she has become a vessel for an ancient entity.",
+   "character": "Karin Swann (Kim Delaney), photographer",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Ancient entity linked to the statue",
+   "method": "Possession",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Retail synopsis",
+   "adult": "yes",
+   "format": "movie",
+   "categories": [
+    "spirit",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "Media Collectibles DVD listing",
+     "url": "https://mediacollectibles.com/temptress-starring-chris-sarandon-kim-delaney-dee-wallace-in-this-erotic-horror-thriller-on-dvd/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:72"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:72": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes",
+     "title": "Temptress",
+     "year": "1995",
+     "format": "movie",
+     "meta": "Film · USA · R-rated erotic horror",
+     "character": "Karin Swann (Kim Delaney), photographer",
+     "summary": "Karin returns from India with a Kali statue she does not remember getting and changes into a seductive, violent stranger. Hypnosis and recovered memories reveal she has become a vessel for an ancient entity.",
+     "hypnotist": "Ancient entity linked to the statue",
+     "method": "Possession",
+     "categories": [
+      "spirit",
+      "occult"
+     ],
+     "sources": [
+      {
+       "label": "Media Collectibles DVD listing",
+       "url": "https://mediacollectibles.com/temptress-starring-chris-sarandon-kim-delaney-dee-wallace-in-this-erotic-horror-thriller-on-dvd/"
+      }
+     ],
+     "evidence": "Retail synopsis",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3321,
+   "title": "Hypnosis (催眠)",
+   "subtitle": "",
+   "year": "2000",
+   "meta": "TV series · Japan · TBS · 11 episodes (9 Jul–17 Sep 2000)",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A string of victims die from hypnotic suggestion. Psychiatrist Toshiya Saga helps the police, and the woman he is attracted to becomes a suspect.",
+   "character": "The woman Saga is attracted to (suspect)",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: it is unclear which women are hypnotized.",
+   "tags": [
+    "loose fit"
+   ],
+   "method": "Hypnotic suggestion",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Broadcaster catalog",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "TBS Program Catalog",
+     "url": "https://www.tbscontents.com/en/program/hypnosis"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:73"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:73": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Hypnosis (催眠)",
+     "year": "2000",
+     "format": "tv",
+     "meta": "TV series · Japan · TBS · 11 episodes (9 Jul–17 Sep 2000)",
+     "character": "The woman Saga is attracted to (suspect)",
+     "summary": "A string of victims die from hypnotic suggestion. Psychiatrist Toshiya Saga helps the police, and the woman he is attracted to becomes a suspect.",
+     "method": "Hypnotic suggestion",
+     "categories": [
+      "adult-hypnosis"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "TBS Program Catalog",
+       "url": "https://www.tbscontents.com/en/program/hypnosis"
+      }
+     ],
+     "evidence": "Broadcaster catalog",
+     "confidence_flag": "Single source · flag",
+     "note": "Loose fit: it is unclear which women are hypnotized."
+    }
+   }
+  },
+  {
+   "id": 3322,
+   "title": "Possessed (ผีเข้า)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Film · Thailand · dir. Kasidej Sundararjun · 21 May 2026",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A nurse returns home to care for her recovering mother and finds that her mother shows signs of possession after a boy's death.",
+   "character": "The nurse's mother",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: possession; details are limited.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Spirit",
+   "method": "Possession",
+   "kids_status": "yes",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Database listings",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "spirit",
+    "mother"
+   ],
+   "sources": [
+    {
+     "label": "MyDramaList",
+     "url": "https://mydramalist.com/808316-possessed"
+    },
+    {
+     "label": "Letterboxd",
+     "url": "https://letterboxd.com/film/possessed-2026/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:74"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:74": {
+     "pregnant_end": "no",
+     "kids_status": "yes",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Possessed (ผีเข้า)",
+     "year": "2026",
+     "format": "movie",
+     "meta": "Film · Thailand · dir. Kasidej Sundararjun · 21 May 2026",
+     "character": "The nurse's mother",
+     "summary": "A nurse returns home to care for her recovering mother and finds that her mother shows signs of possession after a boy's death.",
+     "hypnotist": "Spirit",
+     "method": "Possession",
+     "categories": [
+      "spirit",
+      "mother"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "MyDramaList",
+       "url": "https://mydramalist.com/808316-possessed"
+      },
+      {
+       "label": "Letterboxd",
+       "url": "https://letterboxd.com/film/possessed-2026/"
+      }
+     ],
+     "evidence": "Database listings",
+     "confidence_flag": "Medium · 2 sources",
+     "note": "Loose fit: possession; details are limited."
+    }
+   }
+  },
+  {
+   "id": 3323,
+   "title": "Possession: Kerasukan",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "Film · Indonesia · dir. Razka Robby Ertanto · Netflix",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A husband investigates his wife's increasingly strange behavior as she appears to be possessed.",
+   "character": "The wife",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Spirit",
+   "method": "Possession",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Reviews",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "spirit",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "Asian Movie Pulse",
+     "url": "https://asianmoviepulse.com/2024/07/film-review-possession-kerasukan-2024-by-razka-robby-ertanto/"
+    },
+    {
+     "label": "Movies & Mania",
+     "url": "https://moviesandmania.com/2024/11/17/possession-kerasukan-indonesian-horror-on-netflix-reviews-trailer/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:75"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:75": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Possession: Kerasukan",
+     "year": "2024",
+     "format": "movie",
+     "meta": "Film · Indonesia · dir. Razka Robby Ertanto · Netflix",
+     "character": "The wife",
+     "summary": "A husband investigates his wife's increasingly strange behavior as she appears to be possessed.",
+     "hypnotist": "Spirit",
+     "method": "Possession",
+     "categories": [
+      "spirit",
+      "wife"
+     ],
+     "sources": [
+      {
+       "label": "Asian Movie Pulse",
+       "url": "https://asianmoviepulse.com/2024/07/film-review-possession-kerasukan-2024-by-razka-robby-ertanto/"
+      },
+      {
+       "label": "Movies & Mania",
+       "url": "https://moviesandmania.com/2024/11/17/possession-kerasukan-indonesian-horror-on-netflix-reviews-trailer/"
+      }
+     ],
+     "evidence": "Reviews",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
   }
  ],
  "sections": [
@@ -478691,6 +480169,14 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3321,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3309,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3268,
        "from_source": "deep-refresh-oct18"
       },
@@ -479765,7 +481251,19 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3309,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3312,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3252,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3306,
        "from_source": "deep-refresh-oct18"
       }
      ],
@@ -480626,6 +482124,14 @@ window.CATALOG = {
       {
        "id": 3265,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3312,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3320,
+       "from_source": "deep-refresh-oct18"
       }
      ],
      "from_source": "deep-refresh-oct18"
@@ -481416,6 +482922,10 @@ window.CATALOG = {
       },
       {
        "id": 3272,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3316,
        "from_source": "deep-refresh-oct18"
       }
      ],
@@ -485909,6 +487419,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3315,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3270,
        "from_source": "deep-refresh-oct18"
       }
@@ -486615,11 +488129,23 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3310,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3272,
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3315,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3301,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3306,
        "from_source": "deep-refresh-oct18"
       }
      ],
@@ -492921,6 +494447,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3323,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3298,
        "from_source": "deep-refresh-oct18"
       }
@@ -494890,6 +496420,14 @@ window.CATALOG = {
      "title": "Deep gap-check (missed titles)",
      "notes": [],
      "items": [
+      {
+       "id": 3311,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3314,
+       "from_source": "deep-refresh-oct18"
+      },
       {
        "id": 3270,
        "from_source": "deep-refresh-oct18"
@@ -498343,6 +499881,10 @@ window.CATALOG = {
       {
        "id": 3267,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3319,
+       "from_source": "deep-refresh-oct18"
       }
      ],
      "from_source": "deep-refresh-oct18"
@@ -500334,6 +501876,10 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 3313,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3120,
        "from_source": "deep-gap-oct15"
       },
@@ -501356,6 +502902,14 @@ window.CATALOG = {
      "items": [
       {
        "id": 3271,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3322,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3307,
        "from_source": "deep-refresh-oct18"
       }
      ],
@@ -505203,6 +506757,10 @@ window.CATALOG = {
      "items": [
       {
        "id": 3294,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3314,
        "from_source": "deep-refresh-oct18"
       },
       {
@@ -511967,6 +513525,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3309,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3263,
        "from_source": "deep-refresh-oct18"
       },
@@ -518523,11 +520085,31 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3318,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3322,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3323,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3256,
        "from_source": "deep-refresh-oct18"
       },
       {
        "id": 3298,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3320,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3307,
        "from_source": "deep-refresh-oct18"
       }
      ],
@@ -519335,6 +520917,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3313,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3285,
        "from_source": "deep-refresh-oct18"
       },
@@ -519363,7 +520949,15 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3317,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3287,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3308,
        "from_source": "deep-refresh-oct18"
       },
       {
@@ -524914,6 +526508,10 @@ window.CATALOG = {
      "title": "Deep gap-check (missed titles)",
      "notes": [],
      "items": [
+      {
+       "id": 3311,
+       "from_source": "deep-refresh-oct18"
+      },
       {
        "id": 3302,
        "from_source": "deep-refresh-oct18"
