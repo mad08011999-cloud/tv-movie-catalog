@@ -964,6 +964,430 @@
       "evidence": "Spoiler/preview articles",
       "confidence_flag": "Medium · 2 sources",
       "note": "Loose fit: consensual therapeutic hypnosis."
+    },
+    {
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Boshikoron (বশীকরণ)",
+      "year": "2026",
+      "format": "tv",
+      "meta": "YouTube drama · Bangladesh · Bengali · Bindu Vision Drama · 4 parts (from 21 Jan 2026) · dir. Sumon Mehedi",
+      "character": "Maya (Dimple Ahmed), new bride",
+      "summary": "On her wedding night, new bride Maya begins acting strangely. She eats raw fish, tries to drown her sister-in-law and frightens her mother-in-law, and is seen talking alone at night while a mysterious entity controls her.",
+      "hypnotist": "Mysterious supernatural entity",
+      "method": "Possession / vashikaran",
+      "categories": [
+        "spirit",
+        "wife"
+      ],
+      "sources": [
+        {
+          "label": "Somoyer Alo",
+          "url": "https://www.shomoyeralo.com/news/345842"
+        }
+      ],
+      "evidence": "News article",
+      "confidence_flag": "Single source · flag"
+    },
+    {
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Brilliant Minds — \"The Blackout Bride\"",
+      "year": "2024",
+      "format": "tv",
+      "meta": "TV episode · USA · NBC · S1E4",
+      "character": "Bridget (Samantha Hanratty)",
+      "summary": "A new bride arrives in the ER covered in blood with no memory of her wedding night. She undergoes hypnotherapy to recover memories that lead the doctors to her missing husband.",
+      "hypnotist": "Hospital therapist (therapeutic)",
+      "method": "Hypnotherapy",
+      "categories": [
+        "medical"
+      ],
+      "fit": "loose",
+      "tags": [
+        "loose fit"
+      ],
+      "sources": [
+        {
+          "label": "NBC Insider",
+          "url": "https://www.nbc.com/nbc-insider/brilliant-minds-maple-syrup-urine-disease-wedding-murder"
+        }
+      ],
+      "evidence": "Broadcaster recap",
+      "confidence_flag": "Single source · flag",
+      "note": "Loose fit: therapeutic hypnosis."
+    },
+    {
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Dracula (Dracula: A Love Tale)",
+      "year": "2025",
+      "format": "movie",
+      "meta": "Film · France · English · dir. Luc Besson · US release 6 Feb 2026",
+      "character": "Mina Murray / Elisabeta (Zoë Bleu); women lured by perfume",
+      "summary": "Over four centuries Dracula develops a perfume designed to lure women to him while he searches for his reincarnated wife. He then reawakens Mina's past-life memories with a music box, and she chooses to go with him.",
+      "hypnotist": "Dracula (Caleb Landry Jones)",
+      "method": "Mind-controlling perfume; memory reawakening",
+      "categories": [
+        "vampire"
+      ],
+      "fit": "loose",
+      "tags": [
+        "loose fit"
+      ],
+      "sources": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dracula_(2025_French_film)"
+        },
+        {
+          "label": "MovieSense ending explained",
+          "url": "https://moviesense.io/dracula/ending-explained"
+        }
+      ],
+      "evidence": "Encyclopedia + explainer",
+      "confidence_flag": "Medium · 2 sources",
+      "note": "Loose fit: the perfume compels women generally, and Mina follows him willingly."
+    },
+    {
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "The Vampire Prince's Bride",
+      "year": "2026",
+      "format": "vertical series",
+      "meta": "Vertical series · ReelShort · 58 episodes (27 Jan 2026)",
+      "character": "Scarlett",
+      "summary": "Scarlett is a human thrall bound by blood oath to Vampire Lord Sean. When he neglects the renewal and turns Chelsea, she tries to break the bond and is rescued by Vampire Prince Alder.",
+      "hypnotist": "Vampire Lord Sean",
+      "method": "Blood-oath thrall bond",
+      "categories": [
+        "vampire",
+        "fantasy"
+      ],
+      "fit": "loose",
+      "tags": [
+        "loose fit"
+      ],
+      "sources": [
+        {
+          "label": "CimaShort",
+          "url": "https://cimashort.com/en/series/the-vampire-prince-s-bride"
+        },
+        {
+          "label": "IMDb",
+          "url": "https://www.imdb.com/title/tt39465598/"
+        }
+      ],
+      "evidence": "Platform/catalogue listings",
+      "confidence_flag": "Medium · 2 sources",
+      "note": "Loose fit: a thrall bond rather than hypnosis."
+    },
+    {
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Sheng Chong (盛宠)",
+      "year": "2026",
+      "format": "vertical series",
+      "meta": "Short drama · China · Mandarin · 76 episodes (17 Jan 2026)",
+      "character": "Princess Su Lingxi (Li Shengxuan), regent",
+      "summary": "After becoming regent princess, Su Lingxi is given gu poison by the eldest prince and forced into a physical relationship with her former mentor Pei Mingyun. The two later bring down the prince, and she becomes empress.",
+      "hypnotist": "Eldest prince",
+      "method": "Gu (poison-magic)",
+      "categories": [
+        "royal-hypnosis",
+        "forced-obedience"
+      ],
+      "sources": [
+        {
+          "label": "Duanju Baike",
+          "url": "https://www.duanjubaike.net/duanju/info-7596178470233721881.html"
+        }
+      ],
+      "evidence": "Short-drama database synopsis",
+      "confidence_flag": "Single source · flag"
+    },
+    {
+      "pregnant_end": "yes",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Love Letters (Des preuves d'amour)",
+      "year": "2025",
+      "format": "movie",
+      "meta": "Film · France · French · dir. Alice Douard · Cannes Critics' Week 2025",
+      "character": "Nadia (Monia Chokri) and Céline (Ella Rumpf)",
+      "summary": "In 2014 Paris, Nadia is pregnant through a Danish sperm bank and her wife Céline must go through the adoption process to become the child's legal parent.",
+      "categories": [
+        "lesbian-couple-pregnancy"
+      ],
+      "fit": "loose",
+      "tags": [
+        "loose fit"
+      ],
+      "sources": [
+        {
+          "label": "Variety review",
+          "url": "https://variety.com/2025/film/reviews/love-letters-review-lesbian-pregnancy-cannes-1236407777/"
+        }
+      ],
+      "evidence": "Review",
+      "confidence_flag": "Single source · flag",
+      "note": "Loose fit: no hypnosis."
+    },
+    {
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Her Temptation",
+      "year": "1917",
+      "format": "movie",
+      "meta": "Silent film · USA",
+      "character": "Shirley",
+      "summary": "Gerald Halsted hypnotizes Shirley so that she will poison Ralph Stuart, the man she intends to marry.",
+      "hypnotist": "Gerald Halsted",
+      "method": "Hypnosis",
+      "gain_motive": [
+        "remove a rival"
+      ],
+      "categories": [
+        "adult-hypnosis",
+        "crime"
+      ],
+      "sources": [
+        {
+          "label": "Virtual History film page",
+          "url": "https://www.virtual-history.com/movie/film/36950/her-temptation"
+        }
+      ],
+      "evidence": "Film database summary",
+      "confidence_flag": "Single source · flag"
+    },
+    {
+      "pregnant_end": "yes",
+      "kids_status": "yes",
+      "kids_together": "no",
+      "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "The Bold and the Beautiful — Steffy 'surrogacy' cover (2026)",
+      "year": "2026",
+      "format": "tv",
+      "meta": "Soap opera · USA · CBS · Oct 2026 episodes",
+      "character": "Steffy Forrester",
+      "summary": "Steffy becomes pregnant after a night with Carter. To protect both their marriages, Carter tells his wife Daphne that an embryo transfer was done and that Steffy is their surrogate.",
+      "categories": [
+        "another-man",
+        "index-59"
+      ],
+      "kids_note": "Steffy already has children",
+      "fit": "loose",
+      "tags": [
+        "loose fit"
+      ],
+      "episodes": [
+        {
+          "episode": "2 Oct 2026",
+          "air_date": "2026-10-02",
+          "gist": "Carter announces the fake embryo transfer to Daphne.",
+          "number_verified": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Soap Central recap",
+          "url": "https://www.soapcentral.com/bold-and-beautiful/b-b-recap-october-2-carter-announces-embryo-transfer"
+        },
+        {
+          "label": "Soap Opera Magazine",
+          "url": "https://soapoperamagazine.com/the-bold-and-the-beautiful-spoilers/carter-walton-embryo-transfer-story/10/01/2026/"
+        }
+      ],
+      "evidence": "Episode recap + spoiler article",
+      "confidence_flag": "Medium · 2 sources",
+      "note": "Loose fit: no hypnosis."
+    },
+    {
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Constable Kanakam",
+      "year": "2025",
+      "format": "tv",
+      "meta": "Web series · India · Telugu · ETV Win · 6 episodes (14 Aug 2025)",
+      "character": "Village women; Constable Kanakam (Varsha Bollama)",
+      "summary": "A village constable investigates girls who go missing in a forest region and finds that women in the villages are being targeted through black magic.",
+      "categories": [
+        "occult",
+        "india-control"
+      ],
+      "fit": "loose",
+      "tags": [
+        "loose fit"
+      ],
+      "sources": [
+        {
+          "label": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/entertainment/constable-kanakam-varsha-bollamas-new-telugu-series-is-all-about-black-magic-ottplay-101754987438573.html"
+        }
+      ],
+      "evidence": "Preview article",
+      "confidence_flag": "Single source · flag",
+      "note": "Loose fit: the control mechanism is not detailed; adult status of the victims is not stated."
+    },
+    {
+      "pregnant_end": "yes",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Papás Por Siempre",
+      "year": "2026",
+      "format": "tv",
+      "meta": "Telenovela · USA/Mexico · Spanish · Univision / ViX",
+      "character": "Prisma",
+      "summary": "In episode 78, Prisma reveals that Nazario forced her to become a surrogate in exchange for money offered by Dr Silvana.",
+      "categories": [
+        "index-59",
+        "forced-obedience"
+      ],
+      "fit": "loose",
+      "tags": [
+        "loose fit"
+      ],
+      "episodes": [
+        {
+          "episode": "78",
+          "gist": "Prisma reveals the forced surrogacy.",
+          "number_verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "Univision clip",
+          "url": "https://syndicator2.univision.com/shows/papas-por-siempre/nazario-obligo-a-prisma-a-ser-vientre-de-alquiler-papas-por-siempre-capitulo-78-video"
+        }
+      ],
+      "evidence": "Broadcaster clip page",
+      "confidence_flag": "Single source · flag",
+      "note": "Loose fit: coercion, not hypnosis."
+    },
+    {
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "The Queen of News 2 (新聞女王2)",
+      "year": "2025–2026",
+      "format": "tv",
+      "meta": "TV series · Hong Kong · Cantonese · TVB · 26 episodes",
+      "character": "Man Wai-sum (Charmaine Sheh)",
+      "summary": "In episode 12, Man Wai-sum undergoes hypnosis therapy to recover memories of the day Leung King-yan died. She remembers going to the culvert in a rainstorm, but the key moment stays blank.",
+      "hypnotist": "Therapist",
+      "method": "Hypnotherapy",
+      "categories": [
+        "medical"
+      ],
+      "fit": "loose",
+      "tags": [
+        "loose fit"
+      ],
+      "episodes": [
+        {
+          "episode": "12",
+          "gist": "A hypnosis session recovers partial memories.",
+          "number_verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "TVmao ep 12",
+          "url": "https://www.tvmao.com/kanju/XmJkYHIp/episode/3-12"
+        },
+        {
+          "label": "TVsou ep 12",
+          "url": "https://www.tvsou.com/storys/1408a8015c/"
+        }
+      ],
+      "evidence": "Episode guides",
+      "confidence_flag": "Medium · 2 sources",
+      "note": "Loose fit: therapeutic hypnosis."
+    },
+    {
+      "pregnant_end": "no",
+      "kids_status": "yes",
+      "kids_together": "no",
+      "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Tieta",
+      "year": "1989–1990",
+      "format": "tv",
+      "meta": "Telenovela · Brazil · Portuguese · TV Globo (rerun 2025 on Vale a Pena Ver de Novo)",
+      "character": "Perpétua (Joana Fomm)",
+      "summary": "Pastor Hilário hypnotizes the prim Perpétua in a scene re-aired in 2025.",
+      "hypnotist": "Pastor Hilário",
+      "method": "Hypnosis",
+      "categories": [
+        "adult-hypnosis"
+      ],
+      "sources": [
+        {
+          "label": "Globoplay clip",
+          "url": "https://globoplay.globo.com/v/13466394/"
+        }
+      ],
+      "evidence": "Broadcaster clip title",
+      "confidence_flag": "Single source · flag",
+      "note": "Detail beyond the clip title is not verified."
+    },
+    {
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Alma Gêmea",
+      "year": "2005–2006",
+      "format": "tv",
+      "meta": "Telenovela · Brazil · Portuguese · TV Globo (rerun)",
+      "character": "Serena (Priscila Fantin)",
+      "summary": "Serena is hypnotized in a session and says she felt at peace afterwards.",
+      "method": "Hypnosis session",
+      "categories": [
+        "adult-hypnosis"
+      ],
+      "fit": "loose",
+      "tags": [
+        "loose fit"
+      ],
+      "sources": [
+        {
+          "label": "Globoplay clip",
+          "url": "https://globoplay.globo.com/v/12770783/"
+        }
+      ],
+      "evidence": "Broadcaster clip title",
+      "confidence_flag": "Single source · flag",
+      "note": "Loose fit: benign session; detail is limited to the clip title."
     }
   ],
   "dropped": [
@@ -1013,6 +1437,14 @@
     "Grey's Anatomy Jo twins ultrasound: already card 1296",
     "聰明鎮 (2026): no hypnosis of a woman stated",
     "Kıble: Bitlisli Belkıs / Benim Adım Aylamaz: no control-of-woman plot verified",
-    "zeta-ai 'Hypnotized by the Villainess' etc.: AI chat plots, not screen works"
+    "zeta-ai 'Hypnotized by the Villainess' etc.: AI chat plots, not screen works",
+    "Minder Hypnotising Rita (teenaged fiancee); Nikuen 2025 (hentai, school-age risk); Saimin Class (school); Khom Khlang (no control); Queen Mantis (no hypnosis); The Puppet 2025 Prime = likely card 1679 (2013); Freddy's/Wanda/Bound by Blood/Ultrasound/False Positive/Hypnotic 2021 dupes\n",
+    "Suhagan Chudail (male target Moksh); Nazar dup 201; Beneath the Hypnosis dup 2732; Gayuma 2025 (male target)\n",
+    "Mother of Flies (no hypnosis in review); Mannat Dua (age unclear); Apparitions/Angel old demonic pregnancy unverified; Woman in the Wall (not pregnant now)\n",
+    "Buried Hearts (male); Alya/Kill Blue/Shy Hero (school/teen); Nervous 2026 (no hypnosis stated); Bone Lake (no hypnosis); Incantation dup 106; Hypnotic Thai dup\n",
+    "Daughter of Dr Jekyll dup 1108; Charlie's Angels dup 603; Double Parked dup 3105; Read His Mind (no hypnosis); Mums (documentary); Rani Bhabani (no control); 蛊祸深宫 (controlled party unclear); Love Hypnosis (webtoon); Hypno 2024 (male)\n",
+    "Diana Salazar dups 696/1820; YRKKH dup 3173; Saath Nibhaana dup; Mezarlık S3E6 (trafficking case, no woman control verified); GF hypnosis ASMR (audio roleplay); Ayyana Mane (no control)\n",
+    "Floricienta dup 692; Yo soy Bea dup 2445; Querencia dup 1193/1194; Garota do Momento dup 3113; La Bruja 2011 (amarre aimed at men, unverified); Kızıl Goncalar (male); Arafta/Kuma/Gelin (no control); Sihir Pelakor (male target); 催眠美女服从主人 (adult, no reliable synopsis)\n",
+    "Vampire Carnival dup 2249 (new Dread Central clip source could enrich); Magpakailanman hipnotismo = card 23 (2020); A Scandalous Crime (young girl); Santau Perempuan Terlarang (male); Bloody Babu (target unclear); Taar e Ankaboot (2013, unverified)\n"
   ]
 }
