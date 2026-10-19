@@ -4817,10 +4817,15 @@
     "Sleep My Love, The Love by Hypnotic, Hypnotic 2021, Dead Ringers, Double Parked, Hypnotized 2004, In Utero (dups); Bewitched Very Special Delivery (spell on Darrin, male); Dick Van Dyke drunk (male); Panor 2025 (protagonist's childhood/classmates; curse not control); Audible Dracula 2026 (audio drama, not screen); Ghost of Love (no control); Woman Being Controlled by a Remote Control (adult short, unverified); In Her Mother's Footsteps (single thin listing, skipped)",
     "Chhorii, Prem Ya Paheli–Chandrakanta, Baan Bussaba Ban, A Private Life, The Hypnotist 2012, Beneath the Hypnosis, The Puppet 2025 (dups); Eris no Seihai (16-yr-old heroine); Kimagure Orange Road ep39 (high-school Madoka); Mujhe Khuda Pay Yaqeen Hai (husband targeted); The Demoness (control of woman unconfirmed); Hypnotic 2023 (daughter is child); The Wrong Womb, Garbhdaan (plots unverified)",
     "Dick Van Dyke drunk, Flintstones Hypnotist (male targets); The Climax, The Magician, Dr Mabuse films, Nuer Mek 2, Ngin Pak Pee, Brides of Dracula, Svengali, Ultrasound (dups); Please Don't Eat the Daisies (husband healed); Million Pound Shaman Scam (documentary); Maharani (no vashikaran); Benjamin short (surrogacy only, unverified); Dainee (witch-hunt, no control); Nishir Daak/Bhog (possession details unverified)",
-    "The Seed (dup 1744), Progeny, Demon Seed, Mask of Diijon, Please Don't Touch Me, Wanda the Sadistic Hypnotist, Lucifer's Women, Reverse 2026, Lily's Ritual (dups/just added); How to Seduce Women Through Hypnosis 1992 (adult instructional video); Suzanne's Hypnosis (unverified); O-Girl (obscure, unverified); The Air (no spell control); hypnosis anime OVAs (school/explicit); GoodShort necklace drama (title unidentified); Alien Seed (unverified)"
+    "The Seed (dup 1744), Progeny, Demon Seed, Mask of Diijon, Please Don't Touch Me, Wanda the Sadistic Hypnotist, Lucifer's Women, Reverse 2026, Lily's Ritual (dups/just added); How to Seduce Women Through Hypnosis 1992 (adult instructional video); Suzanne's Hypnosis (unverified); O-Girl (obscure, unverified); The Air (no spell control); hypnosis anime OVAs (school/explicit); GoodShort necklace drama (title unidentified); Alien Seed (unverified)",
+    "WandaVision (Wanda is the controller; dup Wanda); The Observance (heroine resists, controlled are family/town); Vampire Carnival, Son of Sara, Rosemary's Baby, Kiss of a Vampire (dups); Tougen Anki/Dandadan (no adult woman controlled); Corpus 2026 (women control men); The Dress in Sri Lanka (8-min short, unverified); Poisoned Love (wife is poisoner); Widow's Payback (no control); Amnesiac Bride (no hypnosis verified)",
+    "Round the Twist (Pete, male, child show); Laverne and Shirley, Art of the Devil, Jade Scorpion, Hypnotized 2004, The Hypnosis 2021, Reverse, 被催眠的她 (dups); The Forbidden Marriage (faked possession); Panor 2/Kong Tao (no control verified); Pochamma (no control); Branded Witch (branding, no control); Ghost in the Shell 1995 (heroine not controlled); TBW-34/RCTD-748/Neural Override (adult fetish videos); BBC Doctors (unverified)",
+    "Friends hypnosis tape, Casa Vianello, My Husband Made Me Carry His Mistress's Baby, Double Parked, Naagin series (dups/male); A Promise to Carolyn (true-crime TV film, hypnosis to recover memory; sister's age unclear); Wicked Stepmother (no hypnosis of mother); Malam Keramat (thin single listing); Dominated by My Dad's Boss/Tell Me What You Want (consensual BDSM, no control); Subservience (no woman controlled); The Hot Spot (no possession)",
+    "Ultrasound, Tangled Painter's Block (dups); Stunned Hero ep8 (heroines' ages unclear/young); The Haunted Palace (man possessed); Heiress Strikes Back (trafficking, no control); How to Make a Baby, You and Me Makes Three (short, no control/dup); House of Spoils/North Witch (no hypnosis of women verified); The Day My Husband Drugged Me (no control); Maa 2025 (control unverified)",
+    "Leda: Fantastic Adventure of Yohko, Kimagure Orange Road ep39 (teen/school heroines); Hermanas un amor compartido (no control); Black Ritual: The Widow Demon (single unverified listing); Korean hypnotized female boss Bilibili clip (unverifiable); Onlyfangs (escape from master, explicit focus); The Ice Tower (teen target); Beta 1992 (male target); Fated Magical Princess (no control); Mae Pla Boo (control unverified)"
    ],
    "check": {
-    "raw_count": 75,
+    "raw_count": 97,
     "ok": true
    },
    "status": "local"
@@ -4886,10 +4891,10 @@
   "pregnancy-yt-oct15": 50,
   "hypnosis-yt-oct15": 16,
   "youtube-india-oct15": 23,
-  "deep-refresh-oct18": 75
+  "deep-refresh-oct18": 97
  },
- "raw_total": 6191,
- "entry_count": 3185,
+ "raw_total": 6213,
+ "entry_count": 3206,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4907,7 +4912,13 @@
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 298
+   "entry_count": 299
+  },
+  {
+   "key": "belly",
+   "label": "belly",
+   "legend_label": "belly",
+   "entry_count": 1
   },
   {
    "key": "walkin",
@@ -4931,13 +4942,13 @@
    "key": "cult",
    "label": "Cult / coercive brainwashing",
    "legend_label": "Cult / coercive brainwashing",
-   "entry_count": 42
+   "entry_count": 46
   },
   {
    "key": "occult",
    "label": "Demonic / occult control",
    "legend_label": "Demonic / occult control",
-   "entry_count": 117
+   "entry_count": 120
   },
   {
    "key": "devil-deal-pregnancy-hypnosis",
@@ -4955,7 +4966,7 @@
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 60
+   "entry_count": 61
   },
   {
    "key": "fantasy",
@@ -4973,7 +4984,7 @@
    "key": "partner-control",
    "label": "Female controlled by husband / boyfriend / ex-partner",
    "legend_label": "Female controlled by husband / boyfriend / ex-partner",
-   "entry_count": 52
+   "entry_count": 53
   },
   {
    "key": "india-control",
@@ -4991,7 +5002,7 @@
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 193
+   "entry_count": 195
   },
   {
    "key": "index-56",
@@ -5021,7 +5032,7 @@
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 107
+   "entry_count": 108
   },
   {
    "key": "index-54",
@@ -5093,7 +5104,7 @@
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 185
+   "entry_count": 187
   },
   {
    "key": "mom-partner-control",
@@ -5105,7 +5116,7 @@
    "key": "mother",
    "label": "Mother with child hypnotized / mind-controlled",
    "legend_label": "Mother with child hypnotized / mind-controlled",
-   "entry_count": 87
+   "entry_count": 89
   },
   {
    "key": "mom-pregnancy",
@@ -5154,6 +5165,12 @@
    "label": "Paternity / infidelity mystery",
    "legend_label": "Paternity / infidelity mystery",
    "entry_count": 5
+  },
+  {
+   "key": "polygamy",
+   "label": "polygamy",
+   "legend_label": "polygamy",
+   "entry_count": 1
   },
   {
    "key": "polygamy-hypnosis",
@@ -5261,7 +5278,7 @@
    "key": "pregnancy-evil",
    "label": "Pregnant women controlled / possessed by evil forces",
    "legend_label": "Pregnant women controlled / possessed by evil forces",
-   "entry_count": 62
+   "entry_count": 67
   },
   {
    "key": "regional-pregnancy",
@@ -5291,7 +5308,7 @@
    "key": "index-49",
    "label": "Rich woman hypnotized — money / inheritance / fraud",
    "legend_label": "Rich woman hypnotized — money / inheritance / fraud",
-   "entry_count": 26
+   "entry_count": 29
   },
   {
    "key": "index-52",
@@ -5339,7 +5356,7 @@
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 194
+   "entry_count": 199
   },
   {
    "key": "stepmom-control",
@@ -5357,7 +5374,7 @@
    "key": "evil-female",
    "label": "Supernatural female control — India & Indonesia",
    "legend_label": "Supernatural female control — India & Indonesia",
-   "entry_count": 65
+   "entry_count": 67
   },
   {
    "key": "index-59",
@@ -5381,7 +5398,7 @@
    "key": "vampire",
    "label": "Vampire mesmerism",
    "legend_label": "Vampire mesmerism",
-   "entry_count": 265
+   "entry_count": 266
   },
   {
    "key": "villain",
@@ -132047,8 +132064,25 @@
    "confidence_flag": "Medium-high confidence",
    "summary": "vampiric \"compulsion\" (gaze-based mesmerism): Alaric compels Elena Gilbert to forget all memories of Damon, then forget the compulsion itself.",
    "character": "",
-   "provenance": "",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
    "note": "",
+   "episodes": [
+    {
+     "episode": "S6E2",
+     "gist": "Elena compelled to forget Damon.",
+     "number_verified": true
+    }
+   ],
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Alaric",
+   "method": "Vampire compulsion",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Recap + plot summary",
+   "adult": "no",
    "format": "tv",
    "categories": [
     "adult-hypnosis",
@@ -132058,16 +132092,26 @@
     {
      "label": "vampirediaries.fandom.com",
      "url": "https://vampirediaries.fandom.com/wiki/Do_You_Remember_the_First_Time%3F"
+    },
+    {
+     "label": "TVLine",
+     "url": "https://tvline.com/recaps/vampire-diaries-elena-forgets-damon-season-6-episode-2-recap-554817/"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt4052884/plotsummary/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "deep-refresh-oct18"
    ],
    "source_records": [
     "xla62ucxbx02u5:690",
-    "ig6qlxqxoxvcxla:574"
+    "ig6qlxqxoxvcxla:574",
+    "deep-refresh-oct18:85"
    ],
    "index_only": false,
    "local_only": false,
@@ -132124,6 +132168,56 @@
      "distinct_story": false,
      "index_title": "The Vampire Diaries (2014)",
      "matched_by": "alias"
+    },
+    {
+     "rid": "deep-refresh-oct18:85",
+     "source": "deep-refresh-oct18",
+     "label": "The Vampire Diaries — 'Yellow Ledbetter' (2014)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "The Vampire Diaries — 'Yellow Ledbetter'",
+     "subtitle": "",
+     "year": "2014",
+     "meta": "TV series · S6E2 · The CW",
+     "summary": "Elena is compelled to forget her love for Damon.",
+     "character": "Elena Gilbert",
+     "note": "Loose fit: memory compulsion at her own request.",
+     "mechanism": "",
+     "confidence_flag": "Medium · 2 sources",
+     "categories": [
+      "vampire"
+     ],
+     "sources": [
+      {
+       "label": "TVLine",
+       "url": "https://tvline.com/recaps/vampire-diaries-elena-forgets-damon-season-6-episode-2-recap-554817/"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt4052884/plotsummary/"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S6E2",
+       "gist": "Elena compelled to forget Damon.",
+       "number_verified": true
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "hypnotist": "Alaric",
+     "method": "Vampire compulsion",
+     "kids_status": "no",
+     "kids_together": "no",
+     "pregnant_end": "no",
+     "evidence": "Recap + plot summary",
+     "adult": "no",
+     "distinct_story": true,
+     "matched_by": "alias"
     }
    ],
    "raw": {
@@ -132152,6 +132246,48 @@
      "group": "Modern TV mesmerism",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "deep-refresh-oct18:85": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Vampire Diaries — 'Yellow Ledbetter'",
+     "year": "2014",
+     "format": "tv",
+     "meta": "TV series · S6E2 · The CW",
+     "character": "Elena Gilbert",
+     "summary": "Elena is compelled to forget her love for Damon.",
+     "hypnotist": "Alaric",
+     "method": "Vampire compulsion",
+     "categories": [
+      "vampire"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "episodes": [
+      {
+       "episode": "S6E2",
+       "gist": "Elena compelled to forget Damon.",
+       "number_verified": true
+      }
+     ],
+     "sources": [
+      {
+       "label": "TVLine",
+       "url": "https://tvline.com/recaps/vampire-diaries-elena-forgets-damon-season-6-episode-2-recap-554817/"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt4052884/plotsummary/"
+      }
+     ],
+     "evidence": "Recap + plot summary",
+     "confidence_flag": "Medium · 2 sources",
+     "note": "Loose fit: memory compulsion at her own request."
     }
    }
   },
@@ -476256,6 +476392,1708 @@
      "confidence_flag": "Medium · 2 sources"
     }
    }
+  },
+  {
+   "id": 3324,
+   "title": "Broken Heaven (Bidaah)",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "TV series · Malaysia · Viu",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A young woman is taken by her mother into a deviant religious sect whose charismatic leader manipulates followers.",
+   "character": "Baiduri and her mother",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Sect leader Walid",
+   "method": "Cult indoctrination",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Encyclopedia + platform article",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "cult",
+    "mother"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Broken_Heaven"
+    },
+    {
+     "label": "Viu",
+     "url": "https://www.viu.com/ott/viuscene/bidaah-a-malay-drama-of-faith-secrets-and-courage/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:76"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:76": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Broken Heaven (Bidaah)",
+     "year": "2025",
+     "format": "tv",
+     "meta": "TV series · Malaysia · Viu",
+     "character": "Baiduri and her mother",
+     "summary": "A young woman is taken by her mother into a deviant religious sect whose charismatic leader manipulates followers.",
+     "hypnotist": "Sect leader Walid",
+     "method": "Cult indoctrination",
+     "categories": [
+      "cult",
+      "mother"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Broken_Heaven"
+      },
+      {
+       "label": "Viu",
+       "url": "https://www.viu.com/ott/viuscene/bidaah-a-malay-drama-of-faith-secrets-and-courage/"
+      }
+     ],
+     "evidence": "Encyclopedia + platform article",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
+  },
+  {
+   "id": 3325,
+   "title": "The Healing",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Film · Slovenia",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A Midsommar-like horror about a healing community that turns cult-like.",
+   "character": "Women at a healing retreat",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: cult control is described only in the trailer write-up.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "The community",
+   "method": "Cult ritual",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Trailer article",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "FirstShowing",
+     "url": "https://www.firstshowing.net/2025/slovenias-midsommar-esque-horror-film-the-healing-official-trailer/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:77"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:77": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Healing",
+     "year": "2025",
+     "format": "movie",
+     "meta": "Film · Slovenia",
+     "character": "Women at a healing retreat",
+     "summary": "A Midsommar-like horror about a healing community that turns cult-like.",
+     "hypnotist": "The community",
+     "method": "Cult ritual",
+     "categories": [
+      "cult"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "FirstShowing",
+       "url": "https://www.firstshowing.net/2025/slovenias-midsommar-esque-horror-film-the-healing-official-trailer/"
+      }
+     ],
+     "evidence": "Trailer article",
+     "confidence_flag": "Single source · flag",
+     "note": "Loose fit: cult control is described only in the trailer write-up."
+    }
+   }
+  },
+  {
+   "id": 3326,
+   "title": "Love Is the Monster",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Film · USA",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "An occult cult horror in which a woman is bound to obey a sinister group.",
+   "character": "Female lead",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: single preview source.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Cult",
+   "method": "Occult ritual",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Preview",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "cult",
+    "occult",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Horror Guys",
+     "url": "https://horrorguys.com/2026-love-is-the-monster/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:78"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:78": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Love Is the Monster",
+     "year": "2026",
+     "format": "movie",
+     "meta": "Film · USA",
+     "character": "Female lead",
+     "summary": "An occult cult horror in which a woman is bound to obey a sinister group.",
+     "hypnotist": "Cult",
+     "method": "Occult ritual",
+     "categories": [
+      "cult",
+      "occult",
+      "forced-obedience"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "Horror Guys",
+       "url": "https://horrorguys.com/2026-love-is-the-monster/"
+      }
+     ],
+     "evidence": "Preview",
+     "confidence_flag": "Single source · flag",
+     "note": "Loose fit: single preview source."
+    }
+   }
+  },
+  {
+   "id": 3327,
+   "title": "The Devil's Child",
+   "subtitle": "",
+   "year": "1997",
+   "meta": "TV film · USA · ABC",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A woman is seduced by a man who is the Devil and becomes pregnant with his child.",
+   "character": "Nikki DeMarco (Kim Delaney)",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "The Devil",
+   "method": "Supernatural seduction",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "yes",
+   "evidence": "Encyclopedia",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "pregnancy-evil"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Devil%27s_Child"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:79"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:79": {
+     "pregnant_end": "yes",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Devil's Child",
+     "year": "1997",
+     "format": "movie",
+     "meta": "TV film · USA · ABC",
+     "character": "Nikki DeMarco (Kim Delaney)",
+     "summary": "A woman is seduced by a man who is the Devil and becomes pregnant with his child.",
+     "hypnotist": "The Devil",
+     "method": "Supernatural seduction",
+     "categories": [
+      "pregnancy-evil"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Devil%27s_Child"
+      }
+     ],
+     "evidence": "Encyclopedia",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3328,
+   "title": "His Innocent Dupe (Sjæletyven)",
+   "subtitle": "",
+   "year": "1916",
+   "meta": "Silent film · Denmark",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A doctor hypnotizes Countess Judith and uses her to help commit thefts.",
+   "character": "Countess Judith",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "The doctor",
+   "method": "Hypnosis",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "National film database",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "medical",
+    "index-49"
+   ],
+   "sources": [
+    {
+     "label": "Danish Film Institute",
+     "url": "https://www.dfi.dk/en/viden-om-film/filmdatabasen/film/sjaeletyven"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:80"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:80": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "His Innocent Dupe (Sjæletyven)",
+     "year": "1916",
+     "format": "movie",
+     "meta": "Silent film · Denmark",
+     "character": "Countess Judith",
+     "summary": "A doctor hypnotizes Countess Judith and uses her to help commit thefts.",
+     "hypnotist": "The doctor",
+     "method": "Hypnosis",
+     "categories": [
+      "medical",
+      "index-49"
+     ],
+     "sources": [
+      {
+       "label": "Danish Film Institute",
+       "url": "https://www.dfi.dk/en/viden-om-film/filmdatabasen/film/sjaeletyven"
+      }
+     ],
+     "evidence": "National film database",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3329,
+   "title": "Homesick — 'The Doctor Hypnotizes Jane'",
+   "subtitle": "",
+   "year": "2016",
+   "meta": "TV series · episode 13",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A doctor hypnotizes Jane in an episode of the series.",
+   "character": "Jane",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: plot is known only from the episode title.",
+   "episodes": [
+    {
+     "episode": "S1E13",
+     "gist": "Doctor hypnotizes Jane.",
+     "number_verified": true
+    }
+   ],
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Doctor",
+   "method": "Hypnosis",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Episode listings",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt6788466/"
+    },
+    {
+     "label": "Kinorium",
+     "url": "https://en.kinorium.com/2817763/episodes/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:81"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:81": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Homesick — 'The Doctor Hypnotizes Jane'",
+     "year": "2016",
+     "format": "tv",
+     "meta": "TV series · episode 13",
+     "character": "Jane",
+     "summary": "A doctor hypnotizes Jane in an episode of the series.",
+     "hypnotist": "Doctor",
+     "method": "Hypnosis",
+     "categories": [
+      "medical"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "episodes": [
+      {
+       "episode": "S1E13",
+       "gist": "Doctor hypnotizes Jane.",
+       "number_verified": true
+      }
+     ],
+     "sources": [
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt6788466/"
+      },
+      {
+       "label": "Kinorium",
+       "url": "https://en.kinorium.com/2817763/episodes/"
+      }
+     ],
+     "evidence": "Episode listings",
+     "confidence_flag": "Medium · 2 sources",
+     "note": "Loose fit: plot is known only from the episode title."
+    }
+   }
+  },
+  {
+   "id": 3330,
+   "title": "The Devil's Bride (Pengantin Setan)",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Mini-series · Indonesia",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A bride is bound to a demonic pact and threatened with a cursed pregnancy.",
+   "character": "The bride",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Demon",
+   "method": "Demonic pact / possession",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Reviews",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "spirit",
+    "wife",
+    "pregnancy-evil"
+   ],
+   "sources": [
+    {
+     "label": "Ubas Juice",
+     "url": "https://ubasjuice.com/the-devils-bride/"
+    },
+    {
+     "label": "The Arty Dans",
+     "url": "https://theartydans.substack.com/p/the-devils-bride-indonesia-2025-mini"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:82"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:82": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Devil's Bride (Pengantin Setan)",
+     "year": "2025",
+     "format": "tv",
+     "meta": "Mini-series · Indonesia",
+     "character": "The bride",
+     "summary": "A bride is bound to a demonic pact and threatened with a cursed pregnancy.",
+     "hypnotist": "Demon",
+     "method": "Demonic pact / possession",
+     "categories": [
+      "spirit",
+      "wife",
+      "pregnancy-evil"
+     ],
+     "sources": [
+      {
+       "label": "Ubas Juice",
+       "url": "https://ubasjuice.com/the-devils-bride/"
+      },
+      {
+       "label": "The Arty Dans",
+       "url": "https://theartydans.substack.com/p/the-devils-bride-indonesia-2025-mini"
+      }
+     ],
+     "evidence": "Reviews",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
+  },
+  {
+   "id": 3331,
+   "title": "That Alien, Sound",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Film · USA",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A woman is drawn under the influence of a strange otherworldly sound.",
+   "character": "Female lead",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: influence is ambiguous.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Unknown presence",
+   "method": "Sound",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Database + review",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt19784882/"
+    },
+    {
+     "label": "Film Threat",
+     "url": "https://filmthreat.com/reviews/that-alien-sound-movie-review/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:83"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:83": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "That Alien, Sound",
+     "year": "2025",
+     "format": "movie",
+     "meta": "Film · USA",
+     "character": "Female lead",
+     "summary": "A woman is drawn under the influence of a strange otherworldly sound.",
+     "hypnotist": "Unknown presence",
+     "method": "Sound",
+     "categories": [
+      "spirit"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt19784882/"
+      },
+      {
+       "label": "Film Threat",
+       "url": "https://filmthreat.com/reviews/that-alien-sound-movie-review/"
+      }
+     ],
+     "evidence": "Database + review",
+     "confidence_flag": "Medium · 2 sources",
+     "note": "Loose fit: influence is ambiguous."
+    }
+   }
+  },
+  {
+   "id": 3332,
+   "title": "Pauline",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "TV series · Germany · Disney+",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A young woman learns she is pregnant with the Antichrist after meeting a mysterious man.",
+   "character": "Pauline",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: comedic demonic pregnancy, little trance control.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Devilish father",
+   "method": "Supernatural",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "yes",
+   "evidence": "Platform + ending explainer",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "pregnancy-evil"
+   ],
+   "sources": [
+    {
+     "label": "Apple TV",
+     "url": "https://tv.apple.com/us/show/pauline/umc.cmc.4vrcceujorjdlb8n8wcgml1ew"
+    },
+    {
+     "label": "Screen Rant",
+     "url": "https://screenrant.com/pauline-season-1-ending-explained/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:84"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:84": {
+     "pregnant_end": "yes",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Pauline",
+     "year": "2024",
+     "format": "tv",
+     "meta": "TV series · Germany · Disney+",
+     "character": "Pauline",
+     "summary": "A young woman learns she is pregnant with the Antichrist after meeting a mysterious man.",
+     "hypnotist": "Devilish father",
+     "method": "Supernatural",
+     "categories": [
+      "pregnancy-evil"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "Apple TV",
+       "url": "https://tv.apple.com/us/show/pauline/umc.cmc.4vrcceujorjdlb8n8wcgml1ew"
+      },
+      {
+       "label": "Screen Rant",
+       "url": "https://screenrant.com/pauline-season-1-ending-explained/"
+      }
+     ],
+     "evidence": "Platform + ending explainer",
+     "confidence_flag": "Medium · 2 sources",
+     "note": "Loose fit: comedic demonic pregnancy, little trance control."
+    }
+   }
+  },
+  {
+   "id": 3333,
+   "title": "Companion",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Film · USA · dir. Drew Hancock",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Iris discovers she is a companion robot whose boyfriend controls her through an app.",
+   "character": "Iris (Sophie Thatcher)",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: she is an android, not a human woman.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Josh (boyfriend)",
+   "method": "Programming via app",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Review",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "tech",
+    "partner-control"
+   ],
+   "sources": [
+    {
+     "label": "Variety",
+     "url": "https://variety.com/2025/film/reviews/companion-review-sophie-thatcher-jack-quaid-1236279638/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:86"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:86": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Companion",
+     "year": "2025",
+     "format": "movie",
+     "meta": "Film · USA · dir. Drew Hancock",
+     "character": "Iris (Sophie Thatcher)",
+     "summary": "Iris discovers she is a companion robot whose boyfriend controls her through an app.",
+     "hypnotist": "Josh (boyfriend)",
+     "method": "Programming via app",
+     "categories": [
+      "tech",
+      "partner-control"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "Variety",
+       "url": "https://variety.com/2025/film/reviews/companion-review-sophie-thatcher-jack-quaid-1236279638/"
+      }
+     ],
+     "evidence": "Review",
+     "confidence_flag": "Single source · flag",
+     "note": "Loose fit: she is an android, not a human woman."
+    }
+   }
+  },
+  {
+   "id": 3334,
+   "title": "Dancing Village: The Curse Begins (Badarawuhi di Desa Penari)",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "Film · Indonesia · dir. Kimo Stamboel",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "The demon goddess Badarawuhi puts young women into trance dances and chooses one to serve her; Mila tries to return her cursed bangle.",
+   "character": "Mila",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Badarawuhi",
+   "method": "Spirit trance",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Review",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "evil-female",
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "Projected Figures",
+     "url": "https://projectedfigures.com/2024/04/24/dancing-village-the-curse-begins-badarawuhi-di-desa-penari-2024/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:87"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:87": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Dancing Village: The Curse Begins (Badarawuhi di Desa Penari)",
+     "year": "2024",
+     "format": "movie",
+     "meta": "Film · Indonesia · dir. Kimo Stamboel",
+     "character": "Mila",
+     "summary": "The demon goddess Badarawuhi puts young women into trance dances and chooses one to serve her; Mila tries to return her cursed bangle.",
+     "hypnotist": "Badarawuhi",
+     "method": "Spirit trance",
+     "categories": [
+      "evil-female",
+      "spirit"
+     ],
+     "sources": [
+      {
+       "label": "Projected Figures",
+       "url": "https://projectedfigures.com/2024/04/24/dancing-village-the-curse-begins-badarawuhi-di-desa-penari-2024/"
+      }
+     ],
+     "evidence": "Review",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3335,
+   "title": "Fugue",
+   "subtitle": "",
+   "year": "2011",
+   "meta": "Film · USA · dir. Barbara Stepansky",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A pregnant woman is haunted and finds that a dissociative fugue erased months of her life, with a threat to her unborn baby.",
+   "character": "Charlotte",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: no external controller confirmed.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Unknown",
+   "method": "Dissociation / haunting",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "yes",
+   "evidence": "Database listings",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "belly",
+    "pregnancy-evil"
+   ],
+   "sources": [
+    {
+     "label": "TMDB",
+     "url": "https://www.themoviedb.org/movie/107872-fugue"
+    },
+    {
+     "label": "Simkl",
+     "url": "https://simkl.com/movies/201094/fugue"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:88"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:88": {
+     "pregnant_end": "yes",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Fugue",
+     "year": "2011",
+     "format": "movie",
+     "meta": "Film · USA · dir. Barbara Stepansky",
+     "character": "Charlotte",
+     "summary": "A pregnant woman is haunted and finds that a dissociative fugue erased months of her life, with a threat to her unborn baby.",
+     "hypnotist": "Unknown",
+     "method": "Dissociation / haunting",
+     "categories": [
+      "belly",
+      "pregnancy-evil"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "TMDB",
+       "url": "https://www.themoviedb.org/movie/107872-fugue"
+      },
+      {
+       "label": "Simkl",
+       "url": "https://simkl.com/movies/201094/fugue"
+      }
+     ],
+     "evidence": "Database listings",
+     "confidence_flag": "Medium · 2 sources",
+     "note": "Loose fit: no external controller confirmed."
+    }
+   }
+  },
+  {
+   "id": 3336,
+   "title": "A Woman Called Mother (Dia Bukan Ibu)",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Film · Indonesia · dir. Randolph Zaini",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Children notice their mother changing violently and uncover a ritual and demonic possession.",
+   "character": "The mother",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Demonic entity",
+   "method": "Ritual possession",
+   "kids_status": "yes",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Review + database",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "spirit",
+    "mother"
+   ],
+   "sources": [
+    {
+     "label": "FilmHounds",
+     "url": "https://filmhounds.co.uk/2025/09/24/a-woman-called-mother-fantastic-fest-2025-review/"
+    },
+    {
+     "label": "Letterboxd",
+     "url": "https://letterboxd.com/film/a-woman-called-mother/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:89"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:89": {
+     "pregnant_end": "no",
+     "kids_status": "yes",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "A Woman Called Mother (Dia Bukan Ibu)",
+     "year": "2025",
+     "format": "movie",
+     "meta": "Film · Indonesia · dir. Randolph Zaini",
+     "character": "The mother",
+     "summary": "Children notice their mother changing violently and uncover a ritual and demonic possession.",
+     "hypnotist": "Demonic entity",
+     "method": "Ritual possession",
+     "categories": [
+      "spirit",
+      "mother"
+     ],
+     "sources": [
+      {
+       "label": "FilmHounds",
+       "url": "https://filmhounds.co.uk/2025/09/24/a-woman-called-mother-fantastic-fest-2025-review/"
+      },
+      {
+       "label": "Letterboxd",
+       "url": "https://letterboxd.com/film/a-woman-called-mother/"
+      }
+     ],
+     "evidence": "Review + database",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
+  },
+  {
+   "id": 3337,
+   "title": "Of Dust and Stars",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Vertical series · China",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A stand-in heiress is abused and controlled by her wealthy adoptive family.",
+   "character": "Adopted heiress",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: family abuse, no hypnosis.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Adoptive family",
+   "method": "Coercive control",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Database",
+   "adult": "no",
+   "format": "vertical series",
+   "categories": [
+    "index-49"
+   ],
+   "sources": [
+    {
+     "label": "MyDramaList",
+     "url": "https://mydramalist.com/793668-chen-ai-yu-xing"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:90"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:90": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Of Dust and Stars",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "Vertical series · China",
+     "character": "Adopted heiress",
+     "summary": "A stand-in heiress is abused and controlled by her wealthy adoptive family.",
+     "hypnotist": "Adoptive family",
+     "method": "Coercive control",
+     "categories": [
+      "index-49"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "MyDramaList",
+       "url": "https://mydramalist.com/793668-chen-ai-yu-xing"
+      }
+     ],
+     "evidence": "Database",
+     "confidence_flag": "Single source · flag",
+     "note": "Loose fit: family abuse, no hypnosis."
+    }
+   }
+  },
+  {
+   "id": 3338,
+   "title": "Interview with the Vampire — 'Do You Know What It Means to Be Loved by Death'",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "TV series · S2E2 · AMC",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Santiago mesmerizes a terrified woman on stage, calms her with a promise of painless death and then the vampires feed on her.",
+   "character": "Woman on stage at the Théâtre des Vampires",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "episodes": [
+    {
+     "episode": "S2E2",
+     "gist": "On-stage mesmerism of a victim.",
+     "number_verified": true
+    }
+   ],
+   "hypnotist": "Santiago",
+   "method": "Vampire mesmerism",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Episode recaps",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "vampire"
+   ],
+   "sources": [
+    {
+     "label": "Fangoria",
+     "url": "https://www.fangoria.com/interview-with-the-vampire-season-2-episode-2/"
+    },
+    {
+     "label": "ComicBook.com",
+     "url": "https://comicbook.com/horror/news/interview-with-the-vampire-season-2-episode-2-recap-with-spoilers-do-you-know-what-it-means-to-be-loved-by-death/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:91"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:91": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Interview with the Vampire — 'Do You Know What It Means to Be Loved by Death'",
+     "year": "2024",
+     "format": "tv",
+     "meta": "TV series · S2E2 · AMC",
+     "character": "Woman on stage at the Théâtre des Vampires",
+     "summary": "Santiago mesmerizes a terrified woman on stage, calms her with a promise of painless death and then the vampires feed on her.",
+     "hypnotist": "Santiago",
+     "method": "Vampire mesmerism",
+     "categories": [
+      "vampire"
+     ],
+     "episodes": [
+      {
+       "episode": "S2E2",
+       "gist": "On-stage mesmerism of a victim.",
+       "number_verified": true
+      }
+     ],
+     "sources": [
+      {
+       "label": "Fangoria",
+       "url": "https://www.fangoria.com/interview-with-the-vampire-season-2-episode-2/"
+      },
+      {
+       "label": "ComicBook.com",
+       "url": "https://comicbook.com/horror/news/interview-with-the-vampire-season-2-episode-2-recap-with-spoilers-do-you-know-what-it-means-to-be-loved-by-death/"
+      }
+     ],
+     "evidence": "Episode recaps",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
+  },
+  {
+   "id": 3339,
+   "title": "The Romantic Journey",
+   "subtitle": "",
+   "year": "1916",
+   "meta": "Silent film · USA · dir. George Fitzmaurice",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Antique dealer Ratoor hypnotizes Cynthia, arranges her marriage to a millionaire and later compels her to sign over her claim to his estate.",
+   "character": "Cynthia",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Ratoor",
+   "method": "Hypnosis",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "AFI catalog synopsis",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "index-49",
+    "adult-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "AFI Catalog",
+     "url": "https://catalog.afi.com/Catalog/MovieDetailsPrintView/2321"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:92"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:92": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Romantic Journey",
+     "year": "1916",
+     "format": "movie",
+     "meta": "Silent film · USA · dir. George Fitzmaurice",
+     "character": "Cynthia",
+     "summary": "Antique dealer Ratoor hypnotizes Cynthia, arranges her marriage to a millionaire and later compels her to sign over her claim to his estate.",
+     "hypnotist": "Ratoor",
+     "method": "Hypnosis",
+     "categories": [
+      "index-49",
+      "adult-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "AFI Catalog",
+       "url": "https://catalog.afi.com/Catalog/MovieDetailsPrintView/2321"
+      }
+     ],
+     "evidence": "AFI catalog synopsis",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3340,
+   "title": "Obsession",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Film · USA · TIFF 2025",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A man's wish for a woman to love him turns her into a compulsive, possessed figure.",
+   "character": "Nikki",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Magical wish",
+   "method": "Supernatural compulsion",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Reviews",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "occult",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "The Guardian",
+     "url": "https://www.theguardian.com/film/2025/sep/06/obsession-movie-review-tiff"
+    },
+    {
+     "label": "IGN",
+     "url": "https://nordic.ign.com/obsession/99357/review/obsession-review"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:93"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:93": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Obsession",
+     "year": "2025",
+     "format": "movie",
+     "meta": "Film · USA · TIFF 2025",
+     "character": "Nikki",
+     "summary": "A man's wish for a woman to love him turns her into a compulsive, possessed figure.",
+     "hypnotist": "Magical wish",
+     "method": "Supernatural compulsion",
+     "categories": [
+      "occult",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "The Guardian",
+       "url": "https://www.theguardian.com/film/2025/sep/06/obsession-movie-review-tiff"
+      },
+      {
+       "label": "IGN",
+       "url": "https://nordic.ign.com/obsession/99357/review/obsession-review"
+      }
+     ],
+     "evidence": "Reviews",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
+  },
+  {
+   "id": 3341,
+   "title": "Witchboard",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Film · USA · dir. Chuck Russell",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A cursed board awakens the witch Naga Soth, who possesses Emily.",
+   "character": "Emily",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Naga Soth",
+   "method": "Possession",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Reviews",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "evil-female",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "RogerEbert.com",
+     "url": "https://www.rogerebert.com/reviews/witchboard-chuck-russell-movie-review-2025"
+    },
+    {
+     "label": "CBR",
+     "url": "https://www.cbr.com/witchboard-2025-review/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:94"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:94": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Witchboard",
+     "year": "2025",
+     "format": "movie",
+     "meta": "Film · USA · dir. Chuck Russell",
+     "character": "Emily",
+     "summary": "A cursed board awakens the witch Naga Soth, who possesses Emily.",
+     "hypnotist": "Naga Soth",
+     "method": "Possession",
+     "categories": [
+      "evil-female",
+      "occult"
+     ],
+     "sources": [
+      {
+       "label": "RogerEbert.com",
+       "url": "https://www.rogerebert.com/reviews/witchboard-chuck-russell-movie-review-2025"
+      },
+      {
+       "label": "CBR",
+       "url": "https://www.cbr.com/witchboard-2025-review/"
+      }
+     ],
+     "evidence": "Reviews",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
+  },
+  {
+   "id": 3342,
+   "title": "Hoba (The Vile)",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Film · UAE · dir. Majid Al Ansari",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Amani's husband brings home a second wife without her consent, and Amani fears black magic is controlling him amid supernatural disturbances.",
+   "character": "Amani",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: the husband, not the wife, is the suspected target.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Suspected black magic",
+   "method": "Black magic",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Trade + press",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "polygamy",
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "Variety",
+     "url": "https://variety.com/2025/film/news/polygamy-arab-horror-movie-the-vile-fantastic-fest-1236526823/"
+    },
+    {
+     "label": "The National",
+     "url": "https://www.thenationalnews.com/arts-culture/film-tv/2025/09/19/majid-al-ansari-hoba-the-vile-emirati-horror-film/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:95"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:95": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Hoba (The Vile)",
+     "year": "2025",
+     "format": "movie",
+     "meta": "Film · UAE · dir. Majid Al Ansari",
+     "character": "Amani",
+     "summary": "Amani's husband brings home a second wife without her consent, and Amani fears black magic is controlling him amid supernatural disturbances.",
+     "hypnotist": "Suspected black magic",
+     "method": "Black magic",
+     "categories": [
+      "polygamy",
+      "spirit"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "Variety",
+       "url": "https://variety.com/2025/film/news/polygamy-arab-horror-movie-the-vile-fantastic-fest-1236526823/"
+      },
+      {
+       "label": "The National",
+       "url": "https://www.thenationalnews.com/arts-culture/film-tv/2025/09/19/majid-al-ansari-hoba-the-vile-emirati-horror-film/"
+      }
+     ],
+     "evidence": "Trade + press",
+     "confidence_flag": "Medium · 2 sources",
+     "note": "Loose fit: the husband, not the wife, is the suspected target."
+    }
+   }
+  },
+  {
+   "id": 3343,
+   "title": "The Ritual Black Nun",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Film · Cambodia setting · Prime Video",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A pregnant woman must defeat an ancient curse to save her unborn child.",
+   "character": "Pregnant expat woman",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: curse peril, control not confirmed.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Curse",
+   "method": "Curse",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "yes",
+   "evidence": "Platform synopsis",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "pregnancy-evil"
+   ],
+   "sources": [
+    {
+     "label": "Prime Video",
+     "url": "https://www.primevideo.com/detail/0IEZ5NUXBQEESQ59SR382VY76I"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:96"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:96": {
+     "pregnant_end": "yes",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Ritual Black Nun",
+     "year": "2025",
+     "format": "movie",
+     "meta": "Film · Cambodia setting · Prime Video",
+     "character": "Pregnant expat woman",
+     "summary": "A pregnant woman must defeat an ancient curse to save her unborn child.",
+     "hypnotist": "Curse",
+     "method": "Curse",
+     "categories": [
+      "pregnancy-evil"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "Prime Video",
+       "url": "https://www.primevideo.com/detail/0IEZ5NUXBQEESQ59SR382VY76I"
+      }
+     ],
+     "evidence": "Platform synopsis",
+     "confidence_flag": "Single source · flag",
+     "note": "Loose fit: curse peril, control not confirmed."
+    }
+   }
+  },
+  {
+   "id": 3344,
+   "title": "Bad Behaviour",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "Film · New Zealand/USA · dir. Alice Englert",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Lucy attends a retreat run by guru Elon Bello, whose program for 'lost women' operates in a cult-like way.",
+   "character": "Lucy (Jennifer Connelly)",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: retreat manipulation, mild.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Elon Bello",
+   "method": "Guru manipulation",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Review",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "Spectrum Culture",
+     "url": "https://spectrumculture.com/2024/06/17/bad-behaviour-review/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:97"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:97": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Bad Behaviour",
+     "year": "2024",
+     "format": "movie",
+     "meta": "Film · New Zealand/USA · dir. Alice Englert",
+     "character": "Lucy (Jennifer Connelly)",
+     "summary": "Lucy attends a retreat run by guru Elon Bello, whose program for 'lost women' operates in a cult-like way.",
+     "hypnotist": "Elon Bello",
+     "method": "Guru manipulation",
+     "categories": [
+      "cult"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "Spectrum Culture",
+       "url": "https://spectrumculture.com/2024/06/17/bad-behaviour-review/"
+      }
+     ],
+     "evidence": "Review",
+     "confidence_flag": "Single source · flag",
+     "note": "Loose fit: retreat manipulation, mild."
+    }
+   }
   }
  ],
  "sections": [
@@ -478559,6 +480397,12 @@
         "Vampire mesmerism and hypnotic gaze",
         "Medium-high confidence"
        ],
+       "sources": [
+        {
+         "label": "vampirediaries.fandom.com",
+         "url": "https://vampirediaries.fandom.com/wiki/Do_You_Remember_the_First_Time%3F"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -480185,6 +482029,10 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3339,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3289,
        "from_source": "deep-refresh-oct18"
       },
@@ -480221,6 +482069,31 @@
     "adult-fanmade-oct15": null,
     "deep-refresh-oct18": null
    }
+  },
+  {
+   "title": "belly",
+   "category": "belly",
+   "description": "",
+   "notes": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "declared_count_by_source": {
+    "deep-refresh-oct18": null
+   },
+   "groups": [
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3335,
+       "from_source": "deep-refresh-oct18"
+      }
+     ],
+     "from_source": "deep-refresh-oct18"
+    }
+   ]
   },
   {
    "title": "Child walks in on parents’ intimate scene",
@@ -481235,7 +483108,15 @@
      "notes": [],
      "items": [
       {
+       "id": 3344,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3297,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3324,
        "from_source": "deep-refresh-oct18"
       },
       {
@@ -481244,6 +483125,10 @@
       },
       {
        "id": 3295,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3325,
        "from_source": "deep-refresh-oct18"
       },
       {
@@ -481256,6 +483141,10 @@
       },
       {
        "id": 3312,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3326,
        "from_source": "deep-refresh-oct18"
       },
       {
@@ -482130,7 +484019,19 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3326,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3340,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3320,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3341,
        "from_source": "deep-refresh-oct18"
       }
      ],
@@ -482916,6 +484817,10 @@
      "title": "Deep gap-check (missed titles)",
      "notes": [],
      "items": [
+      {
+       "id": 3333,
+       "from_source": "deep-refresh-oct18"
+      },
       {
        "id": 3302,
        "from_source": "deep-refresh-oct18"
@@ -488126,6 +490031,10 @@
      "items": [
       {
        "id": 3297,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3333,
        "from_source": "deep-refresh-oct18"
       },
       {
@@ -494432,6 +496341,10 @@
      "items": [
       {
        "id": 3278,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3330,
        "from_source": "deep-refresh-oct18"
       },
       {
@@ -501896,6 +503809,14 @@
        "from_source": "deep-gap-oct15"
       },
       {
+       "id": 3328,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3329,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3299,
        "from_source": "deep-refresh-oct18"
       },
@@ -502901,6 +504822,10 @@
      "notes": [],
      "items": [
       {
+       "id": 3324,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3271,
        "from_source": "deep-refresh-oct18"
       },
@@ -502910,6 +504835,10 @@
       },
       {
        "id": 3307,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3336,
        "from_source": "deep-refresh-oct18"
       }
      ],
@@ -507319,6 +509248,31 @@
       }
      ],
      "from_source": "pregnancy-yt-oct15"
+    }
+   ]
+  },
+  {
+   "title": "polygamy",
+   "category": "polygamy",
+   "description": "",
+   "notes": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "declared_count_by_source": {
+    "deep-refresh-oct18": null
+   },
+   "groups": [
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3342,
+       "from_source": "deep-refresh-oct18"
+      }
+     ],
+     "from_source": "deep-refresh-oct18"
     }
    ]
   },
@@ -513513,11 +515467,23 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3330,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3327,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3295,
        "from_source": "deep-refresh-oct18"
       },
       {
        "id": 3266,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3335,
        "from_source": "deep-refresh-oct18"
       },
       {
@@ -513534,6 +515500,14 @@
       },
       {
        "id": 3292,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3332,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3343,
        "from_source": "deep-refresh-oct18"
       },
       {
@@ -514260,12 +516234,24 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3328,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3254,
        "from_source": "deep-refresh-oct18"
       },
       {
        "id": 3108,
        "from_source": "deep-gap-oct15"
+      },
+      {
+       "id": 3337,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3339,
+       "from_source": "deep-refresh-oct18"
       },
       {
        "id": 3111,
@@ -520081,6 +522067,18 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3334,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3330,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3342,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3303,
        "from_source": "deep-refresh-oct18"
       },
@@ -520109,7 +522107,15 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3331,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3307,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3336,
        "from_source": "deep-refresh-oct18"
       }
      ],
@@ -520324,7 +522330,8 @@
     "streaming-oct15",
     "hypnotized-female-oct15",
     "deep-gap-oct15",
-    "youtube-deep-oct15"
+    "youtube-deep-oct15",
+    "deep-refresh-oct18"
    ],
    "groups": [
     {
@@ -520813,8 +522820,16 @@
      "notes": [],
      "items": [
       {
+       "id": 3334,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3115,
        "from_source": "deep-gap-oct15"
+      },
+      {
+       "id": 3341,
+       "from_source": "deep-refresh-oct18"
       }
      ],
      "from_source": "deep-gap-oct15"
@@ -520841,7 +522856,8 @@
     "streaming-oct15": null,
     "hypnotized-female-oct15": null,
     "deep-gap-oct15": null,
-    "youtube-deep-oct15": null
+    "youtube-deep-oct15": null,
+    "deep-refresh-oct18": null
    }
   },
   {
@@ -524332,6 +526348,10 @@
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3338,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3296,
        "from_source": "deep-refresh-oct18"
       },
@@ -526514,6 +528534,14 @@
       },
       {
        "id": 3302,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3326,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3340,
        "from_source": "deep-refresh-oct18"
       },
       {
