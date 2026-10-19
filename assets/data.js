@@ -4803,10 +4803,17 @@ window.CATALOG = {
     "Daughter of Dr Jekyll dup 1108; Charlie's Angels dup 603; Double Parked dup 3105; Read His Mind (no hypnosis); Mums (documentary); Rani Bhabani (no control); 蛊祸深宫 (controlled party unclear); Love Hypnosis (webtoon); Hypno 2024 (male)\n",
     "Diana Salazar dups 696/1820; YRKKH dup 3173; Saath Nibhaana dup; Mezarlık S3E6 (trafficking case, no woman control verified); GF hypnosis ASMR (audio roleplay); Ayyana Mane (no control)\n",
     "Floricienta dup 692; Yo soy Bea dup 2445; Querencia dup 1193/1194; Garota do Momento dup 3113; La Bruja 2011 (amarre aimed at men, unverified); Kızıl Goncalar (male); Arafta/Kuma/Gelin (no control); Sihir Pelakor (male target); 催眠美女服从主人 (adult, no reliable synopsis)\n",
-    "Vampire Carnival dup 2249 (new Dread Central clip source could enrich); Magpakailanman hipnotismo = card 23 (2020); A Scandalous Crime (young girl); Santau Perempuan Terlarang (male); Bloody Babu (target unclear); Taar e Ankaboot (2013, unverified)\n"
+    "Vampire Carnival dup 2249 (new Dread Central clip source could enrich); Magpakailanman hipnotismo = card 23 (2020); A Scandalous Crime (young girl); Santau Perempuan Terlarang (male); Bloody Babu (target unclear); Taar e Ankaboot (2013, unverified)\n",
+    "Past Life 2026 (male journalist hypnotized); Nikuen (school/minor per earlier); Goody Goody/Son of Sara/Listen to Your Husband/The Fetus (dups); Heart of Yiwha (black magic male revenge, no female control); Portraits of Delusion (woman is the vampire, not controlled); My Stepmom is a Witch (family film, spell on father); NIMA-042 (explicit AV)",
+    "被催眠的她 (dup 56); Vashikaranam (dup 204); No:309, Jijaji, Sen Çal, Dukes Heiress Daisy (dups); Ben de Özledim (Ali male hypnotized); Aşk Mantık İntikam (Yalçın male); The Executor 2026 (no hypnosis); 1,2,3 Hipnotízame (reality show); Prohibido Amarte (Wattpad)",
+    "Arka Sokaklar ep703 hypnosis (dup card 3117); You and Me Makes Three, We're Gonna Be Moms (dups); Trust Me: The False Prophet, Twisted Yoga (documentaries); The East Palace (no hypnosis); Neeli Zinda Hai (2021 black magic by MIL, no control of wife shown); Mrs. Revenge TVB (no hypnosis); Housemaid 2026 (no control of woman)",
+    "The Love of Hypnosis (no control of woman); Diagnosis Murder Delusions, Hypnotized 2004, Parasomnia, Fatih di Kampung Jawara, Bloody Sect, You Shouldn't Have Let Me In, Save Me (dups); Kanojo Saimin OVA 2026 (schoolgirls); hypnobirth newsreels (non-fiction); UZU-024 (explicit AV)",
+    "Sıfır Dediğimde, Guna-Guna Istri Muda, Brittas Empire, Mrs Brown's Boys, Zwei Mütter, Diana Salazar, Double Parked (dups); Kanojo Saimin (school); Princess Arete (princess age unclear/young); Nuevo Amores de Mercado (male hypnotized); Upaay (wife controls husband); Antique (no control); azab animation (wife uses pelet on husband)",
+    "Ultrasound, Parasomnia, Valley of the Zombies, Weapons, Sasural Simar Ka, The Hypnosis (dups); Bride for a Vampire 2025 (no synopsis); Electric Child (no control); Virgin Punk (no plot verified); Oh My Wife (spirit possesses husband); Firangi Bahu (not controlling woman); UZU-014 (explicit AV); The Woman 2025 (no hypnosis)",
+    "A Caverna Encantada (SBT children's novela, child characters); Assisted Living Atrocious Hypnosis (male); RHOP Juan Dixon (reality, male); Whirlpool, Perfumer, Sihir Isteri (dups); Susuk Rupawan (woman uses black magic herself); 蛊王妃 (heroine uses gu); Cult of the Family (documentary); Kamakshi (witch preys on men); Doctor Bahu (no magic); Güzel Aşklar Diyarı (no spell/control confirmed)"
    ],
    "check": {
-    "raw_count": 41,
+    "raw_count": 57,
     "ok": true
    },
    "status": "local"
@@ -4872,10 +4879,10 @@ window.CATALOG = {
   "pregnancy-yt-oct15": 50,
   "hypnosis-yt-oct15": 16,
   "youtube-india-oct15": 23,
-  "deep-refresh-oct18": 41
+  "deep-refresh-oct18": 57
  },
- "raw_total": 6157,
- "entry_count": 3152,
+ "raw_total": 6173,
+ "entry_count": 3167,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -4893,7 +4900,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 295
+   "entry_count": 296
   },
   {
    "key": "walkin",
@@ -4917,13 +4924,13 @@ window.CATALOG = {
    "key": "cult",
    "label": "Cult / coercive brainwashing",
    "legend_label": "Cult / coercive brainwashing",
-   "entry_count": 37
+   "entry_count": 39
   },
   {
    "key": "occult",
    "label": "Demonic / occult control",
    "legend_label": "Demonic / occult control",
-   "entry_count": 114
+   "entry_count": 115
   },
   {
    "key": "devil-deal-pregnancy-hypnosis",
@@ -4941,13 +4948,13 @@ window.CATALOG = {
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 58
+   "entry_count": 59
   },
   {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 283
+   "entry_count": 284
   },
   {
    "key": "child-controller",
@@ -4959,7 +4966,7 @@ window.CATALOG = {
    "key": "partner-control",
    "label": "Female controlled by husband / boyfriend / ex-partner",
    "legend_label": "Female controlled by husband / boyfriend / ex-partner",
-   "entry_count": 47
+   "entry_count": 49
   },
   {
    "key": "india-control",
@@ -4977,7 +4984,7 @@ window.CATALOG = {
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 190
+   "entry_count": 192
   },
   {
    "key": "index-56",
@@ -5007,7 +5014,7 @@ window.CATALOG = {
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 105
+   "entry_count": 106
   },
   {
    "key": "index-54",
@@ -5043,13 +5050,13 @@ window.CATALOG = {
    "key": "royal-hypnosis",
    "label": "Hypnotized queen/princess for marriage or the throne",
    "legend_label": "Hypnotized queen / princess",
-   "entry_count": 52
+   "entry_count": 53
   },
   {
    "key": "love",
    "label": "Hypnotized to love",
    "legend_label": "Hypnotized to love",
-   "entry_count": 227
+   "entry_count": 228
   },
   {
    "key": "hypno-intimacy",
@@ -5079,7 +5086,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 183
+   "entry_count": 184
   },
   {
    "key": "mom-partner-control",
@@ -5109,7 +5116,7 @@ window.CATALOG = {
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
    "legend_label": "Other female hypnosis / mind control",
-   "entry_count": 318
+   "entry_count": 319
   },
   {
    "key": "parents-sleeping",
@@ -5247,7 +5254,7 @@ window.CATALOG = {
    "key": "pregnancy-evil",
    "label": "Pregnant women controlled / possessed by evil forces",
    "legend_label": "Pregnant women controlled / possessed by evil forces",
-   "entry_count": 59
+   "entry_count": 61
   },
   {
    "key": "regional-pregnancy",
@@ -5277,7 +5284,7 @@ window.CATALOG = {
    "key": "index-49",
    "label": "Rich woman hypnotized — money / inheritance / fraud",
    "legend_label": "Rich woman hypnotized — money / inheritance / fraud",
-   "entry_count": 25
+   "entry_count": 26
   },
   {
    "key": "index-52",
@@ -5325,7 +5332,7 @@ window.CATALOG = {
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 187
+   "entry_count": 189
   },
   {
    "key": "stepmom-control",
@@ -5349,7 +5356,7 @@ window.CATALOG = {
    "key": "index-59",
    "label": "Surrogacy / IVF / fertility drama",
    "legend_label": "Surrogacy / IVF / fertility drama",
-   "entry_count": 18
+   "entry_count": 21
   },
   {
    "key": "index-55",
@@ -5367,7 +5374,7 @@ window.CATALOG = {
    "key": "vampire",
    "label": "Vampire mesmerism",
    "legend_label": "Vampire mesmerism",
-   "entry_count": 263
+   "entry_count": 265
   },
   {
    "key": "villain",
@@ -5421,7 +5428,7 @@ window.CATALOG = {
    "key": "agegap-marriage",
    "label": "Young wife, older / rich husband",
    "legend_label": "Young wife, older / rich husband",
-   "entry_count": 23
+   "entry_count": 24
   }
  ],
  "formats": [
@@ -472259,6 +472266,12 @@ window.CATALOG = {
      "air_date": "2026-08-24",
      "gist": "A second session surfaces a significant clinic memory.",
      "number_verified": false
+    },
+    {
+     "episode": "S61E227",
+     "air_date": "2026-07-07",
+     "gist": "Cat's hypnosis session with Marlena.",
+     "number_verified": true
     }
    ],
    "tags": [
@@ -472276,7 +472289,8 @@ window.CATALOG = {
    "adult": "no",
    "format": "tv",
    "categories": [
-    "medical"
+    "medical",
+    "adult-hypnosis"
    ],
    "sources": [
     {
@@ -472286,6 +472300,14 @@ window.CATALOG = {
     {
      "label": "Daily Soap Dish",
      "url": "https://dailysoapdish.com/days-of-our-lives-are-you-invested-in-ej-and-cat-hypnosis-wuthering-heights-mystery-or-is-it-a-slow-burn-mess/"
+    },
+    {
+     "label": "Soap Central recap",
+     "url": "https://www.soapcentral.com/days-of-our-lives/days-lives-recap-july-7-lexie-tears-ej-apart-gambling-with-her-life"
+    },
+    {
+     "label": "TVMEG recap",
+     "url": "https://tvmeg.com/index.php/2026/07/08/days-short-recap-tuesday-july-7-2026/"
     }
    ],
    "youtube_ids": [],
@@ -472293,13 +472315,125 @@ window.CATALOG = {
     "deep-refresh-oct18"
    ],
    "source_records": [
-    "deep-refresh-oct18:28"
+    "deep-refresh-oct18:28",
+    "deep-refresh-oct18:44"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "deep-refresh-oct18:28",
+    "source": "deep-refresh-oct18",
+    "label": "Days of Our Lives — Cat Greene hypnosis (2026)",
+    "identifiers": [
+     "year/date",
+     "own title/qualifier"
+    ],
+    "title": "Days of Our Lives — Cat Greene hypnosis (2026)",
+    "subtitle": "",
+    "year": "2026",
+    "meta": "Soap opera · USA · Peacock · episodes 7 Jul and 24 Aug 2026",
+    "summary": "Dr Marlena Evans hypnotises Cat to recover memories of her time at an Italian clinic with a bandaged EJ DiMera. The August session surfaces a shocking memory, and she confronts EJ.",
+    "character": "Cat Greene (AnnaLynne McCord)",
+    "note": "Loose fit: consensual therapeutic hypnosis.",
+    "mechanism": "",
+    "confidence_flag": "Medium · 2 sources",
+    "categories": [
+     "medical"
+    ],
+    "sources": [
+     {
+      "label": "Soap Opera Magazine",
+      "url": "https://soapoperamagazine.com/days-of-our-lives-spoilers/dool-spoilers-cat-greene-memory/08/23/2026/"
+     },
+     {
+      "label": "Daily Soap Dish",
+      "url": "https://dailysoapdish.com/days-of-our-lives-are-you-invested-in-ej-and-cat-hypnosis-wuthering-heights-mystery-or-is-it-a-slow-burn-mess/"
+     }
+    ],
+    "episodes": [
+     {
+      "episode": "7 Jul 2026",
+      "air_date": "2026-07-07",
+      "gist": "First session: fragments (Wuthering Heights, a hand squeeze).",
+      "number_verified": false
+     },
+     {
+      "episode": "24 Aug 2026",
+      "air_date": "2026-08-24",
+      "gist": "A second session surfaces a significant clinic memory.",
+      "number_verified": false
+     }
+    ],
+    "tags": [
+     "loose fit"
+    ],
+    "hypnotist": "Dr Marlena Evans (therapeutic)",
+    "gain_motive": [
+     "memory recovery"
+    ],
+    "method": "Hypnosis sessions",
+    "kids_status": "no",
+    "kids_together": "no",
+    "pregnant_end": "no",
+    "evidence": "Spoiler/preview articles",
+    "adult": "no",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "deep-refresh-oct18:44",
+     "source": "deep-refresh-oct18",
+     "label": "Days of Our Lives — Cat Greene hypnosis (2026)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "Days of Our Lives — Cat Greene hypnosis (2026)",
+     "subtitle": "",
+     "year": "2026",
+     "meta": "Soap opera · USA · Peacock · S61 ep 227 (7 Jul 2026)",
+     "summary": "Cat undergoes hypnosis with Dr Marlena Evans and recalls time with EJ in Italy. Marlena learns Cat is an ISA agent, and Cat later admits she lied about the session.",
+     "character": "Cat Greene",
+     "note": "Loose fit: consensual therapeutic session.",
+     "mechanism": "",
+     "confidence_flag": "Medium · 2 sources",
+     "categories": [
+      "adult-hypnosis",
+      "medical"
+     ],
+     "sources": [
+      {
+       "label": "Soap Central recap",
+       "url": "https://www.soapcentral.com/days-of-our-lives/days-lives-recap-july-7-lexie-tears-ej-apart-gambling-with-her-life"
+      },
+      {
+       "label": "TVMEG recap",
+       "url": "https://tvmeg.com/index.php/2026/07/08/days-short-recap-tuesday-july-7-2026/"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S61E227",
+       "air_date": "2026-07-07",
+       "gist": "Cat's hypnosis session with Marlena.",
+       "number_verified": true
+      }
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "hypnotist": "Dr Marlena Evans",
+     "method": "Therapeutic hypnosis",
+     "kids_status": "no",
+     "kids_together": "no",
+     "pregnant_end": "no",
+     "evidence": "Episode recaps",
+     "adult": "no",
+     "distinct_story": true,
+     "matched_by": "title+year"
+    }
+   ],
    "raw": {
     "deep-refresh-oct18:28": {
      "pregnant_end": "no",
@@ -472352,6 +472486,50 @@ window.CATALOG = {
      "evidence": "Spoiler/preview articles",
      "confidence_flag": "Medium · 2 sources",
      "note": "Loose fit: consensual therapeutic hypnosis."
+    },
+    "deep-refresh-oct18:44": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Days of Our Lives — Cat Greene hypnosis (2026)",
+     "year": "2026",
+     "format": "tv",
+     "meta": "Soap opera · USA · Peacock · S61 ep 227 (7 Jul 2026)",
+     "character": "Cat Greene",
+     "summary": "Cat undergoes hypnosis with Dr Marlena Evans and recalls time with EJ in Italy. Marlena learns Cat is an ISA agent, and Cat later admits she lied about the session.",
+     "hypnotist": "Dr Marlena Evans",
+     "method": "Therapeutic hypnosis",
+     "categories": [
+      "adult-hypnosis",
+      "medical"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "episodes": [
+      {
+       "episode": "S61E227",
+       "air_date": "2026-07-07",
+       "gist": "Cat's hypnosis session with Marlena.",
+       "number_verified": true
+      }
+     ],
+     "sources": [
+      {
+       "label": "Soap Central recap",
+       "url": "https://www.soapcentral.com/days-of-our-lives/days-lives-recap-july-7-lexie-tears-ej-apart-gambling-with-her-life"
+      },
+      {
+       "label": "TVMEG recap",
+       "url": "https://tvmeg.com/index.php/2026/07/08/days-short-recap-tuesday-july-7-2026/"
+      }
+     ],
+     "evidence": "Episode recaps",
+     "confidence_flag": "Medium · 2 sources",
+     "note": "Loose fit: consensual therapeutic session."
     }
    }
   },
@@ -473415,6 +473593,1189 @@ window.CATALOG = {
      "evidence": "Broadcaster clip title",
      "confidence_flag": "Single source · flag",
      "note": "Loose fit: benign session; detail is limited to the clip title."
+    }
+   }
+  },
+  {
+   "id": 3291,
+   "title": "The Vampire Thrall's Revenge",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Vertical series · DramaBox · 30 episodes (8 Sep 2026)",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Emma escapes the abusive family that raised her as a human blood servant and falls for Riley Black, the vampire heiress bound to claim her. The two women set out to break an ancient blood pact.",
+   "character": "Emma, human blood servant",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: a thrall bond rather than hypnosis.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Blood pact / vampire heiress",
+   "method": "Blood-pact thrall bond",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Catalogue synopsis",
+   "adult": "no",
+   "format": "vertical series",
+   "categories": [
+    "vampire",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "DramaFeed",
+     "url": "https://drama-feed.com/en/d/1112660"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:42"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:42": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Vampire Thrall's Revenge",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "Vertical series · DramaBox · 30 episodes (8 Sep 2026)",
+     "character": "Emma, human blood servant",
+     "summary": "Emma escapes the abusive family that raised her as a human blood servant and falls for Riley Black, the vampire heiress bound to claim her. The two women set out to break an ancient blood pact.",
+     "hypnotist": "Blood pact / vampire heiress",
+     "method": "Blood-pact thrall bond",
+     "categories": [
+      "vampire",
+      "fantasy"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "DramaFeed",
+       "url": "https://drama-feed.com/en/d/1112660"
+      }
+     ],
+     "evidence": "Catalogue synopsis",
+     "confidence_flag": "Single source · flag",
+     "note": "Loose fit: a thrall bond rather than hypnosis."
+    }
+   }
+  },
+  {
+   "id": 3292,
+   "title": "Nightborn",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Film · Finland · dir. Hanna Bergholm · Berlinale 2026 · Shudder 31 Jul 2026",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "After moving to her isolated childhood home in a Finnish forest, Saga gives birth to a son she is sure is wrong. The seemingly demonic baby hungers for her blood while her husband Jon struggles to believe her.",
+   "character": "Saga (Seidi Haarla)",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: evil baby; no mind control.",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "yes",
+   "kids_together": "yes",
+   "pregnant_end": "yes",
+   "evidence": "Trailer article with official synopsis",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "pregnancy-evil"
+   ],
+   "sources": [
+    {
+     "label": "ComingSoon",
+     "url": "https://www.comingsoon.net/movies/trailers/2157328-harry-potters-rupert-grint-raises-a-demon-baby-in-disturbing-nightborn-horror-movie-trailer"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:43"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:43": {
+     "pregnant_end": "yes",
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Nightborn",
+     "year": "2026",
+     "format": "movie",
+     "meta": "Film · Finland · dir. Hanna Bergholm · Berlinale 2026 · Shudder 31 Jul 2026",
+     "character": "Saga (Seidi Haarla)",
+     "summary": "After moving to her isolated childhood home in a Finnish forest, Saga gives birth to a son she is sure is wrong. The seemingly demonic baby hungers for her blood while her husband Jon struggles to believe her.",
+     "categories": [
+      "pregnancy-evil"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "ComingSoon",
+       "url": "https://www.comingsoon.net/movies/trailers/2157328-harry-potters-rupert-grint-raises-a-demon-baby-in-disturbing-nightborn-horror-movie-trailer"
+      }
+     ],
+     "evidence": "Trailer article with official synopsis",
+     "confidence_flag": "Single source · flag",
+     "note": "Loose fit: evil baby; no mind control."
+    }
+   }
+  },
+  {
+   "id": 3293,
+   "title": "Give Me Back My Baby",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Film · USA · Tubi (8 May 2026) · dir. Jhayla Mosley",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A couple hires a surrogate, but her growing obsession with the baby threatens to cost them everything.",
+   "character": "The surrogate",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: surrogacy thriller with no hypnosis.",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "yes",
+   "evidence": "Listing + trailer article",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "index-59"
+   ],
+   "sources": [
+    {
+     "label": "Rotten Tomatoes",
+     "url": "https://www.rottentomatoes.com/m/give_me_back_my_baby"
+    },
+    {
+     "label": "FirstShowing",
+     "url": "https://www.firstshowing.net/2026/official-trailer-for-tubis-give-me-back-my-baby-surrogate-mom-thriller/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:45"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:45": {
+     "pregnant_end": "yes",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Give Me Back My Baby",
+     "year": "2026",
+     "format": "movie",
+     "meta": "Film · USA · Tubi (8 May 2026) · dir. Jhayla Mosley",
+     "character": "The surrogate",
+     "summary": "A couple hires a surrogate, but her growing obsession with the baby threatens to cost them everything.",
+     "categories": [
+      "index-59"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "Rotten Tomatoes",
+       "url": "https://www.rottentomatoes.com/m/give_me_back_my_baby"
+      },
+      {
+       "label": "FirstShowing",
+       "url": "https://www.firstshowing.net/2026/official-trailer-for-tubis-give-me-back-my-baby-surrogate-mom-thriller/"
+      }
+     ],
+     "evidence": "Listing + trailer article",
+     "confidence_flag": "Medium · 2 sources",
+     "note": "Loose fit: surrogacy thriller with no hypnosis."
+    }
+   }
+  },
+  {
+   "id": 3294,
+   "title": "Coração Acelerado",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Telenovela · Brazil · Portuguese · TV Globo",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Ronei takes a mystical tincture from the healer Nora and gains a seductive aura. When he flirts with the villain Zilá, she is left 'hypnotized' (scenes from 28 Mar 2026).",
+   "character": "Zilá (Leandra Leal)",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: 'hypnotized' is figurative charm; the potion is taken by the man.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Ronei (Thomás Aquino), via Nora's potion",
+   "method": "Mystical tincture",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Entertainment news",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "love",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "Contigo!",
+     "url": "https://contigo.com.br/noticias/novelas/ronei-toma-pocao-mistica-e-enquadra-zila-em-coracao-acelerado-entenda.phtml"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:46"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:46": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Coração Acelerado",
+     "year": "2026",
+     "format": "tv",
+     "meta": "Telenovela · Brazil · Portuguese · TV Globo",
+     "character": "Zilá (Leandra Leal)",
+     "summary": "Ronei takes a mystical tincture from the healer Nora and gains a seductive aura. When he flirts with the villain Zilá, she is left 'hypnotized' (scenes from 28 Mar 2026).",
+     "hypnotist": "Ronei (Thomás Aquino), via Nora's potion",
+     "method": "Mystical tincture",
+     "categories": [
+      "love",
+      "other-control"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "Contigo!",
+       "url": "https://contigo.com.br/noticias/novelas/ronei-toma-pocao-mistica-e-enquadra-zila-em-coracao-acelerado-entenda.phtml"
+      }
+     ],
+     "evidence": "Entertainment news",
+     "confidence_flag": "Single source · flag",
+     "note": "Loose fit: 'hypnotized' is figurative charm; the potion is taken by the man."
+    }
+   }
+  },
+  {
+   "id": 3295,
+   "title": "The Devil's Daughter (The Sect / La setta)",
+   "subtitle": "",
+   "year": "1991",
+   "meta": "Film · Italy · dir. Michele Soavi · prod. Dario Argento",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "A Luciferian sect secretly orchestrates Miriam's life. An elder plants a beetle in her during a ritual, her friend Kathryn acts under the sect's influence, and the sect impregnates Miriam to bear the Antichrist.",
+   "character": "Miriam Kreisl (Kelly Curtis), adult teacher; her friend Kathryn",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Moebius Kelly and the sect",
+   "method": "Ritual / occult influence",
+   "kids_status": "yes",
+   "kids_together": "no",
+   "pregnant_end": "yes",
+   "evidence": "Encyclopedia plot",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "pregnancy-evil",
+    "cult",
+    "occult"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Devil%27s_Daughter_(1991_film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:47"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:47": {
+     "pregnant_end": "yes",
+     "kids_status": "yes",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Devil's Daughter (The Sect / La setta)",
+     "year": "1991",
+     "format": "movie",
+     "meta": "Film · Italy · dir. Michele Soavi · prod. Dario Argento",
+     "character": "Miriam Kreisl (Kelly Curtis), adult teacher; her friend Kathryn",
+     "summary": "A Luciferian sect secretly orchestrates Miriam's life. An elder plants a beetle in her during a ritual, her friend Kathryn acts under the sect's influence, and the sect impregnates Miriam to bear the Antichrist.",
+     "hypnotist": "Moebius Kelly and the sect",
+     "method": "Ritual / occult influence",
+     "categories": [
+      "pregnancy-evil",
+      "cult",
+      "occult"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Devil%27s_Daughter_(1991_film)"
+      }
+     ],
+     "evidence": "Encyclopedia plot",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3296,
+   "title": "The Kiss of a Vampire",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Film · USA · Tubi · dir. Richard Douglas Jensen",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Fragile newlywed Carol learns that her doctor husband Frederick is a 1,200-year-old vampire who rules a remote Appalachian town. He chose and groomed her for breeding and control.",
+   "character": "Carol (Saporah Bonnette), new bride",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: control is grooming, not explicit hypnosis.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Frederick Wessex (Philip Hulford)",
+   "method": "Vampiric grooming / control",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Review",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "vampire",
+    "agegap-marriage"
+   ],
+   "sources": [
+    {
+     "label": "Morbidly Beautiful review",
+     "url": "https://morbidlybeautiful.com/tubi-tuesday-kiss-of-a-vampire-2025/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:48"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:48": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Kiss of a Vampire",
+     "year": "2025",
+     "format": "movie",
+     "meta": "Film · USA · Tubi · dir. Richard Douglas Jensen",
+     "character": "Carol (Saporah Bonnette), new bride",
+     "summary": "Fragile newlywed Carol learns that her doctor husband Frederick is a 1,200-year-old vampire who rules a remote Appalachian town. He chose and groomed her for breeding and control.",
+     "hypnotist": "Frederick Wessex (Philip Hulford)",
+     "method": "Vampiric grooming / control",
+     "categories": [
+      "vampire",
+      "agegap-marriage"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "Morbidly Beautiful review",
+       "url": "https://morbidlybeautiful.com/tubi-tuesday-kiss-of-a-vampire-2025/"
+      }
+     ],
+     "evidence": "Review",
+     "confidence_flag": "Single source · flag",
+     "note": "Loose fit: control is grooming, not explicit hypnosis."
+    }
+   }
+  },
+  {
+   "id": 3297,
+   "title": "Becoming the Wife of a Dark Cult Overlord (사이비 교주의 아내가 되었습니다)",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Vertical series · South Korea · ReelShort · 50 episodes (27 Jan 2025)",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Hee-jin is kidnapped and discovers that her boyfriend is the heir of a cult that brainwashes members into believing the outside world is evil.",
+   "character": "Lee Hee-jin",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: the cult brainwashes members generally; Hee-jin tries to escape.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Jung Yo-han / the cult",
+   "method": "Cult brainwashing",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Database synopsis + review",
+   "adult": "no",
+   "format": "vertical series",
+   "categories": [
+    "cult",
+    "partner-control"
+   ],
+   "sources": [
+    {
+     "label": "MyDramaList",
+     "url": "https://mydramalist.com/807162-becoming-the-wife-of-a-dark-cult-overlord"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:49"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:49": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Becoming the Wife of a Dark Cult Overlord (사이비 교주의 아내가 되었습니다)",
+     "year": "2025",
+     "format": "vertical series",
+     "meta": "Vertical series · South Korea · ReelShort · 50 episodes (27 Jan 2025)",
+     "character": "Lee Hee-jin",
+     "summary": "Hee-jin is kidnapped and discovers that her boyfriend is the heir of a cult that brainwashes members into believing the outside world is evil.",
+     "hypnotist": "Jung Yo-han / the cult",
+     "method": "Cult brainwashing",
+     "categories": [
+      "cult",
+      "partner-control"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "MyDramaList",
+       "url": "https://mydramalist.com/807162-becoming-the-wife-of-a-dark-cult-overlord"
+      }
+     ],
+     "evidence": "Database synopsis + review",
+     "confidence_flag": "Single source · flag",
+     "note": "Loose fit: the cult brainwashes members generally; Hee-jin tries to escape."
+    }
+   }
+  },
+  {
+   "id": 3298,
+   "title": "Singardaan",
+   "subtitle": "",
+   "year": "2019",
+   "meta": "Web series · India · Hindi · Ullu · 6 episodes",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Gupta Ji secretly takes home the makeup box of the dead courtesan Shabnam. Its mystical influence makes his wife behave like Shabnam.",
+   "character": "Gupta Ji's wife (Tanima Bhattacharya)",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "The daughter is also affected; her age is not stated, so she is not recorded.",
+   "hypnotist": "Shabnam's mystical makeup box",
+   "method": "Enchanted object / spirit influence",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Web article",
+   "adult": "yes",
+   "format": "web series",
+   "categories": [
+    "spirit",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "Winners Maze",
+     "url": "https://winnersmaze.com/singardaan-web-series-cast-name/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:50"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:50": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes",
+     "title": "Singardaan",
+     "year": "2019",
+     "format": "web series",
+     "meta": "Web series · India · Hindi · Ullu · 6 episodes",
+     "character": "Gupta Ji's wife (Tanima Bhattacharya)",
+     "summary": "Gupta Ji secretly takes home the makeup box of the dead courtesan Shabnam. Its mystical influence makes his wife behave like Shabnam.",
+     "hypnotist": "Shabnam's mystical makeup box",
+     "method": "Enchanted object / spirit influence",
+     "categories": [
+      "spirit",
+      "wife"
+     ],
+     "sources": [
+      {
+       "label": "Winners Maze",
+       "url": "https://winnersmaze.com/singardaan-web-series-cast-name/"
+      }
+     ],
+     "evidence": "Web article",
+     "confidence_flag": "Single source · flag",
+     "note": "The daughter is also affected; her age is not stated, so she is not recorded."
+    }
+   }
+  },
+  {
+   "id": 3299,
+   "title": "Mother's Baby",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Film · Austria/Germany · dir. Johanna Moder",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Julia is treated at a private fertility clinic. After the birth the baby is taken away and returned, and she becomes convinced it is not hers.",
+   "character": "Julia (Marie Leuenberger)",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: fertility-clinic paranoia with no hypnosis.",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "yes",
+   "kids_together": "no",
+   "pregnant_end": "yes",
+   "evidence": "Listing + review",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "index-59",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Rotten Tomatoes",
+     "url": "https://www.rottentomatoes.com/m/mothers_baby"
+    },
+    {
+     "label": "Hollywood Reporter review",
+     "url": "https://www.hollywoodreporter.com/movies/movie-reviews/mothers-baby-review-marie-leuenberger-claes-bang-johanna-moder-1236142131/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:51"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:51": {
+     "pregnant_end": "yes",
+     "kids_status": "yes",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Mother's Baby",
+     "year": "2025",
+     "format": "movie",
+     "meta": "Film · Austria/Germany · dir. Johanna Moder",
+     "character": "Julia (Marie Leuenberger)",
+     "summary": "Julia is treated at a private fertility clinic. After the birth the baby is taken away and returned, and she becomes convinced it is not hers.",
+     "categories": [
+      "index-59",
+      "medical"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "Rotten Tomatoes",
+       "url": "https://www.rottentomatoes.com/m/mothers_baby"
+      },
+      {
+       "label": "Hollywood Reporter review",
+       "url": "https://www.hollywoodreporter.com/movies/movie-reviews/mothers-baby-review-marie-leuenberger-claes-bang-johanna-moder-1236142131/"
+      }
+     ],
+     "evidence": "Listing + review",
+     "confidence_flag": "Medium · 2 sources",
+     "note": "Loose fit: fertility-clinic paranoia with no hypnosis."
+    }
+   }
+  },
+  {
+   "id": 3300,
+   "title": "Switched Before Birth",
+   "subtitle": "",
+   "year": "2021",
+   "meta": "TV film · USA · Lifetime · dir. Elisabeth Röhm",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "After years of IVF, Olivia gives birth to 'twins' and learns one baby is biologically Anna's, implanted in her by mistake.",
+   "character": "Olivia Crawford (Skyler Samuels)",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: IVF mix-up with no control.",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "yes",
+   "kids_together": "no",
+   "pregnant_end": "yes",
+   "evidence": "Producer page + listing",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "index-59"
+   ],
+   "sources": [
+    {
+     "label": "Swirl Films",
+     "url": "https://www.swirlfilms.com/our-work/switched-before-birth/"
+    },
+    {
+     "label": "TV Time",
+     "url": "https://people.tvtime.com/movie/57f62250-0f85-4557-8dc9-ab89ab8cff9e"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:52"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:52": {
+     "pregnant_end": "yes",
+     "kids_status": "yes",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Switched Before Birth",
+     "year": "2021",
+     "format": "movie",
+     "meta": "TV film · USA · Lifetime · dir. Elisabeth Röhm",
+     "character": "Olivia Crawford (Skyler Samuels)",
+     "summary": "After years of IVF, Olivia gives birth to 'twins' and learns one baby is biologically Anna's, implanted in her by mistake.",
+     "categories": [
+      "index-59"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "Swirl Films",
+       "url": "https://www.swirlfilms.com/our-work/switched-before-birth/"
+      },
+      {
+       "label": "TV Time",
+       "url": "https://people.tvtime.com/movie/57f62250-0f85-4557-8dc9-ab89ab8cff9e"
+      }
+     ],
+     "evidence": "Producer page + listing",
+     "confidence_flag": "Medium · 2 sources",
+     "note": "Loose fit: IVF mix-up with no control."
+    }
+   }
+  },
+  {
+   "id": 3301,
+   "title": "A Prism of Truths",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Vertical series · DramaVibe · 82 episodes",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "After eight years of deception, Jane escapes her boyfriend Ian Bolt's manipulation and brainwashing with help from CEO Joe Shaw, then rebuilds her career.",
+   "character": "Jane Cole, jewelry designer",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: emotional brainwashing, not hypnosis.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Ian Bolt",
+   "method": "Psychological manipulation",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Platform synopsis",
+   "adult": "no",
+   "format": "vertical series",
+   "categories": [
+    "partner-control"
+   ],
+   "sources": [
+    {
+     "label": "DramaVibe",
+     "url": "https://dramavibe.com/series/a-prism-of-truths-00108406/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:53"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:53": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "A Prism of Truths",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "Vertical series · DramaVibe · 82 episodes",
+     "character": "Jane Cole, jewelry designer",
+     "summary": "After eight years of deception, Jane escapes her boyfriend Ian Bolt's manipulation and brainwashing with help from CEO Joe Shaw, then rebuilds her career.",
+     "hypnotist": "Ian Bolt",
+     "method": "Psychological manipulation",
+     "categories": [
+      "partner-control"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "DramaVibe",
+       "url": "https://dramavibe.com/series/a-prism-of-truths-00108406/"
+      }
+     ],
+     "evidence": "Platform synopsis",
+     "confidence_flag": "Single source · flag",
+     "note": "Loose fit: emotional brainwashing, not hypnosis."
+    }
+   }
+  },
+  {
+   "id": 3302,
+   "title": "Implanted",
+   "subtitle": "",
+   "year": "2021",
+   "meta": "Film · USA · dir. Fabien Dufils",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Struggling to pay for her mother's care, Sarah joins a trial of an AI nanochip implanted in her brain. A voice from the chip takes control and makes her obey violent commands under threat to her mother.",
+   "character": "Sarah (Michelle Girolami)",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "AI nanochip / its controllers",
+   "method": "Brain implant",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Database + preview article",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "tech",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt9786896/"
+    },
+    {
+     "label": "Hollywood Insider",
+     "url": "https://www.hollywoodinsider.com/implanted-review/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:54"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:54": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Implanted",
+     "year": "2021",
+     "format": "movie",
+     "meta": "Film · USA · dir. Fabien Dufils",
+     "character": "Sarah (Michelle Girolami)",
+     "summary": "Struggling to pay for her mother's care, Sarah joins a trial of an AI nanochip implanted in her brain. A voice from the chip takes control and makes her obey violent commands under threat to her mother.",
+     "hypnotist": "AI nanochip / its controllers",
+     "method": "Brain implant",
+     "categories": [
+      "tech",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt9786896/"
+      },
+      {
+       "label": "Hollywood Insider",
+       "url": "https://www.hollywoodinsider.com/implanted-review/"
+      }
+     ],
+     "evidence": "Database + preview article",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
+  },
+  {
+   "id": 3303,
+   "title": "The Mask of Love (ผีตาโขน)",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "TV series · Thailand · Thai · Channel 8 · 40 episodes (20 Aug–28 Oct 2025)",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Content creator Thianphisut buys a Phi Ta Khon ghost mask and is possessed by the spirit of Lalita, who uses her body to meet her former lover Chatban.",
+   "character": "Thianphisut (Nudee Ornpreeya)",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Lalita's spirit",
+   "method": "Possession via mask",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Database synopsis",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "spirit"
+   ],
+   "sources": [
+    {
+     "label": "MyDramaList",
+     "url": "https://mydramalist.com/764777-the-mask-of-love"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:55"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:55": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Mask of Love (ผีตาโขน)",
+     "year": "2025",
+     "format": "tv",
+     "meta": "TV series · Thailand · Thai · Channel 8 · 40 episodes (20 Aug–28 Oct 2025)",
+     "character": "Thianphisut (Nudee Ornpreeya)",
+     "summary": "Content creator Thianphisut buys a Phi Ta Khon ghost mask and is possessed by the spirit of Lalita, who uses her body to meet her former lover Chatban.",
+     "hypnotist": "Lalita's spirit",
+     "method": "Possession via mask",
+     "categories": [
+      "spirit"
+     ],
+     "sources": [
+      {
+       "label": "MyDramaList",
+       "url": "https://mydramalist.com/764777-the-mask-of-love"
+      }
+     ],
+     "evidence": "Database synopsis",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3304,
+   "title": "Xiangsi Cheng Gu (相思成蛊)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Short drama · China · Mandarin · 70 episodes (16 Apr 2026)",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Gu poison forces Ye Ling to marry Fu Yanqing as a substitute bride, and the Sixth Prince controls her through the gu. She and Fu uncover a plot for the throne and break the gu.",
+   "character": "Ye Ling (He Ziwen)",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "The Sixth Prince (Yang Xuze)",
+   "method": "Gu poison",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Short-drama database synopses",
+   "adult": "no",
+   "format": "vertical series",
+   "categories": [
+    "royal-hypnosis",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Duanju Baike",
+     "url": "https://duanjubaike.net/duanju/info-7629265094400019518.html"
+    },
+    {
+     "label": "Siju",
+     "url": "https://siju.cc/catalog/6hLynr.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:56"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:56": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Xiangsi Cheng Gu (相思成蛊)",
+     "year": "2026",
+     "format": "vertical series",
+     "meta": "Short drama · China · Mandarin · 70 episodes (16 Apr 2026)",
+     "character": "Ye Ling (He Ziwen)",
+     "summary": "Gu poison forces Ye Ling to marry Fu Yanqing as a substitute bride, and the Sixth Prince controls her through the gu. She and Fu uncover a plot for the throne and break the gu.",
+     "hypnotist": "The Sixth Prince (Yang Xuze)",
+     "method": "Gu poison",
+     "categories": [
+      "royal-hypnosis",
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "Duanju Baike",
+       "url": "https://duanjubaike.net/duanju/info-7629265094400019518.html"
+      },
+      {
+       "label": "Siju",
+       "url": "https://siju.cc/catalog/6hLynr.html"
+      }
+     ],
+     "evidence": "Short-drama database synopses",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
+  },
+  {
+   "id": 3305,
+   "title": "The Amazing Mr. X (The Spiritualist)",
+   "subtitle": "",
+   "year": "1948",
+   "meta": "Film · USA · dir. Bernard Vorhaus",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Christine believes her dead husband is calling to her and turns to the spiritualist Alexis, who stages fake phenomena. Her husband Paul faked his death and manipulates both of them to get her wealth.",
+   "character": "Christine Faber, wealthy widow",
+   "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: fraud, not hypnosis.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Alexis / Paul",
+   "method": "Staged spiritualism (fraud)",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Encyclopedia + plot summary",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "index-49"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Amazing_Mr._X"
+    },
+    {
+     "label": "PlotExplained",
+     "url": "https://www.plotexplained.com/movie/the-amazing-mrx-1948"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:57"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:57": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh pass 3, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Amazing Mr. X (The Spiritualist)",
+     "year": "1948",
+     "format": "movie",
+     "meta": "Film · USA · dir. Bernard Vorhaus",
+     "character": "Christine Faber, wealthy widow",
+     "summary": "Christine believes her dead husband is calling to her and turns to the spiritualist Alexis, who stages fake phenomena. Her husband Paul faked his death and manipulates both of them to get her wealth.",
+     "hypnotist": "Alexis / Paul",
+     "method": "Staged spiritualism (fraud)",
+     "categories": [
+      "index-49"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Amazing_Mr._X"
+      },
+      {
+       "label": "PlotExplained",
+       "url": "https://www.plotexplained.com/movie/the-amazing-mrx-1948"
+      }
+     ],
+     "evidence": "Encyclopedia + plot summary",
+     "confidence_flag": "Medium · 2 sources",
+     "note": "Loose fit: fraud, not hypnosis."
     }
    }
   }
@@ -477322,6 +478683,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3277,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3284,
        "from_source": "deep-refresh-oct18"
       },
@@ -478384,7 +479749,15 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 3297,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3253,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3295,
        "from_source": "deep-refresh-oct18"
       },
       {
@@ -479239,6 +480612,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3295,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3274,
        "from_source": "deep-refresh-oct18"
       },
@@ -480033,6 +481410,10 @@ window.CATALOG = {
      "title": "Deep gap-check (missed titles)",
      "notes": [],
      "items": [
+      {
+       "id": 3302,
+       "from_source": "deep-refresh-oct18"
+      },
       {
        "id": 3272,
        "from_source": "deep-refresh-oct18"
@@ -482198,6 +483579,10 @@ window.CATALOG = {
       },
       {
        "id": 3281,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3291,
        "from_source": "deep-refresh-oct18"
       }
      ],
@@ -485226,7 +486611,15 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 3297,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3272,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3301,
        "from_source": "deep-refresh-oct18"
       }
      ],
@@ -491526,6 +492919,10 @@ window.CATALOG = {
       {
        "id": 3263,
        "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3298,
+       "from_source": "deep-refresh-oct18"
       }
      ],
      "from_source": "deep-refresh-oct18"
@@ -493499,6 +494896,10 @@ window.CATALOG = {
       },
       {
        "id": 3282,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3304,
        "from_source": "deep-refresh-oct18"
       }
      ],
@@ -495540,6 +496941,10 @@ window.CATALOG = {
      "title": "Deep gap-check (missed titles)",
      "notes": [],
      "items": [
+      {
+       "id": 3294,
+       "from_source": "deep-refresh-oct18"
+      },
       {
        "id": 3113,
        "from_source": "deep-gap-oct15"
@@ -498943,6 +500348,10 @@ window.CATALOG = {
       {
        "id": 3113,
        "from_source": "deep-gap-oct15"
+      },
+      {
+       "id": 3299,
+       "from_source": "deep-refresh-oct18"
       },
       {
        "id": 3268,
@@ -503792,6 +505201,10 @@ window.CATALOG = {
      "title": "Deep gap-check (missed titles)",
      "notes": [],
      "items": [
+      {
+       "id": 3294,
+       "from_source": "deep-refresh-oct18"
+      },
       {
        "id": 3250,
        "from_source": "deep-refresh-oct18"
@@ -510542,6 +511955,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3295,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3266,
        "from_source": "deep-refresh-oct18"
       },
@@ -510551,6 +511968,10 @@ window.CATALOG = {
       },
       {
        "id": 3263,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3292,
        "from_source": "deep-refresh-oct18"
       },
       {
@@ -511268,6 +512689,10 @@ window.CATALOG = {
      "title": "Deep gap-check (missed titles)",
      "notes": [],
      "items": [
+      {
+       "id": 3305,
+       "from_source": "deep-refresh-oct18"
+      },
       {
        "id": 3274,
        "from_source": "deep-refresh-oct18"
@@ -517094,7 +518519,15 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3303,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3256,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3298,
        "from_source": "deep-refresh-oct18"
       }
      ],
@@ -517906,6 +519339,10 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3293,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3258,
        "from_source": "deep-refresh-oct18"
       },
@@ -517915,6 +519352,10 @@ window.CATALOG = {
       },
       {
        "id": 3259,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3299,
        "from_source": "deep-refresh-oct18"
       },
       {
@@ -517931,6 +519372,10 @@ window.CATALOG = {
       },
       {
        "id": 3261,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3300,
        "from_source": "deep-refresh-oct18"
       },
       {
@@ -521293,7 +522738,15 @@ window.CATALOG = {
        "from_source": "deep-refresh-oct18"
       },
       {
+       "id": 3296,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3281,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3291,
        "from_source": "deep-refresh-oct18"
       }
      ],
@@ -523462,6 +524915,10 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 3302,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3287,
        "from_source": "deep-refresh-oct18"
       },
@@ -523472,6 +524929,10 @@ window.CATALOG = {
       {
        "id": 3109,
        "from_source": "deep-gap-oct15"
+      },
+      {
+       "id": 3304,
+       "from_source": "deep-refresh-oct18"
       }
      ],
      "from_source": "deep-gap-oct15"
@@ -525924,6 +527385,10 @@ window.CATALOG = {
      "title": "Deep gap-check (missed titles)",
      "notes": [],
      "items": [
+      {
+       "id": 3296,
+       "from_source": "deep-refresh-oct18"
+      },
       {
        "id": 3264,
        "from_source": "deep-refresh-oct18"
