@@ -46810,11 +46810,11 @@
   "pregnancy-yt-oct15": 50,
   "hypnosis-yt-oct15": 16,
   "youtube-india-oct15": 23,
-  "deep-refresh-oct18": 8
+  "deep-refresh-oct18": 28
  },
- "entry_count_after_dedupe": 3119,
+ "entry_count_after_dedupe": 3139,
  "within_source_groups": 6,
  "cross_source_groups": 1907,
  "index_only_records": 59,
- "local_only_records": 820
+ "local_only_records": 840
 }
