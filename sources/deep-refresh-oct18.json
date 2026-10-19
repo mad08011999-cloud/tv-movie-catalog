@@ -1,0 +1,320 @@
+{
+  "id": "deep-refresh-oct18",
+  "label": "Deep refresh across all catalog topics (18 Oct 2026)",
+  "group_title": "Deep gap-check (missed titles)",
+  "description": "Fresh multi-language sweep across every catalog topic, focused on titles released or surfaced since 15 Oct 2026 plus remaining misses. Adults only; non-explicit notes; every entry sourced with a confidence label.",
+  "category_labels": {},
+  "records": [
+    {
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "yes (erotic themes, non-explicit note)",
+      "title": "Red Velvet Cake",
+      "year": "2026",
+      "format": "short",
+      "meta": "Short horror film · 9 min · dir. Martina Boothes",
+      "character": "Marcy (Martina Boothes)",
+      "summary": "Marcy confesses a secret compulsion to her friend Tanie, a mystic hypnotherapist, and is put into a deep trance, where she must navigate a surreal mindscape to confront her inner demons.",
+      "hypnotist": "Tanie, mystic hypnotherapist",
+      "gain_motive": [
+        "therapy / release"
+      ],
+      "method": "Deep hypnosis",
+      "categories": [
+        "adult-hypnosis",
+        "other-control"
+      ],
+      "sources": [
+        {
+          "label": "AceShowbiz",
+          "url": "https://www.aceshowbiz.com/movie/red_velvet_cake/"
+        }
+      ],
+      "evidence": "Film listing synopsis",
+      "confidence_flag": "Single source · flag"
+    },
+    {
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Reverse",
+      "year": "2026",
+      "format": "tv",
+      "meta": "TV series · South Korea · Korean · Wavve original",
+      "character": "Myo Jin (Seo Ji Hye)",
+      "summary": "After an explosion at a chaebol family's villa leaves Myo Jin without her memory, a doctor uses hypnosis to help her recall what happened. Fragments surface while she grows suspicious of her fiancé Jun Ho.",
+      "hypnotist": "Doctor (therapeutic)",
+      "gain_motive": [
+        "memory recovery"
+      ],
+      "method": "Hypnosis session",
+      "categories": [
+        "medical"
+      ],
+      "fit": "loose",
+      "tags": [
+        "loose fit"
+      ],
+      "episodes": [
+        {
+          "episode": "1–2",
+          "air_date": "2026-04-17",
+          "gist": "A hypnosis session brings up fragmented, violent memories.",
+          "number_verified": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Soompi preview article",
+          "url": "https://www.soompi.com/article/1833614wpp/watch-seo-ji-hye-gets-overwhelmed-as-fragmented-memories-resurface-in-reverse-preview-teaser"
+        }
+      ],
+      "evidence": "Press preview of episodes 1–2",
+      "confidence_flag": "Single source · flag",
+      "note": "Loose fit: therapeutic hypnosis."
+    },
+    {
+      "pregnant_end": "yes",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Son of Sara",
+      "year": "2025",
+      "format": "movie",
+      "meta": "Film · Canada · English · dir. Houston Bone · US digital 31 Jul 2026",
+      "character": "Sara (Chloe Van Landschoot)",
+      "summary": "Pregnant Sara, who lives with her girlfriend Carol, has disturbing visions and compulsive urges. At the family estate of Troy, the biological father, she learns his family is a satanic cult that wants her unborn child for its plans.",
+      "hypnotist": "Satanic cult / demonic forces",
+      "gain_motive": [
+        "unborn child"
+      ],
+      "method": "Demonic influence",
+      "categories": [
+        "pregnancy-evil",
+        "lesbian-couple-pregnancy",
+        "cult"
+      ],
+      "sources": [
+        {
+          "label": "Movies & Mania",
+          "url": "https://moviesandmania.com/2026/06/19/son-of-sara-2025-pregnancy-horror-movie-film-overview-trailer-clip/"
+        },
+        {
+          "label": "Keith & the Movies review",
+          "url": "https://keithandthemovies.com/2026/07/29/review-son-of-sara-2026/"
+        }
+      ],
+      "evidence": "Film overview + review",
+      "confidence_flag": "Medium · 2 sources"
+    },
+    {
+      "pregnant_end": "yes",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "The Deep Ones",
+      "year": "2020",
+      "format": "movie",
+      "meta": "Film · United States · English · dir. Chad Ferrin",
+      "character": "Alex",
+      "summary": "A couple rent a seaside house from members of a Lovecraftian cult. The pregnant cult member's husband uses hypnosis on Petri, and the cult draws Alex into a ritual where she is impregnated by Dagon.",
+      "hypnotist": "Cult members",
+      "gain_motive": [
+        "ritual pregnancy"
+      ],
+      "method": "Hypnosis and ritual",
+      "categories": [
+        "pregnancy-evil",
+        "cult"
+      ],
+      "sources": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Deep_Ones"
+        },
+        {
+          "label": "Culture Crypt review",
+          "url": "https://culturecrypt.com/movie-reviews/the-deep-ones-2020"
+        }
+      ],
+      "evidence": "Encyclopedia plot + review",
+      "confidence_flag": "Medium · 2 sources",
+      "note": "The hypnosis is aimed at a male character; the card is for the cult ritual pregnancy."
+    },
+    {
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Kısır Döngü",
+      "year": "2025",
+      "format": "vertical series",
+      "meta": "Vertical series · Turkish (NetShort) · 84 episodes",
+      "character": "Aslıhan",
+      "summary": "Aslıhan is a wife enslaved by her husband Volkan's love spell so he can take her inheritance while he cheats with Selin. With Kuzey's help she breaks the spell and turns the trap on them.",
+      "hypnotist": "Husband Volkan",
+      "gain_motive": [
+        "inheritance"
+      ],
+      "method": "Love spell (aşk büyüsü) plus drugging",
+      "categories": [
+        "index-49",
+        "wife-hypnotized",
+        "wife",
+        "fantasy"
+      ],
+      "episodes": [
+        {
+          "episode": "1",
+          "gist": "Aslıhan lives under Volkan's love spell.",
+          "number_verified": true
+        },
+        {
+          "episode": "2",
+          "gist": "An antidote breaks the spell; she begins to see the truth.",
+          "number_verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "NetShort (Turkish)",
+          "url": "https://netshort.com/tr/full-episodes/k%C4%B1s%C4%B1r-d%C3%B6ng%C3%BC-1913838072437690369"
+        }
+      ],
+      "evidence": "App episode guide",
+      "confidence_flag": "Single source · flag",
+      "note": "Year taken from the app listing upload (2025); the original-language title is unknown."
+    },
+    {
+      "pregnant_end": "unclear",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "In Utero",
+      "year": "2026",
+      "format": "tv",
+      "meta": "TV series · Italy/Spain · fertility-clinic drama · 8 episodes",
+      "character": "Lesbian couple patients (ep 2)",
+      "summary": "Set at the Creatividad fertility clinic. In episode 2 a lesbian couple must decide who will carry the pregnancy, and other cases cover donors and egg donation.",
+      "categories": [
+        "lesbian-couple-pregnancy",
+        "index-59"
+      ],
+      "fit": "loose",
+      "tags": [
+        "loose fit"
+      ],
+      "episodes": [
+        {
+          "episode": "2",
+          "air_date": "2026-05-15",
+          "gist": "A lesbian couple decides who will carry the pregnancy.",
+          "number_verified": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "TMDB season 1",
+          "url": "https://www.themoviedb.org/tv/321056-in-utero/season/1"
+        }
+      ],
+      "evidence": "Episode guide",
+      "confidence_flag": "Single source · flag",
+      "note": "Loose fit: no hypnosis, and the pregnancy outcome isn't stated."
+    },
+    {
+      "pregnant_end": "no",
+      "kids_status": "no",
+      "kids_together": "no",
+      "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Sihir Isteri",
+      "year": "2026",
+      "format": "tv",
+      "meta": "TV series · Malaysia · Malay · Tonton Original · 10 episodes (from 10 Oct 2026)",
+      "character": "Cempaka (Uqasha Senrose)",
+      "summary": "Cempaka inherits a dark family saka (spirit) and must complete four rituals, each tied to a marriage. Every ritual brings beauty, wealth or status, but also deadly mystical disturbances.",
+      "hypnotist": "Inherited saka / Nek Ros's pact",
+      "gain_motive": [
+        "curse-bound rituals"
+      ],
+      "method": "Spirit pact",
+      "categories": [
+        "spirit",
+        "hypnotized-marriage"
+      ],
+      "fit": "loose",
+      "tags": [
+        "loose fit"
+      ],
+      "sources": [
+        {
+          "label": "Dramasangat",
+          "url": "https://dramasangat.my/sihir-isteri/"
+        },
+        {
+          "label": "Myinfotaip",
+          "url": "https://www.myinfotaip.com/2026/10/sihir-isteri.html"
+        }
+      ],
+      "evidence": "Drama guides",
+      "confidence_flag": "Medium · 2 sources",
+      "note": "Loose fit: the woman is bound by an inherited spirit pact into ritual marriages, not hypnotised by a person."
+    },
+    {
+      "pregnant_end": "yes",
+      "kids_status": "yes",
+      "kids_together": "no",
+      "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
+      "adult": "no",
+      "title": "Amor de Mãe (Corazón de madre)",
+      "year": "2019–2021",
+      "format": "tv",
+      "meta": "Telenovela · Brazil · Portuguese · TV Globo",
+      "character": "Vitória / Victoria (Taís Araújo)",
+      "summary": "Lawyer Vitória, after many failed attempts to have a child and the end of her marriage, turns to adoption and discovers she is pregnant during the process.",
+      "categories": [
+        "adopt-pregnancy"
+      ],
+      "kids_note": "Adoption under way when she learns she is pregnant",
+      "sources": [
+        {
+          "label": "PRODU programme page",
+          "url": "https://www.produ.com/programa/corazon-de-madre/"
+        }
+      ],
+      "evidence": "Distributor synopsis",
+      "confidence_flag": "Single source · flag",
+      "note": "No hypnosis."
+    }
+  ],
+  "dropped": [
+    "Past Life (2026): male target",
+    "被催眠的她 (2026): already card 56",
+    "Persona ep2 'Hipnoz' (2025): plot not verifiable, target unclear",
+    "The Curious Case of… 'The Principal Who Hypnotized': true crime with teen victims",
+    "La Casa de los Famosos (Brianda): reality TV",
+    "Class in Hypnosis / Kill Blue / Kanojo Saimin: school setting, possible minors",
+    "Intrusive Thoughts (2026): male patient, no hypnosis",
+    "Forced Vow: Prey of the Vampire King: coercion, no mesmerism stated",
+    "十年抑郁爱难医 / 庄园保姆成了全家白月光: the female is the hypnotist",
+    "Pengasuh hipnotis / Rahasia sang hipnotis: hypnotist helper premise",
+    "Margo's Got Money Troubles: no prior kids",
+    "Kyunki Saas Bhi Kabhi Bahu Thi: fake exorcism",
+    "Naagin 7 (2026): male target",
+    "Noyontara 2026: failed attempts on a male target",
+    "Ullu 'Hypnosis': no plot data",
+    "Vashikaranam (2026): card 204 exists; no new hypnosis-of-woman episode found",
+    "WooW Vashikaran: male targets",
+    "Bilibili 'female boss was hypnotized' clip: no identifiable title",
+    "What We Do in the Shadows 'Sleep Hypnosis': vampires hypnotise each other"
+  ]
+}

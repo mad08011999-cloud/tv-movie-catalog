@@ -4741,6 +4741,39 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "deep-refresh-oct18",
+   "label": "Deep refresh across all catalog topics (18 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/deep-refresh-oct18.json",
+   "description": "Fresh multi-language sweep across every catalog topic, focused on titles released or surfaced since 15 Oct 2026 plus remaining misses. Adults only; non-explicit notes; every entry sourced with a confidence label.",
+   "dropped": [
+    "Past Life (2026): male target",
+    "被催眠的她 (2026): already card 56",
+    "Persona ep2 'Hipnoz' (2025): plot not verifiable, target unclear",
+    "The Curious Case of… 'The Principal Who Hypnotized': true crime with teen victims",
+    "La Casa de los Famosos (Brianda): reality TV",
+    "Class in Hypnosis / Kill Blue / Kanojo Saimin: school setting, possible minors",
+    "Intrusive Thoughts (2026): male patient, no hypnosis",
+    "Forced Vow: Prey of the Vampire King: coercion, no mesmerism stated",
+    "十年抑郁爱难医 / 庄园保姆成了全家白月光: the female is the hypnotist",
+    "Pengasuh hipnotis / Rahasia sang hipnotis: hypnotist helper premise",
+    "Margo's Got Money Troubles: no prior kids",
+    "Kyunki Saas Bhi Kabhi Bahu Thi: fake exorcism",
+    "Naagin 7 (2026): male target",
+    "Noyontara 2026: failed attempts on a male target",
+    "Ullu 'Hypnosis': no plot data",
+    "Vashikaranam (2026): card 204 exists; no new hypnosis-of-woman episode found",
+    "WooW Vashikaran: male targets",
+    "Bilibili 'female boss was hypnotized' clip: no identifiable title",
+    "What We Do in the Shadows 'Sleep Hypnosis': vampires hypnotise each other"
+   ],
+   "check": {
+    "raw_count": 8,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -4802,16 +4835,17 @@ window.CATALOG = {
   "pregnant-yt-oct15": 24,
   "pregnancy-yt-oct15": 50,
   "hypnosis-yt-oct15": 16,
-  "youtube-india-oct15": 23
+  "youtube-india-oct15": 23,
+  "deep-refresh-oct18": 8
  },
- "raw_total": 6116,
- "entry_count": 3111,
+ "raw_total": 6124,
+ "entry_count": 3119,
  "categories": [
   {
    "key": "adopt-pregnancy",
    "label": "Adopt a child, then become pregnant",
    "legend_label": "Adopt a child, then become pregnant",
-   "entry_count": 30
+   "entry_count": 31
   },
   {
    "key": "index-64",
@@ -4823,7 +4857,7 @@ window.CATALOG = {
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 289
+   "entry_count": 290
   },
   {
    "key": "walkin",
@@ -4847,7 +4881,7 @@ window.CATALOG = {
    "key": "cult",
    "label": "Cult / coercive brainwashing",
    "legend_label": "Cult / coercive brainwashing",
-   "entry_count": 34
+   "entry_count": 36
   },
   {
    "key": "occult",
@@ -4877,7 +4911,7 @@ window.CATALOG = {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 281
+   "entry_count": 282
   },
   {
    "key": "child-controller",
@@ -4937,7 +4971,7 @@ window.CATALOG = {
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 101
+   "entry_count": 102
   },
   {
    "key": "index-54",
@@ -4955,7 +4989,7 @@ window.CATALOG = {
    "key": "hypnotized-marriage",
    "label": "Hypnotised / spell-bound into marriage (or married while under control)",
    "legend_label": "Hypnotised / spell-bound into marriage (or married while under control)",
-   "entry_count": 47
+   "entry_count": 48
   },
   {
    "key": "cheat-control",
@@ -4997,7 +5031,7 @@ window.CATALOG = {
    "key": "lesbian-couple-pregnancy",
    "label": "Lesbian couple pregnancy (female same-sex couple)",
    "legend_label": "Lesbian couple pregnancy",
-   "entry_count": 51
+   "entry_count": 53
   },
   {
    "key": "erotic-mainstream",
@@ -5009,7 +5043,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 177
+   "entry_count": 178
   },
   {
    "key": "mom-partner-control",
@@ -5039,7 +5073,7 @@ window.CATALOG = {
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
    "legend_label": "Other female hypnosis / mind control",
-   "entry_count": 317
+   "entry_count": 318
   },
   {
    "key": "parents-sleeping",
@@ -5177,7 +5211,7 @@ window.CATALOG = {
    "key": "pregnancy-evil",
    "label": "Pregnant women controlled / possessed by evil forces",
    "legend_label": "Pregnant women controlled / possessed by evil forces",
-   "entry_count": 53
+   "entry_count": 55
   },
   {
    "key": "regional-pregnancy",
@@ -5207,7 +5241,7 @@ window.CATALOG = {
    "key": "index-49",
    "label": "Rich woman hypnotized — money / inheritance / fraud",
    "legend_label": "Rich woman hypnotized — money / inheritance / fraud",
-   "entry_count": 23
+   "entry_count": 24
   },
   {
    "key": "index-52",
@@ -5255,7 +5289,7 @@ window.CATALOG = {
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 185
+   "entry_count": 186
   },
   {
    "key": "stepmom-control",
@@ -5279,7 +5313,7 @@ window.CATALOG = {
    "key": "index-59",
    "label": "Surrogacy / IVF / fertility drama",
    "legend_label": "Surrogacy / IVF / fertility drama",
-   "entry_count": 8
+   "entry_count": 9
   },
   {
    "key": "index-55",
@@ -5327,7 +5361,7 @@ window.CATALOG = {
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 123
+   "entry_count": 124
   },
   {
    "key": "therapist-wife",
@@ -469896,6 +469930,721 @@ window.CATALOG = {
      ]
     }
    }
+  },
+  {
+   "id": 3250,
+   "title": "Red Velvet Cake",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Short horror film · 9 min · dir. Martina Boothes",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Marcy confesses a secret compulsion to her friend Tanie, a mystic hypnotherapist, and is put into a deep trance, where she must navigate a surreal mindscape to confront her inner demons.",
+   "character": "Marcy (Martina Boothes)",
+   "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Tanie, mystic hypnotherapist",
+   "gain_motive": [
+    "therapy / release"
+   ],
+   "method": "Deep hypnosis",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Film listing synopsis",
+   "adult": "yes (erotic themes, non-explicit note)",
+   "format": "short",
+   "categories": [
+    "adult-hypnosis",
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "AceShowbiz",
+     "url": "https://www.aceshowbiz.com/movie/red_velvet_cake/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:1": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "yes (erotic themes, non-explicit note)",
+     "title": "Red Velvet Cake",
+     "year": "2026",
+     "format": "short",
+     "meta": "Short horror film · 9 min · dir. Martina Boothes",
+     "character": "Marcy (Martina Boothes)",
+     "summary": "Marcy confesses a secret compulsion to her friend Tanie, a mystic hypnotherapist, and is put into a deep trance, where she must navigate a surreal mindscape to confront her inner demons.",
+     "hypnotist": "Tanie, mystic hypnotherapist",
+     "gain_motive": [
+      "therapy / release"
+     ],
+     "method": "Deep hypnosis",
+     "categories": [
+      "adult-hypnosis",
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "AceShowbiz",
+       "url": "https://www.aceshowbiz.com/movie/red_velvet_cake/"
+      }
+     ],
+     "evidence": "Film listing synopsis",
+     "confidence_flag": "Single source · flag"
+    }
+   }
+  },
+  {
+   "id": 3251,
+   "title": "Reverse",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "TV series · South Korea · Korean · Wavve original",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "After an explosion at a chaebol family's villa leaves Myo Jin without her memory, a doctor uses hypnosis to help her recall what happened. Fragments surface while she grows suspicious of her fiancé Jun Ho.",
+   "character": "Myo Jin (Seo Ji Hye)",
+   "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: therapeutic hypnosis.",
+   "episodes": [
+    {
+     "episode": "1–2",
+     "air_date": "2026-04-17",
+     "gist": "A hypnosis session brings up fragmented, violent memories.",
+     "number_verified": false
+    }
+   ],
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Doctor (therapeutic)",
+   "gain_motive": [
+    "memory recovery"
+   ],
+   "method": "Hypnosis session",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Press preview of episodes 1–2",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Soompi preview article",
+     "url": "https://www.soompi.com/article/1833614wpp/watch-seo-ji-hye-gets-overwhelmed-as-fragmented-memories-resurface-in-reverse-preview-teaser"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:2": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Reverse",
+     "year": "2026",
+     "format": "tv",
+     "meta": "TV series · South Korea · Korean · Wavve original",
+     "character": "Myo Jin (Seo Ji Hye)",
+     "summary": "After an explosion at a chaebol family's villa leaves Myo Jin without her memory, a doctor uses hypnosis to help her recall what happened. Fragments surface while she grows suspicious of her fiancé Jun Ho.",
+     "hypnotist": "Doctor (therapeutic)",
+     "gain_motive": [
+      "memory recovery"
+     ],
+     "method": "Hypnosis session",
+     "categories": [
+      "medical"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "episodes": [
+      {
+       "episode": "1–2",
+       "air_date": "2026-04-17",
+       "gist": "A hypnosis session brings up fragmented, violent memories.",
+       "number_verified": false
+      }
+     ],
+     "sources": [
+      {
+       "label": "Soompi preview article",
+       "url": "https://www.soompi.com/article/1833614wpp/watch-seo-ji-hye-gets-overwhelmed-as-fragmented-memories-resurface-in-reverse-preview-teaser"
+      }
+     ],
+     "evidence": "Press preview of episodes 1–2",
+     "confidence_flag": "Single source · flag",
+     "note": "Loose fit: therapeutic hypnosis."
+    }
+   }
+  },
+  {
+   "id": 3252,
+   "title": "Son of Sara",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Film · Canada · English · dir. Houston Bone · US digital 31 Jul 2026",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Pregnant Sara, who lives with her girlfriend Carol, has disturbing visions and compulsive urges. At the family estate of Troy, the biological father, she learns his family is a satanic cult that wants her unborn child for its plans.",
+   "character": "Sara (Chloe Van Landschoot)",
+   "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "",
+   "hypnotist": "Satanic cult / demonic forces",
+   "gain_motive": [
+    "unborn child"
+   ],
+   "method": "Demonic influence",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "yes",
+   "evidence": "Film overview + review",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "pregnancy-evil",
+    "lesbian-couple-pregnancy",
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "Movies & Mania",
+     "url": "https://moviesandmania.com/2026/06/19/son-of-sara-2025-pregnancy-horror-movie-film-overview-trailer-clip/"
+    },
+    {
+     "label": "Keith & the Movies review",
+     "url": "https://keithandthemovies.com/2026/07/29/review-son-of-sara-2026/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:3": {
+     "pregnant_end": "yes",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Son of Sara",
+     "year": "2025",
+     "format": "movie",
+     "meta": "Film · Canada · English · dir. Houston Bone · US digital 31 Jul 2026",
+     "character": "Sara (Chloe Van Landschoot)",
+     "summary": "Pregnant Sara, who lives with her girlfriend Carol, has disturbing visions and compulsive urges. At the family estate of Troy, the biological father, she learns his family is a satanic cult that wants her unborn child for its plans.",
+     "hypnotist": "Satanic cult / demonic forces",
+     "gain_motive": [
+      "unborn child"
+     ],
+     "method": "Demonic influence",
+     "categories": [
+      "pregnancy-evil",
+      "lesbian-couple-pregnancy",
+      "cult"
+     ],
+     "sources": [
+      {
+       "label": "Movies & Mania",
+       "url": "https://moviesandmania.com/2026/06/19/son-of-sara-2025-pregnancy-horror-movie-film-overview-trailer-clip/"
+      },
+      {
+       "label": "Keith & the Movies review",
+       "url": "https://keithandthemovies.com/2026/07/29/review-son-of-sara-2026/"
+      }
+     ],
+     "evidence": "Film overview + review",
+     "confidence_flag": "Medium · 2 sources"
+    }
+   }
+  },
+  {
+   "id": 3253,
+   "title": "The Deep Ones",
+   "subtitle": "",
+   "year": "2020",
+   "meta": "Film · United States · English · dir. Chad Ferrin",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "A couple rent a seaside house from members of a Lovecraftian cult. The pregnant cult member's husband uses hypnosis on Petri, and the cult draws Alex into a ritual where she is impregnated by Dagon.",
+   "character": "Alex",
+   "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "The hypnosis is aimed at a male character; the card is for the cult ritual pregnancy.",
+   "hypnotist": "Cult members",
+   "gain_motive": [
+    "ritual pregnancy"
+   ],
+   "method": "Hypnosis and ritual",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "yes",
+   "evidence": "Encyclopedia plot + review",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "pregnancy-evil",
+    "cult"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Deep_Ones"
+    },
+    {
+     "label": "Culture Crypt review",
+     "url": "https://culturecrypt.com/movie-reviews/the-deep-ones-2020"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:4": {
+     "pregnant_end": "yes",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "The Deep Ones",
+     "year": "2020",
+     "format": "movie",
+     "meta": "Film · United States · English · dir. Chad Ferrin",
+     "character": "Alex",
+     "summary": "A couple rent a seaside house from members of a Lovecraftian cult. The pregnant cult member's husband uses hypnosis on Petri, and the cult draws Alex into a ritual where she is impregnated by Dagon.",
+     "hypnotist": "Cult members",
+     "gain_motive": [
+      "ritual pregnancy"
+     ],
+     "method": "Hypnosis and ritual",
+     "categories": [
+      "pregnancy-evil",
+      "cult"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Deep_Ones"
+      },
+      {
+       "label": "Culture Crypt review",
+       "url": "https://culturecrypt.com/movie-reviews/the-deep-ones-2020"
+      }
+     ],
+     "evidence": "Encyclopedia plot + review",
+     "confidence_flag": "Medium · 2 sources",
+     "note": "The hypnosis is aimed at a male character; the card is for the cult ritual pregnancy."
+    }
+   }
+  },
+  {
+   "id": 3254,
+   "title": "Kısır Döngü",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Vertical series · Turkish (NetShort) · 84 episodes",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Aslıhan is a wife enslaved by her husband Volkan's love spell so he can take her inheritance while he cheats with Selin. With Kuzey's help she breaks the spell and turns the trap on them.",
+   "character": "Aslıhan",
+   "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Year taken from the app listing upload (2025); the original-language title is unknown.",
+   "episodes": [
+    {
+     "episode": "1",
+     "gist": "Aslıhan lives under Volkan's love spell.",
+     "number_verified": true
+    },
+    {
+     "episode": "2",
+     "gist": "An antidote breaks the spell; she begins to see the truth.",
+     "number_verified": true
+    }
+   ],
+   "hypnotist": "Husband Volkan",
+   "gain_motive": [
+    "inheritance"
+   ],
+   "method": "Love spell (aşk büyüsü) plus drugging",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "App episode guide",
+   "adult": "no",
+   "format": "vertical series",
+   "categories": [
+    "index-49",
+    "wife-hypnotized",
+    "wife",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "NetShort (Turkish)",
+     "url": "https://netshort.com/tr/full-episodes/k%C4%B1s%C4%B1r-d%C3%B6ng%C3%BC-1913838072437690369"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:5": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Kısır Döngü",
+     "year": "2025",
+     "format": "vertical series",
+     "meta": "Vertical series · Turkish (NetShort) · 84 episodes",
+     "character": "Aslıhan",
+     "summary": "Aslıhan is a wife enslaved by her husband Volkan's love spell so he can take her inheritance while he cheats with Selin. With Kuzey's help she breaks the spell and turns the trap on them.",
+     "hypnotist": "Husband Volkan",
+     "gain_motive": [
+      "inheritance"
+     ],
+     "method": "Love spell (aşk büyüsü) plus drugging",
+     "categories": [
+      "index-49",
+      "wife-hypnotized",
+      "wife",
+      "fantasy"
+     ],
+     "episodes": [
+      {
+       "episode": "1",
+       "gist": "Aslıhan lives under Volkan's love spell.",
+       "number_verified": true
+      },
+      {
+       "episode": "2",
+       "gist": "An antidote breaks the spell; she begins to see the truth.",
+       "number_verified": true
+      }
+     ],
+     "sources": [
+      {
+       "label": "NetShort (Turkish)",
+       "url": "https://netshort.com/tr/full-episodes/k%C4%B1s%C4%B1r-d%C3%B6ng%C3%BC-1913838072437690369"
+      }
+     ],
+     "evidence": "App episode guide",
+     "confidence_flag": "Single source · flag",
+     "note": "Year taken from the app listing upload (2025); the original-language title is unknown."
+    }
+   }
+  },
+  {
+   "id": 3255,
+   "title": "In Utero",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "TV series · Italy/Spain · fertility-clinic drama · 8 episodes",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Set at the Creatividad fertility clinic. In episode 2 a lesbian couple must decide who will carry the pregnancy, and other cases cover donors and egg donation.",
+   "character": "Lesbian couple patients (ep 2)",
+   "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: no hypnosis, and the pregnancy outcome isn't stated.",
+   "episodes": [
+    {
+     "episode": "2",
+     "air_date": "2026-05-15",
+     "gist": "A lesbian couple decides who will carry the pregnancy.",
+     "number_verified": true
+    }
+   ],
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "unclear",
+   "evidence": "Episode guide",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "lesbian-couple-pregnancy",
+    "index-59"
+   ],
+   "sources": [
+    {
+     "label": "TMDB season 1",
+     "url": "https://www.themoviedb.org/tv/321056-in-utero/season/1"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:6": {
+     "pregnant_end": "unclear",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "In Utero",
+     "year": "2026",
+     "format": "tv",
+     "meta": "TV series · Italy/Spain · fertility-clinic drama · 8 episodes",
+     "character": "Lesbian couple patients (ep 2)",
+     "summary": "Set at the Creatividad fertility clinic. In episode 2 a lesbian couple must decide who will carry the pregnancy, and other cases cover donors and egg donation.",
+     "categories": [
+      "lesbian-couple-pregnancy",
+      "index-59"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "episodes": [
+      {
+       "episode": "2",
+       "air_date": "2026-05-15",
+       "gist": "A lesbian couple decides who will carry the pregnancy.",
+       "number_verified": true
+      }
+     ],
+     "sources": [
+      {
+       "label": "TMDB season 1",
+       "url": "https://www.themoviedb.org/tv/321056-in-utero/season/1"
+      }
+     ],
+     "evidence": "Episode guide",
+     "confidence_flag": "Single source · flag",
+     "note": "Loose fit: no hypnosis, and the pregnancy outcome isn't stated."
+    }
+   }
+  },
+  {
+   "id": 3256,
+   "title": "Sihir Isteri",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "TV series · Malaysia · Malay · Tonton Original · 10 episodes (from 10 Oct 2026)",
+   "mechanism": "",
+   "confidence_flag": "Medium · 2 sources",
+   "summary": "Cempaka inherits a dark family saka (spirit) and must complete four rituals, each tied to a marriage. Every ritual brings beauty, wealth or status, but also deadly mystical disturbances.",
+   "character": "Cempaka (Uqasha Senrose)",
+   "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "Loose fit: the woman is bound by an inherited spirit pact into ritual marriages, not hypnotised by a person.",
+   "tags": [
+    "loose fit"
+   ],
+   "hypnotist": "Inherited saka / Nek Ros's pact",
+   "gain_motive": [
+    "curse-bound rituals"
+   ],
+   "method": "Spirit pact",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "evidence": "Drama guides",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "spirit",
+    "hypnotized-marriage"
+   ],
+   "sources": [
+    {
+     "label": "Dramasangat",
+     "url": "https://dramasangat.my/sihir-isteri/"
+    },
+    {
+     "label": "Myinfotaip",
+     "url": "https://www.myinfotaip.com/2026/10/sihir-isteri.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:7": {
+     "pregnant_end": "no",
+     "kids_status": "no",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Sihir Isteri",
+     "year": "2026",
+     "format": "tv",
+     "meta": "TV series · Malaysia · Malay · Tonton Original · 10 episodes (from 10 Oct 2026)",
+     "character": "Cempaka (Uqasha Senrose)",
+     "summary": "Cempaka inherits a dark family saka (spirit) and must complete four rituals, each tied to a marriage. Every ritual brings beauty, wealth or status, but also deadly mystical disturbances.",
+     "hypnotist": "Inherited saka / Nek Ros's pact",
+     "gain_motive": [
+      "curse-bound rituals"
+     ],
+     "method": "Spirit pact",
+     "categories": [
+      "spirit",
+      "hypnotized-marriage"
+     ],
+     "fit": "loose",
+     "tags": [
+      "loose fit"
+     ],
+     "sources": [
+      {
+       "label": "Dramasangat",
+       "url": "https://dramasangat.my/sihir-isteri/"
+      },
+      {
+       "label": "Myinfotaip",
+       "url": "https://www.myinfotaip.com/2026/10/sihir-isteri.html"
+      }
+     ],
+     "evidence": "Drama guides",
+     "confidence_flag": "Medium · 2 sources",
+     "note": "Loose fit: the woman is bound by an inherited spirit pact into ritual marriages, not hypnotised by a person."
+    }
+   }
+  },
+  {
+   "id": 3257,
+   "title": "Amor de Mãe (Corazón de madre)",
+   "subtitle": "",
+   "year": "2019–2021",
+   "meta": "Telenovela · Brazil · Portuguese · TV Globo",
+   "mechanism": "",
+   "confidence_flag": "Single source · flag",
+   "summary": "Lawyer Vitória, after many failed attempts to have a child and the end of her marriage, turns to adoption and discovers she is pregnant during the process.",
+   "character": "Vitória / Victoria (Taís Araújo)",
+   "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
+   "note": "No hypnosis.",
+   "kids_status": "yes",
+   "kids_note": "Adoption under way when she learns she is pregnant",
+   "kids_together": "no",
+   "pregnant_end": "yes",
+   "evidence": "Distributor synopsis",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "adopt-pregnancy"
+   ],
+   "sources": [
+    {
+     "label": "PRODU programme page",
+     "url": "https://www.produ.com/programa/corazon-de-madre/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "deep-refresh-oct18"
+   ],
+   "source_records": [
+    "deep-refresh-oct18:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-refresh-oct18:8": {
+     "pregnant_end": "yes",
+     "kids_status": "yes",
+     "kids_together": "no",
+     "provenance": "Deep refresh, 18 Oct 2026 PT (adults only; non-explicit notes)",
+     "adult": "no",
+     "title": "Amor de Mãe (Corazón de madre)",
+     "year": "2019–2021",
+     "format": "tv",
+     "meta": "Telenovela · Brazil · Portuguese · TV Globo",
+     "character": "Vitória / Victoria (Taís Araújo)",
+     "summary": "Lawyer Vitória, after many failed attempts to have a child and the end of her marriage, turns to adoption and discovers she is pregnant during the process.",
+     "categories": [
+      "adopt-pregnancy"
+     ],
+     "kids_note": "Adoption under way when she learns she is pregnant",
+     "sources": [
+      {
+       "label": "PRODU programme page",
+       "url": "https://www.produ.com/programa/corazon-de-madre/"
+      }
+     ],
+     "evidence": "Distributor synopsis",
+     "confidence_flag": "Single source · flag",
+     "note": "No hypnosis."
+    }
+   }
   }
  ],
  "sections": [
@@ -469908,7 +470657,8 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "kids-pregnant-again",
-    "lesbian-pregnancy"
+    "lesbian-pregnancy",
+    "deep-refresh-oct18"
    ],
    "groups": [
     {
@@ -470302,12 +471052,24 @@ window.CATALOG = {
       }
      ],
      "from_source": "kids-pregnant-again"
+    },
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3257,
+       "from_source": "deep-refresh-oct18"
+      }
+     ],
+     "from_source": "deep-refresh-oct18"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 25,
     "kids-pregnant-again": null,
-    "lesbian-pregnancy": null
+    "lesbian-pregnancy": null,
+    "deep-refresh-oct18": null
    }
   },
   {
@@ -470357,7 +471119,8 @@ window.CATALOG = {
     "hypno-turkey-oct15",
     "kr-cn-hypnosis",
     "youtube-sweep-oct15",
-    "adult-fanmade-oct15"
+    "adult-fanmade-oct15",
+    "deep-refresh-oct18"
    ],
    "groups": [
     {
@@ -473777,6 +474540,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "adult-fanmade-oct15"
+    },
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3250,
+       "from_source": "deep-refresh-oct18"
+      }
+     ],
+     "from_source": "deep-refresh-oct18"
     }
    ],
    "declared_count_by_source": {
@@ -473801,7 +474575,8 @@ window.CATALOG = {
     "hypno-turkey-oct15": null,
     "kr-cn-hypnosis": null,
     "youtube-sweep-oct15": null,
-    "adult-fanmade-oct15": null
+    "adult-fanmade-oct15": null,
+    "deep-refresh-oct18": null
    }
   },
   {
@@ -474487,7 +475262,8 @@ window.CATALOG = {
     "hypnosis-assault-loose",
     "widow-divorcee-oct14b",
     "fanwiki-screen-oct14",
-    "hypnosis-yt-oct15"
+    "hypnosis-yt-oct15",
+    "deep-refresh-oct18"
    ],
    "groups": [
     {
@@ -474810,6 +475586,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-yt-oct15"
+    },
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3253,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3252,
+       "from_source": "deep-refresh-oct18"
+      }
+     ],
+     "from_source": "deep-refresh-oct18"
     }
    ],
    "declared_count_by_source": {
@@ -474824,7 +475615,8 @@ window.CATALOG = {
     "hypnosis-assault-loose": null,
     "widow-divorcee-oct14b": null,
     "fanwiki-screen-oct14": null,
-    "hypnosis-yt-oct15": null
+    "hypnosis-yt-oct15": null,
+    "deep-refresh-oct18": null
    }
   },
   {
@@ -476457,7 +477249,8 @@ window.CATALOG = {
     "kr-cn-hypnosis",
     "gap-check-vertical-oct15",
     "youtube-deep-oct15",
-    "hypnosis-yt-oct15"
+    "hypnosis-yt-oct15",
+    "deep-refresh-oct18"
    ],
    "groups": [
     {
@@ -478560,6 +479353,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-yt-oct15"
+    },
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3254,
+       "from_source": "deep-refresh-oct18"
+      }
+     ],
+     "from_source": "deep-refresh-oct18"
     }
    ],
    "declared_count_by_source": {
@@ -478583,7 +479387,8 @@ window.CATALOG = {
     "kr-cn-hypnosis": null,
     "gap-check-vertical-oct15": null,
     "youtube-deep-oct15": null,
-    "hypnosis-yt-oct15": null
+    "hypnosis-yt-oct15": null,
+    "deep-refresh-oct18": null
    }
   },
   {
@@ -486632,7 +487437,8 @@ window.CATALOG = {
     "official-yt-oct15",
     "streaming-oct15",
     "kr-cn-hypnosis",
-    "youtube-deep-oct15"
+    "youtube-deep-oct15",
+    "deep-refresh-oct18"
    ],
    "groups": [
     {
@@ -487832,6 +488638,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "youtube-deep-oct15"
+    },
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3254,
+       "from_source": "deep-refresh-oct18"
+      }
+     ],
+     "from_source": "deep-refresh-oct18"
     }
    ],
    "declared_count_by_source": {
@@ -487849,7 +488666,8 @@ window.CATALOG = {
     "official-yt-oct15": null,
     "streaming-oct15": null,
     "kr-cn-hypnosis": null,
-    "youtube-deep-oct15": null
+    "youtube-deep-oct15": null,
+    "deep-refresh-oct18": null
    }
   },
   {
@@ -487937,13 +488755,15 @@ window.CATALOG = {
     "hypnotized-marriage",
     "no-link-additions",
     "round3",
-    "gap-check-vertical-oct15"
+    "gap-check-vertical-oct15",
+    "deep-refresh-oct18"
    ],
    "declared_count_by_source": {
     "hypnotized-marriage": null,
     "no-link-additions": null,
     "round3": null,
-    "gap-check-vertical-oct15": null
+    "gap-check-vertical-oct15": null,
+    "deep-refresh-oct18": null
    },
    "groups": [
     {
@@ -488168,6 +488988,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "gap-check-vertical-oct15"
+    },
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3256,
+       "from_source": "deep-refresh-oct18"
+      }
+     ],
+     "from_source": "deep-refresh-oct18"
     }
    ]
   },
@@ -492679,7 +493510,8 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "lesbian-pregnancy",
     "round2",
-    "gap-check-vertical-oct15"
+    "gap-check-vertical-oct15",
+    "deep-refresh-oct18"
    ],
    "groups": [
     {
@@ -493169,12 +494001,28 @@ window.CATALOG = {
       }
      ],
      "from_source": "gap-check-vertical-oct15"
+    },
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3255,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3252,
+       "from_source": "deep-refresh-oct18"
+      }
+     ],
+     "from_source": "deep-refresh-oct18"
     }
    ],
    "declared_count_by_source": {
     "lesbian-pregnancy": null,
     "round2": null,
-    "gap-check-vertical-oct15": null
+    "gap-check-vertical-oct15": null,
+    "deep-refresh-oct18": null
    }
   },
   {
@@ -493850,7 +494698,8 @@ window.CATALOG = {
     "deep-gap-oct15",
     "youtube-deep-oct15",
     "hypnosis-yt-oct15",
-    "youtube-india-oct15"
+    "youtube-india-oct15",
+    "deep-refresh-oct18"
    ],
    "groups": [
     {
@@ -495163,6 +496012,10 @@ window.CATALOG = {
        "from_source": "deep-gap-oct15"
       },
       {
+       "id": 3251,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 3116,
        "from_source": "deep-gap-oct15"
       },
@@ -495286,7 +496139,8 @@ window.CATALOG = {
     "deep-gap-oct15": null,
     "youtube-deep-oct15": null,
     "hypnosis-yt-oct15": null,
-    "youtube-india-oct15": null
+    "youtube-india-oct15": null,
+    "deep-refresh-oct18": null
    }
   },
   {
@@ -497927,7 +498781,8 @@ window.CATALOG = {
     "deep-gap-oct15",
     "youtube-deep-oct15",
     "hypnosis-yt-oct15",
-    "youtube-india-oct15"
+    "youtube-india-oct15",
+    "deep-refresh-oct18"
    ],
    "groups": [
     {
@@ -499980,6 +500835,10 @@ window.CATALOG = {
      "notes": [],
      "items": [
       {
+       "id": 3250,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
        "id": 2189,
        "from_source": "deep-gap-oct15"
       }
@@ -500122,7 +500981,8 @@ window.CATALOG = {
     "deep-gap-oct15": null,
     "youtube-deep-oct15": null,
     "hypnosis-yt-oct15": null,
-    "youtube-india-oct15": null
+    "youtube-india-oct15": null,
+    "deep-refresh-oct18": null
    }
   },
   {
@@ -506243,7 +507103,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla",
     "worldwide-hypnosis",
     "occult-pregnancy-nearmiss",
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "deep-refresh-oct18"
    ],
    "groups": [
     {
@@ -506713,13 +507574,29 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-assault-loose"
+    },
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3253,
+       "from_source": "deep-refresh-oct18"
+      },
+      {
+       "id": 3252,
+       "from_source": "deep-refresh-oct18"
+      }
+     ],
+     "from_source": "deep-refresh-oct18"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 47,
     "worldwide-hypnosis": null,
     "occult-pregnancy-nearmiss": null,
-    "hypnosis-assault-loose": null
+    "hypnosis-assault-loose": null,
+    "deep-refresh-oct18": null
    }
   },
   {
@@ -507241,13 +508118,15 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla",
     "rich-wife-hypnosis",
     "hypnotized-female-oct15",
-    "deep-gap-oct15"
+    "deep-gap-oct15",
+    "deep-refresh-oct18"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 9,
     "rich-wife-hypnosis": null,
     "hypnotized-female-oct15": null,
-    "deep-gap-oct15": null
+    "deep-gap-oct15": null,
+    "deep-refresh-oct18": null
    },
    "groups": [
     {
@@ -507415,6 +508294,10 @@ window.CATALOG = {
      "title": "Deep gap-check (missed titles)",
      "notes": [],
      "items": [
+      {
+       "id": 3254,
+       "from_source": "deep-refresh-oct18"
+      },
       {
        "id": 3108,
        "from_source": "deep-gap-oct15"
@@ -511912,7 +512795,8 @@ window.CATALOG = {
     "streaming-oct15",
     "hypnotized-female-oct15",
     "youtube-deep-oct15",
-    "youtube-india-oct15"
+    "youtube-india-oct15",
+    "deep-refresh-oct18"
    ],
    "groups": [
     {
@@ -513222,6 +514106,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "youtube-india-oct15"
+    },
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3256,
+       "from_source": "deep-refresh-oct18"
+      }
+     ],
+     "from_source": "deep-refresh-oct18"
     }
    ],
    "declared_count_by_source": {
@@ -513234,7 +514129,8 @@ window.CATALOG = {
     "streaming-oct15": null,
     "hypnotized-female-oct15": null,
     "youtube-deep-oct15": null,
-    "youtube-india-oct15": null
+    "youtube-india-oct15": null,
+    "deep-refresh-oct18": null
    }
   },
   {
@@ -513959,12 +514855,14 @@ window.CATALOG = {
    "from_sources": [
     "ig6qlxqxoxvcxla",
     "pregnant-yt-oct15",
-    "pregnancy-yt-oct15"
+    "pregnancy-yt-oct15",
+    "deep-refresh-oct18"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 4,
     "pregnant-yt-oct15": null,
-    "pregnancy-yt-oct15": null
+    "pregnancy-yt-oct15": null,
+    "deep-refresh-oct18": null
    },
    "groups": [
     {
@@ -514012,6 +514910,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "pregnancy-yt-oct15"
+    },
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3255,
+       "from_source": "deep-refresh-oct18"
+      }
+     ],
+     "from_source": "deep-refresh-oct18"
     }
    ]
   },
@@ -519539,7 +520448,8 @@ window.CATALOG = {
     "gap-check-vertical-oct15",
     "youtube-deep-oct15",
     "hypnosis-yt-oct15",
-    "youtube-india-oct15"
+    "youtube-india-oct15",
+    "deep-refresh-oct18"
    ],
    "declared_count_by_source": {
     "wife-hypnosis-oct15": null,
@@ -519547,7 +520457,8 @@ window.CATALOG = {
     "gap-check-vertical-oct15": null,
     "youtube-deep-oct15": null,
     "hypnosis-yt-oct15": null,
-    "youtube-india-oct15": null
+    "youtube-india-oct15": null,
+    "deep-refresh-oct18": null
    },
    "groups": [
     {
@@ -520083,6 +520994,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "youtube-india-oct15"
+    },
+    {
+     "title": "Deep gap-check (missed titles)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3254,
+       "from_source": "deep-refresh-oct18"
+      }
+     ],
+     "from_source": "deep-refresh-oct18"
     }
    ]
   },
