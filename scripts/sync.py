@@ -310,6 +310,25 @@ async def capture(page, src):
             if frame:
                 break
             await page.wait_for_timeout(500)
+        if not frame and "return_to=" in page.url:
+            # Since ~19-20 Oct 2026 muse.ai 307-redirects share links to its login page and the content
+            # host answers 503, so there is no live catalog to read. Serve the catalog's own committed
+            # snapshot (original/<id>/index.html + assets/*.js) for content-host requests instead, so the
+            # run keeps the last good data rather than failing; loudly logged.
+            snap = os.path.join(os.path.dirname(HERE), "original", src["id"])
+            if not os.path.isfile(os.path.join(snap, "index.html")):
+                raise RuntimeError(f"share link redirects to login ({page.url!r}) and no snapshot in {snap}")
+            log("WARNING", src["id"], "share link redirects to muse.ai login; using committed snapshot", snap)
+            async def from_snapshot(route):
+                path = route.request.url.split("?")[0].split(CONTENT_HOST, 1)[1].split("/", 1)
+                rel = (path[1] if len(path) > 1 else "") or "index.html"
+                f = os.path.join(snap, rel)
+                if os.path.isfile(f) and (rel == "index.html" or (rel.startswith("assets/") and rel.endswith(".js"))):
+                    ct = "text/html; charset=utf-8" if rel.endswith(".html") else "application/javascript"
+                    await route.fulfill(status=200, body=open(f, "rb").read(), headers={"content-type": ct})
+                else:
+                    await route.continue_()
+            await page.route(lambda u: CONTENT_HOST in u, from_snapshot)
         if not frame:
             # Content host now 302s to agent.meta.ai unless the request carries a muse.ai
             # Referer. Sandboxed share iframes sometimes never expose a metaaiusercontent
