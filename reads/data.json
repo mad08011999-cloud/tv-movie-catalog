@@ -4,12 +4,12 @@
   {
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 53
+   "entry_count": 57
   },
   {
    "key": "pregnant-variants",
    "label": "Pregnancy + mind control — variants and leads",
-   "entry_count": 16
+   "entry_count": 21
   },
   {
    "key": "occult",
@@ -19,12 +19,12 @@
   {
    "key": "human",
    "label": "Human-villain control",
-   "entry_count": 26
+   "entry_count": 27
   },
   {
    "key": "scifi",
    "label": "Sci-fi / alien / technological control",
-   "entry_count": 17
+   "entry_count": 19
   },
   {
    "key": "fantasy",
@@ -44,7 +44,7 @@
   {
    "key": "hardcore-adult",
    "label": "Hardcore / adult",
-   "entry_count": 51
+   "entry_count": 55
   },
   {
    "key": "fan-made-roleplay",
@@ -57,7 +57,7 @@
   "Comic book": 7,
   "Hentai manga": 4,
   "Hentai doujinshi": 15,
-  "Hentai CG collection": 1,
+  "Hentai CG collection": 2,
   "Hentai doujinshi (parody)": 6,
   "Manhwa (webtoon)": 6,
   "Adult web comic": 1,
@@ -72,7 +72,11 @@
   "Fan comic (parody)": 10,
   "Fan comic": 1,
   "Fan manga (Pixiv)": 1,
-  "Fan 3D comic (Koikatsu)": 1
+  "Fan 3D comic (Koikatsu)": 1,
+  "Erotic short story (self-published)": 1,
+  "Interactive erotic story (CYOA)": 1,
+  "Independent illustrated vignette": 1,
+  "Independent comic (commission)": 1
  },
  "entries": [
   {
@@ -332,7 +336,7 @@
    "gist": "With a clap of his hands a college student down the block turns the wife Hitoe into an obedient pet with no memory afterwards.",
    "where": "Whole work",
    "wife": "yes (hitozuma)",
-   "pregnant_end": "unknown (tagged 'Impregnation' on MangaUpdates)",
+   "pregnant_end": "unknown: MangaUpdates tags Pregnancy and Impregnation; the MangaUpdates description (story-level) mentions repeated creampies but no pregnancy",
    "kids_together": "unknown",
    "kids_before": "unknown",
    "categories": [
@@ -343,11 +347,15 @@
     {
      "label": "MangaUpdates",
      "url": "https://www.mangaupdates.com/series/45462053118"
+    },
+    {
+     "label": "e-hentai: 2026 bonus episode (tag metadata)",
+     "url": "https://e-hentai.org/g/3899532/462019cbfb/"
     }
    ],
    "loose_fit": false,
    "note": "",
-   "adult_basis": "MangaUpdates: Cheating Wife; description: wife",
+   "adult_basis": "MangaUpdates: Cheating Wife; description: wife; the hypnotist is a college student per the MangaUpdates description",
    "content_label": "Hardcore / adult",
    "id": 9
   },
@@ -362,7 +370,7 @@
    "gist": "A young couple's talkative neighbourhood-association head persuades them to 'try hypnosis' as a game; they really fall under it and he uses it on the wife.",
    "where": "Whole work",
    "wife": "yes",
-   "pregnant_end": "yes (per title)",
+   "pregnant_end": "yes: impregnated by the neighbourhood-association head (story-level: MangaUpdates description 'How does the hypnotized wife end up being raped and impregnated by the head?'; title 'Ninshin shichaimashita' = 'I got pregnant')",
    "kids_together": "unknown",
    "kids_before": "unknown",
    "categories": [
@@ -393,7 +401,7 @@
    "gist": "Hypnosis makes the newlywed wife Manaka believe the hypnotist is her husband.",
    "where": "Whole work",
    "wife": "yes (newlywed)",
-   "pregnant_end": "unknown (tagged Pregnancy / Impregnation; described as baby-making)",
+   "pregnant_end": "unknown: 'baby-making sex' per the MangaUpdates description; MangaUpdates tags Pregnancy and Impregnation (no pregnancy is described in the story text)",
    "kids_together": "unknown",
    "kids_before": "unknown",
    "categories": [
@@ -424,7 +432,7 @@
    "gist": "Parody where Android 18, Krillin's wife, is hypnotized and cheated with.",
    "where": "Whole work",
    "wife": "yes (Krillin's wife)",
-   "pregnant_end": "unknown (tagged pregnant / impregnation)",
+   "pregnant_end": "unknown: MangaUpdates tags Pregnancy, Pregnancy Sex and Impregnation, and nhentai tags pregnant; MangaUpdates has no description to confirm it in the story",
    "kids_together": "unknown",
    "kids_before": "yes — daughter Marron in canon",
    "categories": [
@@ -977,7 +985,7 @@
    "gist": "A wife devoted to her husband is hypnotized into working as a lewd sex worker.",
    "where": "Whole work",
    "wife": "yes (husband-devoted hitozuma)",
-   "pregnant_end": "yes (tagged pregnant)",
+   "pregnant_end": "yes per tags: e-hentai tags pregnant, impregnation and vaginal birth (Oct 2026 upload); not confirmed from the story text",
    "kids_together": "unknown",
    "kids_before": "unknown",
    "categories": [
@@ -989,6 +997,10 @@
     {
      "label": "nhentai tag metadata",
      "url": "https://nhentai.net/g/629003/"
+    },
+    {
+     "label": "e-hentai (tag metadata, incl. vaginal birth)",
+     "url": "https://e-hentai.org/g/4251003/fe9af70153/"
     }
    ],
    "loose_fit": false,
@@ -2077,7 +2089,7 @@
    "gist": "A man uses hypnosis to 'correct' an awful married woman and make her a mother (tags: mind control, impregnation, pregnant, vaginal birth, lactation).",
    "where": "32 pages",
    "wife": "yes (hitozuma)",
-   "pregnant_end": "yes: pregnant, then gives birth (tags: pregnant, vaginal birth)",
+   "pregnant_end": "yes per tags and title: pregnant, then gives birth ('mama ni suru' = 'make her a mother'; tags pregnant, vaginal birth and lactation on three separate uploads); not confirmed from the story text",
    "kids_together": "unknown",
    "kids_before": "unknown",
    "categories": [
@@ -2089,6 +2101,14 @@
     {
      "label": "e-hentai",
      "url": "https://e-hentai.org/g/4180092/c4947e084e/"
+    },
+    {
+     "label": "e-hentai: Korean edition",
+     "url": "https://e-hentai.org/g/4226147/286cb98f58/"
+    },
+    {
+     "label": "e-hentai: artist CG edition",
+     "url": "https://e-hentai.org/g/4242586/a575755036/"
     }
    ],
    "loose_fit": false,
@@ -2356,6 +2376,173 @@
    "adult_basis": "married mother",
    "content_label": "Fan-made / roleplay (not a professional production)",
    "id": 72
+  },
+  {
+   "title": "Hitozuma Ninpu ga Saimin de Datai Sex Saserareru Hanashi",
+   "original_title": "人妻妊婦が催眠で堕胎セックスさせられる話 (A Story About a Pregnant Wife Hypnotized…)",
+   "creator": "Ero Kojiki",
+   "year": 2020,
+   "format": "Hentai CG collection",
+   "language": "Japanese",
+   "publisher": "self-published (e-hentai tag metadata; Korean edition)",
+   "gist": "An already-pregnant married woman is hypnotized and made to have sex with another man; the title frames the sex as aimed at ending her pregnancy.",
+   "where": "6 CGs (Jun 2020); a 17-image follow-up (Nov 2020)",
+   "wife": "yes (hitozuma)",
+   "pregnant_end": "pregnant at the start (title: 人妻妊婦 'pregnant wife'); the outcome isn't stated",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "pregnant-variants",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "e-hentai",
+     "url": "https://e-hentai.org/g/1671931/3c303fbe3b/"
+    },
+    {
+     "label": "e-hentai (follow-up)",
+     "url": "https://e-hentai.org/g/1788013/8b9e90e1e6/"
+    }
+   ],
+   "loose_fit": false,
+   "note": "Pregnancy basis: the title itself (pregnant wife), plus tags pregnant and impregnation. Not story-verified beyond the title.",
+   "adult_basis": "pregnant married woman (title)",
+   "content_label": "Hardcore / adult",
+   "id": 73
+  },
+  {
+   "title": "My Breeding Wife: Fertile Brainwashing",
+   "original_title": "My Breeding Wife: Fertile Brainwashing",
+   "creator": "Mind Control Master",
+   "year": 2020,
+   "format": "Erotic short story (self-published)",
+   "language": "English",
+   "publisher": "self-published (Goodreads listing; 11 pp.)",
+   "gist": "A husband whose wife agreed to two children but now refuses a second gets hold of a 'silly little toy' that warps her mind and body into his devoted 'breeding wife'.",
+   "where": "Book 1 (11 pp.); series continues with Book 2 'Taboo Harem' and Book 3",
+   "wife": "yes",
+   "pregnant_end": "implied yes (she is brainwashed into wanting to breed; the blurb doesn't confirm a pregnancy)",
+   "kids_together": "yes (the couple already has a child, per the blurb)",
+   "kids_before": "yes (one child)",
+   "categories": [
+    "wife-hypnotized",
+    "scifi",
+    "pregnant-variants",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "Goodreads: Book 1",
+     "url": "https://www.goodreads.com/book/show/55950364-my-breeding-wife"
+    },
+    {
+     "label": "Goodreads: Book 2",
+     "url": "https://www.goodreads.com/book/show/55940488-my-breeding-wife-2"
+    }
+   ],
+   "loose_fit": false,
+   "note": "Pregnancy basis: the publisher's blurb (story-level, but it describes intent only). Book 2's 'Juliet' and Book 3's 'Audrey' are left out because their relation and age aren't stated.",
+   "adult_basis": "married mother",
+   "content_label": "Hardcore / adult",
+   "id": 74
+  },
+  {
+   "title": "The Affair CYOA: Babymaker End",
+   "original_title": "The Affair CYOA – Babymaker End",
+   "creator": "AdoringMistressEcho (DeviantArt: @AdoringMistressEcho)",
+   "year": 2026,
+   "format": "Interactive erotic story (CYOA)",
+   "language": "English",
+   "publisher": "DeviantArt",
+   "gist": "The narrator's wife Felicia is hypnotized through 'hypno files' that make her submissive and broody. She then gets a prosthetic belly, and her brainwashing is set to match each 'stage' of pregnancy.",
+   "where": "Ending 'Babymaker End' (30 Sep 2026); start at 'The Affair Mini CYOA (Start Here)'",
+   "wife": "yes (the narrator's wife)",
+   "pregnant_end": "no: a fake pregnancy (prosthetic belly, with her brainwashing set to 'newly pregnant' through 'about to pop'); the text says she was bred 'for months' but no real pregnancy is stated",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "scifi",
+    "pregnant-variants",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "DeviantArt: Babymaker End",
+     "url": "https://www.deviantart.com/adoringmistressecho/art/The-Affair-CYOA---Babymaker-End-1386573488"
+    },
+    {
+     "label": "DeviantArt: Start Here",
+     "url": "https://www.deviantart.com/adoringmistressecho/art/The-Affair-Mini-CYOA-(Start-Here)-1386201923"
+    }
+   ],
+   "loose_fit": false,
+   "note": "Pregnancy basis: the story text, which describes a simulated pregnancy, not a real one.",
+   "adult_basis": "married woman",
+   "content_label": "Hardcore / adult",
+   "id": 75
+  },
+  {
+   "title": "Ready to Pop Just Like Her Mind",
+   "original_title": "Ready To Pop Just Like Her Mind",
+   "creator": "FallingInTrance (DeviantArt: @FallingInTrance)",
+   "year": 2023,
+   "format": "Independent illustrated vignette",
+   "language": "English",
+   "publisher": "DeviantArt",
+   "gist": "Pregnant Alexandra has regular hypnotherapy sessions in which her hypnotherapist makes her 'mind go pop', giving the mother-to-be a vacation from her thoughts.",
+   "where": "Single post (6 Nov 2023)",
+   "wife": "unknown",
+   "pregnant_end": "yes: pregnant throughout ('mother-to-be')",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "human",
+    "pregnant-variants"
+   ],
+   "sources": [
+    {
+     "label": "DeviantArt",
+     "url": "https://www.deviantart.com/fallingintrance/art/Ready-To-Pop-Just-Like-Her-Mind-992893577"
+    }
+   ],
+   "loose_fit": true,
+   "note": "Pregnancy basis: the story text. Not explicit (DeviantArt: non-mature). Her marital status isn't stated.",
+   "adult_basis": "adult pregnant woman in hypnotherapy",
+   "id": 76
+  },
+  {
+   "title": "[Comm] The Next Step",
+   "original_title": "[Comm] The next step [2/2 a]",
+   "creator": "AdekvatX (DeviantArt: @AdekvatX); commission",
+   "year": 2024,
+   "format": "Independent comic (commission)",
+   "language": "English",
+   "publisher": "DeviantArt",
+   "gist": "The 'next step' in a relationship, according to the artist's caption: hypnotize her, make her pregnant, marry her, and keep her a happy, obedient, hypnotized wife.",
+   "where": "Page 2/2 (variant a), 30 Nov 2024",
+   "wife": "yes (marries her while hypnotized)",
+   "pregnant_end": "yes (per the artist's caption)",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "pregnant-variants",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "DeviantArt",
+     "url": "https://www.deviantart.com/adekvatx/art/%5BComm%5D-The-next-step-%5B2-2-a%5D-1128108330"
+    }
+   ],
+   "loose_fit": true,
+   "note": "Pregnancy basis: the artist's caption (story-level, but brief).",
+   "adult_basis": "an adult couple; DeviantArt marks it as mature content",
+   "content_label": "Hardcore / adult",
+   "id": 77
   }
  ],
  "dropped": [
@@ -2434,6 +2621,22 @@
   {
    "title": "DaveLemon 'Masterful Comics: House(wife) Invasion'",
    "reason": "photo manipulations of real people"
+  },
+  {
+   "title": "Seikaku Kitsume Hitozuma Kyoushi (29), Saimin Contact ni Ochiru (Kurotanida)",
+   "reason": "school setting (the classmate's mother and sister arc)"
+  },
+  {
+   "title": "AI-generated galleries (Panic america, Almalin, Maaru, HiddenGem, ローリングアイ)",
+   "reason": "AI-generated, and some involve characters whose age is unclear"
+  },
+  {
+   "title": "My Breeding Wife 2 and 3",
+   "reason": "the targets ('Juliet', 'Audrey') are not wives, and their relation and age aren't stated"
+  },
+  {
+   "title": "DeviantArt: Michaela: Hypnotic Homewrecker; Claire's Burden",
+   "reason": "the pregnant wife isn't the one hypnotized, or there is no hypnosis at all"
   }
  ]
 }
