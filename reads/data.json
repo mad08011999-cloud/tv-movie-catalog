@@ -4,12 +4,12 @@
   {
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 108
+   "entry_count": 114
   },
   {
    "key": "pregnant-variants",
    "label": "Pregnancy + mind control — variants and leads",
-   "entry_count": 30
+   "entry_count": 31
   },
   {
    "key": "occult",
@@ -19,12 +19,12 @@
   {
    "key": "human",
    "label": "Human-villain control",
-   "entry_count": 60
+   "entry_count": 62
   },
   {
    "key": "scifi",
    "label": "Sci-fi / alien / technological control",
-   "entry_count": 37
+   "entry_count": 39
   },
   {
    "key": "fantasy",
@@ -34,27 +34,27 @@
   {
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
-   "entry_count": 26
+   "entry_count": 27
   },
   {
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
-   "entry_count": 11
+   "entry_count": 9
   },
   {
    "key": "hardcore-adult",
    "label": "Hardcore / adult",
-   "entry_count": 124
+   "entry_count": 125
   },
   {
    "key": "fan-made-roleplay",
    "label": "Fan-made / roleplay (not a professional production)",
-   "entry_count": 28
+   "entry_count": 30
   }
  ],
  "formats": {
   "Novel": 9,
-  "Comic book": 7,
+  "Comic book": 8,
   "Hentai manga": 19,
   "Hentai doujinshi": 29,
   "Hentai CG collection": 3,
@@ -65,8 +65,7 @@
   "Erotic short-story series (self-published)": 6,
   "Manhua (webtoon)": 1,
   "Independent 3D web comic": 1,
-  "Independent web comic": 6,
-  "Independent web comic / pin-up": 1,
+  "Independent web comic": 7,
   "Independent 3D comic (Koikatsu)": 1,
   "Independent web comic (commission)": 1,
   "Fan comic (parody)": 13,
@@ -76,7 +75,9 @@
   "Erotic short story (self-published)": 17,
   "Interactive erotic story (CYOA)": 1,
   "Independent illustrated vignette": 1,
-  "Independent comic (commission)": 1
+  "Independent comic (commission)": 1,
+  "Independent illustrated story": 2,
+  "Independent web comic / pin-up": 1
  },
  "entries": [
   {
@@ -1562,67 +1563,6 @@
    "id": 47
   },
   {
-   "title": "Housewife Hypnotized",
-   "original_title": "Housewife Hypnotized",
-   "creator": "Dewey45 (DeviantArt: @Dewey45)",
-   "year": 2026,
-   "format": "Independent web comic / pin-up",
-   "language": "English",
-   "publisher": "DeviantArt",
-   "gist": "A man hypnotizes his worst enemy's wife, turns her into his slave and sets her against her husband.",
-   "where": "Single post (31 Jul 2026)",
-   "wife": "yes (the enemy's wife)",
-   "pregnant_end": "unknown",
-   "kids_together": "unknown",
-   "kids_before": "unknown",
-   "categories": [
-    "wife-hypnotized",
-    "human",
-    "forced-obedience",
-    "hardcore-adult"
-   ],
-   "sources": [
-    {
-     "label": "DeviantArt",
-     "url": "https://www.deviantart.com/dewey45/art/Housewife-hypnotized-1362969726"
-    }
-   ],
-   "loose_fit": false,
-   "note": "",
-   "adult_basis": "housewife",
-   "content_label": "Hardcore / adult",
-   "id": 48
-  },
-  {
-   "title": "Hypnotic Makeover: From Break Up to Stepford",
-   "original_title": "Hypnotic Makeover: From Break Up to Stepford",
-   "creator": "zelonkarac (DeviantArt: @zelonkarac)",
-   "year": 2026,
-   "format": "Independent web comic",
-   "language": "English",
-   "publisher": "DeviantArt",
-   "gist": "After a break-up a woman's therapist suggests hypnosis, which turns her into a 1950s-style Stepford housewife.",
-   "where": "Single comic (13 Apr 2026)",
-   "wife": "becomes a Stepford housewife",
-   "pregnant_end": "unknown",
-   "kids_together": "unknown",
-   "kids_before": "unknown",
-   "categories": [
-    "human",
-    "other-control"
-   ],
-   "sources": [
-    {
-     "label": "DeviantArt",
-     "url": "https://www.deviantart.com/zelonkarac/art/Hypnotic-Makeover%3A-From-Break-Up-to-Stepford-1321506573"
-    }
-   ],
-   "loose_fit": true,
-   "note": "She becomes a housewife figure; the listing doesn't say whether she marries.",
-   "adult_basis": "adult woman in therapy after a break-up",
-   "id": 49
-  },
-  {
    "title": "Naomi the Hypnotized Wife",
    "original_title": "Naomi the Hypnotized Wife",
    "creator": "YiBing1999 (DeviantArt: @YiBing1999)",
@@ -1648,7 +1588,7 @@
    "loose_fit": true,
    "note": "Only a preview is public; the gist is the title and the artist's note.",
    "adult_basis": "wife",
-   "id": 50
+   "id": 48
   },
   {
    "title": "Hypnotized Mom (Parts 1–2)",
@@ -1681,38 +1621,7 @@
    "loose_fit": false,
    "note": "Not explicit (DeviantArt: non-mature). Brandon's age isn't stated and he appears only in the non-sexual study-habits scene.",
    "adult_basis": "mother",
-   "id": 51
-  },
-  {
-   "title": "Shego Hypnotized to Be the Perfect Wife",
-   "original_title": "Shego Hypnotized to Be the Perfect Wife",
-   "creator": "Ailuffy89 (DeviantArt: @Ailuffy89)",
-   "year": 2025,
-   "format": "Fan comic (parody)",
-   "language": "English",
-   "publisher": "DeviantArt",
-   "gist": "Kim Possible parody: the villainess Shego is hypnotized into a perfect Stepford-style wife.",
-   "where": "Single post (18 Nov 2025)",
-   "wife": "becomes a 'perfect wife'",
-   "pregnant_end": "unknown",
-   "kids_together": "unknown",
-   "kids_before": "unknown",
-   "categories": [
-    "human",
-    "other-control",
-    "fan-made-roleplay"
-   ],
-   "sources": [
-    {
-     "label": "DeviantArt",
-     "url": "https://www.deviantart.com/ailuffy89/art/Shego-hypnotized-to-be-the-perfect-wife-1264023476"
-    }
-   ],
-   "loose_fit": true,
-   "note": "",
-   "adult_basis": "Shego is an adult in canon",
-   "content_label": "Fan-made / roleplay (not a professional production)",
-   "id": 52
+   "id": 49
   },
   {
    "title": "Power Wife",
@@ -1744,7 +1653,7 @@
    "note": "",
    "adult_basis": "Power Girl, adult heroine",
    "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
-   "id": 53
+   "id": 50
   },
   {
    "title": "Dexter's Mom Watches a Hypno Show",
@@ -1776,7 +1685,7 @@
    "note": "",
    "adult_basis": "married mother",
    "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
-   "id": 54
+   "id": 51
   },
   {
    "title": "Lonely Housewife Hinata Hypnotized and Corrupted (series; parts 2–5 verified)",
@@ -1828,7 +1737,7 @@
    "note": "",
    "adult_basis": "married mother (Boruto era); tag milf",
    "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
-   "id": 55
+   "id": 52
   },
   {
    "title": "Ann Possible x Hypno Monster",
@@ -1860,7 +1769,7 @@
    "note": "",
    "adult_basis": "married mother; tag milf",
    "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
-   "id": 56
+   "id": 53
   },
   {
    "title": "The Incredibles: Helen Parr and the Screenslaver",
@@ -1892,7 +1801,7 @@
    "note": "",
    "adult_basis": "married mother; tag milf",
    "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
-   "id": 57
+   "id": 54
   },
   {
    "title": "Capture Ash's Mom!",
@@ -1925,7 +1834,7 @@
    "note": "",
    "adult_basis": "mother; tag milf",
    "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
-   "id": 58
+   "id": 55
   },
   {
    "title": "Vegeta's Wish (Dragon Ball Z)",
@@ -1957,7 +1866,7 @@
    "note": "",
    "adult_basis": "married mothers; tag milf",
    "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
-   "id": 59
+   "id": 56
   },
   {
    "title": "Goku x Chi-Chi Commission",
@@ -1989,7 +1898,7 @@
    "note": "",
    "adult_basis": "married mother; tag milf",
    "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
-   "id": 60
+   "id": 57
   },
   {
    "title": "Rise of the Tuffle (Dragon Ball GT)",
@@ -2021,7 +1930,7 @@
    "note": "This is possession and corruption rather than hypnosis.",
    "adult_basis": "married mothers; tag milf",
    "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
-   "id": 61
+   "id": 58
   },
   {
    "title": "Powergirl Droned",
@@ -2053,7 +1962,7 @@
    "note": "",
    "adult_basis": "Power Girl, adult heroine",
    "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
-   "id": 62
+   "id": 59
   },
   {
    "title": "Mendoumi no Ii Hitozuma Onna Joushi wa Ore no Saimin Onaho Petto",
@@ -2084,7 +1993,7 @@
    "note": "",
    "adult_basis": "married female boss",
    "content_label": "Hardcore / adult",
-   "id": 63
+   "id": 60
   },
   {
    "title": "Kuso na Hitozuma o Saimin de Kyousei Shite Mama ni Suru",
@@ -2123,7 +2032,7 @@
    "note": "",
    "adult_basis": "married woman; tag milf",
    "content_label": "Hardcore / adult",
-   "id": 64
+   "id": 61
   },
   {
    "title": "Seiso Celeb na Hitozuma no Honshou o Saimin de Mezamesasete Mitara…",
@@ -2158,7 +2067,7 @@
    "note": "",
    "adult_basis": "married woman; tag milf",
    "content_label": "Hardcore / adult",
-   "id": 65
+   "id": 62
   },
   {
    "title": "Bitch Zuma ni Anji Kaketara Netorarechaimashita (I Hypnotized a Slutty Wife and NTR'd Her)",
@@ -2189,7 +2098,7 @@
    "note": "",
    "adult_basis": "married woman; tag milf",
    "content_label": "Hardcore / adult",
-   "id": 66
+   "id": 63
   },
   {
    "title": "Hitozuma Goroshi no Magan (Housewife-Killing Demon Eye)",
@@ -2224,7 +2133,7 @@
    "note": "Vol. 2 (2026) follows Oda Yoya, a 36-year-old village clinic doctor (age stated in the title).",
    "adult_basis": "housewives; tag milf",
    "content_label": "Hardcore / adult",
-   "id": 67
+   "id": 64
   },
   {
    "title": "Faith × Mother 1 (Spy x Family)",
@@ -2257,7 +2166,7 @@
    "note": "",
    "adult_basis": "Yor is 27 in canon; tag milf",
    "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
-   "id": 68
+   "id": 65
   },
   {
    "title": "Sennou Hitozuma wa Nikuyoku Gangu Tester (Girls und Panzer)",
@@ -2289,7 +2198,7 @@
    "note": "",
    "adult_basis": "married mothers; tag milf",
    "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
-   "id": 69
+   "id": 66
   },
   {
    "title": "Inran Iemoto no Sennou Nakadashi Settai (Girls und Panzer)",
@@ -2321,7 +2230,7 @@
    "note": "",
    "adult_basis": "married mothers; tag milf",
    "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
-   "id": 70
+   "id": 67
   },
   {
    "title": "Nobita's Mama Becomes a Battle-Manga Hero (Scenario Writer)",
@@ -2352,7 +2261,7 @@
    "note": "",
    "adult_basis": "married mother (tag 人妻)",
    "content_label": "Fan-made / roleplay (not a professional production)",
-   "id": 71
+   "id": 68
   },
   {
    "title": "Saimin Seishidou: Miyajima Tsubaki (Koikatsu fan comic)",
@@ -2387,7 +2296,7 @@
    "note": "",
    "adult_basis": "married mother",
    "content_label": "Fan-made / roleplay (not a professional production)",
-   "id": 72
+   "id": 69
   },
   {
    "title": "Hitozuma Ninpu ga Saimin de Datai Sex Saserareru Hanashi",
@@ -2422,7 +2331,7 @@
    "note": "Pregnancy basis: the title itself (pregnant wife), plus tags pregnant and impregnation. Not story-verified beyond the title.",
    "adult_basis": "pregnant married woman (title)",
    "content_label": "Hardcore / adult",
-   "id": 73
+   "id": 70
   },
   {
    "title": "My Breeding Wife: Fertile Brainwashing",
@@ -2458,7 +2367,7 @@
    "note": "Pregnancy basis: the publisher's blurb (story-level, but it describes intent only). Book 2's 'Juliet' and Book 3's 'Audrey' are left out because their relation and age aren't stated.",
    "adult_basis": "married mother",
    "content_label": "Hardcore / adult",
-   "id": 74
+   "id": 71
   },
   {
    "title": "The Affair CYOA: Babymaker End",
@@ -2494,7 +2403,7 @@
    "note": "Pregnancy basis: the story text, which describes a simulated pregnancy, not a real one.",
    "adult_basis": "married woman",
    "content_label": "Hardcore / adult",
-   "id": 75
+   "id": 72
   },
   {
    "title": "Ready to Pop Just Like Her Mind",
@@ -2523,7 +2432,7 @@
    "loose_fit": true,
    "note": "Pregnancy basis: the story text. Not explicit (DeviantArt: non-mature). Her marital status isn't stated.",
    "adult_basis": "adult pregnant woman in hypnotherapy",
-   "id": 76
+   "id": 73
   },
   {
    "title": "[Comm] The Next Step",
@@ -2554,7 +2463,7 @@
    "note": "Pregnancy basis: the artist's caption (story-level, but brief).",
    "adult_basis": "an adult couple; DeviantArt marks it as mature content",
    "content_label": "Hardcore / adult",
-   "id": 77
+   "id": 74
   },
   {
    "title": "Sennou Netorare Tsuma Haruka",
@@ -2585,7 +2494,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "title: tsuma (wife); tag: milf",
    "content_label": "Hardcore / adult",
-   "id": 78
+   "id": 75
   },
   {
    "title": "Hustle! Danchiduma",
@@ -2620,7 +2529,7 @@
    "note": "A loose fit: the mind-control element is tagged, but the description doesn't explain it. Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "MangaUpdates: housewives, milfs",
    "content_label": "Hardcore / adult",
-   "id": 79
+   "id": 76
   },
   {
    "title": "Hitozuma Kanrinin",
@@ -2655,7 +2564,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "title: hitozuma; tag: milf",
    "content_label": "Hardcore / adult",
-   "id": 80
+   "id": 77
   },
   {
    "title": "Hitozuma Yukie ~Nodogoshi Etsurakuen~",
@@ -2691,7 +2600,7 @@
    "note": "The control is partly drug-induced. Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "title: hitozuma; tag: milf",
    "content_label": "Hardcore / adult",
-   "id": 81
+   "id": 78
   },
   {
    "title": "Kono Kusottare no Netorare Tsuma-domo yo",
@@ -2722,7 +2631,7 @@
    "note": "A loose fit: not every story in the collection is necessarily mind control. Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "title: tsuma (wives); tag: milf",
    "content_label": "Hardcore / adult",
-   "id": 82
+   "id": 79
   },
   {
    "title": "Hitozuma Hypnotherapy",
@@ -2761,7 +2670,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "title: hitozuma; tag: milf",
    "content_label": "Hardcore / adult",
-   "id": 83
+   "id": 80
   },
   {
    "title": "Shiawase",
@@ -2796,7 +2705,7 @@
    "note": "Which story the hypnosis belongs to isn't confirmed. Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "tag: milf",
    "content_label": "Hardcore / adult",
-   "id": 84
+   "id": 81
   },
   {
    "title": "Onna Shachou to Koibito ni Naru Houhou",
@@ -2826,7 +2735,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "female company president (shachou); tag: milf",
    "content_label": "Hardcore / adult",
-   "id": 85
+   "id": 82
   },
   {
    "title": "Hitozuma Kouryaku Appli ~Charao ni Netorare Ochite iku Bijinzuma-tachi~",
@@ -2857,7 +2766,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "title: hitozuma; tag: milf",
    "content_label": "Hardcore / adult",
-   "id": 86
+   "id": 83
   },
   {
    "title": "Idousaki wa Inran OL Darake no Harem Shokuba Da",
@@ -2888,7 +2797,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "office ladies (OL); tag: milf",
    "content_label": "Hardcore / adult",
-   "id": 87
+   "id": 84
   },
   {
    "title": "Hitozumajo to Touzoku",
@@ -2919,7 +2828,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "title: hitozuma; tag: milf",
    "content_label": "Hardcore / adult",
-   "id": 88
+   "id": 85
   },
   {
    "title": "Sennyu Tsuma Satomi Sennou Ryoujoku no Kiroku",
@@ -2958,7 +2867,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "title: tsuma (wife)",
    "content_label": "Hardcore / adult",
-   "id": 89
+   "id": 86
   },
   {
    "title": "Hitozuma Onmyouji Sakuya",
@@ -2989,7 +2898,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "title: hitozuma",
    "content_label": "Hardcore / adult",
-   "id": 90
+   "id": 87
   },
   {
    "title": "Hitozuma Sentouin \"Yukie\"",
@@ -3021,7 +2930,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "title: hitozuma; tag: milf",
    "content_label": "Hardcore / adult",
-   "id": 91
+   "id": 88
   },
   {
    "title": "Kyousei Ninkatsu",
@@ -3057,7 +2966,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "tag: milf",
    "content_label": "Hardcore / adult",
-   "id": 92
+   "id": 89
   },
   {
    "title": "Notto(NTR)rare Onsen Ryokou ~Tsukari Tsukareru Shinkon Tsuma~",
@@ -3096,7 +3005,7 @@
    "note": "Body-possession, not hypnosis. Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "newlywed wife",
    "content_label": "Hardcore / adult",
-   "id": 93
+   "id": 90
   },
   {
    "title": "To Corrupt a Wife 1.5",
@@ -3127,7 +3036,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "title: hitozuma",
    "content_label": "Hardcore / adult",
-   "id": 94
+   "id": 91
   },
   {
    "title": "Hitozuma ga Souryo ni NTR reta",
@@ -3158,7 +3067,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "title: hitozuma; tag: milf",
    "content_label": "Hardcore / adult",
-   "id": 95
+   "id": 92
   },
   {
    "title": "Good Wife (Okusan parody)",
@@ -3190,7 +3099,7 @@
    "note": "The control is partly drug-induced. Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "Okusan's housewife Kyouko Okita; tag: milf",
    "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
-   "id": 96
+   "id": 93
   },
   {
    "title": "Kishimoto Saori, 30: Sengyou Shufu wa Netorare-zumi",
@@ -3221,7 +3130,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "stated age 30 (title); housewife",
    "content_label": "Hardcore / adult",
-   "id": 97
+   "id": 94
   },
   {
    "title": "Kurogal Pan (Girls und Panzer parody)",
@@ -3254,7 +3163,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "the mothers Shiho Nishizumi and Chiyo Shimada; tag: milf",
    "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
-   "id": 98
+   "id": 95
   },
   {
    "title": "Hitozuma Sokuochi! Hitozuma Senyou DeliHeal App",
@@ -3289,7 +3198,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "title: hitozuma; tag: milf",
    "content_label": "Hardcore / adult",
-   "id": 99
+   "id": 96
   },
   {
    "title": "Sokuochi Nurse 2 ~Niizuma Nurse to Netori no Utage~",
@@ -3320,7 +3229,7 @@
    "note": "The control is partly drug-induced. Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "newlywed nurse; tag: milf",
    "content_label": "Hardcore / adult",
-   "id": 100
+   "id": 97
   },
   {
    "title": "Hitozuma Sex Counseling (Zenpen)",
@@ -3351,7 +3260,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "title: hitozuma; tag: milf",
    "content_label": "Hardcore / adult",
-   "id": 101
+   "id": 98
   },
   {
    "title": "Hitozuma Sennou Pheromone",
@@ -3386,7 +3295,7 @@
    "note": "Other chapters of that collection (a neighbour's daughter, an older sister, 'the whole family') are not included. Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "title: hitozuma; tag: milf",
    "content_label": "Hardcore / adult",
-   "id": 102
+   "id": 99
   },
   {
    "title": "Boku no Iinari Hisho wa Hitozuma.",
@@ -3417,7 +3326,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "title: hitozuma; tag: milf",
    "content_label": "Hardcore / adult",
-   "id": 103
+   "id": 100
   },
   {
    "title": "Ore-sama Senyou no Fella Ningyou ni Narisagatta Rinjin no Houman Tsuma",
@@ -3447,7 +3356,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "title: tsuma; tag: milf",
    "content_label": "Hardcore / adult",
-   "id": 104
+   "id": 101
   },
   {
    "title": "Saimin Appli to Okusan to…",
@@ -3478,7 +3387,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "title: okusan (wife)",
    "content_label": "Hardcore / adult",
-   "id": 105
+   "id": 102
   },
   {
    "title": "The Necromancer's Enslaved Wife",
@@ -3509,7 +3418,7 @@
    "note": "By the artist of 'Capture Ash's Mom!', already listed. Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "title: wife",
    "content_label": "Hardcore / adult",
-   "id": 106
+   "id": 103
   },
   {
    "title": "Parasite Paradise (Pokémon Sun and Moon parody)",
@@ -3541,7 +3450,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "Lusamine, an adult mother of two in canon; tag: milf",
    "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
-   "id": 107
+   "id": 104
   },
   {
    "title": "Sennou! Choukyou! Elastigirl! (The Incredibles parody)",
@@ -3573,7 +3482,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "Helen Parr, a married mother in canon; tag: milf",
    "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
-   "id": 108
+   "id": 105
   },
   {
    "title": "Re: Sennou Kyouiku-shitsu ~Jinzou Ningen 18-gou Hen~ 1+2 (Dragon Ball Z parody)",
@@ -3606,7 +3515,7 @@
    "note": "'Kyouiku-shitsu' here means a brainwashing room, not a school. Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "Android 18, an adult married mother in canon; tag: milf",
    "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
-   "id": 109
+   "id": 106
   },
   {
    "title": "Spy x Family short (Yor, Fiona)",
@@ -3638,7 +3547,7 @@
    "note": "By the circle behind 'Faith × Mother', already listed. Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "Yor (27 in canon) and Fiona, both adult agents; tag: milf",
    "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
-   "id": 110
+   "id": 107
   },
   {
    "title": "Gifu Netorare If ~Commission Matome~",
@@ -3668,7 +3577,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "a married daughter-in-law; tag: milf",
    "content_label": "Hardcore / adult",
-   "id": 111
+   "id": 108
   },
   {
    "title": "Onna Keiji Iwagami Shima",
@@ -3699,7 +3608,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "police detective; tag: milf",
    "content_label": "Hardcore / adult",
-   "id": 112
+   "id": 109
   },
   {
    "title": "Onna Spy Choukyou Acme",
@@ -3730,7 +3639,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "professional spies; tag: milf",
    "content_label": "Hardcore / adult",
-   "id": 113
+   "id": 110
   },
   {
    "title": "Sennou Ryokan e Youkoso!",
@@ -3760,7 +3669,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "'bijo' (adult beauties) at an inn; tag: milf",
    "content_label": "Hardcore / adult",
-   "id": 114
+   "id": 111
   },
   {
    "title": "Adult Woman Who Volunteered for a Sexaroid Remodeling Experiment",
@@ -3791,7 +3700,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "title: 成年女性 (adult woman)",
    "content_label": "Hardcore / adult",
-   "id": 115
+   "id": 112
   },
   {
    "title": "Hypnotising a Female Boss",
@@ -3821,7 +3730,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "female boss; tag: milf",
    "content_label": "Hardcore / adult",
-   "id": 116
+   "id": 113
   },
   {
    "title": "Mischievous 5 (Bleach parody)",
@@ -3857,7 +3766,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "Rangiku, an adult Soul Reaper lieutenant; tag: milf",
    "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
-   "id": 117
+   "id": 114
   },
   {
    "title": "Muchimuchi Jotei (One Piece parody)",
@@ -3889,7 +3798,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "Boa Hancock (29–31 in canon); tag: milf",
    "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
-   "id": 118
+   "id": 115
   },
   {
    "title": "FF16 Ochiru Dominant (Final Fantasy XVI parody)",
@@ -3921,7 +3830,7 @@
    "note": "Gist, wife status and pregnancy come from the title and e-hentai tag metadata (not the story text). The year is the earliest e-hentai upload found, which may be later than the original release.",
    "adult_basis": "Jill Warrick, an adult (20s) in FFXVI; tag: milf",
    "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
-   "id": 119
+   "id": 116
   },
   {
    "title": "Hypnotised Wife (BBW, Exhibition, Mind Control)",
@@ -3952,7 +3861,7 @@
    "note": "Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "married woman",
    "content_label": "Hardcore / adult",
-   "id": 120
+   "id": 117
   },
   {
    "title": "Mind Control: The Trophy Wife Program",
@@ -3984,7 +3893,7 @@
    "note": "Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "married MBA graduate",
    "content_label": "Hardcore / adult",
-   "id": 121
+   "id": 118
   },
   {
    "title": "The Teacher Wife (Aphrodisiac, Book 5)",
@@ -4015,7 +3924,7 @@
    "note": "A loose fit: the blurb doesn't spell out how the control works. Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "married professional woman; the protégé is a workplace colleague",
    "content_label": "Hardcore / adult",
-   "id": 122
+   "id": 119
   },
   {
    "title": "Brain or Bust (Change Her Mind)",
@@ -4046,7 +3955,7 @@
    "note": "Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "married woman",
    "content_label": "Hardcore / adult",
-   "id": 123
+   "id": 120
   },
   {
    "title": "Subliminal BBC Hotwife: My Roommate Brainwashed My Wife",
@@ -4077,7 +3986,7 @@
    "note": "Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "married woman",
    "content_label": "Hardcore / adult",
-   "id": 124
+   "id": 121
   },
   {
    "title": "VR Hotwife: Hypnotized by BBC",
@@ -4108,7 +4017,7 @@
    "note": "Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "married woman",
    "content_label": "Hardcore / adult",
-   "id": 125
+   "id": 122
   },
   {
    "title": "Hypno Hotwife: My Therapist Turned Me Into a BBC Addict",
@@ -4139,7 +4048,7 @@
    "note": "Same author as 'The Barber Hypnotized My Wife to Crave BBC', already listed. Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "married woman",
    "content_label": "Hardcore / adult",
-   "id": 126
+   "id": 123
   },
   {
    "title": "Hypno Hotwife: Blacked at the Family Reunion",
@@ -4170,7 +4079,7 @@
    "note": "Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "married woman",
    "content_label": "Hardcore / adult",
-   "id": 127
+   "id": 124
   },
   {
    "title": "Hypno-Whores: My Wife's BBC Office Addiction",
@@ -4202,7 +4111,7 @@
    "note": "Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "married employees",
    "content_label": "Hardcore / adult",
-   "id": 128
+   "id": 125
   },
   {
    "title": "Bimbofying His Wife: MILF Hypnotised (Parts 1–3)",
@@ -4233,7 +4142,7 @@
    "note": "Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "married mother of an adult daughter",
    "content_label": "Hardcore / adult",
-   "id": 129
+   "id": 126
   },
   {
    "title": "The Bimbofication of a Bored Housewife (Parts 1–8)",
@@ -4272,7 +4181,7 @@
    "note": "Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "housewife",
    "content_label": "Hardcore / adult",
-   "id": 130
+   "id": 127
   },
   {
    "title": "Hypnotized Asian Milf's Forbidden Desires",
@@ -4303,7 +4212,7 @@
    "note": "Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "married woman ('Mrs. Lin')",
    "content_label": "Hardcore / adult",
-   "id": 131
+   "id": 128
   },
   {
    "title": "Post-Hypnotic Wife",
@@ -4334,7 +4243,7 @@
    "note": "Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "married woman",
    "content_label": "Hardcore / adult",
-   "id": 132
+   "id": 129
   },
   {
    "title": "Trigger Words for My Wife's Mouth",
@@ -4365,7 +4274,7 @@
    "note": "Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "wife in a long marriage",
    "content_label": "Hardcore / adult",
-   "id": 133
+   "id": 130
   },
   {
    "title": "Bimbo Training: Wife Training",
@@ -4397,7 +4306,7 @@
    "note": "Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "married woman",
    "content_label": "Hardcore / adult",
-   "id": 134
+   "id": 131
   },
   {
    "title": "Hypno-Sex Vampire Seduction",
@@ -4428,7 +4337,7 @@
    "note": "Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "reporter; 'wife' in the subtitle",
    "content_label": "Hardcore / adult",
-   "id": 135
+   "id": 132
   },
   {
    "title": "Community Service and NTR: The Fall of a Beautiful Housewife",
@@ -4459,7 +4368,7 @@
    "note": "A Japanese-language Kindle title. Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "married full-time housewife",
    "content_label": "Hardcore / adult",
-   "id": 136
+   "id": 133
   },
   {
    "title": "Bimbo Wives in Bloom",
@@ -4490,7 +4399,7 @@
    "note": "An anthology that includes several Brainjack titles. Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "wives",
    "content_label": "Hardcore / adult",
-   "id": 137
+   "id": 134
   },
   {
    "title": "Hypnotic Hotwife Collection",
@@ -4521,7 +4430,7 @@
    "note": "Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "wives",
    "content_label": "Hardcore / adult",
-   "id": 138
+   "id": 135
   },
   {
    "title": "Strip / Book Club (Change Her Mind)",
@@ -4551,7 +4460,7 @@
    "note": "Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "adult book-club members",
    "content_label": "Hardcore / adult",
-   "id": 139
+   "id": 136
   },
   {
    "title": "Masseuse X Hypnotist (Change Her Mind)",
@@ -4581,7 +4490,7 @@
    "note": "Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "professional masseuse",
    "content_label": "Hardcore / adult",
-   "id": 140
+   "id": 137
   },
   {
    "title": "Mind Controlled into His Camgirl Slut (Change Her Mind)",
@@ -4612,7 +4521,7 @@
    "note": "Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "professional influencer with a manager",
    "content_label": "Hardcore / adult",
-   "id": 141
+   "id": 138
   },
   {
    "title": "Brainwashed by Her Boss: Busty Assistant Becomes Office Bimbo",
@@ -4643,7 +4552,7 @@
    "note": "Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "office assistant",
    "content_label": "Hardcore / adult",
-   "id": 142
+   "id": 139
   },
   {
    "title": "Bimbo Brainwashed by Her Boss",
@@ -4674,7 +4583,7 @@
    "note": "Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "nine years in her job",
    "content_label": "Hardcore / adult",
-   "id": 143
+   "id": 140
   },
   {
    "title": "Brainwashing Her: An Erotic Hypnosis Mind Control Roommate Novel",
@@ -4705,7 +4614,7 @@
    "note": "Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "working adult",
    "content_label": "Hardcore / adult",
-   "id": 144
+   "id": 141
   },
   {
    "title": "Hypnotized Wives (series)",
@@ -4757,7 +4666,7 @@
    "note": "Left out: 'Yearbook Photos' (school setting with an 18-year-old senior), 'Be My Valentine' (professor and student), and 'The Trick-Or-Treater' (the visitor's age is unclear). Gist and fields come from the publisher's blurb on Amazon (not the full text).",
    "adult_basis": "wives and mothers; adult professionals",
    "content_label": "Hardcore / adult",
-   "id": 145
+   "id": 142
   },
   {
    "title": "Pregnant Brides: An Erotic Mind Control Story",
@@ -4793,7 +4702,7 @@
    "note": "Pregnancy basis: the publisher's blurb on Goodreads. Book II (Melody, 39 pp.) has no pregnancy in its blurb and isn't listed separately.",
    "adult_basis": "married wife and brides-to-be",
    "content_label": "Hardcore / adult",
-   "id": 146
+   "id": 143
   },
   {
    "title": "The Stepford Wives",
@@ -4823,7 +4732,233 @@
    "loose_fit": true,
    "note": "A loose fit: the novel implies the wives are killed and replaced with robots rather than hypnotized, though Joanna first suspects poisoning or brainwashing. This is the source of the 'Stepford wife' archetype used by many works here.",
    "adult_basis": "married mother",
+   "id": 144
+  },
+  {
+   "title": "Wife's New Master",
+   "original_title": "Wife's New Master",
+   "creator": "HeroesInYou (DeviantArt: @HeroesInYou)",
+   "year": 2026,
+   "format": "Independent web comic",
+   "language": "English",
+   "publisher": "DeviantArt",
+   "gist": "While her husband is away on a weekend business trip, an elderly neighbour locks a mind-control device onto his traditional, submissive wife. It rewrites her loyalty and her look into a new identity as his 'pet', and the husband comes home early to find her rejecting him.",
+   "where": "Single post (4 Jul 2026)",
+   "wife": "yes",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "scifi"
+   ],
+   "sources": [
+    {
+     "label": "DeviantArt",
+     "url": "https://www.deviantart.com/heroesinyou/art/Wife%27s-New-Master-1352338263"
+    }
+   ],
+   "loose_fit": false,
+   "note": "DeviantArt shows no 'Created using AI tools' label on this post (checked Oct 20, 2026). The gist comes from the artist's description.",
+   "adult_basis": "married housewife; elderly neighbour",
+   "id": 145
+  },
+  {
+   "title": "Brainwashed Wife (Parts 1–2)",
+   "original_title": "Brainwashed wife Part 1 / Part 2",
+   "creator": "delage37 (DeviantArt: @delage37)",
+   "year": 2026,
+   "format": "Independent web comic",
+   "language": "English",
+   "publisher": "DeviantArt",
+   "gist": "The narrator's wife wanted to put her career ahead of the house, so he hypnotizes her into a 'fantastic Stepford housewife' ready to fulfil his wishes.",
+   "where": "Parts 1–2 (15 Jan 2026); the artist also posts 'Hypnotized Stepford housewife' and 'Hypnotized housewife' multi-part sets (2026) with no descriptions",
+   "wife": "yes",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "DeviantArt: Part 1",
+     "url": "https://www.deviantart.com/delage37/art/Brainwashed-wife-Part-1-1287463708"
+    },
+    {
+     "label": "DeviantArt: Part 2",
+     "url": "https://www.deviantart.com/delage37/art/Brainwashed-wife-Part-2-1287464773"
+    },
+    {
+     "label": "DeviantArt: Hypnotized Wife Part 2 (Jun 2026)",
+     "url": "https://www.deviantart.com/delage37/art/Hypnotized-Wife-Part-2-1343146941"
+    }
+   ],
+   "loose_fit": false,
+   "note": "DeviantArt shows no 'Created using AI tools' label on this post (checked Oct 20, 2026). The gist comes from the artist's description.",
+   "adult_basis": "married professional woman",
+   "id": 146
+  },
+  {
+   "title": "Hypno Session (My Hero Academia fan comic)",
+   "original_title": "COMIC – HYPNO SESSION",
+   "creator": "LatinKaixa (DeviantArt: @LatinKaixa)",
+   "year": 2021,
+   "format": "Fan comic (parody)",
+   "language": "English",
+   "publisher": "DeviantArt / Gumroad / Fanbox",
+   "gist": "Mitsuki Bakugo is invited to a photo shoot for a 'heroes' mothers' article in the mysterious 'SB' magazine, where she is hypnotized (artist's notes: mind control, femsub, happy trance).",
+   "where": "Cover + 7 pp. (21 Aug 2021)",
+   "wife": "yes (married to Masaru Bakugo in canon)",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "yes (son Katsuki, in canon)",
+   "categories": [
+    "wife-hypnotized",
+    "human",
+    "hardcore-adult",
+    "fan-made-roleplay"
+   ],
+   "sources": [
+    {
+     "label": "DeviantArt: cover and synopsis",
+     "url": "https://www.deviantart.com/latinkaixa/art/COMIC---HYPNO-SESSION---COVER-889474042"
+    }
+   ],
+   "loose_fit": false,
+   "note": "DeviantArt shows no 'Created using AI tools' label on this post (checked Oct 20, 2026). The gist comes from the artist's description.",
+   "adult_basis": "Mitsuki Bakugo, an adult mother in canon; only adults appear in the synopsis",
+   "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
    "id": 147
+  },
+  {
+   "title": "The Perfect Mrs. Harper in Stepford",
+   "original_title": "The Perfect Mrs. Harper in Stepford",
+   "creator": "Missy-Lisa (DeviantArt: @Missy-Lisa)",
+   "year": 2026,
+   "format": "Independent illustrated story",
+   "language": "English",
+   "publisher": "DeviantArt",
+   "gist": "Veronica, the secret creator of the 'Stepford process' sold to wealthy men, conditions the sharp-edged executive Jane into a dreamily obedient Stepford wife ('Yes, Mistress'), ending with a final conditioning session.",
+   "where": "Multi-part illustrated story (part 8: 22 Jun 2026)",
+   "wife": "becoming a Stepford wife ('Mrs. Harper')",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "human",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "DeviantArt: part 8",
+     "url": "https://www.deviantart.com/missy-lisa/art/The-Perfect-Mrs.-Harper-in-Stepford---%288%29-1347965198"
+    }
+   ],
+   "loose_fit": true,
+   "note": "DeviantArt shows no 'Created using AI tools' label on this post (checked Oct 20, 2026). The gist comes from the artist's description.",
+   "adult_basis": "executive",
+   "id": 148
+  },
+  {
+   "title": "Millie the Stepford Wife (Helluva Boss fan work)",
+   "original_title": "Millie The Stepford Wife",
+   "creator": "TheStepfordFiles (DeviantArt: @TheStepfordFiles)",
+   "year": 2025,
+   "format": "Independent illustrated story",
+   "language": "English",
+   "publisher": "DeviantArt",
+   "gist": "A redacted 'project file' on Mrs. Millie, a 27-year-old imp assassin from Hell's Wrath Ring, who is captured and given an implant that turns her into a Stepford wife.",
+   "where": "Single post (4 Apr 2025)",
+   "wife": "yes ('Mrs. Millie'; married to Moxxie in canon)",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "scifi",
+    "fan-made-roleplay"
+   ],
+   "sources": [
+    {
+     "label": "DeviantArt",
+     "url": "https://www.deviantart.com/thestepfordfiles/art/Millie-The-Stepford-Wife-1177245933"
+    }
+   ],
+   "loose_fit": false,
+   "note": "DeviantArt shows no 'Created using AI tools' label on this post (checked Oct 20, 2026). The gist comes from the artist's description.",
+   "adult_basis": "stated age 27",
+   "content_label": "Fan-made / roleplay (not a professional production)",
+   "id": 149
+  },
+  {
+   "title": "Kae Izumi Hypnotized (Digi-moms Hypnotized series)",
+   "original_title": "Kae Izumi hypnotized",
+   "creator": "Daveyboysmith (commissioner; DeviantArt: @Daveyboysmith)",
+   "year": 2021,
+   "format": "Independent web comic / pin-up",
+   "language": "English",
+   "publisher": "DeviantArt",
+   "gist": "Part of a commissioned 'Digi-moms hypnotized' series. In the accompanying story, Kae Izumi, Izzy's adoptive mother, goes shopping while her husband works late, meets Yuuko Kamiya and ends up hypnotized ('spiral eyes').",
+   "where": "Single image with story (10 Aug 2021); part of a series",
+   "wife": "yes (her husband is mentioned)",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "yes (adopted son Izzy, in canon)",
+   "categories": [
+    "wife-hypnotized",
+    "human",
+    "hardcore-adult",
+    "fan-made-roleplay"
+   ],
+   "sources": [
+    {
+     "label": "DeviantArt",
+     "url": "https://www.deviantart.com/daveyboysmith/art/Kae-Izumi-hypnotized-888413602"
+    }
+   ],
+   "loose_fit": false,
+   "note": "DeviantArt shows no 'Created using AI tools' label on this post (checked Oct 20, 2026). The gist comes from the artist's description.",
+   "adult_basis": "married adoptive mother; only adults appear in the hypnosis scene",
+   "content_label": "Hardcore / adult · Fan-made / roleplay (not a professional production)",
+   "id": 150
+  },
+  {
+   "title": "Alpha Flight #41 (Purple Man's mind-controlled wife)",
+   "original_title": "Alpha Flight #41",
+   "creator": "Bill Mantlo (writer)",
+   "year": 1986,
+   "format": "Comic book",
+   "language": "English",
+   "publisher": "Marvel Comics",
+   "gist": "Early in his criminal career, the Purple Man (Zebediah Killgrave) uses his mind-control powers to force a woman to become his wife. She becomes pregnant with his daughter Kara (later Purple Girl) before she recovers and leaves him.",
+   "where": "Alpha Flight #41 (Dec 1986; backstory)",
+   "wife": "yes (forced by mind control)",
+   "pregnant_end": "yes: pregnant with Kara Killgrave before she leaves (story-level, per Wikipedia's account of the issue)",
+   "kids_together": "yes (daughter Kara)",
+   "kids_before": "no",
+   "categories": [
+    "wife-hypnotized",
+    "human",
+    "forced-obedience",
+    "pregnant-variants"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia: Purple Man (citing Alpha Flight #41)",
+     "url": "https://en.wikipedia.org/wiki/Purple_Man"
+    },
+    {
+     "label": "Wikipedia: Alpha Flight (writers)",
+     "url": "https://en.wikipedia.org/wiki/Alpha_Flight_(comic_book)"
+    }
+   ],
+   "loose_fit": false,
+   "note": "Pregnancy basis: Wikipedia's plot summary of Alpha Flight #41. The wife is unnamed in that summary. Writer credit: Wikipedia's Alpha Flight article (Bill Mantlo wrote #29–66).",
+   "adult_basis": "adult woman forced into marriage",
+   "id": 151
   }
  ],
  "dropped": [
@@ -4942,6 +5077,18 @@
   {
    "title": "Amazon: Pregnant in Her Sleep, Taken in Her Sleep by the Doctor, The Brainwashed Wife (Pianin), I Can't Unsee It, Wife Under Control",
    "reason": "no hypnosis or mind control in the blurb"
+  },
+  {
+   "title": "Removed Oct 20, 2026: Housewife Hypnotized (Dewey45); Hypnotic Makeover: From Break Up to Stepford (zelonkarac); Shego Hypnotized to Be the Perfect Wife (Ailuffy89)",
+   "reason": "DeviantArt labels these posts 'Created using AI tools' (isAiGenerated=true); AI-generated works are excluded"
+  },
+  {
+   "title": "DeviantArt: HeroineArtAi, AIofDanann, AIFantasyFactory and 38 other matches",
+   "reason": "labelled 'Created using AI tools' on DeviantArt"
+  },
+  {
+   "title": "DeviantArt: Starfire & Raven Housemaid Sumos, Spaceship Escape, Giantess Entranced, Five Bad Managers, Hypno Housewife CD",
+   "reason": "an age is ambiguous, a minor is present, or the hypnotized person is male or feminized"
   }
  ]
 }
