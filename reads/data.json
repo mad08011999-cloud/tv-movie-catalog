@@ -4,7 +4,7 @@
   {
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 114
+   "entry_count": 116
   },
   {
    "key": "pregnant-variants",
@@ -24,7 +24,7 @@
   {
    "key": "scifi",
    "label": "Sci-fi / alien / technological control",
-   "entry_count": 39
+   "entry_count": 41
   },
   {
    "key": "fantasy",
@@ -34,7 +34,7 @@
   {
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
-   "entry_count": 27
+   "entry_count": 28
   },
   {
    "key": "other-control",
@@ -65,9 +65,9 @@
   "Erotic short-story series (self-published)": 6,
   "Manhua (webtoon)": 1,
   "Independent 3D web comic": 1,
-  "Independent web comic": 7,
+  "Independent web comic": 8,
   "Independent 3D comic (Koikatsu)": 1,
-  "Independent web comic (commission)": 1,
+  "Independent web comic (commission)": 2,
   "Fan comic (parody)": 13,
   "Fan comic": 1,
   "Fan manga (Pixiv)": 1,
@@ -4959,6 +4959,66 @@
    "note": "Pregnancy basis: Wikipedia's plot summary of Alpha Flight #41. The wife is unnamed in that summary. Writer credit: Wikipedia's Alpha Flight article (Bill Mantlo wrote #29–66).",
    "adult_basis": "adult woman forced into marriage",
    "id": 151
+  },
+  {
+   "title": "Boku no Tsuma ga Shachou Hisho ni… (My Wife Became the Company President's Secretary…)",
+   "original_title": "僕の妻が社長秘書に…",
+   "creator": "Burousa One (ブローサーワン; Pixiv)",
+   "year": 2025,
+   "format": "Independent web comic",
+   "language": "Japanese",
+   "publisher": "Pixiv (previews; full version on Fanbox/Fantia)",
+   "gist": "A man's wife becomes the company president's secretary and is brainwashed, modified and robotised into a villain-style henchwoman. Pixiv tags: brainwashing, villain corruption, netorare, robotization, married woman.",
+   "where": "Ongoing series; extra chapters incl. 'Christmas Present' (3 pp., 24 Dec 2025)",
+   "wife": "yes (title: 'my wife')",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "unknown",
+   "categories": [
+    "wife-hypnotized",
+    "scifi",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Pixiv: 'Christmas Present' extra",
+     "url": "https://www.pixiv.net/artworks/138983316"
+    }
+   ],
+   "loose_fit": false,
+   "note": "Pixiv marks this post as not AI-generated (aiType 1) and all-ages (xRestrict 0). The gist comes from the Pixiv tags. Only the preview is public; Fanbox and Fantia are paywalled and were not accessed.",
+   "adult_basis": "title: 妻 (wife)",
+   "scope": "Ongoing series; extra chapter 'Christmas Present' (3 pp., posted Dec 24, 2025 PT); the caption says extra ② is out",
+   "id": 152
+  },
+  {
+   "title": "Heroine's Mama Corrupted (Skeb commission)",
+   "original_title": "【Skeb】ヒロインのママ悪堕ち",
+   "creator": "Kitagawa Rin (北川凛; Pixiv)",
+   "year": 2021,
+   "format": "Independent web comic (commission)",
+   "language": "Japanese",
+   "publisher": "Pixiv / Skeb",
+   "gist": "The heroine's mother is turned to evil: brainwashed with a visor and modified, she ends up standing in the heroine's way (artist's caption).",
+   "where": "4 pp. (11 Aug 2021)",
+   "wife": "yes (Pixiv tag: 人妻, married woman)",
+   "pregnant_end": "unknown",
+   "kids_together": "unknown",
+   "kids_before": "yes (the heroine is her daughter)",
+   "categories": [
+    "wife-hypnotized",
+    "scifi"
+   ],
+   "sources": [
+    {
+     "label": "Pixiv",
+     "url": "https://www.pixiv.net/artworks/91898266"
+    }
+   ],
+   "loose_fit": false,
+   "note": "Posted in 2021, before Pixiv added AI labels (aiType 0). The gist comes from the Pixiv tags and the artist's caption. The post is all-ages on Pixiv (xRestrict 0).",
+   "adult_basis": "the heroine's mother; tagged 人妻 (married woman)",
+   "id": 153
   }
  ],
  "dropped": [
