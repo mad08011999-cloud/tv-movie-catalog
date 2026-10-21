@@ -4864,6 +4864,32 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "deep-oct20",
+   "label": "Deep round (20 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/deep-oct20.json",
+   "description": "Worldwide deep round, 20 Oct 2026 PT: wife and female hypnosis scenes, checks on earlier parked leads, YouTube metadata and captions. Adults only; notes are non-explicit.",
+   "dropped": [
+    "Langit untuk Renata (ANTV 2026): synopsis and cast pages (Wikipedia, Tribun) show no hypnosis; lead not verified",
+    "Doa Yang Terlindung (TV3 2026): synopses show a kidnapping/rape plot and fund fraud but no hypnosis; lead not verified",
+    "I Love You, Stupid (Viu/TV3 2023): no hypnosis in the synopsis or cast pages; lead not verified",
+    "Тайны следствия: the closest match is 'Чёрная магия' (season 7, witchcraft, no hypnosis of a wife); lead not verified",
+    "แผนรักแผนร้าย (2013): episode 5 is an amnesia plot; the 'สะกด' hit means 'spelling a word', not hypnosis; lead not verified",
+    "เนตรนาคิน (2018): already listed as 'Naet Nakin' (Inthira's hypnotic spell on Koi); the episode-8 Medusa possession of Pa Noi is a possession, not a new record",
+    "明月照我心: already listed as 'The Love by Hypnotic'",
+    "Nadin and MMK ep 517: the references could not be resolved to a title or episode",
+    "被催眠的她 (糖果罐剧场): already listed",
+    "噁毒渣男催眠妻子 (晚晴短劇, HDis1BQ8Eq0): the English captions belong to a different drama, so the content can't be verified",
+    "Basketball Wives 'Tami Gets Hypnotized' (VH1): reality TV with real people, excluded",
+    "The five unverified hardcore titles parked earlier: still no verifiable listing; left out"
+   ],
+   "check": {
+    "raw_count": 2,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -4927,10 +4953,11 @@
   "hypnosis-yt-oct15": 16,
   "youtube-india-oct15": 23,
   "deep-refresh-oct18": 97,
-  "weekly-oct19": 4
+  "weekly-oct19": 4,
+  "deep-oct20": 2
  },
- "raw_total": 6217,
- "entry_count": 3209,
+ "raw_total": 6219,
+ "entry_count": 3210,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -5062,7 +5089,7 @@
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 690
+   "entry_count": 692
   },
   {
    "key": "wife",
@@ -5464,7 +5491,7 @@
    "key": "wife-hypnotized",
    "label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
    "legend_label": "Wife hypnotized (by anyone — husband, therapist, villain, vampire, stranger)",
-   "entry_count": 125
+   "entry_count": 127
   },
   {
    "key": "therapist-wife",
@@ -400065,23 +400092,67 @@
   },
   {
    "id": 2334,
-   "title": "Cuidado con el Angel",
+   "title": "Cuidado con el Ángel",
    "subtitle": "",
-   "year": "",
-   "meta": "TV series · country unverified · Spanish",
-   "mechanism": "Traditional hypnosis (pendulum, watch, voice or gaze)",
+   "year": "2008",
+   "meta": "Telenovela · Mexico (Televisa, Las Estrellas 2008–09) · Spanish · Brazil: SBT 'Cuidado com o Anjo' (2022 rerun)",
+   "mechanism": "Hypnosis",
    "confidence_flag": "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed",
-   "summary": "Cuidado con el Angel is a Mexican television show based on the Venezuelan tv show called Una muchacha llamada milagros.",
-   "character": "",
-   "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
-   "note": "",
+   "summary": "Psychoanalyst João Miguel suspects his wife Viviana is faking amnesia. He tells Eduardo he will hypnotize her, then does so without her noticing. Under hypnosis she confesses she never lost her memory, faked her own death, and reveals everything she did while away; afterwards she denies all of it. In a later episode he puts the counsellor Branca under hypnosis therapy to investigate her past.",
+   "character": "Viviana (João Miguel's wife); Branca",
+   "provenance": "Deep round 20 Oct 2026 PT: worldwide sweep plus checks on earlier leads (web sources and YouTube metadata/captions; nothing downloaded)",
+   "note": "This was a parked lead ('Cuidado com o Anjo'), now verified. Chapter numbers use the Brazilian (SBT) rerun numbering.",
    "pregnancy_outcome": "unknown",
-   "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
+   "pregnancy_note": "Viviana is not pregnant; the pregnant character is Malú (by João Miguel).",
+   "episodes": [
+    {
+     "episode": "Cap. 59 (SBT, 20 Jun 2022)",
+     "gist": "João Miguel decides to hypnotize Viviana and begins."
+    },
+    {
+     "episode": "Cap. 62–63 (SBT, 25–26 Jun / 3 Aug 2022 synopsis)",
+     "gist": "Hypnotized Viviana confesses she never had amnesia and faked her death; she later denies it."
+    },
+    {
+     "episode": "SBT, 9 Sep 2022",
+     "gist": "João Miguel uses hypnosis therapy on Branca to explore her childhood (dissociative identity diagnosis)."
+    }
+   ],
+   "tags": [
+    "deep-oct20"
+   ],
+   "hypnotist": "João Miguel (her husband, a psychoanalyst)",
+   "gain_motive": [
+    "other (expose her lies / divorce)"
+   ],
+   "method": "Covert hypnosis to extract a confession",
+   "kids_status": "yes",
+   "kids_note": "Daughter Tininha with João Miguel.",
+   "kids_together": "yes",
+   "kids_together_note": "Daughter Tininha.",
+   "pregnant_end": "no",
+   "evidence": "2+ independent sources (Todo Canal, Novelas do Brasil, SBT)",
+   "already_married": "yes",
+   "already_married_note": "yes (João Miguel's wife)",
    "format": "tv",
    "categories": [
+    "wife-hypnotized",
+    "human",
     "other-control"
    ],
    "sources": [
+    {
+     "label": "Todo Canal: chapter synopsis (03/08/2022)",
+     "url": "https://portaln10.com.br/todocanal/novelas/novela-cuidado-com-o-anjo-resumo-do-capitulo-dia-03-08-2022/"
+    },
+    {
+     "label": "Novelas do Brasil: chapter summaries (Cap. 59, 62, 63)",
+     "url": "https://novelasdobrasil.com/cuidado-com-o-anjo-resumo/"
+    },
+    {
+     "label": "SBT: João Miguel puts Branca under hypnosis (09/09/2022)",
+     "url": "https://tv.sbt.com.br/programas/novelas/cuidado-com-o-anjo/noticia/222974-nesta-sexta-feira-09-joao-miguel-investiga-o-passado-de-branca"
+    },
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/Cuidado_con_el_Angel"
@@ -400089,16 +400160,115 @@
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "deep-oct20"
    ],
    "source_records": [
-    "worldwide-hypnosis:202"
+    "worldwide-hypnosis:202",
+    "deep-oct20:1"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "deep-oct20:1",
+    "source": "deep-oct20",
+    "label": "Cuidado con el Ángel (2008)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Cuidado con el Ángel",
+    "subtitle": "",
+    "year": "2008",
+    "meta": "Telenovela · Mexico (Televisa, Las Estrellas 2008–09) · Spanish · Brazil: SBT 'Cuidado com o Anjo' (2022 rerun)",
+    "summary": "Psychoanalyst João Miguel suspects his wife Viviana is faking amnesia. He tells Eduardo he will hypnotize her, then does so without her noticing. Under hypnosis she confesses she never lost her memory, faked her own death, and reveals everything she did while away; afterwards she denies all of it. In a later episode he puts the counsellor Branca under hypnosis therapy to investigate her past.",
+    "character": "Viviana (João Miguel's wife); Branca",
+    "note": "This was a parked lead ('Cuidado com o Anjo'), now verified. Chapter numbers use the Brazilian (SBT) rerun numbering.",
+    "mechanism": "Hypnosis",
+    "confidence_flag": "",
+    "categories": [
+     "wife-hypnotized",
+     "human"
+    ],
+    "sources": [
+     {
+      "label": "Todo Canal: chapter synopsis (03/08/2022)",
+      "url": "https://portaln10.com.br/todocanal/novelas/novela-cuidado-com-o-anjo-resumo-do-capitulo-dia-03-08-2022/"
+     },
+     {
+      "label": "Novelas do Brasil: chapter summaries (Cap. 59, 62, 63)",
+      "url": "https://novelasdobrasil.com/cuidado-com-o-anjo-resumo/"
+     },
+     {
+      "label": "SBT: João Miguel puts Branca under hypnosis (09/09/2022)",
+      "url": "https://tv.sbt.com.br/programas/novelas/cuidado-com-o-anjo/noticia/222974-nesta-sexta-feira-09-joao-miguel-investiga-o-passado-de-branca"
+     }
+    ],
+    "pregnancy_note": "Viviana is not pregnant; the pregnant character is Malú (by João Miguel).",
+    "episodes": [
+     {
+      "episode": "Cap. 59 (SBT, 20 Jun 2022)",
+      "gist": "João Miguel decides to hypnotize Viviana and begins."
+     },
+     {
+      "episode": "Cap. 62–63 (SBT, 25–26 Jun / 3 Aug 2022 synopsis)",
+      "gist": "Hypnotized Viviana confesses she never had amnesia and faked her death; she later denies it."
+     },
+     {
+      "episode": "SBT, 9 Sep 2022",
+      "gist": "João Miguel uses hypnosis therapy on Branca to explore her childhood (dissociative identity diagnosis)."
+     }
+    ],
+    "tags": [
+     "deep-oct20"
+    ],
+    "hypnotist": "João Miguel (her husband, a psychoanalyst)",
+    "gain_motive": [
+     "other (expose her lies / divorce)"
+    ],
+    "method": "Covert hypnosis to extract a confession",
+    "kids_status": "yes",
+    "kids_note": "Daughter Tininha with João Miguel.",
+    "kids_together": "yes",
+    "kids_together_note": "Daughter Tininha.",
+    "pregnant_end": "no",
+    "evidence": "2+ independent sources (Todo Canal, Novelas do Brasil, SBT)",
+    "already_married": "yes",
+    "already_married_note": "yes (João Miguel's wife)",
+    "distinct_story": false,
+    "matched_by": "match_title"
+   },
+   "merged_from": [
+    {
+     "rid": "worldwide-hypnosis:202",
+     "source": "worldwide-hypnosis",
+     "label": "Cuidado con el Angel",
+     "identifiers": [
+      "own title/qualifier"
+     ],
+     "title": "Cuidado con el Angel",
+     "subtitle": "",
+     "year": "",
+     "meta": "TV series · country unverified · Spanish",
+     "summary": "Cuidado con el Angel is a Mexican television show based on the Venezuelan tv show called Una muchacha llamada milagros.",
+     "character": "",
+     "note": "",
+     "mechanism": "Traditional hypnosis (pendulum, watch, voice or gaze)",
+     "confidence_flag": "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed",
+     "categories": [
+      "other-control"
+     ],
+     "sources": [
+      {
+       "label": "Mental Block wiki",
+       "url": "https://mentalblock.miraheze.org/wiki/Cuidado_con_el_Angel"
+      }
+     ],
+     "pregnancy_outcome": "unknown",
+     "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
+     "distinct_story": true
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:202": {
      "title": "Cuidado con el Angel",
@@ -400120,6 +400290,68 @@
      "pregnancy_outcome": "unknown",
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "deep-oct20:1": {
+     "title": "Cuidado con el Ángel",
+     "match_title": "Cuidado con el Angel",
+     "match_year": "",
+     "year": "2008",
+     "format": "tv",
+     "meta": "Telenovela · Mexico (Televisa, Las Estrellas 2008–09) · Spanish · Brazil: SBT 'Cuidado com o Anjo' (2022 rerun)",
+     "character": "Viviana (João Miguel's wife); Branca",
+     "summary": "Psychoanalyst João Miguel suspects his wife Viviana is faking amnesia. He tells Eduardo he will hypnotize her, then does so without her noticing. Under hypnosis she confesses she never lost her memory, faked her own death, and reveals everything she did while away; afterwards she denies all of it. In a later episode he puts the counsellor Branca under hypnosis therapy to investigate her past.",
+     "hypnotist": "João Miguel (her husband, a psychoanalyst)",
+     "method": "Covert hypnosis to extract a confession",
+     "mechanism": "Hypnosis",
+     "gain_motive": [
+      "other (expose her lies / divorce)"
+     ],
+     "categories": [
+      "wife-hypnotized",
+      "human"
+     ],
+     "tags": [
+      "deep-oct20"
+     ],
+     "already_married": "yes",
+     "already_married_note": "yes (João Miguel's wife)",
+     "pregnant_end": "no",
+     "pregnancy_note": "Viviana is not pregnant; the pregnant character is Malú (by João Miguel).",
+     "kids_status": "yes",
+     "kids_note": "Daughter Tininha with João Miguel.",
+     "kids_together": "yes",
+     "kids_together_note": "Daughter Tininha.",
+     "episodes": [
+      {
+       "episode": "Cap. 59 (SBT, 20 Jun 2022)",
+       "gist": "João Miguel decides to hypnotize Viviana and begins."
+      },
+      {
+       "episode": "Cap. 62–63 (SBT, 25–26 Jun / 3 Aug 2022 synopsis)",
+       "gist": "Hypnotized Viviana confesses she never had amnesia and faked her death; she later denies it."
+      },
+      {
+       "episode": "SBT, 9 Sep 2022",
+       "gist": "João Miguel uses hypnosis therapy on Branca to explore her childhood (dissociative identity diagnosis)."
+      }
+     ],
+     "sources": [
+      {
+       "label": "Todo Canal: chapter synopsis (03/08/2022)",
+       "url": "https://portaln10.com.br/todocanal/novelas/novela-cuidado-com-o-anjo-resumo-do-capitulo-dia-03-08-2022/"
+      },
+      {
+       "label": "Novelas do Brasil: chapter summaries (Cap. 59, 62, 63)",
+       "url": "https://novelasdobrasil.com/cuidado-com-o-anjo-resumo/"
+      },
+      {
+       "label": "SBT: João Miguel puts Branca under hypnosis (09/09/2022)",
+       "url": "https://tv.sbt.com.br/programas/novelas/cuidado-com-o-anjo/noticia/222974-nesta-sexta-feira-09-joao-miguel-investiga-o-passado-de-branca"
+      }
+     ],
+     "evidence": "2+ independent sources (Todo Canal, Novelas do Brasil, SBT)",
+     "provenance": "Deep round 20 Oct 2026 PT: worldwide sweep plus checks on earlier leads (web sources and YouTube metadata/captions; nothing downloaded)",
+     "note": "This was a parked lead ('Cuidado com o Anjo'), now verified. Chapter numbers use the Brazilian (SBT) rerun numbering."
     }
    }
   },
@@ -478624,6 +478856,132 @@
      "standalone": true
     }
    }
+  },
+  {
+   "id": 3348,
+   "title": "Wife Was Hypnotized By Husband, Became Slave To Mistress, But He Didn't Know That She Was Pretending!",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "Short drama (full compilation) · China (English dub/subtitles) · YouTube: Sweet Hearth Drama · uploaded 13 Aug 2025 · runtime about 65 min",
+   "mechanism": "Hypnosis",
+   "confidence_flag": "loose fit",
+   "summary": "A husband and his mistress, whom he passes off as his 'cousin', try to hypnotize his wealthy wife ('Look into my eyes… you're feeling very sleepy'), make her kneel and sign papers, and keep her as their servant. The hypnosis has stopped working, and she pretends to be under while gathering proof. The mistress turns up pregnant with the husband's child. The wife records his confession that he cut the brakes that killed her parents and takes him down at the shareholders' meeting.",
+   "character": "The wife ('Miss Pei', addressed as 'Judge'); her husband; his 'cousin' (the mistress)",
+   "provenance": "Deep round 20 Oct 2026 PT: worldwide sweep plus checks on earlier leads (web sources and YouTube metadata/captions; nothing downloaded)",
+   "note": "Loose fit: the hypnosis fails and she only pretends to be under. Details come from captions; the drama's original title isn't given.",
+   "episodes": [
+    {
+     "episode": "Full compilation, 00:00–00:03",
+     "gist": "Failed induction: 'How could the hypnosis fail?'"
+    },
+    {
+     "episode": "00:08–00:10",
+     "gist": "The mistress's pregnancy is revealed."
+    },
+    {
+     "episode": "00:53–00:56",
+     "gist": "Confession about her parents' brake-failure deaths."
+    }
+   ],
+   "tags": [
+    "deep-oct20",
+    "loose fit"
+   ],
+   "hypnotist": "Her husband (with his mistress)",
+   "gain_motive": [
+    "money",
+    "inheritance"
+   ],
+   "method": "Hypnotic induction (eye fixation / sleep suggestion)",
+   "kids_status": "no",
+   "kids_together": "no",
+   "pregnant_end": "no",
+   "pregnant_end_note": "The mistress, not the wife, is pregnant ('I still have your child in my belly').",
+   "evidence": "single source — channel upload title plus English auto-captions (timestamps)",
+   "adult": "yes (channel marks it as adult content)",
+   "already_married": "yes",
+   "already_married_note": "yes (the hypnotist's wife)",
+   "format": "vertical series",
+   "categories": [
+    "wife-hypnotized",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "YouTube (Sweet Hearth Drama): full drama",
+     "url": "https://www.youtube.com/watch?v=bTB-6r25INQ"
+    }
+   ],
+   "youtube_ids": [
+    "bTB-6r25INQ"
+   ],
+   "from_sources": [
+    "deep-oct20"
+   ],
+   "source_records": [
+    "deep-oct20:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/bTB-6r25INQ.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "deep-oct20:2": {
+     "title": "Wife Was Hypnotized By Husband, Became Slave To Mistress, But He Didn't Know That She Was Pretending!",
+     "year": "2025",
+     "format": "vertical series",
+     "meta": "Short drama (full compilation) · China (English dub/subtitles) · YouTube: Sweet Hearth Drama · uploaded 13 Aug 2025 · runtime about 65 min",
+     "character": "The wife ('Miss Pei', addressed as 'Judge'); her husband; his 'cousin' (the mistress)",
+     "summary": "A husband and his mistress, whom he passes off as his 'cousin', try to hypnotize his wealthy wife ('Look into my eyes… you're feeling very sleepy'), make her kneel and sign papers, and keep her as their servant. The hypnosis has stopped working, and she pretends to be under while gathering proof. The mistress turns up pregnant with the husband's child. The wife records his confession that he cut the brakes that killed her parents and takes him down at the shareholders' meeting.",
+     "hypnotist": "Her husband (with his mistress)",
+     "method": "Hypnotic induction (eye fixation / sleep suggestion)",
+     "mechanism": "Hypnosis",
+     "gain_motive": [
+      "money",
+      "inheritance"
+     ],
+     "categories": [
+      "wife-hypnotized",
+      "human"
+     ],
+     "tags": [
+      "deep-oct20",
+      "loose fit"
+     ],
+     "already_married": "yes",
+     "already_married_note": "yes (the hypnotist's wife)",
+     "pregnant_end": "no",
+     "pregnant_end_note": "The mistress, not the wife, is pregnant ('I still have your child in my belly').",
+     "kids_status": "no",
+     "kids_together": "no",
+     "episodes": [
+      {
+       "episode": "Full compilation, 00:00–00:03",
+       "gist": "Failed induction: 'How could the hypnosis fail?'"
+      },
+      {
+       "episode": "00:08–00:10",
+       "gist": "The mistress's pregnancy is revealed."
+      },
+      {
+       "episode": "00:53–00:56",
+       "gist": "Confession about her parents' brake-failure deaths."
+      }
+     ],
+     "sources": [
+      {
+       "label": "YouTube (Sweet Hearth Drama): full drama",
+       "url": "https://www.youtube.com/watch?v=bTB-6r25INQ"
+      }
+     ],
+     "evidence": "single source — channel upload title plus English auto-captions (timestamps)",
+     "confidence_flag": "loose fit",
+     "adult": "yes (channel marks it as adult content)",
+     "provenance": "Deep round 20 Oct 2026 PT: worldwide sweep plus checks on earlier leads (web sources and YouTube metadata/captions; nothing downloaded)",
+     "note": "Loose fit: the hypnosis fails and she only pretends to be under. Details come from captions; the drama's original title isn't given."
+    }
+   }
   }
  ],
  "sections": [
@@ -491077,7 +491435,8 @@
     "youtube-deep-oct15",
     "hypnosis-yt-oct15",
     "youtube-india-oct15",
-    "weekly-oct19"
+    "weekly-oct19",
+    "deep-oct20"
    ],
    "groups": [
     {
@@ -495403,6 +495762,21 @@
       }
      ],
      "from_source": "weekly-oct19"
+    },
+    {
+     "title": "Deep round — 20 Oct 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 2334,
+       "from_source": "deep-oct20"
+      },
+      {
+       "id": 3348,
+       "from_source": "deep-oct20"
+      }
+     ],
+     "from_source": "deep-oct20"
     }
    ],
    "declared_count_by_source": {
@@ -495434,7 +495808,8 @@
     "youtube-deep-oct15": null,
     "hypnosis-yt-oct15": null,
     "youtube-india-oct15": null,
-    "weekly-oct19": null
+    "weekly-oct19": null,
+    "deep-oct20": null
    }
   },
   {
@@ -529212,7 +529587,8 @@
     "youtube-deep-oct15",
     "hypnosis-yt-oct15",
     "youtube-india-oct15",
-    "deep-refresh-oct18"
+    "deep-refresh-oct18",
+    "deep-oct20"
    ],
    "declared_count_by_source": {
     "wife-hypnosis-oct15": null,
@@ -529221,7 +529597,8 @@
     "youtube-deep-oct15": null,
     "hypnosis-yt-oct15": null,
     "youtube-india-oct15": null,
-    "deep-refresh-oct18": null
+    "deep-refresh-oct18": null,
+    "deep-oct20": null
    },
    "groups": [
     {
@@ -529772,6 +530149,21 @@
       }
      ],
      "from_source": "deep-refresh-oct18"
+    },
+    {
+     "title": "Deep round — 20 Oct 2026",
+     "notes": [],
+     "items": [
+      {
+       "id": 2334,
+       "from_source": "deep-oct20"
+      },
+      {
+       "id": 3348,
+       "from_source": "deep-oct20"
+      }
+     ],
+     "from_source": "deep-oct20"
     }
    ]
   },

@@ -44743,6 +44743,26 @@
    ]
   },
   {
+   "kept_id": 2334,
+   "kept": "Cuidado con el Ángel (2008)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "worldwide-hypnosis:202",
+     "title": "Cuidado con el Angel",
+     "subtitle": "",
+     "year": ""
+    },
+    {
+     "rid": "deep-oct20:1",
+     "title": "Cuidado con el Ángel",
+     "subtitle": "",
+     "year": "2008",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 2336,
    "kept": "Curse Of Evil (1982)",
    "scope": "cross-source",
@@ -46845,11 +46865,12 @@
   "hypnosis-yt-oct15": 16,
   "youtube-india-oct15": 23,
   "deep-refresh-oct18": 97,
-  "weekly-oct19": 4
+  "weekly-oct19": 4,
+  "deep-oct20": 2
  },
- "entry_count_after_dedupe": 3209,
+ "entry_count_after_dedupe": 3210,
  "within_source_groups": 6,
- "cross_source_groups": 1908,
+ "cross_source_groups": 1909,
  "index_only_records": 59,
- "local_only_records": 910
+ "local_only_records": 911
 }

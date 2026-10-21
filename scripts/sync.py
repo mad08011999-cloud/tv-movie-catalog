@@ -164,6 +164,8 @@ SOURCES = [
      "local": "sources/deep-refresh-oct18.json", "required": False},
     {"id": "weekly-oct19", "label": "Weekly sweep (19 Oct 2026)",
      "local": "sources/weekly-oct19.json", "required": False},
+    {"id": "deep-oct20", "label": "Deep round (20 Oct 2026)",
+     "local": "sources/deep-oct20.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
