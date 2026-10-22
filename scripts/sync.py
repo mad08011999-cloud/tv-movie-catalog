@@ -305,14 +305,19 @@ async def capture(page, src):
     handler = lambda r: pending.append(asyncio.ensure_future(grab(r)))
     page.on("response", handler)
     try:
-        await page.goto(src["url"], wait_until="networkidle", timeout=90000)
+        if not src.get("_snapshot"):
+            await page.goto(src["url"], wait_until="networkidle", timeout=90000)
         frame = None
-        for _ in range(60):
+        for _ in range(0 if src.get("_snapshot") else 60):
             frame = next((f for f in page.frames if CONTENT_HOST in f.url), None)
             if frame:
                 break
             await page.wait_for_timeout(500)
-        if not frame and "return_to=" in page.url:
+        unshared = not frame and ("return_to=" in page.url
+                                  or "no longer shared" in (await page.content()))
+        if not frame and (src.get("_snapshot") or unshared):
+            # 20 Oct 2026: shares 307 to login; 22 Oct: "This page is no longer shared". Also used for any
+            # live failure (main() retries with src["_snapshot"]): serve the committed original/<id>/ copy.
             # Since ~19-20 Oct 2026 muse.ai 307-redirects share links to its login page and the content
             # host answers 503, so there is no live catalog to read. Serve the catalog's own committed
             # snapshot (original/<id>/index.html + assets/*.js) for content-host requests instead, so the
@@ -320,7 +325,7 @@ async def capture(page, src):
             snap = os.path.join(os.path.dirname(HERE), "original", src["id"])
             if not os.path.isfile(os.path.join(snap, "index.html")):
                 raise RuntimeError(f"share link redirects to login ({page.url!r}) and no snapshot in {snap}")
-            log("WARNING", src["id"], "share link redirects to muse.ai login; using committed snapshot", snap)
+            log("WARNING", src["id"], "muse.ai share unavailable (login redirect / unshared / live failure); using committed snapshot", snap)
             async def from_snapshot(route):
                 path = route.request.url.split("?")[0].split(CONTENT_HOST, 1)[1].split("/", 1)
                 rel = (path[1] if len(path) > 1 else "") or "index.html"
@@ -1395,6 +1400,23 @@ def main():
             if result is not None:
                 break
             log(f"{src['id']}: attempt {attempt} failed: {cap['error']}")
+        snap_dir = os.path.join(os.path.dirname(HERE), "original", src["id"])
+        if result is None and os.path.isfile(os.path.join(snap_dir, "index.html")):
+            # any live failure (timeout, unshared, changed page): rebuild from the committed snapshot
+            log("WARNING", src["id"], "live extraction failed:", cap["error"], "- using committed snapshot")
+            cap = asyncio.run(capture_sources([dict(src, _snapshot=True)]))[src["id"]]
+            if "error" not in cap:
+                try:
+                    if cap["kind"] == "full":
+                        result = parse_full(src, cap["payload"]); label_to_key = result["label_to_key"]
+                    else:
+                        result = parse_index(src, cap["payload"], label_to_key or {})
+                    if not result["check"]["ok"]:
+                        cap = {"error": f"snapshot completeness check failed: {result['check']}"}; result = None
+                except Exception as exc:
+                    cap = {"error": f"snapshot parse failed: {type(exc).__name__}: {exc}"}; result = None
+            if result is not None:
+                problems.append(f"{src['id']}: live share unavailable; built from committed snapshot")
         if result is None:
             msg = f"{src['id']}: {cap['error']}"
             if src["required"]:
