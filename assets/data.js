@@ -5443,6 +5443,125 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "hypno-kids-witness-oct25",
+   "label": "Female hypnotized with children present, any video media + YouTube (Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/hypno-kids-witness-oct25.json",
+   "description": "Screen and online-video works worldwide where an adult woman (mother) is hypnotized, mesmerized or put in a hypnotic trance (including hypnotic devices) while her child or children are present. Each record names the hypnotist, why and how, the children and their reaction, her pregnancy status, episodes for series, and for YouTube the channel, URL and upload date with the evidence. Possession and black magic excluded; adults only; nothing where children witness sexual content.",
+   "dropped": [
+    {
+     "title": "Up, Up and Away (Disney Channel, Mentok 'Mom gets hypnotized' clip IhwXLHlBzIU)",
+     "year": "2000",
+     "reason": "already dropped in the Sep pass: the hypnotized mother is not the hero's and child presence is unverified (clip download was blocked, so frames could not be checked)"
+    },
+    {
+     "title": "The Jimmy Timmy Power Hour / Fairly OddParents crossover (Judy 'Mighty Mom')",
+     "year": "2004",
+     "reason": "child (Jimmy) not present when Timmy hypnotizes Judy (already dropped in the Sep pass)"
+    },
+    {
+     "title": "Fatih di Kampung Jawara (S1E5)",
+     "year": "2018",
+     "reason": "child witness still not established (already dropped in the Sep pass)"
+    },
+    {
+     "title": "Caso Cerrado: 'A mi mamá la hipnotizaron y se volvió lesbiana' (LKXPMmpQFnI)",
+     "year": "2026",
+     "reason": "court-show case about past hypnosis; no hypnosis scene or child presence shown"
+    },
+    {
+     "title": "Mama Dodo Korban Hipnotis (Momon, MNC Amazing Junior, yAxRsgmMDKM)",
+     "year": "2026",
+     "reason": "child's presence at the hypnosis not established from title/description"
+    },
+    {
+     "title": "Hipnotis anak dan ibu jadi joget (Andika Jerman, TsVR09QgYn0)",
+     "year": "2022",
+     "reason": "relationship of 'anak dan ibu' (child and mother) not established; may be unrelated volunteers"
+    },
+    {
+     "title": "HIPNOSE: A mãe que esquece o filho (Capota Hipnose, C-dxAV7e9yo)",
+     "year": "2016",
+     "reason": "no description; whether the son is present is unknown"
+    },
+    {
+     "title": "Family 'pretend hypnosis' vlogs (Fav5ive, Yaya/Panton, 'Kids hypnotize mommy' etc.)",
+     "year": "",
+     "reason": "unscripted pretend-play with no declared script/acting; not a depicted hypnosis scene"
+    },
+    {
+     "title": "Mother Hypnotizes Self (Mentok ad clip zcK8IftEhwc)",
+     "year": "",
+     "reason": "self-hypnosis in an advert; no child present"
+    },
+    {
+     "title": "Hypnosis-themed hypnobirthing, self-help and ASMR videos",
+     "year": "",
+     "reason": "therapeutic/self-help content, not a depicted scene with her child present"
+    },
+    {
+     "title": "The Slumber Party (2023 Disney Channel film)",
+     "year": "2023",
+     "reason": "kids' sleepover hypnosis; no hypnotized mother with child present found"
+    },
+    {
+     "title": "Phineas and Ferb 'A Real Boy'",
+     "year": "",
+     "reason": "Candace (a teen) is the hypnotized one, not a mother"
+    },
+    {
+     "title": "King of the Hill 'King of the Ant Hill'",
+     "year": "",
+     "reason": "Bobby (male child) is hypnotized, not Peggy"
+    },
+    {
+     "title": "Rugrats 'King Ten Pin'",
+     "year": "",
+     "reason": "the babysitter (not a mother) hypnotizes the children and then herself"
+    },
+    {
+     "title": "Recess 'The Hypnotist'",
+     "year": "",
+     "reason": "children, not a mother, are hypnotized"
+    },
+    {
+     "title": "Kim Possible 'Mother's Day'",
+     "year": "",
+     "reason": "no one is hypnotized"
+    },
+    {
+     "title": "Hypnotic (2021 film)",
+     "year": "2021",
+     "reason": "adult woman hypnotized by her therapist but no child in the scenes (stillbirth backstory)"
+    },
+    {
+     "title": "Spirit/demonic possession titles surfaced by the searches",
+     "year": "",
+     "reason": "possession excluded by rule"
+    },
+    {
+     "title": "Home Hypnotism (Tracey Ullman short), Love Boat 'Trances of a Lifetime', Hairspray, Anguish",
+     "year": "",
+     "reason": "reverse case (child or male hypnotized) or not a mother"
+    },
+    {
+     "title": "The Meanager mind-control ray",
+     "year": "",
+     "reason": "not strictly hypnosis"
+    },
+    {
+     "title": "The Real Family 'Hypnotized his whole family for 24 hours' (Xsa-IjrAo98)",
+     "year": "2024",
+     "reason": "title does not specify that the mother is hypnotized; acted skit"
+    }
+   ],
+   "check": {
+    "raw_count": 14,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -5516,10 +5635,11 @@ window.CATALOG = {
   "hypno-pregnant-yt-oct25": 7,
   "pregnant-intimate-oct25": 28,
   "pregnant-scenes-oct25": 9,
-  "hypnosis-deep-oct25c": 18
+  "hypnosis-deep-oct25c": 18,
+  "hypno-kids-witness-oct25": 14
  },
- "raw_total": 6577,
- "entry_count": 3480,
+ "raw_total": 6591,
+ "entry_count": 3493,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -5591,19 +5711,19 @@ window.CATALOG = {
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 94
+   "entry_count": 96
   },
   {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 287
+   "entry_count": 290
   },
   {
    "key": "child-controller",
    "label": "Female character controlled by a child / teen",
    "legend_label": "Female character controlled by a child / teen",
-   "entry_count": 77
+   "entry_count": 80
   },
   {
    "key": "partner-control",
@@ -5651,7 +5771,7 @@ window.CATALOG = {
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 694
+   "entry_count": 696
   },
   {
    "key": "wife",
@@ -5687,7 +5807,7 @@ window.CATALOG = {
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 185
+   "entry_count": 186
   },
   {
    "key": "royal-hypnosis",
@@ -5699,7 +5819,7 @@ window.CATALOG = {
    "key": "love",
    "label": "Hypnotized to love",
    "legend_label": "Hypnotized to love",
-   "entry_count": 231
+   "entry_count": 232
   },
   {
    "key": "hypno-intimacy",
@@ -5729,7 +5849,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 223
+   "entry_count": 225
   },
   {
    "key": "mom-partner-control",
@@ -5741,7 +5861,7 @@ window.CATALOG = {
    "key": "mother",
    "label": "Mother with child hypnotized / mind-controlled",
    "legend_label": "Mother with child hypnotized / mind-controlled",
-   "entry_count": 90
+   "entry_count": 104
   },
   {
    "key": "mom-pregnancy",
@@ -461694,11 +461814,13 @@ window.CATALOG = {
    "year": "2013",
    "meta": "UK/Ireland · English · BBC One sitcom",
    "mechanism": "",
-   "confidence_flag": "",
+   "confidence_flag": "Medium · existing catalog record + BBC/BCG episode pages",
    "summary": "Scene: S3E1 \"Mammy's Spell\". At the christening party for Dermot and Maria's triplets a stage hypnotist (Derek Mooney) puts widowed Agnes Brown and Winnie under; afterwards Agnes acts like an Alsatian dog at the word 'triplets' and a stripper at the word 'baptism'. Hypnotist: hired stage hypnotist. Wife: no (widow).",
    "character": "Agnes Brown (Brendan O'Carroll); also Winnie McGoogan",
    "provenance": "Female/wife scenes sweep, 15 Oct 2026 PT",
    "note": "",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "No pregnancy mentioned in the episode summaries (Agnes is an older widow and grandmother).",
    "episodes": [
     {
      "episode": "S3E1",
@@ -461707,18 +461829,22 @@ window.CATALOG = {
      "gist": "Stage hypnotist leaves Agnes with trigger words"
     }
    ],
+   "hypnotist": "a hired stage hypnotist (named in the existing summary)",
+   "method": "stage hypnosis with trigger words ('triplets', 'baptism')",
    "kids_status": "yes",
    "kids_note": "Grown children (Mark, Dermot, Cathy, Rory and others) from her late husband",
    "kids_together": "no",
    "pregnant_end": "no",
    "evidence": "BBC, British Comedy Guide, fandom wiki + official BritBox clip",
    "fit_note": "Comedy; female character played by a man",
+   "child_witness": "her grown children and family are guests at the triplets' christening party (her son Dermot's babies) where she is hypnotized (existing summary; the children are adults)",
    "already_married": "no",
    "already_married_note": "Widow",
    "format": "tv",
    "categories": [
     "widow-divorcee",
-    "index-62"
+    "index-62",
+    "mother"
    ],
    "sources": [
     {
@@ -461738,16 +461864,103 @@ window.CATALOG = {
     "MxwDGAWEQSk"
    ],
    "from_sources": [
-    "female-wife-scenes-oct15"
+    "female-wife-scenes-oct15",
+    "hypno-kids-witness-oct25"
    ],
    "source_records": [
-    "female-wife-scenes-oct15:3"
+    "female-wife-scenes-oct15:3",
+    "hypno-kids-witness-oct25:14"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": "thumbs/MxwDGAWEQSk.jpg",
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "female-wife-scenes-oct15:3",
+    "source": "female-wife-scenes-oct15",
+    "label": "Mrs Brown's Boys · S3E1 \"Mammy's Spell\" (aired 1 Jan 2013) (2013)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Mrs Brown's Boys",
+    "subtitle": "S3E1 \"Mammy's Spell\" (aired 1 Jan 2013)",
+    "year": "2013",
+    "meta": "UK/Ireland · English · BBC One sitcom",
+    "summary": "Scene: S3E1 \"Mammy's Spell\". At the christening party for Dermot and Maria's triplets a stage hypnotist (Derek Mooney) puts widowed Agnes Brown and Winnie under; afterwards Agnes acts like an Alsatian dog at the word 'triplets' and a stripper at the word 'baptism'. Hypnotist: hired stage hypnotist. Wife: no (widow).",
+    "character": "Agnes Brown (Brendan O'Carroll); also Winnie McGoogan",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "",
+    "categories": [
+     "widow-divorcee",
+     "index-62"
+    ],
+    "sources": [
+     {
+      "label": "BritBox clip: Agnes Gets Hypnotized",
+      "url": "https://www.youtube.com/watch?v=MxwDGAWEQSk"
+     },
+     {
+      "label": "BBC programmes: Mammy's Spell",
+      "url": "https://www.bbc.co.uk/programmes/b01ppy1h"
+     },
+     {
+      "label": "British Comedy Guide: Mammy's Spell",
+      "url": "https://www.comedy.co.uk/tv/mrs_browns_boys/episodes/3/1/"
+     }
+    ],
+    "episodes": [
+     {
+      "episode": "S3E1",
+      "title": "Mammy's Spell",
+      "air_date": "2013-01-01",
+      "gist": "Stage hypnotist leaves Agnes with trigger words"
+     }
+    ],
+    "kids_status": "yes",
+    "kids_note": "Grown children (Mark, Dermot, Cathy, Rory and others) from her late husband",
+    "kids_together": "no",
+    "pregnant_end": "no",
+    "evidence": "BBC, British Comedy Guide, fandom wiki + official BritBox clip",
+    "fit_note": "Comedy; female character played by a man",
+    "already_married": "no",
+    "already_married_note": "Widow",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypno-kids-witness-oct25:14",
+     "source": "hypno-kids-witness-oct25",
+     "label": "Mrs Brown's Boys",
+     "identifiers": [],
+     "title": "Mrs Brown's Boys",
+     "subtitle": "",
+     "year": "",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "Adult children only; add to the 'mother' category as a grown-children case.",
+     "mechanism": "",
+     "confidence_flag": "Medium · existing catalog record + BBC/BCG episode pages",
+     "categories": [
+      "mother"
+     ],
+     "sources": [
+      {
+       "label": "BBC programmes: Mammy's Spell (S3E1)",
+       "url": "https://www.bbc.co.uk/programmes/b01ppy1h"
+      }
+     ],
+     "pregnancy_outcome": "not stated",
+     "pregnancy_note": "No pregnancy mentioned in the episode summaries (Agnes is an older widow and grandmother).",
+     "hypnotist": "a hired stage hypnotist (named in the existing summary)",
+     "method": "stage hypnosis with trigger words ('triplets', 'baptism')",
+     "fit_note": "Merge-only: adds the mother-with-grown-children angle; the children are adults (not young kids).",
+     "child_witness": "her grown children and family are guests at the triplets' christening party (her son Dermot's babies) where she is hypnotized (existing summary; the children are adults)",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "female-wife-scenes-oct15:3": {
      "title": "Mrs Brown's Boys",
@@ -461794,6 +462007,29 @@ window.CATALOG = {
      "standalone": true,
      "provenance": "Female/wife scenes sweep, 15 Oct 2026 PT",
      "group": "Female / wife hypnosis scenes (Oct 2026)"
+    },
+    "hypno-kids-witness-oct25:14": {
+     "title": "Mrs Brown's Boys",
+     "match_title": "Mrs Brown's Boys",
+     "match_year": "2013",
+     "categories": [
+      "mother"
+     ],
+     "hypnotist": "a hired stage hypnotist (named in the existing summary)",
+     "method": "stage hypnosis with trigger words ('triplets', 'baptism')",
+     "child_witness": "her grown children and family are guests at the triplets' christening party (her son Dermot's babies) where she is hypnotized (existing summary; the children are adults)",
+     "pregnancy_outcome": "not stated",
+     "pregnancy_note": "No pregnancy mentioned in the episode summaries (Agnes is an older widow and grandmother).",
+     "sources": [
+      {
+       "label": "BBC programmes: Mammy's Spell (S3E1)",
+       "url": "https://www.bbc.co.uk/programmes/b01ppy1h"
+      }
+     ],
+     "confidence_flag": "Medium · existing catalog record + BBC/BCG episode pages",
+     "note": "Adult children only; add to the 'mother' category as a grown-children case.",
+     "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+     "fit_note": "Merge-only: adds the mother-with-grown-children angle; the children are adults (not young kids)."
     }
    }
   },
@@ -508312,6 +508548,1184 @@ window.CATALOG = {
      "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT"
     }
    }
+  },
+  {
+   "id": 3620,
+   "title": "Spider-Man (1981) — “The Pied Piper of New York Town”",
+   "subtitle": "",
+   "year": "1981",
+   "meta": "Animated TV series · USA · Marvel Productions, first-run syndication · S1E7",
+   "mechanism": "",
+   "confidence_flag": "Medium · plot summary + screenshot caption (the scene is a few seconds in a crowd; no dialogue evidence)",
+   "summary": "Mysterio broadcasts subliminal hypnotic music from his van and a disco; pedestrians fall under his control and are ordered to attack Spider-Man. A mother and her young son are among the hypnotized crowd on the street. Hypnotist: Mysterio. Why: to destroy Spider-Man, then to loot and take over a missile base. Method: hypnotic / subliminal music played through speakers. Children who see it: her son is hypnotized beside her (a screenshot caption on the Mental Block wiki reads “A mother and her son are hypnotized by Mysterio's music”); no individual reaction is described. Kids: yes (1 son, age not stated). Pregnancy: not stated.",
+   "character": "An unnamed mother (a pedestrian) hypnotized together with her son",
+   "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+   "note": "",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "No pregnancy mentioned or shown.",
+   "episodes": [
+    {
+     "episode": "S1E7 “The Pied Piper of New York Town”",
+     "air_date": "",
+     "gist": "Mysterio hypnotizes the disco crowd and street pedestrians (a mother and son among them) with music, then the ESU campus, J. Jonah Jameson and finally a missile base; Spider-Man jams the speakers and frees everyone.",
+     "number_verified": true
+    }
+   ],
+   "hypnotist": "Mysterio",
+   "gain_motive": [
+    "to destroy Spider-Man",
+    "robbery and seizing a nuclear missile base"
+   ],
+   "method": "hypnotic music over speakers (subliminal mind-control signal)",
+   "kids_status": "yes",
+   "kids_note": "1: her son (age not stated; shown hypnotized beside her)",
+   "evidence": "Mental Block wiki episode summary and screenshot caption “A mother and her son are hypnotized by Mysterio's music”",
+   "fit_note": "Animated TV episode; the mother-and-son hypnosis is a brief crowd shot (evidence: Mental Block caption), so review the fit.",
+   "child_witness": "the son stands hypnotized next to his mother in the street crowd (screenshot caption); the child is himself entranced, not a bystander",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "mother",
+    "human",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "Mental Block wiki: Spider-man (1981)",
+     "url": "https://mentalblock.miraheze.org/wiki/Spider-man_(1981)"
+    },
+    {
+     "label": "Wikipedia: Spider-Man (1981 TV series)",
+     "url": "https://en.wikipedia.org/wiki/Spider-Man_(1981_TV_series)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypno-kids-witness-oct25"
+   ],
+   "source_records": [
+    "hypno-kids-witness-oct25:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-kids-witness-oct25:1": {
+     "title": "Spider-Man (1981) — “The Pied Piper of New York Town”",
+     "year": "1981",
+     "format": "tv",
+     "meta": "Animated TV series · USA · Marvel Productions, first-run syndication · S1E7",
+     "character": "An unnamed mother (a pedestrian) hypnotized together with her son",
+     "summary": "Mysterio broadcasts subliminal hypnotic music from his van and a disco; pedestrians fall under his control and are ordered to attack Spider-Man. A mother and her young son are among the hypnotized crowd on the street. Hypnotist: Mysterio. Why: to destroy Spider-Man, then to loot and take over a missile base. Method: hypnotic / subliminal music played through speakers. Children who see it: her son is hypnotized beside her (a screenshot caption on the Mental Block wiki reads “A mother and her son are hypnotized by Mysterio's music”); no individual reaction is described. Kids: yes (1 son, age not stated). Pregnancy: not stated.",
+     "hypnotist": "Mysterio",
+     "gain_motive": [
+      "to destroy Spider-Man",
+      "robbery and seizing a nuclear missile base"
+     ],
+     "method": "hypnotic music over speakers (subliminal mind-control signal)",
+     "categories": [
+      "mother",
+      "human",
+      "tech"
+     ],
+     "episodes": [
+      {
+       "episode": "S1E7 “The Pied Piper of New York Town”",
+       "air_date": "",
+       "gist": "Mysterio hypnotizes the disco crowd and street pedestrians (a mother and son among them) with music, then the ESU campus, J. Jonah Jameson and finally a missile base; Spider-Man jams the speakers and frees everyone.",
+       "number_verified": true
+      }
+     ],
+     "kids_status": "yes",
+     "kids_note": "1: her son (age not stated; shown hypnotized beside her)",
+     "child_witness": "the son stands hypnotized next to his mother in the street crowd (screenshot caption); the child is himself entranced, not a bystander",
+     "pregnancy_outcome": "not stated",
+     "pregnancy_note": "No pregnancy mentioned or shown.",
+     "sources": [
+      {
+       "label": "Mental Block wiki: Spider-man (1981)",
+       "url": "https://mentalblock.miraheze.org/wiki/Spider-man_(1981)"
+      },
+      {
+       "label": "Wikipedia: Spider-Man (1981 TV series)",
+       "url": "https://en.wikipedia.org/wiki/Spider-Man_(1981_TV_series)"
+      }
+     ],
+     "evidence": "Mental Block wiki episode summary and screenshot caption “A mother and her son are hypnotized by Mysterio's music”",
+     "confidence_flag": "Medium · plot summary + screenshot caption (the scene is a few seconds in a crowd; no dialogue evidence)",
+     "adult": "no",
+     "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+     "note": "",
+     "fit_note": "Animated TV episode; the mother-and-son hypnosis is a brief crowd shot (evidence: Mental Block caption), so review the fit."
+    }
+   }
+  },
+  {
+   "id": 3621,
+   "title": "Lilly the Witch: The Dragon and the Magic Book (Hexe Lilli: Der Drache und das magische Buch)",
+   "subtitle": "",
+   "year": "2009",
+   "meta": "Children's fantasy comedy (part animated) · Germany/Austria/Spain · German · dir. Stefan Ruzowitzky · released 19 Feb 2009",
+   "mechanism": "",
+   "confidence_flag": "Low-Medium · one plot summary; child presence at the hypnosis not confirmed",
+   "summary": "The evil warlock Jerome (Hieronymus) tricks people into looking into his eyes to hypnotize them; the victims, including Lilly's mother, behave oddly and dress in grey. Hypnotist: Jerome. Why: to take over the world with the magic book. Method: hypnotic gaze. Children who see it: Lilly (the heroine) and her little brother Leon are her children; the plot summary does not say whether they see the moment she is hypnotized, only that Lilly and the boys later free everyone. Kids: yes (2: Lilly and Leon). Pregnancy: not stated.",
+   "character": "Lilly's mother (Anja Kling)",
+   "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+   "note": "",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "No pregnancy mentioned in the plot summary.",
+   "hypnotist": "Jerome / Hieronymus (evil warlock)",
+   "gain_motive": [
+    "world domination via the magic book"
+   ],
+   "method": "hypnotic gaze (looking into his eyes)",
+   "kids_status": "yes",
+   "kids_note": "2: Lilly (young girl) and her little brother Leon",
+   "evidence": "English Wikipedia plot summary: “the victims, including Lilly's mother, start to behave oddly and dress in grey”",
+   "fit_note": "Film plot summary only; her children's presence at the hypnosis is not confirmed. Review.",
+   "child_witness": "not established — Wikipedia only says Lilly's mother is among the hypnotized and that her children later stop Jerome",
+   "adult": "no",
+   "format": "movie",
+   "categories": [
+    "mother",
+    "fantasy",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (en): Lilly the Witch: The Dragon and the Magic Book",
+     "url": "https://en.wikipedia.org/wiki/Lilly_the_Witch:_The_Dragon_and_the_Magic_Book"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypno-kids-witness-oct25"
+   ],
+   "source_records": [
+    "hypno-kids-witness-oct25:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-kids-witness-oct25:2": {
+     "title": "Lilly the Witch: The Dragon and the Magic Book (Hexe Lilli: Der Drache und das magische Buch)",
+     "year": "2009",
+     "format": "movie",
+     "meta": "Children's fantasy comedy (part animated) · Germany/Austria/Spain · German · dir. Stefan Ruzowitzky · released 19 Feb 2009",
+     "character": "Lilly's mother (Anja Kling)",
+     "summary": "The evil warlock Jerome (Hieronymus) tricks people into looking into his eyes to hypnotize them; the victims, including Lilly's mother, behave oddly and dress in grey. Hypnotist: Jerome. Why: to take over the world with the magic book. Method: hypnotic gaze. Children who see it: Lilly (the heroine) and her little brother Leon are her children; the plot summary does not say whether they see the moment she is hypnotized, only that Lilly and the boys later free everyone. Kids: yes (2: Lilly and Leon). Pregnancy: not stated.",
+     "hypnotist": "Jerome / Hieronymus (evil warlock)",
+     "gain_motive": [
+      "world domination via the magic book"
+     ],
+     "method": "hypnotic gaze (looking into his eyes)",
+     "categories": [
+      "mother",
+      "fantasy",
+      "human"
+     ],
+     "kids_status": "yes",
+     "kids_note": "2: Lilly (young girl) and her little brother Leon",
+     "child_witness": "not established — Wikipedia only says Lilly's mother is among the hypnotized and that her children later stop Jerome",
+     "pregnancy_outcome": "not stated",
+     "pregnancy_note": "No pregnancy mentioned in the plot summary.",
+     "sources": [
+      {
+       "label": "Wikipedia (en): Lilly the Witch: The Dragon and the Magic Book",
+       "url": "https://en.wikipedia.org/wiki/Lilly_the_Witch:_The_Dragon_and_the_Magic_Book"
+      }
+     ],
+     "evidence": "English Wikipedia plot summary: “the victims, including Lilly's mother, start to behave oddly and dress in grey”",
+     "confidence_flag": "Low-Medium · one plot summary; child presence at the hypnosis not confirmed",
+     "adult": "no",
+     "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+     "note": "",
+     "fit_note": "Film plot summary only; her children's presence at the hypnosis is not confirmed. Review."
+    }
+   }
+  },
+  {
+   "id": 3622,
+   "title": "Bride of Boogedy",
+   "subtitle": "",
+   "year": "1987",
+   "meta": "TV movie (Disney Sunday Movie / The Wonderful World of Disney) · USA · aired 12 Apr 1987 · sequel to Mr. Boogedy",
+   "mechanism": "",
+   "confidence_flag": "Low-Medium · one plot summary; the hypnotist is a ghost (kept because the text says 'hypnotizes'); child presence at the trance itself not confirmed",
+   "summary": "At the Lucyfest carnival the 300-year-old ghost Mr. Boogedy sees Eloise dressed as The Widow Marian, hypnotizes her and summons her to him. In the finale the group opens the doorway to the underworld, which draws Boogedy back with Eloise; her daughter Jennifer, dressed as a decoy Marian, distracts him so the family can pull her to safety. Hypnotist: the ghost Mr. Boogedy. Why: to regain his power (the summary does not state a further motive). Method: supernatural hypnosis / summoning (a ghost, not a possession of Eloise). Children who see it: Jennifer takes part in the rescue of her mother in the cemetery; the younger sons are with the group. Kids: yes (3: Jennifer, Corwin and R.E.). Pregnancy: not stated.",
+   "character": "Eloise Davis (Mimi Kennedy), mother of Jennifer, Corwin and R.E.",
+   "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+   "note": "Borderline for the possession rule: the source says 'hypnotizes', so it is recorded; Carlton (the father) is the one literally 'possessed'.",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "No pregnancy in the plot summary.",
+   "hypnotist": "Ghost of Mr. Boogedy",
+   "gain_motive": [
+    "regain his power"
+   ],
+   "method": "supernatural hypnosis and summoning",
+   "kids_status": "yes",
+   "kids_note": "3: Jennifer (older daughter), Corwin and R.E. (two younger sons)",
+   "evidence": "English Wikipedia plot: “Seeing Eloise dressed as The Widow Marian, he hypnotizes and summons her to him” and the cemetery rescue with Jennifer",
+   "fit_note": "TV movie; the hypnotist is a ghost (borderline for the possession rule) and child presence at the trance itself is not confirmed. Review.",
+   "child_witness": "Jennifer, in a decoy costume, draws Boogedy's attention away from her hypnotized mother in the cemetery rescue; whether the children see the moment of hypnosis at the carnival is not stated",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "mother",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia: Bride of Boogedy",
+     "url": "https://en.wikipedia.org/wiki/Bride_of_Boogedy"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypno-kids-witness-oct25"
+   ],
+   "source_records": [
+    "hypno-kids-witness-oct25:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-kids-witness-oct25:3": {
+     "title": "Bride of Boogedy",
+     "year": "1987",
+     "format": "tv",
+     "meta": "TV movie (Disney Sunday Movie / The Wonderful World of Disney) · USA · aired 12 Apr 1987 · sequel to Mr. Boogedy",
+     "character": "Eloise Davis (Mimi Kennedy), mother of Jennifer, Corwin and R.E.",
+     "summary": "At the Lucyfest carnival the 300-year-old ghost Mr. Boogedy sees Eloise dressed as The Widow Marian, hypnotizes her and summons her to him. In the finale the group opens the doorway to the underworld, which draws Boogedy back with Eloise; her daughter Jennifer, dressed as a decoy Marian, distracts him so the family can pull her to safety. Hypnotist: the ghost Mr. Boogedy. Why: to regain his power (the summary does not state a further motive). Method: supernatural hypnosis / summoning (a ghost, not a possession of Eloise). Children who see it: Jennifer takes part in the rescue of her mother in the cemetery; the younger sons are with the group. Kids: yes (3: Jennifer, Corwin and R.E.). Pregnancy: not stated.",
+     "hypnotist": "Ghost of Mr. Boogedy",
+     "gain_motive": [
+      "regain his power"
+     ],
+     "method": "supernatural hypnosis and summoning",
+     "categories": [
+      "mother",
+      "fantasy"
+     ],
+     "kids_status": "yes",
+     "kids_note": "3: Jennifer (older daughter), Corwin and R.E. (two younger sons)",
+     "child_witness": "Jennifer, in a decoy costume, draws Boogedy's attention away from her hypnotized mother in the cemetery rescue; whether the children see the moment of hypnosis at the carnival is not stated",
+     "pregnancy_outcome": "not stated",
+     "pregnancy_note": "No pregnancy in the plot summary.",
+     "sources": [
+      {
+       "label": "Wikipedia: Bride of Boogedy",
+       "url": "https://en.wikipedia.org/wiki/Bride_of_Boogedy"
+      }
+     ],
+     "evidence": "English Wikipedia plot: “Seeing Eloise dressed as The Widow Marian, he hypnotizes and summons her to him” and the cemetery rescue with Jennifer",
+     "confidence_flag": "Low-Medium · one plot summary; the hypnotist is a ghost (kept because the text says 'hypnotizes'); child presence at the trance itself not confirmed",
+     "adult": "no",
+     "note": "Borderline for the possession rule: the source says 'hypnotizes', so it is recorded; Carlton (the father) is the one literally 'possessed'.",
+     "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+     "fit_note": "TV movie; the hypnotist is a ghost (borderline for the possession rule) and child presence at the trance itself is not confirmed. Review."
+    }
+   }
+  },
+  {
+   "id": 3623,
+   "title": "Mother and Daughter Hypnotized — Comedy Hypnosis (Marc Savard)",
+   "subtitle": "",
+   "year": "2011",
+   "meta": "YouTube · channel: Marc Savard (Hypnotist) · uploaded 29 Dec 2011 · 2 min 55 s · live comedy stage-hypnosis show clip",
+   "mechanism": "",
+   "confidence_flag": "Medium · title + description + comments (no captions)",
+   "summary": "At a comedy hypnosis show the hypnotist has a mother and her daughter on stage under hypnosis. He gives the mother a playful suggestion that she falls for him whenever he shakes her hand; her daughter objects and says she 'has a dad'. Hypnotist: Marc Savard, stage hypnotist. Why: entertainment. Method: stage hypnosis (suggestion on handshake). Children who see it: the daughter is hypnotized herself and reacts with embarrassment/protest; her father is watching from the audience (a viewer comment). Kids: yes (1 daughter, age not stated). Pregnancy: not stated.",
+   "character": "A mother from the audience (name not given)",
+   "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+   "note": "",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "Not mentioned in the video description or comments.",
+   "hypnotist": "Marc Savard (stage hypnotist)",
+   "gain_motive": [
+    "entertainment"
+   ],
+   "method": "stage hypnosis — post-hypnotic handshake suggestion",
+   "kids_status": "yes",
+   "kids_note": "1: daughter (age not stated), on stage with her mother",
+   "evidence": "YouTube title + description (quote: 'I had both a mother and a daughter hypnotized in my show … every time I shook her hand she falls in love with me … she ‘has a dad!’') + top comment about dad and daughter watching",
+   "fit_note": "YouTube source (live comedy stage-hypnosis clip); evidence is title, description and comments only; daughter's age not stated.",
+   "child_witness": "the daughter is on stage under hypnosis too and objects to the suggestion ('she has a dad'); dad watches from the audience",
+   "adult": "no",
+   "format": "short",
+   "categories": [
+    "mother",
+    "love"
+   ],
+   "sources": [
+    {
+     "label": "YouTube: Marc Savard (Hypnotist) — Mother and Daughter Hypnotized - Comedy Hypnosis (uploaded 2011-12-29)",
+     "url": "https://www.youtube.com/watch?v=TTbBAhrICiY"
+    }
+   ],
+   "youtube_ids": [
+    "TTbBAhrICiY"
+   ],
+   "from_sources": [
+    "hypno-kids-witness-oct25"
+   ],
+   "source_records": [
+    "hypno-kids-witness-oct25:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/TTbBAhrICiY.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-kids-witness-oct25:4": {
+     "title": "Mother and Daughter Hypnotized — Comedy Hypnosis (Marc Savard)",
+     "year": "2011",
+     "format": "short",
+     "meta": "YouTube · channel: Marc Savard (Hypnotist) · uploaded 29 Dec 2011 · 2 min 55 s · live comedy stage-hypnosis show clip",
+     "character": "A mother from the audience (name not given)",
+     "summary": "At a comedy hypnosis show the hypnotist has a mother and her daughter on stage under hypnosis. He gives the mother a playful suggestion that she falls for him whenever he shakes her hand; her daughter objects and says she 'has a dad'. Hypnotist: Marc Savard, stage hypnotist. Why: entertainment. Method: stage hypnosis (suggestion on handshake). Children who see it: the daughter is hypnotized herself and reacts with embarrassment/protest; her father is watching from the audience (a viewer comment). Kids: yes (1 daughter, age not stated). Pregnancy: not stated.",
+     "hypnotist": "Marc Savard (stage hypnotist)",
+     "gain_motive": [
+      "entertainment"
+     ],
+     "method": "stage hypnosis — post-hypnotic handshake suggestion",
+     "categories": [
+      "mother",
+      "love"
+     ],
+     "kids_status": "yes",
+     "kids_note": "1: daughter (age not stated), on stage with her mother",
+     "child_witness": "the daughter is on stage under hypnosis too and objects to the suggestion ('she has a dad'); dad watches from the audience",
+     "pregnancy_outcome": "not stated",
+     "pregnancy_note": "Not mentioned in the video description or comments.",
+     "sources": [
+      {
+       "label": "YouTube: Marc Savard (Hypnotist) — Mother and Daughter Hypnotized - Comedy Hypnosis (uploaded 2011-12-29)",
+       "url": "https://www.youtube.com/watch?v=TTbBAhrICiY"
+      }
+     ],
+     "evidence": "YouTube title + description (quote: 'I had both a mother and a daughter hypnotized in my show … every time I shook her hand she falls in love with me … she ‘has a dad!’') + top comment about dad and daughter watching",
+     "confidence_flag": "Medium · title + description + comments (no captions)",
+     "adult": "no",
+     "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+     "note": "",
+     "fit_note": "YouTube source (live comedy stage-hypnosis clip); evidence is title, description and comments only; daughter's age not stated."
+    }
+   }
+  },
+  {
+   "id": 3624,
+   "title": "2 Teens and Mom Experience Hypnosis (Grounded Hypnosis)",
+   "subtitle": "",
+   "year": "2018",
+   "meta": "YouTube · channel: Grounded Hypnosis (Jennifer Lawrence Tackabury, Ottawa) · uploaded 27 May 2018 · 2 min 59 s · street/demonstration hypnosis",
+   "mechanism": "",
+   "confidence_flag": "Medium · title + description (no captions, no comments)",
+   "summary": "A female hypnotist hypnotizes two teenage daughters and their mother together; the hypnotist keeps the oldest daughter on for a deeper trance. Hypnotist: Jennifer Lawrence Tackabury (Grounded Hypnosis). Why: a demonstration of hypnosis. Method: spoken induction in a demonstration. Children who see it: two teen daughters in trance beside her. Kids: yes (2 teen daughters). Pregnancy: not stated.",
+   "character": "A mother (name not given)",
+   "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+   "note": "",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "Not mentioned.",
+   "hypnotist": "Jennifer Lawrence Tackabury (Grounded Hypnosis, Ottawa)",
+   "gain_motive": [
+    "demonstration / experience of hypnosis"
+   ],
+   "method": "spoken hypnotic induction (demonstration)",
+   "kids_status": "yes",
+   "kids_note": "2 teen daughters (ages not given)",
+   "evidence": "YouTube title + description: 'Two eager teens and their mom experience hypnosis. I keep the oldest daughter on to bring her further in hypnosis.'",
+   "fit_note": "YouTube source (demonstration video); evidence is title and description only.",
+   "child_witness": "both teens are hypnotized in the same session as their mother; the oldest is kept on for a deeper trance",
+   "adult": "no",
+   "format": "short",
+   "categories": [
+    "mother",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "YouTube: Grounded Hypnosis — 2 Teens and Mom experience hypnosis! (uploaded 2018-05-27)",
+     "url": "https://www.youtube.com/watch?v=vQAKjSYSWZQ"
+    }
+   ],
+   "youtube_ids": [
+    "vQAKjSYSWZQ"
+   ],
+   "from_sources": [
+    "hypno-kids-witness-oct25"
+   ],
+   "source_records": [
+    "hypno-kids-witness-oct25:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/vQAKjSYSWZQ.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-kids-witness-oct25:5": {
+     "title": "2 Teens and Mom Experience Hypnosis (Grounded Hypnosis)",
+     "year": "2018",
+     "format": "short",
+     "meta": "YouTube · channel: Grounded Hypnosis (Jennifer Lawrence Tackabury, Ottawa) · uploaded 27 May 2018 · 2 min 59 s · street/demonstration hypnosis",
+     "character": "A mother (name not given)",
+     "summary": "A female hypnotist hypnotizes two teenage daughters and their mother together; the hypnotist keeps the oldest daughter on for a deeper trance. Hypnotist: Jennifer Lawrence Tackabury (Grounded Hypnosis). Why: a demonstration of hypnosis. Method: spoken induction in a demonstration. Children who see it: two teen daughters in trance beside her. Kids: yes (2 teen daughters). Pregnancy: not stated.",
+     "hypnotist": "Jennifer Lawrence Tackabury (Grounded Hypnosis, Ottawa)",
+     "gain_motive": [
+      "demonstration / experience of hypnosis"
+     ],
+     "method": "spoken hypnotic induction (demonstration)",
+     "categories": [
+      "mother",
+      "medical"
+     ],
+     "kids_status": "yes",
+     "kids_note": "2 teen daughters (ages not given)",
+     "child_witness": "both teens are hypnotized in the same session as their mother; the oldest is kept on for a deeper trance",
+     "pregnancy_outcome": "not stated",
+     "pregnancy_note": "Not mentioned.",
+     "sources": [
+      {
+       "label": "YouTube: Grounded Hypnosis — 2 Teens and Mom experience hypnosis! (uploaded 2018-05-27)",
+       "url": "https://www.youtube.com/watch?v=vQAKjSYSWZQ"
+      }
+     ],
+     "evidence": "YouTube title + description: 'Two eager teens and their mom experience hypnosis. I keep the oldest daughter on to bring her further in hypnosis.'",
+     "confidence_flag": "Medium · title + description (no captions, no comments)",
+     "adult": "no",
+     "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+     "note": "",
+     "fit_note": "YouTube source (demonstration video); evidence is title and description only."
+    }
+   }
+  },
+  {
+   "id": 3625,
+   "title": "Mother Daughter Hypnotized on live TV — Rapid Induction Demonstration (Cara Institute)",
+   "subtitle": "",
+   "year": "2014",
+   "meta": "YouTube · channel: Cara Institute of Advanced Hypnosis · uploaded 6 Jul 2014 · 12 min 58 s · TV-show preview / induction demo",
+   "mechanism": "",
+   "confidence_flag": "Low-Medium · title + captions; the daughter's age is not stated",
+   "summary": "A hypnotist on a live TV segment inducts a mother and her daughter together with a rapid induction ('I want the both of you on the floor … hold up your arms'). Hypnotist: instructor of Cara Institute of Advanced Hypnosis. Why: demonstration. Method: rapid induction. Children who see it: the daughter is in the trance next to her mother. Kids: yes (1 daughter, age not stated). Pregnancy: not stated.",
+   "character": "A mother (name not given in the metadata)",
+   "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+   "note": "",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "Not mentioned in the captions or description.",
+   "hypnotist": "Cara Institute of Advanced Hypnosis instructor (name not given)",
+   "gain_motive": [
+    "induction demonstration"
+   ],
+   "method": "rapid induction (arms-up / eye-closure)",
+   "kids_status": "yes",
+   "kids_note": "1: daughter (age not stated)",
+   "evidence": "YouTube title + auto-captions ('what we're about to do right now is hypnosis … I want the both of you on the floor …')",
+   "fit_note": "YouTube source (TV-segment induction demo); daughter's age not stated.",
+   "child_witness": "the daughter is hypnotized simultaneously beside her mother",
+   "adult": "no",
+   "format": "short",
+   "categories": [
+    "mother",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "YouTube: Cara Institute of Advanced Hypnosis — Hypnosis: Mother Daughter Hypnotized on live TV - Rapid Induction Demonstration (uploaded 2014-07-06)",
+     "url": "https://www.youtube.com/watch?v=rolBDL-Nu0o"
+    }
+   ],
+   "youtube_ids": [
+    "rolBDL-Nu0o"
+   ],
+   "from_sources": [
+    "hypno-kids-witness-oct25"
+   ],
+   "source_records": [
+    "hypno-kids-witness-oct25:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/rolBDL-Nu0o.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-kids-witness-oct25:6": {
+     "title": "Mother Daughter Hypnotized on live TV — Rapid Induction Demonstration (Cara Institute)",
+     "year": "2014",
+     "format": "short",
+     "meta": "YouTube · channel: Cara Institute of Advanced Hypnosis · uploaded 6 Jul 2014 · 12 min 58 s · TV-show preview / induction demo",
+     "character": "A mother (name not given in the metadata)",
+     "summary": "A hypnotist on a live TV segment inducts a mother and her daughter together with a rapid induction ('I want the both of you on the floor … hold up your arms'). Hypnotist: instructor of Cara Institute of Advanced Hypnosis. Why: demonstration. Method: rapid induction. Children who see it: the daughter is in the trance next to her mother. Kids: yes (1 daughter, age not stated). Pregnancy: not stated.",
+     "hypnotist": "Cara Institute of Advanced Hypnosis instructor (name not given)",
+     "gain_motive": [
+      "induction demonstration"
+     ],
+     "method": "rapid induction (arms-up / eye-closure)",
+     "categories": [
+      "mother",
+      "medical"
+     ],
+     "kids_status": "yes",
+     "kids_note": "1: daughter (age not stated)",
+     "child_witness": "the daughter is hypnotized simultaneously beside her mother",
+     "pregnancy_outcome": "not stated",
+     "pregnancy_note": "Not mentioned in the captions or description.",
+     "sources": [
+      {
+       "label": "YouTube: Cara Institute of Advanced Hypnosis — Hypnosis: Mother Daughter Hypnotized on live TV - Rapid Induction Demonstration (uploaded 2014-07-06)",
+       "url": "https://www.youtube.com/watch?v=rolBDL-Nu0o"
+      }
+     ],
+     "evidence": "YouTube title + auto-captions ('what we're about to do right now is hypnosis … I want the both of you on the floor …')",
+     "confidence_flag": "Low-Medium · title + captions; the daughter's age is not stated",
+     "adult": "no",
+     "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+     "note": "",
+     "fit_note": "YouTube source (TV-segment induction demo); daughter's age not stated."
+    }
+   }
+  },
+  {
+   "id": 3626,
+   "title": "Mãe e filha hipnotizadas (Arilton Hipnose)",
+   "subtitle": "",
+   "year": "2018",
+   "meta": "YouTube · channel: Arilton Hipnose · uploaded 3 Jun 2018 · 9 min 37 s · Portuguese · vertical-format demonstration",
+   "mechanism": "",
+   "confidence_flag": "Low · title + description + comments only; video not reviewed beyond metadata",
+   "summary": "A hypnosis channel posts a video titled 'mãe e filha hipnotizadas juntas' (mother and daughter hypnotized together) showing both in a deep trance (a viewer comment: 'Las dos tienen un trance profundo'). Hypnotist: the channel host. Why: demonstration. Method: not described. Children who see it: her daughter is hypnotized next to her. Kids: yes (1 daughter, age not stated). Pregnancy: not stated.",
+   "character": "A mother (name not given)",
+   "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+   "note": "",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "Not mentioned.",
+   "hypnotist": "Arilton (channel host)",
+   "gain_motive": [
+    "demonstration"
+   ],
+   "method": "not described (hypnotic induction)",
+   "kids_status": "yes",
+   "kids_note": "1: daughter (age not stated)",
+   "evidence": "YouTube title + description ('mãe e filha hipnotizadas juntas') + comments",
+   "fit_note": "YouTube source; evidence is title, description and comments only; daughter's age not stated. Low confidence.",
+   "child_witness": "the daughter is hypnotized beside her mother",
+   "adult": "no",
+   "format": "short",
+   "categories": [
+    "mother"
+   ],
+   "sources": [
+    {
+     "label": "YouTube: Arilton Hipnose — Mãe e filha hypnotized mother and daughter (uploaded 2018-06-03)",
+     "url": "https://www.youtube.com/watch?v=4ym9_36wTJQ"
+    }
+   ],
+   "youtube_ids": [
+    "4ym9_36wTJQ"
+   ],
+   "from_sources": [
+    "hypno-kids-witness-oct25"
+   ],
+   "source_records": [
+    "hypno-kids-witness-oct25:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/4ym9_36wTJQ.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-kids-witness-oct25:7": {
+     "title": "Mãe e filha hipnotizadas (Arilton Hipnose)",
+     "year": "2018",
+     "format": "short",
+     "meta": "YouTube · channel: Arilton Hipnose · uploaded 3 Jun 2018 · 9 min 37 s · Portuguese · vertical-format demonstration",
+     "character": "A mother (name not given)",
+     "summary": "A hypnosis channel posts a video titled 'mãe e filha hipnotizadas juntas' (mother and daughter hypnotized together) showing both in a deep trance (a viewer comment: 'Las dos tienen un trance profundo'). Hypnotist: the channel host. Why: demonstration. Method: not described. Children who see it: her daughter is hypnotized next to her. Kids: yes (1 daughter, age not stated). Pregnancy: not stated.",
+     "hypnotist": "Arilton (channel host)",
+     "gain_motive": [
+      "demonstration"
+     ],
+     "method": "not described (hypnotic induction)",
+     "categories": [
+      "mother"
+     ],
+     "kids_status": "yes",
+     "kids_note": "1: daughter (age not stated)",
+     "child_witness": "the daughter is hypnotized beside her mother",
+     "pregnancy_outcome": "not stated",
+     "pregnancy_note": "Not mentioned.",
+     "sources": [
+      {
+       "label": "YouTube: Arilton Hipnose — Mãe e filha hypnotized mother and daughter (uploaded 2018-06-03)",
+       "url": "https://www.youtube.com/watch?v=4ym9_36wTJQ"
+      }
+     ],
+     "evidence": "YouTube title + description ('mãe e filha hipnotizadas juntas') + comments",
+     "confidence_flag": "Low · title + description + comments only; video not reviewed beyond metadata",
+     "adult": "no",
+     "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+     "note": "",
+     "fit_note": "YouTube source; evidence is title, description and comments only; daughter's age not stated. Low confidence."
+    }
+   }
+  },
+  {
+   "id": 3627,
+   "title": "Gracia Indri & Ibu Dihipnotis (Suka Suka Uya, 19 Dec 2013)",
+   "subtitle": "",
+   "year": "2013",
+   "meta": "Indonesian TV talk/variety show Suka Suka Uya (hypnotist host Uya Kuya) · episode of 19 Dec 2013 · YouTube re-upload 6 May 2014 · 56 min",
+   "mechanism": "",
+   "confidence_flag": "Low · title only; the adult daughter does not fit a 'young child' reading",
+   "summary": "In an episode of the Indonesian show Suka Suka Uya (host Uya Kuya, a hypnotist), the singer Gracia Indri and her mother are both hypnotized. Hypnotist: Uya Kuya. Why: entertainment segment. Method: stage/television hypnosis. Children who see it: her daughter (an adult singer) is hypnotized with her. Kids: yes (Gracia Indri, an adult). Pregnancy: not stated.",
+   "character": "Gracia Indri's mother (name not given)",
+   "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+   "note": "",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "Not mentioned.",
+   "episodes": [
+    {
+     "episode": "Episode of 19 Dec 2013 (full)",
+     "air_date": "2013-12-19",
+     "gist": "Gracia Indri and her mother are hypnotized on the show.",
+     "number_verified": true
+    }
+   ],
+   "hypnotist": "Uya Kuya (host and hypnotist)",
+   "gain_motive": [
+    "entertainment"
+   ],
+   "method": "television stage hypnosis",
+   "kids_status": "yes",
+   "kids_note": "1+: daughter Gracia Indri (adult)",
+   "evidence": "YouTube title only ('Gracia Indri & Ibu Dihipnotis') — no description, captions or comments",
+   "fit_note": "TV segment known only through a YouTube re-upload; title-only evidence and the child is an adult. Low confidence.",
+   "child_witness": "the adult daughter is hypnotized together with her mother",
+   "adult": "no",
+   "format": "tv",
+   "categories": [
+    "mother"
+   ],
+   "sources": [
+    {
+     "label": "YouTube: Suka Suka Uya re-upload — FULL Gracia Indri & Ibu Dihipnotis di Suka Suka Uya 19 12 2013 (uploaded 2014-05-06)",
+     "url": "https://www.youtube.com/watch?v=VTnxTkP2NXE"
+    }
+   ],
+   "youtube_ids": [
+    "VTnxTkP2NXE"
+   ],
+   "from_sources": [
+    "hypno-kids-witness-oct25"
+   ],
+   "source_records": [
+    "hypno-kids-witness-oct25:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/VTnxTkP2NXE.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-kids-witness-oct25:8": {
+     "title": "Gracia Indri & Ibu Dihipnotis (Suka Suka Uya, 19 Dec 2013)",
+     "year": "2013",
+     "format": "tv",
+     "meta": "Indonesian TV talk/variety show Suka Suka Uya (hypnotist host Uya Kuya) · episode of 19 Dec 2013 · YouTube re-upload 6 May 2014 · 56 min",
+     "character": "Gracia Indri's mother (name not given)",
+     "summary": "In an episode of the Indonesian show Suka Suka Uya (host Uya Kuya, a hypnotist), the singer Gracia Indri and her mother are both hypnotized. Hypnotist: Uya Kuya. Why: entertainment segment. Method: stage/television hypnosis. Children who see it: her daughter (an adult singer) is hypnotized with her. Kids: yes (Gracia Indri, an adult). Pregnancy: not stated.",
+     "hypnotist": "Uya Kuya (host and hypnotist)",
+     "gain_motive": [
+      "entertainment"
+     ],
+     "method": "television stage hypnosis",
+     "categories": [
+      "mother"
+     ],
+     "episodes": [
+      {
+       "episode": "Episode of 19 Dec 2013 (full)",
+       "air_date": "2013-12-19",
+       "gist": "Gracia Indri and her mother are hypnotized on the show.",
+       "number_verified": true
+      }
+     ],
+     "kids_status": "yes",
+     "kids_note": "1+: daughter Gracia Indri (adult)",
+     "child_witness": "the adult daughter is hypnotized together with her mother",
+     "pregnancy_outcome": "not stated",
+     "pregnancy_note": "Not mentioned.",
+     "sources": [
+      {
+       "label": "YouTube: Suka Suka Uya re-upload — FULL Gracia Indri & Ibu Dihipnotis di Suka Suka Uya 19 12 2013 (uploaded 2014-05-06)",
+       "url": "https://www.youtube.com/watch?v=VTnxTkP2NXE"
+      }
+     ],
+     "evidence": "YouTube title only ('Gracia Indri & Ibu Dihipnotis') — no description, captions or comments",
+     "confidence_flag": "Low · title only; the adult daughter does not fit a 'young child' reading",
+     "adult": "no",
+     "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+     "note": "",
+     "fit_note": "TV segment known only through a YouTube re-upload; title-only evidence and the child is an adult. Low confidence."
+    }
+   }
+  },
+  {
+   "id": 3628,
+   "title": "We Hypnotized Our Parents… (LaiyaFace TV scripted skit)",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "YouTube · channel: LaiyaFace TV · uploaded 11 Sep 2024 · 9 min 3 s · scripted family skit (description: 'All skits are scripted & fictional')",
+   "mechanism": "",
+   "confidence_flag": "Low · scripted skit; evidence from title/chapters only",
+   "summary": "Scripted family skit: the siblings find a viral 'hypnosis' video, the parents fall under a spell, and the kids take control of them (chapters: 'Parents fall under a spell', 'Kids take control of parents'). Hypnotist: the children. Why: comedy / to control their parents. Method: viral hypnosis video / spell. Children who see it: the children are the ones controlling the hypnotized parents. Kids: yes. Pregnancy: not stated.",
+   "character": "The kids' mother (with their father), in a scripted skit",
+   "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+   "note": "",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "Not mentioned.",
+   "hypnotist": "the children (skit cast)",
+   "gain_motive": [
+    "comedy / controlling the parents"
+   ],
+   "method": "viral hypnosis video",
+   "kids_status": "yes",
+   "kids_note": "siblings (skit actors; exact ages not given)",
+   "evidence": "YouTube chapter list ('Parents fall under a spell', 'Kids take control of parents') + description stating the skit is scripted",
+   "fit_note": "YouTube SKIT: scripted and fictional per its own description; not a real hypnosis event. Low confidence.",
+   "child_witness": "the children direct the hypnotized parents",
+   "adult": "no",
+   "format": "short",
+   "categories": [
+    "mother",
+    "child-controller"
+   ],
+   "sources": [
+    {
+     "label": "YouTube: LaiyaFace TV — We Hypnotized Our Parents… (uploaded 2024-09-11)",
+     "url": "https://www.youtube.com/watch?v=AwddOiEx9NM"
+    }
+   ],
+   "youtube_ids": [
+    "AwddOiEx9NM"
+   ],
+   "from_sources": [
+    "hypno-kids-witness-oct25"
+   ],
+   "source_records": [
+    "hypno-kids-witness-oct25:9"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/AwddOiEx9NM.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-kids-witness-oct25:9": {
+     "title": "We Hypnotized Our Parents… (LaiyaFace TV scripted skit)",
+     "year": "2024",
+     "format": "short",
+     "meta": "YouTube · channel: LaiyaFace TV · uploaded 11 Sep 2024 · 9 min 3 s · scripted family skit (description: 'All skits are scripted & fictional')",
+     "character": "The kids' mother (with their father), in a scripted skit",
+     "summary": "Scripted family skit: the siblings find a viral 'hypnosis' video, the parents fall under a spell, and the kids take control of them (chapters: 'Parents fall under a spell', 'Kids take control of parents'). Hypnotist: the children. Why: comedy / to control their parents. Method: viral hypnosis video / spell. Children who see it: the children are the ones controlling the hypnotized parents. Kids: yes. Pregnancy: not stated.",
+     "hypnotist": "the children (skit cast)",
+     "gain_motive": [
+      "comedy / controlling the parents"
+     ],
+     "method": "viral hypnosis video",
+     "categories": [
+      "mother",
+      "child-controller"
+     ],
+     "kids_status": "yes",
+     "kids_note": "siblings (skit actors; exact ages not given)",
+     "child_witness": "the children direct the hypnotized parents",
+     "pregnancy_outcome": "not stated",
+     "pregnancy_note": "Not mentioned.",
+     "sources": [
+      {
+       "label": "YouTube: LaiyaFace TV — We Hypnotized Our Parents… (uploaded 2024-09-11)",
+       "url": "https://www.youtube.com/watch?v=AwddOiEx9NM"
+      }
+     ],
+     "evidence": "YouTube chapter list ('Parents fall under a spell', 'Kids take control of parents') + description stating the skit is scripted",
+     "confidence_flag": "Low · scripted skit; evidence from title/chapters only",
+     "adult": "no",
+     "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+     "note": "",
+     "fit_note": "YouTube SKIT: scripted and fictional per its own description; not a real hypnosis event. Low confidence."
+    }
+   }
+  },
+  {
+   "id": 3629,
+   "title": "I Hypnotize My Mom to Get Everything I Want (The Real Family skit)",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "YouTube · channel: The Real Family (acting/comedy videos) · uploaded 20 Oct 2024 · 16 min 48 s · acted family skit",
+   "mechanism": "",
+   "confidence_flag": "Low · acted skit; title and chapters only",
+   "summary": "Acted family comedy: a kid 'hypnotizes' his mom to get what he wants (chapters: 'Inducing hypnosis', 'Commanding the mom', 'Testing limits with Leo', 'The pool incident', 'Waking the mom'). Hypnotist: her son. Why: to get whatever he wants. Method: verbal induction (acted). Children who see it: her children, including her son Leo, who tests the limits. Kids: yes. Pregnancy: not stated.",
+   "character": "The mom (skit cast)",
+   "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+   "note": "",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "Not mentioned.",
+   "hypnotist": "her son (skit)",
+   "gain_motive": [
+    "to get everything he wants"
+   ],
+   "method": "verbal induction (acted)",
+   "kids_status": "yes",
+   "kids_note": "at least 2 children (the hypnotizing child and Leo)",
+   "evidence": "YouTube title + chapter list; the channel describes itself as 'Acting videos'",
+   "fit_note": "YouTube SKIT: acted family video; evidence is title and chapters only. Low confidence.",
+   "child_witness": "the hypnotizer is her own child; the sibling Leo is present for the commands",
+   "adult": "no",
+   "format": "short",
+   "categories": [
+    "mother",
+    "child-controller"
+   ],
+   "sources": [
+    {
+     "label": "YouTube: The Real Family — I HYPNOTIZE MY MOM TO GET EVERYTHING I WANT (uploaded 2024-10-20)",
+     "url": "https://www.youtube.com/watch?v=8H001K0LbCc"
+    }
+   ],
+   "youtube_ids": [
+    "8H001K0LbCc"
+   ],
+   "from_sources": [
+    "hypno-kids-witness-oct25"
+   ],
+   "source_records": [
+    "hypno-kids-witness-oct25:10"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/8H001K0LbCc.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-kids-witness-oct25:10": {
+     "title": "I Hypnotize My Mom to Get Everything I Want (The Real Family skit)",
+     "year": "2024",
+     "format": "short",
+     "meta": "YouTube · channel: The Real Family (acting/comedy videos) · uploaded 20 Oct 2024 · 16 min 48 s · acted family skit",
+     "character": "The mom (skit cast)",
+     "summary": "Acted family comedy: a kid 'hypnotizes' his mom to get what he wants (chapters: 'Inducing hypnosis', 'Commanding the mom', 'Testing limits with Leo', 'The pool incident', 'Waking the mom'). Hypnotist: her son. Why: to get whatever he wants. Method: verbal induction (acted). Children who see it: her children, including her son Leo, who tests the limits. Kids: yes. Pregnancy: not stated.",
+     "hypnotist": "her son (skit)",
+     "gain_motive": [
+      "to get everything he wants"
+     ],
+     "method": "verbal induction (acted)",
+     "categories": [
+      "mother",
+      "child-controller"
+     ],
+     "kids_status": "yes",
+     "kids_note": "at least 2 children (the hypnotizing child and Leo)",
+     "child_witness": "the hypnotizer is her own child; the sibling Leo is present for the commands",
+     "pregnancy_outcome": "not stated",
+     "pregnancy_note": "Not mentioned.",
+     "sources": [
+      {
+       "label": "YouTube: The Real Family — I HYPNOTIZE MY MOM TO GET EVERYTHING I WANT (uploaded 2024-10-20)",
+       "url": "https://www.youtube.com/watch?v=8H001K0LbCc"
+      }
+     ],
+     "evidence": "YouTube title + chapter list; the channel describes itself as 'Acting videos'",
+     "confidence_flag": "Low · acted skit; title and chapters only",
+     "adult": "no",
+     "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+     "note": "",
+     "fit_note": "YouTube SKIT: acted family video; evidence is title and chapters only. Low confidence."
+    }
+   }
+  },
+  {
+   "id": 3630,
+   "title": "Mom as a BABY and HYPNOTIZED (The Real Family skit)",
+   "subtitle": "",
+   "year": "2025",
+   "meta": "YouTube · channel: The Real Family (acting/comedy videos) · uploaded 22 Sep 2025 · 14 min 32 s · acted family skit/prank video",
+   "mechanism": "",
+   "confidence_flag": "Low · acted skit; title, chapters and tags only",
+   "summary": "Acted family comedy/prank video with a 'hypnosis challenge' chapter in which the mom is hypnotized; the tags name 'brother and sister'. Hypnotist: her kids (skit). Why: comedy challenge. Method: acted hypnosis challenge. Children who see it: the brother and sister. Kids: yes. Pregnancy: not stated.",
+   "character": "The mom (skit cast)",
+   "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+   "note": "",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "Not mentioned.",
+   "hypnotist": "her kids (skit)",
+   "gain_motive": [
+    "comedy challenge"
+   ],
+   "method": "acted hypnosis challenge",
+   "kids_status": "yes",
+   "kids_note": "brother and sister (per tags)",
+   "evidence": "YouTube title + chapters ('The hypnosis challenge') + tags ('brother and sister')",
+   "fit_note": "YouTube SKIT / prank video: acted; evidence is title, chapters and tags only. Low confidence.",
+   "child_witness": "the kids run the challenge on their mom",
+   "adult": "no",
+   "format": "short",
+   "categories": [
+    "mother",
+    "child-controller"
+   ],
+   "sources": [
+    {
+     "label": "YouTube: The Real Family — Mom as a BABY and HYPNOTIZED *Hilarious* (uploaded 2025-09-22)",
+     "url": "https://www.youtube.com/watch?v=mlomrSAgkwY"
+    }
+   ],
+   "youtube_ids": [
+    "mlomrSAgkwY"
+   ],
+   "from_sources": [
+    "hypno-kids-witness-oct25"
+   ],
+   "source_records": [
+    "hypno-kids-witness-oct25:11"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/mlomrSAgkwY.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-kids-witness-oct25:11": {
+     "title": "Mom as a BABY and HYPNOTIZED (The Real Family skit)",
+     "year": "2025",
+     "format": "short",
+     "meta": "YouTube · channel: The Real Family (acting/comedy videos) · uploaded 22 Sep 2025 · 14 min 32 s · acted family skit/prank video",
+     "character": "The mom (skit cast)",
+     "summary": "Acted family comedy/prank video with a 'hypnosis challenge' chapter in which the mom is hypnotized; the tags name 'brother and sister'. Hypnotist: her kids (skit). Why: comedy challenge. Method: acted hypnosis challenge. Children who see it: the brother and sister. Kids: yes. Pregnancy: not stated.",
+     "hypnotist": "her kids (skit)",
+     "gain_motive": [
+      "comedy challenge"
+     ],
+     "method": "acted hypnosis challenge",
+     "categories": [
+      "mother",
+      "child-controller"
+     ],
+     "kids_status": "yes",
+     "kids_note": "brother and sister (per tags)",
+     "child_witness": "the kids run the challenge on their mom",
+     "pregnancy_outcome": "not stated",
+     "pregnancy_note": "Not mentioned.",
+     "sources": [
+      {
+       "label": "YouTube: The Real Family — Mom as a BABY and HYPNOTIZED *Hilarious* (uploaded 2025-09-22)",
+       "url": "https://www.youtube.com/watch?v=mlomrSAgkwY"
+      }
+     ],
+     "evidence": "YouTube title + chapters ('The hypnosis challenge') + tags ('brother and sister')",
+     "confidence_flag": "Low · acted skit; title, chapters and tags only",
+     "adult": "no",
+     "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+     "note": "",
+     "fit_note": "YouTube SKIT / prank video: acted; evidence is title, chapters and tags only. Low confidence."
+    }
+   }
+  },
+  {
+   "id": 3631,
+   "title": "They Got HYPNOTIZED by a Mysterious Watch (Funny Indian Show / TMKOC-labeled animation)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "YouTube · channel: Funny Indian Show | TMKOC (unofficial-looking animation channel) · uploaded 18 Aug 2026 · 11 min 46 s · English animation",
+   "mechanism": "",
+   "confidence_flag": "Low · description only; the channel is not the official TMKOC channel",
+   "summary": "Two salesmen arrive with a 'mysterious watch'; after looking at it a mother and her son become hypnotized and start collecting valuables from their own house for the thieves, but the robbery goes wrong. Hypnotist: two suspicious salesmen. Why: theft. Method: hypnotic watch. Children who see it: her son is hypnotized with her. Kids: yes (1 son). Pregnancy: not stated.",
+   "character": "A mother (animated)",
+   "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+   "note": "",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "Not mentioned.",
+   "hypnotist": "two salesmen (thieves)",
+   "gain_motive": [
+    "theft of valuables"
+   ],
+   "method": "hypnotic watch",
+   "kids_status": "yes",
+   "kids_note": "1: son (age not stated)",
+   "evidence": "YouTube title + description ('a mother and son become hypnotized and start collecting valuables from their own house for the thieves')",
+   "fit_note": "YouTube UNOFFICIAL animation (channel is not the official TMKOC); description-only evidence. Low confidence.",
+   "child_witness": "the son is hypnotized together with his mother and helps gather valuables",
+   "adult": "no",
+   "format": "short",
+   "categories": [
+    "mother",
+    "tech",
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "YouTube: Funny Indian Show | TMKOC — They Got HYPNOTIZED by a Mysterious Watch (uploaded 2026-08-18)",
+     "url": "https://www.youtube.com/watch?v=7zM8IsxD-gs"
+    }
+   ],
+   "youtube_ids": [
+    "7zM8IsxD-gs"
+   ],
+   "from_sources": [
+    "hypno-kids-witness-oct25"
+   ],
+   "source_records": [
+    "hypno-kids-witness-oct25:12"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/7zM8IsxD-gs.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-kids-witness-oct25:12": {
+     "title": "They Got HYPNOTIZED by a Mysterious Watch (Funny Indian Show / TMKOC-labeled animation)",
+     "year": "2026",
+     "format": "short",
+     "meta": "YouTube · channel: Funny Indian Show | TMKOC (unofficial-looking animation channel) · uploaded 18 Aug 2026 · 11 min 46 s · English animation",
+     "character": "A mother (animated)",
+     "summary": "Two salesmen arrive with a 'mysterious watch'; after looking at it a mother and her son become hypnotized and start collecting valuables from their own house for the thieves, but the robbery goes wrong. Hypnotist: two suspicious salesmen. Why: theft. Method: hypnotic watch. Children who see it: her son is hypnotized with her. Kids: yes (1 son). Pregnancy: not stated.",
+     "hypnotist": "two salesmen (thieves)",
+     "gain_motive": [
+      "theft of valuables"
+     ],
+     "method": "hypnotic watch",
+     "categories": [
+      "mother",
+      "tech",
+      "crime"
+     ],
+     "kids_status": "yes",
+     "kids_note": "1: son (age not stated)",
+     "child_witness": "the son is hypnotized together with his mother and helps gather valuables",
+     "pregnancy_outcome": "not stated",
+     "pregnancy_note": "Not mentioned.",
+     "sources": [
+      {
+       "label": "YouTube: Funny Indian Show | TMKOC — They Got HYPNOTIZED by a Mysterious Watch (uploaded 2026-08-18)",
+       "url": "https://www.youtube.com/watch?v=7zM8IsxD-gs"
+      }
+     ],
+     "evidence": "YouTube title + description ('a mother and son become hypnotized and start collecting valuables from their own house for the thieves')",
+     "confidence_flag": "Low · description only; the channel is not the official TMKOC channel",
+     "adult": "no",
+     "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+     "note": "",
+     "fit_note": "YouTube UNOFFICIAL animation (channel is not the official TMKOC); description-only evidence. Low confidence."
+    }
+   }
+  },
+  {
+   "id": 3632,
+   "title": "Peppa Pig and the Hypnotic Spiral (Peppa Fun unofficial animations)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "YouTube · channel: Peppa Fun (unofficial, apparently fan/AI-made) · two uploads: 14 Jul 2026 (31 min 52 s) and 21 Jul 2026 (43 min 7 s)",
+   "mechanism": "",
+   "confidence_flag": "Low · unofficial uploads; titles and descriptions only (not from the official Peppa Pig series)",
+   "summary": "Two unofficial Peppa Pig-style videos: in the descriptions 'Mummy Pig has been hypnotized by a mysterious swirling spiral villain' and Peppa has to break the spell. Hypnotist: a spiral villain. Why: not stated. Method: hypnotic spiral. Children who see it: Peppa, her daughter, acts to rescue her. Kids: yes (Peppa and George). Pregnancy: not stated.",
+   "character": "Mummy Pig",
+   "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+   "note": "Not an official Peppa Pig episode; kept as an online-video entry flagged Low.",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "Not mentioned.",
+   "hypnotist": "a swirling-spiral villain",
+   "gain_motive": [
+    "not stated"
+   ],
+   "method": "hypnotic spiral",
+   "kids_status": "yes",
+   "kids_note": "Peppa and George (cartoon piglets)",
+   "evidence": "YouTube titles + descriptions ('Mummy Pig has been hypnotized by a mysterious swirling spiral villain … up to Peppa pig to break the spell') + two comments",
+   "fit_note": "YouTube UNOFFICIAL fan/AI-style uploads, not official Peppa Pig episodes; description-only evidence. Low confidence.",
+   "child_witness": "Peppa acts to break the spell on her mother",
+   "adult": "no",
+   "format": "short",
+   "categories": [
+    "mother",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "YouTube: Peppa Fun — Peppa pig's Mommy Gets Hypnotized by a Magical Spiral! (uploaded 2026-07-14)",
+     "url": "https://www.youtube.com/watch?v=vEtEB_4I1VI"
+    },
+    {
+     "label": "YouTube: Peppa Fun — Peppa pig Saves Mummy Pig from the Hypnotic Spiral Trap! (uploaded 2026-07-21)",
+     "url": "https://www.youtube.com/watch?v=BfYClCxPwf4"
+    }
+   ],
+   "youtube_ids": [
+    "vEtEB_4I1VI",
+    "BfYClCxPwf4"
+   ],
+   "from_sources": [
+    "hypno-kids-witness-oct25"
+   ],
+   "source_records": [
+    "hypno-kids-witness-oct25:13"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/vEtEB_4I1VI.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-kids-witness-oct25:13": {
+     "title": "Peppa Pig and the Hypnotic Spiral (Peppa Fun unofficial animations)",
+     "year": "2026",
+     "format": "short",
+     "meta": "YouTube · channel: Peppa Fun (unofficial, apparently fan/AI-made) · two uploads: 14 Jul 2026 (31 min 52 s) and 21 Jul 2026 (43 min 7 s)",
+     "character": "Mummy Pig",
+     "summary": "Two unofficial Peppa Pig-style videos: in the descriptions 'Mummy Pig has been hypnotized by a mysterious swirling spiral villain' and Peppa has to break the spell. Hypnotist: a spiral villain. Why: not stated. Method: hypnotic spiral. Children who see it: Peppa, her daughter, acts to rescue her. Kids: yes (Peppa and George). Pregnancy: not stated.",
+     "hypnotist": "a swirling-spiral villain",
+     "gain_motive": [
+      "not stated"
+     ],
+     "method": "hypnotic spiral",
+     "categories": [
+      "mother",
+      "fantasy"
+     ],
+     "kids_status": "yes",
+     "kids_note": "Peppa and George (cartoon piglets)",
+     "child_witness": "Peppa acts to break the spell on her mother",
+     "pregnancy_outcome": "not stated",
+     "pregnancy_note": "Not mentioned.",
+     "sources": [
+      {
+       "label": "YouTube: Peppa Fun — Peppa pig's Mommy Gets Hypnotized by a Magical Spiral! (uploaded 2026-07-14)",
+       "url": "https://www.youtube.com/watch?v=vEtEB_4I1VI"
+      },
+      {
+       "label": "YouTube: Peppa Fun — Peppa pig Saves Mummy Pig from the Hypnotic Spiral Trap! (uploaded 2026-07-21)",
+       "url": "https://www.youtube.com/watch?v=BfYClCxPwf4"
+      }
+     ],
+     "evidence": "YouTube titles + descriptions ('Mummy Pig has been hypnotized by a mysterious swirling spiral villain … up to Peppa pig to break the spell') + two comments",
+     "confidence_flag": "Low · unofficial uploads; titles and descriptions only (not from the official Peppa Pig series)",
+     "adult": "no",
+     "note": "Not an official Peppa Pig episode; kept as an online-video entry flagged Low.",
+     "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
+     "fit_note": "YouTube UNOFFICIAL fan/AI-style uploads, not official Peppa Pig episodes; description-only evidence. Low confidence."
+    }
+   }
   }
  ],
  "sections": [
@@ -515109,7 +516523,8 @@ window.CATALOG = {
     "hypnosis-imdb-list-oct24",
     "hypnosis-deep-oct25",
     "hypnosis-deep-oct25b",
-    "hypnosis-deep-oct25c"
+    "hypnosis-deep-oct25c",
+    "hypno-kids-witness-oct25"
    ],
    "groups": [
     {
@@ -515605,6 +517020,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-deep-oct25c"
+    },
+    {
+     "title": "Female hypnotized in front of her children — TV, film and YouTube (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3620,
+       "from_source": "hypno-kids-witness-oct25"
+      },
+      {
+       "id": 3631,
+       "from_source": "hypno-kids-witness-oct25"
+      }
+     ],
+     "from_source": "hypno-kids-witness-oct25"
     }
    ],
    "declared_count_by_source": {
@@ -515625,7 +517055,8 @@ window.CATALOG = {
     "hypnosis-imdb-list-oct24": null,
     "hypnosis-deep-oct25": null,
     "hypnosis-deep-oct25b": null,
-    "hypnosis-deep-oct25c": null
+    "hypnosis-deep-oct25c": null,
+    "hypno-kids-witness-oct25": null
    }
   },
   {
@@ -515658,7 +517089,8 @@ window.CATALOG = {
     "hypnosis-yt-oct15",
     "deep-refresh-oct18",
     "deep-oct24",
-    "hypnosis-deep-oct25c"
+    "hypnosis-deep-oct25c",
+    "hypno-kids-witness-oct25"
    ],
    "groups": [
     {
@@ -517822,6 +519254,25 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-deep-oct25c"
+    },
+    {
+     "title": "Female hypnotized in front of her children — TV, film and YouTube (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3622,
+       "from_source": "hypno-kids-witness-oct25"
+      },
+      {
+       "id": 3621,
+       "from_source": "hypno-kids-witness-oct25"
+      },
+      {
+       "id": 3632,
+       "from_source": "hypno-kids-witness-oct25"
+      }
+     ],
+     "from_source": "hypno-kids-witness-oct25"
     }
    ],
    "declared_count_by_source": {
@@ -517848,7 +519299,8 @@ window.CATALOG = {
     "hypnosis-yt-oct15": null,
     "deep-refresh-oct18": null,
     "deep-oct24": null,
-    "hypnosis-deep-oct25c": null
+    "hypnosis-deep-oct25c": null,
+    "hypno-kids-witness-oct25": null
    }
   },
   {
@@ -517860,7 +519312,8 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "worldwide-hypnosis",
-    "mother-kids-hypnosis"
+    "mother-kids-hypnosis",
+    "hypno-kids-witness-oct25"
    ],
    "groups": [
     {
@@ -518699,12 +520152,32 @@ window.CATALOG = {
       }
      ],
      "from_source": "mother-kids-hypnosis"
+    },
+    {
+     "title": "Female hypnotized in front of her children — TV, film and YouTube (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3629,
+       "from_source": "hypno-kids-witness-oct25"
+      },
+      {
+       "id": 3630,
+       "from_source": "hypno-kids-witness-oct25"
+      },
+      {
+       "id": 3628,
+       "from_source": "hypno-kids-witness-oct25"
+      }
+     ],
+     "from_source": "hypno-kids-witness-oct25"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 53,
     "worldwide-hypnosis": null,
-    "mother-kids-hypnosis": null
+    "mother-kids-hypnosis": null,
+    "hypno-kids-witness-oct25": null
    }
   },
   {
@@ -521491,7 +522964,8 @@ window.CATALOG = {
     "weekly-oct19",
     "deep-oct20",
     "deep-oct24",
-    "hypno-pregnant-yt-oct25"
+    "hypno-pregnant-yt-oct25",
+    "hypno-kids-witness-oct25"
    ],
    "groups": [
     {
@@ -525946,6 +527420,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypno-pregnant-yt-oct25"
+    },
+    {
+     "title": "Female hypnotized in front of her children — TV, film and YouTube (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3621,
+       "from_source": "hypno-kids-witness-oct25"
+      },
+      {
+       "id": 3620,
+       "from_source": "hypno-kids-witness-oct25"
+      }
+     ],
+     "from_source": "hypno-kids-witness-oct25"
     }
    ],
    "declared_count_by_source": {
@@ -525980,7 +527469,8 @@ window.CATALOG = {
     "weekly-oct19": null,
     "deep-oct20": null,
     "deep-oct24": null,
-    "hypno-pregnant-yt-oct25": null
+    "hypno-pregnant-yt-oct25": null,
+    "hypno-kids-witness-oct25": null
    }
   },
   {
@@ -528491,7 +529981,8 @@ window.CATALOG = {
     "hypnosis-deep-oct25",
     "hypnosis-deep-oct25b",
     "hypno-pregnant-yt-oct25",
-    "hypnosis-deep-oct25c"
+    "hypnosis-deep-oct25c",
+    "hypno-kids-witness-oct25"
    ],
    "groups": [
     {
@@ -529497,6 +530988,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-deep-oct25c"
+    },
+    {
+     "title": "Female hypnotized in front of her children — TV, film and YouTube (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3631,
+       "from_source": "hypno-kids-witness-oct25"
+      }
+     ],
+     "from_source": "hypno-kids-witness-oct25"
     }
    ],
    "declared_count_by_source": {
@@ -529521,7 +531023,8 @@ window.CATALOG = {
     "hypnosis-deep-oct25": null,
     "hypnosis-deep-oct25b": null,
     "hypno-pregnant-yt-oct25": null,
-    "hypnosis-deep-oct25c": null
+    "hypnosis-deep-oct25c": null,
+    "hypno-kids-witness-oct25": null
    }
   },
   {
@@ -529916,7 +531419,8 @@ window.CATALOG = {
     "hypnosis-yt-oct15",
     "deep-refresh-oct18",
     "deep-oct24",
-    "hypnosis-deep-oct25c"
+    "hypnosis-deep-oct25c",
+    "hypno-kids-witness-oct25"
    ],
    "groups": [
     {
@@ -532061,6 +533565,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-deep-oct25c"
+    },
+    {
+     "title": "Female hypnotized in front of her children — TV, film and YouTube (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3623,
+       "from_source": "hypno-kids-witness-oct25"
+      }
+     ],
+     "from_source": "hypno-kids-witness-oct25"
     }
    ],
    "declared_count_by_source": {
@@ -532087,7 +533602,8 @@ window.CATALOG = {
     "hypnosis-yt-oct15": null,
     "deep-refresh-oct18": null,
     "deep-oct24": null,
-    "hypnosis-deep-oct25c": null
+    "hypnosis-deep-oct25c": null,
+    "hypno-kids-witness-oct25": null
    }
   },
   {
@@ -534161,7 +535677,8 @@ window.CATALOG = {
     "deep-oct24",
     "hypnosis-deep-oct25",
     "hypnosis-deep-oct25b",
-    "hypno-pregnant-yt-oct25"
+    "hypno-pregnant-yt-oct25",
+    "hypno-kids-witness-oct25"
    ],
    "groups": [
     {
@@ -535812,6 +537329,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypno-pregnant-yt-oct25"
+    },
+    {
+     "title": "Female hypnotized in front of her children — TV, film and YouTube (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3624,
+       "from_source": "hypno-kids-witness-oct25"
+      },
+      {
+       "id": 3625,
+       "from_source": "hypno-kids-witness-oct25"
+      }
+     ],
+     "from_source": "hypno-kids-witness-oct25"
     }
    ],
    "declared_count_by_source": {
@@ -535851,7 +537383,8 @@ window.CATALOG = {
     "deep-oct24": null,
     "hypnosis-deep-oct25": null,
     "hypnosis-deep-oct25b": null,
-    "hypno-pregnant-yt-oct25": null
+    "hypno-pregnant-yt-oct25": null,
+    "hypno-kids-witness-oct25": null
    }
   },
   {
@@ -535930,7 +537463,8 @@ window.CATALOG = {
     "hypno-turkey-oct15",
     "hypnosis-yt-oct15",
     "deep-refresh-oct18",
-    "deep-oct24"
+    "deep-oct24",
+    "hypno-kids-witness-oct25"
    ],
    "groups": [
     {
@@ -536745,6 +538279,69 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-oct24"
+    },
+    {
+     "title": "Female hypnotized in front of her children — TV, film and YouTube (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3624,
+       "from_source": "hypno-kids-witness-oct25"
+      },
+      {
+       "id": 3622,
+       "from_source": "hypno-kids-witness-oct25"
+      },
+      {
+       "id": 3627,
+       "from_source": "hypno-kids-witness-oct25"
+      },
+      {
+       "id": 3629,
+       "from_source": "hypno-kids-witness-oct25"
+      },
+      {
+       "id": 3621,
+       "from_source": "hypno-kids-witness-oct25"
+      },
+      {
+       "id": 3626,
+       "from_source": "hypno-kids-witness-oct25"
+      },
+      {
+       "id": 3630,
+       "from_source": "hypno-kids-witness-oct25"
+      },
+      {
+       "id": 3623,
+       "from_source": "hypno-kids-witness-oct25"
+      },
+      {
+       "id": 3625,
+       "from_source": "hypno-kids-witness-oct25"
+      },
+      {
+       "id": 3094,
+       "from_source": "hypno-kids-witness-oct25"
+      },
+      {
+       "id": 3632,
+       "from_source": "hypno-kids-witness-oct25"
+      },
+      {
+       "id": 3620,
+       "from_source": "hypno-kids-witness-oct25"
+      },
+      {
+       "id": 3631,
+       "from_source": "hypno-kids-witness-oct25"
+      },
+      {
+       "id": 3628,
+       "from_source": "hypno-kids-witness-oct25"
+      }
+     ],
+     "from_source": "hypno-kids-witness-oct25"
     }
    ],
    "declared_count_by_source": {
@@ -536758,7 +538355,8 @@ window.CATALOG = {
     "hypno-turkey-oct15": null,
     "hypnosis-yt-oct15": null,
     "deep-refresh-oct18": null,
-    "deep-oct24": null
+    "deep-oct24": null,
+    "hypno-kids-witness-oct25": null
    }
   },
   {
