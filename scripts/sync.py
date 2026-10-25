@@ -170,6 +170,8 @@ SOURCES = [
      "local": "sources/deep-oct24.json", "required": False},
     {"id": "hypno-india-oct24", "label": "Indian-media female-hypnosis max-list sweep (24 Oct 2026)",
      "local": "sources/hypno-india-oct24.json", "required": False},
+    {"id": "hypnosis-imdb-list-oct24", "label": "IMDb list: Hypnotized Women in TV and Film (24 Oct 2026)",
+     "local": "sources/hypnosis-imdb-list-oct24.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
