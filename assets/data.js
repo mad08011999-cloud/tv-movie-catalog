@@ -5410,6 +5410,26 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "pregnant-scenes-oct25",
+   "label": "Pregnant-character sex-scene sweep (25 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/pregnant-scenes-oct25.json",
+   "description": "Films, series and adult-industry titles with a visibly pregnant adult female character in a sex or intimate scene. Sweep of 25 Oct 2026 across Wikipedia, IMDb parents guides, CringeMDb, trade reviews and adult-industry catalogues. Adults only; hardcore entries are text-only, labelled and hidden behind the hardcore toggle. Most mainstream matches were already in the catalog and were deduplicated.",
+   "dropped": [
+    "Reddit / Letterboxd / IMDb keyword pages (blocked or login-gated, not bypassed)",
+    "Kinda Pregnant (2025): fake pregnancy, sex scene played for comedy",
+    "Sunlight Jr., We Live in Time, Son de mar: pregnant-sex timing not verified",
+    "Jamón Jamón, April's Daughters, Euphoria, Little Fires Everywhere: minor or unclear-age characters",
+    "Loving (2012), Backwater: non-consensual scenes",
+    "Munich (2005): already added by the parallel pregnant-intimate-oct25 sweep"
+   ],
+   "check": {
+    "raw_count": 9,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -5481,10 +5501,11 @@ window.CATALOG = {
   "hypnosis-deep-oct25": 132,
   "hypnosis-deep-oct25b": 41,
   "hypno-pregnant-yt-oct25": 7,
-  "pregnant-intimate-oct25": 28
+  "pregnant-intimate-oct25": 28,
+  "pregnant-scenes-oct25": 9
  },
- "raw_total": 6552,
- "entry_count": 3455,
+ "raw_total": 6561,
+ "entry_count": 3464,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -5604,7 +5625,7 @@ window.CATALOG = {
    "key": "hardcore-adult",
    "label": "Hardcore / adult",
    "legend_label": "Hardcore / adult",
-   "entry_count": 3
+   "entry_count": 8
   },
   {
    "key": "index-58",
@@ -5688,7 +5709,7 @@ window.CATALOG = {
    "key": "erotic-mainstream",
    "label": "Mainstream erotic / erotic-thriller / erotic-drama (rated releases)",
    "legend_label": "Mainstream erotic / erotic-thriller / erotic-drama (rated releases)",
-   "entry_count": 135
+   "entry_count": 136
   },
   {
    "key": "medical",
@@ -5802,7 +5823,7 @@ window.CATALOG = {
    "key": "pregnant-sex",
    "label": "Pregnant characters having sex",
    "legend_label": "Pregnant characters having sex",
-   "entry_count": 66
+   "entry_count": 72
   },
   {
    "key": "pregnant-female",
@@ -5814,7 +5835,7 @@ window.CATALOG = {
    "key": "pregnant-intimate",
    "label": "Pregnant intimate scenes",
    "legend_label": "Pregnant intimate scenes",
-   "entry_count": 21
+   "entry_count": 24
   },
   {
    "key": "pregnant-lesbian-intimate",
@@ -506064,6 +506085,853 @@ window.CATALOG = {
      "evidence": "Single source (TV Tropes)"
     }
    }
+  },
+  {
+   "id": 3595,
+   "title": "Doula",
+   "subtitle": "",
+   "year": "2022",
+   "meta": "Film · United States · English · R-rated comedy",
+   "mechanism": "Sex scene while visibly pregnant",
+   "confidence_flag": "Loose fit",
+   "summary": "A pregnant couple hire a live-in doula after their midwife dies. Common Sense Media flags explicit sexual content and nudity, including the husband attempting sex with his pregnant partner; the exact on-screen moaning level is not documented.",
+   "character": "The pregnant partner (see sources)",
+   "provenance": "Pregnant-character sex-scene sweep, 25 Oct 2026 PT",
+   "note": "Loose fit: sex is attempted with a pregnant partner per Common Sense Media; whether she moans is not documented. Character name and kids-before not established from the sources read.",
+   "pregnant_has_children": "unknown",
+   "tags": [
+    "moaning"
+   ],
+   "kids_status": "unknown",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown (birth film; not established)",
+   "format": "movie",
+   "categories": [
+    "pregnant-intimate"
+   ],
+   "sources": [
+    {
+     "label": "Common Sense Media",
+     "url": "https://www.commonsensemedia.org/movie-reviews/doula"
+    },
+    {
+     "label": "BBFC",
+     "url": "https://www.bbfc.co.uk/release/doula-q29sbgvjdglvbjpwwc0xmdazntaw"
+    },
+    {
+     "label": "CringeMDb",
+     "url": "https://cringemdb.com/movie/doula-2022"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Doula_(film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-scenes-oct25"
+   ],
+   "source_records": [
+    "pregnant-scenes-oct25:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-scenes-oct25:1": {
+     "title": "Doula",
+     "year": "2022",
+     "format": "movie",
+     "meta": "Film · United States · English · R-rated comedy",
+     "summary": "A pregnant couple hire a live-in doula after their midwife dies. Common Sense Media flags explicit sexual content and nudity, including the husband attempting sex with his pregnant partner; the exact on-screen moaning level is not documented.",
+     "character": "The pregnant partner (see sources)",
+     "categories": [
+      "pregnant-intimate"
+     ],
+     "group": "Pregnant characters having sex",
+     "mechanism": "Sex scene while visibly pregnant",
+     "sources": [
+      {
+       "label": "Common Sense Media",
+       "url": "https://www.commonsensemedia.org/movie-reviews/doula"
+      },
+      {
+       "label": "BBFC",
+       "url": "https://www.bbfc.co.uk/release/doula-q29sbgvjdglvbjpwwc0xmdazntaw"
+      },
+      {
+       "label": "CringeMDb",
+       "url": "https://cringemdb.com/movie/doula-2022"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Doula_(film)"
+      }
+     ],
+     "confidence_flag": "Loose fit",
+     "note": "Loose fit: sex is attempted with a pregnant partner per Common Sense Media; whether she moans is not documented. Character name and kids-before not established from the sources read.",
+     "provenance": "Pregnant-character sex-scene sweep, 25 Oct 2026 PT",
+     "pregnant_has_children": "unknown",
+     "kids_status": "unknown",
+     "kids_together": "unknown",
+     "pregnant_end": "unknown (birth film; not established)",
+     "standalone": true,
+     "tags": [
+      "moaning"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3596,
+   "title": "Le Refuge (The Refuge)",
+   "subtitle": "",
+   "year": "2009",
+   "meta": "Film · France · French · dir. François Ozon",
+   "mechanism": "Sex scene while visibly pregnant",
+   "confidence_flag": "Loose fit",
+   "summary": "Mousse, pregnant by her late partner Louis, retreats to a seaside house where his brother Paul joins her; a tender, intimate bond develops and one review says they make love. Isabelle Carré was really pregnant during filming. Already has children: no. Pregnant at the end: no — she has given birth to a daughter.",
+   "character": "Mousse (Isabelle Carré)",
+   "provenance": "Pregnant-character sex-scene sweep, 25 Oct 2026 PT",
+   "note": "Loose fit: only one review states they make love; critics stress the bond is unconventional (Paul is gay). Moaning not documented.",
+   "pregnant_has_children": "no",
+   "tags": [
+    "moaning"
+   ],
+   "kids_status": "no",
+   "kids_together": "no (the father Louis dies early; Paul is not the father)",
+   "pregnant_end": "no (gave birth)",
+   "format": "movie",
+   "categories": [
+    "pregnant-intimate"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Refuge_%28film%29"
+    },
+    {
+     "label": "Screen Daily",
+     "url": "https://www.screendaily.com/the-refuge-le-refuge/5005600.article"
+    },
+    {
+     "label": "New York Times",
+     "url": "https://www.nytimes.com/2010/09/10/movies/10hideaway.html"
+    },
+    {
+     "label": "Boycotting Trends review",
+     "url": "http://boycottingtrends.blogspot.com/2010/08/le-refuge-2009.html"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-scenes-oct25"
+   ],
+   "source_records": [
+    "pregnant-scenes-oct25:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-scenes-oct25:2": {
+     "title": "Le Refuge (The Refuge)",
+     "year": "2009",
+     "format": "movie",
+     "meta": "Film · France · French · dir. François Ozon",
+     "summary": "Mousse, pregnant by her late partner Louis, retreats to a seaside house where his brother Paul joins her; a tender, intimate bond develops and one review says they make love. Isabelle Carré was really pregnant during filming. Already has children: no. Pregnant at the end: no — she has given birth to a daughter.",
+     "character": "Mousse (Isabelle Carré)",
+     "categories": [
+      "pregnant-intimate"
+     ],
+     "group": "Pregnant characters having sex",
+     "mechanism": "Sex scene while visibly pregnant",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Refuge_%28film%29"
+      },
+      {
+       "label": "Screen Daily",
+       "url": "https://www.screendaily.com/the-refuge-le-refuge/5005600.article"
+      },
+      {
+       "label": "New York Times",
+       "url": "https://www.nytimes.com/2010/09/10/movies/10hideaway.html"
+      },
+      {
+       "label": "Boycotting Trends review",
+       "url": "http://boycottingtrends.blogspot.com/2010/08/le-refuge-2009.html"
+      }
+     ],
+     "confidence_flag": "Loose fit",
+     "note": "Loose fit: only one review states they make love; critics stress the bond is unconventional (Paul is gay). Moaning not documented.",
+     "provenance": "Pregnant-character sex-scene sweep, 25 Oct 2026 PT",
+     "pregnant_has_children": "no",
+     "kids_status": "no",
+     "kids_together": "no (the father Louis dies early; Paul is not the father)",
+     "pregnant_end": "no (gave birth)",
+     "standalone": true,
+     "tags": [
+      "moaning"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3597,
+   "title": "My Friend & His Wife (나의 친구, 그의 아내)",
+   "subtitle": "",
+   "year": "2008",
+   "meta": "Film · South Korea · Korean · drama",
+   "mechanism": "Sex scene while visibly pregnant",
+   "confidence_flag": "Loose fit",
+   "summary": "Ji-sook is pregnant and later has a son, Min-hyuk; after the boy's death caused by her husband's friend Ye-joon and her husband's imprisonment, she begins an affair with Ye-joon. A sex scene while she is visibly pregnant is not confirmed in sources read. Already has children: no (the son is born during the story and dies). Pregnant at the end: no.",
+   "character": "Ji-sook (Hong So-hee)",
+   "provenance": "Pregnant-character sex-scene sweep, 25 Oct 2026 PT",
+   "note": "Loose fit: pregnancy and the later affair are verified; a sex scene while pregnant is not.",
+   "pregnant_has_children": "no",
+   "tags": [
+    "moaning"
+   ],
+   "kids_status": "no",
+   "kids_together": "yes (a son, who dies)",
+   "pregnant_end": "no",
+   "format": "movie",
+   "categories": [
+    "pregnant-intimate"
+   ],
+   "sources": [
+    {
+     "label": "KMDb",
+     "url": "https://www.kmdb.or.kr/db/kor/detail/movie/K/08518"
+    },
+    {
+     "label": "MyDramaList",
+     "url": "https://mydramalist.com/1554-my-friend-his-wife"
+    },
+    {
+     "label": "AsianWiki",
+     "url": "https://asianwiki.com/My_Friend_and_His_Wife"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-scenes-oct25"
+   ],
+   "source_records": [
+    "pregnant-scenes-oct25:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-scenes-oct25:3": {
+     "title": "My Friend & His Wife (나의 친구, 그의 아내)",
+     "year": "2008",
+     "format": "movie",
+     "meta": "Film · South Korea · Korean · drama",
+     "summary": "Ji-sook is pregnant and later has a son, Min-hyuk; after the boy's death caused by her husband's friend Ye-joon and her husband's imprisonment, she begins an affair with Ye-joon. A sex scene while she is visibly pregnant is not confirmed in sources read. Already has children: no (the son is born during the story and dies). Pregnant at the end: no.",
+     "character": "Ji-sook (Hong So-hee)",
+     "categories": [
+      "pregnant-intimate"
+     ],
+     "group": "Pregnant characters having sex",
+     "mechanism": "Sex scene while visibly pregnant",
+     "sources": [
+      {
+       "label": "KMDb",
+       "url": "https://www.kmdb.or.kr/db/kor/detail/movie/K/08518"
+      },
+      {
+       "label": "MyDramaList",
+       "url": "https://mydramalist.com/1554-my-friend-his-wife"
+      },
+      {
+       "label": "AsianWiki",
+       "url": "https://asianwiki.com/My_Friend_and_His_Wife"
+      }
+     ],
+     "confidence_flag": "Loose fit",
+     "note": "Loose fit: pregnancy and the later affair are verified; a sex scene while pregnant is not.",
+     "provenance": "Pregnant-character sex-scene sweep, 25 Oct 2026 PT",
+     "pregnant_has_children": "no",
+     "kids_status": "no",
+     "kids_together": "yes (a son, who dies)",
+     "pregnant_end": "no",
+     "standalone": true,
+     "tags": [
+      "moaning"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3598,
+   "title": "Salisihan (孕妇的诱惑)",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "Film · Philippines · Tagalog · Vivamax R-18 drama, 48 min · dir. Iar Arondaing",
+   "mechanism": "Sex scene while visibly pregnant",
+   "confidence_flag": "Loose fit",
+   "summary": "A childless couple, Dan and Anna, are upended when pregnant Sophie arrives looking for Dan's unknown son. Reviews describe explicit softcore sex scenes among the characters, including Dan and Sophie; Sophie later miscarries and then becomes pregnant again. Already has children: not established for Sophie. Pregnant at the end: yes (pregnant again).",
+   "character": "Sophie (pregnant newcomer)",
+   "provenance": "Pregnant-character sex-scene sweep, 25 Oct 2026 PT",
+   "note": "Loose fit: the Dan–Sophie sex scene is described but its timing against her visible pregnancy is not stated. Rated R-18; listed in text only.",
+   "pregnant_has_children": "unknown",
+   "tags": [
+    "moaning"
+   ],
+   "kids_status": "unknown",
+   "kids_together": "no (Dan and Anna are childless)",
+   "pregnant_end": "yes (pregnant again at the end)",
+   "rating": "R-18",
+   "adult": "yes",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex",
+    "erotic-mainstream"
+   ],
+   "sources": [
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt31389998/"
+    },
+    {
+     "label": "WilfMovies",
+     "url": "https://wilfmovies.com/movies/salisihan-2024/"
+    },
+    {
+     "label": "Fred Said review",
+     "url": "http://said-fred.blogspot.com/2024/03/vivamax-mini-reviews-of-salisihan-and.html"
+    },
+    {
+     "label": "MyDramaList",
+     "url": "https://mydramalist.com/764881-salisihan"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-scenes-oct25"
+   ],
+   "source_records": [
+    "pregnant-scenes-oct25:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-scenes-oct25:4": {
+     "title": "Salisihan (孕妇的诱惑)",
+     "year": "2024",
+     "format": "movie",
+     "meta": "Film · Philippines · Tagalog · Vivamax R-18 drama, 48 min · dir. Iar Arondaing",
+     "summary": "A childless couple, Dan and Anna, are upended when pregnant Sophie arrives looking for Dan's unknown son. Reviews describe explicit softcore sex scenes among the characters, including Dan and Sophie; Sophie later miscarries and then becomes pregnant again. Already has children: not established for Sophie. Pregnant at the end: yes (pregnant again).",
+     "character": "Sophie (pregnant newcomer)",
+     "categories": [
+      "pregnant-sex",
+      "erotic-mainstream"
+     ],
+     "group": "Pregnant characters having sex",
+     "mechanism": "Sex scene while visibly pregnant",
+     "sources": [
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt31389998/"
+      },
+      {
+       "label": "WilfMovies",
+       "url": "https://wilfmovies.com/movies/salisihan-2024/"
+      },
+      {
+       "label": "Fred Said review",
+       "url": "http://said-fred.blogspot.com/2024/03/vivamax-mini-reviews-of-salisihan-and.html"
+      },
+      {
+       "label": "MyDramaList",
+       "url": "https://mydramalist.com/764881-salisihan"
+      }
+     ],
+     "confidence_flag": "Loose fit",
+     "note": "Loose fit: the Dan–Sophie sex scene is described but its timing against her visible pregnancy is not stated. Rated R-18; listed in text only.",
+     "provenance": "Pregnant-character sex-scene sweep, 25 Oct 2026 PT",
+     "pregnant_has_children": "unknown",
+     "kids_status": "unknown",
+     "kids_together": "no (Dan and Anna are childless)",
+     "pregnant_end": "yes (pregnant again at the end)",
+     "standalone": true,
+     "tags": [
+      "moaning"
+     ],
+     "adult": "yes",
+     "rating": "R-18"
+    }
+   }
+  },
+  {
+   "id": 3599,
+   "title": "Birth (Adult Time feature)",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "Adult film · United States · English · dir. Bree Mills · Adult Time (adult-industry release)",
+   "mechanism": "Sex scene while visibly pregnant",
+   "confidence_flag": "Medium",
+   "summary": "Psychological pregnancy thriller: Laura and Matthew struggle with fertility, then she becomes pregnant and suffers severe morning sickness and disturbing dreams while a hired doula's relationship with Matthew turns unsettling. XBIZ praised its sex scenes and bold depiction of pregnancy. Already has children: no. Pregnant at the end: see sources (not confirmed).",
+   "character": "Laura (Casey Calvert)",
+   "provenance": "Pregnant-character sex-scene sweep, 25 Oct 2026 PT",
+   "note": "Adult-industry release; performers' ages are not independently verified from the listings. Text-only listing, no media.",
+   "pregnant_has_children": "no",
+   "tags": [
+    "hardcore",
+    "adult"
+   ],
+   "kids_status": "no",
+   "kids_together": "no (trying to conceive)",
+   "pregnant_end": "unknown",
+   "rating": "X (hardcore)",
+   "adult": "yes",
+   "content_label": "Hardcore / adult",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "XBIZ news",
+     "url": "https://www.xbiz.com/news/284200/adult-time-premieres-bree-mills-psychological-thriller-birth"
+    },
+    {
+     "label": "XBIZ review",
+     "url": "https://www.xbiz.com/movies/286689/birth"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-scenes-oct25"
+   ],
+   "source_records": [
+    "pregnant-scenes-oct25:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-scenes-oct25:5": {
+     "title": "Birth (Adult Time feature)",
+     "year": "2024",
+     "format": "movie",
+     "meta": "Adult film · United States · English · dir. Bree Mills · Adult Time (adult-industry release)",
+     "summary": "Psychological pregnancy thriller: Laura and Matthew struggle with fertility, then she becomes pregnant and suffers severe morning sickness and disturbing dreams while a hired doula's relationship with Matthew turns unsettling. XBIZ praised its sex scenes and bold depiction of pregnancy. Already has children: no. Pregnant at the end: see sources (not confirmed).",
+     "character": "Laura (Casey Calvert)",
+     "categories": [
+      "pregnant-sex",
+      "hardcore-adult"
+     ],
+     "group": "Hardcore / adult listings (text only)",
+     "mechanism": "Sex scene while visibly pregnant",
+     "sources": [
+      {
+       "label": "XBIZ news",
+       "url": "https://www.xbiz.com/news/284200/adult-time-premieres-bree-mills-psychological-thriller-birth"
+      },
+      {
+       "label": "XBIZ review",
+       "url": "https://www.xbiz.com/movies/286689/birth"
+      }
+     ],
+     "confidence_flag": "Medium",
+     "note": "Adult-industry release; performers' ages are not independently verified from the listings. Text-only listing, no media.",
+     "provenance": "Pregnant-character sex-scene sweep, 25 Oct 2026 PT",
+     "pregnant_has_children": "no",
+     "kids_status": "no",
+     "kids_together": "no (trying to conceive)",
+     "pregnant_end": "unknown",
+     "standalone": true,
+     "tags": [
+      "hardcore",
+      "adult"
+     ],
+     "no_media": true,
+     "adult": "yes",
+     "rating": "X (hardcore)",
+     "content_label": "Hardcore / adult"
+    }
+   }
+  },
+  {
+   "id": 3600,
+   "title": "Preggo World (Adult Time series)",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "Adult series · United States · English · Adult Time",
+   "mechanism": "Sex scene while visibly pregnant",
+   "confidence_flag": "Loose fit",
+   "summary": "Adult-industry series built around pregnant performers and characters; launched by Adult Time after its feature Birth. Per-episode plots and kids-before details are not documented in the listing.",
+   "character": "Various pregnant characters",
+   "provenance": "Pregnant-character sex-scene sweep, 25 Oct 2026 PT",
+   "note": "Loose fit: series-level listing only; kids and pregnancy-at-end vary by episode and were not checked. Performers' ages not independently verified. Text-only.",
+   "pregnant_has_children": "varies",
+   "tags": [
+    "hardcore",
+    "adult"
+   ],
+   "kids_status": "varies",
+   "kids_together": "varies",
+   "pregnant_end": "varies",
+   "rating": "X (hardcore)",
+   "adult": "yes",
+   "content_label": "Hardcore / adult",
+   "format": "tv",
+   "categories": [
+    "pregnant-sex",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "XBIZ news",
+     "url": "https://www.xbiz.com/news/285063/adult-time-launches-new-series-preggo-world"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-scenes-oct25"
+   ],
+   "source_records": [
+    "pregnant-scenes-oct25:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-scenes-oct25:6": {
+     "title": "Preggo World (Adult Time series)",
+     "year": "2024",
+     "format": "tv",
+     "meta": "Adult series · United States · English · Adult Time",
+     "summary": "Adult-industry series built around pregnant performers and characters; launched by Adult Time after its feature Birth. Per-episode plots and kids-before details are not documented in the listing.",
+     "character": "Various pregnant characters",
+     "categories": [
+      "pregnant-sex",
+      "hardcore-adult"
+     ],
+     "group": "Hardcore / adult listings (text only)",
+     "mechanism": "Sex scene while visibly pregnant",
+     "sources": [
+      {
+       "label": "XBIZ news",
+       "url": "https://www.xbiz.com/news/285063/adult-time-launches-new-series-preggo-world"
+      }
+     ],
+     "confidence_flag": "Loose fit",
+     "note": "Loose fit: series-level listing only; kids and pregnancy-at-end vary by episode and were not checked. Performers' ages not independently verified. Text-only.",
+     "provenance": "Pregnant-character sex-scene sweep, 25 Oct 2026 PT",
+     "pregnant_has_children": "varies",
+     "kids_status": "varies",
+     "kids_together": "varies",
+     "pregnant_end": "varies",
+     "standalone": true,
+     "tags": [
+      "hardcore",
+      "adult"
+     ],
+     "no_media": true,
+     "adult": "yes",
+     "rating": "X (hardcore)",
+     "content_label": "Hardcore / adult"
+    }
+   }
+  },
+  {
+   "id": 3601,
+   "title": "Pregnant & Pounded (series)",
+   "subtitle": "",
+   "year": "2014",
+   "meta": "Adult series · United States · English · Desperate Pleasures (vol. 4 released 19 May 2017, 87 min)",
+   "mechanism": "Sex scene while visibly pregnant",
+   "confidence_flag": "Loose fit",
+   "summary": "Long-running adult-industry compilation-style series built around visibly pregnant performers having sex scenes; the original volume dates to 2014 and volume 4 (2017) is catalogued. Narrative plot, kids-before and pregnant-at-end are not documented.",
+   "character": "Various pregnant performers",
+   "provenance": "Pregnant-character sex-scene sweep, 25 Oct 2026 PT",
+   "note": "Loose fit: series listing only; no plot-level pregnancy history. Performers' ages not independently verified. Text-only.",
+   "pregnant_has_children": "unknown",
+   "tags": [
+    "hardcore",
+    "adult"
+   ],
+   "kids_status": "unknown",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "rating": "X (hardcore)",
+   "adult": "yes",
+   "content_label": "Hardcore / adult",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "IMDb (Pregnant and Pounded, 2014)",
+     "url": "https://www.imdb.com/title/tt5070074/"
+    },
+    {
+     "label": "Moviepad (vol. 4, 2017)",
+     "url": "https://moviepad.app/movie/1295644-pregnant-and-pounded-4"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-scenes-oct25"
+   ],
+   "source_records": [
+    "pregnant-scenes-oct25:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-scenes-oct25:7": {
+     "title": "Pregnant & Pounded (series)",
+     "year": "2014",
+     "format": "movie",
+     "meta": "Adult series · United States · English · Desperate Pleasures (vol. 4 released 19 May 2017, 87 min)",
+     "summary": "Long-running adult-industry compilation-style series built around visibly pregnant performers having sex scenes; the original volume dates to 2014 and volume 4 (2017) is catalogued. Narrative plot, kids-before and pregnant-at-end are not documented.",
+     "character": "Various pregnant performers",
+     "categories": [
+      "pregnant-sex",
+      "hardcore-adult"
+     ],
+     "group": "Hardcore / adult listings (text only)",
+     "mechanism": "Sex scene while visibly pregnant",
+     "sources": [
+      {
+       "label": "IMDb (Pregnant and Pounded, 2014)",
+       "url": "https://www.imdb.com/title/tt5070074/"
+      },
+      {
+       "label": "Moviepad (vol. 4, 2017)",
+       "url": "https://moviepad.app/movie/1295644-pregnant-and-pounded-4"
+      }
+     ],
+     "confidence_flag": "Loose fit",
+     "note": "Loose fit: series listing only; no plot-level pregnancy history. Performers' ages not independently verified. Text-only.",
+     "provenance": "Pregnant-character sex-scene sweep, 25 Oct 2026 PT",
+     "pregnant_has_children": "unknown",
+     "kids_status": "unknown",
+     "kids_together": "unknown",
+     "pregnant_end": "unknown",
+     "standalone": true,
+     "tags": [
+      "hardcore",
+      "adult"
+     ],
+     "no_media": true,
+     "adult": "yes",
+     "rating": "X (hardcore)",
+     "content_label": "Hardcore / adult"
+    }
+   }
+  },
+  {
+   "id": 3602,
+   "title": "妊婦大好き (Ninpu Daisuki) series",
+   "subtitle": "",
+   "year": "2008",
+   "meta": "Adult series · Japan · Japanese · Sanctuary (formerly Mamadoll) · 55 volumes, 2008–2019",
+   "mechanism": "Sex scene while visibly pregnant",
+   "confidence_flag": "Loose fit",
+   "summary": "Japanese adult-video series devoted to pregnant women, 55 volumes from 2008 to 2019 (latest, vol. 60 ボテ腹FUCK大全集!, 22 Jul 2019). Per-volume storylines are generally not documented in the listings.",
+   "character": "Various pregnant performers",
+   "provenance": "Pregnant-character sex-scene sweep, 25 Oct 2026 PT",
+   "note": "Loose fit: series-level catalogue listing; kids and pregnancy-at-end vary by volume and were not checked. Performers' ages not independently verified. Text-only.",
+   "pregnant_has_children": "varies",
+   "tags": [
+    "hardcore",
+    "adult"
+   ],
+   "kids_status": "varies",
+   "kids_together": "varies",
+   "pregnant_end": "varies",
+   "rating": "X (hardcore)",
+   "adult": "yes",
+   "content_label": "Hardcore / adult",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "CodeAV series list",
+     "url": "https://www.codeav.net/en/series/n-789f0091fecd"
+    },
+    {
+     "label": "AVDARE series",
+     "url": "https://avdare.jp/series/%E5%A6%8A%E5%A9%A6%E5%A4%A7%E5%A5%BD%E3%81%8D"
+    },
+    {
+     "label": "ToLaFa",
+     "url": "https://tolafa.com/en/series/2p2"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-scenes-oct25"
+   ],
+   "source_records": [
+    "pregnant-scenes-oct25:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-scenes-oct25:8": {
+     "title": "妊婦大好き (Ninpu Daisuki) series",
+     "year": "2008",
+     "format": "movie",
+     "meta": "Adult series · Japan · Japanese · Sanctuary (formerly Mamadoll) · 55 volumes, 2008–2019",
+     "summary": "Japanese adult-video series devoted to pregnant women, 55 volumes from 2008 to 2019 (latest, vol. 60 ボテ腹FUCK大全集!, 22 Jul 2019). Per-volume storylines are generally not documented in the listings.",
+     "character": "Various pregnant performers",
+     "categories": [
+      "pregnant-sex",
+      "hardcore-adult"
+     ],
+     "group": "Hardcore / adult listings (text only)",
+     "mechanism": "Sex scene while visibly pregnant",
+     "sources": [
+      {
+       "label": "CodeAV series list",
+       "url": "https://www.codeav.net/en/series/n-789f0091fecd"
+      },
+      {
+       "label": "AVDARE series",
+       "url": "https://avdare.jp/series/%E5%A6%8A%E5%A9%A6%E5%A4%A7%E5%A5%BD%E3%81%8D"
+      },
+      {
+       "label": "ToLaFa",
+       "url": "https://tolafa.com/en/series/2p2"
+      }
+     ],
+     "confidence_flag": "Loose fit",
+     "note": "Loose fit: series-level catalogue listing; kids and pregnancy-at-end vary by volume and were not checked. Performers' ages not independently verified. Text-only.",
+     "provenance": "Pregnant-character sex-scene sweep, 25 Oct 2026 PT",
+     "pregnant_has_children": "varies",
+     "kids_status": "varies",
+     "kids_together": "varies",
+     "pregnant_end": "varies",
+     "standalone": true,
+     "tags": [
+      "hardcore",
+      "adult"
+     ],
+     "no_media": true,
+     "adult": "yes",
+     "rating": "X (hardcore)",
+     "content_label": "Hardcore / adult"
+    }
+   }
+  },
+  {
+   "id": 3603,
+   "title": "Pregnant Amateurs (ATKingdom series)",
+   "subtitle": "",
+   "year": "Year unverified",
+   "meta": "Adult series · United States · English · ATKingdom",
+   "mechanism": "Sex scene while visibly pregnant",
+   "confidence_flag": "Loose fit",
+   "summary": "Amateur-style adult series featuring pregnant performers; listed in The Couch Critic's collection. Plot-level details are not documented.",
+   "character": "Various pregnant performers",
+   "provenance": "Pregnant-character sex-scene sweep, 25 Oct 2026 PT",
+   "note": "Loose fit and release year approximate: only a collection page was used. Performers' ages not independently verified. Text-only.",
+   "pregnant_has_children": "unknown",
+   "tags": [
+    "hardcore",
+    "adult"
+   ],
+   "kids_status": "unknown",
+   "kids_together": "unknown",
+   "pregnant_end": "unknown",
+   "rating": "X (hardcore)",
+   "adult": "yes",
+   "content_label": "Hardcore / adult",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex",
+    "hardcore-adult"
+   ],
+   "sources": [
+    {
+     "label": "The Couch Critic",
+     "url": "https://www.thecouchcritic.com/Collections/1623531"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-scenes-oct25"
+   ],
+   "source_records": [
+    "pregnant-scenes-oct25:9"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-scenes-oct25:9": {
+     "title": "Pregnant Amateurs (ATKingdom series)",
+     "year": "Year unverified",
+     "format": "movie",
+     "meta": "Adult series · United States · English · ATKingdom",
+     "summary": "Amateur-style adult series featuring pregnant performers; listed in The Couch Critic's collection. Plot-level details are not documented.",
+     "character": "Various pregnant performers",
+     "categories": [
+      "pregnant-sex",
+      "hardcore-adult"
+     ],
+     "group": "Hardcore / adult listings (text only)",
+     "mechanism": "Sex scene while visibly pregnant",
+     "sources": [
+      {
+       "label": "The Couch Critic",
+       "url": "https://www.thecouchcritic.com/Collections/1623531"
+      }
+     ],
+     "confidence_flag": "Loose fit",
+     "note": "Loose fit and release year approximate: only a collection page was used. Performers' ages not independently verified. Text-only.",
+     "provenance": "Pregnant-character sex-scene sweep, 25 Oct 2026 PT",
+     "pregnant_has_children": "unknown",
+     "kids_status": "unknown",
+     "kids_together": "unknown",
+     "pregnant_end": "unknown",
+     "standalone": true,
+     "tags": [
+      "hardcore",
+      "adult"
+     ],
+     "no_media": true,
+     "adult": "yes",
+     "rating": "X (hardcore)",
+     "content_label": "Hardcore / adult"
+    }
+   }
   }
  ],
  "sections": [
@@ -518943,16 +519811,22 @@ window.CATALOG = {
    "description": "",
    "notes": [],
    "from_sources": [
-    "adult-fanmade-oct15"
+    "adult-fanmade-oct15",
+    "pregnant-scenes-oct25"
    ],
    "declared_count_by_source": {
-    "adult-fanmade-oct15": null
+    "adult-fanmade-oct15": null,
+    "pregnant-scenes-oct25": null
    },
    "groups": [
     {
      "title": "Hardcore / adult listings (text only)",
      "notes": [],
      "items": [
+      {
+       "id": 3599,
+       "from_source": "pregnant-scenes-oct25"
+      },
       {
        "id": 3107,
        "from_source": "adult-fanmade-oct15"
@@ -518962,8 +519836,24 @@ window.CATALOG = {
        "from_source": "adult-fanmade-oct15"
       },
       {
+       "id": 3600,
+       "from_source": "pregnant-scenes-oct25"
+      },
+      {
+       "id": 3601,
+       "from_source": "pregnant-scenes-oct25"
+      },
+      {
+       "id": 3603,
+       "from_source": "pregnant-scenes-oct25"
+      },
+      {
        "id": 1755,
        "from_source": "adult-fanmade-oct15"
+      },
+      {
+       "id": 3602,
+       "from_source": "pregnant-scenes-oct25"
       }
      ],
      "from_source": "adult-fanmade-oct15"
@@ -530981,7 +531871,8 @@ window.CATALOG = {
     "youtube-sweep-oct15",
     "pregnancy-yt-oct15",
     "hypnosis-yt-oct15",
-    "youtube-india-oct15"
+    "youtube-india-oct15",
+    "pregnant-scenes-oct25"
    ],
    "declared_count_by_source": {
     "mainstream-erotic": null,
@@ -530990,7 +531881,8 @@ window.CATALOG = {
     "youtube-sweep-oct15": null,
     "pregnancy-yt-oct15": null,
     "hypnosis-yt-oct15": null,
-    "youtube-india-oct15": null
+    "youtube-india-oct15": null,
+    "pregnant-scenes-oct25": null
    },
    "groups": [
     {
@@ -531602,6 +532494,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "youtube-india-oct15"
+    },
+    {
+     "title": "Pregnant characters having sex",
+     "notes": [],
+     "items": [
+      {
+       "id": 3598,
+       "from_source": "pregnant-scenes-oct25"
+      }
+     ],
+     "from_source": "pregnant-scenes-oct25"
     }
    ]
   },
@@ -541103,7 +542006,8 @@ window.CATALOG = {
     "pregnant-intimacy",
     "lesbian-pregnancy",
     "round2",
-    "pregnant-intimate-oct25"
+    "pregnant-intimate-oct25",
+    "pregnant-scenes-oct25"
    ],
    "groups": [
     {
@@ -541802,6 +542706,44 @@ window.CATALOG = {
       }
      ],
      "from_source": "pregnant-intimate-oct25"
+    },
+    {
+     "title": "Pregnant characters having sex",
+     "notes": [],
+     "items": [
+      {
+       "id": 3598,
+       "from_source": "pregnant-scenes-oct25"
+      }
+     ],
+     "from_source": "pregnant-scenes-oct25"
+    },
+    {
+     "title": "Hardcore / adult listings (text only)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3599,
+       "from_source": "pregnant-scenes-oct25"
+      },
+      {
+       "id": 3600,
+       "from_source": "pregnant-scenes-oct25"
+      },
+      {
+       "id": 3601,
+       "from_source": "pregnant-scenes-oct25"
+      },
+      {
+       "id": 3603,
+       "from_source": "pregnant-scenes-oct25"
+      },
+      {
+       "id": 3602,
+       "from_source": "pregnant-scenes-oct25"
+      }
+     ],
+     "from_source": "pregnant-scenes-oct25"
     }
    ],
    "declared_count_by_source": {
@@ -541809,7 +542751,8 @@ window.CATALOG = {
     "pregnant-intimacy": null,
     "lesbian-pregnancy": null,
     "round2": null,
-    "pregnant-intimate-oct25": null
+    "pregnant-intimate-oct25": null,
+    "pregnant-scenes-oct25": null
    }
   },
   {
@@ -541941,7 +542884,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla",
     "pregnant-intimacy",
     "round2",
-    "pregnant-intimate-oct25"
+    "pregnant-intimate-oct25",
+    "pregnant-scenes-oct25"
    ],
    "groups": [
     {
@@ -542171,13 +543115,33 @@ window.CATALOG = {
       }
      ],
      "from_source": "pregnant-intimate-oct25"
+    },
+    {
+     "title": "Pregnant characters having sex",
+     "notes": [],
+     "items": [
+      {
+       "id": 3595,
+       "from_source": "pregnant-scenes-oct25"
+      },
+      {
+       "id": 3596,
+       "from_source": "pregnant-scenes-oct25"
+      },
+      {
+       "id": 3597,
+       "from_source": "pregnant-scenes-oct25"
+      }
+     ],
+     "from_source": "pregnant-scenes-oct25"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 17,
     "pregnant-intimacy": null,
     "round2": null,
-    "pregnant-intimate-oct25": null
+    "pregnant-intimate-oct25": null,
+    "pregnant-scenes-oct25": null
    }
   },
   {

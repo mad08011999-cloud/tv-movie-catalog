@@ -180,6 +180,8 @@ SOURCES = [
      "local": "sources/hypno-pregnant-yt-oct25.json", "required": False},
     {"id": "pregnant-intimate-oct25", "label": "Pregnant adult characters — sex / intimate scenes (25 Oct 2026)",
      "local": "sources/pregnant-intimate-oct25.json", "required": False},
+    {"id": "pregnant-scenes-oct25", "label": "Pregnant-character sex-scene sweep (25 Oct 2026)",
+     "local": "sources/pregnant-scenes-oct25.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
