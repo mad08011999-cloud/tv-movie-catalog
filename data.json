@@ -5390,6 +5390,26 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "pregnant-intimate-oct25",
+   "label": "Pregnant adult characters — sex / intimate scenes (25 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/pregnant-intimate-oct25.json",
+   "description": "Adult, visibly pregnant female characters in sex or intimate scenes, found via TV Tropes, press articles, Wikipedia search and recaps; partner, outcome and prior kids recorded. Existing cards were enriched, not duplicated. Plot-level notes only; minors, violent and fake-pregnancy cases excluded.",
+   "dropped": [
+    "Misfits (kept out per earlier decision)",
+    "Sleeping Beauty (2008), Innocent Crush, If They Tell You I Fell, Reba (minor/teen characters)",
+    "Hanger, The Backwater, Miłość (violent / non-consensual)",
+    "Kinda Pregnant, Too Much, House of Lies (fake or actress-only pregnancy)",
+    "Tully, Deadwood, Private Practice, Aquarius, Sex Education S3E7, Three (2010) (no pregnant intimate scene)",
+    "The Rough Winds, Nip/Tuck, Vikings, Sex and the City, Dulce Amor, C-drama leads (unverified)"
+   ],
+   "check": {
+    "raw_count": 28,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -5460,10 +5480,11 @@
   "hypnosis-imdb-list-oct24": 61,
   "hypnosis-deep-oct25": 132,
   "hypnosis-deep-oct25b": 41,
-  "hypno-pregnant-yt-oct25": 7
+  "hypno-pregnant-yt-oct25": 7,
+  "pregnant-intimate-oct25": 28
  },
- "raw_total": 6524,
- "entry_count": 3449,
+ "raw_total": 6552,
+ "entry_count": 3455,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -5781,7 +5802,7 @@
    "key": "pregnant-sex",
    "label": "Pregnant characters having sex",
    "legend_label": "Pregnant characters having sex",
-   "entry_count": 62
+   "entry_count": 66
   },
   {
    "key": "pregnant-female",
@@ -5793,13 +5814,13 @@
    "key": "pregnant-intimate",
    "label": "Pregnant intimate scenes",
    "legend_label": "Pregnant intimate scenes",
-   "entry_count": 19
+   "entry_count": 21
   },
   {
    "key": "pregnant-lesbian-intimate",
    "label": "Pregnant lesbian couple — intimate/sex scene",
    "legend_label": "Pregnant lesbian couple — intimate/sex scene",
-   "entry_count": 11
+   "entry_count": 13
   },
   {
    "key": "pregnant-walkin",
@@ -33235,6 +33256,7 @@
    "character": "",
    "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "",
+   "pregnancy_note": "Partner in scene: Iremar (cowhand); father of Geise's baby not stated in sources used",
    "pregnant_has_children": "unknown",
    "format": "movie",
    "categories": [
@@ -33262,12 +33284,14 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "pregnant-intimacy"
+    "pregnant-intimacy",
+    "pregnant-intimate-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:112",
     "ig6qlxqxoxvcxla:962",
-    "pregnant-intimacy:34"
+    "pregnant-intimacy:34",
+    "pregnant-intimate-oct25:7"
    ],
    "index_only": false,
    "local_only": false,
@@ -33365,6 +33389,28 @@
      "pregnant_has_children": "unknown",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-oct25:7",
+     "source": "pregnant-intimate-oct25",
+     "label": "Neon Bull (2015)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Neon Bull",
+     "subtitle": "",
+     "year": "2015",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_note": "Partner in scene: Iremar (cowhand); father of Geise's baby not stated in sources used",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -33429,6 +33475,14 @@
        "url": "https://www.imdb.com/title/tt4899406/keywords/"
       }
      ]
+    },
+    "pregnant-intimate-oct25:7": {
+     "title": "Neon Bull",
+     "year": "2015",
+     "format": "movie",
+     "match_title": "Neon Bull",
+     "match_year": "2015",
+     "pregnancy_note": "Partner in scene: Iremar (cowhand); father of Geise's baby not stated in sources used"
     }
    },
    "watch_links": [
@@ -33454,6 +33508,10 @@
    "character": "",
    "provenance": "",
    "note": "",
+   "pregnancy_outcome": "Hannah gives birth to a son (Grover) in the series finale",
+   "pregnancy_note": "Scene partner: Adam Sackler (ex), who is not the baby's father and offers to help raise it",
+   "kids_status": "no",
+   "kids_note": "first child",
    "format": "tv",
    "categories": [
     "pregnant-sex"
@@ -33467,11 +33525,13 @@
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "pregnant-intimate-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:113",
-    "ig6qlxqxoxvcxla:963"
+    "ig6qlxqxoxvcxla:963",
+    "pregnant-intimate-oct25:8"
    ],
    "index_only": false,
    "local_only": false,
@@ -33528,6 +33588,31 @@
      "distinct_story": false,
      "index_title": "Girls S06E08",
      "matched_by": "alias"
+    },
+    {
+     "rid": "pregnant-intimate-oct25:8",
+     "source": "pregnant-intimate-oct25",
+     "label": "Girls (2017)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Girls",
+     "subtitle": "",
+     "year": "2017",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "Hannah gives birth to a son (Grover) in the series finale",
+     "pregnancy_note": "Scene partner: Adam Sackler (ex), who is not the baby's father and offers to help raise it",
+     "kids_status": "no",
+     "kids_note": "first child",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -33557,6 +33642,17 @@
      "group": "New / different partner / affair",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "pregnant-intimate-oct25:8": {
+     "title": "Girls",
+     "year": "2017",
+     "format": "tv",
+     "match_title": "Girls",
+     "match_year": "2017",
+     "pregnancy_note": "Scene partner: Adam Sackler (ex), who is not the baby's father and offers to help raise it",
+     "pregnancy_outcome": "Hannah gives birth to a son (Grover) in the series finale",
+     "kids_status": "no",
+     "kids_note": "first child"
     }
    }
   },
@@ -33572,6 +33668,8 @@
    "character": "",
    "provenance": "Widow/divorcee remarries & pregnant again pass, 14 Oct 2026 PT (adult women only; non-graphic)",
    "note": "",
+   "pregnancy_outcome": "The Paris-era pregnancy ends in a stillbirth (daughter Faith)",
+   "pregnancy_note": "Father / partner: husband Jamie Fraser",
    "episodes": [
     {
      "episode": "S1E16 “To Ransom a Man's Soul”",
@@ -33656,14 +33754,16 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "widow-remarry"
+    "widow-remarry",
+    "pregnant-intimate-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:114",
     "ig6qlxqxoxvcxla:97",
     "ig6qlxqxoxvcxla:957",
     "ig6qlxqxoxvcxla:978",
-    "widow-remarry:19"
+    "widow-remarry:19",
+    "pregnant-intimate-oct25:9"
    ],
    "index_only": false,
    "local_only": false,
@@ -33881,6 +33981,29 @@
      "adult": "yes",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "pregnant-intimate-oct25:9",
+     "source": "pregnant-intimate-oct25",
+     "label": "Outlander (2016)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Outlander",
+     "subtitle": "",
+     "year": "2016",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "The Paris-era pregnancy ends in a stillbirth (daughter Faith)",
+     "pregnancy_note": "Father / partner: husband Jamie Fraser",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -34046,6 +34169,15 @@
       }
      ],
      "milestones_note": "Pregnancy milestones (reveal / checkup / shower / birth): Brianna's birth episode not confirmed (sources conflict); checkup and shower not found"
+    },
+    "pregnant-intimate-oct25:9": {
+     "title": "Outlander",
+     "year": "2016",
+     "format": "tv",
+     "match_title": "Outlander",
+     "match_year": "2016",
+     "pregnancy_note": "Father / partner: husband Jamie Fraser",
+     "pregnancy_outcome": "The Paris-era pregnancy ends in a stillbirth (daughter Faith)"
     }
    }
   },
@@ -34061,6 +34193,9 @@
    "character": "",
    "provenance": "",
    "note": "",
+   "pregnancy_note": "Father / partner: Jonah Simms",
+   "kids_status": "yes",
+   "kids_note": "Amy is already a mother (daughter Emma, who is not in the scene)",
    "format": "tv",
    "categories": [
     "pregnant-sex"
@@ -34078,12 +34213,14 @@
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "pregnant-intimate-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:115",
     "ig6qlxqxoxvcxla:98",
-    "ig6qlxqxoxvcxla:958"
+    "ig6qlxqxoxvcxla:958",
+    "pregnant-intimate-oct25:10"
    ],
    "index_only": false,
    "local_only": false,
@@ -34176,6 +34313,30 @@
      "distinct_story": false,
      "index_title": "Superstore",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-oct25:10",
+     "source": "pregnant-intimate-oct25",
+     "label": "Superstore (2018)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Superstore",
+     "subtitle": "",
+     "year": "2018",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_note": "Father / partner: Jonah Simms",
+     "kids_status": "yes",
+     "kids_note": "Amy is already a mother (daughter Emma, who is not in the scene)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -34235,6 +34396,16 @@
      "group": "With husband / established partner",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "pregnant-intimate-oct25:10": {
+     "title": "Superstore",
+     "year": "2018",
+     "format": "tv",
+     "match_title": "Superstore",
+     "match_year": "2018",
+     "pregnancy_note": "Father / partner: Jonah Simms",
+     "kids_status": "yes",
+     "kids_note": "Amy is already a mother (daughter Emma, who is not in the scene)"
     }
    }
   },
@@ -34712,6 +34883,8 @@
    "character": "",
    "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "",
+   "pregnancy_outcome": "Alison gives birth to a daughter; she and Ben stay together",
+   "pregnancy_note": "Father / partner: Ben Stone",
    "pregnant_has_children": "no",
    "kids_status": "no",
    "kids_note": "none — Alison has no children before",
@@ -34738,13 +34911,15 @@
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "pregnant-intimacy",
-    "pregnant-yt-oct15"
+    "pregnant-yt-oct15",
+    "pregnant-intimate-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:118",
     "ig6qlxqxoxvcxla:986",
     "pregnant-intimacy:32",
-    "pregnant-yt-oct15:18"
+    "pregnant-yt-oct15:18",
+    "pregnant-intimate-oct25:11"
    ],
    "index_only": false,
    "local_only": false,
@@ -34860,6 +35035,29 @@
      "kids_note": "none — Alison has no children before",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "pregnant-intimate-oct25:11",
+     "source": "pregnant-intimate-oct25",
+     "label": "Knocked Up (2007)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Knocked Up",
+     "subtitle": "",
+     "year": "2007",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "Alison gives birth to a daughter; she and Ben stay together",
+     "pregnancy_note": "Father / partner: Ben Stone",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -34928,6 +35126,15 @@
      "match_year": "2007",
      "kids_status": "no",
      "kids_note": "none — Alison has no children before"
+    },
+    "pregnant-intimate-oct25:11": {
+     "title": "Knocked Up",
+     "year": "2007",
+     "format": "movie",
+     "match_title": "Knocked Up",
+     "match_year": "2007",
+     "pregnancy_note": "Father / partner: Ben Stone",
+     "pregnancy_outcome": "Alison gives birth to a daughter; she and Ben stay together"
     }
    }
   },
@@ -35071,6 +35278,10 @@
    "character": "",
    "provenance": "",
    "note": "",
+   "pregnancy_outcome": "Rachel gives birth to daughter Emma",
+   "pregnancy_note": "Father / partner: Ross Geller",
+   "kids_status": "no",
+   "kids_note": "first child",
    "format": "tv",
    "categories": [
     "pregnant-intimate",
@@ -35089,12 +35300,14 @@
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "pregnant-intimate-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:120",
     "ig6qlxqxoxvcxla:984",
-    "ig6qlxqxoxvcxla:1023"
+    "ig6qlxqxoxvcxla:1023",
+    "pregnant-intimate-oct25:12"
    ],
    "index_only": false,
    "local_only": false,
@@ -35177,6 +35390,31 @@
      "distinct_story": false,
      "index_title": "Friends",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-oct25:12",
+     "source": "pregnant-intimate-oct25",
+     "label": "Friends (2002)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Friends",
+     "subtitle": "",
+     "year": "2002",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "Rachel gives birth to daughter Emma",
+     "pregnancy_note": "Father / partner: Ross Geller",
+     "kids_status": "no",
+     "kids_note": "first child",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -35217,6 +35455,17 @@
      "group": "Adult offspring",
      "confidence": "Adult offspring",
      "note": ""
+    },
+    "pregnant-intimate-oct25:12": {
+     "title": "Friends",
+     "year": "2002",
+     "format": "tv",
+     "match_title": "Friends",
+     "match_year": "2002",
+     "pregnancy_note": "Father / partner: Ross Geller",
+     "pregnancy_outcome": "Rachel gives birth to daughter Emma",
+     "kids_status": "no",
+     "kids_note": "first child"
     }
    }
   },
@@ -35581,6 +35830,10 @@
    "character": "",
    "provenance": "",
    "note": "",
+   "pregnancy_outcome": "Jane gives birth to son Mateo at the end of season 1",
+   "pregnancy_note": "Father: Rafael Solano (the scenes are fantasies)",
+   "kids_status": "no",
+   "kids_note": "Mateo is her first child",
    "format": "tv",
    "categories": [
     "pregnant-intimate"
@@ -35594,11 +35847,13 @@
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "pregnant-intimate-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:124",
-    "ig6qlxqxoxvcxla:990"
+    "ig6qlxqxoxvcxla:990",
+    "pregnant-intimate-oct25:13"
    ],
    "index_only": false,
    "local_only": false,
@@ -35655,6 +35910,31 @@
      "distinct_story": false,
      "index_title": "Jane the Virgin S01E04",
      "matched_by": "alias"
+    },
+    {
+     "rid": "pregnant-intimate-oct25:13",
+     "source": "pregnant-intimate-oct25",
+     "label": "Jane the Virgin (2014)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Jane the Virgin",
+     "subtitle": "",
+     "year": "2014",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "Jane gives birth to son Mateo at the end of season 1",
+     "pregnancy_note": "Father: Rafael Solano (the scenes are fantasies)",
+     "kids_status": "no",
+     "kids_note": "Mateo is her first child",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -35684,6 +35964,17 @@
      "group": "Sexual fantasy",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "pregnant-intimate-oct25:13": {
+     "title": "Jane the Virgin",
+     "year": "2014",
+     "format": "tv",
+     "match_title": "Jane the Virgin",
+     "match_year": "2014",
+     "pregnancy_note": "Father: Rafael Solano (the scenes are fantasies)",
+     "pregnancy_outcome": "Jane gives birth to son Mateo at the end of season 1",
+     "kids_status": "no",
+     "kids_note": "Mateo is her first child"
     }
    }
   },
@@ -36763,6 +37054,8 @@
    "character": "",
    "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
    "note": "",
+   "pregnancy_outcome": "She keeps the pregnancy and gives birth to a baby despite the family's embarrassment",
+   "pregnancy_note": "Father / partner: husband Jitendar Kaushik",
    "kids_status": "yes",
    "kids_note": "two adult sons, Nakul and Gullar",
    "kids_together": "yes",
@@ -36797,13 +37090,15 @@
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "india-catalog",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "pregnant-intimate-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:129",
     "ig6qlxqxoxvcxla:979",
     "india-catalog:160",
-    "mom-pregnancy:66"
+    "mom-pregnancy:66",
+    "pregnant-intimate-oct25:14"
    ],
    "index_only": false,
    "local_only": false,
@@ -36927,6 +37222,29 @@
      "evidence": "3 sources on the card (The Swaddle, Cinema Express, ScoopWhoop · romantic moment)",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "pregnant-intimate-oct25:14",
+     "source": "pregnant-intimate-oct25",
+     "label": "Badhaai Ho (2018)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Badhaai Ho",
+     "subtitle": "",
+     "year": "2018",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "She keeps the pregnancy and gives birth to a baby despite the family's embarrassment",
+     "pregnancy_note": "Father / partner: husband Jitendar Kaushik",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -37005,6 +37323,15 @@
      "married": "yes",
      "married_note": "already married to Jitendar",
      "evidence": "3 sources on the card (The Swaddle, Cinema Express, ScoopWhoop · romantic moment)"
+    },
+    "pregnant-intimate-oct25:14": {
+     "title": "Badhaai Ho",
+     "year": "2018",
+     "format": "movie",
+     "match_title": "Badhaai Ho",
+     "match_year": "2018",
+     "pregnancy_note": "Father / partner: husband Jitendar Kaushik",
+     "pregnancy_outcome": "She keeps the pregnancy and gives birth to a baby despite the family's embarrassment"
     }
    }
   },
@@ -112299,6 +112626,9 @@
    "character": "",
    "provenance": "India-only research pass, 30 Sep 2026 (Prior catalog)",
    "note": "",
+   "pregnancy_note": "Father / partner: husband Karan",
+   "kids_status": "no",
+   "kids_note": "first child",
    "format": "movie",
    "categories": [
     "pregnant-sex"
@@ -112317,13 +112647,15 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "india-catalog"
+    "india-catalog",
+    "pregnant-intimate-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:577",
     "ig6qlxqxoxvcxla:100",
     "ig6qlxqxoxvcxla:960",
-    "india-catalog:161"
+    "india-catalog:161",
+    "pregnant-intimate-oct25:15"
    ],
    "index_only": false,
    "local_only": false,
@@ -112428,6 +112760,30 @@
      "sources": [],
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-oct25:15",
+     "source": "pregnant-intimate-oct25",
+     "label": "Ribbon (2017)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Ribbon",
+     "subtitle": "",
+     "year": "2017",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_note": "Father / partner: husband Karan",
+     "kids_status": "no",
+     "kids_note": "first child",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -112489,6 +112845,16 @@
      "categories": [],
      "sources": [],
      "present": true
+    },
+    "pregnant-intimate-oct25:15": {
+     "title": "Ribbon",
+     "year": "2017",
+     "format": "movie",
+     "match_title": "Ribbon",
+     "match_year": "2017",
+     "pregnancy_note": "Father / partner: husband Karan",
+     "kids_status": "no",
+     "kids_note": "first child"
     }
    }
   },
@@ -112689,6 +113055,8 @@
    "character": "",
    "provenance": "",
    "note": "",
+   "pregnancy_outcome": "Zoe gives birth to twins",
+   "pregnancy_note": "Scene partner: new boyfriend Stan; he is not the biological father (conceived by artificial insemination with donor sperm)",
    "kids_status": "no",
    "kids_note": "none — Zoe's first pregnancy (twins)",
    "format": "movie",
@@ -112709,12 +113077,14 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "pregnant-yt-oct15"
+    "pregnant-yt-oct15",
+    "pregnant-intimate-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:579",
     "ig6qlxqxoxvcxla:964",
-    "pregnant-yt-oct15:21"
+    "pregnant-yt-oct15:21",
+    "pregnant-intimate-oct25:16"
    ],
    "index_only": false,
    "local_only": false,
@@ -112797,6 +113167,29 @@
      "kids_note": "none — Zoe's first pregnancy (twins)",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "pregnant-intimate-oct25:16",
+     "source": "pregnant-intimate-oct25",
+     "label": "The Back-up Plan (2010)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Back-up Plan",
+     "subtitle": "",
+     "year": "2010",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "Zoe gives birth to twins",
+     "pregnancy_note": "Scene partner: new boyfriend Stan; he is not the biological father (conceived by artificial insemination with donor sperm)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -112838,6 +113231,15 @@
      "match_year": "2010",
      "kids_status": "no",
      "kids_note": "none — Zoe's first pregnancy (twins)"
+    },
+    "pregnant-intimate-oct25:16": {
+     "title": "The Back-up Plan",
+     "year": "2010",
+     "format": "movie",
+     "match_title": "The Back-up Plan",
+     "match_year": "2010",
+     "pregnancy_note": "Scene partner: new boyfriend Stan; he is not the biological father (conceived by artificial insemination with donor sperm)",
+     "pregnancy_outcome": "Zoe gives birth to twins"
     }
    },
    "watch_links": [
@@ -112863,6 +113265,8 @@
    "character": "",
    "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "",
+   "pregnancy_outcome": "Jenna gives birth to daughter Lulu and leaves Earl",
+   "pregnancy_note": "Scene partner: obstetrician Dr. Jim Pomatter; husband Earl is the father",
    "pregnant_has_children": "no",
    "kids_status": "no",
    "kids_note": "none — Jenna has no children before",
@@ -112889,13 +113293,15 @@
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "pregnant-intimacy",
-    "pregnant-yt-oct15"
+    "pregnant-yt-oct15",
+    "pregnant-intimate-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:580",
     "ig6qlxqxoxvcxla:965",
     "pregnant-intimacy:33",
-    "pregnant-yt-oct15:19"
+    "pregnant-yt-oct15:19",
+    "pregnant-intimate-oct25:17"
    ],
    "index_only": false,
    "local_only": false,
@@ -113011,6 +113417,31 @@
      "kids_note": "none — Jenna has no children before",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "pregnant-intimate-oct25:17",
+     "source": "pregnant-intimate-oct25",
+     "label": "Waitress (2007)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Waitress",
+     "subtitle": "",
+     "year": "2007",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "Jenna gives birth to daughter Lulu and leaves Earl",
+     "pregnancy_note": "Scene partner: obstetrician Dr. Jim Pomatter; husband Earl is the father",
+     "kids_status": "no",
+     "kids_note": "Lulu is her first child",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -113079,6 +113510,17 @@
      "match_year": "2007",
      "kids_status": "no",
      "kids_note": "none — Jenna has no children before"
+    },
+    "pregnant-intimate-oct25:17": {
+     "title": "Waitress",
+     "year": "2007",
+     "format": "movie",
+     "match_title": "Waitress",
+     "match_year": "2007",
+     "pregnancy_note": "Scene partner: obstetrician Dr. Jim Pomatter; husband Earl is the father",
+     "pregnancy_outcome": "Jenna gives birth to daughter Lulu and leaves Earl",
+     "kids_status": "no",
+     "kids_note": "Lulu is her first child"
     }
    }
   },
@@ -114192,6 +114634,10 @@
    "character": "",
    "provenance": "",
    "note": "",
+   "pregnancy_outcome": "Rebecca gives birth to triplets; one (Kyle) is stillborn, Kevin and Kate survive, and the couple adopts Randall that night",
+   "pregnancy_note": "Father / partner: husband Jack Pearson",
+   "kids_status": "no",
+   "kids_note": "first pregnancy",
    "format": "tv",
    "categories": [
     "pregnant-intimate"
@@ -114209,11 +114655,13 @@
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "pregnant-intimate-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:588",
-    "ig6qlxqxoxvcxla:975"
+    "ig6qlxqxoxvcxla:975",
+    "pregnant-intimate-oct25:18"
    ],
    "index_only": false,
    "local_only": false,
@@ -114275,6 +114723,31 @@
      "distinct_story": false,
      "index_title": "This Is Us pilot (2016)",
      "matched_by": "alias"
+    },
+    {
+     "rid": "pregnant-intimate-oct25:18",
+     "source": "pregnant-intimate-oct25",
+     "label": "This Is Us (2016)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "This Is Us",
+     "subtitle": "",
+     "year": "2016",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "Rebecca gives birth to triplets; one (Kyle) is stillborn, Kevin and Kate survive, and the couple adopts Randall that night",
+     "pregnancy_note": "Father / partner: husband Jack Pearson",
+     "kids_status": "no",
+     "kids_note": "first pregnancy",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -114308,6 +114781,17 @@
      "group": "Sensual / erotic short of intercourse",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "pregnant-intimate-oct25:18": {
+     "title": "This Is Us",
+     "year": "2016",
+     "format": "tv",
+     "match_title": "This Is Us",
+     "match_year": "2016",
+     "pregnancy_note": "Father / partner: husband Jack Pearson",
+     "pregnancy_outcome": "Rebecca gives birth to triplets; one (Kyle) is stillborn, Kevin and Kate survive, and the couple adopts Randall that night",
+     "kids_status": "no",
+     "kids_note": "first pregnancy"
     }
    },
    "watch_links": [
@@ -167340,6 +167824,8 @@
    "character": "Alison Bailey (Ruth Wilson)",
    "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "Critics debated whether the encounter, shown from Noah's point of view, was consensual.",
+   "pregnancy_outcome": "Alison gives birth to their daughter Joanie",
+   "pregnancy_note": "Father / partner: Noah Solloway",
    "pregnant_has_children": "yes (a son, who died before the series)",
    "episodes": [
     {
@@ -167382,12 +167868,14 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "pregnant-intimacy",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "pregnant-intimate-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:889",
     "pregnant-intimacy:42",
-    "mom-pregnancy:82"
+    "mom-pregnancy:82",
+    "pregnant-intimate-oct25:19"
    ],
    "index_only": false,
    "local_only": false,
@@ -167511,6 +167999,29 @@
      "fit_note": "Borderline: her only earlier child had died, so she has no living children at conception.",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "pregnant-intimate-oct25:19",
+     "source": "pregnant-intimate-oct25",
+     "label": "The Affair (2015)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Affair",
+     "subtitle": "",
+     "year": "2015",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "Alison gives birth to their daughter Joanie",
+     "pregnancy_note": "Father / partner: Noah Solloway",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -167608,6 +168119,15 @@
      "married_note": "Alison and Noah later marry",
      "evidence": "3 sources on the card (Vulture recap, TV Fanatic review, IndieWire review)",
      "fit_note": "Borderline: her only earlier child had died, so she has no living children at conception."
+    },
+    "pregnant-intimate-oct25:19": {
+     "title": "The Affair",
+     "year": "2015",
+     "format": "tv",
+     "match_title": "The Affair",
+     "match_year": "2015",
+     "pregnancy_note": "Father / partner: Noah Solloway",
+     "pregnancy_outcome": "Alison gives birth to their daughter Joanie"
     }
    }
   },
@@ -172854,6 +173374,7 @@
    "character": "Susana (Vanessa Bauche)",
    "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "Sources confirm the affair and that she is pregnant again during it; they do not tie each individual intimate scene to the pregnancy timeline.",
+   "pregnancy_note": "Scene partner: Octavio (her brother-in-law)",
    "pregnant_has_children": "yes (already a mother)",
    "format": "movie",
    "categories": [
@@ -172868,11 +173389,13 @@
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "pregnant-intimacy"
+    "pregnant-intimacy",
+    "pregnant-intimate-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:920",
-    "pregnant-intimacy:2"
+    "pregnant-intimacy:2",
+    "pregnant-intimate-oct25:20"
    ],
    "index_only": false,
    "local_only": false,
@@ -172933,6 +173456,28 @@
      "pregnant_has_children": "yes (already a mother)",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-oct25:20",
+     "source": "pregnant-intimate-oct25",
+     "label": "Amores perros (2000)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Amores perros",
+     "subtitle": "",
+     "year": "2000",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_note": "Scene partner: Octavio (her brother-in-law)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -172978,6 +173523,14 @@
        "url": "https://en.wikipedia.org/wiki/Amores_perros"
       }
      ]
+    },
+    "pregnant-intimate-oct25:20": {
+     "title": "Amores perros",
+     "year": "2000",
+     "format": "movie",
+     "match_title": "Amores perros",
+     "match_year": "2000",
+     "pregnancy_note": "Scene partner: Octavio (her brother-in-law)"
     }
    }
   },
@@ -174310,6 +174863,8 @@
    "character": "Ann Defrasnoux (Marion Cotillard)",
    "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "",
+   "pregnancy_outcome": "Ann gives birth to Annette (a puppet child) and later dies at sea",
+   "pregnancy_note": "Father / partner: husband Henry McHenry",
    "pregnant_has_children": "no",
    "format": "movie",
    "categories": [
@@ -174328,11 +174883,13 @@
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "pregnant-intimacy"
+    "pregnant-intimacy",
+    "pregnant-intimate-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:929",
-    "pregnant-intimacy:11"
+    "pregnant-intimacy:11",
+    "pregnant-intimate-oct25:21"
    ],
    "index_only": false,
    "local_only": false,
@@ -174401,6 +174958,29 @@
      "pregnant_has_children": "no",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-oct25:21",
+     "source": "pregnant-intimate-oct25",
+     "label": "Annette (2021)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Annette",
+     "subtitle": "",
+     "year": "2021",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "Ann gives birth to Annette (a puppet child) and later dies at sea",
+     "pregnancy_note": "Father / partner: husband Henry McHenry",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -174454,6 +175034,15 @@
        "url": "https://www.imdb.com/title/tt6217926/parentalguide/"
       }
      ]
+    },
+    "pregnant-intimate-oct25:21": {
+     "title": "Annette",
+     "year": "2021",
+     "format": "movie",
+     "match_title": "Annette",
+     "match_year": "2021",
+     "pregnancy_note": "Father / partner: husband Henry McHenry",
+     "pregnancy_outcome": "Ann gives birth to Annette (a puppet child) and later dies at sea"
     }
    }
   },
@@ -177999,6 +178588,8 @@
    "character": "Verona De Tessant (Maya Rudolph)",
    "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "IMDb's parents guide: no nudity.",
+   "pregnancy_outcome": "still pregnant at the end of the film",
+   "pregnancy_note": "Father / partner: Burt",
    "pregnant_has_children": "no",
    "kids_status": "no",
    "kids_note": "none — Verona's first child",
@@ -178020,12 +178611,14 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "pregnant-intimacy",
-    "pregnant-yt-oct15"
+    "pregnant-yt-oct15",
+    "pregnant-intimate-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:950",
     "pregnant-intimacy:12",
-    "pregnant-yt-oct15:20"
+    "pregnant-yt-oct15:20",
+    "pregnant-intimate-oct25:22"
    ],
    "index_only": false,
    "local_only": false,
@@ -178117,6 +178710,29 @@
      "kids_note": "none — Verona's first child",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "pregnant-intimate-oct25:22",
+     "source": "pregnant-intimate-oct25",
+     "label": "Away We Go (2009)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Away We Go",
+     "subtitle": "",
+     "year": "2009",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "still pregnant at the end of the film",
+     "pregnancy_note": "Father / partner: Burt",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -178179,6 +178795,15 @@
      "match_year": "2009",
      "kids_status": "no",
      "kids_note": "none — Verona's first child"
+    },
+    "pregnant-intimate-oct25:22": {
+     "title": "Away We Go",
+     "year": "2009",
+     "format": "movie",
+     "match_title": "Away We Go",
+     "match_year": "2009",
+     "pregnancy_note": "Father / partner: Burt",
+     "pregnancy_outcome": "still pregnant at the end of the film"
     }
    }
   },
@@ -190633,6 +191258,8 @@
    "character": "Skyler White (Anna Gunn)",
    "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "",
+   "pregnancy_outcome": "Skyler gives birth to daughter Holly in season 2",
+   "pregnancy_note": "Father / partner: husband Walter White",
    "pregnant_has_children": "yes (one son, Walter Jr.)",
    "episodes": [
     {
@@ -190680,13 +191307,15 @@
     "xla62ucxbx02u5",
     "pregnant-intimacy",
     "mom-pregnancy",
-    "kids-pregnant-again"
+    "kids-pregnant-again",
+    "pregnant-intimate-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1020",
     "pregnant-intimacy:38",
     "mom-pregnancy:80",
-    "kids-pregnant-again:9"
+    "kids-pregnant-again:9",
+    "pregnant-intimate-oct25:23"
    ],
    "index_only": false,
    "local_only": false,
@@ -190844,6 +191473,29 @@
      "pregnancy_again_note": "daughter Holly born at the end of Season 2",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "pregnant-intimate-oct25:23",
+     "source": "pregnant-intimate-oct25",
+     "label": "Breaking Bad (2008)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Breaking Bad",
+     "subtitle": "",
+     "year": "2008",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "Skyler gives birth to daughter Holly in season 2",
+     "pregnancy_note": "Father / partner: husband Walter White",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -190968,6 +191620,15 @@
      "married": "yes",
      "match_title": "Breaking Bad",
      "match_year": "2008"
+    },
+    "pregnant-intimate-oct25:23": {
+     "title": "Breaking Bad",
+     "year": "2008",
+     "format": "tv",
+     "match_title": "Breaking Bad",
+     "match_year": "2008",
+     "pregnancy_note": "Father / partner: husband Walter White",
+     "pregnancy_outcome": "Skyler gives birth to daughter Holly in season 2"
     }
    }
   },
@@ -214089,6 +214750,8 @@
    "character": "Rita",
    "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "IMDb's parents guide for the episode describes two low-lit sex scenes with panting and moaning. Rita only learns of the pregnancy during the episode.",
+   "pregnancy_outcome": "Rita gives birth to son Harrison after season 3; she is killed in the season 4 finale",
+   "pregnancy_note": "Father / partner: Dexter Morgan",
    "pregnant_has_children": "yes (two children, Astor and Cody)",
    "episodes": [
     {
@@ -214187,7 +214850,8 @@
     "pregnant-intimacy",
     "mom-pregnancy",
     "kids-pregnant-again",
-    "widow-remarry"
+    "widow-remarry",
+    "pregnant-intimate-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1140",
@@ -214195,7 +214859,8 @@
     "pregnant-intimacy:40",
     "mom-pregnancy:60",
     "kids-pregnant-again:13",
-    "widow-remarry:8"
+    "widow-remarry:8",
+    "pregnant-intimate-oct25:24"
    ],
    "index_only": false,
    "local_only": false,
@@ -214465,6 +215130,29 @@
      "adult": "yes",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "pregnant-intimate-oct25:24",
+     "source": "pregnant-intimate-oct25",
+     "label": "Dexter (2008)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dexter",
+     "subtitle": "",
+     "year": "2008",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "Rita gives birth to son Harrison after season 3; she is killed in the season 4 finale",
+     "pregnancy_note": "Father / partner: Dexter Morgan",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -214683,6 +215371,15 @@
       }
      ],
      "milestones_note": "Pregnancy milestones (reveal / checkup / shower / birth): ultrasound/checkup and shower not found; birth not shown"
+    },
+    "pregnant-intimate-oct25:24": {
+     "title": "Dexter",
+     "year": "2008",
+     "format": "tv",
+     "match_title": "Dexter",
+     "match_year": "2008",
+     "pregnancy_note": "Father / partner: Dexter Morgan",
+     "pregnancy_outcome": "Rita gives birth to son Harrison after season 3; she is killed in the season 4 finale"
     }
    }
   },
@@ -233169,6 +233866,11 @@
    "character": "Anastasia Steele (Dakota Johnson) and Christian Grey (Jamie Dornan)",
    "provenance": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
    "note": "Outcome facts: married: yes; kids status: yes.",
+   "pregnancy_outcome": "Ana gives birth to a son (Teddy), shown in the epilogue",
+   "pregnancy_note": "Father / partner: husband Christian Grey",
+   "tags": [
+    "loose fit"
+   ],
    "kids_status": "yes",
    "kids_note": "son Teddy",
    "married": "yes",
@@ -233182,22 +233884,29 @@
    "pregnancy_again_note": "second pregnancy shown in the epilogue",
    "format": "movie",
    "categories": [
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "pregnant-intimate"
    ],
    "sources": [
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Fifty_Shades_Freed_(film)"
+    },
+    {
+     "label": "IMDb plot",
+     "url": "https://www.imdb.com/title/tt4477536/plotsummary/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "kids-pregnant-again"
+    "kids-pregnant-again",
+    "pregnant-intimate-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1238",
-    "kids-pregnant-again:19"
+    "kids-pregnant-again:19",
+    "pregnant-intimate-oct25:28"
    ],
    "index_only": false,
    "local_only": false,
@@ -233268,6 +233977,44 @@
      "pregnancy_again_note": "second pregnancy shown in the epilogue",
      "distinct_story": false,
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "pregnant-intimate-oct25:28",
+     "source": "pregnant-intimate-oct25",
+     "label": "Fifty Shades Freed (2018)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Fifty Shades Freed",
+     "subtitle": "",
+     "year": "2018",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [
+      "pregnant-intimate"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Fifty_Shades_Freed_(film)"
+      },
+      {
+       "label": "IMDb plot",
+       "url": "https://www.imdb.com/title/tt4477536/plotsummary/"
+      }
+     ],
+     "pregnancy_outcome": "Ana gives birth to a son (Teddy), shown in the epilogue",
+     "pregnancy_note": "Father / partner: husband Christian Grey",
+     "tags": [
+      "loose fit"
+     ],
+     "evidence": "Wikipedia + IMDb plot: after the pregnancy argument and reconciliation, an intimate Red Room scene follows (loose fit)",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -233289,6 +234036,32 @@
      "prov": "Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
      "c": [
       "mom-pregnancy"
+     ]
+    },
+    "pregnant-intimate-oct25:28": {
+     "title": "Fifty Shades Freed",
+     "year": "2018",
+     "format": "movie",
+     "match_title": "Fifty Shades Freed",
+     "match_year": "2018",
+     "categories": [
+      "pregnant-intimate"
+     ],
+     "pregnancy_note": "Father / partner: husband Christian Grey",
+     "pregnancy_outcome": "Ana gives birth to a son (Teddy), shown in the epilogue",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Fifty_Shades_Freed_(film)"
+      },
+      {
+       "label": "IMDb plot",
+       "url": "https://www.imdb.com/title/tt4477536/plotsummary/"
+      }
+     ],
+     "evidence": "Wikipedia + IMDb plot: after the pregnancy argument and reconciliation, an intimate Red Room scene follows (loose fit)",
+     "tags": [
+      "loose fit"
      ]
     },
     "kids-pregnant-again:19": {
@@ -284882,6 +285655,8 @@
    "character": "Betty Draper (January Jones)",
    "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "",
+   "pregnancy_outcome": "Betty gives birth to son Eugene (Gene) in season 3",
+   "pregnancy_note": "Scene partner: a stranger; the baby's father is husband Don Draper",
    "pregnant_has_children": "yes (two children, Sally and Bobby)",
    "episodes": [
     {
@@ -284937,13 +285712,15 @@
     "xla62ucxbx02u5",
     "pregnant-intimacy",
     "mom-pregnancy",
-    "kids-pregnant-again"
+    "kids-pregnant-again",
+    "pregnant-intimate-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1509",
     "pregnant-intimacy:39",
     "mom-pregnancy:81",
-    "kids-pregnant-again:10"
+    "kids-pregnant-again:10",
+    "pregnant-intimate-oct25:25"
    ],
    "index_only": false,
    "local_only": false,
@@ -285117,6 +285894,29 @@
      "pregnancy_again_note": "son Eugene ('Gene') born in Season 3, episode 5",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "pregnant-intimate-oct25:25",
+     "source": "pregnant-intimate-oct25",
+     "label": "Mad Men (2008)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Mad Men",
+     "subtitle": "",
+     "year": "2008",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "Betty gives birth to son Eugene (Gene) in season 3",
+     "pregnancy_note": "Scene partner: a stranger; the baby's father is husband Don Draper",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -285257,6 +286057,15 @@
      "married": "yes",
      "match_title": "Mad Men",
      "match_year": "2008"
+    },
+    "pregnant-intimate-oct25:25": {
+     "title": "Mad Men",
+     "year": "2008",
+     "format": "tv",
+     "match_title": "Mad Men",
+     "match_year": "2008",
+     "pregnancy_note": "Scene partner: a stranger; the baby's father is husband Don Draper",
+     "pregnancy_outcome": "Betty gives birth to son Eugene (Gene) in season 3"
     }
    }
   },
@@ -322615,6 +323424,8 @@
    "character": "Teresa Donovan (Alyssa Diaz)",
    "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "",
+   "pregnancy_outcome": "Teresa goes into labor mid-scene and gives birth to daughter Maria in the same episode",
+   "pregnancy_note": "Father / partner: husband Bunchy Donovan",
    "pregnant_has_children": "no",
    "episodes": [
     {
@@ -322624,6 +323435,8 @@
      "number_verified": true
     }
    ],
+   "kids_status": "no",
+   "kids_note": "Maria is her first child",
    "format": "tv",
    "categories": [
     "pregnant-sex"
@@ -322645,11 +323458,13 @@
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "pregnant-intimacy"
+    "pregnant-intimacy",
+    "pregnant-intimate-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1706",
-    "pregnant-intimacy:41"
+    "pregnant-intimacy:41",
+    "pregnant-intimate-oct25:26"
    ],
    "index_only": false,
    "local_only": false,
@@ -322734,6 +323549,31 @@
      ],
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-oct25:26",
+     "source": "pregnant-intimate-oct25",
+     "label": "Ray Donovan (2016)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Ray Donovan",
+     "subtitle": "",
+     "year": "2016",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "Teresa goes into labor mid-scene and gives birth to daughter Maria in the same episode",
+     "pregnancy_note": "Father / partner: husband Bunchy Donovan",
+     "kids_status": "no",
+     "kids_note": "Maria is her first child",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -322803,6 +323643,17 @@
        "number_verified": true
       }
      ]
+    },
+    "pregnant-intimate-oct25:26": {
+     "title": "Ray Donovan",
+     "year": "2016",
+     "format": "tv",
+     "match_title": "Ray Donovan",
+     "match_year": "2016",
+     "pregnancy_note": "Father / partner: husband Bunchy Donovan",
+     "pregnancy_outcome": "Teresa goes into labor mid-scene and gives birth to daughter Maria in the same episode",
+     "kids_status": "no",
+     "kids_note": "Maria is her first child"
     }
    }
   },
@@ -325036,6 +325887,8 @@
    "character": "April Wheeler (Kate Winslet)",
    "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "IMDb's parents guide describes the car scene as brief, with no explicit nudity, and notes that he moans.",
+   "pregnancy_outcome": "April dies after attempting to end the pregnancy herself",
+   "pregnancy_note": "Scene partner: neighbour Shep Campbell; husband Frank is the father",
    "pregnant_has_children": "yes (the Wheelers' children)",
    "tags": [
     "moaning"
@@ -325069,12 +325922,14 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "pregnant-intimacy",
-    "mom-pregnancy"
+    "mom-pregnancy",
+    "pregnant-intimate-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1720",
     "pregnant-intimacy:1",
-    "mom-pregnancy:79"
+    "mom-pregnancy:79",
+    "pregnant-intimate-oct25:27"
    ],
    "index_only": false,
    "local_only": false,
@@ -325185,6 +326040,29 @@
      "fit_note": "The Shep Campbell encounter on the card happens while she is already pregnant by Frank; Shep is not the father.",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "pregnant-intimate-oct25:27",
+     "source": "pregnant-intimate-oct25",
+     "label": "Revolutionary Road (2008)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Revolutionary Road",
+     "subtitle": "",
+     "year": "2008",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "April dies after attempting to end the pregnancy herself",
+     "pregnancy_note": "Scene partner: neighbour Shep Campbell; husband Frank is the father",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -325269,6 +326147,15 @@
      "married_note": "already married to Frank",
      "evidence": "2 sources on the card (Wikipedia, IMDb parents guide)",
      "fit_note": "The Shep Campbell encounter on the card happens while she is already pregnant by Frank; Shep is not the father."
+    },
+    "pregnant-intimate-oct25:27": {
+     "title": "Revolutionary Road",
+     "year": "2008",
+     "format": "movie",
+     "match_title": "Revolutionary Road",
+     "match_year": "2008",
+     "pregnancy_note": "Scene partner: neighbour Shep Campbell; husband Frank is the father",
+     "pregnancy_outcome": "April dies after attempting to end the pregnancy herself"
     }
    }
   },
@@ -504671,6 +505558,512 @@
      "adult": "yes (adult characters)"
     }
    }
+  },
+  {
+   "id": 3589,
+   "title": "Munich",
+   "subtitle": "",
+   "year": "2005",
+   "meta": "Film · US / Israel · English · Spielberg",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Mossad agent Avner and his seven-month-pregnant wife Daphna share a brief, careful love scene before he accepts a mission; she asks how late in pregnancy they can continue and he reminds her he won't be around.",
+   "character": "Daphna Kaufman (7 months pregnant)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Daphna gives birth to a daughter while Avner is abroad",
+   "pregnancy_note": "Father / partner: husband Avner Kaufman",
+   "kids_status": "no",
+   "kids_note": "first child",
+   "pregnant_end": "yes",
+   "evidence": "Multi-source (screenplay text, Wikipedia, Slate, TV Tropes)",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Munich_(2005_film)"
+    },
+    {
+     "label": "Screenplay (sellascript)",
+     "url": "http://www.sellascript.com/source/resources/screenplays/munich.pdf"
+    },
+    {
+     "label": "Slate",
+     "url": "https://slate.com/culture/2026/06/munich-movie-sex-scene-steven-spielberg-eric-bana.html"
+    },
+    {
+     "label": "TV Tropes: No Pregger Sex",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/NoPreggerSex"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimate-oct25"
+   ],
+   "source_records": [
+    "pregnant-intimate-oct25:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimate-oct25:1": {
+     "title": "Munich",
+     "year": "2005",
+     "format": "movie",
+     "meta": "Film · US / Israel · English · Spielberg",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "character": "Daphna Kaufman (7 months pregnant)",
+     "summary": "Mossad agent Avner and his seven-month-pregnant wife Daphna share a brief, careful love scene before he accepts a mission; she asks how late in pregnancy they can continue and he reminds her he won't be around.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Daphna gives birth to a daughter while Avner is abroad",
+     "pregnancy_note": "Father / partner: husband Avner Kaufman",
+     "kids_status": "no",
+     "kids_note": "first child",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Munich_(2005_film)"
+      },
+      {
+       "label": "Screenplay (sellascript)",
+       "url": "http://www.sellascript.com/source/resources/screenplays/munich.pdf"
+      },
+      {
+       "label": "Slate",
+       "url": "https://slate.com/culture/2026/06/munich-movie-sex-scene-steven-spielberg-eric-bana.html"
+      },
+      {
+       "label": "TV Tropes: No Pregger Sex",
+       "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/NoPreggerSex"
+      }
+     ],
+     "evidence": "Multi-source (screenplay text, Wikipedia, Slate, TV Tropes)"
+    }
+   }
+  },
+  {
+   "id": 3590,
+   "title": "St. Vincent",
+   "subtitle": "",
+   "year": "2014",
+   "meta": "Film · US · English · comedy-drama",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Cranky Vincent keeps seeing Daka, a pregnant Russian stripper and sex worker, even while she is visibly pregnant; the film shows a brief, non-explicit encounter between them.",
+   "character": "Daka (Naomi Watts), pregnant sex worker / stripper",
+   "provenance": "",
+   "note": "",
+   "pregnancy_note": "Partner in scene: Vincent MacKenna (client); father of her baby not stated in sources used",
+   "kids_status": "unknown",
+   "pregnant_end": "yes",
+   "evidence": "Multi-source (Plugged In, IMDb plot, Wikipedia, TV Tropes); outcome not verified",
+   "format": "movie",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/St._Vincent_(film)"
+    },
+    {
+     "label": "Plugged In",
+     "url": "https://www.pluggedin.com/movie-reviews/st-vincent/"
+    },
+    {
+     "label": "IMDb plot",
+     "url": "https://www.imdb.com/title/tt2170593/plotsummary/"
+    },
+    {
+     "label": "TV Tropes: No Pregger Sex",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/NoPreggerSex"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimate-oct25"
+   ],
+   "source_records": [
+    "pregnant-intimate-oct25:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimate-oct25:2": {
+     "title": "St. Vincent",
+     "year": "2014",
+     "format": "movie",
+     "meta": "Film · US · English · comedy-drama",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "character": "Daka (Naomi Watts), pregnant sex worker / stripper",
+     "summary": "Cranky Vincent keeps seeing Daka, a pregnant Russian stripper and sex worker, even while she is visibly pregnant; the film shows a brief, non-explicit encounter between them.",
+     "pregnant_end": "yes",
+     "pregnancy_note": "Partner in scene: Vincent MacKenna (client); father of her baby not stated in sources used",
+     "kids_status": "unknown",
+     "sources": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/St._Vincent_(film)"
+      },
+      {
+       "label": "Plugged In",
+       "url": "https://www.pluggedin.com/movie-reviews/st-vincent/"
+      },
+      {
+       "label": "IMDb plot",
+       "url": "https://www.imdb.com/title/tt2170593/plotsummary/"
+      },
+      {
+       "label": "TV Tropes: No Pregger Sex",
+       "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/NoPreggerSex"
+      }
+     ],
+     "evidence": "Multi-source (Plugged In, IMDb plot, Wikipedia, TV Tropes); outcome not verified"
+    }
+   }
+  },
+  {
+   "id": 3591,
+   "title": "Little Fires Everywhere — “The Uncanny” (S1E6)",
+   "subtitle": "",
+   "year": "2020",
+   "meta": "Series · US · Hulu · English",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "In Mia's flashback she is a pregnant surrogate and becomes intimate with her professor Pauline; after her brother dies and her parents reject her she lies that she miscarried and drives away to have the baby.",
+   "character": "Mia Warren (Kerry Washington), pregnant surrogate (flashback)",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Mia keeps the baby and gives birth to Pearl",
+   "pregnancy_note": "Partner in scene: Pauline Hawthorne (female lover / mentor); baby is the surrogacy couple's embryo that Mia keeps",
+   "kids_status": "no",
+   "kids_note": "Pearl is her first child",
+   "pregnant_end": "yes",
+   "evidence": "Multi-source recaps; intimacy level described as tender, scene detail from summaries",
+   "format": "tv",
+   "categories": [
+    "pregnant-lesbian-intimate",
+    "pregnant-intimate"
+   ],
+   "sources": [
+    {
+     "label": "EW recap",
+     "url": "https://ew.com/tv/recaps/little-fires-everywhere-season-1-episode-6/"
+    },
+    {
+     "label": "Vulture recap",
+     "url": "https://www.vulture.com/2020/04/little-fires-everywhere-episode-6-recap-the-uncanny.html"
+    },
+    {
+     "label": "TV Fanatic recap",
+     "url": "https://www.tvfanatic.com/little-fires-everywhere-season-1-episode-6-recap-the-uncanny/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimate-oct25"
+   ],
+   "source_records": [
+    "pregnant-intimate-oct25:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimate-oct25:3": {
+     "title": "Little Fires Everywhere — “The Uncanny” (S1E6)",
+     "year": "2020",
+     "format": "tv",
+     "meta": "Series · US · Hulu · English",
+     "categories": [
+      "pregnant-lesbian-intimate",
+      "pregnant-intimate"
+     ],
+     "character": "Mia Warren (Kerry Washington), pregnant surrogate (flashback)",
+     "summary": "In Mia's flashback she is a pregnant surrogate and becomes intimate with her professor Pauline; after her brother dies and her parents reject her she lies that she miscarried and drives away to have the baby.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Mia keeps the baby and gives birth to Pearl",
+     "pregnancy_note": "Partner in scene: Pauline Hawthorne (female lover / mentor); baby is the surrogacy couple's embryo that Mia keeps",
+     "kids_status": "no",
+     "kids_note": "Pearl is her first child",
+     "sources": [
+      {
+       "label": "EW recap",
+       "url": "https://ew.com/tv/recaps/little-fires-everywhere-season-1-episode-6/"
+      },
+      {
+       "label": "Vulture recap",
+       "url": "https://www.vulture.com/2020/04/little-fires-everywhere-episode-6-recap-the-uncanny.html"
+      },
+      {
+       "label": "TV Fanatic recap",
+       "url": "https://www.tvfanatic.com/little-fires-everywhere-season-1-episode-6-recap-the-uncanny/"
+      }
+     ],
+     "evidence": "Multi-source recaps; intimacy level described as tender, scene detail from summaries"
+    }
+   }
+  },
+  {
+   "id": 3592,
+   "title": "Dickinson — “‘Hope’ is the thing with feathers” (S3E1)",
+   "subtitle": "",
+   "year": "2021",
+   "meta": "Series · US · Apple TV+ · English",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Heavily pregnant Sue arrives and she and Emily share a tender kiss and quiet intimacy upstairs; Sue says she loves Emily and wants them to raise the baby together while Emily worries about what the pregnancy will change.",
+   "character": "Susan “Sue” Gilbert Dickinson, heavily pregnant",
+   "provenance": "",
+   "note": "",
+   "pregnancy_note": "Partner in scene: Emily Dickinson; Sue's husband Austin says he does not know whether the baby is his",
+   "kids_status": "no",
+   "kids_note": "first child",
+   "pregnant_end": "yes",
+   "evidence": "Recaps + YouTube clip; outcome not verified here",
+   "format": "tv",
+   "categories": [
+    "pregnant-lesbian-intimate"
+   ],
+   "sources": [
+    {
+     "label": "Vulture recap",
+     "url": "https://www.vulture.com/article/dickinson-season-3-episode-1-recap.html"
+    },
+    {
+     "label": "TVLine recap",
+     "url": "https://www.tvline.com/news/dickinson-recap-season-3-premiere-hailee-steinfeld-apple-tv-plus-1234739426/"
+    },
+    {
+     "label": "YouTube: Emily and Sue pregnant scene S03E01",
+     "url": "https://www.youtube.com/watch?v=0J2mdwshnmo"
+    }
+   ],
+   "youtube_ids": [
+    "0J2mdwshnmo"
+   ],
+   "from_sources": [
+    "pregnant-intimate-oct25"
+   ],
+   "source_records": [
+    "pregnant-intimate-oct25:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/0J2mdwshnmo.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimate-oct25:4": {
+     "title": "Dickinson — “‘Hope’ is the thing with feathers” (S3E1)",
+     "year": "2021",
+     "format": "tv",
+     "meta": "Series · US · Apple TV+ · English",
+     "categories": [
+      "pregnant-lesbian-intimate"
+     ],
+     "character": "Susan “Sue” Gilbert Dickinson, heavily pregnant",
+     "summary": "Heavily pregnant Sue arrives and she and Emily share a tender kiss and quiet intimacy upstairs; Sue says she loves Emily and wants them to raise the baby together while Emily worries about what the pregnancy will change.",
+     "pregnant_end": "yes",
+     "pregnancy_note": "Partner in scene: Emily Dickinson; Sue's husband Austin says he does not know whether the baby is his",
+     "kids_status": "no",
+     "kids_note": "first child",
+     "sources": [
+      {
+       "label": "Vulture recap",
+       "url": "https://www.vulture.com/article/dickinson-season-3-episode-1-recap.html"
+      },
+      {
+       "label": "TVLine recap",
+       "url": "https://www.tvline.com/news/dickinson-recap-season-3-premiere-hailee-steinfeld-apple-tv-plus-1234739426/"
+      },
+      {
+       "label": "YouTube: Emily and Sue pregnant scene S03E01",
+       "url": "https://www.youtube.com/watch?v=0J2mdwshnmo"
+      }
+     ],
+     "evidence": "Recaps + YouTube clip; outcome not verified here"
+    }
+   }
+  },
+  {
+   "id": 3593,
+   "title": "Virgin River — Season 4 (E3 “Grilled”, E10 “Fire and Rain”)",
+   "subtitle": "",
+   "year": "2022",
+   "meta": "Series · US · Netflix · English",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Mel is pregnant and unsure who the father is; she and Jack share an intimate scene in episode 3 and reconnect with a love scene in episode 10 after Jack agrees to a paternity test.",
+   "character": "Mel Monroe (Alexandra Breckenridge), pregnant",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "S4 finale confirms Jack is the father and the baby is a girl; in S5E5 Mel miscarries",
+   "pregnancy_note": "Father / partner: Jack Sheridan",
+   "kids_status": "no",
+   "kids_note": "no children before",
+   "pregnant_end": "yes",
+   "evidence": "Multi-source (EW, TV Fanatic, Decider, Tudum)",
+   "format": "tv",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "TV Fanatic recap E10",
+     "url": "https://www.tvfanatic.com/virgin-river-season-4-episode-10-recap-fire-and-rain/"
+    },
+    {
+     "label": "EW season recap",
+     "url": "https://ew.com/tv/recaps/virgin-river-season-4-episodes-1-12-binge/"
+    },
+    {
+     "label": "Decider",
+     "url": "https://decider.com/2023/09/06/virgin-river-season-4-recap-netflix-finale-ending-explained/"
+    },
+    {
+     "label": "Netflix Tudum",
+     "url": "https://www.netflix.com/tudum/articles/virgin-river-mel-pregnant-by-jack"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimate-oct25"
+   ],
+   "source_records": [
+    "pregnant-intimate-oct25:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimate-oct25:5": {
+     "title": "Virgin River — Season 4 (E3 “Grilled”, E10 “Fire and Rain”)",
+     "year": "2022",
+     "format": "tv",
+     "meta": "Series · US · Netflix · English",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "character": "Mel Monroe (Alexandra Breckenridge), pregnant",
+     "summary": "Mel is pregnant and unsure who the father is; she and Jack share an intimate scene in episode 3 and reconnect with a love scene in episode 10 after Jack agrees to a paternity test.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "S4 finale confirms Jack is the father and the baby is a girl; in S5E5 Mel miscarries",
+     "pregnancy_note": "Father / partner: Jack Sheridan",
+     "kids_status": "no",
+     "kids_note": "no children before",
+     "sources": [
+      {
+       "label": "TV Fanatic recap E10",
+       "url": "https://www.tvfanatic.com/virgin-river-season-4-episode-10-recap-fire-and-rain/"
+      },
+      {
+       "label": "EW season recap",
+       "url": "https://ew.com/tv/recaps/virgin-river-season-4-episodes-1-12-binge/"
+      },
+      {
+       "label": "Decider",
+       "url": "https://decider.com/2023/09/06/virgin-river-season-4-recap-netflix-finale-ending-explained/"
+      },
+      {
+       "label": "Netflix Tudum",
+       "url": "https://www.netflix.com/tudum/articles/virgin-river-mel-pregnant-by-jack"
+      }
+     ],
+     "evidence": "Multi-source (EW, TV Fanatic, Decider, Tudum)"
+    }
+   }
+  },
+  {
+   "id": 3594,
+   "title": "Mad About You — “The Birth” (S5)",
+   "subtitle": "",
+   "year": "1997",
+   "meta": "Series · US · NBC · English · sitcom",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Overdue and eager for labor, Jamie and her husband Paul have sex in an attempt to induce it; earlier in the pregnancy Paul had been reluctant until her doctor reassured them.",
+   "character": "Jamie Buchman, overdue",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Jamie gives birth to daughter Mabel",
+   "pregnancy_note": "Father / partner: husband Paul Buchman",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "no",
+   "kids_note": "Mabel is their first child",
+   "pregnant_end": "yes",
+   "evidence": "Single source (TV Tropes)",
+   "fit_note": "Single-source: TV Tropes records that, overdue, she and Paul have sex to induce labor; the scene is sitcom-level.",
+   "format": "tv",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "TV Tropes: No Pregger Sex",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/NoPreggerSex"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimate-oct25"
+   ],
+   "source_records": [
+    "pregnant-intimate-oct25:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimate-oct25:6": {
+     "title": "Mad About You — “The Birth” (S5)",
+     "year": "1997",
+     "format": "tv",
+     "meta": "Series · US · NBC · English · sitcom",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Single-source: TV Tropes records that, overdue, she and Paul have sex to induce labor; the scene is sitcom-level.",
+     "character": "Jamie Buchman, overdue",
+     "summary": "Overdue and eager for labor, Jamie and her husband Paul have sex in an attempt to induce it; earlier in the pregnancy Paul had been reluctant until her doctor reassured them.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Jamie gives birth to daughter Mabel",
+     "pregnancy_note": "Father / partner: husband Paul Buchman",
+     "kids_status": "no",
+     "kids_note": "Mabel is their first child",
+     "sources": [
+      {
+       "label": "TV Tropes: No Pregger Sex",
+       "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/NoPreggerSex"
+      }
+     ],
+     "evidence": "Single source (TV Tropes)"
+    }
+   }
   }
  ],
  "sections": [
@@ -533238,6 +534631,12 @@
         "Control mechanism unstated",
         "High · Wikipedia plot"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Fifty_Shades_Freed_(film)"
+        }
+       ],
        "provenance": "Source basis: Parents-pregnant-again pass, 30 Sep 2026 PT (adult couple with existing children, prominent consensual romance, conceives again; adults only, non-explicit notes)",
        "entry_note": "Note: Outcome facts: married: yes; kids status: yes.",
        "from_source": "xla62ucxbx02u5"
@@ -539703,7 +541102,8 @@
     "ig6qlxqxoxvcxla",
     "pregnant-intimacy",
     "lesbian-pregnancy",
-    "round2"
+    "round2",
+    "pregnant-intimate-oct25"
    ],
    "groups": [
     {
@@ -540379,13 +541779,37 @@
       }
      ],
      "from_source": "round2"
+    },
+    {
+     "title": "Pregnant intimate scenes (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3594,
+       "from_source": "pregnant-intimate-oct25"
+      },
+      {
+       "id": 3589,
+       "from_source": "pregnant-intimate-oct25"
+      },
+      {
+       "id": 3590,
+       "from_source": "pregnant-intimate-oct25"
+      },
+      {
+       "id": 3593,
+       "from_source": "pregnant-intimate-oct25"
+      }
+     ],
+     "from_source": "pregnant-intimate-oct25"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 22,
     "pregnant-intimacy": null,
     "lesbian-pregnancy": null,
-    "round2": null
+    "round2": null,
+    "pregnant-intimate-oct25": null
    }
   },
   {
@@ -540516,7 +541940,8 @@
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "pregnant-intimacy",
-    "round2"
+    "round2",
+    "pregnant-intimate-oct25"
    ],
    "groups": [
     {
@@ -540731,12 +542156,28 @@
       }
      ],
      "from_source": "round2"
+    },
+    {
+     "title": "Pregnant intimate scenes (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1227,
+       "from_source": "pregnant-intimate-oct25"
+      },
+      {
+       "id": 3591,
+       "from_source": "pregnant-intimate-oct25"
+      }
+     ],
+     "from_source": "pregnant-intimate-oct25"
     }
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 17,
     "pregnant-intimacy": null,
-    "round2": null
+    "round2": null,
+    "pregnant-intimate-oct25": null
    }
   },
   {
@@ -540756,7 +542197,8 @@
     }
    ],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "pregnant-intimate-oct25"
    ],
    "groups": [
     {
@@ -540842,8 +542284,26 @@
        "from_source": "xla62ucxbx02u5"
       }
      ]
+    },
+    {
+     "title": "Pregnant intimate scenes (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3592,
+       "from_source": "pregnant-intimate-oct25"
+      },
+      {
+       "id": 3591,
+       "from_source": "pregnant-intimate-oct25"
+      }
+     ],
+     "from_source": "pregnant-intimate-oct25"
     }
-   ]
+   ],
+   "declared_count_by_source": {
+    "pregnant-intimate-oct25": null
+   }
   },
   {
    "title": "Pregnant mother + child walk-in",
