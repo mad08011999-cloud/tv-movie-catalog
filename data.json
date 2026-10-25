@@ -4890,6 +4890,19 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "hypno-india-oct24",
+   "label": "Indian-media female-hypnosis max-list sweep (24 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/hypno-india-oct24.json",
+   "description": "Indian titles/episodes (all languages) where an adult woman is hypnotised. Existing categories only; merges into existing cards via match_title.",
+   "dropped": [],
+   "check": {
+    "raw_count": 4,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -4954,10 +4967,11 @@
   "youtube-india-oct15": 23,
   "deep-refresh-oct18": 97,
   "weekly-oct19": 4,
-  "deep-oct20": 2
+  "deep-oct20": 2,
+  "hypno-india-oct24": 4
  },
- "raw_total": 6219,
- "entry_count": 3210,
+ "raw_total": 6223,
+ "entry_count": 3211,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -5053,7 +5067,7 @@
    "key": "india-control",
    "label": "Female hypnosis / mind control — India",
    "legend_label": "Female hypnosis / mind control — India",
-   "entry_count": 216
+   "entry_count": 217
   },
   {
    "key": "hypnotized-to-marry",
@@ -5149,7 +5163,7 @@
    "key": "indian-female-hypnosis",
    "label": "Indian-language female hypnotized against her will",
    "legend_label": "Indian-language female hypnotized against her will",
-   "entry_count": 43
+   "entry_count": 45
   },
   {
    "key": "lesbian-couple-pregnancy",
@@ -42767,11 +42781,21 @@
      "title": "Sasural Simar Ka | Simar Talks to Amar After Getting Hypnotised | Full Ep - 757 | Colors Rishtey",
      "gist": "Simar (Prem's wife) is hypnotised by Amar and speaks under 'sammohan therapy'; in Ep 760 she learns she was hypnotised. Hypnotist: Amar. Wife: yes. Caption timestamp: Ep 757 00:11:16; Ep 760 00:00:08, 00:01:32.",
      "timestamp": "Ep 757 00:11:16; Ep 760 00:00:08, 00:01:32"
+    },
+    {
+     "episode": "E1066 “Amar Hypnotizes Simar”",
+     "air_date": "",
+     "gist": "Amar uses hypnotism to control Simar; her behaviour shifts and the family misses the cause (title and blurb from one listing only)",
+     "number_verified": false
     }
    ],
    "tags": [
     "youtube-india-oct15"
    ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "format": "tv",
    "categories": [
     "india-pregnancy",
@@ -42781,7 +42805,8 @@
     "spirit",
     "india-control",
     "polygamy-hypnosis",
-    "wife-hypnotized"
+    "wife-hypnotized",
+    "indian-female-hypnosis"
    ],
    "sources": [
     {
@@ -42819,6 +42844,10 @@
     {
      "label": "YouTube (Colors Rishtey): Simar Learns She Was Hypnotised | Full Ep - 760",
      "url": "https://www.youtube.com/watch?v=kec2dNHp-30"
+    },
+    {
+     "label": "WatchWhatWhere E1066",
+     "url": "https://watchwhatwhere.com/title/10643308-amar-hypnotizes-simar"
     }
    ],
    "youtube_ids": [
@@ -42829,7 +42858,8 @@
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "india-catalog",
-    "youtube-india-oct15"
+    "youtube-india-oct15",
+    "hypno-india-oct24"
    ],
    "source_records": [
     "xla62ucxbx02u5:156",
@@ -42839,7 +42869,8 @@
     "ig6qlxqxoxvcxla:933",
     "ig6qlxqxoxvcxla:943",
     "india-catalog:147",
-    "youtube-india-oct15:2"
+    "youtube-india-oct15:2",
+    "hypno-india-oct24:3"
    ],
    "index_only": false,
    "local_only": false,
@@ -43076,6 +43107,47 @@
      ],
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypno-india-oct24:3",
+     "source": "hypno-india-oct24",
+     "label": "Sasural Simar Ka (2011–18)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Sasural Simar Ka",
+     "subtitle": "",
+     "year": "2011–18",
+     "meta": "TV serial · India · Hindi · Colors TV",
+     "summary": "Episode listing: Amar uses hypnotism to control and isolate Simar while the family is unaware.",
+     "character": "Simar (Dipika Kakar)",
+     "note": "LOOSE FIT, single source: only the WatchWhatWhere listing (blurb reads auto-written) gives this episode; it was not confirmed on a recap site. The separate Jan 2015 arc is the reverse (Amar himself hypnotised). Air date not stated.",
+     "mechanism": "Hypnotism by antagonist",
+     "confidence_flag": "single source — loose fit",
+     "categories": [
+      "india-control",
+      "indian-female-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "WatchWhatWhere E1066",
+       "url": "https://watchwhatwhere.com/title/10643308-amar-hypnotizes-simar"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "E1066 “Amar Hypnotizes Simar”",
+       "air_date": "",
+       "gist": "Amar uses hypnotism to control Simar; her behaviour shifts and the family misses the cause (title and blurb from one listing only)",
+       "number_verified": false
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -43219,6 +43291,43 @@
      "tags": [
       "youtube-india-oct15"
      ]
+    },
+    "hypno-india-oct24:3": {
+     "title": "Sasural Simar Ka",
+     "match_title": "Sasural Simar Ka",
+     "match_year": "2011–18",
+     "year": "2011–18",
+     "format": "TV series",
+     "meta": "TV serial · India · Hindi · Colors TV",
+     "mechanism": "Hypnotism by antagonist",
+     "categories": [
+      "india-control",
+      "indian-female-hypnosis"
+     ],
+     "summary": "Episode listing: Amar uses hypnotism to control and isolate Simar while the family is unaware.",
+     "character": "Simar (Dipika Kakar)",
+     "episodes": [
+      {
+       "episode": "E1066 “Amar Hypnotizes Simar”",
+       "air_date": "",
+       "gist": "Amar uses hypnotism to control Simar; her behaviour shifts and the family misses the cause (title and blurb from one listing only)",
+       "number_verified": false
+      }
+     ],
+     "note": "LOOSE FIT, single source: only the WatchWhatWhere listing (blurb reads auto-written) gives this episode; it was not confirmed on a recap site. The separate Jan 2015 arc is the reverse (Amar himself hypnotised). Air date not stated.",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "married": "not stated",
+     "sources": [
+      {
+       "label": "WatchWhatWhere E1066",
+       "url": "https://watchwhatwhere.com/title/10643308-amar-hypnotizes-simar"
+      }
+     ],
+     "provenance": "Indian-media max-list sweep, 24 Oct 2026 PT (adults only; clinical wording)",
+     "confidence_flag": "single source — loose fit",
+     "group": "Indian-media hypnosis sweep (Oct 2026)"
     }
    }
   },
@@ -120612,8 +120721,20 @@
    "confidence_flag": "Medium-high confidence · recap-based",
    "summary": "Antagonist Sambhav hypnotizes lead Suhani as part of his revenge plot; separate tracks have a “Baba” hypnotising Suhani and a mother-son hypnotist duo hypnotizing Somya.",
    "character": "",
-   "provenance": "",
+   "provenance": "Indian-media max-list sweep, 24 Oct 2026 PT (adults only; clinical wording)",
    "note": "",
+   "episodes": [
+    {
+     "episode": "S23E08 “Is Suhani Hypnotised?” (JioCinema US numbering)",
+     "air_date": "",
+     "gist": "Title-level lead: Suhani is suspected of being hypnotised (no plot text retrieved)",
+     "number_verified": false
+    }
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
    "format": "tv",
    "categories": [
     "indian-female-hypnosis",
@@ -120630,20 +120751,102 @@
     {
      "label": "IndiaForums",
      "url": "https://www.indiaforums.com/forum/suhani-si-ek-ladki/4813916/toi-synopsis"
+    },
+    {
+     "label": "JioCinema US S23E08",
+     "url": "https://www.jiocinemaus.com/episode/suhani-si-ek-ladki-s23e08-is-suhani-hypnotised-full-episode/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "hypno-india-oct24"
    ],
    "source_records": [
-    "xla62ucxbx02u5:620"
+    "xla62ucxbx02u5:620",
+    "hypno-india-oct24:4"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:620",
+    "source": "xla62ucxbx02u5",
+    "label": "Suhani Si Ek Ladki (2014–2017)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Suhani Si Ek Ladki",
+    "subtitle": "",
+    "year": "2014–2017",
+    "meta": "TV serial (soap) · India · Hindi · Star Plus",
+    "summary": "Antagonist Sambhav hypnotizes lead Suhani as part of his revenge plot; separate tracks have a “Baba” hypnotising Suhani and a mother-son hypnotist duo hypnotizing Somya.",
+    "character": "",
+    "note": "",
+    "mechanism": "Villain hypnosis tracks",
+    "confidence_flag": "Medium-high confidence · recap-based",
+    "categories": [
+     "indian-female-hypnosis",
+     "forced-obedience",
+     "human",
+     "india-control",
+     "mother"
+    ],
+    "sources": [
+     {
+      "label": "TellyUpdates",
+      "url": "https://www.tellyupdates.com/suhani-si-ek-ladki-27th-december-2016-written-episode-update/"
+     },
+     {
+      "label": "IndiaForums",
+      "url": "https://www.indiaforums.com/forum/suhani-si-ek-ladki/4813916/toi-synopsis"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypno-india-oct24:4",
+     "source": "hypno-india-oct24",
+     "label": "Suhani Si Ek Ladki (2014–2017)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Suhani Si Ek Ladki",
+     "subtitle": "",
+     "year": "2014–2017",
+     "meta": "TV serial · India · Hindi · &TV",
+     "summary": "Episode listing 'Is Suhani Hypnotised?' (JioCinema US numbering S23E08); title-level lead only.",
+     "character": "Suhani",
+     "note": "LOOSE FIT, single source: the JioCinema US page title only (the page itself failed to load for verification). Consistent with the Sambhav-hypnotises-Suhani track already on this card.",
+     "mechanism": "Hypnosis by antagonist",
+     "confidence_flag": "single source — loose fit",
+     "categories": [
+      "india-control",
+      "indian-female-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "JioCinema US S23E08",
+       "url": "https://www.jiocinemaus.com/episode/suhani-si-ek-ladki-s23e08-is-suhani-hypnotised-full-episode/"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "S23E08 “Is Suhani Hypnotised?” (JioCinema US numbering)",
+       "air_date": "",
+       "gist": "Title-level lead: Suhani is suspected of being hypnotised (no plot text retrieved)",
+       "number_verified": false
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:620": {
      "t": "Suhani Si Ek Ladki",
@@ -120673,6 +120876,43 @@
      ],
      "ihg": "north",
      "peg": "no"
+    },
+    "hypno-india-oct24:4": {
+     "title": "Suhani Si Ek Ladki",
+     "match_title": "Suhani Si Ek Ladki",
+     "match_year": "2014–2017",
+     "year": "2014–2017",
+     "format": "TV series",
+     "meta": "TV serial · India · Hindi · &TV",
+     "mechanism": "Hypnosis by antagonist",
+     "categories": [
+      "india-control",
+      "indian-female-hypnosis"
+     ],
+     "summary": "Episode listing 'Is Suhani Hypnotised?' (JioCinema US numbering S23E08); title-level lead only.",
+     "character": "Suhani",
+     "episodes": [
+      {
+       "episode": "S23E08 “Is Suhani Hypnotised?” (JioCinema US numbering)",
+       "air_date": "",
+       "gist": "Title-level lead: Suhani is suspected of being hypnotised (no plot text retrieved)",
+       "number_verified": false
+      }
+     ],
+     "note": "LOOSE FIT, single source: the JioCinema US page title only (the page itself failed to load for verification). Consistent with the Sambhav-hypnotises-Suhani track already on this card.",
+     "pregnant_end": "not stated",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "married": "not stated",
+     "sources": [
+      {
+       "label": "JioCinema US S23E08",
+       "url": "https://www.jiocinemaus.com/episode/suhani-si-ek-ladki-s23e08-is-suhani-hypnotised-full-episode/"
+      }
+     ],
+     "provenance": "Indian-media max-list sweep, 24 Oct 2026 PT (adults only; clinical wording)",
+     "confidence_flag": "single source — loose fit",
+     "group": "Indian-media hypnosis sweep (Oct 2026)"
     }
    }
   },
@@ -446094,11 +446334,25 @@
    "year": "2016",
    "meta": "TV sitcom · &TV · Hindi · India",
    "mechanism": "Hypnosis (comic)",
-   "confidence_flag": "Low-Medium · official episode title only",
-   "summary": "Angoori is hypnotised (per official video title); description covers the okra rivalry plot.",
+   "confidence_flag": "3 sources (episode guides, E223–E224)",
+   "summary": "Vibhuti learns hypnotism from Saxena and uses it on Angoori (Manmohan's wife) to turn her against her husband; a hypnotised Angoori throws Manmohan out and beats him with a belt on command. Anita (Vibhuti's wife) later hypnotises Vibhuti himself in E225 (male victim, not counted).",
    "character": "Angoori",
    "provenance": "Official-channel YouTube sweep, 15 Oct 2026 PT",
    "note": "",
+   "episodes": [
+    {
+     "episode": "E223 “Vibhuti Hypnotises Angoori” (6 Jan 2016)",
+     "air_date": "2016-01-06",
+     "gist": "Vibhuti watches Saxena hypnotise Teeka Ram and Malkhan, learns the technique, then hypnotises Angoori after Manmohan boasts of controlling his wife",
+     "number_verified": true
+    },
+    {
+     "episode": "E224 “A Hypnotised Angoori Beats Manmohan Black and Blue” (7 Jan 2016)",
+     "air_date": "2016-01-07",
+     "gist": "A hypnotised Angoori kicks Manmohan out of the house; Vibhuti hypnotises her again and orders her to hit Manmohan, and she beats him with a belt; she cries on seeing him afterwards",
+     "number_verified": true
+    }
+   ],
    "kids_status": "not stated",
    "kids_together": "not stated",
    "married": "not stated",
@@ -446113,22 +446367,125 @@
     {
      "label": "&TV (YouTube): Bhabi Ji Ghar Par Hai! Episode 224",
      "url": "https://www.youtube.com/watch?v=Ns7LaxQyjig"
+    },
+    {
+     "label": "Flex episode guide E223",
+     "url": "https://flex.movie/series/sister-in-law-is-at-home-2015/season/1/episode/223-vibhuti-hypnotises-angoori"
+    },
+    {
+     "label": "mtdb365 E224",
+     "url": "https://mtdb365.com/tv/65682/season/1/episode/224"
+    },
+    {
+     "label": "TheTVDB E223",
+     "url": "https://thetvdb.com/series/bhabi-ji-ghar-par-hain/episodes/5518526"
     }
    ],
    "youtube_ids": [
     "Ns7LaxQyjig"
    ],
    "from_sources": [
-    "official-yt-oct15"
+    "official-yt-oct15",
+    "hypno-india-oct24"
    ],
    "source_records": [
-    "official-yt-oct15:6"
+    "official-yt-oct15:6",
+    "hypno-india-oct24:1"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": "thumbs/Ns7LaxQyjig.jpg",
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "official-yt-oct15:6",
+    "source": "official-yt-oct15",
+    "label": "Bhabi Ji Ghar Par Hai! · Episode 224 (7 Jan 2016) (2016)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Bhabi Ji Ghar Par Hai!",
+    "subtitle": "Episode 224 (7 Jan 2016)",
+    "year": "2016",
+    "meta": "TV sitcom · &TV · Hindi · India",
+    "summary": "Angoori is hypnotised (per official video title); description covers the okra rivalry plot.",
+    "character": "Angoori",
+    "note": "",
+    "mechanism": "Hypnosis (comic)",
+    "confidence_flag": "Low-Medium · official episode title only",
+    "categories": [
+     "indian-female-hypnosis",
+     "index-62",
+     "india-control"
+    ],
+    "sources": [
+     {
+      "label": "&TV (YouTube): Bhabi Ji Ghar Par Hai! Episode 224",
+      "url": "https://www.youtube.com/watch?v=Ns7LaxQyjig"
+     }
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypno-india-oct24:1",
+     "source": "hypno-india-oct24",
+     "label": "Bhabi Ji Ghar Par Hai! (2016)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Bhabi Ji Ghar Par Hai!",
+     "subtitle": "",
+     "year": "2016",
+     "meta": "TV serial · India · Hindi · &TV (episode guide dates 6–7 Jan 2016)",
+     "summary": "Vibhuti learns hypnotism from Saxena and uses it on Angoori (Manmohan's wife) to turn her against her husband; a hypnotised Angoori throws Manmohan out and beats him with a belt on command. Anita (Vibhuti's wife) later hypnotises Vibhuti himself in E225 (male victim, not counted).",
+     "character": "Angoori (Shubhangi Atre)",
+     "note": "Comedy. Angoori is an adult married woman; no pregnancy or children in these episodes. E225 (8 Jan 2016) has Anita hypnotise Vibhuti (male victim) and exposes the plan.",
+     "mechanism": "Learned stage hypnotism used on a spouse (comic)",
+     "confidence_flag": "3 sources (episode guides, E223–E224)",
+     "categories": [
+      "india-control",
+      "indian-female-hypnosis"
+     ],
+     "sources": [
+      {
+       "label": "Flex episode guide E223",
+       "url": "https://flex.movie/series/sister-in-law-is-at-home-2015/season/1/episode/223-vibhuti-hypnotises-angoori"
+      },
+      {
+       "label": "mtdb365 E224",
+       "url": "https://mtdb365.com/tv/65682/season/1/episode/224"
+      },
+      {
+       "label": "TheTVDB E223",
+       "url": "https://thetvdb.com/series/bhabi-ji-ghar-par-hain/episodes/5518526"
+      }
+     ],
+     "episodes": [
+      {
+       "episode": "E223 “Vibhuti Hypnotises Angoori” (6 Jan 2016)",
+       "air_date": "2016-01-06",
+       "gist": "Vibhuti watches Saxena hypnotise Teeka Ram and Malkhan, learns the technique, then hypnotises Angoori after Manmohan boasts of controlling his wife",
+       "number_verified": true
+      },
+      {
+       "episode": "E224 “A Hypnotised Angoori Beats Manmohan Black and Blue” (7 Jan 2016)",
+       "air_date": "2016-01-07",
+       "gist": "A hypnotised Angoori kicks Manmohan out of the house; Vibhuti hypnotises her again and orders her to hit Manmohan, and she beats him with a belt; she cries on seeing him afterwards",
+       "number_verified": true
+      }
+     ],
+     "kids_status": "not stated",
+     "kids_together": "no",
+     "married": "not stated",
+     "pregnant_end": "no",
+     "distinct_story": true,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "official-yt-oct15:6": {
      "title": "Bhabi Ji Ghar Par Hai!",
@@ -446158,6 +446515,61 @@
      "kids_status": "not stated",
      "kids_together": "not stated",
      "married": "not stated"
+    },
+    "hypno-india-oct24:1": {
+     "title": "Bhabi Ji Ghar Par Hai!",
+     "match_title": "Bhabi Ji Ghar Par Hai!",
+     "match_year": "2016",
+     "year": "2016",
+     "format": "TV series",
+     "meta": "TV serial · India · Hindi · &TV (episode guide dates 6–7 Jan 2016)",
+     "mechanism": "Learned stage hypnotism used on a spouse (comic)",
+     "categories": [
+      "india-control",
+      "indian-female-hypnosis"
+     ],
+     "summary": "Vibhuti learns hypnotism from Saxena and uses it on Angoori (Manmohan's wife) to turn her against her husband; a hypnotised Angoori throws Manmohan out and beats him with a belt on command. Anita (Vibhuti's wife) later hypnotises Vibhuti himself in E225 (male victim, not counted).",
+     "character": "Angoori (Shubhangi Atre)",
+     "episodes": [
+      {
+       "episode": "E223 “Vibhuti Hypnotises Angoori” (6 Jan 2016)",
+       "air_date": "2016-01-06",
+       "gist": "Vibhuti watches Saxena hypnotise Teeka Ram and Malkhan, learns the technique, then hypnotises Angoori after Manmohan boasts of controlling his wife",
+       "number_verified": true
+      },
+      {
+       "episode": "E224 “A Hypnotised Angoori Beats Manmohan Black and Blue” (7 Jan 2016)",
+       "air_date": "2016-01-07",
+       "gist": "A hypnotised Angoori kicks Manmohan out of the house; Vibhuti hypnotises her again and orders her to hit Manmohan, and she beats him with a belt; she cries on seeing him afterwards",
+       "number_verified": true
+      }
+     ],
+     "note": "Comedy. Angoori is an adult married woman; no pregnancy or children in these episodes. E225 (8 Jan 2016) has Anita hypnotise Vibhuti (male victim) and exposes the plan.",
+     "pregnant_end": "no",
+     "kids_together": "no",
+     "kids_status": "not stated",
+     "married": "not stated",
+     "sources": [
+      {
+       "label": "Flex episode guide E223",
+       "url": "https://flex.movie/series/sister-in-law-is-at-home-2015/season/1/episode/223-vibhuti-hypnotises-angoori"
+      },
+      {
+       "label": "mtdb365 E224",
+       "url": "https://mtdb365.com/tv/65682/season/1/episode/224"
+      },
+      {
+       "label": "TheTVDB E223",
+       "url": "https://thetvdb.com/series/bhabi-ji-ghar-par-hain/episodes/5518526"
+      }
+     ],
+     "provenance": "Indian-media max-list sweep, 24 Oct 2026 PT (adults only; clinical wording)",
+     "confidence_flag": "3 sources (episode guides, E223–E224)",
+     "override_fields": [
+      "summary",
+      "confidence_flag"
+     ],
+     "group": "Indian-media hypnosis sweep (Oct 2026)"
     }
    }
   },
@@ -478982,6 +479394,100 @@
      "note": "Loose fit: the hypnosis fails and she only pretends to be under. Details come from captions; the drama's original title isn't given."
     }
    }
+  },
+  {
+   "id": 3349,
+   "title": "Pandya Store — E203 “Prafulla in Danger!”",
+   "subtitle": "",
+   "year": "2021",
+   "meta": "TV serial episode · India · Hindi · Star Plus (17 Sep 2021)",
+   "mechanism": "Hypnosis by con-artist thieves (distraction scam)",
+   "confidence_flag": "2 sources; name conflict (Prafulla vs Suman) — loose fit",
+   "summary": "Two women posing as vessel-exchange sellers praise Suman's eyes, hypnotise her into handing over her bangles and put her to sleep, then rob the house; Dhara (pregnant, asleep) wakes and is tied up, and Rishita arrives to find Suman asleep as the thieves escape.",
+   "character": "Suman (Pandya mother-in-law)",
+   "provenance": "Indian-media max-list sweep, 24 Oct 2026 PT (adults only; clinical wording)",
+   "note": "CONFLICT/loose fit: the Hotstar episode title names 'Prafulla', while the JustShowBiz written update names the hypnotised woman as Suman (the mother-in-law). Dhara is pregnant in this arc but is not the hypnotised person. Suman is an adult mother-in-law (grown family in the house).",
+   "episodes": [
+    {
+     "episode": "E203 “Prafulla in Danger!” (17 Sep 2021)",
+     "air_date": "2021-09-17",
+     "gist": "Thieves hypnotise Suman and rob the Pandya house",
+     "number_verified": true
+    }
+   ],
+   "kids_status": "yes — adult family; mother-in-law of the household per recap",
+   "kids_together": "no",
+   "married": "not stated",
+   "pregnant_end": "no",
+   "format": "tv episode",
+   "categories": [
+    "india-control",
+    "indian-female-hypnosis"
+   ],
+   "sources": [
+    {
+     "label": "JustShowBiz written update 17 Sep 2021",
+     "url": "https://www.justshowbiz.net/pandya-store-17th-september-2021-written-update/"
+    },
+    {
+     "label": "Hotstar E203",
+     "url": "https://www.hotstar.com/in/tv/Pandya-Store/1260053090/prafulla-in-danger!/1000266109"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypno-india-oct24"
+   ],
+   "source_records": [
+    "hypno-india-oct24:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-india-oct24:2": {
+     "title": "Pandya Store — E203 “Prafulla in Danger!”",
+     "year": "2021",
+     "format": "tv episode",
+     "standalone": true,
+     "meta": "TV serial episode · India · Hindi · Star Plus (17 Sep 2021)",
+     "mechanism": "Hypnosis by con-artist thieves (distraction scam)",
+     "categories": [
+      "india-control",
+      "indian-female-hypnosis"
+     ],
+     "summary": "Two women posing as vessel-exchange sellers praise Suman's eyes, hypnotise her into handing over her bangles and put her to sleep, then rob the house; Dhara (pregnant, asleep) wakes and is tied up, and Rishita arrives to find Suman asleep as the thieves escape.",
+     "character": "Suman (Pandya mother-in-law)",
+     "episodes": [
+      {
+       "episode": "E203 “Prafulla in Danger!” (17 Sep 2021)",
+       "air_date": "2021-09-17",
+       "gist": "Thieves hypnotise Suman and rob the Pandya house",
+       "number_verified": true
+      }
+     ],
+     "note": "CONFLICT/loose fit: the Hotstar episode title names 'Prafulla', while the JustShowBiz written update names the hypnotised woman as Suman (the mother-in-law). Dhara is pregnant in this arc but is not the hypnotised person. Suman is an adult mother-in-law (grown family in the house).",
+     "pregnant_end": "no",
+     "kids_together": "no",
+     "kids_status": "yes — adult family; mother-in-law of the household per recap",
+     "married": "not stated",
+     "sources": [
+      {
+       "label": "JustShowBiz written update 17 Sep 2021",
+       "url": "https://www.justshowbiz.net/pandya-store-17th-september-2021-written-update/"
+      },
+      {
+       "label": "Hotstar E203",
+       "url": "https://www.hotstar.com/in/tv/Pandya-Store/1260053090/prafulla-in-danger!/1000266109"
+      }
+     ],
+     "provenance": "Indian-media max-list sweep, 24 Oct 2026 PT (adults only; clinical wording)",
+     "confidence_flag": "2 sources; name conflict (Prafulla vs Suman) — loose fit",
+     "group": "Indian-media hypnosis sweep (Oct 2026)"
+    }
+   }
   }
  ],
  "sections": [
@@ -488827,7 +489333,8 @@
     "hypnosis-yt-oct15",
     "youtube-india-oct15",
     "deep-refresh-oct18",
-    "weekly-oct19"
+    "weekly-oct19",
+    "hypno-india-oct24"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 57,
@@ -488852,7 +489359,8 @@
     "hypnosis-yt-oct15": null,
     "youtube-india-oct15": null,
     "deep-refresh-oct18": null,
-    "weekly-oct19": null
+    "weekly-oct19": null,
+    "hypno-india-oct24": null
    },
    "groups": [
     {
@@ -490260,6 +490768,21 @@
       }
      ],
      "from_source": "weekly-oct19"
+    },
+    {
+     "title": "Indian-media hypnosis sweep (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3349,
+       "from_source": "hypno-india-oct24"
+      },
+      {
+       "id": 615,
+       "from_source": "hypno-india-oct24"
+      }
+     ],
+     "from_source": "hypno-india-oct24"
     }
    ]
   },
@@ -501915,13 +502438,15 @@
     "indian-langs-oct14",
     "official-yt-oct15",
     "streaming-oct15",
-    "hypnosis-yt-oct15"
+    "hypnosis-yt-oct15",
+    "hypno-india-oct24"
    ],
    "declared_count_by_source": {
     "indian-langs-oct14": null,
     "official-yt-oct15": null,
     "streaming-oct15": null,
-    "hypnosis-yt-oct15": null
+    "hypnosis-yt-oct15": null,
+    "hypno-india-oct24": null
    },
    "groups": [
     {
@@ -502043,6 +502568,25 @@
       }
      ],
      "from_source": "hypnosis-yt-oct15"
+    },
+    {
+     "title": "Indian-media hypnosis sweep (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3349,
+       "from_source": "hypno-india-oct24"
+      },
+      {
+       "id": 155,
+       "from_source": "hypno-india-oct24"
+      },
+      {
+       "id": 615,
+       "from_source": "hypno-india-oct24"
+      }
+     ],
+     "from_source": "hypno-india-oct24"
     }
    ]
   },
@@ -502203,6 +502747,16 @@
         "Mother with child hypnotized / mind-controlled",
         "Villain hypnosis tracks",
         "Medium-high confidence · recap-based"
+       ],
+       "sources": [
+        {
+         "label": "TellyUpdates",
+         "url": "https://www.tellyupdates.com/suhani-si-ek-ladki-27th-december-2016-written-episode-update/"
+        },
+        {
+         "label": "IndiaForums",
+         "url": "https://www.indiaforums.com/forum/suhani-si-ek-ladki/4813916/toi-synopsis"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       }
@@ -528192,6 +528746,16 @@
         "Mother with child hypnotized / mind-controlled",
         "Villain hypnosis tracks",
         "Medium-high confidence · recap-based"
+       ],
+       "sources": [
+        {
+         "label": "TellyUpdates",
+         "url": "https://www.tellyupdates.com/suhani-si-ek-ladki-27th-december-2016-written-episode-update/"
+        },
+        {
+         "label": "IndiaForums",
+         "url": "https://www.indiaforums.com/forum/suhani-si-ek-ladki/4813916/toi-synopsis"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
