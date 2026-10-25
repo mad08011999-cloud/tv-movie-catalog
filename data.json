@@ -5430,6 +5430,19 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "hypnosis-deep-oct25c",
+   "label": "VNDB + TV Tropes mind-control sweep, batch 3 (25 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/hypnosis-deep-oct25c.json",
+   "description": "Titles found through the VNDB mind-control tag (adult visual novels where the description states adult women are hypnotised or brainwashed) and the TV Tropes mind-control indexes (verified on Wikipedia). Ghost/spirit/demon possession, minors and male-only control excluded. Unknown fields are 'not stated'.",
+   "dropped": [],
+   "check": {
+    "raw_count": 18,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -5502,10 +5515,11 @@
   "hypnosis-deep-oct25b": 41,
   "hypno-pregnant-yt-oct25": 7,
   "pregnant-intimate-oct25": 28,
-  "pregnant-scenes-oct25": 9
+  "pregnant-scenes-oct25": 9,
+  "hypnosis-deep-oct25c": 18
  },
- "raw_total": 6561,
- "entry_count": 3464,
+ "raw_total": 6579,
+ "entry_count": 3482,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -5523,7 +5537,7 @@
    "key": "adult-hypnosis",
    "label": "Adult female hypnosis — R-rated-equivalent worldwide",
    "legend_label": "Adult female hypnosis — R-rated-equivalent worldwide",
-   "entry_count": 300
+   "entry_count": 315
   },
   {
    "key": "belly",
@@ -5553,7 +5567,7 @@
    "key": "cult",
    "label": "Cult / coercive brainwashing",
    "legend_label": "Cult / coercive brainwashing",
-   "entry_count": 57
+   "entry_count": 58
   },
   {
    "key": "occult",
@@ -5577,13 +5591,13 @@
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 87
+   "entry_count": 94
   },
   {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 285
+   "entry_count": 287
   },
   {
    "key": "child-controller",
@@ -5607,13 +5621,13 @@
    "key": "hypnotized-to-marry",
    "label": "Female hypnotized into marriage",
    "legend_label": "Female hypnotized into marriage",
-   "entry_count": 32
+   "entry_count": 33
   },
   {
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 339
+   "entry_count": 357
   },
   {
    "key": "index-56",
@@ -5643,7 +5657,7 @@
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 114
+   "entry_count": 117
   },
   {
    "key": "index-54",
@@ -5667,25 +5681,25 @@
    "key": "cheat-control",
    "label": "Hypnotized / controlled into infidelity",
    "legend_label": "Hypnotized / controlled into infidelity",
-   "entry_count": 31
+   "entry_count": 33
   },
   {
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 183
+   "entry_count": 185
   },
   {
    "key": "royal-hypnosis",
    "label": "Hypnotized queen/princess for marriage or the throne",
    "legend_label": "Hypnotized queen / princess",
-   "entry_count": 56
+   "entry_count": 57
   },
   {
    "key": "love",
    "label": "Hypnotized to love",
    "legend_label": "Hypnotized to love",
-   "entry_count": 230
+   "entry_count": 231
   },
   {
    "key": "hypno-intimacy",
@@ -506932,6 +506946,1534 @@
      "content_label": "Hardcore / adult"
     }
    }
+  },
+  {
+   "id": 3604,
+   "title": "Kangoku Senkan: Hidou no Sennou Kaizou Koukai",
+   "subtitle": "",
+   "year": "2007",
+   "meta": "VNDB · adult visual novel · game",
+   "mechanism": "brainwashing lab on a space battleship",
+   "confidence_flag": "high for the brainwashing premise (VNDB description from DLsite); marital, kids and pregnancy not stated",
+   "summary": "The captain of the battleship Jasant, Major Donny Bohgan, brainwashes two popular female officers, Rieri Bishop and Naomi Evans, to remake them into different people (adult-only visual novel).",
+   "character": "Rieri Bishop and Naomi Evans (army officers)",
+   "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the source",
+   "tags": [
+    "deep-oct25",
+    "vndb"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+   "evidence": "VNDB — game description",
+   "already_married": "not stated",
+   "format": "game",
+   "categories": [
+    "adult-hypnosis",
+    "forced-obedience",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "VNDB — game description",
+     "url": "https://vndb.org/v1343"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25c"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25c:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25c:1": {
+     "title": "Kangoku Senkan: Hidou no Sennou Kaizou Koukai",
+     "year": "2007",
+     "format": "game",
+     "meta": "VNDB · adult visual novel · game",
+     "mechanism": "brainwashing lab on a space battleship",
+     "character": "Rieri Bishop and Naomi Evans (army officers)",
+     "summary": "The captain of the battleship Jasant, Major Donny Bohgan, brainwashes two popular female officers, Rieri Bishop and Naomi Evans, to remake them into different people (adult-only visual novel).",
+     "categories": [
+      "adult-hypnosis",
+      "forced-obedience",
+      "tech"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the source",
+     "sources": [
+      {
+       "label": "VNDB — game description",
+       "url": "https://vndb.org/v1343"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "vndb"
+     ],
+     "evidence": "VNDB — game description",
+     "confidence_flag": "high for the brainwashing premise (VNDB description from DLsite); marital, kids and pregnancy not stated",
+     "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3605,
+   "title": "Kangoku Senkan 2: Yousai Toshi no Sennou Kaizou",
+   "subtitle": "",
+   "year": "2010",
+   "meta": "VNDB · adult visual novel · game",
+   "mechanism": "brainwashing lab / personality-destroying training",
+   "confidence_flag": "high for the brainwashing premise (VNDB description from DLsite); marital, kids and pregnancy not stated",
+   "summary": "Secret agent Dino Dirasso uses a brainwashing lab aboard the battleship Yekel to start brainwashing modification and personality-destroying training of General Alicia Viewstream and imperial heir Maya Cordelia, to break an alliance (adult-only visual novel).",
+   "character": "General Alicia Viewstream and Maya Cordelia (imperial heir)",
+   "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the source",
+   "tags": [
+    "deep-oct25",
+    "vndb"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+   "evidence": "VNDB — game description",
+   "already_married": "not stated",
+   "format": "game",
+   "categories": [
+    "adult-hypnosis",
+    "forced-obedience",
+    "tech",
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "VNDB — game description",
+     "url": "https://vndb.org/v4852"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25c"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25c:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25c:2": {
+     "title": "Kangoku Senkan 2: Yousai Toshi no Sennou Kaizou",
+     "year": "2010",
+     "format": "game",
+     "meta": "VNDB · adult visual novel · game",
+     "mechanism": "brainwashing lab / personality-destroying training",
+     "character": "General Alicia Viewstream and Maya Cordelia (imperial heir)",
+     "summary": "Secret agent Dino Dirasso uses a brainwashing lab aboard the battleship Yekel to start brainwashing modification and personality-destroying training of General Alicia Viewstream and imperial heir Maya Cordelia, to break an alliance (adult-only visual novel).",
+     "categories": [
+      "adult-hypnosis",
+      "forced-obedience",
+      "tech",
+      "crime"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the source",
+     "sources": [
+      {
+       "label": "VNDB — game description",
+       "url": "https://vndb.org/v4852"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "vndb"
+     ],
+     "evidence": "VNDB — game description",
+     "confidence_flag": "high for the brainwashing premise (VNDB description from DLsite); marital, kids and pregnancy not stated",
+     "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3606,
+   "title": "Kangoku Senkan 3: Nessa no Sennou Kouro",
+   "subtitle": "",
+   "year": "2013",
+   "meta": "VNDB · adult visual novel · game",
+   "mechanism": "night-after-night brainwashing programming",
+   "confidence_flag": "high for the brainwashing premise (VNDB description from DLsite); pregnancy and marital status not stated",
+   "summary": "A mother and daughter, Beatrice and Kila Kushan, are strong-willed ship crew by day and brainwashed servants by night; the programming is repeated night after night, with multiple endings (adult-only visual novel).",
+   "character": "Beatrice Kushan and her daughter Kila (ship crew)",
+   "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "Beatrice is the mother of Kila, who serves with her (VNDB description); no pregnancy is mentioned.",
+   "tags": [
+    "deep-oct25",
+    "vndb"
+   ],
+   "kids_status": "yes",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "no pregnancy mentioned",
+   "evidence": "VNDB — game description",
+   "already_married": "not stated",
+   "format": "game",
+   "categories": [
+    "adult-hypnosis",
+    "forced-obedience",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "VNDB — game description",
+     "url": "https://vndb.org/v13267"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25c"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25c:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25c:3": {
+     "title": "Kangoku Senkan 3: Nessa no Sennou Kouro",
+     "year": "2013",
+     "format": "game",
+     "meta": "VNDB · adult visual novel · game",
+     "mechanism": "night-after-night brainwashing programming",
+     "character": "Beatrice Kushan and her daughter Kila (ship crew)",
+     "summary": "A mother and daughter, Beatrice and Kila Kushan, are strong-willed ship crew by day and brainwashed servants by night; the programming is repeated night after night, with multiple endings (adult-only visual novel).",
+     "categories": [
+      "adult-hypnosis",
+      "forced-obedience",
+      "tech"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "yes",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "no pregnancy mentioned",
+     "pregnancy_note": "Beatrice is the mother of Kila, who serves with her (VNDB description); no pregnancy is mentioned.",
+     "sources": [
+      {
+       "label": "VNDB — game description",
+       "url": "https://vndb.org/v13267"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "vndb"
+     ],
+     "evidence": "VNDB — game description",
+     "confidence_flag": "high for the brainwashing premise (VNDB description from DLsite); pregnancy and marital status not stated",
+     "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3607,
+   "title": "Elite Onna Joushi o Saimin de Haramase Onaho ni Shita Erosugiru Kaisha Seikatsu",
+   "subtitle": "",
+   "year": "2017",
+   "meta": "VNDB · adult visual novel · game",
+   "mechanism": "hypnosis app",
+   "confidence_flag": "high for the hypnosis premise (VNDB description from DLsite); pregnancy outcome not stated",
+   "summary": "A man uses a hypnosis app to turn his cold, elitist female boss into a compliant servant; the title promises she will be \"hypnotised and made pregnant\" (adult-only visual novel).",
+   "character": "the protagonist's elite female boss",
+   "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "The title promises impregnation (\"haramase\"); the VNDB description does not say how it ends.",
+   "tags": [
+    "deep-oct25",
+    "vndb"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+   "evidence": "VNDB — game description",
+   "already_married": "not stated",
+   "format": "game",
+   "categories": [
+    "adult-hypnosis",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "VNDB — game description",
+     "url": "https://vndb.org/v20793"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25c"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25c:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25c:4": {
+     "title": "Elite Onna Joushi o Saimin de Haramase Onaho ni Shita Erosugiru Kaisha Seikatsu",
+     "year": "2017",
+     "format": "game",
+     "meta": "VNDB · adult visual novel · game",
+     "mechanism": "hypnosis app",
+     "character": "the protagonist's elite female boss",
+     "summary": "A man uses a hypnosis app to turn his cold, elitist female boss into a compliant servant; the title promises she will be \"hypnotised and made pregnant\" (adult-only visual novel).",
+     "categories": [
+      "adult-hypnosis",
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "The title promises impregnation (\"haramase\"); the VNDB description does not say how it ends.",
+     "sources": [
+      {
+       "label": "VNDB — game description",
+       "url": "https://vndb.org/v20793"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "vndb"
+     ],
+     "evidence": "VNDB — game description",
+     "confidence_flag": "high for the hypnosis premise (VNDB description from DLsite); pregnancy outcome not stated",
+     "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3608,
+   "title": "Joushiki Kaihen! Bakunyuu Bosei Tomo Mama to Kozukuri Homestay!",
+   "subtitle": "",
+   "year": "2020",
+   "meta": "VNDB · adult visual novel · game",
+   "mechanism": "hypnosis app / commonsense alteration",
+   "confidence_flag": "high for the hypnosis premise (VNDB description from DLsite); pregnancy outcome not stated",
+   "summary": "A bullied boy uses an emailed hypnosis app to program his bully's mother into believing he is on a \"baby-making homestay\" with her, so she accepts everything he suggests and becomes his \"impregnation momma\" (adult-only visual novel).",
+   "character": "a bully's mother (a mother with her own child)",
+   "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "The mother already has a child (the bully) and the plot is about impregnating her; the VNDB description does not give the ending.",
+   "tags": [
+    "deep-oct25",
+    "vndb"
+   ],
+   "kids_status": "yes",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+   "evidence": "VNDB — game description",
+   "already_married": "not stated",
+   "format": "game",
+   "categories": [
+    "adult-hypnosis",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "VNDB — game description",
+     "url": "https://vndb.org/v29399"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25c"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25c:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25c:5": {
+     "title": "Joushiki Kaihen! Bakunyuu Bosei Tomo Mama to Kozukuri Homestay!",
+     "year": "2020",
+     "format": "game",
+     "meta": "VNDB · adult visual novel · game",
+     "mechanism": "hypnosis app / commonsense alteration",
+     "character": "a bully's mother (a mother with her own child)",
+     "summary": "A bullied boy uses an emailed hypnosis app to program his bully's mother into believing he is on a \"baby-making homestay\" with her, so she accepts everything he suggests and becomes his \"impregnation momma\" (adult-only visual novel).",
+     "categories": [
+      "adult-hypnosis",
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "yes",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "The mother already has a child (the bully) and the plot is about impregnating her; the VNDB description does not give the ending.",
+     "sources": [
+      {
+       "label": "VNDB — game description",
+       "url": "https://vndb.org/v29399"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "vndb"
+     ],
+     "evidence": "VNDB — game description",
+     "confidence_flag": "high for the hypnosis premise (VNDB description from DLsite); pregnancy outcome not stated",
+     "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3609,
+   "title": "Ane Ane Double Saimin: Saimin Souchi de Kyonyuu Ane Futari o Netoru",
+   "subtitle": "",
+   "year": "2016",
+   "meta": "VNDB · adult visual novel · game",
+   "mechanism": "hypnosis app (\"Hypnos App\")",
+   "confidence_flag": "medium: VNDB description and tags (hypnosis app premise); no full plot read",
+   "summary": "A jobless freeloader finds the \"Hypnos App\", which puts everything in the room under his command, and aims it at his brother's wife and her sister (adult-only visual novel).",
+   "character": "the protagonist's brother's wife and her sister (his sister-in-law)",
+   "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the source",
+   "tags": [
+    "deep-oct25",
+    "vndb"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "yes",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+   "evidence": "VNDB — game description",
+   "already_married": "yes",
+   "format": "game",
+   "categories": [
+    "adult-hypnosis",
+    "forced-obedience",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "VNDB — game description",
+     "url": "https://vndb.org/v19600"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25c"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25c:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25c:6": {
+     "title": "Ane Ane Double Saimin: Saimin Souchi de Kyonyuu Ane Futari o Netoru",
+     "year": "2016",
+     "format": "game",
+     "meta": "VNDB · adult visual novel · game",
+     "mechanism": "hypnosis app (\"Hypnos App\")",
+     "character": "the protagonist's brother's wife and her sister (his sister-in-law)",
+     "summary": "A jobless freeloader finds the \"Hypnos App\", which puts everything in the room under his command, and aims it at his brother's wife and her sister (adult-only visual novel).",
+     "categories": [
+      "adult-hypnosis",
+      "forced-obedience",
+      "wife"
+     ],
+     "already_married": "yes",
+     "married": "yes",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the source",
+     "sources": [
+      {
+       "label": "VNDB — game description",
+       "url": "https://vndb.org/v19600"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "vndb"
+     ],
+     "evidence": "VNDB — game description",
+     "confidence_flag": "medium: VNDB description and tags (hypnosis app premise); no full plot read",
+     "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3610,
+   "title": "Ane Ane Double Saimin 2: Kyonyuu Onna Joushi Chikan, Kyonyuu Hitozuma Netori",
+   "subtitle": "",
+   "year": "2017",
+   "meta": "VNDB · adult visual novel · game",
+   "mechanism": "hypnosis device from the \"YAMI Site\"",
+   "confidence_flag": "medium: VNDB description and tags; no full plot read",
+   "summary": "A failing businessman scorned by his sister-in-law Fuyuka and the other sister-in-law Natsuki finds a hypnosis device online and uses it to change his life (adult-only visual novel; the title mentions a married woman, \"hitozuma\").",
+   "character": "sisters-in-law Fuyuka (his boss) and Natsuki (a married woman)",
+   "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the source",
+   "tags": [
+    "deep-oct25",
+    "vndb"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+   "evidence": "VNDB — game description",
+   "already_married": "not stated",
+   "format": "game",
+   "categories": [
+    "adult-hypnosis",
+    "forced-obedience",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "VNDB — game description",
+     "url": "https://vndb.org/v21583"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25c"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25c:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25c:7": {
+     "title": "Ane Ane Double Saimin 2: Kyonyuu Onna Joushi Chikan, Kyonyuu Hitozuma Netori",
+     "year": "2017",
+     "format": "game",
+     "meta": "VNDB · adult visual novel · game",
+     "mechanism": "hypnosis device from the \"YAMI Site\"",
+     "character": "sisters-in-law Fuyuka (his boss) and Natsuki (a married woman)",
+     "summary": "A failing businessman scorned by his sister-in-law Fuyuka and the other sister-in-law Natsuki finds a hypnosis device online and uses it to change his life (adult-only visual novel; the title mentions a married woman, \"hitozuma\").",
+     "categories": [
+      "adult-hypnosis",
+      "forced-obedience",
+      "wife"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the source",
+     "sources": [
+      {
+       "label": "VNDB — game description",
+       "url": "https://vndb.org/v21583"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "vndb"
+     ],
+     "evidence": "VNDB — game description",
+     "confidence_flag": "medium: VNDB description and tags; no full plot read",
+     "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3611,
+   "title": "Saimin Datsujo 3: Subete ga Boku no Jiyuu ni Naru Hodo",
+   "subtitle": "",
+   "year": "2022",
+   "meta": "VNDB · adult visual novel · game",
+   "mechanism": "hypnotic suggestion and an artifact",
+   "confidence_flag": "high for the hypnosis event (VNDB description); kids and pregnancy not stated",
+   "summary": "Yuto gives his sister's engaged friend, the female teacher Shizuru Kurihara, a \"light suggestion\" to bottle up stress and then uses an artifact to coerce her (adult-only visual novel). She is engaged to a fiancé.",
+   "character": "Shizuru Kurihara (recently engaged teacher)",
+   "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "She is engaged, not married; no pregnancy is mentioned in the VNDB description.",
+   "tags": [
+    "deep-oct25",
+    "vndb"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+   "evidence": "VNDB — game description",
+   "already_married": "no",
+   "format": "game",
+   "categories": [
+    "adult-hypnosis",
+    "forced-obedience",
+    "cheat-control"
+   ],
+   "sources": [
+    {
+     "label": "VNDB — game description",
+     "url": "https://vndb.org/v32755"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25c"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25c:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25c:8": {
+     "title": "Saimin Datsujo 3: Subete ga Boku no Jiyuu ni Naru Hodo",
+     "year": "2022",
+     "format": "game",
+     "meta": "VNDB · adult visual novel · game",
+     "mechanism": "hypnotic suggestion and an artifact",
+     "character": "Shizuru Kurihara (recently engaged teacher)",
+     "summary": "Yuto gives his sister's engaged friend, the female teacher Shizuru Kurihara, a \"light suggestion\" to bottle up stress and then uses an artifact to coerce her (adult-only visual novel). She is engaged to a fiancé.",
+     "categories": [
+      "adult-hypnosis",
+      "forced-obedience",
+      "cheat-control"
+     ],
+     "already_married": "no",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "She is engaged, not married; no pregnancy is mentioned in the VNDB description.",
+     "sources": [
+      {
+       "label": "VNDB — game description",
+       "url": "https://vndb.org/v32755"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "vndb"
+     ],
+     "evidence": "VNDB — game description",
+     "confidence_flag": "high for the hypnosis event (VNDB description); kids and pregnancy not stated",
+     "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3612,
+   "title": "Saimin Eye Drops",
+   "subtitle": "",
+   "year": "2016",
+   "meta": "VNDB · adult visual novel · game",
+   "mechanism": "hypnosis eye drops",
+   "confidence_flag": "medium: VNDB description is truncated about the exact effect; hypnosis is in the title and tags",
+   "summary": "The protagonist finds an unusual eye-drop formula among his late scientist father's things and uses it on his stepmother Manami (and her daughter) in this adult-only visual novel.",
+   "character": "Manami (the protagonist's stepmother, his late father's second wife)",
+   "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the source",
+   "tags": [
+    "deep-oct25",
+    "vndb"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+   "evidence": "VNDB — game description",
+   "already_married": "yes",
+   "format": "game",
+   "categories": [
+    "adult-hypnosis",
+    "forced-obedience",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "VNDB — game description",
+     "url": "https://vndb.org/v20172"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25c"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25c:9"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25c:9": {
+     "title": "Saimin Eye Drops",
+     "year": "2016",
+     "format": "game",
+     "meta": "VNDB · adult visual novel · game",
+     "mechanism": "hypnosis eye drops",
+     "character": "Manami (the protagonist's stepmother, his late father's second wife)",
+     "summary": "The protagonist finds an unusual eye-drop formula among his late scientist father's things and uses it on his stepmother Manami (and her daughter) in this adult-only visual novel.",
+     "categories": [
+      "adult-hypnosis",
+      "forced-obedience",
+      "tech"
+     ],
+     "already_married": "yes",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the source",
+     "sources": [
+      {
+       "label": "VNDB — game description",
+       "url": "https://vndb.org/v20172"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "vndb"
+     ],
+     "evidence": "VNDB — game description",
+     "confidence_flag": "medium: VNDB description is truncated about the exact effect; hypnosis is in the title and tags",
+     "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3613,
+   "title": "In'en no Yu: Sandai no Okami-tachi to no Mikkou",
+   "subtitle": "",
+   "year": "2014",
+   "meta": "VNDB · adult visual novel · game",
+   "mechanism": "hypnosis program",
+   "confidence_flag": "high for the hypnosis premise (VNDB description); pregnancy ending not stated",
+   "summary": "An inn worker whose wife recently gave birth finds a hypnosis program and turns it on the women of his wife's family who run the inn (adult-only visual novel).",
+   "character": "his wife, sister-in-law Mako, mother-in-law Mizuho and grandmother-in-law Nanao",
+   "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "His wife has recently given birth to their first child (VNDB description).",
+   "tags": [
+    "deep-oct25",
+    "vndb"
+   ],
+   "kids_status": "yes",
+   "kids_together": "yes",
+   "married": "yes",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+   "evidence": "VNDB — game description",
+   "already_married": "yes",
+   "format": "game",
+   "categories": [
+    "adult-hypnosis",
+    "forced-obedience",
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "VNDB — game description",
+     "url": "https://vndb.org/v15311"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25c"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25c:10"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25c:10": {
+     "title": "In'en no Yu: Sandai no Okami-tachi to no Mikkou",
+     "year": "2014",
+     "format": "game",
+     "meta": "VNDB · adult visual novel · game",
+     "mechanism": "hypnosis program",
+     "character": "his wife, sister-in-law Mako, mother-in-law Mizuho and grandmother-in-law Nanao",
+     "summary": "An inn worker whose wife recently gave birth finds a hypnosis program and turns it on the women of his wife's family who run the inn (adult-only visual novel).",
+     "categories": [
+      "adult-hypnosis",
+      "forced-obedience",
+      "wife"
+     ],
+     "already_married": "yes",
+     "married": "yes",
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "His wife has recently given birth to their first child (VNDB description).",
+     "sources": [
+      {
+       "label": "VNDB — game description",
+       "url": "https://vndb.org/v15311"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "vndb"
+     ],
+     "evidence": "VNDB — game description",
+     "confidence_flag": "high for the hypnosis premise (VNDB description); pregnancy ending not stated",
+     "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3614,
+   "title": "Daisaimin",
+   "subtitle": "",
+   "year": "2013",
+   "meta": "VNDB · adult visual novel · game",
+   "mechanism": "hypno-gun",
+   "confidence_flag": "high for the hypno-gun premise (VNDB description)",
+   "summary": "A man who obtains a hypno-gun sets out to take every woman he wants; in a side story the two women detectives who specialise in hypnosis crimes cross his path and their lives change (adult-only visual novel).",
+   "character": "Sayaka Nikaidou and Runa Shigiyama (women detectives)",
+   "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the source",
+   "tags": [
+    "deep-oct25",
+    "vndb"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+   "evidence": "VNDB — game description",
+   "already_married": "not stated",
+   "format": "game",
+   "categories": [
+    "adult-hypnosis",
+    "forced-obedience",
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "VNDB — game description",
+     "url": "https://vndb.org/v11634"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25c"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25c:11"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25c:11": {
+     "title": "Daisaimin",
+     "year": "2013",
+     "format": "game",
+     "meta": "VNDB · adult visual novel · game",
+     "mechanism": "hypno-gun",
+     "character": "Sayaka Nikaidou and Runa Shigiyama (women detectives)",
+     "summary": "A man who obtains a hypno-gun sets out to take every woman he wants; in a side story the two women detectives who specialise in hypnosis crimes cross his path and their lives change (adult-only visual novel).",
+     "categories": [
+      "adult-hypnosis",
+      "forced-obedience",
+      "crime"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the source",
+     "sources": [
+      {
+       "label": "VNDB — game description",
+       "url": "https://vndb.org/v11634"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "vndb"
+     ],
+     "evidence": "VNDB — game description",
+     "confidence_flag": "high for the hypno-gun premise (VNDB description)",
+     "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3615,
+   "title": "Kyonyuu Gunjin Shihai Saimin",
+   "subtitle": "",
+   "year": "2021",
+   "meta": "VNDB · adult visual novel · game",
+   "mechanism": "hypnosis device",
+   "confidence_flag": "medium: VNDB description is partly truncated; hypnosis device premise confirmed in the visible text",
+   "summary": "A young officer whose military success depends on a hypnosis device controls the women of the armed forces (adult-only visual novel).",
+   "character": "female soldiers and officers",
+   "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the source",
+   "tags": [
+    "deep-oct25",
+    "vndb"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+   "evidence": "VNDB — game description",
+   "already_married": "not stated",
+   "format": "game",
+   "categories": [
+    "adult-hypnosis",
+    "forced-obedience",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "VNDB — game description",
+     "url": "https://vndb.org/v32174"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25c"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25c:12"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25c:12": {
+     "title": "Kyonyuu Gunjin Shihai Saimin",
+     "year": "2021",
+     "format": "game",
+     "meta": "VNDB · adult visual novel · game",
+     "mechanism": "hypnosis device",
+     "character": "female soldiers and officers",
+     "summary": "A young officer whose military success depends on a hypnosis device controls the women of the armed forces (adult-only visual novel).",
+     "categories": [
+      "adult-hypnosis",
+      "forced-obedience",
+      "tech"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the source",
+     "sources": [
+      {
+       "label": "VNDB — game description",
+       "url": "https://vndb.org/v32174"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "vndb"
+     ],
+     "evidence": "VNDB — game description",
+     "confidence_flag": "medium: VNDB description is partly truncated; hypnosis device premise confirmed in the visible text",
+     "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3616,
+   "title": "Kyonyuu Elf Oyako Saimin",
+   "subtitle": "",
+   "year": "2018",
+   "meta": "VNDB · adult visual novel · game",
+   "mechanism": "hypnosis (oyako saimin = parent-and-child hypnosis)",
+   "confidence_flag": "medium: VNDB description is long and partly truncated; title and tags state parent-and-child hypnosis",
+   "summary": "An adult-only visual novel set in an elf kingdom ruled by female High Elves where a human uses hypnosis on an elf mother and daughter.",
+   "character": "elf mother and daughter (High Elf ruled kingdom)",
+   "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the source",
+   "tags": [
+    "deep-oct25",
+    "vndb"
+   ],
+   "kids_status": "yes",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+   "evidence": "VNDB — game description",
+   "already_married": "not stated",
+   "format": "game",
+   "categories": [
+    "adult-hypnosis",
+    "forced-obedience",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "VNDB — game description",
+     "url": "https://vndb.org/v24380"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25c"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25c:13"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25c:13": {
+     "title": "Kyonyuu Elf Oyako Saimin",
+     "year": "2018",
+     "format": "game",
+     "meta": "VNDB · adult visual novel · game",
+     "mechanism": "hypnosis (oyako saimin = parent-and-child hypnosis)",
+     "character": "elf mother and daughter (High Elf ruled kingdom)",
+     "summary": "An adult-only visual novel set in an elf kingdom ruled by female High Elves where a human uses hypnosis on an elf mother and daughter.",
+     "categories": [
+      "adult-hypnosis",
+      "forced-obedience",
+      "fantasy"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "yes",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the source",
+     "sources": [
+      {
+       "label": "VNDB — game description",
+       "url": "https://vndb.org/v24380"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "vndb"
+     ],
+     "evidence": "VNDB — game description",
+     "confidence_flag": "medium: VNDB description is long and partly truncated; title and tags state parent-and-child hypnosis",
+     "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3617,
+   "title": "VenusBlood -HYPNO-",
+   "subtitle": "",
+   "year": "2014",
+   "meta": "VNDB · adult visual novel · game",
+   "mechanism": "hypnosis",
+   "confidence_flag": "medium: VNDB description is truncated; hypnosis is the entry's theme per title and tags",
+   "summary": "In the VenusBlood series entry subtitled HYPNO, the war between the demon queens centres on a secret unit and hypnosis of the queens (adult-only strategy visual novel).",
+   "character": "the demon queens (Empress Karvia and the other queens)",
+   "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the source",
+   "tags": [
+    "deep-oct25",
+    "vndb"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+   "evidence": "VNDB — game description",
+   "already_married": "not stated",
+   "format": "game",
+   "categories": [
+    "adult-hypnosis",
+    "forced-obedience",
+    "royal-hypnosis",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "VNDB — game description",
+     "url": "https://vndb.org/v15641"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25c"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25c:14"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25c:14": {
+     "title": "VenusBlood -HYPNO-",
+     "year": "2014",
+     "format": "game",
+     "meta": "VNDB · adult visual novel · game",
+     "mechanism": "hypnosis",
+     "character": "the demon queens (Empress Karvia and the other queens)",
+     "summary": "In the VenusBlood series entry subtitled HYPNO, the war between the demon queens centres on a secret unit and hypnosis of the queens (adult-only strategy visual novel).",
+     "categories": [
+      "adult-hypnosis",
+      "forced-obedience",
+      "royal-hypnosis",
+      "fantasy"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the source",
+     "sources": [
+      {
+       "label": "VNDB — game description",
+       "url": "https://vndb.org/v15641"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "vndb"
+     ],
+     "evidence": "VNDB — game description",
+     "confidence_flag": "medium: VNDB description is truncated; hypnosis is the entry's theme per title and tags",
+     "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3618,
+   "title": "Kyuukon Saimin: Watashi, Zettai ni Uwaki Nante Shinai",
+   "subtitle": "",
+   "year": "2020",
+   "meta": "VNDB · adult visual novel · game",
+   "mechanism": "hypnotic techniques",
+   "confidence_flag": "medium: VNDB description is truncated; hypnosis of Rei is implied by the premise and title",
+   "summary": "A ruthless businessman who uses deception, threats and hypnotic techniques sets out to win the heiress Rei Sakuragaoka, who already has a fiancé, even though her family refuses him (adult-only visual novel; the title is \"I would never cheat\").",
+   "character": "Rei Sakuragaoka (heiress with a fiancé)",
+   "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the source",
+   "tags": [
+    "deep-oct25",
+    "vndb"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+   "evidence": "VNDB — game description",
+   "already_married": "no",
+   "format": "game",
+   "categories": [
+    "adult-hypnosis",
+    "forced-obedience",
+    "cheat-control",
+    "love"
+   ],
+   "sources": [
+    {
+     "label": "VNDB — game description",
+     "url": "https://vndb.org/v26417"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25c"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25c:15"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25c:15": {
+     "title": "Kyuukon Saimin: Watashi, Zettai ni Uwaki Nante Shinai",
+     "year": "2020",
+     "format": "game",
+     "meta": "VNDB · adult visual novel · game",
+     "mechanism": "hypnotic techniques",
+     "character": "Rei Sakuragaoka (heiress with a fiancé)",
+     "summary": "A ruthless businessman who uses deception, threats and hypnotic techniques sets out to win the heiress Rei Sakuragaoka, who already has a fiancé, even though her family refuses him (adult-only visual novel; the title is \"I would never cheat\").",
+     "categories": [
+      "adult-hypnosis",
+      "forced-obedience",
+      "cheat-control",
+      "love"
+     ],
+     "already_married": "no",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the source does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the source",
+     "sources": [
+      {
+       "label": "VNDB — game description",
+       "url": "https://vndb.org/v26417"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "vndb"
+     ],
+     "evidence": "VNDB — game description",
+     "confidence_flag": "medium: VNDB description is truncated; hypnosis of Rei is implied by the premise and title",
+     "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3619,
+   "title": "Torchwood: Sleeper",
+   "subtitle": "",
+   "year": "2008",
+   "meta": "Wikipedia en · tv episode",
+   "mechanism": "alien sleeper programming (false memories)",
+   "confidence_flag": "high (Wikipedia plot); she lives with her husband Mike; kids and pregnancy not stated",
+   "summary": "In the Torchwood episode \"Sleeper\", Beth Halloran is an alien sleeper agent with false memories who has no recollection of her violent acts and is triggered to attack strategic targets in Cardiff to prepare Earth for invasion.",
+   "character": "Beth Halloran",
+   "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the source",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "yes",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the episode summary does not mention a pregnancy",
+   "evidence": "Wikipedia — \"Sleeper (Torchwood)\"",
+   "already_married": "yes",
+   "format": "tv episode",
+   "categories": [
+    "tech",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — \"Sleeper (Torchwood)\"",
+     "url": "https://en.wikipedia.org/wiki/Sleeper_(Torchwood)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25c"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25c:16"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25c:16": {
+     "title": "Torchwood: Sleeper",
+     "year": "2008",
+     "format": "tv episode",
+     "meta": "Wikipedia en · tv episode",
+     "mechanism": "alien sleeper programming (false memories)",
+     "character": "Beth Halloran",
+     "summary": "In the Torchwood episode \"Sleeper\", Beth Halloran is an alien sleeper agent with false memories who has no recollection of her violent acts and is triggered to attack strategic targets in Cardiff to prepare Earth for invasion.",
+     "categories": [
+      "tech",
+      "forced-obedience"
+     ],
+     "already_married": "yes",
+     "married": "yes",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the episode summary does not mention a pregnancy",
+     "pregnancy_note": "not stated in the source",
+     "sources": [
+      {
+       "label": "Wikipedia — \"Sleeper (Torchwood)\"",
+       "url": "https://en.wikipedia.org/wiki/Sleeper_(Torchwood)"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia — \"Sleeper (Torchwood)\"",
+     "confidence_flag": "high (Wikipedia plot); she lives with her husband Mike; kids and pregnancy not stated",
+     "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3620,
+   "title": "The Dark Phoenix Saga",
+   "subtitle": "",
+   "year": "1980",
+   "meta": "Wikipedia en · comic",
+   "mechanism": "psychic illusion via a mind-tap device",
+   "confidence_flag": "high (Wikipedia plot summary); marital, kids and pregnancy not stated",
+   "summary": "Mastermind (as Jason Wyngarde) uses a mind-tap device to project illusions directly into Jean Grey's mind so she believes she is reliving a past life as the Hellfire Club's Black Queen, and she then helps capture the X-Men.",
+   "character": "Jean Grey (Phoenix)",
+   "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the source",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "no pregnancy in the Dark Phoenix storyline summary",
+   "evidence": "Wikipedia — \"The Dark Phoenix Saga\"",
+   "already_married": "not stated",
+   "format": "comic",
+   "categories": [
+    "forced-obedience",
+    "tech"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — \"The Dark Phoenix Saga\"",
+     "url": "https://en.wikipedia.org/wiki/The_Dark_Phoenix_Saga"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25c"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25c:17"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25c:17": {
+     "title": "The Dark Phoenix Saga",
+     "year": "1980",
+     "format": "comic",
+     "meta": "Wikipedia en · comic",
+     "mechanism": "psychic illusion via a mind-tap device",
+     "character": "Jean Grey (Phoenix)",
+     "summary": "Mastermind (as Jason Wyngarde) uses a mind-tap device to project illusions directly into Jean Grey's mind so she believes she is reliving a past life as the Hellfire Club's Black Queen, and she then helps capture the X-Men.",
+     "categories": [
+      "forced-obedience",
+      "tech"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "no pregnancy in the Dark Phoenix storyline summary",
+     "pregnancy_note": "not stated in the source",
+     "sources": [
+      {
+       "label": "Wikipedia — \"The Dark Phoenix Saga\"",
+       "url": "https://en.wikipedia.org/wiki/The_Dark_Phoenix_Saga"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia — \"The Dark Phoenix Saga\"",
+     "confidence_flag": "high (Wikipedia plot summary); marital, kids and pregnancy not stated",
+     "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3621,
+   "title": "Fire Emblem: Genealogy of the Holy War",
+   "subtitle": "",
+   "year": "1996",
+   "meta": "Wikipedia en · game",
+   "mechanism": "kidnapping and memory erasure by Archbishop Manfroy",
+   "confidence_flag": "high (Wikipedia plot) for the memory-erasure control; counted as brainwashing because her memories are erased so Loptous can be revived",
+   "summary": "Archbishop Manfroy kidnaps Deirdre and erases her memories to use her to resurrect Loptous; with her memory gone she is married to Arvis, king of Grannvale, and bears him twins, after having a son, Seliph, with Sigurd.",
+   "character": "Deirdre",
+   "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "Per the Wikipedia plot, Deirdre has a son Seliph with Sigurd and twins Julius and Julia with Arvis.",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "yes",
+   "kids_together": "yes",
+   "married": "yes",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated",
+   "evidence": "Wikipedia — \"Fire Emblem: Genealogy of the Holy War\"",
+   "already_married": "yes",
+   "format": "game",
+   "categories": [
+    "forced-obedience",
+    "cult",
+    "hypnotized-to-marry"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — \"Fire Emblem: Genealogy of the Holy War\"",
+     "url": "https://en.wikipedia.org/wiki/Fire_Emblem:_Genealogy_of_the_Holy_War"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25c"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25c:18"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25c:18": {
+     "title": "Fire Emblem: Genealogy of the Holy War",
+     "year": "1996",
+     "format": "game",
+     "meta": "Wikipedia en · game",
+     "mechanism": "kidnapping and memory erasure by Archbishop Manfroy",
+     "character": "Deirdre",
+     "summary": "Archbishop Manfroy kidnaps Deirdre and erases her memories to use her to resurrect Loptous; with her memory gone she is married to Arvis, king of Grannvale, and bears him twins, after having a son, Seliph, with Sigurd.",
+     "categories": [
+      "forced-obedience",
+      "cult",
+      "hypnotized-to-marry"
+     ],
+     "already_married": "yes",
+     "married": "yes",
+     "kids_status": "yes",
+     "kids_together": "yes",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated",
+     "pregnancy_note": "Per the Wikipedia plot, Deirdre has a son Seliph with Sigurd and twins Julius and Julia with Arvis.",
+     "sources": [
+      {
+       "label": "Wikipedia — \"Fire Emblem: Genealogy of the Holy War\"",
+       "url": "https://en.wikipedia.org/wiki/Fire_Emblem:_Genealogy_of_the_Holy_War"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia — \"Fire Emblem: Genealogy of the Holy War\"",
+     "confidence_flag": "high (Wikipedia plot) for the memory-erasure control; counted as brainwashing because her memories are erased so Loptous can be revived",
+     "provenance": "Found via the VNDB mind-control tag sweep and the TV Tropes mind-control index, 25 Oct 2026 PT"
+    }
+   }
   }
  ],
  "sections": [
@@ -507408,7 +508950,8 @@
     "youtube-sweep-oct15",
     "adult-fanmade-oct15",
     "deep-refresh-oct18",
-    "deep-oct24"
+    "deep-oct24",
+    "hypnosis-deep-oct25c"
    ],
    "groups": [
     {
@@ -510960,6 +512503,73 @@
       }
      ],
      "from_source": "deep-oct24"
+    },
+    {
+     "title": "Deep worldwide crawl — VNDB mind-control tag and TV Tropes index, batch 3 (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3610,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3609,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3614,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3607,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3613,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3608,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3605,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3606,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3604,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3616,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3615,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3618,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3611,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3612,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3617,
+       "from_source": "hypnosis-deep-oct25c"
+      }
+     ],
+     "from_source": "hypnosis-deep-oct25c"
     }
    ],
    "declared_count_by_source": {
@@ -510986,7 +512596,8 @@
     "youtube-sweep-oct15": null,
     "adult-fanmade-oct15": null,
     "deep-refresh-oct18": null,
-    "deep-oct24": null
+    "deep-oct24": null,
+    "hypnosis-deep-oct25c": null
    }
   },
   {
@@ -511751,7 +513362,8 @@
     "deep-refresh-oct18",
     "deep-oct24",
     "hypnosis-deep-oct25",
-    "hypnosis-deep-oct25b"
+    "hypnosis-deep-oct25b",
+    "hypnosis-deep-oct25c"
    ],
    "groups": [
     {
@@ -512194,6 +513806,17 @@
       }
      ],
      "from_source": "hypnosis-deep-oct25b"
+    },
+    {
+     "title": "Deep worldwide crawl — VNDB mind-control tag and TV Tropes index, batch 3 (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3621,
+       "from_source": "hypnosis-deep-oct25c"
+      }
+     ],
+     "from_source": "hypnosis-deep-oct25c"
     }
    ],
    "declared_count_by_source": {
@@ -512212,7 +513835,8 @@
     "deep-refresh-oct18": null,
     "deep-oct24": null,
     "hypnosis-deep-oct25": null,
-    "hypnosis-deep-oct25b": null
+    "hypnosis-deep-oct25b": null,
+    "hypnosis-deep-oct25c": null
    }
   },
   {
@@ -513646,7 +515270,8 @@
     "deep-oct24",
     "hypnosis-imdb-list-oct24",
     "hypnosis-deep-oct25",
-    "hypnosis-deep-oct25b"
+    "hypnosis-deep-oct25b",
+    "hypnosis-deep-oct25c"
    ],
    "groups": [
     {
@@ -514107,6 +515732,41 @@
       }
      ],
      "from_source": "hypnosis-deep-oct25b"
+    },
+    {
+     "title": "Deep worldwide crawl — VNDB mind-control tag and TV Tropes index, batch 3 (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3620,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3605,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3606,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3604,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3615,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3612,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3619,
+       "from_source": "hypnosis-deep-oct25c"
+      }
+     ],
+     "from_source": "hypnosis-deep-oct25c"
     }
    ],
    "declared_count_by_source": {
@@ -514126,7 +515786,8 @@
     "deep-oct24": null,
     "hypnosis-imdb-list-oct24": null,
     "hypnosis-deep-oct25": null,
-    "hypnosis-deep-oct25b": null
+    "hypnosis-deep-oct25b": null,
+    "hypnosis-deep-oct25c": null
    }
   },
   {
@@ -514158,7 +515819,8 @@
     "youtube-deep-oct15",
     "hypnosis-yt-oct15",
     "deep-refresh-oct18",
-    "deep-oct24"
+    "deep-oct24",
+    "hypnosis-deep-oct25c"
    ],
    "groups": [
     {
@@ -516307,6 +517969,21 @@
       }
      ],
      "from_source": "deep-oct24"
+    },
+    {
+     "title": "Deep worldwide crawl — VNDB mind-control tag and TV Tropes index, batch 3 (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3616,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3617,
+       "from_source": "hypnosis-deep-oct25c"
+      }
+     ],
+     "from_source": "hypnosis-deep-oct25c"
     }
    ],
    "declared_count_by_source": {
@@ -516332,7 +518009,8 @@
     "youtube-deep-oct15": null,
     "hypnosis-yt-oct15": null,
     "deep-refresh-oct18": null,
-    "deep-oct24": null
+    "deep-oct24": null,
+    "hypnosis-deep-oct25c": null
    }
   },
   {
@@ -519464,7 +521142,8 @@
    "from_sources": [
     "xla62ucxbx02u5",
     "hypnosis-deep-oct25",
-    "hypnosis-deep-oct25b"
+    "hypnosis-deep-oct25b",
+    "hypnosis-deep-oct25c"
    ],
    "groups": [
     {
@@ -519785,11 +521464,23 @@
       }
      ],
      "from_source": "hypnosis-deep-oct25b"
+    },
+    {
+     "title": "Deep worldwide crawl — VNDB mind-control tag and TV Tropes index, batch 3 (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3621,
+       "from_source": "hypnosis-deep-oct25c"
+      }
+     ],
+     "from_source": "hypnosis-deep-oct25c"
     }
    ],
    "declared_count_by_source": {
     "hypnosis-deep-oct25": null,
-    "hypnosis-deep-oct25b": null
+    "hypnosis-deep-oct25b": null,
+    "hypnosis-deep-oct25c": null
    }
   },
   {
@@ -524740,7 +526431,8 @@
     "deep-refresh-oct18",
     "deep-oct24",
     "hypnosis-deep-oct25",
-    "hypnosis-deep-oct25b"
+    "hypnosis-deep-oct25b",
+    "hypnosis-deep-oct25c"
    ],
    "groups": [
     {
@@ -526038,6 +527730,25 @@
       }
      ],
      "from_source": "hypnosis-deep-oct25b"
+    },
+    {
+     "title": "Deep worldwide crawl — VNDB mind-control tag and TV Tropes index, batch 3 (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3610,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3609,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3613,
+       "from_source": "hypnosis-deep-oct25c"
+      }
+     ],
+     "from_source": "hypnosis-deep-oct25c"
     }
    ],
    "declared_count_by_source": {
@@ -526059,7 +527770,8 @@
     "deep-refresh-oct18": null,
     "deep-oct24": null,
     "hypnosis-deep-oct25": null,
-    "hypnosis-deep-oct25b": null
+    "hypnosis-deep-oct25b": null,
+    "hypnosis-deep-oct25c": null
    }
   },
   {
@@ -526435,7 +528147,8 @@
     "round2",
     "round3",
     "indonesia-sinetron-oct15",
-    "hypnosis-yt-oct15"
+    "hypnosis-yt-oct15",
+    "hypnosis-deep-oct25c"
    ],
    "groups": [
     {
@@ -526873,6 +528586,21 @@
       }
      ],
      "from_source": "hypnosis-yt-oct15"
+    },
+    {
+     "title": "Deep worldwide crawl — VNDB mind-control tag and TV Tropes index, batch 3 (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3618,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3611,
+       "from_source": "hypnosis-deep-oct25c"
+      }
+     ],
+     "from_source": "hypnosis-deep-oct25c"
     }
    ],
    "declared_count_by_source": {
@@ -526887,7 +528615,8 @@
     "round2": null,
     "round3": null,
     "indonesia-sinetron-oct15": null,
-    "hypnosis-yt-oct15": null
+    "hypnosis-yt-oct15": null,
+    "hypnosis-deep-oct25c": null
    }
   },
   {
@@ -526923,7 +528652,8 @@
     "deep-oct24",
     "hypnosis-deep-oct25",
     "hypnosis-deep-oct25b",
-    "hypno-pregnant-yt-oct25"
+    "hypno-pregnant-yt-oct25",
+    "hypnosis-deep-oct25c"
    ],
    "groups": [
     {
@@ -527914,6 +529644,21 @@
       }
      ],
      "from_source": "hypno-pregnant-yt-oct25"
+    },
+    {
+     "title": "Deep worldwide crawl — VNDB mind-control tag and TV Tropes index, batch 3 (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3614,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3605,
+       "from_source": "hypnosis-deep-oct25c"
+      }
+     ],
+     "from_source": "hypnosis-deep-oct25c"
     }
    ],
    "declared_count_by_source": {
@@ -527937,7 +529682,8 @@
     "deep-oct24": null,
     "hypnosis-deep-oct25": null,
     "hypnosis-deep-oct25b": null,
-    "hypno-pregnant-yt-oct25": null
+    "hypno-pregnant-yt-oct25": null,
+    "hypnosis-deep-oct25c": null
    }
   },
   {
@@ -527954,7 +529700,8 @@
     "youtube-deep-oct15",
     "youtube-india-oct15",
     "deep-refresh-oct18",
-    "hypnosis-deep-oct25"
+    "hypnosis-deep-oct25",
+    "hypnosis-deep-oct25c"
    ],
    "groups": [
     {
@@ -528260,6 +530007,17 @@
       }
      ],
      "from_source": "hypnosis-deep-oct25"
+    },
+    {
+     "title": "Deep worldwide crawl — VNDB mind-control tag and TV Tropes index, batch 3 (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3617,
+       "from_source": "hypnosis-deep-oct25c"
+      }
+     ],
+     "from_source": "hypnosis-deep-oct25c"
     }
    ],
    "declared_count_by_source": {
@@ -528270,7 +530028,8 @@
     "youtube-deep-oct15": null,
     "youtube-india-oct15": null,
     "deep-refresh-oct18": null,
-    "hypnosis-deep-oct25": null
+    "hypnosis-deep-oct25": null,
+    "hypnosis-deep-oct25c": null
    }
   },
   {
@@ -528318,7 +530077,8 @@
     "youtube-deep-oct15",
     "hypnosis-yt-oct15",
     "deep-refresh-oct18",
-    "deep-oct24"
+    "deep-oct24",
+    "hypnosis-deep-oct25c"
    ],
    "groups": [
     {
@@ -530452,6 +532212,17 @@
       }
      ],
      "from_source": "deep-oct24"
+    },
+    {
+     "title": "Deep worldwide crawl — VNDB mind-control tag and TV Tropes index, batch 3 (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3618,
+       "from_source": "hypnosis-deep-oct25c"
+      }
+     ],
+     "from_source": "hypnosis-deep-oct25c"
     }
    ],
    "declared_count_by_source": {
@@ -530477,7 +532248,8 @@
     "youtube-deep-oct15": null,
     "hypnosis-yt-oct15": null,
     "deep-refresh-oct18": null,
-    "deep-oct24": null
+    "deep-oct24": null,
+    "hypnosis-deep-oct25c": null
    }
   },
   {
@@ -557678,7 +559450,8 @@
     "deep-oct24",
     "hypnosis-imdb-list-oct24",
     "hypnosis-deep-oct25",
-    "hypnosis-deep-oct25b"
+    "hypnosis-deep-oct25b",
+    "hypnosis-deep-oct25c"
    ],
    "groups": [
     {
@@ -560071,6 +561844,85 @@
       }
      ],
      "from_source": "hypnosis-deep-oct25b"
+    },
+    {
+     "title": "Deep worldwide crawl — VNDB mind-control tag and TV Tropes index, batch 3 (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3610,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3609,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3614,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3620,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3607,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3621,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3613,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3608,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3605,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3606,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3604,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3616,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3615,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3618,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3611,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3612,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3619,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3617,
+       "from_source": "hypnosis-deep-oct25c"
+      }
+     ],
+     "from_source": "hypnosis-deep-oct25c"
     }
    ],
    "declared_count_by_source": {
@@ -560093,7 +561945,8 @@
     "deep-oct24": null,
     "hypnosis-imdb-list-oct24": null,
     "hypnosis-deep-oct25": null,
-    "hypnosis-deep-oct25b": null
+    "hypnosis-deep-oct25b": null,
+    "hypnosis-deep-oct25c": null
    }
   },
   {
