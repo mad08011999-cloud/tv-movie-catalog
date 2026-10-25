@@ -5360,7 +5360,7 @@
    "description": "Full-text Wikipedia crawl (English and many other languages) for hypnosis / trance / brainwashing / mind-control plot terms, filtered and read by hand. Each card is based on the plot summary of the linked Wikipedia page; ghost / spirit / demon possession and magic spells are excluded. Marital, kids and pregnancy fields are 'not stated' unless the plot says otherwise.",
    "dropped": [],
    "check": {
-    "raw_count": 132,
+    "raw_count": 130,
     "ok": true
    },
    "status": "local"
@@ -5511,15 +5511,15 @@
   "deep-oct24": 60,
   "hypno-india-oct24": 4,
   "hypnosis-imdb-list-oct24": 61,
-  "hypnosis-deep-oct25": 132,
+  "hypnosis-deep-oct25": 130,
   "hypnosis-deep-oct25b": 41,
   "hypno-pregnant-yt-oct25": 7,
   "pregnant-intimate-oct25": 28,
   "pregnant-scenes-oct25": 9,
   "hypnosis-deep-oct25c": 18
  },
- "raw_total": 6579,
- "entry_count": 3482,
+ "raw_total": 6577,
+ "entry_count": 3480,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -5627,7 +5627,7 @@
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 357
+   "entry_count": 355
   },
   {
    "key": "index-56",
@@ -127882,7 +127882,7 @@
     "xla62ucxbx02u5:657",
     "hypno-leftovers:9",
     "streaming-oct15:4",
-    "hypnosis-deep-oct25:57"
+    "hypnosis-deep-oct25:55"
    ],
    "index_only": false,
    "local_only": false,
@@ -127995,7 +127995,7 @@
      "matched_by": "same title+year"
     },
     {
-     "rid": "hypnosis-deep-oct25:57",
+     "rid": "hypnosis-deep-oct25:55",
      "source": "hypnosis-deep-oct25",
      "label": "À l'aventure (2008)",
      "identifiers": [
@@ -128096,7 +128096,7 @@
      "evidence": "2+ independent sources (Wikipedia, Ciné-club de Caen, Cinenode)",
      "fit_note": "French erotic drama by Jean-Claude Brisseau. Psychiatry student Greg introduces Sandrine to hypnosis, and under hypnosis Mina relives a medieval nun's ecstasy. The hypnosis is regression and exploration, and no intimacy under hypnosis is confirmed, so it is not tagged hypno-intimacy"
     },
-    "hypnosis-deep-oct25:57": {
+    "hypnosis-deep-oct25:55": {
      "title": "À l'aventure",
      "year": "2008",
      "format": "movie",
@@ -188840,7 +188840,7 @@
     }
    },
    "retired_ids": [
-    3570
+    3568
    ],
    "watch_links": [
     {
@@ -492304,87 +492304,6 @@
   },
   {
    "id": 3427,
-   "title": "Lexx",
-   "subtitle": "",
-   "year": "1997",
-   "meta": "Wikipedia en · tv",
-   "mechanism": "brainwashing to become a love slave",
-   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
-   "summary": "Zev is sentenced to be brainwashed into a love slave, but she frees herself and has a droid take her place.",
-   "character": "Zev",
-   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
-   "note": "",
-   "pregnancy_note": "not stated in the plot summary",
-   "tags": [
-    "deep-oct25",
-    "wikipedia-plot"
-   ],
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
-   "evidence": "Wikipedia plot summary (en edition, page \"Lexx\")",
-   "already_married": "not stated",
-   "format": "tv",
-   "categories": [
-    "forced-obedience"
-   ],
-   "sources": [
-    {
-     "label": "Wikipedia — plot summary",
-     "url": "https://en.wikipedia.org/wiki/Lexx"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "hypnosis-deep-oct25"
-   ],
-   "source_records": [
-    "hypnosis-deep-oct25:16"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "hypnosis-deep-oct25:16": {
-     "title": "Lexx",
-     "year": "1997",
-     "format": "tv",
-     "meta": "Wikipedia en · tv",
-     "mechanism": "brainwashing to become a love slave",
-     "character": "Zev",
-     "summary": "Zev is sentenced to be brainwashed into a love slave, but she frees herself and has a droid take her place.",
-     "categories": [
-      "forced-obedience"
-     ],
-     "already_married": "not stated",
-     "married": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "pregnant_end": "not stated",
-     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
-     "pregnancy_note": "not stated in the plot summary",
-     "sources": [
-      {
-       "label": "Wikipedia — plot summary",
-       "url": "https://en.wikipedia.org/wiki/Lexx"
-      }
-     ],
-     "tags": [
-      "deep-oct25",
-      "wikipedia-plot"
-     ],
-     "evidence": "Wikipedia plot summary (en edition, page \"Lexx\")",
-     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
-     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
-    }
-   }
-  },
-  {
-   "id": 3428,
    "title": "Remothered: Broken Porcelain",
    "subtitle": "",
    "year": "2020",
@@ -492422,7 +492341,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:17"
+    "hypnosis-deep-oct25:16"
    ],
    "index_only": false,
    "local_only": true,
@@ -492430,7 +492349,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:17": {
+    "hypnosis-deep-oct25:16": {
      "title": "Remothered: Broken Porcelain",
      "year": "2020",
      "format": "game",
@@ -492465,7 +492384,7 @@
    }
   },
   {
-   "id": 3429,
+   "id": 3428,
    "title": "StarCraft II: Nova Covert Ops",
    "subtitle": "",
    "year": "2016",
@@ -492504,7 +492423,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:18"
+    "hypnosis-deep-oct25:17"
    ],
    "index_only": false,
    "local_only": true,
@@ -492512,7 +492431,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:18": {
+    "hypnosis-deep-oct25:17": {
      "title": "StarCraft II: Nova Covert Ops",
      "year": "2016",
      "format": "game",
@@ -492548,7 +492467,7 @@
    }
   },
   {
-   "id": 3430,
+   "id": 3429,
    "title": "Inland Empire",
    "subtitle": "",
    "year": "2006",
@@ -492586,7 +492505,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:19"
+    "hypnosis-deep-oct25:18"
    ],
    "index_only": false,
    "local_only": true,
@@ -492594,7 +492513,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:19": {
+    "hypnosis-deep-oct25:18": {
      "title": "Inland Empire",
      "year": "2006",
      "format": "movie",
@@ -492629,7 +492548,7 @@
    }
   },
   {
-   "id": 3431,
+   "id": 3430,
    "title": "Terror of the Autons",
    "subtitle": "",
    "year": "1971",
@@ -492667,7 +492586,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:20"
+    "hypnosis-deep-oct25:19"
    ],
    "index_only": false,
    "local_only": true,
@@ -492675,7 +492594,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:20": {
+    "hypnosis-deep-oct25:19": {
      "title": "Terror of the Autons",
      "year": "1971",
      "format": "tv episode",
@@ -492710,7 +492629,7 @@
    }
   },
   {
-   "id": 3432,
+   "id": 3431,
    "title": "A Wicked Ghost II: The Fear",
    "subtitle": "",
    "year": "2000",
@@ -492748,7 +492667,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:21"
+    "hypnosis-deep-oct25:20"
    ],
    "index_only": false,
    "local_only": true,
@@ -492756,7 +492675,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:21": {
+    "hypnosis-deep-oct25:20": {
      "title": "A Wicked Ghost II: The Fear",
      "year": "2000",
      "format": "movie",
@@ -492791,7 +492710,7 @@
    }
   },
   {
-   "id": 3433,
+   "id": 3432,
    "title": "The Gifted: Graduation",
    "subtitle": "",
    "year": "2020",
@@ -492829,7 +492748,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:22"
+    "hypnosis-deep-oct25:21"
    ],
    "index_only": false,
    "local_only": true,
@@ -492837,7 +492756,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:22": {
+    "hypnosis-deep-oct25:21": {
      "title": "The Gifted: Graduation",
      "year": "2020",
      "format": "tv",
@@ -492872,7 +492791,7 @@
    }
   },
   {
-   "id": 3434,
+   "id": 3433,
    "title": "Midunu Vishwaya",
    "subtitle": "",
    "year": "2023",
@@ -492910,7 +492829,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:23"
+    "hypnosis-deep-oct25:22"
    ],
    "index_only": false,
    "local_only": true,
@@ -492918,7 +492837,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:23": {
+    "hypnosis-deep-oct25:22": {
      "title": "Midunu Vishwaya",
      "year": "2023",
      "format": "movie",
@@ -492953,7 +492872,7 @@
    }
   },
   {
-   "id": 3435,
+   "id": 3434,
    "title": "Torture Room",
    "subtitle": "",
    "year": "2010",
@@ -492992,7 +492911,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:24"
+    "hypnosis-deep-oct25:23"
    ],
    "index_only": false,
    "local_only": true,
@@ -493000,7 +492919,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:24": {
+    "hypnosis-deep-oct25:23": {
      "title": "Torture Room",
      "year": "2010",
      "format": "movie",
@@ -493036,7 +492955,7 @@
    }
   },
   {
-   "id": 3436,
+   "id": 3435,
    "title": "Chōjin Sentai Jetman",
    "subtitle": "",
    "year": "1991",
@@ -493074,7 +492993,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:25"
+    "hypnosis-deep-oct25:24"
    ],
    "index_only": false,
    "local_only": true,
@@ -493082,7 +493001,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:25": {
+    "hypnosis-deep-oct25:24": {
      "title": "Chōjin Sentai Jetman",
      "year": "1991",
      "format": "tv",
@@ -493117,7 +493036,7 @@
    }
   },
   {
-   "id": 3437,
+   "id": 3436,
    "title": "The Blackwell Deception",
    "subtitle": "",
    "year": "2011",
@@ -493155,7 +493074,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:26"
+    "hypnosis-deep-oct25:25"
    ],
    "index_only": false,
    "local_only": true,
@@ -493163,7 +493082,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:26": {
+    "hypnosis-deep-oct25:25": {
      "title": "The Blackwell Deception",
      "year": "2011",
      "format": "game",
@@ -493198,7 +493117,7 @@
    }
   },
   {
-   "id": 3438,
+   "id": 3437,
    "title": "In the Next Room",
    "subtitle": "",
    "year": "1930",
@@ -493236,7 +493155,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:27"
+    "hypnosis-deep-oct25:26"
    ],
    "index_only": false,
    "local_only": true,
@@ -493244,7 +493163,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:27": {
+    "hypnosis-deep-oct25:26": {
      "title": "In the Next Room",
      "year": "1930",
      "format": "movie",
@@ -493279,7 +493198,7 @@
    }
   },
   {
-   "id": 3439,
+   "id": 3438,
    "title": "Aruvi",
    "subtitle": "",
    "year": "2016",
@@ -493317,7 +493236,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:28"
+    "hypnosis-deep-oct25:27"
    ],
    "index_only": false,
    "local_only": true,
@@ -493325,7 +493244,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:28": {
+    "hypnosis-deep-oct25:27": {
      "title": "Aruvi",
      "year": "2016",
      "format": "movie",
@@ -493360,7 +493279,7 @@
    }
   },
   {
-   "id": 3440,
+   "id": 3439,
    "title": "The Hellion",
    "subtitle": "",
    "year": "1919",
@@ -493398,7 +493317,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:29"
+    "hypnosis-deep-oct25:28"
    ],
    "index_only": false,
    "local_only": true,
@@ -493406,7 +493325,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:29": {
+    "hypnosis-deep-oct25:28": {
      "title": "The Hellion",
      "year": "1919",
      "format": "movie",
@@ -493441,7 +493360,7 @@
    }
   },
   {
-   "id": 3441,
+   "id": 3440,
    "title": "The Man in the Shadows",
    "subtitle": "",
    "year": "2015",
@@ -493479,7 +493398,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:30"
+    "hypnosis-deep-oct25:29"
    ],
    "index_only": false,
    "local_only": true,
@@ -493487,7 +493406,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:30": {
+    "hypnosis-deep-oct25:29": {
      "title": "The Man in the Shadows",
      "year": "2015",
      "format": "movie",
@@ -493522,7 +493441,7 @@
    }
   },
   {
-   "id": 3442,
+   "id": 3441,
    "title": "Debate 109",
    "subtitle": "",
    "year": "2009",
@@ -493560,7 +493479,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:31"
+    "hypnosis-deep-oct25:30"
    ],
    "index_only": false,
    "local_only": true,
@@ -493568,7 +493487,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:31": {
+    "hypnosis-deep-oct25:30": {
      "title": "Debate 109",
      "year": "2009",
      "format": "tv episode",
@@ -493603,7 +493522,7 @@
    }
   },
   {
-   "id": 3443,
+   "id": 3442,
    "title": "The Case of Becky",
    "subtitle": "",
    "year": "1915",
@@ -493641,7 +493560,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:32"
+    "hypnosis-deep-oct25:31"
    ],
    "index_only": false,
    "local_only": true,
@@ -493649,7 +493568,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:32": {
+    "hypnosis-deep-oct25:31": {
      "title": "The Case of Becky",
      "year": "1915",
      "format": "movie",
@@ -493684,7 +493603,7 @@
    }
   },
   {
-   "id": 3444,
+   "id": 3443,
    "title": "White Rice",
    "subtitle": "",
    "year": "2010",
@@ -493722,7 +493641,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:33"
+    "hypnosis-deep-oct25:32"
    ],
    "index_only": false,
    "local_only": true,
@@ -493730,7 +493649,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:33": {
+    "hypnosis-deep-oct25:32": {
      "title": "White Rice",
      "year": "2010",
      "format": "tv episode",
@@ -493765,7 +493684,7 @@
    }
   },
   {
-   "id": 3445,
+   "id": 3444,
    "title": "Dorzak",
    "subtitle": "",
    "year": "1977",
@@ -493803,7 +493722,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:34"
+    "hypnosis-deep-oct25:33"
    ],
    "index_only": false,
    "local_only": true,
@@ -493811,7 +493730,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:34": {
+    "hypnosis-deep-oct25:33": {
      "title": "Dorzak",
      "year": "1977",
      "format": "tv episode",
@@ -493846,7 +493765,7 @@
    }
   },
   {
-   "id": 3446,
+   "id": 3445,
    "title": "Thuis",
    "subtitle": "",
    "year": "1995",
@@ -493884,7 +493803,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:35"
+    "hypnosis-deep-oct25:34"
    ],
    "index_only": false,
    "local_only": true,
@@ -493892,7 +493811,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:35": {
+    "hypnosis-deep-oct25:34": {
      "title": "Thuis",
      "year": "1995",
      "format": "tv",
@@ -493927,7 +493846,7 @@
    }
   },
   {
-   "id": 3447,
+   "id": 3446,
    "title": "The Kerala Story",
    "subtitle": "",
    "year": "2023",
@@ -493965,7 +493884,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:36"
+    "hypnosis-deep-oct25:35"
    ],
    "index_only": false,
    "local_only": true,
@@ -493973,7 +493892,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:36": {
+    "hypnosis-deep-oct25:35": {
      "title": "The Kerala Story",
      "year": "2023",
      "format": "movie",
@@ -494008,7 +493927,7 @@
    }
   },
   {
-   "id": 3448,
+   "id": 3447,
    "title": "Love in the Time of Hydra",
    "subtitle": "",
    "year": "2015",
@@ -494047,7 +493966,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:37"
+    "hypnosis-deep-oct25:36"
    ],
    "index_only": false,
    "local_only": true,
@@ -494055,7 +493974,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:37": {
+    "hypnosis-deep-oct25:36": {
      "title": "Love in the Time of Hydra",
      "year": "2015",
      "format": "tv episode",
@@ -494091,7 +494010,7 @@
    }
   },
   {
-   "id": 3449,
+   "id": 3448,
    "title": "World of Warcraft: Warlords of Draenor",
    "subtitle": "",
    "year": "2014",
@@ -494130,7 +494049,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:38"
+    "hypnosis-deep-oct25:37"
    ],
    "index_only": false,
    "local_only": true,
@@ -494138,7 +494057,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:38": {
+    "hypnosis-deep-oct25:37": {
      "title": "World of Warcraft: Warlords of Draenor",
      "year": "2014",
      "format": "game",
@@ -494174,7 +494093,7 @@
    }
   },
   {
-   "id": 3450,
+   "id": 3449,
    "title": "Words Worth",
    "subtitle": "",
    "year": "1993",
@@ -494212,7 +494131,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:39"
+    "hypnosis-deep-oct25:38"
    ],
    "index_only": false,
    "local_only": true,
@@ -494220,7 +494139,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:39": {
+    "hypnosis-deep-oct25:38": {
      "title": "Words Worth",
      "year": "1993",
      "format": "game",
@@ -494255,7 +494174,7 @@
    }
   },
   {
-   "id": 3451,
+   "id": 3450,
    "title": "Yu-no",
    "subtitle": "",
    "year": "1996",
@@ -494293,7 +494212,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:40"
+    "hypnosis-deep-oct25:39"
    ],
    "index_only": false,
    "local_only": true,
@@ -494301,7 +494220,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:40": {
+    "hypnosis-deep-oct25:39": {
      "title": "Yu-no",
      "year": "1996",
      "format": "game",
@@ -494336,7 +494255,7 @@
    }
   },
   {
-   "id": 3452,
+   "id": 3451,
    "title": "Shinobi: Art of Vengeance",
    "subtitle": "",
    "year": "2025",
@@ -494375,7 +494294,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:41"
+    "hypnosis-deep-oct25:40"
    ],
    "index_only": false,
    "local_only": true,
@@ -494383,7 +494302,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:41": {
+    "hypnosis-deep-oct25:40": {
      "title": "Shinobi: Art of Vengeance",
      "year": "2025",
      "format": "game",
@@ -494419,88 +494338,7 @@
    }
   },
   {
-   "id": 3453,
-   "title": "Robotics;Notes",
-   "subtitle": "",
-   "year": "2012",
-   "meta": "Wikipedia en · game",
-   "mechanism": "brainwashing",
-   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
-   "summary": "Misaki is brainwashed by the villain and does his bidding in the real world.",
-   "character": "Misaki",
-   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
-   "note": "",
-   "pregnancy_note": "not stated in the plot summary",
-   "tags": [
-    "deep-oct25",
-    "wikipedia-plot"
-   ],
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "married": "not stated",
-   "pregnant_end": "not stated",
-   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
-   "evidence": "Wikipedia plot summary (en edition, page \"Robotics;Notes\")",
-   "already_married": "not stated",
-   "format": "game",
-   "categories": [
-    "forced-obedience"
-   ],
-   "sources": [
-    {
-     "label": "Wikipedia — plot summary",
-     "url": "https://en.wikipedia.org/wiki/Robotics%3BNotes"
-    }
-   ],
-   "youtube_ids": [],
-   "from_sources": [
-    "hypnosis-deep-oct25"
-   ],
-   "source_records": [
-    "hypnosis-deep-oct25:42"
-   ],
-   "index_only": false,
-   "local_only": true,
-   "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
-   "raw": {
-    "hypnosis-deep-oct25:42": {
-     "title": "Robotics;Notes",
-     "year": "2012",
-     "format": "game",
-     "meta": "Wikipedia en · game",
-     "mechanism": "brainwashing",
-     "character": "Misaki",
-     "summary": "Misaki is brainwashed by the villain and does his bidding in the real world.",
-     "categories": [
-      "forced-obedience"
-     ],
-     "already_married": "not stated",
-     "married": "not stated",
-     "kids_status": "not stated",
-     "kids_together": "not stated",
-     "pregnant_end": "not stated",
-     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
-     "pregnancy_note": "not stated in the plot summary",
-     "sources": [
-      {
-       "label": "Wikipedia — plot summary",
-       "url": "https://en.wikipedia.org/wiki/Robotics%3BNotes"
-      }
-     ],
-     "tags": [
-      "deep-oct25",
-      "wikipedia-plot"
-     ],
-     "evidence": "Wikipedia plot summary (en edition, page \"Robotics;Notes\")",
-     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
-     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
-    }
-   }
-  },
-  {
-   "id": 3454,
+   "id": 3452,
    "title": "Gravity Rush 2",
    "subtitle": "",
    "year": "2017",
@@ -494538,7 +494376,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:43"
+    "hypnosis-deep-oct25:41"
    ],
    "index_only": false,
    "local_only": true,
@@ -494546,7 +494384,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:43": {
+    "hypnosis-deep-oct25:41": {
      "title": "Gravity Rush 2",
      "year": "2017",
      "format": "game",
@@ -494581,7 +494419,7 @@
    }
   },
   {
-   "id": 3455,
+   "id": 3453,
    "title": "StarCraft: Brood War",
    "subtitle": "",
    "year": "1998",
@@ -494619,7 +494457,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:44"
+    "hypnosis-deep-oct25:42"
    ],
    "index_only": false,
    "local_only": true,
@@ -494627,7 +494465,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:44": {
+    "hypnosis-deep-oct25:42": {
      "title": "StarCraft: Brood War",
      "year": "1998",
      "format": "game",
@@ -494662,7 +494500,7 @@
    }
   },
   {
-   "id": 3456,
+   "id": 3454,
    "title": "The Bride with White Hair 2",
    "subtitle": "",
    "year": "1993",
@@ -494701,7 +494539,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:45"
+    "hypnosis-deep-oct25:43"
    ],
    "index_only": false,
    "local_only": true,
@@ -494709,7 +494547,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:45": {
+    "hypnosis-deep-oct25:43": {
      "title": "The Bride with White Hair 2",
      "year": "1993",
      "format": "movie",
@@ -494745,7 +494583,7 @@
    }
   },
   {
-   "id": 3457,
+   "id": 3455,
    "title": "Agents of Mayhem",
    "subtitle": "",
    "year": "2017",
@@ -494784,7 +494622,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:46"
+    "hypnosis-deep-oct25:44"
    ],
    "index_only": false,
    "local_only": true,
@@ -494792,7 +494630,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:46": {
+    "hypnosis-deep-oct25:44": {
      "title": "Agents of Mayhem",
      "year": "2017",
      "format": "game",
@@ -494828,7 +494666,7 @@
    }
   },
   {
-   "id": 3458,
+   "id": 3456,
    "title": "No End",
    "subtitle": "",
    "year": "1985",
@@ -494866,7 +494704,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:47"
+    "hypnosis-deep-oct25:45"
    ],
    "index_only": false,
    "local_only": true,
@@ -494874,7 +494712,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:47": {
+    "hypnosis-deep-oct25:45": {
      "title": "No End",
      "year": "1985",
      "format": "movie",
@@ -494909,7 +494747,7 @@
    }
   },
   {
-   "id": 3459,
+   "id": 3457,
    "title": "The Man in the Moonlight",
    "subtitle": "",
    "year": "1919",
@@ -494947,7 +494785,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:48"
+    "hypnosis-deep-oct25:46"
    ],
    "index_only": false,
    "local_only": true,
@@ -494955,7 +494793,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:48": {
+    "hypnosis-deep-oct25:46": {
      "title": "The Man in the Moonlight",
      "year": "1919",
      "format": "movie",
@@ -494990,7 +494828,7 @@
    }
   },
   {
-   "id": 3460,
+   "id": 3458,
    "title": "Till Human Voices Wake Us",
    "subtitle": "",
    "year": "2002",
@@ -495028,7 +494866,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:49"
+    "hypnosis-deep-oct25:47"
    ],
    "index_only": false,
    "local_only": true,
@@ -495036,7 +494874,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:49": {
+    "hypnosis-deep-oct25:47": {
      "title": "Till Human Voices Wake Us",
      "year": "2002",
      "format": "movie",
@@ -495071,7 +494909,7 @@
    }
   },
   {
-   "id": 3461,
+   "id": 3459,
    "title": "Goke, Body Snatcher from Hell",
    "subtitle": "",
    "year": "1968",
@@ -495109,7 +494947,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:50"
+    "hypnosis-deep-oct25:48"
    ],
    "index_only": false,
    "local_only": true,
@@ -495117,7 +494955,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:50": {
+    "hypnosis-deep-oct25:48": {
      "title": "Goke, Body Snatcher from Hell",
      "year": "1968",
      "format": "movie",
@@ -495152,7 +494990,7 @@
    }
   },
   {
-   "id": 3462,
+   "id": 3460,
    "title": "Miss Leslie's Dolls",
    "subtitle": "",
    "year": "1972",
@@ -495190,7 +495028,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:51"
+    "hypnosis-deep-oct25:49"
    ],
    "index_only": false,
    "local_only": true,
@@ -495198,7 +495036,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:51": {
+    "hypnosis-deep-oct25:49": {
      "title": "Miss Leslie's Dolls",
      "year": "1972",
      "format": "movie",
@@ -495233,7 +495071,7 @@
    }
   },
   {
-   "id": 3463,
+   "id": 3461,
    "title": "Tarot",
    "subtitle": "",
    "year": "2024",
@@ -495271,7 +495109,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:52"
+    "hypnosis-deep-oct25:50"
    ],
    "index_only": false,
    "local_only": true,
@@ -495279,7 +495117,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:52": {
+    "hypnosis-deep-oct25:50": {
      "title": "Tarot",
      "year": "2024",
      "format": "movie",
@@ -495314,7 +495152,7 @@
    }
   },
   {
-   "id": 3464,
+   "id": 3462,
    "title": "Howard the Duck",
    "subtitle": "",
    "year": "1986",
@@ -495352,7 +495190,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:53"
+    "hypnosis-deep-oct25:51"
    ],
    "index_only": false,
    "local_only": true,
@@ -495360,7 +495198,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:53": {
+    "hypnosis-deep-oct25:51": {
      "title": "Howard the Duck",
      "year": "1986",
      "format": "movie",
@@ -495395,7 +495233,7 @@
    }
   },
   {
-   "id": 3465,
+   "id": 3463,
    "title": "King of Beggars",
    "subtitle": "",
    "year": "1992",
@@ -495433,7 +495271,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:54"
+    "hypnosis-deep-oct25:52"
    ],
    "index_only": false,
    "local_only": true,
@@ -495441,7 +495279,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:54": {
+    "hypnosis-deep-oct25:52": {
      "title": "King of Beggars",
      "year": "1992",
      "format": "movie",
@@ -495476,7 +495314,7 @@
    }
   },
   {
-   "id": 3466,
+   "id": 3464,
    "title": "Divorce American Style",
    "subtitle": "",
    "year": "1967",
@@ -495514,7 +495352,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:55"
+    "hypnosis-deep-oct25:53"
    ],
    "index_only": false,
    "local_only": true,
@@ -495522,7 +495360,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:55": {
+    "hypnosis-deep-oct25:53": {
      "title": "Divorce American Style",
      "year": "1967",
      "format": "movie",
@@ -495557,7 +495395,7 @@
    }
   },
   {
-   "id": 3467,
+   "id": 3465,
    "title": "Summer Bachelors",
    "subtitle": "",
    "year": "1926",
@@ -495595,7 +495433,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:56"
+    "hypnosis-deep-oct25:54"
    ],
    "index_only": false,
    "local_only": true,
@@ -495603,7 +495441,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:56": {
+    "hypnosis-deep-oct25:54": {
      "title": "Summer Bachelors",
      "year": "1926",
      "format": "movie",
@@ -495638,7 +495476,7 @@
    }
   },
   {
-   "id": 3468,
+   "id": 3466,
    "title": "Trickster",
    "subtitle": "",
    "year": "2016",
@@ -495676,7 +495514,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:58"
+    "hypnosis-deep-oct25:56"
    ],
    "index_only": false,
    "local_only": true,
@@ -495684,7 +495522,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:58": {
+    "hypnosis-deep-oct25:56": {
      "title": "Trickster",
      "year": "2016",
      "format": "movie",
@@ -495719,7 +495557,7 @@
    }
   },
   {
-   "id": 3469,
+   "id": 3467,
    "title": "The Aztec Mummy",
    "subtitle": "",
    "year": "1957",
@@ -495757,7 +495595,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:59"
+    "hypnosis-deep-oct25:57"
    ],
    "index_only": false,
    "local_only": true,
@@ -495765,7 +495603,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:59": {
+    "hypnosis-deep-oct25:57": {
      "title": "The Aztec Mummy",
      "year": "1957",
      "format": "movie",
@@ -495800,7 +495638,7 @@
    }
   },
   {
-   "id": 3470,
+   "id": 3468,
    "title": "Death of Me",
    "subtitle": "",
    "year": "2020",
@@ -495839,7 +495677,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:60"
+    "hypnosis-deep-oct25:58"
    ],
    "index_only": false,
    "local_only": true,
@@ -495847,7 +495685,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:60": {
+    "hypnosis-deep-oct25:58": {
      "title": "Death of Me",
      "year": "2020",
      "format": "movie",
@@ -495883,7 +495721,7 @@
    }
   },
   {
-   "id": 3471,
+   "id": 3469,
    "title": "Hentai Kamen",
    "subtitle": "",
    "year": "2013",
@@ -495921,7 +495759,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:61"
+    "hypnosis-deep-oct25:59"
    ],
    "index_only": false,
    "local_only": true,
@@ -495929,7 +495767,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:61": {
+    "hypnosis-deep-oct25:59": {
      "title": "Hentai Kamen",
      "year": "2013",
      "format": "movie",
@@ -495964,7 +495802,7 @@
    }
   },
   {
-   "id": 3472,
+   "id": 3470,
    "title": "The Inside",
    "subtitle": "",
    "year": "2012",
@@ -496002,7 +495840,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:62"
+    "hypnosis-deep-oct25:60"
    ],
    "index_only": false,
    "local_only": true,
@@ -496010,7 +495848,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:62": {
+    "hypnosis-deep-oct25:60": {
      "title": "The Inside",
      "year": "2012",
      "format": "movie",
@@ -496045,7 +495883,7 @@
    }
   },
   {
-   "id": 3473,
+   "id": 3471,
    "title": "Push",
    "subtitle": "",
    "year": "2009",
@@ -496083,7 +495921,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:63"
+    "hypnosis-deep-oct25:61"
    ],
    "index_only": false,
    "local_only": true,
@@ -496091,7 +495929,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:63": {
+    "hypnosis-deep-oct25:61": {
      "title": "Push",
      "year": "2009",
      "format": "movie",
@@ -496126,7 +495964,7 @@
    }
   },
   {
-   "id": 3474,
+   "id": 3472,
    "title": "Batman: Hush",
    "subtitle": "",
    "year": "2019",
@@ -496164,7 +496002,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:64"
+    "hypnosis-deep-oct25:62"
    ],
    "index_only": false,
    "local_only": true,
@@ -496172,7 +496010,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:64": {
+    "hypnosis-deep-oct25:62": {
      "title": "Batman: Hush",
      "year": "2019",
      "format": "movie",
@@ -496207,7 +496045,7 @@
    }
   },
   {
-   "id": 3475,
+   "id": 3473,
    "title": "Throne of Elves",
    "subtitle": "",
    "year": "2016",
@@ -496245,7 +496083,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:65"
+    "hypnosis-deep-oct25:63"
    ],
    "index_only": false,
    "local_only": true,
@@ -496253,7 +496091,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:65": {
+    "hypnosis-deep-oct25:63": {
      "title": "Throne of Elves",
      "year": "2016",
      "format": "movie",
@@ -496288,7 +496126,7 @@
    }
   },
   {
-   "id": 3476,
+   "id": 3474,
    "title": "The Institute",
    "subtitle": "",
    "year": "2017",
@@ -496326,7 +496164,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:66"
+    "hypnosis-deep-oct25:64"
    ],
    "index_only": false,
    "local_only": true,
@@ -496334,7 +496172,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:66": {
+    "hypnosis-deep-oct25:64": {
      "title": "The Institute",
      "year": "2017",
      "format": "movie",
@@ -496369,7 +496207,7 @@
    }
   },
   {
-   "id": 3477,
+   "id": 3475,
    "title": "Shaktimaan",
    "subtitle": "",
    "year": "1997",
@@ -496407,7 +496245,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:67"
+    "hypnosis-deep-oct25:65"
    ],
    "index_only": false,
    "local_only": true,
@@ -496415,7 +496253,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:67": {
+    "hypnosis-deep-oct25:65": {
      "title": "Shaktimaan",
      "year": "1997",
      "format": "tv",
@@ -496450,7 +496288,7 @@
    }
   },
   {
-   "id": 3478,
+   "id": 3476,
    "title": "Aayirathil Oruvan",
    "subtitle": "",
    "year": "2010",
@@ -496488,7 +496326,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:68"
+    "hypnosis-deep-oct25:66"
    ],
    "index_only": false,
    "local_only": true,
@@ -496496,7 +496334,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:68": {
+    "hypnosis-deep-oct25:66": {
      "title": "Aayirathil Oruvan",
      "year": "2010",
      "format": "movie",
@@ -496531,7 +496369,7 @@
    }
   },
   {
-   "id": 3479,
+   "id": 3477,
    "title": "Madlax",
    "subtitle": "",
    "year": "2004",
@@ -496569,7 +496407,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:69"
+    "hypnosis-deep-oct25:67"
    ],
    "index_only": false,
    "local_only": true,
@@ -496577,7 +496415,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:69": {
+    "hypnosis-deep-oct25:67": {
      "title": "Madlax",
      "year": "2004",
      "format": "tv",
@@ -496612,7 +496450,7 @@
    }
   },
   {
-   "id": 3480,
+   "id": 3478,
    "title": "Checkmate",
    "subtitle": "",
    "year": "1967",
@@ -496651,7 +496489,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:70"
+    "hypnosis-deep-oct25:68"
    ],
    "index_only": false,
    "local_only": true,
@@ -496659,7 +496497,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:70": {
+    "hypnosis-deep-oct25:68": {
      "title": "Checkmate",
      "year": "1967",
      "format": "tv episode",
@@ -496695,7 +496533,7 @@
    }
   },
   {
-   "id": 3481,
+   "id": 3479,
    "title": "V/H/S/2",
    "subtitle": "",
    "year": "2013",
@@ -496733,7 +496571,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:71"
+    "hypnosis-deep-oct25:69"
    ],
    "index_only": false,
    "local_only": true,
@@ -496741,7 +496579,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:71": {
+    "hypnosis-deep-oct25:69": {
      "title": "V/H/S/2",
      "year": "2013",
      "format": "movie",
@@ -496776,7 +496614,7 @@
    }
   },
   {
-   "id": 3482,
+   "id": 3480,
    "title": "Resident Evil 5",
    "subtitle": "",
    "year": "2009",
@@ -496815,7 +496653,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:72"
+    "hypnosis-deep-oct25:70"
    ],
    "index_only": false,
    "local_only": true,
@@ -496823,7 +496661,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:72": {
+    "hypnosis-deep-oct25:70": {
      "title": "Resident Evil 5",
      "year": "2009",
      "format": "game",
@@ -496859,7 +496697,7 @@
    }
   },
   {
-   "id": 3483,
+   "id": 3481,
    "title": "Legend of Lemnear",
    "subtitle": "",
    "year": "1987",
@@ -496897,7 +496735,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:73"
+    "hypnosis-deep-oct25:71"
    ],
    "index_only": false,
    "local_only": true,
@@ -496905,7 +496743,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:73": {
+    "hypnosis-deep-oct25:71": {
      "title": "Legend of Lemnear",
      "year": "1987",
      "format": "movie",
@@ -496940,7 +496778,7 @@
    }
   },
   {
-   "id": 3484,
+   "id": 3482,
    "title": "RoboGeisha",
    "subtitle": "",
    "year": "2009",
@@ -496978,7 +496816,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:74"
+    "hypnosis-deep-oct25:72"
    ],
    "index_only": false,
    "local_only": true,
@@ -496986,7 +496824,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:74": {
+    "hypnosis-deep-oct25:72": {
      "title": "RoboGeisha",
      "year": "2009",
      "format": "movie",
@@ -497021,7 +496859,7 @@
    }
   },
   {
-   "id": 3485,
+   "id": 3483,
    "title": "Nocturne",
    "subtitle": "",
    "year": "1999",
@@ -497059,7 +496897,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:75"
+    "hypnosis-deep-oct25:73"
    ],
    "index_only": false,
    "local_only": true,
@@ -497067,7 +496905,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:75": {
+    "hypnosis-deep-oct25:73": {
      "title": "Nocturne",
      "year": "1999",
      "format": "game",
@@ -497102,7 +496940,7 @@
    }
   },
   {
-   "id": 3486,
+   "id": 3484,
    "title": "Cat O'Nine Tails",
    "subtitle": "",
    "year": "1927",
@@ -497140,7 +496978,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:76"
+    "hypnosis-deep-oct25:74"
    ],
    "index_only": false,
    "local_only": true,
@@ -497148,7 +496986,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:76": {
+    "hypnosis-deep-oct25:74": {
      "title": "Cat O'Nine Tails",
      "year": "1927",
      "format": "play",
@@ -497183,7 +497021,7 @@
    }
   },
   {
-   "id": 3487,
+   "id": 3485,
    "title": "Alice: Madness Returns",
    "subtitle": "",
    "year": "2011",
@@ -497221,7 +497059,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:77"
+    "hypnosis-deep-oct25:75"
    ],
    "index_only": false,
    "local_only": true,
@@ -497229,7 +497067,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:77": {
+    "hypnosis-deep-oct25:75": {
      "title": "Alice: Madness Returns",
      "year": "2011",
      "format": "game",
@@ -497264,7 +497102,7 @@
    }
   },
   {
-   "id": 3488,
+   "id": 3486,
    "title": "Witchcraft V: Dance with the Devil",
    "subtitle": "",
    "year": "1993",
@@ -497302,7 +497140,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:78"
+    "hypnosis-deep-oct25:76"
    ],
    "index_only": false,
    "local_only": true,
@@ -497310,7 +497148,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:78": {
+    "hypnosis-deep-oct25:76": {
      "title": "Witchcraft V: Dance with the Devil",
      "year": "1993",
      "format": "movie",
@@ -497345,7 +497183,7 @@
    }
   },
   {
-   "id": 3489,
+   "id": 3487,
    "title": "Luz",
    "subtitle": "",
    "year": "2018",
@@ -497383,7 +497221,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:79"
+    "hypnosis-deep-oct25:77"
    ],
    "index_only": false,
    "local_only": true,
@@ -497391,7 +497229,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:79": {
+    "hypnosis-deep-oct25:77": {
      "title": "Luz",
      "year": "2018",
      "format": "movie",
@@ -497426,7 +497264,7 @@
    }
   },
   {
-   "id": 3490,
+   "id": 3488,
    "title": "Sorority House Massacre",
    "subtitle": "",
    "year": "1986",
@@ -497464,7 +497302,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:80"
+    "hypnosis-deep-oct25:78"
    ],
    "index_only": false,
    "local_only": true,
@@ -497472,7 +497310,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:80": {
+    "hypnosis-deep-oct25:78": {
      "title": "Sorority House Massacre",
      "year": "1986",
      "format": "movie",
@@ -497507,7 +497345,7 @@
    }
   },
   {
-   "id": 3491,
+   "id": 3489,
    "title": "Midnight Menace",
    "subtitle": "",
    "year": "1946",
@@ -497545,7 +497383,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:81"
+    "hypnosis-deep-oct25:79"
    ],
    "index_only": false,
    "local_only": true,
@@ -497553,7 +497391,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:81": {
+    "hypnosis-deep-oct25:79": {
      "title": "Midnight Menace",
      "year": "1946",
      "format": "short",
@@ -497588,7 +497426,7 @@
    }
   },
   {
-   "id": 3492,
+   "id": 3490,
    "title": "Heart FM",
    "subtitle": "",
    "year": "2008",
@@ -497626,7 +497464,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:82"
+    "hypnosis-deep-oct25:80"
    ],
    "index_only": false,
    "local_only": true,
@@ -497634,7 +497472,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:82": {
+    "hypnosis-deep-oct25:80": {
      "title": "Heart FM",
      "year": "2008",
      "format": "movie",
@@ -497669,7 +497507,7 @@
    }
   },
   {
-   "id": 3493,
+   "id": 3491,
    "title": "Lake of Dracula",
    "subtitle": "",
    "year": "1971",
@@ -497707,7 +497545,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:83"
+    "hypnosis-deep-oct25:81"
    ],
    "index_only": false,
    "local_only": true,
@@ -497715,7 +497553,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:83": {
+    "hypnosis-deep-oct25:81": {
      "title": "Lake of Dracula",
      "year": "1971",
      "format": "movie",
@@ -497750,7 +497588,7 @@
    }
   },
   {
-   "id": 3494,
+   "id": 3492,
    "title": "Splitz",
    "subtitle": "",
    "year": "1982",
@@ -497788,7 +497626,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:84"
+    "hypnosis-deep-oct25:82"
    ],
    "index_only": false,
    "local_only": true,
@@ -497796,7 +497634,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:84": {
+    "hypnosis-deep-oct25:82": {
      "title": "Splitz",
      "year": "1982",
      "format": "movie",
@@ -497831,7 +497669,7 @@
    }
   },
   {
-   "id": 3495,
+   "id": 3493,
    "title": "Curlytop",
    "subtitle": "",
    "year": "1924",
@@ -497869,7 +497707,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:85"
+    "hypnosis-deep-oct25:83"
    ],
    "index_only": false,
    "local_only": true,
@@ -497877,7 +497715,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:85": {
+    "hypnosis-deep-oct25:83": {
      "title": "Curlytop",
      "year": "1924",
      "format": "movie",
@@ -497912,7 +497750,7 @@
    }
   },
   {
-   "id": 3496,
+   "id": 3494,
    "title": "The Invisible Fear",
    "subtitle": "",
    "year": "1921",
@@ -497950,7 +497788,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:86"
+    "hypnosis-deep-oct25:84"
    ],
    "index_only": false,
    "local_only": true,
@@ -497958,7 +497796,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:86": {
+    "hypnosis-deep-oct25:84": {
      "title": "The Invisible Fear",
      "year": "1921",
      "format": "movie",
@@ -497993,7 +497831,7 @@
    }
   },
   {
-   "id": 3497,
+   "id": 3495,
    "title": "Duet",
    "subtitle": "",
    "year": "2017",
@@ -498031,7 +497869,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:87"
+    "hypnosis-deep-oct25:85"
    ],
    "index_only": false,
    "local_only": true,
@@ -498039,7 +497877,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:87": {
+    "hypnosis-deep-oct25:85": {
      "title": "Duet",
      "year": "2017",
      "format": "tv episode",
@@ -498074,7 +497912,7 @@
    }
   },
   {
-   "id": 3498,
+   "id": 3496,
    "title": "Leisure Suit Larry Goes Looking for Love",
    "subtitle": "",
    "year": "1988",
@@ -498112,7 +497950,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:88"
+    "hypnosis-deep-oct25:86"
    ],
    "index_only": false,
    "local_only": true,
@@ -498120,7 +497958,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:88": {
+    "hypnosis-deep-oct25:86": {
      "title": "Leisure Suit Larry Goes Looking for Love",
      "year": "1988",
      "format": "game",
@@ -498155,7 +497993,7 @@
    }
   },
   {
-   "id": 3499,
+   "id": 3497,
    "title": "Behind Two Guns",
    "subtitle": "",
    "year": "1924",
@@ -498193,7 +498031,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:89"
+    "hypnosis-deep-oct25:87"
    ],
    "index_only": false,
    "local_only": true,
@@ -498201,7 +498039,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:89": {
+    "hypnosis-deep-oct25:87": {
      "title": "Behind Two Guns",
      "year": "1924",
      "format": "movie",
@@ -498236,7 +498074,7 @@
    }
   },
   {
-   "id": 3500,
+   "id": 3498,
    "title": "Sam & Max Save the World",
    "subtitle": "",
    "year": "2006",
@@ -498274,7 +498112,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:90"
+    "hypnosis-deep-oct25:88"
    ],
    "index_only": false,
    "local_only": true,
@@ -498282,7 +498120,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:90": {
+    "hypnosis-deep-oct25:88": {
      "title": "Sam & Max Save the World",
      "year": "2006",
      "format": "game",
@@ -498317,7 +498155,7 @@
    }
   },
   {
-   "id": 3501,
+   "id": 3499,
    "title": "Over Night",
    "subtitle": "",
    "year": "1910",
@@ -498355,7 +498193,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:91"
+    "hypnosis-deep-oct25:89"
    ],
    "index_only": false,
    "local_only": true,
@@ -498363,7 +498201,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:91": {
+    "hypnosis-deep-oct25:89": {
      "title": "Over Night",
      "year": "1910",
      "format": "play",
@@ -498398,7 +498236,7 @@
    }
   },
   {
-   "id": 3502,
+   "id": 3500,
    "title": "Number 111",
    "subtitle": "",
    "year": "1938",
@@ -498436,7 +498274,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:92"
+    "hypnosis-deep-oct25:90"
    ],
    "index_only": false,
    "local_only": true,
@@ -498444,7 +498282,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:92": {
+    "hypnosis-deep-oct25:90": {
      "title": "Number 111",
      "year": "1938",
      "format": "movie",
@@ -498479,7 +498317,7 @@
    }
   },
   {
-   "id": 3503,
+   "id": 3501,
    "title": "They Met in the Dark",
    "subtitle": "",
    "year": "1943",
@@ -498517,7 +498355,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:93"
+    "hypnosis-deep-oct25:91"
    ],
    "index_only": false,
    "local_only": true,
@@ -498525,7 +498363,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:93": {
+    "hypnosis-deep-oct25:91": {
      "title": "They Met in the Dark",
      "year": "1943",
      "format": "movie",
@@ -498560,7 +498398,7 @@
    }
   },
   {
-   "id": 3504,
+   "id": 3502,
    "title": "The Crystal Gazer",
    "subtitle": "",
    "year": "1917",
@@ -498598,7 +498436,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:94"
+    "hypnosis-deep-oct25:92"
    ],
    "index_only": false,
    "local_only": true,
@@ -498606,7 +498444,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:94": {
+    "hypnosis-deep-oct25:92": {
      "title": "The Crystal Gazer",
      "year": "1917",
      "format": "movie",
@@ -498641,7 +498479,7 @@
    }
   },
   {
-   "id": 3505,
+   "id": 3503,
    "title": "The Masque of Mandragora",
    "subtitle": "",
    "year": "1976",
@@ -498679,7 +498517,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:95"
+    "hypnosis-deep-oct25:93"
    ],
    "index_only": false,
    "local_only": true,
@@ -498687,7 +498525,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:95": {
+    "hypnosis-deep-oct25:93": {
      "title": "The Masque of Mandragora",
      "year": "1976",
      "format": "tv episode",
@@ -498722,7 +498560,7 @@
    }
   },
   {
-   "id": 3506,
+   "id": 3504,
    "title": "The Greenhouse",
    "subtitle": "",
    "year": "2012",
@@ -498760,7 +498598,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:96"
+    "hypnosis-deep-oct25:94"
    ],
    "index_only": false,
    "local_only": true,
@@ -498768,7 +498606,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:96": {
+    "hypnosis-deep-oct25:94": {
      "title": "The Greenhouse",
      "year": "2012",
      "format": "tv",
@@ -498803,7 +498641,7 @@
    }
   },
   {
-   "id": 3507,
+   "id": 3505,
    "title": "La Nouvelle Mission de Judex",
    "subtitle": "",
    "year": "1918",
@@ -498841,7 +498679,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:97"
+    "hypnosis-deep-oct25:95"
    ],
    "index_only": false,
    "local_only": true,
@@ -498849,7 +498687,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:97": {
+    "hypnosis-deep-oct25:95": {
      "title": "La Nouvelle Mission de Judex",
      "year": "1918",
      "format": "movie",
@@ -498884,7 +498722,7 @@
    }
   },
   {
-   "id": 3508,
+   "id": 3506,
    "title": "A Change of Mind",
    "subtitle": "",
    "year": "1967",
@@ -498922,7 +498760,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:98"
+    "hypnosis-deep-oct25:96"
    ],
    "index_only": false,
    "local_only": true,
@@ -498930,7 +498768,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:98": {
+    "hypnosis-deep-oct25:96": {
      "title": "A Change of Mind",
      "year": "1967",
      "format": "tv episode",
@@ -498965,7 +498803,7 @@
    }
   },
   {
-   "id": 3509,
+   "id": 3507,
    "title": "Penny Points to Paradise",
    "subtitle": "",
    "year": "1951",
@@ -499003,7 +498841,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:99"
+    "hypnosis-deep-oct25:97"
    ],
    "index_only": false,
    "local_only": true,
@@ -499011,7 +498849,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:99": {
+    "hypnosis-deep-oct25:97": {
      "title": "Penny Points to Paradise",
      "year": "1951",
      "format": "movie",
@@ -499046,7 +498884,7 @@
    }
   },
   {
-   "id": 3510,
+   "id": 3508,
    "title": "Curse of the Stone Hand",
    "subtitle": "",
    "year": "1965",
@@ -499084,7 +498922,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:100"
+    "hypnosis-deep-oct25:98"
    ],
    "index_only": false,
    "local_only": true,
@@ -499092,7 +498930,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:100": {
+    "hypnosis-deep-oct25:98": {
      "title": "Curse of the Stone Hand",
      "year": "1965",
      "format": "movie",
@@ -499127,7 +498965,7 @@
    }
   },
   {
-   "id": 3511,
+   "id": 3509,
    "title": "S Saraswathi",
    "subtitle": "",
    "year": "2026",
@@ -499165,7 +499003,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:101"
+    "hypnosis-deep-oct25:99"
    ],
    "index_only": false,
    "local_only": true,
@@ -499173,7 +499011,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:101": {
+    "hypnosis-deep-oct25:99": {
      "title": "S Saraswathi",
      "year": "2026",
      "format": "movie",
@@ -499208,7 +499046,7 @@
    }
   },
   {
-   "id": 3512,
+   "id": 3510,
    "title": "A Killing in a Small Town",
    "subtitle": "",
    "year": "1990",
@@ -499246,7 +499084,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:102"
+    "hypnosis-deep-oct25:100"
    ],
    "index_only": false,
    "local_only": true,
@@ -499254,7 +499092,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:102": {
+    "hypnosis-deep-oct25:100": {
      "title": "A Killing in a Small Town",
      "year": "1990",
      "format": "tv",
@@ -499289,7 +499127,7 @@
    }
   },
   {
-   "id": 3513,
+   "id": 3511,
    "title": "Zina",
    "subtitle": "",
    "year": "1985",
@@ -499327,7 +499165,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:103"
+    "hypnosis-deep-oct25:101"
    ],
    "index_only": false,
    "local_only": true,
@@ -499335,7 +499173,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:103": {
+    "hypnosis-deep-oct25:101": {
      "title": "Zina",
      "year": "1985",
      "format": "movie",
@@ -499370,7 +499208,7 @@
    }
   },
   {
-   "id": 3514,
+   "id": 3512,
    "title": "Santa Sangre",
    "subtitle": "",
    "year": "1989",
@@ -499408,7 +499246,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:104"
+    "hypnosis-deep-oct25:102"
    ],
    "index_only": false,
    "local_only": true,
@@ -499416,7 +499254,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:104": {
+    "hypnosis-deep-oct25:102": {
      "title": "Santa Sangre",
      "year": "1989",
      "format": "movie",
@@ -499451,7 +499289,7 @@
    }
   },
   {
-   "id": 3515,
+   "id": 3513,
    "title": "Face of the Screaming Werewolf",
    "subtitle": "",
    "year": "1965",
@@ -499489,7 +499327,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:105"
+    "hypnosis-deep-oct25:103"
    ],
    "index_only": false,
    "local_only": true,
@@ -499497,7 +499335,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:105": {
+    "hypnosis-deep-oct25:103": {
      "title": "Face of the Screaming Werewolf",
      "year": "1965",
      "format": "movie",
@@ -499532,7 +499370,7 @@
    }
   },
   {
-   "id": 3516,
+   "id": 3514,
    "title": "The Dead Pit",
    "subtitle": "",
    "year": "1989",
@@ -499570,7 +499408,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:106"
+    "hypnosis-deep-oct25:104"
    ],
    "index_only": false,
    "local_only": true,
@@ -499578,7 +499416,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:106": {
+    "hypnosis-deep-oct25:104": {
      "title": "The Dead Pit",
      "year": "1989",
      "format": "movie",
@@ -499613,7 +499451,7 @@
    }
   },
   {
-   "id": 3517,
+   "id": 3515,
    "title": "Tag til marked i Fjordby",
    "subtitle": "",
    "year": "1957",
@@ -499652,7 +499490,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:107"
+    "hypnosis-deep-oct25:105"
    ],
    "index_only": false,
    "local_only": true,
@@ -499660,7 +499498,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:107": {
+    "hypnosis-deep-oct25:105": {
      "title": "Tag til marked i Fjordby",
      "year": "1957",
      "format": "movie",
@@ -499696,7 +499534,7 @@
    }
   },
   {
-   "id": 3518,
+   "id": 3516,
    "title": "Bavathi",
    "subtitle": "",
    "year": "2019",
@@ -499734,7 +499572,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:108"
+    "hypnosis-deep-oct25:106"
    ],
    "index_only": false,
    "local_only": true,
@@ -499742,7 +499580,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:108": {
+    "hypnosis-deep-oct25:106": {
      "title": "Bavathi",
      "year": "2019",
      "format": "movie",
@@ -499777,7 +499615,7 @@
    }
   },
   {
-   "id": 3519,
+   "id": 3517,
    "title": "Lilli Marlene",
    "subtitle": "",
    "year": "1950",
@@ -499815,7 +499653,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:109"
+    "hypnosis-deep-oct25:107"
    ],
    "index_only": false,
    "local_only": true,
@@ -499823,7 +499661,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:109": {
+    "hypnosis-deep-oct25:107": {
      "title": "Lilli Marlene",
      "year": "1950",
      "format": "movie",
@@ -499858,7 +499696,7 @@
    }
   },
   {
-   "id": 3520,
+   "id": 3518,
    "title": "Torment",
    "subtitle": "",
    "year": "2013",
@@ -499896,7 +499734,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:110"
+    "hypnosis-deep-oct25:108"
    ],
    "index_only": false,
    "local_only": true,
@@ -499904,7 +499742,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:110": {
+    "hypnosis-deep-oct25:108": {
      "title": "Torment",
      "year": "2013",
      "format": "movie",
@@ -499939,7 +499777,7 @@
    }
   },
   {
-   "id": 3521,
+   "id": 3519,
    "title": "Rogue Agent",
    "subtitle": "",
    "year": "2022",
@@ -499979,7 +499817,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:111"
+    "hypnosis-deep-oct25:109"
    ],
    "index_only": false,
    "local_only": true,
@@ -499987,7 +499825,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:111": {
+    "hypnosis-deep-oct25:109": {
      "title": "Rogue Agent",
      "year": "2022",
      "format": "movie",
@@ -500024,7 +499862,7 @@
    }
   },
   {
-   "id": 3522,
+   "id": 3520,
    "title": "1BR",
    "subtitle": "",
    "year": "2019",
@@ -500063,7 +499901,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:112"
+    "hypnosis-deep-oct25:110"
    ],
    "index_only": false,
    "local_only": true,
@@ -500071,7 +499909,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:112": {
+    "hypnosis-deep-oct25:110": {
      "title": "1BR",
      "year": "2019",
      "format": "movie",
@@ -500107,7 +499945,7 @@
    }
   },
   {
-   "id": 3523,
+   "id": 3521,
    "title": "Killing Mary Sue",
    "subtitle": "",
    "year": "2025",
@@ -500146,7 +499984,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:113"
+    "hypnosis-deep-oct25:111"
    ],
    "index_only": false,
    "local_only": true,
@@ -500154,7 +499992,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:113": {
+    "hypnosis-deep-oct25:111": {
      "title": "Killing Mary Sue",
      "year": "2025",
      "format": "movie",
@@ -500190,7 +500028,7 @@
    }
   },
   {
-   "id": 3524,
+   "id": 3522,
    "title": "Carmilla",
    "subtitle": "",
    "year": "2014",
@@ -500228,7 +500066,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:114"
+    "hypnosis-deep-oct25:112"
    ],
    "index_only": false,
    "local_only": true,
@@ -500236,7 +500074,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:114": {
+    "hypnosis-deep-oct25:112": {
      "title": "Carmilla",
      "year": "2014",
      "format": "tv",
@@ -500271,7 +500109,7 @@
    }
   },
   {
-   "id": 3525,
+   "id": 3523,
    "title": "Ripper Street",
    "subtitle": "",
    "year": "2012",
@@ -500310,7 +500148,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:115"
+    "hypnosis-deep-oct25:113"
    ],
    "index_only": false,
    "local_only": true,
@@ -500318,7 +500156,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:115": {
+    "hypnosis-deep-oct25:113": {
      "title": "Ripper Street",
      "year": "2012",
      "format": "tv",
@@ -500354,7 +500192,7 @@
    }
   },
   {
-   "id": 3526,
+   "id": 3524,
    "title": "Tenchi Muyo! Ryo-Ohki",
    "subtitle": "",
    "year": "1992",
@@ -500392,7 +500230,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:116"
+    "hypnosis-deep-oct25:114"
    ],
    "index_only": false,
    "local_only": true,
@@ -500400,7 +500238,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:116": {
+    "hypnosis-deep-oct25:114": {
      "title": "Tenchi Muyo! Ryo-Ohki",
      "year": "1992",
      "format": "tv",
@@ -500435,7 +500273,7 @@
    }
   },
   {
-   "id": 3527,
+   "id": 3525,
    "title": "Final Fantasy VI",
    "subtitle": "",
    "year": "1994",
@@ -500474,7 +500312,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:117"
+    "hypnosis-deep-oct25:115"
    ],
    "index_only": false,
    "local_only": true,
@@ -500482,7 +500320,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:117": {
+    "hypnosis-deep-oct25:115": {
      "title": "Final Fantasy VI",
      "year": "1994",
      "format": "game",
@@ -500518,7 +500356,7 @@
    }
   },
   {
-   "id": 3528,
+   "id": 3526,
    "title": "Of Human Action",
    "subtitle": "",
    "year": "2009",
@@ -500556,7 +500394,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:118"
+    "hypnosis-deep-oct25:116"
    ],
    "index_only": false,
    "local_only": true,
@@ -500564,7 +500402,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:118": {
+    "hypnosis-deep-oct25:116": {
      "title": "Of Human Action",
      "year": "2009",
      "format": "tv episode",
@@ -500599,7 +500437,7 @@
    }
   },
   {
-   "id": 3529,
+   "id": 3527,
    "title": "The Abominable Snowmen",
    "subtitle": "",
    "year": "1967",
@@ -500637,7 +500475,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:119"
+    "hypnosis-deep-oct25:117"
    ],
    "index_only": false,
    "local_only": true,
@@ -500645,7 +500483,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:119": {
+    "hypnosis-deep-oct25:117": {
      "title": "The Abominable Snowmen",
      "year": "1967",
      "format": "tv episode",
@@ -500680,7 +500518,7 @@
    }
   },
   {
-   "id": 3530,
+   "id": 3528,
    "title": "The Keeper of Traken",
    "subtitle": "",
    "year": "1981",
@@ -500719,7 +500557,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:120"
+    "hypnosis-deep-oct25:118"
    ],
    "index_only": false,
    "local_only": true,
@@ -500727,7 +500565,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:120": {
+    "hypnosis-deep-oct25:118": {
      "title": "The Keeper of Traken",
      "year": "1981",
      "format": "tv episode",
@@ -500763,7 +500601,7 @@
    }
   },
   {
-   "id": 3531,
+   "id": 3529,
    "title": "Combat Mecha Xabungle",
    "subtitle": "",
    "year": "1982",
@@ -500801,7 +500639,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:121"
+    "hypnosis-deep-oct25:119"
    ],
    "index_only": false,
    "local_only": true,
@@ -500809,7 +500647,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:121": {
+    "hypnosis-deep-oct25:119": {
      "title": "Combat Mecha Xabungle",
      "year": "1982",
      "format": "tv",
@@ -500844,7 +500682,7 @@
    }
   },
   {
-   "id": 3532,
+   "id": 3530,
    "title": "Tekken 2: Kazuya's Revenge",
    "subtitle": "",
    "year": "2014",
@@ -500882,7 +500720,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:122"
+    "hypnosis-deep-oct25:120"
    ],
    "index_only": false,
    "local_only": true,
@@ -500890,7 +500728,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:122": {
+    "hypnosis-deep-oct25:120": {
      "title": "Tekken 2: Kazuya's Revenge",
      "year": "2014",
      "format": "movie",
@@ -500925,7 +500763,7 @@
    }
   },
   {
-   "id": 3533,
+   "id": 3531,
    "title": "Abduction",
    "subtitle": "",
    "year": "1975",
@@ -500963,7 +500801,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:123"
+    "hypnosis-deep-oct25:121"
    ],
    "index_only": false,
    "local_only": true,
@@ -500971,7 +500809,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:123": {
+    "hypnosis-deep-oct25:121": {
      "title": "Abduction",
      "year": "1975",
      "format": "movie",
@@ -501006,7 +500844,7 @@
    }
   },
   {
-   "id": 3534,
+   "id": 3532,
    "title": "Virtua Fighter 4",
    "subtitle": "",
    "year": "2001",
@@ -501044,7 +500882,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:124"
+    "hypnosis-deep-oct25:122"
    ],
    "index_only": false,
    "local_only": true,
@@ -501052,7 +500890,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:124": {
+    "hypnosis-deep-oct25:122": {
      "title": "Virtua Fighter 4",
      "year": "2001",
      "format": "game",
@@ -501087,7 +500925,7 @@
    }
   },
   {
-   "id": 3535,
+   "id": 3533,
    "title": "Rumble Roses",
    "subtitle": "",
    "year": "2004",
@@ -501126,7 +500964,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:125"
+    "hypnosis-deep-oct25:123"
    ],
    "index_only": false,
    "local_only": true,
@@ -501134,7 +500972,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:125": {
+    "hypnosis-deep-oct25:123": {
      "title": "Rumble Roses",
      "year": "2004",
      "format": "game",
@@ -501170,7 +501008,7 @@
    }
   },
   {
-   "id": 3536,
+   "id": 3534,
    "title": "Zeta One",
    "subtitle": "",
    "year": "1970",
@@ -501208,7 +501046,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:126"
+    "hypnosis-deep-oct25:124"
    ],
    "index_only": false,
    "local_only": true,
@@ -501216,7 +501054,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:126": {
+    "hypnosis-deep-oct25:124": {
      "title": "Zeta One",
      "year": "1970",
      "format": "movie",
@@ -501251,7 +501089,7 @@
    }
   },
   {
-   "id": 3537,
+   "id": 3535,
    "title": "The King of Fighters 2003",
    "subtitle": "",
    "year": "2003",
@@ -501289,7 +501127,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:127"
+    "hypnosis-deep-oct25:125"
    ],
    "index_only": false,
    "local_only": true,
@@ -501297,7 +501135,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:127": {
+    "hypnosis-deep-oct25:125": {
      "title": "The King of Fighters 2003",
      "year": "2003",
      "format": "game",
@@ -501332,7 +501170,7 @@
    }
   },
   {
-   "id": 3538,
+   "id": 3536,
    "title": "The Cat Shows Her Claws",
    "subtitle": "",
    "year": "1960",
@@ -501371,7 +501209,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:128"
+    "hypnosis-deep-oct25:126"
    ],
    "index_only": false,
    "local_only": true,
@@ -501379,7 +501217,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:128": {
+    "hypnosis-deep-oct25:126": {
      "title": "The Cat Shows Her Claws",
      "year": "1960",
      "format": "movie",
@@ -501415,7 +501253,7 @@
    }
   },
   {
-   "id": 3539,
+   "id": 3537,
    "title": "Street Fighter EX",
    "subtitle": "",
    "year": "1996",
@@ -501453,7 +501291,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:129"
+    "hypnosis-deep-oct25:127"
    ],
    "index_only": false,
    "local_only": true,
@@ -501461,7 +501299,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:129": {
+    "hypnosis-deep-oct25:127": {
      "title": "Street Fighter EX",
      "year": "1996",
      "format": "game",
@@ -501496,7 +501334,7 @@
    }
   },
   {
-   "id": 3540,
+   "id": 3538,
    "title": "Vigilante 8",
    "subtitle": "",
    "year": "1998",
@@ -501535,7 +501373,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:130"
+    "hypnosis-deep-oct25:128"
    ],
    "index_only": false,
    "local_only": true,
@@ -501543,7 +501381,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:130": {
+    "hypnosis-deep-oct25:128": {
      "title": "Vigilante 8",
      "year": "1998",
      "format": "game",
@@ -501579,7 +501417,7 @@
    }
   },
   {
-   "id": 3541,
+   "id": 3539,
    "title": "Splatoon 2",
    "subtitle": "",
    "year": "2017",
@@ -501617,7 +501455,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:131"
+    "hypnosis-deep-oct25:129"
    ],
    "index_only": false,
    "local_only": true,
@@ -501625,7 +501463,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:131": {
+    "hypnosis-deep-oct25:129": {
      "title": "Splatoon 2",
      "year": "2017",
      "format": "game",
@@ -501660,7 +501498,7 @@
    }
   },
   {
-   "id": 3542,
+   "id": 3540,
    "title": "Mortal Kombat (2011 video game)",
    "subtitle": "",
    "year": "2011",
@@ -501699,7 +501537,7 @@
     "hypnosis-deep-oct25"
    ],
    "source_records": [
-    "hypnosis-deep-oct25:132"
+    "hypnosis-deep-oct25:130"
    ],
    "index_only": false,
    "local_only": true,
@@ -501707,7 +501545,7 @@
    "primary_copy": null,
    "merged_from": [],
    "raw": {
-    "hypnosis-deep-oct25:132": {
+    "hypnosis-deep-oct25:130": {
      "title": "Mortal Kombat (2011 video game)",
      "year": "2011",
      "format": "game",
@@ -501743,7 +501581,7 @@
    }
   },
   {
-   "id": 3543,
+   "id": 3541,
    "title": "Cagliostro (Black Magic)",
    "subtitle": "",
    "year": "1949",
@@ -501826,7 +501664,7 @@
    }
   },
   {
-   "id": 3544,
+   "id": 3542,
    "title": "Outlanders",
    "subtitle": "",
    "year": "1986",
@@ -501907,7 +501745,7 @@
    }
   },
   {
-   "id": 3545,
+   "id": 3543,
    "title": "Joseph Balsamo",
    "subtitle": "",
    "year": "1973",
@@ -501988,7 +501826,7 @@
    }
   },
   {
-   "id": 3546,
+   "id": 3544,
    "title": "The Hand of Fear",
    "subtitle": "",
    "year": "1976",
@@ -502069,7 +501907,7 @@
    }
   },
   {
-   "id": 3547,
+   "id": 3545,
    "title": "The Evil of the Daleks",
    "subtitle": "",
    "year": "1967",
@@ -502150,7 +501988,7 @@
    }
   },
   {
-   "id": 3548,
+   "id": 3546,
    "title": "Abbott and Costello Meet Frankenstein",
    "subtitle": "",
    "year": "1948",
@@ -502231,7 +502069,7 @@
    }
   },
   {
-   "id": 3549,
+   "id": 3547,
    "title": "It Conquered the World",
    "subtitle": "",
    "year": "1956",
@@ -502316,7 +502154,7 @@
    }
   },
   {
-   "id": 3550,
+   "id": 3548,
    "title": "The Garden Murder Case",
    "subtitle": "",
    "year": "1936",
@@ -502397,7 +502235,7 @@
    }
   },
   {
-   "id": 3551,
+   "id": 3549,
    "title": "Ushijima the Loan Shark (Season 3)",
    "subtitle": "",
    "year": "2016",
@@ -502478,7 +502316,7 @@
    }
   },
   {
-   "id": 3552,
+   "id": 3550,
    "title": "Battle Arena Toshinden",
    "subtitle": "",
    "year": "1995",
@@ -502559,7 +502397,7 @@
    }
   },
   {
-   "id": 3553,
+   "id": 3551,
    "title": "Opal of Fire: Merchants of Sex",
    "subtitle": "",
    "year": "1980",
@@ -502640,7 +502478,7 @@
    }
   },
   {
-   "id": 3554,
+   "id": 3552,
    "title": "H",
    "subtitle": "",
    "year": "1998",
@@ -502721,7 +502559,7 @@
    }
   },
   {
-   "id": 3555,
+   "id": 3553,
    "title": "House of a Thousand Dolls",
    "subtitle": "",
    "year": "1967",
@@ -502802,7 +502640,7 @@
    }
   },
   {
-   "id": 3556,
+   "id": 3554,
    "title": "Ghost Light",
    "subtitle": "",
    "year": "1989",
@@ -502883,7 +502721,7 @@
    }
   },
   {
-   "id": 3557,
+   "id": 3555,
    "title": "Aux frontières du possible",
    "subtitle": "",
    "year": "1971",
@@ -502966,7 +502804,7 @@
    }
   },
   {
-   "id": 3558,
+   "id": 3556,
    "title": "The Naked Gun: From the Files of Police Squad!",
    "subtitle": "",
    "year": "1988",
@@ -503047,7 +502885,7 @@
    }
   },
   {
-   "id": 3559,
+   "id": 3557,
    "title": "Close Your Eyes (Hypnotic)",
    "subtitle": "",
    "year": "2002",
@@ -503128,7 +502966,7 @@
    }
   },
   {
-   "id": 3560,
+   "id": 3558,
    "title": "The Phantom of the Opera",
    "subtitle": "",
    "year": "1989",
@@ -503209,7 +503047,7 @@
    }
   },
   {
-   "id": 3561,
+   "id": 3559,
    "title": "The War Machines",
    "subtitle": "",
    "year": "1966",
@@ -503290,7 +503128,7 @@
    }
   },
   {
-   "id": 3562,
+   "id": 3560,
    "title": "The Mind of Evil",
    "subtitle": "",
    "year": "1971",
@@ -503371,7 +503209,7 @@
    }
   },
   {
-   "id": 3563,
+   "id": 3561,
    "title": "Dr. Strange",
    "subtitle": "",
    "year": "1978",
@@ -503452,7 +503290,7 @@
    }
   },
   {
-   "id": 3564,
+   "id": 3562,
    "title": "Slaves of Another's Will (Sklaven fremden Willens)",
    "subtitle": "",
    "year": "1920",
@@ -503533,7 +503371,7 @@
    }
   },
   {
-   "id": 3565,
+   "id": 3563,
    "title": "Columbo: A Deadly State of Mind",
    "subtitle": "",
    "year": "1975",
@@ -503614,7 +503452,7 @@
    }
   },
   {
-   "id": 3566,
+   "id": 3564,
    "title": "Argylle",
    "subtitle": "",
    "year": "2024",
@@ -503695,7 +503533,7 @@
    }
   },
   {
-   "id": 3567,
+   "id": 3565,
    "title": "Somnambul",
    "subtitle": "",
    "year": "1929",
@@ -503776,7 +503614,7 @@
    }
   },
   {
-   "id": 3568,
+   "id": 3566,
    "title": "Under the Top",
    "subtitle": "",
    "year": "1919",
@@ -503857,7 +503695,7 @@
    }
   },
   {
-   "id": 3569,
+   "id": 3567,
    "title": "East of Suez",
    "subtitle": "",
    "year": "1925",
@@ -503940,7 +503778,7 @@
    }
   },
   {
-   "id": 3571,
+   "id": 3569,
    "title": "Charlie Says",
    "subtitle": "",
    "year": "2018",
@@ -504023,7 +503861,7 @@
    }
   },
   {
-   "id": 3572,
+   "id": 3570,
    "title": "Love Exposure",
    "subtitle": "",
    "year": "2008",
@@ -504106,7 +503944,7 @@
    }
   },
   {
-   "id": 3573,
+   "id": 3571,
    "title": "Fringe",
    "subtitle": "",
    "year": "2008",
@@ -504187,7 +504025,7 @@
    }
   },
   {
-   "id": 3574,
+   "id": 3572,
    "title": "King of the Lost World",
    "subtitle": "",
    "year": "2005",
@@ -504268,7 +504106,7 @@
    }
   },
   {
-   "id": 3575,
+   "id": 3573,
    "title": "The Ruling Passion",
    "subtitle": "",
    "year": "1916",
@@ -504349,7 +504187,7 @@
    }
   },
   {
-   "id": 3576,
+   "id": 3574,
    "title": "Alias",
    "subtitle": "",
    "year": "2001",
@@ -504432,7 +504270,7 @@
    }
   },
   {
-   "id": 3577,
+   "id": 3575,
    "title": "Kyrie ou o Início do Caos",
    "subtitle": "",
    "year": "1998",
@@ -504513,7 +504351,7 @@
    }
   },
   {
-   "id": 3578,
+   "id": 3576,
    "title": "Street Fighter: The Animated Series",
    "subtitle": "",
    "year": "1995",
@@ -504594,7 +504432,7 @@
    }
   },
   {
-   "id": 3579,
+   "id": 3577,
    "title": "The Phantom of the Opera",
    "subtitle": "",
    "year": "2004",
@@ -504675,7 +504513,7 @@
    }
   },
   {
-   "id": 3580,
+   "id": 3578,
    "title": "Archangel",
    "subtitle": "",
    "year": "1990",
@@ -504756,7 +504594,7 @@
    }
   },
   {
-   "id": 3581,
+   "id": 3579,
    "title": "Tokusou Robo Janperson",
    "subtitle": "",
    "year": "1993",
@@ -504839,7 +504677,7 @@
    }
   },
   {
-   "id": 3582,
+   "id": 3580,
    "title": "Drama Ibu Hamil — Melahirkan Setelah Dihipnotis Perampok",
    "subtitle": "",
    "year": "2022",
@@ -504939,7 +504777,7 @@
    }
   },
   {
-   "id": 3583,
+   "id": 3581,
    "title": "Drama: Kisah Ibu Hamil Dihipnotis Tamu Misterius Sampai Melahirkan",
    "subtitle": "",
    "year": "2022",
@@ -505039,7 +504877,7 @@
    }
   },
   {
-   "id": 3584,
+   "id": 3582,
    "title": "Ibu Hamil Di Hipnotis Dan Diikat Perampok",
    "subtitle": "",
    "year": "2023",
@@ -505139,7 +504977,7 @@
    }
   },
   {
-   "id": 3585,
+   "id": 3583,
    "title": "Drama Ibu Hamil Pingsan Dihipnotis Penjahat Baju Hitam",
    "subtitle": "",
    "year": "2026",
@@ -505239,7 +505077,7 @@
    }
   },
   {
-   "id": 3586,
+   "id": 3584,
    "title": "Ibu Hamil dan Revina Kena Hipnotis",
    "subtitle": "",
    "year": "2023",
@@ -505339,7 +505177,7 @@
    }
   },
   {
-   "id": 3587,
+   "id": 3585,
    "title": "Утраченные воспоминания (Lost Memories)",
    "subtitle": "",
    "year": "2019",
@@ -505489,7 +505327,7 @@
    }
   },
   {
-   "id": 3588,
+   "id": 3586,
    "title": "亡夫假面 (The Late Husband's Mask)",
    "subtitle": "",
    "year": "2026",
@@ -505595,7 +505433,7 @@
    }
   },
   {
-   "id": 3589,
+   "id": 3587,
    "title": "Munich",
    "subtitle": "",
    "year": "2005",
@@ -505685,7 +505523,7 @@
    }
   },
   {
-   "id": 3590,
+   "id": 3588,
    "title": "St. Vincent",
    "subtitle": "",
    "year": "2014",
@@ -505771,7 +505609,7 @@
    }
   },
   {
-   "id": 3591,
+   "id": 3589,
    "title": "Little Fires Everywhere — “The Uncanny” (S1E6)",
    "subtitle": "",
    "year": "2020",
@@ -505855,7 +505693,7 @@
    }
   },
   {
-   "id": 3592,
+   "id": 3590,
    "title": "Dickinson — “‘Hope’ is the thing with feathers” (S3E1)",
    "subtitle": "",
    "year": "2021",
@@ -505937,7 +505775,7 @@
    }
   },
   {
-   "id": 3593,
+   "id": 3591,
    "title": "Virgin River — Season 4 (E3 “Grilled”, E10 “Fire and Rain”)",
    "subtitle": "",
    "year": "2022",
@@ -506027,7 +505865,7 @@
    }
   },
   {
-   "id": 3594,
+   "id": 3592,
    "title": "Mad About You — “The Birth” (S5)",
    "subtitle": "",
    "year": "1997",
@@ -506101,7 +505939,7 @@
    }
   },
   {
-   "id": 3595,
+   "id": 3593,
    "title": "Doula",
    "subtitle": "",
    "year": "2022",
@@ -506199,7 +506037,7 @@
    }
   },
   {
-   "id": 3596,
+   "id": 3594,
    "title": "Le Refuge (The Refuge)",
    "subtitle": "",
    "year": "2009",
@@ -506297,7 +506135,7 @@
    }
   },
   {
-   "id": 3597,
+   "id": 3595,
    "title": "My Friend & His Wife (나의 친구, 그의 아내)",
    "subtitle": "",
    "year": "2008",
@@ -506387,7 +506225,7 @@
    }
   },
   {
-   "id": 3598,
+   "id": 3596,
    "title": "Salisihan (孕妇的诱惑)",
    "subtitle": "",
    "year": "2024",
@@ -506491,7 +506329,7 @@
    }
   },
   {
-   "id": 3599,
+   "id": 3597,
    "title": "Birth (Adult Time feature)",
    "subtitle": "",
    "year": "2024",
@@ -506584,7 +506422,7 @@
    }
   },
   {
-   "id": 3600,
+   "id": 3598,
    "title": "Preggo World (Adult Time series)",
    "subtitle": "",
    "year": "2024",
@@ -506669,7 +506507,7 @@
    }
   },
   {
-   "id": 3601,
+   "id": 3599,
    "title": "Pregnant & Pounded (series)",
    "subtitle": "",
    "year": "2014",
@@ -506762,7 +506600,7 @@
    }
   },
   {
-   "id": 3602,
+   "id": 3600,
    "title": "妊婦大好き (Ninpu Daisuki) series",
    "subtitle": "",
    "year": "2008",
@@ -506863,7 +506701,7 @@
    }
   },
   {
-   "id": 3603,
+   "id": 3601,
    "title": "Pregnant Amateurs (ATKingdom series)",
    "subtitle": "",
    "year": "Year unverified",
@@ -506948,7 +506786,7 @@
    }
   },
   {
-   "id": 3604,
+   "id": 3602,
    "title": "Kangoku Senkan: Hidou no Sennou Kaizou Koukai",
    "subtitle": "",
    "year": "2007",
@@ -507033,7 +506871,7 @@
    }
   },
   {
-   "id": 3605,
+   "id": 3603,
    "title": "Kangoku Senkan 2: Yousai Toshi no Sennou Kaizou",
    "subtitle": "",
    "year": "2010",
@@ -507120,7 +506958,7 @@
    }
   },
   {
-   "id": 3606,
+   "id": 3604,
    "title": "Kangoku Senkan 3: Nessa no Sennou Kouro",
    "subtitle": "",
    "year": "2013",
@@ -507205,7 +507043,7 @@
    }
   },
   {
-   "id": 3607,
+   "id": 3605,
    "title": "Elite Onna Joushi o Saimin de Haramase Onaho ni Shita Erosugiru Kaisha Seikatsu",
    "subtitle": "",
    "year": "2017",
@@ -507288,7 +507126,7 @@
    }
   },
   {
-   "id": 3608,
+   "id": 3606,
    "title": "Joushiki Kaihen! Bakunyuu Bosei Tomo Mama to Kozukuri Homestay!",
    "subtitle": "",
    "year": "2020",
@@ -507371,7 +507209,7 @@
    }
   },
   {
-   "id": 3609,
+   "id": 3607,
    "title": "Ane Ane Double Saimin: Saimin Souchi de Kyonyuu Ane Futari o Netoru",
    "subtitle": "",
    "year": "2016",
@@ -507456,7 +507294,7 @@
    }
   },
   {
-   "id": 3610,
+   "id": 3608,
    "title": "Ane Ane Double Saimin 2: Kyonyuu Onna Joushi Chikan, Kyonyuu Hitozuma Netori",
    "subtitle": "",
    "year": "2017",
@@ -507541,7 +507379,7 @@
    }
   },
   {
-   "id": 3611,
+   "id": 3609,
    "title": "Saimin Datsujo 3: Subete ga Boku no Jiyuu ni Naru Hodo",
    "subtitle": "",
    "year": "2022",
@@ -507626,7 +507464,7 @@
    }
   },
   {
-   "id": 3612,
+   "id": 3610,
    "title": "Saimin Eye Drops",
    "subtitle": "",
    "year": "2016",
@@ -507711,7 +507549,7 @@
    }
   },
   {
-   "id": 3613,
+   "id": 3611,
    "title": "In'en no Yu: Sandai no Okami-tachi to no Mikkou",
    "subtitle": "",
    "year": "2014",
@@ -507796,7 +507634,7 @@
    }
   },
   {
-   "id": 3614,
+   "id": 3612,
    "title": "Daisaimin",
    "subtitle": "",
    "year": "2013",
@@ -507881,7 +507719,7 @@
    }
   },
   {
-   "id": 3615,
+   "id": 3613,
    "title": "Kyonyuu Gunjin Shihai Saimin",
    "subtitle": "",
    "year": "2021",
@@ -507966,7 +507804,7 @@
    }
   },
   {
-   "id": 3616,
+   "id": 3614,
    "title": "Kyonyuu Elf Oyako Saimin",
    "subtitle": "",
    "year": "2018",
@@ -508051,7 +507889,7 @@
    }
   },
   {
-   "id": 3617,
+   "id": 3615,
    "title": "VenusBlood -HYPNO-",
    "subtitle": "",
    "year": "2014",
@@ -508138,7 +507976,7 @@
    }
   },
   {
-   "id": 3618,
+   "id": 3616,
    "title": "Kyuukon Saimin: Watashi, Zettai ni Uwaki Nante Shinai",
    "subtitle": "",
    "year": "2020",
@@ -508225,7 +508063,7 @@
    }
   },
   {
-   "id": 3619,
+   "id": 3617,
    "title": "Torchwood: Sleeper",
    "subtitle": "",
    "year": "2008",
@@ -508308,7 +508146,7 @@
    }
   },
   {
-   "id": 3620,
+   "id": 3618,
    "title": "The Dark Phoenix Saga",
    "subtitle": "",
    "year": "1980",
@@ -508391,7 +508229,7 @@
    }
   },
   {
-   "id": 3621,
+   "id": 3619,
    "title": "Fire Emblem: Genealogy of the Holy War",
    "subtitle": "",
    "year": "1996",
@@ -512509,15 +512347,7 @@
      "notes": [],
      "items": [
       {
-       "id": 3610,
-       "from_source": "hypnosis-deep-oct25c"
-      },
-      {
-       "id": 3609,
-       "from_source": "hypnosis-deep-oct25c"
-      },
-      {
-       "id": 3614,
+       "id": 3608,
        "from_source": "hypnosis-deep-oct25c"
       },
       {
@@ -512525,11 +512355,7 @@
        "from_source": "hypnosis-deep-oct25c"
       },
       {
-       "id": 3613,
-       "from_source": "hypnosis-deep-oct25c"
-      },
-      {
-       "id": 3608,
+       "id": 3612,
        "from_source": "hypnosis-deep-oct25c"
       },
       {
@@ -512537,7 +512363,15 @@
        "from_source": "hypnosis-deep-oct25c"
       },
       {
+       "id": 3611,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
        "id": 3606,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3603,
        "from_source": "hypnosis-deep-oct25c"
       },
       {
@@ -512545,27 +512379,31 @@
        "from_source": "hypnosis-deep-oct25c"
       },
       {
+       "id": 3602,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3614,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3613,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
        "id": 3616,
        "from_source": "hypnosis-deep-oct25c"
       },
       {
+       "id": 3609,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3610,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
        "id": 3615,
-       "from_source": "hypnosis-deep-oct25c"
-      },
-      {
-       "id": 3618,
-       "from_source": "hypnosis-deep-oct25c"
-      },
-      {
-       "id": 3611,
-       "from_source": "hypnosis-deep-oct25c"
-      },
-      {
-       "id": 3612,
-       "from_source": "hypnosis-deep-oct25c"
-      },
-      {
-       "id": 3617,
        "from_source": "hypnosis-deep-oct25c"
       }
      ],
@@ -513770,11 +513608,11 @@
      "notes": [],
      "items": [
       {
-       "id": 3522,
+       "id": 3520,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3505,
+       "id": 3503,
        "from_source": "hypnosis-deep-oct25"
       },
       {
@@ -513782,11 +513620,11 @@
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3525,
+       "id": 3523,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3521,
+       "id": 3519,
        "from_source": "hypnosis-deep-oct25"
       }
      ],
@@ -513797,11 +513635,11 @@
      "notes": [],
      "items": [
       {
-       "id": 3571,
+       "id": 3569,
        "from_source": "hypnosis-deep-oct25b"
       },
       {
-       "id": 3572,
+       "id": 3570,
        "from_source": "hypnosis-deep-oct25b"
       }
      ],
@@ -513812,7 +513650,7 @@
      "notes": [],
      "items": [
       {
-       "id": 3621,
+       "id": 3619,
        "from_source": "hypnosis-deep-oct25c"
       }
      ],
@@ -515684,31 +515522,31 @@
      "notes": [],
      "items": [
       {
-       "id": 3457,
+       "id": 3455,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3508,
+       "id": 3506,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3470,
+       "id": 3468,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3527,
+       "id": 3525,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3530,
+       "id": 3528,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3482,
+       "id": 3480,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3452,
+       "id": 3451,
        "from_source": "hypnosis-deep-oct25"
       }
      ],
@@ -515719,15 +515557,15 @@
      "notes": [],
      "items": [
       {
-       "id": 3569,
+       "id": 3567,
        "from_source": "hypnosis-deep-oct25b"
       },
       {
-       "id": 3549,
+       "id": 3547,
        "from_source": "hypnosis-deep-oct25b"
       },
       {
-       "id": 3581,
+       "id": 3579,
        "from_source": "hypnosis-deep-oct25b"
       }
      ],
@@ -515738,15 +515576,11 @@
      "notes": [],
      "items": [
       {
-       "id": 3620,
+       "id": 3618,
        "from_source": "hypnosis-deep-oct25c"
       },
       {
-       "id": 3605,
-       "from_source": "hypnosis-deep-oct25c"
-      },
-      {
-       "id": 3606,
+       "id": 3603,
        "from_source": "hypnosis-deep-oct25c"
       },
       {
@@ -515754,15 +515588,19 @@
        "from_source": "hypnosis-deep-oct25c"
       },
       {
-       "id": 3615,
+       "id": 3602,
        "from_source": "hypnosis-deep-oct25c"
       },
       {
-       "id": 3612,
+       "id": 3613,
        "from_source": "hypnosis-deep-oct25c"
       },
       {
-       "id": 3619,
+       "id": 3610,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3617,
        "from_source": "hypnosis-deep-oct25c"
       }
      ],
@@ -517975,11 +517813,11 @@
      "notes": [],
      "items": [
       {
-       "id": 3616,
+       "id": 3614,
        "from_source": "hypnosis-deep-oct25c"
       },
       {
-       "id": 3617,
+       "id": 3615,
        "from_source": "hypnosis-deep-oct25c"
       }
      ],
@@ -521432,11 +521270,11 @@
      "notes": [],
      "items": [
       {
-       "id": 3491,
+       "id": 3489,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3542,
+       "id": 3540,
        "from_source": "hypnosis-deep-oct25"
       }
      ],
@@ -521447,11 +521285,11 @@
      "notes": [],
      "items": [
       {
-       "id": 3543,
+       "id": 3541,
        "from_source": "hypnosis-deep-oct25b"
       },
       {
-       "id": 3569,
+       "id": 3567,
        "from_source": "hypnosis-deep-oct25b"
       },
       {
@@ -521459,7 +521297,7 @@
        "from_source": "hypnosis-deep-oct25b"
       },
       {
-       "id": 3549,
+       "id": 3547,
        "from_source": "hypnosis-deep-oct25b"
       }
      ],
@@ -521470,7 +521308,7 @@
      "notes": [],
      "items": [
       {
-       "id": 3621,
+       "id": 3619,
        "from_source": "hypnosis-deep-oct25c"
       }
      ],
@@ -521515,7 +521353,7 @@
      "notes": [],
      "items": [
       {
-       "id": 3599,
+       "id": 3597,
        "from_source": "pregnant-scenes-oct25"
       },
       {
@@ -521527,7 +521365,11 @@
        "from_source": "adult-fanmade-oct15"
       },
       {
-       "id": 3600,
+       "id": 3598,
+       "from_source": "pregnant-scenes-oct25"
+      },
+      {
+       "id": 3599,
        "from_source": "pregnant-scenes-oct25"
       },
       {
@@ -521535,15 +521377,11 @@
        "from_source": "pregnant-scenes-oct25"
       },
       {
-       "id": 3603,
-       "from_source": "pregnant-scenes-oct25"
-      },
-      {
        "id": 1755,
        "from_source": "adult-fanmade-oct15"
       },
       {
-       "id": 3602,
+       "id": 3600,
        "from_source": "pregnant-scenes-oct25"
       }
      ],
@@ -526103,7 +525941,7 @@
      "notes": [],
      "items": [
       {
-       "id": 3588,
+       "id": 3586,
        "from_source": "hypno-pregnant-yt-oct25"
       }
      ],
@@ -527702,7 +527540,7 @@
      "notes": [],
      "items": [
       {
-       "id": 3456,
+       "id": 3454,
        "from_source": "hypnosis-deep-oct25"
       },
       {
@@ -527710,7 +527548,7 @@
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3458,
+       "id": 3456,
        "from_source": "hypnosis-deep-oct25"
       }
      ],
@@ -527721,7 +527559,7 @@
      "notes": [],
      "items": [
       {
-       "id": 3580,
+       "id": 3578,
        "from_source": "hypnosis-deep-oct25b"
       },
       {
@@ -527736,15 +527574,15 @@
      "notes": [],
      "items": [
       {
-       "id": 3610,
+       "id": 3608,
        "from_source": "hypnosis-deep-oct25c"
       },
       {
-       "id": 3609,
+       "id": 3607,
        "from_source": "hypnosis-deep-oct25c"
       },
       {
-       "id": 3613,
+       "id": 3611,
        "from_source": "hypnosis-deep-oct25c"
       }
      ],
@@ -528592,11 +528430,11 @@
      "notes": [],
      "items": [
       {
-       "id": 3618,
+       "id": 3616,
        "from_source": "hypnosis-deep-oct25c"
       },
       {
-       "id": 3611,
+       "id": 3609,
        "from_source": "hypnosis-deep-oct25c"
       }
      ],
@@ -529545,31 +529383,15 @@
      "notes": [],
      "items": [
       {
-       "id": 3499,
+       "id": 3497,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3538,
+       "id": 3536,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3496,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3523,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3465,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3507,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3448,
+       "id": 3494,
        "from_source": "hypnosis-deep-oct25"
       },
       {
@@ -529577,27 +529399,43 @@
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3535,
+       "id": 3463,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3429,
+       "id": 3505,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3517,
+       "id": 3447,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3435,
+       "id": 3519,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3540,
+       "id": 3533,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3449,
+       "id": 3428,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3515,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3434,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3538,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3448,
        "from_source": "hypnosis-deep-oct25"
       }
      ],
@@ -529608,11 +529446,11 @@
      "notes": [],
      "items": [
       {
-       "id": 3576,
+       "id": 3574,
        "from_source": "hypnosis-deep-oct25b"
       },
       {
-       "id": 3581,
+       "id": 3579,
        "from_source": "hypnosis-deep-oct25b"
       }
      ],
@@ -529623,23 +529461,23 @@
      "notes": [],
      "items": [
       {
-       "id": 3585,
-       "from_source": "hypno-pregnant-yt-oct25"
-      },
-      {
-       "id": 3582,
-       "from_source": "hypno-pregnant-yt-oct25"
-      },
-      {
        "id": 3583,
        "from_source": "hypno-pregnant-yt-oct25"
       },
       {
-       "id": 3586,
+       "id": 3580,
+       "from_source": "hypno-pregnant-yt-oct25"
+      },
+      {
+       "id": 3581,
        "from_source": "hypno-pregnant-yt-oct25"
       },
       {
        "id": 3584,
+       "from_source": "hypno-pregnant-yt-oct25"
+      },
+      {
+       "id": 3582,
        "from_source": "hypno-pregnant-yt-oct25"
       }
      ],
@@ -529650,11 +529488,11 @@
      "notes": [],
      "items": [
       {
-       "id": 3614,
+       "id": 3612,
        "from_source": "hypnosis-deep-oct25c"
       },
       {
-       "id": 3605,
+       "id": 3603,
        "from_source": "hypnosis-deep-oct25c"
       }
      ],
@@ -530002,7 +529840,7 @@
      "notes": [],
      "items": [
       {
-       "id": 3480,
+       "id": 3478,
        "from_source": "hypnosis-deep-oct25"
       }
      ],
@@ -530013,7 +529851,7 @@
      "notes": [],
      "items": [
       {
-       "id": 3617,
+       "id": 3615,
        "from_source": "hypnosis-deep-oct25c"
       }
      ],
@@ -532218,7 +532056,7 @@
      "notes": [],
      "items": [
       {
-       "id": 3618,
+       "id": 3616,
        "from_source": "hypnosis-deep-oct25c"
       }
      ],
@@ -534272,7 +534110,7 @@
      "notes": [],
      "items": [
       {
-       "id": 3598,
+       "id": 3596,
        "from_source": "pregnant-scenes-oct25"
       }
      ],
@@ -535867,19 +535705,15 @@
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3487,
+       "id": 3485,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3439,
+       "id": 3438,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3469,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3518,
+       "id": 3467,
        "from_source": "hypnosis-deep-oct25"
       },
       {
@@ -535887,11 +535721,15 @@
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3442,
+       "id": 3514,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3515,
+       "id": 3441,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3513,
        "from_source": "hypnosis-deep-oct25"
       },
       {
@@ -535899,11 +535737,11 @@
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3506,
+       "id": 3504,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3492,
+       "id": 3490,
        "from_source": "hypnosis-deep-oct25"
       },
       {
@@ -535923,15 +535761,15 @@
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3444,
+       "id": 3443,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3432,
+       "id": 3431,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3513,
+       "id": 3511,
        "from_source": "hypnosis-deep-oct25"
       }
      ],
@@ -535942,23 +535780,23 @@
      "notes": [],
      "items": [
       {
-       "id": 3548,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3557,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3565,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3554,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
        "id": 3546,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3555,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3563,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3552,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3544,
        "from_source": "hypnosis-deep-oct25b"
       }
      ],
@@ -535969,7 +535807,7 @@
      "notes": [],
      "items": [
       {
-       "id": 3587,
+       "id": 3585,
        "from_source": "hypno-pregnant-yt-oct25"
       }
      ],
@@ -541456,11 +541294,11 @@
      "notes": [],
      "items": [
       {
-       "id": 3587,
+       "id": 3585,
        "from_source": "hypno-pregnant-yt-oct25"
       },
       {
-       "id": 3588,
+       "id": 3586,
        "from_source": "hypno-pregnant-yt-oct25"
       }
      ],
@@ -543173,11 +543011,11 @@
      "notes": [],
      "items": [
       {
-       "id": 3587,
+       "id": 3585,
        "from_source": "hypno-pregnant-yt-oct25"
       },
       {
-       "id": 3588,
+       "id": 3586,
        "from_source": "hypno-pregnant-yt-oct25"
       }
      ],
@@ -544461,19 +544299,19 @@
      "notes": [],
      "items": [
       {
-       "id": 3594,
+       "id": 3592,
        "from_source": "pregnant-intimate-oct25"
       },
       {
-       "id": 3589,
+       "id": 3587,
        "from_source": "pregnant-intimate-oct25"
       },
       {
-       "id": 3590,
+       "id": 3588,
        "from_source": "pregnant-intimate-oct25"
       },
       {
-       "id": 3593,
+       "id": 3591,
        "from_source": "pregnant-intimate-oct25"
       }
      ],
@@ -544484,7 +544322,7 @@
      "notes": [],
      "items": [
       {
-       "id": 3598,
+       "id": 3596,
        "from_source": "pregnant-scenes-oct25"
       }
      ],
@@ -544495,11 +544333,15 @@
      "notes": [],
      "items": [
       {
-       "id": 3599,
+       "id": 3597,
        "from_source": "pregnant-scenes-oct25"
       },
       {
-       "id": 3600,
+       "id": 3598,
+       "from_source": "pregnant-scenes-oct25"
+      },
+      {
+       "id": 3599,
        "from_source": "pregnant-scenes-oct25"
       },
       {
@@ -544507,11 +544349,7 @@
        "from_source": "pregnant-scenes-oct25"
       },
       {
-       "id": 3603,
-       "from_source": "pregnant-scenes-oct25"
-      },
-      {
-       "id": 3602,
+       "id": 3600,
        "from_source": "pregnant-scenes-oct25"
       }
      ],
@@ -544882,7 +544720,7 @@
        "from_source": "pregnant-intimate-oct25"
       },
       {
-       "id": 3591,
+       "id": 3589,
        "from_source": "pregnant-intimate-oct25"
       }
      ],
@@ -544893,15 +544731,15 @@
      "notes": [],
      "items": [
       {
+       "id": 3593,
+       "from_source": "pregnant-scenes-oct25"
+      },
+      {
+       "id": 3594,
+       "from_source": "pregnant-scenes-oct25"
+      },
+      {
        "id": 3595,
-       "from_source": "pregnant-scenes-oct25"
-      },
-      {
-       "id": 3596,
-       "from_source": "pregnant-scenes-oct25"
-      },
-      {
-       "id": 3597,
        "from_source": "pregnant-scenes-oct25"
       }
      ],
@@ -545026,11 +544864,11 @@
      "notes": [],
      "items": [
       {
-       "id": 3592,
+       "id": 3590,
        "from_source": "pregnant-intimate-oct25"
       },
       {
-       "id": 3591,
+       "id": 3589,
        "from_source": "pregnant-intimate-oct25"
       }
      ],
@@ -546881,23 +546719,23 @@
      "notes": [],
      "items": [
       {
-       "id": 3585,
-       "from_source": "hypno-pregnant-yt-oct25"
-      },
-      {
-       "id": 3582,
-       "from_source": "hypno-pregnant-yt-oct25"
-      },
-      {
        "id": 3583,
        "from_source": "hypno-pregnant-yt-oct25"
       },
       {
-       "id": 3586,
+       "id": 3580,
+       "from_source": "hypno-pregnant-yt-oct25"
+      },
+      {
+       "id": 3581,
        "from_source": "hypno-pregnant-yt-oct25"
       },
       {
        "id": 3584,
+       "from_source": "hypno-pregnant-yt-oct25"
+      },
+      {
+       "id": 3582,
        "from_source": "hypno-pregnant-yt-oct25"
       }
      ],
@@ -548078,23 +547916,23 @@
      "notes": [],
      "items": [
       {
-       "id": 3585,
-       "from_source": "hypno-pregnant-yt-oct25"
-      },
-      {
-       "id": 3582,
-       "from_source": "hypno-pregnant-yt-oct25"
-      },
-      {
        "id": 3583,
        "from_source": "hypno-pregnant-yt-oct25"
       },
       {
-       "id": 3586,
+       "id": 3580,
+       "from_source": "hypno-pregnant-yt-oct25"
+      },
+      {
+       "id": 3581,
        "from_source": "hypno-pregnant-yt-oct25"
       },
       {
        "id": 3584,
+       "from_source": "hypno-pregnant-yt-oct25"
+      },
+      {
+       "id": 3582,
        "from_source": "hypno-pregnant-yt-oct25"
       }
      ],
@@ -561292,147 +561130,7 @@
      "notes": [],
      "items": [
       {
-       "id": 3522,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3478,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3533,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3529,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3421,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3457,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3416,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3474,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3437,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3456,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3524,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3443,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3417,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3486,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3538,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3480,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3436,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3531,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3504,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3495,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3510,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3470,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3418,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3466,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3445,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3497,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3527,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3433,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3461,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3454,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3440,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3471,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3464,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3438,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3430,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3472,
+       "id": 3520,
        "from_source": "hypnosis-deep-oct25"
       },
       {
@@ -561440,127 +561138,47 @@
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3419,
+       "id": 3531,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3530,
+       "id": 3527,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3447,
+       "id": 3421,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3512,
+       "id": 3455,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3523,
+       "id": 3416,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3537,
+       "id": 3472,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3493,
+       "id": 3436,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3483,
+       "id": 3454,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3498,
+       "id": 3522,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3414,
+       "id": 3442,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3427,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3519,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3448,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3489,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3479,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3459,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3441,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3434,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3462,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3542,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3485,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3502,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3528,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3424,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3501,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3509,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3473,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3426,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3428,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3482,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3525,
+       "id": 3417,
        "from_source": "hypnosis-deep-oct25"
       },
       {
@@ -561568,7 +561186,111 @@
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3453,
+       "id": 3536,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3478,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3435,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3529,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3502,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3493,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3508,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3468,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3418,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3464,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3444,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3495,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3525,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3432,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3459,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3452,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3439,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3469,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3462,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3437,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3429,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3470,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3474,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3419,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3528,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3446,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3510,
        "from_source": "hypnosis-deep-oct25"
       },
       {
@@ -561580,99 +561302,7 @@
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3511,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3500,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3514,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3477,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3452,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3490,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3541,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3494,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3429,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3455,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3539,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3467,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3517,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3463,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3532,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3526,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3431,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3503,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3475,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3446,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3460,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3520,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3435,
-       "from_source": "hypnosis-deep-oct25"
-      },
-      {
-       "id": 3468,
+       "id": 3491,
        "from_source": "hypnosis-deep-oct25"
       },
       {
@@ -561680,23 +561310,119 @@
        "from_source": "hypnosis-deep-oct25"
       },
       {
+       "id": 3496,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3414,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3517,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3447,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3487,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3477,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3457,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3440,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3433,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3460,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
        "id": 3540,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3534,
+       "id": 3483,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3488,
+       "id": 3500,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3450,
+       "id": 3526,
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3449,
+       "id": 3424,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3499,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3507,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3471,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3426,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3427,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3480,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3523,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3482,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3519,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3533,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3509,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3498,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3512,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3475,
        "from_source": "hypnosis-deep-oct25"
       },
       {
@@ -561704,7 +561430,111 @@
        "from_source": "hypnosis-deep-oct25"
       },
       {
-       "id": 3536,
+       "id": 3488,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3539,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3492,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3428,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3453,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3537,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3465,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3515,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3461,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3530,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3524,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3430,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3501,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3473,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3445,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3458,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3518,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3434,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3466,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3479,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3538,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3532,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3486,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3449,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3448,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3450,
+       "from_source": "hypnosis-deep-oct25"
+      },
+      {
+       "id": 3534,
        "from_source": "hypnosis-deep-oct25"
       }
      ],
@@ -561715,6 +561545,118 @@
      "notes": [],
      "items": [
       {
+       "id": 3574,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3564,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3555,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3550,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 994,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3541,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3569,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3557,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3561,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3545,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3571,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3548,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3554,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3553,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3547,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3543,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3572,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3575,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3570,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3560,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3556,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3551,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3542,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3558,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3577,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3573,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3562,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3565,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
        "id": 3576,
        "from_source": "hypnosis-deep-oct25b"
       },
@@ -561723,123 +561665,11 @@
        "from_source": "hypnosis-deep-oct25b"
       },
       {
-       "id": 3557,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3552,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 994,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3543,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3571,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3559,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3563,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3547,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3573,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3550,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3556,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3555,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
        "id": 3549,
        "from_source": "hypnosis-deep-oct25b"
       },
       {
-       "id": 3545,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3574,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3577,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3572,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3562,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3558,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3553,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3544,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3560,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3579,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3575,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3564,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3567,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3578,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3568,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3551,
-       "from_source": "hypnosis-deep-oct25b"
-      },
-      {
-       "id": 3561,
+       "id": 3559,
        "from_source": "hypnosis-deep-oct25b"
       }
      ],
@@ -561850,19 +561680,7 @@
      "notes": [],
      "items": [
       {
-       "id": 3610,
-       "from_source": "hypnosis-deep-oct25c"
-      },
-      {
-       "id": 3609,
-       "from_source": "hypnosis-deep-oct25c"
-      },
-      {
-       "id": 3614,
-       "from_source": "hypnosis-deep-oct25c"
-      },
-      {
-       "id": 3620,
+       "id": 3608,
        "from_source": "hypnosis-deep-oct25c"
       },
       {
@@ -561870,35 +561688,7 @@
        "from_source": "hypnosis-deep-oct25c"
       },
       {
-       "id": 3621,
-       "from_source": "hypnosis-deep-oct25c"
-      },
-      {
-       "id": 3613,
-       "from_source": "hypnosis-deep-oct25c"
-      },
-      {
-       "id": 3608,
-       "from_source": "hypnosis-deep-oct25c"
-      },
-      {
-       "id": 3605,
-       "from_source": "hypnosis-deep-oct25c"
-      },
-      {
-       "id": 3606,
-       "from_source": "hypnosis-deep-oct25c"
-      },
-      {
-       "id": 3604,
-       "from_source": "hypnosis-deep-oct25c"
-      },
-      {
-       "id": 3616,
-       "from_source": "hypnosis-deep-oct25c"
-      },
-      {
-       "id": 3615,
+       "id": 3612,
        "from_source": "hypnosis-deep-oct25c"
       },
       {
@@ -561906,11 +561696,7 @@
        "from_source": "hypnosis-deep-oct25c"
       },
       {
-       "id": 3611,
-       "from_source": "hypnosis-deep-oct25c"
-      },
-      {
-       "id": 3612,
+       "id": 3605,
        "from_source": "hypnosis-deep-oct25c"
       },
       {
@@ -561918,7 +561704,51 @@
        "from_source": "hypnosis-deep-oct25c"
       },
       {
+       "id": 3611,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3606,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3603,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3604,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3602,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3614,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3613,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3616,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3609,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3610,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
        "id": 3617,
+       "from_source": "hypnosis-deep-oct25c"
+      },
+      {
+       "id": 3615,
        "from_source": "hypnosis-deep-oct25c"
       }
      ],

@@ -15948,7 +15948,7 @@
      "matched_by": "same title+year"
     },
     {
-     "rid": "hypnosis-deep-oct25:57",
+     "rid": "hypnosis-deep-oct25:55",
      "title": "À l'aventure",
      "subtitle": "",
      "year": "2008",
@@ -47577,7 +47577,7 @@
    "title": "Bloodsucking Freaks",
    "year": "1976",
    "kept_id": 994,
-   "retired_id": 3570
+   "retired_id": 3568
   }
  ],
  "merge_rules": [
@@ -47713,16 +47713,16 @@
   "deep-oct24": 60,
   "hypno-india-oct24": 4,
   "hypnosis-imdb-list-oct24": 61,
-  "hypnosis-deep-oct25": 132,
+  "hypnosis-deep-oct25": 130,
   "hypnosis-deep-oct25b": 41,
   "hypno-pregnant-yt-oct25": 7,
   "pregnant-intimate-oct25": 28,
   "pregnant-scenes-oct25": 9,
   "hypnosis-deep-oct25c": 18
  },
- "entry_count_after_dedupe": 3482,
+ "entry_count_after_dedupe": 3480,
  "within_source_groups": 6,
  "cross_source_groups": 1926,
  "index_only_records": 59,
- "local_only_records": 1183
+ "local_only_records": 1181
 }

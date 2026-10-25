@@ -487,38 +487,6 @@
    "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
   },
   {
-   "title": "Lexx",
-   "year": "1997",
-   "format": "tv",
-   "meta": "Wikipedia en · tv",
-   "mechanism": "brainwashing to become a love slave",
-   "character": "Zev",
-   "summary": "Zev is sentenced to be brainwashed into a love slave, but she frees herself and has a droid take her place.",
-   "categories": [
-    "forced-obedience"
-   ],
-   "already_married": "not stated",
-   "married": "not stated",
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "pregnant_end": "not stated",
-   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
-   "pregnancy_note": "not stated in the plot summary",
-   "sources": [
-    {
-     "label": "Wikipedia — plot summary",
-     "url": "https://en.wikipedia.org/wiki/Lexx"
-    }
-   ],
-   "tags": [
-    "deep-oct25",
-    "wikipedia-plot"
-   ],
-   "evidence": "Wikipedia plot summary (en edition, page \"Lexx\")",
-   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
-   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
-  },
-  {
    "title": "Remothered: Broken Porcelain",
    "year": "2020",
    "format": "game",
@@ -1320,38 +1288,6 @@
     "wikipedia-plot"
    ],
    "evidence": "Wikipedia plot summary (en edition, page \"Shinobi: Art of Vengeance\")",
-   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
-   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
-  },
-  {
-   "title": "Robotics;Notes",
-   "year": "2012",
-   "format": "game",
-   "meta": "Wikipedia en · game",
-   "mechanism": "brainwashing",
-   "character": "Misaki",
-   "summary": "Misaki is brainwashed by the villain and does his bidding in the real world.",
-   "categories": [
-    "forced-obedience"
-   ],
-   "already_married": "not stated",
-   "married": "not stated",
-   "kids_status": "not stated",
-   "kids_together": "not stated",
-   "pregnant_end": "not stated",
-   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
-   "pregnancy_note": "not stated in the plot summary",
-   "sources": [
-    {
-     "label": "Wikipedia — plot summary",
-     "url": "https://en.wikipedia.org/wiki/Robotics%3BNotes"
-    }
-   ],
-   "tags": [
-    "deep-oct25",
-    "wikipedia-plot"
-   ],
-   "evidence": "Wikipedia plot summary (en edition, page \"Robotics;Notes\")",
    "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
    "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
   },
