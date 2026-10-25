@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>Adult screen catalog: erotic &amp; R-rated films and series</title>
+<meta name="description" content="Adult screen catalog (18+): erotic, R-rated and sex-comedy films, TV series, web series and shorts with adult characters, with pregnancy / kids fields and tags. Same search and filters as the main catalog.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,500;6..72,650&display=swap">
+<link rel="stylesheet" href="../assets/style.css">
+<link rel="icon" href="../favicon.svg" type="image/svg+xml">
+</head>
+<body>
+<div class="topbar"><div class="wrap">
+  <span>18+ · Adult screen catalog: erotic and R-rated films, series, web series and shorts · metadata and brief plot only, adult characters only · separate from the hypnosis catalog</span>
+  <span><a href="../">← Hypnosis screen catalog (TV &amp; movies)</a> · <a href="../reads/">Reads</a> · <a href="data.json" download>Download data.json</a> · <a href="entries.json">Curated source JSON</a></span>
+</div></div>
+
+<div class="srcbar"><div class="wrap" id="srcinfo"></div></div>
+<section class="wrap intro" aria-labelledby="page-heading">
+  <div>
+    <p class="kicker" id="kicker"></p>
+    <h1 id="page-heading"><span id="total">…</span> titles, sorted by plot category.</h1>
+    <p class="dek" id="dek"></p>
+    <div class="legend" id="legend" aria-label="Category legend (click to filter)"></div>
+  </div>
+  <div class="snapshot" aria-label="Research snapshot information">
+    <strong id="total2">…</strong>
+    <div id="breakdowns"></div>
+  </div>
+</section>
+
+<div class="controls-shell">
+  <div class="wrap controls">
+    <label class="search">
+      <span style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)">Search titles or plot details</span>
+      <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="m16.2 16.2 4.2 4.2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="2"/></svg>
+      <input id="search" type="search" placeholder="Search titles… or describe: affair, widow, pregnant at end, hindi, 2010-2024" autocomplete="off">
+    </label>
+    <select id="category" aria-label="Category"><option value="all">All categories</option></select>
+    <select id="format" aria-label="Format"><option value="all">All formats</option></select>
+    <button type="button" id="moreBtn" class="more-btn" aria-expanded="false" aria-controls="morePanel">More filters<span id="moreCount" class="more-count" hidden></span></button>
+    <div id="morePanel" class="more-panel" role="group" aria-label="More filters" hidden>
+      <select id="source" aria-label="Source"><option value="all">All sources</option></select>
+      <select id="tag" aria-label="Reference tag"><option value="all">All tags</option></select>
+      <select id="again" aria-label="Pregnant-again outcome"><option value="all">Any pregnancy-again status</option></select>
+      <div class="view-toggle" role="group" aria-label="View">
+        <button type="button" data-view="grid" aria-pressed="true">Unique records</button>
+        <button type="button" data-view="sections" aria-pressed="false">By section</button>
+      </div>
+      <div class="yearbar" role="group" aria-label="Release year">
+        <select id="period" aria-label="Release period"><option value="all">All years</option></select>
+        <div class="yr-slider" id="yrSlider">
+          <output id="yrOut" for="ymin ymax" aria-live="polite"></output>
+          <div class="yr-track"><div class="yr-fill" id="yrFill"></div>
+            <input id="ymin" type="range" step="1" aria-label="From year">
+            <input id="ymax" type="range" step="1" aria-label="To year">
+          </div>
+        </div>
+        <button type="button" id="yclear">Reset years</button>
+        <button type="button" id="freeToggle" aria-pressed="false" title="Only records with a verified free / legal streaming link">Has free link</button>
+        <button type="button" id="labelToggle" aria-pressed="false" title="Hardcore / adult and fan-made / roleplay listings are hidden unless this is on or their category is selected">Show hardcore / fan-made</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<main class="wrap">
+  <div class="results-head"><h2>Catalog</h2><p id="count" aria-live="polite"></p></div>
+  <div id="chips" class="chips" role="group" aria-label="Search understood as" hidden></div>
+  <section id="grid" class="grid" aria-label="Catalog entries"></section>
+  <section class="research-notes" id="notes"></section>
+</main>
+<footer class="wrap"><span id="snapdate"></span><span>Source links open in a new tab · <a href="https://github.com/mad08011999-cloud/tv-movie-catalog">Source code &amp; daily sync</a></span></footer>
+
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-label="Video clip">
+  <div class="modal-box">
+    <div class="modal-head"><strong id="modalTitle"></strong><span><a id="modalLink" href="#" target="_blank" rel="noopener">Open on YouTube ↗</a> &nbsp;<button type="button" id="modalClose">Close</button></span></div>
+    <div class="frame"><iframe id="modalFrame" title="Video player" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe></div>
+  </div>
+</div>
+<script src="catalog.js"></script>
+<script src="../assets/app.js"></script>
+</body>
+</html>
