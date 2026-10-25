@@ -174,6 +174,8 @@ SOURCES = [
      "local": "sources/hypnosis-imdb-list-oct24.json", "required": False},
     {"id": "hypnosis-deep-oct25", "label": "Deep multilingual Wikipedia plot crawl (25 Oct 2026)",
      "local": "sources/hypnosis-deep-oct25.json", "required": False},
+    {"id": "hypnosis-deep-oct25b", "label": "Deep multilingual Wikipedia plot crawl, batch 2 (25 Oct 2026)",
+     "local": "sources/hypnosis-deep-oct25b.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "

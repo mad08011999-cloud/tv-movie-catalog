@@ -5364,6 +5364,19 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "hypnosis-deep-oct25b",
+   "label": "Deep multilingual Wikipedia plot crawl, batch 2 (25 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/hypnosis-deep-oct25b.json",
+   "description": "Full-text Wikipedia crawl (English and many other languages) for hypnosis / trance / brainwashing / mind-control plot terms, filtered and read by hand. Each card is based on the plot summary of the linked Wikipedia page; ghost / spirit / demon possession and magic spells are excluded. Marital, kids and pregnancy fields are 'not stated' unless the plot says otherwise.",
+   "dropped": [],
+   "check": {
+    "raw_count": 41,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -5432,10 +5445,11 @@ window.CATALOG = {
   "deep-oct24": 60,
   "hypno-india-oct24": 4,
   "hypnosis-imdb-list-oct24": 61,
-  "hypnosis-deep-oct25": 132
+  "hypnosis-deep-oct25": 132,
+  "hypnosis-deep-oct25b": 41
  },
- "raw_total": 6476,
- "entry_count": 3404,
+ "raw_total": 6517,
+ "entry_count": 3442,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -5483,7 +5497,7 @@ window.CATALOG = {
    "key": "cult",
    "label": "Cult / coercive brainwashing",
    "legend_label": "Cult / coercive brainwashing",
-   "entry_count": 55
+   "entry_count": 57
   },
   {
    "key": "occult",
@@ -5507,7 +5521,7 @@ window.CATALOG = {
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 84
+   "entry_count": 87
   },
   {
    "key": "fantasy",
@@ -5537,13 +5551,13 @@ window.CATALOG = {
    "key": "hypnotized-to-marry",
    "label": "Female hypnotized into marriage",
    "legend_label": "Female hypnotized into marriage",
-   "entry_count": 28
+   "entry_count": 32
   },
   {
    "key": "forced-obedience",
    "label": "Forcibly hypnotized to obey",
    "legend_label": "Forcibly hypnotized to obey",
-   "entry_count": 307
+   "entry_count": 339
   },
   {
    "key": "index-56",
@@ -5573,7 +5587,7 @@ window.CATALOG = {
    "key": "wife",
    "label": "Husband hypnotizes / mind-controls wife",
    "legend_label": "Husband hypnotizes / mind-controls wife",
-   "entry_count": 112
+   "entry_count": 114
   },
   {
    "key": "index-54",
@@ -5603,7 +5617,7 @@ window.CATALOG = {
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 176
+   "entry_count": 178
   },
   {
    "key": "royal-hypnosis",
@@ -5645,7 +5659,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 217
+   "entry_count": 222
   },
   {
    "key": "mom-partner-control",
@@ -125440,18 +125454,27 @@ window.CATALOG = {
    "confidence_flag": "High confidence",
    "summary": "criminal hypnotist Bjørn Schouw Nielsen befriends and holds Marie, the wife of investigator Anders Olsen, under his control.",
    "character": "",
-   "provenance": "",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
    "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
    "kids_status": "not stated",
    "kids_note": "not stated",
    "kids_together": "not stated",
+   "married": "not stated",
    "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (fr edition, page \"Hypnose (film, 2018)\")",
    "already_married": "yes",
    "already_married_note": "Yes — husband: Anders Olsen (wife Marie)",
    "format": "movie",
    "categories": [
     "adult-hypnosis",
-    "wife-hypnotized"
+    "wife-hypnotized",
+    "hypnotized-to-marry"
    ],
    "sources": [
     {
@@ -125462,11 +125485,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "hypnosis-deep-oct25b"
    ],
    "source_records": [
     "xla62ucxbx02u5:650",
-    "wife-hypnosis-oct15:25"
+    "wife-hypnosis-oct15:25",
+    "hypnosis-deep-oct25b:11"
    ],
    "index_only": false,
    "local_only": false,
@@ -125527,6 +125552,47 @@ window.CATALOG = {
      "already_married_note": "Yes — husband: Anders Olsen (wife Marie)",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-deep-oct25b:11",
+     "source": "hypnosis-deep-oct25b",
+     "label": "The Guardian Angel (Hypnose) (2018)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "The Guardian Angel (Hypnose)",
+     "subtitle": "",
+     "year": "2018",
+     "meta": "Wikipedia fr · movie",
+     "summary": "In 1951 Copenhagen, Inspector Olsen realises the hypnotist has befriended his wife, who is now under his influence.",
+     "character": "Inspector Olsen's wife",
+     "note": "",
+     "mechanism": "hypnosis by a hypnotist",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "categories": [
+      "hypnotized-to-marry"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia (fr) — plot summary",
+       "url": "https://fr.wikipedia.org/wiki/Hypnose_(film,_2018)"
+      }
+     ],
+     "pregnancy_note": "not stated in the plot summary",
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "evidence": "Wikipedia plot summary (fr edition, page \"Hypnose (film, 2018)\")",
+     "already_married": "not stated",
+     "distinct_story": true,
+     "matched_by": "alias"
     }
    ],
    "raw": {
@@ -125564,6 +125630,38 @@ window.CATALOG = {
      "kids_together": "not stated",
      "kids_status": "not stated",
      "kids_note": "not stated"
+    },
+    "hypnosis-deep-oct25b:11": {
+     "title": "The Guardian Angel (Hypnose)",
+     "year": "2018",
+     "format": "movie",
+     "meta": "Wikipedia fr · movie",
+     "mechanism": "hypnosis by a hypnotist",
+     "character": "Inspector Olsen's wife",
+     "summary": "In 1951 Copenhagen, Inspector Olsen realises the hypnotist has befriended his wife, who is now under his influence.",
+     "categories": [
+      "hypnotized-to-marry"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (fr) — plot summary",
+       "url": "https://fr.wikipedia.org/wiki/Hypnose_(film,_2018)"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (fr edition, page \"Hypnose (film, 2018)\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
     }
    }
   },
@@ -128895,6 +128993,10 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "no pregnancy for her in the cited plot sources",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
    "hypnotist": "Dr. Mabuse (as psychiatrist Dr. Jordan)",
    "gain_motive": [
     "marriage",
@@ -128902,31 +129004,44 @@ window.CATALOG = {
    ],
    "method": "hypnosis",
    "kids_status": "no",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (de edition, page \"Die 1000 Augen des Dr. Mabuse\")",
    "fit_note": "Dr. Mabuse hypnotises Marion Menil to marry Travers and seize his wealth.",
+   "already_married": "not stated",
    "format": "movie",
    "categories": [
     "adult-hypnosis",
     "forced-obedience",
     "love",
     "doctor-gain",
-    "hypnotized-marriage"
+    "hypnotized-marriage",
+    "wife"
    ],
    "sources": [
     {
      "label": "filmportal.de",
      "url": "http://www.filmportal.de/film/die-1000-augen-des-dr-mabuse_05ab3755b25840f996f40a62d14f0a6b"
+    },
+    {
+     "label": "Wikipedia (de) — plot summary",
+     "url": "https://de.wikipedia.org/wiki/Die_1000_Augen_des_Dr._Mabuse"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "rich-wife-hypnosis",
-    "hypnotized-marriage"
+    "hypnotized-marriage",
+    "hypnosis-deep-oct25b"
    ],
    "source_records": [
     "xla62ucxbx02u5:665",
     "rich-wife-hypnosis:16",
-    "hypnotized-marriage:31"
+    "hypnotized-marriage:31",
+    "hypnosis-deep-oct25b:25"
    ],
    "index_only": false,
    "local_only": false,
@@ -129028,6 +129143,47 @@ window.CATALOG = {
      "fit_note": "Dr. Mabuse hypnotises Marion Menil to marry Travers and seize his wealth.",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-deep-oct25b:25",
+     "source": "hypnosis-deep-oct25b",
+     "label": "The Thousand Eyes of Dr. Mabuse (1960)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "The Thousand Eyes of Dr. Mabuse",
+     "subtitle": "",
+     "year": "1960",
+     "meta": "Wikipedia de · movie",
+     "summary": "Marion, the lure meant to attract the hero, is under hypnosis and terrorised by her club-footed husband who serves Mabuse.",
+     "character": "Marion",
+     "note": "",
+     "mechanism": "hypnosis",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "categories": [
+      "wife"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia (de) — plot summary",
+       "url": "https://de.wikipedia.org/wiki/Die_1000_Augen_des_Dr._Mabuse"
+      }
+     ],
+     "pregnancy_note": "not stated in the plot summary",
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "evidence": "Wikipedia plot summary (de edition, page \"Die 1000 Augen des Dr. Mabuse\")",
+     "already_married": "not stated",
+     "distinct_story": true,
+     "matched_by": "alias"
     }
    ],
    "raw": {
@@ -129104,6 +129260,38 @@ window.CATALOG = {
      ],
      "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
      "fit_note": "Dr. Mabuse hypnotises Marion Menil to marry Travers and seize his wealth."
+    },
+    "hypnosis-deep-oct25b:25": {
+     "title": "The Thousand Eyes of Dr. Mabuse",
+     "year": "1960",
+     "format": "movie",
+     "meta": "Wikipedia de · movie",
+     "mechanism": "hypnosis",
+     "character": "Marion",
+     "summary": "Marion, the lure meant to attract the hero, is under hypnosis and terrorised by her club-footed husband who serves Mabuse.",
+     "categories": [
+      "wife"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (de) — plot summary",
+       "url": "https://de.wikipedia.org/wiki/Die_1000_Augen_des_Dr._Mabuse"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (de edition, page \"Die 1000 Augen des Dr. Mabuse\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
     }
    },
    "watch_links": [
@@ -187742,9 +187930,21 @@ window.CATALOG = {
    "note": "Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (de edition, page \"Bloodsucking Freaks\")",
+   "already_married": "not stated",
    "format": "movie",
    "categories": [
-    "human"
+    "human",
+    "forced-obedience"
    ],
    "sources": [
     {
@@ -187754,16 +187954,22 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Blood_Sucking_Freaks"
+    },
+    {
+     "label": "Wikipedia (de) — plot summary",
+     "url": "https://de.wikipedia.org/wiki/Bloodsucking_Freaks"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-deep-oct25b"
    ],
    "source_records": [
     "xla62ucxbx02u5:1005",
-    "worldwide-hypnosis:128"
+    "worldwide-hypnosis:128",
+    "hypnosis-deep-oct25b:30"
    ],
    "index_only": false,
    "local_only": false,
@@ -187833,6 +188039,47 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-deep-oct25b:30",
+     "source": "hypnosis-deep-oct25b",
+     "label": "Bloodsucking Freaks (1976)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "Bloodsucking Freaks",
+     "subtitle": "",
+     "year": "1976",
+     "meta": "Wikipedia de · movie",
+     "summary": "He brainwashes Natasha by hypnosis so it appears she wants to take part in his show of her own free will.",
+     "character": "Natasha",
+     "note": "",
+     "mechanism": "hypnotic brainwashing",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "categories": [
+      "forced-obedience"
+     ],
+     "sources": [
+      {
+       "label": "Wikipedia (de) — plot summary",
+       "url": "https://de.wikipedia.org/wiki/Bloodsucking_Freaks"
+      }
+     ],
+     "pregnancy_note": "not stated in the plot summary",
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "evidence": "Wikipedia plot summary (de edition, page \"Bloodsucking Freaks\")",
+     "already_married": "not stated",
+     "distinct_story": true,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -187884,8 +188131,43 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-deep-oct25b:30": {
+     "title": "Bloodsucking Freaks",
+     "year": "1976",
+     "format": "movie",
+     "meta": "Wikipedia de · movie",
+     "mechanism": "hypnotic brainwashing",
+     "character": "Natasha",
+     "summary": "He brainwashes Natasha by hypnosis so it appears she wants to take part in his show of her own free will.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (de) — plot summary",
+       "url": "https://de.wikipedia.org/wiki/Bloodsucking_Freaks"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (de edition, page \"Bloodsucking Freaks\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
     }
    },
+   "retired_ids": [
+    3570
+   ],
    "watch_links": [
     {
      "service": "Pluto TV",
@@ -500523,6 +500805,3102 @@ window.CATALOG = {
      "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
     }
    }
+  },
+  {
+   "id": 3543,
+   "title": "Cagliostro (Black Magic)",
+   "subtitle": "",
+   "year": "1949",
+   "meta": "Wikipedia de · movie",
+   "mechanism": "hypnosis by Cagliostro (Orson Welles)",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Cagliostro keeps Lorenza under his hypnotic control, marries her while she is still under hypnosis, and later hypnotises her to testify falsely.",
+   "character": "Lorenza",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (de edition, page \"Graf Cagliostro (1949)\")",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "hypnotized-to-marry",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (de) — plot summary",
+     "url": "https://de.wikipedia.org/wiki/Graf_Cagliostro_(1949)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:1": {
+     "title": "Cagliostro (Black Magic)",
+     "year": "1949",
+     "format": "movie",
+     "meta": "Wikipedia de · movie",
+     "mechanism": "hypnosis by Cagliostro (Orson Welles)",
+     "character": "Lorenza",
+     "summary": "Cagliostro keeps Lorenza under his hypnotic control, marries her while she is still under hypnosis, and later hypnotises her to testify falsely.",
+     "categories": [
+      "hypnotized-to-marry",
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (de) — plot summary",
+       "url": "https://de.wikipedia.org/wiki/Graf_Cagliostro_(1949)"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (de edition, page \"Graf Cagliostro (1949)\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3544,
+   "title": "Outlanders",
+   "subtitle": "",
+   "year": "1986",
+   "meta": "Wikipedia es · movie",
+   "mechanism": "mind control by her father the emperor",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Kahm's ruthless imperial father uses mind control to force her back to his side until the sight of her wounded love breaks her free.",
+   "character": "Kahm",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (es edition, page \"Outlanders (manga)\")",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (es) — plot summary",
+     "url": "https://es.wikipedia.org/wiki/Outlanders_(manga)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:2": {
+     "title": "Outlanders",
+     "year": "1986",
+     "format": "movie",
+     "meta": "Wikipedia es · movie",
+     "mechanism": "mind control by her father the emperor",
+     "character": "Kahm",
+     "summary": "Kahm's ruthless imperial father uses mind control to force her back to his side until the sight of her wounded love breaks her free.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (es) — plot summary",
+       "url": "https://es.wikipedia.org/wiki/Outlanders_(manga)"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (es edition, page \"Outlanders (manga)\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3545,
+   "title": "Joseph Balsamo",
+   "subtitle": "",
+   "year": "1973",
+   "meta": "Wikipedia fr · tv",
+   "mechanism": "hypnosis by Balsamo",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Balsamo hypnotises Andrée, daughter of the baron, to learn where Lorenza has fled.",
+   "character": "Andrée and Lorenza",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (fr edition, page \"Joseph Balsamo (mini-série)\")",
+   "already_married": "not stated",
+   "format": "tv",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (fr) — plot summary",
+     "url": "https://fr.wikipedia.org/wiki/Joseph_Balsamo_(mini-s%C3%A9rie)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:3": {
+     "title": "Joseph Balsamo",
+     "year": "1973",
+     "format": "tv",
+     "meta": "Wikipedia fr · tv",
+     "mechanism": "hypnosis by Balsamo",
+     "character": "Andrée and Lorenza",
+     "summary": "Balsamo hypnotises Andrée, daughter of the baron, to learn where Lorenza has fled.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (fr) — plot summary",
+       "url": "https://fr.wikipedia.org/wiki/Joseph_Balsamo_(mini-s%C3%A9rie)"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (fr edition, page \"Joseph Balsamo (mini-série)\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3546,
+   "title": "The Hand of Fear",
+   "subtitle": "",
+   "year": "1976",
+   "meta": "Wikipedia fr · tv episode",
+   "mechanism": "hypnotic effect of the Kastrian ring",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "The ring on the stone hand has a hypnotic effect on Sarah Jane when she wakes in hospital.",
+   "character": "Sarah Jane Smith",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (fr edition, page \"The Hand of Fear\")",
+   "already_married": "not stated",
+   "format": "tv episode",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (fr) — plot summary",
+     "url": "https://fr.wikipedia.org/wiki/The_Hand_of_Fear"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:4": {
+     "title": "The Hand of Fear",
+     "year": "1976",
+     "format": "tv episode",
+     "meta": "Wikipedia fr · tv episode",
+     "mechanism": "hypnotic effect of the Kastrian ring",
+     "character": "Sarah Jane Smith",
+     "summary": "The ring on the stone hand has a hypnotic effect on Sarah Jane when she wakes in hospital.",
+     "categories": [
+      "medical"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (fr) — plot summary",
+       "url": "https://fr.wikipedia.org/wiki/The_Hand_of_Fear"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (fr edition, page \"The Hand of Fear\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3547,
+   "title": "The Evil of the Daleks",
+   "subtitle": "",
+   "year": "1967",
+   "meta": "Wikipedia fr · tv episode",
+   "mechanism": "hypnosis by Maxtible",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Maxtible hypnotises his maid Molly so she forgets hearing Victoria's cries.",
+   "character": "Molly (the maid)",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (fr edition, page \"The Evil of the Daleks\")",
+   "already_married": "not stated",
+   "format": "tv episode",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (fr) — plot summary",
+     "url": "https://fr.wikipedia.org/wiki/The_Evil_of_the_Daleks"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:5": {
+     "title": "The Evil of the Daleks",
+     "year": "1967",
+     "format": "tv episode",
+     "meta": "Wikipedia fr · tv episode",
+     "mechanism": "hypnosis by Maxtible",
+     "character": "Molly (the maid)",
+     "summary": "Maxtible hypnotises his maid Molly so she forgets hearing Victoria's cries.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (fr) — plot summary",
+       "url": "https://fr.wikipedia.org/wiki/The_Evil_of_the_Daleks"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (fr edition, page \"The Evil of the Daleks\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3548,
+   "title": "Abbott and Costello Meet Frankenstein",
+   "subtitle": "",
+   "year": "1948",
+   "meta": "Wikipedia de · movie",
+   "mechanism": "hypnosis by Dracula",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Dracula, growing impatient, hypnotises Sandra and bites her neck.",
+   "character": "Sandra",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (de edition, page \"Abbott und Costello treffen Frankenstein\")",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (de) — plot summary",
+     "url": "https://de.wikipedia.org/wiki/Abbott_und_Costello_treffen_Frankenstein"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:6": {
+     "title": "Abbott and Costello Meet Frankenstein",
+     "year": "1948",
+     "format": "movie",
+     "meta": "Wikipedia de · movie",
+     "mechanism": "hypnosis by Dracula",
+     "character": "Sandra",
+     "summary": "Dracula, growing impatient, hypnotises Sandra and bites her neck.",
+     "categories": [
+      "medical"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (de) — plot summary",
+       "url": "https://de.wikipedia.org/wiki/Abbott_und_Costello_treffen_Frankenstein"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (de edition, page \"Abbott und Costello treffen Frankenstein\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3549,
+   "title": "It Conquered the World",
+   "subtitle": "",
+   "year": "1956",
+   "meta": "Wikipedia it · movie",
+   "mechanism": "alien mind-control device",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "After a creature with a mind-control device is killed, Nelson finds his wife has been assimilated.",
+   "character": "Joan Nelson",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (it edition, page \"Il conquistatore del mondo\")",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "tech",
+    "hypnotized-to-marry",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (it) — plot summary",
+     "url": "https://it.wikipedia.org/wiki/Il_conquistatore_del_mondo"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:7": {
+     "title": "It Conquered the World",
+     "year": "1956",
+     "format": "movie",
+     "meta": "Wikipedia it · movie",
+     "mechanism": "alien mind-control device",
+     "character": "Joan Nelson",
+     "summary": "After a creature with a mind-control device is killed, Nelson finds his wife has been assimilated.",
+     "categories": [
+      "tech",
+      "hypnotized-to-marry",
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (it) — plot summary",
+       "url": "https://it.wikipedia.org/wiki/Il_conquistatore_del_mondo"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (it edition, page \"Il conquistatore del mondo\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3550,
+   "title": "The Garden Murder Case",
+   "subtitle": "",
+   "year": "1936",
+   "meta": "Wikipedia ru · movie",
+   "mechanism": "hypnosis",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Vance establishes that Garden and Madge were probably hypnotised before Madge's mysterious death.",
+   "character": "Madge Garden",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (ru edition, page \"Дело об убийстве в саду\")",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (ru) — plot summary",
+     "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BB%D0%BE_%D0%BE%D0%B1_%D1%83%D0%B1%D0%B8%D0%B9%D1%81%D1%82%D0%B2%D0%B5_%D0%B2_%D1%81%D0%B0%D0%B4%D1%83"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:8"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:8": {
+     "title": "The Garden Murder Case",
+     "year": "1936",
+     "format": "movie",
+     "meta": "Wikipedia ru · movie",
+     "mechanism": "hypnosis",
+     "character": "Madge Garden",
+     "summary": "Vance establishes that Garden and Madge were probably hypnotised before Madge's mysterious death.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (ru) — plot summary",
+       "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BB%D0%BE_%D0%BE%D0%B1_%D1%83%D0%B1%D0%B8%D0%B9%D1%81%D1%82%D0%B2%D0%B5_%D0%B2_%D1%81%D0%B0%D0%B4%D1%83"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (ru edition, page \"Дело об убийстве в саду\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3551,
+   "title": "Ushijima the Loan Shark (Season 3)",
+   "subtitle": "",
+   "year": "2016",
+   "meta": "Wikipedia ja · tv",
+   "mechanism": "brainwashing by a con man and a fortune teller",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Mayumi, an editor, is brainwashed by a fortune teller secretly run by the swindler Shindo, who dominates her, drains her money and makes her his fiancée; she wakes from the brainwashing when she becomes pregnant with his child.",
+   "character": "Mayumi Uehara (editor)",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "Mayumi becomes pregnant with the con man's child during the story and that is what wakes her from the brainwashing (plot summary).",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "yes",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "pregnant partway through; the summary does not say whether she is still pregnant at the end",
+   "evidence": "Wikipedia plot summary (ja edition, page \"闇金ウシジマくん (テレビドラマ)\")",
+   "already_married": "not stated",
+   "format": "tv",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (Japanese) — plot summary",
+     "url": "https://ja.wikipedia.org/wiki/%E9%97%87%E9%87%91%E3%82%A6%E3%82%B7%E3%82%B8%E3%83%9E%E3%81%8F%E3%82%93_(%E3%83%86%E3%83%AC%E3%83%93%E3%83%89%E3%83%A9%E3%83%9E)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:9"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:9": {
+     "title": "Ushijima the Loan Shark (Season 3)",
+     "year": "2016",
+     "format": "tv",
+     "meta": "Wikipedia ja · tv",
+     "mechanism": "brainwashing by a con man and a fortune teller",
+     "character": "Mayumi Uehara (editor)",
+     "summary": "Mayumi, an editor, is brainwashed by a fortune teller secretly run by the swindler Shindo, who dominates her, drains her money and makes her his fiancée; she wakes from the brainwashing when she becomes pregnant with his child.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "yes",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "pregnant partway through; the summary does not say whether she is still pregnant at the end",
+     "pregnancy_note": "Mayumi becomes pregnant with the con man's child during the story and that is what wakes her from the brainwashing (plot summary).",
+     "sources": [
+      {
+       "label": "Wikipedia (Japanese) — plot summary",
+       "url": "https://ja.wikipedia.org/wiki/%E9%97%87%E9%87%91%E3%82%A6%E3%82%B7%E3%82%B8%E3%83%9E%E3%81%8F%E3%82%93_(%E3%83%86%E3%83%AC%E3%83%93%E3%83%89%E3%83%A9%E3%83%9E)"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (ja edition, page \"闇金ウシジマくん (テレビドラマ)\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3552,
+   "title": "Battle Arena Toshinden",
+   "subtitle": "",
+   "year": "1995",
+   "meta": "Wikipedia ja · movie",
+   "mechanism": "kidnapped and brainwashed by Gemma",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Miyabi, a 24-year-old kunoichi, was kidnapped and brainwashed by Gemma, who made her his subordinate.",
+   "character": "Miyabi",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (ja edition, page \"闘神伝\")",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (Japanese) — plot summary",
+     "url": "https://ja.wikipedia.org/wiki/%E9%97%98%E7%A5%9E%E4%BC%9D"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:10"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:10": {
+     "title": "Battle Arena Toshinden",
+     "year": "1995",
+     "format": "movie",
+     "meta": "Wikipedia ja · movie",
+     "mechanism": "kidnapped and brainwashed by Gemma",
+     "character": "Miyabi",
+     "summary": "Miyabi, a 24-year-old kunoichi, was kidnapped and brainwashed by Gemma, who made her his subordinate.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (Japanese) — plot summary",
+       "url": "https://ja.wikipedia.org/wiki/%E9%97%98%E7%A5%9E%E4%BC%9D"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (ja edition, page \"闘神伝\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3553,
+   "title": "Opal of Fire: Merchants of Sex",
+   "subtitle": "",
+   "year": "1980",
+   "meta": "Wikipedia fr · movie",
+   "mechanism": "hypnosis through a ring opal by Madame Forbes",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "A trafficking ring run by Madame Forbes hypnotises its victims with an opal on her ring to sell them to rich clients; Brigitte must rescue Cécile.",
+   "character": "Cécile and other women",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (fr edition, page \"Deux Espionnes avec un petit slip à fleurs\")",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (fr) — plot summary",
+     "url": "https://fr.wikipedia.org/wiki/Deux_Espionnes_avec_un_petit_slip_%C3%A0_fleurs"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:12"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:12": {
+     "title": "Opal of Fire: Merchants of Sex",
+     "year": "1980",
+     "format": "movie",
+     "meta": "Wikipedia fr · movie",
+     "mechanism": "hypnosis through a ring opal by Madame Forbes",
+     "character": "Cécile and other women",
+     "summary": "A trafficking ring run by Madame Forbes hypnotises its victims with an opal on her ring to sell them to rich clients; Brigitte must rescue Cécile.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (fr) — plot summary",
+       "url": "https://fr.wikipedia.org/wiki/Deux_Espionnes_avec_un_petit_slip_%C3%A0_fleurs"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (fr edition, page \"Deux Espionnes avec un petit slip à fleurs\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3554,
+   "title": "H",
+   "subtitle": "",
+   "year": "1998",
+   "meta": "Wikipedia fr · tv",
+   "mechanism": "hypnosis by the hypersexual doctor Aymé",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Dr Aymé hypnotises a nurse so that she sleeps with him and bewitches a patient by mistake in the French comedy series.",
+   "character": "a nurse",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (fr edition, page \"H (série télévisée)\")",
+   "already_married": "not stated",
+   "format": "tv",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (fr) — plot summary",
+     "url": "https://fr.wikipedia.org/wiki/H_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:13"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:13": {
+     "title": "H",
+     "year": "1998",
+     "format": "tv",
+     "meta": "Wikipedia fr · tv",
+     "mechanism": "hypnosis by the hypersexual doctor Aymé",
+     "character": "a nurse",
+     "summary": "Dr Aymé hypnotises a nurse so that she sleeps with him and bewitches a patient by mistake in the French comedy series.",
+     "categories": [
+      "medical"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (fr) — plot summary",
+       "url": "https://fr.wikipedia.org/wiki/H_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (fr edition, page \"H (série télévisée)\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3555,
+   "title": "House of a Thousand Dolls",
+   "subtitle": "",
+   "year": "1967",
+   "meta": "Wikipedia fr · movie",
+   "mechanism": "stage hypnosis used to traffic women",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Like the other women in earlier performances, she is meant to be put in a trance by hypnosis and then handed over to a girl-trafficking ring.",
+   "character": "a woman performer",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (fr edition, page \"La Maison des mille poupées\")",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (fr) — plot summary",
+     "url": "https://fr.wikipedia.org/wiki/La_Maison_des_mille_poup%C3%A9es"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:14"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:14": {
+     "title": "House of a Thousand Dolls",
+     "year": "1967",
+     "format": "movie",
+     "meta": "Wikipedia fr · movie",
+     "mechanism": "stage hypnosis used to traffic women",
+     "character": "a woman performer",
+     "summary": "Like the other women in earlier performances, she is meant to be put in a trance by hypnosis and then handed over to a girl-trafficking ring.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (fr) — plot summary",
+       "url": "https://fr.wikipedia.org/wiki/La_Maison_des_mille_poup%C3%A9es"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (fr edition, page \"La Maison des mille poupées\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3556,
+   "title": "Ghost Light",
+   "subtitle": "",
+   "year": "1989",
+   "meta": "Wikipedia fr · tv episode",
+   "mechanism": "hypnosis",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Mrs Pritchard and Gwendoline come out of their hypnosis and find they are mother and daughter before Light turns them to stone.",
+   "character": "Mrs Pritchard and Gwendoline",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (fr edition, page \"Ghost Light (Doctor Who)\")",
+   "already_married": "not stated",
+   "format": "tv episode",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (fr) — plot summary",
+     "url": "https://fr.wikipedia.org/wiki/Ghost_Light_(Doctor_Who)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:15"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:15": {
+     "title": "Ghost Light",
+     "year": "1989",
+     "format": "tv episode",
+     "meta": "Wikipedia fr · tv episode",
+     "mechanism": "hypnosis",
+     "character": "Mrs Pritchard and Gwendoline",
+     "summary": "Mrs Pritchard and Gwendoline come out of their hypnosis and find they are mother and daughter before Light turns them to stone.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (fr) — plot summary",
+       "url": "https://fr.wikipedia.org/wiki/Ghost_Light_(Doctor_Who)"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (fr edition, page \"Ghost Light (Doctor Who)\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3557,
+   "title": "Aux frontières du possible",
+   "subtitle": "",
+   "year": "1971",
+   "meta": "Wikipedia fr · tv",
+   "mechanism": "brainwashing",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Barbara is hospitalised after being brainwashed and is replaced by Christa as Yan Thomas's assistant.",
+   "character": "Barbara",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (fr edition, page \"Aux frontières du possible\")",
+   "already_married": "not stated",
+   "format": "tv",
+   "categories": [
+    "medical",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (fr) — plot summary",
+     "url": "https://fr.wikipedia.org/wiki/Aux_fronti%C3%A8res_du_possible"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:16"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:16": {
+     "title": "Aux frontières du possible",
+     "year": "1971",
+     "format": "tv",
+     "meta": "Wikipedia fr · tv",
+     "mechanism": "brainwashing",
+     "character": "Barbara",
+     "summary": "Barbara is hospitalised after being brainwashed and is replaced by Christa as Yan Thomas's assistant.",
+     "categories": [
+      "medical",
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (fr) — plot summary",
+       "url": "https://fr.wikipedia.org/wiki/Aux_fronti%C3%A8res_du_possible"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (fr edition, page \"Aux frontières du possible\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3558,
+   "title": "The Naked Gun: From the Files of Police Squad!",
+   "subtitle": "",
+   "year": "1988",
+   "meta": "Wikipedia de · movie",
+   "mechanism": "hypnosis by Ludwig",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Hypnotised, Jane aims a gun at Drebin to kill him, but he manages to wake her from the hypnosis.",
+   "character": "Jane Spencer",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (de edition, page \"Die nackte Kanone\")",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (de) — plot summary",
+     "url": "https://de.wikipedia.org/wiki/Die_nackte_Kanone"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:17"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:17": {
+     "title": "The Naked Gun: From the Files of Police Squad!",
+     "year": "1988",
+     "format": "movie",
+     "meta": "Wikipedia de · movie",
+     "mechanism": "hypnosis by Ludwig",
+     "character": "Jane Spencer",
+     "summary": "Hypnotised, Jane aims a gun at Drebin to kill him, but he manages to wake her from the hypnosis.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (de) — plot summary",
+       "url": "https://de.wikipedia.org/wiki/Die_nackte_Kanone"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (de edition, page \"Die nackte Kanone\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3559,
+   "title": "Close Your Eyes (Hypnotic)",
+   "subtitle": "",
+   "year": "2002",
+   "meta": "Wikipedia de · movie",
+   "mechanism": "hypnosis by the hypnotist Strother",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "The hypnotist Strother notices the trapped Heather, hypnotises her and she is able to break free and help him.",
+   "character": "Heather",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (de edition, page \"Doctor Sleep (Spielfilm)\")",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (de) — plot summary",
+     "url": "https://de.wikipedia.org/wiki/Doctor_Sleep_(Spielfilm)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:18"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:18": {
+     "title": "Close Your Eyes (Hypnotic)",
+     "year": "2002",
+     "format": "movie",
+     "meta": "Wikipedia de · movie",
+     "mechanism": "hypnosis by the hypnotist Strother",
+     "character": "Heather",
+     "summary": "The hypnotist Strother notices the trapped Heather, hypnotises her and she is able to break free and help him.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (de) — plot summary",
+       "url": "https://de.wikipedia.org/wiki/Doctor_Sleep_(Spielfilm)"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (de edition, page \"Doctor Sleep (Spielfilm)\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3560,
+   "title": "The Phantom of the Opera",
+   "subtitle": "",
+   "year": "1989",
+   "meta": "Wikipedia de · movie",
+   "mechanism": "hypnosis by Destler with violin music",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Destler waits in the cemetery and hypnotises her with the sound of his violin.",
+   "character": "Christine",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (de edition, page \"Das Phantom der Oper (1989)\")",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (de) — plot summary",
+     "url": "https://de.wikipedia.org/wiki/Das_Phantom_der_Oper_(1989)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:19"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:19": {
+     "title": "The Phantom of the Opera",
+     "year": "1989",
+     "format": "movie",
+     "meta": "Wikipedia de · movie",
+     "mechanism": "hypnosis by Destler with violin music",
+     "character": "Christine",
+     "summary": "Destler waits in the cemetery and hypnotises her with the sound of his violin.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (de) — plot summary",
+       "url": "https://de.wikipedia.org/wiki/Das_Phantom_der_Oper_(1989)"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (de edition, page \"Das Phantom der Oper (1989)\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3561,
+   "title": "The War Machines",
+   "subtitle": "",
+   "year": "1966",
+   "meta": "Wikipedia fr · tv episode",
+   "mechanism": "mind control by the computer WOTAN",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Dodo, under WOTAN's control, tries to hypnotise the Doctor, who instead re-hypnotises her to make her harmless.",
+   "character": "Dodo Chaplet",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (fr edition, page \"The War Machines\")",
+   "already_married": "not stated",
+   "format": "tv episode",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (fr) — plot summary",
+     "url": "https://fr.wikipedia.org/wiki/The_War_Machines"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:20"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:20": {
+     "title": "The War Machines",
+     "year": "1966",
+     "format": "tv episode",
+     "meta": "Wikipedia fr · tv episode",
+     "mechanism": "mind control by the computer WOTAN",
+     "character": "Dodo Chaplet",
+     "summary": "Dodo, under WOTAN's control, tries to hypnotise the Doctor, who instead re-hypnotises her to make her harmless.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (fr) — plot summary",
+       "url": "https://fr.wikipedia.org/wiki/The_War_Machines"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (fr edition, page \"The War Machines\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3562,
+   "title": "The Mind of Evil",
+   "subtitle": "",
+   "year": "1971",
+   "meta": "Wikipedia fr · tv episode",
+   "mechanism": "hypnosis by the Master",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "The young woman escapes Sergeant Benton's watch and turns out to be under the Master's hypnosis.",
+   "character": "a young woman",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (fr edition, page \"The Mind of Evil\")",
+   "already_married": "not stated",
+   "format": "tv episode",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (fr) — plot summary",
+     "url": "https://fr.wikipedia.org/wiki/The_Mind_of_Evil"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:21"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:21": {
+     "title": "The Mind of Evil",
+     "year": "1971",
+     "format": "tv episode",
+     "meta": "Wikipedia fr · tv episode",
+     "mechanism": "hypnosis by the Master",
+     "character": "a young woman",
+     "summary": "The young woman escapes Sergeant Benton's watch and turns out to be under the Master's hypnosis.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (fr) — plot summary",
+       "url": "https://fr.wikipedia.org/wiki/The_Mind_of_Evil"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (fr edition, page \"The Mind of Evil\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3563,
+   "title": "Dr. Strange",
+   "subtitle": "",
+   "year": "1978",
+   "meta": "Wikipedia de · tv",
+   "mechanism": "hypnosis by Morgan Le Fay",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Clea wakes from the hypnosis caused by Morgan Le Fay and is haunted by guilt about what she did under it.",
+   "character": "Clea",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (de edition, page \"Dr. Strange (1978)\")",
+   "already_married": "not stated",
+   "format": "tv",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (de) — plot summary",
+     "url": "https://de.wikipedia.org/wiki/Dr._Strange_(1978)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:22"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:22": {
+     "title": "Dr. Strange",
+     "year": "1978",
+     "format": "tv",
+     "meta": "Wikipedia de · tv",
+     "mechanism": "hypnosis by Morgan Le Fay",
+     "character": "Clea",
+     "summary": "Clea wakes from the hypnosis caused by Morgan Le Fay and is haunted by guilt about what she did under it.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (de) — plot summary",
+       "url": "https://de.wikipedia.org/wiki/Dr._Strange_(1978)"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (de edition, page \"Dr. Strange (1978)\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3564,
+   "title": "Slaves of Another's Will (Sklaven fremden Willens)",
+   "subtitle": "",
+   "year": "1920",
+   "meta": "Wikipedia de · movie",
+   "mechanism": "hypnosis by a hypnotist",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "He hypnotises Claire and sets another hypnotised person on the innocent girl to ruin her.",
+   "character": "Claire",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (de edition, page \"Sklaven fremden Willens\")",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (de) — plot summary",
+     "url": "https://de.wikipedia.org/wiki/Sklaven_fremden_Willens"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:23"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:23": {
+     "title": "Slaves of Another's Will (Sklaven fremden Willens)",
+     "year": "1920",
+     "format": "movie",
+     "meta": "Wikipedia de · movie",
+     "mechanism": "hypnosis by a hypnotist",
+     "character": "Claire",
+     "summary": "He hypnotises Claire and sets another hypnotised person on the innocent girl to ruin her.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (de) — plot summary",
+       "url": "https://de.wikipedia.org/wiki/Sklaven_fremden_Willens"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (de edition, page \"Sklaven fremden Willens\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3565,
+   "title": "Columbo: A Deadly State of Mind",
+   "subtitle": "",
+   "year": "1975",
+   "meta": "Wikipedia de · tv episode",
+   "mechanism": "hypnosis by the psychiatrist",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Instead of preparing her for the coming investigation, the psychiatrist gives her a special code word under hypnosis.",
+   "character": "a woman under hypnosis",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (de edition, page \"Columbo: Der Schlaf, der nie endet\")",
+   "already_married": "not stated",
+   "format": "tv episode",
+   "categories": [
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (de) — plot summary",
+     "url": "https://de.wikipedia.org/wiki/Columbo:_Der_Schlaf,_der_nie_endet"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:24"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:24": {
+     "title": "Columbo: A Deadly State of Mind",
+     "year": "1975",
+     "format": "tv episode",
+     "meta": "Wikipedia de · tv episode",
+     "mechanism": "hypnosis by the psychiatrist",
+     "character": "a woman under hypnosis",
+     "summary": "Instead of preparing her for the coming investigation, the psychiatrist gives her a special code word under hypnosis.",
+     "categories": [
+      "medical"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (de) — plot summary",
+       "url": "https://de.wikipedia.org/wiki/Columbo:_Der_Schlaf,_der_nie_endet"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (de edition, page \"Columbo: Der Schlaf, der nie endet\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3566,
+   "title": "Argylle",
+   "subtitle": "",
+   "year": "2024",
+   "meta": "Wikipedia de · movie",
+   "mechanism": "brainwashing by the Division",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Vogler's organisation brainwashed Kelly and created the new identity of the novelist 'Elly Conway' to find the master file.",
+   "character": "Kelly / Elly Conway",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (de edition, page \"Argylle\")",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (de) — plot summary",
+     "url": "https://de.wikipedia.org/wiki/Argylle"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:26"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:26": {
+     "title": "Argylle",
+     "year": "2024",
+     "format": "movie",
+     "meta": "Wikipedia de · movie",
+     "mechanism": "brainwashing by the Division",
+     "character": "Kelly / Elly Conway",
+     "summary": "Vogler's organisation brainwashed Kelly and created the new identity of the novelist 'Elly Conway' to find the master file.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (de) — plot summary",
+       "url": "https://de.wikipedia.org/wiki/Argylle"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (de edition, page \"Argylle\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3567,
+   "title": "Somnambul",
+   "subtitle": "",
+   "year": "1929",
+   "meta": "Wikipedia de · movie",
+   "mechanism": "hypnotist Spinelli",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Myra is in the service of the hypnotist and swindler Spinelli.",
+   "character": "Myra",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (de edition, page \"Somnambul (Film)\")",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (de) — plot summary",
+     "url": "https://de.wikipedia.org/wiki/Somnambul_(Film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:27"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:27": {
+     "title": "Somnambul",
+     "year": "1929",
+     "format": "movie",
+     "meta": "Wikipedia de · movie",
+     "mechanism": "hypnotist Spinelli",
+     "character": "Myra",
+     "summary": "Myra is in the service of the hypnotist and swindler Spinelli.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (de) — plot summary",
+       "url": "https://de.wikipedia.org/wiki/Somnambul_(Film)"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (de edition, page \"Somnambul (Film)\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3568,
+   "title": "Under the Top",
+   "subtitle": "",
+   "year": "1919",
+   "meta": "Wikipedia it · movie",
+   "mechanism": "hypnosis to force consent",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "When Pansy refuses him, the man hypnotises the girl to make her accept.",
+   "character": "Pansy",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (it edition, page \"Under the Top\")",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (it) — plot summary",
+     "url": "https://it.wikipedia.org/wiki/Under_the_Top"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:28"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:28": {
+     "title": "Under the Top",
+     "year": "1919",
+     "format": "movie",
+     "meta": "Wikipedia it · movie",
+     "mechanism": "hypnosis to force consent",
+     "character": "Pansy",
+     "summary": "When Pansy refuses him, the man hypnotises the girl to make her accept.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (it) — plot summary",
+       "url": "https://it.wikipedia.org/wiki/Under_the_Top"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (it edition, page \"Under the Top\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3569,
+   "title": "East of Suez",
+   "subtitle": "",
+   "year": "1925",
+   "meta": "Wikipedia it · movie",
+   "mechanism": "drugged and hypnotised by a Chinese mandarin",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Doris, drugged and hypnotised, is kidnapped by Lee Tai but rescued by Harry Anderson, whom she marries out of despair.",
+   "character": "Daisy / Doris",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (it edition, page \"All'ombra delle pagode\")",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "tech",
+    "hypnotized-to-marry"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (it) — plot summary",
+     "url": "https://it.wikipedia.org/wiki/All'ombra_delle_pagode"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:29"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:29": {
+     "title": "East of Suez",
+     "year": "1925",
+     "format": "movie",
+     "meta": "Wikipedia it · movie",
+     "mechanism": "drugged and hypnotised by a Chinese mandarin",
+     "character": "Daisy / Doris",
+     "summary": "Doris, drugged and hypnotised, is kidnapped by Lee Tai but rescued by Harry Anderson, whom she marries out of despair.",
+     "categories": [
+      "tech",
+      "hypnotized-to-marry"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (it) — plot summary",
+       "url": "https://it.wikipedia.org/wiki/All'ombra_delle_pagode"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (it edition, page \"All'ombra delle pagode\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3571,
+   "title": "Charlie Says",
+   "subtitle": "",
+   "year": "2018",
+   "meta": "Wikipedia de · movie",
+   "mechanism": "cult brainwashing by Manson",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Faith must break the cycle of Manson's brainwashing by making the women understand the horror of what they did.",
+   "character": "Leslie, Patricia and Susan (the Manson women)",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (de edition, page \"Charlie Says\")",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "cult",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (de) — plot summary",
+     "url": "https://de.wikipedia.org/wiki/Charlie_Says"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:31"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:31": {
+     "title": "Charlie Says",
+     "year": "2018",
+     "format": "movie",
+     "meta": "Wikipedia de · movie",
+     "mechanism": "cult brainwashing by Manson",
+     "character": "Leslie, Patricia and Susan (the Manson women)",
+     "summary": "Faith must break the cycle of Manson's brainwashing by making the women understand the horror of what they did.",
+     "categories": [
+      "cult",
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (de) — plot summary",
+       "url": "https://de.wikipedia.org/wiki/Charlie_Says"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (de edition, page \"Charlie Says\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3572,
+   "title": "Love Exposure",
+   "subtitle": "",
+   "year": "2008",
+   "meta": "Wikipedia de · movie",
+   "mechanism": "cult brainwashing at the Zero Church",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Koike abducts the family to the Zero Church's remote training camp where they are brainwashed.",
+   "character": "Yoko (and Yu's family)",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (de edition, page \"Love Exposure\")",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "cult",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (de) — plot summary",
+     "url": "https://de.wikipedia.org/wiki/Love_Exposure"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:32"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:32": {
+     "title": "Love Exposure",
+     "year": "2008",
+     "format": "movie",
+     "meta": "Wikipedia de · movie",
+     "mechanism": "cult brainwashing at the Zero Church",
+     "character": "Yoko (and Yu's family)",
+     "summary": "Koike abducts the family to the Zero Church's remote training camp where they are brainwashed.",
+     "categories": [
+      "cult",
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (de) — plot summary",
+       "url": "https://de.wikipedia.org/wiki/Love_Exposure"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (de edition, page \"Love Exposure\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3573,
+   "title": "Fringe",
+   "subtitle": "",
+   "year": "2008",
+   "meta": "Wikipedia de · tv",
+   "mechanism": "brainwashing by Walternate",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "In the parallel universe Walternate brainwashed the other universe's Olivia and convinced her she was his own Olivia Dunham.",
+   "character": "Olivia Dunham",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (de edition, page \"Fringe – Grenzfälle des FBI\")",
+   "already_married": "not stated",
+   "format": "tv",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (de) — plot summary",
+     "url": "https://de.wikipedia.org/wiki/Fringe_%E2%80%93_Grenzf%C3%A4lle_des_FBI"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:33"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:33": {
+     "title": "Fringe",
+     "year": "2008",
+     "format": "tv",
+     "meta": "Wikipedia de · tv",
+     "mechanism": "brainwashing by Walternate",
+     "character": "Olivia Dunham",
+     "summary": "In the parallel universe Walternate brainwashed the other universe's Olivia and convinced her she was his own Olivia Dunham.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (de) — plot summary",
+       "url": "https://de.wikipedia.org/wiki/Fringe_%E2%80%93_Grenzf%C3%A4lle_des_FBI"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (de edition, page \"Fringe – Grenzfälle des FBI\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3574,
+   "title": "King of the Lost World",
+   "subtitle": "",
+   "year": "2005",
+   "meta": "Wikipedia de · movie",
+   "mechanism": "brainwashing by the lost-world rulers",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Ed is chosen as the next victim while Dana and Natalie are brainwashed so they will join the captors.",
+   "character": "Dana and Natalie",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (de edition, page \"König einer vergessenen Welt\")",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (de) — plot summary",
+     "url": "https://de.wikipedia.org/wiki/K%C3%B6nig_einer_vergessenen_Welt"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:34"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:34": {
+     "title": "King of the Lost World",
+     "year": "2005",
+     "format": "movie",
+     "meta": "Wikipedia de · movie",
+     "mechanism": "brainwashing by the lost-world rulers",
+     "character": "Dana and Natalie",
+     "summary": "Ed is chosen as the next victim while Dana and Natalie are brainwashed so they will join the captors.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (de) — plot summary",
+       "url": "https://de.wikipedia.org/wiki/K%C3%B6nig_einer_vergessenen_Welt"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (de edition, page \"König einer vergessenen Welt\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3575,
+   "title": "The Ruling Passion",
+   "subtitle": "",
+   "year": "1916",
+   "meta": "Wikipedia it · movie",
+   "mechanism": "hypnosis by Ram Singh, Rajah of Mawar",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Ram Singh uses hypnosis to subdue Claire because she refuses his advances.",
+   "character": "Claire",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (it edition, page \"The Ruling Passion (film 1916)\")",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (it) — plot summary",
+     "url": "https://it.wikipedia.org/wiki/The_Ruling_Passion_(film_1916)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:35"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:35": {
+     "title": "The Ruling Passion",
+     "year": "1916",
+     "format": "movie",
+     "meta": "Wikipedia it · movie",
+     "mechanism": "hypnosis by Ram Singh, Rajah of Mawar",
+     "character": "Claire",
+     "summary": "Ram Singh uses hypnosis to subdue Claire because she refuses his advances.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (it) — plot summary",
+       "url": "https://it.wikipedia.org/wiki/The_Ruling_Passion_(film_1916)"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (it edition, page \"The Ruling Passion (film 1916)\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3576,
+   "title": "Alias",
+   "subtitle": "",
+   "year": "2001",
+   "meta": "Wikipedia it · tv",
+   "mechanism": "brainwashing",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Resisting the brainwashing, she had contacted the CIA to act as a double agent under the identity Julia Thorne.",
+   "character": "Sydney / Julia Thorne",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (it edition, page \"Alias (serie televisiva)\")",
+   "already_married": "not stated",
+   "format": "tv",
+   "categories": [
+    "crime",
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (it) — plot summary",
+     "url": "https://it.wikipedia.org/wiki/Alias_(serie_televisiva)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:36"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:36": {
+     "title": "Alias",
+     "year": "2001",
+     "format": "tv",
+     "meta": "Wikipedia it · tv",
+     "mechanism": "brainwashing",
+     "character": "Sydney / Julia Thorne",
+     "summary": "Resisting the brainwashing, she had contacted the CIA to act as a double agent under the identity Julia Thorne.",
+     "categories": [
+      "crime",
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (it) — plot summary",
+       "url": "https://it.wikipedia.org/wiki/Alias_(serie_televisiva)"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (it edition, page \"Alias (serie televisiva)\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3577,
+   "title": "Kyrie ou o Início do Caos",
+   "subtitle": "",
+   "year": "1998",
+   "meta": "Wikipedia pt · short",
+   "mechanism": "hypnotic sound",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "The wordless short film is about a woman hypnotised by the mystical sound coming from a storm drain.",
+   "character": "a woman",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (pt edition, page \"Kyrie ou o Início do Caos\")",
+   "already_married": "not stated",
+   "format": "short",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (pt) — plot summary",
+     "url": "https://pt.wikipedia.org/wiki/Kyrie_ou_o_In%C3%ADcio_do_Caos"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:37"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:37": {
+     "title": "Kyrie ou o Início do Caos",
+     "year": "1998",
+     "format": "short",
+     "meta": "Wikipedia pt · short",
+     "mechanism": "hypnotic sound",
+     "character": "a woman",
+     "summary": "The wordless short film is about a woman hypnotised by the mystical sound coming from a storm drain.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (pt) — plot summary",
+       "url": "https://pt.wikipedia.org/wiki/Kyrie_ou_o_In%C3%ADcio_do_Caos"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (pt edition, page \"Kyrie ou o Início do Caos\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3578,
+   "title": "Street Fighter: The Animated Series",
+   "subtitle": "",
+   "year": "1995",
+   "meta": "Wikipedia pt · tv",
+   "mechanism": "brainwashing by M. Bison",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Cammy is brainwashed by Bison during the series until she returns to normal in the episode 'Cammy, Tell Me the Truth'.",
+   "character": "Cammy",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (pt edition, page \"Street Fighter - The Animated Series\")",
+   "already_married": "not stated",
+   "format": "tv",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (pt) — plot summary",
+     "url": "https://pt.wikipedia.org/wiki/Street_Fighter_-_The_Animated_Series"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:38"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:38": {
+     "title": "Street Fighter: The Animated Series",
+     "year": "1995",
+     "format": "tv",
+     "meta": "Wikipedia pt · tv",
+     "mechanism": "brainwashing by M. Bison",
+     "character": "Cammy",
+     "summary": "Cammy is brainwashed by Bison during the series until she returns to normal in the episode 'Cammy, Tell Me the Truth'.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (pt) — plot summary",
+       "url": "https://pt.wikipedia.org/wiki/Street_Fighter_-_The_Animated_Series"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (pt edition, page \"Street Fighter - The Animated Series\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3579,
+   "title": "The Phantom of the Opera",
+   "subtitle": "",
+   "year": "2004",
+   "meta": "Wikipedia ru · movie",
+   "mechanism": "hypnotic singing by the Phantom",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "After meeting Raoul, a shadow of a masked man appears to Christine in the mirror and hypnotises her with his voice.",
+   "character": "Christine",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (ru edition, page \"Призрак Оперы (фильм, 2004)\")",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "forced-obedience"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (ru) — plot summary",
+     "url": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%B7%D1%80%D0%B0%D0%BA_%D0%9E%D0%BF%D0%B5%D1%80%D1%8B_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2004)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:39"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:39": {
+     "title": "The Phantom of the Opera",
+     "year": "2004",
+     "format": "movie",
+     "meta": "Wikipedia ru · movie",
+     "mechanism": "hypnotic singing by the Phantom",
+     "character": "Christine",
+     "summary": "After meeting Raoul, a shadow of a masked man appears to Christine in the mirror and hypnotises her with his voice.",
+     "categories": [
+      "forced-obedience"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (ru) — plot summary",
+       "url": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%B7%D1%80%D0%B0%D0%BA_%D0%9E%D0%BF%D0%B5%D1%80%D1%8B_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2004)"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (ru edition, page \"Призрак Оперы (фильм, 2004)\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3580,
+   "title": "Archangel",
+   "subtitle": "",
+   "year": "1990",
+   "meta": "Wikipedia ru · movie",
+   "mechanism": "hypnosis by a doctor",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "Bowles overhears the doctor suggest under hypnosis to Veronka that Philbin is her husband.",
+   "character": "Veronka",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (ru edition, page \"Архангельск (фильм)\")",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "wife"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (ru) — plot summary",
+     "url": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D1%81%D0%BA_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:40"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:40": {
+     "title": "Archangel",
+     "year": "1990",
+     "format": "movie",
+     "meta": "Wikipedia ru · movie",
+     "mechanism": "hypnosis by a doctor",
+     "character": "Veronka",
+     "summary": "Bowles overhears the doctor suggest under hypnosis to Veronka that Philbin is her husband.",
+     "categories": [
+      "wife"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (ru) — plot summary",
+       "url": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D1%81%D0%BA_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (ru edition, page \"Архангельск (фильм)\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
+  },
+  {
+   "id": 3581,
+   "title": "Tokusou Robo Janperson",
+   "subtitle": "",
+   "year": "1993",
+   "meta": "Wikipedia ja · tv",
+   "mechanism": "brain-wave control device",
+   "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+   "summary": "A girl attending the Snow Queen unveiling is brainwashed with a brain-wave control device to steal the diamond.",
+   "character": "a girl at the Snow Queen unveiling",
+   "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT",
+   "note": "",
+   "pregnancy_note": "not stated in the plot summary",
+   "tags": [
+    "deep-oct25",
+    "wikipedia-plot"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+   "evidence": "Wikipedia plot summary (ja edition, page \"特捜ロボ ジャンパーソン\")",
+   "already_married": "not stated",
+   "format": "tv",
+   "categories": [
+    "tech",
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia (Japanese) — plot summary",
+     "url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E6%8D%9C%E3%83%AD%E3%83%9C_%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%91%E3%83%BC%E3%82%BD%E3%83%B3"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-deep-oct25b"
+   ],
+   "source_records": [
+    "hypnosis-deep-oct25b:41"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-deep-oct25b:41": {
+     "title": "Tokusou Robo Janperson",
+     "year": "1993",
+     "format": "tv",
+     "meta": "Wikipedia ja · tv",
+     "mechanism": "brain-wave control device",
+     "character": "a girl at the Snow Queen unveiling",
+     "summary": "A girl attending the Snow Queen unveiling is brainwashed with a brain-wave control device to steal the diamond.",
+     "categories": [
+      "tech",
+      "crime"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "the plot summary does not mention a pregnancy, children or marital status",
+     "pregnancy_note": "not stated in the plot summary",
+     "sources": [
+      {
+       "label": "Wikipedia (Japanese) — plot summary",
+       "url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E6%8D%9C%E3%83%AD%E3%83%9C_%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%91%E3%83%BC%E3%82%BD%E3%83%B3"
+      }
+     ],
+     "tags": [
+      "deep-oct25",
+      "wikipedia-plot"
+     ],
+     "evidence": "Wikipedia plot summary (ja edition, page \"特捜ロボ ジャンパーソン\")",
+     "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
+     "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
+    }
+   }
   }
  ],
  "sections": [
@@ -501969,6 +505347,12 @@ window.CATALOG = {
         "Doctor hypnotizes female characters for personal gain",
         "Criminal mastermind or villain hypnotist",
         "High confidence"
+       ],
+       "sources": [
+        {
+         "label": "filmportal.de",
+         "url": "http://www.filmportal.de/film/die-1000-augen-des-dr-mabuse_05ab3755b25840f996f40a62d14f0a6b"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -505335,7 +508719,8 @@ window.CATALOG = {
     "hypnosis-yt-oct15",
     "deep-refresh-oct18",
     "deep-oct24",
-    "hypnosis-deep-oct25"
+    "hypnosis-deep-oct25",
+    "hypnosis-deep-oct25b"
    ],
    "groups": [
     {
@@ -505763,6 +509148,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-deep-oct25"
+    },
+    {
+     "title": "Deep worldwide crawl — Wikipedia plot summaries, batch 2 (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3571,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3572,
+       "from_source": "hypnosis-deep-oct25b"
+      }
+     ],
+     "from_source": "hypnosis-deep-oct25b"
     }
    ],
    "declared_count_by_source": {
@@ -505780,7 +509180,8 @@ window.CATALOG = {
     "hypnosis-yt-oct15": null,
     "deep-refresh-oct18": null,
     "deep-oct24": null,
-    "hypnosis-deep-oct25": null
+    "hypnosis-deep-oct25": null,
+    "hypnosis-deep-oct25b": null
    }
   },
   {
@@ -506940,6 +510341,12 @@ window.CATALOG = {
         "Criminal mastermind or villain hypnotist",
         "High confidence"
        ],
+       "sources": [
+        {
+         "label": "filmportal.de",
+         "url": "http://www.filmportal.de/film/die-1000-augen-des-dr-mabuse_05ab3755b25840f996f40a62d14f0a6b"
+        }
+       ],
        "entry_note": "Note: Existing-record overlap · criminal mastermind / doctor of psychology",
        "from_source": "xla62ucxbx02u5"
       },
@@ -507207,7 +510614,8 @@ window.CATALOG = {
     "weekly-oct19",
     "deep-oct24",
     "hypnosis-imdb-list-oct24",
-    "hypnosis-deep-oct25"
+    "hypnosis-deep-oct25",
+    "hypnosis-deep-oct25b"
    ],
    "groups": [
     {
@@ -507649,6 +511057,25 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-deep-oct25"
+    },
+    {
+     "title": "Deep worldwide crawl — Wikipedia plot summaries, batch 2 (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3569,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3549,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3581,
+       "from_source": "hypnosis-deep-oct25b"
+      }
+     ],
+     "from_source": "hypnosis-deep-oct25b"
     }
    ],
    "declared_count_by_source": {
@@ -507667,7 +511094,8 @@ window.CATALOG = {
     "weekly-oct19": null,
     "deep-oct24": null,
     "hypnosis-imdb-list-oct24": null,
-    "hypnosis-deep-oct25": null
+    "hypnosis-deep-oct25": null,
+    "hypnosis-deep-oct25b": null
    }
   },
   {
@@ -513004,7 +516432,8 @@ window.CATALOG = {
    ],
    "from_sources": [
     "xla62ucxbx02u5",
-    "hypnosis-deep-oct25"
+    "hypnosis-deep-oct25",
+    "hypnosis-deep-oct25b"
    ],
    "groups": [
     {
@@ -513302,10 +516731,34 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-deep-oct25"
+    },
+    {
+     "title": "Deep worldwide crawl — Wikipedia plot summaries, batch 2 (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3543,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3569,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 645,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3549,
+       "from_source": "hypnosis-deep-oct25b"
+      }
+     ],
+     "from_source": "hypnosis-deep-oct25b"
     }
    ],
    "declared_count_by_source": {
-    "hypnosis-deep-oct25": null
+    "hypnosis-deep-oct25": null,
+    "hypnosis-deep-oct25b": null
    }
   },
   {
@@ -513772,6 +517225,16 @@ window.CATALOG = {
         "Human-villain control",
         "Control mechanism unstated",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Blood_Sucking_Freaks"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Blood_Sucking_Freaks"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
@@ -518210,7 +521673,8 @@ window.CATALOG = {
     "youtube-deep-oct15",
     "deep-refresh-oct18",
     "deep-oct24",
-    "hypnosis-deep-oct25"
+    "hypnosis-deep-oct25",
+    "hypnosis-deep-oct25b"
    ],
    "groups": [
     {
@@ -519493,6 +522957,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-deep-oct25"
+    },
+    {
+     "title": "Deep worldwide crawl — Wikipedia plot summaries, batch 2 (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3580,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 660,
+       "from_source": "hypnosis-deep-oct25b"
+      }
+     ],
+     "from_source": "hypnosis-deep-oct25b"
     }
    ],
    "declared_count_by_source": {
@@ -519513,7 +522992,8 @@ window.CATALOG = {
     "youtube-deep-oct15": null,
     "deep-refresh-oct18": null,
     "deep-oct24": null,
-    "hypnosis-deep-oct25": null
+    "hypnosis-deep-oct25": null,
+    "hypnosis-deep-oct25b": null
    }
   },
   {
@@ -520375,7 +523855,8 @@ window.CATALOG = {
     "youtube-india-oct15",
     "deep-refresh-oct18",
     "deep-oct24",
-    "hypnosis-deep-oct25"
+    "hypnosis-deep-oct25",
+    "hypnosis-deep-oct25b"
    ],
    "groups": [
     {
@@ -521324,6 +524805,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-deep-oct25"
+    },
+    {
+     "title": "Deep worldwide crawl — Wikipedia plot summaries, batch 2 (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3576,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3581,
+       "from_source": "hypnosis-deep-oct25b"
+      }
+     ],
+     "from_source": "hypnosis-deep-oct25b"
     }
    ],
    "declared_count_by_source": {
@@ -521345,7 +524841,8 @@ window.CATALOG = {
     "youtube-india-oct15": null,
     "deep-refresh-oct18": null,
     "deep-oct24": null,
-    "hypnosis-deep-oct25": null
+    "hypnosis-deep-oct25": null,
+    "hypnosis-deep-oct25b": null
    }
   },
   {
@@ -525944,7 +529441,8 @@ window.CATALOG = {
     "deep-refresh-oct18",
     "weekly-oct19",
     "deep-oct24",
-    "hypnosis-deep-oct25"
+    "hypnosis-deep-oct25",
+    "hypnosis-deep-oct25b"
    ],
    "groups": [
     {
@@ -527557,6 +531055,33 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-deep-oct25"
+    },
+    {
+     "title": "Deep worldwide crawl — Wikipedia plot summaries, batch 2 (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3548,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3557,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3565,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3554,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3546,
+       "from_source": "hypnosis-deep-oct25b"
+      }
+     ],
+     "from_source": "hypnosis-deep-oct25b"
     }
    ],
    "declared_count_by_source": {
@@ -527594,7 +531119,8 @@ window.CATALOG = {
     "deep-refresh-oct18": null,
     "weekly-oct19": null,
     "deep-oct24": null,
-    "hypnosis-deep-oct25": null
+    "hypnosis-deep-oct25": null,
+    "hypnosis-deep-oct25b": null
    }
   },
   {
@@ -550810,7 +554336,8 @@ window.CATALOG = {
     "weekly-oct19",
     "deep-oct24",
     "hypnosis-imdb-list-oct24",
-    "hypnosis-deep-oct25"
+    "hypnosis-deep-oct25",
+    "hypnosis-deep-oct25b"
    ],
    "groups": [
     {
@@ -551423,6 +554950,12 @@ window.CATALOG = {
         "Doctor hypnotizes female characters for personal gain",
         "Criminal mastermind or villain hypnotist",
         "High confidence"
+       ],
+       "sources": [
+        {
+         "label": "filmportal.de",
+         "url": "http://www.filmportal.de/film/die-1000-augen-des-dr-mabuse_05ab3755b25840f996f40a62d14f0a6b"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -553062,6 +556595,141 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-deep-oct25"
+    },
+    {
+     "title": "Deep worldwide crawl — Wikipedia plot summaries, batch 2 (25 Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3576,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3566,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3557,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3552,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 994,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3543,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3571,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3559,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3563,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3547,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3573,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3550,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3556,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3555,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3549,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3545,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3574,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3577,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3572,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3562,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3558,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3553,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3544,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3560,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3579,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3575,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3564,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3567,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3578,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3568,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3551,
+       "from_source": "hypnosis-deep-oct25b"
+      },
+      {
+       "id": 3561,
+       "from_source": "hypnosis-deep-oct25b"
+      }
+     ],
+     "from_source": "hypnosis-deep-oct25b"
     }
    ],
    "declared_count_by_source": {
@@ -553083,7 +556751,8 @@ window.CATALOG = {
     "weekly-oct19": null,
     "deep-oct24": null,
     "hypnosis-imdb-list-oct24": null,
-    "hypnosis-deep-oct25": null
+    "hypnosis-deep-oct25": null,
+    "hypnosis-deep-oct25b": null
    }
   },
   {
