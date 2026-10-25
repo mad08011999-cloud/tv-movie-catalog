@@ -46914,11 +46914,12 @@
   "deep-refresh-oct18": 97,
   "weekly-oct19": 4,
   "deep-oct20": 2,
+  "deep-oct24": 60,
   "hypno-india-oct24": 4
  },
- "entry_count_after_dedupe": 3211,
+ "entry_count_after_dedupe": 3271,
  "within_source_groups": 6,
  "cross_source_groups": 1911,
  "index_only_records": 59,
- "local_only_records": 912
+ "local_only_records": 972
 }
