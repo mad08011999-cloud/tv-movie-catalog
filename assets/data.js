@@ -5377,6 +5377,19 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "hypno-pregnant-yt-oct25",
+   "label": "Visibly-pregnant hypnotised women, YouTube-led worldwide sweep (25 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/hypno-pregnant-yt-oct25.json",
+   "description": "Max-list sweep (YouTube titles/descriptions/captions/comments plus reference sites) for adult pregnant women hypnotised. Mostly loose fits; the catalog already held nearly all strong leads. Adults only.",
+   "dropped": [],
+   "check": {
+    "raw_count": 7,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -5446,10 +5459,11 @@ window.CATALOG = {
   "hypno-india-oct24": 4,
   "hypnosis-imdb-list-oct24": 61,
   "hypnosis-deep-oct25": 132,
-  "hypnosis-deep-oct25b": 41
+  "hypnosis-deep-oct25b": 41,
+  "hypno-pregnant-yt-oct25": 7
  },
- "raw_total": 6517,
- "entry_count": 3442,
+ "raw_total": 6524,
+ "entry_count": 3449,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -5581,7 +5595,7 @@ window.CATALOG = {
    "key": "human",
    "label": "Human-villain control",
    "legend_label": "Human-villain control",
-   "entry_count": 693
+   "entry_count": 694
   },
   {
    "key": "wife",
@@ -5617,7 +5631,7 @@ window.CATALOG = {
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 178
+   "entry_count": 183
   },
   {
    "key": "royal-hypnosis",
@@ -5659,7 +5673,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 222
+   "entry_count": 223
   },
   {
    "key": "mom-partner-control",
@@ -5719,7 +5733,7 @@ window.CATALOG = {
    "key": "index-57",
    "label": "Paternity / infidelity mystery",
    "legend_label": "Paternity / infidelity mystery",
-   "entry_count": 5
+   "entry_count": 7
   },
   {
    "key": "polygamy",
@@ -5743,7 +5757,7 @@ window.CATALOG = {
    "key": "pregnant-variants",
    "label": "Pregnancy + mind control — variants and leads",
    "legend_label": "Pregnancy + mind control — variants and leads",
-   "entry_count": 42
+   "entry_count": 44
   },
   {
    "key": "pregnancy-adjacent",
@@ -5827,7 +5841,7 @@ window.CATALOG = {
    "key": "pregnant-strict",
    "label": "Pregnant woman hypnotized while pregnant — strict core",
    "legend_label": "Pregnant woman hypnotized while pregnant — strict core",
-   "entry_count": 13
+   "entry_count": 18
   },
   {
    "key": "pregnancy-evil",
@@ -5839,7 +5853,7 @@ window.CATALOG = {
    "key": "regional-pregnancy",
    "label": "Pregnant women controlled — India & Indonesia",
    "legend_label": "Pregnant women controlled — India & Indonesia",
-   "entry_count": 13
+   "entry_count": 18
   },
   {
    "key": "india-pregnancy",
@@ -503901,6 +503915,762 @@ window.CATALOG = {
      "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
     }
    }
+  },
+  {
+   "id": 3582,
+   "title": "Drama Ibu Hamil — Melahirkan Setelah Dihipnotis Perampok",
+   "subtitle": "",
+   "year": "2022",
+   "meta": "YouTube comedy skit · Indonesia · Bahasa Indonesia · Rika Official · 2022-12-18 · 5:09",
+   "mechanism": "Street-style hypnosis (gendam) by robbers/intruders (staged comedy)",
+   "confidence_flag": "Loose fit · single YouTube source (title + description + auto-caption + thumbnail frame); age unstated",
+   "summary": "A pregnant mother is hypnotised by robbers and, per the title, goes on to give birth in the skit.",
+   "character": "Unnamed pregnant mother (performer in a prop pregnancy belly; age not stated, appears adult)",
+   "provenance": "Visibly-pregnant hypnosis max-list sweep, 25 Oct 2026 PT (YouTube metadata/captions via yt-dlp, thumbnails; adults only; clinical wording)",
+   "note": "Staged Indonesian YouTube parody with a prop belly ('hamil bohongan'-style channel). Single YouTube source, so loose fit. Age not stated; performer appears adult. ",
+   "pregnancy_outcome": "Gives birth within the skit (per title).",
+   "pregnancy_note": "Visible pregnancy: title 'Ibu Hamil' and a prop belly in the thumbnail (checked on a frame); hypnosis by robbers per title. No captions on the video other than auto-generated.",
+   "episodes": [
+    {
+     "episode": "YouTube video, 18 Dec 2022",
+     "air_date": "2022-12-18",
+     "gist": "Pregnant mother is hypnotised by robbers; the skit continues to a birth scene (title)",
+     "number_verified": false
+    }
+   ],
+   "kids_status": "not stated",
+   "kids_note": "No prior children stated in the title, description or captions.",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "yes (within the skit)",
+   "evidence": "Visible pregnancy: title 'Ibu Hamil' and a prop belly in the thumbnail (checked on a frame); hypnosis by robbers per title. No captions on the video other than auto-generated.",
+   "adult": "unconfirmed (appears adult)",
+   "format": "short",
+   "categories": [
+    "pregnant-strict",
+    "regional-pregnancy",
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "YouTube — Rika Official: Drama Ibu Hamil — Melahirkan Setelah Dihipnotis Perampok",
+     "url": "https://www.youtube.com/watch?v=4FWV_KlwO9Q"
+    }
+   ],
+   "youtube_ids": [
+    "4FWV_KlwO9Q"
+   ],
+   "from_sources": [
+    "hypno-pregnant-yt-oct25"
+   ],
+   "source_records": [
+    "hypno-pregnant-yt-oct25:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/4FWV_KlwO9Q.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-pregnant-yt-oct25:1": {
+     "title": "Drama Ibu Hamil — Melahirkan Setelah Dihipnotis Perampok",
+     "year": "2022",
+     "format": "short",
+     "standalone": true,
+     "meta": "YouTube comedy skit · Indonesia · Bahasa Indonesia · Rika Official · 2022-12-18 · 5:09",
+     "mechanism": "Street-style hypnosis (gendam) by robbers/intruders (staged comedy)",
+     "categories": [
+      "pregnant-strict",
+      "regional-pregnancy",
+      "crime"
+     ],
+     "summary": "A pregnant mother is hypnotised by robbers and, per the title, goes on to give birth in the skit.",
+     "character": "Unnamed pregnant mother (performer in a prop pregnancy belly; age not stated, appears adult)",
+     "episodes": [
+      {
+       "episode": "YouTube video, 18 Dec 2022",
+       "air_date": "2022-12-18",
+       "gist": "Pregnant mother is hypnotised by robbers; the skit continues to a birth scene (title)",
+       "number_verified": false
+      }
+     ],
+     "note": "Staged Indonesian YouTube parody with a prop belly ('hamil bohongan'-style channel). Single YouTube source, so loose fit. Age not stated; performer appears adult. ",
+     "pregnant_end": "yes (within the skit)",
+     "pregnancy_outcome": "Gives birth within the skit (per title).",
+     "pregnancy_note": "Visible pregnancy: title 'Ibu Hamil' and a prop belly in the thumbnail (checked on a frame); hypnosis by robbers per title. No captions on the video other than auto-generated.",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "No prior children stated in the title, description or captions.",
+     "married": "not stated",
+     "sources": [
+      {
+       "label": "YouTube — Rika Official: Drama Ibu Hamil — Melahirkan Setelah Dihipnotis Perampok",
+       "url": "https://www.youtube.com/watch?v=4FWV_KlwO9Q"
+      }
+     ],
+     "evidence": "Visible pregnancy: title 'Ibu Hamil' and a prop belly in the thumbnail (checked on a frame); hypnosis by robbers per title. No captions on the video other than auto-generated.",
+     "confidence_flag": "Loose fit · single YouTube source (title + description + auto-caption + thumbnail frame); age unstated",
+     "provenance": "Visibly-pregnant hypnosis max-list sweep, 25 Oct 2026 PT (YouTube metadata/captions via yt-dlp, thumbnails; adults only; clinical wording)",
+     "group": "Visibly-pregnant hypnotised women sweep (Oct 2026)",
+     "adult": "unconfirmed (appears adult)"
+    }
+   }
+  },
+  {
+   "id": 3583,
+   "title": "Drama: Kisah Ibu Hamil Dihipnotis Tamu Misterius Sampai Melahirkan",
+   "subtitle": "",
+   "year": "2022",
+   "meta": "YouTube comedy skit · Indonesia · Bahasa Indonesia · Liya family · 2022-12-02 · 4:29",
+   "mechanism": "Street-style hypnosis (gendam) by robbers/intruders (staged comedy)",
+   "confidence_flag": "Loose fit · single YouTube source (title + description + auto-caption + thumbnail frame); age unstated",
+   "summary": "A heavily pregnant mother is hypnotised by a mysterious visitor; the skit runs until she gives birth (description mentions twins and a doctor).",
+   "character": "Unnamed pregnant mother (performer in a prop pregnancy belly; age not stated, appears adult)",
+   "provenance": "Visibly-pregnant hypnosis max-list sweep, 25 Oct 2026 PT (YouTube metadata/captions via yt-dlp, thumbnails; adults only; clinical wording)",
+   "note": "Staged Indonesian YouTube parody with a prop belly ('hamil bohongan'-style channel). Single YouTube source, so loose fit. Age not stated; performer appears adult. ",
+   "pregnancy_outcome": "Gives birth within the skit (per title/tags: twins, helped by a doctor).",
+   "pregnancy_note": "Visible pregnancy: auto-caption (Indonesian) has the woman saying she is 'sudah hamil besar' (already heavily pregnant) and wants to eat; prop belly seen in thumbnail. Hypnosis by a visitor per title.",
+   "episodes": [
+    {
+     "episode": "YouTube video, 2 Dec 2022",
+     "air_date": "2022-12-02",
+     "gist": "Heavily pregnant mother is hypnotised by a mysterious guest; skit continues to the birth (title and tags)",
+     "number_verified": false
+    }
+   ],
+   "kids_status": "not stated",
+   "kids_note": "No prior children stated in the title, description or captions.",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "yes (within the skit)",
+   "evidence": "Visible pregnancy: auto-caption (Indonesian) has the woman saying she is 'sudah hamil besar' (already heavily pregnant) and wants to eat; prop belly seen in thumbnail. Hypnosis by a visitor per title.",
+   "adult": "unconfirmed (appears adult)",
+   "format": "short",
+   "categories": [
+    "pregnant-strict",
+    "regional-pregnancy",
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "YouTube — Liya family: Drama: Kisah Ibu Hamil Dihipnotis Tamu Misterius Sampai Melahirkan",
+     "url": "https://www.youtube.com/watch?v=qws5Ztd3R1I"
+    }
+   ],
+   "youtube_ids": [
+    "qws5Ztd3R1I"
+   ],
+   "from_sources": [
+    "hypno-pregnant-yt-oct25"
+   ],
+   "source_records": [
+    "hypno-pregnant-yt-oct25:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/qws5Ztd3R1I.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-pregnant-yt-oct25:2": {
+     "title": "Drama: Kisah Ibu Hamil Dihipnotis Tamu Misterius Sampai Melahirkan",
+     "year": "2022",
+     "format": "short",
+     "standalone": true,
+     "meta": "YouTube comedy skit · Indonesia · Bahasa Indonesia · Liya family · 2022-12-02 · 4:29",
+     "mechanism": "Street-style hypnosis (gendam) by robbers/intruders (staged comedy)",
+     "categories": [
+      "pregnant-strict",
+      "regional-pregnancy",
+      "crime"
+     ],
+     "summary": "A heavily pregnant mother is hypnotised by a mysterious visitor; the skit runs until she gives birth (description mentions twins and a doctor).",
+     "character": "Unnamed pregnant mother (performer in a prop pregnancy belly; age not stated, appears adult)",
+     "episodes": [
+      {
+       "episode": "YouTube video, 2 Dec 2022",
+       "air_date": "2022-12-02",
+       "gist": "Heavily pregnant mother is hypnotised by a mysterious guest; skit continues to the birth (title and tags)",
+       "number_verified": false
+      }
+     ],
+     "note": "Staged Indonesian YouTube parody with a prop belly ('hamil bohongan'-style channel). Single YouTube source, so loose fit. Age not stated; performer appears adult. ",
+     "pregnant_end": "yes (within the skit)",
+     "pregnancy_outcome": "Gives birth within the skit (per title/tags: twins, helped by a doctor).",
+     "pregnancy_note": "Visible pregnancy: auto-caption (Indonesian) has the woman saying she is 'sudah hamil besar' (already heavily pregnant) and wants to eat; prop belly seen in thumbnail. Hypnosis by a visitor per title.",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "No prior children stated in the title, description or captions.",
+     "married": "not stated",
+     "sources": [
+      {
+       "label": "YouTube — Liya family: Drama: Kisah Ibu Hamil Dihipnotis Tamu Misterius Sampai Melahirkan",
+       "url": "https://www.youtube.com/watch?v=qws5Ztd3R1I"
+      }
+     ],
+     "evidence": "Visible pregnancy: auto-caption (Indonesian) has the woman saying she is 'sudah hamil besar' (already heavily pregnant) and wants to eat; prop belly seen in thumbnail. Hypnosis by a visitor per title.",
+     "confidence_flag": "Loose fit · single YouTube source (title + description + auto-caption + thumbnail frame); age unstated",
+     "provenance": "Visibly-pregnant hypnosis max-list sweep, 25 Oct 2026 PT (YouTube metadata/captions via yt-dlp, thumbnails; adults only; clinical wording)",
+     "group": "Visibly-pregnant hypnotised women sweep (Oct 2026)",
+     "adult": "unconfirmed (appears adult)"
+    }
+   }
+  },
+  {
+   "id": 3584,
+   "title": "Ibu Hamil Di Hipnotis Dan Diikat Perampok",
+   "subtitle": "",
+   "year": "2023",
+   "meta": "YouTube comedy skit · Indonesia · Bahasa Indonesia · ANOT GO · 2023-10-03 · 5:10",
+   "mechanism": "Street-style hypnosis (gendam) by robbers/intruders (staged comedy)",
+   "confidence_flag": "Loose fit · single YouTube source (title + description + auto-caption + thumbnail frame); age unstated",
+   "summary": "A pregnant mother is hypnotised and tied up by robbers; in the auto-caption the robbers notice she has woken and run off.",
+   "character": "Unnamed pregnant mother (performer in a prop pregnancy belly; age not stated, appears adult)",
+   "provenance": "Visibly-pregnant hypnosis max-list sweep, 25 Oct 2026 PT (YouTube metadata/captions via yt-dlp, thumbnails; adults only; clinical wording)",
+   "note": "Staged Indonesian YouTube parody with a prop belly ('hamil bohongan'-style channel). Single YouTube source, so loose fit. Age not stated; performer appears adult. ",
+   "pregnancy_outcome": "No birth shown in the title; mother wakes and robbers flee (caption).",
+   "pregnancy_note": "Visible pregnancy: title 'Ibu Hamil' and prop belly in the thumbnail; auto-caption: robbers say 'the mother is already awake, let's run'. A commenter asks for a chloroform variant.",
+   "episodes": [
+    {
+     "episode": "YouTube video, 3 Oct 2023",
+     "air_date": "2023-10-03",
+     "gist": "Pregnant mother is hypnotised and tied by robbers; she wakes and the robbers flee (auto-caption)",
+     "number_verified": false
+    }
+   ],
+   "kids_status": "not stated",
+   "kids_note": "No prior children stated in the title, description or captions.",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "evidence": "Visible pregnancy: title 'Ibu Hamil' and prop belly in the thumbnail; auto-caption: robbers say 'the mother is already awake, let's run'. A commenter asks for a chloroform variant.",
+   "adult": "unconfirmed (appears adult)",
+   "format": "short",
+   "categories": [
+    "pregnant-strict",
+    "regional-pregnancy",
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "YouTube — ANOT GO: Ibu Hamil Di Hipnotis Dan Diikat Perampok",
+     "url": "https://www.youtube.com/watch?v=yzSeVoArVYM"
+    }
+   ],
+   "youtube_ids": [
+    "yzSeVoArVYM"
+   ],
+   "from_sources": [
+    "hypno-pregnant-yt-oct25"
+   ],
+   "source_records": [
+    "hypno-pregnant-yt-oct25:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/yzSeVoArVYM.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-pregnant-yt-oct25:3": {
+     "title": "Ibu Hamil Di Hipnotis Dan Diikat Perampok",
+     "year": "2023",
+     "format": "short",
+     "standalone": true,
+     "meta": "YouTube comedy skit · Indonesia · Bahasa Indonesia · ANOT GO · 2023-10-03 · 5:10",
+     "mechanism": "Street-style hypnosis (gendam) by robbers/intruders (staged comedy)",
+     "categories": [
+      "pregnant-strict",
+      "regional-pregnancy",
+      "crime"
+     ],
+     "summary": "A pregnant mother is hypnotised and tied up by robbers; in the auto-caption the robbers notice she has woken and run off.",
+     "character": "Unnamed pregnant mother (performer in a prop pregnancy belly; age not stated, appears adult)",
+     "episodes": [
+      {
+       "episode": "YouTube video, 3 Oct 2023",
+       "air_date": "2023-10-03",
+       "gist": "Pregnant mother is hypnotised and tied by robbers; she wakes and the robbers flee (auto-caption)",
+       "number_verified": false
+      }
+     ],
+     "note": "Staged Indonesian YouTube parody with a prop belly ('hamil bohongan'-style channel). Single YouTube source, so loose fit. Age not stated; performer appears adult. ",
+     "pregnant_end": "not stated",
+     "pregnancy_outcome": "No birth shown in the title; mother wakes and robbers flee (caption).",
+     "pregnancy_note": "Visible pregnancy: title 'Ibu Hamil' and prop belly in the thumbnail; auto-caption: robbers say 'the mother is already awake, let's run'. A commenter asks for a chloroform variant.",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "No prior children stated in the title, description or captions.",
+     "married": "not stated",
+     "sources": [
+      {
+       "label": "YouTube — ANOT GO: Ibu Hamil Di Hipnotis Dan Diikat Perampok",
+       "url": "https://www.youtube.com/watch?v=yzSeVoArVYM"
+      }
+     ],
+     "evidence": "Visible pregnancy: title 'Ibu Hamil' and prop belly in the thumbnail; auto-caption: robbers say 'the mother is already awake, let's run'. A commenter asks for a chloroform variant.",
+     "confidence_flag": "Loose fit · single YouTube source (title + description + auto-caption + thumbnail frame); age unstated",
+     "provenance": "Visibly-pregnant hypnosis max-list sweep, 25 Oct 2026 PT (YouTube metadata/captions via yt-dlp, thumbnails; adults only; clinical wording)",
+     "group": "Visibly-pregnant hypnotised women sweep (Oct 2026)",
+     "adult": "unconfirmed (appears adult)"
+    }
+   }
+  },
+  {
+   "id": 3585,
+   "title": "Drama Ibu Hamil Pingsan Dihipnotis Penjahat Baju Hitam",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "YouTube comedy skit · Indonesia · Bahasa Indonesia · Imut Kiyut Channel · 2026-08-05 · 6:27",
+   "mechanism": "Street-style hypnosis (gendam) by robbers/intruders (staged comedy)",
+   "confidence_flag": "Loose fit · single YouTube source (title + description + thumbnail frame); age unstated",
+   "summary": "A pregnant woman faints after being hypnotised by a criminal dressed in black; the video is labelled fictional drama.",
+   "character": "Unnamed pregnant mother (performer in a prop pregnancy belly; age not stated, appears adult)",
+   "provenance": "Visibly-pregnant hypnosis max-list sweep, 25 Oct 2026 PT (YouTube metadata/captions via yt-dlp, thumbnails; adults only; clinical wording)",
+   "note": "Staged Indonesian YouTube parody with a prop belly ('hamil bohongan'-style channel). Single YouTube source, so loose fit. Age not stated; performer appears adult. ",
+   "pregnancy_outcome": "Not stated.",
+   "pregnancy_note": "Visible pregnancy: hashtags #perutbuncit (big belly) and #ibuhamil, prop belly in the thumbnail; hypnosis by a criminal per title; #dramafiksi marks it fictional.",
+   "episodes": [
+    {
+     "episode": "YouTube video, 5 Aug 2026",
+     "air_date": "2026-08-05",
+     "gist": "Pregnant woman faints after being hypnotised by a criminal in black (title)",
+     "number_verified": false
+    }
+   ],
+   "kids_status": "not stated",
+   "kids_note": "No prior children stated in the title, description or captions.",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "evidence": "Visible pregnancy: hashtags #perutbuncit (big belly) and #ibuhamil, prop belly in the thumbnail; hypnosis by a criminal per title; #dramafiksi marks it fictional.",
+   "adult": "unconfirmed (appears adult)",
+   "format": "short",
+   "categories": [
+    "pregnant-strict",
+    "regional-pregnancy",
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "YouTube — Imut Kiyut Channel: Drama Ibu Hamil Pingsan Dihipnotis Penjahat Baju Hitam",
+     "url": "https://www.youtube.com/watch?v=S3Oz4Bi3zEQ"
+    }
+   ],
+   "youtube_ids": [
+    "S3Oz4Bi3zEQ"
+   ],
+   "from_sources": [
+    "hypno-pregnant-yt-oct25"
+   ],
+   "source_records": [
+    "hypno-pregnant-yt-oct25:4"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/S3Oz4Bi3zEQ.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-pregnant-yt-oct25:4": {
+     "title": "Drama Ibu Hamil Pingsan Dihipnotis Penjahat Baju Hitam",
+     "year": "2026",
+     "format": "short",
+     "standalone": true,
+     "meta": "YouTube comedy skit · Indonesia · Bahasa Indonesia · Imut Kiyut Channel · 2026-08-05 · 6:27",
+     "mechanism": "Street-style hypnosis (gendam) by robbers/intruders (staged comedy)",
+     "categories": [
+      "pregnant-strict",
+      "regional-pregnancy",
+      "crime"
+     ],
+     "summary": "A pregnant woman faints after being hypnotised by a criminal dressed in black; the video is labelled fictional drama.",
+     "character": "Unnamed pregnant mother (performer in a prop pregnancy belly; age not stated, appears adult)",
+     "episodes": [
+      {
+       "episode": "YouTube video, 5 Aug 2026",
+       "air_date": "2026-08-05",
+       "gist": "Pregnant woman faints after being hypnotised by a criminal in black (title)",
+       "number_verified": false
+      }
+     ],
+     "note": "Staged Indonesian YouTube parody with a prop belly ('hamil bohongan'-style channel). Single YouTube source, so loose fit. Age not stated; performer appears adult. ",
+     "pregnant_end": "not stated",
+     "pregnancy_outcome": "Not stated.",
+     "pregnancy_note": "Visible pregnancy: hashtags #perutbuncit (big belly) and #ibuhamil, prop belly in the thumbnail; hypnosis by a criminal per title; #dramafiksi marks it fictional.",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "No prior children stated in the title, description or captions.",
+     "married": "not stated",
+     "sources": [
+      {
+       "label": "YouTube — Imut Kiyut Channel: Drama Ibu Hamil Pingsan Dihipnotis Penjahat Baju Hitam",
+       "url": "https://www.youtube.com/watch?v=S3Oz4Bi3zEQ"
+      }
+     ],
+     "evidence": "Visible pregnancy: hashtags #perutbuncit (big belly) and #ibuhamil, prop belly in the thumbnail; hypnosis by a criminal per title; #dramafiksi marks it fictional.",
+     "confidence_flag": "Loose fit · single YouTube source (title + description + thumbnail frame); age unstated",
+     "provenance": "Visibly-pregnant hypnosis max-list sweep, 25 Oct 2026 PT (YouTube metadata/captions via yt-dlp, thumbnails; adults only; clinical wording)",
+     "group": "Visibly-pregnant hypnotised women sweep (Oct 2026)",
+     "adult": "unconfirmed (appears adult)"
+    }
+   }
+  },
+  {
+   "id": 3586,
+   "title": "Ibu Hamil dan Revina Kena Hipnotis",
+   "subtitle": "",
+   "year": "2023",
+   "meta": "YouTube comedy skit · Indonesia · Bahasa Indonesia · Revina Syakira · 2023-10-12 · 6:07",
+   "mechanism": "Street-style hypnosis (gendam) by robbers/intruders (staged comedy)",
+   "confidence_flag": "Loose fit · single YouTube source (title + description + auto-caption + thumbnail frame); age unstated",
+   "summary": "A pregnant mother and a second woman, Revina, are hypnotised by a thief in a comedy sketch; the thumbnail shows both women entranced while a man holds gold items.",
+   "character": "Unnamed pregnant mother (performer in a prop pregnancy belly; age not stated, appears adult)",
+   "provenance": "Visibly-pregnant hypnosis max-list sweep, 25 Oct 2026 PT (YouTube metadata/captions via yt-dlp, thumbnails; adults only; clinical wording)",
+   "note": "Staged Indonesian YouTube parody with a prop belly ('hamil bohongan'-style channel). Single YouTube source, so loose fit. Age not stated; performer appears adult. Revina's age is not stated; she may be a teen, so she is not counted. The pregnant mother appears adult.",
+   "pregnancy_outcome": "Not stated.",
+   "pregnancy_note": "Visible pregnancy: title 'Ibu Hamil' and prop belly in the thumbnail; auto-caption (Indonesian) has a woman saying she is hungry and the mother heading to market. Hypnosis of the pregnant mother and Revina per title.",
+   "episodes": [
+    {
+     "episode": "YouTube video, 12 Oct 2023",
+     "air_date": "2023-10-12",
+     "gist": "Pregnant mother and Revina are hypnotised by a thief (title, thumbnail)",
+     "number_verified": false
+    }
+   ],
+   "kids_status": "not stated",
+   "kids_note": "No prior children stated in the title, description or captions.",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "evidence": "Visible pregnancy: title 'Ibu Hamil' and prop belly in the thumbnail; auto-caption (Indonesian) has a woman saying she is hungry and the mother heading to market. Hypnosis of the pregnant mother and Revina per title.",
+   "adult": "unconfirmed (appears adult)",
+   "format": "short",
+   "categories": [
+    "pregnant-strict",
+    "regional-pregnancy",
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "YouTube — Revina Syakira: Ibu Hamil dan Revina Kena Hipnotis",
+     "url": "https://www.youtube.com/watch?v=mSU9tv3K6HQ"
+    }
+   ],
+   "youtube_ids": [
+    "mSU9tv3K6HQ"
+   ],
+   "from_sources": [
+    "hypno-pregnant-yt-oct25"
+   ],
+   "source_records": [
+    "hypno-pregnant-yt-oct25:5"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": "thumbs/mSU9tv3K6HQ.jpg",
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-pregnant-yt-oct25:5": {
+     "title": "Ibu Hamil dan Revina Kena Hipnotis",
+     "year": "2023",
+     "format": "short",
+     "standalone": true,
+     "meta": "YouTube comedy skit · Indonesia · Bahasa Indonesia · Revina Syakira · 2023-10-12 · 6:07",
+     "mechanism": "Street-style hypnosis (gendam) by robbers/intruders (staged comedy)",
+     "categories": [
+      "pregnant-strict",
+      "regional-pregnancy",
+      "crime"
+     ],
+     "summary": "A pregnant mother and a second woman, Revina, are hypnotised by a thief in a comedy sketch; the thumbnail shows both women entranced while a man holds gold items.",
+     "character": "Unnamed pregnant mother (performer in a prop pregnancy belly; age not stated, appears adult)",
+     "episodes": [
+      {
+       "episode": "YouTube video, 12 Oct 2023",
+       "air_date": "2023-10-12",
+       "gist": "Pregnant mother and Revina are hypnotised by a thief (title, thumbnail)",
+       "number_verified": false
+      }
+     ],
+     "note": "Staged Indonesian YouTube parody with a prop belly ('hamil bohongan'-style channel). Single YouTube source, so loose fit. Age not stated; performer appears adult. Revina's age is not stated; she may be a teen, so she is not counted. The pregnant mother appears adult.",
+     "pregnant_end": "not stated",
+     "pregnancy_outcome": "Not stated.",
+     "pregnancy_note": "Visible pregnancy: title 'Ibu Hamil' and prop belly in the thumbnail; auto-caption (Indonesian) has a woman saying she is hungry and the mother heading to market. Hypnosis of the pregnant mother and Revina per title.",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "No prior children stated in the title, description or captions.",
+     "married": "not stated",
+     "sources": [
+      {
+       "label": "YouTube — Revina Syakira: Ibu Hamil dan Revina Kena Hipnotis",
+       "url": "https://www.youtube.com/watch?v=mSU9tv3K6HQ"
+      }
+     ],
+     "evidence": "Visible pregnancy: title 'Ibu Hamil' and prop belly in the thumbnail; auto-caption (Indonesian) has a woman saying she is hungry and the mother heading to market. Hypnosis of the pregnant mother and Revina per title.",
+     "confidence_flag": "Loose fit · single YouTube source (title + description + auto-caption + thumbnail frame); age unstated",
+     "provenance": "Visibly-pregnant hypnosis max-list sweep, 25 Oct 2026 PT (YouTube metadata/captions via yt-dlp, thumbnails; adults only; clinical wording)",
+     "group": "Visibly-pregnant hypnotised women sweep (Oct 2026)",
+     "adult": "unconfirmed (appears adult)"
+    }
+   }
+  },
+  {
+   "id": 3587,
+   "title": "Утраченные воспоминания (Lost Memories)",
+   "subtitle": "",
+   "year": "2019",
+   "meta": "Mini-series (4 parts) · Ukraine · Russian · channel Ukraina · melodrama",
+   "mechanism": "Hypnosis session with a psychotherapist to recover lost memories (clinical/therapeutic)",
+   "confidence_flag": "Loose fit · 3 sources, but visible pregnancy at hypnosis not stated",
+   "summary": "After her husband Grigory's apparent death, Lyudmila (Ekaterina Astakhova) loses her memory of a stretch of time and finds out about 1.5 months later that she is pregnant. A hypnosis session is used to recover the missing memories. She learns Grigory lived under a false name, faked his death and is the father; she later gives birth to a daughter and accepts a proposal from Vladimir.",
+   "character": "Lyudmila (Ekaterina Astakhova); psychotherapist (Igor Salimonov)",
+   "provenance": "Visibly-pregnant hypnosis max-list sweep, 25 Oct 2026 PT (YouTube metadata/captions via yt-dlp, thumbnails; adults only; clinical wording)",
+   "note": "The hypnosis session is stated in the ivi/search synopsis; the part guide (kinofilmpro) does not name the part in which it occurs. Visible pregnancy is not stated (early weeks at diagnosis), so this is a loose fit for 'visibly pregnant'. No prior children for Lyudmila are mentioned; the couple had wished for a child.",
+   "pregnancy_outcome": "Gives birth to a daughter (Grigory is the father).",
+   "pregnancy_note": "Pregnant at the time of the hypnosis session; not stated as visibly showing.",
+   "episodes": [
+    {
+     "episode": "Part 1 — husband's death",
+     "air_date": "2019",
+     "gist": "Lyudmila's husband Grigory is reported dead after a fishing trip; after the funeral she walks to the lake and wakes up in hospital with no memory of the interval; a psychotherapist appears in this part",
+     "number_verified": false
+    },
+    {
+     "episode": "Part 2 — pregnancy",
+     "air_date": "2019",
+     "gist": "About 1.5 months later a gynaecologist tells her she is pregnant although she had no intimacy for over 3 months; she sees a psychotherapist, meets Tamara, and traces Vladimir via camera footage",
+     "number_verified": false
+    },
+    {
+     "episode": "Part 3 — Grigory's secret",
+     "air_date": "2019",
+     "gist": "She learns Grigory used another name, left debts and faked his death, and that he is the father of the baby; Vladimir helps her when she is attacked",
+     "number_verified": false
+    },
+    {
+     "episode": "Part 4 — outcome",
+     "air_date": "2019",
+     "gist": "Lyudmila is accused of Grigory's death, Vladimir's son is kidnapped and rescued; 7 months later she gives birth to a girl and accepts Vladimir's proposal",
+     "number_verified": false
+    }
+   ],
+   "kids_status": "no prior children stated",
+   "kids_note": "Couple dreamed of a child; none mentioned before.",
+   "kids_together": "yes — a daughter (with Grigory); Vladimir's son Dima becomes her step-sibling",
+   "married": "engaged to Vladimir (proposal accepted)",
+   "pregnant_end": "yes",
+   "evidence": "kinofilmpro plot + ivi synopsis + TVmaze cast",
+   "adult": "yes",
+   "format": "tv",
+   "categories": [
+    "pregnant-variants",
+    "medical",
+    "index-57"
+   ],
+   "sources": [
+    {
+     "label": "kinofilmpro.ru — part-by-part plot",
+     "url": "https://kinofilmpro.ru/serialyi/soderzhanie/utrachennye-vospominaniya-2019"
+    },
+    {
+     "label": "ivi — Lost Memories (synopsis mentions hypnosis session)",
+     "url": "https://www.ivi.tv/en/watch/utrachennyie-vospominaniya"
+    },
+    {
+     "label": "TVmaze — Утраченные воспоминания (cast, psychotherapist role)",
+     "url": "https://www.tvmaze.com/shows/44992/utracennye-vospominania"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypno-pregnant-yt-oct25"
+   ],
+   "source_records": [
+    "hypno-pregnant-yt-oct25:6"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-pregnant-yt-oct25:6": {
+     "title": "Утраченные воспоминания (Lost Memories)",
+     "year": "2019",
+     "format": "tv",
+     "standalone": true,
+     "meta": "Mini-series (4 parts) · Ukraine · Russian · channel Ukraina · melodrama",
+     "mechanism": "Hypnosis session with a psychotherapist to recover lost memories (clinical/therapeutic)",
+     "categories": [
+      "pregnant-variants",
+      "medical",
+      "index-57"
+     ],
+     "summary": "After her husband Grigory's apparent death, Lyudmila (Ekaterina Astakhova) loses her memory of a stretch of time and finds out about 1.5 months later that she is pregnant. A hypnosis session is used to recover the missing memories. She learns Grigory lived under a false name, faked his death and is the father; she later gives birth to a daughter and accepts a proposal from Vladimir.",
+     "character": "Lyudmila (Ekaterina Astakhova); psychotherapist (Igor Salimonov)",
+     "episodes": [
+      {
+       "episode": "Part 1 — husband's death",
+       "air_date": "2019",
+       "gist": "Lyudmila's husband Grigory is reported dead after a fishing trip; after the funeral she walks to the lake and wakes up in hospital with no memory of the interval; a psychotherapist appears in this part",
+       "number_verified": false
+      },
+      {
+       "episode": "Part 2 — pregnancy",
+       "air_date": "2019",
+       "gist": "About 1.5 months later a gynaecologist tells her she is pregnant although she had no intimacy for over 3 months; she sees a psychotherapist, meets Tamara, and traces Vladimir via camera footage",
+       "number_verified": false
+      },
+      {
+       "episode": "Part 3 — Grigory's secret",
+       "air_date": "2019",
+       "gist": "She learns Grigory used another name, left debts and faked his death, and that he is the father of the baby; Vladimir helps her when she is attacked",
+       "number_verified": false
+      },
+      {
+       "episode": "Part 4 — outcome",
+       "air_date": "2019",
+       "gist": "Lyudmila is accused of Grigory's death, Vladimir's son is kidnapped and rescued; 7 months later she gives birth to a girl and accepts Vladimir's proposal",
+       "number_verified": false
+      }
+     ],
+     "note": "The hypnosis session is stated in the ivi/search synopsis; the part guide (kinofilmpro) does not name the part in which it occurs. Visible pregnancy is not stated (early weeks at diagnosis), so this is a loose fit for 'visibly pregnant'. No prior children for Lyudmila are mentioned; the couple had wished for a child.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Gives birth to a daughter (Grigory is the father).",
+     "pregnancy_note": "Pregnant at the time of the hypnosis session; not stated as visibly showing.",
+     "kids_together": "yes — a daughter (with Grigory); Vladimir's son Dima becomes her step-sibling",
+     "kids_status": "no prior children stated",
+     "kids_note": "Couple dreamed of a child; none mentioned before.",
+     "married": "engaged to Vladimir (proposal accepted)",
+     "sources": [
+      {
+       "label": "kinofilmpro.ru — part-by-part plot",
+       "url": "https://kinofilmpro.ru/serialyi/soderzhanie/utrachennye-vospominaniya-2019"
+      },
+      {
+       "label": "ivi — Lost Memories (synopsis mentions hypnosis session)",
+       "url": "https://www.ivi.tv/en/watch/utrachennyie-vospominaniya"
+      },
+      {
+       "label": "TVmaze — Утраченные воспоминания (cast, psychotherapist role)",
+       "url": "https://www.tvmaze.com/shows/44992/utracennye-vospominania"
+      }
+     ],
+     "evidence": "kinofilmpro plot + ivi synopsis + TVmaze cast",
+     "confidence_flag": "Loose fit · 3 sources, but visible pregnancy at hypnosis not stated",
+     "provenance": "Visibly-pregnant hypnosis max-list sweep, 25 Oct 2026 PT (YouTube metadata/captions via yt-dlp, thumbnails; adults only; clinical wording)",
+     "group": "Visibly-pregnant hypnotised women sweep (Oct 2026)",
+     "adult": "yes"
+    }
+   }
+  },
+  {
+   "id": 3588,
+   "title": "亡夫假面 (The Late Husband's Mask)",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "Short drama (microdrama) · Mainland China · Mandarin · 32 episodes",
+   "mechanism": "Hypnosis used to mislead the heroine (details not stated in the listing)",
+   "confidence_flag": "Loose fit · 2 listing-level sources; no episode detail",
+   "summary": "Lin Shu becomes pregnant unexpectedly two years after her husband's apparent death. Hypnosis misleads her into blaming her rescuer Fu Zexu; a paternity test clears him, and the two investigate and find the husband faked his death.",
+   "character": "Lin Shu; Fu Zexu",
+   "provenance": "Visibly-pregnant hypnosis max-list sweep, 25 Oct 2026 PT (YouTube metadata/captions via yt-dlp, thumbnails; adults only; clinical wording)",
+   "note": "Only listing-level synopses were available (two streaming-index sites). Hypnotised-while-pregnant is not confirmed per episode and visible pregnancy is not stated, so this is a loose fit. Prior children not mentioned. Husband is the presumed father; the rescuer is cleared by the paternity test.",
+   "pregnancy_outcome": "Not stated.",
+   "pregnancy_note": "Pregnant two years after husband's 'death'; visibility not stated.",
+   "episodes": [
+    {
+     "episode": "Episodes not itemised (32-episode series)",
+     "air_date": "2026",
+     "gist": "Listings give only the overall plot: unexpected pregnancy, hypnosis-based misunderstanding, paternity test, husband's faked death",
+     "number_verified": false
+    }
+   ],
+   "kids_status": "not stated",
+   "kids_note": "Not stated.",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "yes (pregnant in the plot)",
+   "evidence": "Two streaming-index synopses",
+   "adult": "yes (adult characters)",
+   "format": "vertical series",
+   "categories": [
+    "pregnant-variants",
+    "index-57",
+    "human"
+   ],
+   "sources": [
+    {
+     "label": "yuny.one — 亡夫假面 listing",
+     "url": "https://www.yuny.one/videoDetail/176034"
+    },
+    {
+     "label": "jyys.one — 亡夫假面 listing",
+     "url": "https://www.jyys.one/film/176054-mr-0"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypno-pregnant-yt-oct25"
+   ],
+   "source_records": [
+    "hypno-pregnant-yt-oct25:7"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypno-pregnant-yt-oct25:7": {
+     "title": "亡夫假面 (The Late Husband's Mask)",
+     "year": "2026",
+     "format": "vertical series",
+     "standalone": true,
+     "meta": "Short drama (microdrama) · Mainland China · Mandarin · 32 episodes",
+     "mechanism": "Hypnosis used to mislead the heroine (details not stated in the listing)",
+     "categories": [
+      "pregnant-variants",
+      "index-57",
+      "human"
+     ],
+     "summary": "Lin Shu becomes pregnant unexpectedly two years after her husband's apparent death. Hypnosis misleads her into blaming her rescuer Fu Zexu; a paternity test clears him, and the two investigate and find the husband faked his death.",
+     "character": "Lin Shu; Fu Zexu",
+     "episodes": [
+      {
+       "episode": "Episodes not itemised (32-episode series)",
+       "air_date": "2026",
+       "gist": "Listings give only the overall plot: unexpected pregnancy, hypnosis-based misunderstanding, paternity test, husband's faked death",
+       "number_verified": false
+      }
+     ],
+     "note": "Only listing-level synopses were available (two streaming-index sites). Hypnotised-while-pregnant is not confirmed per episode and visible pregnancy is not stated, so this is a loose fit. Prior children not mentioned. Husband is the presumed father; the rescuer is cleared by the paternity test.",
+     "pregnant_end": "yes (pregnant in the plot)",
+     "pregnancy_outcome": "Not stated.",
+     "pregnancy_note": "Pregnant two years after husband's 'death'; visibility not stated.",
+     "kids_together": "not stated",
+     "kids_status": "not stated",
+     "kids_note": "Not stated.",
+     "married": "not stated",
+     "sources": [
+      {
+       "label": "yuny.one — 亡夫假面 listing",
+       "url": "https://www.yuny.one/videoDetail/176034"
+      },
+      {
+       "label": "jyys.one — 亡夫假面 listing",
+       "url": "https://www.jyys.one/film/176054-mr-0"
+      }
+     ],
+     "evidence": "Two streaming-index synopses",
+     "confidence_flag": "Loose fit · 2 listing-level sources; no episode detail",
+     "provenance": "Visibly-pregnant hypnosis max-list sweep, 25 Oct 2026 PT (YouTube metadata/captions via yt-dlp, thumbnails; adults only; clinical wording)",
+     "group": "Visibly-pregnant hypnotised women sweep (Oct 2026)",
+     "adult": "yes (adult characters)"
+    }
+   }
   }
  ],
  "sections": [
@@ -516908,7 +517678,8 @@ window.CATALOG = {
     "youtube-india-oct15",
     "weekly-oct19",
     "deep-oct20",
-    "deep-oct24"
+    "deep-oct24",
+    "hypno-pregnant-yt-oct25"
    ],
    "groups": [
     {
@@ -521352,6 +522123,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-oct24"
+    },
+    {
+     "title": "Visibly-pregnant hypnotised women sweep (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3588,
+       "from_source": "hypno-pregnant-yt-oct25"
+      }
+     ],
+     "from_source": "hypno-pregnant-yt-oct25"
     }
    ],
    "declared_count_by_source": {
@@ -521385,7 +522167,8 @@ window.CATALOG = {
     "youtube-india-oct15": null,
     "weekly-oct19": null,
     "deep-oct20": null,
-    "deep-oct24": null
+    "deep-oct24": null,
+    "hypno-pregnant-yt-oct25": null
    }
   },
   {
@@ -523856,7 +524639,8 @@ window.CATALOG = {
     "deep-refresh-oct18",
     "deep-oct24",
     "hypnosis-deep-oct25",
-    "hypnosis-deep-oct25b"
+    "hypnosis-deep-oct25b",
+    "hypno-pregnant-yt-oct25"
    ],
    "groups": [
     {
@@ -524820,6 +525604,33 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-deep-oct25b"
+    },
+    {
+     "title": "Visibly-pregnant hypnotised women sweep (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3585,
+       "from_source": "hypno-pregnant-yt-oct25"
+      },
+      {
+       "id": 3582,
+       "from_source": "hypno-pregnant-yt-oct25"
+      },
+      {
+       "id": 3583,
+       "from_source": "hypno-pregnant-yt-oct25"
+      },
+      {
+       "id": 3586,
+       "from_source": "hypno-pregnant-yt-oct25"
+      },
+      {
+       "id": 3584,
+       "from_source": "hypno-pregnant-yt-oct25"
+      }
+     ],
+     "from_source": "hypno-pregnant-yt-oct25"
     }
    ],
    "declared_count_by_source": {
@@ -524842,7 +525653,8 @@ window.CATALOG = {
     "deep-refresh-oct18": null,
     "deep-oct24": null,
     "hypnosis-deep-oct25": null,
-    "hypnosis-deep-oct25b": null
+    "hypnosis-deep-oct25b": null,
+    "hypno-pregnant-yt-oct25": null
    }
   },
   {
@@ -529442,7 +530254,8 @@ window.CATALOG = {
     "weekly-oct19",
     "deep-oct24",
     "hypnosis-deep-oct25",
-    "hypnosis-deep-oct25b"
+    "hypnosis-deep-oct25b",
+    "hypno-pregnant-yt-oct25"
    ],
    "groups": [
     {
@@ -531082,6 +531895,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypnosis-deep-oct25b"
+    },
+    {
+     "title": "Visibly-pregnant hypnotised women sweep (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3587,
+       "from_source": "hypno-pregnant-yt-oct25"
+      }
+     ],
+     "from_source": "hypno-pregnant-yt-oct25"
     }
    ],
    "declared_count_by_source": {
@@ -531120,7 +531944,8 @@ window.CATALOG = {
     "weekly-oct19": null,
     "deep-oct24": null,
     "hypnosis-deep-oct25": null,
-    "hypnosis-deep-oct25b": null
+    "hypnosis-deep-oct25b": null,
+    "hypno-pregnant-yt-oct25": null
    }
   },
   {
@@ -536516,11 +537341,13 @@ window.CATALOG = {
    "notes": [],
    "from_sources": [
     "ig6qlxqxoxvcxla",
-    "pregnancy-yt-oct15"
+    "pregnancy-yt-oct15",
+    "hypno-pregnant-yt-oct25"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 3,
-    "pregnancy-yt-oct15": null
+    "pregnancy-yt-oct15": null,
+    "hypno-pregnant-yt-oct25": null
    },
    "groups": [
     {
@@ -536549,6 +537376,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "pregnancy-yt-oct15"
+    },
+    {
+     "title": "Visibly-pregnant hypnotised women sweep (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3587,
+       "from_source": "hypno-pregnant-yt-oct25"
+      },
+      {
+       "id": 3588,
+       "from_source": "hypno-pregnant-yt-oct25"
+      }
+     ],
+     "from_source": "hypno-pregnant-yt-oct25"
     }
    ]
   },
@@ -538205,12 +539047,14 @@ window.CATALOG = {
    "from_sources": [
     "round3",
     "youtube-deep-oct15",
-    "youtube-india-oct15"
+    "youtube-india-oct15",
+    "hypno-pregnant-yt-oct25"
    ],
    "declared_count_by_source": {
     "round3": null,
     "youtube-deep-oct15": null,
-    "youtube-india-oct15": null
+    "youtube-india-oct15": null,
+    "hypno-pregnant-yt-oct25": null
    },
    "groups": [
     {
@@ -538249,6 +539093,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "youtube-india-oct15"
+    },
+    {
+     "title": "Visibly-pregnant hypnotised women sweep (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3587,
+       "from_source": "hypno-pregnant-yt-oct25"
+      },
+      {
+       "id": 3588,
+       "from_source": "hypno-pregnant-yt-oct25"
+      }
+     ],
+     "from_source": "hypno-pregnant-yt-oct25"
     }
    ]
   },
@@ -541520,7 +542379,8 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "round3",
-    "recheck-oct14"
+    "recheck-oct14",
+    "hypno-pregnant-yt-oct25"
    ],
    "groups": [
     {
@@ -541819,11 +542679,39 @@ window.CATALOG = {
       }
      ],
      "from_source": "recheck-oct14"
+    },
+    {
+     "title": "Visibly-pregnant hypnotised women sweep (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3585,
+       "from_source": "hypno-pregnant-yt-oct25"
+      },
+      {
+       "id": 3582,
+       "from_source": "hypno-pregnant-yt-oct25"
+      },
+      {
+       "id": 3583,
+       "from_source": "hypno-pregnant-yt-oct25"
+      },
+      {
+       "id": 3586,
+       "from_source": "hypno-pregnant-yt-oct25"
+      },
+      {
+       "id": 3584,
+       "from_source": "hypno-pregnant-yt-oct25"
+      }
+     ],
+     "from_source": "hypno-pregnant-yt-oct25"
     }
    ],
    "declared_count_by_source": {
     "round3": null,
-    "recheck-oct14": null
+    "recheck-oct14": null,
+    "hypno-pregnant-yt-oct25": null
    }
   },
   {
@@ -542878,11 +543766,13 @@ window.CATALOG = {
    "notes": [],
    "from_sources": [
     "ig6qlxqxoxvcxla",
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "hypno-pregnant-yt-oct25"
    ],
    "declared_count_by_source": {
     "ig6qlxqxoxvcxla": 10,
-    "hypnosis-assault-loose": null
+    "hypnosis-assault-loose": null,
+    "hypno-pregnant-yt-oct25": null
    },
    "groups": [
     {
@@ -542986,6 +543876,33 @@ window.CATALOG = {
       }
      ],
      "from_source": "ig6qlxqxoxvcxla"
+    },
+    {
+     "title": "Visibly-pregnant hypnotised women sweep (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3585,
+       "from_source": "hypno-pregnant-yt-oct25"
+      },
+      {
+       "id": 3582,
+       "from_source": "hypno-pregnant-yt-oct25"
+      },
+      {
+       "id": 3583,
+       "from_source": "hypno-pregnant-yt-oct25"
+      },
+      {
+       "id": 3586,
+       "from_source": "hypno-pregnant-yt-oct25"
+      },
+      {
+       "id": 3584,
+       "from_source": "hypno-pregnant-yt-oct25"
+      }
+     ],
+     "from_source": "hypno-pregnant-yt-oct25"
     }
    ]
   },

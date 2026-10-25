@@ -176,6 +176,8 @@ SOURCES = [
      "local": "sources/hypnosis-deep-oct25.json", "required": False},
     {"id": "hypnosis-deep-oct25b", "label": "Deep multilingual Wikipedia plot crawl, batch 2 (25 Oct 2026)",
      "local": "sources/hypnosis-deep-oct25b.json", "required": False},
+    {"id": "hypno-pregnant-yt-oct25", "label": "Visibly-pregnant hypnotised women, YouTube-led worldwide sweep (25 Oct 2026)",
+     "local": "sources/hypno-pregnant-yt-oct25.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "

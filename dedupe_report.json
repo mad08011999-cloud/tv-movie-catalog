@@ -47560,11 +47560,12 @@
   "hypno-india-oct24": 4,
   "hypnosis-imdb-list-oct24": 61,
   "hypnosis-deep-oct25": 132,
-  "hypnosis-deep-oct25b": 41
+  "hypnosis-deep-oct25b": 41,
+  "hypno-pregnant-yt-oct25": 7
  },
- "entry_count_after_dedupe": 3442,
+ "entry_count_after_dedupe": 3449,
  "within_source_groups": 6,
  "cross_source_groups": 1926,
  "index_only_records": 59,
- "local_only_records": 1143
+ "local_only_records": 1150
 }
