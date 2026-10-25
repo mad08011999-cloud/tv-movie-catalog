@@ -166,6 +166,8 @@ SOURCES = [
      "local": "sources/weekly-oct19.json", "required": False},
     {"id": "deep-oct20", "label": "Deep round (20 Oct 2026)",
      "local": "sources/deep-oct20.json", "required": False},
+    {"id": "deep-oct24", "label": "Deep round (24 Oct 2026)",
+     "local": "sources/deep-oct24.json", "required": False},
     {"id": "hypno-india-oct24", "label": "Indian-media female-hypnosis max-list sweep (24 Oct 2026)",
      "local": "sources/hypno-india-oct24.json", "required": False},
 ]

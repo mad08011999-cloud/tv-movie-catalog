@@ -1,0 +1,2759 @@
+{
+ "id": "deep-oct24",
+ "label": "Deep round (24 Oct 2026)",
+ "group_title": "Deep round — 24 Oct 2026",
+ "description": "Worldwide deep round, 24 Oct 2026 PT: episode-level hypnotized-woman scenes from series and soaps (mostly from Mental Block wiki episode summaries, plus Wikipedia). Only scenes or episodes not already in the catalog. Adults only; notes are non-explicit. Pregnancy and kids are 'not stated' where the episode summary does not say.",
+ "category_labels": {},
+ "records": [
+  {
+   "title": "Gotham — \"Mad City: Look Into My Eyes\"",
+   "year": "2016",
+   "format": "tv",
+   "meta": "TV episode · USA (Fox) · S3E3 · 3 Oct 2016 · Gotham",
+   "character": "Barbara Kean",
+   "summary": "At his Sirens nightclub show Jervis Tetch hypnotizes volunteers; in a second show he makes Barbara Kean kiss him in front of her partner Tabitha. Elsewhere in the episode he hypnotizes a husband into killing his wife and himself.",
+   "hypnotist": "Jervis Tetch (hypnotist, the future Mad Hatter)",
+   "method": "Stage hypnosis show at Sirens nightclub, then trigger words",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "other (obsession / control)"
+   ],
+   "categories": [
+    "other-control",
+    "human"
+   ],
+   "tags": [
+    "deep-oct24"
+   ],
+   "already_married": "no",
+   "already_married_note": "no (club owner, not married)",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "No children for Barbara in the episode.",
+   "kids_together": "not stated",
+   "kids_together_note": "No children shown for Barbara in the episode.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Gotham (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Gotham_(TV_series)"
+    },
+    {
+     "label": "Wikipedia: Look into My Eyes (Gotham)",
+     "url": "https://en.wikipedia.org/wiki/Look_into_My_Eyes_(Gotham)"
+    }
+   ],
+   "evidence": "2+ sources (Wikipedia plot summary, Mental Block wiki)",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "standalone": true
+  },
+  {
+   "title": "Batwoman — \"Arrive Alive\"",
+   "year": "2021",
+   "format": "tv",
+   "meta": "TV episode · USA (The CW) · S2E11 · 2021 · Batwoman",
+   "character": "Alice (Beth Kane)",
+   "summary": "Alice agrees to a hypnosis session with Dr. Evelyn Rhyme to unlock buried memories. The session is consensual but hypnosis is the episode's central device for her.",
+   "hypnotist": "Dr. Evelyn Rhyme (hypnotherapist)",
+   "method": "Hypnotherapy session sought by Alice herself",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "other (memory recovery)"
+   ],
+   "categories": [
+    "medical",
+    "other-control"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "no",
+   "already_married_note": "no",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "No children for Alice in the episode.",
+   "kids_together": "not stated",
+   "kids_together_note": "No children shown.",
+   "sources": [
+    {
+     "label": "Batwoman wiki (Arrowverse fandom): Evelyn Rhyme",
+     "url": "https://arrow.fandom.com/wiki/Evelyn_Rhyme"
+    },
+    {
+     "label": "Wikipedia: Batwoman season 2",
+     "url": "https://en.wikipedia.org/wiki/Batwoman_season_2"
+    }
+   ],
+   "evidence": "2+ sources (episode recaps, fandom wiki)",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Loose fit: voluntary therapeutic hypnosis rather than coercion.",
+   "standalone": true
+  },
+  {
+   "title": "Viper — \"Forget-Me-Not\"",
+   "year": "1997",
+   "format": "tv",
+   "meta": "TV episode · USA (NBC/syndication) · S2E14 · 8 Feb 1997 · Viper",
+   "character": "Gwen Reardon (nerve-gas researcher)",
+   "summary": "Terrorists kidnap and brainwash research scientist Gwen Reardon into stealing a nerve-gas compound, force her to read a statement, and re-trigger her to lure her out of the Viper safehouse. The team uses its tech to free her mind.",
+   "hypnotist": "Terrorist group",
+   "method": "Kidnapping, brainwashing with a flashing-headlight trigger",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "crime (terrorism)"
+   ],
+   "categories": [
+    "crime",
+    "tech"
+   ],
+   "tags": [
+    "deep-oct24"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Viper (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Viper"
+    },
+    {
+     "label": "TheTVDB: Viper episode",
+     "url": "https://thetvdb.com/series/viper/episodes/34299"
+    },
+    {
+     "label": "Wunschliste: Viper episode",
+     "url": "https://www.wunschliste.de/episode/80620"
+    }
+   ],
+   "evidence": "2+ sources (Mental Block wiki, TheTVDB, Wunschliste)",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "note": "Mental Block labels this 'Season 1, Episode 14'; TheTVDB and others list it as S2E14.",
+   "standalone": true
+  },
+  {
+   "title": "Scarecrow and Mrs. King — \"Playing Possum\"",
+   "year": "1983",
+   "format": "tv",
+   "meta": "TV episode · USA (CBS) · S2E10 · Scarecrow and Mrs. King",
+   "character": "Amanda King",
+   "summary": "While Billy is missing and a nuclear plot looms, Amanda undergoes hypnosis to recall the details of an important conversation and falls into a trance.",
+   "hypnotist": "Spy handler / Soviet contact (hypnosis to recall a conversation)",
+   "method": "Hypnosis to recall a key conversation",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "other (memory recovery)"
+   ],
+   "categories": [
+    "medical",
+    "crime"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "no",
+   "already_married_note": "no (divorced at this point in the series)",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "yes",
+   "kids_note": "Amanda has two sons (Philip and Jamie).",
+   "kids_together": "no",
+   "kids_together_note": "No child with Lee in the series.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Scarecrow and Mrs. King (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Scarecrow_and_Mrs._King"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Loose fit: therapeutic hypnosis, not coercion.",
+   "standalone": true
+  },
+  {
+   "title": "Hawaii Five-O — \"The Sleeper\"",
+   "year": "1978",
+   "format": "tv",
+   "meta": "TV episode · USA (CBS) · S11E1 · Hawaii Five-O",
+   "character": "Sonya Hansen (Marsh Foundation researcher)",
+   "summary": "Dr. Rathman, the foundation head and a spy, brainwashes researcher Sonya Hansen to carry out killings for him while Five-O investigates.",
+   "hypnotist": "Dr. Karl Rathman (head of the Marsh Foundation)",
+   "method": "Experimental brainwashing / programming",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "crime (espionage)"
+   ],
+   "categories": [
+    "crime",
+    "tech"
+   ],
+   "tags": [
+    "deep-oct24"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Hawaii Five-O (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Hawaii_Five-O"
+    },
+    {
+     "label": "Five-O home page: S11E1 plot",
+     "url": "http://www.fiveohomepage.com/season11/s11e01-plot.htm"
+    }
+   ],
+   "evidence": "2+ sources (Five-O episode guide, Mental Block wiki)",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "standalone": true
+  },
+  {
+   "title": "Hawaii Five-O — \"A Bullet for McGarrett\"",
+   "year": "1969",
+   "format": "tv",
+   "meta": "TV episode · USA (CBS) · S2E6 · Hawaii Five-O",
+   "character": "Karen/Sheila (student assassin); Joyce Bennett (policewoman)",
+   "summary": "Professor Farrar hypnotizes students into killing and then themselves. He identifies undercover policewoman Joyce Bennett and hypnotizes her into shooting McGarrett.",
+   "hypnotist": "Dr. Paul Farrar (psychology professor, Wo Fat's agent)",
+   "method": "Hypnosis with planted-gun trigger",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "crime (espionage)"
+   ],
+   "categories": [
+    "crime",
+    "other-control"
+   ],
+   "tags": [
+    "deep-oct24"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Hawaii Five-O (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Hawaii_Five-O"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "single source",
+   "standalone": true
+  },
+  {
+   "title": "Hunter (1977) — \"The Lysenko Syndrome\"",
+   "year": "1977",
+   "format": "tv",
+   "meta": "TV episode · USA (CBS) · S1E3 · Hunter",
+   "character": "Marty (niece of Admiral Young)",
+   "summary": "A scientist who brainwashes sleeper assassins stages a car crash, takes Marty to his lab and programs her to kill her uncle. They test her programming by sending her into a trance at the Hollywood Bowl before Hunter steps in.",
+   "hypnotist": "A mad scientist and his henchmen",
+   "method": "Kidnapped after a staged crash, then programmed to kill her uncle",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "crime (assassination)"
+   ],
+   "categories": [
+    "crime",
+    "tech"
+   ],
+   "tags": [
+    "deep-oct24"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Hunter (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Hunter_(1977_TV_Series)"
+    },
+    {
+     "label": "Archytele: Hunter (1977) S1E3",
+     "url": "https://archytele.com/show/hunter-1977/s1e3"
+    }
+   ],
+   "evidence": "2+ sources (Archytele, Mental Block wiki)",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "standalone": true
+  },
+  {
+   "title": "Danger Man — \"The Relaxed Informer\"",
+   "year": "1961",
+   "format": "tv",
+   "meta": "TV episode · UK (ITV) · S1E24 · Danger Man",
+   "character": "Ruth (government translator)",
+   "summary": "A trusted government translator is hypnotized into reciting confidential information onto recordings. John Drake traces the scheme to an idyllic Bavarian cult that is the spies' base.",
+   "hypnotist": "Foreign spies in a Bavarian cult",
+   "method": "Spoken trigger words and hypnotic trance",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "crime (espionage)"
+   ],
+   "categories": [
+    "crime",
+    "cult"
+   ],
+   "tags": [
+    "deep-oct24"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "not stated",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Danger Man (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Danger_Man"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "single source",
+   "standalone": true
+  },
+  {
+   "title": "Murderous Trance (The Guardian Angel)",
+   "year": "2018",
+   "format": "movie",
+   "meta": "Psychological thriller · Finland/Denmark/Croatia · based on the 1950s Danish hypnosis murders",
+   "character": "Marie (young wife of investigator Anders Olsen)",
+   "summary": "The investigator suspects Nielsen hypnotized a fellow inmate into a bank robbery, while Nielsen secretly befriends the investigator's young wife Marie. The wife's role is secondary, so this is a loose fit.",
+   "hypnotist": "Bjørn Schouw Nielsen (charismatic prisoner)",
+   "method": "Long-term suggestion / hypnotic influence",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "other (manipulation)"
+   ],
+   "categories": [
+    "crime",
+    "wife"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "yes",
+   "already_married_note": "yes (investigator's wife)",
+   "pregnant_end": "no",
+   "pregnancy_note": "Not stated; no pregnancy mentioned in the plot summary.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Wikipedia: Murderous Trance",
+     "url": "https://en.wikipedia.org/wiki/Murderous_Trance"
+    },
+    {
+     "label": "IMDb: Murderous Trance",
+     "url": "https://www.imdb.com/title/tt6353036/"
+    }
+   ],
+   "evidence": "2+ sources (Wikipedia, IMDb)",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Loose fit: the hypnosis victim is mainly the male prisoner; the wife is befriended by the hypnotist.",
+   "standalone": true
+  },
+  {
+   "title": "Hart to Hart — \"Hart of Diamonds\"",
+   "year": "1982",
+   "format": "tv",
+   "meta": "TV episode · USA (ABC) · Hart to Hart",
+   "character": "Jennifer Hart (wife of Jonathan)",
+   "summary": "Jennifer is secretly being hypnotized by the owner of a day spa into stealing valuable jewelry from her friends. Jonathan finds her sneaking out of the house in a trance-like state and works out who is behind it.",
+   "hypnotist": "Owner of a day spa (played by Capucine)",
+   "method": "Secret hypnosis sessions",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "money (jewel theft)"
+   ],
+   "categories": [
+    "wife-hypnotized",
+    "crime"
+   ],
+   "tags": [
+    "deep-oct24"
+   ],
+   "already_married": "yes",
+   "already_married_note": "yes (Jonathan Hart's wife)",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "no",
+   "kids_note": "No children in the series.",
+   "kids_together": "no",
+   "kids_together_note": "No children shown.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Hart to Hart (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Hart_to_Hart"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "single source",
+   "note": "Kids status reflects the series premise (the Harts have no children).",
+   "standalone": true
+  },
+  {
+   "title": "Magnum, P.I. — \"Ms. Jones\"",
+   "year": "",
+   "format": "tv",
+   "meta": "TV episode · USA (CBS) · Magnum, P.I.",
+   "character": "Madeline Jones (records clerk, wife)",
+   "summary": "Records clerk Madeline Jones asks Magnum to find her missing husband. Higgins hypnotizes her to recall details that help the search.",
+   "hypnotist": "Higgins (to recall information)",
+   "method": "Hypnosis to recall details",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "other (memory recovery)"
+   ],
+   "categories": [
+    "medical",
+    "wife-hypnotized"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "yes",
+   "already_married_note": "yes (missing husband)",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Magnum, PI (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Magnum,_PI"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Loose fit: helpful hypnosis, not coercion. Year not confirmed in the source.",
+   "standalone": true
+  },
+  {
+   "title": "Magnum, P.I. — \"Missing in Action\"",
+   "year": "",
+   "format": "tv",
+   "meta": "TV episode · USA (CBS) · Magnum, P.I.",
+   "character": "Rebecca Holden's character (club singer)",
+   "summary": "A club singer hires Magnum to find her missing fiancé, a soldier who disappeared in Vietnam in 1972, and is hypnotized to remember more details.",
+   "hypnotist": "Hypnotist (to recall details)",
+   "method": "Hypnosis to recall details",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "other (memory recovery)"
+   ],
+   "categories": [
+    "medical",
+    "other-control"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "no",
+   "already_married_note": "no (engaged)",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Magnum, PI (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Magnum,_PI"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Loose fit: voluntary hypnosis for memory recovery. Year not confirmed in the source.",
+   "standalone": true
+  },
+  {
+   "title": "Lois & Clark: The New Adventures of Superman — \"Oedipus Wrecks\"",
+   "year": "",
+   "format": "tv",
+   "meta": "TV episode · USA (ABC) · Lois & Clark",
+   "character": "Lois Lane",
+   "summary": "The doctor treating Lois's memory loss is actually hypnotizing her into falling in love with him; she listens to his soothing voice and is unable to resist his commands.",
+   "hypnotist": "A doctor treating her memory loss",
+   "method": "Hypnotic suggestion during therapy",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "love / obsession"
+   ],
+   "categories": [
+    "love",
+    "doctor-gain"
+   ],
+   "tags": [
+    "deep-oct24"
+   ],
+   "already_married": "no",
+   "already_married_note": "no (not yet married to Clark)",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Lois and Clark: The New Adventures of Superman (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Lois_and_Clark:_The_New_Adventures_of_Superman"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "single source",
+   "note": "Lois and Clark marry later in the series; no pregnancy in this episode. Year not confirmed in the source.",
+   "standalone": true
+  },
+  {
+   "title": "Lois & Clark: The New Adventures of Superman — \"Target: Jimmy Olsen\"",
+   "year": "1995",
+   "format": "tv",
+   "meta": "TV episode · USA (ABC) · Lois & Clark",
+   "character": "Sarah (Jimmy Olsen's girlfriend)",
+   "summary": "Jimmy Olsen and his new girlfriend Sarah are turned into brainwashed assassins and sent to kill Lois and Clark.",
+   "hypnotist": "Villains who brainwash her and Jimmy",
+   "method": "Brainwashing into an assassin",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "crime (assassination)"
+   ],
+   "categories": [
+    "crime",
+    "tech"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "no",
+   "already_married_note": "no",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Lois and Clark: The New Adventures of Superman (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Lois_and_Clark:_The_New_Adventures_of_Superman"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "standalone": true
+  },
+  {
+   "title": "Charmed — \"Ms. Hellfire\"",
+   "year": "1999",
+   "format": "tv",
+   "meta": "TV episode · USA (The WB) · S2E9 · Charmed",
+   "character": "Prue Halliwell",
+   "summary": "Prue goes undercover as a dead hitwoman; the demon Barbas catches her, hypnotizes her and tells her that her sisters are evil impostors. She is sent to kill Piper and Phoebe.",
+   "hypnotist": "The demon Barbas",
+   "method": "Hypnosis and mind takeover",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "power / revenge"
+   ],
+   "categories": [
+    "occult",
+    "other-control"
+   ],
+   "tags": [
+    "deep-oct24"
+   ],
+   "already_married": "no",
+   "already_married_note": "no",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "no",
+   "kids_note": "No children for Prue.",
+   "kids_together": "no",
+   "kids_together_note": "No children shown for Prue.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Charmed (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Charmed_(1998_TV_series)"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "single source",
+   "standalone": true
+  },
+  {
+   "title": "Chuck — \"Chuck Versus the Bullet Train\"",
+   "year": "2012",
+   "format": "tv",
+   "meta": "TV episode · USA (NBC) · S5E11 · Chuck",
+   "character": "Sarah Walker (Chuck's wife)",
+   "summary": "Quinn uses Sarah's imperfect Intersect to brainwash her into forgetting her life with Chuck, then orders her to kill him as her new handler.",
+   "hypnotist": "Rogue agent Nicholas Quinn",
+   "method": "Intersect-based brainwashing",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "crime (revenge)"
+   ],
+   "categories": [
+    "wife-hypnotized",
+    "tech"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "yes",
+   "already_married_note": "yes (Chuck's wife by this season)",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "No children shown before this episode.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated in this episode's summary.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Chuck (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Chuck"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Brainwashing/memory erasure rather than classic hypnosis.",
+   "standalone": true
+  },
+  {
+   "title": "The X-Files — \"The Red and the Black\"",
+   "year": "1998",
+   "format": "tv",
+   "meta": "TV episode · USA (Fox) · S5E15 · The X-Files",
+   "character": "Dana Scully",
+   "summary": "Scully undergoes hypnosis to recall her experiences on the bridge where a group of abductees was burned alive.",
+   "hypnotist": "A therapist",
+   "method": "Hypnotic regression",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "other (memory recovery)"
+   ],
+   "categories": [
+    "medical",
+    "other-control"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "no",
+   "already_married_note": "no",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "no",
+   "kids_note": "No children at this point.",
+   "kids_together": "not stated",
+   "kids_together_note": "Scully later has a son (William) in the series; not part of this episode.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: The X Files (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/The_X_Files"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Loose fit: therapeutic hypnosis.",
+   "standalone": true
+  },
+  {
+   "title": "Painkiller Jane — \"Something Nasty in the Neighborhood\"",
+   "year": "2007",
+   "format": "tv",
+   "meta": "TV episode · USA/Canada (Sci Fi) · Painkiller Jane",
+   "character": "Jane Vasko",
+   "summary": "Posing as a married couple with Connor in an exclusive town, Jane soon falls under the hypnotic spell of the people they are investigating.",
+   "hypnotist": "Suburban conspirators (hypnotic spell)",
+   "method": "Hypnotic spell in a gated community",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "crime / conspiracy"
+   ],
+   "categories": [
+    "occult",
+    "other-control"
+   ],
+   "tags": [
+    "deep-oct24"
+   ],
+   "already_married": "no",
+   "already_married_note": "no (undercover as a wife)",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Painkiller Jane (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Painkiller_Jane_(2007_TV_Series)"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "single source",
+   "standalone": true
+  },
+  {
+   "title": "Painkiller Jane — \"Jane 113\" / \"Endgame\"",
+   "year": "2007",
+   "format": "tv",
+   "meta": "TV episodes · USA/Canada (Sci Fi) · Painkiller Jane",
+   "character": "Jane Vasko",
+   "summary": "Dr. Roberts uses a flashing strobe to hypnotize Jane. In the finale a brainwashed Jane betrays her team.",
+   "hypnotist": "Dr. Roberts",
+   "method": "Strobe-light hypnosis and brainwashing",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "power / experiments"
+   ],
+   "categories": [
+    "tech",
+    "forced-obedience"
+   ],
+   "tags": [
+    "deep-oct24"
+   ],
+   "already_married": "no",
+   "already_married_note": "no",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Painkiller Jane (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Painkiller_Jane_(2007_TV_Series)"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "single source",
+   "standalone": true
+  },
+  {
+   "title": "666 Park Avenue — \"Hypnos\"",
+   "year": "2013",
+   "format": "tv",
+   "meta": "TV episode · USA (ABC) · S1E9 · 666 Park Avenue",
+   "character": "Jane Van Veen",
+   "summary": "Maris Elder uses hypnosis to help Jane link her past and present to The Drake building and what happened to Sasha Doran; Jane falls into a trance.",
+   "hypnotist": "Maris Elder (Whoopi Goldberg)",
+   "method": "Hypnotic regression",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "other (memory recovery)"
+   ],
+   "categories": [
+    "occult",
+    "medical"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "no",
+   "already_married_note": "no (living with Henry)",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: 666 Park Avenue (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/666_Park_Avenue"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Loose fit: regression hypnosis with a sinister building backdrop.",
+   "standalone": true
+  },
+  {
+   "title": "Adam Adamant Lives! — \"Sing a Song of Murder\"",
+   "year": "1966",
+   "format": "tv",
+   "meta": "TV episode · UK (BBC) · S1E9 · Adam Adamant Lives!",
+   "character": "Georgina (and her friends)",
+   "summary": "A sound engineer hides a hypnotic frequency in a pop record to make Georgina and her friends rob a bank.",
+   "hypnotist": "A sound engineer",
+   "method": "Hypnotic frequency hidden in a pop record",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "crime (bank robbery)"
+   ],
+   "categories": [
+    "crime",
+    "tech"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Adam Adamant Lives! (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Adam_Adamant_Lives!"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Georgina's age is not confirmed in the summary; treated as an adult secretary.",
+   "standalone": true
+  },
+  {
+   "title": "Adam Adamant Lives! — \"The League of Uncharitable Ladies\"",
+   "year": "1966",
+   "format": "tv",
+   "meta": "TV episode · UK (BBC) · S1E13 · Adam Adamant Lives!",
+   "character": "Members of the Gentle Women's Charity League",
+   "summary": "The leadership of a Pall Mall women's charity club hypnotizes its members into killers, who believe they are removing 'warmongers' but are really being used as assassins for hire.",
+   "hypnotist": "The club's leadership",
+   "method": "Group hypnosis programming",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "crime (assassination for hire)"
+   ],
+   "categories": [
+    "crime",
+    "cult"
+   ],
+   "tags": [
+    "deep-oct24"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Adam Adamant Lives! (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Adam_Adamant_Lives!"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "single source",
+   "standalone": true
+  },
+  {
+   "title": "Aída — \"El último Samur-ay\"",
+   "year": "2012",
+   "format": "tv",
+   "meta": "TV episode · Spain (Telecinco) · S9E15 · Aída",
+   "character": "Lorena",
+   "summary": "Paco learns hypnosis, aims at his friend and hypnotizes Lorena instead, who now believes she is a dog whenever her name is said; his attempts to reverse it make things worse.",
+   "hypnotist": "Paco (accidentally)",
+   "method": "Hypnosis gone wrong",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "comedy (accident)"
+   ],
+   "categories": [
+    "index-62",
+    "other-control"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Aida (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Aida"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Comedy episode; the hypnosis is accidental.",
+   "standalone": true
+  },
+  {
+   "title": "Alfred Hitchcock Presents (1985) — \"Wake Me When I'm Dead\"",
+   "year": "1985",
+   "format": "tv",
+   "meta": "TV episode · USA (NBC) · S1E3 · Alfred Hitchcock Presents",
+   "character": "Jessie (Barbara Hershey)",
+   "summary": "Hypnotized at a party to recall her past lives, Jessie seems to be possessed by a jealous 1846 woman called Martine and kills her husband. On trial, she blames Martine while the prosecutor says she invented it.",
+   "hypnotist": "A party hypnotist",
+   "method": "Past-life regression",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "other (possession / murder)"
+   ],
+   "categories": [
+    "occult",
+    "wife-hypnotized"
+   ],
+   "tags": [
+    "deep-oct24"
+   ],
+   "already_married": "yes",
+   "already_married_note": "yes (she kills her husband)",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "no",
+   "kids_together_note": "No children shown.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Alfred Hitchcock Presents (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Alfred_Hitchcock_Presents"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "single source",
+   "note": "Year approximate; this is the 1985 colour series.",
+   "standalone": true
+  },
+  {
+   "title": "Alfred Hitchcock Presents (1985) — \"Night Creatures\"",
+   "year": "1989",
+   "format": "tv",
+   "meta": "TV episode · USA (USA Network) · S4E17 · Alfred Hitchcock Presents",
+   "character": "Holly (reporter)",
+   "summary": "Reporter Holly interviews rock star Martin Lecross, discovers he is a real vampire, and is hypnotized by him while her friends try to save her.",
+   "hypnotist": "Martin Lecross (rock-star vampire)",
+   "method": "Seduction and hypnotic spell",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "blood / seduction"
+   ],
+   "categories": [
+    "vampire",
+    "occult"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "no",
+   "already_married_note": "no",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Alfred Hitchcock Presents (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Alfred_Hitchcock_Presents"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Year approximate (season 4 of the revived series).",
+   "standalone": true
+  },
+  {
+   "title": "Alyas Robin Hood — \"Mind Change\" / \"Changing Venus\"",
+   "year": "2011",
+   "format": "tv",
+   "meta": "TV episodes · Philippines (TV5/GMA) · Eps 78 and 88 · Alyas Robin Hood",
+   "character": "Venus",
+   "summary": "The Llama hypnotizes Venus and places her under his control, sends her to kill Pepe, and deepens her trance with a new trigger phrase after she fails.",
+   "hypnotist": "Jorel 'The Llama'",
+   "method": "Hypnosis with trigger phrase",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "crime (assassination)"
+   ],
+   "categories": [
+    "crime",
+    "forced-obedience"
+   ],
+   "tags": [
+    "deep-oct24"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Alyas Robin Hood (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Alyas_Robin_Hood"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "single source",
+   "standalone": true
+  },
+  {
+   "title": "Amor Mío — \"El Hipnotista\"",
+   "year": "2006",
+   "format": "tv",
+   "meta": "TV episode · Mexico · S1E73 · Amor Mío",
+   "character": "Abril (and Maggie's plot)",
+   "summary": "Mr. Mesmer makes volunteers Abril and Marcos fall in love as a gag, but the suggestions linger; Maggie also gets him to make Andres fall for her.",
+   "hypnotist": "Mr. Mesmer (stage hypnotist)",
+   "method": "Stage hypnosis gag",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "comedy / love"
+   ],
+   "categories": [
+    "love",
+    "index-62"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Amor Mío (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Amor_M%C3%ADo_(2006_Mexican_TV_series)"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Comedic episode.",
+   "standalone": true
+  },
+  {
+   "title": "C.I.D. — \"Aawaazin\" (Ep. 597)",
+   "year": "",
+   "format": "tv",
+   "meta": "TV episode · India (Sony) · C.I.D.",
+   "character": "Tarika (forensic scientist)",
+   "summary": "Forensic scientist Tarika moves into a new house where someone has secretly installed a system that hypnotizes her into trying to burn down the C.I.D. lab.",
+   "hypnotist": "Unknown villain",
+   "method": "Hidden hypnosis system installed in her new house",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "crime (sabotage)"
+   ],
+   "categories": [
+    "india-control",
+    "crime"
+   ],
+   "tags": [
+    "deep-oct24"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: C.I.D. (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/C.I.D._(1998_TV_Series)"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "single source",
+   "note": "Air year not confirmed. Year not confirmed in the source.",
+   "standalone": true
+  },
+  {
+   "title": "Charmed (2018) — \"You're Dead to Me\"",
+   "year": "2019",
+   "format": "tv",
+   "meta": "TV episode · USA (The CW) · S1E12 · Charmed",
+   "character": "Lucy",
+   "summary": "Lucy is revealed to be under Alastair's hypnotic control as she plots against the Charmed Ones.",
+   "hypnotist": "Alastair",
+   "method": "Hypnotic control",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "power (demonic plot)"
+   ],
+   "categories": [
+    "occult",
+    "other-control"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Charmed (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Charmed_(2018_TV_series)"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Lucy's age is not confirmed in the summary.",
+   "standalone": true
+  },
+  {
+   "title": "Detective Anna — hypnosis episodes (Adepts 1–2, The Prince 2, Ice, The Inventor of Death, Robespierre's Talisman)",
+   "year": "",
+   "format": "tv",
+   "meta": "TV series (multiple episodes) · Russia · Detective Anna (Detektiv Anna)",
+   "character": "Anna",
+   "summary": "Anna is hypnotized repeatedly across the series: by a Satanist cult leader (Adepts, The Prince), by an unseen killer who erases her memory (Ice), by bookstore friend Polina, and finally into stealing 'Robespierre's Talisman'.",
+   "hypnotist": "A Satanist cult leader; Polina; Andrey",
+   "method": "Hypnosis and memory erasure",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "crime / control"
+   ],
+   "categories": [
+    "crime",
+    "other-control"
+   ],
+   "tags": [
+    "deep-oct24"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Detective Anna (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Detective_Anna"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "single source",
+   "note": "Series-level summary of several S1–S2 episodes; years not confirmed. Year not confirmed in the source.",
+   "standalone": true
+  },
+  {
+   "title": "Gym Tony — \"Nieves hipnotizada\"",
+   "year": "",
+   "format": "tv",
+   "meta": "TV episode · Spain · Gym Tony",
+   "character": "Nieves",
+   "summary": "Petra uses hypnosis to try to stop Nieves from snacking between meals.",
+   "hypnotist": "Petra",
+   "method": "Hypnosis to stop snacking",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "comedy"
+   ],
+   "categories": [
+    "index-62",
+    "other-control"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Gym Tony (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Gym_Tony"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Comedy; air year not confirmed. Year not confirmed in the source.",
+   "standalone": true
+  },
+  {
+   "title": "La CQ — \"Danny la hipnotista\"",
+   "year": "",
+   "format": "tv",
+   "meta": "TV episode · Peru · La CQ",
+   "character": "Clara",
+   "summary": "Danny learns to hypnotize and accidentally hypnotizes Clara, who now believes she is mean, and Moche, who becomes Danny's slave.",
+   "hypnotist": "Danny",
+   "method": "Accidental hypnosis",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "comedy"
+   ],
+   "categories": [
+    "index-62",
+    "other-control"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: La CQ (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/La_CQ"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Comedy; air year not confirmed. Year not confirmed in the source.",
+   "standalone": true
+  },
+  {
+   "title": "La Traición — Helena hypnotized to believe she is the doctor's wife (Ep. 56)",
+   "year": "",
+   "format": "tv",
+   "meta": "Telenovela episode · Latin America · La Traición",
+   "character": "Helena",
+   "summary": "A doctor hypnotizes Helena to make her believe that she is his wife.",
+   "hypnotist": "A doctor",
+   "method": "Hypnosis to implant a false marriage",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "love / obsession"
+   ],
+   "categories": [
+    "hypnotized-marriage",
+    "doctor-gain"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: La Traicion (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/La_Traicion"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Mental Block says the source ID could not be validated; episode details are minimal. Year not confirmed in the source.",
+   "standalone": true
+  },
+  {
+   "title": "Laverne & Shirley — \"Window on Main Street\"",
+   "year": "",
+   "format": "tv",
+   "meta": "TV episode · USA (ABC) · Laverne & Shirley",
+   "character": "Laverne DeFazio",
+   "summary": "Living in a 'home of the future', Laverne is cured of being shut in by a hypnotist who calls her 'chicken'.",
+   "hypnotist": "A hypnotist",
+   "method": "Stage hypnosis to cure a phobia",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "comedy"
+   ],
+   "categories": [
+    "index-62",
+    "medical"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Laverne and Shirley (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Laverne_and_Shirley"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Comedy; air year not confirmed. Year not confirmed in the source.",
+   "standalone": true
+  },
+  {
+   "title": "Los Canarios — Ana and Flor hypnotized into believing they are obedient porn stars (Ep. 99)",
+   "year": "",
+   "format": "tv",
+   "meta": "TV comedy episode · Argentina · Los Canarios",
+   "character": "Ana (aunt) and Flor (niece)",
+   "summary": "Lisandro hypnotizes Ana and Flor into believing they are obedient porn stars; in a trance they go to a clothing store and come out in sexy clothes.",
+   "hypnotist": "Lisandro (hypnotist)",
+   "method": "Hypnosis with programming",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "sex / comedy"
+   ],
+   "categories": [
+    "adult-hypnosis",
+    "hypno-intimacy"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Los Canarios (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Los_Canarios"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "adult": "Adult-themed comedy (suggestive, no explicit scenes noted)",
+   "note": "Comedy; kids status of the women is not stated. Year not confirmed in the source.",
+   "standalone": true
+  },
+  {
+   "title": "Miss Fisher's Murder Mysteries — \"Death & Hysteria\"",
+   "year": "2015",
+   "format": "tv",
+   "meta": "TV episode · Australia (ABC) · S3E5 · Miss Fisher's Murder Mysteries",
+   "character": "Women patients at a sanatorium",
+   "summary": "Phryne's aunt opens her home to hypnotist Hayden Samuels for a sanatorium for 'hysterical' women.",
+   "hypnotist": "Hayden Samuels (hypnotist and 'healer')",
+   "method": "Hypnosis for 'hysterical' women",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "control / profit"
+   ],
+   "categories": [
+    "doctor-gain",
+    "medical"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Miss Fisher's Murder Mysteries (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Miss_Fisher's_Murder_Mysteries"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Loose fit: summary only says the hypnotist treats women.",
+   "standalone": true
+  },
+  {
+   "title": "NTSF:SD:SUV:: — \"Piper Doesn't Live Here Anymore\"",
+   "year": "2011",
+   "format": "tv",
+   "meta": "TV comedy episode · USA (Adult Swim) · NTSF:SD:SUV::",
+   "character": "Piper",
+   "summary": "Piper turns out to be a brainwashed sleeper agent: a musical birthday card triggers her alter-ego Isabelle Gareth, who hunts down her colleagues until the trigger phrase is found.",
+   "hypnotist": "Unseen senders of a musical birthday card (trigger)",
+   "method": "Sleeper-agent trigger",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "crime / comedy"
+   ],
+   "categories": [
+    "tech",
+    "index-62"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: NTSF:SD:SUV (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/NTSF:SD:SUV"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Parody comedy.",
+   "standalone": true
+  },
+  {
+   "title": "Night Visions — \"Cargo / Switch\"",
+   "year": "2001",
+   "format": "tv",
+   "meta": "TV episode · USA (Fox) · S1E12 · Night Visions",
+   "character": "Sydney",
+   "summary": "A woman with multiple personality disorder enters her own mind through hypnosis to defeat her other personalities.",
+   "hypnotist": "A psychiatrist",
+   "method": "Hypnosis for dissociative identity disorder",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "medical"
+   ],
+   "categories": [
+    "medical",
+    "other-control"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Night Visions (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Night_Visions"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Therapeutic hypnosis.",
+   "standalone": true
+  },
+  {
+   "title": "Nuer Mek 2 — Namsai hypnotized by Vinyoo (three episodes)",
+   "year": "",
+   "format": "tv",
+   "meta": "TV serial · Thailand · Nuer Mek 2",
+   "character": "Namsai",
+   "summary": "Vinyoo breaks into Namsai's house, magically paralyzes her and hypnotizes her, brainwashing her into being his obedient servant (Ep. 2; the page lists further episodes).",
+   "hypnotist": "Vinyoo (criminal)",
+   "method": "Magical paralysis then hypnosis",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "crime"
+   ],
+   "categories": [
+    "crime",
+    "forced-obedience"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Nuer Mek 2 (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Nuer_Mek_2"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Year not confirmed. Year not confirmed in the source.",
+   "standalone": true
+  },
+  {
+   "title": "One Life to Live — Tina's past lives (1991)",
+   "year": "1991",
+   "format": "tv",
+   "meta": "Soap opera arc · USA (ABC) · One Life to Live",
+   "character": "Tina Lord",
+   "summary": "Luna hypnotizes Tina with a crystal into remembering a past life in ancient Rome, and later uses the trigger word 'spatula' to put her under again for another regression.",
+   "hypnotist": "Luna",
+   "method": "Past-life hypnosis with a post-hypnotic trigger word",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "other (past-life regression)"
+   ],
+   "categories": [
+    "occult",
+    "medical"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: One Life to Live (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/One_Life_to_Live"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "standalone": true
+  },
+  {
+   "title": "Palabra de Mujer — Gina's hypnosis (Ep. 71)",
+   "year": "2007",
+   "format": "tv",
+   "meta": "Telenovela episode · Mexico (Televisa) · Palabra de Mujer",
+   "character": "Gina",
+   "summary": "Gina goes to a doctor for hypnosis to uncover repressed memories because she believes Emmanuel killed her mother.",
+   "hypnotist": "A doctor",
+   "method": "Hypnotic regression",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "other (memory recovery)"
+   ],
+   "categories": [
+    "medical",
+    "other-control"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Palabra De Mujer (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Palabra_De_Mujer"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Year approximate.",
+   "standalone": true
+  },
+  {
+   "title": "Port Charles — \"Desire\" (2003)",
+   "year": "2003",
+   "format": "tv",
+   "meta": "Soap opera arc · USA (ABC) · Port Charles",
+   "character": "Alison",
+   "summary": "Joshua Temple drugs and brainwashes Alison into marrying him, holds her prisoner after the sham marriage and has her serve him tea on command.",
+   "hypnotist": "Joshua Temple",
+   "method": "Drug plus brainwashing into a sham marriage",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "control / marriage"
+   ],
+   "categories": [
+    "hypnotized-marriage",
+    "forced-obedience"
+   ],
+   "tags": [
+    "deep-oct24"
+   ],
+   "already_married": "yes",
+   "already_married_note": "yes (sham marriage to the hypnotist)",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Port Charles (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Port_Charles"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "single source",
+   "standalone": true
+  },
+  {
+   "title": "Ramar of the Jungle — \"The Unknown Terror\"",
+   "year": "",
+   "format": "tv",
+   "meta": "TV episode · USA (syndicated) · Ramar of the Jungle",
+   "character": "Trudy",
+   "summary": "Ramar investigates unexplained accidents at a teak lumber camp caused by a hypnotist; the hypnotist puts Trudy into a trance and programs her, and she grabs a gun to shoot Tom.",
+   "hypnotist": "A hypnotist",
+   "method": "Hypnotic gaze",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "crime"
+   ],
+   "categories": [
+    "crime",
+    "other-control"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Ramar of the Jungle (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Ramar_of_the_Jungle"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Air year not confirmed (1950s). Year not confirmed in the source.",
+   "standalone": true
+  },
+  {
+   "title": "Relic Hunter — \"All Choked Up\"",
+   "year": "2001",
+   "format": "tv",
+   "meta": "TV episode · Canada/USA · Relic Hunter",
+   "character": "Sydney Fox",
+   "summary": "A magical necklace enslaves its wearer to anyone using the activation phrase; a rival relic hunter uses it on Sydney.",
+   "hypnotist": "Carson (rival relic hunter)",
+   "method": "Magical necklace with an activation phrase",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "power"
+   ],
+   "categories": [
+    "fantasy",
+    "forced-obedience"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "no",
+   "already_married_note": "no",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Relic Hunter (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Relic_Hunter"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Year approximate.",
+   "standalone": true
+  },
+  {
+   "title": "Riverdale — \"Chapter Sixty-Six: Tangerine\"",
+   "year": "2022",
+   "format": "tv",
+   "meta": "TV episode · USA (The CW) · S4 · Riverdale",
+   "character": "Alice Cooper and Polly Cooper",
+   "summary": "Alice and Polly fall into psychotic trances after mysterious phone calls; Betty discovers that Farm cult leader Edgar gave his followers a post-hypnotic suggestion triggered when they hear 'Tangerine' three times.",
+   "hypnotist": "Edgar Evernever (Farm cult leader)",
+   "method": "Phone-call-triggered trance",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "cult / control"
+   ],
+   "categories": [
+    "cult",
+    "mother"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated (Alice is Betty's mother)",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "yes",
+   "kids_note": "Alice is Betty's mother; Polly is her older daughter.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Riverdale (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Riverdale"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Year approximate; the Cooper women are adults.",
+   "standalone": true
+  },
+  {
+   "title": "Sanctuary — \"End of Nights\"",
+   "year": "2011",
+   "format": "tv",
+   "meta": "TV episode · Canada (Syfy) · Sanctuary",
+   "character": "Ashley Magnus",
+   "summary": "Ashley, Helen's daughter, is kidnapped, transformed into a vampire-like creature and brainwashed to lead an assault on Sanctuary bases.",
+   "hypnotist": "The Cabal",
+   "method": "Brainwashing",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "power / sabotage"
+   ],
+   "categories": [
+    "tech",
+    "other-control"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Sanctuary (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Sanctuary"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Year approximate.",
+   "standalone": true
+  },
+  {
+   "title": "Super Force — \"Come Under the Way\" / \"Instant Karma\"",
+   "year": "1991",
+   "format": "tv",
+   "meta": "TV episodes · USA · Super Force",
+   "character": "Crystal (Ginger Lynn Allen)",
+   "summary": "Zach finds that an old girlfriend, Crystal, has been recruited by a cult that uses hypnosis and brainwashing; she later becomes a psychic medium whose manager uses hypnosis to control her.",
+   "hypnotist": "A cult leader; later her manager",
+   "method": "Hypnosis and brainwashing",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "cult / profit"
+   ],
+   "categories": [
+    "cult",
+    "other-control"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Super Force (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Super_Force"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Years approximate (S1–S2).",
+   "standalone": true
+  },
+  {
+   "title": "Super Force — \"Monkey's Breath\"",
+   "year": "1992",
+   "format": "tv",
+   "meta": "TV episode · USA · S2E18 · Super Force",
+   "character": "A young woman at a bar; Zander (psychic)",
+   "summary": "A witch hypnotizes a young woman at a bar and takes her to her lair as a sacrifice; she then hypnotizes the psychic Zander to do the same.",
+   "hypnotist": "An evil witch",
+   "method": "Hypnotic gaze",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "occult"
+   ],
+   "categories": [
+    "occult",
+    "vampire"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Super Force (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Super_Force"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "standalone": true
+  },
+  {
+   "title": "Superboy — \"Run, Dracula, Run\"",
+   "year": "1990",
+   "format": "tv",
+   "meta": "TV episode · USA · S2E16 · Superboy",
+   "character": "Lana Lang",
+   "summary": "A vampire hypnotizes Lana and turns her into an evil vampire who attacks Superboy.",
+   "hypnotist": "A vampire",
+   "method": "Vampiric hypnosis",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "blood"
+   ],
+   "categories": [
+    "vampire",
+    "occult"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Superboy (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Superboy_(TV_series)"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "standalone": true
+  },
+  {
+   "title": "Superboy — \"Secrets of Superboy\"",
+   "year": "1991",
+   "format": "tv",
+   "meta": "TV episode · USA · S2E24 · Superboy",
+   "character": "Lana Lang",
+   "summary": "Nick Knack hypnotizes Lana and Andy and attaches them to a brain-probe machine to find Superboy's weaknesses.",
+   "hypnotist": "Nick Knack",
+   "method": "Trigger-phrase hypnosis",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "crime"
+   ],
+   "categories": [
+    "crime",
+    "tech"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Superboy (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Superboy_(TV_series)"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "standalone": true
+  },
+  {
+   "title": "Supergirl — \"In Plain Sight\"",
+   "year": "2019",
+   "format": "tv",
+   "meta": "TV episode · USA (The CW) · S5E4 · Supergirl",
+   "character": "Alex Danvers",
+   "summary": "Malefic hypnotizes Alex and another DEO agent into stealing Martian weapons, and takes control of a crowd.",
+   "hypnotist": "Malefic J'onzz",
+   "method": "Mind-control beam",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "crime / revenge"
+   ],
+   "categories": [
+    "scifi",
+    "other-control"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "no",
+   "already_married_note": "no (single at this point)",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Supergirl (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Supergirl_(2015_TV_series)"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Alex later marries Kelly; no pregnancy in this episode.",
+   "standalone": true
+  },
+  {
+   "title": "The Fugitive (2011 Russian series) — Masha hypnotized (Ep. 14)",
+   "year": "2011",
+   "format": "tv",
+   "meta": "TV episode · Russia · The Fugitive",
+   "character": "Masha",
+   "summary": "Masha is captured, drugged and hypnotized to tell what the prosecution knows, then programmed to forget and report that the clinic is clean.",
+   "hypnotist": "The head of the clinic",
+   "method": "Drugs plus hypnosis",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "crime / cover-up"
+   ],
+   "categories": [
+    "crime",
+    "tech"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: The Fugitive (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/The_Fugitive_(2011_Russian_TV_series)"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "standalone": true
+  },
+  {
+   "title": "The Immortal — \"Wicked Wicked West\"",
+   "year": "2000",
+   "format": "tv",
+   "meta": "TV episode · USA · S1E5 · The Immortal",
+   "character": "Sarah",
+   "summary": "Sarah and Goodwin are hypnotized into believing they are a saloon girl and a lawman at an Old West-themed attraction.",
+   "hypnotist": "A demon",
+   "method": "Hypnotic spell in an Old West attraction",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "soul theft"
+   ],
+   "categories": [
+    "occult",
+    "other-control"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: The Immortal (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/The_Immortal_(2000_TV_Series)"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "standalone": true
+  },
+  {
+   "title": "The Immortal — \"Bride's Kiss\"",
+   "year": "2000",
+   "format": "tv",
+   "meta": "TV episode · USA · S1E9 · The Immortal",
+   "character": "A bride (an expert on artificial intelligence)",
+   "summary": "A billionaire demon uses a cursed ring to hypnotize his new bride, an AI expert, so he can control her and her technology.",
+   "hypnotist": "A billionaire demon (her new husband)",
+   "method": "Cursed ring",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "power / technology"
+   ],
+   "categories": [
+    "wife-hypnotized",
+    "occult"
+   ],
+   "tags": [
+    "deep-oct24"
+   ],
+   "already_married": "yes",
+   "already_married_note": "yes (new bride of the hypnotist)",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: The Immortal (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/The_Immortal_(2000_TV_Series)"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "single source",
+   "standalone": true
+  },
+  {
+   "title": "The Strange Return of Diana Sala — past-life hypnosis",
+   "year": "",
+   "format": "tv",
+   "meta": "TV episode · Latin America · The Strange Return of Diana Sala",
+   "character": "Diana",
+   "summary": "Diana looks at a pendulum, falls into a hypnotic sleep and sees a past life.",
+   "hypnotist": "Hypnotist (pendulum)",
+   "method": "Past-life regression",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "other (past-life regression)"
+   ],
+   "categories": [
+    "occult",
+    "medical"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: The Strange Return of Diana Salazar (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/The_Strange_Return_of_Diana_Salazar_(1988_TV_series)"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Year not confirmed in the source.",
+   "standalone": true
+  },
+  {
+   "title": "Trideviyaan — Kilmish Jadugar hypnotizes the sisters and their family (Eps. 93–97)",
+   "year": "",
+   "format": "tv",
+   "meta": "TV sitcom · India · Trideviyaan",
+   "character": "Dhannu, Tannu and Mannu",
+   "summary": "An evil magician hypnotizes the sisters and their family; once their glasses are off they fall back under his spell, until they resist and free the family.",
+   "hypnotist": "Kilmish Jadugar (evil magician)",
+   "method": "Hypnotic magic",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "crime"
+   ],
+   "categories": [
+    "india-control",
+    "index-62"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Trideviyaan (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Trideviyaan"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Comedy; air year not confirmed. Year not confirmed in the source.",
+   "standalone": true
+  },
+  {
+   "title": "V.I.P. — \"The Return of the Owl\"",
+   "year": "1999",
+   "format": "tv",
+   "meta": "TV episode · USA · S2E1 · V.I.P.",
+   "character": "Tasha",
+   "summary": "Tasha discovers she is a Russian sleeper agent who can be triggered; her enemies get the trigger phrase read on a TV talk show and she ties up Val and Maxine to kill her target.",
+   "hypnotist": "Enemy agents",
+   "method": "Trigger phrase for a sleeper agent",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "espionage"
+   ],
+   "categories": [
+    "crime",
+    "tech"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "no",
+   "already_married_note": "no",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: V.I.P. (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/V.I.P."
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Year approximate.",
+   "standalone": true
+  },
+  {
+   "title": "Wild 7 — Eiko brainwashed (Ep. 6)",
+   "year": "1972",
+   "format": "tv",
+   "meta": "TV episode · Japan · Wild 7",
+   "character": "Eiko (the team's assistant)",
+   "summary": "A rescue attempt turns into a trap and Eiko is brainwashed into spying for the gang and ordered to kill Wild 7; she is later deprogrammed and pretends to be under their control.",
+   "hypnotist": "Black Spider criminal gang",
+   "method": "Brainwashing",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "crime"
+   ],
+   "categories": [
+    "crime",
+    "tech"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Wild 7 (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Wild_7"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Year approximate.",
+   "standalone": true
+  },
+  {
+   "title": "Witches of East End — Wendy and Ingrid under hypnotic control (S1E8; S2E1, E4, E5)",
+   "year": "2013",
+   "format": "tv",
+   "meta": "TV episodes · USA (Lifetime) · Witches of East End",
+   "character": "Wendy Beauchamp and Ingrid Beauchamp",
+   "summary": "A snake bracelet hypnotizes Wendy into wearing it and corrupts her; later Ingrid falls under the hypnotic spell of a Mandragora that feeds off her energy and walks her out at night in a trance.",
+   "hypnotist": "A snake bracelet; the Mandragora",
+   "method": "Hypnotic snake bracelet; nightly trance",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "power / feeding"
+   ],
+   "categories": [
+    "occult",
+    "other-control"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Witches of East End (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Witches_of_East_End"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Years: 2013–14.",
+   "standalone": true
+  },
+  {
+   "title": "Knight Rider — \"Chariot of Gold\"",
+   "year": "1983",
+   "format": "tv",
+   "meta": "TV episode · USA (NBC) · S1E18 · Knight Rider",
+   "character": "Bonnie Barstow",
+   "summary": "The Helios Society invites Bonnie to join as a ruse to drug and brainwash her into stealing KITT; she reprograms KITT to help rob a museum.",
+   "hypnotist": "The Helios Society",
+   "method": "Drugging and brainwashing",
+   "mechanism": "Hypnosis",
+   "gain_motive": [
+    "crime / theft"
+   ],
+   "categories": [
+    "crime",
+    "tech"
+   ],
+   "tags": [
+    "deep-oct24",
+    "loose fit"
+   ],
+   "already_married": "not stated",
+   "already_married_note": "not stated",
+   "pregnant_end": "no",
+   "pregnancy_note": "No pregnancy in this episode/arc.",
+   "kids_status": "not stated",
+   "kids_note": "Not stated in the episode summary.",
+   "kids_together": "not stated",
+   "kids_together_note": "Not stated.",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Knight Rider (episode summary with screencap captions)",
+     "url": "https://mentalblock.miraheze.org/wiki/Knight_Rider_(1982)"
+    }
+   ],
+   "evidence": "single source — Mental Block wiki episode summary",
+   "provenance": "Deep round 24 Oct 2026 PT: Mental Block wiki episode sections plus targeted web checks (web sources; nothing downloaded)",
+   "confidence_flag": "loose fit",
+   "note": "Year approximate.",
+   "standalone": true
+  }
+ ],
+ "dropped": [
+  {
+   "title": "Mannix — \"Catspaw\"",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "77 Sunset Strip — \"Leap, My Lovely\"",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Alias — \"Full Disclosure\"",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Agents of S.H.I.E.L.D. — \"Making Friends and Influencing People\"",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Advokatessy — \"Psychoanalysis Errors\"",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Another World — \"The Truth Will Out, Pt. 1\" (Ep. 6198)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Aurora — \"Hipnosis de Amor\"",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "C.I.D. — \"Sammohit Chori\" (Ep. 1363)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Chichipatos — \"Drunk's No Good! No Sir\"",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Cover Up — \"Healthy, Wealthy, and Dead\"",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Daanav Hunters — \"Episode 05\"",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Daayan — \"Ep. 61\"",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Dark Shadows (1966) — Julia hypnotizes Maggie Evans (Eps. 295 and 298)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Dark Shadows (1966) — Julia hypnotizes Victoria Winters (Eps. 347 and 462)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Dark Shadows (1966) — Angelique's spell on Maggie (Ep. 1055)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Dark Shadows (1991) — Carolyn Stoddard, hypnotized servant of Barnabas (Eps. 5–10)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Days of Our Lives — Hope Brady / \"Gina\" mind-control chip (1994 and 1998–99)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Days of Our Lives — Marlena brainwashed and hypnotized (1994–95 and 2005–06)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "El Gato con Gatas — pilot",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "El Zorro, la espada y la rosa — Selenia hypnotizes Mariangel (Eps. 93 and 103)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Freddy's Nightmares — \"What You Don't Know Can Kill You\"",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Gap-dong — \"Episode 15\"",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Gentlemen Comrades — \"Episode 16\"",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Gran Hotel — \"Valtejar\"",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Guardians of the Fatherland (Strazhi Otchizny) — Elena Kuznecova (S2E3–4)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Gutur Gu — \"Smita in Balu's Control\"",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Geethanjali (2015 TV series) — sisters episode",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Ichhapyari Naagin — Iccha hypnotized to kill her husband",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Irma Vep — \"The Poisoner\" (Episode 4)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Kamen Rider W — \"The P's Game / The Doll Has Sticky Fingers\" (Ep. 25)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Kung Fu: The Legend Continues — \"Magic Trick\"",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "La Femme Nikita — \"On Borrowed Time\"",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "La fuerza del destino — Lucía's hypnosis recovers the night of Perla's conception (Ep. 91)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Los ladrones van a la oficina — \"La cola del culebrón\"",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Love Detective Sherlock — \"Episode 6\"",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Love and Hope (Aşk ve Umut, 2022) — Levant hypnotizes Azalea (Ep. 236)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Magpakailanman — \"Magkapatid, Biktima ng Kulto\" (Sisters, Victims of a Cult)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Maitree — Jhumki hypnotizes Nandini",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Manohar Kahaniyan — clown hypnotist episode",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "My Heart Beats for Lola Volcán — Lola's memory hypnosis (Ep. 63)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Naagin (S5) — Bani under Jay's spell (5x24)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Naagin (S6) — Pragati hypnotized by the snake charmer (6x138)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Naet Nakin — Inthira hypnotizes Koi (Ep. 18)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Nang Thip — Thipchai hypnotizes Parita (Ep. 3)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Oba Nisa — the sister who hypnotizes back (Ep. 55)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Olho no Olho — Cacau hypnotized by Fred (Ch. 113)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "One Life to Live — \"The Music Box Killer\" (2004)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Paraíso — \"El poder de la mente\"",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Passions — \"The Bird Statue\" and \"Zombie Charity\" (2000–01)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Pobre Rico — Rosa hypnotized in her sleep (Ep. 201)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Pyaar Kii Ye Ek Kahaani — Abhay hypnotizes Pia to forget him (Ep. 180)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Qubool Hai — Khushboo at the party (Eps. 361–362)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Rookie Agent Rouge — Rouge drugged and hypnotized",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Sassaricando — Camila hypnotized to fake suicide (Ep. 172)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Si Thep Poo Pitak — Thana hypnotizes Sugar with the magic crown",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "SilHaa KonKla Tah Atham — \"The Hypnotist Murders\" (Ep. 106)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Sindoor Ki Keemat — Mihri hypnotized by thieves (Ep. 128)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Sol de tentación — Sol's memory hypnosis (Ep. 116)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Taggart — \"Black Orchid\"",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "The Adventures of Superseven — \"Have Silencer, Will Travel\"",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "The Great Detective — \"If Looks Could Kill\"",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "The Stepdaughters — Luisa hypnotized by her stepdaughter (Ep. 81)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Ultraman Orb — \"Justice out of Control\" / \"Never Say Never\"",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Verbotene Liebe — \"I Follow My Own Will\" (Ep. 4430)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "General Hospital — \"The Cartel\" (1991)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Heist — \"Sex Magick Money Murder\" (Part 1)",
+   "reason": "Already in the catalog (same show and same character or scene from the earlier Mental Block sweep or later rounds), so not added again."
+  },
+  {
+   "title": "Charlie's Angels — Angels in Springtime",
+   "reason": "Not hypnosis."
+  },
+  {
+   "title": "Wonder Woman — The Boy Who Knew Her Secret",
+   "reason": "Not a fit."
+  },
+  {
+   "title": "Devil's Plaything / Tower of Evil / Charlie Chan at Treasure Island / Mysterious Mr. M / Return of Chandu",
+   "reason": "Not hypnosis of a female lead, or not a fit."
+  },
+  {
+   "title": "Gilligan's Island — The Second Ginger Grant",
+   "reason": "Not a fit."
+  },
+  {
+   "title": "The Court Jester / Fear in the Night / Counterstrike Mindbender / Hart to Hart Harts on Campus / Hawaii Five-O The Deadly Courier",
+   "reason": "Hypnotized person is male."
+  },
+  {
+   "title": "Dormez, je le veux ! / Alien Exorcism / Maligno / Kilometro 31-2 / Three Golden Serpents / In From The Cold / Riverdale (Betty) / Chilling Adventures of Sabrina / Laila Thida Yak / Putri Duyung / Ngin Pak Pee",
+   "reason": "Minor, teen or age unclear, so excluded (adults only)."
+  },
+  {
+   "title": "Love & Death (2023) / Circus of the Stars",
+   "reason": "Real people."
+  },
+  {
+   "title": "QuickieRomanceDrama / Miaou-Drama",
+   "reason": "Unverifiable or possibly AI-generated."
+  },
+  {
+   "title": "True Blood 5x08 / Ancient Love Poetry / The Eternal Love",
+   "reason": "Ambiguous in the source."
+  }
+ ]
+}
