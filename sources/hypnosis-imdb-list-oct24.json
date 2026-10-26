@@ -1,8 +1,8 @@
 {
  "id": "hypnosis-imdb-list-oct24",
  "label": "IMDb list 'Hypnotized Women in TV and Film' (full CSV export, 25 Oct 2026)",
- "group_title": "IMDb list — Hypnotized Women in TV and Film (CSV rows 1-1000)",
- "description": "IMDb list ls099930129 by sleep-71052 (an actress per row, each noted with the production in which she is hypnotized, brainwashed, possessed or mind-controlled; the list does not separate those mechanisms). Source is the owner's CSV export (rows 1-1000 of 1,474 processed so far); live IMDb stays behind a WAF challenge, so each production was checked against its Wikipedia article instead. Existing catalog cards only receive the list as a source link and tag; new cards need a Wikipedia article that names the listed actress, a film/TV production, a matching year, an adult cast member and not a children's programme. Cards tagged imdb-list-only have the production and actress confirmed but no plot passage matching her role, so their hypnosis/possession/mind-control type and the wife/pregnancy/kids fields stay 'not stated'. Rows are listed under dropped (no unambiguous Wikipedia match) or excluded (minor at the time, children's/teen programme, actress not named in the matched article).",
+ "group_title": "IMDb list — Hypnotized Women in TV and Film (CSV rows 1-1125)",
+ "description": "IMDb list ls099930129 by sleep-71052 (an actress per row, each noted with the production in which she is hypnotized, brainwashed, possessed or mind-controlled; the list does not separate those mechanisms). Source is the owner's CSV export (rows 1-1125 of 1,474 processed so far); live IMDb stays behind a WAF challenge, so each production was checked against its Wikipedia article instead. Existing catalog cards only receive the list as a source link and tag; new cards need a Wikipedia article that names the listed actress, a film/TV production, a matching year, an adult cast member and not a children's programme. Cards tagged imdb-list-only have the production and actress confirmed but no plot passage matching her role, so their hypnosis/possession/mind-control type and the wife/pregnancy/kids fields stay 'not stated'. Rows are listed under dropped (no unambiguous Wikipedia match) or excluded (minor at the time, children's/teen programme, actress not named in the matched article).",
  "category_labels": {},
  "records": [
   {
@@ -1433,8 +1433,10 @@
     "Anita Brown",
     "Anna Grace Barlow",
     "Cindy Sampson",
+    "Elise Gatien",
     "Ever Carradine",
     "Jen Halley",
+    "Jordan Claire Robbins",
     "Julie McNiven",
     "Katherine Boecher",
     "Katie Cassidy",
@@ -1697,6 +1699,7 @@
   {
    "title": "Hypnotic",
    "actresses": [
+    "Bonnie Discepolo",
     "Kate Siegel",
     "Lucie Guest",
     "Stephanie Cudmore"
@@ -2641,7 +2644,8 @@
   {
    "title": "Kingsman: The Secret Service",
    "actresses": [
-    "Samantha Womack"
+    "Samantha Womack",
+    "Yolandi Franken"
    ],
    "reason": "Wikipedia match 'Kingsman: The Secret Service' is not a film or TV production"
   },
@@ -2967,9 +2971,261 @@
   {
    "title": "Incontrol",
    "actresses": [
+    "Anja Savcic",
+    "Brittany Allen",
+    "Charlie Gould",
+    "Quinnie Vu",
+    "Sarah Troyer",
     "Shayla Stonechild"
    ],
    "reason": "Wikipedia page 'INcontroL' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Star Light",
+   "actresses": [
+    "Chandler Rachelle"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Head of the Family",
+   "actresses": [
+    "Alexandria Quinn"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Lee Martin's the Midnight Hour",
+   "actresses": [
+    "Angela Roberts Johnson"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Deadly Parasite",
+   "actresses": [
+    "Zina Blahusova"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Mask of Dijon",
+   "actresses": [
+    "Jeanne Bates"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Target Earth (1998)",
+   "actresses": [
+    "Thunderbird Dinwiddie"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Warrior Nun",
+   "actresses": [
+    "Lorena Andrea"
+   ],
+   "reason": "Wikipedia match 'Warrior Nun (TV series)' is not a film or TV production"
+  },
+  {
+   "title": "The Pete Holmes Show",
+   "actresses": [
+    "Deanna Russo"
+   ],
+   "reason": "Wikipedia page 'The Pete Holmes Show' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Astonishing Tales of Terror: Rocktapussy!",
+   "actresses": [
+    "Winny Clarke"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Dark Tapes",
+   "actresses": [
+    "Emilia Ares"
+   ],
+   "reason": "Wikipedia page 'The Dark Tapes' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Out of Time",
+   "actresses": [
+    "Jessica Graves Davis"
+   ],
+   "reason": "Wikipedia page 'Out of Time' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "The Curse of King Tut's Tomb",
+   "actresses": [
+    "Leonor Varela"
+   ],
+   "reason": "Wikipedia match looked like a disambiguation/non-production page"
+  },
+  {
+   "title": "The New Mike Hammer",
+   "actresses": [
+    "Greta Blackburn"
+   ],
+   "reason": "Wikipedia page 'Mickey Spillane's Mike Hammer (1984 TV series)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Restless Souls",
+   "actresses": [
+    "Katherine Kirkpatrick"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Sex Files: Pleasure World",
+   "actresses": [
+    "Alexandra Harlan"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Sapphire Girls",
+   "actresses": [
+    "Jodie Moore"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Embrace the Darkness II",
+   "actresses": [
+    "Katie Lohmann"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "SX_Tape",
+   "actresses": [
+    "Caitlyn Folley"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Middleman",
+   "actresses": [
+    "Ashley Johnson"
+   ],
+   "reason": "Wikipedia page 'The Middleman (TV series)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Wonder Woman",
+   "actresses": [
+    "Lynda Carter"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Stillwatch",
+   "actresses": [
+    "Lynda Carter"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Masters of Science Fiction",
+   "actresses": [
+    "Johannah Newmarch"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Wake the Dead",
+   "actresses": [
+    "Nadia Gillespie"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Phobia",
+   "actresses": [
+    "Erica Leerhsen"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Moloch",
+   "actresses": [
+    "Sallie Harmsen"
+   ],
+   "reason": "Wikipedia page 'Moloch (miniseries)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Los Protegidos: A.D.N.",
+   "actresses": [
+    "Irina Bravo"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Return of the Salem Witch",
+   "actresses": [
+    "Giedre Jackyte",
+    "Sarah Alexandra Marks"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Tekwar: TekJustice",
+   "actresses": [
+    "Ruth Marshall"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Curse of the Mayans",
+   "actresses": [
+    "Olga Fonda"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Awaken the Shadowman",
+   "actresses": [
+    "Andrea Hunt",
+    "Emily Somers"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Blood Pageant",
+   "actresses": [
+    "Juliana Destefano"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "A Demon Within",
+   "actresses": [
+    "Charlene Amoia"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Deadly Crush",
+   "actresses": [
+    "Murisa Harba"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Psi Factor: Chronicles of the Paranormal",
+   "actresses": [
+    "Kari Matchett"
+   ],
+   "reason": "Wikipedia page 'Psi Factor' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Experian Boost Commercial (2021)",
+   "actresses": [
+    "Melanie Rains"
+   ],
+   "reason": "no matching Wikipedia article found"
   }
  ],
  "excluded": [
@@ -3051,6 +3307,11 @@
   {
    "title": "Buffy the Vampire Slayer",
    "actress": "Amelinda Smith",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Buffy the Vampire Slayer",
+   "actress": "Robia Scott",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
@@ -3251,6 +3512,16 @@
   {
    "title": "Supernatural",
    "actress": "Katherine Boecher",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Supernatural",
+   "actress": "Elise Gatien",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Supernatural",
+   "actress": "Jordan Claire Robbins",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
@@ -3819,6 +4090,11 @@
    "reason": "children's programme per Wikipedia categories"
   },
   {
+   "title": "Kingsman: The Secret Service",
+   "actress": "Yolandi Franken",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
    "title": "Pandora",
    "actress": "Banita Sandhu",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
@@ -3914,6 +4190,21 @@
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
+   "title": "The Wizard of Gore",
+   "actress": "Flux Suicide",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "The Wizard of Gore",
+   "actress": "Cricket Suicide",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "The Wizard of Gore",
+   "actress": "Nixon Suicide",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
    "title": "Fugitive",
    "actress": "Elizaveta Nilova",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
@@ -3922,6 +4213,101 @@
    "title": "Incontrol",
    "actress": "Shayla Stonechild",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Incontrol",
+   "actress": "Sarah Troyer",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Incontrol",
+   "actress": "Brittany Allen",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Incontrol",
+   "actress": "Anja Savcic",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Incontrol",
+   "actress": "Charlie Gould",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Incontrol",
+   "actress": "Quinnie Vu",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "The Suite Life Movie",
+   "actress": "Kara Pacitto, Katelyn Pacitto",
+   "reason": "children's programme per Wikipedia categories"
+  },
+  {
+   "title": "The Pete Holmes Show",
+   "actress": "Deanna Russo",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "The Dark Tapes",
+   "actress": "Emilia Ares",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "H2O: Just Add Water",
+   "actress": "Cariba Heine, Claire Holt, Phoebe Tonkin",
+   "reason": "children's programme per Wikipedia categories"
+  },
+  {
+   "title": "Out of Time",
+   "actress": "Jessica Graves Davis",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "The New Mike Hammer",
+   "actress": "Greta Blackburn",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Book of Monsters",
+   "actress": "Lizzie Aaryn-Stanton",
+   "reason": "children's programme per Wikipedia categories"
+  },
+  {
+   "title": "Exorcism at 60,000 Feet",
+   "actress": "Maddie McGuire",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Exorcism at 60,000 Feet",
+   "actress": "Corrin Evans",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "The Middleman",
+   "actress": "Ashley Johnson",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Titans",
+   "actress": "Chelsea Zhang",
+   "reason": "minor at production (birth year vs card year 2014)"
+  },
+  {
+   "title": "Moloch",
+   "actress": "Sallie Harmsen",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Psi Factor: Chronicles of the Paranormal",
+   "actress": "Kari Matchett",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Baalveer",
+   "actress": "Aditi Sanwal",
+   "reason": "children's programme per Wikipedia categories"
   }
  ],
  "resolved_ambiguous": [
@@ -4044,6 +4430,11 @@
    "title": "The Young and the Restless",
    "basis": "year 1973",
    "card_id": 1957
+  },
+  {
+   "title": "Hypnotic",
+   "basis": "year hint 2023",
+   "card_id": 1347
   }
  ],
  "ambiguous_new_cards": [
@@ -4072,16 +4463,18 @@
   "True Blood",
   "Irma Vep",
   "The Wizard of Gore",
-  "Resident Evil"
+  "Resident Evil",
+  "Wonder Woman",
+  "Psi Factor: Chronicles of the Paranormal"
  ],
  "stats": {
-  "csv_rows": 1000,
-  "items": 1121,
-  "groups": 691,
-  "links": 318,
+  "csv_rows": 1125,
+  "items": 1248,
+  "groups": 774,
+  "links": 355,
   "old_source_records": 61,
-  "new": 87,
-  "dropped": 246,
-  "excluded": 190
+  "new": 94,
+  "dropped": 281,
+  "excluded": 216
  }
 }
