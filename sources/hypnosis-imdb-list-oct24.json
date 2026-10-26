@@ -1,8 +1,8 @@
 {
  "id": "hypnosis-imdb-list-oct24",
  "label": "IMDb list 'Hypnotized Women in TV and Film' (full CSV export, 25 Oct 2026)",
- "group_title": "IMDb list — Hypnotized Women in TV and Film (CSV rows 1-250)",
- "description": "IMDb list ls099930129 by sleep-71052 (an actress per row, each noted with the production in which she is hypnotized, brainwashed, possessed or mind-controlled; the list does not separate those mechanisms). Source is the owner's CSV export (rows 1-250 of 1,474 processed so far); live IMDb stays behind a WAF challenge, so each production was checked against its Wikipedia article instead. Existing catalog cards only receive the list as a source link and tag; new cards need a Wikipedia article that names the listed actress, a film/TV production, a matching year, an adult cast member and not a children's programme. Cards tagged imdb-list-only have the production and actress confirmed but no plot passage matching her role, so their hypnosis/possession/mind-control type and the wife/pregnancy/kids fields stay 'not stated'. Rows are listed under dropped (no unambiguous Wikipedia match) or excluded (minor at the time, children's/teen programme, actress not named in the matched article).",
+ "group_title": "IMDb list — Hypnotized Women in TV and Film (CSV rows 1-375)",
+ "description": "IMDb list ls099930129 by sleep-71052 (an actress per row, each noted with the production in which she is hypnotized, brainwashed, possessed or mind-controlled; the list does not separate those mechanisms). Source is the owner's CSV export (rows 1-375 of 1,474 processed so far); live IMDb stays behind a WAF challenge, so each production was checked against its Wikipedia article instead. Existing catalog cards only receive the list as a source link and tag; new cards need a Wikipedia article that names the listed actress, a film/TV production, a matching year, an adult cast member and not a children's programme. Cards tagged imdb-list-only have the production and actress confirmed but no plot passage matching her role, so their hypnosis/possession/mind-control type and the wife/pregnancy/kids fields stay 'not stated'. Rows are listed under dropped (no unambiguous Wikipedia match) or excluded (minor at the time, children's/teen programme, actress not named in the matched article).",
  "category_labels": {},
  "records": [
   {
@@ -1172,6 +1172,7 @@
    "actresses": [
     "Chelsea Edmundson",
     "Erica Rhodes",
+    "Lauren Furs",
     "Olivia Alexander"
    ],
    "reason": "no matching Wikipedia article found"
@@ -1356,6 +1357,7 @@
   {
    "title": "Nowhere Man",
    "actresses": [
+    "Karen Lorre",
     "Kayla Blake"
    ],
    "reason": "Wikipedia page 'Nowhere Man (Taiwanese TV series)' does not name the listed actress(es), so the title match is unconfirmed"
@@ -1398,6 +1400,7 @@
   {
    "title": "Hold Your Breath",
    "actresses": [
+    "Erin Marie Hogan",
     "Katrina Bowden"
    ],
    "reason": "Wikipedia page 'Hold Your Breath (2024 film)' does not name the listed actress(es), so the title match is unconfirmed"
@@ -1495,13 +1498,6 @@
    "reason": "no matching Wikipedia article found"
   },
   {
-   "title": "Lois and Clark",
-   "actresses": [
-    "Meredith Scott Lynn"
-   ],
-   "reason": "Wikipedia page 'Lois & Clark: The New Adventures of Superman' does not name the listed actress(es), so the title match is unconfirmed"
-  },
-  {
    "title": "Wynonna Earp",
    "actresses": [
     "Melanie Scrofano"
@@ -1554,6 +1550,8 @@
   {
    "title": "Passions",
    "actresses": [
+    "Liza Huber",
+    "McKenzie Westmore",
     "Molly Stanton"
    ],
    "reason": "Wikipedia match 'Passions (TV series)' is not a film or TV production"
@@ -1593,6 +1591,133 @@
     "Estella Warren"
    ],
    "reason": "Wikipedia match 'Beauty and the Beast' is not a film or TV production"
+  },
+  {
+   "title": "Ghost of Goodnight Lane",
+   "actresses": [
+    "Danielle Harris"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Dr. Gift",
+   "actresses": [
+    "Danielle Harris"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Unwilling",
+   "actresses": [
+    "Austin Highsmith Garces",
+    "Bree Williamson"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Proifit",
+   "actresses": [
+    "Lisa Zane"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Icchapyaari Naagin",
+   "actresses": [
+    "Priyal Gor"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Contiuum",
+   "actresses": [
+    "Monique Ganderton"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Mummy Reborn",
+   "actresses": [
+    "Mika Hockman"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Key of Awesome",
+   "actresses": [
+    "Paige Grimard"
+   ],
+   "reason": "Wikipedia page 'The Key of Awesome' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Kukhnya",
+   "actresses": [
+    "Rina Gri"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Hypnotic",
+   "actresses": [
+    "Lucie Guest"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Wicked Within",
+   "actresses": [
+    "Sienna Guillory"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Crystal's Shadow",
+   "actresses": [
+    "Sienna Guillory"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Amor Mio",
+   "actresses": [
+    "Vanessa Guzmán"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Pernicious",
+   "actresses": [
+    "Ciara Hanna"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Ransom",
+   "actresses": [
+    "Morgan Kohan"
+   ],
+   "reason": "Wikipedia page 'Ransom (disambiguation)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "The Beastmaster (1999)",
+   "actresses": [
+    "Marjean Holden"
+   ],
+   "reason": "Wikipedia page 'The Beastmaster' year 1982 does not match listed year 1999 (a different production with the same title; not resolved)"
+  },
+  {
+   "title": "Seaquest DSV/2032",
+   "actresses": [
+    "Sandra Hess"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Exorcist (2016)",
+   "actresses": [
+    "Hannah Kasulka"
+   ],
+   "reason": "Wikipedia page 'The Exorcist' year 1973 does not match listed year 2016 (a different production with the same title; not resolved)"
   }
  ],
  "excluded": [
@@ -1624,6 +1749,16 @@
   {
    "title": "Days of Our Lives",
    "actress": "Alexis Thorpe",
+   "reason": "minor at production (birth year vs card year 1965)"
+  },
+  {
+   "title": "Days of Our Lives",
+   "actress": "Jane Windsor",
+   "reason": "minor at production (birth year vs card year 1965)"
+  },
+  {
+   "title": "Days of Our Lives",
+   "actress": "Deidre Hall",
    "reason": "minor at production (birth year vs card year 1965)"
   },
   {
@@ -1692,6 +1827,11 @@
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
+   "title": "Nowhere Man",
+   "actress": "Karen Lorre",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
    "title": "Ravenswood",
    "actress": "Madeline Marie Dona",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
@@ -1709,6 +1849,11 @@
   {
    "title": "Hold Your Breath",
    "actress": "Katrina Bowden",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Hold Your Breath",
+   "actress": "Erin Marie Hogan",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
@@ -1739,6 +1884,11 @@
   {
    "title": "PSI Factor",
    "actress": "Robin Brûlé",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "PSI Factor",
+   "actress": "Katie Griffin",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
@@ -1832,6 +1982,11 @@
    "reason": "minor at production (birth year vs card year 1963)"
   },
   {
+   "title": "General Hospital",
+   "actress": "Finola Hughes",
+   "reason": "minor at production (birth year vs card year 1963)"
+  },
+  {
    "title": "Heist",
    "actress": "Emree Franklin",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
@@ -1845,6 +2000,56 @@
    "title": "Under ConTroll",
    "actress": "Eva Habermann",
    "reason": "minor at production (birth 1976, production year ~1990)"
+  },
+  {
+   "title": "One Life to Live",
+   "actress": "Bree Williamson",
+   "reason": "minor at production (birth year vs card year 1968)"
+  },
+  {
+   "title": "One Life to Live",
+   "actress": "Karen Lorre",
+   "reason": "minor at production (birth year vs card year 1968)"
+  },
+  {
+   "title": "Perfect Little Angels",
+   "actress": "Lisa Marie Caruk",
+   "reason": "minor at production (birth year vs card year 1998)"
+  },
+  {
+   "title": "Scooby Doo",
+   "actress": "Sarah Michelle Gellar",
+   "reason": "minor at production (birth 1977, production year ~1969)"
+  },
+  {
+   "title": "The Key of Awesome",
+   "actress": "Paige Grimard",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Taste the Blood of Dracula",
+   "actress": "Linda Hayden",
+   "reason": "minor at production (birth year vs card year 1970)"
+  },
+  {
+   "title": "The Suite Life on Deck",
+   "actress": "Brenda Song, Debby Ryan, Emily Morris",
+   "reason": "children's programme per Wikipedia categories"
+  },
+  {
+   "title": "Ransom",
+   "actress": "Morgan Kohan",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Tattooed Teenage Alien Fighters",
+   "actress": "K. Jill Sorgen, Leslie Danon",
+   "reason": "children's programme per Wikipedia categories"
+  },
+  {
+   "title": "V.R. Troopers",
+   "actress": "Sarah Joy Brown",
+   "reason": "children's programme per Wikipedia categories"
   }
  ],
  "resolved_ambiguous": [
@@ -1902,6 +2107,26 @@
    "title": "General Hospital",
    "basis": "year 1963",
    "card_id": 1269
+  },
+  {
+   "title": "One Life to Live",
+   "basis": "year 1968",
+   "card_id": 1624
+  },
+  {
+   "title": "Van Helsing",
+   "basis": "year 2004",
+   "card_id": 1914
+  },
+  {
+   "title": "The Mentalist",
+   "basis": "year 2008",
+   "card_id": 2920
+  },
+  {
+   "title": "The Bold and the Beautiful",
+   "basis": "year 1987",
+   "card_id": 1001
   }
  ],
  "ambiguous_new_cards": [
@@ -1916,16 +2141,18 @@
   "Heist",
   "Passions",
   "Buffy the Vampire Slayer",
-  "Beauty and the Beast"
+  "Beauty and the Beast",
+  "Hypnotic",
+  "The Exorcist"
  ],
  "stats": {
-  "csv_rows": 250,
-  "items": 283,
-  "groups": 208,
-  "links": 111,
+  "csv_rows": 375,
+  "items": 426,
+  "groups": 287,
+  "links": 159,
   "old_source_records": 61,
-  "new": 19,
-  "dropped": 63,
-  "excluded": 50
+  "new": 29,
+  "dropped": 80,
+  "excluded": 66
  }
 }
