@@ -1,8 +1,8 @@
 {
  "id": "hypnosis-imdb-list-oct24",
  "label": "IMDb list 'Hypnotized Women in TV and Film' (full CSV export, 25 Oct 2026)",
- "group_title": "IMDb list — Hypnotized Women in TV and Film (CSV rows 1-375)",
- "description": "IMDb list ls099930129 by sleep-71052 (an actress per row, each noted with the production in which she is hypnotized, brainwashed, possessed or mind-controlled; the list does not separate those mechanisms). Source is the owner's CSV export (rows 1-375 of 1,474 processed so far); live IMDb stays behind a WAF challenge, so each production was checked against its Wikipedia article instead. Existing catalog cards only receive the list as a source link and tag; new cards need a Wikipedia article that names the listed actress, a film/TV production, a matching year, an adult cast member and not a children's programme. Cards tagged imdb-list-only have the production and actress confirmed but no plot passage matching her role, so their hypnosis/possession/mind-control type and the wife/pregnancy/kids fields stay 'not stated'. Rows are listed under dropped (no unambiguous Wikipedia match) or excluded (minor at the time, children's/teen programme, actress not named in the matched article).",
+ "group_title": "IMDb list — Hypnotized Women in TV and Film (CSV rows 1-500)",
+ "description": "IMDb list ls099930129 by sleep-71052 (an actress per row, each noted with the production in which she is hypnotized, brainwashed, possessed or mind-controlled; the list does not separate those mechanisms). Source is the owner's CSV export (rows 1-500 of 1,474 processed so far); live IMDb stays behind a WAF challenge, so each production was checked against its Wikipedia article instead. Existing catalog cards only receive the list as a source link and tag; new cards need a Wikipedia article that names the listed actress, a film/TV production, a matching year, an adult cast member and not a children's programme. Cards tagged imdb-list-only have the production and actress confirmed but no plot passage matching her role, so their hypnosis/possession/mind-control type and the wife/pregnancy/kids fields stay 'not stated'. Rows are listed under dropped (no unambiguous Wikipedia match) or excluded (minor at the time, children's/teen programme, actress not named in the matched article).",
  "category_labels": {},
  "records": [
   {
@@ -1170,6 +1170,7 @@
   {
    "title": "Killer Eye 2",
    "actresses": [
+    "Ariana Madix",
     "Chelsea Edmundson",
     "Erica Rhodes",
     "Lauren Furs",
@@ -1232,6 +1233,7 @@
    "title": "Shangri-La: Near Extinction",
    "actresses": [
     "Evangeline Crittenden",
+    "Mercy Malick",
     "Pamela Chau"
    ],
    "reason": "no matching Wikipedia article found"
@@ -1253,7 +1255,9 @@
   {
    "title": "Charmed (1998)",
    "actresses": [
+    "Amy Laughlin",
     "Holly Marie Combs",
+    "Jenya Lano",
     "Leigh-Allyn Baker",
     "Marnette Patterson",
     "Michelle Stafford",
@@ -1560,7 +1564,8 @@
    "title": "The Corporation",
    "actresses": [
     "Dee Wallace",
-    "Griffin Drew"
+    "Griffin Drew",
+    "Katherine Kelly Lang"
    ],
    "reason": "no matching Wikipedia article found"
   },
@@ -1680,7 +1685,8 @@
   {
    "title": "Amor Mio",
    "actresses": [
-    "Vanessa Guzmán"
+    "Vanessa Guzmán",
+    "Verónica Jaspeado"
    ],
    "reason": "no matching Wikipedia article found"
   },
@@ -1718,6 +1724,169 @@
     "Hannah Kasulka"
    ],
    "reason": "Wikipedia page 'The Exorcist' year 1973 does not match listed year 2016 (a different production with the same title; not resolved)"
+  },
+  {
+   "title": "Infested",
+   "actresses": [
+    "Nahanni Johnstone"
+   ],
+   "reason": "Wikipedia page 'Infested' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Agent",
+   "actresses": [
+    "Olivia Graham"
+   ],
+   "reason": "Wikipedia page 'Agent Carter (TV series)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Rox",
+   "actresses": [
+    "Jana Geurts"
+   ],
+   "reason": "Wikipedia match looked like a disambiguation/non-production page"
+  },
+  {
+   "title": "The Hypnotized",
+   "actresses": [
+    "Kim Hye-su"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "CSI",
+   "actresses": [
+    "Ricki Lander"
+   ],
+   "reason": "Wikipedia page 'CSI: Crime Scene Investigation' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Override",
+   "actresses": [
+    "Jessica Impiazzi"
+   ],
+   "reason": "Wikipedia match looked like a disambiguation/non-production page"
+  },
+  {
+   "title": "The Tombs",
+   "actresses": [
+    "Jessica Impiazzi"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Kaboum",
+   "actresses": [
+    "Dominique Leduc",
+    "Marie-Ève Larivière"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Never Say Never Again (1994)",
+   "actresses": [
+    "Kylie Ireland"
+   ],
+   "reason": "Wikipedia page 'Never Say Never Again' year 1983 does not match listed year 1994 (a different production with the same title; not resolved)"
+  },
+  {
+   "title": "The Hidden",
+   "actresses": [
+    "Claudia Christian"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Preacher",
+   "actresses": [
+    "Ashton Leigh"
+   ],
+   "reason": "Wikipedia page 'Preacher (comics)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Noobees",
+   "actresses": [
+    "Michelle Olvera"
+   ],
+   "reason": "Wikipedia match looked like a disambiguation/non-production page"
+  },
+  {
+   "title": "Let Her Out",
+   "actresses": [
+    "Alanna LeVierge"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Nancy Drew",
+   "actresses": [
+    "Leah Lewis"
+   ],
+   "reason": "Wikipedia page 'Nancy Drew (2002 film)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Empire of the Ants",
+   "actresses": [
+    "Joan Collins"
+   ],
+   "reason": "Wikipedia page 'Empire of the Ants' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "El Capitán Trueno y el Santo Grial",
+   "actresses": [
+    "Natasha Yarovenko"
+   ],
+   "reason": "Wikipedia match 'El Capitán Trueno y el Santo Grial' is not a film or TV production"
+  },
+  {
+   "title": "Zorro: La Espada y La Rosa",
+   "actresses": [
+    "Andrea López"
+   ],
+   "reason": "Wikipedia match 'El Zorro, la espada y la rosa' is not a film or TV production"
+  },
+  {
+   "title": "Disturbing Behavior",
+   "actresses": [
+    "Crystal Cass"
+   ],
+   "reason": "Wikipedia page 'Disturbing Behavior (The Vampire Diaries)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Buck Rogers",
+   "actresses": [
+    "Erin Gray"
+   ],
+   "reason": "Wikipedia match 'Buck Rogers' is not a film or TV production"
+  },
+  {
+   "title": "Vampire High",
+   "actresses": [
+    "Maggie Castle"
+   ],
+   "reason": "Wikipedia page 'Vampire High' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "The Dead Want Women",
+   "actresses": [
+    "Jessica Morris"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "American Exorcism",
+   "actresses": [
+    "Jessica Morris",
+    "Kate Tumanova"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Haunting of the Innocent",
+   "actresses": [
+    "Jessica Morris"
+   ],
+   "reason": "no matching Wikipedia article found"
   }
  ],
  "excluded": [
@@ -1728,7 +1897,7 @@
   },
   {
    "title": "Grachi",
-   "actress": "Liannet Borrego",
+   "actress": "Isabella Castillo, Liannet Borrego",
    "reason": "children's programme per Wikipedia categories"
   },
   {
@@ -1739,6 +1908,11 @@
   {
    "title": "Charmed",
    "actress": "Rebekah Asselstine",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Charmed",
+   "actress": "Leah Lewis",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
@@ -1892,6 +2066,11 @@
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
+   "title": "PSI Factor",
+   "actress": "Mimi Kuzyk",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
    "title": "Power Rangers in Space",
    "actress": "Melody Perkins",
    "reason": "children's programme per Wikipedia categories"
@@ -1913,6 +2092,11 @@
   },
   {
    "title": "Doctor Who",
+   "actress": "Louise Jameson",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Doctor Who",
    "actress": "Billie Piper",
    "reason": "minor at production (birth 1982, production year ~1963)"
   },
@@ -1925,6 +2109,11 @@
    "title": "Doctor Who",
    "actress": "Lalla Ward",
    "reason": "minor at production (birth 1951, production year ~1963)"
+  },
+  {
+   "title": "Doctor Who",
+   "actress": "Katy Manning",
+   "reason": "minor at production (birth 1946, production year ~1963)"
   },
   {
    "title": "The Irregulars",
@@ -1997,6 +2186,11 @@
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
+   "title": "My Babysitter's a Vampire",
+   "actress": "Bindi Irwin",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
    "title": "Under ConTroll",
    "actress": "Eva Habermann",
    "reason": "minor at production (birth 1976, production year ~1990)"
@@ -2014,6 +2208,11 @@
   {
    "title": "Perfect Little Angels",
    "actress": "Lisa Marie Caruk",
+   "reason": "minor at production (birth year vs card year 1998)"
+  },
+  {
+   "title": "Perfect Little Angels",
+   "actress": "Tanja Reichert",
    "reason": "minor at production (birth year vs card year 1998)"
   },
   {
@@ -2050,6 +2249,116 @@
    "title": "V.R. Troopers",
    "actress": "Sarah Joy Brown",
    "reason": "children's programme per Wikipedia categories"
+  },
+  {
+   "title": "Superhuman Samurai Syber-Squad",
+   "actress": "Jayme Betcher",
+   "reason": "teen programme and actress birth year not given"
+  },
+  {
+   "title": "Supah Ninjas",
+   "actress": "Gracie Dzienny",
+   "reason": "children's programme per Wikipedia categories"
+  },
+  {
+   "title": "The Thundermans",
+   "actress": "Kira Kosarin",
+   "reason": "minor at production (birth year vs card year 2013)"
+  },
+  {
+   "title": "Infested",
+   "actress": "Nahanni Johnstone",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Smallville",
+   "actress": "Kandyse McClure",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Smallville",
+   "actress": "Allison Mack",
+   "reason": "teen programme and actress birth year not given"
+  },
+  {
+   "title": "Smallville",
+   "actress": "Kristin Kreuk",
+   "reason": "teen programme and actress birth year not given"
+  },
+  {
+   "title": "Smallville",
+   "actress": "Annette O'Toole",
+   "reason": "teen programme and actress birth year not given"
+  },
+  {
+   "title": "Smallville",
+   "actress": "Erica Durance",
+   "reason": "teen programme and actress birth year not given"
+  },
+  {
+   "title": "Power Rangers RPM",
+   "actress": "Adelaide Kane",
+   "reason": "children's programme per Wikipedia categories"
+  },
+  {
+   "title": "Agent",
+   "actress": "Olivia Graham",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Power Rangers Dino Thunder",
+   "actress": "Emma Lahana, Sally Martin",
+   "reason": "children's programme per Wikipedia categories"
+  },
+  {
+   "title": "CSI",
+   "actress": "Ricki Lander",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Power Rangers Beast Morphers",
+   "actress": "Jacqueline Scislowski",
+   "reason": "children's programme per Wikipedia categories"
+  },
+  {
+   "title": "Preacher",
+   "actress": "Ashton Leigh",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Nancy Drew",
+   "actress": "Leah Lewis",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Empire of the Ants",
+   "actress": "Joan Collins",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Disturbing Behavior",
+   "actress": "Crystal Cass",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Svengali",
+   "actress": "Marian Marsh",
+   "reason": "minor at production (birth year vs card year 1931)"
+  },
+  {
+   "title": "Todd and the Book of Pure Evil",
+   "actress": "Courtney-Jane White",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Todd and the Book of Pure Evil",
+   "actress": "Maggie Castle",
+   "reason": "teen programme and actress birth year not given"
+  },
+  {
+   "title": "Vampire High",
+   "actress": "Maggie Castle",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   }
  ],
  "resolved_ambiguous": [
@@ -2127,6 +2436,26 @@
    "title": "The Bold and the Beautiful",
    "basis": "year 1987",
    "card_id": 1001
+  },
+  {
+   "title": "Svengali",
+   "basis": "year hint 1983",
+   "card_id": 43
+  },
+  {
+   "title": "Dracula",
+   "basis": "year hint 1979",
+   "card_id": 681
+  },
+  {
+   "title": "Diagnosis Murder",
+   "basis": "year 1993",
+   "card_id": 1131
+  },
+  {
+   "title": "Svengali",
+   "basis": "year 1931",
+   "card_id": 32
   }
  ],
  "ambiguous_new_cards": [
@@ -2143,16 +2472,17 @@
   "Buffy the Vampire Slayer",
   "Beauty and the Beast",
   "Hypnotic",
-  "The Exorcist"
+  "The Exorcist",
+  "Smallville"
  ],
  "stats": {
-  "csv_rows": 375,
-  "items": 426,
-  "groups": 287,
-  "links": 159,
+  "csv_rows": 500,
+  "items": 568,
+  "groups": 369,
+  "links": 199,
   "old_source_records": 61,
-  "new": 29,
-  "dropped": 80,
-  "excluded": 66
+  "new": 40,
+  "dropped": 103,
+  "excluded": 94
  }
 }
