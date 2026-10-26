@@ -2025,46 +2025,6 @@
    ]
   },
   {
-   "kept_id": 66,
-   "kept": "Gaslight (1944)",
-   "scope": "cross-source",
-   "members": [
-    {
-     "rid": "xla62ucxbx02u5:66",
-     "title": "Gaslight",
-     "subtitle": "",
-     "year": "1944"
-    },
-    {
-     "rid": "ig6qlxqxoxvcxla:319",
-     "title": "Gaslight (1944)",
-     "subtitle": "",
-     "year": "1944",
-     "matched_by": "title+year"
-    }
-   ]
-  },
-  {
-   "kept_id": 67,
-   "kept": "Él (1953)",
-   "scope": "cross-source",
-   "members": [
-    {
-     "rid": "xla62ucxbx02u5:67",
-     "title": "Él",
-     "subtitle": "This Strange Passion · Buñuel",
-     "year": "1953"
-    },
-    {
-     "rid": "ig6qlxqxoxvcxla:320",
-     "title": "Él / This Strange Passion (1953)",
-     "subtitle": "",
-     "year": "1953",
-     "matched_by": "alias"
-    }
-   ]
-  },
-  {
    "kept_id": 68,
    "kept": "Recalled (2021)",
    "scope": "cross-source",
@@ -2088,80 +2048,6 @@
      "subtitle": "",
      "year": "2021",
      "matched_by": "match_title"
-    }
-   ]
-  },
-  {
-   "kept_id": 69,
-   "kept": "Flower of Evil (2020)",
-   "scope": "cross-source",
-   "members": [
-    {
-     "rid": "xla62ucxbx02u5:69",
-     "title": "Flower of Evil",
-     "subtitle": "악의 꽃 · 16 episodes",
-     "year": "2020"
-    },
-    {
-     "rid": "ig6qlxqxoxvcxla:322",
-     "title": "Flower of Evil (2020)",
-     "subtitle": "",
-     "year": "2020",
-     "matched_by": "title+year"
-    },
-    {
-     "rid": "worldwide-hypnosis:370",
-     "title": "Flower of Evil",
-     "subtitle": "",
-     "year": "2020",
-     "matched_by": "title+year"
-    },
-    {
-     "rid": "kr-cn-hypnosis:13",
-     "title": "Flower of Evil",
-     "subtitle": "",
-     "year": "2020",
-     "matched_by": "match_title"
-    }
-   ]
-  },
-  {
-   "kept_id": 70,
-   "kept": "Ayna 'Aqli (1974)",
-   "scope": "cross-source",
-   "members": [
-    {
-     "rid": "xla62ucxbx02u5:70",
-     "title": "Ayna 'Aqli",
-     "subtitle": "Where Is My Mind?",
-     "year": "1974"
-    },
-    {
-     "rid": "ig6qlxqxoxvcxla:323",
-     "title": "Ayna ‘Aqli (1974)",
-     "subtitle": "",
-     "year": "1974",
-     "matched_by": "title+year"
-    }
-   ]
-  },
-  {
-   "kept_id": 71,
-   "kept": "To Have & to Hold (1996)",
-   "scope": "cross-source",
-   "members": [
-    {
-     "rid": "xla62ucxbx02u5:71",
-     "title": "To Have & to Hold",
-     "subtitle": "",
-     "year": "1996"
-    },
-    {
-     "rid": "ig6qlxqxoxvcxla:324",
-     "title": "To Have & to Hold (1996)",
-     "subtitle": "",
-     "year": "1996",
-     "matched_by": "title+year"
     }
    ]
   },
@@ -2321,46 +2207,6 @@
      "title": "Coronation Street",
      "subtitle": "",
      "year": "",
-     "matched_by": "title+year"
-    }
-   ]
-  },
-  {
-   "kept_id": 76,
-   "kept": "EastEnders (1997–98)",
-   "scope": "cross-source",
-   "members": [
-    {
-     "rid": "xla62ucxbx02u5:76",
-     "title": "EastEnders",
-     "subtitle": "",
-     "year": ""
-    },
-    {
-     "rid": "xla62ucxbx02u5:388",
-     "title": "EastEnders",
-     "subtitle": "",
-     "year": "1997–98"
-    },
-    {
-     "rid": "ig6qlxqxoxvcxla:417",
-     "title": "EastEnders — case 1",
-     "subtitle": "",
-     "year": "",
-     "matched_by": "alias"
-    },
-    {
-     "rid": "ig6qlxqxoxvcxla:418",
-     "title": "EastEnders — case 2",
-     "subtitle": "",
-     "year": "",
-     "matched_by": "alias"
-    },
-    {
-     "rid": "ig6qlxqxoxvcxla:722",
-     "title": "EastEnders (1997–98)",
-     "subtitle": "",
-     "year": "1997–98",
      "matched_by": "title+year"
     }
    ]
@@ -3195,26 +3041,6 @@
    ]
   },
   {
-   "kept_id": 107,
-   "kept": "Longlegs (2024)",
-   "scope": "cross-source",
-   "members": [
-    {
-     "rid": "xla62ucxbx02u5:107",
-     "title": "Longlegs",
-     "subtitle": "",
-     "year": "2024"
-    },
-    {
-     "rid": "ig6qlxqxoxvcxla:779",
-     "title": "Longlegs (2024)",
-     "subtitle": "",
-     "year": "2024",
-     "matched_by": "title+year"
-    }
-   ]
-  },
-  {
    "kept_id": 108,
    "kept": "Hypnotizing Mother-in-Law (1908)",
    "scope": "cross-source",
@@ -3251,26 +3077,6 @@
      "subtitle": "",
      "year": "",
      "matched_by": "alias"
-    }
-   ]
-  },
-  {
-   "kept_id": 110,
-   "kept": "Control (2022)",
-   "scope": "cross-source",
-   "members": [
-    {
-     "rid": "xla62ucxbx02u5:110",
-     "title": "Control",
-     "subtitle": "",
-     "year": "2022"
-    },
-    {
-     "rid": "ig6qlxqxoxvcxla:782",
-     "title": "Control (2022 Canada)",
-     "subtitle": "",
-     "year": "2022 Canada",
-     "matched_by": "title+year"
     }
    ]
   },
@@ -5162,33 +4968,6 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
-    }
-   ]
-  },
-  {
-   "kept_id": 170,
-   "kept": "Immaculate (2024)",
-   "scope": "cross-source",
-   "members": [
-    {
-     "rid": "xla62ucxbx02u5:171",
-     "title": "Immaculate",
-     "subtitle": "",
-     "year": "2024"
-    },
-    {
-     "rid": "ig6qlxqxoxvcxla:922",
-     "title": "Immaculate (2024)",
-     "subtitle": "",
-     "year": "2024",
-     "matched_by": "title+year"
-    },
-    {
-     "rid": "pregnant-yt-oct15:23",
-     "title": "Immaculate",
-     "subtitle": "",
-     "year": "2024",
-     "matched_by": "match_title"
     }
    ]
   },
@@ -10255,26 +10034,6 @@
    ]
   },
   {
-   "kept_id": 385,
-   "kept": "Beverly Hills, 90210 (1995)",
-   "scope": "cross-source",
-   "members": [
-    {
-     "rid": "xla62ucxbx02u5:386",
-     "title": "Beverly Hills, 90210",
-     "subtitle": "",
-     "year": "1995"
-    },
-    {
-     "rid": "ig6qlxqxoxvcxla:720",
-     "title": "Beverly Hills, 90210 (1995)",
-     "subtitle": "",
-     "year": "1995",
-     "matched_by": "title+year"
-    }
-   ]
-  },
-  {
    "kept_id": 386,
    "kept": "Melrose Place (1994)",
    "scope": "cross-source",
@@ -10290,46 +10049,6 @@
      "title": "Melrose Place",
      "subtitle": "",
      "year": "",
-     "matched_by": "title+year"
-    }
-   ]
-  },
-  {
-   "kept_id": 387,
-   "kept": "One Life to Live (2008)",
-   "scope": "cross-source",
-   "members": [
-    {
-     "rid": "xla62ucxbx02u5:389",
-     "title": "One Life to Live",
-     "subtitle": "",
-     "year": "2008"
-    },
-    {
-     "rid": "ig6qlxqxoxvcxla:723",
-     "title": "One Life to Live (2008)",
-     "subtitle": "",
-     "year": "2008",
-     "matched_by": "title+year"
-    }
-   ]
-  },
-  {
-   "kept_id": 388,
-   "kept": "Save Me (2017)",
-   "scope": "cross-source",
-   "members": [
-    {
-     "rid": "xla62ucxbx02u5:390",
-     "title": "Save Me",
-     "subtitle": "",
-     "year": "2017"
-    },
-    {
-     "rid": "ig6qlxqxoxvcxla:724",
-     "title": "Save Me (2017 Korea)",
-     "subtitle": "",
-     "year": "2017 Korea",
      "matched_by": "title+year"
     }
    ]
@@ -11094,40 +10813,6 @@
      "title": "Yeh Vaada Raha",
      "subtitle": "",
      "year": "2015–17",
-     "matched_by": "title+year"
-    }
-   ]
-  },
-  {
-   "kept_id": 421,
-   "kept": "Vish Ya Amrit: Sitara (2018–19)",
-   "scope": "cross-source",
-   "members": [
-    {
-     "rid": "xla62ucxbx02u5:424",
-     "title": "Vish Ya Amrit: Sitara",
-     "subtitle": "",
-     "year": "2018–19"
-    },
-    {
-     "rid": "ig6qlxqxoxvcxla:523",
-     "title": "Vish Ya Amrit: Sitara (2018–19) — possible",
-     "subtitle": "",
-     "year": "2018–19",
-     "matched_by": "alias"
-    },
-    {
-     "rid": "ig6qlxqxoxvcxla:748",
-     "title": "Vish Ya Amrit: Sitara (2018–19)",
-     "subtitle": "",
-     "year": "2018–19",
-     "matched_by": "title+year"
-    },
-    {
-     "rid": "india-catalog:137",
-     "title": "Vish Ya Amrit: Sitara",
-     "subtitle": "",
-     "year": "2018–19",
      "matched_by": "title+year"
     }
    ]
@@ -12683,33 +12368,6 @@
      "subtitle": "",
      "year": "2020",
      "matched_by": "match_title"
-    }
-   ]
-  },
-  {
-   "kept_id": 501,
-   "kept": "Pan's Labyrinth / El laberinto del fauno (2006)",
-   "scope": "cross-source",
-   "members": [
-    {
-     "rid": "xla62ucxbx02u5:505",
-     "title": "Pan's Labyrinth / El laberinto del fauno",
-     "subtitle": "",
-     "year": "2006"
-    },
-    {
-     "rid": "ig6qlxqxoxvcxla:70",
-     "title": "Pan's Labyrinth / El laberinto del fauno",
-     "subtitle": "",
-     "year": "2006",
-     "matched_by": "title+year"
-    },
-    {
-     "rid": "ig6qlxqxoxvcxla:400",
-     "title": "Pan’s Labyrinth / El laberinto del fauno (2006)",
-     "subtitle": "",
-     "year": "2006",
-     "matched_by": "title+year"
     }
    ]
   },
@@ -45709,26 +45367,6 @@
    ]
   },
   {
-   "kept_id": 2698,
-   "kept": "The Last Empress (2018-19)",
-   "scope": "cross-source",
-   "members": [
-    {
-     "rid": "no-link-additions:31",
-     "title": "The Last Empress",
-     "subtitle": "Season 1 · 52 episodes (aired 21 Nov 2018 - 21 Feb 2019); specific brainwashing episodes not identified",
-     "year": "2018-19"
-    },
-    {
-     "rid": "kr-cn-hypnosis:71",
-     "title": "The Last Empress",
-     "subtitle": "",
-     "year": "2018-19",
-     "matched_by": "match_title"
-    }
-   ]
-  },
-  {
    "kept_id": 2699,
    "kept": "Lao Gong Qing He Wo Lian Ai Ba (2025)",
    "scope": "cross-source",
@@ -47803,6 +47441,379 @@
    "retired_id": 1114
   }
  ],
+ "exclusions": [
+  {
+   "title": "Gaslight",
+   "year": "1944",
+   "reason": "Husband gaslights wife to make her doubt her sanity; purely psychological manipulation, no hypnosis, trance, drug, spell or device",
+   "status": "applied",
+   "retired_id": 66
+  },
+  {
+   "title": "Él",
+   "year": "1953",
+   "reason": "Jealous husband isolates and psychologically dominates wife; ordinary psychological domination only",
+   "status": "applied",
+   "retired_id": 67
+  },
+  {
+   "title": "Flower of Evil",
+   "year": "2020",
+   "reason": "Husband deceives wife about his stolen identity; deception only, no hypnosis or mind control",
+   "status": "applied",
+   "retired_id": 69
+  },
+  {
+   "title": "Ayna 'Aqli",
+   "year": "1974",
+   "reason": "Husband tries to convince wife she is insane (gaslighting); no hypnosis or mind control",
+   "status": "applied",
+   "retired_id": 70
+  },
+  {
+   "title": "To Have & to Hold",
+   "year": "1996",
+   "reason": "Husband confines wife and forces her to remake herself as his dead wife; coercive control by confinement, no hypnosis",
+   "status": "applied",
+   "retired_id": 71
+  },
+  {
+   "title": "EastEnders",
+   "year": "1997–98",
+   "reason": "Cult leader indoctrinates a woman (\"under his spell\" is figurative); cult influence only",
+   "status": "applied",
+   "retired_id": 76
+  },
+  {
+   "title": "Longlegs",
+   "year": "2024",
+   "reason": "Mother becomes killer's accomplice under extreme duress/threat to daughter; record itself says coercion, not hypnosis or possession",
+   "status": "applied",
+   "retired_id": 107
+  },
+  {
+   "title": "Control",
+   "year": "2022",
+   "reason": "Mother confined and forced through challenges; physical coercion/leverage, not control of her mind",
+   "status": "applied",
+   "retired_id": 110
+  },
+  {
+   "title": "Immaculate",
+   "year": "2024",
+   "reason": "Convent conspiracy forces pregnancy by coercion and imprisonment; record says coercive control, no hypnosis/spell/drug mechanism",
+   "status": "applied",
+   "retired_id": 170
+  },
+  {
+   "title": "Beverly Hills, 90210",
+   "year": "1995",
+   "reason": "Woman is brainwashed into joining a campus cult; cult indoctrination only, no hypnosis/drug/device",
+   "status": "applied",
+   "retired_id": 385
+  },
+  {
+   "title": "One Life to Live",
+   "year": "2008",
+   "reason": "Husband isolates and deceives amnesiac wife until \"brainwashed\"; deception/isolation only",
+   "status": "applied",
+   "retired_id": 387
+  },
+  {
+   "title": "Save Me",
+   "year": "2017",
+   "reason": "Cult psychologically breaks down and brainwashes a family; ordinary cult indoctrination only",
+   "status": "applied",
+   "retired_id": 388
+  },
+  {
+   "title": "Vish Ya Amrit: Sitara",
+   "year": "2018–19",
+   "reason": "Deception-based \"brainwashing\": mother lied to her; record says not literal supernatural control; no hypnosis, drug, spell or device",
+   "status": "applied",
+   "retired_id": 421
+  },
+  {
+   "title": "Pan's Labyrinth / El laberinto del fauno",
+   "year": "2006",
+   "reason": "Stepfather military/patriarchal control; record states \"no hypnosis\"",
+   "status": "applied",
+   "retired_id": 501
+  },
+  {
+   "title": "Birth",
+   "year": "2022",
+   "reason": "Cult coercion during pregnancy; record says no hypnosis, trance or mind-control term verified",
+   "status": "applied",
+   "retired_id": 846
+  },
+  {
+   "title": "Keep Sweet: Pray and Obey",
+   "year": "2022",
+   "reason": "FLDS docuseries on coercive indoctrination; record flag \"NOT literal hypnosis\"",
+   "status": "applied",
+   "retired_id": 2027
+  },
+  {
+   "title": "Prophet's Prey",
+   "year": "2015",
+   "reason": "FLDS documentary on brainwashing/obedience training; record flag \"NOT literal hypnosis\"",
+   "status": "applied",
+   "retired_id": 2028
+  },
+  {
+   "title": "Daughters of the Cult",
+   "year": "2024",
+   "reason": "Cult docuseries on indoctrination; record flag \"NOT literal hypnosis\"",
+   "status": "applied",
+   "retired_id": 2029
+  },
+  {
+   "title": "The Other Lamb",
+   "year": "2019",
+   "reason": "Cult drama of gaslighting and brainwashing of wives; record flag \"NOT literal hypnosis\"",
+   "status": "applied",
+   "retired_id": 2030
+  },
+  {
+   "title": "Waco",
+   "year": "2018",
+   "reason": "Series on Koresh's coercive indoctrination; record flag \"NOT literal hypnosis\"",
+   "status": "applied",
+   "retired_id": 2031
+  },
+  {
+   "title": "Outlaw Prophet: Warren Jeffs",
+   "year": "2014",
+   "reason": "Documentary on a cult leader's dictatorial control of followers; record flag \"NOT literal hypnosis\"",
+   "status": "applied",
+   "retired_id": 2032
+  },
+  {
+   "title": "Escaping Polygamy",
+   "year": "2014–2019",
+   "reason": "Docudrama series on escaping polygamist cults and brainwashing; record flag \"NOT literal hypnosis\"",
+   "status": "applied",
+   "retired_id": 2033
+  },
+  {
+   "title": "The Thirteenth Wife: Escaping Polygamy",
+   "year": "2025",
+   "reason": "Cult grooming/indoctrination; explicit brainwashing unverified; record flag \"NOT literal hypnosis\"",
+   "status": "applied",
+   "retired_id": 2034
+  },
+  {
+   "title": "Surviving My Father: The Rachel Jeffs Story",
+   "year": "2025",
+   "reason": "Sect leader's manipulation, purity tests and psychological games; no hypnosis; victim is his daughter",
+   "status": "applied",
+   "retired_id": 2040
+  },
+  {
+   "title": "El Extraño Retorno de Diana Salazar",
+   "year": "1988",
+   "reason": "Psychiatrist manipulates a woman psychologically for revenge; record says psychological manipulation, not formal trance hypnosis",
+   "status": "applied",
+   "retired_id": 2147
+  },
+  {
+   "title": "The Young and the Restless — Mariah Copeland",
+   "year": "2021 storyline; brainwashing arc 2025–26",
+   "reason": "Surrogacy card; later \"brainwashing\" is manipulation via hallucinations/cult leader; record says not hypnosis or clearly external control",
+   "status": "applied",
+   "retired_id": 2257
+  },
+  {
+   "title": "Toni, männlich, Hebamme — Episode 10 'Das Glück der Anderen'",
+   "year": "2022",
+   "reason": "Surrogacy card; overbearing domestic coercion; record says not hypnosis, only coercive psychological control",
+   "status": "applied",
+   "retired_id": 2258
+  },
+  {
+   "title": "The Last Empress",
+   "year": "2018-19",
+   "reason": "Palace drama tagged only for brainwashing/gaslighting themes; no hypnosis, drug, spell or device",
+   "status": "applied",
+   "retired_id": 2698
+  },
+  {
+   "title": "Secrets of the Sisterhood",
+   "year": "2019",
+   "reason": "Cult indoctrination, pledge ritual and blackmail; record says cult coercion, not hypnosis",
+   "status": "applied",
+   "retired_id": 2748
+  },
+  {
+   "title": "Catatan Hati — Eps 37",
+   "year": "2026",
+   "reason": "Mother falls under a cult leader's sway; record says cult influence, not hypnosis",
+   "status": "applied",
+   "retired_id": 3230
+  },
+  {
+   "title": "The Liberation",
+   "year": "2026",
+   "reason": "Mother joins an all-female commune \"entranced\" by its leader; record says cult entrancement, not literal hypnosis",
+   "status": "applied",
+   "retired_id": 3271
+  },
+  {
+   "title": "Papás Por Siempre",
+   "year": "2026",
+   "reason": "Surrogate forced by a man for money; record says coercion, not hypnosis",
+   "status": "applied",
+   "retired_id": 3287
+  },
+  {
+   "title": "Becoming the Wife of a Dark Cult Overlord (사이비 교주의 아내가 되었습니다)",
+   "year": "2025",
+   "reason": "Cult that brainwashes members into believing the outside world is evil; ordinary cult indoctrination",
+   "status": "applied",
+   "retired_id": 3297
+  },
+  {
+   "title": "Mother's Baby",
+   "year": "2025",
+   "reason": "Fertility-clinic paranoia/gaslighting-style plot; record says no hypnosis",
+   "status": "applied",
+   "retired_id": 3299
+  },
+  {
+   "title": "A Prism of Truths",
+   "year": "2026",
+   "reason": "Boyfriend's emotional manipulation and brainwashing over eight years; record says not hypnosis",
+   "status": "applied",
+   "retired_id": 3301
+  },
+  {
+   "title": "The Amazing Mr. X (The Spiritualist)",
+   "year": "1948",
+   "reason": "Fake spiritualist stages phenomena to defraud a widow; fraud, not hypnosis",
+   "status": "applied",
+   "retired_id": 3305
+  },
+  {
+   "title": "Unchosen",
+   "year": "2026",
+   "reason": "Sect leader abuse, husband violence and a convict who coerces his way into the community; coercion and abuse, no mind control",
+   "status": "applied",
+   "retired_id": 3306
+  },
+  {
+   "title": "Lies Hidden in My Garden (마당이 있는 집)",
+   "year": "2023",
+   "reason": "Husband gaslights wife about a buried body; record says psychological gaslighting, not hypnosis",
+   "status": "applied",
+   "retired_id": 3310
+  },
+  {
+   "title": "The Babymaker: The Dr. Cecil Jacobson Story (Seeds of Deception)",
+   "year": "1994",
+   "reason": "Fertility doctor secretly uses own sperm; fraud/deception, not hypnosis",
+   "status": "applied",
+   "retired_id": 3313
+  },
+  {
+   "title": "Poongatru Thirumbuma",
+   "year": "2025",
+   "reason": "Escape from controlling, abusive husband; record says abusive control, no hypnosis",
+   "status": "applied",
+   "retired_id": 3315
+  },
+  {
+   "title": "Broken Heaven (Bidaah)",
+   "year": "2025",
+   "reason": "Cult leader manipulates followers; ordinary cult influence, nothing about hypnosis or mind control",
+   "status": "applied",
+   "retired_id": 3324
+  },
+  {
+   "title": "The Healing",
+   "year": "2025",
+   "reason": "Healing community that turns cult-like; cult influence only, no control mechanism stated",
+   "status": "applied",
+   "retired_id": 3325
+  },
+  {
+   "title": "Of Dust and Stars",
+   "year": "2026",
+   "reason": "Heiress abused and controlled by adoptive family; record says family abuse, no hypnosis",
+   "status": "applied",
+   "retired_id": 3337
+  },
+  {
+   "title": "Bad Behaviour",
+   "year": "2024",
+   "reason": "Retreat run by a guru in a cult-like way; cult influence only",
+   "status": "applied",
+   "retired_id": 3344
+  },
+  {
+   "title": "The Kerala Story",
+   "year": "2023",
+   "reason": "Woman \"brainwashed\" into converting and becoming a terrorist; ordinary indoctrination, no hypnosis, drug, spell or device",
+   "status": "applied",
+   "retired_id": 3446
+  },
+  {
+   "title": "Lilli Marlene",
+   "year": "1950",
+   "reason": "Interrogation and repeated claims she was tortured/\"brainwashed\"; ordinary psychological pressure",
+   "status": "applied",
+   "retired_id": 3517
+  },
+  {
+   "title": "Rogue Agent",
+   "year": "2022",
+   "reason": "Cult brainwashing of a young woman (parents' remark); ordinary cult influence",
+   "status": "applied",
+   "retired_id": 3519
+  },
+  {
+   "title": "1BR",
+   "year": "2019",
+   "reason": "Woman slowly brainwashed into a cult by psychological conditioning; no hypnosis, drug or device",
+   "status": "applied",
+   "retired_id": 3520
+  },
+  {
+   "title": "Ripper Street",
+   "year": "2012",
+   "reason": "Woman dies after being \"brainwashed\" by a cult; ordinary cult influence",
+   "status": "applied",
+   "retired_id": 3523
+  },
+  {
+   "title": "Abduction",
+   "year": "1975",
+   "reason": "Captors brutalise and \"convert\" a woman to their cause; coercive captivity indoctrination",
+   "status": "applied",
+   "retired_id": 3531
+  },
+  {
+   "title": "Ushijima the Loan Shark (Season 3)",
+   "year": "2016",
+   "reason": "Con man and fake fortune teller dominate a woman and drain her money; con-artist influence",
+   "status": "applied",
+   "retired_id": 3549
+  },
+  {
+   "title": "Charlie Says",
+   "year": "2018",
+   "reason": "Manson cult brainwashing; ordinary cult influence",
+   "status": "applied",
+   "retired_id": 3569
+  },
+  {
+   "title": "Love Exposure",
+   "year": "2008",
+   "reason": "Cult camp indoctrination (Zero Church); ordinary cult influence",
+   "status": "applied",
+   "retired_id": 3570
+  }
+ ],
  "raw_counts": {
   "xla62ucxbx02u5": 2263,
   "ig6qlxqxoxvcxla": 1043,
@@ -47880,9 +47891,9 @@
   "pregnant-intimate-imdb-oct25": 13,
   "hypno-kids-witness-unverified-oct25": 8
  },
- "entry_count_after_dedupe": 3502,
+ "entry_count_after_dedupe": 3449,
  "within_source_groups": 6,
- "cross_source_groups": 1930,
- "index_only_records": 58,
- "local_only_records": 1203
+ "cross_source_groups": 1915,
+ "index_only_records": 56,
+ "local_only_records": 1177
 }

@@ -30,6 +30,8 @@ Pipeline
      apply_merge_rules()); the absorbed card's ID is retired and no other ID shifts. A local record may name
      "override_fields" to take precedence for those optional fields (see overrides()); opposite definite
      pregnancy / kids / marriage values that no record resolves are listed on the card's source-conflict line.
+     Curated removals live in sources/exclusions.json (see apply_exclusions()): the card is dropped on every run
+     (also when a source scraped from muse.ai lists it again) and its ID is retired.
   4. Sections, categories and notes are merged; files are written.
 
 Unchanged source content produces byte-identical output (no git diff).
@@ -969,6 +971,35 @@ def apply_merge_rules(groups, rules):
     return log
 
 
+def load_exclusions():
+    p = os.path.join(HERE, "..", "sources", "exclusions.json")
+    if not os.path.exists(p):
+        return []
+    with open(p, encoding="utf-8") as f:
+        return json.load(f).get("exclude", [])
+
+
+def apply_exclusions(groups, exclusions):
+    """Curated removals (sources/exclusions.json): a card whose records match an entry (normalized title + first
+    year of any member) is left out of the catalog on every run, whichever source lists it (so the daily re-scrape of
+    muse.ai cannot bring it back). Like a merge, the excluded group keeps its slot in the numbering, so its ID is
+    retired and no other ID shifts."""
+    log = []
+    for ex in exclusions:
+        tk, yk = norm_title(ex["title"]), year_key(ex.get("year", ""))
+        hit = [g for g in groups if not g.get("_absorbed_into") and not g.get("_excluded")
+               and any(norm_title(m["title"]) == tk and year_key(m["year"]) == yk for m in g["members"])]
+        entry = {"title": ex["title"], "year": ex.get("year", ""), "reason": ex.get("reason", "")}
+        if len(hit) != 1:
+            entry |= {"status": "not applied", "matches": len(hit)}
+            print(f"[sync] WARNING exclusion not applied: {entry}", file=sys.stderr)
+        else:
+            hit[0]["_excluded"] = True
+            entry |= {"status": "applied", "_g": hit[0]}
+        log.append(entry)
+    return log
+
+
 def loose_title(t):
     """Punctuation-, case- and whitespace-insensitive title key ("Please, Don't Touch Me" == "Please Don't Touch Me",
     "7 Aum Arivu" == "7aum Arivu")."""
@@ -1127,6 +1158,7 @@ def build(parsed):
         g["_has_full"] = any(m["kind"] == "full" for m in g["members"])
     merge_log = apply_merge_rules(groups, load_merge_rules())
     dedupe_log = dedupe_same_title_year(groups)
+    exclusion_log = apply_exclusions(groups, load_exclusions())
     for g in groups:
         if g["_has_full"]:
             n_full += 1
@@ -1139,8 +1171,8 @@ def build(parsed):
         else:
             next_idx += 1; new_id = next_idx
         g["_id"] = new_id
-        if g.get("_absorbed_into"):
-            continue      # retired ID: this card was merged into another one by a merge rule
+        if g.get("_absorbed_into") or g.get("_excluded"):
+            continue      # retired ID: this card was merged into another one by a merge rule, or excluded
         rec, primary = merge_group(g, new_id)
         for rule in g.get("_rules", []):
             for k in ("title", "subtitle"):
@@ -1179,12 +1211,17 @@ def build(parsed):
                              ({"kept_id": x["_a"]["_id"], "retired_id": x["_b"]["_id"]} if "_a" in x else {})
                              for x in merge_log]
 
+    report["exclusions"] = [{k: v for k, v in x.items() if not k.startswith("_")} |
+                            ({"retired_id": x["_g"]["_id"]} if "_g" in x else {}) for x in exclusion_log]
+
     # ---- sections: full catalog layout first, index sections merged in by category key
     full = parsed[full_id]
     sections = []
     def add_items(sec_groups, seen, items):
         out = []
         for it in items:
+            if it["rid"] not in rid_to_id:
+                continue      # record of an excluded card (sources/exclusions.json)
             nid = rid_to_id[it["rid"]]
             if nid in seen:
                 continue      # never show the same record twice inside one section
