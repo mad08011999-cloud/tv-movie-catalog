@@ -1,8 +1,8 @@
 {
  "id": "hypnosis-imdb-list-oct24",
  "label": "IMDb list 'Hypnotized Women in TV and Film' (full CSV export, 25 Oct 2026)",
- "group_title": "IMDb list — Hypnotized Women in TV and Film (CSV rows 1-1375)",
- "description": "IMDb list ls099930129 by sleep-71052 (an actress per row, each noted with the production in which she is hypnotized, brainwashed, possessed or mind-controlled; the list does not separate those mechanisms). Source is the owner's CSV export (rows 1-1375 of 1,474 processed so far); live IMDb stays behind a WAF challenge, so each production was checked against its Wikipedia article instead. Existing catalog cards only receive the list as a source link and tag; new cards need a Wikipedia article that names the listed actress, a film/TV production, a matching year, an adult cast member and not a children's programme. Cards tagged imdb-list-only have the production and actress confirmed but no plot passage matching her role, so their hypnosis/possession/mind-control type and the wife/pregnancy/kids fields stay 'not stated'. Rows are listed under dropped (no unambiguous Wikipedia match) or excluded (minor at the time, children's/teen programme, actress not named in the matched article).",
+ "group_title": "IMDb list — Hypnotized Women in TV and Film (CSV rows 1-1474)",
+ "description": "IMDb list ls099930129 by sleep-71052 (an actress per row, each noted with the production in which she is hypnotized, brainwashed, possessed or mind-controlled; the list does not separate those mechanisms). Source is the owner's CSV export (rows 1-1474 of 1,474 processed so far); live IMDb stays behind a WAF challenge, so each production was checked against its Wikipedia article instead. Existing catalog cards only receive the list as a source link and tag; new cards need a Wikipedia article that names the listed actress, a film/TV production, a matching year, an adult cast member and not a children's programme. Cards tagged imdb-list-only have the production and actress confirmed but no plot passage matching her role, so their hypnosis/possession/mind-control type and the wife/pregnancy/kids fields stay 'not stated'. Rows are listed under dropped (no unambiguous Wikipedia match) or excluded (minor at the time, children's/teen programme, actress not named in the matched article).",
  "category_labels": {},
  "records": [
   {
@@ -1772,6 +1772,7 @@
   {
    "title": "Infested",
    "actresses": [
+    "Lisa Ann Hadley",
     "Nahanni Johnstone"
    ],
    "reason": "Wikipedia page 'Infested' does not name the listed actress(es), so the title match is unconfirmed"
@@ -2585,7 +2586,8 @@
    "title": "Stargirl",
    "actresses": [
     "Amy Smart",
-    "Brec Bassinger"
+    "Brec Bassinger",
+    "Meg DeLacy"
    ],
    "reason": "no matching Wikipedia article found"
   },
@@ -2698,6 +2700,7 @@
   {
    "title": "Super Detention",
    "actresses": [
+    "Athena Bantis",
     "Jessica Vano"
    ],
    "reason": "no matching Wikipedia article found"
@@ -3985,6 +3988,317 @@
     "Hannah Barefoot"
    ],
    "reason": "Wikipedia page 'Off the Rails (2016 film)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Witchblade",
+   "actresses": [
+    "Megan Fahlenbock"
+   ],
+   "reason": "Wikipedia page 'Witchblade' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Eternal Damn Nation",
+   "actresses": [
+    "Carson Dougherty",
+    "Megan Grbic"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Heretics",
+   "actresses": [
+    "Neeley Dayan"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Zombie Apache",
+   "actresses": [
+    "Malu Martins"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Trick of the Witch",
+   "actresses": [
+    "Rebecca Da Costa"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Hanky Panky",
+   "actresses": [
+    "Lindsey Haun"
+   ],
+   "reason": "Wikipedia page 'Hanky Panky (Madonna song)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Chucky",
+   "actresses": [
+    "Rachael Ancheril"
+   ],
+   "reason": "Wikipedia page 'Chucky (TV series)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "The Haunted House on Kirby Road",
+   "actresses": [
+    "Nina Kiri",
+    "Sammi Barber"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Lizzie Borden Game",
+   "actresses": [
+    "Airisa Durand"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Five Nights at Freddy's 2",
+   "actresses": [
+    "Elizabeth Lail",
+    "Mckenna Grace"
+   ],
+   "reason": "Wikipedia page 'Five Nights at Freddy's 2' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "The Thing Inside Us",
+   "actresses": [
+    "Christine Tonry"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Wicked Game",
+   "actresses": [
+    "Saint Heart"
+   ],
+   "reason": "Wikipedia page 'Wicked Game' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "The Manor",
+   "actresses": [
+    "Christina Robinson"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Stem Cell",
+   "actresses": [
+    "Darcy Fowers"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Devil's Triangle",
+   "actresses": [
+    "Jesse Gallagher"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Wizard of Oz: The Dead Walk",
+   "actresses": [
+    "Alina Desmond"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Dracula Vs Frankenstein (2002)",
+   "actresses": [
+    "Susan Manger"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Incubus",
+   "actresses": [
+    "Alice O'Connell",
+    "Tara Reid"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Limit of Sleeping Beauty",
+   "actresses": [
+    "Yuki Sakurai"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Hive",
+   "actresses": [
+    "Christie Griffin"
+   ],
+   "reason": "Wikipedia page 'Hive' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Flight to Hell",
+   "actresses": [
+    "Rosie Malin",
+    "Sinne Mutsaers"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Death from Beyond",
+   "actresses": [
+    "Trisha Hershberger"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Omega Factor",
+   "actresses": [
+    "Maggie James"
+   ],
+   "reason": "Wikipedia page 'The Omega Factor' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "The Day Lacey Called",
+   "actresses": [
+    "Ali Chappell"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Counterstrike",
+   "actresses": [
+    "Vanity"
+   ],
+   "reason": "Wikipedia page 'Counterstrike (1969 TV series)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Nightmare",
+   "actresses": [
+    "Haylie Duff"
+   ],
+   "reason": "Wikipedia page 'Nightmare (Japanese band)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "The 4400",
+   "actresses": [
+    "Tori Anderson"
+   ],
+   "reason": "Wikipedia page 'The 4400' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "La Tomba",
+   "actresses": [
+    "Katarzyna Zurakowska"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Sorceress II",
+   "actresses": [
+    "Trasy Broussard"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Sorceress",
+   "actresses": [
+    "Rochelle Swanson"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Taxi 2",
+   "actresses": [
+    "Emma Wiklund"
+   ],
+   "reason": "Wikipedia page 'Taxi 2' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "La Poseida",
+   "actresses": [
+    "Luciana Echeverría"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Gospoda-Tovarishchi",
+   "actresses": [
+    "Elizabeth Pashchenko"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Unremarkable Juanquini",
+   "actresses": [
+    "María Nela Sinisterra",
+    "Natalia Segura",
+    "Nina Caicedo"
+   ],
+   "reason": "Wikipedia match looked like a disambiguation/non-production page"
+  },
+  {
+   "title": "The Eiffel Tower Mystery",
+   "actresses": [
+    "Aïssa Maïga",
+    "Marie Denarnaud"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Enigma (2019)",
+   "actresses": [
+    "Julie Kline",
+    "Keyna Reynolds"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "She's His Mission",
+   "actresses": [
+    "Bridget Davey"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Blue Murder",
+   "actresses": [
+    "Jewel Bressler"
+   ],
+   "reason": "Wikipedia match looked like a disambiguation/non-production page"
+  },
+  {
+   "title": "Spirits",
+   "actresses": [
+    "Brinke Stevens",
+    "Kathrin Middleton"
+   ],
+   "reason": "Wikipedia page 'Spirits (TV series)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Teenage Exorcist",
+   "actresses": [
+    "Brinke Stevens"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Metod Lavrovoy",
+   "actresses": [
+    "Daria Ivanova"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Ferryman",
+   "actresses": [
+    "Sally Stockwell"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Son Kare",
+   "actresses": [
+    "Burcu Özberk"
+   ],
+   "reason": "no matching Wikipedia article found"
   }
  ],
  "excluded": [
@@ -4056,6 +4370,16 @@
   {
    "title": "Days of Our Lives",
    "actress": "Abigail Klein",
+   "reason": "minor at production (birth year vs card year 1965)"
+  },
+  {
+   "title": "Days of Our Lives",
+   "actress": "AnnaLynne McCord",
+   "reason": "minor at production (birth year vs card year 1965)"
+  },
+  {
+   "title": "Days of Our Lives",
+   "actress": "Patsy Pease",
    "reason": "minor at production (birth year vs card year 1965)"
   },
   {
@@ -4469,6 +4793,11 @@
    "reason": "minor at production (birth year vs card year 1963)"
   },
   {
+   "title": "General Hospital",
+   "actress": "Rebecca Herbst",
+   "reason": "minor at production (birth year vs card year 1963)"
+  },
+  {
    "title": "Heist",
    "actress": "Emree Franklin",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
@@ -4569,6 +4898,11 @@
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
+   "title": "Infested",
+   "actress": "Lisa Ann Hadley",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
    "title": "Smallville",
    "actress": "Kandyse McClure",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
@@ -4607,6 +4941,11 @@
    "title": "Power Rangers RPM",
    "actress": "Adelaide Kane",
    "reason": "children's programme per Wikipedia categories"
+  },
+  {
+   "title": "The Savage Tales of Summer Vale",
+   "actress": "Julie Pinto",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
    "title": "5ive Girls",
@@ -4870,7 +5209,7 @@
   },
   {
    "title": "Wendy Wu: Homecoming Warrior",
-   "actress": "Ellen Woglom",
+   "actress": "Ellen Woglom, Sally Stockwell",
    "reason": "children's programme per Wikipedia categories"
   },
   {
@@ -5242,6 +5581,91 @@
    "title": "Off the Rails",
    "actress": "Hannah Barefoot",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Witchblade",
+   "actress": "Megan Fahlenbock",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Hanky Panky",
+   "actress": "Lindsey Haun",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Chucky",
+   "actress": "Rachael Ancheril",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Five Nights at Freddy's 2",
+   "actress": "Elizabeth Lail",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Five Nights at Freddy's 2",
+   "actress": "Mckenna Grace",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Wicked Game",
+   "actress": "Saint Heart",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Hive",
+   "actress": "Christie Griffin",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "The Omega Factor",
+   "actress": "Maggie James",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Counterstrike",
+   "actress": "Vanity",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Nightmare",
+   "actress": "Haylie Duff",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "The 4400",
+   "actress": "Tori Anderson",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Taxi 2",
+   "actress": "Emma Wiklund",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Goosebumps 2",
+   "actress": "Wendi McLendon-Covey",
+   "reason": "children's programme per Wikipedia categories"
+  },
+  {
+   "title": "Muppets Tonight",
+   "actress": "Heather Locklear",
+   "reason": "children's programme per Wikipedia categories"
+  },
+  {
+   "title": "Spirits",
+   "actress": "Kathrin Middleton",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Spirits",
+   "actress": "Brinke Stevens",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "K-9",
+   "actress": "Robyn Moore",
+   "reason": "children's programme per Wikipedia categories"
   }
  ],
  "resolved_ambiguous": [
@@ -5415,16 +5839,18 @@
   "Resident Evil",
   "Wonder Woman",
   "Psi Factor: Chronicles of the Paranormal",
-  "Alfred Hitchcock Presents"
+  "Alfred Hitchcock Presents",
+  "Dracula Vs Frankenstein",
+  "Enigma"
  ],
  "stats": {
-  "csv_rows": 1375,
-  "items": 1514,
-  "groups": 956,
-  "links": 409,
+  "csv_rows": 1474,
+  "items": 1616,
+  "groups": 1022,
+  "links": 423,
   "old_source_records": 61,
-  "new": 112,
-  "dropped": 386,
-  "excluded": 251
+  "new": 118,
+  "dropped": 429,
+  "excluded": 273
  }
 }
