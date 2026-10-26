@@ -5580,6 +5580,26 @@ window.CATALOG = {
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "pregnant-intimate-imdb-oct25",
+   "label": "Pregnant intimate scenes — IMDb keyword follow-up (25 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/pregnant-intimate-imdb-oct25.json",
+   "description": "Follow-up to the pregnant sex / intimate sweep. Adult, pregnant female characters in sex or intimate scenes; a title is added only when confirmed by two sources beyond an IMDb keyword. Existing cards enriched with partner and outcome. Plot-level notes only.",
+   "dropped": [
+    "Beautiful Sunday (2007): only a rape scene, no pregnancy",
+    "American Horror Story 'Open House': fantasy sequence that ends in violence",
+    "Fuck for the Heir Puppy Bear!: real Voina protest performance, not a scripted scene",
+    "Jim's Story: sex not confirmed in the sources reachable",
+    "Hung S2E2/S2E8, Infieles 'Adicto', Expecting, The Shower, Das Baby-Komplott, Het nadeel van de twijfel: not independently verified",
+    "Monsters 'Bug House': sex with the pregnant sister not confirmed (Peter seduces Ellen, who becomes pregnant afterwards)"
+   ],
+   "check": {
+    "raw_count": 13,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -5655,10 +5675,11 @@ window.CATALOG = {
   "pregnant-scenes-oct25": 9,
   "hypnosis-deep-oct25c": 18,
   "hypno-kids-witness-oct25": 14,
-  "imdb-pregnant-oct25": 1
+  "imdb-pregnant-oct25": 1,
+  "pregnant-intimate-imdb-oct25": 13
  },
- "raw_total": 6592,
- "entry_count": 3493,
+ "raw_total": 6605,
+ "entry_count": 3496,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -5976,7 +5997,7 @@ window.CATALOG = {
    "key": "pregnant-sex",
    "label": "Pregnant characters having sex",
    "legend_label": "Pregnant characters having sex",
-   "entry_count": 73
+   "entry_count": 74
   },
   {
    "key": "pregnant-female",
@@ -5988,7 +6009,7 @@ window.CATALOG = {
    "key": "pregnant-intimate",
    "label": "Pregnant intimate scenes",
    "legend_label": "Pregnant intimate scenes",
-   "entry_count": 24
+   "entry_count": 26
   },
   {
    "key": "pregnant-lesbian-intimate",
@@ -34760,6 +34781,7 @@ window.CATALOG = {
    "character": "",
    "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "",
+   "pregnancy_note": "Scene partner: Ray Drecker, whose client Claire (Kathryn Hahn) is the pregnant character; the baby's father is not stated in the sources used",
    "pregnant_has_children": "unknown",
    "episodes": [
     {
@@ -34811,12 +34833,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "pregnant-intimacy"
+    "pregnant-intimacy",
+    "pregnant-intimate-imdb-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:117",
     "ig6qlxqxoxvcxla:971",
-    "pregnant-intimacy:43"
+    "pregnant-intimacy:43",
+    "pregnant-intimate-imdb-oct25:8"
    ],
    "index_only": false,
    "local_only": false,
@@ -34946,6 +34970,28 @@ window.CATALOG = {
      ],
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-imdb-oct25:8",
+     "source": "pregnant-intimate-imdb-oct25",
+     "label": "Hung (2010)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Hung",
+     "subtitle": "",
+     "year": "2010",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_note": "Scene partner: Ray Drecker, whose client Claire (Kathryn Hahn) is the pregnant character; the baby's father is not stated in the sources used",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -35042,6 +35088,14 @@ window.CATALOG = {
        "number_verified": true
       }
      ]
+    },
+    "pregnant-intimate-imdb-oct25:8": {
+     "title": "Hung",
+     "year": "2010",
+     "format": "tv",
+     "match_title": "Hung",
+     "match_year": "2010",
+     "pregnancy_note": "Scene partner: Ray Drecker, whose client Claire (Kathryn Hahn) is the pregnant character; the baby's father is not stated in the sources used"
     }
    }
   },
@@ -113137,7 +113191,11 @@ window.CATALOG = {
    "character": "",
    "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "",
+   "pregnancy_outcome": "Barbara gives birth to a son",
+   "pregnancy_note": "Father / partner: partner Nicolas",
    "pregnant_has_children": "no",
+   "kids_status": "no",
+   "kids_note": "first child",
    "format": "movie",
    "categories": [
     "pregnant-sex"
@@ -113156,12 +113214,14 @@ window.CATALOG = {
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "pregnant-intimacy"
+    "pregnant-intimacy",
+    "pregnant-intimate-imdb-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:578",
     "ig6qlxqxoxvcxla:961",
-    "pregnant-intimacy:36"
+    "pregnant-intimacy:36",
+    "pregnant-intimate-imdb-oct25:11"
    ],
    "index_only": false,
    "local_only": false,
@@ -113251,6 +113311,31 @@ window.CATALOG = {
      "pregnant_has_children": "no",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-imdb-oct25:11",
+     "source": "pregnant-intimate-imdb-oct25",
+     "label": "A Happy Event (2011)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "A Happy Event",
+     "subtitle": "",
+     "year": "2011",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "Barbara gives birth to a son",
+     "pregnancy_note": "Father / partner: partner Nicolas",
+     "kids_status": "no",
+     "kids_note": "first child",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -113307,6 +113392,17 @@ window.CATALOG = {
        "url": "https://www.imdb.com/title/tt1987018/keywords/"
       }
      ]
+    },
+    "pregnant-intimate-imdb-oct25:11": {
+     "title": "A Happy Event",
+     "year": "2011",
+     "format": "movie",
+     "match_title": "A Happy Event",
+     "match_year": "2011",
+     "pregnancy_note": "Father / partner: partner Nicolas",
+     "pregnancy_outcome": "Barbara gives birth to a son",
+     "kids_status": "no",
+     "kids_note": "first child"
     }
    }
   },
@@ -229515,6 +229611,8 @@ window.CATALOG = {
    "character": "Helen (Sarah Gadon)",
    "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "",
+   "pregnancy_outcome": "not shown; the film ends before the birth",
+   "pregnancy_note": "Scene partner: Adam, Anthony's double, who is passing as him; the baby's father is Helen's husband Anthony",
    "pregnant_has_children": "unknown",
    "format": "movie",
    "categories": [
@@ -229533,11 +229631,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "pregnant-intimacy"
+    "pregnant-intimacy",
+    "pregnant-intimate-imdb-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1212",
-    "pregnant-intimacy:3"
+    "pregnant-intimacy:3",
+    "pregnant-intimate-imdb-oct25:6"
    ],
    "index_only": false,
    "local_only": false,
@@ -229606,6 +229706,29 @@ window.CATALOG = {
      "pregnant_has_children": "unknown",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-imdb-oct25:6",
+     "source": "pregnant-intimate-imdb-oct25",
+     "label": "Enemy (2013)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Enemy",
+     "subtitle": "",
+     "year": "2013",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "not shown; the film ends before the birth",
+     "pregnancy_note": "Scene partner: Adam, Anthony's double, who is passing as him; the baby's father is Helen's husband Anthony",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -229659,6 +229782,15 @@ window.CATALOG = {
        "url": "https://www.imdb.com/title/tt2316411/parentalguide/"
       }
      ]
+    },
+    "pregnant-intimate-imdb-oct25:6": {
+     "title": "Enemy",
+     "year": "2013",
+     "format": "movie",
+     "match_title": "Enemy",
+     "match_year": "2013",
+     "pregnancy_note": "Scene partner: Adam, Anthony's double, who is passing as him; the baby's father is Helen's husband Anthony",
+     "pregnancy_outcome": "not shown; the film ends before the birth"
     }
    }
   },
@@ -253853,7 +253985,11 @@ window.CATALOG = {
    "character": "Helen Wilder (Elisabeth Moss)",
    "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "",
+   "pregnancy_outcome": "Helen goes into labour and gives birth in the finale",
+   "pregnancy_note": "Scene partner: Dr Robert Laing; the baby's father is her husband Richard Wilder",
    "pregnant_has_children": "yes (the Wilders' children)",
+   "kids_status": "yes",
+   "kids_note": "already has a son; this is a further child",
    "format": "movie",
    "categories": [
     "pregnant-sex"
@@ -253871,11 +254007,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "pregnant-intimacy"
+    "pregnant-intimacy",
+    "pregnant-intimate-imdb-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1339",
-    "pregnant-intimacy:5"
+    "pregnant-intimacy:5",
+    "pregnant-intimate-imdb-oct25:9"
    ],
    "index_only": false,
    "local_only": false,
@@ -253944,6 +254082,31 @@ window.CATALOG = {
      "pregnant_has_children": "yes (the Wilders' children)",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-imdb-oct25:9",
+     "source": "pregnant-intimate-imdb-oct25",
+     "label": "High-Rise (2015)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "High-Rise",
+     "subtitle": "",
+     "year": "2015",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "Helen goes into labour and gives birth in the finale",
+     "pregnancy_note": "Scene partner: Dr Robert Laing; the baby's father is her husband Richard Wilder",
+     "kids_status": "yes",
+     "kids_note": "already has a son; this is a further child",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -253997,6 +254160,17 @@ window.CATALOG = {
        "url": "https://www.imdb.com/title/tt0462335/keywords/"
       }
      ]
+    },
+    "pregnant-intimate-imdb-oct25:9": {
+     "title": "High-Rise",
+     "year": "2015",
+     "format": "movie",
+     "match_title": "High-Rise",
+     "match_year": "2015",
+     "pregnancy_note": "Scene partner: Dr Robert Laing; the baby's father is her husband Richard Wilder",
+     "pregnancy_outcome": "Helen goes into labour and gives birth in the finale",
+     "kids_status": "yes",
+     "kids_note": "already has a son; this is a further child"
     }
    }
   },
@@ -285094,6 +285268,8 @@ window.CATALOG = {
    "character": "Masha",
    "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "",
+   "pregnancy_outcome": "Epilogue shows Masha with Boris and their baby",
+   "pregnancy_note": "Father / partner: Boris, her older lover",
    "pregnant_has_children": "unknown",
    "format": "movie",
    "categories": [
@@ -285112,11 +285288,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "pregnant-intimacy"
+    "pregnant-intimacy",
+    "pregnant-intimate-imdb-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1504",
-    "pregnant-intimacy:9"
+    "pregnant-intimacy:9",
+    "pregnant-intimate-imdb-oct25:10"
    ],
    "index_only": false,
    "local_only": false,
@@ -285185,6 +285363,29 @@ window.CATALOG = {
      "pregnant_has_children": "unknown",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-imdb-oct25:10",
+     "source": "pregnant-intimate-imdb-oct25",
+     "label": "Loveless (2017)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Loveless",
+     "subtitle": "",
+     "year": "2017",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "Epilogue shows Masha with Boris and their baby",
+     "pregnancy_note": "Father / partner: Boris, her older lover",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -285238,6 +285439,15 @@ window.CATALOG = {
        "url": "https://www.imdb.com/title/tt6304162/keywords/"
       }
      ]
+    },
+    "pregnant-intimate-imdb-oct25:10": {
+     "title": "Loveless",
+     "year": "2017",
+     "format": "movie",
+     "match_title": "Loveless",
+     "match_year": "2017",
+     "pregnancy_note": "Father / partner: Boris, her older lover",
+     "pregnancy_outcome": "Epilogue shows Masha with Boris and their baby"
     }
    }
   },
@@ -327182,7 +327392,11 @@ window.CATALOG = {
    "character": "Marie (Caroline Ducey)",
    "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "Adult-rated art film.",
+   "pregnancy_outcome": "Marie gives birth to a son (named Paul); Paul dies in a gas explosion",
+   "pregnancy_note": "Father / partner: boyfriend Paul",
    "pregnant_has_children": "no",
+   "kids_status": "no",
+   "kids_note": "first child",
    "format": "movie",
    "categories": [
     "pregnant-sex"
@@ -327196,11 +327410,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "pregnant-intimacy"
+    "pregnant-intimacy",
+    "pregnant-intimate-imdb-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1724",
-    "pregnant-intimacy:4"
+    "pregnant-intimacy:4",
+    "pregnant-intimate-imdb-oct25:7"
    ],
    "index_only": false,
    "local_only": false,
@@ -327261,6 +327477,31 @@ window.CATALOG = {
      "pregnant_has_children": "no",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-imdb-oct25:7",
+     "source": "pregnant-intimate-imdb-oct25",
+     "label": "Romance (1999)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Romance",
+     "subtitle": "",
+     "year": "1999",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "Marie gives birth to a son (named Paul); Paul dies in a gas explosion",
+     "pregnancy_note": "Father / partner: boyfriend Paul",
+     "kids_status": "no",
+     "kids_note": "first child",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -327306,6 +327547,17 @@ window.CATALOG = {
        "url": "https://en.wikipedia.org/wiki/Romance_(1999_film)"
       }
      ]
+    },
+    "pregnant-intimate-imdb-oct25:7": {
+     "title": "Romance",
+     "year": "1999",
+     "format": "movie",
+     "match_title": "Romance",
+     "match_year": "1999",
+     "pregnancy_note": "Father / partner: boyfriend Paul",
+     "pregnancy_outcome": "Marie gives birth to a son (named Paul); Paul dies in a gas explosion",
+     "kids_status": "no",
+     "kids_note": "first child"
     }
    }
   },
@@ -336376,7 +336628,12 @@ window.CATALOG = {
    "character": "Rose Nemser (Odessa Young)",
    "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "",
+   "pregnancy_outcome": "Rose gives birth by the end of the story",
+   "pregnancy_note": "Scene partner: husband Fred Nemser (train washroom scene); Rose is newly pregnant",
    "pregnant_has_children": "unknown",
+   "tags": [
+    "loose fit"
+   ],
    "format": "movie",
    "categories": [
     "pregnant-sex"
@@ -336398,11 +336655,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "pregnant-intimacy"
+    "pregnant-intimacy",
+    "pregnant-intimate-imdb-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1774",
-    "pregnant-intimacy:10"
+    "pregnant-intimacy:10",
+    "pregnant-intimate-imdb-oct25:13"
    ],
    "index_only": false,
    "local_only": false,
@@ -336479,6 +336738,32 @@ window.CATALOG = {
      "pregnant_has_children": "unknown",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-imdb-oct25:13",
+     "source": "pregnant-intimate-imdb-oct25",
+     "label": "Shirley (2020)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Shirley",
+     "subtitle": "",
+     "year": "2020",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "Rose gives birth by the end of the story",
+     "pregnancy_note": "Scene partner: husband Fred Nemser (train washroom scene); Rose is newly pregnant",
+     "tags": [
+      "loose fit"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -336539,6 +336824,18 @@ window.CATALOG = {
        "label": "IMDb parents guide",
        "url": "https://www.imdb.com/title/tt8430598/parentalguide/"
       }
+     ]
+    },
+    "pregnant-intimate-imdb-oct25:13": {
+     "title": "Shirley",
+     "year": "2020",
+     "format": "movie",
+     "match_title": "Shirley",
+     "match_year": "2020",
+     "pregnancy_note": "Scene partner: husband Fred Nemser (train washroom scene); Rose is newly pregnant",
+     "pregnancy_outcome": "Rose gives birth by the end of the story",
+     "tags": [
+      "loose fit"
      ]
     }
    }
@@ -351544,7 +351841,12 @@ window.CATALOG = {
    "character": "Aurora (Ana Moreira)",
    "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "",
+   "pregnancy_outcome": "Aurora gives birth to a daughter after shooting Mario",
+   "pregnancy_note": "Scene partner: Gian Luca Ventura (lover); the baby's father is husband Mario",
    "pregnant_has_children": "unknown",
+   "tags": [
+    "loose fit"
+   ],
    "format": "movie",
    "categories": [
     "pregnant-sex"
@@ -351562,11 +351864,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "pregnant-intimacy"
+    "pregnant-intimacy",
+    "pregnant-intimate-imdb-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1853",
-    "pregnant-intimacy:6"
+    "pregnant-intimacy:6",
+    "pregnant-intimate-imdb-oct25:12"
    ],
    "index_only": false,
    "local_only": false,
@@ -351635,6 +351939,32 @@ window.CATALOG = {
      "pregnant_has_children": "unknown",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-imdb-oct25:12",
+     "source": "pregnant-intimate-imdb-oct25",
+     "label": "Tabu (2012)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Tabu",
+     "subtitle": "",
+     "year": "2012",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "Aurora gives birth to a daughter after shooting Mario",
+     "pregnancy_note": "Scene partner: Gian Luca Ventura (lover); the baby's father is husband Mario",
+     "tags": [
+      "loose fit"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -351687,6 +352017,18 @@ window.CATALOG = {
        "label": "IMDb keywords",
        "url": "https://www.imdb.com/title/tt2153963/keywords/"
       }
+     ]
+    },
+    "pregnant-intimate-imdb-oct25:12": {
+     "title": "Tabu",
+     "year": "2012",
+     "format": "movie",
+     "match_title": "Tabu",
+     "match_year": "2012",
+     "pregnancy_note": "Scene partner: Gian Luca Ventura (lover); the baby's father is husband Mario",
+     "pregnancy_outcome": "Aurora gives birth to a daughter after shooting Mario",
+     "tags": [
+      "loose fit"
      ]
     }
    }
@@ -372564,7 +372906,11 @@ window.CATALOG = {
    "character": "Cathy",
    "provenance": "Pregnant-character intimacy research pass, 30 Sep 2026",
    "note": "",
+   "pregnancy_outcome": "Cathy has a miscarriage / premature labour and dies",
+   "pregnancy_note": "Scene partner: Heathcliff (lover); the baby is husband Edgar Linton's",
    "pregnant_has_children": "no",
+   "kids_status": "no",
+   "kids_note": "no earlier children mentioned",
    "format": "movie",
    "categories": [
     "pregnant-sex"
@@ -372582,11 +372928,13 @@ window.CATALOG = {
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "pregnant-intimacy"
+    "pregnant-intimacy",
+    "pregnant-intimate-imdb-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1964",
-    "pregnant-intimacy:7"
+    "pregnant-intimacy:7",
+    "pregnant-intimate-imdb-oct25:5"
    ],
    "index_only": false,
    "local_only": false,
@@ -372655,6 +373003,31 @@ window.CATALOG = {
      "pregnant_has_children": "no",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-imdb-oct25:5",
+     "source": "pregnant-intimate-imdb-oct25",
+     "label": "Wuthering Heights (2026)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Wuthering Heights",
+     "subtitle": "",
+     "year": "2026",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [],
+     "pregnancy_outcome": "Cathy has a miscarriage / premature labour and dies",
+     "pregnancy_note": "Scene partner: Heathcliff (lover); the baby is husband Edgar Linton's",
+     "kids_status": "no",
+     "kids_note": "no earlier children mentioned",
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -372708,6 +373081,17 @@ window.CATALOG = {
        "url": "https://www.imdb.com/title/tt32897959/keywords/"
       }
      ]
+    },
+    "pregnant-intimate-imdb-oct25:5": {
+     "title": "Wuthering Heights",
+     "year": "2026",
+     "format": "movie",
+     "match_title": "Wuthering Heights",
+     "match_year": "2026",
+     "pregnancy_note": "Scene partner: Heathcliff (lover); the baby is husband Edgar Linton's",
+     "pregnancy_outcome": "Cathy has a miscarriage / premature labour and dies",
+     "kids_status": "no",
+     "kids_note": "no earlier children mentioned"
     }
    }
   },
@@ -505882,6 +506266,7 @@ window.CATALOG = {
    "character": "Daka (Naomi Watts), pregnant sex worker / stripper",
    "provenance": "",
    "note": "",
+   "pregnancy_outcome": "Daka gives birth to a baby girl",
    "pregnancy_note": "Partner in scene: Vincent MacKenna (client); father of her baby not stated in sources used",
    "kids_status": "unknown",
    "pregnant_end": "yes",
@@ -505906,20 +506291,105 @@ window.CATALOG = {
     {
      "label": "TV Tropes: No Pregger Sex",
      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/NoPreggerSex"
+    },
+    {
+     "label": "IMDb Parents Guide",
+     "url": "https://www.imdb.com/title/tt2170593/parentalguide/"
+    },
+    {
+     "label": "IMDb keywords ('pregnant prostitute')",
+     "url": "https://www.imdb.com/title/tt2170593/keywords/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "pregnant-intimate-oct25"
+    "pregnant-intimate-oct25",
+    "pregnant-intimate-imdb-oct25"
    ],
    "source_records": [
-    "pregnant-intimate-oct25:2"
+    "pregnant-intimate-oct25:2",
+    "pregnant-intimate-imdb-oct25:4"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "pregnant-intimate-oct25:2",
+    "source": "pregnant-intimate-oct25",
+    "label": "St. Vincent (2014)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "St. Vincent",
+    "subtitle": "",
+    "year": "2014",
+    "meta": "Film · US · English · comedy-drama",
+    "summary": "Cranky Vincent keeps seeing Daka, a pregnant Russian stripper and sex worker, even while she is visibly pregnant; the film shows a brief, non-explicit encounter between them.",
+    "character": "Daka (Naomi Watts), pregnant sex worker / stripper",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "",
+    "categories": [
+     "pregnant-sex"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/St._Vincent_(film)"
+     },
+     {
+      "label": "Plugged In",
+      "url": "https://www.pluggedin.com/movie-reviews/st-vincent/"
+     },
+     {
+      "label": "IMDb plot",
+      "url": "https://www.imdb.com/title/tt2170593/plotsummary/"
+     },
+     {
+      "label": "TV Tropes: No Pregger Sex",
+      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/NoPreggerSex"
+     }
+    ],
+    "pregnancy_note": "Partner in scene: Vincent MacKenna (client); father of her baby not stated in sources used",
+    "kids_status": "unknown",
+    "pregnant_end": "yes",
+    "evidence": "Multi-source (Plugged In, IMDb plot, Wikipedia, TV Tropes); outcome not verified",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "pregnant-intimate-imdb-oct25:4",
+     "source": "pregnant-intimate-imdb-oct25",
+     "label": "St. Vincent (2014)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "St. Vincent",
+     "subtitle": "",
+     "year": "2014",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb Parents Guide",
+       "url": "https://www.imdb.com/title/tt2170593/parentalguide/"
+      },
+      {
+       "label": "IMDb keywords ('pregnant prostitute')",
+       "url": "https://www.imdb.com/title/tt2170593/keywords/"
+      }
+     ],
+     "pregnancy_outcome": "Daka gives birth to a baby girl",
+     "evidence": "IMDb Parents Guide: pregnant Daka is on top of Vincent; plus Plugged In, Wikipedia and TV Tropes already listed",
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "pregnant-intimate-oct25:2": {
      "title": "St. Vincent",
@@ -505953,6 +506423,25 @@ window.CATALOG = {
       }
      ],
      "evidence": "Multi-source (Plugged In, IMDb plot, Wikipedia, TV Tropes); outcome not verified"
+    },
+    "pregnant-intimate-imdb-oct25:4": {
+     "title": "St. Vincent",
+     "year": "2014",
+     "format": "movie",
+     "match_title": "St. Vincent",
+     "match_year": "2014",
+     "pregnancy_outcome": "Daka gives birth to a baby girl",
+     "sources": [
+      {
+       "label": "IMDb Parents Guide",
+       "url": "https://www.imdb.com/title/tt2170593/parentalguide/"
+      },
+      {
+       "label": "IMDb keywords ('pregnant prostitute')",
+       "url": "https://www.imdb.com/title/tt2170593/keywords/"
+      }
+     ],
+     "evidence": "IMDb Parents Guide: pregnant Daka is on top of Vincent; plus Plugged In, Wikipedia and TV Tropes already listed"
     }
    }
   },
@@ -509836,6 +510325,276 @@ window.CATALOG = {
      "note": "Not an official Peppa Pig episode; kept as an online-video entry flagged Low.",
      "provenance": "Female-hypnotized-with-child-present pass, any video media + YouTube (25 Oct 2026 PT): YouTube search (titles, descriptions, captions where present, top comments), Mental Block wiki, Wikipedia, TV Tropes, fan wikis; strict hypnosis only (possession / black magic excluded); adult women only; non-explicit notes; no title where children witness sexual content.",
      "fit_note": "YouTube UNOFFICIAL fan/AI-style uploads, not official Peppa Pig episodes; description-only evidence. Low confidence."
+    }
+   }
+  },
+  {
+   "id": 3634,
+   "title": "Gourmet (Nikoline music video)",
+   "subtitle": "",
+   "year": "2020",
+   "meta": "Music video · Denmark · Danish · directed by Nikoline",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "In Nikoline's mythology-themed video the heavily pregnant Aphrodite performs an erotic, serpentine dance up against Adonis amid a nude ensemble; Danish press covers the pregnant casting and the sexual content.",
+   "character": "Aphrodite (Sara Hjort Ditlevsen), heavily pregnant",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Performer had given birth by the time of the press coverage (Ekko, June 2020)",
+   "pregnancy_note": "Scene partner: Adonis (Mathias Broe)",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "unknown",
+   "pregnant_end": "yes",
+   "evidence": "Multi-source (Information, Ekko, DR); video itself not viewed",
+   "fit_note": "Music video: the pregnancy scene is an erotic dance and nudity rather than a plotted love scene. Pregnancy is real (actress heavily pregnant when filmed).",
+   "format": "movie",
+   "categories": [
+    "pregnant-intimate"
+   ],
+   "sources": [
+    {
+     "label": "Information.dk",
+     "url": "https://www.information.dk/kultur/2020/06/nikoline-raser-brug-smid-vaek-sko-koeer-hurtig-porno"
+    },
+    {
+     "label": "Ekko",
+     "url": "https://www.ekkofilm.dk/artikler/rapper-udfolder-kvindeligt-begar/"
+    },
+    {
+     "label": "DR.dk",
+     "url": "https://www.dr.dk/musik/dansk-rapper-dyrker-oralsex-i-ny-video-jeg-goer-det-ikke-provokere"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimate-imdb-oct25"
+   ],
+   "source_records": [
+    "pregnant-intimate-imdb-oct25:1"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimate-imdb-oct25:1": {
+     "title": "Gourmet (Nikoline music video)",
+     "year": "2020",
+     "format": "movie",
+     "meta": "Music video · Denmark · Danish · directed by Nikoline",
+     "categories": [
+      "pregnant-intimate"
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Music video: the pregnancy scene is an erotic dance and nudity rather than a plotted love scene. Pregnancy is real (actress heavily pregnant when filmed).",
+     "character": "Aphrodite (Sara Hjort Ditlevsen), heavily pregnant",
+     "summary": "In Nikoline's mythology-themed video the heavily pregnant Aphrodite performs an erotic, serpentine dance up against Adonis amid a nude ensemble; Danish press covers the pregnant casting and the sexual content.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Performer had given birth by the time of the press coverage (Ekko, June 2020)",
+     "pregnancy_note": "Scene partner: Adonis (Mathias Broe)",
+     "kids_status": "unknown",
+     "sources": [
+      {
+       "label": "Information.dk",
+       "url": "https://www.information.dk/kultur/2020/06/nikoline-raser-brug-smid-vaek-sko-koeer-hurtig-porno"
+      },
+      {
+       "label": "Ekko",
+       "url": "https://www.ekkofilm.dk/artikler/rapper-udfolder-kvindeligt-begar/"
+      },
+      {
+       "label": "DR.dk",
+       "url": "https://www.dr.dk/musik/dansk-rapper-dyrker-oralsex-i-ny-video-jeg-goer-det-ikke-provokere"
+      }
+     ],
+     "evidence": "Multi-source (Information, Ekko, DR); video itself not viewed"
+    }
+   }
+  },
+  {
+   "id": 3635,
+   "title": "United States of Tara — “Crackerjack” (S3E2)",
+   "subtitle": "",
+   "year": "2011",
+   "meta": "Series · US · Showtime · English · comedy-drama",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Charmaine, pregnant with Neil's baby, is in bed with him when Kate walks in on them; afterwards Neil, just fired, hears that the baby means he must make something of himself.",
+   "character": "Charmaine Craine (Rosemarie DeWitt), pregnant",
+   "provenance": "",
+   "note": "",
+   "pregnancy_outcome": "Charmaine gives birth in S3E4 'Wheels'",
+   "pregnancy_note": "Father / partner: Neil (Max's best friend and Charmaine's boyfriend)",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "unknown",
+   "pregnant_end": "yes",
+   "evidence": "Multi-source recaps; scene described, not explicit",
+   "fit_note": "Pregnancy is early and played mostly in dialogue; recaps confirm the sex scene but not how visible the pregnancy is.",
+   "format": "tv",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "sources": [
+    {
+     "label": "AV Club recap",
+     "url": "https://www.avclub.com/united-states-of-tara-crackerjack-1798167816"
+    },
+    {
+     "label": "Attuned recap",
+     "url": "http://attunedtv.blogspot.com/search/label/Crackerjack"
+    },
+    {
+     "label": "TV Fanatic recap",
+     "url": "https://www.tvfanatic.com/united-states-of-tara-season-3-episode-2-recap-crackerjack/"
+    },
+    {
+     "label": "IMDb episode list",
+     "url": "https://www.imdb.com/title/tt1001482/episodes/?season=3"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimate-imdb-oct25"
+   ],
+   "source_records": [
+    "pregnant-intimate-imdb-oct25:2"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimate-imdb-oct25:2": {
+     "title": "United States of Tara — “Crackerjack” (S3E2)",
+     "year": "2011",
+     "format": "tv",
+     "meta": "Series · US · Showtime · English · comedy-drama",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Pregnancy is early and played mostly in dialogue; recaps confirm the sex scene but not how visible the pregnancy is.",
+     "character": "Charmaine Craine (Rosemarie DeWitt), pregnant",
+     "summary": "Charmaine, pregnant with Neil's baby, is in bed with him when Kate walks in on them; afterwards Neil, just fired, hears that the baby means he must make something of himself.",
+     "pregnant_end": "yes",
+     "pregnancy_outcome": "Charmaine gives birth in S3E4 'Wheels'",
+     "pregnancy_note": "Father / partner: Neil (Max's best friend and Charmaine's boyfriend)",
+     "kids_status": "unknown",
+     "sources": [
+      {
+       "label": "AV Club recap",
+       "url": "https://www.avclub.com/united-states-of-tara-crackerjack-1798167816"
+      },
+      {
+       "label": "Attuned recap",
+       "url": "http://attunedtv.blogspot.com/search/label/Crackerjack"
+      },
+      {
+       "label": "TV Fanatic recap",
+       "url": "https://www.tvfanatic.com/united-states-of-tara-season-3-episode-2-recap-crackerjack/"
+      },
+      {
+       "label": "IMDb episode list",
+       "url": "https://www.imdb.com/title/tt1001482/episodes/?season=3"
+      }
+     ],
+     "evidence": "Multi-source recaps; scene described, not explicit"
+    }
+   }
+  },
+  {
+   "id": 3636,
+   "title": "Spartacus: Vengeance — “Empty Hands” (S2E4)",
+   "subtitle": "",
+   "year": "2012",
+   "meta": "Series · US · Starz · English · historical drama",
+   "mechanism": "",
+   "confidence_flag": "",
+   "summary": "Pregnant Ilithyia seduces the praetor Varinius at a banquet, guiding his hand over her belly and further as she proposes ending her marriage to Glaber to wed him; he accepts on condition and walks away.",
+   "character": "Ilithyia (Viva Bianca), pregnant noblewoman",
+   "provenance": "",
+   "note": "",
+   "pregnancy_note": "Scene partner: praetor Publius Varinius; husband Glaber is the legal father (Wikipedia says Spartacus' child from a one-night stand)",
+   "tags": [
+    "loose fit"
+   ],
+   "kids_status": "unknown",
+   "pregnant_end": "yes",
+   "evidence": "Multi-source (recap, Wikipedia, Den of Geek); outcome not verified here",
+   "fit_note": "Sexual touching rather than intercourse. The same episode has a separate non-consensual scene involving other characters that is not part of this card.",
+   "format": "tv",
+   "categories": [
+    "pregnant-intimate"
+   ],
+   "sources": [
+    {
+     "label": "Sidekick Reviews recap",
+     "url": "https://sidekickreviews.wordpress.com/2012/02/19/recap-spartacus-vengeance-empty-hands-season-2-episode-4/"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Empty_Hands_(Spartacus)"
+    },
+    {
+     "label": "Den of Geek review",
+     "url": "https://www.denofgeek.com/tv/spartacus-vengeance-episode-4-review-empty-hands/"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "pregnant-intimate-imdb-oct25"
+   ],
+   "source_records": [
+    "pregnant-intimate-imdb-oct25:3"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "pregnant-intimate-imdb-oct25:3": {
+     "title": "Spartacus: Vengeance — “Empty Hands” (S2E4)",
+     "year": "2012",
+     "format": "tv",
+     "meta": "Series · US · Starz · English · historical drama",
+     "categories": [
+      "pregnant-intimate"
+     ],
+     "tags": [
+      "loose fit"
+     ],
+     "fit_note": "Sexual touching rather than intercourse. The same episode has a separate non-consensual scene involving other characters that is not part of this card.",
+     "character": "Ilithyia (Viva Bianca), pregnant noblewoman",
+     "summary": "Pregnant Ilithyia seduces the praetor Varinius at a banquet, guiding his hand over her belly and further as she proposes ending her marriage to Glaber to wed him; he accepts on condition and walks away.",
+     "pregnant_end": "yes",
+     "pregnancy_note": "Scene partner: praetor Publius Varinius; husband Glaber is the legal father (Wikipedia says Spartacus' child from a one-night stand)",
+     "kids_status": "unknown",
+     "sources": [
+      {
+       "label": "Sidekick Reviews recap",
+       "url": "https://sidekickreviews.wordpress.com/2012/02/19/recap-spartacus-vengeance-empty-hands-season-2-episode-4/"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Empty_Hands_(Spartacus)"
+      },
+      {
+       "label": "Den of Geek review",
+       "url": "https://www.denofgeek.com/tv/spartacus-vengeance-episode-4-review-empty-hands/"
+      }
+     ],
+     "evidence": "Multi-source (recap, Wikipedia, Den of Geek); outcome not verified here"
     }
    }
   }
@@ -545328,7 +546087,8 @@ window.CATALOG = {
     "round2",
     "pregnant-intimate-oct25",
     "pregnant-scenes-oct25",
-    "imdb-pregnant-oct25"
+    "imdb-pregnant-oct25",
+    "pregnant-intimate-imdb-oct25"
    ],
    "groups": [
     {
@@ -546069,6 +546829,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "pregnant-scenes-oct25"
+    },
+    {
+     "title": "Pregnant intimate scenes — keyword follow-up (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3635,
+       "from_source": "pregnant-intimate-imdb-oct25"
+      }
+     ],
+     "from_source": "pregnant-intimate-imdb-oct25"
     }
    ],
    "declared_count_by_source": {
@@ -546078,7 +546849,8 @@ window.CATALOG = {
     "round2": null,
     "pregnant-intimate-oct25": null,
     "pregnant-scenes-oct25": null,
-    "imdb-pregnant-oct25": null
+    "imdb-pregnant-oct25": null,
+    "pregnant-intimate-imdb-oct25": null
    }
   },
   {
@@ -546211,7 +546983,8 @@ window.CATALOG = {
     "pregnant-intimacy",
     "round2",
     "pregnant-intimate-oct25",
-    "pregnant-scenes-oct25"
+    "pregnant-scenes-oct25",
+    "pregnant-intimate-imdb-oct25"
    ],
    "groups": [
     {
@@ -546460,6 +547233,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "pregnant-scenes-oct25"
+    },
+    {
+     "title": "Pregnant intimate scenes — keyword follow-up (Oct 2026)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3634,
+       "from_source": "pregnant-intimate-imdb-oct25"
+      },
+      {
+       "id": 3636,
+       "from_source": "pregnant-intimate-imdb-oct25"
+      }
+     ],
+     "from_source": "pregnant-intimate-imdb-oct25"
     }
    ],
    "declared_count_by_source": {
@@ -546467,7 +547255,8 @@ window.CATALOG = {
     "pregnant-intimacy": null,
     "round2": null,
     "pregnant-intimate-oct25": null,
-    "pregnant-scenes-oct25": null
+    "pregnant-scenes-oct25": null,
+    "pregnant-intimate-imdb-oct25": null
    }
   },
   {

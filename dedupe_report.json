@@ -3488,6 +3488,13 @@
      "subtitle": "",
      "year": "2010",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-imdb-oct25:8",
+     "title": "Hung",
+     "subtitle": "",
+     "year": "2010",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -14265,6 +14272,13 @@
      "subtitle": "",
      "year": "2011",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-imdb-oct25:11",
+     "title": "A Happy Event",
+     "subtitle": "",
+     "year": "2011",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -27491,6 +27505,13 @@
      "subtitle": "",
      "year": "2013",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-imdb-oct25:6",
+     "title": "Enemy",
+     "subtitle": "",
+     "year": "2013",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -30291,6 +30312,13 @@
      "subtitle": "",
      "year": "2015",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-imdb-oct25:9",
+     "title": "High-Rise",
+     "subtitle": "",
+     "year": "2015",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -33921,6 +33949,13 @@
      "subtitle": "",
      "year": "2017",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-imdb-oct25:10",
+     "title": "Loveless",
+     "subtitle": "",
+     "year": "2017",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -38806,6 +38841,13 @@
      "subtitle": "",
      "year": "1999",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-imdb-oct25:7",
+     "title": "Romance",
+     "subtitle": "",
+     "year": "1999",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -39883,6 +39925,13 @@
      "subtitle": "",
      "year": "2020",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-imdb-oct25:13",
+     "title": "Shirley",
+     "subtitle": "",
+     "year": "2020",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -41673,6 +41722,13 @@
      "subtitle": "",
      "year": "2012",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-imdb-oct25:12",
+     "title": "Tabu",
+     "subtitle": "",
+     "year": "2012",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -44111,6 +44167,13 @@
      "subtitle": "",
      "year": "2026",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "pregnant-intimate-imdb-oct25:5",
+     "title": "Wuthering Heights",
+     "subtitle": "",
+     "year": "2026",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -46787,6 +46850,26 @@
      "matched_by": "title+year"
     }
    ]
+  },
+  {
+   "kept_id": 3588,
+   "kept": "St. Vincent (2014)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "pregnant-intimate-oct25:2",
+     "title": "St. Vincent",
+     "subtitle": "",
+     "year": "2014"
+    },
+    {
+     "rid": "pregnant-intimate-imdb-oct25:4",
+     "title": "St. Vincent",
+     "subtitle": "",
+     "year": "2014",
+     "matched_by": "match_title"
+    }
+   ]
   }
  ],
  "same_title_year_merges": [
@@ -47753,11 +47836,12 @@
   "pregnant-scenes-oct25": 9,
   "hypnosis-deep-oct25c": 18,
   "hypno-kids-witness-oct25": 14,
-  "imdb-pregnant-oct25": 1
+  "imdb-pregnant-oct25": 1,
+  "pregnant-intimate-imdb-oct25": 13
  },
- "entry_count_after_dedupe": 3493,
+ "entry_count_after_dedupe": 3496,
  "within_source_groups": 6,
- "cross_source_groups": 1927,
+ "cross_source_groups": 1928,
  "index_only_records": 59,
- "local_only_records": 1194
+ "local_only_records": 1197
 }
