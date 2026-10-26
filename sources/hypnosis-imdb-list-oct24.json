@@ -1,8 +1,8 @@
 {
  "id": "hypnosis-imdb-list-oct24",
- "label": "IMDb list 'Hypnotized Women in TV and Film' (24 Oct 2026)",
- "group_title": "IMDb list — Hypnotized Women in TV and Film (partial: entries 1-25 and 101-200)",
- "description": "IMDb list ls099930129 by sleep-71052 (a list of ~1,285-1,410 actresses, each noted with the production in which she is hypnotized, brainwashed, possessed or mind-controlled). Live IMDb is behind an AWS WAF human-verification challenge and the export returns an empty HTTP 202; only the Wayback snapshots of the list's first page (entries 1-25) and ?page=2 (entries 101-200) were reachable. 59 existing cards received the list as a source link; 4 new titles added where a Wikipedia plot confirms the hypnosis/brainwashing/possession.",
+ "label": "IMDb list 'Hypnotized Women in TV and Film' (full CSV export, 25 Oct 2026)",
+ "group_title": "IMDb list — Hypnotized Women in TV and Film (CSV rows 1-250)",
+ "description": "IMDb list ls099930129 by sleep-71052 (an actress per row, each noted with the production in which she is hypnotized, brainwashed, possessed or mind-controlled; the list does not separate those mechanisms). Source is the owner's CSV export (rows 1-250 of 1,474 processed so far); live IMDb stays behind a WAF challenge, so each production was checked against its Wikipedia article instead. Existing catalog cards only receive the list as a source link and tag; new cards need a Wikipedia article that names the listed actress, a film/TV production, a matching year, an adult cast member and not a children's programme. Cards tagged imdb-list-only have the production and actress confirmed but no plot passage matching her role, so their hypnosis/possession/mind-control type and the wife/pregnancy/kids fields stay 'not stated'. Rows are listed under dropped (no unambiguous Wikipedia match) or excluded (minor at the time, children's/teen programme, actress not named in the matched article).",
  "category_labels": {},
  "records": [
   {
@@ -1140,124 +1140,792 @@
  ],
  "dropped": [
   {
-   "title": "All Around the Town",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "Andromeda",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "Bone Chillers",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "Fatal Past",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "Faust: Love of the Damned",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "First Wave",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "Floribella",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
+   "title": "Airborne",
+   "actresses": [
+    "Gemma Atkinson"
+   ],
+   "reason": "Wikipedia page 'Airborne' does not name the listed actress(es), so the title match is unconfirmed"
   },
   {
    "title": "Forgotten Evil",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "Galaxy Park",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "Ghosts of Goldfield",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "Grace: The Possession",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "Grachi",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "K-9",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "Killer Eye 2",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "Lois and Clark",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "Mostly Ghostly 3 (teen cast)",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "One of Us",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "PSI Factor",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "Power Rangers Time Force",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "Power Rangers in Space",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "Psycho Beach Party (plot summary shows multiple personalities, not hypnosis)",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "Seedpeople",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "Street Fighter: Resurrection",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "Superman and Lois",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "The Adventure of Superseven",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "The Irregulars",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
-  },
-  {
-   "title": "The Vamps Next Door",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
+   "actresses": [
+    "Masiela Lusha"
+   ],
+   "reason": "no matching Wikipedia article found"
   },
   {
    "title": "The Witcher",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
+   "actresses": [
+    "Therica Wilson-Read"
+   ],
+   "reason": "Wikipedia match 'The Witcher (TV series)' is not a film or TV production"
+  },
+  {
+   "title": "Floribella",
+   "actresses": [
+    "Luciana Abreu"
+   ],
+   "reason": "Wikipedia match 'Floribella' is not a film or TV production"
+  },
+  {
+   "title": "Killer Eye 2",
+   "actresses": [
+    "Chelsea Edmundson",
+    "Erica Rhodes",
+    "Olivia Alexander"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "One of Us",
+   "actresses": [
+    "Christa B. Allen"
+   ],
+   "reason": "Wikipedia page 'One of Us (TV series)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Sleeping Beauty",
+   "actresses": [
+    "Jenny Allford"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Ghosts of Goldfield",
+   "actresses": [
+    "Mandy Amano"
+   ],
+   "reason": "Wikipedia match looked like a disambiguation/non-production page"
+  },
+  {
+   "title": "Out of the Blue (1995)",
+   "actresses": [
+    "Maite Arnedo",
+    "Veronica Blume"
+   ],
+   "reason": "Wikipedia page 'Out of the Blue (1995 TV series)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Intruders (1992)",
+   "actresses": [
+    "Daphne Ashbrook"
+   ],
+   "reason": "Wikipedia page 'Intruders' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "College Coeds vs. Zombie Housewives",
+   "actresses": [
+    "Mary Carey"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Know Fear",
+   "actresses": [
+    "Amy Carlson",
+    "Mallory Bechtel"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Shangri-La: Near Extinction",
+   "actresses": [
+    "Evangeline Crittenden",
+    "Pamela Chau"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Lie to Me",
+   "actresses": [
+    "Erika Christensen"
+   ],
+   "reason": "Wikipedia page 'Lie to Me' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Seaquest DMV",
+   "actresses": [
+    "Stephanie Beacham"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Charmed (1998)",
+   "actresses": [
+    "Holly Marie Combs",
+    "Leigh-Allyn Baker",
+    "Marnette Patterson",
+    "Michelle Stafford",
+    "Shannen Doherty",
+    "Shannon Engemann"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Ancient Desires",
+   "actresses": [
+    "Regina Russell Banali"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Sex Court: The Movie",
+   "actresses": [
+    "Regina Russell Banali"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Sex Files: Alien Erotica 2",
+   "actresses": [
+    "Regina Russell Banali"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Mummy's Kiss",
+   "actresses": [
+    "Regina Russell Banali"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Drone",
+   "actresses": [
+    "Priyanka Chopra Jonas"
+   ],
+   "reason": "Wikipedia page 'Drone' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Mujhse Shaadi Karogi",
+   "actresses": [
+    "Priyanka Chopra Jonas"
+   ],
+   "reason": "Wikipedia page 'Mujhse Shaadi Karogi' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "There's Nothing Out There!",
+   "actresses": [
+    "Bonnie Bowers",
+    "Wendy Bednarz"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Paranormal Attraction",
+   "actresses": [
+    "Nicole Cinaglia"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Creature Below",
+   "actresses": [
+    "Anna Dawson"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Hell Girl",
+   "actresses": [
+    "Lauren Compton"
+   ],
+   "reason": "Wikipedia page 'Hell Girl' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Evil Deeds: Full Circle",
+   "actresses": [
+    "Jennifer Day"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Deathbed",
+   "actresses": [
+    "Tanya Dempsey"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Infectious Madness of Doctor Dekker",
+   "actresses": [
+    "Aislinn De'Ath"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Nowhere Man",
+   "actresses": [
+    "Kayla Blake"
+   ],
+   "reason": "Wikipedia page 'Nowhere Man (Taiwanese TV series)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Agent Revelation",
+   "actresses": [
+    "Marikah Baran"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Ravenswood",
+   "actresses": [
+    "Madeline Marie Dona"
+   ],
+   "reason": "Wikipedia page 'Ravenswood (TV series)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Witchcraft 15",
+   "actresses": [
+    "Molly Dougherty"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Baywatch",
+   "actresses": [
+    "Nicole Eggert"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Lost World",
+   "actresses": [
+    "Rachel Blakely"
+   ],
+   "reason": "Wikipedia page 'The Lost World (Doyle novel)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Hold Your Breath",
+   "actresses": [
+    "Katrina Bowden"
+   ],
+   "reason": "Wikipedia page 'Hold Your Breath (2024 film)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Faust: Love of the Damned",
+   "actresses": [
+    "Isabel Brook"
+   ],
+   "reason": "Wikipedia page 'Faust (comics)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Supernatural",
+   "actresses": [
+    "Anita Brown"
+   ],
+   "reason": "Wikipedia page 'Supernatural (film)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "The Flash",
+   "actresses": [
+    "Danielle Panabaker",
+    "Jessica Camacho"
+   ],
+   "reason": "Wikipedia page 'The Flash (film)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Power Rangers Time Force",
+   "actresses": [
+    "Erin Cahill"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Bone Chillers",
+   "actresses": [
+    "Saadia Persad"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Grace: The Possession",
+   "actresses": [
+    "Alexia Fast"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Adventure of Superseven",
+   "actresses": [
+    "Olivia Dunkley"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Vamps Next Door",
+   "actresses": [
+    "Olivia Dunkley"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Fatal Past",
+   "actresses": [
+    "Katarzyna Figura"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Young Blades",
+   "actresses": [
+    "Karen Cliche"
+   ],
+   "reason": "Wikipedia match looked like a disambiguation/non-production page"
+  },
+  {
+   "title": "Mostly Ghostly 3",
+   "actresses": [
+    "Juliette Cohen"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "First Wave",
+   "actresses": [
+    "A.J. Cook"
+   ],
+   "reason": "Wikipedia page 'First Wave (TV series)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "All Around the Town",
+   "actresses": [
+    "Kim Schraner"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Lois and Clark",
+   "actresses": [
+    "Meredith Scott Lynn"
+   ],
+   "reason": "Wikipedia page 'Lois & Clark: The New Adventures of Superman' does not name the listed actress(es), so the title match is unconfirmed"
   },
   {
    "title": "Wynonna Earp",
-   "reason": "listed on the IMDb page but the hypnosis/mind-control detail could not be confirmed from a plot source (episode-level or obscure title); not added"
+   "actresses": [
+    "Melanie Scrofano"
+   ],
+   "reason": "Wikipedia match 'Wynonna Earp' is not a film or TV production"
   },
   {
-   "title": "Ambiguous multi-card titles (All My Children, Buffy, Charlie's Angels, Charmed, Days of Our Lives, Doctor Who, Sleeping Beauty, Supernatural, The Flash, Village of the Damned, Alice 2009)",
-   "reason": "several catalog cards share the title; no source link attached to avoid mis-merging"
+   "title": "Galaxy Park",
+   "actresses": [
+    "Astrid Sercu",
+    "Lauren De Ruyck"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Presence",
+   "actresses": [
+    "Alexandria DeBerry"
+   ],
+   "reason": "Wikipedia page 'Presence' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Tamara",
+   "actresses": [
+    "Jenna Dewan"
+   ],
+   "reason": "Wikipedia page 'Tamara Tunie' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Beyond the Gates",
+   "actresses": [
+    "Brea Grant"
+   ],
+   "reason": "Wikipedia page 'Beyond the Gates (TV series)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Love Potion #9",
+   "actresses": [
+    "Rebecca Staab"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Heist (2021)",
+   "actresses": [
+    "Emree Franklin"
+   ],
+   "reason": "Wikipedia page 'Heist' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Passions",
+   "actresses": [
+    "Molly Stanton"
+   ],
+   "reason": "Wikipedia match 'Passions (TV series)' is not a film or TV production"
+  },
+  {
+   "title": "The Corporation",
+   "actresses": [
+    "Dee Wallace",
+    "Griffin Drew"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Buffy the Vampire Slayer (1992)",
+   "actresses": [
+    "Kristy Swanson"
+   ],
+   "reason": "Wikipedia page 'Buffy the Vampire Slayer' year 1997 does not match listed year 1992 (a different production with the same title; not resolved)"
+  },
+  {
+   "title": "Forbidden Secrets",
+   "actresses": [
+    "Kristy Swanson"
+   ],
+   "reason": "Wikipedia page 'List of Fear Street books' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "El Chica Vampiro",
+   "actresses": [
+    "Lore Garcia E"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Beauty and the Beast (2010)",
+   "actresses": [
+    "Estella Warren"
+   ],
+   "reason": "Wikipedia match 'Beauty and the Beast' is not a film or TV production"
   }
- ]
+ ],
+ "excluded": [
+  {
+   "title": "Airborne",
+   "actress": "Gemma Atkinson",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Grachi",
+   "actress": "Liannet Borrego",
+   "reason": "children's programme per Wikipedia categories"
+  },
+  {
+   "title": "Charmed",
+   "actress": "Kimi Alexander",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Charmed",
+   "actress": "Rebekah Asselstine",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Charmed",
+   "actress": "Natalie Hall",
+   "reason": "minor at production (birth 1990, production year ~1998)"
+  },
+  {
+   "title": "Days of Our Lives",
+   "actress": "Alexis Thorpe",
+   "reason": "minor at production (birth year vs card year 1965)"
+  },
+  {
+   "title": "One of Us",
+   "actress": "Christa B. Allen",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Buffy the Vampire Slayer",
+   "actress": "Charisma Carpenter",
+   "reason": "teen programme and actress birth year not given"
+  },
+  {
+   "title": "All My Children",
+   "actress": "Rosalind Allen",
+   "reason": "minor at production (birth year vs card year 1970)"
+  },
+  {
+   "title": "Out of the Blue",
+   "actress": "Maite Arnedo",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Out of the Blue",
+   "actress": "Veronica Blume",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Intruders",
+   "actress": "Daphne Ashbrook",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Scooby Doo",
+   "actress": "Linda Cardellini",
+   "reason": "minor at production (birth 1975, production year ~1969)"
+  },
+  {
+   "title": "Lie to Me",
+   "actress": "Erika Christensen",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Drone",
+   "actress": "Priyanka Chopra Jonas",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Mujhse Shaadi Karogi",
+   "actress": "Priyanka Chopra Jonas",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Superman and Lois",
+   "actress": "Stacey Farber",
+   "reason": "teen programme and actress birth year not given"
+  },
+  {
+   "title": "Hell Girl",
+   "actress": "Lauren Compton",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Nowhere Man",
+   "actress": "Kayla Blake",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Ravenswood",
+   "actress": "Madeline Marie Dona",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "The Haunting of Morella",
+   "actress": "Nicole Eggert",
+   "reason": "minor at production (birth 1972, production year ~1990)"
+  },
+  {
+   "title": "The Lost World",
+   "actress": "Rachel Blakely",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Hold Your Breath",
+   "actress": "Katrina Bowden",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Clarice",
+   "actress": "Rebecca Breeds",
+   "reason": "minor at production (birth 1987, production year ~1988)"
+  },
+  {
+   "title": "Faust: Love of the Damned",
+   "actress": "Isabel Brook",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Supernatural",
+   "actress": "Anita Brown",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "The Flash",
+   "actress": "Danielle Panabaker",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "The Flash",
+   "actress": "Jessica Camacho",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "PSI Factor",
+   "actress": "Robin Brûlé",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Power Rangers in Space",
+   "actress": "Melody Perkins",
+   "reason": "children's programme per Wikipedia categories"
+  },
+  {
+   "title": "Doctor Who",
+   "actress": "Camille Coduri",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Doctor Who",
+   "actress": "Pik Sen Lim",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Doctor Who",
+   "actress": "Sarah Sutton",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Doctor Who",
+   "actress": "Billie Piper",
+   "reason": "minor at production (birth 1982, production year ~1963)"
+  },
+  {
+   "title": "Doctor Who",
+   "actress": "Elisabeth Sladen",
+   "reason": "minor at production (birth 1946, production year ~1963)"
+  },
+  {
+   "title": "Doctor Who",
+   "actress": "Lalla Ward",
+   "reason": "minor at production (birth 1951, production year ~1963)"
+  },
+  {
+   "title": "The Irregulars",
+   "actress": "Lisa Dwyer Hogg",
+   "reason": "teen programme and actress birth year not given"
+  },
+  {
+   "title": "Circus of the Stars",
+   "actress": "Emma Samms",
+   "reason": "minor at production (birth year vs card year 1977)"
+  },
+  {
+   "title": "Warehouse 13",
+   "actress": "Tamara Duarte",
+   "reason": "minor at production (birth year vs card year 2009)"
+  },
+  {
+   "title": "First Wave",
+   "actress": "A.J. Cook",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Lois and Clark",
+   "actress": "Meredith Scott Lynn",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Presence",
+   "actress": "Alexandria DeBerry",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Tamara",
+   "actress": "Jenna Dewan",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Power Rangers Mystic Force",
+   "actress": "Angie Diaz",
+   "reason": "children's programme per Wikipedia categories"
+  },
+  {
+   "title": "Beyond the Gates",
+   "actress": "Brea Grant",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "General Hospital",
+   "actress": "Genie Francis",
+   "reason": "minor at production (birth year vs card year 1963)"
+  },
+  {
+   "title": "General Hospital",
+   "actress": "Janine Turner",
+   "reason": "minor at production (birth year vs card year 1963)"
+  },
+  {
+   "title": "Heist",
+   "actress": "Emree Franklin",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Forbidden Secrets",
+   "actress": "Kristy Swanson",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Under ConTroll",
+   "actress": "Eva Habermann",
+   "reason": "minor at production (birth 1976, production year ~1990)"
+  }
+ ],
+ "resolved_ambiguous": [
+  {
+   "title": "Days of Our Lives",
+   "basis": "year 1965",
+   "card_id": 1110
+  },
+  {
+   "title": "All My Children",
+   "basis": "year 1970",
+   "card_id": 896
+  },
+  {
+   "title": "Village of the Damned",
+   "basis": "year hint 1995",
+   "card_id": 503
+  },
+  {
+   "title": "Not of This Earth",
+   "basis": "year hint 1995",
+   "card_id": 1609
+  },
+  {
+   "title": "Alias",
+   "basis": "year 2001",
+   "card_id": 3574
+  },
+  {
+   "title": "Dark Shadows",
+   "basis": "year hint 1991",
+   "card_id": 1101
+  },
+  {
+   "title": "Doctor Who",
+   "basis": "year hint 2005",
+   "card_id": 510
+  },
+  {
+   "title": "Charlie's Angels",
+   "basis": "year 1976",
+   "card_id": 603
+  },
+  {
+   "title": "Alice",
+   "basis": "year hint 2009",
+   "card_id": 893
+  },
+  {
+   "title": "Port Charles",
+   "basis": "year 1997",
+   "card_id": 1661
+  },
+  {
+   "title": "General Hospital",
+   "basis": "year 1963",
+   "card_id": 1269
+  }
+ ],
+ "ambiguous_new_cards": [
+  "Charmed",
+  "Buffy the Vampire Slayer",
+  "Sleeping Beauty",
+  "Doctor Who",
+  "Charmed",
+  "Supernatural",
+  "The Flash",
+  "Doctor Who",
+  "Heist",
+  "Passions",
+  "Buffy the Vampire Slayer",
+  "Beauty and the Beast"
+ ],
+ "stats": {
+  "csv_rows": 250,
+  "items": 283,
+  "groups": 208,
+  "links": 111,
+  "old_source_records": 61,
+  "new": 19,
+  "dropped": 63,
+  "excluded": 50
+ }
 }
