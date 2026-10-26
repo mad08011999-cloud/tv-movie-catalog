@@ -190,6 +190,8 @@ SOURCES = [
      "local": "sources/imdb-pregnant-oct25.json", "required": False},
     {"id": "pregnant-intimate-imdb-oct25", "label": "Pregnant intimate scenes — IMDb keyword follow-up (25 Oct 2026)",
      "local": "sources/pregnant-intimate-imdb-oct25.json", "required": False},
+    {"id": "hypno-kids-witness-unverified-oct25", "label": "Female hypnotized, child presence unverified: loose fits re-added (Oct 2026)",
+     "local": "sources/hypno-kids-witness-unverified-oct25.json", "required": False},
 ]
 CONTENT_HOST = "metaaiusercontent.com"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "

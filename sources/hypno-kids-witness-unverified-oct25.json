@@ -1,0 +1,284 @@
+{
+ "id": "hypno-kids-witness-unverified-oct25",
+ "label": "Female hypnotized with children present — unverified loose fits, re-added from dropped list (Oct 2026)",
+ "group_title": "Female hypnotized, child presence unverified — loose fits (25 Oct 2026)",
+ "description": "Eight leads first dropped from the 'female hypnotized in front of her children' pass because a child's presence at the hypnosis was not verified (or the child was absent). They are kept at Low confidence, each with a 'Loose fit' note stating the exact reason, for the owner's review. Pregnancy is not stated for any of them.",
+ "records": [
+  {
+   "title": "Up, Up and Away (Disney Channel, 2000) — Amy's mother hypnotized by a CD (Mentok clip)",
+   "year": "2000",
+   "format": "movie",
+   "meta": "Disney Channel Original Movie · USA · 2000 · clip: YouTube, Mentok T. Mindtaker, 'Just the Hypnosis Scenes: Mom gets hypnotized', 43 s, uploaded 10 Jan 2016",
+   "character": "Amy's mother (Nancy Sorel; name not given)",
+   "summary": "Gist: villain Malcolm uses a hypnotic educational CD program (it works on kids) to control people. Scott accidentally switches CDs with a classmate, Amy, so Amy's mother plays the CD, is hypnotized, subconsciously robs a bank and heads to the Earth Protectors' HQ. The clip is the bank hold-up with 'Earth Protectors will tell you exactly what to do'.",
+   "hypnotist": "Malcolm (Earth Protectors), via a hypnotic CD program",
+   "gain_motive": [
+    "Malcolm's greedy plans (bank robbery)"
+   ],
+   "method": "hypnotic CD / screen program (technological hypnosis)",
+   "categories": [
+    "mother",
+    "tech"
+   ],
+   "kids_note": "Amy is the classmate whose CD was switched; whether Amy is present when her mother is hypnotized is not shown in the sources.",
+   "child_witness": "not established — only the CD switch is stated; the clip is the bank scene",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Up, Up and Away",
+     "url": "https://mentalblock.miraheze.org/wiki/Up_Up_and_Away"
+    },
+    {
+     "label": "YouTube: Mentok T. Mindtaker — Just the Hypnosis Scenes: Mom gets hypnotized (uploaded 2016-01-10)",
+     "url": "https://www.youtube.com/watch?v=IhwXLHlBzIU"
+    }
+   ],
+   "evidence": "Mental Block plot summary ('her mother ... subconsciously robs a bank and goes to Earth Protectors' HQ') + YouTube title, description and a few caption lines of the clip; the clip download was blocked so frames were not checked",
+   "confidence_flag": "Low · plot summary + YouTube clip description/captions; child presence not verified",
+   "fit_note": "Loose fit: child presence unverified — earlier dropped because the hypnotized mother is not the hero's mother and her daughter Amy's presence could not be checked (clip download was blocked). YouTube clip source (fan upload).",
+   "provenance": "Previously dropped 'female hypnotized with child present' leads, re-added as Low-confidence loose fits at the owner's request (25 Oct 2026 PT). Evidence is limited to what is quoted per record (Mental Block wiki, TV Tropes, YouTube title/description/captions/chapters); child presence was NOT verified. Adults only; non-explicit; strict hypnosis only.",
+   "note": "",
+   "adult": "no",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "Pregnancy not stated in any source seen.",
+   "kids_status": "not stated"
+  },
+  {
+   "title": "Jimmy Timmy Power Hour",
+   "match_title": "Jimmy Timmy Power Hour",
+   "match_year": "2004",
+   "year": "2004",
+   "format": "movie",
+   "meta": "Nickelodeon TV movie crossover (The Fairly OddParents × Jimmy Neutron) · USA · 2004",
+   "character": "Judy Neutron (Jimmy's mother)",
+   "summary": "Gist: Timmy hypnotizes Judy Neutron and tells her to think she is 'Mighty Mom', a dirt-fighting heroine with vacuum-powered flying; she spends the special in the fantasy, battling 'Dr. Mildew' and not noticing the monster attacking Retroville.",
+   "hypnotist": "Timmy Turner",
+   "gain_motive": [
+    "not stated in the source seen"
+   ],
+   "method": "hypnotic suggestion (told she is 'Mighty Mom')",
+   "categories": [
+    "mother",
+    "child-controller"
+   ],
+   "kids_note": "Her son Jimmy is NOT present when Timmy hypnotizes her; the child is absent from the hypnosis.",
+   "child_witness": "none — her son Jimmy is absent when Judy is hypnotized",
+   "sources": [
+    {
+     "label": "TV Tropes: Hypno Fool (Jimmy Timmy Power Hour entry)",
+     "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoFool"
+    }
+   ],
+   "evidence": "TV Tropes 'Hypno Fool' entry: 'After getting hypnotized by Timmy, Judy Neutron is told to think that she's Mighty Mom ...'",
+   "confidence_flag": "Low · one TV Tropes entry; child absent at the hypnosis",
+   "fit_note": "Loose fit: child presence unverified — actually the child is absent: Jimmy is not present when Timmy hypnotizes his mother Judy (dropped for that reason in the Sep pass). Kept only as a mother-hypnotized-by-a-kid reference.",
+   "provenance": "Previously dropped 'female hypnotized with child present' leads, re-added as Low-confidence loose fits at the owner's request (25 Oct 2026 PT). Evidence is limited to what is quoted per record (Mental Block wiki, TV Tropes, YouTube title/description/captions/chapters); child presence was NOT verified. Adults only; non-explicit; strict hypnosis only.",
+   "note": "",
+   "adult": "no",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "Pregnancy not stated in any source seen.",
+   "kids_status": "not stated"
+  },
+  {
+   "title": "Fatih di Kampung Jawara",
+   "match_title": "Fatih di Kampung Jawara",
+   "match_year": "2018",
+   "year": "2018",
+   "format": "tv",
+   "meta": "Indonesian TV series · MNC Pictures / MNCTV · premiered 17 Oct 2018 · S1E5",
+   "character": "Farah, Fatih's mother",
+   "summary": "Gist: in S1E5 a thief uses a hypnotic touch on Farah; she falls into a trance and, under mind control, hands over the cash-register money.",
+   "hypnotist": "a thief (hypnotic touch)",
+   "gain_motive": [
+    "to obtain the money from the cash register"
+   ],
+   "method": "hypnotic touch",
+   "categories": [
+    "mother",
+    "fantasy"
+   ],
+   "kids_note": "Her son Fatih is the title character; whether he is present at the hypnosis is not shown in the caption-only source.",
+   "child_witness": "not established (the source has scene captions only)",
+   "sources": [
+    {
+     "label": "Mental Block wiki: Fatih di Kampung Jawara",
+     "url": "https://mentalblock.miraheze.org/wiki/Fatih_di_Kampung_Jawara"
+    }
+   ],
+   "evidence": "Mental Block wiki page: episode summary + captions 'The thief uses her hypnotic touch' / 'Farah is hypnotized'",
+   "confidence_flag": "Low · single fan-wiki page; child presence not shown",
+   "fit_note": "Loose fit: child presence unverified — dropped in the Sep pass because the child's witnessing of the S1E5 hypnosis was never established (only scene captions exist).",
+   "provenance": "Previously dropped 'female hypnotized with child present' leads, re-added as Low-confidence loose fits at the owner's request (25 Oct 2026 PT). Evidence is limited to what is quoted per record (Mental Block wiki, TV Tropes, YouTube title/description/captions/chapters); child presence was NOT verified. Adults only; non-explicit; strict hypnosis only.",
+   "note": "",
+   "adult": "no",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "Pregnancy not stated in any source seen.",
+   "kids_status": "not stated"
+  },
+  {
+   "title": "Caso Cerrado — «¡A mi mamá la hipnotizaron y se volvió lesbiana!» (Paloma y Fabricio)",
+   "year": "2026",
+   "format": "tv",
+   "meta": "Court show (Telemundo) · USA · Spanish · full-episode upload on YouTube (official Caso Cerrado channel), 17 min 52 s, uploaded 16 Apr 2026; original air date not stated",
+   "character": "Paloma (the mother, plaintiff)",
+   "summary": "Gist: court-show case about past hypnosis — Paloma sues her son Fabricio for withholding family assets while she seeks a divorce; he sets a condition that she undergo a new hypnosis and claims that hypnosis has been changing her radically. No hypnosis scene is shown; the hypnosis is discussed as a past event.",
+   "hypnotist": "not stated",
+   "gain_motive": [
+    "not stated"
+   ],
+   "method": "past hypnosis (discussed in court, not depicted)",
+   "categories": [
+    "mother"
+   ],
+   "kids_note": "Her adult son Fabricio is the defendant and demands the new hypnosis; the child is an adult and no hypnosis scene is shown.",
+   "child_witness": "none shown — court-show case about past hypnosis",
+   "sources": [
+    {
+     "label": "YouTube: Caso Cerrado — ¡A mi mamá la hipnotizaron y se volvió lesbiana! | Caso Cerrado Capítulo Completo (uploaded 2026-04-16)",
+     "url": "https://www.youtube.com/watch?v=LKXPMmpQFnI"
+    }
+   ],
+   "evidence": "Official YouTube description (quote: 'su hijo le pone una condición: someterse a una nueva hipnosis') + tags; comments are viewer opinions",
+   "confidence_flag": "Low · official YouTube description only; hypnosis not depicted",
+   "fit_note": "Loose fit: child presence unverified — this is a court show about past hypnosis; no hypnosis scene or child presence is shown (dropped for that reason). The 'child' is her adult son. YouTube source (full-episode upload).",
+   "provenance": "Previously dropped 'female hypnotized with child present' leads, re-added as Low-confidence loose fits at the owner's request (25 Oct 2026 PT). Evidence is limited to what is quoted per record (Mental Block wiki, TV Tropes, YouTube title/description/captions/chapters); child presence was NOT verified. Adults only; non-explicit; strict hypnosis only.",
+   "note": "",
+   "adult": "no",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "Pregnancy not stated in any source seen.",
+   "kids_status": "not stated"
+  },
+  {
+   "title": "Mama Dodo Korban Hipnotis (Momon)",
+   "year": "2026",
+   "format": "short",
+   "meta": "YouTube · channel: MNC Amazing Junior (GTV Amazing Kids) · Indonesian · 8 min 20 s · uploaded 15 Jan 2026 · kids' programme clip",
+   "character": "Mama Dodo",
+   "summary": "Gist: 'Mama Dodo, a Victim of Hypnosis' — an episode clip from the Indonesian kids' programme Momon in which the character Mama Dodo is hypnotized. The description gives no further plot.",
+   "hypnotist": "not stated",
+   "gain_motive": [
+    "not stated"
+   ],
+   "method": "not stated",
+   "categories": [
+    "mother"
+   ],
+   "kids_note": "Whether a child is present is not stated; 'Mama' suggests a mother character but this is not confirmed.",
+   "child_witness": "not established from the title and description",
+   "sources": [
+    {
+     "label": "YouTube: MNC Amazing Junior — Mama Dodo Korban Hipnotis | Momon (uploaded 2026-01-15)",
+     "url": "https://www.youtube.com/watch?v=yAxRsgmMDKM"
+    }
+   ],
+   "evidence": "YouTube title and description only ('Mama Dodo, a Victim of Hypnosis | Momon')",
+   "confidence_flag": "Low · YouTube title/description only; video not reviewed",
+   "fit_note": "Loose fit: child presence unverified — dropped because the child's presence at the hypnosis could not be established from the title and description. YouTube source.",
+   "provenance": "Previously dropped 'female hypnotized with child present' leads, re-added as Low-confidence loose fits at the owner's request (25 Oct 2026 PT). Evidence is limited to what is quoted per record (Mental Block wiki, TV Tropes, YouTube title/description/captions/chapters); child presence was NOT verified. Adults only; non-explicit; strict hypnosis only.",
+   "note": "",
+   "adult": "no",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "Pregnancy not stated in any source seen.",
+   "kids_status": "not stated"
+  },
+  {
+   "title": "Hipnotis anak dan ibu jadi joget (Andika Jerman)",
+   "year": "2022",
+   "format": "short",
+   "meta": "YouTube · channel: Andika jerman badut sulap (clown/magician) · Indonesian · 6 min 53 s · uploaded 2 Feb 2022 · birthday-party hypnosis show",
+   "character": "An 'ibu' (mother) volunteer, name not given",
+   "summary": "Gist: at a birthday party a child and a mother are hypnotized by the entertainer and keep dancing ('anak dan ibu di hipnotis jadi joget joget terus').",
+   "hypnotist": "Andika Jerman (party entertainer)",
+   "gain_motive": [
+    "entertainment"
+   ],
+   "method": "party stage hypnosis",
+   "categories": [
+    "mother"
+   ],
+   "kids_note": "The title says 'anak dan ibu' (child and mother) but it is not established that they are related.",
+   "child_witness": "not established — the child and mother may be unrelated volunteers",
+   "sources": [
+    {
+     "label": "YouTube: Andika jerman badut sulap — LUCU!!! HIPNOTIS ANAK DAN IBU JADI JOGET (uploaded 2022-02-02)",
+     "url": "https://www.youtube.com/watch?v=TsVR09QgYn0"
+    }
+   ],
+   "evidence": "YouTube title and description only",
+   "confidence_flag": "Low · YouTube title/description only; relationship of the pair not established",
+   "fit_note": "Loose fit: child presence unverified — dropped because the relationship of the 'anak dan ibu' (child and mother) is not established; they may be unrelated volunteers. YouTube source (party entertainer clip).",
+   "provenance": "Previously dropped 'female hypnotized with child present' leads, re-added as Low-confidence loose fits at the owner's request (25 Oct 2026 PT). Evidence is limited to what is quoted per record (Mental Block wiki, TV Tropes, YouTube title/description/captions/chapters); child presence was NOT verified. Adults only; non-explicit; strict hypnosis only.",
+   "note": "",
+   "adult": "no",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "Pregnancy not stated in any source seen.",
+   "kids_status": "not stated"
+  },
+  {
+   "title": "HIPNOSE: A mãe que esquece o filho! (Capota Hipnose)",
+   "year": "2016",
+   "format": "short",
+   "meta": "YouTube · channel: CAPOTA HIPNOSE · Portuguese · 2 min · uploaded 19 Jul 2016",
+   "character": "A mother (name not given)",
+   "summary": "Gist: per the title, a hypnosis clip about a mother made to forget she has a son ('Conseguiria uma mãe esquecer que tem um filho?'). No further description exists.",
+   "hypnotist": "not stated",
+   "gain_motive": [
+    "not stated"
+   ],
+   "method": "not stated (likely demonstration hypnosis; not confirmed)",
+   "categories": [
+    "mother"
+   ],
+   "kids_note": "The son is the subject of the forgetting suggestion; whether he is present is unknown.",
+   "child_witness": "unknown — no description",
+   "sources": [
+    {
+     "label": "YouTube: CAPOTA HIPNOSE — HIPNOSE: A MÃE QUE ESQUECE O FILHO! (uploaded 2016-07-19)",
+     "url": "https://www.youtube.com/watch?v=C-dxAV7e9yo"
+    }
+   ],
+   "evidence": "YouTube title and a one-line description only ('Conseguiria uma mãe esquecer que tem um filho?')",
+   "confidence_flag": "Low · YouTube title/description only; video not reviewed",
+   "fit_note": "Loose fit: child presence unverified — dropped because the video has no description and it is unknown whether the son is present. YouTube source.",
+   "provenance": "Previously dropped 'female hypnotized with child present' leads, re-added as Low-confidence loose fits at the owner's request (25 Oct 2026 PT). Evidence is limited to what is quoted per record (Mental Block wiki, TV Tropes, YouTube title/description/captions/chapters); child presence was NOT verified. Adults only; non-explicit; strict hypnosis only.",
+   "note": "",
+   "adult": "no",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "Pregnancy not stated in any source seen.",
+   "kids_status": "not stated"
+  },
+  {
+   "title": "11 Year Old Hypnotized His Whole Family for 24 Hours (The Real Family)",
+   "year": "2024",
+   "format": "short",
+   "meta": "YouTube · channel: The Real Family (acting / challenge videos) · 19 min 47 s · uploaded 2 Dec 2024",
+   "character": "'His whole family' incl. a grandmother (mother not specified)",
+   "summary": "Gist: an acted skit in which an 11-year-old hypnotizes his whole family for 24 hours; chapters: the hypnotic plan, hypnotizing the family, confirming the trance, a trip to Barcelona, missing grandma, 'the banana command', final commands, relaxing at home.",
+   "hypnotist": "the 11-year-old boy (acted)",
+   "gain_motive": [
+    "not stated (the plan is in the first chapter)"
+   ],
+   "method": "acted hypnosis / commands",
+   "categories": [
+    "child-controller"
+   ],
+   "kids_note": "The hypnotist is a child; the title does not say that his mother is among the family members hypnotized.",
+   "child_witness": "the child is the hypnotist; the mother's inclusion is not specified",
+   "sources": [
+    {
+     "label": "YouTube: The Real Family — 11 Year Old Hypnotized his whole family for 24 hours (uploaded 2024-12-02)",
+     "url": "https://www.youtube.com/watch?v=Xsa-IjrAo98"
+    }
+   ],
+   "evidence": "YouTube title + chapter titles; the channel describes itself as 'Acting videos, challenges'",
+   "confidence_flag": "Low · acted skit; title and chapters only",
+   "fit_note": "Loose fit: child presence unverified — dropped because the title does not specify that the mother is hypnotized (only 'his whole family'), and it is an acted YouTube SKIT, not a real hypnosis event. Filed under child-controller as the closest existing category.",
+   "provenance": "Previously dropped 'female hypnotized with child present' leads, re-added as Low-confidence loose fits at the owner's request (25 Oct 2026 PT). Evidence is limited to what is quoted per record (Mental Block wiki, TV Tropes, YouTube title/description/captions/chapters); child presence was NOT verified. Adults only; non-explicit; strict hypnosis only.",
+   "note": "",
+   "adult": "no",
+   "pregnancy_outcome": "not stated",
+   "pregnancy_note": "Pregnancy not stated in any source seen.",
+   "kids_status": "not stated"
+  }
+ ],
+ "dropped": []
+}
