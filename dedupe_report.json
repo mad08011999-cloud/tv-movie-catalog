@@ -48,7 +48,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:191",
+     "rid": "hypnosis-imdb-list-full-oct25:202",
      "title": "The Curse of the Jade Scorpion",
      "subtitle": "",
      "year": "2001",
@@ -164,7 +164,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:213",
+     "rid": "hypnosis-imdb-list-full-oct25:224",
      "title": "Road to Rio",
      "subtitle": "",
      "year": "1947",
@@ -205,7 +205,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:326",
+     "rid": "hypnosis-imdb-list-full-oct25:337",
      "title": "Galavant",
      "subtitle": "",
      "year": "2016",
@@ -706,7 +706,7 @@
      "year": "1994"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:139",
+     "rid": "hypnosis-imdb-list-full-oct25:150",
      "title": "Mighty Morphin Power Rangers",
      "subtitle": "",
      "year": "1994",
@@ -1103,7 +1103,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:254",
+     "rid": "hypnosis-imdb-list-full-oct25:265",
      "title": "The Hypnotic Eye",
      "subtitle": "",
      "year": "1960",
@@ -1225,7 +1225,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:243",
+     "rid": "hypnosis-imdb-list-full-oct25:254",
      "title": "Flash Gordon",
      "subtitle": "",
      "year": "1980",
@@ -1293,7 +1293,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:195",
+     "rid": "hypnosis-imdb-list-full-oct25:206",
      "title": "Svengali",
      "subtitle": "",
      "year": "1983",
@@ -1634,7 +1634,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:264",
+     "rid": "hypnosis-imdb-list-full-oct25:275",
      "title": "Scott Pilgrim vs. the World",
      "subtitle": "",
      "year": "2010",
@@ -1744,7 +1744,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:316",
+     "rid": "hypnosis-imdb-list-full-oct25:327",
      "title": "Don't Worry Darling",
      "subtitle": "",
      "year": "2022",
@@ -2871,7 +2871,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:292",
+     "rid": "hypnosis-imdb-list-full-oct25:303",
      "title": "The Fourth Kind",
      "subtitle": "",
      "year": "2009",
@@ -4845,7 +4845,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:331",
+     "rid": "hypnosis-imdb-list-full-oct25:342",
      "title": "Malignant",
      "subtitle": "",
      "year": "2021",
@@ -5120,7 +5120,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:306",
+     "rid": "hypnosis-imdb-list-full-oct25:317",
      "title": "The Astronaut's Wife",
      "subtitle": "",
      "year": "1999",
@@ -6276,6 +6276,13 @@
      "subtitle": "",
      "year": "2015",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:426",
+     "title": "Naagin",
+     "subtitle": "",
+     "year": "2015–2016",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -6650,7 +6657,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:151",
+     "rid": "hypnosis-imdb-list-full-oct25:162",
      "title": "The Climax",
      "subtitle": "",
      "year": "1944",
@@ -6740,7 +6747,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:361",
+     "rid": "hypnosis-imdb-list-full-oct25:372",
      "title": "Whirlpool",
      "subtitle": "",
      "year": "1949",
@@ -6868,7 +6875,7 @@
      "matched_by": "same title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:239",
+     "rid": "hypnosis-imdb-list-full-oct25:250",
      "title": "Dead Again",
      "subtitle": "",
      "year": "1991",
@@ -7031,7 +7038,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:153",
+     "rid": "hypnosis-imdb-list-full-oct25:164",
      "title": "Santa Barbara",
      "subtitle": "",
      "year": "1991",
@@ -7248,7 +7255,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:320",
+     "rid": "hypnosis-imdb-list-full-oct25:331",
      "title": "Jessica Jones",
      "subtitle": "",
      "year": "2015",
@@ -7302,7 +7309,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:262",
+     "rid": "hypnosis-imdb-list-full-oct25:273",
      "title": "The Gifted",
      "subtitle": "",
      "year": "2018",
@@ -7655,7 +7662,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:386",
+     "rid": "hypnosis-imdb-list-full-oct25:398",
      "title": "Dracula Has Risen from the Grave",
      "subtitle": "",
      "year": "1968",
@@ -7742,7 +7749,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:232",
+     "rid": "hypnosis-imdb-list-full-oct25:243",
      "title": "Count Yorga, Vampire",
      "subtitle": "",
      "year": "1970",
@@ -7769,7 +7776,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:106",
+     "rid": "hypnosis-imdb-list-full-oct25:117",
      "title": "Dracula A.D. 1972",
      "subtitle": "",
      "year": "1972",
@@ -7904,7 +7911,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:333",
+     "rid": "hypnosis-imdb-list-full-oct25:344",
      "title": "The Devil Rides Out",
      "subtitle": "",
      "year": "1968",
@@ -8105,7 +8112,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:280",
+     "rid": "hypnosis-imdb-list-full-oct25:291",
      "title": "Candyman",
      "subtitle": "",
      "year": "1992",
@@ -8192,7 +8199,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:341",
+     "rid": "hypnosis-imdb-list-full-oct25:352",
      "title": "The Skeleton Key",
      "subtitle": "",
      "year": "2005",
@@ -8253,7 +8260,7 @@
      "matched_by": "same title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:290",
+     "rid": "hypnosis-imdb-list-full-oct25:301",
      "title": "Penny Dreadful",
      "subtitle": "",
      "year": "2014",
@@ -9762,6 +9769,13 @@
      "subtitle": "",
      "year": "2024",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:416",
+     "title": "Shaitaan",
+     "subtitle": "",
+     "year": "2024",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -9986,7 +10000,7 @@
      "year": "1993–2000"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:273",
+     "rid": "hypnosis-imdb-list-full-oct25:284",
      "title": "The X-Files",
      "subtitle": "",
      "year": "1993–2000",
@@ -10006,7 +10020,7 @@
      "year": "1993"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:270",
+     "rid": "hypnosis-imdb-list-full-oct25:281",
      "title": "The Tommyknockers",
      "subtitle": "",
      "year": "1993",
@@ -10072,7 +10086,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:256",
+     "rid": "hypnosis-imdb-list-full-oct25:267",
      "title": "Orphan Black",
      "subtitle": "",
      "year": "2013",
@@ -10139,7 +10153,7 @@
      "year": "2000"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:356",
+     "rid": "hypnosis-imdb-list-full-oct25:367",
      "title": "The Cell",
      "subtitle": "",
      "year": "2000",
@@ -11393,7 +11407,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:315",
+     "rid": "hypnosis-imdb-list-full-oct25:326",
      "title": "Heroes",
      "subtitle": "",
      "year": "2006–2010",
@@ -11989,7 +12003,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:127",
+     "rid": "hypnosis-imdb-list-full-oct25:138",
      "title": "Misfits",
      "subtitle": "",
      "year": "2011",
@@ -12639,7 +12653,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:268",
+     "rid": "hypnosis-imdb-list-full-oct25:279",
      "title": "My Husband's Deadly Past",
      "subtitle": "",
      "year": "2020",
@@ -12700,7 +12714,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:97",
+     "rid": "hypnosis-imdb-list-full-oct25:108",
      "title": "Village of the Damned",
      "subtitle": "",
      "year": "1995",
@@ -12828,7 +12842,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:122",
+     "rid": "hypnosis-imdb-list-full-oct25:133",
      "title": "Mortel",
      "subtitle": "",
      "year": "2019–2021",
@@ -12882,7 +12896,7 @@
      "matched_by": "alias"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:125",
+     "rid": "hypnosis-imdb-list-full-oct25:136",
      "title": "Doctor Who",
      "subtitle": "",
      "year": "2006",
@@ -12929,7 +12943,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:304",
+     "rid": "hypnosis-imdb-list-full-oct25:315",
      "title": "The Faculty",
      "subtitle": "",
      "year": "1998",
@@ -15116,7 +15130,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:126",
+     "rid": "hypnosis-imdb-list-full-oct25:137",
      "title": "Charlie’s Angels",
      "subtitle": "",
      "year": "1976",
@@ -15359,7 +15373,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:147",
+     "rid": "hypnosis-imdb-list-full-oct25:158",
      "title": "Morgana",
      "subtitle": "",
      "year": "2008",
@@ -15560,7 +15574,7 @@
      "year": "1985"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:300",
+     "rid": "hypnosis-imdb-list-full-oct25:311",
      "title": "Fright Night",
      "subtitle": "",
      "year": "1985",
@@ -15580,7 +15594,7 @@
      "year": "2011"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:369",
+     "rid": "hypnosis-imdb-list-full-oct25:380",
      "title": "Fright Night",
      "subtitle": "",
      "year": "2011",
@@ -15857,7 +15871,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:317",
+     "rid": "hypnosis-imdb-list-full-oct25:328",
      "title": "To Seduce an Enemy",
      "subtitle": "",
      "year": "2003",
@@ -15965,7 +15979,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:298",
+     "rid": "hypnosis-imdb-list-full-oct25:309",
      "title": "Body of Influence",
      "subtitle": "",
      "year": "1993",
@@ -16000,6 +16014,13 @@
     },
     {
      "rid": "hypnosis-deep-oct25:55",
+     "title": "À l'aventure",
+     "subtitle": "",
+     "year": "2008",
+     "matched_by": "alias"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:100",
      "title": "À l'aventure",
      "subtitle": "",
      "year": "2008",
@@ -16553,7 +16574,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:230",
+     "rid": "hypnosis-imdb-list-full-oct25:241",
      "title": "Dracula",
      "subtitle": "",
      "year": "1979",
@@ -16674,7 +16695,7 @@
      "year": "2004–05"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:111",
+     "rid": "hypnosis-imdb-list-full-oct25:122",
      "title": "Floricienta",
      "subtitle": "",
      "year": "2004–05",
@@ -16815,7 +16836,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:134",
+     "rid": "hypnosis-imdb-list-full-oct25:145",
      "title": "Looker",
      "subtitle": "",
      "year": "1981",
@@ -17369,7 +17390,7 @@
      "year": "1995"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:247",
+     "rid": "hypnosis-imdb-list-full-oct25:258",
      "title": "Embrace of the Vampire",
      "subtitle": "",
      "year": "1995",
@@ -17530,7 +17551,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:284",
+     "rid": "hypnosis-imdb-list-full-oct25:295",
      "title": "Forever Knight",
      "subtitle": "",
      "year": "1996",
@@ -17604,7 +17625,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:242",
+     "rid": "hypnosis-imdb-list-full-oct25:253",
      "title": "Plus belle la vie",
      "subtitle": "",
      "year": "2008",
@@ -17659,7 +17680,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:309",
+     "rid": "hypnosis-imdb-list-full-oct25:320",
      "title": "Bram Stoker's Dracula",
      "subtitle": "",
      "year": "1992",
@@ -18572,7 +18593,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:144",
+     "rid": "hypnosis-imdb-list-full-oct25:155",
      "title": "Amor en custodia",
      "subtitle": "",
      "year": "2005 onward",
@@ -18682,7 +18703,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:347",
+     "rid": "hypnosis-imdb-list-full-oct25:358",
      "title": "Ultrasound",
      "subtitle": "",
      "year": "2021",
@@ -18737,7 +18758,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:265",
+     "rid": "hypnosis-imdb-list-full-oct25:276",
      "title": "Stargate SG-1",
      "subtitle": "",
      "year": "1998",
@@ -19623,7 +19644,7 @@
      "matched_by": "alias"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:288",
+     "rid": "hypnosis-imdb-list-full-oct25:299",
      "title": "American Horror Stories",
      "subtitle": "",
      "year": "2021",
@@ -20018,7 +20039,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:312",
+     "rid": "hypnosis-imdb-list-full-oct25:323",
      "title": "12/12/12",
      "subtitle": "",
      "year": "2012",
@@ -20139,7 +20160,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:308",
+     "rid": "hypnosis-imdb-list-full-oct25:319",
      "title": "30,000 Leagues Under the Sea",
      "subtitle": "",
      "year": "2007",
@@ -20213,7 +20234,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:321",
+     "rid": "hypnosis-imdb-list-full-oct25:332",
      "title": "666 Park Avenue",
      "subtitle": "",
      "year": "2012",
@@ -20287,7 +20308,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:261",
+     "rid": "hypnosis-imdb-list-full-oct25:272",
      "title": "77 Sunset Strip",
      "subtitle": "",
      "year": "1958–1964",
@@ -20414,7 +20435,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:327",
+     "rid": "hypnosis-imdb-list-full-oct25:338",
      "title": "Adderly",
      "subtitle": "",
      "year": "1986–1988",
@@ -20669,7 +20690,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:112",
+     "rid": "hypnosis-imdb-list-full-oct25:123",
      "title": "Agents of S.H.I.E.L.D",
      "subtitle": "",
      "year": "2013–2020",
@@ -20870,7 +20891,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:260",
+     "rid": "hypnosis-imdb-list-full-oct25:271",
      "title": "Alice",
      "subtitle": "",
      "year": "1990",
@@ -20897,7 +20918,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:130",
+     "rid": "hypnosis-imdb-list-full-oct25:141",
      "title": "Alice (2009 miniseries)",
      "subtitle": "",
      "year": "2009",
@@ -20944,7 +20965,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:166",
+     "rid": "hypnosis-imdb-list-full-oct25:177",
      "title": "Aliens in the Family",
      "subtitle": "",
      "year": "1996",
@@ -21078,7 +21099,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:370",
+     "rid": "hypnosis-imdb-list-full-oct25:381",
      "title": "Altered",
      "subtitle": "",
      "year": "2006",
@@ -21125,7 +21146,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:142",
+     "rid": "hypnosis-imdb-list-full-oct25:153",
      "title": "Alyas Robin Hood",
      "subtitle": "",
      "year": "2016–2017",
@@ -21219,7 +21240,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:143",
+     "rid": "hypnosis-imdb-list-full-oct25:154",
      "title": "The Amazing Spider-Man",
      "subtitle": "",
      "year": "1977",
@@ -21407,7 +21428,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:137",
+     "rid": "hypnosis-imdb-list-full-oct25:148",
      "title": "An Angel for Satan",
      "subtitle": "",
      "year": "1966",
@@ -21541,7 +21562,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:267",
+     "rid": "hypnosis-imdb-list-full-oct25:278",
      "title": "Arrow",
      "subtitle": "",
      "year": "2012",
@@ -21608,7 +21629,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:291",
+     "rid": "hypnosis-imdb-list-full-oct25:302",
      "title": "Assassin's Bullet",
      "subtitle": "",
      "year": "2012",
@@ -21655,7 +21676,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:255",
+     "rid": "hypnosis-imdb-list-full-oct25:266",
      "title": "At the Earth's Core",
      "subtitle": "",
      "year": "1976",
@@ -21882,7 +21903,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:237",
+     "rid": "hypnosis-imdb-list-full-oct25:248",
      "title": "Avengers Grimm",
      "subtitle": "",
      "year": "2015",
@@ -22377,7 +22398,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:116",
+     "rid": "hypnosis-imdb-list-full-oct25:127",
      "title": "Batwoman",
      "subtitle": "",
      "year": "2019",
@@ -22431,7 +22452,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:335",
+     "rid": "hypnosis-imdb-list-full-oct25:346",
      "title": "BeastMaster",
      "subtitle": "",
      "year": "1999–2002",
@@ -22465,7 +22486,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:175",
+     "rid": "hypnosis-imdb-list-full-oct25:186",
      "title": "Beauty and the Beast",
      "subtitle": "",
      "year": "1987",
@@ -22619,7 +22640,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:158",
+     "rid": "hypnosis-imdb-list-full-oct25:169",
      "title": "Beverly Hills 90210",
      "subtitle": "",
      "year": "1990–2000",
@@ -22767,7 +22788,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:340",
+     "rid": "hypnosis-imdb-list-full-oct25:351",
      "title": "Bigbug",
      "subtitle": "",
      "year": "2022",
@@ -23322,7 +23343,7 @@
      "matched_by": "same title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:194",
+     "rid": "hypnosis-imdb-list-full-oct25:205",
      "title": "The Bold and the Beautiful",
      "subtitle": "",
      "year": "1987–",
@@ -23416,7 +23437,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:238",
+     "rid": "hypnosis-imdb-list-full-oct25:249",
      "title": "Brain Twisters",
      "subtitle": "",
      "year": "1991",
@@ -23443,7 +23464,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:367",
+     "rid": "hypnosis-imdb-list-full-oct25:378",
      "title": "Brainjacked",
      "subtitle": "",
      "year": "2009",
@@ -23638,7 +23659,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:192",
+     "rid": "hypnosis-imdb-list-full-oct25:203",
      "title": "The Brides of Fu Manchu",
      "subtitle": "",
      "year": "1966",
@@ -23752,7 +23773,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:234",
+     "rid": "hypnosis-imdb-list-full-oct25:245",
      "title": "Burke's Law",
      "subtitle": "",
      "year": "1963–1966",
@@ -23839,7 +23860,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:348",
+     "rid": "hypnosis-imdb-list-full-oct25:359",
      "title": "Camp Fear",
      "subtitle": "",
      "year": "1991",
@@ -24225,6 +24246,13 @@
      "subtitle": "",
      "year": "2021",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:422",
+     "title": "Chinese Speaking Vampires",
+     "subtitle": "",
+     "year": "2021",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -24583,7 +24611,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:380",
+     "rid": "hypnosis-imdb-list-full-oct25:392",
      "title": "Club Dead",
      "subtitle": "",
      "year": "2015",
@@ -24738,7 +24766,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:118",
+     "rid": "hypnosis-imdb-list-full-oct25:129",
      "title": "Continuum",
      "subtitle": "",
      "year": "2012–2015",
@@ -24966,7 +24994,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:132",
+     "rid": "hypnosis-imdb-list-full-oct25:143",
      "title": "Creature of Destruction",
      "subtitle": "",
      "year": "1967",
@@ -25073,7 +25101,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:289",
+     "rid": "hypnosis-imdb-list-full-oct25:300",
      "title": "Cult of Chucky",
      "subtitle": "",
      "year": "2017",
@@ -25160,7 +25188,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:377",
+     "rid": "hypnosis-imdb-list-full-oct25:389",
      "title": "Curse of the Scarecrow",
      "subtitle": "",
      "year": "2018",
@@ -25448,7 +25476,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:185",
+     "rid": "hypnosis-imdb-list-full-oct25:196",
      "title": "Daphne & Velma",
      "subtitle": "",
      "year": "2018",
@@ -25520,6 +25548,13 @@
      "subtitle": "",
      "year": "2023",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:405",
+     "title": "Dark Asset",
+     "subtitle": "",
+     "year": "2023",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -25542,7 +25577,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:295",
+     "rid": "hypnosis-imdb-list-full-oct25:306",
      "title": "Dark Corners",
      "subtitle": "",
      "year": "2006",
@@ -25589,7 +25624,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:113",
+     "rid": "hypnosis-imdb-list-full-oct25:124",
      "title": "Dark Shadows",
      "subtitle": "",
      "year": "1991",
@@ -25763,7 +25798,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:96",
+     "rid": "hypnosis-imdb-list-full-oct25:107",
      "title": "Days of Our Lives",
      "subtitle": "",
      "year": "1965–present",
@@ -25893,7 +25928,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:187",
+     "rid": "hypnosis-imdb-list-full-oct25:198",
      "title": "Dead Man's Gun",
      "subtitle": "",
      "year": "1997–1999",
@@ -25980,7 +26015,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:98",
+     "rid": "hypnosis-imdb-list-full-oct25:109",
      "title": "Demon Knight",
      "subtitle": "",
      "year": "1995",
@@ -26054,7 +26089,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:123",
+     "rid": "hypnosis-imdb-list-full-oct25:134",
      "title": "Department S",
      "subtitle": "",
      "year": "1969–1970",
@@ -26359,7 +26394,7 @@
      "matched_by": "same title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:231",
+     "rid": "hypnosis-imdb-list-full-oct25:242",
      "title": "Diagnosis: Murder",
      "subtitle": "",
      "year": "1993–2001",
@@ -26413,7 +26448,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:342",
+     "rid": "hypnosis-imdb-list-full-oct25:353",
      "title": "Dial Help",
      "subtitle": "",
      "year": "1988",
@@ -26567,7 +26602,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:313",
+     "rid": "hypnosis-imdb-list-full-oct25:324",
      "title": "Divergent",
      "subtitle": "",
      "year": "2014",
@@ -26601,7 +26636,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:357",
+     "rid": "hypnosis-imdb-list-full-oct25:368",
      "title": "Doctor Dracula",
      "subtitle": "",
      "year": "1978",
@@ -26716,7 +26751,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:240",
+     "rid": "hypnosis-imdb-list-full-oct25:251",
      "title": "Don't Go Breaking My Heart",
      "subtitle": "",
      "year": "1999",
@@ -26924,7 +26959,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:229",
+     "rid": "hypnosis-imdb-list-full-oct25:240",
      "title": "Dracula 2000",
      "subtitle": "",
      "year": "2000",
@@ -27125,7 +27160,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:228",
+     "rid": "hypnosis-imdb-list-full-oct25:239",
      "title": "Dracula: Dead and Loving It",
      "subtitle": "",
      "year": "1995",
@@ -27594,7 +27629,7 @@
      "matched_by": "same title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:287",
+     "rid": "hypnosis-imdb-list-full-oct25:298",
      "title": "Dynasty",
      "subtitle": "",
      "year": "2017–2022",
@@ -27876,7 +27911,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:138",
+     "rid": "hypnosis-imdb-list-full-oct25:149",
      "title": "Electra Woman and Dyna Girl",
      "subtitle": "",
      "year": "1976–1977",
@@ -28124,7 +28159,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:368",
+     "rid": "hypnosis-imdb-list-full-oct25:379",
      "title": "Eureka",
      "subtitle": "",
      "year": "2006–2012",
@@ -28151,7 +28186,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:226",
+     "rid": "hypnosis-imdb-list-full-oct25:237",
      "title": "Evil Aliens",
      "subtitle": "",
      "year": "2005",
@@ -28393,7 +28428,7 @@
      "matched_by": "same title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:140",
+     "rid": "hypnosis-imdb-list-full-oct25:151",
      "title": "Falling Skies",
      "subtitle": "",
      "year": "2015",
@@ -28545,6 +28580,13 @@
      "subtitle": "",
      "year": "2013",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:421",
+     "title": "Father Brown",
+     "subtitle": "",
+     "year": "2013",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -28594,7 +28636,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:334",
+     "rid": "hypnosis-imdb-list-full-oct25:345",
      "title": "Final Frequency",
      "subtitle": "",
      "year": "2021",
@@ -28641,7 +28683,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:244",
+     "rid": "hypnosis-imdb-list-full-oct25:255",
      "title": "Firewalker",
      "subtitle": "",
      "year": "1986",
@@ -28686,6 +28728,13 @@
      "subtitle": "",
      "year": "1990",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:427",
+     "title": "The Flash",
+     "subtitle": "",
+     "year": "1990",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -29172,7 +29221,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:330",
+     "rid": "hypnosis-imdb-list-full-oct25:341",
      "title": "From Dusk till Dawn: The Series",
      "subtitle": "",
      "year": "2014",
@@ -29226,7 +29275,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:102",
+     "rid": "hypnosis-imdb-list-full-oct25:113",
      "title": "Fuller House",
      "subtitle": "",
      "year": "2016–2020",
@@ -29547,7 +29596,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:136",
+     "rid": "hypnosis-imdb-list-full-oct25:147",
      "title": "General Hospital",
      "subtitle": "",
      "year": "1963–present",
@@ -29661,7 +29710,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:110",
+     "rid": "hypnosis-imdb-list-full-oct25:121",
      "title": "George of the Jungle 2",
      "subtitle": "",
      "year": "2003",
@@ -29775,7 +29824,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:279",
+     "rid": "hypnosis-imdb-list-full-oct25:290",
      "title": "Ghostbusters",
      "subtitle": "",
      "year": "1986",
@@ -29802,7 +29851,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:263",
+     "rid": "hypnosis-imdb-list-full-oct25:274",
      "title": "Ghoulies",
      "subtitle": "",
      "year": "1985",
@@ -30050,7 +30099,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:224",
+     "rid": "hypnosis-imdb-list-full-oct25:235",
      "title": "Gran Hotel",
      "subtitle": "",
      "year": "2011–2013",
@@ -30613,7 +30662,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:218",
+     "rid": "hypnosis-imdb-list-full-oct25:229",
      "title": "Hawaii Five-O",
      "subtitle": "",
      "year": "1968–1980",
@@ -30647,7 +30696,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:172",
+     "rid": "hypnosis-imdb-list-full-oct25:183",
      "title": "Health Nutz",
      "subtitle": "",
      "year": "2011–2013",
@@ -30701,7 +30750,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:281",
+     "rid": "hypnosis-imdb-list-full-oct25:292",
      "title": "Heatseeker",
      "subtitle": "",
      "year": "1995",
@@ -31258,7 +31307,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:121",
+     "rid": "hypnosis-imdb-list-full-oct25:132",
      "title": "How to Be Very, Very Popular",
      "subtitle": "",
      "year": "1955",
@@ -31325,7 +31374,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:146",
+     "rid": "hypnosis-imdb-list-full-oct25:157",
      "title": "Hunter",
      "subtitle": "",
      "year": "1977",
@@ -31352,7 +31401,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:379",
+     "rid": "hypnosis-imdb-list-full-oct25:391",
      "title": "Hypnotic",
      "subtitle": "",
      "year": "2023",
@@ -31553,7 +31602,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:283",
+     "rid": "hypnosis-imdb-list-full-oct25:294",
      "title": "The Immortal",
      "subtitle": "",
      "year": "2000",
@@ -31982,7 +32031,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:206",
+     "rid": "hypnosis-imdb-list-full-oct25:217",
      "title": "The Invisible Man",
      "subtitle": "",
      "year": "2000–2002",
@@ -32069,7 +32118,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:297",
+     "rid": "hypnosis-imdb-list-full-oct25:308",
      "title": "Irma Vep",
      "subtitle": "",
      "year": "1996",
@@ -32217,7 +32266,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:277",
+     "rid": "hypnosis-imdb-list-full-oct25:288",
      "title": "Jack of All Trades",
      "subtitle": "",
      "year": "2000",
@@ -32251,7 +32300,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:246",
+     "rid": "hypnosis-imdb-list-full-oct25:257",
      "title": "Jack the Giant Killer",
      "subtitle": "",
      "year": "1962",
@@ -32318,7 +32367,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:259",
+     "rid": "hypnosis-imdb-list-full-oct25:270",
      "title": "Jane Doe: How to Fire Your Boss",
      "subtitle": "",
      "year": "2007",
@@ -32934,7 +32983,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:249",
+     "rid": "hypnosis-imdb-list-full-oct25:260",
      "title": "Kenneyville",
      "subtitle": "",
      "year": "2011",
@@ -33035,7 +33084,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:233",
+     "rid": "hypnosis-imdb-list-full-oct25:244",
      "title": "The Killer Eye",
      "subtitle": "",
      "year": "1999",
@@ -33182,7 +33231,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:314",
+     "rid": "hypnosis-imdb-list-full-oct25:325",
      "title": "Kiss Kiss",
      "subtitle": "",
      "year": "2019",
@@ -33310,7 +33359,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:375",
+     "rid": "hypnosis-imdb-list-full-oct25:387",
      "title": "Knock",
      "subtitle": "",
      "year": "2012",
@@ -33411,7 +33460,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:119",
+     "rid": "hypnosis-imdb-list-full-oct25:130",
      "title": "Krishna Arjun",
      "subtitle": "",
      "year": "1998–2003",
@@ -34048,7 +34097,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:131",
+     "rid": "hypnosis-imdb-list-full-oct25:142",
      "title": "Lazer Team",
      "subtitle": "",
      "year": "2015",
@@ -34295,6 +34344,13 @@
      "subtitle": "",
      "year": "2001",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:425",
+     "title": "The Little Unicorn",
+     "subtitle": "",
+     "year": "2001",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -34317,7 +34373,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:190",
+     "rid": "hypnosis-imdb-list-full-oct25:201",
      "title": "The Littlest Hobo",
      "subtitle": "",
      "year": "1979–1985",
@@ -34364,7 +34420,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:245",
+     "rid": "hypnosis-imdb-list-full-oct25:256",
      "title": "Logan's Run",
      "subtitle": "",
      "year": "1977–1978",
@@ -34429,6 +34485,13 @@
      "subtitle": "",
      "year": "2011",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:407",
+     "title": "Los Canarios",
+     "subtitle": "",
+     "year": "2011",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -34498,7 +34561,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:328",
+     "rid": "hypnosis-imdb-list-full-oct25:339",
      "title": "Lost In Space",
      "subtitle": "",
      "year": "1965",
@@ -34525,7 +34588,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:189",
+     "rid": "hypnosis-imdb-list-full-oct25:200",
      "title": "The Lost Skeleton of Cadavra",
      "subtitle": "",
      "year": "2001",
@@ -34630,6 +34693,13 @@
      "subtitle": "",
      "year": "2023",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:404",
+     "title": "Love & Death",
+     "subtitle": "",
+     "year": "2023",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -34759,7 +34829,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:286",
+     "rid": "hypnosis-imdb-list-full-oct25:297",
      "title": "MacGyver",
      "subtitle": "",
      "year": "2016",
@@ -34887,7 +34957,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:223",
+     "rid": "hypnosis-imdb-list-full-oct25:234",
      "title": "Magic Magic",
      "subtitle": "",
      "year": "2013",
@@ -35211,7 +35281,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:388",
+     "rid": "hypnosis-imdb-list-full-oct25:400",
      "title": "Man Seeking Woman",
      "subtitle": "",
      "year": "2015–2017",
@@ -35493,7 +35563,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:307",
+     "rid": "hypnosis-imdb-list-full-oct25:318",
      "title": "Mausoleum",
      "subtitle": "",
      "year": "1983",
@@ -35540,7 +35610,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:157",
+     "rid": "hypnosis-imdb-list-full-oct25:168",
      "title": "Meego",
      "subtitle": "",
      "year": "1997",
@@ -35614,7 +35684,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:387",
+     "rid": "hypnosis-imdb-list-full-oct25:399",
      "title": "Men In Black",
      "subtitle": "",
      "year": "1997",
@@ -35681,7 +35751,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:181",
+     "rid": "hypnosis-imdb-list-full-oct25:192",
      "title": "Merlin and the Book of Beasts",
      "subtitle": "",
      "year": "2010",
@@ -35855,7 +35925,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:323",
+     "rid": "hypnosis-imdb-list-full-oct25:334",
      "title": "Mindstorm",
      "subtitle": "",
      "year": "2001",
@@ -36020,6 +36090,13 @@
      "subtitle": "",
      "year": "",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:417",
+     "title": "Miss Sherlock",
+     "subtitle": "",
+     "year": "None",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -36658,7 +36735,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:389",
+     "rid": "hypnosis-imdb-list-full-oct25:401",
      "title": "Naet Nakin",
      "subtitle": "",
      "year": "2018",
@@ -36826,7 +36903,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:133",
+     "rid": "hypnosis-imdb-list-full-oct25:144",
      "title": "The New Adventures of Robin Hood",
      "subtitle": "",
      "year": "1997–1999",
@@ -37160,7 +37237,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:241",
+     "rid": "hypnosis-imdb-list-full-oct25:252",
      "title": "Nikita",
      "subtitle": "",
      "year": "2010–2013",
@@ -37342,7 +37419,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:156",
+     "rid": "hypnosis-imdb-list-full-oct25:167",
      "title": "Not of This Earth",
      "subtitle": "",
      "year": "1957",
@@ -37369,7 +37446,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:269",
+     "rid": "hypnosis-imdb-list-full-oct25:280",
      "title": "Not of This Earth",
      "subtitle": "",
      "year": "1988",
@@ -37396,7 +37473,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:103",
+     "rid": "hypnosis-imdb-list-full-oct25:114",
      "title": "Not of This Earth",
      "subtitle": "",
      "year": "1995",
@@ -37448,6 +37525,13 @@
      "subtitle": "",
      "year": "2013",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:419",
+     "title": "Nuer Mek 2",
+     "subtitle": "",
+     "year": "2013",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -37630,7 +37714,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:179",
+     "rid": "hypnosis-imdb-list-full-oct25:190",
      "title": "Old Dracula",
      "subtitle": "",
      "year": "1974",
@@ -37918,7 +38002,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:193",
+     "rid": "hypnosis-imdb-list-full-oct25:204",
      "title": "Painkiller Jane",
      "subtitle": "",
      "year": "2007",
@@ -37943,6 +38027,13 @@
      "subtitle": "",
      "year": "1990",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:418",
+     "title": "Pale Blood",
+     "subtitle": "",
+     "year": "1990",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -37985,7 +38076,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:225",
+     "rid": "hypnosis-imdb-list-full-oct25:236",
      "title": "Paranormal Xperience 3D",
      "subtitle": "",
      "year": "2011",
@@ -38019,7 +38110,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:150",
+     "rid": "hypnosis-imdb-list-full-oct25:161",
      "title": "Parasomnia",
      "subtitle": "",
      "year": "2008",
@@ -38046,7 +38137,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:360",
+     "rid": "hypnosis-imdb-list-full-oct25:371",
      "title": "Paraíso",
      "subtitle": "",
      "year": "2000–2003",
@@ -38147,7 +38238,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:350",
+     "rid": "hypnosis-imdb-list-full-oct25:361",
      "title": "Patrick",
      "subtitle": "",
      "year": "2013",
@@ -38194,7 +38285,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:95",
+     "rid": "hypnosis-imdb-list-full-oct25:106",
      "title": "Paula Peril And The Hidden City",
      "subtitle": "",
      "year": "2017",
@@ -38323,7 +38414,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:152",
+     "rid": "hypnosis-imdb-list-full-oct25:163",
      "title": "Perfect Little Angels",
      "subtitle": "",
      "year": "1998",
@@ -38370,7 +38461,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:257",
+     "rid": "hypnosis-imdb-list-full-oct25:268",
      "title": "The Phantom (2009 Miniseries)",
      "subtitle": "",
      "year": "2009",
@@ -38444,7 +38535,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:183",
+     "rid": "hypnosis-imdb-list-full-oct25:194",
      "title": "The Pit and The Pendulum",
      "subtitle": "",
      "year": "2009",
@@ -38512,6 +38603,13 @@
     },
     {
      "rid": "worldwide-hypnosis:696",
+     "title": "Planets Against Us",
+     "subtitle": "",
+     "year": "1962",
+     "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:98",
      "title": "Planets Against Us",
      "subtitle": "",
      "year": "1962",
@@ -38625,7 +38723,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:135",
+     "rid": "hypnosis-imdb-list-full-oct25:146",
      "title": "Port Charles",
      "subtitle": "",
      "year": "1997–2003",
@@ -38672,7 +38770,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:373",
+     "rid": "hypnosis-imdb-list-full-oct25:384",
      "title": "The Possessed",
      "subtitle": "",
      "year": "2015",
@@ -38840,7 +38938,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:250",
+     "rid": "hypnosis-imdb-list-full-oct25:261",
      "title": "Pretty Little Liars",
      "subtitle": "",
      "year": "2016–2017",
@@ -38867,7 +38965,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:186",
+     "rid": "hypnosis-imdb-list-full-oct25:197",
      "title": "The Prisoner",
      "subtitle": "",
      "year": "1967–1968",
@@ -39015,7 +39113,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:184",
+     "rid": "hypnosis-imdb-list-full-oct25:195",
      "title": "The Pumaman",
      "subtitle": "",
      "year": "1980",
@@ -39291,7 +39389,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:204",
+     "rid": "hypnosis-imdb-list-full-oct25:215",
      "title": "Ra.One",
      "subtitle": "",
      "year": "2011",
@@ -39412,7 +39510,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:164",
+     "rid": "hypnosis-imdb-list-full-oct25:175",
      "title": "Red Billabong",
      "subtitle": "",
      "year": "2016",
@@ -39459,7 +39557,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:221",
+     "rid": "hypnosis-imdb-list-full-oct25:232",
      "title": "Red Sun Rising",
      "subtitle": "",
      "year": "1994",
@@ -39486,7 +39584,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:359",
+     "rid": "hypnosis-imdb-list-full-oct25:370",
      "title": "Reginald the Vampire",
      "subtitle": "",
      "year": "2022",
@@ -39560,7 +39658,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:220",
+     "rid": "hypnosis-imdb-list-full-oct25:231",
      "title": "Relic Hunter",
      "subtitle": "",
      "year": "1999–2002",
@@ -39587,7 +39685,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:216",
+     "rid": "hypnosis-imdb-list-full-oct25:227",
      "title": "Remote Control",
      "subtitle": "",
      "year": "1988",
@@ -39634,7 +39732,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:215",
+     "rid": "hypnosis-imdb-list-full-oct25:226",
      "title": "Resident Evil: Afterlife",
      "subtitle": "",
      "year": "2010",
@@ -39661,7 +39759,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:173",
+     "rid": "hypnosis-imdb-list-full-oct25:184",
      "title": "Resident Evil: Retribution",
      "subtitle": "",
      "year": "2012",
@@ -39688,7 +39786,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:214",
+     "rid": "hypnosis-imdb-list-full-oct25:225",
      "title": "Revenge of the Ninja",
      "subtitle": "",
      "year": "1983",
@@ -39749,7 +39847,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:161",
+     "rid": "hypnosis-imdb-list-full-oct25:172",
      "title": "Riverdale",
      "subtitle": "",
      "year": "2017–2023",
@@ -39797,7 +39895,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:212",
+     "rid": "hypnosis-imdb-list-full-oct25:223",
      "title": "Robin of Sherwood",
      "subtitle": "",
      "year": "1986",
@@ -40005,7 +40103,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:376",
+     "rid": "hypnosis-imdb-list-full-oct25:388",
      "title": "Roswell, New Mexico",
      "subtitle": "",
      "year": "2019",
@@ -40112,7 +40210,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:211",
+     "rid": "hypnosis-imdb-list-full-oct25:222",
      "title": "Sanctuary",
      "subtitle": "",
      "year": "2008–2011",
@@ -40340,7 +40438,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:293",
+     "rid": "hypnosis-imdb-list-full-oct25:304",
      "title": "Scanner Cop",
      "subtitle": "",
      "year": "1994",
@@ -40514,7 +40612,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:219",
+     "rid": "hypnosis-imdb-list-full-oct25:230",
      "title": "Scream of the Bikini",
      "subtitle": "",
      "year": "2009",
@@ -40615,7 +40713,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:349",
+     "rid": "hypnosis-imdb-list-full-oct25:360",
      "title": "The Seed",
      "subtitle": "",
      "year": "2021",
@@ -40689,7 +40787,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:248",
+     "rid": "hypnosis-imdb-list-full-oct25:259",
      "title": "The Shadow",
      "subtitle": "",
      "year": "1994",
@@ -40910,14 +41008,14 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:209",
+     "rid": "hypnosis-imdb-list-full-oct25:220",
      "title": "Sheena",
      "subtitle": "",
      "year": "2000",
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:285",
+     "rid": "hypnosis-imdb-list-full-oct25:296",
      "title": "Sheena",
      "subtitle": "",
      "year": "2000",
@@ -41512,6 +41610,13 @@
      "subtitle": "",
      "year": "2017",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:424",
+     "title": "The Sitter",
+     "subtitle": "",
+     "year": "2017",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -41601,7 +41706,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:345",
+     "rid": "hypnosis-imdb-list-full-oct25:356",
      "title": "Sleepwalker",
      "subtitle": "",
      "year": "2022",
@@ -41716,7 +41821,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:272",
+     "rid": "hypnosis-imdb-list-full-oct25:283",
      "title": "A Snow White Christmas",
      "subtitle": "",
      "year": "2018",
@@ -41830,7 +41935,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:201",
+     "rid": "hypnosis-imdb-list-full-oct25:212",
      "title": "Son of the Beach",
      "subtitle": "",
      "year": "2000–2002",
@@ -42071,7 +42176,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:354",
+     "rid": "hypnosis-imdb-list-full-oct25:365",
      "title": "Stacked",
      "subtitle": "",
      "year": "2005",
@@ -42105,7 +42210,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:271",
+     "rid": "hypnosis-imdb-list-full-oct25:282",
      "title": "Stalked by My Doctor: A Sleepwalker's Nightmare",
      "subtitle": "",
      "year": "2019",
@@ -42139,7 +42244,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:182",
+     "rid": "hypnosis-imdb-list-full-oct25:193",
      "title": "The Stanley Dynamic",
      "subtitle": "",
      "year": "2015–2017",
@@ -42213,7 +42318,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:159",
+     "rid": "hypnosis-imdb-list-full-oct25:170",
      "title": "Stark Raving Mad",
      "subtitle": "",
      "year": "1999",
@@ -42254,7 +42359,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:378",
+     "rid": "hypnosis-imdb-list-full-oct25:390",
      "title": "State of Consciousness",
      "subtitle": "",
      "year": "2023",
@@ -42348,7 +42453,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:155",
+     "rid": "hypnosis-imdb-list-full-oct25:166",
      "title": "Stitchers",
      "subtitle": "",
      "year": "2015–2017",
@@ -42550,7 +42655,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:276",
+     "rid": "hypnosis-imdb-list-full-oct25:287",
      "title": "Super Force",
      "subtitle": "",
      "year": "1990–1992",
@@ -42657,7 +42762,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:101",
+     "rid": "hypnosis-imdb-list-full-oct25:112",
      "title": "Superargo and the Faceless Giants",
      "subtitle": "",
      "year": "1968",
@@ -42684,7 +42789,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:174",
+     "rid": "hypnosis-imdb-list-full-oct25:185",
      "title": "Superboy",
      "subtitle": "",
      "year": "1988–1992",
@@ -42711,7 +42816,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:109",
+     "rid": "hypnosis-imdb-list-full-oct25:120",
      "title": "Supergirl",
      "subtitle": "",
      "year": "2015",
@@ -42772,7 +42877,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:196",
+     "rid": "hypnosis-imdb-list-full-oct25:207",
      "title": "Surfside 6",
      "subtitle": "",
      "year": "1960–1962",
@@ -43128,7 +43233,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:358",
+     "rid": "hypnosis-imdb-list-full-oct25:369",
      "title": "Tardy Terror",
      "subtitle": "",
      "year": "2021",
@@ -43202,7 +43307,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:338",
+     "rid": "hypnosis-imdb-list-full-oct25:349",
      "title": "Teeth and Blood",
      "subtitle": "",
      "year": "None",
@@ -43249,7 +43354,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:120",
+     "rid": "hypnosis-imdb-list-full-oct25:131",
      "title": "Telefon",
      "subtitle": "",
      "year": "1977",
@@ -43350,7 +43455,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:253",
+     "rid": "hypnosis-imdb-list-full-oct25:264",
      "title": "Terminal Invasion",
      "subtitle": "",
      "year": "2002",
@@ -43455,6 +43560,13 @@
      "subtitle": "",
      "year": "2014",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:414",
+     "title": "Therapy for a Vampire",
+     "subtitle": "",
+     "year": "2014",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -43525,7 +43637,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:332",
+     "rid": "hypnosis-imdb-list-full-oct25:343",
      "title": "The Thing That Couldn't Die",
      "subtitle": "",
      "year": "1958",
@@ -43620,6 +43732,13 @@
     },
     {
      "rid": "hypnotized-marriage:16",
+     "title": "The Throne of Fire",
+     "subtitle": "",
+     "year": "1983",
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:420",
      "title": "The Throne of Fire",
      "subtitle": "",
      "year": "1983",
@@ -43820,7 +43939,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:108",
+     "rid": "hypnosis-imdb-list-full-oct25:119",
      "title": "Transylvania Twist",
      "subtitle": "",
      "year": "1989",
@@ -44008,7 +44127,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:162",
+     "rid": "hypnosis-imdb-list-full-oct25:173",
      "title": "UFO",
      "subtitle": "",
      "year": "1970–1971",
@@ -44175,7 +44294,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:371",
+     "rid": "hypnosis-imdb-list-full-oct25:382",
      "title": "Um Lobisomem na Amazônia",
      "subtitle": "",
      "year": "2005",
@@ -44227,6 +44346,13 @@
      "subtitle": "",
      "year": "2018",
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:412",
+     "title": "Under The Knife",
+     "subtitle": "",
+     "year": "2018",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -44269,7 +44395,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:252",
+     "rid": "hypnosis-imdb-list-full-oct25:263",
      "title": "Unforgettable",
      "subtitle": "",
      "year": "2011–2016",
@@ -44316,7 +44442,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:169",
+     "rid": "hypnosis-imdb-list-full-oct25:180",
      "title": "USA High",
      "subtitle": "",
      "year": "1997–1999",
@@ -44383,7 +44509,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:163",
+     "rid": "hypnosis-imdb-list-full-oct25:174",
      "title": "V: The Final Battle",
      "subtitle": "",
      "year": "1984",
@@ -44430,7 +44556,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:258",
+     "rid": "hypnosis-imdb-list-full-oct25:269",
      "title": "Vampire Academy",
      "subtitle": "",
      "year": "2014",
@@ -44504,7 +44630,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:365",
+     "rid": "hypnosis-imdb-list-full-oct25:376",
      "title": "Vampire Dog",
      "subtitle": "",
      "year": "2012",
@@ -44591,7 +44717,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:339",
+     "rid": "hypnosis-imdb-list-full-oct25:350",
      "title": "Vamps",
      "subtitle": "",
      "year": "2012",
@@ -44625,7 +44751,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:167",
+     "rid": "hypnosis-imdb-list-full-oct25:178",
      "title": "Van Helsing",
      "subtitle": "",
      "year": "2004",
@@ -44757,6 +44883,13 @@
      "subtitle": "",
      "year": "2017",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:413",
+     "title": "Veronica",
+     "subtitle": "",
+     "year": "2017",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -44886,7 +45019,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:384",
+     "rid": "hypnosis-imdb-list-full-oct25:396",
      "title": "Vlad",
      "subtitle": "",
      "year": "2003",
@@ -45047,7 +45180,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:207",
+     "rid": "hypnosis-imdb-list-full-oct25:218",
      "title": "Warriors of the Lost World",
      "subtitle": "",
      "year": "1983",
@@ -45074,7 +45207,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:178",
+     "rid": "hypnosis-imdb-list-full-oct25:189",
      "title": "The Watcher",
      "subtitle": "",
      "year": "1995",
@@ -45101,7 +45234,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:385",
+     "rid": "hypnosis-imdb-list-full-oct25:397",
      "title": "Waxwork",
      "subtitle": "",
      "year": "1988",
@@ -45148,7 +45281,7 @@
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:310",
+     "rid": "hypnosis-imdb-list-full-oct25:321",
      "title": "Weaponized",
      "subtitle": "",
      "year": "2016",
@@ -45604,6 +45737,13 @@
      "subtitle": "",
      "year": "2024",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:415",
+     "title": "You Shouldn't Have Let Me In",
+     "subtitle": "",
+     "year": "2024",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -45825,6 +45965,26 @@
      "subtitle": "",
      "year": "2025",
      "matched_by": "alias"
+    }
+   ]
+  },
+  {
+   "kept_id": 1976,
+   "kept": "Healed (2023)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "xla62ucxbx02u5:1991",
+     "title": "Healed",
+     "subtitle": "",
+     "year": "2023"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:409",
+     "title": "Healed",
+     "subtitle": "",
+     "year": "2023",
+     "matched_by": "match_title"
     }
    ]
   },
@@ -46200,7 +46360,7 @@
      "year": "2022"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:374",
+     "rid": "hypnosis-imdb-list-full-oct25:386",
      "title": "What We Do in the Shadows",
      "subtitle": "",
      "year": "2022",
@@ -46313,7 +46473,7 @@
      "matched_by": "same title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:104",
+     "rid": "hypnosis-imdb-list-full-oct25:115",
      "title": "Black Widow",
      "subtitle": "",
      "year": "2021",
@@ -46333,7 +46493,7 @@
      "year": "1994"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:319",
+     "rid": "hypnosis-imdb-list-full-oct25:330",
      "title": "The Puppet Masters",
      "subtitle": "",
      "year": "1994",
@@ -46399,7 +46559,7 @@
      "year": "2009"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:100",
+     "rid": "hypnosis-imdb-list-full-oct25:111",
      "title": "The Vampire Diaries",
      "subtitle": "",
      "year": "2009",
@@ -46479,7 +46639,7 @@
      "year": "2017"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:355",
+     "rid": "hypnosis-imdb-list-full-oct25:366",
      "title": "The Bride",
      "subtitle": "",
      "year": "2017",
@@ -46698,7 +46858,7 @@
      "year": ""
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:366",
+     "rid": "hypnosis-imdb-list-full-oct25:377",
      "title": "Austin & Ally",
      "subtitle": "",
      "year": "",
@@ -46738,7 +46898,7 @@
      "year": "1999"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:203",
+     "rid": "hypnosis-imdb-list-full-oct25:214",
      "title": "Cold Hearts",
      "subtitle": "",
      "year": "1999",
@@ -46764,7 +46924,7 @@
      "year": "2007"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:294",
+     "rid": "hypnosis-imdb-list-full-oct25:305",
      "title": "Chaotic Ana",
      "subtitle": "",
      "year": "2007",
@@ -46824,7 +46984,7 @@
      "year": "2016–2017"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:305",
+     "rid": "hypnosis-imdb-list-full-oct25:316",
      "title": "Detective Anna",
      "subtitle": "",
      "year": "2016–2017",
@@ -46844,7 +47004,7 @@
      "year": "2016–2022"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:266",
+     "rid": "hypnosis-imdb-list-full-oct25:277",
      "title": "DC's Legends of Tomorrow",
      "subtitle": "",
      "year": "2016–2022",
@@ -46971,7 +47131,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:275",
+     "rid": "hypnosis-imdb-list-full-oct25:286",
      "title": "Out For Blood",
      "subtitle": "",
      "year": "2004",
@@ -46991,7 +47151,7 @@
      "year": ""
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:149",
+     "rid": "hypnosis-imdb-list-full-oct25:160",
      "title": "Prova de Amor",
      "subtitle": "",
      "year": "",
@@ -47051,7 +47211,7 @@
      "year": "2016–2019"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:324",
+     "rid": "hypnosis-imdb-list-full-oct25:335",
      "title": "Shadowhunters",
      "subtitle": "",
      "year": "2016–2019",
@@ -47071,7 +47231,7 @@
      "year": "2012"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:124",
+     "rid": "hypnosis-imdb-list-full-oct25:135",
      "title": "Sleep Attack",
      "subtitle": "",
      "year": "2012",
@@ -47091,7 +47251,7 @@
      "year": "2018"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:198",
+     "rid": "hypnosis-imdb-list-full-oct25:209",
      "title": "Spirou & Fantasio's Big Adventures",
      "subtitle": "",
      "year": "2018",
@@ -47111,7 +47271,7 @@
      "year": "2015"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:197",
+     "rid": "hypnosis-imdb-list-full-oct25:208",
      "title": "Starship: Apocalypse",
      "subtitle": "",
      "year": "2015",
@@ -47171,7 +47331,7 @@
      "year": "2020"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:372",
+     "rid": "hypnosis-imdb-list-full-oct25:383",
      "title": "The Menkoff Method",
      "subtitle": "",
      "year": "2020",
@@ -47198,7 +47358,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:199",
+     "rid": "hypnosis-imdb-list-full-oct25:210",
      "title": "The Thundermans",
      "subtitle": "",
      "year": "2013–2018",
@@ -47218,7 +47378,7 @@
      "year": "2016–2017"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:318",
+     "rid": "hypnosis-imdb-list-full-oct25:329",
      "title": "Trideviyaan",
      "subtitle": "",
      "year": "2016–2017",
@@ -47238,7 +47398,7 @@
      "year": "1996–1999"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:117",
+     "rid": "hypnosis-imdb-list-full-oct25:128",
      "title": "Viper",
      "subtitle": "",
      "year": "1996–1999",
@@ -47325,7 +47485,7 @@
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:382",
+     "rid": "hypnosis-imdb-list-full-oct25:394",
      "title": "Twisted Fiction",
      "subtitle": "",
      "year": "2023",
@@ -47345,7 +47505,7 @@
      "year": "2008–12"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:390",
+     "rid": "hypnosis-imdb-list-full-oct25:402",
      "title": "Merlin",
      "subtitle": "",
      "year": "2008–12",
@@ -47365,7 +47525,7 @@
      "year": "1993"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:353",
+     "rid": "hypnosis-imdb-list-full-oct25:364",
      "title": "Snapdragon",
      "subtitle": "",
      "year": "1993",
@@ -47476,7 +47636,7 @@
      "year": "2005"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:296",
+     "rid": "hypnosis-imdb-list-full-oct25:307",
      "title": "Sum of Existence",
      "subtitle": "",
      "year": "2005",
@@ -47535,7 +47695,7 @@
      "year": "2016"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:114",
+     "rid": "hypnosis-imdb-list-full-oct25:125",
      "title": "The Love Machine",
      "subtitle": "",
      "year": "2016",
@@ -47742,7 +47902,7 @@
      "year": "2014"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:236",
+     "rid": "hypnosis-imdb-list-full-oct25:247",
      "title": "666: Devilish Charm",
      "subtitle": "",
      "year": "2014",
@@ -47782,7 +47942,7 @@
      "year": "2015"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:168",
+     "rid": "hypnosis-imdb-list-full-oct25:179",
      "title": "Absolutely Anything",
      "subtitle": "",
      "year": "2015",
@@ -47802,7 +47962,7 @@
      "year": "2002"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:129",
+     "rid": "hypnosis-imdb-list-full-oct25:140",
      "title": "Adventure Inc",
      "subtitle": "",
      "year": "2002",
@@ -47822,7 +47982,7 @@
      "year": "2022"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:352",
+     "rid": "hypnosis-imdb-list-full-oct25:363",
      "title": "Alien Shark",
      "subtitle": "",
      "year": "2022",
@@ -47842,7 +48002,7 @@
      "year": "2016"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:176",
+     "rid": "hypnosis-imdb-list-full-oct25:187",
      "title": "All Hallows' Eve",
      "subtitle": "",
      "year": "2016",
@@ -47862,7 +48022,7 @@
      "year": "2011–2012"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:160",
+     "rid": "hypnosis-imdb-list-full-oct25:171",
      "title": "Alphas",
      "subtitle": "",
      "year": "2011–2012",
@@ -47882,7 +48042,7 @@
      "year": "1992"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:325",
+     "rid": "hypnosis-imdb-list-full-oct25:336",
      "title": "Amityville: It's About Time",
      "subtitle": "",
      "year": "1992",
@@ -47922,7 +48082,7 @@
      "year": "2015"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:208",
+     "rid": "hypnosis-imdb-list-full-oct25:219",
      "title": "Avengers: Age of Ultron",
      "subtitle": "",
      "year": "2015",
@@ -47942,7 +48102,7 @@
      "year": "1991"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:337",
+     "rid": "hypnosis-imdb-list-full-oct25:348",
      "title": "Beyond Reality",
      "subtitle": "",
      "year": "1991",
@@ -48002,7 +48162,7 @@
      "year": "1997–1998"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:205",
+     "rid": "hypnosis-imdb-list-full-oct25:216",
      "title": "Conan the Adventurer",
      "subtitle": "",
      "year": "1997–1998",
@@ -48042,8 +48202,28 @@
      "year": "2017"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:381",
+     "rid": "hypnosis-imdb-list-full-oct25:393",
      "title": "Devil's Whisper",
+     "subtitle": "",
+     "year": "2017",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2805,
+   "kept": "Dimension 404 (2017)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "fanwiki-screen-oct14:51",
+     "title": "Dimension 404",
+     "subtitle": "Cinethrax (Season 1, Episode 2)",
+     "year": "2017"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:411",
+     "title": "Dimension 404",
      "subtitle": "",
      "year": "2017",
      "matched_by": "match_title"
@@ -48062,7 +48242,7 @@
      "year": "1978"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:235",
+     "rid": "hypnosis-imdb-list-full-oct25:246",
      "title": "Doctor Strange",
      "subtitle": "",
      "year": "1978",
@@ -48082,7 +48262,7 @@
      "year": "2009"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:115",
+     "rid": "hypnosis-imdb-list-full-oct25:126",
      "title": "Dragonquest",
      "subtitle": "",
      "year": "2009",
@@ -48122,7 +48302,7 @@
      "year": "1964–1967"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:148",
+     "rid": "hypnosis-imdb-list-full-oct25:159",
      "title": "Gilligan's Island",
      "subtitle": "",
      "year": "1964–1967",
@@ -48162,14 +48342,14 @@
      "year": "2018"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:302",
+     "rid": "hypnosis-imdb-list-full-oct25:313",
      "title": "Gray Matter (2018)",
      "subtitle": "",
      "year": "2018",
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:363",
+     "rid": "hypnosis-imdb-list-full-oct25:374",
      "title": "Gray Matter (2018)",
      "subtitle": "",
      "year": "2018",
@@ -48189,7 +48369,7 @@
      "year": "1995"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:346",
+     "rid": "hypnosis-imdb-list-full-oct25:357",
      "title": "Hercules: The Legendary Journeys",
      "subtitle": "",
      "year": "1995",
@@ -48249,7 +48429,7 @@
      "year": "1991"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:282",
+     "rid": "hypnosis-imdb-list-full-oct25:293",
      "title": "Land Of The Lost (1991)",
      "subtitle": "",
      "year": "1991",
@@ -48309,7 +48489,7 @@
      "year": "2000"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:145",
+     "rid": "hypnosis-imdb-list-full-oct25:156",
      "title": "Leprechaun In The Hood",
      "subtitle": "",
      "year": "2000",
@@ -48349,7 +48529,7 @@
      "year": "2018"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:322",
+     "rid": "hypnosis-imdb-list-full-oct25:333",
      "title": "Lyco",
      "subtitle": "",
      "year": "2018",
@@ -48369,7 +48549,7 @@
      "year": "1995"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:222",
+     "rid": "hypnosis-imdb-list-full-oct25:233",
      "title": "Monster Mash: The Movie",
      "subtitle": "",
      "year": "1995",
@@ -48409,10 +48589,30 @@
      "year": "1998–1999"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:141",
+     "rid": "hypnosis-imdb-list-full-oct25:152",
      "title": "Mystic Knights of Tir Na Nog",
      "subtitle": "",
      "year": "1998–1999",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2875,
+   "kept": "Natty knocks (2023)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "fanwiki-screen-oct14:121",
+     "title": "Natty knocks",
+     "subtitle": "",
+     "year": "2023"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:408",
+     "title": "Natty knocks",
+     "subtitle": "",
+     "year": "2023",
      "matched_by": "match_title"
     }
    ]
@@ -48469,7 +48669,7 @@
      "year": "1987"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:329",
+     "rid": "hypnosis-imdb-list-full-oct25:340",
      "title": "Prince of Darkness",
      "subtitle": "",
      "year": "1987",
@@ -48489,7 +48689,7 @@
      "year": "1985"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:301",
+     "rid": "hypnosis-imdb-list-full-oct25:312",
      "title": "Re-Animator",
      "subtitle": "",
      "year": "1985",
@@ -48509,7 +48709,7 @@
      "year": "2007"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:364",
+     "rid": "hypnosis-imdb-list-full-oct25:375",
      "title": "Sands of Oblivion",
      "subtitle": "",
      "year": "2007",
@@ -48529,7 +48729,7 @@
      "year": "1972"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:210",
+     "rid": "hypnosis-imdb-list-full-oct25:221",
      "title": "Santo Vs. Frankenstein's Daughter",
      "subtitle": "",
      "year": "1972",
@@ -48549,7 +48749,7 @@
      "year": "1990–1991"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:278",
+     "rid": "hypnosis-imdb-list-full-oct25:289",
      "title": "She-Wolf of London",
      "subtitle": "",
      "year": "1990–1991",
@@ -48569,7 +48769,7 @@
      "year": "2001–2002"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:200",
+     "rid": "hypnosis-imdb-list-full-oct25:211",
      "title": "Special Unit 2",
      "subtitle": "",
      "year": "2001–2002",
@@ -48589,7 +48789,7 @@
      "year": "1987–1994"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:299",
+     "rid": "hypnosis-imdb-list-full-oct25:310",
      "title": "Star Trek: The Next Generation (1987)",
      "subtitle": "",
      "year": "1987–1994",
@@ -48609,7 +48809,7 @@
      "year": "1956"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:99",
+     "rid": "hypnosis-imdb-list-full-oct25:110",
      "title": "The Adventures of Doctor Fu Manchu",
      "subtitle": "",
      "year": "1956",
@@ -48629,7 +48829,7 @@
      "year": "1968–1969"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:105",
+     "rid": "hypnosis-imdb-list-full-oct25:116",
      "title": "The Champions",
      "subtitle": "",
      "year": "1968–1969",
@@ -48649,7 +48849,7 @@
      "year": "2001–2002"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:336",
+     "rid": "hypnosis-imdb-list-full-oct25:347",
      "title": "The Chronicle",
      "subtitle": "",
      "year": "2001–2002",
@@ -48689,7 +48889,7 @@
      "year": "1968"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:227",
+     "rid": "hypnosis-imdb-list-full-oct25:238",
      "title": "The Fuller Report",
      "subtitle": "",
      "year": "1968",
@@ -48709,7 +48909,7 @@
      "year": "2010"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:154",
+     "rid": "hypnosis-imdb-list-full-oct25:165",
      "title": "The King of Fighters",
      "subtitle": "",
      "year": "2010",
@@ -48729,7 +48929,7 @@
      "year": "2008–2015"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:188",
+     "rid": "hypnosis-imdb-list-full-oct25:199",
      "title": "The Mentalist",
      "subtitle": "",
      "year": "2008–2015",
@@ -48749,7 +48949,7 @@
      "year": "2005–2008"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:180",
+     "rid": "hypnosis-imdb-list-full-oct25:191",
      "title": "The Suite Life of Zack & Cody",
      "subtitle": "",
      "year": "2005–2008",
@@ -48769,7 +48969,7 @@
      "year": "2021"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:128",
+     "rid": "hypnosis-imdb-list-full-oct25:139",
      "title": "The Wheel of Time",
      "subtitle": "",
      "year": "2021",
@@ -48789,10 +48989,30 @@
      "year": "1965–1969"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:177",
+     "rid": "hypnosis-imdb-list-full-oct25:188",
      "title": "The Wild Wild West",
      "subtitle": "",
      "year": "1965–1969",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 2931,
+   "kept": "Titans (2014)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "fanwiki-screen-oct14:177",
+     "title": "Titans",
+     "subtitle": "1x11- Dick Grayson / 2x01- Trigon / 2x11- \"E.L._.O / 2x12- Faux Hawk / 2x13- Nightwing",
+     "year": "2014"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:385",
+     "title": "Titans",
+     "subtitle": "",
+     "year": "2014",
      "matched_by": "match_title"
     }
    ]
@@ -48809,7 +49029,7 @@
      "year": "1997"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:202",
+     "rid": "hypnosis-imdb-list-full-oct25:213",
      "title": "Turbo: A Power Rangers Movie",
      "subtitle": "",
      "year": "1997",
@@ -48829,7 +49049,7 @@
      "year": "2013"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:171",
+     "rid": "hypnosis-imdb-list-full-oct25:182",
      "title": "Unlucky Charms",
      "subtitle": "",
      "year": "2013",
@@ -48855,7 +49075,7 @@
      "year": "2013"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:170",
+     "rid": "hypnosis-imdb-list-full-oct25:181",
      "title": "Upstream Color",
      "subtitle": "",
      "year": "2013",
@@ -48875,7 +49095,7 @@
      "year": "1994–1998"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:274",
+     "rid": "hypnosis-imdb-list-full-oct25:285",
      "title": "Weird Science",
      "subtitle": "",
      "year": "1994–1998",
@@ -48915,7 +49135,7 @@
      "year": "1995"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:165",
+     "rid": "hypnosis-imdb-list-full-oct25:176",
      "title": "Xena: Warrior Princess",
      "subtitle": "",
      "year": "1995",
@@ -48955,7 +49175,7 @@
      "year": "1991–1993"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:343",
+     "rid": "hypnosis-imdb-list-full-oct25:354",
      "title": "Detective Extralarge",
      "subtitle": "",
      "year": "1991–1993",
@@ -49014,7 +49234,7 @@
      "year": "2014–2016"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:362",
+     "rid": "hypnosis-imdb-list-full-oct25:373",
      "title": "Bitten",
      "subtitle": "",
      "year": "2014–2016",
@@ -49370,6 +49590,26 @@
    ]
   },
   {
+   "kept_id": 3066,
+   "kept": "Mind Thief (2022)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnotized-female-oct15:5",
+     "title": "Mind Thief",
+     "subtitle": "",
+     "year": "2022"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:423",
+     "title": "Mind Thief",
+     "subtitle": "",
+     "year": "2022",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
    "kept_id": 3067,
    "kept": "Blood from the Mummy's Tomb (1971)",
    "scope": "cross-source",
@@ -49381,10 +49621,30 @@
      "year": "1971"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:383",
+     "rid": "hypnosis-imdb-list-full-oct25:395",
      "title": "Blood from the Mummy's Tomb",
      "subtitle": "",
      "year": "1971",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3068,
+   "kept": "Desperation (2006)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnotized-female-oct15:7",
+     "title": "Desperation",
+     "subtitle": "",
+     "year": "2006"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:403",
+     "title": "Desperation",
+     "subtitle": "",
+     "year": "2006",
      "matched_by": "match_title"
     }
    ]
@@ -49461,7 +49721,7 @@
      "year": "1989"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:251",
+     "rid": "hypnosis-imdb-list-full-oct25:262",
      "title": "My Mom's a Werewolf",
      "subtitle": "",
      "year": "1989",
@@ -49528,7 +49788,7 @@
      "year": "2009"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:344",
+     "rid": "hypnosis-imdb-list-full-oct25:355",
      "title": "Push",
      "subtitle": "",
      "year": "2009",
@@ -49548,7 +49808,7 @@
      "year": "2017"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:351",
+     "rid": "hypnosis-imdb-list-full-oct25:362",
      "title": "The Institute",
      "subtitle": "",
      "year": "2017",
@@ -49568,7 +49828,7 @@
      "year": "2012"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:303",
+     "rid": "hypnosis-imdb-list-full-oct25:314",
      "title": "The Greenhouse",
      "subtitle": "",
      "year": "2012",
@@ -49588,10 +49848,50 @@
      "year": "1989"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:217",
+     "rid": "hypnosis-imdb-list-full-oct25:228",
      "title": "The Dead Pit",
      "subtitle": "",
      "year": "1989",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3564,
+   "kept": "Argylle (2024)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-deep-oct25b:26",
+     "title": "Argylle",
+     "subtitle": "",
+     "year": "2024"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:410",
+     "title": "Argylle",
+     "subtitle": "",
+     "year": "2024",
+     "matched_by": "match_title"
+    }
+   ]
+  },
+  {
+   "kept_id": 3571,
+   "kept": "Fringe (2008)",
+   "scope": "cross-source",
+   "members": [
+    {
+     "rid": "hypnosis-deep-oct25b:33",
+     "title": "Fringe",
+     "subtitle": "",
+     "year": "2008"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:406",
+     "title": "Fringe",
+     "subtitle": "",
+     "year": "2008",
      "matched_by": "match_title"
     }
    ]
@@ -49608,7 +49908,7 @@
      "year": "2005"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:311",
+     "rid": "hypnosis-imdb-list-full-oct25:322",
      "title": "King of the Lost World",
      "subtitle": "",
      "year": "2005",
@@ -49628,7 +49928,7 @@
      "year": "2001"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:107",
+     "rid": "hypnosis-imdb-list-full-oct25:118",
      "title": "Alias",
      "subtitle": "",
      "year": "2001",
@@ -50997,11 +51297,11 @@
   "imdb-pregnant-oct25": 1,
   "pregnant-intimate-imdb-oct25": 13,
   "hypno-kids-witness-unverified-oct25": 8,
-  "hypnosis-imdb-list-full-oct25": 390
+  "hypnosis-imdb-list-full-oct25": 427
  },
- "entry_count_after_dedupe": 3540,
+ "entry_count_after_dedupe": 3549,
  "within_source_groups": 5,
- "cross_source_groups": 1994,
+ "cross_source_groups": 2002,
  "index_only_records": 56,
- "local_only_records": 1268
+ "local_only_records": 1277
 }
