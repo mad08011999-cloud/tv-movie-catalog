@@ -1,8 +1,8 @@
 {
  "id": "hypnosis-imdb-list-oct24",
  "label": "IMDb list 'Hypnotized Women in TV and Film' (full CSV export, 25 Oct 2026)",
- "group_title": "IMDb list — Hypnotized Women in TV and Film (CSV rows 1-625)",
- "description": "IMDb list ls099930129 by sleep-71052 (an actress per row, each noted with the production in which she is hypnotized, brainwashed, possessed or mind-controlled; the list does not separate those mechanisms). Source is the owner's CSV export (rows 1-625 of 1,474 processed so far); live IMDb stays behind a WAF challenge, so each production was checked against its Wikipedia article instead. Existing catalog cards only receive the list as a source link and tag; new cards need a Wikipedia article that names the listed actress, a film/TV production, a matching year, an adult cast member and not a children's programme. Cards tagged imdb-list-only have the production and actress confirmed but no plot passage matching her role, so their hypnosis/possession/mind-control type and the wife/pregnancy/kids fields stay 'not stated'. Rows are listed under dropped (no unambiguous Wikipedia match) or excluded (minor at the time, children's/teen programme, actress not named in the matched article).",
+ "group_title": "IMDb list — Hypnotized Women in TV and Film (CSV rows 1-750)",
+ "description": "IMDb list ls099930129 by sleep-71052 (an actress per row, each noted with the production in which she is hypnotized, brainwashed, possessed or mind-controlled; the list does not separate those mechanisms). Source is the owner's CSV export (rows 1-750 of 1,474 processed so far); live IMDb stays behind a WAF challenge, so each production was checked against its Wikipedia article instead. Existing catalog cards only receive the list as a source link and tag; new cards need a Wikipedia article that names the listed actress, a film/TV production, a matching year, an adult cast member and not a children's programme. Cards tagged imdb-list-only have the production and actress confirmed but no plot passage matching her role, so their hypnosis/possession/mind-control type and the wife/pregnancy/kids fields stay 'not stated'. Rows are listed under dropped (no unambiguous Wikipedia match) or excluded (minor at the time, children's/teen programme, actress not named in the matched article).",
  "category_labels": {},
  "records": [
   {
@@ -1142,6 +1142,7 @@
   {
    "title": "Airborne",
    "actresses": [
+    "Fiona Ryan",
     "Gemma Atkinson"
    ],
    "reason": "Wikipedia page 'Airborne' does not name the listed actress(es), so the title match is unconfirmed"
@@ -1217,6 +1218,8 @@
   {
    "title": "College Coeds vs. Zombie Housewives",
    "actresses": [
+    "Christine Nguyen",
+    "Karlie Montana",
     "Mary Carey"
    ],
    "reason": "no matching Wikipedia article found"
@@ -1234,7 +1237,8 @@
    "actresses": [
     "Evangeline Crittenden",
     "Mercy Malick",
-    "Pamela Chau"
+    "Pamela Chau",
+    "Sara Malakul Lane"
    ],
    "reason": "no matching Wikipedia article found"
   },
@@ -1400,6 +1404,7 @@
   {
    "title": "The Lost World",
    "actresses": [
+    "Jennifer O'Dell",
     "Rachel Blakely"
    ],
    "reason": "Wikipedia page 'The Lost World (Doyle novel)' does not name the listed actress(es), so the title match is unconfirmed"
@@ -1423,7 +1428,23 @@
    "title": "Supernatural",
    "actresses": [
     "Anita Brown",
-    "Julie McNiven"
+    "Anna Grace Barlow",
+    "Cindy Sampson",
+    "Ever Carradine",
+    "Jen Halley",
+    "Julie McNiven",
+    "Katherine Boecher",
+    "Katie Cassidy",
+    "Katya Virshilas",
+    "Lauren K. Robek",
+    "Marisa Ramirez",
+    "Nadja Sofi",
+    "Nicole Polizzi",
+    "Raquel Riskin",
+    "Samantha Smith",
+    "Sandra McCoy",
+    "Sarah Drew",
+    "Sasha Barrese"
    ],
    "reason": "Wikipedia page 'Supernatural (film)' does not name the listed actress(es), so the title match is unconfirmed"
   },
@@ -1431,7 +1452,8 @@
    "title": "The Flash",
    "actresses": [
     "Danielle Panabaker",
-    "Jessica Camacho"
+    "Jessica Camacho",
+    "Jessica Parker Kennedy"
    ],
    "reason": "Wikipedia page 'The Flash (film)' does not name the listed actress(es), so the title match is unconfirmed"
   },
@@ -1501,6 +1523,8 @@
   {
    "title": "Wynonna Earp",
    "actresses": [
+    "Dominique Provost-Chalkley",
+    "Katherine Barrell",
     "Melanie Scrofano"
    ],
    "reason": "Wikipedia match 'Wynonna Earp' is not a film or TV production"
@@ -1663,6 +1687,7 @@
   {
    "title": "Hypnotic",
    "actresses": [
+    "Kate Siegel",
     "Lucie Guest"
    ],
    "reason": "no matching Wikipedia article found"
@@ -1692,7 +1717,9 @@
   {
    "title": "Pernicious",
    "actresses": [
-    "Ciara Hanna"
+    "Ciara Hanna",
+    "Emily O'Brien",
+    "Jackie Moore"
    ],
    "reason": "no matching Wikipedia article found"
   },
@@ -1713,6 +1740,7 @@
   {
    "title": "Seaquest DSV/2032",
    "actresses": [
+    "Elise Neal",
     "Sandra Hess"
    ],
    "reason": "no matching Wikipedia article found"
@@ -2011,7 +2039,9 @@
   {
    "title": "Demon Legacy",
    "actresses": [
-    "Cortney Palm"
+    "Cortney Palm",
+    "Kate Siegel",
+    "Michelle Nunes"
    ],
    "reason": "no matching Wikipedia article found"
   },
@@ -2072,12 +2102,317 @@
     "Francesca Hunt"
    ],
    "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Love Games (1998)",
+   "actresses": [
+    "Lorissa McComas"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Mesmerized",
+   "actresses": [
+    "Brooke Paller"
+   ],
+   "reason": "Wikipedia match looked like a disambiguation/non-production page"
+  },
+  {
+   "title": "Devil's Domain",
+   "actresses": [
+    "Desanka Julia"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Gilgamesh (2014)",
+   "actresses": [
+    "Melantha Blackthorne"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Carmilla Hyde",
+   "actresses": [
+    "Anna Lindner"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Deep in the Woods",
+   "actresses": [
+    "Isild Le Besco"
+   ],
+   "reason": "Wikipedia page 'Deep in the Woods' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Picture This",
+   "actresses": [
+    "Victoria Hill"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Scourge",
+   "actresses": [
+    "Marina Pasqua"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Repressions (2007)",
+   "actresses": [
+    "Sharon Case"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Busty Housewives of Beverly Hills",
+   "actresses": [
+    "Beverly Lynne"
+   ],
+   "reason": "Wikipedia page 'Fred Olen Ray' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Stacked Racks from Mars",
+   "actresses": [
+    "Beverly Lynne"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Las Vegas Abductions",
+   "actresses": [
+    "Beverly Lynne"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Alien Nation: The Udara Legacy",
+   "actresses": [
+    "Lauren Woodland"
+   ],
+   "reason": "Wikipedia match looked like a disambiguation/non-production page"
+  },
+  {
+   "title": "Playback",
+   "actresses": [
+    "Jennifer Missoni"
+   ],
+   "reason": "Wikipedia page 'Playback' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Stormswept",
+   "actresses": [
+    "Kathleen Kinmont"
+   ],
+   "reason": "Wikipedia page 'Stormswept' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Hotel Babylon",
+   "actresses": [
+    "Emma Pierson"
+   ],
+   "reason": "Wikipedia match looked like a disambiguation/non-production page"
+  },
+  {
+   "title": "Houndz from Hell",
+   "actresses": [
+    "Mircea Monroe"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Little Britain USA",
+   "actresses": [
+    "Melissa Ponzio"
+   ],
+   "reason": "Wikipedia page 'Little Britain USA' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Patient Seven",
+   "actresses": [
+    "Anna Rose Moore",
+    "Grace Van Dien"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Neron",
+   "actresses": [
+    "Jamie Morgan"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Secret Circle",
+   "actresses": [
+    "Jessica Parker Kennedy"
+   ],
+   "reason": "Wikipedia match 'The Secret Circle (TV series)' is not a film or TV production"
+  },
+  {
+   "title": "Truth or Dare (2018)",
+   "actresses": [
+    "Leslie Stratton",
+    "Morgan Lindholm"
+   ],
+   "reason": "Wikipedia page 'Truth or Dare (disambiguation)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "The Domicile",
+   "actresses": [
+    "Sara Malakul Lane"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Evil Angel",
+   "actresses": [
+    "Ava Gaudet",
+    "JJ Neward",
+    "Marie Westbrook"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Sexy Wives Sensations",
+   "actresses": [
+    "Christine Nguyen"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Housewives from Another World",
+   "actresses": [
+    "Christine Nguyen"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Secrets of Emily Blair",
+   "actresses": [
+    "Ellen Hollman"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Alien Exorcism",
+   "actresses": [
+    "Laura Roman"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Torchwood",
+   "actresses": [
+    "Sara Gregory"
+   ],
+   "reason": "Wikipedia page 'Torchwood' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Body Snatchers (1993)",
+   "actresses": [
+    "Gabrielle Anwar"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Restoration",
+   "actresses": [
+    "Emily O'Brien"
+   ],
+   "reason": "Wikipedia page 'Restoration' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Sex Files: Pleasureville",
+   "actresses": [
+    "Nancy O'Brien"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Battle for Pandora",
+   "actresses": [
+    "Nadja Sofi"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Face of Evil",
+   "actresses": [
+    "Janet Roth"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Sniegu juz nigdy nie bedzie",
+   "actresses": [
+    "Maja Ostaszewska"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Ghouls",
+   "actresses": [
+    "Kristen Renton"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Witchcraft V",
+   "actresses": [
+    "Nicole Sassaman"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Vessel (2012)",
+   "actresses": [
+    "Julie Mintz"
+   ],
+   "reason": "Wikipedia page 'Vessel' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Heroines (2012)",
+   "actresses": [
+    "Nicole Alexandra Shipley"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Insurgent",
+   "actresses": [
+    "Suki Waterhouse",
+    "Zoë Kravitz"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Holy Smoke",
+   "actresses": [
+    "Kate Winslet"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The 100",
+   "actresses": [
+    "Lindsey Morgan",
+    "Paige Turco"
+   ],
+   "reason": "no matching Wikipedia article found"
   }
  ],
  "excluded": [
   {
    "title": "Airborne",
    "actress": "Gemma Atkinson",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Airborne",
+   "actress": "Fiona Ryan",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
@@ -2098,6 +2433,11 @@
   {
    "title": "Charmed",
    "actress": "Leah Lewis",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Charmed",
+   "actress": "Rachel Renaud",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
@@ -2128,6 +2468,11 @@
   {
    "title": "One of Us",
    "actress": "Christa B. Allen",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Buffy the Vampire Slayer",
+   "actress": "Amelinda Smith",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
@@ -2211,6 +2556,11 @@
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
+   "title": "The Lost World",
+   "actress": "Jennifer O'Dell",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
    "title": "Hold Your Breath",
    "actress": "Katrina Bowden",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
@@ -2241,6 +2591,86 @@
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
+   "title": "Supernatural",
+   "actress": "Raquel Riskin",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Supernatural",
+   "actress": "Nicole Polizzi",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Supernatural",
+   "actress": "Sandra McCoy",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Supernatural",
+   "actress": "Nadja Sofi",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Supernatural",
+   "actress": "Katya Virshilas",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Supernatural",
+   "actress": "Anna Grace Barlow",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Supernatural",
+   "actress": "Sarah Drew",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Supernatural",
+   "actress": "Katie Cassidy",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Supernatural",
+   "actress": "Samantha Smith",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Supernatural",
+   "actress": "Jen Halley",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Supernatural",
+   "actress": "Ever Carradine",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Supernatural",
+   "actress": "Marisa Ramirez",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Supernatural",
+   "actress": "Sasha Barrese",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Supernatural",
+   "actress": "Cindy Sampson",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Supernatural",
+   "actress": "Lauren K. Robek",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Supernatural",
+   "actress": "Katherine Boecher",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
    "title": "The Flash",
    "actress": "Danielle Panabaker",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
@@ -2248,6 +2678,11 @@
   {
    "title": "The Flash",
    "actress": "Jessica Camacho",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "The Flash",
+   "actress": "Jessica Parker Kennedy",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
@@ -2333,6 +2768,11 @@
   {
    "title": "Lois and Clark",
    "actress": "Meredith Scott Lynn",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Wynonna Earp",
+   "actress": "Katherine Barrell",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
@@ -2477,6 +2917,11 @@
   },
   {
    "title": "Smallville",
+   "actress": "Elysia Rotaru",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Smallville",
    "actress": "Allison Mack",
    "reason": "teen programme and actress birth year not given"
   },
@@ -2499,6 +2944,11 @@
    "title": "Power Rangers RPM",
    "actress": "Adelaide Kane",
    "reason": "children's programme per Wikipedia categories"
+  },
+  {
+   "title": "5ive Girls",
+   "actress": "Tasha Quintas",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
    "title": "Agent",
@@ -2634,6 +3084,71 @@
    "title": "Alien Abduction",
    "actress": "Darcy DeMoss",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Dark Shadows",
+   "actress": "Kate Jackson",
+   "reason": "minor at production (birth year vs card year 1966)"
+  },
+  {
+   "title": "Deep in the Woods",
+   "actress": "Isild Le Besco",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Busty Housewives of Beverly Hills",
+   "actress": "Beverly Lynne",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Playback",
+   "actress": "Jennifer Missoni",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Stormswept",
+   "actress": "Kathleen Kinmont",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Little Britain USA",
+   "actress": "Melissa Ponzio",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Truth or Dare",
+   "actress": "Morgan Lindholm",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Truth or Dare",
+   "actress": "Leslie Stratton",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Greenhouse Academy",
+   "actress": "Grace Van Dien",
+   "reason": "teen programme and actress birth year not given"
+  },
+  {
+   "title": "Torchwood",
+   "actress": "Sara Gregory",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "The Faculty",
+   "actress": "Jordana Brewster",
+   "reason": "minor at production (birth year vs card year 1998)"
+  },
+  {
+   "title": "Restoration",
+   "actress": "Emily O'Brien",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Vessel",
+   "actress": "Julie Mintz",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   }
  ],
  "resolved_ambiguous": [
@@ -2741,6 +3256,16 @@
    "title": "The X-Files",
    "basis": "year 1993",
    "card_id": 361
+  },
+  {
+   "title": "Dynasty",
+   "basis": "year hint 2017",
+   "card_id": 1184
+  },
+  {
+   "title": "Fright Night",
+   "basis": "year hint 1985",
+   "card_id": 631
   }
  ],
  "ambiguous_new_cards": [
@@ -2764,16 +3289,17 @@
   "",
   "The Demon Headmaster",
   "Dollhouse",
-  "Tales from the Crypt"
+  "Tales from the Crypt",
+  "The 100"
  ],
  "stats": {
-  "csv_rows": 625,
-  "items": 712,
-  "groups": 462,
-  "links": 250,
+  "csv_rows": 750,
+  "items": 852,
+  "groups": 540,
+  "links": 277,
   "old_source_records": 61,
-  "new": 53,
-  "dropped": 128,
-  "excluded": 112
+  "new": 60,
+  "dropped": 170,
+  "excluded": 149
  }
 }
