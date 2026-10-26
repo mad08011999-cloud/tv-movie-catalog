@@ -1,8 +1,8 @@
 {
  "id": "hypnosis-imdb-list-oct24",
  "label": "IMDb list 'Hypnotized Women in TV and Film' (full CSV export, 25 Oct 2026)",
- "group_title": "IMDb list — Hypnotized Women in TV and Film (CSV rows 1-875)",
- "description": "IMDb list ls099930129 by sleep-71052 (an actress per row, each noted with the production in which she is hypnotized, brainwashed, possessed or mind-controlled; the list does not separate those mechanisms). Source is the owner's CSV export (rows 1-875 of 1,474 processed so far); live IMDb stays behind a WAF challenge, so each production was checked against its Wikipedia article instead. Existing catalog cards only receive the list as a source link and tag; new cards need a Wikipedia article that names the listed actress, a film/TV production, a matching year, an adult cast member and not a children's programme. Cards tagged imdb-list-only have the production and actress confirmed but no plot passage matching her role, so their hypnosis/possession/mind-control type and the wife/pregnancy/kids fields stay 'not stated'. Rows are listed under dropped (no unambiguous Wikipedia match) or excluded (minor at the time, children's/teen programme, actress not named in the matched article).",
+ "group_title": "IMDb list — Hypnotized Women in TV and Film (CSV rows 1-1000)",
+ "description": "IMDb list ls099930129 by sleep-71052 (an actress per row, each noted with the production in which she is hypnotized, brainwashed, possessed or mind-controlled; the list does not separate those mechanisms). Source is the owner's CSV export (rows 1-1000 of 1,474 processed so far); live IMDb stays behind a WAF challenge, so each production was checked against its Wikipedia article instead. Existing catalog cards only receive the list as a source link and tag; new cards need a Wikipedia article that names the listed actress, a film/TV production, a matching year, an adult cast member and not a children's programme. Cards tagged imdb-list-only have the production and actress confirmed but no plot passage matching her role, so their hypnosis/possession/mind-control type and the wife/pregnancy/kids fields stay 'not stated'. Rows are listed under dropped (no unambiguous Wikipedia match) or excluded (minor at the time, children's/teen programme, actress not named in the matched article).",
  "category_labels": {},
  "records": [
   {
@@ -1157,6 +1157,7 @@
   {
    "title": "The Witcher",
    "actresses": [
+    "Freya Allan",
     "Therica Wilson-Read"
    ],
    "reason": "Wikipedia match 'The Witcher (TV series)' is not a film or TV production"
@@ -1453,10 +1454,13 @@
   {
    "title": "The Flash",
    "actresses": [
+    "Audrey Marie Anderson",
     "Danielle Panabaker",
     "Jessica Camacho",
     "Jessica Parker Kennedy",
-    "Katherine McNamara"
+    "Katherine McNamara",
+    "Lisa Chandler",
+    "Violett Beane"
    ],
    "reason": "Wikipedia page 'The Flash (film)' does not name the listed actress(es), so the title match is unconfirmed"
   },
@@ -1694,7 +1698,8 @@
    "title": "Hypnotic",
    "actresses": [
     "Kate Siegel",
-    "Lucie Guest"
+    "Lucie Guest",
+    "Stephanie Cudmore"
    ],
    "reason": "no matching Wikipedia article found"
   },
@@ -2501,7 +2506,8 @@
   {
    "title": "The Exorcism of Karen Walker",
    "actresses": [
-    "Denise Moreno"
+    "Denise Moreno",
+    "Jeanine Nerissa Sothcott"
    ],
    "reason": "no matching Wikipedia article found"
   },
@@ -2571,7 +2577,8 @@
   {
    "title": "Stargirl",
    "actresses": [
-    "Amy Smart"
+    "Amy Smart",
+    "Brec Bassinger"
    ],
    "reason": "no matching Wikipedia article found"
   },
@@ -2686,6 +2693,283 @@
     "Jessica Vano"
    ],
    "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Locke & Key",
+   "actresses": [
+    "Hallea Jones"
+   ],
+   "reason": "Wikipedia match 'Locke & Key (TV series)' is not a film or TV production"
+  },
+  {
+   "title": "Creepshow",
+   "actresses": [
+    "Hannah Kepple"
+   ],
+   "reason": "Wikipedia page 'Creepshow (TV series)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "A Christmas Horror Story",
+   "actresses": [
+    "Zoé de Grand'Maison"
+   ],
+   "reason": "Wikipedia page 'A Christmas Horror Story' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "The Girl in the Woods",
+   "actresses": [
+    "Erica Sullivan",
+    "Meg McLynn"
+   ],
+   "reason": "Wikipedia page 'The Girl in the Woods' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "The Super Pops",
+   "actresses": [
+    "Jenn Barlow",
+    "Laura Elizabeth Hall",
+    "Olivia Cordell",
+    "Scarlet Sheppard",
+    "Stephanie Hoston"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Illegal Aliens",
+   "actresses": [
+    "Anna Nicole Smith",
+    "Chyna"
+   ],
+   "reason": "Wikipedia match looked like a disambiguation/non-production page"
+  },
+  {
+   "title": "III Slices of Life",
+   "actresses": [
+    "Deneen Melody",
+    "Kaylee Williams"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Guardians of the Realm",
+   "actresses": [
+    "Lana Piryan"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Freaks",
+   "actresses": [
+    "Grace Park",
+    "Michelle Harrison"
+   ],
+   "reason": "Wikipedia page 'Freaks and Geeks' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Beyond Skyline",
+   "actresses": [
+    "Samantha Jean Kwok"
+   ],
+   "reason": "Wikipedia page 'Beyond Skyline' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Skyline",
+   "actresses": [
+    "Brittany Daniel",
+    "Scottie Thompson"
+   ],
+   "reason": "Wikipedia page 'Skyline' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Sugar Skull Girls",
+   "actresses": [
+    "Morgan Elise Beatty"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Nightmare Cinema",
+   "actresses": [
+    "Sarah Elizabeth Withers"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Dracula: The Original Living Vampire",
+   "actresses": [
+    "India Lillie Davies"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Wretched",
+   "actresses": [
+    "Azie Tesfai",
+    "Piper Curda",
+    "Zarah Mahler"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Privilege",
+   "actresses": [
+    "Milena Tscharntke",
+    "Tijan Marei"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Evil Down the Street",
+   "actresses": [
+    "Alena Gerard"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Phantom of the Louvre",
+   "actresses": [
+    "Sophie Marceau"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Dead Mary",
+   "actresses": [
+    "Marie-Josée Colburn"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "In From the Cold",
+   "actresses": [
+    "Eva Rufo",
+    "María Romero"
+   ],
+   "reason": "Wikipedia page 'In From the Cold' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "The Dukes of Hazard",
+   "actresses": [
+    "Catherine Bach"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Voodoo Dolls",
+   "actresses": [
+    "Grace Phillips",
+    "Nicole Jacqueline"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Homecoming",
+   "actresses": [
+    "Jeridan Frye",
+    "Kelli Nordhus"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Don't Let Her In",
+   "actresses": [
+    "Kelly Curran",
+    "Lorin Doctor"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Los Espookys",
+   "actresses": [
+    "Paloma Moreno"
+   ],
+   "reason": "Wikipedia page 'Los Espookys' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "The Right Eye 2",
+   "actresses": [
+    "Rachel Faulkner"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Possession Experiment",
+   "actresses": [
+    "Rachel Faulkner"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Not My Life",
+   "actresses": [
+    "Meredith Monroe"
+   ],
+   "reason": "Wikipedia page 'Not My Life' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Courtney Gets Possessed",
+   "actresses": [
+    "Lauren Buglioli"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Dark Knight",
+   "actresses": [
+    "Katrina Browne"
+   ],
+   "reason": "Wikipedia page 'The Dark Knight Returns' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Hercules and the Amazon Women",
+   "actresses": [
+    "Roma Downey"
+   ],
+   "reason": "production year could not be determined from the sources"
+  },
+  {
+   "title": "Invasion of the Mind Benders",
+   "actresses": [
+    "Alecia Munn",
+    "Miranda de Pencier"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Irma Vep (2022)",
+   "actresses": [
+    "Fala Chen",
+    "Mélodie Richard"
+   ],
+   "reason": "Wikipedia page 'Irma Vep' year 1996 does not match listed year 2022 (a different production with the same title; not resolved)"
+  },
+  {
+   "title": "The Mad Women's Ball",
+   "actresses": [
+    "Lomane de Dietrich"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Fugitive",
+   "actresses": [
+    "Elizaveta Nilova"
+   ],
+   "reason": "Wikipedia page 'The Fugitive (1963 TV series)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Resident Evil (2022)",
+   "actresses": [
+    "Paola Núñez"
+   ],
+   "reason": "Wikipedia page 'Resident Evil (2026 film)' year 2026 does not match listed year 2022 (a different production with the same title; not resolved)"
+  },
+  {
+   "title": "Incontrol",
+   "actresses": [
+    "Shayla Stonechild"
+   ],
+   "reason": "Wikipedia page 'INcontroL' does not name the listed actress(es), so the title match is unconfirmed"
   }
  ],
  "excluded": [
@@ -2701,7 +2985,7 @@
   },
   {
    "title": "Grachi",
-   "actress": "Isabella Castillo, Liannet Borrego",
+   "actress": "Isabella Castillo, Liannet Borrego, Sol Rodriguez",
    "reason": "children's programme per Wikipedia categories"
   },
   {
@@ -2987,6 +3271,21 @@
   {
    "title": "The Flash",
    "actress": "Katherine McNamara",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "The Flash",
+   "actress": "Audrey Marie Anderson",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "The Flash",
+   "actress": "Violett Beane",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "The Flash",
+   "actress": "Lisa Chandler",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
@@ -3523,6 +3822,106 @@
    "title": "Pandora",
    "actress": "Banita Sandhu",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Creepshow",
+   "actress": "Hannah Kepple",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "A Christmas Horror Story",
+   "actress": "Zoé de Grand'Maison",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Black as Night",
+   "actress": "Asjha Cooper",
+   "reason": "teen programme and actress birth year not given"
+  },
+  {
+   "title": "The Girl in the Woods",
+   "actress": "Meg McLynn",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "The Girl in the Woods",
+   "actress": "Erica Sullivan",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Freaks",
+   "actress": "Grace Park",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Freaks",
+   "actress": "Michelle Harrison",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Beyond Skyline",
+   "actress": "Samantha Jean Kwok",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Skyline",
+   "actress": "Scottie Thompson",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Skyline",
+   "actress": "Brittany Daniel",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Peacemaker",
+   "actress": "Crystal Mudry",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Peacemaker",
+   "actress": "Natalia Safran",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "In From the Cold",
+   "actress": "María Romero",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "In From the Cold",
+   "actress": "Eva Rufo",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Power Rangers Dino Fury",
+   "actress": "Hunter Deno, Tessa Rao",
+   "reason": "children's programme per Wikipedia categories"
+  },
+  {
+   "title": "Los Espookys",
+   "actress": "Paloma Moreno",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Not My Life",
+   "actress": "Meredith Monroe",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "The Dark Knight",
+   "actress": "Katrina Browne",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Fugitive",
+   "actress": "Elizaveta Nilova",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Incontrol",
+   "actress": "Shayla Stonechild",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   }
  ],
  "resolved_ambiguous": [
@@ -3670,16 +4069,19 @@
   "Dollhouse",
   "Tales from the Crypt",
   "The 100",
-  "True Blood"
+  "True Blood",
+  "Irma Vep",
+  "The Wizard of Gore",
+  "Resident Evil"
  ],
  "stats": {
-  "csv_rows": 875,
-  "items": 992,
-  "groups": 615,
-  "links": 295,
+  "csv_rows": 1000,
+  "items": 1121,
+  "groups": 691,
+  "links": 318,
   "old_source_records": 61,
-  "new": 73,
-  "dropped": 209,
-  "excluded": 167
+  "new": 87,
+  "dropped": 246,
+  "excluded": 190
  }
 }
