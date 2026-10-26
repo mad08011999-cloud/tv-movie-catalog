@@ -1,7 +1,7 @@
 {
  "id": "hypnosis-imdb-list-full-oct25",
  "label": "IMDb list 'Hypnotized Women in TV and Film': new cards from the full CSV (25 Oct 2026)",
- "group_title": "IMDb list — Hypnotized Women in TV and Film (new titles, CSV rows 1-500)",
+ "group_title": "IMDb list — Hypnotized Women in TV and Film (new titles, CSV rows 1-625)",
  "description": "New cards from IMDb list ls099930129 (owner's CSV export). Kept in a separate source appended at the end of the source order (new cards first, then link-only records for existing cards added by later sources) so adding them never shifts existing card IDs. Each new title needs a Wikipedia article that names the listed actress, a film/TV production, a matching year, an adult cast member and not a children's programme; see sources/hypnosis-imdb-list-oct24.json for the link-only records, dropped and excluded rows. Cards tagged imdb-list-only have no matching plot passage, so type and family fields stay 'not stated'.",
  "category_labels": {},
  "records": [
@@ -661,8 +661,8 @@
    "format": "movie",
    "meta": "1973 British swashbuckling action horror film · from Wikipedia first sentence",
    "mechanism": "hypnosis / trance",
-   "character": "Wanda Ventham (character names not given on the list)",
-   "summary": "IMDb list records Wanda Ventham as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"The \"bedridden\" Lady Durward reveals herself as the newly youthful vampire, and she hypnotises Carla and the Durward siblings.\"",
+   "character": "Caroline Munro, Wanda Ventham (character names not given on the list)",
+   "summary": "IMDb list records Caroline Munro, Wanda Ventham as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"The \"bedridden\" Lady Durward reveals herself as the newly youthful vampire, and she hypnotises Carla and the Durward siblings.\"",
    "categories": [
     "vampire",
     "cult",
@@ -677,7 +677,7 @@
    "pregnancy_note": "not stated in the sources used",
    "sources": [
     {
-     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Wanda Ventham: Captain Kronos",
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Wanda Ventham: Captain Kronos; Caroline Munro: Captain Kronos",
      "url": "https://www.imdb.com/list/ls099930129/"
     },
     {
@@ -1236,8 +1236,8 @@
    "format": "movie",
    "meta": "2006 Canadian horror film · from Wikipedia first sentence",
    "mechanism": "possession",
-   "character": "Amy Lalonde (character names not given on the list)",
-   "summary": "IMDb list records Amy Lalonde as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"Alex begins to have visions of Elizabeth being possessed by a demon.\"",
+   "character": "Amy Lalonde, Barbara Mamabolo, Jordan Madley (character names not given on the list)",
+   "summary": "IMDb list records Amy Lalonde, Barbara Mamabolo, Jordan Madley as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"Alex begins to have visions of Elizabeth being possessed by a demon.\"",
    "categories": [
     "occult",
     "spirit",
@@ -1252,7 +1252,7 @@
    "pregnancy_note": "not stated in the sources used",
    "sources": [
     {
-     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Amy Lalonde: 5ive Girls",
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Amy Lalonde: 5ive Girls; Jordan Madley: 5ive Girls; Barbara Mamabolo: 5ive Girls",
      "url": "https://www.imdb.com/list/ls099930129/"
     },
     {
@@ -1536,6 +1536,505 @@
    ]
   },
   {
+   "title": "First Wave",
+   "year": "1998",
+   "format": "tv",
+   "meta": "Canadian science fiction drama television series · from Wikipedia first sentence",
+   "mechanism": "listed by IMDb list (type not verified)",
+   "character": "Traci Lords (character names not given on the list)",
+   "summary": "IMDb list records Traci Lords as hypnotized / brainwashed / possessed / mind-controlled in this production. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified.",
+   "categories": [
+    "other-control"
+   ],
+   "already_married": "not stated",
+   "married": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "pregnancy_note": "not stated in the sources used",
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Traci Lords: First Wave (**)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: First Wave (TV series)",
+     "url": "https://en.wikipedia.org/wiki/First_Wave_(TV_series)"
+    }
+   ],
+   "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+   "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown. Wikipedia evidence is series/article-level; the listed episode was not individually verified.",
+   "confidence_flag": "low: IMDb list only, plot not verified",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25",
+    "imdb-list-only"
+   ]
+  },
+  {
+   "title": "Flash Gordon",
+   "year": "2007",
+   "format": "tv",
+   "meta": "science fiction television series · from Wikipedia first sentence",
+   "mechanism": "listed by IMDb list (type not verified)",
+   "character": "Gina Holden (character names not given on the list)",
+   "summary": "IMDb list records Gina Holden as hypnotized / brainwashed / possessed / mind-controlled in this production. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified. Episode details from the list: Gina Holden Flash Gordon (2007) (s1e15).",
+   "categories": [
+    "other-control"
+   ],
+   "already_married": "not stated",
+   "married": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "pregnancy_note": "not stated in the sources used",
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Gina Holden: Flash Gordon (2007) (s1e15)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: Flash Gordon (2007 TV series)",
+     "url": "https://en.wikipedia.org/wiki/Flash_Gordon_(2007_TV_series)"
+    }
+   ],
+   "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+   "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown. Wikipedia evidence is series/article-level; the listed episode was not individually verified.",
+   "confidence_flag": "low: IMDb list only, plot not verified",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25",
+    "imdb-list-only"
+   ],
+   "standalone": true
+  },
+  {
+   "title": "Scanners III: The Takeover",
+   "year": "1992",
+   "format": "movie",
+   "meta": "1992 Canadian science fiction horror film · from Wikipedia first sentence",
+   "mechanism": "brainwashing / mind control",
+   "character": "Valérie Valois (character names not given on the list)",
+   "summary": "IMDb list records Valérie Valois as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"After informing Alex of the situation, Michael is killed by a group of villagers being mind-controlled by one of Helena's Scanners.\"",
+   "categories": [
+    "occult",
+    "scifi",
+    "tech"
+   ],
+   "already_married": "not stated",
+   "married": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "pregnancy_note": "not stated in the sources used",
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Valérie Valois: Scanners III",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: Scanners III: The Takeover",
+     "url": "https://en.wikipedia.org/wiki/Scanners_III:_The_Takeover"
+    }
+   ],
+   "evidence": "IMDb list entry + Wikipedia plot (not matched to her character) passage (mind-controlled)",
+   "fit_note": "IMDb list covers hypnosis, brainwashing, possession and mind control together; the matched Wikipedia passage is brainwashing / mind control, so check whether it is hypnosis proper.",
+   "confidence_flag": "medium: IMDb list + Wikipedia keyword passage; wife/kids/pregnancy not stated",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25"
+   ]
+  },
+  {
+   "title": "Fire Serpent",
+   "year": "2007",
+   "format": "movie",
+   "meta": "2007 Sci Fi Channel monster movie · from Wikipedia first sentence",
+   "mechanism": "listed by IMDb list (type not verified)",
+   "character": "Lisa Langlois (character names not given on the list)",
+   "summary": "IMDb list records Lisa Langlois as hypnotized / brainwashed / possessed / mind-controlled in this film. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified.",
+   "categories": [
+    "other-control"
+   ],
+   "already_married": "not stated",
+   "married": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "pregnancy_note": "not stated in the sources used",
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Lisa Langlois: Fire Serpent",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: Fire Serpent",
+     "url": "https://en.wikipedia.org/wiki/Fire_Serpent"
+    }
+   ],
+   "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+   "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown. Age unverified (birth year not given) for: Lisa Langlois; adult-only judgement based on the production's audience.",
+   "confidence_flag": "low: IMDb list only, plot not verified",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25",
+    "imdb-list-only"
+   ]
+  },
+  {
+   "title": "Night of the Demons",
+   "year": "1988",
+   "format": "movie",
+   "meta": "American comedy-horror franchise consisting of four films · from Wikipedia first sentence",
+   "mechanism": "listed by IMDb list (type not verified)",
+   "character": "Linnea Quigley (character names not given on the list)",
+   "summary": "IMDb list records Linnea Quigley as hypnotized / brainwashed / possessed / mind-controlled in this film. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified.",
+   "categories": [
+    "other-control"
+   ],
+   "already_married": "not stated",
+   "married": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "pregnancy_note": "not stated in the sources used",
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Linnea Quigley: Night of the Demons",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: Night of the Demons (film series)",
+     "url": "https://en.wikipedia.org/wiki/Night_of_the_Demons_(film_series)"
+    }
+   ],
+   "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+   "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown.",
+   "confidence_flag": "low: IMDb list only, plot not verified",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25",
+    "imdb-list-only"
+   ]
+  },
+  {
+   "title": "Night of the Demons 2",
+   "year": "1994",
+   "format": "movie",
+   "meta": "1994 American horror film · from Wikipedia first sentence",
+   "mechanism": "listed by IMDb list (type not verified)",
+   "character": "Christine Taylor, Zoe Trilling (character names not given on the list)",
+   "summary": "IMDb list records Christine Taylor, Zoe Trilling as hypnotized / brainwashed / possessed / mind-controlled in this film. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified.",
+   "categories": [
+    "other-control"
+   ],
+   "already_married": "not stated",
+   "married": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "pregnancy_note": "not stated in the sources used",
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Christine Taylor: Night of the Demons 2; Zoe Trilling: Night of the Demons 2",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: Night of the Demons 2",
+     "url": "https://en.wikipedia.org/wiki/Night_of_the_Demons_2"
+    }
+   ],
+   "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+   "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown.",
+   "confidence_flag": "low: IMDb list only, plot not verified",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25",
+    "imdb-list-only"
+   ]
+  },
+  {
+   "title": "Coven Academy",
+   "year": "2026",
+   "format": "tv",
+   "meta": "American supernatural teen drama television series · from Wikipedia first sentence",
+   "mechanism": "listed by IMDb list (type not verified)",
+   "character": "Tiffani Thiessen (character names not given on the list)",
+   "summary": "IMDb list records Tiffani Thiessen as hypnotized / brainwashed / possessed / mind-controlled in this production. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified. Episode details from the list: Tiffani Thiessen Coven Academy (s1e2).",
+   "categories": [
+    "other-control"
+   ],
+   "already_married": "not stated",
+   "married": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "pregnancy_note": "not stated in the sources used",
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Tiffani Thiessen: Coven Academy (s1e2)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: Coven Academy",
+     "url": "https://en.wikipedia.org/wiki/Coven_Academy"
+    }
+   ],
+   "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+   "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown. Wikipedia evidence is series/article-level; the listed episode was not individually verified.",
+   "confidence_flag": "low: IMDb list only, plot not verified",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25",
+    "imdb-list-only"
+   ]
+  },
+  {
+   "title": "Roswell",
+   "year": "1999",
+   "format": "tv",
+   "meta": "American science fiction television series · from Wikipedia first sentence",
+   "mechanism": "listed by IMDb list (type not verified)",
+   "character": "Diane Farr, Katherine Heigl (character names not given on the list)",
+   "summary": "IMDb list records Diane Farr, Katherine Heigl as hypnotized / brainwashed / possessed / mind-controlled in this production. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified. Episode details from the list: Diane Farr Roswell (?); Katherine Heigl Roswell (?).",
+   "categories": [
+    "other-control"
+   ],
+   "already_married": "not stated",
+   "married": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "pregnancy_note": "not stated in the sources used",
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Diane Farr: Roswell (?); Katherine Heigl: Roswell (?)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: Roswell (TV series)",
+     "url": "https://en.wikipedia.org/wiki/Roswell_(TV_series)"
+    }
+   ],
+   "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+   "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown. Wikipedia evidence is series/article-level; the listed episode was not individually verified.",
+   "confidence_flag": "low: IMDb list only, plot not verified",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25",
+    "imdb-list-only"
+   ]
+  },
+  {
+   "title": "Serenity",
+   "year": "2005",
+   "format": "movie",
+   "meta": "2005 American space Western film · from Wikipedia first sentence",
+   "mechanism": "hypnosis / trance",
+   "character": "Summer Glau (character names not given on the list)",
+   "summary": "IMDb list records Summer Glau as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"Once there, however, a subliminal message in a television commercial causes River to attack numerous bar patrons, and Mal takes the siblings back aboard the ship.\"",
+   "categories": [
+    "spirit",
+    "tech",
+    "medical"
+   ],
+   "already_married": "not stated",
+   "married": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "pregnancy_note": "not stated in the sources used",
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Summer Glau: Serenity",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: Serenity (2005 film)",
+     "url": "https://en.wikipedia.org/wiki/Serenity_(2005_film)"
+    }
+   ],
+   "evidence": "IMDb list entry + Wikipedia plot (not matched to her character) passage (subliminal)",
+   "fit_note": "IMDb list covers hypnosis, brainwashing, possession and mind control together; the matched Wikipedia passage is hypnosis / trance, so check whether it is hypnosis proper.",
+   "confidence_flag": "medium: IMDb list + Wikipedia keyword passage; wife/kids/pregnancy not stated",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25"
+   ]
+  },
+  {
+   "title": "G.I. Joe: The Rise of Cobra",
+   "year": "2009",
+   "format": "movie",
+   "meta": "2009 American military science fiction film · from Wikipedia first sentence",
+   "mechanism": "spell / thrall / control",
+   "character": "Sienna Miller (character names not given on the list)",
+   "summary": "IMDb list records Sienna Miller as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"Rex had implanted his sister with nanomites, putting her under his control as The Baroness.\"",
+   "categories": [
+    "spirit",
+    "tech",
+    "fantasy"
+   ],
+   "already_married": "not stated",
+   "married": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "pregnancy_note": "not stated in the sources used",
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Sienna Miller: GI Joe: The Rise of Cobra",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: G.I. Joe: The Rise of Cobra",
+     "url": "https://en.wikipedia.org/wiki/G.I._Joe:_The_Rise_of_Cobra"
+    }
+   ],
+   "evidence": "IMDb list entry + Wikipedia plot (not matched to her character) passage (under his control)",
+   "fit_note": "IMDb list covers hypnosis, brainwashing, possession and mind control together; the matched Wikipedia passage is spell / thrall / control, so check whether it is hypnosis proper.",
+   "confidence_flag": "medium: IMDb list + Wikipedia keyword passage; wife/kids/pregnancy not stated",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25"
+   ]
+  },
+  {
+   "title": "Witchcraft XI: Sisters in Blood",
+   "year": "2000",
+   "format": "movie",
+   "meta": "2000 American horror film · from Wikipedia first sentence",
+   "mechanism": "possession",
+   "character": "Miranda Odell (character names not given on the list)",
+   "summary": "IMDb list records Miranda Odell as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"Once possessed by one of the 300 year dead witches, Maria lures a frat boy to the cemetery where the ritual was performed and kills him.\"",
+   "categories": [
+    "occult",
+    "spirit",
+    "fantasy"
+   ],
+   "already_married": "not stated",
+   "married": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "pregnancy_note": "not stated in the sources used",
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Miranda Odell: Witchcraft XI",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: Witchcraft XI: Sisters in Blood",
+     "url": "https://en.wikipedia.org/wiki/Witchcraft_XI:_Sisters_in_Blood"
+    }
+   ],
+   "evidence": "IMDb list entry + Wikipedia plot (not matched to her character) passage (possessed by)",
+   "fit_note": "IMDb list covers hypnosis, brainwashing, possession and mind control together; the matched Wikipedia passage is possession, so check whether it is hypnosis proper. Age unverified (birth year not given) for: Miranda Odell; adult-only judgement based on the production's audience.",
+   "confidence_flag": "medium: IMDb list + Wikipedia keyword passage; wife/kids/pregnancy not stated",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25"
+   ]
+  },
+  {
+   "title": "Radio Active",
+   "year": "1998",
+   "format": "tv",
+   "meta": "Canadian sitcom television series broadcast on YTV · from Wikipedia first sentence",
+   "mechanism": "listed by IMDb list (type not verified)",
+   "character": "Melissa Galianos (character names not given on the list)",
+   "summary": "IMDb list records Melissa Galianos as hypnotized / brainwashed / possessed / mind-controlled in this production. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified. Episode details from the list: Melissa Galianos Radio Active (s1e8).",
+   "categories": [
+    "other-control"
+   ],
+   "already_married": "not stated",
+   "married": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "pregnancy_note": "not stated in the sources used",
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Melissa Galianos: Radio Active (s1e8)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: Radio Active (TV series)",
+     "url": "https://en.wikipedia.org/wiki/Radio_Active_(TV_series)"
+    }
+   ],
+   "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+   "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown. Wikipedia evidence is series/article-level; the listed episode was not individually verified.",
+   "confidence_flag": "low: IMDb list only, plot not verified",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25",
+    "imdb-list-only"
+   ]
+  },
+  {
+   "title": "Dying to Remember",
+   "year": "1993",
+   "format": "movie",
+   "meta": "1993 American made-for-television thriller drama film · from Wikipedia first sentence",
+   "mechanism": "hypnosis / trance",
+   "character": "Melissa Gilbert (character names not given on the list)",
+   "summary": "IMDb list records Melissa Gilbert as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (matches her character)): \"James Portman (Jay Robinson) and undergoes hypnotherapy, during which she learns that the woman falling is Lynn herself in her previous life, pushed down the shaft by a man in San Francisco in 1963.\"",
+   "categories": [
+    "medical",
+    "crime"
+   ],
+   "already_married": "not stated",
+   "married": "not stated",
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "pregnancy_note": "not stated in the sources used",
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Melissa Gilbert: Dying to Remember",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: Dying to Remember",
+     "url": "https://en.wikipedia.org/wiki/Dying_to_Remember"
+    }
+   ],
+   "evidence": "IMDb list entry + Wikipedia plot (matches her character) passage (hypnotherapy)",
+   "fit_note": "IMDb list covers hypnosis, brainwashing, possession and mind control together; the matched Wikipedia passage is hypnosis / trance, so check whether it is hypnosis proper.",
+   "confidence_flag": "medium: IMDb list + Wikipedia keyword passage; wife/kids/pregnancy not stated",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25"
+   ]
+  },
+  {
    "title": "Paula Peril And The Hidden City",
    "year": "2017",
    "match_title": "Paula Peril And The Hidden City",
@@ -1796,7 +2295,7 @@
    "categories": [],
    "sources": [
     {
-     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Melissa Benoist: Supergirl (**); Carly Nykanen: Supergirl (s1e19); Jenna Dewan: Supergirl (s1e19); Chyler Leigh: Supergirl (**)",
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Melissa Benoist: Supergirl (**); Carly Nykanen: Supergirl (s1e19); Jenna Dewan: Supergirl (s1e19); Chyler Leigh: Supergirl (**); Caity Lotz: Supergirl (s3e8); Wil",
      "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
@@ -1814,7 +2313,7 @@
    "categories": [],
    "sources": [
     {
-     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Julie Benz: George of the Jungle 2; Chelsea Gibb: George of the Jungle 2; Kirstie Hutton: George of the Jungle 2",
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Julie Benz: George of the Jungle 2; Chelsea Gibb: George of the Jungle 2; Kirstie Hutton: George of the Jungle 2; Kelly Miracco: George of the Jungle 2",
      "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
@@ -1886,7 +2385,7 @@
    "categories": [],
    "sources": [
     {
-     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Carter Cruise: The Love Machine",
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Carter Cruise: The Love Machine; Alice Tate: The Love Machine",
      "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
@@ -2030,7 +2529,7 @@
    "categories": [],
    "sources": [
     {
-     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Manon Bresch: Mortel (s2e6)",
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Manon Bresch: Mortel (s2e6); Léa Léviant: Mortel (**)",
      "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
@@ -2264,7 +2763,7 @@
    "categories": [],
    "sources": [
     {
-     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Rebecca Staab: Port Charles (**); Erin Hershey: Port Charles (**)",
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Rebecca Staab: Port Charles (**); Erin Hershey: Port Charles (**); Kelly Monaco: Port Charles (**)",
      "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
@@ -2714,7 +3213,7 @@
    "categories": [],
    "sources": [
     {
-     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Azita Ghanizada: Alphas (s2e4); Alexandra MacDonald: Alphas (s2e7)",
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Azita Ghanizada: Alphas (s2e4); Alexandra MacDonald: Alphas (s2e7); Laura Mennell: Alphas (s1e8); Lauren Holly: Alphas (**)",
      "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
@@ -2732,7 +3231,7 @@
    "categories": [],
    "sources": [
     {
-     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Mädchen Amick: Riverdale (**); Lili Reinhart: Riverdale (s3e21)",
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Mädchen Amick: Riverdale (**); Lili Reinhart: Riverdale (s3e21); Vanessa Morgan: Riverdale (**)",
      "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
@@ -2822,7 +3321,7 @@
    "categories": [],
    "sources": [
     {
-     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Julie Griffith: Aliens in the Family (s1e7)",
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Julie Griffith: Aliens in the Family (s1e7); Julie Dretzin: Aliens in the Family (s1e7)",
      "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
@@ -3308,7 +3807,7 @@
    "categories": [],
    "sources": [
     {
-     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Alaina Huffman: Painkiller Jane (s1e1); Kristanna Loken: Painkiller Jane (**)",
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Alaina Huffman: Painkiller Jane (s1e1); Kristanna Loken: Painkiller Jane (**); Rachel Hayward: Painkiller Jane (s1e12)",
      "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
@@ -4047,6 +4546,924 @@
    "sources": [
     {
      "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Anne-Marie Martin: Doctor Strange (1978)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "666: Devilish Charm",
+   "year": "2014",
+   "match_title": "666: Devilish Charm",
+   "match_year": "2014",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Layla Zova: 666 Devilish Charm; Nikki BreAnne Wells: 666 Devilish Charm",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Avengers Grimm",
+   "year": "2015",
+   "match_title": "Avengers Grimm",
+   "match_year": "2015",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Elizabeth Peterson: Avengers Grimm; Justine Herron: Avengers Grimm",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Brain Twisters",
+   "year": "1991",
+   "match_title": "Brain Twisters",
+   "match_year": "1991",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Farrah Forke: Brain Twisters",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Dead Again",
+   "year": "1991",
+   "match_title": "Dead Again",
+   "match_year": "1991",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Emma Thompson: Dead Again",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Don't Go Breaking My Heart",
+   "year": "1999",
+   "match_title": "Don't Go Breaking My Heart",
+   "match_year": "1999",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Jenny Seagrove: Don't Go Breaking My Heart",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Nikita",
+   "year": "2010–2013",
+   "match_title": "Nikita",
+   "match_year": "2010–2013",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Julie McNiven: Nikita (s2e2)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Plus belle la vie",
+   "year": "2008",
+   "match_title": "Plus belle la vie",
+   "match_year": "2008",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Hélène Médigue: Plus Belle la Vie (**)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Flash Gordon",
+   "year": "1980",
+   "match_title": "Flash Gordon",
+   "match_year": "1980",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Melody Anderson: Flash Gordon (1980)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Firewalker",
+   "year": "1986",
+   "match_title": "Firewalker",
+   "match_year": "1986",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Melody Anderson: Firewalker",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Logan's Run",
+   "year": "1977–1978",
+   "match_title": "Logan's Run",
+   "match_year": "1977–1978",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Heather Menzies: Logan's Run (1978) (**)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Jack the Giant Killer",
+   "year": "1962",
+   "match_title": "Jack the Giant Killer",
+   "match_year": "1962",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Judi Meredith: Jack the Giant Killer",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Embrace of the Vampire",
+   "year": "1995",
+   "match_title": "Embrace of the Vampire",
+   "match_year": "1995",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Alyssa Milano: Embrace of the Vampire (1995)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "The Shadow",
+   "year": "1994",
+   "match_title": "The Shadow",
+   "match_year": "1994",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Penelope Ann Miller: The Shadow",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Kenneyville",
+   "year": "2011",
+   "match_title": "Kenneyville",
+   "match_year": "2011",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Vanessa Broze: Kenneyville; Kelsey Oluk: Kenneyville",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Pretty Little Liars",
+   "year": "2016–2017",
+   "match_title": "Pretty Little Liars",
+   "match_year": "2016–2017",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Shay Mitchell: Pretty Little Liars (**)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "My Mom's a Werewolf",
+   "year": "1989",
+   "match_title": "My Mom's a Werewolf",
+   "match_year": "1989",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Tina Caspary: My Mom's a Werewolf",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Unforgettable",
+   "year": "2011–2016",
+   "match_title": "Unforgettable",
+   "match_year": "2011–2016",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Poppy Montgomery: Unforgettable (s4e13)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Terminal Invasion",
+   "year": "2002",
+   "match_title": "Terminal Invasion",
+   "match_year": "2002",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Sarah Lafleur: Terminal Invasion",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "The Hypnotic Eye",
+   "year": "1960",
+   "match_title": "The Hypnotic Eye",
+   "match_year": "1960",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Marcia Henderson: The Hypnotic Eye; Merry Anders: The Hypnotic Eye; Evan MacNeil: The Hypnotic Eye",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "At the Earth's Core",
+   "year": "1976",
+   "match_title": "At the Earth's Core",
+   "match_year": "1976",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Caroline Munro: At the Earth's Core",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Orphan Black",
+   "year": "2013",
+   "match_title": "Orphan Black",
+   "match_year": "2013",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Tatiana Maslany: Orphan Black",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "The Phantom (2009 Miniseries)",
+   "year": "2009",
+   "match_title": "The Phantom (2009 Miniseries)",
+   "match_year": "2009",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Patricia McKenzie: The Phantom (2009)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Vampire Academy",
+   "year": "2014",
+   "match_title": "Vampire Academy",
+   "match_year": "2014",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Bronté Terrell: Vampire Academy",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Jane Doe: How to Fire Your Boss",
+   "year": "2007",
+   "match_title": "Jane Doe: How to Fire Your Boss",
+   "match_year": "2007",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Lea Thompson: Jane Doe: How to Fire Your Boss",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Alice",
+   "year": "1990",
+   "match_title": "Alice",
+   "match_year": "1990",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Mia Farrow: Alice (1990)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "77 Sunset Strip",
+   "year": "1958–1964",
+   "match_title": "77 Sunset Strip",
+   "match_year": "1958–1964",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Diane McBain: 77 Sunset Strip (s5e2)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "The Gifted",
+   "year": "2018",
+   "match_title": "The Gifted",
+   "match_year": "2018",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Natalie Alyn Lind: The Gifted (s2e16)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Ghoulies",
+   "year": "1985",
+   "match_title": "Ghoulies",
+   "match_year": "1985",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Lisa Pelikan: Ghoulies",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Scott Pilgrim vs. the World",
+   "year": "2010",
+   "match_title": "Scott Pilgrim vs. the World",
+   "match_year": "2010",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Mary Elizabeth Winstead: Scott Pilgrim Vs The World",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Stargate SG-1",
+   "year": "1998",
+   "match_title": "Stargate SG-1",
+   "match_year": "1998",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Amanda Tapping: Stargate SG-1 (**); Rachel Hayward: Stargate SG-1 (s1e1)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "DC's Legends of Tomorrow",
+   "year": "2016–2022",
+   "match_title": "DC's Legends of Tomorrow",
+   "match_year": "2016–2022",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Courtney Ford: DC's Legends of Tomorrow (s4e14); Jes Macallan: DC's Legends of Tomorrow (s4e14); Naomi Levi: DC's Legends of Tomorrow (s4e14); Caity Lotz: DC's Le",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Arrow",
+   "year": "2012",
+   "match_title": "Arrow",
+   "match_year": "2012",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Willa Holland: Arrow (s4e22)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "My Husband's Deadly Past",
+   "year": "2020",
+   "match_title": "My Husband's Deadly Past",
+   "match_year": "2020",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Sarah Butler: My Husband's Deadly Past; Maddy Hillis: My Husband's Deadly Past",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Not of This Earth",
+   "year": "1988",
+   "match_title": "Not of This Earth",
+   "match_year": "1988",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Traci Lords: Not of This Earth (1988)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "The Tommyknockers",
+   "year": "1993",
+   "match_title": "The Tommyknockers",
+   "match_year": "1993",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Traci Lords: The Tommyknockers",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Stalked by My Doctor: A Sleepwalker's Nightmare",
+   "year": "2019",
+   "match_title": "Stalked by My Doctor: A Sleepwalker's Nightmare",
+   "match_year": "2019",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Angeline Appel: Stalked by My Doctor: A Sleepwalker's Nightmare",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "A Snow White Christmas",
+   "year": "2018",
+   "match_title": "A Snow White Christmas",
+   "match_year": "2018",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Michelle Randolph: A Snow White Christmas",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "The X-Files",
+   "year": "1993–2000",
+   "match_title": "The X-Files",
+   "match_year": "1993–2000",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Gillian Anderson: The X-Files (**); Julia Arkos: The X-Files (s3e17)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Weird Science",
+   "year": "1994–1998",
+   "match_title": "Weird Science",
+   "match_year": "1994–1998",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Vanessa Angel: Weird Science (**)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Out For Blood",
+   "year": "2004",
+   "match_title": "Out For Blood",
+   "match_year": "2004",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Vanessa Angel: Out for Blood",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Super Force",
+   "year": "1990–1992",
+   "match_title": "Super Force",
+   "match_year": "1990–1992",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Ginger Lynn Allen: Super Force (s1e21)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Jack of All Trades",
+   "year": "2000",
+   "match_title": "Jack of All Trades",
+   "match_year": "2000",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Angela Marie Dotchin: Jack of All Trades (s2e4)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "She-Wolf of London",
+   "year": "1990–1991",
+   "match_title": "She-Wolf of London",
+   "match_year": "1990–1991",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Marta DuBois: She-Wolf of London (s1e16); Kate Hodge: She-Wolf of London (s1e11)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Ghostbusters",
+   "year": "1986",
+   "match_title": "Ghostbusters",
+   "match_year": "1986",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Sigourney Weaver: Ghostbusters",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Candyman",
+   "year": "1992",
+   "match_title": "Candyman",
+   "match_year": "1992",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Virginia Madsen: Candyman",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Heatseeker",
+   "year": "1995",
+   "match_title": "Heatseeker",
+   "match_year": "1995",
+   "format": "movie",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Tina Cote: Heatseeker",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Land Of The Lost (1991)",
+   "year": "1991",
+   "match_title": "Land Of The Lost (1991)",
+   "match_year": "1991",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Shannon Day: Land of the Lost (1991) (s1e9)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "The Immortal",
+   "year": "2000",
+   "match_title": "The Immortal",
+   "match_year": "2000",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Sarah Deakins: The Immortal (s1e9); April Telek: The Immortal (**)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Forever Knight",
+   "year": "1996",
+   "match_title": "Forever Knight",
+   "match_year": "1996",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Catherine Disher: Forever Knight (?)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "Sheena",
+   "year": "2000",
+   "match_title": "Sheena",
+   "match_year": "2000",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Cindy Oliver: Sheena (s1e22)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+  },
+  {
+   "title": "MacGyver",
+   "year": "2016",
+   "match_title": "MacGyver",
+   "match_year": "2016",
+   "format": "tv",
+   "categories": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Tristin Mays: MacGyver (2016) (s5e15)",
      "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],

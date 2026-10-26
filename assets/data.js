@@ -5223,7 +5223,7 @@ window.CATALOG = {
    "label": "IMDb list: Hypnotized Women in TV and Film (24 Oct 2026)",
    "kind": "local",
    "share_url": "sources/hypnosis-imdb-list-oct24.json",
-   "description": "IMDb list ls099930129 by sleep-71052 (an actress per row, each noted with the production in which she is hypnotized, brainwashed, possessed or mind-controlled; the list does not separate those mechanisms). Source is the owner's CSV export (rows 1-500 of 1,474 processed so far); live IMDb stays behind a WAF challenge, so each production was checked against its Wikipedia article instead. Existing catalog cards only receive the list as a source link and tag; new cards need a Wikipedia article that names the listed actress, a film/TV production, a matching year, an adult cast member and not a children's programme. Cards tagged imdb-list-only have the production and actress confirmed but no plot passage matching her role, so their hypnosis/possession/mind-control type and the wife/pregnancy/kids fields stay 'not stated'. Rows are listed under dropped (no unambiguous Wikipedia match) or excluded (minor at the time, children's/teen programme, actress not named in the matched article).",
+   "description": "IMDb list ls099930129 by sleep-71052 (an actress per row, each noted with the production in which she is hypnotized, brainwashed, possessed or mind-controlled; the list does not separate those mechanisms). Source is the owner's CSV export (rows 1-625 of 1,474 processed so far); live IMDb stays behind a WAF challenge, so each production was checked against its Wikipedia article instead. Existing catalog cards only receive the list as a source link and tag; new cards need a Wikipedia article that names the listed actress, a film/TV production, a matching year, an adult cast member and not a children's programme. Cards tagged imdb-list-only have the production and actress confirmed but no plot passage matching her role, so their hypnosis/possession/mind-control type and the wife/pregnancy/kids fields stay 'not stated'. Rows are listed under dropped (no unambiguous Wikipedia match) or excluded (minor at the time, children's/teen programme, actress not named in the matched article).",
    "dropped": [
     {
      "title": "Airborne",
@@ -5341,12 +5341,15 @@ window.CATALOG = {
     {
      "title": "Charmed (1998)",
      "actresses": [
+      "Alyssa Milano",
       "Amy Laughlin",
       "Holly Marie Combs",
       "Jenya Lano",
       "Leigh-Allyn Baker",
       "Marnette Patterson",
       "Michelle Stafford",
+      "Nancy Moonves",
+      "Rose McGowan",
       "Shannen Doherty",
       "Shannon Engemann"
      ],
@@ -5505,7 +5508,8 @@ window.CATALOG = {
     {
      "title": "Supernatural",
      "actresses": [
-      "Anita Brown"
+      "Anita Brown",
+      "Julie McNiven"
      ],
      "reason": "Wikipedia page 'Supernatural (film)' does not name the listed actress(es), so the title match is unconfirmed"
     },
@@ -5574,13 +5578,6 @@ window.CATALOG = {
      "reason": "no matching Wikipedia article found"
     },
     {
-     "title": "First Wave",
-     "actresses": [
-      "A.J. Cook"
-     ],
-     "reason": "Wikipedia page 'First Wave (TV series)' does not name the listed actress(es), so the title match is unconfirmed"
-    },
-    {
      "title": "All Around the Town",
      "actresses": [
       "Kim Schraner"
@@ -5598,7 +5595,8 @@ window.CATALOG = {
      "title": "Galaxy Park",
      "actresses": [
       "Astrid Sercu",
-      "Lauren De Ruyck"
+      "Lauren De Ruyck",
+      "Marieke Meelberghs"
      ],
      "reason": "no matching Wikipedia article found"
     },
@@ -5743,6 +5741,7 @@ window.CATALOG = {
     {
      "title": "Kukhnya",
      "actresses": [
+      "Olga Kuzmina",
       "Rina Gri"
      ],
      "reason": "no matching Wikipedia article found"
@@ -5971,6 +5970,192 @@ window.CATALOG = {
      "title": "Haunting of the Innocent",
      "actresses": [
       "Jessica Morris"
+     ],
+     "reason": "no matching Wikipedia article found"
+    },
+    {
+     "title": "Last Day of School",
+     "actresses": [
+      "Nailya Shakirova"
+     ],
+     "reason": "no matching Wikipedia article found"
+    },
+    {
+     "title": "Earth Final Conflict",
+     "actresses": [
+      "Sarah Lafleur"
+     ],
+     "reason": "Wikipedia page 'Earth: Final Conflict' does not name the listed actress(es), so the title match is unconfirmed"
+    },
+    {
+     "title": "Debris",
+     "actresses": [
+      "Amanda Marier"
+     ],
+     "reason": "Wikipedia page 'Debris (TV series)' does not name the listed actress(es), so the title match is unconfirmed"
+    },
+    {
+     "title": "The Metropolitan Police Branch 82: Rebirth",
+     "actresses": [
+      "Kumiko Hara",
+      "Miyuki Iijima"
+     ],
+     "reason": "no matching Wikipedia article found"
+    },
+    {
+     "title": "From Dusk Till Dawn 3",
+     "actresses": [
+      "Rebecca Gayheart"
+     ],
+     "reason": "no matching Wikipedia article found"
+    },
+    {
+     "title": "Hard Ride to Hell",
+     "actresses": [
+      "Laura Mennell"
+     ],
+     "reason": "no matching Wikipedia article found"
+    },
+    {
+     "title": "Columbo",
+     "actresses": [
+      "Lesley Ann Warren"
+     ],
+     "reason": "no matching Wikipedia article found"
+    },
+    {
+     "title": "Grease Monkeys",
+     "actresses": [
+      "Archie Panjabi"
+     ],
+     "reason": "Wikipedia page 'Erinsborough' does not name the listed actress(es), so the title match is unconfirmed"
+    },
+    {
+     "title": "Honeymoon",
+     "actresses": [
+      "Rose Leslie"
+     ],
+     "reason": "Wikipedia page 'Honeymoon (disambiguation)' does not name the listed actress(es), so the title match is unconfirmed"
+    },
+    {
+     "title": "The Last Witch Hunter",
+     "actresses": [
+      "Rose Leslie"
+     ],
+     "reason": "no matching Wikipedia article found"
+    },
+    {
+     "title": "Boy 7",
+     "actresses": [
+      "Ella-June Henrard"
+     ],
+     "reason": "no matching Wikipedia article found"
+    },
+    {
+     "title": "Amanda and the Alien",
+     "actresses": [
+      "Alex Meneses"
+     ],
+     "reason": "no matching Wikipedia article found"
+    },
+    {
+     "title": "Night of the Demons (2009)",
+     "actresses": [
+      "Diora Baird",
+      "Shannon Elizabeth"
+     ],
+     "reason": "Wikipedia page 'Night of the Demons (film series)' year 1988 does not match listed year 2009 (a different production with the same title; not resolved)"
+    },
+    {
+     "title": "Running for Her Life",
+     "actresses": [
+      "Claire Forlani"
+     ],
+     "reason": "no matching Wikipedia article found"
+    },
+    {
+     "title": "Patient Killer",
+     "actresses": [
+      "Barbie Castro"
+     ],
+     "reason": "Wikipedia page 'Casper Van Dien' does not name the listed actress(es), so the title match is unconfirmed"
+    },
+    {
+     "title": "Threshold (2005)",
+     "actresses": [
+      "Elizabeth Berkley"
+     ],
+     "reason": "Wikipedia page 'Threshold (TV series)' does not name the listed actress(es), so the title match is unconfirmed"
+    },
+    {
+     "title": "",
+     "actresses": [
+      "Ginger Lynn Allen"
+     ],
+     "reason": "no matching Wikipedia article found"
+    },
+    {
+     "title": "Demon Legacy",
+     "actresses": [
+      "Cortney Palm"
+     ],
+     "reason": "no matching Wikipedia article found"
+    },
+    {
+     "title": "Fright Night 2",
+     "actresses": [
+      "Sacha Parkinson"
+     ],
+     "reason": "no matching Wikipedia article found"
+    },
+    {
+     "title": "The Apocalypse Watch",
+     "actresses": [
+      "Virginia Madsen"
+     ],
+     "reason": "Wikipedia match 'The Apocalypse Watch' is not a film or TV production"
+    },
+    {
+     "title": "Dollhouse",
+     "actresses": [
+      "Dichen Lachman",
+      "Eliza Dushku"
+     ],
+     "reason": "Wikipedia page 'Dollhouse' does not name the listed actress(es), so the title match is unconfirmed"
+    },
+    {
+     "title": "Alien Abduction",
+     "actresses": [
+      "Darcy DeMoss"
+     ],
+     "reason": "Wikipedia page 'Alien Abduction: Incident in Lake County' does not name the listed actress(es), so the title match is unconfirmed"
+    },
+    {
+     "title": "House of Frankenstein (1997)",
+     "actresses": [
+      "Jorja Fox"
+     ],
+     "reason": "Wikipedia match looked like a disambiguation/non-production page"
+    },
+    {
+     "title": "Sabrina, the Teenage Witch",
+     "actresses": [
+      "Jenna Leigh Green",
+      "Soleil Moon Frye"
+     ],
+     "reason": "Wikipedia match looked like a disambiguation/non-production page"
+    },
+    {
+     "title": "Tales from the Crypt",
+     "actresses": [
+      "Mariel Hemingway"
+     ],
+     "reason": "no matching Wikipedia article found"
+    },
+    {
+     "title": "The Secret Adventure of Jules Verne",
+     "actresses": [
+      "Francesca Hunt"
      ],
      "reason": "no matching Wikipedia article found"
     }
@@ -6251,7 +6436,7 @@ window.CATALOG = {
    "description": "New cards from IMDb list ls099930129 (owner's CSV export). Kept in a separate source appended at the end of the source order (new cards first, then link-only records for existing cards added by later sources) so adding them never shifts existing card IDs. Each new title needs a Wikipedia article that names the listed actress, a film/TV production, a matching year, an adult cast member and not a children's programme; see sources/hypnosis-imdb-list-oct24.json for the link-only records, dropped and excluded rows. Cards tagged imdb-list-only have no matching plot passage, so type and family fields stay 'not stated'.",
    "dropped": [],
    "check": {
-    "raw_count": 180,
+    "raw_count": 244,
     "ok": true
    },
    "status": "local"
@@ -6333,10 +6518,10 @@ window.CATALOG = {
   "imdb-pregnant-oct25": 1,
   "pregnant-intimate-imdb-oct25": 13,
   "hypno-kids-witness-unverified-oct25": 8,
-  "hypnosis-imdb-list-full-oct25": 180
+  "hypnosis-imdb-list-full-oct25": 244
  },
- "raw_total": 6793,
- "entry_count": 3487,
+ "raw_total": 6857,
+ "entry_count": 3499,
  "categories": [
   {
    "key": "adopt-pregnancy",
@@ -6390,7 +6575,7 @@ window.CATALOG = {
    "key": "occult",
    "label": "Demonic / occult control",
    "legend_label": "Demonic / occult control",
-   "entry_count": 139
+   "entry_count": 141
   },
   {
    "key": "devil-deal-pregnancy-hypnosis",
@@ -6408,13 +6593,13 @@ window.CATALOG = {
    "key": "tech",
    "label": "Drugs / science / technology control",
    "legend_label": "Drugs / science / technology control",
-   "entry_count": 98
+   "entry_count": 101
   },
   {
    "key": "fantasy",
    "label": "Fantasy enchantment",
    "legend_label": "Fantasy enchantment",
-   "entry_count": 294
+   "entry_count": 296
   },
   {
    "key": "child-controller",
@@ -6504,7 +6689,7 @@ window.CATALOG = {
    "key": "crime",
    "label": "Hypnotized into crime",
    "legend_label": "Hypnotized into crime",
-   "entry_count": 187
+   "entry_count": 188
   },
   {
    "key": "royal-hypnosis",
@@ -6546,7 +6731,7 @@ window.CATALOG = {
    "key": "medical",
    "label": "Medical / therapeutic hypnosis",
    "legend_label": "Medical / therapeutic hypnosis",
-   "entry_count": 223
+   "entry_count": 225
   },
   {
    "key": "mom-partner-control",
@@ -6576,7 +6761,7 @@ window.CATALOG = {
    "key": "other-control",
    "label": "Other female hypnosis / mind control",
    "legend_label": "Other female hypnosis / mind control",
-   "entry_count": 370
+   "entry_count": 378
   },
   {
    "key": "parents-sleeping",
@@ -6786,7 +6971,7 @@ window.CATALOG = {
    "key": "scifi",
    "label": "Sci-fi / alien / technological control",
    "legend_label": "Sci-fi / alien / technological control",
-   "entry_count": 395
+   "entry_count": 396
   },
   {
    "key": "family",
@@ -6798,7 +6983,7 @@ window.CATALOG = {
    "key": "spirit",
    "label": "Spirit / ghost / djinn possession",
    "legend_label": "Spirit / ghost / djinn possession",
-   "entry_count": 204
+   "entry_count": 207
   },
   {
    "key": "stepmom-control",
@@ -6988,7 +7173,7 @@ window.CATALOG = {
     "worldwide-hypnosis:866",
     "hypno-leftovers:14",
     "hypnotized-marriage:32",
-    "hypnosis-imdb-list-full-oct25:137"
+    "hypnosis-imdb-list-full-oct25:150"
    ],
    "index_only": false,
    "local_only": false,
@@ -7200,7 +7385,7 @@ window.CATALOG = {
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:137",
+     "rid": "hypnosis-imdb-list-full-oct25:150",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The Curse of the Jade Scorpion (2001)",
      "identifiers": [
@@ -7379,7 +7564,7 @@ window.CATALOG = {
       "loose fit"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:137": {
+    "hypnosis-imdb-list-full-oct25:150": {
      "title": "The Curse of the Jade Scorpion",
      "year": "2001",
      "match_title": "The Curse of the Jade Scorpion",
@@ -8131,7 +8316,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla:145",
     "worldwide-hypnosis:729",
     "hypnotized-marriage:24",
-    "hypnosis-imdb-list-full-oct25:158"
+    "hypnosis-imdb-list-full-oct25:171"
    ],
    "index_only": false,
    "local_only": false,
@@ -8300,7 +8485,7 @@ window.CATALOG = {
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:158",
+     "rid": "hypnosis-imdb-list-full-oct25:171",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Road to Rio (1947)",
      "identifiers": [
@@ -8462,7 +8647,7 @@ window.CATALOG = {
      "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
      "fit_note": "Hypnotised Lucia to be married off so Vail controls her papers."
     },
-    "hypnosis-imdb-list-full-oct25:158": {
+    "hypnosis-imdb-list-full-oct25:171": {
      "title": "Road to Rio",
      "year": "1947",
      "match_title": "Road to Rio",
@@ -13738,7 +13923,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:27",
-    "hypnosis-imdb-list-full-oct25:85"
+    "hypnosis-imdb-list-full-oct25:98"
    ],
    "index_only": false,
    "local_only": false,
@@ -13773,7 +13958,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:85",
+     "rid": "hypnosis-imdb-list-full-oct25:98",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Mighty Morphin Power Rangers (1994)",
      "identifiers": [
@@ -13822,7 +14007,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "hypnosis-imdb-list-full-oct25:85": {
+    "hypnosis-imdb-list-full-oct25:98": {
      "title": "Mighty Morphin Power Rangers",
      "year": "1994",
      "match_title": "Mighty Morphin Power Rangers",
@@ -17118,6 +17303,9 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "movie",
    "categories": [
     "love",
@@ -17140,19 +17328,25 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/The_Hypnotic_Eye"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Marcia Henderson: The Hypnotic Eye; Merry Anders: The Hypnotic Eye; Evan MacNeil: The Hypnotic Eye",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:37",
     "ig6qlxqxoxvcxla:285",
     "ig6qlxqxoxvcxla:538",
-    "worldwide-hypnosis:892"
+    "worldwide-hypnosis:892",
+    "hypnosis-imdb-list-full-oct25:212"
    ],
    "index_only": false,
    "local_only": false,
@@ -17280,6 +17474,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:212",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "The Hypnotic Eye (1960)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Hypnotic Eye",
+     "subtitle": "",
+     "year": "1960",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Marcia Henderson: The Hypnotic Eye; Merry Anders: The Hypnotic Eye; Evan MacNeil: The Hypnotic Eye",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -17356,6 +17579,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:212": {
+     "title": "The Hypnotic Eye",
+     "year": "1960",
+     "match_title": "The Hypnotic Eye",
+     "match_year": "1960",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Marcia Henderson: The Hypnotic Eye; Merry Anders: The Hypnotic Eye; Evan MacNeil: The Hypnotic Eye",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -18212,6 +18453,9 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "kids_status": "no",
    "kids_together": "no",
    "married": "no",
@@ -18251,6 +18495,10 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Flash_Gordon_%28film%29"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Melody Anderson: Flash Gordon (1980)",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [
@@ -18260,13 +18508,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
     "older-man-hypnosis",
-    "hypnotized-marriage"
+    "hypnotized-marriage",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:41",
     "worldwide-hypnosis:353",
     "older-man-hypnosis:14",
-    "hypnotized-marriage:22"
+    "hypnotized-marriage:22",
+    "hypnosis-imdb-list-full-oct25:201"
    ],
    "index_only": false,
    "local_only": false,
@@ -18435,6 +18685,35 @@ window.CATALOG = {
      "fit_note": "Ming hypnotises Dale Arden with his ring and stages a wedding; thwarted.",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:201",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Flash Gordon (1980)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Flash Gordon",
+     "subtitle": "",
+     "year": "1980",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Melody Anderson: Flash Gordon (1980)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -18566,6 +18845,24 @@ window.CATALOG = {
      ],
      "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
      "fit_note": "Ming hypnotises Dale Arden with his ring and stages a wedding; thwarted."
+    },
+    "hypnosis-imdb-list-full-oct25:201": {
+     "title": "Flash Gordon",
+     "year": "1980",
+     "match_title": "Flash Gordon",
+     "match_year": "1980",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Melody Anderson: Flash Gordon (1980)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -18927,7 +19224,7 @@ window.CATALOG = {
     "xla62ucxbx02u5:43",
     "worldwide-hypnosis:818",
     "hypno-leftovers:20",
-    "hypnosis-imdb-list-full-oct25:141"
+    "hypnosis-imdb-list-full-oct25:154"
    ],
    "index_only": false,
    "local_only": false,
@@ -19036,7 +19333,7 @@ window.CATALOG = {
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:141",
+     "rid": "hypnosis-imdb-list-full-oct25:154",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Svengali (1983)",
      "identifiers": [
@@ -19143,7 +19440,7 @@ window.CATALOG = {
      "evidence": "2+ sources (IMDb, MyMovies, Mental Block, Wikipedia)",
      "fit_note": "CBS TV movie (Peter O'Toole, Jodie Foster). A vocal coach's mentorship of singer Zoe turns obsessive and almost mesmerizing. Boundary case: there is no literal hypnosis or intimacy"
     },
-    "hypnosis-imdb-list-full-oct25:141": {
+    "hypnosis-imdb-list-full-oct25:154": {
      "title": "Svengali",
      "year": "1983",
      "match_title": "Svengali",
@@ -21854,6 +22151,9 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "movie",
    "categories": [
     "love",
@@ -21880,18 +22180,24 @@ window.CATALOG = {
     {
      "label": "TV Tropes: Hypnotize the Captive",
      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnotizeTheCaptive"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Mary Elizabeth Winstead: Scott Pilgrim Vs The World",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:54",
     "ig6qlxqxoxvcxla:330",
-    "worldwide-hypnosis:743"
+    "worldwide-hypnosis:743",
+    "hypnosis-imdb-list-full-oct25:222"
    ],
    "index_only": false,
    "local_only": false,
@@ -22003,6 +22309,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:222",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Scott Pilgrim vs. the World (2010)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Scott Pilgrim vs. the World",
+     "subtitle": "",
+     "year": "2010",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Mary Elizabeth Winstead: Scott Pilgrim Vs The World",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -22090,6 +22425,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:222": {
+     "title": "Scott Pilgrim vs. the World",
+     "year": "2010",
+     "match_title": "Scott Pilgrim vs. the World",
+     "match_year": "2010",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Mary Elizabeth Winstead: Scott Pilgrim Vs The World",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -58506,7 +58859,7 @@ window.CATALOG = {
     "xla62ucxbx02u5:228",
     "ig6qlxqxoxvcxla:536",
     "worldwide-hypnosis:865",
-    "hypnosis-imdb-list-full-oct25:97"
+    "hypnosis-imdb-list-full-oct25:110"
    ],
    "index_only": false,
    "local_only": false,
@@ -58615,7 +58968,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:97",
+     "rid": "hypnosis-imdb-list-full-oct25:110",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The Climax (1944)",
      "identifiers": [
@@ -58714,7 +59067,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:97": {
+    "hypnosis-imdb-list-full-oct25:110": {
      "title": "The Climax",
      "year": "1944",
      "match_title": "The Climax",
@@ -60290,6 +60643,9 @@ window.CATALOG = {
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "kids_status": "not stated",
    "kids_together": "not stated",
    "married": "not stated",
@@ -60308,18 +60664,24 @@ window.CATALOG = {
     {
      "label": "Tubi: Dead Again (1991)",
      "url": "https://tubitv.com/movies/305438/dead-again"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Emma Thompson: Dead Again",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "streaming-oct15"
+    "streaming-oct15",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:234",
     "ig6qlxqxoxvcxla:543",
-    "streaming-oct15:45"
+    "streaming-oct15:45",
+    "hypnosis-imdb-list-full-oct25:197"
    ],
    "index_only": false,
    "local_only": false,
@@ -60408,6 +60770,35 @@ window.CATALOG = {
      "pregnant_end": "not stated",
      "distinct_story": false,
      "matched_by": "same title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:197",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Dead Again (1991)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Dead Again",
+     "subtitle": "",
+     "year": "1991",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Emma Thompson: Dead Again",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -60438,6 +60829,24 @@ window.CATALOG = {
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "hypnosis-imdb-list-full-oct25:197": {
+     "title": "Dead Again",
+     "year": "1991",
+     "match_title": "Dead Again",
+     "match_year": "1991",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Emma Thompson: Dead Again",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     },
     "streaming-oct15:45": {
      "standalone": true,
@@ -61745,7 +62154,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:239",
     "ig6qlxqxoxvcxla:548",
-    "hypnosis-imdb-list-full-oct25:99"
+    "hypnosis-imdb-list-full-oct25:112"
    ],
    "index_only": false,
    "local_only": false,
@@ -61798,7 +62207,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:99",
+     "rid": "hypnosis-imdb-list-full-oct25:112",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Santa Barbara (1991)",
      "identifiers": [
@@ -61848,7 +62257,7 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     },
-    "hypnosis-imdb-list-full-oct25:99": {
+    "hypnosis-imdb-list-full-oct25:112": {
      "title": "Santa Barbara",
      "year": "1991",
      "match_title": "Santa Barbara",
@@ -63632,22 +64041,32 @@ window.CATALOG = {
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "tv",
    "categories": [
     "human",
     "forced-obedience",
     "scifi"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Natalie Alyn Lind: The Gifted (s2e16)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:248",
     "ig6qlxqxoxvcxla:557",
-    "ig6qlxqxoxvcxla:709"
+    "ig6qlxqxoxvcxla:709",
+    "hypnosis-imdb-list-full-oct25:220"
    ],
    "index_only": false,
    "local_only": false,
@@ -63725,6 +64144,35 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "The Gifted (2018)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:220",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "The Gifted (2018)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Gifted",
+     "subtitle": "",
+     "year": "2018",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Natalie Alyn Lind: The Gifted (s2e16)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -63756,6 +64204,24 @@ window.CATALOG = {
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "hypnosis-imdb-list-full-oct25:220": {
+     "title": "The Gifted",
+     "year": "2018",
+     "match_title": "The Gifted",
+     "match_year": "2018",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Natalie Alyn Lind: The Gifted (s2e16)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -67011,7 +67477,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:264",
     "worldwide-hypnosis:208",
-    "hypnosis-imdb-list-full-oct25:177"
+    "hypnosis-imdb-list-full-oct25:190"
    ],
    "index_only": false,
    "local_only": false,
@@ -67090,7 +67556,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:177",
+     "rid": "hypnosis-imdb-list-full-oct25:190",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Count Yorga, Vampire (1970)",
      "identifiers": [
@@ -67177,7 +67643,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:177": {
+    "hypnosis-imdb-list-full-oct25:190": {
      "title": "Count Yorga, Vampire",
      "year": "1970",
      "match_title": "Count Yorga, Vampire",
@@ -67251,7 +67717,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:265",
     "worldwide-hypnosis:274",
-    "hypnosis-imdb-list-full-oct25:52"
+    "hypnosis-imdb-list-full-oct25:65"
    ],
    "index_only": false,
    "local_only": false,
@@ -67324,7 +67790,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:52",
+     "rid": "hypnosis-imdb-list-full-oct25:65",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Dracula A.D. 1972",
      "identifiers": [
@@ -67403,7 +67869,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:52": {
+    "hypnosis-imdb-list-full-oct25:65": {
      "title": "Dracula A.D. 1972",
      "year": "1972",
      "match_title": "Dracula A.D. 1972",
@@ -69602,6 +70068,9 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "The pregnancies in the sources concern the cast or other characters, not the hypnotized woman.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "movie",
    "categories": [
     "occult",
@@ -69618,18 +70087,24 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Candyman_%281992_film%29"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Virginia Madsen: Candyman",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:281",
     "ig6qlxqxoxvcxla:596",
-    "worldwide-hypnosis:153"
+    "worldwide-hypnosis:153",
+    "hypnosis-imdb-list-full-oct25:238"
    ],
    "index_only": false,
    "local_only": false,
@@ -69727,6 +70202,35 @@ window.CATALOG = {
      "pregnancy_note": "The pregnancies in the sources concern the cast or other characters, not the hypnotized woman.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:238",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Candyman (1992)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Candyman",
+     "subtitle": "",
+     "year": "1992",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Virginia Madsen: Candyman",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -69789,6 +70293,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "The pregnancies in the sources concern the cast or other characters, not the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:238": {
+     "title": "Candyman",
+     "year": "1992",
+     "match_title": "Candyman",
+     "match_year": "1992",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Virginia Madsen: Candyman",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -81479,23 +82001,84 @@ window.CATALOG = {
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "tv",
    "categories": [
     "scifi"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Gillian Anderson: The X-Files (**); Julia Arkos: The X-Files (s3e17)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
-    "xla62ucxbx02u5:362"
+    "xla62ucxbx02u5:362",
+    "hypnosis-imdb-list-full-oct25:231"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:362",
+    "source": "xla62ucxbx02u5",
+    "label": "The X-Files (1993–2000)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The X-Files",
+    "subtitle": "",
+    "year": "1993–2000",
+    "meta": "TV series · USA",
+    "summary": "In \"Wetwired\" a subliminal signal induces mind-control psychosis in Dana Scully; in \"Three of a Kind\" she is drugged into extreme suggestibility.",
+    "character": "",
+    "note": "",
+    "mechanism": "Sci-fi / alien / technological control",
+    "confidence_flag": "Research report · web-verified",
+    "categories": [
+     "scifi"
+    ],
+    "sources": [],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:231",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "The X-Files (1993–2000)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The X-Files",
+     "subtitle": "",
+     "year": "1993–2000",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Gillian Anderson: The X-Files (**); Julia Arkos: The X-Files (s3e17)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:362": {
      "t": "The X-Files",
@@ -81509,6 +82092,24 @@ window.CATALOG = {
      "flag": "Research report · web-verified",
      "s": "In \"Wetwired\" a subliminal signal induces mind-control psychosis in Dana Scully; in \"Three of a Kind\" she is drugged into extreme suggestibility.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
+    },
+    "hypnosis-imdb-list-full-oct25:231": {
+     "title": "The X-Files",
+     "year": "1993–2000",
+     "match_title": "The X-Files",
+     "match_year": "1993–2000",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Gillian Anderson: The X-Files (**); Julia Arkos: The X-Files (s3e17)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    },
    "watch_links": [
@@ -81623,23 +82224,84 @@ window.CATALOG = {
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "tv",
    "categories": [
     "scifi"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Traci Lords: The Tommyknockers",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
-    "xla62ucxbx02u5:365"
+    "xla62ucxbx02u5:365",
+    "hypnosis-imdb-list-full-oct25:228"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:365",
+    "source": "xla62ucxbx02u5",
+    "label": "The Tommyknockers (1993)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "The Tommyknockers",
+    "subtitle": "",
+    "year": "1993",
+    "meta": "TV miniseries · USA",
+    "summary": "The buried alien ship seizes control of Bobbi Anderson's mind.",
+    "character": "",
+    "note": "",
+    "mechanism": "Sci-fi / alien / technological control",
+    "confidence_flag": "Research report · web-verified",
+    "categories": [
+     "scifi"
+    ],
+    "sources": [],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:228",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "The Tommyknockers (1993)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Tommyknockers",
+     "subtitle": "",
+     "year": "1993",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Traci Lords: The Tommyknockers",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:365": {
      "t": "The Tommyknockers",
@@ -81653,6 +82315,24 @@ window.CATALOG = {
      "flag": "Research report · web-verified",
      "s": "The buried alien ship seizes control of Bobbi Anderson's mind.",
      "prov": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026)."
+    },
+    "hypnosis-imdb-list-full-oct25:228": {
+     "title": "The Tommyknockers",
+     "year": "1993",
+     "match_title": "The Tommyknockers",
+     "match_year": "1993",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Traci Lords: The Tommyknockers",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -81998,19 +82678,29 @@ window.CATALOG = {
    "character": "",
    "provenance": "Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
    "note": "",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "tv",
    "categories": [
     "scifi"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Tatiana Maslany: Orphan Black",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:370",
-    "ig6qlxqxoxvcxla:684"
+    "ig6qlxqxoxvcxla:684",
+    "hypnosis-imdb-list-full-oct25:214"
    ],
    "index_only": false,
    "local_only": false,
@@ -82059,6 +82749,35 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Orphan Black",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:214",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Orphan Black (2013)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Orphan Black",
+     "subtitle": "",
+     "year": "2013",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Tatiana Maslany: Orphan Black",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -82081,6 +82800,24 @@ window.CATALOG = {
      "group": "Catalog records",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "hypnosis-imdb-list-full-oct25:214": {
+     "title": "Orphan Black",
+     "year": "2013",
+     "match_title": "Orphan Black",
+     "match_year": "2013",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Tatiana Maslany: Orphan Black",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    },
    "watch_links": [
@@ -95949,7 +96686,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:471",
     "ig6qlxqxoxvcxla:1017",
-    "hypnosis-imdb-list-full-oct25:73"
+    "hypnosis-imdb-list-full-oct25:86"
    ],
    "index_only": false,
    "local_only": false,
@@ -96010,7 +96747,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:73",
+     "rid": "hypnosis-imdb-list-full-oct25:86",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Misfits (2011)",
      "identifiers": [
@@ -96071,7 +96808,7 @@ window.CATALOG = {
      "confidence": "Dialogue-confirmed",
      "note": ""
     },
-    "hypnosis-imdb-list-full-oct25:73": {
+    "hypnosis-imdb-list-full-oct25:86": {
      "title": "Misfits",
      "year": "2011",
      "match_title": "Misfits",
@@ -100305,6 +101042,9 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "hypnotist": "her husband Otto, a hypnotherapist",
    "gain_motive": [
     "crime (cover-up)"
@@ -100346,6 +101086,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/My_Husband%27s_Deadly_Past"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Sarah Butler: My Husband's Deadly Past; Maddy Hillis: My Husband's Deadly Past",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
@@ -100354,7 +101098,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla",
     "worldwide-hypnosis",
     "rich-wife-hypnosis",
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:504",
@@ -100362,7 +101107,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla:397",
     "worldwide-hypnosis:615",
     "rich-wife-hypnosis:13",
-    "wife-hypnosis-oct15:19"
+    "wife-hypnosis-oct15:19",
+    "hypnosis-imdb-list-full-oct25:226"
    ],
    "index_only": false,
    "local_only": false,
@@ -100593,6 +101339,35 @@ window.CATALOG = {
      "already_married_note": "Yes — husband: Otto",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:226",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "My Husband's Deadly Past (2020)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "My Husband's Deadly Past",
+     "subtitle": "",
+     "year": "2020",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Sarah Butler: My Husband's Deadly Past; Maddy Hillis: My Husband's Deadly Past",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -100761,6 +101536,24 @@ window.CATALOG = {
      "already_married_note": "Yes — husband: Otto",
      "pregnant_end": "not stated",
      "kids_together": "not stated"
+    },
+    "hypnosis-imdb-list-full-oct25:226": {
+     "title": "My Husband's Deadly Past",
+     "year": "2020",
+     "match_title": "My Husband's Deadly Past",
+     "match_year": "2020",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Sarah Butler: My Husband's Deadly Past; Maddy Hillis: My Husband's Deadly Past",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -100977,7 +101770,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla:786",
     "ig6qlxqxoxvcxla:845",
     "mother-kids-hypnosis:7",
-    "hypnosis-imdb-list-full-oct25:43"
+    "hypnosis-imdb-list-full-oct25:56"
    ],
    "index_only": false,
    "local_only": false,
@@ -101120,7 +101913,7 @@ window.CATALOG = {
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:43",
+     "rid": "hypnosis-imdb-list-full-oct25:56",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Village of the Damned (1995)",
      "identifiers": [
@@ -101238,7 +102031,7 @@ window.CATALOG = {
      "pregnancy_note": "Barbara became pregnant during the Midwich blackout and gave birth to Mara; she is not pregnant when Mara controls her and dies",
      "provenance": "Mother-hypnotized-in-front-of-her-children research pass (30 Sep 2026): worldwide search (Mental Block wiki, Wikipedia/de/ja episode tables, TV Tropes, fan wikis, soap and Indian-serial recap sites); strict hypnosis, mesmerism, hypnotic trance or hypnosis-like devices only; spirit/demonic/black-magic possession excluded; adult mothers only; the child must see her hypnotized or in the trance; no title where children witness sexual content."
     },
-    "hypnosis-imdb-list-full-oct25:43": {
+    "hypnosis-imdb-list-full-oct25:56": {
      "title": "Village of the Damned",
      "year": "1995",
      "match_title": "Village of the Damned",
@@ -102021,7 +102814,7 @@ window.CATALOG = {
      "url": "https://readysteadycut.com/2019/11/21/recap-mortel-season-1-episode-3-nothing-nudes-under-the-moon-netflix-series/"
     },
     {
-     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Manon Bresch: Mortel (s2e6)",
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Manon Bresch: Mortel (s2e6); Léa Léviant: Mortel (**)",
      "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
@@ -102034,7 +102827,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:512",
     "ig6qlxqxoxvcxla:792",
-    "hypnosis-imdb-list-full-oct25:68"
+    "hypnosis-imdb-list-full-oct25:81"
    ],
    "index_only": false,
    "local_only": false,
@@ -102096,7 +102889,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:68",
+     "rid": "hypnosis-imdb-list-full-oct25:81",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Mortel (2019–2021)",
      "identifiers": [
@@ -102114,7 +102907,7 @@ window.CATALOG = {
      "categories": [],
      "sources": [
       {
-       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Manon Bresch: Mortel (s2e6)",
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Manon Bresch: Mortel (s2e6); Léa Léviant: Mortel (**)",
        "url": "https://www.imdb.com/list/ls099930129/"
       }
      ],
@@ -102156,7 +102949,7 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     },
-    "hypnosis-imdb-list-full-oct25:68": {
+    "hypnosis-imdb-list-full-oct25:81": {
      "title": "Mortel",
      "year": "2019–2021",
      "match_title": "Mortel",
@@ -102165,7 +102958,7 @@ window.CATALOG = {
      "categories": [],
      "sources": [
       {
-       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Manon Bresch: Mortel (s2e6)",
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Manon Bresch: Mortel (s2e6); Léa Léviant: Mortel (**)",
        "url": "https://www.imdb.com/list/ls099930129/"
       }
      ],
@@ -102373,7 +103166,7 @@ window.CATALOG = {
     "xla62ucxbx02u5:514",
     "ig6qlxqxoxvcxla:690",
     "ig6qlxqxoxvcxla:794",
-    "hypnosis-imdb-list-full-oct25:71"
+    "hypnosis-imdb-list-full-oct25:84"
    ],
    "index_only": false,
    "local_only": false,
@@ -102462,7 +103255,7 @@ window.CATALOG = {
      "matched_by": "alias"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:71",
+     "rid": "hypnosis-imdb-list-full-oct25:84",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Doctor Who (2006)",
      "identifiers": [
@@ -102530,7 +103323,7 @@ window.CATALOG = {
      "confidence": "Cataloged",
      "note": ""
     },
-    "hypnosis-imdb-list-full-oct25:71": {
+    "hypnosis-imdb-list-full-oct25:84": {
      "title": "Doctor Who",
      "year": "2006",
      "match_title": "Doctor Who",
@@ -118827,7 +119620,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla:273",
     "worldwide-hypnosis:169",
     "rich-wife-hypnosis:30",
-    "hypnosis-imdb-list-full-oct25:72"
+    "hypnosis-imdb-list-full-oct25:85"
    ],
    "index_only": false,
    "local_only": false,
@@ -119056,7 +119849,7 @@ window.CATALOG = {
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:72",
+     "rid": "hypnosis-imdb-list-full-oct25:85",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Charlie’s Angels (1976)",
      "identifiers": [
@@ -119252,7 +120045,7 @@ window.CATALOG = {
      ],
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     },
-    "hypnosis-imdb-list-full-oct25:72": {
+    "hypnosis-imdb-list-full-oct25:85": {
      "title": "Charlie’s Angels",
      "year": "1976",
      "match_title": "Charlie’s Angels",
@@ -120980,7 +121773,7 @@ window.CATALOG = {
     "xla62ucxbx02u5:1573",
     "ig6qlxqxoxvcxla:300",
     "worldwide-hypnosis:612",
-    "hypnosis-imdb-list-full-oct25:93"
+    "hypnosis-imdb-list-full-oct25:106"
    ],
    "index_only": false,
    "local_only": false,
@@ -121093,7 +121886,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:93",
+     "rid": "hypnosis-imdb-list-full-oct25:106",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Morgana (2008)",
      "identifiers": [
@@ -121190,7 +121983,7 @@ window.CATALOG = {
      "pregnancy_note": "The pregnancies in the sources concern the cast or other characters, not the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:93": {
+    "hypnosis-imdb-list-full-oct25:106": {
      "title": "Morgana",
      "year": "2008",
      "match_title": "Morgana",
@@ -132945,7 +133738,7 @@ window.CATALOG = {
     "xla62ucxbx02u5:686",
     "worldwide-hypnosis:277",
     "hypnosis-assault-loose:32",
-    "hypnosis-imdb-list-full-oct25:175"
+    "hypnosis-imdb-list-full-oct25:188"
    ],
    "index_only": false,
    "local_only": false,
@@ -133075,7 +133868,7 @@ window.CATALOG = {
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:175",
+     "rid": "hypnosis-imdb-list-full-oct25:188",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Dracula (1979)",
      "identifiers": [
@@ -133209,7 +134002,7 @@ window.CATALOG = {
       664
      ]
     },
-    "hypnosis-imdb-list-full-oct25:175": {
+    "hypnosis-imdb-list-full-oct25:188": {
      "title": "Dracula",
      "year": "1979",
      "match_title": "Dracula",
@@ -134482,7 +135275,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "xla62ucxbx02u5:697",
-    "hypnosis-imdb-list-full-oct25:57"
+    "hypnosis-imdb-list-full-oct25:70"
    ],
    "index_only": false,
    "local_only": false,
@@ -134516,7 +135309,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:57",
+     "rid": "hypnosis-imdb-list-full-oct25:70",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Floricienta (2004–05)",
      "identifiers": [
@@ -134565,7 +135358,7 @@ window.CATALOG = {
       ]
      ]
     },
-    "hypnosis-imdb-list-full-oct25:57": {
+    "hypnosis-imdb-list-full-oct25:70": {
      "title": "Floricienta",
      "year": "2004–05",
      "match_title": "Floricienta",
@@ -135972,7 +136765,7 @@ window.CATALOG = {
     "xla62ucxbx02u5:708",
     "ig6qlxqxoxvcxla:702",
     "worldwide-hypnosis:537",
-    "hypnosis-imdb-list-full-oct25:80"
+    "hypnosis-imdb-list-full-oct25:93"
    ],
    "index_only": false,
    "local_only": false,
@@ -136091,7 +136884,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:80",
+     "rid": "hypnosis-imdb-list-full-oct25:93",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Looker (1981)",
      "identifiers": [
@@ -136199,7 +136992,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:80": {
+    "hypnosis-imdb-list-full-oct25:93": {
      "title": "Looker",
      "year": "1981",
      "match_title": "Looker",
@@ -142753,8 +143546,11 @@ window.CATALOG = {
    "confidence_flag": "Medium-high confidence",
    "summary": "A vampire draws college student Charlotte away from her boyfriend through erotic dreams and a hypnotic supernatural influence.",
    "character": "Charlotte",
-   "provenance": "",
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added",
    "note": "",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "movie",
    "categories": [
     "adult-hypnosis"
@@ -142763,20 +143559,82 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Embrace_of_the_Vampire"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Alyssa Milano: Embrace of the Vampire (1995)",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "xla62ucxbx02u5"
+    "xla62ucxbx02u5",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
-    "xla62ucxbx02u5:752"
+    "xla62ucxbx02u5:752",
+    "hypnosis-imdb-list-full-oct25:205"
    ],
    "index_only": false,
    "local_only": false,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "xla62ucxbx02u5:752",
+    "source": "xla62ucxbx02u5",
+    "label": "Embrace of the Vampire (1995)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "Embrace of the Vampire",
+    "subtitle": "",
+    "year": "1995",
+    "meta": "Film · United States · English",
+    "summary": "A vampire draws college student Charlotte away from her boyfriend through erotic dreams and a hypnotic supernatural influence.",
+    "character": "Charlotte",
+    "note": "",
+    "mechanism": "Erotic dream-thrall",
+    "confidence_flag": "Medium-high confidence",
+    "categories": [
+     "adult-hypnosis"
+    ],
+    "sources": [
+     {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Embrace_of_the_Vampire"
+     }
+    ],
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:205",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Embrace of the Vampire (1995)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Embrace of the Vampire",
+     "subtitle": "",
+     "year": "1995",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Alyssa Milano: Embrace of the Vampire (1995)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "xla62ucxbx02u5:752": {
      "t": "Embrace of the Vampire",
@@ -142797,6 +143655,24 @@ window.CATALOG = {
        "https://en.wikipedia.org/wiki/Embrace_of_the_Vampire"
       ]
      ]
+    },
+    "hypnosis-imdb-list-full-oct25:205": {
+     "title": "Embrace of the Vampire",
+     "year": "1995",
+     "match_title": "Embrace of the Vampire",
+     "match_year": "1995",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Alyssa Milano: Embrace of the Vampire (1995)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    },
    "watch_links": [
@@ -144339,8 +145215,11 @@ window.CATALOG = {
    "confidence_flag": "Low-medium confidence · recap-level evidence",
    "summary": "A recap reports that vampire Nick Knight hypnotizes a female police officer in the precinct to secure her agreement; stronger primary episode evidence remains needed.",
    "character": "Unnamed adult female police officer",
-   "provenance": "",
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added",
    "note": "",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "tv",
    "categories": [
     "adult-hypnosis",
@@ -144350,16 +145229,22 @@ window.CATALOG = {
     {
      "label": "Episode guide",
      "url": "http://www.iment.com/maida/tv/fk/fkseason3.htm"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Catherine Disher: Forever Knight (?)",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:763",
-    "ig6qlxqxoxvcxla:571"
+    "ig6qlxqxoxvcxla:571",
+    "hypnosis-imdb-list-full-oct25:242"
    ],
    "index_only": false,
    "local_only": false,
@@ -144416,6 +145301,35 @@ window.CATALOG = {
      "distinct_story": false,
      "index_title": "Forever Knight (1996)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:242",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Forever Knight (1996)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Forever Knight",
+     "subtitle": "",
+     "year": "1996",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Catherine Disher: Forever Knight (?)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -144446,6 +145360,24 @@ window.CATALOG = {
      "group": "Vampire hypnotherapist / therapist",
      "confidence": "Cataloged",
      "note": ""
+    },
+    "hypnosis-imdb-list-full-oct25:242": {
+     "title": "Forever Knight",
+     "year": "1996",
+     "match_title": "Forever Knight",
+     "match_year": "1996",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Catherine Disher: Forever Knight (?)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -144867,6 +145799,9 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "tv",
    "categories": [
     "adult-hypnosis",
@@ -144884,6 +145819,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/Plus_Belle_la_Vie"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Hélène Médigue: Plus Belle la Vie (**)",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [
@@ -144892,11 +145831,13 @@ window.CATALOG = {
    ],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:768",
-    "worldwide-hypnosis:687"
+    "worldwide-hypnosis:687",
+    "hypnosis-imdb-list-full-oct25:200"
    ],
    "index_only": false,
    "local_only": false,
@@ -144968,6 +145909,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:200",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Plus belle la vie (2008)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Plus belle la vie",
+     "subtitle": "",
+     "year": "2008",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Hélène Médigue: Plus Belle la Vie (**)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -145023,6 +145993,24 @@ window.CATALOG = {
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
      "match_title": "Plus belle la vie",
      "match_year": "2008"
+    },
+    "hypnosis-imdb-list-full-oct25:200": {
+     "title": "Plus belle la vie",
+     "year": "2008",
+     "match_title": "Plus belle la vie",
+     "match_year": "2008",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Hélène Médigue: Plus Belle la Vie (**)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -152491,7 +153479,7 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla:268",
     "worldwide-hypnosis:60",
     "mom-pregnancy:47",
-    "hypnosis-imdb-list-full-oct25:90"
+    "hypnosis-imdb-list-full-oct25:103"
    ],
    "index_only": false,
    "local_only": false,
@@ -152623,7 +153611,7 @@ window.CATALOG = {
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:90",
+     "rid": "hypnosis-imdb-list-full-oct25:103",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Amor en custodia (2005 onward)",
      "identifiers": [
@@ -152743,7 +153731,7 @@ window.CATALOG = {
      "pregnancy_outcome": "gives birth (twins in the Argentine version)",
      "pregnancy_note": "Corrected: the earlier sweep's “not pregnant” referred to the hypnotized woman; the card's own synopsis shows Paz and Juan Manuel raising twins (Argentina) or a son (Mexico)."
     },
-    "hypnosis-imdb-list-full-oct25:90": {
+    "hypnosis-imdb-list-full-oct25:103": {
      "title": "Amor en custodia",
      "year": "2005 onward",
      "match_title": "Amor en custodia",
@@ -153746,7 +154734,8 @@ window.CATALOG = {
     }
    ],
    "tags": [
-    "loose fit"
+    "loose fit",
+    "imdb-list-ls099930129"
    ],
    "kids_status": "unknown",
    "kids_together": "yes",
@@ -153796,6 +154785,10 @@ window.CATALOG = {
     {
      "label": "Wikipedia (season 3)",
      "url": "https://en.wikipedia.org/wiki/Stargate_SG-1_season_3"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Amanda Tapping: Stargate SG-1 (**); Rachel Hayward: Stargate SG-1 (s1e1)",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
@@ -153803,7 +154796,8 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "ig6qlxqxoxvcxla",
     "worldwide-hypnosis",
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:806",
@@ -153811,7 +154805,8 @@ window.CATALOG = {
     "ig6qlxqxoxvcxla:220",
     "ig6qlxqxoxvcxla:692",
     "worldwide-hypnosis:820",
-    "hypnosis-assault-loose:20"
+    "hypnosis-assault-loose:20",
+    "hypnosis-imdb-list-full-oct25:223"
    ],
    "index_only": false,
    "local_only": false,
@@ -154082,6 +155077,35 @@ window.CATALOG = {
      "fit_note": "Loose fit: control is by parasitic possession, not hypnosis; the conception is with the Goa'uld Apophis while she is controlled.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:223",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Stargate SG-1 (1998)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Stargate SG-1",
+     "subtitle": "",
+     "year": "1998",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Amanda Tapping: Stargate SG-1 (**); Rachel Hayward: Stargate SG-1 (s1e1)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -154291,6 +155315,24 @@ window.CATALOG = {
      "catalog_ids": [
       776
      ]
+    },
+    "hypnosis-imdb-list-full-oct25:223": {
+     "title": "Stargate SG-1",
+     "year": "1998",
+     "match_title": "Stargate SG-1",
+     "match_year": "1998",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Amanda Tapping: Stargate SG-1 (**); Rachel Hayward: Stargate SG-1 (s1e1)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    },
    "watch_links": [
@@ -165449,6 +166491,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "tv",
    "categories": [
     "human"
@@ -165461,16 +166506,22 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/77_Sunset_Strip"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Diane McBain: 77 Sunset Strip (s5e2)",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:875",
-    "worldwide-hypnosis:2"
+    "worldwide-hypnosis:2",
+    "hypnosis-imdb-list-full-oct25:219"
    ],
    "index_only": false,
    "local_only": false,
@@ -165540,6 +166591,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:219",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "77 Sunset Strip (1958–1964)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "77 Sunset Strip",
+     "subtitle": "",
+     "year": "1958–1964",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Diane McBain: 77 Sunset Strip (s5e2)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -165591,6 +166671,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:219": {
+     "title": "77 Sunset Strip",
+     "year": "1958–1964",
+     "match_title": "77 Sunset Strip",
+     "match_year": "1958–1964",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Diane McBain: 77 Sunset Strip (s5e2)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -168536,7 +169634,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:893",
     "worldwide-hypnosis:32",
-    "hypnosis-imdb-list-full-oct25:58"
+    "hypnosis-imdb-list-full-oct25:71"
    ],
    "index_only": false,
    "local_only": false,
@@ -168612,7 +169710,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:58",
+     "rid": "hypnosis-imdb-list-full-oct25:71",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Agents of S.H.I.E.L.D (2013–2020)",
      "identifiers": [
@@ -168695,7 +169793,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:58": {
+    "hypnosis-imdb-list-full-oct25:71": {
      "title": "Agents of S.H.I.E.L.D",
      "year": "2013–2020",
      "match_title": "Agents of S.H.I.E.L.D",
@@ -170101,6 +171199,9 @@ window.CATALOG = {
    "note": "Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "movie",
    "categories": [
     "medical",
@@ -170114,16 +171215,22 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Alice_%281990_film%29"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Mia Farrow: Alice (1990)",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:902",
-    "worldwide-hypnosis:34"
+    "worldwide-hypnosis:34",
+    "hypnosis-imdb-list-full-oct25:218"
    ],
    "index_only": false,
    "local_only": false,
@@ -170195,6 +171302,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:218",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Alice (1990)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Alice",
+     "subtitle": "",
+     "year": "1990",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Mia Farrow: Alice (1990)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -170248,6 +171384,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:218": {
+     "title": "Alice",
+     "year": "1990",
+     "match_title": "Alice",
+     "match_year": "1990",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Mia Farrow: Alice (1990)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    },
    "watch_links": [
@@ -170304,7 +171458,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:903",
     "worldwide-hypnosis:35",
-    "hypnosis-imdb-list-full-oct25:76"
+    "hypnosis-imdb-list-full-oct25:89"
    ],
    "index_only": false,
    "local_only": false,
@@ -170378,7 +171532,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:76",
+     "rid": "hypnosis-imdb-list-full-oct25:89",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Alice (2009 miniseries)",
      "identifiers": [
@@ -170458,7 +171612,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:76": {
+    "hypnosis-imdb-list-full-oct25:89": {
      "title": "Alice (2009 miniseries)",
      "year": "2009",
      "match_title": "Alice (2009 miniseries)",
@@ -170670,7 +171824,7 @@ window.CATALOG = {
      "url": "https://en.wikipedia.org/wiki/Aliens_in_the_Family"
     },
     {
-     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Julie Griffith: Aliens in the Family (s1e7)",
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Julie Griffith: Aliens in the Family (s1e7); Julie Dretzin: Aliens in the Family (s1e7)",
      "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
@@ -170683,7 +171837,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:905",
     "worldwide-hypnosis:36",
-    "hypnosis-imdb-list-full-oct25:112"
+    "hypnosis-imdb-list-full-oct25:125"
    ],
    "index_only": false,
    "local_only": false,
@@ -170759,7 +171913,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:112",
+     "rid": "hypnosis-imdb-list-full-oct25:125",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Aliens in the Family (1996)",
      "identifiers": [
@@ -170777,7 +171931,7 @@ window.CATALOG = {
      "categories": [],
      "sources": [
       {
-       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Julie Griffith: Aliens in the Family (s1e7)",
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Julie Griffith: Aliens in the Family (s1e7); Julie Dretzin: Aliens in the Family (s1e7)",
        "url": "https://www.imdb.com/list/ls099930129/"
       }
      ],
@@ -170842,7 +171996,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:112": {
+    "hypnosis-imdb-list-full-oct25:125": {
      "title": "Aliens in the Family",
      "year": "1996",
      "match_title": "Aliens in the Family",
@@ -170851,7 +172005,7 @@ window.CATALOG = {
      "categories": [],
      "sources": [
       {
-       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Julie Griffith: Aliens in the Family (s1e7)",
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Julie Griffith: Aliens in the Family (s1e7); Julie Dretzin: Aliens in the Family (s1e7)",
        "url": "https://www.imdb.com/list/ls099930129/"
       }
      ],
@@ -172149,7 +173303,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:913",
     "worldwide-hypnosis:40",
-    "hypnosis-imdb-list-full-oct25:88"
+    "hypnosis-imdb-list-full-oct25:101"
    ],
    "index_only": false,
    "local_only": false,
@@ -172221,7 +173375,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:88",
+     "rid": "hypnosis-imdb-list-full-oct25:101",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Alyas Robin Hood (2016–2017)",
      "identifiers": [
@@ -172300,7 +173454,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:88": {
+    "hypnosis-imdb-list-full-oct25:101": {
      "title": "Alyas Robin Hood",
      "year": "2016–2017",
      "match_title": "Alyas Robin Hood",
@@ -172940,7 +174094,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:917",
     "worldwide-hypnosis:859",
-    "hypnosis-imdb-list-full-oct25:89"
+    "hypnosis-imdb-list-full-oct25:102"
    ],
    "index_only": false,
    "local_only": false,
@@ -173014,7 +174168,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:89",
+     "rid": "hypnosis-imdb-list-full-oct25:102",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The Amazing Spider-Man (1977)",
      "identifiers": [
@@ -173095,7 +174249,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:89": {
+    "hypnosis-imdb-list-full-oct25:102": {
      "title": "The Amazing Spider-Man",
      "year": "1977",
      "match_title": "The Amazing Spider-Man",
@@ -174326,7 +175480,7 @@ window.CATALOG = {
     "xla62ucxbx02u5:925",
     "worldwide-hypnosis:62",
     "rich-wife-hypnosis:17",
-    "hypnosis-imdb-list-full-oct25:83"
+    "hypnosis-imdb-list-full-oct25:96"
    ],
    "index_only": false,
    "local_only": false,
@@ -174442,7 +175596,7 @@ window.CATALOG = {
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:83",
+     "rid": "hypnosis-imdb-list-full-oct25:96",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "An Angel for Satan (1966)",
      "identifiers": [
@@ -174557,7 +175711,7 @@ window.CATALOG = {
      "pregnancy_note": "no pregnancy for her in the cited plot sources",
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
     },
-    "hypnosis-imdb-list-full-oct25:83": {
+    "hypnosis-imdb-list-full-oct25:96": {
      "title": "An Angel for Satan",
      "year": "1966",
      "match_title": "An Angel for Satan",
@@ -175550,6 +176704,9 @@ window.CATALOG = {
    "note": "Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "tv",
    "categories": [
     "scifi",
@@ -175564,16 +176721,22 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Arrow_%28TV_series%29"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Willa Holland: Arrow (s4e22)",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:931",
-    "worldwide-hypnosis:80"
+    "worldwide-hypnosis:80",
+    "hypnosis-imdb-list-full-oct25:225"
    ],
    "index_only": false,
    "local_only": false,
@@ -175647,6 +176810,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:225",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Arrow (2012)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Arrow",
+     "subtitle": "",
+     "year": "2012",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Willa Holland: Arrow (s4e22)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -175702,6 +176894,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:225": {
+     "title": "Arrow",
+     "year": "2012",
+     "match_title": "Arrow",
+     "match_year": "2012",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Willa Holland: Arrow (s4e22)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    },
    "watch_links": [
@@ -176366,6 +177576,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "movie",
    "categories": [
     "scifi"
@@ -176378,16 +177591,22 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/At_the_Earth%27s_Core_%28film%29"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Caroline Munro: At the Earth's Core",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:936",
-    "worldwide-hypnosis:65"
+    "worldwide-hypnosis:65",
+    "hypnosis-imdb-list-full-oct25:213"
    ],
    "index_only": false,
    "local_only": false,
@@ -176457,6 +177676,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:213",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "At the Earth's Core (1976)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "At the Earth's Core",
+     "subtitle": "",
+     "year": "1976",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Caroline Munro: At the Earth's Core",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -176508,6 +177756,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:213": {
+     "title": "At the Earth's Core",
+     "year": "1976",
+     "match_title": "At the Earth's Core",
+     "match_year": "1976",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Caroline Munro: At the Earth's Core",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    },
    "watch_links": [
@@ -178223,6 +179489,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "movie",
    "categories": [
     "fantasy",
@@ -178240,16 +179509,22 @@ window.CATALOG = {
     {
      "label": "TV Tropes: Hypnotic Eyes",
      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoticEyes"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Elizabeth Peterson: Avengers Grimm; Justine Herron: Avengers Grimm",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:947",
-    "worldwide-hypnosis:101"
+    "worldwide-hypnosis:101",
+    "hypnosis-imdb-list-full-oct25:195"
    ],
    "index_only": false,
    "local_only": false,
@@ -178329,6 +179604,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:195",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Avengers Grimm (2015)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Avengers Grimm",
+     "subtitle": "",
+     "year": "2015",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Elizabeth Peterson: Avengers Grimm; Justine Herron: Avengers Grimm",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -178390,6 +179694,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:195": {
+     "title": "Avengers Grimm",
+     "year": "2015",
+     "match_title": "Avengers Grimm",
+     "match_year": "2015",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Elizabeth Peterson: Avengers Grimm; Justine Herron: Avengers Grimm",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    },
    "watch_links": [
@@ -182345,7 +183667,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:970",
     "worldwide-hypnosis:94",
-    "hypnosis-imdb-list-full-oct25:62"
+    "hypnosis-imdb-list-full-oct25:75"
    ],
    "index_only": false,
    "local_only": false,
@@ -182419,7 +183741,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:62",
+     "rid": "hypnosis-imdb-list-full-oct25:75",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Batwoman (2019)",
      "identifiers": [
@@ -182500,7 +183822,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:62": {
+    "hypnosis-imdb-list-full-oct25:75": {
      "title": "Batwoman",
      "year": "2019",
      "match_title": "Batwoman",
@@ -182934,7 +184256,7 @@ window.CATALOG = {
     "xla62ucxbx02u5:973",
     "ig6qlxqxoxvcxla:742",
     "worldwide-hypnosis:108",
-    "hypnosis-imdb-list-full-oct25:121"
+    "hypnosis-imdb-list-full-oct25:134"
    ],
    "index_only": false,
    "local_only": false,
@@ -183030,7 +184352,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:121",
+     "rid": "hypnosis-imdb-list-full-oct25:134",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Beauty and the Beast (1987)",
      "identifiers": [
@@ -183116,7 +184438,7 @@ window.CATALOG = {
      "pregnancy_note": "The hypnosis episode is S1 'Dark Spirit'; Catherine's pregnancy is a separate S3 arc.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:121": {
+    "hypnosis-imdb-list-full-oct25:134": {
      "title": "Beauty and the Beast",
      "year": "1987",
      "match_title": "Beauty and the Beast",
@@ -184246,7 +185568,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:980",
     "worldwide-hypnosis:109",
-    "hypnosis-imdb-list-full-oct25:104"
+    "hypnosis-imdb-list-full-oct25:117"
    ],
    "index_only": false,
    "local_only": false,
@@ -184320,7 +185642,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:104",
+     "rid": "hypnosis-imdb-list-full-oct25:117",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Beverly Hills 90210 (1990–2000)",
      "identifiers": [
@@ -184401,7 +185723,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:104": {
+    "hypnosis-imdb-list-full-oct25:117": {
      "title": "Beverly Hills 90210",
      "year": "1990–2000",
      "match_title": "Beverly Hills 90210",
@@ -190351,7 +191673,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1012",
     "agegap-marriage:9",
-    "hypnosis-imdb-list-full-oct25:140"
+    "hypnosis-imdb-list-full-oct25:153"
    ],
    "index_only": false,
    "local_only": false,
@@ -190451,7 +191773,7 @@ window.CATALOG = {
      "matched_by": "same title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:140",
+     "rid": "hypnosis-imdb-list-full-oct25:153",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The Bold and the Beautiful (1987–)",
      "identifiers": [
@@ -190525,7 +191847,7 @@ window.CATALOG = {
      ],
      "spg": "bonding"
     },
-    "hypnosis-imdb-list-full-oct25:140": {
+    "hypnosis-imdb-list-full-oct25:153": {
      "title": "The Bold and the Beautiful",
      "year": "1987–",
      "match_title": "The Bold and the Beautiful",
@@ -191132,6 +192454,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "movie",
    "categories": [
     "scifi",
@@ -191141,16 +192466,22 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/Brain_Twisters"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Farrah Forke: Brain Twisters",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1016",
-    "worldwide-hypnosis:138"
+    "worldwide-hypnosis:138",
+    "hypnosis-imdb-list-full-oct25:196"
    ],
    "index_only": false,
    "local_only": false,
@@ -191214,6 +192545,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:196",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Brain Twisters (1991)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Brain Twisters",
+     "subtitle": "",
+     "year": "1991",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Farrah Forke: Brain Twisters",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -191259,6 +192619,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:196": {
+     "title": "Brain Twisters",
+     "year": "1991",
+     "match_title": "Brain Twisters",
+     "match_year": "1991",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Farrah Forke: Brain Twisters",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    },
    "watch_links": [
@@ -192964,7 +194342,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1025",
     "worldwide-hypnosis:864",
-    "hypnosis-imdb-list-full-oct25:138"
+    "hypnosis-imdb-list-full-oct25:151"
    ],
    "index_only": false,
    "local_only": false,
@@ -193038,7 +194416,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:138",
+     "rid": "hypnosis-imdb-list-full-oct25:151",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The Brides of Fu Manchu (1966)",
      "identifiers": [
@@ -193119,7 +194497,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:138": {
+    "hypnosis-imdb-list-full-oct25:151": {
      "title": "The Brides of Fu Manchu",
      "year": "1966",
      "match_title": "The Brides of Fu Manchu",
@@ -193890,7 +195268,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1030",
     "worldwide-hypnosis:151",
-    "hypnosis-imdb-list-full-oct25:179"
+    "hypnosis-imdb-list-full-oct25:192"
    ],
    "index_only": false,
    "local_only": false,
@@ -193962,7 +195340,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:179",
+     "rid": "hypnosis-imdb-list-full-oct25:192",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Burke's Law (1963–1966)",
      "identifiers": [
@@ -194041,7 +195419,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:179": {
+    "hypnosis-imdb-list-full-oct25:192": {
      "title": "Burke's Law",
      "year": "1963–1966",
      "match_title": "Burke's Law",
@@ -202278,7 +203656,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1073",
     "worldwide-hypnosis:198",
-    "hypnosis-imdb-list-full-oct25:64"
+    "hypnosis-imdb-list-full-oct25:77"
    ],
    "index_only": false,
    "local_only": false,
@@ -202352,7 +203730,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:64",
+     "rid": "hypnosis-imdb-list-full-oct25:77",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Continuum (2012–2015)",
      "identifiers": [
@@ -202433,7 +203811,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:64": {
+    "hypnosis-imdb-list-full-oct25:77": {
      "title": "Continuum",
      "year": "2012–2015",
      "match_title": "Continuum",
@@ -204277,7 +205655,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1083",
     "worldwide-hypnosis:200",
-    "hypnosis-imdb-list-full-oct25:78"
+    "hypnosis-imdb-list-full-oct25:91"
    ],
    "index_only": false,
    "local_only": false,
@@ -204349,7 +205727,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:78",
+     "rid": "hypnosis-imdb-list-full-oct25:91",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Creature of Destruction (1967)",
      "identifiers": [
@@ -204428,7 +205806,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:78": {
+    "hypnosis-imdb-list-full-oct25:91": {
      "title": "Creature of Destruction",
      "year": "1967",
      "match_title": "Creature of Destruction",
@@ -208253,7 +209631,7 @@ window.CATALOG = {
     "xla62ucxbx02u5:1106",
     "worldwide-hypnosis:239",
     "mother-kids-hypnosis:13",
-    "hypnosis-imdb-list-full-oct25:131"
+    "hypnosis-imdb-list-full-oct25:144"
    ],
    "index_only": false,
    "local_only": false,
@@ -208372,7 +209750,7 @@ window.CATALOG = {
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:131",
+     "rid": "hypnosis-imdb-list-full-oct25:144",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Daphne & Velma (2018)",
      "identifiers": [
@@ -208491,7 +209869,7 @@ window.CATALOG = {
      "pregnancy_note": "not pregnant before, during or after the trance in the cited plot sources; no pregnancy by the end",
      "provenance": "Mother-hypnotized-in-front-of-her-children research pass (30 Sep 2026): worldwide search (Mental Block wiki, Wikipedia/de/ja episode tables, TV Tropes, fan wikis, soap and Indian-serial recap sites); strict hypnosis, mesmerism, hypnotic trance or hypnosis-like devices only; spirit/demonic/black-magic possession excluded; adult mothers only; the child must see her hypnotized or in the trance; no title where children witness sexual content."
     },
-    "hypnosis-imdb-list-full-oct25:131": {
+    "hypnosis-imdb-list-full-oct25:144": {
      "title": "Daphne & Velma",
      "year": "2018",
      "match_title": "Daphne & Velma",
@@ -209402,7 +210780,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1112",
     "worldwide-hypnosis:229",
-    "hypnosis-imdb-list-full-oct25:59"
+    "hypnosis-imdb-list-full-oct25:72"
    ],
    "index_only": false,
    "local_only": false,
@@ -209478,7 +210856,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:59",
+     "rid": "hypnosis-imdb-list-full-oct25:72",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Dark Shadows (1991)",
      "identifiers": [
@@ -209561,7 +210939,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:59": {
+    "hypnosis-imdb-list-full-oct25:72": {
      "title": "Dark Shadows",
      "year": "1991",
      "match_title": "Dark Shadows",
@@ -210906,7 +212284,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1121",
     "worldwide-hypnosis:230",
-    "hypnosis-imdb-list-full-oct25:42"
+    "hypnosis-imdb-list-full-oct25:55"
    ],
    "index_only": false,
    "local_only": false,
@@ -210980,7 +212358,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:42",
+     "rid": "hypnosis-imdb-list-full-oct25:55",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Days of Our Lives (1965–present)",
      "identifiers": [
@@ -211061,7 +212439,7 @@ window.CATALOG = {
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:42": {
+    "hypnosis-imdb-list-full-oct25:55": {
      "title": "Days of Our Lives",
      "year": "1965–present",
      "match_title": "Days of Our Lives",
@@ -211841,7 +213219,7 @@ window.CATALOG = {
     "hypnosis-assault:7",
     "round2:1",
     "wife-hypnosis-oct15:48",
-    "hypnosis-imdb-list-full-oct25:133"
+    "hypnosis-imdb-list-full-oct25:146"
    ],
    "index_only": false,
    "local_only": false,
@@ -212173,7 +213551,7 @@ window.CATALOG = {
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:133",
+     "rid": "hypnosis-imdb-list-full-oct25:146",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Dead Man's Gun (1997–1999)",
      "identifiers": [
@@ -212469,7 +213847,7 @@ window.CATALOG = {
      "already_married": "yes",
      "already_married_note": "Yes — husband: her husband"
     },
-    "hypnosis-imdb-list-full-oct25:133": {
+    "hypnosis-imdb-list-full-oct25:146": {
      "title": "Dead Man's Gun",
      "year": "1997–1999",
      "match_title": "Dead Man's Gun",
@@ -213143,7 +214521,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1129",
     "worldwide-hypnosis:253",
-    "hypnosis-imdb-list-full-oct25:44"
+    "hypnosis-imdb-list-full-oct25:57"
    ],
    "index_only": false,
    "local_only": false,
@@ -213215,7 +214593,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:44",
+     "rid": "hypnosis-imdb-list-full-oct25:57",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Demon Knight (1995)",
      "identifiers": [
@@ -213294,7 +214672,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:44": {
+    "hypnosis-imdb-list-full-oct25:57": {
      "title": "Demon Knight",
      "year": "1995",
      "match_title": "Demon Knight",
@@ -213765,7 +215143,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1132",
     "worldwide-hypnosis:254",
-    "hypnosis-imdb-list-full-oct25:69"
+    "hypnosis-imdb-list-full-oct25:82"
    ],
    "index_only": false,
    "local_only": false,
@@ -213839,7 +215217,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:69",
+     "rid": "hypnosis-imdb-list-full-oct25:82",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Department S (1969–1970)",
      "identifiers": [
@@ -213920,7 +215298,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:69": {
+    "hypnosis-imdb-list-full-oct25:82": {
      "title": "Department S",
      "year": "1969–1970",
      "match_title": "Department S",
@@ -216653,7 +218031,7 @@ window.CATALOG = {
     "xla62ucxbx02u5:1142",
     "ig6qlxqxoxvcxla:361",
     "worldwide-hypnosis:256",
-    "hypnosis-imdb-list-full-oct25:176"
+    "hypnosis-imdb-list-full-oct25:189"
    ],
    "index_only": false,
    "local_only": false,
@@ -216749,7 +218127,7 @@ window.CATALOG = {
      "matched_by": "same title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:176",
+     "rid": "hypnosis-imdb-list-full-oct25:189",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Diagnosis: Murder (1993–2001)",
      "identifiers": [
@@ -216810,7 +218188,7 @@ window.CATALOG = {
      "confidence": "Near-miss",
      "note": ""
     },
-    "hypnosis-imdb-list-full-oct25:176": {
+    "hypnosis-imdb-list-full-oct25:189": {
      "title": "Diagnosis: Murder",
      "year": "1993–2001",
      "match_title": "Diagnosis: Murder",
@@ -219801,6 +221179,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "Suzanne is a widowed mother; no pregnancy in the plot sources.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "hypnotist": "dentist Frank",
    "gain_motive": [
     "love"
@@ -219822,18 +221203,24 @@ window.CATALOG = {
     {
      "label": "Fulvue Drive-in review",
      "url": "https://fulvuedrive-in.com/review/11304/Don+t+Go+Breaking+My+Heart+1999+MVD+Visual+DVD+"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Jenny Seagrove: Don't Go Breaking My Heart",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "hypnotized-love",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1156",
     "hypnotized-love:8",
-    "rich-wife-hypnosis:10"
+    "rich-wife-hypnosis:10",
+    "hypnosis-imdb-list-full-oct25:198"
    ],
    "index_only": false,
    "local_only": false,
@@ -219950,6 +221337,35 @@ window.CATALOG = {
      "kids_note": "1 son",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:198",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Don't Go Breaking My Heart (1999)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Don't Go Breaking My Heart",
+     "subtitle": "",
+     "year": "1999",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Jenny Seagrove: Don't Go Breaking My Heart",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -220041,6 +221457,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "no pregnancy for her in the cited plot sources",
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "hypnosis-imdb-list-full-oct25:198": {
+     "title": "Don't Go Breaking My Heart",
+     "year": "1999",
+     "match_title": "Don't Go Breaking My Heart",
+     "match_year": "1999",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Jenny Seagrove: Don't Go Breaking My Heart",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -221670,7 +223104,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1165",
     "worldwide-hypnosis:273",
-    "hypnosis-imdb-list-full-oct25:174"
+    "hypnosis-imdb-list-full-oct25:187"
    ],
    "index_only": false,
    "local_only": false,
@@ -221742,7 +223176,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:174",
+     "rid": "hypnosis-imdb-list-full-oct25:187",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Dracula 2000",
      "identifiers": [
@@ -221821,7 +223255,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:174": {
+    "hypnosis-imdb-list-full-oct25:187": {
      "title": "Dracula 2000",
      "year": "2000",
      "match_title": "Dracula 2000",
@@ -223229,7 +224663,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1174",
     "worldwide-hypnosis:303",
-    "hypnosis-imdb-list-full-oct25:173"
+    "hypnosis-imdb-list-full-oct25:186"
    ],
    "index_only": false,
    "local_only": false,
@@ -223311,7 +224745,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:173",
+     "rid": "hypnosis-imdb-list-full-oct25:186",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Dracula: Dead and Loving It (1995)",
      "identifiers": [
@@ -223400,7 +224834,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:173": {
+    "hypnosis-imdb-list-full-oct25:186": {
      "title": "Dracula: Dead and Loving It",
      "year": "1995",
      "match_title": "Dracula: Dead and Loving It",
@@ -229645,7 +231079,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1207",
     "worldwide-hypnosis:328",
-    "hypnosis-imdb-list-full-oct25:84"
+    "hypnosis-imdb-list-full-oct25:97"
    ],
    "index_only": false,
    "local_only": false,
@@ -229721,7 +231155,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:84",
+     "rid": "hypnosis-imdb-list-full-oct25:97",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Electra Woman and Dyna Girl (1976–1977)",
      "identifiers": [
@@ -229804,7 +231238,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:84": {
+    "hypnosis-imdb-list-full-oct25:97": {
      "title": "Electra Woman and Dyna Girl",
      "year": "1976–1977",
      "match_title": "Electra Woman and Dyna Girl",
@@ -231962,7 +233396,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1220",
     "worldwide-hypnosis:330",
-    "hypnosis-imdb-list-full-oct25:171"
+    "hypnosis-imdb-list-full-oct25:184"
    ],
    "index_only": false,
    "local_only": false,
@@ -232034,7 +233468,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:171",
+     "rid": "hypnosis-imdb-list-full-oct25:184",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Evil Aliens (2005)",
      "identifiers": [
@@ -232113,7 +233547,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:171": {
+    "hypnosis-imdb-list-full-oct25:184": {
      "title": "Evil Aliens",
      "year": "2005",
      "match_title": "Evil Aliens",
@@ -233869,7 +235303,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1230",
     "kids-pregnant-again:65",
-    "hypnosis-imdb-list-full-oct25:86"
+    "hypnosis-imdb-list-full-oct25:99"
    ],
    "index_only": false,
    "local_only": false,
@@ -233944,7 +235378,7 @@ window.CATALOG = {
      "matched_by": "same title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:86",
+     "rid": "hypnosis-imdb-list-full-oct25:99",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Falling Skies (2015)",
      "identifiers": [
@@ -233995,7 +235429,7 @@ window.CATALOG = {
       "mom-pregnancy"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:86": {
+    "hypnosis-imdb-list-full-oct25:99": {
      "title": "Falling Skies",
      "year": "2015",
      "match_title": "Falling Skies",
@@ -235854,6 +237288,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "movie",
    "categories": [
     "fantasy",
@@ -235868,16 +237305,22 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Firewalker_%28film%29"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Melody Anderson: Firewalker",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1241",
-    "worldwide-hypnosis:360"
+    "worldwide-hypnosis:360",
+    "hypnosis-imdb-list-full-oct25:202"
    ],
    "index_only": false,
    "local_only": false,
@@ -235951,6 +237394,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:202",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Firewalker (1986)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Firewalker",
+     "subtitle": "",
+     "year": "1986",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Melody Anderson: Firewalker",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -236006,6 +237478,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:202": {
+     "title": "Firewalker",
+     "year": "1986",
+     "match_title": "Firewalker",
+     "match_year": "1986",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Melody Anderson: Firewalker",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    },
    "watch_links": [
@@ -241126,7 +242616,7 @@ window.CATALOG = {
     "xla62ucxbx02u5:1265",
     "worldwide-hypnosis:380",
     "mother-kids-hypnosis:28",
-    "hypnosis-imdb-list-full-oct25:48"
+    "hypnosis-imdb-list-full-oct25:61"
    ],
    "index_only": false,
    "local_only": false,
@@ -241260,7 +242750,7 @@ window.CATALOG = {
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:48",
+     "rid": "hypnosis-imdb-list-full-oct25:61",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Fuller House (2016–2020)",
      "identifiers": [
@@ -241395,7 +242885,7 @@ window.CATALOG = {
      ],
      "provenance": "Mother-hypnotized-in-front-of-her-children research pass (30 Sep 2026): worldwide search (Mental Block wiki, Wikipedia/de/ja episode tables, TV Tropes, fan wikis, soap and Indian-serial recap sites); strict hypnosis, mesmerism, hypnotic trance or hypnosis-like devices only; spirit/demonic/black-magic possession excluded; adult mothers only; the child must see her hypnotized or in the trance; no title where children witness sexual content."
     },
-    "hypnosis-imdb-list-full-oct25:48": {
+    "hypnosis-imdb-list-full-oct25:61": {
      "title": "Fuller House",
      "year": "2016–2020",
      "match_title": "Fuller House",
@@ -243827,7 +245317,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1280",
     "worldwide-hypnosis:381",
-    "hypnosis-imdb-list-full-oct25:82"
+    "hypnosis-imdb-list-full-oct25:95"
    ],
    "index_only": false,
    "local_only": false,
@@ -243899,7 +245389,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:82",
+     "rid": "hypnosis-imdb-list-full-oct25:95",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "General Hospital (1963–present)",
      "identifiers": [
@@ -243978,7 +245468,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:82": {
+    "hypnosis-imdb-list-full-oct25:95": {
      "title": "General Hospital",
      "year": "1963–present",
      "match_title": "General Hospital",
@@ -244685,7 +246175,7 @@ window.CATALOG = {
      "url": "https://the-jh-movie-collection-official.fandom.com/wiki/George_of_the_Jungle_2"
     },
     {
-     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Julie Benz: George of the Jungle 2; Chelsea Gibb: George of the Jungle 2; Kirstie Hutton: George of the Jungle 2",
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Julie Benz: George of the Jungle 2; Chelsea Gibb: George of the Jungle 2; Kirstie Hutton: George of the Jungle 2; Kelly Miracco: George of the Jungle 2",
      "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
@@ -244700,7 +246190,7 @@ window.CATALOG = {
     "xla62ucxbx02u5:1285",
     "ig6qlxqxoxvcxla:150",
     "worldwide-hypnosis:382",
-    "hypnosis-imdb-list-full-oct25:56"
+    "hypnosis-imdb-list-full-oct25:69"
    ],
    "index_only": false,
    "local_only": false,
@@ -244805,7 +246295,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:56",
+     "rid": "hypnosis-imdb-list-full-oct25:69",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "George of the Jungle 2 (2003)",
      "identifiers": [
@@ -244823,7 +246313,7 @@ window.CATALOG = {
      "categories": [],
      "sources": [
       {
-       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Julie Benz: George of the Jungle 2; Chelsea Gibb: George of the Jungle 2; Kirstie Hutton: George of the Jungle 2",
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Julie Benz: George of the Jungle 2; Chelsea Gibb: George of the Jungle 2; Kirstie Hutton: George of the Jungle 2; Kelly Miracco: George of the Jungle 2",
        "url": "https://www.imdb.com/list/ls099930129/"
       }
      ],
@@ -244911,7 +246401,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:56": {
+    "hypnosis-imdb-list-full-oct25:69": {
      "title": "George of the Jungle 2",
      "year": "2003",
      "match_title": "George of the Jungle 2",
@@ -244920,7 +246410,7 @@ window.CATALOG = {
      "categories": [],
      "sources": [
       {
-       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Julie Benz: George of the Jungle 2; Chelsea Gibb: George of the Jungle 2; Kirstie Hutton: George of the Jungle 2",
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Julie Benz: George of the Jungle 2; Chelsea Gibb: George of the Jungle 2; Kirstie Hutton: George of the Jungle 2; Kelly Miracco: George of the Jungle 2",
        "url": "https://www.imdb.com/list/ls099930129/"
       }
      ],
@@ -245649,6 +247139,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "tv",
    "categories": [
     "vampire"
@@ -245661,16 +247154,22 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Ghostbusters_%281986_TV_series%29"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Sigourney Weaver: Ghostbusters",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1290",
-    "worldwide-hypnosis:404"
+    "worldwide-hypnosis:404",
+    "hypnosis-imdb-list-full-oct25:237"
    ],
    "index_only": false,
    "local_only": false,
@@ -245740,6 +247239,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:237",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Ghostbusters (1986)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Ghostbusters",
+     "subtitle": "",
+     "year": "1986",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Sigourney Weaver: Ghostbusters",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -245791,6 +247319,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:237": {
+     "title": "Ghostbusters",
+     "year": "1986",
+     "match_title": "Ghostbusters",
+     "match_year": "1986",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Sigourney Weaver: Ghostbusters",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -245808,6 +247354,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "movie",
    "categories": [
     "fantasy",
@@ -245817,16 +247366,22 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/Ghoulies"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Lisa Pelikan: Ghoulies",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1291",
-    "worldwide-hypnosis:413"
+    "worldwide-hypnosis:413",
+    "hypnosis-imdb-list-full-oct25:221"
    ],
    "index_only": false,
    "local_only": false,
@@ -245890,6 +247445,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:221",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Ghoulies (1985)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Ghoulies",
+     "subtitle": "",
+     "year": "1985",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Lisa Pelikan: Ghoulies",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -245935,6 +247519,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:221": {
+     "title": "Ghoulies",
+     "year": "1985",
+     "match_title": "Ghoulies",
+     "match_year": "1985",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Lisa Pelikan: Ghoulies",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    },
    "watch_links": [
@@ -247900,7 +249502,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1302",
     "worldwide-hypnosis:402",
-    "hypnosis-imdb-list-full-oct25:169"
+    "hypnosis-imdb-list-full-oct25:182"
    ],
    "index_only": false,
    "local_only": false,
@@ -247972,7 +249574,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:169",
+     "rid": "hypnosis-imdb-list-full-oct25:182",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Gran Hotel (2011–2013)",
      "identifiers": [
@@ -248051,7 +249653,7 @@ window.CATALOG = {
      "pregnancy_note": "Alicia is the woman hypnotized and programmed; Sofía's pregnancy is a separate storyline.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:169": {
+    "hypnosis-imdb-list-full-oct25:182": {
      "title": "Gran Hotel",
      "year": "2011–2013",
      "match_title": "Gran Hotel",
@@ -253118,7 +254720,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1327",
     "worldwide-hypnosis:424",
-    "hypnosis-imdb-list-full-oct25:163"
+    "hypnosis-imdb-list-full-oct25:176"
    ],
    "index_only": false,
    "local_only": false,
@@ -253190,7 +254792,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:163",
+     "rid": "hypnosis-imdb-list-full-oct25:176",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Hawaii Five-O (1968–1980)",
      "identifiers": [
@@ -253269,7 +254871,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:163": {
+    "hypnosis-imdb-list-full-oct25:176": {
      "title": "Hawaii Five-O",
      "year": "1968–1980",
      "match_title": "Hawaii Five-O",
@@ -253368,7 +254970,7 @@ window.CATALOG = {
     "xla62ucxbx02u5:1328",
     "worldwide-hypnosis:421",
     "hypno-leftovers:11",
-    "hypnosis-imdb-list-full-oct25:118"
+    "hypnosis-imdb-list-full-oct25:131"
    ],
    "index_only": false,
    "local_only": false,
@@ -253502,7 +255104,7 @@ window.CATALOG = {
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:118",
+     "rid": "hypnosis-imdb-list-full-oct25:131",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Health Nutz (2011–2013)",
      "identifiers": [
@@ -253635,7 +255237,7 @@ window.CATALOG = {
       }
      ]
     },
-    "hypnosis-imdb-list-full-oct25:118": {
+    "hypnosis-imdb-list-full-oct25:131": {
      "title": "Health Nutz",
      "year": "2011–2013",
      "match_title": "Health Nutz",
@@ -253864,6 +255466,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "movie",
    "categories": [
     "scifi",
@@ -253873,16 +255478,22 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/Heatseeker"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Tina Cote: Heatseeker",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1330",
-    "worldwide-hypnosis:436"
+    "worldwide-hypnosis:436",
+    "hypnosis-imdb-list-full-oct25:239"
    ],
    "index_only": false,
    "local_only": false,
@@ -253946,6 +255557,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:239",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Heatseeker (1995)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Heatseeker",
+     "subtitle": "",
+     "year": "1995",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Tina Cote: Heatseeker",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -253991,6 +255631,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:239": {
+     "title": "Heatseeker",
+     "year": "1995",
+     "match_title": "Heatseeker",
+     "match_year": "1995",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Tina Cote: Heatseeker",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    },
    "watch_links": [
@@ -258470,7 +260128,7 @@ window.CATALOG = {
     "xla62ucxbx02u5:1355",
     "ig6qlxqxoxvcxla:126",
     "worldwide-hypnosis:460",
-    "hypnosis-imdb-list-full-oct25:67"
+    "hypnosis-imdb-list-full-oct25:80"
    ],
    "index_only": false,
    "local_only": false,
@@ -258575,7 +260233,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:67",
+     "rid": "hypnosis-imdb-list-full-oct25:80",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "How to Be Very, Very Popular (1955)",
      "identifiers": [
@@ -258680,7 +260338,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:67": {
+    "hypnosis-imdb-list-full-oct25:80": {
      "title": "How to Be Very, Very Popular",
      "year": "1955",
      "match_title": "How to Be Very, Very Popular",
@@ -259211,7 +260869,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1358",
     "worldwide-hypnosis:446",
-    "hypnosis-imdb-list-full-oct25:92"
+    "hypnosis-imdb-list-full-oct25:105"
    ],
    "index_only": false,
    "local_only": false,
@@ -259283,7 +260941,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:92",
+     "rid": "hypnosis-imdb-list-full-oct25:105",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Hunter (1977)",
      "identifiers": [
@@ -259362,7 +261020,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:92": {
+    "hypnosis-imdb-list-full-oct25:105": {
      "title": "Hunter",
      "year": "1977",
      "match_title": "Hunter",
@@ -260814,6 +262472,9 @@ window.CATALOG = {
    "note": "Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "tv",
    "categories": [
     "scifi",
@@ -260828,16 +262489,22 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/The_Immortal_%282000_TV_series%29"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Sarah Deakins: The Immortal (s1e9); April Telek: The Immortal (**)",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1368",
-    "worldwide-hypnosis:890"
+    "worldwide-hypnosis:890",
+    "hypnosis-imdb-list-full-oct25:241"
    ],
    "index_only": false,
    "local_only": false,
@@ -260911,6 +262578,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:241",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "The Immortal (2000)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Immortal",
+     "subtitle": "",
+     "year": "2000",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Sarah Deakins: The Immortal (s1e9); April Telek: The Immortal (**)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -260966,6 +262662,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:241": {
+     "title": "The Immortal",
+     "year": "2000",
+     "match_title": "The Immortal",
+     "match_year": "2000",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Sarah Deakins: The Immortal (s1e9); April Telek: The Immortal (**)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    },
    "watch_links": [
@@ -264455,7 +266169,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1387",
     "worldwide-hypnosis:911",
-    "hypnosis-imdb-list-full-oct25:151"
+    "hypnosis-imdb-list-full-oct25:164"
    ],
    "index_only": false,
    "local_only": false,
@@ -264527,7 +266241,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:151",
+     "rid": "hypnosis-imdb-list-full-oct25:164",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The Invisible Man (2000–2002)",
      "identifiers": [
@@ -264606,7 +266320,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:151": {
+    "hypnosis-imdb-list-full-oct25:164": {
      "title": "The Invisible Man",
      "year": "2000–2002",
      "match_title": "The Invisible Man",
@@ -266263,6 +267977,9 @@ window.CATALOG = {
    "note": "Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "tv",
    "categories": [
     "love",
@@ -266276,16 +267993,22 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Jack_of_All_Trades_%28TV_series%29"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Angela Marie Dotchin: Jack of All Trades (s2e4)",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1397",
-    "worldwide-hypnosis:472"
+    "worldwide-hypnosis:472",
+    "hypnosis-imdb-list-full-oct25:235"
    ],
    "index_only": false,
    "local_only": false,
@@ -266357,6 +268080,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:235",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Jack of All Trades (2000)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Jack of All Trades",
+     "subtitle": "",
+     "year": "2000",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Angela Marie Dotchin: Jack of All Trades (s2e4)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -266410,6 +268162,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:235": {
+     "title": "Jack of All Trades",
+     "year": "2000",
+     "match_title": "Jack of All Trades",
+     "match_year": "2000",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Angela Marie Dotchin: Jack of All Trades (s2e4)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -266427,6 +268197,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "kids_status": "no",
    "kids_note": "none",
    "kids_together": "no",
@@ -266454,18 +268227,24 @@ window.CATALOG = {
     {
      "label": "TV Tropes: Hypnotize the Captive",
      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnotizeTheCaptive"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Judi Meredith: Jack the Giant Killer",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "royal-hypnosis"
+    "royal-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1398",
     "worldwide-hypnosis:1069",
-    "royal-hypnosis:4"
+    "royal-hypnosis:4",
+    "hypnosis-imdb-list-full-oct25:204"
    ],
    "index_only": false,
    "local_only": false,
@@ -266578,6 +268357,35 @@ window.CATALOG = {
      "already_married_note": "Princess Elaine of Cornwall is unmarried; Pendragon wants the throne of Cornwall with Elaine at his side and hypnotizes her (turning her into a witch)",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:204",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Jack the Giant Killer (1962)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Jack the Giant Killer",
+     "subtitle": "",
+     "year": "1962",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Judi Meredith: Jack the Giant Killer",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -266661,6 +268469,24 @@ window.CATALOG = {
      "already_married": "no",
      "already_married_note": "Princess Elaine of Cornwall is unmarried; Pendragon wants the throne of Cornwall with Elaine at his side and hypnotizes her (turning her into a witch)",
      "evidence": "3 sources (Wikipedia, Mental Block, TV Tropes Hypnotize the Captive)"
+    },
+    "hypnosis-imdb-list-full-oct25:204": {
+     "title": "Jack the Giant Killer",
+     "year": "1962",
+     "match_title": "Jack the Giant Killer",
+     "match_year": "1962",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Judi Meredith: Jack the Giant Killer",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    },
    "watch_links": [
@@ -266999,6 +268825,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "movie",
    "categories": [
     "scifi",
@@ -267023,16 +268852,22 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/Jane_Doe%3A_How_to_Fire_Your_Boss"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Lea Thompson: Jane Doe: How to Fire Your Boss",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1401",
-    "worldwide-hypnosis:473"
+    "worldwide-hypnosis:473",
+    "hypnosis-imdb-list-full-oct25:217"
    ],
    "index_only": false,
    "local_only": false,
@@ -267106,6 +268941,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": true,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:217",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Jane Doe: How to Fire Your Boss (2007)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Jane Doe: How to Fire Your Boss",
+     "subtitle": "",
+     "year": "2007",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Lea Thompson: Jane Doe: How to Fire Your Boss",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -267162,6 +269026,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:217": {
+     "title": "Jane Doe: How to Fire Your Boss",
+     "year": "2007",
+     "match_title": "Jane Doe: How to Fire Your Boss",
+     "match_year": "2007",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Lea Thompson: Jane Doe: How to Fire Your Boss",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -272151,6 +274033,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "movie",
    "categories": [
     "scifi",
@@ -272161,16 +274046,22 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/Kenneyville"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Vanessa Broze: Kenneyville; Kelsey Oluk: Kenneyville",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1429",
-    "worldwide-hypnosis:502"
+    "worldwide-hypnosis:502",
+    "hypnosis-imdb-list-full-oct25:207"
    ],
    "index_only": false,
    "local_only": false,
@@ -272236,6 +274127,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:207",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Kenneyville (2011)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Kenneyville",
+     "subtitle": "",
+     "year": "2011",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Vanessa Broze: Kenneyville; Kelsey Oluk: Kenneyville",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -272283,6 +274203,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:207": {
+     "title": "Kenneyville",
+     "year": "2011",
+     "match_title": "Kenneyville",
+     "match_year": "2011",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Vanessa Broze: Kenneyville; Kelsey Oluk: Kenneyville",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -272945,7 +274883,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1433",
     "worldwide-hypnosis:919",
-    "hypnosis-imdb-list-full-oct25:178"
+    "hypnosis-imdb-list-full-oct25:191"
    ],
    "index_only": false,
    "local_only": false,
@@ -273017,7 +274955,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:178",
+     "rid": "hypnosis-imdb-list-full-oct25:191",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The Killer Eye (1999)",
      "identifiers": [
@@ -273096,7 +275034,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:178": {
+    "hypnosis-imdb-list-full-oct25:191": {
      "title": "The Killer Eye",
      "year": "1999",
      "match_title": "The Killer Eye",
@@ -276137,7 +278075,7 @@ window.CATALOG = {
     "xla62ucxbx02u5:1449",
     "india-catalog:11",
     "worldwide-hypnosis:509",
-    "hypnosis-imdb-list-full-oct25:65"
+    "hypnosis-imdb-list-full-oct25:78"
    ],
    "index_only": false,
    "local_only": false,
@@ -276235,7 +278173,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:65",
+     "rid": "hypnosis-imdb-list-full-oct25:78",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Krishna Arjun (1998–2003)",
      "identifiers": [
@@ -276332,7 +278270,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:65": {
+    "hypnosis-imdb-list-full-oct25:78": {
      "title": "Krishna Arjun",
      "year": "1998–2003",
      "match_title": "Krishna Arjun",
@@ -282143,7 +284081,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1477",
     "worldwide-hypnosis:533",
-    "hypnosis-imdb-list-full-oct25:77"
+    "hypnosis-imdb-list-full-oct25:90"
    ],
    "index_only": false,
    "local_only": false,
@@ -282215,7 +284153,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:77",
+     "rid": "hypnosis-imdb-list-full-oct25:90",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Lazer Team (2015)",
      "identifiers": [
@@ -282294,7 +284232,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:77": {
+    "hypnosis-imdb-list-full-oct25:90": {
      "title": "Lazer Team",
      "year": "2015",
      "match_title": "Lazer Team",
@@ -284467,7 +286405,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1488",
     "worldwide-hypnosis:913",
-    "hypnosis-imdb-list-full-oct25:136"
+    "hypnosis-imdb-list-full-oct25:149"
    ],
    "index_only": false,
    "local_only": false,
@@ -284539,7 +286477,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:136",
+     "rid": "hypnosis-imdb-list-full-oct25:149",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The Littlest Hobo (1979–1985)",
      "identifiers": [
@@ -284618,7 +286556,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:136": {
+    "hypnosis-imdb-list-full-oct25:149": {
      "title": "The Littlest Hobo",
      "year": "1979–1985",
      "match_title": "The Littlest Hobo",
@@ -284791,6 +286729,9 @@ window.CATALOG = {
    "note": "Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "tv",
    "categories": [
     "scifi",
@@ -284804,16 +286745,22 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Logan%27s_Run_%28TV_series%29"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Heather Menzies: Logan's Run (1978) (**)",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1490",
-    "worldwide-hypnosis:535"
+    "worldwide-hypnosis:535",
+    "hypnosis-imdb-list-full-oct25:203"
    ],
    "index_only": false,
    "local_only": false,
@@ -284885,6 +286832,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:203",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Logan's Run (1977–1978)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Logan's Run",
+     "subtitle": "",
+     "year": "1977–1978",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Heather Menzies: Logan's Run (1978) (**)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -284938,6 +286914,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:203": {
+     "title": "Logan's Run",
+     "year": "1977–1978",
+     "match_title": "Logan's Run",
+     "match_year": "1977–1978",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Heather Menzies: Logan's Run (1978) (**)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -285929,7 +287923,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1497",
     "worldwide-hypnosis:914",
-    "hypnosis-imdb-list-full-oct25:135"
+    "hypnosis-imdb-list-full-oct25:148"
    ],
    "index_only": false,
    "local_only": false,
@@ -286003,7 +287997,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:135",
+     "rid": "hypnosis-imdb-list-full-oct25:148",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The Lost Skeleton of Cadavra (2001)",
      "identifiers": [
@@ -286084,7 +288078,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:135": {
+    "hypnosis-imdb-list-full-oct25:148": {
      "title": "The Lost Skeleton of Cadavra",
      "year": "2001",
      "match_title": "The Lost Skeleton of Cadavra",
@@ -287817,6 +289811,9 @@ window.CATALOG = {
    "note": "Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "tv",
    "categories": [
     "scifi"
@@ -287829,16 +289826,22 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/MacGyver_%282016_TV_series%29"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Tristin Mays: MacGyver (2016) (s5e15)",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1508",
-    "worldwide-hypnosis:575"
+    "worldwide-hypnosis:575",
+    "hypnosis-imdb-list-full-oct25:244"
    ],
    "index_only": false,
    "local_only": false,
@@ -287908,6 +289911,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:244",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "MacGyver (2016)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "MacGyver",
+     "subtitle": "",
+     "year": "2016",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Tristin Mays: MacGyver (2016) (s5e15)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -287959,6 +289991,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:244": {
+     "title": "MacGyver",
+     "year": "2016",
+     "match_title": "MacGyver",
+     "match_year": "2016",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Tristin Mays: MacGyver (2016) (s5e15)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -288958,7 +291008,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1513",
     "worldwide-hypnosis:564",
-    "hypnosis-imdb-list-full-oct25:168"
+    "hypnosis-imdb-list-full-oct25:181"
    ],
    "index_only": false,
    "local_only": false,
@@ -289030,7 +291080,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:168",
+     "rid": "hypnosis-imdb-list-full-oct25:181",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Magic Magic (2013)",
      "identifiers": [
@@ -289109,7 +291159,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:168": {
+    "hypnosis-imdb-list-full-oct25:181": {
      "title": "Magic Magic",
      "year": "2013",
      "match_title": "Magic Magic",
@@ -294415,7 +296465,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1539",
     "worldwide-hypnosis:602",
-    "hypnosis-imdb-list-full-oct25:103"
+    "hypnosis-imdb-list-full-oct25:116"
    ],
    "index_only": false,
    "local_only": false,
@@ -294489,7 +296539,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:103",
+     "rid": "hypnosis-imdb-list-full-oct25:116",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Meego (1997)",
      "identifiers": [
@@ -294570,7 +296620,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:103": {
+    "hypnosis-imdb-list-full-oct25:116": {
      "title": "Meego",
      "year": "1997",
      "match_title": "Meego",
@@ -295647,7 +297697,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1545",
     "worldwide-hypnosis:599",
-    "hypnosis-imdb-list-full-oct25:127"
+    "hypnosis-imdb-list-full-oct25:140"
    ],
    "index_only": false,
    "local_only": false,
@@ -295713,7 +297763,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:127",
+     "rid": "hypnosis-imdb-list-full-oct25:140",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Merlin and the Book of Beasts (2010)",
      "identifiers": [
@@ -295786,7 +297836,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:127": {
+    "hypnosis-imdb-list-full-oct25:140": {
      "title": "Merlin and the Book of Beasts",
      "year": "2010",
      "match_title": "Merlin and the Book of Beasts",
@@ -304933,7 +306983,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1598",
     "worldwide-hypnosis:935",
-    "hypnosis-imdb-list-full-oct25:79"
+    "hypnosis-imdb-list-full-oct25:92"
    ],
    "index_only": false,
    "local_only": false,
@@ -305007,7 +307057,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:79",
+     "rid": "hypnosis-imdb-list-full-oct25:92",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The New Adventures of Robin Hood (1997–1999)",
      "identifiers": [
@@ -305088,7 +307138,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:79": {
+    "hypnosis-imdb-list-full-oct25:92": {
      "title": "The New Adventures of Robin Hood",
      "year": "1997–1999",
      "match_title": "The New Adventures of Robin Hood",
@@ -307665,6 +309715,9 @@ window.CATALOG = {
    "note": "Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "tv",
    "categories": [
     "other-control"
@@ -307677,16 +309730,22 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Nikita_%28TV_series%29"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Julie McNiven: Nikita (s2e2)",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1614",
-    "worldwide-hypnosis:633"
+    "worldwide-hypnosis:633",
+    "hypnosis-imdb-list-full-oct25:199"
    ],
    "index_only": false,
    "local_only": false,
@@ -307756,6 +309815,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:199",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Nikita (2010–2013)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Nikita",
+     "subtitle": "",
+     "year": "2010–2013",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Julie McNiven: Nikita (s2e2)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -307807,6 +309895,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:199": {
+     "title": "Nikita",
+     "year": "2010–2013",
+     "match_title": "Nikita",
+     "match_year": "2010–2013",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Julie McNiven: Nikita (s2e2)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    },
    "watch_links": [
@@ -309356,7 +311462,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1621",
     "worldwide-hypnosis:634",
-    "hypnosis-imdb-list-full-oct25:102"
+    "hypnosis-imdb-list-full-oct25:115"
    ],
    "index_only": false,
    "local_only": false,
@@ -309428,7 +311534,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:102",
+     "rid": "hypnosis-imdb-list-full-oct25:115",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Not of This Earth (1957)",
      "identifiers": [
@@ -309507,7 +311613,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:102": {
+    "hypnosis-imdb-list-full-oct25:115": {
      "title": "Not of This Earth",
      "year": "1957",
      "match_title": "Not of This Earth",
@@ -309551,6 +311657,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "movie",
    "categories": [
     "scifi"
@@ -309563,16 +311672,22 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Not_of_This_Earth_%281988_film%29"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Traci Lords: Not of This Earth (1988)",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1622",
-    "worldwide-hypnosis:635"
+    "worldwide-hypnosis:635",
+    "hypnosis-imdb-list-full-oct25:227"
    ],
    "index_only": false,
    "local_only": false,
@@ -309642,6 +311757,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:227",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Not of This Earth (1988)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Not of This Earth",
+     "subtitle": "",
+     "year": "1988",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Traci Lords: Not of This Earth (1988)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -309693,6 +311837,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:227": {
+     "title": "Not of This Earth",
+     "year": "1988",
+     "match_title": "Not of This Earth",
+     "match_year": "1988",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Traci Lords: Not of This Earth (1988)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -309740,7 +311902,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1623",
     "worldwide-hypnosis:636",
-    "hypnosis-imdb-list-full-oct25:49"
+    "hypnosis-imdb-list-full-oct25:62"
    ],
    "index_only": false,
    "local_only": false,
@@ -309812,7 +311974,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:49",
+     "rid": "hypnosis-imdb-list-full-oct25:62",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Not of This Earth (1995)",
      "identifiers": [
@@ -309891,7 +312053,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:49": {
+    "hypnosis-imdb-list-full-oct25:62": {
      "title": "Not of This Earth",
      "year": "1995",
      "match_title": "Not of This Earth",
@@ -311715,7 +313877,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1634",
     "worldwide-hypnosis:671",
-    "hypnosis-imdb-list-full-oct25:125"
+    "hypnosis-imdb-list-full-oct25:138"
    ],
    "index_only": false,
    "local_only": false,
@@ -311779,7 +313941,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:125",
+     "rid": "hypnosis-imdb-list-full-oct25:138",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Old Dracula (1974)",
      "identifiers": [
@@ -311850,7 +314012,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:125": {
+    "hypnosis-imdb-list-full-oct25:138": {
      "title": "Old Dracula",
      "year": "1974",
      "match_title": "Old Dracula",
@@ -314032,7 +316194,7 @@ window.CATALOG = {
      "url": "https://en.wikipedia.org/wiki/Painkiller_Jane_%28TV_series%29"
     },
     {
-     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Alaina Huffman: Painkiller Jane (s1e1); Kristanna Loken: Painkiller Jane (**)",
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Alaina Huffman: Painkiller Jane (s1e1); Kristanna Loken: Painkiller Jane (**); Rachel Hayward: Painkiller Jane (s1e12)",
      "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
@@ -314045,7 +316207,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1647",
     "worldwide-hypnosis:663",
-    "hypnosis-imdb-list-full-oct25:139"
+    "hypnosis-imdb-list-full-oct25:152"
    ],
    "index_only": false,
    "local_only": false,
@@ -314119,7 +316281,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:139",
+     "rid": "hypnosis-imdb-list-full-oct25:152",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Painkiller Jane (2007)",
      "identifiers": [
@@ -314137,7 +316299,7 @@ window.CATALOG = {
      "categories": [],
      "sources": [
       {
-       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Alaina Huffman: Painkiller Jane (s1e1); Kristanna Loken: Painkiller Jane (**)",
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Alaina Huffman: Painkiller Jane (s1e1); Kristanna Loken: Painkiller Jane (**); Rachel Hayward: Painkiller Jane (s1e12)",
        "url": "https://www.imdb.com/list/ls099930129/"
       }
      ],
@@ -314200,7 +316362,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:139": {
+    "hypnosis-imdb-list-full-oct25:152": {
      "title": "Painkiller Jane",
      "year": "2007",
      "match_title": "Painkiller Jane",
@@ -314209,7 +316371,7 @@ window.CATALOG = {
      "categories": [],
      "sources": [
       {
-       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Alaina Huffman: Painkiller Jane (s1e1); Kristanna Loken: Painkiller Jane (**)",
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Alaina Huffman: Painkiller Jane (s1e1); Kristanna Loken: Painkiller Jane (**); Rachel Hayward: Painkiller Jane (s1e12)",
        "url": "https://www.imdb.com/list/ls099930129/"
       }
      ],
@@ -314628,7 +316790,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1650",
     "worldwide-hypnosis:674",
-    "hypnosis-imdb-list-full-oct25:170"
+    "hypnosis-imdb-list-full-oct25:183"
    ],
    "index_only": false,
    "local_only": false,
@@ -314700,7 +316862,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:170",
+     "rid": "hypnosis-imdb-list-full-oct25:183",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Paranormal Xperience 3D (2011)",
      "identifiers": [
@@ -314779,7 +316941,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:170": {
+    "hypnosis-imdb-list-full-oct25:183": {
      "title": "Paranormal Xperience 3D",
      "year": "2011",
      "match_title": "Paranormal Xperience 3D",
@@ -314856,7 +317018,7 @@ window.CATALOG = {
     "xla62ucxbx02u5:1651",
     "worldwide-hypnosis:668",
     "wife-hypnosis-oct15:103",
-    "hypnosis-imdb-list-full-oct25:96"
+    "hypnosis-imdb-list-full-oct25:109"
    ],
    "index_only": false,
    "local_only": false,
@@ -314965,7 +317127,7 @@ window.CATALOG = {
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:96",
+     "rid": "hypnosis-imdb-list-full-oct25:109",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Parasomnia (2008)",
      "identifiers": [
@@ -315068,7 +317230,7 @@ window.CATALOG = {
      ],
      "fit_note": "Loose fit: backstory only"
     },
-    "hypnosis-imdb-list-full-oct25:96": {
+    "hypnosis-imdb-list-full-oct25:109": {
      "title": "Parasomnia",
      "year": "2008",
      "match_title": "Parasomnia",
@@ -316441,7 +318603,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1658",
     "worldwide-hypnosis:682",
-    "hypnosis-imdb-list-full-oct25:41"
+    "hypnosis-imdb-list-full-oct25:54"
    ],
    "index_only": false,
    "local_only": false,
@@ -316507,7 +318669,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:41",
+     "rid": "hypnosis-imdb-list-full-oct25:54",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Paula Peril And The Hidden City (2017)",
      "identifiers": [
@@ -316580,7 +318742,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:41": {
+    "hypnosis-imdb-list-full-oct25:54": {
      "title": "Paula Peril And The Hidden City",
      "year": "2017",
      "match_title": "Paula Peril And The Hidden City",
@@ -317565,7 +319727,7 @@ window.CATALOG = {
     "worldwide-hypnosis:665",
     "mother-kids-hypnosis:14",
     "hypnotized-marriage:36",
-    "hypnosis-imdb-list-full-oct25:98"
+    "hypnosis-imdb-list-full-oct25:111"
    ],
    "index_only": false,
    "local_only": false,
@@ -317711,7 +319873,7 @@ window.CATALOG = {
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:98",
+     "rid": "hypnosis-imdb-list-full-oct25:111",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Perfect Little Angels (1998)",
      "identifiers": [
@@ -317847,7 +320009,7 @@ window.CATALOG = {
      "already_married_note": "Elaine accepts the doctor's proposal while brainwashed",
      "fit_note": "Mother brainwashed into accepting a marriage proposal; adult woman with an existing child."
     },
-    "hypnosis-imdb-list-full-oct25:98": {
+    "hypnosis-imdb-list-full-oct25:111": {
      "title": "Perfect Little Angels",
      "year": "1998",
      "match_title": "Perfect Little Angels",
@@ -318051,6 +320213,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "tv",
    "categories": [
     "scifi",
@@ -318064,16 +320229,22 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Phantom"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Patricia McKenzie: The Phantom (2009)",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1664",
-    "worldwide-hypnosis:964"
+    "worldwide-hypnosis:964",
+    "hypnosis-imdb-list-full-oct25:215"
    ],
    "index_only": false,
    "local_only": false,
@@ -318147,6 +320318,36 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:215",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "The Phantom (2009 Miniseries)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "The Phantom (2009 Miniseries)",
+     "subtitle": "",
+     "year": "2009",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Patricia McKenzie: The Phantom (2009)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -318200,6 +320401,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:215": {
+     "title": "The Phantom (2009 Miniseries)",
+     "year": "2009",
+     "match_title": "The Phantom (2009 Miniseries)",
+     "match_year": "2009",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Patricia McKenzie: The Phantom (2009)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -318620,7 +320839,7 @@ window.CATALOG = {
     "xla62ucxbx02u5:1667",
     "worldwide-hypnosis:937",
     "hypnosis-assault-loose:14",
-    "hypnosis-imdb-list-full-oct25:129"
+    "hypnosis-imdb-list-full-oct25:142"
    ],
    "index_only": false,
    "local_only": false,
@@ -318737,7 +320956,7 @@ window.CATALOG = {
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:129",
+     "rid": "hypnosis-imdb-list-full-oct25:142",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The Pit and The Pendulum (2009)",
      "identifiers": [
@@ -318859,7 +321078,7 @@ window.CATALOG = {
       1746
      ]
     },
-    "hypnosis-imdb-list-full-oct25:129": {
+    "hypnosis-imdb-list-full-oct25:142": {
      "title": "The Pit and The Pendulum",
      "year": "2009",
      "match_title": "The Pit and The Pendulum",
@@ -320238,7 +322457,7 @@ window.CATALOG = {
      "url": "https://en.wikipedia.org/wiki/Port_Charles"
     },
     {
-     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Rebecca Staab: Port Charles (**); Erin Hershey: Port Charles (**)",
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Rebecca Staab: Port Charles (**); Erin Hershey: Port Charles (**); Kelly Monaco: Port Charles (**)",
      "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
@@ -320251,7 +322470,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1675",
     "worldwide-hypnosis:688",
-    "hypnosis-imdb-list-full-oct25:81"
+    "hypnosis-imdb-list-full-oct25:94"
    ],
    "index_only": false,
    "local_only": false,
@@ -320325,7 +322544,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:81",
+     "rid": "hypnosis-imdb-list-full-oct25:94",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Port Charles (1997–2003)",
      "identifiers": [
@@ -320343,7 +322562,7 @@ window.CATALOG = {
      "categories": [],
      "sources": [
       {
-       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Rebecca Staab: Port Charles (**); Erin Hershey: Port Charles (**)",
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Rebecca Staab: Port Charles (**); Erin Hershey: Port Charles (**); Kelly Monaco: Port Charles (**)",
        "url": "https://www.imdb.com/list/ls099930129/"
       }
      ],
@@ -320406,7 +322625,7 @@ window.CATALOG = {
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:81": {
+    "hypnosis-imdb-list-full-oct25:94": {
      "title": "Port Charles",
      "year": "1997–2003",
      "match_title": "Port Charles",
@@ -320415,7 +322634,7 @@ window.CATALOG = {
      "categories": [],
      "sources": [
       {
-       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Rebecca Staab: Port Charles (**); Erin Hershey: Port Charles (**)",
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Rebecca Staab: Port Charles (**); Erin Hershey: Port Charles (**); Kelly Monaco: Port Charles (**)",
        "url": "https://www.imdb.com/list/ls099930129/"
       }
      ],
@@ -321952,6 +324171,9 @@ window.CATALOG = {
      "number_verified": true
     }
    ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "kids_status": "no",
    "kids_note": "No children before (Emily's teenage pregnancy, a separate storyline, is excluded).",
    "fit_note": "Conception was non-consensual (A.D.'s scheme) and happened before the couple formed; the pregnancy is raised by the couple.",
@@ -321982,16 +324204,22 @@ window.CATALOG = {
     {
      "label": "Refinery29 finale proposal",
      "url": "https://www.refinery29.com/en-us/2017/06/161201/ali-emily-proposal-problem-pretty-little-liars-finale"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Shay Mitchell: Pretty Little Liars (**)",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "lesbian-pregnancy"
+    "lesbian-pregnancy",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1684",
-    "lesbian-pregnancy:11"
+    "lesbian-pregnancy:11",
+    "hypnosis-imdb-list-full-oct25:208"
    ],
    "index_only": false,
    "local_only": false,
@@ -322112,6 +324340,35 @@ window.CATALOG = {
      "fit_note": "Conception was non-consensual (A.D.'s scheme) and happened before the couple formed; the pregnancy is raised by the couple.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:208",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Pretty Little Liars (2016–2017)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Pretty Little Liars",
+     "subtitle": "",
+     "year": "2016–2017",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Shay Mitchell: Pretty Little Liars (**)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -322241,6 +324498,24 @@ window.CATALOG = {
      "provenance": "Lesbian-couple pregnancy research pass, 30 Sep 2026 (adult couples only; non-explicit notes)",
      "note": "",
      "pregnant_has_children": "no"
+    },
+    "hypnosis-imdb-list-full-oct25:208": {
+     "title": "Pretty Little Liars",
+     "year": "2016–2017",
+     "match_title": "Pretty Little Liars",
+     "match_year": "2016–2017",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Shay Mitchell: Pretty Little Liars (**)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -322290,7 +324565,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1685",
     "worldwide-hypnosis:938",
-    "hypnosis-imdb-list-full-oct25:132"
+    "hypnosis-imdb-list-full-oct25:145"
    ],
    "index_only": false,
    "local_only": false,
@@ -322366,7 +324641,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:132",
+     "rid": "hypnosis-imdb-list-full-oct25:145",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The Prisoner (1967–1968)",
      "identifiers": [
@@ -322449,7 +324724,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:132": {
+    "hypnosis-imdb-list-full-oct25:145": {
      "title": "The Prisoner",
      "year": "1967–1968",
      "match_title": "The Prisoner",
@@ -323665,7 +325940,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1691",
     "worldwide-hypnosis:939",
-    "hypnosis-imdb-list-full-oct25:130"
+    "hypnosis-imdb-list-full-oct25:143"
    ],
    "index_only": false,
    "local_only": false,
@@ -323737,7 +326012,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:130",
+     "rid": "hypnosis-imdb-list-full-oct25:143",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The Pumaman (1980)",
      "identifiers": [
@@ -323816,7 +326091,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:130": {
+    "hypnosis-imdb-list-full-oct25:143": {
      "title": "The Pumaman",
      "year": "1980",
      "match_title": "The Pumaman",
@@ -326061,7 +328336,7 @@ window.CATALOG = {
     "xla62ucxbx02u5:1702",
     "india-catalog:133",
     "worldwide-hypnosis:711",
-    "hypnosis-imdb-list-full-oct25:149"
+    "hypnosis-imdb-list-full-oct25:162"
    ],
    "index_only": false,
    "local_only": false,
@@ -326168,7 +328443,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:149",
+     "rid": "hypnosis-imdb-list-full-oct25:162",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Ra.One (2011)",
      "identifiers": [
@@ -326273,7 +328548,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:149": {
+    "hypnosis-imdb-list-full-oct25:162": {
      "title": "Ra.One",
      "year": "2011",
      "match_title": "Ra.One",
@@ -327141,7 +329416,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1708",
     "worldwide-hypnosis:705",
-    "hypnosis-imdb-list-full-oct25:110"
+    "hypnosis-imdb-list-full-oct25:123"
    ],
    "index_only": false,
    "local_only": false,
@@ -327213,7 +329488,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:110",
+     "rid": "hypnosis-imdb-list-full-oct25:123",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Red Billabong (2016)",
      "identifiers": [
@@ -327292,7 +329567,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:110": {
+    "hypnosis-imdb-list-full-oct25:123": {
      "title": "Red Billabong",
      "year": "2016",
      "match_title": "Red Billabong",
@@ -327516,7 +329791,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1710",
     "worldwide-hypnosis:706",
-    "hypnosis-imdb-list-full-oct25:166"
+    "hypnosis-imdb-list-full-oct25:179"
    ],
    "index_only": false,
    "local_only": false,
@@ -327588,7 +329863,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:166",
+     "rid": "hypnosis-imdb-list-full-oct25:179",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Red Sun Rising (1994)",
      "identifiers": [
@@ -327667,7 +329942,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:166": {
+    "hypnosis-imdb-list-full-oct25:179": {
      "title": "Red Sun Rising",
      "year": "1994",
      "match_title": "Red Sun Rising",
@@ -328329,7 +330604,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1714",
     "worldwide-hypnosis:707",
-    "hypnosis-imdb-list-full-oct25:165"
+    "hypnosis-imdb-list-full-oct25:178"
    ],
    "index_only": false,
    "local_only": false,
@@ -328401,7 +330676,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:165",
+     "rid": "hypnosis-imdb-list-full-oct25:178",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Relic Hunter (1999–2002)",
      "identifiers": [
@@ -328480,7 +330755,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:165": {
+    "hypnosis-imdb-list-full-oct25:178": {
      "title": "Relic Hunter",
      "year": "1999–2002",
      "match_title": "Relic Hunter",
@@ -328567,7 +330842,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1715",
     "worldwide-hypnosis:708",
-    "hypnosis-imdb-list-full-oct25:161"
+    "hypnosis-imdb-list-full-oct25:174"
    ],
    "index_only": false,
    "local_only": false,
@@ -328639,7 +330914,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:161",
+     "rid": "hypnosis-imdb-list-full-oct25:174",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Remote Control (1988)",
      "identifiers": [
@@ -328718,7 +330993,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:161": {
+    "hypnosis-imdb-list-full-oct25:174": {
      "title": "Remote Control",
      "year": "1988",
      "match_title": "Remote Control",
@@ -328924,7 +331199,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1717",
     "worldwide-hypnosis:709",
-    "hypnosis-imdb-list-full-oct25:160"
+    "hypnosis-imdb-list-full-oct25:173"
    ],
    "index_only": false,
    "local_only": false,
@@ -328996,7 +331271,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:160",
+     "rid": "hypnosis-imdb-list-full-oct25:173",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Resident Evil: Afterlife (2010)",
      "identifiers": [
@@ -329075,7 +331350,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:160": {
+    "hypnosis-imdb-list-full-oct25:173": {
      "title": "Resident Evil: Afterlife",
      "year": "2010",
      "match_title": "Resident Evil: Afterlife",
@@ -329139,7 +331414,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1718",
     "worldwide-hypnosis:710",
-    "hypnosis-imdb-list-full-oct25:119"
+    "hypnosis-imdb-list-full-oct25:132"
    ],
    "index_only": false,
    "local_only": false,
@@ -329211,7 +331486,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:119",
+     "rid": "hypnosis-imdb-list-full-oct25:132",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Resident Evil: Retribution (2012)",
      "identifiers": [
@@ -329290,7 +331565,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:119": {
+    "hypnosis-imdb-list-full-oct25:132": {
      "title": "Resident Evil: Retribution",
      "year": "2012",
      "match_title": "Resident Evil: Retribution",
@@ -329354,7 +331629,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1719",
     "worldwide-hypnosis:728",
-    "hypnosis-imdb-list-full-oct25:159"
+    "hypnosis-imdb-list-full-oct25:172"
    ],
    "index_only": false,
    "local_only": false,
@@ -329426,7 +331701,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:159",
+     "rid": "hypnosis-imdb-list-full-oct25:172",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Revenge of the Ninja (1983)",
      "identifiers": [
@@ -329505,7 +331780,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:159": {
+    "hypnosis-imdb-list-full-oct25:172": {
      "title": "Revenge of the Ninja",
      "year": "1983",
      "match_title": "Revenge of the Ninja",
@@ -329849,7 +332124,7 @@ window.CATALOG = {
      "url": "https://en.wikipedia.org/wiki/Riverdale_%28American_TV_series%29"
     },
     {
-     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Mädchen Amick: Riverdale (**); Lili Reinhart: Riverdale (s3e21)",
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Mädchen Amick: Riverdale (**); Lili Reinhart: Riverdale (s3e21); Vanessa Morgan: Riverdale (**)",
      "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
@@ -329862,7 +332137,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1721",
     "worldwide-hypnosis:732",
-    "hypnosis-imdb-list-full-oct25:107"
+    "hypnosis-imdb-list-full-oct25:120"
    ],
    "index_only": false,
    "local_only": false,
@@ -329934,7 +332209,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:107",
+     "rid": "hypnosis-imdb-list-full-oct25:120",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Riverdale (2017–2023)",
      "identifiers": [
@@ -329952,7 +332227,7 @@ window.CATALOG = {
      "categories": [],
      "sources": [
       {
-       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Mädchen Amick: Riverdale (**); Lili Reinhart: Riverdale (s3e21)",
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Mädchen Amick: Riverdale (**); Lili Reinhart: Riverdale (s3e21); Vanessa Morgan: Riverdale (**)",
        "url": "https://www.imdb.com/list/ls099930129/"
       }
      ],
@@ -330013,7 +332288,7 @@ window.CATALOG = {
      "pregnancy_note": "The sources mention a pregnancy storyline (another character or arc), but none ties it to the hypnotized woman.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:107": {
+    "hypnosis-imdb-list-full-oct25:120": {
      "title": "Riverdale",
      "year": "2017–2023",
      "match_title": "Riverdale",
@@ -330022,7 +332297,7 @@ window.CATALOG = {
      "categories": [],
      "sources": [
       {
-       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Mädchen Amick: Riverdale (**); Lili Reinhart: Riverdale (s3e21)",
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Mädchen Amick: Riverdale (**); Lili Reinhart: Riverdale (s3e21); Vanessa Morgan: Riverdale (**)",
        "url": "https://www.imdb.com/list/ls099930129/"
       }
      ],
@@ -330110,7 +332385,7 @@ window.CATALOG = {
     "rich-wife-hypnosis:39",
     "royal-hypnosis-loose:4",
     "hypnotized-marriage:14",
-    "hypnosis-imdb-list-full-oct25:157"
+    "hypnosis-imdb-list-full-oct25:170"
    ],
    "index_only": false,
    "local_only": false,
@@ -330304,7 +332579,7 @@ window.CATALOG = {
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:157",
+     "rid": "hypnosis-imdb-list-full-oct25:170",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Robin of Sherwood (1986)",
      "identifiers": [
@@ -330476,7 +332751,7 @@ window.CATALOG = {
      "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
      "fit_note": "Hypnosis and love potion make Lady Marion enthusiastic in her own wedding ceremony until rescued."
     },
-    "hypnosis-imdb-list-full-oct25:157": {
+    "hypnosis-imdb-list-full-oct25:170": {
      "title": "Robin of Sherwood",
      "year": "1986",
      "match_title": "Robin of Sherwood",
@@ -332945,7 +335220,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1736",
     "worldwide-hypnosis:731",
-    "hypnosis-imdb-list-full-oct25:156"
+    "hypnosis-imdb-list-full-oct25:169"
    ],
    "index_only": false,
    "local_only": false,
@@ -333019,7 +335294,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:156",
+     "rid": "hypnosis-imdb-list-full-oct25:169",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Sanctuary (2008–2011)",
      "identifiers": [
@@ -333100,7 +335375,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:156": {
+    "hypnosis-imdb-list-full-oct25:169": {
      "title": "Sanctuary",
      "year": "2008–2011",
      "match_title": "Sanctuary",
@@ -334943,9 +337218,24 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "evidence": "IMDb list entry + Wikipedia plot (not matched to her character) passage (mind-controlled)",
+   "fit_note": "IMDb list covers hypnosis, brainwashing, possession and mind control together; the matched Wikipedia passage is brainwashing / mind control, so check whether it is hypnosis proper.",
+   "already_married": "not stated",
    "format": "movie",
    "categories": [
-    "human"
+    "human",
+    "occult",
+    "scifi",
+    "tech"
    ],
    "sources": [
     {
@@ -334955,16 +337245,26 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Scanners_III%3A_The_Takeover"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Valérie Valois: Scanners III",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: Scanners III: The Takeover",
+     "url": "https://en.wikipedia.org/wiki/Scanners_III:_The_Takeover"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1747",
-    "worldwide-hypnosis:755"
+    "worldwide-hypnosis:755",
+    "hypnosis-imdb-list-full-oct25:43"
    ],
    "index_only": false,
    "local_only": false,
@@ -335034,6 +337334,53 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:43",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Scanners III: The Takeover (1992)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Scanners III: The Takeover",
+     "subtitle": "",
+     "year": "1992",
+     "meta": "1992 Canadian science fiction horror film · from Wikipedia first sentence",
+     "summary": "IMDb list records Valérie Valois as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"After informing Alex of the situation, Michael is killed by a group of villagers being mind-controlled by one of Helena's Scanners.\"",
+     "character": "Valérie Valois (character names not given on the list)",
+     "note": "",
+     "mechanism": "brainwashing / mind control",
+     "confidence_flag": "medium: IMDb list + Wikipedia keyword passage; wife/kids/pregnancy not stated",
+     "categories": [
+      "occult",
+      "scifi",
+      "tech"
+     ],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Valérie Valois: Scanners III",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      },
+      {
+       "label": "Wikipedia: Scanners III: The Takeover",
+       "url": "https://en.wikipedia.org/wiki/Scanners_III:_The_Takeover"
+      }
+     ],
+     "pregnancy_note": "not stated in the sources used",
+     "tags": [
+      "imdb-list-ls099930129",
+      "imdb-list-full-oct25"
+     ],
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "married": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in the sources used",
+     "evidence": "IMDb list entry + Wikipedia plot (not matched to her character) passage (mind-controlled)",
+     "fit_note": "IMDb list covers hypnosis, brainwashing, possession and mind control together; the matched Wikipedia passage is brainwashing / mind control, so check whether it is hypnosis proper.",
+     "already_married": "not stated",
+     "distinct_story": true,
+     "matched_by": "title+year"
     }
    ],
    "raw": {
@@ -335085,6 +337432,45 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:43": {
+     "title": "Scanners III: The Takeover",
+     "year": "1992",
+     "format": "movie",
+     "meta": "1992 Canadian science fiction horror film · from Wikipedia first sentence",
+     "mechanism": "brainwashing / mind control",
+     "character": "Valérie Valois (character names not given on the list)",
+     "summary": "IMDb list records Valérie Valois as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"After informing Alex of the situation, Michael is killed by a group of villagers being mind-controlled by one of Helena's Scanners.\"",
+     "categories": [
+      "occult",
+      "scifi",
+      "tech"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in the sources used",
+     "pregnancy_note": "not stated in the sources used",
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Valérie Valois: Scanners III",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      },
+      {
+       "label": "Wikipedia: Scanners III: The Takeover",
+       "url": "https://en.wikipedia.org/wiki/Scanners_III:_The_Takeover"
+      }
+     ],
+     "evidence": "IMDb list entry + Wikipedia plot (not matched to her character) passage (mind-controlled)",
+     "fit_note": "IMDb list covers hypnosis, brainwashing, possession and mind control together; the matched Wikipedia passage is brainwashing / mind control, so check whether it is hypnosis proper.",
+     "confidence_flag": "medium: IMDb list + Wikipedia keyword passage; wife/kids/pregnancy not stated",
+     "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+     "tags": [
+      "imdb-list-ls099930129",
+      "imdb-list-full-oct25"
+     ]
     }
    },
    "watch_links": [
@@ -336281,7 +338667,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1754",
     "worldwide-hypnosis:744",
-    "hypnosis-imdb-list-full-oct25:164"
+    "hypnosis-imdb-list-full-oct25:177"
    ],
    "index_only": false,
    "local_only": false,
@@ -336347,7 +338733,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:164",
+     "rid": "hypnosis-imdb-list-full-oct25:177",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Scream of the Bikini (2009)",
      "identifiers": [
@@ -336420,7 +338806,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:164": {
+    "hypnosis-imdb-list-full-oct25:177": {
      "title": "Scream of the Bikini",
      "year": "2009",
      "match_title": "Scream of the Bikini",
@@ -337607,6 +339993,9 @@ window.CATALOG = {
    "note": "Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "movie",
    "categories": [
     "human"
@@ -337619,16 +340008,22 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/The_Shadow_%281994_film%29"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Penelope Ann Miller: The Shadow",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1761",
-    "worldwide-hypnosis:940"
+    "worldwide-hypnosis:940",
+    "hypnosis-imdb-list-full-oct25:206"
    ],
    "index_only": false,
    "local_only": false,
@@ -337698,6 +340093,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:206",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "The Shadow (1994)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "The Shadow",
+     "subtitle": "",
+     "year": "1994",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Penelope Ann Miller: The Shadow",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -337749,6 +340173,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:206": {
+     "title": "The Shadow",
+     "year": "1994",
+     "match_title": "The Shadow",
+     "match_year": "1994",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Penelope Ann Miller: The Shadow",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -339481,7 +341923,8 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1771",
     "worldwide-hypnosis:771",
-    "hypnosis-imdb-list-full-oct25:154"
+    "hypnosis-imdb-list-full-oct25:167",
+    "hypnosis-imdb-list-full-oct25:243"
    ],
    "index_only": false,
    "local_only": false,
@@ -339553,7 +341996,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:154",
+     "rid": "hypnosis-imdb-list-full-oct25:167",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Sheena (2000)",
      "identifiers": [
@@ -339572,6 +342015,35 @@ window.CATALOG = {
      "sources": [
       {
        "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Gena Lee Nolin: Sheena (2000) (s2e3)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:243",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Sheena (2000)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Sheena",
+     "subtitle": "",
+     "year": "2000",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Cindy Oliver: Sheena (s1e22)",
        "url": "https://www.imdb.com/list/ls099930129/"
       }
      ],
@@ -339632,7 +342104,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:154": {
+    "hypnosis-imdb-list-full-oct25:167": {
      "title": "Sheena",
      "year": "2000",
      "match_title": "Sheena",
@@ -339642,6 +342114,24 @@ window.CATALOG = {
      "sources": [
       {
        "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Gena Lee Nolin: Sheena (2000) (s2e3)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
+    },
+    "hypnosis-imdb-list-full-oct25:243": {
+     "title": "Sheena",
+     "year": "2000",
+     "match_title": "Sheena",
+     "match_year": "2000",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Cindy Oliver: Sheena (s1e22)",
        "url": "https://www.imdb.com/list/ls099930129/"
       }
      ],
@@ -345944,6 +348434,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "hypnotist": "hypnotist Raven, hired by stepmother Victoria",
    "gain_motive": [
     "inheritance",
@@ -345963,18 +348456,24 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/A_Snow_White_Christmas"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Michelle Randolph: A Snow White Christmas",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "rich-wife-hypnosis"
+    "rich-wife-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1805",
     "worldwide-hypnosis:12",
-    "rich-wife-hypnosis:7"
+    "rich-wife-hypnosis:7",
+    "hypnosis-imdb-list-full-oct25:230"
    ],
    "index_only": false,
    "local_only": false,
@@ -346078,6 +348577,35 @@ window.CATALOG = {
      "kids_status": "no",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:230",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "A Snow White Christmas (2018)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "A Snow White Christmas",
+     "subtitle": "",
+     "year": "2018",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Michelle Randolph: A Snow White Christmas",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -346156,6 +348684,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "no pregnancy for her in the cited plot sources",
      "provenance": "Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only."
+    },
+    "hypnosis-imdb-list-full-oct25:230": {
+     "title": "A Snow White Christmas",
+     "year": "2018",
+     "match_title": "A Snow White Christmas",
+     "match_year": "2018",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Michelle Randolph: A Snow White Christmas",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    },
    "watch_links": [
@@ -346954,7 +349500,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1810",
     "worldwide-hypnosis:788",
-    "hypnosis-imdb-list-full-oct25:146"
+    "hypnosis-imdb-list-full-oct25:159"
    ],
    "index_only": false,
    "local_only": false,
@@ -347028,7 +349574,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:146",
+     "rid": "hypnosis-imdb-list-full-oct25:159",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Son of the Beach (2000–2002)",
      "identifiers": [
@@ -347109,7 +349655,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:146": {
+    "hypnosis-imdb-list-full-oct25:159": {
      "title": "Son of the Beach",
      "year": "2000–2002",
      "match_title": "Son of the Beach",
@@ -349020,6 +351566,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: unknown.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "movie",
    "categories": [
     "love",
@@ -349034,18 +351583,24 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/Stalked_by_My_Doctor%3A_A_Sleepwalker%27s_Nightmare"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Angeline Appel: Stalked by My Doctor: A Sleepwalker's Nightmare",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
-    "hypnotized-love"
+    "hypnotized-love",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1822",
     "worldwide-hypnosis:801",
-    "hypnotized-love:19"
+    "hypnotized-love:19",
+    "hypnosis-imdb-list-full-oct25:229"
    ],
    "index_only": false,
    "local_only": false,
@@ -349144,6 +351699,35 @@ window.CATALOG = {
      "pregnancy_note": "Pregnancy status is not stated in the available sources.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:229",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Stalked by My Doctor: A Sleepwalker's Nightmare (2019)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Stalked by My Doctor: A Sleepwalker's Nightmare",
+     "subtitle": "",
+     "year": "2019",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Angeline Appel: Stalked by My Doctor: A Sleepwalker's Nightmare",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -349215,6 +351799,24 @@ window.CATALOG = {
      "pregnancy_outcome": "unknown",
      "pregnancy_note": "Pregnancy status is not stated in the available sources.",
      "provenance": "Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:229": {
+     "title": "Stalked by My Doctor: A Sleepwalker's Nightmare",
+     "year": "2019",
+     "match_title": "Stalked by My Doctor: A Sleepwalker's Nightmare",
+     "match_year": "2019",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Angeline Appel: Stalked by My Doctor: A Sleepwalker's Nightmare",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    },
    "watch_links": [
@@ -349307,7 +351909,7 @@ window.CATALOG = {
     "xla62ucxbx02u5:1823",
     "worldwide-hypnosis:968",
     "mother-kids-hypnosis:26",
-    "hypnosis-imdb-list-full-oct25:128"
+    "hypnosis-imdb-list-full-oct25:141"
    ],
    "index_only": false,
    "local_only": false,
@@ -349434,7 +352036,7 @@ window.CATALOG = {
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:128",
+     "rid": "hypnosis-imdb-list-full-oct25:141",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The Stanley Dynamic (2015–2017)",
      "identifiers": [
@@ -349563,7 +352165,7 @@ window.CATALOG = {
      "fit_note": "Borderline: Wikipedia's one-line summary only mentions Luke hypnotizing his father; the mother scene rests on Mental Block.",
      "provenance": "Mother-hypnotized-in-front-of-her-children research pass (30 Sep 2026): worldwide search (Mental Block wiki, Wikipedia/de/ja episode tables, TV Tropes, fan wikis, soap and Indian-serial recap sites); strict hypnosis, mesmerism, hypnotic trance or hypnosis-like devices only; spirit/demonic/black-magic possession excluded; adult mothers only; the child must see her hypnotized or in the trance; no title where children witness sexual content."
     },
-    "hypnosis-imdb-list-full-oct25:128": {
+    "hypnosis-imdb-list-full-oct25:141": {
      "title": "The Stanley Dynamic",
      "year": "2015–2017",
      "match_title": "The Stanley Dynamic",
@@ -350035,7 +352637,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1826",
     "worldwide-hypnosis:825",
-    "hypnosis-imdb-list-full-oct25:105"
+    "hypnosis-imdb-list-full-oct25:118"
    ],
    "index_only": false,
    "local_only": false,
@@ -350123,7 +352725,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:105",
+     "rid": "hypnosis-imdb-list-full-oct25:118",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Stark Raving Mad (1999)",
      "identifiers": [
@@ -350218,7 +352820,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:105": {
+    "hypnosis-imdb-list-full-oct25:118": {
      "title": "Stark Raving Mad",
      "year": "1999",
      "match_title": "Stark Raving Mad",
@@ -351333,7 +353935,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1831",
     "worldwide-hypnosis:809",
-    "hypnosis-imdb-list-full-oct25:101"
+    "hypnosis-imdb-list-full-oct25:114"
    ],
    "index_only": false,
    "local_only": false,
@@ -351407,7 +354009,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:101",
+     "rid": "hypnosis-imdb-list-full-oct25:114",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Stitchers (2015–2017)",
      "identifiers": [
@@ -351488,7 +354090,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:101": {
+    "hypnosis-imdb-list-full-oct25:114": {
      "title": "Stitchers",
      "year": "2015–2017",
      "match_title": "Stitchers",
@@ -352846,6 +355448,9 @@ window.CATALOG = {
      "number_verified": true
     }
    ],
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "hypnotist": "a college professor",
    "gain_motive": [
     "marriage",
@@ -352872,6 +355477,10 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/Super_Force"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Ginger Lynn Allen: Super Force (s1e21)",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
@@ -352879,13 +355488,15 @@ window.CATALOG = {
     "xla62ucxbx02u5",
     "worldwide-hypnosis",
     "rich-wife-hypnosis",
-    "hypnotized-marriage"
+    "hypnotized-marriage",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1839",
     "worldwide-hypnosis:812",
     "rich-wife-hypnosis:37",
-    "hypnotized-marriage:8"
+    "hypnotized-marriage:8",
+    "hypnosis-imdb-list-full-oct25:234"
    ],
    "index_only": false,
    "local_only": false,
@@ -353050,6 +355661,35 @@ window.CATALOG = {
      "fit_note": "Mind-control chips program female students to marry rich men (then kill them for the inheritance).",
      "distinct_story": false,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:234",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Super Force (1990–1992)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Super Force",
+     "subtitle": "",
+     "year": "1990–1992",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Ginger Lynn Allen: Super Force (s1e21)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -353178,6 +355818,24 @@ window.CATALOG = {
      ],
      "provenance": "Hypnotised-marriage pass, 3 Oct 2026 PT (adult women only; existing cards tagged, no existing logic changed)",
      "fit_note": "Mind-control chips program female students to marry rich men (then kill them for the inheritance)."
+    },
+    "hypnosis-imdb-list-full-oct25:234": {
+     "title": "Super Force",
+     "year": "1990–1992",
+     "match_title": "Super Force",
+     "match_year": "1990–1992",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Ginger Lynn Allen: Super Force (s1e21)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -353909,7 +356567,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1844",
     "worldwide-hypnosis:813",
-    "hypnosis-imdb-list-full-oct25:47"
+    "hypnosis-imdb-list-full-oct25:60"
    ],
    "index_only": false,
    "local_only": false,
@@ -353985,7 +356643,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:47",
+     "rid": "hypnosis-imdb-list-full-oct25:60",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Superargo and the Faceless Giants (1968)",
      "identifiers": [
@@ -354068,7 +356726,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:47": {
+    "hypnosis-imdb-list-full-oct25:60": {
      "title": "Superargo and the Faceless Giants",
      "year": "1968",
      "match_title": "Superargo and the Faceless Giants",
@@ -354150,7 +356808,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1845",
     "worldwide-hypnosis:814",
-    "hypnosis-imdb-list-full-oct25:120"
+    "hypnosis-imdb-list-full-oct25:133"
    ],
    "index_only": false,
    "local_only": false,
@@ -354224,7 +356882,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:120",
+     "rid": "hypnosis-imdb-list-full-oct25:133",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Superboy (1988–1992)",
      "identifiers": [
@@ -354305,7 +356963,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:120": {
+    "hypnosis-imdb-list-full-oct25:133": {
      "title": "Superboy",
      "year": "1988–1992",
      "match_title": "Superboy",
@@ -354356,7 +357014,7 @@ window.CATALOG = {
      "url": "https://en.wikipedia.org/wiki/Supergirl_%28TV_series%29"
     },
     {
-     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Melissa Benoist: Supergirl (**); Carly Nykanen: Supergirl (s1e19); Jenna Dewan: Supergirl (s1e19); Chyler Leigh: Supergirl (**)",
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Melissa Benoist: Supergirl (**); Carly Nykanen: Supergirl (s1e19); Jenna Dewan: Supergirl (s1e19); Chyler Leigh: Supergirl (**); Caity Lotz: Supergirl (s3e8); Wil",
      "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
@@ -354369,7 +357027,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1846",
     "worldwide-hypnosis:815",
-    "hypnosis-imdb-list-full-oct25:55"
+    "hypnosis-imdb-list-full-oct25:68"
    ],
    "index_only": false,
    "local_only": false,
@@ -354441,7 +357099,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:55",
+     "rid": "hypnosis-imdb-list-full-oct25:68",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Supergirl (2015)",
      "identifiers": [
@@ -354459,7 +357117,7 @@ window.CATALOG = {
      "categories": [],
      "sources": [
       {
-       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Melissa Benoist: Supergirl (**); Carly Nykanen: Supergirl (s1e19); Jenna Dewan: Supergirl (s1e19); Chyler Leigh: Supergirl (**)",
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Melissa Benoist: Supergirl (**); Carly Nykanen: Supergirl (s1e19); Jenna Dewan: Supergirl (s1e19); Chyler Leigh: Supergirl (**); Caity Lotz: Supergirl (s3e8); Wil",
        "url": "https://www.imdb.com/list/ls099930129/"
       }
      ],
@@ -354520,7 +357178,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:55": {
+    "hypnosis-imdb-list-full-oct25:68": {
      "title": "Supergirl",
      "year": "2015",
      "match_title": "Supergirl",
@@ -354529,7 +357187,7 @@ window.CATALOG = {
      "categories": [],
      "sources": [
       {
-       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Melissa Benoist: Supergirl (**); Carly Nykanen: Supergirl (s1e19); Jenna Dewan: Supergirl (s1e19); Chyler Leigh: Supergirl (**)",
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Melissa Benoist: Supergirl (**); Carly Nykanen: Supergirl (s1e19); Jenna Dewan: Supergirl (s1e19); Chyler Leigh: Supergirl (**); Caity Lotz: Supergirl (s3e8); Wil",
        "url": "https://www.imdb.com/list/ls099930129/"
       }
      ],
@@ -354888,7 +357546,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1848",
     "worldwide-hypnosis:816",
-    "hypnosis-imdb-list-full-oct25:142"
+    "hypnosis-imdb-list-full-oct25:155"
    ],
    "index_only": false,
    "local_only": false,
@@ -354960,7 +357618,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:142",
+     "rid": "hypnosis-imdb-list-full-oct25:155",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Surfside 6 (1960–1962)",
      "identifiers": [
@@ -355039,7 +357697,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:142": {
+    "hypnosis-imdb-list-full-oct25:155": {
      "title": "Surfside 6",
      "year": "1960–1962",
      "match_title": "Surfside 6",
@@ -358827,7 +361485,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1868",
     "worldwide-hypnosis:842",
-    "hypnosis-imdb-list-full-oct25:66"
+    "hypnosis-imdb-list-full-oct25:79"
    ],
    "index_only": false,
    "local_only": false,
@@ -358899,7 +361557,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:66",
+     "rid": "hypnosis-imdb-list-full-oct25:79",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Telefon (1977)",
      "identifiers": [
@@ -358978,7 +361636,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:66": {
+    "hypnosis-imdb-list-full-oct25:79": {
      "title": "Telefon",
      "year": "1977",
      "match_title": "Telefon",
@@ -359595,6 +362253,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "movie",
    "categories": [
     "scifi"
@@ -359607,16 +362268,22 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Terminal_Invasion"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Sarah Lafleur: Terminal Invasion",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1872",
-    "worldwide-hypnosis:843"
+    "worldwide-hypnosis:843",
+    "hypnosis-imdb-list-full-oct25:211"
    ],
    "index_only": false,
    "local_only": false,
@@ -359686,6 +362353,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:211",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Terminal Invasion (2002)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Terminal Invasion",
+     "subtitle": "",
+     "year": "2002",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Sarah Lafleur: Terminal Invasion",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -359737,6 +362433,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:211": {
+     "title": "Terminal Invasion",
+     "year": "2002",
+     "match_title": "Terminal Invasion",
+     "match_year": "2002",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Sarah Lafleur: Terminal Invasion",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -363669,7 +366383,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1892",
     "worldwide-hypnosis:1004",
-    "hypnosis-imdb-list-full-oct25:54"
+    "hypnosis-imdb-list-full-oct25:67"
    ],
    "index_only": false,
    "local_only": false,
@@ -363741,7 +366455,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:54",
+     "rid": "hypnosis-imdb-list-full-oct25:67",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Transylvania Twist (1989)",
      "identifiers": [
@@ -363820,7 +366534,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:54": {
+    "hypnosis-imdb-list-full-oct25:67": {
      "title": "Transylvania Twist",
      "year": "1989",
      "match_title": "Transylvania Twist",
@@ -365196,7 +367910,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1900",
     "worldwide-hypnosis:996",
-    "hypnosis-imdb-list-full-oct25:108"
+    "hypnosis-imdb-list-full-oct25:121"
    ],
    "index_only": false,
    "local_only": false,
@@ -365268,7 +367982,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:108",
+     "rid": "hypnosis-imdb-list-full-oct25:121",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "UFO (1970–1971)",
      "identifiers": [
@@ -365347,7 +368061,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:108": {
+    "hypnosis-imdb-list-full-oct25:121": {
      "title": "UFO",
      "year": "1970–1971",
      "match_title": "UFO",
@@ -367204,6 +369918,9 @@ window.CATALOG = {
    "note": "Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "tv",
    "categories": [
     "scifi",
@@ -367217,16 +369934,22 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Unforgettable_%28American_TV_series%29"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Poppy Montgomery: Unforgettable (s4e13)",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1912",
-    "worldwide-hypnosis:1017"
+    "worldwide-hypnosis:1017",
+    "hypnosis-imdb-list-full-oct25:210"
    ],
    "index_only": false,
    "local_only": false,
@@ -367298,6 +370021,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:210",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Unforgettable (2011–2016)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Unforgettable",
+     "subtitle": "",
+     "year": "2011–2016",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Poppy Montgomery: Unforgettable (s4e13)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -367351,6 +370103,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:210": {
+     "title": "Unforgettable",
+     "year": "2011–2016",
+     "match_title": "Unforgettable",
+     "match_year": "2011–2016",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Poppy Montgomery: Unforgettable (s4e13)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    },
    "watch_links": [
@@ -367582,7 +370352,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1914",
     "worldwide-hypnosis:1018",
-    "hypnosis-imdb-list-full-oct25:115"
+    "hypnosis-imdb-list-full-oct25:128"
    ],
    "index_only": false,
    "local_only": false,
@@ -367656,7 +370426,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:115",
+     "rid": "hypnosis-imdb-list-full-oct25:128",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "USA High (1997–1999)",
      "identifiers": [
@@ -367737,7 +370507,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:115": {
+    "hypnosis-imdb-list-full-oct25:128": {
      "title": "USA High",
      "year": "1997–1999",
      "match_title": "USA High",
@@ -368128,7 +370898,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1917",
     "worldwide-hypnosis:1020",
-    "hypnosis-imdb-list-full-oct25:109"
+    "hypnosis-imdb-list-full-oct25:122"
    ],
    "index_only": false,
    "local_only": false,
@@ -368200,7 +370970,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:109",
+     "rid": "hypnosis-imdb-list-full-oct25:122",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "V: The Final Battle (1984)",
      "identifiers": [
@@ -368279,7 +371049,7 @@ window.CATALOG = {
      "pregnancy_note": "Julie is the woman controlled (conversion chamber); Robin, who is pregnant, is a different character.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:109": {
+    "hypnosis-imdb-list-full-oct25:122": {
      "title": "V: The Final Battle",
      "year": "1984",
      "match_title": "V: The Final Battle",
@@ -368494,6 +371264,9 @@ window.CATALOG = {
    "note": "Outcome facts: pregnancy outcome: not pregnant.",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "movie",
    "categories": [
     "vampire"
@@ -368506,16 +371279,22 @@ window.CATALOG = {
     {
      "label": "Wikipedia",
      "url": "https://en.wikipedia.org/wiki/Vampire_Academy_%28film%29"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Bronté Terrell: Vampire Academy",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:1919",
-    "worldwide-hypnosis:1039"
+    "worldwide-hypnosis:1039",
+    "hypnosis-imdb-list-full-oct25:216"
    ],
    "index_only": false,
    "local_only": false,
@@ -368585,6 +371364,35 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "distinct_story": false,
      "matched_by": "title+year"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:216",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Vampire Academy (2014)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Vampire Academy",
+     "subtitle": "",
+     "year": "2014",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Bronté Terrell: Vampire Academy",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -368636,6 +371444,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:216": {
+     "title": "Vampire Academy",
+     "year": "2014",
+     "match_title": "Vampire Academy",
+     "match_year": "2014",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Bronté Terrell: Vampire Academy",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    },
    "watch_links": [
@@ -369983,7 +372809,7 @@ window.CATALOG = {
     "xla62ucxbx02u5:1928",
     "worldwide-hypnosis:1025",
     "royal-hypnosis:7",
-    "hypnosis-imdb-list-full-oct25:113"
+    "hypnosis-imdb-list-full-oct25:126"
    ],
    "index_only": false,
    "local_only": false,
@@ -370107,7 +372933,7 @@ window.CATALOG = {
      "matched_by": "match_title"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:113",
+     "rid": "hypnosis-imdb-list-full-oct25:126",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Van Helsing (2004)",
      "identifiers": [
@@ -370227,7 +373053,7 @@ window.CATALOG = {
      "married": "no",
      "married_note": "Dracula does not marry her; she dies at the end"
     },
-    "hypnosis-imdb-list-full-oct25:113": {
+    "hypnosis-imdb-list-full-oct25:126": {
      "title": "Van Helsing",
      "year": "2004",
      "match_title": "Van Helsing",
@@ -373550,7 +376376,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1947",
     "worldwide-hypnosis:1046",
-    "hypnosis-imdb-list-full-oct25:152"
+    "hypnosis-imdb-list-full-oct25:165"
    ],
    "index_only": false,
    "local_only": false,
@@ -373616,7 +376442,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:152",
+     "rid": "hypnosis-imdb-list-full-oct25:165",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Warriors of the Lost World (1983)",
      "identifiers": [
@@ -373689,7 +376515,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:152": {
+    "hypnosis-imdb-list-full-oct25:165": {
      "title": "Warriors of the Lost World",
      "year": "1983",
      "match_title": "Warriors of the Lost World",
@@ -373753,7 +376579,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:1948",
     "worldwide-hypnosis:972",
-    "hypnosis-imdb-list-full-oct25:124"
+    "hypnosis-imdb-list-full-oct25:137"
    ],
    "index_only": false,
    "local_only": false,
@@ -373825,7 +376651,7 @@ window.CATALOG = {
      "matched_by": "title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:124",
+     "rid": "hypnosis-imdb-list-full-oct25:137",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The Watcher (1995)",
      "identifiers": [
@@ -373904,7 +376730,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:124": {
+    "hypnosis-imdb-list-full-oct25:137": {
      "title": "The Watcher",
      "year": "1995",
      "match_title": "The Watcher",
@@ -398515,7 +401341,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:2201",
     "fanwiki-screen-oct14:28",
-    "hypnosis-imdb-list-full-oct25:50"
+    "hypnosis-imdb-list-full-oct25:63"
    ],
    "index_only": false,
    "local_only": false,
@@ -398589,7 +401415,7 @@ window.CATALOG = {
      "matched_by": "same title+year"
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:50",
+     "rid": "hypnosis-imdb-list-full-oct25:63",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Black Widow (2021)",
      "identifiers": [
@@ -398639,7 +401465,7 @@ window.CATALOG = {
      "kb": "no",
      "prov": "Worldwide female-hypnosis pregnancy/kids sweep, 15–16 Oct 2026 · vector A"
     },
-    "hypnosis-imdb-list-full-oct25:50": {
+    "hypnosis-imdb-list-full-oct25:63": {
      "title": "Black Widow",
      "year": "2021",
      "match_title": "Black Widow",
@@ -399713,7 +402539,7 @@ window.CATALOG = {
    "source_records": [
     "xla62ucxbx02u5:2217",
     "xla62ucxbx02u5:2218",
-    "hypnosis-imdb-list-full-oct25:46"
+    "hypnosis-imdb-list-full-oct25:59"
    ],
    "index_only": false,
    "local_only": false,
@@ -399766,7 +402592,7 @@ window.CATALOG = {
      "distinct_story": true
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:46",
+     "rid": "hypnosis-imdb-list-full-oct25:59",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The Vampire Diaries (2009)",
      "identifiers": [
@@ -399832,7 +402658,7 @@ window.CATALOG = {
      "kb": "no",
      "prov": "Worldwide female-hypnosis pregnancy/kids sweep, 15–16 Oct 2026 · vector B"
     },
-    "hypnosis-imdb-list-full-oct25:46": {
+    "hypnosis-imdb-list-full-oct25:59": {
      "title": "The Vampire Diaries",
      "year": "2009",
      "match_title": "The Vampire Diaries",
@@ -408561,7 +411387,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "worldwide-hypnosis:176",
-    "hypnosis-imdb-list-full-oct25:148"
+    "hypnosis-imdb-list-full-oct25:161"
    ],
    "index_only": false,
    "local_only": true,
@@ -408601,7 +411427,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:148",
+     "rid": "hypnosis-imdb-list-full-oct25:161",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Cold Hearts (1999)",
      "identifiers": [
@@ -408656,7 +411482,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:148": {
+    "hypnosis-imdb-list-full-oct25:161": {
      "title": "Cold Hearts",
      "year": "1999",
      "match_title": "Cold Hearts",
@@ -410066,6 +412892,9 @@ window.CATALOG = {
    "note": "",
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "format": "tv",
    "categories": [
     "scifi",
@@ -410075,20 +412904,85 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki",
      "url": "https://mentalblock.miraheze.org/wiki/DC%27s_Legends_of_Tomorrow"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Courtney Ford: DC's Legends of Tomorrow (s4e14); Jes Macallan: DC's Legends of Tomorrow (s4e14); Naomi Levi: DC's Legends of Tomorrow (s4e14); Caity Lotz: DC's Le",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "worldwide-hypnosis"
+    "worldwide-hypnosis",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
-    "worldwide-hypnosis:267"
+    "worldwide-hypnosis:267",
+    "hypnosis-imdb-list-full-oct25:224"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "worldwide-hypnosis:267",
+    "source": "worldwide-hypnosis",
+    "label": "DC's Legends of Tomorrow (2016–2022)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "DC's Legends of Tomorrow",
+    "subtitle": "",
+    "year": "2016–2022",
+    "meta": "TV series · United States · English",
+    "summary": "DC's Legends of Tomorrow (also known as Legends of Tomorrow and DCLOT) is a 2016 - 2022 American superhero television series that originally aired on the CW Network.",
+    "character": "",
+    "note": "",
+    "mechanism": "Technological hypnosis (device, screen or signal)",
+    "confidence_flag": "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed",
+    "categories": [
+     "scifi",
+     "fantasy"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki",
+      "url": "https://mentalblock.miraheze.org/wiki/DC%27s_Legends_of_Tomorrow"
+     }
+    ],
+    "pregnancy_outcome": "not pregnant",
+    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:224",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "DC's Legends of Tomorrow (2016–2022)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "DC's Legends of Tomorrow",
+     "subtitle": "",
+     "year": "2016–2022",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Courtney Ford: DC's Legends of Tomorrow (s4e14); Jes Macallan: DC's Legends of Tomorrow (s4e14); Naomi Levi: DC's Legends of Tomorrow (s4e14); Caity Lotz: DC's Le",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "worldwide-hypnosis:267": {
      "title": "DC's Legends of Tomorrow",
@@ -410111,6 +413005,24 @@ window.CATALOG = {
      "pregnancy_outcome": "not pregnant",
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
+    },
+    "hypnosis-imdb-list-full-oct25:224": {
+     "title": "DC's Legends of Tomorrow",
+     "year": "2016–2022",
+     "match_title": "DC's Legends of Tomorrow",
+     "match_year": "2016–2022",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Courtney Ford: DC's Legends of Tomorrow (s4e14); Jes Macallan: DC's Legends of Tomorrow (s4e14); Naomi Levi: DC's Legends of Tomorrow (s4e14); Caity Lotz: DC's Le",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -413574,7 +416486,8 @@ window.CATALOG = {
    "pregnancy_outcome": "not pregnant",
    "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
    "tags": [
-    "loose fit"
+    "loose fit",
+    "imdb-list-ls099930129"
    ],
    "kids_status": "unknown",
    "kids_together": "no",
@@ -413601,16 +416514,22 @@ window.CATALOG = {
     {
      "label": "Rotten Tomatoes",
      "url": "https://www.rottentomatoes.com/m/vampires_out_for_blood"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Vanessa Angel: Out for Blood",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "worldwide-hypnosis",
-    "hypnosis-assault-loose"
+    "hypnosis-assault-loose",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
     "worldwide-hypnosis:672",
-    "hypnosis-assault-loose:35"
+    "hypnosis-assault-loose:35",
+    "hypnosis-imdb-list-full-oct25:233"
    ],
    "index_only": false,
    "local_only": true,
@@ -413695,6 +416614,35 @@ window.CATALOG = {
      "fit_note": "Loose fit: the sexual hypnosis is by a female vampire on a man; the hypnotized woman (Susan) is bitten, not sexually assaulted.",
      "distinct_story": true,
      "matched_by": "match_title"
+    },
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:233",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Out For Blood (2004)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Out For Blood",
+     "subtitle": "",
+     "year": "2004",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Vanessa Angel: Out for Blood",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
     }
    ],
    "raw": {
@@ -413767,6 +416715,24 @@ window.CATALOG = {
      "catalog_ids": [
       1523
      ]
+    },
+    "hypnosis-imdb-list-full-oct25:233": {
+     "title": "Out For Blood",
+     "year": "2004",
+     "match_title": "Out For Blood",
+     "match_year": "2004",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Vanessa Angel: Out for Blood",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -414174,7 +417140,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "worldwide-hypnosis:703",
-    "hypnosis-imdb-list-full-oct25:95"
+    "hypnosis-imdb-list-full-oct25:108"
    ],
    "index_only": false,
    "local_only": true,
@@ -414208,7 +417174,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:95",
+     "rid": "hypnosis-imdb-list-full-oct25:108",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Prova de Amor",
      "identifiers": [],
@@ -414257,7 +417223,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:95": {
+    "hypnosis-imdb-list-full-oct25:108": {
      "title": "Prova de Amor",
      "year": "",
      "match_title": "Prova de Amor",
@@ -415054,7 +418020,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "worldwide-hypnosis:768",
-    "hypnosis-imdb-list-full-oct25:70"
+    "hypnosis-imdb-list-full-oct25:83"
    ],
    "index_only": false,
    "local_only": true,
@@ -415091,7 +418057,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:70",
+     "rid": "hypnosis-imdb-list-full-oct25:83",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Sleep Attack (2012)",
      "identifiers": [
@@ -415143,7 +418109,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:70": {
+    "hypnosis-imdb-list-full-oct25:83": {
      "title": "Sleep Attack",
      "year": "2012",
      "match_title": "Sleep Attack",
@@ -415293,7 +418259,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "worldwide-hypnosis:791",
-    "hypnosis-imdb-list-full-oct25:144"
+    "hypnosis-imdb-list-full-oct25:157"
    ],
    "index_only": false,
    "local_only": true,
@@ -415329,7 +418295,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:144",
+     "rid": "hypnosis-imdb-list-full-oct25:157",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Spirou & Fantasio's Big Adventures (2018)",
      "identifiers": [
@@ -415380,7 +418346,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:144": {
+    "hypnosis-imdb-list-full-oct25:157": {
      "title": "Spirou & Fantasio's Big Adventures",
      "year": "2018",
      "match_title": "Spirou & Fantasio's Big Adventures",
@@ -415498,7 +418464,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "worldwide-hypnosis:808",
-    "hypnosis-imdb-list-full-oct25:143"
+    "hypnosis-imdb-list-full-oct25:156"
    ],
    "index_only": false,
    "local_only": true,
@@ -415534,7 +418500,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:143",
+     "rid": "hypnosis-imdb-list-full-oct25:156",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Starship: Apocalypse (2015)",
      "identifiers": [
@@ -415585,7 +418551,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:143": {
+    "hypnosis-imdb-list-full-oct25:156": {
      "title": "Starship: Apocalypse",
      "year": "2015",
      "match_title": "Starship: Apocalypse",
@@ -417187,7 +420153,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "worldwide-hypnosis:1022",
-    "hypnosis-imdb-list-full-oct25:63"
+    "hypnosis-imdb-list-full-oct25:76"
    ],
    "index_only": false,
    "local_only": true,
@@ -417223,7 +420189,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:63",
+     "rid": "hypnosis-imdb-list-full-oct25:76",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Viper (1996–1999)",
      "identifiers": [
@@ -417274,7 +420240,7 @@ window.CATALOG = {
      "pregnancy_note": "No pregnancy for the hypnotized woman in the cited plot or scene notes.",
      "provenance": "Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded."
     },
-    "hypnosis-imdb-list-full-oct25:63": {
+    "hypnosis-imdb-list-full-oct25:76": {
      "title": "Viper",
      "year": "1996–1999",
      "match_title": "Viper",
@@ -432282,7 +435248,7 @@ window.CATALOG = {
      "url": "https://www.themoviedb.org/movie/419590-the-love-machine"
     },
     {
-     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Carter Cruise: The Love Machine",
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Carter Cruise: The Love Machine; Alice Tate: The Love Machine",
      "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
@@ -432293,7 +435259,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "hypno-sweep-oct9:5",
-    "hypnosis-imdb-list-full-oct25:60"
+    "hypnosis-imdb-list-full-oct25:73"
    ],
    "index_only": false,
    "local_only": true,
@@ -432334,7 +435300,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:60",
+     "rid": "hypnosis-imdb-list-full-oct25:73",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The Love Machine (2016)",
      "identifiers": [
@@ -432352,7 +435318,7 @@ window.CATALOG = {
      "categories": [],
      "sources": [
       {
-       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Carter Cruise: The Love Machine",
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Carter Cruise: The Love Machine; Alice Tate: The Love Machine",
        "url": "https://www.imdb.com/list/ls099930129/"
       }
      ],
@@ -432394,7 +435360,7 @@ window.CATALOG = {
      "kids_together": "not stated",
      "pregnant_end": "not stated"
     },
-    "hypnosis-imdb-list-full-oct25:60": {
+    "hypnosis-imdb-list-full-oct25:73": {
      "title": "The Love Machine",
      "year": "2016",
      "match_title": "The Love Machine",
@@ -432403,7 +435369,7 @@ window.CATALOG = {
      "categories": [],
      "sources": [
       {
-       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Carter Cruise: The Love Machine",
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Carter Cruise: The Love Machine; Alice Tate: The Love Machine",
        "url": "https://www.imdb.com/list/ls099930129/"
       }
      ],
@@ -437288,7 +440254,8 @@ window.CATALOG = {
    "note": "",
    "tags": [
     "Films Live-Action",
-    "Western Live Action"
+    "Western Live Action",
+    "imdb-list-ls099930129"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -437303,20 +440270,91 @@ window.CATALOG = {
     {
      "label": "Mental Block wiki: 666: Devilish Charm",
      "url": "https://mentalblock.miraheze.org/wiki/666:_Devilish_Charm"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Layla Zova: 666 Devilish Charm; Nikki BreAnne Wells: 666 Devilish Charm",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "fanwiki-screen-oct14"
+    "fanwiki-screen-oct14",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:2"
+    "fanwiki-screen-oct14:2",
+    "hypnosis-imdb-list-full-oct25:194"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "fanwiki-screen-oct14:2",
+    "source": "fanwiki-screen-oct14",
+    "label": "666: Devilish Charm (2014)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "666: Devilish Charm",
+    "subtitle": "",
+    "year": "2014",
+    "meta": "Film · English",
+    "summary": "On Valentine's Day, a package shows up at a sorority house without a note saying whom it's for. It contains a charm bracelet that has been cursed by the Devil (Kyle Morris) with the power to grant any six wishes the wearer makes, after which the person will disappear as it claims their soul. The bracelet was recently used by Teri Stevens (Lisa London) to do in her cheating husband, and she disappeared trying to remove it. Her daughter Yancy (Kayla Radomski) is a member of the sorority. Roxanne ( Scene: Olivia's lips are magically glued together after she is told to shut up. The bracelet is activated. Roxanne wants her boyfriend Mike to do whatever she says. Mike falls into a trance. Mike tells Roxanne he'll need a minute to get rid of Bill and attacks him. Alarmed by the weirdness with Olivia and the voice of the Devil, Roxanne talks to Mike again. Mike asks Roxanne to give him more commands. Roxanne tells him to get over to the sorority house.",
+    "character": "",
+    "note": "",
+    "mechanism": "Brainwashing, Love Hypnosis, Magical Hypnosis",
+    "confidence_flag": "Medium-low · single fan-wiki page (Mental Block, 'Hypnotized Female' category); not independently verified",
+    "categories": [
+     "love"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki: 666: Devilish Charm",
+      "url": "https://mentalblock.miraheze.org/wiki/666:_Devilish_Charm"
+     }
+    ],
+    "tags": [
+     "Films Live-Action",
+     "Western Live Action"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:194",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "666: Devilish Charm (2014)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "666: Devilish Charm",
+     "subtitle": "",
+     "year": "2014",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Layla Zova: 666 Devilish Charm; Nikki BreAnne Wells: 666 Devilish Charm",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "fanwiki-screen-oct14:2": {
      "title": "666: Devilish Charm",
@@ -437349,6 +440387,24 @@ window.CATALOG = {
       "Films Live-Action",
       "Western Live Action"
      ]
+    },
+    "hypnosis-imdb-list-full-oct25:194": {
+     "title": "666: Devilish Charm",
+     "year": "2014",
+     "match_title": "666: Devilish Charm",
+     "match_year": "2014",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Layla Zova: 666 Devilish Charm; Nikki BreAnne Wells: 666 Devilish Charm",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -437563,7 +440619,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:4",
-    "hypnosis-imdb-list-full-oct25:114"
+    "hypnosis-imdb-list-full-oct25:127"
    ],
    "index_only": false,
    "local_only": true,
@@ -437611,7 +440667,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:114",
+     "rid": "hypnosis-imdb-list-full-oct25:127",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Absolutely Anything (2015)",
      "identifiers": [
@@ -437678,7 +440734,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:114": {
+    "hypnosis-imdb-list-full-oct25:127": {
      "title": "Absolutely Anything",
      "year": "2015",
      "match_title": "Absolutely Anything",
@@ -437830,7 +440886,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:6",
-    "hypnosis-imdb-list-full-oct25:75"
+    "hypnosis-imdb-list-full-oct25:88"
    ],
    "index_only": false,
    "local_only": true,
@@ -437877,7 +440933,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:75",
+     "rid": "hypnosis-imdb-list-full-oct25:88",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Adventure Inc (2002)",
      "identifiers": [
@@ -437942,7 +440998,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:75": {
+    "hypnosis-imdb-list-full-oct25:88": {
      "title": "Adventure Inc",
      "year": "2002",
      "match_title": "Adventure Inc",
@@ -438351,7 +441407,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:11",
-    "hypnosis-imdb-list-full-oct25:122"
+    "hypnosis-imdb-list-full-oct25:135"
    ],
    "index_only": false,
    "local_only": true,
@@ -438398,7 +441454,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:122",
+     "rid": "hypnosis-imdb-list-full-oct25:135",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "All Hallows' Eve (2016)",
      "identifiers": [
@@ -438464,7 +441520,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:122": {
+    "hypnosis-imdb-list-full-oct25:135": {
      "title": "All Hallows' Eve",
      "year": "2016",
      "match_title": "All Hallows' Eve",
@@ -438521,7 +441577,7 @@ window.CATALOG = {
      "url": "https://www.imdb.com/title/tt1183865/"
     },
     {
-     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Azita Ghanizada: Alphas (s2e4); Alexandra MacDonald: Alphas (s2e7)",
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Azita Ghanizada: Alphas (s2e4); Alexandra MacDonald: Alphas (s2e7); Laura Mennell: Alphas (s1e8); Lauren Holly: Alphas (**)",
      "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
@@ -438532,7 +441588,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:12",
-    "hypnosis-imdb-list-full-oct25:106"
+    "hypnosis-imdb-list-full-oct25:119"
    ],
    "index_only": false,
    "local_only": true,
@@ -438581,7 +441637,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:106",
+     "rid": "hypnosis-imdb-list-full-oct25:119",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Alphas (2011–2012)",
      "identifiers": [
@@ -438599,7 +441655,7 @@ window.CATALOG = {
      "categories": [],
      "sources": [
       {
-       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Azita Ghanizada: Alphas (s2e4); Alexandra MacDonald: Alphas (s2e7)",
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Azita Ghanizada: Alphas (s2e4); Alexandra MacDonald: Alphas (s2e7); Laura Mennell: Alphas (s1e8); Lauren Holly: Alphas (**)",
        "url": "https://www.imdb.com/list/ls099930129/"
       }
      ],
@@ -438648,7 +441704,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:106": {
+    "hypnosis-imdb-list-full-oct25:119": {
      "title": "Alphas",
      "year": "2011–2012",
      "match_title": "Alphas",
@@ -438657,7 +441713,7 @@ window.CATALOG = {
      "categories": [],
      "sources": [
       {
-       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Azita Ghanizada: Alphas (s2e4); Alexandra MacDonald: Alphas (s2e7)",
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Azita Ghanizada: Alphas (s2e4); Alexandra MacDonald: Alphas (s2e7); Laura Mennell: Alphas (s1e8); Lauren Holly: Alphas (**)",
        "url": "https://www.imdb.com/list/ls099930129/"
       }
      ],
@@ -439057,7 +442113,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:16",
-    "hypnosis-imdb-list-full-oct25:153"
+    "hypnosis-imdb-list-full-oct25:166"
    ],
    "index_only": false,
    "local_only": true,
@@ -439104,7 +442160,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:153",
+     "rid": "hypnosis-imdb-list-full-oct25:166",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Avengers: Age of Ultron (2015)",
      "identifiers": [
@@ -439170,7 +442226,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:153": {
+    "hypnosis-imdb-list-full-oct25:166": {
      "title": "Avengers: Age of Ultron",
      "year": "2015",
      "match_title": "Avengers: Age of Ultron",
@@ -441181,7 +444237,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:39",
-    "hypnosis-imdb-list-full-oct25:150"
+    "hypnosis-imdb-list-full-oct25:163"
    ],
    "index_only": false,
    "local_only": true,
@@ -441228,7 +444284,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:150",
+     "rid": "hypnosis-imdb-list-full-oct25:163",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Conan the Adventurer (1997–1998)",
      "identifiers": [
@@ -441293,7 +444349,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:150": {
+    "hypnosis-imdb-list-full-oct25:163": {
      "title": "Conan the Adventurer",
      "year": "1997–1998",
      "match_title": "Conan the Adventurer",
@@ -442371,7 +445427,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:52",
-    "hypnosis-imdb-list-full-oct25:180"
+    "hypnosis-imdb-list-full-oct25:193"
    ],
    "index_only": false,
    "local_only": true,
@@ -442415,7 +445471,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:180",
+     "rid": "hypnosis-imdb-list-full-oct25:193",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Doctor Strange (1978)",
      "identifiers": [
@@ -442477,7 +445533,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:180": {
+    "hypnosis-imdb-list-full-oct25:193": {
      "title": "Doctor Strange",
      "year": "1978",
      "match_title": "Doctor Strange",
@@ -442710,7 +445766,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:55",
-    "hypnosis-imdb-list-full-oct25:61"
+    "hypnosis-imdb-list-full-oct25:74"
    ],
    "index_only": false,
    "local_only": true,
@@ -442757,7 +445813,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:61",
+     "rid": "hypnosis-imdb-list-full-oct25:74",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Dragonquest (2009)",
      "identifiers": [
@@ -442823,7 +445879,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:61": {
+    "hypnosis-imdb-list-full-oct25:74": {
      "title": "Dragonquest",
      "year": "2009",
      "match_title": "Dragonquest",
@@ -444532,7 +447588,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:74",
-    "hypnosis-imdb-list-full-oct25:94"
+    "hypnosis-imdb-list-full-oct25:107"
    ],
    "index_only": false,
    "local_only": true,
@@ -444582,7 +447638,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:94",
+     "rid": "hypnosis-imdb-list-full-oct25:107",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Gilligan's Island (1964–1967)",
      "identifiers": [
@@ -444650,7 +447706,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:94": {
+    "hypnosis-imdb-list-full-oct25:107": {
      "title": "Gilligan's Island",
      "year": "1964–1967",
      "match_title": "Gilligan's Island",
@@ -447195,7 +450251,8 @@ window.CATALOG = {
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
    "note": "",
    "tags": [
-    "Western Live Action"
+    "Western Live Action",
+    "imdb-list-ls099930129"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -447214,20 +450271,97 @@ window.CATALOG = {
     {
      "label": "Wikipedia: Land of the Lost (1991 TV series)",
      "url": "https://en.wikipedia.org/wiki/Land_of_the_Lost_(1991_TV_series)"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Shannon Day: Land of the Lost (1991) (s1e9)",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "fanwiki-screen-oct14"
+    "fanwiki-screen-oct14",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:103"
+    "fanwiki-screen-oct14:103",
+    "hypnosis-imdb-list-full-oct25:240"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "fanwiki-screen-oct14:103",
+    "source": "fanwiki-screen-oct14",
+    "label": "Land Of The Lost (1991) · Mind Games",
+    "identifiers": [
+     "subtitle",
+     "year/date",
+     "own title/qualifier"
+    ],
+    "title": "Land Of The Lost (1991)",
+    "subtitle": "Mind Games",
+    "year": "1991",
+    "meta": "TV · English",
+    "summary": "A family is trapped in a alternative world dominated by dinosaus and must fight to survive it. Mind Games: Shrug uses a hypnotic spell to control Christa's mind. Scene: Shrug casts his hypnotic spell. Christa falls under his control. She manages to resist the villain's command to shoot an arrow at her friends. Christa is hypnotized again. Completely under mind control, Christa gets up and runs off into Shrug's territory. Hypnotized, she arrives at the villain's cave.",
+    "character": "",
+    "note": "",
+    "mechanism": "Magical Hypnosis",
+    "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
+    "categories": [
+     "fantasy"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki: Land Of The Lost (1991)",
+      "url": "https://mentalblock.miraheze.org/wiki/Land_Of_The_Lost_(1991)"
+     },
+     {
+      "label": "Wikipedia: Land of the Lost (1991 TV series)",
+      "url": "https://en.wikipedia.org/wiki/Land_of_the_Lost_(1991_TV_series)"
+     }
+    ],
+    "tags": [
+     "Western Live Action"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:240",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Land Of The Lost (1991)",
+     "identifiers": [
+      "year/date",
+      "own title/qualifier"
+     ],
+     "title": "Land Of The Lost (1991)",
+     "subtitle": "",
+     "year": "1991",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Shannon Day: Land of the Lost (1991) (s1e9)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "fanwiki-screen-oct14:103": {
      "title": "Land Of The Lost (1991)",
@@ -447263,6 +450397,24 @@ window.CATALOG = {
      "tags": [
       "Western Live Action"
      ]
+    },
+    "hypnosis-imdb-list-full-oct25:240": {
+     "title": "Land Of The Lost (1991)",
+     "year": "1991",
+     "match_title": "Land Of The Lost (1991)",
+     "match_year": "1991",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Shannon Day: Land of the Lost (1991) (s1e9)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -447758,7 +450910,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:107",
-    "hypnosis-imdb-list-full-oct25:91"
+    "hypnosis-imdb-list-full-oct25:104"
    ],
    "index_only": false,
    "local_only": true,
@@ -447805,7 +450957,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:91",
+     "rid": "hypnosis-imdb-list-full-oct25:104",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Leprechaun In The Hood (2000)",
      "identifiers": [
@@ -447871,7 +451023,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:91": {
+    "hypnosis-imdb-list-full-oct25:104": {
      "title": "Leprechaun In The Hood",
      "year": "2000",
      "match_title": "Leprechaun In The Hood",
@@ -448622,7 +451774,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:115",
-    "hypnosis-imdb-list-full-oct25:167"
+    "hypnosis-imdb-list-full-oct25:180"
    ],
    "index_only": false,
    "local_only": true,
@@ -448670,7 +451822,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:167",
+     "rid": "hypnosis-imdb-list-full-oct25:180",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Monster Mash: The Movie (1995)",
      "identifiers": [
@@ -448737,7 +451889,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:167": {
+    "hypnosis-imdb-list-full-oct25:180": {
      "title": "Monster Mash: The Movie",
      "year": "1995",
      "match_title": "Monster Mash: The Movie",
@@ -449069,7 +452221,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:118",
-    "hypnosis-imdb-list-full-oct25:87"
+    "hypnosis-imdb-list-full-oct25:100"
    ],
    "index_only": false,
    "local_only": true,
@@ -449116,7 +452268,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:87",
+     "rid": "hypnosis-imdb-list-full-oct25:100",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Mystic Knights of Tir Na Nog (1998–1999)",
      "identifiers": [
@@ -449181,7 +452333,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:87": {
+    "hypnosis-imdb-list-full-oct25:100": {
      "title": "Mystic Knights of Tir Na Nog",
      "year": "1998–1999",
      "match_title": "Mystic Knights of Tir Na Nog",
@@ -450703,7 +453855,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:134",
-    "hypnosis-imdb-list-full-oct25:155"
+    "hypnosis-imdb-list-full-oct25:168"
    ],
    "index_only": false,
    "local_only": true,
@@ -450752,7 +453904,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:155",
+     "rid": "hypnosis-imdb-list-full-oct25:168",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Santo Vs. Frankenstein's Daughter (1972)",
      "identifiers": [
@@ -450819,7 +453971,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:155": {
+    "hypnosis-imdb-list-full-oct25:168": {
      "title": "Santo Vs. Frankenstein's Daughter",
      "year": "1972",
      "match_title": "Santo Vs. Frankenstein's Daughter",
@@ -451104,7 +454256,8 @@ window.CATALOG = {
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
    "note": "",
    "tags": [
-    "Western Live Action"
+    "Western Live Action",
+    "imdb-list-ls099930129"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -451123,20 +454276,95 @@ window.CATALOG = {
     {
      "label": "Wikipedia: She-Wolf of London (TV series)",
      "url": "https://en.wikipedia.org/wiki/She-Wolf_of_London_(TV_series)"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Marta DuBois: She-Wolf of London (s1e16); Kate Hodge: She-Wolf of London (s1e11)",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "fanwiki-screen-oct14"
+    "fanwiki-screen-oct14",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:138"
+    "fanwiki-screen-oct14:138",
+    "hypnosis-imdb-list-full-oct25:236"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "fanwiki-screen-oct14:138",
+    "source": "fanwiki-screen-oct14",
+    "label": "She-Wolf of London · Big Top She-Wolf (Season 1, Episode 11) (1990–1991)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "She-Wolf of London",
+    "subtitle": "Big Top She-Wolf (Season 1, Episode 11)",
+    "year": "1990–1991",
+    "meta": "TV · English",
+    "summary": "Big Top She-Wolf (Season 1, Episode 11): The ringmaster of a circus is able to prevent Randi from transforming during a full moon. He offers to make the change permanent, curing Randi of her lycanthropy forever, but only if she sells her soul to the Devil. When she refuses, he hypnotizes her and attempts to sacrifice her to the Devil anyway.",
+    "character": "",
+    "note": "",
+    "mechanism": "Magical Hypnosis",
+    "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
+    "categories": [
+     "scifi"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki: She-Wolf of London",
+      "url": "https://mentalblock.miraheze.org/wiki/She-Wolf_of_London"
+     },
+     {
+      "label": "Wikipedia: She-Wolf of London (TV series)",
+      "url": "https://en.wikipedia.org/wiki/She-Wolf_of_London_(TV_series)"
+     }
+    ],
+    "tags": [
+     "Western Live Action"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:236",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "She-Wolf of London (1990–1991)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "She-Wolf of London",
+     "subtitle": "",
+     "year": "1990–1991",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Marta DuBois: She-Wolf of London (s1e16); Kate Hodge: She-Wolf of London (s1e11)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "fanwiki-screen-oct14:138": {
      "title": "She-Wolf of London",
@@ -451172,6 +454400,24 @@ window.CATALOG = {
      "tags": [
       "Western Live Action"
      ]
+    },
+    "hypnosis-imdb-list-full-oct25:236": {
+     "title": "She-Wolf of London",
+     "year": "1990–1991",
+     "match_title": "She-Wolf of London",
+     "match_year": "1990–1991",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Marta DuBois: She-Wolf of London (s1e16); Kate Hodge: She-Wolf of London (s1e11)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -451392,7 +454638,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:141",
-    "hypnosis-imdb-list-full-oct25:145"
+    "hypnosis-imdb-list-full-oct25:158"
    ],
    "index_only": false,
    "local_only": true,
@@ -451440,7 +454686,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:145",
+     "rid": "hypnosis-imdb-list-full-oct25:158",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Special Unit 2 (2001–2002)",
      "identifiers": [
@@ -451506,7 +454752,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:145": {
+    "hypnosis-imdb-list-full-oct25:158": {
      "title": "Special Unit 2",
      "year": "2001–2002",
      "match_title": "Special Unit 2",
@@ -452080,7 +455326,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:148",
-    "hypnosis-imdb-list-full-oct25:45"
+    "hypnosis-imdb-list-full-oct25:58"
    ],
    "index_only": false,
    "local_only": true,
@@ -452123,7 +455369,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:45",
+     "rid": "hypnosis-imdb-list-full-oct25:58",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The Adventures of Doctor Fu Manchu (1956)",
      "identifiers": [
@@ -452184,7 +455430,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:45": {
+    "hypnosis-imdb-list-full-oct25:58": {
      "title": "The Adventures of Doctor Fu Manchu",
      "year": "1956",
      "match_title": "The Adventures of Doctor Fu Manchu",
@@ -452588,7 +455834,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:153",
-    "hypnosis-imdb-list-full-oct25:51"
+    "hypnosis-imdb-list-full-oct25:64"
    ],
    "index_only": false,
    "local_only": true,
@@ -452635,7 +455881,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:51",
+     "rid": "hypnosis-imdb-list-full-oct25:64",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The Champions (1968–1969)",
      "identifiers": [
@@ -452700,7 +455946,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:51": {
+    "hypnosis-imdb-list-full-oct25:64": {
      "title": "The Champions",
      "year": "1968–1969",
      "match_title": "The Champions",
@@ -453170,7 +456416,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:158",
-    "hypnosis-imdb-list-full-oct25:172"
+    "hypnosis-imdb-list-full-oct25:185"
    ],
    "index_only": false,
    "local_only": true,
@@ -453217,7 +456463,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:172",
+     "rid": "hypnosis-imdb-list-full-oct25:185",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The Fuller Report (1968)",
      "identifiers": [
@@ -453283,7 +456529,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:172": {
+    "hypnosis-imdb-list-full-oct25:185": {
      "title": "The Fuller Report",
      "year": "1968",
      "match_title": "The Fuller Report",
@@ -453522,7 +456768,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:161",
-    "hypnosis-imdb-list-full-oct25:100"
+    "hypnosis-imdb-list-full-oct25:113"
    ],
    "index_only": false,
    "local_only": true,
@@ -453569,7 +456815,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:100",
+     "rid": "hypnosis-imdb-list-full-oct25:113",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The King of Fighters (2010)",
      "identifiers": [
@@ -453635,7 +456881,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:100": {
+    "hypnosis-imdb-list-full-oct25:113": {
      "title": "The King of Fighters",
      "year": "2010",
      "match_title": "The King of Fighters",
@@ -454037,7 +457283,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:166",
-    "hypnosis-imdb-list-full-oct25:134"
+    "hypnosis-imdb-list-full-oct25:147"
    ],
    "index_only": false,
    "local_only": true,
@@ -454084,7 +457330,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:134",
+     "rid": "hypnosis-imdb-list-full-oct25:147",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The Mentalist (2008–2015)",
      "identifiers": [
@@ -454149,7 +457395,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:134": {
+    "hypnosis-imdb-list-full-oct25:147": {
      "title": "The Mentalist",
      "year": "2008–2015",
      "match_title": "The Mentalist",
@@ -454561,7 +457807,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:172",
-    "hypnosis-imdb-list-full-oct25:126"
+    "hypnosis-imdb-list-full-oct25:139"
    ],
    "index_only": false,
    "local_only": true,
@@ -454608,7 +457854,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:126",
+     "rid": "hypnosis-imdb-list-full-oct25:139",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The Suite Life of Zack & Cody (2005–2008)",
      "identifiers": [
@@ -454673,7 +457919,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:126": {
+    "hypnosis-imdb-list-full-oct25:139": {
      "title": "The Suite Life of Zack & Cody",
      "year": "2005–2008",
      "match_title": "The Suite Life of Zack & Cody",
@@ -454823,7 +458069,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:174",
-    "hypnosis-imdb-list-full-oct25:74"
+    "hypnosis-imdb-list-full-oct25:87"
    ],
    "index_only": false,
    "local_only": true,
@@ -454870,7 +458116,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:74",
+     "rid": "hypnosis-imdb-list-full-oct25:87",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The Wheel of Time (2021)",
      "identifiers": [
@@ -454935,7 +458181,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:74": {
+    "hypnosis-imdb-list-full-oct25:87": {
      "title": "The Wheel of Time",
      "year": "2021",
      "match_title": "The Wheel of Time",
@@ -455003,7 +458249,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:175",
-    "hypnosis-imdb-list-full-oct25:123"
+    "hypnosis-imdb-list-full-oct25:136"
    ],
    "index_only": false,
    "local_only": true,
@@ -455052,7 +458298,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:123",
+     "rid": "hypnosis-imdb-list-full-oct25:136",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The Wild Wild West (1965–1969)",
      "identifiers": [
@@ -455119,7 +458365,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:123": {
+    "hypnosis-imdb-list-full-oct25:136": {
      "title": "The Wild Wild West",
      "year": "1965–1969",
      "match_title": "The Wild Wild West",
@@ -455436,7 +458682,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:179",
-    "hypnosis-imdb-list-full-oct25:147"
+    "hypnosis-imdb-list-full-oct25:160"
    ],
    "index_only": false,
    "local_only": true,
@@ -455483,7 +458729,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:147",
+     "rid": "hypnosis-imdb-list-full-oct25:160",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Turbo: A Power Rangers Movie (1997)",
      "identifiers": [
@@ -455549,7 +458795,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:147": {
+    "hypnosis-imdb-list-full-oct25:160": {
      "title": "Turbo: A Power Rangers Movie",
      "year": "1997",
      "match_title": "Turbo: A Power Rangers Movie",
@@ -455616,7 +458862,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:180",
-    "hypnosis-imdb-list-full-oct25:117"
+    "hypnosis-imdb-list-full-oct25:130"
    ],
    "index_only": false,
    "local_only": true,
@@ -455663,7 +458909,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:117",
+     "rid": "hypnosis-imdb-list-full-oct25:130",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Unlucky Charms (2013)",
      "identifiers": [
@@ -455729,7 +458975,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:117": {
+    "hypnosis-imdb-list-full-oct25:130": {
      "title": "Unlucky Charms",
      "year": "2013",
      "match_title": "Unlucky Charms",
@@ -455804,7 +459050,7 @@ window.CATALOG = {
    "source_records": [
     "fanwiki-screen-oct14:181",
     "streaming-oct15:6",
-    "hypnosis-imdb-list-full-oct25:116"
+    "hypnosis-imdb-list-full-oct25:129"
    ],
    "index_only": false,
    "local_only": true,
@@ -455883,7 +459129,7 @@ window.CATALOG = {
      "distinct_story": true
     },
     {
-     "rid": "hypnosis-imdb-list-full-oct25:116",
+     "rid": "hypnosis-imdb-list-full-oct25:129",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Upstream Color (2013)",
      "identifiers": [
@@ -455977,7 +459223,7 @@ window.CATALOG = {
       }
      ]
     },
-    "hypnosis-imdb-list-full-oct25:116": {
+    "hypnosis-imdb-list-full-oct25:129": {
      "title": "Upstream Color",
      "year": "2013",
      "match_title": "Upstream Color",
@@ -456094,7 +459340,8 @@ window.CATALOG = {
    "provenance": "Fan-wiki screen, 14 Oct 2026 PT",
    "note": "",
    "tags": [
-    "Western Live Action"
+    "Western Live Action",
+    "imdb-list-ls099930129"
    ],
    "kids_status": "not stated",
    "kids_together": "not stated",
@@ -456115,20 +459362,97 @@ window.CATALOG = {
     {
      "label": "Wikipedia: Weird Science (TV series)",
      "url": "https://en.wikipedia.org/wiki/Weird_Science_(TV_series)"
+    },
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Vanessa Angel: Weird Science (**)",
+     "url": "https://www.imdb.com/list/ls099930129/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
-    "fanwiki-screen-oct14"
+    "fanwiki-screen-oct14",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
-    "fanwiki-screen-oct14:183"
+    "fanwiki-screen-oct14:183",
+    "hypnosis-imdb-list-full-oct25:232"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "fanwiki-screen-oct14:183",
+    "source": "fanwiki-screen-oct14",
+    "label": "Weird Science · Demon Lisa (Season 4, Episode 13) / Gary and Wyatt's Bloodsucking Adventure (Season 4, Episode 19) (1994–1998)",
+    "identifiers": [
+     "subtitle",
+     "year/date"
+    ],
+    "title": "Weird Science",
+    "subtitle": "Demon Lisa (Season 4, Episode 13) / Gary and Wyatt's Bloodsucking Adventure (Season 4, Episode 19)",
+    "year": "1994–1998",
+    "meta": "TV · English",
+    "summary": "Demon Lisa (Season 4, Episode 13): During a Halloween party, Lisa is possessed by a cyber-demon, which wants to use her genie powers to take over the world. Gary and Wyatt's Bloodsucking Adventure (Season 4, Episode 19): Lisa turns Gary and Wyatt into Anne Rice-esque vampires (who crave chocolate milk instead of blood) so that they'll be cool enough to get into an exclusive club. The boys enjoy using their new vampire powers to hypnotize the beautiful women they find inside the club, not realizing that the place is run by vampires. When Lisa tries to save them, she is hypnotized by the head va Scene: A girl rebuffs Gary's attempt to chat with her Gary uses his new vampire powers to hypnotize her She is instantly hypnotized And falls under Gary's control By the time Wyatt shows up, Gary has collected a harem The head vampire surprises Lisa and hypnotizes her Lisa falls into a trance Gary and Wyatt find Lisa under the vampire's control",
+    "character": "",
+    "note": "",
+    "mechanism": "Comedic Hypnosis, Magical Hypnosis, Possession",
+    "confidence_flag": "Medium · scene from fan wiki; title/year/language confirmed on Wikipedia",
+    "categories": [
+     "vampire",
+     "spirit",
+     "index-62"
+    ],
+    "sources": [
+     {
+      "label": "Mental Block wiki: Weird Science (TV Series)",
+      "url": "https://mentalblock.miraheze.org/wiki/Weird_Science_(TV_Series)"
+     },
+     {
+      "label": "Wikipedia: Weird Science (TV series)",
+      "url": "https://en.wikipedia.org/wiki/Weird_Science_(TV_series)"
+     }
+    ],
+    "tags": [
+     "Western Live Action"
+    ],
+    "kids_status": "not stated",
+    "kids_together": "not stated",
+    "married": "not stated",
+    "pregnant_end": "not stated",
+    "evidence": "Fan wiki page with scene captions; pregnancy/kids fields left not stated (source does not say)",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:232",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "Weird Science (1994–1998)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Weird Science",
+     "subtitle": "",
+     "year": "1994–1998",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Vanessa Angel: Weird Science (**)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "fanwiki-screen-oct14:183": {
      "title": "Weird Science",
@@ -456166,6 +459490,24 @@ window.CATALOG = {
      "tags": [
       "Western Live Action"
      ]
+    },
+    "hypnosis-imdb-list-full-oct25:232": {
+     "title": "Weird Science",
+     "year": "1994–1998",
+     "match_title": "Weird Science",
+     "match_year": "1994–1998",
+     "format": "tv",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Vanessa Angel: Weird Science (**)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -456529,7 +459871,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "fanwiki-screen-oct14:186",
-    "hypnosis-imdb-list-full-oct25:111"
+    "hypnosis-imdb-list-full-oct25:124"
    ],
    "index_only": false,
    "local_only": true,
@@ -456576,7 +459918,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:111",
+     "rid": "hypnosis-imdb-list-full-oct25:124",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Xena: Warrior Princess (1995)",
      "identifiers": [
@@ -456641,7 +459983,7 @@ window.CATALOG = {
       "Western Live Action"
      ]
     },
-    "hypnosis-imdb-list-full-oct25:111": {
+    "hypnosis-imdb-list-full-oct25:124": {
      "title": "Xena: Warrior Princess",
      "year": "1995",
      "match_title": "Xena: Warrior Princess",
@@ -468197,8 +471539,11 @@ window.CATALOG = {
    "confidence_flag": "",
    "summary": "Suburban housewife Leslie Shaber is hypnotized by pet-shop owner Harry Thropen's glowing eyes and bitten so she becomes his werewolf mate; her daughter Jennifer breaks the spell by killing him with silver.",
    "character": "Leslie Shaber",
-   "provenance": "",
+   "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added",
    "note": "",
+   "tags": [
+    "imdb-list-ls099930129"
+   ],
    "kids_status": "yes",
    "kids_note": "daughter Jennifer (teen)",
    "kids_together": "yes — daughter Jennifer (from before); no new children",
@@ -468211,19 +471556,85 @@ window.CATALOG = {
     "wife-hypnotized",
     "another-man"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Tina Caspary: My Mom's a Werewolf",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    }
+   ],
    "youtube_ids": [],
    "from_sources": [
-    "wife-hypnosis-oct15"
+    "wife-hypnosis-oct15",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "source_records": [
-    "wife-hypnosis-oct15:105"
+    "wife-hypnosis-oct15:105",
+    "hypnosis-imdb-list-full-oct25:209"
    ],
    "index_only": false,
    "local_only": true,
    "thumbnail": null,
-   "primary_copy": null,
-   "merged_from": [],
+   "primary_copy": {
+    "rid": "wife-hypnosis-oct15:105",
+    "source": "wife-hypnosis-oct15",
+    "label": "My Mom's a Werewolf (1989)",
+    "identifiers": [
+     "year/date"
+    ],
+    "title": "My Mom's a Werewolf",
+    "subtitle": "",
+    "year": "1989",
+    "meta": "US · English · horror-comedy film",
+    "summary": "Suburban housewife Leslie Shaber is hypnotized by pet-shop owner Harry Thropen's glowing eyes and bitten so she becomes his werewolf mate; her daughter Jennifer breaks the spell by killing him with silver.",
+    "character": "Leslie Shaber",
+    "note": "",
+    "mechanism": "",
+    "confidence_flag": "",
+    "categories": [
+     "wife-hypnotized",
+     "another-man"
+    ],
+    "sources": [],
+    "kids_status": "yes",
+    "kids_note": "daughter Jennifer (teen)",
+    "kids_together": "yes — daughter Jennifer (from before); no new children",
+    "pregnant_end": "no",
+    "evidence": "Wikipedia; Mental Block; MidnightCult/Horror Society reviews",
+    "already_married": "yes",
+    "already_married_note": "Yes — husband: Howard Shaber",
+    "distinct_story": false
+   },
+   "merged_from": [
+    {
+     "rid": "hypnosis-imdb-list-full-oct25:209",
+     "source": "hypnosis-imdb-list-full-oct25",
+     "label": "My Mom's a Werewolf (1989)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "My Mom's a Werewolf",
+     "subtitle": "",
+     "year": "1989",
+     "meta": "",
+     "summary": "",
+     "character": "",
+     "note": "",
+     "mechanism": "",
+     "confidence_flag": "",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Tina Caspary: My Mom's a Werewolf",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "distinct_story": false,
+     "matched_by": "match_title"
+    }
+   ],
    "raw": {
     "wife-hypnosis-oct15:105": {
      "title": "My Mom's a Werewolf",
@@ -468243,6 +471654,24 @@ window.CATALOG = {
      "already_married": "yes",
      "already_married_note": "Yes — husband: Howard Shaber",
      "evidence": "Wikipedia; Mental Block; MidnightCult/Horror Society reviews"
+    },
+    "hypnosis-imdb-list-full-oct25:209": {
+     "title": "My Mom's a Werewolf",
+     "year": "1989",
+     "match_title": "My Mom's a Werewolf",
+     "match_year": "1989",
+     "format": "movie",
+     "categories": [],
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Tina Caspary: My Mom's a Werewolf",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      }
+     ],
+     "tags": [
+      "imdb-list-ls099930129"
+     ],
+     "provenance": "Listed on IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT); source link only, no plot facts added"
     }
    }
   },
@@ -505753,7 +509182,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "hypnosis-deep-oct25:104",
-    "hypnosis-imdb-list-full-oct25:162"
+    "hypnosis-imdb-list-full-oct25:175"
    ],
    "index_only": false,
    "local_only": true,
@@ -505799,7 +509228,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:162",
+     "rid": "hypnosis-imdb-list-full-oct25:175",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "The Dead Pit (1989)",
      "identifiers": [
@@ -505861,7 +509290,7 @@ window.CATALOG = {
      "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
      "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
     },
-    "hypnosis-imdb-list-full-oct25:162": {
+    "hypnosis-imdb-list-full-oct25:175": {
      "title": "The Dead Pit",
      "year": "1989",
      "match_title": "The Dead Pit",
@@ -510004,7 +513433,7 @@ window.CATALOG = {
    ],
    "source_records": [
     "hypnosis-deep-oct25b:36",
-    "hypnosis-imdb-list-full-oct25:53"
+    "hypnosis-imdb-list-full-oct25:66"
    ],
    "index_only": false,
    "local_only": true,
@@ -510051,7 +513480,7 @@ window.CATALOG = {
    },
    "merged_from": [
     {
-     "rid": "hypnosis-imdb-list-full-oct25:53",
+     "rid": "hypnosis-imdb-list-full-oct25:66",
      "source": "hypnosis-imdb-list-full-oct25",
      "label": "Alias (2001)",
      "identifiers": [
@@ -510114,7 +513543,7 @@ window.CATALOG = {
      "confidence_flag": "high for the hypnosis / mind-control event (plot summary); marital, kids and pregnancy status not stated",
      "provenance": "Found via a full-text Wikipedia crawl for hypnosis / brainwashing plot terms, 25 Oct 2026 PT"
     },
-    "hypnosis-imdb-list-full-oct25:53": {
+    "hypnosis-imdb-list-full-oct25:66": {
      "title": "Alias",
      "year": "2001",
      "match_title": "Alias",
@@ -517846,8 +521275,8 @@ window.CATALOG = {
    "meta": "1973 British swashbuckling action horror film · from Wikipedia first sentence",
    "mechanism": "hypnosis / trance",
    "confidence_flag": "medium: IMDb list + Wikipedia keyword passage; wife/kids/pregnancy not stated",
-   "summary": "IMDb list records Wanda Ventham as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"The \"bedridden\" Lady Durward reveals herself as the newly youthful vampire, and she hypnotises Carla and the Durward siblings.\"",
-   "character": "Wanda Ventham (character names not given on the list)",
+   "summary": "IMDb list records Caroline Munro, Wanda Ventham as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"The \"bedridden\" Lady Durward reveals herself as the newly youthful vampire, and she hypnotises Carla and the Durward siblings.\"",
+   "character": "Caroline Munro, Wanda Ventham (character names not given on the list)",
    "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
    "note": "",
    "pregnancy_note": "not stated in the sources used",
@@ -517871,7 +521300,7 @@ window.CATALOG = {
    ],
    "sources": [
     {
-     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Wanda Ventham: Captain Kronos",
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Wanda Ventham: Captain Kronos; Caroline Munro: Captain Kronos",
      "url": "https://www.imdb.com/list/ls099930129/"
     },
     {
@@ -517898,8 +521327,8 @@ window.CATALOG = {
      "format": "movie",
      "meta": "1973 British swashbuckling action horror film · from Wikipedia first sentence",
      "mechanism": "hypnosis / trance",
-     "character": "Wanda Ventham (character names not given on the list)",
-     "summary": "IMDb list records Wanda Ventham as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"The \"bedridden\" Lady Durward reveals herself as the newly youthful vampire, and she hypnotises Carla and the Durward siblings.\"",
+     "character": "Caroline Munro, Wanda Ventham (character names not given on the list)",
+     "summary": "IMDb list records Caroline Munro, Wanda Ventham as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"The \"bedridden\" Lady Durward reveals herself as the newly youthful vampire, and she hypnotises Carla and the Durward siblings.\"",
      "categories": [
       "vampire",
       "cult",
@@ -517914,7 +521343,7 @@ window.CATALOG = {
      "pregnancy_note": "not stated in the sources used",
      "sources": [
       {
-       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Wanda Ventham: Captain Kronos",
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Wanda Ventham: Captain Kronos; Caroline Munro: Captain Kronos",
        "url": "https://www.imdb.com/list/ls099930129/"
       },
       {
@@ -519155,8 +522584,8 @@ window.CATALOG = {
    "meta": "2006 Canadian horror film · from Wikipedia first sentence",
    "mechanism": "possession",
    "confidence_flag": "medium: IMDb list + Wikipedia keyword passage; wife/kids/pregnancy not stated",
-   "summary": "IMDb list records Amy Lalonde as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"Alex begins to have visions of Elizabeth being possessed by a demon.\"",
-   "character": "Amy Lalonde (character names not given on the list)",
+   "summary": "IMDb list records Amy Lalonde, Barbara Mamabolo, Jordan Madley as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"Alex begins to have visions of Elizabeth being possessed by a demon.\"",
+   "character": "Amy Lalonde, Barbara Mamabolo, Jordan Madley (character names not given on the list)",
    "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
    "note": "",
    "pregnancy_note": "not stated in the sources used",
@@ -519180,7 +522609,7 @@ window.CATALOG = {
    ],
    "sources": [
     {
-     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Amy Lalonde: 5ive Girls",
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Amy Lalonde: 5ive Girls; Jordan Madley: 5ive Girls; Barbara Mamabolo: 5ive Girls",
      "url": "https://www.imdb.com/list/ls099930129/"
     },
     {
@@ -519207,8 +522636,8 @@ window.CATALOG = {
      "format": "movie",
      "meta": "2006 Canadian horror film · from Wikipedia first sentence",
      "mechanism": "possession",
-     "character": "Amy Lalonde (character names not given on the list)",
-     "summary": "IMDb list records Amy Lalonde as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"Alex begins to have visions of Elizabeth being possessed by a demon.\"",
+     "character": "Amy Lalonde, Barbara Mamabolo, Jordan Madley (character names not given on the list)",
+     "summary": "IMDb list records Amy Lalonde, Barbara Mamabolo, Jordan Madley as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"Alex begins to have visions of Elizabeth being possessed by a demon.\"",
      "categories": [
       "occult",
       "spirit",
@@ -519223,7 +522652,7 @@ window.CATALOG = {
      "pregnancy_note": "not stated in the sources used",
      "sources": [
       {
-       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Amy Lalonde: 5ive Girls",
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Amy Lalonde: 5ive Girls; Jordan Madley: 5ive Girls; Barbara Mamabolo: 5ive Girls",
        "url": "https://www.imdb.com/list/ls099930129/"
       },
       {
@@ -519796,6 +523225,1129 @@ window.CATALOG = {
       "imdb-list-ls099930129",
       "imdb-list-full-oct25",
       "imdb-list-only"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3681,
+   "title": "First Wave",
+   "subtitle": "",
+   "year": "1998",
+   "meta": "Canadian science fiction drama television series · from Wikipedia first sentence",
+   "mechanism": "listed by IMDb list (type not verified)",
+   "confidence_flag": "low: IMDb list only, plot not verified",
+   "summary": "IMDb list records Traci Lords as hypnotized / brainwashed / possessed / mind-controlled in this production. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified.",
+   "character": "Traci Lords (character names not given on the list)",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "note": "",
+   "pregnancy_note": "not stated in the sources used",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25",
+    "imdb-list-only"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+   "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown. Wikipedia evidence is series/article-level; the listed episode was not individually verified.",
+   "already_married": "not stated",
+   "format": "tv",
+   "categories": [
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Traci Lords: First Wave (**)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: First Wave (TV series)",
+     "url": "https://en.wikipedia.org/wiki/First_Wave_(TV_series)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-imdb-list-full-oct25"
+   ],
+   "source_records": [
+    "hypnosis-imdb-list-full-oct25:41"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-imdb-list-full-oct25:41": {
+     "title": "First Wave",
+     "year": "1998",
+     "format": "tv",
+     "meta": "Canadian science fiction drama television series · from Wikipedia first sentence",
+     "mechanism": "listed by IMDb list (type not verified)",
+     "character": "Traci Lords (character names not given on the list)",
+     "summary": "IMDb list records Traci Lords as hypnotized / brainwashed / possessed / mind-controlled in this production. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified.",
+     "categories": [
+      "other-control"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in the sources used",
+     "pregnancy_note": "not stated in the sources used",
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Traci Lords: First Wave (**)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      },
+      {
+       "label": "Wikipedia: First Wave (TV series)",
+       "url": "https://en.wikipedia.org/wiki/First_Wave_(TV_series)"
+      }
+     ],
+     "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+     "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown. Wikipedia evidence is series/article-level; the listed episode was not individually verified.",
+     "confidence_flag": "low: IMDb list only, plot not verified",
+     "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+     "tags": [
+      "imdb-list-ls099930129",
+      "imdb-list-full-oct25",
+      "imdb-list-only"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3682,
+   "title": "Flash Gordon",
+   "subtitle": "",
+   "year": "2007",
+   "meta": "science fiction television series · from Wikipedia first sentence",
+   "mechanism": "listed by IMDb list (type not verified)",
+   "confidence_flag": "low: IMDb list only, plot not verified",
+   "summary": "IMDb list records Gina Holden as hypnotized / brainwashed / possessed / mind-controlled in this production. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified. Episode details from the list: Gina Holden Flash Gordon (2007) (s1e15).",
+   "character": "Gina Holden (character names not given on the list)",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "note": "",
+   "pregnancy_note": "not stated in the sources used",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25",
+    "imdb-list-only"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+   "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown. Wikipedia evidence is series/article-level; the listed episode was not individually verified.",
+   "already_married": "not stated",
+   "format": "tv",
+   "categories": [
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Gina Holden: Flash Gordon (2007) (s1e15)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: Flash Gordon (2007 TV series)",
+     "url": "https://en.wikipedia.org/wiki/Flash_Gordon_(2007_TV_series)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-imdb-list-full-oct25"
+   ],
+   "source_records": [
+    "hypnosis-imdb-list-full-oct25:42"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-imdb-list-full-oct25:42": {
+     "title": "Flash Gordon",
+     "year": "2007",
+     "format": "tv",
+     "meta": "science fiction television series · from Wikipedia first sentence",
+     "mechanism": "listed by IMDb list (type not verified)",
+     "character": "Gina Holden (character names not given on the list)",
+     "summary": "IMDb list records Gina Holden as hypnotized / brainwashed / possessed / mind-controlled in this production. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified. Episode details from the list: Gina Holden Flash Gordon (2007) (s1e15).",
+     "categories": [
+      "other-control"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in the sources used",
+     "pregnancy_note": "not stated in the sources used",
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Gina Holden: Flash Gordon (2007) (s1e15)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      },
+      {
+       "label": "Wikipedia: Flash Gordon (2007 TV series)",
+       "url": "https://en.wikipedia.org/wiki/Flash_Gordon_(2007_TV_series)"
+      }
+     ],
+     "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+     "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown. Wikipedia evidence is series/article-level; the listed episode was not individually verified.",
+     "confidence_flag": "low: IMDb list only, plot not verified",
+     "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+     "tags": [
+      "imdb-list-ls099930129",
+      "imdb-list-full-oct25",
+      "imdb-list-only"
+     ],
+     "standalone": true
+    }
+   }
+  },
+  {
+   "id": 3683,
+   "title": "Fire Serpent",
+   "subtitle": "",
+   "year": "2007",
+   "meta": "2007 Sci Fi Channel monster movie · from Wikipedia first sentence",
+   "mechanism": "listed by IMDb list (type not verified)",
+   "confidence_flag": "low: IMDb list only, plot not verified",
+   "summary": "IMDb list records Lisa Langlois as hypnotized / brainwashed / possessed / mind-controlled in this film. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified.",
+   "character": "Lisa Langlois (character names not given on the list)",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "note": "",
+   "pregnancy_note": "not stated in the sources used",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25",
+    "imdb-list-only"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+   "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown. Age unverified (birth year not given) for: Lisa Langlois; adult-only judgement based on the production's audience.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Lisa Langlois: Fire Serpent",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: Fire Serpent",
+     "url": "https://en.wikipedia.org/wiki/Fire_Serpent"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-imdb-list-full-oct25"
+   ],
+   "source_records": [
+    "hypnosis-imdb-list-full-oct25:44"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-imdb-list-full-oct25:44": {
+     "title": "Fire Serpent",
+     "year": "2007",
+     "format": "movie",
+     "meta": "2007 Sci Fi Channel monster movie · from Wikipedia first sentence",
+     "mechanism": "listed by IMDb list (type not verified)",
+     "character": "Lisa Langlois (character names not given on the list)",
+     "summary": "IMDb list records Lisa Langlois as hypnotized / brainwashed / possessed / mind-controlled in this film. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified.",
+     "categories": [
+      "other-control"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in the sources used",
+     "pregnancy_note": "not stated in the sources used",
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Lisa Langlois: Fire Serpent",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      },
+      {
+       "label": "Wikipedia: Fire Serpent",
+       "url": "https://en.wikipedia.org/wiki/Fire_Serpent"
+      }
+     ],
+     "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+     "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown. Age unverified (birth year not given) for: Lisa Langlois; adult-only judgement based on the production's audience.",
+     "confidence_flag": "low: IMDb list only, plot not verified",
+     "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+     "tags": [
+      "imdb-list-ls099930129",
+      "imdb-list-full-oct25",
+      "imdb-list-only"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3684,
+   "title": "Night of the Demons",
+   "subtitle": "",
+   "year": "1988",
+   "meta": "American comedy-horror franchise consisting of four films · from Wikipedia first sentence",
+   "mechanism": "listed by IMDb list (type not verified)",
+   "confidence_flag": "low: IMDb list only, plot not verified",
+   "summary": "IMDb list records Linnea Quigley as hypnotized / brainwashed / possessed / mind-controlled in this film. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified.",
+   "character": "Linnea Quigley (character names not given on the list)",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "note": "",
+   "pregnancy_note": "not stated in the sources used",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25",
+    "imdb-list-only"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+   "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Linnea Quigley: Night of the Demons",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: Night of the Demons (film series)",
+     "url": "https://en.wikipedia.org/wiki/Night_of_the_Demons_(film_series)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-imdb-list-full-oct25"
+   ],
+   "source_records": [
+    "hypnosis-imdb-list-full-oct25:45"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-imdb-list-full-oct25:45": {
+     "title": "Night of the Demons",
+     "year": "1988",
+     "format": "movie",
+     "meta": "American comedy-horror franchise consisting of four films · from Wikipedia first sentence",
+     "mechanism": "listed by IMDb list (type not verified)",
+     "character": "Linnea Quigley (character names not given on the list)",
+     "summary": "IMDb list records Linnea Quigley as hypnotized / brainwashed / possessed / mind-controlled in this film. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified.",
+     "categories": [
+      "other-control"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in the sources used",
+     "pregnancy_note": "not stated in the sources used",
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Linnea Quigley: Night of the Demons",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      },
+      {
+       "label": "Wikipedia: Night of the Demons (film series)",
+       "url": "https://en.wikipedia.org/wiki/Night_of_the_Demons_(film_series)"
+      }
+     ],
+     "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+     "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown.",
+     "confidence_flag": "low: IMDb list only, plot not verified",
+     "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+     "tags": [
+      "imdb-list-ls099930129",
+      "imdb-list-full-oct25",
+      "imdb-list-only"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3685,
+   "title": "Night of the Demons 2",
+   "subtitle": "",
+   "year": "1994",
+   "meta": "1994 American horror film · from Wikipedia first sentence",
+   "mechanism": "listed by IMDb list (type not verified)",
+   "confidence_flag": "low: IMDb list only, plot not verified",
+   "summary": "IMDb list records Christine Taylor, Zoe Trilling as hypnotized / brainwashed / possessed / mind-controlled in this film. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified.",
+   "character": "Christine Taylor, Zoe Trilling (character names not given on the list)",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "note": "",
+   "pregnancy_note": "not stated in the sources used",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25",
+    "imdb-list-only"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+   "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Christine Taylor: Night of the Demons 2; Zoe Trilling: Night of the Demons 2",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: Night of the Demons 2",
+     "url": "https://en.wikipedia.org/wiki/Night_of_the_Demons_2"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-imdb-list-full-oct25"
+   ],
+   "source_records": [
+    "hypnosis-imdb-list-full-oct25:46"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-imdb-list-full-oct25:46": {
+     "title": "Night of the Demons 2",
+     "year": "1994",
+     "format": "movie",
+     "meta": "1994 American horror film · from Wikipedia first sentence",
+     "mechanism": "listed by IMDb list (type not verified)",
+     "character": "Christine Taylor, Zoe Trilling (character names not given on the list)",
+     "summary": "IMDb list records Christine Taylor, Zoe Trilling as hypnotized / brainwashed / possessed / mind-controlled in this film. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified.",
+     "categories": [
+      "other-control"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in the sources used",
+     "pregnancy_note": "not stated in the sources used",
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Christine Taylor: Night of the Demons 2; Zoe Trilling: Night of the Demons 2",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      },
+      {
+       "label": "Wikipedia: Night of the Demons 2",
+       "url": "https://en.wikipedia.org/wiki/Night_of_the_Demons_2"
+      }
+     ],
+     "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+     "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown.",
+     "confidence_flag": "low: IMDb list only, plot not verified",
+     "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+     "tags": [
+      "imdb-list-ls099930129",
+      "imdb-list-full-oct25",
+      "imdb-list-only"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3686,
+   "title": "Coven Academy",
+   "subtitle": "",
+   "year": "2026",
+   "meta": "American supernatural teen drama television series · from Wikipedia first sentence",
+   "mechanism": "listed by IMDb list (type not verified)",
+   "confidence_flag": "low: IMDb list only, plot not verified",
+   "summary": "IMDb list records Tiffani Thiessen as hypnotized / brainwashed / possessed / mind-controlled in this production. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified. Episode details from the list: Tiffani Thiessen Coven Academy (s1e2).",
+   "character": "Tiffani Thiessen (character names not given on the list)",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "note": "",
+   "pregnancy_note": "not stated in the sources used",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25",
+    "imdb-list-only"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+   "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown. Wikipedia evidence is series/article-level; the listed episode was not individually verified.",
+   "already_married": "not stated",
+   "format": "tv",
+   "categories": [
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Tiffani Thiessen: Coven Academy (s1e2)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: Coven Academy",
+     "url": "https://en.wikipedia.org/wiki/Coven_Academy"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-imdb-list-full-oct25"
+   ],
+   "source_records": [
+    "hypnosis-imdb-list-full-oct25:47"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-imdb-list-full-oct25:47": {
+     "title": "Coven Academy",
+     "year": "2026",
+     "format": "tv",
+     "meta": "American supernatural teen drama television series · from Wikipedia first sentence",
+     "mechanism": "listed by IMDb list (type not verified)",
+     "character": "Tiffani Thiessen (character names not given on the list)",
+     "summary": "IMDb list records Tiffani Thiessen as hypnotized / brainwashed / possessed / mind-controlled in this production. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified. Episode details from the list: Tiffani Thiessen Coven Academy (s1e2).",
+     "categories": [
+      "other-control"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in the sources used",
+     "pregnancy_note": "not stated in the sources used",
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Tiffani Thiessen: Coven Academy (s1e2)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      },
+      {
+       "label": "Wikipedia: Coven Academy",
+       "url": "https://en.wikipedia.org/wiki/Coven_Academy"
+      }
+     ],
+     "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+     "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown. Wikipedia evidence is series/article-level; the listed episode was not individually verified.",
+     "confidence_flag": "low: IMDb list only, plot not verified",
+     "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+     "tags": [
+      "imdb-list-ls099930129",
+      "imdb-list-full-oct25",
+      "imdb-list-only"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3687,
+   "title": "Roswell",
+   "subtitle": "",
+   "year": "1999",
+   "meta": "American science fiction television series · from Wikipedia first sentence",
+   "mechanism": "listed by IMDb list (type not verified)",
+   "confidence_flag": "low: IMDb list only, plot not verified",
+   "summary": "IMDb list records Diane Farr, Katherine Heigl as hypnotized / brainwashed / possessed / mind-controlled in this production. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified. Episode details from the list: Diane Farr Roswell (?); Katherine Heigl Roswell (?).",
+   "character": "Diane Farr, Katherine Heigl (character names not given on the list)",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "note": "",
+   "pregnancy_note": "not stated in the sources used",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25",
+    "imdb-list-only"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+   "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown. Wikipedia evidence is series/article-level; the listed episode was not individually verified.",
+   "already_married": "not stated",
+   "format": "tv",
+   "categories": [
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Diane Farr: Roswell (?); Katherine Heigl: Roswell (?)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: Roswell (TV series)",
+     "url": "https://en.wikipedia.org/wiki/Roswell_(TV_series)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-imdb-list-full-oct25"
+   ],
+   "source_records": [
+    "hypnosis-imdb-list-full-oct25:48"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-imdb-list-full-oct25:48": {
+     "title": "Roswell",
+     "year": "1999",
+     "format": "tv",
+     "meta": "American science fiction television series · from Wikipedia first sentence",
+     "mechanism": "listed by IMDb list (type not verified)",
+     "character": "Diane Farr, Katherine Heigl (character names not given on the list)",
+     "summary": "IMDb list records Diane Farr, Katherine Heigl as hypnotized / brainwashed / possessed / mind-controlled in this production. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified. Episode details from the list: Diane Farr Roswell (?); Katherine Heigl Roswell (?).",
+     "categories": [
+      "other-control"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in the sources used",
+     "pregnancy_note": "not stated in the sources used",
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Diane Farr: Roswell (?); Katherine Heigl: Roswell (?)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      },
+      {
+       "label": "Wikipedia: Roswell (TV series)",
+       "url": "https://en.wikipedia.org/wiki/Roswell_(TV_series)"
+      }
+     ],
+     "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+     "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown. Wikipedia evidence is series/article-level; the listed episode was not individually verified.",
+     "confidence_flag": "low: IMDb list only, plot not verified",
+     "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+     "tags": [
+      "imdb-list-ls099930129",
+      "imdb-list-full-oct25",
+      "imdb-list-only"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3688,
+   "title": "Serenity",
+   "subtitle": "",
+   "year": "2005",
+   "meta": "2005 American space Western film · from Wikipedia first sentence",
+   "mechanism": "hypnosis / trance",
+   "confidence_flag": "medium: IMDb list + Wikipedia keyword passage; wife/kids/pregnancy not stated",
+   "summary": "IMDb list records Summer Glau as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"Once there, however, a subliminal message in a television commercial causes River to attack numerous bar patrons, and Mal takes the siblings back aboard the ship.\"",
+   "character": "Summer Glau (character names not given on the list)",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "note": "",
+   "pregnancy_note": "not stated in the sources used",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "evidence": "IMDb list entry + Wikipedia plot (not matched to her character) passage (subliminal)",
+   "fit_note": "IMDb list covers hypnosis, brainwashing, possession and mind control together; the matched Wikipedia passage is hypnosis / trance, so check whether it is hypnosis proper.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "spirit",
+    "tech",
+    "medical"
+   ],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Summer Glau: Serenity",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: Serenity (2005 film)",
+     "url": "https://en.wikipedia.org/wiki/Serenity_(2005_film)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-imdb-list-full-oct25"
+   ],
+   "source_records": [
+    "hypnosis-imdb-list-full-oct25:49"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-imdb-list-full-oct25:49": {
+     "title": "Serenity",
+     "year": "2005",
+     "format": "movie",
+     "meta": "2005 American space Western film · from Wikipedia first sentence",
+     "mechanism": "hypnosis / trance",
+     "character": "Summer Glau (character names not given on the list)",
+     "summary": "IMDb list records Summer Glau as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"Once there, however, a subliminal message in a television commercial causes River to attack numerous bar patrons, and Mal takes the siblings back aboard the ship.\"",
+     "categories": [
+      "spirit",
+      "tech",
+      "medical"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in the sources used",
+     "pregnancy_note": "not stated in the sources used",
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Summer Glau: Serenity",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      },
+      {
+       "label": "Wikipedia: Serenity (2005 film)",
+       "url": "https://en.wikipedia.org/wiki/Serenity_(2005_film)"
+      }
+     ],
+     "evidence": "IMDb list entry + Wikipedia plot (not matched to her character) passage (subliminal)",
+     "fit_note": "IMDb list covers hypnosis, brainwashing, possession and mind control together; the matched Wikipedia passage is hypnosis / trance, so check whether it is hypnosis proper.",
+     "confidence_flag": "medium: IMDb list + Wikipedia keyword passage; wife/kids/pregnancy not stated",
+     "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+     "tags": [
+      "imdb-list-ls099930129",
+      "imdb-list-full-oct25"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3689,
+   "title": "G.I. Joe: The Rise of Cobra",
+   "subtitle": "",
+   "year": "2009",
+   "meta": "2009 American military science fiction film · from Wikipedia first sentence",
+   "mechanism": "spell / thrall / control",
+   "confidence_flag": "medium: IMDb list + Wikipedia keyword passage; wife/kids/pregnancy not stated",
+   "summary": "IMDb list records Sienna Miller as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"Rex had implanted his sister with nanomites, putting her under his control as The Baroness.\"",
+   "character": "Sienna Miller (character names not given on the list)",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "note": "",
+   "pregnancy_note": "not stated in the sources used",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "evidence": "IMDb list entry + Wikipedia plot (not matched to her character) passage (under his control)",
+   "fit_note": "IMDb list covers hypnosis, brainwashing, possession and mind control together; the matched Wikipedia passage is spell / thrall / control, so check whether it is hypnosis proper.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "spirit",
+    "tech",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Sienna Miller: GI Joe: The Rise of Cobra",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: G.I. Joe: The Rise of Cobra",
+     "url": "https://en.wikipedia.org/wiki/G.I._Joe:_The_Rise_of_Cobra"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-imdb-list-full-oct25"
+   ],
+   "source_records": [
+    "hypnosis-imdb-list-full-oct25:50"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-imdb-list-full-oct25:50": {
+     "title": "G.I. Joe: The Rise of Cobra",
+     "year": "2009",
+     "format": "movie",
+     "meta": "2009 American military science fiction film · from Wikipedia first sentence",
+     "mechanism": "spell / thrall / control",
+     "character": "Sienna Miller (character names not given on the list)",
+     "summary": "IMDb list records Sienna Miller as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"Rex had implanted his sister with nanomites, putting her under his control as The Baroness.\"",
+     "categories": [
+      "spirit",
+      "tech",
+      "fantasy"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in the sources used",
+     "pregnancy_note": "not stated in the sources used",
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Sienna Miller: GI Joe: The Rise of Cobra",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      },
+      {
+       "label": "Wikipedia: G.I. Joe: The Rise of Cobra",
+       "url": "https://en.wikipedia.org/wiki/G.I._Joe:_The_Rise_of_Cobra"
+      }
+     ],
+     "evidence": "IMDb list entry + Wikipedia plot (not matched to her character) passage (under his control)",
+     "fit_note": "IMDb list covers hypnosis, brainwashing, possession and mind control together; the matched Wikipedia passage is spell / thrall / control, so check whether it is hypnosis proper.",
+     "confidence_flag": "medium: IMDb list + Wikipedia keyword passage; wife/kids/pregnancy not stated",
+     "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+     "tags": [
+      "imdb-list-ls099930129",
+      "imdb-list-full-oct25"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3690,
+   "title": "Witchcraft XI: Sisters in Blood",
+   "subtitle": "",
+   "year": "2000",
+   "meta": "2000 American horror film · from Wikipedia first sentence",
+   "mechanism": "possession",
+   "confidence_flag": "medium: IMDb list + Wikipedia keyword passage; wife/kids/pregnancy not stated",
+   "summary": "IMDb list records Miranda Odell as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"Once possessed by one of the 300 year dead witches, Maria lures a frat boy to the cemetery where the ritual was performed and kills him.\"",
+   "character": "Miranda Odell (character names not given on the list)",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "note": "",
+   "pregnancy_note": "not stated in the sources used",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "evidence": "IMDb list entry + Wikipedia plot (not matched to her character) passage (possessed by)",
+   "fit_note": "IMDb list covers hypnosis, brainwashing, possession and mind control together; the matched Wikipedia passage is possession, so check whether it is hypnosis proper. Age unverified (birth year not given) for: Miranda Odell; adult-only judgement based on the production's audience.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "occult",
+    "spirit",
+    "fantasy"
+   ],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Miranda Odell: Witchcraft XI",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: Witchcraft XI: Sisters in Blood",
+     "url": "https://en.wikipedia.org/wiki/Witchcraft_XI:_Sisters_in_Blood"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-imdb-list-full-oct25"
+   ],
+   "source_records": [
+    "hypnosis-imdb-list-full-oct25:51"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-imdb-list-full-oct25:51": {
+     "title": "Witchcraft XI: Sisters in Blood",
+     "year": "2000",
+     "format": "movie",
+     "meta": "2000 American horror film · from Wikipedia first sentence",
+     "mechanism": "possession",
+     "character": "Miranda Odell (character names not given on the list)",
+     "summary": "IMDb list records Miranda Odell as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (not matched to her character)): \"Once possessed by one of the 300 year dead witches, Maria lures a frat boy to the cemetery where the ritual was performed and kills him.\"",
+     "categories": [
+      "occult",
+      "spirit",
+      "fantasy"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in the sources used",
+     "pregnancy_note": "not stated in the sources used",
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Miranda Odell: Witchcraft XI",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      },
+      {
+       "label": "Wikipedia: Witchcraft XI: Sisters in Blood",
+       "url": "https://en.wikipedia.org/wiki/Witchcraft_XI:_Sisters_in_Blood"
+      }
+     ],
+     "evidence": "IMDb list entry + Wikipedia plot (not matched to her character) passage (possessed by)",
+     "fit_note": "IMDb list covers hypnosis, brainwashing, possession and mind control together; the matched Wikipedia passage is possession, so check whether it is hypnosis proper. Age unverified (birth year not given) for: Miranda Odell; adult-only judgement based on the production's audience.",
+     "confidence_flag": "medium: IMDb list + Wikipedia keyword passage; wife/kids/pregnancy not stated",
+     "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+     "tags": [
+      "imdb-list-ls099930129",
+      "imdb-list-full-oct25"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3691,
+   "title": "Radio Active",
+   "subtitle": "",
+   "year": "1998",
+   "meta": "Canadian sitcom television series broadcast on YTV · from Wikipedia first sentence",
+   "mechanism": "listed by IMDb list (type not verified)",
+   "confidence_flag": "low: IMDb list only, plot not verified",
+   "summary": "IMDb list records Melissa Galianos as hypnotized / brainwashed / possessed / mind-controlled in this production. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified. Episode details from the list: Melissa Galianos Radio Active (s1e8).",
+   "character": "Melissa Galianos (character names not given on the list)",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "note": "",
+   "pregnancy_note": "not stated in the sources used",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25",
+    "imdb-list-only"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+   "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown. Wikipedia evidence is series/article-level; the listed episode was not individually verified.",
+   "already_married": "not stated",
+   "format": "tv",
+   "categories": [
+    "other-control"
+   ],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Melissa Galianos: Radio Active (s1e8)",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: Radio Active (TV series)",
+     "url": "https://en.wikipedia.org/wiki/Radio_Active_(TV_series)"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-imdb-list-full-oct25"
+   ],
+   "source_records": [
+    "hypnosis-imdb-list-full-oct25:52"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-imdb-list-full-oct25:52": {
+     "title": "Radio Active",
+     "year": "1998",
+     "format": "tv",
+     "meta": "Canadian sitcom television series broadcast on YTV · from Wikipedia first sentence",
+     "mechanism": "listed by IMDb list (type not verified)",
+     "character": "Melissa Galianos (character names not given on the list)",
+     "summary": "IMDb list records Melissa Galianos as hypnotized / brainwashed / possessed / mind-controlled in this production. No hypnosis/mind-control passage was found in the matching Wikipedia article, so the plot detail is not verified. Episode details from the list: Melissa Galianos Radio Active (s1e8).",
+     "categories": [
+      "other-control"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in the sources used",
+     "pregnancy_note": "not stated in the sources used",
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Melissa Galianos: Radio Active (s1e8)",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      },
+      {
+       "label": "Wikipedia: Radio Active (TV series)",
+       "url": "https://en.wikipedia.org/wiki/Radio_Active_(TV_series)"
+      }
+     ],
+     "evidence": "IMDb list entry only (Wikipedia article identifies the production but has no matching passage)",
+     "fit_note": "LIST-ONLY: plot not verified. IMDb list covers hypnosis, brainwashing, possession and mind control together; no Wikipedia passage matched, so the type is unknown. Wikipedia evidence is series/article-level; the listed episode was not individually verified.",
+     "confidence_flag": "low: IMDb list only, plot not verified",
+     "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+     "tags": [
+      "imdb-list-ls099930129",
+      "imdb-list-full-oct25",
+      "imdb-list-only"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3692,
+   "title": "Dying to Remember",
+   "subtitle": "",
+   "year": "1993",
+   "meta": "1993 American made-for-television thriller drama film · from Wikipedia first sentence",
+   "mechanism": "hypnosis / trance",
+   "confidence_flag": "medium: IMDb list + Wikipedia keyword passage; wife/kids/pregnancy not stated",
+   "summary": "IMDb list records Melissa Gilbert as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (matches her character)): \"James Portman (Jay Robinson) and undergoes hypnotherapy, during which she learns that the woman falling is Lynn herself in her previous life, pushed down the shaft by a man in San Francisco in 1963.\"",
+   "character": "Melissa Gilbert (character names not given on the list)",
+   "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+   "note": "",
+   "pregnancy_note": "not stated in the sources used",
+   "tags": [
+    "imdb-list-ls099930129",
+    "imdb-list-full-oct25"
+   ],
+   "kids_status": "not stated",
+   "kids_together": "not stated",
+   "married": "not stated",
+   "pregnant_end": "not stated",
+   "pregnant_end_note": "not stated in the sources used",
+   "evidence": "IMDb list entry + Wikipedia plot (matches her character) passage (hypnotherapy)",
+   "fit_note": "IMDb list covers hypnosis, brainwashing, possession and mind control together; the matched Wikipedia passage is hypnosis / trance, so check whether it is hypnosis proper.",
+   "already_married": "not stated",
+   "format": "movie",
+   "categories": [
+    "medical",
+    "crime"
+   ],
+   "sources": [
+    {
+     "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Melissa Gilbert: Dying to Remember",
+     "url": "https://www.imdb.com/list/ls099930129/"
+    },
+    {
+     "label": "Wikipedia: Dying to Remember",
+     "url": "https://en.wikipedia.org/wiki/Dying_to_Remember"
+    }
+   ],
+   "youtube_ids": [],
+   "from_sources": [
+    "hypnosis-imdb-list-full-oct25"
+   ],
+   "source_records": [
+    "hypnosis-imdb-list-full-oct25:53"
+   ],
+   "index_only": false,
+   "local_only": true,
+   "thumbnail": null,
+   "primary_copy": null,
+   "merged_from": [],
+   "raw": {
+    "hypnosis-imdb-list-full-oct25:53": {
+     "title": "Dying to Remember",
+     "year": "1993",
+     "format": "movie",
+     "meta": "1993 American made-for-television thriller drama film · from Wikipedia first sentence",
+     "mechanism": "hypnosis / trance",
+     "character": "Melissa Gilbert (character names not given on the list)",
+     "summary": "IMDb list records Melissa Gilbert as hypnotized / brainwashed / possessed / mind-controlled in this film. Wikipedia (plot (matches her character)): \"James Portman (Jay Robinson) and undergoes hypnotherapy, during which she learns that the woman falling is Lynn herself in her previous life, pushed down the shaft by a man in San Francisco in 1963.\"",
+     "categories": [
+      "medical",
+      "crime"
+     ],
+     "already_married": "not stated",
+     "married": "not stated",
+     "kids_status": "not stated",
+     "kids_together": "not stated",
+     "pregnant_end": "not stated",
+     "pregnant_end_note": "not stated in the sources used",
+     "pregnancy_note": "not stated in the sources used",
+     "sources": [
+      {
+       "label": "IMDb list 'Hypnotized Women in TV and Film' (sleep-71052) — listed: Melissa Gilbert: Dying to Remember",
+       "url": "https://www.imdb.com/list/ls099930129/"
+      },
+      {
+       "label": "Wikipedia: Dying to Remember",
+       "url": "https://en.wikipedia.org/wiki/Dying_to_Remember"
+      }
+     ],
+     "evidence": "IMDb list entry + Wikipedia plot (matches her character) passage (hypnotherapy)",
+     "fit_note": "IMDb list covers hypnosis, brainwashing, possession and mind control together; the matched Wikipedia passage is hypnosis / trance, so check whether it is hypnosis proper.",
+     "confidence_flag": "medium: IMDb list + Wikipedia keyword passage; wife/kids/pregnancy not stated",
+     "provenance": "IMDb list ls099930129 (full CSV export, 25 Oct 2026 PT) checked against Wikipedia; plot details beyond the quoted passage not verified",
+     "tags": [
+      "imdb-list-ls099930129",
+      "imdb-list-full-oct25"
      ]
     }
    }
@@ -521780,6 +526332,20 @@ window.CATALOG = {
         "Literal hypnosis",
         "Borderline"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Hypnotic_Eye"
+        },
+        {
+         "label": "Moria Reviews",
+         "url": "https://moriareviews.com/horror/hypnotic-eye-1960.htm"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/The_Hypnotic_Eye"
+        }
+       ],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -522372,6 +526938,20 @@ window.CATALOG = {
         "Human-villain control",
         "Hired hypnotist / romantic memory",
         "High confidence"
+       ],
+       "sources": [
+        {
+         "label": "YouTube · E1053",
+         "url": "https://www.youtube.com/watch?v=DvbYKHCQarg"
+        },
+        {
+         "label": "YouTube · E1054",
+         "url": "https://www.youtube.com/watch?v=5vOzn_-GqQ8"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Plus_Belle_la_Vie"
+        }
        ],
        "character": "Character: Charlotte",
        "from_source": "xla62ucxbx02u5"
@@ -523361,6 +527941,12 @@ window.CATALOG = {
         "Erotic dream-thrall",
         "Medium-high confidence"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Embrace_of_the_Vampire"
+        }
+       ],
        "character": "Character: Charlotte",
        "from_source": "xla62ucxbx02u5"
       },
@@ -523370,6 +527956,12 @@ window.CATALOG = {
         "Adult female hypnosis — R-rated-equivalent worldwide",
         "Vampire mesmerism",
         "Low-medium confidence · recap-level evidence"
+       ],
+       "sources": [
+        {
+         "label": "Episode guide",
+         "url": "http://www.iment.com/maida/tv/fk/fkseason3.htm"
+        }
        ],
        "character": "Character: Unnamed adult female police officer",
        "from_source": "xla62ucxbx02u5"
@@ -525117,7 +529709,7 @@ window.CATALOG = {
      "from_source": "hypnosis-deep-oct25c"
     },
     {
-     "title": "IMDb list — Hypnotized Women in TV and Film (new titles, CSV rows 1-500)",
+     "title": "IMDb list — Hypnotized Women in TV and Film (new titles, CSV rows 1-625)",
      "notes": [],
      "items": [
       {
@@ -525270,6 +529862,16 @@ window.CATALOG = {
         "Other female hypnosis / mind control",
         "Demonic / occult control",
         "Research report · web-verified"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Candyman"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Candyman_%281992_film%29"
+        }
        ],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
@@ -526077,7 +530679,7 @@ window.CATALOG = {
      "from_source": "deep-oct24"
     },
     {
-     "title": "IMDb list — Hypnotized Women in TV and Film (new titles, CSV rows 1-500)",
+     "title": "IMDb list — Hypnotized Women in TV and Film (new titles, CSV rows 1-625)",
      "notes": [],
      "items": [
       {
@@ -526101,7 +530703,15 @@ window.CATALOG = {
        "from_source": "hypnosis-imdb-list-full-oct25"
       },
       {
+       "id": 1733,
+       "from_source": "hypnosis-imdb-list-full-oct25"
+      },
+      {
        "id": 3650,
+       "from_source": "hypnosis-imdb-list-full-oct25"
+      },
+      {
+       "id": 3690,
        "from_source": "hypnosis-imdb-list-full-oct25"
       },
       {
@@ -526998,7 +531608,7 @@ window.CATALOG = {
      "from_source": "deep-oct24"
     },
     {
-     "title": "IMDb list — Hypnotized Women in TV and Film (CSV rows 1-500)",
+     "title": "IMDb list — Hypnotized Women in TV and Film (CSV rows 1-625)",
      "notes": [],
      "items": [
       {
@@ -527124,9 +531734,21 @@ window.CATALOG = {
      "from_source": "hypno-kids-witness-unverified-oct25"
     },
     {
-     "title": "IMDb list — Hypnotized Women in TV and Film (new titles, CSV rows 1-500)",
+     "title": "IMDb list — Hypnotized Women in TV and Film (new titles, CSV rows 1-625)",
      "notes": [],
      "items": [
+      {
+       "id": 3689,
+       "from_source": "hypnosis-imdb-list-full-oct25"
+      },
+      {
+       "id": 1733,
+       "from_source": "hypnosis-imdb-list-full-oct25"
+      },
+      {
+       "id": 3688,
+       "from_source": "hypnosis-imdb-list-full-oct25"
+      },
       {
        "id": 3650,
        "from_source": "hypnosis-imdb-list-full-oct25"
@@ -527330,6 +531952,20 @@ window.CATALOG = {
         "Human-villain control",
         "Trance",
         "High · fan-wiki scene log + TV Tropes example"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Avengers_Grimm"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Avengers_Grimm"
+        },
+        {
+         "label": "TV Tropes: Hypnotic Eyes",
+         "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnoticEyes"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
@@ -527608,6 +532244,16 @@ window.CATALOG = {
         "Hypnotic gaze",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Firewalker"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Firewalker_%28film%29"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -527642,6 +532288,12 @@ window.CATALOG = {
         "Human-villain control",
         "Trance",
         "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Ghoulies"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
@@ -529423,11 +534075,15 @@ window.CATALOG = {
      "from_source": "hypno-kids-witness-oct25"
     },
     {
-     "title": "IMDb list — Hypnotized Women in TV and Film (new titles, CSV rows 1-500)",
+     "title": "IMDb list — Hypnotized Women in TV and Film (new titles, CSV rows 1-625)",
      "notes": [],
      "items": [
       {
        "id": 3674,
+       "from_source": "hypnosis-imdb-list-full-oct25"
+      },
+      {
+       "id": 3689,
        "from_source": "hypnosis-imdb-list-full-oct25"
       },
       {
@@ -529440,6 +534096,10 @@ window.CATALOG = {
       },
       {
        "id": 3650,
+       "from_source": "hypnosis-imdb-list-full-oct25"
+      },
+      {
+       "id": 3690,
        "from_source": "hypnosis-imdb-list-full-oct25"
       }
      ],
@@ -533224,6 +537884,16 @@ window.CATALOG = {
         "Trance",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/77_Sunset_Strip"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/77_Sunset_Strip"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -534113,6 +538783,7 @@ window.CATALOG = {
         "Human-villain hypnosis / mind control",
         "Research report · web-verified"
        ],
+       "sources": [],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -535194,6 +539865,16 @@ window.CATALOG = {
         "Hypnosis",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Scanners_III%3A_The_Takeover"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Scanners_III%3A_The_Takeover"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -535247,6 +539928,16 @@ window.CATALOG = {
         "Human-villain control",
         "Control mechanism unstated",
         "High · fan-wiki scene log + Wikipedia plot mentions hypnosis"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/The_Shadow_%281994_film%29"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Shadow_%281994_film%29"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
@@ -537938,6 +542629,12 @@ window.CATALOG = {
         "Trance",
         "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/A_Snow_White_Christmas"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -538300,6 +542997,28 @@ window.CATALOG = {
         "Hypnotized into crime",
         "Hypnosis and memory manipulation",
         "LOW · unverified lead; remarriage and stepfather status not established"
+       ],
+       "sources": [
+        {
+         "label": "FilmAffinity",
+         "url": "https://www.filmaffinity.com/en/film638122.html"
+        },
+        {
+         "label": "TheTVDB",
+         "url": "https://thetvdb.com/movies/my-husbands-deadly-past"
+        },
+        {
+         "label": "The Cinemaholic",
+         "url": "https://thecinemaholic.com/my-husbands-deadly-past-lifetime/"
+        },
+        {
+         "label": "Lifetime Uncorked review",
+         "url": "https://lifetimeuncorked.com/2020/05/31/my-husbands-deadly-past-2020-lifetime/"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/My_Husband%27s_Deadly_Past"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -541368,11 +546087,15 @@ window.CATALOG = {
      "from_source": "hypno-kids-witness-oct25"
     },
     {
-     "title": "IMDb list — Hypnotized Women in TV and Film (new titles, CSV rows 1-500)",
+     "title": "IMDb list — Hypnotized Women in TV and Film (new titles, CSV rows 1-625)",
      "notes": [],
      "items": [
       {
        "id": 3660,
+       "from_source": "hypnosis-imdb-list-full-oct25"
+      },
+      {
+       "id": 3692,
        "from_source": "hypnosis-imdb-list-full-oct25"
       },
       {
@@ -541440,6 +546163,20 @@ window.CATALOG = {
         "Fantasy enchantment",
         "Hypnosis",
         "Medium · TV Tropes example; film confirmed on Wikipedia + Mental Block page"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Jack_the_Giant_Killer_%281962_film%29"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Jack_the_Giant_Killer"
+        },
+        {
+         "label": "TV Tropes: Hypnotize the Captive",
+         "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnotizeTheCaptive"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): TV Tropes hypnosis trope pages, Wikipedia 'Films about hypnosis' and targeted web searches.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
@@ -542390,6 +547127,16 @@ window.CATALOG = {
         "Hypnosis",
         "Strong · review-verified"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Don%27t_Go_Breaking_My_Heart_(1999_film)"
+        },
+        {
+         "label": "Fulvue Drive-in review",
+         "url": "https://fulvuedrive-in.com/review/11304/Don+t+Go+Breaking+My+Heart+1999+MVD+Visual+DVD+"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -542451,6 +547198,32 @@ window.CATALOG = {
         "Human-villain control",
         "Fantasy enchantment",
         "Literal hypnosis"
+       ],
+       "sources": [
+        {
+         "label": "iHeart",
+         "url": "https://www.iheart.com/podcast/105-stuff-to-blow-your-mind-21123915/episode/weirdhouse-cinema-flash-gordon-1980-150759179/"
+        },
+        {
+         "label": "YouTube clip",
+         "url": "https://www.youtube.com/watch?v=Q7Kx4XIs2tU"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Flash_Gordon_(film)"
+        },
+        {
+         "label": "Mental Block",
+         "url": "https://mentalblock.miraheze.org/wiki/Flash_Gordon_%281980%29"
+        },
+        {
+         "label": "TV Tropes",
+         "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnotizeTheCaptive"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Flash_Gordon_%28film%29"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },
@@ -542543,6 +547316,20 @@ window.CATALOG = {
         "Other female hypnosis / mind control",
         "Literal hypnosis",
         "Borderline"
+       ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Hypnotic_Eye"
+        },
+        {
+         "label": "Moria Reviews",
+         "url": "https://moriareviews.com/horror/hypnotic-eye-1960.htm"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/The_Hypnotic_Eye"
+        }
        ],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
@@ -542676,6 +547463,16 @@ window.CATALOG = {
         "Other female hypnosis / mind control",
         "Control mechanism unstated",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Jack_of_All_Trades"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Jack_of_All_Trades_%28TV_series%29"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
@@ -543068,6 +547865,28 @@ window.CATALOG = {
         "Sci-fi / alien / technological control",
         "Control chip"
        ],
+       "sources": [
+        {
+         "label": "Collider",
+         "url": "https://collider.com/scott-pilgrim-ramona-flowers-evil-exes-ranked/"
+        },
+        {
+         "label": "Looper",
+         "url": "https://www.Looper.com/1246757/ending-scott-pilgrim-vs-the-world-finally-explained/"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Scott_Pilgrim_Vs._The_World_%282010_Film%29"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Scott_Pilgrim_vs._the_World%3A_The_Game"
+        },
+        {
+         "label": "TV Tropes: Hypnotize the Captive",
+         "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HypnotizeTheCaptive"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -543108,6 +547927,16 @@ window.CATALOG = {
         "Human-villain control",
         "Hypnosis",
         "Strong · fan-wiki source"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block",
+         "url": "https://mentalblock.miraheze.org/wiki/Stalked_by_My_Doctor:_A_Sleepwalker%27s_Nightmare"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Stalked_by_My_Doctor%3A_A_Sleepwalker%27s_Nightmare"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnotized-to-love research pass (30 Sep 2026): Wikipedia, Mental Block wiki, TV Tropes and web reviews; women hypnotized into loving or marrying someone; possession, potion and spell-only titles excluded; teen/child victims excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: unknown.",
@@ -545223,6 +550052,28 @@ window.CATALOG = {
         "Control mechanism unstated",
         "High · Wikipedia season 7 episode list + character articles"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Pretty_Little_Liars_season_7"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Alison_DiLaurentis"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Emily_Fields"
+        },
+        {
+         "label": "SpoilerTV 7x10 review",
+         "url": "https://www.spoilertv.com/2016/08/pretty-little-liars-darkest-knight.html?m"
+        },
+        {
+         "label": "Refinery29 finale proposal",
+         "url": "https://www.refinery29.com/en-us/2017/06/161201/ali-emily-proposal-problem-pretty-little-liars-finale"
+        }
+       ],
        "provenance": "Source basis: Lesbian-couple pregnancy research pass, 30 Sep 2026 (adult couples only; non-explicit notes)",
        "entry_note": "Note: Outcome facts: pregnancy outcome: gives birth (twins); kids status: no. Intimacy-scene evidence (1 Oct 2026 sweep): 7x10 'The DArkest Knight' — Alison reveals the pregnancy and they kiss; in S7B they exchange 'I love yous' and become a couple while Alison is visibly pregnant; engaged in the series finale. Kiss-level only; no explicit sex scene documented. Confidence: MEDIUM-HIGH. Note: the pregnancy itself is a coercive backstory — Emily's eggs were non-consensually implanted in Alison by Archer/Elliot.",
        "from_source": "xla62ucxbx02u5"
@@ -546141,7 +550992,8 @@ window.CATALOG = {
     "hypnosis-deep-oct25",
     "hypnosis-deep-oct25b",
     "hypno-pregnant-yt-oct25",
-    "hypno-kids-witness-oct25"
+    "hypno-kids-witness-oct25",
+    "hypnosis-imdb-list-full-oct25"
    ],
    "groups": [
     {
@@ -546167,6 +551019,16 @@ window.CATALOG = {
         "Other female hypnosis / mind control",
         "Control mechanism unstated",
         "High · fan-wiki scene log + Wikipedia plot mentions hypnosis"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Alice_%281990_film%29"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Alice_%281990_film%29"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
@@ -547829,6 +552691,21 @@ window.CATALOG = {
       }
      ],
      "from_source": "hypno-kids-witness-oct25"
+    },
+    {
+     "title": "IMDb list — Hypnotized Women in TV and Film (new titles, CSV rows 1-625)",
+     "notes": [],
+     "items": [
+      {
+       "id": 3692,
+       "from_source": "hypnosis-imdb-list-full-oct25"
+      },
+      {
+       "id": 3688,
+       "from_source": "hypnosis-imdb-list-full-oct25"
+      }
+     ],
+     "from_source": "hypnosis-imdb-list-full-oct25"
     }
    ],
    "declared_count_by_source": {
@@ -547869,7 +552746,8 @@ window.CATALOG = {
     "hypnosis-deep-oct25": null,
     "hypnosis-deep-oct25b": null,
     "hypno-pregnant-yt-oct25": null,
-    "hypno-kids-witness-oct25": null
+    "hypno-kids-witness-oct25": null,
+    "hypnosis-imdb-list-full-oct25": null
    }
   },
   {
@@ -551724,6 +556602,16 @@ window.CATALOG = {
         "Control mechanism unstated",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Nikita"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Nikita_%28TV_series%29"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -552014,6 +556902,12 @@ window.CATALOG = {
         "Human-villain control",
         "Trance",
         "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/A_Snow_White_Christmas"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
@@ -553056,7 +557950,7 @@ window.CATALOG = {
      "from_source": "deep-oct24"
     },
     {
-     "title": "IMDb list — Hypnotized Women in TV and Film (new titles, CSV rows 1-500)",
+     "title": "IMDb list — Hypnotized Women in TV and Film (new titles, CSV rows 1-625)",
      "notes": [],
      "items": [
       {
@@ -553084,6 +557978,10 @@ window.CATALOG = {
        "from_source": "hypnosis-imdb-list-full-oct25"
       },
       {
+       "id": 3686,
+       "from_source": "hypnosis-imdb-list-full-oct25"
+      },
+      {
        "id": 3673,
        "from_source": "hypnosis-imdb-list-full-oct25"
       },
@@ -553093,6 +557991,18 @@ window.CATALOG = {
       },
       {
        "id": 3649,
+       "from_source": "hypnosis-imdb-list-full-oct25"
+      },
+      {
+       "id": 3683,
+       "from_source": "hypnosis-imdb-list-full-oct25"
+      },
+      {
+       "id": 3681,
+       "from_source": "hypnosis-imdb-list-full-oct25"
+      },
+      {
+       "id": 3682,
        "from_source": "hypnosis-imdb-list-full-oct25"
       },
       {
@@ -553132,6 +558042,14 @@ window.CATALOG = {
        "from_source": "hypnosis-imdb-list-full-oct25"
       },
       {
+       "id": 3684,
+       "from_source": "hypnosis-imdb-list-full-oct25"
+      },
+      {
+       "id": 3685,
+       "from_source": "hypnosis-imdb-list-full-oct25"
+      },
+      {
        "id": 3647,
        "from_source": "hypnosis-imdb-list-full-oct25"
       },
@@ -553144,7 +558062,15 @@ window.CATALOG = {
        "from_source": "hypnosis-imdb-list-full-oct25"
       },
       {
+       "id": 3691,
+       "from_source": "hypnosis-imdb-list-full-oct25"
+      },
+      {
        "id": 3672,
+       "from_source": "hypnosis-imdb-list-full-oct25"
+      },
+      {
+       "id": 3687,
        "from_source": "hypnosis-imdb-list-full-oct25"
       },
       {
@@ -560523,6 +565449,28 @@ window.CATALOG = {
         "Hypnosis and memory manipulation",
         "LOW · unverified lead; remarriage and stepfather status not established"
        ],
+       "sources": [
+        {
+         "label": "FilmAffinity",
+         "url": "https://www.filmaffinity.com/en/film638122.html"
+        },
+        {
+         "label": "TheTVDB",
+         "url": "https://thetvdb.com/movies/my-husbands-deadly-past"
+        },
+        {
+         "label": "The Cinemaholic",
+         "url": "https://thecinemaholic.com/my-husbands-deadly-past-lifetime/"
+        },
+        {
+         "label": "Lifetime Uncorked review",
+         "url": "https://lifetimeuncorked.com/2020/05/31/my-husbands-deadly-past-2020-lifetime/"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/My_Husband%27s_Deadly_Past"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -561405,6 +566353,16 @@ window.CATALOG = {
         "Control mechanism unstated",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Arrow"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Arrow_%28TV_series%29"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -561415,6 +566373,16 @@ window.CATALOG = {
         "Sci-fi / alien / technological control",
         "Hypnosis",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/At_the_Earth%27s_Core"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/At_the_Earth%27s_Core_%28film%29"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
@@ -561665,6 +566633,12 @@ window.CATALOG = {
         "Human-villain control",
         "Trance",
         "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Brain_Twisters"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
@@ -562525,6 +567499,12 @@ window.CATALOG = {
         "Trance",
         "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Heatseeker"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -562594,6 +567574,16 @@ window.CATALOG = {
         "Fantasy enchantment",
         "Control mechanism unstated",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/The_Immortal_%282000_TV_Series%29"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Immortal_%282000_TV_series%29"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
@@ -562872,6 +567862,12 @@ window.CATALOG = {
         "Brainwashing",
         "Low-medium · single fan-wiki scene log (screenshots); title/year not independently confirmed"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Kenneyville"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -562986,6 +567982,16 @@ window.CATALOG = {
         "Control mechanism unstated",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Logan%27s_Run_%28TV_Series%29"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Logan%27s_Run_%28TV_series%29"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -563052,6 +568058,16 @@ window.CATALOG = {
         "Sci-fi / alien / technological control",
         "Control mechanism unstated",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/MacGyver_%282016%29"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/MacGyver_%282016_TV_series%29"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
@@ -563357,6 +568373,16 @@ window.CATALOG = {
         "Trance",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Not_of_This_Earth_%281988%29"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Not_of_This_Earth_%281988_film%29"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -563389,6 +568415,7 @@ window.CATALOG = {
         "Sci-fi / alien / technological control",
         "Research report · web-verified"
        ],
+       "sources": [],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -563453,6 +568480,16 @@ window.CATALOG = {
         "Human-villain control",
         "Hypnosis",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/The_Phantom_%282009_Miniseries%29"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Phantom"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
@@ -563927,6 +568964,16 @@ window.CATALOG = {
         "Hypnosis",
         "Low-medium · Wikipedia episode list + Mental Block (Mental Block numbers the episodes 10–11)"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Super_Force"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Super_Force"
+        }
+       ],
        "provenance": "Source basis: Rich-woman / wife hypnotized-for-gain research pass (30 Sep 2026): worldwide search (Wikipedia, Mental Block wiki, TV Tropes, episode guides, Indian / Turkish / Latin American recap sites); strict hypnosis, mesmerism, hypnotherapy misuse, post-hypnotic suggestion, hypnotic devices or love-potion enchantment only; possession, ghosts and black-magic possession excluded; adult women only.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: unknown; kids status: no.",
        "from_source": "xla62ucxbx02u5"
@@ -564041,6 +569088,16 @@ window.CATALOG = {
         "Trance",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Terminal_Invasion"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Terminal_Invasion"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -564075,6 +569132,7 @@ window.CATALOG = {
         "Sci-fi / alien / technological control",
         "Research report · web-verified"
        ],
+       "sources": [],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -564199,6 +569257,16 @@ window.CATALOG = {
         "Human-villain control",
         "Control mechanism unstated",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Unforgettable"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Unforgettable_%28American_TV_series%29"
+        }
        ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Staged mirror data carries the series/film premise only; the linked fan-wiki scene log is the hypnosis evidence. Outcome facts: pregnancy outcome: not pregnant.",
@@ -564423,6 +569491,7 @@ window.CATALOG = {
         "Sci-fi / alien / technological control",
         "Research report · web-verified"
        ],
+       "sources": [],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       }
@@ -565232,6 +570301,17 @@ window.CATALOG = {
       }
      ],
      "from_source": "deep-oct24"
+    },
+    {
+     "title": "IMDb list — Hypnotized Women in TV and Film (new titles, CSV rows 1-625)",
+     "notes": [],
+     "items": [
+      {
+       "id": 1733,
+       "from_source": "hypnosis-imdb-list-full-oct25"
+      }
+     ],
+     "from_source": "hypnosis-imdb-list-full-oct25"
     }
    ],
    "declared_count_by_source": {
@@ -567100,7 +572180,7 @@ window.CATALOG = {
      "from_source": "deep-refresh-oct18"
     },
     {
-     "title": "IMDb list — Hypnotized Women in TV and Film (new titles, CSV rows 1-500)",
+     "title": "IMDb list — Hypnotized Women in TV and Film (new titles, CSV rows 1-625)",
      "notes": [],
      "items": [
       {
@@ -567109,6 +572189,10 @@ window.CATALOG = {
       },
       {
        "id": 3643,
+       "from_source": "hypnosis-imdb-list-full-oct25"
+      },
+      {
+       "id": 3689,
        "from_source": "hypnosis-imdb-list-full-oct25"
       },
       {
@@ -567121,6 +572205,14 @@ window.CATALOG = {
       },
       {
        "id": 3665,
+       "from_source": "hypnosis-imdb-list-full-oct25"
+      },
+      {
+       "id": 3688,
+       "from_source": "hypnosis-imdb-list-full-oct25"
+      },
+      {
+       "id": 3690,
        "from_source": "hypnosis-imdb-list-full-oct25"
       }
      ],
@@ -569744,6 +574836,16 @@ window.CATALOG = {
         "Mind control",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Ghostbusters_%28Animated_Series%29"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Ghostbusters_%281986_TV_series%29"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -570787,6 +575889,16 @@ window.CATALOG = {
         "Hypnotic gaze",
         "Medium · fan-wiki scene log; title/year confirmed on Wikipedia"
        ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Vampire_Academy_%282014_Movie%29"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Vampire_Academy_%28film%29"
+        }
+       ],
        "provenance": "Source basis: Worldwide hypnosis sweep (Sep 2026): Mental Block wiki category 'Hypnotized Female', screen media only, hypnosis or mesmerism tags or explicit hypnosis wording; teen/child-tagged pages excluded.",
        "entry_note": "Note: Outcome facts: pregnancy outcome: not pregnant.",
        "from_source": "xla62ucxbx02u5"
@@ -571482,7 +576594,7 @@ window.CATALOG = {
      "from_source": "deep-oct24"
     },
     {
-     "title": "IMDb list — Hypnotized Women in TV and Film (new titles, CSV rows 1-500)",
+     "title": "IMDb list — Hypnotized Women in TV and Film (new titles, CSV rows 1-625)",
      "notes": [],
      "items": [
       {
@@ -572766,6 +577878,28 @@ window.CATALOG = {
         "Control mechanism unstated",
         "High · Wikipedia season 7 episode list + character articles"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Pretty_Little_Liars_season_7"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Alison_DiLaurentis"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Emily_Fields"
+        },
+        {
+         "label": "SpoilerTV 7x10 review",
+         "url": "https://www.spoilertv.com/2016/08/pretty-little-liars-darkest-knight.html?m"
+        },
+        {
+         "label": "Refinery29 finale proposal",
+         "url": "https://www.refinery29.com/en-us/2017/06/161201/ali-emily-proposal-problem-pretty-little-liars-finale"
+        }
+       ],
        "provenance": "Source basis: Lesbian-couple pregnancy research pass, 30 Sep 2026 (adult couples only; non-explicit notes)",
        "entry_note": "Note: Outcome facts: pregnancy outcome: gives birth (twins); kids status: no. Intimacy-scene evidence (1 Oct 2026 sweep): 7x10 'The DArkest Knight' — Alison reveals the pregnancy and they kiss; in S7B they exchange 'I love yous' and become a couple while Alison is visibly pregnant; engaged in the series finale. Kiss-level only; no explicit sex scene documented. Confidence: MEDIUM-HIGH. Note: the pregnancy itself is a coercive backstory — Emily's eggs were non-consensually implanted in Alison by Archer/Elliot.",
        "from_source": "xla62ucxbx02u5"
@@ -572882,6 +578016,20 @@ window.CATALOG = {
         "Literal hypnosis",
         "Borderline"
        ],
+       "sources": [
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/The_Hypnotic_Eye"
+        },
+        {
+         "label": "Moria Reviews",
+         "url": "https://moriareviews.com/horror/hypnotic-eye-1960.htm"
+        },
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/The_Hypnotic_Eye"
+        }
+       ],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
       },
@@ -572985,6 +578133,16 @@ window.CATALOG = {
         "Other female hypnosis / mind control",
         "Demonic / occult control",
         "Research report · web-verified"
+       ],
+       "sources": [
+        {
+         "label": "Mental Block wiki",
+         "url": "https://mentalblock.miraheze.org/wiki/Candyman"
+        },
+        {
+         "label": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Candyman_%281992_film%29"
+        }
        ],
        "provenance": "Source basis: Wikipedia, IMDb, episode guides and entertainment press (research report, 29 Sep 2026).",
        "from_source": "xla62ucxbx02u5"
@@ -573766,7 +578924,7 @@ window.CATALOG = {
      "from_source": "deep-oct24"
     },
     {
-     "title": "IMDb list — Hypnotized Women in TV and Film (CSV rows 1-500)",
+     "title": "IMDb list — Hypnotized Women in TV and Film (CSV rows 1-625)",
      "notes": [],
      "items": [
       {
@@ -575016,7 +580174,7 @@ window.CATALOG = {
      "from_source": "deep-oct24"
     },
     {
-     "title": "IMDb list — Hypnotized Women in TV and Film (new titles, CSV rows 1-500)",
+     "title": "IMDb list — Hypnotized Women in TV and Film (new titles, CSV rows 1-625)",
      "notes": [],
      "items": [
       {
