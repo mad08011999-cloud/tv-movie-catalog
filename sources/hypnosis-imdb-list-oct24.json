@@ -1,8 +1,8 @@
 {
  "id": "hypnosis-imdb-list-oct24",
  "label": "IMDb list 'Hypnotized Women in TV and Film' (full CSV export, 25 Oct 2026)",
- "group_title": "IMDb list — Hypnotized Women in TV and Film (CSV rows 1-1250)",
- "description": "IMDb list ls099930129 by sleep-71052 (an actress per row, each noted with the production in which she is hypnotized, brainwashed, possessed or mind-controlled; the list does not separate those mechanisms). Source is the owner's CSV export (rows 1-1250 of 1,474 processed so far); live IMDb stays behind a WAF challenge, so each production was checked against its Wikipedia article instead. Existing catalog cards only receive the list as a source link and tag; new cards need a Wikipedia article that names the listed actress, a film/TV production, a matching year, an adult cast member and not a children's programme. Cards tagged imdb-list-only have the production and actress confirmed but no plot passage matching her role, so their hypnosis/possession/mind-control type and the wife/pregnancy/kids fields stay 'not stated'. Rows are listed under dropped (no unambiguous Wikipedia match) or excluded (minor at the time, children's/teen programme, actress not named in the matched article).",
+ "group_title": "IMDb list — Hypnotized Women in TV and Film (CSV rows 1-1375)",
+ "description": "IMDb list ls099930129 by sleep-71052 (an actress per row, each noted with the production in which she is hypnotized, brainwashed, possessed or mind-controlled; the list does not separate those mechanisms). Source is the owner's CSV export (rows 1-1375 of 1,474 processed so far); live IMDb stays behind a WAF challenge, so each production was checked against its Wikipedia article instead. Existing catalog cards only receive the list as a source link and tag; new cards need a Wikipedia article that names the listed actress, a film/TV production, a matching year, an adult cast member and not a children's programme. Cards tagged imdb-list-only have the production and actress confirmed but no plot passage matching her role, so their hypnosis/possession/mind-control type and the wife/pregnancy/kids fields stay 'not stated'. Rows are listed under dropped (no unambiguous Wikipedia match) or excluded (minor at the time, children's/teen programme, actress not named in the matched article).",
  "category_labels": {},
  "records": [
   {
@@ -3050,6 +3050,7 @@
   {
    "title": "The Dark Tapes",
    "actresses": [
+    "Anna Dahl",
     "Emilia Ares"
    ],
    "reason": "Wikipedia page 'The Dark Tapes' does not name the listed actress(es), so the title match is unconfirmed"
@@ -3570,6 +3571,420 @@
     "Nat Dixon"
    ],
    "reason": "Wikipedia page 'Crossroads' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "The Cloth",
+   "actresses": [
+    "Perla Rodríguez",
+    "Rachele Brooke Smith"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Nightmare Shark",
+   "actresses": [
+    "Rachele Brooke Smith"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Haiwaan",
+   "actresses": [
+    "Heli Daruwala",
+    "Ridhima Pandit"
+   ],
+   "reason": "Wikipedia page 'Haiwaan (film)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "WWE Money in the Bank 2021",
+   "actresses": [
+    "Thea Trinidad"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "La baronessa di Carini",
+   "actresses": [
+    "Vittoria Puccini"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Mi corazon insiste en Lola Volcan",
+   "actresses": [
+    "Carmen Villalobos"
+   ],
+   "reason": "Wikipedia match 'Mi corazón insiste en Lola Volcán' is not a film or TV production"
+  },
+  {
+   "title": "The Eternaut",
+   "actresses": [
+    "Mora Fisz"
+   ],
+   "reason": "Wikipedia page 'The Eternaut' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Wounds",
+   "actresses": [
+    "Dakota Johnson"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Cetnické humoresky",
+   "actresses": [
+    "Jitka Čvančarová"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Vicious Circles",
+   "actresses": [
+    "Carolyn Lowery"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Reel Hard",
+   "actresses": [
+    "Osmara Rojas"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Witch's Sabbath",
+   "actresses": [
+    "Christine Cowden"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "A Magia de Aruna",
+   "actresses": [
+    "Bianca Joy Porte"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Fear Therapy",
+   "actresses": [
+    "Cleo Pires"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Under the Dome",
+   "actresses": [
+    "Kylie Bunbury"
+   ],
+   "reason": "Wikipedia match 'Under the Dome (TV series)' is not a film or TV production"
+  },
+  {
+   "title": "Vyzhit Posle",
+   "actresses": [
+    "Anastasiya Chepelyuk"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Ash",
+   "actresses": [
+    "Eiza González"
+   ],
+   "reason": "Wikipedia page 'Ash (TV series)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Anomaly",
+   "actresses": [
+    "Lara Jean Mummert-Sullivan"
+   ],
+   "reason": "Wikipedia page 'Anomaly (natural sciences)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "The House Behind the Wall",
+   "actresses": [
+    "Elyse Dufour"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Marry F*** Kill",
+   "actresses": [
+    "Devin Cecchetto"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Midnight Tease",
+   "actresses": [
+    "Lisa Boyle"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Babylon 5: Crusade",
+   "actresses": [
+    "LuAnne Ponce"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Wednesday",
+   "actresses": [
+    "Catherine Zeta-Jones"
+   ],
+   "reason": "Wikipedia page 'Wednesday Addams' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "A Haunting in Salem",
+   "actresses": [
+    "Jenna Stone"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Hand of the Demon",
+   "actresses": [
+    "Jennifer Veal"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Crucible of the Vampire",
+   "actresses": [
+    "Katie Goldfinch"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Andhera",
+   "actresses": [
+    "Priya Bapat"
+   ],
+   "reason": "Wikipedia page 'Andhera Ujala' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Black Widow Black Widow",
+   "actresses": [
+    "Zhane Samuels"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Electra",
+   "actresses": [
+    "Shannon Tweed"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Possessed by the Night",
+   "actresses": [
+    "Shannon Tweed"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Dead Bride",
+   "actresses": [
+    "Jennifer Mischiati"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Plan",
+   "actresses": [
+    "Jennifer Mischiati"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Believer",
+   "actresses": [
+    "Ella Ballentine"
+   ],
+   "reason": "Wikipedia page 'Believer' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Dracula: The Series",
+   "actresses": [
+    "Véronique Prune"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Airwolf",
+   "actresses": [
+    "Freda Perry"
+   ],
+   "reason": "Wikipedia page 'Airwolf' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "The Invisible Doctor Mabuse",
+   "actresses": [
+    "Karin Dor"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Dwellers: The Curse of Pastor Stokes",
+   "actresses": [
+    "Stacey Giambastiani"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Command & Conquer: Yuri's Revenge",
+   "actresses": [
+    "Athena Massey"
+   ],
+   "reason": "Wikipedia match looked like a disambiguation/non-production page"
+  },
+  {
+   "title": "Blue Building Detectives",
+   "actresses": [
+    "Anna Sophia Folch"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Last Exorcist",
+   "actresses": [
+    "Terri Ivens"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Spirit Springs",
+   "actresses": [
+    "Avaryana Rose"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Sorority of the Damned",
+   "actresses": [
+    "Chelsea Jordan",
+    "Jaime Brightbill",
+    "Kaleina Cordova",
+    "Sydney Carvill"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "La croisière Foll'amour",
+   "actresses": [
+    "Babsie Steger",
+    "Isabelle Bouysse"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Shadow Man",
+   "actresses": [
+    "Lou Jurgens"
+   ],
+   "reason": "Wikipedia page 'Street of Shadows (1953 film)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Cyborg X",
+   "actresses": [
+    "Aubrey Reynolds"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Nosferatu: A Symphony of Horror",
+   "actresses": [
+    "Sarah Carter"
+   ],
+   "reason": "Wikipedia page 'Nosferatu' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Soul to Keep",
+   "actresses": [
+    "Kate Rose Reynolds"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Nun's Deadly Confession",
+   "actresses": [
+    "Karoly Bieganowski"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Alfred Hitchcock Presents",
+   "actresses": [
+    "Barbara Hershey"
+   ],
+   "reason": "Wikipedia page 'Alfred Hitchcock Presents' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Milgram and the Fastwalkers",
+   "actresses": [
+    "Walker Hays"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Curse of the Lady Mummy",
+   "actresses": [
+    "Aria Song",
+    "Lisa Palenica"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Starsky and Hutch",
+   "actresses": [
+    "Heather MacRae"
+   ],
+   "reason": "Wikipedia page 'Starsky & Hutch (film)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Haunted Sea",
+   "actresses": [
+    "Krista Allen"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Unearthed: The Curse of Nephthys",
+   "actresses": [
+    "Tessa Gardenier"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Fall of Grace",
+   "actresses": [
+    "Sheri Davis"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Pledges",
+   "actresses": [
+    "Ren Montoro"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "YouTube Assassin",
+   "actresses": [
+    "Jess Lizama",
+    "Olga Kay"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Off the Rails",
+   "actresses": [
+    "Hannah Barefoot"
+   ],
+   "reason": "Wikipedia page 'Off the Rails (2016 film)' does not name the listed actress(es), so the title match is unconfirmed"
   }
  ],
  "excluded": [
@@ -3692,6 +4107,11 @@
    "title": "Scooby Doo",
    "actress": "Linda Cardellini",
    "reason": "minor at production (birth 1975, production year ~1969)"
+  },
+  {
+   "title": "Poltergeist: The Legacy",
+   "actress": "Crystal Chappell",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
    "title": "Lie to Me",
@@ -4619,6 +5039,11 @@
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
+   "title": "The Dark Tapes",
+   "actress": "Anna Dahl",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
    "title": "H2O: Just Add Water",
    "actress": "Cariba Heine, Claire Holt, Phoebe Tonkin",
    "reason": "children's programme per Wikipedia categories"
@@ -4726,6 +5151,96 @@
   {
    "title": "Cross",
    "actress": "Nat Dixon",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Liv and Maddie",
+   "actress": "Dove Cameron",
+   "reason": "children's programme per Wikipedia categories"
+  },
+  {
+   "title": "Haiwaan",
+   "actress": "Ridhima Pandit",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Haiwaan",
+   "actress": "Heli Daruwala",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "The Eternaut",
+   "actress": "Mora Fisz",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Up, Up, and Away!",
+   "actress": "Nancy Sorel",
+   "reason": "children's programme per Wikipedia categories"
+  },
+  {
+   "title": "Ash",
+   "actress": "Eiza González",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Olho no Olho",
+   "actress": "Patrícia de Sabrit",
+   "reason": "minor at production (birth year vs card year 1993)"
+  },
+  {
+   "title": "Anomaly",
+   "actress": "Lara Jean Mummert-Sullivan",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Wednesday",
+   "actress": "Catherine Zeta-Jones",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Andhera",
+   "actress": "Priya Bapat",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Believer",
+   "actress": "Ella Ballentine",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Airwolf",
+   "actress": "Freda Perry",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Shoebox Zoo",
+   "actress": "Natascha Girgis",
+   "reason": "children's programme per Wikipedia categories"
+  },
+  {
+   "title": "The Shadow Man",
+   "actress": "Lou Jurgens",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Nosferatu: A Symphony of Horror",
+   "actress": "Sarah Carter",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Alfred Hitchcock Presents",
+   "actress": "Barbara Hershey",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Starsky and Hutch",
+   "actress": "Heather MacRae",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Off the Rails",
+   "actress": "Hannah Barefoot",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   }
  ],
@@ -4864,6 +5379,11 @@
    "title": "The Flash",
    "basis": "year hint 1990",
    "card_id": 1232
+  },
+  {
+   "title": "The Hunger",
+   "basis": "year 1997",
+   "card_id": 1345
   }
  ],
  "ambiguous_new_cards": [
@@ -4894,16 +5414,17 @@
   "The Wizard of Gore",
   "Resident Evil",
   "Wonder Woman",
-  "Psi Factor: Chronicles of the Paranormal"
+  "Psi Factor: Chronicles of the Paranormal",
+  "Alfred Hitchcock Presents"
  ],
  "stats": {
-  "csv_rows": 1250,
-  "items": 1381,
-  "groups": 859,
-  "links": 381,
+  "csv_rows": 1375,
+  "items": 1514,
+  "groups": 956,
+  "links": 409,
   "old_source_records": 61,
-  "new": 105,
-  "dropped": 328,
-  "excluded": 231
+  "new": 112,
+  "dropped": 386,
+  "excluded": 251
  }
 }
