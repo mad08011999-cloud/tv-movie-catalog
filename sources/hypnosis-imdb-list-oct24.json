@@ -1,8 +1,8 @@
 {
  "id": "hypnosis-imdb-list-oct24",
  "label": "IMDb list 'Hypnotized Women in TV and Film' (full CSV export, 25 Oct 2026)",
- "group_title": "IMDb list — Hypnotized Women in TV and Film (CSV rows 1-750)",
- "description": "IMDb list ls099930129 by sleep-71052 (an actress per row, each noted with the production in which she is hypnotized, brainwashed, possessed or mind-controlled; the list does not separate those mechanisms). Source is the owner's CSV export (rows 1-750 of 1,474 processed so far); live IMDb stays behind a WAF challenge, so each production was checked against its Wikipedia article instead. Existing catalog cards only receive the list as a source link and tag; new cards need a Wikipedia article that names the listed actress, a film/TV production, a matching year, an adult cast member and not a children's programme. Cards tagged imdb-list-only have the production and actress confirmed but no plot passage matching her role, so their hypnosis/possession/mind-control type and the wife/pregnancy/kids fields stay 'not stated'. Rows are listed under dropped (no unambiguous Wikipedia match) or excluded (minor at the time, children's/teen programme, actress not named in the matched article).",
+ "group_title": "IMDb list — Hypnotized Women in TV and Film (CSV rows 1-875)",
+ "description": "IMDb list ls099930129 by sleep-71052 (an actress per row, each noted with the production in which she is hypnotized, brainwashed, possessed or mind-controlled; the list does not separate those mechanisms). Source is the owner's CSV export (rows 1-875 of 1,474 processed so far); live IMDb stays behind a WAF challenge, so each production was checked against its Wikipedia article instead. Existing catalog cards only receive the list as a source link and tag; new cards need a Wikipedia article that names the listed actress, a film/TV production, a matching year, an adult cast member and not a children's programme. Cards tagged imdb-list-only have the production and actress confirmed but no plot passage matching her role, so their hypnosis/possession/mind-control type and the wife/pregnancy/kids fields stay 'not stated'. Rows are listed under dropped (no unambiguous Wikipedia match) or excluded (minor at the time, children's/teen programme, actress not named in the matched article).",
  "category_labels": {},
  "records": [
   {
@@ -1182,6 +1182,7 @@
   {
    "title": "One of Us",
    "actresses": [
+    "Chasty Ballesteros",
     "Christa B. Allen"
    ],
    "reason": "Wikipedia page 'One of Us (TV series)' does not name the listed actress(es), so the title match is unconfirmed"
@@ -1376,6 +1377,7 @@
   {
    "title": "Agent Revelation",
    "actresses": [
+    "Carole Weyers",
     "Marikah Baran"
    ],
    "reason": "no matching Wikipedia article found"
@@ -1453,7 +1455,8 @@
    "actresses": [
     "Danielle Panabaker",
     "Jessica Camacho",
-    "Jessica Parker Kennedy"
+    "Jessica Parker Kennedy",
+    "Katherine McNamara"
    ],
    "reason": "Wikipedia page 'The Flash (film)' does not name the listed actress(es), so the title match is unconfirmed"
   },
@@ -1548,7 +1551,8 @@
   {
    "title": "Tamara",
    "actresses": [
-    "Jenna Dewan"
+    "Jenna Dewan",
+    "Melissa Marie Elias"
    ],
    "reason": "Wikipedia page 'Tamara Tunie' does not name the listed actress(es), so the title match is unconfirmed"
   },
@@ -1622,7 +1626,8 @@
   {
    "title": "Ghost of Goodnight Lane",
    "actresses": [
-    "Danielle Harris"
+    "Danielle Harris",
+    "Taylor Tippins"
    ],
    "reason": "no matching Wikipedia article found"
   },
@@ -1665,6 +1670,7 @@
   {
    "title": "Mummy Reborn",
    "actresses": [
+    "Georgia Wood",
     "Mika Hockman"
    ],
    "reason": "no matching Wikipedia article found"
@@ -1930,13 +1936,6 @@
    "reason": "Wikipedia page 'Earth: Final Conflict' does not name the listed actress(es), so the title match is unconfirmed"
   },
   {
-   "title": "Debris",
-   "actresses": [
-    "Amanda Marier"
-   ],
-   "reason": "Wikipedia page 'Debris (TV series)' does not name the listed actress(es), so the title match is unconfirmed"
-  },
-  {
    "title": "The Metropolitan Police Branch 82: Rebirth",
    "actresses": [
     "Kumiko Hara",
@@ -2063,7 +2062,8 @@
    "title": "Dollhouse",
    "actresses": [
     "Dichen Lachman",
-    "Eliza Dushku"
+    "Eliza Dushku",
+    "Miracle Laurie"
    ],
    "reason": "Wikipedia page 'Dollhouse' does not name the listed actress(es), so the title match is unconfirmed"
   },
@@ -2240,6 +2240,7 @@
   {
    "title": "Neron",
    "actresses": [
+    "Caite Upton",
     "Jamie Morgan"
    ],
    "reason": "no matching Wikipedia article found"
@@ -2348,7 +2349,8 @@
   {
    "title": "Sniegu juz nigdy nie bedzie",
    "actresses": [
-    "Maja Ostaszewska"
+    "Maja Ostaszewska",
+    "Weronika Rosati"
    ],
    "reason": "no matching Wikipedia article found"
   },
@@ -2402,6 +2404,288 @@
     "Paige Turco"
    ],
    "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Love Me as I Am",
+   "actresses": [
+    "Carly Brooke"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Snowpiercer (2020)",
+   "actresses": [
+    "Jennifer Connelly"
+   ],
+   "reason": "Wikipedia match 'Snowpiercer (TV series)' is not a film or TV production"
+  },
+  {
+   "title": "Etoile",
+   "actresses": [
+    "Jennifer Connelly"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Cleansing Hour",
+   "actresses": [
+    "Danielle Langlois",
+    "Heather Elizabeth Morris",
+    "Teala Dunn"
+   ],
+   "reason": "Wikipedia page 'The Cleansing Hour' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "The Hazing (2004)",
+   "actresses": [
+    "Tiffany Shepis"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Cleansing Hour (2019)",
+   "actresses": [
+    "Alix Angelis"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The First Power",
+   "actresses": [
+    "Tracy Griffith"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Devil's Playthings",
+   "actresses": [
+    "Megan Therese Rippey"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Paranormal Whacktivity",
+   "actresses": [
+    "Sasha Formoso"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Skin Creepers",
+   "actresses": [
+    "Barbara Prakopenka"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Devil in Me",
+   "actresses": [
+    "Michelle Argyris"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "I Know You're in There",
+   "actresses": [
+    "Wyoh Lee"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Candy Stripers",
+   "actresses": [
+    "Eliza Swenson"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Exorcism of Karen Walker",
+   "actresses": [
+    "Denise Moreno"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Lesbian Vampire Killers",
+   "actresses": [
+    "MyAnna Buring"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Red Mist",
+   "actresses": [
+    "MyAnna Buring"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Lost",
+   "actresses": [
+    "Emilie de Ravin"
+   ],
+   "reason": "Wikipedia page 'Lost' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Snake Club",
+   "actresses": [
+    "Veronica Ricci"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Lizzie Borden's Revenge",
+   "actresses": [
+    "Veronica Ricci"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Mummy Resurgence",
+   "actresses": [
+    "Amanda-Jade Tyler"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Advanced Guard",
+   "actresses": [
+    "Clare Salstrom"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Nachtwacht",
+   "actresses": [
+    "Celine Verbeeck"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Mind Twister",
+   "actresses": [
+    "Suzee Slater"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Stargirl",
+   "actresses": [
+    "Amy Smart"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Black Friday",
+   "actresses": [
+    "Kim Whalen"
+   ],
+   "reason": "Wikipedia match looked like a disambiguation/non-production page"
+  },
+  {
+   "title": "Pantera",
+   "actresses": [
+    "Ekaterina Vilkova"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Dark Skies",
+   "actresses": [
+    "Megan Ward"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Fear Street: Part 1",
+   "actresses": [
+    "Olivia Scott Welch"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Fear Street",
+   "actresses": [
+    "Olivia Scott Welch"
+   ],
+   "reason": "Wikipedia match 'Fear Street' is not a film or TV production"
+  },
+  {
+   "title": "Part 3",
+   "actresses": [
+    "Olivia Scott Welch"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Command & Conquer: Red Alert 2",
+   "actresses": [
+    "Kari Wuhrer"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Kept Woman",
+   "actresses": [
+    "Rachel Wilson"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Kingsman: The Secret Service",
+   "actresses": [
+    "Samantha Womack"
+   ],
+   "reason": "Wikipedia match 'Kingsman: The Secret Service' is not a film or TV production"
+  },
+  {
+   "title": "Deadly Instincts",
+   "actresses": [
+    "Samantha Womack"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "L'Appart du 5e",
+   "actresses": [
+    "Cynthia Wu-Maheux"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "True Blood",
+   "actresses": [
+    "Anastasia Ganias"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "The Wonderful World of Hunter Wood",
+   "actresses": [
+    "Jacqueline Vené"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Pandora",
+   "actresses": [
+    "Banita Sandhu"
+   ],
+   "reason": "Wikipedia page 'Pandora's box (disambiguation)' does not name the listed actress(es), so the title match is unconfirmed"
+  },
+  {
+   "title": "Hunting the Phantom",
+   "actresses": [
+    "Asel Sagatova"
+   ],
+   "reason": "no matching Wikipedia article found"
+  },
+  {
+   "title": "Super Detention",
+   "actresses": [
+    "Jessica Vano"
+   ],
+   "reason": "no matching Wikipedia article found"
   }
  ],
  "excluded": [
@@ -2442,6 +2726,11 @@
   },
   {
    "title": "Charmed",
+   "actress": "Sara Thompson",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Charmed",
    "actress": "Natalie Hall",
    "reason": "minor at production (birth 1990, production year ~1998)"
   },
@@ -2468,6 +2757,11 @@
   {
    "title": "One of Us",
    "actress": "Christa B. Allen",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "One of Us",
+   "actress": "Chasty Ballesteros",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
@@ -2518,6 +2812,11 @@
   {
    "title": "Mujhse Shaadi Karogi",
    "actress": "Priyanka Chopra Jonas",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Superman and Lois",
+   "actress": "Leeah Wong",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
@@ -2686,6 +2985,11 @@
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
+   "title": "The Flash",
+   "actress": "Katherine McNamara",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
    "title": "PSI Factor",
    "actress": "Robin Brûlé",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
@@ -2783,6 +3087,11 @@
   {
    "title": "Tamara",
    "actress": "Jenna Dewan",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Tamara",
+   "actress": "Melissa Marie Elias",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
@@ -3081,6 +3390,11 @@
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
+   "title": "Dollhouse",
+   "actress": "Miracle Laurie",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
    "title": "Alien Abduction",
    "actress": "Darcy DeMoss",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
@@ -3146,8 +3460,68 @@
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   },
   {
+   "title": "Private Eyes",
+   "actress": "Tara Yelland",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
    "title": "Vessel",
    "actress": "Julie Mintz",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "The Alienist",
+   "actress": "Dakota Fanning",
+   "reason": "minor at production (birth year vs card year 1994)"
+  },
+  {
+   "title": "The Cleansing Hour",
+   "actress": "Heather Elizabeth Morris",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "The Cleansing Hour",
+   "actress": "Danielle Langlois",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "The Cleansing Hour",
+   "actress": "Teala Dunn",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Heroes",
+   "actress": "Hayden Panettiere",
+   "reason": "minor at production (birth year vs card year 2006)"
+  },
+  {
+   "title": "The Young and the Restless",
+   "actress": "Jessica Heap",
+   "reason": "minor at production (birth year vs card year 1973)"
+  },
+  {
+   "title": "Lost",
+   "actress": "Emilie de Ravin",
+   "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
+  },
+  {
+   "title": "Verbotene Liebe",
+   "actress": "Jana Schölermann",
+   "reason": "minor at production (birth year vs card year 1995)"
+  },
+  {
+   "title": "Mythica: The Iron Crown",
+   "actress": "Paris Warner",
+   "reason": "minor at production (birth year vs card year 2016)"
+  },
+  {
+   "title": "Wendy Wu: Homecoming Warrior",
+   "actress": "Ellen Woglom",
+   "reason": "children's programme per Wikipedia categories"
+  },
+  {
+   "title": "Pandora",
+   "actress": "Banita Sandhu",
    "reason": "actress not named in the matched Wikipedia article (identity of the production not confirmed)"
   }
  ],
@@ -3266,6 +3640,11 @@
    "title": "Fright Night",
    "basis": "year hint 1985",
    "card_id": 631
+  },
+  {
+   "title": "The Young and the Restless",
+   "basis": "year 1973",
+   "card_id": 1957
   }
  ],
  "ambiguous_new_cards": [
@@ -3290,16 +3669,17 @@
   "The Demon Headmaster",
   "Dollhouse",
   "Tales from the Crypt",
-  "The 100"
+  "The 100",
+  "True Blood"
  ],
  "stats": {
-  "csv_rows": 750,
-  "items": 852,
-  "groups": 540,
-  "links": 277,
+  "csv_rows": 875,
+  "items": 992,
+  "groups": 615,
+  "links": 295,
   "old_source_records": 61,
-  "new": 60,
-  "dropped": 170,
-  "excluded": 149
+  "new": 73,
+  "dropped": 209,
+  "excluded": 167
  }
 }
