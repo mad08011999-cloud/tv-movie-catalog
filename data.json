@@ -5562,6 +5562,24 @@
     "ok": true
    },
    "status": "local"
+  },
+  {
+   "id": "imdb-pregnant-oct25",
+   "label": "IMDb parents-guide pregnant sex-scene check (25 Oct 2026)",
+   "kind": "local",
+   "share_url": "sources/imdb-pregnant-oct25.json",
+   "description": "Titles whose IMDb parents guide (read in the signed-in box browser, no login bypass) describes sex with a visibly pregnant adult character. Adults only; descriptions are non-explicit.",
+   "dropped": [
+    "Annette (2021): already in the catalog (pregnant-sex) with the same IMDb parents-guide source, so not re-added",
+    "The Dawn Rapists (1978): adolescent characters and rape, excluded",
+    "Hanger, Knocked Up, A Happy Event, Ogres, Gourmet, Princess, The Guard S2.E9: parents guide did not clearly describe a pregnant sex scene",
+    "My King (2015): non-sexual nudity only"
+   ],
+   "check": {
+    "raw_count": 1,
+    "ok": true
+   },
+   "status": "local"
   }
  ],
  "raw_counts": {
@@ -5636,9 +5654,10 @@
   "pregnant-intimate-oct25": 28,
   "pregnant-scenes-oct25": 9,
   "hypnosis-deep-oct25c": 18,
-  "hypno-kids-witness-oct25": 14
+  "hypno-kids-witness-oct25": 14,
+  "imdb-pregnant-oct25": 1
  },
- "raw_total": 6591,
+ "raw_total": 6592,
  "entry_count": 3493,
  "categories": [
   {
@@ -5957,7 +5976,7 @@
    "key": "pregnant-sex",
    "label": "Pregnant characters having sex",
    "legend_label": "Pregnant characters having sex",
-   "entry_count": 72
+   "entry_count": 73
   },
   {
    "key": "pregnant-female",
@@ -42151,12 +42170,17 @@
    "confidence_flag": "High confidence · index-verified",
    "summary": "Mary Elizabeth wakes up pregnant and is possessed or controlled by her demon fetus, which drives her to murder. One review states that Asmodeus controls her through the baby. Pregnant-child category detail: Mary Elizabeth is possessed by the demon fetus growing in her womb; it fills her head with cravings to kill, and she obeys the overwhelming force.",
    "character": "",
-   "provenance": "",
+   "provenance": "IMDb parents-guide check, 25 Oct 2026 PT",
    "note": "",
+   "pregnant_has_children": "no (21-year-old virgin at the start)",
+   "kids_status": "no",
+   "kids_together": "unknown (no couple; the sex partner is a one-off)",
+   "pregnant_end": "unknown (the demon fetus closes her womb after an attempted abortion; outcome not clearly stated)",
    "format": "movie",
    "categories": [
     "pregnancy-evil",
-    "pregnant-child"
+    "pregnant-child",
+    "pregnant-sex"
    ],
    "sources": [
     {
@@ -42178,17 +42202,27 @@
     {
      "label": "FilmAffinity",
      "url": "https://www.filmaffinity.com/en/film745279.html"
+    },
+    {
+     "label": "IMDb parents guide",
+     "url": "https://www.imdb.com/title/tt0852940/parentalguide/"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0852940/"
     }
    ],
    "youtube_ids": [],
    "from_sources": [
     "xla62ucxbx02u5",
-    "ig6qlxqxoxvcxla"
+    "ig6qlxqxoxvcxla",
+    "imdb-pregnant-oct25"
    ],
    "source_records": [
     "xla62ucxbx02u5:150",
     "ig6qlxqxoxvcxla:842",
-    "ig6qlxqxoxvcxla:898"
+    "ig6qlxqxoxvcxla:898",
+    "imdb-pregnant-oct25:1"
    ],
    "index_only": false,
    "local_only": false,
@@ -42285,6 +42319,46 @@
      "distinct_story": false,
      "index_title": "Born (2007)",
      "matched_by": "title+year"
+    },
+    {
+     "rid": "imdb-pregnant-oct25:1",
+     "source": "imdb-pregnant-oct25",
+     "label": "Born (2007)",
+     "identifiers": [
+      "year/date"
+     ],
+     "title": "Born",
+     "subtitle": "",
+     "year": "2007",
+     "meta": "Film · United States · English · horror",
+     "summary": "Horror film in which Mary Elizabeth, a 21-year-old virgin, wakes up impossibly pregnant and is progressively possessed by her demon fetus. IMDb's parents guide records a scene in which a man has sex with her while she is pregnant, from behind and then with her on top; JoBlo's review describes the same scene as rough sex with the pregnant, possessed woman. She has no children before the story (a virgin at 21); there is no couple, as the sex partner is a one-off victim. Ending: her father tries to abort the baby, the CG demon fetus overpowers him and closes her womb, so whether she remains pregnant at the end is not clearly stated.",
+     "character": "Mary Elizabeth (Alison Brie)",
+     "note": "Sex scene confirmed by IMDb's parents guide (character described as 21, so adult). Already in the catalog as a demon-fetus possession entry; this adds the pregnant sex-scene fit.",
+     "mechanism": "Sex scene while visibly pregnant",
+     "confidence_flag": "Verified",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "sources": [
+      {
+       "label": "IMDb parents guide",
+       "url": "https://www.imdb.com/title/tt0852940/parentalguide/"
+      },
+      {
+       "label": "JoBlo",
+       "url": "https://www.joblo.com/awfully-good-born/"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0852940/"
+      }
+     ],
+     "pregnant_has_children": "no (21-year-old virgin at the start)",
+     "kids_status": "no",
+     "kids_together": "unknown (no couple; the sex partner is a one-off)",
+     "pregnant_end": "unknown (the demon fetus closes her womb after an attempted abortion; outcome not clearly stated)",
+     "distinct_story": true,
+     "matched_by": "same title+year"
     }
    ],
    "raw": {
@@ -42338,8 +42412,46 @@
      "group": "High-confidence direct control / possession",
      "confidence": "High confidence",
      "note": ""
+    },
+    "imdb-pregnant-oct25:1": {
+     "title": "Born",
+     "year": "2007",
+     "format": "movie",
+     "meta": "Film · United States · English · horror",
+     "categories": [
+      "pregnant-sex"
+     ],
+     "group": "Pregnant characters having sex",
+     "mechanism": "Sex scene while visibly pregnant",
+     "character": "Mary Elizabeth (Alison Brie)",
+     "summary": "Horror film in which Mary Elizabeth, a 21-year-old virgin, wakes up impossibly pregnant and is progressively possessed by her demon fetus. IMDb's parents guide records a scene in which a man has sex with her while she is pregnant, from behind and then with her on top; JoBlo's review describes the same scene as rough sex with the pregnant, possessed woman. She has no children before the story (a virgin at 21); there is no couple, as the sex partner is a one-off victim. Ending: her father tries to abort the baby, the CG demon fetus overpowers him and closes her womb, so whether she remains pregnant at the end is not clearly stated.",
+     "pregnant_has_children": "no (21-year-old virgin at the start)",
+     "kids_status": "no",
+     "kids_together": "unknown (no couple; the sex partner is a one-off)",
+     "pregnant_end": "unknown (the demon fetus closes her womb after an attempted abortion; outcome not clearly stated)",
+     "confidence_flag": "Verified",
+     "note": "Sex scene confirmed by IMDb's parents guide (character described as 21, so adult). Already in the catalog as a demon-fetus possession entry; this adds the pregnant sex-scene fit.",
+     "provenance": "IMDb parents-guide check, 25 Oct 2026 PT",
+     "sources": [
+      {
+       "label": "IMDb parents guide",
+       "url": "https://www.imdb.com/title/tt0852940/parentalguide/"
+      },
+      {
+       "label": "JoBlo",
+       "url": "https://www.joblo.com/awfully-good-born/"
+      },
+      {
+       "label": "IMDb",
+       "url": "https://www.imdb.com/title/tt0852940/"
+      }
+     ],
+     "standalone": true
     }
-   }
+   },
+   "retired_ids": [
+    3633
+   ]
   },
   {
    "id": 150,
@@ -545215,7 +545327,8 @@
     "lesbian-pregnancy",
     "round2",
     "pregnant-intimate-oct25",
-    "pregnant-scenes-oct25"
+    "pregnant-scenes-oct25",
+    "imdb-pregnant-oct25"
    ],
    "groups": [
     {
@@ -545920,6 +546033,10 @@
      "notes": [],
      "items": [
       {
+       "id": 149,
+       "from_source": "imdb-pregnant-oct25"
+      },
+      {
        "id": 3596,
        "from_source": "pregnant-scenes-oct25"
       }
@@ -545960,7 +546077,8 @@
     "lesbian-pregnancy": null,
     "round2": null,
     "pregnant-intimate-oct25": null,
-    "pregnant-scenes-oct25": null
+    "pregnant-scenes-oct25": null,
+    "imdb-pregnant-oct25": null
    }
   },
   {
@@ -547498,6 +547616,28 @@
         "Demon-fetus possession",
         "High confidence · index-verified"
        ],
+       "sources": [
+        {
+         "label": "FilmAffinity",
+         "url": "https://www.filmaffinity.com/us/film745279.html"
+        },
+        {
+         "label": "ComingSoon",
+         "url": "https://www.comingsoon.net/horror/news/713897-born"
+        },
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0852940"
+        },
+        {
+         "label": "JoBlo",
+         "url": "https://www.joblo.com/awfully-good-born/"
+        },
+        {
+         "label": "FilmAffinity",
+         "url": "https://www.filmaffinity.com/en/film745279.html"
+        }
+       ],
        "from_source": "xla62ucxbx02u5"
       },
       {
@@ -548877,6 +549017,28 @@
         "Pregnant woman hypnotized / mind-controlled by a child (fetus, dead-child ghost, or alien child)",
         "Demon-fetus possession",
         "High confidence · index-verified"
+       ],
+       "sources": [
+        {
+         "label": "FilmAffinity",
+         "url": "https://www.filmaffinity.com/us/film745279.html"
+        },
+        {
+         "label": "ComingSoon",
+         "url": "https://www.comingsoon.net/horror/news/713897-born"
+        },
+        {
+         "label": "IMDb",
+         "url": "https://www.imdb.com/title/tt0852940"
+        },
+        {
+         "label": "JoBlo",
+         "url": "https://www.joblo.com/awfully-good-born/"
+        },
+        {
+         "label": "FilmAffinity",
+         "url": "https://www.filmaffinity.com/en/film745279.html"
+        }
        ],
        "from_source": "xla62ucxbx02u5"
       },

@@ -1,0 +1,49 @@
+{
+ "id": "imdb-pregnant-oct25",
+ "label": "IMDb parents-guide pregnant sex-scene check (25 Oct 2026)",
+ "group_title": "IMDb parents-guide pregnant sex-scene check (Oct 2026)",
+ "description": "Titles whose IMDb parents guide (read in the signed-in box browser, no login bypass) describes sex with a visibly pregnant adult character. Adults only; descriptions are non-explicit.",
+ "dropped": [
+  "Annette (2021): already in the catalog (pregnant-sex) with the same IMDb parents-guide source, so not re-added",
+  "The Dawn Rapists (1978): adolescent characters and rape, excluded",
+  "Hanger, Knocked Up, A Happy Event, Ogres, Gourmet, Princess, The Guard S2.E9: parents guide did not clearly describe a pregnant sex scene",
+  "My King (2015): non-sexual nudity only"
+ ],
+ "records": [
+  {
+   "title": "Born",
+   "year": "2007",
+   "format": "movie",
+   "meta": "Film · United States · English · horror",
+   "categories": [
+    "pregnant-sex"
+   ],
+   "group": "Pregnant characters having sex",
+   "mechanism": "Sex scene while visibly pregnant",
+   "character": "Mary Elizabeth (Alison Brie)",
+   "summary": "Horror film in which Mary Elizabeth, a 21-year-old virgin, wakes up impossibly pregnant and is progressively possessed by her demon fetus. IMDb's parents guide records a scene in which a man has sex with her while she is pregnant, from behind and then with her on top; JoBlo's review describes the same scene as rough sex with the pregnant, possessed woman. She has no children before the story (a virgin at 21); there is no couple, as the sex partner is a one-off victim. Ending: her father tries to abort the baby, the CG demon fetus overpowers him and closes her womb, so whether she remains pregnant at the end is not clearly stated.",
+   "pregnant_has_children": "no (21-year-old virgin at the start)",
+   "kids_status": "no",
+   "kids_together": "unknown (no couple; the sex partner is a one-off)",
+   "pregnant_end": "unknown (the demon fetus closes her womb after an attempted abortion; outcome not clearly stated)",
+   "confidence_flag": "Verified",
+   "note": "Sex scene confirmed by IMDb's parents guide (character described as 21, so adult). Already in the catalog as a demon-fetus possession entry; this adds the pregnant sex-scene fit.",
+   "provenance": "IMDb parents-guide check, 25 Oct 2026 PT",
+   "sources": [
+    {
+     "label": "IMDb parents guide",
+     "url": "https://www.imdb.com/title/tt0852940/parentalguide/"
+    },
+    {
+     "label": "JoBlo",
+     "url": "https://www.joblo.com/awfully-good-born/"
+    },
+    {
+     "label": "IMDb",
+     "url": "https://www.imdb.com/title/tt0852940/"
+    }
+   ],
+   "standalone": true
+  }
+ ]
+}
